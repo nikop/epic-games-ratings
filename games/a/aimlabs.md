@@ -4,13 +4,13 @@
 Rating: 4.61 (Ranked 406)  
 ## Awards
 Max (Great for Quick Sessions): 130  (Ranked 366)  
-Sum: 843 (Ranked 299)  
+Sum: 844 (Ranked 299)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 130 |
 | This game is Great for Beginners | 128 |
-| This game is Educational | 107 |
+| This game is Educational | 108 |
 | This game has Competitive Players | 91 |
 | This game is Highly Recommended | 88 |
 | This game has Quickly Understood Controls | 83 |
@@ -254,4 +254,4 @@ Diff (max vs sum): 67
 | 2024-03-07 | 4.60 | 125 | 902 |
 | 2024-03-08 | 4.60 | 128 | 903 |
 | 2024-03-09 | 4.61 | 130 | 840 |
-| 2024-03-10 | 4.61 | 130 | 843 |
+| 2024-03-10 | 4.61 | 130 | 844 |

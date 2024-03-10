@@ -4,12 +4,12 @@
 Rating: 4.58 (Ranked 479)  
 ## Awards
 Max (Great Boss Battles): 203  (Ranked 315)  
-Sum: 225 (Ranked 432)  
+Sum: 226 (Ranked 432)  
 Diff (max vs sum): -117  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 203 |
-| This game has Amazing Characters | 22 |
+| This game has Amazing Characters | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -168,3 +168,4 @@ Diff (max vs sum): -117
 | 2024-03-05 | 4.58 | 198 | 220 |
 | 2024-03-07 | 4.58 | 199 | 221 |
 | 2024-03-09 | 4.58 | 203 | 225 |
+| 2024-03-10 | 4.58 | 203 | 226 |
