@@ -2,7 +2,7 @@
   "ID": "4492ce99b4124b74a0bb83f78b3d70b8",
   "Name": "For The King",
   "ProductSlug": "for-the-king",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 896,
@@ -4459,10 +4459,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 3187,
       "NumberOfAwardsMax": 442
+    },
+    {
+      "Time": "2024-03-10T05:58:09.6630312+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 3188,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3187,
+  "NumberOfAwards": 3188,
   "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4506,7 +4512,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 318
+      "Count": 319
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4538,8 +4544,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2024-03-09T22:59:11.3319075+00:00",
+  "LastChanged": "2024-03-10T05:58:09.6630311+00:00",
   "LastUpdate_AppInfo": "2024-03-03T05:58:12.97683+00:00",
-  "LastUpdate_Ratings": "2024-03-10T04:00:04.0350696+00:00",
+  "LastUpdate_Ratings": "2024-03-10T05:58:09.6630315+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:53.1623113+00:00"
 }
