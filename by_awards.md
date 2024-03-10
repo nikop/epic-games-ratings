@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 157,391 | 4.51 | 613 |
 | 8 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 155,243 | 4.68 | 274 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 129,180 | 4.69 | 243 |
-| 10 | [VALORANT](games/v/valorant.md) | 104,095 | 4.51 | 613 |
+| 10 | [VALORANT](games/v/valorant.md) | 104,399 | 4.51 | 613 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 69,583 | 4.45 | 710 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,441 | 4.58 | 478 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 57,281 | 4.61 | 406 |
@@ -71,7 +71,7 @@
 | 69 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 6,642 | 4.67 | 292 |
 | 70 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,596 | 4.76 | 137 |
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,515 | 4.80 | 93 |
-| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,359 | 4.78 | 112 |
+| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,362 | 4.78 | 112 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,173 | 4.66 | 312 |
 | 74 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,069 | 4.64 | 351 |
 | 75 | [Rogue Company](games/r/rogue_company.md) | 6,054 | 4.29 | 911 |
@@ -92,10 +92,10 @@
 | 90 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,595 | 4.36 | 842 |
 | 91 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,503 | 4.68 | 274 |
 | 92 | [Days Gone](games/d/days_gone.md) | 4,440 | 4.68 | 274 |
-| 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,289 | 4.46 | 693 |
+| 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,292 | 4.46 | 693 |
 | 94 | [Paladins](games/p/paladins.md) | 4,214 | 4.32 | 887 |
 | 95 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,190 | 4.51 | 613 |
-| 96 | [The Sims™ 4](games/t/the_sims™_4.md) | 4,142 | 4.62 | 390 |
+| 96 | [The Sims™ 4](games/t/the_sims™_4.md) | 4,183 | 4.62 | 390 |
 | 97 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4,047 | 4.26 | 945 |
 | 98 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,676 | 4.67 | 292 |
 | 99 | [Hades](games/h/hades.md) | 3,675 | 4.92 | 4 |
@@ -118,8 +118,8 @@
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,360 | 4.76 | 137 |
 | 117 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,358 | 4.67 | 292 |
 | 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,322 | 4.81 | 80 |
-| 119 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,274 | 4.55 | 547 |
-| 119 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,274 | 4.41 | 774 |
+| 119 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,275 | 4.41 | 774 |
+| 120 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,274 | 4.55 | 547 |
 | 121 | [Ghostrunner](games/g/ghostrunner.md) | 2,241 | 4.56 | 523 |
 | 122 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,172 | 4.37 | 828 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,064 | 4.55 | 547 |
@@ -175,10 +175,10 @@
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 1,010 | 4.75 | 149 |
 | 173 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 971 |
 | 175 | [Sonic Mania](games/s/sonic_mania.md) | 1,007 | 4.77 | 122 |
-| 176 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,005 | 4.31 | 895 |
+| 176 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,006 | 4.31 | 895 |
 | 177 | [Riders Republic](games/r/riders_republic.md) | 977 | 4.75 | 149 |
 | 178 | [Alan Wake 2](games/a/alan_wake_2.md) | 942 | 4.80 | 93 |
-| 179 | [FAR CRY 4](games/f/far_cry_4.md) | 928 | 4.68 | 274 |
+| 179 | [FAR CRY 4](games/f/far_cry_4.md) | 931 | 4.68 | 274 |
 | 180 | [Dishonored 2](games/d/dishonored_2.md) | 924 | 4.78 | 112 |
 | 180 | [The Long Dark](games/t/the_long_dark.md) | 924 | 4.74 | 164 |
 | 182 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 919 | 4.45 | 710 |
@@ -253,8 +253,8 @@
 | 251 | [Dead Space](games/d/dead_space.md) | 394 | 4.72 | 194 |
 | 252 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 383 | 3.99 | 1,086 |
 | 253 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 375 | 4.61 | 406 |
-| 254 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 371 | 4.72 | 194 |
-| 255 | [Railway Empire](games/r/railway_empire.md) | 370 | 4.51 | 613 |
+| 254 | [Railway Empire](games/r/railway_empire.md) | 372 | 4.51 | 613 |
+| 255 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 371 | 4.72 | 194 |
 | 256 | [Inscryption](games/i/inscryption.md) | 365 | 4.86 | 29 |
 | 257 | [The Messenger](games/t/the_messenger.md) | 358 | 4.81 | 80 |
 | 258 | [Dead Cells](games/d/dead_cells.md) | 356 | 4.86 | 29 |
