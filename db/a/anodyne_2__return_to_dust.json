@@ -2,7 +2,7 @@
   "ID": "395be8a9aed24142b30b6abb2778e995",
   "Name": "Anodyne 2: Return To Dust",
   "ProductSlug": "anodyne-2-return-to-dust",
-  "Ranking_Rating": 945,
+  "Ranking_Rating": 910,
   "Ranking_Popularity": 614,
   "Ranking_PopularitySum": 614,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.29,
   "NumberOfRatings": 20,
   "RatingHistory": [
     {
@@ -107,6 +107,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-10T18:59:48.2660354+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -125,8 +131,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:11.6078191+00:00",
   "FirstSeenRating": "2022-09-16T04:00:52.6824492+00:00",
-  "LastChanged": "2023-11-29T23:57:44.1442521+00:00",
+  "LastChanged": "2024-03-10T18:59:48.2660352+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:38.1199911+00:00",
-  "LastUpdate_Ratings": "2024-03-10T17:59:40.7007739+00:00",
+  "LastUpdate_Ratings": "2024-03-10T18:59:48.2660362+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:05.5324589+00:00"
 }
