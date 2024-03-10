@@ -2,9 +2,9 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 478,
+  "Ranking_Rating": 459,
   "Ranking_Popularity": 301,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 33,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 401,
   "RatingHistory": [
     {
@@ -848,10 +848,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 365,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2024-03-10T09:57:50.0530432+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 385,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 365,
+  "NumberOfAwards": 385,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -895,6 +901,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 20
     }
   ],
@@ -30276,9 +30288,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2024-03-06T20:57:24.6149786+00:00",
+  "LastChanged": "2024-03-10T09:57:50.053043+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:18.5020211+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:31.833989+00:00",
-  "LastUpdate_Ratings": "2024-03-10T08:00:49.1443966+00:00",
+  "LastUpdate_Ratings": "2024-03-10T09:57:50.0530435+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:18.5021599+00:00"
 }

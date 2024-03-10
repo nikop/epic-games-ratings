@@ -4,7 +4,7 @@
   "ProductSlug": "world-war-z",
   "Ranking_Rating": 523,
   "Ranking_Popularity": 80,
-  "Ranking_PopularitySum": 44,
+  "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -14120,10 +14120,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 33357,
       "NumberOfAwardsMax": 5704
+    },
+    {
+      "Time": "2024-03-10T09:58:08.2039257+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 33359,
+      "NumberOfAwardsMax": 5704
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33357,
+  "NumberOfAwards": 33359,
   "NumberOfAwardsMax": 5704,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14143,7 +14149,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3756
+      "Count": 3758
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14201,9 +14207,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2024-03-10T02:58:13.8349906+00:00",
+  "LastChanged": "2024-03-10T09:58:08.2039255+00:00",
   "LastChanged_Achievements": "2024-02-22T21:03:44.5823333+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:38.0957707+00:00",
-  "LastUpdate_Ratings": "2024-03-10T08:01:14.0786736+00:00",
+  "LastUpdate_Ratings": "2024-03-10T09:58:08.2039261+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:44.5823348+00:00"
 }
