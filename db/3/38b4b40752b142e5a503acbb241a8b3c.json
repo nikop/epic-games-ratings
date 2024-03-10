@@ -2,7 +2,7 @@
   "ID": "38b4b40752b142e5a503acbb241a8b3c",
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 896,
@@ -1131,10 +1131,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 374,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-03-10T14:58:47.812649+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 375,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 374,
+  "NumberOfAwards": 375,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1166,7 +1172,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1231,9 +1237,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2024-03-10T13:57:42.1520595+00:00",
+  "LastChanged": "2024-03-10T14:58:47.8126487+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:50.9119865+00:00",
   "LastUpdate_AppInfo": "2024-03-06T15:57:41.2484267+00:00",
-  "LastUpdate_Ratings": "2024-03-10T13:57:42.1520599+00:00",
+  "LastUpdate_Ratings": "2024-03-10T14:58:47.8126492+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:50.9119882+00:00"
 }
