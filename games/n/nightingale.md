@@ -3,9 +3,9 @@
 [View Rawdata](../../db/n/nightingale.json)  
 Rating: 4.28 (Ranked 928)  
 ## Awards
-Max (Highly Recommended): 29  (Ranked 555)  
+Max (Highly Recommended): 29  (Ranked 556)  
 Sum: 96 (Ranked 498)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 29 |

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/m/metalstorm.json)  
 Rating: 4.43 (Ranked 750)  
 ## Awards
-Max (Great for Quick Sessions): 28  (Ranked 561)  
-Sum: 54 (Ranked 532)  
-Diff (max vs sum): 29  
+Max (Great for Quick Sessions): 32  (Ranked 541)  
+Sum: 58 (Ranked 529)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 28 |
+| This game is Great for Quick Sessions | 32 |
 | This game is Great for Beginners | 26 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -92,3 +92,4 @@ Diff (max vs sum): 29
 | 2024-03-07 | 4.44 | 25 | 48 |
 | 2024-03-08 | 4.42 | 28 | 51 |
 | 2024-03-09 | 4.43 | 28 | 54 |
+| 2024-03-10 | 4.43 | 32 | 58 |

@@ -1,7 +1,7 @@
 # Five Nights at Freddy's: Security Breach
 [Store](https://store.epicgames.com/en-US/p/five-nights-at-freddys-security-breach-8dee2a)  
 [View Rawdata](../../db/f/five_nights_at_freddy's__security_breach.json)  
-Rating: 4.64 (Ranked 352)  
+Rating: 4.63 (Ranked 371)  
 Number of Ratings: 169  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 40  (Ranked 509)  
@@ -220,3 +220,4 @@ Diff (max vs sum): 108
 | 2024-03-02 | 4.64 | - | 40 | 331 |
 | 2024-03-07 | 4.64 | - | 40 | 298 |
 | 2024-03-09 | 4.64 | - | 40 | 300 |
+| 2024-03-10 | 4.63 | - | 40 | 300 |
