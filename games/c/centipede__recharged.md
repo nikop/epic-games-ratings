@@ -1,7 +1,7 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.31 (Ranked 895)  
+Rating: 4.32 (Ranked 889)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -372,3 +372,4 @@ Completed: 122 (0.47%) (Ranked 243)
 | 2023-12-26 | 4.31 | - | 0 | 0 |
 | 2024-01-06 | 4.32 | - | 0 | 0 |
 | 2024-01-09 | 4.31 | - | 0 | 0 |
+| 2024-03-10 | 4.32 | - | 0 | 0 |

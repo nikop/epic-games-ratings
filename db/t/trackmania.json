@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania Starter Access",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 332,
+  "Ranking_Rating": 333,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 896,
@@ -17911,10 +17911,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 37168,
       "NumberOfAwardsMax": 4632
+    },
+    {
+      "Time": "2024-03-10T21:59:54.2710642+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 37173,
+      "NumberOfAwardsMax": 4632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37168,
+  "NumberOfAwards": 37173,
   "NumberOfAwardsMax": 4632,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -17964,7 +17970,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3762
+      "Count": 3767
     },
     {
       "Text": "This game has a Competitive Community",
@@ -18002,8 +18008,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-03-10T20:59:00.1999163+00:00",
+  "LastChanged": "2024-03-10T21:59:54.271064+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:40.3554345+00:00",
-  "LastUpdate_Ratings": "2024-03-10T20:59:00.199917+00:00",
+  "LastUpdate_Ratings": "2024-03-10T21:59:54.2710645+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:18.9346636+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "038295c445bb40d1b06545fd75741af1",
   "Name": "Kerbal Space Program 2",
   "ProductSlug": "kerbal-space-program-2",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 422,
-  "Ranking_PopularitySum": 356,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -2099,10 +2099,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 502,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-03-10T21:59:15.1270158+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 503,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 502,
+  "NumberOfAwards": 503,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2134,7 +2140,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game is Relaxing",
@@ -2179,8 +2185,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-03-10T20:58:07.365569+00:00",
+  "LastChanged": "2024-03-10T21:59:15.1270156+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:29.3668341+00:00",
-  "LastUpdate_Ratings": "2024-03-10T20:58:07.3655695+00:00",
+  "LastUpdate_Ratings": "2024-03-10T21:59:15.1270162+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:05:32.8834176+00:00"
 }
