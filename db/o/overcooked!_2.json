@@ -2,7 +2,7 @@
   "ID": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
   "Name": "Overcooked! 2",
   "ProductSlug": "overcooked-2",
-  "Ranking_Rating": 208,
+  "Ranking_Rating": 224,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 5157,
   "RatingHistory": [
     {
@@ -4524,10 +4524,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 2578,
       "NumberOfAwardsMax": 308
+    },
+    {
+      "Time": "2024-03-10T16:00:22.0092762+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2579,
+      "NumberOfAwardsMax": 308
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2578,
+  "NumberOfAwards": 2579,
   "NumberOfAwardsMax": 308,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4565,7 +4571,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4621,8 +4627,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-03-10T10:57:52.603466+00:00",
+  "LastChanged": "2024-03-10T16:00:22.009276+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:09.4190593+00:00",
-  "LastUpdate_Ratings": "2024-03-10T14:57:44.9558687+00:00",
+  "LastUpdate_Ratings": "2024-03-10T16:00:22.0092766+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:23.0631192+00:00"
 }
