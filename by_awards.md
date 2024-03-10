@@ -14,7 +14,7 @@
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,441 | 4.58 | 478 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 57,281 | 4.61 | 406 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 49,687 | 4.74 | 163 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 42,364 | 4.51 | 613 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 42,432 | 4.51 | 613 |
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 36,743 | 4.72 | 194 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 35,534 | 4.74 | 163 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,854 | 4.64 | 351 |
@@ -56,8 +56,8 @@
 | 54 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,448 | 4.84 | 48 |
 | 55 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,250 | 4.69 | 243 |
 | 56 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 8,223 | 4.69 | 243 |
-| 57 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 7,981 | 4.23 | 971 |
-| 58 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 7,955 | 4.00 | 1,081 |
+| 57 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 7,992 | 4.00 | 1,081 |
+| 58 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 7,981 | 4.23 | 971 |
 | 59 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,952 | 4.71 | 208 |
 | 60 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 7,929 | 4.50 | 634 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 7,875 | 4.75 | 148 |
@@ -107,7 +107,7 @@
 | 105 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 3,435 | 4.62 | 390 |
 | 106 | [Gotham Knights](games/g/gotham_knights.md) | 3,410 | 4.18 | 1,012 |
 | 107 | [Among Us](games/a/among_us.md) | 3,202 | 4.56 | 523 |
-| 108 | [RAGE 2](games/r/rage_2.md) | 3,020 | 4.27 | 938 |
+| 108 | [RAGE 2](games/r/rage_2.md) | 3,020 | 4.27 | 939 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,890 | 4.62 | 390 |
 | 110 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,838 | 4.79 | 98 |
 | 111 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 2,601 | 4.53 | 583 |
@@ -345,9 +345,9 @@
 | 343 | [SYNCED](games/s/synced.md) | 164 | 4.11 | 1,053 |
 | 344 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 162 | 4.51 | 613 |
 | 345 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 161 | 4.52 | 595 |
-| 346 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 158 | 4.66 | 312 |
-| 346 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 158 | 4.22 | 978 |
-| 346 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 158 | 4.36 | 842 |
+| 346 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 159 | 4.66 | 312 |
+| 347 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 158 | 4.22 | 978 |
+| 347 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 158 | 4.36 | 842 |
 | 349 | [First Class Trouble](games/f/first_class_trouble.md) | 157 | 4.47 | 680 |
 | 350 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 156 | 4.42 | 761 |
 | 351 | [Night in the Woods](games/n/night_in_the_woods.md) | 154 | 4.73 | 178 |
@@ -443,10 +443,10 @@
 | 440 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 72 | 4.41 | 774 |
 | 442 | [DOOM 3](games/d/doom_3.md) | 71 | 4.60 | 441 |
 | 442 | [Session: Skate Sim](games/s/session__skate_sim.md) | 71 | 4.68 | 274 |
-| 444 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 69 | 3.41 | 1,135 |
-| 444 | [Symphony of War](games/s/symphony_of_war.md) | 69 | 4.65 | 332 |
-| 446 | [Art of Rally](games/a/art_of_rally_1.md) | 68 | 4.62 | 390 |
-| 446 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 68 | 4.36 | 842 |
+| 444 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 70 | 4.36 | 842 |
+| 445 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 69 | 3.41 | 1,135 |
+| 445 | [Symphony of War](games/s/symphony_of_war.md) | 69 | 4.65 | 332 |
+| 447 | [Art of Rally](games/a/art_of_rally_1.md) | 68 | 4.62 | 390 |
 | 448 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 67 | 4.56 | 523 |
 | 448 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 67 | 4.44 | 728 |
 | 448 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 67 | 4.82 | 70 |
@@ -554,7 +554,7 @@
 | 550 | [Songs of Conquest](games/s/songs_of_conquest.md) | 30 | 4.67 | 292 |
 | 550 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 30 | 4.58 | 478 |
 | 550 | [Wildermyth](games/w/wildermyth.md) | 30 | 4.78 | 112 |
-| 555 | [Nightingale](games/n/nightingale.md) | 29 | 4.27 | 938 |
+| 555 | [Nightingale](games/n/nightingale.md) | 29 | 4.28 | 927 |
 | 555 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 29 | 4.44 | 728 |
 | 555 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 29 | 4.25 | 952 |
 | 555 | [shapez](games/s/shapez.md) | 29 | 4.71 | 208 |
@@ -592,7 +592,7 @@
 | 585 | [Rise of Industry](games/r/rise_of_industry.md) | 24 | 4.26 | 945 |
 | 585 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 507 |
 | 592 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 23 | 4.33 | 877 |
-| 592 | [Mortal Shell](games/m/mortal_shell.md) | 23 | 4.27 | 938 |
+| 592 | [Mortal Shell](games/m/mortal_shell.md) | 23 | 4.27 | 939 |
 | 592 | [Murder by Numbers](games/m/murder_by_numbers.md) | 23 | 4.28 | 927 |
 | 592 | [Sail Forth](games/s/sail_forth.md) | 23 | 4.40 | 789 |
 | 592 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 21 |
