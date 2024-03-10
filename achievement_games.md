@@ -197,7 +197,7 @@
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 27 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 38 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 76 (1,000 XP) | 48,905 | 4.81 | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 62,437 | 4.78 | 333 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 62,437 | 4.79 | 333 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 1,974 | 4.60 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 172 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 52 | - | - |
@@ -691,7 +691,7 @@
 | [McPixel 3](games/m/mcpixel_3.md) | 2022-11-14 | 93 (1,000 XP) | 0 | - | 0 |
 | [Bloodshore](games/b/bloodshore.md) | 2022-11-11 | 17 (1,000 XP) | 298 | - | 0 |
 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 2022-11-10 | 8 (1,000 XP) | 9 | - | 0 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 2022-11-08 | 100 (1,000 XP) | 377,242 | 4.75 | 1,505 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 2022-11-08 | 100 (1,000 XP) | 377,242 | 4.75 | 1,506 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 2022-11-07 | 32 (1,000 XP) | 1,471 | 4.58 | 27 |
 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | 2022-11-04 | 24 (1,000 XP) | 77 | - | 0 |
 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 2022-11-04 | 14 (1,000 XP) | 12 | - | 0 |
@@ -709,7 +709,7 @@
 | [The Bunker](games/t/the_bunker.md) | 2022-10-21 | 28 (1,000 XP) | 188 | - | 0 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 3,875 | 4.09 | 0 |
 | [Urbek City Builder](games/u/urbek_city_builder.md) | 2022-10-20 | 79 (1,000 XP) | 562 | - | 0 |
-| [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 34,712 | 4.51 | 340 |
+| [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 34,712 | 4.51 | 341 |
 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 2022-10-17 | 35 (1,000 XP) | 20,001 | 4.73 | 493 |
 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2022-10-17 | 30 (1,000 XP) | 88 | - | 0 |
 | [Trifox](games/t/trifox.md) | 2022-10-14 | 46 (1,000 XP) | 106 | - | 0 |
