@@ -2,7 +2,7 @@
   "ID": "efeffab890e0438abe36f643f5da5ca2",
   "Name": "The Colonists",
   "ProductSlug": "the-colonists",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 615,
   "Ranking_PopularitySum": 615,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2022-11-30T17:01:14.9184876+00:00",
@@ -59,6 +59,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-11T12:00:33.055167+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -77,8 +83,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:16.736578+00:00",
   "FirstSeenRating": "2022-11-30T17:01:14.9184871+00:00",
-  "LastChanged": "2024-03-05T07:59:19.3564786+00:00",
+  "LastChanged": "2024-03-11T12:00:33.0551668+00:00",
   "LastUpdate_AppInfo": "2024-03-10T10:57:36.0766648+00:00",
-  "LastUpdate_Ratings": "2024-03-11T10:58:56.7199554+00:00",
+  "LastUpdate_Ratings": "2024-03-11T12:00:33.0551675+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:28.259446+00:00"
 }
