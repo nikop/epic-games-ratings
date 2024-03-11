@@ -7,7 +7,7 @@
   "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
-    "ReleaseDate": "2024-04-30T00:00:00+00:00",
+    "ReleaseDate": "2024-03-11T00:00:00+00:00",
     "PcReleaseDate": "2023-12-28T19:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-10T15:57:27.995394+00:00",
-  "LastUpdate_Ratings": "2024-03-11T19:00:32.7006991+00:00"
+  "LastUpdate_Ratings": "2024-03-11T19:59:26.3404543+00:00"
 }

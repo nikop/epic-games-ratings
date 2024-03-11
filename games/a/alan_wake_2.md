@@ -182,7 +182,7 @@ Completed: 8,512 (2.09%) (Ranked 140)
 | 2024-02-22 | 407,490 | 8,512 |
 ## Awards
 Max (Diverse Characters): 947  (Ranked 178)  
-Sum: 5,740 (Ranked 147)  
+Sum: 5,742 (Ranked 147)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -191,7 +191,7 @@ Diff (max vs sum): 31
 | This game is Highly Recommended | 882 |
 | This game has Amazing Storytelling | 866 |
 | This game has Amazing Characters | 822 |
-| This game is Extremely Fun | 810 |
+| This game is Extremely Fun | 812 |
 | This game has a Creative Community | 521 |
 | This game is Educational | 34 |
 | This game is Great for Beginners | 29 |
@@ -335,4 +335,4 @@ Diff (max vs sum): 31
 | 2024-03-08 | 4.80 | 938 | 5,688 |
 | 2024-03-09 | 4.80 | 942 | 5,699 |
 | 2024-03-10 | 4.80 | 947 | 5,725 |
-| 2024-03-11 | 4.80 | 947 | 5,740 |
+| 2024-03-11 | 4.80 | 947 | 5,742 |

@@ -12659,10 +12659,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 2277403,
       "NumberOfAwardsMax": 338444
+    },
+    {
+      "Time": "2024-03-11T19:57:37.3075098+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 2279311,
+      "NumberOfAwardsMax": 338444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2277403,
+  "NumberOfAwards": 2279311,
   "NumberOfAwardsMax": 338444,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12670,7 +12676,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 287908
+      "Count": 288309
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12688,13 +12694,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 266789
+      "Count": 267180
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 268418
+      "Count": 268729
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12706,13 +12712,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 277253
+      "Count": 277704
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 260389
+      "Count": 260743
     },
     {
       "Text": "This game has Competitive Players",
@@ -12738,8 +12744,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2024-03-11T17:59:58.1123707+00:00",
+  "LastChanged": "2024-03-11T19:57:37.3075096+00:00",
   "LastUpdate_AppInfo": "2024-03-10T10:57:25.1083675+00:00",
-  "LastUpdate_Ratings": "2024-03-11T17:59:58.1123713+00:00",
+  "LastUpdate_Ratings": "2024-03-11T19:57:37.3075102+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:38.4750351+00:00"
 }

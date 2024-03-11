@@ -3,8 +3,8 @@
   "Name": "Star Atlas",
   "ProductSlug": "star-atlas-bead34",
   "Ranking_Rating": 92,
-  "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 565,
+  "Ranking_Popularity": 523,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -281,18 +281,24 @@
       "Rating": 4.8,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-03-11T19:59:03.6205695+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 36,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 35
+      "Count": 36
     }
   ],
   "EOS_Progressed": 0,
@@ -307,8 +313,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-18T11:58:41.4612428+00:00",
   "FirstSeenRating": "2023-03-31T05:58:30.8564198+00:00",
-  "LastChanged": "2024-03-04T13:00:26.2341361+00:00",
+  "LastChanged": "2024-03-11T19:59:03.6205694+00:00",
   "LastUpdate_AppInfo": "2024-03-10T12:57:13.8071207+00:00",
-  "LastUpdate_Ratings": "2024-03-11T19:00:10.4074484+00:00",
+  "LastUpdate_Ratings": "2024-03-11T19:59:03.6205697+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:01.351021+00:00"
 }
