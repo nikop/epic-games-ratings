@@ -4,8 +4,8 @@
 Rating: 4.34 (Ranked 867)  
 Number of Ratings: 49  (23.09.2022)  
 ## Awards
-Max (Character Customization): 171  (Ranked 339)  
-Sum: 171 (Ranked 457)  
+Max (Character Customization): 171  (Ranked 340)  
+Sum: 171 (Ranked 458)  
 Diff (max vs sum): -118  
 | Award | Count |
 | ----- | ----- |
