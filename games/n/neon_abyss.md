@@ -1,7 +1,7 @@
 # Neon Abyss
 [Store](https://store.epicgames.com/en-US/p/neon-abyss)  
 [View Rawdata](../../db/n/neon_abyss.json)  
-Rating: 4.67 (Ranked 293)  
+Rating: 4.68 (Ranked 275)  
 Number of Ratings: 8,340  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 746  (Ranked 200)  
@@ -337,3 +337,4 @@ Diff (max vs sum): 52
 | 2024-03-07 | 4.67 | - | 746 | 5,724 |
 | 2024-03-08 | 4.67 | - | 746 | 5,725 |
 | 2024-03-09 | 4.67 | - | 746 | 5,727 |
+| 2024-03-11 | 4.68 | - | 746 | 5,727 |
