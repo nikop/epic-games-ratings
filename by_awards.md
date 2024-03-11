@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 157,429 | 4.51 | 615 |
 | 8 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 155,454 | 4.68 | 275 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 129,261 | 4.69 | 243 |
-| 10 | [VALORANT](games/v/valorant.md) | 104,399 | 4.51 | 615 |
+| 10 | [VALORANT](games/v/valorant.md) | 104,577 | 4.51 | 615 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 69,854 | 4.45 | 710 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,492 | 4.58 | 480 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 57,357 | 4.61 | 407 |
@@ -140,7 +140,7 @@
 | 138 | [Conan Exiles](games/c/conan_exiles.md) | 1,770 | 4.54 | 564 |
 | 139 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,737 | 4.79 | 98 |
 | 140 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,657 | 4.87 | 21 |
-| 141 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 1,540 | 4.82 | 70 |
+| 141 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 1,556 | 4.82 | 70 |
 | 142 | [XCOM® 2](games/x/xcom®_2.md) | 1,521 | 4.55 | 548 |
 | 143 | [Ring of Pain](games/r/ring_of_pain.md) | 1,519 | 4.58 | 480 |
 | 144 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,506 | 4.75 | 149 |
@@ -337,7 +337,7 @@
 | 334 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 174 | 4.79 | 98 |
 | 334 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 174 | 4.29 | 911 |
 | 334 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 174 | 4.87 | 21 |
-| 338 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 929 |
+| 338 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 930 |
 | 339 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 171 | 4.82 | 70 |
 | 339 | [Encased](games/e/encased.md) | 171 | 4.34 | 867 |
 | 341 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 169 | 4.38 | 820 |
@@ -555,7 +555,7 @@
 | 551 | [Songs of Conquest](games/s/songs_of_conquest.md) | 30 | 4.67 | 293 |
 | 551 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 30 | 4.58 | 480 |
 | 551 | [Wildermyth](games/w/wildermyth.md) | 30 | 4.78 | 113 |
-| 556 | [Nightingale](games/n/nightingale.md) | 29 | 4.28 | 929 |
+| 556 | [Nightingale](games/n/nightingale.md) | 29 | 4.29 | 911 |
 | 556 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 29 | 4.44 | 728 |
 | 556 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 29 | 4.25 | 953 |
 | 556 | [shapez](games/s/shapez.md) | 29 | 4.71 | 209 |
@@ -579,21 +579,21 @@
 | 574 | [RUINER](games/r/ruiner.md) | 26 | 4.54 | 564 |
 | 574 | [The Front](games/t/the_front.md) | 26 | 4.07 | 1,069 |
 | 574 | [Void Bastards](games/v/void_bastards.md) | 26 | 4.60 | 442 |
+| 580 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 25 | 4.31 | 897 |
 | 580 | [DEMON'S TILT](games/d/demon's_tilt.md) | 25 | 4.53 | 583 |
 | 580 | [Solar Ash](games/s/solar_ash.md) | 25 | 4.65 | 333 |
 | 580 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 25 | 4.55 | 548 |
 | 580 | [Torchlight](games/t/torchlight.md) | 25 | 4.35 | 856 |
 | 580 | [Yooka-Laylee](games/y/yooka-laylee.md) | 25 | 4.25 | 953 |
-| 585 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 24 | 4.76 | 137 |
-| 585 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 24 | 4.49 | 653 |
-| 585 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 24 | 4.88 | 16 |
-| 585 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 24 | 4.31 | 897 |
-| 585 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 24 | 4.53 | 583 |
-| 585 | [Rise of Industry](games/r/rise_of_industry.md) | 24 | 4.26 | 947 |
-| 585 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 508 |
+| 586 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 24 | 4.76 | 137 |
+| 586 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 24 | 4.49 | 653 |
+| 586 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 24 | 4.88 | 16 |
+| 586 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 24 | 4.53 | 583 |
+| 586 | [Rise of Industry](games/r/rise_of_industry.md) | 24 | 4.26 | 947 |
+| 586 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 508 |
 | 592 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 23 | 4.33 | 878 |
 | 592 | [Mortal Shell](games/m/mortal_shell.md) | 23 | 4.27 | 940 |
-| 592 | [Murder by Numbers](games/m/murder_by_numbers.md) | 23 | 4.28 | 929 |
+| 592 | [Murder by Numbers](games/m/murder_by_numbers.md) | 23 | 4.28 | 930 |
 | 592 | [Sail Forth](games/s/sail_forth.md) | 23 | 4.40 | 789 |
 | 592 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 21 |
 | 597 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 22 | 4.30 | 903 |
