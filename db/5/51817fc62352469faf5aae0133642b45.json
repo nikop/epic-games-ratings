@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_Rating": 897,
   "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 543,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -467,10 +467,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-03-11T15:57:44.9291821+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
+  "NumberOfAwards": 69,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -491,6 +497,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 25
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -505,8 +517,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-03-11T02:59:40.708026+00:00",
+  "LastChanged": "2024-03-11T15:57:44.9291819+00:00",
   "LastUpdate_AppInfo": "2024-03-06T18:57:12.091101+00:00",
-  "LastUpdate_Ratings": "2024-03-11T14:00:05.7054972+00:00",
+  "LastUpdate_Ratings": "2024-03-11T15:57:44.9291823+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:31.8124613+00:00"
 }
