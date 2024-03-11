@@ -2,7 +2,7 @@
   "ID": "ee94837a81864970b189e1031dfcf6fa",
   "Name": "Expeditions - A MudRunner Game",
   "ProductSlug": "expeditions-a-mudrunner-game-e6bda2",
-  "Ranking_Rating": 1057,
+  "Ranking_Rating": 1055,
   "Ranking_Popularity": 614,
   "Ranking_PopularitySum": 614,
   "Ranking_EOS_Progress": 896,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.1,
+  "Rating": 4.11,
   "RatingHistory": [
     {
       "Time": "2024-03-07T12:58:57.6137621+00:00",
@@ -101,6 +101,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-11T02:14:22.1642649+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -119,8 +125,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-05T17:58:37.8385796+00:00",
   "FirstSeenRating": "2024-03-07T12:58:57.6137618+00:00",
-  "LastChanged": "2024-03-10T21:57:29.3003238+00:00",
+  "LastChanged": "2024-03-11T02:14:22.1642647+00:00",
   "LastUpdate_AppInfo": "2024-03-07T22:57:13.3402648+00:00",
-  "LastUpdate_Ratings": "2024-03-10T23:59:41.9216395+00:00",
+  "LastUpdate_Ratings": "2024-03-11T02:14:22.1642652+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:18.6461788+00:00"
 }

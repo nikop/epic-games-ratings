@@ -2,7 +2,7 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.3,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -3140,6 +3140,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 3013,
       "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2024-03-11T02:14:20.3244658+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 3013,
+      "NumberOfAwardsMax": 409
     }
   ],
   "ReviewsDisabled": false,
@@ -3219,8 +3225,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-03-10T03:57:52.2036835+00:00",
+  "LastChanged": "2024-03-11T02:14:20.3244656+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:58:10.5756797+00:00",
-  "LastUpdate_Ratings": "2024-03-10T23:59:40.9112737+00:00",
+  "LastUpdate_Ratings": "2024-03-11T02:14:20.3244662+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:20.6926434+00:00"
 }
