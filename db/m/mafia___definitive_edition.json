@@ -4,7 +4,7 @@
   "ProductSlug": "mafia-definitive-edition",
   "Ranking_Rating": 372,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 295,
+  "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1482,18 +1482,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 874,
       "NumberOfAwardsMax": 718
+    },
+    {
+      "Time": "2024-03-11T20:58:15.5984732+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 876,
+      "NumberOfAwardsMax": 720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 874,
-  "NumberOfAwardsMax": 718,
+  "NumberOfAwards": 876,
+  "NumberOfAwardsMax": 720,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 718
+      "Count": 720
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1543,8 +1549,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2024-03-11T00:00:11.5924431+00:00",
+  "LastChanged": "2024-03-11T20:58:15.598473+00:00",
   "LastUpdate_AppInfo": "2024-03-10T08:57:24.4205368+00:00",
-  "LastUpdate_Ratings": "2024-03-11T19:02:47.5212357+00:00",
+  "LastUpdate_Ratings": "2024-03-11T20:58:15.5984735+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:03.1474351+00:00"
 }
