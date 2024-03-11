@@ -2,9 +2,9 @@
   "ID": "88e8dde0de8f44bdb3580d73e36d4157",
   "Name": "Nightingale",
   "ProductSlug": "nightingale",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 929,
   "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 516,
+  "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "RatingHistory": [
     {
       "Time": "2024-02-22T13:00:08.5312211+00:00",
@@ -289,10 +289,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-03-11T12:59:59.311718+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 72,
+  "NumberOfAwards": 73,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -312,7 +318,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -333,8 +339,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
-  "LastChanged": "2024-03-11T02:59:10.5104433+00:00",
+  "LastChanged": "2024-03-11T12:59:59.3117178+00:00",
   "LastUpdate_AppInfo": "2024-03-10T10:57:23.1600366+00:00",
-  "LastUpdate_Ratings": "2024-03-11T10:59:59.330377+00:00",
+  "LastUpdate_Ratings": "2024-03-11T12:59:59.3117183+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:34.4582727+00:00"
 }
