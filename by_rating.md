@@ -52,24 +52,24 @@
 | 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,454 | 54 |
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 466 | 238 |
 | 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 14,726 | 32 |
-| 48 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.84 | 28 | 562 |
 | 48 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 49 | 486 |
 | 48 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.84 | 0 | 615 |
 | 48 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.84 | 0 | 615 |
-| 57 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.83 | 0 | 615 |
-| 57 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 615 |
-| 57 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 187 | 324 |
-| 57 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 615 |
-| 57 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 615 |
-| 57 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 35 | 526 |
-| 57 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 237 | 294 |
-| 57 | [Firework](games/f/firework.md) | 4.83 | 0 | 615 |
-| 57 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 615 | 215 |
-| 57 | [Grindstone](games/g/grindstone.md) | 4.83 | 0 | 615 |
-| 57 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 293 | 279 |
-| 57 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 283 | 282 |
-| 57 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.83 | 0 | 615 |
-| 57 | [TUNIC](games/t/tunic.md) | 4.83 | 41 | 507 |
+| 56 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.83 | 0 | 615 |
+| 56 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 615 |
+| 56 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 187 | 324 |
+| 56 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 615 |
+| 56 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 615 |
+| 56 | [DOOM (1993)](games/d/doom_(1993).md) | 4.83 | 35 | 526 |
+| 56 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 237 | 294 |
+| 56 | [Firework](games/f/firework.md) | 4.83 | 0 | 615 |
+| 56 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 615 | 215 |
+| 56 | [Grindstone](games/g/grindstone.md) | 4.83 | 0 | 615 |
+| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 293 | 279 |
+| 56 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 283 | 282 |
+| 56 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.83 | 28 | 562 |
+| 56 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.83 | 0 | 615 |
+| 56 | [TUNIC](games/t/tunic.md) | 4.83 | 41 | 507 |
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 474 | 237 |
 | 71 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,858 | 66 |
 | 71 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 171 | 339 |
@@ -170,7 +170,7 @@
 | 163 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 35,587 | 17 |
 | 163 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 84 | 417 |
 | 163 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 847 | 189 |
-| 163 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,738 | 50 |
+| 163 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,754 | 50 |
 | 163 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 49,767 | 14 |
 | 163 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 176 | 332 |
 | 163 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 110 | 383 |
@@ -1055,19 +1055,19 @@
 | 1,053 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 615 |
 | 1,053 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.12 | 0 | 615 |
 | 1,055 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 615 |
-| 1,055 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.11 | 0 | 615 |
 | 1,055 | [SYNCED](games/s/synced.md) | 4.11 | 165 | 343 |
-| 1,058 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 0 | 615 |
-| 1,058 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 113 |
-| 1,060 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 615 |
-| 1,060 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.09 | 0 | 615 |
-| 1,060 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 615 |
-| 1,060 | [Tharsis](games/t/tharsis.md) | 4.09 | 0 | 615 |
-| 1,064 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 615 |
-| 1,064 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 183 | 327 |
-| 1,064 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 0 | 615 |
-| 1,064 | [Obduction](games/o/obduction.md) | 4.08 | 59 | 460 |
-| 1,064 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 615 |
+| 1,057 | [Gravewood High](games/g/gravewood_high.md) | 4.10 | 0 | 615 |
+| 1,057 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 113 |
+| 1,059 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.09 | 0 | 615 |
+| 1,059 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.09 | 0 | 615 |
+| 1,059 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 615 |
+| 1,059 | [Tharsis](games/t/tharsis.md) | 4.09 | 0 | 615 |
+| 1,063 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.08 | 0 | 615 |
+| 1,063 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 0 | 615 |
+| 1,063 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 183 | 327 |
+| 1,063 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 0 | 615 |
+| 1,063 | [Obduction](games/o/obduction.md) | 4.08 | 59 | 460 |
+| 1,063 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 615 |
 | 1,069 | [Armored Warfare](games/a/armored_warfare.md) | 4.07 | 110 | 383 |
 | 1,069 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.07 | 0 | 615 |
 | 1,069 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,911 | 78 |
