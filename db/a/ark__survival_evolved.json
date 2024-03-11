@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 479,
+  "Ranking_Rating": 480,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 896,
@@ -19344,10 +19344,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 290264,
       "NumberOfAwardsMax": 67492
+    },
+    {
+      "Time": "2024-03-11T23:00:43.3600853+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 290280,
+      "NumberOfAwardsMax": 67492
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290264,
+  "NumberOfAwards": 290280,
   "NumberOfAwardsMax": 67492,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19391,7 +19397,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21263
+      "Count": 21270
     },
     {
       "Text": "This game has Competitive Players",
@@ -19421,7 +19427,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21376
+      "Count": 21385
     }
   ],
   "EOS_Progressed": 0,
@@ -19435,8 +19441,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-03-11T20:57:16.5172275+00:00",
+  "LastChanged": "2024-03-11T23:00:43.3600851+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:58:02.7867519+00:00",
-  "LastUpdate_Ratings": "2024-03-11T21:59:13.1197409+00:00",
+  "LastUpdate_Ratings": "2024-03-11T23:00:43.3600856+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:41.1938371+00:00"
 }

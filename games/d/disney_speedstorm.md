@@ -1,7 +1,7 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.40 (Ranked 789)  
+Rating: 4.41 (Ranked 774)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -493,4 +493,4 @@ Diff (max vs sum): 42
 | 2024-03-08 | 4.41 | 267 | 1,645 |
 | 2024-03-09 | 4.41 | 271 | 1,656 |
 | 2024-03-10 | 4.40 | 271 | 1,671 |
-| 2024-03-11 | 4.40 | 271 | 1,673 |
+| 2024-03-11 | 4.41 | 271 | 1,673 |
