@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 209,
   "Ranking_Popularity": 51,
-  "Ranking_PopularitySum": 65,
+  "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 165,
@@ -9469,10 +9469,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 20939,
       "NumberOfAwardsMax": 8615
+    },
+    {
+      "Time": "2024-03-11T03:00:01.186014+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 20945,
+      "NumberOfAwardsMax": 8615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20939,
+  "NumberOfAwards": 20945,
   "NumberOfAwardsMax": 8615,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9510,7 +9516,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1279
+      "Count": 1285
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -32637,9 +32643,9 @@
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-03-11T01:38:45.0559873+00:00",
+  "LastChanged": "2024-03-11T03:00:01.1860138+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:35.1086866+00:00",
   "LastUpdate_AppInfo": "2024-03-10T12:57:26.7218496+00:00",
-  "LastUpdate_Ratings": "2024-03-11T02:16:30.5304639+00:00",
+  "LastUpdate_Ratings": "2024-03-11T03:00:01.1860144+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:35.1088256+00:00"
 }
