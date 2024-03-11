@@ -2831,10 +2831,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 7491,
       "NumberOfAwardsMax": 3453
+    },
+    {
+      "Time": "2024-03-11T08:58:17.5094513+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 7496,
+      "NumberOfAwardsMax": 3453
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7491,
+  "NumberOfAwards": 7496,
   "NumberOfAwardsMax": 3453,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2878,7 +2884,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 432
+      "Count": 437
     },
     {
       "Text": "This game has Easy Combat",
@@ -2923,8 +2929,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-03-11T05:59:32.3176778+00:00",
+  "LastChanged": "2024-03-11T08:58:17.5094511+00:00",
   "LastUpdate_AppInfo": "2024-03-07T22:57:09.8166357+00:00",
-  "LastUpdate_Ratings": "2024-03-11T07:00:10.7476665+00:00",
+  "LastUpdate_Ratings": "2024-03-11T08:58:17.5094519+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:23.1422713+00:00"
 }
