@@ -3,8 +3,8 @@
   "Name": "Banishers: Ghosts of New Eden",
   "ProductSlug": "banishers-ghosts-of-new-eden-f9e3f2",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 447,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Popularity": 438,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -234,18 +234,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 68,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-03-11T13:57:28.6592359+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 68,
-  "NumberOfAwardsMax": 68,
+  "NumberOfAwards": 73,
+  "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 68
+      "Count": 73
     }
   ],
   "EOS_Progressed": 0,
@@ -268,9 +274,9 @@
   "FirstSeen": "2024-02-13T03:59:56.0096216+00:00",
   "FirstSeenRating": "2024-02-15T23:59:07.6110237+00:00",
   "FirstSeenAchievements": "2023-11-15T16:03:15.009525+00:00",
-  "LastChanged": "2024-03-10T11:01:08.2861096+00:00",
+  "LastChanged": "2024-03-11T13:57:28.6592358+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:35.3150077+00:00",
   "LastUpdate_AppInfo": "2024-03-06T22:57:14.5620098+00:00",
-  "LastUpdate_Ratings": "2024-03-11T11:59:30.7209501+00:00",
+  "LastUpdate_Ratings": "2024-03-11T13:57:28.6592362+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:35.3150094+00:00"
 }

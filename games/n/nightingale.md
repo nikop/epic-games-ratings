@@ -4,13 +4,14 @@
 Rating: 4.28 (Ranked 929)  
 ## Awards
 Max (Highly Recommended): 29  (Ranked 556)  
-Sum: 73 (Ranked 515)  
-Diff (max vs sum): 41  
+Sum: 94 (Ranked 500)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 29 |
 | This game is Great for Beginners | 24 |
 | This game is Relaxing | 24 |
+| This game has Diverse Characters | 21 |
 | This game has Beautiful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -31,4 +32,4 @@ Diff (max vs sum): 41
 | 2024-03-08 | 4.26 | 25 | 25 |
 | 2024-03-09 | 4.27 | 29 | 53 |
 | 2024-03-10 | 4.28 | 29 | 96 |
-| 2024-03-11 | 4.29 | 29 | 73 |
+| 2024-03-11 | 4.29 | 29 | 94 |
