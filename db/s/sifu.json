@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 70,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 26,
@@ -10219,10 +10219,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12767,
       "NumberOfAwardsMax": 7509
+    },
+    {
+      "Time": "2024-03-11T05:59:47.7476102+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12768,
+      "NumberOfAwardsMax": 7509
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12767,
+  "NumberOfAwards": 12768,
   "NumberOfAwardsMax": 7509,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10236,7 +10242,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 623
+      "Count": 624
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -37081,9 +37087,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-03-10T20:57:40.4401292+00:00",
+  "LastChanged": "2024-03-11T05:59:47.7476101+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:29.1654627+00:00",
   "LastUpdate_AppInfo": "2024-03-10T12:57:18.8460372+00:00",
-  "LastUpdate_Ratings": "2024-03-11T04:57:36.3058612+00:00",
+  "LastUpdate_Ratings": "2024-03-11T05:59:47.7476108+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:29.1656733+00:00"
 }
