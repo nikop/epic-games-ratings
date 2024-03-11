@@ -2,7 +2,7 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "ProductSlug": "red-dead-redemption-2",
-  "Ranking_Rating": 16,
+  "Ranking_Rating": 20,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.88,
+  "Rating": 4.87,
   "NumberOfRatings": 102658,
   "RatingHistory": [
     {
@@ -22889,10 +22889,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 786697,
       "NumberOfAwardsMax": 290751
+    },
+    {
+      "Time": "2024-03-11T14:57:26.3073828+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 786860,
+      "NumberOfAwardsMax": 290751
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 786697,
+  "NumberOfAwards": 786860,
   "NumberOfAwardsMax": 290751,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -22918,7 +22924,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 33373
+      "Count": 33443
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -22948,7 +22954,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34192
+      "Count": 34285
     },
     {
       "Text": "This game is Great for Beginners",
@@ -22992,8 +22998,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-03-11T10:57:06.3067304+00:00",
+  "LastChanged": "2024-03-11T14:57:26.3073827+00:00",
   "LastUpdate_AppInfo": "2024-03-10T07:57:10.4582129+00:00",
-  "LastUpdate_Ratings": "2024-03-11T13:01:22.8393936+00:00",
+  "LastUpdate_Ratings": "2024-03-11T14:57:26.3073831+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:04.5007869+00:00"
 }
