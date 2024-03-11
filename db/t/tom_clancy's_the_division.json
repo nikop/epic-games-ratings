@@ -2,7 +2,7 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 460,
+  "Ranking_Rating": 442,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 247,
   "RatingHistory": [
     {
@@ -3875,6 +3875,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 1441,
       "NumberOfAwardsMax": 505
+    },
+    {
+      "Time": "2024-03-11T09:59:03.2632561+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1441,
+      "NumberOfAwardsMax": 505
     }
   ],
   "ReviewsDisabled": false,
@@ -3978,8 +3984,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-03-10T09:00:02.5817086+00:00",
+  "LastChanged": "2024-03-11T09:59:03.2632559+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:08.1904037+00:00",
-  "LastUpdate_Ratings": "2024-03-11T08:00:02.6753615+00:00",
+  "LastUpdate_Ratings": "2024-03-11T09:59:03.2632564+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:20.3863661+00:00"
 }
