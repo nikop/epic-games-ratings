@@ -3,8 +3,8 @@
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
   "Ranking_Rating": 57,
-  "Ranking_Popularity": 614,
-  "Ranking_PopularitySum": 614,
+  "Ranking_Popularity": 615,
+  "Ranking_PopularitySum": 615,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 165,
@@ -1650,6 +1650,6 @@
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
   "LastChanged_Achievements": "2024-02-22T21:03:52.1130211+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:56.3453954+00:00",
-  "LastUpdate_Ratings": "2024-03-11T04:59:41.5873522+00:00",
+  "LastUpdate_Ratings": "2024-03-11T06:58:11.1537601+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:52.1130534+00:00"
 }
