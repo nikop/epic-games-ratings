@@ -4,7 +4,7 @@
   "ProductSlug": "skyrim",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 135,
-  "Ranking_PopularitySum": 167,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -5383,18 +5383,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 4244,
       "NumberOfAwardsMax": 1828
+    },
+    {
+      "Time": "2024-03-11T10:59:55.5556382+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 4245,
+      "NumberOfAwardsMax": 1829
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4244,
-  "NumberOfAwardsMax": 1828,
+  "NumberOfAwards": 4245,
+  "NumberOfAwardsMax": 1829,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1828
+      "Count": 1829
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5463,8 +5469,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2024-03-11T05:58:52.1154266+00:00",
+  "LastChanged": "2024-03-11T10:59:55.555638+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:17.3509162+00:00",
-  "LastUpdate_Ratings": "2024-03-11T09:59:50.7701609+00:00",
+  "LastUpdate_Ratings": "2024-03-11T10:59:55.5556387+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:36.1258944+00:00"
 }
