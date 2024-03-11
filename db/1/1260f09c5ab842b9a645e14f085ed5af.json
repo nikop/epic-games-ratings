@@ -2,7 +2,7 @@
   "ID": "1260f09c5ab842b9a645e14f085ed5af",
   "Name": "Infinifactory",
   "ProductSlug": "infinifactory-ec9686",
-  "Ranking_Rating": 563,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 330,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 896,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2024-01-26T22:58:02.5444125+00:00",
@@ -527,10 +527,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 268,
       "NumberOfAwardsMax": 179
+    },
+    {
+      "Time": "2024-03-11T17:57:11.9012627+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 268,
+  "NumberOfAwards": 270,
   "NumberOfAwardsMax": 179,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -562,7 +568,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 21
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -585,9 +591,9 @@
   "FirstSeen": "2024-01-25T18:57:35.0792201+00:00",
   "FirstSeenRating": "2024-01-26T22:58:02.5444122+00:00",
   "FirstSeenAchievements": "2024-01-18T17:09:04.5131564+00:00",
-  "LastChanged": "2024-03-11T03:58:31.5467381+00:00",
+  "LastChanged": "2024-03-11T17:57:11.9012624+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:43.6015496+00:00",
   "LastUpdate_AppInfo": "2024-03-07T20:59:54.0626064+00:00",
-  "LastUpdate_Ratings": "2024-03-11T15:59:26.138196+00:00",
+  "LastUpdate_Ratings": "2024-03-11T17:57:11.9012629+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:43.6015515+00:00"
 }
