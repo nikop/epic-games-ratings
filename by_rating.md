@@ -953,14 +953,14 @@
 | 948 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 615 |
 | 948 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 615 |
 | 948 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 276 |
-| 954 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 597 |
-| 954 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.25 | 224 | 303 |
-| 954 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 1,039 | 171 |
-| 954 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 29 | 557 |
-| 954 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 615 |
-| 954 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 615 |
-| 954 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 615 |
-| 954 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 580 |
+| 948 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 25 | 580 |
+| 955 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 597 |
+| 955 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.25 | 224 | 303 |
+| 955 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 1,039 | 171 |
+| 955 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 29 | 557 |
+| 955 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 615 |
+| 955 | [Starsand](games/s/starsand.md) | 4.25 | 0 | 615 |
+| 955 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 615 |
 | 962 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 615 |
 | 962 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 534 |
 | 962 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.24 | 47 | 492 |
@@ -979,6 +979,7 @@
 | 972 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 615 |
 | 972 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 615 |
 | 972 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 251 | 290 |
+| 980 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.22 | 75 | 432 |
 | 980 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 198 | 317 |
 | 980 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 615 |
 | 980 | [Somerville](games/s/somerville.md) | 4.22 | 0 | 615 |
@@ -987,14 +988,13 @@
 | 980 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 158 | 348 |
 | 980 | [The Fall](games/t/the_fall.md) | 4.22 | 0 | 615 |
 | 980 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.22 | 0 | 615 |
-| 988 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 369 |
-| 988 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 541 |
-| 988 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.21 | 75 | 432 |
-| 988 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 615 |
-| 988 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 844 | 190 |
-| 988 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 217 | 309 |
-| 988 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 424 |
-| 988 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.21 | 0 | 615 |
+| 989 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 369 |
+| 989 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 541 |
+| 989 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 615 |
+| 989 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 844 | 190 |
+| 989 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 217 | 309 |
+| 989 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 424 |
+| 989 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.21 | 0 | 615 |
 | 996 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 131 | 365 |
 | 996 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 615 |
 | 996 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 534 |
