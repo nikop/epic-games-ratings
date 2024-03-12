@@ -91,7 +91,7 @@
 | 80 | [The Messenger](games/t/the_messenger.md) | 4.81 | 358 | 257 |
 | 80 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 31 | 547 |
 | 80 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 615 |
-| 92 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 947 | 178 |
+| 92 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 953 | 178 |
 | 92 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,516 | 71 |
 | 92 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 134 | 360 |
 | 92 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.80 | 0 | 615 |
@@ -172,7 +172,7 @@
 | 164 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 84 | 417 |
 | 164 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 851 | 189 |
 | 164 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,754 | 50 |
-| 164 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 49,833 | 14 |
+| 164 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 49,885 | 14 |
 | 164 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 176 | 332 |
 | 164 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 110 | 384 |
 | 164 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 924 | 181 |
@@ -515,9 +515,9 @@
 | 509 | [Hob](games/h/hob.md) | 4.57 | 0 | 615 |
 | 509 | [Hue](games/h/hue.md) | 4.57 | 0 | 615 |
 | 509 | [Minit](games/m/minit.md) | 4.57 | 0 | 615 |
-| 509 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,533 | 103 |
+| 509 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,538 | 102 |
 | 509 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 0 | 615 |
-| 509 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,534 | 102 |
+| 509 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,534 | 103 |
 | 509 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.57 | 0 | 615 |
 | 509 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.57 | 0 | 615 |
 | 509 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,301 | 84 |
@@ -712,7 +712,7 @@
 | 694 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 615 |
 | 711 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.45 | 0 | 615 |
 | 711 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.45 | 0 | 615 |
-| 711 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 70,134 | 11 |
+| 711 | [Destiny 2](games/d/destiny_2.md) | 4.45 | 70,320 | 11 |
 | 711 | [ELEX](games/e/elex.md) | 4.45 | 26 | 574 |
 | 711 | [Escape Academy](games/e/escape_academy.md) | 4.45 | 0 | 615 |
 | 711 | [Faeria](games/f/faeria.md) | 4.45 | 119 | 376 |
@@ -797,28 +797,28 @@
 | 789 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 4.40 | 0 | 615 |
 | 789 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.40 | 0 | 615 |
 | 789 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 615 |
+| 789 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.40 | 649 | 210 |
 | 789 | [Rebel Cops](games/r/rebel_cops.md) | 4.40 | 0 | 615 |
 | 789 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 430 |
 | 789 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.40 | 237 | 294 |
 | 789 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 558 | 224 |
 | 789 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 209 | 312 |
-| 803 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 615 |
-| 803 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.39 | 196 | 320 |
-| 803 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 615 |
-| 803 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.39 | 0 | 615 |
-| 803 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 59 | 460 |
-| 803 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.39 | 0 | 615 |
-| 803 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 649 | 210 |
-| 803 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.39 | 0 | 615 |
-| 803 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.39 | 0 | 615 |
-| 803 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,847 | 39 |
-| 803 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 615 |
-| 803 | [Parkitect](games/p/parkitect.md) | 4.39 | 0 | 615 |
-| 803 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 84 | 417 |
-| 803 | [Sail Forth](games/s/sail_forth.md) | 4.39 | 24 | 586 |
-| 803 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 325 | 265 |
-| 803 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 341 | 260 |
-| 803 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.39 | 621 | 214 |
+| 804 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 615 |
+| 804 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.39 | 196 | 320 |
+| 804 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 615 |
+| 804 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.39 | 0 | 615 |
+| 804 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 59 | 460 |
+| 804 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.39 | 0 | 615 |
+| 804 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.39 | 0 | 615 |
+| 804 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.39 | 0 | 615 |
+| 804 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,847 | 39 |
+| 804 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 615 |
+| 804 | [Parkitect](games/p/parkitect.md) | 4.39 | 0 | 615 |
+| 804 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 84 | 417 |
+| 804 | [Sail Forth](games/s/sail_forth.md) | 4.39 | 24 | 586 |
+| 804 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 325 | 265 |
+| 804 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 341 | 260 |
+| 804 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.39 | 621 | 214 |
 | 820 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 615 |
 | 820 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 615 |
 | 820 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.38 | 0 | 615 |
