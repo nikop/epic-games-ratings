@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 157,467 | 4.51 | 613 |
 | 8 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 155,616 | 4.68 | 275 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 129,359 | 4.69 | 243 |
-| 10 | [VALORANT](games/v/valorant.md) | 104,577 | 4.51 | 613 |
+| 10 | [VALORANT](games/v/valorant.md) | 104,692 | 4.51 | 613 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 70,134 | 4.45 | 710 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,518 | 4.58 | 480 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 57,421 | 4.61 | 406 |
@@ -23,7 +23,7 @@
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,050 | 4.57 | 508 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,735 | 4.26 | 948 |
 | 23 | [Warframe](games/w/warframe.md) | 22,179 | 4.61 | 406 |
-| 24 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,046 | 4.60 | 442 |
+| 24 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,062 | 4.60 | 442 |
 | 25 | [Borderlands 2](games/b/borderlands_2.md) | 17,029 | 4.76 | 136 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 16,222 | 4.87 | 20 |
 | 27 | [SnowRunner](games/s/snowrunner.md) | 15,825 | 4.75 | 149 |
@@ -125,7 +125,7 @@
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,070 | 4.55 | 549 |
 | 124 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,058 | 4.49 | 652 |
 | 125 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,052 | 4.90 | 8 |
-| 126 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,036 | 4.69 | 243 |
+| 126 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,037 | 4.69 | 243 |
 | 127 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 1,998 | 4.13 | 1,049 |
 | 128 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,979 | 4.66 | 314 |
 | 129 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,973 | 4.50 | 635 |
@@ -144,7 +144,7 @@
 | 142 | [XCOM® 2](games/x/xcom®_2.md) | 1,522 | 4.55 | 549 |
 | 143 | [Ring of Pain](games/r/ring_of_pain.md) | 1,519 | 4.58 | 480 |
 | 144 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,511 | 4.75 | 149 |
-| 145 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,502 | 4.79 | 99 |
+| 145 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,507 | 4.79 | 99 |
 | 146 | [OUTRIDERS](games/o/outriders.md) | 1,501 | 4.43 | 750 |
 | 147 | [MORDHAU](games/m/mordhau.md) | 1,461 | 4.37 | 831 |
 | 148 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,435 | 4.62 | 393 |
@@ -321,8 +321,8 @@
 | 319 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 197 | 4.63 | 372 |
 | 320 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 196 | 4.39 | 804 |
 | 320 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 196 | 4.49 | 652 |
-| 322 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 192 | 4.62 | 393 |
-| 323 | [The Witness](games/t/the_witness.md) | 191 | 4.69 | 243 |
+| 322 | [The Witness](games/t/the_witness.md) | 193 | 4.69 | 243 |
+| 323 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 192 | 4.62 | 393 |
 | 324 | [Blasphemous](games/b/blasphemous.md) | 187 | 4.83 | 56 |
 | 325 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 184 | 4.66 | 314 |
 | 325 | [Timberborn](games/t/timberborn.md) | 184 | 4.73 | 180 |

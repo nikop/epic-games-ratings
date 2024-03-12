@@ -105,7 +105,7 @@
 | 99 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 174 | 334 |
 | 99 | [Griftlands](games/g/griftlands.md) | 4.79 | 22 | 597 |
 | 99 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 615 |
-| 99 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,502 | 145 |
+| 99 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,507 | 145 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 912 | 184 |
 | 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,842 | 110 |
 | 99 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 431 | 243 |
@@ -257,7 +257,7 @@
 | 243 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 615 |
 | 243 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 137 | 357 |
 | 243 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,273 | 151 |
-| 243 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,036 | 126 |
+| 243 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,037 | 126 |
 | 243 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 615 |
 | 243 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 667 | 207 |
 | 243 | [Outlast 2](games/o/outlast_2.md) | 4.69 | 0 | 615 |
@@ -269,7 +269,7 @@
 | 243 | [Suzerain](games/s/suzerain.md) | 4.69 | 0 | 615 |
 | 243 | [Tchia](games/t/tchia.md) | 4.69 | 0 | 615 |
 | 243 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 55 | 469 |
-| 243 | [The Witness](games/t/the_witness.md) | 4.69 | 191 | 323 |
+| 243 | [The Witness](games/t/the_witness.md) | 4.69 | 193 | 322 |
 | 243 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 615 |
 | 243 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,125 | 159 |
 | 243 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 234 | 297 |
@@ -397,7 +397,7 @@
 | 393 | [Darkwood](games/d/darkwood.md) | 4.62 | 333 | 264 |
 | 393 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.62 | 74 | 434 |
 | 393 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 661 | 208 |
-| 393 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 192 | 322 |
+| 393 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 192 | 323 |
 | 393 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,435 | 148 |
 | 393 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.62 | 3,469 | 105 |
 | 393 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 615 |
@@ -441,7 +441,7 @@
 | 406 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.61 | 0 | 615 |
 | 406 | [Warframe](games/w/warframe.md) | 4.61 | 22,179 | 23 |
 | 406 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 770 | 198 |
-| 442 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,046 | 24 |
+| 442 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,062 | 24 |
 | 442 | [DOOM 3](games/d/doom_3.md) | 4.60 | 71 | 443 |
 | 442 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 15,389 | 28 |
 | 442 | [Fuga: Melodies of Steel](games/f/fuga__melodies_of_steel.md) | 4.60 | 0 | 615 |
@@ -629,7 +629,7 @@
 | 613 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 74 | 434 |
 | 613 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.51 | 0 | 615 |
 | 613 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 615 |
-| 613 | [VALORANT](games/v/valorant.md) | 4.51 | 104,577 | 10 |
+| 613 | [VALORANT](games/v/valorant.md) | 4.51 | 104,692 | 10 |
 | 613 | [Wall World](games/w/wall_world.md) | 4.51 | 0 | 615 |
 | 613 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.51 | 0 | 615 |
 | 613 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 143 | 354 |
