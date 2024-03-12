@@ -1,12 +1,12 @@
 # Anno 1800 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/anno-1800)  
 [View Rawdata](../../db/a/anno_1800_standard_edition.json)  
-Rating: 4.81 (Ranked 80)  
+Rating: 4.81 (Ranked 79)  
 Number of Ratings: 4,392  (23.09.2022)  
 ## Awards
 Max (Relaxing): 2,330  (Ranked 118)  
-Sum: 18,043 (Ranked 69)  
-Diff (max vs sum): 49  
+Sum: 18,043 (Ranked 70)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 2,330 |
