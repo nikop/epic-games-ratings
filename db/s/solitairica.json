@@ -4,7 +4,7 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 652,
   "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 332,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1381,10 +1381,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 644,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2024-03-12T08:58:03.1362861+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 508,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 644,
+  "NumberOfAwards": 508,
   "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1428,7 +1434,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1466,8 +1472,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-03-12T07:00:38.8843972+00:00",
+  "LastChanged": "2024-03-12T08:58:03.136286+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:50.9196768+00:00",
-  "LastUpdate_Ratings": "2024-03-12T07:00:38.8843977+00:00",
+  "LastUpdate_Ratings": "2024-03-12T08:58:03.1362864+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:07.5053536+00:00"
 }
