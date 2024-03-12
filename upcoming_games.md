@@ -375,6 +375,7 @@
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | - |  | - | - |
 | [Jawbreaker](games/j/jawbreaker.md) | 2099-01-01 | - |  | - | 0 |
 | [KAREN SEES](games/e/e53f61969af043f8a9cf3892b2371963.md) | 2099-01-01 | - |  | - | - |
+| [KARJALA](games/7/72aad6a073a644afb21d0966e2737c42.md) | 2099-01-01 | - |  | - | - |
 | [Karma City Police](games/e/e12cadecef31458b958d17431eb4ffd0.md) | 2099-01-01 | - |  | - | - |
 | [Keep Keepers](games/3/385d49efc26d45039f42216423168cae.md) | 2099-01-01 | - |  | - | - |
 | [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 2099-01-01 | - |  | - | - |
@@ -470,7 +471,6 @@
 | [Saloon Simulator](games/6/678afb6b7fea4643a800b5e1783347b7.md) | 2099-01-01 | - |  | - | - |
 | [Savant - Ascent REMIX](games/a/a013d93390c34ff588ab136bee0cde71.md) | 2099-01-01 | - |  | - | - |
 | [Saviorless](games/s/saviorless.md) | 2099-01-01 | - |  | - | - |
-| [SCP Horror Series 2](games/7/72aad6a073a644afb21d0966e2737c42.md) | 2099-01-01 | - |  | - | - |
 | [Seafrog](games/s/seafrog.md) | 2099-01-01 | - |  | - | - |
 | [Set Sail](games/c/c667cce0acf1428281d560ec9848d3ea.md) | 2099-01-01 | - |  | - | - |
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | - |  | - | - |
