@@ -329,6 +329,7 @@
 | [Everholm](games/e/everholm.md) | 2099-01-01 | - |  | - | - |
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2099-01-01 | - |  | - | - |
 | [Extremely Realistic Siege Warfare Simulator](games/b/ba853730b0ab4978b0a7394c47cdc337.md) | 2099-01-01 | - |  | - | - |
+| [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2099-01-01 | - |  | - | - |
 | [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | 2099-01-01 | - |  | - | - |
 | [Field Hospital: Dr. Taylor's Story](games/f/field_hospital__dr._taylor's_story.md) | 2099-01-01 | - |  | - | - |
 | [Fireball Wizard](games/a/a39d4b1311c741a191345f39bf1446eb.md) | 2099-01-01 | - |  | - | - |
