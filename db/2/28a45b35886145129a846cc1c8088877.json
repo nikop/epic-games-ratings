@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-online-2-d7bb78",
   "Ranking_Rating": 844,
   "Ranking_Popularity": 445,
-  "Ranking_PopularitySum": 464,
+  "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -539,10 +539,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 166,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-03-12T19:57:31.8102109+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 186,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166,
+  "NumberOfAwards": 186,
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -575,6 +581,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -589,8 +601,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T20:58:55.3583755+00:00",
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
-  "LastChanged": "2024-03-12T12:59:22.1498748+00:00",
+  "LastChanged": "2024-03-12T19:57:31.8102108+00:00",
   "LastUpdate_AppInfo": "2024-03-12T05:57:26.2339295+00:00",
-  "LastUpdate_Ratings": "2024-03-12T18:00:27.6158017+00:00",
+  "LastUpdate_Ratings": "2024-03-12T19:57:31.8102112+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:11.0828337+00:00"
 }

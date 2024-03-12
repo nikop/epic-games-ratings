@@ -1,12 +1,12 @@
 # Doki Doki Literature Club Plus!
 [Store](https://store.epicgames.com/en-US/p/doki-doki-literature-club-plus)  
 [View Rawdata](../../db/d/doki_doki_literature_club_plus!.json)  
-Rating: 4.82 (Ranked 71)  
+Rating: 4.82 (Ranked 72)  
 Number of Ratings: 47  (23.09.2022)  
 ## Awards
 Max (Character Customization): 172  (Ranked 339)  
-Sum: 172 (Ranked 457)  
-Diff (max vs sum): -118  
+Sum: 172 (Ranked 458)  
+Diff (max vs sum): -119  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 172 |
