@@ -3,12 +3,12 @@
 [View Rawdata](../../db/n/nightingale.json)  
 Rating: 4.29 (Ranked 911)  
 ## Awards
-Max (Highly Recommended): 29  (Ranked 556)  
-Sum: 117 (Ranked 486)  
-Diff (max vs sum): 70  
+Max (Highly Recommended): 30  (Ranked 551)  
+Sum: 118 (Ranked 486)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 29 |
+| This game is Highly Recommended | 30 |
 | This game is Great for Beginners | 24 |
 | This game is Relaxing | 24 |
 | This game has Beautiful Visuals | 23 |
@@ -34,3 +34,4 @@ Diff (max vs sum): 70
 | 2024-03-09 | 4.27 | 29 | 53 |
 | 2024-03-10 | 4.28 | 29 | 96 |
 | 2024-03-11 | 4.29 | 29 | 117 |
+| 2024-03-12 | 4.29 | 30 | 118 |

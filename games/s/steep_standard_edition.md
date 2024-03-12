@@ -4,9 +4,9 @@
 Rating: 4.71 (Ranked 208)  
 Number of Ratings: 414  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 29  (Ranked 556)  
+Max (Great for Quick Sessions): 29  (Ranked 557)  
 Sum: 216 (Ranked 435)  
-Diff (max vs sum): 121  
+Diff (max vs sum): 122  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 32 |

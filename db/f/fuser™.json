@@ -2,7 +2,7 @@
   "ID": "6af58339c2424644988e0fb83dfd9bd5",
   "Name": "FUSER\u2122",
   "ProductSlug": "fuser",
-  "Ranking_Rating": 208,
+  "Ranking_Rating": 196,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 896,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.72,
   "NumberOfRatings": 86,
   "RatingHistory": [
     {
@@ -227,6 +227,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 343,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-03-12T04:57:52.8651598+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 343,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
@@ -318,8 +324,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2023-10-05T01:43:01.4888114+00:00",
+  "LastChanged": "2024-03-12T04:57:52.8651596+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:58:06.4342594+00:00",
-  "LastUpdate_Ratings": "2024-03-12T03:00:00.0619917+00:00",
+  "LastUpdate_Ratings": "2024-03-12T04:57:52.8651601+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:39.7640511+00:00"
 }
