@@ -3,8 +3,8 @@
   "Name": "Chorus",
   "ProductSlug": "chorus",
   "Ranking_Rating": 669,
-  "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 523,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 165,
@@ -335,18 +335,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-03-12T10:58:16.8572838+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 36,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 35
+      "Count": 36
     }
   ],
   "EOS_Progressed": 1492,
@@ -3599,9 +3605,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
-  "LastChanged": "2024-03-12T06:01:37.6670437+00:00",
+  "LastChanged": "2024-03-12T10:58:16.8572836+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:43.2638786+00:00",
   "LastUpdate_AppInfo": "2024-03-10T08:57:23.2932833+00:00",
-  "LastUpdate_Ratings": "2024-03-12T08:59:48.8679968+00:00",
+  "LastUpdate_Ratings": "2024-03-12T10:58:16.8572842+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:43.2639109+00:00"
 }
