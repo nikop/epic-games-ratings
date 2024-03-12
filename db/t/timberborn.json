@@ -2,7 +2,7 @@
   "ID": "3a1067df83654812b976101174e1904f",
   "Name": "Timberborn",
   "ProductSlug": "timberborn",
-  "Ranking_Rating": 180,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 896,
@@ -2493,6 +2493,6 @@
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
   "LastChanged": "2024-03-09T21:57:36.3542356+00:00",
   "LastUpdate_AppInfo": "2024-03-10T12:57:13.0167422+00:00",
-  "LastUpdate_Ratings": "2024-03-12T16:59:03.9062608+00:00",
+  "LastUpdate_Ratings": "2024-03-12T18:00:16.7708901+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:54.8825234+00:00"
 }
