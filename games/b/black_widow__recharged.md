@@ -1,7 +1,7 @@
 # Black Widow: Recharged
 [Store](https://store.epicgames.com/en-US/p/black-widow-recharged)  
 [View Rawdata](../../db/b/black_widow__recharged.json)  
-Rating: 4.22 (Ranked 979)  
+Rating: 4.23 (Ranked 972)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -338,3 +338,4 @@ Completed: 63 (0.25%) (Ranked 286)
 | 2023-10-22 | 4.20 | - | 0 | 0 |
 | 2023-11-02 | 4.21 | - | 0 | 0 |
 | 2024-01-18 | 4.22 | - | 0 | 0 |
+| 2024-03-12 | 4.23 | - | 0 | 0 |
