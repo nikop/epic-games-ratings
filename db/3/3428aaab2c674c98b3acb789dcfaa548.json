@@ -2,8 +2,8 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 246,
-  "Ranking_Popularity": 56,
+  "Ranking_Rating": 245,
+  "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 378,
@@ -12801,24 +12801,30 @@
       "Rating": 4.69,
       "NumberOfAwards": 25222,
       "NumberOfAwardsMax": 8262
+    },
+    {
+      "Time": "2024-03-12T21:58:01.0910068+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 25253,
+      "NumberOfAwardsMax": 8277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25222,
-  "NumberOfAwardsMax": 8262,
+  "NumberOfAwards": 25253,
+  "NumberOfAwardsMax": 8277,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8262
+      "Count": 8277
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4836
+      "Count": 4845
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12854,7 +12860,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 786
+      "Count": 789
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12866,7 +12872,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 742
+      "Count": 746
     },
     {
       "Text": "This game has a Creative Community",
@@ -42634,9 +42640,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-03-12T16:00:28.5802746+00:00",
+  "LastChanged": "2024-03-12T21:58:01.0910066+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:24.5582407+00:00",
   "LastUpdate_AppInfo": "2024-03-08T18:57:29.5845268+00:00",
-  "LastUpdate_Ratings": "2024-03-12T19:59:35.1263974+00:00",
+  "LastUpdate_Ratings": "2024-03-12T21:58:01.0910073+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:24.5583993+00:00"
 }
