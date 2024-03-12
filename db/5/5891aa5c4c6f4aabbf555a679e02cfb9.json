@@ -3,7 +3,7 @@
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
   "Ranking_Rating": 481,
-  "Ranking_Popularity": 310,
+  "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 358,
@@ -2845,11 +2845,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 1362,
       "NumberOfAwardsMax": 216
+    },
+    {
+      "Time": "2024-03-12T14:57:27.6498997+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1365,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1362,
-  "NumberOfAwardsMax": 216,
+  "NumberOfAwards": 1365,
+  "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2862,7 +2868,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2874,7 +2880,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 179
+      "Count": 180
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2904,7 +2910,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 216
+      "Count": 217
     }
   ],
   "EOS_Progressed": 542728,
@@ -14748,9 +14754,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-03-11T14:59:02.7072917+00:00",
+  "LastChanged": "2024-03-12T14:57:27.6498996+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:17.3098936+00:00",
   "LastUpdate_AppInfo": "2024-03-07T10:57:21.1449899+00:00",
-  "LastUpdate_Ratings": "2024-03-12T13:00:41.8672515+00:00",
+  "LastUpdate_Ratings": "2024-03-12T14:57:27.6499001+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:17.3099689+00:00"
 }
