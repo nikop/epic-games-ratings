@@ -2,9 +2,9 @@
   "ID": "749a943da8ca4937883c195aea8b2652",
   "Name": "Gods Unchained",
   "ProductSlug": "gods-unchained-9b2cb5",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 869,
   "Ranking_Popularity": 593,
-  "Ranking_PopularitySum": 548,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-07-14T19:57:17.9448105+00:00",
@@ -335,6 +335,12 @@
       "Rating": 4.33,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-03-12T16:59:03.7468816+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -367,8 +373,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-22T02:56:58.3555255+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
-  "LastChanged": "2024-03-10T16:58:14.8684086+00:00",
+  "LastChanged": "2024-03-12T16:59:03.7468814+00:00",
   "LastUpdate_AppInfo": "2024-03-07T22:57:11.5079823+00:00",
-  "LastUpdate_Ratings": "2024-03-12T15:01:05.9634992+00:00",
+  "LastUpdate_Ratings": "2024-03-12T16:59:03.7468817+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:04.8310351+00:00"
 }
