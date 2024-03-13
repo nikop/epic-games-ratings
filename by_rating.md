@@ -75,10 +75,10 @@
 | 72 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 177 | 332 |
 | 72 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,565 | 141 |
 | 72 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 317 | 269 |
-| 72 | [Sifu](games/s/sifu.md) | 4.82 | 7,520 | 63 |
+| 72 | [Sifu](games/s/sifu.md) | 4.82 | 7,520 | 64 |
 | 72 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 489 | 234 |
 | 72 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 102 | 392 |
-| 79 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,330 | 118 |
+| 79 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,332 | 118 |
 | 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 615 |
 | 79 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 615 |
 | 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 615 |
@@ -120,7 +120,7 @@
 | 113 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,371 | 72 |
 | 113 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 615 |
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 551 |
-| 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,124 | 42 |
+| 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,140 | 41 |
 | 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,266 | 152 |
 | 121 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,032 | 38 |
 | 121 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 615 |
@@ -156,7 +156,7 @@
 | 149 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 615 |
 | 149 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 615 |
 | 149 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 986 | 177 |
-| 149 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 15,851 | 27 |
+| 149 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 15,889 | 27 |
 | 149 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.75 | 0 | 615 |
 | 149 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 615 |
 | 149 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 97 | 401 |
@@ -379,7 +379,7 @@
 | 374 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 297 | 276 |
 | 374 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 528 |
 | 374 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,402 | 115 |
-| 374 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,924 | 130 |
+| 374 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,927 | 130 |
 | 374 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.63 | 40 | 509 |
 | 374 | [HITMAN](games/h/hitman.md) | 4.63 | 224 | 304 |
 | 374 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.63 | 0 | 615 |
@@ -428,7 +428,7 @@
 | 407 | [MudRunner](games/m/mudrunner.md) | 4.61 | 324 | 266 |
 | 407 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.61 | 0 | 615 |
 | 407 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 730 | 202 |
-| 407 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,126 | 41 |
+| 407 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,126 | 42 |
 | 407 | [Risen](games/r/risen.md) | 4.61 | 0 | 615 |
 | 407 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,123 | 160 |
 | 407 | [Rogue Lords](games/r/rogue_lords.md) | 4.61 | 0 | 615 |
@@ -583,7 +583,7 @@
 | 565 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 401 |
 | 565 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 615 |
 | 565 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 401 | 250 |
-| 584 | [Dauntless](games/d/dauntless.md) | 4.53 | 27,592 | 19 |
+| 584 | [Dauntless](games/d/dauntless.md) | 4.53 | 27,611 | 19 |
 | 584 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 25 | 580 |
 | 584 | [Everything](games/e/everything.md) | 4.53 | 0 | 615 |
 | 584 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 24 | 586 |
@@ -657,10 +657,10 @@
 | 653 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 615 |
 | 653 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 104 | 390 |
 | 653 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 615 |
-| 653 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,518 | 64 |
+| 653 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,537 | 63 |
 | 653 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.49 | 3,677 | 99 |
 | 653 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 615 |
-| 653 | [Maneater](games/m/maneater.md) | 4.49 | 14,044 | 33 |
+| 653 | [Maneater](games/m/maneater.md) | 4.49 | 14,047 | 33 |
 | 653 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 395 |
 | 653 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 38 | 520 |
 | 653 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 615 |
