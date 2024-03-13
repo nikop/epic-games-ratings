@@ -4,7 +4,7 @@
   "ProductSlug": "ghostwire-tokyo",
   "Ranking_Rating": 653,
   "Ranking_Popularity": 64,
-  "Ranking_PopularitySum": 104,
+  "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -5743,6 +5743,6 @@
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
   "LastChanged": "2024-03-13T02:17:09.4825445+00:00",
   "LastUpdate_AppInfo": "2024-03-10T08:57:32.6541893+00:00",
-  "LastUpdate_Ratings": "2024-03-13T02:17:09.4825455+00:00",
+  "LastUpdate_Ratings": "2024-03-13T03:57:36.6749239+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:35.5497188+00:00"
 }
