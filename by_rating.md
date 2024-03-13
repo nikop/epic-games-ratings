@@ -235,7 +235,7 @@
 | 225 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.70 | 0 | 615 |
 | 225 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 0 | 615 |
 | 225 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,370 | 149 |
-| 225 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.70 | 308 | 271 |
+| 225 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.70 | 309 | 270 |
 | 225 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.70 | 0 | 615 |
 | 225 | [Sailing Era](games/s/sailing_era.md) | 4.70 | 0 | 615 |
 | 225 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 55 | 469 |
@@ -251,7 +251,7 @@
 | 245 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 366 |
 | 245 | [Coromon](games/c/coromon.md) | 4.69 | 49 | 487 |
 | 245 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,554 | 53 |
-| 245 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 8,277 | 55 |
+| 245 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 8,277 | 56 |
 | 245 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 9,116 | 48 |
 | 245 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 615 |
 | 245 | [House Flipper](games/h/house_flipper.md) | 4.69 | 343 | 259 |
@@ -500,7 +500,7 @@
 | 481 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 132 | 364 |
 | 481 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 227 | 301 |
 | 481 | [Tails of Iron](games/t/tails_of_iron.md) | 4.58 | 20 | 608 |
-| 481 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 294 | 280 |
+| 481 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 295 | 280 |
 | 481 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 57 | 466 |
 | 481 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 217 | 309 |
 | 481 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,849 | 67 |
@@ -529,7 +529,7 @@
 | 525 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 51 | 482 |
 | 525 | [Costume Quest](games/c/costume_quest.md) | 4.56 | 0 | 615 |
 | 525 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 53 | 474 |
-| 525 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,048 | 169 |
+| 525 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,049 | 169 |
 | 525 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 28 | 563 |
 | 525 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 0 | 615 |
 | 525 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 2,267 | 121 |
@@ -559,7 +559,7 @@
 | 550 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.55 | 0 | 615 |
 | 550 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.55 | 0 | 615 |
 | 550 | [Little Inferno](games/l/little_inferno.md) | 4.55 | 0 | 615 |
-| 550 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,279 | 119 |
+| 550 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,280 | 119 |
 | 550 | [Observation](games/o/observation.md) | 4.55 | 0 | 615 |
 | 550 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 95 | 406 |
 | 550 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.55 | 48 | 491 |
@@ -743,7 +743,7 @@
 | 728 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 615 |
 | 728 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 615 |
 | 728 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 615 |
-| 728 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 669 | 206 |
+| 728 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 671 | 206 |
 | 728 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 615 |
 | 728 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 399 |
 | 728 | [The Colonists](games/t/the_colonists.md) | 4.44 | 0 | 615 |
@@ -975,7 +975,7 @@
 | 973 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.23 | 0 | 615 |
 | 973 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 615 |
 | 973 | [Cyber Hook](games/c/cyber_hook.md) | 4.23 | 0 | 615 |
-| 973 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.23 | 8,271 | 56 |
+| 973 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.23 | 8,334 | 55 |
 | 973 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 174 |
 | 973 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 615 |
 | 973 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 615 |

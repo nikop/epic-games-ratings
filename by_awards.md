@@ -54,8 +54,8 @@
 | 52 | [Remnant II®](games/r/remnant_2.md) | 8,643 | 4.71 | 208 |
 | 53 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 8,554 | 4.69 | 245 |
 | 54 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,456 | 4.84 | 48 |
-| 55 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 8,277 | 4.69 | 245 |
-| 56 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 8,271 | 4.23 | 973 |
+| 55 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 8,334 | 4.23 | 973 |
+| 56 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 8,277 | 4.69 | 245 |
 | 57 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,258 | 4.68 | 274 |
 | 58 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 8,040 | 4.00 | 1,086 |
 | 59 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 8,036 | 4.50 | 636 |
@@ -118,7 +118,7 @@
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,372 | 4.76 | 136 |
 | 117 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,360 | 4.67 | 293 |
 | 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,330 | 4.81 | 79 |
-| 119 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,279 | 4.55 | 550 |
+| 119 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,280 | 4.55 | 550 |
 | 120 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,277 | 4.41 | 774 |
 | 121 | [Ghostrunner](games/g/ghostrunner.md) | 2,267 | 4.56 | 525 |
 | 122 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,173 | 4.37 | 831 |
@@ -168,7 +168,7 @@
 | 166 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,068 | 4.51 | 614 |
 | 167 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,061 | 4.54 | 565 |
 | 168 | [Ooblets](games/o/ooblets.md) | 1,057 | 4.88 | 16 |
-| 169 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,048 | 4.56 | 525 |
+| 169 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,049 | 4.56 | 525 |
 | 170 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,041 | 4.49 | 653 |
 | 171 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,039 | 4.25 | 957 |
 | 172 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,027 | 4.65 | 335 |
@@ -205,7 +205,7 @@
 | 203 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 720 | 4.63 | 374 |
 | 204 | [Blazing Sails](games/b/blazing_sails.md) | 706 | 3.96 | 1,097 |
 | 205 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 686 | 4.50 | 636 |
-| 206 | [Star Trek Online](games/s/star_trek_online.md) | 669 | 4.44 | 728 |
+| 206 | [Star Trek Online](games/s/star_trek_online.md) | 671 | 4.44 | 728 |
 | 207 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 667 | 4.69 | 245 |
 | 208 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 662 | 4.62 | 394 |
 | 209 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 657 | 4.87 | 21 |
@@ -270,7 +270,7 @@
 | 268 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 318 | 4.44 | 728 |
 | 269 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 317 | 4.82 | 72 |
 | 270 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 309 | 4.42 | 761 |
-| 271 | [Overcooked! 2](games/o/overcooked!_2.md) | 308 | 4.70 | 225 |
+| 270 | [Overcooked! 2](games/o/overcooked!_2.md) | 309 | 4.70 | 225 |
 | 272 | [Diabotical](games/d/diabotical.md) | 307 | 4.73 | 181 |
 | 273 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 306 | 4.62 | 394 |
 | 274 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 394 |
@@ -279,7 +279,7 @@
 | 276 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 949 |
 | 278 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 296 | 4.83 | 56 |
 | 278 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 296 | 4.44 | 728 |
-| 280 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 294 | 4.58 | 481 |
+| 280 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 295 | 4.58 | 481 |
 | 281 | [Sheltered](games/s/sheltered.md) | 286 | 4.41 | 774 |
 | 282 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 283 | 4.83 | 56 |
 | 283 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 281 | 4.48 | 670 |
