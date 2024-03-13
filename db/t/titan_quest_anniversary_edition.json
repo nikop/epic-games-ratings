@@ -4,7 +4,7 @@
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 274,
   "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -685,10 +685,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 278,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2024-03-13T05:57:16.0198719+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 278,
+  "NumberOfAwards": 279,
   "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Highly Recommended",
@@ -746,8 +752,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2024-02-17T21:59:49.9860262+00:00",
+  "LastChanged": "2024-03-13T05:57:16.0198717+00:00",
   "LastUpdate_AppInfo": "2024-03-10T10:57:25.5515864+00:00",
-  "LastUpdate_Ratings": "2024-03-13T03:59:32.3702083+00:00",
+  "LastUpdate_Ratings": "2024-03-13T05:57:16.0198722+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:56.0033581+00:00"
 }
