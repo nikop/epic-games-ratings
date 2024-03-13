@@ -21282,10 +21282,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 584047,
       "NumberOfAwardsMax": 155876
+    },
+    {
+      "Time": "2024-03-13T15:58:32.7285395+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 584430,
+      "NumberOfAwardsMax": 155876
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 584047,
+  "NumberOfAwards": 584430,
   "NumberOfAwardsMax": 155876,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21299,19 +21305,19 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 118786
+      "Count": 118904
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37879
+      "Count": 37948
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 33755
+      "Count": 33807
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -21347,13 +21353,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 34917
+      "Count": 34986
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 35171
+      "Count": 35246
     },
     {
       "Text": "This game has a Creative Community",
@@ -54276,9 +54282,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-03-13T10:00:29.8371362+00:00",
+  "LastChanged": "2024-03-13T15:58:32.7285394+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:44.2925394+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:27.1431405+00:00",
-  "LastUpdate_Ratings": "2024-03-13T14:01:38.780751+00:00",
+  "LastUpdate_Ratings": "2024-03-13T15:58:32.7285399+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:44.2927684+00:00"
 }

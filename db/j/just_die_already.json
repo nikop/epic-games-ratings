@@ -4,7 +4,7 @@
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 597,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1920,10 +1920,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 810,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2024-03-13T15:58:09.4995438+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 811,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 810,
+  "NumberOfAwards": 811,
   "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1979,7 +1985,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Easy Combat",
@@ -2011,8 +2017,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2024-03-11T18:00:12.255215+00:00",
+  "LastChanged": "2024-03-13T15:58:09.4995433+00:00",
   "LastUpdate_AppInfo": "2024-03-10T12:57:15.5408393+00:00",
-  "LastUpdate_Ratings": "2024-03-13T14:01:11.1523232+00:00",
+  "LastUpdate_Ratings": "2024-03-13T15:58:09.4995442+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:04.95997+00:00"
 }
