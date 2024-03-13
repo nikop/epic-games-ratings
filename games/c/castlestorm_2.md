@@ -1,7 +1,7 @@
 # CastleStorm 2
 [Store](https://store.epicgames.com/en-US/p/castlestorm2)  
 [View Rawdata](../../db/c/castlestorm_2.json)  
-Rating: 4.30 (Ranked 905)  
+Rating: 4.30 (Ranked 906)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
