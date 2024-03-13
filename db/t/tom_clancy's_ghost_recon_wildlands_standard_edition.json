@@ -6393,11 +6393,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 2642,
       "NumberOfAwardsMax": 376
+    },
+    {
+      "Time": "2024-03-13T19:59:57.9978766+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2643,
+      "NumberOfAwardsMax": 377
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2642,
-  "NumberOfAwardsMax": 376,
+  "NumberOfAwards": 2643,
+  "NumberOfAwardsMax": 377,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6458,7 +6464,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 376
+      "Count": 377
     }
   ],
   "EOS_Progressed": 0,
@@ -6472,8 +6478,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2024-03-13T17:00:00.2769056+00:00",
+  "LastChanged": "2024-03-13T19:59:57.9978764+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:36.9808845+00:00",
-  "LastUpdate_Ratings": "2024-03-13T18:58:05.981755+00:00",
+  "LastUpdate_Ratings": "2024-03-13T19:59:57.997877+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:59.3344218+00:00"
 }

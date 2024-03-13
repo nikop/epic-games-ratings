@@ -1,15 +1,15 @@
 # Northgard
 [Store](https://store.epicgames.com/en-US/p/northgard)  
 [View Rawdata](../../db/n/northgard.json)  
-Rating: 4.67 (Ranked 293)  
+Rating: 4.67 (Ranked 294)  
 Number of Ratings: 82  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 44  (Ranked 502)  
-Sum: 209 (Ranked 439)  
-Diff (max vs sum): 63  
+Max (Great for Beginners): 45  (Ranked 500)  
+Sum: 210 (Ranked 438)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 44 |
+| This game is Great for Beginners | 45 |
 | This game has Diverse Characters | 35 |
 | This game is Relaxing | 32 |
 | This game is Highly Recommended | 27 |
@@ -132,3 +132,4 @@ Diff (max vs sum): 63
 | 2024-02-28 | 4.67 | - | 42 | 206 |
 | 2024-03-05 | 4.67 | - | 44 | 208 |
 | 2024-03-11 | 4.67 | - | 44 | 209 |
+| 2024-03-13 | 4.67 | - | 45 | 210 |
