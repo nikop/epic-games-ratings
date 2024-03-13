@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [CUSTOM ORDER MAID 3D2 It's a Night Magic](games/3/309fb463378346999da2271c311cf2c2.md) | 2024-03-14 | - |  | - | - |
+| [Highwater](games/h/highwater.md) | 2024-03-14 | - |  | - | - |
 | [Vacation Adventures Park Ranger 11 Collectors Edition](games/2/239440e79c1e4cbeafce12f546807def.md) | 2024-03-14 | - |  | - | - |
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
 | [The Warden's Paradise](games/8/829e4fae2a754b94b71476ad9cebba84.md) | 2024-03-15 | - |  | - | - |
@@ -361,7 +362,6 @@
 | [Hero Flood Rescue](games/h/hero_flood_rescue.md) | 2099-01-01 | - |  | - | - |
 | [Heroes of Latera](games/e/ef58f7e6ac8648a99de895f5e571d9e7.md) | 2099-01-01 | - |  | - | - |
 | [Hidden Cats: Magic Forest](games/b/bfb2b691db4741f7827ab8bd3dfd5b18.md) | 2099-01-01 | - |  | - | - |
-| [Highwater](games/h/highwater.md) | 2099-01-01 | - |  | - | - |
 | [Hit and Boom](games/h/hit_and_boom.md) | 2099-01-01 | - |  | - | - |
 | [Hold On](games/h/hold_on.md) | 2099-01-01 | - |  | - | - |
 | [HumanitZ](games/h/humanitz.md) | 2099-01-01 | - |  | - | - |
