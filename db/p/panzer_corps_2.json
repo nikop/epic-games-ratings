@@ -655,10 +655,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 139,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-03-13T20:59:29.6247635+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 140,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 139,
+  "NumberOfAwards": 140,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -690,7 +696,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Competitive Players",
@@ -722,8 +728,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2024-03-09T06:59:29.0477104+00:00",
+  "LastChanged": "2024-03-13T20:59:29.6247634+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:11.628513+00:00",
-  "LastUpdate_Ratings": "2024-03-13T19:57:40.4258955+00:00",
+  "LastUpdate_Ratings": "2024-03-13T20:59:29.6247638+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:32.6418095+00:00"
 }
