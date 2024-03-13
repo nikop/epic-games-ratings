@@ -4,7 +4,7 @@
   "ProductSlug": "nightingale",
   "Ranking_Rating": 930,
   "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 484,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -331,10 +331,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 123,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-03-13T02:59:25.737998+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 123,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -373,6 +379,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -387,8 +399,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
-  "LastChanged": "2024-03-13T01:40:21.6950876+00:00",
+  "LastChanged": "2024-03-13T02:59:25.7379977+00:00",
   "LastUpdate_AppInfo": "2024-03-10T10:57:23.1600366+00:00",
-  "LastUpdate_Ratings": "2024-03-13T02:15:50.1105791+00:00",
+  "LastUpdate_Ratings": "2024-03-13T02:59:25.7379983+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:34.4582727+00:00"
 }
