@@ -4,7 +4,7 @@
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 653,
   "Ranking_Popularity": 170,
-  "Ranking_PopularitySum": 115,
+  "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -10558,10 +10558,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 8949,
       "NumberOfAwardsMax": 1041
+    },
+    {
+      "Time": "2024-03-13T06:59:25.9113084+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 8951,
+      "NumberOfAwardsMax": 1041
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8949,
+  "NumberOfAwards": 8951,
   "NumberOfAwardsMax": 1041,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10575,7 +10581,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 986
+      "Count": 988
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10649,8 +10655,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-03-12T17:58:19.2442033+00:00",
+  "LastChanged": "2024-03-13T06:59:25.9113079+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:14.9814903+00:00",
-  "LastUpdate_Ratings": "2024-03-13T05:58:34.1303151+00:00",
+  "LastUpdate_Ratings": "2024-03-13T06:59:25.9113087+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:41.5811536+00:00"
 }
