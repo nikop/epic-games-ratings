@@ -4,18 +4,18 @@
 Rating: 3.94 (Ranked 1,106)  
 ## Awards
 Max (Highly Recommended): 67  (Ranked 451)  
-Sum: 503 (Ranked 357)  
-Diff (max vs sum): 94  
+Sum: 506 (Ranked 356)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 67 |
 | This game is Great for Beginners | 61 |
 | This game is Relaxing | 60 |
 | This game has Competitive Players | 60 |
+| This game has Quickly Understood Controls | 57 |
 | This game has Amazing Characters | 56 |
-| This game has Quickly Understood Controls | 55 |
 | This game has Amazing Storytelling | 53 |
-| This game has Realistic Visuals | 51 |
+| This game has Realistic Visuals | 52 |
 | This game is Extremely Fun | 51 |
 | This game has a Competitive Community | 50 |
 ## Ratings History
@@ -126,3 +126,4 @@ Diff (max vs sum): 94
 | 2024-03-10 | 3.94 | 67 | 436 |
 | 2024-03-11 | 3.94 | 67 | 496 |
 | 2024-03-12 | 3.94 | 67 | 503 |
+| 2024-03-13 | 3.94 | 67 | 506 |
