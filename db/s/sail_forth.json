@@ -4,7 +4,7 @@
   "ProductSlug": "sail-forth-51847e",
   "Ranking_Rating": 791,
   "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 507,
+  "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -395,10 +395,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-03-13T21:58:23.7320586+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86,
+  "NumberOfAwards": 87,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -418,7 +424,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Easy Combat",
@@ -2721,9 +2727,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-03-12T14:01:02.8117947+00:00",
+  "LastChanged": "2024-03-13T21:58:23.7320584+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:30.1280076+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:47.8140706+00:00",
-  "LastUpdate_Ratings": "2024-03-13T20:01:13.6609262+00:00",
+  "LastUpdate_Ratings": "2024-03-13T21:58:23.7320588+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:30.1280401+00:00"
 }
