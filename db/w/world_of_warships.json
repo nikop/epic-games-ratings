@@ -15247,10 +15247,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 16203,
       "NumberOfAwardsMax": 1918
+    },
+    {
+      "Time": "2024-03-13T12:00:10.420855+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 16204,
+      "NumberOfAwardsMax": 1918
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16203,
+  "NumberOfAwards": 16204,
   "NumberOfAwardsMax": 1918,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -15258,7 +15264,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1904
+      "Count": 1905
     },
     {
       "Text": "This game has Competitive Players",
@@ -35009,9 +35015,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-03-13T06:57:50.9815477+00:00",
+  "LastChanged": "2024-03-13T12:00:10.4208548+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:45.7098664+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:55.7018618+00:00",
-  "LastUpdate_Ratings": "2024-03-13T10:58:43.4831835+00:00",
+  "LastUpdate_Ratings": "2024-03-13T12:00:10.4208554+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:45.7099618+00:00"
 }

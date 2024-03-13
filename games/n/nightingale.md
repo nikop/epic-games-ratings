@@ -4,8 +4,8 @@
 Rating: 4.28 (Ranked 930)  
 ## Awards
 Max (Highly Recommended): 30  (Ranked 551)  
-Sum: 180 (Ranked 453)  
-Diff (max vs sum): 98  
+Sum: 200 (Ranked 443)  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 30 |
@@ -15,6 +15,7 @@ Diff (max vs sum): 98
 | This game is Relaxing | 24 |
 | This game has Quickly Understood Controls | 22 |
 | This game has Amazing Characters | 21 |
+| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -36,4 +37,4 @@ Diff (max vs sum): 98
 | 2024-03-10 | 4.28 | 29 | 96 |
 | 2024-03-11 | 4.29 | 29 | 117 |
 | 2024-03-12 | 4.29 | 30 | 123 |
-| 2024-03-13 | 4.28 | 30 | 180 |
+| 2024-03-13 | 4.28 | 30 | 200 |
