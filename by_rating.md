@@ -180,7 +180,7 @@
 | 163 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.74 | 0 | 615 |
 | 163 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,110 | 161 |
 | 163 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 615 |
-| 181 | [Diabotical](games/d/diabotical.md) | 4.73 | 306 | 272 |
+| 181 | [Diabotical](games/d/diabotical.md) | 4.73 | 307 | 272 |
 | 181 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 54 | 472 |
 | 181 | [Eternights](games/e/eternights.md) | 4.73 | 0 | 615 |
 | 181 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 615 |
@@ -245,7 +245,7 @@
 | 225 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,930 | 86 |
 | 225 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 615 |
 | 245 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 615 |
-| 245 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 129,416 | 9 |
+| 245 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 129,464 | 9 |
 | 245 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 615 |
 | 245 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 615 |
 | 245 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 366 |
@@ -257,13 +257,13 @@
 | 245 | [House Flipper](games/h/house_flipper.md) | 4.69 | 343 | 259 |
 | 245 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 615 |
 | 245 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,273 | 151 |
-| 245 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,037 | 126 |
+| 245 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,037 | 127 |
 | 245 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 615 |
 | 245 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 667 | 207 |
 | 245 | [Outlast 2](games/o/outlast_2.md) | 4.69 | 0 | 615 |
 | 245 | [Pikuniku](games/p/pikuniku.md) | 4.69 | 0 | 615 |
 | 245 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,036 | 37 |
-| 245 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 557 | 225 |
+| 245 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 559 | 224 |
 | 245 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.69 | 0 | 615 |
 | 245 | [Suzerain](games/s/suzerain.md) | 4.69 | 0 | 615 |
 | 245 | [Tchia](games/t/tchia.md) | 4.69 | 0 | 615 |
@@ -351,7 +351,7 @@
 | 335 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 615 |
 | 335 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 0 | 615 |
 | 335 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 1,027 | 172 |
-| 335 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 409 | 248 |
+| 335 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 416 | 247 |
 | 335 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,645 | 89 |
 | 335 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 113 | 382 |
 | 355 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.64 | 0 | 615 |
@@ -403,7 +403,7 @@
 | 394 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 615 |
 | 394 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 615 |
 | 394 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,892 | 109 |
-| 394 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 306 | 272 |
+| 394 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 306 | 273 |
 | 394 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 305 | 274 |
 | 394 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 4,216 | 95 |
 | 407 | [20XX](games/2/20xx.md) | 4.61 | 39 | 514 |
@@ -783,7 +783,7 @@
 | 774 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.41 | 0 | 615 |
 | 774 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 615 |
 | 774 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 615 |
-| 774 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,275 | 120 |
+| 774 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,277 | 120 |
 | 774 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 441 |
 | 774 | [Sheltered](games/s/sheltered.md) | 4.41 | 286 | 281 |
 | 774 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 0 | 615 |
@@ -904,7 +904,7 @@
 | 899 | [Startup Panic](games/s/startup_panic.md) | 4.31 | 0 | 615 |
 | 899 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 615 |
 | 904 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.30 | 22 | 597 |
-| 904 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.30 | 410 | 247 |
+| 904 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.30 | 410 | 248 |
 | 904 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.30 | 0 | 615 |
 | 904 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.30 | 74 | 435 |
 | 904 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.30 | 0 | 615 |
@@ -1017,7 +1017,7 @@
 | 1,015 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 615 |
 | 1,015 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.18 | 0 | 615 |
 | 1,015 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,416 | 106 |
-| 1,015 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 223,791 | 6 |
+| 1,015 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 223,865 | 6 |
 | 1,015 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 404 |
 | 1,020 | [Banished](games/b/banished.md) | 4.17 | 0 | 615 |
 | 1,020 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 615 |
@@ -1052,7 +1052,7 @@
 | 1,050 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 597 |
 | 1,050 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.13 | 55 | 469 |
 | 1,050 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 615 |
-| 1,050 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,030 | 127 |
+| 1,050 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,055 | 125 |
 | 1,054 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 615 |
 | 1,054 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.12 | 0 | 615 |
 | 1,054 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.12 | 0 | 615 |
