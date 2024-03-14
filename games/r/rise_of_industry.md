@@ -1,7 +1,7 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.27 (Ranked 941)  
+Rating: 4.26 (Ranked 949)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -387,3 +387,4 @@ Diff (max vs sum): -10
 | 2024-02-25 | 4.26 | 23 | 23 |
 | 2024-03-04 | 4.26 | 24 | 24 |
 | 2024-03-12 | 4.27 | 24 | 24 |
+| 2024-03-14 | 4.26 | 24 | 24 |
