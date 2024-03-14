@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.64 (Ranked 357)  
+Rating: 4.65 (Ranked 335)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -463,3 +463,4 @@ Diff (max vs sum): 82
 | 2024-03-09 | 4.64 | 57 | 352 |
 | 2024-03-10 | 4.64 | 57 | 354 |
 | 2024-03-11 | 4.64 | 57 | 356 |
+| 2024-03-14 | 4.65 | 57 | 356 |
