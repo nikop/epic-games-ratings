@@ -30,7 +30,7 @@
 | 22 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.87 | 0 | 615 |
 | 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 657 | 209 |
 | 30 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 149 | 353 |
-| 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 47 | 493 |
+| 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 47 | 494 |
 | 30 | [Coffee Talk](games/c/coffee_talk.md) | 4.86 | 0 | 615 |
 | 30 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 359 | 257 |
 | 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 366 | 256 |
@@ -316,7 +316,7 @@
 | 314 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 0 | 615 |
 | 314 | [BLACKTAIL](games/b/blacktail.md) | 4.66 | 0 | 615 |
 | 314 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 94 | 409 |
-| 314 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,207 | 65 |
+| 314 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,220 | 65 |
 | 314 | [Crashlands](games/c/crashlands.md) | 4.66 | 201 | 316 |
 | 314 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 184 | 326 |
 | 314 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,315 | 150 |
@@ -631,7 +631,7 @@
 | 615 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 74 | 435 |
 | 615 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.51 | 0 | 615 |
 | 615 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 615 |
-| 615 | [VALORANT](games/v/valorant.md) | 4.51 | 104,821 | 10 |
+| 615 | [VALORANT](games/v/valorant.md) | 4.51 | 104,948 | 10 |
 | 615 | [Wall World](games/w/wall_world.md) | 4.51 | 0 | 615 |
 | 615 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.51 | 0 | 615 |
 | 615 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 143 | 354 |
@@ -940,7 +940,7 @@
 | 931 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.28 | 0 | 615 |
 | 931 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.28 | 0 | 615 |
 | 931 | [Wreckfest](games/w/wreckfest.md) | 4.28 | 0 | 615 |
-| 941 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 47 | 493 |
+| 941 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 48 | 491 |
 | 941 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 615 |
 | 941 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 615 |
 | 941 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 23 | 593 |
@@ -964,7 +964,7 @@
 | 958 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 615 |
 | 963 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 615 |
 | 963 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 534 |
-| 963 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.24 | 47 | 493 |
+| 963 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.24 | 47 | 494 |
 | 963 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 615 |
 | 963 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,211 | 153 |
 | 963 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.24 | 0 | 615 |
@@ -1047,13 +1047,13 @@
 | 1,035 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.15 | 0 | 615 |
 | 1,035 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.15 | 0 | 615 |
 | 1,047 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.14 | 0 | 615 |
+| 1,047 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.14 | 55 | 469 |
 | 1,047 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 615 |
 | 1,047 | [Pine](games/p/pine.md) | 4.14 | 0 | 615 |
 | 1,047 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 615 |
-| 1,051 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 597 |
-| 1,051 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.13 | 55 | 469 |
-| 1,051 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 615 |
-| 1,051 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,055 | 125 |
+| 1,052 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 597 |
+| 1,052 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 615 |
+| 1,052 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,055 | 125 |
 | 1,055 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 615 |
 | 1,055 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.12 | 0 | 615 |
 | 1,055 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.12 | 0 | 615 |

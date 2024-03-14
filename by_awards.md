@@ -9,7 +9,7 @@
 | 7 | [Fall Guys](games/f/fall_guys.md) | 157,530 | 4.51 | 615 |
 | 8 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 155,876 | 4.68 | 275 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 129,464 | 4.69 | 246 |
-| 10 | [VALORANT](games/v/valorant.md) | 104,821 | 4.51 | 615 |
+| 10 | [VALORANT](games/v/valorant.md) | 104,948 | 4.51 | 615 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 70,493 | 4.44 | 728 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,550 | 4.58 | 482 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 57,529 | 4.61 | 408 |
@@ -64,7 +64,7 @@
 | 62 | [Supraland](games/s/supraland.md) | 7,822 | 4.61 | 408 |
 | 63 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 7,537 | 4.49 | 654 |
 | 64 | [Sifu](games/s/sifu.md) | 7,520 | 4.82 | 73 |
-| 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,207 | 4.66 | 314 |
+| 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,220 | 4.66 | 314 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,881 | 4.83 | 57 |
 | 67 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,852 | 4.58 | 482 |
 | 68 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 762 |
@@ -124,7 +124,7 @@
 | 122 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,173 | 4.37 | 832 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,078 | 4.55 | 550 |
 | 124 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,060 | 4.49 | 654 |
-| 125 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,055 | 4.13 | 1,051 |
+| 125 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,055 | 4.13 | 1,052 |
 | 125 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,055 | 4.90 | 9 |
 | 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,037 | 4.69 | 246 |
 | 128 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,980 | 4.66 | 314 |
@@ -468,7 +468,7 @@
 | 466 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 57 | 4.64 | 356 |
 | 466 | [The Escapists 2](games/t/the_escapists_2.md) | 57 | 4.58 | 482 |
 | 468 | [ATOM RPG](games/a/atom_rpg.md) | 56 | 4.51 | 615 |
-| 469 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 55 | 4.13 | 1,051 |
+| 469 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 55 | 4.14 | 1,047 |
 | 469 | [Madden NFL 23](games/m/madden_nfl_23.md) | 55 | 4.30 | 906 |
 | 469 | [The Alto Collection](games/t/the_alto_collection.md) | 55 | 4.70 | 226 |
 | 472 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 54 | 4.73 | 182 |
@@ -490,11 +490,11 @@
 | 488 | [Coromon](games/c/coromon.md) | 49 | 4.69 | 246 |
 | 488 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 49 | 4.44 | 728 |
 | 488 | [Rayman Origins](games/r/rayman_origins.md) | 49 | 4.84 | 49 |
+| 491 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 48 | 4.27 | 941 |
 | 491 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 48 | 4.29 | 912 |
 | 491 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 48 | 4.55 | 550 |
-| 493 | [Bugsnax](games/b/bugsnax.md) | 47 | 4.86 | 30 |
-| 493 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 47 | 4.24 | 963 |
-| 493 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 47 | 4.27 | 941 |
+| 494 | [Bugsnax](games/b/bugsnax.md) | 47 | 4.86 | 30 |
+| 494 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 47 | 4.24 | 963 |
 | 496 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 46 | 4.47 | 682 |
 | 496 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 46 | 4.34 | 867 |
 | 496 | [Isonzo](games/i/isonzo.md) | 46 | 4.58 | 482 |
@@ -599,7 +599,7 @@
 | 597 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 22 | 4.31 | 899 |
 | 597 | [Aztez](games/a/aztez.md) | 22 | 4.54 | 566 |
 | 597 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 958 |
-| 597 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.13 | 1,051 |
+| 597 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.13 | 1,052 |
 | 597 | [Griftlands](games/g/griftlands.md) | 22 | 4.79 | 101 |
 | 597 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,008 |
 | 597 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 482 |
