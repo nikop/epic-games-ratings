@@ -4,7 +4,7 @@
   "ProductSlug": "tyranny",
   "Ranking_Rating": 465,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 259,
+  "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1745,10 +1745,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1445,
       "NumberOfAwardsMax": 732
+    },
+    {
+      "Time": "2024-03-14T12:58:53.559353+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1446,
+      "NumberOfAwardsMax": 732
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1445,
+  "NumberOfAwards": 1446,
   "NumberOfAwardsMax": 732,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1810,7 +1816,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has a Creative Community",
@@ -1830,8 +1836,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2024-03-14T11:00:16.6042433+00:00",
+  "LastChanged": "2024-03-14T12:58:53.5593528+00:00",
   "LastUpdate_AppInfo": "2024-03-10T12:57:18.591864+00:00",
-  "LastUpdate_Ratings": "2024-03-14T11:00:16.6042439+00:00",
+  "LastUpdate_Ratings": "2024-03-14T12:58:53.5593534+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:39.1433784+00:00"
 }
