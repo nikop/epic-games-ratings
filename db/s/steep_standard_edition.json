@@ -2,7 +2,7 @@
   "ID": "a646020cb93b4ea995cda70647bbe001",
   "Name": "Steep Standard Edition",
   "ProductSlug": "steep",
-  "Ranking_Rating": 209,
+  "Ranking_Rating": 225,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 414,
   "RatingHistory": [
     {
@@ -825,10 +825,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 217,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-03-14T17:57:40.8510383+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 219,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 217,
+  "NumberOfAwards": 219,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -884,7 +890,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game has Amazing Characters",
@@ -904,8 +910,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-03-12T14:57:59.7352126+00:00",
+  "LastChanged": "2024-03-14T17:57:40.8510381+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:03.3758901+00:00",
-  "LastUpdate_Ratings": "2024-03-14T15:59:38.7333158+00:00",
+  "LastUpdate_Ratings": "2024-03-14T17:57:40.8510386+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:08.5991533+00:00"
 }

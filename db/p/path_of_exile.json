@@ -2,7 +2,7 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 395,
+  "Ranking_Rating": 396,
   "Ranking_Popularity": 109,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 896,
@@ -7601,10 +7601,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 10171,
       "NumberOfAwardsMax": 2892
+    },
+    {
+      "Time": "2024-03-14T17:58:53.4304159+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 10173,
+      "NumberOfAwardsMax": 2892
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10171,
+  "NumberOfAwards": 10173,
   "NumberOfAwardsMax": 2892,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7630,7 +7636,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 732
+      "Count": 734
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7698,8 +7704,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2024-03-14T13:57:59.1729153+00:00",
+  "LastChanged": "2024-03-14T17:58:53.4304157+00:00",
   "LastUpdate_AppInfo": "2024-03-09T22:57:07.0538257+00:00",
-  "LastUpdate_Ratings": "2024-03-14T16:00:28.0196837+00:00",
+  "LastUpdate_Ratings": "2024-03-14T17:58:53.4304163+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:33.8249353+00:00"
 }

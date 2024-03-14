@@ -2,7 +2,7 @@
   "ID": "buttercup",
   "Name": "The Walking Dead: Season Two",
   "ProductSlug": "walking-dead-season-two",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 50,
   "Ranking_Popularity": 615,
   "Ranking_PopularitySum": 615,
   "Ranking_EOS_Progress": 896,
@@ -183,6 +183,6 @@
   "FirstSeenRating": "2022-08-07T16:31:05.1986599+00:00",
   "LastChanged": "2024-03-05T03:57:14.4522507+00:00",
   "LastUpdate_AppInfo": "2024-03-10T08:57:16.7273429+00:00",
-  "LastUpdate_Ratings": "2024-03-14T16:59:32.8881384+00:00",
+  "LastUpdate_Ratings": "2024-03-14T18:02:23.6294099+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:21.4802928+00:00"
 }
