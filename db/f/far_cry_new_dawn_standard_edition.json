@@ -2,9 +2,9 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "ProductSlug": "far-cry-new-dawn",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 729,
   "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 382,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1342,10 +1342,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 369,
       "NumberOfAwardsMax": 318
+    },
+    {
+      "Time": "2024-03-14T14:59:21.4788005+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 370,
+      "NumberOfAwardsMax": 318
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 369,
+  "NumberOfAwards": 370,
   "NumberOfAwardsMax": 318,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1365,7 +1371,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -1379,8 +1385,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2024-03-12T16:57:15.331259+00:00",
+  "LastChanged": "2024-03-14T14:59:21.4788002+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:16.504997+00:00",
-  "LastUpdate_Ratings": "2024-03-14T13:58:33.07911+00:00",
+  "LastUpdate_Ratings": "2024-03-14T14:59:21.4788011+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:35.5240298+00:00"
 }
