@@ -4,7 +4,7 @@
   "ProductSlug": "mechwarrior-5",
   "Ranking_Rating": 396,
   "Ranking_Popularity": 148,
-  "Ranking_PopularitySum": 120,
+  "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -7369,10 +7369,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 8584,
       "NumberOfAwardsMax": 1448
+    },
+    {
+      "Time": "2024-03-14T22:57:46.7436881+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 8586,
+      "NumberOfAwardsMax": 1448
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8584,
+  "NumberOfAwards": 8586,
   "NumberOfAwardsMax": 1448,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7416,7 +7422,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1036
+      "Count": 1038
     },
     {
       "Text": "This game has a Creative Community",
@@ -7442,8 +7448,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2024-03-14T18:57:36.1665899+00:00",
+  "LastChanged": "2024-03-14T22:57:46.7436879+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:50.8708253+00:00",
-  "LastUpdate_Ratings": "2024-03-14T20:59:43.9586471+00:00",
+  "LastUpdate_Ratings": "2024-03-14T22:57:46.7436886+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:12.9448887+00:00"
 }
