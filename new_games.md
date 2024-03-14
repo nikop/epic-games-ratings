@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Vacation Adventures Park Ranger 11 Collectors Edition](games/2/239440e79c1e4cbeafce12f546807def.md) | 2024-03-14 | - |  | - | - |
 | [CUSTOM ORDER MAID 3D2 It's a Night Magic](games/3/309fb463378346999da2271c311cf2c2.md) | 2024-03-14 | - |  | - | - |
 | [Highwater](games/h/highwater.md) | 2024-03-14 | - |  | - | - |
 | [Project Element](games/a/a9c5d48f93f742d8b8225d21f23fe95b.md) | 2024-03-13 | - |  | - | - |
@@ -100,4 +101,3 @@
 | [Pirate Mosaic Puzzle. Caribbean Treasures](games/d/d5507cf7f5784a24ac44bff891ffa8e3.md) | 2024-02-13 | - |  | - | - |
 | [Blue Oak Bridge](games/4/4dbe3446fbe1495a822cbea817f5606e.md) | 2024-02-13 | - |  | - | 0 |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | 63 (1,000 XP) | 76 | - | 0 |
-| [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | - |  | - | 0 |
