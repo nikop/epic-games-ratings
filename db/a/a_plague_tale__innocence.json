@@ -2,7 +2,7 @@
   "ID": "71d19da3678943098859baa9c4c39f95",
   "Name": "A Plague Tale: Innocence",
   "ProductSlug": "a-plague-tale-innocence",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 10904,
   "RatingHistory": [
     {
@@ -2138,6 +2138,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 4255,
       "NumberOfAwardsMax": 3680
+    },
+    {
+      "Time": "2024-03-15T01:40:47.2183998+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4255,
+      "NumberOfAwardsMax": 3680
     }
   ],
   "ReviewsDisabled": false,
@@ -2229,8 +2235,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
-  "LastChanged": "2024-03-14T02:12:31.7519638+00:00",
+  "LastChanged": "2024-03-15T01:40:47.2183996+00:00",
   "LastUpdate_AppInfo": "2024-03-10T07:57:06.6652568+00:00",
-  "LastUpdate_Ratings": "2024-03-14T23:58:30.4404422+00:00",
+  "LastUpdate_Ratings": "2024-03-15T01:40:47.2184002+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:48.4500211+00:00"
 }

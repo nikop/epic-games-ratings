@@ -2,7 +2,7 @@
   "ID": "a99f555b20ad4e49a077ae50ebbd1238",
   "Name": "Zeeverse",
   "ProductSlug": "zeeverse-92a34e",
-  "Ranking_Rating": 6,
+  "Ranking_Rating": 71,
   "Ranking_Popularity": 615,
   "Ranking_PopularitySum": 615,
   "Ranking_EOS_Progress": 896,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.82,
   "RatingHistory": [
     {
       "Time": "2024-02-09T15:57:23.2478125+00:00",
@@ -59,6 +59,12 @@
       "Rating": 4.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-15T01:39:11.104469+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -77,8 +83,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-18T18:59:41.818117+00:00",
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
-  "LastChanged": "2024-03-08T17:57:24.6626415+00:00",
+  "LastChanged": "2024-03-15T01:39:11.1044689+00:00",
   "LastUpdate_AppInfo": "2024-03-13T19:56:58.4209659+00:00",
-  "LastUpdate_Ratings": "2024-03-14T22:59:33.9636364+00:00",
+  "LastUpdate_Ratings": "2024-03-15T01:39:11.1044694+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:43.7026256+00:00"
 }

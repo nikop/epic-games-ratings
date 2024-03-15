@@ -2,7 +2,7 @@
   "ID": "starfish",
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
-  "Ranking_Rating": 9,
+  "Ranking_Rating": 8,
   "Ranking_Popularity": 606,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 896,
@@ -569,6 +569,6 @@
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
   "LastChanged": "2024-03-14T18:57:35.1601558+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:21.7742174+00:00",
-  "LastUpdate_Ratings": "2024-03-15T00:00:06.1471126+00:00",
+  "LastUpdate_Ratings": "2024-03-15T01:41:51.2247279+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:35.9630145+00:00"
 }

@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 73)  
+Rating: 4.82 (Ranked 71)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -352,12 +352,12 @@ Completed: 38 (0.18%) (Ranked 306)
 | 2024-02-22 | 21,395 | 38 |
 ## Awards
 Max (Great for Beginners): 477  (Ranked 237)  
-Sum: 3,498 (Ranked 181)  
+Sum: 3,499 (Ranked 181)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 477 |
-| This game has Quickly Understood Controls | 464 |
+| This game has Quickly Understood Controls | 465 |
 | This game is Relaxing | 458 |
 | This game is Extremely Fun | 433 |
 | This game is Highly Recommended | 420 |
@@ -703,3 +703,4 @@ Diff (max vs sum): 56
 | 2024-03-11 | 4.82 | - | 475 | 3,494 |
 | 2024-03-13 | 4.82 | - | 477 | 3,497 |
 | 2024-03-14 | 4.82 | - | 477 | 3,498 |
+| 2024-03-15 | 4.82 | - | 477 | 3,499 |
