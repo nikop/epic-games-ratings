@@ -201,7 +201,7 @@
 | 183 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 0 | 615 |
 | 200 | [FUSER™](games/f/fuser™.md) | 4.72 | 35 | 528 |
 | 200 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.72 | 65 | 452 |
-| 200 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 37,173 | 16 |
+| 200 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 37,270 | 16 |
 | 200 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.72 | 0 | 615 |
 | 200 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.72 | 40 | 509 |
 | 200 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 615 |
@@ -259,7 +259,7 @@
 | 247 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.69 | 0 | 615 |
 | 247 | [House Flipper](games/h/house_flipper.md) | 4.69 | 343 | 260 |
 | 247 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 615 |
-| 247 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,273 | 151 |
+| 247 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,274 | 151 |
 | 247 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,037 | 127 |
 | 247 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 615 |
 | 247 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 667 | 207 |
@@ -724,7 +724,7 @@
 | 712 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.45 | 0 | 615 |
 | 712 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 615 |
 | 712 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 922 | 182 |
-| 712 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 764,758 | 2 |
+| 712 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 765,468 | 2 |
 | 712 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 615 |
 | 712 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 134 | 361 |
 | 712 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 615 |
@@ -823,6 +823,7 @@
 | 820 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 615 |
 | 820 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.38 | 0 | 615 |
 | 820 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 0 | 615 |
+| 820 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.38 | 0 | 615 |
 | 820 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 169 | 341 |
 | 820 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 180 | 331 |
 | 820 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.38 | 0 | 615 |
@@ -830,18 +831,17 @@
 | 820 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.38 | 181 | 329 |
 | 820 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 615 |
 | 820 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.38 | 0 | 615 |
-| 831 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 615 |
-| 831 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.37 | 0 | 615 |
-| 831 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,173 | 122 |
-| 831 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.37 | 112 | 383 |
-| 831 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 611 |
-| 831 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.37 | 0 | 615 |
-| 831 | [MORDHAU](games/m/mordhau.md) | 4.37 | 1,469 | 147 |
-| 831 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.37 | 0 | 615 |
-| 831 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.37 | 74 | 435 |
-| 831 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.37 | 0 | 615 |
-| 831 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.37 | 32 | 542 |
-| 831 | [Tacoma](games/t/tacoma.md) | 4.37 | 0 | 615 |
+| 832 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 615 |
+| 832 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.37 | 0 | 615 |
+| 832 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,173 | 122 |
+| 832 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.37 | 112 | 383 |
+| 832 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 611 |
+| 832 | [MORDHAU](games/m/mordhau.md) | 4.37 | 1,469 | 147 |
+| 832 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.37 | 0 | 615 |
+| 832 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.37 | 74 | 435 |
+| 832 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.37 | 0 | 615 |
+| 832 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.37 | 32 | 542 |
+| 832 | [Tacoma](games/t/tacoma.md) | 4.37 | 0 | 615 |
 | 843 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 615 |
 | 843 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 175 | 335 |
 | 843 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,867 | 35 |
