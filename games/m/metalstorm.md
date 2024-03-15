@@ -1,11 +1,11 @@
 # Metalstorm
 [Store](https://store.epicgames.com/en-US/p/metalstorm)  
 [View Rawdata](../../db/m/metalstorm.json)  
-Rating: 4.43 (Ranked 752)  
+Rating: 4.42 (Ranked 761)  
 ## Awards
 Max (Great for Quick Sessions): 32  (Ranked 542)  
-Sum: 125 (Ranked 484)  
-Diff (max vs sum): 58  
+Sum: 101 (Ranked 494)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 32 |
@@ -97,3 +97,4 @@ Diff (max vs sum): 58
 | 2024-03-10 | 4.43 | 32 | 82 |
 | 2024-03-12 | 4.43 | 32 | 103 |
 | 2024-03-14 | 4.43 | 32 | 125 |
+| 2024-03-15 | 4.42 | 32 | 101 |
