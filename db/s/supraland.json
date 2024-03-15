@@ -4,7 +4,7 @@
   "ProductSlug": "supraland",
   "Ranking_Rating": 409,
   "Ranking_Popularity": 62,
-  "Ranking_PopularitySum": 104,
+  "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 165,
@@ -3683,10 +3683,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 10232,
       "NumberOfAwardsMax": 7824
+    },
+    {
+      "Time": "2024-03-15T22:58:41.9953407+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 10233,
+      "NumberOfAwardsMax": 7824
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10232,
+  "NumberOfAwards": 10233,
   "NumberOfAwardsMax": 7824,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -3730,7 +3736,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 285
+      "Count": 286
     },
     {
       "Text": "This game is Great for Beginners",
@@ -36517,9 +36523,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
-  "LastChanged": "2024-03-14T20:57:30.6018642+00:00",
+  "LastChanged": "2024-03-15T22:58:41.9953406+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:55.7195763+00:00",
   "LastUpdate_AppInfo": "2024-03-10T10:57:23.8429715+00:00",
-  "LastUpdate_Ratings": "2024-03-15T21:57:50.254101+00:00",
+  "LastUpdate_Ratings": "2024-03-15T22:58:41.9953411+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:55.7198085+00:00"
 }

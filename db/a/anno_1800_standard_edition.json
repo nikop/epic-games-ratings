@@ -4,7 +4,7 @@
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 81,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 70,
+  "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -14733,10 +14733,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 18105,
       "NumberOfAwardsMax": 2335
+    },
+    {
+      "Time": "2024-03-15T22:59:52.2417751+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 18114,
+      "NumberOfAwardsMax": 2335
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18105,
+  "NumberOfAwards": 18114,
   "NumberOfAwardsMax": 2335,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -14762,7 +14768,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2099
+      "Count": 2106
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14804,7 +14810,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1257
+      "Count": 1259
     }
   ],
   "EOS_Progressed": 0,
@@ -14818,8 +14824,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2024-03-15T19:00:05.7269148+00:00",
+  "LastChanged": "2024-03-15T22:59:52.2417749+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:37.5677501+00:00",
-  "LastUpdate_Ratings": "2024-03-15T21:59:26.4906085+00:00",
+  "LastUpdate_Ratings": "2024-03-15T22:59:52.2417756+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:54.3143105+00:00"
 }

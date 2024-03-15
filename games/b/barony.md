@@ -1,19 +1,19 @@
 # Barony
 [Store](https://store.epicgames.com/en-US/p/barony)  
 [View Rawdata](../../db/b/barony.json)  
-Rating: 4.73 (Ranked 183)  
+Rating: 4.72 (Ranked 199)  
 Number of Ratings: 763  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 114  (Ranked 380)  
-Sum: 792 (Ranked 311)  
-Diff (max vs sum): 69  
+Sum: 794 (Ranked 310)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 114 |
 | This game has Challenging Combat | 99 |
 | This game has Quickly Understood Controls | 93 |
+| This game is Highly Recommended | 93 |
 | This game is Extremely Fun | 93 |
-| This game is Highly Recommended | 91 |
 | This game has Amazing Characters | 88 |
 | This game has Unique Visuals | 81 |
 | This game has Amazing Storytelling | 74 |
@@ -249,4 +249,4 @@ Diff (max vs sum): 69
 | 2024-03-09 | 4.73 | - | 114 | 788 |
 | 2024-03-11 | 4.72 | - | 114 | 789 |
 | 2024-03-14 | 4.73 | - | 114 | 791 |
-| 2024-03-15 | 4.73 | - | 114 | 792 |
+| 2024-03-15 | 4.73 | - | 114 | 794 |
