@@ -3,7 +3,7 @@
   "Name": "Infinifactory",
   "ProductSlug": "infinifactory-ec9686",
   "Ranking_Rating": 550,
-  "Ranking_Popularity": 329,
+  "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
@@ -551,18 +551,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 274,
       "NumberOfAwardsMax": 181
+    },
+    {
+      "Time": "2024-03-15T22:00:47.9122004+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 274,
-  "NumberOfAwardsMax": 181,
+  "NumberOfAwards": 276,
+  "NumberOfAwardsMax": 183,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 181
+      "Count": 183
     },
     {
       "Text": "This game is Relaxing",
@@ -609,9 +615,9 @@
   "FirstSeen": "2024-01-25T18:57:35.0792201+00:00",
   "FirstSeenRating": "2024-01-26T22:58:02.5444122+00:00",
   "FirstSeenAchievements": "2024-01-18T17:09:04.5131564+00:00",
-  "LastChanged": "2024-03-13T21:58:34.7157626+00:00",
+  "LastChanged": "2024-03-15T22:00:47.9122+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:43.6015496+00:00",
   "LastUpdate_AppInfo": "2024-03-14T21:57:06.9139291+00:00",
-  "LastUpdate_Ratings": "2024-03-15T20:58:38.2238499+00:00",
+  "LastUpdate_Ratings": "2024-03-15T22:00:47.9122006+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:43.6015515+00:00"
 }
