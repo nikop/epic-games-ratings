@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 614,
   "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 268,
+  "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -4398,10 +4398,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1267,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2024-03-15T20:00:07.5949523+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1269,
+      "NumberOfAwardsMax": 162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1267,
+  "NumberOfAwards": 1269,
   "NumberOfAwardsMax": 162,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4415,7 +4421,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 137
+      "Count": 139
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4489,8 +4495,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2024-03-15T16:00:35.673776+00:00",
+  "LastChanged": "2024-03-15T20:00:07.5949521+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:11.1684933+00:00",
-  "LastUpdate_Ratings": "2024-03-15T18:58:36.054679+00:00",
+  "LastUpdate_Ratings": "2024-03-15T20:00:07.594953+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:10.2410008+00:00"
 }
