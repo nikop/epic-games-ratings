@@ -1,7 +1,7 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 167)  
+Rating: 4.74 (Ranked 168)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -343,12 +343,12 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-27 | 97,540 | 0 |
 | 2024-02-22 | 100,719 | 0 |
 ## Awards
-Max (Character Customization): 8,780  (Ranked 51)  
-Sum: 18,096 (Ranked 70)  
+Max (Character Customization): 8,788  (Ranked 51)  
+Sum: 18,104 (Ranked 70)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,780 |
+| This game has Inclusive Character Customization | 8,788 |
 | This game is Great for Beginners | 1,337 |
 | This game has Diverse Characters | 1,227 |
 | This game is Highly Recommended | 1,100 |
@@ -788,4 +788,4 @@ Diff (max vs sum): -19
 | 2024-03-12 | 4.74 | - | 8,764 | 18,053 |
 | 2024-03-13 | 4.74 | - | 8,774 | 18,077 |
 | 2024-03-14 | 4.74 | - | 8,780 | 18,085 |
-| 2024-03-15 | 4.74 | - | 8,780 | 18,096 |
+| 2024-03-15 | 4.74 | - | 8,788 | 18,104 |

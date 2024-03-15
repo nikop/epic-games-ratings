@@ -4,7 +4,7 @@
   "ProductSlug": "neon-abyss",
   "Ranking_Rating": 275,
   "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 149,
+  "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -5088,6 +5088,6 @@
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
   "LastChanged": "2024-03-14T07:58:31.9175388+00:00",
   "LastUpdate_AppInfo": "2024-03-09T23:57:24.6900967+00:00",
-  "LastUpdate_Ratings": "2024-03-15T17:00:05.9019551+00:00",
+  "LastUpdate_Ratings": "2024-03-15T18:57:43.3328101+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:38.3701317+00:00"
 }
