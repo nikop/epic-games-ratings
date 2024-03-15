@@ -3,8 +3,8 @@
   "Name": "Model Builder",
   "ProductSlug": "model-builder-f9b456",
   "Ranking_Rating": 1035,
-  "Ranking_Popularity": 615,
-  "Ranking_PopularitySum": 615,
+  "Ranking_Popularity": 616,
+  "Ranking_PopularitySum": 616,
   "Ranking_EOS_Progress": 821,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -937,6 +937,6 @@
   "LastChanged": "2024-03-07T14:00:28.9653094+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:49.611214+00:00",
   "LastUpdate_AppInfo": "2024-03-10T12:57:22.1040567+00:00",
-  "LastUpdate_Ratings": "2024-03-15T04:59:59.2298283+00:00",
+  "LastUpdate_Ratings": "2024-03-15T06:57:19.2642896+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:49.611261+00:00"
 }
