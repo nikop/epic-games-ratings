@@ -75,7 +75,7 @@
 | 71 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 179 | 332 |
 | 71 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,577 | 141 |
 | 71 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 318 | 268 |
-| 71 | [Sifu](games/s/sifu.md) | 4.82 | 7,524 | 64 |
+| 71 | [Sifu](games/s/sifu.md) | 4.82 | 7,526 | 64 |
 | 71 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 491 | 234 |
 | 71 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 102 | 392 |
 | 71 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.82 | 0 | 616 |
@@ -247,7 +247,7 @@
 | 227 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,936 | 86 |
 | 227 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 616 |
 | 247 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 616 |
-| 247 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 129,528 | 9 |
+| 247 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 129,602 | 9 |
 | 247 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 616 |
 | 247 | [CARRION](games/c/carrion.md) | 4.69 | 0 | 616 |
 | 247 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 130 | 366 |
@@ -303,7 +303,7 @@
 | 296 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,685 | 69 |
 | 296 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 333,761 | 4 |
 | 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 616 |
-| 296 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 514 | 228 |
+| 296 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 515 | 228 |
 | 296 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.67 | 53 | 474 |
 | 296 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,362 | 117 |
 | 296 | [Northgard](games/n/northgard.md) | 4.67 | 45 | 501 |
@@ -434,7 +434,7 @@
 | 410 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 616 |
 | 410 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.61 | 85 | 416 |
 | 410 | [Supraland](games/s/supraland.md) | 4.61 | 7,824 | 62 |
-| 410 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 569 | 222 |
+| 410 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 570 | 222 |
 | 410 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 616 |
 | 410 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 77 | 430 |
 | 410 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 377 | 253 |
@@ -1105,7 +1105,7 @@
 | 1,103 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 501 |
 | 1,103 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.95 | 31 | 548 |
 | 1,103 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.95 | 0 | 616 |
-| 1,103 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 70 | 446 |
+| 1,103 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 71 | 444 |
 | 1,103 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.95 | 39 | 515 |
 | 1,108 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 616 |
 | 1,108 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.93 | 0 | 616 |
