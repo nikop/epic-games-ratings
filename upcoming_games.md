@@ -114,6 +114,7 @@
 | [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-06-30 | - |  | - | - |
 | [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-06-30 | - |  | - | - |
 | [The Bornless](games/a/aaa64a6e060d46ba8de15f19a0d6269e.md) | 2024-06-30 | - |  | - | - |
+| [The Smurfs - Village Party](games/e/e0d342096dbe47e9a41a2b7735683edd.md) | 2024-06-30 | - |  | - | - |
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2024-07-25 | - |  | - | - |
@@ -392,6 +393,7 @@
 | [Knowledge Party](games/f/f079b0c7395a487fb6151891e6d6faa8.md) | 2099-01-01 | - |  | - | - |
 | [KOKODI](games/2/2d89fb7420d8473fa28de88efc7d2f99.md) | 2099-01-01 | - |  | - | - |
 | [KURT ´99 - THE FOOTBALL MANAGER](games/9/981beb9f5f3046f39a6d9d89400fce24.md) | 2099-01-01 | - |  | - | - |
+| [Last Hope Bunker: Zombie Survival](games/1/11b636268cb64c7f9feada368d41ba76.md) | 2099-01-01 | - |  | - | - |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | - |  | - | - |
 | [Lethal Honor - Order of the Apocalypse](games/4/4fd8ab38c14c4d91ba07aae139723027.md) | 2099-01-01 | - |  | - | - |
