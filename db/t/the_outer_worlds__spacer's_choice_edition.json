@@ -4,7 +4,7 @@
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 637,
   "Ranking_Popularity": 59,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -3789,18 +3789,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 11576,
       "NumberOfAwardsMax": 8067
+    },
+    {
+      "Time": "2024-03-15T02:57:35.2507381+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 11615,
+      "NumberOfAwardsMax": 8106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11576,
-  "NumberOfAwardsMax": 8067,
+  "NumberOfAwards": 11615,
+  "NumberOfAwardsMax": 8106,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8067
+      "Count": 8106
     },
     {
       "Text": "This game is Relaxing",
@@ -3877,9 +3883,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-03-14T19:58:02.240672+00:00",
+  "LastChanged": "2024-03-15T02:57:35.2507379+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:45.1369738+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:43.9540183+00:00",
-  "LastUpdate_Ratings": "2024-03-15T01:41:18.0459047+00:00",
+  "LastUpdate_Ratings": "2024-03-15T02:57:35.2507383+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:45.1369756+00:00"
 }

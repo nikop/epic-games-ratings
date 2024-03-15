@@ -6361,10 +6361,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 10705,
       "NumberOfAwardsMax": 1205
+    },
+    {
+      "Time": "2024-03-15T02:57:09.1274909+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 10706,
+      "NumberOfAwardsMax": 1205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10705,
+  "NumberOfAwards": 10706,
   "NumberOfAwardsMax": 1205,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -6420,7 +6426,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 688
+      "Count": 689
     },
     {
       "Text": "This game is Extremely Fun",
@@ -39186,9 +39192,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-03-15T01:41:00.0620225+00:00",
+  "LastChanged": "2024-03-15T02:57:09.1274908+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.3588189+00:00",
   "LastUpdate_AppInfo": "2024-03-10T08:57:33.5364054+00:00",
-  "LastUpdate_Ratings": "2024-03-15T01:41:00.0620233+00:00",
+  "LastUpdate_Ratings": "2024-03-15T02:57:09.1274913+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.3589739+00:00"
 }
