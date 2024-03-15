@@ -7671,10 +7671,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 8607,
       "NumberOfAwardsMax": 1127
+    },
+    {
+      "Time": "2024-03-15T15:58:23.1205197+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 8608,
+      "NumberOfAwardsMax": 1127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8607,
+  "NumberOfAwards": 8608,
   "NumberOfAwardsMax": 1127,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7736,7 +7742,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 862
+      "Count": 863
     },
     {
       "Text": "This game is Relaxing",
@@ -7762,8 +7768,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2024-03-15T13:00:03.5844934+00:00",
+  "LastChanged": "2024-03-15T15:58:23.1205195+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:56.6058772+00:00",
-  "LastUpdate_Ratings": "2024-03-15T13:59:34.5050836+00:00",
+  "LastUpdate_Ratings": "2024-03-15T15:58:23.1205201+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:05:18.774685+00:00"
 }

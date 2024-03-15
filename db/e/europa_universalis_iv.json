@@ -3,7 +3,7 @@
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
   "Ranking_Rating": 247,
-  "Ranking_Popularity": 54,
+  "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 423,
@@ -16681,11 +16681,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 70837,
       "NumberOfAwardsMax": 8579
+    },
+    {
+      "Time": "2024-03-15T15:59:07.7836475+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 70875,
+      "NumberOfAwardsMax": 8594
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 70837,
-  "NumberOfAwardsMax": 8579,
+  "NumberOfAwards": 70875,
+  "NumberOfAwardsMax": 8594,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -16698,7 +16704,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 8157
+      "Count": 8170
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16716,7 +16722,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 8579
+      "Count": 8594
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -16740,7 +16746,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7161
+      "Count": 7171
     },
     {
       "Text": "This game has Amazing Characters",
@@ -52291,9 +52297,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-03-15T11:57:31.2357784+00:00",
+  "LastChanged": "2024-03-15T15:59:07.7836473+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:58.1343243+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:58:03.2266252+00:00",
-  "LastUpdate_Ratings": "2024-03-15T14:00:03.9175614+00:00",
+  "LastUpdate_Ratings": "2024-03-15T15:59:07.7836483+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:58.1354006+00:00"
 }
