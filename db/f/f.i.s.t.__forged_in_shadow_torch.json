@@ -4,7 +4,7 @@
   "ProductSlug": "fist-forged-in-shadow-torch",
   "Ranking_Rating": 526,
   "Ranking_Popularity": 169,
-  "Ranking_PopularitySum": 272,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1863,18 +1863,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 1210,
       "NumberOfAwardsMax": 1049
+    },
+    {
+      "Time": "2024-03-15T14:57:56.966419+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1211,
+      "NumberOfAwardsMax": 1050
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1210,
-  "NumberOfAwardsMax": 1049,
+  "NumberOfAwards": 1211,
+  "NumberOfAwardsMax": 1050,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1049
+      "Count": 1050
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1924,8 +1930,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2024-03-14T03:58:13.6733347+00:00",
+  "LastChanged": "2024-03-15T14:57:56.9664188+00:00",
   "LastUpdate_AppInfo": "2024-03-10T10:57:20.101976+00:00",
-  "LastUpdate_Ratings": "2024-03-15T13:01:43.0350224+00:00",
+  "LastUpdate_Ratings": "2024-03-15T14:57:56.9664193+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:45.1503053+00:00"
 }
