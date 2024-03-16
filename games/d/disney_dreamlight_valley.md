@@ -1,7 +1,7 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.77 (Ranked 122)  
+Rating: 4.76 (Ranked 137)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -641,3 +641,4 @@ Diff (max vs sum): 35
 | 2024-03-13 | 4.77 | - | 1,266 | 8,770 |
 | 2024-03-14 | 4.77 | - | 1,270 | 8,782 |
 | 2024-03-15 | 4.77 | - | 1,270 | 8,786 |
+| 2024-03-16 | 4.76 | - | 1,270 | 8,786 |
