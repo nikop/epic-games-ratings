@@ -1,15 +1,15 @@
 # Solar Ash
 [Store](https://store.epicgames.com/en-US/p/solar-ash)  
 [View Rawdata](../../db/s/solar_ash.json)  
-Rating: 4.65 (Ranked 335)  
+Rating: 4.66 (Ranked 314)  
 Number of Ratings: 106  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 25  (Ranked 581)  
-Sum: 25 (Ranked 594)  
-Diff (max vs sum): -13  
+Max (Great Boss Battles): 26  (Ranked 574)  
+Sum: 26 (Ranked 590)  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 25 |
+| This game has Great Boss Battles | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -64,3 +64,4 @@ Diff (max vs sum): -13
 | 2023-06-23 | 4.64 | - | 24 | 24 |
 | 2023-08-09 | 4.65 | - | 24 | 24 |
 | 2024-03-04 | 4.65 | - | 25 | 25 |
+| 2024-03-16 | 4.66 | - | 26 | 26 |
