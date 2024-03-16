@@ -32,7 +32,7 @@
 | 29 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 47 | 496 |
 | 29 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.86 | 0 | 617 |
 | 29 | [Coffee Talk](games/c/coffee_talk.md) | 4.86 | 0 | 617 |
-| 29 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 359 | 257 |
+| 29 | [Dead Cells](games/d/dead_cells.md) | 4.86 | 361 | 257 |
 | 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 366 | 256 |
 | 29 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 4.86 | 0 | 617 |
 | 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 100 | 396 |
@@ -201,7 +201,7 @@
 | 199 | [Barony](games/b/barony.md) | 4.72 | 114 | 380 |
 | 199 | [FUSER™](games/f/fuser™.md) | 4.72 | 35 | 530 |
 | 199 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.72 | 65 | 452 |
-| 199 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 37,270 | 16 |
+| 199 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 37,378 | 16 |
 | 199 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.72 | 0 | 617 |
 | 199 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 617 |
 | 199 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 373 | 254 |
@@ -278,7 +278,7 @@
 | 275 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 776 | 198 |
 | 275 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 73 | 439 |
 | 275 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.68 | 0 | 617 |
-| 275 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 156,142 | 8 |
+| 275 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 156,288 | 8 |
 | 275 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 8,266 | 57 |
 | 275 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,453 | 92 |
 | 275 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 935 | 179 |
@@ -291,29 +291,29 @@
 | 275 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 71 | 444 |
 | 275 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.68 | 30 | 553 |
 | 275 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 0 | 617 |
-| 275 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.68 | 20 | 612 |
 | 275 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.68 | 0 | 617 |
 | 275 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 102 | 392 |
 | 275 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.68 | 0 | 617 |
-| 296 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 3,680 | 99 |
-| 296 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.67 | 0 | 617 |
-| 296 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.67 | 125 | 372 |
-| 296 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 617 |
-| 296 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 52 | 479 |
-| 296 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.67 | 20 | 612 |
-| 296 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,694 | 68 |
-| 296 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 333,968 | 4 |
-| 296 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 617 |
-| 296 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 515 | 228 |
-| 296 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.67 | 54 | 472 |
-| 296 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,362 | 117 |
-| 296 | [Northgard](games/n/northgard.md) | 4.67 | 45 | 501 |
-| 296 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 617 |
-| 296 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 610 | 218 |
-| 296 | [SOMA](games/s/soma.md) | 4.67 | 0 | 617 |
-| 296 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 847 | 191 |
-| 296 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.67 | 50 | 486 |
-| 296 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 617 |
+| 295 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 3,680 | 99 |
+| 295 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.67 | 0 | 617 |
+| 295 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.67 | 125 | 372 |
+| 295 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 617 |
+| 295 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 52 | 479 |
+| 295 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.67 | 20 | 612 |
+| 295 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,694 | 68 |
+| 295 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 333,968 | 4 |
+| 295 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 617 |
+| 295 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 515 | 228 |
+| 295 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 4.67 | 54 | 472 |
+| 295 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,362 | 117 |
+| 295 | [Northgard](games/n/northgard.md) | 4.67 | 45 | 501 |
+| 295 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 617 |
+| 295 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 610 | 218 |
+| 295 | [SOMA](games/s/soma.md) | 4.67 | 0 | 617 |
+| 295 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 847 | 191 |
+| 295 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 20 | 612 |
+| 295 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.67 | 50 | 486 |
+| 295 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 617 |
 | 315 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 0 | 617 |
 | 315 | [BLACKTAIL](games/b/blacktail.md) | 4.66 | 0 | 617 |
 | 315 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 94 | 410 |
@@ -483,7 +483,7 @@
 | 463 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 88 | 413 |
 | 482 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.58 | 0 | 617 |
 | 482 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 46 | 497 |
-| 482 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 67,579 | 12 |
+| 482 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 67,598 | 12 |
 | 482 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.58 | 0 | 617 |
 | 482 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 221 | 307 |
 | 482 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.58 | 27 | 568 |
@@ -506,7 +506,7 @@
 | 482 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,856 | 67 |
 | 482 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 243 | 292 |
 | 482 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 121 | 374 |
-| 482 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,796 | 30 |
+| 482 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,800 | 30 |
 | 508 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 617 |
 | 508 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 0 | 617 |
 | 508 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.57 | 82 | 420 |
@@ -570,7 +570,7 @@
 | 566 | [Aztez](games/a/aztez.md) | 4.54 | 22 | 598 |
 | 566 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 617 |
 | 566 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,775 | 138 |
-| 566 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 12,229 | 36 |
+| 566 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 12,243 | 36 |
 | 566 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 515 |
 | 566 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.54 | 37 | 521 |
 | 566 | [Horace](games/h/horace.md) | 4.54 | 0 | 617 |
