@@ -4,7 +4,7 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 395,
   "Ranking_Popularity": 102,
-  "Ranking_PopularitySum": 128,
+  "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -3069,6 +3069,6 @@
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
   "LastChanged": "2024-03-16T04:57:55.3199496+00:00",
   "LastUpdate_AppInfo": "2024-03-14T22:57:12.6357704+00:00",
-  "LastUpdate_Ratings": "2024-03-16T08:58:35.0210998+00:00",
+  "LastUpdate_Ratings": "2024-03-16T09:59:46.4431188+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:23.1422713+00:00"
 }
