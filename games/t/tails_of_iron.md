@@ -279,8 +279,8 @@ Completed: 15 (0.61%) (Ranked 220)
 | 2024-01-27 | 2,358 | 12 |
 | 2024-03-04 | 2,451 | 15 |
 ## Awards
-Max (Character Customization): 21  (Ranked 606)  
-Sum: 21 (Ranked 607)  
+Max (Character Customization): 21  (Ranked 605)  
+Sum: 21 (Ranked 606)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
