@@ -2,7 +2,7 @@
   "ID": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
   "Name": "Barony",
   "ProductSlug": "barony",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 184,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "NumberOfRatings": 763,
   "RatingHistory": [
     {
@@ -2142,10 +2142,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 795,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-03-16T16:58:02.2472865+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 796,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 795,
+  "NumberOfAwards": 796,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2195,7 +2201,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game has a Creative Community",
@@ -2215,8 +2221,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2024-03-16T12:58:15.3853877+00:00",
+  "LastChanged": "2024-03-16T16:58:02.2472863+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:58:10.2144081+00:00",
-  "LastUpdate_Ratings": "2024-03-16T15:00:16.1944528+00:00",
+  "LastUpdate_Ratings": "2024-03-16T16:58:02.2472868+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:23.7830089+00:00"
 }
