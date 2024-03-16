@@ -2,7 +2,7 @@
   "ID": "e35a5826457c4c98aada2ffad7b5ea5d",
   "Name": "The Lion\u0027s Song",
   "ProductSlug": "the-lions-song",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 790,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "NumberOfRatings": 67,
   "RatingHistory": [
     {
@@ -292,6 +292,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-16T14:59:09.6135255+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -309,8 +315,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:33.7126844+00:00",
-  "LastChanged": "2024-03-11T13:57:44.5652347+00:00",
+  "LastChanged": "2024-03-16T14:59:09.6135254+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:55.030509+00:00",
-  "LastUpdate_Ratings": "2024-03-16T13:58:13.6404497+00:00",
+  "LastUpdate_Ratings": "2024-03-16T14:59:09.6135257+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:37.8202065+00:00"
 }
