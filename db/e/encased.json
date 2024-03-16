@@ -2,7 +2,7 @@
   "ID": "48ee23bbc7c34ac09604253e74d17b49",
   "Name": "Encased",
   "ProductSlug": "encased",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 896,
@@ -630,18 +630,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 171,
       "NumberOfAwardsMax": 171
+    },
+    {
+      "Time": "2024-03-16T18:58:27.8964045+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 172,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 171,
-  "NumberOfAwardsMax": 171,
+  "NumberOfAwards": 172,
+  "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 171
+      "Count": 172
     }
   ],
   "EOS_Progressed": 0,
@@ -655,8 +661,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:17.8710965+00:00",
-  "LastChanged": "2024-02-21T23:59:06.8362366+00:00",
+  "LastChanged": "2024-03-16T18:58:27.8964043+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:47.2281325+00:00",
-  "LastUpdate_Ratings": "2024-03-16T17:57:41.2898723+00:00",
+  "LastUpdate_Ratings": "2024-03-16T18:58:27.8964048+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:02.4008394+00:00"
 }
