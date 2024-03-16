@@ -2,7 +2,7 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u0027s Rainbow Six Extraction",
   "ProductSlug": "rainbow-six-extraction",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 896,
@@ -2833,10 +2833,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 1185,
       "NumberOfAwardsMax": 196
+    },
+    {
+      "Time": "2024-03-16T01:36:38.3172555+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1186,
+      "NumberOfAwardsMax": 196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1185,
+  "NumberOfAwards": 1186,
   "NumberOfAwardsMax": 196,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2862,7 +2868,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 153
+      "Count": 154
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2912,8 +2918,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2024-03-12T20:58:38.3023478+00:00",
+  "LastChanged": "2024-03-16T01:36:38.3172554+00:00",
   "LastUpdate_AppInfo": "2024-03-10T06:57:33.7321811+00:00",
-  "LastUpdate_Ratings": "2024-03-15T22:59:41.3898333+00:00",
+  "LastUpdate_Ratings": "2024-03-16T01:36:38.3172558+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:23.9039824+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 375,
   "Ranking_Popularity": 50,
-  "Ranking_PopularitySum": 98,
+  "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -4280,10 +4280,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 11636,
       "NumberOfAwardsMax": 8800
+    },
+    {
+      "Time": "2024-03-16T01:37:35.4261644+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 11639,
+      "NumberOfAwardsMax": 8800
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11636,
+  "NumberOfAwards": 11639,
   "NumberOfAwardsMax": 8800,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4309,7 +4315,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 416
+      "Count": 417
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4333,7 +4339,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 336
+      "Count": 338
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4359,8 +4365,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-03-15T23:57:10.1056283+00:00",
+  "LastChanged": "2024-03-16T01:37:35.4261642+00:00",
   "LastUpdate_AppInfo": "2024-03-10T12:57:14.0993068+00:00",
-  "LastUpdate_Ratings": "2024-03-15T23:57:10.1056287+00:00",
+  "LastUpdate_Ratings": "2024-03-16T01:37:35.4261649+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:43.8487883+00:00"
 }
