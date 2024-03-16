@@ -2,7 +2,7 @@
   "ID": "7061cd389bdc4c068910da67cd8e154c",
   "Name": "MONOPOLY\u00AE PLUS",
   "ProductSlug": "monopoly-plus",
-  "Ranking_Rating": 1080,
+  "Ranking_Rating": 1081,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 896,
@@ -591,6 +591,6 @@
   "FirstSeen": "2022-07-22T20:30:40.4652835+00:00",
   "LastChanged": "2024-02-03T23:57:52.0992481+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:02.5911134+00:00",
-  "LastUpdate_Ratings": "2024-03-16T05:58:02.2258465+00:00",
+  "LastUpdate_Ratings": "2024-03-16T06:58:46.970281+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:59.4217091+00:00"
 }
