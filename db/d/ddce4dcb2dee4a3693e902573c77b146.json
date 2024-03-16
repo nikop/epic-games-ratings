@@ -4,7 +4,7 @@
   "ProductSlug": "lifemakeoverglobal-1aa05a",
   "Ranking_Rating": 566,
   "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 425,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -581,10 +581,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 250,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-03-16T02:11:55.5675989+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 251,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 250,
+  "NumberOfAwards": 251,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -634,7 +640,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has a Creative Community",
@@ -661,8 +667,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-03-15T21:00:18.9100123+00:00",
+  "LastChanged": "2024-03-16T02:11:55.5675987+00:00",
   "LastUpdate_AppInfo": "2024-03-13T04:57:23.1368372+00:00",
-  "LastUpdate_Ratings": "2024-03-15T23:59:38.7043017+00:00",
+  "LastUpdate_Ratings": "2024-03-16T02:11:55.5675993+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:31.1572891+00:00"
 }
