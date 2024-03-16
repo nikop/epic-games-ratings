@@ -3,7 +3,7 @@
   "Name": "Hades",
   "ProductSlug": "hades",
   "Ranking_Rating": 5,
-  "Ranking_Popularity": 99,
+  "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 195,
@@ -7400,10 +7400,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 9018,
       "NumberOfAwardsMax": 3680
+    },
+    {
+      "Time": "2024-03-16T07:59:48.0275343+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 9019,
+      "NumberOfAwardsMax": 3680
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9018,
+  "NumberOfAwards": 9019,
   "NumberOfAwardsMax": 3680,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7465,7 +7471,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -38981,9 +38987,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-03-16T01:40:04.7108866+00:00",
+  "LastChanged": "2024-03-16T07:59:48.0275342+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:48.1123551+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:01.9990985+00:00",
-  "LastUpdate_Ratings": "2024-03-16T06:58:46.2640429+00:00",
+  "LastUpdate_Ratings": "2024-03-16T07:59:48.027535+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:48.1125218+00:00"
 }
