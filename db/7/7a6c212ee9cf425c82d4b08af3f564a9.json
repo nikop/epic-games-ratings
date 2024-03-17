@@ -2,7 +2,7 @@
   "ID": "7a6c212ee9cf425c82d4b08af3f564a9",
   "Name": "The Walking Dead No Man\u0027s Land",
   "ProductSlug": "the-walking-dead-no-mans-land-d3b769",
-  "Ranking_Rating": 867,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 597,
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 151,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2024-01-14T22:59:40.5405565+00:00",
@@ -471,6 +471,12 @@
     {
       "Time": "2024-03-16T10:58:56.7282547+00:00",
       "Rating": 4.34,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-03-17T11:58:32.3379477+00:00",
+      "Rating": 4.35,
       "NumberOfAwards": 42,
       "NumberOfAwardsMax": 22
     }
@@ -3161,9 +3167,9 @@
   "FirstSeen": "2024-01-10T09:57:12.7833182+00:00",
   "FirstSeenRating": "2024-01-14T22:59:40.5405563+00:00",
   "FirstSeenAchievements": "2024-01-10T10:04:20.1419386+00:00",
-  "LastChanged": "2024-03-16T10:58:56.7282546+00:00",
+  "LastChanged": "2024-03-17T11:58:32.3379475+00:00",
   "LastChanged_Achievements": "2024-02-22T21:03:55.7134228+00:00",
   "LastUpdate_AppInfo": "2024-03-13T15:57:12.1974043+00:00",
-  "LastUpdate_Ratings": "2024-03-17T10:01:06.3867829+00:00",
+  "LastUpdate_Ratings": "2024-03-17T11:58:32.3379481+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:55.7134813+00:00"
 }
