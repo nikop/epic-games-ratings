@@ -3,7 +3,7 @@
   "Name": "Aeon Must Die!",
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 4086,
+  "Ranking_EOS_Completed": 4087,
   "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
@@ -1324,6 +1324,6 @@
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:51.8119381+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:13.8338649+00:00",
-  "LastUpdate_Ratings": "2024-03-17T11:01:07.5223435+00:00",
+  "LastUpdate_Ratings": "2024-03-17T13:00:35.173875+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:51.8119587+00:00"
 }

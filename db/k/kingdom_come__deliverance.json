@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 209,
+  "Ranking_Rating": 208,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 23,
@@ -11527,10 +11527,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 29492,
       "NumberOfAwardsMax": 7976
+    },
+    {
+      "Time": "2024-03-17T13:00:06.9748016+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 29494,
+      "NumberOfAwardsMax": 7976
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29492,
+  "NumberOfAwards": 29494,
   "NumberOfAwardsMax": 7976,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11544,7 +11550,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5779
+      "Count": 5781
     },
     {
       "Text": "This game is Highly Recommended",
@@ -44245,9 +44251,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-03-17T04:00:00.8307349+00:00",
+  "LastChanged": "2024-03-17T13:00:06.9748014+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:55.1057271+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:07.0376779+00:00",
-  "LastUpdate_Ratings": "2024-03-17T11:00:43.2095683+00:00",
+  "LastUpdate_Ratings": "2024-03-17T13:00:06.9748022+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:55.1059451+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
-  "Ranking_Rating": 228,
+  "Ranking_Rating": 227,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 896,
@@ -2448,10 +2448,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 964,
       "NumberOfAwardsMax": 614
+    },
+    {
+      "Time": "2024-03-17T13:00:21.3573933+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 966,
+      "NumberOfAwardsMax": 614
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 964,
+  "NumberOfAwards": 966,
   "NumberOfAwardsMax": 614,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2471,7 +2477,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 37
+      "Count": 39
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2533,8 +2539,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2024-03-17T00:00:19.4718966+00:00",
-  "LastUpdate_AppInfo": "2024-03-10T12:57:29.9733749+00:00",
-  "LastUpdate_Ratings": "2024-03-17T11:00:55.2766111+00:00",
+  "LastChanged": "2024-03-17T13:00:21.3573931+00:00",
+  "LastUpdate_AppInfo": "2024-03-17T12:58:15.5417144+00:00",
+  "LastUpdate_Ratings": "2024-03-17T13:00:21.3573937+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:45.6796273+00:00"
 }

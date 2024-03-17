@@ -1,7 +1,7 @@
 # For The King
 [Store](https://store.epicgames.com/en-US/p/for-the-king)  
 [View Rawdata](../../db/f/for_the_king.json)  
-Rating: 4.70 (Ranked 228)  
+Rating: 4.70 (Ranked 227)  
 Number of Ratings: 5,563  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 442  (Ranked 242)  
