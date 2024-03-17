@@ -1,7 +1,7 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.28 (Ranked 928)  
+Rating: 4.29 (Ranked 908)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -139,3 +139,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-02-09 | 4.27 | 0 | 0 |
 | 2024-02-13 | 4.26 | 0 | 0 |
 | 2024-02-25 | 4.28 | 0 | 0 |
+| 2024-03-17 | 4.29 | 0 | 0 |
