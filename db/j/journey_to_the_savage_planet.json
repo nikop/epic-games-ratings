@@ -4,7 +4,7 @@
   "ProductSlug": "journey-to-the-savage-planet",
   "Ranking_Rating": 464,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 552,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -412,6 +412,6 @@
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
   "LastChanged": "2024-03-07T16:57:54.5996868+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:16.4766013+00:00",
-  "LastUpdate_Ratings": "2024-03-17T11:59:14.6536282+00:00",
+  "LastUpdate_Ratings": "2024-03-17T13:57:01.4330623+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:43.8562007+00:00"
 }
