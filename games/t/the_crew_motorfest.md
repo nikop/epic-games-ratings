@@ -4,15 +4,15 @@
 Rating: 4.65 (Ranked 336)  
 ## Awards
 Max (Relaxing): 1,055  (Ranked 169)  
-Sum: 7,683 (Ranked 131)  
+Sum: 7,691 (Ranked 131)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,055 |
-| This game is Great for Beginners | 1,009 |
+| This game is Great for Beginners | 1,014 |
 | This game has Quickly Understood Controls | 990 |
 | This game is Highly Recommended | 969 |
-| This game is Extremely Fun | 950 |
+| This game is Extremely Fun | 953 |
 | This game has Competitive Players | 941 |
 | This game has Amazing Storytelling | 921 |
 | This game has Amazing Characters | 848 |
@@ -205,4 +205,4 @@ Diff (max vs sum): 38
 | 2024-03-14 | 4.65 | 1,036 | 7,576 |
 | 2024-03-15 | 4.65 | 1,041 | 7,612 |
 | 2024-03-16 | 4.65 | 1,047 | 7,652 |
-| 2024-03-17 | 4.65 | 1,055 | 7,683 |
+| 2024-03-17 | 4.65 | 1,055 | 7,691 |

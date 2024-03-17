@@ -1,7 +1,7 @@
 # Ys IX: Monstrum Nox
 [Store](https://store.epicgames.com/en-US/p/ys-ix-monstrum-nox)  
 [View Rawdata](../../db/y/ys_ix__monstrum_nox_(launch_week).json)  
-Rating: 4.70 (Ranked 226)  
+Rating: 4.70 (Ranked 225)  
 Number of Ratings: 33  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

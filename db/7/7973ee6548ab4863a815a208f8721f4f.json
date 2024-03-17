@@ -3,8 +3,8 @@
   "Name": "GrandChase",
   "ProductSlug": "grandchase-c03eb2",
   "Ranking_Rating": 166,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 532,
+  "Ranking_Popularity": 521,
+  "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -335,18 +335,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 57,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-03-17T17:58:22.3811998+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 59,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 59,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -367,8 +373,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T05:56:58.3446483+00:00",
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
-  "LastChanged": "2024-03-16T02:11:29.9379078+00:00",
+  "LastChanged": "2024-03-17T17:58:22.3811996+00:00",
   "LastUpdate_AppInfo": "2024-03-13T08:57:02.4466543+00:00",
-  "LastUpdate_Ratings": "2024-03-17T16:00:07.2036848+00:00",
+  "LastUpdate_Ratings": "2024-03-17T17:58:22.3812004+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:37.1734818+00:00"
 }
