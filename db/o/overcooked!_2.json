@@ -4,7 +4,7 @@
   "ProductSlug": "overcooked-2",
   "Ranking_Rating": 228,
   "Ranking_Popularity": 271,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -4608,10 +4608,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2597,
       "NumberOfAwardsMax": 310
+    },
+    {
+      "Time": "2024-03-17T03:58:29.8484605+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2600,
+      "NumberOfAwardsMax": 310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2597,
+  "NumberOfAwards": 2600,
   "NumberOfAwardsMax": 310,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4673,7 +4679,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 251
+      "Count": 254
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4705,8 +4711,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-03-17T02:17:42.1374494+00:00",
+  "LastChanged": "2024-03-17T03:58:29.8484559+00:00",
   "LastUpdate_AppInfo": "2024-03-10T11:57:09.4190593+00:00",
-  "LastUpdate_Ratings": "2024-03-17T02:17:42.1374499+00:00",
+  "LastUpdate_Ratings": "2024-03-17T03:58:29.8484608+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:23.0631192+00:00"
 }
