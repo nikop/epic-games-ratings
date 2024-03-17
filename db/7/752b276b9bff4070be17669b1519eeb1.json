@@ -2,8 +2,8 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 822,
-  "Ranking_Popularity": 323,
+  "Ranking_Rating": 808,
+  "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-07-29T23:57:57.562026+00:00",
@@ -3587,11 +3587,17 @@
       "Rating": 4.38,
       "NumberOfAwards": 1168,
       "NumberOfAwardsMax": 192
+    },
+    {
+      "Time": "2024-03-17T15:57:34.5546866+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 1175,
+      "NumberOfAwardsMax": 194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1168,
-  "NumberOfAwardsMax": 192,
+  "NumberOfAwards": 1175,
+  "NumberOfAwardsMax": 194,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3610,19 +3616,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 192
+      "Count": 194
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3640,13 +3646,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 147
+      "Count": 149
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3667,8 +3673,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-03-16T18:57:51.3841162+00:00",
+  "LastChanged": "2024-03-17T15:57:34.5546865+00:00",
   "LastUpdate_AppInfo": "2024-03-15T03:57:14.2779496+00:00",
-  "LastUpdate_Ratings": "2024-03-17T13:59:27.6698706+00:00",
+  "LastUpdate_Ratings": "2024-03-17T15:57:34.5546868+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:31.4153862+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "c0f696a36d1d49f9a6a96a732a83acfc",
   "Name": "This Is The Police 2",
   "ProductSlug": "this-is-the-police-2",
-  "Ranking_Rating": 275,
+  "Ranking_Rating": 292,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 896,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 29,
   "RatingHistory": [
     {
@@ -206,6 +206,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-17T15:58:24.4350586+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -223,8 +229,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.818188+00:00",
-  "LastChanged": "2024-01-21T22:58:35.0079465+00:00",
+  "LastChanged": "2024-03-17T15:58:24.4350584+00:00",
   "LastUpdate_AppInfo": "2024-03-16T23:57:24.2344611+00:00",
-  "LastUpdate_Ratings": "2024-03-17T14:57:03.0208298+00:00",
+  "LastUpdate_Ratings": "2024-03-17T15:58:24.4350591+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:53.0628853+00:00"
 }

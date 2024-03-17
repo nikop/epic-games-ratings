@@ -1,12 +1,12 @@
 # The Witness
 [Store](https://store.epicgames.com/en-US/p/the-witness)  
 [View Rawdata](../../db/t/the_witness.json)  
-Rating: 4.69 (Ranked 248)  
+Rating: 4.69 (Ranked 247)  
 Number of Ratings: 503  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 193  (Ranked 322)  
+Max (Challenging Puzzles): 193  (Ranked 323)  
 Sum: 193 (Ranked 448)  
-Diff (max vs sum): -126  
+Diff (max vs sum): -125  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 193 |

@@ -1,7 +1,7 @@
 # Amnesia: The Bunker
 [Store](https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799)  
 [View Rawdata](../../db/a/amnesia__the_bunker.json)  
-Rating: 4.71 (Ranked 208)  
+Rating: 4.66 (Ranked 311)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.71 (Ranked 208)
 | 2024-03-01 | 4.73 | 0 | 0 |
 | 2024-03-07 | 4.70 | 0 | 0 |
 | 2024-03-15 | 4.71 | 0 | 0 |
+| 2024-03-17 | 4.66 | 0 | 0 |
