@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 527,
   "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1071,10 +1071,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 333,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-03-17T16:59:13.6241836+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 335,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 333,
+  "NumberOfAwards": 335,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1118,7 +1124,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 37
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Characters",
@@ -23306,9 +23312,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-03-16T07:57:33.4497934+00:00",
+  "LastChanged": "2024-03-17T16:59:13.6241834+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:43.6826407+00:00",
   "LastUpdate_AppInfo": "2024-03-15T12:58:26.6531736+00:00",
-  "LastUpdate_Ratings": "2024-03-17T15:57:11.5946177+00:00",
+  "LastUpdate_Ratings": "2024-03-17T16:59:13.6241856+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:43.6827583+00:00"
 }
