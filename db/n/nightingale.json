@@ -3,8 +3,8 @@
   "Name": "Nightingale",
   "ProductSlug": "nightingale",
   "Ranking_Rating": 946,
-  "Ranking_Popularity": 529,
-  "Ranking_PopularitySum": 426,
+  "Ranking_Popularity": 522,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -445,12 +445,18 @@
       "Rating": 4.26,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-03-17T08:01:50.6215534+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 246,
-  "NumberOfAwardsMax": 35,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 282,
+  "NumberOfAwardsMax": 36,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -462,7 +468,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 32
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
@@ -525,8 +531,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
-  "LastChanged": "2024-03-17T05:00:57.0143759+00:00",
+  "LastChanged": "2024-03-17T08:01:50.6215532+00:00",
   "LastUpdate_AppInfo": "2024-03-10T10:57:23.1600366+00:00",
-  "LastUpdate_Ratings": "2024-03-17T06:58:19.1710569+00:00",
+  "LastUpdate_Ratings": "2024-03-17T08:01:50.621554+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:34.4582727+00:00"
 }
