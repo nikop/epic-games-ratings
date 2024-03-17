@@ -4,7 +4,7 @@
   "ProductSlug": "darksiders2",
   "Ranking_Rating": 409,
   "Ranking_Popularity": 249,
-  "Ranking_PopularitySum": 337,
+  "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -874,10 +874,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 621,
       "NumberOfAwardsMax": 407
+    },
+    {
+      "Time": "2024-03-17T19:56:57.2690583+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 622,
+      "NumberOfAwardsMax": 407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 621,
+  "NumberOfAwards": 622,
   "NumberOfAwardsMax": 407,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -891,7 +897,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 214
+      "Count": 215
     }
   ],
   "EOS_Progressed": 0,
@@ -905,8 +911,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
-  "LastChanged": "2024-03-16T19:58:21.1619487+00:00",
+  "LastChanged": "2024-03-17T19:56:57.2690581+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:23.6384471+00:00",
-  "LastUpdate_Ratings": "2024-03-17T17:59:50.497298+00:00",
+  "LastUpdate_Ratings": "2024-03-17T19:56:57.2690586+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:54.4582535+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2bc23fc2438c47ec8acb0641980f50c1",
   "Name": "Darksiders Warmastered Edition",
   "ProductSlug": "darksiders",
-  "Ranking_Rating": 442,
+  "Ranking_Rating": 409,
   "Ranking_Popularity": 412,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 721,
   "RatingHistory": [
     {
@@ -817,6 +817,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 88,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2024-03-17T19:56:58.7677398+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
@@ -848,8 +854,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
-  "LastChanged": "2024-03-15T01:39:48.0569873+00:00",
+  "LastChanged": "2024-03-17T19:56:58.7677396+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:04.6429219+00:00",
-  "LastUpdate_Ratings": "2024-03-17T17:59:52.1626358+00:00",
+  "LastUpdate_Ratings": "2024-03-17T19:56:58.7677402+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:34.613478+00:00"
 }
