@@ -3,7 +3,7 @@
   "Name": "Outlast",
   "ProductSlug": "outlast",
   "Ranking_Rating": 150,
-  "Ranking_Popularity": 568,
+  "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
@@ -357,18 +357,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-03-17T21:57:35.3228009+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 50,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -389,8 +395,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-03-16T03:58:34.1373745+00:00",
+  "LastChanged": "2024-03-17T21:57:35.3228007+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:04.6874294+00:00",
-  "LastUpdate_Ratings": "2024-03-17T19:59:03.0918418+00:00",
+  "LastUpdate_Ratings": "2024-03-17T21:57:35.3228012+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:30.2183816+00:00"
 }
