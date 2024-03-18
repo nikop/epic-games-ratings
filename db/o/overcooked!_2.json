@@ -4,7 +4,7 @@
   "ProductSlug": "overcooked-2",
   "Ranking_Rating": 226,
   "Ranking_Popularity": 271,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -4638,10 +4638,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2604,
       "NumberOfAwardsMax": 311
+    },
+    {
+      "Time": "2024-03-18T13:57:23.7398553+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2363,
+      "NumberOfAwardsMax": 311
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2604,
+  "NumberOfAwards": 2363,
   "NumberOfAwardsMax": 311,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4735,8 +4741,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-03-18T10:57:30.0815362+00:00",
+  "LastChanged": "2024-03-18T13:57:23.7398552+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:46.6257197+00:00",
-  "LastUpdate_Ratings": "2024-03-18T12:00:03.8087796+00:00",
+  "LastUpdate_Ratings": "2024-03-18T13:57:23.7398557+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:23.0631192+00:00"
 }
