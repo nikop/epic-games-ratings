@@ -244,7 +244,7 @@
 | 226 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 617 |
 | 226 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 617 |
 | 226 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.70 | 0 | 617 |
-| 226 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,938 | 86 |
+| 226 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,939 | 86 |
 | 226 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 617 |
 | 247 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 617 |
 | 247 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 129,773 | 9 |
@@ -440,7 +440,7 @@
 | 410 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 77 | 429 |
 | 410 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 381 | 253 |
 | 410 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.61 | 0 | 617 |
-| 410 | [Warframe](games/w/warframe.md) | 4.61 | 22,306 | 23 |
+| 410 | [Warframe](games/w/warframe.md) | 4.61 | 22,349 | 23 |
 | 410 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 778 | 198 |
 | 443 | [20XX](games/2/20xx.md) | 4.60 | 39 | 515 |
 | 443 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,136 | 24 |
@@ -462,7 +462,7 @@
 | 443 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.60 | 569 | 223 |
 | 443 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 507 | 229 |
 | 443 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 26 | 575 |
-| 443 | [Witchfire](games/w/witchfire.md) | 4.60 | 78 | 427 |
+| 443 | [Witchfire](games/w/witchfire.md) | 4.60 | 78 | 428 |
 | 464 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 812 | 195 |
 | 464 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 617 |
 | 464 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 617 |
@@ -650,7 +650,7 @@
 | 636 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.50 | 0 | 617 |
 | 636 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 617 |
 | 636 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 11,177 | 42 |
-| 636 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,608 | 46 |
+| 636 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,622 | 46 |
 | 636 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.50 | 0 | 617 |
 | 636 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 8,177 | 59 |
 | 636 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 476 |
@@ -712,7 +712,7 @@
 | 695 | [Train Valley 2](games/t/train_valley_2.md) | 4.46 | 1,163 | 156 |
 | 695 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.46 | 0 | 617 |
 | 712 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.45 | 0 | 617 |
-| 712 | [DEATHLOOP](games/d/deathloop.md) | 4.45 | 78 | 427 |
+| 712 | [DEATHLOOP](games/d/deathloop.md) | 4.45 | 79 | 426 |
 | 712 | [ELEX](games/e/elex.md) | 4.45 | 26 | 575 |
 | 712 | [Escape Academy](games/e/escape_academy.md) | 4.45 | 0 | 617 |
 | 712 | [Faeria](games/f/faeria.md) | 4.45 | 119 | 376 |
@@ -723,7 +723,7 @@
 | 712 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.45 | 0 | 617 |
 | 712 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 617 |
 | 712 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 922 | 182 |
-| 712 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 767,193 | 2 |
+| 712 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 768,050 | 2 |
 | 712 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 617 |
 | 712 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 135 | 360 |
 | 712 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 617 |
@@ -993,7 +993,7 @@
 | 990 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 543 |
 | 990 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 617 |
 | 990 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 850 | 190 |
-| 990 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 224 | 306 |
+| 990 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 225 | 304 |
 | 990 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 96 | 403 |
 | 990 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 426 |
 | 990 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.21 | 0 | 617 |
