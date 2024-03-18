@@ -2,7 +2,7 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_Rating": 508,
+  "Ranking_Rating": 653,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 262,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2023-12-07T18:57:06.0810635+00:00",
@@ -157,6 +157,12 @@
     {
       "Time": "2024-03-13T14:58:02.7422994+00:00",
       "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-18T15:57:16.6023886+00:00",
+      "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4905,9 +4911,9 @@
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged": "2024-03-13T14:58:02.7422992+00:00",
+  "LastChanged": "2024-03-18T15:57:16.6023884+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:51.2196432+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:18.4333797+00:00",
-  "LastUpdate_Ratings": "2024-03-18T13:59:49.8731127+00:00",
+  "LastUpdate_Ratings": "2024-03-18T15:57:16.602389+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:51.2197034+00:00"
 }
