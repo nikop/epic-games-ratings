@@ -637,18 +637,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 154,
       "NumberOfAwardsMax": 154
+    },
+    {
+      "Time": "2024-03-18T06:59:13.7246598+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 155,
+      "NumberOfAwardsMax": 155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 154,
-  "NumberOfAwardsMax": 154,
+  "NumberOfAwards": 155,
+  "NumberOfAwardsMax": 155,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 154
+      "Count": 155
     }
   ],
   "EOS_Progressed": 0,
@@ -662,8 +668,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
-  "LastChanged": "2024-03-09T17:57:30.1548417+00:00",
+  "LastChanged": "2024-03-18T06:59:13.7246596+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:13.138112+00:00",
-  "LastUpdate_Ratings": "2024-03-18T05:58:13.4165354+00:00",
+  "LastUpdate_Ratings": "2024-03-18T06:59:13.7246601+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:31.6421619+00:00"
 }
