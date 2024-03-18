@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 21,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 165,
@@ -1830,10 +1830,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1218,
       "NumberOfAwardsMax": 791
+    },
+    {
+      "Time": "2024-03-18T04:00:05.4153133+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1219,
+      "NumberOfAwardsMax": 791
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1218,
+  "NumberOfAwards": 1219,
   "NumberOfAwardsMax": 791,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1913,7 +1919,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 142015,
@@ -30552,9 +30558,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-03-18T02:13:09.3366697+00:00",
+  "LastChanged": "2024-03-18T04:00:05.4153132+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:37.5736394+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:14.9336207+00:00",
-  "LastUpdate_Ratings": "2024-03-18T02:58:41.7452595+00:00",
+  "LastUpdate_Ratings": "2024-03-18T04:00:05.4153136+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:37.5738126+00:00"
 }

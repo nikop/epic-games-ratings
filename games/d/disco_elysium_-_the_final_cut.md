@@ -333,8 +333,8 @@ Completed: 29 (0.02%) (Ranked 386)
 | 2024-02-22 | 142,015 | 29 |
 ## Awards
 Max (Character Customization): 791  (Ranked 197)  
-Sum: 1,218 (Ranked 271)  
-Diff (max vs sum): -74  
+Sum: 1,219 (Ranked 270)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 791 |
@@ -348,7 +348,7 @@ Diff (max vs sum): -74
 | This game has Diverse Characters | 39 |
 | This game is Extremely Fun | 36 |
 | This game has Obsessive Gameplay | 26 |
-| This game has a Creative Community | 24 |
+| This game has a Creative Community | 25 |
 | This game has Easy Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -563,4 +563,4 @@ Diff (max vs sum): -74
 | 2024-03-11 | 4.87 | - | 789 | 1,211 |
 | 2024-03-14 | 4.87 | - | 789 | 1,212 |
 | 2024-03-17 | 4.87 | - | 791 | 1,215 |
-| 2024-03-18 | 4.87 | - | 791 | 1,218 |
+| 2024-03-18 | 4.87 | - | 791 | 1,219 |
