@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 443,
   "Ranking_Popularity": 229,
-  "Ranking_PopularitySum": 258,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -3941,18 +3941,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 1453,
       "NumberOfAwardsMax": 507
+    },
+    {
+      "Time": "2024-03-18T07:57:46.8813301+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1457,
+      "NumberOfAwardsMax": 509
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1453,
-  "NumberOfAwardsMax": 507,
+  "NumberOfAwards": 1457,
+  "NumberOfAwardsMax": 509,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 507
+      "Count": 509
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4030,7 +4036,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 48
+      "Count": 50
     }
   ],
   "EOS_Progressed": 0,
@@ -4044,8 +4050,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-03-17T20:57:30.9720117+00:00",
+  "LastChanged": "2024-03-18T07:57:46.8813299+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:44.5098653+00:00",
-  "LastUpdate_Ratings": "2024-03-18T06:00:03.6352182+00:00",
+  "LastUpdate_Ratings": "2024-03-18T07:57:46.8813306+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:20.3863661+00:00"
 }
