@@ -4,7 +4,7 @@
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 374,
   "Ranking_Popularity": 50,
-  "Ranking_PopularitySum": 98,
+  "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -4352,10 +4352,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 11766,
       "NumberOfAwardsMax": 8900
+    },
+    {
+      "Time": "2024-03-18T02:58:56.1251383+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 11769,
+      "NumberOfAwardsMax": 8900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11766,
+  "NumberOfAwards": 11769,
   "NumberOfAwardsMax": 8900,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4393,7 +4399,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 323
+      "Count": 326
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4431,8 +4437,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-03-17T22:57:49.1601355+00:00",
+  "LastChanged": "2024-03-18T02:58:56.1251381+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:20.1551117+00:00",
-  "LastUpdate_Ratings": "2024-03-18T02:13:28.2930046+00:00",
+  "LastUpdate_Ratings": "2024-03-18T02:58:56.1251387+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:43.8487883+00:00"
 }
