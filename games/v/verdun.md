@@ -350,12 +350,12 @@ Completed: 4 (0.01%) (Ranked 399)
 | 2024-01-26 | 70,528 | 4 |
 | 2024-01-27 | 70,578 | 4 |
 ## Awards
-Max (Highly Recommended): 107  (Ranked 388)  
-Sum: 865 (Ranked 298)  
-Diff (max vs sum): 90  
+Max (Highly Recommended): 108  (Ranked 387)  
+Sum: 866 (Ranked 298)  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 107 |
+| This game is Highly Recommended | 108 |
 | This game is Great for Beginners | 106 |
 | This game has Diverse Characters | 101 |
 | This game is Extremely Fun | 100 |
@@ -558,3 +558,4 @@ Diff (max vs sum): 90
 | 2024-03-08 | 4.53 | - | 107 | 861 |
 | 2024-03-10 | 4.53 | - | 107 | 864 |
 | 2024-03-17 | 4.53 | - | 107 | 865 |
+| 2024-03-18 | 4.53 | - | 108 | 866 |
