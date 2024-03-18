@@ -2,7 +2,7 @@
   "ID": "d1479d6f93fa4e6ca4415e83a7a5d703",
   "Name": "Costume Quest",
   "ProductSlug": "costume-quest",
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 53,
   "RatingHistory": [
     {
@@ -309,6 +309,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-18T16:58:03.5382894+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -326,8 +332,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:30.9149572+00:00",
-  "LastChanged": "2024-01-16T03:58:28.3921128+00:00",
+  "LastChanged": "2024-03-18T16:58:03.5382892+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:11.2383306+00:00",
-  "LastUpdate_Ratings": "2024-03-18T15:00:13.0856543+00:00",
+  "LastUpdate_Ratings": "2024-03-18T16:58:03.5382897+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:24.8247114+00:00"
 }
