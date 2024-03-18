@@ -894,4 +894,4 @@
 | 423 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 0.00% |
 | 423 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 423 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 4,087 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.76% |
+| 4,088 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.76% |
