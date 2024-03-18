@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.14 (Ranked 1,044)  
+Rating: 4.15 (Ranked 1,034)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -362,13 +362,13 @@ Completed: 6 (0.11%) (Ranked 331)
 | 2024-03-04 | 5,552 | 6 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 465)  
-Sum: 260 (Ranked 419)  
+Sum: 261 (Ranked 419)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 57 |
 | This game is Great for Quick Sessions | 48 |
-| This game has Diverse Characters | 43 |
+| This game has Diverse Characters | 44 |
 | This game has Playful Visuals | 36 |
 | This game has a Kind Community | 31 |
 | This game has Quickly Understood Controls | 24 |
@@ -511,3 +511,4 @@ Diff (max vs sum): 46
 | 2024-03-14 | 4.14 | 55 | 254 |
 | 2024-03-15 | 4.14 | 55 | 258 |
 | 2024-03-16 | 4.14 | 57 | 260 |
+| 2024-03-18 | 4.15 | 57 | 261 |
