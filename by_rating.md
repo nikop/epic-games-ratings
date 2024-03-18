@@ -9,9 +9,9 @@
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 617 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 617 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 21 | 605 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,059 | 126 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,060 | 126 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 617 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 9,941 | 45 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 9,955 | 45 |
 | 12 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 617 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 504 | 230 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 25,752 | 20 |
@@ -20,7 +20,7 @@
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 617 |
 | 16 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 294,518 | 5 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 617 |
-| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,669 | 140 |
+| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,672 | 140 |
 | 21 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 791 | 197 |
 | 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,381 | 82 |
 | 21 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 16,343 | 26 |
@@ -39,7 +39,7 @@
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,846 | 134 |
 | 29 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 154 | 352 |
 | 29 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 617 |
-| 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,009 | 76 |
+| 40 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,011 | 76 |
 | 40 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.85 | 0 | 617 |
 | 40 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 617 |
 | 40 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 52 | 479 |
@@ -463,7 +463,7 @@
 | 443 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 509 | 229 |
 | 443 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 26 | 575 |
 | 443 | [Witchfire](games/w/witchfire.md) | 4.60 | 78 | 428 |
-| 464 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 812 | 195 |
+| 464 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.59 | 815 | 195 |
 | 464 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 617 |
 | 464 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 617 |
 | 464 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 911 | 186 |
@@ -993,7 +993,7 @@
 | 991 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 369 |
 | 991 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 543 |
 | 991 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 617 |
-| 991 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 850 | 190 |
+| 991 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 855 | 190 |
 | 991 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 225 | 304 |
 | 991 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 96 | 403 |
 | 991 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 426 |
@@ -1088,7 +1088,7 @@
 | 1,086 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 617 |
 | 1,087 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.01 | 0 | 617 |
 | 1,088 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.00 | 0 | 617 |
-| 1,088 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 8,244 | 58 |
+| 1,088 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.00 | 8,264 | 58 |
 | 1,088 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,074 | 85 |
 | 1,088 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 617 |
 | 1,092 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 383 | 252 |
