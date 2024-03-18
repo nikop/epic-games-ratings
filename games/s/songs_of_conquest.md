@@ -142,8 +142,8 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-27 | 1,323 | 0 |
 | 2024-02-22 | 1,516 | 0 |
 ## Awards
-Max (Quickly Understood Controls): 30  (Ranked 554)  
-Sum: 263 (Ranked 418)  
+Max (Relaxing): 30  (Ranked 554)  
+Sum: 264 (Ranked 418)  
 Diff (max vs sum): 136  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +155,7 @@ Diff (max vs sum): 136
 | This game is Highly Recommended | 26 |
 | This game has Unique Visuals | 25 |
 | This game is Extremely Fun | 25 |
-| This game has Competitive Players | 22 |
+| This game has Competitive Players | 23 |
 | This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -237,3 +237,4 @@ Diff (max vs sum): 136
 | 2024-03-13 | 4.68 | - | 30 | 261 |
 | 2024-03-14 | 4.68 | - | 30 | 262 |
 | 2024-03-15 | 4.68 | - | 30 | 263 |
+| 2024-03-18 | 4.68 | - | 30 | 264 |
