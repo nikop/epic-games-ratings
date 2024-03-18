@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 484,
+  "Ranking_Rating": 483,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 896,
@@ -19626,10 +19626,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 290849,
       "NumberOfAwardsMax": 67677
+    },
+    {
+      "Time": "2024-03-18T21:57:38.7157208+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 290853,
+      "NumberOfAwardsMax": 67677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290849,
+  "NumberOfAwards": 290853,
   "NumberOfAwardsMax": 67677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19703,7 +19709,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21406
+      "Count": 21410
     }
   ],
   "EOS_Progressed": 0,
@@ -19717,8 +19723,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-03-18T14:57:51.9831661+00:00",
+  "LastChanged": "2024-03-18T21:57:38.7157206+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:20.8756198+00:00",
-  "LastUpdate_Ratings": "2024-03-18T19:59:28.4369989+00:00",
+  "LastUpdate_Ratings": "2024-03-18T21:57:38.7157212+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:41.1938371+00:00"
 }
