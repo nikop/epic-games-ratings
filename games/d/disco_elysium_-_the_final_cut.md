@@ -333,18 +333,18 @@ Completed: 29 (0.02%) (Ranked 386)
 | 2024-02-22 | 142,015 | 29 |
 ## Awards
 Max (Character Customization): 791  (Ranked 197)  
-Sum: 1,215 (Ranked 272)  
-Diff (max vs sum): -75  
+Sum: 1,218 (Ranked 271)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 791 |
 | This game has Amazing Storytelling | 55 |
-| This game is Highly Recommended | 51 |
+| This game is Highly Recommended | 52 |
 | This game is Educational | 49 |
-| This game has Quickly Understood Controls | 47 |
+| This game has Quickly Understood Controls | 48 |
 | This game is Relaxing | 43 |
+| This game has Amazing Characters | 41 |
 | This game has Unique Visuals | 40 |
-| This game has Amazing Characters | 40 |
 | This game has Diverse Characters | 39 |
 | This game is Extremely Fun | 36 |
 | This game has Obsessive Gameplay | 26 |
@@ -563,3 +563,4 @@ Diff (max vs sum): -75
 | 2024-03-11 | 4.87 | - | 789 | 1,211 |
 | 2024-03-14 | 4.87 | - | 789 | 1,212 |
 | 2024-03-17 | 4.87 | - | 791 | 1,215 |
+| 2024-03-18 | 4.87 | - | 791 | 1,218 |

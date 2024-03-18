@@ -2,7 +2,7 @@
   "ID": "09d8b60b834a47d48fb0aba85a6d6a2e",
   "Name": "Tails Noir",
   "ProductSlug": "backbone",
-  "Ranking_Rating": 868,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 896,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2022-10-07T12:31:08.126341+00:00",
@@ -101,6 +101,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-18T02:17:06.5032579+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -119,8 +125,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:12.4596639+00:00",
   "FirstSeenRating": "2022-10-07T12:31:08.1263406+00:00",
-  "LastChanged": "2023-06-11T06:01:49.7670736+00:00",
+  "LastChanged": "2024-03-18T02:17:06.5032578+00:00",
   "LastUpdate_AppInfo": "2024-03-16T23:57:19.5764827+00:00",
-  "LastUpdate_Ratings": "2024-03-18T01:39:42.8856968+00:00",
+  "LastUpdate_Ratings": "2024-03-18T02:17:06.5032583+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:42.8381416+00:00"
 }

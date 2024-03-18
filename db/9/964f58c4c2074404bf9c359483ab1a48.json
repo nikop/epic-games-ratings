@@ -4,7 +4,7 @@
   "ProductSlug": "midnight-ghost-hunt",
   "Ranking_Rating": 868,
   "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 22,
@@ -2671,18 +2671,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 741,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2024-03-18T02:15:50.3690585+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 742,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 741,
-  "NumberOfAwardsMax": 107,
+  "NumberOfAwards": 742,
+  "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game is Highly Recommended",
@@ -31214,9 +31220,9 @@
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2024-03-16T18:59:40.5021337+00:00",
+  "LastChanged": "2024-03-18T02:15:50.3690584+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:39.6134006+00:00",
   "LastUpdate_AppInfo": "2024-03-15T19:57:51.7791532+00:00",
-  "LastUpdate_Ratings": "2024-03-18T01:38:52.6567703+00:00",
+  "LastUpdate_Ratings": "2024-03-18T02:15:50.3690588+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:39.6135612+00:00"
 }
