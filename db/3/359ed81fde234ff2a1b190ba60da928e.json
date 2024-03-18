@@ -2,7 +2,7 @@
   "ID": "359ed81fde234ff2a1b190ba60da928e",
   "Name": "KOMPETE",
   "ProductSlug": "kompete-73c94a",
-  "Ranking_Rating": 761,
+  "Ranking_Rating": 751,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 896,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-12-28T19:58:04.6014071+00:00",
@@ -191,6 +191,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-18T22:57:25.0864242+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -209,8 +215,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-16T23:57:25.2891809+00:00",
   "FirstSeenRating": "2023-12-28T19:58:04.6014069+00:00",
-  "LastChanged": "2024-03-14T08:58:20.8878174+00:00",
+  "LastChanged": "2024-03-18T22:57:25.086424+00:00",
   "LastUpdate_AppInfo": "2024-03-15T06:57:10.7015382+00:00",
-  "LastUpdate_Ratings": "2024-03-18T20:59:57.8187122+00:00",
+  "LastUpdate_Ratings": "2024-03-18T22:57:25.0864246+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:20.2818664+00:00"
 }

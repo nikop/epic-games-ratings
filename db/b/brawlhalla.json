@@ -3,7 +3,7 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 463,
-  "Ranking_Popularity": 186,
+  "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
@@ -13119,11 +13119,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 7376,
       "NumberOfAwardsMax": 911
+    },
+    {
+      "Time": "2024-03-18T22:57:33.5145142+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 7389,
+      "NumberOfAwardsMax": 916
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7376,
-  "NumberOfAwardsMax": 911,
+  "NumberOfAwards": 7389,
+  "NumberOfAwardsMax": 916,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -13142,13 +13148,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 872
+      "Count": 874
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 911
+      "Count": 916
     },
     {
       "Text": "This game is Relaxing",
@@ -13172,7 +13178,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 642
+      "Count": 644
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13190,7 +13196,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 613
+      "Count": 617
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13211,8 +13217,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2024-03-18T19:58:36.7423641+00:00",
+  "LastChanged": "2024-03-18T22:57:33.514514+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:31.006879+00:00",
-  "LastUpdate_Ratings": "2024-03-18T21:00:06.4782273+00:00",
+  "LastUpdate_Ratings": "2024-03-18T22:57:33.5145151+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:14.1556604+00:00"
 }
