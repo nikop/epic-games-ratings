@@ -3,7 +3,7 @@
   "Name": "Snakebird Complete",
   "ProductSlug": "snakebird-complete-e6f0ae",
   "Ranking_Rating": 464,
-  "Ranking_Popularity": 524,
+  "Ranking_Popularity": 521,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
@@ -251,18 +251,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 36,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-03-18T11:57:26.1815585+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 37,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 37,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 36
+      "Count": 37
     }
   ],
   "EOS_Progressed": 0,
@@ -285,9 +291,9 @@
   "FirstSeen": "2023-12-29T18:56:59.2295687+00:00",
   "FirstSeenRating": "2023-12-30T21:58:02.2559632+00:00",
   "FirstSeenAchievements": "2023-12-29T17:03:21.6861588+00:00",
-  "LastChanged": "2024-03-16T03:58:29.2726392+00:00",
+  "LastChanged": "2024-03-18T11:57:26.1815584+00:00",
   "LastChanged_Achievements": "2024-02-22T21:03:43.7761592+00:00",
   "LastUpdate_AppInfo": "2024-03-15T21:57:23.9441101+00:00",
-  "LastUpdate_Ratings": "2024-03-18T09:59:11.9152225+00:00",
+  "LastUpdate_Ratings": "2024-03-18T11:57:26.1815586+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:43.7761716+00:00"
 }
