@@ -2,7 +2,7 @@
   "ID": "3c06b15a8a2845c0b725d4f952fe00aa",
   "Name": "HITMAN",
   "ProductSlug": "hitman/standard-edition",
-  "Ranking_Rating": 373,
+  "Ranking_Rating": 372,
   "Ranking_Popularity": 304,
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 896,
@@ -2956,10 +2956,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1660,
       "NumberOfAwardsMax": 225
+    },
+    {
+      "Time": "2024-03-18T14:58:58.8405219+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1661,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1660,
+  "NumberOfAwards": 1661,
   "NumberOfAwardsMax": 225,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3015,7 +3021,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 193
+      "Count": 194
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3035,8 +3041,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2024-03-17T23:57:42.4126972+00:00",
+  "LastChanged": "2024-03-18T14:58:58.8405217+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:20.636681+00:00",
-  "LastUpdate_Ratings": "2024-03-18T13:57:48.4987257+00:00",
+  "LastUpdate_Ratings": "2024-03-18T14:58:58.8405221+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:21.8001491+00:00"
 }

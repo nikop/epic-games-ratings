@@ -1,7 +1,7 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.66 (Ranked 311)  
+Rating: 4.65 (Ranked 335)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -264,3 +264,4 @@ Diff (max vs sum): -64
 | 2024-03-14 | 4.67 | 53 | 53 |
 | 2024-03-15 | 4.67 | 54 | 54 |
 | 2024-03-16 | 4.66 | 54 | 54 |
+| 2024-03-18 | 4.65 | 54 | 54 |
