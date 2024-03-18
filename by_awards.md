@@ -89,7 +89,7 @@
 | 87 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 526 |
 | 88 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,694 | 4.36 | 842 |
 | 89 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,684 | 4.70 | 226 |
-| 90 | [Trackmania Starter Access](games/t/trackmania.md) | 4,667 | 4.65 | 336 |
+| 90 | [Trackmania Starter Access](games/t/trackmania.md) | 4,672 | 4.65 | 336 |
 | 91 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,524 | 4.68 | 274 |
 | 92 | [Days Gone](games/d/days_gone.md) | 4,460 | 4.68 | 274 |
 | 93 | [The Sims™ 4](games/t/the_sims™_4.md) | 4,322 | 4.62 | 395 |
@@ -228,7 +228,7 @@
 | 226 | [Terraforming Mars](games/t/terraforming_mars.md) | 551 | 4.53 | 585 |
 | 227 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 539 | 4.33 | 879 |
 | 228 | [Loop Hero](games/l/loop_hero.md) | 516 | 4.67 | 292 |
-| 229 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 507 | 4.60 | 443 |
+| 229 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 509 | 4.60 | 443 |
 | 230 | [RimWorld](games/r/rimworld.md) | 504 | 4.89 | 12 |
 | 231 | [Warface: Clutch](games/w/warface.md) | 497 | 3.89 | 1,117 |
 | 232 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 495 | 4.74 | 166 |
@@ -324,8 +324,8 @@
 | 322 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 194 | 4.39 | 809 |
 | 323 | [The Witness](games/t/the_witness.md) | 193 | 4.69 | 247 |
 | 324 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 192 | 4.62 | 395 |
-| 325 | [Blasphemous](games/b/blasphemous.md) | 188 | 4.83 | 56 |
-| 325 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 188 | 4.40 | 790 |
+| 325 | [Blasphemous](games/b/blasphemous.md) | 189 | 4.83 | 56 |
+| 326 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 188 | 4.40 | 790 |
 | 327 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 186 | 4.82 | 72 |
 | 328 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 185 | 4.66 | 311 |
 | 328 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 185 | 4.55 | 549 |
@@ -464,9 +464,9 @@
 | 460 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 59 | 4.65 | 336 |
 | 460 | [Obduction](games/o/obduction.md) | 59 | 4.08 | 1,065 |
 | 460 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.43 | 752 |
-| 465 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 57 | 4.65 | 336 |
-| 465 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 57 | 4.15 | 1,034 |
-| 465 | [The Escapists 2](games/t/the_escapists_2.md) | 57 | 4.58 | 483 |
+| 465 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 58 | 4.15 | 1,034 |
+| 466 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 57 | 4.65 | 336 |
+| 466 | [The Escapists 2](games/t/the_escapists_2.md) | 57 | 4.58 | 483 |
 | 468 | [ATOM RPG](games/a/atom_rpg.md) | 56 | 4.51 | 613 |
 | 468 | [Madden NFL 23](games/m/madden_nfl_23.md) | 56 | 4.31 | 896 |
 | 468 | [The Alto Collection](games/t/the_alto_collection.md) | 56 | 4.70 | 226 |
