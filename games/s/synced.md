@@ -1,7 +1,7 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.11 (Ranked 1,057)  
+Rating: 4.11 (Ranked 1,058)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -178,12 +178,12 @@ Completed: 84 (0.09%) (Ranked 338)
 | 2024-01-27 | 90,705 | 79 |
 | 2024-03-04 | 95,544 | 84 |
 ## Awards
-Max (Great for Beginners): 168  (Ranked 342)  
-Sum: 660 (Ranked 332)  
+Max (Great for Beginners): 169  (Ranked 341)  
+Sum: 661 (Ranked 331)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 168 |
+| This game is Great for Beginners | 169 |
 | This game has Diverse Characters | 130 |
 | This game is Highly Recommended | 85 |
 | This game has Amazing Characters | 81 |
@@ -367,3 +367,4 @@ Diff (max vs sum): 10
 | 2024-03-16 | 4.11 | 166 | 655 |
 | 2024-03-17 | 4.11 | 168 | 658 |
 | 2024-03-18 | 4.11 | 168 | 660 |
+| 2024-03-19 | 4.11 | 169 | 661 |

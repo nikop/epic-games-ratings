@@ -1,7 +1,7 @@
 # The Life and Suffering of Sir Brante
 [Store](https://store.epicgames.com/en-US/p/the-life-and-suffering-of-sir-brante)  
 [View Rawdata](../../db/t/the_life_and_suffering_of_sir_brante.json)  
-Rating: 4.72 (Ranked 198)  
+Rating: 4.72 (Ranked 199)  
 Number of Ratings: 31  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

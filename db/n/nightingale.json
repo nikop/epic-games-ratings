@@ -4,7 +4,7 @@
   "ProductSlug": "nightingale",
   "Ranking_Rating": 956,
   "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -499,10 +499,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-03-19T18:58:21.1159745+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279,
+  "NumberOfAwards": 282,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -546,7 +552,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 31
     },
     {
       "Text": "This game has a Creative Community",
@@ -579,8 +585,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
-  "LastChanged": "2024-03-19T01:38:04.5842064+00:00",
+  "LastChanged": "2024-03-19T18:58:21.1159743+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:21.7150041+00:00",
-  "LastUpdate_Ratings": "2024-03-19T17:01:41.6335627+00:00",
+  "LastUpdate_Ratings": "2024-03-19T18:58:21.1159749+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:34.4582727+00:00"
 }
