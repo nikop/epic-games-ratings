@@ -4,7 +4,7 @@
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 372,
   "Ranking_Popularity": 51,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -4400,18 +4400,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 11832,
       "NumberOfAwardsMax": 8937
+    },
+    {
+      "Time": "2024-03-19T16:57:42.2454261+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 11884,
+      "NumberOfAwardsMax": 8981
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11832,
-  "NumberOfAwardsMax": 8937,
+  "NumberOfAwards": 11884,
+  "NumberOfAwardsMax": 8981,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8937
+      "Count": 8981
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4423,7 +4429,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 348
+      "Count": 353
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4435,7 +4441,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 463
+      "Count": 466
     },
     {
       "Text": "This game is Relaxing",
@@ -4479,8 +4485,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-03-19T09:02:12.5835448+00:00",
+  "LastChanged": "2024-03-19T16:57:42.2454259+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:20.1551117+00:00",
-  "LastUpdate_Ratings": "2024-03-19T15:00:07.2294302+00:00",
+  "LastUpdate_Ratings": "2024-03-19T16:57:42.2454263+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:43.8487883+00:00"
 }
