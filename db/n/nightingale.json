@@ -4,7 +4,7 @@
   "ProductSlug": "nightingale",
   "Ranking_Rating": 956,
   "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 411,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -511,10 +511,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-03-19T22:58:58.2614217+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 288,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 288,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -540,7 +546,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has Diverse Characters",
@@ -591,8 +597,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
-  "LastChanged": "2024-03-19T19:59:15.8632327+00:00",
+  "LastChanged": "2024-03-19T22:58:58.2614214+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:21.7150041+00:00",
-  "LastUpdate_Ratings": "2024-03-19T21:57:03.3675192+00:00",
+  "LastUpdate_Ratings": "2024-03-19T22:58:58.2614219+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:34.4582727+00:00"
 }
