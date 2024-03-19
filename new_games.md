@@ -36,7 +36,7 @@
 | [Never Synth](games/3/371b823a2db44deea5ad6467a114abe0.md) | 2024-03-05 | - |  | - | - |
 | [Classified: France '44](games/1/1d2ae09227b6435a9c6e763574b95575.md) | 2024-03-05 | - |  | - | 0 |
 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 2024-03-05 | 36 (1,000 XP) | 0 | - | 0 |
-| [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | 4.07 | 0 |
+| [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | 4.08 | 0 |
 | [Hailot - Random Card Defense](games/a/a702c4e086e143e39a95456fa7832719.md) | 2024-03-05 | - |  | - | - |
 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | 0 |
 | [Youtubers Life](games/a/aa743bad41d24af0a14b3d1e979e1f85.md) | 2024-03-05 | 63 (1,000 XP) | 2 | - | 0 |
@@ -70,7 +70,7 @@
 | [Spooky Mahjong](games/5/52c79a87370744d0aec8b50bf5d9502d.md) | 2024-02-25 | - |  | - | - |
 | [Devil's Island](games/0/090ac4b263f44ea79418069fddfb0d9b.md) | 2024-02-25 | - |  | - | - |
 | [Make It Stop!](games/8/877493b28f0a4f319f76d77fd4932a6c.md) | 2024-02-24 | - |  | - | - |
-| [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 2024-02-23 | - |  | 3.96 | 0 |
+| [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 2024-02-23 | - |  | 4.13 | 0 |
 | [Death From Above - Complete Edition](games/f/f7dd9963616b4c1d9b89d5582a07766c.md) | 2024-02-23 | 21 (1,000 XP) | 0 | - | 0 |
 | [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-02-23 | 10 (1,000 XP) | 0 | - | 0 |
 | [BoltBreak 2 Prologue](games/d/d230b0be606f4d97b2c2ade836a6ecac.md) | 2024-02-23 | - |  | - | 0 |
