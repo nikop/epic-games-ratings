@@ -4,7 +4,7 @@
   "ProductSlug": "shadowrun-hong-kong",
   "Ranking_Rating": 565,
   "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 499,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -440,6 +440,6 @@
   "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
   "LastChanged": "2023-10-09T04:59:40.7820463+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:57.3021757+00:00",
-  "LastUpdate_Ratings": "2024-03-19T13:00:24.6399367+00:00",
+  "LastUpdate_Ratings": "2024-03-19T14:58:49.1333004+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:34.3329185+00:00"
 }

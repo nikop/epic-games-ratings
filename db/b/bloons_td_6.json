@@ -16177,11 +16177,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 59263,
       "NumberOfAwardsMax": 11255
+    },
+    {
+      "Time": "2024-03-19T14:57:58.2536462+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 59302,
+      "NumberOfAwardsMax": 11269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59263,
-  "NumberOfAwardsMax": 11255,
+  "NumberOfAwards": 59302,
+  "NumberOfAwardsMax": 11269,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -16200,13 +16206,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4160
+      "Count": 4165
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4311
+      "Count": 4317
     },
     {
       "Text": "This game is Highly Recommended",
@@ -16224,7 +16230,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 11255
+      "Count": 11269
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -16236,7 +16242,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4981
+      "Count": 4990
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16248,7 +16254,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3943
+      "Count": 3948
     },
     {
       "Text": "This game has a Creative Community",
@@ -16275,8 +16281,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2024-03-19T12:59:49.6708377+00:00",
+  "LastChanged": "2024-03-19T14:57:58.2536457+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:56.8109399+00:00",
-  "LastUpdate_Ratings": "2024-03-19T12:59:49.6708386+00:00",
+  "LastUpdate_Ratings": "2024-03-19T14:57:58.2536467+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:42.3996542+00:00"
 }

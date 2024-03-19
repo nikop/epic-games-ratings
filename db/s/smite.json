@@ -2,7 +2,7 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 762,
+  "Ranking_Rating": 763,
   "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 896,
@@ -13690,10 +13690,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 29887,
       "NumberOfAwardsMax": 5376
+    },
+    {
+      "Time": "2024-03-19T15:00:01.9970794+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 29892,
+      "NumberOfAwardsMax": 5376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29887,
+  "NumberOfAwards": 29892,
   "NumberOfAwardsMax": 5376,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13731,7 +13737,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3515
+      "Count": 3520
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13769,8 +13775,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2024-03-19T13:58:04.4165598+00:00",
+  "LastChanged": "2024-03-19T15:00:01.9970792+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:17.8338018+00:00",
-  "LastUpdate_Ratings": "2024-03-19T13:58:04.4165605+00:00",
+  "LastUpdate_Ratings": "2024-03-19T15:00:01.9970798+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:46.3793933+00:00"
 }
