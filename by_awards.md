@@ -45,8 +45,8 @@
 | 43 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,154 | 4.61 | 409 |
 | 44 | [DEATH STRANDING](games/d/death_stranding.md) | 10,082 | 4.78 | 115 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,955 | 4.89 | 12 |
-| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,622 | 4.50 | 635 |
-| 47 | [Control](games/c/control.md) | 9,342 | 4.61 | 409 |
+| 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,631 | 4.50 | 635 |
+| 47 | [Control](games/c/control.md) | 9,347 | 4.61 | 409 |
 | 48 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,161 | 4.69 | 247 |
 | 49 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,106 | 4.56 | 525 |
 | 50 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 8,937 | 4.63 | 372 |
@@ -67,7 +67,7 @@
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,265 | 4.66 | 311 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,915 | 4.83 | 56 |
 | 67 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,860 | 4.58 | 484 |
-| 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 6,714 | 4.67 | 292 |
+| 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 6,729 | 4.67 | 292 |
 | 69 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,692 | 4.76 | 138 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 762 |
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,518 | 4.80 | 94 |
@@ -193,7 +193,7 @@
 | 191 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 849 | 4.67 | 292 |
 | 192 | [Subnautica](games/s/subnautica.md) | 832 | 4.85 | 40 |
 | 193 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 825 | 4.60 | 443 |
-| 194 | [Neverwinter](games/n/neverwinter.md) | 816 | 4.30 | 904 |
+| 194 | [Neverwinter](games/n/neverwinter.md) | 819 | 4.30 | 904 |
 | 195 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 815 | 4.59 | 463 |
 | 196 | [Core](games/c/core.md) | 801 | 4.35 | 855 |
 | 197 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 791 | 4.87 | 21 |
@@ -253,8 +253,8 @@
 | 251 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 404 | 4.55 | 547 |
 | 252 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 383 | 3.99 | 1,092 |
 | 253 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 381 | 4.61 | 409 |
+| 254 | [Railway Empire](games/r/railway_empire.md) | 374 | 4.51 | 612 |
 | 254 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 374 | 4.72 | 198 |
-| 255 | [Railway Empire](games/r/railway_empire.md) | 373 | 4.51 | 612 |
 | 256 | [Inscryption](games/i/inscryption.md) | 366 | 4.86 | 29 |
 | 257 | [Dead Cells](games/d/dead_cells.md) | 362 | 4.86 | 29 |
 | 257 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 362 | 4.79 | 100 |
@@ -356,7 +356,7 @@
 | 354 | [Alien: Isolation](games/a/alien__isolation.md) | 144 | 4.61 | 409 |
 | 354 | [Going Medieval](games/g/going_medieval.md) | 144 | 4.60 | 443 |
 | 354 | [while True: learn()](games/w/while_true__learn().md) | 144 | 4.51 | 612 |
-| 357 | [F1® 23](games/f/f1®_23_standard_edition.md) | 141 | 4.64 | 357 |
+| 357 | [F1® 23](games/f/f1®_23_standard_edition.md) | 143 | 4.64 | 357 |
 | 358 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 137 | 4.61 | 409 |
 | 358 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 137 | 4.68 | 273 |
 | 360 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 135 | 4.52 | 596 |

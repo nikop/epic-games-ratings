@@ -296,7 +296,7 @@
 | 292 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 617 |
 | 292 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 52 | 479 |
 | 292 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.67 | 20 | 613 |
-| 292 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,714 | 68 |
+| 292 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,729 | 68 |
 | 292 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 334,422 | 4 |
 | 292 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 617 |
 | 292 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 516 | 228 |
@@ -362,7 +362,7 @@
 | 357 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,075 | 75 |
 | 357 | [Black Book](games/b/black_book.md) | 4.64 | 21 | 605 |
 | 357 | [Black Skylands](games/b/black_skylands.md) | 4.64 | 0 | 617 |
-| 357 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.64 | 141 | 357 |
+| 357 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.64 | 143 | 357 |
 | 357 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.64 | 0 | 617 |
 | 357 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.64 | 0 | 617 |
 | 357 | [Madcar GT](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.64 | 0 | 617 |
@@ -413,7 +413,7 @@
 | 409 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 617 |
 | 409 | [Aimlabs](games/a/aimlabs.md) | 4.61 | 130 | 366 |
 | 409 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 144 | 354 |
-| 409 | [Control](games/c/control.md) | 4.61 | 9,342 | 47 |
+| 409 | [Control](games/c/control.md) | 4.61 | 9,347 | 47 |
 | 409 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 236 | 298 |
 | 409 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 407 | 249 |
 | 409 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 88 | 412 |
@@ -622,7 +622,7 @@
 | 612 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 341 | 261 |
 | 612 | [GigaBash](games/g/gigabash.md) | 4.51 | 80 | 424 |
 | 612 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 617 |
-| 612 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 373 | 255 |
+| 612 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 374 | 254 |
 | 612 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.51 | 0 | 617 |
 | 612 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.51 | 0 | 617 |
 | 612 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 1,069 | 166 |
@@ -648,7 +648,7 @@
 | 635 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.50 | 0 | 617 |
 | 635 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 617 |
 | 635 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 11,202 | 42 |
-| 635 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,622 | 46 |
+| 635 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,631 | 46 |
 | 635 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.50 | 0 | 617 |
 | 635 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 8,228 | 59 |
 | 635 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 476 |
@@ -906,7 +906,7 @@
 | 904 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.30 | 0 | 617 |
 | 904 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.30 | 75 | 433 |
 | 904 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.30 | 81 | 421 |
-| 904 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 816 | 194 |
+| 904 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 819 | 194 |
 | 908 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.29 | 0 | 617 |
 | 908 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 617 |
 | 908 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 617 |
