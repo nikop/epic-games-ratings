@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.74 (Ranked 164)  
+Rating: 4.73 (Ranked 182)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -387,3 +387,4 @@ Diff (max vs sum): -106
 | 2024-01-07 | 4.75 | - | 109 | 109 |
 | 2024-01-14 | 4.74 | - | 109 | 109 |
 | 2024-01-19 | 4.74 | - | 110 | 110 |
+| 2024-03-19 | 4.73 | - | 110 | 110 |

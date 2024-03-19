@@ -2,7 +2,7 @@
   "ID": "489c2ca47aaa4190b694184b979d3b23",
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
-  "Ranking_Rating": 1096,
+  "Ranking_Rating": 1094,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.97,
+  "Rating": 3.98,
   "NumberOfRatings": 56,
   "RatingHistory": [
     {
@@ -305,6 +305,12 @@
     {
       "Time": "2024-03-15T20:59:36.7865621+00:00",
       "Rating": 3.97,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-19T20:59:01.4642225+00:00",
+      "Rating": 3.98,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -25406,9 +25412,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
-  "LastChanged": "2024-03-15T20:59:36.7865619+00:00",
+  "LastChanged": "2024-03-19T20:59:01.4642223+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:24.3016471+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:20.5061868+00:00",
-  "LastUpdate_Ratings": "2024-03-19T19:57:59.6716009+00:00",
+  "LastUpdate_Ratings": "2024-03-19T20:59:01.4642228+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:24.3017875+00:00"
 }
