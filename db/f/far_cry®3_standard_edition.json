@@ -2,7 +2,7 @@
   "ID": "hellebore",
   "Name": "Far Cry\u00AE3 Standard Edition",
   "ProductSlug": "far-cry-3",
-  "Ranking_Rating": 226,
+  "Ranking_Rating": 227,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 896,
@@ -2466,10 +2466,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 971,
       "NumberOfAwardsMax": 618
+    },
+    {
+      "Time": "2024-03-19T13:57:41.1743348+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 972,
+      "NumberOfAwardsMax": 618
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 971,
+  "NumberOfAwards": 972,
   "NumberOfAwardsMax": 618,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2519,7 +2525,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2551,8 +2557,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2024-03-19T07:58:40.0787823+00:00",
+  "LastChanged": "2024-03-19T13:57:41.1743346+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:15.5417144+00:00",
-  "LastUpdate_Ratings": "2024-03-19T11:59:21.390588+00:00",
+  "LastUpdate_Ratings": "2024-03-19T13:57:41.1743352+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:45.6796273+00:00"
 }

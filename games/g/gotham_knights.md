@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 1,017)  
+Rating: 4.19 (Ranked 1,008)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -756,3 +756,4 @@ Diff (max vs sum): -39
 | 2024-03-16 | 4.18 | 3,421 | 5,938 |
 | 2024-03-17 | 4.18 | 3,426 | 5,945 |
 | 2024-03-18 | 4.18 | 3,429 | 5,954 |
+| 2024-03-19 | 4.19 | 3,429 | 5,954 |
