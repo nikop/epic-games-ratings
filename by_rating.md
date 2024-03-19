@@ -118,7 +118,7 @@
 | 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 0 | 617 |
 | 115 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,082 | 44 |
 | 115 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 942 | 179 |
-| 115 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,380 | 72 |
+| 115 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,383 | 72 |
 | 115 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 617 |
 | 115 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 554 |
 | 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,255 | 41 |
@@ -297,12 +297,12 @@
 | 290 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,729 | 68 |
 | 290 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 334,422 | 4 |
 | 290 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 617 |
-| 290 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 516 | 228 |
+| 290 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 517 | 228 |
 | 290 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,362 | 117 |
 | 290 | [Northgard](games/n/northgard.md) | 4.67 | 45 | 500 |
 | 290 | [Road 96](games/r/road_96.md) | 4.67 | 0 | 617 |
 | 290 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 617 |
-| 290 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 611 | 218 |
+| 290 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 612 | 218 |
 | 290 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 849 | 191 |
 | 290 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 20 | 613 |
 | 290 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 617 |

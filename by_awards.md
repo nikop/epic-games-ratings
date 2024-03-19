@@ -71,7 +71,7 @@
 | 69 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 6,692 | 4.76 | 138 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 762 |
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,518 | 4.80 | 94 |
-| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,380 | 4.78 | 115 |
+| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,383 | 4.78 | 115 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,180 | 4.66 | 311 |
 | 74 | [Rogue Company](games/r/rogue_company.md) | 6,079 | 4.29 | 908 |
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,075 | 4.64 | 357 |
@@ -217,7 +217,7 @@
 | 214 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 624 | 4.39 | 808 |
 | 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 621 | 4.71 | 209 |
 | 217 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 618 | 4.70 | 226 |
-| 218 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 611 | 4.67 | 290 |
+| 218 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 612 | 4.67 | 290 |
 | 219 | [Godfall Ultimate Edition](games/g/godfall.md) | 608 | 4.06 | 1,077 |
 | 220 | [Vampyr](games/v/vampyr.md) | 600 | 4.32 | 890 |
 | 221 | [Filament](games/f/filament.md) | 594 | 4.33 | 878 |
@@ -227,7 +227,7 @@
 | 225 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 561 | 4.40 | 790 |
 | 226 | [Terraforming Mars](games/t/terraforming_mars.md) | 551 | 4.53 | 584 |
 | 227 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 544 | 4.33 | 878 |
-| 228 | [Loop Hero](games/l/loop_hero.md) | 516 | 4.67 | 290 |
+| 228 | [Loop Hero](games/l/loop_hero.md) | 517 | 4.67 | 290 |
 | 229 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 509 | 4.60 | 443 |
 | 230 | [RimWorld](games/r/rimworld.md) | 504 | 4.89 | 12 |
 | 231 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 498 | 4.74 | 166 |
