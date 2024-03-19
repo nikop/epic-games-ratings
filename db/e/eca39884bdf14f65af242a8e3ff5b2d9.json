@@ -4,7 +4,7 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 546,
   "Ranking_Popularity": 266,
-  "Ranking_PopularitySum": 205,
+  "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -3423,10 +3423,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2715,
       "NumberOfAwardsMax": 332
+    },
+    {
+      "Time": "2024-03-19T22:00:36.537229+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2717,
+      "NumberOfAwardsMax": 332
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2715,
+  "NumberOfAwards": 2717,
   "NumberOfAwardsMax": 332,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3494,7 +3500,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 146
+      "Count": 148
     }
   ],
   "EOS_Progressed": 0,
@@ -3509,8 +3515,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-03-19T15:57:31.8936504+00:00",
+  "LastChanged": "2024-03-19T22:00:36.5372288+00:00",
   "LastUpdate_AppInfo": "2024-03-18T13:57:17.3211331+00:00",
-  "LastUpdate_Ratings": "2024-03-19T20:58:51.82232+00:00",
+  "LastUpdate_Ratings": "2024-03-19T22:00:36.5372296+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:03:51.1786271+00:00"
 }

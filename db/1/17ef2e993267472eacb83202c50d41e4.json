@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 762,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 267,
+  "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1997,10 +1997,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1301,
       "NumberOfAwardsMax": 338
+    },
+    {
+      "Time": "2024-03-19T21:59:25.6568211+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1310,
+      "NumberOfAwardsMax": 338
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1301,
+  "NumberOfAwards": 1310,
   "NumberOfAwardsMax": 338,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2026,13 +2032,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 107
+      "Count": 109
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 139
+      "Count": 141
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2050,7 +2056,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 156
+      "Count": 161
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15940,9 +15946,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-03-19T17:59:07.6580418+00:00",
+  "LastChanged": "2024-03-19T21:59:25.6568209+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:56.177389+00:00",
   "LastUpdate_AppInfo": "2024-03-12T23:57:18.5885521+00:00",
-  "LastUpdate_Ratings": "2024-03-19T20:57:51.0595004+00:00",
+  "LastUpdate_Ratings": "2024-03-19T21:59:25.6568214+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:56.177489+00:00"
 }
