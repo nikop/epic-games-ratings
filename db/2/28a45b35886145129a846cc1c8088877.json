@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-online-2-d7bb78",
   "Ranking_Rating": 896,
   "Ranking_Popularity": 443,
-  "Ranking_PopularitySum": 450,
+  "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -593,10 +593,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 191,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2024-03-19T11:59:48.3266251+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 192,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 191,
+  "NumberOfAwards": 192,
   "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -616,7 +622,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Highly Recommended",
@@ -649,8 +655,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T20:58:55.3583755+00:00",
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
-  "LastChanged": "2024-03-17T18:57:31.5575436+00:00",
+  "LastChanged": "2024-03-19T11:59:48.3266249+00:00",
   "LastUpdate_AppInfo": "2024-03-19T06:57:24.3737317+00:00",
-  "LastUpdate_Ratings": "2024-03-19T10:59:14.0445747+00:00",
+  "LastUpdate_Ratings": "2024-03-19T11:59:48.3266253+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:11.0828337+00:00"
 }
