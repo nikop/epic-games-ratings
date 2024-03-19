@@ -2,7 +2,7 @@
   "ID": "d5ee752640ef4cee8b7f5364410ba41f",
   "Name": "The Bridge",
   "ProductSlug": "the-bridge",
-  "Ranking_Rating": 1019,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 896,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.18,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:36.1011649+00:00",
@@ -77,6 +77,12 @@
       "Rating": 4.18,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-19T19:59:00.1182509+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -95,8 +101,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:48.769788+00:00",
   "FirstSeenRating": "2023-03-31T05:57:36.1011646+00:00",
-  "LastChanged": "2024-03-18T20:00:29.3433863+00:00",
+  "LastChanged": "2024-03-19T19:59:00.1182508+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:20.3784562+00:00",
-  "LastUpdate_Ratings": "2024-03-19T18:58:02.6542367+00:00",
+  "LastUpdate_Ratings": "2024-03-19T19:59:00.1182513+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:12.0673218+00:00"
 }
