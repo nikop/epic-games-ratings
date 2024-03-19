@@ -100,7 +100,7 @@
 | 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 420 | 246 |
 | 94 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 36 | 525 |
 | 100 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 60 | 459 |
-| 100 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,747 | 139 |
+| 100 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,750 | 139 |
 | 100 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.79 | 0 | 617 |
 | 100 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 617 |
 | 100 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 362 | 257 |
@@ -385,7 +385,7 @@
 | 372 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 617 |
 | 372 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 721 | 203 |
 | 372 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 8,937 | 50 |
-| 372 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 3,599 | 102 |
+| 372 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 3,606 | 102 |
 | 372 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 617 |
 | 372 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 617 |
 | 372 | [Prey](games/p/prey.md) | 4.63 | 5,956 | 77 |
@@ -505,7 +505,7 @@
 | 484 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,860 | 67 |
 | 484 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 243 | 292 |
 | 484 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 121 | 374 |
-| 484 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,801 | 31 |
+| 484 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,802 | 31 |
 | 507 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 617 |
 | 507 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.57 | 0 | 617 |
 | 507 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 0 | 617 |
@@ -618,7 +618,7 @@
 | 612 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 617 |
 | 612 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 42,941 | 15 |
 | 612 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.51 | 0 | 617 |
-| 612 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 157,699 | 7 |
+| 612 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 157,738 | 7 |
 | 612 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 341 | 261 |
 | 612 | [GigaBash](games/g/gigabash.md) | 4.51 | 80 | 424 |
 | 612 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 617 |
@@ -723,7 +723,7 @@
 | 712 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.45 | 0 | 617 |
 | 712 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 617 |
 | 712 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 922 | 182 |
-| 712 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 768,050 | 2 |
+| 712 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 768,743 | 2 |
 | 712 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 617 |
 | 712 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 135 | 360 |
 | 712 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 617 |
