@@ -3,7 +3,7 @@
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
   "Ranking_Rating": 896,
-  "Ranking_Popularity": 592,
+  "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 386,
@@ -299,18 +299,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-03-19T15:57:55.4743885+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",
@@ -16546,9 +16552,9 @@
   "FirstSeen": "2023-09-14T16:00:42.0495436+00:00",
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged": "2024-03-14T21:57:28.1854409+00:00",
+  "LastChanged": "2024-03-19T15:57:55.4743883+00:00",
   "LastChanged_Achievements": "2024-03-04T23:04:29.8906299+00:00",
   "LastUpdate_AppInfo": "2024-03-15T06:57:11.2990802+00:00",
-  "LastUpdate_Ratings": "2024-03-19T13:59:52.2790933+00:00",
+  "LastUpdate_Ratings": "2024-03-19T15:57:55.4743888+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:29.8907375+00:00"
 }

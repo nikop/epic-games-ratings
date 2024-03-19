@@ -2,7 +2,7 @@
   "ID": "a646020cb93b4ea995cda70647bbe001",
   "Name": "Steep Standard Edition",
   "ProductSlug": "steep",
-  "Ranking_Rating": 209,
+  "Ranking_Rating": 208,
   "Ranking_Popularity": 559,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 896,
@@ -843,10 +843,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 221,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-03-19T15:57:59.8891705+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 221,
+  "NumberOfAwards": 223,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -896,7 +902,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game is Extremely Fun",
@@ -922,8 +928,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-03-17T14:58:19.9816535+00:00",
+  "LastChanged": "2024-03-19T15:57:59.8891702+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:37.0255336+00:00",
-  "LastUpdate_Ratings": "2024-03-19T13:59:56.2400466+00:00",
+  "LastUpdate_Ratings": "2024-03-19T15:57:59.8891707+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:08.5991533+00:00"
 }
