@@ -2,7 +2,7 @@
   "ID": "5aab0660c2db4caa8a535d267a84633c",
   "Name": "Tomb Raider I-III Remastered Starring Lara Croft",
   "ProductSlug": "tomb-raider-iiii-remastered-538640",
-  "Ranking_Rating": 207,
+  "Ranking_Rating": 200,
   "Ranking_Popularity": 616,
   "Ranking_PopularitySum": 616,
   "Ranking_EOS_Progress": 671,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.72,
   "RatingHistory": [
     {
       "Time": "2024-02-19T03:58:00.822135+00:00",
@@ -171,6 +171,12 @@
     {
       "Time": "2024-03-19T13:57:52.5059008+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-20T14:57:43.207627+00:00",
+      "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2365,9 +2371,9 @@
   "FirstSeen": "2024-02-14T21:58:16.6244204+00:00",
   "FirstSeenRating": "2024-02-19T03:58:00.8221348+00:00",
   "FirstSeenAchievements": "2023-12-08T17:06:49.6815041+00:00",
-  "LastChanged": "2024-03-19T13:57:52.5059006+00:00",
+  "LastChanged": "2024-03-20T14:57:43.2076268+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:33.3717585+00:00",
   "LastUpdate_AppInfo": "2024-03-20T01:37:20.2628108+00:00",
-  "LastUpdate_Ratings": "2024-03-20T13:01:25.9861428+00:00",
+  "LastUpdate_Ratings": "2024-03-20T14:57:43.2076275+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:33.3731157+00:00"
 }
