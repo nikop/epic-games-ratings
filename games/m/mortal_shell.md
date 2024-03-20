@@ -5,14 +5,14 @@ Rating: 4.27 (Ranked 939)
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 593)  
-Sum: 108 (Ranked 491)  
+Sum: 109 (Ranked 491)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Diverse Characters | 23 |
-| This game has Unique Visuals | 21 |
+| This game has Unique Visuals | 22 |
 | This game is Extremely Fun | 21 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
@@ -143,3 +143,4 @@ Diff (max vs sum): 102
 | 2024-03-01 | 4.27 | - | 22 | 106 |
 | 2024-03-03 | 4.27 | - | 23 | 107 |
 | 2024-03-15 | 4.27 | - | 23 | 108 |
+| 2024-03-20 | 4.27 | - | 23 | 109 |
