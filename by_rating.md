@@ -277,7 +277,7 @@
 | 274 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 780 | 199 |
 | 274 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 73 | 439 |
 | 274 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.68 | 0 | 616 |
-| 274 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 156,832 | 8 |
+| 274 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 157,001 | 8 |
 | 274 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,464 | 92 |
 | 274 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 939 | 180 |
 | 274 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 343,587 | 3 |
@@ -419,7 +419,7 @@
 | 410 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 89 | 412 |
 | 410 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 616 |
 | 410 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 0 | 616 |
-| 410 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 57,858 | 13 |
+| 410 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 57,916 | 13 |
 | 410 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 137 | 358 |
 | 410 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.61 | 0 | 616 |
 | 410 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 616 |
@@ -662,7 +662,7 @@
 | 655 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,654 | 63 |
 | 655 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 616 |
 | 655 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.49 | 0 | 616 |
-| 655 | [Maneater](games/m/maneater.md) | 4.49 | 14,064 | 33 |
+| 655 | [Maneater](games/m/maneater.md) | 4.49 | 14,066 | 33 |
 | 655 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 395 |
 | 655 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 38 | 520 |
 | 655 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 616 |
@@ -777,7 +777,7 @@
 | 764 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 159 | 349 |
 | 764 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 84 | 418 |
 | 764 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 616 |
-| 778 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 284 | 282 |
+| 778 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 286 | 282 |
 | 778 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 31 | 548 |
 | 778 | [Iron Harvest](games/i/iron_harvest.md) | 4.41 | 0 | 616 |
 | 778 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 401 |
@@ -861,24 +861,24 @@
 | 857 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.35 | 0 | 616 |
 | 857 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 616 |
 | 857 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 210 | 312 |
+| 857 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.35 | 0 | 616 |
 | 857 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 616 |
 | 857 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 616 |
 | 857 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 279 | 285 |
 | 857 | [Torchlight](games/t/torchlight.md) | 4.35 | 25 | 583 |
 | 857 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.35 | 0 | 616 |
-| 867 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 569 |
-| 867 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 616 |
-| 867 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 127 | 371 |
-| 867 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.34 | 0 | 616 |
-| 867 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 46 | 496 |
-| 867 | [Encased](games/e/encased.md) | 4.34 | 172 | 340 |
-| 867 | [House Party](games/h/house_party.md) | 4.34 | 0 | 616 |
-| 867 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.34 | 0 | 616 |
-| 867 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 35 | 532 |
-| 867 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.34 | 108 | 387 |
-| 867 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 616 |
-| 867 | [Speed Brawl](games/s/speed_brawl.md) | 4.34 | 29 | 559 |
-| 867 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.34 | 22 | 597 |
+| 868 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 569 |
+| 868 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 616 |
+| 868 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 127 | 371 |
+| 868 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.34 | 0 | 616 |
+| 868 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 46 | 496 |
+| 868 | [Encased](games/e/encased.md) | 4.34 | 172 | 340 |
+| 868 | [House Party](games/h/house_party.md) | 4.34 | 0 | 616 |
+| 868 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 35 | 532 |
+| 868 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.34 | 108 | 387 |
+| 868 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 616 |
+| 868 | [Speed Brawl](games/s/speed_brawl.md) | 4.34 | 29 | 559 |
+| 868 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.34 | 22 | 597 |
 | 880 | [Among Trees](games/a/among_trees.md) | 4.33 | 0 | 616 |
 | 880 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 616 |
 | 880 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.33 | 0 | 616 |
