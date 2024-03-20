@@ -4,7 +4,7 @@
   "ProductSlug": "lifemakeoverglobal-1aa05a",
   "Ranking_Rating": 563,
   "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -635,10 +635,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 283,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-03-20T16:57:43.346215+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 283,
+  "NumberOfAwards": 284,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -670,7 +676,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Characters",
@@ -721,8 +727,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-03-20T09:58:07.8242562+00:00",
+  "LastChanged": "2024-03-20T16:57:43.3462148+00:00",
   "LastUpdate_AppInfo": "2024-03-20T05:57:19.5045232+00:00",
-  "LastUpdate_Ratings": "2024-03-20T15:00:35.1723921+00:00",
+  "LastUpdate_Ratings": "2024-03-20T16:57:43.3462153+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:31.1572891+00:00"
 }
