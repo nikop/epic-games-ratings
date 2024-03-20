@@ -206,7 +206,7 @@
 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | 26 (1,000 XP) | 786 | 4.28 | 0 |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | 0 |
 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 1,597 | 4.86 | 156 |
-| [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 4,626 | 4.40 | 240 |
+| [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 4,626 | 4.40 | 241 |
 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-11-02 | 36 (1,000 XP) | 2 | - | 0 |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-11-01 | 21 (1,000 XP) | 0 | - | 0 |
 | [Dude, Where Is My Beer?](games/7/7c6b6697df584024be9c60a1da59096b.md) | 2023-11-01 | 22 (1,000 XP) | 92 | - | 0 |
@@ -753,7 +753,7 @@
 | [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,396,094 | 4.44 | 71,148 |
 | [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 942,187 | 3.89 | 1,210 |
 | [Yars: Recharged](games/y/yars__recharged.md) | 2022-08-23 | 15 (1,000 XP) | 2,786 | - | 0 |
-| [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 3,272 | 4.42 | 84 |
+| [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 3,272 | 4.43 | 84 |
 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 2022-08-19 | 29 (1,000 XP) | 2 | - | 0 |
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 4,804 | 4.31 | 56 |
 | [We Are OFK](games/w/we_are_ofk.md) | 2022-08-18 | 28 (1,000 XP) | 1 | - | 0 |
@@ -848,7 +848,7 @@
 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 2022-02-10 | 35 (1,000 XP) | 551,923 | 4.61 | 456 |
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 8,312 | - | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 168 | - | 0 |
-| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 765,727 | 4.82 | 7,549 |
+| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 765,727 | 4.82 | 7,555 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 985,328 | 4.58 | 15,311 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,407,935 | 4.77 | 12,081 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 381 | - | 0 |
@@ -881,14 +881,14 @@
 | [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 21,395 | 4.82 | 478 |
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 5,873 | 4.45 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,613,835 | 4.65 | 1,179 |
-| [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 153,913 | 4.48 | 0 |
+| [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 153,913 | 4.48 | 20 |
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 520,312 | 4.69 | 8,663 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 25,691 | 4.29 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 5,708 | 4.44 | 33 |
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 116,026 | 4.54 | 31 |
 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 2021-09-21 | 41 (1,000 XP) | 430,938 | 4.70 | 1,372 |
 | [Severed Steel](games/s/severed_steel.md) | 2021-09-17 | 52 (1,000 XP) | 650,540 | 4.69 | 566 |
-| [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 258,969 | 4.29 | 101 |
+| [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 258,969 | 4.29 | 102 |
 | [Flat Heroes](games/f/flat_heroes.md) | 2021-09-15 | 44 (1,000 XP) | 682 | - | 0 |
 | [Dice Legacy](games/d/dice_legacy.md) | 2021-09-09 | 45 (1,000 XP) | 1,393 | 4.29 | 0 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 2021-09-02 | 116 (1,150 XP) | 13,559 | 4.76 | 1,810 |
@@ -943,7 +943,7 @@
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,252 | 4.03 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 464,868 | 4.63 | 70 |
 | [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 28,389,678 | 4.45 | 769,650 |
-| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 252,521 | 4.58 | 300 |
+| [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 252,521 | 4.58 | 301 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 28,949 | 4.85 | 230 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 60,469 | 4.70 | 56 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 582 | 4.63 | 35 |
@@ -959,7 +959,7 @@
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 233,087 | 4.67 | 612 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 927 | 4.49 | 104 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 50,238 | 4.44 | 0 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 824,115 | 4.71 | 7,988 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 824,115 | 4.71 | 7,993 |
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,080 | 4.19 | 50 |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | 16 (1,000 XP) | 0 | - | - |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
