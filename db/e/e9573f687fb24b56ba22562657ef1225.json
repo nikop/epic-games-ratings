@@ -1,6 +1,7 @@
 {
   "ID": "e9573f687fb24b56ba22562657ef1225",
   "Name": "Need for Speed\u2122 Rivals: Complete Edition",
+  "ProductSlug": "need-for-speed-rivals-21b76a",
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -32,5 +33,6 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_Ratings": "2024-03-20T17:57:31.4359319+00:00"
+  "LastUpdate_AppInfo": "2024-03-20T18:57:29.5547236+00:00",
+  "LastUpdate_Ratings": "2024-03-20T18:59:03.2693931+00:00"
 }
