@@ -7,7 +7,7 @@
 | [Destroyer - The U-Boat Hunter](games/d/d4fc25a4cde949368011c764b1c78dc5.md) | 2024-03-19 | - |  | - | - |
 | [Noun Town Language Learning](games/2/2e37aa74c6484bcda802997ef4c408ad.md) | 2024-03-19 | - |  | - | - |
 | [Jusant](games/9/9091161212874dca85088ef75d712cc2.md) | 2024-03-19 | - |  | - | - |
-| [Unsung Empires The Cholas I - Prologue](games/7/7d28991e79624f36a87d7da5adda5e73.md) | 2024-03-17 | - |  | - | - |
+| [Unsung Empires The Cholas I - Prologue](games/7/7d28991e79624f36a87d7da5adda5e73.md) | 2024-03-17 | - |  | - | 0 |
 | [The Wraith of the Galaxy](games/d/daed3ae775ab4986a0ce9ec1c3daab83.md) | 2024-03-17 | - |  | - | - |
 | [Cat Slide Tiles](games/3/344d0216bb1f4f5ca084a7a613478efa.md) | 2024-03-15 | 6 (1,000 XP) | 4 | - | 0 |
 | [Exit: Left or Right](games/a/a4c3c3f2087744a8b43ba268837bd6f2.md) | 2024-03-15 | - |  | - | 0 |
