@@ -3,8 +3,8 @@
   "Name": "Aeterna Noctis",
   "ProductSlug": "aeterna-noctis",
   "Ranking_Rating": 409,
-  "Ranking_Popularity": 617,
-  "Ranking_PopularitySum": 617,
+  "Ranking_Popularity": 616,
+  "Ranking_PopularitySum": 616,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -121,6 +121,6 @@
   "LastChanged": "2023-08-03T09:02:01.0399665+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:00.8914506+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:01.8695888+00:00",
-  "LastUpdate_Ratings": "2024-03-19T23:59:28.7379082+00:00",
+  "LastUpdate_Ratings": "2024-03-20T02:12:37.7141551+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:00.8914525+00:00"
 }

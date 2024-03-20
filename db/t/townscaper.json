@@ -3,8 +3,8 @@
   "Name": "Townscaper",
   "ProductSlug": "townscaper",
   "Ranking_Rating": 150,
-  "Ranking_Popularity": 617,
-  "Ranking_PopularitySum": 617,
+  "Ranking_Popularity": 616,
+  "Ranking_PopularitySum": 616,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -237,6 +237,6 @@
   "FirstSeen": "2022-07-22T20:25:14.2258639+00:00",
   "LastChanged": "2024-01-21T03:02:53.1551316+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:57:52.8623129+00:00",
-  "LastUpdate_Ratings": "2024-03-20T00:00:16.8711999+00:00",
+  "LastUpdate_Ratings": "2024-03-20T02:13:19.4378749+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:29.9690774+00:00"
 }
