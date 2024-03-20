@@ -2,7 +2,7 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 114,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 122,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-11-08T07:59:36.9365658+00:00",
@@ -4381,10 +4381,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 3043,
       "NumberOfAwardsMax": 365
+    },
+    {
+      "Time": "2024-03-20T08:57:26.9816554+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 3048,
+      "NumberOfAwardsMax": 365
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3043,
+  "NumberOfAwards": 3048,
   "NumberOfAwardsMax": 365,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4434,7 +4440,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 222
+      "Count": 224
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4446,7 +4452,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 253
+      "Count": 256
     },
     {
       "Text": "This game has Challenging Combat",
@@ -15023,9 +15029,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-03-20T05:58:39.676789+00:00",
+  "LastChanged": "2024-03-20T08:57:26.9816552+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:54.5703643+00:00",
   "LastUpdate_AppInfo": "2024-03-20T05:57:20.8952692+00:00",
-  "LastUpdate_Ratings": "2024-03-20T06:59:11.6211813+00:00",
+  "LastUpdate_Ratings": "2024-03-20T08:57:26.981656+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:54.5704867+00:00"
 }
