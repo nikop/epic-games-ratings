@@ -3,8 +3,8 @@
   "Name": "Ancestors: The Humankind Odyssey",
   "ProductSlug": "ancestors",
   "Ranking_Rating": 484,
-  "Ranking_Popularity": 497,
-  "Ranking_PopularitySum": 427,
+  "Ranking_Popularity": 495,
+  "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -724,11 +724,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 251,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-03-20T12:01:47.1818295+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 253,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 251,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 253,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -741,7 +747,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -771,7 +777,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Highly Recommended",
@@ -797,8 +803,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2024-03-14T18:58:16.5543198+00:00",
+  "LastChanged": "2024-03-20T12:01:47.1818293+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:08.2292562+00:00",
-  "LastUpdate_Ratings": "2024-03-20T10:58:30.3181615+00:00",
+  "LastUpdate_Ratings": "2024-03-20T12:01:47.18183+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:26.899538+00:00"
 }
