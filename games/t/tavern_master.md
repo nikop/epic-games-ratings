@@ -1,7 +1,7 @@
 # Tavern Master
 [Store](https://store.epicgames.com/en-US/p/tavern-master-ee18ab)  
 [View Rawdata](../../db/t/tavern_master.json)  
-Rating: 4.61 (Ranked 410)  
+Rating: 4.62 (Ranked 396)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -26,3 +26,4 @@ Rating: 4.61 (Ranked 410)
 | 2024-01-29 | 4.59 | 0 | 0 |
 | 2024-02-09 | 4.60 | 0 | 0 |
 | 2024-03-14 | 4.61 | 0 | 0 |
+| 2024-03-20 | 4.62 | 0 | 0 |
