@@ -2,7 +2,7 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 752,
   "Ranking_Popularity": 540,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 209,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "NumberOfRatings": 62,
   "RatingHistory": [
     {
@@ -426,6 +426,12 @@
     {
       "Time": "2024-03-15T03:58:10.1072176+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 33,
+      "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-03-20T18:02:22.6411161+00:00",
+      "Rating": 4.43,
       "NumberOfAwards": 33,
       "NumberOfAwardsMax": 33
     }
@@ -6214,9 +6220,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
-  "LastChanged": "2024-03-15T03:58:10.1072174+00:00",
+  "LastChanged": "2024-03-20T18:02:22.6411159+00:00",
   "LastChanged_Achievements": "2024-03-04T23:04:30.2077669+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:57.8259206+00:00",
-  "LastUpdate_Ratings": "2024-03-20T16:59:09.3660699+00:00",
+  "LastUpdate_Ratings": "2024-03-20T18:02:22.6411164+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:30.2078677+00:00"
 }
