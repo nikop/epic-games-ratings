@@ -3,8 +3,8 @@
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
   "Ranking_Rating": 443,
-  "Ranking_Popularity": 453,
-  "Ranking_PopularitySum": 385,
+  "Ranking_Popularity": 454,
+  "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -1215,10 +1215,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 362,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-03-20T19:58:29.7129504+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 363,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 362,
+  "NumberOfAwards": 363,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1256,7 +1262,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1315,9 +1321,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2024-03-18T16:57:25.021811+00:00",
+  "LastChanged": "2024-03-20T19:58:29.7129499+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:50.9119865+00:00",
   "LastUpdate_AppInfo": "2024-03-20T17:57:30.0664097+00:00",
-  "LastUpdate_Ratings": "2024-03-20T18:01:53.011941+00:00",
+  "LastUpdate_Ratings": "2024-03-20T19:58:29.7129506+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:50.9119882+00:00"
 }
