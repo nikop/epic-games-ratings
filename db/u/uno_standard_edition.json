@@ -3,8 +3,8 @@
   "Name": "UNO Standard Edition",
   "ProductSlug": "uno",
   "Ranking_Rating": 697,
-  "Ranking_Popularity": 616,
-  "Ranking_PopularitySum": 616,
+  "Ranking_Popularity": 617,
+  "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -336,6 +336,6 @@
   "FirstSeen": "2022-07-22T20:16:51.0779321+00:00",
   "LastChanged": "2024-03-10T02:19:20.2910221+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:30.7094904+00:00",
-  "LastUpdate_Ratings": "2024-03-20T14:59:14.1223104+00:00",
+  "LastUpdate_Ratings": "2024-03-20T16:00:20.3662401+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:08.0804347+00:00"
 }

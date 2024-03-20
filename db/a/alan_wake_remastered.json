@@ -3,8 +3,8 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 673,
-  "Ranking_Popularity": 616,
-  "Ranking_PopularitySum": 616,
+  "Ranking_Popularity": 613,
+  "Ranking_PopularitySum": 613,
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 165,
@@ -640,17 +640,30 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-20T15:57:26.3537687+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "",
       "Type": "",
       "Count": 153
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 153913,
@@ -31166,9 +31179,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
-  "LastChanged": "2024-03-18T17:59:08.8740192+00:00",
+  "LastChanged": "2024-03-20T15:57:26.3537683+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:52.4496807+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:49.6933623+00:00",
-  "LastUpdate_Ratings": "2024-03-20T13:59:39.4054931+00:00",
+  "LastUpdate_Ratings": "2024-03-20T15:57:26.353769+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:52.4499282+00:00"
 }
