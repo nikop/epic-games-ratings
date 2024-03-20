@@ -1,7 +1,7 @@
 # Far Cry 6 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-6)  
 [View Rawdata](../../db/f/far_cry_6_standard_edition.json)  
-Rating: 4.46 (Ranked 696)  
+Rating: 4.46 (Ranked 697)  
 Number of Ratings: 12,290  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 1,166  (Ranked 157)  
