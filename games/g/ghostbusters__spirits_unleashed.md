@@ -342,9 +342,9 @@ Completed: 72 (0.21%) (Ranked 294)
 | 2024-01-27 | 33,970 | 71 |
 | 2024-02-22 | 34,712 | 72 |
 ## Awards
-Max (Great for Quick Sessions): 341  (Ranked 261)  
+Max (Great for Quick Sessions): 341  (Ranked 262)  
 Sum: 3,088 (Ranked 190)  
-Diff (max vs sum): 71  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 341 |
