@@ -2,9 +2,9 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 809,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 243,
+  "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 165,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "NumberOfRatings": 836,
   "RatingHistory": [
     {
@@ -4042,10 +4042,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 1703,
       "NumberOfAwardsMax": 330
+    },
+    {
+      "Time": "2024-03-21T11:57:44.3139936+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1707,
+      "NumberOfAwardsMax": 330
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1703,
+  "NumberOfAwards": 1707,
   "NumberOfAwardsMax": 330,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4065,7 +4071,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 243
+      "Count": 245
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4077,7 +4083,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 240
+      "Count": 242
     },
     {
       "Text": "This game has Amazing Characters",
@@ -29118,9 +29124,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2024-03-20T20:02:19.201185+00:00",
+  "LastChanged": "2024-03-21T11:57:44.3139934+00:00",
   "LastChanged_Achievements": "2024-02-22T21:05:05.8711514+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:22.5731865+00:00",
-  "LastUpdate_Ratings": "2024-03-21T10:00:41.6535411+00:00",
+  "LastUpdate_Ratings": "2024-03-21T11:57:44.3139939+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:05:05.8713036+00:00"
 }
