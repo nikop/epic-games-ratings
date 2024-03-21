@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 224,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -571,6 +571,12 @@
     {
       "Time": "2024-03-17T15:58:02.4265627+00:00",
       "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-21T15:57:24.4388674+00:00",
+      "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -8043,9 +8049,9 @@
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
-  "LastChanged": "2024-03-17T15:58:02.4265624+00:00",
+  "LastChanged": "2024-03-21T15:57:24.4388672+00:00",
   "LastChanged_Achievements": "2024-01-27T13:07:16.0631096+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:20.7685083+00:00",
-  "LastUpdate_Ratings": "2024-03-21T13:59:22.0674581+00:00",
+  "LastUpdate_Ratings": "2024-03-21T15:57:24.4388677+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:07:16.0631506+00:00"
 }
