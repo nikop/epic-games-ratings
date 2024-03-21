@@ -3,7 +3,7 @@
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 336,
-  "Ranking_Popularity": 382,
+  "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 378,
@@ -1735,11 +1735,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 808,
       "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2024-03-21T01:42:14.8505397+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 809,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 808,
-  "NumberOfAwardsMax": 113,
+  "NumberOfAwards": 809,
+  "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1764,7 +1770,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17865,9 +17871,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-03-19T14:59:46.2585719+00:00",
+  "LastChanged": "2024-03-21T01:42:14.8505395+00:00",
   "LastChanged_Achievements": "2024-01-27T13:06:22.1515862+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:17.1018992+00:00",
-  "LastUpdate_Ratings": "2024-03-20T23:59:22.9988154+00:00",
+  "LastUpdate_Ratings": "2024-03-21T01:42:14.8505401+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:06:22.1516771+00:00"
 }

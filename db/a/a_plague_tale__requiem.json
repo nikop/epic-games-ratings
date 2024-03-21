@@ -2,7 +2,7 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 165,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 163,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2022-10-19T08:31:07.2693345+00:00",
@@ -1063,6 +1063,12 @@
     {
       "Time": "2024-03-19T00:00:21.5069635+00:00",
       "Rating": 4.74,
+      "NumberOfAwards": 787,
+      "NumberOfAwardsMax": 498
+    },
+    {
+      "Time": "2024-03-21T01:39:44.5051527+00:00",
+      "Rating": 4.73,
       "NumberOfAwards": 787,
       "NumberOfAwardsMax": 498
     }
@@ -17810,9 +17816,9 @@
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2024-03-19T00:00:21.5069633+00:00",
+  "LastChanged": "2024-03-21T01:39:44.5051525+00:00",
   "LastChanged_Achievements": "2024-03-04T23:05:15.5694805+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:17.5325905+00:00",
-  "LastUpdate_Ratings": "2024-03-20T23:01:55.0106822+00:00",
+  "LastUpdate_Ratings": "2024-03-21T01:39:44.5051531+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:05:15.5695775+00:00"
 }
