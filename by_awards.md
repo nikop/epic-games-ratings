@@ -12,7 +12,7 @@
 | 10 | [VALORANT](games/v/valorant.md) | 106,290 | 4.51 | 614 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 71,148 | 4.44 | 730 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,725 | 4.58 | 484 |
-| 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 57,916 | 4.61 | 412 |
+| 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 57,957 | 4.61 | 412 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 50,392 | 4.74 | 165 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 43,068 | 4.51 | 614 |
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 38,009 | 4.72 | 200 |
@@ -271,7 +271,7 @@
 | 269 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 324 | 4.44 | 730 |
 | 270 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 322 | 4.82 | 72 |
 | 271 | [Overcooked! 2](games/o/overcooked!_2.md) | 313 | 4.70 | 227 |
-| 272 | [Diabotical](games/d/diabotical.md) | 308 | 4.73 | 181 |
+| 272 | [Diabotical](games/d/diabotical.md) | 309 | 4.73 | 181 |
 | 273 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 306 | 4.62 | 395 |
 | 273 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 306 | 4.46 | 697 |
 | 275 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 395 |
@@ -446,10 +446,10 @@
 | 443 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 72 | 4.41 | 778 |
 | 445 | [DOOM 3](games/d/doom_3.md) | 71 | 4.60 | 443 |
 | 446 | [Art of Rally](games/a/art_of_rally_1.md) | 70 | 4.62 | 395 |
+| 447 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 69 | 4.44 | 730 |
 | 447 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 69 | 4.83 | 58 |
 | 447 | [Symphony of War](games/s/symphony_of_war.md) | 69 | 4.65 | 336 |
-| 449 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 68 | 4.44 | 730 |
-| 449 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 68 | 3.44 | 1,144 |
+| 450 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 68 | 3.44 | 1,144 |
 | 451 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 67 | 4.72 | 200 |
 | 452 | [Arcadegeddon](games/a/arcadegeddon.md) | 65 | 4.48 | 672 |
 | 452 | [The Riftbreaker](games/t/the_riftbreaker.md) | 65 | 4.76 | 138 |

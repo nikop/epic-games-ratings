@@ -182,7 +182,7 @@
 | 165 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 617 |
 | 181 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 498 | 231 |
 | 181 | [Barony](games/b/barony.md) | 4.73 | 114 | 380 |
-| 181 | [Diabotical](games/d/diabotical.md) | 4.73 | 308 | 272 |
+| 181 | [Diabotical](games/d/diabotical.md) | 4.73 | 309 | 272 |
 | 181 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 54 | 473 |
 | 181 | [Eternights](games/e/eternights.md) | 4.73 | 0 | 617 |
 | 181 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 617 |
@@ -421,7 +421,7 @@
 | 412 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 89 | 412 |
 | 412 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 617 |
 | 412 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 0 | 617 |
-| 412 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 57,916 | 13 |
+| 412 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 57,957 | 13 |
 | 412 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 137 | 358 |
 | 412 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 617 |
 | 412 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 457 |
@@ -733,7 +733,7 @@
 | 730 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 617 |
 | 730 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 273 | 288 |
 | 730 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 71,148 | 11 |
-| 730 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 68 | 449 |
+| 730 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 69 | 447 |
 | 730 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 324 | 269 |
 | 730 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 617 |
 | 730 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 378 |
@@ -1143,6 +1143,6 @@
 | 1,141 | [Adios](games/a/adios.md) | 3.56 | 0 | 617 |
 | 1,142 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.55 | 0 | 617 |
 | 1,143 | [Operation New Earth](games/o/operation_new_earth.md) | 3.48 | 0 | 617 |
-| 1,144 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.44 | 68 | 449 |
+| 1,144 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.44 | 68 | 450 |
 | 1,145 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.35 | 0 | 617 |
 | 1,146 | [Survive on Raft](games/s/survive_on_raft.md) | 3.32 | 0 | 617 |
