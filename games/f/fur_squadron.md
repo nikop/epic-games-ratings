@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 84.00% | ~73 |
-| Do a barrel roll! | 63.00% | ~55 |
-| Huh? What was that? | 52.00% | ~45 |
-| Whatever it is, fix it! | 38.00% | ~33 |
-| The opposite of good news | 32.00% | ~28 |
-| My Emperor... I've failed you! | 24.00% | ~21 |
-| Priceless company | 16.00% | ~14 |
-| I'm ready, anytime | 3.00% | ~3 |
-| Enemy shield analyzed | 3.00% | ~3 |
-| Piece of cake | 2.00% | ~2 |
-| Actually it's called aileron roll | 2.00% | ~2 |
-| I have a bad feeling about this | 2.00% | ~2 |
-| No need to say goodbye | 2.00% | ~2 |
-| Better hurry up | 1.00% | ~1 |
-| I call her the BF-Worm | 1.00% | ~1 |
-| Axel? | 1.00% | ~1 |
-| You won't escape that easy!! | 1.00% | ~1 |
-| Any other day at work | 1.00% | ~1 |
-| I've had enough! | 1.00% | ~1 |
-| Like it's nothing | 1.00% | ~1 |
-| I. Am. Bored | 1.00% | ~1 |
-| See you on the other side | 0.00% | ~0 |
-| We are the FUR Squadron! | 0.00% | ~0 |
-| Well, I'm doing it | 0.00% | ~0 |
+| All systems go | 84.00% | ~74 |
+| Do a barrel roll! | 65.00% | ~57 |
+| Huh? What was that? | 53.00% | ~47 |
+| Whatever it is, fix it! | 39.00% | ~34 |
+| The opposite of good news | 33.00% | ~29 |
+| My Emperor... I've failed you! | 25.00% | ~22 |
+| Priceless company | 17.00% | ~15 |
+| I'm ready, anytime | 5.00% | ~4 |
+| Enemy shield analyzed | 5.00% | ~4 |
+| Piece of cake | 3.00% | ~3 |
+| Actually it's called aileron roll | 3.00% | ~3 |
+| I have a bad feeling about this | 3.00% | ~3 |
+| No need to say goodbye | 3.00% | ~3 |
+| Better hurry up | 2.00% | ~2 |
+| I call her the BF-Worm | 2.00% | ~2 |
+| Axel? | 2.00% | ~2 |
+| You won't escape that easy!! | 2.00% | ~2 |
+| Any other day at work | 2.00% | ~2 |
+| I've had enough! | 2.00% | ~2 |
+| Like it's nothing | 2.00% | ~2 |
+| I. Am. Bored | 2.00% | ~2 |
+| See you on the other side | 1.00% | ~1 |
+| We are the FUR Squadron! | 1.00% | ~1 |
+| Well, I'm doing it | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 535)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 88 (Ranked 571)  
+Completed: 1 (1.14%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,3 +95,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-20 | 83 | 0 |
 | 2024-01-26 | 84 | 0 |
 | 2024-02-22 | 87 | 0 |
+| 2024-03-21 | 88 | 1 |

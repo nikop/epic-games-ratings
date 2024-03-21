@@ -5,36 +5,36 @@ Rating: 4.40 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strikeout! | 0.10% | ~5 |
-| Zip This Up | 0.10% | ~5 |
-| I'd Buy That For a Dollar! | 0.00% | ~0 |
-| Hard Boiled | 0.00% | ~0 |
-| Uphold the Law | 0.00% | ~0 |
-| May Be Used Against You | 0.00% | ~0 |
-| Officer of the month | 0.00% | ~0 |
-| Nukem! | 0.00% | ~0 |
-| Live by the bike... | 0.00% | ~0 |
-| There Can Only Be One | 0.00% | ~0 |
-| All Adds Up | 0.00% | ~0 |
-| Night Has Just Begun | 0.00% | ~0 |
-| Dead or Alive | 0.00% | ~0 |
-| Twenty Seconds to Comply | 0.00% | ~0 |
-| Don't Mess With the Money! | 0.00% | ~0 |
-| Book Him! | 0.00% | ~0 |
-| Let's Talk | 0.00% | ~0 |
-| Cashing Out | 0.00% | ~0 |
-| Not Arresting You Anymore | 0.00% | ~0 |
-| "Nice shooting, son" | 0.00% | ~0 |
-| A Real Hero | 0.00% | ~0 |
-| No stone unturned | 0.00% | ~0 |
-| Good eyes, Murphy! | 0.00% | ~0 |
-| Dead-On | 0.00% | ~0 |
-| SuperCop | 0.00% | ~0 |
-| "This Guy Is Really Good" | 0.00% | ~0 |
-| Practice Makes Perfect | 0.00% | ~0 |
+| Strikeout! | 0.50% | ~25 |
+| Night Has Just Begun | 0.50% | ~25 |
+| Zip This Up | 0.50% | ~25 |
+| I'd Buy That For a Dollar! | 0.40% | ~20 |
+| Uphold the Law | 0.40% | ~20 |
+| Officer of the month | 0.40% | ~20 |
+| All Adds Up | 0.40% | ~20 |
+| Twenty Seconds to Comply | 0.40% | ~20 |
+| Don't Mess With the Money! | 0.40% | ~20 |
+| Let's Talk | 0.40% | ~20 |
+| Nukem! | 0.30% | ~15 |
+| Live by the bike... | 0.30% | ~15 |
+| Dead or Alive | 0.30% | ~15 |
+| Book Him! | 0.30% | ~15 |
+| Cashing Out | 0.30% | ~15 |
+| Dead-On | 0.30% | ~15 |
+| Hard Boiled | 0.20% | ~10 |
+| May Be Used Against You | 0.20% | ~10 |
+| Not Arresting You Anymore | 0.20% | ~10 |
+| "Nice shooting, son" | 0.20% | ~10 |
+| A Real Hero | 0.20% | ~10 |
+| No stone unturned | 0.20% | ~10 |
+| SuperCop | 0.20% | ~10 |
+| "This Guy Is Really Good" | 0.20% | ~10 |
+| Practice Makes Perfect | 0.20% | ~10 |
+| There Can Only Be One | 0.10% | ~5 |
+| Good eyes, Murphy! | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,626 (Ranked 219)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 5,019 (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-26 | 3,983 | 0 |
 | 2024-01-27 | 4,003 | 0 |
 | 2024-02-22 | 4,626 | 0 |
+| 2024-03-21 | 5,019 | 0 |
 ## Awards
 Max (Great Boss Battles): 241  (Ranked 295)  
 Sum: 241 (Ranked 429)  

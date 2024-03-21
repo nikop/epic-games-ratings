@@ -6,59 +6,59 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 79.00% | ~989 |
-| My little farm | 63.00% | ~789 |
-| Every beginning is difficult | 62.00% | ~776 |
-| Gofer | 56.00% | ~701 |
-| 3, 2, 1, mine | 54.00% | ~676 |
-| O Captain! My Captain! | 54.00% | ~676 |
-| Seafarer | 50.00% | ~626 |
-| Greed for gold | 42.00% | ~526 |
-| Intangible | 41.00% | ~513 |
-| I'm out of here for a while | 41.00% | ~513 |
-| In a mint condition | 37.00% | ~463 |
-| Licence to Kill | 36.00% | ~451 |
-| Pirates! | 34.00% | ~426 |
-| Collectionitis | 28.00% | ~351 |
-| Megalomania | 28.00% | ~351 |
-| Christening | 27.00% | ~338 |
-| Groundskeeper | 25.00% | ~313 |
-| Wholesale | 22.00% | ~275 |
-| Walk the plank | 21.00% | ~263 |
-| My precious! | 18.00% | ~225 |
-| Pearly gates | 17.00% | ~213 |
-| Conquistador | 13.00% | ~163 |
-| Panic buying | 11.00% | ~138 |
-| Your vessel, my vessel | 10.00% | ~125 |
-| Just a scratch | 9.00% | ~113 |
-| All mine! | 9.00% | ~113 |
-| Paths of Glory | 8.00% | ~100 |
-| Maker | 7.00% | ~88 |
-| Panel of experts | 7.00% | ~88 |
-| Conglomerate | 6.00% | ~75 |
-| Buccaneer | 5.00% | ~63 |
-| Flying Dutchman | 5.00% | ~63 |
-| The Grande Bouffe | 5.00% | ~63 |
-| A true pirate! | 4.00% | ~50 |
-| Overpopulation | 4.00% | ~50 |
-| Premier Maître | 3.00% | ~38 |
-| Supreme conqueror | 3.00% | ~38 |
-| Strategist | 2.00% | ~25 |
-| The customer is always right | 2.00% | ~25 |
-| Master & Commander | 2.00% | ~25 |
-| All aboard! | 2.00% | ~25 |
-| Gold fever | 2.00% | ~25 |
-| Fill it up, please! | 2.00% | ~25 |
-| Administrator | 1.00% | ~13 |
-| Raiders of the Lost Ark | 1.00% | ~13 |
-| Capitalist | 0.90% | ~11 |
-| Parlay? | 0.90% | ~11 |
-| Fleet Admiral | 0.70% | ~9 |
-| Traffic chaos | 0.70% | ~9 |
-| Davy Jones' locker | 0.30% | ~4 |
+| Cabin boy | 79.00% | ~1,258 |
+| My little farm | 61.00% | ~971 |
+| Every beginning is difficult | 60.00% | ~955 |
+| Gofer | 54.00% | ~860 |
+| O Captain! My Captain! | 53.00% | ~844 |
+| 3, 2, 1, mine | 52.00% | ~828 |
+| Seafarer | 48.00% | ~764 |
+| Greed for gold | 40.00% | ~637 |
+| Intangible | 39.00% | ~621 |
+| I'm out of here for a while | 39.00% | ~621 |
+| In a mint condition | 35.00% | ~557 |
+| Licence to Kill | 34.00% | ~541 |
+| Pirates! | 31.00% | ~494 |
+| Collectionitis | 27.00% | ~430 |
+| Megalomania | 27.00% | ~430 |
+| Christening | 26.00% | ~414 |
+| Groundskeeper | 23.00% | ~366 |
+| Wholesale | 20.00% | ~318 |
+| Walk the plank | 18.00% | ~287 |
+| Pearly gates | 16.00% | ~255 |
+| My precious! | 16.00% | ~255 |
+| Conquistador | 13.00% | ~207 |
+| Panic buying | 10.00% | ~159 |
+| Just a scratch | 8.00% | ~127 |
+| All mine! | 8.00% | ~127 |
+| Your vessel, my vessel | 8.00% | ~127 |
+| Paths of Glory | 7.00% | ~111 |
+| Maker | 6.00% | ~96 |
+| Conglomerate | 6.00% | ~96 |
+| Panel of experts | 6.00% | ~96 |
+| Buccaneer | 5.00% | ~80 |
+| Flying Dutchman | 5.00% | ~80 |
+| The Grande Bouffe | 5.00% | ~80 |
+| Premier Maître | 3.00% | ~48 |
+| Supreme conqueror | 3.00% | ~48 |
+| A true pirate! | 3.00% | ~48 |
+| Overpopulation | 3.00% | ~48 |
+| Strategist | 2.00% | ~32 |
+| The customer is always right | 2.00% | ~32 |
+| Master & Commander | 2.00% | ~32 |
+| All aboard! | 2.00% | ~32 |
+| Gold fever | 2.00% | ~32 |
+| Administrator | 1.00% | ~16 |
+| Fill it up, please! | 1.00% | ~16 |
+| Capitalist | 0.80% | ~13 |
+| Raiders of the Lost Ark | 0.80% | ~13 |
+| Parlay? | 0.70% | ~11 |
+| Fleet Admiral | 0.60% | ~10 |
+| Traffic chaos | 0.60% | ~10 |
+| Davy Jones' locker | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,252 (Ranked 298)  
-Completed: 1 (0.08%) (Ranked 346)  
+Progressed: 1,592 (Ranked 298)  
+Completed: 1 (0.06%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -304,6 +304,7 @@ Completed: 1 (0.08%) (Ranked 346)
 | 2024-01-24 | 1,248 | 1 |
 | 2024-01-25 | 1,251 | 1 |
 | 2024-01-26 | 1,252 | 1 |
+| 2024-03-21 | 1,592 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,58 +5,58 @@ Rating: 4.33 (Ranked 880)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~5,896 |
-| Fall Fest | 8.00% | ~4,717 |
-| Thrill Seeker | 7.00% | ~4,127 |
-| Flying Present Catcher | 6.00% | ~3,538 |
-| HFZ Goober | 6.00% | ~3,538 |
-| Sunflower Master | 5.00% | ~2,948 |
-| Hi Fiver | 3.00% | ~1,769 |
-| A Timely Splash | 3.00% | ~1,769 |
-| Backer Visitor | 2.00% | ~1,179 |
-| Hate That Randomizer | 2.00% | ~1,179 |
-| Feet on Funkotron | 2.00% | ~1,179 |
-| Elf Chaser | 1.00% | ~590 |
-| Fool Me Twice | 1.00% | ~590 |
-| Old School Jammin' | 1.00% | ~590 |
-| Wakey Wakey | 1.00% | ~590 |
-| Gimme My Presents Back! | 0.80% | ~472 |
-| Level Diver | 0.80% | ~472 |
-| Cleaning Out Santa's Sack | 0.70% | ~413 |
-| Teamwork Rules | 0.70% | ~413 |
-| Beaten By A Little Girl | 0.60% | ~354 |
-| Totally Bummed Again | 0.60% | ~354 |
-| I Can't Believe I've Done This | 0.50% | ~295 |
-| Piece O' Cake | 0.50% | ~295 |
-| Boom Box Baby | 0.40% | ~236 |
-| Flying Present Ultimate Master | 0.40% | ~236 |
-| Ridiculously Generous | 0.40% | ~236 |
-| Harsh Love | 0.40% | ~236 |
-| Made It Through | 0.40% | ~236 |
-| I'm A Total Saint | 0.40% | ~236 |
-| Map Explorer | 0.30% | ~177 |
-| Nine Funkotronians | 0.30% | ~177 |
-| Struck By Love | 0.30% | ~177 |
-| The Worst Possible Luck | 0.30% | ~177 |
-| Broken Present Risk Taker | 0.20% | ~118 |
-| Truly Evil | 0.20% | ~118 |
-| Achievement Achiever | 0.10% | ~59 |
-| Boom Box Wipeout | 0.10% | ~59 |
-| Can't Touch This | 0.10% | ~59 |
-| Found All The Backers! | 0.10% | ~59 |
-| FunkLord Power | 0.10% | ~59 |
-| Gotta Get 'Em All | 0.10% | ~59 |
-| Is This Really Possible? | 0.10% | ~59 |
-| Lord Of The HFZ | 0.10% | ~59 |
-| Mad Hatter | 0.10% | ~59 |
-| 99 Problems (But A Buck Ain't One) | 0.10% | ~59 |
-| Pacifist Victory | 0.10% | ~59 |
-| Rhythm Star | 0.10% | ~59 |
-| Why Do I Keep Doing That? | 0.10% | ~59 |
-| Hey, You Did It! | 0.10% | ~59 |
+| Food Taster | 10.00% | ~5,966 |
+| Fall Fest | 8.00% | ~4,773 |
+| Thrill Seeker | 7.00% | ~4,176 |
+| Flying Present Catcher | 6.00% | ~3,579 |
+| HFZ Goober | 6.00% | ~3,579 |
+| Sunflower Master | 5.00% | ~2,983 |
+| Hi Fiver | 3.00% | ~1,790 |
+| A Timely Splash | 3.00% | ~1,790 |
+| Backer Visitor | 2.00% | ~1,193 |
+| Hate That Randomizer | 2.00% | ~1,193 |
+| Feet on Funkotron | 2.00% | ~1,193 |
+| Elf Chaser | 1.00% | ~597 |
+| Fool Me Twice | 1.00% | ~597 |
+| Old School Jammin' | 1.00% | ~597 |
+| Wakey Wakey | 1.00% | ~597 |
+| Gimme My Presents Back! | 0.80% | ~477 |
+| Level Diver | 0.80% | ~477 |
+| Cleaning Out Santa's Sack | 0.70% | ~418 |
+| Teamwork Rules | 0.70% | ~418 |
+| Totally Bummed Again | 0.70% | ~418 |
+| Beaten By A Little Girl | 0.60% | ~358 |
+| I Can't Believe I've Done This | 0.50% | ~298 |
+| Piece O' Cake | 0.50% | ~298 |
+| Boom Box Baby | 0.40% | ~239 |
+| Flying Present Ultimate Master | 0.40% | ~239 |
+| Ridiculously Generous | 0.40% | ~239 |
+| Harsh Love | 0.40% | ~239 |
+| Made It Through | 0.40% | ~239 |
+| I'm A Total Saint | 0.40% | ~239 |
+| Map Explorer | 0.30% | ~179 |
+| Nine Funkotronians | 0.30% | ~179 |
+| Struck By Love | 0.30% | ~179 |
+| The Worst Possible Luck | 0.30% | ~179 |
+| Broken Present Risk Taker | 0.20% | ~119 |
+| Truly Evil | 0.20% | ~119 |
+| Achievement Achiever | 0.10% | ~60 |
+| Boom Box Wipeout | 0.10% | ~60 |
+| Can't Touch This | 0.10% | ~60 |
+| Found All The Backers! | 0.10% | ~60 |
+| FunkLord Power | 0.10% | ~60 |
+| Gotta Get 'Em All | 0.10% | ~60 |
+| Is This Really Possible? | 0.10% | ~60 |
+| Lord Of The HFZ | 0.10% | ~60 |
+| Mad Hatter | 0.10% | ~60 |
+| 99 Problems (But A Buck Ain't One) | 0.10% | ~60 |
+| Pacifist Victory | 0.10% | ~60 |
+| Rhythm Star | 0.10% | ~60 |
+| Why Do I Keep Doing That? | 0.10% | ~60 |
+| Hey, You Did It! | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,961 (Ranked 126)  
-Completed: 6 (0.01%) (Ranked 399)  
+Progressed: 59,658 (Ranked 131)  
+Completed: 6 (0.01%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,6 +338,7 @@ Completed: 6 (0.01%) (Ranked 399)
 | 2024-01-25 | 58,941 | 6 |
 | 2024-01-26 | 58,952 | 6 |
 | 2024-01-27 | 58,961 | 6 |
+| 2024-03-21 | 59,658 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

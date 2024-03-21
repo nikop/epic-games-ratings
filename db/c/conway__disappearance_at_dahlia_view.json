@@ -2,10 +2,10 @@
   "ID": "329ecb6186a14fdab79d72d8e4aaebd3",
   "Name": "Conway: Disappearance at Dahlia View",
   "ProductSlug": "conway-disappearance-5d6354",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-11-02T10:00:00+00:00",
     "PcReleaseDate": "2021-11-02T00:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.2831841+00:00",
   "LastChanged": "2023-03-31T05:58:16.2831842+00:00",
   "LastUpdate_AppInfo": "2024-03-15T12:58:26.0823082+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:28.6935507+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:28.4578957+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:54.1827076+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:17.6615027+00:00"
 }

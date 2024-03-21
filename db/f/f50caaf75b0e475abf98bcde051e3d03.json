@@ -2,10 +2,10 @@
   "ID": "f50caaf75b0e475abf98bcde051e3d03",
   "Name": "Fading Faith",
   "ProductSlug": "fading-faith-b2e40a",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 721,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -22,26 +22,74 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:06:20.0656523+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:06:20.0656557+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "A01",
+      "SetID": "8l64m2h",
+      "Name": "Marcus Aurelius",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A02",
+      "SetID": "8l64m2h",
+      "Name": "Pittacus of Mytilene",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A03",
+      "SetID": "8l64m2h",
+      "Name": "Solon of Athens",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A04",
+      "SetID": "8l64m2h",
+      "Name": "Thales of Miletus",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A05",
+      "SetID": "8l64m2h",
+      "Name": "Muhammad ibn Zakariya al-Razi",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8l64m2h",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-24T16:03:29.5594831+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:09.4141732+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:20.0656517+00:00",
   "LastUpdate_AppInfo": "2024-03-20T19:57:11.5320996+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:41.4397733+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:09.4141751+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:42.5914628+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:20.0665871+00:00"
 }

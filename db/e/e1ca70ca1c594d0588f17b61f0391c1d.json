@@ -2,10 +2,10 @@
   "ID": "e1ca70ca1c594d0588f17b61f0391c1d",
   "Name": "RagDoll Wreckage: Zombie Farts",
   "ProductSlug": "ragdoll-wreckage-zombie-farts-a6c878",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-05T05:00:00+00:00",
     "PcReleaseDate": "2024-01-05T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-15T03:57:13.2018553+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:45.0119578+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:16.9281111+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:49.6883055+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:50.074483+00:00"
 }

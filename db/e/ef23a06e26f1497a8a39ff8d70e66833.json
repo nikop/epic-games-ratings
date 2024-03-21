@@ -2,10 +2,10 @@
   "ID": "ef23a06e26f1497a8a39ff8d70e66833",
   "Name": "Outbreak Epidemic Viral Terror",
   "ProductSlug": "outbreak-epidemic-viral-terror-54b6e9",
-  "Ranking_EOS_Progress": 671,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-27T14:00:00+00:00",
     "PcReleaseDate": "2023-09-27T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -79,6 +79,11 @@
       "Time": "2024-01-06T18:03:43.0312104+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:06:49.0872224+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:20.9427784+00:00",
@@ -89,7 +94,7 @@
       "ID": "A_BIT_MUCH_ACH",
       "SetID": "7ec7obg",
       "Name": "A Bit Much",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -113,17 +118,17 @@
       "ID": "QUITE_THE_CREW_ACH",
       "SetID": "7ec7obg",
       "Name": "Quite the Crew",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 9
     },
     {
       "ID": "ROOKIE_MISTAKE_ACH",
       "SetID": "7ec7obg",
       "Name": "Rookie Mistake",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "STAY_FOCUSED_ACH",
@@ -147,7 +152,7 @@
       "Name": "The Warm Up",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TRIVIAL_ONSLAUGHT_ACH",
@@ -179,21 +184,21 @@
       "Name": "What a Joke",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ec7obg",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-18T18:00:58.2692599+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.9427782+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:31.2594194+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:49.0872215+00:00",
   "LastUpdate_AppInfo": "2024-03-21T12:59:59.6676268+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:26.197747+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:31.2594262+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:28.3544309+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:49.0872311+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 246,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 204,
+  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -329,7 +329,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9256,
+  "EOS_Progressed": 9335,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -12034,6 +12034,11 @@
       "Time": "2024-03-04T23:05:32.5841806+00:00",
       "NumProgressed": 9256,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2024-03-21T17:13:22.4881709+00:00",
+      "NumProgressed": 9335,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 21,
@@ -12061,7 +12066,7 @@
       "Name": "Audiophile",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -12093,15 +12098,15 @@
       "Name": "Energy Saver",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 187
     },
     {
       "ID": "FASHION_FAUX_PAS",
       "SetID": "3cck1g6",
       "Name": "Fashion Faux-Pas",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 37
     },
     {
       "ID": "FASHION_VICTIM",
@@ -12125,7 +12130,7 @@
       "Name": "Happy Camper",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "HISTORIAN",
@@ -12147,9 +12152,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 280
     },
     {
       "ID": "LIBERATOR",
@@ -12157,7 +12162,7 @@
       "Name": "Liberator",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "LIVE_WIRE",
@@ -12187,9 +12192,9 @@
       "ID": "SOUL_CANON",
       "SetID": "3cck1g6",
       "Name": "Soul-Canon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 93
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -12197,7 +12202,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 187
     },
     {
       "ID": "THING",
@@ -12212,7 +12217,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 9256,
+      "Progressed": 9335,
       "Completed": 39
     }
   ],
@@ -12220,8 +12225,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-02-13T03:57:38.1587749+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:05:32.58418+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:13:22.4881701+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:51.8259034+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:31.973364+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:05:32.5842605+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:58.0737633+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:13:22.4882484+00:00"
 }

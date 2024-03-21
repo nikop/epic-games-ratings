@@ -6,61 +6,60 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,878 |
-| Returning Home: Quick Learner | 26.00% | ~1,527 |
-| Level: Charlie's Circuits | 22.00% | ~1,292 |
-| Level: Rising Markets | 9.00% | ~529 |
-| Peddler | 8.00% | ~470 |
-| Level: Extra Life | 7.00% | ~411 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~411 |
-| Data Churn Type I | 7.00% | ~411 |
-| Millionaire | 6.00% | ~352 |
-| Data Churn Type II | 5.00% | ~294 |
-| Speedy | 5.00% | ~294 |
-| Extra Life: Wish Granted | 4.00% | ~235 |
-| High Five! | 4.00% | ~235 |
-| Modular Progress | 4.00% | ~235 |
-| Campaign: Lesson Learned | 3.00% | ~176 |
-| Level: Bet On Bots | 3.00% | ~176 |
-| Modular Performance | 3.00% | ~176 |
-| Salesperson | 3.00% | ~176 |
-| Level: Merry-Go-Around | 2.00% | ~117 |
-| Charlies's Circuits: Artist | 2.00% | ~117 |
-| Modular Peak | 2.00% | ~117 |
-| Accountant | 2.00% | ~117 |
-| Data Churn Type III | 2.00% | ~117 |
-| Multi-Millionaire | 2.00% | ~117 |
-| Contender | 2.00% | ~117 |
-| Trophy Collector | 2.00% | ~117 |
-| Module Maniac | 2.00% | ~117 |
-| Overproducer | 2.00% | ~117 |
-| Natural Talent | 2.00% | ~117 |
-| Level: A Happy Taskforce | 1.00% | ~59 |
-| Level: The Machinery | 1.00% | ~59 |
-| Extra Life: Knowledge Cap | 1.00% | ~59 |
-| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~59 |
-| Entrepreneur | 1.00% | ~59 |
-| Data Churn Type IV | 1.00% | ~59 |
-| Keen Eye | 1.00% | ~59 |
-| Level: Topple The Top | 0.90% | ~53 |
-| Bet On Bots: Safety First | 0.90% | ~53 |
-| Tycoon | 0.90% | ~53 |
-| Merry-Go-Around: Self-Made | 0.70% | ~41 |
-| Bet On Bots: Inspector's Favorite | 0.60% | ~35 |
-| Trendsetter | 0.60% | ~35 |
-| Level: Heating-Up | 0.50% | ~29 |
-| Level: Eye In The Sky | 0.50% | ~29 |
-| CEO | 0.50% | ~29 |
-| Rockstar | 0.50% | ~29 |
-| Campaign: Man vs. Machine | 0.40% | ~23 |
-| A Happy Taskforce: Interior Designer | 0.40% | ~23 |
-| Fully Packed | 0.40% | ~23 |
-| The Machinery: Goal Orientated | 0.30% | ~18 |
+| Level: Returning Home | 49.00% | ~2,972 |
+| Returning Home: Quick Learner | 26.00% | ~1,577 |
+| Level: Charlie's Circuits | 22.00% | ~1,335 |
+| Level: Rising Markets | 9.00% | ~546 |
+| Level: Extra Life | 7.00% | ~425 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~425 |
+| Peddler | 7.00% | ~425 |
+| Data Churn Type I | 7.00% | ~425 |
+| Millionaire | 6.00% | ~364 |
+| Data Churn Type II | 5.00% | ~303 |
+| Speedy | 5.00% | ~303 |
+| Extra Life: Wish Granted | 4.00% | ~243 |
+| High Five! | 4.00% | ~243 |
+| Modular Progress | 4.00% | ~243 |
+| Campaign: Lesson Learned | 3.00% | ~182 |
+| Level: Bet On Bots | 3.00% | ~182 |
+| Modular Performance | 3.00% | ~182 |
+| Salesperson | 3.00% | ~182 |
+| Level: Merry-Go-Around | 2.00% | ~121 |
+| Charlies's Circuits: Artist | 2.00% | ~121 |
+| Modular Peak | 2.00% | ~121 |
+| Accountant | 2.00% | ~121 |
+| Data Churn Type III | 2.00% | ~121 |
+| Multi-Millionaire | 2.00% | ~121 |
+| Contender | 2.00% | ~121 |
+| Trophy Collector | 2.00% | ~121 |
+| Module Maniac | 2.00% | ~121 |
+| Overproducer | 2.00% | ~121 |
+| Natural Talent | 2.00% | ~121 |
+| Level: A Happy Taskforce | 1.00% | ~61 |
+| Level: Topple The Top | 1.00% | ~61 |
+| Level: The Machinery | 1.00% | ~61 |
+| Bet On Bots: Safety First | 1.00% | ~61 |
+| Extra Life: Knowledge Cap | 1.00% | ~61 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~61 |
+| Entrepreneur | 1.00% | ~61 |
+| Data Churn Type IV | 1.00% | ~61 |
+| Keen Eye | 1.00% | ~61 |
+| Tycoon | 0.90% | ~55 |
+| Merry-Go-Around: Self-Made | 0.70% | ~42 |
+| Bet On Bots: Inspector's Favorite | 0.70% | ~42 |
+| Trendsetter | 0.70% | ~42 |
+| Level: Eye In The Sky | 0.60% | ~36 |
+| Level: Heating-Up | 0.50% | ~30 |
+| A Happy Taskforce: Interior Designer | 0.50% | ~30 |
+| CEO | 0.50% | ~30 |
+| Rockstar | 0.50% | ~30 |
+| Campaign: Man vs. Machine | 0.40% | ~24 |
+| The Machinery: Goal Orientated | 0.40% | ~24 |
+| Champion | 0.30% | ~18 |
+| Trophy Hoarder | 0.30% | ~18 |
 | The Machinery: Energy Saver | 0.30% | ~18 |
 | Super Rich | 0.30% | ~18 |
-| Champion | 0.20% | ~12 |
-| Trophy Hoarder | 0.20% | ~12 |
-| Happy Hour | 0.20% | ~12 |
+| Fully Packed | 0.30% | ~18 |
 | Achiever | 0.20% | ~12 |
 | Grand Master | 0.10% | ~6 |
 | Trophy Enthusiast | 0.10% | ~6 |
@@ -78,13 +77,14 @@ Number of Ratings: 75  (23.09.2022)
 | Money Rush: One Loan | 0.10% | ~6 |
 | Across the (circuit)board | 0.10% | ~6 |
 | Efficient | 0.10% | ~6 |
+| Happy Hour | 0.10% | ~6 |
 | Lucky | 0.10% | ~6 |
 | Reliable | 0.10% | ~6 |
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,873 (Ranked 208)  
-Completed: 1 (0.02%) (Ranked 386)  
+Progressed: 6,066 (Ranked 216)  
+Completed: 1 (0.02%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -360,6 +360,7 @@ Completed: 1 (0.02%) (Ranked 386)
 | 2024-01-25 | 5,870 | 1 |
 | 2024-01-26 | 5,871 | 1 |
 | 2024-01-27 | 5,873 | 1 |
+| 2024-03-21 | 6,066 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

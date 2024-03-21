@@ -2,10 +2,10 @@
   "ID": "33d6300ac8394fd48337c934f52c71cc",
   "Name": "Grieve",
   "ProductSlug": "my-product-a3639cd0-e55545",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-09T15:00:00+00:00",
     "PcReleaseDate": "2024-02-09T15:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2024-02-14T13:02:50.6776664+00:00",
   "FirstSeenAchievements": "2024-01-21T21:03:51.6784135+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:31.031071+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:08.359754+00:00",
   "LastUpdate_AppInfo": "2024-03-18T01:38:18.7189864+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:58.0003123+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:31.0310729+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:21.3300525+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:08.3597572+00:00"
 }

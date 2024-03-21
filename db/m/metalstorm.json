@@ -4,11 +4,11 @@
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 763,
   "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 475,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_PopularitySum": 476,
+  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-14T19:00:00+00:00",
     "PcReleaseDate": "2023-11-14T19:00:00+00:00",
@@ -836,20 +836,188 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 20912,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:08:18.0939292+00:00",
+      "NumProgressed": 20912,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:08:18.0939319+00:00",
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "career-kills-1",
+      "SetID": "c7f51j6",
+      "Name": "Takedowns I",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 6692
+    },
+    {
+      "ID": "career-kills-2",
+      "SetID": "c7f51j6",
+      "Name": "Takedowns II",
+      "Percentage": 8,
+      "XP": 25,
+      "UsersEstimate": 1673
+    },
+    {
+      "ID": "career-kills-3",
+      "SetID": "c7f51j6",
+      "Name": "Takedowns III",
+      "Percentage": 0.6,
+      "XP": 50,
+      "UsersEstimate": 125
+    },
+    {
+      "ID": "career-kills-4",
+      "SetID": "c7f51j6",
+      "Name": "Takedowns IV",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "career-wins-1",
+      "SetID": "c7f51j6",
+      "Name": "Career Wins I",
+      "Percentage": 28,
+      "XP": 10,
+      "UsersEstimate": 5855
+    },
+    {
+      "ID": "career-wins-2",
+      "SetID": "c7f51j6",
+      "Name": "Career Wins II",
+      "Percentage": 6,
+      "XP": 25,
+      "UsersEstimate": 1255
+    },
+    {
+      "ID": "career-wins-3",
+      "SetID": "c7f51j6",
+      "Name": "Career Wins III",
+      "Percentage": 0.4,
+      "XP": 50,
+      "UsersEstimate": 84
+    },
+    {
+      "ID": "career-wins-4",
+      "SetID": "c7f51j6",
+      "Name": "Career Wins IV",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "join-squadron",
+      "SetID": "c7f51j6",
+      "Name": "Squadron Member",
+      "Percentage": 26,
+      "XP": 100,
+      "UsersEstimate": 5437
+    },
+    {
+      "ID": "make-friend",
+      "SetID": "c7f51j6",
+      "Name": "Making Friends",
+      "Percentage": 24,
+      "XP": 30,
+      "UsersEstimate": 5019
+    },
+    {
+      "ID": "plane-trophy-1",
+      "SetID": "c7f51j6",
+      "Name": "Plane Trophies I",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 1673
+    },
+    {
+      "ID": "plane-trophy-2",
+      "SetID": "c7f51j6",
+      "Name": "Plane Trophies II",
+      "Percentage": 0.4,
+      "XP": 25,
+      "UsersEstimate": 84
+    },
+    {
+      "ID": "plane-trophy-3",
+      "SetID": "c7f51j6",
+      "Name": "Plane Trophies III",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 21
+    },
+    {
+      "ID": "plane-trophy-4",
+      "SetID": "c7f51j6",
+      "Name": "Plane Trophies IV",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 21
+    },
+    {
+      "ID": "pvp-league-1",
+      "SetID": "c7f51j6",
+      "Name": "Silver League",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 1882
+    },
+    {
+      "ID": "pvp-league-2",
+      "SetID": "c7f51j6",
+      "Name": "Gold League",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 836
+    },
+    {
+      "ID": "pvp-league-3",
+      "SetID": "c7f51j6",
+      "Name": "Platinum League",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 418
+    },
+    {
+      "ID": "pvp-league-4",
+      "SetID": "c7f51j6",
+      "Name": "Diamond League",
+      "Percentage": 0.8,
+      "XP": 50,
+      "UsersEstimate": 167
+    },
+    {
+      "ID": "pvp-league-5",
+      "SetID": "c7f51j6",
+      "Name": "Master League",
+      "Percentage": 0.4,
+      "XP": 80,
+      "UsersEstimate": 84
+    },
+    {
+      "ID": "pvp-league-6",
+      "SetID": "c7f51j6",
+      "Name": "Grandmaster League",
+      "Percentage": 0.2,
+      "XP": 125,
+      "UsersEstimate": 42
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c7f51j6",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 20912,
       "Completed": 0
     }
   ],
@@ -857,8 +1025,8 @@
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
   "LastChanged": "2024-03-19T23:57:05.5181579+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:38.3679471+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:18.0939283+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:24.9526682+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:02.3939818+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:38.3679493+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:01.3586932+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:18.0947915+00:00"
 }

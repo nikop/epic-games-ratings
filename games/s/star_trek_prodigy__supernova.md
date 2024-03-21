@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 58.00% | ~11 |
-| Three Watchers, Two Phasers | 37.00% | ~7 |
-| Guess who's back | 32.00% | ~6 |
-| One for the Crew | 26.00% | ~5 |
-| The Clock is Ticking | 26.00% | ~5 |
-| A Helping Hand | 26.00% | ~5 |
-| I've Got You | 21.00% | ~4 |
-| One Man Army | 11.00% | ~2 |
-| Up your Arsenal | 11.00% | ~2 |
-| Punny Lover | 11.00% | ~2 |
-| Back online | 11.00% | ~2 |
-| Rok and Roll | 11.00% | ~2 |
-| First Contact? | 11.00% | ~2 |
-| Naroan History | 11.00% | ~2 |
-| Playing with Time | 11.00% | ~2 |
-| Escape from Mirios | 11.00% | ~2 |
-| Coming in from the Cold | 11.00% | ~2 |
-| Searching for Al'Shams | 11.00% | ~2 |
-| The Crew is Back! | 11.00% | ~2 |
-| Not Too Long | 11.00% | ~2 |
-| Welcome back | 11.00% | ~2 |
-| Getting Better | 11.00% | ~2 |
-| Teamwork makes the dream work | 11.00% | ~2 |
+| Restoring the Protostar | 60.00% | ~12 |
+| Guess who's back | 40.00% | ~8 |
+| One for the Crew | 35.00% | ~7 |
+| The Clock is Ticking | 35.00% | ~7 |
+| Three Watchers, Two Phasers | 35.00% | ~7 |
+| A Helping Hand | 35.00% | ~7 |
+| I've Got You | 25.00% | ~5 |
+| One Man Army | 10.00% | ~2 |
+| Up your Arsenal | 10.00% | ~2 |
+| Punny Lover | 10.00% | ~2 |
+| Back online | 10.00% | ~2 |
+| Rok and Roll | 10.00% | ~2 |
+| First Contact? | 10.00% | ~2 |
+| Naroan History | 10.00% | ~2 |
+| Playing with Time | 10.00% | ~2 |
+| Escape from Mirios | 10.00% | ~2 |
+| Coming in from the Cold | 10.00% | ~2 |
+| Searching for Al'Shams | 10.00% | ~2 |
+| Stopping the Supernova | 10.00% | ~2 |
+| Saved the System | 10.00% | ~2 |
+| The Crew is Back! | 10.00% | ~2 |
+| Not Too Long | 10.00% | ~2 |
+| Welcome back | 10.00% | ~2 |
+| Getting Better | 10.00% | ~2 |
+| Teamwork makes the dream work | 10.00% | ~2 |
 | Priceless Collection | 5.00% | ~1 |
 | Quest for Loot | 5.00% | ~1 |
 | Proto Menagerie | 5.00% | ~1 |
-| Stopping the Supernova | 5.00% | ~1 |
-| Saved the System | 5.00% | ~1 |
 | Seeking Discovery | 5.00% | ~1 |
 | Open Sesame | 5.00% | ~1 |
 | Trekkie | 5.00% | ~1 |
@@ -46,8 +46,8 @@
 | Relic Hunter | 0.00% | ~0 |
 | Maxed out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 661)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 20 (Ranked 713)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2023-11-26 | 17 | 0 |
 | 2023-12-02 | 18 | 0 |
 | 2024-01-06 | 19 | 0 |
+| 2024-03-21 | 20 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

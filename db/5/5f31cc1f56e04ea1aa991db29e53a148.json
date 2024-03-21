@@ -2,10 +2,10 @@
   "ID": "5f31cc1f56e04ea1aa991db29e53a148",
   "Name": "Bridge Constructor Medieval",
   "ProductSlug": "bridge-constructor-medieval-cff987",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-08T16:00:00+00:00",
     "PcReleaseDate": "2014-09-15T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-25T16:59:06.8231745+00:00",
   "LastUpdate_AppInfo": "2024-03-16T01:35:41.1696186+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:11.9441735+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:12.6793136+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:05.1259773+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:27.3455251+00:00"
 }

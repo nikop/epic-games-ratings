@@ -5,10 +5,10 @@
   "Ranking_Rating": 582,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_Progress": 175,
+  "Ranking_EOS_Completed": 278,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -433,11 +433,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19318,
-  "EOS_Completed": 67,
-  "EOS_NewPlayers": 139,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.35,
+  "EOS_Progressed": 20049,
+  "EOS_Completed": 73,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-07-26T16:06:14.482825+00:00",
@@ -18403,6 +18403,11 @@
       "Time": "2024-01-27T12:05:21.3693421+00:00",
       "NumProgressed": 19318,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-03-21T17:05:36.7899757+00:00",
+      "NumProgressed": 20049,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18413,161 +18418,161 @@
       "ID": "1",
       "SetID": "458bbdk",
       "Name": "Urshanabi Hoarder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 401
     },
     {
       "ID": "10",
       "SetID": "458bbdk",
       "Name": "Data Miner",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 180
     },
     {
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2898
+      "UsersEstimate": 3408
     },
     {
       "ID": "12",
       "SetID": "458bbdk",
       "Name": "Data Archivist",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1545
+      "UsersEstimate": 2005
     },
     {
       "ID": "13",
       "SetID": "458bbdk",
       "Name": "Oyedang, Kopengs",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3864
+      "UsersEstimate": 4411
     },
     {
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1604
     },
     {
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2807
     },
     {
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1804
     },
     {
       "ID": "17",
       "SetID": "458bbdk",
       "Name": "Spore Taste",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2511
+      "UsersEstimate": 3007
     },
     {
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1604
     },
     {
       "ID": "19",
       "SetID": "458bbdk",
       "Name": "Martian Music",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 2898
+      "UsersEstimate": 3408
     },
     {
       "ID": "2",
       "SetID": "458bbdk",
       "Name": "Data Logger",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 966
+      "UsersEstimate": 1203
     },
     {
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1545
+      "UsersEstimate": 2005
     },
     {
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 2705
+      "UsersEstimate": 3208
     },
     {
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 601
     },
     {
       "ID": "23",
       "SetID": "458bbdk",
       "Name": "Heal Thy Medic",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1739
+      "UsersEstimate": 2205
     },
     {
       "ID": "24",
       "SetID": "458bbdk",
       "Name": "Miraculous Maya",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 966
+      "UsersEstimate": 1203
     },
     {
       "ID": "25",
       "SetID": "458bbdk",
       "Name": "Khan\u0027s Revenge",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1545
+      "UsersEstimate": 2005
     },
     {
       "ID": "26",
       "SetID": "458bbdk",
       "Name": "Call it Even",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2406
     },
     {
       "ID": "27",
       "SetID": "458bbdk",
       "Name": "Bosmang",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 2898
+      "UsersEstimate": 3408
     },
     {
       "ID": "28",
@@ -18575,23 +18580,23 @@
       "Name": "Scavenger Star",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "29",
       "SetID": "458bbdk",
       "Name": "Data Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 60
     },
     {
       "ID": "3",
       "SetID": "458bbdk",
       "Name": "Captain Drummer",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3284
+      "UsersEstimate": 3809
     },
     {
       "ID": "30",
@@ -18599,15 +18604,15 @@
       "Name": "No Belter Left Behind",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 580
+      "UsersEstimate": 601
     },
     {
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 601
     },
     {
       "ID": "5",
@@ -18615,23 +18620,23 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 773
+      "UsersEstimate": 802
     },
     {
       "ID": "6",
       "SetID": "458bbdk",
       "Name": "Celebrations are in Order",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3609
     },
     {
       "ID": "7",
       "SetID": "458bbdk",
       "Name": "Grave Robber",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 200
     },
     {
       "ID": "8",
@@ -18639,77 +18644,77 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 401
     },
     {
       "ID": "9",
       "SetID": "458bbdk",
       "Name": "Impossible Objects",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2898
+      "UsersEstimate": 3408
     },
     {
       "ID": "31",
       "SetID": "9nnpo9n",
       "Name": "Keep Arjun in Check",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 474
+      "UsersEstimate": 600
     },
     {
       "ID": "32",
       "SetID": "9nnpo9n",
       "Name": "Safe Cracker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 580
+      "UsersEstimate": 720
     },
     {
       "ID": "33",
       "SetID": "9nnpo9n",
       "Name": "Zen Master",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 580
+      "UsersEstimate": 780
     },
     {
       "ID": "34",
       "SetID": "9nnpo9n",
       "Name": "Master Negotiator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 369
+      "UsersEstimate": 480
     },
     {
       "ID": "35",
       "SetID": "9nnpo9n",
       "Name": "Madame Undersecretary",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 527
+      "UsersEstimate": 660
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19318,
-      "Completed": 67
+      "Progressed": 20049,
+      "Completed": 73
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5272,
-      "Completed": 1411
+      "Progressed": 6003,
+      "Completed": 1595
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-03-15T22:00:08.4573253+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:37.2708988+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:36.7899748+00:00",
   "LastUpdate_AppInfo": "2024-03-17T08:57:15.8535756+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:18.9893193+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:37.2710009+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:13.4115162+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:36.7901192+00:00"
 }

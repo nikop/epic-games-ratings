@@ -2,10 +2,10 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 167,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 174,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19263,
+  "EOS_Progressed": 20244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13109,6 +13109,11 @@
       "Time": "2024-01-27T13:06:45.4686042+00:00",
       "NumProgressed": 19263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:07:08.2471404+00:00",
+      "NumProgressed": 20244,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -13137,7 +13142,7 @@
       "Name": "INSANE",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_LEVEL188",
@@ -13145,7 +13150,7 @@
       "Name": "Liminal Hotel",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_LEVEL974",
@@ -13153,15 +13158,15 @@
       "Name": "KITTY",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_MEGLAB",
       "SetID": "1lo1k0a",
       "Name": "MEG",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 173
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_RUNFORYOURLIFE",
@@ -13169,7 +13174,7 @@
       "Name": "RUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -13177,7 +13182,7 @@
       "Name": "Secret",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SUBLEVEL02",
@@ -13185,7 +13190,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -13193,7 +13198,7 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_THEEND",
@@ -13201,7 +13206,7 @@
       "Name": "End?",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 193
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_WINELECTRICALSTATION",
@@ -13209,7 +13214,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 963
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -13217,7 +13222,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 5008
+      "UsersEstimate": 5263
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -13225,7 +13230,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2312
+      "UsersEstimate": 2429
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -13233,7 +13238,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2227
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -13241,15 +13246,15 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_WINLEVEL4",
       "SetID": "1lo1k0a",
       "Name": "Management",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 771
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -13257,7 +13262,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -13265,7 +13270,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 771
+      "UsersEstimate": 810
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -13273,7 +13278,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -13281,15 +13286,15 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_WINLEVEL9999999",
       "SetID": "1lo1k0a",
       "Name": "Endless",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -13297,7 +13302,7 @@
       "Name": "FUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 385
+      "UsersEstimate": 405
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -13305,21 +13310,21 @@
       "Name": "Lights Out",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 578
+      "UsersEstimate": 607
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 19263,
+      "Progressed": 20244,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:45.4685982+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:08.2471395+00:00",
   "LastUpdate_AppInfo": "2024-03-19T01:37:46.1405657+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:29.5405109+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:45.4686759+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:27.2040097+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:08.2472679+00:00"
 }

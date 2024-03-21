@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 4.00% | ~31 |
-| Half a Life | 3.00% | ~24 |
-| Bad Blood | 2.00% | ~16 |
-| Shock to the System | 2.00% | ~16 |
-| Serious Bam | 1.00% | ~8 |
+| First Blood | 4.00% | ~35 |
+| Half a Life | 2.00% | ~18 |
+| Shock to the System | 2.00% | ~18 |
+| Bad Blood | 1.00% | ~9 |
+| Serious Bam | 0.90% | ~8 |
 | Doomed | 0.60% | ~5 |
 | Postal Service | 0.60% | ~5 |
 | Unreal | 0.60% | ~5 |
 | Bloodstorm | 0.50% | ~4 |
 | Pacifantastic | 0.50% | ~4 |
 | SCATHE Too | 0.50% | ~4 |
-| Amaging Work | 0.40% | ~3 |
-| ...And I'm All Out Of Gun | 0.40% | ~3 |
-| Castle Of The Wolf | 0.40% | ~3 |
-| Nuke Them All | 0.40% | ~3 |
-| Purely Not | 0.40% | ~3 |
-| Quakin' | 0.40% | ~3 |
-| Rune Escape | 0.40% | ~3 |
-| Shocking Bio | 0.40% | ~3 |
-| Such Sin | 0.40% | ~3 |
-| Gears of Door | 0.30% | ~2 |
-| Ice Work | 0.30% | ~2 |
-| Slaving Grace | 0.30% | ~2 |
-| Takin' Names | 0.30% | ~2 |
-| The Kingpin | 0.30% | ~2 |
-| Unreal 4 | 0.30% | ~2 |
+| Amaging Work | 0.30% | ~3 |
+| ...And I'm All Out Of Gun | 0.30% | ~3 |
+| Castle Of The Wolf | 0.30% | ~3 |
+| Nuke Them All | 0.30% | ~3 |
+| Purely Not | 0.30% | ~3 |
+| Quakin' | 0.30% | ~3 |
+| Rune Escape | 0.30% | ~3 |
+| Shocking Bio | 0.30% | ~3 |
+| Such Sin | 0.30% | ~3 |
+| Gears of Door | 0.20% | ~2 |
+| Ice Work | 0.20% | ~2 |
+| Slaving Grace | 0.20% | ~2 |
+| Takin' Names | 0.20% | ~2 |
+| The Kingpin | 0.20% | ~2 |
+| Unreal 4 | 0.20% | ~2 |
 | Fear Nothing | 0.10% | ~1 |
 | Max Pain | 0.10% | ~1 |
 | Rage Quit | 0.10% | ~1 |
 | Until Dusk | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 786 (Ranked 331)  
-Completed: 1 (0.13%) (Ranked 317)  
+Progressed: 885 (Ranked 340)  
+Completed: 1 (0.11%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -233,6 +233,7 @@ Completed: 1 (0.13%) (Ranked 317)
 | 2024-01-26 | 697 | 1 |
 | 2024-01-27 | 699 | 1 |
 | 2024-02-22 | 786 | 1 |
+| 2024-03-21 | 885 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

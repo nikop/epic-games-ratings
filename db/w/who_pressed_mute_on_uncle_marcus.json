@@ -2,10 +2,10 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 405,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 428,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 358,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.3,
+  "EOS_Completed_Percentage": 8.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -955,6 +955,11 @@
       "Time": "2024-02-22T21:05:36.7377935+00:00",
       "NumProgressed": 344,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2024-03-21T17:11:21.3498338+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 17,
@@ -964,15 +969,15 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 319
     },
     {
       "ID": "bless_the_rain",
       "SetID": "202dmm8",
       "Name": "I bless the rain down in London",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
       "UsersEstimate": 100
     },
@@ -982,15 +987,15 @@
       "Name": "Blow",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "brown_nosing",
       "SetID": "202dmm8",
       "Name": "Brown nosing",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "cheat",
@@ -998,61 +1003,61 @@
       "Name": "Cheat",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "dont_fear_the_baldness",
       "SetID": "202dmm8",
       "Name": "Don\u0027t fear the baldness",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 129
     },
     {
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 215
     },
     {
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 114
+      "UsersEstimate": 122
     },
     {
       "ID": "making_a_murderer",
       "SetID": "202dmm8",
       "Name": "Making a murderer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "prove_it",
       "SetID": "202dmm8",
       "Name": "Prove it",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 86
     },
@@ -1060,15 +1065,15 @@
       "ID": "sorry_kiddo",
       "SetID": "202dmm8",
       "Name": "Sorry, kiddo",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 347
     },
     {
       "ID": "the_truth",
       "SetID": "202dmm8",
       "Name": "The truth",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 86
     },
@@ -1078,7 +1083,7 @@
       "Name": "The whole truth",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "toby_foolery",
@@ -1086,7 +1091,7 @@
       "Name": "Toby foolery",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 179
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -1094,14 +1099,14 @@
       "Name": "You are Carol Vorderman",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 193
     }
   ],
   "AchievementSets": [
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 358,
       "Completed": 32
     }
   ],
@@ -1109,8 +1114,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:36.7377933+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:21.3498331+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:08.1577201+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:29.4360757+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:36.7378074+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:53.5596327+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:21.3498526+00:00"
 }

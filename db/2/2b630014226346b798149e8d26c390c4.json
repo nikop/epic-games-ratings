@@ -2,10 +2,10 @@
   "ID": "2b630014226346b798149e8d26c390c4",
   "Name": "ROD Multiplayer Car Driving",
   "ProductSlug": "rod-multiplayer-car-driving-8b748d",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-07T06:30:00+00:00",
     "PcReleaseDate": "2022-11-25T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-24T01:43:03.0569486+00:00",
   "LastUpdate_AppInfo": "2024-03-19T19:57:09.5819978+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:55.3406154+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:28.28182+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:59.0917951+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:45.0791231+00:00"
 }

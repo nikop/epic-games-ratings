@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 91.00% | ~81 |
-| A thing of beauty | 85.00% | ~76 |
-| Escape the Maze | 57.00% | ~51 |
-| Brace the cold | 40.00% | ~36 |
-| A Long Walk | 39.00% | ~35 |
-| Dont mind the heat | 19.00% | ~17 |
-| City of Puzzles | 12.00% | ~11 |
-| This field of danger | 12.00% | ~11 |
-| Labyrinths of the Mind | 12.00% | ~11 |
-| A Terrifying Blizzard | 8.00% | ~7 |
-| A Dangerous Road | 7.00% | ~6 |
-| Scorched Ruins | 4.00% | ~4 |
-| City of Illusion | 4.00% | ~4 |
-| Kill the Flames | 3.00% | ~3 |
-| Find the Light | 3.00% | ~3 |
+| Start of a Journey | 91.00% | ~86 |
+| A thing of beauty | 86.00% | ~81 |
+| Escape the Maze | 59.00% | ~55 |
+| Brace the cold | 41.00% | ~39 |
+| A Long Walk | 40.00% | ~38 |
+| Dont mind the heat | 20.00% | ~19 |
+| City of Puzzles | 13.00% | ~12 |
+| This field of danger | 13.00% | ~12 |
+| Labyrinths of the Mind | 13.00% | ~12 |
+| A Terrifying Blizzard | 9.00% | ~8 |
+| A Dangerous Road | 7.00% | ~7 |
+| Scorched Ruins | 5.00% | ~5 |
+| City of Illusion | 5.00% | ~5 |
+| Kill the Flames | 4.00% | ~4 |
+| Find the Light | 4.00% | ~4 |
 | Fight and Overcome | 3.00% | ~3 |
 | A Walk to the End | 3.00% | ~3 |
 | The Final Test | 3.00% | ~3 |
@@ -53,8 +53,8 @@
 | A Quick Secret | 0.00% | ~0 |
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 531)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 94 (Ranked 566)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,3 +119,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-20 | 83 | 0 |
 | 2024-01-24 | 84 | 0 |
 | 2024-02-22 | 89 | 0 |
+| 2024-03-21 | 94 | 0 |

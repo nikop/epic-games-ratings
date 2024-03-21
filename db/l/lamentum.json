@@ -5,10 +5,10 @@
   "Ranking_Rating": 930,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 397,
-  "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -78,11 +78,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 365,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.75,
+  "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -513,6 +513,11 @@
       "Time": "2024-03-04T23:05:24.8284097+00:00",
       "NumProgressed": 363,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-03-21T17:13:15.0125282+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -546,9 +551,9 @@
       "ID": "achievement_03",
       "SetID": "7881h0d",
       "Name": "Cowardice",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_04",
@@ -556,7 +561,7 @@
       "Name": "The moth and the flame",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_05",
@@ -570,17 +575,17 @@
       "ID": "achievement_06",
       "SetID": "7881h0d",
       "Name": "Moon Cloudiness Sonata by Danloop",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_07",
       "SetID": "7881h0d",
       "Name": "True magic doesn\u0027t exist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_08",
@@ -596,7 +601,7 @@
       "Name": "Grau Hill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_10",
@@ -604,7 +609,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_11",
@@ -612,7 +617,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 252
     },
     {
       "ID": "achievement_12",
@@ -620,7 +625,7 @@
       "Name": "Lord Wesley",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "achievement_13",
@@ -628,15 +633,15 @@
       "Name": "One step down",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_14",
       "SetID": "7881h0d",
       "Name": "Lord Clayton",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_15",
@@ -644,7 +649,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_16",
@@ -660,7 +665,7 @@
       "Name": "Little Mary",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_18",
@@ -675,7 +680,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 365,
       "Completed": 10
     }
   ],
@@ -683,8 +688,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:05:24.8284092+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:13:15.0125275+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:12.2983489+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:58.5005585+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:05:24.8284355+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:00.1049464+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:13:15.0125437+00:00"
 }

@@ -3,6 +3,85 @@
 [View Rawdata](../../db/k/kingdoms_of_amalur__re-reckoning.json)  
 Rating: 4.55 (Ranked 546)  
 Number of Ratings: 137  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Reborn | 37.00% | ~126 |
+| Would You Like Fries with that? | 36.00% | ~122 |
+| Good as New | 35.00% | ~119 |
+| The Great Detective | 22.00% | ~75 |
+| Cleaning Up the Streets | 21.00% | ~71 |
+| Big Spender | 18.00% | ~61 |
+| Some of This, Some of That | 18.00% | ~61 |
+| Breaking and Entering | 18.00% | ~61 |
+| Reckoning Rampage | 15.00% | ~51 |
+| Shock and Awe | 15.00% | ~51 |
+| Green Thumb | 14.00% | ~48 |
+| Shop Class | 14.00% | ~48 |
+| Niskaru Slayer | 13.00% | ~44 |
+| Jack of All Trades | 13.00% | ~44 |
+| Bull in a China Shop | 13.00% | ~44 |
+| It Didn't Explode! | 12.00% | ~41 |
+| Cartographer | 9.00% | ~31 |
+| Juggler | 8.00% | ~27 |
+| Diamond in the Rough | 8.00% | ~27 |
+| Open Sesame | 8.00% | ~27 |
+| Master of the Forge | 7.00% | ~24 |
+| Five Finger Discount | 7.00% | ~24 |
+| No Destiny, All Determination | 6.00% | ~20 |
+| Turning the Tide | 6.00% | ~20 |
+| House of Ballads | 6.00% | ~20 |
+| Foiled Again! | 6.00% | ~20 |
+| To the Victor Go the Spoils | 5.00% | ~17 |
+| They Never Saw it Coming | 5.00% | ~17 |
+| Bookworm | 5.00% | ~17 |
+| Hero of Mel Senshir | 4.00% | ~14 |
+| Warsworn | 4.00% | ~14 |
+| And Then There Were None | 4.00% | ~14 |
+| Elixir of Fate | 4.00% | ~14 |
+| Romancing the Gem | 4.00% | ~14 |
+| It is Your Destiny | 4.00% | ~14 |
+| A Wink and a Smile | 4.00% | ~14 |
+| Streaker | 4.00% | ~14 |
+| Beam Me Up | 4.00% | ~14 |
+| Destiny Defiant | 3.00% | ~10 |
+| Trapper | 3.00% | ~10 |
+| Crime Doesn't Pay | 3.00% | ~10 |
+| House of Sorrows | 2.00% | ~7 |
+| Scholia Arcana | 2.00% | ~7 |
+| Travelers | 2.00% | ~7 |
+| Riposte! | 2.00% | ~7 |
+| Keep on Rising | 2.00% | ~7 |
+| Manic Pixie Dream Elf | 2.00% | ~7 |
+| We Built this City | 2.00% | ~7 |
+| Destiny Dominated | 1.00% | ~3 |
+| The Harder They Fall | 1.00% | ~3 |
+| Mistaken Identity | 1.00% | ~3 |
+| Murder Most Fowl | 1.00% | ~3 |
+| Sixpack | 1.00% | ~3 |
+| Out of Your League | 0.90% | ~3 |
+| Loremaster | 0.60% | ~2 |
+| Where's My Wallet? | 0.60% | ~2 |
+| Exterminator | 0.60% | ~2 |
+| Farewell, Fateless One | 0.60% | ~2 |
+| Customer Service | 0.60% | ~2 |
+| Gatekeeper | 0.60% | ~2 |
+| Walking Fortress | 0.60% | ~2 |
+| The Floor is Lava | 0.60% | ~2 |
+| Jailbreak | 0.30% | ~1 |
+| A Life of Crime | 0.30% | ~1 |
+| Message in a Bottle | 0.30% | ~1 |
+| Give Her a Hand | 0.30% | ~1 |
+| I Regret Nothing | 0.30% | ~1 |
+| Black Hole | 0.30% | ~1 |
+| Perfectionist | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 340 (Ranked 435)  
+Completed: 0 (0.00%) (Ranked 445)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 340 | 0 |
 ## Awards
 Max (Character Customization): 81  (Ranked 422)  
 Sum: 128 (Ranked 483)  

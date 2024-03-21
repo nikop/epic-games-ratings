@@ -2,10 +2,10 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 513,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 545,
+  "Ranking_EOS_Completed": 211,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.94,
+  "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -175,6 +175,11 @@
       "Time": "2024-01-20T22:04:00.4757579+00:00",
       "NumProgressed": 106,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:12:41.2362588+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -264,7 +269,7 @@
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -274,7 +279,7 @@
       "Name": "What is this?",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -336,9 +341,9 @@
       "ID": "ACH_LEVELCOMPLETION_01_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-1",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
@@ -360,7 +365,7 @@
       "ID": "ACH_LEVELCOMPLETION_01_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the warrior boss",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
       "UsersEstimate": 26
     },
@@ -418,7 +423,7 @@
       "Name": "Complete Level 3-3",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_LEVELCOMPLETION_03_04",
@@ -466,7 +471,7 @@
       "Name": "Immortal",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
@@ -480,9 +485,9 @@
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_MAGE",
       "SetID": "cfld5bl",
       "Name": "Mage specialist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_WARRIOR",
@@ -553,7 +558,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 1
     }
   ],
@@ -561,8 +566,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:51.248999+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:41.236258+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:01.4182002+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:26.4399719+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:51.2490368+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:48.9534182+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:41.2362928+00:00"
 }

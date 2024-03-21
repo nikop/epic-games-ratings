@@ -2,10 +2,10 @@
   "ID": "62dde68a8e2a400da4f259d970803658",
   "Name": "My Fantastic Ranch: Unicorns \u0026 Dragons",
   "ProductSlug": "my-fantastic-ranch",
-  "Ranking_EOS_Progress": 586,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 620,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
     "PcReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -282,6 +282,11 @@
       "Time": "2024-01-12T01:55:27.0083759+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:05:37.5886966+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -291,17 +296,17 @@
       "ID": "1",
       "SetID": "6ljhbe4",
       "Name": "Let the Adventure Begin!",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "11",
@@ -309,7 +314,7 @@
       "Name": "Think Positive",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "12",
@@ -331,9 +336,9 @@
       "ID": "14",
       "SetID": "6ljhbe4",
       "Name": "Festival Fever",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "15",
@@ -347,9 +352,9 @@
       "ID": "16",
       "SetID": "6ljhbe4",
       "Name": "Gotta Adopt Them All!",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "17",
@@ -363,15 +368,15 @@
       "ID": "18",
       "SetID": "6ljhbe4",
       "Name": "Diamonds in the Rough",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "19",
       "SetID": "6ljhbe4",
       "Name": "Landscaper",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -379,9 +384,9 @@
       "ID": "2",
       "SetID": "6ljhbe4",
       "Name": "Spirit of competition",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "20",
@@ -395,7 +400,7 @@
       "ID": "21",
       "SetID": "6ljhbe4",
       "Name": "Dream Big",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -403,9 +408,9 @@
       "ID": "22",
       "SetID": "6ljhbe4",
       "Name": "Just One More Go",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "23",
@@ -419,9 +424,9 @@
       "ID": "24",
       "SetID": "6ljhbe4",
       "Name": "Fully Booked!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "25",
@@ -435,25 +440,25 @@
       "ID": "3",
       "SetID": "6ljhbe4",
       "Name": "Kingdom Party Time",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "4",
       "SetID": "6ljhbe4",
       "Name": "Entering New Territory",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "5",
       "SetID": "6ljhbe4",
       "Name": "Neverending Story",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "6",
@@ -467,32 +472,32 @@
       "ID": "7",
       "SetID": "6ljhbe4",
       "Name": "Lecturer",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "8",
       "SetID": "6ljhbe4",
       "Name": "Kindred Spirits",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "9",
       "SetID": "6ljhbe4",
       "Name": "Prized Possession",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ljhbe4",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
@@ -500,8 +505,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:37.7831773+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:37.5886959+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:02.1158543+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:28.2624585+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:37.7831915+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:52.0036887+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:37.5887208+00:00"
 }

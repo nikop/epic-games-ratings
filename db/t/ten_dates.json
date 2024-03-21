@@ -2,10 +2,10 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 351,
-  "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 642,
-  "EOS_Completed": 7,
+  "EOS_Progressed": 713,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1671,6 +1671,11 @@
       "Time": "2024-02-22T21:05:31.5547667+00:00",
       "NumProgressed": 642,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-03-21T17:11:14.2588215+00:00",
+      "NumProgressed": 713,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -1680,63 +1685,63 @@
       "ID": "fail_misha",
       "SetID": "6h5h9ho",
       "Name": "Picky!",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "fail_ryan",
-      "SetID": "6h5h9ho",
-      "Name": "Picky, Picky!",
-      "Percentage": 0.5,
-      "XP": 10,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "misha_date2_all",
-      "SetID": "6h5h9ho",
-      "Name": "Playing the field",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "misha_date3_all",
-      "SetID": "6h5h9ho",
-      "Name": "Keep the spark alive",
-      "Percentage": 0,
-      "XP": 15,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "profile_misha",
-      "SetID": "6h5h9ho",
-      "Name": "Let it begin",
-      "Percentage": 2,
-      "XP": 10,
-      "UsersEstimate": 13
-    },
-    {
-      "ID": "profile_ryan",
-      "SetID": "6h5h9ho",
-      "Name": "That wasn\u0027t so bad",
-      "Percentage": 10,
-      "XP": 10,
-      "UsersEstimate": 64
-    },
-    {
-      "ID": "ryan_date2_all",
-      "SetID": "6h5h9ho",
-      "Name": "More than browsing",
       "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 2
     },
     {
+      "ID": "fail_ryan",
+      "SetID": "6h5h9ho",
+      "Name": "Picky, Picky!",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "misha_date2_all",
+      "SetID": "6h5h9ho",
+      "Name": "Playing the field",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "misha_date3_all",
+      "SetID": "6h5h9ho",
+      "Name": "Keep the spark alive",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "profile_misha",
+      "SetID": "6h5h9ho",
+      "Name": "Let it begin",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 43
+    },
+    {
+      "ID": "profile_ryan",
+      "SetID": "6h5h9ho",
+      "Name": "That wasn\u0027t so bad",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 135
+    },
+    {
+      "ID": "ryan_date2_all",
+      "SetID": "6h5h9ho",
+      "Name": "More than browsing",
+      "Percentage": 0.7,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
       "ID": "ryan_date3_all",
       "SetID": "6h5h9ho",
       "Name": "Go well, lad",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1744,105 +1749,105 @@
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 36
     },
     {
       "ID": "success_bash",
       "SetID": "6h5h9ho",
       "Name": "The lad",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 29
     },
     {
       "ID": "success_derek",
       "SetID": "6h5h9ho",
       "Name": "The debonair",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "success_hazel",
       "SetID": "6h5h9ho",
       "Name": "The individualist",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 50
     },
     {
       "ID": "success_lucas",
       "SetID": "6h5h9ho",
       "Name": "The techie",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 57
     },
     {
       "ID": "success_ty",
       "SetID": "6h5h9ho",
       "Name": "The bad boy",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "vinny_number",
       "SetID": "6h5h9ho",
       "Name": "Muggy Misha",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 642,
-      "Completed": 7
+      "Progressed": 713,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2023-02-16T03:10:27.551187+00:00",
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:31.5547664+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:14.2588208+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:17.1791867+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:01:15.9912381+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:31.5547872+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:59.3384214+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:14.258843+00:00"
 }

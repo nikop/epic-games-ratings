@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 47.00% | ~18 |
-| Recycling newbie | 42.00% | ~16 |
+| Welcome to Maupiroa | 49.00% | ~19 |
+| Recycling newbie | 44.00% | ~17 |
 | New recruit | 26.00% | ~10 |
-| Interesting | 24.00% | ~9 |
-| Amateur photographer | 16.00% | ~6 |
+| Interesting | 26.00% | ~10 |
+| Amateur photographer | 18.00% | ~7 |
+| Let's get started | 13.00% | ~5 |
 | In search of knowledge | 13.00% | ~5 |
 | Power of the dolphin | 13.00% | ~5 |
 | Power of the ray | 13.00% | ~5 |
-| Let's get started | 11.00% | ~4 |
-| Rescuer | 11.00% | ~4 |
+| Rescuer | 10.00% | ~4 |
+| Power of the turtle | 10.00% | ~4 |
 | Pro Photographer | 8.00% | ~3 |
 | Recycling expert | 8.00% | ~3 |
 | Island gardian angel | 8.00% | ~3 |
 | Picture of the bay | 8.00% | ~3 |
 | Picture of the atoll | 8.00% | ~3 |
 | Picture of the reef | 8.00% | ~3 |
-| Power of the turtle | 8.00% | ~3 |
 | Animal reporter | 5.00% | ~2 |
 | Creek cleanup | 5.00% | ~2 |
 | Atoll cleanup | 5.00% | ~2 |
@@ -29,16 +29,16 @@
 | Legend of the association | 5.00% | ~2 |
 | Picture of the creek | 5.00% | ~2 |
 | Picture of the island | 5.00% | ~2 |
+| Well of science | 5.00% | ~2 |
 | Power of the shark | 5.00% | ~2 |
 | The fifth one! | 5.00% | ~2 |
 | Recycling Legend | 3.00% | ~1 |
 | Bay cleanup | 3.00% | ~1 |
 | Island protector | 3.00% | ~1 |
-| Well of science | 3.00% | ~1 |
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38 (Ranked 610)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 39 (Ranked 655)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,3 +66,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-08 | 32 | 0 |
 | 2024-01-13 | 33 | 0 |
 | 2024-02-22 | 38 | 0 |
+| 2024-03-21 | 39 | 0 |

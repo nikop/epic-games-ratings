@@ -1,30 +1,30 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.59 (Ranked 463)  
+Rating: 4.59 (Ranked 464)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~747 |
-| Fetch Quest Complete | 90.00% | ~693 |
-| I can't wait! | 83.00% | ~639 |
-| Swish | 56.00% | ~431 |
-| Clean up on Aisle 9 | 39.00% | ~300 |
-| Machine Maxed | 29.00% | ~223 |
-| Existential dread | 26.00% | ~200 |
-| Bug Fixer | 25.00% | ~192 |
-| Gerald of Riviera | 25.00% | ~192 |
-| Goal | 21.00% | ~162 |
+| Pushing a pull door | 97.00% | ~753 |
+| Fetch Quest Complete | 90.00% | ~698 |
+| I can't wait! | 82.00% | ~636 |
+| Swish | 55.00% | ~427 |
+| Clean up on Aisle 9 | 39.00% | ~303 |
+| Machine Maxed | 28.00% | ~217 |
+| Existential dread | 27.00% | ~210 |
+| Gerald of Riviera | 25.00% | ~194 |
+| Bug Fixer | 24.00% | ~186 |
+| Goal | 21.00% | ~163 |
 | I ran the numbers | 15.00% | ~116 |
-| Taking the plunge | 13.00% | ~100 |
+| Taking the plunge | 13.00% | ~101 |
 | Hidden Packages | 11.00% | ~85 |
-| GOOOAAAL | 9.00% | ~69 |
+| GOOOAAAL | 9.00% | ~70 |
 | Ahoy Hoy | 7.00% | ~54 |
-| Rhythm is a dancer | 6.00% | ~46 |
-| New Kid on the Block | 6.00% | ~46 |
-| Jimmy Goldman Would be Proud | 6.00% | ~46 |
-| You Spin Me Round | 6.00% | ~46 |
-| Bombscare | 5.00% | ~38 |
+| New Kid on the Block | 7.00% | ~54 |
+| Rhythm is a dancer | 6.00% | ~47 |
+| Jimmy Goldman Would be Proud | 6.00% | ~47 |
+| You Spin Me Round | 6.00% | ~47 |
+| Bombscare | 5.00% | ~39 |
 | Crowning achievement | 4.00% | ~31 |
 | Your Bloody Valentine | 4.00% | ~31 |
 | GoldGuy Jr | 4.00% | ~31 |
@@ -33,11 +33,11 @@ Rating: 4.59 (Ranked 463)
 | To do. Done! | 3.00% | ~23 |
 | We come in peace | 3.00% | ~23 |
 | Hammer time | 3.00% | ~23 |
-| 1CC | 2.00% | ~15 |
-| GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~15 |
-| Modern Gorefare | 2.00% | ~15 |
-| GTA: Crime City | 2.00% | ~15 |
-| Slacker | 2.00% | ~15 |
+| 1CC | 2.00% | ~16 |
+| GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~16 |
+| Modern Gorefare | 2.00% | ~16 |
+| GTA: Crime City | 2.00% | ~16 |
+| Slacker | 2.00% | ~16 |
 | 1337 HAXXOR | 1.00% | ~8 |
 | Fresh Prince of Grindstone | 1.00% | ~8 |
 | Drop the ball | 1.00% | ~8 |
@@ -60,8 +60,8 @@ Rating: 4.59 (Ranked 463)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770 (Ranked 333)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 776 (Ranked 355)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,6 +171,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-21 | 764 | 0 |
 | 2024-01-22 | 765 | 0 |
 | 2024-02-22 | 770 | 0 |
+| 2024-03-21 | 776 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

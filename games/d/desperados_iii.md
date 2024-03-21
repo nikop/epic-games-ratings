@@ -3,6 +3,52 @@
 [View Rawdata](../../db/d/desperados_iii.json)  
 Rating: 4.84 (Ranked 50)  
 Number of Ratings: 351  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Goodbye Colorado | 15.00% | ~116 |
+| Another One Bites the Dust | 12.00% | ~93 |
+| Watch Out Below! | 12.00% | ~93 |
+| Wait, Did You Say Marshal? | 10.00% | ~77 |
+| Out of Sight, Out of Mind | 9.00% | ~70 |
+| Yakety Sax | 9.00% | ~70 |
+| Goodbye Louisiana | 8.00% | ~62 |
+| Damn Good Marksman | 7.00% | ~54 |
+| Someone Call the Undertaker | 7.00% | ~54 |
+| Package Delivered | 6.00% | ~46 |
+| Seasoned Bounty Hunter | 6.00% | ~46 |
+| Kaboom! | 5.00% | ~39 |
+| M-M-M-M-MONSTER KILL | 5.00% | ~39 |
+| Puppet Master | 5.00% | ~39 |
+| They Wear Red Bandanas | 5.00% | ~39 |
+| Five Good Shots | 4.00% | ~31 |
+| Good Girl | 4.00% | ~31 |
+| Hardcore | 3.00% | ~23 |
+| Exterminator | 2.00% | ~15 |
+| Lindberg and Hutch | 2.00% | ~15 |
+| Lost and Found | 2.00% | ~15 |
+| Maneater Shrub | 2.00% | ~15 |
+| Most Entertaining | 2.00% | ~15 |
+| Vendetta | 2.00% | ~15 |
+| Follow Me Darling | 1.00% | ~8 |
+| Inferno | 1.00% | ~8 |
+| Need a Dentist? | 1.00% | ~8 |
+| Like Clockwork | 0.90% | ~7 |
+| Gunslinger's Creed | 0.80% | ~6 |
+| The Picnic | 0.80% | ~6 |
+| Sorry Dad! | 0.60% | ~5 |
+| Sheriff's Badge | 0.40% | ~3 |
+| Chicken Dinner | 0.00% | ~0 |
+| Doubletime | 0.00% | ~0 |
+| Power Nap | 0.00% | ~0 |
+| Veteran Bounty Hunter | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 773 (Ranked 356)  
+Completed: 0 (0.00%) (Ranked 445)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 773 | 0 |
 ## Awards
 Max (Amazing Storytelling): 51  (Ranked 484)  
 Sum: 330 (Ranked 396)  

@@ -2,10 +2,10 @@
   "ID": "015763e579d4479cb1ef7780bf91804f",
   "Name": "Manifold Garden",
   "ProductSlug": "manifold-garden",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2019-10-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:28.5805893+00:00",
   "LastChanged": "2023-03-31T05:57:28.5805894+00:00",
   "LastUpdate_AppInfo": "2024-03-17T08:57:14.4144098+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:01:13.4326387+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:09:19.3724159+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:55.5473845+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:31.1353102+00:00"
 }

@@ -5,50 +5,50 @@ Rating: 3.96 (Ranked 1,101)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 0.10% | ~94 |
-| Underworld Initiate | 0.10% | ~94 |
-| Roid Ranger | 0.10% | ~94 |
-| Hidden Sonata | 0.10% | ~94 |
-| Track Star | 0.10% | ~94 |
-| Legend Looter | 0.10% | ~94 |
-| Imports and Exports | 0.10% | ~94 |
-| Rockay Raider | 0.10% | ~94 |
-| Rockay Knight | 0.10% | ~94 |
-| Savvy Seeker | 0.10% | ~94 |
-| I Like Trains | 0.10% | ~94 |
-| Foo Finder | 0.10% | ~94 |
-| Freebooter | 0.10% | ~94 |
-| Privateer | 0.10% | ~94 |
-| Headhunter | 0.10% | ~94 |
-| Talent Scout | 0.10% | ~94 |
-| Full House | 0.10% | ~94 |
-| Moneybags | 0.10% | ~94 |
-| First One’s Free | 0.10% | ~94 |
-| Downed but Not Outed | 0.10% | ~94 |
-| Groundhog Days | 0.10% | ~94 |
-| Too Old for This | 0.10% | ~94 |
-| Olympus Ascended | 0.10% | ~94 |
-| Cracked the Jack | 0.10% | ~94 |
-| Ding Dong | 0.10% | ~94 |
-| Red Star | 0.10% | ~94 |
-| Geek Out | 0.10% | ~94 |
-| Case Closed | 0.10% | ~94 |
-| King of the Hill | 0.10% | ~94 |
-| Fancy Pants | 0.10% | ~94 |
-| Classy Joint | 0.10% | ~94 |
-| True Player | 0.10% | ~94 |
-| Off the Rocks | 0.10% | ~94 |
-| Raider’s Ruin | 0.10% | ~94 |
-| Dragonslayer | 0.10% | ~94 |
-| Impossible Dreamer | 0.10% | ~94 |
-| Rockay Rex | 0.10% | ~94 |
+| Neophyte Ninja | 0.40% | ~378 |
+| First One’s Free | 0.40% | ~378 |
+| Too Old for This | 0.30% | ~284 |
+| Fancy Pants | 0.30% | ~284 |
+| Underworld Initiate | 0.20% | ~189 |
+| Headhunter | 0.20% | ~189 |
+| Downed but Not Outed | 0.20% | ~189 |
+| Case Closed | 0.20% | ~189 |
+| King of the Hill | 0.20% | ~189 |
+| True Player | 0.20% | ~189 |
+| Off the Rocks | 0.20% | ~189 |
+| Raider’s Ruin | 0.20% | ~189 |
+| Dragonslayer | 0.20% | ~189 |
+| Rockay Rex | 0.20% | ~189 |
+| Roid Ranger | 0.10% | ~95 |
+| Hidden Sonata | 0.10% | ~95 |
+| Track Star | 0.10% | ~95 |
+| Legend Looter | 0.10% | ~95 |
+| Imports and Exports | 0.10% | ~95 |
+| Rockay Raider | 0.10% | ~95 |
+| Rockay Knight | 0.10% | ~95 |
+| Savvy Seeker | 0.10% | ~95 |
+| I Like Trains | 0.10% | ~95 |
+| Foo Finder | 0.10% | ~95 |
+| Freebooter | 0.10% | ~95 |
+| Privateer | 0.10% | ~95 |
+| Talent Scout | 0.10% | ~95 |
+| Full House | 0.10% | ~95 |
+| Moneybags | 0.10% | ~95 |
+| Groundhog Days | 0.10% | ~95 |
+| Olympus Ascended | 0.10% | ~95 |
+| Cracked the Jack | 0.10% | ~95 |
+| Ding Dong | 0.10% | ~95 |
+| Red Star | 0.10% | ~95 |
+| Geek Out | 0.10% | ~95 |
+| Classy Joint | 0.10% | ~95 |
+| Impossible Dreamer | 0.10% | ~95 |
 | All that Glitters | 0.10% | ~23 |
 | All for One | 0.10% | ~23 |
 | One for All | 0.10% | ~23 |
 | Now You See Me | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,168 (Ranked 111)  
-Completed: 61 (0.06%) (Ranked 352)  
+Progressed: 94,526 (Ranked 115)  
+Completed: 61 (0.06%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,6 +331,7 @@ Completed: 61 (0.06%) (Ranked 352)
 | 2024-01-26 | 93,632 | 60 |
 | 2024-01-27 | 93,634 | 60 |
 | 2024-03-04 | 94,168 | 61 |
+| 2024-03-21 | 94,526 | 61 |
 ## Awards
 Max (Diverse Characters): 648  (Ranked 212)  
 Sum: 3,065 (Ranked 192)  

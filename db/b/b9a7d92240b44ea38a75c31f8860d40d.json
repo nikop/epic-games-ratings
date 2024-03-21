@@ -2,10 +2,10 @@
   "ID": "b9a7d92240b44ea38a75c31f8860d40d",
   "Name": "The Backrooms 1998 - Found Footage Survival Horror Game",
   "ProductSlug": "the-backrooms-1998-e7f2d7",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-29T10:00:00+00:00",
     "PcReleaseDate": "2022-05-25T23:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-03T16:57:03.4312372+00:00",
   "LastUpdate_AppInfo": "2024-03-19T09:57:27.8873886+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:19.0008545+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:21.9446476+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:43.9669223+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:40.4423356+00:00"
 }

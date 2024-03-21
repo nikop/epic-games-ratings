@@ -4,72 +4,72 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~191 |
-| Press-ganged | 43.00% | ~142 |
-| The Package | 28.00% | ~92 |
-| Conquered | 20.00% | ~66 |
-| Randomized | 19.00% | ~63 |
-| Scribe | 12.00% | ~40 |
-| Breached | 12.00% | ~40 |
-| Conciliator | 11.00% | ~36 |
-| Tactician | 11.00% | ~36 |
-| Fight Another Day | 10.00% | ~33 |
-| Taskmaster | 10.00% | ~33 |
-| Acquaintance | 8.00% | ~26 |
-| Scholar | 7.00% | ~23 |
-| The More the Merrier | 7.00% | ~23 |
-| Deputized | 7.00% | ~23 |
-| Harbinger | 7.00% | ~23 |
-| Tail-wind | 7.00% | ~23 |
-| Pilgrimage's End | 7.00% | ~23 |
-| Merchant | 7.00% | ~23 |
+| A Second Chance | 58.00% | ~197 |
+| Press-ganged | 44.00% | ~150 |
+| The Package | 28.00% | ~95 |
+| Conquered | 20.00% | ~68 |
+| Randomized | 19.00% | ~65 |
+| Scribe | 12.00% | ~41 |
+| Conciliator | 11.00% | ~37 |
+| Tactician | 11.00% | ~37 |
+| Breached | 11.00% | ~37 |
+| Fight Another Day | 10.00% | ~34 |
+| Taskmaster | 10.00% | ~34 |
+| Acquaintance | 8.00% | ~27 |
+| Tail-wind | 8.00% | ~27 |
+| Scholar | 7.00% | ~24 |
+| The More the Merrier | 7.00% | ~24 |
+| Harbinger | 7.00% | ~24 |
+| Merchant | 7.00% | ~24 |
+| Strategist | 6.00% | ~20 |
+| Deputized | 6.00% | ~20 |
 | Courier | 6.00% | ~20 |
-| Quartermaster | 5.00% | ~16 |
-| Strategist | 5.00% | ~16 |
-| Been There | 5.00% | ~16 |
-| Spiritual Journey | 5.00% | ~16 |
-| Trouble at Fort Larius | 5.00% | ~16 |
-| Potential Unlocked | 4.00% | ~13 |
-| Despised | 4.00% | ~13 |
-| A Terrible Will | 4.00% | ~13 |
-| Inquisitions of Discord | 4.00% | ~13 |
-| Unseen Patterns | 4.00% | ~13 |
+| Pilgrimage's End | 6.00% | ~20 |
+| Quartermaster | 5.00% | ~17 |
+| Been There | 5.00% | ~17 |
+| Spiritual Journey | 5.00% | ~17 |
+| Trouble at Fort Larius | 5.00% | ~17 |
+| Potential Unlocked | 4.00% | ~14 |
+| Xevarian Gambit | 4.00% | ~14 |
+| The Voice of Hereafter | 4.00% | ~14 |
+| Despised | 4.00% | ~14 |
+| A Terrible Will | 4.00% | ~14 |
+| Inquisitions of Discord | 4.00% | ~14 |
+| Unseen Patterns | 4.00% | ~14 |
 | Supercargo | 3.00% | ~10 |
 | Huntress Unbound | 3.00% | ~10 |
-| Xevarian Gambit | 3.00% | ~10 |
-| The Voice of Hereafter | 3.00% | ~10 |
+| Legacy of a Mercenary | 3.00% | ~10 |
 | A Real Battle | 3.00% | ~10 |
 | Life... Finds a Way | 3.00% | ~10 |
 | Merchant Lord | 3.00% | ~10 |
 | Insectoid Propagator | 3.00% | ~10 |
 | Bounty Hunter | 2.00% | ~7 |
 | Watcher | 2.00% | ~7 |
-| Loremaster | 2.00% | ~7 |
-| Talent Nurtured | 2.00% | ~7 |
 | Business As Usual | 2.00% | ~7 |
-| Legacy of a Mercenary | 2.00% | ~7 |
 | Trailblazer | 2.00% | ~7 |
-| Moving At Odd Angles | 2.00% | ~7 |
 | Delayed | 2.00% | ~7 |
-| The Darkness Within | 2.00% | ~7 |
-| Theory to Practice | 2.00% | ~7 |
 | Wyrmslayer | 2.00% | ~7 |
 | Glorious leader | 2.00% | ~7 |
 | Making Contact | 1.00% | ~3 |
+| Loremaster | 1.00% | ~3 |
+| Talent Nurtured | 1.00% | ~3 |
 | Ever After | 1.00% | ~3 |
 | Loader | 1.00% | ~3 |
+| Moving At Odd Angles | 1.00% | ~3 |
+| The Darkness Within | 1.00% | ~3 |
+| What Lies Below | 1.00% | ~3 |
+| The Last Voyage | 1.00% | ~3 |
+| Theory to Practice | 1.00% | ~3 |
+| Voracity Confronted | 1.00% | ~3 |
 | Executor | 0.90% | ~3 |
 | Adept | 0.90% | ~3 |
 | Embellished | 0.90% | ~3 |
+| Forged in Battle | 0.90% | ~3 |
 | Manticore | 0.90% | ~3 |
-| What Lies Below | 0.90% | ~3 |
-| The Last Voyage | 0.90% | ~3 |
-| Voracity Confronted | 0.90% | ~3 |
-| Forged in Battle | 0.60% | ~2 |
+| Despoiler | 0.90% | ~3 |
 | Huntsmaster | 0.60% | ~2 |
 | Mercenary | 0.60% | ~2 |
 | Escort | 0.60% | ~2 |
-| Despoiler | 0.60% | ~2 |
 | Ruiner | 0.60% | ~2 |
 | Arcanite | 0.60% | ~2 |
 | And the Sky Full of Stars | 0.30% | ~1 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 409)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 340 (Ranked 435)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,6 +227,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-25 | 315 | 0 |
 | 2024-01-27 | 317 | 0 |
 | 2024-02-22 | 330 | 0 |
+| 2024-03-21 | 340 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

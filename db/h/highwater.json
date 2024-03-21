@@ -2,10 +2,10 @@
   "ID": "2fd699bb8dbc4bff8402747f2e14c1ae",
   "Name": "Highwater",
   "ProductSlug": "highwater-090fb0",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-14T07:00:00+00:00",
     "PcReleaseDate": "2024-03-14T07:00:00+00:00",
@@ -28,11 +28,182 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-03-21T17:06:54.8262494+00:00",
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Bookworm",
+      "SetID": "35a8278",
+      "Name": "Bookworm",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boondoggle",
+      "SetID": "35a8278",
+      "Name": "Boondoggle",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CatPerson",
+      "SetID": "35a8278",
+      "Name": "Cat Person",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ChessPuzzle",
+      "SetID": "35a8278",
+      "Name": "Chess Puzzle",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DogLover",
+      "SetID": "35a8278",
+      "Name": "Dog Lover",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Expert",
+      "SetID": "35a8278",
+      "Name": "Lisp Expert",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoodSamaritan",
+      "SetID": "35a8278",
+      "Name": "Good Samaritan",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HighwaterToday",
+      "SetID": "35a8278",
+      "Name": "Highwater Today",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hurricane",
+      "SetID": "35a8278",
+      "Name": "Hurricane",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KidneySold",
+      "SetID": "35a8278",
+      "Name": "Kidney Sold",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LeavingEarth",
+      "SetID": "35a8278",
+      "Name": "Leaving Earth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LongTermConsequences",
+      "SetID": "35a8278",
+      "Name": "Long-Term Consequences",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP",
+      "SetID": "35a8278",
+      "Name": "MVP",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MadeIt",
+      "SetID": "35a8278",
+      "Name": "Made It!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MovieTriviaNights",
+      "SetID": "35a8278",
+      "Name": "Movie Trivia Night",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PerfectRun",
+      "SetID": "35a8278",
+      "Name": "Perfect Run",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RevengeOfThePig",
+      "SetID": "35a8278",
+      "Name": "Revenge of the Pig",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SayCheese",
+      "SetID": "35a8278",
+      "Name": "Say Cheese!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SupplementJunkie",
+      "SetID": "35a8278",
+      "Name": "Supplement Junkie",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UnbalancedMechanic",
+      "SetID": "35a8278",
+      "Name": "Unbalanced Mechanic",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "35a8278",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:06:54.8262493+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:54.8262475+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:23.2863564+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:50.1490339+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:35.4419905+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:48.316914+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:54.827123+00:00"
 }

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Greengrocer | 30.00% | ~13 |
+| Greengrocer | 29.00% | ~13 |
 | Cabbage in the Baggage | 27.00% | ~12 |
-| Seven Days of Endless Adventure | 23.00% | ~10 |
+| Seven Days of Endless Adventure | 24.00% | ~11 |
 | Go-Getter | 18.00% | ~8 |
 | River Cleaner | 18.00% | ~8 |
 | Masu-ter Angler | 16.00% | ~7 |
 | Handyman Extraordinaire | 16.00% | ~7 |
-| Seven Days of Endless Adventure - Déjà Vu | 14.00% | ~6 |
-| Just Hoverin' Along | 14.00% | ~6 |
-| What's That Smell? | 14.00% | ~6 |
-| It's Alive! | 14.00% | ~6 |
+| Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~6 |
+| Just Hoverin' Along | 13.00% | ~6 |
+| What's That Smell? | 13.00% | ~6 |
+| It's Alive! | 13.00% | ~6 |
 | A New Time | 11.00% | ~5 |
 | Farm Life! | 11.00% | ~5 |
 | Dragonfly Whiz | 9.00% | ~4 |
@@ -29,12 +29,12 @@
 | The Holly Grail | 7.00% | ~3 |
 | That Was a Snap! | 7.00% | ~3 |
 | Asso Bridge Enthusiast | 7.00% | ~3 |
-| Beetle Savant | 5.00% | ~2 |
-| Biwa Be Mine | 5.00% | ~2 |
-| Ice Fishing | 5.00% | ~2 |
-| Veggie Virtuoso | 5.00% | ~2 |
-| T-Rex Wrangler | 5.00% | ~2 |
-| Gumdum Robot, I Choose You! | 5.00% | ~2 |
+| Beetle Savant | 4.00% | ~2 |
+| Biwa Be Mine | 4.00% | ~2 |
+| Ice Fishing | 4.00% | ~2 |
+| Veggie Virtuoso | 4.00% | ~2 |
+| T-Rex Wrangler | 4.00% | ~2 |
+| Gumdum Robot, I Choose You! | 4.00% | ~2 |
 | Bee Professor | 2.00% | ~1 |
 | Grasshopper Guru | 2.00% | ~1 |
 | Butterfly Maestro | 2.00% | ~1 |
@@ -51,8 +51,8 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 599)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 45 (Ranked 642)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-03 | 42 | 0 |
 | 2024-01-26 | 43 | 0 |
 | 2024-02-22 | 44 | 0 |
+| 2024-03-21 | 45 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

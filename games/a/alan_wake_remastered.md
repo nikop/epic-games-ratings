@@ -6,76 +6,76 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 70.00% | ~107,739 |
-| Let There Be Light | 59.00% | ~90,809 |
-| Float Like a Butterfly | 57.00% | ~87,730 |
-| Nordic Walking | 47.00% | ~72,339 |
-| Bright Falls' Finest | 46.00% | ~70,800 |
-| Under a Thin Layer of Skin | 41.00% | ~63,104 |
-| Park Ranger | 35.00% | ~53,870 |
-| Paging Mr. Wake | 35.00% | ~53,870 |
-| Back! Back, I Say! | 33.00% | ~50,791 |
-| Finders Keepers | 32.00% | ~49,252 |
-| Damn Good Cup of Coffee | 31.00% | ~47,713 |
-| They're Heeeeeere! | 30.00% | ~46,174 |
-| Sound and Fury | 30.00% | ~46,174 |
-| Missed by a Mile | 30.00% | ~46,174 |
-| Wheels Within Wheels | 29.00% | ~44,635 |
-| The Six-Gun Scribe | 28.00% | ~43,096 |
-| Collateral Carnage | 27.00% | ~41,557 |
-| Iron Horse | 26.00% | ~40,017 |
-| Come One, Come All | 26.00% | ~40,017 |
-| Heavy Metal | 25.00% | ~38,478 |
-| Perchance to Dream | 25.00% | ~38,478 |
-| It's Not Just a Typewriter Brand | 24.00% | ~36,939 |
-| Thunder and Lightning | 24.00% | ~36,939 |
-| Gatekeeper | 23.00% | ~35,400 |
-| Two For the Price of One | 22.00% | ~33,861 |
-| The Lady of the Light | 21.00% | ~32,322 |
-| Energized! | 21.00% | ~32,322 |
-| Right of Way | 18.00% | ~27,704 |
-| What Light Through Yonder Window | 17.00% | ~26,165 |
-| Tornado Wrangler | 16.00% | ~24,626 |
-| Departure | 15.00% | ~23,087 |
-| Hardboiled Writer | 12.00% | ~18,470 |
-| Drink 'Em Both Up | 11.00% | ~16,930 |
-| Children of the Elder God | 10.00% | ~15,391 |
-| A Friend in Need | 10.00% | ~11,738 |
-| Boob Tube | 9.00% | ~13,852 |
-| If It Flies, It Burns | 9.00% | ~13,852 |
-| KBF-FM | 8.00% | ~12,313 |
-| A Friend Indeed | 8.00% | ~9,390 |
-| Ding! | 7.00% | ~8,217 |
-| Carny | 5.00% | ~7,696 |
-| An Idyllic Small Town | 5.00% | ~7,696 |
-| Medical Opinions | 4.00% | ~6,157 |
-| Taken Season | 4.00% | ~6,157 |
-| Kill Your Darlings | 4.00% | ~4,695 |
-| Heartbreaker | 4.00% | ~4,695 |
-| Couch Potato | 3.00% | ~4,617 |
-| Iron Will | 2.00% | ~2,348 |
-| Go Gentle Into That Good Light | 1.00% | ~1,174 |
-| Meet the Deadline | 0.70% | ~1,077 |
-| Words Will Never Harm You | 0.70% | ~822 |
-| Fast and Furious | 0.60% | ~704 |
-| Cardboard Companions | 0.60% | ~704 |
-| Alan, Wake Up | 0.50% | ~770 |
-| Picking Up After Yourself | 0.50% | ~770 |
-| License Revoked | 0.50% | ~587 |
-| Whirlwind | 0.50% | ~587 |
-| Creative Space | 0.50% | ~587 |
-| Bright Falls Aficionado | 0.40% | ~616 |
-| Run-On Sentence | 0.40% | ~470 |
-| Gunless Wonder | 0.30% | ~462 |
-| Every Nook and Cranny | 0.30% | ~462 |
-| Collector's Edition | 0.30% | ~462 |
-| Tick Tock | 0.30% | ~352 |
-| Hypercaffeinated | 0.20% | ~308 |
-| Licensed Properties | 0.20% | ~235 |
-| No Punctuation | 0.10% | ~117 |
+| Follow the Light | 71.00% | ~112,639 |
+| Let There Be Light | 59.00% | ~93,601 |
+| Float Like a Butterfly | 57.00% | ~90,428 |
+| Nordic Walking | 47.00% | ~74,564 |
+| Bright Falls' Finest | 46.00% | ~72,977 |
+| Under a Thin Layer of Skin | 42.00% | ~66,631 |
+| Park Ranger | 35.00% | ~55,526 |
+| Paging Mr. Wake | 35.00% | ~55,526 |
+| Back! Back, I Say! | 34.00% | ~53,940 |
+| Finders Keepers | 32.00% | ~50,767 |
+| Sound and Fury | 31.00% | ~49,180 |
+| Damn Good Cup of Coffee | 31.00% | ~49,180 |
+| They're Heeeeeere! | 30.00% | ~47,594 |
+| Missed by a Mile | 30.00% | ~47,594 |
+| Wheels Within Wheels | 29.00% | ~46,007 |
+| The Six-Gun Scribe | 28.00% | ~44,421 |
+| Collateral Carnage | 27.00% | ~42,834 |
+| Iron Horse | 26.00% | ~41,248 |
+| Perchance to Dream | 26.00% | ~41,248 |
+| Come One, Come All | 26.00% | ~41,248 |
+| Heavy Metal | 25.00% | ~39,662 |
+| It's Not Just a Typewriter Brand | 24.00% | ~38,075 |
+| Thunder and Lightning | 24.00% | ~38,075 |
+| Gatekeeper | 23.00% | ~36,489 |
+| Two For the Price of One | 23.00% | ~36,489 |
+| The Lady of the Light | 22.00% | ~34,902 |
+| Energized! | 22.00% | ~34,902 |
+| Right of Way | 18.00% | ~28,556 |
+| What Light Through Yonder Window | 17.00% | ~26,970 |
+| Tornado Wrangler | 16.00% | ~25,383 |
+| Departure | 15.00% | ~23,797 |
+| Hardboiled Writer | 12.00% | ~19,038 |
+| Drink 'Em Both Up | 11.00% | ~17,451 |
+| Children of the Elder God | 10.00% | ~15,865 |
+| A Friend in Need | 10.00% | ~12,211 |
+| Boob Tube | 9.00% | ~14,278 |
+| If It Flies, It Burns | 9.00% | ~14,278 |
+| KBF-FM | 9.00% | ~14,278 |
+| A Friend Indeed | 8.00% | ~9,769 |
+| Ding! | 7.00% | ~8,548 |
+| Carny | 5.00% | ~7,932 |
+| An Idyllic Small Town | 5.00% | ~7,932 |
+| Medical Opinions | 4.00% | ~6,346 |
+| Taken Season | 4.00% | ~6,346 |
+| Kill Your Darlings | 4.00% | ~4,885 |
+| Heartbreaker | 4.00% | ~4,885 |
+| Couch Potato | 3.00% | ~4,759 |
+| Iron Will | 2.00% | ~2,442 |
+| Go Gentle Into That Good Light | 1.00% | ~1,221 |
+| Meet the Deadline | 0.70% | ~1,111 |
+| Words Will Never Harm You | 0.70% | ~855 |
+| Fast and Furious | 0.60% | ~733 |
+| Cardboard Companions | 0.60% | ~733 |
+| Alan, Wake Up | 0.50% | ~793 |
+| Picking Up After Yourself | 0.50% | ~793 |
+| License Revoked | 0.50% | ~611 |
+| Whirlwind | 0.50% | ~611 |
+| Creative Space | 0.50% | ~611 |
+| Bright Falls Aficionado | 0.40% | ~635 |
+| Run-On Sentence | 0.40% | ~488 |
+| Gunless Wonder | 0.30% | ~476 |
+| Every Nook and Cranny | 0.30% | ~476 |
+| Collector's Edition | 0.30% | ~476 |
+| Tick Tock | 0.30% | ~366 |
+| Hypercaffeinated | 0.20% | ~317 |
+| Licensed Properties | 0.20% | ~244 |
+| No Punctuation | 0.10% | ~122 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153,913 (Ranked 89)  
-Completed: 171 (0.11%) (Ranked 331)  
+Progressed: 158,646 (Ranked 92)  
+Completed: 179 (0.11%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -358,10 +358,11 @@ Completed: 171 (0.11%) (Ranked 331)
 | 2024-01-26 | 147,678 | 156 |
 | 2024-01-27 | 147,834 | 157 |
 | 2024-02-22 | 153,913 | 171 |
+| 2024-03-21 | 158,646 | 179 |
 ## Awards
 Max (Amazing Characters): 20  (Ranked 613)  
-Sum: 60 (Ranked 532)  
-Diff (max vs sum): 81  
+Sum: 60 (Ranked 533)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 153 |

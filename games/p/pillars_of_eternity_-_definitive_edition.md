@@ -6,11 +6,11 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 84.00% | ~901 |
-| Completed Act I | 31.00% | ~333 |
-| 5 Upgrades in Stronghold | 27.00% | ~290 |
+| Kickstarter Backer | 84.00% | ~900 |
+| Completed Act I | 32.00% | ~343 |
+| 5 Upgrades in Stronghold | 27.00% | ~289 |
 | First 5 Levels of Od Nua | 25.00% | ~268 |
-| Make an Adventurer | 23.00% | ~247 |
+| Make an Adventurer | 24.00% | ~257 |
 | Completed Act II | 17.00% | ~182 |
 | Enchanter | 16.00% | ~172 |
 | Disposition | 16.00% | ~172 |
@@ -20,24 +20,24 @@ Number of Ratings: 2,847  (23.09.2022)
 | Middle 5 Levels of Od Nua | 15.00% | ~161 |
 | Soulbinder | 14.00% | ~150 |
 | The Heir of Caed Nua | 13.00% | ~139 |
-| Last 5 Levels of Od Nua | 12.00% | ~129 |
+| Last 5 Levels of Od Nua | 13.00% | ~139 |
 | Bounty Hunter | 11.00% | ~118 |
 | The Giftbearer | 11.00% | ~118 |
-| Trappy | 9.00% | ~97 |
-| Herald of the Old Flame | 9.00% | ~97 |
-| Watcher at the Breach | 9.00% | ~97 |
+| Watcher at the Breach | 10.00% | ~107 |
+| Trappy | 9.00% | ~96 |
+| Herald of the Old Flame | 9.00% | ~96 |
 | Completed Act III | 8.00% | ~86 |
 | Fish Guts and Murder | 8.00% | ~86 |
 | Alchemist | 7.00% | ~75 |
+| A Voice from the Deep | 7.00% | ~75 |
 | The Siege of Crägholdt | 7.00% | ~75 |
 | Explorer | 6.00% | ~64 |
-| A Voice from the Deep | 6.00% | ~64 |
 | Called to their Labor | 6.00% | ~64 |
 | Chef | 5.00% | ~54 |
+| Scribe | 5.00% | ~54 |
 | From the Clouds to the Depths | 5.00% | ~54 |
 | Appease All of the Gods | 5.00% | ~54 |
 | Terror of the White March | 5.00% | ~54 |
-| Scribe | 4.00% | ~43 |
 | The Storied Adventurer | 4.00% | ~43 |
 | Won the Game!!! | 3.00% | ~32 |
 | Among the Moss and Peat | 2.00% | ~21 |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073 (Ranked 305)  
-Completed: 2 (0.19%) (Ranked 300)  
+Progressed: 1,072 (Ranked 330)  
+Completed: 2 (0.19%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,6 +120,7 @@ Completed: 2 (0.19%) (Ranked 300)
 | 2024-01-13 | 1,076 | 2 |
 | 2024-01-16 | 1,074 | 2 |
 | 2024-01-18 | 1,073 | 2 |
+| 2024-03-21 | 1,072 | 2 |
 ## Awards
 Max (Character Customization): 1,983  (Ranked 129)  
 Sum: 4,894 (Ranked 160)  

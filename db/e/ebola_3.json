@@ -2,10 +2,10 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 371,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 477,
+  "EOS_Progressed": 496,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1471,6 +1471,11 @@
       "Time": "2024-02-22T21:05:54.033497+00:00",
       "NumProgressed": 477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:43.9033144+00:00",
+      "NumProgressed": 496,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1480,49 +1485,49 @@
       "ID": "achAlice",
       "SetID": "72gjli4",
       "Name": "Boss 1 \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "achAliceTwo",
       "SetID": "72gjli4",
       "Name": "Alice \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "achAntivirus",
       "SetID": "72gjli4",
       "Name": "Antivirus \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 278
     },
     {
       "ID": "achBett",
       "SetID": "72gjli4",
       "Name": "Betty \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "achBrain",
       "SetID": "72gjli4",
       "Name": "Brain \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "achCar",
@@ -1536,17 +1541,17 @@
       "ID": "achCheet",
       "SetID": "72gjli4",
       "Name": "Cheats \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 278
     },
     {
       "ID": "achCity",
@@ -1554,7 +1559,7 @@
       "Name": "City \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "achCoinOne",
@@ -1594,7 +1599,7 @@
       "Name": "Crocodile Attack \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achCrow",
@@ -1608,9 +1613,9 @@
       "ID": "achDeva",
       "SetID": "72gjli4",
       "Name": "Secret \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "achDictator",
@@ -1626,15 +1631,15 @@
       "Name": "Doberman \u2714",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "achEva",
       "SetID": "72gjli4",
       "Name": "Eva \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "achExplosion",
@@ -1642,23 +1647,23 @@
       "Name": "Survival \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "achFood",
       "SetID": "72gjli4",
       "Name": "Food \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "achGameHard",
       "SetID": "72gjli4",
       "Name": "Hardcore \u2714",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achHospital",
@@ -1666,7 +1671,7 @@
       "Name": "Hospital \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "achIvan",
@@ -1674,15 +1679,15 @@
       "Name": "Group Alpha \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achKloyn",
       "SetID": "72gjli4",
       "Name": "Fright \u2714",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 312
     },
     {
       "ID": "achLizun",
@@ -1690,7 +1695,7 @@
       "Name": "Mutant fight \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achLizunTwo",
@@ -1698,23 +1703,23 @@
       "Name": "Mutant run \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achMaikl",
       "SetID": "72gjli4",
       "Name": "Fraternal help \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 35
     },
     {
       "ID": "achOsipovOne",
       "SetID": "72gjli4",
       "Name": "Sheriff \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "achOsipovTwo",
@@ -1722,23 +1727,23 @@
       "Name": "Osipov\u0027s video message \u2714",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achPlotOne",
       "SetID": "72gjli4",
       "Name": "City on fire \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "achPlotThree",
       "SetID": "72gjli4",
       "Name": "Infected \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 25
     },
     {
       "ID": "achPlotTwo",
@@ -1754,15 +1759,15 @@
       "Name": "Police officers \u2714",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 139
     },
     {
       "ID": "achPriest",
       "SetID": "72gjli4",
       "Name": "Priest \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "achRankOne",
@@ -1770,7 +1775,7 @@
       "Name": "Rank B\u002B \u2714",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achRankThree",
@@ -1786,15 +1791,15 @@
       "Name": "Rank A \u2714",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achSave",
       "SetID": "72gjli4",
       "Name": "King of survival \u2714",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "achSecretos",
@@ -1802,15 +1807,15 @@
       "Name": "All secrets revealed \u2714",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achSeif",
       "SetID": "72gjli4",
       "Name": "Master of Unlocking \u2714",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "achShahmat",
@@ -1818,31 +1823,31 @@
       "Name": "Chess \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "achSpped",
       "SetID": "72gjli4",
       "Name": "Speedrun \u2714",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 124
     },
     {
       "ID": "achVip",
       "SetID": "72gjli4",
       "Name": "VIP \u2714",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "achVitali",
@@ -1850,38 +1855,38 @@
       "Name": "Broadcasting \u2714",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "achWater",
       "SetID": "72gjli4",
       "Name": "Thirst \u2714",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "achWeapon",
       "SetID": "72gjli4",
       "Name": "Weapon \u2714",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 60
     },
     {
       "ID": "achWorms",
       "SetID": "72gjli4",
       "Name": "Boss 3 \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 477,
+      "Progressed": 496,
       "Completed": 0
     }
   ],
@@ -1889,8 +1894,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:54.0334967+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:43.9033139+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:57:47.1933082+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:35.1408846+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:54.0335729+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:35.0707453+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:43.9033644+00:00"
 }

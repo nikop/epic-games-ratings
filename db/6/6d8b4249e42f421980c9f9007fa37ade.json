@@ -2,10 +2,10 @@
   "ID": "6d8b4249e42f421980c9f9007fa37ade",
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
-  "Ranking_EOS_Progress": 495,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 522,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2024-01-23T20:04:24.0451493+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:27.7969168+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -628,33 +633,33 @@
       "ID": "Epic_ArcGenerator_1",
       "SetID": "ba1m2fc",
       "Name": "10,000-Volt Electric Field",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "Epic_AsteroidBase_1",
       "SetID": "ba1m2fc",
       "Name": "End Day",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "Epic_ChainSaw_1",
       "SetID": "ba1m2fc",
       "Name": "Maimed Bodies",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Epic_Challenger_1",
@@ -668,17 +673,17 @@
       "ID": "Epic_Champagne_1",
       "SetID": "ba1m2fc",
       "Name": "Booming Cannon Salute",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "Epic_DailyTask_100",
       "SetID": "ba1m2fc",
       "Name": "Good Harvest",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_DangerousDrive_1",
@@ -694,7 +699,7 @@
       "Name": "Reincarnation",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Epic_DesperateSurvival_10",
@@ -708,9 +713,9 @@
       "ID": "Epic_Dominator_1",
       "SetID": "ba1m2fc",
       "Name": "Abyss Dominator",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Epic_Drinking_30",
@@ -724,9 +729,9 @@
       "ID": "Epic_Experience_100000000",
       "SetID": "ba1m2fc",
       "Name": "Sea of Chaos",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Epic_Firefly_1",
@@ -734,23 +739,23 @@
       "Name": "Stars\u0027 Shimmer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "Epic_Formula_12",
       "SetID": "ba1m2fc",
       "Name": "Dionysus",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_FruitPlanet_1",
       "SetID": "ba1m2fc",
       "Name": "Bad Apple",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Epic_GoldenCity_1",
@@ -758,7 +763,7 @@
       "Name": "Dystopia",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -780,9 +785,9 @@
       "ID": "Epic_HeartlessBow_1",
       "SetID": "ba1m2fc",
       "Name": "Heart-aimed Arrow",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "Epic_HolyLight_1",
@@ -790,15 +795,15 @@
       "Name": "Exorcism",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 112
     },
     {
       "ID": "Epic_HomeRun_1",
       "SetID": "ba1m2fc",
       "Name": "Home Run",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
@@ -806,39 +811,39 @@
       "Name": "Wrecking Ball",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "Epic_InnerWorld_1",
       "SetID": "ba1m2fc",
       "Name": "Pseudo-redemption",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "Epic_KillBoss_25",
       "SetID": "ba1m2fc",
       "Name": "Extinction",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_KillElite_500",
       "SetID": "ba1m2fc",
       "Name": "Mousetrap",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "Epic_Kill_1000000",
       "SetID": "ba1m2fc",
       "Name": "Easy Defeat",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Epic_Live_100000",
@@ -852,17 +857,17 @@
       "ID": "Epic_Matador_1",
       "SetID": "ba1m2fc",
       "Name": "Matador",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Epic_NinjaSword_1",
       "SetID": "ba1m2fc",
       "Name": "Knife Out",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -884,9 +889,9 @@
       "ID": "Epic_PickProps_50",
       "SetID": "ba1m2fc",
       "Name": "Deus Ex Machina",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Epic_Purgatory_1",
@@ -894,7 +899,7 @@
       "Name": "Paradise Lost",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 106
     },
     {
       "ID": "Epic_Revenge_1",
@@ -908,25 +913,25 @@
       "ID": "Epic_RocketCat_1",
       "SetID": "ba1m2fc",
       "Name": "Kitty of Mass Destruction",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "Epic_ShellBreaking_1",
       "SetID": "ba1m2fc",
       "Name": "Shellbreaking Day",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Epic_Shotgun_1",
@@ -934,39 +939,39 @@
       "Name": "Deadly Twin Cracks",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "Epic_SmallBell_1",
       "SetID": "ba1m2fc",
       "Name": "Ancient Murmur",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "Epic_SpendMoney_100000",
       "SetID": "ba1m2fc",
       "Name": "God of Wealth",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "Epic_Times_100",
@@ -980,9 +985,9 @@
       "ID": "Epic_Tornado_1",
       "SetID": "ba1m2fc",
       "Name": "Winds of Destruction",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 89
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -996,9 +1001,9 @@
       "ID": "Epic_WildFire_1",
       "SetID": "ba1m2fc",
       "Name": "Spark Starts Prairie Fire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -1013,14 +1018,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:45.6991006+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:27.7969161+00:00",
   "LastUpdate_AppInfo": "2024-03-15T03:57:15.6768597+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:28.5685517+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:45.6991305+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:40.895552+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:27.7969626+00:00"
 }

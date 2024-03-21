@@ -2,10 +2,10 @@
   "ID": "8d473e8643ba4e50a5b3a01f31b80c8c",
   "Name": "Don\u0027t Byte Your Tongue",
   "ProductSlug": "dont-byte-your-tongue-da237b",
-  "Ranking_EOS_Progress": 655,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-07T07:00:00+00:00",
     "PcReleaseDate": "2023-04-07T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -78,6 +78,11 @@
     {
       "Time": "2024-01-07T10:06:14.0968114+00:00",
       "NumProgressed": 21,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:12:43.423616+00:00",
+      "NumProgressed": 22,
       "NumCompleted": 0
     }
   ],
@@ -264,7 +269,7 @@
       "ID": "NEW_CHALLENGE",
       "SetID": "dkj0bmo",
       "Name": "I Need A Challenge",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -272,9 +277,9 @@
       "ID": "NPC_CHAT",
       "SetID": "dkj0bmo",
       "Name": "Hello, Friend!",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NPC_CHAT_ALL",
@@ -288,7 +293,7 @@
       "ID": "NPC_ROAST",
       "SetID": "dkj0bmo",
       "Name": "What\u0027s so hard about going up?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -337,14 +342,14 @@
     {
       "ID": "dkj0bmo",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-12T10:01:11.6414122+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:46.226412+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:53.3858283+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:43.4236151+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:31.7592696+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:00.4504221+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:53.3858518+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:02.1798953+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:43.4236352+00:00"
 }

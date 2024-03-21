@@ -2,10 +2,10 @@
   "ID": "7d8459956d774d788532fd472b437df8",
   "Name": "Bunny Park",
   "ProductSlug": "bunny-park-835c4c",
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-01-14T12:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 324,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -255,6 +255,11 @@
       "Time": "2024-02-22T21:05:42.4353283+00:00",
       "NumProgressed": 320,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-03-21T17:11:28.9476593+00:00",
+      "NumProgressed": 324,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 18,
@@ -266,15 +271,15 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 314
     },
     {
       "ID": "BP-02",
       "SetID": "7fc93f2",
       "Name": "Bunny Party",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 113
     },
     {
       "ID": "BP-03",
@@ -282,7 +287,7 @@
       "Name": "Bunny Fluffle",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BP-04",
@@ -290,7 +295,7 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 272
     },
     {
       "ID": "BP-05",
@@ -298,7 +303,7 @@
       "Name": "Debris Gatherer",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 194
     },
     {
       "ID": "BP-06",
@@ -306,7 +311,7 @@
       "Name": "Debris Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "BP-07",
@@ -314,7 +319,7 @@
       "Name": "Beginner Decorator",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "BP-08",
@@ -322,15 +327,15 @@
       "Name": "Stylish Decorator",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "BP-09",
       "SetID": "7fc93f2",
       "Name": "Ace Decorator",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "BP-10",
@@ -338,7 +343,7 @@
       "Name": "Bunny Cuddles",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "BP-11",
@@ -352,25 +357,25 @@
       "ID": "BP-12",
       "SetID": "7fc93f2",
       "Name": "Cozy Autumn",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 120
     },
     {
       "ID": "BP-13",
       "SetID": "7fc93f2",
       "Name": "Winter Wonderland",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "BP-14",
       "SetID": "7fc93f2",
       "Name": "Spring Blossom",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 23
     },
     {
       "ID": "BP-15",
@@ -378,15 +383,15 @@
       "Name": "Helpful Bot-terfly",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "BP-16",
       "SetID": "7fc93f2",
       "Name": "Pom Pom",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "BP-17",
@@ -402,14 +407,14 @@
       "Name": "Park Manager",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 324,
       "Completed": 10
     }
   ],
@@ -417,8 +422,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:42.4353281+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:28.9476586+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:29.3714501+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:13.4413976+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:42.4353369+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:13.7735495+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:28.9476717+00:00"
 }

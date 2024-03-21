@@ -2,10 +2,10 @@
   "ID": "f9b5fde4c25442e5b6dd30e19ac26580",
   "Name": "Return of Red Riding Hood Enhanced Edition",
   "ProductSlug": "return-of-red-riding-hood-enhanced-edition-3598e4",
-  "Ranking_EOS_Progress": 653,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 691,
+  "Ranking_EOS_Completed": 110,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-22T09:00:00+00:00",
     "PcReleaseDate": "2018-01-19T10:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 22,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 27,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 3.7,
   "EosHistory": [
     {
       "Time": "2023-12-23T08:04:54.0927428+00:00",
@@ -117,6 +117,11 @@
       "Time": "2024-03-04T23:05:16.095845+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:13:06.4639574+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-20T18:03:33.8802079+00:00",
@@ -127,9 +132,9 @@
       "ID": "ADVANTAGEOUSINVESTMENT",
       "SetID": "bfiopga",
       "Name": "Advantageous investment",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ADVENTUREBEGINS",
@@ -137,412 +142,412 @@
       "Name": "Adventure begins",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "ATTENTIONTODETAIL",
       "SetID": "bfiopga",
       "Name": "Attention to detail",
-      "Percentage": 9,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "AWFULDREAM",
       "SetID": "bfiopga",
       "Name": "An awful dream",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BEPREPARED",
       "SetID": "bfiopga",
       "Name": "Be prepared",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "BUSYWOLF",
       "SetID": "bfiopga",
       "Name": "Busy wolf",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "CLASSICENDING",
       "SetID": "bfiopga",
       "Name": "Classic ending",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "COLOURLESSEXISTENCE",
       "SetID": "bfiopga",
       "Name": "Colourless existence",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DESERVEDREST",
       "SetID": "bfiopga",
       "Name": "Deserved rest",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "DONTOPENTOSTRANGERS",
       "SetID": "bfiopga",
       "Name": "Don\u0027t open to strangers",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EVERYBODYALIVE",
       "SetID": "bfiopga",
       "Name": "Everybody is alive and kicking",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "FEARHASBIGEYES",
       "SetID": "bfiopga",
       "Name": "Fear has big eyes",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "FORTUNEARCHITECT",
       "SetID": "bfiopga",
       "Name": "The architect of your own fortune",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GLUTTONY",
       "SetID": "bfiopga",
       "Name": "Gluttony",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GOODDEED",
       "SetID": "bfiopga",
       "Name": "Good deed",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "GOODSTUFF",
       "SetID": "bfiopga",
       "Name": "You don\u0027t get rid of good stuff",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "GRANNYPASTRIES",
       "SetID": "bfiopga",
       "Name": "Granny and a pile of pastries",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HAPPILYEVERAFTER",
       "SetID": "bfiopga",
       "Name": "Happily ever after",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HAPPYENDING",
       "SetID": "bfiopga",
       "Name": "Happy ending",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "HOLYSIMPLICITY",
       "SetID": "bfiopga",
       "Name": "Holy simplicity",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HUNGRYWOLF",
       "SetID": "bfiopga",
       "Name": "A hungry wolf",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "IFONLY",
       "SetID": "bfiopga",
       "Name": "If only",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "INGRATITUDE",
       "SetID": "bfiopga",
       "Name": "Ingratitude",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LACKOFFASTIDIOUSNESS",
       "SetID": "bfiopga",
       "Name": "Lack of fastidiousness",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LONGAWAITEDFIND",
       "SetID": "bfiopga",
       "Name": "Long-awaited find",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LUCKYACCIDENT",
       "SetID": "bfiopga",
       "Name": "Lucky accident",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LUCKYCOINCIDENCE",
       "SetID": "bfiopga",
       "Name": "Lucky coincidence",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MIRACULOUSOUTCOME",
       "SetID": "bfiopga",
       "Name": "Miraculous outcome",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "MODERATEEATING",
       "SetID": "bfiopga",
       "Name": "Art of moderate eating",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NASTYLUNCH",
       "SetID": "bfiopga",
       "Name": "Nasty lunch",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "OPENFINAL",
       "SetID": "bfiopga",
       "Name": "Open Final",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PATIENCE",
       "SetID": "bfiopga",
       "Name": "Patience",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PEACEMAKERPASTRIES",
       "SetID": "bfiopga",
       "Name": "Peacemaker pastries",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "POLITENESSRETRIBUTION",
       "SetID": "bfiopga",
       "Name": "Retribution for politeness",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "POORCOOK",
       "SetID": "bfiopga",
       "Name": "Poor cook",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRISONER",
       "SetID": "bfiopga",
       "Name": "Prisoner",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "PROPERUPBRINGING",
       "SetID": "bfiopga",
       "Name": "Proper upbringing",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RETARDEDIGNITION",
       "SetID": "bfiopga",
       "Name": "Retarded ignition",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARDFORTHEEFFORTS",
       "SetID": "bfiopga",
       "Name": "Reward for the efforts",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "STAYALERTED",
       "SetID": "bfiopga",
       "Name": "Stay alert",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TAMEWOLF",
       "SetID": "bfiopga",
       "Name": "Tamed wolf",
-      "Percentage": 32,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "TELLTALEEVIDENCE",
       "SetID": "bfiopga",
       "Name": "Telltale evidence",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THANKSFROMWOLF",
       "SetID": "bfiopga",
       "Name": "Thanks from the wolf",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "UNPREDICTABLEPEOPLE",
       "SetID": "bfiopga",
       "Name": "Unpredictable people",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "VERYHUNGRYWOLF",
       "SetID": "bfiopga",
       "Name": "A very hungry wolf",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WHYWOLFATTACK",
       "SetID": "bfiopga",
       "Name": "Why Wolf Attacked Granny",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WICKEDFREELOAD",
       "SetID": "bfiopga",
       "Name": "Wicked freeload",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WOLFNATURE",
       "SetID": "bfiopga",
       "Name": "Wolf nature",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "WOLFSDAY",
       "SetID": "bfiopga",
       "Name": "Wolf\u0027s day",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WOODCUTTERSAVIOUR",
       "SetID": "bfiopga",
       "Name": "Woodcutter saviour",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WOODCUTTERSRESCUERS",
       "SetID": "bfiopga",
       "Name": "Woodcutters rescuers",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "bfiopga",
       "IsBase": true,
-      "Progressed": 22,
-      "Completed": 0
+      "Progressed": 27,
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-12-20T18:03:33.8802078+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:05:16.0958446+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:13:06.4639569+00:00",
   "LastUpdate_AppInfo": "2024-03-21T02:57:17.2241105+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:08.1926609+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:05:16.0958836+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:09.9158648+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:13:06.4640006+00:00"
 }

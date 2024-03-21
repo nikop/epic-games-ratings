@@ -2,13 +2,13 @@
   "ID": "22600f09e936468c8ecfc22b5eac7d7c",
   "Name": "Prince of Persia The Lost Crown",
   "ProductSlug": "prince-of-persia-the-lost-crown",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 137,
   "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 294,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-18T05:00:00+00:00",
     "PcReleaseDate": "2024-01-18T05:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2024-01-19T10:59:44.5935854+00:00",
@@ -967,10 +967,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 921,
       "NumberOfAwardsMax": 684
+    },
+    {
+      "Time": "2024-03-21T17:01:55.026822+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 923,
+      "NumberOfAwardsMax": 684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 921,
+  "NumberOfAwards": 923,
   "NumberOfAwardsMax": 684,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -984,7 +990,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1035,8 +1041,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-18T05:58:12.1267938+00:00",
   "FirstSeenRating": "2024-01-19T10:59:44.5935852+00:00",
-  "LastChanged": "2024-03-21T15:58:53.6115324+00:00",
+  "LastChanged": "2024-03-21T17:01:55.0268218+00:00",
   "LastUpdate_AppInfo": "2024-03-19T13:57:23.1941675+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:53.611533+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:20.2687691+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:55.0268224+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:34.2648237+00:00"
 }

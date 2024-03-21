@@ -2,10 +2,10 @@
   "ID": "3ed7af6401204c9aa6b2adf9e9ea23b8",
   "Name": "Roads of Time 2: Odyssey Collector\u0027s Edition",
   "ProductSlug": "roads-of-time-2-odyssey-c63595",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-28T21:00:00+00:00",
     "PcReleaseDate": "2021-04-07T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-29T04:58:21.1664094+00:00",
   "LastUpdate_AppInfo": "2024-03-21T13:00:00.200775+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:04.4538323+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:25.8801483+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:08.3275152+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:14.6989461+00:00"
 }

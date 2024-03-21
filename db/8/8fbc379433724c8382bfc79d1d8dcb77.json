@@ -2,10 +2,10 @@
   "ID": "8fbc379433724c8382bfc79d1d8dcb77",
   "Name": "Vlad Circus - Descend Into Madness",
   "ProductSlug": "vlad-circus-descend-into-madness-9d1ed2",
-  "Ranking_EOS_Progress": 773,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 737,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-16T13:00:00+00:00",
     "PcReleaseDate": "2023-10-16T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 14,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-09-27T00:03:21.9522119+00:00",
@@ -44,6 +44,11 @@
       "Time": "2024-01-19T01:54:56.5203171+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:22.1445393+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-26T15:04:26.9552991+00:00",
@@ -54,111 +59,111 @@
       "ID": "1",
       "SetID": "5j3a7ge",
       "Name": "Envy",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "10",
       "SetID": "5j3a7ge",
       "Name": "Holy water",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "11",
       "SetID": "5j3a7ge",
       "Name": "Our daily bread",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "12",
       "SetID": "5j3a7ge",
       "Name": "Pennhurst",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "2",
       "SetID": "5j3a7ge",
       "Name": "Gluttony",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "3",
       "SetID": "5j3a7ge",
       "Name": "Greed",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "4",
       "SetID": "5j3a7ge",
       "Name": "Lust",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5",
       "SetID": "5j3a7ge",
       "Name": "Pride",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "6",
       "SetID": "5j3a7ge",
       "Name": "Sloth",
-      "Percentage": 0,
+      "Percentage": 71,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "7",
       "SetID": "5j3a7ge",
       "Name": "Wrath",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "8",
       "SetID": "5j3a7ge",
       "Name": "Let there be light",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "9",
       "SetID": "5j3a7ge",
       "Name": "In Memoriam",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "5j3a7ge",
       "IsBase": true,
-      "Progressed": 3,
-      "Completed": 0
+      "Progressed": 14,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-18T21:57:19.0067839+00:00",
   "FirstSeenAchievements": "2023-09-26T15:04:26.955299+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:41.4445848+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:22.1445387+00:00",
   "LastUpdate_AppInfo": "2024-03-20T05:57:25.5188626+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:10.5788653+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:41.4445911+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:12.4240811+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:22.1445493+00:00"
 }

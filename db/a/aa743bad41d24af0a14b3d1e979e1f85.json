@@ -2,10 +2,10 @@
   "ID": "aa743bad41d24af0a14b3d1e979e1f85",
   "Name": "Youtubers Life",
   "ProductSlug": "youtubers-life-062b82",
-  "Ranking_EOS_Progress": 789,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 839,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-05T00:00:00+00:00",
     "PcReleaseDate": "2016-05-17T22:00:00+00:00",
@@ -555,8 +555,8 @@
   ],
   "FirstSeen": "2024-03-10T16:58:01.4017327+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:16.2347073+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:16.2347036+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:05.2719321+00:00",
   "LastUpdate_AppInfo": "2024-03-18T13:57:16.6996306+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:56.8124929+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:16.2354014+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:31.964065+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:05.2719861+00:00"
 }

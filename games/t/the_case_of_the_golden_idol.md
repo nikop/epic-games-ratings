@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Solved first case | 25.00% | ~65 |
-| Solved second case | 25.00% | ~65 |
-| Solved third case | 21.00% | ~55 |
-| Solved The Spider of Lanka 1st Case | 18.00% | ~37 |
-| Solved fourth case | 15.00% | ~39 |
-| Solved seventh case | 12.00% | ~31 |
-| Solved sixth case | 11.00% | ~29 |
-| Solved fifth case | 9.00% | ~23 |
-| Solved tenth case | 9.00% | ~23 |
-| Solved eighth case | 8.00% | ~21 |
-| Solved The Spider of Lanka 3rd Case | 8.00% | ~17 |
-| Solved the Lemurian Vampire 1st Case | 8.00% | ~17 |
-| Solved ninth case | 7.00% | ~18 |
-| Solved The Spider of Lanka 2nd Case | 7.00% | ~15 |
-| Solved eleventh case | 5.00% | ~13 |
-| Solved the Lemurian Vampire 2nd Case | 5.00% | ~10 |
-| Solved the Lemurian Vampire 3rd Case | 3.00% | ~6 |
+| Solved first case | 28.00% | ~77 |
+| Solved second case | 28.00% | ~77 |
+| Solved third case | 22.00% | ~60 |
+| Solved The Spider of Lanka 1st Case | 19.00% | ~42 |
+| Solved fourth case | 15.00% | ~41 |
+| Solved seventh case | 14.00% | ~38 |
+| Solved sixth case | 12.00% | ~33 |
+| Solved fifth case | 11.00% | ~30 |
+| Solved eighth case | 11.00% | ~30 |
+| Solved tenth case | 11.00% | ~30 |
+| Solved the Lemurian Vampire 1st Case | 9.00% | ~20 |
+| Solved ninth case | 8.00% | ~22 |
+| Solved The Spider of Lanka 2nd Case | 8.00% | ~18 |
+| Solved The Spider of Lanka 3rd Case | 8.00% | ~18 |
+| Solved eleventh case | 5.00% | ~14 |
+| Solved the Lemurian Vampire 2nd Case | 5.00% | ~11 |
+| Solved the Lemurian Vampire 3rd Case | 3.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261 (Ranked 430)  
-Completed: 9 (3.45%) (Ranked 107)  
+Progressed: 274 (Ranked 456)  
+Completed: 10 (3.65%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,6 +149,7 @@ Completed: 9 (3.45%) (Ranked 107)
 | 2024-01-24 | 257 | 8 |
 | 2024-01-25 | 258 | 9 |
 | 2024-01-26 | 261 | 9 |
+| 2024-03-21 | 274 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

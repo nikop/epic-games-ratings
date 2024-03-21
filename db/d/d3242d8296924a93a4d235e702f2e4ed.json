@@ -2,10 +2,10 @@
   "ID": "d3242d8296924a93a4d235e702f2e4ed",
   "Name": "The Story Goes On",
   "ProductSlug": "the-story-goes-on-f8a65a",
-  "Ranking_EOS_Progress": 789,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 839,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-02T14:00:00+00:00",
     "PcReleaseDate": "2018-03-02T14:00:00+00:00",
@@ -285,8 +285,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-14T22:03:27.0098018+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:59.132678+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:08.7661011+00:00",
   "LastUpdate_AppInfo": "2024-03-18T02:57:04.0365545+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:41.6676287+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:59.1326939+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:59.0763162+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:08.7661179+00:00"
 }

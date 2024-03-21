@@ -5,10 +5,10 @@
   "Ranking_Rating": 41,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 253,
-  "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 155,
+  "Ranking_EOS_Completed": 345,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1770,7 +1770,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28949,
+  "EOS_Progressed": 29218,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -15030,6 +15030,11 @@
       "Time": "2024-02-22T21:05:44.5955564+00:00",
       "NumProgressed": 28949,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-03-21T17:11:31.5004692+00:00",
+      "NumProgressed": 29218,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -15047,9 +15052,9 @@
       "ID": "AllBlessings",
       "SetID": "3ojhj46",
       "Name": "Truly Blessed",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 292
     },
     {
       "ID": "AllEquipment",
@@ -15071,9 +15076,9 @@
       "ID": "AllRunes",
       "SetID": "3ojhj46",
       "Name": "Pillow Investments",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 292
     },
     {
       "ID": "AllScarsBronze",
@@ -15089,15 +15094,15 @@
       "Name": "Looks Familiar",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 261
+      "UsersEstimate": 263
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Justice",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 234
     },
     {
       "ID": "BossBridgeDefeated",
@@ -15105,7 +15110,7 @@
       "Name": "Captain and Crew",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1753
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -15113,7 +15118,7 @@
       "Name": "For Glory",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 289
+      "UsersEstimate": 292
     },
     {
       "ID": "BossCastleDefeated",
@@ -15121,7 +15126,7 @@
       "Name": "Spells and Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2045
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -15129,7 +15134,7 @@
       "Name": "For Wrath",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "BossCaveDefeated",
@@ -15137,7 +15142,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 584
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -15145,7 +15150,7 @@
       "Name": "For Greed",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "BossFinalDefeated",
@@ -15153,7 +15158,7 @@
       "Name": "King and Kin",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 579
+      "UsersEstimate": 584
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -15161,7 +15166,7 @@
       "Name": "For Survival",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "BossForestDefeated",
@@ -15169,7 +15174,7 @@
       "Name": "Harvest and Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1169
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -15177,7 +15182,7 @@
       "Name": "For Penance",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "BossGardenDefeated",
@@ -15185,23 +15190,23 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 579
+      "UsersEstimate": 584
     },
     {
       "ID": "BossStudyAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Love",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 146
     },
     {
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 1169
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -15209,7 +15214,7 @@
       "Name": "For Pride",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "BossTowerDefeated",
@@ -15217,15 +15222,15 @@
       "Name": "Suns and Soldiers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 877
     },
     {
       "ID": "BoxerBoss",
       "SetID": "3ojhj46",
       "Name": "K.O.",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 146
     },
     {
       "ID": "EnableHouseRules",
@@ -15233,7 +15238,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1461
     },
     {
       "ID": "EndTimerFail",
@@ -15265,7 +15270,7 @@
       "Name": "Good Practice",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Icarus",
@@ -15273,15 +15278,15 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "NightmareKhidr",
       "SetID": "3ojhj46",
       "Name": "A Glimpse of the Future",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 88
     },
     {
       "ID": "PetDragon",
@@ -15289,7 +15294,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "PrequelReveal",
@@ -15297,7 +15302,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 584
     },
     {
       "ID": "RogueMode",
@@ -15313,7 +15318,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "StoryTutorial",
@@ -15321,7 +15326,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "TitleDrop",
@@ -15337,7 +15342,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "UnlockHighestUnity",
@@ -15345,28 +15350,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28949,
+      "Progressed": 29218,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7879,
+      "Progressed": 8148,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-03-20T21:58:24.4757733+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:44.5955562+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:31.5004685+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:17.8962308+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:25.7917331+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:44.5956367+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:27.941578+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:31.5005681+00:00"
 }

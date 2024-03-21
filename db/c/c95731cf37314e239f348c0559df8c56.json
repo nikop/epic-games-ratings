@@ -2,10 +2,10 @@
   "ID": "c95731cf37314e239f348c0559df8c56",
   "Name": "REVEIL",
   "ProductSlug": "reveil-43bd49",
-  "Ranking_EOS_Progress": 773,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 655,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-06T16:00:00+00:00",
     "PcReleaseDate": "2024-03-06T16:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 39,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-03-04T23:04:07.6178703+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:55.726192+00:00",
+      "NumProgressed": 39,
       "NumCompleted": 0
     }
   ],
@@ -61,9 +66,9 @@
       "ID": "act3collector",
       "SetID": "4f6bhbc",
       "Name": "Chapter 3 collector",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "act4collector",
@@ -85,9 +90,9 @@
       "ID": "adrenalineJunkie",
       "SetID": "4f6bhbc",
       "Name": "Adrenaline junkie",
-      "Percentage": 0,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "allEndings",
@@ -101,49 +106,49 @@
       "ID": "breakOutHouse",
       "SetID": "4f6bhbc",
       "Name": "Breakout",
-      "Percentage": 0,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "buttonRoom",
       "SetID": "4f6bhbc",
       "Name": "Story of the circus",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "computerRoom",
       "SetID": "4f6bhbc",
       "Name": "Power restored",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "deimprintEnding",
       "SetID": "4f6bhbc",
       "Name": "Escaped",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "discoverCircus",
       "SetID": "4f6bhbc",
       "Name": "The circus",
-      "Percentage": 0,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 28
     },
     {
       "ID": "escapeFunhouse",
       "SetID": "4f6bhbc",
       "Name": "Not-so-fun-house",
-      "Percentage": 0,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 21
     },
     {
       "ID": "getOutEnding",
@@ -165,41 +170,41 @@
       "ID": "hillClimbComplete",
       "SetID": "4f6bhbc",
       "Name": "King of the hill",
-      "Percentage": 0,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "killedByMartha",
       "SetID": "4f6bhbc",
       "Name": "Kissed Martha",
-      "Percentage": 0,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "labyrinthMaster",
       "SetID": "4f6bhbc",
       "Name": "Labyrinth master",
-      "Percentage": 0,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 30
     },
     {
       "ID": "leaveRoom",
       "SetID": "4f6bhbc",
       "Name": "Wake up",
-      "Percentage": 100,
+      "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 37
     },
     {
       "ID": "mannequinEscape",
       "SetID": "4f6bhbc",
       "Name": "Derailed",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "passiveEnding",
@@ -213,55 +218,55 @@
       "ID": "repeatEnding",
       "SetID": "4f6bhbc",
       "Name": "Stuck in a dream",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "solveCube",
       "SetID": "4f6bhbc",
       "Name": "The golden ticket",
-      "Percentage": 0,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "stealthMarthaForest",
       "SetID": "4f6bhbc",
       "Name": "Memory pathfinder",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "stealthMarthaHouse",
       "SetID": "4f6bhbc",
       "Name": "Unseen ritual",
-      "Percentage": 0,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "theDeed",
       "SetID": "4f6bhbc",
       "Name": "The deed",
-      "Percentage": 0,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f6bhbc",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 39,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-09T11:57:11.0445681+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:07.6178737+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:07.61787+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:55.726191+00:00",
   "LastUpdate_AppInfo": "2024-03-15T19:57:52.8778012+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:56.1707515+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:07.6184715+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:21.8555791+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:55.7262063+00:00"
 }

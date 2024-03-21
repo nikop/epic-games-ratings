@@ -2,13 +2,13 @@
   "ID": "6774af9524fe4f63b2a6717d04269cd6",
   "Name": "Tribes of Midgard",
   "ProductSlug": "tribes-of-midgard",
-  "Ranking_Rating": 463,
-  "Ranking_Popularity": 411,
-  "Ranking_PopularitySum": 506,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_Rating": 464,
+  "Ranking_Popularity": 412,
+  "Ranking_PopularitySum": 507,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-12-14T17:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:18+00:00",
@@ -565,6 +565,6 @@
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
   "LastChanged": "2024-02-19T18:58:59.0660802+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:21.2781887+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:30.9377699+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:29.9257582+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:28.7653477+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:47.2642079+00:00"
 }

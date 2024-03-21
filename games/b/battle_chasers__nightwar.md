@@ -3,6 +3,64 @@
 [View Rawdata](../../db/b/battle_chasers__nightwar.json)  
 Rating: 4.66 (Ranked 314)  
 Number of Ratings: 32  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Survivors | 92.00% | ~33 |
+| It's Just Beginning | 64.00% | ~23 |
+| Apprentice Crafter | 58.00% | ~21 |
+| Mystery Solved | 56.00% | ~20 |
+| Trial By Combat | 56.00% | ~20 |
+| You're Learning... | 56.00% | ~20 |
+| Barrel of Fun | 53.00% | ~19 |
+| Beginner's Luck | 53.00% | ~19 |
+| Go On... | 53.00% | ~19 |
+| Brave by Default | 50.00% | ~18 |
+| Seeing Red | 50.00% | ~18 |
+| Too Late | 50.00% | ~18 |
+| Battle Ready | 47.00% | ~17 |
+| That's Deep, Bro | 42.00% | ~15 |
+| Bad Moon Rising | 39.00% | ~14 |
+| Blood and Tears | 39.00% | ~14 |
+| Angler | 36.00% | ~13 |
+| Dirty Hands | 36.00% | ~13 |
+| Well Read | 36.00% | ~13 |
+| Little Game Hunter | 33.00% | ~12 |
+| The New Bitcoin | 33.00% | ~12 |
+| Fresh Mint | 31.00% | ~11 |
+| Lich, Please | 31.00% | ~11 |
+| Beauty is in the Eye | 28.00% | ~10 |
+| Behold, My True Form | 28.00% | ~10 |
+| Warming Up | 28.00% | ~10 |
+| Finders Keepers | 25.00% | ~9 |
+| Vice Versa | 25.00% | ~9 |
+| Are You Not Entertained | 22.00% | ~8 |
+| Queen of the North | 22.00% | ~8 |
+| An Unstoppable Force | 19.00% | ~7 |
+| Ch-ch-ch-changes! | 19.00% | ~7 |
+| Mass Ruckus | 19.00% | ~7 |
+| Master Crafter | 19.00% | ~7 |
+| The New Standard | 19.00% | ~7 |
+| All out of Bubblegum... | 14.00% | ~5 |
+| Like A Noss | 14.00% | ~5 |
+| The Looking Glass | 14.00% | ~5 |
+| Epic Crafter | 8.00% | ~3 |
+| Fish Watching | 8.00% | ~3 |
+| Must Be Bored | 8.00% | ~3 |
+| No Parley | 8.00% | ~3 |
+| A Fantasy, Finalized | 6.00% | ~2 |
+| Big Game Hunter | 6.00% | ~2 |
+| Cosplaying | 6.00% | ~2 |
+| Rare Crafter | 6.00% | ~2 |
+| The Librarian | 6.00% | ~2 |
+| Risk Taker | 3.00% | ~1 |
+## Popularity (Based on EOS Achievements)
+Progressed: 36 (Ranked 663)  
+Completed: 1 (2.78%) (Ranked 131)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 36 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

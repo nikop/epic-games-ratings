@@ -2,10 +2,10 @@
   "ID": "46d8d9b49fa24b2c81f648d2c30f45d1",
   "Name": "Jack Holmes: Master of Puppets",
   "ProductSlug": "jack-holmes-master-of-puppets-a76571",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-12T00:00:00+00:00",
     "PcReleaseDate": "2024-04-12T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-19T09:57:27.7031942+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:05.8971578+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:09.9935656+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:28.6084066+00:00"
 }

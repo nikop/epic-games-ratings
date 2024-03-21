@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 74.00% | ~425 |
-| Photo shoot | 16.00% | ~92 |
-| No brakes | 13.00% | ~75 |
-| Wannabe | 11.00% | ~63 |
-| First taste | 8.00% | ~46 |
-| Better than cake | 7.00% | ~40 |
-| Amateur hitchhiker | 6.00% | ~34 |
-| Amateur newbie | 3.00% | ~17 |
-| Drama queen | 2.00% | ~11 |
-| Mr. Whiting | 2.00% | ~11 |
-| Reliability expert | 2.00% | ~11 |
-| Hattrick | 2.00% | ~11 |
-| Amateur photo shoot | 2.00% | ~11 |
-| On the top | 2.00% | ~11 |
+| Newbie | 74.00% | ~442 |
+| Photo shoot | 17.00% | ~101 |
+| No brakes | 14.00% | ~84 |
+| Wannabe | 12.00% | ~72 |
+| First taste | 9.00% | ~54 |
+| Amateur hitchhiker | 7.00% | ~42 |
+| Better than cake | 7.00% | ~42 |
+| Amateur newbie | 3.00% | ~18 |
+| Reliability expert | 3.00% | ~18 |
+| Hattrick | 3.00% | ~18 |
+| Hero | 2.00% | ~12 |
+| Drama queen | 2.00% | ~12 |
+| Mr. Whiting | 2.00% | ~12 |
+| Amateur photo shoot | 2.00% | ~12 |
+| On the top | 2.00% | ~12 |
+| Pro hitchhiker | 1.00% | ~6 |
 | Loyalty | 1.00% | ~6 |
-| Hero | 1.00% | ~6 |
 | No brakes Amateur | 1.00% | ~6 |
-| Amateur wannabe | 0.70% | ~4 |
+| Amateur wannabe | 0.80% | ~5 |
+| First Amateur taste | 0.70% | ~4 |
 | Addict | 0.70% | ~4 |
 | Untouchable | 0.70% | ~4 |
 | Monster Amateur car | 0.50% | ~3 |
-| Pro hitchhiker | 0.50% | ~3 |
-| First Amateur taste | 0.50% | ~3 |
+| Tutorial master | 0.50% | ~3 |
 | Weatherman | 0.50% | ~3 |
 | Pro newbie | 0.30% | ~2 |
 | Amateur hattrick | 0.30% | ~2 |
 | Endurance team mate | 0.30% | ~2 |
-| Tutorial master | 0.30% | ~2 |
 | Pro photo shoot | 0.20% | ~1 |
 | Monster Pro car | 0.20% | ~1 |
 | Amateur champion | 0.20% | ~1 |
@@ -42,12 +42,14 @@
 | Amateur Grand Chelem | 0.20% | ~1 |
 | All over the place | 0.20% | ~1 |
 | Shepherd | 0.20% | ~1 |
+| Just don't scratch it | 0.20% | ~1 |
 | Amateur top racer | 0.20% | ~1 |
 | Pro top pit crew | 0.20% | ~1 |
 | Amateur blue flag wonder | 0.20% | ~1 |
 | Enemies for life | 0.20% | ~1 |
 | Wet qualifying record breaker | 0.20% | ~1 |
 | First Pro taste | 0.20% | ~1 |
+| Salesman | 0.20% | ~1 |
 | Top Amateur | 0.20% | ~1 |
 | Standing tall | 0.20% | ~1 |
 | Standing tall Pro | 0.00% | ~0 |
@@ -109,7 +111,6 @@
 | Giant killer | 0.00% | ~0 |
 | Tried and tested | 0.00% | ~0 |
 | Elit1st | 0.00% | ~0 |
-| Just don't scratch it | 0.00% | ~0 |
 | Zero to hero | 0.00% | ~0 |
 | Partners for life | 0.00% | ~0 |
 | Amateur top qualifier | 0.00% | ~0 |
@@ -151,7 +152,6 @@
 | Locomotive | 0.00% | ~0 |
 | First Master taste | 0.00% | ~0 |
 | First Elite taste | 0.00% | ~0 |
-| Salesman | 0.00% | ~0 |
 | Heavy duty | 0.00% | ~0 |
 | Among gods | 0.00% | ~0 |
 | Amateur god | 0.00% | ~0 |
@@ -167,8 +167,8 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 360)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 597 (Ranked 382)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,3 +326,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-24 | 557 | 0 |
 | 2024-01-26 | 559 | 0 |
 | 2024-02-22 | 574 | 0 |
+| 2024-03-21 | 597 | 0 |

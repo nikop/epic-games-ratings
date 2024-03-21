@@ -2,10 +2,10 @@
   "ID": "9c9dff6576ec4d26b527529cf9a946b8",
   "Name": "The Savior\u0027s Gang",
   "ProductSlug": "the-saviors-gang-959fd2",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -28,11 +28,318 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-03-21T17:11:57.7656792+00:00",
+  "TotalAchievements": 37,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "69g0jbd",
+      "Name": "The son of God",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1",
+      "SetID": "69g0jbd",
+      "Name": "Dear brothers",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "69g0jbd",
+      "Name": "Favourite",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "69g0jbd",
+      "Name": "Angel feather",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "69g0jbd",
+      "Name": "LOL",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "69g0jbd",
+      "Name": "Coming",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "69g0jbd",
+      "Name": "Data protection",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "69g0jbd",
+      "Name": "We need to talk",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "69g0jbd",
+      "Name": "The Saviors",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "69g0jbd",
+      "Name": "This can not go on like this",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "69g0jbd",
+      "Name": "Walking Dead",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "69g0jbd",
+      "Name": "Finding Altenum",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "69g0jbd",
+      "Name": "I\u2019m Sick of you!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "69g0jbd",
+      "Name": "Out of cover",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "69g0jbd",
+      "Name": "Girl Power",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "69g0jbd",
+      "Name": "Martyr",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "69g0jbd",
+      "Name": "Total resurrection",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "69g0jbd",
+      "Name": "Altenum expert",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "69g0jbd",
+      "Name": "Divide and conquer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "69g0jbd",
+      "Name": "Fart-holic",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "69g0jbd",
+      "Name": "Heavy smoker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "69g0jbd",
+      "Name": "Tutti Frutti",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "69g0jbd",
+      "Name": "Flash",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "69g0jbd",
+      "Name": "Straight to the north",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "69g0jbd",
+      "Name": "The chosen ones by the Lord",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "69g0jbd",
+      "Name": "Like a boss",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "69g0jbd",
+      "Name": "The body of The Savior",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "69g0jbd",
+      "Name": "Made of Altenum",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "69g0jbd",
+      "Name": "Sold Out",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "69g0jbd",
+      "Name": "The END",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "36",
+      "SetID": "69g0jbd",
+      "Name": "Absolute domain",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "69g0jbd",
+      "Name": "Deal with the devil",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "69g0jbd",
+      "Name": "Inscrutable path",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "69g0jbd",
+      "Name": "Sinful",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "69g0jbd",
+      "Name": "Observe feast days",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "69g0jbd",
+      "Name": "The Savior comes first",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "69g0jbd",
+      "Name": "Premium",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "69g0jbd",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:11:57.7656791+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:57.7656773+00:00",
   "LastUpdate_AppInfo": "2024-03-21T12:59:58.4072997+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:16.4393591+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:09.5808203+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:16.8290668+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:57.7664831+00:00"
 }

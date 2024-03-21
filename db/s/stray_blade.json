@@ -2,10 +2,10 @@
   "ID": "8b8d2e16c20b4300ae0dc66db4d630ba",
   "Name": "Stray Blade",
   "ProductSlug": "stray-blade",
-  "Ranking_EOS_Progress": 463,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 189,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -839,6 +839,11 @@
       "Time": "2024-02-22T21:05:47.4574042+00:00",
       "NumProgressed": 179,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:35.162392+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -872,7 +877,7 @@
       "ID": "ACH_CRAFT_ALL_ARMOR",
       "SetID": "7i20me3",
       "Name": "Style over Stats",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -880,7 +885,7 @@
       "ID": "ACH_CRAFT_ALL_WEAPONS",
       "SetID": "7i20me3",
       "Name": "Collector",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -888,9 +893,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -898,15 +903,15 @@
       "Name": "Defeat Ingla",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DEFEAT_BOSS_TEZUTH",
       "SetID": "7i20me3",
       "Name": "Defeat Tezuth",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DEFEAT_BOSS_USKOL",
@@ -928,9 +933,9 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
@@ -944,9 +949,9 @@
       "ID": "ACH_ENTER_REGION_LIZARD",
       "SetID": "7i20me3",
       "Name": "Searing Heat",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENTER_REGION_SPIRE",
@@ -954,7 +959,7 @@
       "Name": "Through Dangers Untold",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
@@ -968,7 +973,7 @@
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
       "SetID": "7i20me3",
       "Name": "Explorer by Heart",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -976,7 +981,7 @@
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BEAR",
       "SetID": "7i20me3",
       "Name": "Mountain Lover",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -984,7 +989,7 @@
       "ID": "ACH_FIND_ALL_COLLECTIBLES_LIZARD",
       "SetID": "7i20me3",
       "Name": "Wasteland Connoisseur",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -992,7 +997,7 @@
       "ID": "ACH_FIND_ALL_COLLECTIBLES_STAG",
       "SetID": "7i20me3",
       "Name": "Forest Expert",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1000,7 +1005,7 @@
       "ID": "ACH_FIND_ALL_COLORS",
       "SetID": "7i20me3",
       "Name": "Fashionista",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1008,7 +1013,7 @@
       "ID": "ACH_FIND_ALL_ELESSINE_SCHEMATICS",
       "SetID": "7i20me3",
       "Name": "Ancient Powers",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1016,7 +1021,7 @@
       "ID": "ACH_FIND_ALL_LORE_TABLETS",
       "SetID": "7i20me3",
       "Name": "Knowledge is King",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1026,13 +1031,13 @@
       "Name": "Witch",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIND_ALL_RUNES",
       "SetID": "7i20me3",
       "Name": "Wizard",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -1042,13 +1047,13 @@
       "Name": "Nothing but the Truth",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_FIND_ALL_STORY_NOTES",
       "SetID": "7i20me3",
       "Name": "Bookworm",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1064,7 +1069,7 @@
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_LIZARD",
       "SetID": "7i20me3",
       "Name": "Wayseeker",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1080,7 +1085,7 @@
       "ID": "ACH_FIND_ALL_TELEPORTERS",
       "SetID": "7i20me3",
       "Name": "Globetrotter",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -1096,9 +1101,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -1112,25 +1117,25 @@
       "ID": "ACH_MEET_BOJI",
       "SetID": "7i20me3",
       "Name": "Don\u0027t Cry Wolf",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
       "SetID": "7i20me3",
       "Name": "A new World ahead",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_PERFORM_MANY_PARRIES",
       "SetID": "7i20me3",
       "Name": "Can\u0027t touch this",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_REUNITE_WITH_BOJI",
@@ -1138,7 +1143,7 @@
       "Name": "The A-Team",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REVEAL_ACREANS_TRUTH",
@@ -1146,7 +1151,7 @@
       "Name": "But what of the Acreans?",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_REVEAL_ARCANE_FORGE_TRUTH",
@@ -1160,17 +1165,17 @@
       "ID": "ACH_REVEAL_MIRAGE_ILLUSION",
       "SetID": "7i20me3",
       "Name": "Unveiling the Truth",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_10",
       "SetID": "7i20me3",
       "Name": "Apprentice",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -1184,9 +1189,9 @@
       "ID": "ACH_SKILLTREE_PROGRESSION_50",
       "SetID": "7i20me3",
       "Name": "Expert",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
@@ -1194,7 +1199,7 @@
       "Name": "The Golden Flash",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
@@ -1202,7 +1207,7 @@
       "Name": "The Power of the Mountains",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
@@ -1210,7 +1215,7 @@
       "Name": "Changing the World",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_DLC_DEFEAT_BOSS_SCIENTIST",
@@ -1256,7 +1261,7 @@
       "ID": "ACH_DLC_LOSE_TO_BOSS_SCIENTIST",
       "SetID": "doc1i1",
       "Name": "Small Setback",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     }
@@ -1265,13 +1270,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 189,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 177,
+      "Progressed": 187,
       "Completed": 117
     }
   ],
@@ -1279,8 +1284,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:47.457404+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:35.1623914+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:23.7236448+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:30.5509118+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:47.4574357+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:43.8127031+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:35.1624386+00:00"
 }

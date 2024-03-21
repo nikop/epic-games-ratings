@@ -2,10 +2,10 @@
   "ID": "24cc2629b0594bf29340f6acf9816af8",
   "Name": "Horizon Forbidden West\u2122 Complete Edition",
   "ProductSlug": "horizon-forbidden-west-complete-edition",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 674,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-21T15:00:00+00:00",
     "PcReleaseDate": "2024-03-21T15:00:00+00:00",
@@ -18,17 +18,674 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 33,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 9.09,
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:07:50.6535142+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 3
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:07:50.6535172+00:00",
+  "TotalAchievements": 80,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Trophy000",
+      "SetID": "4elj81p",
+      "Name": "All Achievements Obtained",
+      "Percentage": 12,
+      "XP": 100,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Trophy001",
+      "SetID": "4elj81p",
+      "Name": "Reached Level 20",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "Trophy002",
+      "SetID": "4elj81p",
+      "Name": "Reached Level 30",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "Trophy003",
+      "SetID": "4elj81p",
+      "Name": "Reached Level 50",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy004",
+      "SetID": "4elj81p",
+      "Name": "Reached the Daunt",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "Trophy005",
+      "SetID": "4elj81p",
+      "Name": "Secured Passage to the Embassy",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "Trophy006",
+      "SetID": "4elj81p",
+      "Name": "Attended the Embassy",
+      "Percentage": 55,
+      "XP": 10,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "Trophy007",
+      "SetID": "4elj81p",
+      "Name": "Established the Base",
+      "Percentage": 55,
+      "XP": 10,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "Trophy008",
+      "SetID": "4elj81p",
+      "Name": "Recovered AETHER",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "Trophy009",
+      "SetID": "4elj81p",
+      "Name": "Recovered POSEIDON",
+      "Percentage": 55,
+      "XP": 10,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "Trophy010",
+      "SetID": "4elj81p",
+      "Name": "Recovered DEMETER",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "Trophy011",
+      "SetID": "4elj81p",
+      "Name": "Recovered Beta",
+      "Percentage": 48,
+      "XP": 10,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "Trophy012",
+      "SetID": "4elj81p",
+      "Name": "Discovered Faro\u0027s Fate",
+      "Percentage": 45,
+      "XP": 10,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "Trophy013",
+      "SetID": "4elj81p",
+      "Name": "Flew on the Wings of the Ten",
+      "Percentage": 36,
+      "XP": 50,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "Trophy014",
+      "SetID": "4elj81p",
+      "Name": "Discovered Nemesis",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "Trophy015",
+      "SetID": "4elj81p",
+      "Name": "Chose a Desert Commander",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "Trophy016",
+      "SetID": "4elj81p",
+      "Name": "Saved the Daunt",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy017",
+      "SetID": "4elj81p",
+      "Name": "Aided Kotallo",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy018",
+      "SetID": "4elj81p",
+      "Name": "Healed the Land-gods",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy019",
+      "SetID": "4elj81p",
+      "Name": "Recovered Alva\u0027s Data",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy020",
+      "SetID": "4elj81p",
+      "Name": "First Tallneck Overridden",
+      "Percentage": 39,
+      "XP": 10,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "Trophy021",
+      "SetID": "4elj81p",
+      "Name": "All Tallnecks Overridden",
+      "Percentage": 12,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Trophy022",
+      "SetID": "4elj81p",
+      "Name": "First Rebel Camp Completed",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "Trophy023",
+      "SetID": "4elj81p",
+      "Name": "Defeated Asera",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy024",
+      "SetID": "4elj81p",
+      "Name": "First Core Overridden",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy025",
+      "SetID": "4elj81p",
+      "Name": "All Cores Overridden",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy026",
+      "SetID": "4elj81p",
+      "Name": "Obtained 3 Stripes at a Hunting Ground",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Trophy027",
+      "SetID": "4elj81p",
+      "Name": "Obtained 3 Stripes at All Hunting Grounds",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy028",
+      "SetID": "4elj81p",
+      "Name": "All Acquisition Machines Killed",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "Trophy029",
+      "SetID": "4elj81p",
+      "Name": "All Recon Machines Killed",
+      "Percentage": 45,
+      "XP": 10,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "Trophy030",
+      "SetID": "4elj81p",
+      "Name": "All Combat Machines Killed",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "Trophy031",
+      "SetID": "4elj81p",
+      "Name": "All Transport Machines Killed",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "Trophy032",
+      "SetID": "4elj81p",
+      "Name": "Rode All Regular Mounts",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "Trophy033",
+      "SetID": "4elj81p",
+      "Name": "All Machine Types Scanned",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy034",
+      "SetID": "4elj81p",
+      "Name": "Completed a Long Glide",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy035",
+      "SetID": "4elj81p",
+      "Name": "Completed 2 Flying Mount Quests",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy036",
+      "SetID": "4elj81p",
+      "Name": "Won 2 Gauntlet Runs",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy037",
+      "SetID": "4elj81p",
+      "Name": "Completed a Set of Salvage Contracts",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy038",
+      "SetID": "4elj81p",
+      "Name": "Completed 4 Rebel Outposts",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy039",
+      "SetID": "4elj81p",
+      "Name": "Completed 3 Relic Ruins",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy040",
+      "SetID": "4elj81p",
+      "Name": "Completed Arena Challenge Set",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "Trophy041",
+      "SetID": "4elj81p",
+      "Name": "Defeated Machine Strike Challengers",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "Trophy042",
+      "SetID": "4elj81p",
+      "Name": "Obtained All Weapon Classes",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "Trophy043",
+      "SetID": "4elj81p",
+      "Name": "Used all Elemental States",
+      "Percentage": 39,
+      "XP": 10,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "Trophy044",
+      "SetID": "4elj81p",
+      "Name": "Performed 3 Melee Combos",
+      "Percentage": 39,
+      "XP": 5,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "Trophy045",
+      "SetID": "4elj81p",
+      "Name": "Stealth Killed 10 Machines",
+      "Percentage": 42,
+      "XP": 10,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "Trophy046",
+      "SetID": "4elj81p",
+      "Name": "Tore off 100 Components",
+      "Percentage": 39,
+      "XP": 5,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "Trophy047",
+      "SetID": "4elj81p",
+      "Name": "Picked up 5 Heavy Weapons",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "Trophy048",
+      "SetID": "4elj81p",
+      "Name": "10 Types of Machine Overridden",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy049",
+      "SetID": "4elj81p",
+      "Name": "Defeated the Enduring",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy050",
+      "SetID": "4elj81p",
+      "Name": "Fully Upgraded a Valor Surge",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "Trophy051",
+      "SetID": "4elj81p",
+      "Name": "Upgraded 3 Weapons",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy052",
+      "SetID": "4elj81p",
+      "Name": "Upgraded 3 Outfits",
+      "Percentage": 15,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy053",
+      "SetID": "4elj81p",
+      "Name": "Upgraded Every Pouch Type",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy054",
+      "SetID": "4elj81p",
+      "Name": "Enhanced Weapon with Coils",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy055",
+      "SetID": "4elj81p",
+      "Name": "Unlocked 3 Weapon Techniques",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "Trophy056",
+      "SetID": "4elj81p",
+      "Name": "Skill Tree Learned",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy057",
+      "SetID": "4elj81p",
+      "Name": "Recovered 5 Different Collectables",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy058",
+      "SetID": "4elj81p",
+      "Name": "Used Dye Flowers",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy059",
+      "SetID": "4elj81p",
+      "Name": "Completed New Game\u002B",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy060",
+      "SetID": "4elj81p",
+      "Name": "Completed Ultra Hard",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Trophy061",
+      "SetID": "4elj81p",
+      "Name": "Obtained All New Game\u002B Rewards",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Trophy062",
+      "SetID": "4elj81p",
+      "Name": "All Quests Completed",
+      "Percentage": 21,
+      "XP": 50,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy063",
+      "SetID": "4elj81p",
+      "Name": "Discovered the Ascension",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "Trophy064",
+      "SetID": "4elj81p",
+      "Name": "Confronted Londra",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "Trophy065",
+      "SetID": "4elj81p",
+      "Name": "Aided the Quen",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy066",
+      "SetID": "4elj81p",
+      "Name": "Defeated Londra and His Horus",
+      "Percentage": 24,
+      "XP": 15,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "Trophy067",
+      "SetID": "4elj81p",
+      "Name": "All New Skills Learned",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy068",
+      "SetID": "4elj81p",
+      "Name": "Reached Level 60",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy069",
+      "SetID": "4elj81p",
+      "Name": "Used Brimshine",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy070",
+      "SetID": "4elj81p",
+      "Name": "Equipped an Elite Coil or Weave",
+      "Percentage": 18,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Trophy071",
+      "SetID": "4elj81p",
+      "Name": "Specter Gauntlet Upgraded",
+      "Percentage": 21,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy072",
+      "SetID": "4elj81p",
+      "Name": "Cauldron THETA Core Overridden",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy073",
+      "SetID": "4elj81p",
+      "Name": "All New Machines Scanned",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy074",
+      "SetID": "4elj81p",
+      "Name": "Completed the Dino Digits Quiz",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy075",
+      "SetID": "4elj81p",
+      "Name": "Recovered the Delvers\u0027 Trove",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy076",
+      "SetID": "4elj81p",
+      "Name": "Recovered All Aerial Captures",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Trophy077",
+      "SetID": "4elj81p",
+      "Name": "Used Grapple Strike on Machines",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "Trophy078",
+      "SetID": "4elj81p",
+      "Name": "Killed Machines While Gliding",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Trophy079",
+      "SetID": "4elj81p",
+      "Name": "Killed Bileguts and Stingspawn",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 5
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4elj81p",
+      "IsBase": true,
+      "Progressed": 33,
+      "Completed": 3
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:50.6535135+00:00",
   "LastUpdate_AppInfo": "2024-03-21T04:57:22.808736+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:17.2168693+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:17.1969602+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:42.094189+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:50.6544033+00:00"
 }

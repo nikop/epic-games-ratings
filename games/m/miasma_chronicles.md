@@ -5,60 +5,60 @@ Rating: 4.40 (Ranked 792)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,639 |
-| Ranidaphobia | 77.00% | ~1,372 |
-| Aspiring Editor | 74.00% | ~1,319 |
-| Gun for Hire | 70.00% | ~1,247 |
-| I am the law! | 64.00% | ~1,140 |
-| Lumberjack | 53.00% | ~944 |
-| Croaked | 49.00% | ~873 |
-| Limp Richard | 49.00% | ~873 |
-| Exorcist | 49.00% | ~873 |
-| Editor Adept | 48.00% | ~855 |
-| From Darkness to Light | 48.00% | ~855 |
-| Giant Killer | 46.00% | ~820 |
-| Sensei | 44.00% | ~784 |
-| The meaning of Kain | 43.00% | ~766 |
-| Firestarter | 42.00% | ~748 |
-| Recycler | 41.00% | ~731 |
-| Technophobe | 41.00% | ~731 |
-| Are you not entertained? | 37.00% | ~659 |
-| Jarhead | 37.00% | ~659 |
-| Ganglord | 36.00% | ~642 |
-| Infiltrator | 36.00% | ~642 |
-| Experienced | 34.00% | ~606 |
-| Hold The Line | 34.00% | ~606 |
-| Pushing Daisy | 34.00% | ~606 |
-| Silent but Violent | 30.00% | ~535 |
-| Endgame | 29.00% | ~517 |
-| Savior | 29.00% | ~517 |
-| There Can Be Only One! | 27.00% | ~481 |
-| Chain Killer | 22.00% | ~392 |
-| The Watchers | 22.00% | ~392 |
-| Commando | 17.00% | ~303 |
-| Dr Jones | 17.00% | ~303 |
-| Chaos Theory | 16.00% | ~285 |
-| Newtonian Knockout | 16.00% | ~285 |
-| Ruthless | 13.00% | ~232 |
-| Side Order | 11.00% | ~196 |
-| Bot Whisperer | 9.00% | ~160 |
-| Chain Reaction | 9.00% | ~160 |
-| Curveball | 8.00% | ~143 |
-| Wipe Out | 8.00% | ~143 |
-| Dressed To Kill | 7.00% | ~125 |
-| Master Editor | 7.00% | ~125 |
-| Attenborough | 6.00% | ~107 |
-| Bookworm | 4.00% | ~71 |
-| Cruelty | 3.00% | ~53 |
+| First Blood | 91.00% | ~1,650 |
+| Ranidaphobia | 76.00% | ~1,378 |
+| Aspiring Editor | 74.00% | ~1,342 |
+| Gun for Hire | 69.00% | ~1,251 |
+| I am the law! | 64.00% | ~1,160 |
+| Lumberjack | 54.00% | ~979 |
+| Croaked | 50.00% | ~906 |
+| Limp Richard | 49.00% | ~888 |
+| Exorcist | 49.00% | ~888 |
+| From Darkness to Light | 49.00% | ~888 |
+| Editor Adept | 48.00% | ~870 |
+| Giant Killer | 47.00% | ~852 |
+| Sensei | 45.00% | ~816 |
+| The meaning of Kain | 43.00% | ~780 |
+| Firestarter | 42.00% | ~761 |
+| Technophobe | 42.00% | ~761 |
+| Recycler | 41.00% | ~743 |
+| Are you not entertained? | 37.00% | ~671 |
+| Ganglord | 37.00% | ~671 |
+| Jarhead | 37.00% | ~671 |
+| Infiltrator | 36.00% | ~653 |
+| Experienced | 34.00% | ~616 |
+| Hold The Line | 34.00% | ~616 |
+| Pushing Daisy | 34.00% | ~616 |
+| Silent but Violent | 30.00% | ~544 |
+| Endgame | 29.00% | ~526 |
+| Savior | 29.00% | ~526 |
+| There Can Be Only One! | 27.00% | ~490 |
+| Chain Killer | 22.00% | ~399 |
+| The Watchers | 22.00% | ~399 |
+| Commando | 17.00% | ~308 |
+| Dr Jones | 17.00% | ~308 |
+| Chaos Theory | 16.00% | ~290 |
+| Newtonian Knockout | 16.00% | ~290 |
+| Ruthless | 13.00% | ~236 |
+| Side Order | 11.00% | ~199 |
+| Bot Whisperer | 9.00% | ~163 |
+| Chain Reaction | 9.00% | ~163 |
+| Curveball | 8.00% | ~145 |
+| Wipe Out | 8.00% | ~145 |
+| Dressed To Kill | 7.00% | ~127 |
+| Master Editor | 7.00% | ~127 |
+| Attenborough | 6.00% | ~109 |
+| Bookworm | 4.00% | ~73 |
+| Cruelty | 3.00% | ~54 |
 | Shadow Boxin' | 2.00% | ~36 |
 | Five Finger Deathcount | 1.00% | ~18 |
 | Goaaaaal! | 0.90% | ~16 |
-| Alpha Editor | 0.80% | ~14 |
-| Fratricide | 0.80% | ~14 |
-| QA Has Suffered! (Redux) | 0.70% | ~12 |
+| Alpha Editor | 0.80% | ~15 |
+| Fratricide | 0.80% | ~15 |
+| QA Has Suffered! (Redux) | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,782 (Ranked 272)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 1,813 (Ranked 285)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,6 +242,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-25 | 1,729 | 0 |
 | 2024-01-27 | 1,730 | 0 |
 | 2024-02-22 | 1,782 | 0 |
+| 2024-03-21 | 1,813 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

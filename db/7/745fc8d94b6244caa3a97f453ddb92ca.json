@@ -2,10 +2,10 @@
   "ID": "745fc8d94b6244caa3a97f453ddb92ca",
   "Name": "Project Nightmares Case 36: Henrietta Kedward",
   "ProductSlug": "project-nightmares-dcc54b",
-  "Ranking_EOS_Progress": 610,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
     "PcReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -194,6 +194,11 @@
       "Time": "2024-02-22T21:03:39.8309264+00:00",
       "NumProgressed": 38,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:42.2400449+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T08:05:18.6201734+00:00",
@@ -204,7 +209,7 @@
       "ID": "ACH_ABSOLUTEPITCH",
       "SetID": "9675gi1",
       "Name": "Absolute Pitch",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -268,7 +273,7 @@
       "ID": "ACH_PIECEOFCAKE",
       "SetID": "9675gi1",
       "Name": "A piece of cake",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "ACH_PUZZLEMASTER",
       "SetID": "9675gi1",
       "Name": "Puzzle Master",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -284,7 +289,7 @@
       "ID": "ACH_SECUNDARIA_MASK",
       "SetID": "9675gi1",
       "Name": "Collector",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -332,7 +337,7 @@
       "ID": "ST_CANDLE",
       "SetID": "9675gi1",
       "Name": "A light in the dark",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -348,9 +353,9 @@
       "ID": "ST_PLAGUE",
       "SetID": "9675gi1",
       "Name": "Plague Control",
-      "Percentage": 61,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ST_SEEKHIDE",
@@ -365,14 +370,14 @@
     {
       "ID": "9675gi1",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:39.8309263+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:42.2400443+00:00",
   "LastUpdate_AppInfo": "2024-03-15T09:57:20.9994974+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:54.8795316+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:39.8309375+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:29.5205742+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:42.2400587+00:00"
 }

@@ -5,60 +5,60 @@ Rating: 4.54 (Ranked 563)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 12.00% | ~99,052 |
-| Hotel California | 11.00% | ~90,798 |
-| Break A Leg | 10.00% | ~82,544 |
-| Coup de Grâce | 9.00% | ~74,289 |
-| Hazardous Materials | 9.00% | ~74,289 |
-| Personal Assistant Personally Assisted | 9.00% | ~74,289 |
-| Git Gutte! | 8.00% | ~66,035 |
-| Friends Like These | 8.00% | ~66,035 |
-| Apex Predator | 8.00% | ~66,035 |
-| Dr. Reed, I Presume? | 7.00% | ~57,781 |
-| Bookworm | 7.00% | ~57,781 |
-| Stacking the Deck | 7.00% | ~57,781 |
-| This is My Weapon | 7.00% | ~57,781 |
-| Anger Management | 6.00% | ~49,526 |
-| I Got a Zombie Army and You Can't Harm Me | 6.00% | ~49,526 |
-| But Doctor, I am Butcho | 6.00% | ~49,526 |
-| Can't Handle the Truth | 6.00% | ~49,526 |
-| Like Riding a Bike | 6.00% | ~49,526 |
-| A Patton Emerges | 6.00% | ~49,526 |
-| Perks of the Job | 5.00% | ~41,272 |
-| Slayer Squad | 5.00% | ~41,272 |
-| Zombologist | 5.00% | ~41,272 |
-| Ooh, Shiny! | 5.00% | ~41,272 |
-| I Am the Resurrection | 5.00% | ~41,272 |
-| Our True Nature | 5.00% | ~41,272 |
-| Whatever It Takes | 5.00% | ~7,549 |
-| Making Your Mark | 4.00% | ~33,017 |
-| Humanity Distilled | 4.00% | ~33,017 |
-| Down with the Sickness | 4.00% | ~33,017 |
-| One of Us | 4.00% | ~6,039 |
-| Pork Chopped | 4.00% | ~6,039 |
-| Jumbo Keyring | 3.00% | ~24,763 |
-| Max Headroom | 3.00% | ~24,763 |
-| Go, Bobcats! | 3.00% | ~24,763 |
-| Rising Star | 3.00% | ~24,763 |
-| Make it So | 2.00% | ~16,509 |
-| On Safari | 2.00% | ~16,509 |
-| Smorgasbord | 2.00% | ~16,509 |
-| Not Even My Final Form | 2.00% | ~16,509 |
-| Internet Famous | 2.00% | ~16,509 |
-| Variety is the Spice of Death | 2.00% | ~16,509 |
-| LA Influential | 1.00% | ~8,254 |
-| Sole Survivor | 1.00% | ~8,254 |
-| Gore Horse | 1.00% | ~8,254 |
-| Sharpest Tool in the Box | 1.00% | ~8,254 |
-| Survival Skills | 0.70% | ~5,778 |
-| Top That, Tisha! | 0.70% | ~1,057 |
-| Donk! | 0.40% | ~3,302 |
-| Lawn and Order | 0.30% | ~453 |
-| Wilhelm | 0.20% | ~302 |
-| Bucket List | 0.10% | ~825 |
+| Welcome To Hell-A | 14.00% | ~117,813 |
+| Hotel California | 12.00% | ~100,982 |
+| Break A Leg | 11.00% | ~92,567 |
+| Coup de Grâce | 10.00% | ~84,152 |
+| Hazardous Materials | 10.00% | ~84,152 |
+| Personal Assistant Personally Assisted | 10.00% | ~84,152 |
+| Git Gutte! | 9.00% | ~75,737 |
+| Friends Like These | 9.00% | ~75,737 |
+| Apex Predator | 9.00% | ~75,737 |
+| Dr. Reed, I Presume? | 8.00% | ~67,322 |
+| Bookworm | 8.00% | ~67,322 |
+| Stacking the Deck | 8.00% | ~67,322 |
+| This is My Weapon | 8.00% | ~67,322 |
+| I Got a Zombie Army and You Can't Harm Me | 7.00% | ~58,906 |
+| But Doctor, I am Butcho | 7.00% | ~58,906 |
+| Can't Handle the Truth | 7.00% | ~58,906 |
+| Anger Management | 6.00% | ~50,491 |
+| Perks of the Job | 6.00% | ~50,491 |
+| Slayer Squad | 6.00% | ~50,491 |
+| Like Riding a Bike | 6.00% | ~50,491 |
+| Zombologist | 6.00% | ~50,491 |
+| Ooh, Shiny! | 6.00% | ~50,491 |
+| A Patton Emerges | 6.00% | ~50,491 |
+| Our True Nature | 6.00% | ~50,491 |
+| Making Your Mark | 5.00% | ~42,076 |
+| I Am the Resurrection | 5.00% | ~42,076 |
+| Whatever It Takes | 5.00% | ~8,353 |
+| Pork Chopped | 5.00% | ~8,353 |
+| Humanity Distilled | 4.00% | ~33,661 |
+| Down with the Sickness | 4.00% | ~33,661 |
+| One of Us | 4.00% | ~6,683 |
+| Smorgasbord | 3.00% | ~25,246 |
+| Internet Famous | 3.00% | ~25,246 |
+| Jumbo Keyring | 3.00% | ~25,246 |
+| Max Headroom | 3.00% | ~25,246 |
+| Go, Bobcats! | 3.00% | ~25,246 |
+| Rising Star | 3.00% | ~25,246 |
+| Make it So | 2.00% | ~16,830 |
+| LA Influential | 2.00% | ~16,830 |
+| On Safari | 2.00% | ~16,830 |
+| Not Even My Final Form | 2.00% | ~16,830 |
+| Gore Horse | 2.00% | ~16,830 |
+| Variety is the Spice of Death | 2.00% | ~16,830 |
+| Sole Survivor | 1.00% | ~8,415 |
+| Sharpest Tool in the Box | 1.00% | ~8,415 |
+| Survival Skills | 0.80% | ~6,732 |
+| Top That, Tisha! | 0.70% | ~1,169 |
+| Donk! | 0.50% | ~4,208 |
+| Lawn and Order | 0.30% | ~501 |
+| Wilhelm | 0.20% | ~334 |
+| Bucket List | 0.10% | ~842 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 825,437 (Ranked 22)  
-Completed: 2,726 (0.33%) (Ranked 268)  
+Progressed: 841,520 (Ranked 22)  
+Completed: 2,808 (0.33%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,16 +341,17 @@ Completed: 2,726 (0.33%) (Ranked 268)
 | 2024-01-26 | 809,982 | 2,645 |
 | 2024-01-27 | 810,233 | 2,646 |
 | 2024-02-22 | 825,437 | 2,726 |
+| 2024-03-21 | 841,520 | 2,808 |
 ## Awards
 Max (Great Boss Battles): 12,393  (Ranked 36)  
-Sum: 19,432 (Ranked 67)  
+Sum: 19,434 (Ranked 67)  
 Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 12,393 |
 | This game is Great for Beginners | 1,027 |
 | This game has Diverse Characters | 958 |
-| This game has Quickly Understood Controls | 899 |
+| This game has Quickly Understood Controls | 901 |
 | This game is Relaxing | 849 |
 | This game has Amazing Storytelling | 843 |
 | This game is Highly Recommended | 838 |
@@ -694,4 +695,4 @@ Diff (max vs sum): -31
 | 2024-03-18 | 4.54 | 12,314 | 19,311 |
 | 2024-03-19 | 4.54 | 12,340 | 19,352 |
 | 2024-03-20 | 4.54 | 12,369 | 19,400 |
-| 2024-03-21 | 4.54 | 12,393 | 19,432 |
+| 2024-03-21 | 4.54 | 12,393 | 19,434 |

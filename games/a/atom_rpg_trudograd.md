@@ -5,25 +5,25 @@ Rating: 4.58 (Ranked 484)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,280 |
-| Household | 7.00% | ~103 |
-| An Old Friend | 6.00% | ~88 |
+| Fresh Prince of Trudograd | 87.00% | ~1,295 |
+| Household | 7.00% | ~104 |
+| An Old Friend | 6.00% | ~89 |
 | Lot 49 | 5.00% | ~74 |
 | Viva La Revolution | 5.00% | ~74 |
-| Atomic Soda | 4.00% | ~59 |
-| Mysterious Knife | 4.00% | ~59 |
-| Shadow over Trudograd | 4.00% | ~59 |
-| Walking Fortress | 4.00% | ~59 |
-| Freelance Police | 3.00% | ~44 |
-| The Great and Powerful | 3.00% | ~44 |
-| Albino Bloodsucker | 2.00% | ~29 |
-| Fight Club | 2.00% | ~29 |
-| Human Antidote | 2.00% | ~29 |
+| Atomic Soda | 4.00% | ~60 |
+| Mysterious Knife | 4.00% | ~60 |
+| Shadow over Trudograd | 4.00% | ~60 |
+| Walking Fortress | 4.00% | ~60 |
+| Freelance Police | 3.00% | ~45 |
+| The Great and Powerful | 3.00% | ~45 |
+| Albino Bloodsucker | 2.00% | ~30 |
+| Fight Club | 2.00% | ~30 |
+| Human Antidote | 2.00% | ~30 |
 | Death of the Author | 1.00% | ~15 |
-| Memoirs of a Nibbler | 1.00% | ~15 |
+| Memoirs of a Nibbler | 0.90% | ~13 |
 | Rising Star | 0.90% | ~13 |
 | KGB Bunker | 0.80% | ~12 |
-| Sixth Sense | 0.60% | ~9 |
+| Sixth Sense | 0.70% | ~10 |
 | Baby Eater | 0.50% | ~7 |
 | Incompetence | 0.40% | ~6 |
 | Admiral | 0.30% | ~4 |
@@ -38,8 +38,8 @@ Rating: 4.58 (Ranked 484)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,471 (Ranked 288)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 1,489 (Ranked 303)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,6 +239,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-26 | 1,425 | 0 |
 | 2024-01-27 | 1,426 | 0 |
 | 2024-02-22 | 1,471 | 0 |
+| 2024-03-21 | 1,489 | 0 |
 ## Awards
 Max (Character Customization): 27  (Ranked 569)  
 Sum: 27 (Ranked 589)  

@@ -2,10 +2,10 @@
   "ID": "d72cda8d85df470e9163aae4cd572cbc",
   "Name": "Frigato: Shadows of the Caribbean",
   "ProductSlug": "frigato-shadows-of-the-caribbean-7bf7bf",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-01T15:00:00+00:00",
     "PcReleaseDate": "2023-05-29T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-04T13:02:23.7892296+00:00",
   "LastUpdate_AppInfo": "2024-03-16T08:57:06.8671591+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:35.2152835+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:53.4962341+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:37.5575707+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:22.9576425+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fb88fc36cd3b4e0da545c51c4a908474",
   "Name": "Red Glare",
   "ProductSlug": "red-glare-0c98c5",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-25T13:00:00+00:00",
     "PcReleaseDate": "2024-01-24T19:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-31T15:59:57.0553359+00:00",
   "LastUpdate_AppInfo": "2024-03-19T01:37:49.1326386+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:41.0013703+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:08.4293539+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:58.0441941+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:38.7062946+00:00"
 }

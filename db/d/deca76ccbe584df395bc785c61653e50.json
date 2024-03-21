@@ -2,10 +2,10 @@
   "ID": "deca76ccbe584df395bc785c61653e50",
   "Name": "Booze Masters: Freezing Moonshine",
   "ProductSlug": "booze-masters-freezing-moonshine-f0449d",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-13T15:00:00+00:00",
     "PcReleaseDate": "2023-12-13T15:00:00+00:00",
@@ -30,9 +30,291 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-03-21T17:05:39.6779848+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ArriveAtTheHotel",
+      "SetID": "7643hf6",
+      "Name": "Przyjed\u017A do hotelu",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ArtCurator",
+      "SetID": "7643hf6",
+      "Name": "Powie\u015B obraz ba\u0142wana",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteBuildingFair",
+      "SetID": "7643hf6",
+      "Name": "Odbuduj ca\u0142y jarmark",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteBuildingHalfOfFair",
+      "SetID": "7643hf6",
+      "Name": "Odbuduj po\u0142ow\u0119 jarmarku",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CrimePlace",
+      "SetID": "7643hf6",
+      "Name": "Zr\u00F3b zdj\u0119cie zdemolowanego pokoju",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Drones",
+      "SetID": "7643hf6",
+      "Name": "Uruchom pierwszego drona",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DronesMax",
+      "SetID": "7643hf6",
+      "Name": "Uruchom wszystkie drony",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EndGame",
+      "SetID": "7643hf6",
+      "Name": "Uko\u0144cz gr\u0119",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FirstBoozeRiddle",
+      "SetID": "7643hf6",
+      "Name": "Uko\u0144cz pierwsz\u0105 bimbrow\u0105 zagadk\u0119.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FirstUseOfPlantAltar",
+      "SetID": "7643hf6",
+      "Name": "Wywo\u0142aj pierwsz\u0105 \u015Bnie\u017Cyc\u0119.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FixRadiator",
+      "SetID": "7643hf6",
+      "Name": "Napraw radiator",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FixScooter",
+      "SetID": "7643hf6",
+      "Name": "Zatankuj pojazd \u015Bnie\u017Cny",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FixTank",
+      "SetID": "7643hf6",
+      "Name": "Nape\u0142nij bak esencj\u0105 mrozu",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Flamethrower",
+      "SetID": "7643hf6",
+      "Name": "Zdob\u0105d\u017A miotacz ognia",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GhostBuster",
+      "SetID": "7643hf6",
+      "Name": "Zr\u00F3b zdj\u0119cie zjawie",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_IceCarrot",
+      "SetID": "7643hf6",
+      "Name": "Wychoduj zimn\u0105 marchew",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LastUseOfPlantAltar",
+      "SetID": "7643hf6",
+      "Name": "Maksymalnie na\u0142aduj \u015Bniegowy o\u0142tarz",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MakeYourFirstBooze",
+      "SetID": "7643hf6",
+      "Name": "Up\u0119d\u017A pierwsz\u0105 w\u00F3dk\u0119",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MasterOfRiddles",
+      "SetID": "7643hf6",
+      "Name": "Uko\u0144cz zagadk\u0119",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MaxRadiatorUpgrade",
+      "SetID": "7643hf6",
+      "Name": "Rozbuduj radiator na najwy\u017Cszy poziom",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MaxTankUpgrade",
+      "SetID": "7643hf6",
+      "Name": "Ulepsz bak do pe\u0142na",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MaxUpgradeVaccum",
+      "SetID": "7643hf6",
+      "Name": "Maksymalnie ulepsz odkurzacz",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MegaDoodad",
+      "SetID": "7643hf6",
+      "Name": "Zdob\u0105d\u017A nadwichajster",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MushroomPicker",
+      "SetID": "7643hf6",
+      "Name": "Znajd\u017A grzyba",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Photojournalist",
+      "SetID": "7643hf6",
+      "Name": "Sfotografuj Jarmark",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PickAxe",
+      "SetID": "7643hf6",
+      "Name": "Zdob\u0105d\u017A kilof",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Recycling",
+      "SetID": "7643hf6",
+      "Name": "Zbierz drzewo",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Renovator",
+      "SetID": "7643hf6",
+      "Name": "Ulepsz stanowisko bimbrownicze",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TrunkMaster",
+      "SetID": "7643hf6",
+      "Name": "Poszperaj w baga\u017Cniku",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UFO",
+      "SetID": "7643hf6",
+      "Name": "Zosta\u0144 idolem UFO",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UnlockAct_II",
+      "SetID": "7643hf6",
+      "Name": "Odblokuj II obszar gry",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UnlockAct_III",
+      "SetID": "7643hf6",
+      "Name": "Odblokuj III obszar gry",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UnlockAct_IV",
+      "SetID": "7643hf6",
+      "Name": "Odblokuj IV obszar gry",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Unpack",
+      "SetID": "7643hf6",
+      "Name": "Rozgo\u015B\u0107 si\u0119 w pokoju",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UpgradeVaccum",
+      "SetID": "7643hf6",
+      "Name": "Skorzystaj z ulepszenia odkurzacza",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7643hf6",
@@ -43,8 +325,8 @@
   ],
   "FirstSeen": "2023-12-13T22:58:26.9708912+00:00",
   "FirstSeenAchievements": "2024-01-05T10:03:27.7941703+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:39.4598138+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:39.6779829+00:00",
   "LastUpdate_AppInfo": "2024-03-14T22:57:12.5063983+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:38.0299528+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:39.4598154+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:39.3960027+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:39.6789457+00:00"
 }

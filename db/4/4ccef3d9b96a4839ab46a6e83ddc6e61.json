@@ -2,10 +2,10 @@
   "ID": "4ccef3d9b96a4839ab46a6e83ddc6e61",
   "Name": "Revival: Recolonization",
   "ProductSlug": "revival-recolonization-8f1705",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -23,17 +23,290 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
-  "LastUpdate_AppInfo": "2024-03-14T15:57:28.3464873+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:59.8578646+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:16.8524795+00:00"
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:12:05.7803826+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:12:05.7803875+00:00",
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ASSIM_TRIBE",
+      "SetID": "318a8jo",
+      "Name": "Clan King",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CLIMATE_CHANGE",
+      "SetID": "318a8jo",
+      "Name": "Terraformer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CLIMATE_ENEMY",
+      "SetID": "318a8jo",
+      "Name": "Good weather, isn\u0027t it?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DIA_UNIT",
+      "SetID": "318a8jo",
+      "Name": "This sword is amazing!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ELEC_UNIT",
+      "SetID": "318a8jo",
+      "Name": "We are electric",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ENEMY_AI",
+      "SetID": "318a8jo",
+      "Name": "Enemy of the All-Mind",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EPOCH_1",
+      "SetID": "318a8jo",
+      "Name": "Lets invent stuff!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EPOCH_2",
+      "SetID": "318a8jo",
+      "Name": "Good news everyone!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EPOCH_3",
+      "SetID": "318a8jo",
+      "Name": "Hail the power of science!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRE_UNIT",
+      "SetID": "318a8jo",
+      "Name": "Too hot for this game",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRST_CITY",
+      "SetID": "318a8jo",
+      "Name": "Foundation laid",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRST_EDICT",
+      "SetID": "318a8jo",
+      "Name": "Kind of magic",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FRAC_SLANDER",
+      "SetID": "318a8jo",
+      "Name": "Master Manipulator",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GMO_UNIT",
+      "SetID": "318a8jo",
+      "Name": "Genome editing!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_EDICT",
+      "SetID": "318a8jo",
+      "Name": "Elemental Lord",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_UNITS",
+      "SetID": "318a8jo",
+      "Name": "Brutality",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEG_BUILD",
+      "SetID": "318a8jo",
+      "Name": "The newest Wonder of the World",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LOTS_ENERGY",
+      "SetID": "318a8jo",
+      "Name": "Power overwhelming!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LOTS_GOLD",
+      "SetID": "318a8jo",
+      "Name": "Who wants to be a millionaire?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LOTS_PROSP",
+      "SetID": "318a8jo",
+      "Name": "The people\u0027s favorite",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAX_TRIBE",
+      "SetID": "318a8jo",
+      "Name": "Remember your roots",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NO_SCIENCE",
+      "SetID": "318a8jo",
+      "Name": "Progress is overrated",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OLD_WONDERS",
+      "SetID": "318a8jo",
+      "Name": "Collector of Antiquities",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_QUARTZ_UNIT",
+      "SetID": "318a8jo",
+      "Name": "Glass cannon",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RAD_UNIT",
+      "SetID": "318a8jo",
+      "Name": "Shining troops",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STEP_1",
+      "SetID": "318a8jo",
+      "Name": "First steps",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STEP_2",
+      "SetID": "318a8jo",
+      "Name": "What year is it?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STEP_3",
+      "SetID": "318a8jo",
+      "Name": "One eternity later",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TIT_UNIT",
+      "SetID": "318a8jo",
+      "Name": "Titanic effort",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TRADE",
+      "SetID": "318a8jo",
+      "Name": "Wanna deal?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TUT_COMP",
+      "SetID": "318a8jo",
+      "Name": "Ready for trouble!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_VASSAL_ATTACK",
+      "SetID": "318a8jo",
+      "Name": "By someone else\u0027s hands",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "318a8jo",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:12:05.7803874+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:05.780382+00:00",
+  "LastUpdate_AppInfo": "2024-03-21T16:57:24.7473456+00:00",
+  "LastUpdate_Ratings": "2024-03-21T16:58:11.0648781+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:05.7811633+00:00"
 }

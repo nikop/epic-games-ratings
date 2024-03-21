@@ -2,10 +2,10 @@
   "ID": "7e5f7d87c17c4e68b5e200306aa46344",
   "Name": "Bladerite",
   "ProductSlug": "bladerite-0f382c",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-01T04:00:00+00:00",
     "PcReleaseDate": "2023-04-25T01:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-01T21:57:25.1102718+00:00",
   "LastUpdate_AppInfo": "2024-03-19T09:57:27.5476583+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:47.8301536+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:50.1458484+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:51.1987485+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:14.5415414+00:00"
 }

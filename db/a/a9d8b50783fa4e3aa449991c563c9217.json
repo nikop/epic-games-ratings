@@ -2,10 +2,10 @@
   "ID": "a9d8b50783fa4e3aa449991c563c9217",
   "Name": "Project Tower",
   "ProductSlug": "project-tower-010f57",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-17T16:57:06.6235779+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:54.5105462+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:19.7618798+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:03.3630566+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:08.4953122+00:00"
 }

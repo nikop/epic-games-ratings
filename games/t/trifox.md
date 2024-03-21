@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 73.00% | ~77 |
-| Complete Level 1-1 | 63.00% | ~67 |
-| Immortal | 55.00% | ~58 |
+| What is this? | 73.00% | ~78 |
+| Complete Level 1-1 | 64.00% | ~68 |
+| Immortal | 55.00% | ~59 |
 | Complete Level 1-2 | 46.00% | ~49 |
 | Scraping by | 34.00% | ~36 |
 | Engineer-mage hybrid | 33.00% | ~35 |
 | Complete Level 1-3 | 32.00% | ~34 |
-| Defeat the warrior boss | 25.00% | ~26 |
-| Get out of my way | 23.00% | ~24 |
+| Defeat the warrior boss | 24.00% | ~26 |
+| Get out of my way | 22.00% | ~24 |
 | Redecorator | 21.00% | ~22 |
 | Just a sip | 20.00% | ~21 |
 | Complete Level 2-1 | 19.00% | ~20 |
@@ -30,9 +30,9 @@
 | Should have left me alone | 9.00% | ~10 |
 | Drink up | 9.00% | ~10 |
 | Mage-warrior hybrid | 9.00% | ~10 |
-| Complete Level 3-3 | 8.00% | ~8 |
-| Mage specialist | 8.00% | ~8 |
+| Complete Level 3-3 | 8.00% | ~9 |
 | Defeat the mage boss | 7.00% | ~7 |
+| Mage specialist | 7.00% | ~7 |
 | Remote retrieved | 6.00% | ~6 |
 | Engineer specialist | 6.00% | ~6 |
 | Way of the mage | 6.00% | ~6 |
@@ -51,8 +51,8 @@
 | Almost there | 0.90% | ~1 |
 | Go go go | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 513)  
-Completed: 1 (0.94%) (Ranked 192)  
+Progressed: 107 (Ranked 545)  
+Completed: 1 (0.93%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,6 +80,7 @@ Completed: 1 (0.94%) (Ranked 192)
 | 2023-11-15 | 104 | 1 |
 | 2024-01-04 | 105 | 1 |
 | 2024-01-20 | 106 | 1 |
+| 2024-03-21 | 107 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

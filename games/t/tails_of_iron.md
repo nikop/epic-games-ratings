@@ -5,45 +5,45 @@ Rating: 4.58 (Ranked 484)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 7.00% | ~172 |
-| Become King | 6.00% | ~147 |
-| Collect Monster Parts | 5.00% | ~123 |
-| Ranged Weapon | 5.00% | ~123 |
-| Two Handed Weapon | 5.00% | ~123 |
-| Defeat 25 Frogs | 5.00% | ~123 |
-| Collect Gold | 4.00% | ~98 |
-| Collect Iron Ore | 4.00% | ~98 |
-| Defeat 25 Grubs | 4.00% | ~98 |
-| Defeat 25 Mozis | 4.00% | ~98 |
-| Kitchen Ready To Cook | 4.00% | ~98 |
-| Smithy Ready to Craft | 4.00% | ~98 |
-| Rescue Redgi's Brothers | 4.00% | ~98 |
-| Shield Maiden Yellow Tongue | 4.00% | ~44 |
-| The Bright Fir | 4.00% | ~44 |
-| Return the Statues | 3.00% | ~74 |
-| Complete Elder Faction | 3.00% | ~74 |
-| End of the Mozis | 3.00% | ~74 |
-| Defeat Ratnor Rodentson | 3.00% | ~74 |
-| Defeat Rattus Augustail | 3.00% | ~74 |
-| Fix the Travellers Wagon | 3.00% | ~74 |
-| Meet the Creatures from the Deep | 3.00% | ~74 |
-| Throne Room Fit For A King | 3.00% | ~74 |
-| Return Power To The Depths | 3.00% | ~74 |
-| Defeat Croakhis Khan | 3.00% | ~33 |
-| I Remember My First Beer | 3.00% | ~33 |
-| Complete Arena Faction | 2.00% | ~49 |
-| Complete the Chefs Book | 2.00% | ~49 |
-| Complete Ranger Faction | 2.00% | ~49 |
-| Defeat Avor Warden of the Northern Wastes | 2.00% | ~49 |
-| Discover the mystery of the Kings Chambers | 2.00% | ~49 |
-| Defeat the Grub Buster | 2.00% | ~22 |
-| Defeat the Stalker Queen | 2.00% | ~22 |
-| Complete Redgi's Armory | 1.00% | ~25 |
-| King of Kings | 1.00% | ~25 |
-| A new Warchief rises | 0.10% | ~2 |
+| Complete Guard Faction | 8.00% | ~199 |
+| Become King | 7.00% | ~174 |
+| Ranged Weapon | 6.00% | ~149 |
+| Defeat 25 Frogs | 6.00% | ~149 |
+| Collect Iron Ore | 5.00% | ~124 |
+| Collect Monster Parts | 5.00% | ~124 |
+| Two Handed Weapon | 5.00% | ~124 |
+| Defeat 25 Grubs | 5.00% | ~124 |
+| Kitchen Ready To Cook | 5.00% | ~124 |
+| Rescue Redgi's Brothers | 5.00% | ~124 |
+| Collect Gold | 4.00% | ~99 |
+| Complete Elder Faction | 4.00% | ~99 |
+| End of the Mozis | 4.00% | ~99 |
+| Fix the Travellers Wagon | 4.00% | ~99 |
+| Defeat 25 Mozis | 4.00% | ~99 |
+| Meet the Creatures from the Deep | 4.00% | ~99 |
+| Smithy Ready to Craft | 4.00% | ~99 |
+| Throne Room Fit For A King | 4.00% | ~99 |
+| Return Power To The Depths | 4.00% | ~99 |
+| Defeat Croakhis Khan | 4.00% | ~45 |
+| Shield Maiden Yellow Tongue | 4.00% | ~45 |
+| The Bright Fir | 4.00% | ~45 |
+| Return the Statues | 3.00% | ~75 |
+| Complete the Chefs Book | 3.00% | ~75 |
+| Defeat Ratnor Rodentson | 3.00% | ~75 |
+| Defeat Rattus Augustail | 3.00% | ~75 |
+| Defeat the Grub Buster | 3.00% | ~34 |
+| Defeat the Stalker Queen | 3.00% | ~34 |
+| I Remember My First Beer | 3.00% | ~34 |
+| Complete Redgi's Armory | 2.00% | ~50 |
+| King of Kings | 2.00% | ~50 |
+| Complete Arena Faction | 2.00% | ~50 |
+| Complete Ranger Faction | 2.00% | ~50 |
+| Defeat Avor Warden of the Northern Wastes | 2.00% | ~50 |
+| Discover the mystery of the Kings Chambers | 2.00% | ~50 |
+| A new Warchief rises | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,451 (Ranked 252)  
-Completed: 15 (0.61%) (Ranked 220)  
+Progressed: 2,485 (Ranked 263)  
+Completed: 16 (0.64%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,6 +278,7 @@ Completed: 15 (0.61%) (Ranked 220)
 | 2024-01-26 | 2,354 | 12 |
 | 2024-01-27 | 2,358 | 12 |
 | 2024-03-04 | 2,451 | 15 |
+| 2024-03-21 | 2,485 | 16 |
 ## Awards
 Max (Character Customization): 21  (Ranked 605)  
 Sum: 21 (Ranked 607)  

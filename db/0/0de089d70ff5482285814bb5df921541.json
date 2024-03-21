@@ -2,10 +2,10 @@
   "ID": "0de089d70ff5482285814bb5df921541",
   "Name": "Not Another Weekend",
   "ProductSlug": "not-another-weekend-580d95",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 839,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-23T00:00:00+00:00",
     "PcReleaseDate": "2021-05-19T21:00:00+00:00",
@@ -22,26 +22,336 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:07:36.0660564+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:07:36.0660591+00:00",
+  "TotalAchievements": 37,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach_after_show",
+      "SetID": "54p1jj2",
+      "Name": "Purple Winged Angel",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_back_fourth",
+      "SetID": "54p1jj2",
+      "Name": "Should Have Been a Librarian",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_bigson_left",
+      "SetID": "54p1jj2",
+      "Name": "It Was All his Fault!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_bob_left",
+      "SetID": "54p1jj2",
+      "Name": "The Revenge of Adult Mutant Mouse",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_correct_orderswartz",
+      "SetID": "54p1jj2",
+      "Name": "I did not destroy the space-time continuum",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_deputy_melkout",
+      "SetID": "54p1jj2",
+      "Name": "Deputy Mike Melkout",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_ending",
+      "SetID": "54p1jj2",
+      "Name": "Enjoy it. We\u0027ve earned it.",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_found_food",
+      "SetID": "54p1jj2",
+      "Name": "Brave Soul",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_found_prankster",
+      "SetID": "54p1jj2",
+      "Name": "The Writing\u0027s on the Wall",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_found_robot",
+      "SetID": "54p1jj2",
+      "Name": "Magnetic Fields don\u0027t Lie",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_funnieslg_left",
+      "SetID": "54p1jj2",
+      "Name": "See you in 30 Years for the Reboot",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_give_dildo",
+      "SetID": "54p1jj2",
+      "Name": "Kinky",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_give_string",
+      "SetID": "54p1jj2",
+      "Name": "String Theory",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_goldverbin_leave",
+      "SetID": "54p1jj2",
+      "Name": "Power Out",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_got_receipt",
+      "SetID": "54p1jj2",
+      "Name": "Peepshow",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_jonny_leaves",
+      "SetID": "54p1jj2",
+      "Name": "No Pants No Worries",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_mason_left",
+      "SetID": "54p1jj2",
+      "Name": "Ready for the Family Business",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_messed_rider",
+      "SetID": "54p1jj2",
+      "Name": "Request Denied",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_michaels_left",
+      "SetID": "54p1jj2",
+      "Name": "Unreliable Narrator",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_monkporn_left",
+      "SetID": "54p1jj2",
+      "Name": "True Love",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nerdsrec_left",
+      "SetID": "54p1jj2",
+      "Name": "The Perfect Woman",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_paintings_read",
+      "SetID": "54p1jj2",
+      "Name": "Art Connoisseur",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_pay_resp",
+      "SetID": "54p1jj2",
+      "Name": "Above and Beyond the Call of Duty",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_pelican_left",
+      "SetID": "54p1jj2",
+      "Name": "Brussels Sprouts",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_plant_evidence",
+      "SetID": "54p1jj2",
+      "Name": "Bad Cop",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_prince_left",
+      "SetID": "54p1jj2",
+      "Name": "You\u0027ve Been Probed",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_realmason_left",
+      "SetID": "54p1jj2",
+      "Name": "Camp Friendship",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_seen_mason",
+      "SetID": "54p1jj2",
+      "Name": "Wait. Did I just see a Serial Killer over there?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_seen_roguecart",
+      "SetID": "54p1jj2",
+      "Name": "Look! It\u0027s Rogue Cart!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_show_on",
+      "SetID": "54p1jj2",
+      "Name": "Don\u0027t Call it a Comeback",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_sloganmouse_leave",
+      "SetID": "54p1jj2",
+      "Name": "Wild World Wrestling Time",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_talk_brain",
+      "SetID": "54p1jj2",
+      "Name": "Brain in a Jar",
+      "Percentage": 50,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ach_test_jeanbam",
+      "SetID": "54p1jj2",
+      "Name": "Lets Split!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_use_joystick",
+      "SetID": "54p1jj2",
+      "Name": "What a Waste of Time!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_westy_left",
+      "SetID": "54p1jj2",
+      "Name": "A New Adventure Awaits!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_wine_toilet",
+      "SetID": "54p1jj2",
+      "Name": "Wrong entry",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_wrong_orderswartz",
+      "SetID": "54p1jj2",
+      "Name": "I did destroy the space-time continuum",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "9m02nnl",
       "IsBase": true,
       "Progressed": 0,
       "Completed": 0
+    },
+    {
+      "ID": "54p1jj2",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-22T16:03:42.5263557+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:06.4884365+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:36.0660557+00:00",
   "LastUpdate_AppInfo": "2024-03-18T19:57:11.1348466+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:22.4074859+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:06.4884385+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:32.2327241+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:36.0670499+00:00"
 }

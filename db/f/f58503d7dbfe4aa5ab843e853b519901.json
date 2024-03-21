@@ -2,10 +2,10 @@
   "ID": "f58503d7dbfe4aa5ab843e853b519901",
   "Name": "The Inquisitor",
   "ProductSlug": "the-inquisitor-73701c",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 802,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-08T18:00:00+00:00",
     "PcReleaseDate": "2024-02-08T18:00:00+00:00",
@@ -24,12 +24,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:11:02.1149024+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-01-25T10:10:19.3277437+00:00",
   "TotalAchievements": 41,
   "TotalAchievementsXP": 1000,
@@ -38,41 +44,41 @@
       "ID": "ANIMALS_PROTECTOR",
       "SetID": "76ladh9",
       "Name": "Animals protector",
-      "Percentage": 0,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "AVID_COLLECTOR",
       "SetID": "76ladh9",
       "Name": "Avid Collector",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BLADES_OF_CALOGA",
       "SetID": "76ladh9",
       "Name": "Blades from Caloga",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHESS_MASTER",
       "SetID": "76ladh9",
       "Name": "Chess master",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CODE_BREAKER",
       "SetID": "76ladh9",
       "Name": "Code breaker",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DUST_TO_DUST",
@@ -86,9 +92,9 @@
       "ID": "EXECUTIONER_MASK",
       "SetID": "76ladh9",
       "Name": "Mask of the Merry Executioner from Tiannon.",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FALLEN_ANGELS_KILLER",
@@ -102,33 +108,33 @@
       "ID": "FAREWELL_FRIEND",
       "SetID": "76ladh9",
       "Name": "Farewell, Friend",
-      "Percentage": 0,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "FENCER",
       "SetID": "76ladh9",
       "Name": "Fencer",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINDERS_KEEPERS",
       "SetID": "76ladh9",
       "Name": "Finders Keepers",
-      "Percentage": 0,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "FIRST_PRAYER",
       "SetID": "76ladh9",
       "Name": "First Prayer",
-      "Percentage": 0,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "GOOD_BOY",
@@ -142,9 +148,9 @@
       "ID": "IRON_HAND",
       "SetID": "76ladh9",
       "Name": "Iron hand",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KOENIGSTEINS_GUIDE",
@@ -174,9 +180,9 @@
       "ID": "LORD_SWORD",
       "SetID": "76ladh9",
       "Name": "By the Lord\u2019s sword!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LOST_AND_FOUND",
@@ -190,17 +196,17 @@
       "ID": "MADNESS_FESTERS",
       "SetID": "76ladh9",
       "Name": "Madness Festers",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MASQUERADE_KING",
       "SetID": "76ladh9",
       "Name": "Masquerade king",
-      "Percentage": 0,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "MASTER_INQUISITOR",
@@ -222,17 +228,17 @@
       "ID": "MASTER_OF_ALCHEMY",
       "SetID": "76ladh9",
       "Name": "Master of alchemy",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MASTER_OF_LOGIC",
       "SetID": "76ladh9",
       "Name": "Master of logic",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MURK_TAMER",
@@ -246,9 +252,9 @@
       "ID": "NAILS_AND_THORNS",
       "SetID": "76ladh9",
       "Name": "By the nails and thorns!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEGOTIATOR",
@@ -278,9 +284,9 @@
       "ID": "SAVIOR_OF_MANKIND",
       "SetID": "76ladh9",
       "Name": "Savior of mankind",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SERVANT_OF_GOD",
@@ -310,33 +316,33 @@
       "ID": "SWORDSMAN",
       "SetID": "76ladh9",
       "Name": "Swordsman",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THIS_BUT_A_DUST",
       "SetID": "76ladh9",
       "Name": "\u2018Tis but dust, scamp.",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THREE_KINGS",
       "SetID": "76ladh9",
       "Name": "The Three Kings",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THREE_SIXES",
       "SetID": "76ladh9",
       "Name": "Three Sixes",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VAMPIRE_SLAYER",
@@ -350,31 +356,31 @@
       "ID": "WAYWARD_WOMAN",
       "SetID": "76ladh9",
       "Name": "Wayward Woman",
-      "Percentage": 0,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "WEASEL",
       "SetID": "76ladh9",
       "Name": "Nimble as a weasel",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "76ladh9",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-09T11:57:21.1267798+00:00",
   "FirstSeenAchievements": "2023-10-12T18:03:29.6771707+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:22.4580504+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:02.1149018+00:00",
   "LastUpdate_AppInfo": "2024-03-15T03:57:14.9981423+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:57.3017664+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:22.4580724+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:58.8281884+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:02.1149297+00:00"
 }

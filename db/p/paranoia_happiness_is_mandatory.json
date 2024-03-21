@@ -2,10 +2,10 @@
   "ID": "52613245bcd34a8eb99078f423620a4d",
   "Name": "Paranoia: Happiness is Mandatory",
   "ProductSlug": "paranoia",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-21T09:00:00+00:00",
     "PcReleaseDate": "2023-12-21T09:00:00+00:00",
@@ -31,7 +31,7 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2023-12-22T01:45:34.2547772+00:00",
-  "LastUpdate_AppInfo": "2024-03-14T15:57:28.6787605+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:55.619763+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:48.2485958+00:00"
+  "LastUpdate_AppInfo": "2024-03-21T16:57:25.418687+00:00",
+  "LastUpdate_Ratings": "2024-03-21T16:59:30.1878165+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:12.0234683+00:00"
 }

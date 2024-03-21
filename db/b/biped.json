@@ -2,10 +2,10 @@
   "ID": "e9ab5f3a0f524fdf800f324800acda60",
   "Name": "Biped",
   "ProductSlug": "biped",
-  "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 196,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10782,
+  "EOS_Progressed": 12031,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17839,6 +17839,11 @@
       "Time": "2024-01-27T13:07:38.7481255+00:00",
       "NumProgressed": 10782,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:18.7389758+00:00",
+      "NumProgressed": 12031,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17850,7 +17855,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3989
+      "UsersEstimate": 4451
     },
     {
       "ID": "10",
@@ -17858,15 +17863,15 @@
       "Name": "Robot\u00A0lives\u00A0matter\u00A0too",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "11",
       "SetID": "1dkhij4",
       "Name": "Telepathic",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 863
+      "UsersEstimate": 1083
     },
     {
       "ID": "12",
@@ -17874,7 +17879,7 @@
       "Name": "Trend\u00A0hunters",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "13",
@@ -17882,7 +17887,7 @@
       "Name": "I\u00A0can\u00A0do\u00A0this\u00A0alone",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "14",
@@ -17898,7 +17903,7 @@
       "Name": "Reaching\u00A0for\u00A0the\u00A0stars",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "2",
@@ -17906,7 +17911,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3489
     },
     {
       "ID": "3",
@@ -17914,7 +17919,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2527
     },
     {
       "ID": "4",
@@ -17922,7 +17927,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1444
     },
     {
       "ID": "5",
@@ -17930,7 +17935,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 863
+      "UsersEstimate": 962
     },
     {
       "ID": "6",
@@ -17938,15 +17943,15 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 755
+      "UsersEstimate": 842
     },
     {
       "ID": "7",
       "SetID": "1dkhij4",
       "Name": "Blue Rapids",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 722
     },
     {
       "ID": "8",
@@ -17954,7 +17959,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 361
     },
     {
       "ID": "9",
@@ -17962,14 +17967,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 647
+      "UsersEstimate": 722
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10782,
+      "Progressed": 12031,
       "Completed": 0
     }
   ],
@@ -17977,8 +17982,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:38.7481252+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:18.7389753+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:05.0618632+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:33.2422369+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:38.7482205+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:58.7178697+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:18.739072+00:00"
 }

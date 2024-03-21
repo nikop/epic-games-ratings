@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 50.00% | ~47 |
-| Beast Quest | 36.00% | ~34 |
-| Orb Gatherer | 35.00% | ~33 |
-| Space worm! | 35.00% | ~33 |
-| Monster Hunt | 34.00% | ~32 |
-| Beast Hunter | 32.00% | ~30 |
-| Unmasked! | 32.00% | ~30 |
-| Orb Collector | 31.00% | ~29 |
-| Vanquisher! | 30.00% | ~28 |
-| Twin slayer! | 30.00% | ~28 |
-| Snakehead! | 30.00% | ~28 |
-| Mercenary! | 30.00% | ~28 |
-| Loot, loot! | 30.00% | ~28 |
-| Fly, you fool! | 29.00% | ~27 |
-| Beast Knight | 24.00% | ~23 |
-| Relic Collector | 22.00% | ~21 |
-| God of the Tower! | 21.00% | ~20 |
-| Cartographer | 21.00% | ~20 |
-| Wizard Mastery | 15.00% | ~14 |
-| Rogue Mastery | 14.00% | ~13 |
-| Destoy all monsters! | 13.00% | ~12 |
-| Slay the Monster! | 13.00% | ~12 |
-| Fighter Mastery | 12.00% | ~11 |
-| Gorgonslayer Mastery | 10.00% | ~9 |
-| Built for adventure | 10.00% | ~9 |
-| Collector Mastery | 10.00% | ~9 |
-| True Black Knight | 9.00% | ~8 |
-| Freedom Monster | 9.00% | ~8 |
-| No match for me! | 4.00% | ~4 |
-| True Titan | 4.00% | ~4 |
+| Horn prize! | 51.00% | ~50 |
+| Orb Gatherer | 38.00% | ~37 |
+| Beast Quest | 37.00% | ~36 |
+| Space worm! | 37.00% | ~36 |
+| Monster Hunt | 36.00% | ~35 |
+| Beast Hunter | 33.00% | ~32 |
+| Unmasked! | 33.00% | ~32 |
+| Orb Collector | 32.00% | ~31 |
+| Vanquisher! | 31.00% | ~30 |
+| Twin slayer! | 31.00% | ~30 |
+| Snakehead! | 31.00% | ~30 |
+| Mercenary! | 31.00% | ~30 |
+| Loot, loot! | 31.00% | ~30 |
+| Fly, you fool! | 30.00% | ~29 |
+| Beast Knight | 26.00% | ~25 |
+| Relic Collector | 23.00% | ~23 |
+| God of the Tower! | 22.00% | ~22 |
+| Cartographer | 22.00% | ~22 |
+| Wizard Mastery | 16.00% | ~16 |
+| Rogue Mastery | 15.00% | ~15 |
+| Destoy all monsters! | 14.00% | ~14 |
+| Slay the Monster! | 14.00% | ~14 |
+| Fighter Mastery | 13.00% | ~13 |
+| True Black Knight | 10.00% | ~10 |
+| Freedom Monster | 10.00% | ~10 |
+| Gorgonslayer Mastery | 10.00% | ~10 |
+| Built for adventure | 10.00% | ~10 |
+| Collector Mastery | 10.00% | ~10 |
+| No match for me! | 5.00% | ~5 |
+| True Titan | 5.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 523)  
-Completed: 4 (4.26%) (Ranked 93)  
+Progressed: 98 (Ranked 560)  
+Completed: 5 (5.10%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 4 (4.26%) (Ranked 93)
 | 2024-01-15 | 89 | 4 |
 | 2024-01-18 | 90 | 4 |
 | 2024-03-04 | 94 | 4 |
+| 2024-03-21 | 98 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

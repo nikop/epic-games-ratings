@@ -5,38 +5,38 @@ Rating: 4.29 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~9,431 |
-| A Good Day To Die | 15.00% | ~6,737 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,695 |
-| Right Back Atcha | 6.00% | ~2,695 |
-| Killed by Death | 5.00% | ~2,246 |
-| Kill 'Em All | 4.00% | ~1,796 |
-| Down Boy! | 2.00% | ~898 |
-| A Snowball's Chance in Hell | 2.00% | ~898 |
-| Enjoy The Silence | 1.00% | ~449 |
-| Sure Footed As A Goat | 0.90% | ~404 |
-| Backdoor Man | 0.90% | ~404 |
-| Thorn in My Herbicide | 0.80% | ~359 |
-| Red In Tooth And Claw | 0.80% | ~359 |
-| Death Becomes Her | 0.80% | ~359 |
-| The Sky Is Falling | 0.80% | ~359 |
-| Schadenfreude | 0.80% | ~359 |
-| Start As You Mean To Go On | 0.70% | ~314 |
-| Hail the Great Horned Metal God! | 0.70% | ~314 |
-| That'll Come In Handy... | 0.70% | ~314 |
-| Four Legged Friend | 0.50% | ~225 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~225 |
-| Ice To See You | 0.50% | ~225 |
-| Smack My Imp Up | 0.50% | ~225 |
-| Vroll With It | 0.30% | ~135 |
-| Swift of Foot, Keen of Blade | 0.30% | ~135 |
-| Flame Retardant | 0.20% | ~90 |
-| Too Metal For Magic | 0.10% | ~45 |
-| Heart Of Steel | 0.10% | ~45 |
-| Death or Glory | 0.10% | ~45 |
+| Man 'O War | 21.00% | ~9,967 |
+| A Good Day To Die | 15.00% | ~7,120 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,848 |
+| Right Back Atcha | 6.00% | ~2,848 |
+| Killed by Death | 5.00% | ~2,373 |
+| Kill 'Em All | 5.00% | ~2,373 |
+| A Snowball's Chance in Hell | 3.00% | ~1,424 |
+| Down Boy! | 2.00% | ~949 |
+| Enjoy The Silence | 1.00% | ~475 |
+| Thorn in My Herbicide | 0.90% | ~427 |
+| Sure Footed As A Goat | 0.90% | ~427 |
+| Backdoor Man | 0.90% | ~427 |
+| Red In Tooth And Claw | 0.80% | ~380 |
+| Death Becomes Her | 0.80% | ~380 |
+| The Sky Is Falling | 0.80% | ~380 |
+| Schadenfreude | 0.80% | ~380 |
+| Start As You Mean To Go On | 0.70% | ~332 |
+| Hail the Great Horned Metal God! | 0.70% | ~332 |
+| That'll Come In Handy... | 0.70% | ~332 |
+| Four Legged Friend | 0.50% | ~237 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~237 |
+| Ice To See You | 0.50% | ~237 |
+| Smack My Imp Up | 0.50% | ~237 |
+| Vroll With It | 0.30% | ~142 |
+| Swift of Foot, Keen of Blade | 0.30% | ~142 |
+| Flame Retardant | 0.20% | ~95 |
+| Too Metal For Magic | 0.10% | ~47 |
+| Heart Of Steel | 0.10% | ~47 |
+| Death or Glory | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,911 (Ranked 136)  
-Completed: 30 (0.07%) (Ranked 350)  
+Progressed: 47,464 (Ranked 144)  
+Completed: 33 (0.07%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,6 +318,7 @@ Completed: 30 (0.07%) (Ranked 350)
 | 2024-01-25 | 44,841 | 30 |
 | 2024-01-26 | 44,880 | 30 |
 | 2024-01-27 | 44,911 | 30 |
+| 2024-03-21 | 47,464 | 33 |
 ## Awards
 Max (Great Boss Battles): 130  (Ranked 368)  
 Sum: 130 (Ranked 482)  

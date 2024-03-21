@@ -2,10 +2,10 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 555,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 580,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -359,6 +359,11 @@
       "Time": "2024-01-19T22:06:38.7153339+00:00",
       "NumProgressed": 69,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:07:47.305746+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -377,9 +382,9 @@
       "ID": "achievements.completemission.islands.01",
       "SetID": "1kd1942",
       "Name": "I Will Survive",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "achievements.completemission.islands.02",
@@ -395,29 +400,29 @@
       "Name": "Another Brick in the Node",
       "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 51
+      "UsersEstimate": 60
     },
     {
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "achievements.completemission.master.03",
       "SetID": "1kd1942",
       "Name": "Rebuilding the Ruins",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievements.completemission.master.04",
       "SetID": "1kd1942",
       "Name": "Copper Mission Impossible",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -425,17 +430,17 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 73
     },
     {
       "ID": "achievements.firstexpedition",
       "SetID": "1kd1942",
       "Name": "Cristoforo Magellanus",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "achievements.researches.all",
@@ -449,7 +454,7 @@
       "ID": "achievements.researches.constructions50",
       "SetID": "1kd1942",
       "Name": "Even side of the street",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -465,9 +470,9 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "achievements.researches.upgrades50",
@@ -475,7 +480,7 @@
       "Name": "Accelerating Progress",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievements.researches.upgradesall",
@@ -498,14 +503,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:14.9355352+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:47.3057453+00:00",
   "LastUpdate_AppInfo": "2024-03-16T02:11:29.3907281+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:28.2566642+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:14.9355505+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:51.8084815+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:47.305765+00:00"
 }

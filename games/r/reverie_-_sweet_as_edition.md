@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Not Your Standard Weapon | 100.00% | ~4 |
-| We All Need a Hobby | 100.00% | ~4 |
-| Renegade Fighter | 25.00% | ~1 |
-| Basement Dweller | 25.00% | ~1 |
+| Not Your Standard Weapon | 100.00% | ~5 |
+| We All Need a Hobby | 100.00% | ~5 |
+| Renegade Fighter | 20.00% | ~1 |
+| Basement Dweller | 20.00% | ~1 |
 | Ornithologist | 0.00% | ~0 |
 | Where Does He Fit Them All? | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
@@ -40,8 +40,8 @@
 | Just Like Captain Cook | 0.00% | ~0 |
 | Wind it Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 751)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 5 (Ranked 802)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,3 +49,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2023-07-01 | 2 | 0 |
 | 2023-08-07 | 3 | 0 |
 | 2023-08-13 | 4 | 0 |
+| 2024-03-21 | 5 | 0 |

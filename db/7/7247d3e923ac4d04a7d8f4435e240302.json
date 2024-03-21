@@ -2,10 +2,10 @@
   "ID": "7247d3e923ac4d04a7d8f4435e240302",
   "Name": "Live In The Country",
   "ProductSlug": "leichigame_01_litc-3523b0",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-27T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-19T19:57:09.5599091+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:08.2898875+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:05.2810885+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:12.7508231+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:14.3815988+00:00"
 }

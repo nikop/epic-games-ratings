@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 97.00% | ~192 |
-| Learn the Ropes | 64.00% | ~127 |
-| Working for the Kiweekend | 39.00% | ~77 |
-| Fun in the Bungalow Basin Sun | 37.00% | ~73 |
-| Practice Makes Postmasters | 35.00% | ~69 |
-| A Startling Discovery | 31.00% | ~61 |
-| Pumpkins and Postage Stamps | 22.00% | ~44 |
-| Kiwinter Kiwonderland | 7.00% | ~14 |
-| Secrets of the Telepost | 4.00% | ~8 |
-| Against All Odds | 2.00% | ~4 |
-| Autumn Postmasters | 2.00% | ~4 |
-| Summer Postmasters | 2.00% | ~4 |
-| Postmasters General | 1.00% | ~2 |
-| Winter Postmasters | 1.00% | ~2 |
-| Off to the Races | 0.50% | ~1 |
-| KeyWe are the Champions | 0.50% | ~1 |
-| Working Overtime | 0.50% | ~1 |
-| Stocking Up | 0.50% | ~1 |
+| You're Hired | 96.00% | ~234 |
+| Learn the Ropes | 67.00% | ~163 |
+| Fun in the Bungalow Basin Sun | 40.00% | ~98 |
+| Working for the Kiweekend | 39.00% | ~95 |
+| Practice Makes Postmasters | 37.00% | ~90 |
+| A Startling Discovery | 34.00% | ~83 |
+| Pumpkins and Postage Stamps | 24.00% | ~59 |
+| Kiwinter Kiwonderland | 8.00% | ~20 |
+| Secrets of the Telepost | 3.00% | ~7 |
+| Against All Odds | 2.00% | ~5 |
+| Summer Postmasters | 2.00% | ~5 |
+| Off to the Races | 1.00% | ~2 |
+| Autumn Postmasters | 1.00% | ~2 |
+| Postmasters General | 0.80% | ~2 |
+| Winter Postmasters | 0.80% | ~2 |
+| KeyWe are the Champions | 0.40% | ~1 |
+| Working Overtime | 0.40% | ~1 |
+| Stocking Up | 0.40% | ~1 |
 | Tournamasters | 0.00% | ~0 |
 | Fully Stocked | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198 (Ranked 452)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 244 (Ranked 464)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,6 +116,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-24 | 195 | 0 |
 | 2024-01-25 | 197 | 0 |
 | 2024-01-26 | 198 | 0 |
+| 2024-03-21 | 244 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

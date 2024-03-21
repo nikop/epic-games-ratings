@@ -2,10 +2,10 @@
   "ID": "2f0ada8893114e90910b83b554e5e9e7",
   "Name": "LOOPMANCER",
   "ProductSlug": "loopmancer",
-  "Ranking_EOS_Progress": 511,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 545,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -641,33 +641,33 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 111,
+      "Percentage": 114,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_AVOID_PLAZA_ATTACK",
       "SetID": "6d82akp",
       "Name": "Excellent Driving Skills",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 117,
+      "Percentage": 120,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
       "SetID": "6d82akp",
       "Name": "Best in Dragon City",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_DEFEAT_SBY_TIANWU_TPSN",
@@ -689,17 +689,17 @@
       "ID": "ACH_DEFEAT_TIANWU_TPSN",
       "SetID": "6d82akp",
       "Name": "Defeat the AI",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_DEFEAT_ZFGZ_TPSN",
       "SetID": "6d82akp",
       "Name": "Final Battle",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_DIE_FOR_ABYSM",
@@ -713,9 +713,9 @@
       "ID": "ACH_DIE_FOR_LIGHTING",
       "SetID": "6d82akp",
       "Name": "Terrible Weather",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DIE_FOR_VEHICLE",
@@ -753,9 +753,9 @@
       "ID": "ACH_ENDING_SIMULATE",
       "SetID": "6d82akp",
       "Name": "Brain in a Vat",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_ENDING_SWEET_DREAM",
@@ -769,9 +769,9 @@
       "ID": "ACH_ENDING_TVSHOW",
       "SetID": "6d82akp",
       "Name": "Outsider\u0027s Profit",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ENDING_WIFE_EBRAIN",
@@ -793,9 +793,9 @@
       "ID": "ACH_FLAPPYSEDAN_SCORE",
       "SetID": "6d82akp",
       "Name": "Pro Gamer",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FULLY_UPGRADED_MANY_ARMS",
@@ -809,9 +809,9 @@
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 72,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_HARDMODE_ALLCLEAR",
@@ -825,41 +825,41 @@
       "ID": "ACH_KILL_MANY_GAKOGUY",
       "SetID": "6d82akp",
       "Name": "Ninja Killer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_KILL_MANY_LONGXIGUY",
       "SetID": "6d82akp",
       "Name": "King of the Streets",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_KILL_MANY_SICKGUY",
       "SetID": "6d82akp",
       "Name": "Rest in peace",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_KILL_XFGZ_SEABASE",
       "SetID": "6d82akp",
       "Name": "Elimination",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_LET_GANGSTER_GO",
       "SetID": "6d82akp",
       "Name": "Disdain",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_LISTEN_TO_CLASSIC_MUSIC",
@@ -889,9 +889,9 @@
       "ID": "ACH_NOT_TUMBLE_DOWN",
       "SetID": "6d82akp",
       "Name": "Once Bitten, Twice Shy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_ONCE_OVERKILL_MANY_DIE",
@@ -913,49 +913,49 @@
       "ID": "ACH_PASS_PREFACE_ON_ROOF",
       "SetID": "6d82akp",
       "Name": "Unavoidable",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_SAVE_LISBETH_TIMEOUT",
       "SetID": "6d82akp",
       "Name": "Unsalvageable",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_SAVE_LIZBETH",
       "SetID": "6d82akp",
       "Name": "Fleet-footed",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_SAVE_LIZBETH_WIFE",
       "SetID": "6d82akp",
       "Name": "Invincible",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_SAVE_WIFE",
       "SetID": "6d82akp",
       "Name": "Reunion",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_SURVIVE_OGATA",
       "SetID": "6d82akp",
       "Name": "Fluke",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_UNLOCK_ALL_ANECDOTES",
@@ -1017,9 +1017,9 @@
       "ID": "ACH_UNLOCK_ALL_SKILL",
       "SetID": "6d82akp",
       "Name": "Survival Expert",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_UNLOCK_ALL_TECHGEAR",
@@ -1041,33 +1041,33 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 105,
+      "Percentage": 108,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_UNLOCK_MANY_CARDS",
       "SetID": "6d82akp",
       "Name": "Memento",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 87,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_UNPLUG_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Revenge",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_WATCH_DEVELOPERSLIST",
@@ -1081,17 +1081,17 @@
       "ID": "ACH_WEILONG_NANOKILL",
       "SetID": "6d82akp",
       "Name": "Neutralize",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_XFGZ_FALL_SEABASE",
       "SetID": "6d82akp",
       "Name": "Victor\u0027s Prejudice",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
@@ -1106,8 +1106,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:35.5075152+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:19.6568871+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:26.554941+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:08.5376554+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:35.5075529+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:13.1172299+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:19.6569351+00:00"
 }

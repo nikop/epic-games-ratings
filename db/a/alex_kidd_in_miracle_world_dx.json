@@ -2,10 +2,10 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 456,
+  "EOS_Progressed": 475,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -1099,6 +1099,11 @@
       "Time": "2024-01-26T20:04:01.5458506+00:00",
       "NumProgressed": 456,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-03-21T17:05:56.9574898+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1118,7 +1123,7 @@
       "Name": "Let\u0027s Talk",
       "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "BEAT_BOSS_RUSH",
@@ -1134,7 +1139,7 @@
       "Name": "Radaxian Protector",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CHOKKINA_DEFEATED",
@@ -1142,7 +1147,7 @@
       "Name": "Second Commander",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "EGLE_FREED",
@@ -1150,7 +1155,7 @@
       "Name": "Prisoner",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -1158,7 +1163,7 @@
       "Name": "First Commander",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -1166,7 +1171,7 @@
       "Name": "Assailants",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -1174,7 +1179,7 @@
       "Name": "Janken The Great",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_04",
@@ -1182,7 +1187,7 @@
       "Name": "Adventurer",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -1190,15 +1195,15 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "NO_PURCHASES",
       "SetID": "7im05fi",
       "Name": "Stingy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "OX_DEFEATED",
@@ -1206,7 +1211,7 @@
       "Name": "Wild Ox",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 187
+      "UsersEstimate": 195
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1214,7 +1219,7 @@
       "Name": "Third Commander",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "PET_DOG",
@@ -1222,7 +1227,7 @@
       "Name": "Overwhelmed Beast",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "TELEPATHY_BALL_OBTAINED",
@@ -1230,14 +1235,14 @@
       "Name": "Magic Ball",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 147
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 456,
+      "Progressed": 475,
       "Completed": 4
     }
   ],
@@ -1245,8 +1250,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:05:52.0237242+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:56.9574892+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:14.1816869+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:46.7184052+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:52.0237416+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:18.4040306+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:56.9575052+00:00"
 }

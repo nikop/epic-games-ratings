@@ -6,11 +6,11 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 15.00% | ~671 |
+| Eureka! | 15.00% | ~672 |
 | Tax-man I | 14.00% | ~627 |
 | A new beginning | 14.00% | ~627 |
-| Friends from the past | 12.00% | ~537 |
-| I like to build stuff... I | 10.00% | ~448 |
+| Friends from the past | 12.00% | ~538 |
+| I like to build stuff... I | 11.00% | ~493 |
 | Builder I | 9.00% | ~403 |
 | An honorable Governor I | 9.00% | ~403 |
 | Researcher | 9.00% | ~403 |
@@ -18,17 +18,17 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game I | 9.00% | ~403 |
 | Time for some trade | 9.00% | ~403 |
 | Full-time job I | 8.00% | ~358 |
-| Bread for the people I | 7.00% | ~313 |
-| I like to build stuff... II | 7.00% | ~313 |
-| Completionist I | 7.00% | ~313 |
-| Full-time job II | 7.00% | ~313 |
-| A time consuming game II | 7.00% | ~313 |
-| Knee deep in snow | 7.00% | ~313 |
-| Not a small trader anymore | 6.00% | ~268 |
-| The King's new clothes I | 6.00% | ~268 |
-| Builder II | 6.00% | ~268 |
-| Tax-man III | 6.00% | ~268 |
-| Tools of the trade I | 6.00% | ~268 |
+| Bread for the people I | 7.00% | ~314 |
+| I like to build stuff... II | 7.00% | ~314 |
+| Completionist I | 7.00% | ~314 |
+| Full-time job II | 7.00% | ~314 |
+| A time consuming game II | 7.00% | ~314 |
+| Knee deep in snow | 7.00% | ~314 |
+| Not a small trader anymore | 6.00% | ~269 |
+| The King's new clothes I | 6.00% | ~269 |
+| Builder II | 6.00% | ~269 |
+| Tax-man III | 6.00% | ~269 |
+| Tools of the trade I | 6.00% | ~269 |
 | Bread for the people II | 5.00% | ~224 |
 | I like to build stuff... III | 5.00% | ~224 |
 | An honorable Governor II | 5.00% | ~224 |
@@ -37,18 +37,19 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game III | 5.00% | ~224 |
 | Conflicting parties | 5.00% | ~224 |
 | Another one bites the dust | 4.00% | ~179 |
+| Bread for the people III | 4.00% | ~179 |
 | I like to build stuff... IV | 4.00% | ~179 |
 | The King's new clothes II | 4.00% | ~179 |
 | Experienced decorator | 4.00% | ~179 |
 | My precious... I | 4.00% | ~179 |
 | Tools of the trade II | 4.00% | ~179 |
-| Bread for the people III | 3.00% | ~134 |
 | Five brews are a schnitzel | 3.00% | ~134 |
 | I like to build stuff... V | 3.00% | ~134 |
 | Saint Florian | 3.00% | ~134 |
 | My precious... II | 3.00% | ~134 |
 | Cosmas and Damian | 3.00% | ~134 |
 | Builder III | 3.00% | ~134 |
+| Completionist II | 3.00% | ~134 |
 | Genius | 3.00% | ~134 |
 | A time consuming game IV | 3.00% | ~134 |
 | Tools of the trade III | 3.00% | ~134 |
@@ -61,7 +62,6 @@ Number of Ratings: 37  (23.09.2022)
 | Plague strikes! | 2.00% | ~90 |
 | Builder IV | 2.00% | ~90 |
 | An honorable Governor III | 2.00% | ~90 |
-| Completionist II | 2.00% | ~90 |
 | Completionist III | 2.00% | ~90 |
 | Only the sausage has two ends. | 2.00% | ~90 |
 | I've been everywhere V | 2.00% | ~90 |
@@ -74,28 +74,28 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere II | 1.00% | ~45 |
 | I've been everywhere I | 1.00% | ~45 |
 | I've been everywhere VI | 1.00% | ~45 |
+| The wood shortage | 1.00% | ~45 |
 | Builder V | 0.90% | ~40 |
-| The wood shortage | 0.90% | ~40 |
 | Last man standing | 0.80% | ~36 |
 | Buried | 0.80% | ~36 |
 | Craftsmen challenge | 0.80% | ~36 |
 | Penny pincher | 0.80% | ~36 |
 | To serve and protect | 0.80% | ~36 |
 | I've been everywhere III | 0.70% | ~31 |
+| Made my choice | 0.70% | ~31 |
 | Impregnable | 0.70% | ~31 |
 | I've been everywhere IV | 0.60% | ~27 |
 | Governor-elect | 0.60% | ~27 |
 | Little place in the country | 0.60% | ~27 |
 | I've been everywhere VIII | 0.60% | ~27 |
-| Made my choice | 0.60% | ~27 |
+| I've been everywhere IX | 0.60% | ~27 |
 | An honorable departure | 0.60% | ~27 |
 | I've been everywhere VII | 0.60% | ~27 |
 | It went unnoticed | 0.50% | ~22 |
 | Brew master | 0.50% | ~22 |
+| Negotiator | 0.50% | ~22 |
 | Panacea | 0.50% | ~22 |
-| I've been everywhere IX | 0.50% | ~22 |
 | I've been everywhere X | 0.50% | ~22 |
-| Negotiator | 0.40% | ~18 |
 | LEGEN… wait for it… DARY | 0.40% | ~18 |
 | War-zone | 0.40% | ~18 |
 | Waterways | 0.40% | ~18 |
@@ -108,8 +108,8 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,475 (Ranked 220)  
-Completed: 4 (0.09%) (Ranked 338)  
+Progressed: 4,481 (Ranked 233)  
+Completed: 4 (0.09%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,6 +276,7 @@ Completed: 4 (0.09%) (Ranked 338)
 | 2024-01-17 | 4,457 | 4 |
 | 2024-01-23 | 4,459 | 4 |
 | 2024-02-22 | 4,475 | 4 |
+| 2024-03-21 | 4,481 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

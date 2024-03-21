@@ -6,39 +6,39 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 48.00% | ~728 |
-| Double Kill | 42.00% | ~637 |
-| Critical Hit | 24.00% | ~364 |
-| Veteran | 24.00% | ~364 |
-| Dressed For Success | 16.00% | ~243 |
-| Humiliation | 12.00% | ~182 |
-| Veni, Vidi, Vici | 12.00% | ~182 |
-| Multi Kill | 9.00% | ~136 |
-| Sorcerous Spree | 9.00% | ~136 |
-| Landlord Extraordinaire | 8.00% | ~121 |
-| Master | 8.00% | ~121 |
-| Whoops! | 7.00% | ~106 |
-| Don't Touch My Stuff | 7.00% | ~106 |
-| The Song of Stoutheart | 6.00% | ~91 |
-| Trojan Horse | 5.00% | ~76 |
-| Expert Essence Employment | 5.00% | ~76 |
-| This Spot's Taken | 3.00% | ~45 |
-| Ultra Kill | 3.00% | ~45 |
-| Pyrrhic Victory | 3.00% | ~45 |
-| Venisti, Vidisti, Perdidisti | 3.00% | ~45 |
-| Deepstrike | 2.00% | ~30 |
-| Infernal Influence | 2.00% | ~30 |
-| From the Ashes | 2.00% | ~30 |
-| In The Thick of It | 1.00% | ~15 |
-| Together For Her | 1.00% | ~15 |
-| Such A Fungi | 1.00% | ~15 |
-| Cleave | 1.00% | ~15 |
-| Grand Master | 1.00% | ~15 |
-| Versatile Wielder | 0.90% | ~14 |
-| Killing Spree | 0.90% | ~14 |
-| Get Over Here! | 0.80% | ~12 |
-| Death To Diplomacy | 0.70% | ~11 |
-| Unlimited Power! | 0.70% | ~11 |
+| Adept | 48.00% | ~833 |
+| Double Kill | 42.00% | ~729 |
+| Critical Hit | 26.00% | ~451 |
+| Veteran | 25.00% | ~434 |
+| Dressed For Success | 17.00% | ~295 |
+| Humiliation | 13.00% | ~226 |
+| Veni, Vidi, Vici | 13.00% | ~226 |
+| Multi Kill | 10.00% | ~174 |
+| Sorcerous Spree | 10.00% | ~174 |
+| Master | 9.00% | ~156 |
+| Landlord Extraordinaire | 8.00% | ~139 |
+| Whoops! | 7.00% | ~122 |
+| Don't Touch My Stuff | 7.00% | ~122 |
+| The Song of Stoutheart | 6.00% | ~104 |
+| Trojan Horse | 6.00% | ~104 |
+| Expert Essence Employment | 5.00% | ~87 |
+| This Spot's Taken | 3.00% | ~52 |
+| Infernal Influence | 3.00% | ~52 |
+| Ultra Kill | 3.00% | ~52 |
+| Pyrrhic Victory | 3.00% | ~52 |
+| Deepstrike | 2.00% | ~35 |
+| Together For Her | 2.00% | ~35 |
+| From the Ashes | 2.00% | ~35 |
+| Grand Master | 2.00% | ~35 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~35 |
+| In The Thick of It | 1.00% | ~17 |
+| Killing Spree | 1.00% | ~17 |
+| Such A Fungi | 1.00% | ~17 |
+| Cleave | 1.00% | ~17 |
+| Versatile Wielder | 0.90% | ~16 |
+| Get Over Here! | 0.90% | ~16 |
+| Death To Diplomacy | 0.70% | ~12 |
+| Unlimited Power! | 0.70% | ~12 |
 | Attack Bonanza | 0.30% | ~5 |
 | Hello There | 0.30% | ~5 |
 | Fully Charged | 0.30% | ~5 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,516 (Ranked 284)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 1,736 (Ranked 290)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,10 +141,11 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-26 | 1,318 | 0 |
 | 2024-01-27 | 1,323 | 0 |
 | 2024-02-22 | 1,516 | 0 |
+| 2024-03-21 | 1,736 | 0 |
 ## Awards
 Max (Relaxing): 30  (Ranked 554)  
-Sum: 264 (Ranked 420)  
-Diff (max vs sum): 134  
+Sum: 264 (Ranked 421)  
+Diff (max vs sum): 133  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 30 |

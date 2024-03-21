@@ -2,10 +2,10 @@
   "ID": "aedb8e24937442da8d94c9f293454d83",
   "Name": "A Game About Flicking A Switch",
   "ProductSlug": "a-game-about-flicking-a-switch-713e7e",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "1jlb0gp",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:07:28.9228907+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:28.9228888+00:00",
   "LastUpdate_AppInfo": "2024-03-19T01:37:48.2760325+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:13.141151+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:00.6160513+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:18.4956015+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:28.9228922+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "ab9453bf57664c37b432a0eaae5e340a",
   "Name": "Gravitar Recharged",
   "ProductSlug": "gravitar-recharged-e606fe",
-  "Ranking_EOS_Progress": 717,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Completed": 392,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-06-02T04:00:00+00:00",
     "PcReleaseDate": "2022-06-01T00:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_Progressed": 2315,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:19.3599352+00:00",
@@ -70,6 +70,11 @@
       "Time": "2024-01-25T06:04:36.3670725+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:07:19.9695222+00:00",
+      "NumProgressed": 2315,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -79,169 +84,169 @@
       "ID": "ACH_A_VIRUS_FROM_OUTER_SPACE",
       "SetID": "7c10kej",
       "Name": "A Virus From Outer Space",
-      "Percentage": 13,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BIG_SCIENCE",
       "SetID": "7c10kej",
       "Name": "Big Science",
-      "Percentage": 13,
+      "Percentage": 5,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_BORN_NEVER_ASKED",
       "SetID": "7c10kej",
       "Name": "Born, Never Asked",
-      "Percentage": 13,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CLOSED_CIRCUITS",
       "SetID": "7c10kej",
       "Name": "Closed Circuits",
-      "Percentage": 13,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DANCE_OF_ELECTRICITY",
       "SetID": "7c10kej",
       "Name": "Dance Of Electricity",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DIFFICULT_HOUR",
       "SetID": "7c10kej",
       "Name": "Difficult Hour",
-      "Percentage": 13,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_FINNISH_FARMERS",
       "SetID": "7c10kej",
       "Name": "Finnish Farmers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FROM_THE_AIR",
       "SetID": "7c10kej",
       "Name": "From The Air",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_IF_YOU_CANT_TALK",
       "SetID": "7c10kej",
       "Name": "If You Can\u0027t Talk About It, Point To It",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_LET_X_EQ_X",
       "SetID": "7c10kej",
       "Name": "Let X=X",
-      "Percentage": 13,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_LOOKING_FOR_YOU",
       "SetID": "7c10kej",
       "Name": "Looking For You",
-      "Percentage": 13,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_O_SUPERMAN",
       "SetID": "7c10kej",
       "Name": "O, Superman",
-      "Percentage": 13,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_RED_MAP",
       "SetID": "7c10kej",
       "Name": "Red Map",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SAY_HELLO",
       "SetID": "7c10kej",
       "Name": "Say Hello",
-      "Percentage": 13,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_THE_MAILMANS_NIGHTMARE",
       "SetID": "7c10kej",
       "Name": "The Mailman\u0027s Nightmare",
-      "Percentage": 13,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_VIOLIN_SOLO",
       "SetID": "7c10kej",
       "Name": "Violin Solo",
-      "Percentage": 13,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_VIOLIN_WALK",
       "SetID": "7c10kej",
       "Name": "Violin Walk",
-      "Percentage": 13,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_WALKING_AND_FALLING",
       "SetID": "7c10kej",
       "Name": "Walking And Falling",
-      "Percentage": 13,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_WALK_THE_DOG",
       "SetID": "7c10kej",
       "Name": "Walk The Dog",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c10kej",
       "IsBase": true,
-      "Progressed": 8,
-      "Completed": 0
+      "Progressed": 2315,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:18.8259579+00:00",
   "FirstSeenRating": "2023-03-31T05:58:20.2079724+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.359936+00:00",
   "LastChanged": "2023-03-31T05:58:20.2079725+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:54.1720641+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:19.9695215+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:25.798217+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:54.5140074+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:54.1720737+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:52.8792846+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:19.9695378+00:00"
 }

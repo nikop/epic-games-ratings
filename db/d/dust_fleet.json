@@ -2,10 +2,10 @@
   "ID": "603a6b1a44614e81a5a3295816413227",
   "Name": "Dust Fleet",
   "ProductSlug": "dust-fleet-620614",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-23T18:00:00+00:00",
     "PcReleaseDate": "2023-08-23T18:00:00+00:00",
@@ -30,9 +30,339 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-03-21T17:07:19.7073254+00:00",
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achvBuildNetworkPower1",
+      "SetID": "3n49nga",
+      "Name": "Power extreme",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvBuildNetworkStations1",
+      "SetID": "3n49nga",
+      "Name": "The gathering",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvBuildStations1",
+      "SetID": "3n49nga",
+      "Name": "Station appreciator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvBuildStations2",
+      "SetID": "3n49nga",
+      "Name": "Station enthusiast",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvBuildStations3",
+      "SetID": "3n49nga",
+      "Name": "Station cosplayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCaptureOrca",
+      "SetID": "3n49nga",
+      "Name": "Admiral, there be whales here",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvChangeLoadout",
+      "SetID": "3n49nga",
+      "Name": "You don\u0027t know her a tenth as well as I do",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1",
+      "SetID": "3n49nga",
+      "Name": "Quite a ride",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission1",
+      "SetID": "3n49nga",
+      "Name": "Say Hello",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission10",
+      "SetID": "3n49nga",
+      "Name": "Clear the board",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission11",
+      "SetID": "3n49nga",
+      "Name": "Well, they\u0027re not gonna use it",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission12",
+      "SetID": "3n49nga",
+      "Name": "We\u0027ve got a full tank of gas, it\u0027s dark, and we\u0027re wearing sunglasses.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission13",
+      "SetID": "3n49nga",
+      "Name": "Passport? Check. Toothbrush? Check.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission14",
+      "SetID": "3n49nga",
+      "Name": "Are we there yet?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission2",
+      "SetID": "3n49nga",
+      "Name": "Raid the Raiders",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission3",
+      "SetID": "3n49nga",
+      "Name": "This sector ain\u0027t big enough for the both of us",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission4",
+      "SetID": "3n49nga",
+      "Name": "All alone in the night",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission5",
+      "SetID": "3n49nga",
+      "Name": "Wait patiently for the doctor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission6",
+      "SetID": "3n49nga",
+      "Name": "Are you a bad enough commander to save the president?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission7",
+      "SetID": "3n49nga",
+      "Name": "Answer the distress call",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission8",
+      "SetID": "3n49nga",
+      "Name": "Holy heck, what\u0027s that?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteC1Mission9",
+      "SetID": "3n49nga",
+      "Name": "Didn\u0027t see that coming",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteMission4StationHealth",
+      "SetID": "3n49nga",
+      "Name": "Hardly a scratch",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompletePrelude",
+      "SetID": "3n49nga",
+      "Name": "Welcome to space",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteSAHard",
+      "SetID": "3n49nga",
+      "Name": "A handshake from Admiral Connelly",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvCompleteSANormal",
+      "SetID": "3n49nga",
+      "Name": "An approving nod from Admiral Connelly",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyCruisers1",
+      "SetID": "3n49nga",
+      "Name": "Cruiser hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyCruisers2",
+      "SetID": "3n49nga",
+      "Name": "Cruiser assassin",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyCruisers3",
+      "SetID": "3n49nga",
+      "Name": "Cruiser nemesis",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyFrigates1",
+      "SetID": "3n49nga",
+      "Name": "Frigate hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyFrigates2",
+      "SetID": "3n49nga",
+      "Name": "Frigate assassin",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyFrigates3",
+      "SetID": "3n49nga",
+      "Name": "Frigate nemesis",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyTurrets1",
+      "SetID": "3n49nga",
+      "Name": "Turret hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyTurrets2",
+      "SetID": "3n49nga",
+      "Name": "Turret assassin",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvDestroyTurrets3",
+      "SetID": "3n49nga",
+      "Name": "Turret nemesis",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvEditLoadout",
+      "SetID": "3n49nga",
+      "Name": "Tinkerer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvMission3RescueAll4",
+      "SetID": "3n49nga",
+      "Name": "The full set",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvReverseEngineer",
+      "SetID": "3n49nga",
+      "Name": "Working backwards to go forwards",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvVeteran1",
+      "SetID": "3n49nga",
+      "Name": "Experienced crew",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvVeteran2",
+      "SetID": "3n49nga",
+      "Name": "A well-oiled machine",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achvVeteran3",
+      "SetID": "3n49nga",
+      "Name": "Experienced crew",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3n49nga",
@@ -43,8 +373,8 @@
   ],
   "FirstSeen": "2023-08-24T18:58:14.1320929+00:00",
   "FirstSeenAchievements": "2024-01-25T15:05:50.6296476+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:53.934291+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:19.7073239+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:04.6740346+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:41.6266351+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:53.9342925+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:42.8279706+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:19.7082039+00:00"
 }

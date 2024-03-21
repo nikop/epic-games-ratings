@@ -2,10 +2,10 @@
   "ID": "985a7dfa6292483fab6d3451a7914a1f",
   "Name": "Tamarak Trail",
   "ProductSlug": "tamarak-trail-0edcb0",
-  "Ranking_EOS_Progress": 789,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-29T17:00:00+00:00",
     "PcReleaseDate": "2024-02-29T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-03-04T23:04:16.7428178+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:12:05.5277285+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -44,9 +49,9 @@
       "ID": "Beast of the Woods",
       "SetID": "9837122",
       "Name": "Beast of the Woods",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Case Closed",
@@ -78,7 +83,7 @@
       "Name": "Critical Success",
       "Percentage": 50,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Curtain Call",
@@ -126,7 +131,7 @@
       "Name": "Hypnosis Breaker",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Limitless",
@@ -156,23 +161,23 @@
       "ID": "Unbreakable Resolve",
       "SetID": "9837122",
       "Name": "Unbreakable Resolve",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "9837122",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-02T13:58:27.4253138+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:16.7428204+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:16.7428175+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:05.5277279+00:00",
   "LastUpdate_AppInfo": "2024-03-14T17:57:20.4672317+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:11.6372319+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:16.7435062+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:27.7905078+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:05.5277381+00:00"
 }

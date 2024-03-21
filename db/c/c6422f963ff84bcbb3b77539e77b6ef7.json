@@ -2,10 +2,10 @@
   "ID": "c6422f963ff84bcbb3b77539e77b6ef7",
   "Name": "Ultros",
   "ProductSlug": "ultros",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 583,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-13T08:00:00+00:00",
     "PcReleaseDate": "2024-02-13T08:00:00+00:00",
@@ -20,27 +20,283 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 80,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:08:09.7867732+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:08:09.7867757+00:00",
+  "TotalAchievements": 31,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALL_FLOWERS",
+      "SetID": "2hbmfjb",
+      "Name": "Full blossom of the evening",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ALL_FRUIT",
+      "SetID": "2hbmfjb",
+      "Name": "The feast of harvest",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_GUTS",
+      "SetID": "2hbmfjb",
+      "Name": "The pound of flesh which I demand",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_VISTAS",
+      "SetID": "2hbmfjb",
+      "Name": "Writer\u0027s gratitude",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BAD_ENDING",
+      "SetID": "2hbmfjb",
+      "Name": "Out of darkness is born the light",
+      "Percentage": 3,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "BRUNZON",
+      "SetID": "2hbmfjb",
+      "Name": "Ground to a halt",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BRUNZON_REGEN",
+      "SetID": "2hbmfjb",
+      "Name": "The period of the pendulum",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CONNECT_SHAMAN_GG",
+      "SetID": "2hbmfjb",
+      "Name": "Hear them sing through the leaves",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CONNECT_SHAMAN_GR",
+      "SetID": "2hbmfjb",
+      "Name": "Underneath, spirits tremble",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CONNECT_SHAMAN_IL",
+      "SetID": "2hbmfjb",
+      "Name": "Strange currents of friendly promise drift by",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "CONNECT_SHAMAN_PS",
+      "SetID": "2hbmfjb",
+      "Name": "High above, bodies sigh",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CONNECT_SHAMAN_QQ",
+      "SetID": "2hbmfjb",
+      "Name": "A pulse grows in the temple",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CONNECT_SHAMAN_RO",
+      "SetID": "2hbmfjb",
+      "Name": "Flutters in the thick of trees",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CONNECT_SHAMAN_VL",
+      "SetID": "2hbmfjb",
+      "Name": "No trap can hold their whisper",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENRAGED_BEAST",
+      "SetID": "2hbmfjb",
+      "Name": "Wrath upon the enraged",
+      "Percentage": 40,
+      "XP": 5,
+      "UsersEstimate": 32
+    },
+    {
+      "ID": "ENRAGED_BEAST_REGEN",
+      "SetID": "2hbmfjb",
+      "Name": "In like a lion, out like a lamb",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FEASTRO",
+      "SetID": "2hbmfjb",
+      "Name": "A hungry stomach has no ears",
+      "Percentage": 11,
+      "XP": 5,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "FEASTRO_REGEN",
+      "SetID": "2hbmfjb",
+      "Name": "The flavor of kinship",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FILLED_CORTEX",
+      "SetID": "2hbmfjb",
+      "Name": "Beyond the intricate configuration of the mind",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "FRANKENPLANT",
+      "SetID": "2hbmfjb",
+      "Name": "Avant-gardener",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FULLY_UPGRADED_EXTRACTOR",
+      "SetID": "2hbmfjb",
+      "Name": "Cutting-edge",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "GOOD_ENDING",
+      "SetID": "2hbmfjb",
+      "Name": "Walking with all the stars within",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HOST",
+      "SetID": "2hbmfjb",
+      "Name": "For knowledge is limited",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "HOST_REGEN",
+      "SetID": "2hbmfjb",
+      "Name": "Encircled by imagination",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFINITY_SISTERS",
+      "SetID": "2hbmfjb",
+      "Name": "The end is where we start from",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "INFINITY_SISTERS_REGEN",
+      "SetID": "2hbmfjb",
+      "Name": "And one day will seem like three",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "REVEAL_MAP",
+      "SetID": "2hbmfjb",
+      "Name": "Cosmographical Meditations",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SWORDLESS",
+      "SetID": "2hbmfjb",
+      "Name": "Love rules without a sword",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "VASA",
+      "SetID": "2hbmfjb",
+      "Name": "Setting a trap for others",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "VASA_REGEN",
+      "SetID": "2hbmfjb",
+      "Name": "Humility opens the floodgates",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "VOLLY_KILL",
+      "SetID": "2hbmfjb",
+      "Name": "Nietzsche taken to heart",
+      "Percentage": 41,
+      "XP": 5,
+      "UsersEstimate": 33
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2hbmfjb",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 80,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-13T20:00:38.1528688+00:00",
   "FirstSeenAchievements": "2023-10-27T15:04:03.1385531+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:31.9644088+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:09.7867721+00:00",
   "LastUpdate_AppInfo": "2024-03-15T03:57:15.098697+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:37.6306353+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:31.9644108+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:40.0515571+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:09.787639+00:00"
 }

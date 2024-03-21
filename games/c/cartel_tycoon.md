@@ -6,28 +6,28 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 83.00% | ~885 |
-| Take-Off | 80.00% | ~853 |
-| Hokey-Pokey | 68.00% | ~725 |
-| Camellos | 53.00% | ~565 |
-| Bad Trip | 45.00% | ~480 |
-| Didn't Miss A Single One | 43.00% | ~458 |
-| That was base | 43.00% | ~458 |
-| Spread | 43.00% | ~458 |
-| Safe Pair of Hands | 34.00% | ~362 |
-| Don't Let Mom Know You're A Druglord | 30.00% | ~320 |
-| Architect of Fortunes | 23.00% | ~245 |
-| Bite the Blow | 22.00% | ~235 |
-| Pampered Life | 21.00% | ~224 |
-| Spreading Fear | 9.00% | ~96 |
-| Follow the Money | 7.00% | ~75 |
-| I'm Going To Call You Kitty | 6.00% | ~64 |
-| Operation Odessa | 1.00% | ~11 |
-| Iron Lady | 0.60% | ~6 |
-| Sense Of Style | 0.40% | ~4 |
+| Our Man | 83.00% | ~992 |
+| Take-Off | 81.00% | ~968 |
+| Hokey-Pokey | 67.00% | ~801 |
+| Camellos | 53.00% | ~633 |
+| Bad Trip | 45.00% | ~538 |
+| Didn't Miss A Single One | 43.00% | ~514 |
+| That was base | 43.00% | ~514 |
+| Spread | 43.00% | ~514 |
+| Safe Pair of Hands | 33.00% | ~394 |
+| Don't Let Mom Know You're A Druglord | 31.00% | ~370 |
+| Architect of Fortunes | 23.00% | ~275 |
+| Bite the Blow | 23.00% | ~275 |
+| Pampered Life | 22.00% | ~263 |
+| Spreading Fear | 8.00% | ~96 |
+| I'm Going To Call You Kitty | 7.00% | ~84 |
+| Follow the Money | 6.00% | ~72 |
+| Operation Odessa | 1.00% | ~12 |
+| Iron Lady | 0.50% | ~6 |
+| Sense Of Style | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,066 (Ranked 308)  
-Completed: 3 (0.28%) (Ranked 280)  
+Progressed: 1,195 (Ranked 321)  
+Completed: 4 (0.33%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,6 +267,7 @@ Completed: 3 (0.28%) (Ranked 280)
 | 2024-01-24 | 1,063 | 3 |
 | 2024-01-25 | 1,064 | 3 |
 | 2024-01-26 | 1,066 | 3 |
+| 2024-03-21 | 1,195 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

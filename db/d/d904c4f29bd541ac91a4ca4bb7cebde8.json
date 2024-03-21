@@ -2,10 +2,10 @@
   "ID": "d904c4f29bd541ac91a4ca4bb7cebde8",
   "Name": "Ouch! So many beauties!",
   "ProductSlug": "videogame-9ad7f5",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-21T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -23,17 +23,378 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:12:00.7760287+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:12:00.7760316+00:00",
+  "TotalAchievements": 43,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "A true curious ghost",
+      "SetID": "3j2044",
+      "Name": "A true curious ghost",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Agreed?",
+      "SetID": "3j2044",
+      "Name": "Agreed?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "All nodes unlocked",
+      "SetID": "3j2044",
+      "Name": "All nodes unlocked",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Alone and solitary",
+      "SetID": "3j2044",
+      "Name": "Alone and solitary",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Alone with Memories",
+      "SetID": "3j2044",
+      "Name": "Alone with Memories",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bubble bath",
+      "SetID": "3j2044",
+      "Name": "Bubble bath",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Cola flavor",
+      "SetID": "3j2044",
+      "Name": "Cola flavor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Create the future together",
+      "SetID": "3j2044",
+      "Name": "Create the future together",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Curious ghost",
+      "SetID": "3j2044",
+      "Name": "Curious ghost",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Do you all know each other?",
+      "SetID": "3j2044",
+      "Name": "Do you all know each other?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Double happiness",
+      "SetID": "3j2044",
+      "Name": "Double happiness",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dreams come true",
+      "SetID": "3j2044",
+      "Name": "Dreams come true",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Emotions traverse the ends of the earth",
+      "SetID": "3j2044",
+      "Name": "Emotions traverse the ends of the earth",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Enduring affection",
+      "SetID": "3j2044",
+      "Name": "Enduring affection",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Fitness Expert",
+      "SetID": "3j2044",
+      "Name": "Fitness Expert",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hard Liquor",
+      "SetID": "3j2044",
+      "Name": "Hard Liquor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hit it off",
+      "SetID": "3j2044",
+      "Name": "Hit it off",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "I have graduated",
+      "SetID": "3j2044",
+      "Name": "I have graduated",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "I haven\u2019t had enough of it yet",
+      "SetID": "3j2044",
+      "Name": "I haven\u2019t had enough of it yet",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "I\u2019ll take over, I can handle a lot",
+      "SetID": "3j2044",
+      "Name": "I\u2019ll take over, I can handle a lot",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Love is hard to continue",
+      "SetID": "3j2044",
+      "Name": "Love is hard to continue",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Love\u2019s bond is hard to continue",
+      "SetID": "3j2044",
+      "Name": "Love\u2019s bond is hard to continue",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Make matters worse",
+      "SetID": "3j2044",
+      "Name": "Make matters worse",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Meet in person",
+      "SetID": "3j2044",
+      "Name": "Meet in person",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Merry Christmas!",
+      "SetID": "3j2044",
+      "Name": "Merry Christmas!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Moving forward hand in hand",
+      "SetID": "3j2044",
+      "Name": "Moving forward hand in hand",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mutual affection",
+      "SetID": "3j2044",
+      "Name": "Mutual affection",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "No pain! Stubborn head",
+      "SetID": "3j2044",
+      "Name": "No pain! Stubborn head",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Not a single one less",
+      "SetID": "3j2044",
+      "Name": "Not a single one less",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ouch",
+      "SetID": "3j2044",
+      "Name": "Ouch",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pajamas",
+      "SetID": "3j2044",
+      "Name": "Pajamas",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Role Reversal",
+      "SetID": "3j2044",
+      "Name": "Role Reversal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Schr\u00F6dinger\u2019s Door",
+      "SetID": "3j2044",
+      "Name": "Schr\u00F6dinger\u2019s Door",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Scumbag\u2019s encouragement",
+      "SetID": "3j2044",
+      "Name": "Scumbag\u2019s encouragement",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Spoiled to death",
+      "SetID": "3j2044",
+      "Name": "Spoiled to death",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The Triumph of Straight Men",
+      "SetID": "3j2044",
+      "Name": "The Triumph of Straight Men",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The end of a romance",
+      "SetID": "3j2044",
+      "Name": "The end of a romance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "This is willpower",
+      "SetID": "3j2044",
+      "Name": "This is willpower",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tossing and turning for half a day",
+      "SetID": "3j2044",
+      "Name": "Tossing and turning for half a day",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tossing and turning for half a day2",
+      "SetID": "3j2044",
+      "Name": "Tossing and turning for half a day2",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "What are you thinking about?",
+      "SetID": "3j2044",
+      "Name": "What are you thinking about?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Would you like to drink something else?",
+      "SetID": "3j2044",
+      "Name": "Would you like to drink something else?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Your birthday",
+      "SetID": "3j2044",
+      "Name": "Your birthday",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "3j2044",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:12:00.7760315+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:00.7760281+00:00",
   "LastUpdate_AppInfo": "2024-03-16T05:57:31.1609715+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:01:11.4583615+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:12.4356592+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:52.3741207+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:00.7768938+00:00"
 }

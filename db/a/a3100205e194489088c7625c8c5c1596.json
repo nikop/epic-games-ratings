@@ -5,10 +5,10 @@
   "Ranking_Rating": 1030,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 107,
+  "Ranking_EOS_Completed": 276,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
     "PcReleaseDate": "2022-12-08T17:00:00+00:00",
@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108599,
-  "EOS_Completed": 388,
-  "EOS_NewPlayers": 1067,
-  "EOS_NewCompleters": 23,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Progressed": 114744,
+  "EOS_Completed": 449,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-09-21T16:05:53.4712577+00:00",
@@ -15371,6 +15371,11 @@
       "Time": "2024-01-27T13:07:17.8312502+00:00",
       "NumProgressed": 108599,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2024-03-21T17:07:51.376191+00:00",
+      "NumProgressed": 114744,
+      "NumCompleted": 449
     }
   ],
   "AchievementsAdded": "2023-09-15T07:03:16.7096023+00:00",
@@ -15383,7 +15388,7 @@
       "Name": "Forest Stage Discovered",
       "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 97739
+      "UsersEstimate": 103270
     },
     {
       "ID": "JB_is_Playing",
@@ -15391,7 +15396,7 @@
       "Name": "JB is Playing",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 24978
+      "UsersEstimate": 26391
     },
     {
       "ID": "JBs_House_Discovered",
@@ -15399,15 +15404,15 @@
       "Name": "JB\u2019s House Discovered",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 28236
+      "UsersEstimate": 29833
     },
     {
       "ID": "Kirk_is_Playing",
       "SetID": "8a67465",
       "Name": "Kirk is Playing",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 45612
+      "UsersEstimate": 49340
     },
     {
       "ID": "Kirks_House_Discovered",
@@ -15415,7 +15420,7 @@
       "Name": "Kirk\u2019s House Discovered",
       "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 72761
+      "UsersEstimate": 76878
     },
     {
       "ID": "Lamp_Post_Illuminated",
@@ -15423,7 +15428,7 @@
       "Name": "Lamp Post Illuminated",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 98825
+      "UsersEstimate": 104417
     },
     {
       "ID": "Lights_On",
@@ -15431,7 +15436,7 @@
       "Name": "Lights On",
       "Percentage": 0.5,
       "XP": 200,
-      "UsersEstimate": 543
+      "UsersEstimate": 574
     },
     {
       "ID": "Sebastians_House_Discovered",
@@ -15439,7 +15444,7 @@
       "Name": "Sebastian\u0027s House Discovered",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 20634
+      "UsersEstimate": 21801
     },
     {
       "ID": "The_Band_is_Back_Together",
@@ -15447,23 +15452,23 @@
       "Name": "The Band is Back Together",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 7602
+      "UsersEstimate": 8032
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a67465",
       "IsBase": true,
-      "Progressed": 108599,
-      "Completed": 388
+      "Progressed": 114744,
+      "Completed": 449
     }
   ],
   "FirstSeen": "2023-09-21T18:00:01.3259174+00:00",
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
   "LastChanged": "2024-03-20T17:57:42.4810945+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:17.8312496+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:51.3761903+00:00",
   "LastUpdate_AppInfo": "2024-03-15T06:57:10.7645369+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:09.214054+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:17.8313268+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:08.8230772+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:51.3763024+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7c6b6697df584024be9c60a1da59096b",
   "Name": "Dude, Where Is My Beer?",
   "ProductSlug": "dude-where-is-my-beer-2455aa",
-  "Ranking_EOS_Progress": 527,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
     "PcReleaseDate": "2020-11-04T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 111,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -414,6 +414,11 @@
       "Time": "2024-01-27T05:05:59.4910316+00:00",
       "NumProgressed": 92,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:06:07.0843839+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T15:07:12.853291+00:00",
@@ -432,15 +437,15 @@
       "ID": "30_BEERS",
       "SetID": "6akbe6n",
       "Name": "Isn\u0027t it enough?",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "3_SMOOTHIES",
       "SetID": "6akbe6n",
       "Name": "Good Samaritan",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -448,9 +453,9 @@
       "ID": "5_DIFFERENT_BEERS",
       "SetID": "6akbe6n",
       "Name": "Beer Snob",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ALARMCLOCK",
@@ -488,9 +493,9 @@
       "ID": "CHANGED_CHANNEL",
       "SetID": "6akbe6n",
       "Name": "Social disturber",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GIVE_MILK_TO_CAT",
@@ -512,33 +517,33 @@
       "ID": "LIGHTS_10_TIMES",
       "SetID": "6akbe6n",
       "Name": "Environmental offender",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "LOOKED_FOUNTAIN",
       "SetID": "6akbe6n",
       "Name": "Free Walking Tour",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "MILO_GOES_DOWN",
       "SetID": "6akbe6n",
       "Name": "Domino effect",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MY_FIRST_BEER",
       "SetID": "6akbe6n",
       "Name": "My first beer",
-      "Percentage": 41,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 57
     },
     {
       "ID": "NO_HINTS_USED",
@@ -554,15 +559,15 @@
       "Name": "Perv!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "PICKEDUP_BURRITO",
       "SetID": "6akbe6n",
       "Name": "Trash hunter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "PORN_ON",
@@ -584,31 +589,31 @@
       "ID": "SOBER_10_TIMES",
       "SetID": "6akbe6n",
       "Name": "Hangover Hero",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "UNLOCKED_IPHONE",
       "SetID": "6akbe6n",
       "Name": "History Buff",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "6akbe6n",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 111,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:00.0729651+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:07.0843833+00:00",
   "LastUpdate_AppInfo": "2024-03-14T22:57:12.9194223+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:39.3564268+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:00.0729794+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:07.0636748+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:07.0843984+00:00"
 }

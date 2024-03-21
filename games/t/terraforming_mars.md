@@ -6,44 +6,44 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Journey | 0.10% | ~95 |
-| Team Effort | 0.10% | ~95 |
-| Terraformer | 0.10% | ~95 |
-| New Home | 0.10% | ~95 |
-| No Longer Red | 0.10% | ~95 |
-| Landlord | 0.10% | ~95 |
-| Biggest Reward | 0.10% | ~95 |
-| Most Achievements | 0.10% | ~95 |
-| Variety Expert | 0.10% | ~95 |
-| Project Manager | 0.10% | ~95 |
-| It's a steal! | 0.10% | ~95 |
-| Changing the Planet | 0.10% | ~95 |
-| Prop-M Rover | 0.10% | ~95 |
-| Spirit | 0.10% | ~95 |
-| Opportunity | 0.10% | ~95 |
-| Curiosity | 0.10% | ~95 |
-| Beagle 2 | 0.10% | ~95 |
-| Sojourner | 0.10% | ~95 |
-| Collector | 0.10% | ~95 |
-| Winner Winner Terraformer | 0.10% | ~95 |
-| Acquired knowledge | 0.10% | ~95 |
-| Money money | 0.10% | ~95 |
-| Final touch | 0.10% | ~95 |
-| Self-sufficient | 0.10% | ~95 |
-| Frequent tester | 0.10% | ~95 |
-| Hellenic Elysium | 0.10% | ~95 |
-| Ultimate success | 0.10% | ~95 |
-| Grand champion | 0.10% | ~95 |
-| Master | 0.10% | ~95 |
-| Determined | 0.10% | ~95 |
-| Head in the clouds | 0.10% | ~2 |
-| The Shepherd's tiles | 0.10% | ~2 |
-| Venusian | 0.10% | ~2 |
-| Consultant | 0.10% | ~2 |
-| Birth of Venus | 0.10% | ~2 |
+| It's a steal! | 0.80% | ~778 |
+| Prop-M Rover | 0.80% | ~778 |
+| Changing the Planet | 0.70% | ~681 |
+| First Journey | 0.60% | ~583 |
+| New Home | 0.60% | ~583 |
+| Sojourner | 0.60% | ~583 |
+| Beagle 2 | 0.50% | ~486 |
+| Collector | 0.50% | ~486 |
+| Final touch | 0.50% | ~486 |
+| No Longer Red | 0.40% | ~389 |
+| Project Manager | 0.40% | ~389 |
+| Curiosity | 0.40% | ~389 |
+| Landlord | 0.30% | ~292 |
+| Biggest Reward | 0.30% | ~292 |
+| Winner Winner Terraformer | 0.30% | ~292 |
+| Money money | 0.30% | ~292 |
+| Master | 0.30% | ~292 |
+| The Shepherd's tiles | 0.30% | ~12 |
+| Venusian | 0.30% | ~12 |
+| Most Achievements | 0.20% | ~194 |
+| Variety Expert | 0.20% | ~194 |
+| Spirit | 0.20% | ~194 |
+| Acquired knowledge | 0.20% | ~194 |
+| Self-sufficient | 0.20% | ~194 |
+| Hellenic Elysium | 0.20% | ~194 |
+| Ultimate success | 0.20% | ~194 |
+| Grand champion | 0.20% | ~194 |
+| Head in the clouds | 0.20% | ~8 |
+| Team Effort | 0.10% | ~97 |
+| Terraformer | 0.10% | ~97 |
+| Opportunity | 0.10% | ~97 |
+| Frequent tester | 0.10% | ~97 |
+| Determined | 0.10% | ~97 |
+| Consultant | 0.10% | ~4 |
+| Birth of Venus | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,672 (Ranked 109)  
-Completed: 191 (0.20%) (Ranked 296)  
+Progressed: 97,245 (Ranked 114)  
+Completed: 196 (0.20%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,6 +326,7 @@ Completed: 191 (0.20%) (Ranked 296)
 | 2024-01-26 | 91,894 | 186 |
 | 2024-01-27 | 91,970 | 186 |
 | 2024-02-22 | 94,672 | 191 |
+| 2024-03-21 | 97,245 | 196 |
 ## Awards
 Max (Relaxing): 551  (Ranked 227)  
 Sum: 3,425 (Ranked 184)  

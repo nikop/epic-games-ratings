@@ -2,10 +2,10 @@
   "ID": "125eda42f0574d97a16a5721f10d3ea1",
   "Name": "Definitely Sneaky But Not Sneaky",
   "ProductSlug": "my-product-b51a19",
-  "Ranking_EOS_Progress": 617,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-07T17:30:00+00:00",
     "PcReleaseDate": "2019-02-06T06:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -87,6 +87,11 @@
       "Time": "2024-03-04T23:05:05.474402+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:12:55.670478+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-05T05:04:36.9118895+00:00",
@@ -105,15 +110,15 @@
       "ID": "BULLET_DESTROY",
       "SetID": "5770k2f",
       "Name": "Mine\u0027s Bigger",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DEMO_LEVEL_0",
       "SetID": "5770k2f",
       "Name": "Demolitionist - Level 1",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -137,9 +142,9 @@
       "ID": "DIE",
       "SetID": "5770k2f",
       "Name": "Die",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "DIFFICULTY_1",
@@ -161,7 +166,7 @@
       "ID": "EXPLODE",
       "SetID": "5770k2f",
       "Name": "Boom",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -225,25 +230,25 @@
       "ID": "KILL",
       "SetID": "5770k2f",
       "Name": "Murderer",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_0_COMPLETED",
       "SetID": "5770k2f",
       "Name": "On Your Way",
-      "Percentage": 81,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "SURVIVAL_BUY_ITEM",
       "SetID": "5770k2f",
       "Name": "Successful Purchase",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SURVIVAL_BUY_MOD",
@@ -297,7 +302,7 @@
       "ID": "TEAM_KILL",
       "SetID": "5770k2f",
       "Name": "Teamwork",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -322,13 +327,13 @@
     {
       "ID": "5770k2f",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:05:05.4744015+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:55.6704774+00:00",
   "LastUpdate_AppInfo": "2024-03-19T02:57:15.4065753+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:28.8592564+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:05:05.4744354+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:54.3800894+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:55.670496+00:00"
 }

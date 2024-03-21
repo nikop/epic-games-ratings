@@ -2,10 +2,10 @@
   "ID": "72a2d3937aaf45b082fc20ad5b6703ae",
   "Name": "The Making of Karateka",
   "ProductSlug": "the-making-of-karateka-7d9a6c",
-  "Ranking_EOS_Progress": 603,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
     "PcReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -345,9 +345,9 @@
       "ID": "one_down",
       "SetID": "l4g2eh",
       "Name": "One Down",
-      "Percentage": 55,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "original",
@@ -361,9 +361,9 @@
       "ID": "ran_trouble",
       "SetID": "l4g2eh",
       "Name": "Ran Into Trouble",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "show_respect",
@@ -408,8 +408,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:32.9991261+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:10.9605734+00:00",
   "LastUpdate_AppInfo": "2024-03-16T15:57:12.7884433+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:49.8485257+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:32.9991343+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:22.8184882+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:10.960589+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e93913390878452c9bc11f52aa074cf5",
   "Name": "Pro Basketball Manager 2024",
   "ProductSlug": "pro-basketball-manager-2024-5c764f",
-  "Ranking_EOS_Progress": 821,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 567,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-15T00:00:00+00:00",
     "PcReleaseDate": "2023-11-21T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 93,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-01-17T16:07:06.0381964+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:07:49.4370956+00:00",
+      "NumProgressed": 93,
       "NumCompleted": 0
     }
   ],
@@ -52,17 +57,17 @@
       "ID": "CHAMPIONNAT_VICTOIRES_2",
       "SetID": "b30jhn8",
       "Name": "Repeat",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAMPIONNAT_VICTOIRES_3",
       "SetID": "b30jhn8",
       "Name": "Threepeat",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAMPIONNAT_VICTOIRES_4",
@@ -124,9 +129,9 @@
       "ID": "DOUBLE_COUPE_CHAMPIONNAT",
       "SetID": "b30jhn8",
       "Name": "Both is better",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "EDITION_LOGO_EQUIPE",
@@ -140,9 +145,9 @@
       "ID": "FIRE_PLAYER",
       "SetID": "b30jhn8",
       "Name": "Dismissal",
-      "Percentage": 200,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "HOSPICE",
@@ -164,25 +169,25 @@
       "ID": "LICENCIE",
       "SetID": "b30jhn8",
       "Name": "Go home!",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "M5_ANNEE",
       "SetID": "b30jhn8",
       "Name": "He is with us!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "MEILLEUR_COACH_COMPETITION",
       "SetID": "b30jhn8",
       "Name": "The best!",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "MEILLEUR_COACH_COMPETITION_INTERNATIONALE",
@@ -204,9 +209,9 @@
       "ID": "MVP_ANNEE",
       "SetID": "b30jhn8",
       "Name": "Season MVP",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "MVP_COMPETITION_INTERNATIONALE",
@@ -228,9 +233,9 @@
       "ID": "MVP_JEUNE_ANNEE",
       "SetID": "b30jhn8",
       "Name": "Baby trainer",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "MVP_JEUNE_COMPETITION_INTERNATIONALE",
@@ -244,49 +249,49 @@
       "ID": "MVP_JEUNE_MOIS",
       "SetID": "b30jhn8",
       "Name": "He\u0027s crawling!",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "MVP_MOIS_CHAMP",
       "SetID": "b30jhn8",
       "Name": "Employee of the month",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "MVP_SEMAINE",
       "SetID": "b30jhn8",
       "Name": "That\u0027s my week",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "RECRUTEMENT",
       "SetID": "b30jhn8",
       "Name": "Hiring",
-      "Percentage": 0,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 30
     },
     {
       "ID": "RENOUVELLEMENT",
       "SetID": "b30jhn8",
       "Name": "Renewal",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "SAISON_1",
       "SetID": "b30jhn8",
       "Name": "It went fast",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "SAISON_10",
@@ -308,9 +313,9 @@
       "ID": "SAISON_2",
       "SetID": "b30jhn8",
       "Name": "Starting to have experience",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SAISON_20",
@@ -324,95 +329,95 @@
       "ID": "SAISON_5",
       "SetID": "b30jhn8",
       "Name": "It\u0027s wood this year right?",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SERIE_VICTOIRES_15",
       "SetID": "b30jhn8",
       "Name": "Will it ever end?",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "SERIE_VICTOIRES_5",
       "SetID": "b30jhn8",
       "Name": "We are just warming up!",
-      "Percentage": 0,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 20
     },
     {
       "ID": "TANT_PIS",
       "SetID": "b30jhn8",
       "Name": "Good effort, though!",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TRADE",
       "SetID": "b30jhn8",
       "Name": "Trade",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "VICTOIRE_1PT",
       "SetID": "b30jhn8",
       "Name": "One point",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "VICTOIRE_20PTS",
       "SetID": "b30jhn8",
       "Name": "20 points gap!",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "VICTOIRE_30PTS",
       "SetID": "b30jhn8",
       "Name": "30 points margin!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "VICTOIRE_CHAMPIONNAT",
       "SetID": "b30jhn8",
       "Name": "National champion",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "VICTOIRE_MATCH",
       "SetID": "b30jhn8",
       "Name": "First game",
-      "Percentage": 0,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
     {
       "ID": "b30jhn8",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 93,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-15T09:57:45.2077592+00:00",
   "FirstSeenAchievements": "2023-12-28T20:03:33.5834027+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:16.4243098+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:49.437095+00:00",
   "LastUpdate_AppInfo": "2024-03-15T03:57:14.8586955+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:04.7635085+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:16.4243358+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:04.0844832+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:49.4371263+00:00"
 }

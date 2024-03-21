@@ -6,60 +6,60 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 44.00% | ~44,316 |
-| Landlord | 36.00% | ~36,259 |
-| Trained | 31.00% | ~31,223 |
-| Bannerlord | 26.00% | ~26,187 |
-| Lawmaker | 25.00% | ~25,180 |
-| Horde breaker | 22.00% | ~22,158 |
-| The king is pleased | 21.00% | ~21,151 |
-| Apple of my eye | 19.00% | ~19,137 |
-| King Solomon | 19.00% | ~19,137 |
-| This Is Our Land | 19.00% | ~19,137 |
-| Against all odds | 17.00% | ~17,122 |
-| I can do it | 16.00% | ~16,115 |
-| Duelist | 13.00% | ~13,093 |
-| God of the Arena | 13.00% | ~13,093 |
-| Swordbearer | 12.00% | ~12,086 |
-| What have the Romans ever done for us? | 12.00% | ~12,086 |
-| Dynasty | 11.00% | ~11,079 |
-| I spit on your grave | 11.00% | ~11,079 |
-| Butterlord | 10.00% | ~10,072 |
-| Know your enemy | 8.00% | ~8,058 |
-| Mastery | 8.00% | ~8,058 |
-| My way | 6.00% | ~6,043 |
-| Crowdfunded | 4.00% | ~4,029 |
-| Crush your enemies | 4.00% | ~4,029 |
-| Freedom! | 4.00% | ~4,029 |
-| Veni vidi vici | 4.00% | ~4,029 |
-| Long live the Empire! | 3.00% | ~3,022 |
-| Real Estate | 3.00% | ~3,022 |
-| Supreme Emperor | 2.00% | ~2,014 |
-| Crackshot | 0.90% | ~906 |
-| Undercover | 0.90% | ~906 |
-| Entrepreneur | 0.80% | ~806 |
-| Fat Cat | 0.70% | ~705 |
-| Catch | 0.50% | ~504 |
-| Slice 'n dice | 0.40% | ~403 |
-| Ride it like you stole it | 0.30% | ~302 |
-| Explorer | 0.20% | ~201 |
-| Great Granny | 0.20% | ~201 |
-| Minor Clan | 0.20% | ~201 |
-| Mounted Archery | 0.20% | ~201 |
-| Strike! | 0.20% | ~201 |
-| Best served cold | 0.10% | ~101 |
-| Butcher of Calradia | 0.10% | ~101 |
-| Headhunter | 0.10% | ~101 |
-| Heartbreaker | 0.10% | ~101 |
-| Kingslayer | 0.10% | ~101 |
-| Lance-a-lot | 0.10% | ~101 |
-| Roadkill | 0.10% | ~101 |
-| This is Sparta! | 0.10% | ~101 |
-| Jack of All Trades | 0.00% | ~0 |
+| Lawbringer | 45.00% | ~46,958 |
+| Landlord | 37.00% | ~38,610 |
+| Trained | 32.00% | ~33,392 |
+| Bannerlord | 26.00% | ~27,131 |
+| Lawmaker | 26.00% | ~27,131 |
+| Horde breaker | 22.00% | ~22,957 |
+| The king is pleased | 22.00% | ~22,957 |
+| King Solomon | 20.00% | ~20,870 |
+| Apple of my eye | 19.00% | ~19,827 |
+| This Is Our Land | 19.00% | ~19,827 |
+| Against all odds | 17.00% | ~17,740 |
+| I can do it | 17.00% | ~17,740 |
+| Duelist | 13.00% | ~13,566 |
+| God of the Arena | 13.00% | ~13,566 |
+| Dynasty | 12.00% | ~12,522 |
+| Swordbearer | 12.00% | ~12,522 |
+| What have the Romans ever done for us? | 12.00% | ~12,522 |
+| Butterlord | 11.00% | ~11,479 |
+| I spit on your grave | 11.00% | ~11,479 |
+| Know your enemy | 8.00% | ~8,348 |
+| Mastery | 8.00% | ~8,348 |
+| My way | 6.00% | ~6,261 |
+| Crowdfunded | 5.00% | ~5,218 |
+| Crush your enemies | 5.00% | ~5,218 |
+| Freedom! | 4.00% | ~4,174 |
+| Real Estate | 4.00% | ~4,174 |
+| Veni vidi vici | 4.00% | ~4,174 |
+| Long live the Empire! | 3.00% | ~3,131 |
+| Supreme Emperor | 2.00% | ~2,087 |
+| Crackshot | 0.90% | ~939 |
+| Undercover | 0.90% | ~939 |
+| Entrepreneur | 0.80% | ~835 |
+| Fat Cat | 0.70% | ~730 |
+| Catch | 0.50% | ~522 |
+| Ride it like you stole it | 0.40% | ~417 |
+| Slice 'n dice | 0.40% | ~417 |
+| Explorer | 0.20% | ~209 |
+| Great Granny | 0.20% | ~209 |
+| Minor Clan | 0.20% | ~209 |
+| Mounted Archery | 0.20% | ~209 |
+| Strike! | 0.20% | ~209 |
+| Best served cold | 0.10% | ~104 |
+| Butcher of Calradia | 0.10% | ~104 |
+| Headhunter | 0.10% | ~104 |
+| Heartbreaker | 0.10% | ~104 |
+| Jack of All Trades | 0.10% | ~104 |
+| Kingslayer | 0.10% | ~104 |
+| Lance-a-lot | 0.10% | ~104 |
+| Roadkill | 0.10% | ~104 |
+| This is Sparta! | 0.10% | ~104 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100,719 (Ranked 105)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 104,351 (Ranked 111)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,6 +342,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-26 | 97,459 | 0 |
 | 2024-01-27 | 97,540 | 0 |
 | 2024-02-22 | 100,719 | 0 |
+| 2024-03-21 | 104,351 | 0 |
 ## Awards
 Max (Character Customization): 8,831  (Ranked 52)  
 Sum: 18,194 (Ranked 70)  

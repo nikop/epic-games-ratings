@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Need A Challenge | 29.00% | ~6 |
-| Hello, Friend! | 24.00% | ~5 |
+| I Need A Challenge | 27.00% | ~6 |
+| Hello, Friend! | 27.00% | ~6 |
 | Hello, World! | 14.00% | ~3 |
-| What's so hard about going up? | 10.00% | ~2 |
+| What's so hard about going up? | 9.00% | ~2 |
 | 0x40000000 | 0.00% | ~0 |
 | 0x400 | 0.00% | ~0 |
 | 0x100000 | 0.00% | ~0 |
@@ -36,8 +36,8 @@
 | Stress Testing - Wall Jumps | 0.00% | ~0 |
 | Byte-Sized Achievement | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 655)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 22 (Ranked 706)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,3 +51,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2023-10-11 | 19 | 0 |
 | 2023-10-12 | 20 | 0 |
 | 2024-01-07 | 21 | 0 |
+| 2024-03-21 | 22 | 0 |

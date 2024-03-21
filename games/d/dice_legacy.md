@@ -5,42 +5,42 @@ Rating: 4.29 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 44.00% | ~613 |
-| Manipulating Fate | 11.00% | ~153 |
-| The City | 11.00% | ~153 |
-| Hear me out | 8.00% | ~111 |
-| Full house | 7.00% | ~98 |
-| Burn and Pillage | 7.00% | ~98 |
-| Listening to the crowd | 6.00% | ~84 |
-| The Penitent Ones | 5.00% | ~70 |
-| Greedy | 5.00% | ~70 |
-| Hidden Secrets | 5.00% | ~70 |
-| The Stranded King | 5.00% | ~70 |
-| Accepting the Prophecy | 5.00% | ~70 |
-| Ascended | 4.00% | ~56 |
-| Incredible Strength | 4.00% | ~56 |
-| Prophecy Fulfilled | 4.00% | ~56 |
-| Just Chilling | 3.00% | ~42 |
-| The Greedy Ones | 3.00% | ~42 |
+| We made it | 45.00% | ~641 |
+| Manipulating Fate | 11.00% | ~157 |
+| The City | 11.00% | ~157 |
+| Hear me out | 8.00% | ~114 |
+| Full house | 7.00% | ~100 |
+| Burn and Pillage | 7.00% | ~100 |
+| Listening to the crowd | 6.00% | ~85 |
+| The Penitent Ones | 5.00% | ~71 |
+| Greedy | 5.00% | ~71 |
+| Hidden Secrets | 5.00% | ~71 |
+| The Stranded King | 5.00% | ~71 |
+| Accepting the Prophecy | 5.00% | ~71 |
+| Just Chilling | 4.00% | ~57 |
+| Ascended | 4.00% | ~57 |
+| Incredible Strength | 4.00% | ~57 |
+| Prophecy Fulfilled | 4.00% | ~57 |
+| The Greedy Ones | 3.00% | ~43 |
 | The First King | 2.00% | ~28 |
 | The great fire | 2.00% | ~28 |
 | The Unruly Ones | 2.00% | ~28 |
 | The Council | 1.00% | ~14 |
 | The Mad | 1.00% | ~14 |
 | Like the dream | 1.00% | ~14 |
-| Metropolis | 0.80% | ~11 |
+| Metropolis | 0.90% | ~13 |
 | Charismatic Leader | 0.70% | ~10 |
-| Six Faces | 0.60% | ~8 |
-| Red Tape | 0.60% | ~8 |
-| Knowledge is Power | 0.60% | ~8 |
+| Six Faces | 0.60% | ~9 |
+| Red Tape | 0.60% | ~9 |
+| Knowledge is Power | 0.60% | ~9 |
 | The Great Winter | 0.50% | ~7 |
 | Ice and Fire | 0.30% | ~4 |
 | It's spreading | 0.30% | ~4 |
 | The Flail | 0.30% | ~4 |
+| The Corrupted | 0.30% | ~4 |
 | The Incarnate | 0.30% | ~4 |
 | Mad Engineers | 0.20% | ~3 |
 | Aesthetics | 0.20% | ~3 |
-| The Corrupted | 0.20% | ~3 |
 | The experiment | 0.10% | ~1 |
 | Break the chains | 0.10% | ~1 |
 | Discover the truth | 0.10% | ~1 |
@@ -51,8 +51,8 @@ Rating: 4.29 (Ranked 909)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,393 (Ranked 293)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 1,424 (Ranked 308)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,6 +282,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-25 | 1,349 | 0 |
 | 2024-01-26 | 1,350 | 0 |
 | 2024-02-22 | 1,393 | 0 |
+| 2024-03-21 | 1,424 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

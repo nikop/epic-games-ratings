@@ -2,10 +2,40 @@
 [Store](https://store.epicgames.com/en-US/p/metalstorm)  
 [View Rawdata](../../db/m/metalstorm.json)  
 Rating: 4.42 (Ranked 763)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Takedowns I | 32.00% | ~6,692 |
+| Career Wins I | 28.00% | ~5,855 |
+| Squadron Member | 26.00% | ~5,437 |
+| Making Friends | 24.00% | ~5,019 |
+| Silver League | 9.00% | ~1,882 |
+| Takedowns II | 8.00% | ~1,673 |
+| Plane Trophies I | 8.00% | ~1,673 |
+| Career Wins II | 6.00% | ~1,255 |
+| Gold League | 4.00% | ~836 |
+| Platinum League | 2.00% | ~418 |
+| Diamond League | 0.80% | ~167 |
+| Takedowns III | 0.60% | ~125 |
+| Career Wins III | 0.40% | ~84 |
+| Plane Trophies II | 0.40% | ~84 |
+| Master League | 0.40% | ~84 |
+| Grandmaster League | 0.20% | ~42 |
+| Plane Trophies III | 0.10% | ~21 |
+| Plane Trophies IV | 0.10% | ~21 |
+| Takedowns IV | 0.00% | ~0 |
+| Career Wins IV | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 20,912 (Ranked 169)  
+Completed: 0 (0.00%) (Ranked 445)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 20,912 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 36  (Ranked 526)  
-Sum: 137 (Ranked 475)  
-Diff (max vs sum): 51  
+Sum: 137 (Ranked 476)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 36 |

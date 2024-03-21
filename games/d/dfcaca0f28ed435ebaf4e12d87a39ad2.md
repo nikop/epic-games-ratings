@@ -4,24 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wake up | 75.00% | ~18 |
-| It gets better | 38.00% | ~9 |
-| A different perspective | 33.00% | ~8 |
-| Keep going | 4.00% | ~1 |
-| Old hobbies | 4.00% | ~1 |
-| Meal for one | 0.00% | ~0 |
-| Gratitude | 0.00% | ~0 |
-| Self care | 0.00% | ~0 |
-| A good day | 0.00% | ~0 |
-| Life in Technicolor | 0.00% | ~0 |
-| Flow | 0.00% | ~0 |
-| You can pet the dog | 0.00% | ~0 |
-| Meal for two | -4.20% | ~-1 |
-| The fun uncle | -8.30% | ~-2 |
+| Wake up | 84.00% | ~46 |
+| It gets better | 51.00% | ~28 |
+| A different perspective | 44.00% | ~24 |
+| Keep going | 20.00% | ~11 |
+| Life in Technicolor | 18.00% | ~10 |
+| Flow | 16.00% | ~9 |
+| Meal for two | 7.00% | ~4 |
+| You can pet the dog | 7.00% | ~4 |
+| Meal for one | 5.00% | ~3 |
+| Gratitude | 5.00% | ~3 |
+| Self care | 5.00% | ~3 |
+| Old hobbies | 5.00% | ~3 |
+| The fun uncle | 4.00% | ~2 |
+| A good day | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 648)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 55 (Ranked 620)  
+Completed: 1 (1.82%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-04 | 24 | 0 |
+| 2024-03-21 | 55 | 1 |

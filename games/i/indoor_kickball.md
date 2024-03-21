@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 80.00% | ~86 |
-| Accessory Unlocked | 79.00% | ~85 |
-| Butter Fingers | 76.00% | ~81 |
-| Homer | 73.00% | ~78 |
-| Character Unlocked | 72.00% | ~77 |
-| Have a good trip! | 72.00% | ~77 |
+| Hat Unlocked | 81.00% | ~87 |
+| Accessory Unlocked | 78.00% | ~84 |
+| Butter Fingers | 76.00% | ~82 |
+| Homer | 72.00% | ~78 |
+| Character Unlocked | 71.00% | ~77 |
+| Have a good trip! | 71.00% | ~77 |
 | Kickball Unlocked | 67.00% | ~72 |
 | Settle Down | 67.00% | ~72 |
-| Stay Hydrated | 64.00% | ~68 |
-| First Win | 63.00% | ~67 |
-| True Story! | 45.00% | ~48 |
-| Bedroom Secret Spot | 40.00% | ~43 |
-| At least everyone still had fun | 36.00% | ~39 |
-| Kick It | 34.00% | ~36 |
+| Stay Hydrated | 64.00% | ~69 |
+| First Win | 62.00% | ~67 |
+| True Story! | 44.00% | ~48 |
+| Bedroom Secret Spot | 41.00% | ~44 |
+| At least everyone still had fun | 37.00% | ~40 |
+| Kick It | 33.00% | ~36 |
 | Classroom Secret Spot | 30.00% | ~32 |
 | Spooky | 28.00% | ~30 |
 | Grand Slam! | 26.00% | ~28 |
@@ -25,17 +25,17 @@
 | Save some water for the fishies | 23.00% | ~25 |
 | Bathroom Secret Spot | 23.00% | ~25 |
 | Angry Dad | 23.00% | ~25 |
-| Hi Hungry, I'm Dad | 21.00% | ~22 |
-| Have Mercy | 21.00% | ~22 |
-| Angry Mom | 21.00% | ~22 |
+| Angry Mom | 21.00% | ~23 |
+| Hi Hungry, I'm Dad | 20.00% | ~22 |
+| Have Mercy | 20.00% | ~22 |
 | Just how we drew it up | 13.00% | ~14 |
 | Interference | 8.00% | ~9 |
-| Kitchen Secret Spot | 7.00% | ~7 |
-| You broke it, you bought it | 7.00% | ~7 |
+| Kitchen Secret Spot | 7.00% | ~8 |
+| You broke it, you bought it | 6.00% | ~6 |
 | Found the Secret Formula! | 5.00% | ~5 |
 | Attic Secret Spot | 4.00% | ~4 |
 | Basement Secret Spot | 3.00% | ~3 |
-| Garage Secret Spot | 2.00% | ~2 |
+| Garage Secret Spot | 3.00% | ~3 |
 | Gamer Room Secret Spot | 0.90% | ~1 |
 | Kickball Kup | 0.90% | ~1 |
 | Goooooooooal! | 0.90% | ~1 |
@@ -45,8 +45,8 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 511)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 108 (Ranked 543)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,3 +106,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2023-12-30 | 102 | 0 |
 | 2024-01-08 | 104 | 0 |
 | 2024-01-19 | 107 | 0 |
+| 2024-03-21 | 108 | 0 |

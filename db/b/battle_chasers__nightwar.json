@@ -5,10 +5,10 @@
   "Ranking_Rating": 314,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2017-10-03T16:00:00+00:00",
@@ -183,19 +183,420 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 36,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 2.78,
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:06:10.709082+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 1
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:06:10.7090851+00:00",
+  "TotalAchievements": 48,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "aFantasyFinalized",
+      "SetID": "b95gi9n",
+      "Name": "A Fantasy, Finalized",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "allOutOfBubblegum",
+      "SetID": "b95gi9n",
+      "Name": "All out of Bubblegum...",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "anUnstoppableForce",
+      "SetID": "b95gi9n",
+      "Name": "An Unstoppable Force",
+      "Percentage": 19,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "angler",
+      "SetID": "b95gi9n",
+      "Name": "Angler",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "apprenticeCrafter",
+      "SetID": "b95gi9n",
+      "Name": "Apprentice Crafter",
+      "Percentage": 58,
+      "XP": 90,
+      "UsersEstimate": 21
+    },
+    {
+      "ID": "areYouNotEntertained",
+      "SetID": "b95gi9n",
+      "Name": "Are You Not Entertained",
+      "Percentage": 22,
+      "XP": 30,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "badMoonRising",
+      "SetID": "b95gi9n",
+      "Name": "Bad Moon Rising",
+      "Percentage": 39,
+      "XP": 15,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "barrelOfFun",
+      "SetID": "b95gi9n",
+      "Name": "Barrel of Fun",
+      "Percentage": 53,
+      "XP": 15,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "battleReady",
+      "SetID": "b95gi9n",
+      "Name": "Battle Ready",
+      "Percentage": 47,
+      "XP": 15,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "beautyInTheEye",
+      "SetID": "b95gi9n",
+      "Name": "Beauty is in the Eye",
+      "Percentage": 28,
+      "XP": 15,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "beginnersLuck",
+      "SetID": "b95gi9n",
+      "Name": "Beginner\u0027s Luck",
+      "Percentage": 53,
+      "XP": 10,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "beholdMyTrueForm",
+      "SetID": "b95gi9n",
+      "Name": "Behold, My True Form",
+      "Percentage": 28,
+      "XP": 15,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "bigGameHunter",
+      "SetID": "b95gi9n",
+      "Name": "Big Game Hunter",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "bloodAndTears",
+      "SetID": "b95gi9n",
+      "Name": "Blood and Tears",
+      "Percentage": 39,
+      "XP": 15,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "braveByDefault",
+      "SetID": "b95gi9n",
+      "Name": "Brave by Default",
+      "Percentage": 50,
+      "XP": 15,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "changes",
+      "SetID": "b95gi9n",
+      "Name": "Ch-ch-ch-changes!",
+      "Percentage": 19,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "cosplaying",
+      "SetID": "b95gi9n",
+      "Name": "Cosplaying",
+      "Percentage": 6,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "dirtyHands",
+      "SetID": "b95gi9n",
+      "Name": "Dirty Hands",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "epicCrafter",
+      "SetID": "b95gi9n",
+      "Name": "Epic Crafter",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "findersKeepers",
+      "SetID": "b95gi9n",
+      "Name": "Finders Keepers",
+      "Percentage": 25,
+      "XP": 15,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "fishWatching",
+      "SetID": "b95gi9n",
+      "Name": "Fish Watching",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "freshMint",
+      "SetID": "b95gi9n",
+      "Name": "Fresh Mint",
+      "Percentage": 31,
+      "XP": 15,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "goOn",
+      "SetID": "b95gi9n",
+      "Name": "Go On...",
+      "Percentage": 53,
+      "XP": 15,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "itsJustBeginning",
+      "SetID": "b95gi9n",
+      "Name": "It\u0027s Just Beginning",
+      "Percentage": 64,
+      "XP": 10,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "lichPlease",
+      "SetID": "b95gi9n",
+      "Name": "Lich, Please",
+      "Percentage": 31,
+      "XP": 15,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "likeANoss",
+      "SetID": "b95gi9n",
+      "Name": "Like A Noss",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "littleGameHunter",
+      "SetID": "b95gi9n",
+      "Name": "Little Game Hunter",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "massRuckus",
+      "SetID": "b95gi9n",
+      "Name": "Mass Ruckus",
+      "Percentage": 19,
+      "XP": 30,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "masterCrafter",
+      "SetID": "b95gi9n",
+      "Name": "Master Crafter",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "mustBeBored",
+      "SetID": "b95gi9n",
+      "Name": "Must Be Bored",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "mysterySolved",
+      "SetID": "b95gi9n",
+      "Name": "Mystery Solved",
+      "Percentage": 56,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "newBitcoin",
+      "SetID": "b95gi9n",
+      "Name": "The New Bitcoin",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "noParley",
+      "SetID": "b95gi9n",
+      "Name": "No Parley",
+      "Percentage": 8,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "queenOfTheNorth",
+      "SetID": "b95gi9n",
+      "Name": "Queen of the North",
+      "Percentage": 22,
+      "XP": 90,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "rareCrafter",
+      "SetID": "b95gi9n",
+      "Name": "Rare Crafter",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "riskTaker",
+      "SetID": "b95gi9n",
+      "Name": "Risk Taker",
+      "Percentage": 3,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "seeingRed",
+      "SetID": "b95gi9n",
+      "Name": "Seeing Red",
+      "Percentage": 50,
+      "XP": 15,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "survivors",
+      "SetID": "b95gi9n",
+      "Name": "Survivors",
+      "Percentage": 92,
+      "XP": 10,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "thatsDeepBro",
+      "SetID": "b95gi9n",
+      "Name": "That\u0027s Deep, Bro",
+      "Percentage": 42,
+      "XP": 15,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "theLibrarian",
+      "SetID": "b95gi9n",
+      "Name": "The Librarian",
+      "Percentage": 6,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "theLookingGlass",
+      "SetID": "b95gi9n",
+      "Name": "The Looking Glass",
+      "Percentage": 14,
+      "XP": 30,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "theNewStandard",
+      "SetID": "b95gi9n",
+      "Name": "The New Standard",
+      "Percentage": 19,
+      "XP": 30,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "tooLate",
+      "SetID": "b95gi9n",
+      "Name": "Too Late",
+      "Percentage": 50,
+      "XP": 15,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "trialByCombat",
+      "SetID": "b95gi9n",
+      "Name": "Trial By Combat",
+      "Percentage": 56,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "viceVersa",
+      "SetID": "b95gi9n",
+      "Name": "Vice Versa",
+      "Percentage": 25,
+      "XP": 15,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "warmingUp",
+      "SetID": "b95gi9n",
+      "Name": "Warming Up",
+      "Percentage": 28,
+      "XP": 15,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "wellRead",
+      "SetID": "b95gi9n",
+      "Name": "Well Read",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "youreLearning",
+      "SetID": "b95gi9n",
+      "Name": "You\u0027re Learning...",
+      "Percentage": 56,
+      "XP": 15,
+      "UsersEstimate": 20
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "b95gi9n",
+      "IsBase": true,
+      "Progressed": 36,
+      "Completed": 1
+    }
+  ],
   "FirstSeen": "2022-07-22T20:21:09.2276065+00:00",
+  "FirstSeenAchievements": "2024-03-21T17:06:10.7090851+00:00",
   "LastChanged": "2024-01-24T15:58:41.6919155+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:10.7090814+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:01.2576915+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:06.4892209+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:02.8810528+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:30.7537144+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:10.7100977+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "61dbcd85808d4125ba873ba90385949b",
   "Name": "Spotify",
   "ProductSlug": "spotify",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.5812118+00:00",
   "LastChanged": "2023-03-31T05:58:21.5812119+00:00",
   "LastUpdate_AppInfo": "2024-03-17T06:57:12.8601511+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:53.5550131+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:39.4533148+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:15.1450249+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:39.4886455+00:00"
 }

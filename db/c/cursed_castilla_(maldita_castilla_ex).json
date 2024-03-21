@@ -2,10 +2,10 @@
   "ID": "d0499205da1f4e13a160607e61c02aec",
   "Name": "Cursed Castilla (Maldita Castilla EX)",
   "ProductSlug": "cursed-castilla-maldita-castilla-ex-adaa43",
-  "Ranking_EOS_Progress": 539,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-11-17T07:00:00+00:00",
     "PcReleaseDate": "2016-10-20T10:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 84,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -205,6 +205,11 @@
       "Time": "2024-02-22T21:05:42.4156954+00:00",
       "NumProgressed": 82,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:28.7593919+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 16,
@@ -214,7 +219,7 @@
       "ID": "cc_achievement_01",
       "SetID": "177a8ba",
       "Name": "Pioneer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 21
     },
@@ -343,7 +348,7 @@
     {
       "ID": "177a8ba",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 84,
       "Completed": 0
     }
   ],
@@ -351,8 +356,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.7963027+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.4421841+00:00",
   "LastChanged": "2023-03-31T05:57:25.7963028+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:42.4156952+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:28.7593912+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:25.7551286+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:19.9909178+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:42.4157044+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:14.7238036+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:28.7594039+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "84675ff3b0cd4f26bf1f655da1b6265f",
   "Name": "Outbreak The Nightmare Chronicles Reinvestigated",
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
-  "Ranking_EOS_Progress": 629,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 676,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
     "PcReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -82,6 +82,11 @@
       "Time": "2024-02-22T21:03:54.7879098+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:09:02.9225689+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.1130841+00:00",
@@ -92,9 +97,9 @@
       "ID": "A_CLUE_ACH",
       "SetID": "2gpm4c0",
       "Name": "A Clue",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "A_MOMENT_OF_REST_ACH",
@@ -116,7 +121,7 @@
       "ID": "CLEVER_GIRL_ACH",
       "SetID": "2gpm4c0",
       "Name": "Clever Girl",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 70,
       "UsersEstimate": 11
     },
@@ -140,7 +145,7 @@
       "ID": "HOLD_THE_LINE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Hold the Line!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -172,9 +177,9 @@
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Surviving the Nightmare",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "YOURE_PROBABLY_CHEATING_ACH",
@@ -189,13 +194,13 @@
     {
       "ID": "2gpm4c0",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:54.7879095+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:02.9225681+00:00",
   "LastUpdate_AppInfo": "2024-03-21T12:59:57.2356497+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:46.0629573+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:54.7879176+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:44.9410352+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:02.9225793+00:00"
 }

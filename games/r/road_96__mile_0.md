@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| BBFF (Best Brigade Friend Forever) | 42.00% | ~374 |
-| Conspiracy Theorist | 36.00% | ~321 |
-| On the Road | 35.00% | ~312 |
-| Souvenirs | 25.00% | ~223 |
-| Welcome to the Garage | 15.00% | ~134 |
-| Truthseeker | 12.00% | ~107 |
-| This is Not Heavy Metal! | 12.00% | ~107 |
-| Freedom | 7.00% | ~62 |
-| 86's Nightmare | 6.00% | ~53 |
-| Partners in Crime | 6.00% | ~53 |
-| Friendzone | 6.00% | ~53 |
-| The Eye of the Storm | 5.00% | ~45 |
-| Attack on Tyran | 4.00% | ~36 |
-| Song Harvester | 1.00% | ~9 |
-| Try Harder | 0.90% | ~8 |
+| BBFF (Best Brigade Friend Forever) | 40.00% | ~396 |
+| Conspiracy Theorist | 35.00% | ~346 |
+| On the Road | 34.00% | ~337 |
+| Souvenirs | 25.00% | ~248 |
+| Welcome to the Garage | 14.00% | ~139 |
+| This is Not Heavy Metal! | 12.00% | ~119 |
+| Truthseeker | 11.00% | ~109 |
+| Freedom | 6.00% | ~59 |
+| 86's Nightmare | 6.00% | ~59 |
+| Partners in Crime | 6.00% | ~59 |
+| The Eye of the Storm | 5.00% | ~50 |
+| Friendzone | 5.00% | ~50 |
+| Attack on Tyran | 4.00% | ~40 |
+| Song Harvester | 1.00% | ~10 |
+| Try Harder | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 891 (Ranked 322)  
-Completed: 3 (0.34%) (Ranked 266)  
+Progressed: 990 (Ranked 336)  
+Completed: 3 (0.30%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,6 +213,7 @@ Completed: 3 (0.34%) (Ranked 266)
 | 2024-01-25 | 778 | 3 |
 | 2024-01-26 | 779 | 3 |
 | 2024-02-22 | 891 | 3 |
+| 2024-03-21 | 990 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

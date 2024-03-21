@@ -2,10 +2,10 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 342,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 826,
+  "EOS_Progressed": 876,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2549,6 +2549,11 @@
       "Time": "2024-02-22T21:05:38.6363466+00:00",
       "NumProgressed": 826,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:23.8051545+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2575,9 +2580,9 @@
       "ID": "DODO_RE_MI_SAX_FAMILY",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: It\u0027s About Family",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
@@ -2585,55 +2590,55 @@
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 175
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 114
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Galaxy Brain",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 26
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 61
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 228
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 210
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2641,23 +2646,23 @@
       "Name": "FixyText: Chatterbox",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 237
     },
     {
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 368
     },
     {
       "ID": "TIME_ORWELL",
@@ -2671,25 +2676,25 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 368
     },
     {
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 254
     },
     {
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 123
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2697,15 +2702,15 @@
       "Name": "Tee K.O. 2: Domino",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 105
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -2713,21 +2718,21 @@
       "Name": "Tee K.O. 2: I Wasn\u2019t Supposed To Be Here",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 826,
+      "Progressed": 876,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:38.6363462+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:23.8051538+00:00",
   "LastUpdate_AppInfo": "2024-03-16T08:57:05.820978+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:17.0077661+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:38.6363664+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:41.8930247+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:23.8051887+00:00"
 }

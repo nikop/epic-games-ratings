@@ -6,53 +6,53 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 83.00% | ~446 |
-| Mash Machine | 76.00% | ~408 |
-| Ducks in a Row, Fish in a Barrel | 56.00% | ~301 |
-| Furon Fashion | 49.00% | ~263 |
-| Shop Til They Drop | 41.00% | ~220 |
-| Bodied Sattva | 40.00% | ~215 |
-| Cult Following | 37.00% | ~199 |
-| Earthly Pleasures | 36.00% | ~193 |
-| Lie Back and Think of Albion | 30.00% | ~161 |
-| Upgreatest | 29.00% | ~156 |
-| Pimp My Raid | 27.00% | ~145 |
-| I Look Up As I Walk to Takoshima | 23.00% | ~124 |
-| Freshly Squeezed | 23.00% | ~124 |
-| Perfect Probulator | 19.00% | ~102 |
-| Die Nasty | 19.00% | ~102 |
-| Transmitting From Sol-3 | 18.00% | ~97 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~81 |
-| Kaijuiced | 13.00% | ~70 |
-| Dusted | 13.00% | ~70 |
-| Fly Me to the Moon Base | 12.00% | ~64 |
-| Scuttled | 11.00% | ~59 |
-| Lobster Blisque | 9.00% | ~48 |
-| Re-Return of the Clone of the Invasion II-2 | 9.00% | ~48 |
-| Yettisoned | 7.00% | ~38 |
-| Ultimate Smoothie | 6.00% | ~32 |
-| Arkvoodle Doodle | 6.00% | ~32 |
-| Deincarnated | 4.00% | ~21 |
-| Against All Odds | 2.00% | ~11 |
-| Forbidden Donut | 2.00% | ~11 |
-| The Optional Mandate | 2.00% | ~11 |
-| Arty Facts | 1.00% | ~5 |
-| Gotta Catch All the Pop Art | 1.00% | ~5 |
-| This Is Earth Radio | 1.00% | ~5 |
-| Hidden Human Hive Harvest | 1.00% | ~5 |
-| Higher Than the Futen Zoku | 1.00% | ~5 |
-| If You Know What I Mean | 1.00% | ~5 |
-| Toilet Break | 0.90% | ~5 |
-| Albion Bridge Is for Falling Down | 0.90% | ~5 |
-| To Russia With Love | 0.90% | ~5 |
-| Path of the Furon | 0.90% | ~5 |
-| Trans-Siberian Express | 0.90% | ~5 |
-| PK Slam Dunk | 0.70% | ~4 |
-| Ouch of Body Experience | 0.70% | ~4 |
-| Steezy Down the Spine | 0.70% | ~4 |
+| Rock of the Bay | 84.00% | ~503 |
+| Mash Machine | 77.00% | ~461 |
+| Ducks in a Row, Fish in a Barrel | 57.00% | ~341 |
+| Furon Fashion | 49.00% | ~294 |
+| Bodied Sattva | 41.00% | ~246 |
+| Shop Til They Drop | 41.00% | ~246 |
+| Cult Following | 38.00% | ~228 |
+| Earthly Pleasures | 37.00% | ~222 |
+| Lie Back and Think of Albion | 30.00% | ~180 |
+| Upgreatest | 29.00% | ~174 |
+| Pimp My Raid | 27.00% | ~162 |
+| I Look Up As I Walk to Takoshima | 24.00% | ~144 |
+| Freshly Squeezed | 24.00% | ~144 |
+| Perfect Probulator | 20.00% | ~120 |
+| Die Nasty | 20.00% | ~120 |
+| Transmitting From Sol-3 | 18.00% | ~108 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 16.00% | ~96 |
+| Kaijuiced | 14.00% | ~84 |
+| Fly Me to the Moon Base | 13.00% | ~78 |
+| Dusted | 13.00% | ~78 |
+| Scuttled | 10.00% | ~60 |
+| Lobster Blisque | 9.00% | ~54 |
+| Re-Return of the Clone of the Invasion II-2 | 9.00% | ~54 |
+| Yettisoned | 7.00% | ~42 |
+| Ultimate Smoothie | 6.00% | ~36 |
+| Arkvoodle Doodle | 6.00% | ~36 |
+| Deincarnated | 4.00% | ~24 |
+| Arty Facts | 2.00% | ~12 |
+| Against All Odds | 2.00% | ~12 |
+| Forbidden Donut | 2.00% | ~12 |
+| Hidden Human Hive Harvest | 2.00% | ~12 |
+| The Optional Mandate | 2.00% | ~12 |
+| Higher Than the Futen Zoku | 2.00% | ~12 |
+| PK Slam Dunk | 1.00% | ~6 |
+| Gotta Catch All the Pop Art | 1.00% | ~6 |
+| This Is Earth Radio | 1.00% | ~6 |
+| Toilet Break | 1.00% | ~6 |
+| Albion Bridge Is for Falling Down | 1.00% | ~6 |
+| Ouch of Body Experience | 1.00% | ~6 |
+| To Russia With Love | 1.00% | ~6 |
+| If You Know What I Mean | 1.00% | ~6 |
+| Steezy Down the Spine | 1.00% | ~6 |
+| Path of the Furon | 1.00% | ~6 |
+| Trans-Siberian Express | 1.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 365)  
-Completed: 2 (0.37%) (Ranked 259)  
+Progressed: 599 (Ranked 380)  
+Completed: 2 (0.33%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,6 +114,7 @@ Completed: 2 (0.37%) (Ranked 259)
 | 2024-01-26 | 477 | 2 |
 | 2024-01-27 | 478 | 2 |
 | 2024-02-22 | 537 | 2 |
+| 2024-03-21 | 599 | 2 |
 ## Awards
 Max (Great Boss Battles): 39  (Ranked 517)  
 Sum: 39 (Ranked 563)  

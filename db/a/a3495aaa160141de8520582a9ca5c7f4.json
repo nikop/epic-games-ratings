@@ -2,10 +2,10 @@
   "ID": "a3495aaa160141de8520582a9ca5c7f4",
   "Name": "Estar Fiel",
   "ProductSlug": "estar-fiel-948228",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-02T15:30:00+00:00",
     "PcReleaseDate": "2023-08-02T15:30:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-19T11:56:59.2524236+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:26.8885305+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:46.537769+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:52.2993464+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:49.5697709+00:00"
 }

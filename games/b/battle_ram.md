@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 92.00% | ~282 |
-| Ram Corporal | 87.00% | ~266 |
-| Ram Sergeant | 69.00% | ~211 |
-| Ram Staff Sergeant | 69.00% | ~211 |
-| Ram First Sergeant | 62.00% | ~190 |
-| Senior Sergeant Baran | 61.00% | ~187 |
-| Sergeant Major Baran | 47.00% | ~144 |
+| START | 93.00% | ~286 |
+| Ram Corporal | 87.00% | ~268 |
+| Ram Sergeant | 69.00% | ~213 |
+| Ram Staff Sergeant | 69.00% | ~213 |
+| Ram First Sergeant | 62.00% | ~191 |
+| Senior Sergeant Baran | 61.00% | ~188 |
+| Sergeant Major Baran | 47.00% | ~145 |
+| Senior warrant officer Baran 1st class | 30.00% | ~92 |
+| Senior warrant officer Baran 2nd class | 30.00% | ~92 |
 | Senior warrant officer Baran 3rd class | 29.00% | ~89 |
-| Senior warrant officer Baran 1st class | 29.00% | ~89 |
-| Senior warrant officer Baran 2nd class | 29.00% | ~89 |
-| Senior warrant officer Baran 4th class | 22.00% | ~67 |
-| Junior Lieutenant Baran | 21.00% | ~64 |
+| Senior warrant officer Baran 4th class | 22.00% | ~68 |
+| Junior Lieutenant Baran | 20.00% | ~62 |
 | Baran Senior Warrant Officer Grade 5 | 18.00% | ~55 |
 | Senior Lieutenant Baran | 17.00% | ~52 |
-| Captain Baran | 12.00% | ~37 |
+| Captain Baran | 13.00% | ~40 |
 | Senior Major Baran | 12.00% | ~37 |
 | Lieutenant Colonel Baran | 10.00% | ~31 |
 | Colonel Baran | 9.00% | ~28 |
-| Brigadier General Baran | 7.00% | ~21 |
-| Lieutenant General Baran | 7.00% | ~21 |
+| Brigadier General Baran | 7.00% | ~22 |
+| Lieutenant General Baran | 7.00% | ~22 |
 | EMERAID RAM | 6.00% | ~18 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 417)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 308 (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,3 +125,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-09 | 304 | 0 |
 | 2024-01-12 | 305 | 0 |
 | 2024-01-20 | 306 | 0 |
+| 2024-03-21 | 308 | 0 |

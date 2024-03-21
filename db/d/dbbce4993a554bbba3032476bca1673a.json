@@ -2,10 +2,10 @@
   "ID": "dbbce4993a554bbba3032476bca1673a",
   "Name": "Outbreak Devious Beginnings",
   "ProductSlug": "outbreak-devious-beginnings-5c0af8",
-  "Ranking_EOS_Progress": 684,
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 737,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-25T14:00:00+00:00",
     "PcReleaseDate": "2023-10-25T14:00:00+00:00",
@@ -154,9 +154,9 @@
       "ID": "THATS_IT_RIGHT_ACH",
       "SetID": "8i8pmkm",
       "Name": "That\u0027s It... Right?",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "THERES_TOO_MANY_ACH",
@@ -217,8 +217,8 @@
   ],
   "FirstSeen": "2023-10-26T23:59:41.2750505+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:35.6115505+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:14.5239426+00:00",
   "LastUpdate_AppInfo": "2024-03-21T12:59:58.8685222+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:45.6077219+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:35.6115777+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:46.3925807+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:14.5239586+00:00"
 }

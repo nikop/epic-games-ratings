@@ -5,10 +5,10 @@
   "Ranking_Rating": 713,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2017-10-17T15:00:00+00:00",
@@ -368,28 +368,436 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:08:41.363813+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:08:41.3638159+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "100000ELEXIT",
+      "SetID": "3koflhj",
+      "Name": "Big Earner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10000ELEXIT",
+      "SetID": "3koflhj",
+      "Name": "Shard hoarder",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "1000ELEXIT",
+      "SetID": "3koflhj",
+      "Name": "The Big G",
+      "Percentage": 23,
+      "XP": 10,
+      "UsersEstimate": 27
+    },
+    {
+      "ID": "100LOCKSPICKED",
+      "SetID": "3koflhj",
+      "Name": "Locksmith",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20FALLTODEATH",
+      "SetID": "3koflhj",
+      "Name": "Splattermaster",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20PICS",
+      "SetID": "3koflhj",
+      "Name": "Picture Album",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20TELEPORTS",
+      "SetID": "3koflhj",
+      "Name": "Atombouncer",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "20WEAPONSCRAFTED",
+      "SetID": "3koflhj",
+      "Name": "Tinkerer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "300QUESTS",
+      "SetID": "3koflhj",
+      "Name": "Careerist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50PICKPOCKET",
+      "SetID": "3koflhj",
+      "Name": "Pilferer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50SAVESHACKED",
+      "SetID": "3koflhj",
+      "Name": "Safecracker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5CREWMEMBER",
+      "SetID": "3koflhj",
+      "Name": "Pack leader",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "80HOURS",
+      "SetID": "3koflhj",
+      "Name": "Honorary Citizen",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLBSK",
+      "SetID": "3koflhj",
+      "Name": "Nature Lover",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLCOMBAT",
+      "SetID": "3koflhj",
+      "Name": "Fightmaster",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLCRAFT",
+      "SetID": "3koflhj",
+      "Name": "Flexible friend",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLKLE",
+      "SetID": "3koflhj",
+      "Name": "Beacon of faith",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLOUT",
+      "SetID": "3koflhj",
+      "Name": "Master criminal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLPERSONALITY",
+      "SetID": "3koflhj",
+      "Name": "Hero",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLSURVIVAL",
+      "SetID": "3koflhj",
+      "Name": "Natural Survivor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALLXP",
+      "SetID": "3koflhj",
+      "Name": "Luminary",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BATTLEPLANS",
+      "SetID": "3koflhj",
+      "Name": "Prepared",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "CALAAN",
+      "SetID": "3koflhj",
+      "Name": "Calaan",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CHOSEBER",
+      "SetID": "3koflhj",
+      "Name": "Cultivator",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "CHOSECLAW",
+      "SetID": "3koflhj",
+      "Name": "Sewer Rat",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CHOSEKLE",
+      "SetID": "3koflhj",
+      "Name": "Acolyte",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CHOSEOUT",
+      "SetID": "3koflhj",
+      "Name": "Runner",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "COLLECTDEPT",
+      "SetID": "3koflhj",
+      "Name": "Earner",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "EMOCHAOS",
+      "SetID": "3koflhj",
+      "Name": "Flashback",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "ENDGAME",
+      "SetID": "3koflhj",
+      "Name": "Visionary",
+      "Percentage": 5,
+      "XP": 100,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "ENDHUM",
+      "SetID": "3koflhj",
+      "Name": "Pure Rebel",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ENDNEU",
+      "SetID": "3koflhj",
+      "Name": "The Third Way",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ENDSYN",
+      "SetID": "3koflhj",
+      "Name": "Beast of Xacor",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FINABE",
+      "SetID": "3koflhj",
+      "Name": "Balance of Power",
+      "Percentage": 4,
+      "XP": 20,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "FINDCITY",
+      "SetID": "3koflhj",
+      "Name": "Survival",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 30
+    },
+    {
+      "ID": "FINDRAY",
+      "SetID": "3koflhj",
+      "Name": "Fencing master",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "FINDSMUGGLER",
+      "SetID": "3koflhj",
+      "Name": "Detective",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "FIRSTFLIGHT",
+      "SetID": "3koflhj",
+      "Name": "Up and Away",
+      "Percentage": 59,
+      "XP": 10,
+      "UsersEstimate": 70
+    },
+    {
+      "ID": "FREEHOM",
+      "SetID": "3koflhj",
+      "Name": "Leader",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "HUMAN",
+      "SetID": "3koflhj",
+      "Name": "Human",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "KILL1000MONSTER",
+      "SetID": "3koflhj",
+      "Name": "Big Game Hunter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL20ALBS",
+      "SetID": "3koflhj",
+      "Name": "Friend or Foe",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL20BANDITS",
+      "SetID": "3koflhj",
+      "Name": "Thief taker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL20MONSTER",
+      "SetID": "3koflhj",
+      "Name": "Hunter",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "KILL300MONSTER",
+      "SetID": "3koflhj",
+      "Name": "Slayer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILL50NPCS",
+      "SetID": "3koflhj",
+      "Name": "Butcher",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MACHINE",
+      "SetID": "3koflhj",
+      "Name": "Coldhearted",
+      "Percentage": 0.8,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "OLDDUTIES",
+      "SetID": "3koflhj",
+      "Name": "Turned the world upside down.",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "ROMANTIC",
+      "SetID": "3koflhj",
+      "Name": "Romantic",
+      "Percentage": 6,
+      "XP": 20,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "SHOWDOWN",
+      "SetID": "3koflhj",
+      "Name": "Thicker than Water",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 6
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3koflhj",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
   "FirstSeenAchievements": "2024-02-22T21:03:39.1638587+00:00",
   "LastChanged": "2024-01-15T18:59:58.717552+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:39.1638558+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:41.3638125+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:21.470913+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:07.6104708+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:39.1638598+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:09.2912515+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:41.3646442+00:00"
 }

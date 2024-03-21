@@ -5,10 +5,10 @@
   "Ranking_Rating": 484,
   "Ranking_Popularity": 605,
   "Ranking_PopularitySum": 607,
-  "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 263,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -310,11 +310,11 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 2451,
-  "EOS_Completed": 15,
+  "EOS_Progressed": 2485,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:46.139377+00:00",
@@ -4580,6 +4580,11 @@
       "Time": "2024-03-04T23:05:02.5668038+00:00",
       "NumProgressed": 2451,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-03-21T17:12:52.7197745+00:00",
+      "NumProgressed": 2485,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 36,
@@ -4589,9 +4594,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 174
     },
     {
       "ID": "Collect20Gold",
@@ -4599,15 +4604,15 @@
       "Name": "Collect Gold",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Collect20Iron",
       "SetID": "9lj35g4",
       "Name": "Collect Iron Ore",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 124
     },
     {
       "ID": "Collect50MonsterParts",
@@ -4615,7 +4620,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "CollectAllStatues",
@@ -4623,23 +4628,23 @@
       "Name": "Return the Statues",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "CollectAllWeaponsAndGear",
       "SetID": "9lj35g4",
       "Name": "Complete Redgi\u0027s Armory",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteArenaFaction",
@@ -4647,31 +4652,31 @@
       "Name": "Complete Arena Faction",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteChefsBook",
       "SetID": "9lj35g4",
       "Name": "Complete the Chefs Book",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 75
     },
     {
       "ID": "CompleteElderFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Elder Faction",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 99
     },
     {
       "ID": "CompleteGuardFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Guard Faction",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 199
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4679,15 +4684,15 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CompleteStoryDM",
       "SetID": "9lj35g4",
       "Name": "A new Warchief rises",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DefeatAvor",
@@ -4695,15 +4700,15 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "DefeatMoziQueen",
       "SetID": "9lj35g4",
       "Name": "End of the Mozis",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 99
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -4711,7 +4716,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -4719,23 +4724,23 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 99
     },
     {
       "ID": "GetRangedWeapon",
       "SetID": "9lj35g4",
       "Name": "Ranged Weapon",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 149
     },
     {
       "ID": "GetTHWeapon",
@@ -4743,23 +4748,23 @@
       "Name": "Two Handed Weapon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Kill25Bugs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Grubs",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 124
     },
     {
       "ID": "Kill25Frogs",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Frogs",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 149
     },
     {
       "ID": "Kill25Mozi",
@@ -4767,15 +4772,15 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 99
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4783,15 +4788,15 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "RepairChef",
       "SetID": "9lj35g4",
       "Name": "Kitchen Ready To Cook",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 124
     },
     {
       "ID": "RepairSmith",
@@ -4799,55 +4804,55 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "RepairThroneRoom",
       "SetID": "9lj35g4",
       "Name": "Throne Room Fit For A King",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 99
     },
     {
       "ID": "RescueBrothers",
       "SetID": "9lj35g4",
       "Name": "Rescue Redgi\u0027s Brothers",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 124
     },
     {
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 99
     },
     {
       "ID": "DefeatCroakhisKhan",
       "SetID": "cbf1i0c",
       "Name": "Defeat Croakhis Khan",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 45
     },
     {
       "ID": "DefeatGrubBuster",
       "SetID": "cbf1i0c",
       "Name": "Defeat the Grub Buster",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 34
     },
     {
       "ID": "DefeatStalkerQueen",
       "SetID": "cbf1i0c",
       "Name": "Defeat the Stalker Queen",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 34
     },
     {
       "ID": "DefeatYellowTongue",
@@ -4855,7 +4860,7 @@
       "Name": "Shield Maiden Yellow Tongue",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "FirstBeer",
@@ -4863,7 +4868,7 @@
       "Name": "I Remember My First Beer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TravelToBrightFirForest",
@@ -4871,29 +4876,29 @@
       "Name": "The Bright Fir",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2451,
-      "Completed": 15
+      "Progressed": 2485,
+      "Completed": 16
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 1092,
-      "Completed": 948
+      "Progressed": 1126,
+      "Completed": 954
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-03-14T02:13:28.5879122+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:05:02.5668032+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:52.7197737+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:20.8006783+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:25.0423615+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:05:02.5668451+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:21.3298915+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:52.7198273+00:00"
 }

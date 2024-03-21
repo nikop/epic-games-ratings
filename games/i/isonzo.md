@@ -6,54 +6,54 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 54.00% | ~5,247 |
-| You Shall Not Pass | 54.00% | ~5,247 |
-| Avanti Savoia! | 47.00% | ~4,567 |
-| Peak Performance | 47.00% | ~4,567 |
-| Mamma Mia! | 38.00% | ~3,692 |
-| Gabriele D'Annunzio | 35.00% | ~3,401 |
-| Conrad von Hotzensocks | 34.00% | ~3,303 |
-| Silver Lining | 29.00% | ~2,818 |
-| Aurelio Baruzzi | 22.00% | ~2,138 |
-| Decimation | 22.00% | ~2,138 |
-| Donatello | 20.00% | ~1,943 |
-| Insubordination | 20.00% | ~1,943 |
-| The Italian Job | 20.00% | ~1,943 |
-| Veni Vidi Vici | 20.00% | ~1,943 |
-| Ragazzi del '99 | 19.00% | ~1,846 |
-| Luigi Cadorna | 17.00% | ~1,652 |
-| The Lion of the Isonzo | 15.00% | ~1,457 |
-| Shaken, Not Stirred | 14.00% | ~1,360 |
-| Uomo Universale | 14.00% | ~1,360 |
-| Die Bosniaken Kommen! | 13.00% | ~1,263 |
-| Dirty Dozen | 13.00% | ~1,263 |
-| Machiavelli | 12.00% | ~1,166 |
-| The Devil's Paintbrush | 11.00% | ~1,069 |
-| Thus With A Kiss | 11.00% | ~1,069 |
-| I Have the High Ground | 10.00% | ~972 |
-| Millenial | 10.00% | ~972 |
-| Dante's Inferno | 9.00% | ~874 |
-| The Show Must Go On | 8.00% | ~777 |
-| Tosca | 8.00% | ~777 |
-| 12th Bottle of the Isonzo | 7.00% | ~680 |
-| Cercatore d'Oro | 6.00% | ~583 |
-| The Enlightment | 6.00% | ~583 |
-| Generalissimo | 4.00% | ~389 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~389 |
-| Farewell to Arms | 3.00% | ~291 |
-| Seeing Red | 3.00% | ~291 |
-| Ponte of No Return | 2.00% | ~194 |
-| Soča Drag | 2.00% | ~194 |
-| Saboteur | 2.00% | ~194 |
-| Compagnia della Morte | 1.00% | ~97 |
-| Drop and Give Me 20 | 1.00% | ~97 |
-| Malpractice | 1.00% | ~97 |
-| Rome Wasn't Built In A Day | 1.00% | ~97 |
-| "Sacro Egoismo" | 0.40% | ~39 |
-| Can I Go Home Now? | 0.10% | ~10 |
+| Tutti Eroi! | 57.00% | ~5,353 |
+| You Shall Not Pass | 57.00% | ~5,353 |
+| Avanti Savoia! | 50.00% | ~4,696 |
+| Peak Performance | 50.00% | ~4,696 |
+| Mamma Mia! | 40.00% | ~3,757 |
+| Gabriele D'Annunzio | 36.00% | ~3,381 |
+| Conrad von Hotzensocks | 35.00% | ~3,287 |
+| Silver Lining | 30.00% | ~2,818 |
+| Aurelio Baruzzi | 23.00% | ~2,160 |
+| Decimation | 23.00% | ~2,160 |
+| Donatello | 22.00% | ~2,066 |
+| The Italian Job | 22.00% | ~2,066 |
+| Insubordination | 21.00% | ~1,972 |
+| Veni Vidi Vici | 21.00% | ~1,972 |
+| Ragazzi del '99 | 20.00% | ~1,878 |
+| Luigi Cadorna | 18.00% | ~1,691 |
+| Shaken, Not Stirred | 16.00% | ~1,503 |
+| The Lion of the Isonzo | 16.00% | ~1,503 |
+| Uomo Universale | 15.00% | ~1,409 |
+| Die Bosniaken Kommen! | 13.00% | ~1,221 |
+| Dirty Dozen | 13.00% | ~1,221 |
+| Machiavelli | 13.00% | ~1,221 |
+| The Devil's Paintbrush | 12.00% | ~1,127 |
+| Millenial | 11.00% | ~1,033 |
+| Thus With A Kiss | 11.00% | ~1,033 |
+| I Have the High Ground | 10.00% | ~939 |
+| Dante's Inferno | 9.00% | ~845 |
+| The Show Must Go On | 9.00% | ~845 |
+| Tosca | 9.00% | ~845 |
+| 12th Bottle of the Isonzo | 7.00% | ~657 |
+| Cercatore d'Oro | 7.00% | ~657 |
+| The Enlightment | 6.00% | ~564 |
+| Generalissimo | 4.00% | ~376 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~376 |
+| Seeing Red | 4.00% | ~376 |
+| Farewell to Arms | 3.00% | ~282 |
+| Ponte of No Return | 3.00% | ~282 |
+| Soča Drag | 3.00% | ~282 |
+| Saboteur | 2.00% | ~188 |
+| Compagnia della Morte | 1.00% | ~94 |
+| Drop and Give Me 20 | 1.00% | ~94 |
+| Malpractice | 1.00% | ~94 |
+| Rome Wasn't Built In A Day | 1.00% | ~94 |
+| "Sacro Egoismo" | 0.50% | ~47 |
+| Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,716 (Ranked 192)  
-Completed: 5 (0.05%) (Ranked 358)  
+Progressed: 9,392 (Ranked 203)  
+Completed: 2 (0.02%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,6 +330,7 @@ Completed: 5 (0.05%) (Ranked 358)
 | 2024-01-26 | 10,058 | 10 |
 | 2024-01-27 | 10,062 | 10 |
 | 2024-02-22 | 9,716 | 5 |
+| 2024-03-21 | 9,392 | 2 |
 ## Awards
 Max (Diverse Characters): 48  (Ranked 492)  
 Sum: 359 (Ranked 386)  

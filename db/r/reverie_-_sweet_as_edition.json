@@ -2,10 +2,10 @@
   "ID": "82aad7acf5384a5ba5d00d4549819260",
   "Name": "Reverie - Sweet As Edition",
   "ProductSlug": "reverie-sweet-as-edition-a2f649",
-  "Ranking_EOS_Progress": 751,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 802,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-28T08:00:00+00:00",
     "PcReleaseDate": "2023-06-28T08:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -46,6 +46,11 @@
     {
       "Time": "2023-08-13T07:03:19.6866183+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:28.5103521+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -81,7 +86,7 @@
       "ID": "BeatArcade",
       "SetID": "d3o713f",
       "Name": "Renegade Fighter",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "Name": "Not Your Standard Weapon",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DartGun",
@@ -121,7 +126,7 @@
       "ID": "Dungeon1",
       "SetID": "d3o713f",
       "Name": "Basement Dweller",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -163,7 +168,7 @@
       "Name": "We All Need a Hobby",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FinishGame",
@@ -338,13 +343,13 @@
     {
       "ID": "d3o713f",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:48.1130388+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:42.2226838+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:28.5103515+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:02.5930335+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:25.4397359+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:42.2227052+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:50.7170067+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:28.5103746+00:00"
 }

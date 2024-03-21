@@ -2,10 +2,10 @@
   "ID": "a289e2f87380496290f9be28b5a277f6",
   "Name": "The Apartment",
   "ProductSlug": "the-apartment-f09924",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-04T00:00:00+00:00",
     "PcReleaseDate": "2024-04-04T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-17T02:14:04.2807684+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:17.3794586+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:17.9253981+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:24.3195723+00:00"
 }

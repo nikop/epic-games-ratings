@@ -2,10 +2,10 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 452,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -845,6 +845,11 @@
       "Time": "2024-01-26T20:04:33.7223215+00:00",
       "NumProgressed": 198,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:06:45.5481232+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -857,29 +862,29 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "allCollectiblesFound",
       "SetID": "cfe0fhi",
       "Name": "Secrets of the Telepost",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "allCoursesCleared",
       "SetID": "cfj6lld",
       "Name": "Off to the Races",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "allCoursesGold",
       "SetID": "cfj6lld",
       "Name": "KeyWe are the Champions",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -903,57 +908,57 @@
       "ID": "beatOwnScore",
       "SetID": "cfe0fhi",
       "Name": "Practice Makes Postmasters",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 90
     },
     {
       "ID": "completeFall",
       "SetID": "cfe0fhi",
       "Name": "Pumpkins and Postage Stamps",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 59
     },
     {
       "ID": "completeGame",
       "SetID": "cfe0fhi",
       "Name": "Kiwinter Kiwonderland",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "completeOnboarding",
       "SetID": "cfe0fhi",
       "Name": "You\u0027re Hired",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 234
     },
     {
       "ID": "completeSummer",
       "SetID": "cfe0fhi",
       "Name": "Fun in the Bungalow Basin Sun",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 98
     },
     {
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 163
     },
     {
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 83
     },
     {
       "ID": "getABonusReward",
@@ -961,13 +966,13 @@
       "Name": "Working for the Kiweekend",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 95
     },
     {
       "ID": "goldOnAllLevels",
       "SetID": "cfe0fhi",
       "Name": "Postmasters General",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -975,15 +980,15 @@
       "ID": "goldOnFall",
       "SetID": "cfe0fhi",
       "Name": "Autumn Postmasters",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "goldOnOvertimeShifts",
       "SetID": "cfe0fhi",
       "Name": "Working Overtime",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -993,13 +998,13 @@
       "Name": "Summer Postmasters",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "goldOnWinter",
       "SetID": "cfe0fhi",
       "Name": "Winter Postmasters",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -1007,7 +1012,7 @@
       "ID": "halfWearablesUnlocked",
       "SetID": "cfe0fhi",
       "Name": "Stocking Up",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -1016,13 +1021,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 244,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 198,
+      "Progressed": 244,
       "Completed": 0
     }
   ],
@@ -1030,8 +1035,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:28.5024486+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:45.5481225+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:44.662843+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:41.4581492+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:28.5024714+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:07.8390425+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:45.5481399+00:00"
 }

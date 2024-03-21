@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What's going on here? | 88.00% | ~417 |
-| Brute force | 80.00% | ~379 |
-| Nimble fingers | 77.00% | ~365 |
-| Room 104 | 77.00% | ~365 |
-| Face to face | 76.00% | ~360 |
-| Let's play a game… | 73.00% | ~346 |
-| Now or never | 73.00% | ~346 |
-| Soundtrack | 62.00% | ~294 |
-| First aid | 57.00% | ~270 |
-| Antidote | 48.00% | ~228 |
-| Pick the right door | 21.00% | ~100 |
-| The third floor | 16.00% | ~76 |
-| On the right path | 14.00% | ~66 |
-| One-way | 14.00% | ~66 |
-| It can't be true | 13.00% | ~62 |
-| He who seeks, finds! | 12.00% | ~57 |
-| I'm close now | 11.00% | ~52 |
-| Failed attempt | 11.00% | ~52 |
-| The real escape | 11.00% | ~52 |
-| Good choice | 11.00% | ~52 |
-| Take the long way round | 11.00% | ~52 |
-| Nightmare in the kitchen | 9.00% | ~43 |
-| Born again | 6.00% | ~28 |
-| The experiment | 5.00% | ~24 |
-| 373 | 4.00% | ~19 |
-| Matthew's revenge | 4.00% | ~19 |
-| Eva's diary | 2.00% | ~9 |
-| Horror book | 2.00% | ~9 |
+| What's going on here? | 88.00% | ~441 |
+| Brute force | 81.00% | ~406 |
+| Nimble fingers | 78.00% | ~391 |
+| Room 104 | 78.00% | ~391 |
+| Face to face | 77.00% | ~386 |
+| Let's play a game… | 74.00% | ~371 |
+| Now or never | 74.00% | ~371 |
+| Soundtrack | 64.00% | ~321 |
+| First aid | 58.00% | ~291 |
+| Antidote | 49.00% | ~245 |
+| Pick the right door | 23.00% | ~115 |
+| The third floor | 18.00% | ~90 |
+| One-way | 16.00% | ~80 |
+| On the right path | 15.00% | ~75 |
+| It can't be true | 14.00% | ~70 |
+| He who seeks, finds! | 13.00% | ~65 |
+| The real escape | 12.00% | ~60 |
+| I'm close now | 11.00% | ~55 |
+| Failed attempt | 11.00% | ~55 |
+| Good choice | 11.00% | ~55 |
+| Take the long way round | 11.00% | ~55 |
+| Nightmare in the kitchen | 10.00% | ~50 |
+| Born again | 6.00% | ~30 |
+| The experiment | 5.00% | ~25 |
+| 373 | 4.00% | ~20 |
+| Matthew's revenge | 4.00% | ~20 |
+| Eva's diary | 2.00% | ~10 |
+| Horror book | 2.00% | ~10 |
 | A dark past | 1.00% | ~5 |
 | Matthew's mistakes | 0.40% | ~2 |
 | Sly as a fox | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 372)  
-Completed: 2 (0.42%) (Ranked 253)  
+Progressed: 501 (Ranked 391)  
+Completed: 2 (0.40%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,3 +167,4 @@ Completed: 2 (0.42%) (Ranked 253)
 | 2024-01-14 | 328 | 2 |
 | 2024-01-21 | 329 | 2 |
 | 2024-02-22 | 474 | 2 |
+| 2024-03-21 | 501 | 2 |

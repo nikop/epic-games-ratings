@@ -2,10 +2,10 @@
   "ID": "6515ed58d6ef4981b0055e04e9abd204",
   "Name": "NHRA Championship Drag Racing - Speed For All",
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
-  "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 346,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 859,
+  "EOS_Progressed": 863,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -936,6 +936,11 @@
       "Time": "2024-02-22T21:04:39.4396446+00:00",
       "NumProgressed": 859,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:10:03.6594638+00:00",
+      "NumProgressed": 863,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -947,7 +952,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 854
     },
     {
       "ID": "11",
@@ -971,15 +976,15 @@
       "Name": "Don\u0027t get ahead on yourself",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 337
     },
     {
       "ID": "14",
       "SetID": "4n5bj21",
       "Name": "Trouble with the swerve",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 587
     },
     {
       "ID": "15",
@@ -987,7 +992,7 @@
       "Name": "Whole again",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "16",
@@ -1027,7 +1032,7 @@
       "Name": "First one tastes better",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "20",
@@ -1097,9 +1102,9 @@
       "ID": "28",
       "SetID": "4n5bj21",
       "Name": "Better late then never",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 43
     },
     {
       "ID": "29",
@@ -1195,7 +1200,7 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "9",
@@ -1203,14 +1208,14 @@
       "Name": "Oops, My bad",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 578
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 859,
+      "Progressed": 863,
       "Completed": 0
     }
   ],
@@ -1218,8 +1223,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:39.4396443+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:10:03.6594632+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:07.1933262+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:54.4470855+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:39.4396629+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:55.8087478+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:03.6594902+00:00"
 }

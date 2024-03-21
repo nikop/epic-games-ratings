@@ -5,10 +5,10 @@
   "Ranking_Rating": 1011,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -263,11 +263,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1871,
-  "EOS_Completed": 78,
-  "EOS_NewPlayers": 16,
+  "EOS_Progressed": 1957,
+  "EOS_Completed": 79,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed_Percentage": 4.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -4428,6 +4428,11 @@
       "Time": "2024-01-27T12:06:48.7027111+00:00",
       "NumProgressed": 1871,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-03-21T17:07:12.8930318+00:00",
+      "NumProgressed": 1957,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 11,
@@ -4439,23 +4444,23 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 767
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
       "SetID": "7a9m7mj",
       "Name": "Freeze to death",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACH_Cacciavite",
       "SetID": "7a9m7mj",
       "Name": "Screwdriver",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 823
+      "UsersEstimate": 881
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -4463,39 +4468,39 @@
       "Name": "Spicy",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 861
+      "UsersEstimate": 920
     },
     {
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 730
+      "UsersEstimate": 783
     },
     {
       "ID": "ACH_FineGioco",
       "SetID": "7a9m7mj",
       "Name": "All together, again",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 636
+      "UsersEstimate": 685
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
       "SetID": "7a9m7mj",
       "Name": "Pack Rat",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 730
+      "UsersEstimate": 783
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -4503,38 +4508,38 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1487
     },
     {
       "ID": "ACH_StanzaSegreta",
       "SetID": "7a9m7mj",
       "Name": "Someone was here",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 767
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH_SussurriHotel",
       "SetID": "7a9m7mj",
       "Name": "Ghost Hunters",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 748
+      "UsersEstimate": 802
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1871,
-      "Completed": 78
+      "Progressed": 1957,
+      "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:48.9647718+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:12.8930311+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:05.8982721+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:43.634436+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:48.9647971+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:47.5084096+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:12.8930733+00:00"
 }

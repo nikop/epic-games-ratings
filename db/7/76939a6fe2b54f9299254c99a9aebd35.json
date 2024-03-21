@@ -2,10 +2,10 @@
   "ID": "76939a6fe2b54f9299254c99a9aebd35",
   "Name": "The Smurfs 2 - The Prisoner of the Green Stone",
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
-  "Ranking_EOS_Progress": 789,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 825,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-02T09:00:00+00:00",
     "PcReleaseDate": "2023-11-02T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -39,6 +39,11 @@
       "Time": "2023-12-21T09:09:03.6559919+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:10:55.9236229+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:09.8652595+00:00",
@@ -49,17 +54,17 @@
       "ID": "ANY_CHALLENGES_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Hear, feel, think...",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ANY_CHALLENGES_GOLD",
       "SetID": "1oh5c4a",
       "Name": "Becoming Midas",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "BEAT_ENNEMIES",
@@ -67,29 +72,29 @@
       "Name": "The lurking fear",
       "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BOSS_FOREST",
       "SetID": "1oh5c4a",
       "Name": "Double-dealing",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "Slimy kisses",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BOSS_VOID",
       "SetID": "1oh5c4a",
       "Name": "Prison No Break",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -97,7 +102,7 @@
       "ID": "BOSS_VOID_HARD",
       "SetID": "1oh5c4a",
       "Name": "And his name is Zosimos...",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -105,31 +110,31 @@
       "ID": "CHALLENGES_GOLD_FOREST",
       "SetID": "1oh5c4a",
       "Name": "King of the Forest",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "CHALLENGES_GOLD_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "The Gold Mountain",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHALLENGES_GOLD_VOLCANO",
       "SetID": "1oh5c4a",
       "Name": "Hot stuff",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHALLENGE_CHOPTOU",
       "SetID": "1oh5c4a",
       "Name": "Catch them all!",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -137,7 +142,7 @@
       "ID": "CHALLENGE_COLTOU",
       "SetID": "1oh5c4a",
       "Name": "Come back to Earth",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -145,7 +150,7 @@
       "ID": "CHALLENGE_POUSSTOU",
       "SetID": "1oh5c4a",
       "Name": "Talk to the hand",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -153,23 +158,23 @@
       "ID": "CHAP_FOREST_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Let\u2019s take a walk in the woods...",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAP_MOUNTAIN_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Conquer the mountain!",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAP_VOLCANO_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Flee, poor Smurfs!",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -177,7 +182,7 @@
       "ID": "CLEAN_FOREST",
       "SetID": "1oh5c4a",
       "Name": "Spring cleaning",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -185,7 +190,7 @@
       "ID": "CLEAN_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "Crystalline frost",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -193,7 +198,7 @@
       "ID": "CLEAN_VOLCANO",
       "SetID": "1oh5c4a",
       "Name": "The floor is lava",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -201,7 +206,7 @@
       "ID": "EARN_CURRENCY",
       "SetID": "1oh5c4a",
       "Name": "Numismatist",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -209,7 +214,7 @@
       "ID": "FIND_ALL_CHALLENGES",
       "SetID": "1oh5c4a",
       "Name": "A study in scarlet",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -225,7 +230,7 @@
       "ID": "OVERHEAT_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Release the pressure",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -233,7 +238,7 @@
       "ID": "ULTIMATE_BRAINY",
       "SetID": "1oh5c4a",
       "Name": "The Apprentice Smurf",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -241,7 +246,7 @@
       "ID": "ULTIMATE_DIMWITTY",
       "SetID": "1oh5c4a",
       "Name": "Carrot cake",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -249,7 +254,7 @@
       "ID": "ULTIMATE_HANDY",
       "SetID": "1oh5c4a",
       "Name": "Ex Machina",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -257,7 +262,7 @@
       "ID": "ULTIMATE_STORM",
       "SetID": "1oh5c4a",
       "Name": "Eye of the Lynx",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -265,15 +270,15 @@
       "ID": "UPGRADE_BRAINY_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Two-telligent",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "UPGRADE_CHOPTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Catch as catch can!",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -281,63 +286,63 @@
       "ID": "UPGRADE_COLTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "StickAll everywhere",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "UPGRADE_DIMWITTY_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Happy idiot",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADE_GREEN_STONE_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Get to the point",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "UPGRADE_HANDY_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Trust me, I\u2019m an engineer",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADE_POUSSTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Push me excuse you",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADE_STORM_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Intrepid adventurer",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UPGRADE_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Odds and ends",
-      "Percentage": 100,
+      "Percentage": 133,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "WEAR_SKIN",
       "SetID": "1oh5c4a",
       "Name": "Vanities",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 15,
       "UsersEstimate": 3
     }
@@ -346,14 +351,14 @@
     {
       "ID": "1oh5c4a",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:18.0950031+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:10:55.9236223+00:00",
   "LastUpdate_AppInfo": "2024-03-14T17:57:20.8597631+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:05.4769742+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:18.0950199+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:07.0454096+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:55.9236466+00:00"
 }

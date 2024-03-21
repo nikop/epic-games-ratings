@@ -2,10 +2,10 @@
   "ID": "4db2dc09cc0b4051ac65216312c90a5b",
   "Name": "Shrommzzz",
   "ProductSlug": "shrommzzz-426bcd",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-28T11:00:00+00:00",
     "PcReleaseDate": "2023-05-26T14:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-04T10:57:43.534247+00:00",
   "LastUpdate_AppInfo": "2024-03-17T16:57:05.5966454+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:07.2121052+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:26.7404398+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:31.5283603+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:43.0787366+00:00"
 }

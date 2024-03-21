@@ -2,10 +2,10 @@
   "ID": "0011a38fecb741dc9923879a4f490d42",
   "Name": "Deadwater Saloon",
   "ProductSlug": "deadwater-saloon-391b9d",
-  "Ranking_EOS_Progress": 588,
-  "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 635,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
     "PcReleaseDate": "2022-09-13T13:00:00+00:00",
@@ -409,9 +409,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "631i43e",
       "Name": "Fight Fire With Fire",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -673,9 +673,9 @@
       "ID": "NEW_ACHIEVEMENT_2_29",
       "SetID": "631i43e",
       "Name": "Don\u0027t Let Booth In",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -689,9 +689,9 @@
       "ID": "NEW_ACHIEVEMENT_2_30",
       "SetID": "631i43e",
       "Name": "Backpages",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_31",
@@ -737,9 +737,9 @@
       "ID": "NEW_ACHIEVEMENT_2_8",
       "SetID": "631i43e",
       "Name": "What\u0027s Cookin\u0027",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -768,8 +768,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:16.1270315+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:10:53.3875433+00:00",
   "LastUpdate_AppInfo": "2024-03-21T04:57:23.5182+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:56.646562+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:16.1270766+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:31.7021364+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:53.3876002+00:00"
 }

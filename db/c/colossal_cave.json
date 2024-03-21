@@ -2,10 +2,10 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 509,
-  "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Completed": 215,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 112,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.136982+00:00",
@@ -206,6 +206,11 @@
       "Time": "2024-01-20T18:07:33.2443897+00:00",
       "NumProgressed": 108,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:08:21.5548023+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -217,23 +222,23 @@
       "Name": "We\u0027ve only just begun",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "02-YoureSpelunkinNow",
       "SetID": "5iij4gg",
       "Name": "You\u0027re spelunkin\u0027 now!",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "03-BirdmanOfTheCaves",
       "SetID": "5iij4gg",
       "Name": "The Birdman of The Caves",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "04-CharminTheSnake",
@@ -241,15 +246,15 @@
       "Name": "Charmin\u0027 the Snake",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "05-DrumsInTheDeep",
       "SetID": "5iij4gg",
       "Name": "Drums in the Deep",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "06-CantBearTheWeight",
@@ -263,7 +268,7 @@
       "ID": "07-TakeTheScenicRoute",
       "SetID": "5iij4gg",
       "Name": "Take the Scenic Route",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -281,13 +286,13 @@
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "10-BridgeBuilder",
       "SetID": "5iij4gg",
       "Name": "Bridge Builder",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 26
     },
@@ -295,9 +300,9 @@
       "ID": "11-StGeorgesGauntlet",
       "SetID": "5iij4gg",
       "Name": "St. George\u0027s Gauntlet",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "12-RedbeardsRevenger",
@@ -345,7 +350,7 @@
       "Name": "Batteries not Included",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "18-GreenThumbGoliath",
@@ -353,7 +358,7 @@
       "Name": "Green Thumb Goliath",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "19-WhoDat",
@@ -375,9 +380,9 @@
       "ID": "21-ColossalCaveExplorer",
       "SetID": "5iij4gg",
       "Name": "Colossal Cave Explorer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "22-MasterCavePlunderer",
@@ -391,7 +396,7 @@
       "ID": "23-WhatAWinner",
       "SetID": "5iij4gg",
       "Name": "What a Winner!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -408,7 +413,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 112,
       "Completed": 1
     }
   ],
@@ -416,8 +421,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:40.9077775+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:21.5548017+00:00",
   "LastUpdate_AppInfo": "2024-03-16T23:57:22.1297208+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:48.0626466+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:40.9077871+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:53.6947352+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:21.5548203+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "f47bc8a0f3e94eecbbc88021b3011f73",
   "Name": "Passing By - A Tailwind Journey",
   "ProductSlug": "passing-by-d47e9b",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-12T14:00:00+00:00",
     "PcReleaseDate": "2024-03-12T14:00:00+00:00",
@@ -31,9 +31,283 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-03-21T17:11:59.5094391+00:00",
+  "TotalAchievements": 34,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "01_home_1",
+      "SetID": "49ap2j7",
+      "Name": "Balloon Driver\u2019s Licence",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "02_lighthouse_1",
+      "SetID": "49ap2j7",
+      "Name": "Captain\u2019s Honour",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "03_lighthouse_2",
+      "SetID": "49ap2j7",
+      "Name": "Leave the Light on",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "04_treasurehunt_1",
+      "SetID": "49ap2j7",
+      "Name": "X Marks the Spot!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "05_treasurehunt_2",
+      "SetID": "49ap2j7",
+      "Name": "Rest in Peace",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "06_monastery_1",
+      "SetID": "49ap2j7",
+      "Name": "Praise the Merciful Magpie",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "07_monastery_2",
+      "SetID": "49ap2j7",
+      "Name": "Well, well, what have we here\u2026",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "08_obsidian_1",
+      "SetID": "49ap2j7",
+      "Name": "Arts \u0026 Crafts",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "09_icepalace_1",
+      "SetID": "49ap2j7",
+      "Name": "Entering the Palace",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10_icepalace_2",
+      "SetID": "49ap2j7",
+      "Name": "Work smart, not hard",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11_brokenheart_1",
+      "SetID": "49ap2j7",
+      "Name": "Unbreaking a Heart",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12_robinson_1",
+      "SetID": "49ap2j7",
+      "Name": "Cannibalistic Confusion",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13_zipline_1",
+      "SetID": "49ap2j7",
+      "Name": "Capture the Flag",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14_zipline_2",
+      "SetID": "49ap2j7",
+      "Name": "Swinging Bats",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15_spidercave_1",
+      "SetID": "49ap2j7",
+      "Name": "Always Bring a Rope to an Adventure",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16_spidercave_2",
+      "SetID": "49ap2j7",
+      "Name": "Sharing is Caring",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17_spidercave_3",
+      "SetID": "49ap2j7",
+      "Name": "That tickles!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18_spacestation_1",
+      "SetID": "49ap2j7",
+      "Name": "A Small Step for Curly",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19_watermill_1",
+      "SetID": "49ap2j7",
+      "Name": "Brute Force",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20_smugglerbay_1",
+      "SetID": "49ap2j7",
+      "Name": "It\u2019s a Trap!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21_smugglerbay_2",
+      "SetID": "49ap2j7",
+      "Name": "Crab Rave",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22_smugglerbay_3",
+      "SetID": "49ap2j7",
+      "Name": "Like Father, like Son",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23_cablecar_1",
+      "SetID": "49ap2j7",
+      "Name": "Private Concert",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24_tradership_1",
+      "SetID": "49ap2j7",
+      "Name": "Papers, please!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25_busstop_1",
+      "SetID": "49ap2j7",
+      "Name": "At Wit\u2019s End",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26_deliveryballoon_1",
+      "SetID": "49ap2j7",
+      "Name": "A Pear Trade",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27_snowman_1",
+      "SetID": "49ap2j7",
+      "Name": "Where is my Nose?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28_helpinghand_1",
+      "SetID": "49ap2j7",
+      "Name": "Honk!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29_helpinghand_2",
+      "SetID": "49ap2j7",
+      "Name": "Broken Aeronaut\u2019s Code",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30_postoffice_1",
+      "SetID": "49ap2j7",
+      "Name": "Passing the Torch",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31_postoffice_2",
+      "SetID": "49ap2j7",
+      "Name": "Best Friends Forever",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32_postoffice_3",
+      "SetID": "49ap2j7",
+      "Name": "Passing By",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33_collection_souvenirs",
+      "SetID": "49ap2j7",
+      "Name": "A Potpourri of Memories",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34_collection_records",
+      "SetID": "49ap2j7",
+      "Name": "Music Enthusiast",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "49ap2j7",
@@ -44,8 +318,8 @@
   ],
   "FirstSeen": "2024-03-20T22:57:22.0548246+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:11.1484738+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:11.1484693+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:59.509437+00:00",
   "LastUpdate_AppInfo": "2024-03-14T17:57:20.6772123+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:13.4650625+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:11.1484751+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:30.4627825+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:59.5101897+00:00"
 }

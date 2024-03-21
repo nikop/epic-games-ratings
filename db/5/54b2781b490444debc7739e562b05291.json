@@ -2,10 +2,10 @@
   "ID": "54b2781b490444debc7739e562b05291",
   "Name": "Stories from the Outbreak",
   "ProductSlug": "stories-from-the-outbreak-23efc0",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 825,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-14T00:00:00+00:00",
     "PcReleaseDate": "2024-02-20T17:00:00+00:00",
@@ -23,17 +23,330 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:11:57.2651151+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:11:57.265118+00:00",
+  "TotalAchievements": 37,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach_abomination",
+      "SetID": "1322lcm",
+      "Name": "The Abomination",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_beat_houndwalker",
+      "SetID": "1322lcm",
+      "Name": "The Houndwalker",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ach_beat_legion",
+      "SetID": "1322lcm",
+      "Name": "The Legion",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_beat_mutantmother",
+      "SetID": "1322lcm",
+      "Name": "The Mutantmother",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_beat_silhouette",
+      "SetID": "1322lcm",
+      "Name": "The Silhouette",
+      "Percentage": 33,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ach_brilliant_leader",
+      "SetID": "1322lcm",
+      "Name": "Brilliant leader",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_challenge1",
+      "SetID": "1322lcm",
+      "Name": "For an answer which cannot be expressed",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_challenge2",
+      "SetID": "1322lcm",
+      "Name": "The question too cannot be expressed",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_challenge3",
+      "SetID": "1322lcm",
+      "Name": "The riddle does not exist",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_challenge4",
+      "SetID": "1322lcm",
+      "Name": "If a question can be put at all",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_challenge5",
+      "SetID": "1322lcm",
+      "Name": "Then it can also be answered",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_decisive_pumeling",
+      "SetID": "1322lcm",
+      "Name": "A decisive pummeling!",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ach_deep_roar",
+      "SetID": "1322lcm",
+      "Name": "Deep roar",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_dont_lose_your_head",
+      "SetID": "1322lcm",
+      "Name": "Don\u0027t lose your head",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_entertainer",
+      "SetID": "1322lcm",
+      "Name": "Entertainer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_eternity",
+      "SetID": "1322lcm",
+      "Name": "Eternity",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_feeling_alive",
+      "SetID": "1322lcm",
+      "Name": "Feeling alive",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_final_form",
+      "SetID": "1322lcm",
+      "Name": "Final form",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_forbidden_corners",
+      "SetID": "1322lcm",
+      "Name": "Forbidden corners",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_gallows",
+      "SetID": "1322lcm",
+      "Name": "Gallows",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_grindset",
+      "SetID": "1322lcm",
+      "Name": "Grindset",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_gunfights_and_explosions",
+      "SetID": "1322lcm",
+      "Name": "Gun-fights and explosions",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_half_the_contry_here",
+      "SetID": "1322lcm",
+      "Name": "Half the country\u0027s here",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_he_remained_unbroken",
+      "SetID": "1322lcm",
+      "Name": "He remained unbroken",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_heartbreak",
+      "SetID": "1322lcm",
+      "Name": "Heartbreak",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_leave_no_one_behind",
+      "SetID": "1322lcm",
+      "Name": "Leave no one behind",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_life_of_helping_others",
+      "SetID": "1322lcm",
+      "Name": "A life of helping others",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_look_upon_my_art",
+      "SetID": "1322lcm",
+      "Name": "Look upon my art",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_mothers_smile",
+      "SetID": "1322lcm",
+      "Name": "A mother\u0027s smile",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_never_give_up",
+      "SetID": "1322lcm",
+      "Name": "Never give up",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_no_plan",
+      "SetID": "1322lcm",
+      "Name": "No plan",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_nyoom",
+      "SetID": "1322lcm",
+      "Name": "Nyoom",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_put_vejini",
+      "SetID": "1322lcm",
+      "Name": "P\u016Bt, V\u0113ji\u0146i",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_stories_from_the_outbreak",
+      "SetID": "1322lcm",
+      "Name": "Stories from the Outbreak",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ach_the_full_story",
+      "SetID": "1322lcm",
+      "Name": "The full story",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_the_new_land_under_god",
+      "SetID": "1322lcm",
+      "Name": "The new land under God",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_unity_for_piece",
+      "SetID": "1322lcm",
+      "Name": "The Unity for Peace",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1322lcm",
+      "IsBase": true,
+      "Progressed": 3,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:11:57.265118+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:57.2651143+00:00",
   "LastUpdate_AppInfo": "2024-03-15T09:57:22.4028949+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:31.121908+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:09.0896526+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:44.6507935+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:57.2659999+00:00"
 }

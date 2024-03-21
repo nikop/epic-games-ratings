@@ -3,10 +3,56 @@
 [View Rawdata](../../db/s/super_meat_boy_forever.json)  
 Rating: 4.54 (Ranked 563)  
 Number of Ratings: 24  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Machine Puncher | 21.00% | ~101,914 |
+| The key to it all | 16.00% | ~77,649 |
+| Brain Puncher | 7.00% | ~33,971 |
+| 2014 | 4.00% | ~19,412 |
+| Door Puncher | 4.00% | ~19,412 |
+| Looks familiar | 3.00% | ~14,559 |
+| Punch Drunk | 3.00% | ~14,559 |
+| Fetus Puncher | 2.00% | ~9,706 |
+| God Puncher | 1.00% | ~4,853 |
+| Green Screen Hero | 0.40% | ~1,941 |
+| I remember you | 0.30% | ~1,456 |
+| Pink Bomber | 0.20% | ~971 |
+| Afraid no more | 0.10% | ~485 |
+| A race against Time | 0.10% | ~485 |
+| Buffer Overrun | 0.10% | ~485 |
+| Dilation Boy | 0.10% | ~485 |
+| For the vegans | 0.10% | ~485 |
+| Golden God! | 0.10% | ~485 |
+| Heat Death Girl | 0.10% | ~485 |
+| Insurance Fraud | 0.10% | ~485 |
+| Not a real doctor | 0.10% | ~485 |
+| Oak Boy | 0.10% | ~485 |
+| Psychopharmacology Boy | 0.10% | ~485 |
+| Relationship Goals | 0.10% | ~485 |
+| Research Girl | 0.10% | ~485 |
+| Second time's a charm | 0.10% | ~485 |
+| S has come to | 0.10% | ~485 |
+| Similar yet legally distinct | 0.10% | ~485 |
+| Straight Jacket Girl | 0.10% | ~485 |
+| Teak Girl | 0.10% | ~485 |
+| Vaccine Boy | 0.10% | ~485 |
+| We have a new champion! | 0.10% | ~485 |
+| What even is this game? | 0.10% | ~485 |
+| Development Boy | 0.00% | ~0 |
+| Lock Jaw Girl | 0.00% | ~0 |
+| Page Fault | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 485,305 (Ranked 45)  
+Completed: 0 (0.00%) (Ranked 445)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 485,305 | 0 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 465)  
-Sum: 58 (Ranked 536)  
-Diff (max vs sum): -71  
+Sum: 58 (Ranked 537)  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 58 |

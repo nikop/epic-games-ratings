@@ -6,34 +6,34 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 42.00% | ~100,465 |
-| NATURAL BORN WINNER | 33.00% | ~78,937 |
-| CALLING HOUSTON | 28.00% | ~66,977 |
-| TRICK UP YOUR SLEEVE | 23.00% | ~55,016 |
-| SNEAKY SNEAKY | 22.00% | ~52,624 |
-| GT9STRADALE | 20.00% | ~47,840 |
-| CHALLENGER | 11.00% | ~26,312 |
-| ON A ROLL | 10.00% | ~23,920 |
-| CENTAUR | 8.00% | ~19,136 |
-| FASTER THAN EVER | 8.00% | ~19,136 |
-| CHALLENGE THE WORLD | 7.00% | ~16,744 |
-| PHOTOFINISH | 7.00% | ~16,744 |
-| QAREEN | 5.00% | ~11,960 |
-| TAKATORA | 5.00% | ~11,960 |
-| SHOWOFF | 4.00% | ~9,568 |
-| GILA | 3.00% | ~7,176 |
-| PRO | 2.00% | ~4,784 |
-| RESPWND | 2.00% | ~4,784 |
-| SHINY SHINY GOLD | 2.00% | ~4,784 |
-| HARDCORE | 1.00% | ~2,392 |
-| ACE | 0.80% | ~1,914 |
+| VANGUARD | 42.00% | ~100,426 |
+| NATURAL BORN WINNER | 33.00% | ~78,906 |
+| CALLING HOUSTON | 29.00% | ~69,342 |
+| TRICK UP YOUR SLEEVE | 23.00% | ~54,995 |
+| SNEAKY SNEAKY | 22.00% | ~52,604 |
+| GT9STRADALE | 20.00% | ~47,822 |
+| CHALLENGER | 11.00% | ~26,302 |
+| ON A ROLL | 10.00% | ~23,911 |
+| CENTAUR | 8.00% | ~19,129 |
+| FASTER THAN EVER | 8.00% | ~19,129 |
+| CHALLENGE THE WORLD | 7.00% | ~16,738 |
+| PHOTOFINISH | 7.00% | ~16,738 |
+| QAREEN | 5.00% | ~11,956 |
+| TAKATORA | 5.00% | ~11,956 |
+| SHOWOFF | 4.00% | ~9,564 |
+| GILA | 3.00% | ~7,173 |
+| PRO | 2.00% | ~4,782 |
+| RESPWND | 2.00% | ~4,782 |
+| SHINY SHINY GOLD | 2.00% | ~4,782 |
+| HARDCORE | 1.00% | ~2,391 |
+| ACE | 0.80% | ~1,913 |
 | TACTICIAN | 0.70% | ~1,674 |
+| GTX COMPETIZIONE | 0.60% | ~1,435 |
 | TUNING MANIAC | 0.60% | ~1,435 |
-| GTX COMPETIZIONE | 0.50% | ~1,196 |
 | HIDDEN POWER | 0.50% | ~1,196 |
-| DRAGOON | 0.40% | ~957 |
-| FLAWLESS | 0.40% | ~957 |
-| MARID | 0.30% | ~718 |
+| DRAGOON | 0.40% | ~956 |
+| FLAWLESS | 0.40% | ~956 |
+| MARID | 0.30% | ~717 |
 | BETTER THAN EVER | 0.20% | ~478 |
 | IINI | 0.20% | ~478 |
 | NOBUNAGA | 0.20% | ~478 |
@@ -41,8 +41,8 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~478 |
 | ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,202 (Ranked 77)  
-Completed: 38 (0.02%) (Ranked 386)  
+Progressed: 239,110 (Ranked 79)  
+Completed: 34 (0.01%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,6 +325,7 @@ Completed: 38 (0.02%) (Ranked 386)
 | 2024-01-26 | 239,352 | 43 |
 | 2024-01-27 | 239,346 | 43 |
 | 2024-02-22 | 239,202 | 38 |
+| 2024-03-21 | 239,110 | 34 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

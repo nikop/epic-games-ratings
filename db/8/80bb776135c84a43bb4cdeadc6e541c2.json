@@ -2,10 +2,10 @@
   "ID": "80bb776135c84a43bb4cdeadc6e541c2",
   "Name": "War Hospital",
   "ProductSlug": "war-hospital",
-  "Ranking_EOS_Progress": 821,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 681,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-11T09:00:00+00:00",
     "PcReleaseDate": "2024-01-11T09:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -29,6 +29,11 @@
     {
       "Time": "2024-01-11T10:03:10.9589401+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:06:20.3851088+00:00",
+      "NumProgressed": 30,
       "NumCompleted": 0
     }
   ],
@@ -136,7 +141,7 @@
       "ID": "achievement_20",
       "SetID": "20gon1k",
       "Name": "Practice makes perfect",
-      "Percentage": 100,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -273,14 +278,14 @@
     {
       "ID": "20gon1k",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-11T17:57:13.0873241+00:00",
   "FirstSeenAchievements": "2024-01-11T10:03:10.9591765+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:09.7504558+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:20.3851083+00:00",
   "LastUpdate_AppInfo": "2024-03-21T14:57:16.4461362+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:24.7325405+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:09.7504717+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:20.7166942+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:20.3851346+00:00"
 }

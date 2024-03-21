@@ -2,10 +2,10 @@
   "ID": "2bee239ee96643fbb2afab3013004136",
   "Name": "Toribash Next",
   "ProductSlug": "toribash-next-930df6",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-24T18:00:00+00:00",
     "PcReleaseDate": "2024-01-24T18:00:00+00:00",
@@ -24,18 +24,155 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1414,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:07:31.1736945+00:00",
+      "NumProgressed": 1414,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:07:31.1736978+00:00",
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BELT_BLACK",
+      "SetID": "474p6n2",
+      "Name": "Black Belt",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_BLUE",
+      "SetID": "474p6n2",
+      "Name": "Blue Belt",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_BROWN",
+      "SetID": "474p6n2",
+      "Name": "Brown Belt",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_CUSTOM",
+      "SetID": "474p6n2",
+      "Name": "Custom Belt",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_GOD",
+      "SetID": "474p6n2",
+      "Name": "God Belt",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_GREEN",
+      "SetID": "474p6n2",
+      "Name": "Green Belt",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_MASTER",
+      "SetID": "474p6n2",
+      "Name": "Master Belt",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_ORANGE",
+      "SetID": "474p6n2",
+      "Name": "Orange Belt",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_WHITE",
+      "SetID": "474p6n2",
+      "Name": "White Belt",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BELT_YELLOW",
+      "SetID": "474p6n2",
+      "Name": "Yellow Belt",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAYED_100H",
+      "SetID": "474p6n2",
+      "Name": "Pro",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAYED_10H",
+      "SetID": "474p6n2",
+      "Name": "Enforcer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAYED_1H",
+      "SetID": "474p6n2",
+      "Name": "Beginner",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAYED_24H",
+      "SetID": "474p6n2",
+      "Name": "Relax All",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAYED_4H",
+      "SetID": "474p6n2",
+      "Name": "Dismemberer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "474p6n2",
+      "IsBase": true,
+      "Progressed": 1414,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-01-25T04:59:17.1370362+00:00",
+  "FirstSeenAchievements": "2024-03-21T17:07:31.1736977+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:31.1736939+00:00",
   "LastUpdate_AppInfo": "2024-03-14T22:57:13.1125345+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:49.149611+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:02.5498946+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:21.9186175+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:31.1747197+00:00"
 }

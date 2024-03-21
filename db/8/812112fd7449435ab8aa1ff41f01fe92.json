@@ -2,10 +2,10 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 564,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.56,
+  "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
     {
       "Time": "2023-11-23T23:03:27.3218044+00:00",
@@ -329,6 +329,11 @@
       "Time": "2024-02-22T21:04:23.8238396+00:00",
       "NumProgressed": 64,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:09:43.1868397+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -389,7 +394,7 @@
       "Name": "The floor is lava. Literally.",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -413,7 +418,7 @@
       "Name": "Welcome to the jumping challenge!",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "OWN_SKINS",
@@ -443,7 +448,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 25,
       "UsersEstimate": 36
     },
@@ -451,7 +456,7 @@
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 12
     },
@@ -475,7 +480,7 @@
       "ID": "WIN_VERSUS",
       "SetID": "5629o35",
       "Name": "Tower Champion",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 8
     }
@@ -484,14 +489,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:23.8238393+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:43.1868389+00:00",
   "LastUpdate_AppInfo": "2024-03-19T01:37:47.716346+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:38.4450792+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:23.8238501+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:40.9849809+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:43.1868921+00:00"
 }

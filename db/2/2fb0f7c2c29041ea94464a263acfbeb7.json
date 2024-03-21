@@ -2,10 +2,10 @@
   "ID": "2fb0f7c2c29041ea94464a263acfbeb7",
   "Name": "Pinbot",
   "ProductSlug": "pinbot-ad038d",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-15T11:00:00+00:00",
     "PcReleaseDate": "2024-01-24T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-17T12:58:50.7460607+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:20.7426138+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:17.9102096+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:45.8502687+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:06.8509057+00:00"
 }

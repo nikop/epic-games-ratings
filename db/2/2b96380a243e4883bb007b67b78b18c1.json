@@ -2,10 +2,10 @@
   "ID": "2b96380a243e4883bb007b67b78b18c1",
   "Name": "SPIRITUS",
   "ProductSlug": "spiritus-b0efa2",
-  "Ranking_EOS_Progress": 722,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 781,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-10T00:00:00+00:00",
     "PcReleaseDate": "2022-06-08T23:00:00+00:00",
@@ -104,9 +104,9 @@
       "ID": "FirstKill",
       "SetID": "98k75ll",
       "Name": "First Kill",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GameOver",
@@ -120,17 +120,17 @@
       "ID": "Headshot",
       "SetID": "98k75ll",
       "Name": "Headshot!",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NewGame",
       "SetID": "98k75ll",
       "Name": "Enter the survival horror.",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Shotgun",
@@ -144,9 +144,9 @@
       "ID": "SurvivetheHorde",
       "SetID": "98k75ll",
       "Name": "Survive the Horde",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TheEnd",
@@ -166,8 +166,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-04T09:03:31.3588011+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:34.6057129+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:13.2711475+00:00",
   "LastUpdate_AppInfo": "2024-03-16T23:57:19.2559234+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:48.5333368+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:34.6057276+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:08.4550962+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:13.271161+00:00"
 }

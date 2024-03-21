@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 95.00% | ~103 |
-| You're spelunkin' now! | 81.00% | ~87 |
-| The Birdman of The Caves | 50.00% | ~54 |
-| I've Fallen & I Can't Get Up | 49.00% | ~53 |
-| Charmin' the Snake | 34.00% | ~37 |
-| Bridge Builder | 24.00% | ~26 |
-| Drums in the Deep | 23.00% | ~25 |
+| We've only just begun | 95.00% | ~106 |
+| You're spelunkin' now! | 80.00% | ~90 |
+| The Birdman of The Caves | 49.00% | ~55 |
+| I've Fallen & I Can't Get Up | 49.00% | ~55 |
+| Charmin' the Snake | 34.00% | ~38 |
+| Drums in the Deep | 24.00% | ~27 |
+| Bridge Builder | 23.00% | ~26 |
 | Treasure Seeker | 20.00% | ~22 |
-| Green Thumb Goliath | 17.00% | ~18 |
-| Take the Scenic Route | 14.00% | ~15 |
-| St. George's Gauntlet | 12.00% | ~13 |
+| Green Thumb Goliath | 17.00% | ~19 |
+| Take the Scenic Route | 13.00% | ~15 |
+| St. George's Gauntlet | 13.00% | ~15 |
 | Redbeard's Revenger | 12.00% | ~13 |
 | Treasure Hunter | 12.00% | ~13 |
 | BJ & The Bear | 12.00% | ~13 |
@@ -23,14 +23,14 @@
 | Soft Hands | 8.00% | ~9 |
 | Egg On His Face | 7.00% | ~8 |
 | Who dat? | 7.00% | ~8 |
-| Batteries not Included | 6.00% | ~6 |
-| What a Winner! | 6.00% | ~6 |
-| Colossal Cave Explorer | 5.00% | ~5 |
+| Batteries not Included | 6.00% | ~7 |
+| What a Winner! | 5.00% | ~6 |
+| Colossal Cave Explorer | 4.00% | ~4 |
 | Master Cave Plunderer | 4.00% | ~4 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 509)  
-Completed: 1 (0.93%) (Ranked 193)  
+Progressed: 112 (Ranked 538)  
+Completed: 1 (0.89%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 1 (0.93%) (Ranked 193)
 | 2024-01-10 | 106 | 1 |
 | 2024-01-11 | 107 | 1 |
 | 2024-01-20 | 108 | 1 |
+| 2024-03-21 | 112 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

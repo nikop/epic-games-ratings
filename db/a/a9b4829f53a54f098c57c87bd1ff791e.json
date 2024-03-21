@@ -2,10 +2,10 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 523,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
     "PcReleaseDate": "2022-09-27T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -224,6 +224,11 @@
       "Time": "2024-03-04T23:04:36.4111985+00:00",
       "NumProgressed": 94,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:12:25.8881629+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
@@ -234,7 +239,7 @@
       "ID": "233",
       "SetID": "39bcm6",
       "Name": "Powertrip",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -250,7 +255,7 @@
       "ID": "BREAK_CAM",
       "SetID": "39bcm6",
       "Name": "Process THIS!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -258,7 +263,7 @@
       "ID": "CHAIR_HELL",
       "SetID": "39bcm6",
       "Name": "BEWARE THE CHAIR",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 35,
       "UsersEstimate": 9
     },
@@ -274,15 +279,15 @@
       "ID": "DEMO_END",
       "SetID": "39bcm6",
       "Name": "The End...?",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "END_IS_NEVER",
       "SetID": "39bcm6",
       "Name": "Playtest Report",
-      "Percentage": 16,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -290,7 +295,7 @@
       "ID": "FALL_DEATH",
       "SetID": "39bcm6",
       "Name": "Slippin Stanton",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -306,9 +311,9 @@
       "ID": "HAMMER_ACQUIRE",
       "SetID": "39bcm6",
       "Name": "J-MC Hammer",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "IMMOVABLE",
@@ -330,23 +335,23 @@
       "ID": "LEVEL_2_ENTER",
       "SetID": "39bcm6",
       "Name": "Not Out of the Metaphorical Woods",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "LEVEL_3_ENTER",
       "SetID": "39bcm6",
       "Name": "Just a Slight Detour",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "MICROWAVE",
       "SetID": "39bcm6",
       "Name": "BRRRRRRRRRRRRRRRRRRRRRR",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 45,
       "UsersEstimate": 9
     },
@@ -362,7 +367,7 @@
       "ID": "OAT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "What a Triumph",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -386,7 +391,7 @@
       "ID": "PLAYTEST_END",
       "SetID": "39bcm6",
       "Name": "Congratulations!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -402,7 +407,7 @@
       "ID": "VENT_ENDING",
       "SetID": "39bcm6",
       "Name": "Take a Break",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -427,14 +432,14 @@
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-22T01:57:38.178275+00:00",
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:36.4111977+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:25.8881623+00:00",
   "LastUpdate_AppInfo": "2024-03-17T23:57:16.2242473+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:41.8679207+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:36.4112112+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:59.3559668+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:25.8881765+00:00"
 }

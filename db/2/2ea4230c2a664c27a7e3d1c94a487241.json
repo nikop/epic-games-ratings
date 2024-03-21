@@ -2,10 +2,10 @@
   "ID": "2ea4230c2a664c27a7e3d1c94a487241",
   "Name": "Potato Sack Racing Simulator 2024",
   "ProductSlug": "potato-sack-racing-simulator-2024-3c3c83",
-  "Ranking_EOS_Progress": 751,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-05T11:00:00+00:00",
     "PcReleaseDate": "2024-01-05T11:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -39,6 +39,11 @@
       "Time": "2024-02-22T21:03:46.1433955+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:50.8978597+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T17:03:22.6972043+00:00",
@@ -49,17 +54,17 @@
       "ID": "01",
       "SetID": "2o0k3mc",
       "Name": "Mom! I\u0027m on TV!",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "02",
       "SetID": "2o0k3mc",
       "Name": "M\u0027lady",
-      "Percentage": 25,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "03",
@@ -105,7 +110,7 @@
       "ID": "08",
       "SetID": "2o0k3mc",
       "Name": "Mega Triga Boss",
-      "Percentage": 25,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -186,14 +191,14 @@
     {
       "ID": "2o0k3mc",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-05T09:58:24.1541751+00:00",
   "FirstSeenAchievements": "2023-12-20T17:03:22.6972043+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:46.1433953+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:50.8978591+00:00",
   "LastUpdate_AppInfo": "2024-03-20T23:57:17.0356536+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:16.5501525+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:46.1434026+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:18.516121+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:50.8978713+00:00"
 }

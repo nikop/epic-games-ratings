@@ -2,10 +2,10 @@
   "ID": "1409385ad20c4ba48849a6cc0973db4a",
   "Name": "Boti - Byteland Overclocked",
   "ProductSlug": "boti-byteland-overclocked-3a40c3",
-  "Ranking_EOS_Progress": 821,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -464,8 +464,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-22T20:09:06.1697385+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:34.5129963+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:18.2183079+00:00",
   "LastUpdate_AppInfo": "2024-03-15T09:57:22.7507628+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:41.8087309+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:34.5130235+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:59.1457994+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:18.2183427+00:00"
 }

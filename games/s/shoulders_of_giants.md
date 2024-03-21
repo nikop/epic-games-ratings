@@ -5,28 +5,28 @@ Rating: 4.34 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 87.00% | ~2,036 |
-| A Ribbiting Performance | 76.00% | ~1,778 |
-| At Least We Have Each Other... | 74.00% | ~1,732 |
-| Frogbot | 72.00% | ~1,685 |
-| Ouch | 55.00% | ~1,287 |
-| Fun in the Stun | 53.00% | ~1,240 |
-| The Interdimensional Power of Friendship | 44.00% | ~1,030 |
-| Do you feel like a tough guy? | 43.00% | ~1,006 |
-| Turn Up The HEAT | 41.00% | ~959 |
-| Stop Hitting Yourself! | 34.00% | ~796 |
-| Nothing to Wear | 31.00% | ~725 |
-| The First Law of Thermodynamics | 28.00% | ~655 |
-| The Second Law of Thermodynamics | 15.00% | ~351 |
-| Do you trust me? | 15.00% | ~351 |
-| Taking Out the Trash | 10.00% | ~234 |
-| The Third Law of Thermodynamics | 9.00% | ~211 |
-| Say "Cheese!" | 9.00% | ~211 |
+| On the Shoulders of Giants | 87.00% | ~2,052 |
+| A Ribbiting Performance | 76.00% | ~1,793 |
+| At Least We Have Each Other... | 75.00% | ~1,769 |
+| Frogbot | 72.00% | ~1,698 |
+| Ouch | 55.00% | ~1,297 |
+| Fun in the Stun | 53.00% | ~1,250 |
+| The Interdimensional Power of Friendship | 45.00% | ~1,062 |
+| Do you feel like a tough guy? | 43.00% | ~1,014 |
+| Turn Up The HEAT | 41.00% | ~967 |
+| Stop Hitting Yourself! | 34.00% | ~802 |
+| Nothing to Wear | 31.00% | ~731 |
+| The First Law of Thermodynamics | 28.00% | ~661 |
+| The Second Law of Thermodynamics | 15.00% | ~354 |
+| Do you trust me? | 15.00% | ~354 |
+| Taking Out the Trash | 10.00% | ~236 |
+| The Third Law of Thermodynamics | 9.00% | ~212 |
+| Say "Cheese!" | 9.00% | ~212 |
 | Better Than the Devs | 4.00% | ~94 |
 | So do we just stay up here, or?... | 2.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,340 (Ranked 254)  
-Completed: 10 (0.43%) (Ranked 252)  
+Progressed: 2,359 (Ranked 266)  
+Completed: 10 (0.42%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,6 +186,7 @@ Completed: 10 (0.43%) (Ranked 252)
 | 2024-01-12 | 2,336 | 10 |
 | 2024-01-19 | 2,337 | 10 |
 | 2024-01-24 | 2,340 | 10 |
+| 2024-03-21 | 2,359 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

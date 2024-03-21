@@ -6,69 +6,69 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 7.00% | ~53,601 |
-| Life is your teacher | 6.00% | ~45,944 |
-| The Assault | 5.00% | ~38,286 |
-| Lightning Hands | 5.00% | ~38,286 |
-| The Hateful Pole Fighter | 3.00% | ~22,972 |
-| A Lady's Blood in the Snow | 3.00% | ~22,972 |
-| Stuntmaster | 3.00% | ~22,972 |
-| Street Fighting | 3.00% | ~22,972 |
-| State of constant learning | 3.00% | ~22,972 |
-| Qi Gong: Breath | 3.00% | ~22,972 |
-| Qi Gong: Essence | 3.00% | ~22,972 |
-| Old Child | 3.00% | ~22,972 |
-| Rumble in the Hangar | 3.00% | ~22,972 |
-| Lady Wing Chun | 2.00% | ~15,315 |
-| Furious Fists | 2.00% | ~15,315 |
-| Scareless | 2.00% | ~15,315 |
-| Kill Nil | 2.00% | ~15,315 |
-| Qi Gong: Mind | 2.00% | ~15,315 |
-| I know Kung-Fu | 2.00% | ~15,315 |
-| Kung-Fu Tussle | 2.00% | ~15,315 |
-| Path of the Prospect | 2.00% | ~15,315 |
-| Take damage to save time | 2.00% | ~15,315 |
-| Project Arena | 2.00% | ~1,501 |
-| Diligence as a goal | 2.00% | ~1,501 |
-| Dance of the Praying Mantis | 1.00% | ~7,657 |
-| Fight the way you practice | 1.00% | ~750 |
-| Muk Yan Master | 0.90% | ~6,892 |
-| Tiger on Fire | 0.90% | ~6,892 |
-| Detective Story | 0.90% | ~6,892 |
-| Source of Flying Daggers | 0.80% | ~6,126 |
-| Iron Money | 0.80% | ~6,126 |
-| Bloody Sport | 0.80% | ~600 |
-| Martial Hub | 0.80% | ~600 |
-| Legendary Talismans of Wuxing | 0.70% | ~5,360 |
-| Prodigal Child | 0.70% | ~5,360 |
-| The 36th Chamber of Kung-Fu | 0.70% | ~5,360 |
-| Sword Stained With Blood | 0.70% | ~5,360 |
-| The best strikes are the ones we avoid | 0.60% | ~450 |
-| Knowledge Greed | 0.50% | ~3,829 |
-| The Pit Protector | 0.50% | ~3,829 |
-| Come Snap With Me | 0.50% | ~3,829 |
-| Drunken Fighter | 0.40% | ~3,063 |
-| Martial Artist | 0.40% | ~3,063 |
-| Deadly Venom | 0.40% | ~300 |
-| Healing Memory | 0.30% | ~2,297 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,297 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,297 |
-| Be like water my friend | 0.30% | ~2,297 |
-| A Touch of Acumen | 0.30% | ~225 |
-| Beatmaker | 0.30% | ~225 |
-| Secure, Protect, Leave | 0.20% | ~150 |
-| Crouching Tiger | 0.20% | ~150 |
-| Skill and an even stronger will | 0.20% | ~150 |
-| Master of the Flying Assassins | 0.20% | ~150 |
-| Warriors from the Mountain | 0.10% | ~766 |
-| Hidden Dragon | 0.10% | ~75 |
-| Here Cometh the Iceman | 0.10% | ~75 |
-| Fighter in the Pond | 0.10% | ~75 |
-| Bonus Stage | 0.10% | ~75 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~75 |
+| The Old Grandmaster | 7.00% | ~53,857 |
+| Life is your teacher | 6.00% | ~46,163 |
+| Lightning Hands | 6.00% | ~46,163 |
+| The Assault | 5.00% | ~38,469 |
+| The Hateful Pole Fighter | 4.00% | ~30,775 |
+| State of constant learning | 4.00% | ~30,775 |
+| Old Child | 4.00% | ~30,775 |
+| A Lady's Blood in the Snow | 3.00% | ~23,081 |
+| Lady Wing Chun | 3.00% | ~23,081 |
+| Kill Nil | 3.00% | ~23,081 |
+| Stuntmaster | 3.00% | ~23,081 |
+| Street Fighting | 3.00% | ~23,081 |
+| Qi Gong: Breath | 3.00% | ~23,081 |
+| Qi Gong: Essence | 3.00% | ~23,081 |
+| Path of the Prospect | 3.00% | ~23,081 |
+| Rumble in the Hangar | 3.00% | ~23,081 |
+| Diligence as a goal | 3.00% | ~2,360 |
+| Furious Fists | 2.00% | ~15,388 |
+| Scareless | 2.00% | ~15,388 |
+| Dance of the Praying Mantis | 2.00% | ~15,388 |
+| Qi Gong: Mind | 2.00% | ~15,388 |
+| I know Kung-Fu | 2.00% | ~15,388 |
+| Kung-Fu Tussle | 2.00% | ~15,388 |
+| Take damage to save time | 2.00% | ~15,388 |
+| Project Arena | 2.00% | ~1,574 |
+| Muk Yan Master | 1.00% | ~7,694 |
+| Tiger on Fire | 1.00% | ~7,694 |
+| Detective Story | 1.00% | ~7,694 |
+| Fight the way you practice | 1.00% | ~787 |
+| Source of Flying Daggers | 0.90% | ~6,924 |
+| Iron Money | 0.90% | ~6,924 |
+| Bloody Sport | 0.90% | ~708 |
+| Martial Hub | 0.90% | ~708 |
+| Legendary Talismans of Wuxing | 0.80% | ~6,155 |
+| The 36th Chamber of Kung-Fu | 0.80% | ~6,155 |
+| Sword Stained With Blood | 0.80% | ~6,155 |
+| Prodigal Child | 0.70% | ~5,386 |
+| The best strikes are the ones we avoid | 0.60% | ~472 |
+| Drunken Fighter | 0.50% | ~3,847 |
+| Martial Artist | 0.50% | ~3,847 |
+| Knowledge Greed | 0.50% | ~3,847 |
+| The Pit Protector | 0.50% | ~3,847 |
+| Come Snap With Me | 0.50% | ~3,847 |
+| Deadly Venom | 0.50% | ~393 |
+| Healing Memory | 0.40% | ~3,078 |
+| Master of the Phoenix Eye Fist | 0.40% | ~3,078 |
+| Ferocity, speed, strength, accuracy | 0.40% | ~3,078 |
+| Be like water my friend | 0.40% | ~3,078 |
+| A Touch of Acumen | 0.40% | ~315 |
+| Beatmaker | 0.30% | ~236 |
+| Secure, Protect, Leave | 0.20% | ~157 |
+| Crouching Tiger | 0.20% | ~157 |
+| Skill and an even stronger will | 0.20% | ~157 |
+| Master of the Flying Assassins | 0.20% | ~157 |
+| Warriors from the Mountain | 0.10% | ~769 |
+| Hidden Dragon | 0.10% | ~79 |
+| Here Cometh the Iceman | 0.10% | ~79 |
+| Fighter in the Pond | 0.10% | ~79 |
+| Bonus Stage | 0.10% | ~79 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 765,727 (Ranked 26)  
-Completed: 13,043 (1.70%) (Ranked 154)  
+Progressed: 769,381 (Ranked 26)  
+Completed: 13,082 (1.70%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,20 +351,21 @@ Completed: 13,043 (1.70%) (Ranked 154)
 | 2024-01-26 | 762,946 | 13,009 |
 | 2024-01-27 | 763,029 | 13,009 |
 | 2024-02-22 | 765,727 | 13,043 |
+| 2024-03-21 | 769,381 | 13,082 |
 ## Awards
-Max (Great Boss Battles): 7,555  (Ranked 64)  
-Sum: 12,881 (Ranked 90)  
+Max (Great Boss Battles): 7,560  (Ranked 64)  
+Sum: 12,887 (Ranked 90)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,555 |
+| This game has Great Boss Battles | 7,560 |
 | This game has Diverse Characters | 751 |
 | This game has Challenging Combat | 698 |
 | This game has Amazing Characters | 662 |
 | This game is Highly Recommended | 661 |
 | This game has Amazing Storytelling | 654 |
 | This game has Unique Visuals | 644 |
-| This game is Extremely Fun | 630 |
+| This game is Extremely Fun | 631 |
 | This game has Quickly Understood Controls | 626 |
 | This game is Relaxing | 589 |
 | This game has a Creative Community | 436 |
@@ -800,4 +801,4 @@ Diff (max vs sum): -26
 | 2024-03-18 | 4.82 | - | 7,544 | 12,857 |
 | 2024-03-19 | 4.82 | - | 7,549 | 12,872 |
 | 2024-03-20 | 4.82 | - | 7,555 | 12,878 |
-| 2024-03-21 | 4.82 | - | 7,555 | 12,881 |
+| 2024-03-21 | 4.82 | - | 7,560 | 12,887 |

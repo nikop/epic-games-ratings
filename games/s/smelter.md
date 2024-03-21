@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 90.00% | ~43 |
-| Welcome to the Rumbly Lands! | 88.00% | ~42 |
-| Time to Bash Some Heads! | 79.00% | ~38 |
-| Shiny! | 71.00% | ~34 |
-| Deep in the Mounds | 67.00% | ~32 |
-| Smeltastic! | 40.00% | ~19 |
-| Locked Away | 38.00% | ~18 |
-| A Little Renovating | 33.00% | ~16 |
-| It's a Sign! | 31.00% | ~15 |
-| Deflect This! | 27.00% | ~13 |
-| Just Some Improvements | 25.00% | ~12 |
-| A Little Extra Love | 23.00% | ~11 |
-| Final Announcement | 23.00% | ~11 |
-| A New Strategy | 23.00% | ~11 |
-| A Terrible Way to Go | 23.00% | ~11 |
-| My Precious Gems! | 21.00% | ~10 |
-| Isn't It Beautiful? | 21.00% | ~10 |
-| A Generous Leader | 21.00% | ~10 |
-| An Unexpected Visitor | 21.00% | ~10 |
-| Orcharion Boost | 17.00% | ~8 |
-| Case Closed | 17.00% | ~8 |
-| Dr. Dreinstein III | 15.00% | ~7 |
-| You did it? You did it! | 15.00% | ~7 |
-| All Beefed Up | 15.00% | ~7 |
-| The Smelter | 15.00% | ~7 |
-| What's Yours Is Mine | 15.00% | ~7 |
-| We're Breaking Up | 15.00% | ~7 |
-| Remains of the Rumbly Lands | 15.00% | ~7 |
-| A Wingman Falls | 15.00% | ~7 |
-| With a Little Help from My Friends | 15.00% | ~7 |
-| Scheming Away | 13.00% | ~6 |
-| Fishing for Fissures | 13.00% | ~6 |
-| How Do You Like Them Apples? | 13.00% | ~6 |
+| What took you so long? | 90.00% | ~45 |
+| Welcome to the Rumbly Lands! | 88.00% | ~44 |
+| Time to Bash Some Heads! | 80.00% | ~40 |
+| Shiny! | 72.00% | ~36 |
+| Deep in the Mounds | 68.00% | ~34 |
+| Locked Away | 38.00% | ~19 |
+| Smeltastic! | 38.00% | ~19 |
+| A Little Renovating | 32.00% | ~16 |
+| It's a Sign! | 30.00% | ~15 |
+| Deflect This! | 26.00% | ~13 |
+| Just Some Improvements | 24.00% | ~12 |
+| A Little Extra Love | 22.00% | ~11 |
+| Final Announcement | 22.00% | ~11 |
+| A New Strategy | 22.00% | ~11 |
+| A Terrible Way to Go | 22.00% | ~11 |
+| My Precious Gems! | 20.00% | ~10 |
+| Isn't It Beautiful? | 20.00% | ~10 |
+| A Generous Leader | 20.00% | ~10 |
+| An Unexpected Visitor | 20.00% | ~10 |
+| Orcharion Boost | 16.00% | ~8 |
+| Case Closed | 16.00% | ~8 |
+| Dr. Dreinstein III | 14.00% | ~7 |
+| You did it? You did it! | 14.00% | ~7 |
+| All Beefed Up | 14.00% | ~7 |
+| The Smelter | 14.00% | ~7 |
+| What's Yours Is Mine | 14.00% | ~7 |
+| We're Breaking Up | 14.00% | ~7 |
+| Remains of the Rumbly Lands | 14.00% | ~7 |
+| A Wingman Falls | 14.00% | ~7 |
+| With a Little Help from My Friends | 14.00% | ~7 |
+| Scheming Away | 12.00% | ~6 |
+| Fishing for Fissures | 12.00% | ~6 |
+| How Do You Like Them Apples? | 12.00% | ~6 |
 | Gotta Collect Them All | 10.00% | ~5 |
 | Keeping Things Tidy | 10.00% | ~5 |
 | Eremagu Trial Extraordinaire | 10.00% | ~5 |
@@ -56,8 +56,8 @@
 | He Who Smelt It Dealt It | 8.00% | ~4 |
 | Smelter's Got Your Back | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 592)  
-Completed: 4 (8.33%) (Ranked 49)  
+Progressed: 50 (Ranked 634)  
+Completed: 4 (8.00%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,6 +82,7 @@ Completed: 4 (8.33%) (Ranked 49)
 | 2024-01-04 | 46 | 4 |
 | 2024-01-06 | 47 | 4 |
 | 2024-01-21 | 48 | 4 |
+| 2024-03-21 | 50 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

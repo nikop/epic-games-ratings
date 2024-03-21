@@ -2,10 +2,10 @@
   "ID": "687d153df3384a0dacd8b1b5a0c723d6",
   "Name": "Top Web Search 23",
   "ProductSlug": "top-web-search-23-a34613",
-  "Ranking_EOS_Progress": 571,
-  "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 612,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
     "PcReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 59,
-  "EOS_Completed": 13,
+  "EOS_Progressed": 60,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 22.03,
+  "EOS_Completed_Percentage": 23.33,
   "EosHistory": [
     {
       "Time": "2024-01-10T19:04:16.2058384+00:00",
@@ -232,6 +232,11 @@
       "Time": "2024-03-04T23:05:08.3401168+00:00",
       "NumProgressed": 59,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-03-21T17:12:58.4837183+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2024-01-08T21:03:53.9988835+00:00",
@@ -244,39 +249,39 @@
       "Name": "Double Up Decisions",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "DYNAMIC_DOZEN_DECISIONIST",
       "SetID": "44h0e32",
       "Name": "Dynamic Dozen Decisionist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "EPIC_EIGHT_EXPLORER",
       "SetID": "44h0e32",
       "Name": "Epic Eight Explorer",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "FANTASTIC_FOUR_CHOICES",
       "SetID": "44h0e32",
       "Name": "Fantastic Four Choices",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "FOURTEENSTAR_STRATEGIST",
       "SetID": "44h0e32",
       "Name": "Fourteen-Star Strategist",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HIGH_FIVE_DECISION_MAKER",
@@ -284,47 +289,47 @@
       "Name": "High Five Decision Maker",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "LUCKY_SEVEN_NAVIGATOR",
       "SetID": "44h0e32",
       "Name": "Lucky Seven Navigator",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MASTERFUL_ELEVEN",
       "SetID": "44h0e32",
       "Name": "Masterful Eleven",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "NINTH_WONDER_DECISIONMAKER",
       "SetID": "44h0e32",
       "Name": "Ninth Wonder Decision-Maker",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PERFECT_TEN_CHOICES",
       "SetID": "44h0e32",
       "Name": "Perfect Ten Choices",
-      "Percentage": 37,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "SIXTH_SENSE_STRATEGIES",
       "SetID": "44h0e32",
       "Name": "Sixth Sense Strategies",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "STARTER_SCORE",
@@ -332,15 +337,15 @@
       "Name": "Starter Score",
       "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "TRAILBLAZING_THIRTEEN",
       "SetID": "44h0e32",
       "Name": "Trailblazing Thirteen",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TRIPLE_THREAT_CHOICES",
@@ -348,20 +353,20 @@
       "Name": "Triple Threat Choices",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "44h0e32",
       "IsBase": true,
-      "Progressed": 59,
-      "Completed": 13
+      "Progressed": 60,
+      "Completed": 14
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:05:08.3401163+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:58.4837176+00:00",
   "LastUpdate_AppInfo": "2024-03-19T01:37:47.6383587+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:36.2226869+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:05:08.3401273+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:38.5962445+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:58.4837348+00:00"
 }

@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Red Herring | 100.00% | ~1 |
+| Poop goes ploop! | 100.00% | ~1 |
 | Learn to love! | 0.00% | ~0 |
 | Nuclear dumpster diving! | 0.00% | ~0 |
 | My car is so pushy | 0.00% | ~0 |
@@ -89,14 +91,19 @@
 | Hello World! | 0.00% | ~0 |
 | Let some fresh air in! | 0.00% | ~0 |
 | I peed your pants. | 0.00% | ~0 |
-| Red Herring | 0.00% | ~0 |
 | My people need me! | 0.00% | ~0 |
-| Poop goes ploop! | 0.00% | ~0 |
 | Well done! | 0.00% | ~0 |
 | Keep your feet on the ground! | 0.00% | ~0 |
 | Babies are evil! | 0.00% | ~0 |
 | The day is saved! | 0.00% | ~0 |
 | Imma just hide in the corner | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 874)  
+Completed: 0 (0.00%) (Ranked 445)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 1 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 359,
+  "EOS_Progressed": 386,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -955,6 +955,11 @@
       "Time": "2024-02-22T21:03:35.5645978+00:00",
       "NumProgressed": 359,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:36.1853913+00:00",
+      "NumProgressed": 386,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -964,17 +969,17 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "axe_of_kindness",
       "SetID": "3j2phem",
       "Name": "Axe of Kindness",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "axeman",
@@ -990,23 +995,23 @@
       "Name": "Bull in a China Shop",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 170
     },
     {
       "ID": "dodgy_geezer",
@@ -1020,9 +1025,9 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 120
     },
     {
       "ID": "easy_listening",
@@ -1030,7 +1035,7 @@
       "Name": "Easy Listening",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "ending_on_a_high_note",
@@ -1076,7 +1081,7 @@
       "ID": "in_darkness",
       "SetID": "3j2phem",
       "Name": "In Darkness",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1134,7 +1139,7 @@
       "Name": "Perfect Harmony!",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "phonic_boom",
@@ -1142,7 +1147,7 @@
       "Name": "Phonic Boom",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "rapturous_applause",
@@ -1150,7 +1155,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "scholar",
@@ -1166,7 +1171,7 @@
       "Name": "Sker Explorer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "smooth_operator",
@@ -1174,7 +1179,7 @@
       "Name": "Smooth Operator",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "the_long_night",
@@ -1182,7 +1187,7 @@
       "Name": "The Long Night",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "the_longest_night",
@@ -1198,14 +1203,14 @@
       "Name": "Wales Interactive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 359,
+      "Progressed": 386,
       "Completed": 0
     }
   ],
@@ -1213,8 +1218,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:35.5645975+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:36.1853907+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:21.5915288+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:37.4943163+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:35.5646268+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:03.8671381+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:36.1854175+00:00"
 }

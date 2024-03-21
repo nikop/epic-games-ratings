@@ -5,41 +5,41 @@ Rating: 4.46 (Ranked 697)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,978 |
-| My First Runbow | 50.00% | ~127,338 |
-| It's The Fall | 26.00% | ~66,216 |
-| The Stunner | 23.00% | ~58,575 |
-| Be Aggressive | 21.00% | ~53,482 |
-| Curator | 20.00% | ~50,935 |
-| Crowning Around | 18.00% | ~45,842 |
-| Can You Dig It? | 17.00% | ~43,295 |
-| You Juan-A-Go? | 16.00% | ~40,748 |
-| Chan-tastic | 15.00% | ~38,201 |
-| Muddy Waters | 14.00% | ~35,655 |
-| Toasty! | 13.00% | ~33,108 |
-| Lazy Laser | 8.00% | ~20,374 |
-| Ready? Fight! | 8.00% | ~20,374 |
-| Just A Phaze | 7.00% | ~17,827 |
-| Into The Drift | 7.00% | ~17,827 |
-| Butt Butt | 6.00% | ~15,281 |
-| He Who Laughs Last | 3.00% | ~7,640 |
-| Shoo, Cat! | 3.00% | ~7,640 |
-| And You're Okay | 2.00% | ~5,094 |
-| Blotbuster | 2.00% | ~5,094 |
-| Just A Bit | 2.00% | ~5,094 |
-| Thunderstruck | 2.00% | ~5,094 |
-| Tubular, Dude | 1.00% | ~2,547 |
-| What A Trip | 1.00% | ~2,547 |
-| Please The King | 0.90% | ~2,292 |
-| Here We Go! | 0.80% | ~2,037 |
-| Clear-Cut | 0.50% | ~1,273 |
-| Breaking Out | 0.40% | ~1,019 |
-| Disposable | 0.40% | ~1,019 |
-| A Winner Is You | 0.20% | ~509 |
-| Final Nightmare | 0.20% | ~509 |
-| I'm Here All Night | 0.20% | ~509 |
-| Ride The Wave | 0.20% | ~509 |
-| Tree Medalist | 0.20% | ~509 |
+| In The Zone | 53.00% | ~135,342 |
+| My First Runbow | 50.00% | ~127,681 |
+| It's The Fall | 26.00% | ~66,394 |
+| The Stunner | 23.00% | ~58,733 |
+| Be Aggressive | 21.00% | ~53,626 |
+| Curator | 21.00% | ~53,626 |
+| Crowning Around | 18.00% | ~45,965 |
+| Can You Dig It? | 17.00% | ~43,412 |
+| You Juan-A-Go? | 16.00% | ~40,858 |
+| Chan-tastic | 15.00% | ~38,304 |
+| Muddy Waters | 14.00% | ~35,751 |
+| Toasty! | 13.00% | ~33,197 |
+| Lazy Laser | 8.00% | ~20,429 |
+| Ready? Fight! | 8.00% | ~20,429 |
+| Just A Phaze | 7.00% | ~17,875 |
+| Into The Drift | 7.00% | ~17,875 |
+| Butt Butt | 6.00% | ~15,322 |
+| He Who Laughs Last | 3.00% | ~7,661 |
+| Shoo, Cat! | 3.00% | ~7,661 |
+| And You're Okay | 2.00% | ~5,107 |
+| Blotbuster | 2.00% | ~5,107 |
+| Just A Bit | 2.00% | ~5,107 |
+| Thunderstruck | 2.00% | ~5,107 |
+| Tubular, Dude | 1.00% | ~2,554 |
+| What A Trip | 1.00% | ~2,554 |
+| Please The King | 0.90% | ~2,298 |
+| Here We Go! | 0.80% | ~2,043 |
+| Clear-Cut | 0.50% | ~1,277 |
+| Breaking Out | 0.40% | ~1,021 |
+| Disposable | 0.40% | ~1,021 |
+| A Winner Is You | 0.20% | ~511 |
+| Final Nightmare | 0.20% | ~511 |
+| I'm Here All Night | 0.20% | ~511 |
+| Ride The Wave | 0.20% | ~511 |
+| Tree Medalist | 0.20% | ~511 |
 | Can't Be Kept Down | 0.10% | ~255 |
 | Completionist | 0.10% | ~255 |
 | Did Your Time | 0.10% | ~255 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 697)
 | Talent Scout | 0.10% | ~255 |
 | True Completionist | 0.10% | ~255 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,676 (Ranked 73)  
-Completed: 6 (0.00%) (Ranked 423)  
+Progressed: 255,362 (Ranked 75)  
+Completed: 7 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,6 +336,7 @@ Completed: 6 (0.00%) (Ranked 423)
 | 2024-01-26 | 253,872 | 6 |
 | 2024-01-27 | 253,889 | 6 |
 | 2024-02-22 | 254,676 | 6 |
+| 2024-03-21 | 255,362 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

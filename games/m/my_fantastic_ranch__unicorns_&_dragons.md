@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 56.00% | ~28 |
-| Spirit of competition | 38.00% | ~19 |
-| Creature Evolution | 32.00% | ~16 |
-| Prized Possession | 32.00% | ~16 |
-| Kingdom Party Time | 26.00% | ~13 |
-| Think Positive | 22.00% | ~11 |
-| Festival Fever | 22.00% | ~11 |
-| Entering New Territory | 20.00% | ~10 |
-| Gotta Adopt Them All! | 12.00% | ~6 |
-| Just One More Go | 10.00% | ~5 |
-| Lecturer | 10.00% | ~5 |
-| Landscaper | 8.00% | ~4 |
-| Dream Big | 8.00% | ~4 |
-| Diamonds in the Rough | 4.00% | ~2 |
-| Neverending Story | 4.00% | ~2 |
-| Kindred Spirits | 4.00% | ~2 |
+| Let the Adventure Begin! | 55.00% | ~30 |
+| Spirit of competition | 36.00% | ~20 |
+| Creature Evolution | 33.00% | ~18 |
+| Prized Possession | 33.00% | ~18 |
+| Kingdom Party Time | 25.00% | ~14 |
+| Festival Fever | 24.00% | ~13 |
+| Think Positive | 22.00% | ~12 |
+| Entering New Territory | 22.00% | ~12 |
+| Gotta Adopt Them All! | 15.00% | ~8 |
+| Lecturer | 13.00% | ~7 |
+| Just One More Go | 11.00% | ~6 |
+| Landscaper | 7.00% | ~4 |
+| Dream Big | 7.00% | ~4 |
+| Kindred Spirits | 7.00% | ~4 |
+| Diamonds in the Rough | 5.00% | ~3 |
+| Neverending Story | 5.00% | ~3 |
+| Fully Booked! | 4.00% | ~2 |
 | Protected Nature Reserve | 2.00% | ~1 |
 | Paving the Way | 2.00% | ~1 |
-| Fully Booked! | 2.00% | ~1 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
@@ -30,8 +30,8 @@
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 586)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 55 (Ranked 620)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-06 | 48 | 0 |
 | 2024-01-08 | 49 | 0 |
 | 2024-01-12 | 50 | 0 |
+| 2024-03-21 | 55 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

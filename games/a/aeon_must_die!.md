@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cheap Tricks | 23.00% | ~843 |
-| The Purpose Of Betrayal | 20.00% | ~733 |
-| Rightfully Yours | 17.00% | ~623 |
-| Like Swatting Flies | 16.00% | ~587 |
-| Moment Of Perfection | 10.00% | ~367 |
-| Even While Weakened | 10.00% | ~367 |
-| Balance Incarnate | 10.00% | ~367 |
+| Cheap Tricks | 23.00% | ~845 |
+| The Purpose Of Betrayal | 20.00% | ~735 |
+| Rightfully Yours | 17.00% | ~625 |
+| Like Swatting Flies | 16.00% | ~588 |
+| Moment Of Perfection | 10.00% | ~368 |
+| Even While Weakened | 10.00% | ~368 |
+| Balance Incarnate | 10.00% | ~368 |
 | Purpose Lost | 7.00% | ~257 |
 | A Scarlet Mark | 7.00% | ~257 |
-| Hot Potato | 5.00% | ~183 |
+| Hot Potato | 5.00% | ~184 |
 | Emperor's Hubris | 4.00% | ~147 |
 | Nothing To Lose | 4.00% | ~147 |
 | Dreams Of Perfection | 3.00% | ~110 |
 | Untouchable Legend | 3.00% | ~110 |
-| Loyal Companion | 2.00% | ~73 |
-| Atta Boy! | 2.00% | ~73 |
-| Not Afraid Of The Dark | 2.00% | ~73 |
-| Emperor's Education | 2.00% | ~73 |
-| Slam The Brakes! | 2.00% | ~73 |
-| Ashes Of Belief | 2.00% | ~73 |
+| Loyal Companion | 2.00% | ~74 |
+| Atta Boy! | 2.00% | ~74 |
+| Not Afraid Of The Dark | 2.00% | ~74 |
+| Emperor's Education | 2.00% | ~74 |
+| Slam The Brakes! | 2.00% | ~74 |
+| Ashes Of Belief | 2.00% | ~74 |
 | Buried Memories | 1.00% | ~37 |
 | Anything For The Throne | 0.90% | ~33 |
 | One Track Mind | 0.90% | ~33 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,667 (Ranked 233)  
+Progressed: 3,675 (Ranked 244)  
 Completed: -28 (-0.76%) (Ranked 4,102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,6 +171,7 @@ Completed: -28 (-0.76%) (Ranked 4,102)
 | 2024-01-25 | 3,659 | -28 |
 | 2024-01-26 | 3,662 | -28 |
 | 2024-02-22 | 3,667 | -28 |
+| 2024-03-21 | 3,675 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

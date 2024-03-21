@@ -2,10 +2,10 @@
   "ID": "54a196da2d224953aa49aada4f6ce465",
   "Name": "Kanjozoku Game Online Street Racing Drift",
   "ProductSlug": "kanjozoku-game-online-street-racing-drift-c19181",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-04T22:00:00+00:00",
     "PcReleaseDate": "2022-07-16T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-06T10:59:36.6108331+00:00",
   "LastUpdate_AppInfo": "2024-03-20T19:57:10.5880588+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:29.5298165+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:34.6027352+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:30.1227102+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:32.8855337+00:00"
 }

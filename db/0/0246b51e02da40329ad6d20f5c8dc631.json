@@ -2,10 +2,10 @@
   "ID": "0246b51e02da40329ad6d20f5c8dc631",
   "Name": "Brothers: A Tale of Two Sons Remake",
   "ProductSlug": "brothers-a-tale-of-two-sons-remake",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 497,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -23,27 +23,147 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 174,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EOS_Completed_Percentage": 1.72,
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:08:08.2560867+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 3
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:08:08.2560896+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "A01_TAKE_A_BREAK",
+      "SetID": "2hglfi0",
+      "Name": "Take a break",
+      "Percentage": 8,
+      "XP": 50,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "A02_WISHING_WELL",
+      "SetID": "2hglfi0",
+      "Name": "Wishing well",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "A03_BLACK_SHEEP",
+      "SetID": "2hglfi0",
+      "Name": "Black sheep",
+      "Percentage": 5,
+      "XP": 100,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "A04_BUNNY_BUDDIES",
+      "SetID": "2hglfi0",
+      "Name": "Bunny buddies",
+      "Percentage": 13,
+      "XP": 100,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "A05_A_SAD_TUNE",
+      "SetID": "2hglfi0",
+      "Name": "A sad tune",
+      "Percentage": 10,
+      "XP": 100,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "A06_LOVE_BIRDS",
+      "SetID": "2hglfi0",
+      "Name": "Love birds",
+      "Percentage": 3,
+      "XP": 100,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "A07_WINDPIPE",
+      "SetID": "2hglfi0",
+      "Name": "Windpipe",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "A08_CALL_OF_THE_GIANTS",
+      "SetID": "2hglfi0",
+      "Name": "Call of the giants",
+      "Percentage": 15,
+      "XP": 50,
+      "UsersEstimate": 26
+    },
+    {
+      "ID": "A09_BEHIND_THE_CURTAIN",
+      "SetID": "2hglfi0",
+      "Name": "Behind the curtain",
+      "Percentage": 3,
+      "XP": 50,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "A10_TURTLE_SOUP",
+      "SetID": "2hglfi0",
+      "Name": "Turtle soup",
+      "Percentage": 9,
+      "XP": 100,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "A11_WHALE_SONG",
+      "SetID": "2hglfi0",
+      "Name": "Whale song",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "A12_FALLING_STAR",
+      "SetID": "2hglfi0",
+      "Name": "Falling star",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "A13_ONE_LAST_GAME",
+      "SetID": "2hglfi0",
+      "Name": "One last game\u2026",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "A14_SPIN_ME_AROUND",
+      "SetID": "2hglfi0",
+      "Name": "Spin me around",
+      "Percentage": 3,
+      "XP": 100,
+      "UsersEstimate": 5
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2hglfi0",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 174,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2024-02-28T17:58:05.3102806+00:00",
   "FirstSeenAchievements": "2024-01-23T10:04:16.3711297+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:30.9078218+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:08.2560861+00:00",
   "LastUpdate_AppInfo": "2024-03-15T10:57:05.2194023+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:19.6371022+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:30.9078235+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:14.3311713+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:08.2570281+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "97be0dec5b1d4577b7647d3d96d79a94",
   "Name": "Life After Death",
   "ProductSlug": "life-after-death-b4e964",
-  "Ranking_EOS_Progress": 625,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-28T14:00:00+00:00",
     "PcReleaseDate": "2022-09-17T11:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 35,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -179,6 +179,11 @@
       "Time": "2024-02-22T21:05:49.3744225+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:37.88863+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 60,
@@ -188,17 +193,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "c98563l",
       "Name": "The Game is Starting!",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "c98563l",
       "Name": "First steps!!",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -669,14 +674,14 @@
     {
       "ID": "c98563l",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 35,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T22:59:29.6745505+00:00",
   "FirstSeenAchievements": "2023-05-28T14:03:50.6091132+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:49.3744223+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:37.8886295+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:13.3463756+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:38.6532098+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:49.3744621+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:41.2002499+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:37.8886747+00:00"
 }

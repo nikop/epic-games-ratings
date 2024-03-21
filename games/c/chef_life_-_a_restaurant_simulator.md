@@ -5,26 +5,26 @@ Rating: 4.48 (Ranked 673)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 61.00% | ~687 |
-| You're the Expert! | 27.00% | ~304 |
-| Home Cook | 24.00% | ~270 |
-| So Clean You Can Eat Off the Floor | 16.00% | ~180 |
-| S is for Scrumptious | 16.00% | ~180 |
-| French Flair | 14.00% | ~158 |
-| Next Level Cuisine | 8.00% | ~90 |
-| Haute Cuisine | 7.00% | ~79 |
-| Italian Style | 6.00% | ~68 |
-| Well-Stocked Kitchen | 5.00% | ~56 |
-| Sous-Chef | 4.00% | ~45 |
-| Rolling in Dough | 4.00% | ~45 |
-| Culinary Arts | 3.00% | ~34 |
-| Perfectionist | 3.00% | ~34 |
-| Leaning Tower of Pizza | 2.00% | ~23 |
+| The Big Day | 60.00% | ~741 |
+| You're the Expert! | 26.00% | ~321 |
+| Home Cook | 23.00% | ~284 |
+| So Clean You Can Eat Off the Floor | 16.00% | ~198 |
+| S is for Scrumptious | 16.00% | ~198 |
+| French Flair | 14.00% | ~173 |
+| Next Level Cuisine | 8.00% | ~99 |
+| Haute Cuisine | 7.00% | ~86 |
+| Italian Style | 6.00% | ~74 |
+| Sous-Chef | 4.00% | ~49 |
+| Rolling in Dough | 4.00% | ~49 |
+| Well-Stocked Kitchen | 4.00% | ~49 |
+| Culinary Arts | 3.00% | ~37 |
+| Perfectionist | 3.00% | ~37 |
+| Leaning Tower of Pizza | 2.00% | ~25 |
 | Eco Warrior | 0.40% | ~5 |
 | The Bigger the Better | 0.40% | ~5 |
-| Chef, Yes Chef! | 0.30% | ~3 |
 | Kitchen Model | 0.20% | ~2 |
 | Codename: Arrabbiata | 0.20% | ~2 |
+| Chef, Yes Chef! | 0.20% | ~2 |
 | Teamwork | 0.10% | ~1 |
 | Satisfaction Guaranteed | 0.10% | ~1 |
 | Dream Team | 0.10% | ~1 |
@@ -46,8 +46,8 @@ Rating: 4.48 (Ranked 673)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,127 (Ranked 302)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 1,235 (Ranked 318)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -282,6 +282,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-25 | 1,047 | 0 |
 | 2024-01-27 | 1,049 | 0 |
 | 2024-02-22 | 1,127 | 0 |
+| 2024-03-21 | 1,235 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

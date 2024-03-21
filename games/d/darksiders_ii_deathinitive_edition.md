@@ -3,6 +3,66 @@
 [View Rawdata](../../db/d/darksiders_ii_deathinitive_edition.json)  
 Rating: 4.61 (Ranked 412)  
 Number of Ratings: 827  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Crow Carrion | 30.00% | ~244 |
+| Pathfinder | 24.00% | ~195 |
+| Feeding Time | 13.00% | ~106 |
+| Fire of the Mountain | 12.00% | ~98 |
+| Looks Familiar | 12.00% | ~98 |
+| Grim Reaping | 9.00% | ~73 |
+| Tears of the Mountain | 8.00% | ~65 |
+| The Spectral Touch | 6.00% | ~49 |
+| To Move a Mountain | 6.00% | ~49 |
+| Dust to Dust | 5.00% | ~41 |
+| Heart of the Mountain | 5.00% | ~41 |
+| Respec Yourself | 5.00% | ~41 |
+| The Lord of Bones | 5.00% | ~41 |
+| Tree of Life | 5.00% | ~41 |
+| By Your Command | 4.00% | ~33 |
+| Death Will Tear Us Apart | 4.00% | ~33 |
+| The Court of Bones | 4.00% | ~33 |
+| The Toll of Kings | 4.00% | ~33 |
+| City of the Dead | 3.00% | ~24 |
+| Diamond Geezertron | 3.00% | ~24 |
+| I Can Has Cake? | 3.00% | ~24 |
+| Soul Crushing | 3.00% | ~24 |
+| Stains of Heresy | 3.00% | ~24 |
+| Tearing Time A New One | 3.00% | ~24 |
+| The Mad Queen | 3.00% | ~24 |
+| A Stroll In The Demonic Park | 2.00% | ~16 |
+| Clipped Wings | 2.00% | ~16 |
+| Four My Brother | 2.00% | ~16 |
+| Full Potential | 2.00% | ~16 |
+| It's Not Over | 2.00% | ~16 |
+| Lord of the Black Stone | 2.00% | ~16 |
+| The Big Boss | 2.00% | ~16 |
+| The Rod of Arafel | 2.00% | ~16 |
+| The Root Of Corruption | 2.00% | ~16 |
+| Like a Noss | 1.00% | ~8 |
+| Gnomad | 0.90% | ~7 |
+| I've Brought You A Gift | 0.70% | ~6 |
+| A True Horseman | 0.60% | ~5 |
+| The Book of the Dead | 0.60% | ~5 |
+| Abracadabra | 0.50% | ~4 |
+| Is There Anyone Else? | 0.50% | ~4 |
+| Epic! | 0.40% | ~3 |
+| Antiquing | 0.20% | ~2 |
+| Bravo Old Chap | 0.20% | ~2 |
+| It's Definitive | 0.20% | ~2 |
+| The Triple Lindy | 0.20% | ~2 |
+| All You Can Eat Buffet | 0.10% | ~1 |
+| Mass Ruckus | 0.10% | ~1 |
+| The Secondary Adventure | 0.10% | ~1 |
+| BFA | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 813 (Ranked 351)  
+Completed: 0 (0.00%) (Ranked 445)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 813 | 0 |
 ## Awards
 Max (Character Customization): 408  (Ranked 250)  
 Sum: 623 (Ranked 336)  

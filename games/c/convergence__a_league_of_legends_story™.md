@@ -5,62 +5,62 @@ Rating: 4.68 (Ranked 273)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 50.00% | ~697 |
-| Rail Rat | 38.00% | ~530 |
-| The Mysterious Stranger | 37.00% | ~516 |
-| Immaculate Aim | 31.00% | ~432 |
-| The Brass Boss | 30.00% | ~418 |
-| Time Flies | 29.00% | ~404 |
-| Make Up For Lost Time | 28.00% | ~390 |
-| The Harder They Fall | 28.00% | ~390 |
-| No, Thanks! | 28.00% | ~390 |
-| The Prince in Heels | 28.00% | ~390 |
-| Honest Mistake | 28.00% | ~390 |
-| Fast Learner | 28.00% | ~390 |
-| Immaculate Aim | 28.00% | ~390 |
-| The Steel Shadow | 27.00% | ~376 |
-| Breaking Down Barriers | 25.00% | ~348 |
-| The Wicked Twins | 25.00% | ~348 |
-| Golem Chaser | 25.00% | ~348 |
-| Right On Time | 24.00% | ~335 |
-| Like Clockwork | 24.00% | ~335 |
-| The Betrayer | 24.00% | ~335 |
-| Check Your Pulse | 23.00% | ~321 |
-| The Loose Cannon | 22.00% | ~307 |
-| Street Style | 21.00% | ~293 |
-| The Man Who Shattered Time | 21.00% | ~293 |
-| The Family Fortune | 21.00% | ~293 |
-| Whiz Kid | 17.00% | ~237 |
-| Good Neighbor | 16.00% | ~223 |
-| Family Memories | 15.00% | ~209 |
-| Ask Questions Later | 15.00% | ~209 |
-| Chaincrawler Explorer | 14.00% | ~195 |
-| Syron for Hope | 14.00% | ~195 |
-| Treasure Trove | 13.00% | ~181 |
-| Cartographer | 13.00% | ~181 |
-| Sump Explorer | 13.00% | ~181 |
-| Factorywood Explorer | 12.00% | ~167 |
-| Theater Explorer | 12.00% | ~167 |
-| Fairgrounds Explorer | 11.00% | ~153 |
-| Cultivair Explorer | 10.00% | ~139 |
-| Corin Goes Home | 9.00% | ~125 |
-| Sartorialist | 9.00% | ~125 |
-| Entresol Explorer | 9.00% | ~125 |
-| Golem Hunter | 7.00% | ~98 |
-| Clovemary for Remembering | 6.00% | ~84 |
-| Hexlock for Protection | 6.00% | ~84 |
-| Rungs Was Right | 6.00% | ~84 |
-| Wunderkind | 3.00% | ~42 |
+| Time Heals All Wounds | 51.00% | ~725 |
+| Rail Rat | 38.00% | ~540 |
+| The Mysterious Stranger | 37.00% | ~526 |
+| Immaculate Aim | 32.00% | ~455 |
+| The Brass Boss | 31.00% | ~441 |
+| Time Flies | 30.00% | ~427 |
+| Make Up For Lost Time | 29.00% | ~412 |
+| No, Thanks! | 29.00% | ~412 |
+| The Prince in Heels | 29.00% | ~412 |
+| Honest Mistake | 29.00% | ~412 |
+| Fast Learner | 29.00% | ~412 |
+| Immaculate Aim | 29.00% | ~412 |
+| The Steel Shadow | 28.00% | ~398 |
+| The Harder They Fall | 28.00% | ~398 |
+| Breaking Down Barriers | 26.00% | ~370 |
+| The Wicked Twins | 26.00% | ~370 |
+| Golem Chaser | 26.00% | ~370 |
+| Right On Time | 25.00% | ~356 |
+| Like Clockwork | 25.00% | ~356 |
+| The Betrayer | 25.00% | ~356 |
+| The Loose Cannon | 23.00% | ~327 |
+| Check Your Pulse | 23.00% | ~327 |
+| Street Style | 22.00% | ~313 |
+| The Man Who Shattered Time | 22.00% | ~313 |
+| The Family Fortune | 22.00% | ~313 |
+| Whiz Kid | 18.00% | ~256 |
+| Good Neighbor | 17.00% | ~242 |
+| Chaincrawler Explorer | 15.00% | ~213 |
+| Family Memories | 15.00% | ~213 |
+| Ask Questions Later | 15.00% | ~213 |
+| Sump Explorer | 14.00% | ~199 |
+| Syron for Hope | 14.00% | ~199 |
+| Treasure Trove | 13.00% | ~185 |
+| Cartographer | 13.00% | ~185 |
+| Factorywood Explorer | 12.00% | ~171 |
+| Theater Explorer | 12.00% | ~171 |
+| Cultivair Explorer | 11.00% | ~156 |
+| Fairgrounds Explorer | 11.00% | ~156 |
+| Corin Goes Home | 10.00% | ~142 |
+| Entresol Explorer | 10.00% | ~142 |
+| Sartorialist | 9.00% | ~128 |
+| Golem Hunter | 8.00% | ~114 |
+| Clovemary for Remembering | 6.00% | ~85 |
+| Hexlock for Protection | 6.00% | ~85 |
+| Rungs Was Right | 6.00% | ~85 |
+| Wunderkind | 3.00% | ~43 |
 | Thinking Two Steps Ahead | 2.00% | ~28 |
 | Fitting In | 2.00% | ~28 |
 | No Time to Waste | 1.00% | ~14 |
 | A Lesson in Precision | 0.90% | ~13 |
 | Wildlife Protection | 0.80% | ~11 |
 | Raw Talent | 0.80% | ~11 |
-| Going to Live Forever | 0.60% | ~8 |
+| Going to Live Forever | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,394 (Ranked 292)  
-Completed: 8 (0.57%) (Ranked 228)  
+Progressed: 1,422 (Ranked 309)  
+Completed: 8 (0.56%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,6 +249,7 @@ Completed: 8 (0.57%) (Ranked 228)
 | 2024-01-26 | 1,360 | 8 |
 | 2024-01-27 | 1,361 | 8 |
 | 2024-02-22 | 1,394 | 8 |
+| 2024-03-21 | 1,422 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

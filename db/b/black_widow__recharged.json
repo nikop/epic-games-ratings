@@ -5,10 +5,10 @@
   "Ranking_Rating": 979,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 159,
+  "Ranking_EOS_Completed": 305,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25436,
-  "EOS_Completed": 63,
-  "EOS_NewPlayers": 272,
+  "EOS_Progressed": 27142,
+  "EOS_Completed": 67,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -24590,6 +24590,11 @@
       "Time": "2024-01-27T13:06:27.3929709+00:00",
       "NumProgressed": 25436,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-03-21T17:06:44.0262084+00:00",
+      "NumProgressed": 27142,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 14,
@@ -24599,9 +24604,9 @@
       "ID": "ACH_ACROSS_THE_BORDER",
       "SetID": "1blkama",
       "Name": "Across The Border",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 19586
+      "UsersEstimate": 20628
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -24609,7 +24614,7 @@
       "Name": "After All",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 178
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_COUGHT_IN_A_TRAP",
@@ -24617,7 +24622,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2714
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -24625,7 +24630,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6359
+      "UsersEstimate": 6786
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -24633,15 +24638,15 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 4324
+      "UsersEstimate": 4614
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
       "SetID": "1blkama",
       "Name": "Everyone\u0027s Born to Die",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3561
+      "UsersEstimate": 3528
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -24649,7 +24654,7 @@
       "Name": "Hello My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1357
     },
     {
       "ID": "ACH_IM_ALIVE",
@@ -24657,7 +24662,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12972
+      "UsersEstimate": 13842
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -24665,7 +24670,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2798
+      "UsersEstimate": 2986
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -24673,7 +24678,7 @@
       "Name": "In My Own Time",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3257
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -24681,15 +24686,15 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6613
+      "UsersEstimate": 7057
     },
     {
       "ID": "ACH_THE_FALL",
       "SetID": "1blkama",
       "Name": "The Fall",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4071
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -24697,7 +24702,7 @@
       "Name": "Time of Our Life",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_WILD_WEST_HERO",
@@ -24705,22 +24710,22 @@
       "Name": "Wild West Hero",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3528
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25436,
-      "Completed": 63
+      "Progressed": 27142,
+      "Completed": 67
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-03-12T03:59:10.0744366+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:27.3929706+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:44.0262078+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:11.3560568+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:01:11.6249398+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:27.3931954+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:52.5911573+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:44.026346+00:00"
 }

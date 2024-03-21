@@ -5,38 +5,38 @@ Rating: 4.33 (Ranked 880)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Boarded! | 94.00% | ~198,995 |
-| Snooper. | 10.00% | ~21,170 |
-| You have to start somewhere, right? | 8.00% | ~16,936 |
-| Corrupted. | 6.00% | ~12,702 |
-| So you're saying I don't touch these ones? | 6.00% | ~12,702 |
-| Good things come in pairs... Coloured Pairs. | 5.00% | ~10,585 |
-| Answers can be found amongst the stars | 3.00% | ~6,351 |
-| Bend to the will of the arrows. | 3.00% | ~6,351 |
-| You've been through a lot. | 2.00% | ~4,234 |
-| People's feelings on these ones are very... Binary... | 2.00% | ~4,234 |
-| I hope you're ready. | 2.00% | ~4,234 |
-| I hope your remember your colour theory. | 2.00% | ~4,234 |
-| Care to take a nap? | 2.00% | ~4,234 |
-| Like wide, but upwards. | 2.00% | ~4,234 |
-| Put the pieces together. | 2.00% | ~4,234 |
-| Two cute little robots are better than one. | 2.00% | ~4,234 |
-| Technically, we told you how to solve them. | 2.00% | ~4,234 |
-| They're like really flat pillars. | 2.00% | ~4,234 |
-| That's a wrap. | 2.00% | ~4,234 |
-| In balance. | 2.00% | ~4,234 |
-| Cockpit | 0.80% | ~1,694 |
-| Names to faces. | 0.80% | ~1,694 |
-| Witness it. | 0.80% | ~1,694 |
-| Bridge crossed. | 0.70% | ~1,482 |
-| A full deck. | 0.70% | ~1,482 |
-| 14237b6509eafd8c | 0.60% | ~1,270 |
-| No Anchor too great. | 0.50% | ~1,058 |
-| Snooper + | 0.50% | ~1,058 |
-| Corrupted + | 0.40% | ~847 |
+| Boarded! | 94.00% | ~199,649 |
+| Snooper. | 10.00% | ~21,239 |
+| You have to start somewhere, right? | 8.00% | ~16,991 |
+| Corrupted. | 6.00% | ~12,744 |
+| So you're saying I don't touch these ones? | 6.00% | ~12,744 |
+| Good things come in pairs... Coloured Pairs. | 5.00% | ~10,620 |
+| Answers can be found amongst the stars | 3.00% | ~6,372 |
+| Bend to the will of the arrows. | 3.00% | ~6,372 |
+| You've been through a lot. | 2.00% | ~4,248 |
+| People's feelings on these ones are very... Binary... | 2.00% | ~4,248 |
+| I hope you're ready. | 2.00% | ~4,248 |
+| I hope your remember your colour theory. | 2.00% | ~4,248 |
+| Care to take a nap? | 2.00% | ~4,248 |
+| Like wide, but upwards. | 2.00% | ~4,248 |
+| Put the pieces together. | 2.00% | ~4,248 |
+| Two cute little robots are better than one. | 2.00% | ~4,248 |
+| Technically, we told you how to solve them. | 2.00% | ~4,248 |
+| They're like really flat pillars. | 2.00% | ~4,248 |
+| That's a wrap. | 2.00% | ~4,248 |
+| In balance. | 2.00% | ~4,248 |
+| Cockpit | 0.80% | ~1,699 |
+| Names to faces. | 0.80% | ~1,699 |
+| Witness it. | 0.80% | ~1,699 |
+| Bridge crossed. | 0.70% | ~1,487 |
+| A full deck. | 0.70% | ~1,487 |
+| 14237b6509eafd8c | 0.70% | ~1,487 |
+| No Anchor too great. | 0.60% | ~1,274 |
+| Snooper + | 0.50% | ~1,062 |
+| Corrupted + | 0.40% | ~850 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,697 (Ranked 84)  
-Completed: 595 (0.28%) (Ranked 280)  
+Progressed: 212,393 (Ranked 86)  
+Completed: 605 (0.28%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,6 +319,7 @@ Completed: 595 (0.28%) (Ranked 280)
 | 2024-01-26 | 209,829 | 571 |
 | 2024-01-27 | 209,862 | 571 |
 | 2024-03-04 | 211,697 | 595 |
+| 2024-03-21 | 212,393 | 605 |
 ## Awards
 Max (Challenging Puzzles): 594  (Ranked 221)  
 Sum: 743 (Ranked 320)  

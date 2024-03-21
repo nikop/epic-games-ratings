@@ -5,10 +5,10 @@
   "Ranking_Rating": 638,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 408,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
     "PcReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -1469,10 +1469,19 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bkjhj07",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
+  "FirstSeenAchievements": "2024-03-21T17:08:56.8390151+00:00",
   "LastChanged": "2024-03-08T20:57:34.0264143+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:56.8390082+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:57:59.8931891+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:02.8559851+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:50.2946821+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:15.3080419+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:56.8390168+00:00"
 }

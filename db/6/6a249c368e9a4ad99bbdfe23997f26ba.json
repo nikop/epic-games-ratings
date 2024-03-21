@@ -2,10 +2,10 @@
   "ID": "6a249c368e9a4ad99bbdfe23997f26ba",
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
-  "Ranking_EOS_Progress": 496,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 524,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2023-05-03T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -509,6 +509,11 @@
       "Time": "2024-02-22T21:03:55.6772556+00:00",
       "NumProgressed": 132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:09:03.884654+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -519,9 +524,9 @@
       "ID": "A1",
       "SetID": "7f5j12l",
       "Name": "Level 1 Completed",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "A10",
@@ -543,9 +548,9 @@
       "ID": "A12",
       "SetID": "7f5j12l",
       "Name": "White House Destroyed",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "A13",
@@ -553,15 +558,15 @@
       "Name": "Statue of Liberty Destroyed",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "A14",
       "SetID": "7f5j12l",
       "Name": "Pentagon Destroyed",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "A15",
@@ -593,7 +598,7 @@
       "Name": "Green Flame",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "A19",
@@ -615,9 +620,9 @@
       "ID": "A20",
       "SetID": "7f5j12l",
       "Name": "White Flame",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "A21",
@@ -679,9 +684,9 @@
       "ID": "A28",
       "SetID": "7f5j12l",
       "Name": "Fireworks Factory Destroyed",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A29",
@@ -703,9 +708,9 @@
       "ID": "A30",
       "SetID": "7f5j12l",
       "Name": "Munitions Factory Destroyed",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A31",
@@ -753,7 +758,7 @@
       "Name": "1M Trees Burnt",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "A6",
@@ -792,14 +797,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:55.6772553+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:03.8846535+00:00",
   "LastUpdate_AppInfo": "2024-03-19T19:57:10.4856766+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:38.0255456+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:55.6772727+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:36.4351589+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:03.8846778+00:00"
 }

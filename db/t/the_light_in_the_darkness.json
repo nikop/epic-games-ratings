@@ -2,10 +2,10 @@
   "ID": "8912b079197744f58b41915923cc8da1",
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
-  "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Completed": 48,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3026,
-  "EOS_Completed": 287,
+  "EOS_Progressed": 3101,
+  "EOS_Completed": 296,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.48,
+  "EOS_Completed_Percentage": 9.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8641,6 +8641,11 @@
       "Time": "2024-02-22T21:04:55.9450914+00:00",
       "NumProgressed": 3026,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2024-03-21T17:10:26.5603606+00:00",
+      "NumProgressed": 3101,
+      "NumCompleted": 296
     }
   ],
   "TotalAchievements": 12,
@@ -8652,7 +8657,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 484
+      "UsersEstimate": 496
     },
     {
       "ID": "Bernard",
@@ -8660,7 +8665,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 393
+      "UsersEstimate": 403
     },
     {
       "ID": "Building the Fox",
@@ -8668,7 +8673,7 @@
       "Name": "Building the Fox",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 696
+      "UsersEstimate": 713
     },
     {
       "ID": "Green Ticket Roundup",
@@ -8676,15 +8681,15 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 605
+      "UsersEstimate": 620
     },
     {
       "ID": "Jacques a Dit",
       "SetID": "b40dflc",
       "Name": "Jacques a Dit",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1209
     },
     {
       "ID": "Jakob",
@@ -8692,7 +8697,7 @@
       "Name": "Jakob",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 454
+      "UsersEstimate": 465
     },
     {
       "ID": "Jude",
@@ -8700,23 +8705,23 @@
       "Name": "Jude",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 424
+      "UsersEstimate": 434
     },
     {
       "ID": "Le Juif et la France",
       "SetID": "b40dflc",
       "Name": "Le Juif et la France",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 424
+      "UsersEstimate": 465
     },
     {
       "ID": "Little Helper",
       "SetID": "b40dflc",
       "Name": "Little Helper",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1085
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8724,7 +8729,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 303
+      "UsersEstimate": 310
     },
     {
       "ID": "Nazis in Paris",
@@ -8732,7 +8737,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 817
+      "UsersEstimate": 837
     },
     {
       "ID": "Nuremberg Laws",
@@ -8740,23 +8745,23 @@
       "Name": "Nuremberg Laws",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 393
+      "UsersEstimate": 403
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 3026,
-      "Completed": 287
+      "Progressed": 3101,
+      "Completed": 296
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:55.9450912+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:10:26.5603598+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:01.1954321+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:01.7474925+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:55.9451466+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:26.1810728+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:26.5604294+00:00"
 }

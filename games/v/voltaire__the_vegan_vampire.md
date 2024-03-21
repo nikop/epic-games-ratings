@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 82.00% | ~104 |
-| Good to grow | 60.00% | ~76 |
-| Fashionista | 35.00% | ~44 |
-| Irrigation not irritation | 34.00% | ~43 |
-| Graduated | 32.00% | ~41 |
-| Ay ay yarrr! | 24.00% | ~30 |
-| Shine bright | 21.00% | ~27 |
-| Night Shift | 20.00% | ~25 |
-| Peaceful skies | 13.00% | ~17 |
-| There be sand in me shorts | 12.00% | ~15 |
-| C'who? | 11.00% | ~14 |
-| It's about the journey | 11.00% | ~14 |
-| Make it rain | 8.00% | ~10 |
-| Holy Crops! | 8.00% | ~10 |
-| It gets everywhere | 7.00% | ~9 |
-| Do you wanna build a snowboiii? | 6.00% | ~8 |
-| Who let the pets out? | 5.00% | ~6 |
-| It's a bug's life | 5.00% | ~6 |
-| V is for Vegan | 5.00% | ~6 |
+| So it begins | 71.00% | ~104 |
+| Good to grow | 56.00% | ~82 |
+| Ay ay yarrr! | 35.00% | ~51 |
+| Fashionista | 31.00% | ~46 |
+| Graduated | 31.00% | ~46 |
+| Irrigation not irritation | 31.00% | ~46 |
+| Shine bright | 30.00% | ~44 |
+| Night Shift | 18.00% | ~26 |
+| Peaceful skies | 17.00% | ~25 |
+| There be sand in me shorts | 14.00% | ~21 |
+| C'who? | 11.00% | ~16 |
+| Make it rain | 10.00% | ~15 |
+| It's about the journey | 10.00% | ~15 |
+| Holy Crops! | 9.00% | ~13 |
+| It gets everywhere | 6.00% | ~9 |
+| Who let the pets out? | 5.00% | ~7 |
+| It's a bug's life | 5.00% | ~7 |
+| Do you wanna build a snowboiii? | 5.00% | ~7 |
+| V is for Vegan | 5.00% | ~7 |
+| Free Spirit | 4.00% | ~6 |
+| I am Root! | 4.00% | ~6 |
 | Groovy! | 3.00% | ~4 |
-| I am Root! | 3.00% | ~4 |
 | Zap! | 3.00% | ~4 |
-| Veggie Master | 2.00% | ~3 |
-| Homecoming | 2.00% | ~3 |
-| Free Spirit | 2.00% | ~3 |
-| Yeehaw! | 2.00% | ~3 |
-| Tururururu! | 2.00% | ~3 |
-| Daddy Issues | 0.80% | ~1 |
-| Yeetus Deletus | 0.80% | ~1 |
-| Best in the field | 0.80% | ~1 |
+| Veggie Master | 1.00% | ~1 |
+| Homecoming | 1.00% | ~1 |
+| Daddy Issues | 1.00% | ~1 |
+| Yeehaw! | 1.00% | ~1 |
+| Tururururu! | 1.00% | ~1 |
+| Yeetus Deletus | 0.70% | ~1 |
+| Best in the field | 0.70% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 498)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 147 (Ranked 520)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-11 | 125 | 0 |
 | 2024-01-14 | 126 | 0 |
 | 2024-01-18 | 127 | 0 |
+| 2024-03-21 | 147 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

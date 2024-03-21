@@ -2,10 +2,10 @@
   "ID": "b8feca2997b64cb189b227f342c59411",
   "Name": "Unlimited Escape",
   "ProductSlug": "unlimited-escape-fdcd10",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-31T04:00:00+00:00",
     "PcReleaseDate": "2023-10-31T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-20T05:57:24.3039318+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:07.4150645+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:02.8868956+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:06.9283937+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:13.9580554+00:00"
 }

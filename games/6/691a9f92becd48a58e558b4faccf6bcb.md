@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost forever | 14.00% | ~48 |
-| Silver Hat | 9.00% | ~31 |
-| Golden Carrot | 7.00% | ~24 |
-| Naughty list | 7.00% | ~24 |
+| Lost forever | 14.00% | ~50 |
+| Silver Hat | 9.00% | ~32 |
+| Naughty list | 8.00% | ~28 |
+| Golden Carrot | 7.00% | ~25 |
 | Silver Button | 6.00% | ~21 |
-| Silver Carrot | 5.00% | ~17 |
+| Silver Carrot | 5.00% | ~18 |
+| Golden Button | 4.00% | ~14 |
 | Golden Hat | 4.00% | ~14 |
-| At least you tried | 3.00% | ~10 |
-| Golden Button | 3.00% | ~10 |
-| A new HOME | 2.00% | ~7 |
+| A new HOME | 3.00% | ~11 |
+| At least you tried | 3.00% | ~11 |
 | Silver Scarf | 2.00% | ~7 |
-| Lesson learned | 1.00% | ~3 |
-| Minimalist lifestyle | 0.90% | ~3 |
-| I deliver the presents! | 0.90% | ~3 |
+| Minimalist lifestyle | 1.00% | ~4 |
+| Lesson learned | 1.00% | ~4 |
+| Golden Scarf | 1.00% | ~4 |
+| I deliver the presents! | 0.80% | ~3 |
 | Good list | 0.60% | ~2 |
-| Golden Scarf | 0.60% | ~2 |
 | So close! | 0.60% | ~2 |
 | Bling Bling | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345 (Ranked 403)  
-Completed: 1 (0.29%) (Ranked 276)  
+Progressed: 356 (Ranked 429)  
+Completed: 1 (0.28%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,3 +123,4 @@ Completed: 1 (0.29%) (Ranked 276)
 | 2024-01-21 | 341 | 1 |
 | 2024-01-23 | 344 | 1 |
 | 2024-01-27 | 345 | 1 |
+| 2024-03-21 | 356 | 1 |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get lost! | 94.00% | ~92 |
-| Elevator Pitch | 84.00% | ~82 |
-| Beam me up | 64.00% | ~63 |
-| Rock Bottom | 60.00% | ~59 |
+| Get lost! | 94.00% | ~93 |
+| Elevator Pitch | 84.00% | ~83 |
+| Beam me up | 65.00% | ~64 |
+| Rock Bottom | 61.00% | ~60 |
 | Uncaged | 20.00% | ~20 |
 | The end is nigh! | 15.00% | ~15 |
 | Get Together | 15.00% | ~15 |
@@ -15,8 +15,8 @@
 | Leave no stone unturned | 3.00% | ~3 |
 | The best of both worlds | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 518)  
-Completed: 1 (1.02%) (Ranked 186)  
+Progressed: 99 (Ranked 558)  
+Completed: 1 (1.01%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,6 +62,7 @@ Completed: 1 (1.02%) (Ranked 186)
 | 2024-01-02 | 91 | 1 |
 | 2024-01-13 | 93 | 1 |
 | 2024-02-22 | 98 | 1 |
+| 2024-03-21 | 99 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

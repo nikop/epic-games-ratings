@@ -2,10 +2,10 @@
   "ID": "94c1c4aa628f404abe30a093cdb99bda",
   "Name": "Sakura Bunny Girls",
   "ProductSlug": "sakura-bunny-girls-adfbe8",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-07-23T17:00:00+00:00",
     "PcReleaseDate": "2023-07-23T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T03:57:39.1497564+00:00",
   "LastUpdate_AppInfo": "2024-03-16T17:57:14.7058714+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:37.0324466+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:47.1454262+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:35.3976614+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:50.2225744+00:00"
 }

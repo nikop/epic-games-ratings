@@ -6,7 +6,7 @@ Rating: 4.32 (Ranked 890)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fire safety | 56.00% | ~9,099 |
-| First fall | 36.00% | ~5,849 |
+| First fall | 36.00% | ~5,850 |
 | Don't play with fire, kids | 27.00% | ~4,387 |
 | First steps | 27.00% | ~4,387 |
 | 1.000.000 Scovilles | 19.00% | ~3,087 |
@@ -73,8 +73,8 @@ Rating: 4.32 (Ranked 890)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,248 (Ranked 176)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 16,249 (Ranked 185)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-04 | 16,246 | 0 |
 | 2024-01-06 | 16,247 | 0 |
 | 2024-01-13 | 16,248 | 0 |
+| 2024-03-21 | 16,249 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

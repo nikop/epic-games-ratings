@@ -5,10 +5,10 @@
   "Ranking_Rating": 227,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 418,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 443,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -315,6 +315,11 @@
       "Time": "2024-01-21T15:04:07.2412436+00:00",
       "NumProgressed": 303,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:20.1720118+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -350,7 +355,7 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "chapter2",
@@ -358,7 +363,7 @@
       "Name": "Aboard the Sea Bird",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "chapter3",
@@ -366,15 +371,15 @@
       "Name": "Is this the end?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "darkAndStinky",
       "SetID": "5bkacmp",
       "Name": "Dark and stinky",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "darkVolepain",
@@ -388,7 +393,7 @@
       "ID": "doneNegotiating",
       "SetID": "5bkacmp",
       "Name": "Done negotiating",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -398,7 +403,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "familyReunion",
@@ -422,7 +427,7 @@
       "Name": "Gotcha",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "iDareYou",
@@ -446,7 +451,7 @@
       "Name": "A grave matter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "itsNotCheating",
@@ -454,7 +459,7 @@
       "Name": "It\u0027s not cheating",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "meetYourMaker",
@@ -462,7 +467,7 @@
       "Name": "Meet your maker",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "mesmerecital",
@@ -470,7 +475,7 @@
       "Name": "A bard day\u0027s night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "moneyTalks",
@@ -478,7 +483,7 @@
       "Name": "Money talks",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "objection",
@@ -486,15 +491,15 @@
       "Name": "The pelican brief",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "oneShotBlade",
       "SetID": "5bkacmp",
       "Name": "One shot blade",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "pacificProtest",
@@ -502,7 +507,7 @@
       "Name": "Peaceful protest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "pacifistFanatic",
@@ -510,31 +515,31 @@
       "Name": "Pacifist fanatic",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "sayHelloToMyLittleFriends",
       "SetID": "5bkacmp",
       "Name": "Say hello to my little friends",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 65
     },
     {
       "ID": "sneakInSneakOut",
       "SetID": "5bkacmp",
       "Name": "Sneak in, sneak out",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "stronk",
       "SetID": "5bkacmp",
       "Name": "Stronk",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 50
     },
     {
       "ID": "superMothBoy",
@@ -542,7 +547,7 @@
       "Name": "Super Moth Boy",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "theBadPlace",
@@ -550,31 +555,31 @@
       "Name": "The Bad Place",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "theGoodPlace",
       "SetID": "5bkacmp",
       "Name": "The Good Place",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "theGreatScam",
       "SetID": "5bkacmp",
       "Name": "Lyre lyre pants on fyre",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "theHealer",
       "SetID": "5bkacmp",
       "Name": "Heal thyself",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 62
     },
     {
       "ID": "theMediumPlace",
@@ -588,17 +593,17 @@
       "ID": "theNovice",
       "SetID": "5bkacmp",
       "Name": "A gift horse",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 81
     },
     {
       "ID": "thePirate",
       "SetID": "5bkacmp",
       "Name": "Pieces of eight!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 133
     },
     {
       "ID": "thePolitician",
@@ -606,31 +611,31 @@
       "Name": "Elephant in the room",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 202
     },
     {
       "ID": "theUnionLeader",
       "SetID": "5bkacmp",
       "Name": "Gorilla warfare",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 186
     },
     {
       "ID": "trialByCombat",
       "SetID": "5bkacmp",
       "Name": "Trial by combat",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "welcomeToForteAiles",
@@ -638,22 +643,22 @@
       "Name": "Welcome to Forte Ailes",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "youSssavedMe",
       "SetID": "5bkacmp",
       "Name": "You sssaved me",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
@@ -661,8 +666,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2024-02-16T02:59:43.0495251+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:39.8253661+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:20.1720112+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:14.0973177+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:43.8619315+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:39.8253996+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:46.7935674+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:20.1720445+00:00"
 }

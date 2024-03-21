@@ -2,10 +2,10 @@
   "ID": "b38098b4cbc9429ab4f1eac7a23cf152",
   "Name": "Escape from Blackwood",
   "ProductSlug": "escaperoom-0d8657",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-13T00:00:00+00:00",
     "PcReleaseDate": "2024-02-10T00:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:06:47.0575187+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-01-23T21:08:24.4948134+00:00",
   "TotalAchievements": 5,
   "TotalAchievementsXP": 1000,
@@ -36,17 +42,17 @@
       "ID": "achievement_1",
       "SetID": "3i8160j",
       "Name": "Escape from the castle!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_2",
       "SetID": "3i8160j",
       "Name": "Vesper toys",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_3",
@@ -77,13 +83,13 @@
     {
       "ID": "3i8160j",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-12T11:03:43.6218073+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:29.7693115+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:47.0575181+00:00",
   "LastUpdate_AppInfo": "2024-03-15T14:57:19.7127815+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:34.5275413+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:29.7693155+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:34.1567275+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:47.0575259+00:00"
 }

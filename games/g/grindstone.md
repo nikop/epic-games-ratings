@@ -6,48 +6,48 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,152 |
-| The Journey Begins | 98.00% | ~5,152 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,100 |
-| There is No Escape | 71.00% | ~3,732 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,312 |
-| Royal Flush | 62.00% | ~3,259 |
-| Timber! | 61.00% | ~3,207 |
-| Survive the Bombsequences | 59.00% | ~3,102 |
-| Killed 20 Jerks | 54.00% | ~2,839 |
-| Death Defied | 54.00% | ~2,839 |
-| Fortunate Soul | 49.00% | ~2,576 |
-| Jerk-Slayer | 43.00% | ~2,261 |
-| Employee of the Month | 37.00% | ~1,945 |
-| I Believe I Can Fly | 37.00% | ~1,945 |
-| Bone Collector | 35.00% | ~1,840 |
-| Fe-Festival | 35.00% | ~1,840 |
-| Pardon my Slob | 33.00% | ~1,735 |
-| Top of the Food Chain | 32.00% | ~1,682 |
-| Humerus Achievement | 32.00% | ~1,682 |
-| Ghost Facers! | 28.00% | ~1,472 |
-| If It Bleeds, You Can Kill It | 22.00% | ~1,157 |
-| Royal Flush, Again | 19.00% | ~999 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~946 |
-| Can't Touch This | 18.00% | ~946 |
-| Yummy! | 17.00% | ~894 |
-| That Was Quick | 17.00% | ~894 |
-| Goldrush Glory Days | 16.00% | ~841 |
-| Best Party Guest | 15.00% | ~789 |
-| Shrub it Off | 15.00% | ~789 |
-| Collected 50 mushrooms | 14.00% | ~736 |
-| Budding Gardener | 14.00% | ~736 |
-| Stop Hitting Each Other | 14.00% | ~736 |
-| Ultimate Jerk | 13.00% | ~683 |
-| Hot Potato | 11.00% | ~578 |
-| Off the Beaten Path | 10.00% | ~526 |
-| It's Been a Blast | 9.00% | ~473 |
-| For Rock and Stone! | 9.00% | ~473 |
+| Quinceañera Time | 98.00% | ~5,162 |
+| The Journey Begins | 98.00% | ~5,162 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,108 |
+| There is No Escape | 71.00% | ~3,740 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,318 |
+| Royal Flush | 62.00% | ~3,266 |
+| Timber! | 61.00% | ~3,213 |
+| Survive the Bombsequences | 59.00% | ~3,108 |
+| Killed 20 Jerks | 54.00% | ~2,844 |
+| Death Defied | 54.00% | ~2,844 |
+| Fortunate Soul | 49.00% | ~2,581 |
+| Jerk-Slayer | 44.00% | ~2,317 |
+| Employee of the Month | 37.00% | ~1,949 |
+| I Believe I Can Fly | 37.00% | ~1,949 |
+| Bone Collector | 36.00% | ~1,896 |
+| Fe-Festival | 35.00% | ~1,843 |
+| Pardon my Slob | 33.00% | ~1,738 |
+| Top of the Food Chain | 32.00% | ~1,685 |
+| Humerus Achievement | 32.00% | ~1,685 |
+| Ghost Facers! | 28.00% | ~1,475 |
+| If It Bleeds, You Can Kill It | 22.00% | ~1,159 |
+| Royal Flush, Again | 19.00% | ~1,001 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~948 |
+| Can't Touch This | 18.00% | ~948 |
+| Yummy! | 17.00% | ~895 |
+| That Was Quick | 17.00% | ~895 |
+| Goldrush Glory Days | 16.00% | ~843 |
+| Best Party Guest | 15.00% | ~790 |
+| Collected 50 mushrooms | 15.00% | ~790 |
+| Budding Gardener | 15.00% | ~790 |
+| Stop Hitting Each Other | 15.00% | ~790 |
+| Shrub it Off | 15.00% | ~790 |
+| Ultimate Jerk | 13.00% | ~685 |
+| Hot Potato | 11.00% | ~579 |
+| Off the Beaten Path | 10.00% | ~527 |
+| It's Been a Blast | 9.00% | ~474 |
+| For Rock and Stone! | 9.00% | ~474 |
 | Don't Get Too Greedy | 8.00% | ~421 |
-| You're In a Cult, Call Your Dad | 6.00% | ~315 |
+| You're In a Cult, Call Your Dad | 6.00% | ~316 |
 | The Poison You Just Drank | 5.00% | ~263 |
 | Survived The Slaughter | 5.00% | ~263 |
-| Eternal Frenemies | 4.00% | ~210 |
+| Eternal Frenemies | 4.00% | ~211 |
 | The Fellowship | 3.00% | ~158 |
 | Are We Good Guys Or Bad Guys? | 1.00% | ~53 |
 | Biohazard | 0.90% | ~47 |
@@ -56,8 +56,8 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,257 (Ranked 214)  
-Completed: 31 (0.59%) (Ranked 223)  
+Progressed: 5,267 (Ranked 224)  
+Completed: 31 (0.59%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -177,6 +177,7 @@ Completed: 31 (0.59%) (Ranked 223)
 | 2024-01-21 | 5,248 | 31 |
 | 2024-01-22 | 5,250 | 31 |
 | 2024-02-22 | 5,257 | 31 |
+| 2024-03-21 | 5,267 | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

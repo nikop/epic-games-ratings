@@ -5,35 +5,35 @@ Rating: 3.82 (Ranked 1,130)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,799 |
-| No Half Measures | 87.00% | ~15,384 |
-| Personal Matter | 86.00% | ~15,207 |
-| But You Have Heard of Me | 72.00% | ~12,732 |
-| Double the Barrels, double the Fun | 54.00% | ~9,549 |
-| Pimp My Glide | 50.00% | ~8,842 |
-| ... And Where Do the Stories Come From? | 40.00% | ~7,073 |
-| House Party! | 36.00% | ~6,366 |
-| Make It Rain | 23.00% | ~4,067 |
-| Curse of the Seven Seas | 22.00% | ~3,890 |
-| Head First | 16.00% | ~2,829 |
-| To the World's End | 12.00% | ~2,122 |
-| Table for Six | 11.00% | ~1,945 |
-| Sharing Is Caring | 10.00% | ~1,768 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,415 |
-| Morally Flexible | 6.00% | ~1,061 |
-| Fishing for Compliments | 5.00% | ~884 |
-| After All, Why Shouldn't I Keep It? | 3.00% | ~530 |
+| Eeligally Ambitious | 95.00% | ~16,831 |
+| No Half Measures | 87.00% | ~15,414 |
+| Personal Matter | 86.00% | ~15,237 |
+| But You Have Heard of Me | 72.00% | ~12,756 |
+| Double the Barrels, double the Fun | 54.00% | ~9,567 |
+| Pimp My Glide | 50.00% | ~8,858 |
+| ... And Where Do the Stories Come From? | 40.00% | ~7,087 |
+| House Party! | 36.00% | ~6,378 |
+| Make It Rain | 23.00% | ~4,075 |
+| Curse of the Seven Seas | 22.00% | ~3,898 |
+| Head First | 16.00% | ~2,835 |
+| To the World's End | 12.00% | ~2,126 |
+| Table for Six | 11.00% | ~1,949 |
+| Sharing Is Caring | 10.00% | ~1,772 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,417 |
+| Morally Flexible | 6.00% | ~1,063 |
+| Fishing for Compliments | 5.00% | ~886 |
+| After All, Why Shouldn't I Keep It? | 3.00% | ~532 |
 | A True Dandy | 2.00% | ~354 |
 | A New Legend Awaits | 1.00% | ~177 |
 | Pirate King | 0.90% | ~159 |
-| Oooh, We're Half Way There | 0.80% | ~141 |
+| Oooh, We're Half Way There | 0.80% | ~142 |
 | O Captain! My Captain! | 0.20% | ~35 |
 | Devilishly Talented | 0.10% | ~18 |
 | Heavy Tunaing | 0.10% | ~18 |
 | Pufferfish | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,683 (Ranked 172)  
-Completed: 1 (0.01%) (Ranked 399)  
+Progressed: 17,717 (Ranked 180)  
+Completed: 1 (0.01%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -309,6 +309,7 @@ Completed: 1 (0.01%) (Ranked 399)
 | 2024-01-25 | 17,554 | 1 |
 | 2024-01-26 | 17,556 | 1 |
 | 2024-02-22 | 17,683 | 1 |
+| 2024-03-21 | 17,717 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

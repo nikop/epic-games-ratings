@@ -5,10 +5,10 @@
   "Ranking_Rating": 697,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Completed": 160,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -449,11 +449,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29605,
-  "EOS_Completed": 548,
-  "EOS_NewPlayers": 498,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 1.85,
+  "EOS_Progressed": 32836,
+  "EOS_Completed": 597,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -30849,6 +30849,11 @@
       "Time": "2024-01-27T13:06:51.5760137+00:00",
       "NumProgressed": 29605,
       "NumCompleted": 548
+    },
+    {
+      "Time": "2024-03-21T17:07:16.3709639+00:00",
+      "NumProgressed": 32836,
+      "NumCompleted": 597
     }
   ],
   "TotalAchievements": 20,
@@ -30860,7 +30865,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4737
+      "UsersEstimate": 5254
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -30868,7 +30873,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1642
     },
     {
       "ID": "EAST_FINISHED",
@@ -30876,7 +30881,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4597
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -30884,7 +30889,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2955
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -30892,7 +30897,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3257
+      "UsersEstimate": 3612
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -30900,7 +30905,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2960
+      "UsersEstimate": 3284
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -30908,7 +30913,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2299
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -30916,7 +30921,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3940
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -30924,7 +30929,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4597
     },
     {
       "ID": "FOUND_ERIN",
@@ -30932,7 +30937,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1313
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -30940,7 +30945,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1970
     },
     {
       "ID": "FOUND_MAMBA",
@@ -30948,7 +30953,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1970
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -30956,7 +30961,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3849
+      "UsersEstimate": 4269
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -30964,7 +30969,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1970
     },
     {
       "ID": "GAME_FINISHED",
@@ -30972,15 +30977,15 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3553
+      "UsersEstimate": 3940
     },
     {
       "ID": "INTRO_FINISHED",
       "SetID": "b6m2mm5",
       "Name": "Light at the end of the tunnel",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 22500
+      "UsersEstimate": 25284
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30988,7 +30993,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7993
+      "UsersEstimate": 8866
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30996,7 +31001,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3849
+      "UsersEstimate": 4269
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -31004,7 +31009,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1776
+      "UsersEstimate": 1970
     },
     {
       "ID": "WEST_FINISHED",
@@ -31012,22 +31017,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5329
+      "UsersEstimate": 5910
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29605,
-      "Completed": 548
+      "Progressed": 32836,
+      "Completed": 597
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-02-22T04:01:04.3158653+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:51.5760135+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:16.3709633+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:32.4073535+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:02.5728616+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:51.5761667+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:04.0884168+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:16.3711514+00:00"
 }

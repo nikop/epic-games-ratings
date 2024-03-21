@@ -2,10 +2,10 @@
   "ID": "ac33e7dbfeb94e6197a6ae25f2fd6c93",
   "Name": "BERLIN",
   "ProductSlug": "berlin09-3a4362",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "8mkfg9b",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:05:35.446619+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:35.4466144+00:00",
   "LastUpdate_AppInfo": "2024-03-15T21:57:22.5357901+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:56.3727708+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:36.2490588+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:31.48441+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:35.4466205+00:00"
 }

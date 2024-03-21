@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 93.00% | ~425 |
-| Scavenger | 73.00% | ~334 |
-| Line of Duty | 72.00% | ~329 |
-| Gunner | 57.00% | ~260 |
-| DocKing | 45.00% | ~206 |
-| What-A-Shot | 43.00% | ~197 |
-| Batteries Included | 38.00% | ~174 |
-| Death from Above | 33.00% | ~151 |
-| Hull King | 25.00% | ~114 |
-| Splash Damage | 19.00% | ~87 |
-| Boss Down | 18.00% | ~82 |
-| Extra Ammo | 18.00% | ~82 |
-| Hazardous Duty | 16.00% | ~73 |
-| Perky | 14.00% | ~64 |
+| Clean Sweep | 93.00% | ~430 |
+| Scavenger | 73.00% | ~337 |
+| Line of Duty | 71.00% | ~328 |
+| Gunner | 57.00% | ~263 |
+| DocKing | 45.00% | ~208 |
+| What-A-Shot | 43.00% | ~199 |
+| Batteries Included | 38.00% | ~176 |
+| Death from Above | 33.00% | ~152 |
+| Hull King | 25.00% | ~116 |
+| Splash Damage | 19.00% | ~88 |
+| Boss Down | 18.00% | ~83 |
+| Extra Ammo | 18.00% | ~83 |
+| Hazardous Duty | 16.00% | ~74 |
+| Perky | 14.00% | ~65 |
 | Perk King | 10.00% | ~46 |
 | Salvage | 10.00% | ~46 |
 | Sixty Seconds | 10.00% | ~46 |
 | Shocking | 10.00% | ~46 |
-| Perfect Timing | 9.00% | ~41 |
-| Killer Elite | 6.00% | ~27 |
+| Perfect Timing | 9.00% | ~42 |
+| Killer Elite | 6.00% | ~28 |
 | Bumper Car | 4.00% | ~18 |
 | The Disruptor | 4.00% | ~18 |
 | First Victory | 4.00% | ~18 |
@@ -40,17 +40,17 @@
 | Having a Blast | 1.00% | ~5 |
 | Power Up | 1.00% | ~5 |
 | The Cannoneer | 1.00% | ~5 |
-| Demolition Derby | 0.70% | ~3 |
-| Military Intelligence | 0.70% | ~3 |
-| Time Run | 0.70% | ~3 |
+| Demolition Derby | 0.60% | ~3 |
+| Intel King | 0.60% | ~3 |
+| Military Intelligence | 0.60% | ~3 |
+| Time Run | 0.60% | ~3 |
 | Halfway There | 0.40% | ~2 |
-| Intel King | 0.40% | ~2 |
 | Big Spender | 0.20% | ~1 |
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457 (Ranked 375)  
-Completed: 1 (0.22%) (Ranked 291)  
+Progressed: 462 (Ranked 398)  
+Completed: 1 (0.22%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,6 +131,7 @@ Completed: 1 (0.22%) (Ranked 291)
 | 2024-01-18 | 454 | 1 |
 | 2024-01-23 | 456 | 1 |
 | 2024-01-26 | 457 | 1 |
+| 2024-03-21 | 462 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

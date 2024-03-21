@@ -6,70 +6,70 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~15,487 |
-| Overkill | 33.00% | ~13,449 |
-| Vaccine Incoming | 31.00% | ~12,634 |
-| A normal day in Gloomhaven | 28.00% | ~11,412 |
-| Spread the plague | 26.00% | ~10,597 |
-| Get over here! | 24.00% | ~9,781 |
-| Just when I thought I was out... | 19.00% | ~7,744 |
-| Mine... All Mine... | 16.00% | ~6,521 |
-| Precious! | 15.00% | ~6,113 |
-| Grizzled veteran | 15.00% | ~6,113 |
-| Anatomy Lesson | 14.00% | ~5,706 |
-| Who's the Boss? | 13.00% | ~5,298 |
-| You activated my trap card! | 12.00% | ~4,891 |
-| Obstacle race | 12.00% | ~4,891 |
-| Light of my life | 12.00% | ~4,891 |
-| Augmented rat | 10.00% | ~4,076 |
-| Doom and gloom | 9.00% | ~3,668 |
-| Dungeon Veteran | 8.00% | ~3,260 |
-| Pack leader | 7.00% | ~2,853 |
-| Pain is your friend | 7.00% | ~2,853 |
-| Black death | 7.00% | ~2,853 |
-| Play it again, Sam | 7.00% | ~2,853 |
-| Caught off guard | 6.00% | ~2,445 |
-| Quad damage | 6.00% | ~2,445 |
-| Power Up! | 5.00% | ~2,038 |
-| Merchant of doom | 5.00% | ~2,038 |
-| Now you see me... | 5.00% | ~2,038 |
-| I hate portals | 4.00% | ~1,630 |
-| The Pro from Dover | 4.00% | ~1,630 |
-| Pretty lights! | 4.00% | ~1,630 |
-| From Gloom, only greed and death emerges | 3.00% | ~1,223 |
-| The Rat King | 3.00% | ~1,223 |
-| Down the hatch | 3.00% | ~1,223 |
-| An eye for an eye | 3.00% | ~1,223 |
-| The Cephalophore | 3.00% | ~1,223 |
-| How to train your Drake | 2.00% | ~815 |
-| Master Assassin | 2.00% | ~815 |
-| The Sniper | 2.00% | ~815 |
-| Grin and bear it | 2.00% | ~815 |
-| An axe to grind | 2.00% | ~815 |
-| Betray this | 1.00% | ~408 |
-| Add a bit of colour | 1.00% | ~408 |
-| Captain hooked | 1.00% | ~408 |
-| Spoiler police! | 1.00% | ~408 |
-| New Blood | 1.00% | ~408 |
-| The evil that men do | 0.60% | ~245 |
-| Born Support | 0.60% | ~245 |
-| The Pacifist | 0.50% | ~204 |
-| MacReady Steady.. Go! | 0.50% | ~204 |
-| Pull out the big guns | 0.40% | ~163 |
-| A tough job | 0.30% | ~122 |
-| Beware my power | 0.30% | ~122 |
-| The Jaws of victory! | 0.30% | ~122 |
-| Crimson Tornado | 0.30% | ~122 |
-| The Cartographer | 0.20% | ~82 |
-| Murder Death Kill | 0.20% | ~82 |
-| A cult following | 0.10% | ~41 |
-| Over your dead body | 0.10% | ~41 |
-| The Guildmaster | 0.10% | ~41 |
-| Lara Who? | 0.10% | ~41 |
-| Hard-travelling Heroes | 0.10% | ~41 |
+| I'm not dead yet | 37.00% | ~16,651 |
+| Overkill | 33.00% | ~14,851 |
+| Vaccine Incoming | 31.00% | ~13,951 |
+| A normal day in Gloomhaven | 28.00% | ~12,601 |
+| Spread the plague | 25.00% | ~11,251 |
+| Get over here! | 25.00% | ~11,251 |
+| Just when I thought I was out... | 19.00% | ~8,551 |
+| Mine... All Mine... | 16.00% | ~7,201 |
+| Precious! | 15.00% | ~6,751 |
+| Grizzled veteran | 15.00% | ~6,751 |
+| Who's the Boss? | 14.00% | ~6,301 |
+| Anatomy Lesson | 14.00% | ~6,301 |
+| You activated my trap card! | 12.00% | ~5,400 |
+| Obstacle race | 12.00% | ~5,400 |
+| Light of my life | 12.00% | ~5,400 |
+| Augmented rat | 10.00% | ~4,500 |
+| Doom and gloom | 9.00% | ~4,050 |
+| Dungeon Veteran | 8.00% | ~3,600 |
+| Pain is your friend | 8.00% | ~3,600 |
+| Pack leader | 7.00% | ~3,150 |
+| Black death | 7.00% | ~3,150 |
+| Play it again, Sam | 7.00% | ~3,150 |
+| Caught off guard | 6.00% | ~2,700 |
+| Quad damage | 6.00% | ~2,700 |
+| Power Up! | 5.00% | ~2,250 |
+| Merchant of doom | 5.00% | ~2,250 |
+| Now you see me... | 5.00% | ~2,250 |
+| I hate portals | 4.00% | ~1,800 |
+| Down the hatch | 4.00% | ~1,800 |
+| The Pro from Dover | 4.00% | ~1,800 |
+| Pretty lights! | 4.00% | ~1,800 |
+| From Gloom, only greed and death emerges | 3.00% | ~1,350 |
+| The Rat King | 3.00% | ~1,350 |
+| An eye for an eye | 3.00% | ~1,350 |
+| The Cephalophore | 3.00% | ~1,350 |
+| Add a bit of colour | 2.00% | ~900 |
+| How to train your Drake | 2.00% | ~900 |
+| Master Assassin | 2.00% | ~900 |
+| The Sniper | 2.00% | ~900 |
+| Grin and bear it | 2.00% | ~900 |
+| An axe to grind | 2.00% | ~900 |
+| Betray this | 1.00% | ~450 |
+| Captain hooked | 1.00% | ~450 |
+| Spoiler police! | 1.00% | ~450 |
+| New Blood | 1.00% | ~450 |
+| The evil that men do | 0.60% | ~270 |
+| MacReady Steady.. Go! | 0.60% | ~270 |
+| Born Support | 0.60% | ~270 |
+| The Pacifist | 0.40% | ~180 |
+| Pull out the big guns | 0.40% | ~180 |
+| A tough job | 0.30% | ~135 |
+| Beware my power | 0.30% | ~135 |
+| The Jaws of victory! | 0.30% | ~135 |
+| Crimson Tornado | 0.30% | ~135 |
+| A cult following | 0.20% | ~90 |
+| Over your dead body | 0.20% | ~90 |
+| The Cartographer | 0.20% | ~90 |
+| Murder Death Kill | 0.20% | ~90 |
+| The Guildmaster | 0.10% | ~45 |
+| Lara Who? | 0.10% | ~45 |
+| Hard-travelling Heroes | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,756 (Ranked 143)  
-Completed: 2 (0.00%) (Ranked 423)  
+Progressed: 45,004 (Ranked 147)  
+Completed: 2 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,9 +206,10 @@ Completed: 2 (0.00%) (Ranked 423)
 | 2024-01-26 | 35,968 | 2 |
 | 2024-01-27 | 36,058 | 2 |
 | 2024-02-22 | 40,756 | 2 |
+| 2024-03-21 | 45,004 | 2 |
 ## Awards
 Max (Character Customization): 3,653  (Ranked 101)  
-Sum: 8,600 (Ranked 120)  
+Sum: 8,602 (Ranked 120)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -218,7 +219,7 @@ Diff (max vs sum): -19
 | This game is Highly Recommended | 562 |
 | This game is Extremely Fun | 560 |
 | This game is Relaxing | 505 |
-| This game has Quickly Understood Controls | 500 |
+| This game has Quickly Understood Controls | 502 |
 | This game has Amazing Characters | 499 |
 | This game has Amazing Storytelling | 498 |
 | This game has Unique Visuals | 388 |
@@ -542,3 +543,4 @@ Diff (max vs sum): -19
 | 2024-03-18 | 4.47 | - | 3,653 | 8,594 |
 | 2024-03-19 | 4.47 | - | 3,653 | 8,595 |
 | 2024-03-20 | 4.47 | - | 3,653 | 8,600 |
+| 2024-03-21 | 4.47 | - | 3,653 | 8,602 |

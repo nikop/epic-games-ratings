@@ -5,34 +5,34 @@ Rating: 3.56 (Ranked 1,141)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 23.00% | ~19,997 |
-| Master, Commander | 21.00% | ~18,258 |
-| Hard Worker | 20.00% | ~17,389 |
-| Mechanic | 20.00% | ~17,389 |
-| Adios, Friendo | 19.00% | ~16,519 |
-| Bottom's Up | 18.00% | ~15,650 |
-| Nice Try | 17.00% | ~14,780 |
-| Right On Target | 14.00% | ~12,172 |
-| Piano Man | 11.00% | ~9,564 |
-| Lazy Bones | 10.00% | ~8,694 |
-| Vinyl Vibes | 8.00% | ~6,956 |
-| Nothing Left to Say | 7.00% | ~6,086 |
-| Sniper | 7.00% | ~6,086 |
-| Cut Call | 6.00% | ~5,217 |
-| Magnetic Miracles | 5.00% | ~4,347 |
-| Butcher | 4.00% | ~3,478 |
-| Fair's Fair | 4.00% | ~3,478 |
-| Spicy | 4.00% | ~3,478 |
-| A Man Of Taste | 3.00% | ~2,608 |
-| Ace in the Hole | 3.00% | ~2,608 |
-| Hearty | 3.00% | ~2,608 |
-| Meaty | 3.00% | ~2,608 |
-| Taco Toto | 3.00% | ~2,608 |
-| Audiophile | 2.00% | ~1,739 |
-| Tape Head | 2.00% | ~1,739 |
+| Be Seeing You | 23.00% | ~20,207 |
+| Hard Worker | 21.00% | ~18,450 |
+| Master, Commander | 21.00% | ~18,450 |
+| Mechanic | 20.00% | ~17,571 |
+| Adios, Friendo | 19.00% | ~16,692 |
+| Bottom's Up | 18.00% | ~15,814 |
+| Nice Try | 17.00% | ~14,935 |
+| Right On Target | 14.00% | ~12,300 |
+| Piano Man | 11.00% | ~9,664 |
+| Lazy Bones | 10.00% | ~8,786 |
+| Vinyl Vibes | 8.00% | ~7,028 |
+| Nothing Left to Say | 7.00% | ~6,150 |
+| Sniper | 7.00% | ~6,150 |
+| Cut Call | 6.00% | ~5,271 |
+| Magnetic Miracles | 5.00% | ~4,393 |
+| Butcher | 4.00% | ~3,514 |
+| Fair's Fair | 4.00% | ~3,514 |
+| Spicy | 4.00% | ~3,514 |
+| A Man Of Taste | 3.00% | ~2,636 |
+| Ace in the Hole | 3.00% | ~2,636 |
+| Hearty | 3.00% | ~2,636 |
+| Meaty | 3.00% | ~2,636 |
+| Taco Toto | 3.00% | ~2,636 |
+| Audiophile | 2.00% | ~1,757 |
+| Tape Head | 2.00% | ~1,757 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86,944 (Ranked 112)  
-Completed: 998 (1.15%) (Ranked 173)  
+Progressed: 87,855 (Ranked 116)  
+Completed: 1,018 (1.16%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,6 +315,7 @@ Completed: 998 (1.15%) (Ranked 173)
 | 2024-01-26 | 84,502 | 953 |
 | 2024-01-27 | 84,536 | 953 |
 | 2024-03-04 | 86,944 | 998 |
+| 2024-03-21 | 87,855 | 1,018 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

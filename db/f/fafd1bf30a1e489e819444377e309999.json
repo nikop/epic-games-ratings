@@ -2,10 +2,10 @@
   "ID": "fafd1bf30a1e489e819444377e309999",
   "Name": "Contraption Maker",
   "ProductSlug": "contraption-maker-66e1ec",
-  "Ranking_EOS_Progress": 638,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 658,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-22T18:00:00+00:00",
     "PcReleaseDate": "2014-07-07T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -104,6 +104,11 @@
       "Time": "2024-02-22T21:05:40.1308371+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:25.9094963+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T01:49:11.383928+00:00",
@@ -162,17 +167,17 @@
       "ID": "PUZZLE_EXPERT",
       "SetID": "ad3jn51",
       "Name": "Puzzle Expert",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PUZZLE_GUY",
       "SetID": "ad3jn51",
       "Name": "Puzzle Solver",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "PUZZLE_NINJA",
@@ -186,9 +191,9 @@
       "ID": "PUZZLE_ROOKIE",
       "SetID": "ad3jn51",
       "Name": "Puzzle Rookie",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 35
     },
     {
       "ID": "PUZZLE_SUPERSTAR",
@@ -210,9 +215,9 @@
       "ID": "SCENARIO_ROOKIE",
       "SetID": "ad3jn51",
       "Name": "Scenario Rookie",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SHARE_EVERYTHING",
@@ -258,7 +263,7 @@
       "ID": "WALK_500_MILES",
       "SetID": "ad3jn51",
       "Name": "I Would Walk 500 Miles",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -291,14 +296,14 @@
     {
       "ID": "ad3jn51",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-25T04:02:54.323921+00:00",
   "FirstSeenAchievements": "2023-09-17T18:06:17.5632843+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:40.1308368+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:25.9094958+00:00",
   "LastUpdate_AppInfo": "2024-03-18T10:57:02.7785822+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:43.5281419+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:40.1308494+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:42.2685554+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:25.9095109+00:00"
 }

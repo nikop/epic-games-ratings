@@ -5,10 +5,10 @@
   "Ranking_Rating": 164,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-22T08:00:00+00:00",
     "PcReleaseDate": "2024-02-22T08:00:00+00:00",
@@ -109,20 +109,429 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:07:47.7975518+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:07:47.7975547+00:00",
+  "TotalAchievements": 49,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "CarEquipped",
+      "SetID": "9p940h6",
+      "Name": "Fully Outfitted",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CarFly",
+      "SetID": "9p940h6",
+      "Name": "Where We\u0027re Going, We Don\u0027t Need Roads",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CarReplace",
+      "SetID": "9p940h6",
+      "Name": "Car Of Theseus",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CarStorage",
+      "SetID": "9p940h6",
+      "Name": "Packrat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CryptidBobble",
+      "SetID": "9p940h6",
+      "Name": "Along for the Ride",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DecoFull",
+      "SetID": "9p940h6",
+      "Name": "Personal Methods of Creative Expression are Highly Encouraged",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Distraction",
+      "SetID": "9p940h6",
+      "Name": "Sleight of Hand",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DmgCar",
+      "SetID": "9p940h6",
+      "Name": "Et tu?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DmgHatTrick",
+      "SetID": "9p940h6",
+      "Name": "Just Walk it Off",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DriveBunny",
+      "SetID": "9p940h6",
+      "Name": "Watch Out for Hop-ons!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DriveFar",
+      "SetID": "9p940h6",
+      "Name": "Long Haul",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DriveFast",
+      "SetID": "9p940h6",
+      "Name": "Great Scott!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DrivePark",
+      "SetID": "9p940h6",
+      "Name": "Driver\u0027s Ed Dropout",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DriveTrees",
+      "SetID": "9p940h6",
+      "Name": "Lumberjack",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FixStreakSE",
+      "SetID": "9p940h6",
+      "Name": "Certified Mechanic",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InventHalf",
+      "SetID": "9p940h6",
+      "Name": "DIY Expert",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InventMax",
+      "SetID": "9p940h6",
+      "Name": "DIY Master",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InventNew",
+      "SetID": "9p940h6",
+      "Name": "Patent Pending",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InventStationMax",
+      "SetID": "9p940h6",
+      "Name": "Garage Barrage",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KickAnomaly",
+      "SetID": "9p940h6",
+      "Name": "Nothing Personnel, Zone",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KickCar",
+      "SetID": "9p940h6",
+      "Name": "Troubleshooting",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LogHalf",
+      "SetID": "9p940h6",
+      "Name": "ARDA Record-Keeper",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LogMax",
+      "SetID": "9p940h6",
+      "Name": "ARDA Lorekeeper",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NaturalRecharge",
+      "SetID": "9p940h6",
+      "Name": "Renewable Power",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QuirkFirst",
+      "SetID": "9p940h6",
+      "Name": "Car Whisperer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RunDoubleJuice",
+      "SetID": "9p940h6",
+      "Name": "Juiced Up",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RunLong",
+      "SetID": "9p940h6",
+      "Name": "Streets Ahead",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RunNoBreak",
+      "SetID": "9p940h6",
+      "Name": "It Would Take a Miracle",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RunNoFuel",
+      "SetID": "9p940h6",
+      "Name": "Running on Empty",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RunNoPark",
+      "SetID": "9p940h6",
+      "Name": "No Parking",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RunStructureless",
+      "SetID": "9p940h6",
+      "Name": "With the Top Down",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ShredResource",
+      "SetID": "9p940h6",
+      "Name": "I Don\u2019t Know What I Expected",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StealWreck",
+      "SetID": "9p940h6",
+      "Name": "They Weren\u0027t Using It",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StormAir",
+      "SetID": "9p940h6",
+      "Name": "Fly Homeward",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StormCollapsed",
+      "SetID": "9p940h6",
+      "Name": "The Eye of the Storm",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StormScan",
+      "SetID": "9p940h6",
+      "Name": "Scientific Pursuit",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tombstone",
+      "SetID": "9p940h6",
+      "Name": "Graverobber",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q00",
+      "SetID": "9p940h6",
+      "Name": "The Auto Shop",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q01",
+      "SetID": "9p940h6",
+      "Name": "Into the Wilderness",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q015",
+      "SetID": "9p940h6",
+      "Name": "Investigate the Zone",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q02",
+      "SetID": "9p940h6",
+      "Name": "A Leap of Faith",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q03",
+      "SetID": "9p940h6",
+      "Name": "Stabilizing the Route",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q05",
+      "SetID": "9p940h6",
+      "Name": "The Mid-Zone Crossing",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q06a",
+      "SetID": "9p940h6",
+      "Name": "Hack the Planet!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q06b",
+      "SetID": "9p940h6",
+      "Name": "The Visions",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q07",
+      "SetID": "9p940h6",
+      "Name": "The Red Meadow Records",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q08",
+      "SetID": "9p940h6",
+      "Name": "The Deep Zone Crossing",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q10",
+      "SetID": "9p940h6",
+      "Name": "The Anomaly Barricade",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "q11",
+      "SetID": "9p940h6",
+      "Name": "The End of the Road",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "9p940h6",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-02-22T11:59:08.3857414+00:00",
   "FirstSeenRating": "2024-02-28T20:59:46.14238+00:00",
+  "FirstSeenAchievements": "2024-03-21T17:07:47.7975545+00:00",
   "LastChanged": "2024-03-21T13:00:15.5386704+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:47.7975512+00:00",
   "LastUpdate_AppInfo": "2024-03-17T01:41:11.9265823+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:36.028505+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:15.2531497+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:02.6602606+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:47.7985891+00:00"
 }

@@ -5,53 +5,53 @@ Rating: 4.65 (Ranked 336)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 6.00% | ~1,517 |
-| Bring A Knife to a Gun Fight | 6.00% | ~1,517 |
-| Sweezy Like Sunday Morning | 6.00% | ~1,517 |
-| First Bounty Down | 6.00% | ~1,517 |
-| G3 Graduation | 6.00% | ~1,517 |
-| Cold-Blooded Driller | 6.00% | ~1,517 |
-| Creature Feature | 5.00% | ~1,264 |
-| Are You Packin'? | 5.00% | ~1,264 |
-| We're All Very Impressed, Trust Me | 5.00% | ~1,264 |
-| Who's The Boss? | 5.00% | ~1,264 |
-| Don't Knife The Hand That Feeds | 5.00% | ~1,264 |
-| RIP Davey Glutes | 4.00% | ~1,012 |
-| Hardest Battle In The Game | 4.00% | ~1,012 |
-| Fallout Doesn't Let You Do This | 4.00% | ~1,012 |
-| Lezduit! | 3.00% | ~759 |
-| Eye Scream, You Scream | 3.00% | ~759 |
-| Legendary Bounty Hunter | 3.00% | ~759 |
-| Self-Actualization | 3.00% | ~759 |
-| Spent 15 Hours At The Alien Strip Club | 3.00% | ~759 |
-| Series Wrap on Suit-O | 3.00% | ~759 |
-| Eatin' Good in the Neighborhood | 2.00% | ~506 |
-| Bathe With A Giant Nude Alien | 2.00% | ~52 |
-| Gunning For Your Job | 1.00% | ~253 |
-| We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~253 |
-| Mux Ado About Shipping | 1.00% | ~26 |
-| We Came, We Chainsaw, We Conquered | 1.00% | ~26 |
+| Satisfied Gus-tomer | 7.00% | ~1,779 |
+| First Bounty Down | 7.00% | ~1,779 |
+| Cold-Blooded Driller | 7.00% | ~1,779 |
+| Are You Packin'? | 6.00% | ~1,525 |
+| Bring A Knife to a Gun Fight | 6.00% | ~1,525 |
+| Sweezy Like Sunday Morning | 6.00% | ~1,525 |
+| We're All Very Impressed, Trust Me | 6.00% | ~1,525 |
+| G3 Graduation | 6.00% | ~1,525 |
+| Don't Knife The Hand That Feeds | 6.00% | ~1,525 |
+| Creature Feature | 5.00% | ~1,271 |
+| RIP Davey Glutes | 5.00% | ~1,271 |
+| Hardest Battle In The Game | 5.00% | ~1,271 |
+| Who's The Boss? | 5.00% | ~1,271 |
+| Fallout Doesn't Let You Do This | 5.00% | ~1,271 |
+| Lezduit! | 4.00% | ~1,017 |
+| Self-Actualization | 4.00% | ~1,017 |
+| Spent 15 Hours At The Alien Strip Club | 4.00% | ~1,017 |
+| Eatin' Good in the Neighborhood | 3.00% | ~762 |
+| Eye Scream, You Scream | 3.00% | ~762 |
+| Legendary Bounty Hunter | 3.00% | ~762 |
+| Series Wrap on Suit-O | 3.00% | ~762 |
+| Bathe With A Giant Nude Alien | 2.00% | ~54 |
+| Gunning For Your Job | 1.00% | ~254 |
+| We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~254 |
+| Mux Ado About Shipping | 1.00% | ~27 |
+| We Came, We Chainsaw, We Conquered | 1.00% | ~27 |
+| Carried Stan's Load To Completion | 0.70% | ~178 |
+| Fall In Love With A Parasite | 0.70% | ~19 |
 | Sequel-Bait | 0.60% | ~152 |
-| Carried Stan's Load To Completion | 0.60% | ~152 |
-| Fall In Love With A Parasite | 0.60% | ~15 |
-| Playing Favorites | 0.50% | ~126 |
-| A Starfish Is Born | 0.40% | ~101 |
+| Playing Favorites | 0.50% | ~127 |
+| A Starfish Is Born | 0.40% | ~102 |
+| Meet Frasier from Frasier | 0.40% | ~11 |
 | Epic Legendary Prize | 0.30% | ~76 |
+| Mods Please Ban | 0.30% | ~76 |
 | Give Away All Your Money | 0.30% | ~8 |
-| Meet Frasier from Frasier | 0.30% | ~8 |
 | Playing Card To Get | 0.20% | ~51 |
-| Mods Please Ban | 0.20% | ~51 |
 | Luglox Genocide | 0.20% | ~51 |
+| Seeing All The Sights | 0.20% | ~51 |
 | It's Like The Santa Clause | 0.20% | ~5 |
-| Seeing All The Sights | 0.10% | ~25 |
 | That's B.A.L.L., Folks | 0.10% | ~3 |
 | Cardbored | 0.10% | ~3 |
 | See Salt | 0.10% | ~3 |
 | Porch Pirate | 0.10% | ~3 |
 | Harper? I Barely Know Her! | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,290 (Ranked 154)  
-Completed: 14 (0.06%) (Ranked 352)  
+Progressed: 25,416 (Ranked 161)  
+Completed: 14 (0.06%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,6 +332,7 @@ Completed: 14 (0.06%) (Ranked 352)
 | 2024-01-26 | 25,199 | 14 |
 | 2024-01-27 | 25,202 | 14 |
 | 2024-02-22 | 25,290 | 14 |
+| 2024-03-21 | 25,416 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 362,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 385,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 584,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1950,6 +1950,11 @@
       "Time": "2024-02-22T21:05:53.0419929+00:00",
       "NumProgressed": 562,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:42.7164912+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1983,17 +1988,17 @@
       "ID": "ARCHIPIELAGO_1",
       "SetID": "44dlcg0",
       "Name": "Archipelago builder",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ARCHIPIELAGO_2",
       "SetID": "44dlcg0",
       "Name": "Archipelago urban planner",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ARCHIPIELAGO_3",
@@ -2049,7 +2054,7 @@
       "Name": "Food producer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "COMIDA_2",
@@ -2089,7 +2094,7 @@
       "Name": "City crisis",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CRISIS_2",
@@ -2105,7 +2110,7 @@
       "Name": "I like books",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "CULTURE_2",
@@ -2113,7 +2118,7 @@
       "Name": "I love books!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CULTURE_3",
@@ -2135,7 +2140,7 @@
       "ID": "DESIERTO_1",
       "SetID": "44dlcg0",
       "Name": "Desert builder",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -2143,7 +2148,7 @@
       "ID": "DESIERTO_2",
       "SetID": "44dlcg0",
       "Name": "Desert urban planner",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -2177,7 +2182,7 @@
       "Name": "The spiritual world...",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "FAITH_2",
@@ -2231,9 +2236,9 @@
       "ID": "FELIZ_1",
       "SetID": "44dlcg0",
       "Name": "I like my life",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 53
     },
     {
       "ID": "FELIZ_2",
@@ -2265,15 +2270,15 @@
       "Name": "King of fish",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GRANJA_1",
       "SetID": "44dlcg0",
       "Name": "Farming Frenzy",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GRANJA_2",
@@ -2287,17 +2292,17 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 134
     },
     {
       "ID": "GREEN_AREAS_2",
       "SetID": "44dlcg0",
       "Name": "I love parks",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -2313,7 +2318,7 @@
       "Name": "The woodcutter",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "MILLS",
@@ -2321,7 +2326,7 @@
       "Name": "Clean energy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "MURICA_1",
@@ -2345,7 +2350,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -2353,15 +2358,15 @@
       "Name": "What would we do if we can\u0027t go out with friends?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NIGHT_LIFE_3",
       "SetID": "44dlcg0",
       "Name": "I don\u0027t feel well, I have to drink a coffe",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "POINTS_10K",
@@ -2375,7 +2380,7 @@
       "ID": "POINTS_20K",
       "SetID": "44dlcg0",
       "Name": "Town planner",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -2391,17 +2396,17 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 158
     },
     {
       "ID": "POPULATION_2",
       "SetID": "44dlcg0",
       "Name": "Metropolurbek",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "POPULATION_3",
@@ -2417,7 +2422,7 @@
       "Name": "Rebel city",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "REBELDES_2",
@@ -2481,7 +2486,7 @@
       "Name": "Sport is good for you",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "SPORTS_2",
@@ -2569,7 +2574,7 @@
       "Name": "Bucolic city",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "WELFARE_1",
@@ -2577,7 +2582,7 @@
       "Name": "Soviet town",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "WELFARE_2",
@@ -2592,7 +2597,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 584,
       "Completed": 0
     }
   ],
@@ -2600,8 +2605,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:53.0419927+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:42.7164904+00:00",
   "LastUpdate_AppInfo": "2024-03-17T08:57:16.2953224+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:23.2084756+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:53.0420612+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:17.968956+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:42.7165672+00:00"
 }

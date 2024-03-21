@@ -2,10 +2,10 @@
   "ID": "8e8e69a4f240487d89727df7761c5362",
   "Name": "Wavecade",
   "ProductSlug": "wavecade-524f65",
-  "Ranking_EOS_Progress": 821,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-08T22:00:00+00:00",
     "PcReleaseDate": "2022-07-10T02:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-01-21T11:03:47.7575351+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:28.0359949+00:00",
+      "NumProgressed": 9,
       "NumCompleted": 0
     }
   ],
@@ -52,9 +57,9 @@
       "ID": "10K_Score",
       "SetID": "20afpoi",
       "Name": "10K Score",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "10M_Score",
@@ -68,9 +73,9 @@
       "ID": "1K_Score",
       "SetID": "20afpoi",
       "Name": "1K Score",
-      "Percentage": 100,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "1M_Score",
@@ -100,17 +105,17 @@
       "ID": "BLOCKS_DESTROY_10K_TOTAL",
       "SetID": "20afpoi",
       "Name": "10K Blocks Total",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "BLOCKS_DESTROY_1K_TOTAL",
       "SetID": "20afpoi",
       "Name": "1K Blocks Total",
-      "Percentage": 100,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "BLOCKS_DESTROY_1M_TOTAL",
@@ -124,7 +129,7 @@
       "ID": "Blocks_1K",
       "SetID": "20afpoi",
       "Name": "Blocks 1K",
-      "Percentage": 100,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -148,25 +153,25 @@
       "ID": "HAZARD_WAVE_LASER_SURVIVE",
       "SetID": "20afpoi",
       "Name": "Laser Hazard Survival",
-      "Percentage": 100,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "HAZARD_WAVE_ROCKET_HOMING_SURVIVE",
       "SetID": "20afpoi",
       "Name": "Homing Rocket Hazard Survival",
-      "Percentage": 100,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "HAZARD_WAVE_ROCKET_SURVIVE",
       "SetID": "20afpoi",
       "Name": "Rocket Hazard Survival",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "MAX_SHOOTING_UPGRADE_ABILITY_ACTIVE",
@@ -180,49 +185,49 @@
       "ID": "NADE_EXPLOSION_100_BLOCKS",
       "SetID": "20afpoi",
       "Name": "Block explosion",
-      "Percentage": 100,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "POWERUP_CHAIN_10",
       "SetID": "20afpoi",
       "Name": "Powerups 10",
-      "Percentage": 100,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "POWERUP_CHAIN_3",
       "SetID": "20afpoi",
       "Name": "Powerups 3",
-      "Percentage": 100,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "POWERUP_CHAIN_5",
       "SetID": "20afpoi",
       "Name": "Powerups 5",
-      "Percentage": 100,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "TEN_WAVES_ACCURACY_FIFTY_PERCENT",
       "SetID": "20afpoi",
       "Name": "50% 10 Waves Accuracy",
-      "Percentage": 100,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "TEN_WAVES_ACCURACY_ONEHUNDRED_PERCENT",
       "SetID": "20afpoi",
       "Name": "100% 10 Waves Accuracy",
-      "Percentage": 100,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "WAVE_10_OVERHEAT_ENABLED",
@@ -236,31 +241,31 @@
       "ID": "WAVE_BLOCK_SPAWNED_250",
       "SetID": "20afpoi",
       "Name": "250 blocks in this wave",
-      "Percentage": 100,
+      "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "WAVE_BLOCK_SPAWNED_500",
       "SetID": "20afpoi",
       "Name": "500 blocks in this wave",
-      "Percentage": 100,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "20afpoi",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-09T11:56:55.6967413+00:00",
   "FirstSeenAchievements": "2024-01-21T05:04:33.1914543+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:45.9906972+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:28.0359941+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:20.8452285+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:28.3030145+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:45.9907152+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:53.7643218+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:28.0360163+00:00"
 }

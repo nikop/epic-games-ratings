@@ -2,10 +2,10 @@
   "ID": "55400d765e13415996d0324bbda143c0",
   "Name": "Serbian Dancing Lady",
   "ProductSlug": "serbian-dancing-lady-94e658",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-10T03:00:00+00:00",
     "PcReleaseDate": "2024-02-10T03:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-13T13:57:56.527875+00:00",
   "LastUpdate_AppInfo": "2024-03-18T03:57:05.8992614+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:37.6984117+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:13.4881422+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:40.2696285+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:02.015252+00:00"
 }

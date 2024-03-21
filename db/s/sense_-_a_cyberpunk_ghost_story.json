@@ -2,10 +2,10 @@
   "ID": "185b667b440444388e97f15072b3daf1",
   "Name": "Sense - A Cyberpunk Ghost Story",
   "ProductSlug": "sense-cyberpunk-ghost-story-8547ca",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-02-15T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:51.652957+00:00",
   "LastChanged": "2023-03-31T05:57:51.6529571+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:30.1592239+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:17.4311109+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:30.0364376+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:17.9770933+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:06.9981658+00:00"
 }

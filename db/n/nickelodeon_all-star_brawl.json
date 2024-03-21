@@ -2,10 +2,10 @@
   "ID": "0f1f172642b5432eb0652d70c5fa8c2c",
   "Name": "Nickelodeon All-Star Brawl",
   "ProductSlug": "nickelodeon-allstar-brawl-a852ad",
-  "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-02-28T17:00:00+00:00",
     "PcReleaseDate": "2021-10-04T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1719,
+  "EOS_Progressed": 1763,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4676,6 +4676,11 @@
       "Time": "2024-01-26T20:04:44.9511004+00:00",
       "NumProgressed": 1719,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:07:01.9691509+00:00",
+      "NumProgressed": 1763,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -4878,7 +4883,7 @@
     {
       "ID": "912473c",
       "IsBase": true,
-      "Progressed": 1719,
+      "Progressed": 1763,
       "Completed": 0
     }
   ],
@@ -4886,8 +4891,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.1447352+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:24.7601185+00:00",
   "LastChanged": "2023-03-31T05:57:20.1447353+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:40.9307803+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:01.9691505+00:00",
   "LastUpdate_AppInfo": "2024-03-17T08:57:11.4211181+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:55.6418459+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:40.9308353+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:30.3749601+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:01.9691961+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7184be55b899413ba25cf1f77e89ac82",
   "Name": "Demon Turf Neon Splash",
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
-  "Ranking_EOS_Progress": 483,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 511,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
     "PcReleaseDate": "2022-04-14T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 157,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -704,6 +704,11 @@
       "Time": "2024-02-22T21:05:37.4794152+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:22.3400333+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T15:03:05.6724324+00:00",
@@ -714,7 +719,7 @@
       "ID": "Completionist",
       "SetID": "2i48e34",
       "Name": "Completionist",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -730,15 +735,15 @@
       "ID": "NeonBeachChamp",
       "SetID": "2i48e34",
       "Name": "Neon Beach Champ",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "NeonBeachGod",
       "SetID": "2i48e34",
       "Name": "Neon Beach God",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -770,7 +775,7 @@
       "ID": "NeonSnowGod",
       "SetID": "2i48e34",
       "Name": "Neon Snow God",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -786,7 +791,7 @@
       "ID": "Speedster",
       "SetID": "2i48e34",
       "Name": "Speedster",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -811,14 +816,14 @@
     {
       "ID": "2i48e34",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:37.4794149+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:22.3400327+00:00",
   "LastUpdate_AppInfo": "2024-03-21T06:57:18.1330532+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:49.0659545+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:37.4794283+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:09.0086519+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:22.3400474+00:00"
 }

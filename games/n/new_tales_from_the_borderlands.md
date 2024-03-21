@@ -5,35 +5,35 @@ Rating: 4.09 (Ranked 1,067)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 52.00% | ~2,015 |
-| Totally Intentional | 46.00% | ~1,782 |
-| Each Sold Separately | 38.00% | ~1,472 |
-| We're In | 33.00% | ~1,279 |
-| You're Not Naked | 30.00% | ~1,162 |
-| Tale in the Toilet | 30.00% | ~1,162 |
-| From Zeroes... | 29.00% | ~1,124 |
-| Don't Get Cocky | 27.00% | ~1,046 |
-| Shard Snatchers | 25.00% | ~969 |
-| You Rich Now! | 23.00% | ~891 |
-| Our Lucky Winner | 21.00% | ~814 |
-| You Poor Now! | 21.00% | ~814 |
-| You Got the Goods, Kid | 21.00% | ~814 |
-| The Shardmenstration | 20.00% | ~775 |
-| Those Were the Days... | 20.00% | ~775 |
-| ...To Heroes | 19.00% | ~736 |
-| Mas, Por Favor | 18.00% | ~698 |
-| And Still Champion... | 15.00% | ~581 |
-| Super Trusting Friend! | 10.00% | ~388 |
+| Who Needs Keys? | 52.00% | ~2,022 |
+| Totally Intentional | 46.00% | ~1,788 |
+| Each Sold Separately | 39.00% | ~1,516 |
+| We're In | 34.00% | ~1,322 |
+| You're Not Naked | 30.00% | ~1,166 |
+| From Zeroes... | 30.00% | ~1,166 |
+| Tale in the Toilet | 30.00% | ~1,166 |
+| Don't Get Cocky | 28.00% | ~1,089 |
+| Shard Snatchers | 25.00% | ~972 |
+| You Rich Now! | 23.00% | ~894 |
+| Our Lucky Winner | 22.00% | ~855 |
+| You Poor Now! | 21.00% | ~816 |
+| You Got the Goods, Kid | 21.00% | ~816 |
+| The Shardmenstration | 20.00% | ~778 |
+| Those Were the Days... | 20.00% | ~778 |
+| ...To Heroes | 19.00% | ~739 |
+| Mas, Por Favor | 18.00% | ~700 |
+| And Still Champion... | 15.00% | ~583 |
+| Super Trusting Friend! | 10.00% | ~389 |
 | Hey, thanks! | 5.00% | ~194 |
-| Bring back the butt! | 4.00% | ~155 |
-| Murderous Mascot Mayhem | 3.00% | ~116 |
+| Bring back the butt! | 4.00% | ~156 |
+| Murderous Mascot Mayhem | 3.00% | ~117 |
 | New Business | 0.90% | ~35 |
 | Okay, Vain Much? | 0.50% | ~19 |
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,875 (Ranked 230)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 3,888 (Ranked 241)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,6 +242,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-25 | 3,838 | 0 |
 | 2024-01-26 | 3,839 | 0 |
 | 2024-03-04 | 3,875 | 0 |
+| 2024-03-21 | 3,888 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

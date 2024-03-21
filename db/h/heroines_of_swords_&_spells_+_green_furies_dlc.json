@@ -2,10 +2,10 @@
   "ID": "718a1a550e5e4a1c9c2c1587bcda27c9",
   "Name": "Heroines of Swords \u0026 Spells \u002B Green Furies DLC",
   "ProductSlug": "heroines-of-swords-and-spells-0db5cd",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-21T13:00:00+00:00",
     "PcReleaseDate": "2020-03-17T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.3421085+00:00",
   "LastChanged": "2023-03-31T05:58:12.3421086+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:15.5218192+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:55.8960502+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:41.0100386+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:54.4529865+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:30.7583671+00:00"
 }

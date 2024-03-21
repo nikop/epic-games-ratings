@@ -2,10 +2,10 @@
   "ID": "1c380e2b8e7b4c2ea0643aff249fb7f1",
   "Name": "Polker",
   "ProductSlug": "polker-59bb9f",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-29T16:00:00+00:00",
     "PcReleaseDate": "2023-01-02T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-30T04:02:14.9125972+00:00",
   "LastUpdate_AppInfo": "2024-03-21T12:59:58.4561522+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:20.5554146+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:52.0467375+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:21.2723768+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:17.0115671+00:00"
 }

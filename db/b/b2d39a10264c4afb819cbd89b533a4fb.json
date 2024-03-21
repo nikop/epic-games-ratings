@@ -2,10 +2,10 @@
   "ID": "b2d39a10264c4afb819cbd89b533a4fb",
   "Name": "Math Fun",
   "ProductSlug": "math-fun-9585ad",
-  "Ranking_EOS_Progress": 702,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 737,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-02T18:30:00+00:00",
     "PcReleaseDate": "2017-10-11T18:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -84,6 +84,11 @@
       "Time": "2024-01-22T12:08:18.4409684+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:07:11.5694087+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T04:03:09.3266074+00:00",
@@ -94,33 +99,33 @@
       "ID": "MATH_FUN4",
       "SetID": "d79724p",
       "Name": "Genius Winner",
-      "Percentage": 18,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "MATH_FUN5",
       "SetID": "d79724p",
       "Name": "Super Genius Winner",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MATH_FUN_1",
       "SetID": "d79724p",
       "Name": "Beginner Winner",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MATH_FUN_2",
       "SetID": "d79724p",
       "Name": "Expert Winner",
-      "Percentage": 45,
+      "Percentage": 43,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MATH_FUN_3",
@@ -135,14 +140,14 @@
     {
       "ID": "d79724p",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-05T23:59:23.1866187+00:00",
   "FirstSeenAchievements": "2023-12-01T04:03:09.3266073+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:47.9349274+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:11.5694081+00:00",
   "LastUpdate_AppInfo": "2024-03-15T12:58:23.4862807+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:07.2702499+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:47.9349317+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:08.9144339+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:11.5694154+00:00"
 }

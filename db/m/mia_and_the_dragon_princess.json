@@ -2,10 +2,10 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 508,
-  "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -597,9 +597,9 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "codebreaker",
@@ -661,9 +661,9 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "key_keepers_curse",
@@ -677,9 +677,9 @@
       "ID": "puzzle_prodigy",
       "SetID": "5anb57n",
       "Name": "Puzzle Prodigy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "relight_my_cannon",
@@ -724,8 +724,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:10.6573926+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:10:46.2344093+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:23.0193903+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:49.5052858+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:10.6574098+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:15.907953+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:46.2344295+00:00"
 }

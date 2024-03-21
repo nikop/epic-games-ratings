@@ -2,10 +2,10 @@
   "ID": "46fc12c8f32d4d65a4b5b8c80fafc6aa",
   "Name": "Molten Horn",
   "ProductSlug": "molten-horn-e846ef",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-17T09:57:09.7684129+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:50.6852739+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:52.0151168+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:24.1413624+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:20.9439238+00:00"
 }

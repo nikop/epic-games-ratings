@@ -2,10 +2,10 @@
   "ID": "44a7a2096d1049a79433f08ca33f67a6",
   "Name": "SPACE ELITE FORCE II",
   "ProductSlug": "space-elite-force-ii-2563e4",
-  "Ranking_EOS_Progress": 643,
-  "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 686,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-16T13:00:00+00:00",
     "PcReleaseDate": "2020-02-03T15:00:00+00:00",
@@ -24,15 +24,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 29,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.85,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2024-03-04T23:04:07.5615073+00:00",
       "NumProgressed": 26,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:11:55.6642042+00:00",
+      "NumProgressed": 29,
       "NumCompleted": 1
     }
   ],
@@ -44,7 +49,7 @@
       "ID": "BASIC_SENTINEL",
       "SetID": "2l57895",
       "Name": "Machinegun drone",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -52,7 +57,7 @@
       "ID": "CANNON_SENTINEL",
       "SetID": "2l57895",
       "Name": "Rifle drone",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -62,23 +67,23 @@
       "Name": "HP",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "MAGNET",
       "SetID": "2l57895",
       "Name": "Magnet",
-      "Percentage": 50,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "PLASMA_SENTINEL",
       "SetID": "2l57895",
       "Name": "Plasma drone",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SHIELD",
@@ -86,21 +91,21 @@
       "Name": "Shield",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SUPER_FIRERATE",
       "SetID": "2l57895",
       "Name": "Super fire rate",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "X2_ORB",
       "SetID": "2l57895",
       "Name": "Double orbs",
-      "Percentage": 58,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -108,47 +113,47 @@
       "ID": "X2_SCORE",
       "SetID": "2l57895",
       "Name": "Double score",
-      "Percentage": 62,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "battleship",
       "SetID": "2l57895",
       "Name": "Battleship",
-      "Percentage": 58,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "beebot1",
       "SetID": "2l57895",
       "Name": "beebot level 1",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "beebot2",
       "SetID": "2l57895",
       "Name": "beebot level 2",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "beebot3",
       "SetID": "2l57895",
       "Name": "beebot level 3",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "boss_rush",
       "SetID": "2l57895",
       "Name": "Golden spaceship",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -156,15 +161,15 @@
       "ID": "destroyer",
       "SetID": "2l57895",
       "Name": "Destroyer",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "double_item1",
       "SetID": "2l57895",
       "Name": "double item",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -172,7 +177,7 @@
       "ID": "elite_mode",
       "SetID": "2l57895",
       "Name": "Elite Force!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -180,7 +185,7 @@
       "ID": "enemy_bullet1",
       "SetID": "2l57895",
       "Name": "enemy bullet level 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -188,7 +193,7 @@
       "ID": "enemy_bullet2",
       "SetID": "2l57895",
       "Name": "enemy bullet level 2",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -196,7 +201,7 @@
       "ID": "force_field1",
       "SetID": "2l57895",
       "Name": "force field level 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -204,7 +209,7 @@
       "ID": "force_field2",
       "SetID": "2l57895",
       "Name": "force field level 2",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -212,7 +217,7 @@
       "ID": "force_field3",
       "SetID": "2l57895",
       "Name": "force field level 3",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -220,7 +225,7 @@
       "ID": "heavy_battleship",
       "SetID": "2l57895",
       "Name": "Heavy battleship",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "heavy_destroyer",
       "SetID": "2l57895",
       "Name": "Heavy destroyer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -236,7 +241,7 @@
       "ID": "heavy_frigate",
       "SetID": "2l57895",
       "Name": "Heavy frigate",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "heavy_war_machine",
       "SetID": "2l57895",
       "Name": "Heavy war machine",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -252,7 +257,7 @@
       "ID": "heavy_warship",
       "SetID": "2l57895",
       "Name": "Heavy warship",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "hp_level1",
       "SetID": "2l57895",
       "Name": "HP 10",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -268,7 +273,7 @@
       "ID": "hp_level2",
       "SetID": "2l57895",
       "Name": "HP 15",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "hp_level3",
       "SetID": "2l57895",
       "Name": "HP 20",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -284,9 +289,9 @@
       "ID": "laser1",
       "SetID": "2l57895",
       "Name": "laser level 1",
-      "Percentage": 42,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "laser2",
@@ -294,21 +299,21 @@
       "Name": "laser level 2",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "laser3",
       "SetID": "2l57895",
       "Name": "laser level 3",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "laser_mine1",
       "SetID": "2l57895",
       "Name": "laser mine level 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -316,7 +321,7 @@
       "ID": "laser_mine2",
       "SetID": "2l57895",
       "Name": "laser mine level 2",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -324,7 +329,7 @@
       "ID": "laser_mine3",
       "SetID": "2l57895",
       "Name": "laser mine level 3",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -332,7 +337,7 @@
       "ID": "little frigate",
       "SetID": "2l57895",
       "Name": "Little frigate",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -342,53 +347,53 @@
       "Name": "machinegun level 1",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "machinegun2",
       "SetID": "2l57895",
       "Name": "machinegun level 2",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "machinegun3",
       "SetID": "2l57895",
       "Name": "machinegun level 3",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "missile1",
       "SetID": "2l57895",
       "Name": "missile level 1",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "missile2",
       "SetID": "2l57895",
       "Name": "missile level 2",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "missile3",
       "SetID": "2l57895",
       "Name": "missile level 3",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "more_orbs1",
       "SetID": "2l57895",
       "Name": "more orbs",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -396,7 +401,7 @@
       "ID": "mothership_commander",
       "SetID": "2l57895",
       "Name": "Mothership",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -404,17 +409,17 @@
       "ID": "plasma1",
       "SetID": "2l57895",
       "Name": "plasma level 1",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "plasma2",
       "SetID": "2l57895",
       "Name": "plasma level 2",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "plasma3",
@@ -422,13 +427,13 @@
       "Name": "plasma level 3",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "power_time1",
       "SetID": "2l57895",
       "Name": "power time",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -436,15 +441,15 @@
       "ID": "resistence1",
       "SetID": "2l57895",
       "Name": "resistance level 1",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "resistence2",
       "SetID": "2l57895",
       "Name": "resistance level 2",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -454,29 +459,29 @@
       "Name": "rifle level 1",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "rifle2",
       "SetID": "2l57895",
       "Name": "rifle level 2",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "rifle3",
       "SetID": "2l57895",
       "Name": "rifle level 3",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "space_mine1",
       "SetID": "2l57895",
       "Name": "space mine level 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -484,7 +489,7 @@
       "ID": "space_mine2",
       "SetID": "2l57895",
       "Name": "space mine level 2",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -492,7 +497,7 @@
       "ID": "space_mine3",
       "SetID": "2l57895",
       "Name": "space mine level 3",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -500,7 +505,7 @@
       "ID": "station_commander_one",
       "SetID": "2l57895",
       "Name": "Station commander one",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -508,7 +513,7 @@
       "ID": "station_commander_two",
       "SetID": "2l57895",
       "Name": "Station commander two",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -516,7 +521,7 @@
       "ID": "super_bomb1",
       "SetID": "2l57895",
       "Name": "super bomb level 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -524,7 +529,7 @@
       "ID": "super_bomb2",
       "SetID": "2l57895",
       "Name": "super bomb level 2",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -532,7 +537,7 @@
       "ID": "super_bomb3",
       "SetID": "2l57895",
       "Name": "super bomb level 3",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -540,7 +545,7 @@
       "ID": "super_laser1",
       "SetID": "2l57895",
       "Name": "super laser level 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -548,7 +553,7 @@
       "ID": "super_laser2",
       "SetID": "2l57895",
       "Name": "super laser level 2",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -556,7 +561,7 @@
       "ID": "super_laser3",
       "SetID": "2l57895",
       "Name": "super laser level 3",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -564,7 +569,7 @@
       "ID": "super_warship",
       "SetID": "2l57895",
       "Name": "Super warship",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -574,13 +579,13 @@
       "Name": "Tutorial",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "war_machine",
       "SetID": "2l57895",
       "Name": "War machine",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -590,21 +595,21 @@
       "Name": "Warship",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l57895",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 29,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-20T14:58:43.3861009+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:07.5615124+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:07.5615067+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:55.6642035+00:00",
   "LastUpdate_AppInfo": "2024-03-14T23:57:33.4163434+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:52.7234673+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:07.5622188+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:18.4532384+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:55.6642638+00:00"
 }

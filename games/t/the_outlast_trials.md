@@ -2,10 +2,47 @@
 [Store](https://store.epicgames.com/en-US/p/the-outlast-trials)  
 [View Rawdata](../../db/t/the_outlast_trials.json)  
 Rating: 4.65 (Ranked 336)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Hunchback | 60.00% | ~9,058 |
+| Marathoner | 58.00% | ~8,756 |
+| Big Saver | 45.00% | ~6,794 |
+| Chicken in a Pot | 43.00% | ~6,492 |
+| Glutton for Therapy | 42.00% | ~6,341 |
+| Mechanophiliac | 40.00% | ~6,039 |
+| Together We Are Strong | 39.00% | ~5,888 |
+| Power Surge | 37.00% | ~5,586 |
+| Bullseye | 36.00% | ~5,435 |
+| Bamboozler | 34.00% | ~5,133 |
+| Vision Quest | 32.00% | ~4,831 |
+| Hemophiliac | 30.00% | ~4,529 |
+| Major League Player | 30.00% | ~4,529 |
+| Slip and Slider | 29.00% | ~4,378 |
+| Trigger Happy | 26.00% | ~3,925 |
+| Get Down | 25.00% | ~3,774 |
+| Anger Issues | 24.00% | ~3,623 |
+| Tapetum Lucidum | 21.00% | ~3,170 |
+| Hoarder | 20.00% | ~3,019 |
+| Sawbones | 16.00% | ~2,416 |
+| Toastmaster | 13.00% | ~1,963 |
+| Crowd Control | 12.00% | ~1,812 |
+| Speed Freak | 12.00% | ~1,812 |
+| Breathe In | 11.00% | ~1,661 |
+| Can't Touch This | 11.00% | ~1,661 |
+| Hypochondriac | 7.00% | ~1,057 |
+| Sleight of Hand | 4.00% | ~604 |
+## Popularity (Based on EOS Achievements)
+Progressed: 15,097 (Ranked 189)  
+Completed: 291 (1.93%) (Ranked 154)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 15,097 | 291 |
 ## Awards
 Max (Great for Beginners): 454  (Ranked 241)  
-Sum: 2,408 (Ranked 216)  
-Diff (max vs sum): 25  
+Sum: 2,408 (Ranked 217)  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 454 |

@@ -2,10 +2,10 @@
   "ID": "a9c5d48f93f742d8b8225d21f23fe95b",
   "Name": "Project Element",
   "ProductSlug": "projectelement-a1ec94",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 802,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-13T10:00:01.524+00:00",
     "PcReleaseDate": "2024-03-13T10:00:00+00:00",
@@ -23,16 +23,82 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:05:29.6914044+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:05:29.691413+00:00",
+  "TotalAchievements": 6,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "add59af",
+      "Name": "Apocalypse Angel",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "101",
+      "SetID": "add59af",
+      "Name": "Afforestation",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "102",
+      "SetID": "add59af",
+      "Name": "Logistics Expert",
+      "Percentage": 40,
+      "XP": 200,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "2",
+      "SetID": "add59af",
+      "Name": "Race Against Time",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "add59af",
+      "Name": "Self-Sacrifice",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "add59af",
+      "Name": "Eco-Warrior",
+      "Percentage": 20,
+      "XP": 150,
+      "UsersEstimate": 1
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "add59af",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:05:29.6914129+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:29.6914036+00:00",
   "LastUpdate_AppInfo": "2024-03-20T10:57:11.3262506+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:57.3463003+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:32.840564+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:29.6924469+00:00"
 }

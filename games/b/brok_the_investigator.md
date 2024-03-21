@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 78.00% | ~38 |
-| Chapter 1 | 49.00% | ~24 |
-| Chapter 2 | 41.00% | ~20 |
-| It's In My Nature | 41.00% | ~20 |
-| Chapter 3 | 37.00% | ~18 |
-| Chapter 4 | 35.00% | ~17 |
-| Your Days Are Numbered | 35.00% | ~17 |
-| Chapter 5 | 33.00% | ~16 |
-| All Materials | 33.00% | ~16 |
-| Chapter 6 | 27.00% | ~13 |
-| Best Student | 16.00% | ~8 |
-| Food Thief | 14.00% | ~7 |
-| Ads Fan | 10.00% | ~5 |
-| Chipmunk | 10.00% | ~5 |
-| Highway Survival | 10.00% | ~5 |
-| Sugar Pills Lover | 10.00% | ~5 |
-| Tramp Saver | 10.00% | ~5 |
-| Hard To Wake Up | 10.00% | ~5 |
-| Secret Locker | 8.00% | ~4 |
-| Paw Music | 8.00% | ~4 |
-| Bear Cop | 6.00% | ~3 |
+| Introduction completed | 78.00% | ~43 |
+| Chapter 1 | 49.00% | ~27 |
+| Chapter 2 | 44.00% | ~24 |
+| Chapter 3 | 38.00% | ~21 |
+| Your Days Are Numbered | 38.00% | ~21 |
+| It's In My Nature | 38.00% | ~21 |
+| Chapter 4 | 36.00% | ~20 |
+| All Materials | 36.00% | ~20 |
+| Chapter 5 | 35.00% | ~19 |
+| Chapter 6 | 27.00% | ~15 |
+| Best Student | 18.00% | ~10 |
+| Food Thief | 13.00% | ~7 |
+| Ads Fan | 11.00% | ~6 |
+| Highway Survival | 11.00% | ~6 |
+| Sugar Pills Lover | 11.00% | ~6 |
+| Tramp Saver | 11.00% | ~6 |
+| Hard To Wake Up | 11.00% | ~6 |
+| Chipmunk | 9.00% | ~5 |
+| Secret Locker | 9.00% | ~5 |
+| Paw Music | 9.00% | ~5 |
+| Bear Cop | 7.00% | ~4 |
+| Main Endings | 4.00% | ~2 |
 | Master of Mattresses | 2.00% | ~1 |
-| Main Endings | 2.00% | ~1 |
 | Pushy, pushy | 2.00% | ~1 |
 | Summary Filled | 2.00% | ~1 |
 | The World Is My Doormat | 2.00% | ~1 |
@@ -34,8 +34,8 @@
 | Pacifist | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 588)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 55 (Ranked 620)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-14 | 47 | 0 |
 | 2024-01-15 | 48 | 0 |
 | 2024-01-22 | 49 | 0 |
+| 2024-03-21 | 55 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "c2d8e1ed422240c4a174bb59bee22dcb",
   "Name": "Asurya\u0027s Embers",
   "ProductSlug": "asuryas-embers-6bcdde",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 839,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-06T18:00:00+00:00",
     "PcReleaseDate": "2024-03-06T18:00:00+00:00",
@@ -25,27 +25,75 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:12:08.0947332+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:12:08.0947362+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_LEVEL_EXTINCT_RAT",
+      "SetID": "653ph5h",
+      "Name": "Sophisticated",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_ONE_COMPLETE",
+      "SetID": "653ph5h",
+      "Name": "Toad Slayer",
+      "Percentage": 50,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_LEVEL_THREE_COMPLETE",
+      "SetID": "653ph5h",
+      "Name": "Sun Slayer",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_TUTORIAL_COMPLETE",
+      "SetID": "653ph5h",
+      "Name": "Homecoming",
+      "Percentage": 50,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_LEVEL_TWO_COMPLETE",
+      "SetID": "653ph5h",
+      "Name": "Pango Slayer",
+      "Percentage": 50,
+      "XP": 200,
+      "UsersEstimate": 1
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "653ph5h",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-08T11:59:06.5329865+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:19.3268203+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:19.3268185+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:08.0947326+00:00",
   "LastUpdate_AppInfo": "2024-03-20T02:58:15.8154831+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:28.2436215+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:19.3268229+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:53.7472951+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:08.0956882+00:00"
 }

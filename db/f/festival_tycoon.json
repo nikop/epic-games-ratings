@@ -2,10 +2,10 @@
   "ID": "73041c028dc64e1db02b7811181ea3e6",
   "Name": "Festival Tycoon",
   "ProductSlug": "festival-tycoon",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-05-04T15:00:00+00:00",
     "PcReleaseDate": "2021-09-27T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:57.5707461+00:00",
   "LastChanged": "2023-03-31T05:57:57.5707462+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:13.6974655+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:45.9766858+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:39.0678999+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:44.7680833+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:18.9619469+00:00"
 }

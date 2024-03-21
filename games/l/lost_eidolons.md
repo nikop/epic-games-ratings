@@ -5,23 +5,23 @@ Rating: 4.35 (Ranked 857)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 75.00% | ~838 |
-| First Blood | 72.00% | ~805 |
-| Ready to Learn | 69.00% | ~771 |
-| Monster Hunter | 59.00% | ~660 |
-| Earning Trust | 56.00% | ~626 |
-| Monster Slayer | 32.00% | ~358 |
-| Awakening | 25.00% | ~280 |
-| Huntmaster | 24.00% | ~268 |
-| Complete the sidequest 'Malice and Greed' | 20.00% | ~224 |
-| House Vulisica's Heirloom | 16.00% | ~179 |
-| Digging Deep | 15.00% | ~168 |
-| Broken Oath | 10.00% | ~112 |
-| Way of the King | 8.00% | ~89 |
-| Til We Meet Again | 5.00% | ~56 |
-| Way of the Warlord | 4.00% | ~45 |
-| The Unvanquished | 3.00% | ~34 |
-| Arrow in the Wind | 3.00% | ~34 |
+| The First Step | 80.00% | ~870 |
+| First Blood | 76.00% | ~827 |
+| Ready to Learn | 73.00% | ~794 |
+| Monster Hunter | 62.00% | ~675 |
+| Earning Trust | 59.00% | ~642 |
+| Monster Slayer | 34.00% | ~370 |
+| Awakening | 26.00% | ~283 |
+| Huntmaster | 25.00% | ~272 |
+| Complete the sidequest 'Malice and Greed' | 21.00% | ~228 |
+| House Vulisica's Heirloom | 17.00% | ~185 |
+| Digging Deep | 16.00% | ~174 |
+| Broken Oath | 10.00% | ~109 |
+| Way of the King | 9.00% | ~98 |
+| Til We Meet Again | 5.00% | ~54 |
+| Way of the Warlord | 4.00% | ~44 |
+| Arrow in the Wind | 4.00% | ~44 |
+| The Unvanquished | 3.00% | ~33 |
 | Let Us Cling Together | 2.00% | ~22 |
 | A Promised Voyage | 2.00% | ~22 |
 | Life or Death | 1.00% | ~11 |
@@ -29,8 +29,8 @@ Rating: 4.35 (Ranked 857)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.70% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,118 (Ranked 303)  
-Completed: 1 (0.09%) (Ranked 338)  
+Progressed: 1,088 (Ranked 327)  
+Completed: 1 (0.09%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,6 +188,7 @@ Completed: 1 (0.09%) (Ranked 338)
 | 2024-01-24 | 1,117 | 1 |
 | 2024-01-25 | 1,119 | 1 |
 | 2024-01-26 | 1,118 | 1 |
+| 2024-03-21 | 1,088 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

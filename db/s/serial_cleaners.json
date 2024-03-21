@@ -2,10 +2,10 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 415,
-  "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 372,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.94,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -804,6 +804,11 @@
       "Time": "2024-01-26T00:04:47.9242958+00:00",
       "NumProgressed": 309,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-03-21T17:07:06.2305698+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -815,7 +820,7 @@
       "Name": "All the Stories",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ALL_MEMORIES",
@@ -823,7 +828,7 @@
       "Name": "Total Recall",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "BOB_SLIDE",
@@ -831,15 +836,15 @@
       "Name": "Blood Capade",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -847,7 +852,7 @@
       "Name": "Pride and Joy",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "CHAPTER3_COMPLETE",
@@ -855,7 +860,7 @@
       "Name": "Eyes Yet To Open",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "CHAPTER4_COMPLETE",
@@ -863,7 +868,7 @@
       "Name": "Something Rotten",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "CHAPTER5_COMPLETE",
@@ -871,37 +876,37 @@
       "Name": "Witness Protection",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
       "SetID": "2lk004m",
       "Name": "Small-time Finder",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 153
     },
     {
       "ID": "DISPOSE_15_BODIES",
       "SetID": "2lk004m",
       "Name": "Business as usual",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
       "SetID": "5jieak",
       "Name": "Crazy SOB, You Did It",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -949,9 +954,9 @@
       "ID": "LATI_SPRAY",
       "SetID": "2lk004m",
       "Name": "Bee Squat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "NODEATH_MISSION_CLEAR",
@@ -959,15 +964,15 @@
       "Name": "A New Broom Sweeps Clean",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 62
+      "UsersEstimate": 74
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
       "SetID": "2lk004m",
       "Name": "The Germophobes",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "PERFECT_CLEANED_ONE_MAP",
@@ -975,7 +980,7 @@
       "Name": "Mr. Hygeni",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 37
     },
     {
       "ID": "PSYCHO_DISMEMBER",
@@ -983,15 +988,15 @@
       "Name": "The Wing and the Thigh",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 40,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 171
     },
     {
       "ID": "VIPER_HACKING",
@@ -999,20 +1004,20 @@
       "Name": "Hackathon",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 172,
+      "Progressed": 235,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 372,
       "Completed": 6
     }
   ],
@@ -1020,8 +1025,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:44.0530434+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:06.2305692+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:52.0289277+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:34.4343452+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:44.0530562+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:00.7098293+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:06.2305937+00:00"
 }

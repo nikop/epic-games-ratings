@@ -6,65 +6,65 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Me and My Familiar | 11.00% | ~183 |
-| The Cost of Heroism | 11.00% | ~183 |
-| This Too Shall Pass | 9.00% | ~149 |
-| Passing Shadow | 8.00% | ~133 |
-| How Romantic! | 8.00% | ~133 |
-| Cutthroat Competitors | 8.00% | ~133 |
-| Daybreak | 8.00% | ~133 |
-| Gotta Ca... Must Collect All of Them | 7.00% | ~116 |
-| Completing the Look | 5.00% | ~83 |
-| War Endured | 5.00% | ~83 |
-| Core Failure | 5.00% | ~83 |
-| A Mythic Menagerie | 4.00% | ~66 |
-| Who's Counting? | 4.00% | ~66 |
-| Thematic Divergence | 3.00% | ~50 |
-| Pyrrhic Victory | 3.00% | ~50 |
-| Echoes Die | 3.00% | ~50 |
-| Let Me Get My Chisel | 2.00% | ~33 |
-| Chain Reaction | 2.00% | ~33 |
-| Everfading | 2.00% | ~33 |
-| Another Tale to Tell | 2.00% | ~33 |
-| A Story of Heroes | 2.00% | ~33 |
-| Turncoat | 2.00% | ~33 |
+| The Cost of Heroism | 13.00% | ~220 |
+| Me and My Familiar | 12.00% | ~203 |
+| Passing Shadow | 10.00% | ~169 |
+| This Too Shall Pass | 10.00% | ~169 |
+| Cutthroat Competitors | 10.00% | ~169 |
+| Gotta Ca... Must Collect All of Them | 9.00% | ~152 |
+| How Romantic! | 9.00% | ~152 |
+| Daybreak | 9.00% | ~152 |
+| Completing the Look | 5.00% | ~85 |
+| War Endured | 5.00% | ~85 |
+| Core Failure | 5.00% | ~85 |
+| A Mythic Menagerie | 4.00% | ~68 |
+| Who's Counting? | 4.00% | ~68 |
+| Pyrrhic Victory | 4.00% | ~68 |
+| Thematic Divergence | 3.00% | ~51 |
+| Echoes Die | 3.00% | ~51 |
+| Let Me Get My Chisel | 2.00% | ~34 |
+| Plague Doctor | 2.00% | ~34 |
+| Legends Never Die | 2.00% | ~34 |
+| Chain Reaction | 2.00% | ~34 |
+| In Soil, In Smoke | 2.00% | ~34 |
+| Everfading | 2.00% | ~34 |
+| Another Tale to Tell | 2.00% | ~34 |
+| A Story of Heroes | 2.00% | ~34 |
+| All My Birds, Safely Home | 2.00% | ~34 |
+| Turncoat | 2.00% | ~34 |
+| No Time for Clawmonsters | 2.00% | ~34 |
+| Storied Past | 1.00% | ~17 |
 | Worldwalker | 1.00% | ~17 |
-| Plague Doctor | 1.00% | ~17 |
-| Legends Never Die | 1.00% | ~17 |
-| In Soil, In Smoke | 1.00% | ~17 |
-| All My Birds, Safely Home | 1.00% | ~17 |
+| Empty the Caves | 1.00% | ~17 |
+| Bonebreakers | 1.00% | ~17 |
+| No More Nightmares | 1.00% | ~17 |
+| A Hunger, Sated | 1.00% | ~17 |
+| Wingknight's Prowess | 1.00% | ~17 |
 | Bears are Scary | 1.00% | ~17 |
+| Fight Like a Bird | 1.00% | ~17 |
 | Grillmaster | 1.00% | ~17 |
 | Some Say I'm Too Flashy | 1.00% | ~17 |
+| Astrology | 1.00% | ~17 |
 | Tempest | 1.00% | ~17 |
-| No Time for Clawmonsters | 1.00% | ~17 |
-| Storied Past | 0.90% | ~15 |
-| Empty the Caves | 0.90% | ~15 |
-| Wingknight's Prowess | 0.90% | ~15 |
-| Fight Like a Bird | 0.90% | ~15 |
-| Astrology | 0.90% | ~15 |
-| A Hunger, Sated | 0.80% | ~13 |
-| Lochias's Hunger | 0.80% | ~13 |
-| We Emerge Changed | 0.70% | ~12 |
-| Bonebreakers | 0.70% | ~12 |
-| No More Nightmares | 0.70% | ~12 |
-| Into Mulch | 0.70% | ~12 |
-| Drauvenslayers | 0.60% | ~10 |
-| War-Ender | 0.50% | ~8 |
-| I'm Not Smiling | 0.50% | ~8 |
+| Lochias's Hunger | 1.00% | ~17 |
+| We Emerge Changed | 0.90% | ~15 |
+| Into Mulch | 0.90% | ~15 |
+| Drauvenslayers | 0.80% | ~14 |
+| I'm Not Smiling | 0.80% | ~14 |
+| The Power of Friendship | 0.60% | ~10 |
+| Back into the Sea | 0.60% | ~10 |
+| War-Ender | 0.60% | ~10 |
+| Solid as the Hills | 0.50% | ~8 |
+| Thwack! | 0.50% | ~8 |
 | Overwhelming Monstrosity | 0.40% | ~7 |
-| The Power of Friendship | 0.40% | ~7 |
-| Back into the Sea | 0.40% | ~7 |
-| Solid as the Hills | 0.40% | ~7 |
-| Symbiosis | 0.30% | ~5 |
-| Thwack! | 0.30% | ~5 |
+| Symbiosis | 0.40% | ~7 |
+| A Temperamental Shrub | 0.40% | ~7 |
 | A Lowly Crust of Beef | 0.20% | ~3 |
-| We Call That Mortificient! | 0.10% | ~2 |
-| A Temperamental Shrub | 0.10% | ~2 |
+| We Call That Mortificient! | 0.20% | ~3 |
 | Peacemaker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,661 (Ranked 279)  
-Completed: 7 (0.42%) (Ranked 253)  
+Progressed: 1,691 (Ranked 294)  
+Completed: 7 (0.41%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,6 +287,7 @@ Completed: 7 (0.42%) (Ranked 253)
 | 2024-01-26 | 1,622 | 7 |
 | 2024-01-27 | 1,625 | 7 |
 | 2024-02-22 | 1,661 | 7 |
+| 2024-03-21 | 1,691 | 7 |
 ## Awards
 Max (Character Customization): 30  (Ranked 554)  
 Sum: 30 (Ranked 582)  

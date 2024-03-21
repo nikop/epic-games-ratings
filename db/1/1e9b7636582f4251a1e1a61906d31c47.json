@@ -2,10 +2,10 @@
   "ID": "1e9b7636582f4251a1e1a61906d31c47",
   "Name": "SlavicPunk: Oldtimer",
   "ProductSlug": "slavicpunk-oldtimer-10ed1c",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-11T18:00:00+00:00",
     "PcReleaseDate": "2023-06-28T09:00:00+00:00",
@@ -24,12 +24,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:11:40.5643235+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-08-03T18:02:58.054518+00:00",
   "TotalAchievements": 74,
   "TotalAchievementsXP": 1000,
@@ -631,14 +637,14 @@
     {
       "ID": "6c20fo5",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-14T04:57:57.0609345+00:00",
   "FirstSeenAchievements": "2023-08-01T13:09:17.3833059+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:51.508323+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:40.5643229+00:00",
   "LastUpdate_AppInfo": "2024-03-19T13:57:24.0144133+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:49.0908681+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:51.508392+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:55.6335023+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:40.5643889+00:00"
 }

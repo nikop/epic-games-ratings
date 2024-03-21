@@ -4,72 +4,72 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~244 |
-| Initiate's Resolve | 6.00% | ~244 |
-| Missilis | 5.00% | ~203 |
-| Armaments of the Pantheon | 5.00% | ~203 |
-| Persephone's Guidance | 5.00% | ~203 |
-| Lochos | 5.00% | ~203 |
-| Strength of Herakles | 5.00% | ~203 |
-| Immolator | 4.00% | ~163 |
-| Go For the Head | 4.00% | ~163 |
-| Spartan Sandal | 4.00% | ~163 |
-| Modest Earnings | 4.00% | ~163 |
-| Symbols of Heresy | 4.00% | ~163 |
-| The Sons of Minos | 4.00% | ~163 |
-| Eidola | 4.00% | ~163 |
-| Reign in Blood | 4.00% | ~163 |
-| Comedy and Tragedy | 3.00% | ~122 |
-| Pillars of Eternity | 3.00% | ~122 |
-| War Chest | 3.00% | ~122 |
-| Chthonic Investor | 3.00% | ~122 |
-| First Fragment | 3.00% | ~122 |
-| Sisters of the Pantheon | 3.00% | ~122 |
-| Labour of Apollo | 3.00% | ~122 |
-| Siege Unit | 3.00% | ~122 |
-| Divine Assemblage | 3.00% | ~122 |
-| Ophiolatreia | 3.00% | ~122 |
-| Halls of Marble | 3.00% | ~122 |
-| Serpentine | 3.00% | ~122 |
-| Wayward Son of Hephaestus | 2.00% | ~81 |
-| Lament of the Constellations | 2.00% | ~81 |
-| Forged in Fire | 2.00% | ~81 |
-| Rock and a Hard Place | 2.00% | ~81 |
-| The Midas Touch | 2.00% | ~81 |
-| Hapax Legomenon | 2.00% | ~81 |
-| Veneration of Hephaestus | 2.00% | ~81 |
-| Vandili | 2.00% | ~81 |
-| No Scylla in Sight | 2.00% | ~81 |
-| Cloaca Maxima | 2.00% | ~81 |
-| Baby Crabs They Ain't | 2.00% | ~81 |
-| Mors Omnibus | 2.00% | ~81 |
-| Blot Out the Sky | 2.00% | ~81 |
-| The Nameless One | 1.00% | ~41 |
-| Rule of Thirds | 1.00% | ~41 |
-| Pyr Demon | 1.00% | ~41 |
-| Don't Pay the Ferryman | 1.00% | ~41 |
-| Biotechnology | 1.00% | ~41 |
-| The Archimedes Principle | 1.00% | ~41 |
-| Rites at Sea | 1.00% | ~41 |
-| Close Shut the Doors | 1.00% | ~41 |
-| Scrap Metal | 1.00% | ~41 |
-| Athenian Treasury | 0.80% | ~33 |
-| Invicta | 0.80% | ~33 |
-| Olympian | 0.60% | ~24 |
-| Hipparchia's Labour | 0.40% | ~16 |
-| Interrupt the Interloper | 0.40% | ~16 |
-| Elephantine | 0.40% | ~16 |
-| Window Shopping | 0.30% | ~12 |
-| Debauchery | 0.30% | ~12 |
-| Blessing of Spring | 0.30% | ~12 |
-| Buyer's Remorse | 0.20% | ~8 |
+| To Suffer is to Learn | 6.00% | ~261 |
+| Persephone's Guidance | 5.00% | ~218 |
+| Lochos | 5.00% | ~218 |
+| Strength of Herakles | 5.00% | ~218 |
+| Initiate's Resolve | 5.00% | ~218 |
+| Go For the Head | 4.00% | ~174 |
+| Spartan Sandal | 4.00% | ~174 |
+| Missilis | 4.00% | ~174 |
+| Modest Earnings | 4.00% | ~174 |
+| Armaments of the Pantheon | 4.00% | ~174 |
+| The Sons of Minos | 4.00% | ~174 |
+| Eidola | 4.00% | ~174 |
+| Reign in Blood | 4.00% | ~174 |
+| Comedy and Tragedy | 3.00% | ~131 |
+| Pillars of Eternity | 3.00% | ~131 |
+| Immolator | 3.00% | ~131 |
+| War Chest | 3.00% | ~131 |
+| Chthonic Investor | 3.00% | ~131 |
+| Symbols of Heresy | 3.00% | ~131 |
+| First Fragment | 3.00% | ~131 |
+| Sisters of the Pantheon | 3.00% | ~131 |
+| Labour of Apollo | 3.00% | ~131 |
+| Siege Unit | 3.00% | ~131 |
+| Divine Assemblage | 3.00% | ~131 |
+| Ophiolatreia | 3.00% | ~131 |
+| Halls of Marble | 3.00% | ~131 |
+| Serpentine | 3.00% | ~131 |
+| Wayward Son of Hephaestus | 2.00% | ~87 |
+| Forged in Fire | 2.00% | ~87 |
+| The Midas Touch | 2.00% | ~87 |
+| Hapax Legomenon | 2.00% | ~87 |
+| Vandili | 2.00% | ~87 |
+| Cloaca Maxima | 2.00% | ~87 |
+| Baby Crabs They Ain't | 2.00% | ~87 |
+| Mors Omnibus | 2.00% | ~87 |
+| Blot Out the Sky | 2.00% | ~87 |
+| The Nameless One | 1.00% | ~44 |
+| Lament of the Constellations | 1.00% | ~44 |
+| Rule of Thirds | 1.00% | ~44 |
+| Rock and a Hard Place | 1.00% | ~44 |
+| Pyr Demon | 1.00% | ~44 |
+| Don't Pay the Ferryman | 1.00% | ~44 |
+| Veneration of Hephaestus | 1.00% | ~44 |
+| Biotechnology | 1.00% | ~44 |
+| No Scylla in Sight | 1.00% | ~44 |
+| The Archimedes Principle | 1.00% | ~44 |
+| Rites at Sea | 1.00% | ~44 |
+| Close Shut the Doors | 1.00% | ~44 |
+| Scrap Metal | 1.00% | ~44 |
+| Athenian Treasury | 0.80% | ~35 |
+| Invicta | 0.80% | ~35 |
+| Olympian | 0.50% | ~22 |
+| Hipparchia's Labour | 0.40% | ~17 |
+| Elephantine | 0.40% | ~17 |
+| Window Shopping | 0.30% | ~13 |
+| Debauchery | 0.30% | ~13 |
+| Blessing of Spring | 0.30% | ~13 |
+| Interrupt the Interloper | 0.30% | ~13 |
+| Buyer's Remorse | 0.20% | ~9 |
 | Library of Alexandria | 0.10% | ~4 |
 | Chitinous | 0.10% | ~4 |
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,064 (Ranked 226)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 4,356 (Ranked 234)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,6 +331,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-25 | 4,057 | 0 |
 | 2024-01-26 | 4,060 | 0 |
 | 2024-01-27 | 4,064 | 0 |
+| 2024-03-21 | 4,356 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

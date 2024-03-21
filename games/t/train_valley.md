@@ -6,48 +6,48 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~509 |
-| Close call! | 70.00% | ~469 |
-| Builder | 51.00% | ~342 |
-| Pangs of conscience | 44.00% | ~295 |
-| Living it large! | 44.00% | ~295 |
-| Collector | 43.00% | ~288 |
-| Completely nuts! | 41.00% | ~275 |
-| Need to think | 41.00% | ~275 |
-| Europe | 33.00% | ~221 |
-| Just in time! | 33.00% | ~221 |
-| Madness! | 31.00% | ~208 |
-| It's no coincidence. | 27.00% | ~181 |
-| Philatelist | 26.00% | ~174 |
-| Let's roll! | 25.00% | ~168 |
-| Ouroboros | 24.00% | ~161 |
-| Non Stop! | 24.00% | ~161 |
-| Foreman | 20.00% | ~134 |
-| Russia | 19.00% | ~127 |
-| America | 18.00% | ~121 |
-| Missed it! | 18.00% | ~121 |
-| Sabotage | 15.00% | ~100 |
-| Achtung! | 12.00% | ~80 |
-| Japan | 10.00% | ~67 |
-| Tycoon | 9.00% | ~60 |
-| Woodcutter | 9.00% | ~60 |
-| Engineer | 9.00% | ~60 |
-| Germany | 7.00% | ~47 |
-| Supercrash! | 5.00% | ~34 |
-| Chuck Norris | 5.00% | ~34 |
-| Сhancellor | 4.00% | ~27 |
-| Peacemaker | 4.00% | ~27 |
-| Forgotten | 3.00% | ~20 |
-| Lucky vandal | 3.00% | ~20 |
+| Getting started | 76.00% | ~550 |
+| Close call! | 69.00% | ~500 |
+| Builder | 50.00% | ~362 |
+| Living it large! | 44.00% | ~319 |
+| Collector | 43.00% | ~311 |
+| Pangs of conscience | 43.00% | ~311 |
+| Need to think | 41.00% | ~297 |
+| Completely nuts! | 40.00% | ~290 |
+| Europe | 34.00% | ~246 |
+| Just in time! | 33.00% | ~239 |
+| Madness! | 31.00% | ~224 |
+| Philatelist | 27.00% | ~195 |
+| It's no coincidence. | 27.00% | ~195 |
+| Let's roll! | 25.00% | ~181 |
+| Ouroboros | 24.00% | ~174 |
+| Non Stop! | 24.00% | ~174 |
+| Foreman | 20.00% | ~145 |
+| America | 19.00% | ~138 |
+| Russia | 19.00% | ~138 |
+| Missed it! | 17.00% | ~123 |
+| Sabotage | 15.00% | ~109 |
+| Achtung! | 12.00% | ~87 |
+| Japan | 11.00% | ~80 |
+| Tycoon | 10.00% | ~72 |
+| Woodcutter | 9.00% | ~65 |
+| Engineer | 9.00% | ~65 |
+| Germany | 6.00% | ~43 |
+| Сhancellor | 5.00% | ~36 |
+| Supercrash! | 5.00% | ~36 |
+| Chuck Norris | 5.00% | ~36 |
+| Peacemaker | 4.00% | ~29 |
+| Forgotten | 3.00% | ~22 |
+| Lucky vandal | 3.00% | ~22 |
+| Juggler | 1.00% | ~7 |
 | Salesman | 1.00% | ~7 |
-| Juggler | 0.90% | ~6 |
 | Maniac vandal | 0.70% | ~5 |
 | BBQ | 0.60% | ~4 |
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 670 (Ranked 348)  
-Completed: 2 (0.30%) (Ranked 274)  
+Progressed: 724 (Ranked 365)  
+Completed: 2 (0.28%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,6 +205,7 @@ Completed: 2 (0.30%) (Ranked 274)
 | 2024-01-19 | 668 | 2 |
 | 2024-01-20 | 669 | 2 |
 | 2024-01-23 | 670 | 2 |
+| 2024-03-21 | 724 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

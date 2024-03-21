@@ -2,10 +2,10 @@
   "ID": "e4e71e80487245b682ed399fa518964e",
   "Name": "Horse Racing",
   "ProductSlug": "horse-racing-4192a0",
-  "Ranking_EOS_Progress": 711,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 746,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-02T18:30:00+00:00",
     "PcReleaseDate": "2016-10-20T18:30:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -64,6 +64,11 @@
       "Time": "2024-01-20T20:05:33.3272988+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:07:41.3221079+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-30T17:03:58.2919236+00:00",
@@ -74,17 +79,17 @@
       "ID": "HR16_10RACES",
       "SetID": "97829ik",
       "Name": "Complete 10 Races",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "HR16_5SEASONCOM",
       "SetID": "97829ik",
       "Name": "Complete 5 Season",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HR16_COMPLETE50RACES",
@@ -147,14 +152,14 @@
     {
       "ID": "97829ik",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-23T21:57:35.0277368+00:00",
   "FirstSeenAchievements": "2023-11-30T17:03:58.2919235+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:10.3966702+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:41.322107+00:00",
   "LastUpdate_AppInfo": "2024-03-15T03:57:13.0650629+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:40.6110307+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:10.3967119+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:42.9343869+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:41.322117+00:00"
 }

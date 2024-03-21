@@ -5,10 +5,10 @@
   "Ranking_Rating": 1060,
   "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 332,
-  "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 112,
+  "Ranking_EOS_Completed": 356,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -2397,8 +2397,8 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 95544,
-  "EOS_Completed": 84,
+  "EOS_Progressed": 98040,
+  "EOS_Completed": 85,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
@@ -18852,6 +18852,11 @@
       "Time": "2024-03-04T23:05:27.0184058+00:00",
       "NumProgressed": 95544,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-03-21T17:13:17.2602591+00:00",
+      "NumProgressed": 98040,
+      "NumCompleted": 85
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -18862,9 +18867,9 @@
       "ID": "1",
       "SetID": "2cfdi92",
       "Name": "Your Lucky Day",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 46817
+      "UsersEstimate": 49020
     },
     {
       "ID": "10",
@@ -18872,7 +18877,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 955
+      "UsersEstimate": 980
     },
     {
       "ID": "11",
@@ -18880,15 +18885,15 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2941
     },
     {
       "ID": "12",
       "SetID": "2cfdi92",
       "Name": "Reaping Rivals",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2866
+      "UsersEstimate": 1961
     },
     {
       "ID": "13",
@@ -18896,7 +18901,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.5,
       "XP": 150,
-      "UsersEstimate": 478
+      "UsersEstimate": 490
     },
     {
       "ID": "14",
@@ -18904,7 +18909,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 7644
+      "UsersEstimate": 7843
     },
     {
       "ID": "15",
@@ -18912,7 +18917,7 @@
       "Name": "Gone Rogue",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 955
+      "UsersEstimate": 980
     },
     {
       "ID": "16",
@@ -18920,7 +18925,7 @@
       "Name": "Completely Customizable",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 478
+      "UsersEstimate": 490
     },
     {
       "ID": "2",
@@ -18928,7 +18933,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 21020
+      "UsersEstimate": 21569
     },
     {
       "ID": "3",
@@ -18936,7 +18941,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 14332
+      "UsersEstimate": 14706
     },
     {
       "ID": "4",
@@ -18944,7 +18949,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8599
+      "UsersEstimate": 8824
     },
     {
       "ID": "5",
@@ -18952,7 +18957,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6863
     },
     {
       "ID": "6",
@@ -18960,47 +18965,47 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5733
+      "UsersEstimate": 5882
     },
     {
       "ID": "7",
       "SetID": "2cfdi92",
       "Name": "More Power to You",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 29619
+      "UsersEstimate": 32353
     },
     {
       "ID": "8",
       "SetID": "2cfdi92",
       "Name": "Runs for Your Money",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 287
+      "UsersEstimate": 196
     },
     {
       "ID": "9",
       "SetID": "2cfdi92",
       "Name": "Past Master",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 200,
-      "UsersEstimate": 287
+      "UsersEstimate": 392
     }
   ],
   "AchievementSets": [
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 95544,
-      "Completed": 84
+      "Progressed": 98040,
+      "Completed": 85
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-03-21T07:57:59.9559648+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:05:27.0184052+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:13:17.2602585+00:00",
   "LastUpdate_AppInfo": "2024-03-17T06:57:13.9237789+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:58.3941339+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:05:27.018512+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:21.8546456+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:13:17.2603836+00:00"
 }

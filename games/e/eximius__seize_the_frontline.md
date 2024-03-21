@@ -5,25 +5,25 @@ Rating: 4.16 (Ranked 1,030)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduate Boot Camp | 71.00% | ~144,622 |
-| Initiation | 17.00% | ~34,628 |
-| Battlesuit Victory | 8.00% | ~16,295 |
-| Flawless Victory | 5.00% | ~10,185 |
-| Baby Steps | 5.00% | ~10,185 |
-| First Co-Op Win | 4.00% | ~8,148 |
-| Gated Community | 3.00% | ~6,111 |
-| Tag Team Champions | 2.00% | ~4,074 |
-| Total Destruction | 1.00% | ~2,037 |
-| Getting There | 1.00% | ~2,037 |
-| Untouchable | 1.00% | ~2,037 |
-| Mastermind | 0.40% | ~815 |
-| We shall never Surrender! | 0.20% | ~407 |
-| Halfway There | 0.20% | ~407 |
-| Not Afraid of the Big Bad Wolf | 0.10% | ~204 |
-| Many More to Come | 0.10% | ~204 |
+| Graduate Boot Camp | 70.00% | ~144,004 |
+| Initiation | 18.00% | ~37,030 |
+| Battlesuit Victory | 8.00% | ~16,458 |
+| Flawless Victory | 5.00% | ~10,286 |
+| Baby Steps | 5.00% | ~10,286 |
+| First Co-Op Win | 4.00% | ~8,229 |
+| Gated Community | 3.00% | ~6,172 |
+| Tag Team Champions | 2.00% | ~4,114 |
+| Total Destruction | 1.00% | ~2,057 |
+| Getting There | 1.00% | ~2,057 |
+| Untouchable | 1.00% | ~2,057 |
+| Mastermind | 0.40% | ~823 |
+| We shall never Surrender! | 0.20% | ~411 |
+| Halfway There | 0.20% | ~411 |
+| Not Afraid of the Big Bad Wolf | 0.10% | ~206 |
+| Many More to Come | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,693 (Ranked 85)  
-Completed: 4 (0.00%) (Ranked 423)  
+Progressed: 205,720 (Ranked 87)  
+Completed: 4 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,6 +305,7 @@ Completed: 4 (0.00%) (Ranked 423)
 | 2024-01-25 | 203,641 | 4 |
 | 2024-01-26 | 203,673 | 4 |
 | 2024-01-27 | 203,693 | 4 |
+| 2024-03-21 | 205,720 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

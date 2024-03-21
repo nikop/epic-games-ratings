@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 90.00% | ~158 |
-| Dousing a Venerable Flame | 14.00% | ~25 |
-| Advanced Armaments | 14.00% | ~25 |
-| A Small Thirsty Thing | 13.00% | ~23 |
-| Spirit Within | 13.00% | ~23 |
-| Overboard | 11.00% | ~19 |
-| Bladesmith | 11.00% | ~19 |
-| Leisis Bless You | 11.00% | ~19 |
-| Rain Must Fall | 9.00% | ~16 |
-| The Guardian of Fire | 9.00% | ~16 |
-| Twin Thorns | 8.00% | ~14 |
-| Explorer | 7.00% | ~12 |
-| The River Styx | 7.00% | ~12 |
-| Sovereignty of Irons | 7.00% | ~12 |
-| A Sandwyrm's Hoard | 6.00% | ~10 |
-| Sommelier | 5.00% | ~9 |
-| Let Me Solo Them | 5.00% | ~9 |
-| Frigid Winds | 5.00% | ~9 |
+| Setting Sail | 89.00% | ~170 |
+| A Small Thirsty Thing | 13.00% | ~25 |
+| Dousing a Venerable Flame | 13.00% | ~25 |
+| Advanced Armaments | 13.00% | ~25 |
+| Spirit Within | 12.00% | ~23 |
+| Overboard | 10.00% | ~19 |
+| Bladesmith | 10.00% | ~19 |
+| Leisis Bless You | 10.00% | ~19 |
+| Rain Must Fall | 8.00% | ~15 |
+| The Guardian of Fire | 8.00% | ~15 |
+| Twin Thorns | 8.00% | ~15 |
+| Sovereignty of Irons | 7.00% | ~13 |
+| Explorer | 6.00% | ~11 |
+| The River Styx | 6.00% | ~11 |
+| Let Me Solo Them | 5.00% | ~10 |
+| A Sandwyrm's Hoard | 5.00% | ~10 |
+| Sommelier | 4.00% | ~8 |
+| Frigid Winds | 4.00% | ~8 |
 | Missing Melodies | 2.00% | ~4 |
 | Redeemer | 2.00% | ~4 |
 | Smotherly Love | 2.00% | ~4 |
 | Transformative Nature | 2.00% | ~4 |
 | Pommelsmith | 1.00% | ~2 |
-| Champion of Starspire | 0.60% | ~1 |
+| Champion of Starspire | 0.50% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
 | A Momentary Reflection | 0.00% | ~0 |
@@ -63,8 +63,8 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175 (Ranked 466)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 191 (Ranked 486)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,6 +132,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-21 | 144 | 0 |
 | 2024-01-23 | 145 | 0 |
 | 2024-03-04 | 175 | 0 |
+| 2024-03-21 | 191 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

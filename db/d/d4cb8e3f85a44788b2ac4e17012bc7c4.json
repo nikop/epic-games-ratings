@@ -2,10 +2,10 @@
   "ID": "d4cb8e3f85a44788b2ac4e17012bc7c4",
   "Name": "3D City: Megapolis",
   "ProductSlug": "3d-city-572e1f",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-06T11:00:00+00:00",
     "PcReleaseDate": "2024-03-06T11:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "1gln3fa",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:05:24.0889753+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:24.0889422+00:00",
   "LastUpdate_AppInfo": "2024-03-19T18:57:17.1011213+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:52.9391274+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:54.1538655+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:24.088977+00:00"
 }

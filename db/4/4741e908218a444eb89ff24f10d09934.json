@@ -2,10 +2,10 @@
   "ID": "4741e908218a444eb89ff24f10d09934",
   "Name": "WE ARE FOOTBALL 2024",
   "ProductSlug": "we-are-football-2024-1654a9",
-  "Ranking_EOS_Progress": 717,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-04T14:00:00+00:00",
     "PcReleaseDate": "2024-03-04T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-03-04T23:04:10.4782723+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:58.7341093+00:00",
+      "NumProgressed": 82,
       "NumCompleted": 0
     }
   ],
@@ -44,33 +49,33 @@
       "ID": "ACH_1",
       "SetID": "dh9232p",
       "Name": "Lightning start",
-      "Percentage": 25,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_10",
       "SetID": "dh9232p",
       "Name": "Double promotion",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_11",
       "SetID": "dh9232p",
       "Name": "Once again international",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_12",
       "SetID": "dh9232p",
       "Name": "Birthday",
-      "Percentage": 13,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_13",
@@ -84,9 +89,9 @@
       "ID": "ACH_14",
       "SetID": "dh9232p",
       "Name": "Home strength",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_15",
@@ -108,39 +113,39 @@
       "ID": "ACH_17",
       "SetID": "dh9232p",
       "Name": "Expensive buy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_18",
       "SetID": "dh9232p",
       "Name": "100-goals attack",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_19",
       "SetID": "dh9232p",
       "Name": "Strong on the road",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_2",
       "SetID": "dh9232p",
       "Name": "Season objective",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_20",
       "SetID": "dh9232p",
       "Name": "Expensive sale",
-      "Percentage": 13,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -148,17 +153,17 @@
       "ID": "ACH_21",
       "SetID": "dh9232p",
       "Name": "Stronghold",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_22",
       "SetID": "dh9232p",
       "Name": "Collector",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_23",
@@ -180,49 +185,49 @@
       "ID": "ACH_25",
       "SetID": "dh9232p",
       "Name": "Continuous improvement",
-      "Percentage": 0,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_26",
       "SetID": "dh9232p",
       "Name": "Club loyalty",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_27",
       "SetID": "dh9232p",
       "Name": "No weaknesses",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_28",
       "SetID": "dh9232p",
       "Name": "Finally, gold taps",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_29",
       "SetID": "dh9232p",
       "Name": "Fairness prize",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_3",
       "SetID": "dh9232p",
       "Name": "Improve reputation",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_30",
@@ -236,7 +241,7 @@
       "ID": "ACH_31",
       "SetID": "dh9232p",
       "Name": "Football god",
-      "Percentage": 13,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -252,25 +257,25 @@
       "ID": "ACH_33",
       "SetID": "dh9232p",
       "Name": "Striker",
-      "Percentage": 13,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_34",
       "SetID": "dh9232p",
       "Name": "Mega catch-up",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_35",
       "SetID": "dh9232p",
       "Name": "Through the night to light",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_36",
@@ -300,17 +305,17 @@
       "ID": "ACH_39",
       "SetID": "dh9232p",
       "Name": "The Triple",
-      "Percentage": 13,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_4",
       "SetID": "dh9232p",
       "Name": "Evergreen",
-      "Percentage": 13,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_40",
@@ -324,17 +329,17 @@
       "ID": "ACH_41",
       "SetID": "dh9232p",
       "Name": "Sultan",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_42",
       "SetID": "dh9232p",
       "Name": "Triple non-stop",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_43",
@@ -348,15 +353,15 @@
       "ID": "ACH_44",
       "SetID": "dh9232p",
       "Name": "Taking part is everything",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_45",
       "SetID": "dh9232p",
       "Name": "European Championship winners",
-      "Percentage": 25,
+      "Percentage": 2,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -364,41 +369,41 @@
       "ID": "ACH_46",
       "SetID": "dh9232p",
       "Name": "Become world champion!",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_5",
       "SetID": "dh9232p",
       "Name": "First triumph",
-      "Percentage": 13,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_6",
       "SetID": "dh9232p",
       "Name": "Level ups",
-      "Percentage": 13,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_7",
       "SetID": "dh9232p",
       "Name": "All on board",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_8",
       "SetID": "dh9232p",
       "Name": "Beaten them all",
-      "Percentage": 13,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_9",
@@ -413,14 +418,14 @@
     {
       "ID": "dh9232p",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-05T20:59:36.7417812+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:10.4782776+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:10.4782721+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:58.7341088+00:00",
   "LastUpdate_AppInfo": "2024-03-19T16:57:21.8905524+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:13.4896758+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:10.4789411+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:07.5555145+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:58.7341389+00:00"
 }

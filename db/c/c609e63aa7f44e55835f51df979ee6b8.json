@@ -2,10 +2,10 @@
   "ID": "c609e63aa7f44e55835f51df979ee6b8",
   "Name": "Batora: Lost Haven",
   "ProductSlug": "batora-lost-haven-1773c3",
-  "Ranking_EOS_Progress": 604,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 46,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -209,6 +209,11 @@
       "Time": "2024-02-22T21:05:44.9771602+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:31.9996954+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T17:03:09.6040716+00:00",
@@ -219,25 +224,25 @@
       "ID": "ACH_ARMONIA",
       "SetID": "715gm5d",
       "Name": "Armonia",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BURNING_HEART",
       "SetID": "715gm5d",
       "Name": "Burning Heart",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_CHILDELIKE_SPIRIT",
       "SetID": "715gm5d",
       "Name": "Childelike Spirit",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_COSMIC_CARROUSEL",
@@ -251,49 +256,49 @@
       "ID": "ACH_DANCING_IN_THE_RAIN",
       "SetID": "715gm5d",
       "Name": "Dancing in the Rain (of Bullets)",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_DONT_CALL_HER_BABY",
       "SetID": "715gm5d",
       "Name": "Don\u0027t Call her Baby",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ECLIPSE_OF_THE_HEART",
       "SetID": "715gm5d",
       "Name": "Eclipse of the Heart",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FEET_ON_THE_GROUND",
       "SetID": "715gm5d",
       "Name": "Feet on the Ground",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_FLAMING_WISDOM",
       "SetID": "715gm5d",
       "Name": "Flaming Wisdom",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FROZEN_TEARDROP",
       "SetID": "715gm5d",
       "Name": "Frozen Teardrop",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_GUARDIAN_SPIRIT",
@@ -307,25 +312,25 @@
       "ID": "ACH_HEAD_IN_THE_CLOUDS",
       "SetID": "715gm5d",
       "Name": "Head in the Clouds",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_HERO_OF_LIGHT",
       "SetID": "715gm5d",
       "Name": "Hero of Light",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_INNER_DIVA",
       "SetID": "715gm5d",
       "Name": "Inner Diva",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_IN_THE_PALM_OF_YOUR_HAND",
@@ -349,31 +354,31 @@
       "Name": "Keeper of Balance",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_LADY_OF_THE_NIGHT",
       "SetID": "715gm5d",
       "Name": "Lady of the Night",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_LAST_WILL",
       "SetID": "715gm5d",
       "Name": "Last Will",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_MUTUAL_RESPECT",
       "SetID": "715gm5d",
       "Name": "Mutual Respect",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_NO_LEFT_BEHIND",
@@ -387,9 +392,9 @@
       "ID": "ACH_PRIDEFUL_SCARS",
       "SetID": "715gm5d",
       "Name": "Prideful Scars",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_QUEEN_OF_GREENFIELD",
@@ -403,33 +408,33 @@
       "ID": "ACH_STORMING_MEMORIES",
       "SetID": "715gm5d",
       "Name": "Storming Memories",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_TICKETS_FOR_3",
       "SetID": "715gm5d",
       "Name": "Tickets for 3",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_TOGETHER_AT_LAST",
       "SetID": "715gm5d",
       "Name": "Together at last",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_TYRANT_DETHRONER",
       "SetID": "715gm5d",
       "Name": "Tyrant Dethroner",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_UNEXPECTED_MINDFULLNESS",
@@ -445,29 +450,29 @@
       "Name": "Unusual Encounter",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_WHIMSICAL_BLESSING",
       "SetID": "715gm5d",
       "Name": "Whimsical Blessing",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "715gm5d",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 46,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T15:57:45.8918317+00:00",
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:44.97716+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:31.9996947+00:00",
   "LastUpdate_AppInfo": "2024-03-20T05:57:25.7030563+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:14.6482101+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:44.97718+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:16.5553558+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:31.9997137+00:00"
 }

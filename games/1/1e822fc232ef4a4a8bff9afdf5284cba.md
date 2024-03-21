@@ -4,25 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutorial Completed | 30.00% | ~212 |
-| First Game Won | 16.00% | ~113 |
-| 10 Kills | 10.00% | ~71 |
-| Played for 1h | 7.00% | ~49 |
-| Multiplayer Play | 4.00% | ~28 |
-| 1. Campaign Completed | 3.00% | ~21 |
-| Fusion Power | 3.00% | ~21 |
-| 100 Kills | 3.00% | ~21 |
-| Built a Portal | 2.00% | ~14 |
-| Multiplayer Victory | 2.00% | ~14 |
-| 1000 Kills | 0.40% | ~3 |
-| Inhuman Victory | 0.40% | ~3 |
-| 10 Games Won | 0.30% | ~2 |
+| Tutorial Completed | 36.00% | ~313 |
+| First Game Won | 22.00% | ~191 |
+| 10 Kills | 13.00% | ~113 |
+| Played for 1h | 9.00% | ~78 |
+| 1. Campaign Completed | 4.00% | ~35 |
+| Fusion Power | 4.00% | ~35 |
+| Multiplayer Play | 4.00% | ~35 |
+| Built a Portal | 3.00% | ~26 |
+| 100 Kills | 3.00% | ~26 |
+| Multiplayer Victory | 2.00% | ~17 |
+| 1000 Kills | 0.60% | ~5 |
+| Inhuman Victory | 0.50% | ~4 |
+| 10 Games Won | 0.30% | ~3 |
+| Played for 24h | 0.10% | ~1 |
 | 2. Campaign Completed | 0.00% | ~0 |
-| Played for 24h | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706 (Ranked 342)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 869 (Ranked 345)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-04 | 706 | 0 |
+| 2024-03-21 | 869 | 0 |

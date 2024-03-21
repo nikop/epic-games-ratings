@@ -2,10 +2,10 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 599,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 642,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
     "PcReleaseDate": "2022-08-30T15:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -151,6 +151,11 @@
       "Time": "2024-02-22T21:04:17.891347+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:09:34.887205+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -168,15 +173,15 @@
       "ID": "Trophy_02",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Trophy_03",
       "SetID": "cf5h6dl",
       "Name": "Seven Days of Endless Adventure - D\u00E9j\u00E0 Vu",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -200,7 +205,7 @@
       "ID": "Trophy_06",
       "SetID": "cf5h6dl",
       "Name": "Beetle Savant",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -248,7 +253,7 @@
       "ID": "Trophy_12",
       "SetID": "cf5h6dl",
       "Name": "Just Hoverin\u0027 Along",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -280,7 +285,7 @@
       "ID": "Trophy_16",
       "SetID": "cf5h6dl",
       "Name": "What\u0027s That Smell?",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -312,7 +317,7 @@
       "ID": "Trophy_20",
       "SetID": "cf5h6dl",
       "Name": "Biwa Be Mine",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -336,7 +341,7 @@
       "ID": "Trophy_23",
       "SetID": "cf5h6dl",
       "Name": "It\u0027s Alive!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -344,7 +349,7 @@
       "ID": "Trophy_24",
       "SetID": "cf5h6dl",
       "Name": "Ice Fishing",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -368,7 +373,7 @@
       "ID": "Trophy_27",
       "SetID": "cf5h6dl",
       "Name": "Veggie Virtuoso",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -376,7 +381,7 @@
       "ID": "Trophy_28",
       "SetID": "cf5h6dl",
       "Name": "Greengrocer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -464,7 +469,7 @@
       "ID": "Trophy_39",
       "SetID": "cf5h6dl",
       "Name": "T-Rex Wrangler",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -472,7 +477,7 @@
       "ID": "Trophy_40",
       "SetID": "cf5h6dl",
       "Name": "Gumdum Robot, I Choose You!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -529,7 +534,7 @@
     {
       "ID": "cf5h6dl",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
@@ -537,8 +542,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:17.8913467+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:34.8872045+00:00",
   "LastUpdate_AppInfo": "2024-03-17T08:57:10.5024018+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:50.1428463+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:17.8913838+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:23.2554113+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:34.887247+00:00"
 }

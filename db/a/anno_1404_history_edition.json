@@ -2,13 +2,13 @@
   "ID": "590c37a9443d46ce84be415b96b1a3e6",
   "Name": "Anno 1404 History Edition",
   "ProductSlug": "anno-1404",
-  "Ranking_Rating": 138,
+  "Ranking_Rating": 137,
   "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 552,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_PopularitySum": 553,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -440,6 +440,6 @@
   "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
   "LastChanged": "2024-03-05T16:58:12.9135975+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:34.8152471+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:02.1382576+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:32.8966496+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:26.6547151+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:54.894141+00:00"
 }

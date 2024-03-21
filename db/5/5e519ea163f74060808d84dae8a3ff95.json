@@ -2,10 +2,10 @@
   "ID": "5e519ea163f74060808d84dae8a3ff95",
   "Name": "Black Hair Girl is Best Girl",
   "ProductSlug": "black-hair-girl-is-best-girl-415031",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-10T04:00:00+00:00",
     "PcReleaseDate": "2023-11-10T04:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-11T10:00:24.3529499+00:00",
   "LastUpdate_AppInfo": "2024-03-15T21:57:22.1908676+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:27.3659043+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:42.0197042+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:50.4665227+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:31.7202726+00:00"
 }

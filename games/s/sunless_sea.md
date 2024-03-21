@@ -6,63 +6,63 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,204 |
-| Sweet Sorrow | 18.00% | ~8,102 |
-| Rules the Waves | 17.00% | ~7,652 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,752 |
-| Rival | 14.00% | ~6,302 |
-| Correspondent | 12.00% | ~5,401 |
-| Lose Your Mind | 12.00% | ~5,401 |
-| Sound Mind? | 12.00% | ~5,401 |
-| Salt's Curse | 11.00% | ~4,951 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,951 |
-| The Fall of the House | 11.00% | ~4,951 |
-| Shipmate | 11.00% | ~4,951 |
-| One Year at Zee | 8.00% | ~3,601 |
-| The Ascent of Man | 7.00% | ~3,151 |
-| Pupil | 6.00% | ~2,701 |
-| Salvager | 6.00% | ~2,701 |
-| Open Your Ears | 6.00% | ~2,701 |
-| Zee Fever | 5.00% | ~2,251 |
-| Old Unhappy Far-Off Things | 4.00% | ~1,800 |
-| Sink Beneath the Waves. Again. | 4.00% | ~1,800 |
-| Storm's Curse | 3.00% | ~1,350 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,350 |
-| Come Closer | 3.00% | ~1,350 |
-| Roaring Rise | 2.00% | ~900 |
-| I am the Captain of my Soul | 2.00% | ~900 |
-| A buoyant escape | 1.00% | ~450 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~450 |
-| The Bell Tolls | 1.00% | ~450 |
-| Knife, Cup and Bone | 1.00% | ~450 |
-| A current under zee | 1.00% | ~450 |
-| Never Stop Sinking... | 0.90% | ~405 |
-| His bones in whispers | 0.90% | ~405 |
-| The beauty of the deep | 0.90% | ~405 |
-| The dragon in the zee | 0.90% | ~405 |
-| Thanks for all the fish | 0.90% | ~405 |
-| Those are pearls that were his eyes | 0.90% | ~405 |
-| No regrets | 0.90% | ~405 |
-| Rosewater sailor | 0.90% | ~405 |
-| Under the zee | 0.90% | ~405 |
-| Depth charge | 0.90% | ~405 |
-| A zee-change | 0.80% | ~360 |
-| Leviathan | 0.80% | ~360 |
-| What lies beneath | 0.70% | ~315 |
-| Stone's Curse | 0.70% | ~315 |
-| Five Years at Zee | 0.50% | ~225 |
-| The Lady's Parlour | 0.20% | ~90 |
-| A Past Wreathed in Shadows | 0.20% | ~90 |
-| Under pressure | 0.20% | ~90 |
-| A Drownie devotee | 0.10% | ~45 |
-| Romans 6:9 | 0.10% | ~45 |
-| Ofermod | 0.10% | ~45 |
-| Consider Phlebas | 0.10% | ~45 |
-| Death By Water | 0.10% | ~45 |
-| Ten Years at Zee | 0.10% | ~45 |
+| Sink Beneath the Waves | 36.00% | ~17,313 |
+| Sweet Sorrow | 18.00% | ~8,657 |
+| Rules the Waves | 17.00% | ~8,176 |
+| Thou, All-Shaking Thunder | 15.00% | ~7,214 |
+| Rival | 14.00% | ~6,733 |
+| Correspondent | 12.00% | ~5,771 |
+| Lose Your Mind | 12.00% | ~5,771 |
+| Sound Mind? | 12.00% | ~5,771 |
+| Salt's Curse | 11.00% | ~5,290 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~5,290 |
+| The Fall of the House | 11.00% | ~5,290 |
+| Shipmate | 11.00% | ~5,290 |
+| One Year at Zee | 8.00% | ~3,847 |
+| The Ascent of Man | 7.00% | ~3,366 |
+| Pupil | 6.00% | ~2,886 |
+| Salvager | 6.00% | ~2,886 |
+| Open Your Ears | 6.00% | ~2,886 |
+| Zee Fever | 5.00% | ~2,405 |
+| Old Unhappy Far-Off Things | 4.00% | ~1,924 |
+| Sink Beneath the Waves. Again. | 4.00% | ~1,924 |
+| Storm's Curse | 3.00% | ~1,443 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,443 |
+| Come Closer | 3.00% | ~1,443 |
+| Roaring Rise | 2.00% | ~962 |
+| I am the Captain of my Soul | 2.00% | ~962 |
+| A buoyant escape | 1.00% | ~481 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~481 |
+| The Bell Tolls | 1.00% | ~481 |
+| Knife, Cup and Bone | 1.00% | ~481 |
+| A current under zee | 1.00% | ~481 |
+| Never Stop Sinking... | 0.90% | ~433 |
+| His bones in whispers | 0.90% | ~433 |
+| The beauty of the deep | 0.90% | ~433 |
+| The dragon in the zee | 0.90% | ~433 |
+| Thanks for all the fish | 0.90% | ~433 |
+| Those are pearls that were his eyes | 0.90% | ~433 |
+| No regrets | 0.90% | ~433 |
+| Rosewater sailor | 0.90% | ~433 |
+| Under the zee | 0.90% | ~433 |
+| A zee-change | 0.80% | ~385 |
+| Leviathan | 0.80% | ~385 |
+| Depth charge | 0.80% | ~385 |
+| What lies beneath | 0.70% | ~337 |
+| Stone's Curse | 0.70% | ~337 |
+| Five Years at Zee | 0.50% | ~240 |
+| The Lady's Parlour | 0.20% | ~96 |
+| A Past Wreathed in Shadows | 0.20% | ~96 |
+| Under pressure | 0.20% | ~96 |
+| A Drownie devotee | 0.10% | ~48 |
+| Romans 6:9 | 0.10% | ~48 |
+| Ofermod | 0.10% | ~48 |
+| Consider Phlebas | 0.10% | ~48 |
+| Death By Water | 0.10% | ~48 |
+| Ten Years at Zee | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,012 (Ranked 135)  
-Completed: 4 (0.01%) (Ranked 399)  
+Progressed: 48,092 (Ranked 142)  
+Completed: 4 (0.01%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,6 +344,7 @@ Completed: 4 (0.01%) (Ranked 399)
 | 2024-01-25 | 44,932 | 4 |
 | 2024-01-26 | 44,990 | 4 |
 | 2024-01-27 | 45,012 | 4 |
+| 2024-03-21 | 48,092 | 4 |
 ## Awards
 Max (Character Customization): 228  (Ranked 302)  
 Sum: 388 (Ranked 377)  

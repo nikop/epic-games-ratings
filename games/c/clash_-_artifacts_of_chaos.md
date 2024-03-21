@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Declawing | 66.00% | ~114 |
-| Target Practice | 47.00% | ~81 |
-| The Bigger They Are | 35.00% | ~60 |
-| Over the Moon | 33.00% | ~57 |
-| Enemies of Fate | 33.00% | ~57 |
-| Your Training Continues | 31.00% | ~53 |
-| Armored | 30.00% | ~52 |
-| Amokuali Tower | 28.00% | ~48 |
-| Freedom | 27.00% | ~46 |
-| Winner | 24.00% | ~41 |
-| The Pride of Moozhaw | 23.00% | ~40 |
-| Omnia Vincit Amor | 23.00% | ~40 |
-| Stilt House | 16.00% | ~28 |
-| Armor Collector | 13.00% | ~22 |
-| Corwid Hill | 12.00% | ~21 |
-| Total Eclipse | 9.00% | ~15 |
-| Dreamwalker | 9.00% | ~15 |
-| Your Training Is Complete | 7.00% | ~12 |
-| Red in Tooth and Claw | 6.00% | ~10 |
-| Vivid Dreams | 2.00% | ~3 |
+| Declawing | 64.00% | ~123 |
+| Target Practice | 47.00% | ~90 |
+| The Bigger They Are | 33.00% | ~63 |
+| Over the Moon | 32.00% | ~61 |
+| Enemies of Fate | 31.00% | ~60 |
+| Your Training Continues | 30.00% | ~58 |
+| Armored | 29.00% | ~56 |
+| Freedom | 27.00% | ~52 |
+| Amokuali Tower | 27.00% | ~52 |
+| Winner | 23.00% | ~44 |
+| The Pride of Moozhaw | 22.00% | ~42 |
+| Omnia Vincit Amor | 22.00% | ~42 |
+| Stilt House | 15.00% | ~29 |
+| Armor Collector | 13.00% | ~25 |
+| Corwid Hill | 12.00% | ~23 |
+| Dreamwalker | 9.00% | ~17 |
+| Your Training Is Complete | 8.00% | ~15 |
+| Total Eclipse | 8.00% | ~15 |
+| Red in Tooth and Claw | 6.00% | ~12 |
+| Vivid Dreams | 2.00% | ~4 |
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172 (Ranked 470)  
-Completed: 1 (0.58%) (Ranked 226)  
+Progressed: 192 (Ranked 485)  
+Completed: 1 (0.52%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,6 +108,7 @@ Completed: 1 (0.58%) (Ranked 226)
 | 2024-01-20 | 165 | 1 |
 | 2024-01-21 | 166 | 1 |
 | 2024-02-22 | 172 | 1 |
+| 2024-03-21 | 192 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

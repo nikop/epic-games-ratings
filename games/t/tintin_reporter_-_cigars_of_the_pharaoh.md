@@ -4,46 +4,46 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 80.00% | ~114 |
-| A Loyal Friend | 43.00% | ~61 |
-| Abandon Ship! | 34.00% | ~49 |
-| The Tomb of Kih-Oskh | 29.00% | ~41 |
-| The Weighing of the Soul | 27.00% | ~39 |
-| The Curse of Kih-Oskh | 20.00% | ~29 |
-| It's a Deal! | 17.00% | ~24 |
-| Cat Lover | 15.00% | ~21 |
-| Dynamite, Treason and Coconuts | 15.00% | ~21 |
-| Save a Friend | 15.00% | ~21 |
-| In the Name of the Law | 14.00% | ~20 |
-| Au Revoir, Abudin | 14.00% | ~20 |
-| Mysterious Bungalow | 13.00% | ~19 |
-| The Eyes! | 12.00% | ~17 |
-| Keep the Doctor Away | 11.00% | ~16 |
-| Just a Palm Tree | 11.00% | ~16 |
-| Punctual | 11.00% | ~16 |
-| Under the Hood | 10.00% | ~14 |
-| Long Live Gaipajama! | 10.00% | ~14 |
-| Eyes Shut | 10.00% | ~14 |
-| Barking Dog | 9.00% | ~13 |
-| Tintin, Reporter | 8.00% | ~11 |
-| Mountain Runner | 8.00% | ~11 |
-| Mummy Nightmare | 7.00% | ~10 |
-| Subtlety | 7.00% | ~10 |
-| Jungle Runner | 3.00% | ~4 |
-| A Yummy Detour | 3.00% | ~4 |
-| Threat | 3.00% | ~4 |
-| The Corporal's Golden Boy | 2.00% | ~3 |
-| Guilt | 2.00% | ~3 |
-| A Diagnosis | 1.00% | ~1 |
-| The Pharaoh's New Clothes | 1.00% | ~1 |
-| Trials of Kih-Oskh | 0.70% | ~1 |
-| Broken Brotherhood | 0.70% | ~1 |
-| Cookie Accomplished | 0.00% | ~0 |
+| My Papyrus! | 79.00% | ~141 |
+| A Loyal Friend | 43.00% | ~77 |
+| Abandon Ship! | 35.00% | ~62 |
+| The Tomb of Kih-Oskh | 29.00% | ~52 |
+| The Weighing of the Soul | 25.00% | ~44 |
+| The Curse of Kih-Oskh | 21.00% | ~37 |
+| It's a Deal! | 19.00% | ~34 |
+| Dynamite, Treason and Coconuts | 17.00% | ~30 |
+| Save a Friend | 17.00% | ~30 |
+| In the Name of the Law | 16.00% | ~28 |
+| Au Revoir, Abudin | 16.00% | ~28 |
+| Cat Lover | 16.00% | ~28 |
+| Mysterious Bungalow | 15.00% | ~27 |
+| The Eyes! | 13.00% | ~23 |
+| Keep the Doctor Away | 13.00% | ~23 |
+| Punctual | 13.00% | ~23 |
+| Just a Palm Tree | 12.00% | ~21 |
+| Under the Hood | 12.00% | ~21 |
+| Eyes Shut | 12.00% | ~21 |
+| Barking Dog | 12.00% | ~21 |
+| Long Live Gaipajama! | 11.00% | ~20 |
+| Tintin, Reporter | 10.00% | ~18 |
+| Subtlety | 8.00% | ~14 |
+| Mummy Nightmare | 7.00% | ~12 |
+| Mountain Runner | 7.00% | ~12 |
+| A Yummy Detour | 4.00% | ~7 |
+| The Corporal's Golden Boy | 3.00% | ~5 |
+| Jungle Runner | 3.00% | ~5 |
+| The Pharaoh's New Clothes | 3.00% | ~5 |
+| Guilt | 3.00% | ~5 |
+| Threat | 3.00% | ~5 |
+| Trials of Kih-Oskh | 2.00% | ~4 |
+| Escaping War | 2.00% | ~4 |
+| Cookie Accomplished | 1.00% | ~2 |
+| A Diagnosis | 1.00% | ~2 |
+| Broken Brotherhood | 0.60% | ~1 |
 | Flying Ace | 0.00% | ~0 |
-| Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143 (Ranked 489)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 178 (Ranked 495)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -103,3 +103,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-21 | 141 | 0 |
 | 2024-01-22 | 142 | 0 |
 | 2024-01-23 | 143 | 0 |
+| 2024-03-21 | 178 | 0 |

@@ -4,63 +4,63 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 98.00% | ~114 |
-| Rehearsal | 97.00% | ~113 |
-| Daily Life | 94.00% | ~109 |
-| Assembly Line Work | 91.00% | ~106 |
-| Solitude | 87.00% | ~101 |
-| Pinewood, Here we come! | 79.00% | ~92 |
-| The Van | 73.00% | ~85 |
-| Road-Trip | 67.00% | ~78 |
-| A Musical Pause | 66.00% | ~77 |
-| Briget's | 56.00% | ~65 |
-| Sound of Noise | 51.00% | ~59 |
-| Big City Music | 50.00% | ~58 |
+| ECG | 98.00% | ~116 |
+| Rehearsal | 97.00% | ~114 |
+| Daily Life | 94.00% | ~111 |
+| Assembly Line Work | 92.00% | ~109 |
+| Solitude | 87.00% | ~103 |
+| Pinewood, Here we come! | 80.00% | ~94 |
+| The Van | 74.00% | ~87 |
+| Road-Trip | 67.00% | ~79 |
+| A Musical Pause | 65.00% | ~77 |
+| Briget's | 55.00% | ~65 |
+| Big City Music | 50.00% | ~59 |
+| Sound of Noise | 50.00% | ~59 |
 | Love at First Sight | 47.00% | ~55 |
-| First Kiss | 41.00% | ~48 |
-| Symbiosis | 39.00% | ~45 |
+| First Kiss | 40.00% | ~47 |
+| Symbiosis | 38.00% | ~45 |
 | A Bigger Band | 35.00% | ~41 |
-| Fuel | 32.00% | ~37 |
-| Alone Together | 32.00% | ~37 |
+| Fuel | 31.00% | ~37 |
+| Alone Together | 31.00% | ~37 |
 | Threatening Nature | 30.00% | ~35 |
 | Flat Tire | 29.00% | ~34 |
-| TV Dreams | 28.00% | ~32 |
+| TV Dreams | 29.00% | ~34 |
 | The Clash | 24.00% | ~28 |
 | Dreamers | 23.00% | ~27 |
-| The Fix | 22.00% | ~26 |
+| The Fix | 21.00% | ~25 |
 | Time | 19.00% | ~22 |
 | Bad Trip | 16.00% | ~19 |
-| Regrets | 16.00% | ~19 |
 | The Mountains, The Valleys | 16.00% | ~19 |
-| Chase the Crow | 14.00% | ~16 |
+| Regrets | 15.00% | ~18 |
+| Chase the Crow | 14.00% | ~17 |
 | The Accident | 13.00% | ~15 |
 | The Awakening | 13.00% | ~15 |
 | Love | 12.00% | ~14 |
 | Flight of the Bumblebee | 12.00% | ~14 |
 | Here we go again! | 11.00% | ~13 |
 | As the Crow Flies | 10.00% | ~12 |
-| Milk and Alcohol | 9.00% | ~10 |
+| Milk and Alcohol | 8.00% | ~9 |
 | Under the Bridge | 7.00% | ~8 |
 | Gasoline | 6.00% | ~7 |
 | On the Road Again | 6.00% | ~7 |
 | Hospital Flowers | 6.00% | ~7 |
 | Unintended | 6.00% | ~7 |
-| Riders on the Storm | 3.00% | ~3 |
-| Under my Wheels | 3.00% | ~3 |
-| The Fight Song | 3.00% | ~3 |
-| All Apologies | 3.00% | ~3 |
+| Riders on the Storm | 3.00% | ~4 |
+| Under my Wheels | 3.00% | ~4 |
+| The Fight Song | 3.00% | ~4 |
+| All Apologies | 3.00% | ~4 |
 | Voodoo Child | 2.00% | ~2 |
 | Purple Haze | 2.00% | ~2 |
 | The Show Must Go On | 2.00% | ~2 |
 | Carry On | 2.00% | ~2 |
 | Killer Cars | 2.00% | ~2 |
 | Stairway to Heaven | 2.00% | ~2 |
-| Closer | 0.90% | ~1 |
-| Pinewood | 0.90% | ~1 |
-| Love is All | 0.90% | ~1 |
+| Closer | 0.80% | ~1 |
+| Pinewood | 0.80% | ~1 |
+| Love is All | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 504)  
-Completed: 1 (0.86%) (Ranked 203)  
+Progressed: 118 (Ranked 534)  
+Completed: 1 (0.85%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,6 +115,7 @@ Completed: 1 (0.86%) (Ranked 203)
 | 2024-01-08 | 114 | 1 |
 | 2024-01-23 | 115 | 1 |
 | 2024-02-22 | 116 | 1 |
+| 2024-03-21 | 118 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

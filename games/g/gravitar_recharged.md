@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Virus From Outer Space | 13.00% | ~1 |
-| Big Science | 13.00% | ~1 |
-| Born, Never Asked | 13.00% | ~1 |
-| Closed Circuits | 13.00% | ~1 |
-| Difficult Hour | 13.00% | ~1 |
-| Let X=X | 13.00% | ~1 |
-| Looking For You | 13.00% | ~1 |
-| O, Superman | 13.00% | ~1 |
-| Say Hello | 13.00% | ~1 |
-| The Mailman's Nightmare | 13.00% | ~1 |
-| Violin Solo | 13.00% | ~1 |
-| Violin Walk | 13.00% | ~1 |
-| Walking And Falling | 13.00% | ~1 |
-| Dance Of Electricity | 0.00% | ~0 |
-| Finnish Farmers | 0.00% | ~0 |
-| From The Air | 0.00% | ~0 |
-| If You Can't Talk About It, Point To It | 0.00% | ~0 |
-| Red Map | 0.00% | ~0 |
-| Walk The Dog | 0.00% | ~0 |
+| Big Science | 5.00% | ~116 |
+| If You Can't Talk About It, Point To It | 4.00% | ~93 |
+| Walking And Falling | 3.00% | ~69 |
+| Let X=X | 1.00% | ~23 |
+| Violin Walk | 0.70% | ~16 |
+| Born, Never Asked | 0.60% | ~14 |
+| A Virus From Outer Space | 0.30% | ~7 |
+| Difficult Hour | 0.30% | ~7 |
+| Say Hello | 0.30% | ~7 |
+| Closed Circuits | 0.20% | ~5 |
+| O, Superman | 0.20% | ~5 |
+| Dance Of Electricity | 0.10% | ~2 |
+| Finnish Farmers | 0.10% | ~2 |
+| From The Air | 0.10% | ~2 |
+| Looking For You | 0.10% | ~2 |
+| Red Map | 0.10% | ~2 |
+| The Mailman's Nightmare | 0.10% | ~2 |
+| Violin Solo | 0.10% | ~2 |
+| Walk The Dog | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 717)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 2,315 (Ranked 267)  
+Completed: 1 (0.04%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -36,6 +36,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-23 | 6 | 0 |
 | 2024-01-24 | 7 | 0 |
 | 2024-01-25 | 8 | 0 |
+| 2024-03-21 | 2,315 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,31 +6,31 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~14,496 |
-| Battering Crew | 19.00% | ~6,886 |
-| The Kingsroad | 17.00% | ~6,161 |
-| Well Stocked | 13.00% | ~4,711 |
-| Royal Fleet | 12.00% | ~4,349 |
-| The Kraken’s Grasp | 8.00% | ~2,899 |
-| Alliance | 8.00% | ~2,899 |
-| Daggers in the Dark | 7.00% | ~2,537 |
-| Oathkeeper | 7.00% | ~2,537 |
-| Influential | 7.00% | ~2,537 |
-| A Long Journey | 7.00% | ~2,537 |
-| Ours is the Fury | 6.00% | ~2,174 |
-| We Do Not Sow | 6.00% | ~2,174 |
-| Winter is Coming | 6.00% | ~2,174 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,812 |
-| Hear me Roar! | 5.00% | ~1,812 |
-| Defender of the Wall | 5.00% | ~1,812 |
-| Growing Strong | 4.00% | ~1,450 |
-| What is Dead may Never Die | 3.00% | ~1,087 |
-| King in the North | 2.00% | ~725 |
-| The Swift | 2.00% | ~725 |
-| War of the Five Kings | 1.00% | ~362 |
+| Conqueror | 40.00% | ~15,170 |
+| Battering Crew | 19.00% | ~7,206 |
+| The Kingsroad | 17.00% | ~6,447 |
+| Well Stocked | 13.00% | ~4,930 |
+| Royal Fleet | 12.00% | ~4,551 |
+| The Kraken’s Grasp | 8.00% | ~3,034 |
+| Alliance | 8.00% | ~3,034 |
+| Daggers in the Dark | 7.00% | ~2,655 |
+| Oathkeeper | 7.00% | ~2,655 |
+| Influential | 7.00% | ~2,655 |
+| A Long Journey | 7.00% | ~2,655 |
+| Ours is the Fury | 6.00% | ~2,276 |
+| We Do Not Sow | 6.00% | ~2,276 |
+| Winter is Coming | 6.00% | ~2,276 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,896 |
+| Hear me Roar! | 5.00% | ~1,896 |
+| Defender of the Wall | 5.00% | ~1,896 |
+| Growing Strong | 4.00% | ~1,517 |
+| What is Dead may Never Die | 3.00% | ~1,138 |
+| King in the North | 2.00% | ~758 |
+| The Swift | 2.00% | ~758 |
+| War of the Five Kings | 1.00% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,241 (Ranked 144)  
-Completed: 94 (0.26%) (Ranked 284)  
+Progressed: 37,925 (Ranked 149)  
+Completed: 98 (0.26%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,6 +313,7 @@ Completed: 94 (0.26%) (Ranked 284)
 | 2024-01-26 | 34,386 | 89 |
 | 2024-01-27 | 34,414 | 89 |
 | 2024-02-22 | 36,241 | 94 |
+| 2024-03-21 | 37,925 | 98 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 369)  
 Sum: 826 (Ranked 303)  

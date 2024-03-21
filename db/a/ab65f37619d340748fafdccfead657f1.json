@@ -2,10 +2,10 @@
   "ID": "ab65f37619d340748fafdccfead657f1",
   "Name": "Ocean\u0027s Heart",
   "ProductSlug": "oceans-heart-2583e3",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-01-21T18:00:00+00:00",
@@ -28,9 +28,179 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-03-21T17:07:34.2392368+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach_abyss",
+      "SetID": "32042j2",
+      "Name": "The Abyss",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_abyss_beast",
+      "SetID": "32042j2",
+      "Name": "Heart of the Earth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_all_items",
+      "SetID": "32042j2",
+      "Name": "Encumbered",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_all_monster_parts",
+      "SetID": "32042j2",
+      "Name": "Hunter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_all_plants",
+      "SetID": "32042j2",
+      "Name": "Botanist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_all_sidequests",
+      "SetID": "32042j2",
+      "Name": "Excessively Helpful",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_ancient_groves",
+      "SetID": "32042j2",
+      "Name": "The Ancient Groves",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_brickenbranch",
+      "SetID": "32042j2",
+      "Name": "Brickenbranch Island",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_crow_lord",
+      "SetID": "32042j2",
+      "Name": "The Crow Lord",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_cursed_blackbeard",
+      "SetID": "32042j2",
+      "Name": "One Hand Tied Behind My Blackbeard",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_cursed_temple",
+      "SetID": "32042j2",
+      "Name": "Temple of Trials",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_exploding_flail",
+      "SetID": "32042j2",
+      "Name": "That Was a Dumb Item",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_footrace",
+      "SetID": "32042j2",
+      "Name": "Fleet Feet",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_kill_blackbeard",
+      "SetID": "32042j2",
+      "Name": "Ocean\u0027s Heart",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_lighthouses",
+      "SetID": "32042j2",
+      "Name": "Zephyrine\u0027s Call",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_magic_spells",
+      "SetID": "32042j2",
+      "Name": "Forgotten Magic",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_no_hit_path",
+      "SetID": "32042j2",
+      "Name": "Fragile Flower",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_oakport_arena",
+      "SetID": "32042j2",
+      "Name": "Pit of Scoundrels",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_seabird_tear",
+      "SetID": "32042j2",
+      "Name": "Seabird\u0027s Tear",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_silent_glade",
+      "SetID": "32042j2",
+      "Name": "The Last Chieftan",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_thorn_monk",
+      "SetID": "32042j2",
+      "Name": "Exiled Monk",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "32042j2",
@@ -40,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T13:08:12.3687374+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:04.8363699+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:34.239235+00:00",
   "LastUpdate_AppInfo": "2024-03-20T23:57:15.9238228+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:40.2034318+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:04.8363717+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:08.2246304+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:34.2402345+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 1111,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 310,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -139,7 +139,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1025,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -4279,6 +4279,11 @@
       "Time": "2024-02-22T21:03:37.4098395+00:00",
       "NumProgressed": 1025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:38.8841503+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4298,7 +4303,7 @@
       "Name": "A Student of History",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "COMPLETE_ALL_HISTORIC BATTLES_HIGHEST_MEDAL",
@@ -4314,7 +4319,7 @@
       "Name": "From the Pages of History",
       "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -4322,7 +4327,7 @@
       "Name": "War with Friends",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -4338,7 +4343,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -4346,7 +4351,7 @@
       "Name": "That\u0027s Not What Happened",
       "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "USE_UNDERMINE",
@@ -4354,7 +4359,7 @@
       "Name": "Earth Shattering",
       "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 451
+      "UsersEstimate": 476
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -4362,7 +4367,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 151
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -4370,7 +4375,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 144
+      "UsersEstimate": 151
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4378,14 +4383,14 @@
       "Name": "Nothing Can Stop Us!",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 1025,
+      "Progressed": 1081,
       "Completed": 0
     }
   ],
@@ -4393,8 +4398,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-03-15T21:59:06.6858295+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:37.4098389+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:38.8841497+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:02.4898193+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:29.052902+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:37.409876+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:53.1043648+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:38.8841817+00:00"
 }

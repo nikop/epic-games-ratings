@@ -2,10 +2,10 @@
   "ID": "03aba521977a4c4d9c550a15ffcb35cc",
   "Name": "In The Gym",
   "ProductSlug": "in-the-gym-db2771",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-23T18:51:35.307+00:00",
     "PcReleaseDate": "2023-01-27T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-20T01:37:20.8431244+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:26.9732977+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:35.2827302+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:29.1224172+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:54.5727808+00:00"
 }

@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 43.00% | ~154 |
-| Animal Lover | 32.00% | ~115 |
-| Don't Breathe | 30.00% | ~108 |
-| Smooth Operator | 15.00% | ~54 |
-| Easy Listening | 14.00% | ~50 |
-| Perfect Harmony! | 12.00% | ~43 |
-| Rapturous Applause! | 12.00% | ~43 |
-| Bull in a China Shop | 9.00% | ~32 |
-| Wales Interactive | 9.00% | ~32 |
-| Chief Butler | 8.00% | ~29 |
-| Sker Explorer | 4.00% | ~14 |
-| Phonic Boom | 2.00% | ~7 |
-| The Long Night | 2.00% | ~7 |
+| Choking Hazard | 44.00% | ~170 |
+| Animal Lover | 31.00% | ~120 |
+| Don't Breathe | 31.00% | ~120 |
+| Smooth Operator | 15.00% | ~58 |
+| Easy Listening | 14.00% | ~54 |
+| Perfect Harmony! | 12.00% | ~46 |
+| Rapturous Applause! | 12.00% | ~46 |
+| Bull in a China Shop | 9.00% | ~35 |
+| Wales Interactive | 9.00% | ~35 |
+| Chief Butler | 7.00% | ~27 |
+| Sker Explorer | 4.00% | ~15 |
+| Phonic Boom | 2.00% | ~8 |
+| The Long Night | 2.00% | ~8 |
 | Ending on a High Note | 1.00% | ~4 |
 | Luddite | 0.80% | ~3 |
 | Maids of Sker | 0.80% | ~3 |
 | Scholar | 0.80% | ~3 |
-| In Darkness | 0.60% | ~2 |
-| Axe of Kindness | 0.30% | ~1 |
+| Axe of Kindness | 0.50% | ~2 |
+| In Darkness | 0.50% | ~2 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |
 | Hard Times | 0.00% | ~0 |
@@ -35,8 +35,8 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 359 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 386 (Ranked 420)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,6 +150,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-24 | 318 | 0 |
 | 2024-01-26 | 320 | 0 |
 | 2024-02-22 | 359 | 0 |
+| 2024-03-21 | 386 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

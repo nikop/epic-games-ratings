@@ -2,10 +2,10 @@
   "ID": "7f872c3666b5464eaa1bb0241d3499eb",
   "Name": "I Saw Black Clouds",
   "ProductSlug": "i-saw-black-clouds-67008d",
-  "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 395,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 486,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.36,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.1686756+00:00",
@@ -1056,6 +1056,11 @@
       "Time": "2024-01-26T22:05:46.8164787+00:00",
       "NumProgressed": 440,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-03-21T17:08:02.2229523+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -1065,17 +1070,17 @@
       "ID": "all_endings",
       "SetID": "8b5dfcp",
       "Name": "All endings",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "believer",
       "SetID": "8b5dfcp",
       "Name": "Believer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 277
     },
     {
       "ID": "clear",
@@ -1083,7 +1088,7 @@
       "Name": "Clear",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "denial",
@@ -1091,15 +1096,15 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "end",
       "SetID": "8b5dfcp",
       "Name": "End",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 253
     },
     {
       "ID": "escape",
@@ -1107,7 +1112,7 @@
       "Name": "Escape",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 97
     },
     {
       "ID": "help",
@@ -1115,15 +1120,15 @@
       "Name": "Help",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "interpret",
       "SetID": "8b5dfcp",
       "Name": "Interpret",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "jack",
@@ -1131,31 +1136,31 @@
       "Name": "Jack",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 78
     },
     {
       "ID": "nonconsensual",
       "SetID": "8b5dfcp",
       "Name": "Nonconsensual",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 145
+      "UsersEstimate": 170
     },
     {
       "ID": "origin",
       "SetID": "8b5dfcp",
       "Name": "Origin",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 253
     },
     {
       "ID": "realist",
       "SetID": "8b5dfcp",
       "Name": "Realist",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 131
     },
     {
       "ID": "tough",
@@ -1163,7 +1168,7 @@
       "Name": "Tough",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 58
     },
     {
       "ID": "unfinished",
@@ -1171,22 +1176,22 @@
       "Name": "Unfinished",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "wrong",
       "SetID": "8b5dfcp",
       "Name": "Wrong",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 486,
       "Completed": 6
     }
   ],
@@ -1194,8 +1199,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:26.2640404+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:02.2229517+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:29.6451395+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:26.4457539+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:26.2640496+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:27.538414+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:02.2229736+00:00"
 }

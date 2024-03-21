@@ -2,10 +2,10 @@
   "ID": "89da53d6472d4b8f864f68e3bbd999a3",
   "Name": "12 orbits",
   "ProductSlug": "12-orbits-c48266",
-  "Ranking_EOS_Progress": 626,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 676,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-18T09:00:00+00:00",
     "PcReleaseDate": "2016-10-24T16:00:00+00:00",
@@ -270,9 +270,9 @@
       "ID": "ACHIEVEMENT_ColorManySpheresWithOneBlast",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Worth the trouble",
-      "Percentage": 9,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_DoNotDodge",
@@ -318,17 +318,17 @@
       "ID": "ACHIEVEMENT_InstantKarma",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Instant Karma",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_Modification",
       "SetID": "ahb97f7",
       "Name": "[Tier 1]\u2003Mix and match",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_PiercingShot",
@@ -366,9 +366,9 @@
       "ID": "ACHIEVEMENT_TeamEffort",
       "SetID": "ahb97f7",
       "Name": "[Tier 2]\u2003Team effort",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_TrailsPracticeScore1",
@@ -415,8 +415,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.7236131+00:00",
   "FirstSeenAchievements": "2023-06-14T13:12:06.2445404+00:00",
   "LastChanged": "2023-03-31T05:58:07.7236132+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:39.0261706+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:24.3262152+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:25.8948283+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:20.3909483+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:39.0261863+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:14.9435254+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:24.3262326+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1a7cbda7efe7435dabda1af662aeb1ba",
   "Name": "Zoeti",
   "ProductSlug": "zoeti-3ccef9",
-  "Ranking_EOS_Progress": 576,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
     "PcReleaseDate": "2023-04-20T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 56,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -264,6 +264,11 @@
       "Time": "2024-02-22T21:05:45.8425286+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:33.05898+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -281,9 +286,9 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "BOSS_KILL10",
@@ -305,9 +310,9 @@
       "ID": "BOSS_KILL12",
       "SetID": "1icc7kd",
       "Name": "Crystal Hunter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BOSS_KILL2",
@@ -315,29 +320,29 @@
       "Name": "Overcoming Weakness",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "BOSS_KILL3",
       "SetID": "1icc7kd",
       "Name": "Boulder Breaker",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BOSS_KILL4",
       "SetID": "1icc7kd",
       "Name": "Fence-Sitter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "BOSS_KILL5",
       "SetID": "1icc7kd",
       "Name": "Bye-Bye, Butcher",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -345,7 +350,7 @@
       "ID": "BOSS_KILL6",
       "SetID": "1icc7kd",
       "Name": "Rejected Parasite",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -385,7 +390,7 @@
       "ID": "CLEAR2",
       "SetID": "1icc7kd",
       "Name": "Danger",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -393,7 +398,7 @@
       "ID": "CLEAR3",
       "SetID": "1icc7kd",
       "Name": "A Twist of Fate",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -514,14 +519,14 @@
     {
       "ID": "1icc7kd",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 56,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:45.8425284+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:33.0589793+00:00",
   "LastUpdate_AppInfo": "2024-03-20T17:57:30.2627341+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:50.3680722+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:45.8425422+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:23.6930153+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:33.0590043+00:00"
 }

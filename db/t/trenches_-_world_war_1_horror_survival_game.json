@@ -2,10 +2,10 @@
   "ID": "3f8c5ea6916a4702b750d164a3580499",
   "Name": "Trenches - World War 1 Horror Survival Game",
   "ProductSlug": "trenches-world-war-1-horror-survival-game-7b72ee",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-28T09:00:00+00:00",
     "PcReleaseDate": "2023-01-20T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-01T17:59:11.7597088+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:03.3487959+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:39.2159675+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:34.7586393+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:05.7158807+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:33.1117951+00:00"
 }

@@ -6,57 +6,57 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,342 |
-| Keeping it classy | 27.00% | ~1,004 |
-| Welcome to the family | 21.00% | ~781 |
-| The finer things in life | 19.00% | ~706 |
-| Backpacker | 13.00% | ~483 |
-| Go with the Flow | 13.00% | ~483 |
-| Plastic Surgeon | 10.00% | ~372 |
-| The flip trick crown jewel | 10.00% | ~372 |
-| The hard way | 10.00% | ~372 |
-| Good vibes | 9.00% | ~335 |
-| Keep the dream alive | 9.00% | ~335 |
-| Upfront shredder | 9.00% | ~335 |
-| Bottom ply killer | 7.00% | ~260 |
-| Fashionista | 7.00% | ~260 |
-| Finally he zips it | 7.00% | ~260 |
-| That pinch! | 7.00% | ~260 |
-| Tight lipslides | 7.00% | ~260 |
-| Fulfilled the dream | 6.00% | ~223 |
-| G'Day Mate! | 6.00% | ~223 |
-| Purple passion | 6.00% | ~223 |
-| Squad goals | 6.00% | ~223 |
-| Sup widdit big dog! | 6.00% | ~223 |
-| Commence the Hijinx! | 5.00% | ~186 |
-| DIY Boss | 5.00% | ~186 |
-| Globetrotter | 5.00% | ~186 |
-| Laid back | 5.00% | ~186 |
-| Lines for days | 5.00% | ~186 |
-| Manny Destroys All | 5.00% | ~186 |
-| NAHELL! | 5.00% | ~186 |
-| Renaissance man | 5.00% | ~186 |
-| Trick shot marksman | 5.00% | ~186 |
-| We get it, you're good | 5.00% | ~186 |
-| Cops called! | 4.00% | ~149 |
-| G.O.A.T. status | 4.00% | ~149 |
-| Hoarder | 4.00% | ~149 |
-| Prince of Philly | 4.00% | ~149 |
-| Tank commander | 4.00% | ~149 |
-| Many plys later... | 3.00% | ~112 |
-| Pew-Pew | 3.00% | ~112 |
-| Cross lock country | 2.00% | ~74 |
-| That was wheelie fun | 2.00% | ~74 |
-| Dipped! | 1.00% | ~37 |
-| Skatepark hero | 1.00% | ~37 |
+| You're free now! | 64.00% | ~2,547 |
+| Keeping it classy | 28.00% | ~1,114 |
+| Welcome to the family | 21.00% | ~836 |
+| The finer things in life | 20.00% | ~796 |
+| Backpacker | 14.00% | ~557 |
+| Go with the Flow | 13.00% | ~517 |
+| Plastic Surgeon | 10.00% | ~398 |
+| The flip trick crown jewel | 10.00% | ~398 |
+| The hard way | 10.00% | ~398 |
+| Good vibes | 9.00% | ~358 |
+| Keep the dream alive | 9.00% | ~358 |
+| Upfront shredder | 9.00% | ~358 |
+| Bottom ply killer | 8.00% | ~318 |
+| Tight lipslides | 8.00% | ~318 |
+| Fashionista | 7.00% | ~279 |
+| Finally he zips it | 7.00% | ~279 |
+| That pinch! | 7.00% | ~279 |
+| Commence the Hijinx! | 6.00% | ~239 |
+| Fulfilled the dream | 6.00% | ~239 |
+| G'Day Mate! | 6.00% | ~239 |
+| Laid back | 6.00% | ~239 |
+| NAHELL! | 6.00% | ~239 |
+| Purple passion | 6.00% | ~239 |
+| Squad goals | 6.00% | ~239 |
+| Sup widdit big dog! | 6.00% | ~239 |
+| Cops called! | 5.00% | ~199 |
+| DIY Boss | 5.00% | ~199 |
+| Globetrotter | 5.00% | ~199 |
+| Lines for days | 5.00% | ~199 |
+| Manny Destroys All | 5.00% | ~199 |
+| Renaissance man | 5.00% | ~199 |
+| Trick shot marksman | 5.00% | ~199 |
+| We get it, you're good | 5.00% | ~199 |
+| G.O.A.T. status | 4.00% | ~159 |
+| Hoarder | 4.00% | ~159 |
+| Prince of Philly | 4.00% | ~159 |
+| Tank commander | 4.00% | ~159 |
+| Many plys later... | 3.00% | ~119 |
+| Pew-Pew | 3.00% | ~119 |
+| Cross lock country | 2.00% | ~80 |
+| That was wheelie fun | 2.00% | ~80 |
+| Dipped! | 1.00% | ~40 |
+| Skatepark hero | 1.00% | ~40 |
+| That's how it's done! | 0.20% | ~8 |
 | Bing Bong! | 0.10% | ~4 |
 | Golden! | 0.10% | ~4 |
 | Loves You Back | 0.10% | ~4 |
-| That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,718 (Ranked 231)  
-Completed: 2 (0.05%) (Ranked 358)  
+Progressed: 3,980 (Ranked 240)  
+Completed: 2 (0.05%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,6 +311,7 @@ Completed: 2 (0.05%) (Ranked 358)
 | 2024-01-24 | 3,716 | 2 |
 | 2024-01-26 | 3,717 | 2 |
 | 2024-01-27 | 3,718 | 2 |
+| 2024-03-21 | 3,980 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 74  (Ranked 438)  
 Sum: 642 (Ranked 335)  

@@ -2,10 +2,10 @@
   "ID": "78f9ed2320784e4f95ecd6e689f81e2f",
   "Name": "GeoJelly",
   "ProductSlug": "geojelly-a44cfe",
-  "Ranking_EOS_Progress": 572,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 615,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-07T18:00:00+00:00",
     "PcReleaseDate": "2023-06-07T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.75,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-05-09T08:01:56.5960176+00:00",
@@ -309,6 +309,11 @@
       "Time": "2024-02-22T21:05:12.7330482+00:00",
       "NumProgressed": 57,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:10:49.2893689+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-20T13:09:34.3755385+00:00",
@@ -359,7 +364,7 @@
       "ID": "COMPLETE_BASEMENT",
       "SetID": "dademeo",
       "Name": "Complete basement",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 75,
       "UsersEstimate": 6
     },
@@ -375,9 +380,9 @@
       "ID": "COMPLETE_LAB",
       "SetID": "dademeo",
       "Name": "Complete lab",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_OUTSIDE",
@@ -391,17 +396,17 @@
       "ID": "JUMPER_100",
       "SetID": "dademeo",
       "Name": "Jumper 100",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "JUMPER_1000",
       "SetID": "dademeo",
       "Name": "Jumper 1000",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "JUMPER_5000",
@@ -431,7 +436,7 @@
       "ID": "JUSTICE_IS_LOST",
       "SetID": "dademeo",
       "Name": "Justice Is Lost",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -439,9 +444,9 @@
       "ID": "PERFECTIONIST",
       "SetID": "dademeo",
       "Name": "Perfectionist",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "PICKED_NOTCH",
@@ -464,14 +469,14 @@
     {
       "ID": "dademeo",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-24T07:57:28.1262112+00:00",
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:12.7330477+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:10:49.2893682+00:00",
   "LastUpdate_AppInfo": "2024-03-20T11:57:50.2748332+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:06.1470248+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:12.7330575+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:10.3000686+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:49.2893827+00:00"
 }

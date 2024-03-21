@@ -2,10 +2,10 @@
   "ID": "14ec2c5dd11d47dc882f7eb519795498",
   "Name": "Rise of Gun",
   "ProductSlug": "rise-of-gun-73a9d9",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-25T23:00:00+00:00",
     "PcReleaseDate": "2023-10-17T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-26T09:58:35.6303944+00:00",
   "LastUpdate_AppInfo": "2024-03-17T23:57:16.1136667+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:21.005782+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:07.0675224+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:30.391246+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:16.8501661+00:00"
 }

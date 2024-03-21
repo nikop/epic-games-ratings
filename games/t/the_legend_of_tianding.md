@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 92.00% | ~109 |
-| Eat the Rich | 60.00% | ~71 |
-| Killing Machine | 45.00% | ~53 |
-| Death Battle | 41.00% | ~48 |
-| Phantom Kunoichi | 41.00% | ~48 |
-| Divine Retribution | 40.00% | ~47 |
-| Captain Mustache | 37.00% | ~44 |
-| Final Showdown | 34.00% | ~40 |
-| The End of an Outlaw | 33.00% | ~39 |
-| Dispel Rumors | 31.00% | ~37 |
-| Demon Slayer | 26.00% | ~31 |
+| Hero Arrives | 93.00% | ~113 |
+| Eat the Rich | 60.00% | ~73 |
+| Killing Machine | 46.00% | ~56 |
+| Death Battle | 41.00% | ~50 |
+| Phantom Kunoichi | 41.00% | ~50 |
+| Divine Retribution | 40.00% | ~49 |
+| Captain Mustache | 39.00% | ~48 |
+| Final Showdown | 34.00% | ~41 |
+| The End of an Outlaw | 34.00% | ~41 |
+| Dispel Rumors | 30.00% | ~37 |
+| Demon Slayer | 26.00% | ~32 |
 | Steal Her Away | 25.00% | ~30 |
 | Fight Fire With Fire | 25.00% | ~30 |
-| Sewer Rat | 24.00% | ~28 |
-| Urban Explorer | 23.00% | ~27 |
-| Big Eater | 22.00% | ~26 |
-| Coward | 22.00% | ~26 |
-| Not Today | 21.00% | ~25 |
-| Tour Guide | 19.00% | ~22 |
-| Tomb Raider | 19.00% | ~22 |
-| The Real O.G. | 18.00% | ~21 |
+| Sewer Rat | 24.00% | ~29 |
+| Urban Explorer | 23.00% | ~28 |
+| Big Eater | 21.00% | ~26 |
+| Coward | 21.00% | ~26 |
+| Tour Guide | 20.00% | ~24 |
+| Not Today | 20.00% | ~24 |
+| Tomb Raider | 20.00% | ~24 |
+| The Real O.G. | 17.00% | ~21 |
 | The Hero of the People | 14.00% | ~17 |
 | Talk to the Fist | 10.00% | ~12 |
 | Collector | 9.00% | ~11 |
-| Taoist | 8.00% | ~9 |
+| Taoist | 7.00% | ~9 |
 | The Legend | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 502)  
-Completed: 7 (5.93%) (Ranked 72)  
+Progressed: 122 (Ranked 531)  
+Completed: 7 (5.74%) (Ranked 77)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -95,6 +95,7 @@ Completed: 7 (5.93%) (Ranked 72)
 | 2024-01-21 | 93 | 6 |
 | 2024-01-23 | 94 | 6 |
 | 2024-02-22 | 118 | 7 |
+| 2024-03-21 | 122 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

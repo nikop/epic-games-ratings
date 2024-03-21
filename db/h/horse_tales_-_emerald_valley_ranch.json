@@ -2,10 +2,10 @@
   "ID": "d85b827464434f49b378c2cd47398b4c",
   "Name": "Horse Tales - Emerald Valley Ranch",
   "ProductSlug": "horse-tales-emerald-valley-ranch-240ae8",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-29T08:00:00+00:00",
     "PcReleaseDate": "2022-11-03T09:00:00+00:00",
@@ -31,12 +31,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:08:29.2062956+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2023-10-05T13:18:49.9542547+00:00",
   "TotalAchievements": 33,
   "TotalAchievementsXP": 1000,
@@ -53,57 +59,57 @@
       "ID": "ACH_001",
       "SetID": "9c8nc5o",
       "Name": "Newbie",
-      "Percentage": 0,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_002",
       "SetID": "9c8nc5o",
       "Name": "Builder",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_003",
       "SetID": "9c8nc5o",
       "Name": "Horse Whisperer",
-      "Percentage": 0,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_004",
       "SetID": "9c8nc5o",
       "Name": "A helping hand",
-      "Percentage": 0,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_005",
       "SetID": "9c8nc5o",
       "Name": "The Birds and the Bees",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_006",
       "SetID": "9c8nc5o",
       "Name": "Junior Show Jumper",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_007",
       "SetID": "9c8nc5o",
       "Name": "Racing horse",
-      "Percentage": 0,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_008",
@@ -117,17 +123,17 @@
       "ID": "ACH_009",
       "SetID": "9c8nc5o",
       "Name": "Tea Time",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_010",
       "SetID": "9c8nc5o",
       "Name": "Apple Pie",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_011",
@@ -149,49 +155,49 @@
       "ID": "ACH_013",
       "SetID": "9c8nc5o",
       "Name": "Bon app\u00E9tit!",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_014",
       "SetID": "9c8nc5o",
       "Name": "Masseur",
-      "Percentage": 0,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_015",
       "SetID": "9c8nc5o",
       "Name": "Squeaky clean",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_016",
       "SetID": "9c8nc5o",
       "Name": "Equine Coiffeur",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_017",
       "SetID": "9c8nc5o",
       "Name": "Rodeo Rider",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_018",
       "SetID": "9c8nc5o",
       "Name": "Beginner\u0027s Luck",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_019",
@@ -205,112 +211,112 @@
       "ID": "ACH_020",
       "SetID": "9c8nc5o",
       "Name": "Buckaroo",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_021",
       "SetID": "9c8nc5o",
       "Name": "Paranormal Investigator",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_022",
       "SetID": "9c8nc5o",
       "Name": "A Star On The Rise",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_023",
       "SetID": "9c8nc5o",
       "Name": "The Mastercrafter",
-      "Percentage": 0,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_024",
       "SetID": "9c8nc5o",
       "Name": "The Champion of Sneaky Ways",
-      "Percentage": 0,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_025",
       "SetID": "9c8nc5o",
       "Name": "Finding Esme\u00E9",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_026",
       "SetID": "9c8nc5o",
       "Name": "Finding Lili",
-      "Percentage": 0,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_027",
       "SetID": "9c8nc5o",
       "Name": "Friendship",
-      "Percentage": 0,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_028",
       "SetID": "9c8nc5o",
       "Name": "Party Crasher",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_029",
       "SetID": "9c8nc5o",
       "Name": "Legendary Steed",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_030",
       "SetID": "9c8nc5o",
       "Name": "Surprise!",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_031",
       "SetID": "9c8nc5o",
       "Name": "Dog Lover",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_032",
       "SetID": "9c8nc5o",
       "Name": "Cat Lover",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "9c8nc5o",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
@@ -318,8 +324,8 @@
   "FirstSeenRating": "2023-04-02T23:56:42.32472+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.2070772+00:00",
   "LastChanged": "2023-04-02T23:56:42.32472+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:46.6570018+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:29.206295+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:40.2311666+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:26.4853298+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:46.6570426+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:51.8950876+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:29.2063176+00:00"
 }

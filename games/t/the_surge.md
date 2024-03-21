@@ -6,76 +6,76 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,366 |
-| I'll Be Back | 84.00% | ~4,795 |
-| Sorry, I Dropped This | 76.00% | ~4,338 |
-| First Day on the Job | 75.00% | ~4,281 |
-| Butcher's Bill | 53.00% | ~3,025 |
-| P.A.X | 36.00% | ~2,055 |
-| Hey Listen | 35.00% | ~1,998 |
-| OPERATOR | 34.00% | ~1,941 |
-| It's Blue Light | 33.00% | ~1,884 |
-| Most Wanted | 26.00% | ~1,484 |
-| Infidel | 23.00% | ~1,313 |
-| Firebug | 20.00% | ~1,142 |
-| GOLIATH | 20.00% | ~1,142 |
-| I Choose You | 17.00% | ~970 |
-| Nothing to Lose | 17.00% | ~970 |
-| Big Sister | 15.00% | ~856 |
-| SENTINEL | 15.00% | ~856 |
-| Gear Up | 14.00% | ~799 |
-| The Black Cerberus | 12.00% | ~685 |
-| Watchman | 12.00% | ~685 |
-| Core Power | 12.00% | ~685 |
-| CREO Killed the Video Star | 11.00% | ~628 |
-| Who's in Charge Here? | 11.00% | ~628 |
-| Shall Not Pass | 11.00% | ~628 |
-| Right Tool for the Job | 10.00% | ~571 |
-| Melting Down | 9.00% | ~514 |
-| Raging Drones | 9.00% | ~514 |
-| Overconfident | 9.00% | ~514 |
-| Pusher Man | 8.00% | ~457 |
-| Squad Chief Helvig | 8.00% | ~457 |
-| No More Marching | 8.00% | ~457 |
-| Is This Real Life? | 8.00% | ~457 |
-| Duty-Bound | 7.00% | ~400 |
-| Follow the White Rabbit | 7.00% | ~400 |
-| Liberation | 7.00% | ~400 |
-| Risk Assessment | 7.00% | ~400 |
-| Sunglasses at Night | 6.00% | ~342 |
-| Carbon Cat | 6.00% | ~342 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~285 |
-| Man of Steel | 5.00% | ~285 |
-| Jack of All Trades | 5.00% | ~285 |
-| 3-2-1 | 5.00% | ~285 |
-| For the Good of Mankind | 4.00% | ~228 |
-| Rusty Rat | 4.00% | ~228 |
-| Desecration | 4.00% | ~228 |
-| Turing Test | 3.00% | ~171 |
-| Repeat Customer | 3.00% | ~171 |
-| Evolution Theory | 3.00% | ~171 |
-| Ghost in the Machine | 2.00% | ~114 |
-| Homo Machinalis | 2.00% | ~114 |
-| Was That Yours? | 2.00% | ~114 |
-| Guard Dog | 2.00% | ~114 |
-| Carbon Cat vs Iron Maus | 2.00% | ~114 |
-| Dress Up | 2.00% | ~114 |
-| New Gear | 2.00% | ~114 |
-| Good Listener | 2.00% | ~114 |
-| One-Armed Bandit | 2.00% | ~114 |
-| Episodic | 2.00% | ~114 |
-| End of Transmission | 2.00% | ~114 |
-| Gramophone Enthusiast | 2.00% | ~114 |
-| Bling-Bling | 1.00% | ~57 |
-| Sniffing Around | 0.80% | ~46 |
-| Suited and Booted | 0.70% | ~40 |
-| Tools of War | 0.70% | ~40 |
-| Brave New World | 0.60% | ~34 |
-| Modus Operandi | 0.60% | ~34 |
+| On My Own Two Feet | 94.00% | ~5,498 |
+| I'll Be Back | 84.00% | ~4,913 |
+| Sorry, I Dropped This | 76.00% | ~4,445 |
+| First Day on the Job | 75.00% | ~4,387 |
+| Butcher's Bill | 53.00% | ~3,100 |
+| P.A.X | 36.00% | ~2,106 |
+| Hey Listen | 35.00% | ~2,047 |
+| OPERATOR | 34.00% | ~1,989 |
+| It's Blue Light | 33.00% | ~1,930 |
+| Most Wanted | 26.00% | ~1,521 |
+| Infidel | 22.00% | ~1,287 |
+| Firebug | 20.00% | ~1,170 |
+| GOLIATH | 20.00% | ~1,170 |
+| I Choose You | 17.00% | ~994 |
+| Nothing to Lose | 17.00% | ~994 |
+| Big Sister | 15.00% | ~877 |
+| SENTINEL | 15.00% | ~877 |
+| Gear Up | 14.00% | ~819 |
+| The Black Cerberus | 12.00% | ~702 |
+| Watchman | 12.00% | ~702 |
+| Core Power | 12.00% | ~702 |
+| CREO Killed the Video Star | 11.00% | ~643 |
+| Who's in Charge Here? | 11.00% | ~643 |
+| Shall Not Pass | 11.00% | ~643 |
+| Right Tool for the Job | 10.00% | ~585 |
+| Melting Down | 9.00% | ~526 |
+| Raging Drones | 9.00% | ~526 |
+| Overconfident | 9.00% | ~526 |
+| Pusher Man | 8.00% | ~468 |
+| Squad Chief Helvig | 8.00% | ~468 |
+| No More Marching | 8.00% | ~468 |
+| Is This Real Life? | 8.00% | ~468 |
+| Duty-Bound | 7.00% | ~409 |
+| Follow the White Rabbit | 7.00% | ~409 |
+| Liberation | 7.00% | ~409 |
+| Risk Assessment | 7.00% | ~409 |
+| Sunglasses at Night | 6.00% | ~351 |
+| Carbon Cat | 6.00% | ~351 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~292 |
+| Man of Steel | 5.00% | ~292 |
+| Jack of All Trades | 5.00% | ~292 |
+| 3-2-1 | 5.00% | ~292 |
+| For the Good of Mankind | 4.00% | ~234 |
+| Rusty Rat | 4.00% | ~234 |
+| Desecration | 4.00% | ~234 |
+| Turing Test | 3.00% | ~175 |
+| Repeat Customer | 3.00% | ~175 |
+| Evolution Theory | 3.00% | ~175 |
+| Ghost in the Machine | 2.00% | ~117 |
+| Homo Machinalis | 2.00% | ~117 |
+| Was That Yours? | 2.00% | ~117 |
+| Guard Dog | 2.00% | ~117 |
+| Carbon Cat vs Iron Maus | 2.00% | ~117 |
+| Dress Up | 2.00% | ~117 |
+| New Gear | 2.00% | ~117 |
+| Good Listener | 2.00% | ~117 |
+| One-Armed Bandit | 2.00% | ~117 |
+| Episodic | 2.00% | ~117 |
+| End of Transmission | 2.00% | ~117 |
+| Gramophone Enthusiast | 2.00% | ~117 |
+| Bling-Bling | 1.00% | ~58 |
+| Sniffing Around | 0.80% | ~47 |
+| Modus Operandi | 0.70% | ~41 |
+| Suited and Booted | 0.70% | ~41 |
+| Tools of War | 0.70% | ~41 |
+| Brave New World | 0.60% | ~35 |
 | The Surge | 0.40% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,708 (Ranked 209)  
-Completed: 19 (0.33%) (Ranked 268)  
+Progressed: 5,849 (Ranked 219)  
+Completed: 20 (0.34%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,6 +315,7 @@ Completed: 19 (0.33%) (Ranked 268)
 | 2024-01-26 | 5,501 | 18 |
 | 2024-01-27 | 5,503 | 18 |
 | 2024-03-04 | 5,708 | 19 |
+| 2024-03-21 | 5,849 | 20 |
 ## Awards
 Max (Great Boss Battles): 33  (Ranked 540)  
 Sum: 33 (Ranked 575)  

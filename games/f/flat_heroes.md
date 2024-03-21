@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 74.00% | ~505 |
-| Snake Eyes | 61.00% | ~416 |
-| Be water, my friend | 58.00% | ~396 |
-| Fireball | 46.00% | ~314 |
-| The King of Flat | 46.00% | ~314 |
-| Hit That Ball | 35.00% | ~239 |
-| Air Slash | 33.00% | ~225 |
-| Eat That Apple | 25.00% | ~170 |
-| Tornado Chaser | 16.00% | ~109 |
-| Bomberman | 12.00% | ~82 |
-| Bubble Party | 9.00% | ~61 |
-| The Colossus | 8.00% | ~55 |
-| Floor is Lava | 6.00% | ~41 |
-| Pim Pam Pum | 6.00% | ~41 |
-| Dash Crash - Hero Edition | 5.00% | ~34 |
-| Ambush | 4.00% | ~27 |
-| Black Belt | 3.00% | ~20 |
+| Dash Crash | 75.00% | ~524 |
+| Snake Eyes | 61.00% | ~426 |
+| Be water, my friend | 58.00% | ~405 |
+| Fireball | 46.00% | ~321 |
+| The King of Flat | 45.00% | ~314 |
+| Hit That Ball | 35.00% | ~244 |
+| Air Slash | 33.00% | ~230 |
+| Eat That Apple | 25.00% | ~174 |
+| Tornado Chaser | 16.00% | ~112 |
+| Bomberman | 11.00% | ~77 |
+| Bubble Party | 9.00% | ~63 |
+| The Colossus | 8.00% | ~56 |
+| Floor is Lava | 7.00% | ~49 |
+| Pim Pam Pum | 6.00% | ~42 |
+| Dash Crash - Hero Edition | 5.00% | ~35 |
+| Ambush | 4.00% | ~28 |
+| Black Belt | 3.00% | ~21 |
 | Snake Eyes - Hero Edition | 2.00% | ~14 |
 | The King of Flat - Hero Edition | 2.00% | ~14 |
 | Quite The Hero | 2.00% | ~14 |
@@ -40,17 +40,17 @@
 | Rogue - Hero Edition | 0.30% | ~2 |
 | Dear Diary | 0.10% | ~1 |
 | Lone Wolf | 0.10% | ~1 |
+| Persistence | 0.10% | ~1 |
 | Warrior Trials | 0.10% | ~1 |
 | Explorer | 0.10% | ~1 |
 | Flat Hero | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 | Shepherd | 0.00% | ~0 |
 | Yondu | 0.00% | ~0 |
-| Persistence | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682 (Ranked 346)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 698 (Ranked 371)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,6 +156,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-20 | 677 | 0 |
 | 2024-01-24 | 678 | 0 |
 | 2024-02-22 | 682 | 0 |
+| 2024-03-21 | 698 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

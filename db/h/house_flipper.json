@@ -5,10 +5,10 @@
   "Ranking_Rating": 246,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 222,
-  "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Completed": 356,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2499,9 +2499,9 @@
       "Count": 229
     }
   ],
-  "EOS_Progressed": 22256,
+  "EOS_Progressed": 22768,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -14024,6 +14024,11 @@
       "Time": "2024-01-27T12:07:32.7825369+00:00",
       "NumProgressed": 22256,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-03-21T17:08:01.3307181+00:00",
+      "NumProgressed": 22768,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -14033,9 +14038,9 @@
       "ID": "BigFamily",
       "SetID": "d0jo315",
       "Name": "Family man",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2893
+      "UsersEstimate": 3188
     },
     {
       "ID": "CarMechanic",
@@ -14043,7 +14048,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "ChangChoi",
@@ -14051,7 +14056,7 @@
       "Name": "Nerd",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "DoItASAP",
@@ -14059,7 +14064,7 @@
       "Name": "Do it ASAP",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "DolanTrusk",
@@ -14067,7 +14072,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3188
     },
     {
       "ID": "EstateAgent",
@@ -14075,7 +14080,7 @@
       "Name": "Estate Agent",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1366
     },
     {
       "ID": "FirstMoney",
@@ -14083,7 +14088,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21143
+      "UsersEstimate": 21630
     },
     {
       "ID": "GameOver",
@@ -14091,7 +14096,7 @@
       "Name": "Game Over",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "GorgioShanua",
@@ -14099,7 +14104,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 668
+      "UsersEstimate": 683
     },
     {
       "ID": "JackTarinton",
@@ -14107,15 +14112,15 @@
       "Name": "Wall Street Shark",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 205
     },
     {
       "ID": "JimmyTraitor",
       "SetID": "d0jo315",
       "Name": "Mystery",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2504
     },
     {
       "ID": "JuniorEstateAgent",
@@ -14123,7 +14128,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2893
+      "UsersEstimate": 2960
     },
     {
       "ID": "KnockKnock",
@@ -14131,7 +14136,7 @@
       "Name": "Knock, knock",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 228
     },
     {
       "ID": "Millionaire",
@@ -14139,7 +14144,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1138
     },
     {
       "ID": "MrAndMrsJantart",
@@ -14147,7 +14152,7 @@
       "Name": "Just Enough",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4554
     },
     {
       "ID": "Negotiator",
@@ -14155,7 +14160,7 @@
       "Name": "Negotiator",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 205
     },
     {
       "ID": "Perfectionist",
@@ -14163,7 +14168,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1138
     },
     {
       "ID": "RafaelErko",
@@ -14171,7 +14176,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4554
     },
     {
       "ID": "SeniorEstateAgent",
@@ -14179,7 +14184,7 @@
       "Name": "Senior Estate Agent",
       "Percentage": 0.6,
       "XP": 150,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "SmothFamily",
@@ -14187,7 +14192,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4229
+      "UsersEstimate": 4326
     },
     {
       "ID": "Strongman",
@@ -14195,7 +14200,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6899
+      "UsersEstimate": 7058
     },
     {
       "ID": "VeronicaLiptson",
@@ -14203,7 +14208,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2277
     },
     {
       "ID": "YouDoItWrong",
@@ -14211,22 +14216,22 @@
       "Name": "You do it wrong",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 223
+      "UsersEstimate": 228
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22256,
+      "Progressed": 22768,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-03-20T01:40:24.521923+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:25.4254848+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:01.3307174+00:00",
   "LastUpdate_AppInfo": "2024-03-17T06:57:12.9960185+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:53.2310607+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:25.4255544+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:14.7254752+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:01.3308126+00:00"
 }

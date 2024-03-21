@@ -2,10 +2,10 @@
   "ID": "b8389b9b44074b9ba64a882ac166bb18",
   "Name": "My Corp Cargo Simulator",
   "ProductSlug": "my-corp-cargo-simulator-23bb5b",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-20T18:57:29.7804428+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:49.4765297+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:18.0800227+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:50.6633797+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:07.0054252+00:00"
 }

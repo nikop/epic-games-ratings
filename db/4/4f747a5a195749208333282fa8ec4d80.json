@@ -2,10 +2,10 @@
   "ID": "4f747a5a195749208333282fa8ec4d80",
   "Name": "Horror Ken",
   "ProductSlug": "test1-a822c4",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-15T13:00:00+00:00",
     "PcReleaseDate": "2023-09-15T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-21T13:00:00.6267471+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:26.3885096+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:42.9222363+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:37.7855498+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:08.346099+00:00"
 }

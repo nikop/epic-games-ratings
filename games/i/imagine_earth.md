@@ -7,10 +7,10 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tuto | 59.00% | ~270 |
-| Joma | 42.00% | ~192 |
+| Joma | 43.00% | ~197 |
 | Campaign Bronze | 35.00% | ~160 |
 | Lorian | 31.00% | ~142 |
-| Metropolis | 27.00% | ~124 |
+| Metropolis | 28.00% | ~128 |
 | Rounos | 24.00% | ~110 |
 | Campaign Silver | 21.00% | ~96 |
 | Magni | 21.00% | ~96 |
@@ -31,8 +31,8 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Silver | 0.20% | ~1 |
 | Competitor Gold | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458 (Ranked 374)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 458 (Ranked 399)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

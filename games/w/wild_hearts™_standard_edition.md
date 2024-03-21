@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,494 |
-| Hidden History | 73.00% | ~1,091 |
-| Commencing of Quests | 63.00% | ~941 |
-| Budding Conjuror | 62.00% | ~926 |
-| Man-Machine Master | 52.00% | ~777 |
-| Mountain Splitter | 52.00% | ~777 |
-| Charmed by the Hunt | 51.00% | ~762 |
-| Memory Rouser | 50.00% | ~747 |
-| Subsistence Skills | 50.00% | ~747 |
-| Fusion Conjuror | 49.00% | ~732 |
-| Kemono Hunter | 45.00% | ~672 |
-| Expert Conjuror | 43.00% | ~642 |
-| Bonds of Enmity | 41.00% | ~613 |
-| Distance Devourer | 40.00% | ~598 |
-| Flawless Crystal | 40.00% | ~598 |
-| Helpful Heart | 40.00% | ~598 |
-| Counter Specialist | 37.00% | ~553 |
-| Master of the Skies | 34.00% | ~508 |
-| Axer of Auspice | 32.00% | ~478 |
-| Mighty Marmelizer | 30.00% | ~448 |
-| Fair Means or Foul | 30.00% | ~448 |
-| Kemono at Heart | 30.00% | ~448 |
-| Single Minded | 28.00% | ~418 |
-| Snare Specialist | 26.00% | ~388 |
-| Karakuri Trail | 25.00% | ~374 |
-| Team Hunter | 23.00% | ~344 |
-| Reincarnation Cycle Stopper | 23.00% | ~344 |
-| Karakuri Isle | 22.00% | ~329 |
-| Artful Assister | 21.00% | ~314 |
-| Human Believer | 19.00% | ~284 |
-| Left Arm Leverager | 18.00% | ~269 |
-| Unrivaled in Arms | 18.00% | ~269 |
-| Style Seeker | 17.00% | ~254 |
-| Quintessence of Form | 17.00% | ~254 |
-| Threaded Harmony | 16.00% | ~239 |
-| Karakuri Minato | 16.00% | ~239 |
-| Canyon of Karakuri | 15.00% | ~224 |
-| Jack of All Trades | 14.00% | ~209 |
-| Karakuri Fortress | 13.00% | ~194 |
-| Volatile Vocation | 11.00% | ~164 |
-| Tender Touch | 11.00% | ~164 |
-| Haven Hunter | 11.00% | ~164 |
-| Superlative View | 9.00% | ~134 |
-| Relentless Kemono Hunter | 7.00% | ~105 |
-| Vanquisher of the Volatile | 7.00% | ~105 |
-| Big Spender | 7.00% | ~105 |
-| Bewitched by Bathing | 5.00% | ~75 |
-| Tsukumo Whisperer | 3.00% | ~45 |
+| Land of the Rising Sun | 100.00% | ~1,574 |
+| Hidden History | 72.00% | ~1,133 |
+| Commencing of Quests | 63.00% | ~992 |
+| Budding Conjuror | 62.00% | ~976 |
+| Man-Machine Master | 52.00% | ~818 |
+| Mountain Splitter | 51.00% | ~803 |
+| Charmed by the Hunt | 51.00% | ~803 |
+| Memory Rouser | 50.00% | ~787 |
+| Fusion Conjuror | 49.00% | ~771 |
+| Subsistence Skills | 49.00% | ~771 |
+| Kemono Hunter | 45.00% | ~708 |
+| Expert Conjuror | 43.00% | ~677 |
+| Bonds of Enmity | 41.00% | ~645 |
+| Distance Devourer | 40.00% | ~630 |
+| Flawless Crystal | 40.00% | ~630 |
+| Helpful Heart | 40.00% | ~630 |
+| Counter Specialist | 37.00% | ~582 |
+| Master of the Skies | 34.00% | ~535 |
+| Axer of Auspice | 32.00% | ~504 |
+| Mighty Marmelizer | 31.00% | ~488 |
+| Fair Means or Foul | 31.00% | ~488 |
+| Kemono at Heart | 30.00% | ~472 |
+| Single Minded | 28.00% | ~441 |
+| Snare Specialist | 26.00% | ~409 |
+| Karakuri Trail | 25.00% | ~394 |
+| Reincarnation Cycle Stopper | 23.00% | ~362 |
+| Karakuri Isle | 22.00% | ~346 |
+| Team Hunter | 22.00% | ~346 |
+| Artful Assister | 21.00% | ~331 |
+| Left Arm Leverager | 18.00% | ~283 |
+| Human Believer | 18.00% | ~283 |
+| Unrivaled in Arms | 18.00% | ~283 |
+| Quintessence of Form | 18.00% | ~283 |
+| Style Seeker | 16.00% | ~252 |
+| Threaded Harmony | 16.00% | ~252 |
+| Karakuri Minato | 16.00% | ~252 |
+| Canyon of Karakuri | 15.00% | ~236 |
+| Jack of All Trades | 15.00% | ~236 |
+| Karakuri Fortress | 13.00% | ~205 |
+| Volatile Vocation | 11.00% | ~173 |
+| Tender Touch | 11.00% | ~173 |
+| Haven Hunter | 11.00% | ~173 |
+| Superlative View | 9.00% | ~142 |
+| Relentless Kemono Hunter | 7.00% | ~110 |
+| Vanquisher of the Volatile | 7.00% | ~110 |
+| Big Spender | 7.00% | ~110 |
+| Bewitched by Bathing | 5.00% | ~79 |
+| Tsukumo Whisperer | 3.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,494 (Ranked 285)  
-Completed: 10 (0.67%) (Ranked 218)  
+Progressed: 1,574 (Ranked 299)  
+Completed: 10 (0.64%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,3 +188,4 @@ Completed: 10 (0.67%) (Ranked 218)
 | 2024-01-26 | 1,412 | 8 |
 | 2024-01-27 | 1,417 | 8 |
 | 2024-02-22 | 1,494 | 10 |
+| 2024-03-21 | 1,574 | 10 |

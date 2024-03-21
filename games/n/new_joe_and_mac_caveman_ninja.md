@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The T-Rex plain. | 52.00% | ~161 |
-| Crazy Jungle. | 35.00% | ~108 |
-| A turbulent river. | 20.00% | ~62 |
-| In the treetops. | 18.00% | ~56 |
-| At the top of the mountain. | 17.00% | ~53 |
-| Aggressive rocks. | 16.00% | ~50 |
-| Dino Ride. | 14.00% | ~43 |
-| Rocky fall. | 12.00% | ~37 |
-| In the heart of the volcano. | 11.00% | ~34 |
-| Dinosaur graveyard. | 10.00% | ~31 |
-| Swimming on a dino's back. | 9.00% | ~28 |
-| The entrails of the beast. | 9.00% | ~28 |
-| The mountain of peril. | 7.00% | ~22 |
-| Lightning swamp. | 6.00% | ~19 |
-| Passing the carcass. | 5.00% | ~16 |
+| The T-Rex plain. | 51.00% | ~170 |
+| Crazy Jungle. | 34.00% | ~113 |
+| A turbulent river. | 19.00% | ~63 |
+| In the treetops. | 17.00% | ~57 |
+| At the top of the mountain. | 17.00% | ~57 |
+| Aggressive rocks. | 16.00% | ~53 |
+| Dino Ride. | 14.00% | ~47 |
+| In the heart of the volcano. | 11.00% | ~37 |
+| Rocky fall. | 11.00% | ~37 |
+| Dinosaur graveyard. | 10.00% | ~33 |
+| The entrails of the beast. | 9.00% | ~30 |
+| Swimming on a dino's back. | 8.00% | ~27 |
+| The mountain of peril. | 7.00% | ~23 |
+| Lightning swamp. | 6.00% | ~20 |
+| Passing the carcass. | 5.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310 (Ranked 414)  
-Completed: 8 (2.58%) (Ranked 127)  
+Progressed: 333 (Ranked 440)  
+Completed: 8 (2.40%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,6 +107,7 @@ Completed: 8 (2.58%) (Ranked 127)
 | 2024-01-23 | 309 | 7 |
 | 2024-01-24 | 310 | 7 |
 | 2024-01-25 | 310 | 8 |
+| 2024-03-21 | 333 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

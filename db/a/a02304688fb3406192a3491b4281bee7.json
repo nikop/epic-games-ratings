@@ -2,10 +2,10 @@
   "ID": "a02304688fb3406192a3491b4281bee7",
   "Name": "River City Girls",
   "ProductSlug": "river-city-girls-e6f608",
-  "Ranking_EOS_Progress": 742,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 651,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-10T01:45:51.684+00:00",
     "PcReleaseDate": "2019-09-05T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 40,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2024-01-22T20:07:49.1325263+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:06:22.8343999+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-11T01:53:31.81265+00:00",
@@ -59,23 +64,23 @@
       "ID": "1",
       "SetID": "5ekljfg",
       "Name": "Your lessons are boring!",
-      "Percentage": 140,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 34
     },
     {
       "ID": "10",
       "SetID": "5ekljfg",
       "Name": "Carpe diem",
-      "Percentage": 40,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "11",
       "SetID": "5ekljfg",
       "Name": "You\u0027re out!",
-      "Percentage": 20,
+      "Percentage": 3,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -85,13 +90,13 @@
       "Name": "Friendly Beatdown",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 16
     },
     {
       "ID": "15",
       "SetID": "5ekljfg",
       "Name": "Perfect Parry",
-      "Percentage": 40,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -99,15 +104,15 @@
       "ID": "16",
       "SetID": "5ekljfg",
       "Name": "Stylish!",
-      "Percentage": 80,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 20
     },
     {
       "ID": "17",
       "SetID": "5ekljfg",
       "Name": "Power Up",
-      "Percentage": 20,
+      "Percentage": 3,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -115,7 +120,7 @@
       "ID": "18",
       "SetID": "5ekljfg",
       "Name": "Help an Old Pal?",
-      "Percentage": 60,
+      "Percentage": 8,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -123,7 +128,7 @@
       "ID": "19",
       "SetID": "5ekljfg",
       "Name": "Smashed Statues",
-      "Percentage": 40,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -131,63 +136,63 @@
       "ID": "2",
       "SetID": "5ekljfg",
       "Name": "Killed by Math",
-      "Percentage": 40,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "20",
       "SetID": "5ekljfg",
       "Name": "A Real Workout",
-      "Percentage": 60,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 27
     },
     {
       "ID": "21",
       "SetID": "5ekljfg",
       "Name": "Defeating the Dark Arts",
-      "Percentage": 80,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "22",
       "SetID": "5ekljfg",
       "Name": "Fashionable Beatdown",
-      "Percentage": 60,
+      "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "23",
       "SetID": "5ekljfg",
       "Name": "A Bye Bye",
-      "Percentage": 60,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "24",
       "SetID": "5ekljfg",
       "Name": "So Metal",
-      "Percentage": 60,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "25",
       "SetID": "5ekljfg",
       "Name": "Like Father Like Daughter",
-      "Percentage": 80,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "26",
       "SetID": "5ekljfg",
       "Name": "O.M.G. Seriously?",
-      "Percentage": 20,
+      "Percentage": 3,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -195,15 +200,15 @@
       "ID": "27",
       "SetID": "5ekljfg",
       "Name": "Renegade",
-      "Percentage": 20,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "28",
       "SetID": "5ekljfg",
       "Name": "Don\u0027t mess with us!",
-      "Percentage": 20,
+      "Percentage": 3,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -211,7 +216,7 @@
       "ID": "29",
       "SetID": "5ekljfg",
       "Name": "TAKE THE WORLD ON",
-      "Percentage": 40,
+      "Percentage": 5,
       "XP": 75,
       "UsersEstimate": 2
     },
@@ -219,15 +224,15 @@
       "ID": "3",
       "SetID": "5ekljfg",
       "Name": "Shop until they drop?",
-      "Percentage": 100,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "31",
       "SetID": "5ekljfg",
       "Name": "A New Challenger",
-      "Percentage": 20,
+      "Percentage": 3,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -235,7 +240,7 @@
       "ID": "32",
       "SetID": "5ekljfg",
       "Name": "Completionist",
-      "Percentage": 60,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -243,55 +248,55 @@
       "ID": "4",
       "SetID": "5ekljfg",
       "Name": "Bona fide bargain",
-      "Percentage": 60,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "5",
       "SetID": "5ekljfg",
       "Name": "Master of Unlocking",
-      "Percentage": 60,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "6",
       "SetID": "5ekljfg",
       "Name": "An Explosive Entrance",
-      "Percentage": 80,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "7",
       "SetID": "5ekljfg",
       "Name": "Full Service",
-      "Percentage": 60,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 27
     },
     {
       "ID": "8",
       "SetID": "5ekljfg",
       "Name": "River City Ransom",
-      "Percentage": 100,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ekljfg",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 40,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-13T11:59:47.089651+00:00",
   "FirstSeenAchievements": "2024-01-10T02:27:31.2188456+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:11.5582033+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:22.8343993+00:00",
   "LastUpdate_AppInfo": "2024-03-20T06:56:58.1658263+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:51.1404098+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:11.5582225+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:52.4882448+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:22.834419+00:00"
 }

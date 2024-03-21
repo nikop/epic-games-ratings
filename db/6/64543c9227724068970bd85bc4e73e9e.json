@@ -4,11 +4,11 @@
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_Rating": 941,
   "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 387,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_PopularitySum": 386,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
     "PcReleaseDate": "2023-08-22T09:00:00+00:00",
@@ -1391,10 +1391,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 358,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-03-21T17:01:57.5562664+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 359,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 358,
+  "NumberOfAwards": 359,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1402,7 +1408,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1471,8 +1477,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-03-20T01:39:09.3957245+00:00",
+  "LastChanged": "2024-03-21T17:01:57.5562662+00:00",
   "LastUpdate_AppInfo": "2024-03-20T01:37:20.7109794+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:56.2240775+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:24.5245323+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:57.5562668+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:40.2595348+00:00"
 }

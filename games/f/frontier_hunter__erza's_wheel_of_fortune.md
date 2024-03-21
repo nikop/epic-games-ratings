@@ -5,54 +5,54 @@ Rating: 4.42 (Ranked 763)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~759 |
-| Training Simulation | 78.00% | ~644 |
-| Kuku Bird Hunter | 65.00% | ~536 |
-| Storm Traveller | 59.00% | ~487 |
-| Wolf King Killer | 54.00% | ~446 |
-| Fashion Connoisseur | 53.00% | ~437 |
-| Arms Mechanic | 49.00% | ~404 |
-| Flower Thief | 44.00% | ~363 |
-| Apostle of Flame | 39.00% | ~322 |
-| Beginner Cook | 38.00% | ~314 |
-| Beginner Artificer | 38.00% | ~314 |
-| Seal Breaker | 32.00% | ~264 |
-| Handyman | 28.00% | ~231 |
-| Giant Lizard Killer | 27.00% | ~223 |
-| Guardian | 26.00% | ~214 |
-| Nosebleeder | 26.00% | ~214 |
-| Trader | 22.00% | ~182 |
-| Weapon Boost | 22.00% | ~182 |
-| Flying Kobold Killer | 19.00% | ~157 |
-| Youth Magnet | 18.00% | ~148 |
-| Furious Scorpion Killer | 17.00% | ~140 |
-| Lethal Blade Mantis Killer | 17.00% | ~140 |
-| Squeaky Clean | 17.00% | ~140 |
-| Master Artificer | 17.00% | ~140 |
-| Kind Adventurer | 16.00% | ~132 |
-| Mermaid Killer | 15.00% | ~124 |
-| Cave Master | 15.00% | ~124 |
-| Face Slapper | 15.00% | ~124 |
-| Berserker Slayer | 12.00% | ~99 |
-| Boss challenge | 11.00% | ~91 |
-| Giantess Slayer | 11.00% | ~91 |
-| Warden Slayer | 11.00% | ~91 |
-| Master Cook | 9.00% | ~74 |
-| Silver Moon Wolf King Challenge | 4.00% | ~33 |
-| Blade Mantis Challenge | 3.00% | ~25 |
-| Flying Kobold Challenge | 3.00% | ~25 |
-| Furious Scorpion Challenge | 3.00% | ~25 |
-| Giant Lizard Challenge | 3.00% | ~25 |
-| Rebellious | 2.00% | ~16 |
-| Big Face Goalkeeper Challenge | 2.00% | ~16 |
-| Giant Claw Spider Challenge | 2.00% | ~16 |
-| Mermaid Challenge | 2.00% | ~16 |
-| Berserker Challenge | 2.00% | ~16 |
-| Giantess Challenge | 2.00% | ~16 |
-| Warden Challenge | 2.00% | ~16 |
+| Travel Streamer | 92.00% | ~793 |
+| Training Simulation | 78.00% | ~672 |
+| Kuku Bird Hunter | 64.00% | ~552 |
+| Storm Traveller | 59.00% | ~509 |
+| Wolf King Killer | 54.00% | ~465 |
+| Fashion Connoisseur | 53.00% | ~457 |
+| Arms Mechanic | 49.00% | ~422 |
+| Flower Thief | 44.00% | ~379 |
+| Apostle of Flame | 40.00% | ~345 |
+| Beginner Artificer | 39.00% | ~336 |
+| Beginner Cook | 37.00% | ~319 |
+| Seal Breaker | 33.00% | ~284 |
+| Handyman | 29.00% | ~250 |
+| Giant Lizard Killer | 27.00% | ~233 |
+| Guardian | 26.00% | ~224 |
+| Nosebleeder | 26.00% | ~224 |
+| Weapon Boost | 22.00% | ~190 |
+| Trader | 21.00% | ~181 |
+| Flying Kobold Killer | 19.00% | ~164 |
+| Youth Magnet | 18.00% | ~155 |
+| Furious Scorpion Killer | 17.00% | ~147 |
+| Lethal Blade Mantis Killer | 17.00% | ~147 |
+| Squeaky Clean | 17.00% | ~147 |
+| Master Artificer | 17.00% | ~147 |
+| Kind Adventurer | 16.00% | ~138 |
+| Mermaid Killer | 16.00% | ~138 |
+| Cave Master | 15.00% | ~129 |
+| Face Slapper | 15.00% | ~129 |
+| Berserker Slayer | 12.00% | ~103 |
+| Boss challenge | 11.00% | ~95 |
+| Giantess Slayer | 11.00% | ~95 |
+| Warden Slayer | 11.00% | ~95 |
+| Master Cook | 9.00% | ~78 |
+| Silver Moon Wolf King Challenge | 4.00% | ~34 |
+| Flying Kobold Challenge | 3.00% | ~26 |
+| Furious Scorpion Challenge | 3.00% | ~26 |
+| Giant Lizard Challenge | 3.00% | ~26 |
+| Rebellious | 2.00% | ~17 |
+| Blade Mantis Challenge | 2.00% | ~17 |
+| Big Face Goalkeeper Challenge | 2.00% | ~17 |
+| Giant Claw Spider Challenge | 2.00% | ~17 |
+| Mermaid Challenge | 2.00% | ~17 |
+| Berserker Challenge | 2.00% | ~17 |
+| Giantess Challenge | 2.00% | ~17 |
+| Warden Challenge | 2.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 825 (Ranked 327)  
-Completed: 3 (0.36%) (Ranked 261)  
+Progressed: 862 (Ranked 347)  
+Completed: 3 (0.35%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,6 +194,7 @@ Completed: 3 (0.36%) (Ranked 261)
 | 2024-01-26 | 769 | 3 |
 | 2024-01-27 | 771 | 3 |
 | 2024-02-22 | 825 | 3 |
+| 2024-03-21 | 862 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

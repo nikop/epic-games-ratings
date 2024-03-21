@@ -2,10 +2,10 @@
   "ID": "3628612cd9ca49248cd5b4d8a95c9f11",
   "Name": "Star Trek Prodigy: Supernova",
   "ProductSlug": "star-trek-prodigy-supernova-cdb770",
-  "Ranking_EOS_Progress": 661,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 713,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -106,6 +106,11 @@
       "Time": "2024-01-06T16:10:05.2252692+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:38.5463763+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -155,7 +160,7 @@
       "ID": "BuyAllWeapons",
       "SetID": "7270ipa",
       "Name": "One Man Army",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -163,7 +168,7 @@
       "ID": "BuyWeapon",
       "SetID": "7270ipa",
       "Name": "Up your Arsenal",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 130,
       "UsersEstimate": 2
     },
@@ -195,9 +200,9 @@
       "ID": "CompleteCrewMission",
       "SetID": "7270ipa",
       "Name": "One for the Crew",
-      "Percentage": 26,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Creatures_100",
@@ -211,7 +216,7 @@
       "ID": "Creatures_50",
       "SetID": "7270ipa",
       "Name": "Punny Lover",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -219,23 +224,23 @@
       "ID": "Finish_P1L1",
       "SetID": "7270ipa",
       "Name": "Restoring the Protostar",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Finish_P1L2",
       "SetID": "7270ipa",
       "Name": "The Clock is Ticking",
-      "Percentage": 26,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "Finish_P1L3",
       "SetID": "7270ipa",
       "Name": "Back online",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -243,7 +248,7 @@
       "ID": "Finish_P1L4",
       "SetID": "7270ipa",
       "Name": "Rok and Roll",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -251,7 +256,7 @@
       "ID": "Finish_P2L1",
       "SetID": "7270ipa",
       "Name": "First Contact?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -259,7 +264,7 @@
       "ID": "Finish_P2L2",
       "SetID": "7270ipa",
       "Name": "Naroan History",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -267,7 +272,7 @@
       "ID": "Finish_P2L3",
       "SetID": "7270ipa",
       "Name": "Playing with Time",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -275,7 +280,7 @@
       "ID": "Finish_P2L4",
       "SetID": "7270ipa",
       "Name": "Escape from Mirios",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -283,7 +288,7 @@
       "ID": "Finish_P3L1",
       "SetID": "7270ipa",
       "Name": "Coming in from the Cold",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -291,7 +296,7 @@
       "ID": "Finish_P3L2",
       "SetID": "7270ipa",
       "Name": "Searching for Al\u0027Shams",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -299,23 +304,23 @@
       "ID": "Finish_P3L3",
       "SetID": "7270ipa",
       "Name": "Stopping the Supernova",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Finish_P3L4",
       "SetID": "7270ipa",
       "Name": "Saved the System",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Hit3EnemiesWithPhaser",
       "SetID": "7270ipa",
       "Name": "Three Watchers, Two Phasers",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -371,15 +376,15 @@
       "ID": "RescueJankomPog",
       "SetID": "7270ipa",
       "Name": "Guess who\u0027s back",
-      "Percentage": 32,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "RescueMurf",
       "SetID": "7270ipa",
       "Name": "The Crew is Back!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -387,7 +392,7 @@
       "ID": "RescueRokTahk",
       "SetID": "7270ipa",
       "Name": "Not Too Long",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -395,7 +400,7 @@
       "ID": "RescueZero",
       "SetID": "7270ipa",
       "Name": "Welcome back",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -403,9 +408,9 @@
       "ID": "ReviveTeammate",
       "SetID": "7270ipa",
       "Name": "I\u0027ve Got You",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "UpgradeAllWeapons",
@@ -419,7 +424,7 @@
       "ID": "UpgradeWeapon",
       "SetID": "7270ipa",
       "Name": "Getting Better",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -427,7 +432,7 @@
       "ID": "UseAllCrewMembers",
       "SetID": "7270ipa",
       "Name": "Teamwork makes the dream work",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -435,16 +440,16 @@
       "ID": "UseCrewMember",
       "SetID": "7270ipa",
       "Name": "A Helping Hand",
-      "Percentage": 26,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "7270ipa",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
@@ -452,8 +457,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:49.8741386+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:38.5463753+00:00",
   "LastUpdate_AppInfo": "2024-03-17T08:57:08.7034154+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:38.9063578+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:49.8741684+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:06.4069569+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:38.5464081+00:00"
 }

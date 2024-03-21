@@ -2,10 +2,10 @@
   "ID": "25dd02a1f0f4416f991a779d17e437ae",
   "Name": "Man in the Dark",
   "ProductSlug": "man-in-the-dark-5c468e",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-10T03:30:01.056+00:00",
     "PcReleaseDate": "2024-01-26T03:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-14T14:59:50.2770067+00:00",
   "LastUpdate_AppInfo": "2024-03-16T05:57:30.7242643+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:19.9232205+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:14.7795115+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:40.4429394+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:03.3741708+00:00"
 }

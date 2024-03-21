@@ -2,10 +2,10 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Force",
   "ProductSlug": "mega-city-police-22a245",
-  "Ranking_EOS_Progress": 601,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 643,
+  "Ranking_EOS_Completed": 147,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.33,
+  "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
     {
       "Time": "2023-07-26T07:05:18.8439924+00:00",
@@ -229,6 +229,11 @@
       "Time": "2024-02-22T21:05:46.2063446+00:00",
       "NumProgressed": 43,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:11:33.3571934+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-07-26T06:05:38.0002826+00:00",
@@ -295,9 +300,9 @@
       "ID": "ACH_DIFFICULTY_01",
       "SetID": "a2aifpa",
       "Name": "Lieutenant",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DIFFICULTY_02",
@@ -335,7 +340,7 @@
       "ID": "ACH_ENEMIES_1000",
       "SetID": "a2aifpa",
       "Name": "Overkill",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -367,7 +372,7 @@
       "ID": "ACH_LEVEL_01",
       "SetID": "a2aifpa",
       "Name": "Law and Order",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -375,7 +380,7 @@
       "ID": "ACH_LEVEL_02",
       "SetID": "a2aifpa",
       "Name": "Hammer Time",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -399,9 +404,9 @@
       "ID": "ACH_LEVEL_05",
       "SetID": "a2aifpa",
       "Name": "Bring Down the Corp",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MONEY_1000000",
@@ -439,7 +444,7 @@
       "ID": "ACH_TUTORIAL",
       "SetID": "a2aifpa",
       "Name": "Licence To Kill",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -456,20 +461,20 @@
     {
       "ID": "a2aifpa",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 1
     },
     {
       "ID": "467j267",
       "IsBase": false,
-      "Progressed": 21,
+      "Progressed": 22,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:46.2063443+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:33.3571924+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:28.2935607+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:09.8317148+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:46.2063609+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:09.6341742+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:33.3572125+00:00"
 }

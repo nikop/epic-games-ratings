@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 25.00% | ~140 |
-| I like parks | 22.00% | ~124 |
-| The spiritual world... | 12.00% | ~67 |
-| It is nice to share with friends in the city | 11.00% | ~62 |
-| The woodcutter | 10.00% | ~56 |
-| Sport is good for you | 10.00% | ~56 |
-| I like books | 8.00% | ~45 |
-| I like my life | 8.00% | ~45 |
-| Soviet town | 7.00% | ~39 |
-| Clean energy | 6.00% | ~34 |
-| Bucolic city | 6.00% | ~34 |
-| I love books! | 3.00% | ~17 |
-| King of fish | 3.00% | ~17 |
-| I love parks | 3.00% | ~17 |
-| Rebel city | 3.00% | ~17 |
-| Food producer | 2.00% | ~11 |
-| City crisis | 2.00% | ~11 |
-| What would we do if we can't go out with friends? | 2.00% | ~11 |
+| Small town | 27.00% | ~158 |
+| I like parks | 23.00% | ~134 |
+| The spiritual world... | 12.00% | ~70 |
+| It is nice to share with friends in the city | 11.00% | ~64 |
+| The woodcutter | 10.00% | ~58 |
+| Sport is good for you | 10.00% | ~58 |
+| I like my life | 9.00% | ~53 |
+| I like books | 8.00% | ~47 |
+| Soviet town | 7.00% | ~41 |
+| Clean energy | 6.00% | ~35 |
+| Bucolic city | 6.00% | ~35 |
+| I love parks | 4.00% | ~23 |
+| I love books! | 3.00% | ~18 |
+| King of fish | 3.00% | ~18 |
+| Rebel city | 3.00% | ~18 |
+| Food producer | 2.00% | ~12 |
+| City crisis | 2.00% | ~12 |
+| What would we do if we can't go out with friends? | 2.00% | ~12 |
+| Metropolurbek | 2.00% | ~12 |
 | I am very happy! | 1.00% | ~6 |
-| Metropolurbek | 1.00% | ~6 |
 | Banking city | 0.90% | ~5 |
 | Food provider master | 0.50% | ~3 |
 | Read! Everyone should read! | 0.50% | ~3 |
@@ -32,22 +32,22 @@
 | Oh, I love parks, listening to birds! | 0.50% | ~3 |
 | Little Mayor | 0.50% | ~3 |
 | Temperate builder | 0.50% | ~3 |
-| Desert builder | 0.40% | ~2 |
-| Desert urban planner | 0.40% | ~2 |
-| Town planner | 0.40% | ~2 |
+| Archipelago builder | 0.30% | ~2 |
+| Archipelago urban planner | 0.30% | ~2 |
+| Desert builder | 0.30% | ~2 |
+| Desert urban planner | 0.30% | ~2 |
+| Farming Frenzy | 0.30% | ~2 |
+| I don't feel well, I have to drink a coffe | 0.30% | ~2 |
+| Town planner | 0.30% | ~2 |
 | Anarchist Utopia | 0.20% | ~1 |
 | Anarchist paradise | 0.20% | ~1 |
-| Archipelago builder | 0.20% | ~1 |
-| Archipelago urban planner | 0.20% | ~1 |
 | Banking empire | 0.20% | ~1 |
 | Urban style | 0.20% | ~1 |
 | What is there after death? | 0.20% | ~1 |
 | Fear God, you sinners! | 0.20% | ~1 |
 | Perfect city | 0.20% | ~1 |
 | Oh, I am sad | 0.20% | ~1 |
-| Farming Frenzy | 0.20% | ~1 |
 | Farming Frenzy Plus | 0.20% | ~1 |
-| I don't feel well, I have to drink a coffe | 0.20% | ~1 |
 | Metropolurbek Plus | 0.20% | ~1 |
 | Restorer | 0.20% | ~1 |
 | Restorer Plus | 0.20% | ~1 |
@@ -84,8 +84,8 @@
 | Full rainforest | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 562 (Ranked 362)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 584 (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -273,6 +273,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-25 | 530 | 0 |
 | 2024-01-26 | 531 | 0 |
 | 2024-02-22 | 562 | 0 |
+| 2024-03-21 | 584 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

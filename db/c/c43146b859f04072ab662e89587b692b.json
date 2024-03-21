@@ -2,10 +2,10 @@
   "ID": "c43146b859f04072ab662e89587b692b",
   "Name": "Outbreak Endless Nightmares Restless Dreams",
   "ProductSlug": "outbreak-endless-nightmares-restless-dreams-40507b",
-  "Ranking_EOS_Progress": 636,
-  "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 686,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-30T14:00:00+00:00",
     "PcReleaseDate": "2023-08-30T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-10-18T22:15:21.0608364+00:00",
@@ -94,6 +94,11 @@
       "Time": "2023-12-30T18:05:13.6258595+00:00",
       "NumProgressed": 28,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:07:05.6802211+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.0608453+00:00",
@@ -104,7 +109,7 @@
       "ID": "DECAYED_REMAINS_ACH",
       "SetID": "cnj66m",
       "Name": "Decayed Remains",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -112,7 +117,7 @@
       "ID": "HER_ENDLESS_NIGHTMARES_ACH",
       "SetID": "cnj66m",
       "Name": "Her Endless Nightmares",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -120,7 +125,7 @@
       "ID": "MIGHT_BE_MENDED_ACH",
       "SetID": "cnj66m",
       "Name": "Might Be Mended",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -128,7 +133,7 @@
       "ID": "MYSTERIOUS_HORRORS_ACH",
       "SetID": "cnj66m",
       "Name": "Mysterious Horrors",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "PURGATORY_ACH",
       "SetID": "cnj66m",
       "Name": "Purgatory",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -144,7 +149,7 @@
       "ID": "SOURCE_OF_TORMENT_ACH",
       "SetID": "cnj66m",
       "Name": "Source of Torment",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -152,7 +157,7 @@
       "ID": "STRANGE_LAND_ACH",
       "SetID": "cnj66m",
       "Name": "Strange Land",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -160,7 +165,7 @@
       "ID": "SUPERIOR_FIREPOWER_ACH",
       "SetID": "cnj66m",
       "Name": "Superior Firepower",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -168,7 +173,7 @@
       "ID": "THE_CONDUCTOR_ACH",
       "SetID": "cnj66m",
       "Name": "The Conductor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -176,7 +181,7 @@
       "ID": "TOWER_OF_PAIN_ACH",
       "SetID": "cnj66m",
       "Name": "Tower of Pain",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -184,7 +189,7 @@
       "ID": "UNBROKEN_LOOP_ACH",
       "SetID": "cnj66m",
       "Name": "Unbroken Loop",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -193,14 +198,14 @@
     {
       "ID": "cnj66m",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T11:58:37.7848996+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:43.5372405+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:05.6802205+00:00",
   "LastUpdate_AppInfo": "2024-03-21T13:00:00.342076+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:09.2667285+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:43.5372472+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:13.9156967+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:05.6802301+00:00"
 }

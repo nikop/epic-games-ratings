@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 64.00% | ~56 |
-| Remembering of the past | 48.00% | ~42 |
-| Fight like an idiot | 41.00% | ~36 |
-| Ouch, that hurt! | 36.00% | ~32 |
-| Slam-KABAM | 33.00% | ~29 |
-| Heavy Thoughts | 27.00% | ~24 |
-| Flee like an idiot | 25.00% | ~22 |
-| A heavy thinker | 22.00% | ~19 |
-| Elementary, My Dear Dusty | 19.00% | ~17 |
-| Repair the Mind Validation Machine | 17.00% | ~15 |
-| Dance like an idiot | 16.00% | ~14 |
-| I'm Back at the Surface now | 15.00% | ~13 |
-| Come full circle | 13.00% | ~11 |
-| Patient Listener | 7.00% | ~6 |
-| GOAAAAAAAAAL! | 5.00% | ~4 |
+| Black Hog Down | 66.00% | ~63 |
+| Remembering of the past | 51.00% | ~48 |
+| Fight like an idiot | 45.00% | ~43 |
+| Ouch, that hurt! | 40.00% | ~38 |
+| Slam-KABAM | 36.00% | ~34 |
+| Heavy Thoughts | 29.00% | ~28 |
+| Flee like an idiot | 27.00% | ~26 |
+| A heavy thinker | 21.00% | ~20 |
+| Elementary, My Dear Dusty | 19.00% | ~18 |
+| Dance like an idiot | 18.00% | ~17 |
+| I'm Back at the Surface now | 17.00% | ~16 |
+| Repair the Mind Validation Machine | 16.00% | ~15 |
+| Come full circle | 12.00% | ~11 |
+| Patient Listener | 6.00% | ~6 |
+| GOAAAAAAAAAL! | 4.00% | ~4 |
 | Whac-a-worker | 2.00% | ~2 |
 | You're a-MAZE-ing! | 1.00% | ~1 |
 | Memory Completionist | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 533)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 95 (Ranked 562)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,6 +82,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-21 | 77 | 0 |
 | 2024-01-24 | 78 | 0 |
 | 2024-02-22 | 88 | 0 |
+| 2024-03-21 | 95 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

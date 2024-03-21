@@ -2,10 +2,10 @@
   "ID": "ba74867ed69a4bb6abd9f81fea647af6",
   "Name": "Eyes Of Memes",
   "ProductSlug": "eyes-of-memes-d8864a",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-04T22:00:00+00:00",
     "PcReleaseDate": "2024-01-04T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-06T05:58:49.5086714+00:00",
   "LastUpdate_AppInfo": "2024-03-20T16:57:04.4511539+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:28.8308825+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:51.466497+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:26.4830279+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:16.3026089+00:00"
 }

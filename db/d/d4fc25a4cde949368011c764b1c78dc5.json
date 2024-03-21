@@ -2,10 +2,10 @@
   "ID": "d4fc25a4cde949368011c764b1c78dc5",
   "Name": "Destroyer - The U-Boat Hunter",
   "ProductSlug": "destroyer-the-uboat-hunter-319d33",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 839,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-19T13:00:00+00:00",
     "PcReleaseDate": "2024-03-19T13:00:00+00:00",
@@ -22,16 +22,162 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:05:27.6893433+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:05:27.6893515+00:00",
+  "TotalAchievements": 16,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "10_BATTLE_HIGH_GRADE",
+      "SetID": "cki25kh",
+      "Name": "TOP SUB HUNTER",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11_BATTLE_NO_LOSSES",
+      "SetID": "cki25kh",
+      "Name": "UNSCATHED",
+      "Percentage": 50,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "12_BATTLE_COMPLETE",
+      "SetID": "cki25kh",
+      "Name": "AND SO IT BEGINS...",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "13_UBOAT_10",
+      "SetID": "cki25kh",
+      "Name": "ASW EXPERT",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14_UBOAT_50",
+      "SetID": "cki25kh",
+      "Name": "ASW MASTER",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15_UBOAT_100",
+      "SetID": "cki25kh",
+      "Name": "ASW GOD",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16_CAMPAIGN_IRONMAN_COMPLETED",
+      "SetID": "cki25kh",
+      "Name": "THE CHOSEN FEW",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1_SONAR_CONTACT",
+      "SetID": "cki25kh",
+      "Name": "I HEAR YA...",
+      "Percentage": 50,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "2_SUNK_UBOAT",
+      "SetID": "cki25kh",
+      "Name": "IRON COFFIN",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3_HITUBOAT_GUN",
+      "SetID": "cki25kh",
+      "Name": "THUNDERCLAP",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4_HITUBOAT_BOMB",
+      "SetID": "cki25kh",
+      "Name": "BARREL O\u0027 FUN",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5_HITUBOAT_CRITICAL",
+      "SetID": "cki25kh",
+      "Name": "BULLSEYE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6_SUNK_UBOAT_BY_ESCORT",
+      "SetID": "cki25kh",
+      "Name": "CANUCKS ENTER THE FIGHT",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7_SUNK_UBOAT_BY_AIRSUPPORT",
+      "SetID": "cki25kh",
+      "Name": "DEATH FROM ABOVE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8_MISSION_COMPLETE",
+      "SetID": "cki25kh",
+      "Name": "THE FIRST CROSSING",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "9_CAMPAIGN_COMPLETED",
+      "SetID": "cki25kh",
+      "Name": "BRITAIN SURVIVES!",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "cki25kh",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:05:27.6893515+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:27.6893417+00:00",
   "LastUpdate_AppInfo": "2024-03-19T13:57:22.7394085+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:28.7661876+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:52.6672234+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:27.6902455+00:00"
 }

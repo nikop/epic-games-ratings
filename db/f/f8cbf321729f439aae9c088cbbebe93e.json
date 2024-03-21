@@ -2,10 +2,10 @@
   "ID": "f8cbf321729f439aae9c088cbbebe93e",
   "Name": "Survivor - Castaway Island",
   "ProductSlug": "survivor-castaway-island-16f672",
-  "Ranking_EOS_Progress": 552,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 595,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
     "PcReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -359,6 +359,11 @@
       "Time": "2024-02-22T21:04:47.949166+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:10:15.3629429+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T10:09:15.6934484+00:00",
@@ -377,15 +382,15 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "_02",
       "SetID": "670ak8f",
       "Name": "Only one family",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -393,7 +398,7 @@
       "ID": "_03",
       "SetID": "670ak8f",
       "Name": "Strategist",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 22
     },
@@ -401,25 +406,25 @@
       "ID": "_04",
       "SetID": "670ak8f",
       "Name": "Multitasking",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "_05",
       "SetID": "670ak8f",
       "Name": "Lazy bones",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "_07",
@@ -458,14 +463,14 @@
     {
       "ID": "670ak8f",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:47.9491657+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:10:15.3629422+00:00",
   "LastUpdate_AppInfo": "2024-03-20T08:57:20.8649997+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:54.2183271+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:47.9491737+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:19.999898+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:15.3629546+00:00"
 }

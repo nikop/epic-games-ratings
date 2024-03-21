@@ -2,10 +2,10 @@
   "ID": "a9d3d11848a14f46a47ced564b521d37",
   "Name": "Withering Rooms",
   "ProductSlug": "withering-rooms-c4fd95",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-02T00:00:00+00:00",
     "PcReleaseDate": "2022-10-04T16:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-18T17:57:20.6255697+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:34.431545+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:12.645249+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:33.0616327+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:00.9925392+00:00"
 }

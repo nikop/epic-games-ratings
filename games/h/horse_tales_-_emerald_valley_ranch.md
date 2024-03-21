@@ -4,39 +4,46 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Newbie | 58.00% | ~21 |
+| The Mastercrafter | 44.00% | ~16 |
+| A helping hand | 36.00% | ~13 |
+| Racing horse | 36.00% | ~13 |
+| Builder | 33.00% | ~12 |
+| Finding Esmeé | 33.00% | ~12 |
+| Horse Whisperer | 31.00% | ~11 |
+| The Champion of Sneaky Ways | 31.00% | ~11 |
+| Junior Show Jumper | 25.00% | ~9 |
+| Finding Lili | 22.00% | ~8 |
+| Masseur | 19.00% | ~7 |
+| Friendship | 19.00% | ~7 |
+| Rodeo Rider | 17.00% | ~6 |
+| Beginner's Luck | 17.00% | ~6 |
+| A Star On The Rise | 17.00% | ~6 |
+| Party Crasher | 17.00% | ~6 |
+| Legendary Steed | 17.00% | ~6 |
+| Surprise! | 17.00% | ~6 |
+| Dog Lover | 17.00% | ~6 |
+| Equine Coiffeur | 14.00% | ~5 |
+| Bon appétit! | 8.00% | ~3 |
+| Squeaky clean | 8.00% | ~3 |
+| Cat Lover | 8.00% | ~3 |
+| Tea Time | 6.00% | ~2 |
+| Apple Pie | 6.00% | ~2 |
+| Buckaroo | 6.00% | ~2 |
+| Paranormal Investigator | 6.00% | ~2 |
+| The Birds and the Bees | 3.00% | ~1 |
 | Completionist | 0.00% | ~0 |
-| Newbie | 0.00% | ~0 |
-| Builder | 0.00% | ~0 |
-| Horse Whisperer | 0.00% | ~0 |
-| A helping hand | 0.00% | ~0 |
-| The Birds and the Bees | 0.00% | ~0 |
-| Junior Show Jumper | 0.00% | ~0 |
-| Racing horse | 0.00% | ~0 |
 | Like Lemmings | 0.00% | ~0 |
-| Tea Time | 0.00% | ~0 |
-| Apple Pie | 0.00% | ~0 |
 | Stud Manager | 0.00% | ~0 |
 | Tenacious Explorer | 0.00% | ~0 |
-| Bon appétit! | 0.00% | ~0 |
-| Masseur | 0.00% | ~0 |
-| Squeaky clean | 0.00% | ~0 |
-| Equine Coiffeur | 0.00% | ~0 |
-| Rodeo Rider | 0.00% | ~0 |
-| Beginner's Luck | 0.00% | ~0 |
 | Champion | 0.00% | ~0 |
-| Buckaroo | 0.00% | ~0 |
-| Paranormal Investigator | 0.00% | ~0 |
-| A Star On The Rise | 0.00% | ~0 |
-| The Mastercrafter | 0.00% | ~0 |
-| The Champion of Sneaky Ways | 0.00% | ~0 |
-| Finding Esmeé | 0.00% | ~0 |
-| Finding Lili | 0.00% | ~0 |
-| Friendship | 0.00% | ~0 |
-| Party Crasher | 0.00% | ~0 |
-| Legendary Steed | 0.00% | ~0 |
-| Surprise! | 0.00% | ~0 |
-| Dog Lover | 0.00% | ~0 |
-| Cat Lover | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 36 (Ranked 663)  
+Completed: 0 (0.00%) (Ranked 445)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-03-21 | 36 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "79c7bac7155c4d2e849394eaf3867245",
   "Name": "World of Goo 2",
   "ProductSlug": "world-of-goo-2",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-23T15:00:00+00:00",
     "PcReleaseDate": "2024-05-23T15:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-20T17:57:28.4908346+00:00",
-  "LastUpdate_Ratings": "2024-03-21T14:59:37.2742933+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:16.1970779+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:57:38.2817991+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:04.7454418+00:00"
 }

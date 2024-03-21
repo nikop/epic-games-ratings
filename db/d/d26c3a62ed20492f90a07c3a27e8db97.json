@@ -2,10 +2,10 @@
   "ID": "d26c3a62ed20492f90a07c3a27e8db97",
   "Name": "Shalnor Legends 2: Trials of Thunder",
   "ProductSlug": "shalnor-legends-2-fea913",
-  "Ranking_EOS_Progress": 789,
-  "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 778,
+  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-05T13:00:00+00:00",
     "PcReleaseDate": "2023-09-05T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 8,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 50,
+  "EOS_Completed_Percentage": 12.5,
   "EosHistory": [
     {
       "Time": "2023-08-27T21:04:40.3056152+00:00",
@@ -44,6 +44,11 @@
       "Time": "2024-02-22T21:03:40.9731798+00:00",
       "NumProgressed": 2,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:08:43.832873+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-27T17:04:35.3385584+00:00",
@@ -54,63 +59,63 @@
       "ID": "ach_id_001",
       "SetID": "ahh0nbm",
       "Name": "Axe of Aegies",
-      "Percentage": 50,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_id_002",
       "SetID": "ahh0nbm",
       "Name": "Monster Slayer",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_003",
       "SetID": "ahh0nbm",
       "Name": "The Great Culling",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_004",
       "SetID": "ahh0nbm",
       "Name": "First Scroll",
-      "Percentage": 50,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_id_005",
       "SetID": "ahh0nbm",
       "Name": "Second Scroll",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_006",
       "SetID": "ahh0nbm",
       "Name": "Third Scroll",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_007",
       "SetID": "ahh0nbm",
       "Name": "Fourth Scroll",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_008",
       "SetID": "ahh0nbm",
       "Name": "Fifth Scroll",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "ID": "ach_id_009",
       "SetID": "ahh0nbm",
       "Name": "Lore Seeker",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "ach_id_010",
       "SetID": "ahh0nbm",
       "Name": "Hatter",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -134,7 +139,7 @@
       "ID": "ach_id_011",
       "SetID": "ahh0nbm",
       "Name": "Mad Hatter",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "ach_id_012",
       "SetID": "ahh0nbm",
       "Name": "Journeyman Fisher",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "ach_id_013",
       "SetID": "ahh0nbm",
       "Name": "Master Fisherman",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -158,7 +163,7 @@
       "ID": "ach_id_014",
       "SetID": "ahh0nbm",
       "Name": "Rune Mastery",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -166,15 +171,15 @@
       "ID": "ach_id_015",
       "SetID": "ahh0nbm",
       "Name": "A Helpful Hand",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_016",
       "SetID": "ahh0nbm",
       "Name": "Problem Solver",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -182,7 +187,7 @@
       "ID": "ach_id_017",
       "SetID": "ahh0nbm",
       "Name": "Smelling Good",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "ach_id_018",
       "SetID": "ahh0nbm",
       "Name": "Master Chef",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -198,15 +203,15 @@
       "ID": "ach_id_019",
       "SetID": "ahh0nbm",
       "Name": "The Listening",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_020",
       "SetID": "ahh0nbm",
       "Name": "Songs of Thunder",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -214,15 +219,15 @@
       "ID": "ach_id_021",
       "SetID": "ahh0nbm",
       "Name": "Skillful",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_022",
       "SetID": "ahh0nbm",
       "Name": "Masterful",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -230,15 +235,15 @@
       "ID": "ach_id_023",
       "SetID": "ahh0nbm",
       "Name": "Clamtastic",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_id_024",
       "SetID": "ahh0nbm",
       "Name": "Clamenomics",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -246,7 +251,7 @@
       "ID": "ach_id_025",
       "SetID": "ahh0nbm",
       "Name": "Champion of Aegies",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -255,14 +260,14 @@
     {
       "ID": "ahh0nbm",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 8,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-01-26T01:45:35.3093867+00:00",
   "FirstSeenAchievements": "2023-08-04T06:04:53.5272508+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:40.9731791+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:43.8328723+00:00",
   "LastUpdate_AppInfo": "2024-03-17T16:57:06.4877023+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:55.0540892+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:40.9731988+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:20.8283887+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:43.8328903+00:00"
 }

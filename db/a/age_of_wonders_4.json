@@ -5,10 +5,10 @@
   "Ranking_Rating": 336,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 384,
-  "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -1197,11 +1197,11 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7306,
-  "EOS_Completed": 9,
-  "EOS_NewPlayers": 31,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Progressed": 7504,
+  "EOS_Completed": 10,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
       "Time": "2023-05-09T15:04:23.1364092+00:00",
@@ -11922,234 +11922,239 @@
       "Time": "2024-01-27T13:06:25.9740506+00:00",
       "NumProgressed": 7306,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-03-21T17:06:42.2938623+00:00",
+      "NumProgressed": 7504,
+      "NumCompleted": 10
     }
   ],
-  "TotalAchievements": 60,
-  "TotalAchievementsXP": 1400,
+  "TotalAchievements": 64,
+  "TotalAchievementsXP": 1560,
   "Achievements": [
     {
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 53
     },
     {
       "ID": "10",
       "SetID": "3aa2279",
       "Name": "Snap Out of It!",
-      "Percentage": 0.7,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 8
     },
     {
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 60
     },
     {
       "ID": "12",
       "SetID": "3aa2279",
       "Name": "I\u0027ve Got Everything I Need Right Here",
-      "Percentage": 2,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 30
     },
     {
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 0.8,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 15
     },
     {
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 10,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 731
+      "UsersEstimate": 68
     },
     {
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 45
     },
     {
       "ID": "16",
       "SetID": "3aa2279",
       "Name": "God Emperor",
-      "Percentage": 2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 23
     },
     {
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 23
     },
     {
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 3,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 23
     },
     {
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 3,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 23
     },
     {
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 5,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 53
     },
     {
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 2,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 38
     },
     {
       "ID": "21",
       "SetID": "3aa2279",
       "Name": "Eternal Lord",
-      "Percentage": 2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 23
     },
     {
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 16,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 75
     },
     {
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 15,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 75
     },
     {
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 18,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 75
     },
     {
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 15,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 68
     },
     {
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 12,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 877
+      "UsersEstimate": 60
     },
     {
       "ID": "27",
       "SetID": "3aa2279",
       "Name": "Digging for Treasure",
-      "Percentage": 5,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 53
     },
     {
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 13,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 950
+      "UsersEstimate": 60
     },
     {
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 9,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 68
     },
     {
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 38
     },
     {
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 4,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 23
     },
     {
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 11,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 804
+      "UsersEstimate": 60
     },
     {
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 438
+      "UsersEstimate": 53
     },
     {
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 9,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 658
+      "UsersEstimate": 53
     },
     {
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 53
     },
     {
       "ID": "35",
@@ -12157,277 +12162,309 @@
       "Name": "I Want to Break Free",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 4,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 75
     },
     {
       "ID": "37",
       "SetID": "3aa2279",
       "Name": "Against the Odds",
-      "Percentage": 5,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 75
     },
     {
       "ID": "38",
       "SetID": "3aa2279",
       "Name": "Manufactured War",
-      "Percentage": 1,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 30
     },
     {
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 45
     },
     {
       "ID": "4",
       "SetID": "3aa2279",
       "Name": "The Eternal Court",
-      "Percentage": 2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 23
     },
     {
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 8,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 38
     },
     {
       "ID": "41",
       "SetID": "3aa2279",
       "Name": "Jack of All Tomes",
-      "Percentage": 0.6,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 8
     },
     {
       "ID": "42",
       "SetID": "3aa2279",
       "Name": "Master of Evilness",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "43",
       "SetID": "3aa2279",
       "Name": "The Grey Wizard",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "44",
       "SetID": "3aa2279",
       "Name": "Pruning for Progress",
-      "Percentage": 1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 15
     },
     {
       "ID": "5",
       "SetID": "3aa2279",
       "Name": "Grexolis",
-      "Percentage": 2,
-      "XP": 50,
-      "UsersEstimate": 146
-    },
-    {
-      "ID": "6",
-      "SetID": "3aa2279",
-      "Name": "One for All, All for One",
-      "Percentage": 2,
-      "XP": 100,
-      "UsersEstimate": 146
-    },
-    {
-      "ID": "7",
-      "SetID": "3aa2279",
-      "Name": "Returning Circle",
-      "Percentage": 0.3,
-      "XP": 50,
-      "UsersEstimate": 22
-    },
-    {
-      "ID": "8",
-      "SetID": "3aa2279",
-      "Name": "Betrayal Most Foul",
-      "Percentage": 1,
-      "XP": 50,
-      "UsersEstimate": 73
-    },
-    {
-      "ID": "9",
-      "SetID": "3aa2279",
-      "Name": "I\u0027ll Fight You All",
       "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 15
     },
     {
+      "ID": "6",
+      "SetID": "3aa2279",
+      "Name": "One for All, All for One",
+      "Percentage": 0.2,
+      "XP": 100,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "7",
+      "SetID": "3aa2279",
+      "Name": "Returning Circle",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "8",
+      "SetID": "3aa2279",
+      "Name": "Betrayal Most Foul",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "9",
+      "SetID": "3aa2279",
+      "Name": "I\u0027ll Fight You All",
+      "Percentage": 0.1,
+      "XP": 50,
+      "UsersEstimate": 8
+    },
+    {
       "ID": "45",
       "SetID": "7132754",
       "Name": "Here be Dragons",
-      "Percentage": 3,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 23
     },
     {
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 3,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 38
     },
     {
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 15
     },
     {
       "ID": "48",
       "SetID": "7132754",
       "Name": "Blood of the Dragon",
-      "Percentage": 2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 23
     },
     {
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 30
     },
     {
       "ID": "50",
       "SetID": "7132754",
       "Name": "Draconic Connoisseur",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 30
     },
     {
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 2,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 15
     },
     {
       "ID": "53",
       "SetID": "7132754",
       "Name": "Prometheus Avenged",
-      "Percentage": 1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 15
     },
     {
       "ID": "54",
       "SetID": "7132754",
       "Name": "Chaos Surge",
-      "Percentage": 2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 23
     },
     {
       "ID": "55",
       "SetID": "7132754",
       "Name": "Seal the Deal",
-      "Percentage": 2,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 15
     },
     {
       "ID": "56",
       "SetID": "7132754",
       "Name": "A Conqueror\u0027s Cohort",
-      "Percentage": 1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 15
     },
     {
       "ID": "57",
       "SetID": "7132754",
       "Name": "Spoils of War",
-      "Percentage": 2,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 15
     },
     {
       "ID": "58",
       "SetID": "7132754",
       "Name": "Dawn of the Dread",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 8
     },
     {
       "ID": "59",
       "SetID": "7132754",
       "Name": "But this one is mine",
-      "Percentage": 6,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 45
     },
     {
       "ID": "60",
       "SetID": "7132754",
       "Name": "A Very Special Ring",
-      "Percentage": 0.5,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "61",
+      "SetID": "7132754",
+      "Name": "Graze Tactics",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "62",
+      "SetID": "7132754",
+      "Name": "Favored by the Spirits",
+      "Percentage": 2,
+      "XP": 50,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "63",
+      "SetID": "7132754",
+      "Name": "Silent Empire",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 150
+    },
+    {
+      "ID": "64",
+      "SetID": "7132754",
+      "Name": "Serpentine Storm",
+      "Percentage": 0.3,
+      "XP": 100,
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7306,
-      "Completed": 4770
+      "Progressed": 7504,
+      "Completed": 4772
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7306,
-      "Completed": 9
+      "Progressed": 7504,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-03-21T04:57:32.1973549+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:25.9740504+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:42.2938616+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:31.1737689+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:58.7037481+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:25.9741416+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:00.3227527+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:42.2940111+00:00"
 }

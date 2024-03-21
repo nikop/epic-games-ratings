@@ -6,52 +6,52 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~371,894 |
-| good drivers have dead flies on the side windows | 33.00% | ~153,406 |
-| keep it tidy | 26.00% | ~120,866 |
-| brail | 26.00% | ~120,866 |
-| car wash | 23.00% | ~106,920 |
-| the artist | 23.00% | ~106,920 |
-| podium | 20.00% | ~92,974 |
-| medium attack | 18.00% | ~83,676 |
-| bicycle race | 6.00% | ~27,892 |
-| grocery-getter | 5.00% | ~23,243 |
-| autopilot | 4.00% | ~18,595 |
-| where is the stage? | 4.00% | ~18,595 |
-| night ride | 4.00% | ~18,595 |
-| snorkel | 4.00% | ~18,595 |
-| rwd only | 3.00% | ~13,946 |
-| food tour: pasta | 3.00% | ~13,946 |
-| to finish first, first you must finish | 2.00% | ~9,297 |
-| perkele | 2.00% | ~9,297 |
-| turbo | 2.00% | ~9,297 |
-| in like a lamb, out like a lion | 2.00% | ~9,297 |
-| if in doubt, flat out! | 2.00% | ~9,297 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~9,297 |
-| mittens | 2.00% | ~9,297 |
-| food tour: pretzel | 2.00% | ~9,297 |
-| espresso | 1.00% | ~4,649 |
-| monster | 1.00% | ~4,649 |
-| parallel universe | 0.80% | ~3,719 |
-| eurobeat | 0.70% | ~3,254 |
-| viking | 0.70% | ~3,254 |
-| oktoberfest | 0.60% | ~2,789 |
-| group b | 0.60% | ~2,789 |
-| samir | 0.60% | ~2,789 |
-| master of rally | 0.50% | ~2,324 |
-| antilag | 0.50% | ~2,324 |
-| maximum attack | 0.50% | ~2,324 |
-| parking lot | 0.40% | ~1,859 |
-| real roads, real fast | 0.40% | ~1,859 |
-| comfy seats | 0.30% | ~1,395 |
-| simulator | 0.20% | ~930 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~465 |
-| absolute drift | 0.10% | ~465 |
-| barely keeping it together | 0.10% | ~465 |
-| you're here for a good time, not a long time | 0.10% | ~465 |
+| light attack | 80.00% | ~385,995 |
+| good drivers have dead flies on the side windows | 33.00% | ~159,223 |
+| keep it tidy | 27.00% | ~130,273 |
+| brail | 27.00% | ~130,273 |
+| car wash | 24.00% | ~115,799 |
+| the artist | 23.00% | ~110,974 |
+| podium | 21.00% | ~101,324 |
+| medium attack | 18.00% | ~86,849 |
+| bicycle race | 6.00% | ~28,950 |
+| grocery-getter | 6.00% | ~28,950 |
+| autopilot | 5.00% | ~24,125 |
+| where is the stage? | 4.00% | ~19,300 |
+| night ride | 4.00% | ~19,300 |
+| snorkel | 4.00% | ~19,300 |
+| rwd only | 3.00% | ~14,475 |
+| food tour: pasta | 3.00% | ~14,475 |
+| to finish first, first you must finish | 2.00% | ~9,650 |
+| perkele | 2.00% | ~9,650 |
+| turbo | 2.00% | ~9,650 |
+| in like a lamb, out like a lion | 2.00% | ~9,650 |
+| if in doubt, flat out! | 2.00% | ~9,650 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~9,650 |
+| mittens | 2.00% | ~9,650 |
+| food tour: pretzel | 2.00% | ~9,650 |
+| espresso | 1.00% | ~4,825 |
+| monster | 1.00% | ~4,825 |
+| parallel universe | 0.80% | ~3,860 |
+| eurobeat | 0.70% | ~3,377 |
+| viking | 0.70% | ~3,377 |
+| oktoberfest | 0.60% | ~2,895 |
+| master of rally | 0.60% | ~2,895 |
+| antilag | 0.60% | ~2,895 |
+| group b | 0.60% | ~2,895 |
+| samir | 0.60% | ~2,895 |
+| parking lot | 0.50% | ~2,412 |
+| maximum attack | 0.50% | ~2,412 |
+| real roads, real fast | 0.40% | ~1,930 |
+| comfy seats | 0.30% | ~1,447 |
+| simulator | 0.20% | ~965 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~482 |
+| absolute drift | 0.10% | ~482 |
+| barely keeping it together | 0.10% | ~482 |
+| you're here for a good time, not a long time | 0.10% | ~482 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464,868 (Ranked 47)  
-Completed: 37 (0.01%) (Ranked 399)  
+Progressed: 482,494 (Ranked 46)  
+Completed: 42 (0.01%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,6 +264,7 @@ Completed: 37 (0.01%) (Ranked 399)
 | 2024-01-26 | 437,143 | 29 |
 | 2024-01-27 | 437,887 | 29 |
 | 2024-02-22 | 464,868 | 37 |
+| 2024-03-21 | 482,494 | 42 |
 ## Awards
 Max (Highly Recommended): 70  (Ranked 446)  
 Sum: 539 (Ranked 351)  

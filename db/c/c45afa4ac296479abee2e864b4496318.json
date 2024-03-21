@@ -2,10 +2,10 @@
   "ID": "c45afa4ac296479abee2e864b4496318",
   "Name": "WW2 Bunker Simulator",
   "ProductSlug": "ww2-bunker-simulator-fe8678",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-10-10T08:00:00+00:00",
@@ -28,11 +28,174 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-03-21T17:05:35.2225333+00:00",
+  "TotalAchievements": 19,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BODY",
+      "SetID": "821pm01",
+      "Name": "Nobody will be offended",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BODY2",
+      "SetID": "821pm01",
+      "Name": "You have to survive somehow ...",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BODY3",
+      "SetID": "821pm01",
+      "Name": "Graveyard hyena",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_END_TUTORIAL",
+      "SetID": "821pm01",
+      "Name": "Greenhorn",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLER_MACHINE",
+      "SetID": "821pm01",
+      "Name": "Try to get me!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLER_MACHINE2",
+      "SetID": "821pm01",
+      "Name": "Bratatatata!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLER_MACHINE3",
+      "SetID": "821pm01",
+      "Name": "Dominator",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLER_PISTOL",
+      "SetID": "821pm01",
+      "Name": "Do not come!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLER_PISTOL2",
+      "SetID": "821pm01",
+      "Name": "One-armed bandit",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILLER_PISTOL3",
+      "SetID": "821pm01",
+      "Name": "Gunslinger",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LUMBER",
+      "SetID": "821pm01",
+      "Name": "When you run out of ammo ...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LUMBER2",
+      "SetID": "821pm01",
+      "Name": "Assassin",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LUMBER3",
+      "SetID": "821pm01",
+      "Name": "Butcher",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PLANE",
+      "SetID": "821pm01",
+      "Name": "Keep on quilting!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PLANE2",
+      "SetID": "821pm01",
+      "Name": "Heaven under control",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PLANE3",
+      "SetID": "821pm01",
+      "Name": "A ground ace",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TANKS",
+      "SetID": "821pm01",
+      "Name": "Let it go on!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TANKS2",
+      "SetID": "821pm01",
+      "Name": "Taste your own weapons!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TANKS3",
+      "SetID": "821pm01",
+      "Name": "Hunter",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "821pm01",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:05:35.2225332+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:35.2225283+00:00",
   "LastUpdate_AppInfo": "2024-03-15T21:57:22.5870881+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:57.4944745+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:36.1037871+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:33.0557289+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:35.2234811+00:00"
 }

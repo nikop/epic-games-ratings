@@ -2,13 +2,13 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 463,
+  "Ranking_Rating": 464,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -99,7 +99,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 770,
+  "EOS_Progressed": 776,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1029,6 +1029,11 @@
       "Time": "2024-02-22T21:04:16.3010301+00:00",
       "NumProgressed": 770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:09:32.883922+00:00",
+      "NumProgressed": 776,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -1056,7 +1061,7 @@
       "Name": "1CC",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "2DigitGoalTrophy",
@@ -1064,7 +1069,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -1072,7 +1077,7 @@
       "Name": "GOOOOOOAAAAAAALLLL!!!!",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "4DigitGoalTrophy",
@@ -1088,7 +1093,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 698
     },
     {
       "ID": "AhoyTrophy",
@@ -1112,7 +1117,7 @@
       "Name": "Goal",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -1128,7 +1133,7 @@
       "Name": "Bombscare",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "BorkTrophy",
@@ -1152,23 +1157,23 @@
       "Name": "Rhythm is a dancer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "DebugTrophy",
       "SetID": "32aeje8",
       "Name": "Bug Fixer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 186
     },
     {
       "ID": "DreadTrophy",
       "SetID": "32aeje8",
       "Name": "Existential dread",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 210
     },
     {
       "ID": "DropBallTrophy",
@@ -1184,15 +1189,15 @@
       "Name": "Pushing a pull door",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 753
     },
     {
       "ID": "Ext4Trophy",
       "SetID": "32aeje8",
       "Name": "New Kid on the Block",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 54
     },
     {
       "ID": "FatTrophy",
@@ -1214,9 +1219,9 @@
       "ID": "GoalMachineTrophy",
       "SetID": "32aeje8",
       "Name": "Machine Maxed",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 217
     },
     {
       "ID": "GoldGuyTrophy",
@@ -1232,7 +1237,7 @@
       "Name": "Modern Gorefare",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "GrindTrophy",
@@ -1318,9 +1323,9 @@
       "ID": "MachineTrophy",
       "SetID": "32aeje8",
       "Name": "I can\u0027t wait!",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 639
+      "UsersEstimate": 636
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1328,7 +1333,7 @@
       "Name": "Jimmy Goldman Would be Proud",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MergeBallsTrophy",
@@ -1360,7 +1365,7 @@
       "Name": "Taking the plunge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "RacerTrophy",
@@ -1368,7 +1373,7 @@
       "Name": "GTA: Crime City",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "RideTrophy",
@@ -1392,7 +1397,7 @@
       "Name": "Slacker",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SpinTrophy",
@@ -1400,15 +1405,15 @@
       "Name": "You Spin Me Round",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SwishTrophy",
       "SetID": "32aeje8",
       "Name": "Swish",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 427
     },
     {
       "ID": "TerrorTrophy",
@@ -1440,7 +1445,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 303
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1448,7 +1453,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 194
     },
     {
       "ID": "YouthTrophy",
@@ -1471,7 +1476,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 770,
+      "Progressed": 776,
       "Completed": 0
     }
   ],
@@ -1479,8 +1484,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:16.3010296+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:32.8839214+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:03.2140847+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:37.4325878+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:16.3010903+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:03.7041825+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:32.8839597+00:00"
 }

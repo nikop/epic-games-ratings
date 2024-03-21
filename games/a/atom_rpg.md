@@ -6,45 +6,45 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,832 |
-| One HIT wonder | 34.00% | ~629 |
-| Wanderer | 32.00% | ~592 |
-| One shot, one kill | 25.00% | ~463 |
-| Traveler | 23.00% | ~426 |
-| Grave Robber | 17.00% | ~315 |
-| Explorer | 16.00% | ~296 |
-| Head Burst | 16.00% | ~296 |
-| Double agent | 15.00% | ~278 |
-| Paranoia | 15.00% | ~278 |
-| Savant | 10.00% | ~185 |
-| Kraina Grzybow | 9.00% | ~167 |
-| Love Guru | 9.00% | ~167 |
-| Bustin' nuts | 8.00% | ~148 |
-| Superhuman | 8.00% | ~148 |
-| Not-so-private Eye | 7.00% | ~130 |
-| The Vitinsky Rifle | 6.00% | ~111 |
-| Protection racket | 5.00% | ~93 |
-| Sacrifice | 4.00% | ~74 |
-| Secret room | 4.00% | ~74 |
-| Indy | 3.00% | ~56 |
-| Wishmaster | 3.00% | ~56 |
-| Career criminal | 2.00% | ~37 |
+| Atom Agent | 99.00% | ~1,883 |
+| One HIT wonder | 35.00% | ~666 |
+| Wanderer | 32.00% | ~609 |
+| One shot, one kill | 26.00% | ~495 |
+| Traveler | 23.00% | ~437 |
+| Explorer | 17.00% | ~323 |
+| Grave Robber | 17.00% | ~323 |
+| Head Burst | 17.00% | ~323 |
+| Double agent | 15.00% | ~285 |
+| Paranoia | 15.00% | ~285 |
+| Savant | 10.00% | ~190 |
+| Kraina Grzybow | 9.00% | ~171 |
+| Love Guru | 9.00% | ~171 |
+| Bustin' nuts | 8.00% | ~152 |
+| Not-so-private Eye | 8.00% | ~152 |
+| Superhuman | 8.00% | ~152 |
+| The Vitinsky Rifle | 6.00% | ~114 |
+| Protection racket | 5.00% | ~95 |
+| Sacrifice | 4.00% | ~76 |
+| Secret room | 4.00% | ~76 |
+| Indy | 3.00% | ~57 |
+| Wishmaster | 3.00% | ~57 |
+| Career criminal | 2.00% | ~38 |
 | Neanderthal | 1.00% | ~19 |
 | It was worth a shot | 1.00% | ~19 |
 | Cosmic Horror | 1.00% | ~19 |
 | Ghostbuster | 0.60% | ~11 |
-| Comrade Yogi | 0.50% | ~9 |
-| Cheeki Breeki | 0.40% | ~7 |
-| It's a classic! | 0.40% | ~7 |
-| Tourist Korallov | 0.40% | ~7 |
+| Cheeki Breeki | 0.50% | ~10 |
+| Comrade Yogi | 0.50% | ~10 |
+| Tourist Korallov | 0.50% | ~10 |
+| It's a classic! | 0.40% | ~8 |
 | Expert | 0.30% | ~6 |
 | Mystical relics | 0.20% | ~4 |
 | 27 Club | 0.10% | ~2 |
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,851 (Ranked 271)  
-Completed: 1 (0.05%) (Ranked 358)  
+Progressed: 1,902 (Ranked 281)  
+Completed: 1 (0.05%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,10 +279,11 @@ Completed: 1 (0.05%) (Ranked 358)
 | 2024-01-26 | 1,771 | 1 |
 | 2024-01-27 | 1,776 | 1 |
 | 2024-02-22 | 1,851 | 1 |
+| 2024-03-21 | 1,902 | 1 |
 ## Awards
 Max (Character Customization): 56  (Ranked 469)  
-Sum: 56 (Ranked 537)  
-Diff (max vs sum): -68  
+Sum: 56 (Ranked 538)  
+Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 56 |

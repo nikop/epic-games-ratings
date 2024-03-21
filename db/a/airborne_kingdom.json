@@ -5,10 +5,10 @@
   "Ranking_Rating": 336,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7975,
+  "EOS_Progressed": 8048,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -7218,6 +7218,11 @@
       "Time": "2024-03-04T23:05:13.7381641+00:00",
       "NumProgressed": 7975,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-03-21T17:13:03.9821626+00:00",
+      "NumProgressed": 8048,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 27,
@@ -7229,7 +7234,7 @@
       "Name": "The Cycle Continues",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 239
+      "UsersEstimate": 241
     },
     {
       "ID": "AK_DAYLIGHT_FOUND",
@@ -7237,7 +7242,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2092
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -7245,7 +7250,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3300
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -7253,7 +7258,7 @@
       "Name": "Glowing Waters",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "AK_GROVE_REPLANTED",
@@ -7261,7 +7266,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4265
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -7269,7 +7274,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1851
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -7277,7 +7282,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1754
+      "UsersEstimate": 1771
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -7285,7 +7290,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1994
+      "UsersEstimate": 2012
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -7293,7 +7298,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1994
+      "UsersEstimate": 2012
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -7301,7 +7306,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 478
+      "UsersEstimate": 483
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -7309,7 +7314,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1610
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -7317,7 +7322,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1046
     },
     {
       "ID": "AK_ON_TOWN",
@@ -7325,7 +7330,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2253
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -7333,7 +7338,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1127
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -7341,7 +7346,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1046
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -7349,7 +7354,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1851
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -7357,7 +7362,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1610
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -7365,7 +7370,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3300
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -7373,7 +7378,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3300
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -7381,7 +7386,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4507
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -7389,7 +7394,7 @@
       "Name": "Sparkling Alloys",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "AK_TAKES_VILLAGE",
@@ -7397,7 +7402,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2736
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -7405,7 +7410,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1851
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -7413,7 +7418,7 @@
       "Name": "A True Challenge",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "AK_WANDERERS_GUIDE",
@@ -7421,7 +7426,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 877
+      "UsersEstimate": 885
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -7429,7 +7434,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3219
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -7437,22 +7442,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1529
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7975,
+      "Progressed": 8048,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:05:13.7381637+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:13:03.9821617+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:56.8515821+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:12.6854587+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:05:13.738224+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:29.3784793+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:13:03.9822151+00:00"
 }

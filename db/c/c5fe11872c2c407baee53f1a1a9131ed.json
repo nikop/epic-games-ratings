@@ -2,10 +2,10 @@
   "ID": "c5fe11872c2c407baee53f1a1a9131ed",
   "Name": "SPINGUN",
   "ProductSlug": "spingun-843f78",
-  "Ranking_EOS_Progress": 470,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -804,6 +804,11 @@
       "Time": "2024-02-22T21:04:00.2516361+00:00",
       "NumProgressed": 172,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:09:10.396222+00:00",
+      "NumProgressed": 173,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -853,9 +858,9 @@
       "ID": "ach_bp_30",
       "SetID": "5a4225j",
       "Name": "Ballpit 30 Seconds",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_chainer_zone",
@@ -885,9 +890,9 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 115
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_endless_60",
@@ -895,7 +900,7 @@
       "Name": "Endless 60 Seconds",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_endless_c_60",
@@ -1022,14 +1027,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:00.2516358+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:10.3962213+00:00",
   "LastUpdate_AppInfo": "2024-03-16T23:57:22.9137612+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:53.5688491+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:00.2516545+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:27.6201444+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:10.3962475+00:00"
 }

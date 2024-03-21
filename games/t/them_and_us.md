@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~297 |
-| Forced to Kill | 63.00% | ~279 |
-| A Night To Remember | 38.00% | ~168 |
-| Safe...For now? | 29.00% | ~128 |
-| Open Sesame | 25.00% | ~111 |
-| What have I done!? | 17.00% | ~75 |
-| Them and Us | 16.00% | ~71 |
-| OUTRAGE | 16.00% | ~71 |
-| Alone In The Dark | 14.00% | ~62 |
-| This Coffin Has Your Name On It! | 14.00% | ~62 |
-| The Cultists | 13.00% | ~58 |
-| Parasite Exterminated | 12.00% | ~53 |
-| The Forgotten Tower | 12.00% | ~53 |
-| Trapped | 11.00% | ~49 |
-| The Curse Is Real | 10.00% | ~44 |
-| Lover of classics | 9.00% | ~40 |
-| Modern Player | 9.00% | ~40 |
-| Rest In Peace | 9.00% | ~40 |
-| What A Mansion | 8.00% | ~35 |
+| Alone with Them | 67.00% | ~306 |
+| Forced to Kill | 63.00% | ~288 |
+| A Night To Remember | 37.00% | ~169 |
+| Safe...For now? | 28.00% | ~128 |
+| Open Sesame | 24.00% | ~110 |
+| What have I done!? | 17.00% | ~78 |
+| Them and Us | 16.00% | ~73 |
+| OUTRAGE | 16.00% | ~73 |
+| This Coffin Has Your Name On It! | 14.00% | ~64 |
+| Alone In The Dark | 13.00% | ~59 |
+| The Cultists | 12.00% | ~55 |
+| The Forgotten Tower | 12.00% | ~55 |
+| Parasite Exterminated | 11.00% | ~50 |
+| Trapped | 11.00% | ~50 |
+| Lover of classics | 9.00% | ~41 |
+| Modern Player | 9.00% | ~41 |
+| Rest In Peace | 9.00% | ~41 |
+| The Curse Is Real | 9.00% | ~41 |
+| What A Mansion | 8.00% | ~37 |
 | Researcher | 6.00% | ~27 |
 | I Am The Gate Keeper! | 6.00% | ~27 |
-| Armed To The Teeth | 5.00% | ~22 |
+| Armed To The Teeth | 4.00% | ~18 |
 | This Mansion Is Clean | 4.00% | ~18 |
 | Back In Time | 2.00% | ~9 |
 | Retro Player | 2.00% | ~9 |
@@ -35,9 +35,9 @@
 | The 5th Element | 2.00% | ~9 |
 | The bus stop | 2.00% | ~9 |
 | Before The Eclipse | 0.70% | ~3 |
-| Box Of Ploutus | 0.50% | ~2 |
-| No Time To Relax | 0.50% | ~2 |
-| Survival Hero | 0.50% | ~2 |
+| Box Of Ploutus | 0.40% | ~2 |
+| No Time To Relax | 0.40% | ~2 |
+| Survival Hero | 0.40% | ~2 |
 | Chosen One | 0.20% | ~1 |
 | Die Another Day | 0.20% | ~1 |
 | Dressed to Kill | 0.20% | ~1 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 443 (Ranked 379)  
-Completed: 1 (0.23%) (Ranked 290)  
+Progressed: 457 (Ranked 400)  
+Completed: 1 (0.22%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,6 +184,7 @@ Completed: 1 (0.23%) (Ranked 290)
 | 2024-01-21 | 430 | 1 |
 | 2024-01-24 | 431 | 1 |
 | 2024-03-04 | 443 | 1 |
+| 2024-03-21 | 457 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

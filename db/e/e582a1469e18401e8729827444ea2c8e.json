@@ -2,10 +2,10 @@
   "ID": "e582a1469e18401e8729827444ea2c8e",
   "Name": "DotLine",
   "ProductSlug": "dot-line-e45fbd",
-  "Ranking_EOS_Progress": 658,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 708,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-15T18:00:00+00:00",
     "PcReleaseDate": "2018-09-22T00:00:00+00:00",
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -32,6 +32,11 @@
     {
       "Time": "2024-03-04T23:04:19.8070518+00:00",
       "NumProgressed": 20,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:12:08.5962888+00:00",
+      "NumProgressed": 21,
       "NumCompleted": 0
     }
   ],
@@ -75,7 +80,7 @@
       "ID": "ACH_13",
       "SetID": "7be47b7",
       "Name": "Act A",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -380,13 +385,13 @@
     {
       "ID": "7be47b7",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 21,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:19.8070559+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:19.8070512+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:08.5962882+00:00",
   "LastUpdate_AppInfo": "2024-03-17T18:57:13.2518434+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:44.3770558+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:19.8078501+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:43.2750899+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:08.5963184+00:00"
 }

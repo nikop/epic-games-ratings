@@ -2,10 +2,10 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_EOS_Progress": 353,
-  "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 626,
+  "EOS_Progressed": 657,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.48,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:20.8598224+00:00",
@@ -1259,6 +1259,11 @@
       "Time": "2024-02-22T21:05:47.4544081+00:00",
       "NumProgressed": 626,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-03-21T17:11:34.986708+00:00",
+      "NumProgressed": 657,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1278,7 +1283,7 @@
       "Name": "We Are a Family",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "TROP002",
@@ -1286,7 +1291,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "TROP003",
@@ -1294,7 +1299,7 @@
       "Name": "Two Peas in a Pod",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "TROP004",
@@ -1302,15 +1307,15 @@
       "Name": "All For One",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "TROP005",
       "SetID": "9n0dl35",
       "Name": "A Friend in Need",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 394
     },
     {
       "ID": "TROP006",
@@ -1318,7 +1323,7 @@
       "Name": "Maternity",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 105
     },
     {
       "ID": "TROP007",
@@ -1326,7 +1331,7 @@
       "Name": "Family Reunion",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "TROP008",
@@ -1334,15 +1339,15 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 624
     },
     {
       "ID": "TROP009",
       "SetID": "9n0dl35",
       "Name": "Surviving",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 276
     },
     {
       "ID": "TROP010",
@@ -1350,7 +1355,7 @@
       "Name": "Hard Fox Life",
       "Percentage": 23,
       "XP": 60,
-      "UsersEstimate": 144
+      "UsersEstimate": 151
     },
     {
       "ID": "TROP011",
@@ -1358,7 +1363,7 @@
       "Name": "Extinction is Forever",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "TROP012",
@@ -1366,15 +1371,15 @@
       "Name": "Never Give Up",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 256
     },
     {
       "ID": "TROP013",
       "SetID": "9n0dl35",
       "Name": "Never Let Down",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "TROP014",
@@ -1382,15 +1387,15 @@
       "Name": "Never Run Around",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "TROP015",
       "SetID": "9n0dl35",
       "Name": "For a Better Tomorrow",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 25
+      "UsersEstimate": 20
     },
     {
       "ID": "TROP016",
@@ -1398,7 +1403,7 @@
       "Name": "Beyond Words",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "TROP017",
@@ -1414,7 +1419,7 @@
       "Name": "Mother Love",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "TROP019",
@@ -1422,7 +1427,7 @@
       "Name": "Barking in The Rain",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "TROP020",
@@ -1430,7 +1435,7 @@
       "Name": "Peaceful Instinct",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 118
     },
     {
       "ID": "TROP021",
@@ -1438,7 +1443,7 @@
       "Name": "Tasty",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 237
     },
     {
       "ID": "TROP022",
@@ -1446,7 +1451,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 131
     },
     {
       "ID": "TROP023",
@@ -1454,7 +1459,7 @@
       "Name": "Detox diet",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 276
     },
     {
       "ID": "TROP024",
@@ -1462,7 +1467,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 191
     },
     {
       "ID": "TROP025",
@@ -1470,7 +1475,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 138
     },
     {
       "ID": "TROP026",
@@ -1478,7 +1483,7 @@
       "Name": "Lullaby",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 197
     },
     {
       "ID": "TROP027",
@@ -1493,7 +1498,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 626,
+      "Progressed": 657,
       "Completed": 3
     }
   ],
@@ -1501,8 +1506,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:47.4544078+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:34.9867074+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:33.0095861+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:26.9354157+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:47.4544321+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:28.0203577+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:34.9867372+00:00"
 }

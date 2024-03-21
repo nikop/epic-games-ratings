@@ -2,10 +2,10 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-01T03:00:00+00:00",
     "PcReleaseDate": "2024-05-01T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 495,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2049,6 +2049,11 @@
       "Time": "2024-02-22T21:05:40.796941+00:00",
       "NumProgressed": 491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:11:26.7757392+00:00",
+      "NumProgressed": 495,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -2077,7 +2082,7 @@
       "Name": "Construct your world",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "goblin_slayed",
@@ -2117,7 +2122,7 @@
       "Name": "Pianist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "platformer_player",
@@ -2133,7 +2138,7 @@
       "Name": "Play worlds from foes",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "publish_your_first_world",
@@ -2173,7 +2178,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "treant_destroyer",
@@ -2212,14 +2217,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 495,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:40.7969408+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:26.7757385+00:00",
   "LastUpdate_AppInfo": "2024-03-15T03:57:15.3336806+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:53.7817022+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:40.7969563+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:57.4338001+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:26.7757615+00:00"
 }

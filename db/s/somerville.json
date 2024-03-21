@@ -5,10 +5,10 @@
   "Ranking_Rating": 986,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
-  "Ranking_EOS_Progress": 275,
-  "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -93,11 +93,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1712,
+  "EOS_Progressed": 1720,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.93,
+  "EOS_Completed_Percentage": 1.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -968,6 +968,11 @@
       "Time": "2024-02-22T21:05:14.8758266+00:00",
       "NumProgressed": 1712,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-03-21T17:10:52.2103049+00:00",
+      "NumProgressed": 1720,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 11,
@@ -993,9 +998,9 @@
       "ID": "SomervilleFraternizingWithEnemy",
       "SetID": "3mk3nll",
       "Name": "First contact",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "SomervilleHereBoy",
@@ -1019,15 +1024,15 @@
       "Name": "Resignation Reprise",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "SomervilleStuckOnTheJohn",
       "SetID": "3mk3nll",
       "Name": "\u201COccupied!\u201C",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 86
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -1057,16 +1062,16 @@
       "ID": "SomervilleWorldsBestDad",
       "SetID": "3mk3nll",
       "Name": "Worlds best dad",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1712,
+      "Progressed": 1720,
       "Completed": 33
     }
   ],
@@ -1074,8 +1079,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:05:14.8758263+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:10:52.2103043+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:23.1903805+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:40.1661868+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:05:14.8758392+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:38.6662607+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:10:52.2103197+00:00"
 }

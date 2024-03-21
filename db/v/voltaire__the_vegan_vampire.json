@@ -2,10 +2,10 @@
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
-  "Ranking_EOS_Progress": 498,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 520,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -301,6 +301,11 @@
       "Time": "2024-01-18T22:06:18.5625733+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:59.8306163+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -318,33 +323,33 @@
       "ID": "ALL_VEGGIES",
       "SetID": "3c20ib3",
       "Name": "Veggie Master",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "CASTLE",
       "SetID": "3c20ib3",
       "Name": "Homecoming",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 35,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 60,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 82
     },
     {
       "ID": "FISH",
@@ -352,7 +357,7 @@
       "Name": "C\u0027who?",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "GET_PETS",
@@ -360,29 +365,29 @@
       "Name": "Who let the pets out?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GET_SOULSTONES",
       "SetID": "3c20ib3",
       "Name": "Make it rain",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "GLOWBUG",
       "SetID": "3c20ib3",
       "Name": "Shine bright",
-      "Percentage": 21,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 44
     },
     {
       "ID": "GRAVEYARD",
       "SetID": "3c20ib3",
       "Name": "So it begins",
-      "Percentage": 82,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 104
     },
@@ -390,9 +395,9 @@
       "ID": "HUNTING",
       "SetID": "3c20ib3",
       "Name": "Peaceful skies",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "HUNTSMAN",
@@ -408,13 +413,13 @@
       "Name": "It\u0027s a bug\u0027s life",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KILL_DRACULA",
       "SetID": "3c20ib3",
       "Name": "Daddy Issues",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -422,55 +427,55 @@
       "ID": "KILL_ELCAPITAN",
       "SetID": "3c20ib3",
       "Name": "Ay ay yarrr!",
-      "Percentage": 24,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 51
     },
     {
       "ID": "KILL_ENEMIES",
       "SetID": "3c20ib3",
       "Name": "Free Spirit",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "KILL_GROVE",
       "SetID": "3c20ib3",
       "Name": "I am Root!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "KILL_HOGRIDER",
       "SetID": "3c20ib3",
       "Name": "Yeehaw!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL_SANDRHINO",
       "SetID": "3c20ib3",
       "Name": "Tururururu!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL_SKULLY",
       "SetID": "3c20ib3",
       "Name": "Night Shift",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KILL_YEETUS",
       "SetID": "3c20ib3",
       "Name": "Yeetus Deletus",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -478,23 +483,23 @@
       "ID": "PLANT_VEGGIES",
       "SetID": "3c20ib3",
       "Name": "Holy Crops!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "REACH_10",
       "SetID": "3c20ib3",
       "Name": "It\u0027s about the journey",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "REACH_20",
       "SetID": "3c20ib3",
       "Name": "Best in the field",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -502,23 +507,23 @@
       "ID": "SILVERBANE",
       "SetID": "3c20ib3",
       "Name": "There be sand in me shorts",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 21
     },
     {
       "ID": "SNOWSCALE",
       "SetID": "3c20ib3",
       "Name": "Do you wanna build a snowboiii?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "SOUTHERN",
       "SetID": "3c20ib3",
       "Name": "It gets everywhere",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -534,17 +539,17 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "UNLOCK_WELL",
       "SetID": "3c20ib3",
       "Name": "Irrigation not irritation",
-      "Percentage": 34,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "V_VEGAN",
@@ -552,14 +557,14 @@
       "Name": "V is for Vegan",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
@@ -567,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:03:52.3134153+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:59.8306157+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:09.8734326+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:58:45.5098549+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:52.313432+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:01:46.2733061+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:59.8306394+00:00"
 }

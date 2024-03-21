@@ -2,10 +2,10 @@
   "ID": "6ac1cb16aaf949c0aa7ca74c9663665f",
   "Name": "Medieval Knight",
   "ProductSlug": "medieval-knight-2e8f8b",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 790,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-11T00:00:00+00:00",
     "PcReleaseDate": "2023-12-28T19:00:00+00:00",
@@ -23,16 +23,74 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-03-21T17:05:28.6444566+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-03-21T17:05:28.6444695+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_3",
+      "SetID": "41oa52p",
+      "Name": "First Death",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_4",
+      "SetID": "41oa52p",
+      "Name": "Expansion",
+      "Percentage": 50,
+      "XP": 200,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_5",
+      "SetID": "41oa52p",
+      "Name": "Growth",
+      "Percentage": 17,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_FIRST_CHAR",
+      "SetID": "41oa52p",
+      "Name": "First Character",
+      "Percentage": 83,
+      "XP": 200,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "ACH_FIRST_SETTLEMENT",
+      "SetID": "41oa52p",
+      "Name": "First Settlement",
+      "Percentage": 83,
+      "XP": 200,
+      "UsersEstimate": 5
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "41oa52p",
+      "IsBase": true,
+      "Progressed": 6,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-03-21T17:05:28.6444694+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:05:28.6444554+00:00",
   "LastUpdate_AppInfo": "2024-03-17T16:57:07.2968656+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:47.233527+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:45.780603+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:28.6455405+00:00"
 }

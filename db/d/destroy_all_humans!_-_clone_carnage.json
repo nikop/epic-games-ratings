@@ -2,10 +2,10 @@
   "ID": "eee66cc2b7d84d05942cd6d2a099d856",
   "Name": "Destroy All Humans! - Clone Carnage",
   "ProductSlug": "destroy-all-humans-clone-carnage",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-05-31T17:00:00+00:00",
     "PcReleaseDate": "2022-05-31T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:28.7532281+00:00",
   "LastChanged": "2023-03-31T05:57:28.7532283+00:00",
   "LastUpdate_AppInfo": "2024-03-16T23:57:17.8875703+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:01.3058483+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:03:53.0338635+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:05.603995+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:00.6531124+00:00"
 }

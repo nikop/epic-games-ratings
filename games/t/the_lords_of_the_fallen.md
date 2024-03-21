@@ -5,72 +5,72 @@ Rating: 4.21 (Ranked 994)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wayfarer | 0.10% | ~15 |
-| A Veil Lifted | 0.10% | ~15 |
-| Lost and Found | 0.10% | ~15 |
+| A Veil Lifted | 2.00% | ~306 |
+| Lost and Found | 2.00% | ~306 |
+| Vengeance for the Fallen | 2.00% | ~306 |
+| Rise and Fall | 2.00% | ~306 |
+| Thriving in Darkness | 2.00% | ~306 |
+| A Rest Among the Dead | 2.00% | ~306 |
+| Honed to Perfection | 1.00% | ~153 |
+| Rune Novice | 1.00% | ~153 |
+| Rune Master | 1.00% | ~153 |
+| Shades of Violence | 1.00% | ~153 |
+| Together in Death | 1.00% | ~153 |
+| Burying the Past | 1.00% | ~153 |
+| Unwanted | 1.00% | ~153 |
+| Unbroken to the End | 1.00% | ~153 |
+| Wings of Grief | 1.00% | ~153 |
+| Twin Faces of Sin | 1.00% | ~153 |
+| Judgement | 1.00% | ~153 |
+| Hunt's End | 1.00% | ~153 |
+| The King is Dead | 1.00% | ~153 |
+| Fallen | 1.00% | ~153 |
+| In Light we Walk | 1.00% | ~153 |
+| Essence of Death | 1.00% | ~153 |
+| Seasoned | 1.00% | ~153 |
+| The Past Shapes the Present | 1.00% | ~153 |
+| Antanas' Legacy | 0.90% | ~138 |
+| Without Purpose | 0.90% | ~138 |
+| Carving Out Victory | 0.80% | ~123 |
+| Utmost Insight | 0.80% | ~123 |
+| No Mercy | 0.80% | ~123 |
+| Comrades | 0.70% | ~107 |
+| Shared Triumph | 0.70% | ~107 |
+| Travels Resumed | 0.70% | ~107 |
+| Wayfarer | 0.60% | ~92 |
+| Hero Worship | 0.60% | ~92 |
+| Salvation in Blood | 0.40% | ~61 |
+| The Price of Knowledge | 0.40% | ~61 |
+| Moving On | 0.40% | ~61 |
+| A Shadow Dispelled | 0.40% | ~61 |
+| Faithful | 0.30% | ~46 |
+| A Queen's Rest | 0.30% | ~46 |
+| Vengeful Reflection | 0.30% | ~46 |
+| Lord of the Risen | 0.30% | ~46 |
+| Back to the Void | 0.30% | ~46 |
+| Radiant Adept | 0.20% | ~31 |
+| Umbral Offerings | 0.20% | ~31 |
+| A Hunger Sated | 0.20% | ~31 |
+| Part of the Divine | 0.20% | ~31 |
 | Weapon Collector | 0.10% | ~15 |
 | Ironclad | 0.10% | ~15 |
 | What Sights Contained Within | 0.10% | ~15 |
 | Trinket Collector | 0.10% | ~15 |
 | Ammunition Collector | 0.10% | ~15 |
 | Inferno Adept | 0.10% | ~15 |
-| Radiant Adept | 0.10% | ~15 |
 | Umbral Adept | 0.10% | ~15 |
 | Throwable Collector | 0.10% | ~15 |
 | Gesture Collector | 0.10% | ~15 |
-| Salvation in Blood | 0.10% | ~15 |
-| Honed to Perfection | 0.10% | ~15 |
-| Rune Novice | 0.10% | ~15 |
-| Rune Master | 0.10% | ~15 |
-| Carving Out Victory | 0.10% | ~15 |
-| Utmost Insight | 0.10% | ~15 |
-| Comrades | 0.10% | ~15 |
-| Shared Triumph | 0.10% | ~15 |
-| Vengeance for the Fallen | 0.10% | ~15 |
-| No Mercy | 0.10% | ~15 |
 | Infernal Offerings | 0.10% | ~15 |
 | Radiant Offerings | 0.10% | ~15 |
-| Umbral Offerings | 0.10% | ~15 |
-| Shades of Violence | 0.10% | ~15 |
-| Rise and Fall | 0.10% | ~15 |
-| Together in Death | 0.10% | ~15 |
-| Burying the Past | 0.10% | ~15 |
-| Unwanted | 0.10% | ~15 |
-| Unbroken to the End | 0.10% | ~15 |
-| Wings of Grief | 0.10% | ~15 |
-| Twin Faces of Sin | 0.10% | ~15 |
-| Judgement | 0.10% | ~15 |
-| Hunt's End | 0.10% | ~15 |
-| The King is Dead | 0.10% | ~15 |
-| A Hunger Sated | 0.10% | ~15 |
-| Fallen | 0.10% | ~15 |
 | None Shall be Spared | 0.10% | ~15 |
-| The Price of Knowledge | 0.10% | ~15 |
-| Part of the Divine | 0.10% | ~15 |
-| Travels Resumed | 0.10% | ~15 |
-| Moving On | 0.10% | ~15 |
-| Hero Worship | 0.10% | ~15 |
-| Antanas' Legacy | 0.10% | ~15 |
-| Faithful | 0.10% | ~15 |
-| Without Purpose | 0.10% | ~15 |
-| A Queen's Rest | 0.10% | ~15 |
 | The Last Step | 0.10% | ~15 |
-| Vengeful Reflection | 0.10% | ~15 |
-| Lord of the Risen | 0.10% | ~15 |
-| In Light we Walk | 0.10% | ~15 |
-| Back to the Void | 0.10% | ~15 |
-| A Shadow Dispelled | 0.10% | ~15 |
-| Essence of Death | 0.10% | ~15 |
-| Thriving in Darkness | 0.10% | ~15 |
-| Seasoned | 0.10% | ~15 |
 | Lord of the Fallen | 0.10% | ~15 |
-| The Past Shapes the Present | 0.10% | ~15 |
 | Lingering Moments | 0.10% | ~15 |
-| A Rest Among the Dead | 0.10% | ~15 |
 | A Trace of Venom | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,820 (Ranked 181)  
-Completed: 2 (0.01%) (Ranked 399)  
+Progressed: 15,317 (Ranked 188)  
+Completed: 2 (0.01%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,6 +172,7 @@ Completed: 2 (0.01%) (Ranked 399)
 | 2024-01-26 | 14,130 | 2 |
 | 2024-01-27 | 14,144 | 2 |
 | 2024-02-22 | 14,820 | 2 |
+| 2024-03-21 | 15,317 | 2 |
 ## Awards
 Max (Character Customization): 859  (Ranked 190)  
 Sum: 2,272 (Ranked 223)  

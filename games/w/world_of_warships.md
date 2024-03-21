@@ -6,53 +6,53 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~74,027 |
-| Initial Capital | 61.00% | ~60,209 |
-| Junior Supply Officer | 39.00% | ~38,494 |
-| Moneybags | 38.00% | ~37,507 |
-| Naval Warfare. Arson | 29.00% | ~28,624 |
-| Naval Warfare. Ramming | 28.00% | ~27,637 |
-| Amateur | 26.00% | ~25,663 |
-| Naval Warfare. Tactics | 26.00% | ~25,663 |
-| Naval Constructor | 25.00% | ~24,676 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~18,754 |
-| Naval Warfare. Flooding | 16.00% | ~15,792 |
-| Naval Warfare. Lucky Shot | 16.00% | ~15,792 |
-| Business Magnate | 13.00% | ~12,831 |
-| Battle Hero | 12.00% | ~11,844 |
-| Warrior | 10.00% | ~9,870 |
-| Supply Officer | 10.00% | ~9,870 |
-| Smooth Supply | 10.00% | ~9,870 |
-| Veteran | 5.00% | ~4,935 |
-| Legend of the Seas | 3.00% | ~2,961 |
-| Shield | 3.00% | ~2,961 |
-| Chief Naval Architect | 2.00% | ~1,974 |
-| Weather Beaten | 2.00% | ~1,974 |
-| Important Missions | 2.00% | ~1,974 |
-| Guardian | 2.00% | ~1,974 |
-| Bane of the Oceans | 1.00% | ~987 |
-| Senior Supply Officer | 1.00% | ~987 |
-| "Science of Victory" | 1.00% | ~987 |
-| Special Orders | 1.00% | ~987 |
-| Protector | 1.00% | ~987 |
-| Exterminator | 1.00% | ~987 |
-| American Cruisers | 1.00% | ~987 |
-| Old-Timer | 0.80% | ~790 |
-| Secret Instructions | 0.50% | ~494 |
-| Raider | 0.50% | ~494 |
-| Experienced One | 0.40% | ~395 |
-| Ravager | 0.30% | ~296 |
-| "Yamamoto Isoroku" | 0.30% | ~296 |
-| "Honorable Service" | 0.20% | ~197 |
-| "Yamamoto Isoroku" | 0.20% | ~197 |
-| Hit Hard! Hit Fast! Hit Often! | 0.20% | ~197 |
-| "Science of Victory" with Honors | 0.10% | ~99 |
-| "Honorable Service" with Honors | 0.10% | ~99 |
-| "Yamamoto Isoroku" with Honors | 0.10% | ~99 |
-| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~99 |
+| Junior Naval Designer | 0.40% | ~480 |
+| Initial Capital | 0.30% | ~360 |
+| Moneybags | 0.20% | ~240 |
+| Junior Supply Officer | 0.20% | ~240 |
+| Battle Hero | 0.10% | ~120 |
+| Legend of the Seas | 0.10% | ~120 |
+| Bane of the Oceans | 0.10% | ~120 |
+| Amateur | 0.10% | ~120 |
+| Warrior | 0.10% | ~120 |
+| Veteran | 0.10% | ~120 |
+| Business Magnate | 0.10% | ~120 |
+| Naval Warfare. Arson | 0.10% | ~120 |
+| Naval Warfare. Flooding | 0.10% | ~120 |
+| Naval Warfare. Ramming | 0.10% | ~120 |
+| Naval Warfare. Lucky Shot | 0.10% | ~120 |
+| Naval Warfare. Tactics | 0.10% | ~120 |
+| Naval Warfare. Weaponry Basics | 0.10% | ~120 |
+| Naval Constructor | 0.10% | ~120 |
+| Chief Naval Architect | 0.10% | ~120 |
+| Supply Officer | 0.10% | ~120 |
+| Senior Supply Officer | 0.10% | ~120 |
+| Smooth Supply | 0.10% | ~120 |
+| "Science of Victory" | 0.10% | ~120 |
+| "Honorable Service" | 0.10% | ~120 |
+| Weather Beaten | 0.10% | ~120 |
+| Old-Timer | 0.10% | ~120 |
+| Experienced One | 0.10% | ~120 |
+| Important Missions | 0.10% | ~120 |
+| Special Orders | 0.10% | ~120 |
+| Secret Instructions | 0.10% | ~120 |
+| Shield | 0.10% | ~120 |
+| Guardian | 0.10% | ~120 |
+| Protector | 0.10% | ~120 |
+| Exterminator | 0.10% | ~120 |
+| Raider | 0.10% | ~120 |
+| Ravager | 0.10% | ~120 |
+| "Yamamoto Isoroku" | 0.10% | ~120 |
+| American Cruisers | 0.10% | ~120 |
+| Hit Hard! Hit Fast! Hit Often! | 0.10% | ~120 |
+| "Science of Victory" with Honors | 0.00% | ~0 |
+| "Honorable Service" with Honors | 0.00% | ~0 |
+| "Yamamoto Isoroku" | 0.00% | ~0 |
+| "Yamamoto Isoroku" with Honors | 0.00% | ~0 |
+| Hit Hard! Hit Fast! Hit Often! with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,703 (Ranked 106)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 119,993 (Ranked 103)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -219,6 +219,7 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-25 | 97,836 | 0 |
 | 2024-01-26 | 98,395 | 0 |
 | 2024-01-27 | 98,703 | 0 |
+| 2024-03-21 | 119,993 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,941  (Ranked 131)  
 Sum: 16,441 (Ranked 76)  

@@ -2,10 +2,10 @@
   "ID": "64ca61f1781f4da1a77163e6eefb8cd9",
   "Name": "STEAM TRIGGER",
   "ProductSlug": "steam-trigger-b75c6a",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-20T08:57:20.9936545+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:56.8490223+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:15.714072+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:55.5170843+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:04.3251919+00:00"
 }

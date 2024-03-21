@@ -2,8 +2,8 @@
 [Store](https://store.epicgames.com/en-US/p/monorail-stories-4b4a69)  
 [View Rawdata](../../db/m/monorail_stories.json)  
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 733)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 6 (Ranked 790)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

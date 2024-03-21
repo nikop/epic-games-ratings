@@ -2,10 +2,10 @@
   "ID": "f3cdd34e969744e3a60c38fbd1c29669",
   "Name": "True Reporter. Hidden Mistwood",
   "ProductSlug": "true-reporter-414088",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-24T09:00:00+00:00",
     "PcReleaseDate": "2023-11-24T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-25T11:57:49.7754337+00:00",
   "LastUpdate_AppInfo": "2024-03-15T19:57:53.4757071+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:18.9858687+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:05:42.0360127+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:39.0477914+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:05:43.5173093+00:00"
 }

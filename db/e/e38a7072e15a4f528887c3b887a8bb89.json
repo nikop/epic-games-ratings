@@ -2,10 +2,10 @@
   "ID": "e38a7072e15a4f528887c3b887a8bb89",
   "Name": "Outbreak The New Nightmare Revisited",
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
-  "Ranking_EOS_Progress": 638,
-  "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 690,
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
     "PcReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.7,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-11-09T10:06:31.960066+00:00",
@@ -164,6 +164,11 @@
       "Time": "2024-02-22T21:04:22.5812559+00:00",
       "NumProgressed": 27,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-03-21T17:09:41.3789379+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:20.387506+00:00",
@@ -190,7 +195,7 @@
       "ID": "EVERY_SHOT_COUNTS_ACH",
       "SetID": "c01b5ga",
       "Name": "Every Shot Counts!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -206,9 +211,9 @@
       "ID": "HORRIBLE_END_ACH",
       "SetID": "c01b5ga",
       "Name": "Horrible End",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KEEP_RUNNING_ACH",
@@ -222,9 +227,9 @@
       "ID": "NO_FEAR_ACH",
       "SetID": "c01b5ga",
       "Name": "No Fear",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "OPENING_SALVO_ACH",
@@ -271,14 +276,14 @@
     {
       "ID": "c01b5ga",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-07T01:37:16.531327+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:22.5812539+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:41.3789373+00:00",
   "LastUpdate_AppInfo": "2024-03-21T13:00:00.7537779+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:56.1670519+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:22.5812723+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:18.9939349+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:41.3789471+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 726,
-  "EOS_Completed": 18,
-  "EOS_NewPlayers": 31,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.48,
+  "EOS_Progressed": 791,
+  "EOS_Completed": 21,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 2.65,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -2764,6 +2764,11 @@
       "Time": "2024-01-27T10:05:26.7946327+00:00",
       "NumProgressed": 726,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-03-21T17:06:35.1620495+00:00",
+      "NumProgressed": 791,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2776,7 +2781,7 @@
       "Name": "Black Skeleton",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "BlueSkeleton",
@@ -2784,7 +2789,7 @@
       "Name": "Blue Skeleton",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 94
+      "UsersEstimate": 103
     },
     {
       "ID": "GreenSkeleton",
@@ -2792,7 +2797,7 @@
       "Name": "Green Skeleton",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "OrangeSkeleton",
@@ -2800,7 +2805,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 312
+      "UsersEstimate": 340
     },
     {
       "ID": "RedSkeleton",
@@ -2808,7 +2813,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 443
+      "UsersEstimate": 483
     },
     {
       "ID": "YellowSkeleton",
@@ -2816,21 +2821,21 @@
       "Name": "Yellow Skeleton",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 123
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 726,
-      "Completed": 18
+      "Progressed": 791,
+      "Completed": 21
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:20.7778522+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:35.1620488+00:00",
   "LastUpdate_AppInfo": "2024-03-15T09:57:22.5763534+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:32.7306468+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:20.7778692+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:03:46.8917521+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:35.1620752+00:00"
 }

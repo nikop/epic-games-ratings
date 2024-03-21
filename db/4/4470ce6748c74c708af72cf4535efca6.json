@@ -2,10 +2,10 @@
   "ID": "4470ce6748c74c708af72cf4535efca6",
   "Name": "Warstone TD",
   "ProductSlug": "warstone-td-8fe138",
-  "Ranking_EOS_Progress": 546,
-  "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 591,
+  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -399,9 +399,9 @@
       "ID": "14",
       "SetID": "5e3maia",
       "Name": "Trafficker",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "15",
@@ -463,17 +463,17 @@
       "ID": "21",
       "SetID": "5e3maia",
       "Name": "Survivor",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "22",
       "SetID": "5e3maia",
       "Name": "Vegetarian",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "23",
@@ -551,9 +551,9 @@
       "ID": "33",
       "SetID": "5e3maia",
       "Name": "Arcane Arts",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "34",
@@ -591,9 +591,9 @@
       "ID": "38",
       "SetID": "5e3maia",
       "Name": "Saboteur",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "39",
@@ -767,9 +767,9 @@
       "ID": "58",
       "SetID": "5e3maia",
       "Name": "Summoner",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "59",
@@ -831,9 +831,9 @@
       "ID": "65",
       "SetID": "5e3maia",
       "Name": "True Lover",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "66",
@@ -887,9 +887,9 @@
       "ID": "8",
       "SetID": "5e3maia",
       "Name": "Border Guard",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "9",
@@ -910,8 +910,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-02-22T21:04:08.6295055+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:09:21.7282012+00:00",
   "LastUpdate_AppInfo": "2024-03-16T15:57:11.5377188+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:48.2866771+00:00",
-  "LastUpdate_Achievements": "2024-02-22T21:04:08.6295721+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:07.9365229+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:09:21.7282627+00:00"
 }

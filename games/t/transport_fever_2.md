@@ -6,70 +6,70 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,930 |
-| First cargo item on board | 68.00% | ~1,773 |
-| First cargo item waiting | 68.00% | ~1,773 |
-| First bus stop | 66.00% | ~1,721 |
-| First passenger on board | 63.00% | ~1,643 |
-| First passenger waiting | 63.00% | ~1,643 |
-| First bus arrived | 62.00% | ~1,617 |
-| First train station | 60.00% | ~1,565 |
-| First steam train arrived | 57.00% | ~1,487 |
-| Cadet | 53.00% | ~1,382 |
-| First industry upgraded | 53.00% | ~1,382 |
-| Transport millionaire | 52.00% | ~1,356 |
-| Cargo hub | 50.00% | ~1,304 |
-| Transport master | 49.00% | ~1,278 |
-| Sculpturer | 46.00% | ~1,200 |
-| Settled down | 45.00% | ~1,174 |
-| First electric train arrived | 44.00% | ~1,148 |
-| Now what? | 44.00% | ~1,148 |
-| First ship arrived | 42.00% | ~1,095 |
-| Exemplary student | 42.00% | ~1,095 |
-| High speed | 40.00% | ~1,043 |
-| Transport shark | 38.00% | ~991 |
-| First aircraft arrived | 38.00% | ~991 |
-| Mass production | 33.00% | ~861 |
-| Aircraft entrepreneur | 31.00% | ~808 |
-| Crowd in a train | 29.00% | ~756 |
-| The future is now, old man | 28.00% | ~730 |
-| Not in my backyard | 27.00% | ~704 |
-| The king of the sea | 27.00% | ~704 |
-| City | 26.00% | ~678 |
-| Transport tycoon | 22.00% | ~574 |
-| Old timer | 22.00% | ~574 |
-| The ugly smell of success | 21.00% | ~548 |
-| Climate change | 20.00% | ~522 |
-| Heavily loaded | 20.00% | ~522 |
-| Bob Ross | 14.00% | ~365 |
-| Campaign expert | 10.00% | ~261 |
-| Truck Fever | 10.00% | ~261 |
-| No free seats | 9.00% | ~235 |
-| Penny pincher | 9.00% | ~235 |
-| Back to the future | 8.00% | ~209 |
-| Transport belt | 8.00% | ~209 |
-| Campaign shark | 5.00% | ~130 |
-| E.P.E.C. | 5.00% | ~130 |
-| Transport shark (Hard mode) | 4.00% | ~104 |
-| Antique | 4.00% | ~104 |
-| Transport corporation | 4.00% | ~104 |
-| Cannot get enough | 3.00% | ~78 |
-| Transport tycoon (Hard mode) | 2.00% | ~52 |
-| Charles Alton Ellis | 2.00% | ~52 |
-| Campaign tycoon | 2.00% | ~52 |
-| Industrialist | 2.00% | ~52 |
-| Metropolis | 2.00% | ~52 |
-| Speed of light | 2.00% | ~52 |
-| Trans-Siberian Railway | 2.00% | ~52 |
-| No country for old trains | 1.00% | ~26 |
-| Louis Favre | 0.90% | ~23 |
+| First line | 74.00% | ~1,980 |
+| First cargo item on board | 68.00% | ~1,820 |
+| First cargo item waiting | 68.00% | ~1,820 |
+| First bus stop | 66.00% | ~1,766 |
+| First passenger on board | 63.00% | ~1,686 |
+| First passenger waiting | 63.00% | ~1,686 |
+| First bus arrived | 62.00% | ~1,659 |
+| First train station | 60.00% | ~1,606 |
+| First steam train arrived | 57.00% | ~1,525 |
+| Cadet | 53.00% | ~1,418 |
+| First industry upgraded | 53.00% | ~1,418 |
+| Transport millionaire | 52.00% | ~1,392 |
+| Transport master | 49.00% | ~1,311 |
+| Cargo hub | 49.00% | ~1,311 |
+| Sculpturer | 46.00% | ~1,231 |
+| Settled down | 45.00% | ~1,204 |
+| First electric train arrived | 43.00% | ~1,151 |
+| Now what? | 43.00% | ~1,151 |
+| First ship arrived | 42.00% | ~1,124 |
+| Exemplary student | 42.00% | ~1,124 |
+| High speed | 40.00% | ~1,070 |
+| Transport shark | 38.00% | ~1,017 |
+| First aircraft arrived | 38.00% | ~1,017 |
+| Mass production | 34.00% | ~910 |
+| Aircraft entrepreneur | 31.00% | ~830 |
+| Crowd in a train | 29.00% | ~776 |
+| The future is now, old man | 29.00% | ~776 |
+| Not in my backyard | 27.00% | ~723 |
+| The king of the sea | 27.00% | ~723 |
+| City | 26.00% | ~696 |
+| Transport tycoon | 22.00% | ~589 |
+| Old timer | 22.00% | ~589 |
+| The ugly smell of success | 21.00% | ~562 |
+| Climate change | 20.00% | ~535 |
+| Heavily loaded | 20.00% | ~535 |
+| Bob Ross | 14.00% | ~375 |
+| Campaign expert | 11.00% | ~294 |
+| Truck Fever | 10.00% | ~268 |
+| No free seats | 9.00% | ~241 |
+| Penny pincher | 9.00% | ~241 |
+| Back to the future | 8.00% | ~214 |
+| Transport belt | 8.00% | ~214 |
+| Campaign shark | 5.00% | ~134 |
+| E.P.E.C. | 5.00% | ~134 |
+| Transport shark (Hard mode) | 4.00% | ~107 |
+| Antique | 4.00% | ~107 |
+| Transport corporation | 4.00% | ~107 |
+| Cannot get enough | 3.00% | ~80 |
+| Transport tycoon (Hard mode) | 2.00% | ~54 |
+| No country for old trains | 2.00% | ~54 |
+| Charles Alton Ellis | 2.00% | ~54 |
+| Campaign tycoon | 2.00% | ~54 |
+| Industrialist | 2.00% | ~54 |
+| Metropolis | 2.00% | ~54 |
+| Speed of light | 2.00% | ~54 |
+| Trans-Siberian Railway | 2.00% | ~54 |
+| Louis Favre | 0.90% | ~24 |
 | Train Fever | 0.80% | ~21 |
 | Big spender | 0.60% | ~16 |
-| Glacier express | 0.20% | ~5 |
+| Glacier express | 0.30% | ~8 |
 | Museum line | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,608 (Ranked 249)  
-Completed: 1 (0.04%) (Ranked 373)  
+Progressed: 2,676 (Ranked 259)  
+Completed: 1 (0.04%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,6 +337,7 @@ Completed: 1 (0.04%) (Ranked 373)
 | 2024-01-26 | 2,521 | 1 |
 | 2024-01-27 | 2,523 | 1 |
 | 2024-02-22 | 2,608 | 1 |
+| 2024-03-21 | 2,676 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 487)  
 Sum: 356 (Ranked 388)  

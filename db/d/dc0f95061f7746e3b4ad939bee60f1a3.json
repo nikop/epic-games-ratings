@@ -2,10 +2,10 @@
   "ID": "dc0f95061f7746e3b4ad939bee60f1a3",
   "Name": "Puzzle Compound",
   "ProductSlug": "puzzle-compound-fe9903",
-  "Ranking_EOS_Progress": 576,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 616,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-25T13:00:00+00:00",
     "PcReleaseDate": "2023-05-25T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -209,6 +209,11 @@
       "Time": "2023-12-19T19:09:02.3347613+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:08:23.1591526+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 11,
@@ -218,9 +223,9 @@
       "ID": "ACH_CASTLE_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "The Forgotten Castle Complete",
-      "Percentage": 49,
+      "Percentage": 53,
       "XP": 80,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_CASTLE_FAST_COMPLETED",
@@ -234,7 +239,7 @@
       "ID": "ACH_FIND_EXCALIBUR",
       "SetID": "b5c8hh8",
       "Name": "Find Excalibur In All Maps",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -242,9 +247,9 @@
       "ID": "ACH_HEIST_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Bank Heist Complete",
-      "Percentage": 45,
+      "Percentage": 49,
       "XP": 80,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_HEIST_FAST_COMPLETED",
@@ -258,9 +263,9 @@
       "ID": "ACH_MANSION_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Jefferson\u0027s Mansion Complete",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 80,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_MANSION_FAST_COMPLETED",
@@ -274,9 +279,9 @@
       "ID": "ACH_SCIFI_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Escape to Athelay Complete",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SCIFI_FAST_COMPLETED",
@@ -290,9 +295,9 @@
       "ID": "ACH_WESTERN_COMPLETED",
       "SetID": "b5c8hh8",
       "Name": "Wild Wild West Complete",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 80,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_WESTERN_FAST_COMPLETED",
@@ -307,14 +312,14 @@
     {
       "ID": "b5c8hh8",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-09T19:57:14.7958612+00:00",
   "FirstSeenAchievements": "2023-05-09T02:03:36.4240684+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:07:42.1153012+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:08:23.1591521+00:00",
   "LastUpdate_AppInfo": "2024-03-20T05:57:19.9918239+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:08.3778104+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:07:42.1153128+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:33.0915457+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:08:23.1591619+00:00"
 }

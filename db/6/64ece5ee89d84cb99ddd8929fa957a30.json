@@ -2,10 +2,10 @@
   "ID": "64ece5ee89d84cb99ddd8929fa957a30",
   "Name": "Sipher Odyssey",
   "ProductSlug": "sipher-odyssey-78e8b4",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-15T19:57:51.183733+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:57:41.3783024+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:50.0048325+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:00:39.9445745+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:40.0442168+00:00"
 }

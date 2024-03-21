@@ -4,11 +4,11 @@
   "ProductSlug": "nightingale",
   "Ranking_Rating": 957,
   "Ranking_Popularity": 495,
-  "Ranking_PopularitySum": 422,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_PopularitySum": 421,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-20T17:00:00+00:00",
     "PcReleaseDate": "2024-02-20T17:00:00+00:00",
@@ -541,10 +541,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 261,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-03-21T17:05:05.932905+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261,
+  "NumberOfAwards": 264,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -588,7 +594,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 31
+      "Count": 34
     },
     {
       "Text": "This game has a Creative Community",
@@ -618,11 +624,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "ami0520",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
-  "LastChanged": "2024-03-21T07:58:35.1700539+00:00",
+  "FirstSeenAchievements": "2024-03-21T17:06:53.3151044+00:00",
+  "LastChanged": "2024-03-21T17:05:05.9329048+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:06:53.3151022+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:21.7150041+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:01:39.4436035+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:34.4582727+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:05:05.9329054+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:06:53.3151063+00:00"
 }

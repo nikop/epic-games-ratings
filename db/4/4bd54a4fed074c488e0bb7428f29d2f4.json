@@ -2,10 +2,10 @@
   "ID": "4bd54a4fed074c488e0bb7428f29d2f4",
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
-  "Ranking_EOS_Progress": 565,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 595,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 75,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -299,6 +299,11 @@
       "Time": "2024-01-24T03:03:57.1436147+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-03-21T17:07:17.9340998+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -309,15 +314,15 @@
       "ID": "SOS_AGAINST_ALL",
       "SetID": "6ci4lm2",
       "Name": "Against all",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOS_ALARM_ALARM",
       "SetID": "6ci4lm2",
       "Name": "Alarm! Alarm!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -325,15 +330,15 @@
       "ID": "SOS_ALL_LIVES_MATTER",
       "SetID": "6ci4lm2",
       "Name": "All lives matter",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_ANCESTORS",
       "SetID": "6ci4lm2",
       "Name": "May devil seize the ancestors",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -343,13 +348,13 @@
       "Name": "Authorization letter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_BASILISK",
       "SetID": "6ci4lm2",
       "Name": "Half rooster and half snake",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -381,17 +386,17 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "SOS_DEAD_END",
       "SetID": "6ci4lm2",
       "Name": "Dead end",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_DOG_WHISPERER",
@@ -405,39 +410,39 @@
       "ID": "SOS_DRUNKARD",
       "SetID": "6ci4lm2",
       "Name": "Drunkard",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_ENEMY_OF_MY_ENEMY",
       "SetID": "6ci4lm2",
       "Name": "Enemy of my enemy",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_EVERYBODYS_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Everybody\u0027s dead, Dave",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "SOS_EVIL_CODE",
       "SetID": "6ci4lm2",
       "Name": "Evil code",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_EVIL_DEAD",
       "SetID": "6ci4lm2",
       "Name": "Evil dead",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -453,9 +458,9 @@
       "ID": "SOS_FARKLE",
       "SetID": "6ci4lm2",
       "Name": "Silesian Farkle",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_FIRST_BLOOD",
@@ -463,13 +468,13 @@
       "Name": "First blood",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 55
     },
     {
       "ID": "SOS_FISH",
       "SetID": "6ci4lm2",
       "Name": "Ichthys",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -477,15 +482,15 @@
       "ID": "SOS_FOR_GLORY_OF_GOD",
       "SetID": "6ci4lm2",
       "Name": "For the glory of God",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "SOS_GHOSTS",
       "SetID": "6ci4lm2",
       "Name": "Like the ghosts",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -493,7 +498,7 @@
       "ID": "SOS_GOOD_MANNERS",
       "SetID": "6ci4lm2",
       "Name": "Good manners",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -501,31 +506,31 @@
       "ID": "SOS_HARD_WAY",
       "SetID": "6ci4lm2",
       "Name": "Do it the hard way",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "SOS_HEARTBREAKING_END",
       "SetID": "6ci4lm2",
       "Name": "Heartbreaking end",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_HELL_STONE",
       "SetID": "6ci4lm2",
       "Name": "Infernal stone",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -541,15 +546,15 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "SOS_INFERNAL_TONES",
       "SetID": "6ci4lm2",
       "Name": "Infernal tones",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -557,15 +562,15 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "SOS_LASTBATTLE",
       "SetID": "6ci4lm2",
       "Name": "Last battle",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -573,31 +578,31 @@
       "ID": "SOS_LAST_LETTER",
       "SetID": "6ci4lm2",
       "Name": "The last letter",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "SOS_LAST_MINUTE",
       "SetID": "6ci4lm2",
       "Name": "Welcome home",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "SOS_LEGACY",
       "SetID": "6ci4lm2",
       "Name": "Legacy of the Templars",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_LIAISONS",
       "SetID": "6ci4lm2",
       "Name": "Dangerous liaisons",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -605,9 +610,9 @@
       "ID": "SOS_MARATHON_RUNNER",
       "SetID": "6ci4lm2",
       "Name": "Legs of iron",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "SOS_MOUTH_COIN",
@@ -615,7 +620,7 @@
       "Name": "What\u0027s he got in his mouth?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SOS_MUMBLER",
@@ -645,7 +650,7 @@
       "ID": "SOS_NOWAYBACK",
       "SetID": "6ci4lm2",
       "Name": "No way back",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -653,7 +658,7 @@
       "ID": "SOS_ORDO",
       "SetID": "6ci4lm2",
       "Name": "Ordo Fratrum Minorum",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -661,7 +666,7 @@
       "ID": "SOS_OTHER_SIDE",
       "SetID": "6ci4lm2",
       "Name": "To the other side",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -669,7 +674,7 @@
       "ID": "SOS_PENANCE",
       "SetID": "6ci4lm2",
       "Name": "Sacrament of Penance",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -677,23 +682,23 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "SOS_PYROMAN",
       "SetID": "6ci4lm2",
       "Name": "Pyroman",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -701,39 +706,39 @@
       "ID": "SOS_RED_MINE",
       "SetID": "6ci4lm2",
       "Name": "Red mine",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "SOS_RETURN_TO_GRAVE",
       "SetID": "6ci4lm2",
       "Name": "Ready for the grave",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "SOS_SECRET_PASSAGEWAY",
       "SetID": "6ci4lm2",
       "Name": "Secret passageway",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "SOS_SHAFT_INTO_DARKNESS",
       "SetID": "6ci4lm2",
       "Name": "Shaft into the darkness",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "SOS_SINNER",
       "SetID": "6ci4lm2",
       "Name": "Sinner",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -757,7 +762,7 @@
       "ID": "SOS_THRONEHELL",
       "SetID": "6ci4lm2",
       "Name": "Throne of Hell",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -781,17 +786,17 @@
       "ID": "SOS_WE_HAVE_TO_STOP_THEM",
       "SetID": "6ci4lm2",
       "Name": "We have to stop them",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "SOS_WHAT_HURTS",
       "SetID": "6ci4lm2",
       "Name": "What hurts will stop hurting",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SOS_WHERE_IS_PRISONER",
@@ -799,21 +804,21 @@
       "Name": "Where is the prisoner?",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 75,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2024-01-27T13:06:52.547871+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:07:17.9340992+00:00",
   "LastUpdate_AppInfo": "2024-03-19T01:37:49.5869032+00:00",
-  "LastUpdate_Ratings": "2024-03-21T16:00:55.7214934+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:52.5479162+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:04:18.3457883+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:17.9341565+00:00"
 }

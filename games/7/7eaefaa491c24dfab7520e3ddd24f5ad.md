@@ -49,8 +49,8 @@
 | Vandal | 0.00% | ~0 |
 | Voodoo Doll | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 382)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 434 (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -127,3 +127,4 @@ Completed: 0 (0.00%) (Ranked 423)
 | 2024-01-14 | 423 | 0 |
 | 2024-01-17 | 424 | 0 |
 | 2024-02-22 | 425 | 0 |
+| 2024-03-21 | 434 | 0 |

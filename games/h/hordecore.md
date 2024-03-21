@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 98.00% | ~361 |
-| Decision Maker | 81.00% | ~298 |
-| Sneaky Sneak | 77.00% | ~283 |
-| DIY | 77.00% | ~283 |
-| Master Chef | 66.00% | ~243 |
-| Master of Cards | 58.00% | ~213 |
-| Over Nine Thousaaand | 56.00% | ~206 |
-| Getting the Hang Of This | 48.00% | ~177 |
-| Collector | 29.00% | ~107 |
-| Blow ‘Em Up | 22.00% | ~81 |
-| That’s What Friends Are For | 21.00% | ~77 |
+| Just Went Shopping | 98.00% | ~364 |
+| Decision Maker | 81.00% | ~301 |
+| Sneaky Sneak | 77.00% | ~286 |
+| DIY | 77.00% | ~286 |
+| Master Chef | 66.00% | ~245 |
+| Master of Cards | 58.00% | ~215 |
+| Over Nine Thousaaand | 56.00% | ~208 |
+| Getting the Hang Of This | 48.00% | ~178 |
+| Collector | 29.00% | ~108 |
+| Blow ‘Em Up | 22.00% | ~82 |
+| That’s What Friends Are For | 21.00% | ~78 |
 | Poker-Man | 20.00% | ~74 |
 | FOR THE GAUNTLET! | 20.00% | ~74 |
-| Untapped Potential | 18.00% | ~66 |
-| Played by Gramps | 14.00% | ~52 |
+| Untapped Potential | 18.00% | ~67 |
 | Size Doesn’t Matter | 13.00% | ~48 |
-| Totally Swamped | 12.00% | ~44 |
-| I Choo-Choo-Choose You | 12.00% | ~44 |
-| My Savior! | 12.00% | ~44 |
-| Is Anyone Out There? | 11.00% | ~40 |
+| Played by Gramps | 13.00% | ~48 |
+| Totally Swamped | 12.00% | ~45 |
+| I Choo-Choo-Choose You | 12.00% | ~45 |
+| My Savior! | 12.00% | ~45 |
+| Is Anyone Out There? | 11.00% | ~41 |
 | Limitless | 10.00% | ~37 |
 | Hammer Time | 10.00% | ~37 |
 | Hired Goon | 6.00% | ~22 |
@@ -33,8 +33,8 @@
 | Lord of the Wastes | 3.00% | ~11 |
 | Through Hell and Back | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368 (Ranked 396)  
-Completed: 11 (2.99%) (Ranked 117)  
+Progressed: 371 (Ranked 424)  
+Completed: 11 (2.96%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,6 +75,7 @@ Completed: 11 (2.99%) (Ranked 117)
 | 2023-12-27 | 363 | 11 |
 | 2024-01-01 | 364 | 11 |
 | 2024-02-22 | 368 | 11 |
+| 2024-03-21 | 371 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

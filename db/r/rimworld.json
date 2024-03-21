@@ -5,10 +5,10 @@
   "Ranking_Rating": 12,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 170,
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-06-09T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -3941,11 +3941,17 @@
       "Rating": 4.89,
       "NumberOfAwards": 4224,
       "NumberOfAwardsMax": 504
+    },
+    {
+      "Time": "2024-03-21T17:02:17.5638996+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 4226,
+      "NumberOfAwardsMax": 505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4224,
-  "NumberOfAwardsMax": 504,
+  "NumberOfAwards": 4226,
+  "NumberOfAwardsMax": 505,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3964,7 +3970,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 504
+      "Count": 505
     },
     {
       "Text": "This game is Relaxing",
@@ -3994,7 +4000,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 415
+      "Count": 416
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4026,8 +4032,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2024-03-18T17:01:13.9346737+00:00",
+  "LastChanged": "2024-03-21T17:02:17.5638994+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:22.9287354+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:59:15.6446276+00:00",
-  "LastUpdate_Achievements": "2024-01-27T13:06:50.0973128+00:00"
+  "LastUpdate_Ratings": "2024-03-21T17:02:17.5639+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:07:14.4960111+00:00"
 }

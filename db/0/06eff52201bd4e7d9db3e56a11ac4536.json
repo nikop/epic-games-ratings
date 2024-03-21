@@ -2,10 +2,10 @@
   "ID": "06eff52201bd4e7d9db3e56a11ac4536",
   "Name": "Unlock The Cat",
   "ProductSlug": "unlock-the-cat-487fac",
-  "Ranking_EOS_Progress": 789,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 839,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-22T17:00:00+00:00",
     "PcReleaseDate": "2021-03-02T19:00:00+00:00",
@@ -105,8 +105,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:06.6898416+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:06.6898337+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:11:54.7615385+00:00",
   "LastUpdate_AppInfo": "2024-03-16T13:57:19.2361291+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:27.0856253+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:06.6907416+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:58:50.0234878+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:11:54.7615452+00:00"
 }

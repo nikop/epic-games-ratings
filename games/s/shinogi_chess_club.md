@@ -17,8 +17,8 @@
 | Are You Happy Now? | 0.00% | ~0 |
 | Life Lessons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 733)  
-Completed: 0 (0.00%) (Ranked 423)  
+Progressed: 6 (Ranked 790)  
+Completed: 0 (0.00%) (Ranked 445)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

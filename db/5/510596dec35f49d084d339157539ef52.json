@@ -2,10 +2,10 @@
   "ID": "510596dec35f49d084d339157539ef52",
   "Name": "Project Wunderwaffe",
   "ProductSlug": "project-wunderwaffe-4edb95",
-  "Ranking_EOS_Progress": 896,
-  "Ranking_EOS_Completed": 423,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-10-10T17:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:19.9683375+00:00",
-  "LastChanged_Achievements": "2024-03-04T23:04:19.9683355+00:00",
+  "LastChanged_Achievements": "2024-03-21T17:12:08.7057684+00:00",
   "LastUpdate_AppInfo": "2024-03-19T19:57:10.3509137+00:00",
-  "LastUpdate_Ratings": "2024-03-21T15:00:40.5086886+00:00",
-  "LastUpdate_Achievements": "2024-03-04T23:04:19.9683391+00:00"
+  "LastUpdate_Ratings": "2024-03-21T16:59:09.0526954+00:00",
+  "LastUpdate_Achievements": "2024-03-21T17:12:08.7057755+00:00"
 }
