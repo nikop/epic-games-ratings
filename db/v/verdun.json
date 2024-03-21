@@ -2,8 +2,8 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 582,
-  "Ranking_Popularity": 386,
+  "Ranking_Rating": 594,
+  "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 445,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "NumberOfRatings": 1999,
   "RatingHistory": [
     {
@@ -2073,11 +2073,17 @@
       "Rating": 4.53,
       "NumberOfAwards": 968,
       "NumberOfAwardsMax": 109
+    },
+    {
+      "Time": "2024-03-21T21:59:45.1211182+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 969,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 968,
-  "NumberOfAwardsMax": 109,
+  "NumberOfAwards": 969,
+  "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -2126,7 +2132,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game is Extremely Fun",
@@ -33808,9 +33814,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-03-21T15:58:11.722815+00:00",
+  "LastChanged": "2024-03-21T21:59:45.1211179+00:00",
   "LastChanged_Achievements": "2024-03-21T17:05:52.8740918+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:02.9083387+00:00",
-  "LastUpdate_Ratings": "2024-03-21T20:58:47.362514+00:00",
+  "LastUpdate_Ratings": "2024-03-21T21:59:45.1211186+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:52.874286+00:00"
 }
