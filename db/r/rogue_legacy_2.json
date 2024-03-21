@@ -2,7 +2,7 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 41,
+  "Ranking_Rating": 48,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 155,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 1331,
   "RatingHistory": [
     {
@@ -1700,6 +1700,12 @@
     {
       "Time": "2024-03-20T21:58:24.4757735+00:00",
       "Rating": 4.85,
+      "NumberOfAwards": 1594,
+      "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-03-21T22:57:28.9224315+00:00",
+      "Rating": 4.84,
       "NumberOfAwards": 1594,
       "NumberOfAwardsMax": 230
     }
@@ -15369,9 +15375,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-03-20T21:58:24.4757733+00:00",
+  "LastChanged": "2024-03-21T22:57:28.9224313+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:31.5004685+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:17.8962308+00:00",
-  "LastUpdate_Ratings": "2024-03-21T20:59:43.8014245+00:00",
+  "LastUpdate_Ratings": "2024-03-21T22:57:28.9224319+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:31.5005681+00:00"
 }

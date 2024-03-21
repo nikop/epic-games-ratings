@@ -1,7 +1,7 @@
 # Rogue Legacy 2
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy-2)  
 [View Rawdata](../../db/r/rogue_legacy_2.json)  
-Rating: 4.85 (Ranked 41)  
+Rating: 4.84 (Ranked 48)  
 Number of Ratings: 1,331  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -513,3 +513,4 @@ Diff (max vs sum): 48
 | 2024-03-14 | 4.85 | - | 230 | 1,592 |
 | 2024-03-15 | 4.85 | - | 230 | 1,593 |
 | 2024-03-20 | 4.85 | - | 230 | 1,594 |
+| 2024-03-21 | 4.84 | - | 230 | 1,594 |

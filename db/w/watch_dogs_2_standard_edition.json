@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 412,
   "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 150,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -10705,10 +10705,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 5764,
       "NumberOfAwardsMax": 786
+    },
+    {
+      "Time": "2024-03-21T22:58:13.264331+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 5770,
+      "NumberOfAwardsMax": 786
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5764,
+  "NumberOfAwards": 5770,
   "NumberOfAwardsMax": 786,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10722,13 +10728,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 686
+      "Count": 688
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 718
+      "Count": 722
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10784,8 +10790,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2024-03-21T17:03:16.6520799+00:00",
+  "LastChanged": "2024-03-21T22:58:13.2643309+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:26.7404532+00:00",
-  "LastUpdate_Ratings": "2024-03-21T21:00:19.5731287+00:00",
+  "LastUpdate_Ratings": "2024-03-21T22:58:13.2643314+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:57.1669616+00:00"
 }
