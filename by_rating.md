@@ -75,7 +75,7 @@
 | 72 | [Blasphemous](games/b/blasphemous.md) | 4.82 | 189 | 327 |
 | 72 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,596 | 141 |
 | 72 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.82 | 31 | 548 |
-| 72 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 320 | 270 |
+| 72 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 322 | 270 |
 | 72 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.82 | 0 | 617 |
 | 72 | [Sifu](games/s/sifu.md) | 4.82 | 7,555 | 64 |
 | 72 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 498 | 231 |
@@ -662,7 +662,6 @@
 | 656 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 617 |
 | 656 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,674 | 63 |
 | 656 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 617 |
-| 656 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.49 | 0 | 617 |
 | 656 | [Maneater](games/m/maneater.md) | 4.49 | 14,066 | 33 |
 | 656 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 395 |
 | 656 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 38 | 520 |
@@ -672,17 +671,18 @@
 | 656 | [Solitairica](games/s/solitairica.md) | 4.49 | 96 | 404 |
 | 656 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.49 | 0 | 617 |
 | 656 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.49 | 197 | 322 |
-| 673 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.48 | 20 | 613 |
-| 673 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 65 | 452 |
-| 673 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 4.48 | 0 | 617 |
-| 673 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.48 | 0 | 617 |
-| 673 | [Chorus](games/c/chorus.md) | 4.48 | 36 | 526 |
-| 673 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 284 |
-| 673 | [Figment](games/f/figment.md) | 4.48 | 21 | 605 |
-| 673 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 3,753 | 98 |
-| 673 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 617 |
-| 673 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 617 |
-| 673 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 41 | 507 |
+| 672 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.48 | 20 | 613 |
+| 672 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 65 | 452 |
+| 672 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 4.48 | 0 | 617 |
+| 672 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.48 | 0 | 617 |
+| 672 | [Chorus](games/c/chorus.md) | 4.48 | 36 | 526 |
+| 672 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 284 |
+| 672 | [Figment](games/f/figment.md) | 4.48 | 21 | 605 |
+| 672 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 3,753 | 98 |
+| 672 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 617 |
+| 672 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.48 | 0 | 617 |
+| 672 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 617 |
+| 672 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 41 | 507 |
 | 684 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.47 | 0 | 617 |
 | 684 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 0 | 617 |
 | 684 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.47 | 46 | 498 |
@@ -852,7 +852,7 @@
 | 844 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.36 | 0 | 617 |
 | 844 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 569 |
 | 844 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 52 | 479 |
-| 844 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,706 | 88 |
+| 844 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,713 | 88 |
 | 844 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 617 |
 | 844 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 165 | 344 |
 | 844 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.36 | 33 | 540 |
@@ -996,7 +996,7 @@
 | 993 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 543 |
 | 993 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 617 |
 | 993 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 855 | 190 |
-| 993 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 226 | 304 |
+| 993 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 228 | 302 |
 | 993 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 99 | 397 |
 | 993 | [The Bridge](games/t/the_bridge.md) | 4.21 | 0 | 617 |
 | 993 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 427 |
@@ -1072,7 +1072,7 @@
 | 1,069 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 183 | 331 |
 | 1,069 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.08 | 0 | 617 |
 | 1,069 | [Obduction](games/o/obduction.md) | 4.08 | 59 | 461 |
-| 1,069 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 226 | 304 |
+| 1,069 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 226 | 305 |
 | 1,069 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 617 |
 | 1,069 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 617 |
 | 1,076 | [Armored Warfare](games/a/armored_warfare.md) | 4.07 | 113 | 383 |
