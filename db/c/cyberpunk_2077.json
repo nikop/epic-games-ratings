@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
@@ -21618,10 +21618,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 591778,
       "NumberOfAwardsMax": 157202
+    },
+    {
+      "Time": "2024-03-21T10:59:25.7477345+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 591844,
+      "NumberOfAwardsMax": 157202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 591778,
+  "NumberOfAwards": 591844,
   "NumberOfAwardsMax": 157202,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21677,7 +21683,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 34178
+      "Count": 34244
     },
     {
       "Text": "This game has Amazing Characters",
@@ -54612,9 +54618,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-03-21T09:57:20.2428136+00:00",
+  "LastChanged": "2024-03-21T10:59:25.7477343+00:00",
   "LastChanged_Achievements": "2024-02-22T21:04:44.2925394+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:55.6894531+00:00",
-  "LastUpdate_Ratings": "2024-03-21T09:57:20.2428145+00:00",
+  "LastUpdate_Ratings": "2024-03-21T10:59:25.7477349+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:44.2927684+00:00"
 }

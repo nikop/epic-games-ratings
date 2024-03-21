@@ -2,7 +2,7 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 246,
   "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 137,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 743,
   "RatingHistory": [
     {
@@ -3008,6 +3008,12 @@
     {
       "Time": "2024-03-20T11:00:35.660702+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 2716,
+      "NumberOfAwardsMax": 910
+    },
+    {
+      "Time": "2024-03-21T10:58:55.4623658+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 2716,
       "NumberOfAwardsMax": 910
     }
@@ -12594,9 +12600,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2024-03-20T11:00:35.6607018+00:00",
+  "LastChanged": "2024-03-21T10:58:55.4623657+00:00",
   "LastChanged_Achievements": "2024-03-04T23:04:48.8189724+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:05.4258974+00:00",
-  "LastUpdate_Ratings": "2024-03-21T09:01:44.7336065+00:00",
+  "LastUpdate_Ratings": "2024-03-21T10:58:55.4623662+00:00",
   "LastUpdate_Achievements": "2024-03-04T23:04:48.8190674+00:00"
 }
