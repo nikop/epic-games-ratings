@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 72)  
+Rating: 4.82 (Ranked 71)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -353,7 +353,7 @@ Completed: 13,043 (1.70%) (Ranked 154)
 | 2024-02-22 | 765,727 | 13,043 |
 ## Awards
 Max (Great Boss Battles): 7,555  (Ranked 64)  
-Sum: 12,880 (Ranked 90)  
+Sum: 12,881 (Ranked 90)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +362,7 @@ Diff (max vs sum): -26
 | This game has Challenging Combat | 698 |
 | This game has Amazing Characters | 662 |
 | This game is Highly Recommended | 661 |
-| This game has Amazing Storytelling | 653 |
+| This game has Amazing Storytelling | 654 |
 | This game has Unique Visuals | 644 |
 | This game is Extremely Fun | 630 |
 | This game has Quickly Understood Controls | 626 |
@@ -800,4 +800,4 @@ Diff (max vs sum): -26
 | 2024-03-18 | 4.82 | - | 7,544 | 12,857 |
 | 2024-03-19 | 4.82 | - | 7,549 | 12,872 |
 | 2024-03-20 | 4.82 | - | 7,555 | 12,878 |
-| 2024-03-21 | 4.82 | - | 7,555 | 12,880 |
+| 2024-03-21 | 4.82 | - | 7,555 | 12,881 |

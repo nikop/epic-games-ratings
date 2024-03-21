@@ -4,7 +4,7 @@
   "ProductSlug": "eve-online",
   "Ranking_Rating": 966,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 207,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 896,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 165,
@@ -3850,10 +3850,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 2710,
       "NumberOfAwardsMax": 1215
+    },
+    {
+      "Time": "2024-03-21T13:57:23.3894796+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2711,
+      "NumberOfAwardsMax": 1215
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2710,
+  "NumberOfAwards": 2711,
   "NumberOfAwardsMax": 1215,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3867,7 +3873,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 192
+      "Count": 193
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3935,8 +3941,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2024-03-20T23:57:34.4556849+00:00",
+  "LastChanged": "2024-03-21T13:57:23.3894794+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:41.6849159+00:00",
-  "LastUpdate_Ratings": "2024-03-21T11:59:07.4133654+00:00",
+  "LastUpdate_Ratings": "2024-03-21T13:57:23.38948+00:00",
   "LastUpdate_Achievements": "2024-02-22T21:04:40.0450538+00:00"
 }
