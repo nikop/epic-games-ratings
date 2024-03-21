@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 821,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 243,
+  "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 1,
@@ -4048,10 +4048,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 1707,
       "NumberOfAwardsMax": 330
+    },
+    {
+      "Time": "2024-03-21T19:58:01.7307521+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1709,
+      "NumberOfAwardsMax": 330
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1707,
+  "NumberOfAwards": 1709,
   "NumberOfAwardsMax": 330,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4065,7 +4071,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 239
+      "Count": 241
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -29129,9 +29135,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2024-03-21T11:57:44.3139934+00:00",
+  "LastChanged": "2024-03-21T19:58:01.7307519+00:00",
   "LastChanged_Achievements": "2024-03-21T17:10:40.0061391+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:22.5731865+00:00",
-  "LastUpdate_Ratings": "2024-03-21T18:00:51.2339798+00:00",
+  "LastUpdate_Ratings": "2024-03-21T19:58:01.7307525+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:40.0062644+00:00"
 }
