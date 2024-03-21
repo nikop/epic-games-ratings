@@ -3,7 +3,7 @@
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "ProductSlug": "dishonored-death-of-the-outsider",
   "Ranking_Rating": 729,
-  "Ranking_Popularity": 447,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
@@ -2121,10 +2121,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 547,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2024-03-21T21:00:17.9753977+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 548,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 547,
+  "NumberOfAwards": 548,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2168,7 +2174,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2207,8 +2213,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2024-03-21T07:57:18.0032529+00:00",
+  "LastChanged": "2024-03-21T21:00:17.9753976+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:18.1054539+00:00",
-  "LastUpdate_Ratings": "2024-03-21T19:58:37.7965626+00:00",
+  "LastUpdate_Ratings": "2024-03-21T21:00:17.9753983+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:16.869953+00:00"
 }
