@@ -89,6 +89,7 @@
 | [F1® 24 Standard Edition](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | - | - |
 | [Life by You](games/l/life_by_you.md) | 2024-06-04 | - |  | - | - |
 | [A Game´s Tale](games/1/1001579a7cb24f058683043aca87f987.md) | 2024-06-07 | - |  | - | - |
+| [Still Wakes The Deep](games/a/a2100103ee894b96826d1c1ce2bae4c9.md) | 2024-06-18 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-06-27 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Active and Operational](games/a/active_and_operational.md) | 2024-06-30 | - |  | - | - |
@@ -378,6 +379,7 @@
 | [Idle Calibur(选王之剑)](games/i/idle_calibur(选王之剑).md) | 2099-01-01 | - |  | - | - |
 | [IncrediMarble](games/i/incredimarble.md) | 2099-01-01 | - |  | - | - |
 | [INDIKA](games/d/d28938c1044945239079d371d545e5c7.md) | 2099-01-01 | - |  | - | - |
+| [INDUSTRIA 2](games/b/b923c7c232814d448af46a02f1e1107b.md) | 2099-01-01 | - |  | - | - |
 | [Infection Free Zone](games/5/582f0eafbde4494bbf31ef210830dd62.md) | 2099-01-01 | - |  | - | - |
 | [Infinitesimals](games/i/infinitesimals.md) | 2099-01-01 | - |  | - | - |
 | [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | - |  | - | - |
@@ -521,6 +523,7 @@
 | [Sword of the Spirit](games/s/sword_of_the_spirit.md) | 2099-01-01 | - |  | - | - |
 | [Syncromania](games/2/2c526317445249939868f82d02425e2f.md) | 2099-01-01 | - |  | - | - |
 | [TAGLINE](games/b/bab1afea00da4a519ff7d3925bd99f89.md) | 2099-01-01 | - |  | - | - |
+| [Tails of Iron 2: Whiskers of Winter](games/8/8f8f6f0f4e3c492aac38c828ea2f763a.md) | 2099-01-01 | - |  | - | - |
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | - |  | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2099-01-01 | - |  | - | - |
 | [The 22nd is Serda. f0a178](games/e/ee7012dfa0784b638503492ccd494e1f.md) | 2099-01-01 | - |  | - | - |
