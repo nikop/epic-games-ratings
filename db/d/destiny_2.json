@@ -2,7 +2,7 @@
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
   "ProductSlug": "destiny-2",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 729,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 10,
@@ -16102,10 +16102,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 150157,
       "NumberOfAwardsMax": 71227
+    },
+    {
+      "Time": "2024-03-21T14:57:59.3219865+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 150192,
+      "NumberOfAwardsMax": 71227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 150157,
+  "NumberOfAwards": 150192,
   "NumberOfAwardsMax": 71227,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -16143,7 +16149,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 15988
+      "Count": 16023
     },
     {
       "Text": "This game has Amazing Characters",
@@ -48902,9 +48908,9 @@
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
-  "LastChanged": "2024-03-21T11:58:10.691496+00:00",
+  "LastChanged": "2024-03-21T14:57:59.3219863+00:00",
   "LastChanged_Achievements": "2024-01-27T13:05:51.0105845+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:17.4557829+00:00",
-  "LastUpdate_Ratings": "2024-03-21T13:03:07.4446724+00:00",
+  "LastUpdate_Ratings": "2024-03-21T14:57:59.321987+00:00",
   "LastUpdate_Achievements": "2024-01-27T13:05:51.0107404+00:00"
 }
