@@ -103,6 +103,7 @@
 | 100 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,753 | 139 |
 | 100 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.79 | 0 | 617 |
 | 100 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 617 |
+| 100 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 365 | 257 |
 | 100 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 174 | 338 |
 | 100 | [Griftlands](games/g/griftlands.md) | 4.79 | 22 | 597 |
 | 100 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 617 |
@@ -113,14 +114,13 @@
 | 100 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 119 | 376 |
 | 100 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 617 |
 | 100 | [WarmSnow](games/w/warmsnow.md) | 4.79 | 88 | 414 |
-| 114 | [Aground](games/a/aground.md) | 4.78 | 0 | 617 |
-| 114 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 0 | 617 |
-| 114 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,106 | 44 |
-| 114 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 947 | 179 |
-| 114 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 365 | 257 |
-| 114 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,385 | 72 |
-| 114 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 617 |
-| 114 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 554 |
+| 115 | [Aground](games/a/aground.md) | 4.78 | 0 | 617 |
+| 115 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.78 | 0 | 617 |
+| 115 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,106 | 44 |
+| 115 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 947 | 179 |
+| 115 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,385 | 72 |
+| 115 | [SpiderHeck](games/s/spiderheck.md) | 4.78 | 0 | 617 |
+| 115 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 554 |
 | 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,295 | 41 |
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,281 | 151 |
 | 122 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,087 | 37 |
@@ -277,7 +277,7 @@
 | 272 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.68 | 0 | 617 |
 | 272 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 157,202 | 8 |
 | 272 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,469 | 92 |
-| 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 939 | 180 |
+| 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 941 | 180 |
 | 272 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 344,026 | 3 |
 | 272 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.68 | 0 | 617 |
 | 272 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 617 |
@@ -425,7 +425,7 @@
 | 412 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 137 | 358 |
 | 412 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 617 |
 | 412 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 457 |
-| 412 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 456 | 240 |
+| 412 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 458 | 240 |
 | 412 | [MudRunner](games/m/mudrunner.md) | 4.61 | 325 | 268 |
 | 412 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 739 | 201 |
 | 412 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,162 | 43 |
@@ -950,7 +950,7 @@
 | 941 | [Startup Panic](games/s/startup_panic.md) | 4.27 | 0 | 617 |
 | 941 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 617 |
 | 941 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 617 |
-| 951 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,810 | 22 |
+| 951 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,816 | 22 |
 | 951 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,058 | 97 |
 | 951 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.26 | 261 | 290 |
 | 951 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 617 |
@@ -1022,7 +1022,7 @@
 | 1,019 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.18 | 93 | 410 |
 | 1,019 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,434 | 106 |
 | 1,019 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.18 | 0 | 617 |
-| 1,019 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 224,448 | 6 |
+| 1,019 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 224,532 | 6 |
 | 1,019 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 404 |
 | 1,025 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 617 |
 | 1,025 | [Forspoken](games/f/forspoken.md) | 4.17 | 59 | 461 |
