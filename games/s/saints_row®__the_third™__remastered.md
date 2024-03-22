@@ -5,7 +5,7 @@ Rating: 4.41 (Ranked 776)
 Number of Ratings: 6,169  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 2,285  (Ranked 121)  
-Sum: 3,222 (Ranked 187)  
+Sum: 3,223 (Ranked 187)  
 Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): -66
 | This game is Highly Recommended | 102 |
 | This game has Diverse Characters | 96 |
 | This game has Obsessive Gameplay | 93 |
-| This game has a Silly Community | 81 |
+| This game has a Silly Community | 82 |
 | This game has Playful Visuals | 56 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -240,4 +240,4 @@ Diff (max vs sum): -66
 | 2024-03-17 | 4.41 | - | 2,278 | 3,215 |
 | 2024-03-19 | 4.41 | - | 2,280 | 3,217 |
 | 2024-03-20 | 4.41 | - | 2,283 | 3,220 |
-| 2024-03-22 | 4.41 | - | 2,285 | 3,222 |
+| 2024-03-22 | 4.41 | - | 2,285 | 3,223 |

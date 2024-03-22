@@ -4,7 +4,7 @@
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 959,
   "Ranking_Popularity": 172,
-  "Ranking_PopularitySum": 133,
+  "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -10273,10 +10273,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 7480,
       "NumberOfAwardsMax": 1042
+    },
+    {
+      "Time": "2024-03-22T19:57:14.2213824+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 7484,
+      "NumberOfAwardsMax": 1042
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7480,
+  "NumberOfAwards": 7484,
   "NumberOfAwardsMax": 1042,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10290,7 +10296,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 834
+      "Count": 836
     },
     {
       "Text": "This game has Competitive Players",
@@ -10332,7 +10338,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 694
+      "Count": 695
     },
     {
       "Text": "This game has a Competitive Community",
@@ -10350,7 +10356,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 795
+      "Count": 796
     },
     {
       "Text": "This game has Unique Visuals",
@@ -10371,8 +10377,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2024-03-21T19:57:40.0381098+00:00",
+  "LastChanged": "2024-03-22T19:57:14.2213821+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:30.419511+00:00",
-  "LastUpdate_Ratings": "2024-03-22T18:00:04.2528554+00:00",
+  "LastUpdate_Ratings": "2024-03-22T19:57:14.2213829+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:27.1866701+00:00"
 }
