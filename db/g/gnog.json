@@ -2,7 +2,7 @@
   "ID": "19078740fbcc4eada59a5a4ae7b3724c",
   "Name": "GNOG",
   "ProductSlug": "gnog",
-  "Ranking_Rating": 166,
+  "Ranking_Rating": 165,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 952,
@@ -107,6 +107,6 @@
   "FirstSeenRating": "2022-11-16T04:59:22.0834451+00:00",
   "LastChanged": "2024-01-29T09:58:23.7946631+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:20.9865287+00:00",
-  "LastUpdate_Ratings": "2024-03-22T16:59:43.3508471+00:00",
+  "LastUpdate_Ratings": "2024-03-22T18:57:58.6261224+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:47.1536854+00:00"
 }

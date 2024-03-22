@@ -4,12 +4,12 @@
 Rating: 4.65 (Ranked 335)  
 Number of Ratings: 722  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 59  (Ranked 461)  
-Sum: 436 (Ranked 368)  
-Diff (max vs sum): 93  
+Max (Highly Recommended): 60  (Ranked 459)  
+Sum: 437 (Ranked 368)  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 59 |
+| This game is Highly Recommended | 60 |
 | This game is Great for Beginners | 57 |
 | This game has Amazing Characters | 56 |
 | This game is Extremely Fun | 56 |
@@ -193,4 +193,4 @@ Diff (max vs sum): 93
 | 2024-03-17 | 4.65 | - | 59 | 433 |
 | 2024-03-18 | 4.66 | - | 59 | 435 |
 | 2024-03-21 | 4.66 | - | 59 | 436 |
-| 2024-03-22 | 4.65 | - | 59 | 436 |
+| 2024-03-22 | 4.65 | - | 60 | 437 |

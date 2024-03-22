@@ -3,7 +3,7 @@
   "Name": "Medieval Dynasty",
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 335,
-  "Ranking_Popularity": 461,
+  "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
@@ -1470,11 +1470,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 436,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-03-22T19:01:15.359523+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 437,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 436,
-  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 437,
+  "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1505,7 +1511,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1567,8 +1573,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2024-03-22T16:57:26.2907433+00:00",
+  "LastChanged": "2024-03-22T19:01:15.3595229+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:27.1419586+00:00",
-  "LastUpdate_Ratings": "2024-03-22T17:59:30.7875908+00:00",
+  "LastUpdate_Ratings": "2024-03-22T19:01:15.3595233+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:20.2659212+00:00"
 }
