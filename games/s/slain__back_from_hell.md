@@ -1,7 +1,7 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.29 (Ranked 910)  
+Rating: 4.29 (Ranked 909)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
