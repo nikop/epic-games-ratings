@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-22 | 14 (1,000 XP) | 1 | - | - |
 | [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | - |  | - | - |
 | [The Warden's Paradise](games/8/829e4fae2a754b94b71476ad9cebba84.md) | 2024-03-22 | - |  | - | - |
 | [Unlock The Cat](games/0/06eff52201bd4e7d9db3e56a11ac4536.md) | 2024-03-22 | 7 (1,000 XP) | 2 | - | - |
@@ -259,7 +258,7 @@
 | [Another World](games/4/4c209f89f2b64535aa82d5828426353d.md) | 2099-01-01 | - |  | - | - |
 | [Archery RED](games/e/e17cbf6cf17b4e8dbe4119c99f668cb0.md) | 2099-01-01 | - |  | - | - |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2099-01-01 | - |  | - | - |
-| [Ascendant Infinity](games/f/f482bdb61ec6483c89b21c3af00a9833.md) | 2099-01-01 | - |  | - | - |
+| [ASCENDANT.COM](games/f/f482bdb61ec6483c89b21c3af00a9833.md) | 2099-01-01 | - |  | - | - |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | - |  | - | - |
 | [Astrometica](games/d/d5edf91e135b4742b668c25dea1e2e52.md) | 2099-01-01 | - |  | - | - |
 | [BADMAD ROBOTS](games/8/8c9aba45f7364ae483dcd05cf7d61cc4.md) | 2099-01-01 | - |  | - | - |
@@ -343,6 +342,7 @@
 | [Eternity Convergence](games/e/eternity_convergence.md) | 2099-01-01 | - |  | - | - |
 | [Eternium](games/7/7957c388e44f4467a33496ce06d11020.md) | 2099-01-01 | - |  | - | - |
 | [Everholm](games/e/everholm.md) | 2099-01-01 | - |  | - | - |
+| [Evil Tonight](games/e/ea17712b1bd24b64a7b7ff60b8c936b0.md) | 2099-01-01 | - |  | - | - |
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2099-01-01 | - |  | - | - |
 | [Extremely Realistic Siege Warfare Simulator](games/b/ba853730b0ab4978b0a7394c47cdc337.md) | 2099-01-01 | - |  | - | - |
 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2099-01-01 | - |  | - | - |
