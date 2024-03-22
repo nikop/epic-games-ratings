@@ -2,7 +2,7 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
-  "Ranking_Rating": 930,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 952,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "NumberOfRatings": 21107,
   "RatingHistory": [
     {
@@ -12857,10 +12857,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 36707,
       "NumberOfAwardsMax": 6089
+    },
+    {
+      "Time": "2024-03-22T12:01:53.3231098+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 36708,
+      "NumberOfAwardsMax": 6089
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36707,
+  "NumberOfAwards": 36708,
   "NumberOfAwardsMax": 6089,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -12886,7 +12892,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5299
+      "Count": 5300
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12924,8 +12930,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2024-03-22T09:57:36.7515527+00:00",
+  "LastChanged": "2024-03-22T12:01:53.3231094+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:07.479175+00:00",
-  "LastUpdate_Ratings": "2024-03-22T10:59:10.9447521+00:00",
+  "LastUpdate_Ratings": "2024-03-22T12:01:53.3231105+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:00.8879294+00:00"
 }
