@@ -2,7 +2,7 @@
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
-  "Ranking_Rating": 209,
+  "Ranking_Rating": 200,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 166,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.72,
   "RatingHistory": [
     {
       "Time": "2023-01-31T17:57:54.7682729+00:00",
@@ -1357,6 +1357,12 @@
     {
       "Time": "2024-03-21T13:57:51.5074463+00:00",
       "Rating": 4.71,
+      "NumberOfAwards": 545,
+      "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2024-03-22T13:00:31.6796703+00:00",
+      "Rating": 4.72,
       "NumberOfAwards": 545,
       "NumberOfAwardsMax": 409
     }
@@ -13369,9 +13375,9 @@
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
-  "LastChanged": "2024-03-21T13:57:51.5074461+00:00",
+  "LastChanged": "2024-03-22T13:00:31.6796701+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:08.5750903+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:57:50.0838746+00:00",
-  "LastUpdate_Ratings": "2024-03-22T11:58:37.6364287+00:00",
+  "LastUpdate_Ratings": "2024-03-22T13:00:31.6796706+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:08.5751901+00:00"
 }
