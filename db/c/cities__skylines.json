@@ -2,7 +2,7 @@
   "ID": "6009be9994c2409099588cde6f3a5ed0",
   "Name": "Cities: Skylines",
   "ProductSlug": "cities-skylines",
-  "Ranking_Rating": 314,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 12,
@@ -17381,10 +17381,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 53313,
       "NumberOfAwardsMax": 7302
+    },
+    {
+      "Time": "2024-03-22T07:59:16.2485079+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 53317,
+      "NumberOfAwardsMax": 7302
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 53313,
+  "NumberOfAwards": 53317,
   "NumberOfAwardsMax": 7302,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -17440,7 +17446,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 4660
+      "Count": 4664
     },
     {
       "Text": "This game has Amazing Characters",
@@ -51013,9 +51019,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
-  "LastChanged": "2024-03-21T21:59:34.1080915+00:00",
+  "LastChanged": "2024-03-22T07:59:16.2485075+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:04.3384601+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:15.0494097+00:00",
-  "LastUpdate_Ratings": "2024-03-22T06:57:50.649716+00:00",
+  "LastUpdate_Ratings": "2024-03-22T07:59:16.2485085+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:04.3387237+00:00"
 }
