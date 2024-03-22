@@ -3,8 +3,8 @@
   "Name": "Melvor Idle",
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 372,
-  "Ranking_Popularity": 102,
-  "Ranking_PopularitySum": 126,
+  "Ranking_Popularity": 101,
+  "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -3191,18 +3191,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 8126,
       "NumberOfAwardsMax": 3630
+    },
+    {
+      "Time": "2024-03-22T07:01:02.643384+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 8154,
+      "NumberOfAwardsMax": 3658
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8126,
-  "NumberOfAwardsMax": 3630,
+  "NumberOfAwards": 8154,
+  "NumberOfAwardsMax": 3658,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3630
+      "Count": 3658
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3283,8 +3289,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-03-22T03:00:19.7854731+00:00",
+  "LastChanged": "2024-03-22T07:01:02.6433838+00:00",
   "LastUpdate_AppInfo": "2024-03-21T23:57:03.1051101+00:00",
-  "LastUpdate_Ratings": "2024-03-22T05:58:58.6305751+00:00",
+  "LastUpdate_Ratings": "2024-03-22T07:01:02.6433844+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:11.9171181+00:00"
 }

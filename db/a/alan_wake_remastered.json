@@ -4,7 +4,7 @@
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 673,
   "Ranking_Popularity": 605,
-  "Ranking_PopularitySum": 533,
+  "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 1,
@@ -658,12 +658,18 @@
       "Rating": 4.48,
       "NumberOfAwards": 61,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-03-22T07:00:55.7343189+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 62,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 61,
+  "NumberOfAwards": 62,
   "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -675,7 +681,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Amazing Characters",
@@ -31208,9 +31214,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
-  "LastChanged": "2024-03-22T04:57:44.720657+00:00",
+  "LastChanged": "2024-03-22T07:00:55.7343187+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:41.8242049+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:49.6933623+00:00",
-  "LastUpdate_Ratings": "2024-03-22T05:58:53.3167299+00:00",
+  "LastUpdate_Ratings": "2024-03-22T07:00:55.7343193+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:41.8243897+00:00"
 }
