@@ -837,7 +837,7 @@
 | 834 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.37 | 23 | 593 |
 | 834 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.37 | 0 | 617 |
 | 834 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,173 | 123 |
-| 834 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.37 | 115 | 379 |
+| 834 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.37 | 116 | 379 |
 | 834 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 613 |
 | 834 | [MORDHAU](games/m/mordhau.md) | 4.37 | 1,497 | 147 |
 | 834 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.37 | 0 | 617 |
@@ -954,17 +954,17 @@
 | 952 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,816 | 22 |
 | 952 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,059 | 97 |
 | 952 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.26 | 265 | 290 |
+| 952 | [Nightingale](games/n/nightingale.md) | 4.26 | 47 | 495 |
 | 952 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 617 |
 | 952 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 617 |
 | 952 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 279 |
-| 958 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.25 | 0 | 617 |
-| 958 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 597 |
-| 958 | [Nightingale](games/n/nightingale.md) | 4.25 | 47 | 495 |
-| 958 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 1,042 | 172 |
-| 958 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 617 |
-| 958 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.25 | 0 | 617 |
-| 958 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 617 |
-| 958 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 583 |
+| 959 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.25 | 0 | 617 |
+| 959 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 597 |
+| 959 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.25 | 1,042 | 172 |
+| 959 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 617 |
+| 959 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.25 | 0 | 617 |
+| 959 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 617 |
+| 959 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 583 |
 | 966 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 617 |
 | 966 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 537 |
 | 966 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.24 | 48 | 492 |
