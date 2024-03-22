@@ -273,7 +273,7 @@
 | 246 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 242 | 294 |
 | 246 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 910 | 187 |
 | 273 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,537 | 91 |
-| 273 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 781 | 199 |
+| 273 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 783 | 199 |
 | 273 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 73 | 442 |
 | 273 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.68 | 0 | 617 |
 | 273 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 157,381 | 8 |
@@ -333,7 +333,7 @@
 | 315 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,185 | 73 |
 | 315 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 239 |
 | 315 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.66 | 0 | 617 |
-| 315 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 27 | 570 |
+| 315 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 27 | 571 |
 | 315 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 617 |
 | 336 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.65 | 57 | 467 |
 | 336 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 617 |
@@ -486,7 +486,7 @@
 | 483 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 67,741 | 12 |
 | 483 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.58 | 0 | 617 |
 | 483 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 221 | 310 |
-| 483 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.58 | 27 | 570 |
+| 483 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.58 | 27 | 571 |
 | 483 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 15,373 | 29 |
 | 483 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 276 | 286 |
 | 483 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 617 |
@@ -723,7 +723,7 @@
 | 712 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.45 | 0 | 617 |
 | 712 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,746 | 34 |
 | 712 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 617 |
-| 712 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 922 | 183 |
+| 712 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 923 | 182 |
 | 712 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 772,050 | 2 |
 | 712 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 617 |
 | 712 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 136 | 360 |
@@ -762,7 +762,7 @@
 | 751 | [Warpips](games/w/warpips.md) | 4.43 | 44 | 503 |
 | 751 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.43 | 85 | 418 |
 | 751 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 461 |
-| 751 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 27 | 570 |
+| 751 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 28 | 564 |
 | 764 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 605 |
 | 764 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 617 |
 | 764 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.42 | 0 | 617 |
@@ -851,7 +851,7 @@
 | 846 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 0 | 617 |
 | 846 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 617 |
 | 846 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.36 | 0 | 617 |
-| 846 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 570 |
+| 846 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 571 |
 | 846 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 52 | 480 |
 | 846 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,727 | 88 |
 | 846 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 165 | 344 |
@@ -867,7 +867,7 @@
 | 857 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 279 | 285 |
 | 857 | [Torchlight](games/t/torchlight.md) | 4.35 | 25 | 583 |
 | 857 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.35 | 0 | 617 |
-| 868 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 570 |
+| 868 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 571 |
 | 868 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 617 |
 | 868 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 127 | 372 |
 | 868 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.34 | 0 | 617 |

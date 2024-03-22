@@ -182,7 +182,7 @@
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 941 | 4.68 | 273 |
 | 181 | [The Long Dark](games/t/the_long_dark.md) | 927 | 4.74 | 165 |
 | 182 | [Brawlhalla](games/b/brawlhalla.md) | 923 | 4.59 | 464 |
-| 183 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 922 | 4.45 | 712 |
+| 182 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 923 | 4.45 | 712 |
 | 184 | [Auto Chess](games/a/auto_chess.md) | 921 | 4.50 | 638 |
 | 185 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 917 | 4.79 | 100 |
 | 186 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 915 | 4.60 | 441 |
@@ -198,7 +198,7 @@
 | 196 | [Core](games/c/core.md) | 801 | 4.35 | 857 |
 | 197 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 792 | 4.87 | 21 |
 | 198 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 787 | 4.61 | 412 |
-| 199 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 781 | 4.68 | 273 |
+| 199 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 783 | 4.68 | 273 |
 | 200 | [Neon Abyss](games/n/neon_abyss.md) | 748 | 4.68 | 273 |
 | 201 | [Prison Architect](games/p/prison_architect.md) | 740 | 4.61 | 412 |
 | 202 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 732 | 4.59 | 464 |
@@ -569,11 +569,11 @@
 | 564 | [Outlast](games/o/outlast.md) | 28 | 4.75 | 151 |
 | 564 | [Rise of Industry](games/r/rise_of_industry.md) | 28 | 4.27 | 943 |
 | 564 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 28 | 4.76 | 137 |
-| 570 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 27 | 4.58 | 483 |
-| 570 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 868 |
-| 570 | [Spirit of the North](games/s/spirit_of_the_north.md) | 27 | 4.36 | 846 |
-| 570 | [We Were Here Forever](games/w/we_were_here_forever.md) | 27 | 4.66 | 315 |
-| 570 | [WRC Generations](games/w/wrc_generations.md) | 27 | 4.43 | 751 |
+| 564 | [WRC Generations](games/w/wrc_generations.md) | 28 | 4.43 | 751 |
+| 571 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 27 | 4.58 | 483 |
+| 571 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 868 |
+| 571 | [Spirit of the North](games/s/spirit_of_the_north.md) | 27 | 4.36 | 846 |
+| 571 | [We Were Here Forever](games/w/we_were_here_forever.md) | 27 | 4.66 | 315 |
 | 575 | [DEMON'S TILT](games/d/demon's_tilt.md) | 26 | 4.53 | 583 |
 | 575 | [ELEX](games/e/elex.md) | 26 | 4.45 | 712 |
 | 575 | [Fez](games/f/fez.md) | 26 | 4.74 | 165 |

@@ -13,6 +13,7 @@
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | - |  | - | - |
 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-03-27 | 38 (1,000 XP) | 1 | - | - |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-03-28 | 38 (1,000 XP) | 1 | - | - |
+| [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [CriticalOrb](games/1/12e1a3fb64044ffbbfa8fa94fa92b07c.md) | 2024-03-29 | - |  | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [Project Apidom](games/5/551b8ecaa91c4369b87dc68c131cd7ae.md) | 2024-03-29 | - |  | - | - |
@@ -34,7 +35,6 @@
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-03-31 | - |  | - | - |
 | [Repression](games/0/0bcd77c68cff407a9628730bb61f639d.md) | 2024-03-31 | - |  | - | - |
 | [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
-| [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-31 | 37 (1,000 XP) | 0 | - | - |
 | [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-03-31 | - |  | - | - |
 | [TRIBES 3: Rivals](games/4/41f54b0e3988413c921e4a21cdb15172.md) | 2024-03-31 | - |  | - | - |
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | - |  | - | - |
@@ -224,6 +224,7 @@
 | [Unmasked: An Inner Journey](games/7/733ca16d97244408b857bdcc9e4b6e3b.md) | 2024-12-31 | - |  | - | - |
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | 2024-12-31 | - |  | - | - |
 | [VED](games/v/ved.md) | 2024-12-31 | - |  | - | - |
+| [Voidwrought](games/1/1c6e13038e00432ba0a3c11bb85d1d5f.md) | 2024-12-31 | - |  | - | - |
 | [Wanderer's Sigil: Dice-Fueled Adventure](games/7/74d48dd68be249aab319a2f9bca2dc0e.md) | 2024-12-31 | - |  | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | - |  | - | - |
 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-12-31 | - |  | - | - |
