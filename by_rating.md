@@ -42,7 +42,7 @@
 | 29 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 617 |
 | 41 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,017 | 76 |
 | 41 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 617 |
-| 41 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 52 | 479 |
+| 41 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 52 | 480 |
 | 41 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.85 | 0 | 617 |
 | 41 | [Subnautica](games/s/subnautica.md) | 4.85 | 834 | 192 |
 | 41 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 0 | 617 |
@@ -51,7 +51,7 @@
 | 48 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 39 | 517 |
 | 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 51 | 484 |
 | 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,480 | 55 |
-| 48 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 52 | 479 |
+| 48 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 53 | 476 |
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 468 | 238 |
 | 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 14,792 | 32 |
 | 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 230 | 301 |
@@ -140,7 +140,7 @@
 | 137 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.76 | 0 | 617 |
 | 137 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,154 | 25 |
 | 137 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,534 | 105 |
-| 137 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,708 | 69 |
+| 137 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.76 | 6,720 | 69 |
 | 137 | [Journey](games/j/journey.md) | 4.76 | 0 | 617 |
 | 137 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 617 |
 | 137 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,390 | 116 |
@@ -295,7 +295,7 @@
 | 291 | [CARRION](games/c/carrion.md) | 4.67 | 0 | 617 |
 | 291 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.67 | 0 | 617 |
 | 291 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 617 |
-| 291 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 52 | 479 |
+| 291 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 52 | 480 |
 | 291 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,748 | 68 |
 | 291 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 334,804 | 4 |
 | 291 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 617 |
@@ -385,7 +385,7 @@
 | 372 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 617 |
 | 372 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 722 | 203 |
 | 372 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 9,054 | 51 |
-| 372 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 3,630 | 102 |
+| 372 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 3,658 | 101 |
 | 372 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 617 |
 | 372 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 617 |
 | 372 | [Prey](games/p/prey.md) | 4.63 | 5,959 | 77 |
@@ -689,7 +689,7 @@
 | 685 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.47 | 46 | 499 |
 | 685 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 157 | 350 |
 | 685 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.47 | 0 | 617 |
-| 685 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,654 | 101 |
+| 685 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,654 | 102 |
 | 685 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 617 |
 | 685 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 617 |
 | 685 | [MythForce](games/m/mythforce.md) | 4.47 | 37 | 523 |
@@ -785,7 +785,7 @@
 | 777 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.41 | 0 | 617 |
 | 777 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.41 | 0 | 617 |
 | 777 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 617 |
-| 777 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,283 | 121 |
+| 777 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,285 | 121 |
 | 777 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 445 |
 | 777 | [Sheltered](games/s/sheltered.md) | 4.41 | 287 | 282 |
 | 777 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.41 | 198 | 319 |
@@ -852,8 +852,8 @@
 | 846 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 617 |
 | 846 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.36 | 0 | 617 |
 | 846 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 570 |
-| 846 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 52 | 479 |
-| 846 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,713 | 88 |
+| 846 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 52 | 480 |
+| 846 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.36 | 4,727 | 88 |
 | 846 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 165 | 344 |
 | 846 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.36 | 33 | 540 |
 | 857 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 617 |
@@ -1125,7 +1125,7 @@
 | 1,122 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 128 | 370 |
 | 1,122 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 617 |
 | 1,125 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 617 |
-| 1,126 | [Poker Club](games/p/poker_club.md) | 3.84 | 52 | 479 |
+| 1,126 | [Poker Club](games/p/poker_club.md) | 3.84 | 52 | 480 |
 | 1,126 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.84 | 0 | 617 |
 | 1,128 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 0 | 617 |
 | 1,128 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 617 |
