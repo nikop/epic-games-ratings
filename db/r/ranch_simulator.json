@@ -2,7 +2,7 @@
   "ID": "6a9d6df3f6f74983a7d77861ccfcf50b",
   "Name": "Ranch Simulator",
   "ProductSlug": "ranch-simulator",
-  "Ranking_Rating": 791,
+  "Ranking_Rating": 792,
   "Ranking_Popularity": 416,
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 952,
@@ -1914,10 +1914,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 602,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2024-03-22T01:39:27.200738+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 604,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 602,
+  "NumberOfAwards": 604,
   "NumberOfAwardsMax": 86,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1961,7 +1967,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has Easy Combat",
@@ -1973,7 +1979,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1999,8 +2005,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2024-03-21T20:58:59.8046642+00:00",
+  "LastChanged": "2024-03-22T01:39:27.2007378+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:29.7801595+00:00",
-  "LastUpdate_Ratings": "2024-03-21T23:58:06.7344173+00:00",
+  "LastUpdate_Ratings": "2024-03-22T01:39:27.2007383+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:25.3981283+00:00"
 }

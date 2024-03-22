@@ -2,7 +2,7 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 290,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 613,
   "Ranking_PopularitySum": 614,
   "Ranking_EOS_Progress": 200,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-09-18T15:57:21.5975399+00:00",
@@ -269,6 +269,12 @@
     {
       "Time": "2024-02-27T22:00:09.7163628+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-03-22T01:37:40.1763482+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
     }
@@ -11148,9 +11154,9 @@
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged": "2024-02-27T22:00:09.7163627+00:00",
+  "LastChanged": "2024-03-22T01:37:40.176348+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:37.3376858+00:00",
   "LastUpdate_AppInfo": "2024-03-15T19:57:53.3331852+00:00",
-  "LastUpdate_Ratings": "2024-03-21T23:00:56.2133856+00:00",
+  "LastUpdate_Ratings": "2024-03-22T01:37:40.1763484+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:37.3377738+00:00"
 }
