@@ -2,7 +2,7 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 217,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.47,
   "RatingHistory": [
     {
       "Time": "2024-01-06T12:01:38.2851424+00:00",
@@ -201,6 +201,12 @@
     {
       "Time": "2024-03-06T19:59:29.7354243+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 30,
+      "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-03-22T05:58:01.4266742+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 30,
       "NumberOfAwardsMax": 30
     }
@@ -3880,9 +3886,9 @@
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-03-06T19:59:29.7354242+00:00",
+  "LastChanged": "2024-03-22T05:58:01.4266739+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:25.7656008+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:24.8496771+00:00",
-  "LastUpdate_Ratings": "2024-03-22T04:01:14.5441519+00:00",
+  "LastUpdate_Ratings": "2024-03-22T05:58:01.4266745+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:25.7656198+00:00"
 }
