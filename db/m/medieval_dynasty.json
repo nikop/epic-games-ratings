@@ -2,7 +2,7 @@
   "ID": "c556d22537ed4a14a454813c9faedd3a",
   "Name": "Medieval Dynasty",
   "ProductSlug": "medieval-dynasty",
-  "Ranking_Rating": 315,
+  "Ranking_Rating": 335,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 722,
   "RatingHistory": [
     {
@@ -1464,6 +1464,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 436,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-03-22T16:57:26.2907435+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 436,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
@@ -1561,8 +1567,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2024-03-21T19:57:15.4072326+00:00",
+  "LastChanged": "2024-03-22T16:57:26.2907433+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:27.1419586+00:00",
-  "LastUpdate_Ratings": "2024-03-22T14:59:53.8472245+00:00",
+  "LastUpdate_Ratings": "2024-03-22T16:57:26.2907437+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:20.2659212+00:00"
 }
