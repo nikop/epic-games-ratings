@@ -2,9 +2,9 @@
   "ID": "28a45b35886145129a846cc1c8088877",
   "Name": "Mortal Online 2",
   "ProductSlug": "mortal-online-2-d7bb78",
-  "Ranking_Rating": 891,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 460,
+  "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2023-12-21T16:59:51.7204837+00:00",
@@ -623,10 +623,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 174,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2024-03-22T16:00:25.324112+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 174,
+  "NumberOfAwards": 197,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -665,6 +671,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -679,8 +691,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T20:58:55.3583755+00:00",
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
-  "LastChanged": "2024-03-21T21:59:09.7270499+00:00",
+  "LastChanged": "2024-03-22T16:00:25.3241118+00:00",
   "LastUpdate_AppInfo": "2024-03-19T06:57:24.3737317+00:00",
-  "LastUpdate_Ratings": "2024-03-22T14:59:15.8542534+00:00",
+  "LastUpdate_Ratings": "2024-03-22T16:00:25.3241123+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:42.1933285+00:00"
 }
