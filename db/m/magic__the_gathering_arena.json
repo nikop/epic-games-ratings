@@ -19190,10 +19190,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 106139,
       "NumberOfAwardsMax": 13746
+    },
+    {
+      "Time": "2024-03-21T23:57:53.0992211+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 106172,
+      "NumberOfAwardsMax": 13746
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 106139,
+  "NumberOfAwards": 106172,
   "NumberOfAwardsMax": 13746,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -19213,7 +19219,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10400
+      "Count": 10404
     },
     {
       "Text": "This game is Relaxing",
@@ -19231,19 +19237,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 10740
+      "Count": 10750
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9438
+      "Count": 9446
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 8216
+      "Count": 8222
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19255,7 +19261,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6955
+      "Count": 6960
     },
     {
       "Text": "This game has a Competitive Community",
@@ -19275,8 +19281,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-03-21T21:59:41.8519903+00:00",
+  "LastChanged": "2024-03-21T23:57:53.099221+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:26.3686556+00:00",
-  "LastUpdate_Ratings": "2024-03-21T21:59:41.851991+00:00",
+  "LastUpdate_Ratings": "2024-03-21T23:57:53.0992215+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:51.5719059+00:00"
 }

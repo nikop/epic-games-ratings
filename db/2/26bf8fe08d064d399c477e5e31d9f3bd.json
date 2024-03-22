@@ -2,7 +2,7 @@
   "ID": "26bf8fe08d064d399c477e5e31d9f3bd",
   "Name": "Citizen Conflict",
   "ProductSlug": "citizen-conflict-95e40e",
-  "Ranking_Rating": 909,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 952,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2024-03-11T05:58:19.2606688+00:00",
@@ -71,6 +71,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-21T23:59:43.7779203+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -89,8 +95,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-21T11:57:29.6445085+00:00",
   "FirstSeenRating": "2024-03-11T05:58:19.2606685+00:00",
-  "LastChanged": "2024-03-21T01:39:58.8337167+00:00",
+  "LastChanged": "2024-03-21T23:59:43.7779201+00:00",
   "LastUpdate_AppInfo": "2024-03-20T23:57:17.4026138+00:00",
-  "LastUpdate_Ratings": "2024-03-21T22:58:57.7731792+00:00",
+  "LastUpdate_Ratings": "2024-03-21T23:59:43.7779215+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:02.9995814+00:00"
 }
