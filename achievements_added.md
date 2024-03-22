@@ -43,7 +43,7 @@
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | - |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | 2099-01-01 | 19 (1,000 XP) | 0 | - | - |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 1,830 | 4.60 | 91 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 1,830 | 4.60 | 94 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 15,097 | 4.65 | 454 |
 | [Project Element](games/a/a9c5d48f93f742d8b8225d21f23fe95b.md) | 2024-03-13 | 6 (1,000 XP) | 5 | - | - |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 5 | - | - |
@@ -164,7 +164,7 @@
 | [CounterAttack: Uprising](games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 2024-01-12 | 24 (1,000 XP) | 68 | - | 0 |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 2023-12-17 | 31 (1,000 XP) | 86 | - | 0 |
-| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 264,964 | 4.18 | 0 |
+| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 264,964 | 4.19 | 0 |
 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 678 | - | 0 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 3,791 | 4.43 | 85 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 1,175 | 4.49 | 104 |
@@ -371,7 +371,7 @@
 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 2023-09-26 | 22 (1,000 XP) | 82 | - | 0 |
 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2023-02-16 | 48 (1,000 XP) | 1,574 | - | - |
 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 2023-04-07 | 18 (1,000 XP) | 1,226 | - | - |
-| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 20,681 | 4.64 | 143 |
+| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 20,681 | 4.63 | 143 |
 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2023-09-22 | 17 (1,000 XP) | 286 | - | 0 |
 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 2023-10-11 | 11 (1,000 XP) | 17 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |

@@ -103,7 +103,7 @@
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 21 | - | 0 |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | 63 (1,000 XP) | 80 | - | 0 |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | 31 (1,000 XP) | 80 | - | 0 |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 1,830 | 4.60 | 91 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 1,830 | 4.60 | 94 |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 9 | - | 0 |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-08 | 26 (1,000 XP) | 9 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
@@ -167,7 +167,7 @@
 | [Virtual Rides 3](games/1/116f71b2da434337bba6498e0ea61d9c.md) | 2023-12-17 | 10 (1,000 XP) | 19 | - | 0 |
 | [Battle Planet - Judgement Day](games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 2023-12-15 | 13 (1,000 XP) | 4 | - | 0 |
 | [Hero Battle Fantasy Arena](games/4/4d936d45ca14450c86d6472c3c494181.md) | 2023-12-15 | 15 (1,000 XP) | 76 | - | 0 |
-| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 264,964 | 4.18 | 0 |
+| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 264,964 | 4.19 | 0 |
 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 678 | - | 0 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 2023-12-13 | 51 (1,000 XP) | 427 | - | 0 |
@@ -487,7 +487,7 @@
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 182 | - | 0 |
 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 17,352 | 4.11 | 0 |
 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 2023-06-16 | 45 (1,000 XP) | 874 | - | 0 |
-| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 20,681 | 4.64 | 143 |
+| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 20,681 | 4.63 | 143 |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-15 | 5 (1,000 XP) | 193 | - | 0 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 412 | - | 0 |
 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 743 | - | 0 |
@@ -787,7 +787,7 @@
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 52 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 524 | 4.16 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,331 | 4.77 | 1,281 |
-| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 22,401 | 4.21 | 48 |
+| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 22,401 | 4.21 | 50 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 599 | 4.54 | 39 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 245,782 | 4.58 | 1,519 |
@@ -925,7 +925,7 @@
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,066 | 4.45 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,631,689 | 4.65 | 1,181 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 158,646 | 4.48 | 21 |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 533,301 | 4.69 | 8,691 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 533,301 | 4.69 | 8,707 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 27,476 | 4.28 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 5,849 | 4.43 | 33 |
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 119,128 | 4.54 | 31 |
