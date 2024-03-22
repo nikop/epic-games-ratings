@@ -3,7 +3,7 @@
   "Name": "DRAGON QUEST\u00AE XI S: Echoes of an Elusive Age\u2122",
   "ProductSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
   "Ranking_Rating": 58,
-  "Ranking_Popularity": 298,
+  "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
@@ -957,18 +957,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 518,
       "NumberOfAwardsMax": 237
+    },
+    {
+      "Time": "2024-03-22T02:14:02.6186073+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 519,
+      "NumberOfAwardsMax": 238
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 518,
-  "NumberOfAwardsMax": 237,
+  "NumberOfAwards": 519,
+  "NumberOfAwardsMax": 238,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 237
+      "Count": 238
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1030,8 +1036,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
-  "LastChanged": "2024-03-04T16:57:17.1624937+00:00",
+  "LastChanged": "2024-03-22T02:14:02.6186071+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:59.5445296+00:00",
-  "LastUpdate_Ratings": "2024-03-22T01:37:47.5379168+00:00",
+  "LastUpdate_Ratings": "2024-03-22T02:14:02.6186075+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:53.9378202+00:00"
 }
