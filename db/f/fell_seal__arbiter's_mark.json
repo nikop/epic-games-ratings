@@ -2,7 +2,7 @@
   "ID": "3d4ea555f7954f06b48050b3b821d6d0",
   "Name": "Fell Seal: Arbiter\u0027s Mark",
   "ProductSlug": "fell-seal-arbiters-mark",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 39,
   "RatingHistory": [
     {
@@ -173,6 +173,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-03-22T10:57:46.5708615+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
@@ -198,8 +204,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:38.543998+00:00",
-  "LastChanged": "2024-02-26T01:41:44.9869189+00:00",
+  "LastChanged": "2024-03-22T10:57:46.5708613+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:11.6879003+00:00",
-  "LastUpdate_Ratings": "2024-03-22T08:59:23.0004463+00:00",
+  "LastUpdate_Ratings": "2024-03-22T10:57:46.5708628+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:11.3670179+00:00"
 }
