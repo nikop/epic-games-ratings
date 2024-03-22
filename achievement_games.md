@@ -90,7 +90,7 @@
 | [Death From Above - Complete Edition](games/f/f7dd9963616b4c1d9b89d5582a07766c.md) | 2024-02-23 | 21 (1,000 XP) | 0 | - | 0 |
 | [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-02-23 | 10 (1,000 XP) | 20 | - | 0 |
 | [Inkulinati](games/3/3017522a6faa4fd4a8f16d5e2899fe69.md) | 2024-02-22 | 26 (1,000 XP) | 36 | - | 0 |
-| [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 1 | 4.74 | 0 |
+| [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 1 | 4.75 | 0 |
 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2024-02-21 | 39 (1,000 XP) | 730 | - | 0 |
 | [Deadly Broadcast](games/2/26f95abaabab4e63b390242ba69111c3.md) | 2024-02-21 | 23 (1,000 XP) | 22 | - | 0 |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | - |
@@ -828,7 +828,7 @@
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 2022-06-23 | 22 (1,000 XP) | 37,925 | 4.21 | 129 |
 | [Sonic Origins](games/s/sonic_origins.md) | 2022-06-23 | 35 (1,000 XP) | 753 | 4.58 | 133 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 2022-06-23 | 49 (1,000 XP) | 267 | 4.43 | 0 |
-| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 38,715,379 | 4.51 | 157,802 |
+| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 38,715,379 | 4.51 | 157,838 |
 | [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 1,277 | 4.53 | 0 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 5,766 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,594 | 4.73 | 110 |
@@ -921,7 +921,7 @@
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 191 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 131 | - | 0 |
 | [War Mongrels](games/w/war_mongrels.md) | 2021-10-19 | 59 (1,000 XP) | 2,436 | 4.38 | 0 |
-| [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 21,721 | 4.82 | 478 |
+| [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 21,721 | 4.82 | 479 |
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,066 | 4.45 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,631,689 | 4.65 | 1,180 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 158,646 | 4.48 | 21 |
