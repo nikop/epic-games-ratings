@@ -4,7 +4,7 @@
   "ProductSlug": "nightingale",
   "Ranking_Rating": 952,
   "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 417,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -583,10 +583,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 278,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-03-23T07:00:01.2990843+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 280,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 278,
+  "NumberOfAwards": 280,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -648,7 +654,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30
+      "Count": 32
     }
   ],
   "EOS_Progressed": 0,
@@ -671,9 +677,9 @@
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:53.3151044+00:00",
-  "LastChanged": "2024-03-23T02:12:50.3289778+00:00",
+  "LastChanged": "2024-03-23T07:00:01.2990841+00:00",
   "LastChanged_Achievements": "2024-03-21T17:06:53.3151022+00:00",
   "LastUpdate_AppInfo": "2024-03-17T11:57:21.7150041+00:00",
-  "LastUpdate_Ratings": "2024-03-23T05:57:59.7140287+00:00",
+  "LastUpdate_Ratings": "2024-03-23T07:00:01.2990846+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:53.3151063+00:00"
 }
