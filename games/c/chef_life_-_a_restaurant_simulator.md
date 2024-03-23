@@ -1,7 +1,7 @@
 # Chef Life - A Restaurant Simulator
 [Store](https://store.epicgames.com/en-US/p/chef-life-a-restaurant-simulator)  
 [View Rawdata](../../db/c/chef_life_-_a_restaurant_simulator.json)  
-Rating: 4.48 (Ranked 674)  
+Rating: 4.50 (Ranked 638)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -300,3 +300,4 @@ Completed: 0 (0.00%) (Ranked 445)
 | 2024-03-04 | 4.48 | 0 | 0 |
 | 2024-03-13 | 4.47 | 0 | 0 |
 | 2024-03-16 | 4.48 | 0 | 0 |
+| 2024-03-23 | 4.50 | 0 | 0 |

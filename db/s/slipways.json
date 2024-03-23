@@ -3,8 +3,8 @@
   "Name": "Slipways",
   "ProductSlug": "slipways",
   "Ranking_Rating": 209,
-  "Ranking_Popularity": 618,
-  "Ranking_PopularitySum": 618,
+  "Ranking_Popularity": 619,
+  "Ranking_PopularitySum": 619,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -147,6 +147,6 @@
   "FirstSeen": "2022-07-22T20:23:00.0993046+00:00",
   "LastChanged": "2023-12-19T14:02:55.5027751+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:57:59.266476+00:00",
-  "LastUpdate_Ratings": "2024-03-23T19:58:38.6445011+00:00",
+  "LastUpdate_Ratings": "2024-03-23T21:01:21.0783296+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:21.6980157+00:00"
 }
