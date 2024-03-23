@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 2024-03-23 | - |  | - | - |
 | [Basima The Private Investigator](games/3/3a4a182b8e2d4e318a070f7d1726482b.md) | 2024-03-23 | - |  | - | - |
 | [Unreal Physics](games/6/671e830fdc5d4ec8b26e062ae486cfdd.md) | 2024-03-24 | - |  | - | - |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 0 | - | - |

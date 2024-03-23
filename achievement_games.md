@@ -487,7 +487,7 @@
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 182 | - | 0 |
 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 17,352 | 4.11 | 0 |
 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 2023-06-16 | 45 (1,000 XP) | 874 | - | 0 |
-| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 20,681 | 4.63 | 143 |
+| [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 20,681 | 4.64 | 143 |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-15 | 5 (1,000 XP) | 193 | - | 0 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 412 | - | 0 |
 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2023-06-15 | 11 (1,000 XP) | 743 | - | 0 |
