@@ -3,8 +3,8 @@
   "Name": "3 out of 10: Season Two",
   "ProductSlug": "3-out-of-10-season-2",
   "Ranking_Rating": 912,
-  "Ranking_Popularity": 617,
-  "Ranking_PopularitySum": 617,
+  "Ranking_Popularity": 618,
+  "Ranking_PopularitySum": 618,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -264,6 +264,6 @@
   "FirstSeen": "2022-07-22T20:24:10.8158493+00:00",
   "LastChanged": "2024-03-16T02:15:10.4523457+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:11.6659802+00:00",
-  "LastUpdate_Ratings": "2024-03-23T08:59:25.7810278+00:00",
+  "LastUpdate_Ratings": "2024-03-23T10:57:12.0064368+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:17.8710411+00:00"
 }
