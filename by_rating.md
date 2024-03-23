@@ -202,7 +202,7 @@
 | 182 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.73 | 0 | 617 |
 | 201 | [Dead Space](games/d/dead_space.md) | 4.72 | 409 | 249 |
 | 201 | [FUSER™](games/f/fuser™.md) | 4.72 | 35 | 532 |
-| 201 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 38,122 | 16 |
+| 201 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 38,237 | 16 |
 | 201 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.72 | 0 | 617 |
 | 201 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 617 |
 | 201 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 375 | 254 |
@@ -545,7 +545,7 @@
 | 525 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 25 | 583 |
 | 525 | [System Shock](games/s/system_shock.md) | 4.56 | 0 | 617 |
 | 525 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 617 |
-| 525 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,760 | 80 |
+| 525 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,764 | 80 |
 | 547 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 617 |
 | 547 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 333 | 266 |
 | 547 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.55 | 0 | 617 |
@@ -1010,7 +1010,6 @@
 | 1,000 | [Out of Line](games/o/out_of_line.md) | 4.20 | 0 | 617 |
 | 1,000 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.20 | 0 | 617 |
 | 1,010 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 488 |
-| 1,010 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.19 | 0 | 617 |
 | 1,010 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 598 |
 | 1,010 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 425 |
 | 1,010 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 617 |
@@ -1018,13 +1017,14 @@
 | 1,010 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 617 |
 | 1,010 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.19 | 0 | 617 |
 | 1,010 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 617 |
-| 1,019 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 617 |
-| 1,019 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.18 | 0 | 617 |
-| 1,019 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.18 | 95 | 409 |
-| 1,019 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,438 | 106 |
-| 1,019 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.18 | 0 | 617 |
-| 1,019 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 224,641 | 6 |
-| 1,019 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 404 |
+| 1,018 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 617 |
+| 1,018 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.18 | 0 | 617 |
+| 1,018 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.18 | 0 | 617 |
+| 1,018 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.18 | 95 | 409 |
+| 1,018 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 3,438 | 106 |
+| 1,018 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.18 | 0 | 617 |
+| 1,018 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 224,641 | 6 |
+| 1,018 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 404 |
 | 1,026 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 617 |
 | 1,026 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 99 | 397 |
 | 1,026 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 617 |

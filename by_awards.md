@@ -5,7 +5,7 @@
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 344,932 | 4.68 | 273 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 334,924 | 4.67 | 291 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 296,743 | 4.88 | 16 |
-| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 224,641 | 4.18 | 1,019 |
+| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 224,641 | 4.18 | 1,018 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 157,838 | 4.51 | 614 |
 | 8 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 157,572 | 4.68 | 273 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 130,122 | 4.69 | 246 |
@@ -15,7 +15,7 @@
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 58,013 | 4.61 | 412 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 50,511 | 4.74 | 166 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 43,183 | 4.51 | 614 |
-| 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 38,122 | 4.72 | 201 |
+| 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 38,237 | 4.72 | 201 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 36,123 | 4.74 | 166 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,915 | 4.64 | 357 |
 | 19 | [Dauntless](games/d/dauntless.md) | 27,831 | 4.53 | 583 |
@@ -79,7 +79,7 @@
 | 77 | [Prey](games/p/prey.md) | 5,962 | 4.63 | 370 |
 | 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,937 | 4.07 | 1,077 |
 | 79 | [League of Legends](games/l/league_of_legends.md) | 5,856 | 4.20 | 1,000 |
-| 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,760 | 4.56 | 525 |
+| 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,764 | 4.56 | 525 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,508 | 4.59 | 467 |
 | 82 | [SMITE](games/s/smite.md) | 5,401 | 4.42 | 764 |
 | 83 | [God of War](games/g/god_of_war.md) | 5,400 | 4.87 | 20 |
@@ -105,7 +105,7 @@
 | 103 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,590 | 4.57 | 507 |
 | 104 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,539 | 4.57 | 507 |
 | 105 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,534 | 4.76 | 137 |
-| 106 | [Gotham Knights](games/g/gotham_knights.md) | 3,438 | 4.18 | 1,019 |
+| 106 | [Gotham Knights](games/g/gotham_knights.md) | 3,438 | 4.18 | 1,018 |
 | 107 | [Among Us](games/a/among_us.md) | 3,235 | 4.56 | 525 |
 | 108 | [RAGE 2](games/r/rage_2.md) | 3,045 | 4.27 | 941 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,902 | 4.62 | 396 |
@@ -405,10 +405,10 @@
 | 401 | [This War of Mine](games/t/this_war_of_mine.md) | 97 | 4.74 | 166 |
 | 404 | [Carcassonne](games/c/carcassonne.md) | 96 | 4.66 | 315 |
 | 404 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 96 | 4.56 | 525 |
-| 404 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 1,019 |
+| 404 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 1,018 |
 | 404 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 96 | 4.71 | 209 |
 | 404 | [Solitairica](games/s/solitairica.md) | 96 | 4.49 | 657 |
-| 409 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 95 | 4.18 | 1,019 |
+| 409 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 95 | 4.18 | 1,018 |
 | 409 | [RAILGRADE](games/r/railgrade.md) | 95 | 4.55 | 547 |
 | 411 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 94 | 4.60 | 441 |
 | 412 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 90 | 4.60 | 441 |
