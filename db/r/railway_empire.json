@@ -2,7 +2,7 @@
   "ID": "93b333eb973b45b582f3bdf68dfc1dc9",
   "Name": "Railway Empire",
   "ProductSlug": "railway-empire",
-  "Ranking_Rating": 614,
+  "Ranking_Rating": 615,
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 952,
@@ -4425,10 +4425,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2608,
       "NumberOfAwardsMax": 374
+    },
+    {
+      "Time": "2024-03-23T09:57:33.3173019+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2609,
+      "NumberOfAwardsMax": 374
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2608,
+  "NumberOfAwards": 2609,
   "NumberOfAwardsMax": 374,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4442,7 +4448,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 324
+      "Count": 325
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4512,9 +4518,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
-  "LastChanged": "2024-03-23T06:58:03.4969907+00:00",
+  "LastChanged": "2024-03-23T09:57:33.3173017+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:12.932929+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:17.7382978+00:00",
-  "LastUpdate_Ratings": "2024-03-23T07:59:17.147149+00:00",
+  "LastUpdate_Ratings": "2024-03-23T09:57:33.3173022+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:12.9329323+00:00"
 }

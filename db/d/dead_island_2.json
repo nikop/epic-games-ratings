@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 36,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 22,
@@ -11101,10 +11101,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 19497,
       "NumberOfAwardsMax": 12423
+    },
+    {
+      "Time": "2024-03-23T09:58:37.3528052+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 19506,
+      "NumberOfAwardsMax": 12423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19497,
+  "NumberOfAwards": 19506,
   "NumberOfAwardsMax": 12423,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -11136,7 +11142,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 841
+      "Count": 845
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11148,7 +11154,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 838
+      "Count": 839
     },
     {
       "Text": "This game is Relaxing",
@@ -11160,7 +11166,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 843
+      "Count": 847
     }
   ],
   "EOS_Progressed": 841520,
@@ -44179,9 +44185,9 @@
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2024-03-23T08:57:09.3856467+00:00",
+  "LastChanged": "2024-03-23T09:58:37.352805+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:23.5471143+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:48.4026031+00:00",
-  "LastUpdate_Ratings": "2024-03-23T08:57:09.3856472+00:00",
+  "LastUpdate_Ratings": "2024-03-23T09:58:37.3528057+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:23.5473332+00:00"
 }

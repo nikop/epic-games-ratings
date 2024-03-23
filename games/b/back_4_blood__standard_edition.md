@@ -1,16 +1,16 @@
 # Back 4 Blood: Standard Edition
 [Store](https://store.epicgames.com/en-US/p/back-4-blood)  
 [View Rawdata](../../db/b/back_4_blood__standard_edition.json)  
-Rating: 4.46 (Ranked 699)  
+Rating: 4.46 (Ranked 700)  
 Number of Ratings: 2,790  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 4,344  (Ranked 94)  
-Sum: 9,551 (Ranked 110)  
+Sum: 9,552 (Ranked 110)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 4,344 |
-| This game has Diverse Characters | 858 |
+| This game has Diverse Characters | 859 |
 | This game is Highly Recommended | 778 |
 | This game is Extremely Fun | 737 |
 | This game is Relaxing | 732 |
@@ -445,4 +445,4 @@ Diff (max vs sum): -16
 | 2024-03-20 | 4.46 | - | 4,327 | 9,512 |
 | 2024-03-21 | 4.46 | - | 4,335 | 9,532 |
 | 2024-03-22 | 4.46 | - | 4,344 | 9,549 |
-| 2024-03-23 | 4.46 | - | 4,344 | 9,551 |
+| 2024-03-23 | 4.46 | - | 4,344 | 9,552 |
