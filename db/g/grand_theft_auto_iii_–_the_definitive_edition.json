@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 1021,
+  "Ranking_Rating": 1027,
   "Ranking_Popularity": 618,
   "Ranking_PopularitySum": 618,
   "Ranking_EOS_Progress": 194,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -785,6 +785,12 @@
     {
       "Time": "2024-03-19T19:58:28.227492+00:00",
       "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-23T19:57:11.3200115+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -16887,9 +16893,9 @@
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2024-03-19T19:58:28.2274918+00:00",
+  "LastChanged": "2024-03-23T19:57:11.3200114+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:19.3922145+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:42.3579061+00:00",
-  "LastUpdate_Ratings": "2024-03-23T17:59:27.4948787+00:00",
+  "LastUpdate_Ratings": "2024-03-23T19:57:11.3200121+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:19.3923182+00:00"
 }

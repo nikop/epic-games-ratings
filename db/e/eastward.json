@@ -2,7 +2,7 @@
   "ID": "656bd7c2e76b46d2a1b9b4f247e813f5",
   "Name": "Eastward",
   "ProductSlug": "eastward",
-  "Ranking_Rating": 292,
+  "Ranking_Rating": 291,
   "Ranking_Popularity": 618,
   "Ranking_PopularitySum": 618,
   "Ranking_EOS_Progress": 952,
@@ -152,6 +152,6 @@
   "FirstSeenRating": "2022-07-31T06:31:42.9533956+00:00",
   "LastChanged": "2023-03-31T05:58:19.5067631+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:57:30.1611149+00:00",
-  "LastUpdate_Ratings": "2024-03-23T17:59:28.6981544+00:00",
+  "LastUpdate_Ratings": "2024-03-23T19:57:12.3259727+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:57.9920745+00:00"
 }
