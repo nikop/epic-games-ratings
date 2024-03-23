@@ -2,7 +2,7 @@
   "ID": "48e20c81667c4ff49c85dd79ac3a01b0",
   "Name": "Redfall",
   "ProductSlug": "redfall",
-  "Ranking_Rating": 1142,
+  "Ranking_Rating": 1141,
   "Ranking_Popularity": 509,
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 262,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.63,
+  "Rating": 3.64,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -551,6 +551,12 @@
     {
       "Time": "2024-03-21T20:59:26.6940088+00:00",
       "Rating": 3.63,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-03-23T21:58:34.9646584+00:00",
+      "Rating": 3.64,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 41
     }
@@ -5397,9 +5403,9 @@
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2024-03-21T20:59:26.6940086+00:00",
+  "LastChanged": "2024-03-23T21:58:34.9646583+00:00",
   "LastChanged_Achievements": "2024-03-21T17:05:48.9455572+00:00",
   "LastUpdate_AppInfo": "2024-03-17T10:57:20.7623222+00:00",
-  "LastUpdate_Ratings": "2024-03-23T20:57:51.8733358+00:00",
+  "LastUpdate_Ratings": "2024-03-23T21:58:34.9646588+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:48.9456556+00:00"
 }
