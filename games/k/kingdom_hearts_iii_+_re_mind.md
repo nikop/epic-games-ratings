@@ -1,7 +1,7 @@
 # KINGDOM HEARTS III + Re Mind (DLC)
 [Store](https://store.epicgames.com/en-US/p/kingdom-hearts-iii)  
 [View Rawdata](../../db/k/kingdom_hearts_iii_+_re_mind.json)  
-Rating: 4.79 (Ranked 101)  
+Rating: 4.79 (Ranked 100)  
 Number of Ratings: 2,011  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 917  (Ranked 185)  

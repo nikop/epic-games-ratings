@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 1020,
+  "Ranking_Rating": 1011,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 117,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -6499,6 +6499,12 @@
     {
       "Time": "2024-03-22T14:59:55.5822516+00:00",
       "Rating": 4.18,
+      "NumberOfAwards": 5970,
+      "NumberOfAwardsMax": 3438
+    },
+    {
+      "Time": "2024-03-23T13:57:12.3068018+00:00",
+      "Rating": 4.19,
       "NumberOfAwards": 5970,
       "NumberOfAwardsMax": 3438
     }
@@ -33220,9 +33226,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-03-22T14:59:55.5822514+00:00",
+  "LastChanged": "2024-03-23T13:57:12.3068016+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:24.5399368+00:00",
   "LastUpdate_AppInfo": "2024-03-17T07:58:27.7047326+00:00",
-  "LastUpdate_Ratings": "2024-03-23T11:59:54.443942+00:00",
+  "LastUpdate_Ratings": "2024-03-23T13:57:12.3068021+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:24.5401549+00:00"
 }
