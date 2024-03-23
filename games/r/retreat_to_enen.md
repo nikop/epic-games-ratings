@@ -1,7 +1,7 @@
 # Retreat To Enen
 [Store](https://store.epicgames.com/en-US/p/retreat-to-enen-60ef78)  
 [View Rawdata](../../db/r/retreat_to_enen.json)  
-Rating: 3.86 (Ranked 1,123)  
+Rating: 3.86 (Ranked 1,124)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

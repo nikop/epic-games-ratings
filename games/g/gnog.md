@@ -1,7 +1,7 @@
 # GNOG
 [Store](https://store.epicgames.com/en-US/p/gnog)  
 [View Rawdata](../../db/g/gnog.json)  
-Rating: 4.74 (Ranked 167)  
+Rating: 4.75 (Ranked 152)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -18,3 +18,4 @@ Rating: 4.74 (Ranked 167)
 | 2023-12-14 | 4.72 | 0 | 0 |
 | 2024-01-14 | 4.73 | 0 | 0 |
 | 2024-01-29 | 4.74 | 0 | 0 |
+| 2024-03-23 | 4.75 | 0 | 0 |

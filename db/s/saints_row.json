@@ -2,9 +2,9 @@
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
   "ProductSlug": "saints-row",
-  "Ranking_Rating": 1120,
+  "Ranking_Rating": 1121,
   "Ranking_Popularity": 154,
-  "Ranking_PopularitySum": 108,
+  "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 1,
@@ -6499,10 +6499,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 9665,
       "NumberOfAwardsMax": 1211
+    },
+    {
+      "Time": "2024-03-23T17:01:34.5082108+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 9668,
+      "NumberOfAwardsMax": 1211
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9665,
+  "NumberOfAwards": 9668,
   "NumberOfAwardsMax": 1211,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -6516,7 +6522,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1156
+      "Count": 1159
     },
     {
       "Text": "This game has Playful Visuals",
@@ -39329,9 +39335,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-03-23T04:58:09.1778758+00:00",
+  "LastChanged": "2024-03-23T17:01:34.5082104+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:36.4022585+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:10.690496+00:00",
-  "LastUpdate_Ratings": "2024-03-23T15:58:49.6003464+00:00",
+  "LastUpdate_Ratings": "2024-03-23T17:01:34.5082112+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:36.4025322+00:00"
 }
