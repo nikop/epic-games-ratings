@@ -4,8 +4,8 @@
 Rating: 4.79 (Ranked 100)  
 ## Awards
 Max (Educational): 1,532  (Ranked 144)  
-Sum: 9,136 (Ranked 113)  
-Diff (max vs sum): 31  
+Sum: 9,136 (Ranked 112)  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 1,532 |
