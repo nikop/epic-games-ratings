@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.49 (Ranked 658)  
+Rating: 4.50 (Ranked 638)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -177,3 +177,4 @@ Completed: 13 (0.62%) (Ranked 237)
 | 2024-02-17 | 4.58 | 0 | 0 |
 | 2024-03-13 | 4.57 | 0 | 0 |
 | 2024-03-18 | 4.49 | 0 | 0 |
+| 2024-03-23 | 4.50 | 0 | 0 |
