@@ -4,7 +4,7 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 547,
   "Ranking_Popularity": 266,
-  "Ranking_PopularitySum": 203,
+  "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -3495,10 +3495,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 2736,
       "NumberOfAwardsMax": 333
+    },
+    {
+      "Time": "2024-03-23T01:37:34.5026512+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 2741,
+      "NumberOfAwardsMax": 333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2736,
+  "NumberOfAwards": 2741,
   "NumberOfAwardsMax": 333,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3506,7 +3512,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 297
+      "Count": 300
     },
     {
       "Text": "This game is Relaxing",
@@ -3560,7 +3566,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 302
+      "Count": 304
     },
     {
       "Text": "This game has a Creative Community",
@@ -3581,8 +3587,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-03-22T20:59:05.5948048+00:00",
+  "LastChanged": "2024-03-23T01:37:34.502651+00:00",
   "LastUpdate_AppInfo": "2024-03-18T13:57:17.3211331+00:00",
-  "LastUpdate_Ratings": "2024-03-22T23:58:07.0240771+00:00",
+  "LastUpdate_Ratings": "2024-03-23T01:37:34.5026515+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:58.1212825+00:00"
 }
