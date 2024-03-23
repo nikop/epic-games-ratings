@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 752,
   "Ranking_Popularity": 257,
-  "Ranking_PopularitySum": 270,
+  "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -2123,10 +2123,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 1252,
       "NumberOfAwardsMax": 369
+    },
+    {
+      "Time": "2024-03-23T11:59:38.3978774+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1255,
+      "NumberOfAwardsMax": 369
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1252,
+  "NumberOfAwards": 1255,
   "NumberOfAwardsMax": 369,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2164,7 +2170,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 85
+      "Count": 88
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16071,9 +16077,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-03-23T10:57:55.3059071+00:00",
+  "LastChanged": "2024-03-23T11:59:38.3978772+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:46.7297352+00:00",
   "LastUpdate_AppInfo": "2024-03-20T01:37:20.3903047+00:00",
-  "LastUpdate_Ratings": "2024-03-23T10:57:55.3059077+00:00",
+  "LastUpdate_Ratings": "2024-03-23T11:59:38.3978777+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:46.7298438+00:00"
 }
