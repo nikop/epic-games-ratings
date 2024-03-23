@@ -4,7 +4,7 @@
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 8,
   "Ranking_Popularity": 125,
-  "Ranking_PopularitySum": 108,
+  "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -6982,10 +6982,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 9662,
       "NumberOfAwardsMax": 2067
+    },
+    {
+      "Time": "2024-03-23T05:57:20.5676039+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 9665,
+      "NumberOfAwardsMax": 2067
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9662,
+  "NumberOfAwards": 9665,
   "NumberOfAwardsMax": 2067,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6993,7 +6999,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1827
+      "Count": 1830
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7079,8 +7085,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2024-03-22T18:57:11.0218514+00:00",
+  "LastChanged": "2024-03-23T05:57:20.5676038+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:44.6200568+00:00",
-  "LastUpdate_Ratings": "2024-03-23T04:00:06.5695812+00:00",
+  "LastUpdate_Ratings": "2024-03-23T05:57:20.5676043+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:05.5416554+00:00"
 }
