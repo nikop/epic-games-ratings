@@ -344,13 +344,13 @@ Completed: 74 (0.21%) (Ranked 313)
 | 2024-03-21 | 35,360 | 74 |
 ## Awards
 Max (Great for Quick Sessions): 343  (Ranked 261)  
-Sum: 3,097 (Ranked 191)  
+Sum: 3,098 (Ranked 191)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 343 |
 | This game is Great for Quick Sessions | 343 |
-| This game has Diverse Characters | 326 |
+| This game has Diverse Characters | 327 |
 | This game is Highly Recommended | 316 |
 | This game has Amazing Storytelling | 311 |
 | This game is Extremely Fun | 299 |
@@ -677,4 +677,4 @@ Diff (max vs sum): 70
 | 2024-03-20 | 4.51 | 342 | 3,089 |
 | 2024-03-21 | 4.51 | 342 | 3,090 |
 | 2024-03-22 | 4.51 | 343 | 3,093 |
-| 2024-03-24 | 4.51 | 343 | 3,097 |
+| 2024-03-24 | 4.51 | 343 | 3,098 |
