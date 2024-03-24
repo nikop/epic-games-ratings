@@ -3,7 +3,7 @@
   "Name": "Assassin\u0027s Creed\u00AE III: Remastered",
   "ProductSlug": "assassins-creed-3",
   "Ranking_Rating": 595,
-  "Ranking_Popularity": 297,
+  "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
@@ -808,18 +808,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 238,
       "NumberOfAwardsMax": 238
+    },
+    {
+      "Time": "2024-03-24T21:57:51.4677383+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 241,
+      "NumberOfAwardsMax": 241
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 238,
-  "NumberOfAwardsMax": 238,
+  "NumberOfAwards": 241,
+  "NumberOfAwardsMax": 241,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 238
+      "Count": 241
     }
   ],
   "EOS_Progressed": 0,
@@ -833,8 +839,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
-  "LastChanged": "2024-03-21T22:58:59.4121993+00:00",
+  "LastChanged": "2024-03-24T21:57:51.4677382+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:18.0207494+00:00",
-  "LastUpdate_Ratings": "2024-03-24T19:59:57.5162343+00:00",
+  "LastUpdate_Ratings": "2024-03-24T21:57:51.4677387+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:03.0472182+00:00"
 }
