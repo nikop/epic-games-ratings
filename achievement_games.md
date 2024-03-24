@@ -267,7 +267,7 @@
 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-10-26 | 24 (1,000 XP) | 107 | - | 0 |
 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 2023-10-26 | 31 (1,000 XP) | 265 | - | 0 |
 | [Trash Troopers Earth Reclaim](games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 2023-10-26 | 8 (1,000 XP) | 52 | - | 0 |
-| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 17,398 | 4.71 | 67 |
+| [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 17,398 | 4.71 | 68 |
 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 2023-10-25 | 12 (1,000 XP) | 14 | - | 0 |
 | [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 2023-10-25 | 18 (1,000 XP) | 7 | - | 0 |
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 112 | - | 0 |
@@ -551,7 +551,7 @@
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 10 (1,000 XP) | 166 | - | 0 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 27 (1,000 XP) | 47 | - | 0 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 9 (1,000 XP) | 38 | - | 0 |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 15,097 | 4.65 | 457 |
+| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 15,097 | 4.65 | 461 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 12 (1,000 XP) | 2 | - | 0 |
 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 1,899 | - | 0 |
 | [Elypse](games/e/elypse.md) | 2023-05-17 | 34 (1,000 XP) | 151 | - | 0 |
@@ -590,9 +590,9 @@
 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 2023-04-29 | 35 (1,000 XP) | 46 | - | 0 |
 | [Life After Death](games/l/life_after_death.md) | 2023-04-28 | 60 (1,000 XP) | 35 | - | 0 |
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 10 (1,000 XP) | 19 | - | - |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 53,569 | 4.50 | 11,314 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 53,569 | 4.50 | 11,345 |
 | [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 563,496 | 3.84 | 52 |
-| [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 3,056 | 4.47 | 0 |
+| [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 3,056 | 4.46 | 0 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 29 (1,150 XP) | 1,038 | - | 0 |
 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 2023-04-27 | 40 (1,000 XP) | 170 | - | 0 |
 | [Shotgun Farmers](games/s/shotgun_farmers.md) | 2023-04-27 | 74 (1,150 XP) | 429 | - | 0 |
@@ -875,7 +875,7 @@
 | [Weird West: Definitive Edition](games/w/weird_west.md) | 2022-03-31 | 53 (1,000 XP) | 2,128 | 4.44 | 31 |
 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 581,225 | 4.89 | 10,000 |
 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 2022-03-18 | 31 (1,000 XP) | 0 | 4.68 | 0 |
-| [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2022-03-18 | 46 (1,000 XP) | 83,170 | 4.51 | 1,069 |
+| [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2022-03-18 | 46 (1,000 XP) | 83,170 | 4.51 | 1,071 |
 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 2022-03-16 | 49 (1,000 XP) | 0 | 4.37 | 0 |
 | [Doodle God](games/d/doodle_god.md) | 2022-03-10 | 22 (1,000 XP) | 301 | - | 0 |
 | [A Musical Story](games/a/a_musical_story.md) | 2022-03-04 | 54 (1,000 XP) | 118 | - | 0 |
@@ -893,7 +893,7 @@
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 769,381 | 4.82 | 7,576 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,024,375 | 4.58 | 15,439 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 154 | 4.67 | 52 |
-| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,416,059 | 4.77 | 12,112 |
+| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,416,059 | 4.77 | 12,131 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 418 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 283 | - | 0 |
 | [Partisans 1941](games/p/partisans_1941.md) | 2022-01-11 | 30 (1,000 XP) | 2,233 | 4.63 | 0 |
@@ -916,7 +916,7 @@
 | [Saint Kotar](games/s/saint_kotar.md) | 2021-10-28 | 45 (1,000 XP) | 25 | - | 0 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 2021-10-28 | 14 (1,000 XP) | 27,142 | 4.23 | 0 |
 | [Aeon Must Die!](games/a/aeon_must_die!.md) | 2021-10-27 | 35 (1,000 XP) | 3,675 | - | 0 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 137,092 | 4.69 | 8,287 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 137,092 | 4.68 | 8,287 |
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 2021-10-21 | 10 (1,000 XP) | 105,238 | 4.29 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 191 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 131 | - | 0 |
@@ -964,7 +964,7 @@
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 36 | 4.66 | 0 |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 118 | 4.45 | 26 |
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 2021-03-18 | 19 (1,000 XP) | 1,195 | 4.35 | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 119,993 | 4.41 | 1,951 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 119,993 | 4.41 | 1,953 |
 | [Scrapnaut](games/s/scrapnaut.md) | 2021-03-03 | 31 (1,000 XP) | 770 | 4.31 | 0 |
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 48,092 | 4.58 | 228 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 64 | - | 0 |
@@ -978,7 +978,7 @@
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 7,792 | 4.65 | 115 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 485,305 | 4.54 | 62 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 498,250 | 4.44 | 273 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,329,958 | 4.66 | 7,316 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,329,958 | 4.66 | 7,325 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,048 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,072 | 4.66 | 1,985 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,077,608 | 4.68 | 157,572 |
