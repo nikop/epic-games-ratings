@@ -65,6 +65,7 @@
 | [Massira](games/1/15b4e5ae7fb345bdb9fe80fe56b67423.md) | 2024-04-30 | 23 (1,000 XP) | 1 | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-04-30 | - |  | - | - |
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
+| [Player Non Player](games/1/1b27521a313b4d05842a052cff892b91.md) | 2024-04-30 | - |  | - | - |
 | [Revival: Recolonization](games/4/4ccef3d9b96a4839ab46a6e83ddc6e61.md) | 2024-04-30 | 32 (1,000 XP) | 1 | - | - |
 | [Summer's Gone](games/4/451da11e3adf4275ace500815e0453fb.md) | 2024-04-30 | - |  | - | - |
 | [Weed Shop 3](games/8/84367f1107b84e12ae5d2ef1d36d071e.md) | 2024-04-30 | - |  | - | - |
@@ -325,6 +326,7 @@
 | [Dreamsettler](games/d/dreamsettler.md) | 2099-01-01 | - |  | - | - |
 | [Drift Reign](games/f/f683e94995e94d229a23ac80b3de6bdc.md) | 2099-01-01 | - |  | - | - |
 | [Dumbriel - Magnificent Adventure in Hell](games/d/dda406e1f3d54507b7de96870809da62.md) | 2099-01-01 | - |  | - | - |
+| [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2099-01-01 | - |  | - | - |
 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |
 | [Dungeon Of Dragon Knight](games/d/dungeon_of_dragon_knight.md) | 2099-01-01 | - |  | - | - |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2099-01-01 | - |  | - | - |
@@ -366,6 +368,7 @@
 | [Good Heavens!](games/g/good_heavens!.md) | 2099-01-01 | - |  | - | - |
 | [Gori Cuddly Carnage](games/c/c2876cf882574b94b9df57cdf2e2025b.md) | 2099-01-01 | - |  | - | - |
 | [Guardians of Elderon](games/g/guardians_of_elderon.md) | 2099-01-01 | - |  | - | - |
+| [happiness market](games/3/301523940444454f809dd4d9122a4b3f.md) | 2099-01-01 | - |  | - | - |
 | [Happy Time](games/0/0c3400dec5ec47399810c08113c09958.md) | 2099-01-01 | - |  | - | - |
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2099-01-01 | - |  | - | - |
 | [HELIX](games/b/bfaeb968e658400db8cc48fd4bae1081.md) | 2099-01-01 | - |  | - | - |
