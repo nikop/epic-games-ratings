@@ -2,7 +2,7 @@
   "ID": "44471bc726304926b6f7da78722c7029",
   "Name": "SpellForce 3 Reforced",
   "ProductSlug": "spellforce-3",
-  "Ranking_Rating": 595,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 619,
   "Ranking_PopularitySum": 619,
   "Ranking_EOS_Progress": 952,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.52,
+  "Rating": 4.51,
   "NumberOfRatings": 71,
   "RatingHistory": [
     {
@@ -259,6 +259,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-24T02:58:07.3477031+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -283,8 +289,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:19.8156047+00:00",
-  "LastChanged": "2024-01-15T20:58:29.2351713+00:00",
+  "LastChanged": "2024-03-24T02:58:07.3477028+00:00",
   "LastUpdate_AppInfo": "2024-03-17T09:57:02.9342896+00:00",
-  "LastUpdate_Ratings": "2024-03-24T01:45:40.1419341+00:00",
+  "LastUpdate_Ratings": "2024-03-24T02:58:07.3477034+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:53.7537964+00:00"
 }
