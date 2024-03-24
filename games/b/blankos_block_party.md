@@ -1,7 +1,7 @@
 # Blankos Block Party
 [Store](https://store.epicgames.com/en-US/p/blankos-block-party-09fc55)  
 [View Rawdata](../../db/b/blankos_block_party.json)  
-Rating: 4.21 (Ranked 994)  
+Rating: 4.21 (Ranked 993)  
 Number of Ratings: 27  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 32  (Ranked 545)  

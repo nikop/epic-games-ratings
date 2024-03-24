@@ -1,7 +1,7 @@
 # God of War
 [Store](https://store.epicgames.com/en-US/p/god-of-war)  
 [View Rawdata](../../db/g/god_of_war.json)  
-Rating: 4.87 (Ranked 19)  
+Rating: 4.87 (Ranked 20)  
 Number of Ratings: 4,943  (23.09.2022)  
 ## Awards
 Max (Character Customization): 5,403  (Ranked 83)  
