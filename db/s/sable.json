@@ -2,7 +2,7 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Ranking_Rating": 563,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 105,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 43,
   "RatingHistory": [
     {
@@ -697,6 +697,12 @@
     {
       "Time": "2024-03-16T04:57:35.8638143+00:00",
       "Rating": 4.54,
+      "NumberOfAwards": 184,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-03-24T05:01:05.3715776+00:00",
+      "Rating": 4.53,
       "NumberOfAwards": 184,
       "NumberOfAwardsMax": 31
     }
@@ -33723,9 +33729,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
-  "LastChanged": "2024-03-16T04:57:35.8638141+00:00",
+  "LastChanged": "2024-03-24T05:01:05.3715774+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:37.2903153+00:00",
   "LastUpdate_AppInfo": "2024-03-17T12:58:55.1853687+00:00",
-  "LastUpdate_Ratings": "2024-03-24T03:59:19.4323626+00:00",
+  "LastUpdate_Ratings": "2024-03-24T05:01:05.371578+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:37.290467+00:00"
 }
