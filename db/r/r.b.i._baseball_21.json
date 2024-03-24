@@ -1,19 +1,21 @@
 {
   "ID": "bbb19a1dae4d4a46991533cfabd04383",
-  "Name": "R.B.I. Baseball 21",
+  "Name": "DevMtForakerAudience",
   "ProductSlug": "rbi-baseball-21",
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
-    "ReleaseDate": null,
+    "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "KR,CN"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -29,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-24T11:57:09.265708+00:00",
-  "LastUpdate_Ratings": "2024-03-24T19:57:51.1883875+00:00",
+  "LastUpdate_Ratings": "2024-03-24T20:59:20.3468603+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:07.5591075+00:00"
 }

@@ -1,7 +1,7 @@
 # Tacoma
 [Store](https://store.epicgames.com/en-US/p/tacoma)  
 [View Rawdata](../../db/t/tacoma.json)  
-Rating: 4.38 (Ranked 824)  
+Rating: 4.39 (Ranked 810)  
 Number of Ratings: 60  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -66,3 +66,4 @@ Number of Ratings: 60  (23.09.2022)
 | 2023-12-27 | 4.36 | - | 0 | 0 |
 | 2024-02-28 | 4.37 | - | 0 | 0 |
 | 2024-03-15 | 4.38 | - | 0 | 0 |
+| 2024-03-24 | 4.39 | - | 0 | 0 |
