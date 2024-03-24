@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 371)  
+Rating: 4.63 (Ranked 372)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -95,8 +95,8 @@ Completed: 9 (0.99%) (Ranked 206)
 | 2024-01-27 | 582 | 6 |
 | 2024-03-21 | 905 | 9 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 532)  
-Sum: 35 (Ranked 572)  
+Max (Great Boss Battles): 35  (Ranked 533)  
+Sum: 35 (Ranked 573)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
