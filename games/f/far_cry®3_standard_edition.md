@@ -5,7 +5,7 @@ Rating: 4.70 (Ranked 225)
 Number of Ratings: 504  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 623  (Ranked 217)  
-Sum: 983 (Ranked 288)  
+Sum: 984 (Ranked 288)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): -71
 | This game is Highly Recommended | 34 |
 | This game is Great for Beginners | 31 |
 | This game has Unique Visuals | 29 |
-| This game has Competitive Players | 26 |
+| This game has Competitive Players | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -319,3 +319,4 @@ Diff (max vs sum): -71
 | 2024-03-21 | 4.70 | - | 620 | 977 |
 | 2024-03-22 | 4.70 | - | 623 | 982 |
 | 2024-03-23 | 4.70 | - | 623 | 983 |
+| 2024-03-24 | 4.70 | - | 623 | 984 |
