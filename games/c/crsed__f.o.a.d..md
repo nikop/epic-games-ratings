@@ -1,12 +1,12 @@
 # CRSED: Cuisine Royale
 [Store](https://store.epicgames.com/en-US/p/crsed-f-o-a-d)  
 [View Rawdata](../../db/c/crsed__f.o.a.d..json)  
-Rating: 4.32 (Ranked 892)  
+Rating: 4.32 (Ranked 891)  
 Number of Ratings: 464  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 109  (Ranked 387)  
+Max (Highly Recommended): 109  (Ranked 388)  
 Sum: 707 (Ranked 324)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 109 |

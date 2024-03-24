@@ -4,7 +4,7 @@
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 151,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 111,
+  "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -13273,10 +13273,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 9342,
       "NumberOfAwardsMax": 1000
+    },
+    {
+      "Time": "2024-03-24T19:57:46.8456383+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 10157,
+      "NumberOfAwardsMax": 1000
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9342,
+  "NumberOfAwards": 10157,
   "NumberOfAwardsMax": 1000,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13356,7 +13362,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 652
+      "Count": 815
     }
   ],
   "EOS_Progressed": 0,
@@ -13370,8 +13376,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-03-24T11:57:31.1782101+00:00",
+  "LastChanged": "2024-03-24T19:57:46.845638+00:00",
   "LastUpdate_AppInfo": "2024-03-24T09:57:02.9029042+00:00",
-  "LastUpdate_Ratings": "2024-03-24T18:01:21.5685413+00:00",
+  "LastUpdate_Ratings": "2024-03-24T19:57:46.8456387+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:35.8241072+00:00"
 }

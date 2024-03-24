@@ -4,7 +4,7 @@
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 933,
   "Ranking_Popularity": 594,
-  "Ranking_PopularitySum": 496,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -459,10 +459,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 105,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-03-24T19:57:18.7299109+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 106,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 105,
+  "NumberOfAwards": 106,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -482,7 +488,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -509,8 +515,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-03-16T17:00:01.2139533+00:00",
+  "LastChanged": "2024-03-24T19:57:18.7299105+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:25.2241371+00:00",
-  "LastUpdate_Ratings": "2024-03-24T18:00:40.8325914+00:00",
+  "LastUpdate_Ratings": "2024-03-24T19:57:18.7299113+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:53.5883009+00:00"
 }
