@@ -1,7 +1,7 @@
 # The Walking Dead: Season Two
 [Store](https://store.epicgames.com/en-US/p/walking-dead-season-two)  
 [View Rawdata](../../db/t/the_walking_dead__season_two.json)  
-Rating: 4.84 (Ranked 47)  
+Rating: 4.85 (Ranked 41)  
 Number of Ratings: 24  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -33,3 +33,4 @@ Number of Ratings: 24  (23.09.2022)
 | 2023-11-24 | 4.84 | - | 0 | 0 |
 | 2023-12-30 | 4.85 | - | 0 | 0 |
 | 2024-03-05 | 4.84 | - | 0 | 0 |
+| 2024-03-24 | 4.85 | - | 0 | 0 |
