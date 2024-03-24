@@ -1,7 +1,7 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.58 (Ranked 483)  
+Rating: 4.58 (Ranked 482)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -319,9 +319,9 @@ Completed: 7 (0.00%) (Ranked 445)
 | 2024-01-27 | 235,860 | 6 |
 | 2024-03-21 | 237,695 | 7 |
 ## Awards
-Max (Great for Beginners): 30  (Ranked 554)  
+Max (Great for Beginners): 30  (Ranked 555)  
 Sum: 56 (Ranked 539)  
-Diff (max vs sum): 15  
+Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 30 |

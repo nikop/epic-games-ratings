@@ -2,7 +2,7 @@
   "ID": "ab29925a0a9a49598adba45d108ceb3e",
   "Name": "Lost Castle",
   "ProductSlug": "lost-castle-abb2e2",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 417,
   "Ranking_EOS_Progress": 44,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2024-02-09T18:59:41.1383276+00:00",
@@ -315,6 +315,12 @@
     {
       "Time": "2024-03-24T10:58:14.3679146+00:00",
       "Rating": 4.27,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 276
+    },
+    {
+      "Time": "2024-03-24T18:58:50.094476+00:00",
+      "Rating": 4.26,
       "NumberOfAwards": 276,
       "NumberOfAwardsMax": 276
     }
@@ -1148,9 +1154,9 @@
   "FirstSeen": "2024-02-08T18:59:09.7426423+00:00",
   "FirstSeenRating": "2024-02-09T18:59:41.1383273+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:13.2759118+00:00",
-  "LastChanged": "2024-03-24T10:58:14.3679144+00:00",
+  "LastChanged": "2024-03-24T18:58:50.0944759+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:01.8075812+00:00",
   "LastUpdate_AppInfo": "2024-03-21T21:57:00.3314389+00:00",
-  "LastUpdate_Ratings": "2024-03-24T17:57:43.9590031+00:00",
+  "LastUpdate_Ratings": "2024-03-24T18:58:50.0944764+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:01.8076792+00:00"
 }
