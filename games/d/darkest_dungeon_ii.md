@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 245)  
+Rating: 4.68 (Ranked 271)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -363,7 +363,7 @@ Completed: 6 (0.00%) (Ranked 445)
 | 2024-03-21 | 137,092 | 6 |
 ## Awards
 Max (Character Customization): 8,287  (Ranked 59)  
-Sum: 22,596 (Ranked 62)  
+Sum: 22,597 (Ranked 62)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -371,7 +371,7 @@ Diff (max vs sum): -3
 | This game has Diverse Characters | 1,985 |
 | This game has Challenging Combat | 1,771 |
 | This game is Highly Recommended | 1,675 |
-| This game has Amazing Characters | 1,601 |
+| This game has Amazing Characters | 1,602 |
 | This game is Extremely Fun | 1,583 |
 | This game has Unique Visuals | 1,554 |
 | This game has Amazing Storytelling | 1,512 |
@@ -802,3 +802,4 @@ Diff (max vs sum): -3
 | 2024-03-21 | 4.69 | - | 8,280 | 22,574 |
 | 2024-03-22 | 4.69 | - | 8,284 | 22,585 |
 | 2024-03-23 | 4.69 | - | 8,287 | 22,596 |
+| 2024-03-24 | 4.68 | - | 8,287 | 22,597 |

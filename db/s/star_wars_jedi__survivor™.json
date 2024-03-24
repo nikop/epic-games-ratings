@@ -10135,18 +10135,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 20116,
       "NumberOfAwardsMax": 11314
+    },
+    {
+      "Time": "2024-03-24T01:44:34.8968767+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 20162,
+      "NumberOfAwardsMax": 11345
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20116,
-  "NumberOfAwardsMax": 11314,
+  "NumberOfAwards": 20162,
+  "NumberOfAwardsMax": 11345,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11314
+      "Count": 11345
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10158,13 +10164,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1088
+      "Count": 1094
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 994
+      "Count": 999
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10194,7 +10200,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1043
+      "Count": 1047
     },
     {
       "Text": "This game has a Creative Community",
@@ -25075,9 +25081,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2024-03-23T23:57:18.5421645+00:00",
+  "LastChanged": "2024-03-24T01:44:34.8968765+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:36.9720633+00:00",
-  "LastUpdate_AppInfo": "2024-03-17T01:41:10.5131817+00:00",
-  "LastUpdate_Ratings": "2024-03-23T23:57:18.5421651+00:00",
+  "LastUpdate_AppInfo": "2024-03-24T01:43:04.5334999+00:00",
+  "LastUpdate_Ratings": "2024-03-24T01:44:34.8968771+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:36.9721861+00:00"
 }
