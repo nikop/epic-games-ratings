@@ -1,7 +1,7 @@
 # Forgive Me Father
 [Store](https://store.epicgames.com/en-US/p/forgive-me-father-133635)  
 [View Rawdata](../../db/f/forgive_me_father.json)  
-Rating: 4.44 (Ranked 729)  
+Rating: 4.45 (Ranked 712)  
 Number of Ratings: 38  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -38,3 +38,4 @@ Number of Ratings: 38  (23.09.2022)
 | 2023-09-19 | 4.44 | - | 0 | 0 |
 | 2023-10-24 | 4.45 | - | 0 | 0 |
 | 2024-01-25 | 4.44 | - | 0 | 0 |
+| 2024-03-24 | 4.45 | - | 0 | 0 |
