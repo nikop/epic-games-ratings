@@ -3,8 +3,8 @@
   "Name": "Offworld Trading Company",
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 915,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 392,
+  "Ranking_Popularity": 492,
+  "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -835,11 +835,17 @@
       "Rating": 4.29,
       "NumberOfAwards": 338,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-03-25T10:57:49.4469633+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 340,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 338,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 340,
+  "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -852,7 +858,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Educational",
@@ -864,7 +870,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Challenging Combat",
@@ -914,8 +920,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2024-03-10T10:59:35.1410571+00:00",
+  "LastChanged": "2024-03-25T10:57:49.4469631+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:48.0380846+00:00",
-  "LastUpdate_Ratings": "2024-03-25T08:59:40.9000257+00:00",
+  "LastUpdate_Ratings": "2024-03-25T10:57:49.4469637+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:29.4240924+00:00"
 }
