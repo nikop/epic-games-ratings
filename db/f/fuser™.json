@@ -3,7 +3,7 @@
   "Name": "FUSER\u2122",
   "ProductSlug": "fuser",
   "Ranking_Rating": 200,
-  "Ranking_Popularity": 533,
+  "Ranking_Popularity": 529,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
@@ -233,12 +233,18 @@
       "Rating": 4.72,
       "NumberOfAwards": 343,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-03-25T15:58:04.6812484+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 343,
-  "NumberOfAwardsMax": 35,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 344,
+  "NumberOfAwardsMax": 36,
+  "MaxAwardTitle": "Educational",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -310,7 +316,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 35
+      "Count": 36
     }
   ],
   "EOS_Progressed": 0,
@@ -324,8 +330,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2024-03-12T04:57:52.8651596+00:00",
+  "LastChanged": "2024-03-25T15:58:04.6812482+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:08.9860032+00:00",
-  "LastUpdate_Ratings": "2024-03-25T13:59:27.9027519+00:00",
+  "LastUpdate_Ratings": "2024-03-25T15:58:04.6812488+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:19.9041591+00:00"
 }

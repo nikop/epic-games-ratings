@@ -4,13 +4,13 @@
 Rating: 4.72 (Ranked 200)  
 Number of Ratings: 86  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 35  (Ranked 533)  
-Sum: 343 (Ranked 390)  
-Diff (max vs sum): 143  
+Max (Educational): 36  (Ranked 529)  
+Sum: 344 (Ranked 390)  
+Diff (max vs sum): 139  
 | Award | Count |
 | ----- | ----- |
+| This game is Educational | 36 |
 | This game is Highly Recommended | 35 |
-| This game is Educational | 35 |
 | This game has Diverse Characters | 34 |
 | This game is Great for Quick Sessions | 33 |
 | This game has Quickly Understood Controls | 32 |
@@ -63,3 +63,4 @@ Diff (max vs sum): 143
 | 2023-01-12 | 4.71 | - | - | - |
 | 2023-10-05 | 4.71 | - | 35 | 343 |
 | 2024-03-12 | 4.72 | - | 35 | 343 |
+| 2024-03-25 | 4.72 | - | 36 | 344 |

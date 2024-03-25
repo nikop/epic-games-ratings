@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 562)  
+Rating: 4.54 (Ranked 561)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -343,17 +343,17 @@ Completed: 2,808 (0.33%) (Ranked 285)
 | 2024-02-22 | 825,437 | 2,726 |
 | 2024-03-21 | 841,520 | 2,808 |
 ## Awards
-Max (Great Boss Battles): 12,499  (Ranked 36)  
-Sum: 19,622 (Ranked 67)  
+Max (Great Boss Battles): 12,529  (Ranked 36)  
+Sum: 19,656 (Ranked 67)  
 Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 12,499 |
+| This game has Great Boss Battles | 12,529 |
 | This game is Great for Beginners | 1,041 |
 | This game has Diverse Characters | 972 |
 | This game has Quickly Understood Controls | 908 |
 | This game is Relaxing | 857 |
-| This game has Amazing Storytelling | 852 |
+| This game has Amazing Storytelling | 856 |
 | This game is Highly Recommended | 848 |
 | This game is Extremely Fun | 842 |
 | This game has Amazing Characters | 803 |
@@ -699,4 +699,4 @@ Diff (max vs sum): -31
 | 2024-03-22 | 4.54 | 12,423 | 19,488 |
 | 2024-03-23 | 4.54 | 12,455 | 19,542 |
 | 2024-03-24 | 4.54 | 12,499 | 19,616 |
-| 2024-03-25 | 4.54 | 12,499 | 19,622 |
+| 2024-03-25 | 4.54 | 12,529 | 19,656 |
