@@ -344,7 +344,7 @@ Completed: 28 (0.01%) (Ranked 423)
 | 2024-03-21 | 444,814 | 28 |
 ## Awards
 Max (Challenging Puzzles): 1,174  (Ranked 157)  
-Sum: 2,507 (Ranked 213)  
+Sum: 2,508 (Ranked 213)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -358,7 +358,7 @@ Diff (max vs sum): -56
 | This game has Challenging Combat | 109 |
 | This game has a Creative Community | 100 |
 | This game has Amazing Storytelling | 91 |
-| This game has Amazing Characters | 73 |
+| This game has Amazing Characters | 74 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -665,3 +665,4 @@ Diff (max vs sum): -56
 | 2024-03-22 | 4.47 | - | 1,173 | 2,500 |
 | 2024-03-23 | 4.47 | - | 1,173 | 2,502 |
 | 2024-03-24 | 4.47 | - | 1,174 | 2,507 |
+| 2024-03-25 | 4.47 | - | 1,174 | 2,508 |
