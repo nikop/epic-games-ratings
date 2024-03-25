@@ -221,7 +221,7 @@
 | [Cave Digger 2](games/9/959857360f1a4558b390204178101bc3.md) | 2023-11-14 | 24 (1,000 XP) | 12 | - | 0 |
 | [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 20,912 | 4.43 | 38 |
 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2023-11-14 | 35 (1,000 XP) | 2 | - | 0 |
-| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 22,366 | 4.32 | 0 |
+| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 22,366 | 4.31 | 0 |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-11-14 | 30 (1,000 XP) | 116 | - | 0 |
 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 2023-11-13 | 34 (1,000 XP) | 348 | - | 0 |
 | [Tintin Reporter - Cigars of the Pharaoh](games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 2023-11-13 | 37 (1,000 XP) | 178 | - | 0 |
@@ -323,7 +323,7 @@
 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 447,954 | 4.41 | 294 |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-28 | 32 (1,000 XP) | 39 | - | 0 |
 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 2023-09-28 | 28 (1,000 XP) | 541 | - | 0 |
-| [The Riflemen](games/t/the_riflemen.md) | 2023-09-28 | 14 (1,000 XP) | 114,049 | 4.39 | 0 |
+| [The Riflemen](games/t/the_riflemen.md) | 2023-09-28 | 14 (1,000 XP) | 114,049 | 4.40 | 0 |
 | [The Crackpet Show: Happy Tree Friends Edition](games/a/ab4adb59faed46819e63d82b57197b2b.md) | 2023-09-27 | 82 (1,000 XP) | 27 | - | 0 |
 | [Outbreak Epidemic Viral Terror](games/e/ef23a06e26f1497a8a39ff8d70e66833.md) | 2023-09-27 | 12 (1,000 XP) | 36 | - | 0 |
 | [Danghost](games/6/66b12faffa204da39bda39d087789944.md) | 2023-09-27 | 66 (1,000 XP) | 0 | - | 0 |
@@ -541,7 +541,7 @@
 | [Bread and Fred](games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 2023-05-23 | 20 (1,000 XP) | 1 | - | 0 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 53 (1,000 XP) | 1,422 | 4.68 | 0 |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2023-05-23 | 12 (1,000 XP) | 2 | - | 0 |
-| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 51 (1,000 XP) | 1,813 | 4.40 | 0 |
+| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 51 (1,000 XP) | 1,813 | 4.41 | 0 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 18 (1,000 XP) | 5 | - | 0 |
 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 3,471 | - | 0 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 24 (1,000 XP) | 0 | - | 0 |
@@ -622,7 +622,7 @@
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,551 | - | 0 |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 2023-04-11 | 12 (1,000 XP) | 6 | - | 0 |
-| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,952 | 4.51 | 0 |
+| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,952 | 4.52 | 0 |
 | [Undead Horde](games/u/undead_horde.md) | 2023-04-11 | 24 (1,000 XP) | 2 | - | 0 |
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 2023-04-10 | 10 (1,000 XP) | 99 | - | 0 |
 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 2023-04-10 | 48 (1,000 XP) | 69 | - | 0 |
@@ -787,7 +787,7 @@
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 52 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 524 | 4.16 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,331 | 4.77 | 1,282 |
-| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 22,401 | 4.09 | 59 |
+| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 22,401 | 4.09 | 60 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 599 | 4.54 | 39 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 245,782 | 4.58 | 1,519 |
@@ -813,7 +813,7 @@
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 2022-07-28 | 54 (1,000 XP) | 712,645 | 4.08 | 183 |
 | [LOOPMANCER](games/l/loopmancer.md) | 2022-07-27 | 57 (1,000 XP) | 107 | - | 0 |
 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 2022-07-21 | 36 (1,000 XP) | 571 | 4.57 | 0 |
-| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 158,730 | 4.00 | 5,084 |
+| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 158,730 | 4.00 | 5,087 |
 | [Silence](games/s/silence.md) | 2022-07-21 | 46 (1,000 XP) | 211 | - | 0 |
 | [Hazel Sky](games/h/hazel_sky.md) | 2022-07-20 | 24 (1,000 XP) | 6 | - | 0 |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 2022-07-19 | 28 (1,000 XP) | 657 | - | 0 |
@@ -849,7 +849,7 @@
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 2022-05-10 | 50 (1,000 XP) | 830 | 4.50 | 0 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 2022-05-10 | 53 (1,000 XP) | 68,930 | 4.31 | 1,006 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 2022-05-10 | 54 (1,000 XP) | 1,736 | 4.68 | 30 |
-| [Terraforming Mars](games/t/terraforming_mars.md) | 2022-05-05 | 35 (1,210 XP) | 97,245 | 4.53 | 552 |
+| [Terraforming Mars](games/t/terraforming_mars.md) | 2022-05-05 | 35 (1,210 XP) | 97,245 | 4.53 | 553 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 2022-05-05 | 68 (1,300 XP) | 4,085 | 4.58 | 243 |
 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 2022-05-04 | 20 (1,000 XP) | 0 | 3.86 | 0 |
 | [Wunderling DX](games/w/wunderling_dx.md) | 2022-04-28 | 41 (1,000 XP) | 41 | - | 0 |
@@ -1001,7 +1001,7 @@
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 773 | 4.84 | 51 |
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 143,279 | 4.87 | 793 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 358 (3,440 XP) | 18,275 | 4.65 | 238 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 104,351 | 4.74 | 8,869 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 104,351 | 4.74 | 8,882 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 45,007 | 4.69 | 913 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 731,717 | 4.92 | 3,698 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 47,837 | 4.66 | 0 |
