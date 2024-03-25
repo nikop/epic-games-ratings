@@ -46,7 +46,7 @@
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-03-31 | - |  | - | - |
 | [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
-| [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 2024-03-11 | - |  | 5.00 | 0 |
+| [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 2024-03-11 | - |  | 5.00 | 21 |
 | [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-03-04 | - |  | - | - |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | - | 0 |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
