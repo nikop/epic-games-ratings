@@ -1,7 +1,7 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.50 (Ranked 639)  
+Rating: 4.50 (Ranked 640)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

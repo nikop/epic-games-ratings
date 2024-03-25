@@ -2,7 +2,7 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 561,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 952,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -6191,10 +6191,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 8376,
       "NumberOfAwardsMax": 2728
+    },
+    {
+      "Time": "2024-03-25T19:57:36.5276986+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8378,
+      "NumberOfAwardsMax": 2728
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8376,
+  "NumberOfAwards": 8378,
   "NumberOfAwardsMax": 2728,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6256,7 +6262,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 458
+      "Count": 460
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6283,8 +6289,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-03-25T17:59:53.7646034+00:00",
+  "LastChanged": "2024-03-25T19:57:36.5276984+00:00",
   "LastUpdate_AppInfo": "2024-03-20T05:57:25.8369114+00:00",
-  "LastUpdate_Ratings": "2024-03-25T17:59:53.7646039+00:00",
+  "LastUpdate_Ratings": "2024-03-25T19:57:36.5276988+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:03.9217899+00:00"
 }
