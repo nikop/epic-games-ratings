@@ -18175,10 +18175,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 105252,
       "NumberOfAwardsMax": 16210
+    },
+    {
+      "Time": "2024-03-25T21:57:48.1952128+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 105303,
+      "NumberOfAwardsMax": 16210
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 105252,
+  "NumberOfAwards": 105303,
   "NumberOfAwardsMax": 16210,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -18198,7 +18204,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12487
+      "Count": 12505
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18222,7 +18228,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 11331
+      "Count": 11351
     },
     {
       "Text": "This game has Challenging Combat",
@@ -18234,7 +18240,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 8337
+      "Count": 8350
     },
     {
       "Text": "This game has a Creative Community",
@@ -18254,8 +18260,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2024-03-25T20:00:26.2267928+00:00",
+  "LastChanged": "2024-03-25T21:57:48.1952126+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:36.5281646+00:00",
-  "LastUpdate_Ratings": "2024-03-25T20:00:26.2267935+00:00",
+  "LastUpdate_Ratings": "2024-03-25T21:57:48.1952135+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:23.5749523+00:00"
 }
