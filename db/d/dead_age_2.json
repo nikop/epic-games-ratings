@@ -3,8 +3,8 @@
   "Name": "Dead Age 2",
   "ProductSlug": "dead-age-2",
   "Ranking_Rating": 1041,
-  "Ranking_Popularity": 619,
-  "Ranking_PopularitySum": 619,
+  "Ranking_Popularity": 620,
+  "Ranking_PopularitySum": 620,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -80,6 +80,6 @@
   "FirstSeenRating": "2022-09-08T02:01:53.0200092+00:00",
   "LastChanged": "2023-08-12T00:02:38.5349808+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:27.3646475+00:00",
-  "LastUpdate_Ratings": "2024-03-25T01:40:36.4253986+00:00",
+  "LastUpdate_Ratings": "2024-03-25T02:17:16.5660295+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:54.8553524+00:00"
 }

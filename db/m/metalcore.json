@@ -3,8 +3,8 @@
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 914,
-  "Ranking_Popularity": 619,
-  "Ranking_PopularitySum": 619,
+  "Ranking_Popularity": 620,
+  "Ranking_PopularitySum": 620,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -175,6 +175,6 @@
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
   "LastChanged": "2024-03-09T23:58:18.428036+00:00",
   "LastUpdate_AppInfo": "2024-03-24T06:57:26.0803922+00:00",
-  "LastUpdate_Ratings": "2024-03-25T01:40:04.801551+00:00",
+  "LastUpdate_Ratings": "2024-03-25T02:16:46.6300826+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:00.9935002+00:00"
 }
