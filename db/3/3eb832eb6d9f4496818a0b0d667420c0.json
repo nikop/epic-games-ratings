@@ -4,7 +4,7 @@
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 869,
   "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -857,10 +857,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 334,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-03-25T17:57:28.8126273+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 306,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 334,
+  "NumberOfAwards": 306,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5888,9 +5894,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-03-21T21:58:02.894669+00:00",
+  "LastChanged": "2024-03-25T17:57:28.8126271+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:01.6477193+00:00",
   "LastUpdate_AppInfo": "2024-03-19T19:57:10.0417406+00:00",
-  "LastUpdate_Ratings": "2024-03-25T16:00:21.1261843+00:00",
+  "LastUpdate_Ratings": "2024-03-25T17:57:28.8126276+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:01.6477838+00:00"
 }
