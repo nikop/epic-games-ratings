@@ -4,7 +4,7 @@
   "ProductSlug": "prince-of-persia-the-lost-crown",
   "Ranking_Rating": 137,
   "Ranking_Popularity": 205,
-  "Ranking_PopularitySum": 293,
+  "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -1127,6 +1127,6 @@
   "FirstSeenRating": "2024-01-19T10:59:44.5935852+00:00",
   "LastChanged": "2024-03-25T06:59:44.9736026+00:00",
   "LastUpdate_AppInfo": "2024-03-19T13:57:23.1941675+00:00",
-  "LastUpdate_Ratings": "2024-03-25T08:00:15.5062656+00:00",
+  "LastUpdate_Ratings": "2024-03-25T09:57:59.5117435+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:34.2648237+00:00"
 }
