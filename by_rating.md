@@ -94,7 +94,7 @@
 | 82 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 31 | 550 |
 | 82 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 620 |
 | 94 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 967 | 178 |
-| 94 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,520 | 71 |
+| 94 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,521 | 71 |
 | 94 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 134 | 362 |
 | 94 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.80 | 0 | 620 |
 | 94 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 426 | 246 |
@@ -166,6 +166,7 @@
 | 151 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 620 |
 | 151 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 492 | 235 |
 | 151 | [Townscaper](games/t/townscaper.md) | 4.75 | 0 | 620 |
+| 167 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.74 | 0 | 620 |
 | 167 | [Fez](games/f/fez.md) | 4.74 | 26 | 575 |
 | 167 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 913 | 187 |
 | 167 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.74 | 39 | 518 |
@@ -177,29 +178,28 @@
 | 167 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 929 | 182 |
 | 167 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 97 | 403 |
 | 167 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.74 | 0 | 620 |
-| 167 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,136 | 159 |
+| 167 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,140 | 159 |
 | 167 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 620 |
 | 167 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 620 |
-| 181 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 501 | 231 |
-| 181 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.73 | 0 | 620 |
-| 181 | [Barony](games/b/barony.md) | 4.73 | 115 | 380 |
-| 181 | [Diabotical](games/d/diabotical.md) | 4.73 | 309 | 272 |
-| 181 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 55 | 473 |
-| 181 | [Eternights](games/e/eternights.md) | 4.73 | 0 | 620 |
-| 181 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 620 |
-| 181 | [Haven](games/h/haven.md) | 4.73 | 0 | 620 |
-| 181 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.73 | 84 | 420 |
-| 181 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 155 | 352 |
-| 181 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 620 |
-| 181 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 99 | 398 |
-| 181 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.73 | 110 | 384 |
-| 181 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 620 |
-| 181 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 620 |
-| 181 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 620 |
-| 181 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 620 |
-| 181 | [Timberborn](games/t/timberborn.md) | 4.73 | 185 | 330 |
-| 181 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.73 | 0 | 620 |
-| 181 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.73 | 0 | 620 |
+| 182 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 501 | 231 |
+| 182 | [Barony](games/b/barony.md) | 4.73 | 115 | 380 |
+| 182 | [Diabotical](games/d/diabotical.md) | 4.73 | 309 | 272 |
+| 182 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 55 | 473 |
+| 182 | [Eternights](games/e/eternights.md) | 4.73 | 0 | 620 |
+| 182 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 620 |
+| 182 | [Haven](games/h/haven.md) | 4.73 | 0 | 620 |
+| 182 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.73 | 84 | 420 |
+| 182 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 155 | 352 |
+| 182 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 620 |
+| 182 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 99 | 398 |
+| 182 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.73 | 110 | 384 |
+| 182 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 620 |
+| 182 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 620 |
+| 182 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 620 |
+| 182 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 620 |
+| 182 | [Timberborn](games/t/timberborn.md) | 4.73 | 185 | 330 |
+| 182 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.73 | 0 | 620 |
+| 182 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.73 | 0 | 620 |
 | 201 | [FUSER™](games/f/fuser™.md) | 4.72 | 35 | 533 |
 | 201 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 38,466 | 16 |
 | 201 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.72 | 0 | 620 |
@@ -625,7 +625,7 @@
 | 614 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 344 | 261 |
 | 614 | [GigaBash](games/g/gigabash.md) | 4.51 | 80 | 426 |
 | 614 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 620 |
-| 614 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 374 | 257 |
+| 614 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 375 | 256 |
 | 614 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.51 | 0 | 620 |
 | 614 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 0 | 620 |
 | 614 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.51 | 0 | 620 |
