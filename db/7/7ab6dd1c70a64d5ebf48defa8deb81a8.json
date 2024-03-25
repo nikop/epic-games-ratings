@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 1042,
+  "Ranking_Rating": 1026,
   "Ranking_Popularity": 620,
   "Ranking_PopularitySum": 620,
   "Ranking_EOS_Progress": 257,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.15,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-12-25T23:59:59.8062735+00:00",
@@ -155,6 +155,12 @@
     {
       "Time": "2024-02-17T19:59:20.3130095+00:00",
       "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-25T14:57:46.7430208+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5518,9 +5524,9 @@
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged": "2024-02-17T19:59:20.3130093+00:00",
+  "LastChanged": "2024-03-25T14:57:46.7430206+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:35.7453429+00:00",
   "LastUpdate_AppInfo": "2024-03-19T04:57:13.6414497+00:00",
-  "LastUpdate_Ratings": "2024-03-25T13:01:38.5592567+00:00",
+  "LastUpdate_Ratings": "2024-03-25T14:57:46.7430213+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:35.7454+00:00"
 }

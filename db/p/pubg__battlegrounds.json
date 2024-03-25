@@ -3,7 +3,7 @@
   "Name": "PUBG: BATTLEGROUNDS",
   "ProductSlug": "pubg-59c1d9",
   "Ranking_Rating": 1094,
-  "Ranking_Popularity": 57,
+  "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 445,
@@ -8693,11 +8693,17 @@
       "Rating": 4,
       "NumberOfAwards": 27977,
       "NumberOfAwardsMax": 8469
+    },
+    {
+      "Time": "2024-03-25T15:00:21.5879681+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28020,
+      "NumberOfAwardsMax": 8498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27977,
-  "NumberOfAwardsMax": 8469,
+  "NumberOfAwards": 28020,
+  "NumberOfAwardsMax": 8498,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -8728,7 +8734,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 8469
+      "Count": 8498
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8740,7 +8746,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 5022
+      "Count": 5036
     },
     {
       "Text": "This game is Relaxing",
@@ -41578,9 +41584,9 @@
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2024-03-24T22:57:26.0807723+00:00",
+  "LastChanged": "2024-03-25T15:00:21.5879679+00:00",
   "LastChanged_Achievements": "2024-03-21T17:06:45.6574622+00:00",
   "LastUpdate_AppInfo": "2024-03-24T11:57:09.6100526+00:00",
-  "LastUpdate_Ratings": "2024-03-25T13:57:49.833628+00:00",
+  "LastUpdate_Ratings": "2024-03-25T15:00:21.5879685+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:45.6576489+00:00"
 }
