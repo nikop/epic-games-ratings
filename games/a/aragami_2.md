@@ -1,7 +1,7 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.53 (Ranked 583)  
+Rating: 4.54 (Ranked 562)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -384,3 +384,4 @@ Completed: 271 (0.58%) (Ranked 245)
 | 2024-02-26 | 4.54 | - | 0 | 0 |
 | 2024-03-07 | 4.55 | - | 0 | 0 |
 | 2024-03-19 | 4.53 | - | 0 | 0 |
+| 2024-03-25 | 4.54 | - | 0 | 0 |
