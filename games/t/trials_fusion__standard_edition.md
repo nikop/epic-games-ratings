@@ -1,7 +1,7 @@
 # Trials Fusion: Standard Edition
 [Store](https://store.epicgames.com/en-US/p/trials-fusion)  
 [View Rawdata](../../db/t/trials_fusion__standard_edition.json)  
-Rating: 4.61 (Ranked 413)  
+Rating: 4.59 (Ranked 467)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -18,3 +18,4 @@ Rating: 4.61 (Ranked 413)
 | 2023-12-17 | 4.62 | 0 | 0 |
 | 2024-02-07 | 4.63 | 0 | 0 |
 | 2024-02-21 | 4.61 | 0 | 0 |
+| 2024-03-25 | 4.59 | 0 | 0 |
