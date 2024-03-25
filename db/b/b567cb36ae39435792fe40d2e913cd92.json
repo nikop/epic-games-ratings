@@ -2,7 +2,7 @@
   "ID": "b567cb36ae39435792fe40d2e913cd92",
   "Name": "Dungeon Fighter Online",
   "ProductSlug": "dungeon-fighter-online",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 848,
   "Ranking_Popularity": 620,
   "Ranking_PopularitySum": 620,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2023-08-18T10:58:33.1698719+00:00",
@@ -195,6 +195,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-25T22:57:30.0751029+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -213,8 +219,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-27T09:57:07.1075928+00:00",
   "FirstSeenRating": "2023-08-18T10:58:33.1698717+00:00",
-  "LastChanged": "2024-02-14T11:58:26.5630478+00:00",
+  "LastChanged": "2024-03-25T22:57:30.0751027+00:00",
   "LastUpdate_AppInfo": "2024-03-20T05:57:26.4715866+00:00",
-  "LastUpdate_Ratings": "2024-03-25T20:59:26.9447725+00:00",
+  "LastUpdate_Ratings": "2024-03-25T22:57:30.0751032+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:28.4336631+00:00"
 }

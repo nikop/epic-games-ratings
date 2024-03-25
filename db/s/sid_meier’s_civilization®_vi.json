@@ -4,7 +4,7 @@
   "ProductSlug": "sid-meiers-civilization-vi",
   "Ranking_Rating": 168,
   "Ranking_Popularity": 14,
-  "Ranking_PopularitySum": 11,
+  "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -19391,10 +19391,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 396086,
       "NumberOfAwardsMax": 50742
+    },
+    {
+      "Time": "2024-03-25T22:59:11.5397803+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 396180,
+      "NumberOfAwardsMax": 50742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 396086,
+  "NumberOfAwards": 396180,
   "NumberOfAwardsMax": 50742,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -19408,13 +19414,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42019
+      "Count": 42069
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 44521
+      "Count": 44565
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -19476,8 +19482,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-03-25T18:57:44.1767869+00:00",
+  "LastChanged": "2024-03-25T22:59:11.5397801+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:20.5899979+00:00",
-  "LastUpdate_Ratings": "2024-03-25T21:00:45.6482463+00:00",
+  "LastUpdate_Ratings": "2024-03-25T22:59:11.5397807+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:46.4766268+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/s/star_atlas.json)  
 Rating: 4.81 (Ranked 81)  
 ## Awards
-Max (Character Customization): 37  (Ranked 524)  
-Sum: 37 (Ranked 567)  
-Diff (max vs sum): -43  
+Max (Character Customization): 39  (Ranked 518)  
+Sum: 39 (Ranked 564)  
+Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 37 |
+| This game has Inclusive Character Customization | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -53,3 +53,4 @@ Diff (max vs sum): -43
 | 2024-03-11 | 4.80 | 36 | 36 |
 | 2024-03-21 | 4.81 | 36 | 36 |
 | 2024-03-23 | 4.81 | 37 | 37 |
+| 2024-03-25 | 4.81 | 39 | 39 |
