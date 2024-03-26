@@ -102,7 +102,7 @@
 | 99 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,762 | 139 |
 | 99 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.79 | 0 | 621 |
 | 99 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 621 |
-| 99 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 381 | 255 |
+| 99 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 383 | 255 |
 | 99 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 175 | 335 |
 | 99 | [Griftlands](games/g/griftlands.md) | 4.79 | 22 | 600 |
 | 99 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 621 |
@@ -295,7 +295,7 @@
 | 287 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 52 | 481 |
 | 287 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 949 | 180 |
 | 287 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,805 | 68 |
-| 287 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 335,179 | 4 |
+| 287 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 335,284 | 4 |
 | 287 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 621 |
 | 287 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 518 | 228 |
 | 287 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,368 | 118 |
@@ -406,7 +406,7 @@
 | 395 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,470 | 148 |
 | 395 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 621 |
 | 395 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 621 |
-| 395 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,906 | 109 |
+| 395 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,907 | 109 |
 | 395 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 306 | 274 |
 | 395 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 305 | 275 |
 | 395 | [Tavern Master](games/t/tavern_master.md) | 4.62 | 0 | 621 |
@@ -667,6 +667,7 @@
 | 661 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,778 | 63 |
 | 661 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 621 |
 | 661 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 621 |
+| 661 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.49 | 0 | 621 |
 | 661 | [Maneater](games/m/maneater.md) | 4.49 | 14,079 | 33 |
 | 661 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 396 |
 | 661 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 621 |
@@ -674,17 +675,16 @@
 | 661 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 41 | 509 |
 | 661 | [Solitairica](games/s/solitairica.md) | 4.49 | 97 | 404 |
 | 661 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.49 | 197 | 322 |
-| 675 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.48 | 21 | 608 |
-| 675 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 65 | 453 |
-| 675 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 4.48 | 0 | 621 |
-| 675 | [Chorus](games/c/chorus.md) | 4.48 | 36 | 529 |
-| 675 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 284 |
-| 675 | [Figment](games/f/figment.md) | 4.48 | 21 | 608 |
-| 675 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 3,787 | 98 |
-| 675 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 621 |
-| 675 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.48 | 0 | 621 |
-| 675 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 621 |
-| 675 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 41 | 509 |
+| 676 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.48 | 21 | 608 |
+| 676 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 65 | 453 |
+| 676 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 4.48 | 0 | 621 |
+| 676 | [Chorus](games/c/chorus.md) | 4.48 | 36 | 529 |
+| 676 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 284 |
+| 676 | [Figment](games/f/figment.md) | 4.48 | 21 | 608 |
+| 676 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 3,787 | 98 |
+| 676 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 621 |
+| 676 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 621 |
+| 676 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 41 | 509 |
 | 686 | [9Lives Arena](games/9/9lives_arena.md) | 4.47 | 30 | 555 |
 | 686 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.47 | 0 | 621 |
 | 686 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 157 | 350 |
@@ -929,19 +929,19 @@
 | 915 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.29 | 0 | 621 |
 | 915 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 621 |
 | 915 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 176 | 333 |
-| 915 | [Rogue Company](games/r/rogue_company.md) | 4.29 | 6,104 | 74 |
 | 915 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 130 | 368 |
 | 915 | [Steelrising](games/s/steelrising.md) | 4.29 | 40 | 514 |
 | 915 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.29 | 0 | 621 |
 | 915 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 621 |
-| 935 | [Flatout](games/f/flatout.md) | 4.28 | 0 | 621 |
-| 935 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 621 |
-| 935 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 23 | 597 |
-| 935 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 621 |
-| 935 | [Predecessor](games/p/predecessor.md) | 4.28 | 447 | 243 |
-| 935 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 339 |
-| 935 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.28 | 0 | 621 |
-| 935 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.28 | 0 | 621 |
+| 934 | [Flatout](games/f/flatout.md) | 4.28 | 0 | 621 |
+| 934 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 621 |
+| 934 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 23 | 597 |
+| 934 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 621 |
+| 934 | [Predecessor](games/p/predecessor.md) | 4.28 | 448 | 243 |
+| 934 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,104 | 74 |
+| 934 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 339 |
+| 934 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.28 | 0 | 621 |
+| 934 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.28 | 0 | 621 |
 | 943 | [Chess Ultra](games/c/chess_ultra.md) | 4.27 | 0 | 621 |
 | 943 | [ELEX II](games/e/elex_ii.md) | 4.27 | 0 | 621 |
 | 943 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 51 | 486 |
