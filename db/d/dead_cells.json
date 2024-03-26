@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 259,
-  "Ranking_PopularitySum": 194,
+  "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -5024,6 +5024,6 @@
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
   "LastChanged": "2024-03-26T11:00:01.5239168+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:07.2681472+00:00",
-  "LastUpdate_Ratings": "2024-03-26T16:58:28.8914391+00:00",
+  "LastUpdate_Ratings": "2024-03-26T18:00:29.8128852+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:05.1101883+00:00"
 }

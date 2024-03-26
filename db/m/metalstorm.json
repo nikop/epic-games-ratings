@@ -2,9 +2,9 @@
   "ID": "dc09ae8f1aa445b7853b5300c2345d81",
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
-  "Ranking_Rating": 752,
+  "Ranking_Rating": 765,
   "Ranking_Popularity": 524,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-11-25T02:17:36.1236478+00:00",
@@ -852,10 +852,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 166,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-03-26T17:58:36.2674266+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 168,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166,
+  "NumberOfAwards": 168,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -887,7 +893,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -899,7 +905,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 20912,
@@ -1090,9 +1096,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-03-26T13:57:41.8039923+00:00",
+  "LastChanged": "2024-03-26T17:58:36.2674265+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:18.0939283+00:00",
   "LastUpdate_AppInfo": "2024-03-24T12:59:48.8485593+00:00",
-  "LastUpdate_Ratings": "2024-03-26T16:01:07.8397935+00:00",
+  "LastUpdate_Ratings": "2024-03-26T17:58:36.267427+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:18.0947915+00:00"
 }
