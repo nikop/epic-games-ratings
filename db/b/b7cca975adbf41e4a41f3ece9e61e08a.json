@@ -3,8 +3,8 @@
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
   "Ranking_Rating": 337,
-  "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 543,
+  "Ranking_Popularity": 473,
+  "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 1,
@@ -479,18 +479,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-03-26T15:00:19.7787594+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 55,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 55,
+  "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 54
+      "Count": 55
     }
   ],
   "EOS_Progressed": 20252,
@@ -11687,9 +11693,9 @@
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged": "2024-03-18T14:58:04.4426136+00:00",
+  "LastChanged": "2024-03-26T15:00:19.7787592+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:14.782842+00:00",
   "LastUpdate_AppInfo": "2024-03-23T09:57:14.1381222+00:00",
-  "LastUpdate_Ratings": "2024-03-26T13:59:14.4509318+00:00",
+  "LastUpdate_Ratings": "2024-03-26T15:00:19.7787596+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:14.7829692+00:00"
 }

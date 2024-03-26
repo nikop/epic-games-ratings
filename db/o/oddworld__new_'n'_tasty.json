@@ -3,8 +3,8 @@
   "Name": "Oddworld: New \u0027n\u0027 Tasty",
   "ProductSlug": "oddworld-new-n-tasty",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -383,18 +383,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 38,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-03-26T14:59:38.3809908+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 39,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38,
-  "NumberOfAwardsMax": 38,
+  "NumberOfAwards": 39,
+  "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 38
+      "Count": 39
     }
   ],
   "EOS_Progressed": 0,
@@ -408,8 +414,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:35.2607812+00:00",
-  "LastChanged": "2024-03-22T01:39:46.3190118+00:00",
+  "LastChanged": "2024-03-26T14:59:38.3809905+00:00",
   "LastUpdate_AppInfo": "2024-03-24T11:57:16.437212+00:00",
-  "LastUpdate_Ratings": "2024-03-26T13:58:26.7717999+00:00",
+  "LastUpdate_Ratings": "2024-03-26T14:59:38.3809913+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:26.3282195+00:00"
 }

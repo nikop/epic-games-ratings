@@ -4,7 +4,7 @@
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 796,
   "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -1882,10 +1882,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 646,
       "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2024-03-26T14:59:24.765125+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 647,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 646,
+  "NumberOfAwards": 647,
   "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1905,7 +1911,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1967,8 +1973,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2024-03-26T01:39:53.928921+00:00",
+  "LastChanged": "2024-03-26T14:59:24.7651249+00:00",
   "LastUpdate_AppInfo": "2024-03-24T11:57:13.3991812+00:00",
-  "LastUpdate_Ratings": "2024-03-26T13:58:11.7850647+00:00",
+  "LastUpdate_Ratings": "2024-03-26T14:59:24.7651254+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:20.3187288+00:00"
 }
