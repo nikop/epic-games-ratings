@@ -83,6 +83,7 @@
 | [Still Joking](games/s/still_joking.md) | 2024-05-31 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-05-31 | - |  | - | - |
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-05-31 | - |  | - | - |
+| [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2024-05-31 | - |  | - | - |
 | [Western Chapter](games/2/2b0ab0a4593344dda8d3cfec92611189.md) | 2024-05-31 | - |  | - | - |
 | [F1® 24 Standard Edition](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | - | - |
 | [Life by You](games/l/life_by_you.md) | 2024-06-04 | - |  | - | - |
@@ -546,7 +547,6 @@
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
 | [The Night Wanderer](games/4/45d15cce2e0749369154d8124be46910.md) | 2099-01-01 | - |  | - | - |
 | [The Sinking City 2](games/5/5e3377fe4ff34650bfbd8dbea9b3a222.md) | 2099-01-01 | - |  | - | - |
-| [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2099-01-01 | - |  | - | - |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2099-01-01 | - |  | - | - |
 | [The World of Nifty Craft](games/9/9fdb4607f27248eaa4a0e72b346ec8e7.md) | 2099-01-01 | - |  | - | - |
 | [Thorgal](games/7/77e1c378b2344ca180de58114bc3a6b5.md) | 2099-01-01 | - |  | - | - |
