@@ -1,19 +1,19 @@
 # Assassins Creed Odyssey Standard Edition
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-odyssey)  
 [View Rawdata](../../db/a/assassins_creed_odyssey_standard_edition.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 151)  
 Number of Ratings: 5,481  (23.09.2022)  
 ## Awards
 Max (Character Customization): 7,993  (Ranked 61)  
-Sum: 22,083 (Ranked 64)  
+Sum: 22,088 (Ranked 64)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,993 |
 | This game has Great Boss Battles | 5,549 |
 | This game is Highly Recommended | 938 |
+| This game is Great for Beginners | 918 |
 | This game is Educational | 916 |
-| This game is Great for Beginners | 913 |
 | This game has Amazing Characters | 907 |
 | This game is Relaxing | 896 |
 | This game is Extremely Fun | 882 |
@@ -457,4 +457,4 @@ Diff (max vs sum): -3
 | 2024-03-23 | 4.75 | - | 7,966 | 22,003 |
 | 2024-03-24 | 4.75 | - | 7,977 | 22,035 |
 | 2024-03-25 | 4.75 | - | 7,985 | 22,062 |
-| 2024-03-26 | 4.75 | - | 7,993 | 22,083 |
+| 2024-03-26 | 4.75 | - | 7,993 | 22,088 |
