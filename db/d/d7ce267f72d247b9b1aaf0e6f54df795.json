@@ -2,9 +2,9 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 168,
-  "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 397,
+  "Ranking_Rating": 182,
+  "Ranking_Popularity": 418,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -677,18 +677,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 327,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-03-25T23:58:57.824437+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 330,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 327,
-  "NumberOfAwardsMax": 84,
+  "NumberOfAwards": 330,
+  "NumberOfAwardsMax": 86,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -730,7 +736,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Competitive Players",
@@ -763,8 +769,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-03-25T15:57:58.4298681+00:00",
+  "LastChanged": "2024-03-25T23:58:57.8244368+00:00",
   "LastUpdate_AppInfo": "2024-03-20T17:57:27.0160864+00:00",
-  "LastUpdate_Ratings": "2024-03-25T22:57:52.0549911+00:00",
+  "LastUpdate_Ratings": "2024-03-25T23:58:57.8244374+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:53.1795758+00:00"
 }
