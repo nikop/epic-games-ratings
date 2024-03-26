@@ -4,7 +4,7 @@
   "ProductSlug": "train-valley-2-3606da",
   "Ranking_Rating": 686,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 212,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 1,
@@ -5295,10 +5295,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 2517,
       "NumberOfAwardsMax": 1179
+    },
+    {
+      "Time": "2024-03-26T21:58:03.1225987+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 2518,
+      "NumberOfAwardsMax": 1179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2517,
+  "NumberOfAwards": 2518,
   "NumberOfAwardsMax": 1179,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -5348,7 +5354,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game has Challenging Combat",
@@ -29903,9 +29909,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-03-26T02:14:59.8636073+00:00",
+  "LastChanged": "2024-03-26T21:58:03.1225985+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:57.6336005+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:37.6045143+00:00",
-  "LastUpdate_Ratings": "2024-03-26T20:00:27.7215484+00:00",
+  "LastUpdate_Ratings": "2024-03-26T21:58:03.1225991+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:57.6338067+00:00"
 }
