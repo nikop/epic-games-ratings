@@ -1,7 +1,7 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 246)  
+Rating: 4.68 (Ranked 271)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -678,3 +678,4 @@ Diff (max vs sum): -18
 | 2024-03-23 | 4.69 | - | 911 | 2,717 |
 | 2024-03-24 | 4.69 | - | 911 | 2,719 |
 | 2024-03-25 | 4.69 | - | 913 | 2,721 |
+| 2024-03-26 | 4.68 | - | 913 | 2,721 |
