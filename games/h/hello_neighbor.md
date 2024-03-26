@@ -5,8 +5,8 @@ Rating: 4.56 (Ranked 526)
 Number of Ratings: 1,166  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 455  (Ranked 242)  
-Sum: 2,811 (Ranked 199)  
-Diff (max vs sum): 43  
+Sum: 2,812 (Ranked 198)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 455 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 43
 | This game has Quickly Understood Controls | 338 |
 | This game is Highly Recommended | 325 |
 | This game has Amazing Characters | 323 |
-| This game is Extremely Fun | 316 |
+| This game is Extremely Fun | 317 |
 | This game has a Creative Community | 291 |
 | This game has Obsessive Gameplay | 68 |
 | This game is Great for Quick Sessions | 37 |
@@ -444,4 +444,4 @@ Diff (max vs sum): 43
 | 2024-03-23 | 4.57 | - | 455 | 2,801 |
 | 2024-03-24 | 4.56 | - | 455 | 2,806 |
 | 2024-03-25 | 4.56 | - | 455 | 2,810 |
-| 2024-03-26 | 4.56 | - | 455 | 2,811 |
+| 2024-03-26 | 4.56 | - | 455 | 2,812 |
