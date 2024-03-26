@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 560,
   "Ranking_Popularity": 320,
-  "Ranking_PopularitySum": 242,
+  "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 1,
@@ -3845,10 +3845,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 1726,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2024-03-26T19:59:28.0572197+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1727,
+      "NumberOfAwardsMax": 199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1726,
+  "NumberOfAwards": 1727,
   "NumberOfAwardsMax": 199,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3880,7 +3886,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 141
+      "Count": 142
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -36767,9 +36773,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2024-03-25T01:41:26.9571705+00:00",
+  "LastChanged": "2024-03-26T19:59:28.0572193+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:49.2658384+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:39.7022823+00:00",
-  "LastUpdate_Ratings": "2024-03-26T18:57:40.2703833+00:00",
+  "LastUpdate_Ratings": "2024-03-26T19:59:28.0572202+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:49.2660409+00:00"
 }

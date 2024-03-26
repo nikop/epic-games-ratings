@@ -2,7 +2,7 @@
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 225,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 952,
@@ -9248,18 +9248,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 15660,
       "NumberOfAwardsMax": 4949
+    },
+    {
+      "Time": "2024-03-26T19:59:13.8315455+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 15665,
+      "NumberOfAwardsMax": 4953
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15660,
-  "NumberOfAwardsMax": 4949,
+  "NumberOfAwards": 15665,
+  "NumberOfAwardsMax": 4953,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4949
+      "Count": 4953
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9307,7 +9313,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1076
+      "Count": 1077
     },
     {
       "Text": "This game is Relaxing",
@@ -9345,8 +9351,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2024-03-26T09:59:46.3377905+00:00",
+  "LastChanged": "2024-03-26T19:59:13.8315452+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:35.928898+00:00",
-  "LastUpdate_Ratings": "2024-03-26T18:57:26.6889667+00:00",
+  "LastUpdate_Ratings": "2024-03-26T19:59:13.8315459+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:39.6254125+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 413,
-  "Ranking_Popularity": 241,
+  "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 445,
@@ -5876,11 +5876,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 3715,
       "NumberOfAwardsMax": 459
+    },
+    {
+      "Time": "2024-03-26T19:58:32.7424789+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3724,
+      "NumberOfAwardsMax": 462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3715,
-  "NumberOfAwardsMax": 459,
+  "NumberOfAwards": 3724,
+  "NumberOfAwardsMax": 462,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
@@ -5911,25 +5917,25 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 459
+      "Count": 462
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 417
+      "Count": 421
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 417
+      "Count": 418
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 426
+      "Count": 427
     },
     {
       "Text": "This game has a Competitive Community",
@@ -38751,9 +38757,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-03-26T18:01:51.5262377+00:00",
+  "LastChanged": "2024-03-26T19:58:32.7424787+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:16.470622+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:22.4855408+00:00",
-  "LastUpdate_Ratings": "2024-03-26T18:01:51.5262853+00:00",
+  "LastUpdate_Ratings": "2024-03-26T19:58:32.7424793+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:16.4707908+00:00"
 }
