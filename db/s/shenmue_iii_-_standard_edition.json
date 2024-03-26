@@ -2,7 +2,7 @@
   "ID": "5d582c08e31a43128a61093a2c3ff7f0",
   "Name": "Shenmue III - Standard Edition",
   "ProductSlug": "shenmue-3",
-  "Ranking_Rating": 980,
+  "Ranking_Rating": 981,
   "Ranking_Popularity": 622,
   "Ranking_PopularitySum": 622,
   "Ranking_EOS_Progress": 952,
@@ -494,6 +494,6 @@
   "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
   "LastChanged": "2024-03-04T10:32:25.1564958+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:42.1420895+00:00",
-  "LastUpdate_Ratings": "2024-03-26T19:59:37.3705202+00:00",
+  "LastUpdate_Ratings": "2024-03-26T21:00:44.8650285+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:15.9239411+00:00"
 }

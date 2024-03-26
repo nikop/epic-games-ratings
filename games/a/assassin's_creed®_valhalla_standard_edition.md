@@ -1,11 +1,11 @@
 # Assassin's Creed® Valhalla Standard Edition
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-valhalla)  
 [View Rawdata](../../db/a/assassin's_creed®_valhalla_standard_edition.json)  
-Rating: 4.60 (Ranked 442)  
+Rating: 4.60 (Ranked 443)  
 Number of Ratings: 12,317  (23.09.2022)  
 ## Awards
 Max (Character Customization): 17,209  (Ranked 25)  
-Sum: 43,522 (Ranked 36)  
+Sum: 43,527 (Ranked 36)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
@@ -16,8 +16,8 @@ Diff (max vs sum): -11
 | This game has Quickly Understood Controls | 1,764 |
 | This game has Amazing Storytelling | 1,752 |
 | This game has Diverse Characters | 1,741 |
-| This game is Relaxing | 1,704 |
-| This game is Extremely Fun | 1,699 |
+| This game is Relaxing | 1,707 |
+| This game is Extremely Fun | 1,701 |
 | This game has Amazing Characters | 1,673 |
 | This game has a Creative Community | 934 |
 | This game has Obsessive Gameplay | 334 |
@@ -457,4 +457,4 @@ Diff (max vs sum): -11
 | 2024-03-23 | 4.60 | - | 17,179 | 43,412 |
 | 2024-03-24 | 4.60 | - | 17,188 | 43,442 |
 | 2024-03-25 | 4.60 | - | 17,199 | 43,490 |
-| 2024-03-26 | 4.60 | - | 17,209 | 43,522 |
+| 2024-03-26 | 4.60 | - | 17,209 | 43,527 |
