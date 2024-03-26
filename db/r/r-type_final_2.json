@@ -2,7 +2,7 @@
   "ID": "37ed871e17ab4466b4d5da28e9576ea6",
   "Name": "R-Type Final 2",
   "ProductSlug": "r-type-final-2",
-  "Ranking_Rating": 916,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 621,
   "Ranking_PopularitySum": 621,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:05.4593044+00:00",
@@ -99,6 +99,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-26T13:02:14.4500351+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -117,8 +123,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:14.0717301+00:00",
   "FirstSeenRating": "2023-03-31T05:57:05.459304+00:00",
-  "LastChanged": "2024-03-15T10:58:16.4238542+00:00",
+  "LastChanged": "2024-03-26T13:02:14.4500349+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:41.696491+00:00",
-  "LastUpdate_Ratings": "2024-03-26T11:57:48.9769059+00:00",
+  "LastUpdate_Ratings": "2024-03-26T13:02:14.4500355+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:05.250174+00:00"
 }
