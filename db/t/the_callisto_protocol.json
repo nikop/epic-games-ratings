@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 988,
   "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 1,
@@ -2865,10 +2865,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 820,
       "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2024-03-26T01:38:06.3973439+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 821,
+      "NumberOfAwardsMax": 165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 820,
+  "NumberOfAwards": 821,
   "NumberOfAwardsMax": 165,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2888,7 +2894,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 147
+      "Count": 148
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15994,9 +16000,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-03-25T08:59:29.0901742+00:00",
+  "LastChanged": "2024-03-26T01:38:06.3973437+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:21.3912278+00:00",
   "LastUpdate_AppInfo": "2024-03-24T12:59:36.8022406+00:00",
-  "LastUpdate_Ratings": "2024-03-25T23:00:45.2053941+00:00",
+  "LastUpdate_Ratings": "2024-03-26T01:38:06.3973443+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:21.3913328+00:00"
 }
