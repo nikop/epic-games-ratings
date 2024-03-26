@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 917)
 Number of Ratings: 432  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 49  (Ranked 492)  
-Sum: 342 (Ranked 392)  
+Sum: 343 (Ranked 392)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 100
 | This game is Extremely Fun | 39 |
 | This game has Amazing Storytelling | 35 |
 | This game is Educational | 33 |
-| This game has Competitive Players | 26 |
+| This game has Competitive Players | 27 |
 | This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -135,4 +135,4 @@ Diff (max vs sum): 100
 | 2024-03-09 | 4.30 | - | 48 | 338 |
 | 2024-03-10 | 4.29 | - | 48 | 338 |
 | 2024-03-25 | 4.29 | - | 49 | 341 |
-| 2024-03-26 | 4.29 | - | 49 | 342 |
+| 2024-03-26 | 4.29 | - | 49 | 343 |

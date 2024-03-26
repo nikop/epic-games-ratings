@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 20,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 1,
@@ -1866,10 +1866,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1224,
       "NumberOfAwardsMax": 793
+    },
+    {
+      "Time": "2024-03-26T18:58:28.7595925+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1225,
+      "NumberOfAwardsMax": 793
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1224,
+  "NumberOfAwards": 1225,
   "NumberOfAwardsMax": 793,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1889,7 +1895,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Educational",
@@ -30593,9 +30599,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-03-23T14:57:36.623818+00:00",
+  "LastChanged": "2024-03-26T18:58:28.7595923+00:00",
   "LastChanged_Achievements": "2024-03-21T17:10:01.2817228+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:32.6109369+00:00",
-  "LastUpdate_Ratings": "2024-03-26T17:57:29.2610148+00:00",
+  "LastUpdate_Ratings": "2024-03-26T18:58:28.7595929+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:01.2819245+00:00"
 }

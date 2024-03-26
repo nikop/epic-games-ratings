@@ -2,7 +2,7 @@
   "ID": "b79b8b81ba8c4bf9b4b1154670237131",
   "Name": "Invincible Presents: Atom Eve",
   "ProductSlug": "atom-eve-ff090d",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 869,
   "Ranking_Popularity": 621,
   "Ranking_PopularitySum": 621,
   "Ranking_EOS_Progress": 165,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-11-18T01:43:33.9893593+00:00",
@@ -255,6 +255,12 @@
     {
       "Time": "2024-03-25T18:58:48.105937+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-26T18:57:49.7895301+00:00",
+      "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -7891,9 +7897,9 @@
   "FirstSeen": "2023-11-14T21:00:09.5142789+00:00",
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
-  "LastChanged": "2024-03-25T18:58:48.1059368+00:00",
+  "LastChanged": "2024-03-26T18:57:49.7895299+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:03.2815612+00:00",
   "LastUpdate_AppInfo": "2024-03-20T01:37:21.5448528+00:00",
-  "LastUpdate_Ratings": "2024-03-26T17:00:32.5896859+00:00",
+  "LastUpdate_Ratings": "2024-03-26T18:57:49.7895304+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:03.2816392+00:00"
 }
