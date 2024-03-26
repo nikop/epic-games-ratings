@@ -29,6 +29,7 @@
 | [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-03-31 | - |  | - | - |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | - |  | - | - |
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | - |
+| [VillageBlade](games/f/f5d99ffea3d846a7970a23ee801320f6.md) | 2024-04-01 | - |  | - | - |
 | [Withering Rooms](games/a/a9d3d11848a14f46a47ced564b521d37.md) | 2024-04-02 | - |  | - | - |
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | - |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | - |  | - | - |
