@@ -2,7 +2,7 @@
   "ID": "4586d456108e4a03810c5927453ce6da",
   "Name": "Suzerain",
   "ProductSlug": "suzerain",
-  "Ranking_Rating": 222,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 621,
   "Ranking_PopularitySum": 621,
   "Ranking_EOS_Progress": 952,
@@ -101,6 +101,6 @@
   "FirstSeenRating": "2022-11-13T17:58:37.984125+00:00",
   "LastChanged": "2024-03-25T20:00:36.1027688+00:00",
   "LastUpdate_AppInfo": "2024-03-24T12:59:29.2978294+00:00",
-  "LastUpdate_Ratings": "2024-03-26T02:13:45.4650874+00:00",
+  "LastUpdate_Ratings": "2024-03-26T02:59:37.4603564+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:48.4236327+00:00"
 }
