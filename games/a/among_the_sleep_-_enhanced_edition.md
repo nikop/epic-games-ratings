@@ -1,7 +1,7 @@
 # Among the Sleep - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/among-the-sleep-enhanced-edition)  
 [View Rawdata](../../db/a/among_the_sleep_-_enhanced_edition.json)  
-Rating: 4.29 (Ranked 917)  
+Rating: 4.28 (Ranked 932)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -402,3 +402,4 @@ Completed: 492 (0.47%) (Ranked 262)
 | 2024-01-26 | 4.29 | - | 0 | 0 |
 | 2024-02-01 | 4.28 | - | 0 | 0 |
 | 2024-02-11 | 4.29 | - | 0 | 0 |
+| 2024-03-27 | 4.28 | - | 0 | 0 |
