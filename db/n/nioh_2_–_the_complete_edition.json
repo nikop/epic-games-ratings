@@ -4,7 +4,7 @@
   "ProductSlug": "nioh-2-the-complete-edition",
   "Ranking_Rating": 100,
   "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 126,
+  "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -6578,10 +6578,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 8201,
       "NumberOfAwardsMax": 2861
+    },
+    {
+      "Time": "2024-03-27T09:58:31.8348213+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 8202,
+      "NumberOfAwardsMax": 2861
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8201,
+  "NumberOfAwards": 8202,
   "NumberOfAwardsMax": 2861,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6613,7 +6619,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 474
+      "Count": 475
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6669,8 +6675,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2024-03-26T15:58:37.9328822+00:00",
+  "LastChanged": "2024-03-27T09:58:31.8348212+00:00",
   "LastUpdate_AppInfo": "2024-03-24T01:43:08.6826325+00:00",
-  "LastUpdate_Ratings": "2024-03-27T07:59:53.5799192+00:00",
+  "LastUpdate_Ratings": "2024-03-27T09:58:31.8348216+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:36.8836498+00:00"
 }
