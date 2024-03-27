@@ -3,8 +3,8 @@
   "Name": "Darksiders Warmastered Edition",
   "ProductSlug": "darksiders",
   "Ranking_Rating": 443,
-  "Ranking_Popularity": 415,
-  "Ranking_PopularitySum": 510,
+  "Ranking_Popularity": 414,
+  "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -835,11 +835,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-03-27T12:59:50.3861239+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 91,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89,
-  "NumberOfAwardsMax": 89,
+  "NumberOfAwards": 91,
+  "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -852,7 +858,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 89
+      "Count": 91
     }
   ],
   "EOS_Progressed": 778,
@@ -1226,9 +1232,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:53.6036766+00:00",
-  "LastChanged": "2024-03-22T13:00:22.5560535+00:00",
+  "LastChanged": "2024-03-27T12:59:50.3861238+00:00",
   "LastChanged_Achievements": "2024-03-21T17:06:53.6036729+00:00",
   "LastUpdate_AppInfo": "2024-03-24T10:57:15.8737266+00:00",
-  "LastUpdate_Ratings": "2024-03-27T11:00:16.9124567+00:00",
+  "LastUpdate_Ratings": "2024-03-27T12:59:50.3861246+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:53.6045879+00:00"
 }
