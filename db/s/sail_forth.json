@@ -4,7 +4,7 @@
   "ProductSlug": "sail-forth-51847e",
   "Ranking_Rating": 795,
   "Ranking_Popularity": 591,
-  "Ranking_PopularitySum": 494,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -419,10 +419,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 109,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-03-27T18:58:13.6079354+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 109,
+  "NumberOfAwards": 88,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2756,9 +2762,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-03-20T17:00:21.5270421+00:00",
+  "LastChanged": "2024-03-27T18:58:13.6079352+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:51.1858129+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:44.1765058+00:00",
-  "LastUpdate_Ratings": "2024-03-27T17:00:40.7839189+00:00",
+  "LastUpdate_Ratings": "2024-03-27T18:58:13.6079357+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:51.1858514+00:00"
 }
