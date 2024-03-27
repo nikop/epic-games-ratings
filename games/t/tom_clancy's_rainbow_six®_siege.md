@@ -1,7 +1,7 @@
 # Tom Clancy's Rainbow Six® Siege
 [Store](https://store.epicgames.com/en-US/p/rainbow-six-siege)  
 [View Rawdata](../../db/t/tom_clancy's_rainbow_six®_siege.json)  
-Rating: 4.57 (Ranked 508)  
+Rating: 4.56 (Ranked 526)  
 Number of Ratings: 8,669  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 1,804  (Ranked 137)  
@@ -348,3 +348,4 @@ Diff (max vs sum): 54
 | 2024-03-24 | 4.57 | - | 1,804 | 14,817 |
 | 2024-03-25 | 4.57 | - | 1,804 | 14,819 |
 | 2024-03-26 | 4.57 | - | 1,804 | 14,821 |
+| 2024-03-27 | 4.56 | - | 1,804 | 14,821 |

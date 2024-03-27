@@ -3,12 +3,12 @@
 [View Rawdata](../../db/r/returnal™.json)  
 Rating: 4.57 (Ranked 508)  
 ## Awards
-Max (Great Boss Battles): 211  (Ranked 312)  
-Sum: 256 (Ranked 427)  
-Diff (max vs sum): -115  
+Max (Great Boss Battles): 212  (Ranked 311)  
+Sum: 257 (Ranked 427)  
+Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 211 |
+| This game has Great Boss Battles | 212 |
 | This game has Amazing Characters | 24 |
 | This game has Amazing Storytelling | 21 |
 ## Ratings History
@@ -178,3 +178,4 @@ Diff (max vs sum): -115
 | 2024-03-20 | 4.57 | 210 | 254 |
 | 2024-03-22 | 4.57 | 210 | 255 |
 | 2024-03-24 | 4.57 | 211 | 256 |
+| 2024-03-27 | 4.57 | 212 | 257 |
