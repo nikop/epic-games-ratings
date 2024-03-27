@@ -23,7 +23,7 @@
 | 20 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 793 | 197 |
 | 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,418 | 83 |
 | 20 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,057 | 170 |
-| 20 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 16,512 | 26 |
+| 20 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 16,536 | 26 |
 | 20 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 23 | 598 |
 | 20 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 175 | 335 |
 | 20 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.87 | 0 | 623 |
@@ -175,7 +175,7 @@
 | 170 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 36,353 | 17 |
 | 170 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 86 | 418 |
 | 170 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 873 | 189 |
-| 170 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,882 | 52 |
+| 170 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 8,890 | 52 |
 | 170 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 50,804 | 14 |
 | 170 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 166 | 343 |
 | 170 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 929 | 182 |
@@ -249,7 +249,7 @@
 | 246 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 130,464 | 9 |
 | 246 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 623 |
 | 246 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 132 | 365 |
-| 246 | [Coromon](games/c/coromon.md) | 4.69 | 49 | 492 |
+| 246 | [Coromon](games/c/coromon.md) | 4.69 | 49 | 493 |
 | 246 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,298 | 59 |
 | 246 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,770 | 54 |
 | 246 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 8,520 | 56 |
@@ -724,7 +724,7 @@
 | 714 | [Good Company](games/g/good_company.md) | 4.45 | 0 | 623 |
 | 714 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.45 | 0 | 623 |
 | 714 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 13,797 | 34 |
-| 714 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 49 | 492 |
+| 714 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 50 | 491 |
 | 714 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 623 |
 | 714 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 925 | 183 |
 | 714 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 776,722 | 2 |
@@ -926,7 +926,7 @@
 | 917 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 623 |
 | 917 | [MetalCore](games/m/metalcore.md) | 4.29 | 0 | 623 |
 | 917 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 821 | 195 |
-| 917 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 49 | 492 |
+| 917 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 49 | 493 |
 | 917 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.29 | 0 | 623 |
 | 917 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 176 | 333 |
 | 917 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.29 | 130 | 368 |
@@ -1059,7 +1059,7 @@
 | 1,057 | [Banished](games/b/banished.md) | 4.13 | 0 | 623 |
 | 1,057 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.13 | 0 | 623 |
 | 1,057 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 623 |
-| 1,057 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,336 | 120 |
+| 1,057 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,358 | 119 |
 | 1,061 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 623 |
 | 1,061 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 78 | 431 |
 | 1,061 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 22 | 602 |
