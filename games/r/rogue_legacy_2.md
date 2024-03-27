@@ -331,7 +331,7 @@ Completed: 35 (0.12%) (Ranked 345)
 | 2024-03-21 | 29,218 | 35 |
 ## Awards
 Max (Extremely Fun): 230  (Ranked 302)  
-Sum: 1,596 (Ranked 253)  
+Sum: 1,597 (Ranked 253)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): 49
 | This game is Highly Recommended | 203 |
 | This game has Challenging Combat | 202 |
 | This game is Relaxing | 193 |
-| This game has Amazing Characters | 174 |
+| This game has Amazing Characters | 175 |
 | This game has Amazing Storytelling | 171 |
 | This game has Playful Visuals | 159 |
 | This game has Obsessive Gameplay | 123 |
@@ -516,3 +516,4 @@ Diff (max vs sum): 49
 | 2024-03-21 | 4.84 | - | 230 | 1,594 |
 | 2024-03-22 | 4.84 | - | 230 | 1,595 |
 | 2024-03-23 | 4.84 | - | 230 | 1,596 |
+| 2024-03-27 | 4.84 | - | 230 | 1,597 |
