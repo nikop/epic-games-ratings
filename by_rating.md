@@ -92,7 +92,7 @@
 | 81 | [The Messenger](games/t/the_messenger.md) | 4.81 | 361 | 260 |
 | 81 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 31 | 550 |
 | 81 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 622 |
-| 93 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 970 | 178 |
+| 93 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 972 | 178 |
 | 93 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,521 | 71 |
 | 93 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.80 | 920 | 185 |
 | 93 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 134 | 362 |
@@ -380,7 +380,7 @@
 | 373 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 535 |
 | 373 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,419 | 115 |
 | 373 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.63 | 151 | 353 |
-| 373 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,965 | 131 |
+| 373 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,972 | 130 |
 | 373 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 0 | 622 |
 | 373 | [HITMAN](games/h/hitman.md) | 4.63 | 226 | 305 |
 | 373 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 622 |
@@ -392,7 +392,7 @@
 | 373 | [Prey](games/p/prey.md) | 4.63 | 5,965 | 77 |
 | 373 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 197 | 322 |
 | 373 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.63 | 0 | 622 |
-| 373 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,838 | 135 |
+| 373 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,839 | 135 |
 | 373 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 622 |
 | 395 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 622 |
 | 395 | [Art of Rally](games/a/art_of_rally_1.md) | 4.62 | 72 | 446 |
@@ -773,7 +773,7 @@
 | 764 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 622 |
 | 764 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
 | 764 | [SMITE](games/s/smite.md) | 4.42 | 5,421 | 82 |
-| 764 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,168 | 158 |
+| 764 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,170 | 158 |
 | 764 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.42 | 0 | 622 |
 | 764 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 162 | 348 |
 | 764 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 622 |
@@ -793,7 +793,7 @@
 | 778 | [Sheltered](games/s/sheltered.md) | 4.41 | 287 | 282 |
 | 778 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.41 | 207 | 316 |
 | 778 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 622 |
-| 778 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,966 | 130 |
+| 778 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,966 | 131 |
 | 795 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.40 | 0 | 622 |
 | 795 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 622 |
 | 795 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 622 |
@@ -939,7 +939,7 @@
 | 934 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 23 | 597 |
 | 934 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 622 |
 | 934 | [Predecessor](games/p/predecessor.md) | 4.28 | 448 | 243 |
-| 934 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,104 | 74 |
+| 934 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,110 | 74 |
 | 934 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 339 |
 | 934 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.28 | 0 | 622 |
 | 934 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.28 | 0 | 622 |
@@ -1127,10 +1127,10 @@
 | 1,123 | [Warface: Clutch](games/w/warface.md) | 3.89 | 500 | 232 |
 | 1,126 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 622 |
 | 1,126 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.86 | 128 | 371 |
-| 1,126 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.86 | 0 | 622 |
 | 1,126 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.86 | 0 | 622 |
-| 1,130 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 622 |
-| 1,131 | [Poker Club](games/p/poker_club.md) | 3.84 | 53 | 477 |
+| 1,129 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 622 |
+| 1,130 | [Poker Club](games/p/poker_club.md) | 3.84 | 53 | 477 |
+| 1,130 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.84 | 0 | 622 |
 | 1,132 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 0 | 622 |
 | 1,132 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 622 |
 | 1,132 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 0 | 622 |

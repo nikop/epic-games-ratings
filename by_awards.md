@@ -73,7 +73,7 @@
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,521 | 4.80 | 93 |
 | 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,397 | 4.78 | 115 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,190 | 4.66 | 314 |
-| 74 | [Rogue Company](games/r/rogue_company.md) | 6,104 | 4.28 | 934 |
+| 74 | [Rogue Company](games/r/rogue_company.md) | 6,110 | 4.28 | 934 |
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,077 | 4.64 | 357 |
 | 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,032 | 4.85 | 41 |
 | 77 | [Prey](games/p/prey.md) | 5,965 | 4.63 | 373 |
@@ -129,12 +129,12 @@
 | 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,047 | 4.69 | 246 |
 | 128 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,997 | 4.50 | 640 |
 | 129 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,986 | 4.66 | 314 |
-| 130 | [World of Warships](games/w/world_of_warships.md) | 1,966 | 4.41 | 778 |
-| 131 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,965 | 4.63 | 373 |
+| 130 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,972 | 4.63 | 373 |
+| 131 | [World of Warships](games/w/world_of_warships.md) | 1,966 | 4.41 | 778 |
 | 132 | [Celeste](games/c/celeste.md) | 1,932 | 4.91 | 6 |
 | 133 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,859 | 4.86 | 29 |
 | 134 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,857 | 4.56 | 526 |
-| 135 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,838 | 4.63 | 373 |
+| 135 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,839 | 4.63 | 373 |
 | 136 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,816 | 4.76 | 137 |
 | 137 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,804 | 4.57 | 508 |
 | 138 | [Conan Exiles](games/c/conan_exiles.md) | 1,797 | 4.54 | 560 |
@@ -157,7 +157,7 @@
 | 155 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,182 | 4.65 | 337 |
 | 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,180 | 4.47 | 686 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,178 | 4.46 | 698 |
-| 158 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,168 | 4.42 | 764 |
+| 158 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,170 | 4.42 | 764 |
 | 159 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,140 | 4.74 | 169 |
 | 160 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,133 | 4.69 | 246 |
 | 161 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,125 | 4.61 | 413 |
@@ -177,7 +177,7 @@
 | 175 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,008 | 4.31 | 900 |
 | 175 | [Sonic Mania](games/s/sonic_mania.md) | 1,008 | 4.77 | 123 |
 | 177 | [Riders Republic](games/r/riders_republic.md) | 1,004 | 4.75 | 150 |
-| 178 | [Alan Wake 2](games/a/alan_wake_2.md) | 970 | 4.80 | 93 |
+| 178 | [Alan Wake 2](games/a/alan_wake_2.md) | 972 | 4.80 | 93 |
 | 179 | [Dishonored 2](games/d/dishonored_2.md) | 957 | 4.78 | 115 |
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 951 | 4.67 | 289 |
 | 181 | [Brawlhalla](games/b/brawlhalla.md) | 944 | 4.59 | 466 |
@@ -478,7 +478,7 @@
 | 476 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 54 | 4.56 | 526 |
 | 477 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 53 | 4.84 | 48 |
 | 477 | [Nightingale](games/n/nightingale.md) | 53 | 4.27 | 945 |
-| 477 | [Poker Club](games/p/poker_club.md) | 53 | 3.84 | 1,131 |
+| 477 | [Poker Club](games/p/poker_club.md) | 53 | 3.84 | 1,130 |
 | 477 | [Quake](games/q/quake.md) | 53 | 4.77 | 123 |
 | 477 | [STG Football](games/s/stg_football.md) | 53 | 4.44 | 732 |
 | 477 | [Voidtrain](games/v/voidtrain.md) | 53 | 4.50 | 640 |
