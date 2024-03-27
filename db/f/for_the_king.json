@@ -4,7 +4,7 @@
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 225,
   "Ranking_Popularity": 244,
-  "Ranking_PopularitySum": 189,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -4618,6 +4618,6 @@
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
   "LastChanged": "2024-03-26T14:58:22.2595586+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:35.3247029+00:00",
-  "LastUpdate_Ratings": "2024-03-27T13:01:26.9620886+00:00",
+  "LastUpdate_Ratings": "2024-03-27T14:57:20.4542645+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:00.8448053+00:00"
 }
