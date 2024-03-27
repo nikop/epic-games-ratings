@@ -2,7 +2,7 @@
   "ID": "d2b282a6b53e409a8f8329d3d3356f21",
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 615,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 120,
@@ -2009,10 +2009,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2716,
       "NumberOfAwardsMax": 1071
+    },
+    {
+      "Time": "2024-03-27T20:58:45.7891914+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2717,
+      "NumberOfAwardsMax": 1071
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2716,
+  "NumberOfAwards": 2717,
   "NumberOfAwardsMax": 1071,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2026,7 +2032,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has Inclusive Character Customization",
@@ -15363,9 +15369,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
-  "LastChanged": "2024-03-24T06:59:09.1655842+00:00",
+  "LastChanged": "2024-03-27T20:58:45.7891912+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:51.1966921+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:29.1007982+00:00",
-  "LastUpdate_Ratings": "2024-03-27T19:57:19.3954447+00:00",
+  "LastUpdate_Ratings": "2024-03-27T20:58:45.7891918+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:51.196838+00:00"
 }

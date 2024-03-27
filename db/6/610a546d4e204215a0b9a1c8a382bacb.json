@@ -4651,10 +4651,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 3211,
       "NumberOfAwardsMax": 386
+    },
+    {
+      "Time": "2024-03-27T20:58:29.8840202+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3214,
+      "NumberOfAwardsMax": 386
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3211,
+  "NumberOfAwards": 3214,
   "NumberOfAwardsMax": 386,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4710,7 +4716,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 284
+      "Count": 287
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15298,9 +15304,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-03-27T19:57:06.3770237+00:00",
+  "LastChanged": "2024-03-27T20:58:29.88402+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:44.5256718+00:00",
   "LastUpdate_AppInfo": "2024-03-27T06:57:08.5200967+00:00",
-  "LastUpdate_Ratings": "2024-03-27T19:57:06.3770243+00:00",
+  "LastUpdate_Ratings": "2024-03-27T20:58:29.8840205+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:44.5258375+00:00"
 }
