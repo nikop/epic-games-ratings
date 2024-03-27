@@ -19469,10 +19469,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 396740,
       "NumberOfAwardsMax": 50804
+    },
+    {
+      "Time": "2024-03-27T10:59:38.9890668+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 396768,
+      "NumberOfAwardsMax": 50804
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 396740,
+  "NumberOfAwards": 396768,
   "NumberOfAwardsMax": 50804,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -19540,7 +19546,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 27603
+      "Count": 27631
     }
   ],
   "EOS_Progressed": 0,
@@ -19554,8 +19560,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-03-27T07:59:13.8069093+00:00",
+  "LastChanged": "2024-03-27T10:59:38.9890666+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:20.5899979+00:00",
-  "LastUpdate_Ratings": "2024-03-27T09:57:45.8186973+00:00",
+  "LastUpdate_Ratings": "2024-03-27T10:59:38.9890672+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:46.4766268+00:00"
 }
