@@ -53,7 +53,7 @@
 | 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 622 |
 | 48 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 53 | 477 |
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 469 | 238 |
-| 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 14,829 | 31 |
+| 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 14,839 | 31 |
 | 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 230 | 302 |
 | 56 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.83 | 0 | 622 |
 | 56 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 622 |
@@ -288,7 +288,7 @@
 | 271 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.68 | 0 | 622 |
 | 271 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.68 | 0 | 622 |
 | 271 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.68 | 914 | 187 |
-| 289 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 3,706 | 100 |
+| 289 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.67 | 3,709 | 100 |
 | 289 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.67 | 0 | 622 |
 | 289 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 622 |
 | 289 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.67 | 0 | 622 |
@@ -635,7 +635,7 @@
 | 616 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 75 | 438 |
 | 616 | [The Medium](games/t/the_medium.md) | 4.51 | 0 | 622 |
 | 616 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 622 |
-| 616 | [VALORANT](games/v/valorant.md) | 4.51 | 107,196 | 10 |
+| 616 | [VALORANT](games/v/valorant.md) | 4.51 | 107,556 | 10 |
 | 616 | [Wall World](games/w/wall_world.md) | 4.51 | 0 | 622 |
 | 616 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 145 | 356 |
 | 616 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 36 | 529 |
@@ -729,28 +729,28 @@
 | 714 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 925 | 183 |
 | 714 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 776,722 | 2 |
 | 714 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 622 |
+| 714 | [STG Football](games/s/stg_football.md) | 4.45 | 53 | 477 |
 | 714 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 136 | 360 |
 | 714 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 622 |
-| 732 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.44 | 340 | 264 |
-| 732 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 622 |
-| 732 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 273 | 289 |
-| 732 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 71,631 | 11 |
-| 732 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 73 | 444 |
-| 732 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 325 | 269 |
-| 732 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 379 |
-| 732 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,871 | 30 |
-| 732 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.44 | 393 | 252 |
-| 732 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 622 |
-| 732 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.44 | 29 | 560 |
-| 732 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 622 |
-| 732 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 622 |
-| 732 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 622 |
-| 732 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 681 | 207 |
-| 732 | [STG Football](games/s/stg_football.md) | 4.44 | 53 | 477 |
-| 732 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 403 |
-| 732 | [The Colonists](games/t/the_colonists.md) | 4.44 | 0 | 622 |
-| 732 | [Tunche](games/t/tunche.md) | 4.44 | 33 | 542 |
-| 732 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 297 | 279 |
+| 733 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.44 | 340 | 264 |
+| 733 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 622 |
+| 733 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 273 | 289 |
+| 733 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 71,631 | 11 |
+| 733 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 73 | 444 |
+| 733 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 325 | 269 |
+| 733 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 379 |
+| 733 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,871 | 30 |
+| 733 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.44 | 393 | 252 |
+| 733 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 622 |
+| 733 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.44 | 29 | 560 |
+| 733 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 622 |
+| 733 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 622 |
+| 733 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 622 |
+| 733 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 681 | 207 |
+| 733 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 403 |
+| 733 | [The Colonists](games/t/the_colonists.md) | 4.44 | 0 | 622 |
+| 733 | [Tunche](games/t/tunche.md) | 4.44 | 33 | 542 |
+| 733 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 297 | 279 |
 | 752 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 271 | 290 |
 | 752 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 622 |
 | 752 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.43 | 0 | 622 |
