@@ -75,7 +75,7 @@
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,190 | 4.66 | 314 |
 | 74 | [Rogue Company](games/r/rogue_company.md) | 6,104 | 4.28 | 934 |
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,077 | 4.64 | 357 |
-| 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,029 | 4.85 | 41 |
+| 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,032 | 4.85 | 41 |
 | 77 | [Prey](games/p/prey.md) | 5,965 | 4.63 | 373 |
 | 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,945 | 4.07 | 1,079 |
 | 79 | [League of Legends](games/l/league_of_legends.md) | 5,885 | 4.20 | 1,005 |
