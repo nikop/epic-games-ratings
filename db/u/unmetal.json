@@ -3,8 +3,8 @@
   "Name": "UnMetal",
   "ProductSlug": "unmetal",
   "Ranking_Rating": 616,
-  "Ranking_Popularity": 622,
-  "Ranking_PopularitySum": 622,
+  "Ranking_Popularity": 623,
+  "Ranking_PopularitySum": 623,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -196,6 +196,6 @@
   "FirstSeen": "2022-07-22T20:18:47.3382201+00:00",
   "LastChanged": "2023-12-30T19:58:17.2616495+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:42.4459742+00:00",
-  "LastUpdate_Ratings": "2024-03-27T05:58:51.8417154+00:00",
+  "LastUpdate_Ratings": "2024-03-27T07:00:19.5866424+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:10.8282374+00:00"
 }
