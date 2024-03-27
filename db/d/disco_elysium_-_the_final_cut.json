@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 20,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 272,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 1,
@@ -30602,6 +30602,6 @@
   "LastChanged": "2024-03-26T18:58:28.7595923+00:00",
   "LastChanged_Achievements": "2024-03-21T17:10:01.2817228+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:32.6109369+00:00",
-  "LastUpdate_Ratings": "2024-03-27T15:59:16.9145493+00:00",
+  "LastUpdate_Ratings": "2024-03-27T17:00:06.0874264+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:01.2819245+00:00"
 }
