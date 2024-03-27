@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/sins_of_a_solar_empire_2.json)  
 Rating: 4.58 (Ranked 481)  
 ## Awards
-Max (Great for Beginners): 52  (Ranked 482)  
+Max (Great for Beginners): 52  (Ranked 483)  
 Sum: 207 (Ranked 444)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 52 |

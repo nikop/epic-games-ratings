@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 137)
 Number of Ratings: 5,428  (23.09.2022)  
 ## Awards
 Max (Character Customization): 3,540  (Ranked 105)  
-Sum: 9,583 (Ranked 110)  
+Sum: 9,584 (Ranked 110)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -5
 | This game is Extremely Fun | 696 |
 | This game has Quickly Understood Controls | 684 |
 | This game has Unique Visuals | 662 |
-| This game has Amazing Storytelling | 651 |
+| This game has Amazing Storytelling | 652 |
 | This game has a Creative Community | 451 |
 | This game has Obsessive Gameplay | 434 |
 ## Ratings History
@@ -407,3 +407,4 @@ Diff (max vs sum): -5
 | 2024-03-24 | 4.76 | - | 3,537 | 9,579 |
 | 2024-03-25 | 4.76 | - | 3,540 | 9,582 |
 | 2024-03-26 | 4.76 | - | 3,540 | 9,583 |
+| 2024-03-27 | 4.76 | - | 3,540 | 9,584 |
