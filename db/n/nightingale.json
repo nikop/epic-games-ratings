@@ -2,7 +2,7 @@
   "ID": "88e8dde0de8f44bdb3580d73e36d4157",
   "Name": "Nightingale",
   "ProductSlug": "nightingale",
-  "Ranking_Rating": 947,
+  "Ranking_Rating": 948,
   "Ranking_Popularity": 478,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 952,
@@ -691,10 +691,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 310,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-03-28T16:00:34.8842927+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 311,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 310,
+  "NumberOfAwards": 311,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -738,7 +744,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has a Creative Community",
@@ -779,9 +785,9 @@
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:53.3151044+00:00",
-  "LastChanged": "2024-03-28T13:57:25.3372616+00:00",
+  "LastChanged": "2024-03-28T16:00:34.8842925+00:00",
   "LastChanged_Achievements": "2024-03-21T17:06:53.3151022+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:23.4864519+00:00",
-  "LastUpdate_Ratings": "2024-03-28T14:58:54.0350903+00:00",
+  "LastUpdate_Ratings": "2024-03-28T16:00:34.8842929+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:53.3151063+00:00"
 }

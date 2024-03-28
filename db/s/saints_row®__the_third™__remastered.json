@@ -2,7 +2,7 @@
   "ID": "3928fd8975b2437d894bbc5cd21de9a0",
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 952,
@@ -2867,10 +2867,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 3229,
       "NumberOfAwardsMax": 2289
+    },
+    {
+      "Time": "2024-03-28T15:59:00.6157036+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3231,
+      "NumberOfAwardsMax": 2289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3229,
+  "NumberOfAwards": 3231,
   "NumberOfAwardsMax": 2289,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2908,7 +2914,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 120
+      "Count": 121
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2932,7 +2938,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game has a Silly Community",
@@ -2958,8 +2964,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2024-03-26T16:58:04.3284081+00:00",
+  "LastChanged": "2024-03-28T15:59:00.6157034+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:59.3117885+00:00",
-  "LastUpdate_Ratings": "2024-03-28T14:00:25.8812714+00:00",
+  "LastUpdate_Ratings": "2024-03-28T15:59:00.6157039+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:06.5685081+00:00"
 }

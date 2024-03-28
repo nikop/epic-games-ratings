@@ -2,7 +2,7 @@
   "ID": "0f86606a1622460898a7874d488f288a",
   "Name": "Kingdoms of Amalur: Re-Reckoning",
   "ProductSlug": "kingdoms-of-amalur-re-reckoning",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 435,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 137,
   "RatingHistory": [
     {
@@ -491,6 +491,12 @@
     {
       "Time": "2024-03-26T01:39:03.77583+00:00",
       "Rating": 4.54,
+      "NumberOfAwards": 129,
+      "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2024-03-28T15:57:39.6734075+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 129,
       "NumberOfAwardsMax": 82
     }
@@ -1092,9 +1098,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
   "FirstSeenAchievements": "2024-02-22T21:05:28.573134+00:00",
-  "LastChanged": "2024-03-26T01:39:03.7758298+00:00",
+  "LastChanged": "2024-03-28T15:57:39.6734071+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:10.1972612+00:00",
   "LastUpdate_AppInfo": "2024-03-24T09:57:02.4702457+00:00",
-  "LastUpdate_Ratings": "2024-03-28T13:59:08.0882352+00:00",
+  "LastUpdate_Ratings": "2024-03-28T15:57:39.6734078+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:10.198043+00:00"
 }
