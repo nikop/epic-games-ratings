@@ -1,15 +1,15 @@
 # Divine Knockout
 [Store](https://store.epicgames.com/en-US/p/divine-knockout)  
 [View Rawdata](../../db/d/divine_knockout_(dko)_-_starter_edition.json)  
-Rating: 4.30 (Ranked 912)  
+Rating: 4.30 (Ranked 913)  
 Number of Ratings: 60  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 75  (Ranked 439)  
-Sum: 610 (Ranked 339)  
-Diff (max vs sum): 100  
+Max (Great for Quick Sessions): 76  (Ranked 435)  
+Sum: 611 (Ranked 339)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 75 |
+| This game is Great for Quick Sessions | 76 |
 | This game has Diverse Characters | 74 |
 | This game has Quickly Understood Controls | 69 |
 | This game is Great for Beginners | 67 |
@@ -270,3 +270,4 @@ Diff (max vs sum): 100
 | 2024-03-18 | 4.30 | - | 75 | 606 |
 | 2024-03-19 | 4.30 | - | 75 | 609 |
 | 2024-03-21 | 4.30 | - | 75 | 610 |
+| 2024-03-28 | 4.30 | - | 76 | 611 |

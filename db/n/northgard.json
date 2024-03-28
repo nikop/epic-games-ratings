@@ -2,7 +2,7 @@
   "ID": "9afbc4780d874152a1c66d5fec0967d4",
   "Name": "Northgard",
   "ProductSlug": "northgard",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 339,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 82,
   "RatingHistory": [
     {
@@ -706,6 +706,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 232,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-03-28T20:57:55.722326+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 232,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -779,8 +785,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2024-03-26T21:00:23.7067564+00:00",
+  "LastChanged": "2024-03-28T20:57:55.7223258+00:00",
   "LastUpdate_AppInfo": "2024-03-24T12:59:28.1261302+00:00",
-  "LastUpdate_Ratings": "2024-03-28T19:00:01.9396158+00:00",
+  "LastUpdate_Ratings": "2024-03-28T20:57:55.7223265+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:36.8837915+00:00"
 }
