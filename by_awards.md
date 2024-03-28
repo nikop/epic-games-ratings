@@ -58,11 +58,11 @@
 | 56 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 8,540 | 4.69 | 246 |
 | 57 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,502 | 4.84 | 46 |
 | 58 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 8,493 | 4.50 | 640 |
-| 59 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,298 | 4.69 | 246 |
+| 59 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,301 | 4.69 | 246 |
 | 60 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,028 | 4.71 | 209 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,009 | 4.75 | 151 |
 | 62 | [Supraland](games/s/supraland.md) | 7,832 | 4.61 | 413 |
-| 63 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 7,801 | 4.49 | 661 |
+| 63 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 7,819 | 4.49 | 661 |
 | 64 | [Sifu](games/s/sifu.md) | 7,597 | 4.82 | 70 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,354 | 4.66 | 311 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,995 | 4.83 | 56 |
@@ -614,7 +614,7 @@
 | 610 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 21 | 4.41 | 777 |
 | 610 | [Black Book](games/b/black_book.md) | 21 | 4.64 | 358 |
 | 610 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 21 | 5.00 | 1 |
-| 610 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 21 | 3.94 | 1,114 |
+| 610 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 21 | 3.95 | 1,109 |
 | 610 | [Figment](games/f/figment.md) | 21 | 4.48 | 676 |
 | 610 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 21 | 4.65 | 337 |
 | 610 | [Tails of Iron](games/t/tails_of_iron.md) | 21 | 4.58 | 482 |

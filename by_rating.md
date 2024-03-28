@@ -250,7 +250,7 @@
 | 246 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 623 |
 | 246 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 132 | 365 |
 | 246 | [Coromon](games/c/coromon.md) | 4.69 | 49 | 493 |
-| 246 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,298 | 59 |
+| 246 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,301 | 59 |
 | 246 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,770 | 54 |
 | 246 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 8,540 | 56 |
 | 246 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 9,251 | 50 |
@@ -664,7 +664,7 @@
 | 661 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,068 | 126 |
 | 661 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 623 |
 | 661 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 105 | 389 |
-| 661 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,801 | 63 |
+| 661 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,819 | 63 |
 | 661 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 623 |
 | 661 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 623 |
 | 661 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.49 | 0 | 623 |
@@ -1109,11 +1109,11 @@
 | 1,105 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.96 | 0 | 623 |
 | 1,105 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.96 | 43 | 504 |
 | 1,109 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 501 |
+| 1,109 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.95 | 21 | 610 |
 | 1,109 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.95 | 31 | 550 |
 | 1,109 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.95 | 0 | 623 |
 | 1,109 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 86 | 418 |
 | 1,109 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.95 | 0 | 623 |
-| 1,114 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.94 | 21 | 610 |
 | 1,115 | [Potion Permit](games/p/potion_permit.md) | 3.93 | 76 | 435 |
 | 1,115 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 3.93 | 0 | 623 |
 | 1,117 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.92 | 0 | 623 |
