@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 483,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -3457,10 +3457,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 776,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2024-03-28T16:59:22.3977183+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 777,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 776,
+  "NumberOfAwards": 777,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -3468,7 +3474,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 123
+      "Count": 124
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3548,8 +3554,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2024-03-27T21:00:54.5821602+00:00",
+  "LastChanged": "2024-03-28T16:59:22.3977182+00:00",
   "LastUpdate_AppInfo": "2024-03-24T11:57:08.194956+00:00",
-  "LastUpdate_Ratings": "2024-03-28T15:57:45.791422+00:00",
+  "LastUpdate_Ratings": "2024-03-28T16:59:22.3977185+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:23.1506688+00:00"
 }
