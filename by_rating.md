@@ -108,7 +108,7 @@
 | 99 | [Huntdown](games/h/huntdown.md) | 4.79 | 0 | 623 |
 | 99 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,547 | 142 |
 | 99 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 922 | 184 |
-| 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,861 | 110 |
+| 99 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,866 | 110 |
 | 99 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 432 | 245 |
 | 99 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 119 | 377 |
 | 99 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 623 |
@@ -203,7 +203,7 @@
 | 201 | [Dead Space](games/d/dead_space.md) | 4.72 | 417 | 248 |
 | 201 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.72 | 0 | 623 |
 | 201 | [FUSER™](games/f/fuser™.md) | 4.72 | 36 | 529 |
-| 201 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 39,358 | 16 |
+| 201 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 39,728 | 16 |
 | 201 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.72 | 0 | 623 |
 | 201 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 623 |
 | 201 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 375 | 255 |
@@ -580,21 +580,21 @@
 | 559 | [Sable](games/s/sable.md) | 4.54 | 31 | 550 |
 | 559 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 98 | 403 |
 | 559 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 623 |
-| 559 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.54 | 66 | 455 |
 | 559 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 623 |
 | 559 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.54 | 0 | 623 |
 | 559 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 406 | 251 |
-| 585 | [Dauntless](games/d/dauntless.md) | 4.53 | 27,965 | 19 |
-| 585 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 26 | 576 |
-| 585 | [Everything](games/e/everything.md) | 4.53 | 0 | 623 |
-| 585 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 623 |
-| 585 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 34 | 537 |
-| 585 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 623 |
-| 585 | [Redout 2](games/r/redout_2.md) | 4.53 | 0 | 623 |
-| 585 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.53 | 0 | 623 |
-| 585 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 553 | 227 |
-| 585 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,105 | 163 |
-| 585 | [Verdun](games/v/verdun.md) | 4.53 | 110 | 385 |
+| 584 | [Dauntless](games/d/dauntless.md) | 4.53 | 27,965 | 19 |
+| 584 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 26 | 576 |
+| 584 | [Everything](games/e/everything.md) | 4.53 | 0 | 623 |
+| 584 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 623 |
+| 584 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 34 | 537 |
+| 584 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 623 |
+| 584 | [Redout 2](games/r/redout_2.md) | 4.53 | 0 | 623 |
+| 584 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.53 | 0 | 623 |
+| 584 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 66 | 455 |
+| 584 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 553 | 227 |
+| 584 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,105 | 163 |
+| 584 | [Verdun](games/v/verdun.md) | 4.53 | 110 | 385 |
 | 596 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 0 | 623 |
 | 596 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.52 | 0 | 623 |
 | 596 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 241 | 295 |
@@ -876,22 +876,22 @@
 | 870 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 47 | 496 |
 | 870 | [Encased](games/e/encased.md) | 4.34 | 174 | 338 |
 | 870 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.34 | 0 | 623 |
+| 870 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.34 | 0 | 623 |
 | 870 | [House Party](games/h/house_party.md) | 4.34 | 0 | 623 |
 | 870 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 36 | 529 |
 | 870 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 279 | 285 |
 | 870 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 623 |
 | 870 | [Speed Brawl](games/s/speed_brawl.md) | 4.34 | 29 | 560 |
-| 882 | [Among Trees](games/a/among_trees.md) | 4.33 | 0 | 623 |
-| 882 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 623 |
-| 882 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 623 |
-| 882 | [Filament](games/f/filament.md) | 4.33 | 595 | 221 |
-| 882 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.33 | 0 | 623 |
-| 882 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.33 | 0 | 623 |
-| 882 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 111 | 384 |
-| 882 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.33 | 0 | 623 |
-| 882 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 623 |
-| 882 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 623 |
-| 882 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 571 | 225 |
+| 883 | [Among Trees](games/a/among_trees.md) | 4.33 | 0 | 623 |
+| 883 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 623 |
+| 883 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 623 |
+| 883 | [Filament](games/f/filament.md) | 4.33 | 595 | 221 |
+| 883 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.33 | 0 | 623 |
+| 883 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 111 | 384 |
+| 883 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.33 | 0 | 623 |
+| 883 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 623 |
+| 883 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 623 |
+| 883 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 571 | 225 |
 | 893 | [Ashen](games/a/ashen.md) | 4.32 | 22 | 602 |
 | 893 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.32 | 109 | 388 |
 | 893 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 623 |
