@@ -4,7 +4,7 @@
   "ProductSlug": "pc-building-simulator",
   "Ranking_Rating": 338,
   "Ranking_Popularity": 155,
-  "Ranking_PopularitySum": 123,
+  "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -6647,10 +6647,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 8486,
       "NumberOfAwardsMax": 1182
+    },
+    {
+      "Time": "2024-03-28T10:57:28.7680733+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 8487,
+      "NumberOfAwardsMax": 1182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8486,
+  "NumberOfAwards": 8487,
   "NumberOfAwardsMax": 1182,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6664,7 +6670,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1018
+      "Count": 1019
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -39757,9 +39763,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
-  "LastChanged": "2024-03-27T03:58:07.9563998+00:00",
+  "LastChanged": "2024-03-28T10:57:28.7680731+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:54.2199733+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:13.3398402+00:00",
-  "LastUpdate_Ratings": "2024-03-28T08:59:14.7806484+00:00",
+  "LastUpdate_Ratings": "2024-03-28T10:57:28.7680738+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:54.2201778+00:00"
 }
