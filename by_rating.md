@@ -179,7 +179,7 @@
 | 169 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 166 | 343 |
 | 169 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 930 | 182 |
 | 169 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.74 | 0 | 623 |
-| 169 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,140 | 159 |
+| 169 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,145 | 159 |
 | 169 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 623 |
 | 169 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 623 |
 | 183 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 501 | 231 |
@@ -299,7 +299,7 @@
 | 290 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 335,524 | 4 |
 | 290 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 623 |
 | 290 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 519 | 228 |
-| 290 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,368 | 118 |
+| 290 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,370 | 118 |
 | 290 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 752 | 200 |
 | 290 | [Outlast 2](games/o/outlast_2.md) | 4.67 | 0 | 623 |
 | 290 | [Road 96](games/r/road_96.md) | 4.67 | 0 | 623 |
