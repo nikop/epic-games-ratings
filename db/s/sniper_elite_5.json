@@ -3,7 +3,7 @@
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 661,
-  "Ranking_Popularity": 509,
+  "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 307,
@@ -761,18 +761,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-03-28T07:58:19.9581606+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 63,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10732,9 +10738,9 @@
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2024-03-21T17:04:41.5187096+00:00",
+  "LastChanged": "2024-03-28T07:58:19.9581605+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:22.9400114+00:00",
   "LastUpdate_AppInfo": "2024-03-24T01:43:06.7962017+00:00",
-  "LastUpdate_Ratings": "2024-03-28T05:59:47.7088562+00:00",
+  "LastUpdate_Ratings": "2024-03-28T07:58:19.9581609+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:22.9400985+00:00"
 }
