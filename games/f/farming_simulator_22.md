@@ -1,7 +1,7 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.67 (Ranked 292)  
+Rating: 4.67 (Ranked 291)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -336,12 +336,12 @@ Completed: 9 (0.01%) (Ranked 423)
 | 2024-02-22 | 66,287 | 9 |
 | 2024-03-21 | 68,250 | 9 |
 ## Awards
-Max (Great for Beginners): 6,823  (Ranked 68)  
-Sum: 49,207 (Ranked 33)  
+Max (Great for Beginners): 6,834  (Ranked 68)  
+Sum: 49,218 (Ranked 33)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 6,823 |
+| This game is Great for Beginners | 6,834 |
 | This game has Diverse Characters | 5,478 |
 | This game is Highly Recommended | 4,907 |
 | This game is Educational | 4,842 |
@@ -792,4 +792,4 @@ Diff (max vs sum): 35
 | 2024-03-25 | 4.67 | - | 6,805 | 49,047 |
 | 2024-03-26 | 4.67 | - | 6,811 | 49,102 |
 | 2024-03-27 | 4.67 | - | 6,823 | 49,159 |
-| 2024-03-28 | 4.67 | - | 6,823 | 49,207 |
+| 2024-03-28 | 4.67 | - | 6,834 | 49,218 |

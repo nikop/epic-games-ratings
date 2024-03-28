@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.52 (Ranked 598)  
+Rating: 4.51 (Ranked 618)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -445,3 +445,4 @@ Diff (max vs sum): -96
 | 2024-02-01 | 4.52 | - | 159 | 204 |
 | 2024-02-03 | 4.52 | - | 160 | 205 |
 | 2024-02-28 | 4.52 | - | 161 | 206 |
+| 2024-03-28 | 4.51 | - | 161 | 206 |

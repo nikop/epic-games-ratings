@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.61 (Ranked 415)  
+Rating: 4.61 (Ranked 414)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
