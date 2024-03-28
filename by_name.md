@@ -554,7 +554,7 @@
 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 825 | 0 | 623 |
 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.30 | 910 | 34 | 537 |
 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 795 | 0 | 623 |
-| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 1,068 | 78 | 432 |
+| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 1,068 | 78 | 433 |
 | [Camp Canyonwood](games/7/760df178070b4dcbbfbe498b07b5d1a8.md) | - | - | 0 | - |
 | [Camp Sunshine](games/c/camp_sunshine.md) | - | - | 0 | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | - | - | - | - |
@@ -1286,7 +1286,7 @@
 | [Football Manager 2021](games/f/football_manager_2021.md) | - | - | - | - |
 | [Football Manager 2021 Touch](games/f/football_manager_2021_touch.md) | - | - | - | - |
 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 93 | 6,523 | 71 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 151 | 1,546 | 142 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 151 | 1,546 | 143 |
 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 99 | 386 | 253 |
 | [Football Stars Legend 24](games/d/d5761edf0cbb4815a96c65013863cc9a.md) | - | - | - | - |
 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 596 | 0 | 623 |
@@ -1424,7 +1424,7 @@
 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 56 | 634 | 214 |
 | [Goblin's mystic war](games/3/3af8858720374a80a12d98bff9d9bda1.md) | - | - | - | - |
 | [Goblins of Elderstone](games/g/goblins_of_elderstone.md) | - | - | 0 | - |
-| [God of War](games/g/god_of_war.md) | 4.87 | 20 | 5,422 | 82 |
+| [God of War](games/g/god_of_war.md) | 4.87 | 20 | 5,422 | 83 |
 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 1,044 | 28 | 565 |
 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.06 | 1,084 | 609 | 219 |
 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 585 | 0 | 623 |
@@ -1789,7 +1789,7 @@
 | [Kendo Warrior](games/1/1b93bdbbc5934ba5bc467d797bd30957.md) | - | - | - | - |
 | [KenShape](games/k/kenshape.md) | - | - | 0 | - |
 | [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | - | - | - | - |
-| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 99 | 1,543 | 144 |
+| [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 99 | 1,547 | 142 |
 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 900 | 84 | 422 |
 | [KeyWe](games/k/keywe.md) | - | - | 0 | - |
 | [Kholat](games/k/kholat.md) | - | - | 0 | - |
@@ -2158,7 +2158,7 @@
 | [MORDHAU](games/m/mordhau.md) | 4.37 | 837 | 1,519 | 145 |
 | [Morels: The Hunt](games/m/morels__the_hunt.md) | - | - | 0 | - |
 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 508 | 3,614 | 103 |
-| [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.35 | 863 | 78 | 432 |
+| [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.35 | 863 | 79 | 429 |
 | [Mortal Shell](games/m/mortal_shell.md) | 4.27 | 947 | 23 | 598 |
 | [Mortal Street Fighter](games/5/58ac7dee6bc7429db98fdae628f179ce.md) | - | - | 0 | - |
 | [Mosaics Galore](games/0/00b0ca412bb94ca9a6945f71b2a16cc5.md) | - | - | 0 | - |
@@ -2901,8 +2901,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 209 | 29 | 560 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.41 | 777 | 287 | 282 |
@@ -2976,7 +2976,7 @@
 | [Smart Thief](games/s/smart_thief.md) | - | - | - | - |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | - | - | - | - |
 | [Smelter](games/s/smelter.md) | - | - | 0 | - |
-| [SMITE](games/s/smite.md) | 4.42 | 763 | 5,421 | 83 |
+| [SMITE](games/s/smite.md) | 4.42 | 763 | 5,429 | 82 |
 | [SMITE 2](games/1/16ed9f15b1b449ccb59cb610b13df5b8.md) | - | - | - | - |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | - | - | - | - |
 | [Snake Pass](games/s/snake_pass.md) | - | - | 0 | - |
@@ -3503,7 +3503,7 @@
 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 373 | 1,839 | 135 |
 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 640 | 8,493 | 58 |
 | [The Outforce](games/d/d2c6f5756ece4c8ab2ddd396c76af68d.md) | - | - | 0 | - |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 337 | 467 | 239 |
+| [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 337 | 468 | 239 |
 | [The Pale Beyond](games/t/the_pale_beyond.md) | - | - | 0 | - |
 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.28 | 933 | 0 | 623 |
 | [The Pathless](games/t/the_pathless.md) | 4.70 | 225 | 0 | 623 |
@@ -3610,7 +3610,7 @@
 | [Through the Woods](games/t/through_the_woods.md) | - | - | 0 | - |
 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | - | - | 0 | - |
 | [Thunder Tier One Modding Tool](games/t/thunder_tier_one_modding_tool.md) | - | - | - | - |
-| [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 413 | 78 | 432 |
+| [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 413 | 78 | 433 |
 | [Tiki Tandems](games/b/b40c9a6594ec42518376f7899c4daa22.md) | - | - | - | - |
 | [Timberborn](games/t/timberborn.md) | 4.73 | 183 | 186 | 328 |
 | [Time Commando](games/b/ba12e8eb6a7f4f2d803a2bd73dd7efde.md) | - | - | 0 | - |
@@ -3655,7 +3655,7 @@
 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.42 | 763 | 0 | 623 |
 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 443 | 514 | 229 |
 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.24 | 970 | 0 | 623 |
-| [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 311 | 6,190 | 73 |
+| [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 311 | 6,192 | 73 |
 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.68 | 271 | 0 | 623 |
 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 70 | 102 | 393 |
 | [Tools Up! Ultimate Edition](games/6/664885023b1443f799f03a9b94937fda.md) | - | - | 0 | - |
@@ -3841,7 +3841,7 @@
 | [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | - | - | - | - |
 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 16 | 0 | 623 |
 | [Valkyrie](games/v/valkyrie.md) | - | - | - | - |
-| [VALORANT](games/v/valorant.md) | 4.51 | 615 | 107,556 | 10 |
+| [VALORANT](games/v/valorant.md) | 4.51 | 615 | 107,823 | 10 |
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | - | - | - | - |
 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 996 | 79 | 429 |
 | [Vampire: The Masquerade® - Bloodlines™ 2](games/v/vampire__the_masquerade®_-_bloodlines™_2.md) | - | - | - | - |
@@ -3898,8 +3898,8 @@
 | [Wanderlust: Travel Stories](games/w/wanderlust__travel_stories.md) | - | - | 0 | - |
 | [Wanna Survive](games/w/wanna_survive.md) | - | - | 0 | - |
 | [Wanted: Dead](games/w/wanted_dead.md) | - | - | 0 | - |
-| [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | - | - | 0 | - |
 | [War Hospital](games/w/war_hospital.md) | - | - | - | - |
+| [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | - | - | 0 | - |
 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 825 | 0 | 623 |
 | [Warface: Clutch](games/w/warface.md) | 3.89 | 1,123 | 500 | 232 |
 | [WarForwards](games/w/warforwards.md) | - | - | 0 | - |
@@ -4032,7 +4032,7 @@
 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | - | - | - | - |
 | [Wytchwood](games/w/wytchwood.md) | - | - | 0 | - |
 | [Wyvia](games/f/f8746c4784114e1b9d000187539201f4.md) | - | - | - | - |
-| [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 545 | 1,544 | 143 |
+| [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 545 | 1,544 | 144 |
 | [Xenonauts 2](games/x/xenonauts_2.md) | - | - | 0 | - |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | - | - | - | - |
 | [XIII](games/x/xiii.md) | - | - | 0 | - |
