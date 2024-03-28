@@ -2,7 +2,7 @@
   "ID": "71e66acf6bb34733bd98514ebf9fcaf8",
   "Name": "Observer: System Redux",
   "ProductSlug": "observer-system-redux",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 623,
   "Ranking_PopularitySum": 623,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2022-10-25T15:33:31.6358604+00:00",
@@ -131,6 +131,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-28T11:58:08.7442049+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -149,8 +155,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:29.9715628+00:00",
   "FirstSeenRating": "2022-10-25T15:33:31.63586+00:00",
-  "LastChanged": "2024-03-17T21:58:43.9948916+00:00",
+  "LastChanged": "2024-03-28T11:58:08.744199+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:02.2567538+00:00",
-  "LastUpdate_Ratings": "2024-03-28T09:59:44.1401753+00:00",
+  "LastUpdate_Ratings": "2024-03-28T11:58:08.7442052+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:13.0552869+00:00"
 }

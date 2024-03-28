@@ -1,7 +1,7 @@
 # The Lion's Song
 [Store](https://store.epicgames.com/en-US/p/the-lions-song)  
 [View Rawdata](../../db/t/the_lion's_song.json)  
-Rating: 4.40 (Ranked 795)  
+Rating: 4.40 (Ranked 794)  
 Number of Ratings: 67  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
