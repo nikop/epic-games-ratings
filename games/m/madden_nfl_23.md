@@ -166,7 +166,7 @@ Completed: 0 (0.00%) (Ranked 445)
 | 2024-03-21 | 4,932 | 0 |
 ## Awards
 Max (Diverse Characters): 56  (Ranked 471)  
-Sum: 258 (Ranked 426)  
+Sum: 259 (Ranked 426)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -178,7 +178,7 @@ Diff (max vs sum): 45
 | This game is Educational | 28 |
 | This game has Realistic Visuals | 24 |
 | This game has Competitive Players | 21 |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -375,3 +375,4 @@ Diff (max vs sum): 45
 | 2024-03-21 | 4.31 | 56 | 285 |
 | 2024-03-23 | 4.31 | 56 | 257 |
 | 2024-03-24 | 4.31 | 56 | 258 |
+| 2024-03-28 | 4.31 | 56 | 259 |
