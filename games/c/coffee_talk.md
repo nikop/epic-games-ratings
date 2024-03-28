@@ -1,7 +1,7 @@
 # Coffee Talk
 [Store](https://store.epicgames.com/en-US/p/coffee-talk)  
 [View Rawdata](../../db/c/coffee_talk.json)  
-Rating: 4.86 (Ranked 28)  
+Rating: 4.86 (Ranked 29)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
