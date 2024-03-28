@@ -2,7 +2,7 @@
   "ID": "ee8802651a004c48999169fa32eb4903",
   "Name": "Mafia: Definitive Edition",
   "ProductSlug": "mafia-definitive-edition",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 374,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA,TW,BH,YE,OM"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 2035,
   "RatingHistory": [
     {
@@ -1530,6 +1530,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 901,
       "NumberOfAwardsMax": 723
+    },
+    {
+      "Time": "2024-03-28T21:58:34.5060157+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 901,
+      "NumberOfAwardsMax": 723
     }
   ],
   "ReviewsDisabled": false,
@@ -1597,8 +1603,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2024-03-26T20:59:30.6452963+00:00",
+  "LastChanged": "2024-03-28T21:58:34.5060156+00:00",
   "LastUpdate_AppInfo": "2024-03-24T10:57:13.9916962+00:00",
-  "LastUpdate_Ratings": "2024-03-28T20:57:12.9984237+00:00",
+  "LastUpdate_Ratings": "2024-03-28T21:58:34.5060162+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:36.1671741+00:00"
 }
