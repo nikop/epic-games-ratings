@@ -28,7 +28,7 @@
 | 26 | [Satisfactory](games/s/satisfactory.md) | 16,536 | 4.87 | 20 |
 | 27 | [SnowRunner](games/s/snowrunner.md) | 16,257 | 4.75 | 151 |
 | 28 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 15,570 | 4.58 | 482 |
-| 29 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,501 | 4.60 | 443 |
+| 29 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,507 | 4.60 | 443 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,877 | 4.44 | 732 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,839 | 4.84 | 46 |
 | 32 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,806 | 4.58 | 482 |
@@ -180,7 +180,7 @@
 | 178 | [Alan Wake 2](games/a/alan_wake_2.md) | 972 | 4.80 | 93 |
 | 179 | [Dishonored 2](games/d/dishonored_2.md) | 959 | 4.78 | 115 |
 | 180 | [FAR CRY 4](games/f/far_cry_4.md) | 954 | 4.68 | 271 |
-| 181 | [Brawlhalla](games/b/brawlhalla.md) | 944 | 4.59 | 466 |
+| 181 | [Brawlhalla](games/b/brawlhalla.md) | 951 | 4.59 | 466 |
 | 182 | [The Long Dark](games/t/the_long_dark.md) | 930 | 4.74 | 169 |
 | 183 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 925 | 4.45 | 713 |
 | 184 | [Auto Chess](games/a/auto_chess.md) | 922 | 4.50 | 640 |
@@ -416,7 +416,7 @@
 | 414 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 91 | 4.60 | 443 |
 | 415 | [WarmSnow](games/w/warmsnow.md) | 90 | 4.79 | 99 |
 | 416 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 89 | 4.59 | 466 |
-| 417 | [Ranch Simulator](games/r/ranch_simulator.md) | 87 | 4.40 | 795 |
+| 417 | [Ranch Simulator](games/r/ranch_simulator.md) | 88 | 4.40 | 795 |
 | 418 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 86 | 3.95 | 1,109 |
 | 418 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 86 | 4.74 | 169 |
 | 418 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 86 | 4.61 | 413 |

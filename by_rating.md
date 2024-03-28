@@ -447,7 +447,7 @@
 | 443 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 91 | 414 |
 | 443 | [DOOM 3](games/d/doom_3.md) | 4.60 | 72 | 447 |
 | 443 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.60 | 68 | 452 |
-| 443 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 15,501 | 29 |
+| 443 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 15,507 | 29 |
 | 443 | [Fuga: Melodies of Steel](games/f/fuga__melodies_of_steel.md) | 4.60 | 0 | 623 |
 | 443 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 149 | 355 |
 | 443 | [GRIME](games/g/grime.md) | 4.60 | 74 | 441 |
@@ -468,7 +468,7 @@
 | 466 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 623 |
 | 466 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 623 |
 | 466 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.59 | 103 | 390 |
-| 466 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 944 | 181 |
+| 466 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 951 | 181 |
 | 466 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,521 | 81 |
 | 466 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 65 | 456 |
 | 466 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.59 | 42 | 507 |
@@ -806,7 +806,7 @@
 | 795 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.40 | 657 | 211 |
 | 795 | [King's Bounty: Warriors of the North](games/k/king's_bounty__warriors_of_the_north.md) | 4.40 | 0 | 623 |
 | 795 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.40 | 0 | 623 |
-| 795 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 87 | 417 |
+| 795 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.40 | 88 | 417 |
 | 795 | [Rebel Cops](games/r/rebel_cops.md) | 4.40 | 0 | 623 |
 | 795 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 435 |
 | 795 | [Sail Forth](games/s/sail_forth.md) | 4.40 | 24 | 591 |
