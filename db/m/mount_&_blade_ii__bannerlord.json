@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 111,
@@ -12778,18 +12778,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 18333,
       "NumberOfAwardsMax": 8890
+    },
+    {
+      "Time": "2024-03-28T12:58:59.69128+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 18349,
+      "NumberOfAwardsMax": 8904
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18333,
-  "NumberOfAwardsMax": 8890,
+  "NumberOfAwards": 18349,
+  "NumberOfAwardsMax": 8904,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8890
+      "Count": 8904
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12825,7 +12831,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 999
+      "Count": 1000
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12849,7 +12855,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 773
+      "Count": 774
     },
     {
       "Text": "This game has Competitive Players",
@@ -43642,9 +43648,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-03-28T06:58:23.3244549+00:00",
+  "LastChanged": "2024-03-28T12:58:59.6912798+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:42.5404608+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:19.9140042+00:00",
-  "LastUpdate_Ratings": "2024-03-28T10:59:47.4809278+00:00",
+  "LastUpdate_Ratings": "2024-03-28T12:58:59.6912804+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:42.5407165+00:00"
 }
