@@ -4,7 +4,7 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 373,
   "Ranking_Popularity": 353,
-  "Ranking_PopularitySum": 292,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -2881,10 +2881,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 967,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2024-03-28T18:57:49.4092419+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 971,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 967,
+  "NumberOfAwards": 971,
   "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2904,7 +2910,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 115
+      "Count": 118
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2952,7 +2958,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game is Educational",
@@ -14686,9 +14692,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-03-28T13:00:47.9885532+00:00",
+  "LastChanged": "2024-03-28T18:57:49.4092418+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:04.0712638+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:58.5153617+00:00",
-  "LastUpdate_Ratings": "2024-03-28T17:00:40.7683326+00:00",
+  "LastUpdate_Ratings": "2024-03-28T18:57:49.4092423+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:04.0713533+00:00"
 }
