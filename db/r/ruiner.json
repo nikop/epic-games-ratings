@@ -2,7 +2,7 @@
   "ID": "74d82b28ab424956ac24407229fe6faa",
   "Name": "RUINER",
   "ProductSlug": "ruiner",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 547,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 593,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 137,
   "RatingHistory": [
     {
@@ -374,6 +374,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-03-29T21:58:31.4157288+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
@@ -399,8 +405,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:12.7413327+00:00",
-  "LastChanged": "2024-02-05T18:59:28.7985478+00:00",
+  "LastChanged": "2024-03-29T21:58:31.4157286+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:27.0908492+00:00",
-  "LastUpdate_Ratings": "2024-03-29T20:00:37.5967035+00:00",
+  "LastUpdate_Ratings": "2024-03-29T21:58:31.4157292+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:07.7330529+00:00"
 }

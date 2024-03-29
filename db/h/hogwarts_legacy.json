@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 168,
+  "Ranking_Rating": 167,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 59,
@@ -17077,10 +17077,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 79446,
       "NumberOfAwardsMax": 36534
+    },
+    {
+      "Time": "2024-03-29T21:58:22.8734761+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 79449,
+      "NumberOfAwardsMax": 36534
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79446,
+  "NumberOfAwards": 79449,
   "NumberOfAwardsMax": 36534,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17136,7 +17142,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2346
+      "Count": 2349
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -48264,9 +48270,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-03-29T18:58:51.8013406+00:00",
+  "LastChanged": "2024-03-29T21:58:22.8734759+00:00",
   "LastChanged_Achievements": "2024-03-21T17:10:35.4684809+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:29.1172694+00:00",
-  "LastUpdate_Ratings": "2024-03-29T20:00:28.9125022+00:00",
+  "LastUpdate_Ratings": "2024-03-29T21:58:22.8734763+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:35.4687038+00:00"
 }

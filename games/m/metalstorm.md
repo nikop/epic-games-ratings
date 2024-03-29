@@ -34,8 +34,8 @@ Completed: 0 (0.00%) (Ranked 445)
 | 2024-03-21 | 20,912 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 40  (Ranked 519)  
-Sum: 172 (Ranked 464)  
-Diff (max vs sum): 55  
+Sum: 173 (Ranked 463)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 40 |
@@ -44,7 +44,7 @@ Diff (max vs sum): 55
 | This game has a Competitive Community | 26 |
 | This game has Diverse Characters | 24 |
 | This game has Quickly Understood Controls | 22 |
-| This game is Highly Recommended | 21 |
+| This game is Highly Recommended | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -140,4 +140,4 @@ Diff (max vs sum): 55
 | 2024-03-25 | 4.43 | 38 | 165 |
 | 2024-03-26 | 4.43 | 38 | 168 |
 | 2024-03-28 | 4.42 | 40 | 170 |
-| 2024-03-29 | 4.42 | 40 | 172 |
+| 2024-03-29 | 4.42 | 40 | 173 |
