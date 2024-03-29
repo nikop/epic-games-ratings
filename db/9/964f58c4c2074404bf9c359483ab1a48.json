@@ -2,9 +2,9 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 885,
+  "Ranking_Rating": 872,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-06-02T07:56:53.116018+00:00",
@@ -2797,10 +2797,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 782,
       "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2024-03-29T18:57:34.471791+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 784,
+      "NumberOfAwardsMax": 113
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 782,
+  "NumberOfAwards": 784,
   "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2826,7 +2832,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2856,7 +2862,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Playful Visuals",
@@ -31345,9 +31351,9 @@
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2024-03-28T20:00:23.1008334+00:00",
+  "LastChanged": "2024-03-29T18:57:34.4717905+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:19.9432317+00:00",
   "LastUpdate_AppInfo": "2024-03-22T20:57:05.7664896+00:00",
-  "LastUpdate_Ratings": "2024-03-29T17:00:18.6042159+00:00",
+  "LastUpdate_Ratings": "2024-03-29T18:57:34.4717914+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:19.9433962+00:00"
 }

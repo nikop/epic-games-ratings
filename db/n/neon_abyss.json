@@ -2,7 +2,7 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
-  "Ranking_Rating": 292,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 8340,
   "RatingHistory": [
     {
@@ -5109,10 +5109,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5749,
       "NumberOfAwardsMax": 752
+    },
+    {
+      "Time": "2024-03-29T18:57:37.6859748+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5750,
+      "NumberOfAwardsMax": 752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5749,
+  "NumberOfAwards": 5750,
   "NumberOfAwardsMax": 752,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5168,7 +5174,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 522
+      "Count": 523
     },
     {
       "Text": "This game has a Creative Community",
@@ -5188,8 +5194,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2024-03-28T14:57:43.5640851+00:00",
+  "LastChanged": "2024-03-29T18:57:37.6859746+00:00",
   "LastUpdate_AppInfo": "2024-03-24T01:43:04.5418861+00:00",
-  "LastUpdate_Ratings": "2024-03-29T17:00:21.9865319+00:00",
+  "LastUpdate_Ratings": "2024-03-29T18:57:37.6859751+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:18.2901693+00:00"
 }
