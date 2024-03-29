@@ -2,7 +2,7 @@
   "ID": "d79920221de24b448e24516a7810804e",
   "Name": "Relicta",
   "ProductSlug": "relicta",
-  "Ranking_Rating": 1047,
+  "Ranking_Rating": 1055,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "NumberOfRatings": 429,
   "RatingHistory": [
     {
@@ -658,6 +658,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 281,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2024-03-29T09:59:36.2566301+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 281,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
@@ -689,8 +695,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2024-02-04T07:01:02.2300825+00:00",
+  "LastChanged": "2024-03-29T09:59:36.2566299+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:11.6226647+00:00",
-  "LastUpdate_Ratings": "2024-03-29T08:58:40.2338779+00:00",
+  "LastUpdate_Ratings": "2024-03-29T09:59:36.2566305+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:26.3819411+00:00"
 }
