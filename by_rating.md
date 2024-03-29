@@ -183,7 +183,7 @@
 | 168 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 623 |
 | 168 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 623 |
 | 183 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 502 | 231 |
-| 183 | [Barony](games/b/barony.md) | 4.73 | 116 | 381 |
+| 183 | [Barony](games/b/barony.md) | 4.73 | 117 | 379 |
 | 183 | [Diabotical](games/d/diabotical.md) | 4.73 | 309 | 271 |
 | 183 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 55 | 473 |
 | 183 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 623 |
@@ -271,7 +271,7 @@
 | 247 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 623 |
 | 247 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,133 | 160 |
 | 247 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 249 | 291 |
-| 272 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,557 | 91 |
+| 272 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,560 | 91 |
 | 272 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 783 | 199 |
 | 272 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 73 | 446 |
 | 272 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 623 |
@@ -297,7 +297,7 @@
 | 291 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 52 | 483 |
 | 291 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.67 | 20 | 619 |
 | 291 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,834 | 68 |
-| 291 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 335,524 | 4 |
+| 291 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 335,650 | 4 |
 | 291 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 623 |
 | 291 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 520 | 228 |
 | 291 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,370 | 118 |
@@ -350,7 +350,7 @@
 | 338 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 60 | 461 |
 | 338 | [Northgard](games/n/northgard.md) | 4.65 | 45 | 501 |
 | 338 | [Old World](games/o/old_world.md) | 4.65 | 238 | 297 |
-| 338 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,182 | 155 |
+| 338 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,185 | 155 |
 | 338 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 61 | 460 |
 | 338 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 451 |
 | 338 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 623 |
@@ -698,13 +698,13 @@
 | 687 | [The Escapists](games/t/the_escapists.md) | 4.47 | 0 | 623 |
 | 687 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 0 | 623 |
 | 687 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 623 |
-| 687 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,182 | 155 |
+| 687 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,182 | 156 |
 | 700 | [Absolute Drift](games/a/absolute_drift.md) | 4.46 | 0 | 623 |
 | 700 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 623 |
 | 700 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 623 |
 | 700 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,400 | 94 |
 | 700 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 623 |
-| 700 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,182 | 155 |
+| 700 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,182 | 156 |
 | 700 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.46 | 0 | 623 |
 | 700 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 623 |
 | 700 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.46 | 0 | 623 |
@@ -886,6 +886,7 @@
 | 872 | [Speed Brawl](games/s/speed_brawl.md) | 4.34 | 29 | 563 |
 | 885 | [Among Trees](games/a/among_trees.md) | 4.33 | 0 | 623 |
 | 885 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 623 |
+| 885 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.33 | 0 | 623 |
 | 885 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 623 |
 | 885 | [Filament](games/f/filament.md) | 4.33 | 595 | 221 |
 | 885 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.33 | 0 | 623 |
@@ -894,25 +895,24 @@
 | 885 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 623 |
 | 885 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 623 |
 | 885 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 571 | 225 |
-| 895 | [Ashen](games/a/ashen.md) | 4.32 | 22 | 602 |
-| 895 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.32 | 109 | 388 |
-| 895 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 623 |
-| 895 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.32 | 0 | 623 |
-| 895 | [Paladins](games/p/paladins.md) | 4.32 | 4,269 | 95 |
-| 895 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.32 | 0 | 623 |
-| 895 | [Vampyr](games/v/vampyr.md) | 4.32 | 602 | 220 |
-| 902 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.31 | 24 | 592 |
-| 902 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 416 | 249 |
-| 902 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 0 | 623 |
-| 902 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.31 | 0 | 623 |
-| 902 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 86 | 421 |
-| 902 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.31 | 0 | 623 |
-| 902 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.31 | 56 | 471 |
-| 902 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.31 | 0 | 623 |
-| 902 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,009 | 176 |
-| 902 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 623 |
-| 902 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.31 | 24 | 592 |
-| 902 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 623 |
+| 896 | [Ashen](games/a/ashen.md) | 4.32 | 22 | 602 |
+| 896 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.32 | 109 | 388 |
+| 896 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 623 |
+| 896 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.32 | 0 | 623 |
+| 896 | [Paladins](games/p/paladins.md) | 4.32 | 4,269 | 95 |
+| 896 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.32 | 0 | 623 |
+| 896 | [Vampyr](games/v/vampyr.md) | 4.32 | 602 | 220 |
+| 903 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.31 | 24 | 592 |
+| 903 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 416 | 249 |
+| 903 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 0 | 623 |
+| 903 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 86 | 421 |
+| 903 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.31 | 0 | 623 |
+| 903 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.31 | 56 | 471 |
+| 903 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.31 | 0 | 623 |
+| 903 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,009 | 176 |
+| 903 | [Scrapnaut](games/s/scrapnaut.md) | 4.31 | 0 | 623 |
+| 903 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.31 | 24 | 592 |
+| 903 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 623 |
 | 914 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.30 | 0 | 623 |
 | 914 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.30 | 34 | 538 |
 | 914 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.30 | 0 | 623 |
