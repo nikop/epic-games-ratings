@@ -4,7 +4,7 @@
   "ProductSlug": "banishers-ghosts-of-new-eden-f9e3f2",
   "Ranking_Rating": 466,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 477,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -348,10 +348,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 144,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-03-29T08:02:20.1495203+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 164,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 144,
+  "NumberOfAwards": 164,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -371,6 +377,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 20
     }
   ],
@@ -746,9 +758,9 @@
   "FirstSeen": "2024-02-13T03:59:56.0096216+00:00",
   "FirstSeenRating": "2024-02-15T23:59:07.6110237+00:00",
   "FirstSeenAchievements": "2023-11-15T16:03:15.009525+00:00",
-  "LastChanged": "2024-03-28T11:57:24.4168082+00:00",
+  "LastChanged": "2024-03-29T08:02:20.1495201+00:00",
   "LastChanged_Achievements": "2024-03-21T17:05:33.9545854+00:00",
   "LastUpdate_AppInfo": "2024-03-28T01:38:11.6692279+00:00",
-  "LastUpdate_Ratings": "2024-03-29T06:58:45.9322103+00:00",
+  "LastUpdate_Ratings": "2024-03-29T08:02:20.1495206+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:33.9556586+00:00"
 }

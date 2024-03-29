@@ -1,7 +1,7 @@
 # Untitled Goose Game
 [Store](https://store.epicgames.com/en-US/p/untitled-goose-game)  
 [View Rawdata](../../db/u/untitled_goose_game.json)  
-Rating: 4.73 (Ranked 183)  
+Rating: 4.72 (Ranked 200)  
 Number of Ratings: 109  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -71,3 +71,4 @@ Number of Ratings: 109  (23.09.2022)
 | 2024-02-12 | 4.75 | - | 0 | 0 |
 | 2024-02-14 | 4.74 | - | 0 | 0 |
 | 2024-02-19 | 4.73 | - | 0 | 0 |
+| 2024-03-29 | 4.72 | - | 0 | 0 |
