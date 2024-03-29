@@ -2,7 +2,7 @@
   "ID": "04aa210636b34e4181d617e015cb82b4",
   "Name": "Flatout 2",
   "ProductSlug": "flatout-2-9ffdd6",
-  "Ranking_Rating": 12,
+  "Ranking_Rating": 8,
   "Ranking_Popularity": 623,
   "Ranking_PopularitySum": 623,
   "Ranking_EOS_Progress": 952,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.89,
+  "Rating": 4.9,
   "RatingHistory": [
     {
       "Time": "2022-11-11T17:57:55.731574+00:00",
@@ -140,6 +140,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-29T01:40:26.3588073+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -158,8 +164,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-08T18:31:47.8686118+00:00",
   "FirstSeenRating": "2022-11-11T17:57:55.7315738+00:00",
-  "LastChanged": "2024-02-11T11:58:45.1176627+00:00",
+  "LastChanged": "2024-03-29T01:40:26.3588071+00:00",
   "LastUpdate_AppInfo": "2024-03-24T12:59:50.7480104+00:00",
-  "LastUpdate_Ratings": "2024-03-28T23:59:15.9398485+00:00",
+  "LastUpdate_Ratings": "2024-03-29T01:40:26.3588077+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:08.9310601+00:00"
 }
