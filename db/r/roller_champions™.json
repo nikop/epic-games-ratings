@@ -2,7 +2,7 @@
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 863,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 5693,
   "RatingHistory": [
     {
@@ -3773,10 +3773,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 2411,
       "NumberOfAwardsMax": 279
+    },
+    {
+      "Time": "2024-03-29T20:58:25.6392643+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2412,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2411,
+  "NumberOfAwards": 2412,
   "NumberOfAwardsMax": 279,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3802,7 +3808,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 273
+      "Count": 274
     },
     {
       "Text": "This game is Relaxing",
@@ -3858,8 +3864,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2024-03-28T19:57:42.5313687+00:00",
+  "LastChanged": "2024-03-29T20:58:25.6392641+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:33.3546022+00:00",
-  "LastUpdate_Ratings": "2024-03-29T19:00:26.4875609+00:00",
+  "LastUpdate_Ratings": "2024-03-29T20:58:25.6392646+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:00.1713892+00:00"
 }

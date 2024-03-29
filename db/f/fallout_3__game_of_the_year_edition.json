@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-3-game-of-the-year-edition",
   "Ranking_Rating": 446,
   "Ranking_Popularity": 29,
-  "Ranking_PopularitySum": 49,
+  "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -9569,10 +9569,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 32098,
       "NumberOfAwardsMax": 15517
+    },
+    {
+      "Time": "2024-03-29T20:58:52.2210429+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 32100,
+      "NumberOfAwardsMax": 15517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32098,
+  "NumberOfAwards": 32100,
   "NumberOfAwardsMax": 15517,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9616,7 +9622,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1659
+      "Count": 1661
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9661,8 +9667,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-03-29T12:59:14.091965+00:00",
+  "LastChanged": "2024-03-29T20:58:52.221037+00:00",
   "LastUpdate_AppInfo": "2024-03-24T12:59:46.2229267+00:00",
-  "LastUpdate_Ratings": "2024-03-29T19:57:22.0570963+00:00",
+  "LastUpdate_Ratings": "2024-03-29T20:58:52.2210433+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:44.8560306+00:00"
 }
