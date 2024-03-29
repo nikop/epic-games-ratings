@@ -3,7 +3,7 @@
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 1 | - | 0 |
 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2024-03-06 | 5 (1,000 XP) | 2 | - | 0 |
 | [Revival: Recolonization](games/4/4ccef3d9b96a4839ab46a6e83ddc6e61.md) | 2024-04-30 | 32 (1,000 XP) | 1 | - | - |
-| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.23 | 0 |
+| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.24 | 0 |
 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 2024-03-12 | 34 (1,000 XP) | 0 | - | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Stories from the Outbreak](games/5/54b2781b490444debc7739e562b05291.md) | 2024-03-14 | 37 (1,000 XP) | 3 | - | 0 |
@@ -490,7 +490,7 @@
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 34 (1,100 XP) | 1 | - | - |
 | [MythForce](games/m/mythforce.md) | 2022-04-20 | 23 (1,000 XP) | 7,079 | 4.47 | 37 |
-| [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 2023-07-27 | 34 (1,000 XP) | 252,031 | 4.56 | 40 |
+| [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 2023-07-27 | 34 (1,000 XP) | 252,031 | 4.56 | 41 |
 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 2023-08-04 | 20 (1,000 XP) | 411 | - | 0 |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-05-01 | 19 (1,000 XP) | 495 | - | 0 |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 134 | - | 0 |

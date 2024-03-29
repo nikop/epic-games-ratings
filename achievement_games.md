@@ -51,7 +51,7 @@
 | [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-21 | 23 (1,000 XP) | 10 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 1 | - | 0 |
 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 33 | 4.75 | 36 |
-| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.23 | 0 |
+| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.24 | 0 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | - |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 5 | - | - |
 | [Dreadful River](games/0/01c515c1f28547ab8142678d107be081.md) | 2024-03-19 | 110 (1,000 XP) | 5 | - | 0 |
@@ -429,7 +429,7 @@
 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 434 | - | 0 |
 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 2023-07-27 | 39 (1,000 XP) | 35 | - | 0 |
 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 2023-07-27 | 14 (1,000 XP) | 492 | - | 0 |
-| [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 2023-07-27 | 34 (1,000 XP) | 252,031 | 4.56 | 40 |
+| [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 2023-07-27 | 34 (1,000 XP) | 252,031 | 4.56 | 41 |
 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 81 | - | 0 |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 34 (1,100 XP) | 1 | - | - |
 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 2023-07-27 | 18 (1,000 XP) | 37 | - | 0 |
@@ -617,7 +617,7 @@
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 49 | - | 0 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 48 (1,000 XP) | 94 | - | 0 |
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 32 (1,000 XP) | 32 | - | - |
-| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,618,205 | 4.37 | 1,523 |
+| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,618,205 | 4.37 | 1,525 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,551 | - | 0 |
@@ -845,7 +845,7 @@
 | [Outward Definitive Edition](games/o/outward.md) | 2022-05-17 | 42 (1,000 XP) | 5,264 | 4.55 | 36 |
 | [Lamentum](games/l/lamentum.md) | 2022-05-12 | 19 (1,000 XP) | 365 | 4.28 | 0 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 2022-05-12 | 34 (1,000 XP) | 239,110 | 4.50 | 0 |
-| [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 2022-05-12 | 24 (1,000 XP) | 15,883 | 4.74 | 166 |
+| [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 2022-05-12 | 24 (1,000 XP) | 15,883 | 4.74 | 181 |
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 2022-05-10 | 50 (1,000 XP) | 830 | 4.50 | 0 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 2022-05-10 | 53 (1,000 XP) | 68,930 | 4.31 | 1,009 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 2022-05-10 | 54 (1,000 XP) | 1,736 | 4.68 | 30 |
@@ -893,7 +893,7 @@
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 769,381 | 4.82 | 7,603 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,024,375 | 4.58 | 15,591 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 154 | 4.67 | 52 |
-| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,416,059 | 4.77 | 12,182 |
+| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,416,059 | 4.77 | 12,191 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 418 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 283 | - | 0 |
 | [Partisans 1941](games/p/partisans_1941.md) | 2022-01-11 | 30 (1,000 XP) | 2,233 | 4.63 | 0 |
@@ -995,13 +995,13 @@
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 29,218 | 4.84 | 230 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 62,061 | 4.70 | 57 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 905 | 4.63 | 35 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,159,366 | 4.78 | 10,218 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,159,366 | 4.78 | 10,235 |
 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2020-06-25 | 20 (1,000 XP) | 32,836 | 4.46 | 0 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 1,941 | 4.63 | 37 |
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 773 | 4.84 | 51 |
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 143,279 | 4.87 | 793 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 358 (3,440 XP) | 18,275 | 4.65 | 238 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 104,351 | 4.74 | 8,904 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 104,351 | 4.74 | 8,914 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 45,007 | 4.68 | 915 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 731,717 | 4.92 | 3,701 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 47,837 | 4.66 | 0 |

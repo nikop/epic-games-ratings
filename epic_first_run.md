@@ -8,7 +8,7 @@
 | [Mirror Of Darkness](games/5/5896d071f8c544e39aef05706c15fc11.md) | 2024-08-31 | - |  | - | - |
 | [Far Horizon](games/d/d41f47180bb94a70b3d05a31ebe89b7d.md) | 2024-03-11 | 55 (1,000 XP) | 102 | - | 0 |
 | [Heroes of Latera](games/e/ef58f7e6ac8648a99de895f5e571d9e7.md) | 2099-01-01 | - |  | - | - |
-| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.23 | 0 |
+| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.24 | 0 |
 | [My Corp Cargo Simulator](games/b/b8389b9b44074b9ba64a882ac166bb18.md) | 2099-01-01 | - |  | - | - |
 | [Coryphaeus Championships](games/c/coryphaeus_championships.md) | 2023-12-07 | 5 (1,000 XP) | 109 | - | 0 |
 | [DEPRISION](games/8/847d4e731fb146a590720e393f524df7.md) | 2025-12-31 | - |  | - | - |
@@ -33,7 +33,7 @@
 | [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-02-23 | 10 (1,000 XP) | 20 | - | 0 |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-30 | - |  | - | - |
 | [I'm in Love With Your Dead Grandmother](games/3/3eab9be22dbd475ab1ef7e3824b81121.md) | 2024-02-03 | 12 (1,000 XP) | 80 | - | - |
-| [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 2023-12-07 | - |  | 4.55 | 343 |
+| [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 2023-12-07 | - |  | 4.55 | 344 |
 | [Potato Sack Racing Simulator 2024](games/2/2ea4230c2a664c27a7e3d1c94a487241.md) | 2024-01-05 | 17 (1,000 XP) | 17 | - | 0 |
 | [Game Room](games/4/40712343dccb4c8183c34eda1c034c17.md) | 2099-01-01 | - |  | - | - |
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-04-30 | - |  | - | - |

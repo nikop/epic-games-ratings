@@ -4,7 +4,7 @@
 | [Project Apidom](games/5/551b8ecaa91c4369b87dc68c131cd7ae.md) | 2024-03-29 | - |  | - | - |
 | [CriticalOrb](games/1/12e1a3fb64044ffbbfa8fa94fa92b07c.md) | 2024-03-29 | - |  | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
-| [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | - |  | - | - |
+| [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | - |  | - | 0 |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 25 | - | 0 |
 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | - |  | - | - |
 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | - |  | - | - |
@@ -40,7 +40,7 @@
 | [Shrimp.io](games/4/475a45d75d3c47819dea0e5bffcfdd4b.md) | 2024-03-21 | - |  | - | 0 |
 | [Vacation Adventures Park Ranger 13 Collectors Edition](games/9/939425a921b249b2b3c18c2972bcf996.md) | 2024-03-21 | - |  | - | - |
 | [Kneedle Knight](games/0/04826f20ceb04ea0b4119ad49d6db976.md) | 2024-03-21 | - |  | - | 0 |
-| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.23 | 0 |
+| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.24 | 0 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | - |
 | [Need for Speed™ Rivals: Complete Edition](games/e/e9573f687fb24b56ba22562657ef1225.md) | 2024-03-20 | - |  | - | 0 |
 | [The Sinking City](games/t/the_sinking_city.md) | 2024-03-20 | - |  | - | 0 |
