@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,372,520 | 4.29 | 921 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 777,592 | 4.45 | 714 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 778,448 | 4.45 | 714 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 348,120 | 4.68 | 272 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 335,650 | 4.67 | 291 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 299,477 | 4.88 | 16 |
@@ -17,9 +17,9 @@
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 43,604 | 4.51 | 618 |
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 39,728 | 4.72 | 201 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 36,472 | 4.74 | 169 |
-| 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,946 | 4.64 | 359 |
+| 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,956 | 4.64 | 359 |
 | 19 | [Dauntless](games/d/dauntless.md) | 27,989 | 4.53 | 584 |
-| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 26,100 | 4.89 | 13 |
+| 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 26,145 | 4.89 | 13 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,314 | 4.57 | 508 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,873 | 4.26 | 960 |
 | 23 | [Warframe](games/w/warframe.md) | 22,636 | 4.61 | 414 |
@@ -116,7 +116,7 @@
 | 114 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,489 | 4.71 | 208 |
 | 115 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,420 | 4.63 | 373 |
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,416 | 4.76 | 137 |
-| 117 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,377 | 4.81 | 81 |
+| 117 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,384 | 4.81 | 81 |
 | 118 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,370 | 4.67 | 291 |
 | 119 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,366 | 4.13 | 1,060 |
 | 120 | [Ghostrunner](games/g/ghostrunner.md) | 2,364 | 4.56 | 527 |
@@ -221,7 +221,7 @@
 | 219 | [Godfall Ultimate Edition](games/g/godfall.md) | 609 | 4.06 | 1,086 |
 | 220 | [Vampyr](games/v/vampyr.md) | 602 | 4.32 | 896 |
 | 221 | [Filament](games/f/filament.md) | 595 | 4.33 | 885 |
-| 222 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 586 | 4.60 | 445 |
+| 222 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 588 | 4.60 | 445 |
 | 223 | [Surviving Mars](games/s/surviving_mars.md) | 576 | 4.61 | 414 |
 | 224 | [Severed Steel](games/s/severed_steel.md) | 575 | 4.69 | 247 |
 | 225 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 571 | 4.33 | 885 |
@@ -367,9 +367,9 @@
 | 365 | [Aimlabs](games/a/aimlabs.md) | 132 | 4.61 | 414 |
 | 365 | [Aven Colony](games/a/aven_colony.md) | 132 | 4.20 | 1,008 |
 | 365 | [Cave Story+](games/c/cave_story+.md) | 132 | 4.69 | 247 |
+| 368 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 130 | 4.45 | 714 |
 | 368 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 130 | 4.29 | 921 |
-| 369 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 129 | 4.21 | 999 |
-| 369 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 129 | 4.45 | 714 |
+| 370 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 129 | 4.21 | 999 |
 | 371 | [BIOMUTANT](games/b/biomutant.md) | 128 | 4.34 | 872 |
 | 371 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 128 | 3.86 | 1,128 |
 | 373 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 125 | 4.66 | 313 |
@@ -506,16 +506,16 @@
 | 504 | [City of Gangsters](games/c/city_of_gangsters.md) | 43 | 4.28 | 935 |
 | 504 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 43 | 4.54 | 563 |
 | 504 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 43 | 3.97 | 1,105 |
+| 507 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 42 | 4.84 | 45 |
 | 507 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 42 | 4.59 | 466 |
 | 507 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 42 | 4.59 | 466 |
 | 507 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 42 | 4.49 | 662 |
-| 510 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 41 | 4.84 | 45 |
-| 510 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 41 | 4.64 | 359 |
-| 510 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 41 | 4.42 | 764 |
-| 510 | [Redfall](games/r/redfall.md) | 41 | 3.66 | 1,146 |
-| 510 | [Steelrising](games/s/steelrising.md) | 41 | 4.29 | 921 |
-| 510 | [TUNIC](games/t/tunic.md) | 41 | 4.83 | 56 |
-| 510 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 41 | 4.48 | 678 |
+| 511 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 41 | 4.64 | 359 |
+| 511 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 41 | 4.42 | 764 |
+| 511 | [Redfall](games/r/redfall.md) | 41 | 3.66 | 1,146 |
+| 511 | [Steelrising](games/s/steelrising.md) | 41 | 4.29 | 921 |
+| 511 | [TUNIC](games/t/tunic.md) | 41 | 4.83 | 56 |
+| 511 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 41 | 4.48 | 678 |
 | 517 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 40 | 4.56 | 527 |
 | 517 | [Metalstorm](games/m/metalstorm.md) | 40 | 4.42 | 764 |
 | 517 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 40 | 4.69 | 247 |
