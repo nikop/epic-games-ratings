@@ -9,7 +9,7 @@
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 158,428 | 4.68 | 272 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 158,040 | 4.51 | 618 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 130,604 | 4.69 | 247 |
-| 10 | [VALORANT](games/v/valorant.md) | 107,823 | 4.51 | 618 |
+| 10 | [VALORANT](games/v/valorant.md) | 108,064 | 4.51 | 618 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 71,809 | 4.44 | 735 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 67,941 | 4.58 | 483 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 58,377 | 4.61 | 414 |
@@ -49,7 +49,7 @@
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,731 | 4.50 | 642 |
 | 48 | [Control](games/c/control.md) | 9,375 | 4.61 | 414 |
 | 49 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 9,304 | 4.63 | 373 |
-| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,251 | 4.69 | 247 |
+| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,264 | 4.69 | 247 |
 | 51 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,186 | 4.56 | 527 |
 | 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 8,904 | 4.74 | 169 |
 | 53 | [Remnant II®](games/r/remnant_2.md) | 8,861 | 4.70 | 225 |
@@ -129,8 +129,8 @@
 | 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,049 | 4.69 | 247 |
 | 128 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,005 | 4.50 | 642 |
 | 129 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,987 | 4.66 | 313 |
-| 130 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,976 | 4.63 | 373 |
-| 131 | [World of Warships](games/w/world_of_warships.md) | 1,975 | 4.41 | 779 |
+| 130 | [World of Warships](games/w/world_of_warships.md) | 1,979 | 4.41 | 779 |
+| 131 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,976 | 4.63 | 373 |
 | 132 | [Celeste](games/c/celeste.md) | 1,934 | 4.91 | 6 |
 | 133 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,870 | 4.86 | 29 |
 | 134 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,857 | 4.56 | 527 |
@@ -237,8 +237,8 @@
 | 235 | [Second Extinction™](games/s/second_extinction™.md) | 493 | 4.06 | 1,086 |
 | 236 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 491 | 4.50 | 642 |
 | 237 | [Against the Storm](games/a/against_the_storm.md) | 480 | 4.82 | 70 |
-| 238 | [Into the Breach](games/i/into_the_breach.md) | 470 | 4.84 | 45 |
-| 239 | [The Outlast Trials](games/t/the_outlast_trials.md) | 468 | 4.65 | 338 |
+| 238 | [The Outlast Trials](games/t/the_outlast_trials.md) | 471 | 4.65 | 338 |
+| 239 | [Into the Breach](games/i/into_the_breach.md) | 470 | 4.84 | 45 |
 | 240 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 462 | 4.61 | 414 |
 | 241 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 313 |
 | 242 | [Hello Neighbor](games/h/hello_neighbor.md) | 457 | 4.56 | 527 |
@@ -316,8 +316,8 @@
 | 313 | [Star Stable Online](games/s/star_stable_online.md) | 210 | 4.39 | 817 |
 | 315 | [Relicta](games/r/relicta.md) | 206 | 4.15 | 1,047 |
 | 316 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 204 | 4.38 | 827 |
-| 317 | [Crashlands](games/c/crashlands.md) | 201 | 4.66 | 313 |
-| 317 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 201 | 4.82 | 70 |
+| 317 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 202 | 4.82 | 70 |
+| 318 | [Crashlands](games/c/crashlands.md) | 201 | 4.66 | 313 |
 | 319 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 199 | 4.22 | 994 |
 | 319 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 199 | 4.54 | 563 |
 | 321 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 197 | 4.63 | 373 |
@@ -329,7 +329,7 @@
 | 327 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 186 | 4.66 | 313 |
 | 327 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 186 | 4.44 | 735 |
 | 327 | [Timberborn](games/t/timberborn.md) | 186 | 4.73 | 183 |
-| 330 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 183 | 4.08 | 1,076 |
+| 330 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 184 | 4.08 | 1,076 |
 | 331 | [Mothergunship](games/m/mothergunship.md) | 181 | 4.38 | 827 |
 | 332 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 176 | 4.29 | 921 |
 | 332 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 1,040 |
@@ -467,7 +467,7 @@
 | 464 | [Forspoken](games/f/forspoken.md) | 59 | 4.16 | 1,040 |
 | 464 | [Obduction](games/o/obduction.md) | 59 | 4.08 | 1,076 |
 | 464 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.43 | 753 |
-| 468 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 58 | 4.14 | 1,054 |
+| 468 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 58 | 4.14 | 1,055 |
 | 469 | [The Alto Collection](games/t/the_alto_collection.md) | 57 | 4.70 | 225 |
 | 469 | [The Escapists 2](games/t/the_escapists_2.md) | 57 | 4.58 | 483 |
 | 471 | [ATOM RPG](games/a/atom_rpg.md) | 56 | 4.51 | 618 |

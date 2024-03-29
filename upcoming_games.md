@@ -503,6 +503,7 @@
 | [Space Nation Online](games/1/12dc38cab446471a86b3c78ba31d0a5f.md) | 2099-01-01 | - |  | - | - |
 | [Space Rocks!](games/2/2fdfd820f11346f8a6ebb3bd5e6339c7.md) | 2099-01-01 | - |  | - | - |
 | [Spellborne](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
+| [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2099-01-01 | - |  | - | - |
 | [Spirit of the North 2](games/c/c083fb427c1b49efb2a3af523d545469.md) | 2099-01-01 | - |  | - | - |
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |
 | [SPLASH - Paintball](games/6/68d7cea514474cac89318ac7d5c08ba6.md) | 2099-01-01 | - |  | - | - |
