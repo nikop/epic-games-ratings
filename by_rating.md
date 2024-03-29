@@ -422,13 +422,13 @@
 | 414 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 412 | 250 |
 | 414 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 623 |
 | 414 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.61 | 0 | 623 |
-| 414 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 58,377 | 13 |
+| 414 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 58,449 | 13 |
 | 414 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.61 | 68 | 452 |
 | 414 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 137 | 359 |
 | 414 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 623 |
 | 414 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 623 |
 | 414 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 459 |
-| 414 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 462 | 240 |
+| 414 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 463 | 240 |
 | 414 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.61 | 0 | 623 |
 | 414 | [MudRunner](games/m/mudrunner.md) | 4.61 | 331 | 267 |
 | 414 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 752 | 200 |
@@ -1017,15 +1017,15 @@
 | 1,008 | [Out of Line](games/o/out_of_line.md) | 4.20 | 0 | 623 |
 | 1,008 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.20 | 0 | 623 |
 | 1,008 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.20 | 0 | 623 |
-| 1,018 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 491 |
-| 1,018 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,454 | 106 |
-| 1,018 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 602 |
-| 1,018 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 428 |
-| 1,018 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 623 |
-| 1,018 | [The Bridge](games/t/the_bridge.md) | 4.19 | 0 | 623 |
-| 1,018 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 623 |
-| 1,018 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.19 | 0 | 623 |
-| 1,018 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 623 |
+| 1,008 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 623 |
+| 1,019 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 491 |
+| 1,019 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,454 | 106 |
+| 1,019 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 602 |
+| 1,019 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 428 |
+| 1,019 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 623 |
+| 1,019 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 623 |
+| 1,019 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.19 | 0 | 623 |
+| 1,019 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 623 |
 | 1,027 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 623 |
 | 1,027 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 225,182 | 6 |
 | 1,027 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 410 |
