@@ -4,7 +4,7 @@
   "ProductSlug": "lost-castle-abb2e2",
   "Ranking_Rating": 949,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -359,18 +359,24 @@
       "Rating": 4.27,
       "NumberOfAwards": 291,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2024-03-29T05:59:20.0394673+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 295
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 291,
-  "NumberOfAwardsMax": 291,
+  "NumberOfAwards": 295,
+  "NumberOfAwardsMax": 295,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 291
+      "Count": 295
     }
   ],
   "EOS_Progressed": 496871,
@@ -1190,9 +1196,9 @@
   "FirstSeen": "2024-02-08T18:59:09.7426423+00:00",
   "FirstSeenRating": "2024-02-09T18:59:41.1383273+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:13.2759118+00:00",
-  "LastChanged": "2024-03-28T01:39:01.9179567+00:00",
+  "LastChanged": "2024-03-29T05:59:20.0394671+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:01.8075812+00:00",
   "LastUpdate_AppInfo": "2024-03-28T21:57:03.6761248+00:00",
-  "LastUpdate_Ratings": "2024-03-29T04:57:24.8301893+00:00",
+  "LastUpdate_Ratings": "2024-03-29T05:59:20.0394678+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:01.8076792+00:00"
 }
