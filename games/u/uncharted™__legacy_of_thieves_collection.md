@@ -1,14 +1,14 @@
 # UNCHARTED™: Legacy of Thieves Collection
 [Store](https://store.epicgames.com/en-US/p/uncharted-legacy-of-thieves-collection)  
 [View Rawdata](../../db/u/uncharted™__legacy_of_thieves_collection.json)  
-Rating: 4.74 (Ranked 169)  
+Rating: 4.74 (Ranked 168)  
 ## Awards
-Max (Great Boss Battles): 1,145  (Ranked 159)  
-Sum: 1,697 (Ranked 245)  
+Max (Great Boss Battles): 1,148  (Ranked 159)  
+Sum: 1,700 (Ranked 245)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,145 |
+| This game has Great Boss Battles | 1,148 |
 | This game is Relaxing | 75 |
 | This game is Highly Recommended | 74 |
 | This game has Amazing Characters | 74 |
@@ -286,4 +286,4 @@ Diff (max vs sum): -86
 | 2024-03-26 | 4.74 | 1,140 | 1,688 |
 | 2024-03-27 | 4.74 | 1,140 | 1,689 |
 | 2024-03-28 | 4.74 | 1,145 | 1,696 |
-| 2024-03-29 | 4.74 | 1,145 | 1,697 |
+| 2024-03-29 | 4.74 | 1,148 | 1,700 |
