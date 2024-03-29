@@ -1,15 +1,15 @@
 # Borderlands 2
 [Store](https://store.epicgames.com/en-US/p/borderlands-2)  
 [View Rawdata](../../db/b/borderlands_2.json)  
-Rating: 4.76 (Ranked 137)  
+Rating: 4.76 (Ranked 138)  
 Number of Ratings: 13,386  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 17,247  (Ranked 24)  
-Sum: 43,231 (Ranked 37)  
+Max (Great Boss Battles): 17,262  (Ranked 24)  
+Sum: 43,246 (Ranked 37)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 17,247 |
+| This game has Great Boss Battles | 17,262 |
 | This game is Great for Beginners | 3,378 |
 | This game has Diverse Characters | 3,177 |
 | This game has Amazing Characters | 2,869 |
@@ -475,4 +475,4 @@ Diff (max vs sum): -13
 | 2024-03-26 | 4.76 | - | 17,215 | 43,156 |
 | 2024-03-27 | 4.76 | - | 17,235 | 43,196 |
 | 2024-03-28 | 4.76 | - | 17,247 | 43,217 |
-| 2024-03-29 | 4.76 | - | 17,247 | 43,231 |
+| 2024-03-29 | 4.76 | - | 17,262 | 43,246 |

@@ -3,7 +3,7 @@
   "Name": "State of Decay 2: Juggernaut Edition",
   "ProductSlug": "state-of-decay-2-juggernaut-edition",
   "Ranking_Rating": 200,
-  "Ranking_Popularity": 256,
+  "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
@@ -3716,11 +3716,17 @@
       "Rating": 4.72,
       "NumberOfAwards": 2740,
       "NumberOfAwardsMax": 375
+    },
+    {
+      "Time": "2024-03-29T14:57:38.9572774+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2742,
+      "NumberOfAwardsMax": 377
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2740,
-  "NumberOfAwardsMax": 375,
+  "NumberOfAwards": 2742,
+  "NumberOfAwardsMax": 377,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3733,7 +3739,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 375
+      "Count": 377
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3807,8 +3813,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2024-03-26T16:58:54.8945517+00:00",
+  "LastChanged": "2024-03-29T14:57:38.9572773+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:15.4379061+00:00",
-  "LastUpdate_Ratings": "2024-03-29T13:02:00.7567114+00:00",
+  "LastUpdate_Ratings": "2024-03-29T14:57:38.9572778+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:11.7192224+00:00"
 }

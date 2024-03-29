@@ -1,7 +1,7 @@
 # Sackboy™: A Big Adventure
 [Store](https://store.epicgames.com/en-US/p/sackboy-a-big-adventure)  
 [View Rawdata](../../db/s/sackboy™__a_big_adventure.json)  
-Rating: 4.76 (Ranked 137)  
+Rating: 4.77 (Ranked 125)  
 ## Awards
 Max (Great for Quick Sessions): 28  (Ranked 567)  
 Sum: 69 (Ranked 528)  
@@ -96,3 +96,4 @@ Diff (max vs sum): 39
 | 2024-03-19 | 4.77 | 28 | 49 |
 | 2024-03-20 | 4.76 | 28 | 49 |
 | 2024-03-24 | 4.76 | 28 | 69 |
+| 2024-03-29 | 4.77 | 28 | 69 |
