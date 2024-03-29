@@ -4,7 +4,7 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 901,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -2327,10 +2327,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 550,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2024-03-29T13:58:16.4998364+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 551,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 550,
+  "NumberOfAwards": 551,
   "NumberOfAwardsMax": 86,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2380,7 +2386,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2407,8 +2413,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-03-29T11:59:50.2088162+00:00",
+  "LastChanged": "2024-03-29T13:58:16.4998363+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:43.5023333+00:00",
-  "LastUpdate_Ratings": "2024-03-29T11:59:50.2088168+00:00",
+  "LastUpdate_Ratings": "2024-03-29T13:58:16.4998367+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:22.8867776+00:00"
 }
