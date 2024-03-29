@@ -2,7 +2,7 @@
   "ID": "8962863aee2f4e7483fc37d4719c3f69",
   "Name": "PAYDAY 3",
   "ProductSlug": "payday-3",
-  "Ranking_Rating": 1107,
+  "Ranking_Rating": 1105,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 952,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.96,
+  "Rating": 3.97,
   "RatingHistory": [
     {
       "Time": "2023-09-22T23:59:41.345092+00:00",
@@ -1165,10 +1165,16 @@
       "Rating": 3.96,
       "NumberOfAwards": 221,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-03-28T23:58:42.9310196+00:00",
+      "Rating": 3.97,
+      "NumberOfAwards": 222,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 221,
+  "NumberOfAwards": 222,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1200,7 +1206,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1227,8 +1233,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-03-26T18:58:48.0819432+00:00",
+  "LastChanged": "2024-03-28T23:58:42.9310195+00:00",
   "LastUpdate_AppInfo": "2024-03-22T15:57:07.7846209+00:00",
-  "LastUpdate_Ratings": "2024-03-28T22:57:47.3350092+00:00",
+  "LastUpdate_Ratings": "2024-03-28T23:58:42.9310199+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:55.043595+00:00"
 }
