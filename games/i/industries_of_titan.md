@@ -1,7 +1,7 @@
 # Industries of Titan
 [Store](https://store.epicgames.com/en-US/p/industries-of-titan)  
 [View Rawdata](../../db/i/industries_of_titan.json)  
-Rating: 4.49 (Ranked 662)  
+Rating: 4.49 (Ranked 661)  
 Number of Ratings: 123  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
