@@ -1,12 +1,12 @@
 # Chivalry 2
 [Store](https://store.epicgames.com/en-US/p/chivalry-2)  
 [View Rawdata](../../db/c/chivalry_2.json)  
-Rating: 4.59 (Ranked 467)  
+Rating: 4.59 (Ranked 468)  
 Number of Ratings: 18,078  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 5,524  (Ranked 81)  
-Sum: 33,243 (Ranked 46)  
-Diff (max vs sum): 35  
+Sum: 33,243 (Ranked 47)  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 5,524 |
