@@ -3,8 +3,8 @@
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy",
   "Ranking_Rating": 763,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 456,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -966,10 +966,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 190,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-03-29T15:58:35.8736056+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 190,
+  "NumberOfAwards": 191,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -989,7 +995,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Relaxing",
@@ -1027,8 +1033,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2024-03-28T22:59:10.915553+00:00",
+  "LastChanged": "2024-03-29T15:58:35.8736054+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:01.8580373+00:00",
-  "LastUpdate_Ratings": "2024-03-29T14:01:07.3105589+00:00",
+  "LastUpdate_Ratings": "2024-03-29T15:58:35.8736061+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:30.6051706+00:00"
 }

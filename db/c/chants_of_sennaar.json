@@ -2,9 +2,9 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_Rating": 29,
-  "Ranking_Popularity": 623,
-  "Ranking_PopularitySum": 623,
+  "Ranking_Rating": 39,
+  "Ranking_Popularity": 624,
+  "Ranking_PopularitySum": 624,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 1,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.86,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2023-12-16T17:01:08.7568687+00:00",
@@ -185,6 +185,12 @@
     {
       "Time": "2024-03-14T15:58:29.551863+00:00",
       "Rating": 4.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-29T15:57:42.8904729+00:00",
+      "Rating": 4.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -8495,9 +8501,9 @@
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged": "2024-03-14T15:58:29.5518628+00:00",
+  "LastChanged": "2024-03-29T15:57:42.8904727+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:13.9596422+00:00",
   "LastUpdate_AppInfo": "2024-03-24T12:59:51.8432236+00:00",
-  "LastUpdate_Ratings": "2024-03-29T14:00:03.9414461+00:00",
+  "LastUpdate_Ratings": "2024-03-29T15:57:42.8904733+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:13.9596901+00:00"
 }

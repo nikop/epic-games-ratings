@@ -4,7 +4,7 @@
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_Rating": 949,
   "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 383,
+  "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -1481,10 +1481,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 379,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-03-29T15:58:11.2100771+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 379,
+  "NumberOfAwards": 380,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1540,7 +1546,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1561,8 +1567,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-03-29T08:57:30.5467581+00:00",
+  "LastChanged": "2024-03-29T15:58:11.2100769+00:00",
   "LastUpdate_AppInfo": "2024-03-27T01:38:31.6968051+00:00",
-  "LastUpdate_Ratings": "2024-03-29T14:00:36.3280786+00:00",
+  "LastUpdate_Ratings": "2024-03-29T15:58:11.2100775+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:40.2595348+00:00"
 }
