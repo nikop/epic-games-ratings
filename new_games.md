@@ -104,4 +104,3 @@
 | [Floppa: The Dark Forest](games/8/8a9e2e4ce5ab48eb8da52acb61acd34a.md) | 2024-02-29 | - |  | - | - |
 | [Geometric Sniper - Blood in Paris](games/1/1a8cba3402d84f0bad7f7f3ece71d486.md) | 2024-02-29 | 40 (1,000 XP) | 123 | - | 0 |
 | [Tamarak Trail](games/9/985a7dfa6292483fab6d3451a7914a1f.md) | 2024-02-29 | 15 (1,000 XP) | 4 | - | 0 |
-| [fell in love with coser](games/e/e4088fe230d843c18e1d45c4109d2713.md) | 2024-02-29 | - |  | - | 0 |
