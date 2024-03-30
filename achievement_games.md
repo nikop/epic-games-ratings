@@ -396,7 +396,7 @@
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 4,028 | 4.20 | 30 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2023-08-20 | 21 (1,000 XP) | 2 | - | 0 |
-| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 13,485 | 4.21 | 166 |
+| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 13,485 | 4.21 | 242 |
 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 1,759 | - | 0 |
 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 1,734 | 4.84 | 0 |
 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2023-08-17 | 68 (1,000 XP) | 77 | - | 0 |
@@ -752,7 +752,7 @@
 | [The Bunker](games/t/the_bunker.md) | 2022-10-21 | 28 (1,000 XP) | 209 | - | 0 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 3,888 | 4.09 | 0 |
 | [Urbek City Builder](games/u/urbek_city_builder.md) | 2022-10-20 | 79 (1,000 XP) | 584 | - | 0 |
-| [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 35,360 | 4.51 | 351 |
+| [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 35,360 | 4.51 | 353 |
 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 2022-10-17 | 35 (1,000 XP) | 20,480 | 4.73 | 502 |
 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2022-10-17 | 30 (1,000 XP) | 87 | - | 0 |
 | [Trifox](games/t/trifox.md) | 2022-10-14 | 46 (1,000 XP) | 107 | - | 0 |
@@ -786,7 +786,7 @@
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 52 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 524 | 4.16 | 0 |
-| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,331 | 4.77 | 1,291 |
+| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,331 | 4.77 | 1,295 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 22,401 | 4.10 | 116 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 599 | 4.54 | 39 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
