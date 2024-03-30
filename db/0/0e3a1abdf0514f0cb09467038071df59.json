@@ -2,7 +2,7 @@
   "ID": "0e3a1abdf0514f0cb09467038071df59",
   "Name": "Apeiron",
   "ProductSlug": "apeiron-b83793",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 625,
   "Ranking_PopularitySum": 625,
   "Ranking_EOS_Progress": 952,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2024-01-22T08:00:14.8352568+00:00",
@@ -137,6 +137,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-30T15:58:34.0989539+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -155,8 +161,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-27T15:57:08.6160015+00:00",
   "FirstSeenRating": "2024-01-22T08:00:14.8352566+00:00",
-  "LastChanged": "2024-03-29T14:57:01.9614518+00:00",
+  "LastChanged": "2024-03-30T15:58:34.0989538+00:00",
   "LastUpdate_AppInfo": "2024-03-27T09:57:15.3566129+00:00",
-  "LastUpdate_Ratings": "2024-03-30T14:00:17.5250736+00:00",
+  "LastUpdate_Ratings": "2024-03-30T15:58:34.0989543+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:20.6500731+00:00"
 }
