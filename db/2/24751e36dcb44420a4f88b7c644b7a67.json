@@ -2,7 +2,7 @@
   "ID": "24751e36dcb44420a4f88b7c644b7a67",
   "Name": "Last Remains",
   "ProductSlug": "last-remains-ef50c2",
-  "Ranking_Rating": 1113,
+  "Ranking_Rating": 1110,
   "Ranking_Popularity": 625,
   "Ranking_PopularitySum": 625,
   "Ranking_EOS_Progress": 952,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.95,
+  "Rating": 3.96,
   "RatingHistory": [
     {
       "Time": "2024-02-04T11:00:31.4868814+00:00",
@@ -143,6 +143,12 @@
       "Rating": 3.95,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-30T05:59:19.4266289+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -161,8 +167,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-20T09:59:35.6209812+00:00",
   "FirstSeenRating": "2024-02-04T11:00:31.4868812+00:00",
-  "LastChanged": "2024-03-18T06:00:13.228205+00:00",
+  "LastChanged": "2024-03-30T05:59:19.4266287+00:00",
   "LastUpdate_AppInfo": "2024-03-27T06:57:07.7618555+00:00",
-  "LastUpdate_Ratings": "2024-03-30T04:57:24.9939407+00:00",
+  "LastUpdate_Ratings": "2024-03-30T05:59:19.4266296+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:31.2810294+00:00"
 }
