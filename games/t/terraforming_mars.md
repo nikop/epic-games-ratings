@@ -328,14 +328,14 @@ Completed: 196 (0.20%) (Ranked 315)
 | 2024-02-22 | 94,672 | 191 |
 | 2024-03-21 | 97,245 | 196 |
 ## Awards
-Max (Relaxing): 553  (Ranked 227)  
-Sum: 3,431 (Ranked 183)  
+Max (Relaxing): 554  (Ranked 227)  
+Sum: 3,433 (Ranked 183)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 553 |
+| This game is Relaxing | 554 |
 | This game is Highly Recommended | 537 |
-| This game has Quickly Understood Controls | 490 |
+| This game has Quickly Understood Controls | 491 |
 | This game is Extremely Fun | 489 |
 | This game has Competitive Players | 479 |
 | This game has Amazing Storytelling | 395 |
@@ -645,3 +645,4 @@ Diff (max vs sum): 44
 | 2024-03-25 | 4.53 | - | 553 | 3,429 |
 | 2024-03-26 | 4.53 | - | 553 | 3,430 |
 | 2024-03-27 | 4.53 | - | 553 | 3,431 |
+| 2024-03-30 | 4.53 | - | 554 | 3,433 |
