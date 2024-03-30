@@ -327,7 +327,7 @@ Completed: 5 (0.00%) (Ranked 445)
 | 2024-03-21 | 236,728 | 5 |
 ## Awards
 Max (Highly Recommended): 297  (Ranked 280)  
-Sum: 2,269 (Ranked 224)  
+Sum: 2,270 (Ranked 224)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): 56
 | This game is Extremely Fun | 290 |
 | This game has Amazing Characters | 284 |
 | This game has Diverse Characters | 275 |
-| This game has Amazing Storytelling | 255 |
+| This game has Amazing Storytelling | 256 |
 | This game is Relaxing | 248 |
 | This game has Unique Visuals | 221 |
 | This game has a Creative Community | 105 |
@@ -496,3 +496,4 @@ Diff (max vs sum): 56
 | 2024-03-20 | 4.44 | 296 | 2,266 |
 | 2024-03-23 | 4.44 | 297 | 2,268 |
 | 2024-03-29 | 4.44 | 297 | 2,269 |
+| 2024-03-30 | 4.44 | 297 | 2,270 |
