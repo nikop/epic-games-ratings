@@ -3,7 +3,7 @@
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 101,
-  "Ranking_Popularity": 253,
+  "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 445,
@@ -4717,11 +4717,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 3251,
       "NumberOfAwardsMax": 389
+    },
+    {
+      "Time": "2024-03-30T02:59:52.0285064+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3266,
+      "NumberOfAwardsMax": 395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3251,
-  "NumberOfAwardsMax": 389,
+  "NumberOfAwards": 3266,
+  "NumberOfAwardsMax": 395,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4734,7 +4740,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 389
+      "Count": 395
     },
     {
       "Text": "This game is Relaxing",
@@ -4776,13 +4782,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 289
+      "Count": 294
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 265
+      "Count": 269
     },
     {
       "Text": "This game has Challenging Combat",
@@ -15364,9 +15370,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-03-29T21:58:07.723858+00:00",
+  "LastChanged": "2024-03-30T02:59:52.0285063+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:44.5256718+00:00",
   "LastUpdate_AppInfo": "2024-03-27T06:57:08.5200967+00:00",
-  "LastUpdate_Ratings": "2024-03-30T02:11:37.838923+00:00",
+  "LastUpdate_Ratings": "2024-03-30T02:59:52.0285067+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:44.5258375+00:00"
 }
