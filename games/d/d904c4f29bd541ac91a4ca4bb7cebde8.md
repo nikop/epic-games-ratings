@@ -1,7 +1,7 @@
 # Ouch! So many beauties!
 [Store](https://store.epicgames.com/en-US/p/videogame-9ad7f5)  
 [View Rawdata](../../db/d/d904c4f29bd541ac91a4ca4bb7cebde8.json)  
-Rating: 4.24 (Ranked 975)  
+Rating: 4.28 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -62,3 +62,4 @@ Completed: 0 (0.00%) (Ranked 445)
 | 2024-03-27 | 4.13 | 0 | 0 |
 | 2024-03-28 | 4.23 | 0 | 0 |
 | 2024-03-29 | 4.24 | 0 | 0 |
+| 2024-03-30 | 4.28 | 0 | 0 |

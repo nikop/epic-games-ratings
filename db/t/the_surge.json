@@ -4,7 +4,7 @@
   "ProductSlug": "the-surge",
   "Ranking_Rating": 766,
   "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 578,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 1,
@@ -6234,6 +6234,6 @@
   "LastChanged": "2024-03-27T19:58:07.8536613+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:19.4919105+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:42.5267549+00:00",
-  "LastUpdate_Ratings": "2024-03-30T11:59:37.8742349+00:00",
+  "LastUpdate_Ratings": "2024-03-30T13:57:44.0333511+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:19.4920252+00:00"
 }

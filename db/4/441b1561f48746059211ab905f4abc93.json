@@ -4,7 +4,7 @@
   "ProductSlug": "fishing-planet-87df68",
   "Ranking_Rating": 565,
   "Ranking_Popularity": 619,
-  "Ranking_PopularitySum": 619,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -329,17 +329,29 @@
       "Rating": 4.54,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-03-30T13:58:55.8912597+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
+  "NumberOfAwards": 40,
   "NumberOfAwardsMax": 20,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 20
     }
   ],
@@ -531,9 +543,9 @@
   "FirstSeen": "2024-01-30T20:57:10.5239583+00:00",
   "FirstSeenRating": "2024-02-06T16:00:39.8962705+00:00",
   "FirstSeenAchievements": "2024-01-11T10:03:10.8867409+00:00",
-  "LastChanged": "2024-03-29T16:58:55.75683+00:00",
+  "LastChanged": "2024-03-30T13:58:55.8912592+00:00",
   "LastChanged_Achievements": "2024-03-21T17:06:36.7013283+00:00",
   "LastUpdate_AppInfo": "2024-03-28T14:57:22.7116113+00:00",
-  "LastUpdate_Ratings": "2024-03-30T12:57:51.6919552+00:00",
+  "LastUpdate_Ratings": "2024-03-30T13:58:55.89126+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:36.7013703+00:00"
 }
