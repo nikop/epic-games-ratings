@@ -2,9 +2,9 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 676,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 497,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 1,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "NumberOfRatings": 116,
   "RatingHistory": [
     {
@@ -532,18 +532,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 105,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-03-30T18:57:50.9015031+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 106,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 105,
-  "NumberOfAwardsMax": 105,
+  "NumberOfAwards": 106,
+  "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 105
+      "Count": 106
     }
   ],
   "EOS_Progressed": 1175,
@@ -3320,9 +3326,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
-  "LastChanged": "2024-03-25T02:16:17.0922998+00:00",
+  "LastChanged": "2024-03-30T18:57:50.9015029+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:35.842513+00:00",
   "LastUpdate_AppInfo": "2024-03-24T13:00:11.1536565+00:00",
-  "LastUpdate_Ratings": "2024-03-30T17:01:17.7550491+00:00",
+  "LastUpdate_Ratings": "2024-03-30T18:57:50.9015037+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:35.8425742+00:00"
 }
