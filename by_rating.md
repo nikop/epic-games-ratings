@@ -265,7 +265,7 @@
 | 248 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 625 |
 | 248 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 673 | 208 |
 | 248 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 519 |
-| 248 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,099 | 38 |
+| 248 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,104 | 38 |
 | 248 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 575 | 225 |
 | 248 | [Tchia](games/t/tchia.md) | 4.69 | 0 | 625 |
 | 248 | [The Witness](games/t/the_witness.md) | 4.69 | 194 | 324 |
@@ -657,7 +657,7 @@
 | 642 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 625 |
 | 642 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.50 | 0 | 625 |
 | 642 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 625 |
-| 642 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 11,485 | 40 |
+| 642 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 11,520 | 40 |
 | 642 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,747 | 47 |
 | 642 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.50 | 0 | 625 |
 | 642 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 8,557 | 57 |
@@ -755,6 +755,7 @@
 | 753 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 271 | 289 |
 | 753 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 73 | 446 |
 | 753 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 625 |
+| 753 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 40 | 519 |
 | 753 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.43 | 0 | 625 |
 | 753 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,519 | 147 |
 | 753 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 625 |
@@ -764,22 +765,21 @@
 | 753 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.43 | 31 | 552 |
 | 753 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 464 |
 | 753 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 28 | 568 |
-| 765 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.42 | 0 | 625 |
-| 765 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 625 |
-| 765 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.42 | 0 | 625 |
-| 765 | [Metalstorm](games/m/metalstorm.md) | 4.42 | 40 | 519 |
-| 765 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.42 | 26 | 578 |
-| 765 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.42 | 0 | 625 |
-| 765 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 41 | 513 |
-| 765 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 625 |
-| 765 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
-| 765 | [SMITE](games/s/smite.md) | 4.42 | 5,437 | 82 |
-| 765 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,177 | 158 |
-| 765 | [The Surge](games/t/the_surge.md) | 4.42 | 33 | 544 |
-| 765 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.42 | 217 | 310 |
-| 765 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 163 | 348 |
-| 765 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 86 | 421 |
-| 765 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 625 |
+| 766 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.42 | 0 | 625 |
+| 766 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 625 |
+| 766 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.42 | 0 | 625 |
+| 766 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.42 | 26 | 578 |
+| 766 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.42 | 0 | 625 |
+| 766 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 41 | 513 |
+| 766 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 625 |
+| 766 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
+| 766 | [SMITE](games/s/smite.md) | 4.42 | 5,437 | 82 |
+| 766 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,177 | 158 |
+| 766 | [The Surge](games/t/the_surge.md) | 4.42 | 33 | 544 |
+| 766 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.42 | 217 | 310 |
+| 766 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 163 | 348 |
+| 766 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 86 | 421 |
+| 766 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 625 |
 | 781 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.41 | 21 | 610 |
 | 781 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 306 | 274 |
 | 781 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 31 | 552 |
@@ -1094,8 +1094,8 @@
 | 1,090 | [Patron](games/p/patron.md) | 4.05 | 0 | 625 |
 | 1,093 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 625 |
 | 1,093 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.04 | 0 | 625 |
-| 1,095 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 625 |
-| 1,095 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.03 | 0 | 625 |
+| 1,093 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.04 | 0 | 625 |
+| 1,096 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 625 |
 | 1,097 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.02 | 0 | 625 |
 | 1,098 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 625 |
 | 1,099 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.00 | 0 | 625 |
