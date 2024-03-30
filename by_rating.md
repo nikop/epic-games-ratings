@@ -36,7 +36,7 @@
 | 29 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 4.86 | 0 | 625 |
 | 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 100 | 399 |
 | 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,870 | 133 |
-| 29 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 156 | 351 |
+| 29 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 157 | 351 |
 | 29 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 625 |
 | 39 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.85 | 0 | 625 |
 | 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,036 | 76 |
@@ -244,7 +244,7 @@
 | 226 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.70 | 0 | 625 |
 | 226 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 625 |
 | 226 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 625 |
-| 226 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,957 | 86 |
+| 226 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,959 | 86 |
 | 226 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 625 |
 | 226 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 625 |
 | 248 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 625 |
@@ -594,7 +594,7 @@
 | 586 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 625 |
 | 586 | [Redout 2](games/r/redout_2.md) | 4.53 | 0 | 625 |
 | 586 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.53 | 0 | 625 |
-| 586 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 553 | 227 |
+| 586 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 554 | 227 |
 | 586 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,105 | 163 |
 | 586 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 625 |
 | 586 | [Verdun](games/v/verdun.md) | 4.53 | 111 | 386 |
@@ -820,24 +820,24 @@
 | 817 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.39 | 230 | 301 |
 | 817 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.39 | 0 | 625 |
 | 817 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 60 | 461 |
+| 817 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.39 | 121 | 375 |
 | 817 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 625 |
 | 817 | [Parkitect](games/p/parkitect.md) | 4.39 | 0 | 625 |
 | 817 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 210 | 313 |
 | 817 | [Tacoma](games/t/tacoma.md) | 4.39 | 0 | 625 |
 | 817 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 341 | 264 |
 | 817 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.39 | 628 | 215 |
-| 827 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 625 |
-| 827 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 625 |
-| 827 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.38 | 27 | 573 |
-| 827 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.38 | 121 | 375 |
-| 827 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 4.38 | 0 | 625 |
-| 827 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 169 | 341 |
-| 827 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 181 | 331 |
-| 827 | [NBA 2K21](games/n/nba_2k21.md) | 4.38 | 11,855 | 39 |
-| 827 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 206 | 315 |
-| 827 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 337 | 265 |
-| 827 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 625 |
-| 827 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 0 | 625 |
+| 828 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 625 |
+| 828 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 625 |
+| 828 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.38 | 27 | 573 |
+| 828 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 4.38 | 0 | 625 |
+| 828 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 169 | 341 |
+| 828 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 181 | 331 |
+| 828 | [NBA 2K21](games/n/nba_2k21.md) | 4.38 | 11,855 | 39 |
+| 828 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 206 | 315 |
+| 828 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 337 | 265 |
+| 828 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 625 |
+| 828 | [War Mongrels](games/w/war_mongrels.md) | 4.38 | 0 | 625 |
 | 839 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 4.37 | 0 | 625 |
 | 839 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 625 |
 | 839 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.37 | 0 | 625 |
