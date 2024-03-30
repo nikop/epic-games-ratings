@@ -3,8 +3,8 @@
   "Name": "CyberTitans",
   "ProductSlug": "cybertitans-b6acef",
   "Ranking_Rating": 913,
-  "Ranking_Popularity": 625,
-  "Ranking_PopularitySum": 625,
+  "Ranking_Popularity": 626,
+  "Ranking_PopularitySum": 626,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -181,6 +181,6 @@
   "FirstSeenRating": "2024-01-04T16:59:06.1673636+00:00",
   "LastChanged": "2024-03-25T09:58:00.3993834+00:00",
   "LastUpdate_AppInfo": "2024-03-27T06:57:11.5668309+00:00",
-  "LastUpdate_Ratings": "2024-03-30T19:58:56.7977009+00:00",
+  "LastUpdate_Ratings": "2024-03-30T21:01:28.3474698+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:38.7846763+00:00"
 }

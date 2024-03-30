@@ -3,8 +3,8 @@
   "Name": "What Remains of Edith Finch",
   "ProductSlug": "what-remains-of-edith-finch",
   "Ranking_Rating": 168,
-  "Ranking_Popularity": 625,
-  "Ranking_PopularitySum": 625,
+  "Ranking_Popularity": 626,
+  "Ranking_PopularitySum": 626,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -293,6 +293,6 @@
   "FirstSeen": "2022-07-22T20:30:14.3324277+00:00",
   "LastChanged": "2024-01-08T13:04:22.5432587+00:00",
   "LastUpdate_AppInfo": "2024-03-24T11:57:10.2088568+00:00",
-  "LastUpdate_Ratings": "2024-03-30T19:57:37.7767811+00:00",
+  "LastUpdate_Ratings": "2024-03-30T21:00:12.4827169+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:43.7371137+00:00"
 }

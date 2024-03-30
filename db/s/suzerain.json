@@ -2,9 +2,9 @@
   "ID": "4586d456108e4a03810c5927453ce6da",
   "Name": "Suzerain",
   "ProductSlug": "suzerain",
-  "Ranking_Rating": 209,
-  "Ranking_Popularity": 625,
-  "Ranking_PopularitySum": 625,
+  "Ranking_Rating": 183,
+  "Ranking_Popularity": 626,
+  "Ranking_PopularitySum": 626,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2022-11-13T17:58:37.9841255+00:00",
@@ -87,6 +87,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-30T20:58:04.4629958+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -105,8 +111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.9621281+00:00",
   "FirstSeenRating": "2022-11-13T17:58:37.984125+00:00",
-  "LastChanged": "2024-03-26T19:59:22.3104618+00:00",
+  "LastChanged": "2024-03-30T20:58:04.4629953+00:00",
   "LastUpdate_AppInfo": "2024-03-24T12:59:29.2978294+00:00",
-  "LastUpdate_Ratings": "2024-03-30T18:59:19.9302958+00:00",
+  "LastUpdate_Ratings": "2024-03-30T20:58:04.4629961+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:48.4236327+00:00"
 }

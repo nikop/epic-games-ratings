@@ -2,8 +2,8 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Ranking_Rating": 904,
-  "Ranking_Popularity": 177,
+  "Ranking_Rating": 905,
+  "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 155,
@@ -2093,18 +2093,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 2041,
       "NumberOfAwardsMax": 1009
+    },
+    {
+      "Time": "2024-03-30T20:59:10.1164605+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2042,
+      "NumberOfAwardsMax": 1010
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2041,
-  "NumberOfAwardsMax": 1009,
+  "NumberOfAwards": 2042,
+  "NumberOfAwardsMax": 1010,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1009
+      "Count": 1010
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -18227,9 +18233,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2024-03-28T01:41:11.1073632+00:00",
+  "LastChanged": "2024-03-30T20:59:10.1164603+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:56.7330967+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:57:24.4293491+00:00",
-  "LastUpdate_Ratings": "2024-03-30T19:00:03.7148524+00:00",
+  "LastUpdate_Ratings": "2024-03-30T20:59:10.1164608+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:56.733213+00:00"
 }
