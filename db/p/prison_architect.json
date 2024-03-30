@@ -4,7 +4,7 @@
   "ProductSlug": "prison-architect",
   "Ranking_Rating": 414,
   "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 152,
+  "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 1,
@@ -10195,10 +10195,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 5752,
       "NumberOfAwardsMax": 755
+    },
+    {
+      "Time": "2024-03-30T17:57:43.7919734+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 5754,
+      "NumberOfAwardsMax": 755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5752,
+  "NumberOfAwards": 5754,
   "NumberOfAwardsMax": 755,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10248,7 +10254,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 678
+      "Count": 680
     },
     {
       "Text": "This game has Amazing Characters",
@@ -42903,9 +42909,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-03-30T14:57:50.9093712+00:00",
+  "LastChanged": "2024-03-30T17:57:43.7919732+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:03.9906618+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:27.1502028+00:00",
-  "LastUpdate_Ratings": "2024-03-30T16:00:16.9989869+00:00",
+  "LastUpdate_Ratings": "2024-03-30T17:57:43.7919738+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:03.9908968+00:00"
 }
