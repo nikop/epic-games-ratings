@@ -74,7 +74,7 @@
 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | 64 (1,000 XP) | 25 | - | 0 |
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 102 | - | 0 |
 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 335 | - | 0 |
-| [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 119,522 | 4.74 | 0 |
+| [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 119,522 | 4.75 | 0 |
 | [Stoneshard](games/d/d13dd3d47e2b44e8b8de0a637355a92d.md) | 2024-03-07 | - |  | - | 0 |
 | [As Dusk Falls](games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 2024-03-07 | 50 (1,000 XP) | 21 | - | 0 |
 | [Metal Mind](games/9/973ea9bd62374be5bb84ef2c8d096c56.md) | 2024-03-07 | - |  | - | 0 |
@@ -102,5 +102,3 @@
 | [Mazemerizzz](games/5/540938ff9d7648ca9cf93e3c9a01d726.md) | 2024-03-01 | - |  | - | - |
 | [Arena Survivors](games/e/eb28b370b2f1435a94303a70bd2142b7.md) | 2024-03-01 | - |  | - | 0 |
 | [Floppa: The Dark Forest](games/8/8a9e2e4ce5ab48eb8da52acb61acd34a.md) | 2024-02-29 | - |  | - | - |
-| [Geometric Sniper - Blood in Paris](games/1/1a8cba3402d84f0bad7f7f3ece71d486.md) | 2024-02-29 | 40 (1,000 XP) | 123 | - | 0 |
-| [Tamarak Trail](games/9/985a7dfa6292483fab6d3451a7914a1f.md) | 2024-02-29 | 15 (1,000 XP) | 4 | - | 0 |
