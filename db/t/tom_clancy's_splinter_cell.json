@@ -2,7 +2,7 @@
   "ID": "54090fbc182e44d79b2872f24994c190",
   "Name": "Tom Clancy\u0027s Splinter Cell",
   "ProductSlug": "splinter-cell",
-  "Ranking_Rating": 764,
+  "Ranking_Rating": 754,
   "Ranking_Popularity": 625,
   "Ranking_PopularitySum": 625,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2022-10-05T15:02:18.5896963+00:00",
@@ -223,6 +223,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-30T01:37:14.0103195+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -241,8 +247,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:41.3316811+00:00",
   "FirstSeenRating": "2022-10-05T15:02:18.5896958+00:00",
-  "LastChanged": "2024-03-14T21:58:36.1233161+00:00",
+  "LastChanged": "2024-03-30T01:37:14.0103194+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:29.2906293+00:00",
-  "LastUpdate_Ratings": "2024-03-29T22:59:18.601986+00:00",
+  "LastUpdate_Ratings": "2024-03-30T01:37:14.0103198+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:31.3913152+00:00"
 }
