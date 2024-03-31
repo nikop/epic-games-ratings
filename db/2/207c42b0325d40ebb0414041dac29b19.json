@@ -4,7 +4,7 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 373,
   "Ranking_Popularity": 99,
-  "Ranking_PopularitySum": 115,
+  "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -3533,10 +3533,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 9083,
       "NumberOfAwardsMax": 3776
+    },
+    {
+      "Time": "2024-03-31T03:57:23.0423604+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 9091,
+      "NumberOfAwardsMax": 3776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9083,
+  "NumberOfAwards": 9091,
   "NumberOfAwardsMax": 3776,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3562,7 +3568,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 523
+      "Count": 526
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3592,7 +3598,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 675
+      "Count": 680
     },
     {
       "Text": "This game has a Creative Community",
@@ -3625,8 +3631,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-03-30T18:59:09.7372773+00:00",
+  "LastChanged": "2024-03-31T03:57:23.0423602+00:00",
   "LastUpdate_AppInfo": "2024-03-28T23:57:12.4427802+00:00",
-  "LastUpdate_Ratings": "2024-03-31T02:19:01.1024503+00:00",
+  "LastUpdate_Ratings": "2024-03-31T03:57:23.0423608+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:11.9171181+00:00"
 }
