@@ -1,5 +1,22 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-03-31 | - |  | - | - |
+| [Back to the Earth](games/5/50833957772f447699fab0bb571039d0.md) | 2024-03-31 | - |  | - | - |
+| [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
+| [Domynyo](games/0/0da5045417f24b309daf44a90c354cf2.md) | 2024-03-31 | - |  | - | - |
+| [Geneforge 2 - Infestation](games/8/849b81c39d7643a588f1acc034384dc7.md) | 2024-03-31 | - |  | - | - |
+| [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-03-31 | - |  | - | - |
+| [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | 0 |
+| [Heath the unchosen path](games/0/0ab21aefa7624625abaa1ceb308d941d.md) | 2024-03-31 | - |  | - | - |
+| [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
+| [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-03-31 | - |  | - | - |
+| [Of Murder and Moonshine](games/7/7218b3eddf1749dd9f966c615f2a9d96.md) | 2024-03-31 | - |  | - | - |
+| [Repression](games/0/0bcd77c68cff407a9628730bb61f639d.md) | 2024-03-31 | - |  | - | - |
+| [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
+| [TRIBES 3: Rivals](games/4/41f54b0e3988413c921e4a21cdb15172.md) | 2024-03-31 | - |  | - | - |
+| [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | - |  | - | - |
+| [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-03-31 | - |  | - | - |
+| [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | - |  | - | - |
 | [Ubersoldier II](games/5/55483ea545c34bf79d6e9e600d24ced9.md) | 2024-03-30 | - |  | - | - |
 | [Ubersoldier](games/a/a3def65eb16d4cc4993a7d7f626bc42f.md) | 2024-03-30 | - |  | - | - |
 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 2024-03-29 | - |  | - | - |
@@ -100,4 +117,3 @@
 | [The Story Goes On](games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 2024-03-02 | 29 (1,000 XP) | 2 | - | - |
 | [Unwording](games/d/dfcaca0f28ed435ebaf4e12d87a39ad2.md) | 2024-03-01 | 14 (1,000 XP) | 55 | - | 0 |
 | [Mazemerizzz](games/5/540938ff9d7648ca9cf93e3c9a01d726.md) | 2024-03-01 | - |  | - | - |
-| [Arena Survivors](games/e/eb28b370b2f1435a94303a70bd2142b7.md) | 2024-03-01 | - |  | - | 0 |

@@ -1,22 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-03-31 | - |  | - | - |
-| [Back to the Earth](games/5/50833957772f447699fab0bb571039d0.md) | 2024-03-31 | - |  | - | - |
-| [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
-| [Domynyo](games/0/0da5045417f24b309daf44a90c354cf2.md) | 2024-03-31 | - |  | - | - |
-| [Geneforge 2 - Infestation](games/8/849b81c39d7643a588f1acc034384dc7.md) | 2024-03-31 | - |  | - | - |
-| [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-03-31 | - |  | - | - |
-| [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | - |
-| [Heath the unchosen path](games/0/0ab21aefa7624625abaa1ceb308d941d.md) | 2024-03-31 | - |  | - | - |
-| [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
-| [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-03-31 | - |  | - | - |
-| [Of Murder and Moonshine](games/7/7218b3eddf1749dd9f966c615f2a9d96.md) | 2024-03-31 | - |  | - | - |
-| [Repression](games/0/0bcd77c68cff407a9628730bb61f639d.md) | 2024-03-31 | - |  | - | - |
-| [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
-| [TRIBES 3: Rivals](games/4/41f54b0e3988413c921e4a21cdb15172.md) | 2024-03-31 | - |  | - | - |
-| [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | - |  | - | - |
-| [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-03-31 | - |  | - | - |
-| [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | - |  | - | - |
 | [Basima The Private Investigator](games/3/3a4a182b8e2d4e318a070f7d1726482b.md) | 2024-03-31 | - |  | - | - |
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | - |
 | [Withering Rooms](games/a/a9d3d11848a14f46a47ced564b521d37.md) | 2024-04-02 | - |  | - | - |
