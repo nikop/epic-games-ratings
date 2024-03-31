@@ -4,8 +4,8 @@
 Rating: 4.79 (Ranked 101)  
 ## Awards
 Max (Great Boss Battles): 93  (Ranked 414)  
-Sum: 93 (Ranked 506)  
-Diff (max vs sum): -92  
+Sum: 93 (Ranked 507)  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 93 |
