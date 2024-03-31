@@ -13,7 +13,7 @@
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,074 | 125 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 626 |
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,055 | 46 |
-| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 506 | 230 |
+| 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 507 | 230 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 26,254 | 20 |
 | 16 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 25 | 587 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 626 |
@@ -57,7 +57,7 @@
 | 45 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 626 |
 | 56 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.83 | 0 | 626 |
 | 56 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 626 |
-| 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,006 | 66 |
+| 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,016 | 66 |
 | 56 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 191 | 328 |
 | 56 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 626 |
 | 56 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 626 |
@@ -124,7 +124,7 @@
 | 115 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.78 | 0 | 626 |
 | 115 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 558 |
 | 124 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 24 | 593 |
-| 124 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,501 | 41 |
+| 124 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,534 | 41 |
 | 124 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,295 | 151 |
 | 124 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,205 | 37 |
 | 124 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.77 | 58 | 469 |
@@ -199,7 +199,7 @@
 | 184 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 626 |
 | 184 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 626 |
 | 184 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 626 |
-| 184 | [Timberborn](games/t/timberborn.md) | 4.73 | 186 | 330 |
+| 184 | [Timberborn](games/t/timberborn.md) | 4.73 | 187 | 330 |
 | 184 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.73 | 0 | 626 |
 | 184 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 0 | 626 |
 | 203 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.72 | 0 | 626 |
@@ -314,7 +314,7 @@
 | 292 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 103 | 393 |
 | 292 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.67 | 51 | 490 |
 | 292 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 626 |
-| 315 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,712 | 100 |
+| 315 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,718 | 100 |
 | 315 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 0 | 626 |
 | 315 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 98 | 405 |
 | 315 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,393 | 65 |
@@ -441,7 +441,7 @@
 | 414 | [Supraland](games/s/supraland.md) | 4.61 | 7,834 | 63 |
 | 414 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 578 | 224 |
 | 414 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 78 | 434 |
-| 414 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 393 | 253 |
+| 414 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 394 | 253 |
 | 414 | [Warframe](games/w/warframe.md) | 4.61 | 22,729 | 23 |
 | 414 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 799 | 197 |
 | 445 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 849 | 192 |
@@ -790,7 +790,7 @@
 | 781 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.41 | 0 | 626 |
 | 781 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 626 |
 | 781 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.41 | 249 | 292 |
-| 781 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,289 | 122 |
+| 781 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,290 | 122 |
 | 781 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 449 |
 | 781 | [Sheltered](games/s/sheltered.md) | 4.41 | 287 | 282 |
 | 781 | [The Riflemen](games/t/the_riflemen.md) | 4.41 | 0 | 626 |
@@ -1058,17 +1058,17 @@
 | 1,054 | [Pine](games/p/pine.md) | 4.14 | 0 | 626 |
 | 1,054 | [Relicta](games/r/relicta.md) | 4.14 | 206 | 316 |
 | 1,054 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.14 | 0 | 626 |
+| 1,054 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.14 | 2,417 | 117 |
 | 1,054 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 626 |
 | 1,054 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 626 |
-| 1,061 | [Banished](games/b/banished.md) | 4.13 | 0 | 626 |
-| 1,061 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 602 |
-| 1,061 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 626 |
-| 1,061 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,398 | 117 |
-| 1,065 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 626 |
+| 1,062 | [Banished](games/b/banished.md) | 4.13 | 0 | 626 |
+| 1,062 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 602 |
+| 1,062 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 626 |
 | 1,065 | [Gravewood High](games/g/gravewood_high.md) | 4.12 | 0 | 626 |
-| 1,067 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 0 | 626 |
-| 1,067 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.11 | 0 | 626 |
-| 1,067 | [SYNCED](games/s/synced.md) | 4.11 | 173 | 340 |
+| 1,066 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 626 |
+| 1,066 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 0 | 626 |
+| 1,066 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.11 | 0 | 626 |
+| 1,066 | [SYNCED](games/s/synced.md) | 4.11 | 173 | 340 |
 | 1,070 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.10 | 134 | 362 |
 | 1,070 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.10 | 0 | 626 |
 | 1,070 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.10 | 0 | 626 |
