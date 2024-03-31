@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.67 (Ranked 291)  
+Rating: 4.68 (Ranked 274)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -261,3 +261,4 @@ Diff (max vs sum): -1
 | 2024-02-27 | 4.67 | 20 | 20 |
 | 2024-03-22 | 4.68 | 20 | 20 |
 | 2024-03-28 | 4.67 | 20 | 20 |
+| 2024-03-31 | 4.68 | 20 | 20 |
