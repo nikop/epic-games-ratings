@@ -2,7 +2,7 @@
   "ID": "6feac7e685174dd698e90ca9536e1299",
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 183,
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 186,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "NumberOfRatings": 546,
   "RatingHistory": [
     {
@@ -1951,6 +1951,12 @@
     {
       "Time": "2024-03-30T15:57:34.3586721+00:00",
       "Rating": 4.74,
+      "NumberOfAwards": 1128,
+      "NumberOfAwardsMax": 181
+    },
+    {
+      "Time": "2024-03-31T15:57:48.8775024+00:00",
+      "Rating": 4.73,
       "NumberOfAwards": 1128,
       "NumberOfAwardsMax": 181
     }
@@ -11580,9 +11586,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-03-30T15:57:34.3586565+00:00",
+  "LastChanged": "2024-03-31T15:57:48.8775023+00:00",
   "LastChanged_Achievements": "2024-03-21T17:10:42.4540582+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:58:04.9876195+00:00",
-  "LastUpdate_Ratings": "2024-03-31T14:02:45.0375483+00:00",
+  "LastUpdate_Ratings": "2024-03-31T15:57:48.8775031+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:42.4541398+00:00"
 }
