@@ -5,8 +5,8 @@ Rating: 4.76 (Ranked 140)
 Number of Ratings: 277  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 67  (Ranked 454)  
-Sum: 341 (Ranked 394)  
-Diff (max vs sum): 60  
+Sum: 341 (Ranked 395)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 212 |

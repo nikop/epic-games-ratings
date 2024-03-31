@@ -4,7 +4,7 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 1126,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 189,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -5038,10 +5038,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 3228,
       "NumberOfAwardsMax": 502
+    },
+    {
+      "Time": "2024-03-31T19:02:04.4755074+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 3609,
+      "NumberOfAwardsMax": 502
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3228,
+  "NumberOfAwards": 3609,
   "NumberOfAwardsMax": 502,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5049,7 +5055,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 378
+      "Count": 381
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5123,8 +5129,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2024-03-30T17:59:06.9161293+00:00",
+  "LastChanged": "2024-03-31T19:02:04.4755073+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:20.4018829+00:00",
-  "LastUpdate_Ratings": "2024-03-31T17:58:51.2002077+00:00",
+  "LastUpdate_Ratings": "2024-03-31T19:02:04.4755079+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:45.0725426+00:00"
 }
