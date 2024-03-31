@@ -2,7 +2,7 @@
   "ID": "891f8bcc44394b259a14493ab2ed10e4",
   "Name": "Trine 5: A Clockwork Conspiracy",
   "ProductSlug": "trine-5",
-  "Ranking_Rating": 275,
+  "Ranking_Rating": 248,
   "Ranking_Popularity": 626,
   "Ranking_PopularitySum": 626,
   "Ranking_EOS_Progress": 952,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2024-01-01T05:00:26.6992934+00:00",
@@ -127,6 +127,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-03-31T06:57:50.4431035+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -153,9 +159,9 @@
   "FirstSeen": "2023-09-01T13:02:40.2565714+00:00",
   "FirstSeenRating": "2024-01-01T05:00:26.6992932+00:00",
   "FirstSeenAchievements": "2023-08-28T21:26:25.9154203+00:00",
-  "LastChanged": "2024-03-21T03:59:45.7876261+00:00",
+  "LastChanged": "2024-03-31T06:57:50.4431033+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:50.8681053+00:00",
   "LastUpdate_AppInfo": "2024-03-24T10:57:20.1280848+00:00",
-  "LastUpdate_Ratings": "2024-03-31T05:00:47.0910159+00:00",
+  "LastUpdate_Ratings": "2024-03-31T06:57:50.4431038+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:50.8681087+00:00"
 }
