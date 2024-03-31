@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_Rating": 969,
   "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 428,
+  "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -443,10 +443,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 257,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-03-31T08:57:22.3332006+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 260,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 257,
+  "NumberOfAwards": 260,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -490,7 +496,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 31
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1692,9 +1698,9 @@
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenRating": "2024-03-15T19:58:30.0365601+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged": "2024-03-31T03:59:57.210443+00:00",
+  "LastChanged": "2024-03-31T08:57:22.3332004+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:08.0154656+00:00",
   "LastUpdate_AppInfo": "2024-03-28T01:38:11.7494405+00:00",
-  "LastUpdate_Ratings": "2024-03-31T06:59:29.0086931+00:00",
+  "LastUpdate_Ratings": "2024-03-31T08:57:22.3332008+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:08.0155688+00:00"
 }
