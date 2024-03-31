@@ -4,12 +4,12 @@
 Rating: 3.95 (Ranked 1,113)  
 ## Awards
 Max (Highly Recommended): 89  (Ranked 419)  
-Sum: 650 (Ranked 336)  
+Sum: 651 (Ranked 336)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 89 |
-| This game is Relaxing | 75 |
+| This game is Relaxing | 76 |
 | This game has Competitive Players | 74 |
 | This game is Extremely Fun | 71 |
 | This game has Realistic Visuals | 70 |
@@ -144,4 +144,4 @@ Diff (max vs sum): 83
 | 2024-03-28 | 3.95 | 87 | 570 |
 | 2024-03-29 | 3.95 | 87 | 643 |
 | 2024-03-30 | 3.95 | 89 | 648 |
-| 2024-03-31 | 3.95 | 89 | 650 |
+| 2024-03-31 | 3.95 | 89 | 651 |
