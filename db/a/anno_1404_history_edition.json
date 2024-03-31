@@ -2,7 +2,7 @@
   "ID": "590c37a9443d46ce84be415b96b1a3e6",
   "Name": "Anno 1404 History Edition",
   "ProductSlug": "anno-1404",
-  "Ranking_Rating": 139,
+  "Ranking_Rating": 124,
   "Ranking_Popularity": 593,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 69,
   "RatingHistory": [
     {
@@ -413,6 +413,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 47,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-03-31T07:57:56.479595+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -444,8 +450,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
-  "LastChanged": "2024-03-30T07:57:16.0746425+00:00",
+  "LastChanged": "2024-03-31T07:57:56.4795948+00:00",
   "LastUpdate_AppInfo": "2024-03-24T08:58:18.5395402+00:00",
-  "LastUpdate_Ratings": "2024-03-31T05:59:54.4693018+00:00",
+  "LastUpdate_Ratings": "2024-03-31T07:57:56.4795952+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:54.894141+00:00"
 }
