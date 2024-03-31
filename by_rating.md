@@ -461,7 +461,7 @@
 | 445 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 0 | 626 |
 | 445 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.60 | 0 | 626 |
 | 445 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.60 | 593 | 222 |
-| 445 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 516 | 229 |
+| 445 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 520 | 229 |
 | 445 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.60 | 93 | 414 |
 | 445 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 26 | 579 |
 | 465 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 47 | 498 |
@@ -743,6 +743,7 @@
 | 734 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 379 |
 | 734 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,904 | 30 |
 | 734 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 4.44 | 0 | 626 |
+| 734 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.44 | 194 | 325 |
 | 734 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 626 |
 | 734 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 626 |
 | 734 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 626 |
@@ -753,18 +754,17 @@
 | 734 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.44 | 0 | 626 |
 | 734 | [Tunche](games/t/tunche.md) | 4.44 | 33 | 544 |
 | 734 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 297 | 280 |
-| 754 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 271 | 289 |
-| 754 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 626 |
-| 754 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 43 | 507 |
-| 754 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.43 | 194 | 325 |
-| 754 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.43 | 0 | 626 |
-| 754 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,522 | 146 |
-| 754 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 626 |
-| 754 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 626 |
-| 754 | [Warpips](games/w/warpips.md) | 4.43 | 45 | 502 |
-| 754 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.43 | 31 | 552 |
-| 754 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 464 |
-| 754 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 28 | 568 |
+| 755 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 271 | 289 |
+| 755 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 626 |
+| 755 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 43 | 507 |
+| 755 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.43 | 0 | 626 |
+| 755 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,522 | 146 |
+| 755 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 626 |
+| 755 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 626 |
+| 755 | [Warpips](games/w/warpips.md) | 4.43 | 45 | 502 |
+| 755 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.43 | 31 | 552 |
+| 755 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 464 |
+| 755 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 28 | 568 |
 | 766 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.42 | 0 | 626 |
 | 766 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 626 |
 | 766 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.42 | 0 | 626 |
@@ -1017,15 +1017,15 @@
 | 1,009 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,927 | 79 |
 | 1,009 | [Out of Line](games/o/out_of_line.md) | 4.20 | 0 | 626 |
 | 1,009 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.20 | 0 | 626 |
-| 1,018 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 493 |
-| 1,018 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,462 | 106 |
-| 1,018 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 602 |
-| 1,018 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 430 |
-| 1,018 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 626 |
-| 1,018 | [The Bridge](games/t/the_bridge.md) | 4.19 | 0 | 626 |
-| 1,018 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 626 |
-| 1,018 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.19 | 0 | 626 |
-| 1,018 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 626 |
+| 1,009 | [The Bridge](games/t/the_bridge.md) | 4.20 | 0 | 626 |
+| 1,019 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 493 |
+| 1,019 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,462 | 106 |
+| 1,019 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 602 |
+| 1,019 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 430 |
+| 1,019 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 626 |
+| 1,019 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 626 |
+| 1,019 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.19 | 0 | 626 |
+| 1,019 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 626 |
 | 1,027 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 626 |
 | 1,027 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 225,364 | 6 |
 | 1,027 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 411 |
