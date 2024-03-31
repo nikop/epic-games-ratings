@@ -4,12 +4,12 @@
 Rating: 4.38 (Ranked 830)  
 Number of Ratings: 43,722  (23.09.2022)  
 ## Awards
-Max (Relaxing): 11,855  (Ranked 39)  
-Sum: 89,848 (Ranked 21)  
+Max (Relaxing): 11,856  (Ranked 39)  
+Sum: 89,849 (Ranked 21)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 11,855 |
+| This game is Relaxing | 11,856 |
 | This game has Quickly Understood Controls | 10,946 |
 | This game has Diverse Characters | 10,825 |
 | This game has Competitive Players | 10,601 |
@@ -454,4 +454,4 @@ Diff (max vs sum): 18
 | 2024-03-28 | 4.38 | - | 11,855 | 89,841 |
 | 2024-03-29 | 4.38 | - | 11,855 | 89,845 |
 | 2024-03-30 | 4.38 | - | 11,855 | 89,846 |
-| 2024-03-31 | 4.38 | - | 11,855 | 89,848 |
+| 2024-03-31 | 4.38 | - | 11,856 | 89,849 |
