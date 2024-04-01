@@ -315,7 +315,7 @@
 | 293 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.67 | 51 | 490 |
 | 293 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 627 |
 | 315 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 0 | 627 |
-| 315 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 98 | 405 |
+| 315 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 99 | 402 |
 | 315 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,403 | 65 |
 | 315 | [Crashlands](games/c/crashlands.md) | 4.66 | 201 | 319 |
 | 315 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 188 | 329 |
@@ -580,7 +580,7 @@
 | 564 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 579 |
 | 564 | [Sable](games/s/sable.md) | 4.54 | 32 | 549 |
 | 564 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.54 | 0 | 627 |
-| 564 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 98 | 405 |
+| 564 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 98 | 406 |
 | 564 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 627 |
 | 564 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 627 |
 | 564 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.54 | 0 | 627 |
@@ -747,7 +747,7 @@
 | 733 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 627 |
 | 733 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 627 |
 | 733 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 685 | 207 |
-| 733 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 405 |
+| 733 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 406 |
 | 733 | [The Colonists](games/t/the_colonists.md) | 4.44 | 0 | 627 |
 | 733 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.44 | 0 | 627 |
 | 733 | [Tunche](games/t/tunche.md) | 4.44 | 33 | 544 |
@@ -960,7 +960,7 @@
 | 949 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.27 | 0 | 627 |
 | 949 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 627 |
 | 949 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 627 |
-| 961 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,897 | 22 |
+| 961 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,914 | 22 |
 | 961 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,078 | 97 |
 | 961 | [RiMS Racing](games/r/rims_racing.md) | 4.26 | 0 | 627 |
 | 961 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 627 |
@@ -971,19 +971,19 @@
 | 969 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.25 | 0 | 627 |
 | 969 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 603 |
 | 969 | [Cyber Hook](games/c/cyber_hook.md) | 4.25 | 0 | 627 |
-| 969 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.25 | 42 | 509 |
 | 969 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 33 | 544 |
 | 969 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 627 |
 | 969 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 627 |
-| 976 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 627 |
-| 976 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 540 |
-| 976 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 627 |
-| 976 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,221 | 153 |
-| 976 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.24 | 0 | 627 |
-| 976 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,044 | 173 |
-| 976 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 627 |
-| 976 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 627 |
-| 976 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 500 |
+| 975 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 627 |
+| 975 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 540 |
+| 975 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.24 | 42 | 509 |
+| 975 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 627 |
+| 975 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,221 | 153 |
+| 975 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.24 | 0 | 627 |
+| 975 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,044 | 173 |
+| 975 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 627 |
+| 975 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 627 |
+| 975 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 500 |
 | 985 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.23 | 0 | 627 |
 | 985 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 627 |
 | 985 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.23 | 81 | 427 |
