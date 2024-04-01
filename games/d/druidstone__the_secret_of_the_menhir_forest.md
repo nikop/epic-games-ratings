@@ -1,7 +1,7 @@
 # Druidstone: The Secret of the Menhir Forest
 [Store](https://store.epicgames.com/en-US/p/druidstone-0697f7)  
 [View Rawdata](../../db/d/druidstone__the_secret_of_the_menhir_forest.json)  
-Rating: 4.24 (Ranked 976)  
+Rating: 4.24 (Ranked 975)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
