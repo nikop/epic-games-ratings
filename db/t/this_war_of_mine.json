@@ -4,7 +4,7 @@
   "ProductSlug": "this-war-of-mine",
   "Ranking_Rating": 152,
   "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -2119,10 +2119,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 784,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2024-04-01T14:01:39.8488951+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 785,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 784,
+  "NumberOfAwards": 785,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2154,7 +2160,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2206,9 +2212,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2024-03-31T19:57:45.7910605+00:00",
+  "LastChanged": "2024-04-01T14:01:39.8488947+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:49.1087344+00:00",
   "LastUpdate_AppInfo": "2024-03-31T12:58:04.8489398+00:00",
-  "LastUpdate_Ratings": "2024-04-01T13:01:18.3783601+00:00",
+  "LastUpdate_Ratings": "2024-04-01T14:01:39.8488958+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:49.1087378+00:00"
 }
