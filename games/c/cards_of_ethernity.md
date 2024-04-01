@@ -1,7 +1,7 @@
 # Aether TCG
 [Store](https://store.epicgames.com/en-US/p/aether-trading-card-game-420f51)  
 [View Rawdata](../../db/c/cards_of_ethernity.json)  
-Rating: 4.52 (Ranked 599)  
+Rating: 4.53 (Ranked 586)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -35,3 +35,4 @@ Rating: 4.52 (Ranked 599)
 | 2024-03-24 | 4.54 | 0 | 0 |
 | 2024-03-25 | 4.51 | 0 | 0 |
 | 2024-03-26 | 4.52 | 0 | 0 |
+| 2024-04-01 | 4.53 | 0 | 0 |
