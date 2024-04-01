@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.93,
+  "Rating": 3.94,
   "RatingHistory": [
     {
       "Time": "2022-09-26T13:31:30.2639771+00:00",
@@ -459,6 +459,12 @@
     {
       "Time": "2024-03-22T18:59:36.2899486+00:00",
       "Rating": 3.93,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2024-04-01T19:58:01.3466185+00:00",
+      "Rating": 3.94,
       "NumberOfAwards": 76,
       "NumberOfAwardsMax": 76
     }
@@ -4236,9 +4242,9 @@
   "FirstSeen": "2022-09-23T04:00:21.3687329+00:00",
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
-  "LastChanged": "2024-03-22T18:59:36.2899485+00:00",
+  "LastChanged": "2024-04-01T19:58:01.3466183+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:11.5310686+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:18.4805785+00:00",
-  "LastUpdate_Ratings": "2024-04-01T18:00:32.2117577+00:00",
+  "LastUpdate_Ratings": "2024-04-01T19:58:01.3466188+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:11.5311142+00:00"
 }
