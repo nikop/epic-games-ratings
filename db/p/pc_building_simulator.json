@@ -3,7 +3,7 @@
   "Name": "PC Building Simulator",
   "ProductSlug": "pc-building-simulator",
   "Ranking_Rating": 338,
-  "Ranking_Popularity": 157,
+  "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 445,
@@ -6689,18 +6689,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 8495,
       "NumberOfAwardsMax": 1186
+    },
+    {
+      "Time": "2024-04-01T07:58:10.6172155+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 8498,
+      "NumberOfAwardsMax": 1189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8495,
-  "NumberOfAwardsMax": 1186,
+  "NumberOfAwards": 8498,
+  "NumberOfAwardsMax": 1189,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1186
+      "Count": 1189
     },
     {
       "Text": "This game is Relaxing",
@@ -39799,9 +39805,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
-  "LastChanged": "2024-03-31T07:57:26.3349868+00:00",
+  "LastChanged": "2024-04-01T07:58:10.6172154+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:54.2199733+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:01.6595934+00:00",
-  "LastUpdate_Ratings": "2024-04-01T06:00:25.7010671+00:00",
+  "LastUpdate_Ratings": "2024-04-01T07:58:10.6172159+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:54.2201778+00:00"
 }
