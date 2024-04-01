@@ -2,9 +2,9 @@
   "ID": "7a6c212ee9cf425c82d4b08af3f564a9",
   "Name": "The Walking Dead No Man\u0027s Land",
   "ProductSlug": "the-walking-dead-no-mans-land-d3b769",
-  "Ranking_Rating": 897,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Rating": 906,
+  "Ranking_Popularity": 574,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 1,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2024-01-14T22:59:40.5405565+00:00",
@@ -551,18 +551,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-04-01T11:57:54.6184972+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 69,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 71,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3250,9 +3256,9 @@
   "FirstSeen": "2024-01-10T09:57:12.7833182+00:00",
   "FirstSeenRating": "2024-01-14T22:59:40.5405563+00:00",
   "FirstSeenAchievements": "2024-01-10T10:04:20.1419386+00:00",
-  "LastChanged": "2024-03-30T01:40:31.4644272+00:00",
+  "LastChanged": "2024-04-01T11:57:54.618497+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:04.2374088+00:00",
   "LastUpdate_AppInfo": "2024-03-27T16:57:17.3829195+00:00",
-  "LastUpdate_Ratings": "2024-04-01T10:00:39.7114414+00:00",
+  "LastUpdate_Ratings": "2024-04-01T11:57:54.6184975+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:04.2375061+00:00"
 }
