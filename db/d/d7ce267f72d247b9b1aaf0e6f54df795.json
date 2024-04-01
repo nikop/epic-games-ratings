@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 168,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -791,10 +791,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 373,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-04-01T00:00:36.2843991+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 393,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 373,
+  "NumberOfAwards": 393,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -875,6 +881,12 @@
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
       "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -889,8 +901,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-03-31T03:00:05.6894332+00:00",
+  "LastChanged": "2024-04-01T00:00:36.2843989+00:00",
   "LastUpdate_AppInfo": "2024-03-27T18:57:01.9786558+00:00",
-  "LastUpdate_Ratings": "2024-03-31T22:59:36.7986899+00:00",
+  "LastUpdate_Ratings": "2024-04-01T00:00:36.2844008+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:53.1795758+00:00"
 }
