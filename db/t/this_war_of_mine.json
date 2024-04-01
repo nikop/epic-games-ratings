@@ -3,8 +3,8 @@
   "Name": "This War of Mine",
   "ProductSlug": "this-war-of-mine",
   "Ranking_Rating": 152,
-  "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 318,
+  "Ranking_Popularity": 396,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -2125,18 +2125,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 785,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2024-04-01T18:57:52.2659233+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 787,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 785,
-  "NumberOfAwardsMax": 101,
+  "NumberOfAwards": 787,
+  "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game is Educational",
@@ -2178,7 +2184,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game has a Creative Community",
@@ -2212,9 +2218,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2024-04-01T14:01:39.8488947+00:00",
+  "LastChanged": "2024-04-01T18:57:52.2659231+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:49.1087344+00:00",
   "LastUpdate_AppInfo": "2024-03-31T12:58:04.8489398+00:00",
-  "LastUpdate_Ratings": "2024-04-01T16:59:33.288673+00:00",
+  "LastUpdate_Ratings": "2024-04-01T18:57:52.2659237+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:49.1087378+00:00"
 }
