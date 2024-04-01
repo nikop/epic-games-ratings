@@ -338,15 +338,15 @@ Completed: 2,272 (2.73%) (Ranked 135)
 | 2024-03-21 | 83,170 | 2,272 |
 ## Awards
 Max (Character Customization): 1,072  (Ranked 168)  
-Sum: 2,719 (Ranked 209)  
-Diff (max vs sum): -41  
+Sum: 2,721 (Ranked 208)  
+Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,072 |
 | This game has Great Boss Battles | 798 |
-| This game is Highly Recommended | 118 |
+| This game is Highly Recommended | 119 |
 | This game is Extremely Fun | 115 |
-| This game has Diverse Characters | 114 |
+| This game has Diverse Characters | 115 |
 | This game has Amazing Storytelling | 110 |
 | This game has Quickly Understood Controls | 109 |
 | This game has Challenging Combat | 103 |
@@ -519,4 +519,4 @@ Diff (max vs sum): -41
 | 2024-03-22 | 4.51 | - | 1,069 | 2,713 |
 | 2024-03-24 | 4.51 | - | 1,071 | 2,716 |
 | 2024-03-27 | 4.51 | - | 1,071 | 2,717 |
-| 2024-04-01 | 4.51 | - | 1,072 | 2,719 |
+| 2024-04-01 | 4.51 | - | 1,072 | 2,721 |
