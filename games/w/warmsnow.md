@@ -3,12 +3,12 @@
 [View Rawdata](../../db/w/warmsnow.json)  
 Rating: 4.79 (Ranked 103)  
 ## Awards
-Max (Great Boss Battles): 93  (Ranked 414)  
-Sum: 93 (Ranked 507)  
+Max (Great Boss Battles): 94  (Ranked 414)  
+Sum: 94 (Ranked 507)  
 Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 93 |
+| This game has Great Boss Battles | 94 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -81,3 +81,4 @@ Diff (max vs sum): -93
 | 2024-03-25 | 4.79 | 90 | 90 |
 | 2024-03-28 | 4.79 | 92 | 92 |
 | 2024-03-30 | 4.79 | 93 | 93 |
+| 2024-04-01 | 4.79 | 94 | 94 |
