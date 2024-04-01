@@ -10,7 +10,7 @@
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 627 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 627 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 22 | 603 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,074 | 125 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,076 | 125 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 627 |
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,055 | 46 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 507 | 230 |
@@ -46,7 +46,7 @@
 | 39 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 627 |
 | 45 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 42 | 509 |
 | 45 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 51 | 490 |
-| 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,510 | 58 |
+| 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,515 | 58 |
 | 45 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 627 |
 | 45 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 53 | 480 |
 | 45 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 471 | 239 |
@@ -627,6 +627,7 @@
 | 617 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 353 | 260 |
 | 617 | [GigaBash](games/g/gigabash.md) | 4.51 | 80 | 430 |
 | 617 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 161 | 349 |
+| 617 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.51 | 0 | 627 |
 | 617 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 627 |
 | 617 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 378 | 255 |
 | 617 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 0 | 627 |
@@ -639,28 +640,27 @@
 | 617 | [Wall World](games/w/wall_world.md) | 4.51 | 0 | 627 |
 | 617 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 145 | 357 |
 | 617 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 36 | 532 |
-| 640 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,010 | 128 |
-| 640 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 925 | 183 |
-| 640 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 493 | 236 |
-| 640 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 114 | 384 |
-| 640 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 627 |
-| 640 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 627 |
-| 640 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 0 | 627 |
-| 640 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 627 |
-| 640 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 120 | 377 |
-| 640 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.50 | 0 | 627 |
-| 640 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 689 | 206 |
-| 640 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.50 | 39 | 524 |
-| 640 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 33 | 544 |
-| 640 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.50 | 0 | 627 |
-| 640 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 627 |
-| 640 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.50 | 0 | 627 |
-| 640 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 627 |
-| 640 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 11,563 | 40 |
-| 640 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,761 | 47 |
-| 640 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.50 | 0 | 627 |
-| 640 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 8,631 | 56 |
-| 640 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 480 |
+| 641 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,010 | 128 |
+| 641 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 925 | 183 |
+| 641 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 493 | 236 |
+| 641 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 114 | 384 |
+| 641 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 627 |
+| 641 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 627 |
+| 641 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 0 | 627 |
+| 641 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 627 |
+| 641 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 120 | 377 |
+| 641 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 689 | 206 |
+| 641 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.50 | 39 | 524 |
+| 641 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 33 | 544 |
+| 641 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.50 | 0 | 627 |
+| 641 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 627 |
+| 641 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.50 | 0 | 627 |
+| 641 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.50 | 0 | 627 |
+| 641 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 11,563 | 40 |
+| 641 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.50 | 9,761 | 47 |
+| 641 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.50 | 0 | 627 |
+| 641 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.50 | 8,631 | 56 |
+| 641 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 480 |
 | 662 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 24 | 593 |
 | 662 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,068 | 126 |
 | 662 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 7,874 | 62 |
@@ -727,7 +727,7 @@
 | 715 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 627 |
 | 715 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 925 | 183 |
 | 715 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.45 | 30 | 558 |
-| 715 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 780,441 | 2 |
+| 715 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 781,284 | 2 |
 | 715 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 627 |
 | 715 | [STG Football](games/s/stg_football.md) | 4.45 | 53 | 480 |
 | 715 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 136 | 360 |
