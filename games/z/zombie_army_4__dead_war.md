@@ -1,7 +1,7 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.68 (Ranked 275)  
+Rating: 4.68 (Ranked 276)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -359,12 +359,12 @@ Completed: 25 (0.06%) (Ranked 371)
 | 2024-03-04 | 44,891 | 25 |
 | 2024-03-21 | 45,007 | 25 |
 ## Awards
-Max (Great Boss Battles): 915  (Ranked 187)  
-Sum: 2,729 (Ranked 207)  
+Max (Great Boss Battles): 918  (Ranked 187)  
+Sum: 2,732 (Ranked 207)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 915 |
+| This game has Great Boss Battles | 918 |
 | This game is Great for Beginners | 297 |
 | This game has Diverse Characters | 232 |
 | This game is Highly Recommended | 228 |
@@ -684,3 +684,4 @@ Diff (max vs sum): -20
 | 2024-03-29 | 4.68 | - | 915 | 2,725 |
 | 2024-03-30 | 4.68 | - | 915 | 2,726 |
 | 2024-03-31 | 4.68 | - | 915 | 2,729 |
+| 2024-04-01 | 4.68 | - | 918 | 2,732 |

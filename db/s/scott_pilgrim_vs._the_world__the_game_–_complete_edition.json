@@ -4,7 +4,7 @@
   "ProductSlug": "scott-pilgrim-vs-the-world-the-game",
   "Ranking_Rating": 115,
   "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 535,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -588,6 +588,6 @@
   "FirstSeen": "2022-07-22T20:29:24.6298445+00:00",
   "LastChanged": "2024-03-27T19:58:44.9690442+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:28.7859336+00:00",
-  "LastUpdate_Ratings": "2024-03-31T23:58:15.7709737+00:00",
+  "LastUpdate_Ratings": "2024-04-01T01:48:36.5622389+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:32.3134682+00:00"
 }

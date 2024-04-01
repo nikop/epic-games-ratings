@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant II\u00AE",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 226,
+  "Ranking_Rating": 227,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 67,
@@ -10255,10 +10255,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 21949,
       "NumberOfAwardsMax": 8890
+    },
+    {
+      "Time": "2024-04-01T01:47:55.0568187+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 21960,
+      "NumberOfAwardsMax": 8890
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21949,
+  "NumberOfAwards": 21960,
   "NumberOfAwardsMax": 8890,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10272,7 +10278,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1433
+      "Count": 1437
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10314,7 +10320,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1258
+      "Count": 1265
     },
     {
       "Text": "This game has Unique Visuals",
@@ -33428,9 +33434,9 @@
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-03-31T19:01:39.5558104+00:00",
+  "LastChanged": "2024-04-01T01:47:55.0568185+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:18.9085514+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:57:42.8944275+00:00",
-  "LastUpdate_Ratings": "2024-03-31T23:57:34.6299432+00:00",
+  "LastUpdate_Ratings": "2024-04-01T01:47:55.0568191+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:18.9087018+00:00"
 }
