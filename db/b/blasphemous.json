@@ -3,7 +3,7 @@
   "Name": "Blasphemous",
   "ProductSlug": "blasphemous",
   "Ranking_Rating": 56,
-  "Ranking_Popularity": 327,
+  "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
@@ -845,6 +845,6 @@
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
   "LastChanged": "2024-03-31T19:57:23.9000507+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:33.2789788+00:00",
-  "LastUpdate_Ratings": "2024-04-01T08:01:57.0113576+00:00",
+  "LastUpdate_Ratings": "2024-04-01T09:59:00.0858865+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:05.9661757+00:00"
 }

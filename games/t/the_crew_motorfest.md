@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_crew_motorfest.json)  
 Rating: 4.64 (Ranked 359)  
 ## Awards
-Max (Relaxing): 1,107  (Ranked 163)  
+Max (Relaxing): 1,107  (Ranked 164)  
 Sum: 8,156 (Ranked 127)  
-Diff (max vs sum): 36  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,107 |
