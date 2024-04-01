@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Era.S Decode](games/5/5302127af0b84df1953f5fc4378042eb.md) | 2024-03-31 | - |  | - | - |
+| [Era.S Decode](games/5/5302127af0b84df1953f5fc4378042eb.md) | 2024-03-31 | - |  | - | 0 |
 | [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-03-31 | - |  | - | - |
 | [Back to the Earth](games/5/50833957772f447699fab0bb571039d0.md) | 2024-03-31 | - |  | - | - |
 | [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
