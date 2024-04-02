@@ -1,7 +1,7 @@
 # Death's Door
 [Store](https://store.epicgames.com/en-US/p/deaths-door)  
 [View Rawdata](../../db/d/death's_door.json)  
-Rating: 4.61 (Ranked 414)  
+Rating: 4.61 (Ranked 415)  
 Number of Ratings: 120  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

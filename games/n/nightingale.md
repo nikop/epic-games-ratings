@@ -1,7 +1,7 @@
 # Nightingale
 [Store](https://store.epicgames.com/en-US/p/nightingale)  
 [View Rawdata](../../db/n/nightingale.json)  
-Rating: 4.27 (Ranked 951)  
+Rating: 4.27 (Ranked 952)  
 ## Awards
 Max (Highly Recommended): 56  (Ranked 472)  
 Sum: 298 (Ranked 413)  

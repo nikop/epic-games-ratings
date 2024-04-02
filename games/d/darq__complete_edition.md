@@ -1,7 +1,7 @@
 # DARQ: Complete Edition
 [Store](https://store.epicgames.com/en-US/p/darq-complete-edition)  
 [View Rawdata](../../db/d/darq__complete_edition.json)  
-Rating: 4.44 (Ranked 734)  
+Rating: 4.44 (Ranked 735)  
 Number of Ratings: 388  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

@@ -1,7 +1,7 @@
 # Aimlabs
 [Store](https://store.epicgames.com/en-US/p/aimlabs)  
 [View Rawdata](../../db/a/aimlabs.json)  
-Rating: 4.61 (Ranked 414)  
+Rating: 4.61 (Ranked 415)  
 ## Awards
 Max (Great for Quick Sessions): 134  (Ranked 363)  
 Sum: 874 (Ranked 302)  
