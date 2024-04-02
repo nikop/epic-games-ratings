@@ -2,7 +2,7 @@
   "ID": "c3859bc4671c4f7ca0df5dbd1d65ae82",
   "Name": "Seekers of Tokane",
   "ProductSlug": "seekers-of-tokane-a5986d",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 661,
   "Ranking_Popularity": 626,
   "Ranking_PopularitySum": 626,
   "Ranking_EOS_Progress": 952,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2024-02-16T07:00:10.8210371+00:00",
@@ -281,6 +281,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-02T21:58:02.9924071+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -299,8 +305,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-04-02T07:57:39.7947765+00:00",
+  "LastChanged": "2024-04-02T21:58:02.9924069+00:00",
   "LastUpdate_AppInfo": "2024-03-28T17:57:28.2853863+00:00",
-  "LastUpdate_Ratings": "2024-04-02T20:00:27.5096167+00:00",
+  "LastUpdate_Ratings": "2024-04-02T21:58:02.9924074+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:52.6796235+00:00"
 }
