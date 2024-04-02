@@ -4,7 +4,7 @@
   "ProductSlug": "superteam-football-6ce66c",
   "Ranking_Rating": 715,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 378,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -916,10 +916,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 397,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-04-02T05:02:00.5462021+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 398,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 397,
+  "NumberOfAwards": 398,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -963,7 +969,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Competitive Players",
@@ -1008,8 +1014,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2024-03-27T05:57:45.0220044+00:00",
+  "LastChanged": "2024-04-02T05:02:00.5462019+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:22.989188+00:00",
-  "LastUpdate_Ratings": "2024-04-02T04:00:12.0560547+00:00",
+  "LastUpdate_Ratings": "2024-04-02T05:02:00.5462025+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:35.169156+00:00"
 }
