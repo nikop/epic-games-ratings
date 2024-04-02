@@ -2,7 +2,7 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "ProductSlug": "red-dead-redemption-2",
-  "Ranking_Rating": 16,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.88,
+  "Rating": 4.87,
   "NumberOfRatings": 102658,
   "RatingHistory": [
     {
@@ -24035,6 +24035,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 823655,
       "NumberOfAwardsMax": 301467
+    },
+    {
+      "Time": "2024-04-01T23:59:14.266411+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 823655,
+      "NumberOfAwardsMax": 301467
     }
   ],
   "ReviewsDisabled": false,
@@ -24138,8 +24144,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-04-01T21:01:12.1152951+00:00",
+  "LastChanged": "2024-04-01T23:59:14.2664107+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:27.3529017+00:00",
-  "LastUpdate_Ratings": "2024-04-01T22:57:43.1030104+00:00",
+  "LastUpdate_Ratings": "2024-04-01T23:59:14.2664115+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:16.0264425+00:00"
 }

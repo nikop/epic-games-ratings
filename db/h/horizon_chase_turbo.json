@@ -3,7 +3,7 @@
   "Name": "Horizon Chase Turbo",
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 563,
-  "Ranking_Popularity": 321,
+  "Ranking_Popularity": 322,
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 381,
@@ -3869,10 +3869,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 1730,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2024-04-01T23:58:24.0574934+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1731,
+      "NumberOfAwardsMax": 199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1730,
+  "NumberOfAwards": 1731,
   "NumberOfAwardsMax": 199,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3910,7 +3916,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 171
+      "Count": 172
     },
     {
       "Text": "This game has Playful Visuals",
@@ -36791,9 +36797,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2024-04-01T06:58:05.7150461+00:00",
+  "LastChanged": "2024-04-01T23:58:24.0574932+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:49.2658384+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:21.7246818+00:00",
-  "LastUpdate_Ratings": "2024-04-01T22:00:29.0310493+00:00",
+  "LastUpdate_Ratings": "2024-04-01T23:58:24.0574937+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:49.2660409+00:00"
 }
