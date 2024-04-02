@@ -373,7 +373,7 @@ Completed: 7 (0.00%) (Ranked 445)
 | 2024-03-21 | 370,154 | 7 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 508)  
-Sum: 247 (Ranked 434)  
+Sum: 249 (Ranked 434)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -385,7 +385,7 @@ Diff (max vs sum): 74
 | This game has Quickly Understood Controls | 35 |
 | This game has Unique Visuals | 27 |
 | This game has Easy Combat | 25 |
-| This game has Amazing Storytelling | 23 |
+| This game has Amazing Storytelling | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -556,3 +556,4 @@ Diff (max vs sum): 74
 | 2024-03-28 | 4.28 | 43 | 245 |
 | 2024-03-31 | 4.28 | 43 | 246 |
 | 2024-04-01 | 4.28 | 44 | 247 |
+| 2024-04-02 | 4.28 | 44 | 249 |

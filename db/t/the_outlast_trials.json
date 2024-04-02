@@ -3,7 +3,7 @@
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 339,
-  "Ranking_Popularity": 238,
+  "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 154,
@@ -5917,24 +5917,30 @@
       "Rating": 4.65,
       "NumberOfAwards": 2564,
       "NumberOfAwardsMax": 478
+    },
+    {
+      "Time": "2024-04-02T14:01:02.4959036+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2568,
+      "NumberOfAwardsMax": 480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2564,
-  "NumberOfAwardsMax": 478,
+  "NumberOfAwards": 2568,
+  "NumberOfAwardsMax": 480,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 337
+      "Count": 338
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 335
+      "Count": 336
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5952,7 +5958,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 478
+      "Count": 480
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6229,9 +6235,9 @@
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
   "FirstSeenAchievements": "2024-01-11T18:08:26.6528361+00:00",
-  "LastChanged": "2024-04-01T21:57:08.1329911+00:00",
+  "LastChanged": "2024-04-02T14:01:02.4959033+00:00",
   "LastChanged_Achievements": "2024-03-21T17:05:31.4834449+00:00",
   "LastUpdate_AppInfo": "2024-03-31T01:43:35.0071894+00:00",
-  "LastUpdate_Ratings": "2024-04-02T13:01:50.0933089+00:00",
+  "LastUpdate_Ratings": "2024-04-02T14:01:02.495904+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:31.4845075+00:00"
 }
