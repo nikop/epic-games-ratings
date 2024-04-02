@@ -2,9 +2,9 @@
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Ranking_Rating": 642,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 56,
-  "Ranking_PopularitySum": 95,
+  "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -4383,24 +4383,30 @@
       "Rating": 4.5,
       "NumberOfAwards": 12558,
       "NumberOfAwardsMax": 8670
+    },
+    {
+      "Time": "2024-04-02T15:57:43.3699479+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 12597,
+      "NumberOfAwardsMax": 8702
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12558,
-  "NumberOfAwardsMax": 8670,
+  "NumberOfAwards": 12597,
+  "NumberOfAwardsMax": 8702,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8670
+      "Count": 8702
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 407
+      "Count": 409
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4412,7 +4418,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 463
+      "Count": 468
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4471,9 +4477,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-04-02T13:01:10.6893267+00:00",
+  "LastChanged": "2024-04-02T15:57:43.3699477+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:07.7714885+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:35.6753615+00:00",
-  "LastUpdate_Ratings": "2024-04-02T14:00:24.400372+00:00",
+  "LastUpdate_Ratings": "2024-04-02T15:57:43.3699482+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:07.771492+00:00"
 }

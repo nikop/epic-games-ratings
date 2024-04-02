@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 754,
   "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -2411,10 +2411,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 1053,
       "NumberOfAwardsMax": 202
+    },
+    {
+      "Time": "2024-04-02T15:58:03.061519+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1054,
+      "NumberOfAwardsMax": 202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1053,
+  "NumberOfAwards": 1054,
   "NumberOfAwardsMax": 202,
   "MaxAwardTitle": "Competitive Community",
   "Tags": [
@@ -2452,7 +2458,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16359,9 +16365,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-04-02T05:58:06.740469+00:00",
+  "LastChanged": "2024-04-02T15:58:03.0615189+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:46.7297352+00:00",
   "LastUpdate_AppInfo": "2024-03-27T01:38:31.144687+00:00",
-  "LastUpdate_Ratings": "2024-04-02T14:00:45.176128+00:00",
+  "LastUpdate_Ratings": "2024-04-02T15:58:03.0615193+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:46.7298438+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: Cuisine Royale",
   "ProductSlug": "crsed-f-o-a-d",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 898,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 952,
@@ -1657,6 +1657,6 @@
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
   "LastChanged": "2024-03-28T14:00:14.6940028+00:00",
   "LastUpdate_AppInfo": "2024-03-31T12:58:10.8776062+00:00",
-  "LastUpdate_Ratings": "2024-04-02T14:57:32.3926507+00:00",
+  "LastUpdate_Ratings": "2024-04-02T15:58:50.8564933+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:18.4869256+00:00"
 }

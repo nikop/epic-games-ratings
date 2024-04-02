@@ -1,7 +1,7 @@
 # Hero's Hour
 [Store](https://store.epicgames.com/en-US/p/heros-hour-871285)  
 [View Rawdata](../../db/h/hero's_hour.json)  
-Rating: 4.40 (Ranked 797)  
+Rating: 4.40 (Ranked 796)  
 Number of Ratings: 37  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
