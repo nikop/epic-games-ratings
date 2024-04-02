@@ -4,7 +4,7 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 662,
   "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 357,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -1447,10 +1447,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 520,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-04-02T18:57:48.0962104+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 583,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 520,
+  "NumberOfAwards": 583,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1512,7 +1518,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game has a Creative Community",
@@ -1532,8 +1538,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-03-26T22:59:51.017348+00:00",
+  "LastChanged": "2024-04-02T18:57:48.0962103+00:00",
   "LastUpdate_AppInfo": "2024-03-31T07:57:21.8073605+00:00",
-  "LastUpdate_Ratings": "2024-04-02T16:59:41.6124699+00:00",
+  "LastUpdate_Ratings": "2024-04-02T18:57:48.0962107+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:17.3826564+00:00"
 }
