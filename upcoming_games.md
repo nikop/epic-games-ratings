@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Adventures of Astronaut Max](games/5/5ba511dbf4c840f79b97eb39f776ab93.md) | 2024-04-02 | - |  | - | - |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | - |  | - | - |
 | [Basima The Private Investigator](games/3/3a4a182b8e2d4e318a070f7d1726482b.md) | 2024-04-03 | - |  | - | - |
 | [Apartment Of Death](games/a/a289e2f87380496290f9be28b5a277f6.md) | 2024-04-04 | - |  | - | - |

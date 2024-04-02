@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Adventures of Astronaut Max](games/5/5ba511dbf4c840f79b97eb39f776ab93.md) | 2024-04-02 | - |  | - | - |
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | - |
 | [Withering Rooms](games/a/a9d3d11848a14f46a47ced564b521d37.md) | 2024-04-02 | - |  | - | - |
 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 2024-04-01 | - |  | - | - |
@@ -47,7 +48,7 @@
 | [VillageBlade](games/f/f5d99ffea3d846a7970a23ee801320f6.md) | 2024-03-27 | - |  | - | - |
 | [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | - |  | - | - |
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | - |  | - | 0 |
-| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | - |  | 4.13 | 30 |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | - |  | 4.09 | 30 |
 | [MICROVOLTS: Recharged](games/2/2223f4a50fcb41779bacff2da0338fc7.md) | 2024-03-26 | - |  | - | 0 |
 | [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 2024-03-26 | - |  | - | 0 |
 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-03-26 | 34 (1,000 XP) | 2 | - | - |
@@ -66,7 +67,7 @@
 | [Shrimp.io](games/4/475a45d75d3c47819dea0e5bffcfdd4b.md) | 2024-03-21 | - |  | - | 0 |
 | [Vacation Adventures Park Ranger 13 Collectors Edition](games/9/939425a921b249b2b3c18c2972bcf996.md) | 2024-03-21 | - |  | - | 0 |
 | [Kneedle Knight](games/0/04826f20ceb04ea0b4119ad49d6db976.md) | 2024-03-21 | - |  | - | 0 |
-| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.34 | 0 |
+| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 1 | 4.32 | 0 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | - |
 | [Need for Speed™ Rivals: Complete Edition](games/e/e9573f687fb24b56ba22562657ef1225.md) | 2024-03-20 | - |  | - | 0 |
 | [The Sinking City](games/t/the_sinking_city.md) | 2024-03-20 | - |  | - | 0 |
