@@ -2,7 +2,7 @@
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 960,
   "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 25,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-03-03T20:57:50.7322234+00:00",
@@ -395,6 +395,12 @@
     {
       "Time": "2024-03-29T18:57:49.0599883+00:00",
       "Rating": 4.27,
+      "NumberOfAwards": 55,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-04-02T09:00:28.6595759+00:00",
+      "Rating": 4.26,
       "NumberOfAwards": 55,
       "NumberOfAwardsMax": 31
     }
@@ -33225,9 +33231,9 @@
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
-  "LastChanged": "2024-03-29T18:57:49.059988+00:00",
+  "LastChanged": "2024-04-02T09:00:28.6595757+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:04.4980268+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:58:23.6075485+00:00",
-  "LastUpdate_Ratings": "2024-04-02T07:57:39.6657183+00:00",
+  "LastUpdate_Ratings": "2024-04-02T09:00:28.6595762+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:04.4982037+00:00"
 }
