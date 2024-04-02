@@ -3,8 +3,8 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 276,
-  "Ranking_Popularity": 604,
-  "Ranking_PopularitySum": 608,
+  "Ranking_Popularity": 603,
+  "Ranking_PopularitySum": 607,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 1,
@@ -11175,6 +11175,6 @@
   "LastChanged": "2024-04-01T12:59:26.170389+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:37.3376858+00:00",
   "LastUpdate_AppInfo": "2024-03-29T21:57:08.75943+00:00",
-  "LastUpdate_Ratings": "2024-04-02T09:57:58.3913509+00:00",
+  "LastUpdate_Ratings": "2024-04-02T10:59:30.8399454+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:37.3377738+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 641,
   "Ranking_Popularity": 47,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -17997,10 +17997,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 34293,
       "NumberOfAwardsMax": 9778
+    },
+    {
+      "Time": "2024-04-02T10:57:32.3070313+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 34310,
+      "NumberOfAwardsMax": 9778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34293,
+  "NumberOfAwards": 34310,
   "NumberOfAwardsMax": 9778,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18014,7 +18020,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7304
+      "Count": 7313
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18026,7 +18032,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1851
+      "Count": 1855
     },
     {
       "Text": "This game is Highly Recommended",
@@ -18050,7 +18056,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1883
+      "Count": 1887
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18088,8 +18094,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-04-02T07:57:45.1493077+00:00",
+  "LastChanged": "2024-04-02T10:57:32.3070311+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:00.0145799+00:00",
-  "LastUpdate_Ratings": "2024-04-02T09:00:36.0032372+00:00",
+  "LastUpdate_Ratings": "2024-04-02T10:57:32.3070317+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:01.4838486+00:00"
 }
