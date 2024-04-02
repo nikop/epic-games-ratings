@@ -4,8 +4,8 @@
 Rating: 4.77 (Ranked 124)  
 ## Awards
 Max (Great for Quick Sessions): 28  (Ranked 569)  
-Sum: 71 (Ranked 529)  
-Diff (max vs sum): 40  
+Sum: 71 (Ranked 530)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 28 |
