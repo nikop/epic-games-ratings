@@ -5,7 +5,7 @@ Rating: 4.62 (Ranked 399)
 Number of Ratings: 900  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,104  (Ranked 165)  
-Sum: 1,470 (Ranked 261)  
+Sum: 1,471 (Ranked 261)  
 Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
@@ -21,7 +21,7 @@ Diff (max vs sum): -96
 | This game is Extremely Fun | 38 |
 | This game has Great Boss Battles | 32 |
 | This game is Great for Quick Sessions | 30 |
-| This game has a Creative Community | 28 |
+| This game has a Creative Community | 29 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -386,4 +386,4 @@ Diff (max vs sum): -96
 | 2024-03-28 | 4.62 | - | 1,099 | 1,464 |
 | 2024-03-29 | 4.62 | - | 1,103 | 1,468 |
 | 2024-04-01 | 4.62 | - | 1,104 | 1,469 |
-| 2024-04-02 | 4.62 | - | 1,104 | 1,470 |
+| 2024-04-02 | 4.62 | - | 1,104 | 1,471 |
