@@ -1,7 +1,7 @@
 # Filament
 [Store](https://store.epicgames.com/en-US/p/filament-332a92)  
 [View Rawdata](../../db/f/filament.json)  
-Rating: 4.33 (Ranked 885)  
+Rating: 4.33 (Ranked 887)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -322,8 +322,8 @@ Completed: 605 (0.28%) (Ranked 298)
 | 2024-03-21 | 212,393 | 605 |
 ## Awards
 Max (Challenging Puzzles): 596  (Ranked 222)  
-Sum: 746 (Ranked 322)  
-Diff (max vs sum): -100  
+Sum: 746 (Ranked 323)  
+Diff (max vs sum): -101  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 596 |
