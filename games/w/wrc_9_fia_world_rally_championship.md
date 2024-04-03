@@ -5,8 +5,8 @@ Rating: 4.51 (Ranked 616)
 Number of Ratings: 233  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 36  (Ranked 534)  
-Sum: 279 (Ranked 423)  
-Diff (max vs sum): 111  
+Sum: 280 (Ranked 422)  
+Diff (max vs sum): 112  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 36 |
@@ -16,8 +16,8 @@ Diff (max vs sum): 111
 | This game is Great for Beginners | 29 |
 | This game has Challenging Combat | 29 |
 | This game is Relaxing | 27 |
+| This game has Realistic Visuals | 26 |
 | This game has Quickly Understood Controls | 25 |
-| This game has Realistic Visuals | 25 |
 | This game is Extremely Fun | 24 |
 | This game has Obsessive Gameplay | 20 |
 | This game has Amazing Storytelling | 20 |
@@ -149,3 +149,4 @@ Diff (max vs sum): 111
 | 2024-03-21 | 4.51 | - | 35 | 258 |
 | 2024-03-25 | 4.51 | - | 35 | 278 |
 | 2024-03-26 | 4.51 | - | 36 | 279 |
+| 2024-04-03 | 4.51 | - | 36 | 280 |

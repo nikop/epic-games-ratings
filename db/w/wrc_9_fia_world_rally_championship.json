@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-9",
   "Ranking_Rating": 616,
   "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -762,10 +762,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-04-03T14:59:19.8231739+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 280,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279,
+  "NumberOfAwards": 280,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -827,7 +833,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
@@ -853,8 +859,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2024-03-26T10:59:53.5069341+00:00",
+  "LastChanged": "2024-04-03T14:59:19.8231737+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:58:17.610035+00:00",
-  "LastUpdate_Ratings": "2024-04-03T13:57:56.8464495+00:00",
+  "LastUpdate_Ratings": "2024-04-03T14:59:19.8231741+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:28.2490018+00:00"
 }
