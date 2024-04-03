@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 488)
 Number of Ratings: 1,941  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 57  (Ranked 470)  
-Sum: 474 (Ranked 364)  
+Sum: 475 (Ranked 364)  
 Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 106
 | This game has Diverse Characters | 50 |
 | This game has Amazing Characters | 48 |
 | This game is Relaxing | 47 |
-| This game has Amazing Storytelling | 41 |
+| This game has Amazing Storytelling | 42 |
 | This game has Unique Visuals | 36 |
 | This game has a Creative Community | 32 |
 ## Ratings History
@@ -176,3 +176,4 @@ Diff (max vs sum): 106
 | 2024-03-11 | 4.58 | - | 57 | 472 |
 | 2024-03-16 | 4.58 | - | 57 | 473 |
 | 2024-03-22 | 4.58 | - | 57 | 474 |
+| 2024-04-03 | 4.58 | - | 57 | 475 |
