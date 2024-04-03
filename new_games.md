@@ -117,5 +117,3 @@
 | [Youtubers Life 2](games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 2024-03-05 | 20 (1,000 XP) | 0 | - | 0 |
 | [The Thaumaturge](games/t/the_thaumaturge.md) | 2024-03-04 | - |  | 4.54 | 0 |
 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 2024-03-04 | 46 (1,000 XP) | 82 | - | 0 |
-| [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-03-04 | - |  | - | - |
-| [With in the Obscurity](games/4/49613a9a949f41cb99d3583a42d3fe88.md) | 2024-03-04 | - |  | - | - |
