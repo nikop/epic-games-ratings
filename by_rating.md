@@ -769,7 +769,6 @@
 | 767 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 613 |
 | 767 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.42 | 0 | 626 |
 | 767 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 626 |
-| 767 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.42 | 0 | 626 |
 | 767 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.42 | 0 | 626 |
 | 767 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.42 | 0 | 626 |
 | 767 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 41 | 517 |
@@ -781,20 +780,21 @@
 | 767 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 164 | 348 |
 | 767 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 87 | 422 |
 | 767 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 626 |
-| 782 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 626 |
-| 782 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 314 | 271 |
-| 782 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 31 | 554 |
-| 782 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 409 |
-| 782 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 0 | 626 |
-| 782 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 626 |
-| 782 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.41 | 0 | 626 |
-| 782 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 626 |
-| 782 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.41 | 251 | 292 |
-| 782 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,290 | 122 |
-| 782 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 451 |
-| 782 | [Sheltered](games/s/sheltered.md) | 4.41 | 287 | 282 |
-| 782 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 626 |
-| 782 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,995 | 130 |
+| 781 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 626 |
+| 781 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 314 | 271 |
+| 781 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.41 | 0 | 626 |
+| 781 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 31 | 554 |
+| 781 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 409 |
+| 781 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.41 | 0 | 626 |
+| 781 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 626 |
+| 781 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.41 | 0 | 626 |
+| 781 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 626 |
+| 781 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.41 | 251 | 292 |
+| 781 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,290 | 122 |
+| 781 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 451 |
+| 781 | [Sheltered](games/s/sheltered.md) | 4.41 | 287 | 282 |
+| 781 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 626 |
+| 781 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,995 | 130 |
 | 796 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.40 | 0 | 626 |
 | 796 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 626 |
 | 796 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 75 | 442 |
@@ -826,7 +826,7 @@
 | 817 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 626 |
 | 817 | [Parkitect](games/p/parkitect.md) | 4.39 | 0 | 626 |
 | 817 | [Star Stable Online](games/s/star_stable_online.md) | 4.39 | 211 | 314 |
-| 817 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 337 | 265 |
+| 817 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.39 | 339 | 265 |
 | 817 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 341 | 264 |
 | 817 | [The Riflemen](games/t/the_riflemen.md) | 4.39 | 0 | 626 |
 | 830 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 626 |
@@ -1067,13 +1067,13 @@
 | 1,065 | [Banished](games/b/banished.md) | 4.13 | 0 | 626 |
 | 1,065 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 603 |
 | 1,065 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 626 |
+| 1,068 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.12 | 162 | 349 |
 | 1,068 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.12 | 0 | 626 |
 | 1,068 | [Gravewood High](games/g/gravewood_high.md) | 4.12 | 0 | 626 |
-| 1,070 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 626 |
-| 1,070 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 0 | 626 |
-| 1,070 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.11 | 162 | 349 |
-| 1,070 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.11 | 30 | 559 |
-| 1,070 | [SYNCED](games/s/synced.md) | 4.11 | 173 | 340 |
+| 1,071 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 626 |
+| 1,071 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 0 | 626 |
+| 1,071 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.11 | 30 | 559 |
+| 1,071 | [SYNCED](games/s/synced.md) | 4.11 | 173 | 340 |
 | 1,075 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 0 | 626 |
 | 1,075 | [Patron](games/p/patron.md) | 4.10 | 0 | 626 |
 | 1,075 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.10 | 0 | 626 |
