@@ -75,7 +75,7 @@
 | 69 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.82 | 33 | 545 |
 | 69 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 324 | 269 |
 | 69 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.82 | 0 | 626 |
-| 69 | [Sifu](games/s/sifu.md) | 4.82 | 7,626 | 64 |
+| 69 | [Sifu](games/s/sifu.md) | 4.82 | 7,630 | 64 |
 | 69 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 502 | 233 |
 | 69 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 74 | 444 |
 | 69 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.82 | 0 | 626 |
@@ -163,7 +163,7 @@
 | 152 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.75 | 0 | 626 |
 | 152 | [Outlast](games/o/outlast.md) | 4.75 | 28 | 569 |
 | 152 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,016 | 174 |
-| 152 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 16,375 | 27 |
+| 152 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 16,408 | 27 |
 | 152 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 626 |
 | 152 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 102 | 396 |
 | 152 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 498 | 234 |
@@ -389,7 +389,7 @@
 | 374 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 626 |
 | 374 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 626 |
 | 374 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 724 | 205 |
-| 374 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 9,469 | 48 |
+| 374 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 9,492 | 48 |
 | 374 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 3,814 | 99 |
 | 374 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 626 |
 | 374 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 626 |
@@ -729,7 +729,7 @@
 | 716 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 626 |
 | 716 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 926 | 183 |
 | 716 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.45 | 30 | 559 |
-| 716 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 782,132 | 2 |
+| 716 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 782,867 | 2 |
 | 716 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 626 |
 | 716 | [STG Football](games/s/stg_football.md) | 4.45 | 53 | 480 |
 | 716 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 136 | 361 |
@@ -799,7 +799,7 @@
 | 796 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 626 |
 | 796 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 75 | 442 |
 | 796 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 4.40 | 0 | 626 |
-| 796 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,093 | 166 |
+| 796 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,095 | 166 |
 | 796 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 626 |
 | 796 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 61 | 461 |
 | 796 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.40 | 0 | 626 |
@@ -904,11 +904,11 @@
 | 899 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 626 |
 | 899 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.32 | 0 | 626 |
 | 899 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.32 | 0 | 626 |
-| 899 | [Paladins](games/p/paladins.md) | 4.32 | 4,290 | 95 |
+| 899 | [Paladins](games/p/paladins.md) | 4.32 | 4,293 | 95 |
 | 899 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.32 | 0 | 626 |
 | 899 | [Vampyr](games/v/vampyr.md) | 4.32 | 603 | 220 |
 | 908 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.31 | 24 | 594 |
-| 908 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 419 | 249 |
+| 908 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 420 | 249 |
 | 908 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.31 | 0 | 626 |
 | 908 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.31 | 36 | 533 |
 | 908 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,010 | 175 |

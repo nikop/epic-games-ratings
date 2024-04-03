@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,388,617 | 4.29 | 926 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 782,132 | 4.45 | 716 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 782,867 | 4.45 | 716 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 350,868 | 4.68 | 276 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 336,220 | 4.67 | 292 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 302,002 | 4.87 | 19 |
@@ -26,7 +26,7 @@
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 17,317 | 4.76 | 144 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,300 | 4.60 | 447 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 16,688 | 4.87 | 19 |
-| 27 | [SnowRunner](games/s/snowrunner.md) | 16,375 | 4.75 | 152 |
+| 27 | [SnowRunner](games/s/snowrunner.md) | 16,408 | 4.75 | 152 |
 | 28 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 15,713 | 4.58 | 488 |
 | 29 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,551 | 4.60 | 447 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,930 | 4.44 | 735 |
@@ -47,7 +47,7 @@
 | 45 | [DEATH STRANDING](games/d/death_stranding.md) | 10,284 | 4.78 | 115 |
 | 46 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,067 | 4.89 | 13 |
 | 47 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,788 | 4.50 | 641 |
-| 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 9,469 | 4.63 | 374 |
+| 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 9,492 | 4.63 | 374 |
 | 49 | [Control](games/c/control.md) | 9,387 | 4.61 | 415 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,306 | 4.69 | 248 |
 | 51 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,229 | 4.56 | 530 |
@@ -63,7 +63,7 @@
 | 61 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,042 | 4.71 | 211 |
 | 62 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 7,918 | 4.49 | 661 |
 | 63 | [Supraland](games/s/supraland.md) | 7,835 | 4.61 | 415 |
-| 64 | [Sifu](games/s/sifu.md) | 7,626 | 4.82 | 69 |
+| 64 | [Sifu](games/s/sifu.md) | 7,630 | 4.82 | 69 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,437 | 4.66 | 316 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,028 | 4.83 | 56 |
 | 67 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,901 | 4.58 | 488 |
@@ -94,7 +94,7 @@
 | 92 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,577 | 4.68 | 276 |
 | 93 | [Days Gone](games/d/days_gone.md) | 4,491 | 4.68 | 276 |
 | 94 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,432 | 4.46 | 700 |
-| 95 | [Paladins](games/p/paladins.md) | 4,290 | 4.32 | 899 |
+| 95 | [Paladins](games/p/paladins.md) | 4,293 | 4.32 | 899 |
 | 96 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,200 | 4.51 | 616 |
 | 97 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4,079 | 4.26 | 962 |
 | 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,843 | 4.48 | 675 |
@@ -165,7 +165,7 @@
 | 162 | [Torchlight II](games/t/torchlight_ii.md) | 1,112 | 4.59 | 465 |
 | 164 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,111 | 4.53 | 586 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,104 | 4.62 | 399 |
-| 166 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,093 | 4.40 | 796 |
+| 166 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,095 | 4.40 | 796 |
 | 167 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,075 | 4.54 | 564 |
 | 168 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,072 | 4.51 | 616 |
 | 169 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,069 | 4.56 | 530 |
@@ -248,7 +248,7 @@
 | 245 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 434 | 4.81 | 82 |
 | 247 | [Dead Space](games/d/dead_space.md) | 422 | 4.72 | 203 |
 | 248 | [Dungeons 3](games/d/dungeons_3.md) | 421 | 4.65 | 339 |
-| 249 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 419 | 4.31 | 908 |
+| 249 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 420 | 4.31 | 908 |
 | 250 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 412 | 4.61 | 415 |
 | 251 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 409 | 4.54 | 564 |
 | 252 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 404 | 4.79 | 104 |
