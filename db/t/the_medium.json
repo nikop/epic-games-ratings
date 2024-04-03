@@ -2,7 +2,7 @@
   "ID": "e192c537dd6d47ce9a9b00b643c3cdb9",
   "Name": "The Medium",
   "ProductSlug": "the-medium",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 640,
   "Ranking_Popularity": 627,
   "Ranking_PopularitySum": 627,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2022-10-24T23:02:37.2163942+00:00",
@@ -183,6 +183,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-03T16:57:35.2314256+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -201,8 +207,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:44.1996449+00:00",
   "FirstSeenRating": "2022-10-24T23:02:37.2163937+00:00",
-  "LastChanged": "2024-03-17T16:00:03.8118788+00:00",
+  "LastChanged": "2024-04-03T16:57:35.2314253+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:58:26.3313166+00:00",
-  "LastUpdate_Ratings": "2024-04-03T14:59:39.9627804+00:00",
+  "LastUpdate_Ratings": "2024-04-03T16:57:35.231426+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:48.364589+00:00"
 }

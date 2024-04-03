@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-4",
   "Ranking_Rating": 276,
   "Ranking_Popularity": 180,
-  "Ranking_PopularitySum": 254,
+  "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -3949,10 +3949,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1596,
       "NumberOfAwardsMax": 967
+    },
+    {
+      "Time": "2024-04-03T16:59:50.6380664+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1597,
+      "NumberOfAwardsMax": 967
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1596,
+  "NumberOfAwards": 1597,
   "NumberOfAwardsMax": 967,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3990,7 +3996,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game is Relaxing",
@@ -4034,8 +4040,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2024-04-03T14:00:05.6699153+00:00",
+  "LastChanged": "2024-04-03T16:59:50.6380662+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:20.4403588+00:00",
-  "LastUpdate_Ratings": "2024-04-03T15:57:39.1842568+00:00",
+  "LastUpdate_Ratings": "2024-04-03T16:59:50.638067+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:29.8546178+00:00"
 }
