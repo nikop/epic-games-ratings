@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/aether-trading-card-game-420f51)  
 [View Rawdata](../../db/c/cards_of_ethernity.json)  
 Rating: 4.53 (Ranked 585)  
+## Awards
+Max (Great for Beginners): 20  (Ranked 623)  
+Sum: 20 (Ranked 623)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -36,3 +43,4 @@ Rating: 4.53 (Ranked 585)
 | 2024-03-25 | 4.51 | 0 | 0 |
 | 2024-03-26 | 4.52 | 0 | 0 |
 | 2024-04-01 | 4.53 | 0 | 0 |
+| 2024-04-03 | 4.53 | 20 | 20 |
