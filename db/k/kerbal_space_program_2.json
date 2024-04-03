@@ -4,7 +4,7 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 915,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -2399,10 +2399,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 565,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2024-04-03T01:42:40.9746106+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 568,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 565,
+  "NumberOfAwards": 568,
   "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -2452,7 +2458,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 68
+      "Count": 71
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2479,8 +2485,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-04-02T13:00:07.7821804+00:00",
+  "LastChanged": "2024-04-03T01:42:40.9746104+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:24.0364899+00:00",
-  "LastUpdate_Ratings": "2024-04-02T23:58:19.367426+00:00",
+  "LastUpdate_Ratings": "2024-04-03T01:42:40.974611+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:22.8867776+00:00"
 }
