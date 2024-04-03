@@ -10832,10 +10832,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 4663151,
       "NumberOfAwardsMax": 782867
+    },
+    {
+      "Time": "2024-04-03T10:58:35.5700299+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 4665882,
+      "NumberOfAwardsMax": 782867
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4663151,
+  "NumberOfAwards": 4665882,
   "NumberOfAwardsMax": 782867,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -10855,7 +10861,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 682938
+      "Count": 683794
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10867,7 +10873,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 600821
+      "Count": 601551
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10879,7 +10885,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 505098
+      "Count": 505667
     },
     {
       "Text": "This game has a Competitive Community",
@@ -10897,7 +10903,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 556167
+      "Count": 556743
     }
   ],
   "EOS_Progressed": 28817633,
@@ -44290,9 +44296,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-04-03T08:59:59.3051804+00:00",
+  "LastChanged": "2024-04-03T10:58:35.5700298+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:44.3383656+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:02.202642+00:00",
-  "LastUpdate_Ratings": "2024-04-03T08:59:59.305181+00:00",
+  "LastUpdate_Ratings": "2024-04-03T10:58:35.5700304+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:44.3386344+00:00"
 }
