@@ -4,7 +4,7 @@
   "ProductSlug": "pc-building-simulator-2",
   "Ranking_Rating": 448,
   "Ranking_Popularity": 194,
-  "Ranking_PopularitySum": 151,
+  "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 381,
   "Ranking_EOS_NewPlayers": 1,
@@ -5389,10 +5389,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 5783,
       "NumberOfAwardsMax": 840
+    },
+    {
+      "Time": "2024-04-03T21:12:53.7039979+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 5785,
+      "NumberOfAwardsMax": 840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5783,
+  "NumberOfAwards": 5785,
   "NumberOfAwardsMax": 840,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5418,7 +5424,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 668
+      "Count": 670
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -37767,9 +37773,9 @@
   "FirstSeen": "2022-10-12T19:00:44.2364682+00:00",
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
-  "LastChanged": "2024-04-03T13:57:40.3971744+00:00",
+  "LastChanged": "2024-04-03T21:12:53.7039977+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:15.274316+00:00",
   "LastUpdate_AppInfo": "2024-03-31T10:57:11.2794146+00:00",
-  "LastUpdate_Ratings": "2024-04-03T19:00:19.7932988+00:00",
+  "LastUpdate_Ratings": "2024-04-03T21:12:53.7039986+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:15.2744701+00:00"
 }
