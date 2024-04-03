@@ -4,7 +4,7 @@
   "ProductSlug": "subnautica-below-zero",
   "Ranking_Rating": 124,
   "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -2257,10 +2257,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1273,
       "NumberOfAwardsMax": 169
+    },
+    {
+      "Time": "2024-04-02T23:58:17.5376242+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1274,
+      "NumberOfAwardsMax": 169
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1273,
+  "NumberOfAwards": 1274,
   "NumberOfAwardsMax": 169,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2280,7 +2286,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 148
+      "Count": 149
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2336,8 +2342,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2024-04-02T19:57:44.4416705+00:00",
+  "LastChanged": "2024-04-02T23:58:17.5376241+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:23.5627515+00:00",
-  "LastUpdate_Ratings": "2024-04-02T21:59:55.4634138+00:00",
+  "LastUpdate_Ratings": "2024-04-02T23:58:17.5376245+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:45.4787816+00:00"
 }
