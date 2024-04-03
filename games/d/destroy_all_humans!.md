@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 374)  
+Rating: 4.64 (Ranked 360)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -162,3 +162,4 @@ Diff (max vs sum): -38
 | 2023-04-21 | 4.62 | - | 34 | 34 |
 | 2023-11-09 | 4.63 | - | 34 | 34 |
 | 2024-01-02 | 4.63 | - | 35 | 35 |
+| 2024-04-03 | 4.64 | - | 35 | 35 |
