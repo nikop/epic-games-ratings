@@ -2,7 +2,7 @@
   "ID": "259368d69ebe47089e5debe23619cf92",
   "Name": "Siege Survival - Gloria Victis",
   "ProductSlug": "siege-survival-gloria-victis",
-  "Ranking_Rating": 1121,
+  "Ranking_Rating": 1111,
   "Ranking_Popularity": 626,
   "Ranking_PopularitySum": 626,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.92,
+  "Rating": 3.96,
   "RatingHistory": [
     {
       "Time": "2023-03-25T19:58:23.4994249+00:00",
@@ -55,6 +55,12 @@
       "Rating": 3.92,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-03T05:56:58.9956793+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -73,8 +79,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:46.6291043+00:00",
   "FirstSeenRating": "2023-03-25T19:58:23.4994247+00:00",
-  "LastChanged": "2024-02-22T18:00:45.7907175+00:00",
+  "LastChanged": "2024-04-03T05:56:58.9956791+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:57:26.7653168+00:00",
-  "LastUpdate_Ratings": "2024-04-03T03:58:51.0852552+00:00",
+  "LastUpdate_Ratings": "2024-04-03T05:56:58.9956795+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:17.2698921+00:00"
 }
