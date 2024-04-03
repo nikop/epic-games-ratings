@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_Rating": 971,
   "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -545,10 +545,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 304,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-04-03T15:59:36.9272495+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 306,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 304,
+  "NumberOfAwards": 306,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -604,7 +610,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 24
+      "Count": 26
     }
   ],
   "EOS_Progressed": 264964,
@@ -1794,9 +1800,9 @@
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenRating": "2024-03-15T19:58:30.0365601+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged": "2024-04-03T11:58:32.2127494+00:00",
+  "LastChanged": "2024-04-03T15:59:36.9272493+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:08.0154656+00:00",
   "LastUpdate_AppInfo": "2024-03-28T01:38:11.7494405+00:00",
-  "LastUpdate_Ratings": "2024-04-03T14:58:24.7642785+00:00",
+  "LastUpdate_Ratings": "2024-04-03T15:59:36.9272497+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:08.0155688+00:00"
 }

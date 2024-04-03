@@ -1,7 +1,7 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 863)  
+Rating: 4.35 (Ranked 862)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -197,9 +197,9 @@ Completed: 14 (0.05%) (Ranked 381)
 | 2024-02-22 | 25,102 | 14 |
 | 2024-03-21 | 27,838 | 14 |
 ## Awards
-Max (Relaxing): 210  (Ranked 315)  
+Max (Relaxing): 210  (Ranked 314)  
 Sum: 1,750 (Ranked 239)  
-Diff (max vs sum): 76  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 210 |
