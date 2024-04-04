@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Apartment Of Death](games/a/a289e2f87380496290f9be28b5a277f6.md) | 2024-04-04 | - |  | - | - |
-| [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | - |  | - | - |
 | [Vacation Adventures Park Ranger 9 Collectors Edition](games/6/665e6a3aa3c046ceaa6500638889b4ee.md) | 2024-04-04 | - |  | - | - |
 | [Divine Rush](games/c/c2a984900e22447d972c96e65a62da2e.md) | 2024-04-04 | - |  | - | - |
 | [Might & Magic: Heroes VI](games/8/818d9be07fb64277a061245a24035c48.md) | 2024-04-04 | - |  | - | - |
