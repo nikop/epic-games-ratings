@@ -1,7 +1,7 @@
 # King's Bounty: Crossworlds
 [Store](https://store.epicgames.com/en-US/p/kings-bounty-crossworlds-da093a)  
 [View Rawdata](../../db/k/king's_bounty__crossworlds.json)  
-Rating: 4.77 (Ranked 122)  
+Rating: 4.77 (Ranked 123)  
 Number of Ratings: 24  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
