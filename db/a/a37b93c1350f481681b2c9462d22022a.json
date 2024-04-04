@@ -2,7 +2,7 @@
   "ID": "a37b93c1350f481681b2c9462d22022a",
   "Name": "Phantom Blade: Executioners",
   "ProductSlug": "phantom-blade-executioners-918ac0",
-  "Ranking_Rating": 1098,
+  "Ranking_Rating": 1096,
   "Ranking_Popularity": 627,
   "Ranking_PopularitySum": 627,
   "Ranking_EOS_Progress": 952,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.02,
+  "Rating": 4.04,
   "RatingHistory": [
     {
       "Time": "2023-11-21T03:58:33.7584781+00:00",
@@ -497,6 +497,12 @@
       "Rating": 4.02,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-04T21:59:06.6225856+00:00",
+      "Rating": 4.04,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -515,8 +521,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-13T13:14:49.9131564+00:00",
   "FirstSeenRating": "2023-11-21T03:58:33.7584778+00:00",
-  "LastChanged": "2024-04-03T21:57:37.6561602+00:00",
+  "LastChanged": "2024-04-04T21:59:06.6225849+00:00",
   "LastUpdate_AppInfo": "2024-03-31T11:57:03.3757334+00:00",
-  "LastUpdate_Ratings": "2024-04-04T20:57:28.8127841+00:00",
+  "LastUpdate_Ratings": "2024-04-04T21:59:06.6225858+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:52.1533597+00:00"
 }

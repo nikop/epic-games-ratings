@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 915,
   "Ranking_Popularity": 614,
-  "Ranking_PopularitySum": 616,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -571,10 +571,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-04-04T22:00:45.8365832+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
+  "NumberOfAwards": 41,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -583,6 +589,12 @@
       "Prefix": "This game has",
       "Type": "Challenging Combat",
       "Count": 21
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 871,
@@ -2696,9 +2708,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-04-01T14:57:25.7625818+00:00",
+  "LastChanged": "2024-04-04T22:00:45.836583+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:27.6270032+00:00",
   "LastUpdate_AppInfo": "2024-04-03T07:57:08.7283432+00:00",
-  "LastUpdate_Ratings": "2024-04-04T20:58:52.7611759+00:00",
+  "LastUpdate_Ratings": "2024-04-04T22:00:45.8365835+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:27.6270295+00:00"
 }
