@@ -2,7 +2,7 @@
   "ID": "25b5ab5928784a74a502f6a84bb8b49f",
   "Name": "Darkwood",
   "ProductSlug": "darkwood-fa73bd",
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 952,
@@ -894,10 +894,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2486,
       "NumberOfAwardsMax": 335
+    },
+    {
+      "Time": "2024-04-04T15:59:05.0690152+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2487,
+      "NumberOfAwardsMax": 335
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2486,
+  "NumberOfAwards": 2487,
   "NumberOfAwardsMax": 335,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -935,7 +941,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 283
+      "Count": 284
     },
     {
       "Text": "This game has Unique Visuals",
@@ -974,8 +980,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2024-04-04T13:59:40.1008778+00:00",
+  "LastChanged": "2024-04-04T15:59:05.0690151+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:58:11.6620384+00:00",
-  "LastUpdate_Ratings": "2024-04-04T13:59:40.1008783+00:00",
+  "LastUpdate_Ratings": "2024-04-04T15:59:05.0690162+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:41.6282048+00:00"
 }
