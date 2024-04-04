@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Might & Magic: Heroes VI](games/8/818d9be07fb64277a061245a24035c48.md) | 2024-04-04 | - |  | - | - |
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | - |  | - | - |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | - |  | - | - |
 | [DESOLATIUM](games/6/6b86aaf9e810458f874c7d43eb81e813.md) | 2024-04-05 | - |  | - | - |
@@ -154,6 +153,7 @@
 | [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
 | [Everstorm](games/2/2247c107d7f74b8bb72445b10b6c1eae.md) | 2024-12-31 | - |  | - | - |
 | [Fata Deum](games/f/fata_deum.md) | 2024-12-31 | - |  | - | - |
+| [Flint - The Treasure of Oblivion](games/a/ae1a11a634df42feb2e6c28eea474260.md) | 2024-12-31 | - |  | - | - |
 | [Fragile Existence](games/f/fragile_existence.md) | 2024-12-31 | - |  | - | - |
 | [Genkai: Primal Awakening](games/6/631264786bda409f919dd1db541825a9.md) | 2024-12-31 | - |  | - | - |
 | [Grand Emprise: Time Travel Survival](games/f/f5e2b23815ac4da58630dc30656cd5ea.md) | 2024-12-31 | - |  | - | - |
