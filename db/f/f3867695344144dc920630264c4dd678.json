@@ -4,7 +4,7 @@
   "ProductSlug": "doomsday-last-survivors-024df3",
   "Ranking_Rating": 1040,
   "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 426,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -1325,10 +1325,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 273,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-04-04T16:57:07.2834922+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 245,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 273,
+  "NumberOfAwards": 245,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1381,8 +1387,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2024-04-03T11:57:38.4006568+00:00",
+  "LastChanged": "2024-04-04T16:57:07.283492+00:00",
   "LastUpdate_AppInfo": "2024-04-04T05:56:59.7982337+00:00",
-  "LastUpdate_Ratings": "2024-04-04T14:58:56.1932416+00:00",
+  "LastUpdate_Ratings": "2024-04-04T16:57:07.2834925+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:50.013773+00:00"
 }
