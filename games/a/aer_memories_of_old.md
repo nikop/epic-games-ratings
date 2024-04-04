@@ -1,7 +1,7 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.46 (Ranked 701)  
+Rating: 4.45 (Ranked 715)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -395,3 +395,4 @@ Completed: 597 (1.82%) (Ranked 160)
 | 2024-01-24 | 4.44 | - | 0 | 0 |
 | 2024-01-25 | 4.45 | - | 0 | 0 |
 | 2024-02-22 | 4.46 | - | 0 | 0 |
+| 2024-04-04 | 4.45 | - | 0 | 0 |
