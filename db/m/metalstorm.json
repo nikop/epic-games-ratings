@@ -4,7 +4,7 @@
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 754,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 443,
+  "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -948,10 +948,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 231,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-04-04T14:59:26.9366061+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 251,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 231,
+  "NumberOfAwards": 251,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1007,6 +1013,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
       "Count": 20
     }
   ],
@@ -1198,9 +1210,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-04-04T01:40:46.0231972+00:00",
+  "LastChanged": "2024-04-04T14:59:26.9366059+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:18.0939283+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:57:55.9451618+00:00",
-  "LastUpdate_Ratings": "2024-04-04T13:58:37.9813421+00:00",
+  "LastUpdate_Ratings": "2024-04-04T14:59:26.9366066+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:18.0947915+00:00"
 }

@@ -34,8 +34,8 @@ Completed: 0 (0.00%) (Ranked 445)
 | 2024-03-21 | 20,912 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 498)  
-Sum: 231 (Ranked 443)  
-Diff (max vs sum): 55  
+Sum: 251 (Ranked 434)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 47 |
@@ -47,6 +47,7 @@ Diff (max vs sum): 55
 | This game is Highly Recommended | 23 |
 | This game has Amazing Characters | 20 |
 | This game has Amazing Storytelling | 20 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -148,4 +149,4 @@ Diff (max vs sum): 55
 | 2024-04-01 | 4.43 | 46 | 202 |
 | 2024-04-02 | 4.43 | 46 | 226 |
 | 2024-04-03 | 4.43 | 47 | 229 |
-| 2024-04-04 | 4.43 | 47 | 231 |
+| 2024-04-04 | 4.43 | 47 | 251 |
