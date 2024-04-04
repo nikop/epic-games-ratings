@@ -375,6 +375,7 @@
 | [Intravenous](games/1/1a75390ae85d492d875b29a6e7fe1466.md) | 2099-01-01 | - |  | - | - |
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | - |  | - | - |
 | [Jawbreaker](games/j/jawbreaker.md) | 2099-01-01 | - |  | - | 0 |
+| [Jurassic Park: Survival](games/0/08a8c94ff67b4737910bd5105e763556.md) | 2099-01-01 | - |  | - | - |
 | [KAREN SEES](games/e/e53f61969af043f8a9cf3892b2371963.md) | 2099-01-01 | - |  | - | - |
 | [KARJALA](games/7/72aad6a073a644afb21d0966e2737c42.md) | 2099-01-01 | - |  | - | - |
 | [Karma City Police](games/e/e12cadecef31458b958d17431eb4ffd0.md) | 2099-01-01 | - |  | - | - |
