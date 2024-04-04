@@ -3211,10 +3211,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 3799,
       "NumberOfAwardsMax": 1843
+    },
+    {
+      "Time": "2024-04-04T17:58:49.9504263+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3800,
+      "NumberOfAwardsMax": 1843
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3799,
+  "NumberOfAwards": 3800,
   "NumberOfAwardsMax": 1843,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3252,7 +3258,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3302,8 +3308,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
-  "LastChanged": "2024-04-04T07:58:09.4360353+00:00",
+  "LastChanged": "2024-04-04T17:58:49.9504261+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:33.8303835+00:00",
-  "LastUpdate_Ratings": "2024-04-04T16:57:03.6505899+00:00",
+  "LastUpdate_Ratings": "2024-04-04T17:58:49.9504269+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:21.0993008+00:00"
 }
