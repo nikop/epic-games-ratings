@@ -2,7 +2,7 @@
   "ID": "60845b3263d640efb3c6a458298088bd",
   "Name": "The Lamplighters League",
   "ProductSlug": "the-lamplighters-league",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 627,
   "Ranking_PopularitySum": 627,
   "Ranking_EOS_Progress": 952,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2024-01-07T15:59:37.9515998+00:00",
@@ -115,6 +115,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-04T01:41:25.2378497+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -141,9 +147,9 @@
   "FirstSeen": "2023-10-03T19:58:16.7647482+00:00",
   "FirstSeenRating": "2024-01-07T15:59:37.9515995+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:39.3400058+00:00",
-  "LastChanged": "2024-04-02T21:57:21.8036269+00:00",
+  "LastChanged": "2024-04-04T01:41:25.2378496+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:16.4424349+00:00",
   "LastUpdate_AppInfo": "2024-03-31T12:58:11.9659361+00:00",
-  "LastUpdate_Ratings": "2024-04-03T23:57:16.7692632+00:00",
+  "LastUpdate_Ratings": "2024-04-04T01:41:25.2378508+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:16.4424391+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 915,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 228,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2022-12-16T08:57:24.917077+00:00",
@@ -1283,10 +1283,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 259,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-04-04T01:40:22.9410711+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 260,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 259,
+  "NumberOfAwards": 260,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1324,7 +1330,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Educational",
@@ -9736,9 +9742,9 @@
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2024-03-30T01:39:29.0839656+00:00",
+  "LastChanged": "2024-04-04T01:40:22.9410707+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:40.8832734+00:00",
   "LastUpdate_AppInfo": "2024-03-31T12:58:02.2579291+00:00",
-  "LastUpdate_Ratings": "2024-04-03T22:59:43.4006177+00:00",
+  "LastUpdate_Ratings": "2024-04-04T01:40:22.9410718+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:40.8833267+00:00"
 }

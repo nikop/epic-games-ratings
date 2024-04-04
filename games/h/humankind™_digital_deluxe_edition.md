@@ -1,11 +1,11 @@
 # HUMANKIND™ Standard Edition
 [Store](https://store.epicgames.com/en-US/p/humankind)  
 [View Rawdata](../../db/h/humankind™_digital_deluxe_edition.json)  
-Rating: 4.50 (Ranked 640)  
+Rating: 4.50 (Ranked 639)  
 Number of Ratings: 609  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 120  (Ranked 377)  
-Sum: 1,016 (Ranked 286)  
+Sum: 1,017 (Ranked 286)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 91
 | This game has Diverse Characters | 106 |
 | This game is Educational | 101 |
 | This game has Quickly Understood Controls | 101 |
-| This game has Amazing Characters | 86 |
+| This game has Amazing Characters | 87 |
 | This game has Obsessive Gameplay | 59 |
 | This game has a Creative Community | 58 |
 | This game has Beautiful Visuals | 50 |
@@ -210,3 +210,4 @@ Diff (max vs sum): 91
 | 2024-03-31 | 4.50 | - | 120 | 1,014 |
 | 2024-04-01 | 4.50 | - | 120 | 1,015 |
 | 2024-04-02 | 4.50 | - | 120 | 1,016 |
+| 2024-04-04 | 4.50 | - | 120 | 1,017 |
