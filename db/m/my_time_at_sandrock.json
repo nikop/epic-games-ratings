@@ -4,7 +4,7 @@
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 247,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 250,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
@@ -2764,10 +2764,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 1670,
       "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2024-04-05T20:57:14.4499567+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1671,
+      "NumberOfAwardsMax": 673
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1670,
+  "NumberOfAwards": 1671,
   "NumberOfAwardsMax": 673,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2823,7 +2829,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12692,9 +12698,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-04-05T16:00:06.8655328+00:00",
+  "LastChanged": "2024-04-05T20:57:14.4499565+00:00",
   "LastChanged_Achievements": "2024-03-21T17:10:28.1612995+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:26.6537737+00:00",
-  "LastUpdate_Ratings": "2024-04-05T18:58:57.6264465+00:00",
+  "LastUpdate_Ratings": "2024-04-05T20:57:14.449957+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:28.1614234+00:00"
 }
