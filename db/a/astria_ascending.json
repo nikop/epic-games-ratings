@@ -3,8 +3,8 @@
   "Name": "Astria Ascending",
   "ProductSlug": "astria-ascending",
   "Ranking_Rating": 1097,
-  "Ranking_Popularity": 627,
-  "Ranking_PopularitySum": 627,
+  "Ranking_Popularity": 628,
+  "Ranking_PopularitySum": 628,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -77,6 +77,6 @@
   "FirstSeenRating": "2023-03-31T05:57:02.6538123+00:00",
   "LastChanged": "2024-02-20T15:58:51.3231613+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:04.727738+00:00",
-  "LastUpdate_Ratings": "2024-04-04T23:59:23.3293835+00:00",
+  "LastUpdate_Ratings": "2024-04-05T02:57:19.7501857+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:04.8062078+00:00"
 }

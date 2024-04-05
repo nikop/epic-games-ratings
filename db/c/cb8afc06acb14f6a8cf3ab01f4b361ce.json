@@ -3,8 +3,8 @@
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
   "Ranking_Rating": 998,
-  "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Popularity": 401,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -15379,6 +15379,6 @@
   "LastChanged": "2024-04-01T13:57:36.6868431+00:00",
   "LastChanged_Achievements": "2024-03-21T17:10:14.2475862+00:00",
   "LastUpdate_AppInfo": "2024-03-29T07:57:53.5594106+00:00",
-  "LastUpdate_Ratings": "2024-04-04T23:59:19.0348019+00:00",
+  "LastUpdate_Ratings": "2024-04-05T02:57:15.1784911+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:14.2476755+00:00"
 }
