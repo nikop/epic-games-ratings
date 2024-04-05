@@ -2,8 +2,8 @@
   "ID": "d192be5921354325abfb1aae75ec106c",
   "Name": "MATCHO",
   "ProductSlug": "matcho-0bd1a4",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-03T13:01:34.0616441+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:59:53.2017415+00:00"
+  "LastUpdate_Ratings": "2024-04-05T15:01:10.9638292+00:00"
 }

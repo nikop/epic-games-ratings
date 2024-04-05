@@ -107,7 +107,7 @@ Rating: 4.32 (Ranked 899)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,262 (Ranked 317)  
-Completed: 0 (0.00%) (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

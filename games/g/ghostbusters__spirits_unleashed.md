@@ -58,7 +58,7 @@ Rating: 4.51 (Ranked 617)
 | Line em' up | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35,360 (Ranked 151)  
-Completed: 74 (0.21%) (Ranked 313)  
+Completed: 74 (0.21%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

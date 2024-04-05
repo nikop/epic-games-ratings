@@ -57,7 +57,7 @@ Rating: 4.61 (Ranked 416)
 | Weaponsmith | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 276 (Ranked 455)  
-Completed: 1 (0.36%) (Ranked 278)  
+Completed: 1 (0.36%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -28,7 +28,7 @@
 | Chef II | 9.00% | ~4 |
 | 100M coins | 7.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 643)  
+Progressed: 44 (Ranked 645)  
 Completed: 3 (6.82%) (Ranked 70)  
 ## EOS Players History
 | Date | Progressed | Completed |

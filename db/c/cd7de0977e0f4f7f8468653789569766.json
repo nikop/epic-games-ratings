@@ -2,8 +2,8 @@
   "ID": "cd7de0977e0f4f7f8468653789569766",
   "Name": "URBO",
   "ProductSlug": "urbo-37789e",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -28,9 +28,243 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-04-05T15:04:46.003604+00:00",
+  "TotalAchievements": 29,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BUILD_HOUSE",
+      "SetID": "54hd2ka",
+      "Name": "Cornerstone",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_BIOMES_ALL",
+      "SetID": "54hd2ka",
+      "Name": "Dream catcher",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_ISLAND",
+      "SetID": "54hd2ka",
+      "Name": "Initiation",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_SHIP",
+      "SetID": "54hd2ka",
+      "Name": "Sail away",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_TOWER",
+      "SetID": "54hd2ka",
+      "Name": "Babylonian",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CREATE_LEVEL_8_10_TIMES",
+      "SetID": "54hd2ka",
+      "Name": "Governor II",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CREATE_LEVEL_8_20_TIMES",
+      "SetID": "54hd2ka",
+      "Name": "Governor III",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CREATE_LEVEL_8_5_TIMES",
+      "SetID": "54hd2ka",
+      "Name": "Governor I",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ENTER_PHOTOMODE",
+      "SetID": "54hd2ka",
+      "Name": "A moment frozen",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_9_STRUCTURES",
+      "SetID": "54hd2ka",
+      "Name": "A wise move",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_COMBO_3_10_TIMES",
+      "SetID": "54hd2ka",
+      "Name": "Mastermind II",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_COMBO_3_20_TIMES",
+      "SetID": "54hd2ka",
+      "Name": "Mastermind III",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_COMBO_3_5_TIMES",
+      "SetID": "54hd2ka",
+      "Name": "Mastermind I",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_COMBO_4",
+      "SetID": "54hd2ka",
+      "Name": "Match made in heaven",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_INTO_LEVEL_5",
+      "SetID": "54hd2ka",
+      "Name": "Builder",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_INTO_LEVEL_6",
+      "SetID": "54hd2ka",
+      "Name": "Engineer",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_INTO_LEVEL_7",
+      "SetID": "54hd2ka",
+      "Name": "Creator",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MERGE_INTO_LEVEL_8",
+      "SetID": "54hd2ka",
+      "Name": "Architect",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_POPULATION_100000_LIFETIME",
+      "SetID": "54hd2ka",
+      "Name": "The pulse of metropolis",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_POPULATION_20000_LIFETIME",
+      "SetID": "54hd2ka",
+      "Name": "A town growing",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_POPULATION_50000_LIFETIME",
+      "SetID": "54hd2ka",
+      "Name": "Big city lights",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_POPULATION_5000_LIFETIME",
+      "SetID": "54hd2ka",
+      "Name": "The first expansion",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RECEIVE_21_CARD_DECKS",
+      "SetID": "54hd2ka",
+      "Name": "Ace in the hole",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UNLOCK_BIOMES_ALL",
+      "SetID": "54hd2ka",
+      "Name": "Discover the world",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UNLOCK_BIOME_CLIFFS",
+      "SetID": "54hd2ka",
+      "Name": "Islander",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UNLOCK_BIOME_FANTASY",
+      "SetID": "54hd2ka",
+      "Name": "Land wanderer",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UNLOCK_BIOME_SANDWATER",
+      "SetID": "54hd2ka",
+      "Name": "Desert wayfarer",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UNLOCK_ISLANDS_ALL",
+      "SetID": "54hd2ka",
+      "Name": "Pioneer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_UNLOCK_SETS_ALL",
+      "SetID": "54hd2ka",
+      "Name": "The grand designer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "54hd2ka",
@@ -40,8 +274,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:11.9921619+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:00.2990648+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:04:46.0036022+00:00",
   "LastUpdate_AppInfo": "2024-04-03T22:57:10.8203658+00:00",
   "LastUpdate_Ratings": "2024-04-05T13:59:19.5827905+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:00.2990678+00:00"
+  "LastUpdate_Achievements": "2024-04-05T15:04:46.0047332+00:00"
 }

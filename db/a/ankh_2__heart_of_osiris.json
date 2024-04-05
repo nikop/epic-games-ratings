@@ -2,8 +2,8 @@
   "ID": "2adc9c886d42496c864c60f2b67704db",
   "Name": "Ankh 2: Heart of Osiris",
   "ProductSlug": "ankh-2-d45050",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.2850687+00:00",
   "LastChanged": "2023-03-31T05:58:18.2850689+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:57:49.2883314+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:03:39.2098278+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:58:27.9089737+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:09.9008512+00:00"
 }

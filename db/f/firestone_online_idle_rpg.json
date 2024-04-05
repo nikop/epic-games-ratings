@@ -5,8 +5,8 @@
   "Ranking_Rating": 1033,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 420,
-  "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 345,
+  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -1199,10 +1199,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 281,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-04-05T15:00:22.2853249+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 281,
+  "NumberOfAwards": 282,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1240,7 +1246,7 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14647,9 +14653,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-04-05T07:59:17.7615577+00:00",
+  "LastChanged": "2024-04-05T15:00:22.2853248+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:15.8309542+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:58:16.6957354+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:58:52.2097136+00:00",
+  "LastUpdate_Ratings": "2024-04-05T15:00:22.2853253+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:15.8310558+00:00"
 }

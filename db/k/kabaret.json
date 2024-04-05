@@ -2,8 +2,8 @@
   "ID": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "Name": "Kabaret",
   "ProductSlug": "kabaret-4810f9",
-  "Ranking_EOS_Progress": 746,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -632,6 +632,6 @@
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:39.8477263+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:57:57.6226095+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:57:47.7815876+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:59:17.1015694+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:39.8477728+00:00"
 }

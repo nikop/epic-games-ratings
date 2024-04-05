@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.58 (Ranked 488)  
+Rating: 4.58 (Ranked 487)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,8 +42,8 @@ Rating: 4.58 (Ranked 488)
 | Discover the mystery of the Kings Chambers | 2.00% | ~50 |
 | A new Warchief rises | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,485 (Ranked 263)  
-Completed: 16 (0.64%) (Ranked 235)  
+Progressed: 2,485 (Ranked 264)  
+Completed: 16 (0.64%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

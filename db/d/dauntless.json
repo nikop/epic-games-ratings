@@ -5,8 +5,8 @@
   "Ranking_Rating": 584,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 24,
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -16203,10 +16203,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 78082,
       "NumberOfAwardsMax": 28165
+    },
+    {
+      "Time": "2024-04-05T14:58:03.5125292+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 78118,
+      "NumberOfAwardsMax": 28165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 78082,
+  "NumberOfAwards": 78118,
   "NumberOfAwardsMax": 28165,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16220,7 +16226,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 19503
+      "Count": 19529
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -16244,7 +16250,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4044
+      "Count": 4054
     },
     {
       "Text": "This game is Highly Recommended",
@@ -16288,8 +16294,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-04-05T11:58:33.0858037+00:00",
+  "LastChanged": "2024-04-05T14:58:03.5125291+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:20.6958475+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:03:06.5962834+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:58:03.5125299+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:56.2002276+00:00"
 }

@@ -132,8 +132,8 @@
 | Insanity III | 1.00% | ~58 |
 | The One and Only | 0.80% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,766 (Ranked 221)  
-Completed: 32 (0.55%) (Ranked 251)  
+Progressed: 5,766 (Ranked 222)  
+Completed: 32 (0.55%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

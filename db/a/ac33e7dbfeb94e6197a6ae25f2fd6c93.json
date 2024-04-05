@@ -2,8 +2,8 @@
   "ID": "ac33e7dbfeb94e6197a6ae25f2fd6c93",
   "Name": "BERLIN",
   "ProductSlug": "berlin09-3a4362",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2024-03-21T17:05:35.446619+00:00",
   "LastChanged_Achievements": "2024-03-21T17:05:35.4466144+00:00",
   "LastUpdate_AppInfo": "2024-03-29T23:56:57.340542+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:03:28.5985984+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:58:18.9625462+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:35.4466205+00:00"
 }

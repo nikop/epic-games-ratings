@@ -41,8 +41,8 @@
 | True Explorer | 0.00% | ~0 |
 | Unchained | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 874)  
-Completed: 0 (0.00%) (Ranked 445)  
+Progressed: 1 (Ranked 875)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

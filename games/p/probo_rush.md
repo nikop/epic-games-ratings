@@ -22,7 +22,7 @@
 | BOSS 9 | 100.00% | ~1 |
 | GOD GAMER | 100.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 874)  
+Progressed: 1 (Ranked 875)  
 Completed: 1 (100.00%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |

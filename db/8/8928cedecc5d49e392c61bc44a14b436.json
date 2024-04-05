@@ -2,8 +2,8 @@
   "ID": "8928cedecc5d49e392c61bc44a14b436",
   "Name": "Return Alive",
   "ProductSlug": "return-alive-0ffdd1",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -45,6 +45,6 @@
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:44.2412827+00:00",
   "LastUpdate_AppInfo": "2024-04-05T08:57:05.8944284+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:57:21.3016046+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:58:50.6795435+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:44.2412862+00:00"
 }

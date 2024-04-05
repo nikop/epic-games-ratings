@@ -31,7 +31,7 @@ Number of Ratings: 32,207  (23.09.2022)
 | Wishing for the Best | 5.00% | ~74,514 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,490,285 (Ranked 9)  
-Completed: 41,035 (2.75%) (Ranked 133)  
+Completed: 41,035 (2.75%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -46,7 +46,7 @@ Rating: 4.26 (Ranked 960)
 | Dazzling Personality | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 226,924 (Ranked 85)  
-Completed: 0 (0.00%) (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,12 +183,12 @@ Completed: 0 (0.00%) (Ranked 445)
 | 2024-01-27 | 216,670 | 0 |
 | 2024-03-21 | 226,924 | 0 |
 ## Awards
-Max (Diverse Characters): 22,938  (Ranked 22)  
-Sum: 112,930 (Ranked 18)  
+Max (Diverse Characters): 22,944  (Ranked 22)  
+Sum: 112,936 (Ranked 18)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 22,938 |
+| This game has Diverse Characters | 22,944 |
 | This game is Highly Recommended | 15,406 |
 | This game has a Competitive Community | 14,784 |
 | This game has Amazing Characters | 12,646 |
@@ -656,3 +656,4 @@ Diff (max vs sum): 4
 | 2024-04-02 | 4.26 | 22,926 | 112,874 |
 | 2024-04-03 | 4.26 | 22,931 | 112,905 |
 | 2024-04-04 | 4.26 | 22,938 | 112,930 |
+| 2024-04-05 | 4.26 | 22,944 | 112,936 |

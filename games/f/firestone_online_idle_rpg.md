@@ -81,8 +81,8 @@ Rating: 4.17 (Ranked 1,033)
 | Ultimate War Machines | 0.90% | ~53 |
 | Jewel Enchanting | 0.40% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,856 (Ranked 218)  
-Completed: 7 (0.12%) (Ranked 345)  
+Progressed: 5,856 (Ranked 219)  
+Completed: 7 (0.12%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -363,7 +363,7 @@ Completed: 7 (0.12%) (Ranked 345)
 | 2024-03-21 | 5,856 | 7 |
 ## Awards
 Max (Great for Beginners): 61  (Ranked 460)  
-Sum: 281 (Ranked 420)  
+Sum: 282 (Ranked 420)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -371,7 +371,7 @@ Diff (max vs sum): 40
 | This game is Great for Quick Sessions | 55 |
 | This game has Diverse Characters | 44 |
 | This game has Playful Visuals | 40 |
-| This game has a Kind Community | 33 |
+| This game has a Kind Community | 34 |
 | This game has Quickly Understood Controls | 26 |
 | This game is Relaxing | 22 |
 | This game is Highly Recommended | 21 |
@@ -523,4 +523,4 @@ Diff (max vs sum): 40
 | 2024-04-02 | 4.16 | 60 | 275 |
 | 2024-04-03 | 4.16 | 61 | 279 |
 | 2024-04-04 | 4.17 | 61 | 280 |
-| 2024-04-05 | 4.17 | 61 | 281 |
+| 2024-04-05 | 4.17 | 61 | 282 |

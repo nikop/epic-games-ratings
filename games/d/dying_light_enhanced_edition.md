@@ -86,7 +86,7 @@ Number of Ratings: 3,181  (23.09.2022)
 | Fast as hell | 0.10% | ~4,258 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,258,109 (Ranked 3)  
-Completed: 56 (0.00%) (Ranked 445)  
+Completed: 56 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -371,12 +371,12 @@ Completed: 56 (0.00%) (Ranked 445)
 | 2024-02-22 | 4,221,766 | 56 |
 | 2024-03-21 | 4,258,109 | 56 |
 ## Awards
-Max (Character Customization): 58,832  (Ranked 13)  
-Sum: 115,924 (Ranked 17)  
+Max (Character Customization): 58,895  (Ranked 13)  
+Sum: 115,987 (Ranked 17)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 58,832 |
+| This game has Inclusive Character Customization | 58,895 |
 | This game has Great Boss Battles | 27,436 |
 | This game is Great for Beginners | 5,453 |
 | This game has Diverse Characters | 4,625 |
@@ -848,4 +848,4 @@ Diff (max vs sum): -4
 | 2024-04-02 | 4.61 | - | 58,715 | 115,567 |
 | 2024-04-03 | 4.61 | - | 58,765 | 115,699 |
 | 2024-04-04 | 4.61 | - | 58,832 | 115,860 |
-| 2024-04-05 | 4.61 | - | 58,832 | 115,924 |
+| 2024-04-05 | 4.61 | - | 58,895 | 115,987 |

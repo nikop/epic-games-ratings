@@ -2,8 +2,8 @@
   "ID": "df8d7b9bd9dc461991b6dd9429e11373",
   "Name": "Singularity",
   "ProductSlug": "singularity-535087",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-31T01:43:28.2454151+00:00",
-  "LastUpdate_Ratings": "2024-04-05T14:00:25.4081908+00:00",
+  "LastUpdate_Ratings": "2024-04-05T15:01:36.1499389+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:54.3304825+00:00"
 }

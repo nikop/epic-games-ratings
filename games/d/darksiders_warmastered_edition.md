@@ -51,15 +51,15 @@ Number of Ratings: 721  (23.09.2022)
 | BFA | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 778 (Ranked 354)  
-Completed: 0 (0.00%) (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 778 | 0 |
 ## Awards
-Max (Great Boss Battles): 93  (Ranked 417)  
+Max (Great Boss Battles): 93  (Ranked 418)  
 Sum: 93 (Ranked 511)  
-Diff (max vs sum): -94  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 93 |

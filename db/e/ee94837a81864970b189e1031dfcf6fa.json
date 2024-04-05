@@ -5,8 +5,8 @@
   "Ranking_Rating": 1066,
   "Ranking_Popularity": 602,
   "Ranking_PopularitySum": 607,
-  "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -361,7 +361,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5549,
+  "EOS_Progressed": 5919,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -370,6 +370,11 @@
     {
       "Time": "2024-03-21T17:07:52.4220892+00:00",
       "NumProgressed": 5549,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-05T15:02:52.5134914+00:00",
+      "NumProgressed": 5919,
       "NumCompleted": 0
     }
   ],
@@ -381,9 +386,9 @@
       "ID": "0",
       "SetID": "79f4pl7",
       "Name": "First Love",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1942
+      "UsersEstimate": 2190
     },
     {
       "ID": "1",
@@ -391,23 +396,23 @@
       "Name": "Truck-Curious",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 296
     },
     {
       "ID": "10",
       "SetID": "79f4pl7",
       "Name": "Truck Aficionado",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 111
+      "UsersEstimate": 178
     },
     {
       "ID": "11",
       "SetID": "79f4pl7",
       "Name": "Lucky Find",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3551
     },
     {
       "ID": "12",
@@ -415,7 +420,7 @@
       "Name": "Explorer",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "13",
@@ -423,39 +428,39 @@
       "Name": "Globetrotter",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "14",
       "SetID": "79f4pl7",
       "Name": "Into the Wild",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4972
     },
     {
       "ID": "15",
       "SetID": "79f4pl7",
       "Name": "Wild Colorado",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 1942
+      "UsersEstimate": 2190
     },
     {
       "ID": "16",
       "SetID": "79f4pl7",
       "Name": "Arizona Skies",
-      "Percentage": 0.3,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 59
     },
     {
       "ID": "17",
       "SetID": "79f4pl7",
       "Name": "Eurotrip",
-      "Percentage": 0.1,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 24
     },
     {
       "ID": "18",
@@ -471,15 +476,15 @@
       "Name": "The Mechanic",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 4717
+      "UsersEstimate": 5031
     },
     {
       "ID": "2",
       "SetID": "79f4pl7",
       "Name": "Frankentruck",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 53
     },
     {
       "ID": "3",
@@ -495,7 +500,7 @@
       "Name": "Fat Cat",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 666
+      "UsersEstimate": 710
     },
     {
       "ID": "5",
@@ -503,7 +508,7 @@
       "Name": "All the Money in the World",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 333
+      "UsersEstimate": 355
     },
     {
       "ID": "6",
@@ -511,7 +516,7 @@
       "Name": "10 Ready. 20 Set. 30 Go Back to 10?",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1835
     },
     {
       "ID": "7",
@@ -527,7 +532,7 @@
       "Name": "Management Approves",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4913
     },
     {
       "ID": "9",
@@ -542,7 +547,7 @@
     {
       "ID": "79f4pl7",
       "IsBase": true,
-      "Progressed": 5549,
+      "Progressed": 5919,
       "Completed": 0
     }
   ],
@@ -550,8 +555,8 @@
   "FirstSeenRating": "2024-03-07T12:58:57.6137618+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:52.4220924+00:00",
   "LastChanged": "2024-04-04T09:58:53.8087424+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:52.4220884+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:02:52.5134909+00:00",
   "LastUpdate_AppInfo": "2024-04-05T02:13:47.8847752+00:00",
   "LastUpdate_Ratings": "2024-04-05T13:59:22.8865152+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:52.4230067+00:00"
+  "LastUpdate_Achievements": "2024-04-05T15:02:52.5135022+00:00"
 }

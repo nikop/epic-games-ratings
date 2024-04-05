@@ -68,7 +68,7 @@ Rating: 4.19 (Ranked 1,020)
 | It's Nice to Be Wanted | 0.30% | ~170 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 86,509 (Ranked 117)  
-Completed: 149 (0.17%) (Ranked 325)  
+Completed: 149 (0.17%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -353,12 +353,12 @@ Completed: 149 (0.17%) (Ranked 325)
 | 2024-03-21 | 86,509 | 149 |
 ## Awards
 Max (Great Boss Battles): 3,473  (Ranked 106)  
-Sum: 6,042 (Ranked 145)  
+Sum: 6,044 (Ranked 145)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,473 |
-| This game is Great for Beginners | 339 |
+| This game is Great for Beginners | 341 |
 | This game has Diverse Characters | 325 |
 | This game is Relaxing | 323 |
 | This game has Amazing Characters | 322 |
@@ -774,3 +774,4 @@ Diff (max vs sum): -39
 | 2024-04-02 | 4.19 | 3,467 | 6,032 |
 | 2024-04-03 | 4.19 | 3,471 | 6,039 |
 | 2024-04-04 | 4.19 | 3,473 | 6,042 |
+| 2024-04-05 | 4.19 | 3,473 | 6,044 |

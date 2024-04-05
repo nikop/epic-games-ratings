@@ -35,7 +35,7 @@ Number of Ratings: 190  (23.09.2022)
 | Task Force Tikamoon | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,791 (Ranked 242)  
-Completed: 1 (0.03%) (Ranked 398)  
+Completed: 1 (0.03%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

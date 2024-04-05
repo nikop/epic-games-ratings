@@ -107,7 +107,7 @@ Rating: 4.75 (Ranked 150)
 | Draft Value | 0.10% | ~380 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 380,163 (Ranked 63)  
-Completed: 31 (0.01%) (Ranked 423)  
+Completed: 31 (0.01%) (Ranked 424)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

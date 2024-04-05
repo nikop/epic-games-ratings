@@ -32,7 +32,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | KINDRED SPIRITS | 0.70% | ~594 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84,809 (Ranked 118)  
-Completed: 485 (0.57%) (Ranked 248)  
+Completed: 485 (0.57%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

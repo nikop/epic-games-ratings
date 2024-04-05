@@ -38,8 +38,8 @@
 | Tenacious Explorer | 0.00% | ~0 |
 | Champion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 663)  
-Completed: 0 (0.00%) (Ranked 445)  
+Progressed: 36 (Ranked 665)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

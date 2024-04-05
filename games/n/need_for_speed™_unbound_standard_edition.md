@@ -47,7 +47,7 @@
 | Frequent Flyer | 0.60% | ~397 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 66,099 (Ranked 127)  
-Completed: 84 (0.13%) (Ranked 335)  
+Completed: 84 (0.13%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

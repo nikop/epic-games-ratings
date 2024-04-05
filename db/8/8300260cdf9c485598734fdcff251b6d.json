@@ -2,8 +2,8 @@
   "ID": "8300260cdf9c485598734fdcff251b6d",
   "Name": "AIdventure",
   "ProductSlug": "aidventure-8afc0d",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-02T20:57:01.7464388+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:02:39.0651852+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:07.2861586+00:00"
+  "LastUpdate_Ratings": "2024-04-05T14:57:43.0877243+00:00",
+  "LastUpdate_Achievements": "2024-04-05T15:04:49.0964276+00:00"
 }

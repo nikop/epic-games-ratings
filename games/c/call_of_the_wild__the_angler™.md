@@ -53,7 +53,7 @@ Number of Ratings: 281  (23.09.2022)
 | A Rod for your own back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22,401 (Ranked 164)  
-Completed: 0 (0.00%) (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

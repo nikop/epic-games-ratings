@@ -58,7 +58,7 @@ Number of Ratings: 96  (23.09.2022)
 | Word Master | 0.20% | ~154 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 76,762 (Ranked 121)  
-Completed: 92 (0.12%) (Ranked 345)  
+Completed: 92 (0.12%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -36,7 +36,7 @@ Rating: 4.28 (Ranked 936)
 | Death or Glory | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47,464 (Ranked 144)  
-Completed: 33 (0.07%) (Ranked 367)  
+Completed: 33 (0.07%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

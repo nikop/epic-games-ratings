@@ -68,7 +68,7 @@ Rating: 4.34 (Ranked 877)
 | Hotel Transylvania | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,975 (Ranked 254)  
-Completed: 0 (0.00%) (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

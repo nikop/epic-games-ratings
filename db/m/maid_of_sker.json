@@ -2,8 +2,8 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 420,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 398,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -960,6 +960,11 @@
       "Time": "2024-03-21T17:08:36.1853913+00:00",
       "NumProgressed": 386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-05T15:03:14.0612212+00:00",
+      "NumProgressed": 398,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -971,7 +976,7 @@
       "Name": "Animal Lover",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "axe_of_kindness",
@@ -995,7 +1000,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "chief_butler",
@@ -1003,7 +1008,7 @@
       "Name": "Chief Butler",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "choking_hazzard",
@@ -1011,7 +1016,7 @@
       "Name": "Choking Hazard",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 175
     },
     {
       "ID": "dodgy_geezer",
@@ -1025,17 +1030,17 @@
       "ID": "dont_breath",
       "SetID": "3j2phem",
       "Name": "Don\u0027t Breathe",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 127
     },
     {
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "ending_on_a_high_note",
@@ -1137,9 +1142,9 @@
       "ID": "perfect_harmony",
       "SetID": "3j2phem",
       "Name": "Perfect Harmony!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "phonic_boom",
@@ -1153,9 +1158,9 @@
       "ID": "rapturous_applause",
       "SetID": "3j2phem",
       "Name": "Rapturous Applause!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 52
     },
     {
       "ID": "scholar",
@@ -1171,15 +1176,15 @@
       "Name": "Sker Explorer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "the_long_night",
@@ -1203,14 +1208,14 @@
       "Name": "Wales Interactive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 398,
       "Completed": 0
     }
   ],
@@ -1218,8 +1223,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:36.1853907+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:03:14.0612208+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:57:15.1985375+00:00",
   "LastUpdate_Ratings": "2024-04-05T14:00:05.6383855+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:36.1854175+00:00"
+  "LastUpdate_Achievements": "2024-04-05T15:03:14.061239+00:00"
 }

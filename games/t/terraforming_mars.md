@@ -43,7 +43,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Birth of Venus | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 97,245 (Ranked 114)  
-Completed: 196 (0.20%) (Ranked 315)  
+Completed: 196 (0.20%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

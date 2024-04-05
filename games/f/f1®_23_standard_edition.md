@@ -56,7 +56,7 @@ Rating: 4.63 (Ranked 375)
 | Elite Racer | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20,681 (Ranked 171)  
-Completed: 0 (0.00%) (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

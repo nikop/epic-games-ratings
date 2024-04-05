@@ -566,7 +566,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | 15 minutes to Doomsday | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 261,111 (Ranked 74)  
-Completed: 2,792 (1.07%) (Ranked 200)  
+Completed: 2,792 (1.07%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

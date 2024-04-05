@@ -55,8 +55,8 @@ Number of Ratings: 32  (23.09.2022)
 | The Librarian | 6.00% | ~2 |
 | Risk Taker | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 663)  
-Completed: 1 (2.78%) (Ranked 131)  
+Progressed: 36 (Ranked 665)  
+Completed: 1 (2.78%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

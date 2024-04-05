@@ -2,8 +2,8 @@
   "ID": "fd28199790f441de828b16e9fd646438",
   "Name": "Hidden Shapes Animals",
   "ProductSlug": "hidden-shapes-animals-0fca0f",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -29,10 +29,358 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-04-05T15:01:38.5933325+00:00",
+  "TotalAchievements": 42,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_HSA_01",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 01",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_02",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 02",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_03",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 03",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_04",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 04",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_05",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 05",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_06",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 06",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_07",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 07",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_08",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 08",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_09",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 09",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_10",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 10",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_11",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 11",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_12",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 12",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_13",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 13",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_14",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 14",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_15",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 15",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_16",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 16",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_17",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 17",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_18",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 18",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_19",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 19",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_20",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 20",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_21_Full",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 21",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_22",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 22",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_23",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 23",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_24",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 24",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_25",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 25",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_26",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 26",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_27",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 27",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_28",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 28",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_29",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 29",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_30",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 30",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_31",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 31",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_32",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 32",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_33",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 33",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_34",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 34",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_35",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 35",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_36",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 36",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_37",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 37",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_38",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 38",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_39",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 39",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_40",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 40",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_41",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 41",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSA_42_Full",
+      "SetID": "a0o8p8j",
+      "Name": "HSA - 42",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "a0o8p8j",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-04-05T15:01:38.5933324+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:01:38.5923904+00:00",
   "LastUpdate_AppInfo": "2024-04-04T09:57:07.1219046+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:58:07.5411115+00:00"
+  "LastUpdate_Ratings": "2024-04-05T14:59:35.3697683+00:00",
+  "LastUpdate_Achievements": "2024-04-05T15:01:38.6246939+00:00"
 }

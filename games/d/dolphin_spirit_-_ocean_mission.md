@@ -37,8 +37,8 @@
 | Island protector | 3.00% | ~1 |
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 655)  
-Completed: 0 (0.00%) (Ranked 445)  
+Progressed: 39 (Ranked 656)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

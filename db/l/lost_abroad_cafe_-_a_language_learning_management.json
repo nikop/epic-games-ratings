@@ -2,8 +2,8 @@
   "ID": "2df9c4ac2a644e4daf2e0a752500457d",
   "Name": "Lost Abroad Cafe - A Language Learning Management",
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
-  "Ranking_EOS_Progress": 364,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 728,
+  "EOS_Progressed": 735,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.65,
+  "EOS_Completed_Percentage": 1.63,
   "EosHistory": [
     {
       "Time": "2023-05-22T02:10:23.0997287+00:00",
@@ -3264,6 +3264,11 @@
       "Time": "2024-03-21T17:07:33.7714156+00:00",
       "NumProgressed": 728,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-04-05T15:02:43.4652177+00:00",
+      "NumProgressed": 735,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 8,
@@ -3275,7 +3280,7 @@
       "Name": "Barista",
       "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 386
+      "UsersEstimate": 390
     },
     {
       "ID": "coffee_100",
@@ -3283,7 +3288,7 @@
       "Name": "Brew Master",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "coffee_50",
@@ -3291,7 +3296,7 @@
       "Name": "Coffee Connoisseur",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "countertop",
@@ -3307,7 +3312,7 @@
       "Name": "Get Lost!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 662
+      "UsersEstimate": 669
     },
     {
       "ID": "tea_10",
@@ -3315,7 +3320,7 @@
       "Name": "Tea-ser",
       "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 291
+      "UsersEstimate": 294
     },
     {
       "ID": "tea_100",
@@ -3323,7 +3328,7 @@
       "Name": "Tea Guru",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "tea_50",
@@ -3331,21 +3336,21 @@
       "Name": "Tea Master",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     }
   ],
   "AchievementSets": [
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 728,
+      "Progressed": 735,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:33.7714148+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:02:43.4652171+00:00",
   "LastUpdate_AppInfo": "2024-03-31T11:56:53.7730888+00:00",
   "LastUpdate_Ratings": "2024-04-05T13:59:17.8913218+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:33.7714395+00:00"
+  "LastUpdate_Achievements": "2024-04-05T15:02:43.4652564+00:00"
 }

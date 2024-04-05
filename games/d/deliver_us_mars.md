@@ -40,7 +40,7 @@ Rating: 4.15 (Ranked 1,049)
 | Their batteries were low and it got dark | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 53,463 (Ranked 135)  
-Completed: 90 (0.17%) (Ranked 325)  
+Completed: 90 (0.17%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

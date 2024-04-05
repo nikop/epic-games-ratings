@@ -58,7 +58,7 @@ Rating: 4.54 (Ranked 566)
 | Bucket List | 0.10% | ~842 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 841,520 (Ranked 22)  
-Completed: 2,808 (0.33%) (Ranked 285)  
+Completed: 2,808 (0.33%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "b1555bed500048b79f6fad321d5a7202",
   "Name": "Nova Strike",
   "ProductSlug": "nova-strike",
-  "Ranking_EOS_Progress": 661,
-  "Ranking_EOS_Completed": 84,
+  "Ranking_EOS_Progress": 663,
+  "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -343,6 +343,6 @@
   "FirstSeenAchievements": "2023-07-27T09:00:47.8378979+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:25.2113387+00:00",
   "LastUpdate_AppInfo": "2024-04-05T04:57:31.0496923+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:02:16.5566771+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:57:26.927519+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:25.2113531+00:00"
 }

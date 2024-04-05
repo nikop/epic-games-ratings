@@ -59,7 +59,7 @@ Rating: 4.69 (Ranked 247)
 | WARRIOR IN A GARDEN | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 657,342 (Ranked 32)  
-Completed: 79 (0.01%) (Ranked 423)  
+Completed: 79 (0.01%) (Ranked 424)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

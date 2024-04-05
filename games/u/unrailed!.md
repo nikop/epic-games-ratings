@@ -60,7 +60,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | 20 Miles under the Sea | 0.10% | ~695 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 695,346 (Ranked 30)  
-Completed: 17 (0.00%) (Ranked 445)  
+Completed: 17 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -345,12 +345,12 @@ Completed: 17 (0.00%) (Ranked 445)
 | 2024-02-22 | 689,988 | 15 |
 | 2024-03-21 | 695,346 | 17 |
 ## Awards
-Max (Great for Beginners): 223  (Ranked 309)  
-Sum: 1,677 (Ranked 247)  
+Max (Great for Beginners): 224  (Ranked 309)  
+Sum: 1,678 (Ranked 247)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 223 |
+| This game is Great for Beginners | 224 |
 | This game has Diverse Characters | 212 |
 | This game has Quickly Understood Controls | 196 |
 | This game is Extremely Fun | 192 |
@@ -567,3 +567,4 @@ Diff (max vs sum): 62
 | 2024-04-01 | 4.64 | - | 223 | 1,675 |
 | 2024-04-03 | 4.64 | - | 223 | 1,676 |
 | 2024-04-04 | 4.64 | - | 223 | 1,677 |
+| 2024-04-05 | 4.64 | - | 224 | 1,678 |

@@ -34,7 +34,7 @@ Rating: 4.42 (Ranked 770)
 | We're Gonna Need More Mugs | 0.30% | ~1,206 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 402,083 (Ranked 58)  
-Completed: 529 (0.13%) (Ranked 335)  
+Completed: 529 (0.13%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

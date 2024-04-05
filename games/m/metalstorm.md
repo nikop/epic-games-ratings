@@ -27,21 +27,21 @@ Rating: 4.43 (Ranked 756)
 | Career Wins IV | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20,912 (Ranked 169)  
-Completed: 0 (0.00%) (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 20,912 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 47  (Ranked 499)  
-Sum: 253 (Ranked 431)  
-Diff (max vs sum): 68  
+Sum: 254 (Ranked 430)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 47 |
 | This game is Great for Beginners | 41 |
 | This game is Extremely Fun | 29 |
-| This game has a Competitive Community | 28 |
+| This game has a Competitive Community | 29 |
 | This game has Diverse Characters | 24 |
 | This game has Quickly Understood Controls | 24 |
 | This game is Highly Recommended | 24 |
@@ -150,4 +150,4 @@ Diff (max vs sum): 68
 | 2024-04-02 | 4.43 | 46 | 226 |
 | 2024-04-03 | 4.43 | 47 | 229 |
 | 2024-04-04 | 4.43 | 47 | 252 |
-| 2024-04-05 | 4.43 | 47 | 253 |
+| 2024-04-05 | 4.43 | 47 | 254 |

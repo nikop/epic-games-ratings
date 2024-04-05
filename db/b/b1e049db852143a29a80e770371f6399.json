@@ -2,8 +2,8 @@
   "ID": "b1e049db852143a29a80e770371f6399",
   "Name": "Nuclear Fission Simulator",
   "ProductSlug": "nuclear-fission-simulator-d1ebc5",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-22T01:39:15.3602037+00:00",
   "LastUpdate_AppInfo": "2024-03-30T12:57:35.2786492+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:03:24.8517605+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:58:16.2483957+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:56.0633885+00:00"
 }

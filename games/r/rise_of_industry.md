@@ -34,7 +34,7 @@ Rating: 4.26 (Ranked 960)
 | Hard working | 0.10% | ~782 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 782,248 (Ranked 25)  
-Completed: 6 (0.00%) (Ranked 445)  
+Completed: 6 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,8 +320,8 @@ Completed: 6 (0.00%) (Ranked 445)
 | 2024-03-21 | 782,248 | 6 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 554)  
-Sum: 55 (Ranked 544)  
-Diff (max vs sum): 10  
+Sum: 55 (Ranked 545)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |

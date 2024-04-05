@@ -2,8 +2,8 @@
   "ID": "d13dd3d47e2b44e8b8de0a637355a92d",
   "Name": "Stoneshard",
   "ProductSlug": "stoneshard-5dd96e",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-07T22:59:34.0780364+00:00",
   "LastUpdate_AppInfo": "2024-03-29T16:57:20.3490401+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:57:18.9757249+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:58:48.259623+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:58.2269738+00:00"
 }

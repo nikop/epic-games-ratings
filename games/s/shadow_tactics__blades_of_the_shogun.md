@@ -52,7 +52,7 @@ Number of Ratings: 495  (23.09.2022)
 | Release the Kraken | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 237,404 (Ranked 82)  
-Completed: 119 (0.05%) (Ranked 381)  
+Completed: 119 (0.05%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

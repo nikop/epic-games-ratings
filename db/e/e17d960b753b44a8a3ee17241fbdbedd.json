@@ -2,8 +2,8 @@
   "ID": "e17d960b753b44a8a3ee17241fbdbedd",
   "Name": "Inspector Schmidt - A Bavarian Tale",
   "ProductSlug": "inspector-schmidt-a-bavarian-tale-885f5f",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -29,9 +29,251 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-04-05T15:01:45.0893358+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Alois_Done",
+      "SetID": "dn6oa2c",
+      "Name": "At least he spoke!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Apollonia_Story",
+      "SetID": "dn6oa2c",
+      "Name": "Be there for each other!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Battle_Won",
+      "SetID": "dn6oa2c",
+      "Name": "Hear ye!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bayerle_Done",
+      "SetID": "dn6oa2c",
+      "Name": "By God! 3 crosses!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Be_Friend",
+      "SetID": "dn6oa2c",
+      "Name": "To friendship!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Be_Traitor",
+      "SetID": "dn6oa2c",
+      "Name": "Traitorous dog!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Be_Weird",
+      "SetID": "dn6oa2c",
+      "Name": "You\u0027re cuckoo",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Beer_King",
+      "SetID": "dn6oa2c",
+      "Name": "Beer King",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bowling_Master",
+      "SetID": "dn6oa2c",
+      "Name": "Bowling Brother",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Broken_Hand",
+      "SetID": "dn6oa2c",
+      "Name": "Crack - you don\u0027t do that!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Craft_Doll",
+      "SetID": "dn6oa2c",
+      "Name": "Piecing things together!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Credits_Done",
+      "SetID": "dn6oa2c",
+      "Name": "Thanks for the support!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Drunk_Level_7",
+      "SetID": "dn6oa2c",
+      "Name": "Bavaria, that\u0027s us!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Feierabend",
+      "SetID": "dn6oa2c",
+      "Name": "That\u0027s a wrap!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Find_Love",
+      "SetID": "dn6oa2c",
+      "Name": "Love!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "First_Death",
+      "SetID": "dn6oa2c",
+      "Name": "Knockout!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Flowerlove",
+      "SetID": "dn6oa2c",
+      "Name": "Flower love!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Found_Robbers",
+      "SetID": "dn6oa2c",
+      "Name": "Oh, am I interrupting?!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Found_all_Loc",
+      "SetID": "dn6oa2c",
+      "Name": "The Wanderer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HG_Dead",
+      "SetID": "dn6oa2c",
+      "Name": "Killed",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HG_Gone",
+      "SetID": "dn6oa2c",
+      "Name": "Escaped",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HG_Prison",
+      "SetID": "dn6oa2c",
+      "Name": "Caught",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Help_Boy",
+      "SetID": "dn6oa2c",
+      "Name": "One helps where one can!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Knockouts",
+      "SetID": "dn6oa2c",
+      "Name": "The slap tree has fallen!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Logemann_Done",
+      "SetID": "dn6oa2c",
+      "Name": "Unforgettable favors",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Loibl_Down",
+      "SetID": "dn6oa2c",
+      "Name": "The last ringing.",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Schormayer_Done",
+      "SetID": "dn6oa2c",
+      "Name": "The way to your heart",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Schorsch_Done",
+      "SetID": "dn6oa2c",
+      "Name": "Next time there will be water",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Stinky",
+      "SetID": "dn6oa2c",
+      "Name": "Unpleasant Forecast!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Wanna_Sleep",
+      "SetID": "dn6oa2c",
+      "Name": "Actually, I just wanted to sleep!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "dn6oa2c",
@@ -41,8 +283,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:05:30.6790017+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:30.6789967+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:01:45.0893322+00:00",
   "LastUpdate_AppInfo": "2024-04-02T15:57:11.8435952+00:00",
   "LastUpdate_Ratings": "2024-04-05T13:59:56.4483215+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:30.6790032+00:00"
+  "LastUpdate_Achievements": "2024-04-05T15:01:45.0902399+00:00"
 }

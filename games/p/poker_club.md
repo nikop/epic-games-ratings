@@ -5,54 +5,54 @@ Rating: 3.84 (Ranked 1,136)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~428,257 |
-| Handy | 42.00% | ~236,668 |
-| Cold Caller | 40.00% | ~225,398 |
-| A Bit On The Side | 27.00% | ~152,144 |
-| Backdoor | 26.00% | ~146,509 |
-| Rank Amateur | 22.00% | ~123,969 |
-| Three Way | 19.00% | ~107,064 |
-| Deadly Assassin | 16.00% | ~90,159 |
-| Gutshot | 14.00% | ~78,889 |
-| Risk It For A Biscuit | 14.00% | ~78,889 |
-| Showoff | 13.00% | ~73,254 |
-| W.H.I.P. | 12.00% | ~67,620 |
-| Bet Bet Bet | 10.00% | ~56,350 |
-| Blindman's Bluff | 9.00% | ~50,715 |
-| Poker Joker | 9.00% | ~50,715 |
-| The Bigger They Are | 9.00% | ~50,715 |
-| Dog Eat Dog | 8.00% | ~45,080 |
-| Never Give Up | 8.00% | ~45,080 |
-| Quack Quack | 8.00% | ~45,080 |
-| Total Knock Out | 8.00% | ~45,080 |
-| Give Your Regards To Broadway | 6.00% | ~33,810 |
-| Check Yourself | 4.00% | ~22,540 |
-| Moneymaker | 4.00% | ~22,540 |
-| In The Gang | 3.00% | ~16,905 |
-| On The Button | 3.00% | ~16,905 |
-| Before You Wreck Yourself | 2.00% | ~11,270 |
-| Holding Your Own | 2.00% | ~11,270 |
-| Keep Your Heads Up | 2.00% | ~11,270 |
-| Bluffing Eh? | 1.00% | ~5,635 |
-| Go For It | 1.00% | ~5,635 |
-| Regular Punter | 0.80% | ~4,508 |
-| How I Roll | 0.70% | ~3,944 |
-| Club Legend | 0.60% | ~3,381 |
-| Bring It On | 0.20% | ~1,127 |
-| Dress To Impress | 0.20% | ~1,127 |
-| Rock & High Roller | 0.20% | ~1,127 |
-| Top Dog | 0.20% | ~1,127 |
-| Bounty Hunter | 0.10% | ~563 |
-| Choke A Dozen Donkeys | 0.10% | ~563 |
-| Clubman | 0.10% | ~563 |
-| Philanthropic | 0.10% | ~563 |
-| Poker Ace | 0.10% | ~563 |
-| Poker Showdown | 0.10% | ~563 |
-| Pro Player | 0.10% | ~563 |
-| Rounder | 0.10% | ~563 |
+| Pro Creation | 76.00% | ~430,146 |
+| Handy | 42.00% | ~237,712 |
+| Cold Caller | 40.00% | ~226,393 |
+| A Bit On The Side | 27.00% | ~152,815 |
+| Backdoor | 26.00% | ~147,155 |
+| Rank Amateur | 22.00% | ~124,516 |
+| Three Way | 19.00% | ~107,537 |
+| Deadly Assassin | 16.00% | ~90,557 |
+| Gutshot | 14.00% | ~79,237 |
+| Risk It For A Biscuit | 14.00% | ~79,237 |
+| Showoff | 13.00% | ~73,578 |
+| W.H.I.P. | 12.00% | ~67,918 |
+| Bet Bet Bet | 11.00% | ~62,258 |
+| Blindman's Bluff | 9.00% | ~50,938 |
+| Poker Joker | 9.00% | ~50,938 |
+| The Bigger They Are | 9.00% | ~50,938 |
+| Dog Eat Dog | 8.00% | ~45,279 |
+| Never Give Up | 8.00% | ~45,279 |
+| Quack Quack | 8.00% | ~45,279 |
+| Total Knock Out | 8.00% | ~45,279 |
+| Give Your Regards To Broadway | 6.00% | ~33,959 |
+| Check Yourself | 4.00% | ~22,639 |
+| Moneymaker | 4.00% | ~22,639 |
+| On The Button | 4.00% | ~22,639 |
+| In The Gang | 3.00% | ~16,979 |
+| Before You Wreck Yourself | 2.00% | ~11,320 |
+| Holding Your Own | 2.00% | ~11,320 |
+| Keep Your Heads Up | 2.00% | ~11,320 |
+| Bluffing Eh? | 1.00% | ~5,660 |
+| Go For It | 1.00% | ~5,660 |
+| Regular Punter | 0.80% | ~4,528 |
+| How I Roll | 0.70% | ~3,962 |
+| Club Legend | 0.60% | ~3,396 |
+| Bring It On | 0.20% | ~1,132 |
+| Dress To Impress | 0.20% | ~1,132 |
+| Rock & High Roller | 0.20% | ~1,132 |
+| Top Dog | 0.20% | ~1,132 |
+| Bounty Hunter | 0.10% | ~566 |
+| Choke A Dozen Donkeys | 0.10% | ~566 |
+| Clubman | 0.10% | ~566 |
+| Philanthropic | 0.10% | ~566 |
+| Poker Ace | 0.10% | ~566 |
+| Poker Showdown | 0.10% | ~566 |
+| Pro Player | 0.10% | ~566 |
+| Rounder | 0.10% | ~566 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 563,496 (Ranked 36)  
-Completed: 3 (0.00%) (Ranked 445)  
+Progressed: 565,982 (Ranked 36)  
+Completed: 3 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,10 +334,11 @@ Completed: 3 (0.00%) (Ranked 445)
 | 2024-01-26 | 553,875 | 2 |
 | 2024-01-27 | 553,980 | 2 |
 | 2024-03-21 | 563,496 | 3 |
+| 2024-04-05 | 565,982 | 3 |
 ## Awards
-Max (Highly Recommended): 54  (Ranked 478)  
+Max (Highly Recommended): 54  (Ranked 479)  
 Sum: 176 (Ranked 463)  
-Diff (max vs sum): 15  
+Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 72 |

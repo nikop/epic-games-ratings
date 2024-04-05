@@ -44,15 +44,15 @@ Number of Ratings: 351  (23.09.2022)
 | Veteran Bounty Hunter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 773 (Ranked 356)  
-Completed: 0 (0.00%) (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 773 | 0 |
 ## Awards
-Max (Amazing Storytelling): 51  (Ranked 489)  
+Max (Amazing Storytelling): 51  (Ranked 490)  
 Sum: 337 (Ranked 399)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 51 |

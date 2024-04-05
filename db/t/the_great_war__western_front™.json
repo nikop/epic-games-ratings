@@ -5,8 +5,8 @@
   "Ranking_Rating": 1121,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
-  "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -139,7 +139,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1081,
+  "EOS_Progressed": 1120,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -4284,6 +4284,11 @@
       "Time": "2024-03-21T17:08:38.8841503+00:00",
       "NumProgressed": 1081,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-05T15:03:15.3819324+00:00",
+      "NumProgressed": 1120,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4319,7 +4324,7 @@
       "Name": "From the Pages of History",
       "Percentage": 8,
       "XP": 85,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -4343,7 +4348,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -4357,9 +4362,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 476
+      "UsersEstimate": 504
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -4367,7 +4372,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 157
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -4375,7 +4380,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 157
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4390,7 +4395,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 1081,
+      "Progressed": 1120,
       "Completed": 0
     }
   ],
@@ -4398,8 +4403,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-03-15T21:59:06.6858295+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:38.8841497+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:03:15.3819318+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:15.3813772+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:02:54.057912+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:38.8841817+00:00"
+  "LastUpdate_Ratings": "2024-04-05T14:57:53.8234441+00:00",
+  "LastUpdate_Achievements": "2024-04-05T15:03:15.3819646+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "5f9ba5f02fce44f4ab7faba53e835305",
   "Name": "TrekkingAndCamping",
   "ProductSlug": "trekkingandcamping-655909",
-  "Ranking_EOS_Progress": 715,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 707,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 22,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -72,6 +72,11 @@
       "Time": "2024-03-21T17:09:31.7220513+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-05T15:03:40.9380184+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-17T06:05:24.8004008+00:00",
@@ -90,15 +95,15 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8g4agn4",
       "Name": "Ukulele",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8g4agn4",
       "Name": "Dark magic",
-      "Percentage": 42,
+      "Percentage": 36,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -114,7 +119,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8g4agn4",
       "Name": "Dark Humor",
-      "Percentage": 37,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -122,7 +127,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8g4agn4",
       "Name": "Aspirin",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -130,7 +135,7 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "8g4agn4",
       "Name": "Safe camping",
-      "Percentage": 16,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -138,7 +143,7 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8g4agn4",
       "Name": "George\u0027s photo",
-      "Percentage": 21,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -146,7 +151,7 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "8g4agn4",
       "Name": "Summit",
-      "Percentage": 26,
+      "Percentage": 23,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -154,23 +159,23 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "8g4agn4",
       "Name": "Roll the dice",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8g4agn4",
       "Name": "Erudite",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8g4agn4",
       "Name": "Recorded",
-      "Percentage": 53,
+      "Percentage": 45,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -194,15 +199,15 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8g4agn4",
       "Name": "Rest moment",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8g4agn4",
       "Name": "Do not drink and get sleepy",
-      "Percentage": 16,
+      "Percentage": 14,
       "XP": 110,
       "UsersEstimate": 3
     }
@@ -211,13 +216,13 @@
     {
       "ID": "8g4agn4",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 22,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-13T15:04:04.2930323+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:31.7220508+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:03:40.9380163+00:00",
   "LastUpdate_AppInfo": "2024-04-01T01:45:46.0901583+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:02:58.8042696+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:31.7220614+00:00"
+  "LastUpdate_Ratings": "2024-04-05T14:57:57.4044586+00:00",
+  "LastUpdate_Achievements": "2024-04-05T15:03:40.9380279+00:00"
 }

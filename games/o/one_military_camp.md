@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 54.00% | ~184 |
-| The 4 Pillars | 51.00% | ~174 |
-| Capitalism | 22.00% | ~75 |
-| Green Energy | 16.00% | ~55 |
-| There's something in those trees | 13.00% | ~44 |
-| Desert Power | 13.00% | ~44 |
-| Great Producer | 12.00% | ~41 |
+| First Step | 55.00% | ~193 |
+| The 4 Pillars | 51.00% | ~178 |
+| Capitalism | 22.00% | ~77 |
+| Green Energy | 17.00% | ~60 |
+| There's something in those trees | 14.00% | ~49 |
+| Desert Power | 13.00% | ~46 |
+| Great Producer | 12.00% | ~42 |
 | Health Care | 11.00% | ~38 |
-| Indebted | 10.00% | ~34 |
-| Perfect Soldier | 9.00% | ~31 |
-| Healing | 9.00% | ~31 |
-| Ammo Tycoon | 8.00% | ~27 |
-| Desert Rat | 8.00% | ~27 |
-| Good payer | 7.00% | ~24 |
-| Pathfinder | 7.00% | ~24 |
-| Food Tycoon | 7.00% | ~24 |
-| Fuel Tycoon | 7.00% | ~24 |
-| Jantine: the Misfortunes of Evil | 6.00% | ~20 |
-| Overpopulation | 6.00% | ~20 |
-| Self-sufficient | 6.00% | ~20 |
-| Supersoldier | 5.00% | ~17 |
-| Property Bro | 5.00% | ~17 |
-| Medicine Tycoon | 5.00% | ~17 |
+| Indebted | 10.00% | ~35 |
+| Perfect Soldier | 9.00% | ~32 |
+| Healing | 9.00% | ~32 |
+| Ammo Tycoon | 8.00% | ~28 |
+| Desert Rat | 8.00% | ~28 |
+| Overpopulation | 7.00% | ~25 |
+| Good payer | 7.00% | ~25 |
+| Pathfinder | 7.00% | ~25 |
+| Food Tycoon | 7.00% | ~25 |
+| Fuel Tycoon | 7.00% | ~25 |
+| Jantine: the Misfortunes of Evil | 6.00% | ~21 |
+| Self-sufficient | 6.00% | ~21 |
+| Supersoldier | 5.00% | ~18 |
+| Property Bro | 5.00% | ~18 |
+| Medicine Tycoon | 5.00% | ~18 |
 | Tear Down the Wall! | 4.00% | ~14 |
 | Vive le Résistance | 4.00% | ~14 |
-| No News is Good News | 4.00% | ~14 |
 | Human Resources | 4.00% | ~14 |
 | Training Camp | 4.00% | ~14 |
 | Outdoor Decorator | 3.00% | ~10 |
+| No News is Good News | 3.00% | ~10 |
 | Winter Soldier | 3.00% | ~10 |
 | Snowman | 2.00% | ~7 |
 | Reconquest | 2.00% | ~7 |
-| Economist | 1.00% | ~3 |
-| Counter-espionage | 1.00% | ~3 |
-| Crisis Committee | 1.00% | ~3 |
-| Against Adversity | 1.00% | ~3 |
-| Researcher | 1.00% | ~3 |
+| Economist | 1.00% | ~4 |
+| Counter-espionage | 1.00% | ~4 |
+| Crisis Committee | 1.00% | ~4 |
+| Against Adversity | 1.00% | ~4 |
+| Researcher | 1.00% | ~4 |
 | Self-management | 0.60% | ~2 |
 | Conveyor Belt Madness | 0.60% | ~2 |
 | People's Hero | 0.30% | ~1 |
@@ -49,8 +49,8 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 341 (Ranked 434)  
-Completed: 0 (0.00%) (Ranked 445)  
+Progressed: 350 (Ranked 430)  
+Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,3 +163,4 @@ Completed: 0 (0.00%) (Ranked 445)
 | 2024-01-26 | 307 | 0 |
 | 2024-01-27 | 308 | 0 |
 | 2024-03-21 | 341 | 0 |
+| 2024-04-05 | 350 | 0 |

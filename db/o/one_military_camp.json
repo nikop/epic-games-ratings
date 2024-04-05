@@ -2,8 +2,8 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 430,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 341,
+  "EOS_Progressed": 350,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1389,6 +1389,11 @@
       "Time": "2024-03-21T17:05:54.6623015+00:00",
       "NumProgressed": 341,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-05T15:01:56.2765547+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1401,7 +1406,7 @@
       "Name": "Jantine: the Misfortunes of Evil",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_ID_1",
@@ -1417,7 +1422,7 @@
       "Name": "Economist",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_11",
@@ -1433,7 +1438,7 @@
       "Name": "Counter-espionage",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_13",
@@ -1441,7 +1446,7 @@
       "Name": "Supersoldier",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_ID_14",
@@ -1449,7 +1454,7 @@
       "Name": "Perfect Soldier",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -1465,7 +1470,7 @@
       "Name": "Crisis Committee",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_17",
@@ -1495,9 +1500,9 @@
       "ID": "ACHIEVEMENT_ID_2",
       "SetID": "c504de6",
       "Name": "No News is Good News",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_ID_20",
@@ -1505,15 +1510,15 @@
       "Name": "Healing",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
       "SetID": "c504de6",
       "Name": "There\u0027s something in those trees",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
@@ -1521,7 +1526,7 @@
       "Name": "Desert Power",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -1535,9 +1540,9 @@
       "ID": "ACHIEVEMENT_ID_24",
       "SetID": "c504de6",
       "Name": "Overpopulation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_ID_25",
@@ -1545,7 +1550,7 @@
       "Name": "Property Bro",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_ID_26",
@@ -1561,7 +1566,7 @@
       "Name": "The 4 Pillars",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 178
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1593,7 +1598,7 @@
       "Name": "Indebted",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -1601,7 +1606,7 @@
       "Name": "Good payer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_ID_32",
@@ -1609,7 +1614,7 @@
       "Name": "Capitalism",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1617,7 +1622,7 @@
       "Name": "Pathfinder",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_ID_34",
@@ -1625,7 +1630,7 @@
       "Name": "Self-sufficient",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_ID_35",
@@ -1633,7 +1638,7 @@
       "Name": "Food Tycoon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_ID_36",
@@ -1641,7 +1646,7 @@
       "Name": "Fuel Tycoon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_ID_37",
@@ -1649,7 +1654,7 @@
       "Name": "Medicine Tycoon",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -1657,7 +1662,7 @@
       "Name": "Ammo Tycoon",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_ID_39",
@@ -1671,9 +1676,9 @@
       "ID": "ACHIEVEMENT_ID_4",
       "SetID": "c504de6",
       "Name": "First Step",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1681,7 +1686,7 @@
       "Name": "Great Producer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -1705,7 +1710,7 @@
       "Name": "Against Adversity",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_5",
@@ -1713,7 +1718,7 @@
       "Name": "Desert Rat",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_ID_6",
@@ -1729,15 +1734,15 @@
       "Name": "Researcher",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_ID_8",
       "SetID": "c504de6",
       "Name": "Green Energy",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1752,14 +1757,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 341,
+      "Progressed": 350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:54.6623007+00:00",
+  "LastChanged_Achievements": "2024-04-05T15:01:56.2765544+00:00",
   "LastUpdate_AppInfo": "2024-03-31T12:58:08.189813+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:58:10.38665+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:54.6623444+00:00"
+  "LastUpdate_Ratings": "2024-04-05T14:59:38.3392373+00:00",
+  "LastUpdate_Achievements": "2024-04-05T15:01:56.2766008+00:00"
 }

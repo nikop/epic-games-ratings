@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 89.00% | ~186 |
-| The Routine | 78.00% | ~163 |
-| Mother | 77.00% | ~161 |
-| Failure | 73.00% | ~153 |
-| Replace Fuse | 64.00% | ~134 |
-| Alarm | 63.00% | ~132 |
-| Air Filtration | 59.00% | ~123 |
-| Broken | 57.00% | ~119 |
-| Radiation | 56.00% | ~117 |
-| Descent | 55.00% | ~115 |
-| Awakenings | 54.00% | ~113 |
-| Cold Storage | 54.00% | ~113 |
-| Sam | 53.00% | ~111 |
-| Soldier | 48.00% | ~100 |
-| Leave | 47.00% | ~98 |
-| Churchill | 46.00% | ~96 |
-| Engineer | 46.00% | ~96 |
-| Commissioner | 44.00% | ~92 |
-| Doctor | 41.00% | ~86 |
-| Press Play | 33.00% | ~69 |
-| General | 26.00% | ~54 |
-| Bookworm | 25.00% | ~52 |
-| Floppy Disk Finder | 16.00% | ~33 |
+| Last Goodbye | 89.00% | ~189 |
+| The Routine | 79.00% | ~167 |
+| Mother | 77.00% | ~163 |
+| Failure | 74.00% | ~157 |
+| Replace Fuse | 65.00% | ~138 |
+| Alarm | 64.00% | ~136 |
+| Air Filtration | 60.00% | ~127 |
+| Broken | 58.00% | ~123 |
+| Radiation | 58.00% | ~123 |
+| Descent | 56.00% | ~119 |
+| Awakenings | 55.00% | ~117 |
+| Cold Storage | 55.00% | ~117 |
+| Sam | 53.00% | ~112 |
+| Soldier | 49.00% | ~104 |
+| Leave | 48.00% | ~102 |
+| Churchill | 48.00% | ~102 |
+| Engineer | 47.00% | ~100 |
+| Commissioner | 44.00% | ~93 |
+| Doctor | 41.00% | ~87 |
+| Press Play | 34.00% | ~72 |
+| General | 27.00% | ~57 |
+| Bookworm | 25.00% | ~53 |
+| Floppy Disk Finder | 16.00% | ~34 |
 | Stay | 11.00% | ~23 |
 | Nurse | 10.00% | ~21 |
-| No Page Unturned | 5.00% | ~10 |
-| Friends | 5.00% | ~10 |
-| The Missing Piece | 5.00% | ~10 |
+| No Page Unturned | 5.00% | ~11 |
+| Friends | 5.00% | ~11 |
+| The Missing Piece | 5.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 477)  
-Completed: 7 (3.35%) (Ranked 118)  
+Progressed: 212 (Ranked 473)  
+Completed: 7 (3.30%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,6 +115,7 @@ Completed: 7 (3.35%) (Ranked 118)
 | 2024-01-23 | 187 | 7 |
 | 2024-01-26 | 188 | 7 |
 | 2024-03-21 | 209 | 7 |
+| 2024-04-05 | 212 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

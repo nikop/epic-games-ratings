@@ -60,7 +60,7 @@ Rating: 4.50 (Ranked 641)
 | Splurgle | 2.00% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 53,569 (Ranked 134)  
-Completed: 272 (0.51%) (Ranked 256)  
+Completed: 272 (0.51%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "0aab4b93b04d4b23bd8ea803d0a481d7",
   "Name": "Karos Classic",
   "ProductSlug": "karos-classic-93c08d",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-11T11:57:52.6336857+00:00",
   "LastUpdate_AppInfo": "2024-04-02T12:59:43.3757655+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:03:27.4791998+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:58:18.0787068+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:04.5274761+00:00"
 }

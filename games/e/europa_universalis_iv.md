@@ -371,7 +371,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Zoro-Austrians | 0.10% | ~533 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 533,301 (Ranked 42)  
-Completed: 3 (0.00%) (Ranked 445)  
+Completed: 3 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

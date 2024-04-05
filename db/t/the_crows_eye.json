@@ -2,8 +2,8 @@
   "ID": "b4ed29547b254207b92ee6c2f0e65bec",
   "Name": "The Crows Eye",
   "ProductSlug": "the-crows-eye-af7d60",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:04.6896095+00:00",
   "LastChanged": "2023-03-31T05:57:04.6896096+00:00",
   "LastUpdate_AppInfo": "2024-03-31T01:43:30.2038009+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:02:40.521669+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:57:44.1440272+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:36.6617745+00:00"
 }

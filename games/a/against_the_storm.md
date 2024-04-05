@@ -67,7 +67,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fox Utopia | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,721 (Ranked 167)  
-Completed: 39 (0.18%) (Ranked 322)  
+Completed: 39 (0.18%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

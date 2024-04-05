@@ -14,7 +14,7 @@
 | Vicious Delicious | 25.00% | ~25 |
 | Hellfire | 22.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 558)  
+Progressed: 99 (Ranked 559)  
 Completed: 19 (19.19%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |

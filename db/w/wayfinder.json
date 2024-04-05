@@ -2,8 +2,8 @@
   "ID": "cf4ee4f4e6574b82896b636179d946ee",
   "Name": "Wayfinder",
   "ProductSlug": "wayfinder",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 445,
+  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-03-31T13:57:30.2456027+00:00",
-  "LastUpdate_Ratings": "2024-04-05T13:02:20.2915538+00:00",
+  "LastUpdate_Ratings": "2024-04-05T14:57:29.7976566+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:43.3046459+00:00"
 }

@@ -36,7 +36,7 @@ Number of Ratings: 896  (23.09.2022)
 | The Scrooge | 0.10% | ~625 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 625,132 (Ranked 33)  
-Completed: 586 (0.09%) (Ranked 356)  
+Completed: 586 (0.09%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

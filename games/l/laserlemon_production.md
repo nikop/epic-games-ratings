@@ -26,7 +26,7 @@
 | Ashes in The Maw | 12.00% | ~4 |
 | Is Anybody Out There? | 12.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 671)  
+Progressed: 34 (Ranked 673)  
 Completed: 3 (8.82%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
