@@ -10,7 +10,7 @@
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 628 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 628 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 22 | 602 |
-| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,076 | 125 |
+| 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,078 | 125 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 628 |
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,087 | 46 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 508 | 230 |
@@ -383,7 +383,7 @@
 | 375 | [Dungeons 4](games/d/dungeons_4.md) | 4.63 | 0 | 628 |
 | 375 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,426 | 117 |
 | 375 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.63 | 164 | 351 |
-| 375 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,003 | 130 |
+| 375 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,008 | 129 |
 | 375 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 0 | 628 |
 | 375 | [HITMAN](games/h/hitman.md) | 4.63 | 227 | 306 |
 | 375 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.63 | 80 | 432 |
@@ -430,7 +430,7 @@
 | 416 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 628 |
 | 416 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 628 |
 | 416 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 63 | 459 |
-| 416 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 466 | 241 |
+| 416 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 468 | 241 |
 | 416 | [MudRunner](games/m/mudrunner.md) | 4.61 | 332 | 267 |
 | 416 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 628 |
 | 416 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 763 | 201 |
@@ -494,7 +494,7 @@
 | 488 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 15,747 | 28 |
 | 488 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 276 | 287 |
 | 488 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 628 |
-| 488 | [Isonzo](games/i/isonzo.md) | 4.58 | 48 | 497 |
+| 488 | [Isonzo](games/i/isonzo.md) | 4.58 | 48 | 498 |
 | 488 | [Moving Out](games/m/moving_out.md) | 4.58 | 22 | 602 |
 | 488 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 11,526 | 42 |
 | 488 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 0 | 628 |
@@ -945,7 +945,7 @@
 | 936 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 628 |
 | 936 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 24 | 594 |
 | 936 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 628 |
-| 936 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,144 | 74 |
+| 936 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,147 | 74 |
 | 936 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 130 | 370 |
 | 936 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 342 |
 | 936 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.28 | 0 | 628 |
@@ -959,7 +959,7 @@
 | 950 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 628 |
 | 950 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 628 |
 | 950 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 628 |
-| 960 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 48 | 497 |
+| 960 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 49 | 494 |
 | 960 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,938 | 22 |
 | 960 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 4,084 | 97 |
 | 960 | [Predecessor](games/p/predecessor.md) | 4.26 | 472 | 239 |

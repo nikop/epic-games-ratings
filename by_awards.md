@@ -73,7 +73,7 @@
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,526 | 4.80 | 90 |
 | 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,415 | 4.78 | 113 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,201 | 4.66 | 315 |
-| 74 | [Rogue Company](games/r/rogue_company.md) | 6,144 | 4.28 | 936 |
+| 74 | [Rogue Company](games/r/rogue_company.md) | 6,147 | 4.28 | 936 |
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,083 | 4.64 | 360 |
 | 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,049 | 4.85 | 39 |
 | 77 | [Prey](games/p/prey.md) | 5,981 | 4.63 | 375 |
@@ -124,12 +124,12 @@
 | 122 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,290 | 4.41 | 782 |
 | 123 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,175 | 4.37 | 840 |
 | 124 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,152 | 4.55 | 548 |
-| 125 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,076 | 4.90 | 8 |
+| 125 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,078 | 4.90 | 8 |
 | 126 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,068 | 4.49 | 663 |
 | 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,053 | 4.69 | 247 |
 | 128 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,016 | 4.50 | 641 |
+| 129 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,008 | 4.63 | 375 |
 | 129 | [World of Warships](games/w/world_of_warships.md) | 2,008 | 4.41 | 782 |
-| 130 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,003 | 4.63 | 375 |
 | 131 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,989 | 4.66 | 315 |
 | 132 | [Celeste](games/c/celeste.md) | 1,938 | 4.91 | 6 |
 | 133 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,882 | 4.86 | 29 |
@@ -240,7 +240,7 @@
 | 238 | [Against the Storm](games/a/against_the_storm.md) | 480 | 4.82 | 69 |
 | 239 | [Into the Breach](games/i/into_the_breach.md) | 472 | 4.84 | 45 |
 | 239 | [Predecessor](games/p/predecessor.md) | 472 | 4.26 | 960 |
-| 241 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 466 | 4.61 | 416 |
+| 241 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 468 | 4.61 | 416 |
 | 242 | [Hello Neighbor](games/h/hello_neighbor.md) | 463 | 4.57 | 511 |
 | 243 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 315 |
 | 244 | [For The King](games/f/for_the_king.md) | 446 | 4.70 | 225 |
@@ -494,10 +494,10 @@
 | 489 | [Transport Fever 2](games/t/transport_fever_2.md) | 51 | 4.67 | 292 |
 | 493 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 1,020 |
 | 494 | [Coromon](games/c/coromon.md) | 49 | 4.69 | 247 |
+| 494 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 49 | 4.26 | 960 |
 | 494 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 49 | 4.29 | 925 |
 | 494 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 49 | 4.13 | 1,066 |
-| 497 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 48 | 4.26 | 960 |
-| 497 | [Isonzo](games/i/isonzo.md) | 48 | 4.58 | 488 |
+| 498 | [Isonzo](games/i/isonzo.md) | 48 | 4.58 | 488 |
 | 499 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 47 | 4.58 | 488 |
 | 499 | [Bugsnax](games/b/bugsnax.md) | 47 | 4.86 | 29 |
 | 499 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 47 | 4.53 | 584 |
