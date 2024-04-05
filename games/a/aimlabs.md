@@ -3,9 +3,9 @@
 [View Rawdata](../../db/a/aimlabs.json)  
 Rating: 4.61 (Ranked 416)  
 ## Awards
-Max (Great for Quick Sessions): 135  (Ranked 363)  
+Max (Great for Quick Sessions): 135  (Ranked 364)  
 Sum: 878 (Ranked 301)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 135 |
