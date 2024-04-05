@@ -2,7 +2,7 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 754,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 141,
@@ -2477,10 +2477,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 1094,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2024-04-05T02:15:43.3772215+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 1098,
+      "NumberOfAwardsMax": 209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1094,
+  "NumberOfAwards": 1098,
   "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Competitive Community",
   "Tags": [
@@ -2506,7 +2512,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 139
+      "Count": 143
     },
     {
       "Text": "This game has Challenging Combat",
@@ -16425,9 +16431,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-04-04T23:57:29.2035332+00:00",
+  "LastChanged": "2024-04-05T02:15:43.3772214+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:46.7297352+00:00",
   "LastUpdate_AppInfo": "2024-04-03T01:38:57.7928012+00:00",
-  "LastUpdate_Ratings": "2024-04-04T23:57:29.2035337+00:00",
+  "LastUpdate_Ratings": "2024-04-05T02:15:43.3772218+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:46.7298438+00:00"
 }
