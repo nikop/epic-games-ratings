@@ -24239,10 +24239,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 830828,
       "NumberOfAwardsMax": 303662
+    },
+    {
+      "Time": "2024-04-05T21:58:41.6417089+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 830912,
+      "NumberOfAwardsMax": 303662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 830828,
+  "NumberOfAwards": 830912,
   "NumberOfAwardsMax": 303662,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -24268,7 +24274,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 35796
+      "Count": 35880
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -24342,8 +24348,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-04-05T20:57:17.3316601+00:00",
+  "LastChanged": "2024-04-05T21:58:41.6417086+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:27.3529017+00:00",
-  "LastUpdate_Ratings": "2024-04-05T20:57:17.3316608+00:00",
+  "LastUpdate_Ratings": "2024-04-05T21:58:41.6417093+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:03:33.3690288+00:00"
 }
