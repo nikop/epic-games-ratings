@@ -45,7 +45,7 @@
 | [Parkour Legends](games/p/parkour_legends.md) | 2024-05-08 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | - |  | - | - |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | - | - |
-| [Robobeat](games/r/robobeat.md) | 2024-05-16 | - |  | - | - |
+| [ROBOBEAT](games/r/robobeat.md) | 2024-05-16 | - |  | - | - |
 | [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-05-23 | - |  | - | - |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-05-27 | 33 (1,000 XP) | 0 | - | - |
 | [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,220 | 4.56 | 4,756 |
