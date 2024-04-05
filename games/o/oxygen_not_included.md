@@ -4,9 +4,9 @@
 Rating: 4.83 (Ranked 55)  
 Number of Ratings: 897  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 283  (Ranked 283)  
+Max (Diverse Characters): 283  (Ranked 284)  
 Sum: 2,486 (Ranked 216)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 283 |
