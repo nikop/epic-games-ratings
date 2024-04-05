@@ -4,8 +4,8 @@
 Rating: 4.08 (Ranked 1,081)  
 ## Awards
 Max (Competitive Players): 28  (Ranked 570)  
-Sum: 100 (Ranked 502)  
-Diff (max vs sum): 68  
+Sum: 100 (Ranked 504)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
