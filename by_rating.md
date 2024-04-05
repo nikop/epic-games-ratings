@@ -321,7 +321,7 @@
 | 315 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 189 | 331 |
 | 315 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.66 | 125 | 376 |
 | 315 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,318 | 150 |
-| 315 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.66 | 167 | 348 |
+| 315 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.66 | 167 | 349 |
 | 315 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.66 | 0 | 628 |
 | 315 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 628 |
 | 315 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 628 |
@@ -372,7 +372,7 @@
 | 360 | [Revita](games/r/revita.md) | 4.64 | 0 | 628 |
 | 360 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 29,984 | 18 |
 | 360 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 37 | 529 |
-| 360 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,123 | 162 |
+| 360 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,128 | 161 |
 | 360 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 223 | 309 |
 | 375 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.63 | 0 | 628 |
 | 375 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 614 |
@@ -436,7 +436,7 @@
 | 416 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 763 | 201 |
 | 416 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,230 | 43 |
 | 416 | [Risen](games/r/risen.md) | 4.61 | 0 | 628 |
-| 416 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,127 | 161 |
+| 416 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,127 | 162 |
 | 416 | [Rogue Lords](games/r/rogue_lords.md) | 4.61 | 0 | 628 |
 | 416 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 628 |
 | 416 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.61 | 87 | 423 |
@@ -496,7 +496,7 @@
 | 488 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 628 |
 | 488 | [Isonzo](games/i/isonzo.md) | 4.58 | 48 | 497 |
 | 488 | [Moving Out](games/m/moving_out.md) | 4.58 | 22 | 602 |
-| 488 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 11,510 | 42 |
+| 488 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 11,526 | 42 |
 | 488 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 0 | 628 |
 | 488 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,520 | 147 |
 | 488 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 4.58 | 38 | 528 |
@@ -755,7 +755,7 @@
 | 738 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.44 | 0 | 628 |
 | 738 | [Tunche](games/t/tunche.md) | 4.44 | 34 | 540 |
 | 738 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 298 | 280 |
-| 756 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 271 | 289 |
+| 756 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 272 | 289 |
 | 756 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 73 | 448 |
 | 756 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 628 |
 | 756 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 47 | 499 |
@@ -765,22 +765,22 @@
 | 756 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 628 |
 | 756 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 628 |
 | 756 | [The Surge](games/t/the_surge.md) | 4.43 | 33 | 546 |
-| 756 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.43 | 224 | 308 |
 | 756 | [Warpips](games/w/warpips.md) | 4.43 | 46 | 503 |
 | 756 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.43 | 33 | 546 |
 | 756 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 465 |
 | 756 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 28 | 570 |
-| 771 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 614 |
-| 771 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 628 |
-| 771 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.42 | 0 | 628 |
-| 771 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 41 | 518 |
-| 771 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 628 |
-| 771 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
-| 771 | [SMITE](games/s/smite.md) | 4.42 | 5,482 | 82 |
-| 771 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,193 | 157 |
-| 771 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 165 | 350 |
-| 771 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 87 | 423 |
-| 771 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 628 |
+| 770 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 614 |
+| 770 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 628 |
+| 770 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.42 | 0 | 628 |
+| 770 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 41 | 518 |
+| 770 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 628 |
+| 770 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
+| 770 | [SMITE](games/s/smite.md) | 4.42 | 5,482 | 82 |
+| 770 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,193 | 157 |
+| 770 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.42 | 224 | 308 |
+| 770 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 165 | 350 |
+| 770 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 87 | 423 |
+| 770 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 628 |
 | 782 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 628 |
 | 782 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 322 | 270 |
 | 782 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.41 | 0 | 628 |
@@ -860,7 +860,7 @@
 | 852 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 628 |
 | 852 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 576 |
 | 852 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.36 | 32 | 551 |
-| 852 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 167 | 348 |
+| 852 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 168 | 347 |
 | 852 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.36 | 33 | 546 |
 | 863 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 129 | 373 |
 | 863 | [Core](games/c/core.md) | 4.35 | 803 | 197 |
