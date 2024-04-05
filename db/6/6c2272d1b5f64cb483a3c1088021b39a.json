@@ -2,7 +2,7 @@
   "ID": "6c2272d1b5f64cb483a3c1088021b39a",
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
-  "Ranking_Rating": 770,
+  "Ranking_Rating": 738,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
   "Ranking_EOS_Progress": 305,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2024-02-15T09:59:01.6736468+00:00",
@@ -51,6 +51,12 @@
     {
       "Time": "2024-03-26T12:59:40.7661893+00:00",
       "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-05T06:58:32.1351576+00:00",
+      "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5524,9 +5530,9 @@
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenRating": "2024-02-15T09:59:01.6736465+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged": "2024-03-26T12:59:40.7661891+00:00",
+  "LastChanged": "2024-04-05T06:58:32.1351574+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:42.1344848+00:00",
   "LastUpdate_AppInfo": "2024-04-03T01:38:55.6694738+00:00",
-  "LastUpdate_Ratings": "2024-04-05T05:01:45.8632824+00:00",
+  "LastUpdate_Ratings": "2024-04-05T06:58:32.1351578+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:42.1345691+00:00"
 }
