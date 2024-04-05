@@ -4,7 +4,7 @@
   "ProductSlug": "nightingale",
   "Ranking_Rating": 950,
   "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 408,
+  "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 952,
   "Ranking_EOS_Completed": 445,
   "Ranking_EOS_NewPlayers": 1,
@@ -805,10 +805,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 308,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-04-05T08:57:12.4260219+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 309,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 308,
+  "NumberOfAwards": 309,
   "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -858,7 +864,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
@@ -893,9 +899,9 @@
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:53.3151044+00:00",
-  "LastChanged": "2024-04-05T05:57:41.6041902+00:00",
+  "LastChanged": "2024-04-05T08:57:12.4260215+00:00",
   "LastChanged_Achievements": "2024-03-21T17:06:53.3151022+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:57:15.8475801+00:00",
-  "LastUpdate_Ratings": "2024-04-05T06:59:50.7760801+00:00",
+  "LastUpdate_Ratings": "2024-04-05T08:57:12.4260222+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:53.3151063+00:00"
 }
