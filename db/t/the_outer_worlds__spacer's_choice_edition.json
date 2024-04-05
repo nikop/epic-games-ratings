@@ -2,7 +2,7 @@
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 952,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-03-24T21:56:57.6638821+00:00",
@@ -4479,10 +4479,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 12716,
       "NumberOfAwardsMax": 8769
+    },
+    {
+      "Time": "2024-04-05T05:59:45.3055922+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 12721,
+      "NumberOfAwardsMax": 8769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12716,
+  "NumberOfAwards": 12721,
   "NumberOfAwardsMax": 8769,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4502,7 +4508,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 471
+      "Count": 474
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4544,7 +4550,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 261
+      "Count": 263
     }
   ],
   "EOS_Progressed": 0,
@@ -4567,9 +4573,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-04-05T02:59:37.8965541+00:00",
+  "LastChanged": "2024-04-05T05:59:45.3055917+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:07.7714885+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:35.6753615+00:00",
-  "LastUpdate_Ratings": "2024-04-05T04:58:50.3285034+00:00",
+  "LastUpdate_Ratings": "2024-04-05T05:59:45.3055926+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:07.771492+00:00"
 }
