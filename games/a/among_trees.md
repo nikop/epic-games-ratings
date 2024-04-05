@@ -1,7 +1,7 @@
 # Among Trees
 [Store](https://store.epicgames.com/en-US/p/among-trees)  
 [View Rawdata](../../db/a/among_trees.json)  
-Rating: 4.33 (Ranked 889)  
+Rating: 4.33 (Ranked 888)  
 Number of Ratings: 122  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
