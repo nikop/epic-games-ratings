@@ -440,6 +440,7 @@
 | [Hello Neighbor 2](../games/h/hello_neighbor_2.md) | 14 | 1,000 |
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
 | [Hero Battle Fantasy Arena](../games/4/4d936d45ca14450c86d6472c3c494181.md) | 15 | 1,000 |
+| [Hidden Shapes Animals](../games/f/fd28199790f441de828b16e9fd646438.md) | 42 | 1,000 |
 | [Hidden Shapes Lovely Cats](../games/0/09d5ec77740e470993122a1a16f508aa.md) | 42 | 1,000 |
 | [Hide and Seek](../games/2/2918f07c226a49308895622ed4937eb1.md) | 6 | 1,000 |
 | [Highwater](../games/h/highwater.md) | 20 | 1,000 |
@@ -479,6 +480,7 @@
 | [Inkulinati](../games/3/3017522a6faa4fd4a8f16d5e2899fe69.md) | 26 | 1,000 |
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
 | [Inspector Gadget - Mad Time Party](../games/i/inspector_gadget_-_mad_time_party.md) | 11 | 1,000 |
+| [Inspector Schmidt - A Bavarian Tale](../games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 30 | 1,000 |
 | [Insurgency: Sandstorm](../games/i/insurgency__sandstorm.md) | 35 | 1,000 |
 | [International Basketball Manager 23](../games/e/e9543b5d696d4129af27a26b22ceeaff.md) | 32 | 1,000 |
 | [Invincible Presents: Atom Eve](../games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 35 | 1,000 |
@@ -646,8 +648,8 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |
 | [Picklock](../games/0/0904b974619a436ebc70ec7a374572d8.md) | 24 | 1,000 |
@@ -928,6 +930,7 @@
 | [Time Trap](../games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 5 | 1,000 |
 | [Timothy vs the Aliens](../games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 24 | 1,000 |
 | [Tintin Reporter - Cigars of the Pharaoh](../games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 37 | 1,000 |
+| [Titanfall® 2: Ultimate Edition](../games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 50 | 1,000 |
 | [Title_Pending](../games/a/a9b4829f53a54f098c57c87bd1ff791e.md) | 24 | 1,000 |
 | [Toasterball](../games/b/b0c40ea3edbd41f88219ee048d3d6cce.md) | 61 | 1,000 |
 | [ToeJam & Earl: Back in the Groove!](../games/t/toejam_&_earl__back_in_the_groove!.md) | 49 | 1,000 |
@@ -963,6 +966,7 @@
 | [Until the Last Plane](../games/u/until_the_last_plane.md) | 11 | 1,000 |
 | [Unwording](../games/d/dfcaca0f28ed435ebaf4e12d87a39ad2.md) | 14 | 1,000 |
 | [Urbek City Builder](../games/u/urbek_city_builder.md) | 79 | 1,000 |
+| [URBO](../games/c/cd7de0977e0f4f7f8468653789569766.md) | 29 | 1,000 |
 | [Vagrus - The Riven Realms](../games/v/vagrus_-_the_riven_realms.md) | 99 | 1,000 |
 | [Verdun](../games/v/verdun.md) | 59 | 1,000 |
 | [Virtual Rides 3](../games/1/116f71b2da434337bba6498e0ea61d9c.md) | 10 | 1,000 |

@@ -211,6 +211,7 @@
 | [Road Maintenance Simulator](../games/9/98c157cecc744a6393d86f60ccd43b53.md) | 50 | 1,000 |
 | [Super Alloy Ranger](../games/s/super_alloy_ranger.md) | 50 | 1,000 |
 | [Sword and Fairy Inn 2](../games/5/511787884bc344e080cf5ae502e8092d.md) | 50 | 1,000 |
+| [Titanfall® 2: Ultimate Edition](../games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 50 | 1,000 |
 | [Train World](../games/t/train_world.md) | 50 | 1,000 |
 | [Wrath: Aeon of Ruin](../games/w/wrath__aeon_of_ruin.md) | 50 | 1,000 |
 | [Ash of Gods: The Way](../games/a/ash_of_gods__the_way.md) | 49 | 1,000 |
@@ -308,6 +309,7 @@
 | [DotLine](../games/e/e582a1469e18401e8729827444ea2c8e.md) | 42 | 1,000 |
 | [Elemental War 2](../games/9/97c2829c7b9047a7bf8657d7c5f87765.md) | 42 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |
+| [Hidden Shapes Animals](../games/f/fd28199790f441de828b16e9fd646438.md) | 42 | 1,000 |
 | [Hidden Shapes Lovely Cats](../games/0/09d5ec77740e470993122a1a16f508aa.md) | 42 | 1,000 |
 | [HORSE CLUB Adventures 2 - Hazelwood Stories](../games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 42 | 1,000 |
 | [Laika: Aged Through Blood](../games/6/64f5543ade2942d59ae4e0321915e0da.md) | 42 | 1,000 |
@@ -365,8 +367,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
@@ -506,6 +508,7 @@
 | [ENDLESS™ Dungeon](../games/e/endless™_dungeon.md) | 30 | 1,000 |
 | [Haven](../games/h/haven.md) | 30 | 1,000 |
 | [I Did Not Buy This Ticket](../games/9/97359b2710354a139a24ddb1580b5b3d.md) | 30 | 1,000 |
+| [Inspector Schmidt - A Bavarian Tale](../games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 30 | 1,000 |
 | [Island Farmer](../games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 30 | 1,000 |
 | [Maid of Sker](../games/m/maid_of_sker.md) | 30 | 1,000 |
 | [Naheulbeuk's Dungeon Master](../games/4/4885ae8497a54a0d95073db643c65ea0.md) | 30 | 1,000 |
@@ -539,6 +542,7 @@
 | [The Story Goes On](../games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 29 | 1,000 |
 | [The Uncertain: Light at the End](../games/t/the_uncertain__light_at_the_end.md) | 29 | 1,000 |
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |
+| [URBO](../games/c/cd7de0977e0f4f7f8468653789569766.md) | 29 | 1,000 |
 | [War Hospital](../games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 29 | 1,000 |
 | [Definitely Sneaky But Not Sneaky](../games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 28 | 1,000 |
 | [Endling - Extinction is Forever](../games/e/endling_-_extinction_is_forever.md) | 28 | 1,000 |

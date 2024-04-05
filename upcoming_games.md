@@ -26,7 +26,7 @@
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | - |  | - | - |
 | [Dungeon Renovation Simulator](games/2/27dde2bf49304fc19badc32544a9105f.md) | 2024-04-30 | - |  | - | - |
 | [Goalgetter](games/7/7f3d1cc99606488c889a893f5b82762a.md) | 2024-04-30 | - |  | - | - |
-| [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-30 | - |  | - | - |
+| [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-30 | 42 (1,000 XP) | 0 | - | - |
 | [House](games/3/35ca779d351a4132b7bd12ff2bad615a.md) | 2024-04-30 | - |  | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-04-30 | - |  | - | - |
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
@@ -369,7 +369,7 @@
 | [INDUSTRIA 2](games/b/b923c7c232814d448af46a02f1e1107b.md) | 2099-01-01 | - |  | - | - |
 | [Infection Free Zone](games/5/582f0eafbde4494bbf31ef210830dd62.md) | 2099-01-01 | - |  | - | - |
 | [Infinitesimals](games/i/infinitesimals.md) | 2099-01-01 | - |  | - | - |
-| [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | - |  | - | - |
+| [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | 30 (1,000 XP) | 0 | - | - |
 | [Intravenous](games/1/1a75390ae85d492d875b29a6e7fe1466.md) | 2099-01-01 | - |  | - | - |
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | - |  | - | - |
 | [Jawbreaker](games/j/jawbreaker.md) | 2099-01-01 | - |  | - | 0 |
@@ -551,7 +551,7 @@
 | [Unholy Village](games/9/9fb0adc767184d57ae4d6f4dc47235ba.md) | 2099-01-01 | - |  | - | - |
 | [Unscripted Fate](games/4/4a0ddb0d9ef247f1b9ff9a970c8e9ed0.md) | 2099-01-01 | - |  | - | - |
 | [Until the Last Plane](games/u/until_the_last_plane.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
-| [URBO](games/c/cd7de0977e0f4f7f8468653789569766.md) | 2099-01-01 | - |  | - | - |
+| [URBO](games/c/cd7de0977e0f4f7f8468653789569766.md) | 2099-01-01 | 29 (1,000 XP) | 0 | - | - |
 | [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | 2099-01-01 | - |  | - | - |
 | [Varkalai: The Cradle Of Fate](games/6/672fdfd6cf634e21a53019d3fc5deb20.md) | 2099-01-01 | - |  | - | - |
 | [Velo](games/v/velo.md) | 2099-01-01 | - |  | - | - |
