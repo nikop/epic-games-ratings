@@ -401,7 +401,7 @@
 | 375 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,843 | 135 |
 | 375 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.63 | 0 | 628 |
 | 401 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 628 |
-| 401 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 1,107 | 165 |
+| 401 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 1,108 | 165 |
 | 401 | [Darkwood](games/d/darkwood.md) | 4.62 | 335 | 266 |
 | 401 | [Eternights](games/e/eternights.md) | 4.62 | 0 | 628 |
 | 401 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 671 | 210 |
@@ -550,7 +550,7 @@
 | 548 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 350 | 261 |
 | 548 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 602 |
 | 548 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.55 | 0 | 628 |
-| 548 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,146 | 124 |
+| 548 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,152 | 124 |
 | 548 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 628 |
 | 548 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 41 | 518 |
 | 548 | [Horace](games/h/horace.md) | 4.55 | 0 | 628 |
@@ -844,7 +844,7 @@
 | 840 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,175 | 123 |
 | 840 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.37 | 125 | 376 |
 | 840 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 623 |
-| 840 | [MORDHAU](games/m/mordhau.md) | 4.37 | 1,539 | 145 |
+| 840 | [MORDHAU](games/m/mordhau.md) | 4.37 | 1,545 | 145 |
 | 840 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.37 | 82 | 427 |
 | 840 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.37 | 0 | 628 |
 | 840 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.37 | 74 | 445 |
@@ -1030,7 +1030,7 @@
 | 1,020 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.19 | 0 | 628 |
 | 1,020 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 628 |
 | 1,030 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 628 |
-| 1,030 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 225,761 | 6 |
+| 1,030 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 225,844 | 6 |
 | 1,030 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 414 |
 | 1,033 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17 | 0 | 628 |
 | 1,033 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 628 |
