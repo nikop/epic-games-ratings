@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [DESOLATIUM](games/6/6b86aaf9e810458f874c7d43eb81e813.md) | 2024-04-05 | - |  | - | - |
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-04-05 | - |  | - | - |
 | [Which Country Is Larger?](games/7/70cf2c218b51491a845dd8f5acd5a787.md) | 2024-04-05 | - |  | - | - |
 | [Heavy Burden](games/8/8e0b8a0109344a60b68732503eb9c201.md) | 2024-04-07 | - |  | - | - |
