@@ -328,7 +328,7 @@ Completed: 108 (0.52%) (Ranked 252)
 | 2024-03-21 | 20,865 | 108 |
 ## Awards
 Max (Highly Recommended): 98  (Ranked 408)  
-Sum: 694 (Ranked 328)  
+Sum: 696 (Ranked 328)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -339,8 +339,8 @@ Diff (max vs sum): 80
 | This game has Diverse Characters | 87 |
 | This game has Amazing Characters | 86 |
 | This game is Relaxing | 85 |
+| This game has Quickly Understood Controls | 78 |
 | This game is Extremely Fun | 77 |
-| This game has Quickly Understood Controls | 76 |
 | This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -654,4 +654,4 @@ Diff (max vs sum): 80
 | 2024-03-31 | 4.56 | 97 | 688 |
 | 2024-04-01 | 4.56 | 98 | 690 |
 | 2024-04-03 | 4.56 | 98 | 693 |
-| 2024-04-05 | 4.56 | 98 | 694 |
+| 2024-04-05 | 4.56 | 98 | 696 |
