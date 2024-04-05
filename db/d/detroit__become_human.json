@@ -4,7 +4,7 @@
   "ProductSlug": "detroit-become-human",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 233,
+  "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 953,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
@@ -2320,10 +2320,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1944,
       "NumberOfAwardsMax": 1696
+    },
+    {
+      "Time": "2024-04-05T17:58:11.2399567+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1945,
+      "NumberOfAwardsMax": 1696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1944,
+  "NumberOfAwards": 1945,
   "NumberOfAwardsMax": 1696,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -2337,7 +2343,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Educational",
@@ -2405,8 +2411,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2024-04-04T10:57:35.7491666+00:00",
+  "LastChanged": "2024-04-05T17:58:11.2399566+00:00",
   "LastUpdate_AppInfo": "2024-03-31T01:43:33.4330319+00:00",
-  "LastUpdate_Ratings": "2024-04-05T16:00:27.8611451+00:00",
+  "LastUpdate_Ratings": "2024-04-05T17:58:11.2399574+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:31.5024534+00:00"
 }
