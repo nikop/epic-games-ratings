@@ -1,12 +1,12 @@
 # Aven Colony
 [Store](https://store.epicgames.com/en-US/p/aven-colony)  
 [View Rawdata](../../db/a/aven_colony.json)  
-Rating: 4.20 (Ranked 1,011)  
+Rating: 4.20 (Ranked 1,010)  
 Number of Ratings: 2,200  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 132  (Ranked 367)  
-Sum: 768 (Ranked 321)  
-Diff (max vs sum): 46  
+Sum: 768 (Ranked 322)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 132 |
