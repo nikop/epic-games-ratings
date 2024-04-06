@@ -30,4 +30,3 @@
 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 335 | - | 0 |
 | [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 119,522 | 4.74 | 0 |
 | [As Dusk Falls](games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 2024-03-07 | 50 (1,000 XP) | 21 | - | 0 |
-| [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 8 | - | 0 |
