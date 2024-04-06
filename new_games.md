@@ -108,4 +108,3 @@
 | [Medieval Knight](games/6/6ac1cb16aaf949c0aa7ca74c9663665f.md) | 2024-03-11 | 5 (1,000 XP) | 6 | - | - |
 | [Getting There](games/d/dfceea48e2974b4aafb5e5e76e7ed1c6.md) | 2024-03-09 | - |  | - | - |
 | [Dark Journey:The Fate of the Demon King](games/b/b66a599ae2d043bca00413e67f1cc841.md) | 2024-03-09 | - |  | - | - |
-| [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | 64 (1,000 XP) | 25 | - | 0 |
