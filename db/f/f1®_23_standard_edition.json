@@ -2,7 +2,7 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 375,
+  "Ranking_Rating": 399,
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 171,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -3065,6 +3065,12 @@
     {
       "Time": "2024-04-06T08:00:53.9968974+00:00",
       "Rating": 4.63,
+      "NumberOfAwards": 942,
+      "NumberOfAwardsMax": 166
+    },
+    {
+      "Time": "2024-04-06T15:57:37.1216864+00:00",
+      "Rating": 4.62,
       "NumberOfAwards": 942,
       "NumberOfAwardsMax": 166
     }
@@ -14872,9 +14878,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-04-06T08:00:53.9968972+00:00",
+  "LastChanged": "2024-04-06T15:57:37.1216862+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:04.0712638+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:50.6783406+00:00",
-  "LastUpdate_Ratings": "2024-04-06T13:59:19.6480826+00:00",
+  "LastUpdate_Ratings": "2024-04-06T15:57:37.1216868+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:04.0713533+00:00"
 }
