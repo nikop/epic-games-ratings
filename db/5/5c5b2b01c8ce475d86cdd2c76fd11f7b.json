@@ -3,8 +3,8 @@
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_Rating": 972,
-  "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 394,
+  "Ranking_Popularity": 482,
+  "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
@@ -653,30 +653,36 @@
       "Rating": 4.25,
       "NumberOfAwards": 353,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-04-06T19:58:54.7101912+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 363,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 353,
-  "NumberOfAwardsMax": 50,
-  "MaxAwardTitle": "Amazing Characters",
+  "NumberOfAwards": 363,
+  "NumberOfAwardsMax": 53,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 41
+      "Count": 45
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 48
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 49
+      "Count": 53
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1902,9 +1908,9 @@
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenRating": "2024-03-15T19:58:30.0365601+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged": "2024-04-06T18:00:10.4517953+00:00",
+  "LastChanged": "2024-04-06T19:58:54.710191+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:08.0154656+00:00",
   "LastUpdate_AppInfo": "2024-04-04T01:39:51.9694801+00:00",
-  "LastUpdate_Ratings": "2024-04-06T18:00:10.4517958+00:00",
+  "LastUpdate_Ratings": "2024-04-06T19:58:54.7101915+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:08.0155688+00:00"
 }
