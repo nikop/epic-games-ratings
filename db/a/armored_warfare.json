@@ -4,7 +4,7 @@
   "ProductSlug": "armored-warfare",
   "Ranking_Rating": 1095,
   "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 953,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
@@ -2373,10 +2373,16 @@
       "Rating": 4.05,
       "NumberOfAwards": 836,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2024-04-06T09:58:23.323159+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 837,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 836,
+  "NumberOfAwards": 837,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2438,7 +2444,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 94
+      "Count": 95
     }
   ],
   "EOS_Progressed": 0,
@@ -2452,8 +2458,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2024-04-05T13:58:45.5587268+00:00",
+  "LastChanged": "2024-04-06T09:58:23.3231588+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:57:53.8610164+00:00",
-  "LastUpdate_Ratings": "2024-04-06T08:01:19.3818207+00:00",
+  "LastUpdate_Ratings": "2024-04-06T09:58:23.3231593+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:32.0217576+00:00"
 }
