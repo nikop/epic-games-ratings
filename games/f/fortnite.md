@@ -4,19 +4,19 @@
 Rating: 4.29 (Ranked 925)  
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 3,393,049  (Ranked 1)  
-Sum: 23,680,617 (Ranked 1)  
+Max (Competitive Players): 3,395,344  (Ranked 1)  
+Sum: 23,694,512 (Ranked 1)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 3,393,049 |
-| This game has Quickly Understood Controls | 3,215,228 |
-| This game is Extremely Fun | 3,129,352 |
-| This game has Diverse Characters | 3,103,646 |
-| This game has Amazing Storytelling | 2,872,354 |
-| This game has Amazing Characters | 2,837,120 |
-| This game is Highly Recommended | 2,812,639 |
-| This game has a Competitive Community | 2,317,229 |
+| This game has Competitive Players | 3,395,344 |
+| This game has Quickly Understood Controls | 3,217,134 |
+| This game is Extremely Fun | 3,131,120 |
+| This game has Diverse Characters | 3,105,521 |
+| This game has Amazing Storytelling | 2,873,921 |
+| This game has Amazing Characters | 2,838,723 |
+| This game is Highly Recommended | 2,814,215 |
+| This game has a Competitive Community | 2,318,534 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -439,3 +439,4 @@ Diff (max vs sum): 0
 | 2024-04-02 | 4.29 | - | 3,386,009 | 23,637,370 |
 | 2024-04-03 | 4.29 | - | 3,390,887 | 23,667,536 |
 | 2024-04-04 | 4.29 | - | 3,393,049 | 23,680,617 |
+| 2024-04-05 | 4.29 | - | 3,395,344 | 23,694,512 |

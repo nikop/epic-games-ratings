@@ -1,7 +1,7 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.53 (Ranked 585)  
+Rating: 4.54 (Ranked 565)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -488,3 +488,4 @@ Diff (max vs sum): 92
 | 2024-03-31 | 4.54 | - | 32 | 188 |
 | 2024-04-04 | 4.53 | - | 32 | 188 |
 | 2024-04-05 | 4.53 | - | 32 | 189 |
+| 2024-04-06 | 4.54 | - | 32 | 189 |
