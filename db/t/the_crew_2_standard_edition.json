@@ -2,7 +2,7 @@
   "ID": "599d248ca46b45a8b40a3b4e484712cb",
   "Name": "The Crew 2 Standard Edition",
   "ProductSlug": "the-crew-2",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 953,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 2083,
   "RatingHistory": [
     {
@@ -10168,6 +10168,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 5879,
       "NumberOfAwardsMax": 862
+    },
+    {
+      "Time": "2024-04-06T11:57:53.8800414+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 5879,
+      "NumberOfAwardsMax": 862
     }
   ],
   "ReviewsDisabled": false,
@@ -10247,8 +10253,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2024-04-05T19:58:32.0847154+00:00",
+  "LastChanged": "2024-04-06T11:57:53.8800412+00:00",
   "LastUpdate_AppInfo": "2024-03-31T07:57:20.8074877+00:00",
-  "LastUpdate_Ratings": "2024-04-06T09:59:25.7580246+00:00",
+  "LastUpdate_Ratings": "2024-04-06T11:57:53.8800428+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:23.6772092+00:00"
 }
