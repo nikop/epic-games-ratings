@@ -145,7 +145,7 @@
 | 142 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,344 | 24 |
 | 142 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,547 | 105 |
 | 142 | [Journey](games/j/journey.md) | 4.76 | 0 | 628 |
-| 142 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,433 | 116 |
+| 142 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,436 | 116 |
 | 142 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,821 | 136 |
 | 142 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.76 | 798 | 198 |
 | 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 216 | 312 |
@@ -579,28 +579,28 @@
 | 565 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 534 |
 | 565 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 2,861 | 111 |
 | 565 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 580 |
+| 565 | [Sable](games/s/sable.md) | 4.54 | 32 | 551 |
 | 565 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 98 | 408 |
 | 565 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.54 | 0 | 628 |
 | 565 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 628 |
 | 565 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.54 | 0 | 628 |
 | 565 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 409 | 252 |
-| 585 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.53 | 20 | 623 |
-| 585 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,165 | 19 |
-| 585 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 26 | 580 |
-| 585 | [Everything](games/e/everything.md) | 4.53 | 0 | 628 |
-| 585 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 628 |
-| 585 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 25 | 588 |
-| 585 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 1,076 | 167 |
-| 585 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 34 | 540 |
-| 585 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 628 |
-| 585 | [Redout 2](games/r/redout_2.md) | 4.53 | 0 | 628 |
-| 585 | [Sable](games/s/sable.md) | 4.53 | 32 | 551 |
-| 585 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 628 |
-| 585 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 554 | 227 |
-| 585 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,116 | 163 |
-| 585 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 628 |
-| 585 | [Verdun](games/v/verdun.md) | 4.53 | 112 | 387 |
-| 585 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 0 | 628 |
+| 586 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.53 | 20 | 623 |
+| 586 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,165 | 19 |
+| 586 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 26 | 580 |
+| 586 | [Everything](games/e/everything.md) | 4.53 | 0 | 628 |
+| 586 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 628 |
+| 586 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 25 | 588 |
+| 586 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.53 | 1,076 | 167 |
+| 586 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 34 | 540 |
+| 586 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 628 |
+| 586 | [Redout 2](games/r/redout_2.md) | 4.53 | 0 | 628 |
+| 586 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 628 |
+| 586 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 554 | 227 |
+| 586 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,116 | 163 |
+| 586 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 628 |
+| 586 | [Verdun](games/v/verdun.md) | 4.53 | 112 | 387 |
+| 586 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 0 | 628 |
 | 602 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 0 | 628 |
 | 602 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.52 | 0 | 628 |
 | 602 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 244 | 294 |
@@ -740,7 +740,7 @@
 | 738 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.44 | 352 | 261 |
 | 738 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.44 | 0 | 628 |
 | 738 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 628 |
-| 738 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 275 | 288 |
+| 738 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 276 | 287 |
 | 738 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 72,359 | 11 |
 | 738 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 383 |
 | 738 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,948 | 30 |
@@ -834,7 +834,7 @@
 | 829 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 182 | 334 |
 | 829 | [NBA 2K21](games/n/nba_2k21.md) | 4.38 | 11,858 | 39 |
 | 829 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.38 | 211 | 317 |
-| 829 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 339 | 265 |
+| 829 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 341 | 264 |
 | 829 | [The Silent Age](games/t/the_silent_age.md) | 4.38 | 0 | 628 |
 | 829 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 629 | 216 |
 | 829 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.38 | 0 | 628 |
@@ -926,7 +926,7 @@
 | 915 | [Wreckfest](games/w/wreckfest.md) | 4.30 | 0 | 628 |
 | 925 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 628 |
 | 925 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.29 | 21 | 614 |
-| 925 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,393,049 | 1 |
+| 925 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,395,344 | 1 |
 | 925 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 628 |
 | 925 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 57 | 470 |
 | 925 | [MetalCore](games/m/metalcore.md) | 4.29 | 0 | 628 |
