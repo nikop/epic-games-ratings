@@ -2,7 +2,7 @@
   "ID": "7e0d0f0b8a6e42ba962e3456c65268af",
   "Name": "Star Trek: Resurgence",
   "ProductSlug": "star-trek-resurgence",
-  "Ranking_Rating": 851,
+  "Ranking_Rating": 860,
   "Ranking_Popularity": 552,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 953,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-05-27T09:58:07.9853004+00:00",
@@ -535,6 +535,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 32,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-04-06T22:00:20.479044+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
@@ -561,8 +567,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-23T18:58:32.467143+00:00",
   "FirstSeenRating": "2023-05-27T09:58:07.9853002+00:00",
-  "LastChanged": "2024-03-31T21:58:55.3463874+00:00",
+  "LastChanged": "2024-04-06T22:00:20.4790437+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:57:29.6372729+00:00",
-  "LastUpdate_Ratings": "2024-04-06T20:57:48.1673443+00:00",
+  "LastUpdate_Ratings": "2024-04-06T22:00:20.4790443+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:59.3130672+00:00"
 }
