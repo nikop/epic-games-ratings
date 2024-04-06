@@ -322,8 +322,8 @@ Completed: 10 (0.13%) (Ranked 336)
 | 2024-01-27 | 7,306 | 9 |
 | 2024-03-21 | 7,504 | 10 |
 ## Awards
-Max (Diverse Characters): 59  (Ranked 465)  
-Sum: 378 (Ranked 389)  
+Max (Diverse Characters): 59  (Ranked 466)  
+Sum: 378 (Ranked 390)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |

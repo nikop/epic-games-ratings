@@ -2,8 +2,8 @@
   "ID": "c2e18b972be9485bbc408c021e620cff",
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
-  "Ranking_Rating": 756,
-  "Ranking_Popularity": 308,
+  "Ranking_Rating": 769,
+  "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 953,
   "Ranking_EOS_Completed": 446,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-09-28T19:59:46.8251256+00:00",
@@ -2647,10 +2647,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 937,
       "NumberOfAwardsMax": 225
+    },
+    {
+      "Time": "2024-04-06T08:59:32.7575181+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 938,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 937,
+  "NumberOfAwards": 938,
   "NumberOfAwardsMax": 225,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2712,7 +2718,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 63
+      "Count": 64
     }
   ],
   "EOS_Progressed": 0,
@@ -2735,9 +2741,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-04-06T01:36:49.7665522+00:00",
+  "LastChanged": "2024-04-06T08:59:32.757518+00:00",
   "LastChanged_Achievements": "2024-03-21T17:06:40.7354457+00:00",
   "LastUpdate_AppInfo": "2024-04-03T13:01:36.0293245+00:00",
-  "LastUpdate_Ratings": "2024-04-06T07:57:52.2088464+00:00",
+  "LastUpdate_Ratings": "2024-04-06T08:59:32.7575186+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:40.7354695+00:00"
 }
