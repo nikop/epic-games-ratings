@@ -4,7 +4,7 @@
   "ProductSlug": "doom-ii",
   "Ranking_Rating": 338,
   "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 590,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 953,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
@@ -295,6 +295,6 @@
   "FirstSeenRating": "2022-09-01T17:32:34.6447237+00:00",
   "LastChanged": "2024-03-14T17:01:02.9528249+00:00",
   "LastUpdate_AppInfo": "2024-03-31T01:43:38.132275+00:00",
-  "LastUpdate_Ratings": "2024-04-06T21:57:30.845134+00:00",
+  "LastUpdate_Ratings": "2024-04-06T22:58:47.421176+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:50.1850287+00:00"
 }
