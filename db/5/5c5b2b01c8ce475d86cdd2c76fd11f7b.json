@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_Rating": 971,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2024-03-15T19:58:30.0365604+00:00",
@@ -629,10 +629,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 344,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-04-06T08:00:19.4132995+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 348,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 344,
+  "NumberOfAwards": 348,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -676,7 +682,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 44
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1878,9 +1884,9 @@
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenRating": "2024-03-15T19:58:30.0365601+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged": "2024-04-06T03:58:44.568761+00:00",
+  "LastChanged": "2024-04-06T08:00:19.4132993+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:08.0154656+00:00",
   "LastUpdate_AppInfo": "2024-04-04T01:39:51.9694801+00:00",
-  "LastUpdate_Ratings": "2024-04-06T06:58:00.8276394+00:00",
+  "LastUpdate_Ratings": "2024-04-06T08:00:19.4132998+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:08.0155688+00:00"
 }
