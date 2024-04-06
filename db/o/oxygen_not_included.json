@@ -4,7 +4,7 @@
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 55,
   "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 216,
+  "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 953,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
@@ -3042,12 +3042,18 @@
       "Rating": 4.83,
       "NumberOfAwards": 2486,
       "NumberOfAwardsMax": 283
+    },
+    {
+      "Time": "2024-04-06T18:59:12.8531856+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2488,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2486,
+  "NumberOfAwards": 2488,
   "NumberOfAwardsMax": 283,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3107,13 +3113,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 244
+      "Count": 245
     }
   ],
   "EOS_Progressed": 0,
@@ -3127,8 +3133,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-04-02T17:58:41.1286066+00:00",
+  "LastChanged": "2024-04-06T18:59:12.8531854+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:08.5900621+00:00",
-  "LastUpdate_Ratings": "2024-04-06T17:57:27.9793193+00:00",
+  "LastUpdate_Ratings": "2024-04-06T18:59:12.8531859+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:19.9261916+00:00"
 }
