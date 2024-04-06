@@ -4,7 +4,7 @@
 Rating: 4.30 (Ranked 916)  
 ## Awards
 Max (Relaxing): 89  (Ranked 421)  
-Sum: 573 (Ranked 350)  
+Sum: 574 (Ranked 350)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 71
 | This game is Extremely Fun | 65 |
 | This game has a Creative Community | 64 |
 | This game has Quickly Understood Controls | 63 |
-| This game has Amazing Storytelling | 58 |
+| This game has Amazing Storytelling | 59 |
 | This game has Diverse Characters | 44 |
 | This game has Realistic Visuals | 32 |
 ## Ratings History
@@ -231,4 +231,4 @@ Diff (max vs sum): 71
 | 2024-04-03 | 4.30 | 88 | 569 |
 | 2024-04-04 | 4.30 | 88 | 570 |
 | 2024-04-05 | 4.30 | 89 | 571 |
-| 2024-04-06 | 4.30 | 89 | 573 |
+| 2024-04-06 | 4.30 | 89 | 574 |

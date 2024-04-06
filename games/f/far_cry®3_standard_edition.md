@@ -1,11 +1,11 @@
 # Far Cry®3 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-3)  
 [View Rawdata](../../db/f/far_cry®3_standard_edition.json)  
-Rating: 4.70 (Ranked 226)  
+Rating: 4.71 (Ranked 210)  
 Number of Ratings: 504  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 640  (Ranked 215)  
-Sum: 1,013 (Ranked 287)  
+Sum: 1,014 (Ranked 287)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -72
 | This game has Amazing Storytelling | 41 |
 | This game has Quickly Understood Controls | 37 |
 | This game has Amazing Characters | 37 |
-| This game is Highly Recommended | 35 |
+| This game is Highly Recommended | 36 |
 | This game is Great for Beginners | 32 |
 | This game has Unique Visuals | 31 |
 | This game has Competitive Players | 29 |
@@ -330,3 +330,4 @@ Diff (max vs sum): -72
 | 2024-04-03 | 4.70 | - | 637 | 1,009 |
 | 2024-04-04 | 4.70 | - | 638 | 1,011 |
 | 2024-04-05 | 4.70 | - | 640 | 1,013 |
+| 2024-04-06 | 4.71 | - | 640 | 1,014 |
