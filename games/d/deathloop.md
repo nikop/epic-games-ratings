@@ -1,11 +1,11 @@
 # DEATHLOOP
 [Store](https://store.epicgames.com/en-US/p/deathloop)  
 [View Rawdata](../../db/d/deathloop.json)  
-Rating: 4.45 (Ranked 716)  
+Rating: 4.45 (Ranked 715)  
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 83  (Ranked 426)  
-Sum: 568 (Ranked 352)  
+Sum: 570 (Ranked 352)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 74
 | This game has Unique Visuals | 76 |
 | This game is Highly Recommended | 69 |
 | This game has Quickly Understood Controls | 64 |
-| This game has a Creative Community | 42 |
+| This game has a Creative Community | 44 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -228,4 +228,4 @@ Diff (max vs sum): 74
 | 2024-04-01 | 4.45 | - | 83 | 565 |
 | 2024-04-02 | 4.45 | - | 83 | 566 |
 | 2024-04-03 | 4.45 | - | 83 | 567 |
-| 2024-04-06 | 4.45 | - | 83 | 568 |
+| 2024-04-06 | 4.45 | - | 83 | 570 |
