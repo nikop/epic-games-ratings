@@ -1,7 +1,7 @@
 # Suicide Squad: Kill the Justice League
 [Store](https://store.epicgames.com/en-US/p/suicide-squad-kill-the-justice-league)  
 [View Rawdata](../../db/s/suicide_squad__kill_the_justice_league.json)  
-Rating: 4.14 (Ranked 1,056)  
+Rating: 4.14 (Ranked 1,057)  
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 474)  
 Sum: 56 (Ranked 542)  
