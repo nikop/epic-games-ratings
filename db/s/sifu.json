@@ -4,7 +4,7 @@
   "ProductSlug": "sifu",
   "Ranking_Rating": 67,
   "Ranking_Popularity": 64,
-  "Ranking_PopularitySum": 90,
+  "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 1,
@@ -37641,6 +37641,6 @@
   "LastChanged": "2024-04-07T15:56:53.1723935+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:11.1621412+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:13.0338933+00:00",
-  "LastUpdate_Ratings": "2024-04-07T15:56:53.1723938+00:00",
+  "LastUpdate_Ratings": "2024-04-07T16:58:21.211562+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:11.1622812+00:00"
 }
