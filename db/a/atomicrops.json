@@ -4,7 +4,7 @@
   "ProductSlug": "atomicrops",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 421,
+  "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -555,10 +555,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 283,
       "NumberOfAwardsMax": 151
+    },
+    {
+      "Time": "2024-04-07T22:59:39.2851942+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 151
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 283,
+  "NumberOfAwards": 284,
   "NumberOfAwardsMax": 151,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -572,7 +578,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Characters",
@@ -616,8 +622,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2024-03-31T18:58:35.111535+00:00",
+  "LastChanged": "2024-04-07T22:59:39.285194+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:32.0451131+00:00",
-  "LastUpdate_Ratings": "2024-04-07T21:58:01.8711097+00:00",
+  "LastUpdate_Ratings": "2024-04-07T22:59:39.2851944+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:11.6991264+00:00"
 }
