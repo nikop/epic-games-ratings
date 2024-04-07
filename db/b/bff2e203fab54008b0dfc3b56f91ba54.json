@@ -2,10 +2,10 @@
   "ID": "bff2e203fab54008b0dfc3b56f91ba54",
   "Name": "As Dusk Falls",
   "ProductSlug": "as-dusk-falls-308b83",
-  "Ranking_EOS_Progress": 710,
+  "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-03-07T14:00:00+00:00",
     "PcReleaseDate": "2022-07-19T03:00:00+00:00",
@@ -453,6 +453,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:15.3038476+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:04.0386688+00:00",
   "LastUpdate_AppInfo": "2024-04-01T13:57:30.1899377+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:58:40.5940757+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:59:51.673509+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:04.0387028+00:00"
 }

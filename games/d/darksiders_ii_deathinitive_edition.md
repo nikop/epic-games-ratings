@@ -57,7 +57,7 @@ Number of Ratings: 827  (23.09.2022)
 | The Secondary Adventure | 0.10% | ~1 |
 | BFA | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813 (Ranked 351)  
+Progressed: 813 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

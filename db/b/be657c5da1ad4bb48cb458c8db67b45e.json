@@ -4,8 +4,8 @@
   "ProductSlug": "cataire-6ce6b7",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-09-14T13:00:00+00:00",
     "PcReleaseDate": "2022-09-23T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-16T17:59:32.4986121+00:00",
   "LastUpdate_AppInfo": "2024-03-31T23:57:02.3526935+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:19.6603415+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:13.7069181+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:35.9457092+00:00"
 }

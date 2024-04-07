@@ -5,66 +5,66 @@ Rating: 4.29 (Ranked 927)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~204 |
-| Bullseye! | 84.00% | ~197 |
-| Graduation! | 81.00% | ~190 |
-| Villfir Forest | 72.00% | ~169 |
-| Right in the kisser! | 57.00% | ~134 |
-| The Thrower | 45.00% | ~106 |
-| Duscot Steamcity | 45.00% | ~106 |
-| The Penguin | 43.00% | ~101 |
-| The Shaman | 43.00% | ~101 |
-| The Magician | 39.00% | ~92 |
-| The Tunneler | 38.00% | ~89 |
-| Level Up!! | 35.00% | ~82 |
-| The Shield | 35.00% | ~82 |
-| Kill-streak | 29.00% | ~68 |
-| Topped up | 28.00% | ~66 |
-| The Bird | 26.00% | ~61 |
-| The Idol | 25.00% | ~59 |
-| The Ninja | 25.00% | ~59 |
-| Inferno Ruins | 23.00% | ~54 |
-| 1 is all I need | 22.00% | ~52 |
-| I'm Rich | 21.00% | ~49 |
-| The Slime | 21.00% | ~49 |
-| Untouchable | 19.00% | ~45 |
-| The Giant | 17.00% | ~40 |
-| The Ooze | 16.00% | ~38 |
-| Out of the Frying Pan... | 16.00% | ~38 |
-| Ember | 16.00% | ~38 |
-| The Blacksmith | 15.00% | ~35 |
-| The Flower | 15.00% | ~35 |
-| Turquoise | 15.00% | ~35 |
-| The Assistant | 13.00% | ~31 |
-| The Steampunk | 13.00% | ~31 |
-| Verse | 11.00% | ~26 |
-| The Droid | 10.00% | ~24 |
-| The Bomber | 9.00% | ~21 |
-| Iron | 9.00% | ~21 |
-| Power Overwhelming | 8.00% | ~19 |
-| The Astronaut | 7.00% | ~16 |
-| Highway to Hell | 7.00% | ~16 |
-| Tested | 7.00% | ~16 |
-| The Exorcist | 6.00% | ~14 |
-| Mithril | 6.00% | ~14 |
-| Anvil | 6.00% | ~14 |
+| Level Up! | 88.00% | ~216 |
+| Bullseye! | 85.00% | ~209 |
+| Graduation! | 81.00% | ~199 |
+| Villfir Forest | 74.00% | ~182 |
+| Right in the kisser! | 58.00% | ~143 |
+| The Thrower | 44.00% | ~108 |
+| Duscot Steamcity | 44.00% | ~108 |
+| The Shaman | 42.00% | ~103 |
+| The Penguin | 41.00% | ~101 |
+| The Magician | 38.00% | ~93 |
+| The Tunneler | 37.00% | ~91 |
+| The Shield | 35.00% | ~86 |
+| Level Up!! | 33.00% | ~81 |
+| Kill-streak | 28.00% | ~69 |
+| Topped up | 27.00% | ~66 |
+| The Ninja | 25.00% | ~62 |
+| The Idol | 24.00% | ~59 |
+| The Bird | 24.00% | ~59 |
+| 1 is all I need | 22.00% | ~54 |
+| Inferno Ruins | 22.00% | ~54 |
+| I'm Rich | 20.00% | ~49 |
+| The Slime | 20.00% | ~49 |
+| Untouchable | 19.00% | ~47 |
+| The Giant | 16.00% | ~39 |
+| The Blacksmith | 15.00% | ~37 |
+| The Flower | 15.00% | ~37 |
+| The Ooze | 15.00% | ~37 |
+| Out of the Frying Pan... | 15.00% | ~37 |
+| Ember | 15.00% | ~37 |
+| Turquoise | 14.00% | ~34 |
+| The Assistant | 12.00% | ~30 |
+| The Steampunk | 12.00% | ~30 |
+| The Droid | 10.00% | ~25 |
+| Verse | 10.00% | ~25 |
+| Iron | 9.00% | ~22 |
+| The Bomber | 8.00% | ~20 |
+| Power Overwhelming | 7.00% | ~17 |
+| The Astronaut | 7.00% | ~17 |
+| Highway to Hell | 7.00% | ~17 |
+| Tested | 7.00% | ~17 |
+| Anvil | 6.00% | ~15 |
+| The Exorcist | 5.00% | ~12 |
+| Mithril | 5.00% | ~12 |
 | Aluminum | 5.00% | ~12 |
-| Analyzed | 4.00% | ~9 |
+| Analyzed | 4.00% | ~10 |
 | It's a Trap! | 3.00% | ~7 |
-| TNT | 3.00% | ~7 |
 | Tongs | 3.00% | ~7 |
-| Platinum | 3.00% | ~7 |
-| Hammer | 3.00% | ~7 |
 | Gunpowder | 3.00% | ~7 |
 | Satellite | 3.00% | ~7 |
 | Combo Master | 2.00% | ~5 |
 | Blaze | 2.00% | ~5 |
 | Topaz | 2.00% | ~5 |
 | Chorus | 2.00% | ~5 |
+| TNT | 2.00% | ~5 |
 | Titanium | 2.00% | ~5 |
 | Rocket | 2.00% | ~5 |
 | Adamantite | 2.00% | ~5 |
 | Concluded | 2.00% | ~5 |
+| Platinum | 2.00% | ~5 |
+| Hammer | 2.00% | ~5 |
 | Wu-wei | 2.00% | ~5 |
 | Zombie Slayer | 2.00% | ~5 |
 | Really Bad Luck | 1.00% | ~2 |
@@ -73,14 +73,14 @@ Rating: 4.29 (Ranked 927)
 | Nuclear Bomb | 1.00% | ~2 |
 | Divinity | 1.00% | ~2 |
 | Warp Drive Spacecraft | 1.00% | ~2 |
-| Zombie Hunter | 0.90% | ~2 |
-| Inferno | 0.90% | ~2 |
-| Sapphire | 0.90% | ~2 |
+| Zombie Hunter | 0.80% | ~2 |
+| Inferno | 0.80% | ~2 |
+| Sapphire | 0.80% | ~2 |
 | Divinity | 0.40% | ~1 |
 | Zombie Exterminator | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 466)  
-Completed: 1 (0.43%) (Ranked 268)  
+Progressed: 246 (Ranked 466)  
+Completed: 1 (0.41%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,6 +204,7 @@ Completed: 1 (0.43%) (Ranked 268)
 | 2024-01-17 | 219 | 1 |
 | 2024-01-18 | 220 | 1 |
 | 2024-03-21 | 235 | 1 |
+| 2024-04-07 | 246 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

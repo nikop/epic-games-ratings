@@ -4,8 +4,8 @@
   "ProductSlug": "zarathustra-cybergeddon-70bc56",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-12-05T11:00:00+00:00",
     "PcReleaseDate": "2023-11-29T23:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-08T20:59:50.8064667+00:00",
   "LastUpdate_AppInfo": "2024-04-02T01:42:27.1909604+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:16.7742585+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:10.2483435+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:02:28.3757982+00:00"
 }

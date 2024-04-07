@@ -4,8 +4,8 @@
   "ProductSlug": "city-of-graves-41d8be",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-03T18:57:24.6963546+00:00",
-  "LastUpdate_Ratings": "2024-04-07T15:59:55.8133389+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:57:42.8970954+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:58.9500413+00:00"
 }

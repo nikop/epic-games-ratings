@@ -3,12 +3,12 @@
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
   "Ranking_Rating": 1013,
-  "Ranking_Popularity": 78,
+  "Ranking_Popularity": 77,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2009-10-27T16:30:00+00:00",
@@ -14725,11 +14725,17 @@
       "Rating": 4.2,
       "NumberOfAwards": 27534,
       "NumberOfAwardsMax": 5980
+    },
+    {
+      "Time": "2024-04-07T17:57:16.8494018+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 27551,
+      "NumberOfAwardsMax": 5991
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27534,
-  "NumberOfAwardsMax": 5980,
+  "NumberOfAwards": 27551,
+  "NumberOfAwardsMax": 5991,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -14742,7 +14748,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5980
+      "Count": 5991
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14754,7 +14760,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4359
+      "Count": 4365
     },
     {
       "Text": "This game has Competitive Players",
@@ -14798,8 +14804,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2024-04-07T15:59:33.2420371+00:00",
+  "LastChanged": "2024-04-07T17:57:16.8494016+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:47.7610482+00:00",
-  "LastUpdate_Ratings": "2024-04-07T15:59:33.2420378+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:57:16.8494021+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:14.5796128+00:00"
 }

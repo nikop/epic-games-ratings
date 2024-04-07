@@ -2,10 +2,10 @@
   "ID": "344d0216bb1f4f5ca084a7a613478efa",
   "Name": "Cat Slide Tiles",
   "ProductSlug": "cat-slide-tiles-93b9d4",
-  "Ranking_EOS_Progress": 555,
+  "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-03-15T17:00:00+00:00",
     "PcReleaseDate": "2021-06-06T19:00:00+00:00",
@@ -112,6 +112,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:07.2580324+00:00",
   "LastChanged_Achievements": "2024-04-05T15:04:43.5328206+00:00",
   "LastUpdate_AppInfo": "2024-04-03T22:57:10.8345654+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:00:06.314118+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:57:55.5753962+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:04:43.5328254+00:00"
 }

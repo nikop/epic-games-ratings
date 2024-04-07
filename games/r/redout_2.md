@@ -5,40 +5,40 @@ Rating: 4.53 (Ranked 585)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~345 |
-| Increasing your Power Level | 27.00% | ~345 |
-| Enter the Speed Gauntlet | 25.00% | ~319 |
-| I just can't choose | 25.00% | ~319 |
-| A Cheese Grater to the Face | 19.00% | ~243 |
-| Put it on a shelf | 18.00% | ~230 |
-| It's like an haircut | 17.00% | ~217 |
-| Ride in the rising sun | 16.00% | ~204 |
-| Suit up | 16.00% | ~204 |
-| Walked like an Egyptian | 15.00% | ~192 |
-| Running at the speed of sound | 14.00% | ~179 |
-| Rookie No-No More | 12.00% | ~153 |
-| Martian explorer | 11.00% | ~140 |
-| To the core | 8.00% | ~102 |
-| Blurred photofinish | 8.00% | ~102 |
-| First step into a larger world | 7.00% | ~89 |
+| Increasing your Power Level | 27.00% | ~348 |
+| Rookie No More | 26.00% | ~335 |
+| Enter the Speed Gauntlet | 25.00% | ~322 |
+| I just can't choose | 25.00% | ~322 |
+| A Cheese Grater to the Face | 19.00% | ~245 |
+| Put it on a shelf | 18.00% | ~232 |
+| It's like an haircut | 17.00% | ~219 |
+| Ride in the rising sun | 16.00% | ~206 |
+| Suit up | 16.00% | ~206 |
+| Walked like an Egyptian | 15.00% | ~193 |
+| Running at the speed of sound | 14.00% | ~180 |
+| Rookie No-No More | 12.00% | ~155 |
+| Martian explorer | 11.00% | ~142 |
+| To the core | 8.00% | ~103 |
+| Blurred photofinish | 8.00% | ~103 |
+| First step into a larger world | 7.00% | ~90 |
+| Over the clouds | 6.00% | ~77 |
+| Even Faster! | 6.00% | ~77 |
 | EZ game EZ life | 6.00% | ~77 |
 | B-asic! | 5.00% | ~64 |
-| Over the clouds | 5.00% | ~64 |
 | Under the sea, under the sea | 5.00% | ~64 |
-| Even Faster! | 5.00% | ~64 |
 | Longshot | 5.00% | ~64 |
-| Under the neon lights | 4.00% | ~51 |
-| All Power to Engines! | 4.00% | ~51 |
-| Almost broke the game | 4.00% | ~51 |
-| Better luck next time | 4.00% | ~51 |
-| Dev, this! | 4.00% | ~51 |
-| Try them all | 3.00% | ~38 |
-| A-mazing! | 3.00% | ~38 |
-| To infinity and gravity! | 3.00% | ~38 |
-| One giant drive for mankind | 3.00% | ~38 |
-| Had to sweat a bit | 3.00% | ~38 |
-| It's like a party! | 3.00% | ~38 |
-| He who laughs last... | 3.00% | ~38 |
+| Under the neon lights | 4.00% | ~52 |
+| Almost broke the game | 4.00% | ~52 |
+| Better luck next time | 4.00% | ~52 |
+| Dev, this! | 4.00% | ~52 |
+| Try them all | 3.00% | ~39 |
+| A-mazing! | 3.00% | ~39 |
+| To infinity and gravity! | 3.00% | ~39 |
+| One giant drive for mankind | 3.00% | ~39 |
+| All Power to Engines! | 3.00% | ~39 |
+| Had to sweat a bit | 3.00% | ~39 |
+| It's like a party! | 3.00% | ~39 |
+| He who laughs last... | 3.00% | ~39 |
 | This is to go, even Further Beyond! | 2.00% | ~26 |
 | Gitting Gud | 2.00% | ~26 |
 | [Sweats profusely] | 2.00% | ~26 |
@@ -50,15 +50,15 @@ Rating: 4.53 (Ranked 585)
 | Everything is better with friends | 1.00% | ~13 |
 | Eat dust my friend | 1.00% | ~13 |
 | Grandslam | 1.00% | ~13 |
-| Fashion Racer | 0.90% | ~11 |
-| Familiar Face | 0.90% | ~11 |
-| Better than half the studio... | 0.90% | ~11 |
-| Beat you to it! | 0.90% | ~11 |
+| Fashion Racer | 0.90% | ~12 |
+| Familiar Face | 0.90% | ~12 |
+| Better than half the studio... | 0.90% | ~12 |
+| Beat you to it! | 0.90% | ~12 |
 | Redout Grandmaster | 0.80% | ~10 |
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,277 (Ranked 316)  
+Progressed: 1,289 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-26 | 1,229 | 0 |
 | 2024-03-04 | 1,256 | 0 |
 | 2024-03-21 | 1,277 | 0 |
+| 2024-04-07 | 1,289 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

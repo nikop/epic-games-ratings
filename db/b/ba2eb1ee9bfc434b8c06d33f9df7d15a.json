@@ -4,8 +4,8 @@
   "ProductSlug": "gigantic-rampage-edition-03f532",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-04-09T13:00:00+00:00",
     "PcReleaseDate": "2024-04-09T13:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:06.8983561+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:54.982791+00:00",
   "LastUpdate_AppInfo": "2024-04-02T20:57:00.7451873+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:24.3319391+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:19.3743112+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:54.982794+00:00"
 }

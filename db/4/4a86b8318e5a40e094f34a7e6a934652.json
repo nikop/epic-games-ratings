@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 678,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2499,6 +2499,11 @@
       "Time": "2024-03-21T17:06:55.5026646+00:00",
       "NumProgressed": 674,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-04-07T18:02:47.6464521+00:00",
+      "NumProgressed": 678,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2511,7 +2516,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 620
+      "UsersEstimate": 624
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2519,7 +2524,7 @@
       "Name": "Design Engineer",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "BRING_MARY",
@@ -2527,15 +2532,15 @@
       "Name": "Retro Diva",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 434
     },
     {
       "ID": "BRING_PROSPERO",
       "SetID": "aniflfk",
       "Name": "Amusement Park",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 285
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2543,7 +2548,7 @@
       "Name": "Empty Shelves",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "CATCH_30_FISH",
@@ -2551,7 +2556,7 @@
       "Name": "Fisherman",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 337
+      "UsersEstimate": 339
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2567,23 +2572,23 @@
       "Name": "Off on an Expedition!",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 438
+      "UsersEstimate": 441
     },
     {
       "ID": "GROW_20_PLANTS",
       "SetID": "aniflfk",
       "Name": "Farmer",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 325
     },
     {
       "ID": "HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "A Party to Remember!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 183
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2591,7 +2596,7 @@
       "Name": "Leech Lunch",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 319
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2605,9 +2610,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 156
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2621,17 +2626,17 @@
       "ID": "REMOVE_100_WEEDS",
       "SetID": "aniflfk",
       "Name": "Weed Warrior",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 353
     },
     {
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 303
+      "UsersEstimate": 312
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2645,9 +2650,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 264
     },
     {
       "ID": "TAKE_LEECH",
@@ -2655,29 +2660,29 @@
       "Name": "Uppies!",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 499
+      "UsersEstimate": 502
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 337
+      "UsersEstimate": 346
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 678,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:55.5026638+00:00",
+  "LastChanged_Achievements": "2024-04-07T18:02:47.6464516+00:00",
   "LastUpdate_AppInfo": "2024-04-04T07:57:06.1117906+00:00",
   "LastUpdate_Ratings": "2024-04-07T16:59:40.3643899+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:55.5026959+00:00"
+  "LastUpdate_Achievements": "2024-04-07T18:02:47.6464797+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "hailot-7a5a5f",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-03-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-19T16:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-20T11:59:01.0465313+00:00",
   "LastUpdate_AppInfo": "2024-04-02T17:57:22.5176118+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:58:59.5591179+00:00",
+  "LastUpdate_Ratings": "2024-04-07T18:00:13.4277748+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:00.0919353+00:00"
 }

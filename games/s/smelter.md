@@ -56,7 +56,7 @@
 | He Who Smelt It Dealt It | 8.00% | ~4 |
 | Smelter's Got Your Back | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 636)  
+Progressed: 50 (Ranked 637)  
 Completed: 4 (8.00%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |

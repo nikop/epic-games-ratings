@@ -19,7 +19,7 @@
 | YETTI | 2.00% | ~31 |
 | 500K$. | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,551 (Ranked 301)  
+Progressed: 1,551 (Ranked 302)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

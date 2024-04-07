@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 87.00% | ~261 |
-| Digging a Hole | 80.00% | ~240 |
-| It's Yours, My Friend | 74.00% | ~222 |
-| Conducted Trade | 70.00% | ~210 |
-| Going Places | 66.00% | ~198 |
-| Aristocratic | 64.00% | ~192 |
-| Tutti Frutti | 59.00% | ~177 |
-| Slotting Machine | 48.00% | ~144 |
-| Systematic | 48.00% | ~144 |
-| Gotta Go Fast | 45.00% | ~135 |
-| Mine Sweeper | 45.00% | ~135 |
-| Roll Out | 39.00% | ~117 |
-| Up, Up And Away! | 37.00% | ~111 |
-| Dopa-Miner | 35.00% | ~105 |
-| Whoa! | 31.00% | ~93 |
-| Botropolis | 30.00% | ~90 |
-| Steam Powered | 22.00% | ~66 |
-| Steaming Rich | 22.00% | ~66 |
-| Manic Mechanic | 21.00% | ~63 |
-| Room To Spare | 17.00% | ~51 |
-| Click 'Em All | 9.00% | ~27 |
+| Mathematic | 88.00% | ~268 |
+| Digging a Hole | 81.00% | ~246 |
+| It's Yours, My Friend | 75.00% | ~228 |
+| Conducted Trade | 70.00% | ~213 |
+| Going Places | 67.00% | ~204 |
+| Aristocratic | 64.00% | ~195 |
+| Tutti Frutti | 59.00% | ~179 |
+| Slotting Machine | 48.00% | ~146 |
+| Systematic | 48.00% | ~146 |
+| Gotta Go Fast | 45.00% | ~137 |
+| Mine Sweeper | 45.00% | ~137 |
+| Roll Out | 39.00% | ~119 |
+| Up, Up And Away! | 38.00% | ~116 |
+| Dopa-Miner | 36.00% | ~109 |
+| Whoa! | 32.00% | ~97 |
+| Botropolis | 31.00% | ~94 |
+| Steam Powered | 23.00% | ~70 |
+| Manic Mechanic | 22.00% | ~67 |
+| Steaming Rich | 22.00% | ~67 |
+| Room To Spare | 18.00% | ~55 |
+| Click 'Em All | 10.00% | ~30 |
 | Accustomed Customer | 6.00% | ~18 |
 | Real Purdy | 4.00% | ~12 |
 | Stack Overflow | 4.00% | ~12 |
@@ -33,7 +33,7 @@
 | Nothing But Road | 0.30% | ~1 |
 | Yup. | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 449)  
+Progressed: 304 (Ranked 449)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,3 +88,4 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-26 | 276 | 0 |
 | 2024-01-27 | 277 | 0 |
 | 2024-03-21 | 300 | 0 |
+| 2024-04-07 | 304 | 0 |

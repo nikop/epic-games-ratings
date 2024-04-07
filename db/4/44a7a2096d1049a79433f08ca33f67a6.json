@@ -2,10 +2,10 @@
   "ID": "44a7a2096d1049a79433f08ca33f67a6",
   "Name": "SPACE ELITE FORCE II",
   "ProductSlug": "space-elite-force-ii-2563e4",
-  "Ranking_EOS_Progress": 687,
-  "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 689,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-02-16T13:00:00+00:00",
     "PcReleaseDate": "2020-02-03T15:00:00+00:00",
@@ -610,6 +610,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:07.5615124+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:55.6642035+00:00",
   "LastUpdate_AppInfo": "2024-04-05T02:13:48.6140507+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:52.3788771+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:55.217169+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:55.6642638+00:00"
 }

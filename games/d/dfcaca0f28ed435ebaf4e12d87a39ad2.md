@@ -19,7 +19,7 @@
 | The fun uncle | 4.00% | ~2 |
 | A good day | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 622)  
+Progressed: 55 (Ranked 623)  
 Completed: 1 (1.82%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |

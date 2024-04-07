@@ -2,10 +2,10 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Progress": 480,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -996,6 +996,6 @@
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:17.1678135+00:00",
   "LastUpdate_AppInfo": "2024-04-04T13:57:33.4586492+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:29.1432624+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:25.9138947+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:17.1678366+00:00"
 }

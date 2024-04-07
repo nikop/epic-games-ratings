@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 304,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1159,6 +1159,11 @@
       "Time": "2024-03-21T17:07:09.7890763+00:00",
       "NumProgressed": 300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-07T18:02:54.861294+00:00",
+      "NumProgressed": 304,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T14:06:40.4198033+00:00",
@@ -1179,23 +1184,23 @@
       "Name": "Aristocratic",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 195
     },
     {
       "ID": "Botropolis",
       "SetID": "4bd750m",
       "Name": "Botropolis",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ClickEmAll",
       "SetID": "4bd750m",
       "Name": "Click \u0027Em All",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ConductedTrade",
@@ -1203,31 +1208,31 @@
       "Name": "Conducted Trade",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 213
     },
     {
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 246
     },
     {
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 109
     },
     {
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 204
     },
     {
       "ID": "GottaGoFast",
@@ -1235,7 +1240,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "ImALumberbot",
@@ -1257,25 +1262,25 @@
       "ID": "ItsYoursMyFriend",
       "SetID": "4bd750m",
       "Name": "It\u0027s Yours, My Friend",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 228
     },
     {
       "ID": "ManicMechanic",
       "SetID": "4bd750m",
       "Name": "Manic Mechanic",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "Mathematic",
       "SetID": "4bd750m",
       "Name": "Mathematic",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 268
     },
     {
       "ID": "MineSweeper",
@@ -1283,7 +1288,7 @@
       "Name": "Mine Sweeper",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "NothingButRoad",
@@ -1307,15 +1312,15 @@
       "Name": "Roll Out",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "RoomToSpare",
       "SetID": "4bd750m",
       "Name": "Room To Spare",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 55
     },
     {
       "ID": "SlottingMachine",
@@ -1323,7 +1328,7 @@
       "Name": "Slotting Machine",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "StackOverflow",
@@ -1337,9 +1342,9 @@
       "ID": "SteamPowered",
       "SetID": "4bd750m",
       "Name": "Steam Powered",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     },
     {
       "ID": "SteamingRich",
@@ -1347,7 +1352,7 @@
       "Name": "Steaming Rich",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Systematic",
@@ -1355,7 +1360,7 @@
       "Name": "Systematic",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "TuttiFrutti",
@@ -1363,23 +1368,23 @@
       "Name": "Tutti Frutti",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 179
     },
     {
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 116
     },
     {
       "ID": "Whoa",
       "SetID": "4bd750m",
       "Name": "Whoa!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "Yup",
@@ -1394,14 +1399,14 @@
     {
       "ID": "4bd750m",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 304,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:09.7890757+00:00",
+  "LastChanged_Achievements": "2024-04-07T18:02:54.8612935+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:14.8909327+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:58:24.4511796+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:09.7891301+00:00"
+  "LastUpdate_Ratings": "2024-04-07T17:59:33.4839261+00:00",
+  "LastUpdate_Achievements": "2024-04-07T18:02:54.8613186+00:00"
 }

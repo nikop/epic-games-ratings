@@ -5,28 +5,28 @@ Rating: 4.26 (Ranked 962)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~2,901 |
-| Bonfire Lit | 3.00% | ~2,176 |
-| Survival Expert | 3.00% | ~2,176 |
-| Denial | 2.00% | ~1,451 |
-| Acceptance | 2.00% | ~1,451 |
-| Bargaining | 2.00% | ~1,451 |
-| Anger | 1.00% | ~725 |
-| Fear Of The Dark | 1.00% | ~725 |
-| Detective of the occult | 1.00% | ~725 |
-| Depression | 1.00% | ~725 |
-| Bless me Father... | 0.90% | ~653 |
-| Phone Bill | 0.80% | ~580 |
-| Power of Friendship | 0.70% | ~508 |
-| Chain Breaker | 0.70% | ~508 |
-| Let there be light | 0.50% | ~363 |
-| Silent Advisor | 0.50% | ~363 |
-| Soda addiction | 0.40% | ~290 |
-| Paparazzi | 0.40% | ~290 |
-| Are you still there? | 0.40% | ~290 |
+| Out of Shape | 4.00% | ~2,920 |
+| Bonfire Lit | 3.00% | ~2,190 |
+| Survival Expert | 3.00% | ~2,190 |
+| Denial | 2.00% | ~1,460 |
+| Acceptance | 2.00% | ~1,460 |
+| Bargaining | 2.00% | ~1,460 |
+| Anger | 1.00% | ~730 |
+| Fear Of The Dark | 1.00% | ~730 |
+| Detective of the occult | 1.00% | ~730 |
+| Depression | 1.00% | ~730 |
+| Bless me Father... | 0.90% | ~657 |
+| Phone Bill | 0.80% | ~584 |
+| Power of Friendship | 0.70% | ~511 |
+| Chain Breaker | 0.70% | ~511 |
+| Let there be light | 0.50% | ~365 |
+| Silent Advisor | 0.50% | ~365 |
+| Soda addiction | 0.40% | ~292 |
+| Paparazzi | 0.40% | ~292 |
+| Are you still there? | 0.40% | ~292 |
 | Ear Ringing | 0.10% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72,531 (Ranked 123)  
+Progressed: 73,008 (Ranked 123)  
 Completed: 18 (0.02%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,6 +310,7 @@ Completed: 18 (0.02%) (Ranked 409)
 | 2024-01-26 | 70,983 | 18 |
 | 2024-01-27 | 71,006 | 18 |
 | 2024-03-21 | 72,531 | 18 |
+| 2024-04-07 | 73,008 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

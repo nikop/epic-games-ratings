@@ -4,8 +4,8 @@
   "ProductSlug": "gearhead-karting-414429",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-10-31T10:00:00+00:00",
     "PcReleaseDate": "2023-10-31T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-03T22:01:36.1769685+00:00",
   "LastUpdate_AppInfo": "2024-04-03T21:11:57.6052533+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:58:26.0279441+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:59:35.3519195+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:02:22.0305565+00:00"
 }

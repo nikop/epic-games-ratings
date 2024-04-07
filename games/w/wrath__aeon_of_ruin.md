@@ -55,7 +55,7 @@
 | The One And Only | 0.00% | ~0 |
 | Victory | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 608)  
+Progressed: 64 (Ranked 609)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

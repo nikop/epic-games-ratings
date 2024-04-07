@@ -4,8 +4,8 @@
   "ProductSlug": "rpgunite-819421",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-02-29T06:00:00+00:00",
     "PcReleaseDate": "2023-05-08T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-29T06:57:58.8380402+00:00",
   "LastUpdate_AppInfo": "2024-04-01T09:57:07.183091+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:58:11.3694394+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:59:18.704164+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:52.5500687+00:00"
 }

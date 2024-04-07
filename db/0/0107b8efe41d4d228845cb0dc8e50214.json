@@ -4,8 +4,8 @@
   "ProductSlug": "vcb-why-city-4k-68d7f2",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-09-22T13:00:00+00:00",
     "PcReleaseDate": "2019-04-20T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:00:35.4320466+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:01.4222412+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:44.0180794+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:43.8073205+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:41.4279039+00:00"
 }

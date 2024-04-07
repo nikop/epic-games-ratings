@@ -4,8 +4,8 @@
   "ProductSlug": "crown-of-the-empire-86cf18",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-11-08T21:00:00+00:00",
     "PcReleaseDate": "2020-09-06T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-22T01:48:44.1977957+00:00",
   "LastUpdate_AppInfo": "2024-04-05T19:57:01.3261068+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:59:13.2111944+00:00",
+  "LastUpdate_Ratings": "2024-04-07T18:00:29.8418768+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:57.9196515+00:00"
 }

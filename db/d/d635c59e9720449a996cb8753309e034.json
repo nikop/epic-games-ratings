@@ -4,8 +4,8 @@
   "ProductSlug": "mallofmayhem-15344c",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-06-15T18:30:00+00:00",
     "PcReleaseDate": "2023-06-15T18:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-21T13:57:05.1894029+00:00",
   "LastUpdate_AppInfo": "2024-04-05T19:57:01.8376161+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:59:51.5267982+00:00",
+  "LastUpdate_Ratings": "2024-04-07T18:01:10.7255485+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:22.1377797+00:00"
 }

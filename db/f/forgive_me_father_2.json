@@ -4,8 +4,8 @@
   "ProductSlug": "forgive-me-father-2-ea03a5",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-10-19T17:00:00+00:00",
     "PcReleaseDate": "2023-10-19T17:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenAchievements": "2023-10-18T11:04:08.0904554+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:28.3461981+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:40.7490856+00:00",
-  "LastUpdate_Ratings": "2024-04-07T15:59:53.9772641+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:57:40.9012922+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:28.3462021+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fc3184cec5eb463ea33412294a05fca2",
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 49,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1835,6 +1835,6 @@
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:34.0282213+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:58.1704642+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:49.7987482+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:52.2925522+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:34.0282492+00:00"
 }

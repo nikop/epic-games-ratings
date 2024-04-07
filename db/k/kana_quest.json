@@ -4,8 +4,8 @@
   "ProductSlug": "kana-quest-7defa0",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-03-28T16:00:00+00:00",
     "PcReleaseDate": "2020-03-12T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-28T01:42:42.6104248+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:51.5343701+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:23.7913864+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:18.6987267+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:42.2274699+00:00"
 }

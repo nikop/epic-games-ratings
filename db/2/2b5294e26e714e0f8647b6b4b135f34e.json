@@ -4,8 +4,8 @@
   "ProductSlug": "robocraft-2-230ec9",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-06-27T11:00:00+00:00",
     "PcReleaseDate": "2024-06-27T11:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-04T12:58:44.6421623+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:57.0305885+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:59:01.2896234+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:51.965175+00:00"
 }

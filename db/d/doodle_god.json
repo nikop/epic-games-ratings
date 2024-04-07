@@ -2,10 +2,10 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -690,6 +690,6 @@
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:48.8001708+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:41.6371395+00:00",
-  "LastUpdate_Ratings": "2024-04-07T15:59:55.5646576+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:57:42.6025875+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:48.8001903+00:00"
 }

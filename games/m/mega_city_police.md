@@ -32,7 +32,7 @@
 | Speedrunner | 2.00% | ~1 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 645)  
+Progressed: 44 (Ranked 646)  
 Completed: 1 (2.27%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |

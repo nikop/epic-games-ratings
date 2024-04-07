@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1137,10 +1137,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 340,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-04-07T18:00:02.9448225+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 343,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 340,
+  "NumberOfAwards": 343,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1172,7 +1178,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1190,7 +1196,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Competitive Players",
@@ -1202,7 +1208,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Unique Visuals",
@@ -23377,9 +23383,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-03-29T23:57:04.1339281+00:00",
+  "LastChanged": "2024-04-07T18:00:02.9448224+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:30.5464635+00:00",
   "LastUpdate_AppInfo": "2024-04-05T14:57:09.1030513+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:58:50.6464507+00:00",
+  "LastUpdate_Ratings": "2024-04-07T18:00:02.9448232+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:30.5466115+00:00"
 }

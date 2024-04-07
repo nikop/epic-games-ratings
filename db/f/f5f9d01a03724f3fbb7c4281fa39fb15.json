@@ -4,8 +4,8 @@
   "ProductSlug": "the-mystery-of-the-moon-7f3e48",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-11-20T16:00:00+00:00",
     "PcReleaseDate": "2023-11-20T16:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2024-02-19T01:43:14.1233469+00:00",
   "LastUpdate_AppInfo": "2024-04-06T18:57:16.459749+00:00",
   "LastUpdate_Ratings": "2024-04-07T17:00:00.6841916+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:13:16.2294796+00:00"
+  "LastUpdate_Achievements": "2024-04-07T18:06:05.8035227+00:00"
 }

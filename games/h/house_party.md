@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~5 |
 | Simple Geometry | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,770 (Ranked 210)  
+Progressed: 7,770 (Ranked 211)  
 Completed: 3 (0.04%) (Ranked 393)  
 ## EOS Players History
 | Date | Progressed | Completed |

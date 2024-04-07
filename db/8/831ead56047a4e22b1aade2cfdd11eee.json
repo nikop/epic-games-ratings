@@ -4,8 +4,8 @@
   "ProductSlug": "project-first-contact-ff7fdc",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-07-05T07:00:00+00:00",
     "PcReleaseDate": "2017-07-25T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-02T12:59:45.4538328+00:00",
-  "LastUpdate_Ratings": "2024-04-07T15:59:33.8518752+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:57:17.6130708+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:02:53.8463472+00:00"
 }

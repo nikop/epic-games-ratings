@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 756)
 | Fratricide | 0.80% | ~15 |
 | QA Has Suffered! (Redux) | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,813 (Ranked 286)  
+Progressed: 1,813 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

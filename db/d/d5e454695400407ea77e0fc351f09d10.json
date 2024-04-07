@@ -4,8 +4,8 @@
   "ProductSlug": "senile-wizards-98b114",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-08-05T20:00:00+00:00",
     "PcReleaseDate": "2023-08-05T20:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-07T15:57:16.5074959+00:00",
   "LastUpdate_AppInfo": "2024-04-03T18:57:25.5701662+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:54.5184615+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:58:57.7998918+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:06.1661151+00:00"
 }

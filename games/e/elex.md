@@ -57,7 +57,7 @@ Number of Ratings: 58  (23.09.2022)
 | Slayer | 0.00% | ~0 |
 | Butcher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 534)  
+Progressed: 118 (Ranked 535)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "08900611756a442ab81750df9deacd77",
   "Name": "Saint Kotar",
   "ProductSlug": "saint-kotar-7f0c47",
-  "Ranking_EOS_Progress": 698,
+  "Ranking_EOS_Progress": 697,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2021-10-28T11:00:00+00:00",
     "PcReleaseDate": "2021-10-28T11:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -74,6 +74,11 @@
       "Time": "2024-03-21T17:07:12.3537257+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-07T18:02:56.2560548+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -99,7 +104,7 @@
       "ID": "Benedek_put_Kata_out_of_misery",
       "SetID": "4akddl8",
       "Name": "Put Kata out of Her Misery",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -107,7 +112,7 @@
       "ID": "Mojse_an_ally",
       "SetID": "4akddl8",
       "Name": "Make the Prophet Your Ally",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -115,7 +120,7 @@
       "ID": "Nikolay_one_eye_less",
       "SetID": "4akddl8",
       "Name": "Become a Half-Child",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -123,7 +128,7 @@
       "ID": "Ulric_painting_acquired",
       "SetID": "4akddl8",
       "Name": "Ulric\u0027s Painting Acquired",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -139,7 +144,7 @@
       "ID": "all_slips_read_wall_of_laments",
       "SetID": "4akddl8",
       "Name": "The Wall of Laments",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -147,7 +152,7 @@
       "ID": "by_killing_Hem_you_saved_one_soul",
       "SetID": "4akddl8",
       "Name": "Save Arsen",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -155,7 +160,7 @@
       "ID": "children_are_eaten_on_Klek",
       "SetID": "4akddl8",
       "Name": "The Dreaded Klek",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -163,7 +168,7 @@
       "ID": "death_whistle_acquired",
       "SetID": "4akddl8",
       "Name": "Death Whistle",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -195,7 +200,7 @@
       "ID": "denouncement_successful_Kabeer",
       "SetID": "4akddl8",
       "Name": "Kabeer is Dead",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -211,7 +216,7 @@
       "ID": "ended_bloodline_curse",
       "SetID": "4akddl8",
       "Name": "You Ended the Bloodline Curse!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -219,15 +224,15 @@
       "ID": "finished_tutorial",
       "SetID": "4akddl8",
       "Name": "Finish the Tutorial",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "found_Put_leseva",
       "SetID": "4akddl8",
       "Name": "Find the Road of Cadavers",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -235,7 +240,7 @@
       "ID": "found_Ulric_portrait",
       "SetID": "4akddl8",
       "Name": "Found Ulric\u0027s Portrait",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -243,7 +248,7 @@
       "ID": "found_veil_of_Vera",
       "SetID": "4akddl8",
       "Name": "Veil of Vera",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -259,7 +264,7 @@
       "ID": "full_story_revealed",
       "SetID": "4akddl8",
       "Name": "Become the Hero of Sveti Kotar",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -291,7 +296,7 @@
       "ID": "hidden_location_ida_mother_discovered",
       "SetID": "4akddl8",
       "Name": "Burial Mound",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -299,7 +304,7 @@
       "ID": "hidden_location_kabeer_catacomb_discovered",
       "SetID": "4akddl8",
       "Name": "A Catacomb",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -307,7 +312,7 @@
       "ID": "hidden_location_kotar_crypt_discovered",
       "SetID": "4akddl8",
       "Name": "The Crypt of Ivan Kotar",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -315,7 +320,7 @@
       "ID": "hidden_location_sanctuary_discovered",
       "SetID": "4akddl8",
       "Name": "The Sanctuary",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -355,7 +360,7 @@
       "ID": "learned_Goldins_fate",
       "SetID": "4akddl8",
       "Name": "Goldin\u0027s Fate",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -371,7 +376,7 @@
       "ID": "learned_more_about_Kotar_and_lore_and_background_story",
       "SetID": "4akddl8",
       "Name": "Lore and Background Story",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -387,7 +392,7 @@
       "ID": "made_Nikolay_say_all_his_nonsense",
       "SetID": "4akddl8",
       "Name": "Nikolay\u0027s Nonsense",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -395,7 +400,7 @@
       "ID": "map_enabled_for_Benedek",
       "SetID": "4akddl8",
       "Name": "A Map for Benedek",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -403,7 +408,7 @@
       "ID": "map_enabled_for_Nikolay",
       "SetID": "4akddl8",
       "Name": "A Map for Nikolay",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -427,7 +432,7 @@
       "ID": "you_decided_to_abandon_God",
       "SetID": "4akddl8",
       "Name": "You Abandoned God",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -444,7 +449,7 @@
     {
       "ID": "4akddl8",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
@@ -452,8 +457,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:12.3537251+00:00",
+  "LastChanged_Achievements": "2024-04-07T18:02:56.2560544+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:10.0924049+00:00",
   "LastUpdate_Ratings": "2024-04-07T17:00:19.855129+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:12.3537618+00:00"
+  "LastUpdate_Achievements": "2024-04-07T18:02:56.2560847+00:00"
 }

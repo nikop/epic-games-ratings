@@ -2,10 +2,10 @@
   "ID": "b35a662d8e5f4238a1b9efd18ed8e56b",
   "Name": "FlatOut: Ultimate Carnage Collector\u0027s Edition",
   "ProductSlug": "flatout-ultimate-carnage-a735b8",
-  "Ranking_EOS_Progress": 841,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-03-26T00:00:00+00:00",
     "PcReleaseDate": "2007-06-22T04:00:00+00:00",
@@ -42,9 +42,9 @@
       "ID": "16",
       "SetID": "157ejjn",
       "Name": "Go That Extra Mile",
-      "Percentage": 50,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "17",
@@ -58,9 +58,9 @@
       "ID": "18",
       "SetID": "157ejjn",
       "Name": "Heavy Blast",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "22",
@@ -106,9 +106,9 @@
       "ID": "29",
       "SetID": "157ejjn",
       "Name": "Lightning Fast",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "30",
@@ -258,9 +258,9 @@
       "ID": "49",
       "SetID": "157ejjn",
       "Name": "Car Rental Service",
-      "Percentage": 50,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "50",
@@ -274,9 +274,9 @@
       "ID": "51",
       "SetID": "157ejjn",
       "Name": "Pro Tuner",
-      "Percentage": 50,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "52",
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:10.4954399+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:58.7711488+00:00",
+  "LastChanged_Achievements": "2024-04-07T18:05:23.0144834+00:00",
   "LastUpdate_AppInfo": "2024-04-02T02:57:29.3861301+00:00",
   "LastUpdate_Ratings": "2024-04-07T17:00:22.1930157+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:58.7711673+00:00"
+  "LastUpdate_Achievements": "2024-04-07T18:05:23.0145001+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "anonymous-hunting-simulator-5eac14",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-11-10T10:00:00+00:00",
     "PcReleaseDate": "2023-11-10T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-05T02:13:47.851202+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:00:02.7980318+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:57:51.4679597+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:00.9861192+00:00"
 }

@@ -55,7 +55,7 @@
 | Crowd Pleaser | 0.00% | ~0 |
 | Bullet Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 606)  
+Progressed: 65 (Ranked 607)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

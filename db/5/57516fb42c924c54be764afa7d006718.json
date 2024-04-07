@@ -4,8 +4,8 @@
   "ProductSlug": "doodle-kingdom-91f65e",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2016-06-08T21:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "ckhgfk3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-04-07T18:01:56.9650271+00:00",
+  "LastChanged_Achievements": "2024-04-07T18:01:56.9639774+00:00",
   "LastUpdate_AppInfo": "2024-04-04T21:57:01.0334105+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:40.7586584+00:00"
+  "LastUpdate_Ratings": "2024-04-07T17:58:39.8399076+00:00",
+  "LastUpdate_Achievements": "2024-04-07T18:01:56.9650438+00:00"
 }

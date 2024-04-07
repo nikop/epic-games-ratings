@@ -4,8 +4,8 @@
   "ProductSlug": "maze-of-disorder-4f23a0",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -33,5 +33,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-05T02:13:48.7576124+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:57:59.690523+00:00"
+  "LastUpdate_Ratings": "2024-04-07T17:59:04.3058431+00:00"
 }

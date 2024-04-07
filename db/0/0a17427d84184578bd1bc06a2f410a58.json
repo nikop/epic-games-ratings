@@ -2,10 +2,10 @@
   "ID": "0a17427d84184578bd1bc06a2f410a58",
   "Name": "Super Hydorah",
   "ProductSlug": "super-hydorah-56d575",
-  "Ranking_EOS_Progress": 754,
+  "Ranking_EOS_Progress": 736,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-09-25T17:00:00+00:00",
     "PcReleaseDate": "2017-09-19T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -69,6 +69,11 @@
       "Time": "2024-03-21T17:06:15.6004824+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-07T18:02:26.9737086+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-25T18:03:19.8372729+00:00",
@@ -79,9 +84,9 @@
       "ID": "01-secret-astronaut",
       "SetID": "8j9d1h0",
       "Name": "Escaping astronaut",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "02-secret-egg",
@@ -159,7 +164,7 @@
       "ID": "11-rank-1",
       "SetID": "8j9d1h0",
       "Name": "Private",
-      "Percentage": 33,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -167,7 +172,7 @@
       "ID": "12-rank-2",
       "SetID": "8j9d1h0",
       "Name": "1st Private",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -248,14 +253,14 @@
     {
       "ID": "8j9d1h0",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-05T01:47:08.7944252+00:00",
   "FirstSeenAchievements": "2023-09-25T18:03:19.8372728+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:15.6004819+00:00",
+  "LastChanged_Achievements": "2024-04-07T18:02:26.9737081+00:00",
   "LastUpdate_AppInfo": "2024-04-02T08:57:29.7723832+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:59:03.6794483+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:15.6004953+00:00"
+  "LastUpdate_Ratings": "2024-04-07T18:00:18.386805+00:00",
+  "LastUpdate_Achievements": "2024-04-07T18:02:26.9737261+00:00"
 }

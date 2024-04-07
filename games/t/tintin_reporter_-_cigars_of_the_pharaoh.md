@@ -42,7 +42,7 @@
 | Broken Brotherhood | 0.60% | ~1 |
 | Flying Ace | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 496)  
+Progressed: 178 (Ranked 497)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 53.00% | ~313 |
-| Starting Skyward | 47.00% | ~278 |
-| Grime is Not Good | 40.00% | ~236 |
-| Floor Galore | 35.00% | ~207 |
-| Campaign Launch | 35.00% | ~207 |
-| Dinner Dash | 35.00% | ~207 |
-| Upgrade Unlock | 32.00% | ~189 |
-| It's Technical | 32.00% | ~189 |
-| Need a Consult | 31.00% | ~183 |
-| Proper Walls | 28.00% | ~165 |
-| Delegate Maintenance | 28.00% | ~165 |
-| Destination Destiny | 28.00% | ~165 |
+| In the Black | 53.00% | ~314 |
+| Starting Skyward | 47.00% | ~279 |
+| Grime is Not Good | 40.00% | ~237 |
+| Floor Galore | 35.00% | ~208 |
+| Campaign Launch | 35.00% | ~208 |
+| Dinner Dash | 35.00% | ~208 |
+| Need a Consult | 32.00% | ~190 |
+| Upgrade Unlock | 32.00% | ~190 |
+| It's Technical | 32.00% | ~190 |
+| Proper Walls | 29.00% | ~172 |
+| Delegate Maintenance | 28.00% | ~166 |
+| Destination Destiny | 28.00% | ~166 |
 | Happy Tenants | 22.00% | ~130 |
 | Your Prestige is Rising | 22.00% | ~130 |
 | Potent Potables | 22.00% | ~130 |
 | Smooth Service | 22.00% | ~130 |
-| Retail Revenue | 21.00% | ~124 |
-| Don't Feel a Loan | 20.00% | ~118 |
-| Artfully Done | 18.00% | ~106 |
-| People Mover | 18.00% | ~106 |
-| Emporium Empire | 17.00% | ~100 |
-| Leveled Up Shops | 17.00% | ~100 |
-| We Don't Need No Education | 17.00% | ~100 |
-| Get Electrified | 17.00% | ~100 |
+| Retail Revenue | 21.00% | ~125 |
+| Don't Feel a Loan | 20.00% | ~119 |
+| People Mover | 19.00% | ~113 |
+| Artfully Done | 18.00% | ~107 |
+| Emporium Empire | 18.00% | ~107 |
+| Leveled Up Shops | 18.00% | ~107 |
+| We Don't Need No Education | 17.00% | ~101 |
+| Get Electrified | 17.00% | ~101 |
 | Lux Living | 16.00% | ~95 |
 | Tasty Profits | 16.00% | ~95 |
 | Rehab Expert | 15.00% | ~89 |
@@ -36,20 +36,20 @@
 | Cashflow Chief | 13.00% | ~77 |
 | Starred Dining | 12.00% | ~71 |
 | Boutique Benefits | 11.00% | ~65 |
+| Thrilled Tenants | 11.00% | ~65 |
 | Smooth Operator | 10.00% | ~59 |
+| 28 Days Later | 10.00% | ~59 |
 | Terrifically Trashed | 10.00% | ~59 |
-| Thrilled Tenants | 10.00% | ~59 |
-| 28 Days Later | 9.00% | ~53 |
 | Swimming in Surplus | 9.00% | ~53 |
 | Aestheticly Pleased | 8.00% | ~47 |
 | Refined Palates | 8.00% | ~47 |
-| First 100 Days | 7.00% | ~41 |
-| Water Features | 7.00% | ~41 |
-| Plaza Plan | 7.00% | ~41 |
-| Master of Puppets | 7.00% | ~41 |
-| Revenue Royalty | 6.00% | ~35 |
-| Golden Opportunity | 6.00% | ~35 |
-| Phoning It In | 6.00% | ~35 |
+| First 100 Days | 7.00% | ~42 |
+| Water Features | 7.00% | ~42 |
+| Plaza Plan | 7.00% | ~42 |
+| Master of Puppets | 7.00% | ~42 |
+| Revenue Royalty | 6.00% | ~36 |
+| Golden Opportunity | 6.00% | ~36 |
+| Phoning It In | 6.00% | ~36 |
 | Careful Constructor | 5.00% | ~30 |
 | Meet Me at HQ | 5.00% | ~30 |
 | Maximum Reuse | 5.00% | ~30 |
@@ -78,11 +78,11 @@
 | Such Great Heights | 2.00% | ~12 |
 | It is Payday | 2.00% | ~12 |
 | Plebs Are Needed | 1.00% | ~6 |
+| High Hand | 1.00% | ~6 |
 | Full House | 1.00% | ~6 |
 | Lofty Landlord | 1.00% | ~6 |
 | Scenario Success | 1.00% | ~6 |
 | Artistic Largesse | 0.80% | ~5 |
-| High Hand | 0.80% | ~5 |
 | Double Down | 0.70% | ~4 |
 | Scenario Master | 0.70% | ~4 |
 | Poker Face | 0.30% | ~2 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 591 (Ranked 384)  
+Progressed: 593 (Ranked 383)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-24 | 542 | 0 |
 | 2024-03-04 | 583 | 0 |
 | 2024-03-21 | 591 | 0 |
+| 2024-04-07 | 593 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

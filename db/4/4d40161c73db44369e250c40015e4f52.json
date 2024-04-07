@@ -4,8 +4,8 @@
   "ProductSlug": "death-to-spies-aabd00",
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
     "PcReleaseDate": "2007-10-16T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-14T07:57:11.7199369+00:00",
   "LastUpdate_AppInfo": "2024-04-05T21:57:14.1661263+00:00",
-  "LastUpdate_Ratings": "2024-04-07T16:58:22.9932567+00:00",
+  "LastUpdate_Ratings": "2024-04-07T17:59:31.6780314+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:18.6072468+00:00"
 }

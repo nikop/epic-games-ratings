@@ -77,7 +77,7 @@ Number of Ratings: 68  (23.09.2022)
 | Age Quod Agis | 0.00% | ~0 |
 | Nil Per Os | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 515)  
+Progressed: 154 (Ranked 516)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
