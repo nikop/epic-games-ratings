@@ -110,13 +110,13 @@
 | 108 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.88% |
 | 109 | [JARS](games/j/jars.md) | 3.82% |
 | 110 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 3.80% |
-| 111 | [Return of Red Riding Hood Enhanced Edition](games/f/f9b5fde4c25442e5b6dd30e19ac26580.md) | 3.70% |
-| 112 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.65% |
-| 113 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
-| 114 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 3.57% |
-| 114 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 3.57% |
-| 116 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.45% |
-| 116 | [SPACE ELITE FORCE II](games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 3.45% |
+| 111 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.65% |
+| 112 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
+| 113 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 3.57% |
+| 113 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 3.57% |
+| 115 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.45% |
+| 115 | [Return of Red Riding Hood Enhanced Edition](games/f/f9b5fde4c25442e5b6dd30e19ac26580.md) | 3.45% |
+| 115 | [SPACE ELITE FORCE II](games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 3.45% |
 | 118 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.42% |
 | 119 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 3.33% |
 | 120 | [Doodle God](games/d/doodle_god.md) | 3.32% |
@@ -148,8 +148,8 @@
 | 146 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.34% |
 | 147 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.30% |
 | 148 | [Mega City Force](games/m/mega_city_police.md) | 2.27% |
-| 149 | [The Complex](games/t/the_complex.md) | 2.22% |
-| 150 | [Alan Wake 2](games/a/alan_wake_2.md) | 2.20% |
+| 149 | [Alan Wake 2](games/a/alan_wake_2.md) | 2.24% |
+| 150 | [The Complex](games/t/the_complex.md) | 2.22% |
 | 151 | [FORECLOSED](games/f/foreclosed.md) | 2.19% |
 | 152 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2.04% |
 | 152 | [tERRORbane](games/t/terrorbane.md) | 2.04% |
@@ -187,11 +187,11 @@
 | 185 | [The Devil's Face](games/t/the_devil's_face.md) | 1.27% |
 | 186 | [Lemon Cake](games/l/lemon_cake.md) | 1.26% |
 | 186 | [Poosh XL](games/p/poosh_xl.md) | 1.26% |
-| 188 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 1.24% |
-| 189 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.23% |
-| 189 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.23% |
-| 189 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.23% |
-| 189 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.23% |
+| 186 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.26% |
+| 189 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 1.24% |
+| 190 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.23% |
+| 190 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.23% |
+| 190 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.23% |
 | 193 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.21% |
 | 194 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 1.19% |
 | 195 | [The Bridge Curse Road to Salvation](games/0/0edc15388101433f8619477c7860311c.md) | 1.17% |
@@ -201,11 +201,11 @@
 | 198 | [Ten Dates](games/t/ten_dates.md) | 1.12% |
 | 200 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.11% |
 | 201 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.07% |
-| 202 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.06% |
 | 202 | [Late Shift](games/l/late_shift.md) | 1.06% |
 | 202 | [Sable](games/s/sable.md) | 1.06% |
-| 205 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.05% |
-| 206 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.01% |
+| 204 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.05% |
+| 205 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.03% |
+| 206 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.00% |
 | 207 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 0.99% |
 | 208 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.98% |
 | 209 | [Iron Danger](games/i/iron_danger.md) | 0.96% |
@@ -268,13 +268,13 @@
 | 266 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.45% |
 | 266 | [Garden In](games/g/garden_in.md) | 0.45% |
 | 268 | [Dead Space](games/d/dead_space.md) | 0.43% |
-| 268 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.43% |
-| 270 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.42% |
-| 270 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.42% |
-| 270 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.42% |
-| 270 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
-| 270 | [Tchia](games/t/tchia.md) | 0.42% |
-| 275 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
+| 269 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.42% |
+| 269 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.42% |
+| 269 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.42% |
+| 269 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.42% |
+| 269 | [Tchia](games/t/tchia.md) | 0.42% |
+| 274 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
+| 274 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.41% |
 | 276 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.40% |
 | 277 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.39% |
 | 277 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.39% |
@@ -288,10 +288,10 @@
 | 286 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.33% |
 | 286 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 286 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.33% |
-| 286 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.33% |
-| 290 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.32% |
-| 290 | [It Takes Two](games/i/it_takes_two.md) | 0.32% |
-| 290 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.32% |
+| 289 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.32% |
+| 289 | [It Takes Two](games/i/it_takes_two.md) | 0.32% |
+| 289 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.32% |
+| 289 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.32% |
 | 293 | [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 0.31% |
 | 293 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 295 | [GRIME](games/g/grime.md) | 0.30% |
