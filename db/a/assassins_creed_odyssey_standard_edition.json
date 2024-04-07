@@ -2,7 +2,7 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 150,
+  "Ranking_Rating": 149,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 953,
@@ -16362,10 +16362,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 22430,
       "NumberOfAwardsMax": 8089
+    },
+    {
+      "Time": "2024-04-07T00:02:33.7292182+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 22434,
+      "NumberOfAwardsMax": 8089
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22430,
+  "NumberOfAwards": 22434,
   "NumberOfAwardsMax": 8089,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16427,7 +16433,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 910
+      "Count": 914
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16465,8 +16471,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-04-06T21:57:55.6825626+00:00",
+  "LastChanged": "2024-04-07T00:02:33.7292181+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:58:20.1797097+00:00",
-  "LastUpdate_Ratings": "2024-04-06T22:59:04.403629+00:00",
+  "LastUpdate_Ratings": "2024-04-07T00:02:33.7292186+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:13.8935684+00:00"
 }
