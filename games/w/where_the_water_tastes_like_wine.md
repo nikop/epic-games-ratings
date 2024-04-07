@@ -1,7 +1,7 @@
 # Where The Water Tastes Like Wine
 [Store](https://store.epicgames.com/en-US/p/where-the-water-tastes-like-wine)  
 [View Rawdata](../../db/w/where_the_water_tastes_like_wine.json)  
-Rating: 4.35 (Ranked 859)  
+Rating: 4.36 (Ranked 851)  
 Number of Ratings: 34  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -35,3 +35,4 @@ Number of Ratings: 34  (23.09.2022)
 | 2023-11-03 | 4.40 | - | 0 | 0 |
 | 2023-12-07 | 4.38 | - | 0 | 0 |
 | 2024-03-16 | 4.35 | - | 0 | 0 |
+| 2024-04-07 | 4.36 | - | 0 | 0 |
