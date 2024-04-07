@@ -56,7 +56,7 @@
 | 44 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 628 |
 | 55 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.83 | 0 | 628 |
 | 55 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 628 |
-| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,049 | 66 |
+| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,053 | 66 |
 | 55 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 193 | 331 |
 | 55 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 628 |
 | 55 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 628 |
@@ -265,7 +265,7 @@
 | 245 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.69 | 0 | 628 |
 | 245 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,126 | 38 |
 | 245 | [Sailing Era](games/s/sailing_era.md) | 4.69 | 0 | 628 |
-| 245 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 580 | 225 |
+| 245 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 581 | 225 |
 | 245 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.69 | 0 | 628 |
 | 245 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.69 | 0 | 628 |
 | 245 | [The Witness](games/t/the_witness.md) | 4.69 | 194 | 330 |
@@ -333,7 +333,7 @@
 | 316 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 26 | 581 |
 | 316 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.66 | 0 | 628 |
 | 316 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.66 | 81 | 429 |
-| 316 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,201 | 73 |
+| 316 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,203 | 73 |
 | 316 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 243 |
 | 316 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 27 | 577 |
 | 316 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 628 |
@@ -760,7 +760,7 @@
 | 756 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 628 |
 | 756 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 48 | 498 |
 | 756 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.43 | 0 | 628 |
-| 756 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,530 | 146 |
+| 756 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,533 | 146 |
 | 756 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 628 |
 | 756 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 628 |
 | 756 | [The Surge](games/t/the_surge.md) | 4.43 | 34 | 541 |
@@ -849,7 +849,7 @@
 | 841 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.37 | 0 | 628 |
 | 841 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.37 | 0 | 628 |
 | 841 | [Tacoma](games/t/tacoma.md) | 4.37 | 0 | 628 |
-| 841 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 4,919 | 87 |
+| 841 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 4,931 | 87 |
 | 851 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 628 |
 | 851 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 176 | 340 |
 | 851 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,887 | 35 |
@@ -857,26 +857,26 @@
 | 851 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 628 |
 | 851 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 577 |
 | 851 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 168 | 349 |
+| 851 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.36 | 0 | 628 |
 | 851 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.36 | 33 | 548 |
-| 859 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 129 | 373 |
-| 859 | [Core](games/c/core.md) | 4.35 | 803 | 197 |
-| 859 | [Encased](games/e/encased.md) | 4.35 | 177 | 338 |
-| 859 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.35 | 0 | 628 |
-| 859 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 628 |
-| 859 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 628 |
-| 859 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.35 | 0 | 628 |
-| 859 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 210 | 320 |
-| 859 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.35 | 25 | 589 |
-| 859 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 628 |
-| 859 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 628 |
-| 859 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.35 | 83 | 426 |
-| 859 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 280 | 286 |
-| 859 | [Speed Brawl](games/s/speed_brawl.md) | 4.35 | 29 | 565 |
-| 859 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.35 | 32 | 552 |
-| 859 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 52 | 490 |
-| 859 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.35 | 29 | 565 |
-| 859 | [Torchlight](games/t/torchlight.md) | 4.35 | 25 | 589 |
-| 859 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.35 | 0 | 628 |
+| 860 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 129 | 373 |
+| 860 | [Core](games/c/core.md) | 4.35 | 803 | 197 |
+| 860 | [Encased](games/e/encased.md) | 4.35 | 177 | 338 |
+| 860 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.35 | 0 | 628 |
+| 860 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.35 | 0 | 628 |
+| 860 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 628 |
+| 860 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.35 | 0 | 628 |
+| 860 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 210 | 320 |
+| 860 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.35 | 25 | 589 |
+| 860 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 628 |
+| 860 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 628 |
+| 860 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.35 | 83 | 426 |
+| 860 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 280 | 286 |
+| 860 | [Speed Brawl](games/s/speed_brawl.md) | 4.35 | 29 | 565 |
+| 860 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.35 | 32 | 552 |
+| 860 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 52 | 490 |
+| 860 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.35 | 29 | 565 |
+| 860 | [Torchlight](games/t/torchlight.md) | 4.35 | 25 | 589 |
 | 878 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 577 |
 | 878 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 628 |
 | 878 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.34 | 0 | 628 |
@@ -1097,8 +1097,8 @@
 | 1,095 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 628 |
 | 1,095 | [Armored Warfare](games/a/armored_warfare.md) | 4.05 | 120 | 379 |
 | 1,095 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 628 |
-| 1,098 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 628 |
-| 1,098 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.04 | 21 | 614 |
+| 1,095 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.05 | 21 | 614 |
+| 1,099 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 628 |
 | 1,100 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.03 | 0 | 628 |
 | 1,101 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 628 |
 | 1,102 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 628 |
