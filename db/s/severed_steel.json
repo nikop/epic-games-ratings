@@ -4,7 +4,7 @@
   "ProductSlug": "severed-steel",
   "Ranking_Rating": 245,
   "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 325,
+  "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 424,
   "Ranking_EOS_NewPlayers": 1,
@@ -1497,10 +1497,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 735,
       "NumberOfAwardsMax": 581
+    },
+    {
+      "Time": "2024-04-07T07:59:05.3531654+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 709,
+      "NumberOfAwardsMax": 581
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 735,
+  "NumberOfAwards": 709,
   "NumberOfAwardsMax": 581,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -34556,9 +34562,9 @@
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2024-04-07T03:57:20.7529694+00:00",
+  "LastChanged": "2024-04-07T07:59:05.3531653+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:30.694818+00:00",
   "LastUpdate_AppInfo": "2024-03-31T13:58:38.4517244+00:00",
-  "LastUpdate_Ratings": "2024-04-07T06:00:13.0921951+00:00",
+  "LastUpdate_Ratings": "2024-04-07T07:59:05.3531658+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:30.6950495+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b7cca975adbf41e4a41f3ece9e61e08a",
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
-  "Ranking_Rating": 338,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 173,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2023-10-25T05:57:58.9583527+00:00",
@@ -489,6 +489,12 @@
     {
       "Time": "2024-04-04T15:59:29.9008306+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 56,
+      "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-04-07T07:57:58.000188+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 56,
       "NumberOfAwardsMax": 56
     }
@@ -11699,9 +11705,9 @@
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
-  "LastChanged": "2024-04-04T15:59:29.9008304+00:00",
+  "LastChanged": "2024-04-07T07:57:58.0001878+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:14.782842+00:00",
   "LastUpdate_AppInfo": "2024-04-06T10:57:08.2281835+00:00",
-  "LastUpdate_Ratings": "2024-04-07T05:59:23.6758442+00:00",
+  "LastUpdate_Ratings": "2024-04-07T07:57:58.0001884+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:14.7829692+00:00"
 }
