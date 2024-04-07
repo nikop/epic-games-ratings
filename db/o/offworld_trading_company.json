@@ -2,7 +2,7 @@
   "ID": "e8882546f28e4832af823c646aed232e",
   "Name": "Offworld Trading Company",
   "ProductSlug": "offworld-trading-company",
-  "Ranking_Rating": 927,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 954,
@@ -877,10 +877,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 346,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-04-07T19:57:57.005013+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 347,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 346,
+  "NumberOfAwards": 347,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -918,7 +924,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -956,8 +962,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2024-04-05T17:57:24.1350092+00:00",
+  "LastChanged": "2024-04-07T19:57:57.0050128+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:54.9323274+00:00",
-  "LastUpdate_Ratings": "2024-04-07T17:59:58.2490028+00:00",
+  "LastUpdate_Ratings": "2024-04-07T19:57:57.0050133+00:00",
   "LastUpdate_Achievements": "2024-04-07T18:03:34.7766981+00:00"
 }
