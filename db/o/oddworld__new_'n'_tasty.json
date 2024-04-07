@@ -4,7 +4,7 @@
   "ProductSlug": "oddworld-new-n-tasty",
   "Ranking_Rating": 674,
   "Ranking_Popularity": 524,
-  "Ranking_PopularitySum": 572,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -422,6 +422,6 @@
   "FirstSeen": "2022-07-22T20:29:35.2607812+00:00",
   "LastChanged": "2024-04-02T14:57:31.8997972+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:07.6852116+00:00",
-  "LastUpdate_Ratings": "2024-04-07T17:00:29.4070332+00:00",
+  "LastUpdate_Ratings": "2024-04-07T18:58:41.7139531+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:26.3282195+00:00"
 }
