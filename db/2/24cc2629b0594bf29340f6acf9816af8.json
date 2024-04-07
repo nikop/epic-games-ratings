@@ -2,7 +2,7 @@
   "ID": "24cc2629b0594bf29340f6acf9816af8",
   "Name": "Horizon Forbidden West\u2122 Complete Edition",
   "ProductSlug": "horizon-forbidden-west-complete-edition",
-  "Ranking_Rating": 112,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 387,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 675,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2024-03-23T09:58:46.7447867+00:00",
@@ -221,6 +221,12 @@
     {
       "Time": "2024-04-06T13:00:22.3987357+00:00",
       "Rating": 4.78,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2024-04-07T01:45:22.6000979+00:00",
+      "Rating": 4.79,
       "NumberOfAwards": 113,
       "NumberOfAwardsMax": 113
     }
@@ -905,9 +911,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-04-06T13:00:22.3987355+00:00",
+  "LastChanged": "2024-04-07T01:45:22.6000977+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:50.6535135+00:00",
   "LastUpdate_AppInfo": "2024-04-04T05:56:58.835464+00:00",
-  "LastUpdate_Ratings": "2024-04-06T22:59:52.5637906+00:00",
+  "LastUpdate_Ratings": "2024-04-07T01:45:22.6000981+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:50.6544033+00:00"
 }
