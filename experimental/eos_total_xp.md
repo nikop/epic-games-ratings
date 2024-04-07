@@ -306,6 +306,7 @@
 | [Dros](../games/a/a46cade12846436281c910ddc51411f3.md) | 40 | 1,000 |
 | [Dude, Where Is My Beer?](../games/7/7c6b6697df584024be9c60a1da59096b.md) | 22 | 1,000 |
 | [Dungeon Drafters](../games/d/dungeon_drafters.md) | 40 | 1,000 |
+| [Dungeon Escape](../games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 51 | 1,000 |
 | [Dungeon Knight](../games/b/bb813cebe527480abb7d459661931369.md) | 12 | 1,000 |
 | [Dungeons 3](../games/d/dungeons_3.md) | 60 | 1,000 |
 | [Dungeons 4](../games/d/dungeons_4.md) | 61 | 1,000 |
@@ -648,8 +649,8 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |
 | [Picklock](../games/0/0904b974619a436ebc70ec7a374572d8.md) | 24 | 1,000 |

@@ -185,6 +185,7 @@
 | [Ugly](../games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 52 | 1,000 |
 | [Unrailed!](../games/u/unrailed!.md) | 52 | 1,000 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 51 | 1,150 |
+| [Dungeon Escape](../games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 51 | 1,000 |
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Miasma Chronicles](../games/m/miasma_chronicles.md) | 51 | 1,000 |
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
@@ -367,8 +368,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
