@@ -2,7 +2,7 @@
   "ID": "0aa39ad6e7894fd4a7ade541a4dafaaa",
   "Name": "Sub Command",
   "ProductSlug": "combat-naval-package-sub-command-5e51d7",
-  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.1807222+00:00",
   "LastChanged": "2023-03-31T05:58:17.1807223+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:08.3685623+00:00",
-  "LastUpdate_Ratings": "2024-04-07T01:45:24.2865087+00:00",
+  "LastUpdate_Ratings": "2024-04-07T02:19:01.3102967+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:30.4184573+00:00"
 }

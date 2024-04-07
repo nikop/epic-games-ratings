@@ -2,7 +2,7 @@
   "ID": "18071ef42d8a48a793d48b2b1d228c58",
   "Name": "Minsho",
   "ProductSlug": "minsho-bde021",
-  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-01T10:00:45.5236079+00:00",
   "LastUpdate_AppInfo": "2024-04-02T17:57:23.1799159+00:00",
-  "LastUpdate_Ratings": "2024-04-07T00:01:43.3262509+00:00",
+  "LastUpdate_Ratings": "2024-04-07T02:17:23.335539+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:26.057607+00:00"
 }

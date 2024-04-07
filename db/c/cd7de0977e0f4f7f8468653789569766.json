@@ -2,7 +2,7 @@
   "ID": "cd7de0977e0f4f7f8468653789569766",
   "Name": "URBO",
   "ProductSlug": "urbo-37789e",
-  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
@@ -276,6 +276,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:11.9921619+00:00",
   "LastChanged_Achievements": "2024-04-05T15:04:46.0036022+00:00",
   "LastUpdate_AppInfo": "2024-04-03T22:57:10.8203658+00:00",
-  "LastUpdate_Ratings": "2024-04-07T01:44:37.7670057+00:00",
+  "LastUpdate_Ratings": "2024-04-07T02:18:28.7890665+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:04:46.0047332+00:00"
 }

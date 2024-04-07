@@ -2,7 +2,7 @@
   "ID": "33d6300ac8394fd48337c934f52c71cc",
   "Name": "Grieve",
   "ProductSlug": "my-product-a3639cd0-e55545",
-  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
@@ -45,6 +45,6 @@
   "FirstSeenAchievements": "2024-01-21T21:03:51.6784135+00:00",
   "LastChanged_Achievements": "2024-03-21T17:08:08.359754+00:00",
   "LastUpdate_AppInfo": "2024-04-01T01:45:45.3608115+00:00",
-  "LastUpdate_Ratings": "2024-04-07T01:45:09.3926516+00:00",
+  "LastUpdate_Ratings": "2024-04-07T02:18:51.1757797+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:08.3597572+00:00"
 }

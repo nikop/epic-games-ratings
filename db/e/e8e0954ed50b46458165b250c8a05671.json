@@ -2,7 +2,7 @@
   "ID": "e8e0954ed50b46458165b250c8a05671",
   "Name": "Patrolling Mars",
   "ProductSlug": "patrollingmars-215534",
-  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
@@ -164,6 +164,6 @@
   "FirstSeenAchievements": "2023-11-06T07:04:04.66523+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:25.5927036+00:00",
   "LastUpdate_AppInfo": "2024-03-31T09:58:13.6278886+00:00",
-  "LastUpdate_Ratings": "2024-04-07T01:45:44.5424311+00:00",
+  "LastUpdate_Ratings": "2024-04-07T02:19:14.7264329+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:25.5927065+00:00"
 }
