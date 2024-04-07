@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 19)
 Number of Ratings: 771  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 366  (Ranked 258)  
-Sum: 477 (Ranked 364)  
-Diff (max vs sum): -106  
+Sum: 497 (Ranked 362)  
+Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 366 |
@@ -16,6 +16,7 @@ Diff (max vs sum): -106
 | This game is Highly Recommended | 21 |
 | This game has Amazing Characters | 20 |
 | This game has Unique Visuals | 20 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -136,3 +137,4 @@ Diff (max vs sum): -106
 | 2024-03-23 | 4.86 | - | 366 | 476 |
 | 2024-03-28 | 4.87 | - | 366 | 476 |
 | 2024-04-05 | 4.87 | - | 366 | 477 |
+| 2024-04-07 | 4.87 | - | 366 | 497 |

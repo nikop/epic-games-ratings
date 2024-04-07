@@ -2,7 +2,7 @@
   "ID": "c295bb538708462cb6bd764eabf6b80f",
   "Name": "Starsiege: Deadzone",
   "ProductSlug": "starsiege-deadzone",
-  "Ranking_Rating": 1130,
+  "Ranking_Rating": 1145,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
   "Ranking_EOS_Progress": 954,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.89,
+  "Rating": 3.79,
   "RatingHistory": [
     {
       "Time": "2023-08-17T09:58:15.0292163+00:00",
@@ -61,6 +61,12 @@
       "Rating": 3.89,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-07T15:57:43.3551977+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -79,8 +85,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-18T19:57:15.079017+00:00",
   "FirstSeenRating": "2023-08-17T09:58:15.0292161+00:00",
-  "LastChanged": "2024-02-11T11:57:55.6448098+00:00",
+  "LastChanged": "2024-04-07T15:57:43.3551975+00:00",
   "LastUpdate_AppInfo": "2024-04-06T18:57:15.1143071+00:00",
-  "LastUpdate_Ratings": "2024-04-07T14:00:26.3471059+00:00",
+  "LastUpdate_Ratings": "2024-04-07T15:57:43.3551981+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:31.6197455+00:00"
 }

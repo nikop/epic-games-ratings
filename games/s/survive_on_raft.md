@@ -1,7 +1,7 @@
 # Survive on Raft
 [Store](https://store.epicgames.com/en-US/p/survive-on-raft-9845bd)  
 [View Rawdata](../../db/s/survive_on_raft.json)  
-Rating: 3.36 (Ranked 1,156)  
+Rating: 3.36 (Ranked 1,157)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
