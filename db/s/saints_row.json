@@ -6817,10 +6817,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 9977,
       "NumberOfAwardsMax": 1224
+    },
+    {
+      "Time": "2024-04-08T21:57:56.9505438+00:00",
+      "Rating": 3.89,
+      "NumberOfAwards": 9978,
+      "NumberOfAwardsMax": 1224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9977,
+  "NumberOfAwards": 9978,
   "NumberOfAwardsMax": 1224,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -6870,7 +6876,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1143
+      "Count": 1144
     },
     {
       "Text": "This game has a Silly Community",
@@ -39647,9 +39653,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-04-08T14:57:30.4706878+00:00",
+  "LastChanged": "2024-04-08T21:57:56.9505435+00:00",
   "LastChanged_Achievements": "2024-03-21T17:11:36.4022585+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:18.8968525+00:00",
-  "LastUpdate_Ratings": "2024-04-08T20:00:23.1792929+00:00",
+  "LastUpdate_Ratings": "2024-04-08T21:57:56.9505442+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:36.4025322+00:00"
 }

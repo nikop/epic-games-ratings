@@ -222,13 +222,13 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-03-21 | 119,993 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 2,024  (Ranked 128)  
-Sum: 17,007 (Ranked 75)  
+Sum: 17,013 (Ranked 75)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 2,024 |
 | This game has Challenging Combat | 2,012 |
-| This game is Relaxing | 2,001 |
+| This game is Relaxing | 2,007 |
 | This game is Highly Recommended | 1,997 |
 | This game is Extremely Fun | 1,963 |
 | This game has Competitive Players | 1,944 |
@@ -691,4 +691,4 @@ Diff (max vs sum): 53
 | 2024-04-05 | 4.41 | - | 2,008 | 16,935 |
 | 2024-04-06 | 4.41 | - | 2,012 | 16,954 |
 | 2024-04-07 | 4.41 | - | 2,018 | 16,986 |
-| 2024-04-08 | 4.41 | - | 2,024 | 17,007 |
+| 2024-04-08 | 4.41 | - | 2,024 | 17,013 |
