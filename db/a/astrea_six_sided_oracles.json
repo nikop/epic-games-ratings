@@ -2,7 +2,7 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 714,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
   "Ranking_EOS_Progress": 407,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2024-02-14T18:57:36.8359975+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-03-18T06:57:17.6808123+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-08T07:58:14.5199475+00:00",
+      "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2478,9 +2484,9 @@
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenRating": "2024-02-14T18:57:36.8359972+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged": "2024-03-18T06:57:17.6808121+00:00",
+  "LastChanged": "2024-04-08T07:58:14.5199473+00:00",
   "LastChanged_Achievements": "2024-03-21T17:10:26.34013+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:36.0934664+00:00",
-  "LastUpdate_Ratings": "2024-04-08T06:00:01.3894779+00:00",
+  "LastUpdate_Ratings": "2024-04-08T07:58:14.5199478+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:26.3402167+00:00"
 }

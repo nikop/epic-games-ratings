@@ -4,7 +4,7 @@
   "ProductSlug": "carcassonne",
   "Ranking_Rating": 316,
   "Ranking_Popularity": 407,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -990,10 +990,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 586,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2024-04-08T07:57:10.6810223+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 587,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 586,
+  "NumberOfAwards": 587,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1001,7 +1007,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1075,8 +1081,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2024-04-03T17:57:31.2806924+00:00",
+  "LastChanged": "2024-04-08T07:57:10.681022+00:00",
   "LastUpdate_AppInfo": "2024-04-07T08:56:59.674925+00:00",
-  "LastUpdate_Ratings": "2024-04-08T05:58:57.0307305+00:00",
+  "LastUpdate_Ratings": "2024-04-08T07:57:10.6810227+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:45.3444372+00:00"
 }
