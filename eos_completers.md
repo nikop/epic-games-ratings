@@ -764,8 +764,8 @@
 | 446 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 0.00% |
 | 446 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 446 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
-| 446 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
 | 446 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
+| 446 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
 | 446 | [PERISH](games/p/perish.md) | 0.00% |
 | 446 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 0.00% |
 | 446 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |
@@ -954,4 +954,4 @@
 | 446 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 446 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
 | 446 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 0.00% |
-| 4,173 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.76% |
+| 4,174 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.76% |
