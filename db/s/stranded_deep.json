@@ -3,7 +3,7 @@
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
   "Ranking_Rating": 990,
-  "Ranking_Popularity": 293,
+  "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
@@ -3367,11 +3367,17 @@
       "Rating": 4.23,
       "NumberOfAwards": 1276,
       "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2024-04-08T10:57:33.8246129+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1277,
+      "NumberOfAwardsMax": 254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1276,
-  "NumberOfAwardsMax": 253,
+  "NumberOfAwards": 1277,
+  "NumberOfAwardsMax": 254,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -3402,7 +3408,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 253
+      "Count": 254
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3446,8 +3452,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-04-07T21:57:16.6065338+00:00",
+  "LastChanged": "2024-04-08T10:57:33.8246127+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:04.7990516+00:00",
-  "LastUpdate_Ratings": "2024-04-08T08:59:27.4068527+00:00",
+  "LastUpdate_Ratings": "2024-04-08T10:57:33.8246133+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:13.2183733+00:00"
 }
