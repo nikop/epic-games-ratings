@@ -5,14 +5,14 @@
 | 3 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.94 | 0 | 628 |
 | 4 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 628 |
 | 5 | [Hades](games/h/hades.md) | 4.92 | 3,720 | 101 |
-| 6 | [Celeste](games/c/celeste.md) | 4.91 | 1,939 | 132 |
+| 6 | [Celeste](games/c/celeste.md) | 4.91 | 1,940 | 132 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 628 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 628 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 628 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 23 | 600 |
 | 8 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 2,082 | 125 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 628 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,105 | 46 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,115 | 46 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 509 | 230 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 26,602 | 20 |
 | 16 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 25 | 589 |
@@ -205,7 +205,7 @@
 | 198 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 382 | 255 |
 | 198 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 0 | 628 |
 | 198 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.72 | 0 | 628 |
-| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 656 | 213 |
+| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 657 | 213 |
 | 206 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 645 | 215 |
 | 206 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.71 | 68 | 455 |
 | 206 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.71 | 43 | 511 |
@@ -300,7 +300,7 @@
 | 289 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 336,675 | 4 |
 | 289 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 523 | 229 |
 | 289 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 628 |
-| 289 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,372 | 120 |
+| 289 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,373 | 120 |
 | 289 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 756 | 202 |
 | 289 | [RIDE 5](games/r/ride_5.md) | 4.67 | 0 | 628 |
 | 289 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 628 |
@@ -496,7 +496,7 @@
 | 486 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 42 | 512 |
 | 486 | [Isonzo](games/i/isonzo.md) | 4.58 | 48 | 498 |
 | 486 | [Moving Out](games/m/moving_out.md) | 4.58 | 22 | 606 |
-| 486 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 11,559 | 42 |
+| 486 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 11,571 | 42 |
 | 486 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 0 | 628 |
 | 486 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,520 | 147 |
 | 486 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.58 | 53 | 483 |
@@ -742,7 +742,7 @@
 | 738 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.44 | 46 | 504 |
 | 738 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 628 |
 | 738 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 276 | 287 |
-| 738 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 72,511 | 11 |
+| 738 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 72,571 | 11 |
 | 738 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 384 |
 | 738 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 14,964 | 30 |
 | 738 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 628 |
