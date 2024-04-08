@@ -114,7 +114,7 @@
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.80 | 0 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.60 | 0 |
-| [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.48 | 20 |
+| [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.44 | 20 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.82 | 47 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.45 | 53 |
