@@ -1,7 +1,7 @@
 # Kena: Bridge of Spirits
 [Store](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)  
 [View Rawdata](../../db/k/kena__bridge_of_spirits.json)  
-Rating: 4.70 (Ranked 226)  
+Rating: 4.70 (Ranked 225)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -335,8 +335,8 @@ Completed: 571 (0.13%) (Ranked 336)
 | 2024-03-21 | 431,298 | 571 |
 ## Awards
 Max (Great Boss Battles): 1,373  (Ranked 149)  
-Sum: 1,741 (Ranked 241)  
-Diff (max vs sum): -92  
+Sum: 1,741 (Ranked 242)  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,373 |

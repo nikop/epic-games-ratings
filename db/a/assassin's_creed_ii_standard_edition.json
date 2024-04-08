@@ -2,8 +2,8 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 166,
-  "Ranking_Popularity": 437,
+  "Ranking_Rating": 165,
+  "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 954,
   "Ranking_EOS_Completed": 446,
@@ -2568,18 +2568,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 501,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2024-04-08T13:58:52.7155398+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 502,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 501,
-  "NumberOfAwardsMax": 78,
+  "NumberOfAwards": 502,
+  "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2653,8 +2659,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-04-06T18:58:24.6763932+00:00",
+  "LastChanged": "2024-04-08T13:58:52.7155396+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:42.1374759+00:00",
-  "LastUpdate_Ratings": "2024-04-08T12:00:16.3451016+00:00",
+  "LastUpdate_Ratings": "2024-04-08T13:58:52.7155401+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:50.6399787+00:00"
 }

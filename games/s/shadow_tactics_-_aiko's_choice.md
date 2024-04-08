@@ -1,7 +1,7 @@
 # Shadow Tactics - Aiko's Choice
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics-aikos-choice-5678c1)  
 [View Rawdata](../../db/s/shadow_tactics_-_aiko's_choice.json)  
-Rating: 4.71 (Ranked 208)  
+Rating: 4.71 (Ranked 206)  
 Number of Ratings: 68  (23.09.2022)  
 ## Awards
 | Award | Count |

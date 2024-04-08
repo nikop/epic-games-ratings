@@ -2,7 +2,7 @@
   "ID": "7029f6353d7f468eb6940bbe6041474e",
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
   "Ranking_EOS_Progress": 235,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.75,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:45.7559867+00:00",
@@ -53,6 +53,12 @@
     {
       "Time": "2024-04-02T11:57:50.3158031+00:00",
       "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-08T13:57:27.9894791+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -6117,9 +6123,9 @@
   "FirstSeen": "2023-03-28T17:57:30.7246301+00:00",
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
-  "LastChanged": "2024-04-02T11:57:50.3158029+00:00",
+  "LastChanged": "2024-04-08T13:57:27.9894788+00:00",
   "LastChanged_Achievements": "2024-03-21T17:06:45.8520676+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:19.3805489+00:00",
-  "LastUpdate_Ratings": "2024-04-08T11:58:53.765155+00:00",
+  "LastUpdate_Ratings": "2024-04-08T13:57:27.9894795+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:45.8521556+00:00"
 }
