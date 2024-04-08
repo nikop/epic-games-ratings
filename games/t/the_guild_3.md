@@ -33,7 +33,7 @@ Number of Ratings: 76  (23.09.2022)
 | Proud as a rooster | 0.00% | ~0 |
 | Courageous | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 539)  
+Progressed: 114 (Ranked 540)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

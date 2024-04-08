@@ -2,7 +2,7 @@
   "ID": "7aa0633c4f714b949071394d35de89bf",
   "Name": "EMULATED: OpsRunner",
   "ProductSlug": "emulated-opsrunner-636fc3",
-  "Ranking_EOS_Progress": 954,
+  "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-02T12:59:45.4227317+00:00",
-  "LastUpdate_Ratings": "2024-04-08T13:58:23.9152038+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:04:49.9337679+00:00"
+  "LastUpdate_Ratings": "2024-04-08T14:59:30.0608578+00:00",
+  "LastUpdate_Achievements": "2024-04-08T15:05:05.7363209+00:00"
 }

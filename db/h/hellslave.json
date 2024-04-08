@@ -2,7 +2,7 @@
   "ID": "f28de4c7a1464f749c0231192d28c652",
   "Name": "Hellslave",
   "ProductSlug": "hellslave-cc8a71",
-  "Ranking_EOS_Progress": 954,
+  "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -53,6 +53,6 @@
   "LastChanged": "2023-03-31T05:58:36.3831428+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:09.3554887+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:19.2740503+00:00",
-  "LastUpdate_Ratings": "2024-04-08T13:59:02.261608+00:00",
+  "LastUpdate_Ratings": "2024-04-08T15:00:04.3508317+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:09.3554922+00:00"
 }

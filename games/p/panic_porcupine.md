@@ -8,9 +8,9 @@
 | It's a start | 100.00% | ~4 |
 | Punctual Porcupine | 75.00% | ~3 |
 | Egg Hunt | 50.00% | ~2 |
+| Over Easy | 50.00% | ~2 |
 | Beyond the Hills | 25.00% | ~1 |
 | No Bones About it | 25.00% | ~1 |
-| Over Easy | 25.00% | ~1 |
 | Snowy Shortcut | 25.00% | ~1 |
 | Artful Dodger | 0.00% | ~0 |
 | Commitment | 0.00% | ~0 |
@@ -18,7 +18,7 @@
 | Rapid Reincarnation | 0.00% | ~0 |
 | Saw Speedrun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 816)  
+Progressed: 4 (Ranked 818)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

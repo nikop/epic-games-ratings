@@ -36,7 +36,7 @@ Rating: 3.83 (Ranked 1,139)
 | Urban Scrawl | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 732 (Ranked 364)  
-Completed: 6 (0.82%) (Ranked 224)  
+Completed: 6 (0.82%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

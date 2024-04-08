@@ -5,8 +5,8 @@
   "Ranking_Rating": 990,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
-  "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
   "Store": {
@@ -47,15 +47,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3010,
+  "EOS_Progressed": 3621,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:08:10.2590617+00:00",
       "NumProgressed": 3010,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2024-04-08T15:02:40.5779904+00:00",
+      "NumProgressed": 3621,
       "NumCompleted": 2
     }
   ],
@@ -67,33 +72,33 @@
       "ID": "ACHIEVEMENT_101",
       "SetID": "dc50lnb",
       "Name": "Can this be seen?",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 2709
+      "UsersEstimate": 3223
     },
     {
       "ID": "ACHIEVEMENT_102",
       "SetID": "dc50lnb",
       "Name": "First meet, Xia Ruoxi",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 2860
+      "UsersEstimate": 3404
     },
     {
       "ID": "ACHIEVEMENT_103",
       "SetID": "dc50lnb",
       "Name": "Diligent person",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 2679
+      "UsersEstimate": 3186
     },
     {
       "ID": "ACHIEVEMENT_104",
       "SetID": "dc50lnb",
       "Name": "First meet, Li Meixuan",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 2709
+      "UsersEstimate": 3223
     },
     {
       "ID": "ACHIEVEMENT_105",
@@ -101,47 +106,47 @@
       "Name": "A bit direc",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1267
     },
     {
       "ID": "ACHIEVEMENT_106",
       "SetID": "dc50lnb",
       "Name": "First meet, Zhang Xinyan",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 2589
+      "UsersEstimate": 3078
     },
     {
       "ID": "ACHIEVEMENT_107",
       "SetID": "dc50lnb",
       "Name": "I have a new phone",
-      "Percentage": 69,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2426
     },
     {
       "ID": "ACHIEVEMENT_108",
       "SetID": "dc50lnb",
       "Name": "How could I accept this?",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1746
+      "UsersEstimate": 2064
     },
     {
       "ID": "ACHIEVEMENT_109",
       "SetID": "dc50lnb",
       "Name": "Abandon two and save one",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1304
     },
     {
       "ID": "ACHIEVEMENT_110",
       "SetID": "dc50lnb",
       "Name": "Keep the balance",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1340
     },
     {
       "ID": "ACHIEVEMENT_111",
@@ -149,47 +154,47 @@
       "Name": "Tactful person",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 813
+      "UsersEstimate": 978
     },
     {
       "ID": "ACHIEVEMENT_112",
       "SetID": "dc50lnb",
       "Name": "Stick to the principl",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 722
+      "UsersEstimate": 833
     },
     {
       "ID": "ACHIEVEMENT_113",
       "SetID": "dc50lnb",
       "Name": "Meet again, Li Shiyin",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2824
     },
     {
       "ID": "ACHIEVEMENT_114",
       "SetID": "dc50lnb",
       "Name": "Entered the wrong room",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1866
+      "UsersEstimate": 2173
     },
     {
       "ID": "ACHIEVEMENT_115",
       "SetID": "dc50lnb",
       "Name": "Have public morality",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1593
     },
     {
       "ID": "ACHIEVEMENT_116",
       "SetID": "dc50lnb",
       "Name": "Worthwhile person",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1340
     },
     {
       "ID": "ACHIEVEMENT_117",
@@ -197,47 +202,47 @@
       "Name": "Really annoying",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 724
     },
     {
       "ID": "ACHIEVEMENT_118",
       "SetID": "dc50lnb",
       "Name": "Hello boss Fang Xin",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1896
+      "UsersEstimate": 2209
     },
     {
       "ID": "ACHIEVEMENT_119",
       "SetID": "dc50lnb",
       "Name": "Good at resolving a crisis",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1340
     },
     {
       "ID": "ACHIEVEMENT_120",
       "SetID": "dc50lnb",
       "Name": "A bit embarrassed",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 722
+      "UsersEstimate": 833
     },
     {
       "ID": "ACHIEVEMENT_121",
       "SetID": "dc50lnb",
       "Name": "Hello Yu Hui",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1376
     },
     {
       "ID": "ACHIEVEMENT_122",
       "SetID": "dc50lnb",
       "Name": "Willing to help others",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1304
     },
     {
       "ID": "ACHIEVEMENT_123",
@@ -245,15 +250,15 @@
       "Name": "Self-awareness",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 421
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENT_124",
       "SetID": "dc50lnb",
       "Name": "Can you even sleep through this?",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 482
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHIEVEMENT_125",
@@ -261,23 +266,23 @@
       "Name": "Listen to your sister",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 452
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHIEVEMENT_126",
       "SetID": "dc50lnb",
       "Name": "Slang for single person",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 542
+      "UsersEstimate": 616
     },
     {
       "ID": "ACHIEVEMENT_127",
       "SetID": "dc50lnb",
       "Name": "Let\u0027s travel together after we get together",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 331
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHIEVEMENT_128",
@@ -285,7 +290,7 @@
       "Name": "The bread of love is hard to chew",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 572
+      "UsersEstimate": 688
     },
     {
       "ID": "ACHIEVEMENT_129",
@@ -293,15 +298,15 @@
       "Name": "She is more proactive than you",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHIEVEMENT_130",
       "SetID": "dc50lnb",
       "Name": "She chose to be loved",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 572
+      "UsersEstimate": 652
     },
     {
       "ID": "ACHIEVEMENT_131",
@@ -309,63 +314,63 @@
       "Name": "She truly loves you",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 271
+      "UsersEstimate": 326
     },
     {
       "ID": "ACHIEVEMENT_132",
       "SetID": "dc50lnb",
       "Name": "Once she gives up she won\u0027t look back",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 572
+      "UsersEstimate": 652
     },
     {
       "ID": "ACHIEVEMENT_133",
       "SetID": "dc50lnb",
       "Name": "Childhood sweetheart love",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 241
+      "UsersEstimate": 253
     },
     {
       "ID": "ACHIEVEMENT_134",
       "SetID": "dc50lnb",
       "Name": "Childhood friend\u0027s brother",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 542
+      "UsersEstimate": 616
     },
     {
       "ID": "ACHIEVEMENT_135",
       "SetID": "dc50lnb",
       "Name": "Is this true love?",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 482
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHIEVEMENT_136",
       "SetID": "dc50lnb",
       "Name": "Career is most important",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENT_137",
       "SetID": "dc50lnb",
       "Name": "The most genuine is the ordinary",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 211
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_138",
       "SetID": "dc50lnb",
       "Name": "I can\u0027t wait for you",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 482
+      "UsersEstimate": 543
     },
     {
       "ID": "ACHIEVEMENT_139",
@@ -373,7 +378,7 @@
       "Name": "We have a child!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 72
     },
     {
       "ID": "ACHIEVEMENT_140",
@@ -381,7 +386,7 @@
       "Name": "Beautiful and happy plan",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_141",
@@ -389,7 +394,7 @@
       "Name": "Let\u0027s fly together while we\u0027re young",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_142",
@@ -397,15 +402,15 @@
       "Name": "Marriage is it tiring?",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_143",
       "SetID": "dc50lnb",
       "Name": "Promotion and wealth is not a dream",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_144",
@@ -413,14 +418,14 @@
       "Name": "She waits for me at home every day",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "dc50lnb",
       "IsBase": true,
-      "Progressed": 3010,
+      "Progressed": 3621,
       "Completed": 2
     }
   ],
@@ -428,8 +433,8 @@
   "FirstSeenRating": "2024-03-25T22:58:53.3976095+00:00",
   "FirstSeenAchievements": "2024-03-21T17:08:10.2590647+00:00",
   "LastChanged": "2024-04-05T22:58:06.2339763+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:10.2590611+00:00",
+  "LastChanged_Achievements": "2024-04-08T15:02:40.5779897+00:00",
   "LastUpdate_AppInfo": "2024-04-07T23:57:07.8831185+00:00",
   "LastUpdate_Ratings": "2024-04-08T13:59:27.9629295+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:10.2599292+00:00"
+  "LastUpdate_Achievements": "2024-04-08T15:02:40.5780266+00:00"
 }

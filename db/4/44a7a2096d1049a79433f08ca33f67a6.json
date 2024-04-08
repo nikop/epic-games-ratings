@@ -49,17 +49,17 @@
       "ID": "BASIC_SENTINEL",
       "SetID": "2l57895",
       "Name": "Machinegun drone",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CANNON_SENTINEL",
       "SetID": "2l57895",
       "Name": "Rifle drone",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LIFE",
@@ -81,9 +81,9 @@
       "ID": "PLASMA_SENTINEL",
       "SetID": "2l57895",
       "Name": "Plasma drone",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SHIELD",
@@ -97,9 +97,9 @@
       "ID": "SUPER_FIRERATE",
       "SetID": "2l57895",
       "Name": "Super fire rate",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "X2_ORB",
@@ -441,25 +441,25 @@
       "ID": "resistence1",
       "SetID": "2l57895",
       "Name": "resistance level 1",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "resistence2",
       "SetID": "2l57895",
       "Name": "resistance level 2",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "rifle1",
       "SetID": "2l57895",
       "Name": "rifle level 1",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "rifle2",
@@ -608,8 +608,8 @@
   ],
   "FirstSeen": "2024-02-20T14:58:43.3861009+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:07.5615124+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:55.6642035+00:00",
+  "LastChanged_Achievements": "2024-04-08T15:04:15.9679302+00:00",
   "LastUpdate_AppInfo": "2024-04-05T02:13:48.6140507+00:00",
   "LastUpdate_Ratings": "2024-04-08T14:00:05.4903793+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:55.6642638+00:00"
+  "LastUpdate_Achievements": "2024-04-08T15:04:15.9679964+00:00"
 }

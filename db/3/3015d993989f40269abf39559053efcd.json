@@ -2,7 +2,7 @@
   "ID": "3015d993989f40269abf39559053efcd",
   "Name": "War Thugz - Satoshi City",
   "ProductSlug": "war-thugz-satoshi-city-862f0f",
-  "Ranking_EOS_Progress": 954,
+  "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-08T07:56:59.7192273+00:00",
-  "LastUpdate_Ratings": "2024-04-08T13:03:39.7650071+00:00"
+  "LastUpdate_Ratings": "2024-04-08T14:58:16.8281563+00:00",
+  "LastUpdate_Achievements": "2024-04-08T15:01:31.4947294+00:00"
 }

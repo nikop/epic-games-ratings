@@ -104,7 +104,7 @@ Rating: 4.45 (Ranked 714)
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433 (Ranked 407)  
+Progressed: 433 (Ranked 408)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |

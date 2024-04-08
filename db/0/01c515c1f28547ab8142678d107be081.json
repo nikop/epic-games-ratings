@@ -2,7 +2,7 @@
   "ID": "01c515c1f28547ab8142678d107be081",
   "Name": "Dreadful River",
   "ProductSlug": "dreadful-river-21e04b",
-  "Ranking_EOS_Progress": 805,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-03-21T17:05:29.2028336+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-08T15:01:36.6193182+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 0
     }
   ],
@@ -45,25 +50,25 @@
       "ID": "DR_80_DAYS",
       "SetID": "dco973l",
       "Name": "80 Days",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_ALCHEMY_FIRST",
       "SetID": "dco973l",
       "Name": "Not poisonous",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_ANCIENTS_VISIT",
       "SetID": "dco973l",
       "Name": "Ancient Starlings",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "DR_ANCIENT_CLEARED",
@@ -77,9 +82,9 @@
       "ID": "DR_BOAT_SINK_PROG",
       "SetID": "dco973l",
       "Name": "Sink, sink, sink",
-      "Percentage": 80,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 10
     },
     {
       "ID": "DR_BOSS_KILLED",
@@ -93,9 +98,9 @@
       "ID": "DR_CAVES_VISIT",
       "SetID": "dco973l",
       "Name": "Cave",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_CAVE_CLEARED",
@@ -109,25 +114,25 @@
       "ID": "DR_COOK_FIRST",
       "SetID": "dco973l",
       "Name": "Edible",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_CRAFTING_FIRST",
       "SetID": "dco973l",
       "Name": "Homemade",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_CRAFTSMAN_VISIT",
       "SetID": "dco973l",
       "Name": "Need a boat",
-      "Percentage": 20,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "DR_CROWN_COMPLETE",
@@ -141,9 +146,9 @@
       "ID": "DR_FACTION_ANCIENTS_KILL_PROG",
       "SetID": "dco973l",
       "Name": "The Starlings",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_FACTION_ARCHOMN_KILL_PROG",
@@ -165,41 +170,41 @@
       "ID": "DR_FACTION_DREAD_KILL_PROG",
       "SetID": "dco973l",
       "Name": "Dreadful",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "DR_FACTION_ENSMARK_KILL_PROG",
       "SetID": "dco973l",
       "Name": "ENSMARK!",
-      "Percentage": 80,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 10
     },
     {
       "ID": "DR_FACTION_FORGOTTEN_KILL_PROG",
       "SetID": "dco973l",
       "Name": "Forgotten",
-      "Percentage": 60,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "DR_FACTION_FORKWART_KILL_PROG",
       "SetID": "dco973l",
       "Name": "Forkwart",
-      "Percentage": 20,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_FACTION_LYRIT_KILL_PROG",
       "SetID": "dco973l",
       "Name": "Lyrit",
-      "Percentage": 60,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_FACTION_NIRUUD_KILL_PROG",
@@ -221,25 +226,25 @@
       "ID": "DR_FACTION_PALOSS_KILL_PROG",
       "SetID": "dco973l",
       "Name": "Paloss",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_FACTION_SIRATRA_KILL_PROG",
       "SetID": "dco973l",
       "Name": "Siratra",
-      "Percentage": 60,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_FACTION_TATKAL_KILL_PROG",
       "SetID": "dco973l",
       "Name": "Tatkal, Tatkal",
-      "Percentage": 40,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DR_FACTION_ZOR_KILL_PROG",
@@ -253,41 +258,41 @@
       "ID": "DR_FISHING_FISH_PROG",
       "SetID": "dco973l",
       "Name": "Fishing boat",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "DR_FISHING_JUNK_PROG",
       "SetID": "dco973l",
       "Name": "River junk",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "DR_FISHING_RING",
       "SetID": "dco973l",
       "Name": "My precious",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_FORT_CONQUER_FIRST",
       "SetID": "dco973l",
       "Name": "Siege",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_FORT_CONQUER_PROG",
       "SetID": "dco973l",
       "Name": "Siege machine",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_GAME_COMPLETED",
@@ -309,41 +314,41 @@
       "ID": "DR_HALLS_VISIT",
       "SetID": "dco973l",
       "Name": "Halls of Nembrest",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_HUNT_FIRST",
       "SetID": "dco973l",
       "Name": "Wild hunt",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_KHOLREN",
       "SetID": "dco973l",
       "Name": "Kholren ahead!",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_KNOCKEDOUT",
       "SetID": "dco973l",
       "Name": "Oof!",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "DR_LOOT_CRATE_FIRST",
       "SetID": "dco973l",
       "Name": "Loot box",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_LOOT_LAND",
@@ -381,33 +386,33 @@
       "ID": "DR_MAGICIAN_VISIT",
       "SetID": "dco973l",
       "Name": "It\u0027s magic",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_MERCENARY_HIRE_FIRST",
       "SetID": "dco973l",
       "Name": "Sword for coin",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_MERCENARY_VISIT",
       "SetID": "dco973l",
       "Name": "Mercenary",
-      "Percentage": 40,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "DR_MINES_VISIT",
       "SetID": "dco973l",
       "Name": "Miner",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_MINE_CLEARED",
@@ -421,7 +426,7 @@
       "ID": "DR_MQ02_S01",
       "SetID": "dco973l",
       "Name": "Sacrifice",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -429,7 +434,7 @@
       "ID": "DR_MQ02_S02",
       "SetID": "dco973l",
       "Name": "Forgotten Barracks",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -437,7 +442,7 @@
       "ID": "DR_MQ02_S03",
       "SetID": "dco973l",
       "Name": "Glowing in the Dark",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -445,7 +450,7 @@
       "ID": "DR_MQ02_S04",
       "SetID": "dco973l",
       "Name": "Home Sweet Home",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -453,41 +458,41 @@
       "ID": "DR_MQ02_S05",
       "SetID": "dco973l",
       "Name": "Temple of the Usurper",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_MQ02_S06",
       "SetID": "dco973l",
       "Name": "Halls of the Dead",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_MQ02_S07",
       "SetID": "dco973l",
       "Name": "Lightning Arch",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_MQ02_S08",
       "SetID": "dco973l",
       "Name": "Halls of Fire",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_MQ02_S09",
       "SetID": "dco973l",
       "Name": "Starling Cage",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_MQ02_S10",
@@ -517,89 +522,89 @@
       "ID": "DR_NEMBREST",
       "SetID": "dco973l",
       "Name": "Gateway",
-      "Percentage": 60,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "DR_PLAYER_COINS_5000",
       "SetID": "dco973l",
       "Name": "Damn, these rafts are expensive",
-      "Percentage": 60,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_POTION_FIRST",
       "SetID": "dco973l",
       "Name": "One for all",
-      "Percentage": 40,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "DR_RESPAWN",
       "SetID": "dco973l",
       "Name": "This is not the end",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_RIVER_CAVE_VISIT",
       "SetID": "dco973l",
       "Name": "River cave",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_RIVER_END",
       "SetID": "dco973l",
       "Name": "At the end of the world",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_RIVER_GATE",
       "SetID": "dco973l",
       "Name": "The river we choose",
-      "Percentage": 40,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_RIVER_GATE_L1_USED",
       "SetID": "dco973l",
       "Name": "Meadows",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_RIVER_GATE_L2_USED",
       "SetID": "dco973l",
       "Name": "Swamplands",
-      "Percentage": 0,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_RIVER_GATE_L3_USED",
       "SetID": "dco973l",
       "Name": "Deadlands",
-      "Percentage": 20,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_RIVER_WORM_KILLED",
       "SetID": "dco973l",
       "Name": "Riverworm",
-      "Percentage": 60,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "DR_RUINS_CLEARED",
@@ -613,39 +618,39 @@
       "ID": "DR_RUINS_VISIT",
       "SetID": "dco973l",
       "Name": "Old ruins",
-      "Percentage": 60,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "DR_SAILBOAT_SINK_PROG",
       "SetID": "dco973l",
       "Name": "Sailboat",
-      "Percentage": 60,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_SETTLEMENT_PROG",
       "SetID": "dco973l",
       "Name": "River trip",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_SKILL_FIRST",
       "SetID": "dco973l",
       "Name": "Where do we start",
-      "Percentage": 20,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_SKILL_S01",
       "SetID": "dco973l",
       "Name": "Purple Puke",
-      "Percentage": 40,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -653,7 +658,7 @@
       "ID": "DR_SKILL_S02",
       "SetID": "dco973l",
       "Name": "Hail of Arrows",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -661,7 +666,7 @@
       "ID": "DR_SKILL_S03",
       "SetID": "dco973l",
       "Name": "No one hides",
-      "Percentage": 40,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -669,7 +674,7 @@
       "ID": "DR_SKILL_S04",
       "SetID": "dco973l",
       "Name": "Curse",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -685,15 +690,15 @@
       "ID": "DR_SKILL_S06",
       "SetID": "dco973l",
       "Name": "Rise",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_SKILL_S07",
       "SetID": "dco973l",
       "Name": "Lightning",
-      "Percentage": 40,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -701,7 +706,7 @@
       "ID": "DR_SKILL_S08",
       "SetID": "dco973l",
       "Name": "Firestorm",
-      "Percentage": 40,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -709,7 +714,7 @@
       "ID": "DR_SKILL_S09",
       "SetID": "dco973l",
       "Name": "Phoenix",
-      "Percentage": 60,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -717,7 +722,7 @@
       "ID": "DR_SKILL_S10",
       "SetID": "dco973l",
       "Name": "Thorn",
-      "Percentage": 40,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -725,7 +730,7 @@
       "ID": "DR_SKILL_S11",
       "SetID": "dco973l",
       "Name": "Maelstrom",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -733,7 +738,7 @@
       "ID": "DR_SKILL_S12",
       "SetID": "dco973l",
       "Name": "From the Depth",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -749,15 +754,15 @@
       "ID": "DR_SKREL_DESIS_TOWER",
       "SetID": "dco973l",
       "Name": "What a sight",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_SKREL_DESIS_TOWER_NOT",
       "SetID": "dco973l",
       "Name": "No Sightseeing",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -765,33 +770,33 @@
       "ID": "DR_SMITH_VISIT",
       "SetID": "dco973l",
       "Name": "Smithy",
-      "Percentage": 20,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "DR_STEAMBOAT_SINK_PROG",
       "SetID": "dco973l",
       "Name": "Steamboat",
-      "Percentage": 60,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_STONES_DEADLANDS",
       "SetID": "dco973l",
       "Name": "Deadlands Cleared",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_STONES_MEADOWS",
       "SetID": "dco973l",
       "Name": "Meadows Cleared",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DR_STONES_SWAMPLANDS",
@@ -805,79 +810,79 @@
       "ID": "DR_TOD_DAY_PASSED_01",
       "SetID": "dco973l",
       "Name": "First day",
-      "Percentage": 60,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "DR_TOD_SEASON_AUTUMN",
       "SetID": "dco973l",
       "Name": "Autumn",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DR_TOD_SEASON_SPRING",
       "SetID": "dco973l",
       "Name": "Spring",
-      "Percentage": 20,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_TOD_SEASON_SUMMER",
       "SetID": "dco973l",
       "Name": "Summer",
-      "Percentage": 20,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_TOD_SEASON_WINTER",
       "SetID": "dco973l",
       "Name": "Winter",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_TOD_YEAR_PASSED_01",
       "SetID": "dco973l",
       "Name": "First year",
-      "Percentage": 20,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "DR_TOWER_SINK_PROG",
       "SetID": "dco973l",
       "Name": "Siege Tower",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "DR_TRADER_NO_COIN",
       "SetID": "dco973l",
       "Name": "Empty bag",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "DR_TRADER_VISIT",
       "SetID": "dco973l",
       "Name": "Look at my wares",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "DR_TRAVEL_LAND_100KM",
       "SetID": "dco973l",
       "Name": "Hike",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -885,9 +890,9 @@
       "ID": "DR_TRAVEL_RIVER_250KM",
       "SetID": "dco973l",
       "Name": "Boat trip",
-      "Percentage": 60,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "DR_UNDERWORLD_GATE_01",
@@ -926,14 +931,14 @@
     {
       "ID": "dco973l",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-20T18:58:12.3406439+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.2028406+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:29.2028329+00:00",
+  "LastChanged_Achievements": "2024-04-08T15:01:36.6193172+00:00",
   "LastUpdate_AppInfo": "2024-04-01T17:57:08.6895429+00:00",
-  "LastUpdate_Ratings": "2024-04-08T13:02:37.2157667+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:29.2037518+00:00"
+  "LastUpdate_Ratings": "2024-04-08T14:57:32.9044751+00:00",
+  "LastUpdate_Achievements": "2024-04-08T15:01:36.6199321+00:00"
 }

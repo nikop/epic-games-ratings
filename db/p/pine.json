@@ -2,10 +2,10 @@
   "ID": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
   "Name": "Pine",
   "ProductSlug": "pine",
-  "Ranking_Rating": 1058,
+  "Ranking_Rating": 1050,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
-  "Ranking_EOS_Progress": 954,
+  "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.15,
   "NumberOfRatings": 694,
   "RatingHistory": [
     {
@@ -602,6 +602,12 @@
       "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-08T14:58:19.2985037+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -619,8 +625,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:31.2285518+00:00",
-  "LastChanged": "2024-02-16T16:00:22.9515388+00:00",
+  "LastChanged": "2024-04-08T14:58:19.2985035+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:12.0645053+00:00",
-  "LastUpdate_Ratings": "2024-04-08T13:03:43.3556925+00:00",
+  "LastUpdate_Ratings": "2024-04-08T14:58:19.2985041+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:17.8059809+00:00"
 }

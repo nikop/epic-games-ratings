@@ -2,7 +2,7 @@
   "ID": "87de7c0aad7944899fb6d2b05e13b108",
   "Name": "LISA: The Joyful - Definitive Edition",
   "ProductSlug": "lisa-the-joyful-219c24",
-  "Ranking_EOS_Progress": 954,
+  "Ranking_EOS_Progress": 807,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -23,16 +23,114 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-08T15:01:32.5409746+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-04-08T15:01:32.5421279+00:00",
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "00_buzzoisdone",
+      "SetID": "clh7ekf",
+      "Name": "Lisa",
+      "Percentage": 40,
+      "XP": 200,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "01_w2d",
+      "SetID": "clh7ekf",
+      "Name": "The Beat Never Dies.",
+      "Percentage": 20,
+      "XP": 45,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "02_joymask",
+      "SetID": "clh7ekf",
+      "Name": "Joy.",
+      "Percentage": 40,
+      "XP": 45,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "03_randomask",
+      "SetID": "clh7ekf",
+      "Name": "Rando.",
+      "Percentage": 80,
+      "XP": 45,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "04_hintmask",
+      "SetID": "clh7ekf",
+      "Name": "Fan Club.",
+      "Percentage": 60,
+      "XP": 45,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "05_green",
+      "SetID": "clh7ekf",
+      "Name": "No Friends.",
+      "Percentage": 20,
+      "XP": 45,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "06_yado",
+      "SetID": "clh7ekf",
+      "Name": "Yado.",
+      "Percentage": 20,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "07_marty",
+      "SetID": "clh7ekf",
+      "Name": "Father",
+      "Percentage": 40,
+      "XP": 200,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "08_lisa",
+      "SetID": "clh7ekf",
+      "Name": "The Source",
+      "Percentage": 20,
+      "XP": 130,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "09_brad",
+      "SetID": "clh7ekf",
+      "Name": "I\u0027m Sorry",
+      "Percentage": 20,
+      "XP": 45,
+      "UsersEstimate": 1
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "clh7ekf",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-04-08T15:01:32.5421278+00:00",
+  "LastChanged_Achievements": "2024-04-08T15:01:32.5409736+00:00",
   "LastUpdate_AppInfo": "2024-04-05T18:57:02.5772795+00:00",
-  "LastUpdate_Ratings": "2024-04-08T13:59:16.3137191+00:00"
+  "LastUpdate_Ratings": "2024-04-08T13:59:16.3137191+00:00",
+  "LastUpdate_Achievements": "2024-04-08T15:01:32.5733901+00:00"
 }

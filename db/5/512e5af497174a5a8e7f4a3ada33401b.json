@@ -1,7 +1,7 @@
 {
   "ID": "512e5af497174a5a8e7f4a3ada33401b",
   "Name": null,
-  "Ranking_EOS_Progress": 954,
+  "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -27,6 +27,6 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_Ratings": "2024-04-08T13:01:59.1038503+00:00",
+  "LastUpdate_Ratings": "2024-04-08T14:57:05.9989243+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:11:20.3827781+00:00"
 }

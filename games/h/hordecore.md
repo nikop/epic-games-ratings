@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 98.00% | ~364 |
-| Decision Maker | 81.00% | ~301 |
-| Sneaky Sneak | 77.00% | ~286 |
-| DIY | 77.00% | ~286 |
-| Master Chef | 66.00% | ~245 |
-| Master of Cards | 58.00% | ~215 |
-| Over Nine Thousaaand | 56.00% | ~208 |
-| Getting the Hang Of This | 48.00% | ~178 |
-| Collector | 29.00% | ~108 |
-| Blow ‘Em Up | 22.00% | ~82 |
-| That’s What Friends Are For | 21.00% | ~78 |
-| Poker-Man | 20.00% | ~74 |
-| FOR THE GAUNTLET! | 20.00% | ~74 |
-| Untapped Potential | 18.00% | ~67 |
-| Size Doesn’t Matter | 13.00% | ~48 |
-| Played by Gramps | 13.00% | ~48 |
-| Totally Swamped | 12.00% | ~45 |
+| Just Went Shopping | 98.00% | ~369 |
+| Decision Maker | 81.00% | ~305 |
+| Sneaky Sneak | 77.00% | ~290 |
+| DIY | 77.00% | ~290 |
+| Master Chef | 66.00% | ~249 |
+| Master of Cards | 57.00% | ~215 |
+| Over Nine Thousaaand | 56.00% | ~211 |
+| Getting the Hang Of This | 48.00% | ~181 |
+| Collector | 28.00% | ~106 |
+| That’s What Friends Are For | 22.00% | ~83 |
+| Blow ‘Em Up | 22.00% | ~83 |
+| Poker-Man | 20.00% | ~75 |
+| FOR THE GAUNTLET! | 20.00% | ~75 |
+| Untapped Potential | 18.00% | ~68 |
+| My Savior! | 13.00% | ~49 |
+| Played by Gramps | 13.00% | ~49 |
+| Size Doesn’t Matter | 12.00% | ~45 |
 | I Choo-Choo-Choose You | 12.00% | ~45 |
-| My Savior! | 12.00% | ~45 |
-| Is Anyone Out There? | 11.00% | ~41 |
-| Limitless | 10.00% | ~37 |
-| Hammer Time | 10.00% | ~37 |
-| Hired Goon | 6.00% | ~22 |
-| Holy Scrap! | 6.00% | ~22 |
+| Totally Swamped | 11.00% | ~41 |
+| Limitless | 10.00% | ~38 |
+| Hammer Time | 10.00% | ~38 |
+| Is Anyone Out There? | 10.00% | ~38 |
+| Hired Goon | 6.00% | ~23 |
+| Holy Scrap! | 6.00% | ~23 |
 | How I Met Your Nana | 4.00% | ~15 |
-| KOBEEE! | 4.00% | ~15 |
 | Lord of the Wastes | 3.00% | ~11 |
 | Through Hell and Back | 3.00% | ~11 |
+| KOBEEE! | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371 (Ranked 425)  
-Completed: 11 (2.96%) (Ranked 127)  
+Progressed: 377 (Ranked 425)  
+Completed: 11 (2.92%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,6 +76,7 @@ Completed: 11 (2.96%) (Ranked 127)
 | 2024-01-01 | 364 | 11 |
 | 2024-02-22 | 368 | 11 |
 | 2024-03-21 | 371 | 11 |
+| 2024-04-08 | 377 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

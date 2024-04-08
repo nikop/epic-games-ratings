@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tough Decision | 90.00% | ~892 |
-| Blast From The Past | 82.00% | ~813 |
-| Kamikaze | 63.00% | ~624 |
-| The Rebel And The Doctor | 55.00% | ~545 |
-| Free Champagne | 49.00% | ~486 |
-| Beat It | 47.00% | ~466 |
-| Storage Hunter | 46.00% | ~456 |
-| Falling For You | 42.00% | ~416 |
-| Trust Me For Once | 25.00% | ~248 |
-| Lab Rat | 24.00% | ~238 |
-| Stalemate | 23.00% | ~228 |
-| Kindar Surprise | 16.00% | ~159 |
-| Deadly Secret | 12.00% | ~119 |
-| MVP - Most Vanishing Person | 12.00% | ~119 |
-| Get Out Of This Alive | 9.00% | ~89 |
-| The Promise | 8.00% | ~79 |
-| People Pleaser | 8.00% | ~79 |
-| The Nano Glitches And The Martyr | 6.00% | ~59 |
-| Second Chances | 6.00% | ~59 |
+| Tough Decision | 91.00% | ~925 |
+| Blast From The Past | 82.00% | ~833 |
+| Kamikaze | 63.00% | ~640 |
+| The Rebel And The Doctor | 55.00% | ~559 |
+| Free Champagne | 49.00% | ~498 |
+| Beat It | 47.00% | ~478 |
+| Storage Hunter | 46.00% | ~467 |
+| Falling For You | 42.00% | ~427 |
+| Lab Rat | 25.00% | ~254 |
+| Trust Me For Once | 25.00% | ~254 |
+| Stalemate | 23.00% | ~234 |
+| Kindar Surprise | 17.00% | ~173 |
+| Deadly Secret | 12.00% | ~122 |
+| MVP - Most Vanishing Person | 12.00% | ~122 |
+| Get Out Of This Alive | 9.00% | ~91 |
+| The Promise | 8.00% | ~81 |
+| People Pleaser | 8.00% | ~81 |
+| The Nano Glitches And The Martyr | 6.00% | ~61 |
+| Second Chances | 6.00% | ~61 |
 | Not A People Person | 3.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 991 (Ranked 336)  
-Completed: 22 (2.22%) (Ranked 150)  
+Progressed: 1,016 (Ranked 335)  
+Completed: 22 (2.17%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,6 +208,7 @@ Completed: 22 (2.22%) (Ranked 150)
 | 2024-01-26 | 878 | 22 |
 | 2024-02-22 | 944 | 22 |
 | 2024-03-21 | 991 | 22 |
+| 2024-04-08 | 1,016 | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

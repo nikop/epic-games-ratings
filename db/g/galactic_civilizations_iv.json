@@ -5,7 +5,7 @@
   "Ranking_Rating": 1035,
   "Ranking_Popularity": 407,
   "Ranking_PopularitySum": 328,
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -1023,7 +1023,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7744,
+  "EOS_Progressed": 7784,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -10038,6 +10038,11 @@
       "Time": "2024-03-21T17:11:39.5495771+00:00",
       "NumProgressed": 7744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-08T15:04:11.4291376+00:00",
+      "NumProgressed": 7784,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -10047,25 +10052,25 @@
       "ID": "10000_Credits",
       "SetID": "4h07amh",
       "Name": "Solid Economy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 234
     },
     {
       "ID": "30_Citizens",
       "SetID": "4h07amh",
       "Name": "Ask Not What Your Empire Can Do For You",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 467
     },
     {
       "ID": "Buy_10_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Trader - Level 2",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 234
     },
     {
       "ID": "Buy_30_Resource",
@@ -10073,7 +10078,7 @@
       "Name": "Commodity Guru",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Buy_Resource",
@@ -10081,15 +10086,15 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2335
     },
     {
       "ID": "Collect_15_Anomalies",
       "SetID": "4h07amh",
       "Name": "Anomaly Researcher",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4748
     },
     {
       "ID": "Control_All_Relics",
@@ -10097,7 +10102,7 @@
       "Name": "Relic Hoarder",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Destroy_8_Pirate_Bases",
@@ -10105,7 +10110,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -10113,7 +10118,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2413
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -10129,7 +10134,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2413
     },
     {
       "ID": "First_Major_Ally",
@@ -10137,7 +10142,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 467
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -10153,7 +10158,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5963
+      "UsersEstimate": 5994
     },
     {
       "ID": "First_Race_Met",
@@ -10161,7 +10166,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5604
     },
     {
       "ID": "First_Ship_Designed",
@@ -10169,7 +10174,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 2168
+      "UsersEstimate": 2180
     },
     {
       "ID": "First_Stream_Travel",
@@ -10177,7 +10182,7 @@
       "Name": "Hyperspace!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 389
     },
     {
       "ID": "First_Worker_Specialization",
@@ -10185,7 +10190,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5963
+      "UsersEstimate": 5994
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10241,15 +10246,15 @@
       "Name": "Trading Partner",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 778
     },
     {
       "ID": "Level_5_Ship",
       "SetID": "4h07amh",
       "Name": "Veteran Crew",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 467
     },
     {
       "ID": "Minor_Civ_Quest",
@@ -10265,7 +10270,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2569
     },
     {
       "ID": "Play_1000_Hours",
@@ -10297,7 +10302,7 @@
       "Name": "Play a Multiplayer Game",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Rebuild_The_Retribution",
@@ -10305,7 +10310,7 @@
       "Name": "Rebuild the Retribution",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Recapture_Home_Planet",
@@ -10321,23 +10326,23 @@
       "Name": "Recruit a Dozen Leaders",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "Recruit_Leader",
       "SetID": "4h07amh",
       "Name": "Recruit a Leader",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 701
     },
     {
       "ID": "Sell_10_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Seller, Level 2",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 234
     },
     {
       "ID": "Sell_30_Resource",
@@ -10345,7 +10350,7 @@
       "Name": "Commodity Selling Guru",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Sell_Resource",
@@ -10353,23 +10358,23 @@
       "Name": "Commodity Seller",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1946
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
       "SetID": "4h07amh",
       "Name": "Iconia Reclaimed!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4748
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10377,7 +10382,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "War_With_5_Factions",
@@ -10385,7 +10390,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 774
+      "UsersEstimate": 778
     },
     {
       "ID": "War_Without_Translator",
@@ -10393,7 +10398,7 @@
       "Name": "War with the Unknown",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 467
     },
     {
       "ID": "Win_As_Altarian",
@@ -10401,7 +10406,7 @@
       "Name": "Win as Altarians",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Win_As_Arcean",
@@ -10417,7 +10422,7 @@
       "Name": "Win as the Baratak",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Win_As_Drath",
@@ -10425,7 +10430,7 @@
       "Name": "Win as the Drath",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Win_As_Drengin",
@@ -10457,7 +10462,7 @@
       "Name": "Win as the Iridium",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Win_As_Krynn",
@@ -10473,7 +10478,7 @@
       "Name": "Win as the Manti",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Win_As_Mimot",
@@ -10481,7 +10486,7 @@
       "Name": "Win as the Mimot",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Win_As_Navigators",
@@ -10497,7 +10502,7 @@
       "Name": "Win as the Onyx",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Win_As_Terran",
@@ -10505,7 +10510,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 545
     },
     {
       "ID": "Win_As_Torian",
@@ -10529,7 +10534,7 @@
       "Name": "Win as the Yor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Win_Battle",
@@ -10537,15 +10542,15 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5060
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
       "SetID": "4h07amh",
       "Name": "Fleet Victory",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 701
     },
     {
       "ID": "Win_Conquest",
@@ -10553,7 +10558,7 @@
       "Name": "Conquest Victory!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Win_CustomFaction",
@@ -10561,7 +10566,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 465
+      "UsersEstimate": 467
     },
     {
       "ID": "Win_Diplomacy",
@@ -10569,7 +10574,7 @@
       "Name": "Diplomatic Victory!",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Win_ImmenseMap",
@@ -10577,7 +10582,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "Win_Influence",
@@ -10585,7 +10590,7 @@
       "Name": "Influence Victory!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Win_Multiplayer",
@@ -10601,15 +10606,15 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1012
     },
     {
       "ID": "Win_Quickly",
       "SetID": "4h07amh",
       "Name": "Win Quickly",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 389
     },
     {
       "ID": "Win_Research",
@@ -10624,15 +10629,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7744,
+      "Progressed": 7784,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-03-30T09:56:59.1981611+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:39.5495765+00:00",
+  "LastChanged_Achievements": "2024-04-08T15:04:11.4291372+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:07.5364803+00:00",
-  "LastUpdate_Ratings": "2024-04-08T13:02:28.7654941+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:39.5496791+00:00"
+  "LastUpdate_Ratings": "2024-04-08T14:57:27.1916947+00:00",
+  "LastUpdate_Achievements": "2024-04-08T15:04:11.4292209+00:00"
 }

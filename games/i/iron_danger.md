@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 82.00% | ~343 |
-| Found the Healer | 33.00% | ~138 |
-| Second Shard | 9.00% | ~38 |
-| Champion of Kalevala | 7.00% | ~29 |
-| Death is Merely a Setback | 7.00% | ~29 |
-| Berry Nice | 6.00% | ~25 |
-| Keyu Exterminator | 6.00% | ~25 |
-| Ring of Fire! | 6.00% | ~25 |
-| Third Shard | 6.00% | ~25 |
-| Fourth Shard | 5.00% | ~21 |
-| Big Fish | 4.00% | ~17 |
-| Tastes Like Chicken | 4.00% | ~17 |
-| Fifth Shard | 4.00% | ~17 |
-| Bird Butcherer | 3.00% | ~13 |
-| Mushroom Forager | 2.00% | ~8 |
-| Good Stew | 2.00% | ~8 |
-| Green Thumb | 2.00% | ~8 |
-| Avian Veterinarian | 2.00% | ~8 |
-| Finished Iron Danger | 2.00% | ~8 |
-| Knock, Knock! | 1.00% | ~4 |
-| Natural Selection | 1.00% | ~4 |
-| Trolled | 1.00% | ~4 |
-| Troll Hunter | 1.00% | ~4 |
+| First Shard | 81.00% | ~367 |
+| Found the Healer | 32.00% | ~145 |
+| Second Shard | 8.00% | ~36 |
+| Champion of Kalevala | 6.00% | ~27 |
+| Keyu Exterminator | 6.00% | ~27 |
+| Death is Merely a Setback | 6.00% | ~27 |
+| Ring of Fire! | 6.00% | ~27 |
+| Third Shard | 6.00% | ~27 |
+| Berry Nice | 5.00% | ~23 |
+| Fourth Shard | 5.00% | ~23 |
+| Big Fish | 4.00% | ~18 |
+| Tastes Like Chicken | 4.00% | ~18 |
+| Fifth Shard | 4.00% | ~18 |
+| Mushroom Forager | 2.00% | ~9 |
+| Good Stew | 2.00% | ~9 |
+| Green Thumb | 2.00% | ~9 |
+| Avian Veterinarian | 2.00% | ~9 |
+| Bird Butcherer | 2.00% | ~9 |
+| Finished Iron Danger | 2.00% | ~9 |
+| Natural Selection | 1.00% | ~5 |
+| Knock, Knock! | 0.90% | ~4 |
+| Trolled | 0.90% | ~4 |
+| Troll Hunter | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 418 (Ranked 412)  
-Completed: 4 (0.96%) (Ranked 209)  
+Progressed: 453 (Ranked 404)  
+Completed: 4 (0.88%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,6 +160,7 @@ Completed: 4 (0.96%) (Ranked 209)
 | 2024-01-23 | 353 | 4 |
 | 2024-02-22 | 381 | 4 |
 | 2024-03-21 | 418 | 4 |
+| 2024-04-08 | 453 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

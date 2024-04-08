@@ -70,7 +70,7 @@ Rating: 4.78 (Ranked 112)
 | Homo Faber | 0.10% | ~4,159 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,159,366 (Ranked 4)  
-Completed: 2,381 (0.06%) (Ranked 372)  
+Completed: 2,381 (0.06%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

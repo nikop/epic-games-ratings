@@ -5,7 +5,7 @@
   "Ranking_Rating": 701,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 2,
@@ -227,11 +227,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3158,
-  "EOS_Completed": 221,
+  "EOS_Progressed": 3191,
+  "EOS_Completed": 224,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7,
+  "EOS_Completed_Percentage": 7.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -5472,6 +5472,11 @@
       "Time": "2024-03-21T17:09:23.9061819+00:00",
       "NumProgressed": 3158,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2024-04-08T15:03:11.3250509+00:00",
+      "NumProgressed": 3191,
+      "NumCompleted": 224
     }
   ],
   "TotalAchievements": 12,
@@ -5483,7 +5488,7 @@
       "Name": "001",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 347
+      "UsersEstimate": 351
     },
     {
       "ID": "002",
@@ -5491,7 +5496,7 @@
       "Name": "002",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 600
+      "UsersEstimate": 606
     },
     {
       "ID": "003",
@@ -5499,7 +5504,7 @@
       "Name": "003",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 695
+      "UsersEstimate": 702
     },
     {
       "ID": "004",
@@ -5507,7 +5512,7 @@
       "Name": "004",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 632
+      "UsersEstimate": 638
     },
     {
       "ID": "005",
@@ -5515,7 +5520,7 @@
       "Name": "005",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 600
+      "UsersEstimate": 606
     },
     {
       "ID": "006",
@@ -5523,7 +5528,7 @@
       "Name": "006",
       "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 411
+      "UsersEstimate": 415
     },
     {
       "ID": "007",
@@ -5531,7 +5536,7 @@
       "Name": "007",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 379
+      "UsersEstimate": 383
     },
     {
       "ID": "008",
@@ -5539,55 +5544,55 @@
       "Name": "008",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 347
+      "UsersEstimate": 351
     },
     {
       "ID": "009",
       "SetID": "94k0mj8",
       "Name": "009",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 316
+      "UsersEstimate": 351
     },
     {
       "ID": "010",
       "SetID": "94k0mj8",
       "Name": "010",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 316
+      "UsersEstimate": 351
     },
     {
       "ID": "011",
       "SetID": "94k0mj8",
       "Name": "011",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 316
+      "UsersEstimate": 351
     },
     {
       "ID": "012",
       "SetID": "94k0mj8",
       "Name": "012",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 316
+      "UsersEstimate": 351
     }
   ],
   "AchievementSets": [
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 3158,
-      "Completed": 221
+      "Progressed": 3191,
+      "Completed": 224
     }
   ],
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2024-02-22T20:57:35.7197626+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:23.9061813+00:00",
+  "LastChanged_Achievements": "2024-04-08T15:03:11.3250504+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:41.454201+00:00",
-  "LastUpdate_Ratings": "2024-04-08T13:58:02.5042809+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:23.9062181+00:00"
+  "LastUpdate_Ratings": "2024-04-08T14:59:09.7121013+00:00",
+  "LastUpdate_Achievements": "2024-04-08T15:03:11.3250878+00:00"
 }

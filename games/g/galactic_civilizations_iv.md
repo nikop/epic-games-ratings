@@ -6,46 +6,46 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,963 |
-| Worker Specialization | 77.00% | ~5,963 |
-| First Contact | 72.00% | ~5,576 |
-| Win a Battle | 65.00% | ~5,034 |
-| Anomaly Researcher | 60.00% | ~4,646 |
-| Unleash My Power | 60.00% | ~4,646 |
-| Own 30 Planets | 33.00% | ~2,556 |
-| Xenocide | 31.00% | ~2,401 |
-| Design a Civilization | 31.00% | ~2,401 |
-| Commodity Trader | 30.00% | ~2,323 |
-| Design a Ship | 28.00% | ~2,168 |
-| Commodity Seller | 25.00% | ~1,936 |
-| Prestige Victory! | 13.00% | ~1,007 |
-| Trading Partner | 10.00% | ~774 |
-| Galactic War | 10.00% | ~774 |
-| Recruit a Leader | 8.00% | ~620 |
-| Fleet Victory | 8.00% | ~620 |
-| Win as Terrans | 7.00% | ~542 |
-| Gain an Ally | 6.00% | ~465 |
-| War with the Unknown | 6.00% | ~465 |
-| Win with a Custom Faction | 6.00% | ~465 |
-| Ask Not What Your Empire Can Do For You | 5.00% | ~387 |
-| Hyperspace! | 5.00% | ~387 |
-| Veteran Crew | 5.00% | ~387 |
-| Conquest Victory! | 4.00% | ~310 |
-| Win Quickly | 4.00% | ~310 |
-| Pirate Cleansing | 3.00% | ~232 |
-| Recruit a Dozen Leaders | 3.00% | ~232 |
-| Artifact Mastery | 3.00% | ~232 |
-| Win an Immense Game | 3.00% | ~232 |
-| Solid Economy | 2.00% | ~155 |
-| Commodity Trader - Level 2 | 2.00% | ~155 |
-| Commodity Guru | 2.00% | ~155 |
-| Commodity Seller, Level 2 | 2.00% | ~155 |
-| Commodity Selling Guru | 2.00% | ~155 |
-| Win as Altarians | 2.00% | ~155 |
-| Win as the Yor | 2.00% | ~155 |
-| Influence Victory! | 2.00% | ~155 |
-| Win as the Baratak | 1.00% | ~77 |
-| Win as the Mimot | 1.00% | ~77 |
+| Colonize a Planet | 77.00% | ~5,994 |
+| Worker Specialization | 77.00% | ~5,994 |
+| First Contact | 72.00% | ~5,604 |
+| Win a Battle | 65.00% | ~5,060 |
+| Anomaly Researcher | 61.00% | ~4,748 |
+| Unleash My Power | 61.00% | ~4,748 |
+| Own 30 Planets | 33.00% | ~2,569 |
+| Xenocide | 31.00% | ~2,413 |
+| Design a Civilization | 31.00% | ~2,413 |
+| Commodity Trader | 30.00% | ~2,335 |
+| Design a Ship | 28.00% | ~2,180 |
+| Commodity Seller | 25.00% | ~1,946 |
+| Prestige Victory! | 13.00% | ~1,012 |
+| Trading Partner | 10.00% | ~778 |
+| Galactic War | 10.00% | ~778 |
+| Recruit a Leader | 9.00% | ~701 |
+| Fleet Victory | 9.00% | ~701 |
+| Win as Terrans | 7.00% | ~545 |
+| Ask Not What Your Empire Can Do For You | 6.00% | ~467 |
+| Gain an Ally | 6.00% | ~467 |
+| Veteran Crew | 6.00% | ~467 |
+| War with the Unknown | 6.00% | ~467 |
+| Win with a Custom Faction | 6.00% | ~467 |
+| Hyperspace! | 5.00% | ~389 |
+| Win Quickly | 5.00% | ~389 |
+| Conquest Victory! | 4.00% | ~311 |
+| Solid Economy | 3.00% | ~234 |
+| Commodity Trader - Level 2 | 3.00% | ~234 |
+| Pirate Cleansing | 3.00% | ~234 |
+| Recruit a Dozen Leaders | 3.00% | ~234 |
+| Commodity Seller, Level 2 | 3.00% | ~234 |
+| Artifact Mastery | 3.00% | ~234 |
+| Win an Immense Game | 3.00% | ~234 |
+| Commodity Guru | 2.00% | ~156 |
+| Commodity Selling Guru | 2.00% | ~156 |
+| Win as Altarians | 2.00% | ~156 |
+| Win as the Yor | 2.00% | ~156 |
+| Influence Victory! | 2.00% | ~156 |
+| Win as the Baratak | 1.00% | ~78 |
+| Win as the Mimot | 1.00% | ~78 |
 | Win as Arceans | 0.90% | ~70 |
 | Win as Festron | 0.90% | ~70 |
 | Win as the Navigators | 0.90% | ~70 |
@@ -53,17 +53,17 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Torians | 0.80% | ~62 |
 | Win as the Drengin | 0.70% | ~54 |
 | Win as Xeloxi | 0.70% | ~54 |
-| Win as the Drath | 0.60% | ~46 |
-| Win as the Iridium | 0.60% | ~46 |
-| Win as the Manti | 0.60% | ~46 |
-| Win as the Onyx | 0.60% | ~46 |
-| Diplomatic Victory! | 0.60% | ~46 |
+| Win as the Drath | 0.60% | ~47 |
+| Win as the Iridium | 0.60% | ~47 |
+| Win as the Manti | 0.60% | ~47 |
+| Win as the Onyx | 0.60% | ~47 |
+| Diplomatic Victory! | 0.60% | ~47 |
 | Win as the Iconians | 0.50% | ~39 |
 | The Plague | 0.40% | ~31 |
-| Relic Hoarder | 0.20% | ~15 |
-| Play a Multiplayer Game | 0.20% | ~15 |
-| Rebuild the Retribution | 0.20% | ~15 |
-| Iconia Reclaimed! | 0.20% | ~15 |
+| Iconia Reclaimed! | 0.30% | ~23 |
+| Relic Hoarder | 0.20% | ~16 |
+| Play a Multiplayer Game | 0.20% | ~16 |
+| Rebuild the Retribution | 0.20% | ~16 |
 | Yor Dead Iconians | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
 | Against the Tide | 0.10% | ~8 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,744 (Ranked 212)  
+Progressed: 7,784 (Ranked 211)  
 Completed: 0 (0.00%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,6 +363,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 7,598 | 0 |
 | 2024-02-22 | 7,681 | 0 |
 | 2024-03-21 | 7,744 | 0 |
+| 2024-04-08 | 7,784 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 407)  
 Sum: 703 (Ranked 328)  
