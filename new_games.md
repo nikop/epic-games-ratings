@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 2024-04-08 | - |  | - | - |
+| [Might & Magic: Heroes VI](games/8/818d9be07fb64277a061245a24035c48.md) | 2024-04-08 | - |  | - | - |
 | [URBO](games/c/cd7de0977e0f4f7f8468653789569766.md) | 2024-04-08 | 29 (1,000 XP) | 0 | - | - |
 | [Heavy Burden](games/8/8e0b8a0109344a60b68732503eb9c201.md) | 2024-04-07 | - |  | - | - |
 | [Pandemic Train](games/2/24cebb527f344974902781bd33087ee8.md) | 2024-04-05 | - |  | - | - |
@@ -9,9 +11,8 @@
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | - |  | - | - |
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | - |  | - | - |
 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 3 | - | 0 |
-| [Might & Magic: Heroes VI](games/8/818d9be07fb64277a061245a24035c48.md) | 2024-04-04 | - |  | - | - |
 | [Divine Rush](games/c/c2a984900e22447d972c96e65a62da2e.md) | 2024-04-04 | - |  | - | 0 |
-| [Vacation Adventures Park Ranger 9 Collectors Edition](games/6/665e6a3aa3c046ceaa6500638889b4ee.md) | 2024-04-04 | - |  | - | - |
+| [Vacation Adventures Park Ranger 9 Collectors Edition](games/6/665e6a3aa3c046ceaa6500638889b4ee.md) | 2024-04-04 | - |  | - | 0 |
 | [Apartment Of Death](games/a/a289e2f87380496290f9be28b5a277f6.md) | 2024-04-04 | - |  | - | - |
 | [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | - |  | - | - |
 | [Basima The Private Investigator](games/3/3a4a182b8e2d4e318a070f7d1726482b.md) | 2024-04-03 | - |  | - | - |
@@ -79,7 +80,7 @@
 | [BattleJuice Alchemist](games/1/148264e2cdc74c22a95cc6010533fe31.md) | 2024-03-21 | - |  | - | - |
 | [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-21 | 23 (1,000 XP) | 10 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 1 | - | 0 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 33 | 4.78 | 127 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 33 | 4.78 | 135 |
 | [Shrimp.io](games/4/475a45d75d3c47819dea0e5bffcfdd4b.md) | 2024-03-21 | - |  | - | 0 |
 | [Vacation Adventures Park Ranger 13 Collectors Edition](games/9/939425a921b249b2b3c18c2972bcf996.md) | 2024-03-21 | - |  | - | 0 |
 | [Kneedle Knight](games/0/04826f20ceb04ea0b4119ad49d6db976.md) | 2024-03-21 | - |  | - | 0 |
