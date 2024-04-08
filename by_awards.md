@@ -23,7 +23,7 @@
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,486 | 4.57 | 511 |
 | 22 | [Warframe](games/w/warframe.md) | 23,005 | 4.61 | 416 |
 | 23 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,959 | 4.26 | 962 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 17,373 | 4.76 | 140 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 17,387 | 4.76 | 140 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,368 | 4.60 | 447 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 16,824 | 4.87 | 19 |
 | 27 | [SnowRunner](games/s/snowrunner.md) | 16,531 | 4.75 | 149 |
@@ -114,11 +114,11 @@
 | 112 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,591 | 4.77 | 121 |
 | 113 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,078 |
 | 114 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,504 | 4.71 | 206 |
-| 115 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,491 | 4.14 | 1,058 |
+| 115 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,491 | 4.14 | 1,059 |
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,438 | 4.76 | 140 |
 | 117 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,428 | 4.63 | 376 |
 | 118 | [Ghostrunner](games/g/ghostrunner.md) | 2,427 | 4.56 | 528 |
-| 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,414 | 4.81 | 79 |
+| 119 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,420 | 4.81 | 79 |
 | 120 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,372 | 4.67 | 289 |
 | 121 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,368 | 4.55 | 550 |
 | 122 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,292 | 4.41 | 783 |
@@ -255,7 +255,7 @@
 | 253 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 398 | 4.61 | 416 |
 | 254 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 385 | 3.99 | 1,108 |
 | 255 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 382 | 4.72 | 198 |
-| 256 | [Railway Empire](games/r/railway_empire.md) | 380 | 4.51 | 619 |
+| 256 | [Railway Empire](games/r/railway_empire.md) | 381 | 4.51 | 619 |
 | 257 | [Dead Cells](games/d/dead_cells.md) | 367 | 4.86 | 29 |
 | 258 | [Inscryption](games/i/inscryption.md) | 366 | 4.87 | 19 |
 | 259 | [The Messenger](games/t/the_messenger.md) | 361 | 4.81 | 79 |
@@ -301,7 +301,7 @@
 | 298 | [Old World](games/o/old_world.md) | 240 | 4.65 | 337 |
 | 300 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 239 | 4.39 | 822 |
 | 300 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 239 | 4.61 | 416 |
-| 302 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 237 | 4.14 | 1,058 |
+| 302 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 237 | 4.14 | 1,059 |
 | 303 | [Crying Suns](games/c/crying_suns.md) | 235 | 4.51 | 619 |
 | 304 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 233 | 4.84 | 43 |
 | 305 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 232 | 4.65 | 337 |
@@ -320,7 +320,7 @@
 | 317 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 212 | 4.52 | 602 |
 | 317 | [Star Stable Online](games/s/star_stable_online.md) | 212 | 4.39 | 822 |
 | 320 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 210 | 4.35 | 862 |
-| 321 | [Relicta](games/r/relicta.md) | 206 | 4.14 | 1,058 |
+| 321 | [Relicta](games/r/relicta.md) | 206 | 4.14 | 1,059 |
 | 321 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 206 | 4.58 | 486 |
 | 323 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 202 | 4.54 | 567 |
 | 324 | [Crashlands](games/c/crashlands.md) | 201 | 4.66 | 315 |
@@ -596,7 +596,7 @@
 | 589 | [Yooka-Laylee](games/y/yooka-laylee.md) | 25 | 4.26 | 962 |
 | 595 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 24 | 4.31 | 911 |
 | 595 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 24 | 4.49 | 659 |
-| 595 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 24 | 4.14 | 1,058 |
+| 595 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 24 | 4.14 | 1,059 |
 | 595 | [Murder by Numbers](games/m/murder_by_numbers.md) | 24 | 4.28 | 936 |
 | 595 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 511 |
 | 600 | [Black Book](games/b/black_book.md) | 23 | 4.64 | 358 |

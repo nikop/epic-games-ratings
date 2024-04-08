@@ -78,7 +78,7 @@
 | 67 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 75 | 443 |
 | 67 | [Star Atlas](games/s/star_atlas.md) | 4.82 | 47 | 501 |
 | 67 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 104 | 395 |
-| 79 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,414 | 119 |
+| 79 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,420 | 119 |
 | 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 628 |
 | 79 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 628 |
 | 79 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 628 |
@@ -140,7 +140,7 @@
 | 121 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 58 | 471 |
 | 121 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 628 |
 | 140 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.76 | 0 | 628 |
-| 140 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,373 | 24 |
+| 140 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,387 | 24 |
 | 140 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,548 | 105 |
 | 140 | [Journey](games/j/journey.md) | 4.76 | 0 | 628 |
 | 140 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,438 | 116 |
@@ -630,7 +630,7 @@
 | 619 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.51 | 0 | 628 |
 | 619 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.51 | 0 | 628 |
 | 619 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 628 |
-| 619 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 380 | 256 |
+| 619 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 381 | 256 |
 | 619 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.51 | 0 | 628 |
 | 619 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 0 | 628 |
 | 619 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 1,073 | 168 |
@@ -1057,18 +1057,18 @@
 | 1,050 | [Fangs](games/f/fangs.md) | 4.15 | 0 | 628 |
 | 1,050 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 28 | 570 |
 | 1,050 | [Model Builder](games/m/model_builder.md) | 4.15 | 0 | 628 |
-| 1,058 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 237 | 302 |
-| 1,058 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.14 | 0 | 628 |
-| 1,058 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.14 | 24 | 595 |
-| 1,058 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 628 |
-| 1,058 | [Pine](games/p/pine.md) | 4.14 | 0 | 628 |
-| 1,058 | [Relicta](games/r/relicta.md) | 4.14 | 206 | 321 |
-| 1,058 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 4.14 | 0 | 628 |
-| 1,058 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.14 | 0 | 628 |
-| 1,058 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.14 | 2,491 | 115 |
-| 1,058 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 628 |
-| 1,058 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.14 | 0 | 628 |
-| 1,058 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 628 |
+| 1,050 | [Pine](games/p/pine.md) | 4.15 | 0 | 628 |
+| 1,059 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.14 | 237 | 302 |
+| 1,059 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.14 | 0 | 628 |
+| 1,059 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.14 | 24 | 595 |
+| 1,059 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 628 |
+| 1,059 | [Relicta](games/r/relicta.md) | 4.14 | 206 | 321 |
+| 1,059 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 4.14 | 0 | 628 |
+| 1,059 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.14 | 0 | 628 |
+| 1,059 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.14 | 2,491 | 115 |
+| 1,059 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 628 |
+| 1,059 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.14 | 0 | 628 |
+| 1,059 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 628 |
 | 1,070 | [Banished](games/b/banished.md) | 4.13 | 0 | 628 |
 | 1,070 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 606 |
 | 1,070 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 628 |
