@@ -74,7 +74,7 @@
 | 67 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 326 | 270 |
 | 67 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.82 | 0 | 628 |
 | 67 | [Sifu](games/s/sifu.md) | 4.82 | 7,646 | 64 |
-| 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 503 | 233 |
+| 67 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 503 | 234 |
 | 67 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 75 | 443 |
 | 67 | [Star Atlas](games/s/star_atlas.md) | 4.82 | 47 | 501 |
 | 67 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 104 | 395 |
@@ -162,7 +162,7 @@
 | 149 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 16,505 | 27 |
 | 149 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 628 |
 | 149 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 104 | 395 |
-| 149 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 502 | 234 |
+| 149 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 505 | 232 |
 | 149 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.75 | 0 | 628 |
 | 149 | [Townscaper](games/t/townscaper.md) | 4.75 | 0 | 628 |
 | 166 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 507 | 231 |
@@ -451,7 +451,7 @@
 | 447 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.60 | 110 | 391 |
 | 447 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 93 | 418 |
 | 447 | [DOOM 3](games/d/doom_3.md) | 4.60 | 73 | 449 |
-| 447 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 15,579 | 29 |
+| 447 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 15,591 | 29 |
 | 447 | [Fuga: Melodies of Steel](games/f/fuga__melodies_of_steel.md) | 4.60 | 0 | 628 |
 | 447 | [GRIME](games/g/grime.md) | 4.60 | 74 | 445 |
 | 447 | [GRIT](games/g/grit.md) | 4.60 | 0 | 628 |
@@ -548,7 +548,7 @@
 | 528 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.56 | 0 | 628 |
 | 528 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,805 | 138 |
 | 528 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 628 |
-| 528 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,872 | 80 |
+| 528 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,882 | 80 |
 | 550 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 354 | 261 |
 | 550 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 606 |
 | 550 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.55 | 22 | 606 |
@@ -759,7 +759,6 @@
 | 756 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 74 | 445 |
 | 756 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 628 |
 | 756 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 48 | 498 |
-| 756 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.43 | 0 | 628 |
 | 756 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,533 | 146 |
 | 756 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 628 |
 | 756 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 628 |
@@ -769,19 +768,20 @@
 | 756 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.43 | 33 | 548 |
 | 756 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 59 | 468 |
 | 756 | [WRC Generations](games/w/wrc_generations.md) | 4.43 | 28 | 570 |
-| 770 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 615 |
-| 770 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 628 |
-| 770 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.42 | 0 | 628 |
-| 770 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 628 |
-| 770 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.42 | 0 | 628 |
-| 770 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 41 | 518 |
-| 770 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 628 |
-| 770 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
-| 770 | [SMITE](games/s/smite.md) | 4.42 | 5,494 | 82 |
-| 770 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,207 | 155 |
-| 770 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 165 | 352 |
-| 770 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 88 | 423 |
-| 770 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 628 |
+| 769 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 615 |
+| 769 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 628 |
+| 769 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.42 | 0 | 628 |
+| 769 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 628 |
+| 769 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.42 | 0 | 628 |
+| 769 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.42 | 0 | 628 |
+| 769 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 41 | 518 |
+| 769 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 628 |
+| 769 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
+| 769 | [SMITE](games/s/smite.md) | 4.42 | 5,494 | 82 |
+| 769 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,207 | 155 |
+| 769 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 165 | 352 |
+| 769 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 88 | 423 |
+| 769 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 628 |
 | 783 | [Breathedge](games/b/breathedge.md) | 4.41 | 0 | 628 |
 | 783 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 326 | 270 |
 | 783 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.41 | 0 | 628 |
