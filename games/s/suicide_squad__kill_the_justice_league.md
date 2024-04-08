@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/suicide_squad__kill_the_justice_league.json)  
 Rating: 4.22 (Ranked 1,000)  
 ## Awards
-Max (Great Boss Battles): 78  (Ranked 438)  
+Max (Great Boss Battles): 78  (Ranked 437)  
 Sum: 78 (Ranked 522)  
-Diff (max vs sum): -84  
+Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 78 |
