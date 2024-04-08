@@ -1,7 +1,7 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 841)  
+Rating: 4.38 (Ranked 830)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -560,3 +560,4 @@ Diff (max vs sum): -47
 | 2024-03-22 | 4.37 | - | 2,175 | 4,250 |
 | 2024-03-29 | 4.37 | - | 2,175 | 4,251 |
 | 2024-04-03 | 4.37 | - | 2,175 | 4,252 |
+| 2024-04-07 | 4.38 | - | 2,175 | 4,252 |

@@ -2,7 +2,7 @@
   "ID": "snapdragon",
   "Name": "Metro Exodus Standard Edition",
   "ProductSlug": "metro-exodus",
-  "Ranking_Rating": 112,
+  "Ranking_Rating": 113,
   "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 954,
@@ -6994,10 +6994,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 11960,
       "NumberOfAwardsMax": 6429
+    },
+    {
+      "Time": "2024-04-07T23:58:20.7523193+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 11961,
+      "NumberOfAwardsMax": 6429
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11960,
+  "NumberOfAwards": 11961,
   "NumberOfAwardsMax": 6429,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7041,7 +7047,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 689
+      "Count": 690
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7093,9 +7099,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
-  "LastChanged": "2024-04-07T20:59:11.1612928+00:00",
+  "LastChanged": "2024-04-07T23:58:20.7523191+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:53.3780618+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:18.6051888+00:00",
-  "LastUpdate_Ratings": "2024-04-07T22:00:20.9584091+00:00",
+  "LastUpdate_Ratings": "2024-04-07T23:58:20.7523198+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:53.3780654+00:00"
 }

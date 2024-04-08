@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.16 (Ranked 1,044)  
+Rating: 4.17 (Ranked 1,036)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -478,3 +478,4 @@ Diff (max vs sum): -49
 | 2024-03-23 | 4.17 | 59 | 91 |
 | 2024-03-27 | 4.16 | 59 | 91 |
 | 2024-04-06 | 4.16 | 60 | 92 |
+| 2024-04-07 | 4.17 | 60 | 92 |
