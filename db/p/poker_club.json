@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.84,
+  "Rating": 3.83,
   "RatingHistory": [
     {
       "Time": "2023-04-27T17:00:42.1303149+00:00",
@@ -1353,6 +1353,12 @@
     {
       "Time": "2024-04-08T02:58:57.9007424+00:00",
       "Rating": 3.84,
+      "NumberOfAwards": 178,
+      "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-04-08T17:57:56.9751603+00:00",
+      "Rating": 3.83,
       "NumberOfAwards": 178,
       "NumberOfAwardsMax": 54
     }
@@ -34070,9 +34076,9 @@
   "FirstSeen": "2023-04-27T17:00:42.1303107+00:00",
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
-  "LastChanged": "2024-04-08T02:58:57.9007423+00:00",
+  "LastChanged": "2024-04-08T17:57:56.9751601+00:00",
   "LastChanged_Achievements": "2024-04-05T15:02:54.3642805+00:00",
   "LastUpdate_AppInfo": "2024-04-07T12:58:11.5482157+00:00",
-  "LastUpdate_Ratings": "2024-04-08T16:00:45.8356119+00:00",
+  "LastUpdate_Ratings": "2024-04-08T17:57:56.9751605+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:02:54.3644201+00:00"
 }
