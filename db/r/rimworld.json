@@ -2,7 +2,7 @@
   "ID": "7051eadbb8c2435caf32a9bc0dc17936",
   "Name": "RimWorld",
   "ProductSlug": "rimworld",
-  "Ranking_Rating": 12,
+  "Ranking_Rating": 13,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 954,
@@ -4121,10 +4121,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 4265,
       "NumberOfAwardsMax": 509
+    },
+    {
+      "Time": "2024-04-08T01:40:23.8159364+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 4267,
+      "NumberOfAwardsMax": 509
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4265,
+  "NumberOfAwards": 4267,
   "NumberOfAwardsMax": 509,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4156,7 +4162,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 421
+      "Count": 422
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4180,7 +4186,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 428
+      "Count": 429
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4206,8 +4212,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2024-04-07T21:57:40.0752028+00:00",
+  "LastChanged": "2024-04-08T01:40:23.8159362+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:12.9072989+00:00",
-  "LastUpdate_Ratings": "2024-04-07T22:59:17.7478088+00:00",
+  "LastUpdate_Ratings": "2024-04-08T01:40:23.8159366+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:14.4960111+00:00"
 }
