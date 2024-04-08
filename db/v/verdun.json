@@ -2205,10 +2205,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 990,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-04-08T20:57:30.4130597+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 991,
+      "NumberOfAwardsMax": 112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 990,
+  "NumberOfAwards": 991,
   "NumberOfAwardsMax": 112,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2288,7 +2294,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game is Educational",
@@ -33945,9 +33951,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-04-07T14:58:47.1365631+00:00",
+  "LastChanged": "2024-04-08T20:57:30.4130595+00:00",
   "LastChanged_Achievements": "2024-04-05T15:01:55.3626203+00:00",
   "LastUpdate_AppInfo": "2024-04-07T08:56:59.0215093+00:00",
-  "LastUpdate_Ratings": "2024-04-08T19:00:37.7580897+00:00",
+  "LastUpdate_Ratings": "2024-04-08T20:57:30.4130599+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:01:55.3630179+00:00"
 }
