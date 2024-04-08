@@ -66,7 +66,7 @@
 | 54 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 284 | 283 |
 | 54 | [Rayman Origins](games/r/rayman_origins.md) | 4.83 | 55 | 479 |
 | 54 | [TUNIC](games/t/tunic.md) | 4.83 | 41 | 518 |
-| 67 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 480 | 238 |
+| 67 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 481 | 238 |
 | 67 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 212 | 317 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 534 |
 | 67 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.82 | 240 | 298 |
@@ -252,7 +252,7 @@
 | 245 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,333 | 59 |
 | 245 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 8,960 | 55 |
 | 245 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.69 | 23 | 600 |
-| 245 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 8,740 | 57 |
+| 245 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 8,763 | 57 |
 | 245 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 9,341 | 50 |
 | 245 | [House Flipper](games/h/house_flipper.md) | 4.69 | 344 | 263 |
 | 245 | [King of Retail](games/k/king_of_retail.md) | 4.69 | 0 | 628 |
@@ -264,7 +264,7 @@
 | 245 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 523 |
 | 245 | [Pacific Drive](games/p/pacific_drive.md) | 4.69 | 0 | 628 |
 | 245 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.69 | 0 | 628 |
-| 245 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,131 | 38 |
+| 245 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,136 | 38 |
 | 245 | [Sailing Era](games/s/sailing_era.md) | 4.69 | 0 | 628 |
 | 245 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 581 | 225 |
 | 245 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.69 | 0 | 628 |
@@ -432,7 +432,7 @@
 | 416 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 469 | 241 |
 | 416 | [MudRunner](games/m/mudrunner.md) | 4.61 | 332 | 267 |
 | 416 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 628 |
-| 416 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 768 | 201 |
+| 416 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 770 | 201 |
 | 416 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,237 | 43 |
 | 416 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,129 | 162 |
 | 416 | [Rogue Lords](games/r/rogue_lords.md) | 4.61 | 0 | 628 |
@@ -755,7 +755,7 @@
 | 738 | [The Colonists](games/t/the_colonists.md) | 4.44 | 0 | 628 |
 | 738 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.44 | 0 | 628 |
 | 738 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 299 | 280 |
-| 756 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 272 | 289 |
+| 756 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 273 | 289 |
 | 756 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 74 | 445 |
 | 756 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 628 |
 | 756 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 48 | 498 |
@@ -1090,7 +1090,7 @@
 | 1,083 | [The Front](games/t/the_front.md) | 4.08 | 28 | 570 |
 | 1,083 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 628 |
 | 1,090 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.07 | 0 | 628 |
-| 1,090 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,979 | 79 |
+| 1,090 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,983 | 79 |
 | 1,090 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.07 | 0 | 628 |
 | 1,090 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 227 | 308 |
 | 1,094 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.06 | 611 | 219 |
