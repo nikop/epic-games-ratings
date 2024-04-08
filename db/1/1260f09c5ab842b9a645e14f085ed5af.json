@@ -725,10 +725,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 345,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2024-04-08T04:58:18.5594973+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 346,
+      "NumberOfAwardsMax": 199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345,
+  "NumberOfAwards": 346,
   "NumberOfAwardsMax": 199,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -760,7 +766,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -795,9 +801,9 @@
   "FirstSeen": "2024-01-25T18:57:35.0792201+00:00",
   "FirstSeenRating": "2024-01-26T22:58:02.5444122+00:00",
   "FirstSeenAchievements": "2024-01-18T17:09:04.5131564+00:00",
-  "LastChanged": "2024-04-07T13:00:30.1825878+00:00",
+  "LastChanged": "2024-04-08T04:58:18.5594971+00:00",
   "LastChanged_Achievements": "2024-04-05T15:01:51.749829+00:00",
   "LastUpdate_AppInfo": "2024-04-04T23:57:08.1537344+00:00",
-  "LastUpdate_Ratings": "2024-04-08T02:59:08.0609355+00:00",
+  "LastUpdate_Ratings": "2024-04-08T04:58:18.5594976+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:01:51.7498361+00:00"
 }
