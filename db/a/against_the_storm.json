@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 67,
   "Ranking_Popularity": 238,
-  "Ranking_PopularitySum": 184,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 3,
@@ -4489,10 +4489,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3516,
       "NumberOfAwardsMax": 480
+    },
+    {
+      "Time": "2024-04-08T09:57:59.4112258+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3517,
+      "NumberOfAwardsMax": 480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3516,
+  "NumberOfAwards": 3517,
   "NumberOfAwardsMax": 480,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4506,7 +4512,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 459
+      "Count": 460
     },
     {
       "Text": "This game is Highly Recommended",
@@ -21601,9 +21607,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-04-04T01:42:48.3080279+00:00",
+  "LastChanged": "2024-04-08T09:57:59.4112256+00:00",
   "LastChanged_Achievements": "2024-03-21T17:09:36.9877007+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:26.8471668+00:00",
-  "LastUpdate_Ratings": "2024-04-08T07:59:05.7804057+00:00",
+  "LastUpdate_Ratings": "2024-04-08T09:57:59.4112261+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:36.9878256+00:00"
 }
