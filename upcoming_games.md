@@ -125,6 +125,7 @@
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-12-31 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2024-12-31 | - |  | - | - |
+| [63 Days](games/8/843074ada4be43cd82187404f21ca7d1.md) | 2024-12-31 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-12-31 | - |  | - | - |
 | [Age of Zalmoxis - Rise of the Fallen](games/3/3be7d39a69c34da7bdd5fb6db6c049df.md) | 2024-12-31 | - |  | - | - |
 | [Alliance of the Sacred Suns](games/a/alliance_of_the_sacred_suns.md) | 2024-12-31 | - |  | - | - |
