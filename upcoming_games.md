@@ -2,6 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Worker Simulator](games/b/b859d03955d0401e984b81c5e7a15654.md) | 2024-04-09 | - |  | - | - |
 | [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 2024-04-10 | - |  | - | - |
+| [Broken Roads](games/4/458961a1eedb409b999066e5f7d42e8e.md) | 2024-04-10 | - |  | - | - |
 | [Die Again](games/a/a3d688525a954efa8afc49bfe5464c80.md) | 2024-04-11 | 19 (1,000 XP) | 2 | - | - |
 | [Jack Holmes: Master of Puppets](games/4/46d8d9b49fa24b2c81f648d2c30f45d1.md) | 2024-04-12 | - |  | - | - |
 | [Massira](games/1/15b4e5ae7fb345bdb9fe80fe56b67423.md) | 2024-04-12 | 23 (1,000 XP) | 1 | - | - |
@@ -18,7 +19,6 @@
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2024-04-24 | - |  | - | - |
 | [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 17 | - | - |
 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-04-25 | 15 (1,000 XP) | 1 | - | - |
-| [Broken Roads](games/4/458961a1eedb409b999066e5f7d42e8e.md) | 2024-04-30 | - |  | - | - |
 | [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-04-30 | - |  | - | - |
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | - |  | - | - |
@@ -103,6 +103,7 @@
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-08-21 | - |  | - | - |
+| [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | - | - |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-31 | - |  | - | - |
 | [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-08-31 | - |  | - | - |
 | [Mirror Of Darkness](games/5/5896d071f8c544e39aef05706c15fc11.md) | 2024-08-31 | - |  | - | - |
