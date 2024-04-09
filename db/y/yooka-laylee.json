@@ -2,7 +2,7 @@
   "ID": "131e306949034972959ca401ca27837e",
   "Name": "Yooka-Laylee",
   "ProductSlug": "yooka-laylee",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 972,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 956,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.25,
   "NumberOfRatings": 366,
   "RatingHistory": [
     {
@@ -680,6 +680,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 139,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-04-09T20:58:31.2111932+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 139,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
@@ -735,8 +741,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2024-03-29T20:58:22.4297579+00:00",
+  "LastChanged": "2024-04-09T20:58:31.2111931+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:12.004694+00:00",
-  "LastUpdate_Ratings": "2024-04-09T19:00:45.7994008+00:00",
+  "LastUpdate_Ratings": "2024-04-09T20:58:31.2111935+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:09:27.1157615+00:00"
 }
