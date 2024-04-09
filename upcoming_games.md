@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Last Hope Bunker: Zombie Survival](games/1/11b636268cb64c7f9feada368d41ba76.md) | 2024-04-09 | - |  | - | - |
 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 2024-04-09 | - |  | - | - |
-| [EMULATED: OpsRunner](games/7/7aa0633c4f714b949071394d35de89bf.md) | 2024-04-09 | - |  | - | - |
+| [Hands of Necromancy](games/4/4887fdd384674d118eacfefd5bb26741.md) | 2024-04-09 | - |  | - | - |
 | [Worker Simulator](games/b/b859d03955d0401e984b81c5e7a15654.md) | 2024-04-09 | - |  | - | - |
 | [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 2024-04-10 | - |  | - | - |
 | [Die Again](games/a/a3d688525a954efa8afc49bfe5464c80.md) | 2024-04-11 | 19 (1,000 XP) | 2 | - | - |
@@ -10,6 +10,7 @@
 | [Massira](games/1/15b4e5ae7fb345bdb9fe80fe56b67423.md) | 2024-04-12 | 23 (1,000 XP) | 1 | - | - |
 | [AC Sailing](games/5/509ce98dda624bf193c297eadee9385c.md) | 2024-04-12 | - |  | - | - |
 | [BackRooms 1995 The Lost Footage Chapter 1](games/6/623c70d194674a5aabe514e155be2b8b.md) | 2024-04-12 | - |  | - | - |
+| [EMULATED: OpsRunner](games/7/7aa0633c4f714b949071394d35de89bf.md) | 2024-04-16 | - |  | - | - |
 | [Baseball Legacy Manager 24](games/c/c9185291e6b24205816af9d2467f5bde.md) | 2024-04-20 | - |  | - | - |
 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-04-20 | 38 (1,000 XP) | 1 | - | - |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-04-21 | 38 (1,000 XP) | 1 | - | - |
@@ -124,6 +125,7 @@
 | [Spiral](games/4/4ac2b56f3cbb4de58183d6f20ee834a1.md) | 2024-09-30 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-09-30 | - |  | - | - |
 | [Unreachable](games/4/48d6c1632de6479b8c6c1d2f415cea92.md) | 2024-09-30 | - |  | - | - |
+| [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-12-31 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2024-12-31 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-12-31 | - |  | - | - |
