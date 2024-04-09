@@ -4,7 +4,7 @@
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
   "Ranking_Rating": 67,
   "Ranking_Popularity": 395,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -2072,10 +2072,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 796,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-04-09T06:59:12.3073494+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 797,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 796,
+  "NumberOfAwards": 797,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2089,7 +2095,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2169,8 +2175,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2024-04-05T22:57:20.7149495+00:00",
+  "LastChanged": "2024-04-09T06:59:12.3073493+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:35.4291074+00:00",
-  "LastUpdate_Ratings": "2024-04-09T05:57:20.556852+00:00",
+  "LastUpdate_Ratings": "2024-04-09T06:59:12.3073497+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:06:01.4572908+00:00"
 }

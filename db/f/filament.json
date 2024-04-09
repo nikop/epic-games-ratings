@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 887,
   "Ranking_Popularity": 223,
-  "Ranking_PopularitySum": 324,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 3,
@@ -484,10 +484,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 746,
       "NumberOfAwardsMax": 596
+    },
+    {
+      "Time": "2024-04-09T06:59:55.1943698+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 724,
+      "NumberOfAwardsMax": 596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 746,
+  "NumberOfAwards": 724,
   "NumberOfAwardsMax": 596,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -30920,9 +30926,9 @@
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2024-04-01T14:59:05.7944732+00:00",
+  "LastChanged": "2024-04-09T06:59:55.1943696+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:08.6161085+00:00",
   "LastUpdate_AppInfo": "2024-04-07T08:57:01.061948+00:00",
-  "LastUpdate_Ratings": "2024-04-09T05:58:04.2284717+00:00",
+  "LastUpdate_Ratings": "2024-04-09T06:59:55.1943701+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:08.6162897+00:00"
 }
