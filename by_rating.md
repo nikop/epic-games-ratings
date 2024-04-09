@@ -18,7 +18,7 @@
 | 16 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 25 | 589 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 628 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 628 |
-| 19 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,700 | 140 |
+| 19 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,701 | 140 |
 | 19 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 797 | 199 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.87 | 5,474 | 84 |
 | 19 | [Inscryption](games/i/inscryption.md) | 4.87 | 366 | 258 |
@@ -276,7 +276,7 @@
 | 274 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,606 | 92 |
 | 274 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 789 | 200 |
 | 274 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 628 |
-| 274 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 160,273 | 7 |
+| 274 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 160,426 | 7 |
 | 274 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,513 | 93 |
 | 274 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 53 | 483 |
 | 274 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 975 | 180 |
@@ -548,7 +548,7 @@
 | 529 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.56 | 0 | 628 |
 | 529 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,805 | 138 |
 | 529 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 628 |
-| 529 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,882 | 80 |
+| 529 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,891 | 80 |
 | 550 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 356 | 261 |
 | 550 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 606 |
 | 550 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.55 | 22 | 606 |
@@ -571,7 +571,7 @@
 | 568 | [Anno 2070](games/a/anno_2070.md) | 4.54 | 0 | 628 |
 | 568 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 0 | 628 |
 | 568 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 628 |
-| 568 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,826 | 136 |
+| 568 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,827 | 136 |
 | 568 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 12,938 | 35 |
 | 568 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.54 | 37 | 530 |
 | 568 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 203 | 323 |
@@ -585,7 +585,7 @@
 | 568 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 628 |
 | 568 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 410 | 252 |
 | 585 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 0 | 628 |
-| 585 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,256 | 19 |
+| 585 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,276 | 19 |
 | 585 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 26 | 581 |
 | 585 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 525 |
 | 585 | [Everything](games/e/everything.md) | 4.53 | 0 | 628 |
