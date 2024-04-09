@@ -1827,10 +1827,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 713,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-04-09T17:59:29.4607775+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 714,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 713,
+  "NumberOfAwards": 714,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1874,7 +1880,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1907,8 +1913,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-04-09T12:58:54.9949265+00:00",
+  "LastChanged": "2024-04-09T17:59:29.4607773+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:31.1065275+00:00",
-  "LastUpdate_Ratings": "2024-04-09T16:58:03.2938229+00:00",
+  "LastUpdate_Ratings": "2024-04-09T17:59:29.4607778+00:00",
   "LastUpdate_Achievements": "2024-04-05T15:04:55.2479442+00:00"
 }

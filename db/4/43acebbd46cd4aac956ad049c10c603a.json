@@ -4,7 +4,7 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 355,
-  "Ranking_PopularitySum": 439,
+  "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 3,
@@ -509,10 +509,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2024-04-09T17:58:31.1918591+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 245,
+      "NumberOfAwardsMax": 158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
+  "NumberOfAwards": 245,
   "NumberOfAwardsMax": 158,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -532,7 +538,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5097,9 +5103,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-04-04T04:58:03.5310013+00:00",
+  "LastChanged": "2024-04-09T17:58:31.1918589+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:54.5182367+00:00",
   "LastUpdate_AppInfo": "2024-04-05T02:13:46.1612667+00:00",
-  "LastUpdate_Ratings": "2024-04-09T16:57:05.7560602+00:00",
+  "LastUpdate_Ratings": "2024-04-09T17:58:31.1918594+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:54.5183036+00:00"
 }

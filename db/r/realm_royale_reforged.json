@@ -2,7 +2,7 @@
   "ID": "5fcf6f3031c547f789e29c18b422ca67",
   "Name": "Realm Royale Reforged",
   "ProductSlug": "realm-royale-reforged",
-  "Ranking_Rating": 924,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 956,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "NumberOfRatings": 841,
   "RatingHistory": [
     {
@@ -2930,6 +2930,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 1491,
       "NumberOfAwardsMax": 179
+    },
+    {
+      "Time": "2024-04-09T17:58:34.1767787+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 1491,
+      "NumberOfAwardsMax": 179
     }
   ],
   "ReviewsDisabled": false,
@@ -3022,8 +3028,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2024-04-06T17:59:12.7366903+00:00",
+  "LastChanged": "2024-04-09T17:58:34.1767783+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:28.1961448+00:00",
-  "LastUpdate_Ratings": "2024-04-09T16:57:08.8263518+00:00",
+  "LastUpdate_Ratings": "2024-04-09T17:58:34.1767791+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:32.4920157+00:00"
 }
