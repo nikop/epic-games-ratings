@@ -3,7 +3,7 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 226,
-  "Ranking_Popularity": 473,
+  "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 424,
@@ -1160,11 +1160,17 @@
       "Rating": 4.7,
       "NumberOfAwards": 457,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-04-09T15:00:26.4181831+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 457,
-  "NumberOfAwardsMax": 57,
+  "NumberOfAwards": 458,
+  "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1183,7 +1189,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -33732,9 +33738,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-04-09T10:58:34.5438873+00:00",
+  "LastChanged": "2024-04-09T15:00:26.4181814+00:00",
   "LastChanged_Achievements": "2024-03-21T17:12:33.8812675+00:00",
   "LastUpdate_AppInfo": "2024-04-07T12:58:06.0456852+00:00",
-  "LastUpdate_Ratings": "2024-04-09T13:57:51.3316673+00:00",
+  "LastUpdate_Ratings": "2024-04-09T15:00:26.4181835+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:12:33.8814668+00:00"
 }
