@@ -5511,10 +5511,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 2593,
       "NumberOfAwardsMax": 1205
+    },
+    {
+      "Time": "2024-04-09T22:01:02.823442+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 2597,
+      "NumberOfAwardsMax": 1205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2593,
+  "NumberOfAwards": 2597,
   "NumberOfAwardsMax": 1205,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -5552,7 +5558,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 132
+      "Count": 133
     },
     {
       "Text": "This game is Relaxing",
@@ -5564,7 +5570,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 95
+      "Count": 98
     },
     {
       "Text": "This game has Challenging Combat",
@@ -30119,9 +30125,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-04-09T17:58:39.6440375+00:00",
+  "LastChanged": "2024-04-09T22:01:02.8234418+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:57.6336005+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:17.9283527+00:00",
-  "LastUpdate_Ratings": "2024-04-09T20:58:43.1268976+00:00",
+  "LastUpdate_Ratings": "2024-04-09T22:01:02.8234424+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:57.6338067+00:00"
 }
