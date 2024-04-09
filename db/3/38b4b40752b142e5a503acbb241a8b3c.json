@@ -2,7 +2,7 @@
   "ID": "38b4b40752b142e5a503acbb241a8b3c",
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
-  "Ranking_Rating": 376,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 956,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-08-07T09:57:49.6862066+00:00",
@@ -1437,10 +1437,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 394,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2024-04-09T11:58:46.9248168+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 395,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 394,
+  "NumberOfAwards": 395,
   "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1484,7 +1490,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1543,9 +1549,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2024-04-09T02:15:40.1018698+00:00",
+  "LastChanged": "2024-04-09T11:58:46.9248167+00:00",
   "LastChanged_Achievements": "2024-03-21T17:07:15.5372637+00:00",
   "LastUpdate_AppInfo": "2024-04-03T18:57:26.1398853+00:00",
-  "LastUpdate_Ratings": "2024-04-09T10:00:46.4831211+00:00",
+  "LastUpdate_Ratings": "2024-04-09T11:58:46.9248171+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:07:15.5372673+00:00"
 }

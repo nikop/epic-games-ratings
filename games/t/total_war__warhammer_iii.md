@@ -5,7 +5,7 @@ Rating: 4.71 (Ranked 206)
 Number of Ratings: 882  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 2,507  (Ranked 114)  
-Sum: 9,751 (Ranked 109)  
+Sum: 9,754 (Ranked 109)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 5
 | This game has Challenging Combat | 688 |
 | This game has Amazing Characters | 673 |
 | This game has Unique Visuals | 669 |
-| This game has Amazing Storytelling | 648 |
+| This game has Amazing Storytelling | 651 |
 | This game is Extremely Fun | 630 |
 | This game has Quickly Understood Controls | 589 |
 | This game is Relaxing | 583 |
@@ -487,3 +487,4 @@ Diff (max vs sum): 5
 | 2024-04-06 | 4.71 | - | 2,501 | 9,725 |
 | 2024-04-07 | 4.71 | - | 2,504 | 9,738 |
 | 2024-04-08 | 4.71 | - | 2,507 | 9,751 |
+| 2024-04-09 | 4.71 | - | 2,507 | 9,754 |
