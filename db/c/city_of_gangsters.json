@@ -4,7 +4,7 @@
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 933,
   "Ranking_Popularity": 509,
-  "Ranking_PopularitySum": 432,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -1280,10 +1280,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 258,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-04-09T19:58:09.3097168+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 259,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 258,
+  "NumberOfAwards": 259,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1303,7 +1309,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -34279,9 +34285,9 @@
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2024-04-08T20:57:36.898384+00:00",
+  "LastChanged": "2024-04-09T19:58:09.3097166+00:00",
   "LastChanged_Achievements": "2024-03-21T17:13:00.3790921+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:56:59.2227021+00:00",
-  "LastUpdate_Ratings": "2024-04-09T17:59:28.1924771+00:00",
+  "LastUpdate_Ratings": "2024-04-09T19:58:09.3097173+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:13:00.3792725+00:00"
 }
