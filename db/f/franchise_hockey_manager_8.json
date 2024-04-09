@@ -2,7 +2,7 @@
   "ID": "c0c1086e89f84494ba1c1da9c9500280",
   "Name": "Franchise Hockey Manager 8",
   "ProductSlug": "franchise-hockey-manager-8",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 628,
   "Ranking_PopularitySum": 628,
   "Ranking_EOS_Progress": 956,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.27,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:41.6110245+00:00",
@@ -43,6 +43,12 @@
       "Rating": 4.27,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-09T04:58:10.5102006+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -61,8 +67,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:33.2488782+00:00",
   "FirstSeenRating": "2023-03-31T05:57:41.6110243+00:00",
-  "LastChanged": "2023-07-03T19:59:31.3544612+00:00",
+  "LastChanged": "2024-04-09T04:58:10.5102004+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:49.4395146+00:00",
-  "LastUpdate_Ratings": "2024-04-09T03:00:35.5708342+00:00",
+  "LastUpdate_Ratings": "2024-04-09T04:58:10.510202+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:49.5812774+00:00"
 }

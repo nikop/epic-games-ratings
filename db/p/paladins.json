@@ -2,7 +2,7 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "ProductSlug": "paladins",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 956,
@@ -12999,10 +12999,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 27402,
       "NumberOfAwardsMax": 4309
+    },
+    {
+      "Time": "2024-04-09T04:59:12.5187992+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 27404,
+      "NumberOfAwardsMax": 4309
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 27402,
+  "NumberOfAwards": 27404,
   "NumberOfAwardsMax": 4309,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13058,7 +13064,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3064
+      "Count": 3066
     },
     {
       "Text": "This game has a Competitive Community",
@@ -13078,8 +13084,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2024-04-08T17:57:26.7434421+00:00",
+  "LastChanged": "2024-04-09T04:59:12.518799+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:20.1658236+00:00",
-  "LastUpdate_Ratings": "2024-04-09T03:57:31.9840263+00:00",
+  "LastUpdate_Ratings": "2024-04-09T04:59:12.5187996+00:00",
   "LastUpdate_Achievements": "2024-04-07T18:02:54.3294738+00:00"
 }
