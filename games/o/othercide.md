@@ -1,7 +1,7 @@
 # Othercide
 [Store](https://store.epicgames.com/en-US/p/othercide-19bfa0)  
 [View Rawdata](../../db/o/othercide.json)  
-Rating: 4.45 (Ranked 714)  
+Rating: 4.45 (Ranked 715)  
 Number of Ratings: 40  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
