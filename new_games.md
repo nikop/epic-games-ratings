@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Worker Simulator](games/b/b859d03955d0401e984b81c5e7a15654.md) | 2024-04-09 | - |  | - | - |
 | [Phantom Watcher](games/5/52635d084b7740968df20059b6fb9800.md) | 2024-04-09 | - |  | - | - |
 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 2024-04-09 | - |  | - | 0 |
 | [Hands of Necromancy](games/4/4887fdd384674d118eacfefd5bb26741.md) | 2024-04-09 | - |  | - | - |
