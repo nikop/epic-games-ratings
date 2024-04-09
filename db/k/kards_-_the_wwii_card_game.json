@@ -4,7 +4,7 @@
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 800,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 172,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -3819,10 +3819,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 4096,
       "NumberOfAwardsMax": 667
+    },
+    {
+      "Time": "2024-04-09T12:59:47.0740361+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 4527,
+      "NumberOfAwardsMax": 667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4096,
+  "NumberOfAwards": 4527,
   "NumberOfAwardsMax": 667,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3836,7 +3842,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 518
+      "Count": 519
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3860,7 +3866,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 488
+      "Count": 489
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3884,7 +3890,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 414
+      "Count": 429
     }
   ],
   "EOS_Progressed": 0,
@@ -3898,8 +3904,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2024-04-07T18:59:23.5987457+00:00",
+  "LastChanged": "2024-04-09T12:59:47.0740359+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:31.7447956+00:00",
-  "LastUpdate_Ratings": "2024-04-09T11:00:12.575799+00:00",
+  "LastUpdate_Ratings": "2024-04-09T12:59:47.0740368+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:10:57.3659266+00:00"
 }
