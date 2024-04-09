@@ -3,8 +3,8 @@
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
   "Ranking_Rating": 37,
-  "Ranking_Popularity": 193,
-  "Ranking_PopularitySum": 144,
+  "Ranking_Popularity": 192,
+  "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -7885,10 +7885,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 6478,
       "NumberOfAwardsMax": 852
+    },
+    {
+      "Time": "2024-04-09T22:57:28.7924323+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 6479,
+      "NumberOfAwardsMax": 852
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6478,
+  "NumberOfAwards": 6479,
   "NumberOfAwardsMax": 852,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7938,7 +7944,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 637
+      "Count": 638
     },
     {
       "Text": "This game is Educational",
@@ -7970,8 +7976,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2024-04-09T17:59:48.8716708+00:00",
+  "LastChanged": "2024-04-09T22:57:28.7924321+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:06.892795+00:00",
-  "LastUpdate_Ratings": "2024-04-09T21:00:01.9220167+00:00",
+  "LastUpdate_Ratings": "2024-04-09T22:57:28.7924328+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:05:59.4036544+00:00"
 }

@@ -3,8 +3,8 @@
 [View Rawdata](../../db/b/blazing_sails.json)  
 Rating: 3.97 (Ranked 1,111)  
 ## Awards
-Max (Great for Beginners): 735  (Ranked 203)  
-Sum: 4,542 (Ranked 165)  
+Max (Great for Beginners): 735  (Ranked 202)  
+Sum: 4,542 (Ranked 164)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |

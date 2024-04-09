@@ -122,8 +122,8 @@ Completed: 2 (0.19%) (Ranked 319)
 | 2024-01-18 | 1,073 | 2 |
 | 2024-03-21 | 1,072 | 2 |
 ## Awards
-Max (Character Customization): 1,991  (Ranked 131)  
-Sum: 4,920 (Ranked 161)  
+Max (Character Customization): 1,991  (Ranked 130)  
+Sum: 4,922 (Ranked 160)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -135,8 +135,8 @@ Diff (max vs sum): -30
 | This game is Highly Recommended | 333 |
 | This game has Challenging Combat | 331 |
 | This game is Relaxing | 329 |
-| This game has Quickly Understood Controls | 323 |
-| This game has a Creative Community | 194 |
+| This game has Quickly Understood Controls | 324 |
+| This game has a Creative Community | 195 |
 | This game has Unique Visuals | 141 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -435,3 +435,4 @@ Diff (max vs sum): -30
 | 2024-04-04 | 4.66 | - | 1,989 | 4,917 |
 | 2024-04-06 | 4.66 | - | 1,990 | 4,918 |
 | 2024-04-07 | 4.66 | - | 1,991 | 4,920 |
+| 2024-04-09 | 4.66 | - | 1,991 | 4,922 |
