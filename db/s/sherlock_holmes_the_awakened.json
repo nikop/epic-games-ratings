@@ -2,7 +2,7 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
   "Ranking_EOS_Progress": 290,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-04-12T21:57:08.1785831+00:00",
@@ -287,6 +287,12 @@
     {
       "Time": "2024-04-09T20:57:31.6511253+00:00",
       "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-10T20:57:17.5491297+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -6191,9 +6197,9 @@
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
-  "LastChanged": "2024-04-09T20:57:31.651125+00:00",
+  "LastChanged": "2024-04-10T20:57:17.5491295+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:57.6701881+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:45.3438613+00:00",
-  "LastUpdate_Ratings": "2024-04-10T19:04:24.4774632+00:00",
+  "LastUpdate_Ratings": "2024-04-10T20:57:17.5491304+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:57.6702317+00:00"
 }
