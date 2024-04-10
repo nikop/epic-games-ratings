@@ -1,7 +1,7 @@
 # Tormentor x Punisher
 [Store](https://store.epicgames.com/en-US/p/tormentor-x-punisher)  
 [View Rawdata](../../db/t/tormentor_x_punisher.json)  
-Rating: 4.74 (Ranked 166)  
+Rating: 4.74 (Ranked 165)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

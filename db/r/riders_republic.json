@@ -2,7 +2,7 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 985,
@@ -13813,10 +13813,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 10560,
       "NumberOfAwardsMax": 1032
+    },
+    {
+      "Time": "2024-04-10T10:58:35.9202897+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 10564,
+      "NumberOfAwardsMax": 1032
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10560,
+  "NumberOfAwards": 10564,
   "NumberOfAwardsMax": 1032,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13884,7 +13890,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1011
+      "Count": 1015
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13910,8 +13916,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-04-10T09:00:11.2692937+00:00",
+  "LastChanged": "2024-04-10T10:58:35.9202895+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:21.468207+00:00",
-  "LastUpdate_Ratings": "2024-04-10T09:00:11.2692943+00:00",
+  "LastUpdate_Ratings": "2024-04-10T10:58:35.9202901+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:04.3437771+00:00"
 }
