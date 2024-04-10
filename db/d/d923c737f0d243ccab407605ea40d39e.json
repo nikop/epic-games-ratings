@@ -2,7 +2,7 @@
   "ID": "d923c737f0d243ccab407605ea40d39e",
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 910,
   "Ranking_Popularity": 596,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 39,
@@ -16571,6 +16571,6 @@
   "LastChanged": "2024-04-05T13:58:59.4663913+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:55.5665273+00:00",
   "LastUpdate_AppInfo": "2024-04-05T08:57:06.7385318+00:00",
-  "LastUpdate_Ratings": "2024-04-10T11:00:10.4005926+00:00",
+  "LastUpdate_Ratings": "2024-04-10T13:00:46.8727922+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:55.5666175+00:00"
 }
