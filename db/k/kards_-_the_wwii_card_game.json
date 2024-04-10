@@ -4,7 +4,7 @@
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 799,
   "Ranking_Popularity": 210,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -3831,10 +3831,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 4528,
       "NumberOfAwardsMax": 668
+    },
+    {
+      "Time": "2024-04-10T14:00:20.049381+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 4100,
+      "NumberOfAwardsMax": 668
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4528,
+  "NumberOfAwards": 4100,
   "NumberOfAwardsMax": 668,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3884,7 +3890,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 433
+      "Count": 434
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3910,8 +3916,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2024-04-10T13:00:29.8096572+00:00",
+  "LastChanged": "2024-04-10T14:00:20.0493809+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:31.7447956+00:00",
-  "LastUpdate_Ratings": "2024-04-10T13:00:29.8096577+00:00",
+  "LastUpdate_Ratings": "2024-04-10T14:00:20.0493812+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:04.6053628+00:00"
 }
