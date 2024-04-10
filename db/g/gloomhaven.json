@@ -3531,18 +3531,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 8629,
       "NumberOfAwardsMax": 3666
+    },
+    {
+      "Time": "2024-04-10T16:00:18.1018588+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8630,
+      "NumberOfAwardsMax": 3667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8629,
-  "NumberOfAwardsMax": 3666,
+  "NumberOfAwards": 8630,
+  "NumberOfAwardsMax": 3667,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3666
+      "Count": 3667
     },
     {
       "Text": "This game has Diverse Characters",
@@ -19672,9 +19678,9 @@
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2024-04-10T08:58:35.2765582+00:00",
+  "LastChanged": "2024-04-10T16:00:18.1018586+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:13.9538355+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:12.7687173+00:00",
-  "LastUpdate_Ratings": "2024-04-10T14:57:52.8286775+00:00",
+  "LastUpdate_Ratings": "2024-04-10T16:00:18.1018592+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:13.9539539+00:00"
 }

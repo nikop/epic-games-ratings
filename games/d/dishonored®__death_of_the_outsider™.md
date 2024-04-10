@@ -4,8 +4,8 @@
 Rating: 4.43 (Ranked 756)  
 ## Awards
 Max (Relaxing): 75  (Ranked 444)  
-Sum: 586 (Ranked 347)  
-Diff (max vs sum): 97  
+Sum: 588 (Ranked 344)  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 75 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 97
 | This game has Diverse Characters | 68 |
 | This game is Highly Recommended | 67 |
 | This game is Great for Beginners | 66 |
-| This game has Quickly Understood Controls | 60 |
+| This game has Quickly Understood Controls | 62 |
 | This game has a Creative Community | 40 |
 | This game has Great Boss Battles | 27 |
 | This game has Unique Visuals | 22 |
@@ -282,3 +282,4 @@ Diff (max vs sum): 97
 | 2024-04-07 | 4.43 | 74 | 583 |
 | 2024-04-08 | 4.43 | 74 | 584 |
 | 2024-04-09 | 4.43 | 75 | 586 |
+| 2024-04-10 | 4.43 | 75 | 588 |
