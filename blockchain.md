@@ -48,7 +48,7 @@
 | [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-06-30 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-05-31 | - |  | - | - |
 | [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2024-05-31 | - |  | - | - |
-| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-05-01 | 19 (1,000 XP) | 495 | - | 0 |
+| [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2024-05-01 | 19 (1,000 XP) | 507 | - | 0 |
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | - |
 | [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
@@ -70,7 +70,7 @@
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2024-01-10 | - |  | - | 0 |
 | [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | 0 |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-29 | - |  | - | 0 |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 5,927 | 4.47 | 30 |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 6,187 | 4.47 | 30 |
 | [World of Dypians](games/0/019f3ce538a440c48ecf5f4f8d787622.md) | 2023-12-21 | - |  | - | 0 |
 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.80 | 0 |
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |
@@ -86,10 +86,10 @@
 | [Bluelight.inc](games/e/e48a41ece2354513aabb1473743ec43d.md) | 2023-10-31 | - |  | - | - |
 | [Yaku](games/3/3ad47e385f544acaa228638fe650e078.md) | 2023-10-31 | - |  | - | 0 |
 | [Kugle](games/5/5b14619578434ff7b6cde619be141d38.md) | 2023-10-30 | - |  | - | 0 |
-| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 52,924 | - | 0 |
+| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 56,112 | - | 0 |
 | [Brawlers](games/0/03daf1d62b1b42c0a2a5168d91cb61b2.md) | 2023-10-17 | - |  | - | 0 |
 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 2023-10-16 | - |  | 4.47 | 0 |
-| [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 2023-10-02 | - |  | 3.81 | 0 |
+| [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 2023-10-02 | - |  | 3.83 | 0 |
 | [3D City: Metaverse](games/8/832915a6cdbc4da1889092021da40df2.md) | 2023-09-30 | - |  | - | 0 |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | 0 |
 | [APE SQUAD](games/0/09c47d3d9f3847d28e192c31f5622e98.md) | 2023-09-26 | - |  | - | 0 |
@@ -97,7 +97,7 @@
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | 4.39 | 239 |
 | [Kode Zero](games/d/dc4c4be805e344a4bab504dc2c2a526d.md) | 2023-09-12 | - |  | - | 0 |
 | [The Moshpit Tournament](games/2/2d9bae7960d34288b85d26ed3196d90d.md) | 2023-09-10 | - |  | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 52,813 | 4.40 | 224 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 53,619 | 4.40 | 224 |
 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 2023-08-30 | - |  | 4.30 | 0 |
 | [Meta NANOs: Rumble Race](games/d/d1dd254226e84377a6cf930e37726333.md) | 2023-08-30 | - |  | - | 0 |
 | [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2023-08-21 | - |  | - | 0 |

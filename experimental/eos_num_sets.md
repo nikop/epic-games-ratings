@@ -2,8 +2,12 @@
 | ---- | ------------------ | -------- | ---- |
 | [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 64 | 1,560 | 2 |
+| [Alan Wake 2](../games/a/alan_wake_2.md) | 66 | 1,000 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
+| [Battlefield 4™ Premium Edition](../games/0/0a541deb1bbb42c987cb48d695431e18.md) | 67 | 1,990 | 2 |
+| [Battlefield™ 1 Revolution](../games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 50 | 2,000 | 2 |
+| [Battlefield™ Hardline Ultimate Edition](../games/d/d0328a2bc8e04364b1fff1253a986174.md) | 62 | 2,000 | 2 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 45 | 1,600 | 2 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 | 2 |
 | [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 | 2 |
@@ -11,7 +15,8 @@
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 | 2 |
 | [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 79 | 1,270 | 2 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 241 | 5,790 | 2 |
-| [Dead Island 2](../games/d/dead_island_2.md) | 51 | 1,150 | 2 |
+| [Dead Island 2](../games/d/dead_island_2.md) | 57 | 1,300 | 2 |
+| [Dead Space™ 3](../games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 58 | 1,250 | 2 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 | 2 |
 | [Deus Ex - Mankind Divided](../games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 81 | 1,400 | 2 |
 | [Dying Light 2 Stay Human - Reloaded Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 | 2 |
@@ -39,12 +44,14 @@
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 65 | 1,500 | 2 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 | 2 |
 | [Mega City Force](../games/m/mega_city_police.md) | 27 | 1,050 | 2 |
+| [Need for Speed™ Deluxe Edition](../games/7/77961f9557a149a8bf1cf761220d9d24.md) | 45 | 1,500 | 2 |
+| [Need for Speed™ Payback - Deluxe Edition](../games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 57 | 1,250 | 2 |
 | [Not Another Weekend](../games/0/0de089d70ff5482285814bb5df921541.md) | 37 | 1,000 | 2 |
 | [Old World](../games/o/old_world.md) | 358 | 3,440 | 2 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 | 2 |
 | [Pinball FX](../games/p/pinball_fx.md) | 40 | 1,200 | 2 |
-| [Pinball M](../games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 47 | 1,000 | 2 |
+| [Pinball M](../games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 50 | 1,045 | 2 |
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 | 2 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 | 2 |
 | [RAGE 2](../games/r/rage_2.md) | 0 | 0 | 2 |
