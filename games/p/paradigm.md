@@ -1,7 +1,7 @@
 # Paradigm
 [Store](https://store.epicgames.com/en-US/p/paradigm-875c5c)  
 [View Rawdata](../../db/p/paradigm.json)  
-Rating: 4.49 (Ranked 659)  
+Rating: 4.49 (Ranked 658)  
 Number of Ratings: 247  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
