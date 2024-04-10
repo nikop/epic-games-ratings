@@ -1,7 +1,7 @@
 # MetalCore
 [Store](https://store.epicgames.com/en-US/p/metalcore-f60c27)  
 [View Rawdata](../../db/m/metalcore.json)  
-Rating: 4.32 (Ranked 897)  
+Rating: 4.33 (Ranked 886)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -21,4 +21,4 @@ Rating: 4.32 (Ranked 897)
 | 2024-03-07 | 4.28 | 0 | 0 |
 | 2024-03-08 | 4.28 | 0 | 0 |
 | 2024-03-09 | 4.29 | 0 | 0 |
-| 2024-04-10 | 4.32 | 0 | 0 |
+| 2024-04-10 | 4.33 | 0 | 0 |

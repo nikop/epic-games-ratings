@@ -2,9 +2,9 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 562,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 53,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -779,18 +779,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 42,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-04-10T08:58:05.6819545+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42,
-  "NumberOfAwardsMax": 42,
+  "NumberOfAwards": 43,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10755,9 +10761,9 @@
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2024-04-09T15:58:48.0747681+00:00",
+  "LastChanged": "2024-04-10T08:58:05.6819543+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:21.2711711+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:00.9818322+00:00",
-  "LastUpdate_Ratings": "2024-04-10T07:00:55.2219515+00:00",
+  "LastUpdate_Ratings": "2024-04-10T08:58:05.6819554+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:21.2712561+00:00"
 }
