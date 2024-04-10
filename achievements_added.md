@@ -384,7 +384,7 @@
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 454,796 | - | 0 |
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 14,014 | 4.21 | 253 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 4,319 | - | 0 |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 55,690 | 4.50 | 11,812 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 55,690 | 4.50 | 11,840 |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.23 | 11,551 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 4,112 | 4.20 | 30 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 425 | 4.83 | 0 |
@@ -520,7 +520,7 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-09-23 | 21 (1,000 XP) | 1 | - | - |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | 0 |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 341,926 | 4.70 | 8,989 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 341,926 | 4.70 | 8,993 |
 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 83 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 34 (1,100 XP) | 1 | - | - |

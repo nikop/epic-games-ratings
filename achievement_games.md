@@ -471,7 +471,7 @@
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 35 (1,200 XP) | 20,212 | 4.53 | 0 |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 341,926 | 4.70 | 8,989 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 341,926 | 4.70 | 8,993 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | 12 (1,000 XP) | 23 | - | 0 |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
@@ -550,7 +550,7 @@
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 175 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | 0 |
 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 935,956 | 4.69 | 8,803 |
-| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,342,128 | 4.33 | 116 |
+| [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,342,128 | 4.33 | 117 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 608 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 17 | - | 0 |
 | [Zero-G Gunfight](games/a/ac35eab3f59b4fab98f7ea12a18f3e7a.md) | 2023-05-31 | 15 (1,000 XP) | 0 | - | - |
@@ -624,7 +624,7 @@
 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 2023-04-29 | 35 (1,000 XP) | 50 | - | 0 |
 | [Life After Death](games/l/life_after_death.md) | 2023-04-28 | 60 (1,000 XP) | 37 | - | 0 |
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 10 (1,000 XP) | 21 | - | - |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 55,690 | 4.50 | 11,812 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 55,690 | 4.50 | 11,840 |
 | [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 566,739 | 3.83 | 54 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 3,135 | 4.48 | 0 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 29 (1,150 XP) | 1,059 | - | 0 |
@@ -656,7 +656,7 @@
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,614 | - | 0 |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 2023-04-11 | 12 (1,000 XP) | 6 | - | 0 |
-| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,991 | 4.53 | 0 |
+| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,991 | 4.54 | 0 |
 | [Undead Horde](games/u/undead_horde.md) | 2023-04-11 | 24 (1,000 XP) | 2 | - | 0 |
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 2023-04-10 | 10 (1,000 XP) | 100 | - | 0 |
 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 2023-04-10 | 48 (1,000 XP) | 71 | - | 0 |
