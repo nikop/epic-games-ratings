@@ -116,7 +116,7 @@
 | 111 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 972 | 180 |
 | 111 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.78 | 142 | 361 |
 | 111 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,430 | 72 |
-| 111 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 65 | 458 |
+| 111 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 65 | 459 |
 | 111 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.78 | 0 | 629 |
 | 111 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 561 |
 | 120 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 25 | 591 |
@@ -526,7 +526,7 @@
 | 511 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 0 | 629 |
 | 511 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,562 | 103 |
 | 511 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,482 | 83 |
-| 511 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,494 | 21 |
+| 511 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,512 | 21 |
 | 511 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 629 |
 | 511 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 24 | 596 |
 | 530 | [Among Us](games/a/among_us.md) | 4.56 | 3,273 | 106 |
@@ -536,7 +536,7 @@
 | 530 | [Duskers](games/d/duskers.md) | 4.56 | 0 | 629 |
 | 530 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,072 | 168 |
 | 530 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.56 | 23 | 601 |
-| 530 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 2,434 | 116 |
+| 530 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 2,441 | 116 |
 | 530 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 98 | 409 |
 | 530 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,756 | 89 |
 | 530 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 9,305 | 52 |
@@ -547,7 +547,7 @@
 | 530 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 25 | 591 |
 | 530 | [System Shock](games/s/system_shock.md) | 4.56 | 0 | 629 |
 | 530 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,805 | 137 |
-| 530 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,891 | 80 |
+| 530 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,900 | 80 |
 | 549 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 629 |
 | 549 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 356 | 261 |
 | 549 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 609 |
@@ -672,7 +672,7 @@
 | 658 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 629 |
 | 658 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 9,455 | 49 |
 | 658 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.49 | 199 | 327 |
-| 673 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 65 | 458 |
+| 673 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 66 | 457 |
 | 673 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 285 |
 | 673 | [Figment](games/f/figment.md) | 4.48 | 21 | 617 |
 | 673 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.48 | 0 | 629 |
@@ -804,7 +804,7 @@
 | 799 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 629 |
 | 799 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 75 | 444 |
 | 799 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 4.40 | 0 | 629 |
-| 799 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,096 | 165 |
+| 799 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,097 | 165 |
 | 799 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 629 |
 | 799 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 4.40 | 0 | 629 |
 | 799 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.40 | 28 | 570 |
