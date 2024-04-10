@@ -3,8 +3,8 @@
   "Name": "Costume Quest 2",
   "ProductSlug": "costume-quest-2",
   "Ranking_Rating": 769,
-  "Ranking_Popularity": 628,
-  "Ranking_PopularitySum": 628,
+  "Ranking_Popularity": 629,
+  "Ranking_PopularitySum": 629,
   "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -416,6 +416,6 @@
   "FirstSeen": "2022-07-22T20:26:19.5117232+00:00",
   "LastChanged": "2024-03-11T05:57:31.0816141+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:38.0334974+00:00",
-  "LastUpdate_Ratings": "2024-04-10T02:59:06.2218274+00:00",
+  "LastUpdate_Ratings": "2024-04-10T04:57:08.6957681+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:20.5663478+00:00"
 }
