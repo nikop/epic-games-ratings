@@ -1,7 +1,7 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 933)  
+Rating: 4.28 (Ranked 932)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -373,18 +373,18 @@ Completed: 7 (0.00%) (Ranked 455)
 | 2024-03-21 | 370,154 | 7 |
 | 2024-04-10 | 372,277 | 7 |
 ## Awards
-Max (Diverse Characters): 45  (Ranked 509)  
-Sum: 259 (Ranked 431)  
-Diff (max vs sum): 78  
+Max (Diverse Characters): 46  (Ranked 504)  
+Sum: 261 (Ranked 431)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 61 |
-| This game has Diverse Characters | 45 |
+| This game has Diverse Characters | 46 |
 | This game is Highly Recommended | 43 |
 | This game is Relaxing | 40 |
 | This game is Extremely Fun | 40 |
 | This game has Quickly Understood Controls | 35 |
-| This game has Unique Visuals | 29 |
+| This game has Unique Visuals | 30 |
 | This game has Amazing Storytelling | 27 |
 | This game has Easy Combat | 25 |
 ## Ratings History
@@ -563,3 +563,4 @@ Diff (max vs sum): 78
 | 2024-04-06 | 4.28 | 45 | 257 |
 | 2024-04-08 | 4.28 | 45 | 258 |
 | 2024-04-09 | 4.28 | 45 | 259 |
+| 2024-04-10 | 4.28 | 46 | 261 |

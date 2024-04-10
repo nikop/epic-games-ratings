@@ -4,7 +4,7 @@
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 658,
   "Ranking_Popularity": 49,
-  "Ranking_PopularitySum": 88,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -4665,18 +4665,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 13559,
       "NumberOfAwardsMax": 9455
+    },
+    {
+      "Time": "2024-04-10T16:57:37.3557088+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 13773,
+      "NumberOfAwardsMax": 9657
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13559,
-  "NumberOfAwardsMax": 9455,
+  "NumberOfAwards": 13773,
+  "NumberOfAwardsMax": 9657,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 9455
+      "Count": 9657
     },
     {
       "Text": "This game is Relaxing",
@@ -4688,7 +4694,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 489
+      "Count": 494
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4724,7 +4730,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 491
+      "Count": 498
     },
     {
       "Text": "This game has a Creative Community",
@@ -4753,9 +4759,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-04-10T14:59:38.0056955+00:00",
+  "LastChanged": "2024-04-10T16:57:37.3557086+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:57.3894963+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:20.8094374+00:00",
-  "LastUpdate_Ratings": "2024-04-10T14:59:38.0056962+00:00",
+  "LastUpdate_Ratings": "2024-04-10T16:57:37.3557091+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:57.3895014+00:00"
 }

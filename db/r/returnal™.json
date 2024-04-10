@@ -4,7 +4,7 @@
   "ProductSlug": "returnal",
   "Ranking_Rating": 530,
   "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1195,6 +1195,6 @@
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
   "LastChanged": "2024-04-04T01:42:35.8151628+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:50.1180383+00:00",
-  "LastUpdate_Ratings": "2024-04-10T15:59:08.5778473+00:00",
+  "LastUpdate_Ratings": "2024-04-10T17:00:36.2886003+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:50.6478401+00:00"
 }
