@@ -52,4 +52,4 @@
 | 48 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1 | 679 |
 | 48 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 1 | 381 |
 | 48 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 1 | 247 |
-| 4,190 | [Isonzo](games/i/isonzo.md) | -16 | 9,230 |
+| 4,191 | [Isonzo](games/i/isonzo.md) | -16 | 9,230 |
