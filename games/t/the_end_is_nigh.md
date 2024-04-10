@@ -1,7 +1,7 @@
 # The End is Nigh
 [Store](https://store.epicgames.com/en-US/p/the-end-is-nigh)  
 [View Rawdata](../../db/t/the_end_is_nigh.json)  
-Rating: 4.71 (Ranked 206)  
+Rating: 4.71 (Ranked 207)  
 Number of Ratings: 38  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
