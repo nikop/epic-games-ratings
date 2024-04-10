@@ -1,7 +1,7 @@
 # Deep Sky Derelicts
 [Store](https://store.epicgames.com/en-US/p/deep-sky-derelicts)  
 [View Rawdata](../../db/d/deep_sky_derelicts.json)  
-Rating: 4.40 (Ranked 800)  
+Rating: 4.40 (Ranked 799)  
 Number of Ratings: 37  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
