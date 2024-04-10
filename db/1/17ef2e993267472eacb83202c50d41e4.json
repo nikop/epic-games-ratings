@@ -2663,10 +2663,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 1434,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2024-04-10T17:58:41.1979421+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 1443,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1434,
+  "NumberOfAwards": 1443,
   "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2692,7 +2698,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 154
+      "Count": 155
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2716,7 +2722,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 224
+      "Count": 232
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -16621,9 +16627,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-04-10T14:58:29.1992908+00:00",
+  "LastChanged": "2024-04-10T17:58:41.1979419+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:49.1730904+00:00",
   "LastUpdate_AppInfo": "2024-04-10T02:14:17.0637074+00:00",
-  "LastUpdate_Ratings": "2024-04-10T16:01:05.5246932+00:00",
+  "LastUpdate_Ratings": "2024-04-10T17:58:41.1979424+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:49.173211+00:00"
 }
