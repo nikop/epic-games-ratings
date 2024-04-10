@@ -6,7 +6,7 @@
 | [Phantom Watcher](games/5/52635d084b7740968df20059b6fb9800.md) | 2024-04-09 | - |  | - | - |
 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 2024-04-09 | - |  | - | 0 |
 | [Hands of Necromancy](games/4/4887fdd384674d118eacfefd5bb26741.md) | 2024-04-09 | - |  | - | - |
-| [Last Hope Bunker: Zombie Survival](games/1/11b636268cb64c7f9feada368d41ba76.md) | 2024-04-09 | - |  | - | - |
+| [Last Hope Bunker: Zombie Survival](games/1/11b636268cb64c7f9feada368d41ba76.md) | 2024-04-09 | - |  | - | 0 |
 | [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 2024-04-08 | - |  | - | 0 |
 | [Might & Magic: Heroes VI](games/8/818d9be07fb64277a061245a24035c48.md) | 2024-04-08 | - |  | - | 0 |
 | [URBO](games/c/cd7de0977e0f4f7f8468653789569766.md) | 2024-04-08 | 29 (1,000 XP) | 0 | - | 0 |
