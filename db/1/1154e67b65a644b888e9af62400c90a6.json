@@ -6761,10 +6761,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9034,
       "NumberOfAwardsMax": 2903
+    },
+    {
+      "Time": "2024-04-10T01:42:08.2484479+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9039,
+      "NumberOfAwardsMax": 2903
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9034,
+  "NumberOfAwards": 9039,
   "NumberOfAwardsMax": 2903,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6814,7 +6820,7 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 611
+      "Count": 616
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6853,8 +6859,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-04-09T22:57:44.6062812+00:00",
+  "LastChanged": "2024-04-10T01:42:08.2484477+00:00",
   "LastUpdate_AppInfo": "2024-04-03T07:57:09.4575803+00:00",
-  "LastUpdate_Ratings": "2024-04-10T00:00:08.4437711+00:00",
+  "LastUpdate_Ratings": "2024-04-10T01:42:08.2484483+00:00",
   "LastUpdate_Achievements": "2024-03-21T17:08:03.9217899+00:00"
 }
