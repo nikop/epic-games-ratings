@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 89.00% | ~85 |
-| Suicide squad | 52.00% | ~49 |
-| Train hard, fight easy | 36.00% | ~34 |
-| Under cover | 36.00% | ~34 |
-| First blood | 36.00% | ~34 |
+| First success | 90.00% | ~86 |
+| Suicide squad | 51.00% | ~49 |
+| Train hard, fight easy | 35.00% | ~34 |
+| Under cover | 35.00% | ~34 |
+| First blood | 35.00% | ~34 |
 | Royal blessing | 29.00% | ~28 |
 | Blood and sand | 26.00% | ~25 |
 | A hidden snake | 25.00% | ~24 |
 | Surpass the teacher | 21.00% | ~20 |
 | Help of the Gell | 21.00% | ~20 |
+| Crimson rivers | 20.00% | ~19 |
 | Power of Inquisition | 20.00% | ~19 |
-| Crimson rivers | 19.00% | ~18 |
 | Vene, vidi, vici | 19.00% | ~18 |
 | All for one! | 19.00% | ~18 |
 | She-Wolf | 19.00% | ~18 |
 | Rage | 16.00% | ~15 |
-| Trial by cold | 15.00% | ~14 |
-| Berkanan Borgia | 13.00% | ~12 |
-| For the greater good | 11.00% | ~10 |
+| Trial by cold | 16.00% | ~15 |
+| Berkanan Borgia | 14.00% | ~13 |
+| For the greater good | 11.00% | ~11 |
 | The champion of the arena | 9.00% | ~9 |
+| The End | 9.00% | ~9 |
 | Stronger than Gellian steel | 8.00% | ~8 |
 | Punish the Punisher | 8.00% | ~8 |
-| The End | 8.00% | ~8 |
+| Collector | 7.00% | ~7 |
 | Cunning plan | 7.00% | ~7 |
-| Collector | 6.00% | ~6 |
 | Overplay the rogue | 6.00% | ~6 |
 | The best apprentice | 6.00% | ~6 |
+| First among Frisians | 6.00% | ~6 |
 | Defeat the bear | 6.00% | ~6 |
 | Protect the Healer! | 6.00% | ~6 |
-| First among Frisians | 5.00% | ~5 |
+| Nothing is settled | 6.00% | ~6 |
+| By own strength | 5.00% | ~5 |
 | All's fair in love and war | 5.00% | ~5 |
-| Nothing is settled | 5.00% | ~5 |
-| By own strength | 4.00% | ~4 |
 | Deadly strike | 4.00% | ~4 |
 | Do it yourself | 4.00% | ~4 |
 | There can be only one | 4.00% | ~4 |
@@ -54,8 +54,8 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 565)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 96 (Ranked 579)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,6 +104,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-24 | 82 | 0 |
 | 2024-02-22 | 91 | 0 |
 | 2024-03-21 | 95 | 0 |
+| 2024-04-10 | 96 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

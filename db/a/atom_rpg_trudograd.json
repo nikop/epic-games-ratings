@@ -5,10 +5,10 @@
   "Ranking_Rating": 486,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 596,
-  "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -270,7 +270,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1489,
+  "EOS_Progressed": 1507,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2365,6 +2365,11 @@
       "Time": "2024-03-21T17:11:13.5803612+00:00",
       "NumProgressed": 1489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:15.2925266+00:00",
+      "NumProgressed": 1507,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2376,7 +2381,7 @@
       "Name": "Admiral",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ALBINO_BLOODSUCKER",
@@ -2408,7 +2413,7 @@
       "Name": "Bronzovka",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "B_E",
@@ -2416,7 +2421,7 @@
       "Name": "Baby Eater",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "COMMANDO",
@@ -2424,7 +2429,7 @@
       "Name": "Commando",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEATH_OF_THE_AUTHOR",
@@ -2440,7 +2445,7 @@
       "Name": "Escalation of Conflict",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FIGHT_CLUB",
@@ -2464,7 +2469,7 @@
       "Name": "Holy Mountain",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HOUSEHOLD",
@@ -2472,7 +2477,7 @@
       "Name": "Household",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -2504,7 +2509,7 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -2512,7 +2517,7 @@
       "Name": "Goose Sacrifice",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MEMOIRS_OF_A_NIBBLER",
@@ -2520,7 +2525,7 @@
       "Name": "Memoirs of a Nibbler",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MYST_KNIFE",
@@ -2536,7 +2541,7 @@
       "Name": "An Old Friend",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "POSITRONIUM",
@@ -2560,7 +2565,7 @@
       "Name": "Rising Star",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SECOND_THOUGHT",
@@ -2568,7 +2573,7 @@
       "Name": "Second Thought",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SHADOW_OVER_TRUDOGRAD",
@@ -2584,7 +2589,7 @@
       "Name": "Sick Freak",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SIXTH_SENSE",
@@ -2592,7 +2597,7 @@
       "Name": "Sixth Sense",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TERRORIST",
@@ -2608,7 +2613,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -2624,14 +2629,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1295
+      "UsersEstimate": 1311
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1489,
+      "Progressed": 1507,
       "Completed": 0
     }
   ],
@@ -2639,8 +2644,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2024-02-20T21:58:13.5436443+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:13.5803607+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:15.2925261+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:37.1786693+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:22.7499945+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:13.5803971+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:10.1555862+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:15.2925535+00:00"
 }

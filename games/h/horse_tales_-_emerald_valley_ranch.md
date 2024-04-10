@@ -4,46 +4,47 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 58.00% | ~21 |
-| The Mastercrafter | 44.00% | ~16 |
-| A helping hand | 36.00% | ~13 |
-| Racing horse | 36.00% | ~13 |
-| Builder | 33.00% | ~12 |
-| Finding Esmeé | 33.00% | ~12 |
-| Horse Whisperer | 31.00% | ~11 |
-| The Champion of Sneaky Ways | 31.00% | ~11 |
-| Junior Show Jumper | 25.00% | ~9 |
-| Finding Lili | 22.00% | ~8 |
-| Masseur | 19.00% | ~7 |
-| Friendship | 19.00% | ~7 |
-| Rodeo Rider | 17.00% | ~6 |
-| Beginner's Luck | 17.00% | ~6 |
-| A Star On The Rise | 17.00% | ~6 |
-| Party Crasher | 17.00% | ~6 |
-| Legendary Steed | 17.00% | ~6 |
-| Surprise! | 17.00% | ~6 |
-| Dog Lover | 17.00% | ~6 |
-| Equine Coiffeur | 14.00% | ~5 |
-| Bon appétit! | 8.00% | ~3 |
-| Squeaky clean | 8.00% | ~3 |
-| Cat Lover | 8.00% | ~3 |
-| Tea Time | 6.00% | ~2 |
-| Apple Pie | 6.00% | ~2 |
-| Buckaroo | 6.00% | ~2 |
-| Paranormal Investigator | 6.00% | ~2 |
-| The Birds and the Bees | 3.00% | ~1 |
+| Newbie | 57.00% | ~30 |
+| The Mastercrafter | 45.00% | ~24 |
+| Builder | 42.00% | ~22 |
+| Horse Whisperer | 40.00% | ~21 |
+| Racing horse | 40.00% | ~21 |
+| The Champion of Sneaky Ways | 38.00% | ~20 |
+| Finding Esmeé | 38.00% | ~20 |
+| A helping hand | 32.00% | ~17 |
+| Junior Show Jumper | 32.00% | ~17 |
+| Rodeo Rider | 26.00% | ~14 |
+| Finding Lili | 25.00% | ~13 |
+| Equine Coiffeur | 23.00% | ~12 |
+| Beginner's Luck | 23.00% | ~12 |
+| Masseur | 21.00% | ~11 |
+| Friendship | 21.00% | ~11 |
+| Dog Lover | 21.00% | ~11 |
+| A Star On The Rise | 19.00% | ~10 |
+| Party Crasher | 19.00% | ~10 |
+| Legendary Steed | 19.00% | ~10 |
+| Surprise! | 19.00% | ~10 |
+| Bon appétit! | 17.00% | ~9 |
+| Squeaky clean | 13.00% | ~7 |
+| The Birds and the Bees | 11.00% | ~6 |
+| Cat Lover | 11.00% | ~6 |
+| Tea Time | 9.00% | ~5 |
+| Buckaroo | 8.00% | ~4 |
+| Paranormal Investigator | 6.00% | ~3 |
+| Apple Pie | 4.00% | ~2 |
+| Tenacious Explorer | 2.00% | ~1 |
 | Completionist | 0.00% | ~0 |
 | Like Lemmings | 0.00% | ~0 |
 | Stud Manager | 0.00% | ~0 |
-| Tenacious Explorer | 0.00% | ~0 |
 | Champion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 666)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 53 (Ranked 644)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 36 | 0 |
+| 2024-04-10 | 53 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

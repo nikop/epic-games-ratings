@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 443,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 328,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-08-10T08:00:42.4575271+00:00",
@@ -1314,6 +1314,11 @@
       "Time": "2024-03-21T17:10:27.5223619+00:00",
       "NumProgressed": 322,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:04:47.0928935+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1334,7 +1339,7 @@
       "Name": "Across The Styx",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1356,17 +1361,17 @@
       "ID": "SG_ARROWOFEROSUNDONE",
       "SetID": "bj5g0n4",
       "Name": "Arrow Of Eros Undone",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_BRANDNEWCHORUS",
       "SetID": "bj5g0n4",
       "Name": "Brand New Chorus",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -1398,7 +1403,7 @@
       "Name": "End Of The Road",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 246
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1406,7 +1411,7 @@
       "Name": "Everything Has Changed",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_FIERY",
@@ -1420,9 +1425,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1430,7 +1435,7 @@
       "Name": "Heartbreaker",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1438,15 +1443,15 @@
       "Name": "Like Heroes Before You",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SG_LOSTINASONG",
       "SetID": "bj5g0n4",
       "Name": "Lost In A Song",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "SG_MAESTRO",
@@ -1460,17 +1465,17 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "SG_NOTALOSTGIRL",
@@ -1478,7 +1483,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1486,7 +1491,7 @@
       "Name": "Not Taking Any Chances",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_QUEENWITHOUTATHRONE",
@@ -1518,7 +1523,7 @@
       "Name": "Snake Charmer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -1526,7 +1531,7 @@
       "Name": "Talk To The Hand",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SG_THEANSWERISYOU",
@@ -1542,15 +1547,15 @@
       "Name": "The Choice Is Yours",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1574,7 +1579,7 @@
       "Name": "The Muse\u2019s Encore",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -1590,7 +1595,7 @@
       "Name": "The Ultimate Sacrifice",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_THISHELLISMINE",
@@ -1621,14 +1626,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 328,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:27.5223614+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:47.0928929+00:00",
   "LastUpdate_AppInfo": "2024-04-05T02:13:48.5664535+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:18.779045+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:27.5223947+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:05.7565219+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:47.0929176+00:00"
 }

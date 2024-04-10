@@ -5,10 +5,10 @@
   "Ranking_Rating": 959,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 127,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 17,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73008,
+  "EOS_Progressed": 73060,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21578,6 +21578,11 @@
       "Time": "2024-04-07T18:03:26.4585971+00:00",
       "NumProgressed": 73008,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-04-10T06:06:58.9818072+00:00",
+      "NumProgressed": 73060,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -21589,7 +21594,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_BONFIRES",
@@ -21597,15 +21602,15 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2192
     },
     {
       "ID": "ACH_CHURCHCANDLES",
       "SetID": "6ccjg6f",
       "Name": "Bless me Father...",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 657
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -21613,7 +21618,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -21661,7 +21666,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -21677,7 +21682,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -21701,7 +21706,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -21717,7 +21722,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_STAMINA",
@@ -21725,7 +21730,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2920
+      "UsersEstimate": 2922
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -21733,7 +21738,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_TOOLS",
@@ -21741,14 +21746,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2192
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 73008,
+      "Progressed": 73060,
       "Completed": 18
     }
   ],
@@ -21756,8 +21761,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-04-07T18:03:26.4585966+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:58.9818066+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:43.0812072+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:08.8101657+00:00",
-  "LastUpdate_Achievements": "2024-04-07T18:03:26.4587089+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:23.8047097+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:58.9819274+00:00"
 }

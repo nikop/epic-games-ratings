@@ -35,21 +35,22 @@
 | Under One Roof | 13.00% | ~77 |
 | Cashflow Chief | 13.00% | ~77 |
 | Starred Dining | 12.00% | ~71 |
-| Boutique Benefits | 11.00% | ~65 |
+| Boutique Benefits | 12.00% | ~71 |
 | Thrilled Tenants | 11.00% | ~65 |
 | Smooth Operator | 10.00% | ~59 |
 | 28 Days Later | 10.00% | ~59 |
 | Terrifically Trashed | 10.00% | ~59 |
 | Swimming in Surplus | 9.00% | ~53 |
 | Aestheticly Pleased | 8.00% | ~47 |
+| Plaza Plan | 8.00% | ~47 |
+| Master of Puppets | 8.00% | ~47 |
 | Refined Palates | 8.00% | ~47 |
 | First 100 Days | 7.00% | ~42 |
 | Water Features | 7.00% | ~42 |
-| Plaza Plan | 7.00% | ~42 |
-| Master of Puppets | 7.00% | ~42 |
 | Revenue Royalty | 6.00% | ~36 |
 | Golden Opportunity | 6.00% | ~36 |
 | Phoning It In | 6.00% | ~36 |
+| I'm Busy Ruling | 5.00% | ~30 |
 | Careful Constructor | 5.00% | ~30 |
 | Meet Me at HQ | 5.00% | ~30 |
 | Maximum Reuse | 5.00% | ~30 |
@@ -59,7 +60,6 @@
 | Meet ADA/360 | 4.00% | ~24 |
 | Penthouse in the Sky | 4.00% | ~24 |
 | Baron of Business | 4.00% | ~24 |
-| I'm Busy Ruling | 4.00% | ~24 |
 | Sandbagger | 4.00% | ~24 |
 | Sky High Stature | 4.00% | ~24 |
 | Profound Proceeds | 4.00% | ~24 |
@@ -93,8 +93,8 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 593 (Ranked 383)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 593 (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

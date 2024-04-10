@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 76.00% | ~132 |
-| Gear Up | 65.00% | ~113 |
-| A Grand Show | 65.00% | ~113 |
-| Freshen Up | 55.00% | ~96 |
-| GG EZ | 52.00% | ~90 |
-| Hydrophobia | 35.00% | ~61 |
-| Ka-Ching! | 29.00% | ~50 |
-| Stop Right There | 28.00% | ~49 |
-| Get to the Point | 24.00% | ~42 |
+| Iceberg Theory | 76.00% | ~134 |
+| Gear Up | 64.00% | ~113 |
+| A Grand Show | 64.00% | ~113 |
+| Freshen Up | 54.00% | ~95 |
+| GG EZ | 52.00% | ~92 |
+| Hydrophobia | 35.00% | ~62 |
+| Ka-Ching! | 29.00% | ~51 |
+| Stop Right There | 27.00% | ~48 |
+| Get to the Point | 23.00% | ~40 |
 | Phew! | 16.00% | ~28 |
-| Mr. Want It All | 14.00% | ~24 |
-| Toe to Toe | 14.00% | ~24 |
+| Mr. Want It All | 14.00% | ~25 |
+| Toe to Toe | 14.00% | ~25 |
 | The Hidden Secret | 13.00% | ~23 |
-| Grand Escape | 10.00% | ~17 |
-| Space Warrior: Prologue | 10.00% | ~17 |
+| Grand Escape | 10.00% | ~18 |
+| Space Warrior: Prologue | 10.00% | ~18 |
 | The Abyss Conqueror | 9.00% | ~16 |
 | The Fortress Conqueror | 7.00% | ~12 |
 | Keep it Up, rookie! | 7.00% | ~12 |
@@ -41,10 +41,10 @@
 | Air Interception | 3.00% | ~5 |
 | Proliferation | 3.00% | ~5 |
 | Bye Bye Gravity | 3.00% | ~5 |
-| Break Through the Forbidden | 2.00% | ~3 |
-| Breaking the Limit | 2.00% | ~3 |
-| Pumped Up | 2.00% | ~3 |
-| Burn After Reading | 2.00% | ~3 |
+| Break Through the Forbidden | 2.00% | ~4 |
+| Breaking the Limit | 2.00% | ~4 |
+| Pumped Up | 2.00% | ~4 |
+| Burn After Reading | 2.00% | ~4 |
 | Alloy Rangers, Assemble! | 1.00% | ~2 |
 | Easy Peasy | 1.00% | ~2 |
 | Clean Sweep | 1.00% | ~2 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.60% | ~1 |
 | Super Alloy Ranger! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 498)  
-Completed: 1 (0.57%) (Ranked 249)  
+Progressed: 176 (Ranked 513)  
+Completed: 1 (0.57%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,6 +149,7 @@ Completed: 1 (0.57%) (Ranked 249)
 | 2024-01-22 | 162 | 1 |
 | 2024-02-22 | 168 | 1 |
 | 2024-03-21 | 174 | 1 |
+| 2024-04-10 | 176 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

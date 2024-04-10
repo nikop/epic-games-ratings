@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play It Again Sam | 91.00% | ~366 |
-| Strong Silent Type | 91.00% | ~366 |
-| Play Me By The Hour | 71.00% | ~285 |
-| Patient Listener | 47.00% | ~189 |
-| Video Saved The Radio Star | 40.00% | ~161 |
-| Hashtag Winning | 37.00% | ~149 |
-| A Woman Scorned | 27.00% | ~109 |
-| Look Mum I'm A Detective | 20.00% | ~80 |
-| Chameleon | 19.00% | ~76 |
-| Highlander | 18.00% | ~72 |
-| You Had One Job | 14.00% | ~56 |
-| Book 'em Danny | 12.00% | ~48 |
-| Oscar Winning Performance | 11.00% | ~44 |
-| Poetent | 11.00% | ~44 |
-| Voyeur | 10.00% | ~40 |
-| Put A Ring On It | 9.00% | ~36 |
-| Heavy Rayne | 8.00% | ~32 |
-| Chicken | 7.00% | ~28 |
-| Bullseye | 4.00% | ~16 |
-| Show Me Some Skin | 4.00% | ~16 |
-| The Big Sleep | 4.00% | ~16 |
+| Play It Again Sam | 91.00% | ~379 |
+| Strong Silent Type | 91.00% | ~379 |
+| Play Me By The Hour | 70.00% | ~292 |
+| Patient Listener | 47.00% | ~196 |
+| Video Saved The Radio Star | 40.00% | ~167 |
+| Hashtag Winning | 37.00% | ~154 |
+| A Woman Scorned | 26.00% | ~108 |
+| Look Mum I'm A Detective | 20.00% | ~83 |
+| Chameleon | 19.00% | ~79 |
+| Highlander | 17.00% | ~71 |
+| You Had One Job | 14.00% | ~58 |
+| Book 'em Danny | 12.00% | ~50 |
+| Oscar Winning Performance | 11.00% | ~46 |
+| Poetent | 11.00% | ~46 |
+| Voyeur | 10.00% | ~42 |
+| Heavy Rayne | 8.00% | ~33 |
+| Put A Ring On It | 8.00% | ~33 |
+| Chicken | 6.00% | ~25 |
+| Bullseye | 4.00% | ~17 |
+| Show Me Some Skin | 4.00% | ~17 |
+| The Big Sleep | 4.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402 (Ranked 417)  
-Completed: 3 (0.75%) (Ranked 229)  
+Progressed: 417 (Ranked 423)  
+Completed: 3 (0.72%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 3 (0.75%) (Ranked 229)
 | 2024-01-26 | 351 | 3 |
 | 2024-02-22 | 379 | 3 |
 | 2024-03-21 | 402 | 3 |
+| 2024-04-10 | 417 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

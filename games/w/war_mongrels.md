@@ -6,48 +6,48 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~1,589 |
-| Cowardice | 58.00% | ~1,463 |
-| The Breaking Point | 36.00% | ~908 |
-| It's Just an Accident | 31.00% | ~782 |
-| The Motivation | 28.00% | ~706 |
-| Heroism | 26.00% | ~656 |
-| Collectibles of Chapter I | 24.00% | ~606 |
-| Sniper Wolf | 24.00% | ~606 |
-| Consequences | 23.00% | ~580 |
-| Opportunities | 21.00% | ~530 |
-| The Horror | 19.00% | ~479 |
-| Helping Hand | 19.00% | ~479 |
-| The Difference | 18.00% | ~454 |
-| Prospector | 16.00% | ~404 |
-| Collectibles of Chapter II | 16.00% | ~404 |
-| Vengeance | 16.00% | ~404 |
-| Broken Hopes | 15.00% | ~378 |
-| Here Comes the Boom | 15.00% | ~378 |
-| NO LIFE IS WORTH SAVING... | 15.00% | ~378 |
-| Eat Lead! | 15.00% | ~378 |
-| King of Knives | 15.00% | ~378 |
-| Bullseye! | 15.00% | ~378 |
-| Sorrow | 13.00% | ~328 |
-| Treasure Hunter | 12.00% | ~303 |
-| Atonement | 12.00% | ~303 |
-| Missing in Action | 11.00% | ~278 |
-| Tiptoe Around | 10.00% | ~252 |
-| Without a Second Thought | 9.00% | ~227 |
-| Collectibles of Chapter III | 8.00% | ~202 |
-| Collectibles of Chapter IV | 8.00% | ~202 |
-| Collectibles of Chapter V | 6.00% | ~151 |
-| It Will Rain | 6.00% | ~151 |
-| Food Massacre | 6.00% | ~151 |
-| Such is War! | 5.00% | ~126 |
-| Not Spill a Drop | 5.00% | ~126 |
-| Collectibles of Chapter XII | 4.00% | ~101 |
+| Explorer | 63.00% | ~1,602 |
+| Cowardice | 58.00% | ~1,475 |
+| The Breaking Point | 36.00% | ~915 |
+| It's Just an Accident | 31.00% | ~788 |
+| The Motivation | 29.00% | ~737 |
+| Heroism | 26.00% | ~661 |
+| Collectibles of Chapter I | 24.00% | ~610 |
+| Sniper Wolf | 24.00% | ~610 |
+| Consequences | 23.00% | ~585 |
+| Opportunities | 21.00% | ~534 |
+| The Horror | 19.00% | ~483 |
+| Helping Hand | 19.00% | ~483 |
+| The Difference | 18.00% | ~458 |
+| Prospector | 16.00% | ~407 |
+| Collectibles of Chapter II | 16.00% | ~407 |
+| Vengeance | 16.00% | ~407 |
+| King of Knives | 16.00% | ~407 |
+| Broken Hopes | 15.00% | ~381 |
+| Here Comes the Boom | 15.00% | ~381 |
+| NO LIFE IS WORTH SAVING... | 15.00% | ~381 |
+| Eat Lead! | 15.00% | ~381 |
+| Bullseye! | 15.00% | ~381 |
+| Sorrow | 13.00% | ~331 |
+| Treasure Hunter | 12.00% | ~305 |
+| Atonement | 12.00% | ~305 |
+| Missing in Action | 11.00% | ~280 |
+| Tiptoe Around | 10.00% | ~254 |
+| Without a Second Thought | 9.00% | ~229 |
+| Collectibles of Chapter III | 8.00% | ~203 |
+| Collectibles of Chapter IV | 8.00% | ~203 |
+| Collectibles of Chapter V | 6.00% | ~153 |
+| It Will Rain | 6.00% | ~153 |
+| Food Massacre | 6.00% | ~153 |
+| Such is War! | 5.00% | ~127 |
+| Not Spill a Drop | 5.00% | ~127 |
+| Collectibles of Chapter XII | 4.00% | ~102 |
 | Collectibles of Chapter VII | 3.00% | ~76 |
 | The Good Samaritan | 3.00% | ~76 |
-| Collectibles of Chapter VIII | 2.00% | ~50 |
-| Collectibles of Chapter X | 2.00% | ~50 |
-| Collectibles of Chapter XI | 2.00% | ~50 |
-| Piece of Cake | 2.00% | ~50 |
+| Collectibles of Chapter VIII | 2.00% | ~51 |
+| Collectibles of Chapter X | 2.00% | ~51 |
+| Collectibles of Chapter XI | 2.00% | ~51 |
+| Piece of Cake | 2.00% | ~51 |
 | Collectibles of Chapter IX | 1.00% | ~25 |
 | Collectibles of Chapter VI | 0.90% | ~23 |
 | Hold a Door | 0.80% | ~20 |
@@ -66,8 +66,8 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~3 |
 | Challenges of Chapter XII | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,523 (Ranked 263)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 2,543 (Ranked 269)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -288,6 +288,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-02-22 | 2,106 | 0 |
 | 2024-03-21 | 2,436 | 0 |
 | 2024-04-05 | 2,523 | 0 |
+| 2024-04-10 | 2,543 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

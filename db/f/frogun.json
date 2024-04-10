@@ -2,10 +2,10 @@
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
   "ProductSlug": "frogun-9cf69e",
-  "Ranking_EOS_Progress": 465,
-  "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 471,
+  "Ranking_EOS_Completed": 165,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
     "PcReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 249,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -295,6 +295,11 @@
       "Time": "2024-03-21T17:09:45.5167393+00:00",
       "NumProgressed": 248,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-04-10T06:04:20.4694316+00:00",
+      "NumProgressed": 249,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -306,7 +311,7 @@
       "Name": "Coin collector",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Achievement_Beelzebub",
@@ -322,7 +327,7 @@
       "Name": "Treasure hunter",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Achievement_Hexy",
@@ -346,7 +351,7 @@
       "Name": "Survivalist",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Achievement_Notes",
@@ -354,7 +359,7 @@
       "Name": "Historian",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Achievement_Prickly",
@@ -362,7 +367,7 @@
       "Name": "Prickly situation handler",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Achievement_Race1",
@@ -392,25 +397,25 @@
       "ID": "Achievement_Skull",
       "SetID": "cn6a29l",
       "Name": "Challenge seeker",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 199
     },
     {
       "ID": "Achievement_TimeTrial",
       "SetID": "cn6a29l",
       "Name": "Speedrunner",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 109
+      "UsersEstimate": 107
     },
     {
       "ID": "Achievement_Wrintry",
       "SetID": "cn6a29l",
       "Name": "Snow digger",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_arena",
@@ -553,7 +558,7 @@
     {
       "ID": "cn6a29l",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 249,
       "Completed": 4
     }
   ],
@@ -561,8 +566,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:45.5167387+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:20.469431+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:07.0375501+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:38.1653221+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:45.5167593+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:26.2908918+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:20.4694489+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "72aad6a073a644afb21d0966e2737c42",
   "Name": "KARJALA",
   "ProductSlug": "karjala-b7ca49",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-08T02:15:57.7781544+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:55.2260275+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:39.0033542+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:40.2475334+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:37.8478269+00:00"
 }

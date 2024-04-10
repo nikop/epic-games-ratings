@@ -2,10 +2,10 @@
   "ID": "f50caaf75b0e475abf98bcde051e3d03",
   "Name": "Fading Faith",
   "ProductSlug": "fading-faith-b2e40a",
-  "Ranking_EOS_Progress": 724,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 739,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-05-31T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -88,8 +88,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-24T16:03:29.5594831+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:20.0656517+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:27.7450808+00:00",
   "LastUpdate_AppInfo": "2024-04-03T21:11:55.4305938+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:41.616659+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:20.0665871+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:00.259736+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:27.7450881+00:00"
 }

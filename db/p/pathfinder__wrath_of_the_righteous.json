@@ -5,10 +5,10 @@
   "Ranking_Rating": 140,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 135,
-  "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5651,7 +5651,7 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 13726,
+  "EOS_Progressed": 13841,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -20866,6 +20866,11 @@
       "Time": "2024-03-21T17:11:46.7773309+00:00",
       "NumProgressed": 13726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:38.2221318+00:00",
+      "NumProgressed": 13841,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20877,7 +20882,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 3981
+      "UsersEstimate": 4014
     },
     {
       "ID": "02_BurningCity",
@@ -20885,7 +20890,7 @@
       "Name": "Burning City",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2745
+      "UsersEstimate": 2768
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -20893,23 +20898,23 @@
       "Name": "Banner over the Citadel",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2076
     },
     {
       "ID": "04_FithCrusade",
       "SetID": "989of5o",
       "Name": "Fifth Crusade",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1384
     },
     {
       "ID": "05_EmbraceOfAbyss",
       "SetID": "989of5o",
       "Name": "Embrace of the Abyss",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 1107
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -20917,7 +20922,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 554
     },
     {
       "ID": "07_FinalThreshold",
@@ -20925,7 +20930,7 @@
       "Name": "The Final Threshold",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 277
     },
     {
       "ID": "08_PathOfAngel",
@@ -20933,7 +20938,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 969
     },
     {
       "ID": "09_PathOfDemon",
@@ -20941,7 +20946,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 277
     },
     {
       "ID": "10_PathOfAzata",
@@ -20949,7 +20954,7 @@
       "Name": "Path of the Azata",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 692
     },
     {
       "ID": "11_PathOfAeon",
@@ -20957,7 +20962,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 277
     },
     {
       "ID": "12_PathOfTrickster",
@@ -20965,7 +20970,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 415
     },
     {
       "ID": "13_PathOfLich",
@@ -20973,7 +20978,7 @@
       "Name": "Path of the Lich",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 415
     },
     {
       "ID": "14_PathOfSwarm",
@@ -20981,7 +20986,7 @@
       "Name": "Path of the Swarm",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "15_PathOfDragon",
@@ -20989,7 +20994,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "16_PathOfLegend",
@@ -20997,7 +21002,7 @@
       "Name": "Path of the Legend",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "17_Transformation",
@@ -21005,7 +21010,7 @@
       "Name": "Transformation",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 824
+      "UsersEstimate": 830
     },
     {
       "ID": "18_MythicChoices",
@@ -21013,7 +21018,7 @@
       "Name": "Mythic Choices",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2353
     },
     {
       "ID": "19_EqualToAroden",
@@ -21029,7 +21034,7 @@
       "Name": "Spirit of Adventure",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "21_TestOfStarstone",
@@ -21053,7 +21058,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "24_Legacy",
@@ -21061,23 +21066,23 @@
       "Name": "The Legacy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 692
     },
     {
       "ID": "25_MasterfulDispell",
       "SetID": "989of5o",
       "Name": "Masterful Dispel",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "27_VictorySeige",
       "SetID": "989of5o",
       "Name": "Queen\u0027s Gratitude",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1938
     },
     {
       "ID": "28_GreatUpstart",
@@ -21085,7 +21090,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 830
     },
     {
       "ID": "29_StrategicVictory",
@@ -21093,7 +21098,7 @@
       "Name": "Strategic Victory",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "30_BattlefieldVictory",
@@ -21101,7 +21106,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 415
     },
     {
       "ID": "31_DivideAndRule",
@@ -21109,15 +21114,15 @@
       "Name": "Divide and Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 692
     },
     {
       "ID": "32_MythicReinforcements",
       "SetID": "989of5o",
       "Name": "Mythic Reinforcements",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 692
     },
     {
       "ID": "33_DefendersHeart",
@@ -21125,7 +21130,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2333
+      "UsersEstimate": 2353
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -21133,7 +21138,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 415
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -21141,15 +21146,15 @@
       "Name": "Abyssal Conspiracy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 277
     },
     {
       "ID": "36_CoreOfRiddle",
       "SetID": "989of5o",
       "Name": "Core of the Riddle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 554
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -21157,7 +21162,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 277
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -21165,7 +21170,7 @@
       "Name": "Prelate\u0027s Nemesis",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "39_Blight of Drezen",
@@ -21181,7 +21186,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "41_PlayfulMood",
@@ -21189,7 +21194,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "42_JustPathetic",
@@ -21205,7 +21210,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "44_AshesToAshes",
@@ -21221,7 +21226,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 830
     },
     {
       "ID": "46_AllPathsOpen",
@@ -21229,7 +21234,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 830
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -21245,7 +21250,7 @@
       "Name": "A Spark",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2907
     },
     {
       "ID": "49_Flame",
@@ -21253,7 +21258,7 @@
       "Name": "A Flame",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 692
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -21261,15 +21266,15 @@
       "Name": "Hey, I Know You!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 554
     },
     {
       "ID": "51_DemonicAndDivine",
       "SetID": "989of5o",
       "Name": "Demonic and Divine",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 961
+      "UsersEstimate": 1107
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -21277,7 +21282,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 277
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -21285,7 +21290,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "54_DeathByColumn",
@@ -21299,9 +21304,9 @@
       "ID": "55_NextDoorPlay",
       "SetID": "989of5o",
       "Name": "Next-Door Play",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 830
     },
     {
       "ID": "56_GetToad",
@@ -21309,7 +21314,7 @@
       "Name": "Get the Toad",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 692
     },
     {
       "ID": "57_PathOfDevil",
@@ -21749,7 +21754,7 @@
       "Name": "Stay Underground",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 379
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -21757,7 +21762,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 379
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -21765,7 +21770,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 379
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -21773,7 +21778,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 252
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -21781,7 +21786,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 252
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -21789,7 +21794,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 505
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -21797,28 +21802,28 @@
       "Name": "Beware Still Water",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 505
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12508,
+      "Progressed": 12623,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13726,
+      "Progressed": 13841,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-04-09T22:57:33.5202626+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:46.7773303+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:38.2221312+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:08.432727+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:54.7946164+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:46.7775089+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:11.2826728+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:38.2222987+00:00"
 }

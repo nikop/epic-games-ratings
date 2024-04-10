@@ -2,10 +2,10 @@
   "ID": "11b8633de3e0400fb6afad8c6f9eafe1",
   "Name": "Farm and Fix Simulator",
   "ProductSlug": "farm-and-fix-simulator-702872",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-07T12:58:11.8918409+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:02.4754679+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:16.1881583+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:25.4405782+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:04.3859116+00:00"
 }

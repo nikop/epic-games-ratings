@@ -2,10 +2,10 @@
   "ID": "e885327ce4414509bff4c10757f88334",
   "Name": "Wuthering Waves",
   "ProductSlug": "wuthering-waves-76ebc5",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-06T02:57:11.9583232+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:32.648738+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:23.8520659+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:43.4810602+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:58.3915253+00:00"
 }

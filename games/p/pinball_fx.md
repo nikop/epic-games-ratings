@@ -6,34 +6,36 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 2.00% | ~6,207 |
-| I Found it! | 0.80% | ~2,483 |
-| Ready Steady Score | 0.30% | ~931 |
-| Contender | 0.20% | ~621 |
-| First but not Last | 0.20% | ~621 |
-| Full Loot Madness | 0.20% | ~621 |
-| My Table, my Rules | 0.10% | ~310 |
-| Collect Them All | 0.10% | ~310 |
-| Shiny Memento | 0.10% | ~310 |
-| Table Mastered, part 10 | 0.10% | ~310 |
-| Medal Hunter | 0.10% | ~310 |
-| Medal Wizard | 0.10% | ~310 |
-| Pinball Hoarder | 0.10% | ~310 |
-| Virtual Pinball Museum | 0.10% | ~310 |
-| Nine Zeroes | 0.10% | ~310 |
-| Challenge Accepted! | 0.10% | ~310 |
-| Relic Hunter | 0.10% | ~310 |
-| Interior Designer | 0.10% | ~310 |
-| Show Them | 0.10% | ~310 |
-| Totally Furnished | 0.10% | ~310 |
-| Dress Code | 0.10% | ~310 |
-| Customizer | 0.10% | ~310 |
-| I know the Rules | 0.10% | ~310 |
-| Catomic Bomb | 0.10% | ~29 |
-| The Captain | 0.10% | ~29 |
-| Battle of Cardassia | 0.10% | ~29 |
-| Did It for the Dowry | 0.10% | ~29 |
-| End of Gloom | 0.10% | ~29 |
+| Ball Launched | 3.00% | ~9,436 |
+| I Found it! | 1.00% | ~3,145 |
+| Ready Steady Score | 0.50% | ~1,573 |
+| First but not Last | 0.40% | ~1,258 |
+| Full Loot Madness | 0.30% | ~944 |
+| Contender | 0.20% | ~629 |
+| My Table, my Rules | 0.10% | ~315 |
+| Collect Them All | 0.10% | ~315 |
+| Shiny Memento | 0.10% | ~315 |
+| Table Mastered, part 10 | 0.10% | ~315 |
+| Medal Hunter | 0.10% | ~315 |
+| Medal Wizard | 0.10% | ~315 |
+| Pinball Hoarder | 0.10% | ~315 |
+| Virtual Pinball Museum | 0.10% | ~315 |
+| Nine Zeroes | 0.10% | ~315 |
+| Challenge Accepted! | 0.10% | ~315 |
+| Relic Hunter | 0.10% | ~315 |
+| Interior Designer | 0.10% | ~315 |
+| Show Them | 0.10% | ~315 |
+| Totally Furnished | 0.10% | ~315 |
+| Dress Code | 0.10% | ~315 |
+| Customizer | 0.10% | ~315 |
+| I know the Rules | 0.10% | ~315 |
+| Catomic Bomb | 0.10% | ~33 |
+| The Captain | 0.10% | ~33 |
+| Battle of Cardassia | 0.10% | ~33 |
+| Did It for the Dowry | 0.10% | ~33 |
+| Glorious victory | 0.10% | ~33 |
+| The most beautiful Christmas | 0.10% | ~33 |
+| End of Gloom | 0.10% | ~33 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -43,12 +45,10 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Terraformer | 0.00% | ~0 |
 | To boldly go… | 0.00% | ~0 |
-| Glorious victory | 0.00% | ~0 |
-| The most beautiful Christmas | 0.00% | ~0 |
 | Evil AI unplugged | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310,363 (Ranked 69)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 314,529 (Ranked 71)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,6 +332,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 299,089 | 0 |
 | 2024-02-22 | 304,959 | 0 |
 | 2024-03-21 | 310,363 | 0 |
+| 2024-04-10 | 314,529 | 0 |
 ## Awards
 Max (Great for Beginners): 227  (Ranked 308)  
 Sum: 1,717 (Ranked 245)  

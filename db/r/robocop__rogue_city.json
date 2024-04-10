@@ -5,10 +5,10 @@
   "Ranking_Rating": 783,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 433,
-  "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -857,7 +857,7 @@
       "Count": 255
     }
   ],
-  "EOS_Progressed": 5019,
+  "EOS_Progressed": 5269,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -4817,6 +4817,11 @@
       "Time": "2024-03-21T17:09:51.1849876+00:00",
       "NumProgressed": 5019,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:04:24.0120884+00:00",
+      "NumProgressed": 5269,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -4829,7 +4834,7 @@
       "Name": "I\u0027d Buy That For a Dollar!",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "FinishCSI",
@@ -4837,7 +4842,7 @@
       "Name": "Hard Boiled",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GiveTicket",
@@ -4845,7 +4850,7 @@
       "Name": "Uphold the Law",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "HackTurret",
@@ -4853,7 +4858,7 @@
       "Name": "May Be Used Against You",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "HighRatedEvaluation",
@@ -4861,31 +4866,31 @@
       "Name": "Officer of the month",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Kill3WithExplosion",
       "SetID": "80nhi4a",
       "Name": "Nukem!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "KillBikerWithHisBike",
       "SetID": "80nhi4a",
       "Name": "Live by the bike...",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 11
     },
     {
       "ID": "KillEnemyWithThrowable",
       "SetID": "80nhi4a",
       "Name": "Strikeout!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "L15Efficiency",
@@ -4901,7 +4906,7 @@
       "Name": "All Adds Up",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Ql01station",
@@ -4909,7 +4914,7 @@
       "Name": "Night Has Just Begun",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ql04soot",
@@ -4917,7 +4922,7 @@
       "Name": "Dead or Alive",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Ql06ED",
@@ -4925,7 +4930,7 @@
       "Name": "Twenty Seconds to Comply",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Ql09bank",
@@ -4933,7 +4938,7 @@
       "Name": "Don\u0027t Mess With the Money!",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Ql12mall",
@@ -4941,7 +4946,7 @@
       "Name": "Book Him!",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Ql17prisonbreak",
@@ -4949,7 +4954,7 @@
       "Name": "Let\u0027s Talk",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Ql21ocphq",
@@ -4957,7 +4962,7 @@
       "Name": "Cashing Out",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Ql25wendel",
@@ -4965,7 +4970,7 @@
       "Name": "Not Arresting You Anymore",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ql27ENDGAME",
@@ -4973,7 +4978,7 @@
       "Name": "\u0022Nice shooting, son\u0022",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SaveCat",
@@ -4981,7 +4986,7 @@
       "Name": "A Real Hero",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SecretArcadeRoom",
@@ -4989,7 +4994,7 @@
       "Name": "No stone unturned",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SecretAuto9Board",
@@ -5003,9 +5008,9 @@
       "ID": "ShootInTheBalls",
       "SetID": "80nhi4a",
       "Name": "Zip This Up",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 21
     },
     {
       "ID": "ShootingRangeBronze",
@@ -5013,7 +5018,7 @@
       "Name": "Dead-On",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ShootingRangeGold",
@@ -5021,7 +5026,7 @@
       "Name": "SuperCop",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ShootingRangeSilver",
@@ -5029,7 +5034,7 @@
       "Name": "\u0022This Guy Is Really Good\u0022",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SkillBranchMax",
@@ -5037,14 +5042,14 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 5019,
+      "Progressed": 5269,
       "Completed": 0
     }
   ],
@@ -5052,8 +5057,8 @@
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
   "LastChanged": "2024-04-09T22:00:14.2990979+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:51.184987+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:24.0120878+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:05.0658151+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:16.2690507+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:51.185048+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:03.6424921+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:24.012117+00:00"
 }

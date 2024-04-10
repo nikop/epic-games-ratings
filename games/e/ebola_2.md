@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Statue ✔ | 65.00% | ~296 |
-| Recluse ✔ | 36.00% | ~164 |
-| Scent of Meat ✔ | 22.00% | ~100 |
-| Witch ✔ | 21.00% | ~96 |
-| Survival ✔ | 4.00% | ~18 |
-| Master of Unlocking ✔ | 4.00% | ~18 |
-| Voodoo ✔ | 3.00% | ~14 |
-| Mask ✔ | 3.00% | ~14 |
-| Doctor ✔ | 3.00% | ~14 |
-| Guardian angel ✔ | 3.00% | ~14 |
-| Light will show the truth ✔ | 2.00% | ~9 |
-| Exterminate pests ✔ | 2.00% | ~9 |
-| Saved the planet ✔ | 2.00% | ~9 |
-| Angel ✔ | 0.90% | ~4 |
-| Recruit ✔ | 0.70% | ~3 |
+| Statue ✔ | 64.00% | ~322 |
+| Recluse ✔ | 37.00% | ~186 |
+| Scent of Meat ✔ | 21.00% | ~106 |
+| Witch ✔ | 21.00% | ~106 |
+| Survival ✔ | 5.00% | ~25 |
+| Master of Unlocking ✔ | 4.00% | ~20 |
+| Voodoo ✔ | 3.00% | ~15 |
+| Mask ✔ | 3.00% | ~15 |
+| Doctor ✔ | 3.00% | ~15 |
+| Guardian angel ✔ | 3.00% | ~15 |
+| Exterminate pests ✔ | 2.00% | ~10 |
+| Light will show the truth ✔ | 1.00% | ~5 |
+| Saved the planet ✔ | 1.00% | ~5 |
+| Angel ✔ | 0.80% | ~4 |
+| Recruit ✔ | 0.60% | ~3 |
 | Seeker ✔ | 0.20% | ~1 |
 | Hardcore ✔ | 0.00% | ~0 |
 | King of survival ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 456 (Ranked 402)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 503 (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,3 +142,4 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 335 | 0 |
 | 2024-02-22 | 432 | 0 |
 | 2024-03-21 | 456 | 0 |
+| 2024-04-10 | 503 | 0 |

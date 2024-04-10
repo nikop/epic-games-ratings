@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 507,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 178,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -719,6 +719,11 @@
       "Time": "2024-03-21T17:07:18.5318016+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:02:58.8859257+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -731,7 +736,7 @@
       "Name": "Welcome to Fortnight",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TOURN_PARTICIP_20",
@@ -755,7 +760,7 @@
       "Name": "Challenger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TOURN_PARTICIP_60",
@@ -825,9 +830,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "beat_c1_bronze",
@@ -843,15 +848,15 @@
       "Name": "Wax On, Wax Off",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "beat_c1_silver",
@@ -859,7 +864,7 @@
       "Name": "Treasured Momentum",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 91
     },
     {
       "ID": "beat_c1a_bronze",
@@ -889,9 +894,9 @@
       "ID": "beat_c1a_silver",
       "SetID": "3448go",
       "Name": "Yonder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "beat_c2_bronze",
@@ -907,13 +912,13 @@
       "Name": "Timing, Rhythm, and Rhyme",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -921,9 +926,9 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "beat_c2a_bronze",
@@ -977,15 +982,15 @@
       "ID": "beat_c3_gold",
       "SetID": "3448go",
       "Name": "Storm the Citadel",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -1043,15 +1048,15 @@
       "Name": "Defying Gravity",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "beat_c4_silver",
       "SetID": "3448go",
       "Name": "Slip Sliding Away",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "beat_c4a_bronze",
@@ -1115,7 +1120,7 @@
       "Name": "Symbiotic Relationship",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "beat_c6_bronze",
@@ -1153,9 +1158,9 @@
       "ID": "beat_mayhem",
       "SetID": "3448go",
       "Name": "Ultra Unlocked",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_mayhem_diamond",
@@ -1307,7 +1312,7 @@
       "Name": "Marathon",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "rolldist_short",
@@ -1315,7 +1320,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 114
     },
     {
       "ID": "soccer_hattrick",
@@ -1337,9 +1342,9 @@
       "ID": "soccer_low",
       "SetID": "3448go",
       "Name": "Goal-Chaser",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 11
     },
     {
       "ID": "soccer_mid",
@@ -1355,7 +1360,7 @@
       "Name": "Look What I Found!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "trophies_117",
@@ -1369,9 +1374,9 @@
       "ID": "trophies_25",
       "SetID": "3448go",
       "Name": "Marble Detector",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "trophies_50",
@@ -1418,14 +1423,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:18.5318011+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:58.8859249+00:00",
   "LastUpdate_AppInfo": "2024-04-04T13:57:32.2906788+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:20.1257227+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:18.531908+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:32.7843187+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:58.8860068+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Completed": 413,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3995,
+  "EOS_Progressed": 4319,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.03,
+  "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
       "Time": "2023-09-21T19:05:03.9870233+00:00",
@@ -8679,6 +8679,11 @@
       "Time": "2024-03-21T17:11:44.0471953+00:00",
       "NumProgressed": 3995,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:05:36.4691941+00:00",
+      "NumProgressed": 4319,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8689,9 +8694,9 @@
       "ID": "achievement_1",
       "SetID": "271ol84",
       "Name": "A New Hope",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_10",
@@ -8699,7 +8704,7 @@
       "Name": "That got him!",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_11",
@@ -8707,7 +8712,7 @@
       "Name": "Hold the line!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_12",
@@ -8715,7 +8720,7 @@
       "Name": "Stay on target",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_13",
@@ -8723,7 +8728,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_14",
@@ -8731,7 +8736,7 @@
       "Name": "Playing the objective",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_15",
@@ -8739,7 +8744,7 @@
       "Name": "The Force is strong with this one",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_16",
@@ -8747,7 +8752,7 @@
       "Name": "I\u0027ve been waiting for you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_17",
@@ -8755,7 +8760,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_18",
@@ -8763,7 +8768,7 @@
       "Name": "The power of the Force",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 475
     },
     {
       "ID": "achievement_19",
@@ -8771,7 +8776,7 @@
       "Name": "When 900 years old you reach...",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_2",
@@ -8779,15 +8784,15 @@
       "Name": "in a galaxy far, far away....",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_20",
       "SetID": "271ol84",
       "Name": "Collector",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_21",
@@ -8795,7 +8800,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_22",
@@ -8803,7 +8808,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_23",
@@ -8811,7 +8816,7 @@
       "Name": "Determined",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_24",
@@ -8819,7 +8824,7 @@
       "Name": "Don\u0027t get cocky",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_25",
@@ -8827,7 +8832,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_26",
@@ -8835,7 +8840,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_27",
@@ -8843,7 +8848,7 @@
       "Name": "Your journey has only started",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_28",
@@ -8851,7 +8856,7 @@
       "Name": "Master",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_29",
@@ -8859,15 +8864,15 @@
       "Name": "On the ball",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_3",
       "SetID": "271ol84",
       "Name": "Never tell me the odds!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_30",
@@ -8875,7 +8880,7 @@
       "Name": "Precision shot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_31",
@@ -8883,7 +8888,7 @@
       "Name": "Scrap collector",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 559
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_32",
@@ -8891,7 +8896,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 605
     },
     {
       "ID": "achievement_33",
@@ -8899,7 +8904,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_34",
@@ -8907,7 +8912,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_35",
@@ -8915,15 +8920,15 @@
       "Name": "New Recruit",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3758
     },
     {
       "ID": "achievement_36",
       "SetID": "271ol84",
       "Name": "Impressive. Most impressive.",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_37",
@@ -8931,7 +8936,7 @@
       "Name": "Off to a good start",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2635
     },
     {
       "ID": "achievement_38",
@@ -8939,15 +8944,15 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 302
     },
     {
       "ID": "achievement_39",
       "SetID": "271ol84",
       "Name": "Ackbar\u0027s Elite",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_4",
@@ -8955,15 +8960,15 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 734
     },
     {
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2246
     },
     {
       "ID": "achievement_41",
@@ -8971,23 +8976,23 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_44",
@@ -8995,7 +9000,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 919
+      "UsersEstimate": 993
     },
     {
       "ID": "achievement_45",
@@ -9003,7 +9008,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_46",
@@ -9011,15 +9016,15 @@
       "Name": "Patience you must have",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_47",
       "SetID": "cemm4l8",
       "Name": "Greed can be a very powerful ally",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_48",
@@ -9027,7 +9032,7 @@
       "Name": "No such thing as luck",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_49",
@@ -9035,7 +9040,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_5",
@@ -9043,7 +9048,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 479
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_50",
@@ -9051,7 +9056,7 @@
       "Name": "City in the Clouds",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_51",
@@ -9059,7 +9064,7 @@
       "Name": "You have your moments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_52",
@@ -9067,7 +9072,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 0.6,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_53",
@@ -9075,7 +9080,7 @@
       "Name": "I\u2019ll take that bet",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_54",
@@ -9083,7 +9088,7 @@
       "Name": "That\u0027s no moon",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_55",
@@ -9091,7 +9096,7 @@
       "Name": "Stop that Droid",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_56",
@@ -9099,7 +9104,7 @@
       "Name": "Support the troops",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_57",
@@ -9115,7 +9120,7 @@
       "Name": "Alternative solution",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_59",
@@ -9123,7 +9128,7 @@
       "Name": "Onwards!",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_6",
@@ -9131,7 +9136,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 648
     },
     {
       "ID": "achievement_60",
@@ -9139,7 +9144,7 @@
       "Name": "What will you become?",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_61",
@@ -9147,7 +9152,7 @@
       "Name": "The circle is now complete",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_62",
@@ -9163,7 +9168,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_7",
@@ -9171,7 +9176,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_8",
@@ -9179,7 +9184,7 @@
       "Name": "Don\u0027t underestimate the Force",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "achievement_9",
@@ -9194,13 +9199,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3995,
+      "Progressed": 4319,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3995,
+      "Progressed": 4319,
       "Completed": 1
     }
   ],
@@ -9208,8 +9213,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:44.0471947+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:36.4691935+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:35.7994569+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:02.2875535+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:44.0472759+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:48.2239775+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:36.4692734+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Completed": 88,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
-  "EOS_Completed": 14,
+  "EOS_Progressed": 299,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.9,
+  "EOS_Completed_Percentage": 5.35,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1219,6 +1219,11 @@
       "Time": "2024-03-21T17:07:21.9907088+00:00",
       "NumProgressed": 286,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-04-10T06:03:01.0182009+00:00",
+      "NumProgressed": 299,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1229,73 +1234,73 @@
       "ID": "Cervotoc",
       "SetID": "ag48e8e",
       "Name": "Woodworm",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 57
     },
     {
       "ID": "Destilat",
       "SetID": "ag48e8e",
       "Name": "Distilled Spirits",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "Dusici",
       "SetID": "ag48e8e",
       "Name": "Young Spirits",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "Fletny",
       "SetID": "ag48e8e",
       "Name": "Four Flutes",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "Houby",
       "SetID": "ag48e8e",
       "Name": "Mushrooms",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "Jing",
       "SetID": "ag48e8e",
       "Name": "Jing Jang",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 117
     },
     {
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 152
     },
     {
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "KrabiPyramida",
@@ -1303,15 +1308,15 @@
       "Name": "Crab Pyramid",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 182
     },
     {
       "ID": "Kvitky",
@@ -1319,7 +1324,7 @@
       "Name": "Blossoms",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 123
     },
     {
       "ID": "MluviciPapouch",
@@ -1327,7 +1332,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "Myska",
@@ -1335,31 +1340,31 @@
       "Name": "Singing Mouse",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "Netopyrek",
       "SetID": "ag48e8e",
       "Name": "Liana Bats",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "Pejsek",
       "SetID": "ag48e8e",
       "Name": "Dog",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "Poustevnik",
@@ -1367,15 +1372,15 @@
       "Name": "Hermit Crabs",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 45
     },
     {
       "ID": "Rybka",
@@ -1383,7 +1388,7 @@
       "Name": "Goldfish",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "Sova",
@@ -1391,7 +1396,7 @@
       "Name": "Owl",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "SpiciPapouch",
@@ -1399,31 +1404,31 @@
       "Name": "Sleeping Parrot",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 78
     },
     {
       "ID": "Stonozka",
       "SetID": "ag48e8e",
       "Name": "Centipede",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "Strom",
       "SetID": "ag48e8e",
       "Name": "Sprouting Tree",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "Termit",
@@ -1431,23 +1436,23 @@
       "Name": "Saint Termite",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "Truhlice",
       "SetID": "ag48e8e",
       "Name": "Shem Is Home",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "Xicht",
       "SetID": "ag48e8e",
       "Name": "Rockheads",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "Zelvak",
@@ -1455,7 +1460,7 @@
       "Name": "Goldbug",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ZpivajiciHouba",
@@ -1463,21 +1468,21 @@
       "Name": "Dancing Fungus",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 286,
-      "Completed": 14
+      "Progressed": 299,
+      "Completed": 16
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:21.9907082+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:01.0182004+00:00",
   "LastUpdate_AppInfo": "2024-04-06T18:57:14.498323+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:43.1721807+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:21.9907351+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:30.4006485+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:01.01823+00:00"
 }

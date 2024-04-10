@@ -2,10 +2,10 @@
   "ID": "309fb463378346999da2271c311cf2c2",
   "Name": "CUSTOM ORDER MAID 3D2 It\u0027s a Night Magic",
   "ProductSlug": "custom-order-maid-3d2-its-a-night-magic-d5313e",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-14T07:00:00+00:00",
     "PcReleaseDate": "2019-07-30T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-20T04:57:19.7325675+00:00",
   "LastUpdate_AppInfo": "2024-04-04T18:57:19.5805065+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:36.5115822+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:08.9393356+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:24.5893592+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:53.8079121+00:00"
 }

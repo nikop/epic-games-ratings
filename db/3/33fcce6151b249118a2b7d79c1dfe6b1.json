@@ -2,10 +2,10 @@
   "ID": "33fcce6151b249118a2b7d79c1dfe6b1",
   "Name": "Lil\u0027 Guardsman",
   "ProductSlug": "lil-guardsman-3cf46c",
-  "Ranking_EOS_Progress": 551,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
     "PcReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -89,6 +89,11 @@
       "Time": "2024-03-21T17:07:28.1438823+00:00",
       "NumProgressed": 106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:04.2385984+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T22:03:25.4967944+00:00",
@@ -99,17 +104,17 @@
       "ID": "AllianceMarvagh",
       "SetID": "8j3le2g",
       "Name": "Alliance Chosen: Marvagh",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "AlliancePetrard",
       "SetID": "8j3le2g",
       "Name": "Alliance Chosen: Petrard",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BattleWonByAir",
@@ -117,7 +122,7 @@
       "Name": "Battle Won - By Air",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "BattleWonByLand",
@@ -125,13 +130,13 @@
       "Name": "Battle Won - By Land",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "BattleWonBySea",
       "SetID": "8j3le2g",
       "Name": "Battle Won - By Sea",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -139,7 +144,7 @@
       "ID": "BirthdayGirl",
       "SetID": "8j3le2g",
       "Name": "Birthday Girl!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -149,7 +154,7 @@
       "Name": "The Night Shift Pt. 2",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CompleteLevel11",
@@ -157,47 +162,47 @@
       "Name": "The Final Countdown",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "CompleteLevel2",
       "SetID": "8j3le2g",
       "Name": "The Envoys Arrive",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "CompleteLevel3",
       "SetID": "8j3le2g",
       "Name": "Let\u0027s Play GoblinBall",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CompleteLevel4",
       "SetID": "8j3le2g",
       "Name": "The Princess Is Missing",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "CompleteLevel5",
       "SetID": "8j3le2g",
       "Name": "The Night Shift",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "CompleteLevel6",
       "SetID": "8j3le2g",
       "Name": "Lil - Wedding Planner",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CompleteLevel7",
@@ -205,23 +210,23 @@
       "Name": "Wedding, Interrupted",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "CompleteLevel8",
       "SetID": "8j3le2g",
       "Name": "Wartime Lil",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "CompleteLevel9",
       "SetID": "8j3le2g",
       "Name": "A Spy Among Goblins",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "DreamMarvaghWedding",
@@ -229,13 +234,13 @@
       "Name": "Dream Marvagh Wedding",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "DreamPetrardWedding",
       "SetID": "8j3le2g",
       "Name": "Dream Petrardian Wedding",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -243,17 +248,17 @@
       "ID": "GameOver",
       "SetID": "8j3le2g",
       "Name": "Oh my god, you killed Lil! You...",
-      "Percentage": 57,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 67
     },
     {
       "ID": "GhostFinder",
       "SetID": "8j3le2g",
       "Name": "Ghost Finder",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GollumGary",
@@ -261,15 +266,15 @@
       "Name": "Bad Guy Gary",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GotTheBestEnding",
       "SetID": "8j3le2g",
       "Name": "Got the best ending!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "GotTheSecondBestEnding",
@@ -277,7 +282,7 @@
       "Name": "Got the second best ending!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MageChampion",
@@ -285,13 +290,13 @@
       "Name": "Mage Champion!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "MasterTimetraveller",
       "SetID": "8j3le2g",
       "Name": "Master Timetraveller!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -301,7 +306,7 @@
       "Name": "No Fatality Gameshow",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "PerfectLevel10",
@@ -309,13 +314,13 @@
       "Name": "4-Star: Level 10",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PerfectLevel11",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 11",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -323,7 +328,7 @@
       "ID": "PerfectLevel2",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 2",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -331,15 +336,15 @@
       "ID": "PerfectLevel3",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 3",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "PerfectLevel4",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 4",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -349,7 +354,7 @@
       "Name": "4-Star: Level 5",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PerfectLevel6",
@@ -357,15 +362,15 @@
       "Name": "4-Star: Level 6",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "PerfectLevel8",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 8",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PerfectLevel9",
@@ -373,21 +378,21 @@
       "Name": "4-Star: Level 9",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "RiskItForTheBicuit",
       "SetID": "8j3le2g",
       "Name": "Risk It For The Biscuit",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "RogueChampion",
       "SetID": "8j3le2g",
       "Name": "Rogue Champion!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -395,7 +400,7 @@
       "ID": "SmeagolGary",
       "SetID": "8j3le2g",
       "Name": "You Saved Gary!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -403,7 +408,7 @@
       "ID": "SprawlUndefeated",
       "SetID": "8j3le2g",
       "Name": "Sprawl Undefeated!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 85,
       "UsersEstimate": 6
     },
@@ -419,17 +424,17 @@
       "ID": "TripleBarf",
       "SetID": "8j3le2g",
       "Name": "Triple Barf!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "TrollKiller",
       "SetID": "8j3le2g",
       "Name": "Troll Killer",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VillainSpeechBloodOnYourHands",
@@ -443,7 +448,7 @@
       "ID": "VillainSpeechEconomics101",
       "SetID": "8j3le2g",
       "Name": "Villian Speech: Economics: 101!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -453,7 +458,7 @@
       "Name": "Villain Speech: Petrardians Purloin Power Crystals!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "VillainSpeechSmaggleSlaves",
@@ -461,13 +466,13 @@
       "Name": "Villain Speech: Smaggle Slaves!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WarriorChampion",
       "SetID": "8j3le2g",
       "Name": "Warrior Champion!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -475,7 +480,7 @@
       "ID": "WeddingUninterrupted",
       "SetID": "8j3le2g",
       "Name": "Wedding Uninterrupted",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 4
     }
@@ -484,14 +489,14 @@
     {
       "ID": "8j3le2g",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-24T16:58:23.3838858+00:00",
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:28.1438817+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:04.2385976+00:00",
   "LastUpdate_AppInfo": "2024-04-09T03:57:19.2098605+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:36.581851+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:28.1439169+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:21.9459803+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:04.2386349+00:00"
 }

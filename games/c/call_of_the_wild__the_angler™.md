@@ -6,54 +6,54 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 27.00% | ~6,048 |
-| More Fish in the Sea | 18.00% | ~4,032 |
-| Hey Good Hookin | 16.00% | ~3,584 |
-| Can you smell what the Rod is Hooking | 13.00% | ~2,912 |
-| Scaling up | 10.00% | ~2,240 |
-| Ready to Rod and Roll | 6.00% | ~1,344 |
-| I'm on a Boat! | 4.00% | ~896 |
-| Goldfish? | 2.00% | ~448 |
-| Going for Gold | 1.00% | ~224 |
-| Fish Out of Water | 0.90% | ~202 |
-| Things that go Splash in the Night | 0.60% | ~134 |
-| I'm the Captain Now | 0.40% | ~90 |
-| Diamond in the Rough | 0.20% | ~45 |
-| License to Gill | 0.10% | ~22 |
-| More than a Tourist | 0.10% | ~22 |
-| Hook, Line and Sinker | 0.10% | ~22 |
-| School's Out for Summer | 0.10% | ~22 |
-| Head for Heights | 0.10% | ~22 |
-| The Beetles | 0.10% | ~22 |
-| Lake Me up Before You Go Go | 0.10% | ~22 |
-| Marathon | 0.10% | ~22 |
-| I'm Hooked! | 0.10% | ~22 |
-| No Fin left to give | 0.10% | ~22 |
-| Taylor Made | 0.10% | ~22 |
-| Big Fish Small Pond | 0.10% | ~22 |
-| Golden Ridge Ranger | 0.10% | ~22 |
-| Buckaroo | 0.10% | ~22 |
-| Gonna Need a Bigger Boat | 0.10% | ~22 |
-| Rod and Troll | 0.10% | ~22 |
-| Fish upon a Star | 0.10% | ~22 |
-| Cache and Carry | 0.10% | ~22 |
-| Live by the Rod, Diez by the Rod! | 0.10% | ~22 |
-| Aguas Claras Conquistador | 0.10% | ~22 |
-| All Good Kings Must Come to an End | 0.10% | ~22 |
-| Three Square Meals | 0.10% | ~22 |
-| Izi does it | 0.10% | ~22 |
-| Paleontologist | 0.10% | ~22 |
-| Snap Happy | 0.10% | ~22 |
-| Club Crawl | 0.10% | ~22 |
+| Fish Just Got Reel | 80.00% | ~604,256 |
+| More Fish in the Sea | 64.00% | ~483,405 |
+| Hey Good Hookin | 56.00% | ~422,979 |
+| Can you smell what the Rod is Hooking | 51.00% | ~385,213 |
+| Scaling up | 43.00% | ~324,788 |
+| Ready to Rod and Roll | 29.00% | ~219,043 |
+| I'm on a Boat! | 27.00% | ~203,936 |
+| Fish Out of Water | 15.00% | ~113,298 |
+| Things that go Splash in the Night | 14.00% | ~105,745 |
+| Goldfish? | 13.00% | ~98,192 |
+| Going for Gold | 12.00% | ~90,638 |
+| License to Gill | 6.00% | ~45,319 |
+| School's Out for Summer | 6.00% | ~45,319 |
+| I'm the Captain Now | 4.00% | ~30,213 |
+| I'm Hooked! | 4.00% | ~30,213 |
+| Diamond in the Rough | 3.00% | ~22,660 |
+| More than a Tourist | 0.80% | ~6,043 |
+| Hook, Line and Sinker | 0.80% | ~6,043 |
+| Marathon | 0.70% | ~5,287 |
+| No Fin left to give | 0.30% | ~2,266 |
+| Taylor Made | 0.30% | ~2,266 |
+| Big Fish Small Pond | 0.30% | ~2,266 |
+| Gonna Need a Bigger Boat | 0.30% | ~2,266 |
+| The Beetles | 0.20% | ~1,511 |
+| Golden Ridge Ranger | 0.20% | ~1,511 |
+| Head for Heights | 0.10% | ~755 |
+| Lake Me up Before You Go Go | 0.10% | ~755 |
+| Lost and Flounder | 0.10% | ~755 |
+| Buckaroo | 0.10% | ~755 |
+| Rod and Troll | 0.10% | ~755 |
+| Norway Jose | 0.10% | ~755 |
+| Trollsporet Tale Teller | 0.10% | ~755 |
+| Fish upon a Star | 0.10% | ~755 |
+| Cache and Carry | 0.10% | ~755 |
+| Live by the Rod, Diez by the Rod! | 0.10% | ~755 |
+| Aguas Claras Conquistador | 0.10% | ~755 |
+| All Good Kings Must Come to an End | 0.10% | ~755 |
+| Three Square Meals | 0.10% | ~755 |
+| A Rod for your own back | 0.10% | ~755 |
+| Izi does it | 0.10% | ~755 |
+| Paleontologist | 0.10% | ~755 |
+| Snap Happy | 0.10% | ~755 |
+| Club Crawl | 0.10% | ~755 |
 | Have Fish, Will Travel | 0.00% | ~0 |
-| Lost and Flounder | 0.00% | ~0 |
-| Norway Jose | 0.00% | ~0 |
-| Trollsporet Tale Teller | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
-| A Rod for your own back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,401 (Ranked 164)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 755,320 (Ranked 27)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,6 +337,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 8,447 | 0 |
 | 2024-02-22 | 8,711 | 0 |
 | 2024-03-21 | 22,401 | 0 |
+| 2024-04-10 | 755,320 | 0 |
 ## Awards
 Max (Great for Beginners): 252  (Ranked 295)  
 Sum: 1,021 (Ranked 287)  

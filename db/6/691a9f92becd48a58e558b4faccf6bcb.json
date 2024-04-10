@@ -2,10 +2,10 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 441,
+  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 358,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1604,6 +1604,11 @@
       "Time": "2024-03-21T17:07:45.3028744+00:00",
       "NumProgressed": 356,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:03:14.3556266+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1638,9 +1643,9 @@
       "ID": "ACHIEVEMENT_ENDING_BAD_SNOWMAN",
       "SetID": "5lffoo5",
       "Name": "Lost forever",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1704,7 +1709,7 @@
       "Name": "Naughty list",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SHINY",
@@ -1759,14 +1764,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 358,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:45.3028737+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:14.355626+00:00",
   "LastUpdate_AppInfo": "2024-04-08T12:59:09.570605+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:32.7217403+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:45.3029003+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:20.8295061+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:14.3556468+00:00"
 }

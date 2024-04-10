@@ -5,10 +5,10 @@
   "Ranking_Rating": 530,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -151,7 +151,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1235,
+  "EOS_Progressed": 1341,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -4641,6 +4641,11 @@
       "Time": "2024-03-21T17:11:27.0730402+00:00",
       "NumProgressed": 1235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:24.2402029+00:00",
+      "NumProgressed": 1341,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4666,9 +4671,9 @@
       "ID": "5CustomDishesMenus",
       "SetID": "d1bm05f",
       "Name": "Culinary Arts",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 54
     },
     {
       "ID": "5OvenDishesMenu",
@@ -4698,25 +4703,25 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 201
     },
     {
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 228
     },
     {
       "ID": "Clothes10",
       "SetID": "d1bm05f",
       "Name": "Kitchen Model",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "CustomDressing20",
@@ -4724,7 +4729,7 @@
       "Name": "Perfectionist",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "DilemasResponsibility10",
@@ -4738,9 +4743,9 @@
       "ID": "FirstArrabbiataPasta",
       "SetID": "d1bm05f",
       "Name": "Codename: Arrabbiata",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "FirstBlazedDish",
@@ -4764,7 +4769,7 @@
       "Name": "Chef, Yes Chef!",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "JovialChefBetsWon3",
@@ -4788,7 +4793,7 @@
       "Name": "Sous-Chef",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "Level20",
@@ -4812,7 +4817,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 94
     },
     {
       "ID": "Money10000",
@@ -4820,15 +4825,15 @@
       "Name": "Rolling in Dough",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 818
     },
     {
       "ID": "Packing20",
@@ -4836,7 +4841,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 107
     },
     {
       "ID": "PerfectGrade25",
@@ -4850,9 +4855,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 322
     },
     {
       "ID": "RecipeDifferent30",
@@ -4874,9 +4879,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "ServiceMaxClient",
@@ -4906,9 +4911,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 362
     },
     {
       "ID": "TrattoriaSet",
@@ -4916,7 +4921,7 @@
       "Name": "Italian Style",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 80
     },
     {
       "ID": "UnlockAssiette",
@@ -4948,7 +4953,7 @@
       "Name": "Leaning Tower of Pizza",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -4962,16 +4967,16 @@
       "ID": "WorkStation10",
       "SetID": "d1bm05f",
       "Name": "Well-Stocked Kitchen",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 67
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1235,
+      "Progressed": 1341,
       "Completed": 0
     }
   ],
@@ -4979,8 +4984,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-04-06T16:58:57.8582372+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:27.0730397+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:24.2402023+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:07.8796008+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:53.9961876+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:27.0730911+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:10.6366912+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:24.2402483+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 37,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 358,
-  "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Completed": 342,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,7 +39,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768,
+  "EOS_Progressed": 781,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2089,6 +2089,11 @@
       "Time": "2024-03-21T17:11:35.4571038+00:00",
       "NumProgressed": 768,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:05:30.130393+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2106,7 +2111,7 @@
       "ID": "ArtCollector",
       "SetID": "82505mn",
       "Name": "Art Collector",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -2116,7 +2121,7 @@
       "Name": "Artifact Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "Assassin",
@@ -2130,9 +2135,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 172
     },
     {
       "ID": "BugHunter",
@@ -2140,7 +2145,7 @@
       "Name": "Bug Hunter",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "Cryomancer",
@@ -2156,7 +2161,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "GhostBuster",
@@ -2164,15 +2169,15 @@
       "Name": "Ghost Buster",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Gladiator",
       "SetID": "82505mn",
       "Name": "Gladiator",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 94
     },
     {
       "ID": "GoblinTales",
@@ -2180,7 +2185,7 @@
       "Name": "Goblin Tales",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "Hardboiled",
@@ -2196,7 +2201,7 @@
       "Name": "Holy Knight",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Horder",
@@ -2204,7 +2209,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Iconoclasm",
@@ -2212,7 +2217,7 @@
       "Name": "Iconoclasm",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "Inquisitor",
@@ -2220,7 +2225,7 @@
       "Name": "Inquisitor",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 266
     },
     {
       "ID": "Librarian",
@@ -2228,7 +2233,7 @@
       "Name": "Librarian",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Lumberjack",
@@ -2236,7 +2241,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "Marksman",
@@ -2244,7 +2249,7 @@
       "Name": "Marksman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MeatLover",
@@ -2252,7 +2257,7 @@
       "Name": "Meat Lover",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MoneySwag",
@@ -2260,7 +2265,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Necromancer",
@@ -2276,7 +2281,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "OrcMustDie",
@@ -2284,7 +2289,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "Pyromancer",
@@ -2300,7 +2305,7 @@
       "Name": "Reincarnation",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "Roughneck",
@@ -2324,7 +2329,7 @@
       "Name": "Shield Crusher",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SlingOfDavid",
@@ -2332,7 +2337,7 @@
       "Name": "Sling of David",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SpellMaster",
@@ -2356,7 +2361,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "TheFallen",
@@ -2364,7 +2369,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 156
     },
     {
       "ID": "TheTrio",
@@ -2372,7 +2377,7 @@
       "Name": "Trio",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TrapMaster",
@@ -2380,7 +2385,7 @@
       "Name": "Trap Master",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "TreasureHunter",
@@ -2388,7 +2393,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Troubleshooter",
@@ -2396,7 +2401,7 @@
       "Name": "Troubleshooter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "WeaponMaster",
@@ -2419,7 +2424,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 768,
+      "Progressed": 781,
       "Completed": 1
     }
   ],
@@ -2427,8 +2432,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:35.4571029+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:30.1303926+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:15.5782649+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:17.7934043+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:35.4571528+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:37.5580041+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:30.1304212+00:00"
 }

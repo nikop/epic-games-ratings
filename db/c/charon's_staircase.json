@@ -2,10 +2,10 @@
   "ID": "0702e42d70eb4d8fbb9293e332047474",
   "Name": "Charon\u0027s Staircase",
   "ProductSlug": "charons-staircase-b2d05f",
-  "Ranking_EOS_Progress": 572,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Completed": 124,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-10-28T07:00:00+00:00",
     "PcReleaseDate": "2022-10-28T07:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 95,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.3,
+  "EOS_Completed_Percentage": 3.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.3534175+00:00",
@@ -150,6 +150,11 @@
       "Time": "2024-03-21T17:10:17.7176405+00:00",
       "NumProgressed": 91,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-04-10T06:04:40.621421+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 20,
@@ -159,17 +164,17 @@
       "ID": "ACH_1",
       "SetID": "1g3d1lg",
       "Name": "Seth\u0027s office",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_10",
       "SetID": "1g3d1lg",
       "Name": "First document retrieved",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_11",
@@ -177,7 +182,7 @@
       "Name": "Second document retrieved",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_12",
@@ -185,7 +190,7 @@
       "Name": "Third document retrieved",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_13",
@@ -193,7 +198,7 @@
       "Name": "An ear for music",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_14",
@@ -201,7 +206,7 @@
       "Name": "Agatha\u0027s favourite song",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_15",
@@ -209,7 +214,7 @@
       "Name": "Lights and shadows",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_16",
@@ -217,7 +222,7 @@
       "Name": "Curious by nature",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_17",
@@ -225,13 +230,13 @@
       "Name": "Until death do us part",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_18",
       "SetID": "1g3d1lg",
       "Name": "The impatient one",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -239,9 +244,9 @@
       "ID": "ACH_19",
       "SetID": "1g3d1lg",
       "Name": "There is something strange here...",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_2",
@@ -249,13 +254,13 @@
       "Name": "The secret passage",
       "Percentage": 59,
       "XP": 35,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_20",
       "SetID": "1g3d1lg",
       "Name": "Spectres from the past",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -265,15 +270,15 @@
       "Name": "Across the lake",
       "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_4",
       "SetID": "1g3d1lg",
       "Name": "A lonely death",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_5",
@@ -281,7 +286,7 @@
       "Name": "The threshold of horror",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_6",
@@ -289,7 +294,7 @@
       "Name": "Deadly chase",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_7",
@@ -297,7 +302,7 @@
       "Name": "The lowest floor of the lift",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_8",
@@ -305,7 +310,7 @@
       "Name": "Charon\u0027s coin",
       "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_9",
@@ -313,14 +318,14 @@
       "Name": "Dara\u0027s home",
       "Percentage": 26,
       "XP": 200,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "1g3d1lg",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 95,
       "Completed": 3
     }
   ],
@@ -328,8 +333,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6125588+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.3534182+00:00",
   "LastChanged": "2023-03-31T05:58:38.6125589+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:17.71764+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:40.6214204+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:01.4152813+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:24.1806139+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:17.7176571+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:10.4974136+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:40.6214326+00:00"
 }

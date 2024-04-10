@@ -2,10 +2,10 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 477,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -520,6 +520,11 @@
       "Time": "2024-03-21T17:12:25.1209911+00:00",
       "NumProgressed": 211,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:58.6850833+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -529,17 +534,17 @@
       "ID": "0000_achv_balance",
       "SetID": "dhn82m5",
       "Name": "Artistic master",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "0000_achv_failbalance",
       "SetID": "dhn82m5",
       "Name": "Artistic fool",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "0000_achv_fallspot",
@@ -555,7 +560,7 @@
       "Name": "Quite a buggy game",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -563,15 +568,15 @@
       "Name": "To err is human...",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "0000_achv_kickEverything",
       "SetID": "dhn82m5",
       "Name": "Let the boot talk",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "0000_achv_noskip",
@@ -579,7 +584,7 @@
       "Name": "Fine Listener",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "0000_achv_nosnoop",
@@ -595,7 +600,7 @@
       "Name": "Sadist",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "0000_achv_skip_puzzle",
@@ -603,7 +608,7 @@
       "Name": "Done. First!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "0000_achv_spotforms",
@@ -611,7 +616,7 @@
       "Name": "The Green, the Fat, the Ugly",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "0000_achv_spotinteract",
@@ -619,21 +624,21 @@
       "Name": "Useless but beautiful",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "0000_achv_spotlick",
       "SetID": "dhn82m5",
       "Name": "Lollipop",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "0000_achv_unstoppable",
       "SetID": "dhn82m5",
       "Name": "Nothing can stop me",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 21
     },
@@ -641,17 +646,17 @@
       "ID": "1001_achv_shadowplay",
       "SetID": "dhn82m5",
       "Name": "Shadow on the wall",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 79
     },
     {
       "ID": "1004_achv_farts",
       "SetID": "dhn82m5",
       "Name": "Fartjokes!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "1004_achv_wormtooth",
@@ -659,7 +664,7 @@
       "Name": "Open up wide",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 86
     },
     {
       "ID": "1006_achv_chapter1",
@@ -667,15 +672,15 @@
       "Name": "Chapter I",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 118
     },
     {
       "ID": "1006_achv_demoliton",
       "SetID": "dhn82m5",
       "Name": "Demolition expert",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 86
     },
     {
       "ID": "1006_achv_dropball",
@@ -683,7 +688,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 116
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -691,15 +696,15 @@
       "Name": "Handyman",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "1006_achv_pacifist",
       "SetID": "dhn82m5",
       "Name": "Pacifist",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "2001_achv_shrooms",
@@ -707,7 +712,7 @@
       "Name": "Keep away from children",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 84
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -715,7 +720,7 @@
       "Name": "I didn\u0027t do it!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 90
     },
     {
       "ID": "2002_achv_feedfish",
@@ -731,23 +736,23 @@
       "Name": "Haute cuisine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 104
     },
     {
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 79
     },
     {
       "ID": "2004_achv_hitkyra",
       "SetID": "dhn82m5",
       "Name": "The hands of a healer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "2005n_achv_chapter2",
@@ -755,7 +760,7 @@
       "Name": "Chapter II",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 60
     },
     {
       "ID": "2008_achv_bubble",
@@ -763,21 +768,21 @@
       "Name": "Bubblekillerfamily",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 58
     },
     {
       "ID": "2008_achv_spotfly",
       "SetID": "dhn82m5",
       "Name": "Master of Thermodynamics",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "2009_achv_deathwheel",
       "SetID": "dhn82m5",
       "Name": "Death is a part of life",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -787,7 +792,7 @@
       "Name": "Life is but a dream",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "2009_achv_lifewheel",
@@ -795,7 +800,7 @@
       "Name": "Where there is life, there is hope",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "3002_achv_checkmate",
@@ -803,7 +808,7 @@
       "Name": "Checkmate in 8 moves",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "3003_achv_allKyraTexts",
@@ -811,31 +816,31 @@
       "Name": "Shut up clown!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "3003_achv_useAllCandlesWithAllObjects",
       "SetID": "dhn82m5",
       "Name": "Fastidious Clown",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "3004_achv_sneeze",
       "SetID": "dhn82m5",
       "Name": "Achoo!!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "3005_achv_getting_rich",
       "SetID": "dhn82m5",
       "Name": "Unfullfilled dreams",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "3011_achv_magicbox",
@@ -843,15 +848,15 @@
       "Name": "Mumbo Jumbo",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "3014_achv_sendspot",
       "SetID": "dhn82m5",
       "Name": "It\u0027s not easy being green!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "3014_achv_shootgate",
@@ -859,46 +864,46 @@
       "Name": "It\u0027s nothing personal",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "3017_achv_chapter3",
       "SetID": "dhn82m5",
       "Name": "Chapter III",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "3017_achv_flycloud",
       "SetID": "dhn82m5",
       "Name": "Like a moth in the Wind",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "4004_achv_home",
       "SetID": "dhn82m5",
       "Name": "Home is where the heart is",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "4004_achv_mirror",
       "SetID": "dhn82m5",
       "Name": "Mirror mirror on the wall...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
@@ -906,8 +911,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:25.1209906+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:58.6850829+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:39.4413436+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:11.0897055+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:25.1210221+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:55.8052511+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:58.6851119+00:00"
 }

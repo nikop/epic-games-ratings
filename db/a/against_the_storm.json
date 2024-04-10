@@ -5,10 +5,10 @@
   "Ranking_Rating": 67,
   "Ranking_Popularity": 238,
   "Ranking_PopularitySum": 184,
-  "Ranking_EOS_Progress": 167,
-  "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Completed": 328,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4575,7 +4575,7 @@
       "Count": 371
     }
   ],
-  "EOS_Progressed": 21721,
+  "EOS_Progressed": 22010,
   "EOS_Completed": 39,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -21130,6 +21130,11 @@
       "Time": "2024-03-21T17:09:36.9877013+00:00",
       "NumProgressed": 21721,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2024-04-10T06:04:15.9418509+00:00",
+      "NumProgressed": 22010,
+      "NumCompleted": 39
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -21140,17 +21145,17 @@
       "ID": "AleChain",
       "SetID": "cfbk359",
       "Name": "Serving Ale",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 88
     },
     {
       "ID": "AllFood",
       "SetID": "cfbk359",
       "Name": "Feeding The People",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 44
     },
     {
       "ID": "AllNeeds",
@@ -21204,241 +21209,241 @@
       "ID": "ManyEvents",
       "SetID": "cfbk359",
       "Name": "Efficient Explorer",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 66
     },
     {
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 110
     },
     {
       "ID": "Win5Years",
       "SetID": "cfbk359",
       "Name": "Homesick",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 110
     },
     {
       "ID": "WinFirstGame",
       "SetID": "cfbk359",
       "Name": "First Real Expedition",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 220
     },
     {
       "ID": "WinHard",
       "SetID": "cfbk359",
       "Name": "Overcoming Difficulty",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 176
     },
     {
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearArmory",
       "SetID": "cfbk359",
       "Name": "Ruined Armory",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearBandit",
       "SetID": "cfbk359",
       "Name": "Bandit Camp",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 66
     },
     {
       "ID": "WinNearFertile",
       "SetID": "cfbk359",
       "Name": "Fertile Meadows",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearFishmen",
       "SetID": "cfbk359",
       "Name": "Fishmen Ritual Site",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearForbidden",
       "SetID": "cfbk359",
       "Name": "Forbidden Lands",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 66
     },
     {
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearMonastery",
       "SetID": "cfbk359",
       "Name": "Monastery of the Holy Flame",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 110
     },
     {
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 88
     },
     {
       "ID": "WinNearTorrent",
       "SetID": "cfbk359",
       "Name": "Corrosive Torrent",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinNearWatchtower",
       "SetID": "cfbk359",
       "Name": "Watchtower",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 154
     },
     {
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 176
     },
     {
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinOnMarshlands",
       "SetID": "cfbk359",
       "Name": "The Marshlands",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 176
     },
     {
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 176
     },
     {
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 44
     },
     {
       "ID": "WinPrestige20",
@@ -21452,9 +21457,9 @@
       "ID": "WinVeryHard",
       "SetID": "cfbk359",
       "Name": "A Real Challenge",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 132
     },
     {
       "ID": "WinWIthCaches",
@@ -21476,17 +21481,17 @@
       "ID": "WinWithEvents",
       "SetID": "cfbk359",
       "Name": "Taking Action",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 198
     },
     {
       "ID": "WinWithResolve",
       "SetID": "cfbk359",
       "Name": "Victory Through Prosperity",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 110
     },
     {
       "ID": "WinWithRuins",
@@ -21500,105 +21505,105 @@
       "ID": "WinWithTimedOrders",
       "SetID": "cfbk359",
       "Name": "Like a Machine",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 66
     },
     {
       "ID": "WinWithTradeRoutes",
       "SetID": "cfbk359",
       "Name": "Trade Baron",
-      "Percentage": 0.2,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 132
     },
     {
       "ID": "WinWithoutDeath",
       "SetID": "cfbk359",
       "Name": "No Deaths",
-      "Percentage": 0.4,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 198
     },
     {
       "ID": "WinWithoutOrders",
       "SetID": "cfbk359",
       "Name": "Defying the Crown",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 110
     },
     {
       "ID": "Year1Dangerous",
       "SetID": "cfbk359",
       "Name": "Into the Forest",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 88
     },
     {
       "ID": "WinNearAbandoned",
       "SetID": "cfbk359",
       "Name": "Abandoned Settlement",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 220
     },
     {
       "ID": "WinNearFrosts",
       "SetID": "cfbk359",
       "Name": "Frosts",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 176
     },
     {
       "ID": "WinNearGreed",
       "SetID": "cfbk359",
       "Name": "Land of Greed",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearLibrary",
       "SetID": "cfbk359",
       "Name": "Overgrown Library",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 220
     },
     {
       "ID": "WinNearPetrified",
       "SetID": "cfbk359",
       "Name": "Petrified Necropolis",
-      "Percentage": 0.5,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 198
     },
     {
       "ID": "WinNearPresence",
       "SetID": "cfbk359",
       "Name": "Ominous Presence",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 154
     },
     {
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 0.5,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 198
     },
     {
       "ID": "WinNearUntamedWilds",
       "SetID": "cfbk359",
       "Name": "Untamed Wilds",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 110
     },
     {
       "ID": "WinWithFoxes",
@@ -21613,15 +21618,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 21721,
+      "Progressed": 22010,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-04-08T22:57:47.6713145+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:36.9877007+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:15.9418504+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:26.8471668+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:56.7037321+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:36.9878256+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:41.6899422+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:15.9419476+00:00"
 }

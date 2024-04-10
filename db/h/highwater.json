@@ -2,10 +2,10 @@
   "ID": "2fd699bb8dbc4bff8402747f2e14c1ae",
   "Name": "Highwater",
   "ProductSlug": "highwater-090fb0",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-14T07:00:00+00:00",
     "PcReleaseDate": "2024-03-14T07:00:00+00:00",
@@ -24,12 +24,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-10T06:02:46.457749+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-03-21T17:06:54.8262494+00:00",
   "TotalAchievements": 20,
   "TotalAchievementsXP": 1000,
@@ -110,9 +116,9 @@
       "ID": "KidneySold",
       "SetID": "35a8278",
       "Name": "Kidney Sold",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LeavingEarth",
@@ -126,9 +132,9 @@
       "ID": "LongTermConsequences",
       "SetID": "35a8278",
       "Name": "Long-Term Consequences",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MVP",
@@ -142,9 +148,9 @@
       "ID": "MadeIt",
       "SetID": "35a8278",
       "Name": "Made It!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MovieTriviaNights",
@@ -199,14 +205,14 @@
     {
       "ID": "35a8278",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-28T11:00:53.5704234+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:54.8262493+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:54.8262475+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:46.4577482+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:31.5704991+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:02.0278856+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:54.827123+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:25.0704349+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:46.4577627+00:00"
 }

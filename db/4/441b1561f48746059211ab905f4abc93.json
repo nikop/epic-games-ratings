@@ -5,10 +5,10 @@
   "Ranking_Rating": 530,
   "Ranking_Popularity": 601,
   "Ranking_PopularitySum": 608,
-  "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 129,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-01-30T13:00:00+00:00",
     "PcReleaseDate": "2015-08-11T00:00:00+00:00",
@@ -391,7 +391,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 62411,
+  "EOS_Progressed": 69746,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -400,6 +400,11 @@
     {
       "Time": "2024-03-21T17:06:36.7013292+00:00",
       "NumProgressed": 62411,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:02:36.6955344+00:00",
+      "NumProgressed": 69746,
       "NumCompleted": 0
     }
   ],
@@ -419,9 +424,9 @@
       "ID": "ACH_F2P_BASS_MASTER",
       "SetID": "bhfkccp",
       "Name": "Bass Master",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_F2P_CAPTAIN_ROWER",
@@ -429,7 +434,7 @@
       "Name": "Captain Rower",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_F2P_CARP_MASTER",
@@ -437,7 +442,7 @@
       "Name": "Carp Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_F2P_CATFISH_MASTER",
@@ -445,7 +450,7 @@
       "Name": "Catfish Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_F2P_CRAPPIE_MASTER",
@@ -453,15 +458,15 @@
       "Name": "Crappie Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_F2P_FISHY_KAYAKER",
       "SetID": "bhfkccp",
       "Name": "Fishy Kayaker",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_F2P_NIGHT_SHIFT",
@@ -469,15 +474,15 @@
       "Name": "Night Shift",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 624
+      "UsersEstimate": 697
     },
     {
       "ID": "ACH_F2P_PANFISH_OVERLORD",
       "SetID": "bhfkccp",
       "Name": "Panfish Overlord",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH_F2P_PARTAKER",
@@ -493,7 +498,7 @@
       "Name": "Pike Master",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_F2P_QUALIFIED_WINNER",
@@ -509,15 +514,15 @@
       "Name": "Salmon Master",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_F2P_TIGHT_LINES",
       "SetID": "bhfkccp",
       "Name": "Tight Lines!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 41191
+      "UsersEstimate": 46730
     },
     {
       "ID": "ACH_F2P_TROPHY_COLLECTOR",
@@ -525,15 +530,15 @@
       "Name": "Trophy Collector",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_F2P_TROUT_MASTER",
       "SetID": "bhfkccp",
       "Name": "Trout Master",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 250
+      "UsersEstimate": 349
     },
     {
       "ID": "ACH_F2P_UNIQUE_GAINER",
@@ -541,15 +546,15 @@
       "Name": "Unique Gainer",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_F2P_WALLEYE_CHIEF",
       "SetID": "bhfkccp",
       "Name": "Walleye Chief",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_F2P_WINNING_STREAK",
@@ -572,7 +577,7 @@
     {
       "ID": "bhfkccp",
       "IsBase": true,
-      "Progressed": 62411,
+      "Progressed": 69746,
       "Completed": 0
     }
   ],
@@ -580,8 +585,8 @@
   "FirstSeenRating": "2024-02-06T16:00:39.8962705+00:00",
   "FirstSeenAchievements": "2024-01-11T10:03:10.8867409+00:00",
   "LastChanged": "2024-04-09T19:57:32.085241+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:36.7013283+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:36.6955338+00:00",
   "LastUpdate_AppInfo": "2024-04-04T15:58:40.3754721+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:58:57.3824147+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:36.7013703+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:21.033876+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:36.6955464+00:00"
 }

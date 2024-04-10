@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~138,509 |
-| Struck A Pose | 82.00% | ~135,211 |
-| Look At Him Go | 72.00% | ~118,722 |
-| On Rails Experience | 49.00% | ~80,797 |
-| A Daring Devil | 46.00% | ~75,850 |
-| It Took Two | 38.00% | ~62,659 |
-| Break the Bank | 35.00% | ~57,712 |
-| Bug Sized Relaxation | 16.00% | ~26,383 |
-| Plastic Prison Breakers | 14.00% | ~23,085 |
-| Terror Of The Seven Seas | 12.00% | ~19,787 |
-| Meditation Maestro | 10.00% | ~16,489 |
-| Realize Your Art | 9.00% | ~14,840 |
-| Force Triangulated | 9.00% | ~14,840 |
-| Something Fishy | 8.00% | ~13,191 |
-| Snackosaurus | 7.00% | ~11,542 |
-| Platforming Prodigy | 7.00% | ~11,542 |
-| Lost And Found | 7.00% | ~11,542 |
-| Mood Swing | 5.00% | ~8,245 |
-| Faraway Frequencies | 3.00% | ~4,947 |
-| Minigame Megalomania | 2.00% | ~3,298 |
+| Fried Friendship | 84.00% | ~143,957 |
+| Struck A Pose | 82.00% | ~140,529 |
+| Look At Him Go | 72.00% | ~123,391 |
+| On Rails Experience | 49.00% | ~83,975 |
+| A Daring Devil | 46.00% | ~78,833 |
+| It Took Two | 39.00% | ~66,837 |
+| Break the Bank | 36.00% | ~61,696 |
+| Bug Sized Relaxation | 17.00% | ~29,134 |
+| Plastic Prison Breakers | 14.00% | ~23,993 |
+| Terror Of The Seven Seas | 12.00% | ~20,565 |
+| Meditation Maestro | 10.00% | ~17,138 |
+| Realize Your Art | 9.00% | ~15,424 |
+| Force Triangulated | 9.00% | ~15,424 |
+| Something Fishy | 8.00% | ~13,710 |
+| Snackosaurus | 7.00% | ~11,996 |
+| Platforming Prodigy | 7.00% | ~11,996 |
+| Lost And Found | 7.00% | ~11,996 |
+| Mood Swing | 5.00% | ~8,569 |
+| Faraway Frequencies | 3.00% | ~5,141 |
+| Minigame Megalomania | 2.00% | ~3,428 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164,892 (Ranked 90)  
-Completed: 528 (0.32%) (Ranked 289)  
+Progressed: 171,377 (Ranked 91)  
+Completed: 563 (0.33%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,3 +162,4 @@ Completed: 528 (0.32%) (Ranked 289)
 | 2024-01-27 | 131,402 | 323 |
 | 2024-02-22 | 153,120 | 445 |
 | 2024-03-21 | 164,892 | 528 |
+| 2024-04-10 | 171,377 | 563 |

@@ -2,10 +2,10 @@
   "ID": "ba2b8f9cfb9344b6b76f87d3fc5f8b80",
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
-  "Ranking_EOS_Progress": 541,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.136982+00:00",
@@ -211,6 +211,11 @@
       "Time": "2024-03-21T17:08:21.5548023+00:00",
       "NumProgressed": 112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:03:34.3885097+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -220,7 +225,7 @@
       "ID": "01-OnlyJustBegun",
       "SetID": "5iij4gg",
       "Name": "We\u0027ve only just begun",
-      "Percentage": 95,
+      "Percentage": 94,
       "XP": 5,
       "UsersEstimate": 106
     },
@@ -276,9 +281,9 @@
       "ID": "08-TreasureSeeker",
       "SetID": "5iij4gg",
       "Name": "Treasure Seeker",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "09-IveFallenAndICantGetUp",
@@ -300,9 +305,9 @@
       "ID": "11-StGeorgesGauntlet",
       "SetID": "5iij4gg",
       "Name": "St. George\u0027s Gauntlet",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "12-RedbeardsRevenger",
@@ -310,7 +315,7 @@
       "Name": "Redbeard\u0027s Revenger",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "13-TreasureHunter",
@@ -318,7 +323,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "14-EggOnHisFace",
@@ -334,7 +339,7 @@
       "Name": "BJ \u0026 The Bear",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "16-MrMagic",
@@ -382,7 +387,7 @@
       "Name": "Colossal Cave Explorer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "22-MasterCavePlunderer",
@@ -390,7 +395,7 @@
       "Name": "Master Cave Plunderer",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "23-WhatAWinner",
@@ -413,7 +418,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 1
     }
   ],
@@ -421,8 +426,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:21.5548017+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:34.3885092+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:03.1516834+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:35.3113393+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:21.5548203+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:23.4268199+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:34.3885256+00:00"
 }

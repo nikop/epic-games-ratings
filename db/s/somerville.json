@@ -5,10 +5,10 @@
   "Ranking_Rating": 980,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -99,11 +99,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1720,
+  "EOS_Progressed": 1728,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.92,
+  "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -979,6 +979,11 @@
       "Time": "2024-03-21T17:10:52.2103049+00:00",
       "NumProgressed": 1720,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-04-10T06:05:01.3891944+00:00",
+      "NumProgressed": 1728,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 11,
@@ -998,7 +1003,7 @@
       "Name": "Family First",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SomervilleFraternizingWithEnemy",
@@ -1012,9 +1017,9 @@
       "ID": "SomervilleHereBoy",
       "SetID": "3mk3nll",
       "Name": "\u201CHere boy\u2026\u201C",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "SomervilleResignation",
@@ -1054,7 +1059,7 @@
       "Name": "War of the worlds",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SomervilleWearyTraveller",
@@ -1062,7 +1067,7 @@
       "Name": "Admiring the view",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SomervilleWorldsBestDad",
@@ -1077,7 +1082,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1720,
+      "Progressed": 1728,
       "Completed": 33
     }
   ],
@@ -1085,8 +1090,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2024-03-26T16:00:45.68141+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:52.2103043+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:01.3891936+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:24.7312073+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:58:56.0251774+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:52.2103197+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:20.0325938+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:01.3892088+00:00"
 }

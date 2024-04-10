@@ -2,10 +2,10 @@
   "ID": "96ae16730cef4c07babb00a3b3fbb5c5",
   "Name": "My Corp Cargo Simulator : Prologue",
   "ProductSlug": "my-corp-cargo-simulator-prologue-5d23c5",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-05-31T00:00:00+00:00",
     "PcReleaseDate": "2024-05-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-09T16:56:59.9636524+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:42.0193421+00:00",
-  "LastUpdate_Achievements": "2024-04-07T18:01:59.4438659+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:29.2284921+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:52.1109999+00:00"
 }

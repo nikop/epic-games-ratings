@@ -1,10 +1,10 @@
 {
   "ID": "4567febc632545eca5821f4458ba7830",
   "Name": "Assassin\u0027s Creed Valhalla \u002B Immortals Fenyx Rising Bundle",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:57.4142226+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:12.997161+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:03:25.001083+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:34.4300153+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:16.2968709+00:00"
 }

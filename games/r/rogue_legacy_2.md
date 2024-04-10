@@ -6,37 +6,37 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 7.00% | ~2,045 |
-| Captain and Crew | 6.00% | ~1,753 |
-| No Harm in Looking | 5.00% | ~1,461 |
-| Harvest and Home | 4.00% | ~1,169 |
-| Poise and Poisons | 4.00% | ~1,169 |
-| Suns and Soldiers | 3.00% | ~877 |
-| Hands and Hammers | 2.00% | ~584 |
-| King and Kin | 2.00% | ~584 |
-| Progenitor and Protégé | 2.00% | ~584 |
-| Prequel to the Sequel | 2.00% | ~584 |
-| Truly Blessed | 1.00% | ~292 |
-| Pillow Investments | 1.00% | ~292 |
-| For Glory | 1.00% | ~292 |
-| Looks Familiar | 0.90% | ~263 |
-| For Justice | 0.80% | ~234 |
-| Good Boy! | 0.80% | ~234 |
-| For Survival | 0.60% | ~175 |
-| For Love | 0.50% | ~146 |
-| K.O. | 0.50% | ~146 |
-| Jack of all Trades | 0.50% | ~146 |
-| For Wrath | 0.40% | ~117 |
-| For Pride | 0.40% | ~117 |
-| Just the Beginning | 0.40% | ~117 |
-| Wasted Betrayal | 0.40% | ~117 |
-| Color Coordination | 0.40% | ~117 |
+| Spells and Swords | 8.00% | ~2,352 |
+| Captain and Crew | 6.00% | ~1,764 |
+| No Harm in Looking | 6.00% | ~1,764 |
+| Harvest and Home | 4.00% | ~1,176 |
+| Poise and Poisons | 4.00% | ~1,176 |
+| Hands and Hammers | 3.00% | ~882 |
+| Suns and Soldiers | 3.00% | ~882 |
+| King and Kin | 2.00% | ~588 |
+| Progenitor and Protégé | 2.00% | ~588 |
+| Prequel to the Sequel | 2.00% | ~588 |
+| Truly Blessed | 1.00% | ~294 |
+| Pillow Investments | 1.00% | ~294 |
+| For Glory | 1.00% | ~294 |
+| Looks Familiar | 0.90% | ~265 |
+| For Justice | 0.80% | ~235 |
+| Good Boy! | 0.80% | ~235 |
+| For Survival | 0.60% | ~176 |
+| For Wrath | 0.50% | ~147 |
+| For Love | 0.50% | ~147 |
+| K.O. | 0.50% | ~147 |
+| Just the Beginning | 0.50% | ~147 |
+| Jack of all Trades | 0.50% | ~147 |
+| For Pride | 0.40% | ~118 |
+| Wasted Betrayal | 0.40% | ~118 |
+| Color Coordination | 0.40% | ~118 |
 | For Greed | 0.30% | ~88 |
 | For Penance | 0.30% | ~88 |
 | Good Practice | 0.30% | ~88 |
 | Maybe Wax Doesn't Melt | 0.30% | ~88 |
 | A Glimpse of the Future | 0.30% | ~88 |
-| Black-shoppe | 0.20% | ~58 |
+| Black-shoppe | 0.20% | ~59 |
 | Full House | 0.10% | ~29 |
 | Erebus Purified | 0.10% | ~29 |
 | It Was Just an Estimate | 0.10% | ~29 |
@@ -46,8 +46,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,218 (Ranked 155)  
-Completed: 35 (0.12%) (Ranked 346)  
+Progressed: 29,397 (Ranked 161)  
+Completed: 35 (0.12%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,6 +329,7 @@ Completed: 35 (0.12%) (Ranked 346)
 | 2024-01-27 | 28,545 | 35 |
 | 2024-02-22 | 28,949 | 35 |
 | 2024-03-21 | 29,218 | 35 |
+| 2024-04-10 | 29,397 | 35 |
 ## Awards
 Max (Extremely Fun): 230  (Ranked 306)  
 Sum: 1,598 (Ranked 254)  

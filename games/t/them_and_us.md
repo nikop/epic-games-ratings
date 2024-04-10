@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~306 |
-| Forced to Kill | 63.00% | ~288 |
-| A Night To Remember | 37.00% | ~169 |
-| Safe...For now? | 28.00% | ~128 |
-| Open Sesame | 24.00% | ~110 |
-| What have I done!? | 17.00% | ~78 |
-| Them and Us | 16.00% | ~73 |
-| OUTRAGE | 16.00% | ~73 |
-| This Coffin Has Your Name On It! | 14.00% | ~64 |
-| Alone In The Dark | 13.00% | ~59 |
-| The Cultists | 12.00% | ~55 |
-| The Forgotten Tower | 12.00% | ~55 |
-| Parasite Exterminated | 11.00% | ~50 |
-| Trapped | 11.00% | ~50 |
-| Lover of classics | 9.00% | ~41 |
-| Modern Player | 9.00% | ~41 |
-| Rest In Peace | 9.00% | ~41 |
-| The Curse Is Real | 9.00% | ~41 |
-| What A Mansion | 8.00% | ~37 |
-| Researcher | 6.00% | ~27 |
-| I Am The Gate Keeper! | 6.00% | ~27 |
-| Armed To The Teeth | 4.00% | ~18 |
-| This Mansion Is Clean | 4.00% | ~18 |
+| Alone with Them | 67.00% | ~317 |
+| Forced to Kill | 63.00% | ~298 |
+| A Night To Remember | 37.00% | ~175 |
+| Safe...For now? | 28.00% | ~132 |
+| Open Sesame | 24.00% | ~114 |
+| What have I done!? | 17.00% | ~80 |
+| Them and Us | 16.00% | ~76 |
+| OUTRAGE | 16.00% | ~76 |
+| This Coffin Has Your Name On It! | 14.00% | ~66 |
+| Alone In The Dark | 13.00% | ~61 |
+| The Cultists | 12.00% | ~57 |
+| The Forgotten Tower | 12.00% | ~57 |
+| Parasite Exterminated | 11.00% | ~52 |
+| Trapped | 11.00% | ~52 |
+| The Curse Is Real | 10.00% | ~47 |
+| Lover of classics | 9.00% | ~43 |
+| Modern Player | 9.00% | ~43 |
+| Rest In Peace | 9.00% | ~43 |
+| What A Mansion | 8.00% | ~38 |
+| I Am The Gate Keeper! | 6.00% | ~28 |
+| Researcher | 5.00% | ~24 |
+| Armed To The Teeth | 4.00% | ~19 |
+| This Mansion Is Clean | 4.00% | ~19 |
 | Back In Time | 2.00% | ~9 |
 | Retro Player | 2.00% | ~9 |
 | Spiritual essence well spent | 2.00% | ~9 |
 | Run and Gun | 2.00% | ~9 |
-| Pet The Dog | 2.00% | ~9 |
 | The 5th Element | 2.00% | ~9 |
 | The bus stop | 2.00% | ~9 |
-| Before The Eclipse | 0.70% | ~3 |
+| Pet The Dog | 1.00% | ~5 |
+| Before The Eclipse | 0.60% | ~3 |
 | Box Of Ploutus | 0.40% | ~2 |
 | No Time To Relax | 0.40% | ~2 |
 | Survival Hero | 0.40% | ~2 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457 (Ranked 401)  
-Completed: 1 (0.22%) (Ranked 310)  
+Progressed: 473 (Ranked 409)  
+Completed: 1 (0.21%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,6 +185,7 @@ Completed: 1 (0.22%) (Ranked 310)
 | 2024-01-24 | 431 | 1 |
 | 2024-03-04 | 443 | 1 |
 | 2024-03-21 | 457 | 1 |
+| 2024-04-10 | 473 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

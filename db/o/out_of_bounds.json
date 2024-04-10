@@ -2,10 +2,10 @@
   "ID": "9d471a5b5e574d0abc9358c92e836d5d",
   "Name": "Out of Bounds",
   "ProductSlug": "out-of-bounds-ade206",
-  "Ranking_EOS_Progress": 678,
-  "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 694,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-13T17:00:00+00:00",
     "PcReleaseDate": "2023-04-13T17:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.38,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:55.9543072+00:00",
@@ -87,6 +87,11 @@
       "Time": "2023-11-04T19:10:47.9946408+00:00",
       "NumProgressed": 32,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-04-10T06:05:33.759361+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 32,
@@ -104,7 +109,7 @@
       "ID": "BugsFixed_NoMiss",
       "SetID": "94h12fn",
       "Name": "Pro-dev",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -112,7 +117,7 @@
       "ID": "BugsFixed_Total_1",
       "SetID": "94h12fn",
       "Name": "64 bugs fixed",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -120,7 +125,7 @@
       "ID": "BugsFixed_Total_2",
       "SetID": "94h12fn",
       "Name": "128 bugs fixed",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -128,7 +133,7 @@
       "ID": "BugsFixed_Total_3",
       "SetID": "94h12fn",
       "Name": "192 bugs fixed",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -136,7 +141,7 @@
       "ID": "BugsFixed_UpDown",
       "SetID": "94h12fn",
       "Name": "Guru-dev",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -144,7 +149,7 @@
       "ID": "CheckCredits",
       "SetID": "94h12fn",
       "Name": "No AI, only humans",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -152,7 +157,7 @@
       "ID": "CoffeeDouble",
       "SetID": "94h12fn",
       "Name": "Double-double",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -160,7 +165,7 @@
       "ID": "CoffeeHighPitch",
       "SetID": "94h12fn",
       "Name": "Going nuts!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -168,7 +173,7 @@
       "ID": "CoffeeLowPitch",
       "SetID": "94h12fn",
       "Name": "Going under...",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -176,7 +181,7 @@
       "ID": "CoffeePitchShaders",
       "SetID": "94h12fn",
       "Name": "What am I doing?!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -184,7 +189,7 @@
       "ID": "Compilations_1",
       "SetID": "94h12fn",
       "Name": "Compiling (15)...",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -192,7 +197,7 @@
       "ID": "Compilations_2",
       "SetID": "94h12fn",
       "Name": "Compiling (30)...",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -200,7 +205,7 @@
       "ID": "Compilations_3",
       "SetID": "94h12fn",
       "Name": "Compiling (45)...",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -208,7 +213,7 @@
       "ID": "DevTime_1",
       "SetID": "94h12fn",
       "Name": "Gamedev level 15",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -216,7 +221,7 @@
       "ID": "DevTime_2",
       "SetID": "94h12fn",
       "Name": "Gamedev level 30",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -224,7 +229,7 @@
       "ID": "DevTime_3",
       "SetID": "94h12fn",
       "Name": "Gamedev level 45",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -232,7 +237,7 @@
       "ID": "EatFood_1",
       "SetID": "94h12fn",
       "Name": "EnergyBackup \u003E= 15",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -240,7 +245,7 @@
       "ID": "EatFood_2",
       "SetID": "94h12fn",
       "Name": "EnergyBackup \u003E= 30",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -248,7 +253,7 @@
       "ID": "EatFood_3",
       "SetID": "94h12fn",
       "Name": "EnergyBackup \u003E= 45",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -256,7 +261,7 @@
       "ID": "FinishGame_FirstTime",
       "SetID": "94h12fn",
       "Name": "Package ready!",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -264,7 +269,7 @@
       "ID": "FinishGame_LessTime_1",
       "SetID": "94h12fn",
       "Name": "Two thirds is all I need",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -272,7 +277,7 @@
       "ID": "FinishGame_LessTime_2",
       "SetID": "94h12fn",
       "Name": "Half the time, half the fun",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 75,
       "UsersEstimate": 7
     },
@@ -288,7 +293,7 @@
       "ID": "LoseBy_Audio",
       "SetID": "94h12fn",
       "Name": "Noisy saturation",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -296,7 +301,7 @@
       "ID": "LoseBy_Graphics",
       "SetID": "94h12fn",
       "Name": "Graphics outdated",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -304,15 +309,15 @@
       "ID": "LoseBy_Mechanics",
       "SetID": "94h12fn",
       "Name": "Errors found you",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LoseBy_Time",
       "SetID": "94h12fn",
       "Name": "Almost there!",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -320,7 +325,7 @@
       "ID": "SpeakerJumps_1",
       "SetID": "94h12fn",
       "Name": "SoundsFun = 15;",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -328,7 +333,7 @@
       "ID": "SpeakerJumps_2",
       "SetID": "94h12fn",
       "Name": "SoundsFun = 30;",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -336,7 +341,7 @@
       "ID": "SpeakerJumps_3",
       "SetID": "94h12fn",
       "Name": "SoundsFun = 45;",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -344,7 +349,7 @@
       "ID": "WatchEnding",
       "SetID": "94h12fn",
       "Name": "The dev life",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
       "UsersEstimate": 10
     }
@@ -353,13 +358,13 @@
     {
       "ID": "94h12fn",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:55.9543084+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:40.2066288+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:33.7593607+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:15.7827476+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:09.2486211+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:40.2066517+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:56.7143552+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:33.7593753+00:00"
 }

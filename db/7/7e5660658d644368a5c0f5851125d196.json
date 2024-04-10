@@ -2,10 +2,10 @@
   "ID": "7e5660658d644368a5c0f5851125d196",
   "Name": "Alchemist: The Potion Monger",
   "ProductSlug": "alchemist-the-potion-monger-3aab61",
-  "Ranking_EOS_Progress": 878,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-21T15:00:01.867+00:00",
     "PcReleaseDate": "2023-10-16T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-03-21T17:12:41.6565312+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:06:07.851287+00:00",
+      "NumProgressed": 14,
       "NumCompleted": 0
     }
   ],
@@ -44,87 +49,87 @@
       "ID": "ACH_100_AUTOPOTIONS",
       "SetID": "7l7cdc9",
       "Name": "Potion Factory",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_10_AUTO_RECIPES",
       "SetID": "7l7cdc9",
       "Name": "Magic Paper",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_10_FURNITURES",
       "SetID": "7l7cdc9",
       "Name": "Cozy house",
-      "Percentage": 100,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_20_FURNITURES",
       "SetID": "7l7cdc9",
       "Name": "Live Laugh Love",
-      "Percentage": 100,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_30_FURNITURES",
       "SetID": "7l7cdc9",
       "Name": "IKEA enjoyer",
-      "Percentage": 100,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_3_STAR_4_TIER",
       "SetID": "7l7cdc9",
       "Name": "Perfect Potion",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ADOPT_CAT",
       "SetID": "7l7cdc9",
       "Name": "Cat Owner",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ADOPT_SALAMANDER",
       "SetID": "7l7cdc9",
       "Name": "Salamander Owner",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ADOPT_TURTLE",
       "SetID": "7l7cdc9",
       "Name": "Turtle Owner",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_AIR_ASPECTS",
       "SetID": "7l7cdc9",
       "Name": "Master of Air",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BLACK_MARKET",
       "SetID": "7l7cdc9",
       "Name": "Finders Keepers",
-      "Percentage": 100,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -132,9 +137,9 @@
       "ID": "ACH_COMPLETE_GAME",
       "SetID": "7l7cdc9",
       "Name": "The End",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DEFEAT_HERBALIST",
@@ -148,57 +153,57 @@
       "ID": "ACH_DEFEAT_SLIMEKING",
       "SetID": "7l7cdc9",
       "Name": "Viva la revoluci\u00F3n",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DEFEAT_SNAKEKING",
       "SetID": "7l7cdc9",
       "Name": "Snake Nuggets",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DESTROY_ALL_HOUSE_VINES",
       "SetID": "7l7cdc9",
       "Name": "Vines Slayer",
-      "Percentage": 100,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DESTROY_VINES",
       "SetID": "7l7cdc9",
       "Name": "The whole world to discover",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_DISCOVER_50_RECIPES",
       "SetID": "7l7cdc9",
       "Name": "Knowledge is the key",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_DISCOVER_MAP",
       "SetID": "7l7cdc9",
       "Name": "Cartograph",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EARN_10000_GOLD_CONTRACTS",
       "SetID": "7l7cdc9",
       "Name": "Rich Alchemist",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_EARN_10000_GOLD_SHOP",
@@ -212,41 +217,41 @@
       "ID": "ACH_EARTH_ASPECTS",
       "SetID": "7l7cdc9",
       "Name": "Master of Earth",
-      "Percentage": 100,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_FIRE_ASPECTS",
       "SetID": "7l7cdc9",
       "Name": "Master of Fire",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRST_AIR_POTION",
       "SetID": "7l7cdc9",
       "Name": "Air Alchemist",
-      "Percentage": 100,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIRST_FIRE_POTION",
       "SetID": "7l7cdc9",
       "Name": "Fire Alchemist",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIRST_WATER_POTION",
       "SetID": "7l7cdc9",
       "Name": "Water Alchemist",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_LEVEL_10",
@@ -260,9 +265,9 @@
       "ID": "ACH_LEVEL_5",
       "SetID": "7l7cdc9",
       "Name": "Experienced Alchemist",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MAX_HEALTH",
@@ -276,47 +281,47 @@
       "ID": "ACH_PLAYER_DIES",
       "SetID": "7l7cdc9",
       "Name": "Why do we fall?",
-      "Percentage": 100,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_PLAYER_RESURRECT",
       "SetID": "7l7cdc9",
       "Name": "...so that we can learn to pick ourselves up",
-      "Percentage": 100,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_PORTALS",
       "SetID": "7l7cdc9",
       "Name": "Who needs carts",
-      "Percentage": 100,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WATER_ASPECTS",
       "SetID": "7l7cdc9",
       "Name": "Master of Water",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l7cdc9",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-28T19:57:10.8814796+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:51.6695472+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:41.6565304+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:07.8512865+00:00",
   "LastUpdate_AppInfo": "2024-04-05T23:57:08.9343248+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:25.5505151+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:41.6573668+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:11.8997858+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:07.8513051+00:00"
 }

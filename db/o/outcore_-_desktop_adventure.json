@@ -2,10 +2,10 @@
   "ID": "da1f78693e5f4a6888297c9362b1144e",
   "Name": "Outcore - Desktop Adventure",
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
-  "Ranking_EOS_Progress": 565,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 577,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
     "PcReleaseDate": "2022-09-25T21:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -314,6 +314,11 @@
       "Time": "2024-03-21T17:10:41.198952+00:00",
       "NumProgressed": 95,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:04:54.9136318+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -323,9 +328,9 @@
       "ID": "BootyMaster",
       "SetID": "7ejh407",
       "Name": "Booty Master",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CompletedChapter1",
@@ -333,13 +338,13 @@
       "Name": "Defeated Captain Tutorial",
       "Percentage": 76,
       "XP": 200,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "CompletedChapter2",
       "SetID": "7ejh407",
       "Name": "Defeated Booty The Bootleg",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 200,
       "UsersEstimate": 33
     },
@@ -365,13 +370,13 @@
       "Name": "H\u0334\u0344\u0358\u034A\u0344\u0341\u0303\u0344\u034A\u0302\u030F\u0305\u0344\u0306\u034A\u035B\u034B\u0360\u0303\u030D\u030A\u0313\u035B\u0314\u0306\u035DE\u0335\u031A\u0344\u030A\u034B\u0358\u0344\u0314\u030D\u0351\u0304\u031B\u0305\u0315\u0341\u0314\u035B\u0343\u0358\u033D\u030A\u0312\u0313\u0358\u031B\u0301\u035B\u0340\u0300\u0357\u035D\u0344\u0341\u0303\u0344\u0344\u0304\u0314\u0315\u0343\u0350\u0346\u0340\u0344\u0304\u0301\u0347\u0322\u032A\u031F\u0353\u031D\u033C\u0355\u031E\u0354\u033B\u034E\u0320\u0354\u0324\u0325\u033A\u0339\u0331\u033C\u0322\u032A\u0327\u033A\u032A\u0345\u033A\u0330\u0331L\u0338\u0360\u0340P\u0335\u0301\u030E\u0304\u033D\u031B\u0344\u0341\u034A\u0305\u035B\u0304 \u0336\u0303M\u0336\u030D\u030C\u034A\u0300\u0313\u0304\u030B\u034B\u0302\u034C\u030F\u0344\u033E\u035D\u0346\u030C\u0344\u0306\u0344\u035D\u0310\u0360\u033F\u0343\u0350\u0360\u033C\u032A\u031E\u0348\u032F\u032C\u0356\u0328\u0356\u034E\u031E\u034E\u033B\u0327\u0325E\u0335\u0352\u0313\u034A\u0358\u034B\u0304",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Creepy2",
       "SetID": "7ejh407",
       "Name": "S\u0338\u0312\u0351\u0304\u033D\u0351\u031A\u0308\u035D\u0358\u0314\u030D\u0343\u0358\u031B\u0346\u0352\u035D\u0310\u034A\u0344\u0315\u0357\u031A\u0358\u030C\u035D\u0314\u0346\u030E\u0309\u0351\u031E\u033A\u031E\u031D\u034EA\u0336\u0304\u0351\u030B\u0346\u035D\u0343\u0341\u0352\u0340\u0344\u0310\u0310\u033E\u035D\u0311\u0351\u0346\u0360\u033E\u0357\u034C\u030D\u034B\u035D\u0302\u0341\u031B\u033F\u0325\u0318\u0331\u035C\u032A\u0353\u0323\u0317\u0326\u033A\u0348\u0320\u0354V\u0334\u035D\u0321\u031F\u0317\u032E\u032AE\u0338\u0309\u030B\u035D\u0346\u0301\u034C\u0301\u035D\u030F\u031A\u0310\u031B\u033D\u0314\u0340\u0308\u031B\u0314\u035D\u0357\u0344 \u0338\u0340\u035B\u0308\u030D\u0310\u034A\u034A\u0352\u030C\u0315\u030D\u034B\u033F\u0305\u0306\u0360\u033E\u0342\u031B\u030E\u035D\u035D\u0301\u0344\u0357\u0301\u031B\u0358\u0344\u0352\u033E\u0310\u034CM\u0337\u030E\u035B\u0357\u0311\u034A\u0339\u034E\u0328\u0327\u031E\u0320\u032E\u0355\u032F\u035C\u0325\u0330\u0359\u0333\u0331\u0321\u0328\u031D\u031D\u0359\u0328\u035C\u0319\u0345\u033A\u034D\u032B\u033B\u0333\u0321\u032D\u032DE\u0337\u0305\u0309\u0303\u0351\u030F\u030E\u030C\u035D\u0302\u0306\u034A\u0352\u0346\u0312\u0300\u0358\u0344\u0351\u0314\u030B\u0315\u0315\u030E\u031B\u0305\u0310\u031B\u0306\u034A\u030A\u0357\u0301\u0346\u0357\u034B\u0341\u035D\u0317\u034D\u0330\u0339\u034E\u0333\u0355\u0349\u0347\u032B\u0329\u034E\u0354\u034D\u0349\u0349\u0349\u034E\u032B\u0321\u0331\u032E\u0353\u034D\u0349\u032A\u033B\u0320",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -395,15 +400,15 @@
       "ID": "FairyTest",
       "SetID": "7ejh407",
       "Name": "Pure hearted",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GoodBoy",
       "SetID": "7ejh407",
       "Name": "Good boy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -429,7 +434,7 @@
       "Name": "Immersion Breaking",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "InternetExplorer",
@@ -443,17 +448,17 @@
       "ID": "LaifuRouteDemon",
       "SetID": "7ejh407",
       "Name": "DEMON???",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LaifuRouteHate",
       "SetID": "7ejh407",
       "Name": "HATE",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LaifuRouteLove",
@@ -469,7 +474,7 @@
       "Name": "Learned how to jump!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LearnedToWalk",
@@ -477,21 +482,21 @@
       "Name": "Learned how to walk!",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "LoveMaster",
       "SetID": "7ejh407",
       "Name": "Love Master",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MurderLumi",
       "SetID": "7ejh407",
       "Name": "Murder",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 14
     },
@@ -499,17 +504,17 @@
       "ID": "NoTimeToWaste",
       "SetID": "7ejh407",
       "Name": "No time to waste",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ReadAWalkthrough",
       "SetID": "7ejh407",
       "Name": "Read a walkthrough",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TooGoodForThisRacingMiniGame",
@@ -517,29 +522,29 @@
       "Name": "Too good for this racing mini-game",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "TutorialMaster",
       "SetID": "7ejh407",
       "Name": "Tutorial Master",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ejh407",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:41.1989513+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:54.9136313+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:26.0728797+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:29.8422205+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:41.1989697+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:16.5648592+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:54.9136508+00:00"
 }

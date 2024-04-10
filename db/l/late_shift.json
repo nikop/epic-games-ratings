@@ -2,10 +2,10 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 312,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1409,
+  "EOS_Progressed": 1474,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.06,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -3465,6 +3465,11 @@
       "Time": "2024-03-21T17:11:08.4597437+00:00",
       "NumProgressed": 1409,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-04-10T06:05:11.9194087+00:00",
+      "NumProgressed": 1474,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 20,
@@ -3476,7 +3481,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1400
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3484,7 +3489,7 @@
       "Name": "Choices Matter",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "ENDING_1",
@@ -3492,7 +3497,7 @@
       "Name": "The Coward",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ENDING_2",
@@ -3500,7 +3505,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "ENDING_3",
@@ -3508,7 +3513,7 @@
       "Name": "The Ploy",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 197
+      "UsersEstimate": 206
     },
     {
       "ID": "ENDING_4",
@@ -3516,7 +3521,7 @@
       "Name": "The Fool",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "ENDING_5",
@@ -3524,7 +3529,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 634
+      "UsersEstimate": 663
     },
     {
       "ID": "ENDING_6",
@@ -3532,7 +3537,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 338
+      "UsersEstimate": 354
     },
     {
       "ID": "ENDING_7",
@@ -3540,7 +3545,7 @@
       "Name": "The Frenzy",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 451
+      "UsersEstimate": 472
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -3548,7 +3553,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 761
+      "UsersEstimate": 796
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -3556,7 +3561,7 @@
       "Name": "Expert Storyteller",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FAIR_SHARE",
@@ -3564,7 +3569,7 @@
       "Name": "Fair Share",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 944
+      "UsersEstimate": 988
     },
     {
       "ID": "GOOD_KARMA",
@@ -3572,7 +3577,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 409
+      "UsersEstimate": 427
     },
     {
       "ID": "INTERROGATION",
@@ -3580,15 +3585,15 @@
       "Name": "Interrogation",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 206
     },
     {
       "ID": "OFFICE_CLERK",
       "SetID": "8eejhlh",
       "Name": "Office Clerk",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 366
+      "UsersEstimate": 398
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -3596,7 +3601,7 @@
       "Name": "Proficient Storyteller",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "PROTECTOR",
@@ -3604,15 +3609,15 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 380
+      "UsersEstimate": 398
     },
     {
       "ID": "SABOTAGE",
       "SetID": "8eejhlh",
       "Name": "Sabotage",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 141
+      "UsersEstimate": 162
     },
     {
       "ID": "SHILL_BIDDER",
@@ -3620,7 +3625,7 @@
       "Name": "Shill Bidder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 592
+      "UsersEstimate": 619
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -3628,14 +3633,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 676
+      "UsersEstimate": 708
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1409,
+      "Progressed": 1474,
       "Completed": 15
     }
   ],
@@ -3643,8 +3648,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:08.4597432+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:11.9194079+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:03.1276785+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:41.1770187+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:08.4597673+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:59.8878522+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:11.9194329+00:00"
 }

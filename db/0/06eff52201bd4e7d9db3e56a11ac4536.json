@@ -2,10 +2,10 @@
   "ID": "06eff52201bd4e7d9db3e56a11ac4536",
   "Name": "Unlock The Cat",
   "ProductSlug": "unlock-the-cat-487fac",
-  "Ranking_EOS_Progress": 569,
-  "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-22T17:00:00+00:00",
     "PcReleaseDate": "2021-03-02T19:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 100,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.38,
+  "EOS_Completed_Percentage": 6,
   "EosHistory": [
     {
       "Time": "2024-03-04T23:04:06.6898341+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2024-04-05T15:04:43.2452829+00:00",
       "NumProgressed": 94,
+      "NumCompleted": 6
+    },
+    {
+      "Time": "2024-04-10T06:06:49.4612616+00:00",
+      "NumProgressed": 100,
       "NumCompleted": 6
     }
   ],
@@ -50,17 +55,17 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "c2ikhij",
       "Name": "The journey has begun",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 98
     },
     {
       "ID": "ACHIEVEMENT_2",
       "SetID": "c2ikhij",
       "Name": "Tutorial finished!",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 75,
-      "UsersEstimate": 85
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -68,15 +73,15 @@
       "Name": "Last day of summer",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_4",
       "SetID": "c2ikhij",
       "Name": "Twilight",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -84,7 +89,7 @@
       "Name": "The end of desert",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -107,14 +112,14 @@
     {
       "ID": "c2ikhij",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 100,
       "Completed": 6
     }
   ],
   "FirstSeen": "2024-03-23T05:58:58.4404878+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:06.6898416+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:04:43.2452812+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:49.4612609+00:00",
   "LastUpdate_AppInfo": "2024-04-06T16:56:56.3429073+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:11.2552133+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:04:43.2452936+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:58.4516532+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:49.4612686+00:00"
 }

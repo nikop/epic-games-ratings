@@ -5,81 +5,86 @@ Rating: 4.45 (Ranked 715)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 86.00% | ~372 |
-| Purification Pioneer | 80.00% | ~346 |
-| Mechanical Buddy | 76.00% | ~329 |
-| Dicesmithing Time! | 67.00% | ~290 |
-| Sanctuary Guardian | 57.00% | ~247 |
-| Endless Tricks | 54.00% | ~234 |
-| Wild's Keeper | 52.00% | ~225 |
-| Mind Illuminator | 47.00% | ~204 |
-| Stellar Dismantler | 42.00% | ~182 |
-| Astral Adventurer | 37.00% | ~160 |
-| Noctuan Champion | 36.00% | ~156 |
-| Anomaly Destroyer | 35.00% | ~152 |
-| Star Killer | 33.00% | ~143 |
-| Eridanian Champion | 28.00% | ~121 |
-| Lacertian Champion | 25.00% | ~108 |
-| Loyal Partner | 23.00% | ~100 |
-| Apian Champion | 22.00% | ~95 |
-| Shard Spender | 21.00% | ~91 |
-| Unbeatable | 19.00% | ~82 |
-| Sadistic Plan | 18.00% | ~78 |
-| Behenian Champion | 17.00% | ~74 |
-| Heavy Purger | 12.00% | ~52 |
-| Wave Bender | 12.00% | ~52 |
-| Aquarian Champion | 11.00% | ~48 |
-| Astral Seeker | 10.00% | ~43 |
-| Can't touch this | 9.00% | ~39 |
-| Heart Gate | 9.00% | ~39 |
-| Stellar Haste | 9.00% | ~39 |
-| The Corruption Goddess | 8.00% | ~35 |
-| The Goddes Avatar | 8.00% | ~35 |
-| Favored by the Cosmos | 7.00% | ~30 |
-| Denying Destiny | 6.00% | ~26 |
+| Meissa's Savior | 86.00% | ~382 |
+| Purification Pioneer | 81.00% | ~360 |
+| Mechanical Buddy | 76.00% | ~337 |
+| Dicesmithing Time! | 66.00% | ~293 |
+| Sanctuary Guardian | 57.00% | ~253 |
+| Endless Tricks | 54.00% | ~240 |
+| Wild's Keeper | 52.00% | ~231 |
+| Mind Illuminator | 47.00% | ~209 |
+| Stellar Dismantler | 43.00% | ~191 |
+| Astral Adventurer | 37.00% | ~164 |
+| Noctuan Champion | 37.00% | ~164 |
+| Anomaly Destroyer | 35.00% | ~155 |
+| Star Killer | 34.00% | ~151 |
+| Eridanian Champion | 29.00% | ~129 |
+| Lacertian Champion | 25.00% | ~111 |
+| Loyal Partner | 23.00% | ~102 |
+| Apian Champion | 22.00% | ~98 |
+| Shard Spender | 21.00% | ~93 |
+| Unbeatable | 20.00% | ~89 |
+| Sadistic Plan | 18.00% | ~80 |
+| Behenian Champion | 17.00% | ~75 |
+| Heavy Purger | 12.00% | ~53 |
+| Wave Bender | 12.00% | ~53 |
+| Aquarian Champion | 11.00% | ~49 |
+| Astral Seeker | 10.00% | ~44 |
+| Can't touch this | 9.00% | ~40 |
+| Heart Gate | 9.00% | ~40 |
+| Stellar Haste | 9.00% | ~40 |
+| The Corruption Goddess | 8.00% | ~36 |
+| The Goddes Avatar | 8.00% | ~36 |
+| Favored by the Cosmos | 7.00% | ~31 |
+| Artificer | 6.00% | ~27 |
+| Denying Destiny | 6.00% | ~27 |
+| Apian Hero | 6.00% | ~27 |
 | Anomaly Control | 5.00% | ~22 |
-| Artificer | 5.00% | ~22 |
+| If I Had Failed... | 5.00% | ~22 |
 | Prestidigitation | 5.00% | ~22 |
-| Apian Hero | 5.00% | ~22 |
-| Astrarium of Holding | 4.00% | ~17 |
-| If I Had Failed... | 4.00% | ~17 |
-| The Chaos Artisan | 4.00% | ~17 |
-| The Dark Moon | 4.00% | ~17 |
-| The Raging Skies | 4.00% | ~17 |
-| Lacertian Hero | 4.00% | ~17 |
+| The Chaos Artisan | 5.00% | ~22 |
+| The Dark Moon | 5.00% | ~22 |
+| Astrarium of Holding | 4.00% | ~18 |
+| The Ardent Prince | 4.00% | ~18 |
+| The Raging Skies | 4.00% | ~18 |
+| Behenian Hero | 4.00% | ~18 |
+| Lacertian Hero | 4.00% | ~18 |
+| Noctuan Hero | 4.00% | ~18 |
 | Pocket Astrarium | 3.00% | ~13 |
 | Purification Avatar | 3.00% | ~13 |
 | The Abyssal Terror | 3.00% | ~13 |
-| The Ardent Prince | 3.00% | ~13 |
 | The Distorted Sage | 3.00% | ~13 |
-| Behenian Hero | 3.00% | ~13 |
 | Eridanian Hero | 3.00% | ~13 |
-| Noctuan Hero | 3.00% | ~13 |
+| Astromancer | 2.00% | ~9 |
 | Critical Twist | 2.00% | ~9 |
 | Reflexive Mind | 2.00% | ~9 |
 | Sentinelphobic | 2.00% | ~9 |
+| Unepic Hero | 2.00% | ~9 |
+| Apian Mastery | 2.00% | ~9 |
 | Aquarian Hero | 2.00% | ~9 |
+| Aquarian Mastery | 2.00% | ~9 |
 | Behenian Mastery | 2.00% | ~9 |
 | Lacertian Mastery | 2.00% | ~9 |
 | Noctuan Mastery | 2.00% | ~9 |
-| Astromancer | 1.00% | ~4 |
-| Unepic Hero | 1.00% | ~4 |
-| Apian Mastery | 1.00% | ~4 |
-| Aquarian Mastery | 1.00% | ~4 |
-| Anomaly Master | 0.90% | ~4 |
-| Astral Tinkerer | 0.90% | ~4 |
-| Plague Doctor | 0.90% | ~4 |
-| Royal Choir | 0.90% | ~4 |
-| Eridanian Mastery | 0.90% | ~4 |
-| Astrium Specialist | 0.70% | ~3 |
-| The world goes round... | 0.70% | ~3 |
-| Astrea's Saviors | 0.50% | ~2 |
-| Dice Specialist | 0.50% | ~2 |
-| Gotta tinker'em all! | 0.50% | ~2 |
-| Six-Sided Mastery | 0.50% | ~2 |
-| This is Fine | 0.50% | ~2 |
-| Arch-Oracle | 0.20% | ~1 |
-| Virtuous Warrior | 0.20% | ~1 |
+| Anomaly Master | 1.00% | ~4 |
+| Astral Tinkerer | 1.00% | ~4 |
+| Astrium Specialist | 1.00% | ~4 |
+| Plague Doctor | 1.00% | ~4 |
+| Royal Choir | 1.00% | ~4 |
+| Eridanian Mastery | 1.00% | ~4 |
+| Dice Specialist | 0.90% | ~4 |
+| Gotta tinker'em all! | 0.90% | ~4 |
+| The world goes round... | 0.90% | ~4 |
+| Astrea's Saviors | 0.70% | ~3 |
+| Six-Sided Mastery | 0.70% | ~3 |
+| This is Fine | 0.70% | ~3 |
+| Arch-Oracle | 0.50% | ~2 |
+| Blazing Prince | 0.50% | ~2 |
+| Virtuous Warrior | 0.50% | ~2 |
+| Betting High | 0.20% | ~1 |
+| Boundless as Ocean | 0.20% | ~1 |
+| Mechanic Integration | 0.20% | ~1 |
+| Skeptical | 0.20% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
@@ -89,23 +94,18 @@ Rating: 4.45 (Ranked 715)
 | Behenian Champion | 0.00% | ~0 |
 | Behenian Hero | 0.00% | ~0 |
 | Behenian Mastery | 0.00% | ~0 |
-| Betting High | 0.00% | ~0 |
-| Blazing Prince | 0.00% | ~0 |
-| Boundless as Ocean | 0.00% | ~0 |
 | Eridanian Champion | 0.00% | ~0 |
 | Eridanian Hero | 0.00% | ~0 |
 | Eridanian Mastery | 0.00% | ~0 |
 | Lacertian Champion | 0.00% | ~0 |
 | Lacertian Hero | 0.00% | ~0 |
 | Lacertian Mastery | 0.00% | ~0 |
-| Mechanic Integration | 0.00% | ~0 |
 | Noctuan Champion | 0.00% | ~0 |
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
-| Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433 (Ranked 408)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 444 (Ranked 415)  
+Completed: 1 (0.23%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,6 +194,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-24 | 394 | 0 |
 | 2024-02-22 | 416 | 0 |
 | 2024-03-21 | 433 | 0 |
+| 2024-04-10 | 444 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

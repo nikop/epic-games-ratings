@@ -2,10 +2,10 @@
   "ID": "7793682d55cc49469f13879ea241460e",
   "Name": "Loretta",
   "ProductSlug": "loretta-0099a6",
-  "Ranking_EOS_Progress": 757,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-02-16T08:00:00+00:00",
     "PcReleaseDate": "2023-02-16T08:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -76,6 +76,11 @@
       "Time": "2023-12-30T11:08:40.531214+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:04:33.3737754+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -85,7 +90,7 @@
       "ID": "ach_lora_end_fire_egs",
       "SetID": "134m0cb",
       "Name": "Woman on the Run",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -93,7 +98,7 @@
       "ID": "ach_lora_end_rain_egs",
       "SetID": "134m0cb",
       "Name": "Lightning Strikes Twice",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -101,7 +106,7 @@
       "ID": "ach_lora_end_winter_egs",
       "SetID": "134m0cb",
       "Name": "I\u0027ve Got a Feeling I\u0027m Falling",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -109,7 +114,7 @@
       "ID": "ach_lora_find_key_dead_egs",
       "SetID": "134m0cb",
       "Name": "Dead man\u0027s hand",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -117,7 +122,7 @@
       "ID": "ach_lora_find_nest_egs",
       "SetID": "134m0cb",
       "Name": "Over The Cuckoo\u2019s Nest",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -125,7 +130,7 @@
       "ID": "ach_lora_find_true_hole_egs",
       "SetID": "134m0cb",
       "Name": "The Narrow Margin",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -133,7 +138,7 @@
       "ID": "ach_lora_find_true_land_egs",
       "SetID": "134m0cb",
       "Name": "Shadow of a Doubt",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -141,7 +146,7 @@
       "ID": "ach_lora_gas_chamber_egs",
       "SetID": "134m0cb",
       "Name": "The Big Sleep",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -149,15 +154,15 @@
       "ID": "ach_lora_good_rat_dead_egs",
       "SetID": "134m0cb",
       "Name": "The only good Rat is a dead Rat",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_lora_kill_fitz_egs",
       "SetID": "134m0cb",
       "Name": "The Wrong Man",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -165,7 +170,7 @@
       "ID": "ach_lora_kill_kelly_egs",
       "SetID": "134m0cb",
       "Name": "Touch of Evil",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -173,7 +178,7 @@
       "ID": "ach_lora_kill_mic_cleaver_egs",
       "SetID": "134m0cb",
       "Name": "Bury Me Dead",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -181,7 +186,7 @@
       "ID": "ach_lora_kill_mic_grain_egs",
       "SetID": "134m0cb",
       "Name": "Kiss Me Deadly",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -189,15 +194,15 @@
       "ID": "ach_lora_kill_walt_egs",
       "SetID": "134m0cb",
       "Name": "Act of Violence",
-      "Percentage": 83,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_lora_letter_cutter_egs",
       "SetID": "134m0cb",
       "Name": "Dead End",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -205,7 +210,7 @@
       "ID": "ach_lora_look_your_own_past_egs",
       "SetID": "134m0cb",
       "Name": "Out of the Past",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -213,9 +218,9 @@
       "ID": "ach_lora_new_beg_egs",
       "SetID": "134m0cb",
       "Name": "The New Beginning",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_lora_poison_chambers_egs",
@@ -223,13 +228,13 @@
       "Name": "Ace in the Hole",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_lora_pseudo_end_murmur_egs",
       "SetID": "134m0cb",
       "Name": "Murmuration",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -237,7 +242,7 @@
       "ID": "ach_lora_pseudo_end_spiders_egs",
       "SetID": "134m0cb",
       "Name": "Spiders In My Head",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -245,7 +250,7 @@
       "ID": "ach_lora_red_dead_egs",
       "SetID": "134m0cb",
       "Name": "Red is Dead",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -255,14 +260,14 @@
       "Name": "A Cure for Wellness",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "134m0cb",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
@@ -270,8 +275,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.6808915+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.2290524+00:00",
   "LastChanged": "2023-03-31T05:58:45.6808915+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:06.5543857+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:33.3737751+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:18.4595464+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:53.425099+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:06.5544019+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:38.9154558+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:33.3737889+00:00"
 }

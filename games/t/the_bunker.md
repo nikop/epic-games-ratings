@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 89.00% | ~189 |
-| The Routine | 79.00% | ~167 |
-| Mother | 77.00% | ~163 |
-| Failure | 74.00% | ~157 |
-| Replace Fuse | 65.00% | ~138 |
-| Alarm | 64.00% | ~136 |
-| Air Filtration | 60.00% | ~127 |
-| Broken | 58.00% | ~123 |
-| Radiation | 58.00% | ~123 |
-| Descent | 56.00% | ~119 |
-| Awakenings | 55.00% | ~117 |
-| Cold Storage | 55.00% | ~117 |
-| Sam | 53.00% | ~112 |
-| Soldier | 49.00% | ~104 |
-| Leave | 48.00% | ~102 |
-| Churchill | 48.00% | ~102 |
-| Engineer | 47.00% | ~100 |
-| Commissioner | 44.00% | ~93 |
-| Doctor | 41.00% | ~87 |
-| Press Play | 34.00% | ~72 |
-| General | 27.00% | ~57 |
-| Bookworm | 25.00% | ~53 |
-| Floppy Disk Finder | 16.00% | ~34 |
-| Stay | 11.00% | ~23 |
+| Last Goodbye | 90.00% | ~193 |
+| The Routine | 79.00% | ~169 |
+| Mother | 78.00% | ~167 |
+| Failure | 74.00% | ~158 |
+| Replace Fuse | 64.00% | ~137 |
+| Alarm | 64.00% | ~137 |
+| Air Filtration | 60.00% | ~128 |
+| Broken | 58.00% | ~124 |
+| Radiation | 57.00% | ~122 |
+| Descent | 55.00% | ~118 |
+| Awakenings | 55.00% | ~118 |
+| Cold Storage | 55.00% | ~118 |
+| Sam | 54.00% | ~116 |
+| Soldier | 49.00% | ~105 |
+| Leave | 48.00% | ~103 |
+| Churchill | 47.00% | ~101 |
+| Engineer | 47.00% | ~101 |
+| Commissioner | 44.00% | ~94 |
+| Doctor | 42.00% | ~90 |
+| Press Play | 34.00% | ~73 |
+| General | 27.00% | ~58 |
+| Bookworm | 26.00% | ~56 |
+| Floppy Disk Finder | 15.00% | ~32 |
+| Stay | 11.00% | ~24 |
 | Nurse | 10.00% | ~21 |
 | No Page Unturned | 5.00% | ~11 |
 | Friends | 5.00% | ~11 |
 | The Missing Piece | 5.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 475)  
-Completed: 7 (3.30%) (Ranked 121)  
+Progressed: 214 (Ranked 487)  
+Completed: 7 (3.27%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,6 +116,7 @@ Completed: 7 (3.30%) (Ranked 121)
 | 2024-01-26 | 188 | 7 |
 | 2024-03-21 | 209 | 7 |
 | 2024-04-05 | 212 | 7 |
+| 2024-04-10 | 214 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

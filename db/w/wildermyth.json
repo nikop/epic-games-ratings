@@ -5,10 +5,10 @@
   "Ranking_Rating": 112,
   "Ranking_Popularity": 561,
   "Ranking_PopularitySum": 589,
-  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -178,7 +178,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 1691,
+  "EOS_Progressed": 1708,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2593,6 +2593,11 @@
       "Time": "2024-03-21T17:11:42.3874667+00:00",
       "NumProgressed": 1691,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-04-10T06:05:35.4112735+00:00",
+      "NumProgressed": 1708,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2602,9 +2607,9 @@
       "ID": "achievement_10DifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "We Emerge Changed",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_150Calamities",
@@ -2618,9 +2623,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -2634,9 +2639,9 @@
       "ID": "achievement_5petsReceived",
       "SetID": "95dc8p",
       "Name": "A Mythic Menagerie",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -2658,17 +2663,17 @@
       "ID": "achievement_beatGameOnWalkingLunch",
       "SetID": "95dc8p",
       "Name": "A Lowly Crust of Beef",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_catchAllElementalSpiritTypes",
       "SetID": "95dc8p",
       "Name": "Gotta Ca... Must Collect All of Them",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -2676,7 +2681,7 @@
       "Name": "Passing Shadow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -2690,9 +2695,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -2714,17 +2719,17 @@
       "ID": "achievement_kill1000Gorgons",
       "SetID": "95dc8p",
       "Name": "Back into the Sea",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_kill1000Monsters",
       "SetID": "95dc8p",
       "Name": "Peacemaker",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_kill1000Morthagi",
@@ -2746,9 +2751,9 @@
       "ID": "achievement_kill100Monsters",
       "SetID": "95dc8p",
       "Name": "Who\u0027s Counting?",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -2764,7 +2769,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -2772,15 +2777,15 @@
       "Name": "How Romantic!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_mythwalker",
@@ -2796,7 +2801,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -2810,9 +2815,9 @@
       "ID": "achievement_use3ReactionStrikesInOneTurn",
       "SetID": "95dc8p",
       "Name": "Chain Reaction",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -2842,9 +2847,9 @@
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "completedStory_legacy",
@@ -2866,17 +2871,17 @@
       "ID": "completedStory_procedural",
       "SetID": "95dc8p",
       "Name": "A Story of Heroes",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 171
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2922,9 +2927,9 @@
       "ID": "monarchs_acceptDeepkingsOffer",
       "SetID": "95dc8p",
       "Name": "Turncoat",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "theme_bear_kill2EnemiesSimultaneously",
@@ -2956,7 +2961,7 @@
       "Name": "Solid as the Hills",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "theme_gem_stunt100Times",
@@ -2970,9 +2975,9 @@
       "ID": "theme_green_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Into Mulch",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -2986,9 +2991,9 @@
       "ID": "theme_shadow_heal30",
       "SetID": "95dc8p",
       "Name": "Symbiosis",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "theme_skeleton_terrify10Enemies",
@@ -3020,7 +3025,7 @@
       "Name": "Thwack!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "theme_vine_poison50Enemies",
@@ -3051,15 +3056,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1691,
+      "Progressed": 1708,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:42.3874659+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:35.4112728+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:43.2774326+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:09.3373786+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:42.3875191+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:24.1866428+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:35.4113146+00:00"
 }

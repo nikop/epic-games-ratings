@@ -5,10 +5,10 @@
   "Ranking_Rating": 486,
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 361,
-  "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 243,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -987,7 +987,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4085,
+  "EOS_Progressed": 4126,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -6317,6 +6317,11 @@
       "Time": "2024-03-21T17:05:44.5352735+00:00",
       "NumProgressed": 4085,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:02:08.9106416+00:00",
+      "NumProgressed": 4126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6342,9 +6347,9 @@
       "ID": "AutoDisrupted",
       "SetID": "3jha1np",
       "Name": "Look Over There!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 784
     },
     {
       "ID": "BloodAndIron",
@@ -6352,7 +6357,7 @@
       "Name": "Blood and Iron",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CampaignVictory_Day500",
@@ -6382,17 +6387,17 @@
       "ID": "CampaignVictory_NoFlowering",
       "SetID": "3jha1np",
       "Name": "Clean Slate",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "CompletedAllShipUpgrades",
       "SetID": "3jha1np",
       "Name": "Patron of Deimos",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 83
     },
     {
       "ID": "Dominus",
@@ -6414,9 +6419,9 @@
       "ID": "ExperiencedKnight",
       "SetID": "3jha1np",
       "Name": "Honoured Battle-Brother",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 289
     },
     {
       "ID": "ExtractorSkullUses",
@@ -6424,7 +6429,7 @@
       "Name": "Surgical Excision",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 330
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -6454,17 +6459,17 @@
       "ID": "FrequentWarpSurges",
       "SetID": "3jha1np",
       "Name": "Unstable Immaterium",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "FullBarracks",
       "SetID": "3jha1np",
       "Name": "Strike Force",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "HeavyExterminatusUse",
@@ -6480,7 +6485,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -6488,7 +6493,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 165
     },
     {
       "ID": "Kills_Auto",
@@ -6496,7 +6501,7 @@
       "Name": "Not So Fast...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 784
     },
     {
       "ID": "Kills_Bleed",
@@ -6504,7 +6509,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 495
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -6512,15 +6517,15 @@
       "Name": "Corruption Cleanser",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Kills_Executioner",
       "SetID": "3jha1np",
       "Name": "Executioner",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 980
+      "UsersEstimate": 1032
     },
     {
       "ID": "Kills_Exterminator",
@@ -6528,15 +6533,15 @@
       "Name": "Exterminator",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 371
     },
     {
       "ID": "Kills_Interactable",
@@ -6552,15 +6557,15 @@
       "Name": "Watch Where You Step...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 784
     },
     {
       "ID": "Kills_Streak",
       "SetID": "3jha1np",
       "Name": "Purging Spree",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 578
     },
     {
       "ID": "Kills_Vakir",
@@ -6576,7 +6581,7 @@
       "Name": "An Ill Omen",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 743
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6584,15 +6589,15 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "MasterCraftLevel3_Armour",
       "SetID": "3jha1np",
       "Name": "The Emperor Protects",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 289
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -6600,15 +6605,15 @@
       "Name": "Nemesis Master",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 248
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
       "SetID": "3jha1np",
       "Name": "Gunmaster",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 248
     },
     {
       "ID": "MasterOfTheForge",
@@ -6622,9 +6627,9 @@
       "ID": "MissionVictory_Apothecaries",
       "SetID": "3jha1np",
       "Name": "Field Apothecarion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "MissionVictory_Duo",
@@ -6638,33 +6643,33 @@
       "ID": "MissionVictory_Interceptors",
       "SetID": "3jha1np",
       "Name": "Warp Flickers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "MissionVictory_Justicars",
       "SetID": "3jha1np",
       "Name": "Phalanx",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "MissionVictory_NoAmmo",
       "SetID": "3jha1np",
       "Name": "Efficient Killer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 124
     },
     {
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 413
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -6686,9 +6691,9 @@
       "ID": "MissionVictory_WoundedKnights",
       "SetID": "3jha1np",
       "Name": "Just a Scratch",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 206
     },
     {
       "ID": "NexusCompleted",
@@ -6696,7 +6701,7 @@
       "Name": "A Foul Creche",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 289
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -6712,7 +6717,7 @@
       "Name": "Only in Death",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "Preservationist",
@@ -6720,7 +6725,7 @@
       "Name": "Preservationist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -6744,7 +6749,7 @@
       "Name": "Junk Banishment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -6752,7 +6757,7 @@
       "Name": "A Gift Spurned",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -6768,15 +6773,15 @@
       "Name": "Long Distance Call",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "SkilledKnight",
       "SetID": "3jha1np",
       "Name": "True Mastery",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "StrategicCommand",
@@ -6792,7 +6797,7 @@
       "Name": "Tactical Flexibility",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "AllAssassinsAcquired",
@@ -6800,15 +6805,15 @@
       "Name": "Execution Force",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ExperiencedCallidus",
       "SetID": "2im8phi",
       "Name": "Reign of Confusion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "ExperiencedCulexus",
@@ -6824,15 +6829,15 @@
       "Name": "Killing Rampage",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ExperiencedVindicare",
       "SetID": "2im8phi",
       "Name": "Deadshot",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "Kills_BioMeltdown",
@@ -6846,9 +6851,9 @@
       "ID": "Kills_TaintedSons_Execution",
       "SetID": "2im8phi",
       "Name": "Suffer Not the Mutant",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -6856,36 +6861,36 @@
       "Name": "Tactical Sabotage",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "TentarusHive_Destroyed",
       "SetID": "2im8phi",
       "Name": "Hive Exterminator",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 4085,
+      "Progressed": 4126,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 4085,
+      "Progressed": 4126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-04-07T12:58:22.6052968+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:44.5352729+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:08.910641+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:17.0802003+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:54.9056512+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:44.5353816+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:41.5023394+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:08.910708+00:00"
 }

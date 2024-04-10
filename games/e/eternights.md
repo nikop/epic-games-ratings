@@ -5,34 +5,34 @@ Rating: 4.62 (Ranked 399)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 78.00% | ~803 |
-| Shelter Escape | 77.00% | ~793 |
-| The First Bond | 66.00% | ~680 |
-| Novice Scavenger | 59.00% | ~608 |
-| Master Craftsman | 45.00% | ~464 |
-| First wall | 44.00% | ~453 |
-| Piggyback Expert | 43.00% | ~443 |
-| Second wall | 35.00% | ~360 |
-| Expert Scavenger | 33.00% | ~340 |
-| Their Rock | 29.00% | ~299 |
-| Yuna's Promise | 28.00% | ~288 |
-| Stone Retriever | 28.00% | ~288 |
-| Find myself | 27.00% | ~278 |
-| Min's Promise | 19.00% | ~196 |
-| Sia's Promise | 19.00% | ~196 |
-| Truebro | 18.00% | ~185 |
-| Romantic | 14.00% | ~144 |
-| TentacleMAN | 9.00% | ~93 |
-| Yohan's Promise | 5.00% | ~52 |
-| Flawless | 5.00% | ~52 |
-| Plushyboy | 4.00% | ~41 |
-| LOVEassistant | 3.00% | ~31 |
-| True Player | 1.00% | ~10 |
+| New arm | 78.00% | ~821 |
+| Shelter Escape | 77.00% | ~811 |
+| The First Bond | 66.00% | ~695 |
+| Novice Scavenger | 59.00% | ~621 |
+| Master Craftsman | 45.00% | ~474 |
+| First wall | 44.00% | ~463 |
+| Piggyback Expert | 43.00% | ~453 |
+| Second wall | 35.00% | ~369 |
+| Expert Scavenger | 34.00% | ~358 |
+| Their Rock | 29.00% | ~305 |
+| Yuna's Promise | 28.00% | ~295 |
+| Stone Retriever | 28.00% | ~295 |
+| Find myself | 27.00% | ~284 |
+| Min's Promise | 19.00% | ~200 |
+| Sia's Promise | 19.00% | ~200 |
+| Truebro | 19.00% | ~200 |
+| Romantic | 14.00% | ~147 |
+| TentacleMAN | 9.00% | ~95 |
+| Yohan's Promise | 5.00% | ~53 |
+| Flawless | 5.00% | ~53 |
+| Plushyboy | 4.00% | ~42 |
+| LOVEassistant | 3.00% | ~32 |
+| True Player | 0.90% | ~9 |
 | Dreamboat | 0.90% | ~9 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,030 (Ranked 334)  
-Completed: 2 (0.19%) (Ranked 319)  
+Progressed: 1,053 (Ranked 343)  
+Completed: 2 (0.19%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,6 +159,7 @@ Completed: 2 (0.19%) (Ranked 319)
 | 2024-01-27 | 944 | 2 |
 | 2024-02-22 | 1,007 | 2 |
 | 2024-03-21 | 1,030 | 2 |
+| 2024-04-10 | 1,053 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

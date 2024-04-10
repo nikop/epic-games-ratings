@@ -2,10 +2,10 @@
   "ID": "a8b1e0df5fc847da9b7971d5821ee6f6",
   "Name": "Dead Space\u2122 3",
   "ProductSlug": "dead-space-3-5a3755",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 807,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-04-01T20:00:00+00:00",
     "PcReleaseDate": "2013-02-04T23:00:00+00:00",
@@ -25,17 +25,505 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-10T06:01:54.9327166+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-04-10T06:01:54.9327237+00:00",
+  "TotalAchievements": 58,
+  "TotalAchievementsXP": 1250,
+  "Achievements": [
+    {
+      "ID": "achievement_1",
+      "SetID": "1phk5ih",
+      "Name": "Stranger in a Strange Land",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_10",
+      "SetID": "1phk5ih",
+      "Name": "Under a Buck",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_11",
+      "SetID": "1phk5ih",
+      "Name": "Space Ace",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_12",
+      "SetID": "1phk5ih",
+      "Name": "Hungry",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_13",
+      "SetID": "1phk5ih",
+      "Name": "Drill Sergeant",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_14",
+      "SetID": "1phk5ih",
+      "Name": "Weedkiller",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_15",
+      "SetID": "1phk5ih",
+      "Name": "Get On My Level",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_16",
+      "SetID": "1phk5ih",
+      "Name": "The Explorer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_17",
+      "SetID": "1phk5ih",
+      "Name": "Aren\u0027t You Thankful?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_18",
+      "SetID": "1phk5ih",
+      "Name": "Epic Tier 4 Engineer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_19",
+      "SetID": "1phk5ih",
+      "Name": "Survivalist",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_2",
+      "SetID": "1phk5ih",
+      "Name": "Space Odyssey",
+      "Percentage": 57,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "achievement_20",
+      "SetID": "1phk5ih",
+      "Name": "Gun Collector",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_21",
+      "SetID": "1phk5ih",
+      "Name": "Aliens",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_22",
+      "SetID": "1phk5ih",
+      "Name": "The Professor",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_23",
+      "SetID": "1phk5ih",
+      "Name": "The Librarian",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_24",
+      "SetID": "1phk5ih",
+      "Name": "The Armorer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_25",
+      "SetID": "1phk5ih",
+      "Name": "There\u0027s Always Peng!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_26",
+      "SetID": "1phk5ih",
+      "Name": "My Buddy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_27",
+      "SetID": "1phk5ih",
+      "Name": "Metal Detector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_28",
+      "SetID": "1phk5ih",
+      "Name": "Strapped",
+      "Percentage": 43,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_29",
+      "SetID": "1phk5ih",
+      "Name": "Circuit\u0027s Edge",
+      "Percentage": 43,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "achievement_3",
+      "SetID": "1phk5ih",
+      "Name": "Critical Mass",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_30",
+      "SetID": "1phk5ih",
+      "Name": "EMT",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_31",
+      "SetID": "1phk5ih",
+      "Name": "Full House",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_32",
+      "SetID": "1phk5ih",
+      "Name": "RIG Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_33",
+      "SetID": "1phk5ih",
+      "Name": "Master Plan",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_34",
+      "SetID": "1phk5ih",
+      "Name": "From the Jaws",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_35",
+      "SetID": "1phk5ih",
+      "Name": "Share and Share Alike",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_36",
+      "SetID": "1phk5ih",
+      "Name": "Medic!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_37",
+      "SetID": "1phk5ih",
+      "Name": "Ghosts of the Past",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_38",
+      "SetID": "1phk5ih",
+      "Name": "Architect",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_39",
+      "SetID": "1phk5ih",
+      "Name": "Axes High",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_4",
+      "SetID": "1phk5ih",
+      "Name": "Snow Crash",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_40",
+      "SetID": "1phk5ih",
+      "Name": "Payback",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_41",
+      "SetID": "1phk5ih",
+      "Name": "Close Encounter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_42",
+      "SetID": "1phk5ih",
+      "Name": "Go for the Limbs!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_43",
+      "SetID": "1phk5ih",
+      "Name": "And Then We Doubled It!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_44",
+      "SetID": "1phk5ih",
+      "Name": "Slow Mo",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_45",
+      "SetID": "1phk5ih",
+      "Name": "Blast Corps",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_46",
+      "SetID": "1phk5ih",
+      "Name": "Shootbang",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_47",
+      "SetID": "1phk5ih",
+      "Name": "Empty Chamber",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_48",
+      "SetID": "1phk5ih",
+      "Name": "Dropping Acid",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_49",
+      "SetID": "1phk5ih",
+      "Name": "Electric Lawnmower",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_5",
+      "SetID": "1phk5ih",
+      "Name": "Intestinal Fortitude",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_50",
+      "SetID": "1phk5ih",
+      "Name": "Overpowered Healing",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_51",
+      "SetID": "4gib0ic",
+      "Name": "Bad Moon Rising",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_52",
+      "SetID": "4gib0ic",
+      "Name": "Heretic",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_53",
+      "SetID": "4gib0ic",
+      "Name": "True Believer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_54",
+      "SetID": "4gib0ic",
+      "Name": "Get to the Chopper!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_55",
+      "SetID": "4gib0ic",
+      "Name": "Pure Lunacy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_56",
+      "SetID": "4gib0ic",
+      "Name": "Just the Tip",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_57",
+      "SetID": "4gib0ic",
+      "Name": "Heaven Can Wait",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_58",
+      "SetID": "4gib0ic",
+      "Name": "Supercharger",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_6",
+      "SetID": "1phk5ih",
+      "Name": "Hydra",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_7",
+      "SetID": "1phk5ih",
+      "Name": "Together as One",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_8",
+      "SetID": "1phk5ih",
+      "Name": "Infernal Machine",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_9",
+      "SetID": "1phk5ih",
+      "Name": "Shoot for the Moon",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1phk5ih",
+      "IsBase": true,
+      "Progressed": 7,
+      "Completed": 0
+    },
+    {
+      "ID": "4gib0ic",
+      "IsBase": false,
+      "Progressed": 7,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-04-04T19:58:08.2620751+00:00",
+  "FirstSeenAchievements": "2024-04-10T06:01:54.9327235+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:01:54.932716+00:00",
   "LastUpdate_AppInfo": "2024-04-08T21:57:11.6604585+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:30.4297572+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:41.5825532+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:54.9335549+00:00"
 }

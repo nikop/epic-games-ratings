@@ -2,10 +2,10 @@
   "ID": "3623ba5530504da8a3f6e8d7f51177df",
   "Name": "Mediterranea Inferno",
   "ProductSlug": "mediterranea-inferno-6a1352",
-  "Ranking_EOS_Progress": 707,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-18T17:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -119,6 +119,11 @@
       "Time": "2024-03-21T17:10:15.1166615+00:00",
       "NumProgressed": 23,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:04:38.9474607+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T12:05:49.4734668+00:00",
@@ -129,7 +134,7 @@
       "ID": "ACH_0",
       "SetID": "526kd3o",
       "Name": "The Tower",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -137,7 +142,7 @@
       "ID": "ACH_1",
       "SetID": "526kd3o",
       "Name": "Pump It Up",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -145,7 +150,7 @@
       "ID": "ACH_12",
       "SetID": "526kd3o",
       "Name": "Welcome to Puglia",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -185,7 +190,7 @@
       "ID": "ACH_5",
       "SetID": "526kd3o",
       "Name": "I Ragazzi del Sole",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -218,14 +223,14 @@
     {
       "ID": "526kd3o",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 30,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T23:57:29.1604344+00:00",
   "FirstSeenAchievements": "2023-11-21T09:07:01.6731758+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:15.1166608+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:38.9474601+00:00",
   "LastUpdate_AppInfo": "2024-04-05T08:57:07.1003603+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:54.5500195+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:15.1166707+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:39.5820104+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:38.947469+00:00"
 }

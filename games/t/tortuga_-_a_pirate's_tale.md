@@ -1,39 +1,39 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.82 (Ranked 1,141)  
+Rating: 3.82 (Ranked 1,142)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,831 |
-| No Half Measures | 87.00% | ~15,414 |
-| Personal Matter | 86.00% | ~15,237 |
-| But You Have Heard of Me | 72.00% | ~12,756 |
-| Double the Barrels, double the Fun | 54.00% | ~9,567 |
-| Pimp My Glide | 50.00% | ~8,858 |
-| ... And Where Do the Stories Come From? | 40.00% | ~7,087 |
-| House Party! | 36.00% | ~6,378 |
-| Make It Rain | 23.00% | ~4,075 |
-| Curse of the Seven Seas | 22.00% | ~3,898 |
-| Head First | 16.00% | ~2,835 |
-| To the World's End | 12.00% | ~2,126 |
-| Table for Six | 11.00% | ~1,949 |
-| Sharing Is Caring | 10.00% | ~1,772 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,417 |
-| Morally Flexible | 6.00% | ~1,063 |
-| Fishing for Compliments | 5.00% | ~886 |
+| Eeligally Ambitious | 95.00% | ~16,847 |
+| No Half Measures | 87.00% | ~15,429 |
+| Personal Matter | 86.00% | ~15,251 |
+| But You Have Heard of Me | 72.00% | ~12,768 |
+| Double the Barrels, double the Fun | 54.00% | ~9,576 |
+| Pimp My Glide | 50.00% | ~8,867 |
+| ... And Where Do the Stories Come From? | 41.00% | ~7,271 |
+| House Party! | 36.00% | ~6,384 |
+| Make It Rain | 23.00% | ~4,079 |
+| Curse of the Seven Seas | 23.00% | ~4,079 |
+| Head First | 17.00% | ~3,015 |
+| To the World's End | 12.00% | ~2,128 |
+| Table for Six | 11.00% | ~1,951 |
+| Sharing Is Caring | 10.00% | ~1,773 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,419 |
+| Morally Flexible | 6.00% | ~1,064 |
+| Fishing for Compliments | 5.00% | ~887 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~532 |
-| A True Dandy | 2.00% | ~354 |
+| A True Dandy | 2.00% | ~355 |
 | A New Legend Awaits | 1.00% | ~177 |
-| Pirate King | 0.90% | ~159 |
+| Pirate King | 0.90% | ~160 |
 | Oooh, We're Half Way There | 0.80% | ~142 |
 | O Captain! My Captain! | 0.20% | ~35 |
 | Devilishly Talented | 0.10% | ~18 |
 | Heavy Tunaing | 0.10% | ~18 |
 | Pufferfish | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,717 (Ranked 181)  
-Completed: 1 (0.01%) (Ranked 424)  
+Progressed: 17,734 (Ranked 185)  
+Completed: 1 (0.01%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,6 +310,7 @@ Completed: 1 (0.01%) (Ranked 424)
 | 2024-01-26 | 17,556 | 1 |
 | 2024-02-22 | 17,683 | 1 |
 | 2024-03-21 | 17,717 | 1 |
+| 2024-04-10 | 17,734 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,83 +6,84 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Patronus | 71.00% | ~109 |
-| Tuebor | 50.00% | ~77 |
-| Legatus Legionis | 47.00% | ~72 |
-| Para Bellum | 45.00% | ~69 |
-| Abundans Cautela Non Nocet | 41.00% | ~63 |
-| Causa Mortis | 38.00% | ~59 |
-| Prima Facie | 33.00% | ~51 |
-| Ad Altiora Tendo | 32.00% | ~49 |
-| Pax Romana | 31.00% | ~48 |
-| Oleum Camino | 31.00% | ~48 |
-| Regina Aegypti | 29.00% | ~45 |
-| Citius Altius Fortius | 27.00% | ~42 |
-| Memento Mori | 24.00% | ~37 |
-| Festina Lente | 23.00% | ~35 |
-| Familia Supra Omnia | 23.00% | ~35 |
-| Amor Vincit Omnia | 23.00% | ~35 |
-| Aut Viam Inveniam Aut Faciam | 22.00% | ~34 |
-| Carthago Delenda Est | 21.00% | ~32 |
-| Audi, Vide, Tace | 18.00% | ~28 |
-| Lex Talionis | 18.00% | ~28 |
-| Morior Invictus | 18.00% | ~28 |
-| XVII | 18.00% | ~28 |
-| Pede Poena Claudo | 15.00% | ~23 |
-| Collige Virgo Rosas | 14.00% | ~22 |
-| Ab Antiquo | 14.00% | ~22 |
-| In Loco Parentis | 13.00% | ~20 |
-| Bellum Gallicum | 12.00% | ~18 |
-| Nec Aspera Terrent | 12.00% | ~18 |
-| Legio Patria Nostra | 11.00% | ~17 |
-| Semper Paratus | 11.00% | ~17 |
-| Cum Laude | 10.00% | ~15 |
-| Cum Gladio Et Sale | 10.00% | ~15 |
-| Iuncta Iuvant | 9.00% | ~14 |
-| Sanguinem Sacrificium | 9.00% | ~14 |
-| Damnum Absque Injuria | 9.00% | ~14 |
-| Magnum Opus | 8.00% | ~12 |
-| Romani Ite Domum | 8.00% | ~12 |
-| Arcana Imperii | 7.00% | ~11 |
-| Magna Cum Laude | 7.00% | ~11 |
-| Veni, Vidi, Vici | 7.00% | ~11 |
-| Ante Omnia Armari | 7.00% | ~11 |
-| Non Plus Ultra | 6.00% | ~9 |
-| Summa Cum Laude | 6.00% | ~9 |
-| Accipe Hoc | 6.00% | ~9 |
-| Absit Iniuria | 6.00% | ~9 |
-| De Legibus | 6.00% | ~9 |
-| Julius Caesar | 5.00% | ~8 |
-| Quinctius Cincinnatus | 5.00% | ~8 |
-| Per Pedes | 5.00% | ~8 |
-| Ophidia In Herba | 5.00% | ~8 |
-| Post Coitum | 5.00% | ~8 |
-| Miserere Nobis | 5.00% | ~8 |
-| Morituri te Salutant | 4.00% | ~6 |
-| Pompeius Magnus | 3.00% | ~5 |
-| Gaius Octavius | 3.00% | ~5 |
-| Mors Tua Vita Mea | 3.00% | ~5 |
-| Ad Leones | 3.00% | ~5 |
+| Patronus | 69.00% | ~172 |
+| Tuebor | 50.00% | ~125 |
+| Legatus Legionis | 49.00% | ~122 |
+| Para Bellum | 47.00% | ~118 |
+| Abundans Cautela Non Nocet | 41.00% | ~102 |
+| Causa Mortis | 37.00% | ~92 |
+| Prima Facie | 31.00% | ~78 |
+| Ad Altiora Tendo | 30.00% | ~75 |
+| Pax Romana | 30.00% | ~75 |
+| Oleum Camino | 30.00% | ~75 |
+| Regina Aegypti | 28.00% | ~70 |
+| Citius Altius Fortius | 27.00% | ~68 |
+| Memento Mori | 24.00% | ~60 |
+| Festina Lente | 23.00% | ~58 |
+| Familia Supra Omnia | 23.00% | ~58 |
+| Aut Viam Inveniam Aut Faciam | 22.00% | ~55 |
+| Amor Vincit Omnia | 22.00% | ~55 |
+| Carthago Delenda Est | 22.00% | ~55 |
+| Morior Invictus | 20.00% | ~50 |
+| XVII | 20.00% | ~50 |
+| Audi, Vide, Tace | 18.00% | ~45 |
+| Lex Talionis | 17.00% | ~42 |
+| Pede Poena Claudo | 16.00% | ~40 |
+| Bellum Gallicum | 15.00% | ~38 |
+| Ab Antiquo | 15.00% | ~38 |
+| Collige Virgo Rosas | 14.00% | ~35 |
+| In Loco Parentis | 13.00% | ~32 |
+| Sanguinem Sacrificium | 12.00% | ~30 |
+| Semper Paratus | 12.00% | ~30 |
+| Nec Aspera Terrent | 12.00% | ~30 |
+| Cum Laude | 11.00% | ~28 |
+| Legio Patria Nostra | 11.00% | ~28 |
+| Veni, Vidi, Vici | 11.00% | ~28 |
+| Magnum Opus | 10.00% | ~25 |
+| Damnum Absque Injuria | 10.00% | ~25 |
+| Romani Ite Domum | 10.00% | ~25 |
+| Cum Gladio Et Sale | 10.00% | ~25 |
+| Iuncta Iuvant | 9.00% | ~22 |
+| Non Plus Ultra | 9.00% | ~22 |
+| Magna Cum Laude | 8.00% | ~20 |
+| Accipe Hoc | 8.00% | ~20 |
+| Julius Caesar | 7.00% | ~18 |
+| De Legibus | 7.00% | ~18 |
+| Ante Omnia Armari | 7.00% | ~18 |
+| Arcana Imperii | 6.00% | ~15 |
+| Summa Cum Laude | 6.00% | ~15 |
+| Morituri te Salutant | 6.00% | ~15 |
+| Quinctius Cincinnatus | 5.00% | ~12 |
+| Absit Iniuria | 5.00% | ~12 |
+| Per Pedes | 5.00% | ~12 |
+| Ophidia In Herba | 5.00% | ~12 |
+| Post Coitum | 5.00% | ~12 |
+| Miserere Nobis | 5.00% | ~12 |
+| Gaius Octavius | 4.00% | ~10 |
+| Ad Leones | 4.00% | ~10 |
+| Pompeius Magnus | 2.00% | ~5 |
+| Junius Brutus | 2.00% | ~5 |
+| Marcus Antonius | 2.00% | ~5 |
+| Mors Tua Vita Mea | 2.00% | ~5 |
+| Pater Familias | 2.00% | ~5 |
 | Licinius Crassus | 1.00% | ~2 |
-| Junius Brutus | 1.00% | ~2 |
-| Marcus Antonius | 1.00% | ~2 |
 | Cedere Nescio | 1.00% | ~2 |
-| Pater Familias | 1.00% | ~2 |
-| Contra Spem Spero | 1.00% | ~2 |
-| Oderint Dum Metuant | 0.60% | ~1 |
+| Oderint Dum Metuant | 0.80% | ~2 |
+| Contra Spem Spero | 0.80% | ~2 |
+| Age Quod Agis | 0.40% | ~1 |
 | Plaudite Cives | 0.00% | ~0 |
 | Ego Sum Spartacus! | 0.00% | ~0 |
 | Peccatum Originale | 0.00% | ~0 |
 | Circulus Vitiosus | 0.00% | ~0 |
-| Age Quod Agis | 0.00% | ~0 |
 | Nil Per Os | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 516)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 250 (Ranked 470)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 154 | 0 |
+| 2024-04-10 | 250 | 0 |
 ## Awards
 Max (Character Customization): 53  (Ranked 484)  
 Sum: 53 (Ranked 548)  

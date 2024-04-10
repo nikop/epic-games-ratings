@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 79.00% | ~48 |
-| Sea Legs | 64.00% | ~39 |
-| What?! | 43.00% | ~26 |
+| Shipwrecked! | 79.00% | ~50 |
+| Sea Legs | 65.00% | ~41 |
+| What?! | 43.00% | ~27 |
 | Frogs Legs | 21.00% | ~13 |
-| Mad Scientist | 16.00% | ~10 |
-| Hoist the Sails | 16.00% | ~10 |
-| Socialite | 15.00% | ~9 |
-| Secure the Sheets | 15.00% | ~9 |
+| Hoist the Sails | 19.00% | ~12 |
+| Mad Scientist | 17.00% | ~11 |
+| Socialite | 16.00% | ~10 |
+| Secure the Sheets | 14.00% | ~9 |
 | Who Even Needs Keys | 10.00% | ~6 |
+| Couch-surfing | 10.00% | ~6 |
 | Hands on the Helm | 10.00% | ~6 |
 | Replace the Rudder | 10.00% | ~6 |
 | Shrub-Seeing: Townlife | 8.00% | ~5 |
 | Shrub-Seeing: Silly Birbs | 8.00% | ~5 |
-| Couch-surfing | 8.00% | ~5 |
 | Sailor Swift | 8.00% | ~5 |
 | No Evil | 8.00% | ~5 |
 | Bank of Me | 8.00% | ~5 |
-| Shrub-Seeing: Ruins of old | 7.00% | ~4 |
-| Safe Investment | 7.00% | ~4 |
-| Fantastic Fungi | 7.00% | ~4 |
-| The Journey Continues | 7.00% | ~4 |
+| Shrub-Seeing: Ruins of old | 6.00% | ~4 |
+| Safe Investment | 6.00% | ~4 |
+| Fantastic Fungi | 6.00% | ~4 |
+| The Journey Continues | 6.00% | ~4 |
 | Shrub-Seeing: Lights in the sky | 5.00% | ~3 |
 | Shrub-Seeing: Ancient Extractor | 5.00% | ~3 |
 | Shrub-Seeing: Seen it all! | 5.00% | ~3 |
@@ -40,8 +40,8 @@
 | Crunch Time | 2.00% | ~1 |
 | Just Here for the Food | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 614)  
-Completed: 1 (1.64%) (Ranked 170)  
+Progressed: 63 (Ranked 623)  
+Completed: 1 (1.59%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 1 (1.64%) (Ranked 170)
 | 2024-01-12 | 50 | 1 |
 | 2024-01-21 | 51 | 1 |
 | 2024-03-21 | 61 | 1 |
+| 2024-04-10 | 63 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

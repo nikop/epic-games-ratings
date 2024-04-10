@@ -6,52 +6,52 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~385,995 |
-| good drivers have dead flies on the side windows | 33.00% | ~159,223 |
-| keep it tidy | 27.00% | ~130,273 |
-| brail | 27.00% | ~130,273 |
-| car wash | 24.00% | ~115,799 |
-| the artist | 23.00% | ~110,974 |
-| podium | 21.00% | ~101,324 |
-| medium attack | 18.00% | ~86,849 |
-| bicycle race | 6.00% | ~28,950 |
-| grocery-getter | 6.00% | ~28,950 |
-| autopilot | 5.00% | ~24,125 |
-| where is the stage? | 4.00% | ~19,300 |
-| night ride | 4.00% | ~19,300 |
-| snorkel | 4.00% | ~19,300 |
-| rwd only | 3.00% | ~14,475 |
-| food tour: pasta | 3.00% | ~14,475 |
-| to finish first, first you must finish | 2.00% | ~9,650 |
-| perkele | 2.00% | ~9,650 |
-| turbo | 2.00% | ~9,650 |
-| in like a lamb, out like a lion | 2.00% | ~9,650 |
-| if in doubt, flat out! | 2.00% | ~9,650 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~9,650 |
-| mittens | 2.00% | ~9,650 |
-| food tour: pretzel | 2.00% | ~9,650 |
-| espresso | 1.00% | ~4,825 |
-| monster | 1.00% | ~4,825 |
-| parallel universe | 0.80% | ~3,860 |
-| eurobeat | 0.70% | ~3,377 |
-| viking | 0.70% | ~3,377 |
-| oktoberfest | 0.60% | ~2,895 |
-| master of rally | 0.60% | ~2,895 |
-| antilag | 0.60% | ~2,895 |
-| group b | 0.60% | ~2,895 |
-| samir | 0.60% | ~2,895 |
-| parking lot | 0.50% | ~2,412 |
-| maximum attack | 0.50% | ~2,412 |
-| real roads, real fast | 0.40% | ~1,930 |
-| comfy seats | 0.30% | ~1,447 |
-| simulator | 0.20% | ~965 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~482 |
-| absolute drift | 0.10% | ~482 |
-| barely keeping it together | 0.10% | ~482 |
-| you're here for a good time, not a long time | 0.10% | ~482 |
+| light attack | 80.00% | ~394,001 |
+| good drivers have dead flies on the side windows | 33.00% | ~162,525 |
+| keep it tidy | 27.00% | ~132,975 |
+| brail | 27.00% | ~132,975 |
+| car wash | 24.00% | ~118,200 |
+| the artist | 23.00% | ~113,275 |
+| podium | 21.00% | ~103,425 |
+| medium attack | 18.00% | ~88,650 |
+| bicycle race | 7.00% | ~34,475 |
+| grocery-getter | 6.00% | ~29,550 |
+| autopilot | 5.00% | ~24,625 |
+| where is the stage? | 4.00% | ~19,700 |
+| night ride | 4.00% | ~19,700 |
+| snorkel | 4.00% | ~19,700 |
+| rwd only | 3.00% | ~14,775 |
+| food tour: pasta | 3.00% | ~14,775 |
+| to finish first, first you must finish | 2.00% | ~9,850 |
+| perkele | 2.00% | ~9,850 |
+| turbo | 2.00% | ~9,850 |
+| in like a lamb, out like a lion | 2.00% | ~9,850 |
+| if in doubt, flat out! | 2.00% | ~9,850 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~9,850 |
+| mittens | 2.00% | ~9,850 |
+| food tour: pretzel | 2.00% | ~9,850 |
+| espresso | 1.00% | ~4,925 |
+| monster | 1.00% | ~4,925 |
+| parallel universe | 0.90% | ~4,433 |
+| eurobeat | 0.70% | ~3,448 |
+| viking | 0.70% | ~3,448 |
+| oktoberfest | 0.60% | ~2,955 |
+| master of rally | 0.60% | ~2,955 |
+| antilag | 0.60% | ~2,955 |
+| group b | 0.60% | ~2,955 |
+| samir | 0.60% | ~2,955 |
+| parking lot | 0.50% | ~2,463 |
+| maximum attack | 0.50% | ~2,463 |
+| real roads, real fast | 0.50% | ~2,463 |
+| comfy seats | 0.30% | ~1,478 |
+| simulator | 0.20% | ~985 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~493 |
+| absolute drift | 0.10% | ~493 |
+| barely keeping it together | 0.10% | ~493 |
+| you're here for a good time, not a long time | 0.10% | ~493 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,494 (Ranked 46)  
-Completed: 42 (0.01%) (Ranked 424)  
+Progressed: 492,501 (Ranked 48)  
+Completed: 46 (0.01%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,6 +265,7 @@ Completed: 42 (0.01%) (Ranked 424)
 | 2024-01-27 | 437,887 | 29 |
 | 2024-02-22 | 464,868 | 37 |
 | 2024-03-21 | 482,494 | 42 |
+| 2024-04-10 | 492,501 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 78  (Ranked 438)  
 Sum: 588 (Ranked 344)  

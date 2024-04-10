@@ -2,10 +2,10 @@
   "ID": "77e1c378b2344ca180de58114bc3a6b5",
   "Name": "Thorgal",
   "ProductSlug": "thorgal-5bf32f",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-09T18:57:26.8422513+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:58.3734986+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:27.2191779+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:14.6033609+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:00.3406155+00:00"
 }

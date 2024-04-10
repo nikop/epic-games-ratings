@@ -2,10 +2,10 @@
   "ID": "847d4e731fb146a590720e393f524df7",
   "Name": "DEPRISION",
   "ProductSlug": "deprision-1dc41e",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-05T19:57:01.4348649+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:17.4541757+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:57.8300583+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:04.7630835+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:43.8491957+00:00"
 }

@@ -5,36 +5,36 @@ Rating: 4.41 (Ranked 783)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Strikeout! | 0.50% | ~25 |
-| Night Has Just Begun | 0.50% | ~25 |
-| Zip This Up | 0.50% | ~25 |
-| I'd Buy That For a Dollar! | 0.40% | ~20 |
-| Uphold the Law | 0.40% | ~20 |
-| Officer of the month | 0.40% | ~20 |
-| All Adds Up | 0.40% | ~20 |
-| Twenty Seconds to Comply | 0.40% | ~20 |
-| Don't Mess With the Money! | 0.40% | ~20 |
-| Let's Talk | 0.40% | ~20 |
-| Nukem! | 0.30% | ~15 |
-| Live by the bike... | 0.30% | ~15 |
-| Dead or Alive | 0.30% | ~15 |
-| Book Him! | 0.30% | ~15 |
-| Cashing Out | 0.30% | ~15 |
-| Dead-On | 0.30% | ~15 |
-| Hard Boiled | 0.20% | ~10 |
-| May Be Used Against You | 0.20% | ~10 |
-| Not Arresting You Anymore | 0.20% | ~10 |
-| "Nice shooting, son" | 0.20% | ~10 |
-| A Real Hero | 0.20% | ~10 |
-| No stone unturned | 0.20% | ~10 |
-| SuperCop | 0.20% | ~10 |
-| "This Guy Is Really Good" | 0.20% | ~10 |
-| Practice Makes Perfect | 0.20% | ~10 |
+| Night Has Just Begun | 0.50% | ~26 |
+| I'd Buy That For a Dollar! | 0.40% | ~21 |
+| Uphold the Law | 0.40% | ~21 |
+| Officer of the month | 0.40% | ~21 |
+| Strikeout! | 0.40% | ~21 |
+| All Adds Up | 0.40% | ~21 |
+| Twenty Seconds to Comply | 0.40% | ~21 |
+| Don't Mess With the Money! | 0.40% | ~21 |
+| Let's Talk | 0.40% | ~21 |
+| Zip This Up | 0.40% | ~21 |
+| Dead or Alive | 0.30% | ~16 |
+| Book Him! | 0.30% | ~16 |
+| Cashing Out | 0.30% | ~16 |
+| Dead-On | 0.30% | ~16 |
+| Hard Boiled | 0.20% | ~11 |
+| May Be Used Against You | 0.20% | ~11 |
+| Nukem! | 0.20% | ~11 |
+| Live by the bike... | 0.20% | ~11 |
+| Not Arresting You Anymore | 0.20% | ~11 |
+| "Nice shooting, son" | 0.20% | ~11 |
+| A Real Hero | 0.20% | ~11 |
+| No stone unturned | 0.20% | ~11 |
+| SuperCop | 0.20% | ~11 |
+| "This Guy Is Really Good" | 0.20% | ~11 |
+| Practice Makes Perfect | 0.20% | ~11 |
 | There Can Only Be One | 0.10% | ~5 |
 | Good eyes, Murphy! | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,019 (Ranked 227)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 5,269 (Ranked 231)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 4,003 | 0 |
 | 2024-02-22 | 4,626 | 0 |
 | 2024-03-21 | 5,019 | 0 |
+| 2024-04-10 | 5,269 | 0 |
 ## Awards
 Max (Great Boss Battles): 255  (Ranked 290)  
 Sum: 255 (Ranked 433)  

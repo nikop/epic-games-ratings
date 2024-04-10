@@ -2,10 +2,10 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 185,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.19,
+  "EOS_Completed_Percentage": 2.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -524,6 +524,11 @@
       "Time": "2024-04-05T15:03:31.4619054+00:00",
       "NumProgressed": 183,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-04-10T06:06:46.9672908+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -535,7 +540,7 @@
       "Name": "Full and Final Settlement",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "AutoBullets_0",
@@ -551,7 +556,7 @@
       "Name": "No Place to Hide",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClubTurretsHack",
@@ -559,7 +564,7 @@
       "Name": "Sapper",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "EnemyDefeat_0",
@@ -567,7 +572,7 @@
       "Name": "Unstoppable",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "EnemyDefeat_1",
@@ -581,9 +586,9 @@
       "ID": "ExpertChoice",
       "SetID": "9e3d06k",
       "Name": "Tough Decision",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "FirstAutoSkillUnlock",
@@ -591,7 +596,7 @@
       "Name": "Breaking Through",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "FirstSkillBuy",
@@ -599,7 +604,7 @@
       "Name": "A.I. Training",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "GunUnlock",
@@ -607,15 +612,15 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "Headshots_1",
@@ -663,7 +668,7 @@
       "Name": "Silent Overload",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "SecretEnding",
@@ -671,7 +676,7 @@
       "Name": "A Voice in the Dark",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "StealthDefeat_0",
@@ -695,7 +700,7 @@
       "Name": "One Click Away",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -709,9 +714,9 @@
       "ID": "TelekinesisThrow_1",
       "SetID": "9e3d06k",
       "Name": "Gravity Bender",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ThirdAutoSkillUnlock",
@@ -719,14 +724,14 @@
       "Name": "Telekinesis",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 185,
       "Completed": 4
     }
   ],
@@ -734,8 +739,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:03:31.4619051+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:46.9672902+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:55.5680984+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:14.7242696+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:03:31.4619205+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:02.0749028+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:46.9673075+00:00"
 }

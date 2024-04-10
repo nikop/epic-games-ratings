@@ -2,10 +2,10 @@
   "ID": "ba91010858254bf7af0325c091bd4f72",
   "Name": "Murder Is Game Over - Streaming Death",
   "ProductSlug": "murder-is-game-over-streaming-death-951812",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-18T17:00:00+00:00",
     "PcReleaseDate": "2023-07-18T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-02T04:58:19.9520839+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:42.4263931+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:07.4063512+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:20.5963928+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:22.5775394+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:56.3582649+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "49613a9a949f41cb99d3583a42d3fe88",
   "Name": "With in the Obscurity",
   "ProductSlug": "meiqi2023-08a61e",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-04T00:00:00+00:00",
     "PcReleaseDate": "2024-03-05T08:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-08T18:57:26.6048846+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:30.489669+00:00",
-  "LastUpdate_Achievements": "2024-04-07T18:05:26.7604926+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:18.8362471+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:05.4810107+00:00"
 }

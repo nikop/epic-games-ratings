@@ -5,10 +5,10 @@
   "Ranking_Rating": 933,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -78,11 +78,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.74,
+  "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -518,6 +518,11 @@
       "Time": "2024-03-21T17:13:15.0125282+00:00",
       "NumProgressed": 365,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-04-10T06:06:28.1296473+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -553,7 +558,7 @@
       "Name": "Cowardice",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_04",
@@ -599,9 +604,9 @@
       "ID": "achievement_09",
       "SetID": "7881h0d",
       "Name": "Grau Hill",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 282
     },
     {
       "ID": "achievement_10",
@@ -609,15 +614,15 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_11",
       "SetID": "7881h0d",
       "Name": "A forgotten language",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 256
     },
     {
       "ID": "achievement_12",
@@ -631,9 +636,9 @@
       "ID": "achievement_13",
       "SetID": "7881h0d",
       "Name": "One step down",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_14",
@@ -641,7 +646,7 @@
       "Name": "Lord Clayton",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_15",
@@ -680,7 +685,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 10
     }
   ],
@@ -688,8 +693,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:13:15.0125275+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:28.1296468+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:37.822395+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:52.9163888+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:13:15.0125437+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:09.771802+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:28.1296607+00:00"
 }

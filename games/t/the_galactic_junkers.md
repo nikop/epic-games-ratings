@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mechanic | 95.00% | ~53 |
-| Firefighter | 89.00% | ~50 |
-| Pirate | 77.00% | ~43 |
-| Miner | 68.00% | ~38 |
-| Cookie Addict | 54.00% | ~30 |
-| Expert Mechanic | 52.00% | ~29 |
-| Salvager | 45.00% | ~25 |
-| You're Hired! | 29.00% | ~16 |
+| Mechanic | 95.00% | ~54 |
+| Firefighter | 89.00% | ~51 |
+| Pirate | 77.00% | ~44 |
+| Miner | 68.00% | ~39 |
+| Cookie Addict | 54.00% | ~31 |
+| Expert Mechanic | 51.00% | ~29 |
+| Salvager | 46.00% | ~26 |
+| You're Hired! | 30.00% | ~17 |
 | Expert Miner | 25.00% | ~14 |
-| Expert Firefighter | 13.00% | ~7 |
-| Master Mechanic | 13.00% | ~7 |
+| Expert Firefighter | 12.00% | ~7 |
+| Master Mechanic | 12.00% | ~7 |
 | Pancake Day | 11.00% | ~6 |
 | Ray of Sunshine | 11.00% | ~6 |
 | Master Miner | 9.00% | ~5 |
@@ -28,8 +28,8 @@
 | Master Salvager | 0.00% | ~0 |
 | Day Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 620)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 57 (Ranked 635)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2023-12-21 | 54 | 0 |
 | 2024-01-04 | 55 | 0 |
 | 2024-01-20 | 56 | 0 |
+| 2024-04-10 | 57 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

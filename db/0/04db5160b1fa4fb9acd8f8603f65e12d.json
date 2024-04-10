@@ -2,10 +2,10 @@
   "ID": "04db5160b1fa4fb9acd8f8603f65e12d",
   "Name": "Your Computer Might Be At Risk",
   "ProductSlug": "your-computer-might-be-at-risk-c5dea9",
-  "Ranking_EOS_Progress": 797,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 807,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-06-28T12:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -54,6 +54,11 @@
       "Time": "2024-03-21T17:07:32.9951536+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:07.0145214+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-06T23:07:53.4814974+00:00",
@@ -64,17 +69,17 @@
       "ID": "0_0",
       "SetID": "92c5pfn",
       "Name": "0.0%",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ALL_EYES_ON_ME",
       "SetID": "92c5pfn",
       "Name": "All eyes on me",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ALL_IN",
@@ -88,17 +93,17 @@
       "ID": "ALMOST",
       "SetID": "92c5pfn",
       "Name": "Almost",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 45,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BASIC_NEED",
       "SetID": "92c5pfn",
       "Name": "Basic need",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BINARY_ELECTRICIAN",
@@ -112,9 +117,9 @@
       "ID": "BODY_CLEAN",
       "SetID": "92c5pfn",
       "Name": "Clean body, clean mind",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BRAVE",
@@ -128,25 +133,25 @@
       "ID": "BURN",
       "SetID": "92c5pfn",
       "Name": "Burn",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BZZZ",
       "SetID": "92c5pfn",
       "Name": "Bzzz",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CLEANING_OUT_MY_CLOSET",
       "SetID": "92c5pfn",
       "Name": "Cleaning out my closet",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CLEAN_GUY",
@@ -160,97 +165,97 @@
       "ID": "CURIOUS",
       "SetID": "92c5pfn",
       "Name": "Curious",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DARK_MODE",
       "SetID": "92c5pfn",
       "Name": "Dark Mode",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ESCAPE",
       "SetID": "92c5pfn",
       "Name": "Escape",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EUTHANASIA",
       "SetID": "92c5pfn",
       "Name": "Euthanasia",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HAND_CARE",
       "SetID": "92c5pfn",
       "Name": "Take care of those hands",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HEARTBREAKER",
       "SetID": "92c5pfn",
       "Name": "Heartbreaker",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "IN_THE_FLESH",
       "SetID": "92c5pfn",
       "Name": "In the flesh",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LA_RATA_ESCARLATA",
       "SetID": "92c5pfn",
       "Name": "La Rata Escarlata",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MERRY_CHRISTMAS",
       "SetID": "92c5pfn",
       "Name": "Merry Christmas",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NO_TRACE",
       "SetID": "92c5pfn",
       "Name": "Leave no trace",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PERFECT",
       "SetID": "92c5pfn",
       "Name": "Perfect",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 55,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PLUMBING_COURSE",
       "SetID": "92c5pfn",
       "Name": "Plumbing course",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PROFESSIONAL",
@@ -264,9 +269,9 @@
       "ID": "RECKLESS",
       "SetID": "92c5pfn",
       "Name": "Reckless",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SPEEDRUN",
@@ -288,57 +293,57 @@
       "ID": "SUDOKU_KING",
       "SetID": "92c5pfn",
       "Name": "Sudoku king",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THATS_ALL",
       "SetID": "92c5pfn",
       "Name": "That\u0027s all?",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_BOX",
       "SetID": "92c5pfn",
       "Name": "The box",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TLALOC",
       "SetID": "92c5pfn",
       "Name": "Tlaloc",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WAS_ANYTHING_REAL",
       "SetID": "92c5pfn",
       "Name": "Was anything real?",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WHERE_HAVE_YOU_BEEN",
       "SetID": "92c5pfn",
       "Name": "Where have you been?",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WHICH_WILL",
       "SetID": "92c5pfn",
       "Name": "Which will",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "YOU_HAVE_BEEN_HERE",
@@ -352,23 +357,23 @@
       "ID": "YOU_MIGHT_BE_AT_RISK",
       "SetID": "92c5pfn",
       "Name": "You Might Be At Risk",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "92c5pfn",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-28T02:23:17.9466472+00:00",
   "FirstSeenAchievements": "2023-06-11T08:01:53.6412466+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:32.9951527+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:07.0145209+00:00",
   "LastUpdate_AppInfo": "2024-04-08T12:59:09.0663802+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:47.9119575+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:32.9951843+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:33.0355065+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:07.0145419+00:00"
 }

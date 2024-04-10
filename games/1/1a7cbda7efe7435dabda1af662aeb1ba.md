@@ -9,34 +9,34 @@
 | Boulder Breaker | 27.00% | ~15 |
 | Fence-Sitter | 16.00% | ~9 |
 | Crystal Hunter | 14.00% | ~8 |
-| Green Thumb | 13.00% | ~7 |
+| Green Thumb | 14.00% | ~8 |
 | Setting Off | 13.00% | ~7 |
 | Equivalent Exchange | 9.00% | ~5 |
 | Bye-Bye, Butcher | 7.00% | ~4 |
 | Rejected Parasite | 7.00% | ~4 |
-| Danger | 5.00% | ~3 |
+| Danger | 7.00% | ~4 |
 | A Twist of Fate | 5.00% | ~3 |
+| Eviction | 5.00% | ~3 |
+| Rabbit Hunter | 5.00% | ~3 |
 | Column Crusher | 4.00% | ~2 |
+| Armor Annihilator | 4.00% | ~2 |
 | Rebellious Servant | 4.00% | ~2 |
 | Strength | 4.00% | ~2 |
-| Eviction | 4.00% | ~2 |
-| Rabbit Hunter | 4.00% | ~2 |
 | Breach of Contract | 4.00% | ~2 |
 | My Turn | 2.00% | ~1 |
-| Armor Annihilator | 2.00% | ~1 |
 | Hermit | 2.00% | ~1 |
 | Tower | 2.00% | ~1 |
 | No Mercy | 2.00% | ~1 |
 | Elite Warrior | 2.00% | ~1 |
 | Criminal Investigator | 2.00% | ~1 |
+| Elite Scholar | 2.00% | ~1 |
 | For Justice | 2.00% | ~1 |
 | Astral Envoy | 2.00% | ~1 |
-| Elite Scholar | 0.00% | ~0 |
 | Conqueror of the Devil Blade | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 620)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 56 (Ranked 638)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

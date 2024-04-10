@@ -2,10 +2,10 @@
   "ID": "d2dcfb91f59d4880b8a5e6fe2aa64a7e",
   "Name": "Skeletal Avengers",
   "ProductSlug": "skeletal-avengers-af85a4",
-  "Ranking_EOS_Progress": 629,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 642,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -274,6 +274,11 @@
       "Time": "2024-01-06T08:09:23.1526677+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:08.0524596+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 21,
@@ -283,7 +288,7 @@
       "ID": "BABY_STEPS",
       "SetID": "63n2m0e",
       "Name": "Baby Steps",
-      "Percentage": 91,
+      "Percentage": 89,
       "XP": 10,
       "UsersEstimate": 48
     },
@@ -291,7 +296,7 @@
       "ID": "COINS",
       "SetID": "63n2m0e",
       "Name": "Coin Operator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -347,9 +352,9 @@
       "ID": "DUNGEON_BOSS",
       "SetID": "63n2m0e",
       "Name": "Master of Dungeon",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "EVADER",
@@ -379,7 +384,7 @@
       "ID": "PALACE_BOSS",
       "SetID": "63n2m0e",
       "Name": "Deanimation",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -452,14 +457,14 @@
     {
       "ID": "63n2m0e",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:02.4665913+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:08.052459+00:00",
   "LastUpdate_AppInfo": "2024-04-03T21:11:58.8870974+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:06.6204074+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:02.4666067+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:30.0680088+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:08.0524741+00:00"
 }

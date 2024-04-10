@@ -2,10 +2,10 @@
   "ID": "70cf2c218b51491a845dd8f5acd5a787",
   "Name": "Which Country Is Larger?",
   "ProductSlug": "which-country-is-larger-820476",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-04-05T16:00:00+00:00",
     "PcReleaseDate": "2024-04-05T16:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "52cn34i",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-04-10T06:01:53.2308259+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:01:53.2308217+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:39.6044983+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:11.9729173+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:56.7711321+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:53.2308287+00:00"
 }

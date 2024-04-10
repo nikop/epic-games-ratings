@@ -2,10 +2,10 @@
   "ID": "64befde675a84adeb83ad9d69502ff75",
   "Name": "CYBER BACKROOM",
   "ProductSlug": "cyberpunkai-and-neon-726408",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-01-17T17:00:00+00:00",
     "PcReleaseDate": "2024-01-17T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-19T10:57:40.5305784+00:00",
   "LastUpdate_AppInfo": "2024-04-05T08:57:06.0504033+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:00.2677919+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:42.4113139+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:23.56392+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:39.7013753+00:00"
 }

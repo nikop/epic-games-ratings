@@ -2,10 +2,10 @@
   "ID": "24cebb527f344974902781bd33087ee8",
   "Name": "Pandemic Train",
   "ProductSlug": "pandemic-train-9aa653",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-04-05T21:36:26.933+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -30,11 +30,279 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-04-10T06:01:56.1998961+00:00",
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Accident",
+      "SetID": "5f95la7",
+      "Name": "It was an accident",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AkaTotem",
+      "SetID": "5f95la7",
+      "Name": "a.k.a. Totem",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AnimalLover",
+      "SetID": "5f95la7",
+      "Name": "Animal lover",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BaptismOfFire",
+      "SetID": "5f95la7",
+      "Name": "Baptism of fire",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ChristmassTree",
+      "SetID": "5f95la7",
+      "Name": "Christmas already?",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CloseCall",
+      "SetID": "5f95la7",
+      "Name": "Close call",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dangerous",
+      "SetID": "5f95la7",
+      "Name": "Dangerous",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DefeatTyphoeus",
+      "SetID": "5f95la7",
+      "Name": "Enough for now",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EnemyWastelands",
+      "SetID": "5f95la7",
+      "Name": "Enemy of the wastelands",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FaceTheAbomination",
+      "SetID": "5f95la7",
+      "Name": "Mess with the bull",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Family",
+      "SetID": "5f95la7",
+      "Name": "Complete team",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Farmer",
+      "SetID": "5f95la7",
+      "Name": "Farmer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FreedomFighter",
+      "SetID": "5f95la7",
+      "Name": "Freedom fighter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GettingOutOfhand",
+      "SetID": "5f95la7",
+      "Name": "It\u0027s getting out of hand!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Gunsmith",
+      "SetID": "5f95la7",
+      "Name": "Gunsmith",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HighNoon",
+      "SetID": "5f95la7",
+      "Name": "High noon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hoarder",
+      "SetID": "5f95la7",
+      "Name": "Hoarder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Improvements",
+      "SetID": "5f95la7",
+      "Name": "Improvements",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MaximumEfficiency",
+      "SetID": "5f95la7",
+      "Name": "Maximum efficiency",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MeetTyphoeus",
+      "SetID": "5f95la7",
+      "Name": "Didn\u0027t see that coming",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NightmareWastelands",
+      "SetID": "5f95la7",
+      "Name": "Nightmare of the wastelands",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Peacemakers",
+      "SetID": "5f95la7",
+      "Name": "Peacemakers",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Plague",
+      "SetID": "5f95la7",
+      "Name": "Plague",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Plane",
+      "SetID": "5f95la7",
+      "Name": "Hedgehopping",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Purity",
+      "SetID": "5f95la7",
+      "Name": "Purity",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ScienceClub",
+      "SetID": "5f95la7",
+      "Name": "Science club",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sculture",
+      "SetID": "5f95la7",
+      "Name": "Work of art",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SlayTheAbomination",
+      "SetID": "5f95la7",
+      "Name": "And another one",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tank",
+      "SetID": "5f95la7",
+      "Name": "Panzer of the Ruined Remnants",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Traveler",
+      "SetID": "5f95la7",
+      "Name": "Traveler",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TrueEnding",
+      "SetID": "5f95la7",
+      "Name": "It\u0027s done.",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Voyager",
+      "SetID": "5f95la7",
+      "Name": "Voyager",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5f95la7",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-04-09T04:57:01.9429758+00:00",
+  "FirstSeenAchievements": "2024-04-10T06:01:56.1998961+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:01:56.1998917+00:00",
   "LastUpdate_AppInfo": "2024-04-05T21:57:13.8807579+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:15.2105484+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:01.9110879+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:56.2006217+00:00"
 }

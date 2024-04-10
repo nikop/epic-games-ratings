@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 486,
-  "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 203,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -581,6 +581,11 @@
       "Time": "2024-03-21T17:11:31.36294+00:00",
       "NumProgressed": 192,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:05:27.2094861+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -590,25 +595,25 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 65
     },
     {
       "ID": "Achievement12",
@@ -616,7 +621,7 @@
       "Name": "Your Training Is Complete",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement13",
@@ -624,23 +629,23 @@
       "Name": "Armor Collector",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement14",
       "SetID": "jf6ho5",
       "Name": "Vivid Dreams",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 97
     },
     {
       "ID": "Achievement16",
@@ -648,71 +653,71 @@
       "Name": "The Bigger They Are",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 134
     },
     {
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 61
+      "UsersEstimate": 67
     },
     {
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 51
     },
     {
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "Achievement21",
       "SetID": "jf6ho5",
       "Name": "Stilt House",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement5",
@@ -728,7 +733,7 @@
       "Name": "Total Eclipse",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement7",
@@ -742,24 +747,24 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 63
     },
     {
       "ID": "Achievement9",
       "SetID": "jf6ho5",
       "Name": "Dreamwalker",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 203,
       "Completed": 1
     }
   ],
@@ -767,8 +772,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:31.3629394+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:27.2094856+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:13.4229836+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:11.5852806+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:31.3629594+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:33.4851297+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:27.2095011+00:00"
 }

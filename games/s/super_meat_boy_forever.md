@@ -6,49 +6,50 @@ Number of Ratings: 24  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Machine Puncher | 21.00% | ~101,914 |
-| The key to it all | 16.00% | ~77,649 |
-| Brain Puncher | 7.00% | ~33,971 |
-| 2014 | 4.00% | ~19,412 |
-| Door Puncher | 4.00% | ~19,412 |
-| Looks familiar | 3.00% | ~14,559 |
-| Punch Drunk | 3.00% | ~14,559 |
-| Fetus Puncher | 2.00% | ~9,706 |
-| God Puncher | 1.00% | ~4,853 |
-| Green Screen Hero | 0.40% | ~1,941 |
-| I remember you | 0.30% | ~1,456 |
-| Pink Bomber | 0.20% | ~971 |
-| Afraid no more | 0.10% | ~485 |
-| A race against Time | 0.10% | ~485 |
-| Buffer Overrun | 0.10% | ~485 |
-| Dilation Boy | 0.10% | ~485 |
-| For the vegans | 0.10% | ~485 |
-| Golden God! | 0.10% | ~485 |
-| Heat Death Girl | 0.10% | ~485 |
-| Insurance Fraud | 0.10% | ~485 |
-| Not a real doctor | 0.10% | ~485 |
-| Oak Boy | 0.10% | ~485 |
-| Psychopharmacology Boy | 0.10% | ~485 |
-| Relationship Goals | 0.10% | ~485 |
-| Research Girl | 0.10% | ~485 |
-| Second time's a charm | 0.10% | ~485 |
-| S has come to | 0.10% | ~485 |
-| Similar yet legally distinct | 0.10% | ~485 |
-| Straight Jacket Girl | 0.10% | ~485 |
-| Teak Girl | 0.10% | ~485 |
-| Vaccine Boy | 0.10% | ~485 |
-| We have a new champion! | 0.10% | ~485 |
-| What even is this game? | 0.10% | ~485 |
+| Machine Puncher | 21.00% | ~108,105 |
+| The key to it all | 16.00% | ~82,366 |
+| Brain Puncher | 8.00% | ~41,183 |
+| 2014 | 4.00% | ~20,591 |
+| Door Puncher | 4.00% | ~20,591 |
+| Looks familiar | 3.00% | ~15,444 |
+| Punch Drunk | 3.00% | ~15,444 |
+| Fetus Puncher | 2.00% | ~10,296 |
+| God Puncher | 1.00% | ~5,148 |
+| Green Screen Hero | 0.40% | ~2,059 |
+| I remember you | 0.30% | ~1,544 |
+| Pink Bomber | 0.20% | ~1,030 |
+| Afraid no more | 0.10% | ~515 |
+| A race against Time | 0.10% | ~515 |
+| Buffer Overrun | 0.10% | ~515 |
+| Dilation Boy | 0.10% | ~515 |
+| For the vegans | 0.10% | ~515 |
+| Golden God! | 0.10% | ~515 |
+| Heat Death Girl | 0.10% | ~515 |
+| Insurance Fraud | 0.10% | ~515 |
+| Not a real doctor | 0.10% | ~515 |
+| Oak Boy | 0.10% | ~515 |
+| Page Fault | 0.10% | ~515 |
+| Psychopharmacology Boy | 0.10% | ~515 |
+| Relationship Goals | 0.10% | ~515 |
+| Research Girl | 0.10% | ~515 |
+| Second time's a charm | 0.10% | ~515 |
+| S has come to | 0.10% | ~515 |
+| Similar yet legally distinct | 0.10% | ~515 |
+| Straight Jacket Girl | 0.10% | ~515 |
+| Teak Girl | 0.10% | ~515 |
+| Vaccine Boy | 0.10% | ~515 |
+| We have a new champion! | 0.10% | ~515 |
+| What even is this game? | 0.10% | ~515 |
 | Development Boy | 0.00% | ~0 |
 | Lock Jaw Girl | 0.00% | ~0 |
-| Page Fault | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485,305 (Ranked 45)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 514,787 (Ranked 45)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 485,305 | 0 |
+| 2024-04-10 | 514,787 | 0 |
 ## Awards
 Max (Great Boss Battles): 70  (Ranked 454)  
 Sum: 70 (Ranked 532)  

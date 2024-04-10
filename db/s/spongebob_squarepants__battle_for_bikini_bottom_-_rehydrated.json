@@ -5,10 +5,10 @@
   "Ranking_Rating": 358,
   "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 575,
-  "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -389,11 +389,11 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 1941,
-  "EOS_Completed": 24,
+  "EOS_Progressed": 2198,
+  "EOS_Completed": 26,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.24,
+  "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -3594,6 +3594,11 @@
       "Time": "2024-03-21T17:06:25.4967174+00:00",
       "NumProgressed": 1941,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-04-10T06:02:30.5438342+00:00",
+      "NumProgressed": 2198,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3604,9 +3609,9 @@
       "ID": "ACH_ALL_ROBOTS",
       "SetID": "biiejkc",
       "Name": "Robot encyclopedia",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -3614,15 +3619,15 @@
       "Name": "Are you ready now?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
       "SetID": "biiejkc",
       "Name": "The Small Does Not Rule",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_COMPLETION",
@@ -3630,7 +3635,7 @@
       "Name": "100% SpongeBob",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_DONT_EAT_THE_SAND",
@@ -3638,7 +3643,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -3646,7 +3651,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -3654,7 +3659,7 @@
       "Name": "Ship Shape",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -3662,7 +3667,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -3670,23 +3675,23 @@
       "Name": "Shanghaied",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 418
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3694,15 +3699,15 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_MERMALAIR",
       "SetID": "biiejkc",
       "Name": "Keep it Rolling",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -3710,7 +3715,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -3718,23 +3723,23 @@
       "Name": "Toxic Terror",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
       "SetID": "biiejkc",
       "Name": "SpongeBob vs SpongeBob!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
@@ -3742,7 +3747,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -3750,15 +3755,15 @@
       "Name": "Sleepy Time",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_SOCK_CONCERT",
       "SetID": "biiejkc",
       "Name": "Sock Concert",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_SOCK_OPERA",
@@ -3766,7 +3771,7 @@
       "Name": "Sock Opera",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_STAT_100_SPATULA_SEEKER",
@@ -3774,63 +3779,63 @@
       "Name": "Super Ultra Mega Spatula Seeker",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_STAT_25_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Super Spatula Seeker",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Ultra Spatula Seeker",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Mega Spatula Seeker",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_STAT_COLLECT_SOCKS",
       "SetID": "biiejkc",
       "Name": "Sock Getter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 466
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
       "SetID": "biiejkc",
       "Name": "Squirrel Smasher",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -3838,7 +3843,7 @@
       "Name": "Star Smasher",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 308
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -3846,7 +3851,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -3854,22 +3859,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 308
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1941,
-      "Completed": 24
+      "Progressed": 2198,
+      "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-03-30T17:00:44.3550474+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:25.4967169+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:30.5438338+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:11.531758+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:24.9386373+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:25.4967556+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:37.1932334+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:30.5438707+00:00"
 }

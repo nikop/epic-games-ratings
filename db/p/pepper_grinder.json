@@ -2,10 +2,10 @@
   "ID": "2f41f7b835bf4008821c8dd59e6111a0",
   "Name": "Pepper Grinder",
   "ProductSlug": "pepper-grinder-48f87f",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-28T16:00:01.222+00:00",
     "PcReleaseDate": "2024-03-28T16:00:00+00:00",
@@ -24,27 +24,219 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-10T06:03:17.4293714+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-04-10T06:03:17.4293739+00:00",
+  "TotalAchievements": 23,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1-1Complete",
+      "SetID": "6mc99dm",
+      "Name": "Treasure Hunter",
+      "Percentage": 108,
+      "XP": 40,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "1-BossComplete",
+      "SetID": "6mc99dm",
+      "Name": "Beetle Flipper",
+      "Percentage": 69,
+      "XP": 40,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "100%Complete",
+      "SetID": "6mc99dm",
+      "Name": "Killer Driller",
+      "Percentage": 8,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "2-BossComplete",
+      "SetID": "6mc99dm",
+      "Name": "No Wormies",
+      "Percentage": 54,
+      "XP": 40,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "3-BossComplete",
+      "SetID": "6mc99dm",
+      "Name": "Pepper/Mint",
+      "Percentage": 54,
+      "XP": 50,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "4-BossComplete",
+      "SetID": "6mc99dm",
+      "Name": "Emperor Naro",
+      "Percentage": 38,
+      "XP": 50,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "CarvePumpkin",
+      "SetID": "6mc99dm",
+      "Name": "Make A Friend",
+      "Percentage": 46,
+      "XP": 40,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "CollectSkulls",
+      "SetID": "6mc99dm",
+      "Name": "Skull Hunter",
+      "Percentage": 31,
+      "XP": 40,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CollectSpecialStickers",
+      "SetID": "6mc99dm",
+      "Name": "Special Series Collector",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "CollectW1Stickers",
+      "SetID": "6mc99dm",
+      "Name": "Series 1 Collector",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "CollectW2Stickers",
+      "SetID": "6mc99dm",
+      "Name": "Series 2 Collector",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "CollectW3Stickers",
+      "SetID": "6mc99dm",
+      "Name": "Series 3 Collector",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "CollectW4Stickers",
+      "SetID": "6mc99dm",
+      "Name": "Series 4 Collector",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FindMandragora",
+      "SetID": "6mc99dm",
+      "Name": "Garden Shakedown",
+      "Percentage": 69,
+      "XP": 40,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "SoupFall",
+      "SetID": "6mc99dm",
+      "Name": "A Dash of Pepper",
+      "Percentage": 46,
+      "XP": 40,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "TimeAttackW1",
+      "SetID": "6mc99dm",
+      "Name": "Fast Cash",
+      "Percentage": 15,
+      "XP": 40,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "TimeAttackW2",
+      "SetID": "6mc99dm",
+      "Name": "Treasure Rush",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TimeAttackW3",
+      "SetID": "6mc99dm",
+      "Name": "Speed Strats",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TimeAttackW4",
+      "SetID": "6mc99dm",
+      "Name": "Done Quick",
+      "Percentage": 8,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "UnlockAll",
+      "SetID": "6mc99dm",
+      "Name": "Dedicated Explorer",
+      "Percentage": 46,
+      "XP": 40,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "UnlockBGs",
+      "SetID": "6mc99dm",
+      "Name": "Stickerbook World Tour",
+      "Percentage": 31,
+      "XP": 40,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "UnlockStage",
+      "SetID": "6mc99dm",
+      "Name": "A Path Less Traveled",
+      "Percentage": 77,
+      "XP": 40,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "UnlockStickerbook",
+      "SetID": "6mc99dm",
+      "Name": "New Hobby",
+      "Percentage": 85,
+      "XP": 40,
+      "UsersEstimate": 11
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6mc99dm",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-29T13:58:17.3927569+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:51.1369007+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:51.1368989+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:17.4293709+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:50.6535582+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:08.3561101+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:51.1369025+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:55.7474294+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:17.4301746+00:00"
 }

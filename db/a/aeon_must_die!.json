@@ -2,10 +2,10 @@
   "ID": "e4da11298fd3481daf61f46187082074",
   "Name": "Aeon Must Die!",
   "ProductSlug": "aeon-must-die",
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 4183,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3675,
+  "EOS_Progressed": 3684,
   "EOS_Completed": -28,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1029,6 +1029,11 @@
       "Time": "2024-03-21T17:10:20.6504328+00:00",
       "NumProgressed": 3675,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-04-10T06:04:42.4847418+00:00",
+      "NumProgressed": 3684,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1040,7 +1045,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 737
     },
     {
       "ID": "10",
@@ -1048,7 +1053,7 @@
       "Name": "Purpose Lost",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "11",
@@ -1112,7 +1117,7 @@
       "Name": "Rightfully Yours",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "19",
@@ -1128,7 +1133,7 @@
       "Name": "A Scarlet Mark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "20",
@@ -1176,7 +1181,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "26",
@@ -1216,7 +1221,7 @@
       "Name": "Dreams Of Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "30",
@@ -1224,7 +1229,7 @@
       "Name": "Untouchable Legend",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "31",
@@ -1248,7 +1253,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 847
     },
     {
       "ID": "34",
@@ -1319,7 +1324,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3675,
+      "Progressed": 3684,
       "Completed": -28
     }
   ],
@@ -1327,8 +1332,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:20.6504321+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:42.4847412+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:10.6356823+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:39.922043+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:20.6504689+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:26.5603706+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:42.4847693+00:00"
 }

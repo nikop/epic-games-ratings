@@ -6,33 +6,34 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 13.00% | ~220 |
-| Me and My Familiar | 12.00% | ~203 |
-| Passing Shadow | 10.00% | ~169 |
-| This Too Shall Pass | 10.00% | ~169 |
-| Cutthroat Competitors | 10.00% | ~169 |
-| Gotta Ca... Must Collect All of Them | 9.00% | ~152 |
-| How Romantic! | 9.00% | ~152 |
-| Daybreak | 9.00% | ~152 |
-| Completing the Look | 5.00% | ~85 |
-| War Endured | 5.00% | ~85 |
+| The Cost of Heroism | 14.00% | ~239 |
+| Me and My Familiar | 13.00% | ~222 |
+| Gotta Ca... Must Collect All of Them | 10.00% | ~171 |
+| Passing Shadow | 10.00% | ~171 |
+| This Too Shall Pass | 10.00% | ~171 |
+| Cutthroat Competitors | 10.00% | ~171 |
+| Daybreak | 10.00% | ~171 |
+| How Romantic! | 9.00% | ~154 |
+| Completing the Look | 6.00% | ~102 |
+| War Endured | 6.00% | ~102 |
+| A Mythic Menagerie | 5.00% | ~85 |
+| Who's Counting? | 5.00% | ~85 |
 | Core Failure | 5.00% | ~85 |
-| A Mythic Menagerie | 4.00% | ~68 |
-| Who's Counting? | 4.00% | ~68 |
 | Pyrrhic Victory | 4.00% | ~68 |
 | Thematic Divergence | 3.00% | ~51 |
+| Chain Reaction | 3.00% | ~51 |
 | Echoes Die | 3.00% | ~51 |
+| A Story of Heroes | 3.00% | ~51 |
+| Turncoat | 3.00% | ~51 |
 | Let Me Get My Chisel | 2.00% | ~34 |
 | Plague Doctor | 2.00% | ~34 |
 | Legends Never Die | 2.00% | ~34 |
-| Chain Reaction | 2.00% | ~34 |
 | In Soil, In Smoke | 2.00% | ~34 |
 | Everfading | 2.00% | ~34 |
 | Another Tale to Tell | 2.00% | ~34 |
-| A Story of Heroes | 2.00% | ~34 |
 | All My Birds, Safely Home | 2.00% | ~34 |
-| Turncoat | 2.00% | ~34 |
 | No Time for Clawmonsters | 2.00% | ~34 |
+| We Emerge Changed | 1.00% | ~17 |
 | Storied Past | 1.00% | ~17 |
 | Worldwalker | 1.00% | ~17 |
 | Empty the Caves | 1.00% | ~17 |
@@ -44,26 +45,25 @@ Number of Ratings: 45  (23.09.2022)
 | Fight Like a Bird | 1.00% | ~17 |
 | Grillmaster | 1.00% | ~17 |
 | Some Say I'm Too Flashy | 1.00% | ~17 |
+| Into Mulch | 1.00% | ~17 |
 | Astrology | 1.00% | ~17 |
 | Tempest | 1.00% | ~17 |
 | Lochias's Hunger | 1.00% | ~17 |
-| We Emerge Changed | 0.90% | ~15 |
-| Into Mulch | 0.90% | ~15 |
 | Drauvenslayers | 0.80% | ~14 |
 | I'm Not Smiling | 0.80% | ~14 |
+| Back into the Sea | 0.70% | ~12 |
 | The Power of Friendship | 0.60% | ~10 |
-| Back into the Sea | 0.60% | ~10 |
 | War-Ender | 0.60% | ~10 |
-| Solid as the Hills | 0.50% | ~8 |
-| Thwack! | 0.50% | ~8 |
+| Symbiosis | 0.60% | ~10 |
+| Solid as the Hills | 0.50% | ~9 |
+| Thwack! | 0.50% | ~9 |
 | Overwhelming Monstrosity | 0.40% | ~7 |
-| Symbiosis | 0.40% | ~7 |
+| A Lowly Crust of Beef | 0.40% | ~7 |
 | A Temperamental Shrub | 0.40% | ~7 |
-| A Lowly Crust of Beef | 0.20% | ~3 |
 | We Call That Mortificient! | 0.20% | ~3 |
-| Peacemaker | 0.00% | ~0 |
+| Peacemaker | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,691 (Ranked 296)  
+Progressed: 1,708 (Ranked 305)  
 Completed: 7 (0.41%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,6 +288,7 @@ Completed: 7 (0.41%) (Ranked 274)
 | 2024-01-27 | 1,625 | 7 |
 | 2024-02-22 | 1,661 | 7 |
 | 2024-03-21 | 1,691 | 7 |
+| 2024-04-10 | 1,708 | 7 |
 ## Awards
 Max (Character Customization): 30  (Ranked 561)  
 Sum: 30 (Ranked 589)  

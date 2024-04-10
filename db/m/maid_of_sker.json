@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 420,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 29,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 398,
+  "EOS_Progressed": 404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -965,6 +965,11 @@
       "Time": "2024-04-05T15:03:14.0612212+00:00",
       "NumProgressed": 398,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:06:45.2768586+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -976,7 +981,7 @@
       "Name": "Animal Lover",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "axe_of_kindness",
@@ -1014,9 +1019,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 175
+      "UsersEstimate": 182
     },
     {
       "ID": "dodgy_geezer",
@@ -1032,7 +1037,7 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "easy_listening",
@@ -1040,7 +1045,7 @@
       "Name": "Easy Listening",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ending_on_a_high_note",
@@ -1102,7 +1107,7 @@
       "ID": "luddite",
       "SetID": "3j2phem",
       "Name": "Luddite",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -1110,7 +1115,7 @@
       "ID": "maids_of_sker",
       "SetID": "3j2phem",
       "Name": "Maids of Sker",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1144,7 +1149,7 @@
       "Name": "Perfect Harmony!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "phonic_boom",
@@ -1160,13 +1165,13 @@
       "Name": "Rapturous Applause!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "scholar",
       "SetID": "3j2phem",
       "Name": "Scholar",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -1184,15 +1189,15 @@
       "Name": "Smooth Operator",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "the_long_night",
       "SetID": "3j2phem",
       "Name": "The Long Night",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "the_longest_night",
@@ -1215,7 +1220,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 398,
+      "Progressed": 404,
       "Completed": 0
     }
   ],
@@ -1223,8 +1228,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:03:14.0612208+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:45.276858+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:56.7729292+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:10.9045921+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:03:14.061239+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:56.7271003+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:45.2768778+00:00"
 }

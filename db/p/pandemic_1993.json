@@ -2,10 +2,10 @@
   "ID": "209693106b814de5a75cc6de48305486",
   "Name": "Pandemic 1993",
   "ProductSlug": "pandemic-1993-25d3d1",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-06T15:00:00+00:00",
     "PcReleaseDate": "2022-07-01T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-07T08:57:04.2353803+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:46.4120394+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:27.6770326+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:31.5267669+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:59.8076948+00:00"
 }

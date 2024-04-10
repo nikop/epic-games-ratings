@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 93.00% | ~231 |
-| Treasure hunter | 90.00% | ~223 |
-| Survivalist | 84.00% | ~208 |
-| Challenge seeker | 79.00% | ~196 |
-| Coin collector | 73.00% | ~181 |
+| Historian | 93.00% | ~232 |
+| Treasure hunter | 90.00% | ~224 |
+| Survivalist | 84.00% | ~209 |
+| Challenge seeker | 80.00% | ~199 |
+| Coin collector | 73.00% | ~182 |
 | Floater | 58.00% | ~144 |
-| Speedrunner | 44.00% | ~109 |
+| Speedrunner | 43.00% | ~107 |
 | On foot racer | 41.00% | ~102 |
-| Prickly situation handler | 34.00% | ~84 |
+| Prickly situation handler | 34.00% | ~85 |
 | Hat lover | 33.00% | ~82 |
 | Perfectionist | 31.00% | ~77 |
 | Protected | 29.00% | ~72 |
 | Pragmatic | 22.00% | ~55 |
 | Calory burner | 18.00% | ~45 |
-| Snow digger | 15.00% | ~37 |
+| Snow digger | 14.00% | ~35 |
 | Pacifist | 14.00% | ~35 |
 | Model | 14.00% | ~35 |
 | Fire extinguisher | 10.00% | ~25 |
@@ -36,8 +36,8 @@
 | Art lover | 1.00% | ~2 |
 | Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248 (Ranked 465)  
-Completed: 4 (1.61%) (Ranked 172)  
+Progressed: 249 (Ranked 471)  
+Completed: 4 (1.61%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 4 (1.61%) (Ranked 172)
 | 2024-01-19 | 241 | 4 |
 | 2024-02-22 | 246 | 4 |
 | 2024-03-21 | 248 | 4 |
+| 2024-04-10 | 249 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

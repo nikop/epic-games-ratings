@@ -2,10 +2,10 @@
   "ID": "c738515085eb490fb8c13acf3749e9e9",
   "Name": "Almost Formula",
   "ProductSlug": "road-to-exotics-e9a738",
-  "Ranking_EOS_Progress": 878,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 904,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-04-25T09:00:00+00:00",
     "PcReleaseDate": "2024-04-25T09:00:00+00:00",
@@ -169,8 +169,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:07:30.2716873+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:30.2716833+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:05.3947469+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:08.2613917+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:03.959389+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:30.2726822+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:26.75842+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:05.3947565+00:00"
 }

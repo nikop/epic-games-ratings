@@ -2,10 +2,10 @@
   "ID": "8a9e2e0b21af45119ff2ada4a39be1a1",
   "Name": "Crowncity",
   "ProductSlug": "crowncity-2cb965",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-07T23:57:08.1795138+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:14.5849319+00:00",
-  "LastUpdate_Achievements": "2024-04-07T18:06:06.8541266+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:01.9535307+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:09.7772199+00:00"
 }

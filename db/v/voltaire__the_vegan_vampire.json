@@ -2,10 +2,10 @@
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
-  "Ranking_EOS_Progress": 521,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 530,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:59.8306157+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:54.9278249+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:35.3340359+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:44.7725775+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:59.8306394+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:02.7675522+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:54.9278466+00:00"
 }

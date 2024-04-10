@@ -2,10 +2,10 @@
   "ID": "1d2ae09227b6435a9c6e763574b95575",
   "Name": "Classified: France \u002744",
   "ProductSlug": "classified-france-44-990537",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-05T17:00:00+00:00",
     "PcReleaseDate": "2024-03-05T17:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-03-06T20:59:11.812166+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:28.8752366+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:28.8752312+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:01.1885282+00:00",
   "LastUpdate_AppInfo": "2024-04-09T20:57:20.7706133+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:49.5827768+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:28.875238+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:06.9208275+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:01.1885375+00:00"
 }

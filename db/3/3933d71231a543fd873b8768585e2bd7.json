@@ -2,10 +2,10 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 583,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 593,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -364,6 +364,11 @@
       "Time": "2024-03-21T17:07:47.305746+00:00",
       "NumProgressed": 81,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:15.4752184+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -374,9 +379,9 @@
       "ID": "achievements.completegame",
       "SetID": "1kd1942",
       "Name": "Master of Masterplan Tycoon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievements.completemission.islands.01",
@@ -390,9 +395,9 @@
       "ID": "achievements.completemission.islands.02",
       "SetID": "1kd1942",
       "Name": "Drilling for Black Gold",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievements.completemission.master.01",
@@ -400,7 +405,7 @@
       "Name": "Another Brick in the Node",
       "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -408,7 +413,7 @@
       "Name": "Beams of Steel",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievements.completemission.master.03",
@@ -422,23 +427,23 @@
       "ID": "achievements.completemission.master.04",
       "SetID": "1kd1942",
       "Name": "Copper Mission Impossible",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "achievements.firstexpedition",
       "SetID": "1kd1942",
       "Name": "Cristoforo Magellanus",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -454,9 +459,9 @@
       "ID": "achievements.researches.constructions50",
       "SetID": "1kd1942",
       "Name": "Even side of the street",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievements.researches.constructionsall",
@@ -470,7 +475,7 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 17
     },
@@ -486,31 +491,31 @@
       "ID": "achievements.researches.upgradesall",
       "SetID": "1kd1942",
       "Name": "Maximizing Efficiency",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievements.steamenginefactory",
       "SetID": "1kd1942",
       "Name": "Industrial Revolution",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:47.3057453+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:15.4752179+00:00",
   "LastUpdate_AppInfo": "2024-04-06T02:57:13.317136+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:11.7681358+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:47.305765+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:59.0060229+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:15.4752296+00:00"
 }

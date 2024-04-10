@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Life of Pi | 59.00% | ~68 |
-| The Legend | 59.00% | ~68 |
-| The Remains of Fleed | 58.00% | ~67 |
-| Strength in Defeat | 49.00% | ~57 |
-| Escape from Fleed | 46.00% | ~53 |
-| First Contact | 43.00% | ~50 |
-| The Exterminator | 27.00% | ~31 |
-| Earth's Savior | 24.00% | ~28 |
-| Technology first! | 20.00% | ~23 |
-| The Collector | 14.00% | ~16 |
-| The Keeper of Fleed | 12.00% | ~14 |
-| Gold Seeker | 8.00% | ~9 |
-| You can't fool me! | 8.00% | ~9 |
-| The Broken Guard | 8.00% | ~9 |
-| A Land of Peace | 7.00% | ~8 |
-| The Flying Octopus | 7.00% | ~8 |
-| A Good Paint Job | 6.00% | ~7 |
-| The Planner | 6.00% | ~7 |
+| Life of Pi | 59.00% | ~76 |
+| The Legend | 58.00% | ~75 |
+| The Remains of Fleed | 57.00% | ~74 |
+| Strength in Defeat | 49.00% | ~63 |
+| Escape from Fleed | 47.00% | ~61 |
+| First Contact | 45.00% | ~58 |
+| The Exterminator | 29.00% | ~37 |
+| Earth's Savior | 26.00% | ~34 |
+| Technology first! | 22.00% | ~28 |
+| The Collector | 16.00% | ~21 |
+| The Keeper of Fleed | 12.00% | ~15 |
+| You can't fool me! | 9.00% | ~12 |
+| The Flying Octopus | 9.00% | ~12 |
+| Gold Seeker | 8.00% | ~10 |
+| A Land of Peace | 7.00% | ~9 |
+| The Broken Guard | 7.00% | ~9 |
+| A Good Paint Job | 6.00% | ~8 |
+| The Planner | 5.00% | ~6 |
 | The Vega Turtle | 5.00% | ~6 |
-| Iron Fist | 3.00% | ~3 |
-| The Completionist | 3.00% | ~3 |
-| The Space Hydra | 3.00% | ~3 |
-| The Royal Guard | 2.00% | ~2 |
-| The Power of Friendship | 0.90% | ~1 |
-| Saucer Beast Unchained | 0.90% | ~1 |
-| The Battle Axe | 0.90% | ~1 |
-| The Interstellar Fighter | 0.90% | ~1 |
-| The Ultimate Attack | 0.90% | ~1 |
-| Vengeance of the Wolf | 0.90% | ~1 |
+| Iron Fist | 3.00% | ~4 |
+| The Completionist | 3.00% | ~4 |
+| The Battle Axe | 2.00% | ~3 |
+| The Royal Guard | 2.00% | ~3 |
+| The Space Hydra | 2.00% | ~3 |
+| The Ultimate Attack | 2.00% | ~3 |
+| The Power of Friendship | 0.80% | ~1 |
+| Saucer Beast Unchained | 0.80% | ~1 |
+| The Interstellar Fighter | 0.80% | ~1 |
+| Vengeance of the Wolf | 0.80% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 537)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 129 (Ranked 542)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,3 +79,4 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-26 | 90 | 0 |
 | 2024-01-27 | 91 | 0 |
 | 2024-03-21 | 116 | 0 |
+| 2024-04-10 | 129 | 0 |

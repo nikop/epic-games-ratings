@@ -5,27 +5,27 @@ Rating: 4.50 (Ranked 640)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~452 |
-| Vanquisher of Robots | 79.00% | ~406 |
-| Party | 51.00% | ~262 |
-| Impossible Cube | 45.00% | ~231 |
-| Through the Darkness | 45.00% | ~231 |
-| Knowledge is Power | 44.00% | ~226 |
-| No Mercy | 43.00% | ~221 |
-| The Return of a Rat | 40.00% | ~206 |
-| Fat of the Earth | 37.00% | ~190 |
-| Last Man Standing | 32.00% | ~164 |
-| He's Seen It All | 29.00% | ~149 |
-| Great Hero | 29.00% | ~149 |
+| Good start! | 88.00% | ~454 |
+| Vanquisher of Robots | 79.00% | ~408 |
+| Party | 51.00% | ~263 |
+| Impossible Cube | 45.00% | ~232 |
+| Through the Darkness | 45.00% | ~232 |
+| Knowledge is Power | 44.00% | ~227 |
+| No Mercy | 43.00% | ~222 |
+| The Return of a Rat | 41.00% | ~212 |
+| Fat of the Earth | 37.00% | ~191 |
+| Last Man Standing | 32.00% | ~165 |
+| He's Seen It All | 29.00% | ~150 |
+| Great Hero | 29.00% | ~150 |
 | Rookie | 28.00% | ~144 |
 | Campaigning | 27.00% | ~139 |
 | Catch Jonathan_tostar | 27.00% | ~139 |
-| Assemble a Meganewbie | 24.00% | ~123 |
-| Frugal | 22.00% | ~113 |
+| Assemble a Meganewbie | 24.00% | ~124 |
+| Frugal | 22.00% | ~114 |
 | Feed a God | 21.00% | ~108 |
 | Great Flight | 20.00% | ~103 |
 | To the Moon and Back | 20.00% | ~103 |
-| Holy Vengeance | 17.00% | ~87 |
+| Holy Vengeance | 17.00% | ~88 |
 | Honorary Cultist | 14.00% | ~72 |
 | Strength and Sorcery | 11.00% | ~57 |
 | Brain and Brawn | 11.00% | ~57 |
@@ -41,8 +41,8 @@ Rating: 4.50 (Ranked 640)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514 (Ranked 391)  
-Completed: 1 (0.19%) (Ranked 319)  
+Progressed: 516 (Ranked 400)  
+Completed: 1 (0.19%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,6 +138,7 @@ Completed: 1 (0.19%) (Ranked 319)
 | 2024-01-21 | 504 | 1 |
 | 2024-02-22 | 512 | 1 |
 | 2024-03-21 | 514 | 1 |
+| 2024-04-10 | 516 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

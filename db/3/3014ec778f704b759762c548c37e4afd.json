@@ -2,10 +2,10 @@
   "ID": "3014ec778f704b759762c548c37e4afd",
   "Name": "Purpose 1951",
   "ProductSlug": "purpose-1951-e7a88b",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-29T12:00:00+00:00",
     "PcReleaseDate": "2024-03-29T12:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-03T14:57:08.389428+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:05.5445325+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:25.1753389+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:28.1330148+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:59.1433775+00:00"
 }

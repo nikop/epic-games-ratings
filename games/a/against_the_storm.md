@@ -6,68 +6,68 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 0.50% | ~109 |
-| Frosts | 0.50% | ~109 |
-| Overgrown Library | 0.50% | ~109 |
-| Petrified Necropolis | 0.50% | ~109 |
-| Gathering Storm | 0.50% | ~109 |
-| First Real Expedition | 0.40% | ~87 |
-| Overcoming Difficulty | 0.40% | ~87 |
-| Fertile Meadows | 0.40% | ~87 |
-| Coral Forest | 0.40% | ~87 |
-| The Marshlands | 0.40% | ~87 |
-| The Scarlet Orchard | 0.40% | ~87 |
-| Taking Action | 0.40% | ~87 |
-| No Deaths | 0.40% | ~87 |
-| Ominous Presence | 0.40% | ~87 |
-| Homesick | 0.30% | ~65 |
-| Against All Odds | 0.30% | ~65 |
-| Ruined Armory | 0.30% | ~65 |
-| Bandit Camp | 0.30% | ~65 |
-| Barren Lands | 0.30% | ~65 |
-| Ancient Battleground | 0.30% | ~65 |
-| Sparkdew Crystals | 0.30% | ~65 |
-| Levitating Monument | 0.30% | ~65 |
-| Flooded Mines | 0.30% | ~65 |
-| Monastery of the Holy Flame | 0.30% | ~65 |
-| Royal Outpost | 0.30% | ~65 |
-| Lost Colonies | 0.30% | ~65 |
-| Statue of the Forefathers | 0.30% | ~65 |
-| Corrosive Torrent | 0.30% | ~65 |
-| Watchtower | 0.30% | ~65 |
-| Cursed Lands | 0.30% | ~65 |
-| A Real Challenge | 0.30% | ~65 |
-| Victory Through Prosperity | 0.30% | ~65 |
-| Defying the Crown | 0.30% | ~65 |
-| Land of Greed | 0.30% | ~65 |
-| Untamed Wilds | 0.30% | ~65 |
-| Serving Ale | 0.20% | ~43 |
-| Refinery | 0.20% | ~43 |
-| Dangerous Lands | 0.20% | ~43 |
-| Fishmen Ritual Site | 0.20% | ~43 |
-| Forbidden Lands | 0.20% | ~43 |
-| Haunted Forest | 0.20% | ~43 |
-| Forsaken Gods Temple | 0.20% | ~43 |
-| Like a Machine | 0.20% | ~43 |
-| Trade Baron | 0.20% | ~43 |
-| Into the Forest | 0.20% | ~43 |
-| Feeding The People | 0.10% | ~22 |
+| First Real Expedition | 1.00% | ~220 |
+| Abandoned Settlement | 1.00% | ~220 |
+| Overgrown Library | 1.00% | ~220 |
+| Taking Action | 0.90% | ~198 |
+| No Deaths | 0.90% | ~198 |
+| Petrified Necropolis | 0.90% | ~198 |
+| Gathering Storm | 0.90% | ~198 |
+| Overcoming Difficulty | 0.80% | ~176 |
+| Coral Forest | 0.80% | ~176 |
+| The Marshlands | 0.80% | ~176 |
+| The Scarlet Orchard | 0.80% | ~176 |
+| Frosts | 0.80% | ~176 |
+| Ruined Armory | 0.70% | ~154 |
+| Fertile Meadows | 0.70% | ~154 |
+| Royal Outpost | 0.70% | ~154 |
+| Watchtower | 0.70% | ~154 |
+| Land of Greed | 0.70% | ~154 |
+| Ominous Presence | 0.70% | ~154 |
+| Ancient Battleground | 0.60% | ~132 |
+| Sparkdew Crystals | 0.60% | ~132 |
+| Levitating Monument | 0.60% | ~132 |
+| Flooded Mines | 0.60% | ~132 |
+| Monastery of the Holy Flame | 0.60% | ~132 |
+| Statue of the Forefathers | 0.60% | ~132 |
+| Corrosive Torrent | 0.60% | ~132 |
+| Cursed Lands | 0.60% | ~132 |
+| A Real Challenge | 0.60% | ~132 |
+| Trade Baron | 0.60% | ~132 |
+| Refinery | 0.50% | ~110 |
+| Homesick | 0.50% | ~110 |
+| Against All Odds | 0.50% | ~110 |
+| Bandit Camp | 0.50% | ~110 |
+| Barren Lands | 0.50% | ~110 |
+| Fishmen Ritual Site | 0.50% | ~110 |
+| Haunted Forest | 0.50% | ~110 |
+| Lost Colonies | 0.50% | ~110 |
+| Victory Through Prosperity | 0.50% | ~110 |
+| Defying the Crown | 0.50% | ~110 |
+| Untamed Wilds | 0.50% | ~110 |
+| Serving Ale | 0.40% | ~88 |
+| Forsaken Gods Temple | 0.40% | ~88 |
+| Into the Forest | 0.40% | ~88 |
+| Efficient Explorer | 0.30% | ~66 |
+| Dangerous Lands | 0.30% | ~66 |
+| Forbidden Lands | 0.30% | ~66 |
+| Like a Machine | 0.30% | ~66 |
+| Feeding The People | 0.20% | ~44 |
+| Prestigious Expedition | 0.20% | ~44 |
 | Paradise | 0.10% | ~22 |
 | Higher Needs | 0.10% | ~22 |
 | Beaver Utopia | 0.10% | ~22 |
 | Harpy Utopia | 0.10% | ~22 |
 | Human Utopia | 0.10% | ~22 |
 | Lizard Utopia | 0.10% | ~22 |
-| Efficient Explorer | 0.10% | ~22 |
-| Prestigious Expedition | 0.10% | ~22 |
 | The Queen's Chosen | 0.10% | ~22 |
 | Treasure | 0.10% | ~22 |
 | Blood Flower Farmer | 0.10% | ~22 |
 | Ruins | 0.10% | ~22 |
 | Fox Utopia | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,721 (Ranked 167)  
-Completed: 39 (0.18%) (Ranked 323)  
+Progressed: 22,010 (Ranked 169)  
+Completed: 39 (0.18%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,6 +351,7 @@ Completed: 39 (0.18%) (Ranked 323)
 | 2024-01-27 | 21,041 | 37 |
 | 2024-02-22 | 21,395 | 38 |
 | 2024-03-21 | 21,721 | 39 |
+| 2024-04-10 | 22,010 | 39 |
 ## Awards
 Max (Great for Beginners): 481  (Ranked 238)  
 Sum: 3,519 (Ranked 184)  

@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 412,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1544,6 +1544,11 @@
       "Time": "2024-04-07T18:02:30.6220075+00:00",
       "NumProgressed": 411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:06:55.2823313+00:00",
+      "NumProgressed": 412,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1556,7 +1561,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "10",
@@ -1570,9 +1575,9 @@
       "ID": "11",
       "SetID": "6bgoh8g",
       "Name": "Final questions",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 45
     },
     {
       "ID": "12",
@@ -1708,7 +1713,7 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "3",
@@ -1740,7 +1745,7 @@
       "Name": "A true detective",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "7",
@@ -1756,7 +1761,7 @@
       "Name": "You\u0027re probably wondering how I got here...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "9",
@@ -1771,14 +1776,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 412,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-04-07T18:02:30.622007+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:55.2823307+00:00",
   "LastUpdate_AppInfo": "2024-04-04T13:57:35.3385875+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:45.027189+00:00",
-  "LastUpdate_Achievements": "2024-04-07T18:02:30.6220359+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:32.2670153+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:55.2823551+00:00"
 }

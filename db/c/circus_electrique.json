@@ -5,10 +5,10 @@
   "Ranking_Rating": 1043,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,7 +77,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 529,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -717,6 +717,11 @@
       "Time": "2024-03-21T17:12:42.7420116+00:00",
       "NumProgressed": 524,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:06:08.6173806+00:00",
+      "NumProgressed": 529,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -728,7 +733,7 @@
       "Name": "Grand Opening",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -736,7 +741,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -744,7 +749,7 @@
       "Name": "Lion Tamer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -752,7 +757,7 @@
       "Name": "One More Thing...",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -760,7 +765,7 @@
       "Name": "Circus Versus Circus",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -768,31 +773,31 @@
       "Name": "Around the Clock",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_07",
       "SetID": "631ndc2",
       "Name": "Circus Electrique Proudly Presents...",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 238
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "631ndc2",
       "Name": "Built in a Day",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "631ndc2",
       "Name": "Path of Learning",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -816,15 +821,15 @@
       "Name": "Fan Service",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_13",
       "SetID": "631ndc2",
       "Name": "Bar Brawler",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -832,7 +837,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -848,7 +853,7 @@
       "Name": "Club Champion",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -856,7 +861,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -864,7 +869,7 @@
       "Name": "Accomplished Veteran",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -872,7 +877,7 @@
       "Name": "Unmatched Skills",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -880,7 +885,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -904,7 +909,7 @@
       "Name": "Hundred Percent Fourth",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -912,13 +917,13 @@
       "Name": "Hundred Percent Fifth",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_25",
       "SetID": "631ndc2",
       "Name": "Hundred Percent Sixth",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -960,7 +965,7 @@
       "Name": "King of District 1",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -968,7 +973,7 @@
       "Name": "King of District 2",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -976,15 +981,15 @@
       "Name": "King of District 3",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_33",
       "SetID": "631ndc2",
       "Name": "King of District 4",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -1000,7 +1005,7 @@
       "Name": "King of District 6",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -1008,7 +1013,7 @@
       "Name": "Grand Slam",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -1024,7 +1029,7 @@
       "Name": "The Greatest Show",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -1032,7 +1037,7 @@
       "Name": "Perfect Chemistry",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -1046,9 +1051,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -1064,7 +1069,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1102,7 +1107,7 @@
       "ID": "ACHIEVEMENT_48",
       "SetID": "631ndc2",
       "Name": "Vicious Busters",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -1127,7 +1132,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 529,
       "Completed": 1
     }
   ],
@@ -1135,8 +1140,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:42.7420106+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:08.6173799+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:24.0710249+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:26.2747136+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:42.7420656+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:12.6384482+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:08.6174152+00:00"
 }

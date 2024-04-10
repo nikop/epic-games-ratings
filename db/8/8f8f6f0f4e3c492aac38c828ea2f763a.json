@@ -2,10 +2,10 @@
   "ID": "8f8f6f0f4e3c492aac38c828ea2f763a",
   "Name": "Tails of Iron 2: Whiskers of Winter",
   "ProductSlug": "tails-of-iron-ii-whiskers-of-winter-cf6611",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "4n9jfm3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-04-10T06:01:56.6198886+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:01:56.6198834+00:00",
   "LastUpdate_AppInfo": "2024-04-04T22:57:08.0037962+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:50.8213903+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:35.7117087+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:56.6198908+00:00"
 }

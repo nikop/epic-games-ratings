@@ -2,10 +2,10 @@
   "ID": "9fd854316dca49c6bdd72da6c287e81b",
   "Name": "Arkbound-\u30A2\u30FC\u30AF\u30D0\u30A6\u30F3\u30C9-",
   "ProductSlug": "gom-c4ffb6",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-08T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T12:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-08T20:58:17.841926+00:00",
   "LastUpdate_AppInfo": "2024-04-05T14:57:09.5818712+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:30.4415801+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:03:32.4532263+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:17.1840164+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:46.9685455+00:00"
 }

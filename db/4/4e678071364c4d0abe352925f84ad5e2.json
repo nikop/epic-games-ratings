@@ -2,10 +2,10 @@
   "ID": "4e678071364c4d0abe352925f84ad5e2",
   "Name": "Zombie Defense TD",
   "ProductSlug": "zombie-defense-4bad61",
-  "Ranking_EOS_Progress": 844,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 865,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-05T02:00:00+00:00",
     "PcReleaseDate": "2024-03-05T02:00:00+00:00",
@@ -308,8 +308,8 @@
   ],
   "FirstSeen": "2024-03-06T14:58:24.3397341+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:14.3595681+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:02.9821624+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:46.5980296+00:00",
   "LastUpdate_AppInfo": "2024-04-03T07:57:11.9292957+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:15.3921223+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:02.9821866+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:02.1430176+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:46.5980502+00:00"
 }

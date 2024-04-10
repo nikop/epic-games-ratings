@@ -2,10 +2,10 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 172,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-04-27T15:02:34.561475+00:00",
@@ -776,6 +776,11 @@
       "Time": "2024-03-21T17:07:02.4981338+00:00",
       "NumProgressed": 170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:02:50.5904278+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -819,7 +824,7 @@
       "Name": "Dungeon Mastery",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LW_complete",
@@ -833,9 +838,9 @@
       "ID": "MC_complete",
       "SetID": "3b8n56h",
       "Name": "The Steed",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "MGR_complete",
@@ -849,9 +854,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -873,9 +878,9 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 52
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -891,7 +896,7 @@
       "Name": "Raider Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MasterTravelerQuestlineFirst",
@@ -899,7 +904,7 @@
       "Name": "Setting Off",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -915,7 +920,7 @@
       "Name": "Traveler Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MasterWardenQuestlineFirst",
@@ -939,15 +944,15 @@
       "Name": "Warden Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "StrangerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "A Strange Proposition",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "StrangerQuestlineLast",
@@ -963,7 +968,7 @@
       "Name": "The Plot Thickens",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "all_curios",
@@ -979,7 +984,7 @@
       "Name": "Might be useful\u2026",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "bad_ending",
@@ -1001,9 +1006,9 @@
       "ID": "cards_discovered_complete",
       "SetID": "3b8n56h",
       "Name": "Card Completionist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "cards_discovered_half",
@@ -1011,7 +1016,7 @@
       "Name": "Card Collector",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "demiurge_defeated",
@@ -1106,7 +1111,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 172,
       "Completed": 1
     }
   ],
@@ -1114,8 +1119,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:02.4981333+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:50.5904272+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:00.6136824+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:56.3246949+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:02.4981653+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:41.3153984+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:50.5904661+00:00"
 }

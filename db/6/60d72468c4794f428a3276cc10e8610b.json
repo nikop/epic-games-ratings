@@ -2,10 +2,10 @@
   "ID": "60d72468c4794f428a3276cc10e8610b",
   "Name": "Aerial_Knight\u0027s We Never Yield",
   "ProductSlug": "aerial_knights-we-never-yield-0bdea5",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,8 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bfb823g",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-04-10T06:05:42.8267757+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:42.8267737+00:00",
   "LastUpdate_AppInfo": "2024-04-04T17:57:11.1083198+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:03.0679994+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:55.9368746+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:25.988853+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:42.8267773+00:00"
 }

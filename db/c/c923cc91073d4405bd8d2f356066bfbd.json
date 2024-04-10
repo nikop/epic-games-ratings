@@ -2,10 +2,10 @@
   "ID": "c923cc91073d4405bd8d2f356066bfbd",
   "Name": "Burst Hero",
   "ProductSlug": "bursthero-dd5a56",
-  "Ranking_EOS_Progress": 601,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -309,9 +309,9 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "CHALLENGER",
@@ -381,9 +381,9 @@
       "ID": "DISASTER_5CARDS",
       "SetID": "1fek4an",
       "Name": "Disaster Strikes",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DISASTER_SUDDENDEATH",
@@ -413,9 +413,9 @@
       "ID": "GOLDENWEAPON_1",
       "SetID": "1fek4an",
       "Name": "Collector",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GOLDENWEAPON_10",
@@ -517,9 +517,9 @@
       "ID": "HEROSTAR_P",
       "SetID": "1fek4an",
       "Name": "Graduate(Pirate)",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HEROSTAR_S",
@@ -557,9 +557,9 @@
       "ID": "HEROSTAR_Y",
       "SetID": "1fek4an",
       "Name": "Graduate(Ying)",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HEROSTAR_Z",
@@ -613,9 +613,9 @@
       "ID": "LEVEL_COMPLETE_0_4",
       "SetID": "1fek4an",
       "Name": "Grass(L4)",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_COMPLETE_0_8",
@@ -661,9 +661,9 @@
       "ID": "LEVEL_COMPLETE_1_4",
       "SetID": "1fek4an",
       "Name": "Boneyard(L4)",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_COMPLETE_1_8",
@@ -781,17 +781,17 @@
       "ID": "MAP_ZOMBIE",
       "SetID": "1fek4an",
       "Name": "Restless Nights",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "MISS",
       "SetID": "1fek4an",
       "Name": "MISS!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NERD_PERFECT_GUN",
@@ -813,9 +813,9 @@
       "ID": "NO_HURT",
       "SetID": "1fek4an",
       "Name": "No Damage",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SHOP_LEVEL_UP_COMBO_2",
@@ -868,8 +868,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:14.2838984+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:56.4854269+00:00",
   "LastUpdate_AppInfo": "2024-04-03T18:57:25.5710583+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:25.9175681+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:14.2839669+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:13.4219482+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:56.4854965+00:00"
 }

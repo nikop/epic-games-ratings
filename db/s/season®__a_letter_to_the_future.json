@@ -2,10 +2,10 @@
   "ID": "3428aac705b44d88beb8334780fa33bd",
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
-  "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2304,
-  "EOS_Completed": 93,
+  "EOS_Progressed": 2334,
+  "EOS_Completed": 97,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.04,
+  "EOS_Completed_Percentage": 4.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -5389,6 +5389,11 @@
       "Time": "2024-03-21T17:11:22.0815882+00:00",
       "NumProgressed": 2304,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-04-10T06:05:20.5992977+00:00",
+      "NumProgressed": 2334,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 16,
@@ -5398,9 +5403,9 @@
       "ID": "ACH_ARTISTASSISTANT",
       "SetID": "7pam6gn",
       "Name": "Artist Assistant",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 323
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -5408,15 +5413,15 @@
       "Name": "Deep Listener",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 576
+      "UsersEstimate": 584
     },
     {
       "ID": "ACH_DREAMLISTENER",
       "SetID": "7pam6gn",
       "Name": "Dream Listener",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 346
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -5424,7 +5429,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 392
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -5432,7 +5437,7 @@
       "Name": "Goodbye Tieng Valley",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_GRAFFITIARTIST",
@@ -5440,15 +5445,15 @@
       "Name": "Graffiti Artist",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 207
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 622
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -5456,7 +5461,7 @@
       "Name": "Home Leaver",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5464,7 +5469,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1844
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5472,7 +5477,7 @@
       "Name": "Love Uncoverer",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 230
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_MUSICFORCOWS",
@@ -5480,7 +5485,7 @@
       "Name": "Music for Cows",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 438
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -5488,15 +5493,15 @@
       "Name": "Outside World Seer",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1400
     },
     {
       "ID": "ACH_SHRINEARRIVER",
       "SetID": "7pam6gn",
       "Name": "Shrine Arriver",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -5504,7 +5509,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 829
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_THEEND",
@@ -5512,7 +5517,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 276
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -5520,23 +5525,23 @@
       "Name": "Tour de Tieng",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 323
+      "UsersEstimate": 327
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2304,
-      "Completed": 93
+      "Progressed": 2334,
+      "Completed": 97
     }
   ],
   "FirstSeen": "2023-02-01T02:21:53.1981765+00:00",
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:22.0815874+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:20.5992971+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:19.4904074+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:30.9384344+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:22.081625+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:49.0760985+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:20.5993254+00:00"
 }

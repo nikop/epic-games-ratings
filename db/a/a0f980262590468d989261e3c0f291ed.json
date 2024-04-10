@@ -2,10 +2,10 @@
   "ID": "a0f980262590468d989261e3c0f291ed",
   "Name": "Automate It",
   "ProductSlug": "pasts-dwelling-67aa7a",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-09T02:57:04.8467529+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:00.484554+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:16.6152702+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:55.605779+00:00"
 }

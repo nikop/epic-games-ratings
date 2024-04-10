@@ -6,65 +6,65 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 8.00% | ~622 |
-| Smooth Operator: Madison | 6.00% | ~466 |
-| Caught in the Act | 4.00% | ~311 |
-| The Brahdyssey | 3.00% | ~233 |
-| Katherine | 3.00% | ~233 |
-| Life Found a Way | 3.00% | ~144 |
-| Relentless | 3.00% | ~233 |
-| If at First You Don't Succeed... | 3.00% | ~233 |
-| Drunk and Disorderly: Stephanie | 2.00% | ~155 |
-| Newcomer: Vickie | 2.00% | ~155 |
-| Amy | 1.00% | ~78 |
-| Drunk and Disorderly: Ashley | 1.00% | ~78 |
-| IRL Let's Player | 1.00% | ~78 |
-| Inspector | 1.00% | ~78 |
-| Smooth Operator: Ashley | 1.00% | ~78 |
-| Social Butterfly | 1.00% | ~78 |
-| The Muse: Madison | 1.00% | ~78 |
-| The Crush | 1.00% | ~78 |
-| Casanova | 0.90% | ~70 |
-| It Smells Like Roses | 0.90% | ~43 |
-| The Magic Number | 0.90% | ~70 |
-| Vickie | 0.90% | ~70 |
-| Te Amo Lety | 0.90% | ~70 |
-| Amy: Scavenger Hunt | 0.80% | ~62 |
-| Deck the Balls | 0.80% | ~38 |
-| Now It's a Party! | 0.80% | ~62 |
-| Stephanie | 0.80% | ~62 |
-| Benedict Brahrnold | 0.70% | ~54 |
-| Love Conquers All | 0.70% | ~54 |
-| Ashley | 0.60% | ~47 |
-| I'll Be Back | 0.60% | ~47 |
-| Rule 34 | 0.50% | ~39 |
-| The Elder Brahs | 0.50% | ~39 |
-| Good Ol' Days | 0.50% | ~39 |
-| The Bride | 0.40% | ~31 |
-| Drunk and Disorderly: Madison | 0.40% | ~31 |
-| Do Not Burn | 0.40% | ~31 |
-| First Impressions | 0.40% | ~31 |
-| Rachael | 0.40% | ~31 |
-| The Muse: Derek | 0.40% | ~31 |
-| Beyond the Call of Dude-y | 0.30% | ~23 |
-| The Harder They Fall...Dood | 0.30% | ~23 |
-| Ronin | 0.30% | ~23 |
-| Do You Smell Blood? | 0.30% | ~23 |
-| A Striking Resemblance | 0.30% | ~23 |
-| Howz It Goin Dood | 0.30% | ~23 |
-| Derezzed | 0.30% | ~23 |
-| Snapped | 0.30% | ~23 |
+| A Friend in Need... | 8.00% | ~636 |
+| Smooth Operator: Madison | 6.00% | ~477 |
+| Caught in the Act | 4.00% | ~318 |
+| Katherine | 4.00% | ~318 |
+| If at First You Don't Succeed... | 4.00% | ~318 |
+| The Brahdyssey | 3.00% | ~238 |
+| Drunk and Disorderly: Stephanie | 3.00% | ~238 |
+| Life Found a Way | 3.00% | ~150 |
+| Relentless | 3.00% | ~238 |
+| Drunk and Disorderly: Ashley | 2.00% | ~159 |
+| Inspector | 2.00% | ~159 |
+| Newcomer: Vickie | 2.00% | ~159 |
+| Amy | 1.00% | ~79 |
+| IRL Let's Player | 1.00% | ~79 |
+| Smooth Operator: Ashley | 1.00% | ~79 |
+| Social Butterfly | 1.00% | ~79 |
+| The Muse: Madison | 1.00% | ~79 |
+| The Crush | 1.00% | ~79 |
+| Casanova | 0.90% | ~72 |
+| It Smells Like Roses | 0.90% | ~45 |
+| Now It's a Party! | 0.90% | ~72 |
+| The Magic Number | 0.90% | ~72 |
+| Vickie | 0.90% | ~72 |
+| Te Amo Lety | 0.90% | ~72 |
+| Amy: Scavenger Hunt | 0.80% | ~64 |
+| Deck the Balls | 0.80% | ~40 |
+| Stephanie | 0.80% | ~64 |
+| Ashley | 0.70% | ~56 |
+| Benedict Brahrnold | 0.70% | ~56 |
+| I'll Be Back | 0.70% | ~56 |
+| Love Conquers All | 0.70% | ~56 |
+| The Bride | 0.50% | ~40 |
+| Rule 34 | 0.50% | ~40 |
+| The Elder Brahs | 0.50% | ~40 |
+| Drunk and Disorderly: Madison | 0.40% | ~32 |
+| Do Not Burn | 0.40% | ~32 |
+| First Impressions | 0.40% | ~32 |
+| Rachael | 0.40% | ~32 |
+| The Muse: Derek | 0.40% | ~32 |
+| Good Ol' Days | 0.40% | ~32 |
+| Beyond the Call of Dude-y | 0.30% | ~24 |
+| The Harder They Fall...Dood | 0.30% | ~24 |
+| Ronin | 0.30% | ~24 |
+| Do You Smell Blood? | 0.30% | ~24 |
+| A Striking Resemblance | 0.30% | ~24 |
+| Howz It Goin Dood | 0.30% | ~24 |
+| Derezzed | 0.30% | ~24 |
+| Snapped | 0.30% | ~24 |
 | Against All Odds | 0.20% | ~16 |
 | Casabrova | 0.20% | ~16 |
 | Congrats, A Celebrity Hates You | 0.20% | ~10 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.20% | ~10 |
 | Duck n' Weave | 0.20% | ~16 |
+| Good Riddance! | 0.20% | ~16 |
 | I Know Grump-Fu | 0.20% | ~16 |
 | Ice Bath | 0.20% | ~16 |
 | The Crush(es) | 0.20% | ~16 |
 | La Coochadora | 0.20% | ~16 |
 | D-Club Certified | 0.10% | ~8 |
-| Good Riddance! | 0.10% | ~8 |
 | Hijinks Averted | 0.10% | ~8 |
 | Host Hijinks | 0.10% | ~8 |
 | Hungry Hungry Hot Tubs | 0.10% | ~5 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~5 |
 | Simple Geometry | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,770 (Ranked 212)  
-Completed: 3 (0.04%) (Ranked 393)  
+Progressed: 7,946 (Ranked 213)  
+Completed: 3 (0.04%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,6 +351,7 @@ Completed: 3 (0.04%) (Ranked 393)
 | 2024-01-27 | 7,403 | 3 |
 | 2024-02-22 | 7,597 | 3 |
 | 2024-03-21 | 7,770 | 3 |
+| 2024-04-10 | 7,946 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

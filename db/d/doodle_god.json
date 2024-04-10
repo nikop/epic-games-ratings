@@ -2,10 +2,10 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Completed": 122,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 309,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.32,
+  "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -494,6 +494,11 @@
       "Time": "2024-03-21T17:09:48.8001718+00:00",
       "NumProgressed": 301,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-04-10T06:04:22.4699479+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -505,7 +510,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 294
     },
     {
       "ID": "605742",
@@ -513,15 +518,15 @@
       "Name": "Creator of Diversity",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 226
     },
     {
       "ID": "605752",
       "SetID": "4lpaifm",
       "Name": "Creator of Life",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 260
     },
     {
       "ID": "605762",
@@ -529,7 +534,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 207
     },
     {
       "ID": "605772",
@@ -537,15 +542,15 @@
       "Name": "Creator of Civilization",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "605782",
       "SetID": "4lpaifm",
       "Name": "Creator of Technology",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "605792",
@@ -553,15 +558,15 @@
       "Name": "Creator of Modernity",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "605802",
       "SetID": "4lpaifm",
       "Name": "Creator of Magic",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "605812",
@@ -569,7 +574,7 @@
       "Name": "God of Fun",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "605822",
@@ -577,15 +582,15 @@
       "Name": "Brilliant Inventor",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "605832",
       "SetID": "4lpaifm",
       "Name": "Deity of Darkness",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "605842",
@@ -601,7 +606,7 @@
       "Name": "Doodle Bar",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "605862",
@@ -609,7 +614,7 @@
       "Name": "Half the Kingdom",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "605872",
@@ -617,15 +622,15 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 263
     },
     {
       "ID": "605892",
       "SetID": "4lpaifm",
       "Name": "Similar to Similar",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 222
     },
     {
       "ID": "605912",
@@ -649,15 +654,15 @@
       "Name": "Greatest inventor",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "610001",
       "SetID": "4lpaifm",
       "Name": "Salvation!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "740512",
@@ -665,7 +670,7 @@
       "Name": "Honorable Santa",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "844452",
@@ -673,14 +678,14 @@
       "Name": "Heavenly Virtues",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 309,
       "Completed": 10
     }
   ],
@@ -688,8 +693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:48.8001708+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:22.4699475+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:41.6371395+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:15.875198+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:48.8001903+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:00.6541131+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:22.4699616+00:00"
 }

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You are a Winner! | 6.00% | ~7 |
-| You are an Amateur! | 0.90% | ~1 |
-| You are a Master! | 0.90% | ~1 |
+| You are a Winner! | 5.00% | ~7 |
+| You are an Amateur! | 0.80% | ~1 |
+| You are a Master! | 0.80% | ~1 |
 | You are a true Pro! | 0.00% | ~0 |
 | YOU ARE A RECORD BREAKER! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 545)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 132 (Ranked 539)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -32,3 +32,4 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 32 | 0 |
 | 2024-02-22 | 65 | 0 |
 | 2024-03-21 | 109 | 0 |
+| 2024-04-10 | 132 | 0 |

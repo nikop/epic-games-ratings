@@ -1,28 +1,28 @@
 # Black Widow: Recharged
 [Store](https://store.epicgames.com/en-US/p/black-widow-recharged)  
 [View Rawdata](../../db/b/black_widow__recharged.json)  
-Rating: 4.23 (Ranked 991)  
+Rating: 4.23 (Ranked 992)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Across The Border | 76.00% | ~20,628 |
-| I'm Alive | 51.00% | ~13,842 |
-| Look at Me Now | 26.00% | ~7,057 |
-| Danger Ahead | 25.00% | ~6,786 |
-| Don't Bring Me Down | 17.00% | ~4,614 |
-| The Fall | 15.00% | ~4,071 |
-| Everyone's Born to Die | 13.00% | ~3,528 |
-| Wild West Hero | 13.00% | ~3,528 |
-| In My Own Time | 12.00% | ~3,257 |
-| In For The Kill | 11.00% | ~2,986 |
-| Caught in a Trap | 10.00% | ~2,714 |
-| Hello My Old Friend | 5.00% | ~1,357 |
-| After All | 0.70% | ~190 |
-| Time of Our Life | 0.30% | ~81 |
+| Across The Border | 76.00% | ~20,972 |
+| I'm Alive | 51.00% | ~14,073 |
+| Danger Ahead | 25.00% | ~6,899 |
+| Look at Me Now | 25.00% | ~6,899 |
+| Don't Bring Me Down | 17.00% | ~4,691 |
+| The Fall | 15.00% | ~4,139 |
+| Everyone's Born to Die | 13.00% | ~3,587 |
+| Wild West Hero | 13.00% | ~3,587 |
+| In My Own Time | 12.00% | ~3,311 |
+| In For The Kill | 11.00% | ~3,035 |
+| Caught in a Trap | 10.00% | ~2,760 |
+| Hello My Old Friend | 5.00% | ~1,380 |
+| After All | 0.70% | ~193 |
+| Time of Our Life | 0.30% | ~83 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,142 (Ranked 159)  
-Completed: 67 (0.25%) (Ranked 306)  
+Progressed: 27,595 (Ranked 163)  
+Completed: 68 (0.25%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,6 +305,7 @@ Completed: 67 (0.25%) (Ranked 306)
 | 2024-01-26 | 25,410 | 63 |
 | 2024-01-27 | 25,436 | 63 |
 | 2024-03-21 | 27,142 | 67 |
+| 2024-04-10 | 27,595 | 68 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

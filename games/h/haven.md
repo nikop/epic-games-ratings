@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 67.00% | ~1,543 |
-| Lovebirds | 39.00% | ~898 |
-| Life’s short, ride long | 34.00% | ~783 |
-| Hug therapy | 33.00% | ~760 |
-| Over my dead body | 30.00% | ~691 |
-| Shake the rust off their feet | 16.00% | ~368 |
-| My little pony | 15.00% | ~345 |
-| Strike! | 14.00% | ~322 |
-| A love supreme | 14.00% | ~322 |
-| In my shoes | 12.00% | ~276 |
-| Like new! | 11.00% | ~253 |
-| Head in the clouds | 11.00% | ~253 |
-| Heartstrings | 10.00% | ~230 |
-| Back to rust | 9.00% | ~207 |
-| Flower Powered | 9.00% | ~207 |
-| Don't look back | 9.00% | ~207 |
-| Perfect timing | 7.00% | ~161 |
-| Unstoppable | 7.00% | ~161 |
-| Ain't no mountain high enough | 7.00% | ~161 |
-| Self-sustainability | 6.00% | ~138 |
-| Spring cleaning | 4.00% | ~92 |
-| An eye for an eye | 4.00% | ~92 |
-| Second thoughts | 3.00% | ~69 |
-| Mooning the moon | 3.00% | ~69 |
-| Can't get wetter... | 3.00% | ~69 |
-| Strip-a-bobble | 3.00% | ~69 |
-| Thar she blows | 2.00% | ~46 |
-| Pearls before Birble | 2.00% | ~46 |
-| Last minute | 2.00% | ~46 |
+| Balding bloot! | 67.00% | ~1,564 |
+| Lovebirds | 39.00% | ~910 |
+| Life’s short, ride long | 34.00% | ~794 |
+| Hug therapy | 33.00% | ~770 |
+| Over my dead body | 30.00% | ~700 |
+| Shake the rust off their feet | 16.00% | ~373 |
+| Strike! | 14.00% | ~327 |
+| My little pony | 14.00% | ~327 |
+| A love supreme | 14.00% | ~327 |
+| In my shoes | 12.00% | ~280 |
+| Like new! | 11.00% | ~257 |
+| Head in the clouds | 11.00% | ~257 |
+| Heartstrings | 10.00% | ~233 |
+| Back to rust | 9.00% | ~210 |
+| Flower Powered | 9.00% | ~210 |
+| Don't look back | 9.00% | ~210 |
+| Perfect timing | 7.00% | ~163 |
+| Unstoppable | 7.00% | ~163 |
+| Ain't no mountain high enough | 7.00% | ~163 |
+| Self-sustainability | 6.00% | ~140 |
+| Spring cleaning | 4.00% | ~93 |
+| An eye for an eye | 4.00% | ~93 |
+| Second thoughts | 3.00% | ~70 |
+| Mooning the moon | 3.00% | ~70 |
+| Can't get wetter... | 3.00% | ~70 |
+| Strip-a-bobble | 3.00% | ~70 |
+| Thar she blows | 2.00% | ~47 |
+| Pearls before Birble | 2.00% | ~47 |
+| Last minute | 2.00% | ~47 |
 | À la carte | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,303 (Ranked 269)  
-Completed: 12 (0.52%) (Ranked 253)  
+Progressed: 2,334 (Ranked 277)  
+Completed: 12 (0.51%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,6 +264,7 @@ Completed: 12 (0.52%) (Ranked 253)
 | 2024-01-26 | 2,066 | 11 |
 | 2024-01-27 | 2,068 | 11 |
 | 2024-03-21 | 2,303 | 12 |
+| 2024-04-10 | 2,334 | 12 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

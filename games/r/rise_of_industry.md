@@ -5,36 +5,36 @@ Rating: 4.26 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~375,479 |
-| Well educated | 37.00% | ~289,432 |
-| City Planner | 19.00% | ~148,627 |
-| Deforester | 17.00% | ~132,982 |
-| Big Hauling | 16.00% | ~125,160 |
-| Apprentice Manufacturer | 13.00% | ~101,692 |
-| Exporter | 13.00% | ~101,692 |
-| I would drive 500 tiles... | 12.00% | ~93,870 |
-| Landscaper | 12.00% | ~93,870 |
-| Railwayman | 8.00% | ~62,580 |
-| Penniless | 6.00% | ~46,935 |
-| Massive Gains | 6.00% | ~46,935 |
-| Salesman | 3.00% | ~23,467 |
-| Engineer | 2.00% | ~15,645 |
-| High Flyer | 2.00% | ~15,645 |
-| Captain | 0.80% | ~6,258 |
-| Billionaire | 0.70% | ~5,476 |
-| Vroom Vroom | 0.50% | ~3,911 |
-| Excavator | 0.30% | ~2,347 |
-| Loan Ranger | 0.30% | ~2,347 |
-| [2130] Nature Lover | 0.10% | ~782 |
-| [2130] No Quarter Given | 0.10% | ~782 |
-| [2130] Dumpster Diving | 0.10% | ~782 |
-| Freelancer | 0.10% | ~782 |
-| Director | 0.10% | ~782 |
-| Master Builder | 0.10% | ~782 |
-| Hard working | 0.10% | ~782 |
+| Entrepreneur | 48.00% | ~377,256 |
+| Well educated | 38.00% | ~298,661 |
+| City Planner | 19.00% | ~149,330 |
+| Deforester | 17.00% | ~133,611 |
+| Big Hauling | 16.00% | ~125,752 |
+| Apprentice Manufacturer | 13.00% | ~102,173 |
+| Exporter | 13.00% | ~102,173 |
+| I would drive 500 tiles... | 12.00% | ~94,314 |
+| Landscaper | 12.00% | ~94,314 |
+| Railwayman | 8.00% | ~62,876 |
+| Penniless | 6.00% | ~47,157 |
+| Massive Gains | 6.00% | ~47,157 |
+| Salesman | 3.00% | ~23,578 |
+| Engineer | 2.00% | ~15,719 |
+| High Flyer | 2.00% | ~15,719 |
+| Captain | 0.90% | ~7,074 |
+| Billionaire | 0.70% | ~5,502 |
+| Vroom Vroom | 0.50% | ~3,930 |
+| Excavator | 0.30% | ~2,358 |
+| Loan Ranger | 0.30% | ~2,358 |
+| [2130] Nature Lover | 0.10% | ~786 |
+| [2130] No Quarter Given | 0.10% | ~786 |
+| [2130] Dumpster Diving | 0.10% | ~786 |
+| Freelancer | 0.10% | ~786 |
+| Director | 0.10% | ~786 |
+| Master Builder | 0.10% | ~786 |
+| Hard working | 0.10% | ~786 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 782,248 (Ranked 25)  
-Completed: 6 (0.00%) (Ranked 446)  
+Progressed: 785,949 (Ranked 25)  
+Completed: 6 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,6 +318,7 @@ Completed: 6 (0.00%) (Ranked 446)
 | 2024-01-27 | 771,711 | 5 |
 | 2024-03-04 | 779,339 | 6 |
 | 2024-03-21 | 782,248 | 6 |
+| 2024-04-10 | 785,949 | 6 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 553)  
 Sum: 56 (Ranked 543)  

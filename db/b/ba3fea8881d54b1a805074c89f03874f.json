@@ -2,10 +2,10 @@
   "ID": "ba3fea8881d54b1a805074c89f03874f",
   "Name": "Gambit Shifter",
   "ProductSlug": "gambit-shifter-93870e",
-  "Ranking_EOS_Progress": 829,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 852,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-19T09:00:00+00:00",
     "PcReleaseDate": "2024-02-19T09:00:00+00:00",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2024-02-25T02:57:44.1720587+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:20.0832074+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:08.8747335+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:50.4506249+00:00",
   "LastUpdate_AppInfo": "2024-04-06T18:57:16.6408529+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:25.2768119+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:08.8747509+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:43.9499235+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:50.4506376+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.59 (Ranked 465)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~753 |
-| Fetch Quest Complete | 90.00% | ~698 |
-| I can't wait! | 82.00% | ~636 |
-| Swish | 55.00% | ~427 |
-| Clean up on Aisle 9 | 39.00% | ~303 |
-| Machine Maxed | 28.00% | ~217 |
-| Existential dread | 27.00% | ~210 |
-| Gerald of Riviera | 25.00% | ~194 |
-| Bug Fixer | 24.00% | ~186 |
-| Goal | 21.00% | ~163 |
-| I ran the numbers | 15.00% | ~116 |
-| Taking the plunge | 13.00% | ~101 |
-| Hidden Packages | 11.00% | ~85 |
+| Pushing a pull door | 97.00% | ~758 |
+| Fetch Quest Complete | 90.00% | ~703 |
+| I can't wait! | 82.00% | ~640 |
+| Swish | 55.00% | ~430 |
+| Clean up on Aisle 9 | 39.00% | ~305 |
+| Machine Maxed | 28.00% | ~219 |
+| Existential dread | 27.00% | ~211 |
+| Gerald of Riviera | 25.00% | ~195 |
+| Bug Fixer | 24.00% | ~187 |
+| Goal | 21.00% | ~164 |
+| I ran the numbers | 15.00% | ~117 |
+| Taking the plunge | 13.00% | ~102 |
+| Hidden Packages | 11.00% | ~86 |
 | GOOOAAAL | 9.00% | ~70 |
-| Ahoy Hoy | 7.00% | ~54 |
-| New Kid on the Block | 7.00% | ~54 |
+| Ahoy Hoy | 7.00% | ~55 |
+| New Kid on the Block | 7.00% | ~55 |
 | Rhythm is a dancer | 6.00% | ~47 |
 | Jimmy Goldman Would be Proud | 6.00% | ~47 |
 | You Spin Me Round | 6.00% | ~47 |
@@ -60,8 +60,8 @@ Rating: 4.59 (Ranked 465)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 776 (Ranked 355)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 781 (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,6 +172,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-22 | 765 | 0 |
 | 2024-02-22 | 770 | 0 |
 | 2024-03-21 | 776 | 0 |
+| 2024-04-10 | 781 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

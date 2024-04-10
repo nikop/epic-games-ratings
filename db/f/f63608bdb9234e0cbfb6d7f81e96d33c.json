@@ -2,10 +2,10 @@
   "ID": "f63608bdb9234e0cbfb6d7f81e96d33c",
   "Name": "GINSHA",
   "ProductSlug": "ginsha-604f11",
-  "Ranking_EOS_Progress": 768,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 783,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2023-08-24T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -69,6 +69,11 @@
       "Time": "2024-03-21T17:08:58.5808668+00:00",
       "NumProgressed": 10,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:54.2041106+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T19:02:15.2654273+00:00",
@@ -79,7 +84,7 @@
       "ID": "1",
       "SetID": "akh6g4d",
       "Name": "First Run",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -87,7 +92,7 @@
       "ID": "10",
       "SetID": "akh6g4d",
       "Name": "Multiverse",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -95,7 +100,7 @@
       "ID": "11",
       "SetID": "akh6g4d",
       "Name": "Metaverse",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -103,7 +108,7 @@
       "ID": "12",
       "SetID": "akh6g4d",
       "Name": "Grenade Pong",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -111,7 +116,7 @@
       "ID": "13",
       "SetID": "akh6g4d",
       "Name": "Human 3.0",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -119,7 +124,7 @@
       "ID": "14",
       "SetID": "akh6g4d",
       "Name": "Flux Traveller",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -127,15 +132,15 @@
       "ID": "15",
       "SetID": "akh6g4d",
       "Name": "Rage Quit",
-      "Percentage": 10,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "16",
       "SetID": "akh6g4d",
       "Name": "Beast Master",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -143,7 +148,7 @@
       "ID": "17",
       "SetID": "akh6g4d",
       "Name": "Full Metal Clone",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "18",
       "SetID": "akh6g4d",
       "Name": "Ginshapedia",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -159,7 +164,7 @@
       "ID": "19",
       "SetID": "akh6g4d",
       "Name": "Pandoras Box",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -167,7 +172,7 @@
       "ID": "2",
       "SetID": "akh6g4d",
       "Name": "Icar Core",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "20",
       "SetID": "akh6g4d",
       "Name": "Survivalist",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "21",
       "SetID": "akh6g4d",
       "Name": "Baptism of fire",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -191,7 +196,7 @@
       "ID": "22",
       "SetID": "akh6g4d",
       "Name": "Invincible",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -207,7 +212,7 @@
       "ID": "3",
       "SetID": "akh6g4d",
       "Name": "Pax Core",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -215,7 +220,7 @@
       "ID": "4",
       "SetID": "akh6g4d",
       "Name": "Byron Core",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -223,7 +228,7 @@
       "ID": "5",
       "SetID": "akh6g4d",
       "Name": "Gaea Core",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -231,7 +236,7 @@
       "ID": "6",
       "SetID": "akh6g4d",
       "Name": "Power Crisis",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -239,7 +244,7 @@
       "ID": "7",
       "SetID": "akh6g4d",
       "Name": "Deep Learning",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -247,7 +252,7 @@
       "ID": "8",
       "SetID": "akh6g4d",
       "Name": "Challenger",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -255,7 +260,7 @@
       "ID": "9",
       "SetID": "akh6g4d",
       "Name": "Good Soul",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -264,14 +269,14 @@
     {
       "ID": "akh6g4d",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-08T13:59:15.4567931+00:00",
   "FirstSeenAchievements": "2023-08-21T19:02:15.2654272+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:58.5808662+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:54.2041101+00:00",
   "LastUpdate_AppInfo": "2024-04-09T11:57:17.8392602+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:09.7693002+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:58.5808826+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:24.5500139+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:54.2041233+00:00"
 }

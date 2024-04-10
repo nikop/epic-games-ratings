@@ -2,10 +2,10 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
-  "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 679,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2504,6 +2504,11 @@
       "Time": "2024-04-07T18:02:47.6464521+00:00",
       "NumProgressed": 678,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-04-10T06:06:56.767352+00:00",
+      "NumProgressed": 679,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2516,7 +2521,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2524,15 +2529,15 @@
       "Name": "Design Engineer",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "BRING_MARY",
       "SetID": "aniflfk",
       "Name": "Retro Diva",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 434
+      "UsersEstimate": 441
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2556,7 +2561,7 @@
       "Name": "Fisherman",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2580,7 +2585,7 @@
       "Name": "Farmer",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "HOUSEWARMING",
@@ -2652,15 +2657,15 @@
       "Name": "Crypto Bro",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 50,
-      "UsersEstimate": 502
+      "UsersEstimate": 509
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2675,14 +2680,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 679,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-04-07T18:02:47.6464516+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:56.7673518+00:00",
   "LastUpdate_AppInfo": "2024-04-04T07:57:06.1117906+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:58:55.6629471+00:00",
-  "LastUpdate_Achievements": "2024-04-07T18:02:47.6464797+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:19.6558386+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:56.7673703+00:00"
 }

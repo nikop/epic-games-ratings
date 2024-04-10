@@ -2,10 +2,10 @@
   "ID": "98c157cecc744a6393d86f60ccd43b53",
   "Name": "Road Maintenance Simulator",
   "ProductSlug": "road-maintenance-simulator-e6d9ff",
-  "Ranking_EOS_Progress": 878,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 865,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-29T13:00:00+00:00",
     "PcReleaseDate": "2022-04-07T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-03-04T23:04:16.4933924+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:48.1953504+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -44,7 +49,7 @@
       "ID": "001ach_AS_LS",
       "SetID": "5iln8o3",
       "Name": "Traffic Beacon",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -76,7 +81,7 @@
       "ID": "005ach_SA_BS",
       "SetID": "5iln8o3",
       "Name": "Federal Road",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "010ach_SR",
       "SetID": "5iln8o3",
       "Name": "Stop",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -124,7 +129,7 @@
       "ID": "011ach_LS_LS",
       "SetID": "5iln8o3",
       "Name": "Delineator right",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "012ach_LS_BS",
       "SetID": "5iln8o3",
       "Name": "Delineator left",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "013ach_pushcart",
       "SetID": "5iln8o3",
       "Name": "Wheelbarrow",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -445,14 +450,14 @@
     {
       "ID": "5iln8o3",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-05T16:58:44.8039917+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:16.4933952+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:05.2395856+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:48.1953495+00:00",
   "LastUpdate_AppInfo": "2024-04-05T11:57:31.7549851+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:19.4217402+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:05.2396156+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:06.4281081+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:48.1953798+00:00"
 }

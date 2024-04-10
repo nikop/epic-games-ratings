@@ -2,10 +2,10 @@
   "ID": "300bfcc4364d49e7808ea4d02d6a9c5d",
   "Name": "Bug Fables -The Everlasting Sapling-",
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
-  "Ranking_EOS_Progress": 527,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -329,6 +329,11 @@
       "Time": "2024-03-21T17:11:28.2454412+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:25.0728239+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -338,9 +343,9 @@
       "ID": "BFT_ARC",
       "SetID": "7o7kd30",
       "Name": "Gamer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 9
     },
     {
       "ID": "BFT_BONUS",
@@ -354,9 +359,9 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "BFT_CH1HB",
@@ -364,13 +369,13 @@
       "Name": "Vicious Spider",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 55
     },
@@ -378,7 +383,7 @@
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 42
     },
@@ -386,7 +391,7 @@
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 42
     },
@@ -404,7 +409,7 @@
       "Name": "Chapter 4 Complete",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "BFT_CH4HB",
@@ -412,7 +417,7 @@
       "Name": "Always Watchful",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "BFT_CH5",
@@ -436,7 +441,7 @@
       "Name": "Chapter 6 Complete",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "BFT_CH6HB",
@@ -450,7 +455,7 @@
       "ID": "BFT_CH7",
       "SetID": "7o7kd30",
       "Name": "Chapter 7 Complete",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 23
     },
@@ -468,7 +473,7 @@
       "Name": "Plant Enchanter",
       "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "BFT_COOK",
@@ -506,17 +511,17 @@
       "ID": "BFT_KABBU",
       "SetID": "7o7kd30",
       "Name": "Good Deed",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 65,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "BFT_LEIF",
       "SetID": "7o7kd30",
       "Name": "The Truth",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 65,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "BFT_MAX",
@@ -530,9 +535,9 @@
       "ID": "BFT_MEDAL",
       "SetID": "7o7kd30",
       "Name": "Medal Collector",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "BFT_MUSIC",
@@ -546,9 +551,9 @@
       "ID": "BFT_PLAT",
       "SetID": "7o7kd30",
       "Name": "Our job\u0027s done!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "BFT_QUEST",
@@ -572,14 +577,14 @@
       "Name": "Reconciliation",
       "Percentage": 18,
       "XP": 65,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
@@ -587,8 +592,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:28.2454405+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:25.0728234+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:11.162379+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:12.055576+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:28.2454646+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:58.7043132+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:25.0728407+00:00"
 }

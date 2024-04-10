@@ -6,48 +6,48 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~17,377 |
-| Finding Your Footing | 25.00% | ~15,515 |
-| Nomad | 16.00% | ~9,930 |
-| Picking Up Speed | 15.00% | ~9,309 |
-| Welcome Maya | 14.00% | ~8,689 |
-| Scout | 12.00% | ~7,447 |
-| Sightseer | 11.00% | ~6,827 |
-| Amateur | 10.00% | ~6,206 |
-| Unlock Maya | 8.00% | ~4,965 |
-| Enter Paz | 7.00% | ~4,344 |
-| Wanderer | 7.00% | ~4,344 |
-| Aviator | 5.00% | ~3,103 |
-| My Little Friend | 5.00% | ~3,103 |
-| One With The Board | 5.00% | ~3,103 |
-| Junkie | 4.00% | ~2,482 |
-| Voyager | 4.00% | ~2,482 |
-| Traveler | 3.00% | ~1,862 |
-| Unlock Paz | 3.00% | ~1,862 |
-| Human Flight | 3.00% | ~1,862 |
-| Sandboarder | 3.00% | ~1,862 |
-| Izel Has Arrived | 3.00% | ~1,862 |
-| Explorer | 2.00% | ~1,241 |
-| Pro | 2.00% | ~1,241 |
-| Journeyer | 2.00% | ~1,241 |
-| Unlock Izel | 2.00% | ~1,241 |
-| Here Comes Felipe | 2.00% | ~1,241 |
-| Hoist the Mainsail | 1.00% | ~621 |
-| Daredevil | 1.00% | ~621 |
-| Introducing Sumara | 1.00% | ~621 |
-| Vandal | 1.00% | ~621 |
-| Unlock Felipe | 0.90% | ~559 |
-| Adventurer | 0.80% | ~496 |
-| Unlock Tupa | 0.50% | ~310 |
-| Master Of The Sands | 0.30% | ~186 |
-| Master | 0.20% | ~124 |
-| Survivalist | 0.20% | ~124 |
-| Life Aquatic | 0.10% | ~62 |
-| The Ultimate Challenge | 0.10% | ~62 |
-| Windswept | 0.10% | ~62 |
+| Rookie | 28.00% | ~17,942 |
+| Finding Your Footing | 25.00% | ~16,020 |
+| Nomad | 16.00% | ~10,253 |
+| Picking Up Speed | 15.00% | ~9,612 |
+| Welcome Maya | 13.00% | ~8,330 |
+| Scout | 12.00% | ~7,689 |
+| Sightseer | 11.00% | ~7,049 |
+| Amateur | 10.00% | ~6,408 |
+| Unlock Maya | 9.00% | ~5,767 |
+| Enter Paz | 7.00% | ~4,486 |
+| Wanderer | 7.00% | ~4,486 |
+| Aviator | 5.00% | ~3,204 |
+| My Little Friend | 5.00% | ~3,204 |
+| One With The Board | 5.00% | ~3,204 |
+| Junkie | 4.00% | ~2,563 |
+| Voyager | 4.00% | ~2,563 |
+| Traveler | 3.00% | ~1,922 |
+| Unlock Paz | 3.00% | ~1,922 |
+| Human Flight | 3.00% | ~1,922 |
+| Sandboarder | 3.00% | ~1,922 |
+| Izel Has Arrived | 3.00% | ~1,922 |
+| Explorer | 2.00% | ~1,282 |
+| Pro | 2.00% | ~1,282 |
+| Journeyer | 2.00% | ~1,282 |
+| Unlock Izel | 2.00% | ~1,282 |
+| Here Comes Felipe | 2.00% | ~1,282 |
+| Hoist the Mainsail | 1.00% | ~641 |
+| Daredevil | 1.00% | ~641 |
+| Introducing Sumara | 1.00% | ~641 |
+| Vandal | 1.00% | ~641 |
+| Adventurer | 0.90% | ~577 |
+| Unlock Felipe | 0.90% | ~577 |
+| Unlock Tupa | 0.50% | ~320 |
+| Master Of The Sands | 0.30% | ~192 |
+| Master | 0.20% | ~128 |
+| Survivalist | 0.20% | ~128 |
+| Life Aquatic | 0.10% | ~64 |
+| The Ultimate Challenge | 0.10% | ~64 |
+| Windswept | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,061 (Ranked 129)  
-Completed: 5 (0.01%) (Ranked 424)  
+Progressed: 64,079 (Ranked 133)  
+Completed: 5 (0.01%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,6 +331,7 @@ Completed: 5 (0.01%) (Ranked 424)
 | 2024-01-27 | 56,377 | 5 |
 | 2024-03-04 | 60,469 | 5 |
 | 2024-03-21 | 62,061 | 5 |
+| 2024-04-10 | 64,079 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 58  (Ranked 472)  
 Sum: 458 (Ranked 370)  

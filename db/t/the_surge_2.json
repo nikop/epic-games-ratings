@@ -5,10 +5,10 @@
   "Ranking_Rating": 916,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 262,
+  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -324,11 +324,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2813,
-  "EOS_Completed": 14,
+  "EOS_Progressed": 2905,
+  "EOS_Completed": 15,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -4969,6 +4969,11 @@
       "Time": "2024-03-21T17:08:00.4562881+00:00",
       "NumProgressed": 2813,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-04-10T06:03:22.3613696+00:00",
+      "NumProgressed": 2905,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 57,
@@ -4980,15 +4985,15 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1801
     },
     {
       "ID": "ACHV_03",
@@ -4996,7 +5001,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHV_04",
@@ -5004,7 +5009,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 842
     },
     {
       "ID": "ACHV_05",
@@ -5012,7 +5017,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 675
+      "UsersEstimate": 697
     },
     {
       "ID": "ACHV_06",
@@ -5020,7 +5025,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 639
     },
     {
       "ID": "ACHV_07",
@@ -5028,7 +5033,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHV_08",
@@ -5036,7 +5041,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 407
     },
     {
       "ID": "ACHV_09",
@@ -5044,7 +5049,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_10",
@@ -5052,7 +5057,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_11",
@@ -5060,7 +5065,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHV_12",
@@ -5068,7 +5073,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHV_13",
@@ -5076,7 +5081,7 @@
       "Name": "Own Medicine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHV_14",
@@ -5084,7 +5089,7 @@
       "Name": "Reborn",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHV_15",
@@ -5092,7 +5097,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHV_16",
@@ -5100,7 +5105,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHV_17",
@@ -5108,7 +5113,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHV_18",
@@ -5116,7 +5121,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 610
     },
     {
       "ID": "ACHV_19",
@@ -5124,7 +5129,7 @@
       "Name": "Defense in Depth",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 232
     },
     {
       "ID": "ACHV_20",
@@ -5132,7 +5137,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 338
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_21",
@@ -5140,7 +5145,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHV_22",
@@ -5148,15 +5153,15 @@
       "Name": "Offensive Defense",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHV_23",
       "SetID": "8p5mlmc",
       "Name": "HEADSHOT!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACHV_24",
@@ -5164,7 +5169,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "ACHV_25",
@@ -5172,7 +5177,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHV_26",
@@ -5180,7 +5185,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACHV_27",
@@ -5188,7 +5193,7 @@
       "Name": "High Performance",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 816
+      "UsersEstimate": 842
     },
     {
       "ID": "ACHV_28",
@@ -5196,7 +5201,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 523
     },
     {
       "ID": "ACHV_29",
@@ -5204,7 +5209,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHV_30",
@@ -5212,7 +5217,7 @@
       "Name": "Powered Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 784
     },
     {
       "ID": "ACHV_31",
@@ -5220,7 +5225,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 366
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_32",
@@ -5228,7 +5233,7 @@
       "Name": "Remote Surgery",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHV_33",
@@ -5236,7 +5241,7 @@
       "Name": "Swiss Army Drone",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHV_34",
@@ -5244,7 +5249,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 581
     },
     {
       "ID": "ACHV_35",
@@ -5252,7 +5257,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 956
+      "UsersEstimate": 988
     },
     {
       "ID": "ACHV_36",
@@ -5260,7 +5265,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHV_37",
@@ -5268,7 +5273,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 639
     },
     {
       "ID": "ACHV_38",
@@ -5276,7 +5281,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_39",
@@ -5284,7 +5289,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2150
     },
     {
       "ID": "ACHV_40",
@@ -5292,7 +5297,7 @@
       "Name": "Three Birds With One Stone",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHV_41",
@@ -5300,7 +5305,7 @@
       "Name": "Suited and Booted",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACHV_42",
@@ -5308,7 +5313,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_43",
@@ -5316,7 +5321,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 366
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHV_44",
@@ -5324,7 +5329,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHV_45",
@@ -5332,7 +5337,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 591
+      "UsersEstimate": 610
     },
     {
       "ID": "ACHV_46",
@@ -5340,7 +5345,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 552
     },
     {
       "ID": "ACHV_47",
@@ -5348,7 +5353,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHV_48",
@@ -5356,7 +5361,7 @@
       "Name": "Turbo Booster",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHV_49",
@@ -5364,7 +5369,7 @@
       "Name": "Box Office Smash",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHV_50",
@@ -5372,7 +5377,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHV_51",
@@ -5380,7 +5385,7 @@
       "Name": "Homewrecker",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHV_52",
@@ -5388,7 +5393,7 @@
       "Name": "Juiced Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHV_53",
@@ -5396,7 +5401,7 @@
       "Name": "Going Postal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHV_54",
@@ -5404,7 +5409,7 @@
       "Name": "The Easy Way Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHV_55",
@@ -5412,7 +5417,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHV_56",
@@ -5420,7 +5425,7 @@
       "Name": "Squid Pro Quo",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHV_57",
@@ -5428,23 +5433,23 @@
       "Name": "Loot, Pillage \u0026 Craft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2813,
-      "Completed": 14
+      "Progressed": 2905,
+      "Completed": 15
     }
   ],
   "FirstSeen": "2022-08-21T23:30:56.8075479+00:00",
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-03-23T21:00:58.909062+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:00.4562875+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:22.3613689+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:02.7673005+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:32.3436809+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:00.456348+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:20.3360658+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:22.3614238+00:00"
 }

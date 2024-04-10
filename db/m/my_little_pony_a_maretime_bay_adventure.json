@@ -2,10 +2,10 @@
   "ID": "1bb409739a2a48cc97a8779a76e933f1",
   "Name": "MY LITTLE PONY A Maretime Bay Adventure",
   "ProductSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
-  "Ranking_EOS_Progress": 623,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2022-05-26T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
-  "EOS_Completed": 17,
+  "EOS_Progressed": 58,
+  "EOS_Completed": 18,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 30.91,
+  "EOS_Completed_Percentage": 31.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:29.3073693+00:00",
@@ -151,6 +151,11 @@
       "Time": "2024-03-21T17:07:41.9935217+00:00",
       "NumProgressed": 55,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-04-10T06:03:12.376555+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -160,73 +165,73 @@
       "ID": "0",
       "SetID": "1kmik7f",
       "Name": "An Adorable Thief",
-      "Percentage": 85,
+      "Percentage": 83,
       "XP": 75,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "1",
       "SetID": "1kmik7f",
       "Name": "Unicycling 101",
-      "Percentage": 84,
+      "Percentage": 81,
       "XP": 75,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "10",
       "SetID": "1kmik7f",
       "Name": "Where Did The Magic Go?",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "11",
       "SetID": "1kmik7f",
       "Name": "Friendship Is Still Magic",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "12",
       "SetID": "1kmik7f",
       "Name": "Starscout",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 75,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "2",
       "SetID": "1kmik7f",
       "Name": "Mane Street Awaits!",
-      "Percentage": 75,
+      "Percentage": 72,
       "XP": 75,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "3",
       "SetID": "1kmik7f",
       "Name": "Pipp Pipp Parade!",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "4",
       "SetID": "1kmik7f",
       "Name": "Amateur Detective",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 75,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "5",
       "SetID": "1kmik7f",
       "Name": "Glowing Up",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "6",
@@ -234,47 +239,47 @@
       "Name": "W.I.N.G.S. Cadet",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "7",
       "SetID": "1kmik7f",
       "Name": "Sheriff\u0027s Apprentice",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "8",
       "SetID": "1kmik7f",
       "Name": "Pro Herder",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "9",
       "SetID": "1kmik7f",
       "Name": "The Neigh-gotiator",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kmik7f",
       "IsBase": true,
-      "Progressed": 55,
-      "Completed": 17
+      "Progressed": 58,
+      "Completed": 18
     }
   ],
   "FirstSeen": "2023-01-24T20:58:52.6858094+00:00",
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:41.9935211+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:12.3765545+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:32.7000667+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:31.4277383+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:41.9935326+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:42.4639595+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:12.3765661+00:00"
 }

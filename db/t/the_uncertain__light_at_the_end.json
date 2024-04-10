@@ -5,10 +5,10 @@
   "Ranking_Rating": 1138,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -95,11 +95,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 732,
+  "EOS_Progressed": 745,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.82,
+  "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1500,6 +1500,11 @@
       "Time": "2024-03-21T17:06:13.333907+00:00",
       "NumProgressed": 732,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-04-10T06:02:24.4439499+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1509,7 +1514,7 @@
       "ID": "80lvl_Gamer",
       "SetID": "ek310c",
       "Name": "Hardcore Gamer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -1517,9 +1522,9 @@
       "ID": "Agent_47",
       "SetID": "ek310c",
       "Name": "Identity Theft",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 82
     },
     {
       "ID": "Butterfly",
@@ -1535,7 +1540,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 216
     },
     {
       "ID": "Doors_Closing",
@@ -1543,7 +1548,7 @@
       "Name": "Mind the Gap",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Echoes",
@@ -1559,15 +1564,15 @@
       "Name": "Between the Covers",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Gamer",
       "SetID": "ek310c",
       "Name": "Casual Gamer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "Graffiti_Artist",
@@ -1591,7 +1596,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Healthy_Child",
@@ -1599,7 +1604,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 365
     },
     {
       "ID": "Hitman",
@@ -1607,7 +1612,7 @@
       "Name": "Short Circuit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Illustrator",
@@ -1615,15 +1620,15 @@
       "Name": "F is for Feline",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Investigative",
       "SetID": "ek310c",
       "Name": "Marvellous Toys",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 7
     },
     {
       "ID": "Left_Behind",
@@ -1631,7 +1636,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 328
     },
     {
       "ID": "Leisurely_Strol",
@@ -1639,7 +1644,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "MISSING_DATA",
@@ -1647,15 +1652,15 @@
       "Name": "Does Not Compute",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "Misanthrope",
       "SetID": "ek310c",
       "Name": "Antisocial Club",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 22
     },
     {
       "ID": "Missing_Shot",
@@ -1663,7 +1668,7 @@
       "Name": "You Had One Job...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Neighbor",
@@ -1679,7 +1684,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Old_Friend",
@@ -1687,7 +1692,7 @@
       "Name": "A Familiar Face",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "Paparazzi",
@@ -1703,7 +1708,7 @@
       "Name": "Catch You Later",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Party",
@@ -1719,7 +1724,7 @@
       "Name": "Smart cookie",
       "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Strike",
@@ -1727,7 +1732,7 @@
       "Name": "Beat the Heat",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 164
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1735,14 +1740,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 732,
+      "Progressed": 745,
       "Completed": 6
     }
   ],
@@ -1750,8 +1755,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-03-17T13:58:53.4629825+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:13.3339064+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:24.4439485+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:04.2335406+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:01.5188441+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:13.3339353+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:47.8491056+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:24.4439748+00:00"
 }

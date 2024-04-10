@@ -2,10 +2,10 @@
   "ID": "76939a6fe2b54f9299254c99a9aebd35",
   "Name": "The Smurfs 2 - The Prisoner of the Green Stone",
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
-  "Ranking_EOS_Progress": 720,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 734,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-11-02T09:00:00+00:00",
     "PcReleaseDate": "2023-11-02T09:00:00+00:00",
@@ -235,9 +235,9 @@
       "ID": "OVERHEAT_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Release the pressure",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ULTIMATE_BRAINY",
@@ -339,9 +339,9 @@
       "ID": "UPGRADE_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Odds and ends",
-      "Percentage": 58,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "WEAR_SKIN",
@@ -362,8 +362,8 @@
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2024-04-08T15:03:52.491942+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:17.7951476+00:00",
   "LastUpdate_AppInfo": "2024-04-04T18:57:20.0807324+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:58.1240324+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:03:52.4919822+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:14.363685+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:17.7951709+00:00"
 }

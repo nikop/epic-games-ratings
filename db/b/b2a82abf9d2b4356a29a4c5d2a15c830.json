@@ -2,10 +2,10 @@
   "ID": "b2a82abf9d2b4356a29a4c5d2a15c830",
   "Name": "Murder Is Game Over - Deal Killer",
   "ProductSlug": "murder-is-game-over-deal-killer-7449bf",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-06T18:00:00+00:00",
     "PcReleaseDate": "2024-02-06T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-08T11:01:02.7191745+00:00",
   "LastUpdate_AppInfo": "2024-04-05T21:57:16.0061262+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:01.6211024+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:42.8480904+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:47.023566+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:18.9356027+00:00"
 }

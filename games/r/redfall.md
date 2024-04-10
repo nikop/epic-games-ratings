@@ -6,33 +6,33 @@ Rating: 3.66 (Ranked 1,152)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 27.00% | ~691 |
-| Catch and Release | 21.00% | ~537 |
+| Catch and Release | 21.00% | ~538 |
 | Home Is Where the Heart Is | 20.00% | ~512 |
-| ICU | 19.00% | ~486 |
-| Wounded Whispers | 19.00% | ~486 |
+| Wounded Whispers | 20.00% | ~512 |
+| ICU | 19.00% | ~487 |
 | Blood Will Have Blood | 17.00% | ~435 |
 | Ne Plus Ultra | 17.00% | ~435 |
 | Peek-a-boo | 17.00% | ~435 |
-| Fly Fisher | 16.00% | ~409 |
-| Sucks To Be You | 16.00% | ~409 |
-| Welcome to the Neighborhood | 14.00% | ~358 |
-| Throw The First Stone | 14.00% | ~358 |
+| Fly Fisher | 16.00% | ~410 |
+| Sucks To Be You | 16.00% | ~410 |
+| Welcome to the Neighborhood | 14.00% | ~359 |
+| Throw The First Stone | 14.00% | ~359 |
 | Enter of Your Own Free Will | 13.00% | ~333 |
 | Heart Attack | 13.00% | ~333 |
+| Grounded | 12.00% | ~307 |
 | Skin of Their Teeth | 12.00% | ~307 |
-| Grounded | 11.00% | ~281 |
 | Neighborhood Revitalization | 9.00% | ~230 |
 | Bad Wiring | 9.00% | ~230 |
 | Radio Silence | 9.00% | ~230 |
 | From the Shadows | 7.00% | ~179 |
-| Sic Transit Umbra | 6.00% | ~153 |
-| Bell-ringer | 6.00% | ~153 |
-| Silence Is Golden | 6.00% | ~153 |
-| Good Morning | 6.00% | ~153 |
-| You Clean It Up | 6.00% | ~153 |
-| Harvest’s End | 6.00% | ~153 |
-| Helping Hand | 6.00% | ~153 |
-| I Spit On Your Grave | 6.00% | ~153 |
+| Sic Transit Umbra | 6.00% | ~154 |
+| Bell-ringer | 6.00% | ~154 |
+| Silence Is Golden | 6.00% | ~154 |
+| Good Morning | 6.00% | ~154 |
+| You Clean It Up | 6.00% | ~154 |
+| Harvest’s End | 6.00% | ~154 |
+| Helping Hand | 6.00% | ~154 |
+| I Spit On Your Grave | 6.00% | ~154 |
 | Starve the Beast | 5.00% | ~128 |
 | Revelations | 4.00% | ~102 |
 | Contingency Plans | 4.00% | ~102 |
@@ -48,11 +48,11 @@ Rating: 3.66 (Ranked 1,152)
 | Empty Nest Syndrome | 2.00% | ~51 |
 | Bloody Initiate | 2.00% | ~51 |
 | Good Samaritan | 2.00% | ~51 |
+| Scream Team | 1.00% | ~26 |
 | Monster Hunters Club | 1.00% | ~26 |
 | What Lies Below | 1.00% | ~26 |
 | Under a Bushel | 1.00% | ~26 |
 | Dexterity Save | 1.00% | ~26 |
-| Scream Team | 0.90% | ~23 |
 | Friendgineering | 0.90% | ~23 |
 | So Anyway I Started Blasting | 0.80% | ~20 |
 | Enemy of My Enemy | 0.80% | ~20 |
@@ -72,8 +72,8 @@ Rating: 3.66 (Ranked 1,152)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,558 (Ranked 261)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 2,561 (Ranked 268)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,6 +234,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 2,422 | 0 |
 | 2024-03-21 | 2,507 | 0 |
 | 2024-04-07 | 2,558 | 0 |
+| 2024-04-10 | 2,561 | 0 |
 ## Awards
 Max (Great Boss Battles): 41  (Ranked 518)  
 Sum: 41 (Ranked 568)  

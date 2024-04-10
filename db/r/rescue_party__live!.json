@@ -2,10 +2,10 @@
   "ID": "f679c7125fd34092a6c20647917e207e",
   "Name": "Rescue Party: Live!",
   "ProductSlug": "rescue-party-live",
-  "Ranking_EOS_Progress": 455,
-  "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 289,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.47,
+  "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -574,6 +574,11 @@
       "Time": "2024-03-21T17:09:39.9043089+00:00",
       "NumProgressed": 283,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-04-10T06:04:17.3998698+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -583,17 +588,17 @@
       "ID": "ACH_BESTIE",
       "SetID": "1p69hf1",
       "Name": "Give me a hand",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_DAWN_OF_VICTORY",
       "SetID": "1p69hf1",
       "Name": "Dawn of Victory",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_FOREIGN_FRIENDS",
@@ -601,7 +606,7 @@
       "Name": "Gloable operation",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_HERT_COLLECTOR",
@@ -609,7 +614,7 @@
       "Name": "Medal of honor",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -631,9 +636,9 @@
       "ID": "ACH_LIFE_MATTERS",
       "SetID": "1p69hf1",
       "Name": "Life matters",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_LIGHT",
@@ -649,7 +654,7 @@
       "Name": "Love and peace",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_MERCILESS_CALAMITY",
@@ -665,7 +670,7 @@
       "Name": "My turn",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_PANDA_SO_CUTE",
@@ -679,17 +684,17 @@
       "ID": "ACH_PROFESSIONAL_TEAM",
       "SetID": "1p69hf1",
       "Name": "Professional team!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
       "SetID": "1p69hf1",
       "Name": "Team assemble",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_RESCUE_WITH_CAUTION",
@@ -713,22 +718,22 @@
       "Name": "Safety first",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_SPEEDY",
       "SetID": "1p69hf1",
       "Name": "ASAP",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 280
+      "UsersEstimate": 283
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 289,
       "Completed": 7
     }
   ],
@@ -736,8 +741,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:39.9043084+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:17.3998692+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:08.5871362+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:07.9654722+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:39.9043207+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:30.8155916+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:17.3998864+00:00"
 }

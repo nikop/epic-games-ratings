@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 78.00% | ~43 |
-| Chapter 1 | 49.00% | ~27 |
-| Chapter 2 | 44.00% | ~24 |
-| Chapter 3 | 38.00% | ~21 |
-| Your Days Are Numbered | 38.00% | ~21 |
-| It's In My Nature | 38.00% | ~21 |
-| Chapter 4 | 36.00% | ~20 |
-| All Materials | 36.00% | ~20 |
-| Chapter 5 | 35.00% | ~19 |
-| Chapter 6 | 27.00% | ~15 |
-| Best Student | 18.00% | ~10 |
-| Food Thief | 13.00% | ~7 |
-| Ads Fan | 11.00% | ~6 |
-| Highway Survival | 11.00% | ~6 |
-| Sugar Pills Lover | 11.00% | ~6 |
-| Tramp Saver | 11.00% | ~6 |
-| Hard To Wake Up | 11.00% | ~6 |
-| Chipmunk | 9.00% | ~5 |
-| Secret Locker | 9.00% | ~5 |
-| Paw Music | 9.00% | ~5 |
+| Introduction completed | 76.00% | ~45 |
+| Chapter 1 | 46.00% | ~27 |
+| Chapter 2 | 42.00% | ~25 |
+| Chapter 3 | 36.00% | ~21 |
+| Your Days Are Numbered | 36.00% | ~21 |
+| It's In My Nature | 36.00% | ~21 |
+| Chapter 4 | 34.00% | ~20 |
+| All Materials | 34.00% | ~20 |
+| Chapter 5 | 32.00% | ~19 |
+| Chapter 6 | 25.00% | ~15 |
+| Best Student | 17.00% | ~10 |
+| Food Thief | 12.00% | ~7 |
+| Ads Fan | 10.00% | ~6 |
+| Highway Survival | 10.00% | ~6 |
+| Sugar Pills Lover | 10.00% | ~6 |
+| Tramp Saver | 10.00% | ~6 |
+| Hard To Wake Up | 10.00% | ~6 |
+| Chipmunk | 8.00% | ~5 |
+| Secret Locker | 8.00% | ~5 |
+| Paw Music | 8.00% | ~5 |
 | Bear Cop | 7.00% | ~4 |
-| Main Endings | 4.00% | ~2 |
+| Main Endings | 3.00% | ~2 |
 | Master of Mattresses | 2.00% | ~1 |
 | Pushy, pushy | 2.00% | ~1 |
 | Summary Filled | 2.00% | ~1 |
@@ -34,8 +34,8 @@
 | Pacifist | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 623)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 59 (Ranked 631)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,6 +76,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-15 | 48 | 0 |
 | 2024-01-22 | 49 | 0 |
 | 2024-03-21 | 55 | 0 |
+| 2024-04-10 | 59 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

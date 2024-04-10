@@ -2,10 +2,10 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -964,8 +964,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-04-08T15:01:48.0417634+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:11.8029512+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:37.4362771+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:53.0484573+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:01:48.0419653+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:09.7834455+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:11.8029652+00:00"
 }

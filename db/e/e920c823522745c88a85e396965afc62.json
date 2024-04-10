@@ -3,9 +3,9 @@
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
   "Ranking_EOS_Progress": 577,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -374,6 +374,11 @@
       "Time": "2024-03-21T17:06:01.0557146+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:02:17.6091028+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -384,9 +389,9 @@
       "ID": "apoland",
       "SetID": "d4692al",
       "Name": "Apocalypse Land",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "articland",
@@ -402,15 +407,15 @@
       "Name": "It\u0027s beautiful",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 64
     },
     {
       "ID": "contractor",
@@ -418,7 +423,7 @@
       "Name": "New Contractor",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "crazyCoaster",
@@ -442,13 +447,13 @@
       "Name": "Devious Dealmaker",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "decorated",
       "SetID": "d4692al",
       "Name": "Decorated",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -456,15 +461,15 @@
       "ID": "dining",
       "SetID": "d4692al",
       "Name": "Fine Dining",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "entertainment",
       "SetID": "d4692al",
       "Name": "Exquisite Entertainment",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 60,
       "UsersEstimate": 4
     },
@@ -474,7 +479,7 @@
       "Name": "Experienced Contractor",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "expanded",
@@ -488,9 +493,9 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "halls",
@@ -506,13 +511,13 @@
       "Name": "Happy visitors",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "indoorlands",
       "SetID": "d4692al",
       "Name": "Indoorlands",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 75,
       "UsersEstimate": 7
     },
@@ -520,15 +525,15 @@
       "ID": "keepComing",
       "SetID": "d4692al",
       "Name": "They keep coming",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "mass",
       "SetID": "d4692al",
       "Name": "Mass Transportation",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -544,15 +549,15 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "sandland",
       "SetID": "d4692al",
       "Name": "Sandland",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 55,
       "UsersEstimate": 5
     },
@@ -570,15 +575,15 @@
       "Name": "Luxurious Store",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "toomany",
       "SetID": "d4692al",
       "Name": "Too many too count",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "upgrades",
@@ -600,15 +605,15 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 45
     },
     {
       "ID": "visitorLife",
       "SetID": "d4692al",
       "Name": "Life of a visitor",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -618,7 +623,7 @@
       "Name": "Visitor Satisfaction Wanted",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "wealthy",
@@ -633,14 +638,14 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:01.0557139+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:17.6091023+00:00",
   "LastUpdate_AppInfo": "2024-04-04T17:57:10.7217387+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:28.8582172+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:01.0557355+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:15.3337498+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:17.6091197+00:00"
 }

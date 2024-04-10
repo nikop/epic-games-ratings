@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Stilesville | 97.00% | ~218 |
-| Talented Performer | 60.00% | ~135 |
-| Welcome to Barcelona | 58.00% | ~130 |
-| We will need a bigger wardrobe | 45.00% | ~101 |
-| Roller Race | 42.00% | ~94 |
-| Born to Win | 38.00% | ~86 |
-| Welcome to Seoul | 38.00% | ~86 |
-| Stilesville Hidden Style | 33.00% | ~74 |
-| Creating New Trends | 28.00% | ~63 |
-| Best Gala Ever | 27.00% | ~61 |
-| Welcome to the The Stylin' Soiree | 27.00% | ~61 |
-| Scooter Race | 26.00% | ~58 |
-| Barcelona Hidden Style | 21.00% | ~47 |
-| Seoul Hidden Style | 16.00% | ~36 |
-| Hoverboard Race | 8.00% | ~18 |
-| Trendy Selfies | 2.00% | ~4 |
-| Exclusive Photoshoot | 1.00% | ~2 |
-| Xtremely Cool Pictures | 0.90% | ~2 |
+| Welcome to Stilesville | 97.00% | ~239 |
+| Talented Performer | 60.00% | ~148 |
+| Welcome to Barcelona | 58.00% | ~143 |
+| We will need a bigger wardrobe | 48.00% | ~118 |
+| Roller Race | 42.00% | ~103 |
+| Born to Win | 39.00% | ~96 |
+| Welcome to Seoul | 39.00% | ~96 |
+| Stilesville Hidden Style | 34.00% | ~84 |
+| Creating New Trends | 29.00% | ~71 |
+| Best Gala Ever | 28.00% | ~69 |
+| Welcome to the The Stylin' Soiree | 28.00% | ~69 |
+| Scooter Race | 27.00% | ~66 |
+| Barcelona Hidden Style | 21.00% | ~52 |
+| Seoul Hidden Style | 18.00% | ~44 |
+| Hoverboard Race | 9.00% | ~22 |
+| Trendy Selfies | 3.00% | ~7 |
+| Exclusive Photoshoot | 2.00% | ~5 |
+| Xtremely Cool Pictures | 0.80% | ~2 |
 | Talented Photographer | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 469)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 246 (Ranked 475)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,6 +110,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-25 | 174 | 0 |
 | 2024-01-26 | 175 | 0 |
 | 2024-03-21 | 225 | 0 |
+| 2024-04-10 | 246 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 484,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 489,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 194,
+  "EOS_Progressed": 210,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -729,6 +729,11 @@
       "Time": "2024-03-21T17:10:59.1808732+00:00",
       "NumProgressed": 194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:05.8581349+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -797,7 +802,7 @@
       "Name": "Berserker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -819,7 +824,7 @@
       "ID": "achievement_death_to_javelin",
       "SetID": "bngbnfb",
       "Name": "Death to the javelin thrower",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -827,25 +832,25 @@
       "ID": "achievement_drunk_lucky",
       "SetID": "bngbnfb",
       "Name": "The luck of drunkards",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_egoist",
       "SetID": "bngbnfb",
       "Name": "Egomaniac",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_feng_is_my_choise",
       "SetID": "bngbnfb",
       "Name": "My name is Pheng",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_fidelity_to_the_clan",
@@ -947,17 +952,17 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_madman",
       "SetID": "bngbnfb",
       "Name": "Madman",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_makt_alive",
@@ -981,7 +986,7 @@
       "Name": "The monk",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_most_dangerous_man",
@@ -1005,7 +1010,7 @@
       "Name": "Not energetic",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_not_risky",
@@ -1013,7 +1018,7 @@
       "Name": "Not a daredevil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_rush",
@@ -1069,7 +1074,7 @@
       "Name": "Thorn\u0027s alive!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_thorn_is_my_choise",
@@ -1140,14 +1145,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 194,
+      "Progressed": 210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:59.1808726+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:05.8581344+00:00",
   "LastUpdate_AppInfo": "2024-04-03T21:11:55.6927024+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:47.5464141+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:59.1809132+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:05.18408+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:05.8581656+00:00"
 }

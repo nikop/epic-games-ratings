@@ -2,13 +2,13 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 980,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 76,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2024-04-06T03:58:46.1197859+00:00",
@@ -95,13 +95,19 @@
       "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-10T05:57:57.3377456+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 259065,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -981,6 +987,11 @@
       "Time": "2024-03-21T17:09:02.9821057+00:00",
       "NumProgressed": 678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:56.8810309+00:00",
+      "NumProgressed": 259065,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -991,17 +1002,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "ae95dh3",
       "Name": "Obsessive Compulsive",
-      "Percentage": 0.6,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "ae95dh3",
       "Name": "Sleight of Hand",
-      "Percentage": 0.3,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -1009,199 +1020,199 @@
       "Name": "Clear Headed",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "ae95dh3",
       "Name": "Hard Times",
-      "Percentage": 0.6,
+      "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "ae95dh3",
       "Name": "Modesty Denied",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "ae95dh3",
       "Name": "Child of the Shadows",
-      "Percentage": 14,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 23316
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "ae95dh3",
       "Name": "Hail of Glass",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "ae95dh3",
       "Name": "Health Hazard",
-      "Percentage": 1,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 1295
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "ae95dh3",
       "Name": "Priceless",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "ae95dh3",
       "Name": "What\u0027s Yours is Mine",
-      "Percentage": 0.3,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "ae95dh3",
       "Name": "Happy Birthday",
-      "Percentage": 17,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 20725
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "ae95dh3",
       "Name": "Hidden Agenda",
-      "Percentage": 4,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 2073
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 13,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 10363
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "ae95dh3",
       "Name": "Finders Keepers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
       "SetID": "ae95dh3",
       "Name": "Cache Dispenser",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 518
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
       "SetID": "ae95dh3",
       "Name": "Working Overtime",
-      "Percentage": 0.6,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "ae95dh3",
       "Name": "Dastardly Deeds",
-      "Percentage": 0.3,
+      "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 23,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 28497
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "ae95dh3",
       "Name": "Old Habits Die Hard",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "ae95dh3",
       "Name": "Two Faced",
-      "Percentage": 11,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 20725
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 63,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 129532
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 41,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 69948
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
       "SetID": "ae95dh3",
       "Name": "Dust to Dust",
-      "Percentage": 15,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 20725
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "ae95dh3",
       "Name": "Something to Prove",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
       "SetID": "ae95dh3",
       "Name": "Dirty Secrets",
-      "Percentage": 6,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 5181
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "ae95dh3",
       "Name": "A Friend in Need",
-      "Percentage": 5,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 2591
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "ae95dh3",
       "Name": "Dark Archer",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1209,95 +1220,95 @@
       "Name": "Legend in Leather",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "ae95dh3",
       "Name": "Mint Condition",
-      "Percentage": 2,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 1813
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "ae95dh3",
       "Name": "Focus on the Tasks at Hand",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "ae95dh3",
       "Name": "A Moral Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "ae95dh3",
       "Name": "One Step Ahead",
-      "Percentage": 3,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 1295
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
       "SetID": "ae95dh3",
       "Name": "The Forsaken",
-      "Percentage": 4,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 2073
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "ae95dh3",
       "Name": "A Man Apart",
-      "Percentage": 3,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 1295
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "ae95dh3",
       "Name": "The Hidden City",
-      "Percentage": 3,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 777
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "ae95dh3",
       "Name": "The Dawn\u0027s Light",
-      "Percentage": 3,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 777
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "ae95dh3",
       "Name": "Predatory Drive",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 259
     }
   ],
   "AchievementSets": [
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 259065,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenRating": "2024-04-06T03:58:46.1197856+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged": "2024-04-09T22:57:19.3184524+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:02.982105+00:00",
+  "LastChanged": "2024-04-10T05:57:57.3377454+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:56.8810303+00:00",
   "LastUpdate_AppInfo": "2024-04-04T01:39:51.9751585+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:38.1305837+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:02.9821384+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:57.3377461+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:56.8810547+00:00"
 }

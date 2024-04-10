@@ -2,10 +2,10 @@
   "ID": "9b5a9569674e4d08afe18dc20a697e0e",
   "Name": "Aron\u0027s Adventure: Magic Reborn",
   "ProductSlug": "arons-adventure-1e76cd",
-  "Ranking_EOS_Progress": 480,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 489,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 210,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -729,6 +729,11 @@
       "Time": "2024-03-21T17:12:17.1678141+00:00",
       "NumProgressed": 206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:54.6816161+00:00",
+      "NumProgressed": 210,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -741,7 +746,7 @@
       "Name": "Adventure awaits",
       "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "BARON",
@@ -749,7 +754,7 @@
       "Name": "Baron",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CHAIR",
@@ -771,25 +776,25 @@
       "ID": "CULT",
       "SetID": "40o4f14",
       "Name": "Dragon Cult",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "DISCIPLE",
       "SetID": "40o4f14",
       "Name": "Disciple",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "DRAGON",
       "SetID": "40o4f14",
       "Name": "How to train your...",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "DRESSED",
@@ -821,7 +826,7 @@
       "Name": "The Rescue",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "GREEDY",
@@ -853,7 +858,7 @@
       "Name": "Liberator",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LIBRARY",
@@ -869,15 +874,15 @@
       "Name": "Lover\u0027s dream",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "MERCENARY",
       "SetID": "40o4f14",
       "Name": "Mercenary",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "MINES",
@@ -885,7 +890,7 @@
       "Name": "The mines",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MIRROR",
@@ -901,7 +906,7 @@
       "Name": "Moist",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "MOUNTAINEER",
@@ -915,9 +920,9 @@
       "ID": "PRISON",
       "SetID": "40o4f14",
       "Name": "The prison",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "RECOVERING",
@@ -933,7 +938,7 @@
       "Name": "Savior of the people",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SKILLED",
@@ -947,9 +952,9 @@
       "ID": "SNEAKY",
       "SetID": "40o4f14",
       "Name": "Sneaky",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "SOUL",
@@ -957,15 +962,15 @@
       "Name": "A restless soul",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "WITCH",
@@ -988,14 +993,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:17.1678135+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:54.6816156+00:00",
   "LastUpdate_AppInfo": "2024-04-04T13:57:33.4586492+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:54.4647736+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:17.1678366+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:39.4851979+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:54.6816439+00:00"
 }

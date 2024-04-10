@@ -5,59 +5,59 @@ Rating: 4.56 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~248 |
-| Map reader | 69.00% | ~190 |
-| Adventurer | 67.00% | ~185 |
-| Philanthropist | 64.00% | ~177 |
-| The brave little tailor | 43.00% | ~119 |
-| Archer | 42.00% | ~116 |
-| Field hand | 41.00% | ~113 |
-| Well-to-do | 33.00% | ~91 |
-| Samaritan | 30.00% | ~83 |
-| The merciful one | 29.00% | ~80 |
-| Ladies' man | 29.00% | ~80 |
-| Ferocious wild boars | 25.00% | ~69 |
-| Beast slayer | 24.00% | ~66 |
-| Idiot | 23.00% | ~63 |
-| Death of a legend | 22.00% | ~61 |
-| Ogre friend | 22.00% | ~61 |
-| Family man | 21.00% | ~58 |
-| Archaeologist | 21.00% | ~58 |
-| Little hero | 20.00% | ~55 |
-| Sidelined | 20.00% | ~55 |
-| The fourth triplet | 19.00% | ~52 |
-| Pandora's box | 18.00% | ~50 |
-| Ghost hunter | 18.00% | ~50 |
-| Wise man | 17.00% | ~47 |
-| Hard worker | 17.00% | ~47 |
-| Fence | 17.00% | ~47 |
-| Defender | 15.00% | ~41 |
-| Showdown | 15.00% | ~41 |
-| Master detective | 15.00% | ~41 |
-| Workaholic | 13.00% | ~36 |
-| Peacekeeper | 13.00% | ~36 |
-| Titan Lord | 12.00% | ~33 |
-| Safecracker | 12.00% | ~33 |
-| Master thief | 11.00% | ~30 |
-| Freedom fighter | 10.00% | ~28 |
-| The traveler | 8.00% | ~22 |
-| Terror of the hens | 8.00% | ~22 |
-| Expert | 8.00% | ~22 |
-| King of the handymen | 8.00% | ~22 |
-| Moneybags | 5.00% | ~14 |
-| Rune master | 4.00% | ~11 |
-| King Midas | 4.00% | ~11 |
-| Big game hunter | 3.00% | ~8 |
-| Fervent swimmer | 3.00% | ~8 |
-| Jester | 3.00% | ~8 |
+| Beginner | 90.00% | ~270 |
+| Map reader | 70.00% | ~210 |
+| Adventurer | 69.00% | ~207 |
+| Philanthropist | 65.00% | ~195 |
+| The brave little tailor | 44.00% | ~132 |
+| Archer | 44.00% | ~132 |
+| Field hand | 41.00% | ~123 |
+| Well-to-do | 35.00% | ~105 |
+| Samaritan | 32.00% | ~96 |
+| The merciful one | 31.00% | ~93 |
+| Ladies' man | 31.00% | ~93 |
+| Ferocious wild boars | 26.00% | ~78 |
+| Beast slayer | 26.00% | ~78 |
+| Idiot | 25.00% | ~75 |
+| Death of a legend | 24.00% | ~72 |
+| Ogre friend | 24.00% | ~72 |
+| Family man | 22.00% | ~66 |
+| Archaeologist | 22.00% | ~66 |
+| Little hero | 22.00% | ~66 |
+| The fourth triplet | 21.00% | ~63 |
+| Sidelined | 20.00% | ~60 |
+| Pandora's box | 19.00% | ~57 |
+| Ghost hunter | 19.00% | ~57 |
+| Hard worker | 18.00% | ~54 |
+| Fence | 18.00% | ~54 |
+| Wise man | 17.00% | ~51 |
+| Defender | 16.00% | ~48 |
+| Master detective | 16.00% | ~48 |
+| Showdown | 15.00% | ~45 |
+| Workaholic | 15.00% | ~45 |
+| Peacekeeper | 14.00% | ~42 |
+| Safecracker | 13.00% | ~39 |
+| Titan Lord | 12.00% | ~36 |
+| Freedom fighter | 11.00% | ~33 |
+| Master thief | 11.00% | ~33 |
+| The traveler | 8.00% | ~24 |
+| Terror of the hens | 8.00% | ~24 |
+| Expert | 8.00% | ~24 |
+| King of the handymen | 8.00% | ~24 |
+| Moneybags | 6.00% | ~18 |
+| Rune master | 4.00% | ~12 |
+| King Midas | 4.00% | ~12 |
+| Big game hunter | 3.00% | ~9 |
+| Fervent swimmer | 3.00% | ~9 |
+| Jester | 3.00% | ~9 |
+| Sharpshooter | 2.00% | ~6 |
 | Mage | 1.00% | ~3 |
-| Sharpshooter | 1.00% | ~3 |
 | Gladiator | 0.70% | ~2 |
 | Master of the classes | 0.70% | ~2 |
 | Weaponsmith | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 276 (Ranked 456)  
-Completed: 1 (0.36%) (Ranked 279)  
+Progressed: 300 (Ranked 456)  
+Completed: 1 (0.33%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,6 +145,7 @@ Completed: 1 (0.36%) (Ranked 279)
 | 2024-01-27 | 222 | 0 |
 | 2024-02-22 | 248 | 1 |
 | 2024-03-21 | 276 | 1 |
+| 2024-04-10 | 300 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

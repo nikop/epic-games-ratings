@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 4.00% | ~35 |
-| Half a Life | 2.00% | ~18 |
-| Shock to the System | 2.00% | ~18 |
-| Bad Blood | 1.00% | ~9 |
-| Serious Bam | 0.90% | ~8 |
-| Doomed | 0.60% | ~5 |
-| Postal Service | 0.60% | ~5 |
-| Unreal | 0.60% | ~5 |
-| Bloodstorm | 0.50% | ~4 |
-| Pacifantastic | 0.50% | ~4 |
-| SCATHE Too | 0.50% | ~4 |
+| First Blood | 3.00% | ~30 |
+| Half a Life | 2.00% | ~20 |
+| Shock to the System | 2.00% | ~20 |
+| Bad Blood | 1.00% | ~10 |
+| Serious Bam | 0.80% | ~8 |
+| Doomed | 0.50% | ~5 |
+| Postal Service | 0.50% | ~5 |
+| Unreal | 0.50% | ~5 |
+| Bloodstorm | 0.40% | ~4 |
+| Pacifantastic | 0.40% | ~4 |
+| SCATHE Too | 0.40% | ~4 |
 | Amaging Work | 0.30% | ~3 |
 | ...And I'm All Out Of Gun | 0.30% | ~3 |
 | Castle Of The Wolf | 0.30% | ~3 |
@@ -35,8 +35,8 @@
 | Rage Quit | 0.10% | ~1 |
 | Until Dusk | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 885 (Ranked 341)  
-Completed: 1 (0.11%) (Ranked 350)  
+Progressed: 1,008 (Ranked 348)  
+Completed: 1 (0.10%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,6 +234,7 @@ Completed: 1 (0.11%) (Ranked 350)
 | 2024-01-27 | 699 | 1 |
 | 2024-02-22 | 786 | 1 |
 | 2024-03-21 | 885 | 1 |
+| 2024-04-10 | 1,008 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

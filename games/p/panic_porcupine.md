@@ -18,8 +18,8 @@
 | Rapid Reincarnation | 0.00% | ~0 |
 | Saw Speedrun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 818)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 4 (Ranked 840)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

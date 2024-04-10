@@ -5,10 +5,10 @@
   "Ranking_Rating": 1059,
   "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 287,
-  "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 27,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1753,7 +1753,7 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 22401,
+  "EOS_Progressed": 755320,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -15278,6 +15278,11 @@
       "Time": "2024-03-21T17:09:46.3904015+00:00",
       "NumProgressed": 22401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:04:21.0901318+00:00",
+      "NumProgressed": 755320,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -15287,129 +15292,129 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 27,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6048
+      "UsersEstimate": 604256
     },
     {
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 13,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 2912
+      "UsersEstimate": 385213
     },
     {
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 16,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 3584
+      "UsersEstimate": 422979
     },
     {
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 6,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1344
+      "UsersEstimate": 219043
     },
     {
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 0.9,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 113298
     },
     {
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 4,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 203936
     },
     {
       "ID": "ACHIEVEMENT_007",
       "SetID": "1a05lfd",
       "Name": "More Fish in the Sea",
-      "Percentage": 18,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 4032
+      "UsersEstimate": 483405
     },
     {
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 10,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 2240
+      "UsersEstimate": 324788
     },
     {
       "ID": "ACHIEVEMENT_009",
       "SetID": "1a05lfd",
       "Name": "Things that go Splash in the Night",
-      "Percentage": 0.6,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 105745
     },
     {
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 0.1,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 45319
     },
     {
       "ID": "ACHIEVEMENT_011",
       "SetID": "1a05lfd",
       "Name": "More than a Tourist",
-      "Percentage": 0.1,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 6043
     },
     {
       "ID": "ACHIEVEMENT_012",
       "SetID": "1a05lfd",
       "Name": "I\u0027m the Captain Now",
-      "Percentage": 0.4,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 30213
     },
     {
       "ID": "ACHIEVEMENT_013",
       "SetID": "1a05lfd",
       "Name": "Hook, Line and Sinker",
-      "Percentage": 0.1,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 6043
     },
     {
       "ID": "ACHIEVEMENT_014",
       "SetID": "1a05lfd",
       "Name": "Goldfish?",
-      "Percentage": 2,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 98192
     },
     {
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 1,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 90638
     },
     {
       "ID": "ACHIEVEMENT_016",
       "SetID": "1a05lfd",
       "Name": "School\u0027s Out for Summer",
-      "Percentage": 0.1,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 45319
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -15417,15 +15422,15 @@
       "Name": "Head for Heights",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_018",
       "SetID": "1a05lfd",
       "Name": "The Beetles",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 1511
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -15433,39 +15438,39 @@
       "Name": "Lake Me up Before You Go Go",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_020",
       "SetID": "1a05lfd",
       "Name": "Marathon",
-      "Percentage": 0.1,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 5287
     },
     {
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 0.1,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 30213
     },
     {
       "ID": "ACHIEVEMENT_022",
       "SetID": "1a05lfd",
       "Name": "Diamond in the Rough",
-      "Percentage": 0.2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 22660
     },
     {
       "ID": "ACHIEVEMENT_023",
       "SetID": "1a05lfd",
       "Name": "No Fin left to give",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -15479,33 +15484,33 @@
       "ID": "ACHIEVEMENT_025",
       "SetID": "1a05lfd",
       "Name": "Taylor Made",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACHIEVEMENT_026",
       "SetID": "1a05lfd",
       "Name": "Big Fish Small Pond",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACHIEVEMENT_027",
       "SetID": "1a05lfd",
       "Name": "Lost and Flounder",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_028",
       "SetID": "1a05lfd",
       "Name": "Golden Ridge Ranger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 1511
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -15513,15 +15518,15 @@
       "Name": "Buckaroo",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_030",
       "SetID": "1a05lfd",
       "Name": "Gonna Need a Bigger Boat",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 2266
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -15529,23 +15534,23 @@
       "Name": "Rod and Troll",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_033",
       "SetID": "6jk25od",
       "Name": "Norway Jose",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_034",
       "SetID": "6jk25od",
       "Name": "Trollsporet Tale Teller",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -15553,7 +15558,7 @@
       "Name": "Fish upon a Star",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_036",
@@ -15561,7 +15566,7 @@
       "Name": "Cache and Carry",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_037",
@@ -15577,7 +15582,7 @@
       "Name": "Live by the Rod, Diez by the Rod!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -15585,7 +15590,7 @@
       "Name": "Aguas Claras Conquistador",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -15593,7 +15598,7 @@
       "Name": "All Good Kings Must Come to an End",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_041",
@@ -15601,15 +15606,15 @@
       "Name": "Three Square Meals",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_042",
       "SetID": "6jk25od",
       "Name": "A Rod for your own back",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_043",
@@ -15617,7 +15622,7 @@
       "Name": "Izi does it",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_044",
@@ -15625,7 +15630,7 @@
       "Name": "Paleontologist",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_045",
@@ -15633,7 +15638,7 @@
       "Name": "Snap Happy",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHIEVEMENT_046",
@@ -15641,20 +15646,20 @@
       "Name": "Club Crawl",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 755
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 22401,
+      "Progressed": 755320,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 21773,
+      "Progressed": 754692,
       "Completed": 113
     }
   ],
@@ -15662,8 +15667,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-04-09T23:58:17.8961764+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:46.3904009+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:21.0901312+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:20.6321061+00:00",
-  "LastUpdate_Ratings": "2024-04-10T05:00:02.47565+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:46.3904847+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:48.8381014+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:21.0902059+00:00"
 }

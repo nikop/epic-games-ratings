@@ -2,10 +2,10 @@
   "ID": "3876cf5c14134c79a4d1c73b693f1e86",
   "Name": "100 Doors Escape: Let me In!",
   "ProductSlug": "100-doors-escape-let-me-in-06e42a",
-  "Ranking_EOS_Progress": 807,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-19T23:00:00+00:00",
     "PcReleaseDate": "2024-03-19T23:00:00+00:00",
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -32,6 +32,11 @@
     {
       "Time": "2024-03-21T17:05:29.5321968+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:02:01.4876716+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -43,17 +48,17 @@
       "ID": "ach_complete_10 levels_completed",
       "SetID": "66a4bp4",
       "Name": "Clever thinking!",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_complete_30 levels_completed",
       "SetID": "66a4bp4",
       "Name": "Brilliant mind!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_complete_tutorial",
@@ -61,31 +66,31 @@
       "Name": "Welcome aboard!",
       "Percentage": 100,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_hint_3 hints_used",
       "SetID": "66a4bp4",
       "Name": "A helping hand!",
-      "Percentage": 60,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_hint_6 hints_used",
       "SetID": "66a4bp4",
       "Name": "Supported success!",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_hint_9 hints_used",
       "SetID": "66a4bp4",
       "Name": "Together is better!",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_items_50 items_collected",
@@ -99,38 +104,38 @@
       "ID": "ach_skip_1 skips_used",
       "SetID": "66a4bp4",
       "Name": "Keep moving on!",
-      "Percentage": 60,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_skip_3 skips_used",
       "SetID": "66a4bp4",
       "Name": "Advance further!",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_skip_5 skips_used",
       "SetID": "66a4bp4",
       "Name": "Skip and conquer!",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "66a4bp4",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:05:29.5322047+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:29.5321961+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:01.4876711+00:00",
   "LastUpdate_AppInfo": "2024-04-04T01:39:52.6895115+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:10.9678784+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:29.533265+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:55.6752828+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:01.4877177+00:00"
 }

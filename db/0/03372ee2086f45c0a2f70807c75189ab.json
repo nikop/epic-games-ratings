@@ -2,10 +2,10 @@
   "ID": "03372ee2086f45c0a2f70807c75189ab",
   "Name": "Bulwark: Falconeer Chronicles",
   "ProductSlug": "bulwark-falconeer-chronicles-72b9dd",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 694,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-26T00:00:00+00:00",
     "PcReleaseDate": "2024-03-27T17:00:00+00:00",
@@ -24,27 +24,227 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-10T06:03:00.3915522+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-04-10T06:03:00.3915558+00:00",
+  "TotalAchievements": 24,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "bhkck8",
+      "Name": "Ursee Inhabitant",
+      "Percentage": 55,
+      "XP": 20,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "10",
+      "SetID": "bhkck8",
+      "Name": "Resource Abundant",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "bhkck8",
+      "Name": "Ursee Town",
+      "Percentage": 12,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "12",
+      "SetID": "bhkck8",
+      "Name": "Ursee City",
+      "Percentage": 3,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "13",
+      "SetID": "bhkck8",
+      "Name": "Ursee Megacity",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "bhkck8",
+      "Name": "Battle Ready",
+      "Percentage": 6,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "15",
+      "SetID": "bhkck8",
+      "Name": "Battle Experienced",
+      "Percentage": 9,
+      "XP": 40,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "16",
+      "SetID": "bhkck8",
+      "Name": "Battle Hardened",
+      "Percentage": 9,
+      "XP": 60,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "17",
+      "SetID": "bhkck8",
+      "Name": "Flying Fortress",
+      "Percentage": 3,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "18",
+      "SetID": "bhkck8",
+      "Name": "For Unrule and Freedom!",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "19",
+      "SetID": "bhkck8",
+      "Name": "For Peace and Stability!",
+      "Percentage": 21,
+      "XP": 30,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "2",
+      "SetID": "bhkck8",
+      "Name": "The Stone Age",
+      "Percentage": 88,
+      "XP": 20,
+      "UsersEstimate": 29
+    },
+    {
+      "ID": "20",
+      "SetID": "bhkck8",
+      "Name": "For Expansion and Power!",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "21",
+      "SetID": "bhkck8",
+      "Name": "For Technology and Science!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "bhkck8",
+      "Name": "Movement of Goods",
+      "Percentage": 3,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "23",
+      "SetID": "bhkck8",
+      "Name": "Industry Leader",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "24",
+      "SetID": "bhkck8",
+      "Name": "Ursee Balance Restored",
+      "Percentage": 3,
+      "XP": 80,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "3",
+      "SetID": "bhkck8",
+      "Name": "The Iron Age",
+      "Percentage": 58,
+      "XP": 20,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "4",
+      "SetID": "bhkck8",
+      "Name": "Expansionism",
+      "Percentage": 39,
+      "XP": 20,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "5",
+      "SetID": "bhkck8",
+      "Name": "Industrialist",
+      "Percentage": 12,
+      "XP": 40,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "6",
+      "SetID": "bhkck8",
+      "Name": "Naval Powerhouse",
+      "Percentage": 15,
+      "XP": 40,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "7",
+      "SetID": "bhkck8",
+      "Name": "Battlement Powerhouse",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "bhkck8",
+      "Name": "Skyscraper",
+      "Percentage": 3,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "9",
+      "SetID": "bhkck8",
+      "Name": "No Area Untouched",
+      "Percentage": 9,
+      "XP": 70,
+      "UsersEstimate": 3
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bhkck8",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-29T04:57:03.2683464+00:00",
   "FirstSeenAchievements": "2023-12-20T17:03:22.6774631+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:21.0903835+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:00.3915516+00:00",
   "LastUpdate_AppInfo": "2024-04-04T01:39:52.7091362+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:07.4217429+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:21.0903871+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:52.2679359+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:00.3923226+00:00"
 }

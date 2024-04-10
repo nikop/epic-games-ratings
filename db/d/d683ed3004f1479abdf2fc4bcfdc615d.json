@@ -2,10 +2,10 @@
   "ID": "d683ed3004f1479abdf2fc4bcfdc615d",
   "Name": "Eigengrau",
   "ProductSlug": "eigengrau-62aef0",
-  "Ranking_EOS_Progress": 807,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 817,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-03T10:00:00+00:00",
     "PcReleaseDate": "2023-06-04T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -53,6 +53,11 @@
     {
       "Time": "2024-03-21T17:06:15.9508131+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:02:25.7068431+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -95,9 +100,9 @@
       "ID": "PROGRESS_00",
       "SetID": "2122228",
       "Name": "The Blade of Beginning",
-      "Percentage": -20,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "PROGRESS_01",
@@ -592,20 +597,20 @@
     {
       "ID": "2122228",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     },
     {
       "ID": "2h64pjh",
       "IsBase": false,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T11:00:58.826137+00:00",
   "FirstSeenAchievements": "2023-06-17T23:00:57.8989714+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:15.9508025+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:25.7068421+00:00",
   "LastUpdate_AppInfo": "2024-04-07T23:57:08.3437335+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:33.2649016+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:15.9509146+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:19.9126771+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:25.7069021+00:00"
 }

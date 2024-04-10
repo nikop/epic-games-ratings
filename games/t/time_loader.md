@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 58.00% | ~91 |
-| Springs | 55.00% | ~86 |
-| Soap | 38.00% | ~60 |
-| Purr-fect | 32.00% | ~50 |
-| Capacitors | 31.00% | ~49 |
-| Act 1 | 31.00% | ~49 |
-| Wrench | 30.00% | ~47 |
-| Mug | 27.00% | ~42 |
-| Soldering iron | 27.00% | ~42 |
-| Robot Bros | 22.00% | ~35 |
+| Screwdriver | 57.00% | ~91 |
+| Springs | 54.00% | ~86 |
+| Soap | 37.00% | ~59 |
+| Purr-fect | 32.00% | ~51 |
+| Act 1 | 31.00% | ~50 |
+| Capacitors | 30.00% | ~48 |
+| Wrench | 29.00% | ~46 |
+| Mug | 27.00% | ~43 |
+| Soldering iron | 26.00% | ~42 |
 | Act 2 | 22.00% | ~35 |
-| Act 3 | 20.00% | ~31 |
-| Cassette | 18.00% | ~28 |
-| Harpoon | 18.00% | ~28 |
-| Here we go again | 17.00% | ~27 |
+| Robot Bros | 21.00% | ~34 |
+| Act 3 | 19.00% | ~30 |
+| Cassette | 18.00% | ~29 |
+| Harpoon | 18.00% | ~29 |
+| Here we go again | 16.00% | ~26 |
 | Flyer | 15.00% | ~24 |
 | It’s in the Vault | 14.00% | ~22 |
 | Dr. Antivirus | 14.00% | ~22 |
-| Ticket | 13.00% | ~20 |
-| Access protocol | 13.00% | ~20 |
-| Time Capsule | 11.00% | ~17 |
-| Photo | 11.00% | ~17 |
-| Baseball | 10.00% | ~16 |
+| Ticket | 13.00% | ~21 |
+| Access protocol | 13.00% | ~21 |
+| Time Capsule | 11.00% | ~18 |
+| Photo | 11.00% | ~18 |
 | Contract | 9.00% | ~14 |
+| Baseball | 9.00% | ~14 |
 | New Dawn | 9.00% | ~14 |
 | VHS blogger | 8.00% | ~13 |
 | Out of the loop | 8.00% | ~13 |
 | Secret ending | 8.00% | ~13 |
-| Leave me alone | 6.00% | ~9 |
+| Leave me alone | 6.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157 (Ranked 512)  
-Completed: 9 (5.73%) (Ranked 79)  
+Progressed: 160 (Ranked 525)  
+Completed: 9 (5.62%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,6 +87,7 @@ Completed: 9 (5.73%) (Ranked 79)
 | 2024-01-24 | 147 | 9 |
 | 2024-01-27 | 148 | 9 |
 | 2024-03-21 | 157 | 9 |
+| 2024-04-10 | 160 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

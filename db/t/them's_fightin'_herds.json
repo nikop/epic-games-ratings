@@ -5,10 +5,10 @@
   "Ranking_Rating": 465,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 541,
-  "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 85,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -425,7 +425,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 237695,
+  "EOS_Progressed": 238258,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -29005,6 +29005,11 @@
       "Time": "2024-03-21T17:06:51.481918+00:00",
       "NumProgressed": 237695,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-04-10T06:02:44.8516764+00:00",
+      "NumProgressed": 238258,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 28,
@@ -29080,7 +29085,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 85570
+      "UsersEstimate": 85773
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -29088,7 +29093,7 @@
       "Name": "Kickin\u0027 \u0027n Stompin\u0027",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 475
+      "UsersEstimate": 477
     },
     {
       "ID": "COMPLETE_ARCADE_OLEANDER_GREENHORN",
@@ -29152,7 +29157,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2383
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -29160,7 +29165,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 80816
+      "UsersEstimate": 81008
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -29176,7 +29181,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49916
+      "UsersEstimate": 50034
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -29184,7 +29189,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7131
+      "UsersEstimate": 7148
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -29200,7 +29205,7 @@
       "Name": "Sin\u0027er Man",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 475
+      "UsersEstimate": 477
     },
     {
       "ID": "UNLOCK_ALL_TROPHIES",
@@ -29216,7 +29221,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9508
+      "UsersEstimate": 9530
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -29224,7 +29229,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40408
+      "UsersEstimate": 40504
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -29232,14 +29237,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2377
+      "UsersEstimate": 2383
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 237695,
+      "Progressed": 238258,
       "Completed": 7
     }
   ],
@@ -29247,8 +29252,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-04-06T03:01:43.6241393+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:51.4819173+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:44.8516759+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:46.6346847+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:56.66444+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:51.4820792+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:43.4124605+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:44.8518412+00:00"
 }

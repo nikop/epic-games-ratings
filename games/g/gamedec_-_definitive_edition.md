@@ -6,61 +6,61 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~76,242 |
-| Powergamer | 27.00% | ~70,984 |
-| Write that down | 25.00% | ~65,726 |
-| Barely scratched the surface | 25.00% | ~65,726 |
-| Guns, lots of guns | 13.00% | ~34,177 |
-| Collector | 12.00% | ~31,548 |
-| Elementary! | 9.00% | ~23,661 |
-| Griever | 8.00% | ~21,032 |
-| Pumpkin Jack | 8.00% | ~21,032 |
-| Wake up! | 8.00% | ~21,032 |
-| It's honest work | 7.00% | ~18,403 |
-| Me smart | 6.00% | ~15,774 |
-| Trash compactor | 6.00% | ~15,774 |
-| Valedictorian | 6.00% | ~15,774 |
-| Good listener | 5.00% | ~13,145 |
-| BOY! | 4.00% | ~10,516 |
-| Ka-ching! | 4.00% | ~10,516 |
-| So you like to read? | 4.00% | ~10,516 |
-| Hoarder | 3.00% | ~7,887 |
-| I like to sniff around | 3.00% | ~7,887 |
-| Mind reader | 3.00% | ~7,887 |
-| Catnip | 2.00% | ~5,258 |
-| Gentleman's classic | 2.00% | ~5,258 |
-| Is that a rift? | 2.00% | ~5,258 |
-| It's alive! | 2.00% | ~5,258 |
-| Enjoy the beach | 2.00% | ~5,258 |
-| Rinse and repeat | 2.00% | ~5,258 |
-| Mama, I'm a criminal | 2.00% | ~5,258 |
-| Never gonna give you up | 2.00% | ~5,258 |
-| A muscle to rely on | 1.00% | ~2,629 |
-| A true blacksmith | 1.00% | ~2,629 |
-| I am in great pain, please help me | 1.00% | ~2,629 |
-| High noon | 1.00% | ~2,629 |
-| Random encounter | 1.00% | ~2,629 |
-| SysOp on duty | 1.00% | ~2,629 |
-| Take the blue pill | 1.00% | ~2,629 |
-| The power of three | 1.00% | ~2,629 |
-| Let's try another | 0.90% | ~2,366 |
-| It's blue, always blue | 0.80% | ~2,103 |
-| Home run | 0.80% | ~2,103 |
-| I have the high ground | 0.70% | ~1,840 |
-| Who wouldn't love a troll? | 0.60% | ~1,577 |
-| Enjoy these little moments | 0.50% | ~1,315 |
-| Irondec | 0.40% | ~1,052 |
-| LET ME OUT! | 0.40% | ~1,052 |
-| Un-bear-able | 0.40% | ~1,052 |
-| Well-deserved reunion | 0.30% | ~789 |
-| Breaking the chains | 0.20% | ~526 |
-| Aren't you overthinking? | 0.20% | ~526 |
-| Take the red pill | 0.20% | ~526 |
-| This is the way | 0.20% | ~526 |
-| Memory 5 | 0.10% | ~263 |
+| I will finish what you started | 29.00% | ~76,603 |
+| Powergamer | 27.00% | ~71,320 |
+| Write that down | 25.00% | ~66,037 |
+| Barely scratched the surface | 25.00% | ~66,037 |
+| Guns, lots of guns | 13.00% | ~34,339 |
+| Collector | 12.00% | ~31,698 |
+| Elementary! | 9.00% | ~23,773 |
+| Wake up! | 9.00% | ~23,773 |
+| Griever | 8.00% | ~21,132 |
+| Pumpkin Jack | 8.00% | ~21,132 |
+| It's honest work | 7.00% | ~18,490 |
+| Me smart | 6.00% | ~15,849 |
+| Trash compactor | 6.00% | ~15,849 |
+| Valedictorian | 6.00% | ~15,849 |
+| Good listener | 5.00% | ~13,207 |
+| BOY! | 4.00% | ~10,566 |
+| Ka-ching! | 4.00% | ~10,566 |
+| So you like to read? | 4.00% | ~10,566 |
+| Hoarder | 3.00% | ~7,924 |
+| I like to sniff around | 3.00% | ~7,924 |
+| Mind reader | 3.00% | ~7,924 |
+| Catnip | 2.00% | ~5,283 |
+| Gentleman's classic | 2.00% | ~5,283 |
+| Is that a rift? | 2.00% | ~5,283 |
+| It's alive! | 2.00% | ~5,283 |
+| Enjoy the beach | 2.00% | ~5,283 |
+| Rinse and repeat | 2.00% | ~5,283 |
+| Mama, I'm a criminal | 2.00% | ~5,283 |
+| Never gonna give you up | 2.00% | ~5,283 |
+| A muscle to rely on | 1.00% | ~2,641 |
+| A true blacksmith | 1.00% | ~2,641 |
+| I am in great pain, please help me | 1.00% | ~2,641 |
+| High noon | 1.00% | ~2,641 |
+| Random encounter | 1.00% | ~2,641 |
+| SysOp on duty | 1.00% | ~2,641 |
+| Take the blue pill | 1.00% | ~2,641 |
+| The power of three | 1.00% | ~2,641 |
+| Let's try another | 0.90% | ~2,377 |
+| It's blue, always blue | 0.80% | ~2,113 |
+| Home run | 0.80% | ~2,113 |
+| I have the high ground | 0.70% | ~1,849 |
+| Who wouldn't love a troll? | 0.60% | ~1,585 |
+| Enjoy these little moments | 0.50% | ~1,321 |
+| Irondec | 0.40% | ~1,057 |
+| LET ME OUT! | 0.40% | ~1,057 |
+| Un-bear-able | 0.40% | ~1,057 |
+| Well-deserved reunion | 0.30% | ~792 |
+| Breaking the chains | 0.20% | ~528 |
+| Aren't you overthinking? | 0.20% | ~528 |
+| Take the red pill | 0.20% | ~528 |
+| This is the way | 0.20% | ~528 |
+| Memory 5 | 0.10% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262,902 (Ranked 72)  
-Completed: 8 (0.00%) (Ranked 446)  
+Progressed: 264,148 (Ranked 73)  
+Completed: 8 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,6 +343,7 @@ Completed: 8 (0.00%) (Ranked 446)
 | 2024-01-26 | 258,919 | 8 |
 | 2024-01-27 | 258,969 | 8 |
 | 2024-03-21 | 262,902 | 8 |
+| 2024-04-10 | 264,148 | 8 |
 ## Awards
 Max (Character Customization): 103  (Ranked 398)  
 Sum: 103 (Ranked 502)  

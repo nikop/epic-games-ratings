@@ -2,10 +2,10 @@
   "ID": "b7abf2d38e8c4442add0d27e6e47bd8a",
   "Name": "The Lullaby of Life",
   "ProductSlug": "the-lullaby-of-life-0c5767",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:06:02.9588374+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:02.9588355+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:18.6675846+00:00",
   "LastUpdate_AppInfo": "2024-04-04T05:57:00.2985259+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:29.7238044+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:02.958839+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:47.9597409+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:18.6675879+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "8e8e69a4f240487d89727df7761c5362",
   "Name": "Wavecade",
   "ProductSlug": "wavecade-524f65",
-  "Ranking_EOS_Progress": 765,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 783,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-08T22:00:00+00:00",
     "PcReleaseDate": "2022-07-10T02:00:00+00:00",
@@ -190,9 +190,9 @@
       "ID": "NADE_EXPLOSION_100_BLOCKS",
       "SetID": "20afpoi",
       "Name": "Block explosion",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "POWERUP_CHAIN_10",
@@ -269,8 +269,8 @@
   ],
   "FirstSeen": "2024-03-09T11:56:55.6967413+00:00",
   "FirstSeenAchievements": "2024-01-21T05:04:33.1914543+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:03:09.9994071+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:44.7483212+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:55.1829304+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:04.7443076+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:03:09.9994244+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:50.941285+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:44.7483376+00:00"
 }

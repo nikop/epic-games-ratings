@@ -2,10 +2,10 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
-  "Ranking_EOS_Progress": 371,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 698,
+  "EOS_Progressed": 704,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1374,6 +1374,11 @@
       "Time": "2024-03-21T17:11:43.0494523+00:00",
       "NumProgressed": 698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:35.925543+00:00",
+      "NumProgressed": 704,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1401,7 +1406,7 @@
       "Name": "Fireball",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 324
     },
     {
       "ID": "DashDashDash",
@@ -1409,7 +1414,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 408
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1537,7 +1542,7 @@
       "Name": "Air Slash",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 232
     },
     {
       "ID": "OhNo",
@@ -1665,7 +1670,7 @@
       "Name": "Dash Crash",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 528
     },
     {
       "ID": "World2Boss",
@@ -1673,7 +1678,7 @@
       "Name": "Snake Eyes",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 429
     },
     {
       "ID": "World3Boss",
@@ -1681,7 +1686,7 @@
       "Name": "The King of Flat",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 317
     },
     {
       "ID": "World4Boss",
@@ -1689,7 +1694,7 @@
       "Name": "Hit That Ball",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 246
     },
     {
       "ID": "World5Boss",
@@ -1697,7 +1702,7 @@
       "Name": "Eat That Apple",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "World6Boss",
@@ -1705,15 +1710,15 @@
       "Name": "Tornado Chaser",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "World7Boss",
       "SetID": "d9ekhim",
       "Name": "Bomberman",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 84
     },
     {
       "ID": "World8Boss",
@@ -1727,16 +1732,16 @@
       "ID": "World9Boss",
       "SetID": "d9ekhim",
       "Name": "Pim Pam Pum",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 698,
+      "Progressed": 704,
       "Completed": 0
     }
   ],
@@ -1744,8 +1749,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:43.0494516+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:35.9255422+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:21.9302835+00:00",
-  "LastUpdate_Ratings": "2024-04-10T05:00:05.4908057+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:43.0494866+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:52.1699133+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:35.9255761+00:00"
 }

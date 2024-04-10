@@ -2,10 +2,10 @@
   "ID": "02110c7cc56a4833b8a3765470e1d41b",
   "Name": "RECALL",
   "ProductSlug": "recall-113630",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-01-17T17:00:00+00:00",
     "PcReleaseDate": "2023-01-17T17:00:00+00:00",
@@ -35,6 +35,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-15T19:59:11.9788201+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:06.925006+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:14.4058231+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:03:21.8654086+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:59.170583+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:45.6834925+00:00"
 }

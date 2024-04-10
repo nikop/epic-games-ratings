@@ -2,10 +2,10 @@
   "ID": "c5fe11872c2c407baee53f1a1a9131ed",
   "Name": "SPINGUN",
   "ProductSlug": "spingun-843f78",
-  "Ranking_EOS_Progress": 502,
-  "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 175,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-06-02T21:05:45.2718961+00:00",
@@ -809,6 +809,11 @@
       "Time": "2024-03-21T17:09:10.396222+00:00",
       "NumProgressed": 173,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:04:01.1142154+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -828,7 +833,7 @@
       "Name": "Won Super Boss",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_boss3_zone",
@@ -876,7 +881,7 @@
       "Name": "Customize Ship",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_endless_120",
@@ -884,15 +889,15 @@
       "Name": "Endless 2 Minutes",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 118
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_endless_60",
@@ -908,7 +913,7 @@
       "Name": "Endless Cursed 60 Seconds",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_endless_h_30",
@@ -956,7 +961,7 @@
       "Name": "Lots o\u0027 Kills",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_pacifist",
@@ -996,7 +1001,7 @@
       "Name": "Won Sploder Zone",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_spreader_zone",
@@ -1027,14 +1032,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 175,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:10.3962213+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:01.1142149+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:06.139055+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:32.8658437+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:10.3962475+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:19.5297971+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:01.1142353+00:00"
 }

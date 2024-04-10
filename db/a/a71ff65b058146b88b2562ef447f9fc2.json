@@ -2,10 +2,10 @@
   "ID": "a71ff65b058146b88b2562ef447f9fc2",
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2017-08-20T21:00:00+00:00",
@@ -31,11 +31,429 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-04-10T06:01:54.2825872+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 2000,
+  "Achievements": [
+    {
+      "ID": "achievement_1",
+      "SetID": "61nni0j",
+      "Name": "Operations",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_10",
+      "SetID": "61nni0j",
+      "Name": "Decorated",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_11",
+      "SetID": "61nni0j",
+      "Name": "Friends in High Places",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_12",
+      "SetID": "61nni0j",
+      "Name": "Nothing is Written",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_13",
+      "SetID": "61nni0j",
+      "Name": "Through Mud and Blood",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_14",
+      "SetID": "61nni0j",
+      "Name": "Avanti Savoia!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_15",
+      "SetID": "61nni0j",
+      "Name": "The Runner",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_16",
+      "SetID": "61nni0j",
+      "Name": "Taking down giants",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_17",
+      "SetID": "61nni0j",
+      "Name": "All men dream",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_18",
+      "SetID": "61nni0j",
+      "Name": "Sound of thunder",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_19",
+      "SetID": "61nni0j",
+      "Name": "Conquering the mountains",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_2",
+      "SetID": "61nni0j",
+      "Name": "Counter-sniper",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_20",
+      "SetID": "61nni0j",
+      "Name": "The hills of Gallipoli",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_21",
+      "SetID": "61nni0j",
+      "Name": "Up close and personal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_22",
+      "SetID": "61nni0j",
+      "Name": "Mightier than the shovel",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_23",
+      "SetID": "61nni0j",
+      "Name": "Shock Wave",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_24",
+      "SetID": "61nni0j",
+      "Name": "Triple Boluk-Bashi",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_25",
+      "SetID": "61nni0j",
+      "Name": "The Great War",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_26",
+      "SetID": "61nni0j",
+      "Name": "The War to End All Wars",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_27",
+      "SetID": "61nni0j",
+      "Name": "Catching up on some reading",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_28",
+      "SetID": "61nni0j",
+      "Name": "Enough for a library",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_29",
+      "SetID": "61nni0j",
+      "Name": "Up to the challenge",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_3",
+      "SetID": "61nni0j",
+      "Name": "Play the Objective",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_30",
+      "SetID": "61nni0j",
+      "Name": "Putting in the effort",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_31",
+      "SetID": "61nni0j",
+      "Name": "Master of adaptation",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_32",
+      "SetID": "cbf4mmj",
+      "Name": "French War Hero",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_33",
+      "SetID": "cbf4mmj",
+      "Name": "Drei Vier Grenadier",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_34",
+      "SetID": "cbf4mmj",
+      "Name": "Saint Chamond Operator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_35",
+      "SetID": "cbf4mmj",
+      "Name": "Ma\u00EEtre d\u0027Armes",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_36",
+      "SetID": "cbf4mmj",
+      "Name": "The Revolution is Coming",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_37",
+      "SetID": "cbf4mmj",
+      "Name": "Charged into Battle",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_38",
+      "SetID": "cbf4mmj",
+      "Name": "Secured the Resources",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_39",
+      "SetID": "cbf4mmj",
+      "Name": "Endured the Winter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_4",
+      "SetID": "61nni0j",
+      "Name": "Warbonds",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_40",
+      "SetID": "cbf4mmj",
+      "Name": "Filled the Stockpile",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_41",
+      "SetID": "cbf4mmj",
+      "Name": "Rough Seas",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_42",
+      "SetID": "cbf4mmj",
+      "Name": "Serve With Honor",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_43",
+      "SetID": "cbf4mmj",
+      "Name": "Become Operational",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_44",
+      "SetID": "cbf4mmj",
+      "Name": "The Power in These Waters",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_45",
+      "SetID": "cbf4mmj",
+      "Name": "Naval Weapons Collection",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_46",
+      "SetID": "cbf4mmj",
+      "Name": "Firefighter",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_47",
+      "SetID": "cbf4mmj",
+      "Name": "Advanced Studies",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_48",
+      "SetID": "cbf4mmj",
+      "Name": "Modern Technology",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_49",
+      "SetID": "cbf4mmj",
+      "Name": "Flyswatter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_5",
+      "SetID": "61nni0j",
+      "Name": "Corporal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_50",
+      "SetID": "cbf4mmj",
+      "Name": "Weapons of the Apocalypse",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_6",
+      "SetID": "61nni0j",
+      "Name": "Assault Enlistment",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_7",
+      "SetID": "61nni0j",
+      "Name": "Medic Enlistment",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_8",
+      "SetID": "61nni0j",
+      "Name": "Scout Enlistment",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_9",
+      "SetID": "61nni0j",
+      "Name": "Support Enlistment",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "61nni0j",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    },
+    {
+      "ID": "cbf4mmj",
+      "IsBase": false,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
+  "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:01:54.2825831+00:00",
   "LastUpdate_AppInfo": "2024-04-04T15:58:39.8221938+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:55.5705625+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:40.816084+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:54.2834372+00:00"
 }

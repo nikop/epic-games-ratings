@@ -2,10 +2,10 @@
   "ID": "0bcd77c68cff407a9628730bb61f639d",
   "Name": "Repression",
   "ProductSlug": "repression-28d3dc",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-08T18:57:27.5509396+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:21.6215406+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:58.4368315+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:40.8016083+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:44.1171314+00:00"
 }

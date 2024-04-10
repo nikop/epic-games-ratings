@@ -5,45 +5,45 @@ Rating: 4.59 (Ranked 465)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 8.00% | ~199 |
-| Become King | 7.00% | ~174 |
-| Ranged Weapon | 6.00% | ~149 |
-| Defeat 25 Frogs | 6.00% | ~149 |
-| Collect Iron Ore | 5.00% | ~124 |
-| Collect Monster Parts | 5.00% | ~124 |
-| Two Handed Weapon | 5.00% | ~124 |
-| Defeat 25 Grubs | 5.00% | ~124 |
-| Kitchen Ready To Cook | 5.00% | ~124 |
-| Rescue Redgi's Brothers | 5.00% | ~124 |
-| Collect Gold | 4.00% | ~99 |
-| Complete Elder Faction | 4.00% | ~99 |
-| End of the Mozis | 4.00% | ~99 |
-| Fix the Travellers Wagon | 4.00% | ~99 |
-| Defeat 25 Mozis | 4.00% | ~99 |
-| Meet the Creatures from the Deep | 4.00% | ~99 |
-| Smithy Ready to Craft | 4.00% | ~99 |
-| Throne Room Fit For A King | 4.00% | ~99 |
-| Return Power To The Depths | 4.00% | ~99 |
-| Defeat Croakhis Khan | 4.00% | ~45 |
-| Shield Maiden Yellow Tongue | 4.00% | ~45 |
-| The Bright Fir | 4.00% | ~45 |
-| Return the Statues | 3.00% | ~75 |
-| Complete the Chefs Book | 3.00% | ~75 |
-| Defeat Ratnor Rodentson | 3.00% | ~75 |
-| Defeat Rattus Augustail | 3.00% | ~75 |
-| Defeat the Grub Buster | 3.00% | ~34 |
-| Defeat the Stalker Queen | 3.00% | ~34 |
-| I Remember My First Beer | 3.00% | ~34 |
+| Complete Guard Faction | 10.00% | ~252 |
+| Become King | 8.00% | ~202 |
+| Ranged Weapon | 7.00% | ~177 |
+| Defeat 25 Frogs | 7.00% | ~177 |
+| Collect Iron Ore | 6.00% | ~152 |
+| Collect Monster Parts | 6.00% | ~152 |
+| Two Handed Weapon | 6.00% | ~152 |
+| Defeat 25 Grubs | 6.00% | ~152 |
+| Kitchen Ready To Cook | 6.00% | ~152 |
+| Rescue Redgi's Brothers | 6.00% | ~152 |
+| Collect Gold | 5.00% | ~126 |
+| Complete Elder Faction | 5.00% | ~126 |
+| End of the Mozis | 5.00% | ~126 |
+| Fix the Travellers Wagon | 5.00% | ~126 |
+| Defeat 25 Mozis | 5.00% | ~126 |
+| Smithy Ready to Craft | 5.00% | ~126 |
+| Throne Room Fit For A King | 5.00% | ~126 |
+| The Bright Fir | 5.00% | ~58 |
+| Defeat Ratnor Rodentson | 4.00% | ~101 |
+| Meet the Creatures from the Deep | 4.00% | ~101 |
+| Return Power To The Depths | 4.00% | ~101 |
+| Defeat Croakhis Khan | 4.00% | ~47 |
+| Shield Maiden Yellow Tongue | 4.00% | ~47 |
+| I Remember My First Beer | 4.00% | ~47 |
+| Return the Statues | 3.00% | ~76 |
+| Complete the Chefs Book | 3.00% | ~76 |
+| Defeat Avor Warden of the Northern Wastes | 3.00% | ~76 |
+| Defeat Rattus Augustail | 3.00% | ~76 |
+| Defeat the Grub Buster | 3.00% | ~35 |
+| Defeat the Stalker Queen | 3.00% | ~35 |
 | Complete Redgi's Armory | 2.00% | ~50 |
 | King of Kings | 2.00% | ~50 |
 | Complete Arena Faction | 2.00% | ~50 |
 | Complete Ranger Faction | 2.00% | ~50 |
-| Defeat Avor Warden of the Northern Wastes | 2.00% | ~50 |
 | Discover the mystery of the Kings Chambers | 2.00% | ~50 |
 | A new Warchief rises | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,485 (Ranked 264)  
-Completed: 16 (0.64%) (Ranked 236)  
+Progressed: 2,525 (Ranked 270)  
+Completed: 17 (0.67%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,6 +279,7 @@ Completed: 16 (0.64%) (Ranked 236)
 | 2024-01-27 | 2,358 | 12 |
 | 2024-03-04 | 2,451 | 15 |
 | 2024-03-21 | 2,485 | 16 |
+| 2024-04-10 | 2,525 | 17 |
 ## Awards
 Max (Character Customization): 21  (Ranked 617)  
 Sum: 21 (Ranked 619)  

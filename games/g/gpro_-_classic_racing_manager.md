@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 74.00% | ~442 |
-| Photo shoot | 17.00% | ~101 |
-| No brakes | 14.00% | ~84 |
-| Wannabe | 12.00% | ~72 |
-| First taste | 9.00% | ~54 |
-| Amateur hitchhiker | 7.00% | ~42 |
-| Better than cake | 7.00% | ~42 |
+| Newbie | 73.00% | ~449 |
+| Photo shoot | 18.00% | ~111 |
+| No brakes | 14.00% | ~86 |
+| Wannabe | 12.00% | ~74 |
+| First taste | 10.00% | ~62 |
+| Amateur hitchhiker | 7.00% | ~43 |
+| Better than cake | 7.00% | ~43 |
 | Amateur newbie | 3.00% | ~18 |
 | Reliability expert | 3.00% | ~18 |
-| Hattrick | 3.00% | ~18 |
 | Hero | 2.00% | ~12 |
 | Drama queen | 2.00% | ~12 |
 | Mr. Whiting | 2.00% | ~12 |
+| Hattrick | 2.00% | ~12 |
 | Amateur photo shoot | 2.00% | ~12 |
 | On the top | 2.00% | ~12 |
 | Pro hitchhiker | 1.00% | ~6 |
 | Loyalty | 1.00% | ~6 |
 | No brakes Amateur | 1.00% | ~6 |
+| First Amateur taste | 1.00% | ~6 |
 | Amateur wannabe | 0.80% | ~5 |
-| First Amateur taste | 0.70% | ~4 |
 | Addict | 0.70% | ~4 |
 | Untouchable | 0.70% | ~4 |
 | Monster Amateur car | 0.50% | ~3 |
@@ -35,6 +35,7 @@
 | Pro photo shoot | 0.20% | ~1 |
 | Monster Pro car | 0.20% | ~1 |
 | Amateur champion | 0.20% | ~1 |
+| Amateur executor | 0.20% | ~1 |
 | Pro wannabe | 0.20% | ~1 |
 | Knockout Amateur | 0.20% | ~1 |
 | No brakes Pro | 0.20% | ~1 |
@@ -73,7 +74,6 @@
 | Berserk Pro | 0.00% | ~0 |
 | Berserk Master | 0.00% | ~0 |
 | Berserk Elite | 0.00% | ~0 |
-| Amateur executor | 0.00% | ~0 |
 | Pro executor | 0.00% | ~0 |
 | Master executor | 0.00% | ~0 |
 | Elite executor | 0.00% | ~0 |
@@ -167,8 +167,8 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 597 (Ranked 382)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 615 (Ranked 386)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,3 +327,4 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-26 | 559 | 0 |
 | 2024-02-22 | 574 | 0 |
 | 2024-03-21 | 597 | 0 |
+| 2024-04-10 | 615 | 0 |

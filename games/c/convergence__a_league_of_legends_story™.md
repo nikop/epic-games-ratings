@@ -5,62 +5,62 @@ Rating: 4.58 (Ranked 486)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 51.00% | ~725 |
-| Rail Rat | 38.00% | ~540 |
-| The Mysterious Stranger | 37.00% | ~526 |
-| Immaculate Aim | 32.00% | ~455 |
-| The Brass Boss | 31.00% | ~441 |
-| Time Flies | 30.00% | ~427 |
-| Make Up For Lost Time | 29.00% | ~412 |
-| No, Thanks! | 29.00% | ~412 |
-| The Prince in Heels | 29.00% | ~412 |
-| Honest Mistake | 29.00% | ~412 |
-| Fast Learner | 29.00% | ~412 |
-| Immaculate Aim | 29.00% | ~412 |
-| The Steel Shadow | 28.00% | ~398 |
-| The Harder They Fall | 28.00% | ~398 |
-| Breaking Down Barriers | 26.00% | ~370 |
-| The Wicked Twins | 26.00% | ~370 |
-| Golem Chaser | 26.00% | ~370 |
-| Right On Time | 25.00% | ~356 |
-| Like Clockwork | 25.00% | ~356 |
-| The Betrayer | 25.00% | ~356 |
-| The Loose Cannon | 23.00% | ~327 |
-| Check Your Pulse | 23.00% | ~327 |
-| Street Style | 22.00% | ~313 |
-| The Man Who Shattered Time | 22.00% | ~313 |
-| The Family Fortune | 22.00% | ~313 |
-| Whiz Kid | 18.00% | ~256 |
-| Good Neighbor | 17.00% | ~242 |
-| Chaincrawler Explorer | 15.00% | ~213 |
-| Family Memories | 15.00% | ~213 |
-| Ask Questions Later | 15.00% | ~213 |
-| Sump Explorer | 14.00% | ~199 |
-| Syron for Hope | 14.00% | ~199 |
-| Treasure Trove | 13.00% | ~185 |
-| Cartographer | 13.00% | ~185 |
-| Factorywood Explorer | 12.00% | ~171 |
-| Theater Explorer | 12.00% | ~171 |
-| Cultivair Explorer | 11.00% | ~156 |
-| Fairgrounds Explorer | 11.00% | ~156 |
-| Corin Goes Home | 10.00% | ~142 |
-| Entresol Explorer | 10.00% | ~142 |
-| Sartorialist | 9.00% | ~128 |
-| Golem Hunter | 8.00% | ~114 |
-| Clovemary for Remembering | 6.00% | ~85 |
-| Hexlock for Protection | 6.00% | ~85 |
-| Rungs Was Right | 6.00% | ~85 |
+| Time Heals All Wounds | 51.00% | ~731 |
+| Rail Rat | 39.00% | ~559 |
+| The Mysterious Stranger | 38.00% | ~545 |
+| Immaculate Aim | 33.00% | ~473 |
+| The Brass Boss | 31.00% | ~444 |
+| Time Flies | 30.00% | ~430 |
+| Make Up For Lost Time | 29.00% | ~416 |
+| The Harder They Fall | 29.00% | ~416 |
+| No, Thanks! | 29.00% | ~416 |
+| The Prince in Heels | 29.00% | ~416 |
+| Honest Mistake | 29.00% | ~416 |
+| Fast Learner | 29.00% | ~416 |
+| Immaculate Aim | 29.00% | ~416 |
+| The Steel Shadow | 28.00% | ~401 |
+| The Wicked Twins | 27.00% | ~387 |
+| Breaking Down Barriers | 26.00% | ~373 |
+| Golem Chaser | 26.00% | ~373 |
+| Right On Time | 25.00% | ~358 |
+| Like Clockwork | 25.00% | ~358 |
+| The Betrayer | 25.00% | ~358 |
+| The Loose Cannon | 23.00% | ~330 |
+| Check Your Pulse | 23.00% | ~330 |
+| Street Style | 22.00% | ~315 |
+| The Man Who Shattered Time | 22.00% | ~315 |
+| The Family Fortune | 22.00% | ~315 |
+| Whiz Kid | 18.00% | ~258 |
+| Good Neighbor | 17.00% | ~244 |
+| Chaincrawler Explorer | 15.00% | ~215 |
+| Family Memories | 15.00% | ~215 |
+| Syron for Hope | 15.00% | ~215 |
+| Ask Questions Later | 15.00% | ~215 |
+| Sump Explorer | 14.00% | ~201 |
+| Treasure Trove | 13.00% | ~186 |
+| Cartographer | 13.00% | ~186 |
+| Factorywood Explorer | 12.00% | ~172 |
+| Theater Explorer | 12.00% | ~172 |
+| Cultivair Explorer | 11.00% | ~158 |
+| Fairgrounds Explorer | 11.00% | ~158 |
+| Corin Goes Home | 10.00% | ~143 |
+| Entresol Explorer | 10.00% | ~143 |
+| Sartorialist | 9.00% | ~129 |
+| Golem Hunter | 8.00% | ~115 |
+| Clovemary for Remembering | 7.00% | ~100 |
+| Hexlock for Protection | 6.00% | ~86 |
+| Rungs Was Right | 6.00% | ~86 |
 | Wunderkind | 3.00% | ~43 |
-| Thinking Two Steps Ahead | 2.00% | ~28 |
-| Fitting In | 2.00% | ~28 |
+| Fitting In | 3.00% | ~43 |
+| Thinking Two Steps Ahead | 2.00% | ~29 |
+| A Lesson in Precision | 1.00% | ~14 |
 | No Time to Waste | 1.00% | ~14 |
-| A Lesson in Precision | 0.90% | ~13 |
 | Wildlife Protection | 0.80% | ~11 |
 | Raw Talent | 0.80% | ~11 |
 | Going to Live Forever | 0.60% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,422 (Ranked 310)  
-Completed: 8 (0.56%) (Ranked 251)  
+Progressed: 1,433 (Ranked 322)  
+Completed: 8 (0.56%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -250,6 +250,7 @@ Completed: 8 (0.56%) (Ranked 251)
 | 2024-01-27 | 1,361 | 8 |
 | 2024-02-22 | 1,394 | 8 |
 | 2024-03-21 | 1,422 | 8 |
+| 2024-04-10 | 1,433 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,28 +5,28 @@ Rating: 4.34 (Ranked 877)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 87.00% | ~2,052 |
-| A Ribbiting Performance | 76.00% | ~1,793 |
-| At Least We Have Each Other... | 75.00% | ~1,769 |
-| Frogbot | 72.00% | ~1,698 |
-| Ouch | 55.00% | ~1,297 |
-| Fun in the Stun | 53.00% | ~1,250 |
-| The Interdimensional Power of Friendship | 45.00% | ~1,062 |
-| Do you feel like a tough guy? | 43.00% | ~1,014 |
-| Turn Up The HEAT | 41.00% | ~967 |
-| Stop Hitting Yourself! | 34.00% | ~802 |
-| Nothing to Wear | 31.00% | ~731 |
-| The First Law of Thermodynamics | 28.00% | ~661 |
-| The Second Law of Thermodynamics | 15.00% | ~354 |
-| Do you trust me? | 15.00% | ~354 |
-| Taking Out the Trash | 10.00% | ~236 |
-| The Third Law of Thermodynamics | 9.00% | ~212 |
-| Say "Cheese!" | 9.00% | ~212 |
-| Better Than the Devs | 4.00% | ~94 |
+| On the Shoulders of Giants | 87.00% | ~2,058 |
+| A Ribbiting Performance | 76.00% | ~1,798 |
+| At Least We Have Each Other... | 75.00% | ~1,774 |
+| Frogbot | 73.00% | ~1,727 |
+| Ouch | 55.00% | ~1,301 |
+| Fun in the Stun | 53.00% | ~1,254 |
+| The Interdimensional Power of Friendship | 45.00% | ~1,065 |
+| Do you feel like a tough guy? | 43.00% | ~1,017 |
+| Turn Up The HEAT | 41.00% | ~970 |
+| Stop Hitting Yourself! | 34.00% | ~804 |
+| Nothing to Wear | 31.00% | ~733 |
+| The First Law of Thermodynamics | 28.00% | ~662 |
+| The Second Law of Thermodynamics | 15.00% | ~355 |
+| Do you trust me? | 15.00% | ~355 |
+| Taking Out the Trash | 10.00% | ~237 |
+| The Third Law of Thermodynamics | 9.00% | ~213 |
+| Say "Cheese!" | 9.00% | ~213 |
+| Better Than the Devs | 4.00% | ~95 |
 | So do we just stay up here, or?... | 2.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,359 (Ranked 266)  
-Completed: 10 (0.42%) (Ranked 269)  
+Progressed: 2,366 (Ranked 274)  
+Completed: 10 (0.42%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -187,6 +187,7 @@ Completed: 10 (0.42%) (Ranked 269)
 | 2024-01-19 | 2,337 | 10 |
 | 2024-01-24 | 2,340 | 10 |
 | 2024-03-21 | 2,359 | 10 |
+| 2024-04-10 | 2,366 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

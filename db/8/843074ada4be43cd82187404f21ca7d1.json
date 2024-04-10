@@ -2,10 +2,10 @@
   "ID": "843074ada4be43cd82187404f21ca7d1",
   "Name": "63 Days",
   "ProductSlug": "63-days-df3834",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-09T15:57:01.8639588+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:42.1874021+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:00.7579447+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:53.2281361+00:00"
 }

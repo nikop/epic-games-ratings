@@ -3,6 +3,45 @@
 [View Rawdata](../../db/d/demon's_tilt.json)  
 Rating: 4.53 (Ranked 584)  
 Number of Ratings: 276  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Welcome Paladin | 96.00% | ~723 |
+| Apprentice Blacksmith | 74.00% | ~557 |
+| Pachi Master | 59.00% | ~444 |
+| Reversed High Priestess | 53.00% | ~399 |
+| Gore Slayer | 52.00% | ~392 |
+| Victory Laps | 51.00% | ~384 |
+| Master Blacksmith | 47.00% | ~354 |
+| Matryoshka Masher | 46.00% | ~346 |
+| Ritual Magi | 39.00% | ~294 |
+| Bloodbat Butcher | 38.00% | ~286 |
+| Iron Maiden | 30.00% | ~226 |
+| Number of the Beast | 30.00% | ~226 |
+| Army of Darkness | 27.00% | ~203 |
+| Legendary Blacksmith | 27.00% | ~203 |
+| Ritual Seer | 27.00% | ~203 |
+| Ever Burning Sulfur | 25.00% | ~188 |
+| Master of Hermits | 22.00% | ~166 |
+| Ritual Warlock | 16.00% | ~120 |
+| Eyeball Expunger | 12.00% | ~90 |
+| The Eighth House | 11.00% | ~83 |
+| Candlelight Vigil | 10.00% | ~75 |
+| A Dark Ritual, HERMIT | 10.00% | ~75 |
+| A Dark Ritual, ZODIAC | 8.00% | ~60 |
+| I Am Providence | 7.00% | ~53 |
+| Billionaire's Club | 6.00% | ~45 |
+| If You Ain’t Tilting you Ain’t Trying | 6.00% | ~45 |
+| A Dark Ritual, ARCANE | 5.00% | ~38 |
+| WIZARD MODE | 3.00% | ~23 |
+| You Say Homonculus, I Say Homonculi | 2.00% | ~15 |
+## Popularity (Based on EOS Achievements)
+Progressed: 753 (Ranked 367)  
+Completed: 3 (0.40%) (Ranked 277)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-04-10 | 753 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 26  (Ranked 582)  
 Sum: 26 (Ranked 598)  

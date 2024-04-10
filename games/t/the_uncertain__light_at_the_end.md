@@ -5,38 +5,38 @@ Rating: 3.83 (Ranked 1,138)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 49.00% | ~359 |
-| A Friend in Need... | 44.00% | ~322 |
-| Bosom Buddies | 29.00% | ~212 |
-| Beat the Heat | 22.00% | ~161 |
-| A Familiar Face | 13.00% | ~95 |
-| Identity Theft | 12.00% | ~88 |
-| Unexpected Consequences | 12.00% | ~88 |
-| F is for Feline | 11.00% | ~81 |
-| A Trip to Remember | 11.00% | ~81 |
-| Does Not Compute | 11.00% | ~81 |
-| Mind the Gap | 10.00% | ~73 |
-| U Mad Bro? | 10.00% | ~73 |
-| Short Circuit | 10.00% | ~73 |
-| A Stealthy Outlook | 6.00% | ~44 |
-| Catch You Later | 6.00% | ~44 |
+| Bundle of Joy | 49.00% | ~365 |
+| A Friend in Need... | 44.00% | ~328 |
+| Bosom Buddies | 29.00% | ~216 |
+| Beat the Heat | 22.00% | ~164 |
+| A Familiar Face | 13.00% | ~97 |
+| Unexpected Consequences | 12.00% | ~89 |
+| Identity Theft | 11.00% | ~82 |
+| F is for Feline | 11.00% | ~82 |
+| A Trip to Remember | 11.00% | ~82 |
+| Does Not Compute | 11.00% | ~82 |
+| Mind the Gap | 10.00% | ~74 |
+| U Mad Bro? | 10.00% | ~74 |
+| Short Circuit | 10.00% | ~74 |
+| A Stealthy Outlook | 6.00% | ~45 |
+| Catch You Later | 6.00% | ~45 |
 | Den Mother | 5.00% | ~37 |
-| Between the Covers | 4.00% | ~29 |
-| Antisocial Club | 4.00% | ~29 |
-| You Had One Job... | 4.00% | ~29 |
-| Smart cookie | 4.00% | ~29 |
+| Between the Covers | 4.00% | ~30 |
+| You Had One Job... | 4.00% | ~30 |
+| Smart cookie | 4.00% | ~30 |
 | Everything Must Go! | 3.00% | ~22 |
+| Antisocial Club | 3.00% | ~22 |
 | The Butterfly Effect | 2.00% | ~15 |
 | Echoes of the Past | 2.00% | ~15 |
-| Casual Gamer | 2.00% | ~15 |
-| Marvellous Toys | 2.00% | ~15 |
 | Paparazzi | 2.00% | ~15 |
 | Life of the Party | 2.00% | ~15 |
-| Hardcore Gamer | 1.00% | ~7 |
+| Casual Gamer | 1.00% | ~7 |
 | Urban Scrawl | 1.00% | ~7 |
+| Marvellous Toys | 1.00% | ~7 |
+| Hardcore Gamer | 0.90% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732 (Ranked 364)  
-Completed: 6 (0.82%) (Ranked 223)  
+Progressed: 745 (Ranked 370)  
+Completed: 6 (0.81%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,6 +191,7 @@ Completed: 6 (0.82%) (Ranked 223)
 | 2024-01-25 | 687 | 6 |
 | 2024-01-26 | 689 | 6 |
 | 2024-03-21 | 732 | 6 |
+| 2024-04-10 | 745 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

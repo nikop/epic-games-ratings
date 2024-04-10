@@ -5,10 +5,10 @@
   "Ranking_Rating": 1114,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 31,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4295,6 +4295,11 @@
       "Time": "2024-04-05T15:03:15.3819324+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:06:45.449329+00:00",
+      "NumProgressed": 1125,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4370,7 +4375,7 @@
       "Name": "Earth Shattering",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 504
+      "UsersEstimate": 506
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -4378,7 +4383,7 @@
       "Name": "La Der des Ders",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -4386,22 +4391,22 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
       "SetID": "6kcl14p",
       "Name": "Nothing Can Stop Us!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1125,
       "Completed": 0
     }
   ],
@@ -4409,8 +4414,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-04-06T19:00:31.9441996+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:03:15.3819318+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:45.4493285+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:52.9977956+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:11.6535693+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:03:15.3819646+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:58.8322548+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:45.4493538+00:00"
 }

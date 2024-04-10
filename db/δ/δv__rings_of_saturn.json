@@ -2,10 +2,10 @@
   "ID": "d4d1678e97e64a62bcf819fe19016703",
   "Name": "\u0394V: Rings of Saturn",
   "ProductSlug": "deltav-rings-of-saturn-4cd187",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-06-01T08:00:00+00:00",
     "PcReleaseDate": "2019-08-12T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-09T14:58:11.0386893+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:08.5430942+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:37.103062+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:26.2757345+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:23.7899378+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:31.0122199+00:00"
 }

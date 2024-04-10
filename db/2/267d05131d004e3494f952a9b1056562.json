@@ -2,10 +2,10 @@
   "ID": "267d05131d004e3494f952a9b1056562",
   "Name": "Bandle Tale: A League of Legends Story",
   "ProductSlug": "bandle-tale-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 365,
-  "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 370,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-21T17:00:00+00:00",
     "PcReleaseDate": "2024-02-21T17:00:00+00:00",
@@ -22,16 +22,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 730,
-  "EOS_Completed": 22,
+  "EOS_Progressed": 745,
+  "EOS_Completed": 26,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.01,
+  "EOS_Completed_Percentage": 3.49,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:07:31.3973489+00:00",
       "NumProgressed": 730,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-04-10T06:03:06.2079415+00:00",
+      "NumProgressed": 745,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2024-03-21T17:07:31.3973519+00:00",
@@ -42,9 +47,9 @@
       "ID": "ach_a_friend_in_need",
       "SetID": "9lk172e",
       "Name": "A Friend in Need",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_back_home",
@@ -52,31 +57,31 @@
       "Name": "Reforged Connection",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_bad_pancake",
       "SetID": "9lk172e",
       "Name": "Recipe for Disaster",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 164
     },
     {
       "ID": "ach_bronze_knitter",
       "SetID": "9lk172e",
       "Name": "Bronze Knitter",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 529
     },
     {
       "ID": "ach_caring_hands",
       "SetID": "9lk172e",
       "Name": "\u0421aring Paws",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_classes_again",
@@ -84,39 +89,39 @@
       "Name": "Back to School",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 335
     },
     {
       "ID": "ach_delight_for_the_eyes",
       "SetID": "9lk172e",
       "Name": "Delight the Eyes",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_diner_opening",
       "SetID": "9lk172e",
       "Name": "Dining Out",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 462
     },
     {
       "ID": "ach_enchanting_sounds_of_music",
       "SetID": "9lk172e",
       "Name": "Enchanting Sounds",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_expert_fisherman",
       "SetID": "9lk172e",
       "Name": "Expert Fisher",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_first_thread",
@@ -124,23 +129,23 @@
       "Name": "First Thread",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 685
     },
     {
       "ID": "ach_hotline_yordle",
       "SetID": "9lk172e",
       "Name": "Hotline Yordle",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_in_jazz_only_bugs",
       "SetID": "9lk172e",
       "Name": "A Big Bug\u0027s Life",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_its_time_to_move",
@@ -148,47 +153,47 @@
       "Name": "Mobile Home",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 454
     },
     {
       "ID": "ach_journey_begins",
       "SetID": "9lk172e",
       "Name": "The Journey Begins",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 664
+      "UsersEstimate": 685
     },
     {
       "ID": "ach_kitchen_yordle",
       "SetID": "9lk172e",
       "Name": "Kitchen Yordle",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 238
     },
     {
       "ID": "ach_life_of_the_party",
       "SetID": "9lk172e",
       "Name": "Life of the Party",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 425
     },
     {
       "ID": "ach_may_friendship_blossom",
       "SetID": "9lk172e",
       "Name": "May Friendship Blossom",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_meet_corkie",
       "SetID": "9lk172e",
       "Name": "Meet Corki",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 70,
-      "UsersEstimate": 569
+      "UsersEstimate": 589
     },
     {
       "ID": "ach_meet_lulu",
@@ -196,47 +201,47 @@
       "Name": "Meet Lulu",
       "Percentage": 31,
       "XP": 70,
-      "UsersEstimate": 226
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_meet_rumble",
       "SetID": "9lk172e",
       "Name": "Meet Rumble",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 70,
-      "UsersEstimate": 241
+      "UsersEstimate": 253
     },
     {
       "ID": "ach_meet_teemo",
       "SetID": "9lk172e",
       "Name": "Meet Teemo",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 70,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "ach_meet_tristana",
       "SetID": "9lk172e",
       "Name": "Meet Tristana",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 70,
-      "UsersEstimate": 584
+      "UsersEstimate": 603
     },
     {
       "ID": "ach_meet_veigar",
       "SetID": "9lk172e",
       "Name": "Meet Veigar",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 70,
-      "UsersEstimate": 577
+      "UsersEstimate": 596
     },
     {
       "ID": "ach_one_must_know_how_to_lose",
       "SetID": "9lk172e",
       "Name": "Learning to Lose",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_small_step_for_yordle",
@@ -244,7 +249,7 @@
       "Name": "One Small Step for Yordles",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_something_ends",
@@ -252,23 +257,23 @@
       "Name": "All Things End",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_stars_stars_and_more",
       "SetID": "9lk172e",
       "Name": "Stars, Stars, and More",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 291
     },
     {
       "ID": "ach_stars_twist",
       "SetID": "9lk172e",
       "Name": "Stars Twist",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 112
     },
     {
       "ID": "ach_struck_by_lightning",
@@ -276,93 +281,93 @@
       "Name": "Struck by Lightning",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_stuffy_party",
       "SetID": "9lk172e",
       "Name": "Party Foul",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 171
     },
     {
       "ID": "ach_sweet_dream",
       "SetID": "9lk172e",
       "Name": "Sweet Dreams",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 656
     },
     {
       "ID": "ach_sweet_home",
       "SetID": "9lk172e",
       "Name": "Home Sweet Home",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 387
     },
     {
       "ID": "ach_the_art_of_relaxation",
       "SetID": "9lk172e",
       "Name": "The Art of Relaxation",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_together_for_the_first_time",
       "SetID": "9lk172e",
       "Name": "Together at Last",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_v_has_come_to",
       "SetID": "9lk172e",
       "Name": "V is for Villain",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_what_i_caught",
       "SetID": "9lk172e",
       "Name": "Look What I Caught!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 298
     },
     {
       "ID": "ach_where_its_always_nice_and_cosy",
       "SetID": "9lk172e",
       "Name": "Where It\u2019s Nice and Cozy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_yordle_dating_agency",
       "SetID": "9lk172e",
       "Name": "Yordle Dating Agency",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lk172e",
       "IsBase": true,
-      "Progressed": 730,
-      "Completed": 22
+      "Progressed": 745,
+      "Completed": 26
     }
   ],
   "FirstSeen": "2024-02-21T21:59:48.2339522+00:00",
   "FirstSeenAchievements": "2023-10-27T11:05:00.7152408+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:31.3973483+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:06.2079409+00:00",
   "LastUpdate_AppInfo": "2024-04-05T08:57:05.5862932+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:52.5498919+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:31.3982441+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:39.245691+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:06.2079639+00:00"
 }

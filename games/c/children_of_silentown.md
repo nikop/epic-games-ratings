@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 90.00% | ~229 |
-| Trumpet | 89.00% | ~226 |
-| Spyglass | 84.00% | ~213 |
-| Broken toy | 78.00% | ~198 |
-| Egghead Lucy | 76.00% | ~193 |
-| Puppy | 65.00% | ~165 |
-| Coal's fur | 60.00% | ~152 |
-| Blue's drawing | 54.00% | ~137 |
-| Mysterious footprints | 49.00% | ~124 |
-| Glass shards | 46.00% | ~117 |
-| Complicated padlock | 43.00% | ~109 |
-| Windmill | 41.00% | ~104 |
-| Big metal ruler | 39.00% | ~99 |
-| Doll | 38.00% | ~97 |
-| Mysterious paintings | 36.00% | ~91 |
-| Cat | 33.00% | ~84 |
-| Depths of the well | 27.00% | ~69 |
-| Children | 23.00% | ~58 |
-| Huge Snail | 15.00% | ~38 |
-| Flower of hope | 15.00% | ~38 |
-| Friend | 13.00% | ~33 |
-| Back Home | 11.00% | ~28 |
-| Forest Howl | 11.00% | ~28 |
-| Old kettle | 11.00% | ~28 |
+| Lucky charm | 90.00% | ~235 |
+| Trumpet | 89.00% | ~232 |
+| Spyglass | 84.00% | ~219 |
+| Broken toy | 78.00% | ~204 |
+| Egghead Lucy | 77.00% | ~201 |
+| Puppy | 64.00% | ~167 |
+| Coal's fur | 59.00% | ~154 |
+| Blue's drawing | 54.00% | ~141 |
+| Mysterious footprints | 49.00% | ~128 |
+| Glass shards | 47.00% | ~123 |
+| Complicated padlock | 42.00% | ~110 |
+| Windmill | 41.00% | ~107 |
+| Big metal ruler | 39.00% | ~102 |
+| Doll | 38.00% | ~99 |
+| Mysterious paintings | 36.00% | ~94 |
+| Cat | 33.00% | ~86 |
+| Depths of the well | 26.00% | ~68 |
+| Children | 23.00% | ~60 |
+| Huge Snail | 15.00% | ~39 |
+| Flower of hope | 15.00% | ~39 |
+| Friend | 13.00% | ~34 |
+| Forest Howl | 12.00% | ~31 |
+| Back Home | 11.00% | ~29 |
+| Old kettle | 11.00% | ~29 |
 | Hope | 5.00% | ~13 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 463)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 261 (Ranked 467)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-18 | 241 | 0 |
 | 2024-03-04 | 251 | 0 |
 | 2024-03-21 | 254 | 0 |
+| 2024-04-10 | 261 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

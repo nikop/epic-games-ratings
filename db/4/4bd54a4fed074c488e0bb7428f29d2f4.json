@@ -3,9 +3,9 @@
   "Name": "1428: Shadows over Silesia",
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 598,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2022-10-04T11:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 80,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -304,6 +304,11 @@
       "Time": "2024-03-21T17:07:17.9340998+00:00",
       "NumProgressed": 75,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:02:58.5573687+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-05T18:06:01.4667778+00:00",
@@ -330,9 +335,9 @@
       "ID": "SOS_ALL_LIVES_MATTER",
       "SetID": "6ci4lm2",
       "Name": "All lives matter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SOS_ANCESTORS",
@@ -386,17 +391,17 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "SOS_DEAD_END",
       "SetID": "6ci4lm2",
       "Name": "Dead end",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SOS_DOG_WHISPERER",
@@ -418,9 +423,9 @@
       "ID": "SOS_ENEMY_OF_MY_ENEMY",
       "SetID": "6ci4lm2",
       "Name": "Enemy of my enemy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SOS_EVERYBODYS_DEAD",
@@ -428,13 +433,13 @@
       "Name": "Everybody\u0027s dead, Dave",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SOS_EVIL_CODE",
       "SetID": "6ci4lm2",
       "Name": "Evil code",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -458,7 +463,7 @@
       "ID": "SOS_FARKLE",
       "SetID": "6ci4lm2",
       "Name": "Silesian Farkle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -466,9 +471,9 @@
       "ID": "SOS_FIRST_BLOOD",
       "SetID": "6ci4lm2",
       "Name": "First blood",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "SOS_FISH",
@@ -482,7 +487,7 @@
       "ID": "SOS_FOR_GLORY_OF_GOD",
       "SetID": "6ci4lm2",
       "Name": "For the glory of God",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
       "UsersEstimate": 14
     },
@@ -514,17 +519,17 @@
       "ID": "SOS_HEADACHE",
       "SetID": "6ci4lm2",
       "Name": "By fire and blood",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SOS_HEARTBREAKING_END",
       "SetID": "6ci4lm2",
       "Name": "Heartbreaking end",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SOS_HELL_STONE",
@@ -546,9 +551,9 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SOS_INFERNAL_TONES",
@@ -562,7 +567,7 @@
       "ID": "SOS_ITS_TRAP",
       "SetID": "6ci4lm2",
       "Name": "It\u0027s a trap!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -594,9 +599,9 @@
       "ID": "SOS_LEGACY",
       "SetID": "6ci4lm2",
       "Name": "Legacy of the Templars",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SOS_LIAISONS",
@@ -610,7 +615,7 @@
       "ID": "SOS_MARATHON_RUNNER",
       "SetID": "6ci4lm2",
       "Name": "Legs of iron",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -682,7 +687,7 @@
       "ID": "SOS_POISON",
       "SetID": "6ci4lm2",
       "Name": "Last cup",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -690,7 +695,7 @@
       "ID": "SOS_PRISON_BREAK",
       "SetID": "6ci4lm2",
       "Name": "At the bottom",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 11
     },
@@ -788,7 +793,7 @@
       "Name": "We have to stop them",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SOS_WHAT_HURTS",
@@ -811,14 +816,14 @@
     {
       "ID": "6ci4lm2",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 80,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:17.9340992+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:58.5573682+00:00",
   "LastUpdate_AppInfo": "2024-04-09T02:14:45.3433938+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:46.5318758+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:17.9341565+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:31.6506195+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:58.5574177+00:00"
 }

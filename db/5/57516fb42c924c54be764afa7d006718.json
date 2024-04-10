@@ -2,10 +2,10 @@
   "ID": "57516fb42c924c54be764afa7d006718",
   "Name": "Doodle Kingdom",
   "ProductSlug": "doodle-kingdom-91f65e",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2016-06-08T21:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-04-07T18:01:56.9650271+00:00",
-  "LastChanged_Achievements": "2024-04-08T15:05:07.0030318+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:21.293959+00:00",
   "LastUpdate_AppInfo": "2024-04-04T21:57:01.0334105+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:06.5873522+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:05:07.0030348+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:52.6983777+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:21.2939628+00:00"
 }

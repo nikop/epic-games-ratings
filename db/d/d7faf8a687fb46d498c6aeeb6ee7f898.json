@@ -2,10 +2,10 @@
   "ID": "d7faf8a687fb46d498c6aeeb6ee7f898",
   "Name": "Barotrauma",
   "ProductSlug": "barotrauma-ceddeb",
-  "Ranking_EOS_Progress": 701,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 541,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-28T16:00:00+00:00",
     "PcReleaseDate": "2023-03-13T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -39,6 +39,11 @@
       "Time": "2024-03-21T17:11:53.286693+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:41.4946712+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:05.1819114+00:00",
@@ -49,25 +54,25 @@
       "ID": "abandonedoutpostassassinate",
       "SetID": "di15g8i",
       "Name": "Bounty hunter",
-      "Percentage": 12,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "abandonedoutpostdestroyhumans",
       "SetID": "di15g8i",
       "Name": "Unwanted guests",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "abandonedoutpostdestroymonsters",
       "SetID": "di15g8i",
       "Name": "Pest control",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 14
     },
     {
       "ID": "abandonedoutpostrescue",
@@ -75,223 +80,223 @@
       "Name": "Knight in rusty armor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "artifactmission",
       "SetID": "di15g8i",
       "Name": "Xenoarchaeologist",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 13
     },
     {
       "ID": "ascension",
       "SetID": "di15g8i",
       "Name": "Ascension",
-      "Percentage": 4,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "assistantround",
       "SetID": "di15g8i",
       "Name": "Do what you love",
-      "Percentage": 16,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 14
     },
     {
       "ID": "beaconmission",
       "SetID": "di15g8i",
       "Name": "A light in the darkness",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 33
     },
     {
       "ID": "campaigncompleted",
       "SetID": "di15g8i",
       "Name": "The end is the beginning",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "campaignmetadata_clownspecialhire1_hired_true",
       "SetID": "di15g8i",
       "Name": "The Teacher of Nothing",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "campaignmetadata_coalitionspecialhire1_hired_true",
       "SetID": "di15g8i",
       "Name": "Top Brass",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "campaignmetadata_coalitionspecialhire2_hired_true",
       "SetID": "di15g8i",
       "Name": "The Cream of the Crop",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 10
     },
     {
       "ID": "campaignmetadata_huskcultspecialhire1_hired_true",
       "SetID": "di15g8i",
       "Name": "Heralds of the Tide",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "campaignmetadata_pathofthebikehorn_7",
       "SetID": "di15g8i",
       "Name": "The Grandest of Jesters",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "campaignmetadata_separatistspecialhire1_hired_true",
       "SetID": "di15g8i",
       "Name": "Force for the Forceless",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "campaignmetadata_separatistspecialhire2_hired_true",
       "SetID": "di15g8i",
       "Name": "Some men just want to watch the world burn",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "captainround",
       "SetID": "di15g8i",
       "Name": "Here I recognize no superiors",
-      "Percentage": 12,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 43
     },
     {
       "ID": "cargomission",
       "SetID": "di15g8i",
       "Name": "Freighter",
-      "Percentage": 48,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 69
     },
     {
       "ID": "clearruin",
       "SetID": "di15g8i",
       "Name": "Aggressive Archaeology",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "clowncostume",
       "SetID": "di15g8i",
       "Name": "Praise the Honkmother",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 13
     },
     {
       "ID": "combatmission1",
       "SetID": "di15g8i",
       "Name": "For the Coalition",
-      "Percentage": 4,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "combatmission2",
       "SetID": "di15g8i",
       "Name": "Viva la Revolution",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "combatmissioncoalitionvsseparatists",
       "SetID": "di15g8i",
       "Name": "Resistance is futile",
-      "Percentage": 20,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 14
     },
     {
       "ID": "combatmissionseparatistsvscoalition",
       "SetID": "di15g8i",
       "Name": "Fight the power",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "crewaway",
       "SetID": "di15g8i",
       "Name": "Extravehicular activity",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 20
     },
     {
       "ID": "discovercoldcaverns",
       "SetID": "di15g8i",
       "Name": "The Cold Caverns",
-      "Percentage": 72,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 86
     },
     {
       "ID": "discovereuropanridge",
       "SetID": "di15g8i",
       "Name": "The Europan Ridge",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 28
     },
     {
       "ID": "discoverhydrothermalwastes",
       "SetID": "di15g8i",
       "Name": "The Hydrothermal Wastes",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "discovertheaphoticplateau",
       "SetID": "di15g8i",
       "Name": "The Aphotic Plateau",
-      "Percentage": 28,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 21
     },
     {
       "ID": "discoverthegreatsea",
       "SetID": "di15g8i",
       "Name": "The Great Sea",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 13
     },
     {
       "ID": "engineerround",
       "SetID": "di15g8i",
       "Name": "Ever increasing in speed and power",
-      "Percentage": 12,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 22
     },
     {
       "ID": "escortmission",
@@ -299,39 +304,39 @@
       "Name": "Safety not guaranteed",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 52
     },
     {
       "ID": "genocide",
       "SetID": "di15g8i",
       "Name": "Genocide",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "healcrit",
       "SetID": "di15g8i",
       "Name": "Don\u0027t you die on me!",
-      "Percentage": 8,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 39
     },
     {
       "ID": "healhusk",
       "SetID": "di15g8i",
       "Name": "I am the cure",
-      "Percentage": 8,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 21
     },
     {
       "ID": "healopiateaddiction",
       "SetID": "di15g8i",
       "Name": "Getting clean",
-      "Percentage": 32,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 58
     },
     {
       "ID": "killcharybdis",
@@ -339,277 +344,277 @@
       "Name": "The Abyss Gazes Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "killclown",
       "SetID": "di15g8i",
       "Name": "No fun allowed",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "killcrawlerbroodmother",
       "SetID": "di15g8i",
       "Name": "Kill it before it lays eggs!",
-      "Percentage": 4,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 14
     },
     {
       "ID": "killendworm",
       "SetID": "di15g8i",
       "Name": "The bigger they are, the harder they fall",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "killhammerhead",
       "SetID": "di15g8i",
       "Name": "Stop the hammertime",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 24
     },
     {
       "ID": "killlatcher",
       "SetID": "di15g8i",
       "Name": "The King of Cling",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "killmoloch",
       "SetID": "di15g8i",
       "Name": "Killed a Moloch",
-      "Percentage": 8,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 17
     },
     {
       "ID": "killnuke",
       "SetID": "di15g8i",
       "Name": "I am become death",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 9
     },
     {
       "ID": "killpoison",
       "SetID": "di15g8i",
       "Name": "Poisoner",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "killspineling_giant",
       "SetID": "di15g8i",
       "Name": "Spinal Tapped",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 9
     },
     {
       "ID": "killtool",
       "SetID": "di15g8i",
       "Name": "Whatever works",
-      "Percentage": 12,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 28
     },
     {
       "ID": "killtraitor",
       "SetID": "di15g8i",
       "Name": "Not on my watch",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "lastmanstanding",
       "SetID": "di15g8i",
       "Name": "Last man standing",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "lonesailor",
       "SetID": "di15g8i",
       "Name": "The lone sailor",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "maxintensity",
       "SetID": "di15g8i",
       "Name": "This is fine.",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 55
     },
     {
       "ID": "mechanicround",
       "SetID": "di15g8i",
       "Name": "Truth in simplicity",
-      "Percentage": 12,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 28
     },
     {
       "ID": "medicaldoctorround",
       "SetID": "di15g8i",
       "Name": "According to ability and judgment",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "miningmission",
       "SetID": "di15g8i",
       "Name": "Amateur geologist",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 52
     },
     {
       "ID": "nestmission",
       "SetID": "di15g8i",
       "Name": "Don\u0027t count them before they hatch",
-      "Percentage": 16,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 16
     },
     {
       "ID": "nodamagerun",
       "SetID": "di15g8i",
       "Name": "Smooth sailing",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 75
     },
     {
       "ID": "repairdevice",
       "SetID": "di15g8i",
       "Name": "As good as new",
-      "Percentage": 52,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 94
     },
     {
       "ID": "salvagewreckmission",
       "SetID": "di15g8i",
       "Name": "Underwater coffin",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 20
     },
     {
       "ID": "scanruin",
       "SetID": "di15g8i",
       "Name": "Ruin Raider",
-      "Percentage": 16,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 12
     },
     {
       "ID": "securityofficerround",
       "SetID": "di15g8i",
       "Name": "I am the law",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 24
     },
     {
       "ID": "subdeep",
       "SetID": "di15g8i",
       "Name": "Where no man has gone before",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 10
     },
     {
       "ID": "subeditor24h",
       "SetID": "di15g8i",
       "Name": "Naval architect",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "subhighvelocity",
       "SetID": "di15g8i",
       "Name": "Gotta go fast",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "survivecrushdepth",
       "SetID": "di15g8i",
       "Name": "A gaze into the abyss",
-      "Percentage": 20,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 20
     },
     {
       "ID": "survivereactormeltdown",
       "SetID": "di15g8i",
       "Name": "Nuclear blast survivor",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "traitorwin",
       "SetID": "di15g8i",
       "Name": "Insurgency",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "travel10",
       "SetID": "di15g8i",
       "Name": "Novice seafarer",
-      "Percentage": 16,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 33
     },
     {
       "ID": "travel100",
       "SetID": "di15g8i",
       "Name": "Experienced seafarer",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "xenocide",
       "SetID": "di15g8i",
       "Name": "Xenocide",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "di15g8i",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-28T23:57:59.768716+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:05.1819113+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:53.2866925+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:41.4946706+00:00",
   "LastUpdate_AppInfo": "2024-04-10T02:14:17.4630988+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:25.8786707+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:53.2867527+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:12.261913+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:41.4947174+00:00"
 }

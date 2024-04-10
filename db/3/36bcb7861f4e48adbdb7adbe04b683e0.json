@@ -2,10 +2,10 @@
   "ID": "36bcb7861f4e48adbdb7adbe04b683e0",
   "Name": "WORLD OF ART - learn with JIGSAW PUZZLES",
   "ProductSlug": "world-of-art-learn-with-jigsaw-puzzles-c908c2",
-  "Ranking_EOS_Progress": 751,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-01-25T02:00:00+00:00",
     "PcReleaseDate": "2020-06-17T22:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "NEW_ACHIEVEMENT_2_20",
       "SetID": "85ipd90",
       "Name": "Loyalty IV",
-      "Percentage": 46,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_21",
@@ -881,8 +881,8 @@
   ],
   "FirstSeen": "2024-01-26T01:40:14.4680998+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.8160278+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:02:12.758201+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:37.895918+00:00",
   "LastUpdate_AppInfo": "2024-04-05T02:13:47.2206705+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:15.4526689+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:02:12.7582908+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:35.6143353+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:37.8960072+00:00"
 }

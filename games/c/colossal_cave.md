@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 95.00% | ~106 |
+| We've only just begun | 94.00% | ~106 |
 | You're spelunkin' now! | 80.00% | ~90 |
 | The Birdman of The Caves | 49.00% | ~55 |
 | I've Fallen & I Can't Get Up | 49.00% | ~55 |
 | Charmin' the Snake | 34.00% | ~38 |
 | Drums in the Deep | 24.00% | ~27 |
 | Bridge Builder | 23.00% | ~26 |
-| Treasure Seeker | 20.00% | ~22 |
+| Treasure Seeker | 19.00% | ~21 |
 | Green Thumb Goliath | 17.00% | ~19 |
 | Take the Scenic Route | 13.00% | ~15 |
-| St. George's Gauntlet | 13.00% | ~15 |
-| Redbeard's Revenger | 12.00% | ~13 |
-| Treasure Hunter | 12.00% | ~13 |
-| BJ & The Bear | 12.00% | ~13 |
+| St. George's Gauntlet | 12.00% | ~14 |
+| Redbeard's Revenger | 12.00% | ~14 |
+| Treasure Hunter | 12.00% | ~14 |
+| BJ & The Bear | 12.00% | ~14 |
 | Can't bear the weight | 9.00% | ~10 |
 | Mr. Magic | 8.00% | ~9 |
 | Soft Hands | 8.00% | ~9 |
@@ -25,12 +25,12 @@
 | Who dat? | 7.00% | ~8 |
 | Batteries not Included | 6.00% | ~7 |
 | What a Winner! | 5.00% | ~6 |
-| Colossal Cave Explorer | 4.00% | ~4 |
-| Master Cave Plunderer | 4.00% | ~4 |
+| Colossal Cave Explorer | 4.00% | ~5 |
+| Master Cave Plunderer | 4.00% | ~5 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 541)  
-Completed: 1 (0.89%) (Ranked 215)  
+Progressed: 113 (Ranked 558)  
+Completed: 1 (0.88%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 1 (0.89%) (Ranked 215)
 | 2024-01-11 | 107 | 1 |
 | 2024-01-20 | 108 | 1 |
 | 2024-03-21 | 112 | 1 |
+| 2024-04-10 | 113 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

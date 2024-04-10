@@ -5,10 +5,10 @@
   "Ranking_Rating": 313,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -327,7 +327,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1122,
+  "EOS_Progressed": 1141,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2592,6 +2592,11 @@
       "Time": "2024-03-21T17:11:02.9417688+00:00",
       "NumProgressed": 1122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:08.4042009+00:00",
+      "NumProgressed": 1141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2603,7 +2608,7 @@
       "Name": "Act I Complete",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 325
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -2611,7 +2616,7 @@
       "Name": "Act II Complete",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 236
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -2619,7 +2624,7 @@
       "Name": "Act III Complete",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
@@ -2627,7 +2632,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 325
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -2635,7 +2640,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -2643,7 +2648,7 @@
       "Name": "A successful procedure!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_A_TUCKED_TALE",
@@ -2651,7 +2656,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -2659,7 +2664,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -2667,7 +2672,7 @@
       "Name": "Bing Bang BOOM",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_BREAKING_THE_ICE",
@@ -2675,7 +2680,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -2683,7 +2688,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2699,7 +2704,7 @@
       "Name": "Critical Thinker",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2715,7 +2720,7 @@
       "Name": "Fire and Brimstone",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -2731,7 +2736,7 @@
       "Name": "Ghost in the Ship",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_ITS_HEATING_UP",
@@ -2739,7 +2744,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 787
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2747,7 +2752,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 269
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -2755,7 +2760,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 707
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2763,7 +2768,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 718
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2771,7 +2776,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -2779,7 +2784,7 @@
       "Name": "Post No Bills",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2787,7 +2792,7 @@
       "Name": "See you Space Cowboy",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_SOLIDARITY_FOREVER",
@@ -2795,7 +2800,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -2803,7 +2808,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 325
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2811,14 +2816,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 536
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1122,
+      "Progressed": 1141,
       "Completed": 0
     }
   ],
@@ -2826,8 +2831,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-03-29T15:57:30.7858598+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:02.9417681+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:08.4042003+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:28.0497536+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:07.9382309+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:02.9417989+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:30.7421109+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:08.4042275+00:00"
 }

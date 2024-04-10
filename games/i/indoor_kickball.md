@@ -14,24 +14,24 @@
 | Settle Down | 67.00% | ~72 |
 | Stay Hydrated | 64.00% | ~69 |
 | First Win | 62.00% | ~67 |
-| True Story! | 44.00% | ~48 |
+| True Story! | 45.00% | ~49 |
 | Bedroom Secret Spot | 41.00% | ~44 |
 | At least everyone still had fun | 37.00% | ~40 |
 | Kick It | 33.00% | ~36 |
 | Classroom Secret Spot | 30.00% | ~32 |
 | Spooky | 28.00% | ~30 |
-| Grand Slam! | 26.00% | ~28 |
+| Grand Slam! | 27.00% | ~29 |
 | Living Room Secret Spot | 25.00% | ~27 |
-| Save some water for the fishies | 23.00% | ~25 |
+| Save some water for the fishies | 24.00% | ~26 |
 | Bathroom Secret Spot | 23.00% | ~25 |
 | Angry Dad | 23.00% | ~25 |
-| Angry Mom | 21.00% | ~23 |
-| Hi Hungry, I'm Dad | 20.00% | ~22 |
+| Hi Hungry, I'm Dad | 22.00% | ~24 |
+| Angry Mom | 22.00% | ~24 |
 | Have Mercy | 20.00% | ~22 |
-| Just how we drew it up | 13.00% | ~14 |
+| Just how we drew it up | 14.00% | ~15 |
+| Kitchen Secret Spot | 9.00% | ~10 |
 | Interference | 8.00% | ~9 |
-| Kitchen Secret Spot | 7.00% | ~8 |
-| You broke it, you bought it | 6.00% | ~6 |
+| You broke it, you bought it | 7.00% | ~8 |
 | Found the Secret Formula! | 5.00% | ~5 |
 | Attic Secret Spot | 4.00% | ~4 |
 | Basement Secret Spot | 3.00% | ~3 |
@@ -45,8 +45,8 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 546)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 108 (Ranked 563)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

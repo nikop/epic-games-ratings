@@ -2,10 +2,10 @@
   "ID": "d2ad3196483f4a8ea6e1a43de9400bbb",
   "Name": "The Unexpected Quest",
   "ProductSlug": "the-unexpected-quest-d9ce4c",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-04-04T00:00:00+00:00",
     "PcReleaseDate": "2020-11-26T20:00:00+00:00",
@@ -29,9 +29,131 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-04-10T06:02:00.9022304+00:00",
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ALCHEMIST",
+      "SetID": "83lk1m6",
+      "Name": "Alchemist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_STARS",
+      "SetID": "83lk1m6",
+      "Name": "Perfection",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CLEAN_BEACH",
+      "SetID": "83lk1m6",
+      "Name": "Clean Beach",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DRACO_FAMILY",
+      "SetID": "83lk1m6",
+      "Name": "Family Gathering",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRE_ELEMENTAL",
+      "SetID": "83lk1m6",
+      "Name": "Extinguish the Fire",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRST_STEP",
+      "SetID": "83lk1m6",
+      "Name": "First Step",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_INDIANA_L3",
+      "SetID": "83lk1m6",
+      "Name": "Archeologist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MARKETPLACE",
+      "SetID": "83lk1m6",
+      "Name": "A Good Deal",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MYSTERIOUS_STRANGER",
+      "SetID": "83lk1m6",
+      "Name": "Mysterious Stranger",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NICE_MEET",
+      "SetID": "83lk1m6",
+      "Name": "Nice to Meet You!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SNOWMAN",
+      "SetID": "83lk1m6",
+      "Name": "The Snowman",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_THE_END",
+      "SetID": "83lk1m6",
+      "Name": "Is this the End?",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TREASURE_HUNTER",
+      "SetID": "83lk1m6",
+      "Name": "Treasure Hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WEAPON_ITEM",
+      "SetID": "83lk1m6",
+      "Name": "Locked and Loaded!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WORKFORCE",
+      "SetID": "83lk1m6",
+      "Name": "Manpower",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "83lk1m6",
@@ -41,8 +163,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:05:28.1441361+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:28.1441309+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:00.9022262+00:00",
   "LastUpdate_AppInfo": "2024-04-04T20:57:09.0741394+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:36.1582967+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:28.1441379+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:24.3002507+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:00.9030962+00:00"
 }

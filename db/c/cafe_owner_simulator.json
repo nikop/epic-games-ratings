@@ -2,10 +2,10 @@
   "ID": "8f412f068bf3470699726398816663a1",
   "Name": "Cafe Owner Simulator",
   "ProductSlug": "cafe-owner-simulator-749e0f",
-  "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 309,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1551,
+  "EOS_Progressed": 1614,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -4111,6 +4111,11 @@
       "Time": "2024-03-21T17:11:23.0200285+00:00",
       "NumProgressed": 1551,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:21.3274314+00:00",
+      "NumProgressed": 1614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -4122,7 +4127,7 @@
       "Name": "ADVANCED",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 629
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -4130,7 +4135,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1549
     },
     {
       "ID": "CHIEF",
@@ -4138,7 +4143,7 @@
       "Name": "CHIEF",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 323
     },
     {
       "ID": "CLEANER",
@@ -4146,7 +4151,7 @@
       "Name": "CLEANER",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1453
     },
     {
       "ID": "DEBTOR",
@@ -4154,15 +4159,15 @@
       "Name": "DEBTOR",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 822
+      "UsersEstimate": 839
     },
     {
       "ID": "FIRST_100K",
@@ -4170,7 +4175,7 @@
       "Name": "FIRST $100K",
       "Percentage": 2,
       "XP": 145,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "FIRST_500K",
@@ -4184,9 +4189,9 @@
       "ID": "FIRST_LOSED_VISITOR",
       "SetID": "64e5lgf",
       "Name": "OH NO, HE\u0027S LEAVING!",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1162
     },
     {
       "ID": "INTRODUCTION",
@@ -4194,7 +4199,7 @@
       "Name": "INTRODUCTION",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 403
+      "UsersEstimate": 420
     },
     {
       "ID": "SECOND_FLOOR",
@@ -4202,7 +4207,7 @@
       "Name": "SECOND_FLOOR",
       "Percentage": 13,
       "XP": 150,
-      "UsersEstimate": 202
+      "UsersEstimate": 210
     },
     {
       "ID": "SUCCESSFUL",
@@ -4210,7 +4215,7 @@
       "Name": "SUCCESSFUL",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "THINGS_ARE_GOING_WELL",
@@ -4218,7 +4223,7 @@
       "Name": "THINGS ARE GOING WELL",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "YETTI",
@@ -4226,14 +4231,14 @@
       "Name": "YETTI",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 1551,
+      "Progressed": 1614,
       "Completed": 0
     }
   ],
@@ -4241,8 +4246,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:23.0200278+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:21.3274312+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:28.5923803+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:09.7135905+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:23.0200665+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:32.2685448+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:21.3274572+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "aec58215a9424d00b0d47379180e6af2",
   "Name": "Blossom Tales II The Minotaur Prince",
   "ProductSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
-  "Ranking_EOS_Progress": 751,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Completed": 66,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-11-14T16:00:00+00:00",
     "PcReleaseDate": "2022-08-16T15:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.1117908+00:00",
@@ -65,6 +65,11 @@
       "Time": "2023-10-01T22:06:11.3925549+00:00",
       "NumProgressed": 13,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:04:43.909038+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -74,15 +79,15 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "2e4ldac",
       "Name": "Shiny New Weapons",
-      "Percentage": 54,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "2e4ldac",
       "Name": "Key Piece I",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -90,7 +95,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "2e4ldac",
       "Name": "Completely Hooked",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -98,7 +103,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "2e4ldac",
       "Name": "Not All Who Wander",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "2e4ldac",
       "Name": "Money Bags",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -114,7 +119,7 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "2e4ldac",
       "Name": "Walking Cookbook",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "2e4ldac",
       "Name": "The Musician",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "2e4ldac",
       "Name": "Lily Strong",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "2e4ldac",
       "Name": "Energy For Days",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "2e4ldac",
       "Name": "Fruitful Offerings",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -154,7 +159,7 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "2e4ldac",
       "Name": "Nice Display",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -162,7 +167,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "2e4ldac",
       "Name": "Key Piece II",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -170,7 +175,7 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "2e4ldac",
       "Name": "A Budding Business",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "2e4ldac",
       "Name": "Key Piece III",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "2e4ldac",
       "Name": "The Hero",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -194,7 +199,7 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "2e4ldac",
       "Name": "The Ultimate Weapon",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "2e4ldac",
       "Name": "Postmaster",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -210,7 +215,7 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "2e4ldac",
       "Name": "The Lawnmower Lady",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -218,7 +223,7 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "2e4ldac",
       "Name": "Lily: Warrior Princess",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -226,7 +231,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "2e4ldac",
       "Name": "Combat Queen",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -235,7 +240,7 @@
     {
       "ID": "2e4ldac",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 1
     }
   ],
@@ -243,8 +248,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:22.8667557+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:43.9090365+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:36.4578538+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:04.6122179+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:22.866771+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:49.8136986+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:43.9090594+00:00"
 }

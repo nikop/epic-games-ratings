@@ -2,10 +2,10 @@
   "ID": "d9f33b77c5244148bfdc6e33f99586b1",
   "Name": "Hockey Legacy Manager 24",
   "ProductSlug": "hockey-legacy-manager-24-04beec",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-02T00:00:00+00:00",
     "PcReleaseDate": "2023-12-02T01:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-02T08:58:57.1750957+00:00",
   "LastUpdate_AppInfo": "2024-04-04T01:39:53.0373287+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:53.3093446+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:16.540317+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:38.3305189+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:31.3014279+00:00"
 }

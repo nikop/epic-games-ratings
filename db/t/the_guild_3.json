@@ -5,10 +5,10 @@
   "Ranking_Rating": 1034,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 540,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-06-14T17:00:00+00:00",
     "PcReleaseDate": "2022-06-14T17:00:00+00:00",
@@ -290,7 +290,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 215,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -305,6 +305,11 @@
       "Time": "2024-03-21T17:12:31.0361128+00:00",
       "NumProgressed": 114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:06:01.7628457+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:41.2526851+00:00",
@@ -315,15 +320,15 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "bm02ike",
       "Name": "This is the end",
-      "Percentage": 53,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "bm02ike",
       "Name": "Who is this Luther?",
-      "Percentage": 0.9,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -333,39 +338,39 @@
       "Name": "Witchmaster",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_12",
       "SetID": "bm02ike",
       "Name": "Executed",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_13",
       "SetID": "bm02ike",
       "Name": "Competitor",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "bm02ike",
       "Name": "I am the Master!",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_15",
       "SetID": "bm02ike",
       "Name": "Magnate",
-      "Percentage": 0.9,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -373,15 +378,15 @@
       "Name": "Filthy Rich",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "bm02ike",
       "Name": "The Ruler am I!",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -403,9 +408,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "bm02ike",
       "Name": "Pirates of the European Seas",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 43
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -421,7 +426,7 @@
       "Name": "Serious Foe",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -467,72 +472,72 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "bm02ike",
       "Name": "The cart is creaking...",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_4",
       "SetID": "bm02ike",
       "Name": "My first attempt",
-      "Percentage": 67,
+      "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 76
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_5",
       "SetID": "bm02ike",
       "Name": "Out-Of-Sync",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "bm02ike",
       "Name": "The golden spoon",
-      "Percentage": 26,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_7",
       "SetID": "bm02ike",
       "Name": "Courageous",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_8",
       "SetID": "bm02ike",
       "Name": "Office bearer",
-      "Percentage": 29,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "bm02ike",
       "Name": "Yes, Master!",
-      "Percentage": 7,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm02ike",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 215,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:22.0812478+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:41.252685+00:00",
   "LastChanged": "2024-01-12T18:57:37.985054+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:31.0361123+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:01.7628452+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:07.886214+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:56.5620572+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:31.0361279+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:41.8167668+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:01.7628604+00:00"
 }

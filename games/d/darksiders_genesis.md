@@ -6,29 +6,29 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 6.00% | ~77 |
-| Soul Cache | 6.00% | ~77 |
-| Astarte | 2.00% | ~26 |
-| Close the Rift | 2.00% | ~26 |
-| Mammon | 2.00% | ~26 |
-| Master of Strife | 2.00% | ~26 |
-| Master of War | 2.00% | ~26 |
-| Mint II | 2.00% | ~26 |
-| The Dead Court | 2.00% | ~26 |
-| A Bullet for All Seasons | 1.00% | ~13 |
-| Demolition Derby | 1.00% | ~13 |
-| Good Deeds | 1.00% | ~13 |
-| Hell's Forge | 1.00% | ~13 |
-| Infested | 1.00% | ~13 |
-| Mint III | 1.00% | ~13 |
-| Walking Armory | 1.00% | ~13 |
-| Why'd It Have to Be Snakes? | 1.00% | ~13 |
-| Ready to Blow | 0.80% | ~10 |
-| Gatekeeper | 0.70% | ~9 |
-| Wicked Killington | 0.60% | ~8 |
-| Are You Not Entertained? | 0.50% | ~6 |
-| Full of Hell | 0.50% | ~6 |
-| Collector | 0.40% | ~5 |
+| Mint I | 6.00% | ~88 |
+| Soul Cache | 6.00% | ~88 |
+| Astarte | 2.00% | ~29 |
+| Close the Rift | 2.00% | ~29 |
+| Hell's Forge | 2.00% | ~29 |
+| Mammon | 2.00% | ~29 |
+| Master of Strife | 2.00% | ~29 |
+| Master of War | 2.00% | ~29 |
+| Mint II | 2.00% | ~29 |
+| The Dead Court | 2.00% | ~29 |
+| A Bullet for All Seasons | 1.00% | ~15 |
+| Demolition Derby | 1.00% | ~15 |
+| Good Deeds | 1.00% | ~15 |
+| Infested | 1.00% | ~15 |
+| Mint III | 1.00% | ~15 |
+| Walking Armory | 1.00% | ~15 |
+| Why'd It Have to Be Snakes? | 1.00% | ~15 |
+| Ready to Blow | 0.80% | ~12 |
+| Gatekeeper | 0.70% | ~10 |
+| Wicked Killington | 0.60% | ~9 |
+| Are You Not Entertained? | 0.50% | ~7 |
+| Collector | 0.40% | ~6 |
+| Full of Hell | 0.40% | ~6 |
 | Respect For Animals | 0.30% | ~4 |
 | The Promised End | 0.30% | ~4 |
 | Garden of Forking Paths | 0.20% | ~3 |
@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Dagon | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,285 (Ranked 318)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 1,473 (Ranked 320)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 779 | 0 |
 | 2024-02-22 | 1,036 | 0 |
 | 2024-03-21 | 1,285 | 0 |
+| 2024-04-10 | 1,473 | 0 |
 ## Awards
 Max (Great Boss Battles): 46  (Ranked 504)  
 Sum: 46 (Ranked 557)  

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~197 |
-| Press-ganged | 44.00% | ~150 |
-| The Package | 28.00% | ~95 |
-| Conquered | 20.00% | ~68 |
-| Randomized | 19.00% | ~65 |
-| Scribe | 12.00% | ~41 |
-| Conciliator | 11.00% | ~37 |
-| Tactician | 11.00% | ~37 |
-| Breached | 11.00% | ~37 |
-| Fight Another Day | 10.00% | ~34 |
-| Taskmaster | 10.00% | ~34 |
-| Acquaintance | 8.00% | ~27 |
-| Tail-wind | 8.00% | ~27 |
-| Scholar | 7.00% | ~24 |
-| The More the Merrier | 7.00% | ~24 |
-| Harbinger | 7.00% | ~24 |
-| Merchant | 7.00% | ~24 |
-| Strategist | 6.00% | ~20 |
-| Deputized | 6.00% | ~20 |
-| Courier | 6.00% | ~20 |
-| Pilgrimage's End | 6.00% | ~20 |
-| Quartermaster | 5.00% | ~17 |
-| Been There | 5.00% | ~17 |
-| Spiritual Journey | 5.00% | ~17 |
-| Trouble at Fort Larius | 5.00% | ~17 |
+| A Second Chance | 59.00% | ~207 |
+| Press-ganged | 43.00% | ~151 |
+| The Package | 28.00% | ~98 |
+| Randomized | 20.00% | ~70 |
+| Conquered | 20.00% | ~70 |
+| Scribe | 12.00% | ~42 |
+| Tactician | 11.00% | ~39 |
+| Breached | 11.00% | ~39 |
+| Conciliator | 10.00% | ~35 |
+| Fight Another Day | 10.00% | ~35 |
+| Taskmaster | 10.00% | ~35 |
+| Acquaintance | 8.00% | ~28 |
+| Tail-wind | 8.00% | ~28 |
+| Scholar | 7.00% | ~25 |
+| The More the Merrier | 7.00% | ~25 |
+| Deputized | 7.00% | ~25 |
+| Harbinger | 7.00% | ~25 |
+| Merchant | 7.00% | ~25 |
+| Courier | 6.00% | ~21 |
+| Pilgrimage's End | 6.00% | ~21 |
+| Quartermaster | 5.00% | ~18 |
+| Strategist | 5.00% | ~18 |
+| Been There | 5.00% | ~18 |
+| Spiritual Journey | 5.00% | ~18 |
+| Trouble at Fort Larius | 5.00% | ~18 |
 | Potential Unlocked | 4.00% | ~14 |
 | Xevarian Gambit | 4.00% | ~14 |
 | The Voice of Hereafter | 4.00% | ~14 |
@@ -36,31 +36,31 @@
 | A Terrible Will | 4.00% | ~14 |
 | Inquisitions of Discord | 4.00% | ~14 |
 | Unseen Patterns | 4.00% | ~14 |
-| Supercargo | 3.00% | ~10 |
-| Huntress Unbound | 3.00% | ~10 |
-| Legacy of a Mercenary | 3.00% | ~10 |
-| A Real Battle | 3.00% | ~10 |
-| Life... Finds a Way | 3.00% | ~10 |
-| Merchant Lord | 3.00% | ~10 |
-| Insectoid Propagator | 3.00% | ~10 |
+| Supercargo | 3.00% | ~11 |
+| Huntress Unbound | 3.00% | ~11 |
+| Legacy of a Mercenary | 3.00% | ~11 |
+| A Real Battle | 3.00% | ~11 |
+| Life... Finds a Way | 3.00% | ~11 |
+| Merchant Lord | 3.00% | ~11 |
+| Insectoid Propagator | 3.00% | ~11 |
 | Bounty Hunter | 2.00% | ~7 |
 | Watcher | 2.00% | ~7 |
+| Talent Nurtured | 2.00% | ~7 |
 | Business As Usual | 2.00% | ~7 |
 | Trailblazer | 2.00% | ~7 |
 | Delayed | 2.00% | ~7 |
 | Wyrmslayer | 2.00% | ~7 |
 | Glorious leader | 2.00% | ~7 |
-| Making Contact | 1.00% | ~3 |
-| Loremaster | 1.00% | ~3 |
-| Talent Nurtured | 1.00% | ~3 |
-| Ever After | 1.00% | ~3 |
-| Loader | 1.00% | ~3 |
-| Moving At Odd Angles | 1.00% | ~3 |
-| The Darkness Within | 1.00% | ~3 |
-| What Lies Below | 1.00% | ~3 |
-| The Last Voyage | 1.00% | ~3 |
-| Theory to Practice | 1.00% | ~3 |
-| Voracity Confronted | 1.00% | ~3 |
+| Making Contact | 1.00% | ~4 |
+| Loremaster | 1.00% | ~4 |
+| Ever After | 1.00% | ~4 |
+| Loader | 1.00% | ~4 |
+| Moving At Odd Angles | 1.00% | ~4 |
+| The Darkness Within | 1.00% | ~4 |
+| What Lies Below | 1.00% | ~4 |
+| The Last Voyage | 1.00% | ~4 |
+| Theory to Practice | 1.00% | ~4 |
+| Voracity Confronted | 1.00% | ~4 |
 | Executor | 0.90% | ~3 |
 | Adept | 0.90% | ~3 |
 | Embellished | 0.90% | ~3 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340 (Ranked 437)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 351 (Ranked 443)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,6 +228,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 317 | 0 |
 | 2024-02-22 | 330 | 0 |
 | 2024-03-21 | 340 | 0 |
+| 2024-04-10 | 351 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

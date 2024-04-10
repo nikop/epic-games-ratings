@@ -5,74 +5,74 @@ Rating: 4.64 (Ranked 358)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 5.00% | ~1,013 |
-| I Challenge You To Save More Money! | 5.00% | ~1,013 |
-| I Love How Tough You Are | 4.00% | ~810 |
-| Wanna Come To My Place For Dinner? | 4.00% | ~810 |
-| Love Actually | 3.00% | ~608 |
-| What I Want Is You | 3.00% | ~608 |
-| To Be Or Not To Be | 3.00% | ~608 |
-| Are You Alright? | 3.00% | ~608 |
-| C'est la Vie? | 3.00% | ~31 |
-| How Oddly Kind of You! | 3.00% | ~31 |
-| Go Get Some Fries On The Pier | 2.00% | ~405 |
-| Days Of Innocence | 2.00% | ~405 |
-| A Slap In The Face! | 2.00% | ~405 |
-| Happy Family | 2.00% | ~405 |
-| Let Me Be Your Toy Boy | 2.00% | ~405 |
-| Absolutely Elegant | 2.00% | ~405 |
-| Still Single | 2.00% | ~405 |
-| ONE PUNCH | 2.00% | ~405 |
-| FIRST LOVE | 2.00% | ~405 |
-| Go Clean up In Your Own Way | 2.00% | ~405 |
-| Drama CP: Reel to Real | 2.00% | ~405 |
-| David | 2.00% | ~405 |
-| You're Unbelievable | 2.00% | ~405 |
-| Worthless Speech | 2.00% | ~405 |
-| Drama King | 2.00% | ~405 |
-| SALUTE | 2.00% | ~405 |
-| Light Chaser | 2.00% | ~20 |
-| Detail Hunter | 2.00% | ~20 |
-| Love Game | 2.00% | ~20 |
-| It Takes Two | 2.00% | ~20 |
-| Let's Make Dumplings Together! | 2.00% | ~20 |
-| Skr~ | 2.00% | ~20 |
-| In Sync | 2.00% | ~20 |
-| All I Have Is Money | 1.00% | ~203 |
-| Lover In Dark Alley | 1.00% | ~203 |
-| Can You Do This Or Not? | 1.00% | ~203 |
-| That's So You | 1.00% | ~203 |
-| Buried Secret | 1.00% | ~10 |
-| Once in a Decade | 1.00% | ~10 |
-| Doesn't Matter I'll Handle It | 0.90% | ~182 |
-| Off We Sail Tonight | 0.90% | ~182 |
-| Love You Three Thousand | 0.90% | ~182 |
-| True Love Above All | 0.90% | ~9 |
-| Shoo! Shoo! | 0.90% | ~9 |
-| The Flash | 0.80% | ~162 |
-| New Yoga Pose Unlocked | 0.80% | ~162 |
-| You Like It? | 0.80% | ~8 |
-| More Pros? | 0.80% | ~8 |
-| This Ain't Right In Many Ways... | 0.70% | ~142 |
-| The End of Humanity | 0.70% | ~7 |
-| My Dear Love! | 0.60% | ~122 |
-| Life Is A Rollercoaster | 0.60% | ~122 |
-| Counting Sheep? | 0.60% | ~122 |
-| The Long Season | 0.60% | ~6 |
-| Sweating Bullets, Aren't You? | 0.60% | ~6 |
-| Boys Need To Protect Themselves | 0.50% | ~101 |
-| Stubborn Noob | 0.50% | ~101 |
-| Mates Before Dates | 0.50% | ~5 |
-| Hopelessly Toe-curling | 0.50% | ~5 |
-| Breakup Kitchen | 0.50% | ~5 |
-| Cyber Love, Cyber Life | 0.40% | ~4 |
-| Hurrah! | 0.20% | ~41 |
+| Last Night...Did We... | 6.00% | ~1,226 |
+| I Challenge You To Save More Money! | 6.00% | ~1,226 |
+| I Love How Tough You Are | 5.00% | ~1,022 |
+| Wanna Come To My Place For Dinner? | 4.00% | ~817 |
+| What I Want Is You | 4.00% | ~817 |
+| To Be Or Not To Be | 4.00% | ~817 |
+| Are You Alright? | 4.00% | ~817 |
+| Love Actually | 3.00% | ~613 |
+| FIRST LOVE | 3.00% | ~613 |
+| Go Clean up In Your Own Way | 3.00% | ~613 |
+| You're Unbelievable | 3.00% | ~613 |
+| Drama King | 3.00% | ~613 |
+| C'est la Vie? | 3.00% | ~36 |
+| How Oddly Kind of You! | 3.00% | ~36 |
+| All I Have Is Money | 2.00% | ~409 |
+| Lover In Dark Alley | 2.00% | ~409 |
+| Go Get Some Fries On The Pier | 2.00% | ~409 |
+| Days Of Innocence | 2.00% | ~409 |
+| A Slap In The Face! | 2.00% | ~409 |
+| Happy Family | 2.00% | ~409 |
+| Let Me Be Your Toy Boy | 2.00% | ~409 |
+| Absolutely Elegant | 2.00% | ~409 |
+| Still Single | 2.00% | ~409 |
+| ONE PUNCH | 2.00% | ~409 |
+| Drama CP: Reel to Real | 2.00% | ~409 |
+| David | 2.00% | ~409 |
+| That's So You | 2.00% | ~409 |
+| Worthless Speech | 2.00% | ~409 |
+| SALUTE | 2.00% | ~409 |
+| Light Chaser | 2.00% | ~24 |
+| Detail Hunter | 2.00% | ~24 |
+| Love Game | 2.00% | ~24 |
+| It Takes Two | 2.00% | ~24 |
+| Let's Make Dumplings Together! | 2.00% | ~24 |
+| Skr~ | 2.00% | ~24 |
+| In Sync | 2.00% | ~24 |
+| Doesn't Matter I'll Handle It | 1.00% | ~204 |
+| Off We Sail Tonight | 1.00% | ~204 |
+| Love You Three Thousand | 1.00% | ~204 |
+| The Flash | 1.00% | ~204 |
+| Can You Do This Or Not? | 1.00% | ~204 |
+| Buried Secret | 1.00% | ~12 |
+| Once in a Decade | 1.00% | ~12 |
+| True Love Above All | 1.00% | ~12 |
+| Shoo! Shoo! | 1.00% | ~12 |
+| New Yoga Pose Unlocked | 0.90% | ~184 |
+| This Ain't Right In Many Ways... | 0.90% | ~184 |
+| More Pros? | 0.90% | ~11 |
+| You Like It? | 0.80% | ~10 |
+| My Dear Love! | 0.70% | ~143 |
+| Life Is A Rollercoaster | 0.70% | ~143 |
+| Counting Sheep? | 0.70% | ~143 |
+| The End of Humanity | 0.70% | ~8 |
+| The Long Season | 0.70% | ~8 |
+| Boys Need To Protect Themselves | 0.60% | ~123 |
+| Stubborn Noob | 0.60% | ~123 |
+| Sweating Bullets, Aren't You? | 0.60% | ~7 |
+| Mates Before Dates | 0.50% | ~6 |
+| Hopelessly Toe-curling | 0.50% | ~6 |
+| Breakup Kitchen | 0.50% | ~6 |
+| Cyber Love, Cyber Life | 0.40% | ~5 |
+| Hurrah! | 0.30% | ~61 |
+| Limerence | 0.30% | ~61 |
 | Tall; Grande; Venti | 0.20% | ~41 |
-| Limerence | 0.20% | ~41 |
 | I Aced It Without Even Trying! | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,252 (Ranked 173)  
-Completed: 387 (1.91%) (Ranked 158)  
+Progressed: 20,432 (Ranked 176)  
+Completed: 399 (1.95%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,6 +186,7 @@ Completed: 387 (1.91%) (Ranked 158)
 | 2024-01-27 | 19,130 | 345 |
 | 2024-02-22 | 19,885 | 378 |
 | 2024-03-21 | 20,252 | 387 |
+| 2024-04-10 | 20,432 | 399 |
 ## Awards
 Max (Impact the Story): 56  (Ranked 476)  
 Sum: 56 (Ranked 543)  

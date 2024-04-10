@@ -2,10 +2,10 @@
   "ID": "8805c35d5be3445883a032fd3efc14d0",
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
-  "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 564,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 107,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -459,6 +459,11 @@
       "Time": "2024-03-21T17:11:40.8801317+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:34.2792943+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 43,
@@ -492,7 +497,7 @@
       "ID": "ach_classicpack_00",
       "SetID": "8jkn3bi",
       "Name": "Complete the Pack: Earth",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -500,7 +505,7 @@
       "ID": "ach_dailypack_00",
       "SetID": "8jkn3bi",
       "Name": "Complete a Daily Pack",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -508,9 +513,9 @@
       "ID": "ach_fast_00",
       "SetID": "8jkn3bi",
       "Name": "Fast 6x6",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_fast_01",
@@ -524,7 +529,7 @@
       "ID": "ach_fast_02",
       "SetID": "8jkn3bi",
       "Name": "Fast 8x8",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -532,7 +537,7 @@
       "ID": "ach_fast_03",
       "SetID": "8jkn3bi",
       "Name": "Fast 9x9",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -548,7 +553,7 @@
       "ID": "ach_fast_05",
       "SetID": "8jkn3bi",
       "Name": "Fast 11x11",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -564,9 +569,9 @@
       "ID": "ach_fast_07",
       "SetID": "8jkn3bi",
       "Name": "Fast 13x13",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_levels_00",
@@ -574,15 +579,15 @@
       "Name": "Complete 25 levels",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_levels_01",
       "SetID": "8jkn3bi",
       "Name": "Complete 50 levels",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_levels_02",
@@ -628,7 +633,7 @@
       "ID": "ach_levels_size_01",
       "SetID": "8jkn3bi",
       "Name": "Complete 25 7x7 levels",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -644,7 +649,7 @@
       "ID": "ach_levels_size_03",
       "SetID": "8jkn3bi",
       "Name": "Complete 25 9x9 levels",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -660,7 +665,7 @@
       "ID": "ach_levels_size_05",
       "SetID": "8jkn3bi",
       "Name": "Complete 25 11x11 levels",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -684,9 +689,9 @@
       "ID": "ach_nohints_00",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 5x5",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_nohints_01",
@@ -716,7 +721,7 @@
       "ID": "ach_nohints_04",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 9x9",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -724,7 +729,7 @@
       "ID": "ach_nohints_05",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 10x10",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -732,7 +737,7 @@
       "ID": "ach_nohints_06",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 11x11",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -748,7 +753,7 @@
       "ID": "ach_nohints_08",
       "SetID": "8jkn3bi",
       "Name": "By Yourself 13x13",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -756,9 +761,9 @@
       "ID": "ach_playtime_00",
       "SetID": "8jkn3bi",
       "Name": "Play for 5 hours",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_playtime_01",
@@ -813,14 +818,14 @@
     {
       "ID": "8jkn3bi",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:40.8801311+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:34.2792938+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:43:59.4884397+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:35.1277122+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:40.8801583+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:20.491003+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:34.2793194+00:00"
 }

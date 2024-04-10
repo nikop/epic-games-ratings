@@ -6,58 +6,58 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 97.00% | ~259 |
-| Daily Life Begins Anew | 81.00% | ~216 |
-| Our World Now | 80.00% | ~214 |
-| Never Saw It Coming | 65.00% | ~174 |
-| Coup de Grace | 56.00% | ~150 |
-| Go-Home Club Activities START! | 48.00% | ~128 |
-| Philanthropist | 37.00% | ~99 |
-| Behind the Curtain | 32.00% | ~85 |
-| Test Your Luck | 32.00% | ~85 |
+| Welcome to Redo | 96.00% | ~258 |
+| Daily Life Begins Anew | 80.00% | ~215 |
+| Our World Now | 80.00% | ~215 |
+| Never Saw It Coming | 64.00% | ~172 |
+| Coup de Grace | 56.00% | ~151 |
+| Go-Home Club Activities START! | 47.00% | ~126 |
+| Philanthropist | 37.00% | ~100 |
+| Behind the Curtain | 32.00% | ~86 |
+| Test Your Luck | 32.00% | ~86 |
 | Master of Surprise | 28.00% | ~75 |
-| Be Who You Wanna Be | 26.00% | ~69 |
-| Investment Ban-χ-ing | 24.00% | ~64 |
-| Counter Champion | 24.00% | ~64 |
-| Combo Commando | 24.00% | ~64 |
-| Friendly Neighborhood | 23.00% | ~61 |
+| Be Who You Wanna Be | 26.00% | ~70 |
+| Investment Ban-χ-ing | 24.00% | ~65 |
+| Counter Champion | 24.00% | ~65 |
+| Friendly Neighborhood | 23.00% | ~62 |
+| Combo Commando | 23.00% | ~62 |
 | One-Track Mind | 22.00% | ~59 |
+| WIRE Guru | 22.00% | ~59 |
 | Nice Doing Business | 22.00% | ~59 |
 | Stay Winning | 22.00% | ~59 |
-| WIRE Guru | 21.00% | ~56 |
+| Lost Souls For Sale | 20.00% | ~54 |
 | The Greater Good | 19.00% | ~51 |
 | Depths of the Heart | 19.00% | ~51 |
-| Lost Souls For Sale | 19.00% | ~51 |
 | Selfish Decisions | 18.00% | ~48 |
 | Extracurricular Affair | 18.00% | ~48 |
 | Trigger Finger | 18.00% | ~48 |
-| Pulling Heartstrings | 17.00% | ~45 |
+| Pulling Heartstrings | 17.00% | ~46 |
 | Hopes Rewarded | 16.00% | ~43 |
 | Guarding Guru | 16.00% | ~43 |
-| Eat Your Heart Out | 11.00% | ~29 |
-| Hustled and Bustled | 11.00% | ~29 |
-| To Each Their Own | 10.00% | ~27 |
+| To Each Their Own | 11.00% | ~30 |
+| Eat Your Heart Out | 11.00% | ~30 |
+| Hustled and Bustled | 11.00% | ~30 |
 | Extra! Extra! Journalism Club Showdown | 9.00% | ~24 |
-| Prince of Lettuce | 8.00% | ~21 |
-| Love, Loss, and the Omega Nebula | 8.00% | ~21 |
-| Redo Redone | 7.00% | ~19 |
+| Redo Redone | 8.00% | ~22 |
+| Prince of Lettuce | 8.00% | ~22 |
+| Love, Loss, and the Omega Nebula | 8.00% | ~22 |
 | The Part-Time Tyrant | 7.00% | ~19 |
 | Songstress Unleashed | 7.00% | ~19 |
-| Executive Privilege | 6.00% | ~16 |
+| Executive Privilege | 7.00% | ~19 |
 | For the Love of Regret | 4.00% | ~11 |
 | Building Bridges | 3.00% | ~8 |
+| From Nurse to Worse | 3.00% | ~8 |
+| Birth of a Salesman | 3.00% | ~8 |
+| Group Therapy | 3.00% | ~8 |
+| χ Signature | 3.00% | ~8 |
 | To the Other Side | 2.00% | ~5 |
-| From Nurse to Worse | 2.00% | ~5 |
-| Birth of a Salesman | 2.00% | ~5 |
-| Group Therapy | 2.00% | ~5 |
-| χ Signature | 2.00% | ~5 |
 | World Peace | 1.00% | ~3 |
 | Heart of Gold | 1.00% | ~3 |
 | Topical Conversationalist | 1.00% | ~3 |
 | The Caligula Effect 2 | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267 (Ranked 459)  
-Completed: 2 (0.75%) (Ranked 229)  
+Progressed: 269 (Ranked 466)  
+Completed: 2 (0.74%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 2 (0.75%) (Ranked 229)
 | 2024-01-09 | 255 | 2 |
 | 2024-02-22 | 263 | 2 |
 | 2024-03-21 | 267 | 2 |
+| 2024-04-10 | 269 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

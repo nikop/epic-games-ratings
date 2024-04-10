@@ -5,10 +5,10 @@
   "Ranking_Rating": 933,
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 487,
-  "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 147,
+  "Ranking_EOS_Completed": 371,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -286,7 +286,7 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 47464,
+  "EOS_Progressed": 48307,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -30866,6 +30866,11 @@
       "Time": "2024-03-21T17:08:28.2178625+00:00",
       "NumProgressed": 47464,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-04-10T06:03:37.6155219+00:00",
+      "NumProgressed": 48307,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 29,
@@ -30877,7 +30882,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7120
+      "UsersEstimate": 7246
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -30885,7 +30890,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9967
+      "UsersEstimate": 10144
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -30893,7 +30898,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -30901,7 +30906,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -30909,7 +30914,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -30917,7 +30922,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 949
+      "UsersEstimate": 966
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -30925,7 +30930,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 427
+      "UsersEstimate": 435
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -30933,7 +30938,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -30941,7 +30946,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 475
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -30949,7 +30954,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2415
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -30957,7 +30962,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -30965,7 +30970,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -30973,7 +30978,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -30981,7 +30986,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -30989,7 +30994,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -30997,7 +31002,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -31005,7 +31010,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 237
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -31013,7 +31018,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -31021,7 +31026,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2373
+      "UsersEstimate": 2415
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -31029,7 +31034,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2898
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -31037,7 +31042,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2898
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -31045,7 +31050,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -31053,7 +31058,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -31061,7 +31066,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -31069,7 +31074,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -31077,7 +31082,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -31085,7 +31090,7 @@
       "Name": "Too Metal For Magic",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_29_FINISHED_GAME_NO_DEATHS",
@@ -31093,7 +31098,7 @@
       "Name": "Heart Of Steel",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
@@ -31101,14 +31106,14 @@
       "Name": "Death or Glory",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 47464,
+      "Progressed": 48307,
       "Completed": 33
     }
   ],
@@ -31116,8 +31121,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-04-01T13:59:19.9177317+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:28.2178616+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:37.6155214+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:41.5758593+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:37.6285749+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:28.2180694+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:25.7182696+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:37.6156729+00:00"
 }

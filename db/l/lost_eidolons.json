@@ -5,10 +5,10 @@
   "Ranking_Rating": 861,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 329,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1082,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -3122,6 +3122,11 @@
       "Time": "2024-03-21T17:07:19.0860879+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:02:59.2057577+00:00",
+      "NumProgressed": 1082,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -3133,7 +3138,7 @@
       "Name": "Way of the King",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 97
     },
     {
       "ID": "02",
@@ -3141,7 +3146,7 @@
       "Name": "Way of the Warlord",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 43
     },
     {
       "ID": "03",
@@ -3157,23 +3162,23 @@
       "Name": "The Unvanquished",
       "Percentage": 3,
       "XP": 150,
-      "UsersEstimate": 33
+      "UsersEstimate": 32
     },
     {
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 870
+      "UsersEstimate": 876
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 833
     },
     {
       "ID": "07",
@@ -3181,7 +3186,7 @@
       "Name": "Monster Hunter",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 675
+      "UsersEstimate": 671
     },
     {
       "ID": "08",
@@ -3189,23 +3194,23 @@
       "Name": "Monster Slayer",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 370
+      "UsersEstimate": 368
     },
     {
       "ID": "09",
       "SetID": "73ikgfc",
       "Name": "Awakening",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 292
     },
     {
       "ID": "10",
       "SetID": "73ikgfc",
       "Name": "Huntmaster",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 281
     },
     {
       "ID": "11",
@@ -3259,17 +3264,17 @@
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 794
+      "UsersEstimate": 801
     },
     {
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 642
+      "UsersEstimate": 649
     },
     {
       "ID": "19",
@@ -3277,7 +3282,7 @@
       "Name": "Broken Oath",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 108
     },
     {
       "ID": "20",
@@ -3285,7 +3290,7 @@
       "Name": "Digging Deep",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 173
     },
     {
       "ID": "21",
@@ -3293,7 +3298,7 @@
       "Name": "Arrow in the Wind",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 43
     },
     {
       "ID": "22",
@@ -3301,7 +3306,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 184
     },
     {
       "ID": "23",
@@ -3309,14 +3314,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 227
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1082,
       "Completed": 1
     }
   ],
@@ -3324,8 +3329,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:19.0860871+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:59.2057572+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:40.1856513+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:34.6624489+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:19.0861176+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:22.666659+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:59.2057898+00:00"
 }

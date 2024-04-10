@@ -5,58 +5,58 @@ Rating: 4.62 (Ranked 399)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~19,027 |
-| On the Top Step | 85.00% | ~17,579 |
-| Setting up for Success | 74.00% | ~15,304 |
-| Team Orders | 71.00% | ~14,684 |
-| Engineer | 49.00% | ~10,134 |
-| Familiar Faces | 45.00% | ~9,306 |
-| Sharing the Love | 39.00% | ~8,066 |
-| Going the Extra Mile | 38.00% | ~7,859 |
-| Hitting a Season | 37.00% | ~7,652 |
-| A Dozen Pieces | 30.00% | ~6,204 |
-| Network Success | 28.00% | ~5,791 |
-| Challenge Yourself | 28.00% | ~5,791 |
-| Making History | 28.00% | ~5,791 |
-| Writing a new Chapter | 22.00% | ~4,550 |
-| Spring Cleaning | 20.00% | ~4,136 |
-| Reduce | 18.00% | ~3,723 |
-| Ups and Downs | 17.00% | ~3,516 |
-| Crucial Combo | 15.00% | ~3,102 |
-| Hitting a Bullseye | 15.00% | ~3,102 |
-| Reuse | 15.00% | ~3,102 |
-| Proving Them Wrong | 15.00% | ~3,102 |
-| Gathering Dust | 13.00% | ~2,689 |
-| Oil and Water | 13.00% | ~2,689 |
-| Lightning Round the World | 13.00% | ~2,689 |
-| One for the Book | 13.00% | ~2,689 |
-| Eagle Eye | 12.00% | ~2,482 |
-| All in a Weekend's Work | 12.00% | ~2,482 |
-| Friendly Competition | 12.00% | ~2,482 |
-| Switcheroo | 12.00% | ~2,482 |
-| Spinning Around | 12.00% | ~2,482 |
-| Undisputed Winner | 10.00% | ~2,068 |
-| Tinkerer | 10.00% | ~2,068 |
-| Recycle | 9.00% | ~1,861 |
-| For all Those Back at the Factory | 7.00% | ~1,448 |
-| Smooth Operator | 6.00% | ~1,241 |
-| Living up to Expectations | 5.00% | ~1,034 |
-| Hitting a Century | 4.00% | ~827 |
-| Loyal Bond | 4.00% | ~827 |
-| Peak Performance | 4.00% | ~827 |
-| Seasoned Rookie | 3.00% | ~620 |
-| Wait, I know you? | 2.00% | ~414 |
-| Filling in the Gaps | 2.00% | ~414 |
-| Saturday Night Drama | 1.00% | ~207 |
-| Media Darling | 1.00% | ~207 |
-| Under the Microscope | 0.80% | ~165 |
-| Ultimate Collector | 0.50% | ~103 |
-| Golden Touch | 0.30% | ~62 |
+| Getting on the Step | 93.00% | ~19,538 |
+| On the Top Step | 86.00% | ~18,068 |
+| Setting up for Success | 75.00% | ~15,757 |
+| Team Orders | 72.00% | ~15,126 |
+| Engineer | 50.00% | ~10,504 |
+| Familiar Faces | 45.00% | ~9,454 |
+| Sharing the Love | 40.00% | ~8,404 |
+| Hitting a Season | 39.00% | ~8,194 |
+| Going the Extra Mile | 39.00% | ~8,194 |
+| A Dozen Pieces | 32.00% | ~6,723 |
+| Network Success | 29.00% | ~6,093 |
+| Challenge Yourself | 29.00% | ~6,093 |
+| Making History | 28.00% | ~5,883 |
+| Writing a new Chapter | 23.00% | ~4,832 |
+| Spring Cleaning | 21.00% | ~4,412 |
+| Reduce | 18.00% | ~3,782 |
+| Ups and Downs | 18.00% | ~3,782 |
+| Hitting a Bullseye | 17.00% | ~3,572 |
+| Crucial Combo | 16.00% | ~3,361 |
+| Lightning Round the World | 15.00% | ~3,151 |
+| Reuse | 15.00% | ~3,151 |
+| Proving Them Wrong | 15.00% | ~3,151 |
+| Gathering Dust | 14.00% | ~2,941 |
+| Oil and Water | 14.00% | ~2,941 |
+| One for the Book | 14.00% | ~2,941 |
+| All in a Weekend's Work | 13.00% | ~2,731 |
+| Switcheroo | 13.00% | ~2,731 |
+| Eagle Eye | 12.00% | ~2,521 |
+| Friendly Competition | 12.00% | ~2,521 |
+| Spinning Around | 12.00% | ~2,521 |
+| Undisputed Winner | 11.00% | ~2,311 |
+| Tinkerer | 11.00% | ~2,311 |
+| Recycle | 10.00% | ~2,101 |
+| For all Those Back at the Factory | 8.00% | ~1,681 |
+| Smooth Operator | 6.00% | ~1,261 |
+| Hitting a Century | 5.00% | ~1,050 |
+| Living up to Expectations | 5.00% | ~1,050 |
+| Loyal Bond | 4.00% | ~840 |
+| Peak Performance | 4.00% | ~840 |
+| Seasoned Rookie | 3.00% | ~630 |
+| Wait, I know you? | 3.00% | ~630 |
+| Filling in the Gaps | 2.00% | ~420 |
+| Saturday Night Drama | 1.00% | ~210 |
+| Media Darling | 1.00% | ~210 |
+| Under the Microscope | 0.80% | ~168 |
+| Ultimate Collector | 0.60% | ~126 |
+| Golden Touch | 0.30% | ~63 |
 | Shot in the Dark | 0.10% | ~21 |
 | Elite Racer | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,681 (Ranked 171)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 21,009 (Ranked 174)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,6 +194,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 18,772 | 0 |
 | 2024-03-04 | 20,280 | 0 |
 | 2024-03-21 | 20,681 | 0 |
+| 2024-04-10 | 21,009 | 0 |
 ## Awards
 Max (Diverse Characters): 168  (Ranked 351)  
 Sum: 953 (Ranked 296)  

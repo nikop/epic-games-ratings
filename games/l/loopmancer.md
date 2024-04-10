@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 120.00% | ~128 |
-| Break no Sweat | 114.00% | ~122 |
-| Every little bit counts | 108.00% | ~116 |
-| Growth | 89.00% | ~95 |
-| Targeting the Enemy | 75.00% | ~80 |
-| Unavoidable | 71.00% | ~76 |
-| Revenge | 67.00% | ~72 |
-| Reunion | 43.00% | ~46 |
-| Fluke | 37.00% | ~40 |
-| Elimination | 36.00% | ~39 |
-| Excellent Driving Skills | 34.00% | ~36 |
-| Once Bitten, Twice Shy | 34.00% | ~36 |
-| Victor's Prejudice | 34.00% | ~36 |
-| Memento | 31.00% | ~33 |
-| Fleet-footed | 29.00% | ~31 |
-| Defeat the AI | 28.00% | ~30 |
-| Invincible | 28.00% | ~30 |
+| Black Cat's Warning | 117.00% | ~129 |
+| Break no Sweat | 112.00% | ~123 |
+| Every little bit counts | 107.00% | ~118 |
+| Growth | 88.00% | ~97 |
+| Targeting the Enemy | 75.00% | ~82 |
+| Unavoidable | 71.00% | ~78 |
+| Revenge | 67.00% | ~74 |
+| Reunion | 44.00% | ~48 |
+| Fluke | 37.00% | ~41 |
+| Elimination | 36.00% | ~40 |
+| Excellent Driving Skills | 33.00% | ~36 |
+| Once Bitten, Twice Shy | 33.00% | ~36 |
+| Victor's Prejudice | 33.00% | ~36 |
+| Memento | 31.00% | ~34 |
+| Fleet-footed | 28.00% | ~31 |
+| Defeat the AI | 27.00% | ~30 |
+| Invincible | 27.00% | ~30 |
 | Unsalvageable | 24.00% | ~26 |
 | Best in Dragon City | 23.00% | ~25 |
 | Walking into a Trap | 23.00% | ~25 |
 | Neutralize | 23.00% | ~25 |
 | Disdain | 22.00% | ~24 |
-| Brain in a Vat | 20.00% | ~21 |
-| Final Battle | 19.00% | ~20 |
-| Outsider's Profit | 19.00% | ~20 |
-| Reappearance | 16.00% | ~17 |
+| Brain in a Vat | 19.00% | ~21 |
+| Final Battle | 18.00% | ~20 |
+| Outsider's Profit | 18.00% | ~20 |
+| Reappearance | 15.00% | ~16 |
 | King of the Streets | 10.00% | ~11 |
 | Survival Expert | 10.00% | ~11 |
 | Calamity | 8.00% | ~9 |
 | Rest in peace | 8.00% | ~9 |
-| Still A Chance | 7.00% | ~7 |
-| Achieving Excellence | 7.00% | ~7 |
-| Fashionista | 7.00% | ~7 |
-| Ninja Killer | 5.00% | ~5 |
-| Intel Expert | 5.00% | ~5 |
+| Achieving Excellence | 7.00% | ~8 |
+| Fashionista | 7.00% | ~8 |
+| Still A Chance | 6.00% | ~7 |
+| Ninja Killer | 5.00% | ~6 |
+| Intel Expert | 5.00% | ~6 |
 | Unexpected Crisis | 4.00% | ~4 |
 | Limbo | 4.00% | ~4 |
 | Greetings | 4.00% | ~4 |
@@ -62,8 +62,8 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 548)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 110 (Ranked 562)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,6 +135,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-17 | 107 | 0 |
 | 2024-01-21 | 106 | 0 |
 | 2024-01-22 | 107 | 0 |
+| 2024-04-10 | 110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

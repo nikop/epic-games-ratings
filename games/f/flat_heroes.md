@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 75.00% | ~524 |
-| Snake Eyes | 61.00% | ~426 |
-| Be water, my friend | 58.00% | ~405 |
-| Fireball | 46.00% | ~321 |
-| The King of Flat | 45.00% | ~314 |
-| Hit That Ball | 35.00% | ~244 |
-| Air Slash | 33.00% | ~230 |
-| Eat That Apple | 25.00% | ~174 |
-| Tornado Chaser | 16.00% | ~112 |
-| Bomberman | 11.00% | ~77 |
+| Dash Crash | 75.00% | ~528 |
+| Snake Eyes | 61.00% | ~429 |
+| Be water, my friend | 58.00% | ~408 |
+| Fireball | 46.00% | ~324 |
+| The King of Flat | 45.00% | ~317 |
+| Hit That Ball | 35.00% | ~246 |
+| Air Slash | 33.00% | ~232 |
+| Eat That Apple | 25.00% | ~176 |
+| Tornado Chaser | 16.00% | ~113 |
+| Bomberman | 12.00% | ~84 |
 | Bubble Party | 9.00% | ~63 |
 | The Colossus | 8.00% | ~56 |
 | Floor is Lava | 7.00% | ~49 |
-| Pim Pam Pum | 6.00% | ~42 |
+| Pim Pam Pum | 7.00% | ~49 |
 | Dash Crash - Hero Edition | 5.00% | ~35 |
 | Ambush | 4.00% | ~28 |
 | Black Belt | 3.00% | ~21 |
@@ -49,8 +49,8 @@
 | Yondu | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698 (Ranked 371)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 704 (Ranked 377)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -157,6 +157,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-24 | 678 | 0 |
 | 2024-02-22 | 682 | 0 |
 | 2024-03-21 | 698 | 0 |
+| 2024-04-10 | 704 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

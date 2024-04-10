@@ -5,10 +5,10 @@
   "Ranking_Rating": 511,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 392,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -86,11 +86,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 592,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.23,
+  "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -1016,6 +1016,11 @@
       "Time": "2024-03-21T17:05:58.4244073+00:00",
       "NumProgressed": 571,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-04-10T06:02:16.0715566+00:00",
+      "NumProgressed": 592,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -1025,9 +1030,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 491
     },
     {
       "ID": "dep4_achievement_10",
@@ -1035,7 +1040,7 @@
       "Name": "Sole Music",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 213
     },
     {
       "ID": "dep4_achievement_11",
@@ -1043,15 +1048,15 @@
       "Name": "Distraction",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "dep4_achievement_12",
       "SetID": "5d32b60",
       "Name": "Masseltov",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 107
     },
     {
       "ID": "dep4_achievement_13",
@@ -1059,7 +1064,7 @@
       "Name": "Quickdraw",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "dep4_achievement_14",
@@ -1067,15 +1072,15 @@
       "Name": "Shall we play a game?",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 272
     },
     {
       "ID": "dep4_achievement_15",
       "SetID": "5d32b60",
       "Name": "Weapons 101",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "dep4_achievement_16",
@@ -1083,7 +1088,7 @@
       "Name": "Brainfreeze",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 112
     },
     {
       "ID": "dep4_achievement_17",
@@ -1097,33 +1102,33 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 272
     },
     {
       "ID": "dep4_achievement_19",
       "SetID": "5d32b60",
       "Name": "FunScore",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 308
     },
     {
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 355
     },
     {
       "ID": "dep4_achievement_20",
       "SetID": "5d32b60",
       "Name": "Sadist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "dep4_achievement_21",
@@ -1131,13 +1136,13 @@
       "Name": "Photo Friend",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 148
+      "UsersEstimate": 154
     },
     {
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 30,
       "UsersEstimate": 160
     },
@@ -1147,7 +1152,7 @@
       "Name": "Every man for himself!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "dep4_achievement_24",
@@ -1155,7 +1160,7 @@
       "Name": "Thuna...?",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "dep4_achievement_25",
@@ -1163,15 +1168,15 @@
       "Name": "Monstrous Harassment",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "dep4_achievement_26",
       "SetID": "5d32b60",
       "Name": "Scaffolding Expert",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "dep4_achievement_27",
@@ -1179,7 +1184,7 @@
       "Name": "The customer is always right",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "dep4_achievement_28",
@@ -1187,39 +1192,39 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 337
+      "UsersEstimate": 349
     },
     {
       "ID": "dep4_achievement_29",
       "SetID": "5d32b60",
       "Name": "Pacifist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "dep4_achievement_3",
       "SetID": "5d32b60",
       "Name": "Burn, Elysium, burn!",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 349
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "dep4_achievement_31",
       "SetID": "5d32b60",
       "Name": "Goat Team",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "dep4_achievement_32",
@@ -1227,7 +1232,7 @@
       "Name": "Play it again, Ronny",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "dep4_achievement_33",
@@ -1235,7 +1240,7 @@
       "Name": "Heading the inverter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "dep4_achievement_34",
@@ -1243,7 +1248,7 @@
       "Name": "Apoca...huh?",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "dep4_achievement_35",
@@ -1251,7 +1256,7 @@
       "Name": "Paradox!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "dep4_achievement_36",
@@ -1259,23 +1264,23 @@
       "Name": "Blast from the Past",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "dep4_achievement_4",
       "SetID": "5d32b60",
       "Name": "Funtime\u0027s over",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "dep4_achievement_5",
       "SetID": "5d32b60",
       "Name": "Boat of love, boat of love",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 272
     },
     {
       "ID": "dep4_achievement_6",
@@ -1283,7 +1288,7 @@
       "Name": "School\u0027s out",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 249
     },
     {
       "ID": "dep4_achievement_7",
@@ -1291,15 +1296,15 @@
       "Name": "Portals come in packs",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "dep4_achievement_8",
       "SetID": "5d32b60",
       "Name": "And everything comes full circle.",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "dep4_achievement_9",
@@ -1307,14 +1312,14 @@
       "Name": "Against better judgement",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 592,
       "Completed": 7
     }
   ],
@@ -1322,8 +1327,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2024-02-15T15:58:11.2769447+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:58.4244068+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:16.0715559+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:14.3699326+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:50.7889708+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:58.4244351+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:37.9196188+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:16.0715799+00:00"
 }

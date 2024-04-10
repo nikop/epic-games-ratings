@@ -2,10 +2,10 @@
   "ID": "2918f07c226a49308895622ed4937eb1",
   "Name": "Hide and Seek",
   "ProductSlug": "hide-and-seek-9e0912",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 504,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-11-17T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 187,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 25.95,
+  "EOS_Completed_Percentage": 25.67,
   "EosHistory": [
     {
       "Time": "2023-10-27T08:03:12.3297461+00:00",
@@ -679,6 +679,11 @@
       "Time": "2024-04-05T15:02:45.1257229+00:00",
       "NumProgressed": 185,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-04-10T06:06:41.4972695+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 48
     }
   ],
   "AchievementsAdded": "2023-10-27T08:03:12.3312998+00:00",
@@ -691,7 +696,7 @@
       "Name": "Welcome",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 185
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -699,7 +704,7 @@
       "Name": "Seek",
       "Percentage": 65,
       "XP": 175,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -707,15 +712,15 @@
       "Name": "Hide",
       "Percentage": 80,
       "XP": 175,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_4",
       "SetID": "dhh8kbc",
       "Name": "The Best Seeker",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 150,
-      "UsersEstimate": 115
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -729,23 +734,23 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "dhh8kbc",
       "Name": "Seekers win!",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 150,
-      "UsersEstimate": 96
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhh8kbc",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 187,
       "Completed": 48
     }
   ],
   "FirstSeen": "2023-11-18T09:58:40.5450132+00:00",
   "FirstSeenAchievements": "2023-10-27T08:03:12.3312996+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:02:45.1257224+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:41.497269+00:00",
   "LastUpdate_AppInfo": "2024-04-05T21:57:15.0259234+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:47.1719343+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:02:45.12576+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:32.9824299+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:41.4972802+00:00"
 }

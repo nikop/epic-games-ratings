@@ -6,59 +6,59 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 84.00% | ~9,075 |
-| Photogenic | 81.00% | ~8,751 |
-| Surge Gauntlet Jockey | 78.00% | ~8,427 |
-| Plug It In | 77.00% | ~8,319 |
-| Adventure Time | 73.00% | ~7,887 |
-| Playing With Power | 71.00% | ~7,671 |
-| Coup d'Etat | 54.00% | ~5,834 |
-| You're Fired | 53.00% | ~5,726 |
-| Get Furious | 52.00% | ~5,618 |
-| Hacks In Stacks | 52.00% | ~5,618 |
-| Gunplay And Cosplay | 50.00% | ~5,402 |
-| Meching Enemies | 45.00% | ~4,862 |
-| Ticket Toddler | 41.00% | ~4,430 |
-| Booty Bashing | 35.00% | ~3,781 |
-| Field Medic | 35.00% | ~3,781 |
-| Here Comes a New Challenger | 34.00% | ~3,673 |
-| Rapid Response | 31.00% | ~3,349 |
-| Surge Ahead | 28.00% | ~3,025 |
-| The Full Monty | 28.00% | ~3,025 |
-| Guardian Angel | 25.00% | ~2,701 |
-| Poppin Noggins | 22.00% | ~2,377 |
-| Clips and Crits | 17.00% | ~1,837 |
-| Grey Goo | 15.00% | ~1,621 |
-| Boss of Bosses | 14.00% | ~1,513 |
-| The Final Blow | 13.00% | ~1,405 |
-| To Be Continued | 12.00% | ~1,296 |
-| Light My Fire | 10.00% | ~1,080 |
-| Seasoned Adventurer | 10.00% | ~1,080 |
-| Get In The Ring! | 9.00% | ~972 |
-| 1.21 Gigawatts | 9.00% | ~972 |
-| This Is My Boomstick! | 8.00% | ~864 |
-| Rescue Ranger | 7.00% | ~756 |
-| Surge Gauntlet Scholar | 6.00% | ~648 |
-| Ticket Titan | 6.00% | ~648 |
-| Master of Arms | 5.00% | ~540 |
-| No Chill | 4.00% | ~432 |
-| Stop Hitting Yourself | 4.00% | ~432 |
-| Team Player | 4.00% | ~432 |
-| Event Horizon | 3.00% | ~324 |
-| Ground Control | 3.00% | ~324 |
-| Start Your Collection | 3.00% | ~324 |
-| Treasure Hunting | 3.00% | ~324 |
-| Nexuwizard | 2.00% | ~216 |
-| Everybody Freeze | 0.90% | ~97 |
-| Nature Is Lit | 0.80% | ~86 |
-| The Collector | 0.80% | ~86 |
-| I'm The Pluggernaut | 0.60% | ~65 |
-| Shield and Shred | 0.50% | ~54 |
-| Infinite Adventures! | 0.40% | ~43 |
+| Let's Get This Party Started | 84.00% | ~9,194 |
+| Photogenic | 80.00% | ~8,756 |
+| Surge Gauntlet Jockey | 77.00% | ~8,428 |
+| Plug It In | 76.00% | ~8,318 |
+| Adventure Time | 73.00% | ~7,990 |
+| Playing With Power | 70.00% | ~7,661 |
+| Coup d'Etat | 54.00% | ~5,910 |
+| Get Furious | 52.00% | ~5,691 |
+| You're Fired | 52.00% | ~5,691 |
+| Hacks In Stacks | 51.00% | ~5,582 |
+| Gunplay And Cosplay | 50.00% | ~5,472 |
+| Meching Enemies | 44.00% | ~4,816 |
+| Ticket Toddler | 40.00% | ~4,378 |
+| Field Medic | 35.00% | ~3,831 |
+| Booty Bashing | 34.00% | ~3,721 |
+| Here Comes a New Challenger | 34.00% | ~3,721 |
+| Rapid Response | 31.00% | ~3,393 |
+| Surge Ahead | 28.00% | ~3,065 |
+| The Full Monty | 28.00% | ~3,065 |
+| Guardian Angel | 25.00% | ~2,736 |
+| Poppin Noggins | 22.00% | ~2,408 |
+| Clips and Crits | 17.00% | ~1,861 |
+| Grey Goo | 15.00% | ~1,642 |
+| Boss of Bosses | 14.00% | ~1,532 |
+| The Final Blow | 13.00% | ~1,423 |
+| To Be Continued | 12.00% | ~1,313 |
+| Light My Fire | 10.00% | ~1,094 |
+| Seasoned Adventurer | 10.00% | ~1,094 |
+| Get In The Ring! | 9.00% | ~985 |
+| 1.21 Gigawatts | 9.00% | ~985 |
+| This Is My Boomstick! | 8.00% | ~876 |
+| Rescue Ranger | 7.00% | ~766 |
+| Surge Gauntlet Scholar | 6.00% | ~657 |
+| Ticket Titan | 6.00% | ~657 |
+| Master of Arms | 5.00% | ~547 |
+| No Chill | 4.00% | ~438 |
+| Stop Hitting Yourself | 4.00% | ~438 |
+| Team Player | 4.00% | ~438 |
+| Event Horizon | 3.00% | ~328 |
+| Ground Control | 3.00% | ~328 |
+| Start Your Collection | 3.00% | ~328 |
+| Treasure Hunting | 3.00% | ~328 |
+| Nexuwizard | 2.00% | ~219 |
+| Everybody Freeze | 0.90% | ~99 |
+| Nature Is Lit | 0.80% | ~88 |
+| The Collector | 0.80% | ~88 |
+| I'm The Pluggernaut | 0.60% | ~66 |
+| Shield and Shred | 0.50% | ~55 |
+| Infinite Adventures! | 0.40% | ~44 |
 | Pyrotechnical | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,804 (Ranked 200)  
-Completed: 2 (0.02%) (Ranked 409)  
+Progressed: 10,945 (Ranked 202)  
+Completed: 2 (0.02%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,6 +342,7 @@ Completed: 2 (0.02%) (Ranked 409)
 | 2024-01-27 | 10,456 | 2 |
 | 2024-02-22 | 10,644 | 2 |
 | 2024-03-21 | 10,804 | 2 |
+| 2024-04-10 | 10,945 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 458)  
 Sum: 466 (Ranked 367)  

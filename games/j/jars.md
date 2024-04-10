@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Missing data | 80.00% | ~105 |
-| Broken jar | 76.00% | ~100 |
-| The child of the night | 70.00% | ~92 |
-| It fits. IT FITS! | 69.00% | ~90 |
-| Uncle will be happy | 60.00% | ~79 |
-| I have an army! | 56.00% | ~73 |
-| Sticky fingers | 37.00% | ~48 |
-| A horrible thing will happen... | 31.00% | ~41 |
-| Vampires | 27.00% | ~35 |
-| Bloody stream | 25.00% | ~33 |
-| Fangs | 16.00% | ~21 |
-| Mirrors | 8.00% | ~10 |
+| Missing data | 79.00% | ~111 |
+| Broken jar | 74.00% | ~104 |
+| The child of the night | 70.00% | ~98 |
+| It fits. IT FITS! | 69.00% | ~97 |
+| Uncle will be happy | 60.00% | ~84 |
+| I have an army! | 56.00% | ~78 |
+| Sticky fingers | 35.00% | ~49 |
+| A horrible thing will happen... | 29.00% | ~41 |
+| Vampires | 26.00% | ~36 |
+| Bloody stream | 24.00% | ~34 |
+| Fangs | 15.00% | ~21 |
+| Mirrors | 8.00% | ~11 |
 | At least there is something to read | 5.00% | ~7 |
 | Coat | 5.00% | ~7 |
-| Sarcophagus | 5.00% | ~7 |
-| I need a hero | 5.00% | ~7 |
-| I love you all | 5.00% | ~7 |
-| Skills to pay the bills | 5.00% | ~7 |
-| Missing pages | 4.00% | ~5 |
-| Master of puppets | 4.00% | ~5 |
+| Sarcophagus | 4.00% | ~6 |
+| Missing pages | 4.00% | ~6 |
+| I need a hero | 4.00% | ~6 |
+| Master of puppets | 4.00% | ~6 |
+| I love you all | 4.00% | ~6 |
+| Skills to pay the bills | 4.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 526)  
-Completed: 5 (3.82%) (Ranked 109)  
+Progressed: 140 (Ranked 536)  
+Completed: 5 (3.57%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,6 +96,7 @@ Completed: 5 (3.82%) (Ranked 109)
 | 2023-12-27 | 111 | 5 |
 | 2023-12-30 | 113 | 5 |
 | 2024-03-21 | 131 | 5 |
+| 2024-04-10 | 140 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

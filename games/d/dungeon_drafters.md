@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 39.00% | ~66 |
+| Might be useful… | 39.00% | ~67 |
 | Treasure Hunting | 38.00% | ~65 |
-| Friend! | 31.00% | ~53 |
 | Shine! | 31.00% | ~53 |
+| Friend! | 30.00% | ~52 |
 | Uncut Gem | 27.00% | ~46 |
 | Clear as Water | 27.00% | ~46 |
-| Setting Off | 23.00% | ~39 |
-| Card Collector | 23.00% | ~39 |
-| Riddlesolver | 21.00% | ~36 |
-| Dungeon Mastery | 19.00% | ~32 |
-| A Strange Proposition | 11.00% | ~19 |
-| Card Completionist | 11.00% | ~19 |
-| The Steed | 9.00% | ~15 |
+| Setting Off | 23.00% | ~40 |
+| Card Collector | 23.00% | ~40 |
+| Riddlesolver | 20.00% | ~34 |
+| Dungeon Mastery | 19.00% | ~33 |
+| The Steed | 10.00% | ~17 |
+| A Strange Proposition | 10.00% | ~17 |
+| Card Completionist | 10.00% | ~17 |
 | The Bodyguard | 8.00% | ~14 |
 | The Apprentice | 8.00% | ~14 |
 | Braving Miasma | 7.00% | ~12 |
@@ -24,10 +24,10 @@
 | The Familiar | 6.00% | ~10 |
 | Ancient Nemesis | 6.00% | ~10 |
 | Oracle Mastery | 6.00% | ~10 |
-| Raider Mastery | 5.00% | ~8 |
-| Traveler Mastery | 5.00% | ~8 |
-| Warden Mastery | 5.00% | ~8 |
-| The Plot Thickens | 5.00% | ~8 |
+| Raider Mastery | 5.00% | ~9 |
+| Traveler Mastery | 5.00% | ~9 |
+| Warden Mastery | 5.00% | ~9 |
+| The Plot Thickens | 5.00% | ~9 |
 | Best Pupil | 3.00% | ~5 |
 | Trinket Enthusiast | 3.00% | ~5 |
 | First time? | 3.00% | ~5 |
@@ -45,8 +45,8 @@
 | The New Demon Lord | 1.00% | ~2 |
 | True Drafter | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 504)  
-Completed: 1 (0.59%) (Ranked 242)  
+Progressed: 172 (Ranked 518)  
+Completed: 1 (0.58%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,6 +134,7 @@ Completed: 1 (0.59%) (Ranked 242)
 | 2024-01-25 | 156 | 0 |
 | 2024-01-26 | 157 | 0 |
 | 2024-03-21 | 170 | 1 |
+| 2024-04-10 | 172 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

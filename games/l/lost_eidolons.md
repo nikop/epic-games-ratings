@@ -5,23 +5,23 @@ Rating: 4.35 (Ranked 861)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 80.00% | ~870 |
-| First Blood | 76.00% | ~827 |
-| Ready to Learn | 73.00% | ~794 |
-| Monster Hunter | 62.00% | ~675 |
-| Earning Trust | 59.00% | ~642 |
-| Monster Slayer | 34.00% | ~370 |
-| Awakening | 26.00% | ~283 |
-| Huntmaster | 25.00% | ~272 |
-| Complete the sidequest 'Malice and Greed' | 21.00% | ~228 |
-| House Vulisica's Heirloom | 17.00% | ~185 |
-| Digging Deep | 16.00% | ~174 |
-| Broken Oath | 10.00% | ~109 |
-| Way of the King | 9.00% | ~98 |
+| The First Step | 81.00% | ~876 |
+| First Blood | 77.00% | ~833 |
+| Ready to Learn | 74.00% | ~801 |
+| Monster Hunter | 62.00% | ~671 |
+| Earning Trust | 60.00% | ~649 |
+| Monster Slayer | 34.00% | ~368 |
+| Awakening | 27.00% | ~292 |
+| Huntmaster | 26.00% | ~281 |
+| Complete the sidequest 'Malice and Greed' | 21.00% | ~227 |
+| House Vulisica's Heirloom | 17.00% | ~184 |
+| Digging Deep | 16.00% | ~173 |
+| Broken Oath | 10.00% | ~108 |
+| Way of the King | 9.00% | ~97 |
 | Til We Meet Again | 5.00% | ~54 |
-| Way of the Warlord | 4.00% | ~44 |
-| Arrow in the Wind | 4.00% | ~44 |
-| The Unvanquished | 3.00% | ~33 |
+| Way of the Warlord | 4.00% | ~43 |
+| Arrow in the Wind | 4.00% | ~43 |
+| The Unvanquished | 3.00% | ~32 |
 | Let Us Cling Together | 2.00% | ~22 |
 | A Promised Voyage | 2.00% | ~22 |
 | Life or Death | 1.00% | ~11 |
@@ -29,8 +29,8 @@ Rating: 4.35 (Ranked 861)
 | First Bloom | 1.00% | ~11 |
 | Lean on Me | 0.70% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 329)  
-Completed: 1 (0.09%) (Ranked 357)  
+Progressed: 1,082 (Ranked 338)  
+Completed: 1 (0.09%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,6 +189,7 @@ Completed: 1 (0.09%) (Ranked 357)
 | 2024-01-25 | 1,119 | 1 |
 | 2024-01-26 | 1,118 | 1 |
 | 2024-03-21 | 1,088 | 1 |
+| 2024-04-10 | 1,082 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 528,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 153,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.67,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -679,6 +679,11 @@
       "Time": "2024-03-21T17:11:32.7930645+00:00",
       "NumProgressed": 149,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:05:28.352107+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -699,7 +704,7 @@
       "Name": "Christ the Saviour",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "cold_feet",
@@ -715,7 +720,7 @@
       "Name": "Cultipedia",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "drowned_sorrows",
@@ -723,13 +728,13 @@
       "Name": "Drowned Sorrows",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -739,7 +744,7 @@
       "Name": "If The Suit Fits",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "join_the_legal_team",
@@ -747,7 +752,7 @@
       "Name": "Join the Legal Team",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "josh_the_saviour",
@@ -763,7 +768,7 @@
       "Name": "Knock, Knockout",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "lessons_never_learnt",
@@ -779,15 +784,15 @@
       "Name": "Passive Fist",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "poor_gracie_ray",
       "SetID": "7i36ba9",
       "Name": "Poor Gracie Ray",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "skipper",
@@ -811,7 +816,7 @@
       "Name": "The Doctor",
       "Percentage": 9,
       "XP": 95,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "the_escape",
@@ -827,13 +832,13 @@
       "Name": "The Fall",
       "Percentage": 11,
       "XP": 95,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 95,
       "UsersEstimate": 57
     },
@@ -849,9 +854,9 @@
       "ID": "the_pageant",
       "SetID": "7i36ba9",
       "Name": "The Pageant",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 16
+      "UsersEstimate": 15
     },
     {
       "ID": "the_petition",
@@ -859,7 +864,7 @@
       "Name": "The Petition",
       "Percentage": 9,
       "XP": 95,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "the_price_is_right",
@@ -867,7 +872,7 @@
       "Name": "The Price is Right",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "the_swell_celebration",
@@ -883,7 +888,7 @@
       "Name": "Time Waster",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "who_is_d",
@@ -891,21 +896,21 @@
       "Name": "Who is D?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 153,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:32.7930639+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:28.3521064+00:00",
   "LastUpdate_AppInfo": "2024-04-06T18:57:14.3453393+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:22.2799711+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:32.7930828+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:09.6817389+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:28.352124+00:00"
 }

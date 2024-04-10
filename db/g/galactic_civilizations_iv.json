@@ -5,10 +5,10 @@
   "Ranking_Rating": 1034,
   "Ranking_Popularity": 408,
   "Ranking_PopularitySum": 328,
-  "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 215,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1023,9 +1023,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7784,
+  "EOS_Progressed": 7785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10043,6 +10043,11 @@
       "Time": "2024-04-08T15:04:11.4291376+00:00",
       "NumProgressed": 7784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:07:18.7800327+00:00",
+      "NumProgressed": 7785,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -10086,7 +10091,7 @@
       "Name": "Commodity Trader",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -10094,7 +10099,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "Control_All_Relics",
@@ -10166,7 +10171,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5604
+      "UsersEstimate": 5605
     },
     {
       "ID": "First_Ship_Designed",
@@ -10374,7 +10379,7 @@
       "Name": "Unleash My Power",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4748
+      "UsersEstimate": 4749
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10629,15 +10634,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7784,
+      "Progressed": 7785,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-03-30T09:56:59.1981611+00:00",
-  "LastChanged_Achievements": "2024-04-08T15:04:11.4291372+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:18.7800321+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:07.5364803+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:35.612717+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:04:11.4292209+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:22.2711609+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:18.7801244+00:00"
 }

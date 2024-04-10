@@ -5,10 +5,10 @@
   "Ranking_Rating": 43,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 254,
-  "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 161,
+  "Ranking_EOS_Completed": 349,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1800,7 +1800,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 29218,
+  "EOS_Progressed": 29397,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -15065,6 +15065,11 @@
       "Time": "2024-03-21T17:11:31.5004692+00:00",
       "NumProgressed": 29218,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-04-10T06:05:27.3366781+00:00",
+      "NumProgressed": 29397,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -15084,7 +15089,7 @@
       "Name": "Truly Blessed",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 294
     },
     {
       "ID": "AllEquipment",
@@ -15092,7 +15097,7 @@
       "Name": "Black-shoppe",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AllFriends",
@@ -15108,7 +15113,7 @@
       "Name": "Pillow Investments",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 294
     },
     {
       "ID": "AllScarsBronze",
@@ -15124,7 +15129,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 265
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -15132,7 +15137,7 @@
       "Name": "For Justice",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "BossBridgeDefeated",
@@ -15140,7 +15145,7 @@
       "Name": "Captain and Crew",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1764
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -15148,31 +15153,31 @@
       "Name": "For Glory",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 294
     },
     {
       "ID": "BossCastleDefeated",
       "SetID": "3ojhj46",
       "Name": "Spells and Swords",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2045
+      "UsersEstimate": 2352
     },
     {
       "ID": "BossCaveAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Wrath",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 147
     },
     {
       "ID": "BossCaveDefeated",
       "SetID": "3ojhj46",
       "Name": "Hands and Hammers",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 882
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -15188,7 +15193,7 @@
       "Name": "King and Kin",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 584
+      "UsersEstimate": 588
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -15196,7 +15201,7 @@
       "Name": "For Survival",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "BossForestDefeated",
@@ -15204,7 +15209,7 @@
       "Name": "Harvest and Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1176
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -15220,7 +15225,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 584
+      "UsersEstimate": 588
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -15228,7 +15233,7 @@
       "Name": "For Love",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "BossStudyDefeated",
@@ -15236,7 +15241,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1176
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -15244,7 +15249,7 @@
       "Name": "For Pride",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "BossTowerDefeated",
@@ -15252,7 +15257,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 877
+      "UsersEstimate": 882
     },
     {
       "ID": "BoxerBoss",
@@ -15260,15 +15265,15 @@
       "Name": "K.O.",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "EnableHouseRules",
       "SetID": "3ojhj46",
       "Name": "No Harm in Looking",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1764
     },
     {
       "ID": "EndTimerFail",
@@ -15324,7 +15329,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "PrequelReveal",
@@ -15332,7 +15337,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 588
     },
     {
       "ID": "RogueMode",
@@ -15346,9 +15351,9 @@
       "ID": "SoulShopOverload",
       "SetID": "3ojhj46",
       "Name": "Just the Beginning",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 147
     },
     {
       "ID": "StoryTutorial",
@@ -15356,7 +15361,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "TitleDrop",
@@ -15372,7 +15377,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "UnlockHighestUnity",
@@ -15380,28 +15385,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 29218,
+      "Progressed": 29397,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 8148,
+      "Progressed": 8327,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-04-09T06:58:51.9564442+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:31.5004685+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:27.3366775+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:44.295045+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:14.9794806+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:31.5005681+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:27.8361045+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:27.336761+00:00"
 }

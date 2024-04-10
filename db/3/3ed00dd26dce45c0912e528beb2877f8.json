@@ -2,10 +2,10 @@
   "ID": "3ed00dd26dce45c0912e528beb2877f8",
   "Name": "Formula Evolution 2024",
   "ProductSlug": "formula-evolution-2024-085f66",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-05-27T12:00:00+00:00",
     "PcReleaseDate": "2024-05-27T12:00:00+00:00",
@@ -306,8 +306,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-22T13:11:28.0449271+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:44.4922872+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:13.8453332+00:00",
   "LastUpdate_AppInfo": "2024-04-08T18:57:28.7868409+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:30.0554368+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:44.4923415+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:15.4340919+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:13.8453503+00:00"
 }

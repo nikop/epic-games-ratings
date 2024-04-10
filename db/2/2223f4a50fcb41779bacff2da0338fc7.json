@@ -2,10 +2,10 @@
   "ID": "2223f4a50fcb41779bacff2da0338fc7",
   "Name": "MICROVOLTS: Recharged",
   "ProductSlug": "microvolts_recharged-73b608",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-26T08:00:00+00:00",
     "PcReleaseDate": "2023-09-09T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-26T13:00:32.1611588+00:00",
   "LastUpdate_AppInfo": "2024-04-09T06:57:21.9991493+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:55.5984896+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:53.8931168+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:40.6257109+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:41.7671892+00:00"
 }

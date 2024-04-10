@@ -2,10 +2,10 @@
   "ID": "e9573f687fb24b56ba22562657ef1225",
   "Name": "Need for Speed\u2122 Rivals: Complete Edition",
   "ProductSlug": "need-for-speed-rivals-21b76a",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-20T17:00:00+00:00",
     "PcReleaseDate": "2013-11-14T23:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-24T22:57:52.0338316+00:00",
   "LastUpdate_AppInfo": "2024-04-03T19:57:09.3185125+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:07.5303878+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:26.5491154+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:30.4464916+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:59.9568453+00:00"
 }

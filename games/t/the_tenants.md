@@ -7,6 +7,7 @@ Number of Ratings: 82  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | And So It Begins | 0.40% | ~39 |
+| Renovator | 0.40% | ~39 |
 | Still Kind Of Poor | 0.40% | ~39 |
 | Well Off | 0.40% | ~39 |
 | Agent | 0.30% | ~29 |
@@ -17,7 +18,6 @@ Number of Ratings: 82  (23.09.2022)
 | Home, Sweet Home | 0.30% | ~29 |
 | Loaded | 0.30% | ~29 |
 | Lured In | 0.30% | ~29 |
-| Renovator | 0.30% | ~29 |
 | Master Renovator | 0.30% | ~29 |
 | Treasure Hunter | 0.30% | ~29 |
 | Expert Agent | 0.20% | ~20 |
@@ -93,8 +93,8 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,812 (Ranked 203)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 9,814 (Ranked 205)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,6 +212,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-25 | 9,801 | 0 |
 | 2024-02-22 | 9,807 | 0 |
 | 2024-03-21 | 9,812 | 0 |
+| 2024-04-10 | 9,814 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "0e14884122774ea28f1d33f751d241e6",
   "Name": "Jill of the Jungle: The Complete Trilogy",
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
-  "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 272,
+  "Ranking_EOS_Completed": 59,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2393,
-  "EOS_Completed": 186,
+  "EOS_Progressed": 2433,
+  "EOS_Completed": 188,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.77,
+  "EOS_Completed_Percentage": 7.73,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -8337,6 +8337,11 @@
       "Time": "2024-03-21T17:06:05.6522513+00:00",
       "NumProgressed": 2393,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2024-04-10T06:02:20.2100547+00:00",
+      "NumProgressed": 2433,
+      "NumCompleted": 188
     }
   ],
   "TotalAchievements": 5,
@@ -8348,7 +8353,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2433
     },
     {
       "ID": "2",
@@ -8356,7 +8361,7 @@
       "Name": "Jill the Bold",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 311
+      "UsersEstimate": 316
     },
     {
       "ID": "3",
@@ -8364,7 +8369,7 @@
       "Name": "Jill the Brave",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 239
+      "UsersEstimate": 243
     },
     {
       "ID": "4",
@@ -8372,7 +8377,7 @@
       "Name": "Jill the Courageous",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 215
+      "UsersEstimate": 219
     },
     {
       "ID": "5",
@@ -8380,23 +8385,23 @@
       "Name": "Jill the Champion",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 191
+      "UsersEstimate": 195
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 2393,
-      "Completed": 186
+      "Progressed": 2433,
+      "Completed": 188
     }
   ],
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:05.6522504+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:20.2100541+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:24.3269041+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:58:55.0017075+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:05.6523009+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:19.1629229+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:20.2100999+00:00"
 }

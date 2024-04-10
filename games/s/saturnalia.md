@@ -5,17 +5,17 @@ Rating: 4.26 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~2,920 |
-| Bonfire Lit | 3.00% | ~2,190 |
-| Survival Expert | 3.00% | ~2,190 |
-| Denial | 2.00% | ~1,460 |
-| Acceptance | 2.00% | ~1,460 |
-| Bargaining | 2.00% | ~1,460 |
-| Anger | 1.00% | ~730 |
-| Fear Of The Dark | 1.00% | ~730 |
-| Detective of the occult | 1.00% | ~730 |
-| Depression | 1.00% | ~730 |
-| Bless me Father... | 0.90% | ~657 |
+| Out of Shape | 4.00% | ~2,922 |
+| Bonfire Lit | 3.00% | ~2,192 |
+| Survival Expert | 3.00% | ~2,192 |
+| Denial | 2.00% | ~1,461 |
+| Acceptance | 2.00% | ~1,461 |
+| Bargaining | 2.00% | ~1,461 |
+| Anger | 1.00% | ~731 |
+| Fear Of The Dark | 1.00% | ~731 |
+| Detective of the occult | 1.00% | ~731 |
+| Depression | 1.00% | ~731 |
+| Bless me Father... | 0.80% | ~584 |
 | Phone Bill | 0.80% | ~584 |
 | Power of Friendship | 0.70% | ~511 |
 | Chain Breaker | 0.70% | ~511 |
@@ -26,8 +26,8 @@ Rating: 4.26 (Ranked 959)
 | Are you still there? | 0.40% | ~292 |
 | Ear Ringing | 0.10% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,008 (Ranked 123)  
-Completed: 18 (0.02%) (Ranked 409)  
+Progressed: 73,060 (Ranked 127)  
+Completed: 18 (0.02%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,6 +311,7 @@ Completed: 18 (0.02%) (Ranked 409)
 | 2024-01-27 | 71,006 | 18 |
 | 2024-03-21 | 72,531 | 18 |
 | 2024-04-07 | 73,008 | 18 |
+| 2024-04-10 | 73,060 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

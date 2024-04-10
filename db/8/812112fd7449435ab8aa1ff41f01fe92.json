@@ -2,10 +2,10 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 607,
-  "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 603,
+  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 77,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.54,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-11-23T23:03:27.3218044+00:00",
@@ -334,6 +334,11 @@
       "Time": "2024-03-21T17:09:43.1868397+00:00",
       "NumProgressed": 65,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:04:19.1833195+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -346,21 +351,21 @@
       "Name": "Party on",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 34,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "DEATH_ALL",
       "SetID": "5629o35",
       "Name": "Hardened",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -368,7 +373,7 @@
       "ID": "DEATH_CACTI",
       "SetID": "5629o35",
       "Name": "Spikey boy",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -376,7 +381,7 @@
       "ID": "DEATH_CANON",
       "SetID": "5629o35",
       "Name": "Hold that for a second",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -384,7 +389,7 @@
       "ID": "DEATH_FLOWER",
       "SetID": "5629o35",
       "Name": "Very angry flower",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -392,15 +397,15 @@
       "ID": "DEATH_LAVA",
       "SetID": "5629o35",
       "Name": "The floor is lava. Literally.",
-      "Percentage": 91,
+      "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 68
     },
     {
       "ID": "DEATH_LAVA_100",
       "SetID": "5629o35",
       "Name": "Obsidian bones",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -408,7 +413,7 @@
       "ID": "DEATH_LIGHTNING",
       "SetID": "5629o35",
       "Name": "Storm Chaser",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -416,15 +421,15 @@
       "ID": "FIRST_DEATH",
       "SetID": "5629o35",
       "Name": "Welcome to the jumping challenge!",
-      "Percentage": 92,
+      "Percentage": 90,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 69
     },
     {
       "ID": "OWN_SKINS",
       "SetID": "5629o35",
       "Name": "Fashion enthusiast",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -432,7 +437,7 @@
       "ID": "REACH_SKY",
       "SetID": "5629o35",
       "Name": "Sky is not the limit",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -440,7 +445,7 @@
       "ID": "REACH_SPACE",
       "SetID": "5629o35",
       "Name": "To the moon and beyond",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -448,15 +453,15 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 55,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 12
     },
@@ -464,7 +469,7 @@
       "ID": "SCORE_600",
       "SetID": "5629o35",
       "Name": "S Tier Jumper",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -472,7 +477,7 @@
       "ID": "STARS_100",
       "SetID": "5629o35",
       "Name": "Star Collector",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -482,21 +487,21 @@
       "Name": "Tower Champion",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 77,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:43.1868389+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:19.1833188+00:00",
   "LastUpdate_AppInfo": "2024-04-09T02:14:45.4260005+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:46.9004191+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:43.1868921+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:31.9964598+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:19.1833327+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 431,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1412,9 +1412,9 @@
       "ID": "ACHIEVEMENT_ID_1",
       "SetID": "c504de6",
       "Name": "Tear Down the Wall!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_ID_10",
@@ -1492,9 +1492,9 @@
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -1612,9 +1612,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1660,9 +1660,9 @@
       "ID": "ACHIEVEMENT_ID_38",
       "SetID": "c504de6",
       "Name": "Ammo Tycoon",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_ID_39",
@@ -1684,9 +1684,9 @@
       "ID": "ACHIEVEMENT_ID_40",
       "SetID": "c504de6",
       "Name": "Great Producer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -1763,8 +1763,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:01:56.2765544+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:36.6784163+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:03.5928572+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:41.4763502+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:01:56.2766008+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:00.1355776+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:36.6784551+00:00"
 }

@@ -6,49 +6,49 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 81.00% | ~733 |
-| Kaijuiced | 71.00% | ~643 |
-| Lie Back and Think of Albion | 68.00% | ~615 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~588 |
-| I Look Up As I Walk to Takoshima | 63.00% | ~570 |
-| Yettisoned | 62.00% | ~561 |
-| Pimp My Raid | 60.00% | ~543 |
-| Perfect Probulator | 60.00% | ~543 |
-| Fly Me to the Moon Base | 55.00% | ~498 |
-| Lobster Blisque | 54.00% | ~489 |
-| Earthly Pleasures | 49.00% | ~443 |
-| Ducks in a Row, Fish in a Barrel | 49.00% | ~443 |
-| Freshly Squeezed | 39.00% | ~353 |
-| Forbidden Donut | 38.00% | ~344 |
-| Upgreatest | 38.00% | ~344 |
-| Bodied Sattva | 38.00% | ~344 |
-| Furon Fashion | 31.00% | ~281 |
-| Deincarnated | 30.00% | ~272 |
-| Rock of the Bay | 29.00% | ~262 |
-| Trans-Siberian Express | 26.00% | ~235 |
-| Arkvoodle Doodle | 20.00% | ~181 |
-| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~181 |
-| If You Know What I Mean | 18.00% | ~163 |
-| Die Nasty | 18.00% | ~163 |
-| Ouch of Body Experience | 16.00% | ~145 |
-| Mash Machine | 16.00% | ~145 |
-| Hidden Human Hive Harvest | 15.00% | ~136 |
-| Albion Bridge Is for Falling Down | 14.00% | ~127 |
-| Dusted | 14.00% | ~127 |
-| Scuttled | 12.00% | ~109 |
-| Higher Than the Futen Zoku | 11.00% | ~100 |
-| Arty Facts | 10.00% | ~90 |
-| PK Slam Dunk | 9.00% | ~81 |
-| Cult Following | 7.00% | ~63 |
-| Path of the Furon | 6.00% | ~54 |
-| To Russia With Love | 5.00% | ~45 |
-| Transmitting From Sol-3 | 3.00% | ~27 |
-| Steezy Down the Spine | 2.00% | ~18 |
-| Toilet Break | 2.00% | ~18 |
-| Against All Odds | 2.00% | ~18 |
+| Shop Til They Drop | 81.00% | ~857 |
+| Kaijuiced | 72.00% | ~762 |
+| Lie Back and Think of Albion | 68.00% | ~719 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 66.00% | ~698 |
+| I Look Up As I Walk to Takoshima | 64.00% | ~677 |
+| Yettisoned | 63.00% | ~667 |
+| Pimp My Raid | 62.00% | ~656 |
+| Perfect Probulator | 62.00% | ~656 |
+| Fly Me to the Moon Base | 56.00% | ~592 |
+| Lobster Blisque | 55.00% | ~582 |
+| Earthly Pleasures | 50.00% | ~529 |
+| Ducks in a Row, Fish in a Barrel | 50.00% | ~529 |
+| Freshly Squeezed | 40.00% | ~423 |
+| Upgreatest | 40.00% | ~423 |
+| Bodied Sattva | 39.00% | ~413 |
+| Forbidden Donut | 38.00% | ~402 |
+| Deincarnated | 31.00% | ~328 |
+| Furon Fashion | 31.00% | ~328 |
+| Rock of the Bay | 29.00% | ~307 |
+| Trans-Siberian Express | 26.00% | ~275 |
+| Arkvoodle Doodle | 21.00% | ~222 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~212 |
+| If You Know What I Mean | 18.00% | ~190 |
+| Die Nasty | 18.00% | ~190 |
+| Ouch of Body Experience | 16.00% | ~169 |
+| Hidden Human Hive Harvest | 15.00% | ~159 |
+| Mash Machine | 15.00% | ~159 |
+| Albion Bridge Is for Falling Down | 14.00% | ~148 |
+| Dusted | 14.00% | ~148 |
+| Scuttled | 12.00% | ~127 |
+| Higher Than the Futen Zoku | 11.00% | ~116 |
+| Arty Facts | 10.00% | ~106 |
+| PK Slam Dunk | 9.00% | ~95 |
+| Cult Following | 6.00% | ~63 |
+| To Russia With Love | 6.00% | ~63 |
+| Path of the Furon | 6.00% | ~63 |
+| Transmitting From Sol-3 | 3.00% | ~32 |
+| Against All Odds | 3.00% | ~32 |
+| Steezy Down the Spine | 2.00% | ~21 |
+| Toilet Break | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 905 (Ranked 340)  
-Completed: 9 (0.99%) (Ranked 207)  
+Progressed: 1,058 (Ranked 342)  
+Completed: 10 (0.95%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 9 (0.99%) (Ranked 207)
 | 2024-01-26 | 580 | 6 |
 | 2024-01-27 | 582 | 6 |
 | 2024-03-21 | 905 | 9 |
+| 2024-04-10 | 1,058 | 10 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 539)  
 Sum: 35 (Ranked 579)  

@@ -2,10 +2,10 @@
   "ID": "829e4fae2a754b94b71476ad9cebba84",
   "Name": "The Warden\u0027s Paradise",
   "ProductSlug": "the-wardens-paradise-6d6d53",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-22T16:00:00+00:00",
     "PcReleaseDate": "2024-03-22T16:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-25T15:57:53.6730043+00:00",
   "LastUpdate_AppInfo": "2024-04-07T04:57:23.775424+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:34.7079638+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:59.6008601+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:45.3325098+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:44.7528859+00:00"
 }

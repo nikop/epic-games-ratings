@@ -13,17 +13,17 @@
 | Math Wizard | 67.00% | ~141 |
 | Destroy Erase Improve | 67.00% | ~141 |
 | Power Overload | 64.00% | ~135 |
-| Quite A Snack | 61.00% | ~129 |
+| Quite A Snack | 62.00% | ~131 |
 | Impenetrable Skin | 57.00% | ~120 |
 | Overwhelming Power | 55.00% | ~116 |
-| Chomp Chomp! | 47.00% | ~99 |
-| Supreme Power | 46.00% | ~97 |
+| Chomp Chomp! | 48.00% | ~101 |
+| Supreme Power | 47.00% | ~99 |
 | The Duelist | 45.00% | ~95 |
 | Target Practice | 45.00% | ~95 |
 | Glorious Battle | 44.00% | ~93 |
 | Diaper Time! | 44.00% | ~93 |
+| Mutant And Proud | 41.00% | ~87 |
 | Meat Larder | 41.00% | ~87 |
-| Mutant And Proud | 40.00% | ~84 |
 | The Emperor's New Clothes | 34.00% | ~72 |
 | You Shall Not Pass | 33.00% | ~70 |
 | Animal Lover | 33.00% | ~70 |
@@ -58,8 +58,8 @@
 | Hearty Meteor | 1.00% | ~2 |
 | Destroy Everything | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 477)  
-Completed: 1 (0.47%) (Ranked 263)  
+Progressed: 211 (Ranked 488)  
+Completed: 1 (0.47%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

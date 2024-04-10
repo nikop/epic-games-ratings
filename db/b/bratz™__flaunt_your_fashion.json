@@ -2,10 +2,10 @@
   "ID": "2d6693ed985e4774a19d77291f8593db",
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
-  "Ranking_EOS_Progress": 469,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 246,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -726,6 +726,11 @@
       "Time": "2024-03-21T17:07:40.6127679+00:00",
       "NumProgressed": 225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:11.4362294+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -737,31 +742,31 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 239
     },
     {
       "ID": "10",
       "SetID": "41h3j82",
       "Name": "Born to Win",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 86
+      "UsersEstimate": 96
     },
     {
       "ID": "11",
       "SetID": "41h3j82",
       "Name": "Creating New Trends",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 70,
-      "UsersEstimate": 63
+      "UsersEstimate": 71
     },
     {
       "ID": "12",
       "SetID": "41h3j82",
       "Name": "Stilesville Hidden Style",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 84
     },
     {
       "ID": "13",
@@ -769,15 +774,15 @@
       "Name": "Barcelona Hidden Style",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "14",
       "SetID": "41h3j82",
       "Name": "Seoul Hidden Style",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 44
     },
     {
       "ID": "15",
@@ -791,7 +796,7 @@
       "ID": "16",
       "SetID": "41h3j82",
       "Name": "Xtremely Cool Pictures",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -799,25 +804,25 @@
       "ID": "17",
       "SetID": "41h3j82",
       "Name": "Trendy Selfies",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "18",
       "SetID": "41h3j82",
       "Name": "Exclusive Photoshoot",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "19",
       "SetID": "41h3j82",
       "Name": "Best Gala Ever",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 70,
-      "UsersEstimate": 61
+      "UsersEstimate": 69
     },
     {
       "ID": "2",
@@ -825,39 +830,39 @@
       "Name": "Welcome to Barcelona",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 143
     },
     {
       "ID": "3",
       "SetID": "41h3j82",
       "Name": "Welcome to Seoul",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 70,
-      "UsersEstimate": 86
+      "UsersEstimate": 96
     },
     {
       "ID": "4",
       "SetID": "41h3j82",
       "Name": "Welcome to the The Stylin\u0027 Soiree",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 70,
-      "UsersEstimate": 61
+      "UsersEstimate": 69
     },
     {
       "ID": "5",
       "SetID": "41h3j82",
       "Name": "We will need a bigger wardrobe",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 70,
-      "UsersEstimate": 101
+      "UsersEstimate": 118
     },
     {
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 66
     },
     {
       "ID": "7",
@@ -865,15 +870,15 @@
       "Name": "Roller Race",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 103
     },
     {
       "ID": "8",
       "SetID": "41h3j82",
       "Name": "Hoverboard Race",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 22
     },
     {
       "ID": "9",
@@ -881,14 +886,14 @@
       "Name": "Talented Performer",
       "Percentage": 60,
       "XP": 70,
-      "UsersEstimate": 135
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 246,
       "Completed": 0
     }
   ],
@@ -896,8 +901,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:07:40.6127673+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:11.4362289+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:29.8357801+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:58:47.9098725+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:40.612787+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:12.3501228+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:11.4362441+00:00"
 }

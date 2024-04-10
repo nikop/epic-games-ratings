@@ -5,10 +5,10 @@
   "Ranking_Rating": 465,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 355,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 363,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -99,7 +99,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 776,
+  "EOS_Progressed": 781,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1034,6 +1034,11 @@
       "Time": "2024-03-21T17:09:32.883922+00:00",
       "NumProgressed": 776,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:04:13.6546498+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -1093,7 +1098,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 703
     },
     {
       "ID": "AhoyTrophy",
@@ -1101,7 +1106,7 @@
       "Name": "Ahoy Hoy",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AlienTrophy",
@@ -1117,7 +1122,7 @@
       "Name": "Goal",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -1165,7 +1170,7 @@
       "Name": "Bug Fixer",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "DreadTrophy",
@@ -1173,7 +1178,7 @@
       "Name": "Existential dread",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "DropBallTrophy",
@@ -1189,7 +1194,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 753
+      "UsersEstimate": 758
     },
     {
       "ID": "Ext4Trophy",
@@ -1197,7 +1202,7 @@
       "Name": "New Kid on the Block",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "FatTrophy",
@@ -1221,7 +1226,7 @@
       "Name": "Machine Maxed",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 219
     },
     {
       "ID": "GoldGuyTrophy",
@@ -1253,7 +1258,7 @@
       "Name": "Hidden Packages",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "HammerTrophy",
@@ -1293,7 +1298,7 @@
       "Name": "I ran the numbers",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "KKBossTrophy",
@@ -1325,7 +1330,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 640
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1365,7 +1370,7 @@
       "Name": "Taking the plunge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "RacerTrophy",
@@ -1413,7 +1418,7 @@
       "Name": "Swish",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 430
     },
     {
       "ID": "TerrorTrophy",
@@ -1445,7 +1450,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 305
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1453,7 +1458,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "YouthTrophy",
@@ -1476,7 +1481,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 776,
+      "Progressed": 781,
       "Completed": 0
     }
   ],
@@ -1484,8 +1489,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:32.8839214+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:13.6546493+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:10.7711523+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:10.7782775+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:32.8839597+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:56.6013901+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:13.6546856+00:00"
 }

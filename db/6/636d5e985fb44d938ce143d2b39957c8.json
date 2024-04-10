@@ -2,10 +2,10 @@
   "ID": "636d5e985fb44d938ce143d2b39957c8",
   "Name": "Forklift Simulator",
   "ProductSlug": "forklift-simulator-01a813",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-03T14:57:08.3894325+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:28.0534722+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:27.4290263+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:46.3600623+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:00.4787416+00:00"
 }

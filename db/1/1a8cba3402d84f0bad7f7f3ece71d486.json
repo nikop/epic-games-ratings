@@ -2,10 +2,10 @@
   "ID": "1a8cba3402d84f0bad7f7f3ece71d486",
   "Name": "Geometric Sniper - Blood in Paris",
   "ProductSlug": "geometric-sniper-blood-in-paris-17ce16",
-  "Ranking_EOS_Progress": 529,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-29T17:00:00+00:00",
     "PcReleaseDate": "2021-09-09T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 144,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -38,6 +38,11 @@
     {
       "Time": "2024-03-21T17:11:56.3204693+00:00",
       "NumProgressed": 123,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:43.1546604+00:00",
+      "NumProgressed": 144,
       "NumCompleted": 0
     }
   ],
@@ -57,33 +62,33 @@
       "ID": "ACHIEVEMENT_AV_01",
       "SetID": "a0ilaj2",
       "Name": "MISSION 01",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "ACHIEVEMENT_AV_02",
       "SetID": "a0ilaj2",
       "Name": "MISSION 02",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_AV_03",
       "SetID": "a0ilaj2",
       "Name": "MISSION 03",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_AV_04",
       "SetID": "a0ilaj2",
       "Name": "MISSION 04",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_AV_05",
@@ -91,15 +96,15 @@
       "Name": "MISSION 05",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_AV_06",
       "SetID": "a0ilaj2",
       "Name": "MISSION 06",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_AV_07",
@@ -107,7 +112,7 @@
       "Name": "MISSION 07",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_AV_08",
@@ -115,109 +120,109 @@
       "Name": "MISSION 08",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_AV_09",
       "SetID": "a0ilaj2",
       "Name": "MISSION COMPLETE",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_AV_35",
       "SetID": "a0ilaj2",
       "Name": "MISSION 09",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_AV_36",
       "SetID": "a0ilaj2",
       "Name": "MISSION 10",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_EL_23",
       "SetID": "a0ilaj2",
       "Name": "MISSION ELITE 01",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_EL_24",
       "SetID": "a0ilaj2",
       "Name": "MISSION ELITE 02",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_EL_25",
       "SetID": "a0ilaj2",
       "Name": "MISSION ELITE 03",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_EL_26",
       "SetID": "a0ilaj2",
       "Name": "MISSION ELITE 04",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_EL_27",
       "SetID": "a0ilaj2",
       "Name": "MISSION ELITE 05",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_EL_28",
       "SetID": "a0ilaj2",
       "Name": "MISSION ELITE 06",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_EL_29",
       "SetID": "a0ilaj2",
       "Name": "MISSION ELITE 07",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_EL_30",
       "SetID": "a0ilaj2",
       "Name": "MISSION ELITE 08",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_EL_31",
       "SetID": "a0ilaj2",
       "Name": "FULL MISSION  ELITE",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_FD_37",
       "SetID": "a0ilaj2",
       "Name": "9th MISSION FIND",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -225,7 +230,7 @@
       "ID": "ACHIEVEMENT_FD_38",
       "SetID": "a0ilaj2",
       "Name": "10th MISSION FIND",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -233,17 +238,17 @@
       "ID": "ACHIEVEMENT_FD_39",
       "SetID": "a0ilaj2",
       "Name": "9th MISSION  ELITE",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_FD_40",
       "SetID": "a0ilaj2",
       "Name": "10th MISSION  ELITE",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_FIND_10",
@@ -251,7 +256,7 @@
       "Name": "MISSION FIND 01",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_FIND_11",
@@ -259,21 +264,21 @@
       "Name": "MISSION FIND 02",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_FIND_12",
       "SetID": "a0ilaj2",
       "Name": "MISSION FIND 03",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_FIND_13",
       "SetID": "a0ilaj2",
       "Name": "MISSION FIND 04",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -281,7 +286,7 @@
       "ID": "ACHIEVEMENT_FIND_14",
       "SetID": "a0ilaj2",
       "Name": "MISSION FIND 05",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -289,7 +294,7 @@
       "ID": "ACHIEVEMENT_FIND_15",
       "SetID": "a0ilaj2",
       "Name": "MISSION FIND 06",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -297,7 +302,7 @@
       "ID": "ACHIEVEMENT_FIND_16",
       "SetID": "a0ilaj2",
       "Name": "MISSION FIND 07",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -305,7 +310,7 @@
       "ID": "ACHIEVEMENT_FIND_17",
       "SetID": "a0ilaj2",
       "Name": "MISSION FIND 08",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -323,7 +328,7 @@
       "Name": "FIRST MERCENARY",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_SM_19",
@@ -331,13 +336,13 @@
       "Name": "FIRST SURVIVE",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SM_20",
       "SetID": "a0ilaj2",
       "Name": "LOVE THE SURVIVAL MODE",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -345,15 +350,15 @@
       "ID": "ACHIEVEMENT_SM_21",
       "SetID": "a0ilaj2",
       "Name": "LOVE CHALLENGES",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SM_22",
       "SetID": "a0ilaj2",
       "Name": "I AM AMAZING",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -361,23 +366,23 @@
       "ID": "ACHIEVEMENT_SM_33",
       "SetID": "a0ilaj2",
       "Name": "A VISITOR FROM ANOTHER PLANET",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "a0ilaj2",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 144,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-02T21:58:32.0979316+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:08.239537+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:56.3204686+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:43.1546599+00:00",
   "LastUpdate_AppInfo": "2024-04-05T23:57:08.6318933+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:33.6450842+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:56.3204969+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:21.7790739+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:43.1546868+00:00"
 }

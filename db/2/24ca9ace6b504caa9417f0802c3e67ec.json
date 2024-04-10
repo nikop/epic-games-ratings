@@ -2,10 +2,10 @@
   "ID": "24ca9ace6b504caa9417f0802c3e67ec",
   "Name": "Hidden Shapes - Cat Realm",
   "ProductSlug": "hidden-shapes-cat-realm-3fed96",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 865,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-05-02T17:00:00+00:00",
     "PcReleaseDate": "2022-11-16T17:00:00+00:00",
@@ -23,16 +23,370 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-10T06:01:56.3470178+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-04-10T06:01:56.3470245+00:00",
+  "TotalAchievements": 42,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_HSCR_01",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 01",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_02",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 02",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_03",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 03",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_04",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 04",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_05",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 05",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_06",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 06",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_07",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 07",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_08",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 08",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_09",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 09",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_10",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 10",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_11",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 11",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_12",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 12",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_13",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 13",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_14",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 14",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_15",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 15",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_16",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 16",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_17",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 17",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_18",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 18",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_19",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 19",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_20",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 20",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_21_Full",
+      "SetID": "5ej5g1",
+      "Name": "I love a Hero Cat!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_22",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 22",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_23",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 23",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_24",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 24",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_25",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 25",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_26",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 26",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_27",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 27",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_28",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 28",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_29",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 29",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_30",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 30",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_31",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 31",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_32",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 32",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_33",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 33",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_34",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 34",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_35",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 35",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_36",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 36",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_37",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 37",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_38",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 38",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_39",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 39",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_40",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 40",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_41",
+      "SetID": "5ej5g1",
+      "Name": "HSCR - 41",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_HSCR_42_Full",
+      "SetID": "5ej5g1",
+      "Name": "I LOVE THIS CAT ADVENTURE GAME!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5ej5g1",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-04-10T06:01:56.3470245+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:01:56.3470173+00:00",
   "LastUpdate_AppInfo": "2024-04-09T23:57:20.0000338+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:01.7701996+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:48.0667788+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:56.347791+00:00"
 }

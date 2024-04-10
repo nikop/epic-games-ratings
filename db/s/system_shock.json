@@ -5,10 +5,10 @@
   "Ranking_Rating": 530,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 829,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-05-30T15:00:00+00:00",
     "PcReleaseDate": "2023-05-30T15:00:00+00:00",
@@ -301,7 +301,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -320,6 +320,11 @@
     {
       "Time": "2023-08-21T08:05:00.1533606+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:04:48.5270441+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -380,15 +385,15 @@
       "Name": "En Garde!",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CollectWrench",
       "SetID": "bf8o3co",
       "Name": "Gut-Wrenching",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CompleteCyberspaceLevels",
@@ -402,23 +407,23 @@
       "ID": "CompleteGame",
       "SetID": "bf8o3co",
       "Name": "Look At You, Hacker",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteMaxDifficulty",
       "SetID": "bf8o3co",
       "Name": "Don\u2019t Forget To Salt The Fries",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ConsumeJunkFood",
       "SetID": "bf8o3co",
       "Name": "Look At You, Snacker",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -442,7 +447,7 @@
       "ID": "DefeatDiegoV2",
       "SetID": "bf8o3co",
       "Name": "D\u00E9j\u00E0 Vu",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -500,7 +505,7 @@
       "Name": "Supersleuth",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FindHiddenSkulls",
@@ -522,9 +527,9 @@
       "ID": "FragGrenadeMultiKill",
       "SetID": "bf8o3co",
       "Name": "Somebody Set Up Us The Bomb",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HackEnemies",
@@ -554,7 +559,7 @@
       "ID": "IonBounceKill",
       "SetID": "bf8o3co",
       "Name": "Goldberg\u2019s Ricochet",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -570,7 +575,7 @@
       "ID": "KillDiegoWithRapier",
       "SetID": "bf8o3co",
       "Name": "Finish Him!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -658,9 +663,9 @@
       "ID": "StorageJump",
       "SetID": "bf8o3co",
       "Name": "The Longest Jump",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UseAllPatches",
@@ -674,15 +679,15 @@
       "ID": "UsePowerStation",
       "SetID": "bf8o3co",
       "Name": "System Shocked",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VendingMachineGrenade",
       "SetID": "bf8o3co",
       "Name": "Enjoy Your Purchase",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -699,7 +704,7 @@
     {
       "ID": "bf8o3co",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
@@ -707,8 +712,8 @@
   "FirstSeenRating": "2023-06-14T13:58:13.4205723+00:00",
   "FirstSeenAchievements": "2023-05-26T00:04:35.1577542+00:00",
   "LastChanged": "2024-04-04T16:58:19.6038875+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:29.8992146+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:48.5270435+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:39.7793696+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:58.2298246+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:29.8992431+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:14.4806655+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:48.52707+00:00"
 }

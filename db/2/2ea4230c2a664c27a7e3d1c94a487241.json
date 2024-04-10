@@ -2,10 +2,10 @@
   "ID": "2ea4230c2a664c27a7e3d1c94a487241",
   "Name": "Potato Sack Racing Simulator 2024",
   "ProductSlug": "potato-sack-racing-simulator-2024-3c3c83",
-  "Ranking_EOS_Progress": 727,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 720,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-01-05T11:00:00+00:00",
     "PcReleaseDate": "2024-01-05T11:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-03-21T17:08:50.8978597+00:00",
       "NumProgressed": 17,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:49.9904611+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T17:03:22.6972043+00:00",
@@ -54,25 +59,25 @@
       "ID": "01",
       "SetID": "2o0k3mc",
       "Name": "Mom! I\u0027m on TV!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "02",
       "SetID": "2o0k3mc",
       "Name": "M\u0027lady",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "03",
       "SetID": "2o0k3mc",
       "Name": "Wah! Wah!!!!",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "04",
@@ -94,9 +99,9 @@
       "ID": "06",
       "SetID": "2o0k3mc",
       "Name": "Drink this!",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "07",
@@ -110,7 +115,7 @@
       "ID": "08",
       "SetID": "2o0k3mc",
       "Name": "Mega Triga Boss",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -191,14 +196,14 @@
     {
       "ID": "2o0k3mc",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-05T09:58:24.1541751+00:00",
   "FirstSeenAchievements": "2023-12-20T17:03:22.6972043+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:50.8978591+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:49.9904605+00:00",
   "LastUpdate_AppInfo": "2024-04-04T01:39:52.5271241+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:05.6516917+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:50.8978713+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:21.2231748+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:49.9904728+00:00"
 }

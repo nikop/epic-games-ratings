@@ -2,10 +2,10 @@
   "ID": "8549e5bffe744f67933bf4f8689030c4",
   "Name": "Godzilla Voxel Wars",
   "ProductSlug": "godzillawars-2c30e4",
-  "Ranking_EOS_Progress": 658,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 676,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "DropEnemiesIntoMagmaWithBiolante",
       "SetID": "59jf8f5",
       "Name": "Touch of Death",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "EditStageFirst",
@@ -730,8 +730,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:35.0442475+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:14.883281+00:00",
   "LastUpdate_AppInfo": "2024-04-09T13:56:58.9611735+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:37.9663791+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:35.0442909+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:24.5687816+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:14.8833306+00:00"
 }

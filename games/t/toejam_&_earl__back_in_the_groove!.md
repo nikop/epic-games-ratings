@@ -5,41 +5,41 @@ Rating: 4.33 (Ranked 886)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~5,966 |
-| Fall Fest | 8.00% | ~4,773 |
-| Thrill Seeker | 7.00% | ~4,176 |
-| Flying Present Catcher | 6.00% | ~3,579 |
-| HFZ Goober | 6.00% | ~3,579 |
-| Sunflower Master | 5.00% | ~2,983 |
-| Hi Fiver | 3.00% | ~1,790 |
-| A Timely Splash | 3.00% | ~1,790 |
-| Backer Visitor | 2.00% | ~1,193 |
-| Hate That Randomizer | 2.00% | ~1,193 |
-| Feet on Funkotron | 2.00% | ~1,193 |
-| Elf Chaser | 1.00% | ~597 |
-| Fool Me Twice | 1.00% | ~597 |
-| Old School Jammin' | 1.00% | ~597 |
-| Wakey Wakey | 1.00% | ~597 |
-| Gimme My Presents Back! | 0.80% | ~477 |
-| Level Diver | 0.80% | ~477 |
-| Cleaning Out Santa's Sack | 0.70% | ~418 |
-| Teamwork Rules | 0.70% | ~418 |
-| Totally Bummed Again | 0.70% | ~418 |
-| Beaten By A Little Girl | 0.60% | ~358 |
-| I Can't Believe I've Done This | 0.50% | ~298 |
-| Piece O' Cake | 0.50% | ~298 |
+| Food Taster | 10.00% | ~5,987 |
+| Fall Fest | 8.00% | ~4,790 |
+| Thrill Seeker | 7.00% | ~4,191 |
+| Flying Present Catcher | 6.00% | ~3,592 |
+| HFZ Goober | 6.00% | ~3,592 |
+| Sunflower Master | 5.00% | ~2,994 |
+| Hi Fiver | 3.00% | ~1,796 |
+| A Timely Splash | 3.00% | ~1,796 |
+| Backer Visitor | 2.00% | ~1,197 |
+| Hate That Randomizer | 2.00% | ~1,197 |
+| Feet on Funkotron | 2.00% | ~1,197 |
+| Elf Chaser | 1.00% | ~599 |
+| Fool Me Twice | 1.00% | ~599 |
+| Old School Jammin' | 1.00% | ~599 |
+| Wakey Wakey | 1.00% | ~599 |
+| Gimme My Presents Back! | 0.80% | ~479 |
+| Level Diver | 0.80% | ~479 |
+| Cleaning Out Santa's Sack | 0.70% | ~419 |
+| Teamwork Rules | 0.70% | ~419 |
+| Totally Bummed Again | 0.70% | ~419 |
+| Beaten By A Little Girl | 0.60% | ~359 |
+| I Can't Believe I've Done This | 0.50% | ~299 |
+| Made It Through | 0.50% | ~299 |
+| Piece O' Cake | 0.50% | ~299 |
 | Boom Box Baby | 0.40% | ~239 |
 | Flying Present Ultimate Master | 0.40% | ~239 |
 | Ridiculously Generous | 0.40% | ~239 |
 | Harsh Love | 0.40% | ~239 |
-| Made It Through | 0.40% | ~239 |
 | I'm A Total Saint | 0.40% | ~239 |
-| Map Explorer | 0.30% | ~179 |
-| Nine Funkotronians | 0.30% | ~179 |
-| Struck By Love | 0.30% | ~179 |
-| The Worst Possible Luck | 0.30% | ~179 |
-| Broken Present Risk Taker | 0.20% | ~119 |
-| Truly Evil | 0.20% | ~119 |
+| Map Explorer | 0.30% | ~180 |
+| Nine Funkotronians | 0.30% | ~180 |
+| Struck By Love | 0.30% | ~180 |
+| The Worst Possible Luck | 0.30% | ~180 |
+| Broken Present Risk Taker | 0.20% | ~120 |
+| Truly Evil | 0.20% | ~120 |
 | Achievement Achiever | 0.10% | ~60 |
 | Boom Box Wipeout | 0.10% | ~60 |
 | Can't Touch This | 0.10% | ~60 |
@@ -55,8 +55,8 @@ Rating: 4.33 (Ranked 886)
 | Why Do I Keep Doing That? | 0.10% | ~60 |
 | Hey, You Did It! | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,658 (Ranked 131)  
-Completed: 6 (0.01%) (Ranked 424)  
+Progressed: 59,872 (Ranked 136)  
+Completed: 6 (0.01%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,6 +339,7 @@ Completed: 6 (0.01%) (Ranked 424)
 | 2024-01-26 | 58,952 | 6 |
 | 2024-01-27 | 58,961 | 6 |
 | 2024-03-21 | 59,658 | 6 |
+| 2024-04-10 | 59,872 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

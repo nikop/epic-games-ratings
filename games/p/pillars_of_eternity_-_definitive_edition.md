@@ -6,25 +6,25 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 84.00% | ~900 |
-| Completed Act I | 32.00% | ~343 |
+| Kickstarter Backer | 85.00% | ~910 |
+| Completed Act I | 32.00% | ~342 |
 | 5 Upgrades in Stronghold | 27.00% | ~289 |
-| First 5 Levels of Od Nua | 25.00% | ~268 |
+| First 5 Levels of Od Nua | 26.00% | ~278 |
 | Make an Adventurer | 24.00% | ~257 |
 | Completed Act II | 17.00% | ~182 |
-| Enchanter | 16.00% | ~172 |
-| Disposition | 16.00% | ~172 |
-| Super Murderer | 15.00% | ~161 |
-| All Upgrades in Stronghold | 15.00% | ~161 |
-| The Watcher With Eight Friends | 15.00% | ~161 |
-| Middle 5 Levels of Od Nua | 15.00% | ~161 |
+| Enchanter | 16.00% | ~171 |
+| Disposition | 16.00% | ~171 |
+| Super Murderer | 15.00% | ~160 |
+| All Upgrades in Stronghold | 15.00% | ~160 |
+| The Watcher With Eight Friends | 15.00% | ~160 |
+| Middle 5 Levels of Od Nua | 15.00% | ~160 |
 | Soulbinder | 14.00% | ~150 |
 | The Heir of Caed Nua | 13.00% | ~139 |
 | Last 5 Levels of Od Nua | 13.00% | ~139 |
 | Bounty Hunter | 11.00% | ~118 |
 | The Giftbearer | 11.00% | ~118 |
+| Trappy | 10.00% | ~107 |
 | Watcher at the Breach | 10.00% | ~107 |
-| Trappy | 9.00% | ~96 |
 | Herald of the Old Flame | 9.00% | ~96 |
 | Completed Act III | 8.00% | ~86 |
 | Fish Guts and Murder | 8.00% | ~86 |
@@ -42,7 +42,7 @@ Number of Ratings: 2,847  (23.09.2022)
 | Won the Game!!! | 3.00% | ~32 |
 | Among the Moss and Peat | 2.00% | ~21 |
 | Legendary Enchanter | 1.00% | ~11 |
-| Path of the Damned | 0.70% | ~8 |
+| Path of the Damned | 0.70% | ~7 |
 | Expert | 0.60% | ~6 |
 | Solo | 0.60% | ~6 |
 | Triple Crown | 0.60% | ~6 |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,072 (Ranked 331)  
-Completed: 2 (0.19%) (Ranked 319)  
+Progressed: 1,070 (Ranked 339)  
+Completed: 2 (0.19%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,6 +121,7 @@ Completed: 2 (0.19%) (Ranked 319)
 | 2024-01-16 | 1,074 | 2 |
 | 2024-01-18 | 1,073 | 2 |
 | 2024-03-21 | 1,072 | 2 |
+| 2024-04-10 | 1,070 | 2 |
 ## Awards
 Max (Character Customization): 1,991  (Ranked 130)  
 Sum: 4,922 (Ranked 160)  

@@ -2,10 +2,10 @@
   "ID": "ef02301060454cfd8345fae625743294",
   "Name": "Sands of Aura",
   "ProductSlug": "sands-of-aura",
-  "Ranking_EOS_Progress": 487,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 200,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -730,6 +730,11 @@
       "Time": "2024-03-21T17:12:09.7022533+00:00",
       "NumProgressed": 191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:50.9049294+00:00",
+      "NumProgressed": 200,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -740,9 +745,9 @@
       "ID": "ALAIRA_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Rain Must Fall",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ALAIRA_MASTER",
@@ -756,9 +761,9 @@
       "ID": "ALCHEMECT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Overboard",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ALCHEMECT_MASTER",
@@ -820,9 +825,9 @@
       "ID": "COLLECT_ALL_BREW_RECIPES",
       "SetID": "cm0d613",
       "Name": "Sommelier",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "COLLECT_ALL_POMMEL_CASTS",
@@ -846,7 +851,7 @@
       "Name": "Bladesmith",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "COMPLETE_ALAIRA_STORY",
@@ -894,7 +899,7 @@
       "Name": "A Small Thirsty Thing",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "CRAGBOSS_MASTER",
@@ -932,17 +937,17 @@
       "ID": "DEFEAT_BELFRY_SOLO",
       "SetID": "cm0d613",
       "Name": "Let Me Solo Them",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "DEFEAT_ISHULAR_GIANT",
@@ -956,17 +961,17 @@
       "ID": "DISCOVER_ALL_ISLANDS",
       "SetID": "cm0d613",
       "Name": "Explorer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "DISCOVER_ONCEMAN_TOWN",
       "SetID": "cm0d613",
       "Name": "The River Styx",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "DISCOVER_TRUE_LEISIS",
@@ -980,9 +985,9 @@
       "ID": "EINAR_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Frigid Winds",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "EINAR_MASTER",
@@ -1004,9 +1009,9 @@
       "ID": "FLARE_KNIGHT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "The Guardian of Fire",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "FLARE_KNIGHT_MASTER",
@@ -1020,9 +1025,9 @@
       "ID": "GRECKKO_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Sovereignty of Irons",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "GRECKKO_MASTER",
@@ -1118,15 +1123,15 @@
       "Name": "Leisis Bless You",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SMITH_UPGRADE_1",
       "SetID": "cm0d613",
       "Name": "Advanced Armaments",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "SMITH_UPGRADE_2",
@@ -1140,9 +1145,9 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 182
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1150,7 +1155,7 @@
       "Name": "Spirit Within",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "UBAANI_MASTER",
@@ -1172,9 +1177,9 @@
       "ID": "USE_FLOWERING_VASCULATURE",
       "SetID": "cm0d613",
       "Name": "Transformative Nature",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "WILGRAM_TWINS_DEFEAT",
@@ -1182,7 +1187,7 @@
       "Name": "Twin Thorns",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WILGRAM_TWINS_MASTER",
@@ -1205,7 +1210,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 200,
       "Completed": 0
     }
   ],
@@ -1213,8 +1218,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:09.7022527+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:50.9049288+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:19.7217649+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:49.1650502+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:09.7023024+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:34.9889824+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:50.9049677+00:00"
 }

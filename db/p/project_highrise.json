@@ -2,10 +2,10 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 383,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -2009,9 +2009,9 @@
       "ID": "ach_consultants_b",
       "SetID": "b8gh1fi",
       "Name": "I\u0027m Busy Ruling",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_consultants_c",
@@ -2265,9 +2265,9 @@
       "ID": "ach_plaza",
       "SetID": "b8gh1fi",
       "Name": "Plaza Plan",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_pop_1",
@@ -2281,9 +2281,9 @@
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "ach_prestige_1",
@@ -2417,9 +2417,9 @@
       "ID": "ach_retail_4",
       "SetID": "b8gh1fi",
       "Name": "Boutique Benefits",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 71
     },
     {
       "ID": "ach_revs_1",
@@ -2562,8 +2562,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-04-07T18:05:31.9510276+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:06.6970655+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:15.1340745+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:17.5109537+00:00",
-  "LastUpdate_Achievements": "2024-04-07T18:05:31.9511338+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:02.4110743+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:06.6971438+00:00"
 }

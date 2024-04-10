@@ -2,10 +2,10 @@
   "ID": "78e018c4f69d4ffc8840f94a76146822",
   "Name": "Ys X: Nordics",
   "ProductSlug": "ys-x-nordics-0ed760",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-03T22:57:10.9812089+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:29.8060504+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:53.6857717+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:15.1684703+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:41.6268692+00:00"
 }

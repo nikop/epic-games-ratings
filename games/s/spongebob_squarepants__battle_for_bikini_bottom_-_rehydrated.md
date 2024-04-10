@@ -6,41 +6,41 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Jellyfish Jam | 24.00% | ~466 |
-| Spatula Seeker | 24.00% | ~466 |
-| Sponge Smasher | 24.00% | ~466 |
-| Jellyfishing | 18.00% | ~349 |
-| Sock Getter | 15.00% | ~291 |
-| Sweet Victory | 14.00% | ~272 |
-| Star Smasher | 14.00% | ~272 |
-| Time For Tutorial | 14.00% | ~272 |
-| Super Spatula Seeker | 13.00% | ~252 |
-| Uptown and Downtown | 12.00% | ~233 |
-| Surf's Up! | 12.00% | ~233 |
-| Squirrel Smasher | 11.00% | ~214 |
-| Life's as extreme as you wanna make it! | 10.00% | ~194 |
-| Toxic Terror | 10.00% | ~194 |
-| Shrimp Catcher | 9.00% | ~175 |
-| Hit Rock Bottom | 9.00% | ~175 |
-| Are you ready now? | 8.00% | ~155 |
-| Hello, Bikini Bottom | 8.00% | ~155 |
-| Ultra Spatula Seeker | 8.00% | ~155 |
-| Robot encyclopedia | 7.00% | ~136 |
-| Keep it Rolling | 7.00% | ~136 |
-| Ship Shape | 6.00% | ~116 |
-| Shanghaied | 6.00% | ~116 |
-| The Small Does Not Rule | 5.00% | ~97 |
-| Kelp Forest of Fear | 5.00% | ~97 |
-| SpongeBob vs SpongeBob! | 5.00% | ~97 |
-| Sleepy Time | 5.00% | ~97 |
-| Sock Concert | 5.00% | ~97 |
-| Mega Spatula Seeker | 5.00% | ~97 |
-| 100% SpongeBob | 2.00% | ~39 |
-| Sock Opera | 2.00% | ~39 |
-| Super Ultra Mega Spatula Seeker | 2.00% | ~39 |
+| Jellyfish Jam | 25.00% | ~550 |
+| Spatula Seeker | 25.00% | ~550 |
+| Sponge Smasher | 25.00% | ~550 |
+| Jellyfishing | 19.00% | ~418 |
+| Sock Getter | 16.00% | ~352 |
+| Sweet Victory | 15.00% | ~330 |
+| Super Spatula Seeker | 14.00% | ~308 |
+| Star Smasher | 14.00% | ~308 |
+| Time For Tutorial | 14.00% | ~308 |
+| Uptown and Downtown | 12.00% | ~264 |
+| Squirrel Smasher | 12.00% | ~264 |
+| Surf's Up! | 12.00% | ~264 |
+| Life's as extreme as you wanna make it! | 10.00% | ~220 |
+| Toxic Terror | 10.00% | ~220 |
+| Shrimp Catcher | 9.00% | ~198 |
+| Hit Rock Bottom | 9.00% | ~198 |
+| Ultra Spatula Seeker | 9.00% | ~198 |
+| Robot encyclopedia | 8.00% | ~176 |
+| Are you ready now? | 8.00% | ~176 |
+| Hello, Bikini Bottom | 8.00% | ~176 |
+| Keep it Rolling | 8.00% | ~176 |
+| The Small Does Not Rule | 6.00% | ~132 |
+| Ship Shape | 6.00% | ~132 |
+| Shanghaied | 6.00% | ~132 |
+| SpongeBob vs SpongeBob! | 6.00% | ~132 |
+| Sock Concert | 6.00% | ~132 |
+| Mega Spatula Seeker | 6.00% | ~132 |
+| Kelp Forest of Fear | 5.00% | ~110 |
+| Sleepy Time | 5.00% | ~110 |
+| 100% SpongeBob | 2.00% | ~44 |
+| Sock Opera | 2.00% | ~44 |
+| Super Ultra Mega Spatula Seeker | 2.00% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,941 (Ranked 282)  
-Completed: 24 (1.24%) (Ranked 189)  
+Progressed: 2,198 (Ranked 281)  
+Completed: 26 (1.18%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 24 (1.24%) (Ranked 189)
 | 2024-01-26 | 1,245 | 12 |
 | 2024-01-27 | 1,252 | 12 |
 | 2024-03-21 | 1,941 | 24 |
+| 2024-04-10 | 2,198 | 26 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 530)  
 Sum: 37 (Ranked 575)  

@@ -2,10 +2,10 @@
   "ID": "173d783680df4fba92423e189f6df67d",
   "Name": "Kids Learn",
   "ProductSlug": "kids-learn-e4a163",
-  "Ranking_EOS_Progress": 768,
-  "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 776,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-01T18:30:00+00:00",
     "PcReleaseDate": "2016-03-30T18:30:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 12,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 30,
+  "EOS_Completed_Percentage": 25,
   "EosHistory": [
     {
       "Time": "2023-11-28T18:03:15.3881622+00:00",
@@ -82,6 +82,11 @@
       "Time": "2024-03-04T23:04:50.9128507+00:00",
       "NumProgressed": 10,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-04-10T06:06:07.4111913+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-28T18:03:15.3892997+00:00",
@@ -100,7 +105,7 @@
       "ID": "KIDS_LEARN_2",
       "SetID": "68ndjm7",
       "Name": "Expert Winner",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -133,13 +138,13 @@
     {
       "ID": "68ndjm7",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 12,
       "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-11-28T18:03:15.3892997+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:40.9610304+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:07.4111907+00:00",
   "LastUpdate_AppInfo": "2024-04-03T07:57:12.9321578+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:19.6619532+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:40.9610372+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:06.9990456+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:07.4111976+00:00"
 }

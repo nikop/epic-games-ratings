@@ -2,10 +2,10 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 482,
-  "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 497,
+  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 198,
+  "EOS_Progressed": 199,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.52,
+  "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -924,6 +924,11 @@
       "Time": "2024-03-21T17:05:50.6373522+00:00",
       "NumProgressed": 198,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-04-10T06:02:11.9180822+00:00",
+      "NumProgressed": 199,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 20,
@@ -957,9 +962,9 @@
       "ID": "CollectCurses",
       "SetID": "7g1kpc8",
       "Name": "Unlucky",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "CollectGold",
@@ -991,15 +996,15 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "FirstStep",
@@ -1037,9 +1042,9 @@
       "ID": "Leprechaun",
       "SetID": "7g1kpc8",
       "Name": "Leprechaun",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "MonsterSlayer",
@@ -1053,9 +1058,9 @@
       "ID": "Persistence",
       "SetID": "7g1kpc8",
       "Name": "Persistence",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "ReturnShell",
@@ -1069,9 +1074,9 @@
       "ID": "SecondBoss",
       "SetID": "7g1kpc8",
       "Name": "Spider",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "TenLevel",
@@ -1094,14 +1099,14 @@
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 198,
+      "Progressed": 199,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:05:50.6373517+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:11.9180814+00:00",
   "LastUpdate_AppInfo": "2024-04-09T09:57:16.4180172+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:56.075009+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:50.6373874+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:41.3220603+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:11.9180982+00:00"
 }

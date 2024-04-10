@@ -2,10 +2,10 @@
   "ID": "1285dfc03f134184aef8e12eef6b6cd3",
   "Name": "Krita",
   "ProductSlug": "krita",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:19.5819663+00:00",
   "LastChanged": "2023-03-31T05:57:19.5819664+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:43.2656356+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:08.9455186+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:11.1799084+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:23.9274256+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:28.4150177+00:00"
 }

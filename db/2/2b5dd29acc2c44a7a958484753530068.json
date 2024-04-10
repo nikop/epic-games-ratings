@@ -2,10 +2,10 @@
   "ID": "2b5dd29acc2c44a7a958484753530068",
   "Name": "Love n Life: Lucky Teacher",
   "ProductSlug": "love-n-life-lucky-teacher-09bd18",
-  "Ranking_EOS_Progress": 440,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 432,
+  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-01T10:30:00+00:00",
     "PcReleaseDate": "2024-01-19T10:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
-  "EOS_Completed": 4,
+  "EOS_Progressed": 383,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.19,
+  "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
     {
       "Time": "2024-01-27T13:09:26.6568736+00:00",
@@ -44,6 +44,11 @@
       "Time": "2024-03-21T17:08:40.5309189+00:00",
       "NumProgressed": 336,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-04-10T06:03:43.9966241+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-01-10T07:06:23.390877+00:00",
@@ -56,7 +61,7 @@
       "Name": "Rookie Educator",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH10",
@@ -64,15 +69,15 @@
       "Name": "Vice Head Virtuoso",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH11",
       "SetID": "5e285h4",
       "Name": "Department Dynamo",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH13",
@@ -80,47 +85,47 @@
       "Name": "Workout Maximus",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH14",
       "SetID": "5e285h4",
       "Name": "Heartstring Connection",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH15",
       "SetID": "5e285h4",
       "Name": "Tree Whisperer",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH16",
       "SetID": "5e285h4",
       "Name": "Feline Friend",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH17",
       "SetID": "5e285h4",
       "Name": "Fashionista Bestowal",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH18",
       "SetID": "5e285h4",
       "Name": "Literary Explorer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH19",
@@ -128,15 +133,15 @@
       "Name": "The Ladies\u0027 Man",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH2",
       "SetID": "5e285h4",
       "Name": "Side Hustle Initiate",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH3",
@@ -144,15 +149,15 @@
       "Name": "Fitness Novice",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH4",
       "SetID": "5e285h4",
       "Name": "Room Stylist",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH5",
@@ -160,15 +165,15 @@
       "Name": "Heartfelt Gifter",
       "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH6",
       "SetID": "5e285h4",
       "Name": "Official Pedagogue",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 242
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH7",
@@ -176,15 +181,15 @@
       "Name": "Mid Senior Mastery",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 171
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH8",
       "SetID": "5e285h4",
       "Name": "Senior Sage",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH9",
@@ -192,21 +197,21 @@
       "Name": "Headmaster Achieved",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "5e285h4",
       "IsBase": true,
-      "Progressed": 336,
-      "Completed": 4
+      "Progressed": 383,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2024-02-01T21:57:30.7933891+00:00",
   "FirstSeenAchievements": "2024-01-08T10:05:56.8543519+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:40.5309184+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:43.9966235+00:00",
   "LastUpdate_AppInfo": "2024-04-03T10:57:18.4281806+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:08.4200924+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:40.5309299+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:53.1559635+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:43.9966347+00:00"
 }

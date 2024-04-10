@@ -2,10 +2,10 @@
   "ID": "44a7a2096d1049a79433f08ca33f67a6",
   "Name": "SPACE ELITE FORCE II",
   "ProductSlug": "space-elite-force-ii-2563e4",
-  "Ranking_EOS_Progress": 689,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-16T13:00:00+00:00",
     "PcReleaseDate": "2020-02-03T15:00:00+00:00",
@@ -89,9 +89,9 @@
       "ID": "SHIELD",
       "SetID": "2l57895",
       "Name": "Shield",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SUPER_FIRERATE",
@@ -105,9 +105,9 @@
       "ID": "X2_ORB",
       "SetID": "2l57895",
       "Name": "Double orbs",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "X2_SCORE",
@@ -608,8 +608,8 @@
   ],
   "FirstSeen": "2024-02-20T14:58:43.3861009+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:07.5615124+00:00",
-  "LastChanged_Achievements": "2024-04-08T15:04:15.9679302+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:19.1945935+00:00",
   "LastUpdate_AppInfo": "2024-04-05T02:13:48.6140507+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:18.6568778+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:04:15.9679964+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:05.6332253+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:19.1946413+00:00"
 }

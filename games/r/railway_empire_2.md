@@ -5,70 +5,70 @@ Rating: 4.34 (Ranked 877)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| From X to Y | 3.00% | ~89 |
-| Departure | 3.00% | ~89 |
-| A new Journey | 3.00% | ~89 |
-| Country Bumpkin | 3.00% | ~89 |
-| Facility Manager | 2.00% | ~60 |
-| Brainstorm | 2.00% | ~60 |
-| We brake for nobody | 2.00% | ~60 |
+| From X to Y | 4.00% | ~120 |
+| Departure | 4.00% | ~120 |
+| A new Journey | 4.00% | ~120 |
+| Country Bumpkin | 4.00% | ~120 |
+| Facility Manager | 3.00% | ~90 |
+| Brainstorm | 3.00% | ~90 |
+| We brake for nobody | 3.00% | ~90 |
+| Way of Iron | 3.00% | ~90 |
+| All around the World | 3.00% | ~90 |
+| Poor Devil | 3.00% | ~90 |
+| Mind the Gap | 3.00% | ~90 |
+| Right through the middle | 3.00% | ~90 |
+| Mystery Tour | 3.00% | ~90 |
+| Travel Company | 3.00% | ~90 |
+| Full Steam ahead | 2.00% | ~60 |
+| General Manager | 2.00% | ~60 |
+| Country Life | 2.00% | ~60 |
+| Access granted | 2.00% | ~60 |
+| Going once, going twice, sold | 2.00% | ~60 |
+| All mine | 2.00% | ~60 |
 | Producer | 2.00% | ~60 |
-| Way of Iron | 2.00% | ~60 |
-| All around the World | 2.00% | ~60 |
-| Poor Devil | 2.00% | ~60 |
-| Mind the Gap | 2.00% | ~60 |
-| Right through the middle | 2.00% | ~60 |
-| Mystery Tour | 2.00% | ~60 |
-| Travel Company | 2.00% | ~60 |
+| Bold and beautiful | 2.00% | ~60 |
+| Bridge Builder | 2.00% | ~60 |
+| Mole | 2.00% | ~60 |
+| Bull and bear | 2.00% | ~60 |
+| Financial Shark | 2.00% | ~60 |
 | Apprentice | 1.00% | ~30 |
 | Stoker | 1.00% | ~30 |
-| Full Steam ahead | 1.00% | ~30 |
-| Country Life | 1.00% | ~30 |
-| Access granted | 1.00% | ~30 |
-| Going once, going twice, sold | 1.00% | ~30 |
-| All mine | 1.00% | ~30 |
-| Bold and beautiful | 1.00% | ~30 |
-| Bridge Builder | 1.00% | ~30 |
-| Mole | 1.00% | ~30 |
-| Bull and bear | 1.00% | ~30 |
-| Financial Shark | 1.00% | ~30 |
+| Trailblazer | 1.00% | ~30 |
+| Resistance is futile | 1.00% | ~30 |
+| Go West | 1.00% | ~30 |
+| Unstoppable | 1.00% | ~30 |
+| Track to the Future | 1.00% | ~30 |
+| Conductor | 1.00% | ~30 |
+| Seven at one stroke | 1.00% | ~30 |
+| Traffic Jam | 1.00% | ~30 |
+| Tycoon | 1.00% | ~30 |
+| Max Power | 1.00% | ~30 |
+| Hostile Takeover | 1.00% | ~30 |
+| Assimilated | 1.00% | ~30 |
+| Traffic Junction | 1.00% | ~30 |
+| Breaking Ground | 1.00% | ~30 |
+| Settler | 1.00% | ~30 |
+| Call of Duty | 1.00% | ~30 |
 | Socializer | 1.00% | ~30 |
-| General Manager | 0.90% | ~27 |
-| Hostile Takeover | 0.90% | ~27 |
-| Call of Duty | 0.90% | ~27 |
-| Other countries, other candies | 0.90% | ~2 |
-| Trailblazer | 0.70% | ~21 |
-| Unstoppable | 0.70% | ~21 |
-| Track to the Future | 0.70% | ~21 |
-| Conductor | 0.70% | ~21 |
-| Tycoon | 0.70% | ~21 |
-| Traffic Junction | 0.70% | ~21 |
-| Networker | 0.70% | ~21 |
-| Sissi would be proud | 0.70% | ~1 |
-| Nerves of steel | 0.70% | ~1 |
-| Resistance is futile | 0.60% | ~18 |
-| Go West | 0.60% | ~18 |
-| A new Hope | 0.60% | ~18 |
-| Seven at one stroke | 0.60% | ~18 |
-| Traffic Jam | 0.60% | ~18 |
-| Assimilated | 0.60% | ~18 |
-| Locusts | 0.60% | ~18 |
-| Breaking Ground | 0.60% | ~18 |
-| Settler | 0.60% | ~18 |
-| Max Power | 0.50% | ~15 |
-| Engineer | 0.30% | ~9 |
+| Other countries, other candies | 1.00% | ~2 |
+| A new Hope | 0.90% | ~27 |
+| Locusts | 0.90% | ~27 |
+| Networker | 0.80% | ~24 |
+| Sissi would be proud | 0.80% | ~2 |
+| Nerves of steel | 0.80% | ~2 |
+| Engineer | 0.60% | ~18 |
+| Let off some steam | 0.60% | ~18 |
+| Accurate | 0.40% | ~12 |
 | Three Cheers for Progress | 0.30% | ~9 |
-| Let off some steam | 0.30% | ~9 |
-| Accurate | 0.20% | ~6 |
 | European Union | 0.10% | ~3 |
 | United States | 0.10% | ~3 |
 | Too clever for Poirot | 0.10% | ~0 |
+| Hotel Transylvania | 0.10% | ~0 |
 | Not a second class murder | 0.10% | ~0 |
 | Together we stand | 0.00% | ~0 |
-| Hotel Transylvania | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,975 (Ranked 254)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 3,006 (Ranked 260)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,6 +323,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-26 | 2,774 | 0 |
 | 2024-01-27 | 2,776 | 0 |
 | 2024-03-21 | 2,975 | 0 |
+| 2024-04-10 | 3,006 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "7694bf9cee2a401da28838a80bd7a7c1",
   "Name": "Alfred Hitchcock - Vertigo",
   "ProductSlug": "alfredhitchockvertigo-c58904",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-02-24T00:00:00+00:00",
     "PcReleaseDate": "2021-12-16T00:00:00+00:00",
@@ -50,8 +50,8 @@
   "FirstSeenRating": "2023-03-31T05:57:48.1593531+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.7224472+00:00",
   "LastChanged": "2023-03-31T05:57:48.1593531+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:18.4389187+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:18.3474301+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:07.2915615+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:51.6139684+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:18.4389239+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:08.6801956+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:18.3474334+00:00"
 }

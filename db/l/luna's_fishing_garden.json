@@ -2,10 +2,10 @@
   "ID": "be9b4a568a934573b2204f3fb97f8042",
   "Name": "Luna\u0027s Fishing Garden",
   "ProductSlug": "lunas-fishing-garden",
-  "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
     "PcReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 711,
-  "EOS_Completed": 43,
+  "EOS_Progressed": 714,
+  "EOS_Completed": 44,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.05,
+  "EOS_Completed_Percentage": 6.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -229,6 +229,11 @@
       "Time": "2024-03-21T17:11:21.8615943+00:00",
       "NumProgressed": 711,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-04-10T06:05:20.4670965+00:00",
+      "NumProgressed": 714,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 14,
@@ -240,7 +245,7 @@
       "Name": "Fish Appreciation",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "10_screen",
@@ -248,7 +253,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Screen",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "11_away",
@@ -256,7 +261,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 486
     },
     {
       "ID": "12_art",
@@ -264,7 +269,7 @@
       "Name": "A Work of Art",
       "Percentage": 22,
       "XP": 200,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "13_hide",
@@ -280,7 +285,7 @@
       "Name": "Up!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "2_reel",
@@ -288,7 +293,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 597
+      "UsersEstimate": 600
     },
     {
       "ID": "3_master_angler",
@@ -304,7 +309,7 @@
       "Name": "Bird Breeder",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "5_science",
@@ -312,7 +317,7 @@
       "Name": "Science Enthusiast",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "6_immortal",
@@ -320,7 +325,7 @@
       "Name": "Immortal",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "7_cleanup",
@@ -336,7 +341,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 593
     },
     {
       "ID": "9_lotus",
@@ -344,23 +349,23 @@
       "Name": "Be Like the Lotus",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 711,
-      "Completed": 43
+      "Progressed": 714,
+      "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:24:08.9356043+00:00",
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:21.8615934+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:20.4670959+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:32.3149105+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:32.0507464+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:21.8616054+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:51.5170088+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:20.4671081+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e9ab5f3a0f524fdf800f324800acda60",
   "Name": "Biped",
   "ProductSlug": "biped",
-  "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 198,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12031,
+  "EOS_Progressed": 12388,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -17844,6 +17844,11 @@
       "Time": "2024-03-21T17:08:18.7389758+00:00",
       "NumProgressed": 12031,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:32.557005+00:00",
+      "NumProgressed": 12388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17855,7 +17860,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 4451
+      "UsersEstimate": 4584
     },
     {
       "ID": "10",
@@ -17871,7 +17876,7 @@
       "Name": "Telepathic",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1115
     },
     {
       "ID": "12",
@@ -17911,7 +17916,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3593
     },
     {
       "ID": "3",
@@ -17919,7 +17924,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2601
     },
     {
       "ID": "4",
@@ -17927,7 +17932,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1487
     },
     {
       "ID": "5",
@@ -17935,7 +17940,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 962
+      "UsersEstimate": 991
     },
     {
       "ID": "6",
@@ -17943,7 +17948,7 @@
       "Name": "High Treetops",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 842
+      "UsersEstimate": 867
     },
     {
       "ID": "7",
@@ -17951,7 +17956,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 722
+      "UsersEstimate": 743
     },
     {
       "ID": "8",
@@ -17959,7 +17964,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 372
     },
     {
       "ID": "9",
@@ -17967,14 +17972,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 722
+      "UsersEstimate": 743
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 12031,
+      "Progressed": 12388,
       "Completed": 0
     }
   ],
@@ -17982,8 +17987,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:18.7389753+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:32.5570044+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:56.7722917+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:16.6579346+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:18.739072+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:04.0090996+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:32.5571+00:00"
 }

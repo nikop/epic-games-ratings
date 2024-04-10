@@ -2,10 +2,10 @@
   "ID": "d107a23c2fef4e429e3a93eb05100bc3",
   "Name": "We Are Not Alone",
   "ProductSlug": "we-are-not-alone-0afd5f",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-04-05T00:00:00+00:00",
@@ -22,26 +22,186 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-10T06:06:05.5304091+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-04-10T06:06:05.5304117+00:00",
+  "TotalAchievements": 19,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "booze_hound",
+      "SetID": "7lfnn98",
+      "Name": "Booze Hound",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "collect_all",
+      "SetID": "7lfnn98",
+      "Name": "Evidence Collector",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cut_finger",
+      "SetID": "7lfnn98",
+      "Name": "I ... can\u0027t believe it.",
+      "Percentage": 25,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "darren_says_so",
+      "SetID": "7lfnn98",
+      "Name": "DaRe You to Follow",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "deja_vu",
+      "SetID": "7lfnn98",
+      "Name": "Deja Vu",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "dish_washer",
+      "SetID": "7lfnn98",
+      "Name": "One of the Good Ones",
+      "Percentage": 25,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "finger_print",
+      "SetID": "7lfnn98",
+      "Name": "Finger, Printed.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fix_radio",
+      "SetID": "7lfnn98",
+      "Name": "Fixed The Radio",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "handy_work",
+      "SetID": "7lfnn98",
+      "Name": "Handy!",
+      "Percentage": 50,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "hard_mode",
+      "SetID": "7lfnn98",
+      "Name": "The Harder They Fall",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "keep_pressing",
+      "SetID": "7lfnn98",
+      "Name": "Keep Pressing Until Something Happens",
+      "Percentage": 0,
+      "XP": 95,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "like_hawk",
+      "SetID": "7lfnn98",
+      "Name": "Like a Hawk",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "need_hint",
+      "SetID": "7lfnn98",
+      "Name": "I Needed a Hint",
+      "Percentage": 50,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "real_monster",
+      "SetID": "7lfnn98",
+      "Name": "Who Is the Real Monster?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "shady_unlock",
+      "SetID": "7lfnn98",
+      "Name": "A Unicorn?",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "small_details",
+      "SetID": "7lfnn98",
+      "Name": "The Small Details",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "we_made_it",
+      "SetID": "7lfnn98",
+      "Name": "We Made It.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "what_cost",
+      "SetID": "7lfnn98",
+      "Name": "At What Cost",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "why_geoff",
+      "SetID": "7lfnn98",
+      "Name": "Where\u0027s the poop, Geoff?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7lfnn98",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:12:37.7805088+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:37.7805063+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:05.5304082+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:36.6118663+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:04.4803172+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:37.7805101+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:49.6937398+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:05.5314067+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 897,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 400,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 458,
+  "EOS_Progressed": 461,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -538,6 +538,11 @@
       "Time": "2024-02-22T21:03:38.2026396+00:00",
       "NumProgressed": 458,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:03:43.7002161+00:00",
+      "NumProgressed": 461,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -557,7 +562,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "CampaignStars2",
@@ -565,15 +570,15 @@
       "Name": "Campaign Silver",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "CampaignStars3",
       "SetID": "c2k469b",
       "Name": "Campaign Gold",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 60
     },
     {
       "ID": "CampaignStars4",
@@ -627,9 +632,9 @@
       "ID": "Metropolis",
       "SetID": "c2k469b",
       "Name": "Metropolis",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 124
     },
     {
       "ID": "Multitalent",
@@ -645,15 +650,15 @@
       "Name": "Bora",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "PlanetEdora",
       "SetID": "c2k469b",
       "Name": "Edora",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 60
     },
     {
       "ID": "PlanetIqunox",
@@ -669,7 +674,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "PlanetLorian",
@@ -677,7 +682,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "PlanetMagni",
@@ -685,7 +690,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "PlanetRounos",
@@ -693,7 +698,7 @@
       "Name": "Rounos",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "PlanetThera",
@@ -701,7 +706,7 @@
       "Name": "Thera",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PlanetTuto",
@@ -709,15 +714,15 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 272
     },
     {
       "ID": "PlanetUdionTorix",
       "SetID": "c2k469b",
       "Name": "Udion Torix",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "Scientist",
@@ -740,7 +745,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 458,
+      "Progressed": 461,
       "Completed": 0
     }
   ],
@@ -748,8 +753,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:39.8712084+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:43.7002155+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:21.5345902+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:57.6992926+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:39.8712287+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:44.1703961+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:43.7002335+00:00"
 }

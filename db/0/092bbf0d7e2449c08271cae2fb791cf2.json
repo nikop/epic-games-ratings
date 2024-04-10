@@ -3,9 +3,9 @@
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2018-03-07T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 755,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.8,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -2204,6 +2204,11 @@
       "Time": "2024-03-21T17:13:17.7315265+00:00",
       "NumProgressed": 721,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-04-10T06:06:29.9295716+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -2214,9 +2219,9 @@
       "ID": "ach1",
       "SetID": "796kfpa",
       "Name": "Good Morning",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 145,
-      "UsersEstimate": 130
+      "UsersEstimate": 143
     },
     {
       "ID": "ach2",
@@ -2224,7 +2229,7 @@
       "Name": "Blabber",
       "Percentage": 50,
       "XP": 145,
-      "UsersEstimate": 360
+      "UsersEstimate": 378
     },
     {
       "ID": "ach3",
@@ -2232,15 +2237,15 @@
       "Name": "Blue Bean",
       "Percentage": 6,
       "XP": 145,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ach4",
       "SetID": "796kfpa",
       "Name": "Three Caps",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 65
+      "UsersEstimate": 60
     },
     {
       "ID": "ach5",
@@ -2248,7 +2253,7 @@
       "Name": "Cloudbuster",
       "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ach6",
@@ -2256,7 +2261,7 @@
       "Name": "Creature Maker",
       "Percentage": 5,
       "XP": 140,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ach7",
@@ -2264,21 +2269,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 16,
       "XP": 145,
-      "UsersEstimate": 115
+      "UsersEstimate": 121
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 755,
       "Completed": 13
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:13:17.7315253+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:29.9295711+00:00",
   "LastUpdate_AppInfo": "2024-04-04T05:56:59.6493219+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:10.3413987+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:13:17.7315488+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:57.7207596+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:29.9295886+00:00"
 }

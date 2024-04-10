@@ -2,10 +2,10 @@
   "ID": "9afcbdf06f644df19c4e5729958729fb",
   "Name": "McPixel 3",
   "ProductSlug": "mcpixel-3-fae9c2",
-  "Ranking_EOS_Progress": 878,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 904,
+  "Ranking_EOS_Completed": 1,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-11-14T16:00:00+00:00",
     "PcReleaseDate": "2022-11-14T16:00:00+00:00",
@@ -31,15 +31,20 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1,
-  "EOS_Completed": 0,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 100,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:11:47.2045796+00:00",
       "NumProgressed": 1,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:38.5666581+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 93,
@@ -49,697 +54,697 @@
       "ID": "64_hump",
       "SetID": "1oh8m9f",
       "Name": "Learn to love!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "95_trash",
-      "SetID": "1oh8m9f",
-      "Name": "Nuclear dumpster diving!",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "action1_pushcar",
-      "SetID": "1oh8m9f",
-      "Name": "My car is so pushy",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "action2_wires",
-      "SetID": "1oh8m9f",
-      "Name": "Wrong wire!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "action3_pee",
-      "SetID": "1oh8m9f",
-      "Name": "It\u0027s my car!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ant_steal",
-      "SetID": "1oh8m9f",
-      "Name": "Food thief!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "apes_highfive",
-      "SetID": "1oh8m9f",
-      "Name": "Take this on your way down!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "awards_man0",
-      "SetID": "1oh8m9f",
-      "Name": "That was unnecessary.",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "battle_smooch",
-      "SetID": "1oh8m9f",
-      "Name": "Awww, you didn\u0027t have to!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "bit_egg",
-      "SetID": "1oh8m9f",
-      "Name": "McPixel is mom now!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "body_butt",
-      "SetID": "1oh8m9f",
-      "Name": "The birth of a salary man",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "bomb_fish",
-      "SetID": "1oh8m9f",
-      "Name": "This is fishy!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "bonfire_branch",
-      "SetID": "1oh8m9f",
-      "Name": "It\u0027s good to be short!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "boy_lost",
-      "SetID": "1oh8m9f",
-      "Name": "Dead end!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "bus_lick",
-      "SetID": "1oh8m9f",
-      "Name": "Take care of your eyeballs!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "catwalk_car",
-      "SetID": "1oh8m9f",
-      "Name": "Pee my ride!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "cga_vapour",
-      "SetID": "1oh8m9f",
-      "Name": "CGAWAVE",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "chase_pee",
-      "SetID": "1oh8m9f",
-      "Name": "Yes",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "chess_kiss",
-      "SetID": "1oh8m9f",
-      "Name": "Forbidden love!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "court_dude",
-      "SetID": "1oh8m9f",
-      "Name": "The defendant is ready!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "curling_curling",
-      "SetID": "1oh8m9f",
-      "Name": "Clear the path!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "dance_fly",
-      "SetID": "1oh8m9f",
-      "Name": "Uno, dos, tres",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "dash_kick",
-      "SetID": "1oh8m9f",
-      "Name": "Right in the jimmy!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "dev10_all",
-      "SetID": "1oh8m9f",
-      "Name": "That\u0027s all of them!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "dev11_floppy",
-      "SetID": "1oh8m9f",
-      "Name": "Throw it all away!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "dev1_bomb",
-      "SetID": "1oh8m9f",
-      "Name": "Why did you pick this up?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "dev4_toilet",
-      "SetID": "1oh8m9f",
-      "Name": "Why did you break it?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "dev9_gold",
-      "SetID": "1oh8m9f",
-      "Name": "You got hit by a smooth golden bar!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "dino_mmm",
-      "SetID": "1oh8m9f",
-      "Name": "Way to go!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "disco_dive",
-      "SetID": "1oh8m9f",
-      "Name": "DJs don\u0027t stage dive, you maniac!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "egg_spank",
-      "SetID": "1oh8m9f",
-      "Name": "Not THAT game!",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "evolve_swim",
-      "SetID": "1oh8m9f",
-      "Name": "Mom, I\u0027m not a fish anymore!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "fire_pee",
-      "SetID": "1oh8m9f",
-      "Name": "Peealot",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "funpark_jumpoff",
-      "SetID": "1oh8m9f",
-      "Name": "Ok, bye!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "gamegold",
-      "SetID": "1oh8m9f",
-      "Name": "There is nothing else!",
-      "Percentage": 0,
-      "XP": 200,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "gameshow_sos",
-      "SetID": "1oh8m9f",
-      "Name": "Better call Sos!",
-      "Percentage": 0,
-      "XP": 25,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "gamewin",
-      "SetID": "1oh8m9f",
-      "Name": "Stop beating my game!",
-      "Percentage": 0,
-      "XP": 90,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "gold",
-      "SetID": "1oh8m9f",
-      "Name": "All gags you can eat!",
-      "Percentage": 0,
-      "XP": 100,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "grass_fly",
-      "SetID": "1oh8m9f",
-      "Name": "You scared it!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "heli_clutch",
-      "SetID": "1oh8m9f",
-      "Name": "Manual trasmission chopper!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "hitch_bus",
-      "SetID": "1oh8m9f",
-      "Name": "You can\u0027t hitch a bus!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "hockey_goal",
-      "SetID": "1oh8m9f",
-      "Name": "What\u0027s your goal there?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "jitensha_train",
-      "SetID": "1oh8m9f",
-      "Name": "BRB, gotta catch the train!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "jump_dive",
-      "SetID": "1oh8m9f",
-      "Name": "The bar for this dive was high!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "jumpman_bomb",
-      "SetID": "1oh8m9f",
-      "Name": "Thanks for waiting!",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "kidnap_dance",
-      "SetID": "1oh8m9f",
-      "Name": "Do the worm!",
-      "Percentage": 0,
-      "XP": 15,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "kuma_win",
-      "SetID": "1oh8m9f",
-      "Name": "It\u0027s pants time!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "lock1_pee",
-      "SetID": "1oh8m9f",
-      "Name": "Achievement Number 1",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "lock2_trap",
-      "SetID": "1oh8m9f",
-      "Name": "Express elevator!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "lock3_far",
-      "SetID": "1oh8m9f",
-      "Name": "Are we there yet?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "lock4_current",
-      "SetID": "1oh8m9f",
-      "Name": "Diligent",
-      "Percentage": 0,
-      "XP": 45,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "mart_clerk",
-      "SetID": "1oh8m9f",
-      "Name": "Please don\u0027t come again!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "melt_ice",
-      "SetID": "1oh8m9f",
-      "Name": "Ice Swimming!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "menu_bbq",
-      "SetID": "1oh8m9f",
-      "Name": "Barbeque in my pants!",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "menu_dog",
-      "SetID": "1oh8m9f",
-      "Name": "You can p** the dog",
-      "Percentage": 0,
-      "XP": 25,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "menu_kiss",
-      "SetID": "1oh8m9f",
-      "Name": "Date poacher!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "metro_win",
-      "SetID": "1oh8m9f",
-      "Name": "Giving up is a virtue!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "mobo_cpu",
-      "SetID": "1oh8m9f",
-      "Name": "I command this caterpillar!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "mouse_cat",
-      "SetID": "1oh8m9f",
-      "Name": "What what?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "office2_laptop",
-      "SetID": "1oh8m9f",
-      "Name": "Shoot\u0027em up!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "onsen_fish",
-      "SetID": "1oh8m9f",
-      "Name": "Back my fish up!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "plane2_bomb",
-      "SetID": "1oh8m9f",
-      "Name": "Now that\u0027s a danger noodle",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "planefall_dude",
-      "SetID": "1oh8m9f",
-      "Name": "Beat dude with another dude!",
-      "Percentage": 0,
-      "XP": 10,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "put_touchdown",
-      "SetID": "1oh8m9f",
-      "Name": "Touchdown!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "race_win",
-      "SetID": "1oh8m9f",
-      "Name": "Made it all the way!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "roadwork_sign",
-      "SetID": "1oh8m9f",
-      "Name": "I understand!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "rogue_sheep",
-      "SetID": "1oh8m9f",
-      "Name": "Slay the lamb!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "rooftop_pee",
-      "SetID": "1oh8m9f",
-      "Name": "This is my missile!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "scifi1_dead",
-      "SetID": "1oh8m9f",
-      "Name": "You have a right to remain silent!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "scifi2_eggplant",
-      "SetID": "1oh8m9f",
-      "Name": "What I always wanted to be when I grow up!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "scifi3_slow",
-      "SetID": "1oh8m9f",
-      "Name": "You won\u0027t make it back in time.",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "scrapper_worker",
-      "SetID": "1oh8m9f",
-      "Name": "I can\u0027t believe you\u0027ve done that!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "sitcom1_rake",
-      "SetID": "1oh8m9f",
-      "Name": "The funniest joke in the world",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "sitcom2_pinata",
-      "SetID": "1oh8m9f",
-      "Name": "Is there candy inside?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "sitcom3_bathguy",
-      "SetID": "1oh8m9f",
-      "Name": "And this is how I met him...",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "ski_yeti",
-      "SetID": "1oh8m9f",
-      "Name": "You\u0027re a snack!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "skijump_land",
-      "SetID": "1oh8m9f",
-      "Name": "Everybody clap!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "soccer_score",
-      "SetID": "1oh8m9f",
-      "Name": "Closing the gap!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "soup_sausage",
-      "SetID": "1oh8m9f",
-      "Name": "BURP",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "space2_lick",
-      "SetID": "1oh8m9f",
-      "Name": "I love computers",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "space_asteroids",
-      "SetID": "1oh8m9f",
-      "Name": "Do you have a spare asteroid?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "stage_drums",
-      "SetID": "1oh8m9f",
-      "Name": "Can I get an \u0027amen\u0027?",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "stick_wave",
-      "SetID": "1oh8m9f",
-      "Name": "Hello World!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "sub2_window",
-      "SetID": "1oh8m9f",
-      "Name": "Let some fresh air in!",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "tia_pee",
-      "SetID": "1oh8m9f",
-      "Name": "I peed your pants.",
-      "Percentage": 0,
-      "XP": 5,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "train_fish",
-      "SetID": "1oh8m9f",
-      "Name": "Red Herring",
       "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 1
     },
     {
+      "ID": "95_trash",
+      "SetID": "1oh8m9f",
+      "Name": "Nuclear dumpster diving!",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "action1_pushcar",
+      "SetID": "1oh8m9f",
+      "Name": "My car is so pushy",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "action2_wires",
+      "SetID": "1oh8m9f",
+      "Name": "Wrong wire!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "action3_pee",
+      "SetID": "1oh8m9f",
+      "Name": "It\u0027s my car!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ant_steal",
+      "SetID": "1oh8m9f",
+      "Name": "Food thief!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "apes_highfive",
+      "SetID": "1oh8m9f",
+      "Name": "Take this on your way down!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "awards_man0",
+      "SetID": "1oh8m9f",
+      "Name": "That was unnecessary.",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "battle_smooch",
+      "SetID": "1oh8m9f",
+      "Name": "Awww, you didn\u0027t have to!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "bit_egg",
+      "SetID": "1oh8m9f",
+      "Name": "McPixel is mom now!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "body_butt",
+      "SetID": "1oh8m9f",
+      "Name": "The birth of a salary man",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "bomb_fish",
+      "SetID": "1oh8m9f",
+      "Name": "This is fishy!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "bonfire_branch",
+      "SetID": "1oh8m9f",
+      "Name": "It\u0027s good to be short!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "boy_lost",
+      "SetID": "1oh8m9f",
+      "Name": "Dead end!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "bus_lick",
+      "SetID": "1oh8m9f",
+      "Name": "Take care of your eyeballs!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "catwalk_car",
+      "SetID": "1oh8m9f",
+      "Name": "Pee my ride!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "cga_vapour",
+      "SetID": "1oh8m9f",
+      "Name": "CGAWAVE",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "chase_pee",
+      "SetID": "1oh8m9f",
+      "Name": "Yes",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "chess_kiss",
+      "SetID": "1oh8m9f",
+      "Name": "Forbidden love!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "court_dude",
+      "SetID": "1oh8m9f",
+      "Name": "The defendant is ready!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "curling_curling",
+      "SetID": "1oh8m9f",
+      "Name": "Clear the path!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "dance_fly",
+      "SetID": "1oh8m9f",
+      "Name": "Uno, dos, tres",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "dash_kick",
+      "SetID": "1oh8m9f",
+      "Name": "Right in the jimmy!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "dev10_all",
+      "SetID": "1oh8m9f",
+      "Name": "That\u0027s all of them!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "dev11_floppy",
+      "SetID": "1oh8m9f",
+      "Name": "Throw it all away!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "dev1_bomb",
+      "SetID": "1oh8m9f",
+      "Name": "Why did you pick this up?",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "dev4_toilet",
+      "SetID": "1oh8m9f",
+      "Name": "Why did you break it?",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "dev9_gold",
+      "SetID": "1oh8m9f",
+      "Name": "You got hit by a smooth golden bar!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "dino_mmm",
+      "SetID": "1oh8m9f",
+      "Name": "Way to go!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "disco_dive",
+      "SetID": "1oh8m9f",
+      "Name": "DJs don\u0027t stage dive, you maniac!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "egg_spank",
+      "SetID": "1oh8m9f",
+      "Name": "Not THAT game!",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "evolve_swim",
+      "SetID": "1oh8m9f",
+      "Name": "Mom, I\u0027m not a fish anymore!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "fire_pee",
+      "SetID": "1oh8m9f",
+      "Name": "Peealot",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "funpark_jumpoff",
+      "SetID": "1oh8m9f",
+      "Name": "Ok, bye!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "gamegold",
+      "SetID": "1oh8m9f",
+      "Name": "There is nothing else!",
+      "Percentage": 100,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "gameshow_sos",
+      "SetID": "1oh8m9f",
+      "Name": "Better call Sos!",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "gamewin",
+      "SetID": "1oh8m9f",
+      "Name": "Stop beating my game!",
+      "Percentage": 100,
+      "XP": 90,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "gold",
+      "SetID": "1oh8m9f",
+      "Name": "All gags you can eat!",
+      "Percentage": 100,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "grass_fly",
+      "SetID": "1oh8m9f",
+      "Name": "You scared it!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "heli_clutch",
+      "SetID": "1oh8m9f",
+      "Name": "Manual trasmission chopper!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "hitch_bus",
+      "SetID": "1oh8m9f",
+      "Name": "You can\u0027t hitch a bus!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "hockey_goal",
+      "SetID": "1oh8m9f",
+      "Name": "What\u0027s your goal there?",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "jitensha_train",
+      "SetID": "1oh8m9f",
+      "Name": "BRB, gotta catch the train!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "jump_dive",
+      "SetID": "1oh8m9f",
+      "Name": "The bar for this dive was high!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "jumpman_bomb",
+      "SetID": "1oh8m9f",
+      "Name": "Thanks for waiting!",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "kidnap_dance",
+      "SetID": "1oh8m9f",
+      "Name": "Do the worm!",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "kuma_win",
+      "SetID": "1oh8m9f",
+      "Name": "It\u0027s pants time!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "lock1_pee",
+      "SetID": "1oh8m9f",
+      "Name": "Achievement Number 1",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "lock2_trap",
+      "SetID": "1oh8m9f",
+      "Name": "Express elevator!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "lock3_far",
+      "SetID": "1oh8m9f",
+      "Name": "Are we there yet?",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "lock4_current",
+      "SetID": "1oh8m9f",
+      "Name": "Diligent",
+      "Percentage": 100,
+      "XP": 45,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "mart_clerk",
+      "SetID": "1oh8m9f",
+      "Name": "Please don\u0027t come again!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "melt_ice",
+      "SetID": "1oh8m9f",
+      "Name": "Ice Swimming!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "menu_bbq",
+      "SetID": "1oh8m9f",
+      "Name": "Barbeque in my pants!",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "menu_dog",
+      "SetID": "1oh8m9f",
+      "Name": "You can p** the dog",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "menu_kiss",
+      "SetID": "1oh8m9f",
+      "Name": "Date poacher!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "metro_win",
+      "SetID": "1oh8m9f",
+      "Name": "Giving up is a virtue!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "mobo_cpu",
+      "SetID": "1oh8m9f",
+      "Name": "I command this caterpillar!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "mouse_cat",
+      "SetID": "1oh8m9f",
+      "Name": "What what?",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "office2_laptop",
+      "SetID": "1oh8m9f",
+      "Name": "Shoot\u0027em up!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "onsen_fish",
+      "SetID": "1oh8m9f",
+      "Name": "Back my fish up!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "plane2_bomb",
+      "SetID": "1oh8m9f",
+      "Name": "Now that\u0027s a danger noodle",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "planefall_dude",
+      "SetID": "1oh8m9f",
+      "Name": "Beat dude with another dude!",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "put_touchdown",
+      "SetID": "1oh8m9f",
+      "Name": "Touchdown!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "race_win",
+      "SetID": "1oh8m9f",
+      "Name": "Made it all the way!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "roadwork_sign",
+      "SetID": "1oh8m9f",
+      "Name": "I understand!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "rogue_sheep",
+      "SetID": "1oh8m9f",
+      "Name": "Slay the lamb!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "rooftop_pee",
+      "SetID": "1oh8m9f",
+      "Name": "This is my missile!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "scifi1_dead",
+      "SetID": "1oh8m9f",
+      "Name": "You have a right to remain silent!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "scifi2_eggplant",
+      "SetID": "1oh8m9f",
+      "Name": "What I always wanted to be when I grow up!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "scifi3_slow",
+      "SetID": "1oh8m9f",
+      "Name": "You won\u0027t make it back in time.",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "scrapper_worker",
+      "SetID": "1oh8m9f",
+      "Name": "I can\u0027t believe you\u0027ve done that!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "sitcom1_rake",
+      "SetID": "1oh8m9f",
+      "Name": "The funniest joke in the world",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "sitcom2_pinata",
+      "SetID": "1oh8m9f",
+      "Name": "Is there candy inside?",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "sitcom3_bathguy",
+      "SetID": "1oh8m9f",
+      "Name": "And this is how I met him...",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ski_yeti",
+      "SetID": "1oh8m9f",
+      "Name": "You\u0027re a snack!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "skijump_land",
+      "SetID": "1oh8m9f",
+      "Name": "Everybody clap!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "soccer_score",
+      "SetID": "1oh8m9f",
+      "Name": "Closing the gap!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "soup_sausage",
+      "SetID": "1oh8m9f",
+      "Name": "BURP",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "space2_lick",
+      "SetID": "1oh8m9f",
+      "Name": "I love computers",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "space_asteroids",
+      "SetID": "1oh8m9f",
+      "Name": "Do you have a spare asteroid?",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "stage_drums",
+      "SetID": "1oh8m9f",
+      "Name": "Can I get an \u0027amen\u0027?",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "stick_wave",
+      "SetID": "1oh8m9f",
+      "Name": "Hello World!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "sub2_window",
+      "SetID": "1oh8m9f",
+      "Name": "Let some fresh air in!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "tia_pee",
+      "SetID": "1oh8m9f",
+      "Name": "I peed your pants.",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "train_fish",
+      "SetID": "1oh8m9f",
+      "Name": "Red Herring",
+      "Percentage": 200,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
       "ID": "tram2_door",
       "SetID": "1oh8m9f",
       "Name": "My people need me!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "tutorial_win",
@@ -753,41 +758,41 @@
       "ID": "volcano2_burger",
       "SetID": "1oh8m9f",
       "Name": "Well done!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "volley_lose",
       "SetID": "1oh8m9f",
       "Name": "Keep your feet on the ground!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "vote_babies",
       "SetID": "1oh8m9f",
       "Name": "Babies are evil!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "win",
       "SetID": "1oh8m9f",
       "Name": "The day is saved!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ww2_hide",
       "SetID": "1oh8m9f",
       "Name": "Imma just hide in the corner",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -795,15 +800,15 @@
       "ID": "1oh8m9f",
       "IsBase": true,
       "Progressed": 1,
-      "Completed": 0
+      "Completed": 1
     }
   ],
   "FirstSeen": "2022-11-16T04:11:10.3988539+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.8658671+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.4215479+00:00",
   "LastChanged": "2023-03-31T05:57:12.8658672+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:47.2045789+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:38.5666571+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:57.6358811+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:18.061467+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:47.2046588+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:05.0666337+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:38.566735+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~25,284 |
-| Mama? | 27.00% | ~8,866 |
-| People's Haven | 18.00% | ~5,910 |
-| Cartographer | 16.00% | ~5,254 |
-| Knowledge for Power | 14.00% | ~4,597 |
-| Antlers of Stone | 14.00% | ~4,597 |
-| Gaze into the abyss | 13.00% | ~4,269 |
-| Mausoleum of Ice | 13.00% | ~4,269 |
-| Wings of Stone | 12.00% | ~3,940 |
-| Equilibrium | 12.00% | ~3,940 |
-| In the belly of the beast | 11.00% | ~3,612 |
-| Condor condo | 10.00% | ~3,284 |
-| Memorial | 9.00% | ~2,955 |
-| An uninvited guest | 7.00% | ~2,299 |
-| Tails of Stone | 6.00% | ~1,970 |
-| Baa from the past | 6.00% | ~1,970 |
-| Written in stone | 6.00% | ~1,970 |
-| Talk to all the spirit animals | 6.00% | ~1,970 |
-| Ripples on the surface | 5.00% | ~1,642 |
-| Hide and Seek | 4.00% | ~1,313 |
+| Light at the end of the tunnel | 77.00% | ~26,170 |
+| Mama? | 27.00% | ~9,176 |
+| People's Haven | 18.00% | ~6,118 |
+| Cartographer | 16.00% | ~5,438 |
+| Knowledge for Power | 14.00% | ~4,758 |
+| Antlers of Stone | 14.00% | ~4,758 |
+| Gaze into the abyss | 13.00% | ~4,418 |
+| Mausoleum of Ice | 13.00% | ~4,418 |
+| Wings of Stone | 12.00% | ~4,078 |
+| Equilibrium | 12.00% | ~4,078 |
+| In the belly of the beast | 11.00% | ~3,739 |
+| Condor condo | 10.00% | ~3,399 |
+| Memorial | 9.00% | ~3,059 |
+| An uninvited guest | 7.00% | ~2,379 |
+| Tails of Stone | 6.00% | ~2,039 |
+| Baa from the past | 6.00% | ~2,039 |
+| Written in stone | 6.00% | ~2,039 |
+| Talk to all the spirit animals | 6.00% | ~2,039 |
+| Ripples on the surface | 5.00% | ~1,699 |
+| Hide and Seek | 4.00% | ~1,359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,836 (Ranked 153)  
-Completed: 597 (1.82%) (Ranked 161)  
+Progressed: 33,987 (Ranked 156)  
+Completed: 624 (1.84%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,6 +311,7 @@ Completed: 597 (1.82%) (Ranked 161)
 | 2024-01-26 | 29,575 | 547 |
 | 2024-01-27 | 29,605 | 548 |
 | 2024-03-21 | 32,836 | 597 |
+| 2024-04-10 | 33,987 | 624 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

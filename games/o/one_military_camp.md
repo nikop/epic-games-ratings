@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | First Step | 55.00% | ~193 |
 | The 4 Pillars | 51.00% | ~178 |
-| Capitalism | 22.00% | ~77 |
+| Capitalism | 23.00% | ~80 |
 | Green Energy | 17.00% | ~60 |
 | There's something in those trees | 14.00% | ~49 |
 | Desert Power | 13.00% | ~46 |
-| Great Producer | 12.00% | ~42 |
-| Health Care | 11.00% | ~38 |
+| Great Producer | 13.00% | ~46 |
+| Health Care | 12.00% | ~42 |
 | Indebted | 10.00% | ~35 |
 | Perfect Soldier | 9.00% | ~32 |
 | Healing | 9.00% | ~32 |
-| Ammo Tycoon | 8.00% | ~28 |
+| Ammo Tycoon | 9.00% | ~32 |
 | Desert Rat | 8.00% | ~28 |
 | Overpopulation | 7.00% | ~25 |
 | Good payer | 7.00% | ~25 |
@@ -24,10 +24,10 @@
 | Fuel Tycoon | 7.00% | ~25 |
 | Jantine: the Misfortunes of Evil | 6.00% | ~21 |
 | Self-sufficient | 6.00% | ~21 |
+| Tear Down the Wall! | 5.00% | ~18 |
 | Supersoldier | 5.00% | ~18 |
 | Property Bro | 5.00% | ~18 |
 | Medicine Tycoon | 5.00% | ~18 |
-| Tear Down the Wall! | 4.00% | ~14 |
 | Vive le Résistance | 4.00% | ~14 |
 | Human Resources | 4.00% | ~14 |
 | Training Camp | 4.00% | ~14 |
@@ -49,8 +49,8 @@
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 431)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 350 (Ranked 444)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,15 +5,19 @@ Rating: 4.56 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| En Garde! | 100.00% | ~3 |
-| Supersleuth | 100.00% | ~3 |
-| Gut-Wrenching | 33.00% | ~1 |
-| Look At You, Snacker | 33.00% | ~1 |
-| Déjà Vu | 33.00% | ~1 |
-| Somebody Set Up Us The Bomb | 33.00% | ~1 |
-| Goldberg’s Ricochet | 33.00% | ~1 |
-| Finish Him! | 33.00% | ~1 |
-| Enjoy Your Purchase | 33.00% | ~1 |
+| En Garde! | 100.00% | ~4 |
+| Supersleuth | 100.00% | ~4 |
+| Gut-Wrenching | 50.00% | ~2 |
+| Somebody Set Up Us The Bomb | 50.00% | ~2 |
+| Look At You, Hacker | 25.00% | ~1 |
+| Don’t Forget To Salt The Fries | 25.00% | ~1 |
+| Look At You, Snacker | 25.00% | ~1 |
+| Déjà Vu | 25.00% | ~1 |
+| Goldberg’s Ricochet | 25.00% | ~1 |
+| Finish Him! | 25.00% | ~1 |
+| The Longest Jump | 25.00% | ~1 |
+| System Shocked | 25.00% | ~1 |
+| Enjoy Your Purchase | 25.00% | ~1 |
 | Shields Up! | 0.00% | ~0 |
 | Load ‘em Up! | 0.00% | ~0 |
 | I’ll See You Again, Hacker | 0.00% | ~0 |
@@ -21,8 +25,6 @@ Rating: 4.56 (Ranked 530)
 | Maxed Out | 0.00% | ~0 |
 | This Is My Boomstick! | 0.00% | ~0 |
 | Hacker? You Hardly Know’er! | 0.00% | ~0 |
-| Look At You, Hacker | 0.00% | ~0 |
-| Don’t Forget To Salt The Fries | 0.00% | ~0 |
 | Get Ahead | 0.00% | ~0 |
 | I’ll Be Back | 0.00% | ~0 |
 | Edward DIEgo | 0.00% | ~0 |
@@ -47,19 +49,18 @@ Rating: 4.56 (Ranked 530)
 | En Passant | 0.00% | ~0 |
 | Hacking Skillz | 0.00% | ~0 |
 | Can’t Turn Back Now | 0.00% | ~0 |
-| The Longest Jump | 0.00% | ~0 |
 | All Patched Up | 0.00% | ~0 |
-| System Shocked | 0.00% | ~0 |
 | Off The Grid | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 829)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 4 (Ranked 840)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-31 | 1 | 0 |
 | 2023-06-26 | 2 | 0 |
 | 2023-08-21 | 3 | 0 |
+| 2024-04-10 | 4 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

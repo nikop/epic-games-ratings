@@ -5,10 +5,10 @@
   "Ranking_Rating": 701,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -227,11 +227,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3191,
+  "EOS_Progressed": 3194,
   "EOS_Completed": 224,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.02,
+  "EOS_Completed_Percentage": 7.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -5477,6 +5477,11 @@
       "Time": "2024-04-08T15:03:11.3250509+00:00",
       "NumProgressed": 3191,
       "NumCompleted": 224
+    },
+    {
+      "Time": "2024-04-10T06:07:15.7006132+00:00",
+      "NumProgressed": 3194,
+      "NumCompleted": 224
     }
   ],
   "TotalAchievements": 12,
@@ -5496,7 +5501,7 @@
       "Name": "002",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "003",
@@ -5504,7 +5509,7 @@
       "Name": "003",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "004",
@@ -5512,7 +5517,7 @@
       "Name": "004",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "005",
@@ -5520,7 +5525,7 @@
       "Name": "005",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "006",
@@ -5583,7 +5588,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 3191,
+      "Progressed": 3194,
       "Completed": 224
     }
   ],
@@ -5591,8 +5596,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2024-02-22T20:57:35.7197626+00:00",
-  "LastChanged_Achievements": "2024-04-08T15:03:11.3250504+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:15.7006127+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:41.454201+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:04.1777337+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:03:11.3250878+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:19.7475295+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:15.7006459+00:00"
 }

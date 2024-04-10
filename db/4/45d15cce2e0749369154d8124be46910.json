@@ -2,10 +2,10 @@
   "ID": "45d15cce2e0749369154d8124be46910",
   "Name": "The Night Wanderer",
   "ProductSlug": "the-night-wanderer-8da918",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-03T16:57:14.4705111+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:01.15268+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:29.0784037+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:47.4630006+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:01.3140572+00:00"
 }

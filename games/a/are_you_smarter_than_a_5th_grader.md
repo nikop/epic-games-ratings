@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Exam Time | 85.00% | ~342 |
-| 1st Grade | 42.00% | ~169 |
-| Smarter than a 5th Grader | 38.00% | ~153 |
-| Study Session | 30.00% | ~121 |
-| Unlucky | 23.00% | ~92 |
-| Exam Practice | 13.00% | ~52 |
-| In The Honor Roll | 12.00% | ~48 |
-| Byoing | 8.00% | ~32 |
+| Exam Time | 85.00% | ~347 |
+| 1st Grade | 42.00% | ~171 |
+| Smarter than a 5th Grader | 38.00% | ~155 |
+| Study Session | 29.00% | ~118 |
+| Unlucky | 23.00% | ~94 |
+| Exam Practice | 13.00% | ~53 |
+| In The Honor Roll | 12.00% | ~49 |
+| Byoing | 8.00% | ~33 |
 | 2nd Grade | 2.00% | ~8 |
 | Self-Sufficient | 2.00% | ~8 |
 | 4th Grade | 1.00% | ~4 |
@@ -24,8 +24,8 @@
 | 5th Grade | 0.00% | ~0 |
 | Graduated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402 (Ranked 417)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 408 (Ranked 426)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-09 | 383 | 0 |
 | 2024-01-27 | 385 | 0 |
 | 2024-03-21 | 402 | 0 |
+| 2024-04-10 | 408 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

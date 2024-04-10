@@ -2,10 +2,10 @@
   "ID": "962312b846a343f486a7d630d8e4107c",
   "Name": "Sons of Valhalla",
   "ProductSlug": "sons-of-valhalla-97db6e",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 865,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-04-05T13:00:00+00:00",
     "PcReleaseDate": "2024-04-05T13:00:00+00:00",
@@ -24,27 +24,275 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-10T06:04:02.3380178+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-04-10T06:04:02.3380205+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_DEATH_BISHOP",
+      "SetID": "4fl8266",
+      "Name": "Unholy",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_BLOODHOUND",
+      "SetID": "4fl8266",
+      "Name": "Beast",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_HEL",
+      "SetID": "4fl8266",
+      "Name": "Reborn",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_KING",
+      "SetID": "4fl8266",
+      "Name": "Not My King",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_KNIGHT",
+      "SetID": "4fl8266",
+      "Name": "Are You Not Entertained?",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL0_1",
+      "SetID": "4fl8266",
+      "Name": "Scarecrow",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL0_2",
+      "SetID": "4fl8266",
+      "Name": "Fire Devil",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL1_1",
+      "SetID": "4fl8266",
+      "Name": "Furry",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL1_2",
+      "SetID": "4fl8266",
+      "Name": "Wololo",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL1_3",
+      "SetID": "4fl8266",
+      "Name": "RIP",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL2_1",
+      "SetID": "4fl8266",
+      "Name": "Skulls And Bones",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL2_2",
+      "SetID": "4fl8266",
+      "Name": "Human Goods",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL2_3",
+      "SetID": "4fl8266",
+      "Name": "Everything Is Fresh",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL3_ESCAPE",
+      "SetID": "4fl8266",
+      "Name": "The Great Escape",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL4_1",
+      "SetID": "4fl8266",
+      "Name": "Outpost",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL4_2",
+      "SetID": "4fl8266",
+      "Name": "Shiny",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL4_3",
+      "SetID": "4fl8266",
+      "Name": "Perfection",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL5_1",
+      "SetID": "4fl8266",
+      "Name": "Snap!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL5_2",
+      "SetID": "4fl8266",
+      "Name": "For the king!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_MINI_LVL5_3",
+      "SetID": "4fl8266",
+      "Name": "ARRRRR",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEATH_VALGARD",
+      "SetID": "4fl8266",
+      "Name": "Death Of A Viking",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DOG_PET",
+      "SetID": "4fl8266",
+      "Name": "Good Boy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HORDE_25",
+      "SetID": "4fl8266",
+      "Name": "Born Leader",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HORDE_35",
+      "SetID": "4fl8266",
+      "Name": "No Fear",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HORDE_45",
+      "SetID": "4fl8266",
+      "Name": "Hold The Line",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HORDE_55",
+      "SetID": "4fl8266",
+      "Name": "Not A Step Back",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HORDE_65",
+      "SetID": "4fl8266",
+      "Name": "A True Viking",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HORDE_75",
+      "SetID": "4fl8266",
+      "Name": "Valhalla Must Wait",
+      "Percentage": 0,
+      "XP": 140,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LOVE",
+      "SetID": "4fl8266",
+      "Name": "Love finds a way",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TUT_DONE",
+      "SetID": "4fl8266",
+      "Name": "The Journey Begins",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4fl8266",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-05T23:57:16.7018228+00:00",
   "FirstSeenAchievements": "2023-10-30T22:06:40.9368554+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:12.1760252+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:02.3380172+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:13.7428303+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:12.7482437+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:12.176028+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:34.2261479+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:02.3390186+00:00"
 }

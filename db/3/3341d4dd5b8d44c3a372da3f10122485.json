@@ -2,10 +2,10 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 448,
-  "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
-  "EOS_Completed": 132,
+  "EOS_Progressed": 320,
+  "EOS_Completed": 142,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 43.28,
+  "EOS_Completed_Percentage": 44.38,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1804,6 +1804,11 @@
       "Time": "2024-03-21T17:12:30.2290399+00:00",
       "NumProgressed": 305,
       "NumCompleted": 132
+    },
+    {
+      "Time": "2024-04-10T06:06:01.3039215+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 142
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1816,7 +1821,7 @@
       "Name": "Budoir",
       "Percentage": 69,
       "XP": 80,
-      "UsersEstimate": 210
+      "UsersEstimate": 221
     },
     {
       "ID": "Intro",
@@ -1824,47 +1829,47 @@
       "Name": "Intro",
       "Percentage": 94,
       "XP": 75,
-      "UsersEstimate": 287
+      "UsersEstimate": 301
     },
     {
       "ID": "Kanalizace",
       "SetID": "823jm6g",
       "Name": "Sewers",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 75,
-      "UsersEstimate": 235
+      "UsersEstimate": 250
     },
     {
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 80,
-      "UsersEstimate": 235
+      "UsersEstimate": 250
     },
     {
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 140
+      "UsersEstimate": 150
     },
     {
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 80,
-      "UsersEstimate": 189
+      "UsersEstimate": 202
     },
     {
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 140
+      "UsersEstimate": 150
     },
     {
       "ID": "Nora",
@@ -1872,7 +1877,7 @@
       "Name": "Burrow",
       "Percentage": 63,
       "XP": 75,
-      "UsersEstimate": 192
+      "UsersEstimate": 202
     },
     {
       "ID": "Planina",
@@ -1880,7 +1885,7 @@
       "Name": "Plain",
       "Percentage": 63,
       "XP": 80,
-      "UsersEstimate": 192
+      "UsersEstimate": 202
     },
     {
       "ID": "Poklop",
@@ -1888,45 +1893,45 @@
       "Name": "Hatch",
       "Percentage": 84,
       "XP": 75,
-      "UsersEstimate": 256
+      "UsersEstimate": 269
     },
     {
       "ID": "Snekoun",
       "SetID": "823jm6g",
       "Name": "Snailman",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 253
+      "UsersEstimate": 269
     },
     {
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 75,
-      "UsersEstimate": 241
+      "UsersEstimate": 256
     },
     {
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 165
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "823jm6g",
       "IsBase": true,
-      "Progressed": 305,
-      "Completed": 132
+      "Progressed": 320,
+      "Completed": 142
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:12:30.2290392+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:01.303921+00:00",
   "LastUpdate_AppInfo": "2024-04-06T18:57:13.3630911+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:15.5109777+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:30.2290588+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:00.2883423+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:01.303938+00:00"
 }

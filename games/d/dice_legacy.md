@@ -5,26 +5,26 @@ Rating: 4.29 (Ranked 924)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 45.00% | ~641 |
-| Manipulating Fate | 11.00% | ~157 |
-| The City | 11.00% | ~157 |
-| Hear me out | 8.00% | ~114 |
-| Full house | 7.00% | ~100 |
-| Burn and Pillage | 7.00% | ~100 |
-| Listening to the crowd | 6.00% | ~85 |
-| The Penitent Ones | 5.00% | ~71 |
-| Greedy | 5.00% | ~71 |
-| Hidden Secrets | 5.00% | ~71 |
-| The Stranded King | 5.00% | ~71 |
-| Accepting the Prophecy | 5.00% | ~71 |
-| Just Chilling | 4.00% | ~57 |
-| Ascended | 4.00% | ~57 |
-| Incredible Strength | 4.00% | ~57 |
-| Prophecy Fulfilled | 4.00% | ~57 |
+| We made it | 45.00% | ~649 |
+| Manipulating Fate | 11.00% | ~159 |
+| The City | 11.00% | ~159 |
+| Hear me out | 8.00% | ~115 |
+| Full house | 7.00% | ~101 |
+| Burn and Pillage | 7.00% | ~101 |
+| Listening to the crowd | 6.00% | ~87 |
+| The Penitent Ones | 5.00% | ~72 |
+| Greedy | 5.00% | ~72 |
+| Hidden Secrets | 5.00% | ~72 |
+| The Stranded King | 5.00% | ~72 |
+| Accepting the Prophecy | 5.00% | ~72 |
+| Just Chilling | 4.00% | ~58 |
+| Ascended | 4.00% | ~58 |
+| Incredible Strength | 4.00% | ~58 |
+| Prophecy Fulfilled | 4.00% | ~58 |
 | The Greedy Ones | 3.00% | ~43 |
-| The First King | 2.00% | ~28 |
-| The great fire | 2.00% | ~28 |
-| The Unruly Ones | 2.00% | ~28 |
+| The First King | 2.00% | ~29 |
+| The great fire | 2.00% | ~29 |
+| The Unruly Ones | 2.00% | ~29 |
 | The Council | 1.00% | ~14 |
 | The Mad | 1.00% | ~14 |
 | Like the dream | 1.00% | ~14 |
@@ -51,8 +51,8 @@ Rating: 4.29 (Ranked 924)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,424 (Ranked 309)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 1,443 (Ranked 321)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -283,6 +283,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-26 | 1,350 | 0 |
 | 2024-02-22 | 1,393 | 0 |
 | 2024-03-21 | 1,424 | 0 |
+| 2024-04-10 | 1,443 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

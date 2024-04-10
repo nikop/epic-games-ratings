@@ -2,10 +2,10 @@
   "ID": "a4b5203877a04321bd1989cef6ba51dc",
   "Name": "One Hand Clapping",
   "ProductSlug": "one-hand-clapping",
-  "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 344,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
     "PcReleaseDate": "2021-06-10T11:05:23+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1032,
+  "EOS_Progressed": 1040,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1094,6 +1094,11 @@
       "Time": "2024-03-21T17:09:18.4435527+00:00",
       "NumProgressed": 1032,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:04:05.6151923+00:00",
+      "NumProgressed": 1040,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -1103,9 +1108,9 @@
       "ID": "1",
       "SetID": "7l2nmpm",
       "Name": "Silent City",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 299
+      "UsersEstimate": 312
     },
     {
       "ID": "10",
@@ -1143,9 +1148,9 @@
       "ID": "14",
       "SetID": "7l2nmpm",
       "Name": "Rondo",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "15",
@@ -1328,7 +1333,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 1032,
+      "Progressed": 1040,
       "Completed": 0
     }
   ],
@@ -1336,8 +1341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:18.4435521+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:05.6151918+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:09.9675079+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:06.1455805+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:18.4435752+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:50.9169471+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:05.6152131+00:00"
 }

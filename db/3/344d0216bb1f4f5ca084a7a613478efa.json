@@ -2,10 +2,10 @@
   "ID": "344d0216bb1f4f5ca084a7a613478efa",
   "Name": "Cat Slide Tiles",
   "ProductSlug": "cat-slide-tiles-93b9d4",
-  "Ranking_EOS_Progress": 556,
-  "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 568,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-15T17:00:00+00:00",
     "PcReleaseDate": "2021-06-06T19:00:00+00:00",
@@ -63,17 +63,17 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "6ij7ena",
       "Name": "Crossed the forest",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "6ij7ena",
       "Name": "Crossed the beach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -110,8 +110,8 @@
   ],
   "FirstSeen": "2024-03-16T19:57:02.4055265+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:07.2580324+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:04:43.5328206+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:49.5739641+00:00",
   "LastUpdate_AppInfo": "2024-04-03T22:57:10.8345654+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:27.755485+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:04:43.5328254+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:13.695353+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:49.573971+00:00"
 }

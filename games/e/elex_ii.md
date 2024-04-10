@@ -6,50 +6,50 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 44.00% | ~191 |
-| Best Buddy | 40.00% | ~174 |
-| Civilian | 38.00% | ~165 |
-| Role Model | 36.00% | ~156 |
-| Creator | 33.00% | ~143 |
-| Festival-goer | 33.00% | ~143 |
-| Military Leader | 32.00% | ~139 |
-| Peddler | 29.00% | ~126 |
-| Commander | 28.00% | ~122 |
-| Family Reunion | 25.00% | ~108 |
-| Irissa's Fate | 24.00% | ~104 |
-| Long-Haul Flyer | 23.00% | ~100 |
-| Banker | 22.00% | ~95 |
-| Eternal Oblivion | 21.00% | ~91 |
-| Pass A38 | 20.00% | ~87 |
-| Perfectionist | 18.00% | ~78 |
-| Hunter | 18.00% | ~78 |
-| Storyteller | 17.00% | ~74 |
-| Globetrotter | 17.00% | ~74 |
-| Lover | 17.00% | ~74 |
-| Beam Me Up | 16.00% | ~69 |
-| Berserker | 16.00% | ~69 |
-| Alb | 14.00% | ~61 |
-| Weaponsmith | 12.00% | ~52 |
-| Free as a Bird | 12.00% | ~52 |
-| Treasure Hunter | 10.00% | ~43 |
-| Hotshot | 10.00% | ~43 |
-| Cleric | 10.00% | ~43 |
-| Detective | 9.00% | ~39 |
-| Alchemist | 8.00% | ~35 |
-| Self-Sufficient | 8.00% | ~35 |
-| Unbreakable | 8.00% | ~35 |
-| Idealist | 6.00% | ~26 |
-| Legendary | 5.00% | ~22 |
-| Pack Rat | 3.00% | ~13 |
-| Toy Time | 3.00% | ~13 |
-| Morkon | 3.00% | ~13 |
-| Outlaw | 3.00% | ~13 |
-| Defector | 2.00% | ~9 |
-| Destroyer | 2.00% | ~9 |
-| Ruthless | 0.70% | ~3 |
-| Fire in the Hole | 0.70% | ~3 |
+| Entrepreneur | 45.00% | ~214 |
+| Best Buddy | 41.00% | ~195 |
+| Civilian | 38.00% | ~181 |
+| Role Model | 37.00% | ~176 |
+| Festival-goer | 34.00% | ~162 |
+| Military Leader | 33.00% | ~157 |
+| Creator | 33.00% | ~157 |
+| Peddler | 30.00% | ~143 |
+| Commander | 30.00% | ~143 |
+| Family Reunion | 26.00% | ~124 |
+| Long-Haul Flyer | 25.00% | ~119 |
+| Irissa's Fate | 25.00% | ~119 |
+| Banker | 22.00% | ~105 |
+| Eternal Oblivion | 21.00% | ~100 |
+| Pass A38 | 20.00% | ~95 |
+| Perfectionist | 19.00% | ~90 |
+| Globetrotter | 18.00% | ~86 |
+| Hunter | 18.00% | ~86 |
+| Lover | 18.00% | ~86 |
+| Storyteller | 17.00% | ~81 |
+| Berserker | 17.00% | ~81 |
+| Beam Me Up | 16.00% | ~76 |
+| Alb | 14.00% | ~67 |
+| Weaponsmith | 13.00% | ~62 |
+| Free as a Bird | 13.00% | ~62 |
+| Hotshot | 11.00% | ~52 |
+| Treasure Hunter | 10.00% | ~48 |
+| Cleric | 10.00% | ~48 |
+| Detective | 9.00% | ~43 |
+| Alchemist | 8.00% | ~38 |
+| Self-Sufficient | 8.00% | ~38 |
+| Unbreakable | 8.00% | ~38 |
+| Idealist | 7.00% | ~33 |
+| Legendary | 5.00% | ~24 |
+| Outlaw | 4.00% | ~19 |
+| Pack Rat | 3.00% | ~14 |
+| Toy Time | 3.00% | ~14 |
+| Morkon | 3.00% | ~14 |
+| Defector | 2.00% | ~10 |
+| Destroyer | 2.00% | ~10 |
+| Fire in the Hole | 1.00% | ~5 |
+| Ruthless | 0.80% | ~4 |
+| Defender | 0.40% | ~2 |
 | Computer Scientist | 0.20% | ~1 |
-| Defender | 0.20% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
@@ -57,8 +57,8 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434 (Ranked 405)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 476 (Ranked 408)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 296 | 0 |
 | 2024-03-04 | 396 | 0 |
 | 2024-03-21 | 434 | 0 |
+| 2024-04-10 | 476 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

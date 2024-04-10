@@ -2,10 +2,10 @@
   "ID": "f47bc8a0f3e94eecbbc88021b3011f73",
   "Name": "Passing By - A Tailwind Journey",
   "ProductSlug": "passing-by-d47e9b",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 904,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-12T14:00:00+00:00",
     "PcReleaseDate": "2024-03-12T14:00:00+00:00",
@@ -25,12 +25,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-04-10T06:05:44.7086544+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-03-21T17:11:59.5094391+00:00",
   "TotalAchievements": 34,
   "TotalAchievementsXP": 1000,
@@ -39,9 +45,9 @@
       "ID": "01_home_1",
       "SetID": "49ap2j7",
       "Name": "Balloon Driver\u2019s Licence",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "02_lighthouse_1",
@@ -312,14 +318,14 @@
     {
       "ID": "49ap2j7",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-20T22:57:22.0548246+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:11.1484738+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:59.509437+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:44.7086539+00:00",
   "LastUpdate_AppInfo": "2024-04-04T18:57:19.7291404+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:00.4266871+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:59.5101897+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:46.7676832+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:44.7086724+00:00"
 }

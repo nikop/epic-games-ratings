@@ -5,10 +5,10 @@
   "Ranking_Rating": 640,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 391,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,7 +38,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 514,
+  "EOS_Progressed": 516,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -798,6 +798,11 @@
       "Time": "2024-03-21T17:09:30.0299527+00:00",
       "NumProgressed": 514,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-04-10T06:04:12.0684416+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -841,7 +846,7 @@
       "Name": "Frugal",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "collect-discounted-items2",
@@ -857,7 +862,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "different-items1",
@@ -865,7 +870,7 @@
       "Name": "Party",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "different-items2",
@@ -881,7 +886,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "finished-quest-cube",
@@ -889,7 +894,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "finished-quest-flight",
@@ -921,15 +926,15 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 212
     },
     {
       "ID": "finished-quest-reaper",
@@ -945,7 +950,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "finished-quest-secret",
@@ -961,7 +966,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "get-all",
@@ -977,7 +982,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "last-hero",
@@ -985,7 +990,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "save-zombie",
@@ -1017,7 +1022,7 @@
       "Name": "Great Hero",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "win-first-biom",
@@ -1025,7 +1030,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 408
     },
     {
       "ID": "win-first-level",
@@ -1033,7 +1038,7 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 452
+      "UsersEstimate": 454
     },
     {
       "ID": "win-koth-fights1",
@@ -1065,7 +1070,7 @@
       "Name": "Through the Darkness",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "win-with-3-cultists",
@@ -1088,7 +1093,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 514,
+      "Progressed": 516,
       "Completed": 1
     }
   ],
@@ -1096,8 +1101,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:30.0299521+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:12.0684411+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:04.4848575+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:28.4466933+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:30.0299771+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:15.9783707+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:12.0684674+00:00"
 }

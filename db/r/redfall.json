@@ -5,10 +5,10 @@
   "Ranking_Rating": 1152,
   "Ranking_Popularity": 518,
   "Ranking_PopularitySum": 568,
-  "Ranking_EOS_Progress": 261,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 36,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -585,9 +585,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 2558,
+  "EOS_Progressed": 2561,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4875,6 +4875,11 @@
       "Time": "2024-04-07T18:02:12.5742729+00:00",
       "NumProgressed": 2558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:06:53.2549562+00:00",
+      "NumProgressed": 2561,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4950,7 +4955,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Achievement_011",
@@ -4972,9 +4977,9 @@
       "ID": "Achievement_013",
       "SetID": "6b34g18",
       "Name": "Scream Team",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "Achievement_014",
@@ -5030,7 +5035,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_021",
@@ -5046,7 +5051,7 @@
       "Name": "Bell-ringer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_023",
@@ -5054,7 +5059,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_024",
@@ -5062,15 +5067,15 @@
       "Name": "Good Morning",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_025",
       "SetID": "6b34g18",
       "Name": "Grounded",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 307
     },
     {
       "ID": "Achievement_026",
@@ -5078,7 +5083,7 @@
       "Name": "Fly Fisher",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Achievement_027",
@@ -5094,7 +5099,7 @@
       "Name": "You Clean It Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_029",
@@ -5102,7 +5107,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Achievement_030",
@@ -5110,7 +5115,7 @@
       "Name": "ICU",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Achievement_031",
@@ -5118,7 +5123,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Achievement_032",
@@ -5132,9 +5137,9 @@
       "ID": "Achievement_033",
       "SetID": "6b34g18",
       "Name": "Wounded Whispers",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_034",
@@ -5142,7 +5147,7 @@
       "Name": "Catch and Release",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "Achievement_035",
@@ -5278,7 +5283,7 @@
       "Name": "Harvest\u2019s End",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_055",
@@ -5350,7 +5355,7 @@
       "Name": "Helping Hand",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Achievement_064",
@@ -5406,14 +5411,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2558,
+      "Progressed": 2561,
       "Completed": 0
     }
   ],
@@ -5421,8 +5426,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-03-27T20:00:09.5937282+00:00",
-  "LastChanged_Achievements": "2024-04-07T18:02:12.5742725+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:53.2549557+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:09.898937+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:56.6849185+00:00",
-  "LastUpdate_Achievements": "2024-04-07T18:02:12.5744028+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:12.8870308+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:53.2550199+00:00"
 }

@@ -5,47 +5,47 @@ Rating: 3.41 (Ranked 1,156)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 30.00% | ~812 |
-| Defenses Online | 27.00% | ~730 |
-| Facility Online | 23.00% | ~622 |
-| Corporal | 18.00% | ~487 |
-| Covert Operative | 15.00% | ~406 |
-| Sergeant | 14.00% | ~379 |
-| Lieutenant | 13.00% | ~352 |
-| Keeping Busy | 12.00% | ~325 |
-| Getting Deployment | 12.00% | ~325 |
-| On Target | 12.00% | ~325 |
-| Infantry Reporting | 12.00% | ~325 |
-| Fighting for Survival | 11.00% | ~298 |
-| Silver Competitor | 11.00% | ~298 |
-| Stocking Up | 11.00% | ~298 |
-| Factory Expansion | 11.00% | ~298 |
-| Exterminator | 10.00% | ~270 |
-| Captain | 10.00% | ~270 |
-| Know The Enemy | 9.00% | ~243 |
-| Moving On Up | 9.00% | ~243 |
-| Brothers in Arms | 9.00% | ~243 |
-| Player Betrayer | 8.00% | ~216 |
-| Silver Achiever | 8.00% | ~216 |
-| Major | 8.00% | ~216 |
-| Gold Achiever | 7.00% | ~189 |
-| Colonel | 6.00% | ~162 |
-| Resourceful | 6.00% | ~162 |
-| Control the Skies | 6.00% | ~162 |
-| Advanced Warfare | 5.00% | ~135 |
-| Battle Ready | 5.00% | ~135 |
-| Seek & Destroy | 4.00% | ~108 |
-| General | 3.00% | ~81 |
-| Titan Tanks | 3.00% | ~81 |
-| Advanced Interceptors | 2.00% | ~54 |
-| Shock Troops | 2.00% | ~54 |
-| Jet Troops | 2.00% | ~54 |
+| It's Good to have Allies | 30.00% | ~835 |
+| Defenses Online | 28.00% | ~780 |
+| Facility Online | 23.00% | ~640 |
+| Corporal | 18.00% | ~501 |
+| Covert Operative | 15.00% | ~418 |
+| Sergeant | 14.00% | ~390 |
+| Lieutenant | 13.00% | ~362 |
+| Getting Deployment | 13.00% | ~362 |
+| On Target | 13.00% | ~362 |
+| Keeping Busy | 12.00% | ~334 |
+| Stocking Up | 12.00% | ~334 |
+| Infantry Reporting | 12.00% | ~334 |
+| Exterminator | 11.00% | ~306 |
+| Fighting for Survival | 11.00% | ~306 |
+| Silver Competitor | 11.00% | ~306 |
+| Captain | 11.00% | ~306 |
+| Factory Expansion | 11.00% | ~306 |
+| Know The Enemy | 9.00% | ~251 |
+| Silver Achiever | 9.00% | ~251 |
+| Moving On Up | 9.00% | ~251 |
+| Brothers in Arms | 9.00% | ~251 |
+| Player Betrayer | 8.00% | ~223 |
+| Major | 8.00% | ~223 |
+| Gold Achiever | 7.00% | ~195 |
+| Advanced Warfare | 6.00% | ~167 |
+| Colonel | 6.00% | ~167 |
+| Resourceful | 6.00% | ~167 |
+| Control the Skies | 6.00% | ~167 |
+| Battle Ready | 5.00% | ~139 |
+| Seek & Destroy | 4.00% | ~111 |
+| General | 3.00% | ~84 |
+| Titan Tanks | 3.00% | ~84 |
+| Shock Troops | 3.00% | ~84 |
+| Advanced Interceptors | 2.00% | ~56 |
+| Jet Troops | 2.00% | ~56 |
 | Gold Competitor | 0.10% | ~3 |
 | Platinum Achiever | 0.10% | ~3 |
 | Platinum Competitor | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,705 (Ranked 258)  
-Completed: 1 (0.04%) (Ranked 393)  
+Progressed: 2,784 (Ranked 264)  
+Completed: 1 (0.04%) (Ranked 395)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,6 +280,7 @@ Completed: 1 (0.04%) (Ranked 393)
 | 2024-01-27 | 2,318 | 1 |
 | 2024-02-22 | 2,502 | 1 |
 | 2024-03-21 | 2,705 | 1 |
+| 2024-04-10 | 2,784 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "a9c5d48f93f742d8b8225d21f23fe95b",
   "Name": "Project Element",
   "ProductSlug": "projectelement-a1ec94",
-  "Ranking_EOS_Progress": 787,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 807,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-13T10:00:01.524+00:00",
     "PcReleaseDate": "2024-03-13T10:00:00+00:00",
@@ -102,8 +102,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:05:29.6914129+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:01:44.6496773+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:35.0330079+00:00",
   "LastUpdate_AppInfo": "2024-04-03T13:01:36.8499081+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:36.6138089+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:01:44.6502683+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:23.2705745+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:35.0330155+00:00"
 }

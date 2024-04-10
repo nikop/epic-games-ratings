@@ -2,10 +2,10 @@
   "ID": "c6422f963ff84bcbb3b77539e77b6ef7",
   "Name": "Ultros",
   "ProductSlug": "ultros",
-  "Ranking_EOS_Progress": 562,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-13T08:00:00+00:00",
     "PcReleaseDate": "2024-02-13T08:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 100,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37,6 +37,11 @@
     {
       "Time": "2024-04-05T15:03:00.9915358+00:00",
       "NumProgressed": 98,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:06:43.611076+00:00",
+      "NumProgressed": 100,
       "NumCompleted": 0
     }
   ],
@@ -80,9 +85,9 @@
       "ID": "BAD_ENDING",
       "SetID": "2hbmfjb",
       "Name": "Out of darkness is born the light",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BRUNZON",
@@ -160,7 +165,7 @@
       "ID": "ENRAGED_BEAST",
       "SetID": "2hbmfjb",
       "Name": "Wrath upon the enraged",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 43
     },
@@ -216,9 +221,9 @@
       "ID": "GOOD_ENDING",
       "SetID": "2hbmfjb",
       "Name": "Walking with all the stars within",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HOST",
@@ -290,21 +295,21 @@
       "Name": "Nietzsche taken to heart",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "2hbmfjb",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-13T20:00:38.1528688+00:00",
   "FirstSeenAchievements": "2023-10-27T15:04:03.1385531+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:03:00.9915353+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:43.6110755+00:00",
   "LastUpdate_AppInfo": "2024-04-05T06:56:59.5257607+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:22.8125214+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:03:00.9915569+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:35.4053899+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:43.611092+00:00"
 }

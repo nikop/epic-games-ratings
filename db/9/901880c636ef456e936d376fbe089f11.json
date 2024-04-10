@@ -2,10 +2,10 @@
   "ID": "901880c636ef456e936d376fbe089f11",
   "Name": "Coffee Talk Episode 2 - Hibiscus and Butterfly",
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
-  "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -1262,9 +1262,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -1429,8 +1429,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-04-08T15:03:12.7938287+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:15.7527471+00:00",
   "LastUpdate_AppInfo": "2024-04-03T07:57:12.7885746+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:14.3479461+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:03:12.7938711+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:01.7067901+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:15.7527891+00:00"
 }

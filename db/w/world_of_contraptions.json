@@ -2,10 +2,10 @@
   "ID": "494a9b22e0ce449aa1a362ba9dce9ba5",
   "Name": "World of Contraptions",
   "ProductSlug": "world-of-contraptions-6dbc07",
-  "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
     "PcReleaseDate": "2022-03-24T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 440,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1814,6 +1814,11 @@
       "Time": "2024-03-21T17:10:51.5287837+00:00",
       "NumProgressed": 430,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:00.9100143+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -1823,9 +1828,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "aemieak",
       "Name": "The first of many",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "GROUP_EASY_COMPLETED",
@@ -1927,9 +1932,9 @@
       "ID": "GROUP_MEDIUM_COMPLETED",
       "SetID": "aemieak",
       "Name": "Medium group",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "GROUP_MEDIUM_GOLD",
@@ -2025,15 +2030,15 @@
       "Name": "Graduated in contraptions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_EXTREME",
       "SetID": "aemieak",
       "Name": "First extreme level",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_HARD",
@@ -2049,7 +2054,7 @@
       "Name": "First medium level",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "TUTORIAL_FIRST",
@@ -2057,21 +2062,21 @@
       "Name": "Starting to take notes",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 299
     }
   ],
   "AchievementSets": [
     {
       "ID": "aemieak",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:10:51.5287833+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:00.9100138+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:42.8459619+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:07.9788619+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:10:51.528811+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:23.0847292+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:00.9100414+00:00"
 }

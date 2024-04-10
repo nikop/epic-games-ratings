@@ -2,10 +2,10 @@
   "ID": "54b2781b490444debc7739e562b05291",
   "Name": "Stories from the Outbreak",
   "ProductSlug": "stories-from-the-outbreak-23efc0",
-  "Ranking_EOS_Progress": 829,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 828,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-14T00:00:00+00:00",
     "PcReleaseDate": "2024-02-20T17:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-03-21T17:11:57.2651151+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:43.5806304+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -53,31 +58,31 @@
       "ID": "ach_beat_houndwalker",
       "SetID": "1322lcm",
       "Name": "The Houndwalker",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_beat_legion",
       "SetID": "1322lcm",
       "Name": "The Legion",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_beat_mutantmother",
       "SetID": "1322lcm",
       "Name": "The Mutantmother",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_beat_silhouette",
       "SetID": "1322lcm",
       "Name": "The Silhouette",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -133,7 +138,7 @@
       "ID": "ach_decisive_pumeling",
       "SetID": "1322lcm",
       "Name": "A decisive pummeling!",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -309,7 +314,7 @@
       "ID": "ach_stories_from_the_outbreak",
       "SetID": "1322lcm",
       "Name": "Stories from the Outbreak",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -342,14 +347,14 @@
     {
       "ID": "1322lcm",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-22T19:58:26.4438699+00:00",
   "FirstSeenAchievements": "2024-03-21T17:11:57.265118+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:57.2651143+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:43.5806299+00:00",
   "LastUpdate_AppInfo": "2024-04-05T11:57:31.3354148+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:30.4350447+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:57.2659999+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:15.824196+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:43.580651+00:00"
 }

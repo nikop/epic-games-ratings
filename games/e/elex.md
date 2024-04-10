@@ -6,63 +6,64 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Up and Away | 59.00% | ~70 |
-| Survival | 25.00% | ~30 |
-| The Big G | 23.00% | ~27 |
-| Shard hoarder | 10.00% | ~12 |
-| Fencing master | 10.00% | ~12 |
-| Pack leader | 8.00% | ~9 |
-| Leader | 8.00% | ~9 |
-| Prepared | 7.00% | ~8 |
-| Earner | 7.00% | ~8 |
-| Flashback | 6.00% | ~7 |
-| Romantic | 6.00% | ~7 |
-| Visionary | 5.00% | ~6 |
-| Detective | 5.00% | ~6 |
-| Turned the world upside down. | 5.00% | ~6 |
-| Thicker than Water | 5.00% | ~6 |
-| Cultivator | 4.00% | ~5 |
-| Balance of Power | 4.00% | ~5 |
-| Atombouncer | 3.00% | ~4 |
-| Calaan | 3.00% | ~4 |
-| Sewer Rat | 3.00% | ~4 |
-| Acolyte | 3.00% | ~4 |
-| Pure Rebel | 3.00% | ~4 |
-| The Third Way | 3.00% | ~4 |
-| Hunter | 3.00% | ~4 |
-| Runner | 2.00% | ~2 |
-| Human | 2.00% | ~2 |
-| Luminary | 0.80% | ~1 |
-| Beast of Xacor | 0.80% | ~1 |
-| Coldhearted | 0.80% | ~1 |
-| Big Earner | 0.00% | ~0 |
+| Up and Away | 64.00% | ~127 |
+| Survival | 32.00% | ~63 |
+| The Big G | 23.00% | ~46 |
+| Fencing master | 16.00% | ~32 |
+| Shard hoarder | 14.00% | ~28 |
+| Earner | 12.00% | ~24 |
+| Flashback | 12.00% | ~24 |
+| Pack leader | 10.00% | ~20 |
+| Prepared | 10.00% | ~20 |
+| Leader | 10.00% | ~20 |
+| Detective | 9.00% | ~18 |
+| Romantic | 8.00% | ~16 |
+| Atombouncer | 7.00% | ~14 |
+| Cultivator | 7.00% | ~14 |
+| Acolyte | 7.00% | ~14 |
+| Visionary | 7.00% | ~14 |
+| Hunter | 7.00% | ~14 |
+| Turned the world upside down. | 7.00% | ~14 |
+| Thicker than Water | 7.00% | ~14 |
+| Balance of Power | 6.00% | ~12 |
+| Sewer Rat | 5.00% | ~10 |
+| The Third Way | 5.00% | ~10 |
+| Calaan | 4.00% | ~8 |
+| Luminary | 2.00% | ~4 |
+| Runner | 2.00% | ~4 |
+| Pure Rebel | 2.00% | ~4 |
+| Human | 2.00% | ~4 |
+| Big Earner | 1.00% | ~2 |
+| Beast of Xacor | 1.00% | ~2 |
+| Coldhearted | 1.00% | ~2 |
+| Splattermaster | 0.50% | ~1 |
+| Picture Album | 0.50% | ~1 |
+| Nature Lover | 0.50% | ~1 |
+| Fightmaster | 0.50% | ~1 |
+| Flexible friend | 0.50% | ~1 |
+| Hero | 0.50% | ~1 |
+| Natural Survivor | 0.50% | ~1 |
+| Friend or Foe | 0.50% | ~1 |
+| Thief taker | 0.50% | ~1 |
 | Locksmith | 0.00% | ~0 |
-| Splattermaster | 0.00% | ~0 |
-| Picture Album | 0.00% | ~0 |
 | Tinkerer | 0.00% | ~0 |
 | Careerist | 0.00% | ~0 |
 | Pilferer | 0.00% | ~0 |
 | Safecracker | 0.00% | ~0 |
 | Honorary Citizen | 0.00% | ~0 |
-| Nature Lover | 0.00% | ~0 |
-| Fightmaster | 0.00% | ~0 |
-| Flexible friend | 0.00% | ~0 |
 | Beacon of faith | 0.00% | ~0 |
 | Master criminal | 0.00% | ~0 |
-| Hero | 0.00% | ~0 |
-| Natural Survivor | 0.00% | ~0 |
 | Big Game Hunter | 0.00% | ~0 |
-| Friend or Foe | 0.00% | ~0 |
-| Thief taker | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 | Butcher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 535)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 198 (Ranked 499)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 118 | 0 |
+| 2024-04-10 | 198 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 582)  
 Sum: 26 (Ranked 598)  

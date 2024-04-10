@@ -2,10 +2,10 @@
   "ID": "45e5366436ed4058ad268d41516c4c0d",
   "Name": "NINJA KATO 3",
   "ProductSlug": "ninja-kato-3-76c9c5",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-04-21T15:00:00+00:00",
     "PcReleaseDate": "2024-04-21T15:00:00+00:00",
@@ -29,10 +29,62 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-04-10T06:01:54.3775943+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Chunin",
+      "SetID": "53h9cac",
+      "Name": "Chunin",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ChuninS",
+      "SetID": "53h9cac",
+      "Name": "Chunin(\u2606)",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ChuninSS",
+      "SetID": "53h9cac",
+      "Name": "Chunin(\u2606\u2606)",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Genin",
+      "SetID": "53h9cac",
+      "Name": "Genin",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GeninS",
+      "SetID": "53h9cac",
+      "Name": "Genin(\u2606)",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "53h9cac",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-04-10T06:01:54.3775943+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:01:54.3775898+00:00",
   "LastUpdate_AppInfo": "2024-04-05T02:13:48.7342436+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:26.6521024+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:14.1579347+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:54.3787088+00:00"
 }

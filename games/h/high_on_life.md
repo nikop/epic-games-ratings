@@ -5,53 +5,53 @@ Rating: 4.65 (Ranked 337)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 7.00% | ~1,779 |
-| First Bounty Down | 7.00% | ~1,779 |
-| Cold-Blooded Driller | 7.00% | ~1,779 |
-| Are You Packin'? | 6.00% | ~1,525 |
-| Bring A Knife to a Gun Fight | 6.00% | ~1,525 |
-| Sweezy Like Sunday Morning | 6.00% | ~1,525 |
-| We're All Very Impressed, Trust Me | 6.00% | ~1,525 |
-| G3 Graduation | 6.00% | ~1,525 |
-| Don't Knife The Hand That Feeds | 6.00% | ~1,525 |
-| Creature Feature | 5.00% | ~1,271 |
-| RIP Davey Glutes | 5.00% | ~1,271 |
-| Hardest Battle In The Game | 5.00% | ~1,271 |
-| Who's The Boss? | 5.00% | ~1,271 |
-| Fallout Doesn't Let You Do This | 5.00% | ~1,271 |
-| Lezduit! | 4.00% | ~1,017 |
-| Self-Actualization | 4.00% | ~1,017 |
-| Spent 15 Hours At The Alien Strip Club | 4.00% | ~1,017 |
-| Eatin' Good in the Neighborhood | 3.00% | ~762 |
-| Eye Scream, You Scream | 3.00% | ~762 |
-| Legendary Bounty Hunter | 3.00% | ~762 |
-| Series Wrap on Suit-O | 3.00% | ~762 |
-| Bathe With A Giant Nude Alien | 2.00% | ~54 |
-| Gunning For Your Job | 1.00% | ~254 |
-| We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~254 |
-| Mux Ado About Shipping | 1.00% | ~27 |
-| We Came, We Chainsaw, We Conquered | 1.00% | ~27 |
-| Carried Stan's Load To Completion | 0.70% | ~178 |
-| Fall In Love With A Parasite | 0.70% | ~19 |
-| Sequel-Bait | 0.60% | ~152 |
-| Playing Favorites | 0.50% | ~127 |
-| A Starfish Is Born | 0.40% | ~102 |
+| First Bounty Down | 8.00% | ~2,043 |
+| Satisfied Gus-tomer | 7.00% | ~1,788 |
+| Bring A Knife to a Gun Fight | 7.00% | ~1,788 |
+| Sweezy Like Sunday Morning | 7.00% | ~1,788 |
+| G3 Graduation | 7.00% | ~1,788 |
+| Cold-Blooded Driller | 7.00% | ~1,788 |
+| Are You Packin'? | 6.00% | ~1,532 |
+| We're All Very Impressed, Trust Me | 6.00% | ~1,532 |
+| Don't Knife The Hand That Feeds | 6.00% | ~1,532 |
+| Creature Feature | 5.00% | ~1,277 |
+| RIP Davey Glutes | 5.00% | ~1,277 |
+| Hardest Battle In The Game | 5.00% | ~1,277 |
+| Who's The Boss? | 5.00% | ~1,277 |
+| Fallout Doesn't Let You Do This | 5.00% | ~1,277 |
+| Lezduit! | 4.00% | ~1,022 |
+| Legendary Bounty Hunter | 4.00% | ~1,022 |
+| Self-Actualization | 4.00% | ~1,022 |
+| Spent 15 Hours At The Alien Strip Club | 4.00% | ~1,022 |
+| Series Wrap on Suit-O | 4.00% | ~1,022 |
+| Eatin' Good in the Neighborhood | 3.00% | ~766 |
+| Eye Scream, You Scream | 3.00% | ~766 |
+| Gunning For Your Job | 2.00% | ~511 |
+| Bathe With A Giant Nude Alien | 2.00% | ~57 |
+| We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~255 |
+| Mux Ado About Shipping | 1.00% | ~28 |
+| We Came, We Chainsaw, We Conquered | 1.00% | ~28 |
+| Carried Stan's Load To Completion | 0.70% | ~179 |
+| Fall In Love With A Parasite | 0.70% | ~20 |
+| Sequel-Bait | 0.60% | ~153 |
+| A Starfish Is Born | 0.50% | ~128 |
+| Playing Favorites | 0.50% | ~128 |
 | Meet Frasier from Frasier | 0.40% | ~11 |
-| Epic Legendary Prize | 0.30% | ~76 |
-| Mods Please Ban | 0.30% | ~76 |
-| Give Away All Your Money | 0.30% | ~8 |
+| Epic Legendary Prize | 0.30% | ~77 |
+| Mods Please Ban | 0.30% | ~77 |
+| Give Away All Your Money | 0.30% | ~9 |
 | Playing Card To Get | 0.20% | ~51 |
 | Luglox Genocide | 0.20% | ~51 |
 | Seeing All The Sights | 0.20% | ~51 |
-| It's Like The Santa Clause | 0.20% | ~5 |
+| It's Like The Santa Clause | 0.20% | ~6 |
 | That's B.A.L.L., Folks | 0.10% | ~3 |
 | Cardbored | 0.10% | ~3 |
 | See Salt | 0.10% | ~3 |
 | Porch Pirate | 0.10% | ~3 |
 | Harper? I Barely Know Her! | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,416 (Ranked 161)  
-Completed: 14 (0.06%) (Ranked 371)  
+Progressed: 25,541 (Ranked 165)  
+Completed: 14 (0.05%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,6 +333,7 @@ Completed: 14 (0.06%) (Ranked 371)
 | 2024-01-27 | 25,202 | 14 |
 | 2024-02-22 | 25,290 | 14 |
 | 2024-03-21 | 25,416 | 14 |
+| 2024-04-10 | 25,541 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

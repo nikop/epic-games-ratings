@@ -2,10 +2,10 @@
   "ID": "e12cadecef31458b958d17431eb4ffd0",
   "Name": "Karma City Police",
   "ProductSlug": "karma-city-police-506b86",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-12-16T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-08T03:57:09.9305383+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:51.1051616+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:01.6066753+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:38.2764074+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:45.7879726+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d5ed5f18bd5640ea9954ff39f2be25b0",
   "Name": "1001 Jigsaw. Earth Chronicles",
   "ProductSlug": "1001-jigsaw-earth-chronicles-7b25fc",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-12-24T21:00:00+00:00",
     "PcReleaseDate": "2019-10-18T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-29T03:57:30.8918849+00:00",
   "LastUpdate_AppInfo": "2024-04-05T17:57:08.5725923+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:45.9227073+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:48.872365+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:31.5030705+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:12.1261312+00:00"
 }

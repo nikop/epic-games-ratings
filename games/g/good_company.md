@@ -6,35 +6,35 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,972 |
-| Returning Home: Quick Learner | 26.00% | ~1,577 |
-| Level: Charlie's Circuits | 22.00% | ~1,335 |
-| Level: Rising Markets | 9.00% | ~546 |
-| Level: Extra Life | 7.00% | ~425 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~425 |
-| Peddler | 7.00% | ~425 |
-| Data Churn Type I | 7.00% | ~425 |
-| Millionaire | 6.00% | ~364 |
-| Data Churn Type II | 5.00% | ~303 |
-| Speedy | 5.00% | ~303 |
-| Extra Life: Wish Granted | 4.00% | ~243 |
-| High Five! | 4.00% | ~243 |
-| Modular Progress | 4.00% | ~243 |
-| Campaign: Lesson Learned | 3.00% | ~182 |
-| Level: Bet On Bots | 3.00% | ~182 |
-| Modular Performance | 3.00% | ~182 |
-| Salesperson | 3.00% | ~182 |
-| Level: Merry-Go-Around | 2.00% | ~121 |
-| Charlies's Circuits: Artist | 2.00% | ~121 |
-| Modular Peak | 2.00% | ~121 |
-| Accountant | 2.00% | ~121 |
-| Data Churn Type III | 2.00% | ~121 |
-| Multi-Millionaire | 2.00% | ~121 |
-| Contender | 2.00% | ~121 |
-| Trophy Collector | 2.00% | ~121 |
-| Module Maniac | 2.00% | ~121 |
-| Overproducer | 2.00% | ~121 |
-| Natural Talent | 2.00% | ~121 |
+| Level: Returning Home | 49.00% | ~2,988 |
+| Returning Home: Quick Learner | 26.00% | ~1,585 |
+| Level: Charlie's Circuits | 22.00% | ~1,341 |
+| Level: Rising Markets | 9.00% | ~549 |
+| Level: Extra Life | 7.00% | ~427 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~427 |
+| Peddler | 7.00% | ~427 |
+| Data Churn Type I | 7.00% | ~427 |
+| Millionaire | 6.00% | ~366 |
+| Data Churn Type II | 5.00% | ~305 |
+| Speedy | 5.00% | ~305 |
+| Extra Life: Wish Granted | 4.00% | ~244 |
+| High Five! | 4.00% | ~244 |
+| Modular Progress | 4.00% | ~244 |
+| Campaign: Lesson Learned | 3.00% | ~183 |
+| Level: Bet On Bots | 3.00% | ~183 |
+| Modular Performance | 3.00% | ~183 |
+| Salesperson | 3.00% | ~183 |
+| Level: Merry-Go-Around | 2.00% | ~122 |
+| Charlies's Circuits: Artist | 2.00% | ~122 |
+| Modular Peak | 2.00% | ~122 |
+| Accountant | 2.00% | ~122 |
+| Data Churn Type III | 2.00% | ~122 |
+| Multi-Millionaire | 2.00% | ~122 |
+| Contender | 2.00% | ~122 |
+| Trophy Collector | 2.00% | ~122 |
+| Module Maniac | 2.00% | ~122 |
+| Overproducer | 2.00% | ~122 |
+| Natural Talent | 2.00% | ~122 |
 | Level: A Happy Taskforce | 1.00% | ~61 |
 | Level: Topple The Top | 1.00% | ~61 |
 | Level: The Machinery | 1.00% | ~61 |
@@ -45,21 +45,21 @@ Number of Ratings: 75  (23.09.2022)
 | Data Churn Type IV | 1.00% | ~61 |
 | Keen Eye | 1.00% | ~61 |
 | Tycoon | 0.90% | ~55 |
-| Merry-Go-Around: Self-Made | 0.70% | ~42 |
-| Bet On Bots: Inspector's Favorite | 0.70% | ~42 |
-| Trendsetter | 0.70% | ~42 |
-| Level: Eye In The Sky | 0.60% | ~36 |
+| Merry-Go-Around: Self-Made | 0.70% | ~43 |
+| Bet On Bots: Inspector's Favorite | 0.70% | ~43 |
+| Trendsetter | 0.70% | ~43 |
+| Level: Eye In The Sky | 0.60% | ~37 |
+| Campaign: Man vs. Machine | 0.50% | ~30 |
 | Level: Heating-Up | 0.50% | ~30 |
 | A Happy Taskforce: Interior Designer | 0.50% | ~30 |
 | CEO | 0.50% | ~30 |
 | Rockstar | 0.50% | ~30 |
-| Campaign: Man vs. Machine | 0.40% | ~24 |
 | The Machinery: Goal Orientated | 0.40% | ~24 |
+| Fully Packed | 0.40% | ~24 |
 | Champion | 0.30% | ~18 |
 | Trophy Hoarder | 0.30% | ~18 |
 | The Machinery: Energy Saver | 0.30% | ~18 |
 | Super Rich | 0.30% | ~18 |
-| Fully Packed | 0.30% | ~18 |
 | Achiever | 0.20% | ~12 |
 | Grand Master | 0.10% | ~6 |
 | Trophy Enthusiast | 0.10% | ~6 |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,066 (Ranked 217)  
-Completed: 1 (0.02%) (Ranked 409)  
+Progressed: 6,097 (Ranked 224)  
+Completed: 1 (0.02%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -361,6 +361,7 @@ Completed: 1 (0.02%) (Ranked 409)
 | 2024-01-26 | 5,871 | 1 |
 | 2024-01-27 | 5,873 | 1 |
 | 2024-03-21 | 6,066 | 1 |
+| 2024-04-10 | 6,097 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

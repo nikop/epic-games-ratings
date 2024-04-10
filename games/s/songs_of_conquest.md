@@ -6,49 +6,50 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 48.00% | ~833 |
-| Double Kill | 42.00% | ~729 |
-| Critical Hit | 26.00% | ~451 |
-| Veteran | 25.00% | ~434 |
-| Dressed For Success | 17.00% | ~295 |
-| Humiliation | 13.00% | ~226 |
-| Veni, Vidi, Vici | 13.00% | ~226 |
-| Multi Kill | 10.00% | ~174 |
-| Sorcerous Spree | 10.00% | ~174 |
-| Master | 9.00% | ~156 |
-| Landlord Extraordinaire | 8.00% | ~139 |
-| Whoops! | 7.00% | ~122 |
-| Don't Touch My Stuff | 7.00% | ~122 |
-| The Song of Stoutheart | 6.00% | ~104 |
-| Trojan Horse | 6.00% | ~104 |
-| Expert Essence Employment | 5.00% | ~87 |
-| This Spot's Taken | 3.00% | ~52 |
-| Infernal Influence | 3.00% | ~52 |
-| Ultra Kill | 3.00% | ~52 |
-| Pyrrhic Victory | 3.00% | ~52 |
-| Deepstrike | 2.00% | ~35 |
-| Together For Her | 2.00% | ~35 |
-| From the Ashes | 2.00% | ~35 |
-| Grand Master | 2.00% | ~35 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~35 |
-| In The Thick of It | 1.00% | ~17 |
-| Killing Spree | 1.00% | ~17 |
-| Such A Fungi | 1.00% | ~17 |
-| Cleave | 1.00% | ~17 |
-| Versatile Wielder | 0.90% | ~16 |
-| Get Over Here! | 0.90% | ~16 |
-| Death To Diplomacy | 0.70% | ~12 |
-| Unlimited Power! | 0.70% | ~12 |
-| Attack Bonanza | 0.30% | ~5 |
-| Hello There | 0.30% | ~5 |
-| Fully Charged | 0.30% | ~5 |
-| Coming Through! | 0.30% | ~5 |
-| Barbecue | 0.30% | ~5 |
-| Oops! | 0.30% | ~5 |
-| The Marsh Expands | 0.30% | ~5 |
-| An Empress's Hope | 0.20% | ~3 |
+| Adept | 49.00% | ~948 |
+| Double Kill | 42.00% | ~813 |
+| Critical Hit | 26.00% | ~503 |
+| Veteran | 25.00% | ~484 |
+| Dressed For Success | 17.00% | ~329 |
+| Humiliation | 13.00% | ~252 |
+| Veni, Vidi, Vici | 13.00% | ~252 |
+| Multi Kill | 10.00% | ~194 |
+| Sorcerous Spree | 10.00% | ~194 |
+| Master | 9.00% | ~174 |
+| Landlord Extraordinaire | 8.00% | ~155 |
+| Whoops! | 7.00% | ~135 |
+| Don't Touch My Stuff | 7.00% | ~135 |
+| The Song of Stoutheart | 6.00% | ~116 |
+| Trojan Horse | 6.00% | ~116 |
+| Expert Essence Employment | 5.00% | ~97 |
+| This Spot's Taken | 4.00% | ~77 |
+| Infernal Influence | 3.00% | ~58 |
+| Ultra Kill | 3.00% | ~58 |
+| Pyrrhic Victory | 3.00% | ~58 |
+| Deepstrike | 2.00% | ~39 |
+| Together For Her | 2.00% | ~39 |
+| From the Ashes | 2.00% | ~39 |
+| Grand Master | 2.00% | ~39 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~39 |
+| In The Thick of It | 1.00% | ~19 |
+| Such A Fungi | 1.00% | ~19 |
+| Get Over Here! | 1.00% | ~19 |
+| Cleave | 1.00% | ~19 |
+| Unlimited Power! | 0.90% | ~17 |
+| Killing Spree | 0.90% | ~17 |
+| Versatile Wielder | 0.80% | ~15 |
+| Death To Diplomacy | 0.60% | ~12 |
+| Hello There | 0.50% | ~10 |
+| Fully Charged | 0.40% | ~8 |
+| Coming Through! | 0.40% | ~8 |
+| Barbecue | 0.40% | ~8 |
+| Attack Bonanza | 0.30% | ~6 |
+| Oops! | 0.30% | ~6 |
+| The Marsh Expands | 0.30% | ~6 |
+| An Empress's Hope | 0.20% | ~4 |
 | Bringer of Ruin | 0.10% | ~2 |
 | Kneel, peasant! | 0.10% | ~2 |
+| Contractually Obligated to Win | 0.10% | ~2 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
@@ -57,12 +58,11 @@ Number of Ratings: 292  (23.09.2022)
 | Full House | 0.00% | ~0 |
 | Proof That Luck Can Be Consistent | 0.00% | ~0 |
 | Death From Above | 0.00% | ~0 |
-| Contractually Obligated to Win | 0.00% | ~0 |
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,736 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 1,935 (Ranked 291)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 1,323 | 0 |
 | 2024-02-22 | 1,516 | 0 |
 | 2024-03-21 | 1,736 | 0 |
+| 2024-04-10 | 1,935 | 0 |
 ## Awards
 Max (Relaxing): 30  (Ranked 561)  
 Sum: 265 (Ranked 429)  

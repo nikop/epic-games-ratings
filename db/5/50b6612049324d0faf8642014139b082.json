@@ -5,10 +5,10 @@
   "Ranking_Rating": 924,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 562,
-  "Ranking_EOS_Progress": 345,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -621,7 +621,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 871,
+  "EOS_Progressed": 1903,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2506,6 +2506,11 @@
       "Time": "2024-03-21T17:11:27.627004+00:00",
       "NumProgressed": 871,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:05:24.608537+00:00",
+      "NumProgressed": 1903,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -2516,137 +2521,137 @@
       "ID": "achievement_1",
       "SetID": "jnappp",
       "Name": "Gold Rush",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 36,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 314
+      "UsersEstimate": 913
     },
     {
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 36,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 314
+      "UsersEstimate": 894
     },
     {
       "ID": "achievement_12",
       "SetID": "jnappp",
       "Name": "Snow Specialist",
-      "Percentage": 11,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_13",
       "SetID": "jnappp",
       "Name": "Long Haul Hero",
-      "Percentage": 9,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 348
+      "UsersEstimate": 799
     },
     {
       "ID": "achievement_15",
       "SetID": "jnappp",
       "Name": "Master Vehicle Builder",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_16",
       "SetID": "jnappp",
       "Name": "Class Act",
-      "Percentage": 25,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 647
     },
     {
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 479
+      "UsersEstimate": 1123
     },
     {
       "ID": "achievement_18",
       "SetID": "jnappp",
       "Name": "Personalised Podium",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_19",
       "SetID": "jnappp",
       "Name": "In the Headlights",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 679
+      "UsersEstimate": 1541
     },
     {
       "ID": "achievement_20",
       "SetID": "jnappp",
       "Name": "Regularity Renaissance",
-      "Percentage": 0.1,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_21",
       "SetID": "jnappp",
       "Name": "Algarve it a go!",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_22",
       "SetID": "jnappp",
       "Name": "Snowgloeb",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_23",
       "SetID": "jnappp",
       "Name": "El Matador",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 209
+      "UsersEstimate": 514
     },
     {
       "ID": "achievement_25",
@@ -2654,78 +2659,78 @@
       "Name": "E-stonia",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_26",
       "SetID": "jnappp",
       "Name": "Driver\u0027s Alliance",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 171
     },
     {
       "ID": "achievement_3",
       "SetID": "jnappp",
       "Name": "Rookie Season",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_4",
       "SetID": "jnappp",
       "Name": "World Rally Champion!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_5",
       "SetID": "jnappp",
       "Name": "Consistency is key",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_6",
       "SetID": "jnappp",
       "Name": "Keepin it real",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 305
+      "UsersEstimate": 704
     },
     {
       "ID": "achievement_8",
       "SetID": "jnappp",
       "Name": "Ghost Buster",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_9",
       "SetID": "jnappp",
       "Name": "Perfect Score",
-      "Percentage": 0.3,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 871,
+      "Progressed": 1903,
       "Completed": 0
     }
   ],
@@ -2733,8 +2738,8 @@
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
   "LastChanged": "2024-04-09T09:57:48.6086821+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:27.6270032+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:24.6085364+00:00",
   "LastUpdate_AppInfo": "2024-04-03T07:57:08.7283432+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:35.6477085+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:27.6270295+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:55.0750186+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:24.6085581+00:00"
 }

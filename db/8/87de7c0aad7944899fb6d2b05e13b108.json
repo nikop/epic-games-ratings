@@ -2,10 +2,10 @@
   "ID": "87de7c0aad7944899fb6d2b05e13b108",
   "Name": "LISA: The Joyful - Definitive Edition",
   "ProductSlug": "lisa-the-joyful-219c24",
-  "Ranking_EOS_Progress": 807,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 828,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-03-29T17:00:00+00:00",
     "PcReleaseDate": "2023-07-18T17:00:00+00:00",
@@ -129,8 +129,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-04-08T15:01:32.5421278+00:00",
-  "LastChanged_Achievements": "2024-04-08T15:01:32.5409736+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:07:10.9834446+00:00",
   "LastUpdate_AppInfo": "2024-04-05T18:57:02.5772795+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:39.6686653+00:00",
-  "LastUpdate_Achievements": "2024-04-08T15:01:32.5733901+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:25.0798937+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:07:10.9834547+00:00"
 }

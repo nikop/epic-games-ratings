@@ -2,10 +2,10 @@
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
-  "Ranking_EOS_Progress": 422,
-  "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 380,
+  "EOS_Progressed": 387,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.84,
+  "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -801,6 +801,11 @@
       "Time": "2024-04-05T15:03:39.7672805+00:00",
       "NumProgressed": 380,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-04-10T06:06:47.9662301+00:00",
+      "NumProgressed": 387,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -812,7 +817,7 @@
       "Name": "A Little Extra",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "career_woman",
@@ -820,15 +825,15 @@
       "Name": "Career Woman",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 259
     },
     {
       "ID": "deal_or_no_deal",
       "SetID": "a3kkelb",
       "Name": "Deal Or No Deal",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 194
     },
     {
       "ID": "hopeful",
@@ -852,7 +857,7 @@
       "Name": "Impress Theron",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 186
     },
     {
       "ID": "marriage_is_off",
@@ -866,9 +871,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "off_his_meds",
@@ -876,15 +881,15 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 205
     },
     {
       "ID": "on_your_bike",
       "SetID": "a3kkelb",
       "Name": "On Your Bike",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "pearce",
@@ -898,9 +903,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 170
     },
     {
       "ID": "save_dad",
@@ -908,15 +913,15 @@
       "Name": "Save Dad",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "shady_truth",
       "SetID": "a3kkelb",
       "Name": "Shady Truth",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 19
     },
     {
       "ID": "unhelpful",
@@ -924,7 +929,7 @@
       "Name": "Unhelpful",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "use_your_connections",
@@ -932,7 +937,7 @@
       "Name": "Use Your Connections",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "will_this_help",
@@ -940,14 +945,14 @@
       "Name": "Will This Help?",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 298
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 380,
+      "Progressed": 387,
       "Completed": 7
     }
   ],
@@ -955,8 +960,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:03:39.7672801+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:47.9662295+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:44:04.6021026+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:09.484121+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:03:39.7672948+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:56.9666135+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:47.9662454+00:00"
 }

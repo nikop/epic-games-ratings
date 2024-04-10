@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Touch My Gems! | 97.00% | ~183 |
-| On the Crest of a Wave | 96.00% | ~181 |
-| Foreman of Darkness | 96.00% | ~181 |
-| Brilliant Day | 93.00% | ~176 |
-| Evil Genius | 89.00% | ~168 |
-| Air Defense | 85.00% | ~161 |
-| Tinned Corpse | 84.00% | ~159 |
-| Your War is Over | 83.00% | ~157 |
+| Don't Touch My Gems! | 97.00% | ~184 |
+| On the Crest of a Wave | 96.00% | ~182 |
+| Foreman of Darkness | 96.00% | ~182 |
+| Brilliant Day | 93.00% | ~177 |
+| Evil Genius | 89.00% | ~169 |
+| Air Defense | 85.00% | ~162 |
+| Tinned Corpse | 84.00% | ~160 |
+| Your War is Over | 83.00% | ~158 |
 | The Starry Night | 77.00% | ~146 |
 | Go Home! | 76.00% | ~144 |
 | Brilliant: Meadowshire | 75.00% | ~142 |
 | Sergeant of the Evil | 75.00% | ~142 |
-| Look After the Pence... | 74.00% | ~140 |
-| Drunken Master | 73.00% | ~138 |
-| V.I.P. Cemetery | 71.00% | ~134 |
-| Woodcutter | 71.00% | ~134 |
-| Top of the World | 70.00% | ~132 |
-| Takeover | 70.00% | ~132 |
-| Sharpshooter | 70.00% | ~132 |
-| Architect of Darkness | 70.00% | ~132 |
-| The Apotheosis of War | 68.00% | ~129 |
-| Stasis Alcatraz | 68.00% | ~129 |
-| Tastes Like Chicken | 64.00% | ~121 |
-| Brilliant: Holy Mountain | 63.00% | ~119 |
-| Combo Breaker | 63.00% | ~119 |
-| Thunderstorm | 63.00% | ~119 |
-| Clean Forests | 62.00% | ~117 |
-| Starry: Meadowshire | 59.00% | ~112 |
+| Look After the Pence... | 73.00% | ~139 |
+| Drunken Master | 73.00% | ~139 |
+| V.I.P. Cemetery | 71.00% | ~135 |
+| Woodcutter | 71.00% | ~135 |
+| Architect of Darkness | 70.00% | ~133 |
+| Top of the World | 69.00% | ~131 |
+| Takeover | 69.00% | ~131 |
+| Sharpshooter | 69.00% | ~131 |
+| The Apotheosis of War | 67.00% | ~127 |
+| Stasis Alcatraz | 67.00% | ~127 |
+| Tastes Like Chicken | 64.00% | ~122 |
+| Brilliant: Holy Mountain | 63.00% | ~120 |
+| Combo Breaker | 63.00% | ~120 |
+| Thunderstorm | 63.00% | ~120 |
+| Clean Forests | 62.00% | ~118 |
+| Starry: Meadowshire | 58.00% | ~110 |
 | Lieutenant of the Evil | 58.00% | ~110 |
 | Avada Kedavra | 57.00% | ~108 |
-| It's a Trap | 55.00% | ~104 |
-| Brilliant: Tanglewood | 54.00% | ~102 |
-| Starry: Holy Mountain | 54.00% | ~102 |
-| Deposition | 51.00% | ~96 |
-| Brilliant: Arcania | 51.00% | ~96 |
-| Starry: Tanglewood | 48.00% | ~91 |
-| Sing, My Angel | 44.00% | ~83 |
-| Starry: Arcania | 44.00% | ~83 |
-| The Coreland | 41.00% | ~77 |
-| Feed the Fishes | 40.00% | ~76 |
+| It's a Trap | 55.00% | ~105 |
+| Brilliant: Tanglewood | 54.00% | ~103 |
+| Starry: Holy Mountain | 54.00% | ~103 |
+| Deposition | 51.00% | ~97 |
+| Brilliant: Arcania | 51.00% | ~97 |
+| Starry: Tanglewood | 47.00% | ~89 |
+| Sing, My Angel | 44.00% | ~84 |
+| Starry: Arcania | 44.00% | ~84 |
+| The Coreland | 41.00% | ~78 |
+| Feed the Fishes | 39.00% | ~74 |
 | Starry: The Coreland | 38.00% | ~72 |
 | Brilliant: Wasteland | 35.00% | ~66 |
 | Father of Nation | 35.00% | ~66 |
-| Starry: Wasteland | 32.00% | ~60 |
+| Starry: Wasteland | 32.00% | ~61 |
 | Dwarven Countdown | 31.00% | ~59 |
-| Deadman's Chest | 30.00% | ~57 |
-| Brilliant: Free Coast | 29.00% | ~55 |
-| Monument Keeper | 29.00% | ~55 |
-| Brilliant: The Deep | 25.00% | ~47 |
-| Starry: Free Coast | 25.00% | ~47 |
-| Starry: The Deep | 23.00% | ~43 |
-| Hostile Waters | 20.00% | ~38 |
+| Deadman's Chest | 29.00% | ~55 |
+| Brilliant: Free Coast | 28.00% | ~53 |
+| Monument Keeper | 28.00% | ~53 |
+| Brilliant: The Deep | 25.00% | ~48 |
+| Starry: Free Coast | 25.00% | ~48 |
+| Starry: The Deep | 23.00% | ~44 |
+| Hostile Waters | 19.00% | ~36 |
 | Loveless | 19.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189 (Ranked 488)  
-Completed: 30 (15.87%) (Ranked 28)  
+Progressed: 190 (Ranked 501)  
+Completed: 30 (15.79%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,6 +114,7 @@ Completed: 30 (15.87%) (Ranked 28)
 | 2024-01-11 | 186 | 28 |
 | 2024-02-22 | 187 | 29 |
 | 2024-03-21 | 189 | 30 |
+| 2024-04-10 | 190 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

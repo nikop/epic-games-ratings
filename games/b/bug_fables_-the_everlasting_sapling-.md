@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 66.00% | ~86 |
-| Vicious Spider | 43.00% | ~56 |
-| Chapter 2 Complete | 42.00% | ~55 |
-| The Guardian | 32.00% | ~42 |
-| Chapter 3 Complete | 32.00% | ~42 |
-| Chapter 4 Complete | 24.00% | ~31 |
+| Chapter 1 Complete | 65.00% | ~87 |
+| Vicious Spider | 43.00% | ~58 |
+| Chapter 2 Complete | 41.00% | ~55 |
+| The Guardian | 31.00% | ~42 |
+| Chapter 3 Complete | 31.00% | ~42 |
+| Chapter 4 Complete | 24.00% | ~32 |
 | Heavy Duty | 22.00% | ~29 |
 | Chapter 5 Complete | 19.00% | ~25 |
-| Chapter 6 Complete | 18.00% | ~23 |
-| Chapter 7 Complete | 18.00% | ~23 |
-| Plant Enchanter | 18.00% | ~23 |
-| The Truth | 18.00% | ~23 |
-| Reconciliation | 18.00% | ~23 |
-| Always Watchful | 17.00% | ~22 |
+| The Truth | 19.00% | ~25 |
+| Chapter 6 Complete | 18.00% | ~24 |
+| Plant Enchanter | 18.00% | ~24 |
+| Reconciliation | 18.00% | ~24 |
+| Always Watchful | 17.00% | ~23 |
+| Chapter 7 Complete | 17.00% | ~23 |
 | Bounty Hunter | 15.00% | ~20 |
 | The Terror | 15.00% | ~20 |
 | All Geared Up | 13.00% | ~17 |
 | Battle Ready | 13.00% | ~17 |
 | The End | 12.00% | ~16 |
-| Good Deed | 12.00% | ~16 |
+| Good Deed | 11.00% | ~15 |
 | Music Collector | 10.00% | ~13 |
 | Cooking Maestro | 9.00% | ~12 |
 | Pro Explorers | 9.00% | ~12 |
 | Ultimate Team! | 9.00% | ~12 |
-| Gamer | 8.00% | ~10 |
+| Gamer | 7.00% | ~9 |
 | Field Researcher | 7.00% | ~9 |
 | Helping Hand | 7.00% | ~9 |
-| Medal Collector | 5.00% | ~6 |
-| Our job's done! | 5.00% | ~6 |
+| Medal Collector | 4.00% | ~5 |
+| Our job's done! | 4.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130 (Ranked 527)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 134 (Ranked 538)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-27 | 122 | 0 |
 | 2024-02-22 | 127 | 0 |
 | 2024-03-21 | 130 | 0 |
+| 2024-04-10 | 134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

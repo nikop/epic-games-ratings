@@ -2,10 +2,10 @@
   "ID": "c265245a0790465cbf32df9aa540e590",
   "Name": "Terminator: Dark Fate - Defiance",
   "ProductSlug": "terminator-dark-fate-f3fcaa",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-02-21T00:00:00+00:00",
     "PcReleaseDate": "2024-02-21T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-22T02:58:41.1040631+00:00",
   "LastUpdate_AppInfo": "2024-04-03T07:57:13.7595441+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:08.234448+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:07:47.706924+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:30.9976366+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:15.5680317+00:00"
 }

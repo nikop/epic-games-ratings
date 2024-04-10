@@ -2,10 +2,10 @@
   "ID": "7554c88a6af74e93bd19c4ecd540a62f",
   "Name": "KnockedDown",
   "ProductSlug": "knockeddown-328e5d",
-  "Ranking_EOS_Progress": 276,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-09-06T16:00:00+00:00",
     "PcReleaseDate": "2023-01-23T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2130,
+  "EOS_Progressed": 2246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2024-04-05T15:02:16.1222238+00:00",
       "NumProgressed": 2130,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:06:38.197881+00:00",
+      "NumProgressed": 2246,
       "NumCompleted": 0
     }
   ],
@@ -114,14 +119,14 @@
     {
       "ID": "726nnaf",
       "IsBase": true,
-      "Progressed": 2130,
+      "Progressed": 2246,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-07T12:00:21.2683489+00:00",
   "FirstSeenAchievements": "2023-09-08T15:04:26.356481+00:00",
-  "LastChanged_Achievements": "2024-04-05T15:02:16.1222232+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:06:38.1978804+00:00",
   "LastUpdate_AppInfo": "2024-04-04T13:57:30.5303831+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:18.6567633+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:02:16.1222451+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:38.4422118+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:38.1978927+00:00"
 }

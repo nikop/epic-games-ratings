@@ -2,10 +2,10 @@
   "ID": "27186c5b85a84b8c983bd616fb3351a8",
   "Name": "The Metronomicon: Slay the Dance Floor",
   "ProductSlug": "the-metronomicon-766679",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2022-05-06T13:00:00+00:00",
     "PcReleaseDate": "2016-09-29T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.9842158+00:00",
   "LastChanged": "2023-03-31T05:57:09.9842159+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:00.8512121+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:58:21.1624478+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:29.9629266+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:08.4983844+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:11.9179283+00:00"
 }

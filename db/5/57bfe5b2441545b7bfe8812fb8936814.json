@@ -2,10 +2,10 @@
   "ID": "57bfe5b2441545b7bfe8812fb8936814",
   "Name": "One Eleven",
   "ProductSlug": "one-eleven-f4c85d",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-02-01T22:30:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-08T18:57:29.4915231+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:57:54.8202821+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:12:02.5623681+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:59:39.8483259+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:46.2098509+00:00"
 }

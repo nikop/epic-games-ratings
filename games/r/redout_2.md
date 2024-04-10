@@ -5,28 +5,28 @@ Rating: 4.53 (Ranked 584)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Increasing your Power Level | 27.00% | ~348 |
-| Rookie No More | 26.00% | ~335 |
-| Enter the Speed Gauntlet | 25.00% | ~322 |
-| I just can't choose | 25.00% | ~322 |
+| Rookie No More | 26.00% | ~336 |
+| Increasing your Power Level | 26.00% | ~336 |
+| Enter the Speed Gauntlet | 25.00% | ~323 |
+| I just can't choose | 25.00% | ~323 |
 | A Cheese Grater to the Face | 19.00% | ~245 |
 | Put it on a shelf | 18.00% | ~232 |
 | It's like an haircut | 17.00% | ~219 |
-| Ride in the rising sun | 16.00% | ~206 |
-| Suit up | 16.00% | ~206 |
-| Walked like an Egyptian | 15.00% | ~193 |
-| Running at the speed of sound | 14.00% | ~180 |
+| Ride in the rising sun | 16.00% | ~207 |
+| Suit up | 16.00% | ~207 |
+| Walked like an Egyptian | 15.00% | ~194 |
+| Running at the speed of sound | 14.00% | ~181 |
 | Rookie No-No More | 12.00% | ~155 |
 | Martian explorer | 11.00% | ~142 |
 | To the core | 8.00% | ~103 |
 | Blurred photofinish | 8.00% | ~103 |
 | First step into a larger world | 7.00% | ~90 |
-| Over the clouds | 6.00% | ~77 |
-| Even Faster! | 6.00% | ~77 |
 | EZ game EZ life | 6.00% | ~77 |
-| B-asic! | 5.00% | ~64 |
-| Under the sea, under the sea | 5.00% | ~64 |
-| Longshot | 5.00% | ~64 |
+| B-asic! | 5.00% | ~65 |
+| Over the clouds | 5.00% | ~65 |
+| Under the sea, under the sea | 5.00% | ~65 |
+| Even Faster! | 5.00% | ~65 |
+| Longshot | 5.00% | ~65 |
 | Under the neon lights | 4.00% | ~52 |
 | Almost broke the game | 4.00% | ~52 |
 | Better luck next time | 4.00% | ~52 |
@@ -58,8 +58,8 @@ Rating: 4.53 (Ranked 584)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,289 (Ranked 316)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 1,291 (Ranked 327)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,6 +227,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-03-04 | 1,256 | 0 |
 | 2024-03-21 | 1,277 | 0 |
 | 2024-04-07 | 1,289 | 0 |
+| 2024-04-10 | 1,291 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

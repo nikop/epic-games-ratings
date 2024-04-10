@@ -6,33 +6,33 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,883 |
-| One HIT wonder | 35.00% | ~666 |
-| Wanderer | 32.00% | ~609 |
-| One shot, one kill | 26.00% | ~495 |
-| Traveler | 23.00% | ~437 |
-| Explorer | 17.00% | ~323 |
-| Grave Robber | 17.00% | ~323 |
-| Head Burst | 17.00% | ~323 |
-| Double agent | 15.00% | ~285 |
-| Paranoia | 15.00% | ~285 |
-| Savant | 10.00% | ~190 |
-| Kraina Grzybow | 9.00% | ~171 |
-| Love Guru | 9.00% | ~171 |
-| Bustin' nuts | 8.00% | ~152 |
-| Not-so-private Eye | 8.00% | ~152 |
-| Superhuman | 8.00% | ~152 |
-| The Vitinsky Rifle | 6.00% | ~114 |
-| Protection racket | 5.00% | ~95 |
-| Sacrifice | 4.00% | ~76 |
-| Secret room | 4.00% | ~76 |
-| Indy | 3.00% | ~57 |
-| Wishmaster | 3.00% | ~57 |
+| Atom Agent | 99.00% | ~1,906 |
+| One HIT wonder | 35.00% | ~674 |
+| Wanderer | 32.00% | ~616 |
+| One shot, one kill | 26.00% | ~500 |
+| Traveler | 23.00% | ~443 |
+| Explorer | 17.00% | ~327 |
+| Grave Robber | 17.00% | ~327 |
+| Head Burst | 17.00% | ~327 |
+| Double agent | 15.00% | ~289 |
+| Paranoia | 15.00% | ~289 |
+| Savant | 10.00% | ~192 |
+| Kraina Grzybow | 9.00% | ~173 |
+| Love Guru | 9.00% | ~173 |
+| Bustin' nuts | 8.00% | ~154 |
+| Superhuman | 8.00% | ~154 |
+| Not-so-private Eye | 7.00% | ~135 |
+| The Vitinsky Rifle | 6.00% | ~116 |
+| Protection racket | 5.00% | ~96 |
+| Secret room | 5.00% | ~96 |
+| Sacrifice | 4.00% | ~77 |
+| Indy | 3.00% | ~58 |
+| Wishmaster | 3.00% | ~58 |
 | Career criminal | 2.00% | ~38 |
 | Neanderthal | 1.00% | ~19 |
 | It was worth a shot | 1.00% | ~19 |
 | Cosmic Horror | 1.00% | ~19 |
-| Ghostbuster | 0.60% | ~11 |
+| Ghostbuster | 0.60% | ~12 |
 | Cheeki Breeki | 0.50% | ~10 |
 | Comrade Yogi | 0.50% | ~10 |
 | Tourist Korallov | 0.50% | ~10 |
@@ -43,8 +43,8 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,902 (Ranked 283)  
-Completed: 1 (0.05%) (Ranked 382)  
+Progressed: 1,925 (Ranked 294)  
+Completed: 1 (0.05%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,6 +280,7 @@ Completed: 1 (0.05%) (Ranked 382)
 | 2024-01-27 | 1,776 | 1 |
 | 2024-02-22 | 1,851 | 1 |
 | 2024-03-21 | 1,902 | 1 |
+| 2024-04-10 | 1,925 | 1 |
 ## Awards
 Max (Character Customization): 56  (Ranked 476)  
 Sum: 56 (Ranked 543)  

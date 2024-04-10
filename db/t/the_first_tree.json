@@ -5,10 +5,10 @@
   "Ranking_Rating": 1108,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
-  "Ranking_EOS_Progress": 148,
-  "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -319,11 +319,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42933,
+  "EOS_Progressed": 43596,
   "EOS_Completed": 131,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:12.9453937+00:00",
@@ -25289,6 +25289,11 @@
       "Time": "2024-03-21T17:09:43.9310375+00:00",
       "NumProgressed": 42933,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2024-04-10T06:04:19.6358844+00:00",
+      "NumProgressed": 43596,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 14,
@@ -25300,7 +25305,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2180
     },
     {
       "ID": "150stars",
@@ -25308,7 +25313,7 @@
       "Name": "150 Stars",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "50stars",
@@ -25316,7 +25321,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 11163
+      "UsersEstimate": 11335
     },
     {
       "ID": "allItems",
@@ -25324,7 +25329,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 859
+      "UsersEstimate": 872
     },
     {
       "ID": "allSecrets",
@@ -25332,7 +25337,7 @@
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "bigBunny",
@@ -25340,15 +25345,15 @@
       "Name": "Easter Bunny",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 215
+      "UsersEstimate": 218
     },
     {
       "ID": "carving",
       "SetID": "8pjb9ak",
       "Name": "Joseph",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3924
     },
     {
       "ID": "completionist",
@@ -25356,7 +25361,7 @@
       "Name": "Completionist",
       "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "dejaVu",
@@ -25364,7 +25369,7 @@
       "Name": "Deja Vu",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "ending",
@@ -25372,7 +25377,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1744
     },
     {
       "ID": "firstBunny",
@@ -25380,7 +25385,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 10304
+      "UsersEstimate": 10463
     },
     {
       "ID": "firstItem",
@@ -25388,7 +25393,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 32629
+      "UsersEstimate": 33133
     },
     {
       "ID": "roots",
@@ -25396,7 +25401,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7411
     },
     {
       "ID": "secretItem",
@@ -25404,22 +25409,22 @@
       "Name": "Well Hidden",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 436
     }
   ],
   "AchievementSets": [
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 42933,
+      "Progressed": 43596,
       "Completed": 131
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-03-19T20:59:01.4642223+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:09:43.9310369+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:04:19.6358838+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:46.7047111+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:23.343668+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:09:43.9311691+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:35.8199588+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:04:19.6360028+00:00"
 }

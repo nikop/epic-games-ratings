@@ -2,10 +2,10 @@
   "ID": "045461d8f98f474da9bd32cd727548e0",
   "Name": "Howl",
   "ProductSlug": "the-howl-ee6924",
-  "Ranking_EOS_Progress": 807,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 828,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2024-01-23T08:00:00+00:00",
     "PcReleaseDate": "2024-01-23T08:00:00+00:00",
@@ -76,9 +76,9 @@
       "ID": "ALL_LEVEL_3_UNLOCK",
       "SetID": "6pjfh93",
       "Name": "Master",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ALL_SKULLS_COMPLETE",
@@ -92,105 +92,105 @@
       "ID": "ANY_LEVEL_3_UNLOCK",
       "SetID": "6pjfh93",
       "Name": "Skilled",
-      "Percentage": 140,
+      "Percentage": 180,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "BURN_3_EXPLOSIVE_SHOT",
       "SetID": "6pjfh93",
       "Name": "Burn the Wolf",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "6pjfh93",
       "Name": "Complete Chapter 1",
-      "Percentage": 100,
+      "Percentage": 140,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "6pjfh93",
       "Name": "Complete Chapter 2",
-      "Percentage": 80,
+      "Percentage": 120,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
       "SetID": "6pjfh93",
       "Name": "Complete Chapter 3",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 75,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "6pjfh93",
       "Name": "Complete Chapter 4",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_2_FORCE",
       "SetID": "6pjfh93",
       "Name": "Overpower",
-      "Percentage": 120,
+      "Percentage": 160,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "KILL_2_SMOKEBOMB",
       "SetID": "6pjfh93",
       "Name": "Sparks and Smoke",
-      "Percentage": 60,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "KILL_2_VAULT",
       "SetID": "6pjfh93",
       "Name": "Attacrobatics",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_3_PIERCING_SHOT",
       "SetID": "6pjfh93",
       "Name": "Efficiency",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_SHADOW_STEP",
       "SetID": "6pjfh93",
       "Name": "From the Shadows",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LAST_SCROLL_UNLOCK",
       "SetID": "6pjfh93",
       "Name": "Tactician",
-      "Percentage": 120,
+      "Percentage": 160,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "USE_3_SKILLS_1_ROUND",
       "SetID": "6pjfh93",
       "Name": "Combat Prophet",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -203,8 +203,8 @@
   ],
   "FirstSeen": "2024-01-27T16:59:23.7479862+00:00",
   "FirstSeenAchievements": "2023-06-22T13:08:25.6440981+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:19.147433+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:18.8154882+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:21.0179553+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:03.9063804+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:19.1474429+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:51.3910914+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:18.8154998+00:00"
 }

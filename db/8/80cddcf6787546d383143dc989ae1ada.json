@@ -2,10 +2,10 @@
   "ID": "80cddcf6787546d383143dc989ae1ada",
   "Name": "Iron Heart Steam Tower",
   "ProductSlug": "iron-heart-7b7727",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-11-14T21:00:00+00:00",
     "PcReleaseDate": "2019-06-02T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-18T11:58:09.250681+00:00",
   "LastUpdate_AppInfo": "2024-04-03T13:01:38.0963233+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:59:02.1947117+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:01.5492313+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:25.2371487+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:23.0446001+00:00"
 }

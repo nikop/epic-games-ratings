@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Terror Rising | 80.00% | ~70 |
-| Jalopy Poppy | 77.00% | ~67 |
-| Green-Bodied Monster | 67.00% | ~58 |
+| Jalopy Poppy | 76.00% | ~67 |
+| Green-Bodied Monster | 66.00% | ~58 |
 | Chopper Stopper | 55.00% | ~48 |
-| Aerosolized | 52.00% | ~45 |
-| Monstrosity Atrocity | 45.00% | ~39 |
+| Aerosolized | 51.00% | ~45 |
+| Monstrosity Atrocity | 44.00% | ~39 |
 | Test of Faith | 40.00% | ~35 |
 | Reign of Terror | 39.00% | ~34 |
 | Crushing All Cars | 25.00% | ~22 |
@@ -35,8 +35,8 @@
 | Juggle the People | 3.00% | ~3 |
 | Simulation 8e7d28c1 | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 576)  
-Completed: 2 (2.30%) (Ranked 146)  
+Progressed: 88 (Ranked 587)  
+Completed: 2 (2.27%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,6 +90,7 @@ Completed: 2 (2.30%) (Ranked 146)
 | 2024-01-19 | 92 | 3 |
 | 2024-03-04 | 88 | 2 |
 | 2024-03-21 | 87 | 2 |
+| 2024-04-10 | 88 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

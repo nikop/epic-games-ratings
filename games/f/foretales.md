@@ -5,25 +5,25 @@ Rating: 4.70 (Ranked 226)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 65.00% | ~202 |
-| Gorilla warfare | 60.00% | ~186 |
-| Isenburg's fall | 49.00% | ~152 |
-| Pieces of eight! | 43.00% | ~133 |
-| Elephant in the room | 32.00% | ~99 |
-| Aboard the Sea Bird | 31.00% | ~96 |
-| Dark and stinky | 30.00% | ~93 |
+| Caged tiger | 65.00% | ~203 |
+| Gorilla warfare | 60.00% | ~187 |
+| Isenburg's fall | 49.00% | ~153 |
+| Pieces of eight! | 43.00% | ~134 |
+| Elephant in the room | 32.00% | ~100 |
+| Aboard the Sea Bird | 31.00% | ~97 |
+| Dark and stinky | 30.00% | ~94 |
 | Sneak in, sneak out | 26.00% | ~81 |
 | A gift horse | 26.00% | ~81 |
 | Is this the end? | 25.00% | ~78 |
-| You sssaved me | 24.00% | ~74 |
-| Say hello to my little friends | 21.00% | ~65 |
+| You sssaved me | 23.00% | ~72 |
+| Say hello to my little friends | 21.00% | ~66 |
 | Heal thyself | 20.00% | ~62 |
 | Gotcha | 19.00% | ~59 |
 | It's not cheating | 17.00% | ~53 |
 | Double trouble | 16.00% | ~50 |
 | Stronk | 16.00% | ~50 |
-| Welcome to Forte Ailes | 14.00% | ~43 |
-| Super Moth Boy | 13.00% | ~40 |
+| Welcome to Forte Ailes | 14.00% | ~44 |
+| Super Moth Boy | 13.00% | ~41 |
 | The Bad Place | 10.00% | ~31 |
 | Meet your maker | 9.00% | ~28 |
 | Pacifist fanatic | 9.00% | ~28 |
@@ -36,7 +36,7 @@ Rating: 4.70 (Ranked 226)
 | Money talks | 5.00% | ~16 |
 | Lyre lyre pants on fyre | 5.00% | ~16 |
 | Squid Game | 4.00% | ~12 |
-| D4RK V0L3P41N | 3.00% | ~9 |
+| D4RK V0L3P41N | 4.00% | ~12 |
 | Family reunion | 3.00% | ~9 |
 | Be kind to monsters | 2.00% | ~6 |
 | One shot blade | 2.00% | ~6 |
@@ -47,8 +47,8 @@ Rating: 4.70 (Ranked 226)
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 310 (Ranked 444)  
-Completed: 0 (0.00%) (Ranked 446)  
+Progressed: 312 (Ranked 453)  
+Completed: 0 (0.00%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 446)
 | 2024-01-19 | 302 | 0 |
 | 2024-01-21 | 303 | 0 |
 | 2024-03-21 | 310 | 0 |
+| 2024-04-10 | 312 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

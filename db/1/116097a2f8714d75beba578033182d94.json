@@ -2,10 +2,10 @@
   "ID": "116097a2f8714d75beba578033182d94",
   "Name": "MoeSpotter - Uncover the Maiden Mysteries",
   "ProductSlug": "moespotter-uncover-the-maiden-mysteries-56fc75",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-10-17T07:00:00+00:00",
     "PcReleaseDate": "2023-10-17T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-20T09:03:21.8077477+00:00",
   "LastUpdate_AppInfo": "2024-04-09T16:56:58.0834019+00:00",
-  "LastUpdate_Ratings": "2024-04-10T03:58:55.8050004+00:00",
-  "LastUpdate_Achievements": "2024-04-05T15:02:39.301543+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:57:19.799972+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:06:40.7311285+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 589,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
     "PcReleaseDate": "2016-11-21T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -409,6 +409,11 @@
       "Time": "2024-01-12T20:03:32.4281326+00:00",
       "NumProgressed": 79,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-04-10T06:02:19.4560293+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 132,
@@ -426,7 +431,7 @@
       "ID": "BossDefeatedWhilePlayerIsDeadAchievement",
       "SetID": "a8djcgh",
       "Name": "Revenge",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -434,7 +439,7 @@
       "ID": "BronzeBabushkaBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Tovarish",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -450,7 +455,7 @@
       "ID": "BronzeGilgameshBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Archer\u0027s Bronze Fate",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -466,7 +471,7 @@
       "ID": "BronzeHomunculusBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Bronze Alchemist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -490,7 +495,7 @@
       "ID": "BronzeMissionsCompleted20Achievement",
       "SetID": "a8djcgh",
       "Name": "Galactic Ensign",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -530,7 +535,7 @@
       "ID": "CartdridgeHoarderAchievement",
       "SetID": "a8djcgh",
       "Name": "Cartridge Hoarder",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -586,7 +591,7 @@
       "ID": "Cleared500LevelsAchievement",
       "SetID": "a8djcgh",
       "Name": "Rambo V",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -642,7 +647,7 @@
       "ID": "ClearedAllLevels5TimesAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Magellan",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -778,7 +783,7 @@
       "ID": "ConsumableWithActiveCountOf10Achievement",
       "SetID": "a8djcgh",
       "Name": "Hoarder",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -786,7 +791,7 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -866,7 +871,7 @@
       "ID": "GoldBallyBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Prince of Ball-air",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -890,7 +895,7 @@
       "ID": "GoldHomunculusBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden Alchemist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -906,7 +911,7 @@
       "ID": "GoldMissionsCompleted10Achievement",
       "SetID": "a8djcgh",
       "Name": "System Admiral",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -922,7 +927,7 @@
       "ID": "GoldMissionsCompleted5Achievement",
       "SetID": "a8djcgh",
       "Name": "Sectoral Admiral",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -938,7 +943,7 @@
       "ID": "GoldSpaceWinnerBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Golden BBQ",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -962,7 +967,7 @@
       "ID": "HealerAchievement",
       "SetID": "a8djcgh",
       "Name": "The Healer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -970,7 +975,7 @@
       "ID": "KilgoreSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "Space Surfer",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -1010,7 +1015,7 @@
       "ID": "Killed1000EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Mega Kill",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -1028,7 +1033,7 @@
       "Name": "Killing Spree",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -1044,7 +1049,7 @@
       "Name": "First Blood",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -1082,7 +1087,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -1090,7 +1095,7 @@
       "ID": "Killed50BossesAchievement",
       "SetID": "a8djcgh",
       "Name": "Usurper III",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1148,7 +1153,7 @@
       "Name": "5Gb HDD",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "PerksUnlocked80Achievement",
@@ -1202,7 +1207,7 @@
       "ID": "PlayerHas10DronesAchievement",
       "SetID": "a8djcgh",
       "Name": "You\u0027ve drone good!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1210,7 +1215,7 @@
       "ID": "PlayerHas20DronesAchievement",
       "SetID": "a8djcgh",
       "Name": "Surrounded",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1218,7 +1223,7 @@
       "ID": "SilverBabushkaBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Tovarish",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1234,7 +1239,7 @@
       "ID": "SilverGilgameshBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Archer\u0027s Silver Fate",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1250,7 +1255,7 @@
       "ID": "SilverHomunculusBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver Alchemist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1298,7 +1303,7 @@
       "ID": "SilverSpaceWinnerBossDefeatedAchievement",
       "SetID": "a8djcgh",
       "Name": "Silver BBQ",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1378,7 +1383,7 @@
       "ID": "VisitLostLord50TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Collateral Damage III",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1386,7 +1391,7 @@
       "ID": "VisitMerchant100TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince III",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1394,7 +1399,7 @@
       "ID": "VisitMerchant10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince II",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -1404,7 +1409,7 @@
       "Name": "Merchant Prince I",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1475,14 +1480,14 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T19:58:53.3426144+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:06:04.0392147+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:02:19.4560288+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:31.8989002+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:28.7764788+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:06:04.0393802+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:40.0595253+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:02:19.4561795+00:00"
 }

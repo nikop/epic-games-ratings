@@ -2,10 +2,10 @@
   "ID": "260d3867eaa144fe9b0cd339fdb1b6ab",
   "Name": "Golden Tides",
   "ProductSlug": "golden-tides-a4be8c",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-04-07T19:56:56.4961269+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:03.1648516+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:05:26.3394727+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:00:50.3840914+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:01:59.8246598+00:00"
 }

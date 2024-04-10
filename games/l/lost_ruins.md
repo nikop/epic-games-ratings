@@ -5,49 +5,49 @@ Rating: 4.85 (Ranked 37)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 34.00% | ~261 |
-| Goblin Tales | 27.00% | ~207 |
-| Bug Hunter | 22.00% | ~169 |
-| Boss Killer | 21.00% | ~161 |
-| The Fallen | 20.00% | ~154 |
-| Artifact Collector | 18.00% | ~138 |
-| Trap Master | 17.00% | ~131 |
-| Ghost Buster | 14.00% | ~108 |
-| Iconoclasm | 13.00% | ~100 |
-| Reincarnation | 13.00% | ~100 |
-| Librarian | 12.00% | ~92 |
-| The End | 12.00% | ~92 |
-| Gladiator | 11.00% | ~84 |
-| Lumberjack | 11.00% | ~84 |
-| Orcs Must Die! | 11.00% | ~84 |
-| Troubleshooter | 10.00% | ~77 |
-| Money Swag | 8.00% | ~61 |
-| Oops | 7.00% | ~54 |
-| Treasure Hunter | 7.00% | ~54 |
-| Shield Crusher | 6.00% | ~46 |
-| Explorer | 5.00% | ~38 |
-| Trio | 5.00% | ~38 |
+| Inquisitor | 34.00% | ~266 |
+| Goblin Tales | 27.00% | ~211 |
+| Boss Killer | 22.00% | ~172 |
+| Bug Hunter | 22.00% | ~172 |
+| The Fallen | 20.00% | ~156 |
+| Artifact Collector | 18.00% | ~141 |
+| Trap Master | 17.00% | ~133 |
+| Ghost Buster | 14.00% | ~109 |
+| Iconoclasm | 13.00% | ~102 |
+| Reincarnation | 13.00% | ~102 |
+| Gladiator | 12.00% | ~94 |
+| Librarian | 12.00% | ~94 |
+| The End | 12.00% | ~94 |
+| Lumberjack | 11.00% | ~86 |
+| Orcs Must Die! | 11.00% | ~86 |
+| Troubleshooter | 10.00% | ~78 |
+| Money Swag | 8.00% | ~62 |
+| Oops | 7.00% | ~55 |
+| Treasure Hunter | 7.00% | ~55 |
+| Shield Crusher | 6.00% | ~47 |
+| Explorer | 5.00% | ~39 |
+| Trio | 5.00% | ~39 |
 | Arrive Home | 3.00% | ~23 |
 | Pyromancer | 3.00% | ~23 |
 | Spell Master | 3.00% | ~23 |
-| Holy Knight | 2.00% | ~15 |
-| Hoarder | 2.00% | ~15 |
-| Marksman | 2.00% | ~15 |
-| Meat Lover | 2.00% | ~15 |
-| Sling of David | 2.00% | ~15 |
+| Holy Knight | 2.00% | ~16 |
+| Hoarder | 2.00% | ~16 |
+| Marksman | 2.00% | ~16 |
+| Meat Lover | 2.00% | ~16 |
+| Sling of David | 2.00% | ~16 |
 | Roughneck | 1.00% | ~8 |
 | Rune Master | 1.00% | ~8 |
 | Sword Master | 1.00% | ~8 |
 | Weapon Master | 1.00% | ~8 |
 | Witch | 1.00% | ~8 |
 | Assassin | 0.90% | ~7 |
-| Art Collector | 0.70% | ~5 |
+| Art Collector | 0.60% | ~5 |
 | Necromancer | 0.40% | ~3 |
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 768 (Ranked 358)  
-Completed: 1 (0.13%) (Ranked 336)  
+Progressed: 781 (Ranked 363)  
+Completed: 1 (0.13%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,6 +201,7 @@ Completed: 1 (0.13%) (Ranked 336)
 | 2024-01-27 | 717 | 1 |
 | 2024-02-22 | 747 | 1 |
 | 2024-03-21 | 768 | 1 |
+| 2024-04-10 | 781 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

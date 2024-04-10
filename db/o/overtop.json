@@ -2,10 +2,10 @@
   "ID": "fbe5de8bf9dc462e91cdcc4e747c2a6c",
   "Name": "Overtop",
   "ProductSlug": "overtop-ed5e49",
-  "Ranking_EOS_Progress": 956,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-28T07:00:00+00:00",
     "PcReleaseDate": "2022-11-10T07:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-06-21T20:57:50.4124037+00:00",
   "FirstSeenAchievements": "2023-04-28T08:00:45.5138865+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:11:18.644969+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:05:18.4235464+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:48.160259+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:00:29.3292368+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:11:18.6449727+00:00"
+  "LastUpdate_Ratings": "2024-04-10T05:58:40.5724158+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:05:18.4235498+00:00"
 }

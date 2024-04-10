@@ -2,10 +2,10 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 514,
-  "Ranking_EOS_Completed": 446,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 2,
+  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -551,9 +551,9 @@
       "ID": "RUNE_BOOSTDAMAGERANGE",
       "SetID": "9433p49",
       "Name": "This is just the beginning...",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "RUNE_BOOSTHEALTHCOMBO",
@@ -599,9 +599,9 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -615,17 +615,17 @@
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 55,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "RUNE_OVERSTAMINA",
@@ -664,8 +664,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-03-21T17:08:26.8558264+00:00",
+  "LastChanged_Achievements": "2024-04-10T06:03:36.9899468+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:00.7992859+00:00",
-  "LastUpdate_Ratings": "2024-04-10T04:59:21.1953829+00:00",
-  "LastUpdate_Achievements": "2024-03-21T17:08:26.8558422+00:00"
+  "LastUpdate_Ratings": "2024-04-10T06:01:08.5948768+00:00",
+  "LastUpdate_Achievements": "2024-04-10T06:03:36.9899589+00:00"
 }
