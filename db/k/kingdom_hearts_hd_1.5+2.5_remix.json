@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 66,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 94,
+  "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -13659,10 +13659,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12990,
       "NumberOfAwardsMax": 1700
+    },
+    {
+      "Time": "2024-04-11T17:58:03.2673884+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12996,
+      "NumberOfAwardsMax": 1700
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12990,
+  "NumberOfAwards": 12996,
   "NumberOfAwardsMax": 1700,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13730,7 +13736,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1588
+      "Count": 1594
     },
     {
       "Text": "This game has a Creative Community",
@@ -13750,8 +13756,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-04-11T10:57:47.0820839+00:00",
+  "LastChanged": "2024-04-11T17:58:03.2673882+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:41.5412605+00:00",
-  "LastUpdate_Ratings": "2024-04-11T16:01:46.840813+00:00",
+  "LastUpdate_Ratings": "2024-04-11T17:58:03.2673888+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:36.5779342+00:00"
 }

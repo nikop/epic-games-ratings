@@ -2,7 +2,7 @@
   "ID": "d0230ef21b1f4ef29aec0d49946912fc",
   "Name": "Torchlight",
   "ProductSlug": "torchlight",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 605,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "NumberOfRatings": 122,
   "RatingHistory": [
     {
@@ -472,6 +472,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-04-11T17:58:09.2591163+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 25,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
@@ -497,8 +503,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
-  "LastChanged": "2024-03-29T17:00:41.1417021+00:00",
+  "LastChanged": "2024-04-11T17:58:09.2591161+00:00",
   "LastUpdate_AppInfo": "2024-04-07T01:43:59.0443289+00:00",
-  "LastUpdate_Ratings": "2024-04-11T16:01:56.0393807+00:00",
+  "LastUpdate_Ratings": "2024-04-11T17:58:09.2591165+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:23.9665007+00:00"
 }
