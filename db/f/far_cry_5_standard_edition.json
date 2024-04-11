@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-5",
   "Ranking_Rating": 376,
   "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -6181,10 +6181,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 3348,
       "NumberOfAwardsMax": 2021
+    },
+    {
+      "Time": "2024-04-11T16:59:26.3136751+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3349,
+      "NumberOfAwardsMax": 2021
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3348,
+  "NumberOfAwards": 3349,
   "NumberOfAwardsMax": 2021,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6258,7 +6264,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 115
+      "Count": 116
     }
   ],
   "EOS_Progressed": 0,
@@ -6272,8 +6278,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2024-04-11T14:00:33.7802516+00:00",
+  "LastChanged": "2024-04-11T16:59:26.3136749+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:56:58.20107+00:00",
-  "LastUpdate_Ratings": "2024-04-11T15:59:02.8761305+00:00",
+  "LastUpdate_Ratings": "2024-04-11T16:59:26.3136755+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:05.435571+00:00"
 }

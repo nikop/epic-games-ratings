@@ -4,7 +4,7 @@
   "ProductSlug": "nightingale",
   "Ranking_Rating": 934,
   "Ranking_Popularity": 466,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -871,10 +871,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 321,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2024-04-11T16:57:19.5906635+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 321,
+  "NumberOfAwards": 322,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -924,7 +930,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
@@ -959,9 +965,9 @@
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:53.3151044+00:00",
-  "LastChanged": "2024-04-10T17:57:51.9234794+00:00",
+  "LastChanged": "2024-04-11T16:57:19.5906633+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:45.746829+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:57.2572636+00:00",
-  "LastUpdate_Ratings": "2024-04-11T14:59:40.5213713+00:00",
+  "LastUpdate_Ratings": "2024-04-11T16:57:19.5906639+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:45.7468322+00:00"
 }
