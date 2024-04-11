@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 98,
   "Ranking_Popularity": 246,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -5203,10 +5203,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 3601,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2024-04-11T13:57:12.9509419+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 3614,
+      "NumberOfAwardsMax": 436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3601,
+  "NumberOfAwards": 3614,
   "NumberOfAwardsMax": 436,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5214,7 +5220,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 358
+      "Count": 360
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5232,7 +5238,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 345
+      "Count": 350
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5244,7 +5250,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 318
+      "Count": 324
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15855,9 +15861,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-04-10T22:58:27.1346313+00:00",
+  "LastChanged": "2024-04-11T13:57:12.9509417+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:36.816588+00:00",
   "LastUpdate_AppInfo": "2024-04-10T07:57:18.9801053+00:00",
-  "LastUpdate_Ratings": "2024-04-11T11:59:08.9644931+00:00",
+  "LastUpdate_Ratings": "2024-04-11T13:57:12.9509423+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:36.8167073+00:00"
 }

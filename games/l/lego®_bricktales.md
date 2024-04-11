@@ -1,7 +1,7 @@
 # LEGO® Bricktales
 [Store](https://store.epicgames.com/en-US/p/lego-bricktales-7ccf9b)  
 [View Rawdata](../../db/l/lego®_bricktales.json)  
-Rating: 4.60 (Ranked 448)  
+Rating: 4.62 (Ranked 399)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -12,3 +12,4 @@ Rating: 4.60 (Ranked 448)
 | 2023-07-24 | 4.65 | 0 | 0 |
 | 2023-12-03 | 4.63 | 0 | 0 |
 | 2024-02-18 | 4.60 | 0 | 0 |
+| 2024-04-11 | 4.62 | 0 | 0 |
