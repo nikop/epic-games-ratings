@@ -1,7 +1,7 @@
 # Franchise Hockey Manager 8
 [Store](https://store.epicgames.com/en-US/p/franchise-hockey-manager-8)  
 [View Rawdata](../../db/f/franchise_hockey_manager_8.json)  
-Rating: 4.26 (Ranked 957)  
+Rating: 4.26 (Ranked 958)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

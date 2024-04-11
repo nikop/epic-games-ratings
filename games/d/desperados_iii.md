@@ -51,9 +51,9 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-03-21 | 773 | 0 |
 | 2024-04-10 | 1,246 | 0 |
 ## Awards
-Max (Amazing Storytelling): 51  (Ranked 492)  
-Sum: 341 (Ranked 401)  
-Diff (max vs sum): 91  
+Max (Amazing Storytelling): 51  (Ranked 493)  
+Sum: 341 (Ranked 400)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 51 |
