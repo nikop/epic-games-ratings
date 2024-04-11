@@ -4,7 +4,7 @@
   "ProductSlug": "dead-space",
   "Ranking_Rating": 197,
   "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 53,
@@ -1467,10 +1467,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 573,
       "NumberOfAwardsMax": 430
+    },
+    {
+      "Time": "2024-04-11T01:41:23.9052049+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 574,
+      "NumberOfAwardsMax": 430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 573,
+  "NumberOfAwards": 574,
   "NumberOfAwardsMax": 430,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1520,7 +1526,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 23038,
@@ -13482,9 +13488,9 @@
   "FirstSeen": "2023-01-27T17:57:20.5533157+00:00",
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
-  "LastChanged": "2024-04-09T21:59:13.9400351+00:00",
+  "LastChanged": "2024-04-11T01:41:23.9052047+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:27.0140963+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:05.4751955+00:00",
-  "LastUpdate_Ratings": "2024-04-10T22:59:56.4493043+00:00",
+  "LastUpdate_Ratings": "2024-04-11T01:41:23.9052054+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:27.0141651+00:00"
 }
