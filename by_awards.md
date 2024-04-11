@@ -27,7 +27,7 @@
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,385 | 4.60 | 448 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 16,897 | 4.87 | 19 |
 | 27 | [SnowRunner](games/s/snowrunner.md) | 16,578 | 4.75 | 148 |
-| 28 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 15,870 | 4.58 | 486 |
+| 28 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 15,897 | 4.58 | 486 |
 | 29 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,607 | 4.60 | 448 |
 | 30 | [Killing Floor 2](games/k/killing_floor_2.md) | 14,986 | 4.44 | 736 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,926 | 4.84 | 42 |
@@ -76,7 +76,7 @@
 | 74 | [Rogue Company](games/r/rogue_company.md) | 6,162 | 4.28 | 933 |
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,086 | 4.64 | 358 |
 | 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,061 | 4.85 | 36 |
-| 77 | [League of Legends](games/l/league_of_legends.md) | 6,014 | 4.20 | 1,013 |
+| 77 | [League of Legends](games/l/league_of_legends.md) | 6,020 | 4.20 | 1,013 |
 | 78 | [Prey](games/p/prey.md) | 5,989 | 4.63 | 376 |
 | 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,988 | 4.07 | 1,089 |
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,900 | 4.56 | 530 |
@@ -190,7 +190,7 @@
 | 188 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 889 | 4.74 | 164 |
 | 189 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 887 | 4.21 | 1,007 |
 | 190 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 870 | 4.60 | 448 |
-| 191 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 864 | 4.66 | 314 |
+| 191 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 866 | 4.66 | 314 |
 | 192 | [Subnautica](games/s/subnautica.md) | 852 | 4.85 | 36 |
 | 193 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 842 | 4.60 | 448 |
 | 194 | [Neverwinter](games/n/neverwinter.md) | 824 | 4.29 | 922 |

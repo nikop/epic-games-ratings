@@ -329,7 +329,7 @@
 | 314 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 26 | 582 |
 | 314 | [SOMA](games/s/soma.md) | 4.66 | 0 | 629 |
 | 314 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.66 | 0 | 629 |
-| 314 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 864 | 191 |
+| 314 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 866 | 191 |
 | 314 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.66 | 81 | 431 |
 | 314 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 104 | 396 |
 | 314 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,206 | 73 |
@@ -490,7 +490,7 @@
 | 486 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 68,281 | 12 |
 | 486 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.58 | 27 | 578 |
 | 486 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.58 | 0 | 629 |
-| 486 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 15,870 | 28 |
+| 486 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 15,897 | 28 |
 | 486 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 276 | 287 |
 | 486 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 629 |
 | 486 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 42 | 513 |
@@ -1018,7 +1018,7 @@
 | 1,013 | [Gone Home](games/g/gone_home.md) | 4.20 | 0 | 629 |
 | 1,013 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.20 | 30 | 561 |
 | 1,013 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 0 | 629 |
-| 1,013 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,014 | 77 |
+| 1,013 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,020 | 77 |
 | 1,013 | [Out of Line](games/o/out_of_line.md) | 4.20 | 0 | 629 |
 | 1,013 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.20 | 0 | 629 |
 | 1,022 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 496 |
