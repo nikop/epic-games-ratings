@@ -122,7 +122,7 @@
 | 120 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 25 | 591 |
 | 120 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,747 | 41 |
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,311 | 150 |
-| 120 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,299 | 37 |
+| 120 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,313 | 37 |
 | 120 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 629 |
 | 120 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.77 | 0 | 629 |
 | 120 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 629 |
@@ -297,7 +297,7 @@
 | 291 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.67 | 0 | 629 |
 | 291 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 629 |
 | 291 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,963 | 68 |
-| 291 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 336,870 | 4 |
+| 291 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 336,975 | 4 |
 | 291 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 523 | 229 |
 | 291 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 629 |
 | 291 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,375 | 120 |
@@ -1031,17 +1031,17 @@
 | 1,022 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.19 | 0 | 629 |
 | 1,022 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 629 |
 | 1,031 | [Against All Odds](games/a/against_all_odds.md) | 4.18 | 0 | 629 |
+| 1,031 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.18 | 64 | 460 |
 | 1,031 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 226,223 | 6 |
 | 1,031 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 416 |
-| 1,034 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17 | 0 | 629 |
-| 1,034 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 629 |
-| 1,034 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 4.17 | 64 | 460 |
-| 1,034 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 99 | 408 |
-| 1,034 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.17 | 0 | 629 |
-| 1,034 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 629 |
-| 1,034 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 629 |
-| 1,034 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 629 |
-| 1,034 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.17 | 0 | 629 |
+| 1,035 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17 | 0 | 629 |
+| 1,035 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 629 |
+| 1,035 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 99 | 408 |
+| 1,035 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.17 | 0 | 629 |
+| 1,035 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 629 |
+| 1,035 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 629 |
+| 1,035 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 629 |
+| 1,035 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.17 | 0 | 629 |
 | 1,043 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 629 |
 | 1,043 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 624 | 217 |
 | 1,043 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 0 | 629 |
@@ -1064,14 +1064,14 @@
 | 1,060 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 629 |
 | 1,060 | [Relicta](games/r/relicta.md) | 4.14 | 206 | 321 |
 | 1,060 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.14 | 0 | 629 |
+| 1,060 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.14 | 2,501 | 114 |
 | 1,060 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 629 |
 | 1,060 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.14 | 0 | 629 |
 | 1,060 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.14 | 0 | 629 |
-| 1,068 | [Banished](games/b/banished.md) | 4.13 | 0 | 629 |
-| 1,068 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.13 | 24 | 596 |
-| 1,068 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 0 | 629 |
-| 1,068 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 629 |
-| 1,068 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,501 | 114 |
+| 1,069 | [Banished](games/b/banished.md) | 4.13 | 0 | 629 |
+| 1,069 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.13 | 24 | 596 |
+| 1,069 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 0 | 629 |
+| 1,069 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.13 | 0 | 629 |
 | 1,073 | [Patron](games/p/patron.md) | 4.12 | 0 | 629 |
 | 1,074 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 629 |
 | 1,074 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 0 | 629 |
