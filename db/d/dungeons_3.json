@@ -2,7 +2,7 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 337,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 142,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 1635,
   "RatingHistory": [
     {
@@ -3977,10 +3977,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 2933,
       "NumberOfAwardsMax": 425
+    },
+    {
+      "Time": "2024-04-11T16:01:55.8496065+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 2935,
+      "NumberOfAwardsMax": 425
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2933,
+  "NumberOfAwards": 2935,
   "NumberOfAwardsMax": 425,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4000,7 +4006,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 322
+      "Count": 323
     },
     {
       "Text": "This game is Relaxing",
@@ -4030,7 +4036,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 287
+      "Count": 288
     },
     {
       "Text": "This game has Diverse Characters",
@@ -35967,9 +35973,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2024-04-11T00:01:10.9753615+00:00",
+  "LastChanged": "2024-04-11T16:01:55.8496063+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:27.0371105+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:17.1661218+00:00",
-  "LastUpdate_Ratings": "2024-04-11T14:58:48.5294692+00:00",
+  "LastUpdate_Ratings": "2024-04-11T16:01:55.8496069+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:27.0373209+00:00"
 }

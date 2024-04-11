@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania Starter Access",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 337,
+  "Ranking_Rating": 338,
   "Ranking_Popularity": 88,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 985,
@@ -19123,10 +19123,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 38425,
       "NumberOfAwardsMax": 4776
+    },
+    {
+      "Time": "2024-04-11T15:58:17.2188947+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 38431,
+      "NumberOfAwardsMax": 4776
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38425,
+  "NumberOfAwards": 38431,
   "NumberOfAwardsMax": 4776,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -19158,7 +19164,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3942
+      "Count": 3948
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -19214,8 +19220,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-04-11T13:00:46.2801748+00:00",
+  "LastChanged": "2024-04-11T15:58:17.2188946+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:12.5899141+00:00",
-  "LastUpdate_Ratings": "2024-04-11T14:00:02.2033136+00:00",
+  "LastUpdate_Ratings": "2024-04-11T15:58:17.2188949+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:04.4386038+00:00"
 }
