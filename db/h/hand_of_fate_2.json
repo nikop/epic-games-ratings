@@ -3,8 +3,8 @@
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 567,
-  "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 451,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 53,
@@ -977,11 +977,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 205,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-04-11T06:59:23.8979929+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 206,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 205,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 206,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -994,7 +1000,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
@@ -28343,9 +28349,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2024-04-10T19:05:26.8967199+00:00",
+  "LastChanged": "2024-04-11T06:59:23.8979927+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:10.7380641+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:17.5816134+00:00",
-  "LastUpdate_Ratings": "2024-04-11T05:00:04.8108352+00:00",
+  "LastUpdate_Ratings": "2024-04-11T06:59:23.8979932+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:10.7381864+00:00"
 }
