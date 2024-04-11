@@ -1,7 +1,7 @@
 # Astro Duel 2
 [Store](https://store.epicgames.com/en-US/p/astro-duel-2-e1261d)  
 [View Rawdata](../../db/a/astro_duel_2.json)  
-Rating: 4.73 (Ranked 179)  
+Rating: 4.74 (Ranked 164)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -68,3 +68,4 @@ Completed: 1 (0.00%) (Ranked 455)
 | 2024-04-05 | 4.74 | 0 | 0 |
 | 2024-04-09 | 4.75 | 0 | 0 |
 | 2024-04-10 | 4.73 | 0 | 0 |
+| 2024-04-11 | 4.74 | 0 | 0 |

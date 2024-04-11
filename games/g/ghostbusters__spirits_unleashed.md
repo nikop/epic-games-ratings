@@ -346,8 +346,8 @@ Completed: 75 (0.21%) (Ranked 315)
 | 2024-04-10 | 36,496 | 75 |
 ## Awards
 Max (Great for Quick Sessions): 361  (Ranked 260)  
-Sum: 3,217 (Ranked 192)  
-Diff (max vs sum): 68  
+Sum: 3,217 (Ranked 191)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 361 |
