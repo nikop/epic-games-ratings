@@ -115,7 +115,7 @@
 | 111 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,398 | 45 |
 | 111 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 975 | 180 |
 | 111 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.78 | 153 | 357 |
-| 111 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,430 | 72 |
+| 111 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,431 | 72 |
 | 111 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 65 | 459 |
 | 111 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.78 | 0 | 629 |
 | 111 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 561 |
@@ -143,7 +143,7 @@
 | 140 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,403 | 24 |
 | 140 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,550 | 104 |
 | 140 | [Journey](games/j/journey.md) | 4.76 | 0 | 629 |
-| 140 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,445 | 115 |
+| 140 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,448 | 115 |
 | 140 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,824 | 136 |
 | 140 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.76 | 814 | 196 |
 | 140 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 218 | 313 |
@@ -205,7 +205,7 @@
 | 197 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 383 | 255 |
 | 197 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 0 | 629 |
 | 197 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.72 | 0 | 629 |
-| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 659 | 212 |
+| 206 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 661 | 212 |
 | 206 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.71 | 69 | 456 |
 | 206 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.71 | 44 | 511 |
 | 206 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.71 | 0 | 629 |
@@ -390,7 +390,7 @@
 | 376 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.63 | 80 | 433 |
 | 376 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 629 |
 | 376 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 629 |
-| 376 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 726 | 204 |
+| 376 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 729 | 204 |
 | 376 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 9,744 | 48 |
 | 376 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 3,919 | 97 |
 | 376 | [Mutazione](games/m/mutazione.md) | 4.63 | 0 | 629 |
@@ -599,7 +599,7 @@
 | 584 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 629 |
 | 584 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 71 | 454 |
 | 584 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 557 | 227 |
-| 584 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,119 | 162 |
+| 584 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,120 | 162 |
 | 584 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 629 |
 | 584 | [Verdun](games/v/verdun.md) | 4.53 | 112 | 389 |
 | 584 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 0 | 629 |
