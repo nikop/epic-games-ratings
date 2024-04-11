@@ -3,8 +3,8 @@
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
   "Ranking_Rating": 822,
-  "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 249,
+  "Ranking_Popularity": 317,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -3755,11 +3755,17 @@
       "Rating": 4.39,
       "NumberOfAwards": 1675,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2024-04-11T13:02:13.1752638+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 1677,
+      "NumberOfAwardsMax": 213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1675,
-  "NumberOfAwardsMax": 212,
+  "NumberOfAwards": 1677,
+  "NumberOfAwardsMax": 213,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3790,7 +3796,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3814,7 +3820,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Easy Combat",
@@ -3846,8 +3852,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2024-04-09T22:57:35.4822755+00:00",
+  "LastChanged": "2024-04-11T13:02:13.1752636+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:09.804755+00:00",
-  "LastUpdate_Ratings": "2024-04-11T11:58:34.8677962+00:00",
+  "LastUpdate_Ratings": "2024-04-11T13:02:13.1752643+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:56.9073426+00:00"
 }
