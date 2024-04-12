@@ -1,7 +1,7 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 957)  
+Rating: 4.26 (Ranked 956)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -185,12 +185,12 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-04-10 | 230,044 | 0 |
 ## Awards
 Max (Diverse Characters): 22,975  (Ranked 23)  
-Sum: 113,113 (Ranked 18)  
+Sum: 113,118 (Ranked 18)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 22,975 |
-| This game is Highly Recommended | 15,421 |
+| This game is Highly Recommended | 15,426 |
 | This game has a Competitive Community | 14,811 |
 | This game has Amazing Characters | 12,668 |
 | This game is Extremely Fun | 12,151 |
@@ -664,4 +664,4 @@ Diff (max vs sum): 5
 | 2024-04-09 | 4.26 | 22,966 | 113,060 |
 | 2024-04-10 | 4.26 | 22,971 | 113,092 |
 | 2024-04-11 | 4.26 | 22,975 | 113,112 |
-| 2024-04-12 | 4.26 | 22,975 | 113,113 |
+| 2024-04-12 | 4.26 | 22,975 | 113,118 |
