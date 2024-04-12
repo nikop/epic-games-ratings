@@ -21,6 +21,7 @@
 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-04-25 | 15 (1,000 XP) | 1 | - | - |
 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | - |  | - | - |
 | [Jack Holmes: Master of Puppets](games/4/46d8d9b49fa24b2c81f648d2c30f45d1.md) | 2024-04-26 | - |  | - | - |
+| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | - |  | - | - |
 | [Ship's Cat](games/1/11f11905cbd549dea36bea8380461d06.md) | 2024-04-29 | - |  | - | - |
 | [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-04-30 | - |  | - | - |
