@@ -302,7 +302,7 @@
 | 292 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 525 | 229 |
 | 292 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 629 |
 | 292 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,375 | 120 |
-| 292 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 756 | 201 |
+| 292 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 757 | 201 |
 | 292 | [Outlast 2](games/o/outlast_2.md) | 4.67 | 0 | 629 |
 | 292 | [RIDE 5](games/r/ride_5.md) | 4.67 | 0 | 629 |
 | 292 | [Road 96](games/r/road_96.md) | 4.67 | 0 | 629 |
@@ -467,7 +467,7 @@
 | 465 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 629 |
 | 465 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 629 |
 | 465 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 994 | 178 |
-| 465 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,576 | 81 |
+| 465 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,581 | 81 |
 | 465 | [Deceive Inc.](games/d/deceive_inc..md) | 4.59 | 0 | 629 |
 | 465 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 0 | 629 |
 | 465 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.59 | 0 | 629 |
