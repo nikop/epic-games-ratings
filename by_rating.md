@@ -728,7 +728,7 @@
 | 715 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 629 |
 | 715 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 928 | 185 |
 | 715 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.45 | 31 | 556 |
-| 715 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 791,008 | 2 |
+| 715 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 791,999 | 2 |
 | 715 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 629 |
 | 715 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 688 | 206 |
 | 715 | [STG Football](games/s/stg_football.md) | 4.45 | 53 | 484 |
@@ -811,7 +811,7 @@
 | 799 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 62 | 463 |
 | 799 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.40 | 0 | 629 |
 | 799 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 629 |
-| 799 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.40 | 668 | 210 |
+| 799 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.40 | 670 | 210 |
 | 799 | [King's Bounty: Warriors of the North](games/k/king's_bounty__warriors_of_the_north.md) | 4.40 | 0 | 629 |
 | 799 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.40 | 0 | 629 |
 | 799 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.40 | 0 | 629 |
@@ -1018,7 +1018,7 @@
 | 1,013 | [Gone Home](games/g/gone_home.md) | 4.20 | 0 | 629 |
 | 1,013 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.20 | 30 | 561 |
 | 1,013 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 0 | 629 |
-| 1,013 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,020 | 77 |
+| 1,013 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,032 | 77 |
 | 1,013 | [Out of Line](games/o/out_of_line.md) | 4.20 | 0 | 629 |
 | 1,013 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.20 | 0 | 629 |
 | 1,022 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 496 |
