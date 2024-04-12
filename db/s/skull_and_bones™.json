@@ -2,7 +2,7 @@
   "ID": "0c05e0889c3e42a4be1d81077d6e653a",
   "Name": "SKULL AND BONES\u2122",
   "ProductSlug": "skull-and-bones",
-  "Ranking_Rating": 1069,
+  "Ranking_Rating": 1060,
   "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 985,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.13,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2024-02-16T20:00:02.6134349+00:00",
@@ -1657,6 +1657,12 @@
       "Rating": 4.13,
       "NumberOfAwards": 5282,
       "NumberOfAwardsMax": 2506
+    },
+    {
+      "Time": "2024-04-12T20:57:48.0625944+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 5282,
+      "NumberOfAwardsMax": 2506
     }
   ],
   "ReviewsDisabled": false,
@@ -1725,8 +1731,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-16T05:01:19.7778357+00:00",
   "FirstSeenRating": "2024-02-16T20:00:02.6134347+00:00",
-  "LastChanged": "2024-04-12T17:58:53.1663928+00:00",
+  "LastChanged": "2024-04-12T20:57:48.0625943+00:00",
   "LastUpdate_AppInfo": "2024-04-07T12:58:09.3275333+00:00",
-  "LastUpdate_Ratings": "2024-04-12T18:59:53.6056066+00:00",
+  "LastUpdate_Ratings": "2024-04-12T20:57:48.0625948+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:14.8805056+00:00"
 }
