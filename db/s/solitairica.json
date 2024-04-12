@@ -4,7 +4,7 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 657,
   "Ranking_Popularity": 413,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1483,10 +1483,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 587,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-04-12T21:59:34.9060574+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 588,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 587,
+  "NumberOfAwards": 588,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1506,7 +1512,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1568,8 +1574,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-04-12T20:58:13.1538899+00:00",
+  "LastChanged": "2024-04-12T21:59:34.9060573+00:00",
   "LastUpdate_AppInfo": "2024-04-07T08:56:59.8891277+00:00",
-  "LastUpdate_Ratings": "2024-04-12T20:58:13.1538904+00:00",
+  "LastUpdate_Ratings": "2024-04-12T21:59:34.9060578+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:26.4660981+00:00"
 }

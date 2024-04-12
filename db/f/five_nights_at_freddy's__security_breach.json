@@ -4,7 +4,7 @@
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 397,
+  "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1364,10 +1364,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 346,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-04-12T21:58:30.8100233+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 312,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 346,
+  "NumberOfAwards": 312,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1443,8 +1449,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2024-04-11T22:57:32.1029611+00:00",
+  "LastChanged": "2024-04-12T21:58:30.8100231+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:25.7798685+00:00",
-  "LastUpdate_Ratings": "2024-04-12T20:01:13.7294698+00:00",
+  "LastUpdate_Ratings": "2024-04-12T21:58:30.8100237+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:37.8633729+00:00"
 }
