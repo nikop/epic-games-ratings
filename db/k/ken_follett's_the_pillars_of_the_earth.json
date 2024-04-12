@@ -4,7 +4,7 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 618,
   "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 450,
+  "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 53,
@@ -598,18 +598,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 206,
       "NumberOfAwardsMax": 161
+    },
+    {
+      "Time": "2024-04-12T15:59:18.2491796+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 207,
+      "NumberOfAwardsMax": 162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 206,
-  "NumberOfAwardsMax": 161,
+  "NumberOfAwards": 207,
+  "NumberOfAwardsMax": 162,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
       "Prefix": "This game features",
       "Type": "Easy Puzzles",
-      "Count": 161
+      "Count": 162
     },
     {
       "Text": "In this game, your choices Impact the Story",
@@ -19637,9 +19643,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2024-03-28T23:01:01.6759921+00:00",
+  "LastChanged": "2024-04-12T15:59:18.2491794+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:29.4786425+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:14.9547863+00:00",
-  "LastUpdate_Ratings": "2024-04-12T14:00:37.9345341+00:00",
+  "LastUpdate_Ratings": "2024-04-12T15:59:18.24918+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:29.478768+00:00"
 }

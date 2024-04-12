@@ -2,7 +2,7 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 701,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
   "Ranking_EOS_Progress": 8,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.47,
   "NumberOfRatings": 216,
   "RatingHistory": [
     {
@@ -491,6 +491,12 @@
     {
       "Time": "2024-02-22T16:59:26.6638301+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-12T16:00:12.5356598+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -33105,9 +33111,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
-  "LastChanged": "2024-02-22T16:59:26.6638299+00:00",
+  "LastChanged": "2024-04-12T16:00:12.5356596+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:30.936787+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:54.1777245+00:00",
-  "LastUpdate_Ratings": "2024-04-12T14:57:27.9272981+00:00",
+  "LastUpdate_Ratings": "2024-04-12T16:00:12.5356602+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:30.9369639+00:00"
 }

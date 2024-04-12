@@ -1,7 +1,7 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.46 (Ranked 701)  
+Rating: 4.47 (Ranked 685)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -407,3 +407,4 @@ Completed: 821 (0.05%) (Ranked 384)
 | 2024-01-01 | 4.44 | - | 0 | 0 |
 | 2024-02-09 | 4.45 | - | 0 | 0 |
 | 2024-02-22 | 4.46 | - | 0 | 0 |
+| 2024-04-12 | 4.47 | - | 0 | 0 |
