@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [BackRooms 1995 The Lost Footage Chapter 1](games/6/623c70d194674a5aabe514e155be2b8b.md) | 2024-04-12 | - |  | - | - |
 | [Urban Warriors](games/4/449a5d1081b14ff6bf2068ddfc8352f3.md) | 2024-04-12 | - |  | - | - |
 | [The Mims Beginning](games/0/01aeec3653564e35b01803a9b0db8243.md) | 2024-04-13 | - |  | - | - |
 | [AC Sailing](games/5/509ce98dda624bf193c297eadee9385c.md) | 2024-04-15 | - |  | - | - |
