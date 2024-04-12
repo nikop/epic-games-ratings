@@ -2,7 +2,7 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 398,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 174,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -3163,10 +3163,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 963,
       "NumberOfAwardsMax": 169
+    },
+    {
+      "Time": "2024-04-12T16:57:58.2235647+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 966,
+      "NumberOfAwardsMax": 169
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 963,
+  "NumberOfAwards": 966,
   "NumberOfAwardsMax": 169,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3186,7 +3192,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 131
+      "Count": 134
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14973,9 +14979,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-04-12T13:58:31.1566975+00:00",
+  "LastChanged": "2024-04-12T16:57:58.2235645+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:21.6545137+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:41.2583863+00:00",
-  "LastUpdate_Ratings": "2024-04-12T14:59:23.8834705+00:00",
+  "LastUpdate_Ratings": "2024-04-12T16:57:58.2235651+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:21.6546178+00:00"
 }

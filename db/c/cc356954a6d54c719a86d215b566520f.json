@@ -3,8 +3,8 @@
   "Name": "Lords Mobile",
   "ProductSlug": "lords-mobile-014f32",
   "Ranking_Rating": 898,
-  "Ranking_Popularity": 526,
-  "Ranking_PopularitySum": 573,
+  "Ranking_Popularity": 518,
+  "Ranking_PopularitySum": 569,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -491,18 +491,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 39,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-04-12T16:57:48.4992016+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39,
-  "NumberOfAwardsMax": 39,
+  "NumberOfAwards": 41,
+  "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 39
+      "Count": 41
     }
   ],
   "EOS_Progressed": 0,
@@ -517,8 +523,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-17T06:57:14.4933848+00:00",
   "FirstSeenRating": "2023-08-16T11:57:42.6574422+00:00",
-  "LastChanged": "2024-04-11T10:01:04.3632005+00:00",
+  "LastChanged": "2024-04-12T16:57:48.4992014+00:00",
   "LastUpdate_AppInfo": "2024-04-06T02:57:11.7768599+00:00",
-  "LastUpdate_Ratings": "2024-04-12T14:59:16.3817741+00:00",
+  "LastUpdate_Ratings": "2024-04-12T16:57:48.4992019+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:29.2762886+00:00"
 }
