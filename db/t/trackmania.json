@@ -4,7 +4,7 @@
   "ProductSlug": "trackmania",
   "Ranking_Rating": 338,
   "Ranking_Popularity": 88,
-  "Ranking_PopularitySum": 40,
+  "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -19159,10 +19159,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 38458,
       "NumberOfAwardsMax": 4779
+    },
+    {
+      "Time": "2024-04-12T08:58:11.6852028+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 38465,
+      "NumberOfAwardsMax": 4779
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38458,
+  "NumberOfAwards": 38465,
   "NumberOfAwardsMax": 4779,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -19182,7 +19188,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 4687
+      "Count": 4694
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19250,8 +19256,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-04-12T05:58:47.3946338+00:00",
+  "LastChanged": "2024-04-12T08:58:11.6852025+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:12.5899141+00:00",
-  "LastUpdate_Ratings": "2024-04-12T07:00:35.9114423+00:00",
+  "LastUpdate_Ratings": "2024-04-12T08:58:11.6852032+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:04.4386038+00:00"
 }

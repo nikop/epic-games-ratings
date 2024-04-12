@@ -1,7 +1,7 @@
 # Totally Reliable Delivery Service Standard Edition
 [Store](https://store.epicgames.com/en-US/p/totally-reliable-delivery-service)  
 [View Rawdata](../../db/t/totally_reliable_delivery_service_standard_edition.json)  
-Rating: 4.47 (Ranked 684)  
+Rating: 4.48 (Ranked 673)  
 Number of Ratings: 112  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -98,3 +98,4 @@ Number of Ratings: 112  (23.09.2022)
 | 2024-01-22 | 4.47 | - | 0 | 0 |
 | 2024-01-28 | 4.46 | - | 0 | 0 |
 | 2024-02-17 | 4.47 | - | 0 | 0 |
+| 2024-04-12 | 4.48 | - | 0 | 0 |
