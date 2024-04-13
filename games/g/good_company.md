@@ -1,7 +1,7 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.45 (Ranked 715)  
+Rating: 4.43 (Ranked 757)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -399,3 +399,4 @@ Completed: 1 (0.02%) (Ranked 413)
 | 2023-04-26 | 4.43 | - | 0 | 0 |
 | 2023-07-16 | 4.44 | - | 0 | 0 |
 | 2023-12-29 | 4.45 | - | 0 | 0 |
+| 2024-04-13 | 4.43 | - | 0 | 0 |

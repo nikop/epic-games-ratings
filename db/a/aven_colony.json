@@ -1765,10 +1765,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 769,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2024-04-13T16:58:02.630448+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 770,
+      "NumberOfAwardsMax": 132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 769,
+  "NumberOfAwards": 770,
   "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1788,7 +1794,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1838,8 +1844,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2024-04-12T11:57:19.9589587+00:00",
+  "LastChanged": "2024-04-13T16:58:02.6304478+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:47.5885981+00:00",
-  "LastUpdate_Ratings": "2024-04-13T15:00:24.4832802+00:00",
+  "LastUpdate_Ratings": "2024-04-13T16:58:02.6304487+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:26.848299+00:00"
 }

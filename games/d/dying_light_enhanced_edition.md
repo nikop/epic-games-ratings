@@ -1,7 +1,7 @@
 # Dying Light Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light)  
 [View Rawdata](../../db/d/dying_light_enhanced_edition.json)  
-Rating: 4.61 (Ranked 417)  
+Rating: 4.61 (Ranked 418)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -372,20 +372,20 @@ Completed: 59 (0.00%) (Ranked 455)
 | 2024-03-21 | 4,258,109 | 56 |
 | 2024-04-10 | 4,280,519 | 59 |
 ## Awards
-Max (Character Customization): 59,262  (Ranked 13)  
-Sum: 117,023 (Ranked 17)  
+Max (Character Customization): 59,308  (Ranked 13)  
+Sum: 117,083 (Ranked 17)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 59,262 |
+| This game has Inclusive Character Customization | 59,308 |
 | This game has Great Boss Battles | 27,685 |
 | This game is Great for Beginners | 5,523 |
 | This game has Diverse Characters | 4,696 |
-| This game is Highly Recommended | 3,862 |
+| This game is Highly Recommended | 3,867 |
 | This game has Amazing Characters | 3,516 |
-| This game has Amazing Storytelling | 3,401 |
+| This game has Amazing Storytelling | 3,406 |
 | This game is Extremely Fun | 3,302 |
-| This game has Quickly Understood Controls | 2,913 |
+| This game has Quickly Understood Controls | 2,917 |
 | This game is Relaxing | 2,863 |
 | This game has a Creative Community | 1,611 |
 | This game has Obsessive Gameplay | 355 |
@@ -857,4 +857,4 @@ Diff (max vs sum): -4
 | 2024-04-10 | 4.61 | - | 59,177 | 116,732 |
 | 2024-04-11 | 4.61 | - | 59,215 | 116,854 |
 | 2024-04-12 | 4.61 | - | 59,262 | 116,979 |
-| 2024-04-13 | 4.61 | - | 59,262 | 117,023 |
+| 2024-04-13 | 4.61 | - | 59,308 | 117,083 |
