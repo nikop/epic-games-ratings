@@ -2,7 +2,7 @@
   "ID": "da28ed4a03cb414393269a6b60b621be",
   "Name": "Survive on Raft",
   "ProductSlug": "survive-on-raft-9845bd",
-  "Ranking_Rating": 1158,
+  "Ranking_Rating": 1159,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
   "Ranking_EOS_Progress": 865,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.36,
+  "Rating": 3.34,
   "RatingHistory": [
     {
       "Time": "2024-02-25T13:59:25.4485754+00:00",
@@ -57,6 +57,12 @@
     {
       "Time": "2024-04-06T14:58:11.7897596+00:00",
       "Rating": 3.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-13T14:59:16.9041376+00:00",
+      "Rating": 3.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -386,9 +392,9 @@
   "FirstSeen": "2023-10-13T02:18:44.3797423+00:00",
   "FirstSeenRating": "2024-02-25T13:59:25.4485751+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:41.3982894+00:00",
-  "LastChanged": "2024-04-06T14:58:11.7897594+00:00",
+  "LastChanged": "2024-04-13T14:59:16.9041374+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:38.9366172+00:00",
   "LastUpdate_AppInfo": "2024-04-07T11:57:11.0295731+00:00",
-  "LastUpdate_Ratings": "2024-04-13T13:57:22.7311592+00:00",
+  "LastUpdate_Ratings": "2024-04-13T14:59:16.9041378+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:38.9366402+00:00"
 }
