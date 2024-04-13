@@ -4,7 +4,7 @@
   "ProductSlug": "panzer-corps-2",
   "Ranking_Rating": 638,
   "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 480,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -703,10 +703,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 147,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-04-13T10:00:17.7601738+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 175,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 147,
+  "NumberOfAwards": 175,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
@@ -770,8 +776,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2024-04-12T15:58:08.5101644+00:00",
+  "LastChanged": "2024-04-13T10:00:17.7601736+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:24.7666198+00:00",
-  "LastUpdate_Ratings": "2024-04-13T08:58:46.9360287+00:00",
+  "LastUpdate_Ratings": "2024-04-13T10:00:17.7601743+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:44.4933401+00:00"
 }

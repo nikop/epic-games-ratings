@@ -3,7 +3,7 @@
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 738,
-  "Ranking_Popularity": 491,
+  "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 455,
@@ -1074,24 +1074,30 @@
       "Rating": 4.44,
       "NumberOfAwards": 295,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-04-13T09:58:10.4479462+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 298,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 295,
-  "NumberOfAwardsMax": 52,
+  "NumberOfAwards": 298,
+  "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1341,9 +1347,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-04-12T23:58:03.0260962+00:00",
+  "LastChanged": "2024-04-13T09:58:10.447946+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:32.1238768+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:13.3650524+00:00",
-  "LastUpdate_Ratings": "2024-04-13T08:01:04.1434162+00:00",
+  "LastUpdate_Ratings": "2024-04-13T09:58:10.4479467+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:32.1238896+00:00"
 }
