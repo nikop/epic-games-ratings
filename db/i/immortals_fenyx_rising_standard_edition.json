@@ -4,7 +4,7 @@
   "ProductSlug": "immortals-fenyx-rising",
   "Ranking_Rating": 448,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 262,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -3232,10 +3232,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1476,
       "NumberOfAwardsMax": 933
+    },
+    {
+      "Time": "2024-04-13T06:58:38.5928819+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1448,
+      "NumberOfAwardsMax": 933
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1476,
+  "NumberOfAwards": 1448,
   "NumberOfAwardsMax": 933,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3311,8 +3317,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2024-04-11T08:58:40.278549+00:00",
+  "LastChanged": "2024-04-13T06:58:38.5928817+00:00",
   "LastUpdate_AppInfo": "2024-04-07T12:58:16.2916623+00:00",
-  "LastUpdate_Ratings": "2024-04-13T05:57:11.6053927+00:00",
+  "LastUpdate_Ratings": "2024-04-13T06:58:38.5928822+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:49.0105202+00:00"
 }
