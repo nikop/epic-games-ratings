@@ -2,7 +2,7 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 980,
+  "Ranking_Rating": 981,
   "Ranking_Popularity": 152,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 985,
@@ -3976,10 +3976,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 2737,
       "NumberOfAwardsMax": 1230
+    },
+    {
+      "Time": "2024-04-13T08:59:02.9448933+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2739,
+      "NumberOfAwardsMax": 1230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2737,
+  "NumberOfAwards": 2739,
   "NumberOfAwardsMax": 1230,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3993,7 +3999,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 193
+      "Count": 195
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4061,8 +4067,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2024-04-13T01:59:27.6309551+00:00",
+  "LastChanged": "2024-04-13T08:59:02.9448931+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:32.0184162+00:00",
-  "LastUpdate_Ratings": "2024-04-13T07:57:39.1711542+00:00",
+  "LastUpdate_Ratings": "2024-04-13T08:59:02.944894+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:32.0729406+00:00"
 }
