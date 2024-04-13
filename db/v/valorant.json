@@ -2,7 +2,7 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 619,
+  "Ranking_Rating": 638,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, VN"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 157172,
   "RatingHistory": [
     {
@@ -17933,10 +17933,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 780018,
       "NumberOfAwardsMax": 110935
+    },
+    {
+      "Time": "2024-04-12T23:57:23.6749556+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 780425,
+      "NumberOfAwardsMax": 110935
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 780018,
+  "NumberOfAwards": 780425,
   "NumberOfAwardsMax": 110935,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -17968,13 +17974,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 90799
+      "Count": 90953
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 85418
+      "Count": 85539
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -17992,7 +17998,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 78612
+      "Count": 78744
     },
     {
       "Text": "This game has a Competitive Community",
@@ -18012,8 +18018,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-04-12T21:59:01.026745+00:00",
+  "LastChanged": "2024-04-12T23:57:23.6749554+00:00",
   "LastUpdate_AppInfo": "2024-04-07T13:57:02.4006349+00:00",
-  "LastUpdate_Ratings": "2024-04-12T21:59:01.0267455+00:00",
+  "LastUpdate_Ratings": "2024-04-12T23:57:23.674956+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:27.6218645+00:00"
 }

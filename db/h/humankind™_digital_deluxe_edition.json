@@ -2,7 +2,7 @@
   "ID": "02c14a01b7044db98de3f3a10813a42e",
   "Name": "HUMANKIND\u2122 Standard Edition",
   "ProductSlug": "humankind",
-  "Ranking_Rating": 639,
+  "Ranking_Rating": 638,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 985,
@@ -1767,10 +1767,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 1023,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2024-04-12T23:58:46.2481318+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1024,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1023,
+  "NumberOfAwards": 1024,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1778,7 +1784,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 115
+      "Count": 116
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1858,8 +1864,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2024-04-08T19:01:06.0465315+00:00",
+  "LastChanged": "2024-04-12T23:58:46.2481316+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:35.7800474+00:00",
-  "LastUpdate_Ratings": "2024-04-12T21:59:56.2405159+00:00",
+  "LastUpdate_Ratings": "2024-04-12T23:58:46.2481324+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:19.4548049+00:00"
 }
