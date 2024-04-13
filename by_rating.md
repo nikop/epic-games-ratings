@@ -120,7 +120,7 @@
 | 111 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.78 | 0 | 629 |
 | 111 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 30 | 562 |
 | 120 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 25 | 591 |
-| 120 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,776 | 41 |
+| 120 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 11,805 | 41 |
 | 120 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,314 | 150 |
 | 120 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,320 | 37 |
 | 120 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 629 |
@@ -150,7 +150,7 @@
 | 148 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.75 | 0 | 629 |
 | 148 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,132 | 60 |
 | 148 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 629 |
-| 148 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,072 | 170 |
+| 148 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,073 | 168 |
 | 148 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,586 | 142 |
 | 148 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 629 |
 | 148 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,030 | 67 |
@@ -177,7 +177,7 @@
 | 164 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 113 | 388 |
 | 164 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 934 | 181 |
 | 164 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 629 |
-| 164 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,180 | 158 |
+| 164 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,181 | 158 |
 | 164 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 629 |
 | 180 | [Barony](games/b/barony.md) | 4.73 | 121 | 380 |
 | 180 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 629 |
@@ -196,7 +196,7 @@
 | 180 | [The Talos Principle](games/t/the_talos_principle.md) | 4.73 | 0 | 629 |
 | 180 | [Timberborn](games/t/timberborn.md) | 4.73 | 192 | 331 |
 | 180 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 0 | 629 |
-| 197 | [Dead Space](games/d/dead_space.md) | 4.72 | 431 | 248 |
+| 197 | [Dead Space](games/d/dead_space.md) | 4.72 | 432 | 248 |
 | 197 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.72 | 0 | 629 |
 | 197 | [FUSER™](games/f/fuser™.md) | 4.72 | 36 | 534 |
 | 197 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 42,442 | 16 |
@@ -779,7 +779,7 @@
 | 770 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 629 |
 | 770 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
 | 770 | [SMITE](games/s/smite.md) | 4.42 | 5,522 | 82 |
-| 770 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,226 | 153 |
+| 770 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,229 | 153 |
 | 770 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 170 | 346 |
 | 770 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 77 | 441 |
 | 770 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 629 |
@@ -995,23 +995,23 @@
 | 990 | [Hellpoint](games/h/hellpoint.md) | 4.23 | 0 | 629 |
 | 990 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 176 |
 | 990 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 629 |
+| 990 | [MetalCore](games/m/metalcore.md) | 4.23 | 0 | 629 |
 | 990 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 629 |
 | 990 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 254 | 293 |
 | 990 | [The Fall](games/t/the_fall.md) | 4.23 | 0 | 629 |
-| 999 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.22 | 85 | 427 |
-| 999 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 629 |
-| 999 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.22 | 36 | 534 |
-| 999 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.22 | 101 | 401 |
-| 999 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 629 |
-| 999 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 169 | 347 |
-| 1,005 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 377 |
-| 1,005 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 553 |
-| 1,005 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 629 |
-| 1,005 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 890 | 189 |
-| 1,005 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 254 | 293 |
-| 1,005 | [MetalCore](games/m/metalcore.md) | 4.21 | 0 | 629 |
-| 1,005 | [Out of Line](games/o/out_of_line.md) | 4.21 | 0 | 629 |
-| 1,005 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 438 |
+| 1,000 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.22 | 85 | 427 |
+| 1,000 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 629 |
+| 1,000 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.22 | 36 | 534 |
+| 1,000 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.22 | 101 | 401 |
+| 1,000 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.22 | 0 | 629 |
+| 1,000 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 169 | 347 |
+| 1,006 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 377 |
+| 1,006 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 553 |
+| 1,006 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 629 |
+| 1,006 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 890 | 189 |
+| 1,006 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.21 | 254 | 293 |
+| 1,006 | [Out of Line](games/o/out_of_line.md) | 4.21 | 0 | 629 |
+| 1,006 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 79 | 438 |
 | 1,013 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 132 | 370 |
 | 1,013 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 629 |
 | 1,013 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 542 |
