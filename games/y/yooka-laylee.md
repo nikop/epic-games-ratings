@@ -1,7 +1,7 @@
 # Yooka-Laylee
 [Store](https://store.epicgames.com/en-US/p/yooka-laylee)  
 [View Rawdata](../../db/y/yooka-laylee.json)  
-Rating: 4.25 (Ranked 972)  
+Rating: 4.25 (Ranked 973)  
 Number of Ratings: 366  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 25  (Ranked 591)  

@@ -2,7 +2,7 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 829,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 140,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "NumberOfRatings": 10109,
   "RatingHistory": [
     {
@@ -2553,6 +2553,12 @@
     {
       "Time": "2024-04-09T04:58:25.2196696+00:00",
       "Rating": 4.38,
+      "NumberOfAwards": 4253,
+      "NumberOfAwardsMax": 2175
+    },
+    {
+      "Time": "2024-04-13T19:57:57.4829599+00:00",
+      "Rating": 4.37,
       "NumberOfAwards": 4253,
       "NumberOfAwardsMax": 2175
     }
@@ -33990,9 +33996,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
-  "LastChanged": "2024-04-09T04:58:25.2196694+00:00",
+  "LastChanged": "2024-04-13T19:57:57.4829597+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:07.5819757+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:56.9677964+00:00",
-  "LastUpdate_Ratings": "2024-04-13T18:01:06.0487235+00:00",
+  "LastUpdate_Ratings": "2024-04-13T19:57:57.4829601+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:07.5821918+00:00"
 }
