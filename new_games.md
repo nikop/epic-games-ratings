@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Mims Beginning](games/0/01aeec3653564e35b01803a9b0db8243.md) | 2024-04-13 | - |  | - | - |
 | [Evil Seal](games/6/6b627f8704ae454aaec3b576eb965d76.md) | 2024-04-13 | - |  | - | - |
 | [Urban Warriors](games/4/449a5d1081b14ff6bf2068ddfc8352f3.md) | 2024-04-12 | - |  | - | - |
 | [BackRooms 1995 The Lost Footage Chapter 1](games/6/623c70d194674a5aabe514e155be2b8b.md) | 2024-04-12 | - |  | - | - |

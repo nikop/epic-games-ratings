@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The Mims Beginning](games/0/01aeec3653564e35b01803a9b0db8243.md) | 2024-04-13 | - |  | - | - |
 | [AC Sailing](games/5/509ce98dda624bf193c297eadee9385c.md) | 2024-04-15 | - |  | - | - |
 | [The Nightmare Of Arrival Chapter1](games/6/641612914ff541fcb0e4813ee144777d.md) | 2024-04-15 | - |  | - | - |
 | [Unveiling](games/2/2320bcb2f9f3493bb15518639c01ad49.md) | 2024-04-15 | - |  | - | - |
