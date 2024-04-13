@@ -299,7 +299,7 @@
 | 292 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 629 |
 | 292 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.67 | 174 | 342 |
 | 292 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 6,981 | 68 |
-| 292 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 337,051 | 4 |
+| 292 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 337,176 | 4 |
 | 292 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 525 | 229 |
 | 292 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 629 |
 | 292 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,375 | 120 |
@@ -604,7 +604,7 @@
 | 584 | [Verdun](games/v/verdun.md) | 4.53 | 112 | 389 |
 | 584 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 0 | 629 |
 | 604 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 0 | 629 |
-| 604 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 245 | 295 |
+| 604 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 246 | 295 |
 | 604 | [ATOM RPG](games/a/atom_rpg.md) | 4.52 | 56 | 476 |
 | 604 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 629 |
 | 604 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 629 |
@@ -851,7 +851,7 @@
 | 842 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 5,008 | 86 |
 | 850 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 629 |
 | 850 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 177 | 338 |
-| 850 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,890 | 36 |
+| 850 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,891 | 36 |
 | 850 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.36 | 0 | 629 |
 | 850 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 0 | 629 |
 | 850 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.36 | 26 | 582 |
@@ -954,22 +954,22 @@
 | 949 | [Startup Panic](games/s/startup_panic.md) | 4.27 | 0 | 629 |
 | 949 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 629 |
 | 949 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 629 |
+| 949 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.27 | 0 | 629 |
 | 949 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 629 |
-| 956 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.26 | 0 | 629 |
-| 956 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 80 | 433 |
-| 956 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,984 | 23 |
-| 956 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 629 |
-| 956 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 647 | 215 |
-| 956 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 23 | 601 |
-| 956 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 629 |
-| 956 | [RiMS Racing](games/r/rims_racing.md) | 4.26 | 0 | 629 |
-| 956 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 32 | 553 |
-| 956 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 629 |
-| 956 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.26 | 0 | 629 |
-| 956 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 629 |
-| 956 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.26 | 0 | 629 |
-| 956 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.26 | 0 | 629 |
-| 956 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 281 |
+| 957 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.26 | 0 | 629 |
+| 957 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 80 | 433 |
+| 957 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,984 | 23 |
+| 957 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 629 |
+| 957 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 647 | 215 |
+| 957 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 23 | 601 |
+| 957 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 629 |
+| 957 | [RiMS Racing](games/r/rims_racing.md) | 4.26 | 0 | 629 |
+| 957 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 32 | 553 |
+| 957 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 629 |
+| 957 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.26 | 0 | 629 |
+| 957 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 629 |
+| 957 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.26 | 0 | 629 |
+| 957 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 281 |
 | 971 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.25 | 0 | 629 |
 | 971 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 609 |
 | 971 | [Cyber Hook](games/c/cyber_hook.md) | 4.25 | 0 | 629 |
@@ -1121,8 +1121,8 @@
 | 1,119 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 509 |
 | 1,119 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.95 | 31 | 556 |
 | 1,119 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 100 | 406 |
+| 1,122 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.94 | 0 | 629 |
 | 1,122 | [Potion Permit](games/p/potion_permit.md) | 3.94 | 78 | 440 |
-| 1,123 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.93 | 0 | 629 |
 | 1,124 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.92 | 0 | 629 |
 | 1,124 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 629 |
 | 1,124 | [To The Rescue](games/t/to_the_rescue.md) | 3.92 | 0 | 629 |
