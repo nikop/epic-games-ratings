@@ -4,7 +4,7 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1112,
   "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 456,
+  "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1291,10 +1291,16 @@
       "Rating": 3.96,
       "NumberOfAwards": 195,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-04-13T05:59:43.9905365+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 196,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 195,
+  "NumberOfAwards": 196,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1338,7 +1344,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 39
+      "Count": 40
     }
   ],
   "EOS_Progressed": 0,
@@ -1353,8 +1359,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-04-12T20:00:35.3174355+00:00",
+  "LastChanged": "2024-04-13T05:59:43.9905364+00:00",
   "LastUpdate_AppInfo": "2024-04-12T18:57:12.6477333+00:00",
-  "LastUpdate_Ratings": "2024-04-13T04:58:16.7010705+00:00",
+  "LastUpdate_Ratings": "2024-04-13T05:59:43.9905369+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:14.1476615+00:00"
 }
