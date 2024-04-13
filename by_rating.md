@@ -70,7 +70,7 @@
 | 67 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 217 | 314 |
 | 67 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 534 |
 | 67 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.82 | 243 | 299 |
-| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,710 | 139 |
+| 67 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,724 | 139 |
 | 67 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 629 |
 | 67 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 329 | 270 |
 | 67 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.82 | 0 | 629 |
@@ -248,7 +248,7 @@
 | 245 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 131,624 | 9 |
 | 245 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 629 |
 | 245 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 132 | 370 |
-| 245 | [Coromon](games/c/coromon.md) | 4.69 | 50 | 496 |
+| 245 | [Coromon](games/c/coromon.md) | 4.69 | 50 | 497 |
 | 245 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,356 | 59 |
 | 245 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 9,035 | 55 |
 | 245 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.69 | 24 | 598 |
@@ -521,7 +521,7 @@
 | 509 | [Hob](games/h/hob.md) | 4.57 | 0 | 629 |
 | 509 | [Hue](games/h/hue.md) | 4.57 | 0 | 629 |
 | 509 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.57 | 0 | 629 |
-| 509 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 4.57 | 50 | 496 |
+| 509 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 4.57 | 51 | 495 |
 | 509 | [Minit](games/m/minit.md) | 4.57 | 0 | 629 |
 | 509 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,683 | 101 |
 | 509 | [Oxenfree](games/o/oxenfree.md) | 4.57 | 0 | 629 |
@@ -927,8 +927,8 @@
 | 924 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,411,023 | 1 |
 | 924 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 629 |
 | 924 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 57 | 474 |
-| 924 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 824 | 194 |
-| 924 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 50 | 496 |
+| 924 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 828 | 194 |
+| 924 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 50 | 497 |
 | 924 | [Steelrising](games/s/steelrising.md) | 4.29 | 42 | 513 |
 | 924 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.29 | 0 | 629 |
 | 924 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 629 |
@@ -956,22 +956,22 @@
 | 949 | [Startup Panic](games/s/startup_panic.md) | 4.27 | 0 | 629 |
 | 949 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 629 |
 | 949 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 629 |
+| 949 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.27 | 0 | 629 |
 | 949 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 629 |
-| 958 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 84 | 428 |
-| 958 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,984 | 23 |
-| 958 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 629 |
-| 958 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 648 | 215 |
-| 958 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 23 | 603 |
-| 958 | [Predecessor](games/p/predecessor.md) | 4.26 | 496 | 237 |
-| 958 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 629 |
-| 958 | [RiMS Racing](games/r/rims_racing.md) | 4.26 | 0 | 629 |
-| 958 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 32 | 553 |
-| 958 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 629 |
-| 958 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.26 | 0 | 629 |
-| 958 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 629 |
-| 958 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.26 | 0 | 629 |
-| 958 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.26 | 0 | 629 |
-| 958 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 281 |
+| 959 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 84 | 428 |
+| 959 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,984 | 23 |
+| 959 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 629 |
+| 959 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 648 | 215 |
+| 959 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 23 | 603 |
+| 959 | [Predecessor](games/p/predecessor.md) | 4.26 | 496 | 237 |
+| 959 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 629 |
+| 959 | [RiMS Racing](games/r/rims_racing.md) | 4.26 | 0 | 629 |
+| 959 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 32 | 553 |
+| 959 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 629 |
+| 959 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.26 | 0 | 629 |
+| 959 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 629 |
+| 959 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.26 | 0 | 629 |
+| 959 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 281 |
 | 973 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 610 |
 | 973 | [Cyber Hook](games/c/cyber_hook.md) | 4.25 | 0 | 629 |
 | 973 | [MetalCore](games/m/metalcore.md) | 4.25 | 0 | 629 |
@@ -1022,7 +1022,7 @@
 | 1,014 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,039 | 77 |
 | 1,014 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.20 | 0 | 629 |
 | 1,014 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.20 | 0 | 629 |
-| 1,023 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 496 |
+| 1,023 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 497 |
 | 1,023 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,493 | 105 |
 | 1,023 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 610 |
 | 1,023 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 434 |
