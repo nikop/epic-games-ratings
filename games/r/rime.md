@@ -1,7 +1,7 @@
 # RiME
 [Store](https://store.epicgames.com/en-US/p/rime)  
 [View Rawdata](../../db/r/rime.json)  
-Rating: 4.56 (Ranked 531)  
+Rating: 4.56 (Ranked 532)  
 Number of Ratings: 85  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

@@ -364,7 +364,7 @@ Completed: 7 (0.11%) (Ranked 352)
 | 2024-04-10 | 6,261 | 7 |
 ## Awards
 Max (Great for Beginners): 64  (Ranked 461)  
-Sum: 290 (Ranked 419)  
+Sum: 291 (Ranked 419)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
@@ -374,7 +374,7 @@ Diff (max vs sum): 42
 | This game has Playful Visuals | 41 |
 | This game has a Kind Community | 34 |
 | This game has Quickly Understood Controls | 27 |
-| This game is Relaxing | 23 |
+| This game is Relaxing | 24 |
 | This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -531,3 +531,4 @@ Diff (max vs sum): 42
 | 2024-04-10 | 4.17 | 64 | 289 |
 | 2024-04-11 | 4.18 | 64 | 289 |
 | 2024-04-12 | 4.17 | 64 | 290 |
+| 2024-04-13 | 4.17 | 64 | 291 |
