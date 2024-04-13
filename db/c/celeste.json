@@ -4,7 +4,7 @@
   "ProductSlug": "celeste",
   "Ranking_Rating": 6,
   "Ranking_Popularity": 131,
-  "Ranking_PopularitySum": 174,
+  "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -5953,10 +5953,16 @@
       "Rating": 4.91,
       "NumberOfAwards": 3902,
       "NumberOfAwardsMax": 1946
+    },
+    {
+      "Time": "2024-04-13T20:57:29.9180071+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 3903,
+      "NumberOfAwardsMax": 1946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3902,
+  "NumberOfAwards": 3903,
   "NumberOfAwardsMax": 1946,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6012,7 +6018,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 235
+      "Count": 236
     },
     {
       "Text": "This game is Relaxing",
@@ -6038,8 +6044,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2024-04-13T01:58:44.3874523+00:00",
+  "LastChanged": "2024-04-13T20:57:29.9180069+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:45.741866+00:00",
-  "LastUpdate_Ratings": "2024-04-13T18:59:09.6126338+00:00",
+  "LastUpdate_Ratings": "2024-04-13T20:57:29.9180075+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:47.8565134+00:00"
 }

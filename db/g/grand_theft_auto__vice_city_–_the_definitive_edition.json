@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 584,
   "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 516,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 53,
@@ -1181,10 +1181,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 91,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-04-13T20:57:26.9630759+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 111,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 91,
+  "NumberOfAwards": 111,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1217,6 +1223,12 @@
       "Prefix": "This game has",
       "Type": "Easy Combat",
       "Count": 21
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 17904,
@@ -19553,9 +19565,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-04-10T14:00:54.251225+00:00",
+  "LastChanged": "2024-04-13T20:57:26.9630757+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:23.6978394+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:44.3744952+00:00",
-  "LastUpdate_Ratings": "2024-04-13T18:59:06.9860043+00:00",
+  "LastUpdate_Ratings": "2024-04-13T20:57:26.9630761+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:23.6979373+00:00"
 }

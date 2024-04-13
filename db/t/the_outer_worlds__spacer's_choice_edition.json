@@ -4,7 +4,7 @@
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
   "Ranking_Rating": 658,
   "Ranking_Popularity": 46,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -4809,10 +4809,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 14537,
       "NumberOfAwardsMax": 10290
+    },
+    {
+      "Time": "2024-04-13T21:00:29.6371941+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 15032,
+      "NumberOfAwardsMax": 10290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14537,
+  "NumberOfAwards": 15032,
   "NumberOfAwardsMax": 10290,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4875,6 +4881,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 285
+    },
+    {
+      "Text": "This game has Easy Combat",
+      "Prefix": "This game has",
+      "Type": "Easy Combat",
+      "Count": 495
     }
   ],
   "EOS_Progressed": 0,
@@ -4897,9 +4909,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-04-13T19:58:38.0146131+00:00",
+  "LastChanged": "2024-04-13T21:00:29.6371939+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:57.3894963+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:58:20.8094374+00:00",
-  "LastUpdate_Ratings": "2024-04-13T19:58:38.0146137+00:00",
+  "LastUpdate_Ratings": "2024-04-13T21:00:29.6371945+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:57.3895014+00:00"
 }

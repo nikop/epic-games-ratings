@@ -3,7 +3,7 @@
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
   "Ranking_Rating": 958,
-  "Ranking_Popularity": 238,
+  "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -7222,30 +7222,36 @@
       "Rating": 4.26,
       "NumberOfAwards": 2686,
       "NumberOfAwardsMax": 491
+    },
+    {
+      "Time": "2024-04-13T20:59:17.3386063+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 2703,
+      "NumberOfAwardsMax": 496
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2686,
-  "NumberOfAwardsMax": 491,
+  "NumberOfAwards": 2703,
+  "NumberOfAwardsMax": 496,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 322
+      "Count": 327
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 491
+      "Count": 496
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 315
+      "Count": 319
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7257,7 +7263,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 336
+      "Count": 339
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7302,8 +7308,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2024-04-13T19:57:39.1823911+00:00",
+  "LastChanged": "2024-04-13T20:59:17.3386062+00:00",
   "LastUpdate_AppInfo": "2024-04-07T10:57:47.1725319+00:00",
-  "LastUpdate_Ratings": "2024-04-13T19:57:39.1823917+00:00",
+  "LastUpdate_Ratings": "2024-04-13T20:59:17.3386068+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:44.2855217+00:00"
 }

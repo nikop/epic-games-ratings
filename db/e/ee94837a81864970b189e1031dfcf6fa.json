@@ -3,8 +3,8 @@
   "Name": "Expeditions - A MudRunner Game",
   "ProductSlug": "expeditions-a-mudrunner-game-e6bda2",
   "Ranking_Rating": 1060,
-  "Ranking_Popularity": 591,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 14,
@@ -413,18 +413,24 @@
       "Rating": 4.14,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-04-13T20:57:36.452272+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 47,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
@@ -637,9 +643,9 @@
   "FirstSeen": "2024-03-05T17:58:37.8385796+00:00",
   "FirstSeenRating": "2024-03-07T12:58:57.6137618+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:52.4220924+00:00",
-  "LastChanged": "2024-04-13T08:58:26.4472171+00:00",
+  "LastChanged": "2024-04-13T20:57:36.4522718+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:42.4172243+00:00",
   "LastUpdate_AppInfo": "2024-04-12T02:17:48.78269+00:00",
-  "LastUpdate_Ratings": "2024-04-13T18:59:16.1896688+00:00",
+  "LastUpdate_Ratings": "2024-04-13T20:57:36.4522724+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:42.4172378+00:00"
 }
