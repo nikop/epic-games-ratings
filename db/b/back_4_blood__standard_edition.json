@@ -2,7 +2,7 @@
   "ID": "57dfd95548214a138218e56cd9e5b9d8",
   "Name": "Back 4 Blood: Standard Edition",
   "ProductSlug": "back-4-blood",
-  "Ranking_Rating": 702,
+  "Ranking_Rating": 703,
   "Ranking_Popularity": 94,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 985,
@@ -8880,18 +8880,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 9794,
       "NumberOfAwardsMax": 4483
+    },
+    {
+      "Time": "2024-04-13T07:58:36.3874824+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 9801,
+      "NumberOfAwardsMax": 4488
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9794,
-  "NumberOfAwardsMax": 4483,
+  "NumberOfAwards": 9801,
+  "NumberOfAwardsMax": 4488,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4483
+      "Count": 4488
     },
     {
       "Text": "This game is Relaxing",
@@ -8915,7 +8921,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 752
+      "Count": 754
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8947,8 +8953,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2024-04-12T14:00:47.1803358+00:00",
+  "LastChanged": "2024-04-13T07:58:36.3874823+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:10.8519621+00:00",
-  "LastUpdate_Ratings": "2024-04-13T05:59:32.980393+00:00",
+  "LastUpdate_Ratings": "2024-04-13T07:58:36.3874828+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:02.9007308+00:00"
 }

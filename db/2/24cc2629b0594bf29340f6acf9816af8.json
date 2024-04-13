@@ -2,8 +2,8 @@
   "ID": "24cc2629b0594bf29340f6acf9816af8",
   "Name": "Horizon Forbidden West\u2122 Complete Edition",
   "ProductSlug": "horizon-forbidden-west-complete-edition",
-  "Ranking_Rating": 111,
-  "Ranking_Popularity": 353,
+  "Ranking_Rating": 98,
+  "Ranking_Popularity": 352,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 402,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2024-03-23T09:58:46.7447867+00:00",
@@ -307,18 +307,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2024-04-13T07:57:24.6408614+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 227,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 222,
-  "NumberOfAwardsMax": 159,
+  "NumberOfAwards": 227,
+  "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 159
+      "Count": 164
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1012,9 +1018,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-04-12T22:58:43.48746+00:00",
+  "LastChanged": "2024-04-13T07:57:24.6408612+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:17.2752092+00:00",
   "LastUpdate_AppInfo": "2024-04-11T06:57:11.7713943+00:00",
-  "LastUpdate_Ratings": "2024-04-13T05:58:46.6212651+00:00",
+  "LastUpdate_Ratings": "2024-04-13T07:57:24.6408617+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:17.2752744+00:00"
 }

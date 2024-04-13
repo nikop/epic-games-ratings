@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.40 (Ranked 799)  
+Rating: 4.40 (Ranked 800)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -350,13 +350,13 @@ Completed: 4 (0.00%) (Ranked 455)
 | 2024-04-10 | 262,947 | 4 |
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 463)  
-Sum: 430 (Ranked 375)  
+Sum: 431 (Ranked 375)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 63 |
 | This game has Unique Visuals | 48 |
-| This game has Amazing Characters | 45 |
+| This game has Amazing Characters | 46 |
 | This game has Amazing Storytelling | 44 |
 | This game is Highly Recommended | 43 |
 | This game has Challenging Combat | 41 |
@@ -605,3 +605,4 @@ Diff (max vs sum): 88
 | 2024-04-08 | 4.40 | 62 | 427 |
 | 2024-04-10 | 4.40 | 62 | 429 |
 | 2024-04-12 | 4.40 | 63 | 430 |
+| 2024-04-13 | 4.40 | 63 | 431 |

@@ -1,7 +1,7 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.47 (Ranked 685)  
+Rating: 4.47 (Ranked 686)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -345,7 +345,7 @@ Completed: 29 (0.01%) (Ranked 431)
 | 2024-04-10 | 447,797 | 29 |
 ## Awards
 Max (Challenging Puzzles): 1,205  (Ranked 156)  
-Sum: 2,603 (Ranked 214)  
+Sum: 2,604 (Ranked 214)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
@@ -358,7 +358,7 @@ Diff (max vs sum): -58
 | This game has Quickly Understood Controls | 128 |
 | This game has Challenging Combat | 113 |
 | This game has a Creative Community | 105 |
-| This game has Amazing Storytelling | 99 |
+| This game has Amazing Storytelling | 100 |
 | This game has Amazing Characters | 79 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -685,3 +685,4 @@ Diff (max vs sum): -58
 | 2024-04-10 | 4.47 | - | 1,205 | 2,601 |
 | 2024-04-11 | 4.47 | - | 1,205 | 2,602 |
 | 2024-04-12 | 4.47 | - | 1,205 | 2,603 |
+| 2024-04-13 | 4.47 | - | 1,205 | 2,604 |
