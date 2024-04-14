@@ -2,7 +2,7 @@
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
   "ProductSlug": "destiny-2",
-  "Ranking_Rating": 737,
+  "Ranking_Rating": 736,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 9,
@@ -16858,10 +16858,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 155531,
       "NumberOfAwardsMax": 73124
+    },
+    {
+      "Time": "2024-04-14T14:26:48.3401474+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 155617,
+      "NumberOfAwardsMax": 73124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 155531,
+  "NumberOfAwards": 155617,
   "NumberOfAwardsMax": 73124,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -16875,7 +16881,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 13013
+      "Count": 13042
     },
     {
       "Text": "This game is Highly Recommended",
@@ -16893,7 +16899,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 12922
+      "Count": 12942
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16911,7 +16917,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12642
+      "Count": 12679
     },
     {
       "Text": "This game has Competitive Players",
@@ -49668,9 +49674,9 @@
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
-  "LastChanged": "2024-04-14T02:29:31.8851263+00:00",
+  "LastChanged": "2024-04-14T14:26:48.3401473+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:14.5889165+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:38.867023+00:00",
-  "LastUpdate_Ratings": "2024-04-14T07:49:54.3207888+00:00",
+  "LastUpdate_Ratings": "2024-04-14T14:26:48.3401481+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:14.5890733+00:00"
 }

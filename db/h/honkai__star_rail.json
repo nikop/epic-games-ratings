@@ -2,7 +2,7 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 197,
+  "Ranking_Rating": 196,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 985,
@@ -14959,10 +14959,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 187324,
       "NumberOfAwardsMax": 42745
+    },
+    {
+      "Time": "2024-04-14T14:29:30.3396008+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 187557,
+      "NumberOfAwardsMax": 42745
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187324,
+  "NumberOfAwards": 187557,
   "NumberOfAwardsMax": 42745,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14988,7 +14994,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 19502
+      "Count": 19595
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15012,7 +15018,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 19980
+      "Count": 20079
     },
     {
       "Text": "This game is Relaxing",
@@ -15024,7 +15030,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10668
+      "Count": 10709
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15051,8 +15057,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2024-04-14T10:02:29.3582109+00:00",
-  "LastUpdate_AppInfo": "2024-04-07T10:58:14.5032278+00:00",
-  "LastUpdate_Ratings": "2024-04-14T10:02:29.3582115+00:00",
+  "LastChanged": "2024-04-14T14:29:30.3396006+00:00",
+  "LastUpdate_AppInfo": "2024-04-14T14:25:59.312503+00:00",
+  "LastUpdate_Ratings": "2024-04-14T14:29:30.3396012+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:43.6390722+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 245,
+  "Ranking_Rating": 244,
   "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 33,
@@ -1533,10 +1533,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 735,
       "NumberOfAwardsMax": 585
+    },
+    {
+      "Time": "2024-04-14T14:27:41.2327312+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 736,
+      "NumberOfAwardsMax": 585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 735,
+  "NumberOfAwards": 736,
   "NumberOfAwardsMax": 585,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1574,7 +1580,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
@@ -34603,9 +34609,9 @@
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2024-04-12T21:00:16.7639405+00:00",
+  "LastChanged": "2024-04-14T14:27:41.2327311+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:26.7680968+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:57:54.3758662+00:00",
-  "LastUpdate_Ratings": "2024-04-14T07:50:47.6650798+00:00",
+  "LastUpdate_Ratings": "2024-04-14T14:27:41.2327319+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:26.7682521+00:00"
 }

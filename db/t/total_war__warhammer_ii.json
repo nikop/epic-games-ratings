@@ -2,7 +2,7 @@
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
-  "Ranking_Rating": 222,
+  "Ranking_Rating": 221,
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 985,
@@ -9536,10 +9536,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 15760,
       "NumberOfAwardsMax": 4981
+    },
+    {
+      "Time": "2024-04-14T14:28:18.6333619+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 15770,
+      "NumberOfAwardsMax": 4981
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15760,
+  "NumberOfAwards": 15770,
   "NumberOfAwardsMax": 4981,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9553,25 +9559,25 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1386
+      "Count": 1391
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1017
+      "Count": 1018
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1142
+      "Count": 1144
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1110
+      "Count": 1112
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9633,8 +9639,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2024-04-14T02:31:31.1790749+00:00",
-  "LastUpdate_AppInfo": "2024-04-07T10:57:40.9486158+00:00",
-  "LastUpdate_Ratings": "2024-04-14T10:01:06.1807385+00:00",
+  "LastChanged": "2024-04-14T14:28:18.6333617+00:00",
+  "LastUpdate_AppInfo": "2024-04-14T14:25:32.9073242+00:00",
+  "LastUpdate_Ratings": "2024-04-14T14:28:18.6333624+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:06.6551022+00:00"
 }

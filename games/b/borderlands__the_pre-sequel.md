@@ -1,11 +1,11 @@
 # Borderlands: The Pre-Sequel
 [Store](https://store.epicgames.com/en-US/p/borderlands-the-pre-sequel)  
 [View Rawdata](../../db/b/borderlands__the_pre-sequel.json)  
-Rating: 4.50 (Ranked 638)  
+Rating: 4.50 (Ranked 637)  
 Number of Ratings: 2,939  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 497  (Ranked 235)  
-Sum: 3,366 (Ranked 185)  
+Sum: 3,368 (Ranked 185)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 50
 | This game is Highly Recommended | 400 |
 | This game has Quickly Understood Controls | 391 |
 | This game has Amazing Characters | 388 |
-| This game is Relaxing | 374 |
+| This game is Relaxing | 376 |
 | This game has Obsessive Gameplay | 154 |
 | This game has Unique Visuals | 119 |
 ## Ratings History
@@ -404,3 +404,4 @@ Diff (max vs sum): 50
 | 2024-04-09 | 4.50 | - | 495 | 3,363 |
 | 2024-04-10 | 4.50 | - | 497 | 3,365 |
 | 2024-04-12 | 4.50 | - | 497 | 3,366 |
+| 2024-04-14 | 4.50 | - | 497 | 3,368 |

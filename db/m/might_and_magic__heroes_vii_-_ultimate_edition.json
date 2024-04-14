@@ -4,7 +4,7 @@
   "ProductSlug": "might-and-magic-heroes-7",
   "Ranking_Rating": 715,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 409,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1324,10 +1324,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 309,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-04-14T14:29:12.4391173+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 310,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 309,
+  "NumberOfAwards": 310,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1359,7 +1365,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1391,8 +1397,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2024-04-12T11:58:03.2010322+00:00",
+  "LastChanged": "2024-04-14T14:29:12.4391171+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:25.4610493+00:00",
-  "LastUpdate_Ratings": "2024-04-14T10:02:06.4899836+00:00",
+  "LastUpdate_Ratings": "2024-04-14T14:29:12.4391179+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:33.1570261+00:00"
 }

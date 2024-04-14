@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.16 (Ranked 1,043)  
+Rating: 4.16 (Ranked 1,044)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

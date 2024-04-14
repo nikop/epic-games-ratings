@@ -2,7 +2,7 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 245,
+  "Ranking_Rating": 244,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 985,
@@ -21725,10 +21725,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 400731,
       "NumberOfAwardsMax": 131624
+    },
+    {
+      "Time": "2024-04-14T14:28:03.8662491+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 400808,
+      "NumberOfAwardsMax": 131624
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 400731,
+  "NumberOfAwards": 400808,
   "NumberOfAwardsMax": 131624,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21748,7 +21754,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 30491
+      "Count": 30515
     },
     {
       "Text": "This game is Extremely Fun",
@@ -21772,13 +21778,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 27425
+      "Count": 27440
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27968
+      "Count": 27986
     },
     {
       "Text": "This game has Amazing Characters",
@@ -21790,7 +21796,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 28519
+      "Count": 28539
     },
     {
       "Text": "This game has a Creative Community",
@@ -21810,8 +21816,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2024-04-14T04:30:15.0910534+00:00",
+  "LastChanged": "2024-04-14T14:28:03.866249+00:00",
   "LastUpdate_AppInfo": "2024-04-07T14:58:01.7635481+00:00",
-  "LastUpdate_Ratings": "2024-04-14T07:51:11.606606+00:00",
+  "LastUpdate_Ratings": "2024-04-14T14:28:03.8662496+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:40.3247407+00:00"
 }

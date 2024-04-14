@@ -339,7 +339,7 @@ Completed: 121 (0.05%) (Ranked 384)
 | 2024-04-10 | 240,594 | 121 |
 ## Awards
 Max (Great for Beginners): 616  (Ranked 218)  
-Sum: 5,065 (Ranked 159)  
+Sum: 5,066 (Ranked 159)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -351,7 +351,7 @@ Diff (max vs sum): 59
 | This game has Challenging Combat | 519 |
 | This game is Highly Recommended | 512 |
 | This game is Relaxing | 507 |
-| This game has Quickly Understood Controls | 478 |
+| This game has Quickly Understood Controls | 479 |
 | This game has a Creative Community | 265 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -676,3 +676,4 @@ Diff (max vs sum): 59
 | 2024-04-07 | 4.67 | - | 616 | 5,063 |
 | 2024-04-08 | 4.67 | - | 616 | 5,064 |
 | 2024-04-11 | 4.67 | - | 616 | 5,065 |
+| 2024-04-14 | 4.67 | - | 616 | 5,066 |
