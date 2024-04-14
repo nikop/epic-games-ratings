@@ -2,7 +2,7 @@
   "ID": "ee62d03be61b4eafa0936b21d0961693",
   "Name": "Fuga: Melodies of Steel",
   "ProductSlug": "fuga-melodies-of-steel",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 630,
   "Ranking_PopularitySum": 630,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:24.441714+00:00",
@@ -31,6 +31,12 @@
     {
       "Time": "2024-03-08T16:57:48.7509104+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-14T23:03:27.3389325+00:00",
+      "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -51,8 +57,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:09.7024087+00:00",
   "FirstSeenRating": "2023-03-31T05:57:24.4417138+00:00",
-  "LastChanged": "2024-03-08T16:57:48.7509101+00:00",
+  "LastChanged": "2024-04-14T23:03:27.3389323+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:50.5649532+00:00",
-  "LastUpdate_Ratings": "2024-04-14T14:29:13.0421245+00:00",
+  "LastUpdate_Ratings": "2024-04-14T23:03:27.3389329+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:40.1199635+00:00"
 }

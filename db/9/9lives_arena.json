@@ -3,8 +3,8 @@
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
   "Ranking_Rating": 686,
-  "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 591,
+  "Ranking_Popularity": 630,
+  "Ranking_PopularitySum": 630,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -212,9 +212,8 @@
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30,
-  "NumberOfAwardsMax": 30,
-  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -3894,6 +3893,6 @@
   "LastChanged": "2024-03-22T05:58:01.4266739+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:34.2664967+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:14.1135678+00:00",
-  "LastUpdate_Ratings": "2024-04-14T19:29:52.5499472+00:00",
+  "LastUpdate_Ratings": "2024-04-14T23:06:25.4452123+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:34.2665176+00:00"
 }

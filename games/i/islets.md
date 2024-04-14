@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/islets-5f2670)  
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.72 (Ranked 196)  
+## Awards
+Max (Highly Recommended): 21  (Ranked 618)  
+Sum: 21 (Ranked 619)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -17,3 +24,4 @@ Rating: 4.72 (Ranked 196)
 | 2024-04-06 | 4.71 | 0 | 0 |
 | 2024-04-07 | 4.71 | 0 | 0 |
 | 2024-04-10 | 4.72 | 0 | 0 |
+| 2024-04-14 | 4.72 | 21 | 21 |

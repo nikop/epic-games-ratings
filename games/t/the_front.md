@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_front.json)  
 Rating: 4.08 (Ranked 1,086)  
 ## Awards
-Max (Competitive Players): 28  (Ranked 573)  
+Max (Competitive Players): 28  (Ranked 572)  
 Sum: 101 (Ranked 504)  
-Diff (max vs sum): 69  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |

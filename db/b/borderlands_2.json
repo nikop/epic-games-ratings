@@ -2,7 +2,7 @@
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
-  "Ranking_Rating": 141,
+  "Ranking_Rating": 140,
   "Ranking_Popularity": 24,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 985,
@@ -15345,10 +15345,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 43637,
       "NumberOfAwardsMax": 17438
+    },
+    {
+      "Time": "2024-04-14T23:03:44.0307708+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 43649,
+      "NumberOfAwardsMax": 17438
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43637,
+  "NumberOfAwards": 43649,
   "NumberOfAwardsMax": 17438,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -15368,7 +15374,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2854
+      "Count": 2856
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15380,19 +15386,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3426
+      "Count": 3428
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2855
+      "Count": 2857
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2675
+      "Count": 2676
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15404,7 +15410,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3220
+      "Count": 3225
     },
     {
       "Text": "This game is Relaxing",
@@ -15436,8 +15442,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2024-04-14T14:29:29.0167608+00:00",
+  "LastChanged": "2024-04-14T23:03:44.0307707+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:58.6464083+00:00",
-  "LastUpdate_Ratings": "2024-04-14T14:29:29.0167614+00:00",
+  "LastUpdate_Ratings": "2024-04-14T23:03:44.0307712+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:18.1486263+00:00"
 }

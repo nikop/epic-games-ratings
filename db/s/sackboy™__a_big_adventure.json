@@ -2,8 +2,8 @@
   "ID": "1b60f39de33b4902a8d5fa543b1fb628",
   "Name": "Sackboy\u2122: A Big Adventure",
   "ProductSlug": "sackboy-a-big-adventure",
-  "Ranking_Rating": 120,
-  "Ranking_Popularity": 570,
+  "Ranking_Rating": 140,
+  "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2022-11-01T17:31:11.1953565+00:00",
@@ -503,6 +503,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-04-14T23:05:44.6122111+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
@@ -547,8 +553,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T21:31:24.5822973+00:00",
   "FirstSeenRating": "2022-11-01T17:31:11.1953561+00:00",
-  "LastChanged": "2024-04-11T07:57:17.5395912+00:00",
+  "LastChanged": "2024-04-14T23:05:44.6122109+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:43.0685026+00:00",
-  "LastUpdate_Ratings": "2024-04-14T19:28:54.067335+00:00",
+  "LastUpdate_Ratings": "2024-04-14T23:05:44.6122115+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:45.8780824+00:00"
 }

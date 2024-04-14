@@ -2,7 +2,7 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 420,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 985,
@@ -18092,10 +18092,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 65412,
       "NumberOfAwardsMax": 23177
+    },
+    {
+      "Time": "2024-04-14T23:03:39.5312496+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 65447,
+      "NumberOfAwardsMax": 23177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65412,
+  "NumberOfAwards": 65447,
   "NumberOfAwardsMax": 23177,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -18121,13 +18127,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5131
+      "Count": 5139
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5401
+      "Count": 5408
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18145,13 +18151,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5106
+      "Count": 5114
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 5003
+      "Count": 5015
     },
     {
       "Text": "This game has a Kind Community",
@@ -18177,8 +18183,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2024-04-14T14:29:24.7826378+00:00",
+  "LastChanged": "2024-04-14T23:03:39.5312494+00:00",
   "LastUpdate_AppInfo": "2024-04-14T02:28:13.7530405+00:00",
-  "LastUpdate_Ratings": "2024-04-14T14:29:24.7826389+00:00",
+  "LastUpdate_Ratings": "2024-04-14T23:03:39.5312499+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:14.2784113+00:00"
 }

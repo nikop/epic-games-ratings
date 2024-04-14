@@ -1,7 +1,7 @@
 # My Lovely Wife
 [Store](https://store.epicgames.com/en-US/p/my-lovely-wife-bef07f)  
 [View Rawdata](../../db/m/my_lovely_wife.json)  
-Rating: 4.36 (Ranked 854)  
+Rating: 4.38 (Ranked 832)  
 Number of Ratings: 25  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -121,3 +121,4 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2022-11-25 | 4.41 | - | - | - |
 | 2022-11-29 | 4.36 | - | - | - |
 | 2023-03-31 | 4.36 | - | 0 | 0 |
+| 2024-04-14 | 4.38 | - | 0 | 0 |
