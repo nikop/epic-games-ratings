@@ -6935,10 +6935,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 9207,
       "NumberOfAwardsMax": 2945
+    },
+    {
+      "Time": "2024-04-14T19:28:18.528082+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 9221,
+      "NumberOfAwardsMax": 2945
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9207,
+  "NumberOfAwards": 9221,
   "NumberOfAwardsMax": 2945,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6970,13 +6976,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 718
+      "Count": 721
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 592
+      "Count": 593
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6994,13 +7000,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 639
+      "Count": 643
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 506
+      "Count": 508
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7012,7 +7018,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 544
+      "Count": 548
     }
   ],
   "EOS_Progressed": 0,
@@ -7027,8 +7033,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-04-14T03:49:04.0359384+00:00",
+  "LastChanged": "2024-04-14T19:28:18.5280818+00:00",
   "LastUpdate_AppInfo": "2024-04-10T07:57:18.0269791+00:00",
-  "LastUpdate_Ratings": "2024-04-14T10:04:11.4827823+00:00",
+  "LastUpdate_Ratings": "2024-04-14T19:28:18.5280823+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:24.3882364+00:00"
 }

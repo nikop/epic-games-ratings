@@ -321,9 +321,9 @@ Completed: 6 (0.11%) (Ranked 352)
 | 2024-04-05 | 5,452 | 6 |
 | 2024-04-10 | 5,469 | 6 |
 ## Awards
-Max (Highly Recommended): 36  (Ranked 534)  
-Sum: 254 (Ranked 433)  
-Diff (max vs sum): 101  
+Max (Highly Recommended): 36  (Ranked 535)  
+Sum: 255 (Ranked 433)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |
@@ -333,7 +333,7 @@ Diff (max vs sum): 101
 | This game has Quickly Understood Controls | 28 |
 | This game is Extremely Fun | 27 |
 | This game is Relaxing | 26 |
-| This game has Diverse Characters | 24 |
+| This game has Diverse Characters | 25 |
 | This game has Obsessive Gameplay | 22 |
 | This game has a Creative Community | 22 |
 | This game has Amazing Storytelling | 20 |
@@ -423,3 +423,4 @@ Diff (max vs sum): 101
 | 2024-03-18 | 4.54 | - | 36 | 254 |
 | 2024-03-29 | 4.55 | - | 36 | 254 |
 | 2024-04-05 | 4.54 | - | 36 | 254 |
+| 2024-04-14 | 4.54 | - | 36 | 255 |

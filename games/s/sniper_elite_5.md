@@ -362,8 +362,8 @@ Completed: 11 (0.24%) (Ranked 310)
 | 2024-03-21 | 4,549 | 11 |
 | 2024-04-10 | 4,620 | 11 |
 ## Awards
-Max (Great for Beginners): 43  (Ranked 511)  
-Sum: 43 (Ranked 562)  
+Max (Great for Beginners): 43  (Ranked 512)  
+Sum: 43 (Ranked 563)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |

@@ -8853,18 +8853,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 8016,
       "NumberOfAwardsMax": 925
+    },
+    {
+      "Time": "2024-04-14T19:28:31.2554546+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 8022,
+      "NumberOfAwardsMax": 927
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8016,
-  "NumberOfAwardsMax": 925,
+  "NumberOfAwards": 8022,
+  "NumberOfAwardsMax": 927,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 900
+      "Count": 901
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8876,7 +8882,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 925
+      "Count": 927
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8888,7 +8894,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 868
+      "Count": 870
     },
     {
       "Text": "This game is Educational",
@@ -8918,7 +8924,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 474
+      "Count": 475
     },
     {
       "Text": "This game has Unique Visuals",
@@ -8946,9 +8952,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-04-14T07:49:27.6286315+00:00",
+  "LastChanged": "2024-04-14T19:28:31.2554544+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:36.2994809+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:39.8569219+00:00",
-  "LastUpdate_Ratings": "2024-04-14T10:04:22.8529995+00:00",
+  "LastUpdate_Ratings": "2024-04-14T19:28:31.2554551+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:36.2994841+00:00"
 }

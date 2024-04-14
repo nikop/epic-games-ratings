@@ -2,7 +2,7 @@
   "ID": "6bff1c13a8884b518bd44acaf691ddba",
   "Name": "MudRunner",
   "ProductSlug": "mudrunner",
-  "Ranking_Rating": 419,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 985,
@@ -4451,10 +4451,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2181,
       "NumberOfAwardsMax": 333
+    },
+    {
+      "Time": "2024-04-14T19:28:58.7797204+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2182,
+      "NumberOfAwardsMax": 333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2181,
+  "NumberOfAwards": 2182,
   "NumberOfAwardsMax": 333,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4510,7 +4516,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 239
+      "Count": 240
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4536,8 +4542,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-04-14T07:49:50.0878141+00:00",
-  "LastUpdate_AppInfo": "2024-04-07T14:57:36.7821883+00:00",
-  "LastUpdate_Ratings": "2024-04-14T10:04:44.0603058+00:00",
+  "LastChanged": "2024-04-14T19:28:58.7797202+00:00",
+  "LastUpdate_AppInfo": "2024-04-14T19:25:57.4665549+00:00",
+  "LastUpdate_Ratings": "2024-04-14T19:28:58.7797208+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:14.9860173+00:00"
 }

@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/escape-academy-bfc2bf)  
 [View Rawdata](../../db/e/escape_academy.json)  
 Rating: 4.45 (Ranked 715)  
+## Awards
+Max (Challenging Puzzles): 55  (Ranked 482)  
+Sum: 55 (Ranked 546)  
+Diff (max vs sum): -64  
+| Award | Count |
+| ----- | ----- |
+| This game features Challenging Puzzles | 55 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -31,3 +38,4 @@ Rating: 4.45 (Ranked 715)
 | 2024-03-28 | 4.45 | 0 | 0 |
 | 2024-04-06 | 4.46 | 0 | 0 |
 | 2024-04-12 | 4.45 | 0 | 0 |
+| 2024-04-14 | 4.45 | 55 | 55 |

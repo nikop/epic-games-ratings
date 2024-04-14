@@ -2,8 +2,8 @@
   "ID": "7973ee6548ab4863a815a208f8721f4f",
   "Name": "GrandChase",
   "ProductSlug": "grandchase-c03eb2",
-  "Ranking_Rating": 206,
-  "Ranking_Popularity": 505,
+  "Ranking_Rating": 207,
+  "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -471,6 +471,6 @@
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
   "LastChanged": "2024-04-14T02:29:48.6731191+00:00",
   "LastUpdate_AppInfo": "2024-04-10T10:57:21.5172732+00:00",
-  "LastUpdate_Ratings": "2024-04-14T14:27:00.8520672+00:00",
+  "LastUpdate_Ratings": "2024-04-14T19:29:24.891631+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:47.5789464+00:00"
 }

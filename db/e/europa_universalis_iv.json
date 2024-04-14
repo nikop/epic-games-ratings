@@ -3,7 +3,7 @@
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
   "Ranking_Rating": 244,
-  "Ranking_Popularity": 55,
+  "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 455,
@@ -17791,30 +17791,36 @@
       "Rating": 4.69,
       "NumberOfAwards": 74352,
       "NumberOfAwardsMax": 9035
+    },
+    {
+      "Time": "2024-04-14T19:28:45.1582009+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 74456,
+      "NumberOfAwardsMax": 9057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 74352,
-  "NumberOfAwardsMax": 9035,
+  "NumberOfAwards": 74456,
+  "NumberOfAwardsMax": 9057,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 8671
+      "Count": 8688
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 8567
+      "Count": 8584
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 8969
+      "Count": 8981
     },
     {
       "Text": "This game is Extremely Fun",
@@ -17826,7 +17832,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 9035
+      "Count": 9057
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -17844,19 +17850,19 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 8198
+      "Count": 8214
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 7499
+      "Count": 7511
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6944
+      "Count": 6952
     },
     {
       "Text": "This game has Unique Visuals",
@@ -53411,9 +53417,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-04-14T10:04:33.9712946+00:00",
+  "LastChanged": "2024-04-14T19:28:45.1582008+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:40.1408172+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:41.7477569+00:00",
-  "LastUpdate_Ratings": "2024-04-14T10:04:33.9712952+00:00",
+  "LastUpdate_Ratings": "2024-04-14T19:28:45.1582014+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:40.1418904+00:00"
 }

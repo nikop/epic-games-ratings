@@ -3,7 +3,7 @@
   "Name": "Farlight 84",
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_Rating": 954,
-  "Ranking_Popularity": 477,
+  "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -1607,11 +1607,17 @@
       "Rating": 4.27,
       "NumberOfAwards": 402,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-04-14T19:27:56.8194501+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 405,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 402,
-  "NumberOfAwardsMax": 56,
+  "NumberOfAwards": 405,
+  "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1624,7 +1630,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 56
+      "Count": 58
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1666,7 +1672,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1687,8 +1693,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-04-14T10:03:54.5319859+00:00",
+  "LastChanged": "2024-04-14T19:27:56.8194499+00:00",
   "LastUpdate_AppInfo": "2024-04-10T02:14:18.1786689+00:00",
-  "LastUpdate_Ratings": "2024-04-14T10:03:54.5319863+00:00",
+  "LastUpdate_Ratings": "2024-04-14T19:27:56.8194505+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:38.4993537+00:00"
 }
