@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 486)  
+Rating: 4.57 (Ranked 508)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -335,14 +335,14 @@ Completed: 2 (0.02%) (Ranked 413)
 | 2024-04-10 | 9,230 | 2 |
 ## Awards
 Max (Diverse Characters): 48  (Ranked 501)  
-Sum: 412 (Ranked 379)  
+Sum: 413 (Ranked 379)  
 Diff (max vs sum): 122  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 48 |
 | This game has a Competitive Community | 45 |
+| This game is Highly Recommended | 42 |
 | This game has Realistic Visuals | 42 |
-| This game is Highly Recommended | 41 |
 | This game has Challenging Combat | 40 |
 | This game is Extremely Fun | 37 |
 | This game has Amazing Characters | 37 |
@@ -521,3 +521,4 @@ Diff (max vs sum): 122
 | 2024-03-30 | 4.58 | - | 48 | 407 |
 | 2024-04-06 | 4.58 | - | 48 | 408 |
 | 2024-04-10 | 4.58 | - | 48 | 412 |
+| 2024-04-14 | 4.57 | - | 48 | 413 |

@@ -2,7 +2,7 @@
   "ID": "d904c4f29bd541ac91a4ca4bb7cebde8",
   "Name": "Ouch! So many beauties!",
   "ProductSlug": "videogame-9ad7f5",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 629,
   "Ranking_EOS_Progress": 214,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2024-03-26T01:38:52.8302766+00:00",
@@ -142,6 +142,12 @@
     {
       "Time": "2024-04-13T15:01:28.5753677+00:00",
       "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-14T03:47:33.3472073+00:00",
+      "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -527,9 +533,9 @@
   "FirstSeen": "2024-03-22T06:00:07.0009039+00:00",
   "FirstSeenRating": "2024-03-26T01:38:52.8302764+00:00",
   "FirstSeenAchievements": "2024-03-21T17:12:00.7760315+00:00",
-  "LastChanged": "2024-04-13T15:01:28.5753675+00:00",
+  "LastChanged": "2024-04-14T03:47:33.3472071+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:45.5233376+00:00",
   "LastUpdate_AppInfo": "2024-04-13T09:57:05.6885173+00:00",
-  "LastUpdate_Ratings": "2024-04-13T23:59:40.171846+00:00",
+  "LastUpdate_Ratings": "2024-04-14T03:47:33.3472077+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:45.523361+00:00"
 }
