@@ -1,7 +1,7 @@
 # 2064: Read Only Memories
 [Store](https://store.epicgames.com/en-US/p/2064-read-only-memories)  
 [View Rawdata](../../db/2/2064__read_only_memories.json)  
-Rating: 4.24 (Ranked 980)  
+Rating: 4.24 (Ranked 981)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
