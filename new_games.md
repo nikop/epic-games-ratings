@@ -63,7 +63,7 @@
 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 2024-03-29 | 10 (1,000 XP) | 5 | - | - |
 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 19 | - | 0 |
 | [Purpose 1951](games/3/3014ec778f704b759762c548c37e4afd.md) | 2024-03-29 | - |  | - | 0 |
-| [Project Apidom](games/5/551b8ecaa91c4369b87dc68c131cd7ae.md) | 2024-03-29 | - |  | - | - |
+| [Project Apidom](games/5/551b8ecaa91c4369b87dc68c131cd7ae.md) | 2024-03-29 | - |  | - | 0 |
 | [CriticalOrb](games/1/12e1a3fb64044ffbbfa8fa94fa92b07c.md) | 2024-03-29 | - |  | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | 23 (1,000 XP) | 13 | - | 0 |
