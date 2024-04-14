@@ -10909,18 +10909,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 21355,
       "NumberOfAwardsMax": 11873
+    },
+    {
+      "Time": "2024-04-14T02:29:16.796+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 21400,
+      "NumberOfAwardsMax": 11907
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21355,
-  "NumberOfAwardsMax": 11873,
+  "NumberOfAwards": 21400,
+  "NumberOfAwardsMax": 11907,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 11873
+      "Count": 11907
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10944,13 +10950,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1110
+      "Count": 1117
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1127
+      "Count": 1129
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10962,7 +10968,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1071
+      "Count": 1073
     },
     {
       "Text": "This game has Amazing Characters",
@@ -25854,9 +25860,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2024-04-13T21:58:06.8909735+00:00",
+  "LastChanged": "2024-04-14T02:29:16.7959999+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:31.0219279+00:00",
-  "LastUpdate_AppInfo": "2024-04-07T01:44:12.4028501+00:00",
-  "LastUpdate_Ratings": "2024-04-13T23:00:34.1210087+00:00",
+  "LastUpdate_AppInfo": "2024-04-14T02:28:03.7106273+00:00",
+  "LastUpdate_Ratings": "2024-04-14T02:29:16.7960018+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:31.0220256+00:00"
 }
