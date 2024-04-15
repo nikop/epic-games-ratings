@@ -13,7 +13,7 @@
 | 11 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 165 | 2,344 |
 | 12 | [Tannenberg](games/t/tannenberg.md) | 120 | 152,090 |
 | 13 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 116 | 2,246 |
-| 14 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 89 | 6,008 |
+| 14 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 89 | 6,008 |
 | 15 | [Pacific Drive](games/p/pacific_drive.md) | 78 | 602 |
 | 16 | [Tropico 6](games/t/tropico_6.md) | 60 | 8,073 |
 | 17 | [Saturnalia](games/s/saturnalia.md) | 52 | 73,060 |
