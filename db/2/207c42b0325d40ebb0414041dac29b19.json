@@ -4,7 +4,7 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 375,
   "Ranking_Popularity": 97,
-  "Ranking_PopularitySum": 114,
+  "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -4049,10 +4049,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 9384,
       "NumberOfAwardsMax": 3955
+    },
+    {
+      "Time": "2024-04-15T05:57:59.5455573+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 9867,
+      "NumberOfAwardsMax": 3955
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9384,
+  "NumberOfAwards": 9867,
   "NumberOfAwardsMax": 3955,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4090,7 +4096,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 478
+      "Count": 483
     },
     {
       "Text": "This game is Relaxing",
@@ -4141,8 +4147,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-04-15T02:55:40.6980666+00:00",
+  "LastChanged": "2024-04-15T05:57:59.5455571+00:00",
   "LastUpdate_AppInfo": "2024-04-12T02:17:49.8937456+00:00",
-  "LastUpdate_Ratings": "2024-04-15T04:26:55.8789835+00:00",
+  "LastUpdate_Ratings": "2024-04-15T05:57:59.5455577+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:19.6082971+00:00"
 }
