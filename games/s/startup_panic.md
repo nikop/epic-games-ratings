@@ -1,7 +1,7 @@
 # Startup Panic
 [Store](https://store.epicgames.com/en-US/p/startup-panic)  
 [View Rawdata](../../db/s/startup_panic.json)  
-Rating: 4.27 (Ranked 954)  
+Rating: 4.26 (Ranked 960)  
 Number of Ratings: 28  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -36,3 +36,4 @@ Number of Ratings: 28  (23.09.2022)
 | 2024-01-15 | 4.34 | - | 0 | 0 |
 | 2024-01-27 | 4.31 | - | 0 | 0 |
 | 2024-03-14 | 4.27 | - | 0 | 0 |
+| 2024-04-15 | 4.26 | - | 0 | 0 |

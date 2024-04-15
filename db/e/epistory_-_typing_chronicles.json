@@ -2,7 +2,7 @@
   "ID": "6a6d54e5b4ef4fb0b3dad1d02a320376",
   "Name": "Epistory - Typing Chronicles",
   "ProductSlug": "epistory-typing-chronicles-445794",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 630,
   "Ranking_PopularitySum": 630,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-01-21T18:58:09.3863299+00:00",
@@ -307,6 +307,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-15T02:56:06.3537808+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -325,8 +331,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-19T18:58:26.8545883+00:00",
   "FirstSeenRating": "2023-01-21T18:58:09.3863297+00:00",
-  "LastChanged": "2024-04-06T23:59:25.4000789+00:00",
+  "LastChanged": "2024-04-15T02:56:06.3537806+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:37.6882368+00:00",
-  "LastUpdate_Ratings": "2024-04-14T19:31:44.3837534+00:00",
+  "LastUpdate_Ratings": "2024-04-15T02:56:06.3537811+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:13.4139144+00:00"
 }

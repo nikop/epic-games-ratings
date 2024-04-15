@@ -2,7 +2,7 @@
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 554,
   "Ranking_Popularity": 119,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 985,
@@ -8577,18 +8577,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 5853,
       "NumberOfAwardsMax": 2383
+    },
+    {
+      "Time": "2024-04-15T02:55:40.5004204+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 5869,
+      "NumberOfAwardsMax": 2391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5853,
-  "NumberOfAwardsMax": 2383,
+  "NumberOfAwards": 5869,
+  "NumberOfAwardsMax": 2391,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2383
+      "Count": 2391
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8600,13 +8606,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 389
+      "Count": 392
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 419
+      "Count": 420
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8630,13 +8636,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 398
+      "Count": 400
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 404
+      "Count": 406
     },
     {
       "Text": "This game has a Creative Community",
@@ -8663,8 +8669,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-04-14T10:01:03.2235483+00:00",
+  "LastChanged": "2024-04-15T02:55:40.5004203+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:31.3895312+00:00",
-  "LastUpdate_Ratings": "2024-04-14T19:31:10.4462967+00:00",
+  "LastUpdate_Ratings": "2024-04-15T02:55:40.5004208+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:13.4493579+00:00"
 }

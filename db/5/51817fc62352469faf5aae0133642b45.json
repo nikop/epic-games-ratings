@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_Rating": 902,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 469,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -773,10 +773,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 173,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-04-15T02:55:47.8124038+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 176,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 173,
+  "NumberOfAwards": 176,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -796,7 +802,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 39
     },
     {
       "Text": "This game is Relaxing",
@@ -823,8 +829,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-04-14T10:01:11.5813692+00:00",
+  "LastChanged": "2024-04-15T02:55:47.8124036+00:00",
   "LastUpdate_AppInfo": "2024-04-10T21:57:05.3929897+00:00",
-  "LastUpdate_Ratings": "2024-04-14T19:31:20.6542084+00:00",
+  "LastUpdate_Ratings": "2024-04-15T02:55:47.812404+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:43.7841392+00:00"
 }

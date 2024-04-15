@@ -4,7 +4,7 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1115,
   "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 455,
+  "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1297,10 +1297,16 @@
       "Rating": 3.96,
       "NumberOfAwards": 196,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-04-15T02:56:04.9687175+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196,
+  "NumberOfAwards": 197,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1332,7 +1338,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1359,8 +1365,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-04-13T05:59:43.9905364+00:00",
+  "LastChanged": "2024-04-15T02:56:04.9687174+00:00",
   "LastUpdate_AppInfo": "2024-04-12T18:57:12.6477333+00:00",
-  "LastUpdate_Ratings": "2024-04-14T19:31:42.4108977+00:00",
+  "LastUpdate_Ratings": "2024-04-15T02:56:04.9687178+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:14.1476615+00:00"
 }
