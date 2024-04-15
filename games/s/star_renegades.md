@@ -1,7 +1,7 @@
 # Star Renegades
 [Store](https://store.epicgames.com/en-US/p/star-renegades)  
 [View Rawdata](../../db/s/star_renegades.json)  
-Rating: 4.44 (Ranked 736)  
+Rating: 4.44 (Ranked 737)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
