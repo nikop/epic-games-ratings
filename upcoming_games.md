@@ -161,6 +161,7 @@
 | [Fata Deum](games/f/fata_deum.md) | 2024-12-31 | - |  | - | - |
 | [Flint - The Treasure of Oblivion](games/a/ae1a11a634df42feb2e6c28eea474260.md) | 2024-12-31 | - |  | - | - |
 | [Fragile Existence](games/f/fragile_existence.md) | 2024-12-31 | - |  | - | - |
+| [FusyFox](games/6/6308f89d537b47ea96dc02fb5a07518c.md) | 2024-12-31 | - |  | - | - |
 | [Genkai: Primal Awakening](games/6/631264786bda409f919dd1db541825a9.md) | 2024-12-31 | - |  | - | - |
 | [Grand Emprise: Time Travel Survival](games/f/f5e2b23815ac4da58630dc30656cd5ea.md) | 2024-12-31 | - |  | - | - |
 | [Hatone](games/8/81de567b4b2d489ab9571bf6bccdbc97.md) | 2024-12-31 | - |  | - | - |
