@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 149)
 Number of Ratings: 7,175  (23.09.2022)  
 ## Awards
 Max (Character Customization): 7,056  (Ranked 67)  
-Sum: 15,918 (Ranked 79)  
+Sum: 15,919 (Ranked 79)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +20,7 @@ Diff (max vs sum): -12
 | This game is Relaxing | 451 |
 | This game is Great for Beginners | 448 |
 | This game has Quickly Understood Controls | 439 |
-| This game has a Creative Community | 241 |
+| This game has a Creative Community | 242 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -469,4 +469,4 @@ Diff (max vs sum): -12
 | 2024-04-12 | 4.75 | - | 7,011 | 15,826 |
 | 2024-04-13 | 4.75 | - | 7,030 | 15,867 |
 | 2024-04-14 | 4.75 | - | 7,042 | 15,891 |
-| 2024-04-15 | 4.75 | - | 7,056 | 15,918 |
+| 2024-04-15 | 4.75 | - | 7,056 | 15,919 |
