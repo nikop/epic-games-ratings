@@ -2,6 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [The Nightmare Of Arrival Chapter1](games/6/641612914ff541fcb0e4813ee144777d.md) | 2024-04-15 | - |  | - | - |
 | [Unveiling](games/2/2320bcb2f9f3493bb15518639c01ad49.md) | 2024-04-15 | - |  | - | - |
+| [Warrior Lords](games/3/32a3518d649740a98e1ea26d6f887038.md) | 2024-04-16 | - |  | - | - |
 | [EMULATED: OpsRunner](games/7/7aa0633c4f714b949071394d35de89bf.md) | 2024-04-16 | - |  | - | - |
 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | - |  | - | - |
 | [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-18 | 42 (1,000 XP) | 1 | - | - |
