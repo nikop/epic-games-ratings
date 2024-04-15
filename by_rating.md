@@ -20,7 +20,7 @@
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 630 |
 | 19 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,707 | 140 |
 | 19 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 802 | 198 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.87 | 5,499 | 84 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.87 | 5,506 | 84 |
 | 19 | [Inscryption](games/i/inscryption.md) | 4.87 | 367 | 258 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,057 | 171 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 307,556 | 5 |
@@ -51,7 +51,7 @@
 | 43 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 14,957 | 31 |
 | 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 230 | 307 |
 | 43 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.84 | 0 | 630 |
-| 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 234 | 305 |
+| 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 236 | 304 |
 | 43 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 630 |
 | 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 630 |
 | 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,092 | 66 |
@@ -299,7 +299,7 @@
 | 290 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 987 | 179 |
 | 290 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 7,003 | 68 |
 | 290 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 337,391 | 4 |
-| 290 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 527 | 229 |
+| 290 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 528 | 229 |
 | 290 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 630 |
 | 290 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,375 | 120 |
 | 290 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 757 | 201 |
@@ -599,7 +599,7 @@
 | 584 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 630 |
 | 584 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 72 | 454 |
 | 584 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 557 | 227 |
-| 584 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,125 | 162 |
+| 584 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,126 | 162 |
 | 584 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 630 |
 | 584 | [Verdun](games/v/verdun.md) | 4.53 | 113 | 389 |
 | 584 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 0 | 630 |
@@ -621,7 +621,7 @@
 | 604 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.52 | 0 | 630 |
 | 620 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 170 | 349 |
 | 620 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,205 | 96 |
-| 620 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 304 |
+| 620 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 305 |
 | 620 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 630 |
 | 620 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 44,430 | 15 |
 | 620 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 158,629 | 8 |
@@ -1158,6 +1158,6 @@
 | 1,156 | [Adios](games/a/adios.md) | 3.58 | 0 | 630 |
 | 1,157 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.54 | 0 | 630 |
 | 1,158 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.45 | 101 | 401 |
-| 1,159 | [Operation New Earth](games/o/operation_new_earth.md) | 3.41 | 0 | 630 |
+| 1,159 | [Operation New Earth](games/o/operation_new_earth.md) | 3.36 | 0 | 630 |
 | 1,160 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.35 | 0 | 630 |
 | 1,161 | [Survive on Raft](games/s/survive_on_raft.md) | 3.34 | 0 | 630 |
