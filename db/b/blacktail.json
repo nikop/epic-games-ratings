@@ -2,7 +2,7 @@
   "ID": "a17cc66c3a3c4d75875febf281c73fd2",
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
-  "Ranking_Rating": 291,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 630,
   "Ranking_PopularitySum": 630,
   "Ranking_EOS_Progress": 344,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-02-16T16:57:44.5958536+00:00",
@@ -85,6 +85,12 @@
     {
       "Time": "2024-03-22T07:58:52.0343762+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-15T14:59:00.3045685+00:00",
+      "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3346,9 +3352,9 @@
   "FirstSeen": "2022-12-15T13:13:21.730409+00:00",
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
-  "LastChanged": "2024-03-22T07:58:52.034376+00:00",
+  "LastChanged": "2024-04-15T14:59:00.3045683+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:28.8422752+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:07.5407639+00:00",
-  "LastUpdate_Ratings": "2024-04-15T13:57:49.1442643+00:00",
+  "LastUpdate_Ratings": "2024-04-15T14:59:00.3045687+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:28.8423116+00:00"
 }

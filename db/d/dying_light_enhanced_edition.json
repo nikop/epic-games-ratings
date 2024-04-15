@@ -2,7 +2,7 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
   "ProductSlug": "dying-light",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 3,
@@ -18842,10 +18842,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 117261,
       "NumberOfAwardsMax": 59379
+    },
+    {
+      "Time": "2024-04-15T14:57:38.4500024+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 117270,
+      "NumberOfAwardsMax": 59379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 117261,
+  "NumberOfAwards": 117270,
   "NumberOfAwardsMax": 59379,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18889,7 +18895,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3523
+      "Count": 3532
     },
     {
       "Text": "This game is Extremely Fun",
@@ -52143,9 +52149,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
-  "LastChanged": "2024-04-15T11:58:00.5907399+00:00",
+  "LastChanged": "2024-04-15T14:57:38.4500022+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:10.1984298+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:34.2648686+00:00",
-  "LastUpdate_Ratings": "2024-04-15T12:59:31.9411112+00:00",
+  "LastUpdate_Ratings": "2024-04-15T14:57:38.4500028+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:10.1986473+00:00"
 }
