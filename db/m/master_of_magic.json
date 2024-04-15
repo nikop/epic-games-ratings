@@ -2,7 +2,7 @@
   "ID": "138f49a79acc42f2bbc9bde86ad33b75",
   "Name": "Master of Magic",
   "ProductSlug": "master-of-magic",
-  "Ranking_Rating": 290,
+  "Ranking_Rating": 291,
   "Ranking_Popularity": 630,
   "Ranking_PopularitySum": 630,
   "Ranking_EOS_Progress": 985,
@@ -77,6 +77,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.5096649+00:00",
   "LastChanged": "2024-04-01T14:59:29.2211944+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:18.9558963+00:00",
-  "LastUpdate_Ratings": "2024-04-15T08:57:29.9192192+00:00",
+  "LastUpdate_Ratings": "2024-04-15T09:59:02.8113606+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:44.7155641+00:00"
 }
