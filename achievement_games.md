@@ -699,7 +699,7 @@
 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 2023-03-09 | 21 (1,000 XP) | 203 | - | 0 |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 2023-03-07 | 27 (1,000 XP) | 1,621 | 4.33 | 0 |
 | [Rogue Spirit](games/r/rogue_spirit.md) | 2023-03-07 | 60 (1,000 XP) | 37 | - | 0 |
-| [Sniper Elite 5](games/s/sniper_elite_5.md) | 2023-03-07 | 71 (1,705 XP) | 4,620 | 4.48 | 43 |
+| [Sniper Elite 5](games/s/sniper_elite_5.md) | 2023-03-07 | 71 (1,705 XP) | 4,620 | 4.49 | 43 |
 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 2023-02-28 | 24 (1,000 XP) | 1,780 | - | 0 |
 | [Voltaire: The Vegan Vampire](games/v/voltaire__the_vegan_vampire.md) | 2023-02-27 | 31 (1,000 XP) | 147 | - | 0 |
 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 2023-02-23 | 40 (1,000 XP) | 1,341 | 4.57 | 0 |
