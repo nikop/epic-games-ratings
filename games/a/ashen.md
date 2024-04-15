@@ -1,12 +1,12 @@
 # Ashen
 [Store](https://store.epicgames.com/en-US/p/ashen)  
 [View Rawdata](../../db/a/ashen.json)  
-Rating: 4.33 (Ranked 890)  
+Rating: 4.33 (Ranked 891)  
 Number of Ratings: 111  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 610)  
-Sum: 22 (Ranked 613)  
-Diff (max vs sum): -3  
+Sum: 22 (Ranked 614)  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 25 |

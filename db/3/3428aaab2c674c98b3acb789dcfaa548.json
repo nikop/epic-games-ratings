@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-new-vegas",
   "Ranking_Rating": 243,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 58,
+  "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 53,
@@ -14205,10 +14205,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 27460,
       "NumberOfAwardsMax": 8915
+    },
+    {
+      "Time": "2024-04-15T04:25:40.0404588+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 27496,
+      "NumberOfAwardsMax": 8915
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27460,
+  "NumberOfAwards": 27496,
   "NumberOfAwardsMax": 8915,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14222,7 +14228,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5254
+      "Count": 5273
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14240,7 +14246,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1383
+      "Count": 1390
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14282,7 +14288,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2256
+      "Count": 2266
     }
   ],
   "EOS_Progressed": 935956,
@@ -44048,9 +44054,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-04-14T23:06:13.1359724+00:00",
+  "LastChanged": "2024-04-15T04:25:40.0404586+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.6001653+00:00",
   "LastUpdate_AppInfo": "2024-04-12T22:57:15.8982459+00:00",
-  "LastUpdate_Ratings": "2024-04-14T23:06:13.135973+00:00",
+  "LastUpdate_Ratings": "2024-04-15T04:25:40.0404592+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.6003221+00:00"
 }

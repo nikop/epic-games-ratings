@@ -2,7 +2,7 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 293,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 141,
@@ -2801,10 +2801,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 1571,
       "NumberOfAwardsMax": 256
+    },
+    {
+      "Time": "2024-04-15T04:27:24.8863339+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1575,
+      "NumberOfAwardsMax": 256
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1571,
+  "NumberOfAwards": 1575,
   "NumberOfAwardsMax": 256,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2860,7 +2866,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 162
+      "Count": 166
     },
     {
       "Text": "This game has Amazing Characters",
@@ -16759,9 +16765,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-04-15T02:56:05.8701202+00:00",
+  "LastChanged": "2024-04-15T04:27:24.8863336+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:49.1730904+00:00",
   "LastUpdate_AppInfo": "2024-04-10T02:14:17.0637074+00:00",
-  "LastUpdate_Ratings": "2024-04-15T02:56:05.8701208+00:00",
+  "LastUpdate_Ratings": "2024-04-15T04:27:24.8863342+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:49.173211+00:00"
 }
