@@ -49,7 +49,7 @@
 | 43 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 54 | 485 |
 | 43 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 474 | 240 |
 | 43 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 14,963 | 31 |
-| 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 230 | 307 |
+| 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 231 | 307 |
 | 43 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.84 | 0 | 630 |
 | 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 236 | 304 |
 | 43 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 630 |
@@ -475,7 +475,7 @@
 | 465 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 42 | 515 |
 | 465 | [NORCO](games/n/norco.md) | 4.59 | 0 | 630 |
 | 465 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 0 | 630 |
-| 465 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 230 | 307 |
+| 465 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 230 | 308 |
 | 465 | [Tails of Iron](games/t/tails_of_iron.md) | 4.59 | 21 | 618 |
 | 465 | [The Invincible](games/t/the_invincible.md) | 4.59 | 0 | 630 |
 | 465 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 31 | 557 |
@@ -544,7 +544,7 @@
 | 533 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 41 | 521 |
 | 533 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 630 |
 | 533 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,756 | 90 |
-| 533 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 9,362 | 52 |
+| 533 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 9,371 | 52 |
 | 533 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,860 | 133 |
 | 533 | [Returnal™](games/r/returnal™.md) | 4.56 | 217 | 315 |
 | 533 | [RiME](games/r/rime.md) | 4.56 | 0 | 630 |

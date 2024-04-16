@@ -51,7 +51,7 @@
 | 49 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,865 | 4.50 | 637 |
 | 50 | [Control](games/c/control.md) | 9,422 | 4.61 | 420 |
 | 51 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,394 | 4.69 | 244 |
-| 52 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,362 | 4.56 | 533 |
+| 52 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,371 | 4.56 | 533 |
 | 53 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 9,208 | 4.01 | 1,105 |
 | 54 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,064 | 4.69 | 244 |
 | 55 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,060 | 4.74 | 164 |
@@ -306,8 +306,8 @@
 | 304 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 236 | 4.84 | 43 |
 | 305 | [Crying Suns](games/c/crying_suns.md) | 235 | 4.51 | 620 |
 | 306 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 232 | 4.65 | 336 |
-| 307 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 230 | 4.84 | 43 |
-| 307 | [Sunless Sea](games/s/sunless_sea.md) | 230 | 4.59 | 465 |
+| 307 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 231 | 4.84 | 43 |
+| 308 | [Sunless Sea](games/s/sunless_sea.md) | 230 | 4.59 | 465 |
 | 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 227 | 4.57 | 508 |
 | 309 | [HITMAN](games/h/hitman.md) | 227 | 4.63 | 375 |
 | 309 | [Pinball FX](games/p/pinball_fx.md) | 227 | 4.07 | 1,092 |
