@@ -1,7 +1,7 @@
 # Disciples: Liberation
 [Store](https://store.epicgames.com/en-US/p/disciples-liberation)  
 [View Rawdata](../../db/d/disciples__liberation.json)  
-Rating: 4.34 (Ranked 881)  
+Rating: 4.34 (Ranked 882)  
 Number of Ratings: 145  (23.09.2022)  
 ## Awards
 | Award | Count |

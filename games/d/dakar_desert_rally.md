@@ -4,7 +4,7 @@
 Rating: 3.95 (Ranked 1,120)  
 ## Awards
 Max (Highly Recommended): 103  (Ranked 400)  
-Sum: 674 (Ranked 334)  
+Sum: 675 (Ranked 334)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 66
 | This game is Extremely Fun | 86 |
 | This game has Realistic Visuals | 85 |
 | This game has Competitive Players | 84 |
-| This game has Amazing Storytelling | 80 |
+| This game has Amazing Storytelling | 81 |
 | This game has a Competitive Community | 79 |
 | This game has Quickly Understood Controls | 78 |
 | This game has Amazing Characters | 76 |
@@ -160,4 +160,4 @@ Diff (max vs sum): 66
 | 2024-04-13 | 3.95 | 100 | 743 |
 | 2024-04-14 | 3.96 | 100 | 746 |
 | 2024-04-15 | 3.95 | 103 | 749 |
-| 2024-04-16 | 3.95 | 103 | 674 |
+| 2024-04-16 | 3.95 | 103 | 675 |
