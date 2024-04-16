@@ -2,7 +2,7 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 244,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 245,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 111,
   "RatingHistory": [
     {
@@ -1713,6 +1713,12 @@
     {
       "Time": "2024-04-15T10:58:11.1641342+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 677,
+      "NumberOfAwardsMax": 74
+    },
+    {
+      "Time": "2024-04-16T10:59:28.9370728+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 677,
       "NumberOfAwardsMax": 74
     }
@@ -9045,9 +9051,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2024-04-15T10:58:11.164134+00:00",
+  "LastChanged": "2024-04-16T10:59:28.9370726+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:09.3226281+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:10.3341274+00:00",
-  "LastUpdate_Ratings": "2024-04-16T09:58:25.3535899+00:00",
+  "LastUpdate_Ratings": "2024-04-16T10:59:28.9370731+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:09.32268+00:00"
 }
