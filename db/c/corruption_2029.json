@@ -3,8 +3,8 @@
   "Name": "CORRUPTION 2029",
   "ProductSlug": "corruption-2029",
   "Ranking_Rating": 1123,
-  "Ranking_Popularity": 630,
-  "Ranking_PopularitySum": 630,
+  "Ranking_Popularity": 629,
+  "Ranking_PopularitySum": 629,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -251,6 +251,6 @@
   "FirstSeenRating": "2022-10-10T12:30:41.7210732+00:00",
   "LastChanged": "2024-04-15T04:24:56.3885644+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:25:49.6294019+00:00",
-  "LastUpdate_Ratings": "2024-04-16T14:57:40.4366444+00:00",
+  "LastUpdate_Ratings": "2024-04-16T16:00:31.2863455+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:14.3316081+00:00"
 }
