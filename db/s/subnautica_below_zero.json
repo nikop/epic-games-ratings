@@ -3,7 +3,7 @@
   "Name": "Subnautica Below Zero",
   "ProductSlug": "subnautica-below-zero",
   "Ranking_Rating": 121,
-  "Ranking_Popularity": 345,
+  "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -2317,10 +2317,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1287,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2024-04-16T14:59:57.8018672+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1288,
+      "NumberOfAwardsMax": 173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1287,
+  "NumberOfAwards": 1288,
   "NumberOfAwardsMax": 173,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2346,7 +2352,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 140
+      "Count": 141
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2396,8 +2402,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2024-04-15T02:56:11.4220905+00:00",
+  "LastChanged": "2024-04-16T14:59:57.8018671+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:38.7862537+00:00",
-  "LastUpdate_Ratings": "2024-04-16T13:59:08.6683547+00:00",
+  "LastUpdate_Ratings": "2024-04-16T14:59:57.8018675+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:09.2438355+00:00"
 }
