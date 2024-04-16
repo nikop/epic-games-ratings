@@ -4,7 +4,7 @@
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 760,
   "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1207,10 +1207,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 295,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-04-16T17:57:52.4879227+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 295,
+  "NumberOfAwards": 296,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1266,7 +1272,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 27
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -1289,9 +1295,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2024-04-16T14:58:12.613823+00:00",
+  "LastChanged": "2024-04-16T17:57:52.4879225+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:34.6898794+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:07.3486119+00:00",
-  "LastUpdate_Ratings": "2024-04-16T16:01:15.824811+00:00",
+  "LastUpdate_Ratings": "2024-04-16T17:57:52.4879231+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:34.6898861+00:00"
 }
