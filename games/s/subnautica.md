@@ -1,16 +1,16 @@
 # Subnautica
 [Store](https://store.epicgames.com/en-US/p/subnautica)  
 [View Rawdata](../../db/s/subnautica.json)  
-Rating: 4.85 (Ranked 36)  
+Rating: 4.85 (Ranked 35)  
 Number of Ratings: 7,928  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 856  (Ranked 192)  
-Sum: 6,505 (Ranked 143)  
+Sum: 6,506 (Ranked 143)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 856 |
-| This game has Amazing Storytelling | 801 |
+| This game has Amazing Storytelling | 802 |
 | This game is Highly Recommended | 795 |
 | This game has Quickly Understood Controls | 761 |
 | This game is Extremely Fun | 750 |
@@ -467,3 +467,4 @@ Diff (max vs sum): 49
 | 2024-04-13 | 4.85 | - | 854 | 6,495 |
 | 2024-04-14 | 4.85 | - | 856 | 6,502 |
 | 2024-04-15 | 4.85 | - | 856 | 6,505 |
+| 2024-04-16 | 4.85 | - | 856 | 6,506 |

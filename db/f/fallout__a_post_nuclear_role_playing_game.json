@@ -2,9 +2,9 @@
   "ID": "2e412cfcbd954e7180930e9784a47e18",
   "Name": "Fallout: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout",
-  "Ranking_Rating": 397,
-  "Ranking_Popularity": 362,
-  "Ranking_PopularitySum": 482,
+  "Ranking_Rating": 419,
+  "Ranking_Popularity": 360,
+  "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2022-10-28T01:33:28.7432566+00:00",
@@ -719,18 +719,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 143,
       "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2024-04-16T16:58:35.482585+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 146,
+      "NumberOfAwardsMax": 146
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143,
-  "NumberOfAwardsMax": 143,
+  "NumberOfAwards": 146,
+  "NumberOfAwardsMax": 146,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 143
+      "Count": 146
     }
   ],
   "EOS_Progressed": 0,
@@ -745,8 +751,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2024-04-15T14:57:47.1197414+00:00",
+  "LastChanged": "2024-04-16T16:58:35.4825849+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:26:44.2276429+00:00",
-  "LastUpdate_Ratings": "2024-04-16T14:59:41.3112877+00:00",
+  "LastUpdate_Ratings": "2024-04-16T16:58:35.4825855+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:17.7028799+00:00"
 }
