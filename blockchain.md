@@ -11,6 +11,7 @@
 | [Battle Leet](games/6/68b61ac6800241caa70393fda6da575d.md) | 2099-01-01 | - |  | - | - |
 | [Calamity](games/6/605c18826d4048e7902d410f98e219ac.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
+| [Eternis: Death Match](games/5/51abbee6f2614168aa603f3ab1b8f2ad.md) | 2099-01-01 | - |  | - | - |
 | [Golden Tides](games/2/260d3867eaa144fe9b0cd339fdb1b6ab.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
 | [KIRAVERSE](games/9/90f2ff8eb85a4730a0ed66e6e38754c4.md) | 2099-01-01 | - |  | - | - |

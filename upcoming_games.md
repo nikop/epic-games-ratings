@@ -332,6 +332,7 @@
 | [Entropic Decay](games/6/634b4057b29d483a9f3d6541b362f681.md) | 2099-01-01 | - |  | - | - |
 | [Esophaguys](games/b/b98c4f25fa904256935d834da1462c2e.md) | 2099-01-01 | - |  | - | - |
 | [Eternal Damnation](games/f/f804fcc3063f467699936dbd544d9e9a.md) | 2099-01-01 | - |  | - | - |
+| [Eternis: Death Match](games/5/51abbee6f2614168aa603f3ab1b8f2ad.md) | 2099-01-01 | - |  | - | - |
 | [Eternity Convergence](games/e/eternity_convergence.md) | 2099-01-01 | - |  | - | - |
 | [Eternium](games/7/7957c388e44f4467a33496ce06d11020.md) | 2099-01-01 | - |  | - | - |
 | [Everholm](games/e/everholm.md) | 2099-01-01 | - |  | - | - |
