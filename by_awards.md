@@ -173,7 +173,7 @@
 | 171 | [Ooblets](games/o/ooblets.md) | 1,057 | 4.87 | 19 |
 | 172 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,045 | 4.24 | 981 |
 | 172 | [Riders Republic](games/r/riders_republic.md) | 1,045 | 4.75 | 150 |
-| 174 | [Sonic Mania](games/s/sonic_mania.md) | 1,013 | 4.77 | 120 |
+| 174 | [Sonic Mania](games/s/sonic_mania.md) | 1,014 | 4.77 | 120 |
 | 175 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,012 | 4.31 | 915 |
 | 176 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 992 |
 | 177 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,005 | 4.80 | 90 |
@@ -220,9 +220,9 @@
 | 218 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 617 | 4.67 | 290 |
 | 219 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 616 | 4.61 | 420 |
 | 220 | [Godfall Ultimate Edition](games/g/godfall.md) | 614 | 4.06 | 1,096 |
-| 221 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 609 | 4.33 | 892 |
+| 221 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 609 | 4.33 | 893 |
 | 222 | [Vampyr](games/v/vampyr.md) | 606 | 4.32 | 905 |
-| 223 | [Filament](games/f/filament.md) | 597 | 4.33 | 892 |
+| 223 | [Filament](games/f/filament.md) | 597 | 4.33 | 893 |
 | 224 | [Surviving Mars](games/s/surviving_mars.md) | 591 | 4.61 | 420 |
 | 225 | [Severed Steel](games/s/severed_steel.md) | 587 | 4.69 | 244 |
 | 226 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 574 | 4.40 | 799 |
@@ -290,11 +290,11 @@
 | 288 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 277 | 4.44 | 737 |
 | 288 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 277 | 4.58 | 487 |
 | 290 | [Crysis Remastered](games/c/crysis_remastered.md) | 273 | 4.43 | 759 |
+| 291 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 258 | 4.22 | 1,001 |
 | 291 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 258 | 4.69 | 244 |
-| 292 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 257 | 4.37 | 846 |
-| 292 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 257 | 4.41 | 785 |
-| 294 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 256 | 4.22 | 1,001 |
-| 295 | [Stranded Deep](games/s/stranded_deep.md) | 254 | 4.23 | 992 |
+| 293 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 257 | 4.37 | 846 |
+| 293 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 257 | 4.41 | 785 |
+| 295 | [Stranded Deep](games/s/stranded_deep.md) | 255 | 4.23 | 992 |
 | 296 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 249 | 4.52 | 604 |
 | 297 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 246 | 4.40 | 799 |
 | 298 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 244 | 4.55 | 554 |
@@ -384,7 +384,7 @@
 | 381 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 121 | 4.79 | 99 |
 | 383 | [Faeria](games/f/faeria.md) | 119 | 4.45 | 716 |
 | 384 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 117 | 4.44 | 737 |
-| 384 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 117 | 4.33 | 892 |
+| 384 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 117 | 4.33 | 893 |
 | 384 | [Tropico 6](games/t/tropico_6.md) | 117 | 4.65 | 336 |
 | 387 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 114 | 4.50 | 637 |
 | 387 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 114 | 4.74 | 164 |
@@ -609,7 +609,7 @@
 | 606 | [Griftlands](games/g/griftlands.md) | 23 | 4.79 | 99 |
 | 606 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 23 | 4.06 | 1,096 |
 | 606 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 23 | 4.87 | 19 |
-| 610 | [Ashen](games/a/ashen.md) | 22 | 4.33 | 892 |
+| 610 | [Ashen](games/a/ashen.md) | 22 | 4.33 | 893 |
 | 610 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 554 |
 | 610 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 974 |
 | 610 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.14 | 1,061 |

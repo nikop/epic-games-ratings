@@ -85,7 +85,7 @@
 | [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-21 | 23 (1,000 XP) | 62 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 14 | - | 0 |
 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.79 | 179 |
-| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 7,918 | 4.33 | 0 |
+| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 7,918 | 4.34 | 0 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | 0 |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 6 | - | 0 |
 | [Dreadful River](games/0/01c515c1f28547ab8142678d107be081.md) | 2024-03-19 | 110 (1,000 XP) | 11 | - | 0 |
@@ -430,7 +430,7 @@
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 4,112 | 4.21 | 31 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2023-08-20 | 21 (1,000 XP) | 2 | - | 0 |
-| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 14,014 | 4.22 | 256 |
+| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 14,014 | 4.22 | 258 |
 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 1,776 | - | 0 |
 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 1,771 | 4.84 | 0 |
 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2023-08-17 | 68 (1,000 XP) | 77 | - | 0 |

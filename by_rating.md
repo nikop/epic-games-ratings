@@ -132,7 +132,7 @@
 | 120 | [Quake](games/q/quake.md) | 4.77 | 53 | 488 |
 | 120 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.77 | 34 | 543 |
 | 120 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 630 |
-| 120 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,013 | 174 |
+| 120 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,014 | 174 |
 | 120 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 630 |
 | 120 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.77 | 0 | 630 |
 | 120 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 173 | 345 |
@@ -791,7 +791,7 @@
 | 785 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 4.41 | 0 | 630 |
 | 785 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.41 | 0 | 630 |
 | 785 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 630 |
-| 785 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.41 | 257 | 292 |
+| 785 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.41 | 257 | 293 |
 | 785 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,293 | 121 |
 | 785 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 73 | 452 |
 | 785 | [Sheltered](games/s/sheltered.md) | 4.41 | 287 | 284 |
@@ -850,7 +850,7 @@
 | 846 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,175 | 123 |
 | 846 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 627 |
 | 846 | [MORDHAU](games/m/mordhau.md) | 4.37 | 1,580 | 143 |
-| 846 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.37 | 257 | 292 |
+| 846 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.37 | 257 | 293 |
 | 846 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.37 | 0 | 630 |
 | 846 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.37 | 0 | 630 |
 | 846 | [Tacoma](games/t/tacoma.md) | 4.37 | 0 | 630 |
@@ -888,22 +888,22 @@
 | 881 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 52 | 495 |
 | 881 | [Flatout](games/f/flatout.md) | 4.34 | 0 | 630 |
 | 881 | [House Party](games/h/house_party.md) | 4.34 | 0 | 630 |
+| 881 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.34 | 0 | 630 |
 | 881 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.34 | 0 | 630 |
 | 881 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 630 |
 | 881 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.34 | 36 | 535 |
-| 892 | [Among Trees](games/a/among_trees.md) | 4.33 | 0 | 630 |
-| 892 | [Ashen](games/a/ashen.md) | 4.33 | 22 | 610 |
-| 892 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 630 |
-| 892 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 630 |
-| 892 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 630 |
-| 892 | [Filament](games/f/filament.md) | 4.33 | 597 | 223 |
-| 892 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.33 | 0 | 630 |
-| 892 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 117 | 384 |
-| 892 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.33 | 0 | 630 |
-| 892 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.33 | 0 | 630 |
-| 892 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 630 |
-| 892 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 630 |
-| 892 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 609 | 221 |
+| 893 | [Among Trees](games/a/among_trees.md) | 4.33 | 0 | 630 |
+| 893 | [Ashen](games/a/ashen.md) | 4.33 | 22 | 610 |
+| 893 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 630 |
+| 893 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 630 |
+| 893 | [Dark Light](games/d/dark_light.md) | 4.33 | 0 | 630 |
+| 893 | [Filament](games/f/filament.md) | 4.33 | 597 | 223 |
+| 893 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.33 | 0 | 630 |
+| 893 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 117 | 384 |
+| 893 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.33 | 0 | 630 |
+| 893 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 630 |
+| 893 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 630 |
+| 893 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.33 | 609 | 221 |
 | 905 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 425 | 249 |
 | 905 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.32 | 42 | 515 |
 | 905 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.32 | 109 | 392 |
@@ -998,11 +998,11 @@
 | 992 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 176 |
 | 992 | [Men of War](games/m/men_of_war.md) | 4.23 | 0 | 630 |
 | 992 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 630 |
-| 992 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 254 | 295 |
+| 992 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 255 | 295 |
 | 992 | [The Fall](games/t/the_fall.md) | 4.23 | 0 | 630 |
 | 1,001 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.22 | 85 | 429 |
 | 1,001 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 630 |
-| 1,001 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.22 | 256 | 294 |
+| 1,001 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.22 | 258 | 291 |
 | 1,001 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.22 | 36 | 535 |
 | 1,001 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.22 | 101 | 402 |
 | 1,001 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 170 | 349 |

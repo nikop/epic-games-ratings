@@ -38,7 +38,7 @@
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 14 | - | 0 |
 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2024-03-06 | 5 (1,000 XP) | 2 | - | 0 |
 | [Revival: Recolonization](games/4/4ccef3d9b96a4839ab46a6e83ddc6e61.md) | 2024-04-11 | 32 (1,000 XP) | 1 | - | 0 |
-| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 7,918 | 4.33 | 0 |
+| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 7,918 | 4.34 | 0 |
 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 2024-03-12 | 34 (1,000 XP) | 1 | - | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Stories from the Outbreak](games/5/54b2781b490444debc7739e562b05291.md) | 2024-03-14 | 37 (1,000 XP) | 5 | - | 0 |
@@ -382,7 +382,7 @@
 | [The Crackpet Show: Happy Tree Friends Edition](games/a/ab4adb59faed46819e63d82b57197b2b.md) | 2023-09-27 | 82 (1,000 XP) | 27 | - | 0 |
 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 2023-09-21 | 80 (1,000 XP) | 444 | 4.45 | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 454,796 | - | 0 |
-| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 14,014 | 4.22 | 256 |
+| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 14,014 | 4.22 | 258 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 4,319 | - | 0 |
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 55,690 | 4.50 | 11,966 |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.23 | 12,045 |
