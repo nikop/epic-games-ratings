@@ -4,7 +4,7 @@
   "ProductSlug": "mtg-arena",
   "Ranking_Rating": 716,
   "Ranking_Popularity": 34,
-  "Ranking_PopularitySum": 20,
+  "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -20240,18 +20240,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 108182,
       "NumberOfAwardsMax": 14039
+    },
+    {
+      "Time": "2024-04-15T23:57:44.2244349+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 108200,
+      "NumberOfAwardsMax": 14057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 108182,
-  "NumberOfAwardsMax": 14039,
+  "NumberOfAwards": 108200,
+  "NumberOfAwardsMax": 14057,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 14039
+      "Count": 14057
     },
     {
       "Text": "This game has Competitive Players",
@@ -20325,8 +20331,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-04-15T20:59:25.9393147+00:00",
+  "LastChanged": "2024-04-15T23:57:44.2244347+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:25:27.224885+00:00",
-  "LastUpdate_Ratings": "2024-04-15T21:59:44.0345297+00:00",
+  "LastUpdate_Ratings": "2024-04-15T23:57:44.2244353+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:42.3016452+00:00"
 }
