@@ -5,8 +5,8 @@ Rating: 4.52 (Ranked 604)
 Number of Ratings: 1,793  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 136  (Ranked 365)  
-Sum: 821 (Ranked 312)  
-Diff (max vs sum): 53  
+Sum: 822 (Ranked 311)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 136 |
@@ -14,7 +14,7 @@ Diff (max vs sum): 53
 | This game is Relaxing | 116 |
 | This game is Extremely Fun | 103 |
 | This game is Highly Recommended | 101 |
-| This game has Amazing Characters | 93 |
+| This game has Amazing Characters | 94 |
 | This game has Amazing Storytelling | 87 |
 | This game has Obsessive Gameplay | 63 |
 | This game has Unique Visuals | 56 |
@@ -198,3 +198,4 @@ Diff (max vs sum): 53
 | 2024-04-03 | 4.52 | - | 136 | 818 |
 | 2024-04-07 | 4.52 | - | 136 | 819 |
 | 2024-04-14 | 4.52 | - | 136 | 821 |
+| 2024-04-16 | 4.52 | - | 136 | 822 |
