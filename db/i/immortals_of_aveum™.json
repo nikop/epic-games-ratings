@@ -2,7 +2,7 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 1008,
+  "Ranking_Rating": 1015,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 244,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -743,6 +743,12 @@
     {
       "Time": "2024-04-15T21:57:15.9959203+00:00",
       "Rating": 4.21,
+      "NumberOfAwards": 157,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-04-16T20:58:22.8262909+00:00",
+      "Rating": 4.2,
       "NumberOfAwards": 157,
       "NumberOfAwardsMax": 31
     }
@@ -6918,9 +6924,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2024-04-15T21:57:15.9959201+00:00",
+  "LastChanged": "2024-04-16T20:58:22.8262907+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:31.2443716+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:17.5685755+00:00",
-  "LastUpdate_Ratings": "2024-04-16T19:00:00.3940993+00:00",
+  "LastUpdate_Ratings": "2024-04-16T20:58:22.8262913+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:31.2444304+00:00"
 }
