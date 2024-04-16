@@ -6481,10 +6481,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 39785,
       "NumberOfAwardsMax": 12045
+    },
+    {
+      "Time": "2024-04-16T04:59:16.8058392+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 39849,
+      "NumberOfAwardsMax": 12045
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39785,
+  "NumberOfAwards": 39849,
   "NumberOfAwardsMax": 12045,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6492,7 +6498,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4438
+      "Count": 4502
     },
     {
       "Text": "This game has Diverse Characters",
@@ -21811,9 +21817,9 @@
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2024-04-15T21:58:57.9113296+00:00",
+  "LastChanged": "2024-04-16T04:59:16.805839+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:30.789406+00:00",
   "LastUpdate_AppInfo": "2024-04-12T17:57:09.7409309+00:00",
-  "LastUpdate_Ratings": "2024-04-16T03:58:17.8214652+00:00",
+  "LastUpdate_Ratings": "2024-04-16T04:59:16.8058409+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:30.7894844+00:00"
 }

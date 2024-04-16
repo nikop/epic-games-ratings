@@ -4,7 +4,7 @@
   "ProductSlug": "nexus-058364",
   "Ranking_Rating": 846,
   "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 255,
+  "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 4,
@@ -2837,10 +2837,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 1597,
       "NumberOfAwardsMax": 257
+    },
+    {
+      "Time": "2024-04-16T04:58:34.3343757+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1602,
+      "NumberOfAwardsMax": 257
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1597,
+  "NumberOfAwards": 1602,
   "NumberOfAwardsMax": 257,
   "MaxAwardTitle": "Competitive Community",
   "Tags": [
@@ -2896,7 +2902,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 166
+      "Count": 171
     },
     {
       "Text": "This game has Amazing Characters",
@@ -16795,9 +16801,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-04-15T22:59:40.8428512+00:00",
+  "LastChanged": "2024-04-16T04:58:34.3343756+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:49.1730904+00:00",
   "LastUpdate_AppInfo": "2024-04-10T02:14:17.0637074+00:00",
-  "LastUpdate_Ratings": "2024-04-16T03:57:35.9847277+00:00",
+  "LastUpdate_Ratings": "2024-04-16T04:58:34.334376+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:49.173211+00:00"
 }
