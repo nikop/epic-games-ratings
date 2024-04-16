@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,417,206 | 4.29 | 927 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 794,928 | 4.45 | 716 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 795,528 | 4.45 | 716 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 357,406 | 4.68 | 272 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 337,447 | 4.67 | 290 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 307,904 | 4.87 | 19 |
@@ -67,7 +67,7 @@
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,624 | 4.66 | 314 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,096 | 4.83 | 54 |
 | 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,056 | 4.75 | 150 |
-| 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,003 | 4.67 | 290 |
+| 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,012 | 4.67 | 290 |
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,943 | 4.58 | 487 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 772 |
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,533 | 4.80 | 90 |
@@ -101,9 +101,9 @@
 | 99 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,739 | 4.66 | 314 |
 | 100 | [Hades](games/h/hades.md) | 3,738 | 4.92 | 5 |
 | 101 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,696 | 4.57 | 508 |
-| 102 | [Gloomhaven](games/g/gloomhaven.md) | 3,669 | 4.47 | 685 |
+| 102 | [Gloomhaven](games/g/gloomhaven.md) | 3,670 | 4.47 | 685 |
 | 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,569 | 4.57 | 508 |
-| 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,553 | 4.76 | 140 |
+| 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,554 | 4.76 | 140 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,499 | 4.19 | 1,024 |
 | 106 | [Among Us](games/a/among_us.md) | 3,278 | 4.56 | 533 |
 | 107 | [RAGE 2](games/r/rage_2.md) | 3,094 | 4.27 | 953 |
@@ -208,7 +208,7 @@
 | 206 | [Star Trek Online](games/s/star_trek_online.md) | 691 | 4.44 | 737 |
 | 207 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 687 | 4.87 | 19 |
 | 208 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 677 | 4.69 | 244 |
-| 209 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 675 | 4.62 | 397 |
+| 209 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 676 | 4.62 | 397 |
 | 210 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 670 | 4.39 | 822 |
 | 211 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 668 | 3.96 | 1,115 |
 | 212 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 666 | 4.71 | 207 |
@@ -305,7 +305,7 @@
 | 303 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 238 | 4.43 | 759 |
 | 304 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 236 | 4.84 | 43 |
 | 305 | [Crying Suns](games/c/crying_suns.md) | 235 | 4.51 | 620 |
-| 306 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 232 | 4.65 | 336 |
+| 306 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 234 | 4.65 | 336 |
 | 307 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 231 | 4.84 | 43 |
 | 308 | [Sunless Sea](games/s/sunless_sea.md) | 230 | 4.59 | 465 |
 | 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 227 | 4.57 | 508 |
@@ -342,8 +342,8 @@
 | 339 | [Encased](games/e/encased.md) | 177 | 4.35 | 867 |
 | 339 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 177 | 4.87 | 19 |
 | 342 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 1,044 |
-| 343 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 174 | 4.67 | 290 |
-| 343 | [SYNCED](games/s/synced.md) | 174 | 4.10 | 1,079 |
+| 343 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 175 | 4.67 | 290 |
+| 344 | [SYNCED](games/s/synced.md) | 174 | 4.10 | 1,079 |
 | 345 | [F1® 23](games/f/f1®_23_standard_edition.md) | 173 | 4.62 | 397 |
 | 345 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 173 | 4.77 | 120 |
 | 345 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 937 |
@@ -432,12 +432,12 @@
 | 430 | [DEATHLOOP](games/d/deathloop.md) | 83 | 4.45 | 716 |
 | 430 | [GigaBash](games/g/gigabash.md) | 83 | 4.52 | 604 |
 | 430 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 83 | 4.55 | 554 |
-| 433 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 81 | 4.73 | 179 |
-| 433 | [Human Resource Machine](games/h/human_resource_machine.md) | 81 | 4.62 | 397 |
-| 433 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 81 | 4.66 | 314 |
-| 436 | [Art of Rally](games/a/art_of_rally_1.md) | 80 | 4.62 | 397 |
-| 436 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 80 | 4.19 | 1,024 |
-| 436 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 80 | 4.61 | 420 |
+| 433 | [Art of Rally](games/a/art_of_rally_1.md) | 82 | 4.62 | 397 |
+| 434 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 81 | 4.73 | 179 |
+| 434 | [Human Resource Machine](games/h/human_resource_machine.md) | 81 | 4.62 | 397 |
+| 434 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 81 | 4.66 | 314 |
+| 437 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 80 | 4.19 | 1,024 |
+| 437 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 80 | 4.61 | 420 |
 | 439 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 79 | 4.21 | 1,007 |
 | 440 | [Potion Permit](games/p/potion_permit.md) | 78 | 3.94 | 1,123 |
 | 441 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 77 | 4.30 | 921 |
