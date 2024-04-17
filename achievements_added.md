@@ -191,7 +191,7 @@
 | [ELEX II](games/e/elex_ii.md) | 2022-03-01 | 50 (1,000 XP) | 476 | 4.28 | 0 |
 | [Wreckfest](games/w/wreckfest.md) | 2023-03-10 | 20 (1,000 XP) | 2,045 | 4.30 | 0 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 2,198 | 4.64 | 37 |
-| [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 1,058 | 4.64 | 35 |
+| [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 1,058 | 4.63 | 35 |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 74 | - | 0 |
 | [Hero Battle Fantasy Arena](games/4/4d936d45ca14450c86d6472c3c494181.md) | 2023-12-15 | 15 (1,000 XP) | 86 | - | 0 |
 | [TrekkingAndCamping](games/5/5f9ba5f02fce44f4ab7faba53e835305.md) | 2023-12-04 | 16 (1,000 XP) | 22 | - | - |
@@ -216,7 +216,7 @@
 | [Stone Guardian](games/9/97e89a0da1004cdfb0661afb798fc495.md) | 2023-12-07 | 16 (1,000 XP) | 13 | - | - |
 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 2023-12-09 | 5 (1,000 XP) | 14 | - | 0 |
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | 2023-12-05 | 36 (1,000 XP) | 63 | - | 0 |
-| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 15,175 | 4.69 | 258 |
+| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 15,175 | 4.69 | 260 |
 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 2023-12-18 | 43 (1,000 XP) | 470,427 | 4.34 | 52 |
 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-12-21 | 8 (1,000 XP) | 16,212 | - | 0 |
 | [Asterix and Obelix Heroes](games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 2023-10-05 | 22 (1,000 XP) | 58 | - | 0 |
@@ -412,7 +412,7 @@
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 48,259 | 4.47 | 3,670 |
 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 2023-09-25 | 91 (1,000 XP) | 2,434 | 4.54 | 0 |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 26,097 | 4.57 | 3,696 |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 26,097 | 4.57 | 3,702 |
 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 358 | - | 0 |
 | [Bud Spencer and Terence Hill - Slaps and Beans 2](games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 2023-09-22 | 33 (1,000 XP) | 0 | - | 0 |
 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 2023-10-04 | 47 (1,000 XP) | 106 | - | 0 |
@@ -501,7 +501,7 @@
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-08-11 | 74 (1,000 XP) | 1 | - | 0 |
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 98,757 | 3.91 | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 840,259 | 4.53 | 1,129 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 593,084 | 4.58 | 208 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 593,084 | 4.58 | 236 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 435 | - | 0 |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 34 | - | - |
 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 2023-09-06 | 11 (1,000 XP) | 12 | - | - |
