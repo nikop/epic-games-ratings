@@ -2,9 +2,9 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 1043,
+  "Ranking_Rating": 1036,
   "Ranking_Popularity": 274,
-  "Ranking_PopularitySum": 275,
+  "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "RU, BY, SA"
     }
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "NumberOfRatings": 281,
   "RatingHistory": [
     {
@@ -1903,10 +1903,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 1241,
       "NumberOfAwardsMax": 316
+    },
+    {
+      "Time": "2024-04-17T02:16:47.9536494+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 1246,
+      "NumberOfAwardsMax": 316
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1241,
+  "NumberOfAwards": 1246,
   "NumberOfAwardsMax": 316,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1944,13 +1950,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 134
+      "Count": 137
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 144
+      "Count": 146
     }
   ],
   "EOS_Progressed": 755320,
@@ -15866,9 +15872,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2024-04-16T19:58:58.475467+00:00",
+  "LastChanged": "2024-04-17T02:16:47.9536492+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:21.0901312+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:06.553712+00:00",
-  "LastUpdate_Ratings": "2024-04-16T23:59:41.818352+00:00",
+  "LastUpdate_Ratings": "2024-04-17T02:16:47.9536498+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:21.0902059+00:00"
 }
