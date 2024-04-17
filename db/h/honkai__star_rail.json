@@ -15061,18 +15061,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 189207,
       "NumberOfAwardsMax": 42990
+    },
+    {
+      "Time": "2024-04-17T11:58:15.8167069+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 189521,
+      "NumberOfAwardsMax": 43122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 189207,
-  "NumberOfAwardsMax": 42990,
+  "NumberOfAwards": 189521,
+  "NumberOfAwardsMax": 43122,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 42990
+      "Count": 43122
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15084,7 +15090,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 12825
+      "Count": 12870
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -15114,7 +15120,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20232
+      "Count": 20335
     },
     {
       "Text": "This game is Relaxing",
@@ -15126,7 +15132,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10788
+      "Count": 10822
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15153,8 +15159,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2024-04-17T10:00:17.9280326+00:00",
+  "LastChanged": "2024-04-17T11:58:15.8167068+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:59.312503+00:00",
-  "LastUpdate_Ratings": "2024-04-17T10:00:17.9280332+00:00",
+  "LastUpdate_Ratings": "2024-04-17T11:58:15.8167074+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:43.6390722+00:00"
 }
