@@ -315,7 +315,7 @@ Completed: 2 (0.05%) (Ranked 384)
 | 2024-04-10 | 4,090 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 74  (Ranked 451)  
-Sum: 679 (Ranked 333)  
+Sum: 680 (Ranked 333)  
 Diff (max vs sum): 118  
 | Award | Count |
 | ----- | ----- |
@@ -330,7 +330,7 @@ Diff (max vs sum): 118
 | This game is Relaxing | 50 |
 | This game has Quickly Understood Controls | 47 |
 | This game is Educational | 47 |
-| This game has Challenging Combat | 41 |
+| This game has Challenging Combat | 42 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -581,3 +581,4 @@ Diff (max vs sum): 118
 | 2024-04-14 | 4.69 | - | 74 | 675 |
 | 2024-04-15 | 4.68 | - | 74 | 677 |
 | 2024-04-16 | 4.69 | - | 74 | 679 |
+| 2024-04-17 | 4.69 | - | 74 | 680 |

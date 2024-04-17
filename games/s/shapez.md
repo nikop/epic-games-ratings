@@ -4,8 +4,8 @@
 Rating: 4.71 (Ranked 207)  
 ## Awards
 Max (Great for Beginners): 29  (Ranked 569)  
-Sum: 125 (Ranked 491)  
-Diff (max vs sum): 78  
+Sum: 145 (Ranked 482)  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
@@ -14,6 +14,7 @@ Diff (max vs sum): 78
 | This game is Relaxing | 26 |
 | This game is Highly Recommended | 23 |
 | This game is Educational | 20 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -106,3 +107,4 @@ Diff (max vs sum): 78
 | 2024-04-09 | 4.71 | 29 | 123 |
 | 2024-04-11 | 4.71 | 29 | 124 |
 | 2024-04-16 | 4.71 | 29 | 125 |
+| 2024-04-17 | 4.71 | 29 | 145 |
