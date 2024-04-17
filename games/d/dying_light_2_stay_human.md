@@ -360,12 +360,12 @@ Completed: 80 (0.01%) (Ranked 431)
 | 2024-04-10 | 1,052,209 | 80 |
 ## Awards
 Max (Character Customization): 16,013  (Ranked 28)  
-Sum: 46,825 (Ranked 34)  
+Sum: 46,843 (Ranked 34)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 16,013 |
-| This game has Great Boss Battles | 10,621 |
+| This game has Great Boss Battles | 10,635 |
 | This game is Great for Beginners | 2,771 |
 | This game has Diverse Characters | 2,506 |
 | This game is Highly Recommended | 2,382 |
@@ -374,7 +374,7 @@ Diff (max vs sum): -6
 | This game is Extremely Fun | 2,133 |
 | This game has Quickly Understood Controls | 2,024 |
 | This game is Relaxing | 1,965 |
-| This game has a Creative Community | 1,949 |
+| This game has a Creative Community | 1,953 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -840,4 +840,4 @@ Diff (max vs sum): -6
 | 2024-04-14 | 4.58 | - | 15,961 | 46,633 |
 | 2024-04-15 | 4.58 | - | 15,982 | 46,706 |
 | 2024-04-16 | 4.58 | - | 15,992 | 46,772 |
-| 2024-04-17 | 4.59 | - | 16,013 | 46,825 |
+| 2024-04-17 | 4.59 | - | 16,013 | 46,843 |
