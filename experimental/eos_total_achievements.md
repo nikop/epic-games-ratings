@@ -381,8 +381,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
@@ -853,7 +853,6 @@
 | [Tales of the Orient: The Rising Sun](../games/t/tales_of_the_orient__the_rising_sun.md) | 16 | 1,000 |
 | [The Hidden Room](../games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 16 | 1,000 |
 | [TrekkingAndCamping](../games/5/5f9ba5f02fce44f4ab7faba53e835305.md) | 16 | 1,000 |
-| [Almost Formula](../games/c/c738515085eb490fb8c13acf3749e9e9.md) | 15 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
 | [Bosorka](../games/b/bosorka.md) | 15 | 1,000 |
 | [Breakout: Recharged](../games/b/breakout__recharged.md) | 15 | 1,000 |
@@ -869,6 +868,7 @@
 | [Quick Race](../games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 15 | 1,000 |
 | [Retro Commander](../games/1/1e822fc232ef4a4a8bff9afdf5284cba.md) | 15 | 1,000 |
 | [Road 96: Mile 0](../games/r/road_96__mile_0.md) | 15 | 1,000 |
+| [ROAD TO EXOTICS!](../games/c/c738515085eb490fb8c13acf3749e9e9.md) | 15 | 1,000 |
 | [Shame Legacy](../games/s/shame_legacy.md) | 15 | 1,000 |
 | [Super Adventure Hand](../games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15 | 1,000 |
 | [Tamarak Trail](../games/9/985a7dfa6292483fab6d3451a7914a1f.md) | 15 | 1,000 |

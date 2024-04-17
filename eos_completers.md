@@ -471,7 +471,6 @@
 | 455 | [Airship Kingdoms Adrift](games/a/airship_kingdoms_adrift.md) | 0.00% |
 | 455 | [ALAN-13 Reformation](games/f/f514ca89c14c49858748fd9569d35d52.md) | 0.00% |
 | 455 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 0.00% |
-| 455 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 0.00% |
 | 455 | [ANNO Mutationem](games/a/anno_mutationem.md) | 0.00% |
 | 455 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 0.00% |
 | 455 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 0.00% |
@@ -786,8 +785,8 @@
 | 455 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 0.00% |
 | 455 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 455 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
-| 455 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
 | 455 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
+| 455 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
 | 455 | [Pepper Grinder](games/p/pepper_grinder.md) | 0.00% |
 | 455 | [PERISH](games/p/perish.md) | 0.00% |
 | 455 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 0.00% |
@@ -831,6 +830,7 @@
 | 455 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 0.00% |
 | 455 | [Road 96](games/r/road_96.md) | 0.00% |
 | 455 | [Road Maintenance Simulator](games/9/98c157cecc744a6393d86f60ccd43b53.md) | 0.00% |
+| 455 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 0.00% |
 | 455 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 0.00% |
 | 455 | [Roboplant](games/r/roboplant.md) | 0.00% |
 | 455 | [Rocco's Island](games/r/rocco's_island.md) | 0.00% |
