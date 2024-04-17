@@ -36,7 +36,7 @@
 | 29 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 628 |
 | 35 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.85 | 43 | 512 |
 | 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.85 | 0 | 628 |
-| 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,066 | 77 |
+| 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,069 | 76 |
 | 35 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 628 |
 | 35 | [Subnautica](games/s/subnautica.md) | 4.85 | 856 | 192 |
 | 35 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 0 | 628 |
@@ -187,7 +187,7 @@
 | 179 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.73 | 107 | 394 |
 | 179 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 156 | 357 |
 | 179 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 628 |
-| 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 186 | 333 |
+| 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 187 | 333 |
 | 179 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 101 | 403 |
 | 179 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 628 |
 | 179 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 628 |
@@ -247,7 +247,7 @@
 | 243 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 628 |
 | 243 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 132 | 371 |
 | 243 | [Coromon](games/c/coromon.md) | 4.69 | 50 | 499 |
-| 243 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,368 | 59 |
+| 243 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,374 | 59 |
 | 243 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 9,073 | 54 |
 | 243 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.69 | 24 | 597 |
 | 243 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 8,997 | 57 |
@@ -271,7 +271,7 @@
 | 243 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 58 | 475 |
 | 243 | [The Witness](games/t/the_witness.md) | 4.69 | 195 | 330 |
 | 243 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 628 |
-| 243 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,148 | 160 |
+| 243 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,149 | 160 |
 | 243 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 260 | 293 |
 | 274 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,643 | 92 |
 | 274 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 793 | 199 |
@@ -599,7 +599,7 @@
 | 585 | [Redout 2](games/r/redout_2.md) | 4.53 | 0 | 628 |
 | 585 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 628 |
 | 585 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 75 | 450 |
-| 585 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 557 | 227 |
+| 585 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 559 | 227 |
 | 585 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,129 | 162 |
 | 585 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.53 | 0 | 628 |
 | 585 | [Verdun](games/v/verdun.md) | 4.53 | 113 | 389 |
@@ -661,7 +661,7 @@
 | 659 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.49 | 24 | 597 |
 | 659 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,070 | 125 |
 | 659 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 628 |
-| 659 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,184 | 60 |
+| 659 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,199 | 60 |
 | 659 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 628 |
 | 659 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 628 |
 | 659 | [Maneater](games/m/maneater.md) | 4.49 | 14,114 | 33 |
@@ -1020,7 +1020,7 @@
 | 1,015 | [Gone Home](games/g/gone_home.md) | 4.20 | 0 | 628 |
 | 1,015 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.20 | 31 | 557 |
 | 1,015 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 0 | 628 |
-| 1,015 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,067 | 76 |
+| 1,015 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,067 | 77 |
 | 1,015 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.20 | 0 | 628 |
 | 1,015 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.20 | 0 | 628 |
 | 1,024 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 499 |

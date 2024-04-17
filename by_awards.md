@@ -58,8 +58,8 @@
 | 56 | [Remnant II®](games/r/remnant_2.md) | 9,047 | 4.70 | 220 |
 | 57 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 8,997 | 4.69 | 243 |
 | 58 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,560 | 4.84 | 43 |
-| 59 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,368 | 4.69 | 243 |
-| 60 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,184 | 4.49 | 659 |
+| 59 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,374 | 4.69 | 243 |
+| 60 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,199 | 4.49 | 659 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,175 | 4.75 | 150 |
 | 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,090 | 4.71 | 207 |
 | 63 | [Supraland](games/s/supraland.md) | 7,843 | 4.61 | 419 |
@@ -75,8 +75,8 @@
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,216 | 4.66 | 315 |
 | 74 | [Rogue Company](games/r/rogue_company.md) | 6,179 | 4.28 | 937 |
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,088 | 4.64 | 357 |
-| 76 | [League of Legends](games/l/league_of_legends.md) | 6,067 | 4.20 | 1,015 |
-| 77 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,066 | 4.85 | 35 |
+| 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,069 | 4.85 | 35 |
+| 77 | [League of Legends](games/l/league_of_legends.md) | 6,067 | 4.20 | 1,015 |
 | 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,003 | 4.07 | 1,092 |
 | 79 | [Prey](games/p/prey.md) | 5,997 | 4.63 | 374 |
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,944 | 4.56 | 534 |
@@ -159,7 +159,7 @@
 | 157 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,191 | 4.65 | 337 |
 | 158 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,188 | 4.74 | 164 |
 | 159 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,161 | 4.64 | 357 |
-| 160 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,148 | 4.69 | 243 |
+| 160 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,149 | 4.69 | 243 |
 | 161 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,131 | 4.61 | 419 |
 | 162 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,129 | 4.53 | 585 |
 | 163 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,127 | 4.62 | 397 |
@@ -226,7 +226,7 @@
 | 224 | [Surviving Mars](games/s/surviving_mars.md) | 592 | 4.61 | 419 |
 | 225 | [Severed Steel](games/s/severed_steel.md) | 587 | 4.69 | 243 |
 | 226 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 577 | 4.40 | 799 |
-| 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 557 | 4.53 | 585 |
+| 227 | [Terraforming Mars](games/t/terraforming_mars.md) | 559 | 4.53 | 585 |
 | 228 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 530 | 4.59 | 465 |
 | 229 | [Loop Hero](games/l/loop_hero.md) | 529 | 4.67 | 290 |
 | 230 | [RimWorld](games/r/rimworld.md) | 519 | 4.89 | 13 |
@@ -332,7 +332,7 @@
 | 330 | [The Witness](games/t/the_witness.md) | 195 | 4.69 | 243 |
 | 331 | [Timberborn](games/t/timberborn.md) | 192 | 4.73 | 179 |
 | 332 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 189 | 4.66 | 315 |
-| 333 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 186 | 4.73 | 179 |
+| 333 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 187 | 4.73 | 179 |
 | 334 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 184 | 4.79 | 99 |
 | 334 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 184 | 4.08 | 1,085 |
 | 336 | [Mothergunship](games/m/mothergunship.md) | 182 | 4.38 | 831 |
