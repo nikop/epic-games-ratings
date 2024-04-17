@@ -48,25 +48,25 @@
 | 43 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 628 |
 | 43 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 54 | 485 |
 | 43 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 474 | 240 |
+| 43 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 628 |
 | 43 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 14,970 | 31 |
 | 43 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 231 | 308 |
 | 43 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.84 | 0 | 628 |
 | 43 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 237 | 304 |
 | 43 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 628 |
-| 54 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 628 |
-| 54 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,104 | 66 |
-| 54 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 196 | 329 |
-| 54 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 628 |
-| 54 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 628 |
-| 54 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 243 | 300 |
-| 54 | [Firework](games/f/firework.md) | 4.83 | 0 | 628 |
-| 54 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 661 | 213 |
-| 54 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.83 | 0 | 628 |
-| 54 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 310 | 276 |
-| 54 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 284 | 285 |
-| 54 | [Rayman Origins](games/r/rayman_origins.md) | 4.83 | 56 | 479 |
-| 54 | [Star Atlas](games/s/star_atlas.md) | 4.83 | 48 | 503 |
-| 54 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 515 |
+| 55 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 628 |
+| 55 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,104 | 66 |
+| 55 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 196 | 329 |
+| 55 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 628 |
+| 55 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 628 |
+| 55 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 243 | 300 |
+| 55 | [Firework](games/f/firework.md) | 4.83 | 0 | 628 |
+| 55 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 661 | 213 |
+| 55 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 310 | 276 |
+| 55 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 284 | 285 |
+| 55 | [Rayman Origins](games/r/rayman_origins.md) | 4.83 | 56 | 479 |
+| 55 | [Star Atlas](games/s/star_atlas.md) | 4.83 | 48 | 503 |
+| 55 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 515 |
 | 68 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 482 | 239 |
 | 68 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 221 | 314 |
 | 68 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 535 |
@@ -961,7 +961,7 @@
 | 953 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 628 |
 | 953 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 628 |
 | 961 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 90 | 423 |
-| 961 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 23,005 | 23 |
+| 961 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 23,051 | 23 |
 | 961 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 628 |
 | 961 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 649 | 215 |
 | 961 | [MetalCore](games/m/metalcore.md) | 4.26 | 0 | 628 |
