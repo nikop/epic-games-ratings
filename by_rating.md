@@ -158,7 +158,7 @@
 | 150 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,070 | 67 |
 | 150 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 628 |
 | 150 | [Outlast](games/o/outlast.md) | 4.75 | 30 | 564 |
-| 150 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,045 | 172 |
+| 150 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,047 | 172 |
 | 150 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 16,709 | 27 |
 | 150 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 105 | 396 |
 | 150 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 511 | 232 |
@@ -197,7 +197,7 @@
 | 195 | [Dead Space](games/d/dead_space.md) | 4.72 | 432 | 248 |
 | 195 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.72 | 0 | 628 |
 | 195 | [FUSER™](games/f/fuser™.md) | 4.72 | 36 | 535 |
-| 195 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 42,990 | 16 |
+| 195 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 43,122 | 16 |
 | 195 | [Islets](games/i/islets.md) | 4.72 | 23 | 606 |
 | 195 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.72 | 0 | 628 |
 | 195 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 628 |
@@ -276,7 +276,7 @@
 | 274 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,643 | 92 |
 | 274 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 793 | 199 |
 | 274 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 628 |
-| 274 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 161,317 | 7 |
+| 274 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 161,420 | 7 |
 | 274 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,528 | 93 |
 | 274 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 53 | 489 |
 | 274 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 357,940 | 3 |
@@ -491,7 +491,7 @@
 | 487 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 68,424 | 12 |
 | 487 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.58 | 27 | 577 |
 | 487 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.58 | 0 | 628 |
-| 487 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 15,992 | 28 |
+| 487 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 16,013 | 28 |
 | 487 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 277 | 288 |
 | 487 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 628 |
 | 487 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 42 | 515 |
@@ -988,7 +988,7 @@
 | 982 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 628 |
 | 982 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,233 | 153 |
 | 982 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.24 | 0 | 628 |
-| 982 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,045 | 172 |
+| 982 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,045 | 173 |
 | 982 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 628 |
 | 982 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 628 |
 | 982 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 507 |
