@@ -9284,10 +9284,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 23830401,
       "NumberOfAwardsMax": 3418721
+    },
+    {
+      "Time": "2024-04-17T01:40:54.5171869+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 23838035,
+      "NumberOfAwardsMax": 3418721
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23830401,
+  "NumberOfAwards": 23838035,
   "NumberOfAwardsMax": 3418721,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -9301,43 +9307,43 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3148189
+      "Count": 3149325
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3236355
+      "Count": 3237633
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3123663
+      "Count": 3124948
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2888679
+      "Count": 2889689
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2829358
+      "Count": 2830394
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2854211
+      "Count": 2855259
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2331225
+      "Count": 2332066
     }
   ],
   "EOS_Progressed": 0,
@@ -9351,8 +9357,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2024-04-16T23:57:09.9272615+00:00",
+  "LastChanged": "2024-04-17T01:40:54.5171867+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:07.452479+00:00",
-  "LastUpdate_Ratings": "2024-04-16T23:57:09.9272625+00:00",
+  "LastUpdate_Ratings": "2024-04-17T01:40:54.5171873+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:57.6396581+00:00"
 }
