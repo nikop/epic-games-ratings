@@ -4,7 +4,7 @@
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 409,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1388,10 +1388,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 316,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-04-17T03:59:49.865983+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 317,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316,
+  "NumberOfAwards": 317,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1453,7 +1459,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 30
+      "Count": 31
     }
   ],
   "EOS_Progressed": 0,
@@ -1467,8 +1473,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2024-04-14T14:29:13.2850317+00:00",
+  "LastChanged": "2024-04-17T03:59:49.8659829+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:27:00.9721789+00:00",
-  "LastUpdate_Ratings": "2024-04-17T02:58:29.4193465+00:00",
+  "LastUpdate_Ratings": "2024-04-17T03:59:49.8659833+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:37.8633729+00:00"
 }
