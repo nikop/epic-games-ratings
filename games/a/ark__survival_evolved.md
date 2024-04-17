@@ -1,11 +1,11 @@
 # ARK: Survival Evolved
 [Store](https://store.epicgames.com/en-US/p/ark)  
 [View Rawdata](../../db/a/ark__survival_evolved.json)  
-Rating: 4.58 (Ranked 487)  
+Rating: 4.58 (Ranked 488)  
 Number of Ratings: 35,570  (23.09.2022)  
 ## Awards
 Max (Character Customization): 68,448  (Ranked 12)  
-Sum: 293,596 (Ranked 13)  
+Sum: 293,604 (Ranked 13)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 23,595 |
 | This game is Educational | 22,802 |
 | This game is Extremely Fun | 22,500 |
-| This game is Relaxing | 21,553 |
-| This game has Amazing Storytelling | 21,471 |
+| This game is Relaxing | 21,556 |
+| This game has Amazing Storytelling | 21,476 |
 | This game has Amazing Characters | 21,274 |
 | This game has Competitive Players | 21,259 |
 | This game has Quickly Understood Controls | 21,086 |
@@ -474,4 +474,4 @@ Diff (max vs sum): -1
 | 2024-04-14 | 4.58 | - | 68,378 | 293,328 |
 | 2024-04-15 | 4.58 | - | 68,404 | 293,448 |
 | 2024-04-16 | 4.58 | - | 68,424 | 293,536 |
-| 2024-04-17 | 4.58 | - | 68,448 | 293,596 |
+| 2024-04-17 | 4.58 | - | 68,448 | 293,604 |
