@@ -2,7 +2,7 @@
   "ID": "75ec0c7498894d1a99a5c8f02f3e4c55",
   "Name": "Automachef",
   "ProductSlug": "automachef",
-  "Ranking_Rating": 883,
+  "Ranking_Rating": 892,
   "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 985,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "NumberOfRatings": 543,
   "RatingHistory": [
     {
@@ -612,6 +612,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-04-17T21:57:18.7365858+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
@@ -649,8 +655,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
-  "LastChanged": "2023-11-04T17:57:59.4830793+00:00",
+  "LastChanged": "2024-04-17T21:57:18.7365856+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:26:20.7459461+00:00",
-  "LastUpdate_Ratings": "2024-04-17T19:59:04.8375796+00:00",
+  "LastUpdate_Ratings": "2024-04-17T21:57:18.736586+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:52.5616845+00:00"
 }

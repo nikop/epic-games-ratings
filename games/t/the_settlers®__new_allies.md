@@ -1,15 +1,15 @@
 # The Settlers®: New Allies
 [Store](https://store.epicgames.com/en-US/p/the-settlers)  
 [View Rawdata](../../db/t/the_settlers®__new_allies.json)  
-Rating: 3.87 (Ranked 1,135)  
+Rating: 3.86 (Ranked 1,135)  
 ## Awards
 Max (Relaxing): 132  (Ranked 371)  
-Sum: 389 (Ranked 389)  
+Sum: 390 (Ranked 389)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 132 |
-| This game has Quickly Understood Controls | 129 |
+| This game has Quickly Understood Controls | 130 |
 | This game is Great for Beginners | 128 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -253,3 +253,4 @@ Diff (max vs sum): -18
 | 2024-04-14 | 3.86 | 132 | 387 |
 | 2024-04-15 | 3.87 | 132 | 388 |
 | 2024-04-16 | 3.87 | 132 | 389 |
+| 2024-04-17 | 3.86 | 132 | 390 |

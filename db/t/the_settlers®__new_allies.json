@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.87,
+  "Rating": 3.86,
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -1939,10 +1939,16 @@
       "Rating": 3.87,
       "NumberOfAwards": 389,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2024-04-17T21:57:59.251298+00:00",
+      "Rating": 3.86,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 389,
+  "NumberOfAwards": 390,
   "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1962,7 +1968,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 129
+      "Count": 130
     }
   ],
   "EOS_Progressed": 0,
@@ -1977,8 +1983,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2024-04-16T14:59:19.1937778+00:00",
+  "LastChanged": "2024-04-17T21:57:59.2512977+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:29.0818325+00:00",
-  "LastUpdate_Ratings": "2024-04-17T19:59:39.1417364+00:00",
+  "LastUpdate_Ratings": "2024-04-17T21:57:59.2512983+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:15.5053141+00:00"
 }
