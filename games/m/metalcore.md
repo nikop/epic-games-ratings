@@ -3,11 +3,12 @@
 [View Rawdata](../../db/m/metalcore.json)  
 Rating: 4.32 (Ranked 905)  
 ## Awards
-Max (Amazing Characters): 20  (Ranked 626)  
-Sum: 20 (Ranked 626)  
-Diff (max vs sum): 0  
+Max (Great for Quick Sessions): 21  (Ranked 619)  
+Sum: 41 (Ranked 572)  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Quick Sessions | 21 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -36,4 +37,4 @@ Diff (max vs sum): 0
 | 2024-04-15 | 4.31 | 0 | 0 |
 | 2024-04-16 | 4.27 | 0 | 0 |
 | 2024-04-17 | 4.29 | 0 | 0 |
-| 2024-04-18 | 4.32 | 20 | 20 |
+| 2024-04-18 | 4.32 | 21 | 41 |
