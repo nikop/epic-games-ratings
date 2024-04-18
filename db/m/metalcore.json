@@ -2,9 +2,9 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 619,
-  "Ranking_PopularitySum": 572,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -359,10 +359,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-04-18T18:59:42.9707673+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
+  "NumberOfAwards": 61,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -377,6 +383,12 @@
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -391,8 +403,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-04-18T17:58:15.6856961+00:00",
+  "LastChanged": "2024-04-18T18:59:42.970767+00:00",
   "LastUpdate_AppInfo": "2024-04-14T10:00:54.8351775+00:00",
-  "LastUpdate_Ratings": "2024-04-18T17:58:15.6856965+00:00",
+  "LastUpdate_Ratings": "2024-04-18T18:59:42.9707675+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }

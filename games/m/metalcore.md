@@ -1,15 +1,16 @@
 # MetalCore
 [Store](https://store.epicgames.com/en-US/p/metalcore-f60c27)  
 [View Rawdata](../../db/m/metalcore.json)  
-Rating: 4.32 (Ranked 905)  
+Rating: 4.31 (Ranked 913)  
 ## Awards
 Max (Great for Quick Sessions): 21  (Ranked 619)  
-Sum: 41 (Ranked 572)  
-Diff (max vs sum): 47  
+Sum: 61 (Ranked 540)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 21 |
 | This game has Amazing Characters | 20 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -37,4 +38,4 @@ Diff (max vs sum): 47
 | 2024-04-15 | 4.31 | 0 | 0 |
 | 2024-04-16 | 4.27 | 0 | 0 |
 | 2024-04-17 | 4.29 | 0 | 0 |
-| 2024-04-18 | 4.32 | 21 | 41 |
+| 2024-04-18 | 4.32 | 21 | 61 |
