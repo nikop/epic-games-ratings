@@ -35,7 +35,7 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-04-10 | 29,531 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 56  (Ranked 479)  
-Sum: 319 (Ranked 409)  
+Sum: 320 (Ranked 409)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -43,8 +43,8 @@ Diff (max vs sum): 70
 | This game is Great for Beginners | 51 |
 | This game has a Competitive Community | 34 |
 | This game is Extremely Fun | 31 |
+| This game is Highly Recommended | 29 |
 | This game has Quickly Understood Controls | 28 |
-| This game is Highly Recommended | 28 |
 | This game has Diverse Characters | 24 |
 | This game has Amazing Characters | 24 |
 | This game has Amazing Storytelling | 23 |
@@ -164,3 +164,4 @@ Diff (max vs sum): 70
 | 2024-04-15 | 4.44 | 56 | 309 |
 | 2024-04-16 | 4.44 | 56 | 315 |
 | 2024-04-17 | 4.44 | 56 | 319 |
+| 2024-04-18 | 4.44 | 56 | 320 |
