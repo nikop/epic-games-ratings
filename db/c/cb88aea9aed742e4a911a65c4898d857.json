@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 244,
   "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 431,
   "Ranking_EOS_NewPlayers": 53,
@@ -1379,10 +1379,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 591,
       "NumberOfAwardsMax": 260
+    },
+    {
+      "Time": "2024-04-18T15:00:56.6995662+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 592,
+      "NumberOfAwardsMax": 260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 591,
+  "NumberOfAwards": 592,
   "NumberOfAwardsMax": 260,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1408,7 +1414,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Relaxing",
@@ -7831,9 +7837,9 @@
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-04-18T03:57:22.3117235+00:00",
+  "LastChanged": "2024-04-18T15:00:56.699566+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:33.0718787+00:00",
-  "LastUpdate_AppInfo": "2024-04-11T14:57:03.0333304+00:00",
-  "LastUpdate_Ratings": "2024-04-18T13:59:16.4545259+00:00",
+  "LastUpdate_AppInfo": "2024-04-18T14:57:34.3263506+00:00",
+  "LastUpdate_Ratings": "2024-04-18T15:00:56.6995666+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:33.0719441+00:00"
 }
