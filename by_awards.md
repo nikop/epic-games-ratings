@@ -60,7 +60,7 @@
 | 58 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,560 | 4.84 | 43 |
 | 59 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,374 | 4.69 | 243 |
 | 60 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,199 | 4.49 | 658 |
-| 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,175 | 4.75 | 150 |
+| 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,190 | 4.75 | 150 |
 | 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,090 | 4.71 | 207 |
 | 63 | [Supraland](games/s/supraland.md) | 7,843 | 4.61 | 419 |
 | 64 | [Sifu](games/s/sifu.md) | 7,702 | 4.82 | 68 |
@@ -102,10 +102,10 @@
 | 100 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,740 | 4.66 | 315 |
 | 101 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,702 | 4.57 | 510 |
 | 102 | [Gloomhaven](games/g/gloomhaven.md) | 3,670 | 4.47 | 686 |
-| 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,571 | 4.57 | 510 |
+| 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,573 | 4.57 | 510 |
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,558 | 4.76 | 139 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,501 | 4.19 | 1,024 |
-| 106 | [Among Us](games/a/among_us.md) | 3,280 | 4.56 | 534 |
+| 106 | [Among Us](games/a/among_us.md) | 3,285 | 4.56 | 534 |
 | 107 | [RAGE 2](games/r/rage_2.md) | 3,097 | 4.27 | 954 |
 | 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 2,971 | 4.54 | 566 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,954 | 4.62 | 397 |
@@ -220,7 +220,7 @@
 | 218 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 617 | 4.67 | 290 |
 | 218 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 617 | 4.61 | 419 |
 | 220 | [Godfall Ultimate Edition](games/g/godfall.md) | 615 | 4.06 | 1,096 |
-| 221 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 610 | 4.33 | 892 |
+| 221 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 611 | 4.33 | 892 |
 | 222 | [Vampyr](games/v/vampyr.md) | 606 | 4.32 | 905 |
 | 223 | [Filament](games/f/filament.md) | 597 | 4.33 | 892 |
 | 224 | [Surviving Mars](games/s/surviving_mars.md) | 592 | 4.61 | 419 |
@@ -428,10 +428,10 @@
 | 426 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 88 | 4.57 | 510 |
 | 426 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 88 | 4.61 | 419 |
 | 428 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 86 | 4.36 | 854 |
+| 429 | [DEATHLOOP](games/d/deathloop.md) | 85 | 4.45 | 718 |
 | 429 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 85 | 4.23 | 994 |
-| 430 | [DEATHLOOP](games/d/deathloop.md) | 83 | 4.45 | 718 |
-| 430 | [GigaBash](games/g/gigabash.md) | 83 | 4.51 | 619 |
-| 430 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 83 | 4.55 | 550 |
+| 431 | [GigaBash](games/g/gigabash.md) | 83 | 4.51 | 619 |
+| 431 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 83 | 4.55 | 550 |
 | 433 | [Art of Rally](games/a/art_of_rally_1.md) | 82 | 4.62 | 397 |
 | 433 | [Human Resource Machine](games/h/human_resource_machine.md) | 82 | 4.62 | 397 |
 | 435 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 81 | 4.74 | 164 |
