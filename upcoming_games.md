@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2024-04-18 | - |  | - | - |
 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | - |  | - | - |
 | [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-18 | 42 (1,000 XP) | 1 | - | - |
 | [VIDEOVERSE](games/9/9cfd154729b44c129f0cb8bbdc7ff7bb.md) | 2024-04-19 | - |  | - | - |
@@ -23,6 +24,7 @@
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | - |  | - | - |
 | [Dungeon Renovation Simulator](games/2/27dde2bf49304fc19badc32544a9105f.md) | 2024-04-30 | - |  | - | - |
 | [Goalgetter](games/7/7f3d1cc99606488c889a893f5b82762a.md) | 2024-04-30 | - |  | - | - |
+| [GuDaiFengLiuZhuan](games/f/f388ed15f12b437d8f6bb72da340515a.md) | 2024-04-30 | - |  | - | - |
 | [House](games/3/35ca779d351a4132b7bd12ff2bad615a.md) | 2024-04-30 | - |  | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-04-30 | - |  | - | - |
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
@@ -245,7 +247,6 @@
 | [AEVITAS](games/e/e551d0f379ad42629494c89540c1c853.md) | 2099-01-01 | - |  | - | - |
 | [Age of History 3](games/d/dfb48dfb84a04354a912913708e01d24.md) | 2099-01-01 | - |  | - | - |
 | [AI Roguelite](games/a/ai_roguelite.md) | 2099-01-01 | - |  | - | - |
-| [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2099-01-01 | - |  | - | - |
 | [Alder Choke](games/a/alder_choke.md) | 2099-01-01 | - |  | - | - |
 | [Amigo Kebab Simulator](games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 2099-01-01 | 31 (1,000 XP) | 0 | - | - |
 | [Angelic](games/d/decb411846c64904a09bb131c6a1bff1.md) | 2099-01-01 | - |  | - | - |
