@@ -3,8 +3,8 @@
 [View Rawdata](../../db/m/metalcore.json)  
 Rating: 4.32 (Ranked 905)  
 ## Awards
-Max (Amazing Characters): 20  (Ranked 625)  
-Sum: 20 (Ranked 625)  
+Max (Amazing Characters): 20  (Ranked 626)  
+Sum: 20 (Ranked 626)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

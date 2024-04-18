@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 512,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 164,
@@ -8797,10 +8797,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 12629,
       "NumberOfAwardsMax": 3707
+    },
+    {
+      "Time": "2024-04-18T16:58:11.1455425+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 12647,
+      "NumberOfAwardsMax": 3707
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12629,
+  "NumberOfAwards": 12647,
   "NumberOfAwardsMax": 3707,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8820,25 +8826,25 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 905
+      "Count": 908
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1018
+      "Count": 1026
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 843
+      "Count": 849
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 895
+      "Count": 896
     },
     {
       "Text": "This game has Challenging Combat",
@@ -21740,9 +21746,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-04-18T04:58:45.8595046+00:00",
+  "LastChanged": "2024-04-18T16:58:11.1455423+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:32.4532037+00:00",
   "LastUpdate_AppInfo": "2024-04-14T02:28:10.1240224+00:00",
-  "LastUpdate_Ratings": "2024-04-18T15:00:27.8522358+00:00",
+  "LastUpdate_Ratings": "2024-04-18T16:58:11.145543+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:32.4532797+00:00"
 }
