@@ -107,7 +107,7 @@
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 115 | - | 0 |
 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | 0 |
 | [Camp Canyonwood](games/7/760df178070b4dcbbfbe498b07b5d1a8.md) | 2024-02-26 | 44 (1,000 XP) | 34 | - | 0 |
-| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 516,014 | 4.27 | 342 |
+| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 516,014 | 4.27 | 345 |
 | [Death From Above - Complete Edition](games/f/f7dd9963616b4c1d9b89d5582a07766c.md) | 2024-02-23 | 21 (1,000 XP) | 0 | - | 0 |
 | [Those who Came:Healing Solarus - Definitive Edition](games/5/5d58c784b440452e854593ab737535fd.md) | 2024-01-31 | 14 (1,000 XP) | 3 | - | - |
 | [The Chosen One by the World](games/e/e075cda690de4ad68eaa173317863162.md) | 2024-02-05 | 5 (1,000 XP) | 1 | - | - |
@@ -396,7 +396,7 @@
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 6,108 | - | - |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 69,339 | - | - |
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 4,992 | 4.29 | 57 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 230,044 | 4.26 | 23,141 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 230,044 | 4.26 | 23,228 |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
 | [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 23,038 | 4.72 | 432 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 22 | - | 0 |

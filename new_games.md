@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | 2024-04-19 | - |  | - | - |
+| [VIDEOVERSE](games/9/9cfd154729b44c129f0cb8bbdc7ff7bb.md) | 2024-04-19 | - |  | - | - |
 | [Brand New World](games/7/7198c1ccb7b64bbbb1a7d0112a75c9a5.md) | 2024-04-18 | - |  | - | - |
 | [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-18 | 42 (1,000 XP) | 1 | - | - |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2024-04-18 | - |  | - | - |

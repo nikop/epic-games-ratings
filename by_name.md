@@ -577,8 +577,8 @@
 | [Candle Knight](games/9/909c6e888c164c78a1811afccedbc3a7.md) | - | - | 0 | - |
 | [Candy Disaster](games/5/5462a132ecc745009cc413aa845adce9.md) | - | - | - | - |
 | [canVERSE](games/c/canverse.md) | - | - | 0 | - |
-| [Capes](games/c/capes.md) | - | - | - | - |
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | - | - | - | - |
+| [Capes](games/c/capes.md) | - | - | - | - |
 | [Capital Command](games/c/capital_command.md) | - | - | - | - |
 | [Captain Bones](games/c/c72f755f02204435a4ad38a451805260.md) | - | - | - | - |
 | [Car Mechanic - City Driving](games/3/3582d65783144a76a49256c3ac01444d.md) | - | - | 0 | - |
@@ -774,7 +774,7 @@
 | [Cryptmaster](games/c/cryptmaster.md) | - | - | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | - | - | - | - |
 | [Crypto Mining Simulator](games/b/b808690b95b24c9bba61fa8138fc1583.md) | - | - | 0 | - |
-| [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 418 | 239 | 302 |
+| [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 418 | 239 | 303 |
 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 315 | 190 | 333 |
 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 759 | 273 | 291 |
 | [Crysis Remastered Trilogy](games/c/crysis_remastered_trilogy.md) | - | - | - | - |
@@ -965,11 +965,11 @@
 | [Discovery Tour: Viking Age](games/d/discovery_tour__viking_age.md) | - | - | 0 | - |
 | [Disgaea 6 Complete](games/d/disgaea_6_complete.md) | - | - | 0 | - |
 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 150 | 1,079 | 169 |
-| [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 112 | 984 | 180 |
+| [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 112 | 986 | 180 |
 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 737 | 76 | 443 |
 | [Dismay](games/d/dismay.md) | - | - | - | - |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 122 | 1,321 | 149 |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 797 | 342 | 265 |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 797 | 342 | 266 |
 | [Distant Worlds 2](games/d/distant_worlds_2.md) | - | - | - | - |
 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.30 | 921 | 77 | 442 |
 | [Divine Rush](games/c/c2a984900e22447d972c96e65a62da2e.md) | - | - | 0 | - |
@@ -1068,7 +1068,7 @@
 | [Dynopunk](games/7/7c738a3f30bb44d79291fd03eca6a59d.md) | - | - | 0 | - |
 | [E30 Drift Car Simulator](games/b/bd23b6492b6c4efeba179ca4710f38b0.md) | - | - | 0 | - |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.21 | 1,005 | 16,380 | 28 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 962 | 23,141 | 23 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 962 | 23,228 | 23 |
 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | - | - | - | - |
 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.29 | 927 | 22 | 612 |
 | [EA Star Wars Triple Bundle](games/e/ea_star_wars_triple_bundle.md) | - | - | - | - |
@@ -1430,7 +1430,7 @@
 | [Ghost Blood](games/g/ghost_blood.md) | - | - | 0 | - |
 | [Ghost Master](games/g/ghost_master.md) | - | - | 0 | - |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | - | - | - | - |
-| [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 550 | 2,196 | 122 |
+| [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 550 | 2,199 | 122 |
 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 512 | 0 | 630 |
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 619 | 364 | 259 |
 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 737 | 117 | 386 |
@@ -1622,7 +1622,7 @@
 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.41 | 783 | 31 | 557 |
 | [Honeycomb: The World Beyond](games/b/bedc86bbe4e6422e8216541921e4fd10.md) | - | - | - | - |
 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 675 | 3,920 | 98 |
-| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 195 | 43,270 | 16 |
+| [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 195 | 43,423 | 16 |
 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 1,110 | 386 | 254 |
 | [Horace](games/h/horace.md) | 4.55 | 550 | 0 | 630 |
 | [HordeCore](games/h/hordecore.md) | - | - | 0 | - |
@@ -1792,8 +1792,8 @@
 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.59 | 465 | 42 | 516 |
 | [Journey to the West](games/j/journey_to_the_west.md) | - | - | - | - |
 | [Joyville](games/8/828033f9503242d5aded3a1a0f3d3c91.md) | - | - | 0 | - |
-| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [Judas](games/j/judas_1.md) | - | - | - | - |
+| [Judas](games/j/judas.md) | - | - | 0 | - |
 | [JudgeSim](games/7/7ec64dbd5e634886915c1e9cf35f4d78.md) | - | - | - | - |
 | [Julai](games/a/a2a68ba87f494656b676de3a268dcf2a.md) | - | - | - | - |
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | - | - | 0 | - |
@@ -2000,7 +2000,7 @@
 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | - | - | 0 | - |
 | [Lost And Found Beta](games/5/52584c975e1d43d5b8c521f9a3eb64a1.md) | - | - | - | - |
 | [Lost and Hound](games/l/lost_and_hound.md) | - | - | - | - |
-| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.27 | 954 | 342 | 265 |
+| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.27 | 954 | 345 | 265 |
 | [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | - | - | - | - |
 | [Lost Eden](games/l/lost_eden.md) | - | - | 0 | - |
 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 870 | 0 | 630 |
@@ -2177,8 +2177,8 @@
 | [Mirage: A Biplane Adventure](games/9/991dfe8578ea4f27848d0392daa169c6.md) | - | - | - | - |
 | [Mirages of Winter](games/m/mirages_of_winter.md) | - | - | 0 | - |
 | [Mirror Of Darkness](games/5/5896d071f8c544e39aef05706c15fc11.md) | - | - | - | - |
-| [Missile Command: Recharged](games/m/missile_command__recharged.md) | - | - | 0 | - |
 | [Missile Command: Recharged](games/m/missile_command__recharged2022.md) | - | - | 0 | - |
+| [Missile Command: Recharged](games/m/missile_command__recharged.md) | - | - | 0 | - |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | - | - | - | - |
 | [Mixing Ammos](games/2/23047faee0134ed3bb4c8d71857c567b.md) | - | - | - | - |
 | [Mobilization](games/9/9df3ec873af34f9ab4e6e13fb4a17248.md) | - | - | 0 | - |
@@ -2401,7 +2401,7 @@
 | [OHDcore](games/o/ohdcore.md) | - | - | - | - |
 | [Oirbo](games/e/e1963d929f33401d91ebc2f564ebe094.md) | - | - | 0 | - |
 | [OLD SKOOL RACER](games/8/8d617ef953bf4147b3b507f33e2a7299.md) | - | - | - | - |
-| [Old World](games/o/old_world.md) | 4.65 | 341 | 240 | 301 |
+| [Old World](games/o/old_world.md) | 4.65 | 341 | 240 | 302 |
 | [Oli One: Sneak In](games/o/oli_one__sneak_in.md) | - | - | 0 | - |
 | [Olija](games/o/olija.md) | - | - | 0 | - |
 | [Omega Ops](games/b/b30aa3c65b2f4754b78a219636c7dba1.md) | - | - | - | - |
@@ -2698,6 +2698,7 @@
 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 90 | 447 | 246 |
 | [Re-Legion](games/r/re-legion.md) | - | - | 0 | - |
 | [Read Only Memories: NEURODIVER](games/r/read_only_memories__neurodiver.md) | - | - | - | - |
+| [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | - | - | - | - |
 | [ReadySet Heroes](games/r/readyset_heroes.md) | - | - | 0 | - |
 | [Real Car Parking: 2024 Authentic Simulation](games/2/21d4208f437e43429eee9150fb687183.md) | - | - | 0 | - |
 | [Real Drift Multiplayer](games/8/8c472e469d214ae19a4a1fdd189c6732.md) | - | - | 0 | - |
@@ -2973,8 +2974,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 207 | 29 | 569 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.41 | 783 | 287 | 285 |
@@ -3792,7 +3793,7 @@
 | [Train Sim World](games/t/train_sim_world.md) | - | - | - | - |
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 832 | 634 | 216 |
 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 566 | 412 | 252 |
-| [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.44 | 737 | 239 | 302 |
+| [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.44 | 737 | 241 | 301 |
 | [Train Valley](games/t/train_valley.md) | 4.47 | 686 | 0 | 630 |
 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 686 | 1,210 | 156 |
 | [Train Valley World](games/f/f68e8934386448ed8b280c3eb0f8c5a4.md) | - | - | - | - |
@@ -3939,7 +3940,7 @@
 | [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | - | - | - | - |
 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 17 | 0 | 630 |
 | [Valkyrie](games/v/valkyrie.md) | - | - | - | - |
-| [VALORANT](games/v/valorant.md) | 4.50 | 638 | 112,103 | 10 |
+| [VALORANT](games/v/valorant.md) | 4.50 | 638 | 112,252 | 10 |
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | - | - | - | - |
 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 1,005 | 79 | 439 |
 | [Vampire: The Masquerade® - Bloodlines™ 2](games/v/vampire__the_masquerade®_-_bloodlines™_2.md) | - | - | - | - |
@@ -3998,8 +3999,8 @@
 | [Wanderlust: Travel Stories](games/w/wanderlust__travel_stories.md) | - | - | 0 | - |
 | [Wanna Survive](games/w/wanna_survive.md) | - | - | 0 | - |
 | [Wanted: Dead](games/w/wanted_dead.md) | - | - | 0 | - |
-| [War Hospital](games/w/war_hospital.md) | - | - | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | - | - | 0 | - |
+| [War Hospital](games/w/war_hospital.md) | - | - | - | - |
 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 824 | 0 | 630 |
 | [War Thugz - Satoshi City](games/3/3015d993989f40269abf39559053efcd.md) | - | - | - | - |
 | [Warface: Clutch](games/w/warface.md) | 3.89 | 1,133 | 506 | 235 |

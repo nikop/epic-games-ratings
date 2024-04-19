@@ -141,7 +141,7 @@
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 12 | - | 0 |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-08 | 26 (1,000 XP) | 11 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
-| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 516,014 | 4.27 | 342 |
+| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 516,014 | 4.27 | 345 |
 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-07 | 23 (1,000 XP) | 51 | - | 0 |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 18 | - | 0 |
 | [The Chosen One by the World](games/e/e075cda690de4ad68eaa173317863162.md) | 2024-02-05 | 5 (1,000 XP) | 1 | - | - |
@@ -800,7 +800,7 @@
 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 2022-10-06 | 29 (1,000 XP) | 48,307 | 4.28 | 131 |
 | [The Complex](games/t/the_complex.md) | 2022-10-04 | 20 (1,000 XP) | 1,019 | - | 0 |
 | [Airoheart](games/a/airoheart.md) | 2022-09-30 | 29 (1,000 XP) | 0 | - | 0 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 230,044 | 4.26 | 23,141 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 230,044 | 4.26 | 23,228 |
 | [Bunny Park](games/b/bunny_park.md) | 2022-09-30 | 18 (1,000 XP) | 325 | - | 0 |
 | [Lemon Cake](games/l/lemon_cake.md) | 2022-09-29 | 17 (1,000 XP) | 247 | - | 0 |
 | [Despot's Game](games/d/despot's_game.md) | 2022-09-29 | 35 (1,000 XP) | 516 | 4.50 | 0 |
