@@ -4,7 +4,7 @@
   "ProductSlug": "voidtrain",
   "Ranking_Rating": 638,
   "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1428,10 +1428,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 273,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-04-19T17:57:57.512289+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 275,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 273,
+  "NumberOfAwards": 275,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1445,7 +1451,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1475,7 +1481,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1515,9 +1521,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
   "FirstSeenAchievements": "2024-03-21T17:08:56.8390151+00:00",
-  "LastChanged": "2024-04-16T07:58:33.9427753+00:00",
+  "LastChanged": "2024-04-19T17:57:57.5122887+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:53.2646685+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:26:45.8203013+00:00",
-  "LastUpdate_Ratings": "2024-04-19T16:00:50.6553329+00:00",
+  "LastUpdate_Ratings": "2024-04-19T17:57:57.5122893+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:53.2646716+00:00"
 }
