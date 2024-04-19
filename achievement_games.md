@@ -348,7 +348,7 @@
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 2023-09-29 | 14 (1,000 XP) | 0 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 24 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.21 | 17,926 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.20 | 17,926 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,475 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 371,874 | 4.21 | 101 |
@@ -419,7 +419,7 @@
 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2023-08-29 | 46 (1,000 XP) | 145 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 2,965 | 4.85 | 43 |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 11 | - | 0 |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 359,427 | 4.41 | 31 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 359,427 | 4.42 | 31 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 4,907 | 4.64 | 0 |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | 41 (1,000 XP) | 0 | - | 0 |
@@ -656,7 +656,7 @@
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,614 | - | 0 |
 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 2023-04-11 | 12 (1,000 XP) | 6 | - | 0 |
-| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,991 | 4.52 | 0 |
+| [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 2023-04-11 | 28 (1,000 XP) | 1,991 | 4.47 | 0 |
 | [Undead Horde](games/u/undead_horde.md) | 2023-04-11 | 24 (1,000 XP) | 2 | - | 0 |
 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 2023-04-10 | 10 (1,000 XP) | 100 | - | 0 |
 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 2023-04-10 | 48 (1,000 XP) | 71 | - | 0 |
@@ -819,7 +819,7 @@
 | [Isonzo](games/i/isonzo.md) | 2022-09-13 | 45 (1,000 XP) | 9,230 | 4.57 | 49 |
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 55 | - | 0 |
-| [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.16 | 0 |
+| [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.18 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,821 | 4.77 | 1,321 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 755,320 | 4.17 | 335 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.53 | 39 |
@@ -972,7 +972,7 @@
 | [Transport Fever 2](games/t/transport_fever_2.md) | 2021-08-18 | 61 (1,000 XP) | 2,718 | 4.68 | 51 |
 | [Road 96](games/r/road_96.md) | 2021-08-16 | 12 (1,000 XP) | 2 | 4.67 | 0 |
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 185 | - | 0 |
-| [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 79,040 | 4.63 | 23 |
+| [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 79,040 | 4.64 | 23 |
 | [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 22,917 | 4.69 | 346 |
 | [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 176,159 | 4.60 | 76 |
 | [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 152,090 | 4.39 | 341 |
@@ -999,7 +999,7 @@
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 65 | 4.67 | 0 |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 198 | 4.45 | 27 |
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 2021-03-18 | 19 (1,000 XP) | 1,231 | 4.36 | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 127,520 | 4.41 | 2,061 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 127,520 | 4.41 | 2,065 |
 | [Scrapnaut](games/s/scrapnaut.md) | 2021-03-03 | 31 (1,000 XP) | 789 | 4.32 | 0 |
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 49,077 | 4.59 | 230 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 70 | - | 0 |
@@ -1036,7 +1036,7 @@
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 1,246 | 4.84 | 52 |
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 144,045 | 4.87 | 802 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 358 (3,440 XP) | 18,723 | 4.65 | 240 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 107,305 | 4.74 | 9,087 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 107,305 | 4.74 | 9,098 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 45,186 | 4.68 | 924 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 733,435 | 4.92 | 3,744 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 52,183 | 4.67 | 0 |
