@@ -1,7 +1,7 @@
 # Lumberjack's Dynasty
 [Store](https://store.epicgames.com/en-US/p/lumberjacks-dynasty)  
 [View Rawdata](../../db/l/lumberjack's_dynasty.json)  
-Rating: 4.08 (Ranked 1,085)  
+Rating: 4.09 (Ranked 1,082)  
 Number of Ratings: 61  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -60,3 +60,4 @@ Number of Ratings: 61  (23.09.2022)
 | 2023-12-20 | 4.08 | - | 0 | 0 |
 | 2024-01-27 | 4.09 | - | 0 | 0 |
 | 2024-02-13 | 4.08 | - | 0 | 0 |
+| 2024-04-19 | 4.09 | - | 0 | 0 |
