@@ -1,7 +1,7 @@
 # Necrosmith
 [Store](https://store.epicgames.com/en-US/p/necrosmith-b2ef15)  
 [View Rawdata](../../db/n/necrosmith.json)  
-Rating: 4.41 (Ranked 783)  
+Rating: 4.40 (Ranked 797)  
 Number of Ratings: 131  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -38,3 +38,4 @@ Number of Ratings: 131  (23.09.2022)
 | 2023-03-31 | 4.39 | - | 0 | 0 |
 | 2023-04-29 | 4.40 | - | 0 | 0 |
 | 2023-10-16 | 4.41 | - | 0 | 0 |
+| 2024-04-19 | 4.40 | - | 0 | 0 |
