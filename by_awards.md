@@ -30,7 +30,7 @@
 | 28 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 16,380 | 4.21 | 1,005 |
 | 29 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 16,029 | 4.59 | 465 |
 | 30 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,701 | 4.60 | 448 |
-| 31 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,028 | 4.44 | 737 |
+| 31 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,037 | 4.44 | 737 |
 | 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 14,984 | 4.84 | 43 |
 | 33 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,839 | 4.58 | 488 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 14,129 | 4.46 | 703 |
@@ -88,10 +88,10 @@
 | 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,098 | 4.37 | 848 |
 | 87 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,986 | 4.70 | 221 |
 | 88 | [The Sims™ 4](games/t/the_sims™_4.md) | 4,960 | 4.62 | 397 |
-| 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,814 | 4.65 | 341 |
+| 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,819 | 4.65 | 341 |
 | 90 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 534 |
 | 91 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,693 | 4.70 | 221 |
-| 92 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,648 | 4.68 | 274 |
+| 92 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,654 | 4.68 | 274 |
 | 93 | [Days Gone](games/d/days_gone.md) | 4,533 | 4.68 | 274 |
 | 94 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,506 | 4.46 | 703 |
 | 95 | [Paladins](games/p/paladins.md) | 4,344 | 4.32 | 905 |
@@ -306,7 +306,7 @@
 | 304 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 237 | 4.84 | 43 |
 | 305 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 236 | 4.58 | 488 |
 | 306 | [Crying Suns](games/c/crying_suns.md) | 235 | 4.51 | 619 |
-| 307 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 234 | 4.65 | 341 |
+| 306 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 235 | 4.65 | 341 |
 | 308 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 231 | 4.84 | 43 |
 | 309 | [Sunless Sea](games/s/sunless_sea.md) | 230 | 4.59 | 465 |
 | 310 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 228 | 4.57 | 512 |
@@ -392,7 +392,7 @@
 | 390 | [Verdun](games/v/verdun.md) | 113 | 4.53 | 586 |
 | 391 | [Just Die Already](games/j/just_die_already.md) | 111 | 4.52 | 604 |
 | 392 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 110 | 4.32 | 905 |
-| 393 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 109 | 4.16 | 1,045 |
+| 392 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 110 | 4.16 | 1,045 |
 | 394 | [Darksiders III](games/d/darksiders_iii.md) | 107 | 4.47 | 686 |
 | 394 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 107 | 4.73 | 179 |
 | 396 | [Witchfire](games/w/witchfire.md) | 106 | 4.61 | 418 |

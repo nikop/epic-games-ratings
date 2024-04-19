@@ -273,7 +273,7 @@
 | 245 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 630 |
 | 245 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,150 | 160 |
 | 245 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 261 | 293 |
-| 274 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,648 | 92 |
+| 274 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,654 | 92 |
 | 274 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 793 | 199 |
 | 274 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 630 |
 | 274 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 161,503 | 7 |
@@ -346,7 +346,7 @@
 | 341 | [DOOM II](games/d/doom_ii.md) | 4.65 | 29 | 569 |
 | 341 | [Dungeons 4](games/d/dungeons_4.md) | 4.65 | 0 | 630 |
 | 341 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 630 |
-| 341 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 234 | 307 |
+| 341 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 235 | 306 |
 | 341 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 61 | 469 |
 | 341 | [Old World](games/o/old_world.md) | 4.65 | 240 | 301 |
 | 341 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,192 | 157 |
@@ -354,7 +354,7 @@
 | 341 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 458 |
 | 341 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 630 |
 | 341 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 511 | 234 |
-| 341 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,814 | 89 |
+| 341 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,819 | 89 |
 | 341 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 118 | 385 |
 | 357 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,090 | 75 |
 | 357 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.64 | 0 | 630 |
@@ -745,7 +745,7 @@
 | 737 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.44 | 76 | 443 |
 | 737 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 333 | 272 |
 | 737 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 386 |
-| 737 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,028 | 31 |
+| 737 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,037 | 31 |
 | 737 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 57 | 476 |
 | 737 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 630 |
 | 737 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 630 |
@@ -1047,7 +1047,7 @@
 | 1,045 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.16 | 0 | 630 |
 | 1,045 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 630 |
 | 1,045 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 625 | 217 |
-| 1,045 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 109 | 393 |
+| 1,045 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 110 | 392 |
 | 1,045 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 0 | 630 |
 | 1,045 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 630 |
 | 1,045 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 343 |
@@ -1149,9 +1149,9 @@
 | 1,147 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 630 |
 | 1,147 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 630 |
 | 1,147 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.79 | 0 | 630 |
+| 1,150 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.75 | 0 | 630 |
 | 1,150 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 630 |
-| 1,151 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.74 | 0 | 630 |
-| 1,152 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.73 | 0 | 630 |
+| 1,152 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.74 | 0 | 630 |
 | 1,153 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.71 | 0 | 630 |
 | 1,154 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 3.70 | 0 | 630 |
 | 1,155 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 630 |
