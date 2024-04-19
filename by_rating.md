@@ -115,7 +115,7 @@
 | 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,482 | 46 |
 | 112 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 984 | 180 |
 | 112 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 461 | 243 |
-| 112 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,444 | 72 |
+| 112 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,446 | 72 |
 | 112 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 65 | 462 |
 | 112 | [The Machines Arena](games/t/the_machines_arena.md) | 4.78 | 0 | 630 |
 | 112 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.78 | 60 | 470 |
@@ -169,7 +169,7 @@
 | 164 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 57 | 476 |
 | 164 | [Fez](games/f/fez.md) | 4.74 | 26 | 583 |
 | 164 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 930 | 185 |
-| 164 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 37,346 | 17 |
+| 164 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 37,373 | 17 |
 | 164 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 897 | 188 |
 | 164 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,087 | 56 |
 | 164 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 52,362 | 14 |
@@ -427,7 +427,7 @@
 | 418 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 630 |
 | 418 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 59,561 | 13 |
 | 418 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.61 | 176 | 343 |
-| 418 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 146 | 360 |
+| 418 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 148 | 360 |
 | 418 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 152 | 358 |
 | 418 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 630 |
 | 418 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 64 | 463 |

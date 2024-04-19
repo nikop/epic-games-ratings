@@ -16,7 +16,7 @@
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 52,362 | 4.74 | 164 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 44,554 | 4.51 | 619 |
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 43,270 | 4.72 | 195 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,346 | 4.74 | 164 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,373 | 4.74 | 164 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,045 | 4.64 | 357 |
 | 19 | [Dauntless](games/d/dauntless.md) | 28,498 | 4.53 | 586 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 26,924 | 4.89 | 13 |
@@ -71,7 +71,7 @@
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,950 | 4.58 | 488 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 771 |
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,534 | 4.80 | 90 |
-| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,444 | 4.78 | 112 |
+| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,446 | 4.78 | 112 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,218 | 4.66 | 315 |
 | 74 | [Rogue Company](games/r/rogue_company.md) | 6,179 | 4.28 | 938 |
 | 75 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,090 | 4.64 | 357 |
@@ -359,7 +359,7 @@
 | 357 | [Night in the Woods](games/n/night_in_the_woods.md) | 157 | 4.73 | 179 |
 | 358 | [Atomicrops](games/a/atomicrops.md) | 152 | 4.86 | 29 |
 | 358 | [Going Medieval](games/g/going_medieval.md) | 152 | 4.61 | 418 |
-| 360 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 146 | 4.61 | 418 |
+| 360 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 148 | 4.61 | 418 |
 | 361 | [while True: learn()](games/w/while_true__learn().md) | 145 | 4.51 | 619 |
 | 362 | [Alien: Isolation](games/a/alien__isolation.md) | 144 | 4.61 | 418 |
 | 363 | [Aimlabs](games/a/aimlabs.md) | 139 | 4.61 | 418 |
