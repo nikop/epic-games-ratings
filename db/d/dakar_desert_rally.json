@@ -2025,10 +2025,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 683,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-04-19T12:59:50.7337594+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 684,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 683,
+  "NumberOfAwards": 684,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2078,7 +2084,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2105,8 +2111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-04-19T09:57:09.962823+00:00",
+  "LastChanged": "2024-04-19T12:59:50.7337592+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:21.5640645+00:00",
-  "LastUpdate_Ratings": "2024-04-19T10:59:26.8824132+00:00",
+  "LastUpdate_Ratings": "2024-04-19T12:59:50.7337598+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:50.9148982+00:00"
 }
