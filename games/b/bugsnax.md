@@ -1,7 +1,7 @@
 # Bugsnax
 [Store](https://store.epicgames.com/en-US/p/bugsnax)  
 [View Rawdata](../../db/b/bugsnax.json)  
-Rating: 4.86 (Ranked 29)  
+Rating: 4.86 (Ranked 28)  
 Number of Ratings: 425  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -324,8 +324,8 @@ Completed: 1,474 (4.99%) (Ranked 94)
 | 2024-04-10 | 29,544 | 1,474 |
 ## Awards
 Max (Amazing Storytelling): 47  (Ranked 505)  
-Sum: 415 (Ranked 383)  
-Diff (max vs sum): 122  
+Sum: 415 (Ranked 382)  
+Diff (max vs sum): 123  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 47 |
