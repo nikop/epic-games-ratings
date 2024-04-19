@@ -268,7 +268,7 @@ Completed: 46 (0.01%) (Ranked 431)
 | 2024-04-10 | 492,501 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 84  (Ranked 431)  
-Sum: 613 (Ranked 341)  
+Sum: 614 (Ranked 341)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): 90
 | This game has a Competitive Community | 51 |
 | This game has Challenging Combat | 49 |
 | This game has Competitive Players | 48 |
-| This game has Amazing Characters | 43 |
+| This game has Amazing Characters | 44 |
 | This game is Great for Beginners | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -430,4 +430,4 @@ Diff (max vs sum): 90
 | 2024-04-16 | 4.62 | - | 82 | 607 |
 | 2024-04-17 | 4.62 | - | 82 | 609 |
 | 2024-04-18 | 4.62 | - | 84 | 612 |
-| 2024-04-19 | 4.62 | - | 84 | 613 |
+| 2024-04-19 | 4.62 | - | 84 | 614 |

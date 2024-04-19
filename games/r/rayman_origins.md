@@ -1,7 +1,7 @@
 # Rayman Origins
 [Store](https://store.epicgames.com/en-US/p/rayman-origins)  
 [View Rawdata](../../db/r/rayman_origins.json)  
-Rating: 4.83 (Ranked 55)  
+Rating: 4.84 (Ranked 43)  
 Number of Ratings: 34  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 480)  
@@ -97,3 +97,4 @@ Diff (max vs sum): -67
 | 2024-04-04 | 4.83 | - | 54 | 54 |
 | 2024-04-06 | 4.83 | - | 55 | 55 |
 | 2024-04-10 | 4.83 | - | 56 | 56 |
+| 2024-04-19 | 4.84 | - | 56 | 56 |
