@@ -11,12 +11,12 @@ Completed: 0 (0.00%) (Ranked 455)
 | ---- | ---------- | --------- |
 | 2023-04-25 | 12 | 0 |
 ## Awards
-Max (Impact the Story): 79  (Ranked 439)  
-Sum: 79 (Ranked 525)  
-Diff (max vs sum): -86  
+Max (Impact the Story): 80  (Ranked 437)  
+Sum: 80 (Ranked 525)  
+Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 79 |
+| In this game, your choices Impact the Story | 80 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -106,3 +106,4 @@ Diff (max vs sum): -86
 | 2023-11-19 | 4.22 | - | 78 | 78 |
 | 2023-11-23 | 4.21 | - | 78 | 78 |
 | 2024-02-10 | 4.21 | - | 79 | 79 |
+| 2024-04-19 | 4.21 | - | 80 | 80 |
