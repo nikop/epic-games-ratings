@@ -2,7 +2,7 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_Rating": 773,
+  "Ranking_Rating": 787,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 67,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-08-25T17:58:52.6937379+00:00",
@@ -457,6 +457,12 @@
     {
       "Time": "2024-04-19T20:57:16.4639583+00:00",
       "Rating": 4.42,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-04-20T21:00:02.9629116+00:00",
+      "Rating": 4.41,
       "NumberOfAwards": 169,
       "NumberOfAwardsMax": 31
     }
@@ -19572,9 +19578,9 @@
   "FirstSeen": "2023-08-24T17:59:08.2089952+00:00",
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged": "2024-04-19T20:57:16.4639582+00:00",
+  "LastChanged": "2024-04-20T21:00:02.9629114+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:08.0513087+00:00",
   "LastUpdate_AppInfo": "2024-04-19T12:59:47.1102092+00:00",
-  "LastUpdate_Ratings": "2024-04-20T19:59:00.5701947+00:00",
+  "LastUpdate_Ratings": "2024-04-20T21:00:02.962912+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:08.0514231+00:00"
 }
