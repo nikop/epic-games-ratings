@@ -4,7 +4,7 @@
   "ProductSlug": "infinifactory-ec9686",
   "Ranking_Rating": 550,
   "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 397,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -779,10 +779,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 357,
       "NumberOfAwardsMax": 207
+    },
+    {
+      "Time": "2024-04-20T21:58:47.5762335+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 360,
+      "NumberOfAwardsMax": 207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 357,
+  "NumberOfAwards": 360,
   "NumberOfAwardsMax": 207,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -808,13 +814,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 25
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -849,9 +855,9 @@
   "FirstSeen": "2024-01-25T18:57:35.0792201+00:00",
   "FirstSeenRating": "2024-01-26T22:58:02.5444122+00:00",
   "FirstSeenAchievements": "2024-01-18T17:09:04.5131564+00:00",
-  "LastChanged": "2024-04-19T19:57:25.6961068+00:00",
+  "LastChanged": "2024-04-20T21:58:47.5762333+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:35.8590646+00:00",
   "LastUpdate_AppInfo": "2024-04-18T23:57:19.325899+00:00",
-  "LastUpdate_Ratings": "2024-04-20T20:57:10.1741863+00:00",
+  "LastUpdate_Ratings": "2024-04-20T21:58:47.5762339+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:35.8590678+00:00"
 }
