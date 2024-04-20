@@ -2,6 +2,9 @@
   "ID": "a1f2a672b08f45d28bb6b65eef6ffe41",
   "Name": "The Big Con",
   "ProductSlug": "the-big-con",
+  "Ranking_Rating": 995,
+  "Ranking_Popularity": 631,
+  "Ranking_PopularitySum": 631,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -17,10 +20,17 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:35.1494979+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-20T15:00:33.6387419+00:00",
+      "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -41,8 +51,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:17.9343088+00:00",
   "FirstSeenRating": "2023-03-31T05:58:35.1494977+00:00",
-  "LastChanged": "2023-03-31T05:58:35.1494978+00:00",
+  "LastChanged": "2024-04-20T15:00:33.6387417+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:10.5379889+00:00",
-  "LastUpdate_Ratings": "2024-04-20T13:58:21.1032708+00:00",
+  "LastUpdate_Ratings": "2024-04-20T15:00:33.6387422+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:39.2156149+00:00"
 }

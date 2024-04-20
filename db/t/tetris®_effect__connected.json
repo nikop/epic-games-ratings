@@ -1240,10 +1240,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 606,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-04-20T15:01:21.3435384+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 607,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 606,
+  "NumberOfAwards": 607,
   "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1317,7 +1323,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1337,8 +1343,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-04-19T21:58:04.8507602+00:00",
+  "LastChanged": "2024-04-20T15:01:21.3435382+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:21.8970372+00:00",
-  "LastUpdate_Ratings": "2024-04-20T13:59:08.6696753+00:00",
+  "LastUpdate_Ratings": "2024-04-20T15:01:21.3435388+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:04.0245945+00:00"
 }

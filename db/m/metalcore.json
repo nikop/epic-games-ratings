@@ -2,7 +2,7 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 871,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 583,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -419,6 +419,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 118,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-04-20T15:00:51.0325668+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 118,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
@@ -475,8 +481,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-04-20T06:00:11.6168115+00:00",
+  "LastChanged": "2024-04-20T15:00:51.0325666+00:00",
   "LastUpdate_AppInfo": "2024-04-14T10:00:54.8351775+00:00",
-  "LastUpdate_Ratings": "2024-04-20T13:58:38.5207718+00:00",
+  "LastUpdate_Ratings": "2024-04-20T15:00:51.0325674+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }

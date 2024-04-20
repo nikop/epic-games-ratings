@@ -2,7 +2,7 @@
   "ID": "2e404271085e4eb480f48c3d2e5f08ed",
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-09-21T14:59:00.9142333+00:00",
@@ -2027,10 +2027,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 547,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-04-20T14:59:53.1532344+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 549,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 547,
+  "NumberOfAwards": 549,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2056,7 +2062,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2107,8 +2113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-04-20T13:57:38.7670573+00:00",
+  "LastChanged": "2024-04-20T14:59:53.1532343+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:43.638301+00:00",
-  "LastUpdate_Ratings": "2024-04-20T13:57:38.7670577+00:00",
+  "LastUpdate_Ratings": "2024-04-20T14:59:53.1532347+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:31.820504+00:00"
 }
