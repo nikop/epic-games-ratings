@@ -1,7 +1,7 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.50 (Ranked 637)  
+Rating: 4.50 (Ranked 636)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -197,12 +197,12 @@ Completed: 295 (0.53%) (Ranked 254)
 | 2024-03-21 | 53,569 | 272 |
 | 2024-04-10 | 55,690 | 295 |
 ## Awards
-Max (Great Boss Battles): 12,035  (Ranked 40)  
-Sum: 21,696 (Ranked 66)  
+Max (Great Boss Battles): 12,058  (Ranked 40)  
+Sum: 21,719 (Ranked 66)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 12,035 |
+| This game has Great Boss Battles | 12,058 |
 | This game is Highly Recommended | 1,186 |
 | This game has Quickly Understood Controls | 1,149 |
 | This game has Amazing Characters | 1,149 |
@@ -571,4 +571,4 @@ Diff (max vs sum): -26
 | 2024-04-17 | 4.50 | 11,984 | 21,596 |
 | 2024-04-18 | 4.50 | 12,014 | 21,645 |
 | 2024-04-19 | 4.50 | 12,035 | 21,692 |
-| 2024-04-20 | 4.50 | 12,035 | 21,696 |
+| 2024-04-20 | 4.50 | 12,058 | 21,719 |

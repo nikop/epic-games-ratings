@@ -4,16 +4,16 @@
 Rating: 4.35 (Ranked 871)  
 ## Awards
 Max (Diverse Characters): 26  (Ranked 583)  
-Sum: 115 (Ranked 496)  
-Diff (max vs sum): 87  
+Sum: 118 (Ranked 494)  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 26 |
 | This game is Highly Recommended | 25 |
+| This game has Amazing Characters | 23 |
 | This game has a Competitive Community | 22 |
 | This game is Great for Beginners | 22 |
 | This game is Great for Quick Sessions | 21 |
-| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
