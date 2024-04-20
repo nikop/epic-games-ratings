@@ -1,7 +1,7 @@
 # Revita
 [Store](https://store.epicgames.com/en-US/p/revita-d8ff55)  
 [View Rawdata](../../db/r/revita.json)  
-Rating: 4.64 (Ranked 357)  
+Rating: 4.64 (Ranked 358)  
 Number of Ratings: 23  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

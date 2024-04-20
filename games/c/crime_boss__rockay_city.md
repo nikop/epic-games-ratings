@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.96 (Ranked 1,117)  
+Rating: 3.97 (Ranked 1,116)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -723,4 +723,4 @@ Diff (max vs sum): 34
 | 2024-04-17 | 3.96 | 669 | 3,792 |
 | 2024-04-18 | 3.96 | 672 | 3,803 |
 | 2024-04-19 | 3.96 | 672 | 3,811 |
-| 2024-04-20 | 3.96 | 674 | 3,818 |
+| 2024-04-20 | 3.97 | 674 | 3,818 |
