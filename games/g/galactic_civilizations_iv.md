@@ -367,7 +367,7 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-04-10 | 7,785 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 412)  
-Sum: 703 (Ranked 328)  
+Sum: 704 (Ranked 328)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -377,7 +377,7 @@ Diff (max vs sum): 84
 | This game has Quickly Understood Controls | 87 |
 | This game is Extremely Fun | 83 |
 | This game has Amazing Storytelling | 79 |
-| This game has Competitive Players | 74 |
+| This game has Competitive Players | 75 |
 | This game has Amazing Characters | 68 |
 | This game has Obsessive Gameplay | 50 |
 | This game has a Creative Community | 32 |
@@ -510,3 +510,4 @@ Diff (max vs sum): 84
 | 2024-01-12 | 4.17 | - | 99 | 701 |
 | 2024-01-18 | 4.17 | - | 99 | 702 |
 | 2024-03-30 | 4.17 | - | 99 | 703 |
+| 2024-04-20 | 4.17 | - | 99 | 704 |
