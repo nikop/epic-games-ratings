@@ -12517,10 +12517,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 12799,
       "NumberOfAwardsMax": 1575
+    },
+    {
+      "Time": "2024-04-20T07:00:30.6760739+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 12800,
+      "NumberOfAwardsMax": 1575
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12799,
+  "NumberOfAwards": 12800,
   "NumberOfAwardsMax": 1575,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -12576,7 +12582,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 699
+      "Count": 700
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12596,8 +12602,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2024-04-20T05:58:44.6693063+00:00",
+  "LastChanged": "2024-04-20T07:00:30.6760738+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:34.5511048+00:00",
-  "LastUpdate_Ratings": "2024-04-20T05:58:44.6693069+00:00",
+  "LastUpdate_Ratings": "2024-04-20T07:00:30.6760744+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:11.8326199+00:00"
 }
