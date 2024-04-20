@@ -2,7 +2,7 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
-  "Ranking_Rating": 927,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 985,
@@ -4087,10 +4087,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 2620,
       "NumberOfAwardsMax": 830
+    },
+    {
+      "Time": "2024-04-20T16:58:19.1515868+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2624,
+      "NumberOfAwardsMax": 830
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2620,
+  "NumberOfAwards": 2624,
   "NumberOfAwardsMax": 830,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4104,7 +4110,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4116,7 +4122,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 257
+      "Count": 258
     },
     {
       "Text": "This game is Relaxing",
@@ -4128,7 +4134,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4146,7 +4152,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 231
+      "Count": 232
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4172,8 +4178,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2024-04-19T19:59:26.9115902+00:00",
+  "LastChanged": "2024-04-20T16:58:19.1515866+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:26:18.0505786+00:00",
-  "LastUpdate_Ratings": "2024-04-20T15:01:00.0978432+00:00",
+  "LastUpdate_Ratings": "2024-04-20T16:58:19.1515873+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:10.5945486+00:00"
 }
