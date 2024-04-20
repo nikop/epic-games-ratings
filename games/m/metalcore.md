@@ -4,8 +4,8 @@
 Rating: 4.34 (Ranked 885)  
 ## Awards
 Max (Diverse Characters): 26  (Ranked 583)  
-Sum: 118 (Ranked 494)  
-Diff (max vs sum): 89  
+Sum: 138 (Ranked 486)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 26 |
@@ -14,6 +14,7 @@ Diff (max vs sum): 89
 | This game has a Competitive Community | 22 |
 | This game is Great for Beginners | 22 |
 | This game is Great for Quick Sessions | 21 |
+| This game has Competitive Players | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -43,4 +44,4 @@ Diff (max vs sum): 89
 | 2024-04-17 | 4.29 | 0 | 0 |
 | 2024-04-18 | 4.32 | 23 | 84 |
 | 2024-04-19 | 4.35 | 25 | 133 |
-| 2024-04-20 | 4.35 | 26 | 136 |
+| 2024-04-20 | 4.35 | 26 | 138 |
