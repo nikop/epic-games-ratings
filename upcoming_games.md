@@ -63,6 +63,7 @@
 | [RETOOLED](games/3/3bb0cfb02595417f9134a5f31bc46333.md) | 2024-05-31 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-05-31 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-05-31 | - |  | - | - |
+| [SU - Unlocking the 4th Dimension](games/0/0f03319acbc0407eb2585c62d77d2510.md) | 2024-05-31 | - |  | - | - |
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-05-31 | - |  | - | - |
 | [Western Chapter](games/2/2b0ab0a4593344dda8d3cfec92611189.md) | 2024-05-31 | - |  | - | - |
 | [What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-05-31 | - |  | - | - |
