@@ -3,8 +3,8 @@
   "Name": "Escape Academy",
   "ProductSlug": "escape-academy-bfc2bf",
   "Ranking_Rating": 704,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 550,
+  "Ranking_Popularity": 478,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -209,18 +209,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 55,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-04-20T19:57:51.6824623+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 57,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55,
-  "NumberOfAwardsMax": 55,
+  "NumberOfAwards": 57,
+  "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 55
+      "Count": 57
     }
   ],
   "EOS_Progressed": 0,
@@ -235,8 +241,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:39.3995544+00:00",
   "FirstSeenRating": "2023-03-31T05:57:28.0407293+00:00",
-  "LastChanged": "2024-04-15T15:58:17.5093662+00:00",
+  "LastChanged": "2024-04-20T19:57:51.6824618+00:00",
   "LastUpdate_AppInfo": "2024-04-14T10:00:54.2032849+00:00",
-  "LastUpdate_Ratings": "2024-04-20T17:59:18.5842405+00:00",
+  "LastUpdate_Ratings": "2024-04-20T19:57:51.6824626+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:11.0065505+00:00"
 }
