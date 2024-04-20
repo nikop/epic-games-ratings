@@ -2,9 +2,9 @@
   "ID": "tulip",
   "Name": "Thimbleweed Park",
   "ProductSlug": "thimbleweed-park",
-  "Ranking_Rating": 464,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Rating": 465,
+  "Ranking_Popularity": 543,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -372,18 +372,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-04-20T12:58:47.6461708+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 35,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 34
+      "Count": 35
     }
   ],
   "EOS_Progressed": 0,
@@ -397,8 +403,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
-  "LastChanged": "2024-03-24T16:58:31.9871666+00:00",
+  "LastChanged": "2024-04-20T12:58:47.6461706+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:30.7139307+00:00",
-  "LastUpdate_Ratings": "2024-04-20T10:58:50.1740692+00:00",
+  "LastUpdate_Ratings": "2024-04-20T12:58:47.646171+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:33.2144633+00:00"
 }

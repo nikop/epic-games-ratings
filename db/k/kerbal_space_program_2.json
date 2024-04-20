@@ -4,7 +4,7 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 915,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -2567,10 +2567,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 600,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-04-20T12:59:21.0089899+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 602,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 600,
+  "NumberOfAwards": 602,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2590,7 +2596,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 79
+      "Count": 81
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -2647,8 +2653,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-04-20T03:58:11.0815666+00:00",
+  "LastChanged": "2024-04-20T12:59:21.0089897+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:39.2052725+00:00",
-  "LastUpdate_Ratings": "2024-04-20T10:59:23.2417796+00:00",
+  "LastUpdate_Ratings": "2024-04-20T12:59:21.0089903+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:32.7623108+00:00"
 }
