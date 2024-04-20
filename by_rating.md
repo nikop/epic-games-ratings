@@ -327,7 +327,7 @@
 | 315 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 630 |
 | 315 | [Northgard](games/n/northgard.md) | 4.66 | 47 | 505 |
 | 315 | [Overcooked](games/o/overcooked.md) | 4.66 | 135 | 369 |
-| 315 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,993 | 130 |
+| 315 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,994 | 130 |
 | 315 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 26 | 583 |
 | 315 | [SOMA](games/s/soma.md) | 4.66 | 0 | 630 |
 | 315 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.66 | 0 | 630 |
@@ -550,7 +550,7 @@
 | 534 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,805 | 137 |
 | 534 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,955 | 80 |
 | 550 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 630 |
-| 550 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 364 | 259 |
+| 550 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 364 | 260 |
 | 550 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 612 |
 | 550 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,199 | 122 |
 | 550 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 41 | 521 |
@@ -623,7 +623,7 @@
 | 618 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 630 |
 | 618 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 44,583 | 15 |
 | 618 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 158,767 | 8 |
-| 618 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 364 | 259 |
+| 618 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 365 | 259 |
 | 618 | [GigaBash](games/g/gigabash.md) | 4.51 | 83 | 432 |
 | 618 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 162 | 353 |
 | 618 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.51 | 0 | 630 |
@@ -782,7 +782,7 @@
 | 772 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.42 | 0 | 630 |
 | 772 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
 | 772 | [SMITE](games/s/smite.md) | 4.42 | 5,580 | 82 |
-| 772 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,246 | 152 |
+| 772 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,249 | 152 |
 | 772 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 174 | 345 |
 | 772 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 630 |
 | 786 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.41 | 0 | 630 |
