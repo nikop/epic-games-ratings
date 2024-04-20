@@ -240,7 +240,7 @@
 | 221 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.70 | 0 | 630 |
 | 221 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 630 |
 | 221 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 630 |
-| 221 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,986 | 88 |
+| 221 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,988 | 88 |
 | 221 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.70 | 0 | 630 |
 | 221 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 630 |
 | 221 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 630 |
@@ -263,7 +263,7 @@
 | 245 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 630 |
 | 245 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 678 | 208 |
 | 245 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 526 |
-| 245 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,156 | 39 |
+| 245 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,160 | 39 |
 | 245 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 74 | 452 |
 | 245 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 591 | 225 |
 | 245 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.69 | 0 | 630 |
@@ -371,7 +371,7 @@
 | 357 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,045 | 18 |
 | 357 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.64 | 0 | 630 |
 | 357 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 38 | 531 |
-| 357 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,164 | 159 |
+| 357 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,166 | 159 |
 | 357 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 0 | 630 |
 | 357 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 224 | 312 |
 | 375 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.63 | 0 | 630 |
@@ -527,7 +527,7 @@
 | 512 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 4.57 | 52 | 495 |
 | 512 | [Minit](games/m/minit.md) | 4.57 | 0 | 630 |
 | 512 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,710 | 101 |
-| 512 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,573 | 103 |
+| 512 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,577 | 103 |
 | 512 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.57 | 26 | 583 |
 | 512 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,527 | 83 |
 | 512 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,641 | 21 |
@@ -667,7 +667,7 @@
 | 656 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 0 | 630 |
 | 656 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,080 | 168 |
 | 656 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 44 | 514 |
-| 656 | [Solitairica](games/s/solitairica.md) | 4.49 | 97 | 416 |
+| 656 | [Solitairica](games/s/solitairica.md) | 4.49 | 98 | 414 |
 | 656 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.49 | 0 | 630 |
 | 656 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 630 |
 | 656 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 11,540 | 44 |
@@ -788,7 +788,7 @@
 | 786 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.41 | 0 | 630 |
 | 786 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.41 | 31 | 557 |
 | 786 | [Iron Harvest](games/i/iron_harvest.md) | 4.41 | 0 | 630 |
-| 786 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 416 |
+| 786 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 417 |
 | 786 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.41 | 0 | 630 |
 | 786 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.41 | 0 | 630 |
 | 786 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.41 | 257 | 294 |

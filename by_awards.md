@@ -38,7 +38,7 @@
 | 36 | [Dead Island 2](games/d/dead_island_2.md) | 13,295 | 4.54 | 566 |
 | 37 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,898 | 4.36 | 857 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 12,376 | 4.77 | 122 |
-| 39 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,156 | 4.69 | 245 |
+| 39 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,160 | 4.69 | 245 |
 | 40 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 12,058 | 4.50 | 636 |
 | 41 | [Bloons TD 6](games/b/bloons_td_6.md) | 11,920 | 4.77 | 122 |
 | 42 | [NBA 2K21](games/n/nba_2k21.md) | 11,863 | 4.38 | 832 |
@@ -87,7 +87,7 @@
 | 85 | [Shop Titans](games/s/shop_titans.md) | 5,120 | 4.00 | 1,107 |
 | 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,111 | 4.37 | 848 |
 | 87 | [The Sims™ 4](games/t/the_sims™_4.md) | 4,994 | 4.62 | 397 |
-| 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,986 | 4.70 | 221 |
+| 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,988 | 4.70 | 221 |
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,819 | 4.65 | 340 |
 | 90 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 534 |
 | 91 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,696 | 4.70 | 221 |
@@ -102,7 +102,7 @@
 | 100 | [Hades](games/h/hades.md) | 3,744 | 4.92 | 5 |
 | 101 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,710 | 4.57 | 512 |
 | 102 | [Gloomhaven](games/g/gloomhaven.md) | 3,670 | 4.47 | 685 |
-| 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,573 | 4.57 | 512 |
+| 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,577 | 4.57 | 512 |
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,559 | 4.76 | 140 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,504 | 4.19 | 1,024 |
 | 106 | [Among Us](games/a/among_us.md) | 3,289 | 4.56 | 534 |
@@ -158,7 +158,7 @@
 | 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,213 | 4.47 | 685 |
 | 157 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,192 | 4.65 | 340 |
 | 157 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,192 | 4.74 | 164 |
-| 159 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,164 | 4.64 | 357 |
+| 159 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,166 | 4.64 | 357 |
 | 160 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,150 | 4.69 | 245 |
 | 161 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,133 | 4.53 | 586 |
 | 162 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,132 | 4.61 | 418 |
@@ -414,9 +414,9 @@
 | 412 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 99 | 4.17 | 1,037 |
 | 412 | [The Captain](games/t/the_captain.md) | 99 | 4.44 | 739 |
 | 414 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 98 | 4.54 | 566 |
+| 414 | [Solitairica](games/s/solitairica.md) | 98 | 4.49 | 656 |
 | 414 | [WarmSnow](games/w/warmsnow.md) | 98 | 4.80 | 90 |
-| 416 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 97 | 4.41 | 786 |
-| 416 | [Solitairica](games/s/solitairica.md) | 97 | 4.49 | 656 |
+| 417 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 97 | 4.41 | 786 |
 | 418 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 1,033 |
 | 419 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 95 | 4.26 | 962 |
 | 419 | [RAILGRADE](games/r/railgrade.md) | 95 | 4.55 | 550 |
