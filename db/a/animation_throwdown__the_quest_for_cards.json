@@ -3,7 +3,7 @@
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
   "Ranking_Rating": 915,
-  "Ranking_Popularity": 249,
+  "Ranking_Popularity": 250,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -3521,10 +3521,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 3101,
       "NumberOfAwardsMax": 425
+    },
+    {
+      "Time": "2024-04-20T13:58:15.399145+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 3102,
+      "NumberOfAwardsMax": 425
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3101,
+  "NumberOfAwards": 3102,
   "NumberOfAwardsMax": 425,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3568,7 +3574,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 389
+      "Count": 390
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3600,8 +3606,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-04-19T11:01:26.3285235+00:00",
+  "LastChanged": "2024-04-20T13:58:15.3991449+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:09.197718+00:00",
-  "LastUpdate_Ratings": "2024-04-20T11:59:21.0064079+00:00",
+  "LastUpdate_Ratings": "2024-04-20T13:58:15.3991453+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:16.8021962+00:00"
 }
