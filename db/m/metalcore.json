@@ -2,9 +2,9 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 870,
+  "Ranking_Rating": 871,
   "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 486,
+  "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -407,10 +407,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 136,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-04-20T02:15:20.0720222+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 115,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 136,
+  "NumberOfAwards": 115,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -463,8 +469,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-04-20T00:00:22.6773084+00:00",
+  "LastChanged": "2024-04-20T02:15:20.0720219+00:00",
   "LastUpdate_AppInfo": "2024-04-14T10:00:54.8351775+00:00",
-  "LastUpdate_Ratings": "2024-04-20T00:00:22.6773088+00:00",
+  "LastUpdate_Ratings": "2024-04-20T02:15:20.0720229+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }
