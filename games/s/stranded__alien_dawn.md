@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/stranded__alien_dawn.json)  
 Rating: 4.56 (Ranked 533)  
 ## Awards
-Max (Great for Beginners): 26  (Ranked 585)  
-Sum: 26 (Ranked 603)  
+Max (Great for Beginners): 26  (Ranked 586)  
+Sum: 26 (Ranked 604)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
