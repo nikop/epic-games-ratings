@@ -1,7 +1,7 @@
 # SpellForce 3: Soul Harvest
 [Store](https://store.epicgames.com/en-US/p/spellforce-3-soul-harvest)  
 [View Rawdata](../../db/s/spellforce_3__soul_harvest.json)  
-Rating: 4.51 (Ranked 617)  
+Rating: 4.52 (Ranked 603)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -35,3 +35,4 @@ Rating: 4.51 (Ranked 617)
 | 2023-11-04 | 4.49 | 0 | 0 |
 | 2024-01-13 | 4.50 | 0 | 0 |
 | 2024-04-17 | 4.51 | 0 | 0 |
+| 2024-04-20 | 4.52 | 0 | 0 |
