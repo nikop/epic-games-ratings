@@ -2,7 +2,7 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light Enhanced Edition",
   "ProductSlug": "dying-light",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 3,
@@ -19058,10 +19058,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 118011,
       "NumberOfAwardsMax": 59726
+    },
+    {
+      "Time": "2024-04-21T20:59:07.3631912+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 118050,
+      "NumberOfAwardsMax": 59726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 118011,
+  "NumberOfAwards": 118050,
   "NumberOfAwardsMax": 59726,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19075,7 +19081,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 27896
+      "Count": 27930
     },
     {
       "Text": "This game is Great for Beginners",
@@ -19087,7 +19093,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4746
+      "Count": 4751
     },
     {
       "Text": "This game is Highly Recommended",
@@ -52359,9 +52365,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
-  "LastChanged": "2024-04-21T17:59:05.7932874+00:00",
+  "LastChanged": "2024-04-21T20:59:07.3631911+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:10.1984298+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:55.3620529+00:00",
-  "LastUpdate_Ratings": "2024-04-21T19:58:27.2410873+00:00",
+  "LastUpdate_Ratings": "2024-04-21T20:59:07.3631919+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:10.1986473+00:00"
 }

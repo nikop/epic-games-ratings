@@ -13709,10 +13709,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 2421000,
       "NumberOfAwardsMax": 360759
+    },
+    {
+      "Time": "2024-04-21T20:58:45.1967496+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 2423111,
+      "NumberOfAwardsMax": 360759
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2421000,
+  "NumberOfAwards": 2423111,
   "NumberOfAwardsMax": 360759,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13720,13 +13726,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 306474
+      "Count": 306932
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 285949
+      "Count": 286370
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13738,13 +13744,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 283194
+      "Count": 283610
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 284554
+      "Count": 284923
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13756,7 +13762,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 294612
+      "Count": 295059
     },
     {
       "Text": "This game has Amazing Characters",
@@ -13788,8 +13794,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2024-04-21T17:58:44.789158+00:00",
+  "LastChanged": "2024-04-21T20:58:45.1967494+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:58:15.7546493+00:00",
-  "LastUpdate_Ratings": "2024-04-21T19:00:04.2933953+00:00",
+  "LastUpdate_Ratings": "2024-04-21T20:58:45.19675+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:05.9548482+00:00"
 }

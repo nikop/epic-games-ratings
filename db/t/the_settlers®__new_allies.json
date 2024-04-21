@@ -2,7 +2,7 @@
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
   "ProductSlug": "the-settlers",
-  "Ranking_Rating": 1137,
+  "Ranking_Rating": 1136,
   "Ranking_Popularity": 364,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 985,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.87,
+  "Rating": 3.88,
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -1987,6 +1987,12 @@
       "Rating": 3.87,
       "NumberOfAwards": 399,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2024-04-21T20:58:51.3959544+00:00",
+      "Rating": 3.88,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
@@ -2025,8 +2031,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2024-04-21T11:59:51.6073527+00:00",
+  "LastChanged": "2024-04-21T20:58:51.3959542+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:49.3084382+00:00",
-  "LastUpdate_Ratings": "2024-04-21T19:00:09.6488678+00:00",
+  "LastUpdate_Ratings": "2024-04-21T20:58:51.3959547+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:15.5053141+00:00"
 }

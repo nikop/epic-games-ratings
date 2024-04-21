@@ -2,7 +2,7 @@
   "ID": "4750c68b2bfa4f43933b81cfd5cc510c",
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
-  "Ranking_Rating": 1024,
+  "Ranking_Rating": 1033,
   "Ranking_Popularity": 24,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 47,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2023-09-29T21:57:05.6639643+00:00",
@@ -6695,6 +6695,12 @@
     {
       "Time": "2024-04-21T16:58:28.0075698+00:00",
       "Rating": 4.19,
+      "NumberOfAwards": 56368,
+      "NumberOfAwardsMax": 20949
+    },
+    {
+      "Time": "2024-04-21T21:00:19.203576+00:00",
+      "Rating": 4.18,
       "NumberOfAwards": 56368,
       "NumberOfAwardsMax": 20949
     }
@@ -22027,9 +22033,9 @@
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2024-04-21T16:58:28.0075696+00:00",
+  "LastChanged": "2024-04-21T21:00:19.2035759+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:30.789406+00:00",
   "LastUpdate_AppInfo": "2024-04-19T17:57:12.2008138+00:00",
-  "LastUpdate_Ratings": "2024-04-21T19:59:37.3679243+00:00",
+  "LastUpdate_Ratings": "2024-04-21T21:00:19.2035765+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:30.7894844+00:00"
 }
