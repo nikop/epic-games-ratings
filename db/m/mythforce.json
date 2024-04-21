@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 688,
-  "Ranking_Popularity": 533,
+  "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 349,
@@ -828,11 +828,17 @@
       "Rating": 4.47,
       "NumberOfAwards": 299,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-04-21T23:01:24.2943186+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 300,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 299,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 300,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -851,7 +857,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13972,9 +13978,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2024-02-18T21:57:43.1089277+00:00",
+  "LastChanged": "2024-04-21T23:01:24.2943184+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:19.7670722+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:17.7734763+00:00",
-  "LastUpdate_Ratings": "2024-04-21T21:58:40.900673+00:00",
+  "LastUpdate_Ratings": "2024-04-21T23:01:24.2943191+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:19.7671342+00:00"
 }
