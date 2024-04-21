@@ -4,7 +4,7 @@
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_Rating": 957,
   "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 379,
+  "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1685,10 +1685,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 432,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-04-21T14:00:07.7258582+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 436,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 432,
+  "NumberOfAwards": 436,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1708,7 +1714,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game has Competitive Players",
@@ -1720,7 +1726,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1744,7 +1750,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1765,8 +1771,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-04-21T03:59:20.5753633+00:00",
+  "LastChanged": "2024-04-21T14:00:07.725858+00:00",
   "LastUpdate_AppInfo": "2024-04-17T02:16:05.9627905+00:00",
-  "LastUpdate_Ratings": "2024-04-21T13:00:42.4775691+00:00",
+  "LastUpdate_Ratings": "2024-04-21T14:00:07.7258585+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:38.4993537+00:00"
 }

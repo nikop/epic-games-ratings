@@ -375,13 +375,13 @@ Completed: 21 (0.00%) (Ranked 455)
 | 2024-04-10 | 477,651 | 21 |
 ## Awards
 Max (Character Customization): 235  (Ranked 304)  
-Sum: 275 (Ranked 428)  
+Sum: 276 (Ranked 428)  
 Diff (max vs sum): -124  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 235 |
 | This game is Great for Quick Sessions | 24 |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -491,3 +491,4 @@ Diff (max vs sum): -124
 | 2024-03-29 | 4.51 | - | 234 | 254 |
 | 2024-04-01 | 4.51 | - | 234 | 274 |
 | 2024-04-02 | 4.51 | - | 235 | 275 |
+| 2024-04-21 | 4.51 | - | 235 | 276 |
