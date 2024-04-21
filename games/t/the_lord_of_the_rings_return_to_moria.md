@@ -139,7 +139,7 @@ Completed: 561 (0.14%) (Ranked 339)
 | 2024-04-10 | 408,056 | 561 |
 ## Awards
 Max (Great for Beginners): 1,250  (Ranked 152)  
-Sum: 7,010 (Ranked 140)  
+Sum: 7,012 (Ranked 140)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
@@ -150,7 +150,7 @@ Diff (max vs sum): 12
 | This game is Relaxing | 824 |
 | This game has Amazing Characters | 814 |
 | This game has Quickly Understood Controls | 800 |
-| This game has a Creative Community | 506 |
+| This game has a Creative Community | 508 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -334,4 +334,4 @@ Diff (max vs sum): 12
 | 2024-04-18 | 4.42 | 1,246 | 6,976 |
 | 2024-04-19 | 4.42 | 1,246 | 6,982 |
 | 2024-04-20 | 4.42 | 1,249 | 6,997 |
-| 2024-04-21 | 4.42 | 1,250 | 7,010 |
+| 2024-04-21 | 4.42 | 1,250 | 7,012 |
