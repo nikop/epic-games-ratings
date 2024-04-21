@@ -2,7 +2,7 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 894,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -449,10 +449,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 187,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-04-21T11:59:01.3453289+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 189,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187,
+  "NumberOfAwards": 189,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -472,7 +478,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Diverse Characters",
@@ -523,8 +529,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-04-21T10:00:21.0991988+00:00",
+  "LastChanged": "2024-04-21T11:59:01.3453285+00:00",
   "LastUpdate_AppInfo": "2024-04-21T10:57:05.4007582+00:00",
-  "LastUpdate_Ratings": "2024-04-21T10:00:21.0991996+00:00",
+  "LastUpdate_Ratings": "2024-04-21T11:59:01.3453293+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }

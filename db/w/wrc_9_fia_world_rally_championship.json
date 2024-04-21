@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-9",
   "Ranking_Rating": 619,
   "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 422,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -798,10 +798,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 287,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-04-21T11:58:05.1649488+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 257,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 287,
+  "NumberOfAwards": 257,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -889,8 +895,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2024-04-20T11:58:49.0540339+00:00",
+  "LastChanged": "2024-04-21T11:58:05.1649486+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:25:52.5743998+00:00",
-  "LastUpdate_Ratings": "2024-04-21T09:59:32.3137894+00:00",
+  "LastUpdate_Ratings": "2024-04-21T11:58:05.1649492+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:37.6201733+00:00"
 }

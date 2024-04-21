@@ -2,7 +2,7 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 292,
+  "Ranking_Rating": 293,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 985,
@@ -21549,10 +21549,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 1545437,
       "NumberOfAwardsMax": 337814
+    },
+    {
+      "Time": "2024-04-21T11:58:58.5382034+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1545459,
+      "NumberOfAwardsMax": 337814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1545437,
+  "NumberOfAwards": 1545459,
   "NumberOfAwardsMax": 337814,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21614,7 +21620,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 119752
+      "Count": 119774
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -21634,8 +21640,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2024-04-21T08:58:12.3237997+00:00",
+  "LastChanged": "2024-04-21T11:58:58.5382033+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:14.2514097+00:00",
-  "LastUpdate_Ratings": "2024-04-21T10:00:19.0622402+00:00",
+  "LastUpdate_Ratings": "2024-04-21T11:58:58.5382039+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:54.9521911+00:00"
 }
