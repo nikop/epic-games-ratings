@@ -1,17 +1,17 @@
 # Tom Clancy's Rainbow Six Extraction
 [Store](https://store.epicgames.com/en-US/p/rainbow-six-extraction)  
 [View Rawdata](../../db/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.json)  
-Rating: 4.49 (Ranked 657)  
+Rating: 4.48 (Ranked 675)  
 Number of Ratings: 635  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 200  (Ranked 327)  
-Sum: 1,221 (Ranked 278)  
+Sum: 1,222 (Ranked 278)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 200 |
 | This game has Quickly Understood Controls | 185 |
-| This game is Highly Recommended | 183 |
+| This game is Highly Recommended | 184 |
 | This game has Amazing Characters | 170 |
 | This game has Amazing Storytelling | 162 |
 | This game is Extremely Fun | 161 |
@@ -345,3 +345,4 @@ Diff (max vs sum): 49
 | 2024-04-15 | 4.49 | - | 199 | 1,216 |
 | 2024-04-16 | 4.49 | - | 199 | 1,217 |
 | 2024-04-20 | 4.49 | - | 200 | 1,221 |
+| 2024-04-21 | 4.48 | - | 200 | 1,222 |

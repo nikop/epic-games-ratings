@@ -2,7 +2,7 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u0027s Rainbow Six Extraction",
   "ProductSlug": "rainbow-six-extraction",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 675,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "NumberOfRatings": 635,
   "RatingHistory": [
     {
@@ -3019,10 +3019,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 1221,
       "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2024-04-21T17:59:45.3623002+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 1222,
+      "NumberOfAwardsMax": 200
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1221,
+  "NumberOfAwards": 1222,
   "NumberOfAwardsMax": 200,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3072,7 +3078,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3098,8 +3104,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2024-04-20T18:57:57.8352675+00:00",
+  "LastChanged": "2024-04-21T17:59:45.3623+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:07.8081362+00:00",
-  "LastUpdate_Ratings": "2024-04-21T16:58:02.0657907+00:00",
+  "LastUpdate_Ratings": "2024-04-21T17:59:45.3623007+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:08.9319846+00:00"
 }
