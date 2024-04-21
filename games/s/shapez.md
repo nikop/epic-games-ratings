@@ -1,10 +1,10 @@
 # shapez
 [Store](https://store.epicgames.com/en-US/p/shapez-0929c9)  
 [View Rawdata](../../db/s/shapez.json)  
-Rating: 4.71 (Ranked 208)  
+Rating: 4.71 (Ranked 207)  
 ## Awards
 Max (Great for Beginners): 29  (Ranked 571)  
-Sum: 146 (Ranked 483)  
+Sum: 147 (Ranked 483)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 88
 | This game has Quickly Understood Controls | 28 |
 | This game is Relaxing | 26 |
 | This game is Highly Recommended | 23 |
-| This game is Educational | 20 |
+| This game is Educational | 21 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -109,3 +109,4 @@ Diff (max vs sum): 88
 | 2024-04-16 | 4.71 | 29 | 125 |
 | 2024-04-17 | 4.71 | 29 | 145 |
 | 2024-04-20 | 4.71 | 29 | 146 |
+| 2024-04-21 | 4.71 | 29 | 147 |
