@@ -154,6 +154,7 @@
 | [Commandos: Origins](games/7/7c64b0352fb7449082d7331141b36d97.md) | 2024-12-31 | - |  | - | - |
 | [Cornucopia](games/4/4b2f856e9ffe4b1a82c3633e51c29371.md) | 2024-12-31 | - |  | - | - |
 | [Crime 1997](games/2/2ced7203e2f548c5b31cec8739d2a5ca.md) | 2024-12-31 | - |  | - | - |
+| [Cube Step](games/9/94d21a9f81064b058c4d7d0d0bcba0d6.md) | 2024-12-31 | - |  | - | - |
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | - |  | - | - |
 | [Dark Life Excalibur](games/1/136c658efed64efebf3008544fee972b.md) | 2024-12-31 | - |  | - | - |
 | [Dawn Apart](games/d/dawn_apart.md) | 2024-12-31 | - |  | - | - |
