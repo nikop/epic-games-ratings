@@ -15885,10 +15885,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 19090,
       "NumberOfAwardsMax": 2459
+    },
+    {
+      "Time": "2024-04-21T06:00:01.9037513+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 19094,
+      "NumberOfAwardsMax": 2459
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19090,
+  "NumberOfAwards": 19094,
   "NumberOfAwardsMax": 2459,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -15914,7 +15920,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2227
+      "Count": 2231
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15970,8 +15976,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2024-04-21T03:57:31.904742+00:00",
+  "LastChanged": "2024-04-21T06:00:01.9037512+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:25:50.230158+00:00",
-  "LastUpdate_Ratings": "2024-04-21T04:58:58.5354698+00:00",
+  "LastUpdate_Ratings": "2024-04-21T06:00:01.9037517+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:59.7487497+00:00"
 }
