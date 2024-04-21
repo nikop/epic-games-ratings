@@ -1,7 +1,7 @@
 # Patron
 [Store](https://store.epicgames.com/en-US/p/patron-4ab1c1)  
 [View Rawdata](../../db/p/patron.json)  
-Rating: 4.13 (Ranked 1,074)  
+Rating: 4.11 (Ranked 1,077)  
 Number of Ratings: 38  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -50,3 +50,4 @@ Number of Ratings: 38  (23.09.2022)
 | 2024-04-09 | 4.11 | - | 0 | 0 |
 | 2024-04-10 | 4.12 | - | 0 | 0 |
 | 2024-04-17 | 4.13 | - | 0 | 0 |
+| 2024-04-21 | 4.11 | - | 0 | 0 |

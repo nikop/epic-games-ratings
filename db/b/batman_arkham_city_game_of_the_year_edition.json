@@ -2,7 +2,7 @@
   "ID": "40c34bea9cd0460589c867f6a7246342",
   "Name": "Batman Arkham City Game of the Year Edition",
   "ProductSlug": "batman-arkham-city",
-  "Ranking_Rating": 90,
+  "Ranking_Rating": 98,
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 2832,
   "RatingHistory": [
     {
@@ -3004,6 +3004,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 2439,
       "NumberOfAwardsMax": 1796
+    },
+    {
+      "Time": "2024-04-21T15:01:00.5384855+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2439,
+      "NumberOfAwardsMax": 1796
     }
   ],
   "ReviewsDisabled": false,
@@ -3077,8 +3083,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2024-04-20T15:01:29.8246676+00:00",
-  "LastUpdate_AppInfo": "2024-04-14T14:25:24.8077145+00:00",
-  "LastUpdate_Ratings": "2024-04-21T13:57:17.8296032+00:00",
+  "LastChanged": "2024-04-21T15:01:00.5384853+00:00",
+  "LastUpdate_AppInfo": "2024-04-21T14:57:44.5662822+00:00",
+  "LastUpdate_Ratings": "2024-04-21T15:01:00.5384858+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:19.9462323+00:00"
 }
