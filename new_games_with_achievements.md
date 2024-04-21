@@ -37,4 +37,3 @@
 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-03-26 | 34 (1,000 XP) | 2 | - | - |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 0 | - | 0 |
 | [Unlock The Cat](games/0/06eff52201bd4e7d9db3e56a11ac4536.md) | 2024-03-22 | 7 (1,000 XP) | 100 | - | 0 |
-| [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | 77 (1,000 XP) | 6 | - | 0 |

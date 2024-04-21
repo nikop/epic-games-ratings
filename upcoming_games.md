@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Arsenal Shock](games/5/5ca1ecde9b1b4ecd8a3e25336525cc21.md) | 2024-04-22 | - |  | - | - |
+| [Parallel TCG](games/1/16a5443c2b994a64b665f02b72ef42b3.md) | 2024-04-22 | - |  | - | - |
 | [Sweet Transit](games/a/a9621f7429a445a08d09bfa964a7c31f.md) | 2024-04-22 | - |  | - | - |
 | [Lunar Lander Beyond](games/6/62604a9708a14eed8b10b31ebd2056d7.md) | 2024-04-23 | 26 (1,000 XP) | 2 | - | - |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
@@ -89,7 +90,6 @@
 | [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,559 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [Ninja Chowdown: Glaze of Glory](games/9/9d14aa079d6247ea83dcbc8879b90380.md) | 2024-06-30 | - |  | - | - |
-| [Parallel TCG](games/1/16a5443c2b994a64b665f02b72ef42b3.md) | 2024-06-30 | - |  | - | - |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |

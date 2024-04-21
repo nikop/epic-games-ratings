@@ -111,5 +111,3 @@
 | [Unreal Physics](games/6/671e830fdc5d4ec8b26e062ae486cfdd.md) | 2024-03-24 | - |  | - | 0 |
 | [Cat Lovescapes](games/9/99e996ff974f44e782889ce01b99e80e.md) | 2024-03-22 | - |  | - | 0 |
 | [Unlock The Cat](games/0/06eff52201bd4e7d9db3e56a11ac4536.md) | 2024-03-22 | 7 (1,000 XP) | 100 | - | 0 |
-| [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | 77 (1,000 XP) | 6 | - | 0 |
-| [The Warden's Paradise](games/8/829e4fae2a754b94b71476ad9cebba84.md) | 2024-03-22 | - |  | - | 0 |
