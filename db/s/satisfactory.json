@@ -2,7 +2,7 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 19,
+  "Ranking_Rating": 20,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 985,
@@ -20279,10 +20279,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 132534,
       "NumberOfAwardsMax": 17134
+    },
+    {
+      "Time": "2024-04-21T09:57:43.0459667+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 132565,
+      "NumberOfAwardsMax": 17134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 132534,
+  "NumberOfAwards": 132565,
   "NumberOfAwardsMax": 17134,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -20308,7 +20314,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 14421
+      "Count": 14440
     },
     {
       "Text": "This game is Extremely Fun",
@@ -20332,7 +20338,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 13321
+      "Count": 13333
     },
     {
       "Text": "This game has a Creative Community",
@@ -20372,9 +20378,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-04-21T01:44:44.1478735+00:00",
+  "LastChanged": "2024-04-21T09:57:43.0459665+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:25.2949783+00:00",
   "LastUpdate_AppInfo": "2024-04-14T19:27:04.5717633+00:00",
-  "LastUpdate_Ratings": "2024-04-21T07:59:40.5209333+00:00",
+  "LastUpdate_Ratings": "2024-04-21T09:57:43.0459671+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:25.2949822+00:00"
 }

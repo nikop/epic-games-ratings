@@ -2,7 +2,7 @@
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
   "ProductSlug": "walking-dead-definitive-series",
-  "Ranking_Rating": 19,
+  "Ranking_Rating": 20,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 985,
@@ -2182,10 +2182,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1049,
       "NumberOfAwardsMax": 688
+    },
+    {
+      "Time": "2024-04-21T09:58:55.0786277+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1050,
+      "NumberOfAwardsMax": 688
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1049,
+  "NumberOfAwards": 1050,
   "NumberOfAwardsMax": 688,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -2259,7 +2265,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -2273,8 +2279,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-04-19T16:58:54.4236852+00:00",
+  "LastChanged": "2024-04-21T09:58:55.0786275+00:00",
   "LastUpdate_AppInfo": "2024-04-14T14:26:30.2032979+00:00",
-  "LastUpdate_Ratings": "2024-04-21T08:01:16.4057609+00:00",
+  "LastUpdate_Ratings": "2024-04-21T09:58:55.0786281+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:21.20015+00:00"
 }
