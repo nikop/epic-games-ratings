@@ -2,7 +2,7 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 35,
+  "Ranking_Rating": 28,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 306,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.85,
+  "Rating": 4.86,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -555,6 +555,12 @@
     {
       "Time": "2024-04-16T19:58:42.0076233+00:00",
       "Rating": 4.85,
+      "NumberOfAwards": 252,
+      "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2024-04-21T19:59:39.547625+00:00",
+      "Rating": 4.86,
       "NumberOfAwards": 252,
       "NumberOfAwardsMax": 160
     }
@@ -5150,9 +5156,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-04-16T19:58:42.0076232+00:00",
+  "LastChanged": "2024-04-21T19:59:39.5476249+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:15.9547005+00:00",
   "LastUpdate_AppInfo": "2024-04-19T02:57:16.5845744+00:00",
-  "LastUpdate_Ratings": "2024-04-21T18:00:16.6024299+00:00",
+  "LastUpdate_Ratings": "2024-04-21T19:59:39.5476252+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:15.954786+00:00"
 }
