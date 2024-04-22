@@ -2,7 +2,7 @@
   "ID": "c2c90c5ed3fb4c3280a337f31f79f498",
   "Name": "Planescape: Torment: Enhanced Edition",
   "ProductSlug": "planescape-torment-enhanced-edition",
-  "Ranking_Rating": 271,
+  "Ranking_Rating": 222,
   "Ranking_Popularity": 632,
   "Ranking_PopularitySum": 632,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:43.2916776+00:00",
@@ -45,6 +45,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-22T05:59:02.5579631+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -63,8 +69,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:48.4981195+00:00",
   "FirstSeenRating": "2023-03-31T05:57:43.2916774+00:00",
-  "LastChanged": "2024-04-08T02:16:01.7397054+00:00",
+  "LastChanged": "2024-04-22T05:59:02.5579629+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:21.7980928+00:00",
-  "LastUpdate_Ratings": "2024-04-22T04:57:59.6614664+00:00",
+  "LastUpdate_Ratings": "2024-04-22T05:59:02.557964+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:31.6184503+00:00"
 }
