@@ -53,7 +53,7 @@
 | 45 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 632 |
 | 45 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,003 | 32 |
 | 45 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 56 | 481 |
-| 45 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 231 | 307 |
+| 45 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 232 | 307 |
 | 45 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 237 | 303 |
 | 45 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 632 |
 | 57 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 632 |
@@ -475,7 +475,7 @@
 | 463 | [NORCO](games/n/norco.md) | 4.59 | 0 | 632 |
 | 463 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 0 | 632 |
 | 463 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.59 | 0 | 632 |
-| 463 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 231 | 307 |
+| 463 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 231 | 308 |
 | 463 | [Tails of Iron](games/t/tails_of_iron.md) | 4.59 | 21 | 622 |
 | 463 | [The Invincible](games/t/the_invincible.md) | 4.59 | 0 | 632 |
 | 463 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 35 | 543 |
@@ -655,7 +655,7 @@
 | 641 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 33 | 551 |
 | 641 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,125 | 40 |
 | 641 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.50 | 0 | 632 |
-| 641 | [VALORANT](games/v/valorant.md) | 4.50 | 112,682 | 10 |
+| 641 | [VALORANT](games/v/valorant.md) | 4.50 | 112,854 | 10 |
 | 641 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 490 |
 | 658 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,073 | 125 |
 | 658 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 632 |
@@ -912,16 +912,16 @@
 | 907 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.32 | 41 | 521 |
 | 907 | [Paladins](games/p/paladins.md) | 4.32 | 4,354 | 95 |
 | 907 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 632 |
-| 907 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.32 | 37 | 534 |
 | 907 | [Vampyr](games/v/vampyr.md) | 4.32 | 606 | 222 |
-| 915 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.31 | 26 | 586 |
-| 915 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 426 | 250 |
-| 915 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.31 | 137 | 368 |
-| 915 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 92 | 424 |
-| 915 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.31 | 0 | 632 |
-| 915 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,012 | 177 |
-| 915 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 632 |
-| 915 | [Wreckfest](games/w/wreckfest.md) | 4.31 | 0 | 632 |
+| 914 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.31 | 26 | 586 |
+| 914 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 426 | 250 |
+| 914 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.31 | 137 | 368 |
+| 914 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 92 | 424 |
+| 914 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.31 | 0 | 632 |
+| 914 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,012 | 177 |
+| 914 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.31 | 37 | 534 |
+| 914 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 632 |
+| 914 | [Wreckfest](games/w/wreckfest.md) | 4.31 | 0 | 632 |
 | 923 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.30 | 0 | 632 |
 | 923 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.30 | 77 | 444 |
 | 923 | [Expeditions: Viking](games/e/expeditions__viking.md) | 4.30 | 0 | 632 |
@@ -963,7 +963,7 @@
 | 957 | [RAGE 2](games/r/rage_2.md) | 4.27 | 3,107 | 107 |
 | 957 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 632 |
 | 957 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 632 |
-| 964 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 23,419 | 22 |
+| 964 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 23,493 | 22 |
 | 964 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 632 |
 | 964 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 651 | 215 |
 | 964 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 24 | 603 |
@@ -1072,7 +1072,7 @@
 | 1,063 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 632 |
 | 1,063 | [The Big Con](games/t/the_big_con.md) | 4.14 | 0 | 632 |
 | 1,072 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 0 | 632 |
-| 1,072 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,548 | 113 |
+| 1,072 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,552 | 113 |
 | 1,072 | [The Bridge](games/t/the_bridge.md) | 4.13 | 0 | 632 |
 | 1,072 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 0 | 632 |
 | 1,076 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 632 |
