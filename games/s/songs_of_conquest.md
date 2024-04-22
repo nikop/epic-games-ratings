@@ -144,8 +144,8 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-03-21 | 1,736 | 0 |
 | 2024-04-10 | 1,935 | 0 |
 ## Awards
-Max (Relaxing): 30  (Ranked 566)  
-Sum: 236 (Ranked 446)  
+Max (Relaxing): 30  (Ranked 567)  
+Sum: 236 (Ranked 447)  
 Diff (max vs sum): 120  
 | Award | Count |
 | ----- | ----- |
