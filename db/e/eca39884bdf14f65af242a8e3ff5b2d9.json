@@ -2,7 +2,7 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 985,
@@ -4233,10 +4233,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3061,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2024-04-22T16:59:59.227652+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3065,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3061,
+  "NumberOfAwards": 3065,
   "NumberOfAwardsMax": 364,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -4274,7 +4280,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 312
+      "Count": 316
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -4319,8 +4325,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-04-22T15:57:49.1732441+00:00",
+  "LastChanged": "2024-04-22T16:59:59.2276518+00:00",
   "LastUpdate_AppInfo": "2024-04-15T16:57:14.3316473+00:00",
-  "LastUpdate_Ratings": "2024-04-22T15:57:49.1732446+00:00",
+  "LastUpdate_Ratings": "2024-04-22T16:59:59.2276524+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:53.9546771+00:00"
 }
