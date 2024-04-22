@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 486)  
+Rating: 4.57 (Ranked 511)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -488,3 +488,4 @@ Diff (max vs sum): -66
 | 2024-04-07 | 4.58 | - | 244 | 498 |
 | 2024-04-14 | 4.58 | - | 244 | 500 |
 | 2024-04-19 | 4.58 | - | 244 | 501 |
+| 2024-04-22 | 4.57 | - | 244 | 501 |
