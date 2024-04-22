@@ -2,7 +2,7 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -473,10 +473,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 241,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-04-22T13:01:52.2629293+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 243,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 241,
+  "NumberOfAwards": 243,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -526,7 +532,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -559,8 +565,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-04-22T02:57:41.5518346+00:00",
+  "LastChanged": "2024-04-22T13:01:52.2629275+00:00",
   "LastUpdate_AppInfo": "2024-04-21T10:57:05.4007582+00:00",
-  "LastUpdate_Ratings": "2024-04-22T11:00:16.7575354+00:00",
+  "LastUpdate_Ratings": "2024-04-22T13:01:52.2629297+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }

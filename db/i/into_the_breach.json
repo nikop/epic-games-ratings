@@ -2,7 +2,7 @@
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
-  "Ranking_Rating": 45,
+  "Ranking_Rating": 56,
   "Ranking_Popularity": 240,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.83,
   "NumberOfRatings": 4082,
   "RatingHistory": [
     {
@@ -4834,6 +4834,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 4295,
       "NumberOfAwardsMax": 474
+    },
+    {
+      "Time": "2024-04-22T13:02:52.8204408+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4295,
+      "NumberOfAwardsMax": 474
     }
   ],
   "ReviewsDisabled": false,
@@ -4931,8 +4937,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-04-21T13:57:50.844736+00:00",
+  "LastChanged": "2024-04-22T13:02:52.8204406+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:05.7485185+00:00",
-  "LastUpdate_Ratings": "2024-04-22T11:58:34.8898294+00:00",
+  "LastUpdate_Ratings": "2024-04-22T13:02:52.8204412+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:48.5030385+00:00"
 }
