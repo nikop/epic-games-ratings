@@ -2,7 +2,7 @@
   "ID": "buffalo",
   "Name": "Super Meat Boy",
   "ProductSlug": "super-meat-boy",
-  "Ranking_Rating": 179,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 155,
   "RatingHistory": [
     {
@@ -546,6 +546,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2024-04-22T14:57:10.7409879+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
@@ -571,8 +577,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:39.3039474+00:00",
-  "LastChanged": "2024-04-17T15:57:33.9747505+00:00",
+  "LastChanged": "2024-04-22T14:57:10.7409877+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:58:05.2029639+00:00",
-  "LastUpdate_Ratings": "2024-04-22T13:01:55.2101922+00:00",
+  "LastUpdate_Ratings": "2024-04-22T14:57:10.7409882+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:33.9880958+00:00"
 }
