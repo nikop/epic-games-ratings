@@ -4,7 +4,7 @@
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 20,
   "Ranking_Popularity": 84,
-  "Ranking_PopularitySum": 103,
+  "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -7017,10 +7017,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 10588,
       "NumberOfAwardsMax": 5533
+    },
+    {
+      "Time": "2024-04-22T20:58:33.4859741+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 10459,
+      "NumberOfAwardsMax": 5533
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10588,
+  "NumberOfAwards": 10459,
   "NumberOfAwardsMax": 5533,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7126,8 +7132,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-04-22T19:00:04.4794539+00:00",
+  "LastChanged": "2024-04-22T20:58:33.4859741+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:06.4368449+00:00",
-  "LastUpdate_Ratings": "2024-04-22T19:00:04.4794546+00:00",
+  "LastUpdate_Ratings": "2024-04-22T20:58:33.4859746+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:39.3280089+00:00"
 }

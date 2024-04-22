@@ -2,7 +2,7 @@
   "ID": "4fece418b513465d9416a700db869585",
   "Name": "The Jackbox Party Pack 6",
   "ProductSlug": "jackbox-party-pack-6",
-  "Ranking_Rating": 395,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 632,
   "Ranking_PopularitySum": 632,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2022-12-26T09:57:27.2250181+00:00",
@@ -67,6 +67,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-22T20:58:38.1373207+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -85,8 +91,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:37.8207588+00:00",
   "FirstSeenRating": "2022-12-26T09:57:27.2250177+00:00",
-  "LastChanged": "2024-04-03T15:57:42.3432311+00:00",
+  "LastChanged": "2024-04-22T20:58:38.1373205+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:56.9901723+00:00",
-  "LastUpdate_Ratings": "2024-04-22T19:00:08.196942+00:00",
+  "LastUpdate_Ratings": "2024-04-22T20:58:38.1373217+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:52.2460488+00:00"
 }
