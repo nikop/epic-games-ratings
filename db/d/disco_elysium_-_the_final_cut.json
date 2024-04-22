@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 20,
   "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 277,
+  "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 53,
@@ -1950,10 +1950,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1241,
       "NumberOfAwardsMax": 802
+    },
+    {
+      "Time": "2024-04-22T07:57:53.2373969+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1242,
+      "NumberOfAwardsMax": 802
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1241,
+  "NumberOfAwards": 1242,
   "NumberOfAwardsMax": 802,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1997,7 +2003,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Relaxing",
@@ -30682,9 +30688,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-04-21T01:44:38.2531835+00:00",
+  "LastChanged": "2024-04-22T07:57:53.2373967+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:29.9905193+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:22.5830738+00:00",
-  "LastUpdate_Ratings": "2024-04-22T05:59:09.4201192+00:00",
+  "LastUpdate_Ratings": "2024-04-22T07:57:53.2373972+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:29.9906668+00:00"
 }

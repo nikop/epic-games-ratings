@@ -4,7 +4,7 @@
   "ProductSlug": "lifemakeoverglobal-1aa05a",
   "Ranking_Rating": 512,
   "Ranking_Popularity": 485,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1085,10 +1085,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 413,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-04-22T08:01:44.0484566+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 415,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 413,
+  "NumberOfAwards": 415,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1150,7 +1156,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game is Relaxing",
@@ -1177,8 +1183,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-04-21T23:57:36.5018784+00:00",
+  "LastChanged": "2024-04-22T08:01:44.0484565+00:00",
   "LastUpdate_AppInfo": "2024-04-17T08:57:14.4630407+00:00",
-  "LastUpdate_Ratings": "2024-04-22T06:58:42.2171999+00:00",
+  "LastUpdate_Ratings": "2024-04-22T08:01:44.048457+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:24.9288952+00:00"
 }
