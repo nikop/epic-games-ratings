@@ -375,7 +375,7 @@
 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2023-09-21 | 64 (1,000 XP) | 50 | - | 0 |
 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 2023-09-21 | 21 (1,000 XP) | 1 | - | - |
 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 2023-09-21 | 15 (1,000 XP) | 16 | - | 0 |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 26,097 | 4.57 | 3,723 |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 26,097 | 4.57 | 3,728 |
 | [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | - |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-09-15 | 16 (1,000 XP) | 27 | - | 0 |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 272 | - | 0 |
@@ -712,7 +712,7 @@
 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 2023-02-15 | 46 (1,000 XP) | 45 | - | 0 |
 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 2023-02-15 | 29 (1,000 XP) | 13,445 | 4.14 | 0 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 2023-02-15 | 35 (1,000 XP) | 21,397 | 4.56 | 102 |
-| [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 17,904 | 4.53 | 26 |
+| [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 17,904 | 4.52 | 26 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 5,553 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 735 | - | 0 |
 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 403,634 | 4.74 | 37,513 |
@@ -723,7 +723,7 @@
 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 2023-01-31 | 44 (1,000 XP) | 37 | 4.71 | 0 |
 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 2023-01-31 | 16 (1,000 XP) | 2,334 | - | 0 |
 | [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 23,038 | 4.72 | 438 |
-| [Risen](games/r/risen.md) | 2023-01-27 | 50 (1,000 XP) | 300 | 4.58 | 0 |
+| [Risen](games/r/risen.md) | 2023-01-27 | 50 (1,000 XP) | 300 | 4.59 | 0 |
 | [Hell is Others](games/h/hell_is_others.md) | 2023-01-26 | 56 (1,000 XP) | 262,947 | 4.40 | 66 |
 | [Learning Factory](games/l/learning_factory.md) | 2023-01-26 | 57 (1,000 XP) | 0 | - | 0 |
 | [Garden In](games/g/garden_in.md) | 2023-01-26 | 31 (1,000 XP) | 224 | - | 0 |
@@ -1045,7 +1045,7 @@
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 52,575 | 4.44 | 0 |
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,123 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 2,344 | 4.60 | 93 |
-| [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 2,421 | 4.60 | 416 |
+| [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 2,421 | 4.60 | 417 |
 | [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 149,110 | 4.12 | 0 |
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,136 | 4.19 | 50 |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | 16 (1,000 XP) | 0 | - | - |
