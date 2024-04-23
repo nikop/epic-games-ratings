@@ -77,13 +77,13 @@
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2024-01-10 | - |  | - | 0 |
 | [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | 0 |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-29 | - |  | - | 0 |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 6,187 | 4.47 | 32 |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 6,187 | 4.48 | 32 |
 | [World of Dypians](games/0/019f3ce538a440c48ecf5f4f8d787622.md) | 2023-12-21 | - |  | - | 0 |
 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.82 | 0 |
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
-| [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | 4.31 | 34 |
+| [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | 4.33 | 34 |
 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.73 | 111 |
 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 2023-11-21 | - |  | 4.40 | 0 |
 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 2023-11-15 | - |  | 4.17 | 0 |
