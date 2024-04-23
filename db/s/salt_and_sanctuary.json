@@ -3,7 +3,7 @@
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
   "Ranking_Rating": 397,
-  "Ranking_Popularity": 277,
+  "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 291,
@@ -3286,11 +3286,17 @@
       "Rating": 4.62,
       "NumberOfAwards": 2105,
       "NumberOfAwardsMax": 310
+    },
+    {
+      "Time": "2024-04-23T18:01:25.3740093+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2106,
+      "NumberOfAwardsMax": 311
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2105,
-  "NumberOfAwardsMax": 310,
+  "NumberOfAwards": 2106,
+  "NumberOfAwardsMax": 311,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
@@ -3309,7 +3315,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 310
+      "Count": 311
     },
     {
       "Text": "This game is Highly Recommended",
@@ -35031,9 +35037,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2024-04-22T20:57:55.6619024+00:00",
+  "LastChanged": "2024-04-23T18:01:25.3740091+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:26.287513+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:46.7000633+00:00",
-  "LastUpdate_Ratings": "2024-04-23T16:59:55.0750246+00:00",
+  "LastUpdate_Ratings": "2024-04-23T18:01:25.3740096+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:26.287657+00:00"
 }

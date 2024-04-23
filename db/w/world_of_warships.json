@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 787,
   "Ranking_Popularity": 125,
-  "Ranking_PopularitySum": 74,
+  "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -16609,10 +16609,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 17526,
       "NumberOfAwardsMax": 2074
+    },
+    {
+      "Time": "2024-04-23T17:59:03.0452008+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 17529,
+      "NumberOfAwardsMax": 2074
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17526,
+  "NumberOfAwards": 17529,
   "NumberOfAwardsMax": 2074,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -16644,7 +16650,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1849
+      "Count": 1852
     },
     {
       "Text": "This game is Extremely Fun",
@@ -36381,9 +36387,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-04-23T14:58:46.3187784+00:00",
+  "LastChanged": "2024-04-23T17:59:03.0452006+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:53.698005+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:55.8063935+00:00",
-  "LastUpdate_Ratings": "2024-04-23T16:00:59.086482+00:00",
+  "LastUpdate_Ratings": "2024-04-23T17:59:03.0452012+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:53.6981253+00:00"
 }
