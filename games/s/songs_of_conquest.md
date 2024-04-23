@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-04-10 | 1,935 | 0 |
 ## Awards
 Max (Relaxing): 30  (Ranked 569)  
-Sum: 236 (Ranked 446)  
+Sum: 237 (Ranked 446)  
 Diff (max vs sum): 123  
 | Award | Count |
 | ----- | ----- |
@@ -158,7 +158,7 @@ Diff (max vs sum): 123
 | This game has Unique Visuals | 25 |
 | This game is Extremely Fun | 25 |
 | This game has Competitive Players | 23 |
-| This game has Amazing Characters | 21 |
+| This game has Amazing Characters | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -244,3 +244,4 @@ Diff (max vs sum): 123
 | 2024-04-06 | 4.67 | - | 30 | 265 |
 | 2024-04-15 | 4.67 | - | 30 | 266 |
 | 2024-04-16 | 4.67 | - | 30 | 236 |
+| 2024-04-23 | 4.67 | - | 30 | 237 |

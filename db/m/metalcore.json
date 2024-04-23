@@ -4,7 +4,7 @@
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 886,
   "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -533,10 +533,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 275,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-04-23T19:57:39.5439183+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 295,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 275,
+  "NumberOfAwards": 295,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -605,6 +611,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 24
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -619,8 +631,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-04-23T18:00:43.1326088+00:00",
+  "LastChanged": "2024-04-23T19:57:39.5439181+00:00",
   "LastUpdate_AppInfo": "2024-04-21T10:57:05.4007582+00:00",
-  "LastUpdate_Ratings": "2024-04-23T18:00:43.1326095+00:00",
+  "LastUpdate_Ratings": "2024-04-23T19:57:39.5439185+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }
