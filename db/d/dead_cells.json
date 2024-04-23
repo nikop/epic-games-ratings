@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 257,
-  "Ranking_PopularitySum": 195,
+  "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -5399,11 +5399,17 @@
       "Rating": 4.86,
       "NumberOfAwards": 3108,
       "NumberOfAwardsMax": 376
+    },
+    {
+      "Time": "2024-04-23T13:57:44.8264098+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 3113,
+      "NumberOfAwardsMax": 378
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3108,
-  "NumberOfAwardsMax": 376,
+  "NumberOfAwards": 3113,
+  "NumberOfAwardsMax": 378,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5464,19 +5470,19 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 244
+      "Count": 245
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 376
+      "Count": 378
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 342
+      "Count": 344
     }
   ],
   "EOS_Progressed": 0,
@@ -5490,8 +5496,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-04-22T22:58:53.7945204+00:00",
+  "LastChanged": "2024-04-23T13:57:44.8264096+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:51.220091+00:00",
-  "LastUpdate_Ratings": "2024-04-23T11:59:15.4874402+00:00",
+  "LastUpdate_Ratings": "2024-04-23T13:57:44.8264103+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:25.1158845+00:00"
 }

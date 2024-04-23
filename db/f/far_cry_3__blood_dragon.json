@@ -2,7 +2,7 @@
   "ID": "8b9fc0e3ee7d478abc047d1a3596c568",
   "Name": "Far Cry 3: Blood Dragon",
   "ProductSlug": "far-cry-3-blood-dragon",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 340,
   "Ranking_Popularity": 632,
   "Ranking_PopularitySum": 632,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "NumberOfRatings": 54,
   "RatingHistory": [
     {
@@ -288,6 +288,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-23T13:57:34.2740754+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -305,8 +311,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:24.1119308+00:00",
-  "LastChanged": "2024-03-17T21:59:04.1128929+00:00",
+  "LastChanged": "2024-04-23T13:57:34.2740751+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:17.3412781+00:00",
-  "LastUpdate_Ratings": "2024-04-23T11:59:06.5470336+00:00",
+  "LastUpdate_Ratings": "2024-04-23T13:57:34.2740759+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:47.0268174+00:00"
 }
