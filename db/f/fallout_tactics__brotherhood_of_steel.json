@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-tactics-brotherhood-of-steel",
   "Ranking_Rating": 718,
   "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 436,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -743,10 +743,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2024-04-23T08:00:13.0525179+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254,
+  "NumberOfAwards": 255,
   "NumberOfAwardsMax": 136,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -772,7 +778,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Unique Visuals",
@@ -799,8 +805,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:01:33.5009817+00:00",
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
-  "LastChanged": "2024-04-22T17:58:14.132583+00:00",
+  "LastChanged": "2024-04-23T08:00:13.0525177+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:10.7996045+00:00",
-  "LastUpdate_Ratings": "2024-04-23T06:58:14.7058283+00:00",
+  "LastUpdate_Ratings": "2024-04-23T08:00:13.0525182+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:28.2839386+00:00"
 }
