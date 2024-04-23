@@ -11,6 +11,7 @@
 | [Jack Holmes: Master of Puppets](games/4/46d8d9b49fa24b2c81f648d2c30f45d1.md) | 2024-04-26 | - |  | - | - |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | - |  | - | - |
 | [Ship's Cat](games/1/11f11905cbd549dea36bea8380461d06.md) | 2024-04-29 | - |  | - | - |
+| [Warrior Lords](games/3/32a3518d649740a98e1ea26d6f887038.md) | 2024-04-29 | - |  | - | - |
 | [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-04-30 | - |  | - | - |
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | - |  | - | - |
