@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.78 | 0 |
+| [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | - |
+| [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.79 | 0 |
 | [Necrosmith 2](games/e/e153609a322d42e18ee587bb862022fc.md) | 2024-04-23 | - |  | - | - |
 | [Lunar Lander Beyond](games/6/62604a9708a14eed8b10b31ebd2056d7.md) | 2024-04-23 | 26 (1,000 XP) | 2 | - | - |
 | [Sweet Transit](games/a/a9621f7429a445a08d09bfa964a7c31f.md) | 2024-04-22 | - |  | - | 0 |
