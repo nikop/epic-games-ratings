@@ -1,7 +1,7 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.65 (Ranked 339)  
+Rating: 4.66 (Ranked 315)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -403,3 +403,4 @@ Completed: 14 (0.05%) (Ranked 384)
 | 2024-04-07 | 4.65 | 0 | 0 |
 | 2024-04-17 | 4.66 | 0 | 0 |
 | 2024-04-20 | 4.65 | 0 | 0 |
+| 2024-04-22 | 4.66 | 0 | 0 |
