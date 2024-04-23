@@ -41,7 +41,7 @@
 | 36 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 632 |
 | 36 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.85 | 0 | 632 |
 | 36 | [Star Atlas](games/s/star_atlas.md) | 4.85 | 50 | 499 |
-| 36 | [Subnautica](games/s/subnautica.md) | 4.85 | 862 | 192 |
+| 36 | [Subnautica](games/s/subnautica.md) | 4.85 | 863 | 192 |
 | 36 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 0 | 632 |
 | 36 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.85 | 0 | 632 |
 | 45 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.84 | 0 | 632 |
@@ -234,7 +234,7 @@
 | 222 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 165 | 353 |
 | 222 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.70 | 324 | 273 |
 | 222 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.70 | 0 | 632 |
-| 222 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,106 | 57 |
+| 222 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,126 | 57 |
 | 222 | [Sailing Era](games/s/sailing_era.md) | 4.70 | 0 | 632 |
 | 222 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.70 | 31 | 559 |
 | 222 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 0 | 632 |
@@ -243,7 +243,7 @@
 | 222 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.70 | 0 | 632 |
 | 222 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 632 |
 | 222 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 632 |
-| 222 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,989 | 88 |
+| 222 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,992 | 88 |
 | 222 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.70 | 0 | 632 |
 | 222 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 632 |
 | 222 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 632 |
@@ -962,20 +962,20 @@
 | 957 | [Nightingale](games/n/nightingale.md) | 4.27 | 63 | 465 |
 | 957 | [RAGE 2](games/r/rage_2.md) | 4.27 | 3,107 | 107 |
 | 957 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 632 |
+| 957 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.27 | 28 | 575 |
 | 957 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 632 |
-| 964 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 23,493 | 22 |
-| 964 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 632 |
-| 964 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 651 | 215 |
-| 964 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 24 | 603 |
-| 964 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 632 |
-| 964 | [RiMS Racing](games/r/rims_racing.md) | 4.26 | 0 | 632 |
-| 964 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 33 | 551 |
-| 964 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 632 |
-| 964 | [Startup Panic](games/s/startup_panic.md) | 4.26 | 0 | 632 |
-| 964 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 632 |
-| 964 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.26 | 28 | 575 |
-| 964 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.26 | 0 | 632 |
-| 964 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 282 |
+| 965 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 23,493 | 22 |
+| 965 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 632 |
+| 965 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 651 | 215 |
+| 965 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 24 | 603 |
+| 965 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 632 |
+| 965 | [RiMS Racing](games/r/rims_racing.md) | 4.26 | 0 | 632 |
+| 965 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 33 | 551 |
+| 965 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 632 |
+| 965 | [Startup Panic](games/s/startup_panic.md) | 4.26 | 0 | 632 |
+| 965 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 632 |
+| 965 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.26 | 0 | 632 |
+| 965 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 282 |
 | 977 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 614 |
 | 977 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 632 |
 | 977 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 632 |
