@@ -2,9 +2,9 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1038,
+  "Ranking_Rating": 1033,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 417,
+  "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 53,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -1319,10 +1319,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 301,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-04-23T16:58:17.5777396+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 303,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 301,
+  "NumberOfAwards": 303,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1366,13 +1372,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 6261,
@@ -14772,9 +14778,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-04-21T05:57:28.7726565+00:00",
+  "LastChanged": "2024-04-23T16:58:17.5777394+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:28.7691013+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:46.1160854+00:00",
-  "LastUpdate_Ratings": "2024-04-23T14:59:38.9735766+00:00",
+  "LastUpdate_Ratings": "2024-04-23T16:58:17.5777399+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:28.7692678+00:00"
 }
