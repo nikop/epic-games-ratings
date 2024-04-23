@@ -400,6 +400,7 @@
 | [KAREN SEES](games/e/e53f61969af043f8a9cf3892b2371963.md) | 2099-01-01 | - |  | - | - |
 | [KARJALA](games/7/72aad6a073a644afb21d0966e2737c42.md) | 2099-01-01 | - |  | - | - |
 | [Karma City Police](games/e/e12cadecef31458b958d17431eb4ffd0.md) | 2099-01-01 | - |  | - | - |
+| [KARMA: The Dark World](games/9/91570f2d1ab241f3aeeaa54998ee031b.md) | 2099-01-01 | - |  | - | - |
 | [Keep Keepers](games/3/385d49efc26d45039f42216423168cae.md) | 2099-01-01 | - |  | - | - |
 | [KIBORG](games/d/d53159b0a47c43d08a92968a6fd9cd78.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Come: Deliverance II](games/e/e5429798296d4f78b8090f243b00cf11.md) | 2099-01-01 | - |  | - | - |
