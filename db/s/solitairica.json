@@ -4,7 +4,7 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 658,
   "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 350,
+  "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1501,10 +1501,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 590,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2024-04-23T02:17:46.3213452+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 591,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 590,
+  "NumberOfAwards": 591,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1548,7 +1554,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1586,8 +1592,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-04-21T21:57:25.2344396+00:00",
+  "LastChanged": "2024-04-23T02:17:46.321345+00:00",
   "LastUpdate_AppInfo": "2024-04-21T10:57:02.4411693+00:00",
-  "LastUpdate_Ratings": "2024-04-22T23:59:35.344514+00:00",
+  "LastUpdate_Ratings": "2024-04-23T02:17:46.3213454+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:26.4660981+00:00"
 }
