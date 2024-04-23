@@ -3073,10 +3073,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2546,
       "NumberOfAwardsMax": 933
+    },
+    {
+      "Time": "2024-04-23T02:58:34.7483057+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2547,
+      "NumberOfAwardsMax": 933
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2546,
+  "NumberOfAwards": 2547,
   "NumberOfAwardsMax": 933,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3132,7 +3138,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3170,8 +3176,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2024-04-23T01:44:19.4882147+00:00",
+  "LastChanged": "2024-04-23T02:58:34.7483056+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:34.4545018+00:00",
-  "LastUpdate_Ratings": "2024-04-23T01:44:19.4882152+00:00",
+  "LastUpdate_Ratings": "2024-04-23T02:58:34.7483059+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:28.3923271+00:00"
 }
