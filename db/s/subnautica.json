@@ -2,7 +2,7 @@
   "ID": "jaguar",
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
-  "Ranking_Rating": 36,
+  "Ranking_Rating": 35,
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 985,
@@ -8107,10 +8107,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 6534,
       "NumberOfAwardsMax": 863
+    },
+    {
+      "Time": "2024-04-23T14:58:48.459705+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 6536,
+      "NumberOfAwardsMax": 863
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6534,
+  "NumberOfAwards": 6536,
   "NumberOfAwardsMax": 863,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8160,7 +8166,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 642
+      "Count": 644
     },
     {
       "Text": "This game is Educational",
@@ -8192,8 +8198,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2024-04-23T04:57:13.9517615+00:00",
+  "LastChanged": "2024-04-23T14:58:48.4597049+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:56.4097214+00:00",
-  "LastUpdate_Ratings": "2024-04-23T13:04:41.8765961+00:00",
+  "LastUpdate_Ratings": "2024-04-23T14:58:48.4597054+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:16.6307189+00:00"
 }
