@@ -185,7 +185,7 @@
 | 180 | [GoNNER](games/g/gonner.md) | 4.73 | 0 | 632 |
 | 180 | [Haven](games/h/haven.md) | 4.73 | 0 | 632 |
 | 180 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.73 | 0 | 632 |
-| 180 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.73 | 111 | 392 |
+| 180 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.73 | 111 | 393 |
 | 180 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 157 | 357 |
 | 180 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 632 |
 | 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 188 | 334 |
@@ -462,7 +462,7 @@
 | 446 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 88 | 426 |
 | 446 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 4.60 | 0 | 632 |
 | 446 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 26 | 586 |
-| 446 | [Witchfire](games/w/witchfire.md) | 4.60 | 111 | 392 |
+| 446 | [Witchfire](games/w/witchfire.md) | 4.60 | 111 | 393 |
 | 464 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 632 |
 | 464 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 632 |
 | 464 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,028 | 174 |
@@ -653,7 +653,7 @@
 | 641 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.50 | 0 | 632 |
 | 641 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 696 | 205 |
 | 641 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 33 | 551 |
-| 641 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,125 | 40 |
+| 641 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,138 | 40 |
 | 641 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.50 | 0 | 632 |
 | 641 | [VALORANT](games/v/valorant.md) | 4.50 | 112,854 | 10 |
 | 641 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 491 |
@@ -912,16 +912,16 @@
 | 907 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.32 | 41 | 521 |
 | 907 | [Paladins](games/p/paladins.md) | 4.32 | 4,358 | 95 |
 | 907 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 632 |
+| 907 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.32 | 38 | 531 |
 | 907 | [Vampyr](games/v/vampyr.md) | 4.32 | 606 | 222 |
-| 914 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.31 | 26 | 586 |
-| 914 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 426 | 250 |
-| 914 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 110 | 395 |
-| 914 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 93 | 422 |
-| 914 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.31 | 0 | 632 |
-| 914 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,012 | 177 |
-| 914 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.31 | 38 | 531 |
-| 914 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 632 |
-| 914 | [Wreckfest](games/w/wreckfest.md) | 4.31 | 0 | 632 |
+| 915 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.31 | 26 | 586 |
+| 915 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 426 | 250 |
+| 915 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 110 | 395 |
+| 915 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.31 | 93 | 422 |
+| 915 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.31 | 0 | 632 |
+| 915 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,012 | 177 |
+| 915 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 632 |
+| 915 | [Wreckfest](games/w/wreckfest.md) | 4.31 | 0 | 632 |
 | 923 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.30 | 0 | 632 |
 | 923 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.30 | 77 | 444 |
 | 923 | [Expeditions: Viking](games/e/expeditions__viking.md) | 4.30 | 0 | 632 |
@@ -1049,7 +1049,7 @@
 | 1,037 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 632 |
 | 1,048 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.16 | 0 | 632 |
 | 1,048 | [Banished](games/b/banished.md) | 4.16 | 0 | 632 |
-| 1,048 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 111 | 392 |
+| 1,048 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 112 | 391 |
 | 1,048 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 0 | 632 |
 | 1,048 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 632 |
 | 1,048 | [Model Builder](games/m/model_builder.md) | 4.16 | 0 | 632 |
@@ -1141,11 +1141,11 @@
 | 1,138 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 632 |
 | 1,140 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 632 |
 | 1,140 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.85 | 0 | 632 |
+| 1,142 | [Blood of Steel](games/b/blood_of_steel.md) | 3.84 | 0 | 632 |
 | 1,142 | [Poker Club](games/p/poker_club.md) | 3.84 | 54 | 486 |
 | 1,142 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.84 | 0 | 632 |
-| 1,144 | [Blood of Steel](games/b/blood_of_steel.md) | 3.83 | 0 | 632 |
-| 1,144 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 632 |
-| 1,144 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 632 |
+| 1,145 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 632 |
+| 1,145 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 632 |
 | 1,147 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 632 |
 | 1,147 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 632 |
 | 1,149 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.81 | 0 | 632 |
