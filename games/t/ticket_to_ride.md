@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 418)
 Number of Ratings: 167  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 80  (Ranked 437)  
-Sum: 424 (Ranked 382)  
+Sum: 425 (Ranked 382)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -16,8 +16,8 @@ Diff (max vs sum): 55
 | This game has Quickly Understood Controls | 40 |
 | This game is Highly Recommended | 39 |
 | This game is Extremely Fun | 38 |
+| This game has Playful Visuals | 38 |
 | This game has Obsessive Gameplay | 37 |
-| This game has Playful Visuals | 37 |
 | This game has Amazing Characters | 24 |
 | This game has a Competitive Community | 23 |
 | This game has Amazing Storytelling | 22 |
@@ -146,3 +146,4 @@ Diff (max vs sum): 55
 | 2024-04-06 | 4.61 | - | 80 | 422 |
 | 2024-04-11 | 4.61 | - | 80 | 423 |
 | 2024-04-15 | 4.61 | - | 80 | 424 |
+| 2024-04-23 | 4.61 | - | 80 | 425 |
