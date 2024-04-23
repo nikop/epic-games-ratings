@@ -188,7 +188,7 @@
 | 180 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.73 | 111 | 392 |
 | 180 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 157 | 357 |
 | 180 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.73 | 0 | 632 |
-| 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 187 | 334 |
+| 180 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 188 | 334 |
 | 180 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 632 |
 | 180 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 632 |
 | 180 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 632 |
@@ -221,7 +221,7 @@
 | 208 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 0 | 632 |
 | 208 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,545 | 114 |
 | 208 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 632 |
-| 222 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,697 | 91 |
+| 222 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,698 | 91 |
 | 222 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 4.70 | 0 | 632 |
 | 222 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 661 | 214 |
 | 222 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.70 | 0 | 632 |
@@ -465,7 +465,7 @@
 | 446 | [Witchfire](games/w/witchfire.md) | 4.60 | 111 | 392 |
 | 464 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 632 |
 | 464 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 632 |
-| 464 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,021 | 174 |
+| 464 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,028 | 174 |
 | 464 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,637 | 81 |
 | 464 | [Deceive Inc.](games/d/deceive_inc..md) | 4.59 | 0 | 632 |
 | 464 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.59 | 16,119 | 29 |
@@ -625,7 +625,7 @@
 | 621 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 305 |
 | 621 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 632 |
 | 621 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 44,710 | 15 |
-| 621 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 158,859 | 8 |
+| 621 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 158,883 | 8 |
 | 621 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 365 | 259 |
 | 621 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 162 | 354 |
 | 621 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.51 | 0 | 632 |
@@ -858,7 +858,7 @@
 | 851 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 5,161 | 85 |
 | 857 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 632 |
 | 857 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 177 | 342 |
-| 857 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,899 | 37 |
+| 857 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,900 | 37 |
 | 857 | [Flatout](games/f/flatout.md) | 4.36 | 0 | 632 |
 | 857 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 0 | 632 |
 | 857 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.36 | 0 | 632 |

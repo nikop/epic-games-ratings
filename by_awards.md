@@ -7,7 +7,7 @@
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 310,435 | 4.87 | 20 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 227,246 | 4.18 | 1,033 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 161,998 | 4.68 | 272 |
-| 8 | [Fall Guys](games/f/fall_guys.md) | 158,859 | 4.51 | 621 |
+| 8 | [Fall Guys](games/f/fall_guys.md) | 158,883 | 4.51 | 621 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 132,186 | 4.69 | 248 |
 | 10 | [VALORANT](games/v/valorant.md) | 112,854 | 4.50 | 641 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 73,993 | 4.44 | 742 |
@@ -36,7 +36,7 @@
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 14,178 | 4.46 | 704 |
 | 35 | [Maneater](games/m/maneater.md) | 14,128 | 4.49 | 658 |
 | 36 | [Dead Island 2](games/d/dead_island_2.md) | 13,535 | 4.54 | 569 |
-| 37 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,899 | 4.36 | 857 |
+| 37 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,900 | 4.36 | 857 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 12,413 | 4.77 | 122 |
 | 39 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,165 | 4.69 | 248 |
 | 40 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 12,125 | 4.50 | 641 |
@@ -90,7 +90,7 @@
 | 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,992 | 4.70 | 222 |
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,839 | 4.65 | 340 |
 | 90 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 535 |
-| 91 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,697 | 4.70 | 222 |
+| 91 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,698 | 4.70 | 222 |
 | 92 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,671 | 4.68 | 272 |
 | 93 | [Days Gone](games/d/days_gone.md) | 4,542 | 4.68 | 272 |
 | 94 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,529 | 4.46 | 704 |
@@ -173,7 +173,7 @@
 | 171 | [Ooblets](games/o/ooblets.md) | 1,057 | 4.88 | 17 |
 | 172 | [Riders Republic](games/r/riders_republic.md) | 1,056 | 4.75 | 150 |
 | 173 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,047 | 4.24 | 984 |
-| 174 | [Brawlhalla](games/b/brawlhalla.md) | 1,021 | 4.59 | 464 |
+| 174 | [Brawlhalla](games/b/brawlhalla.md) | 1,028 | 4.59 | 464 |
 | 175 | [Sonic Mania](games/s/sonic_mania.md) | 1,016 | 4.77 | 122 |
 | 176 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,013 | 4.80 | 90 |
 | 177 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,012 | 4.31 | 913 |
@@ -333,7 +333,7 @@
 | 331 | [The Witness](games/t/the_witness.md) | 195 | 4.69 | 248 |
 | 332 | [Timberborn](games/t/timberborn.md) | 194 | 4.73 | 180 |
 | 333 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 190 | 4.66 | 315 |
-| 334 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 187 | 4.73 | 180 |
+| 334 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 188 | 4.73 | 180 |
 | 335 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 184 | 4.08 | 1,088 |
 | 336 | [Mothergunship](games/m/mothergunship.md) | 182 | 4.38 | 835 |
 | 337 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 181 | 4.67 | 292 |
