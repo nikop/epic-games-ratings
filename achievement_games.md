@@ -354,7 +354,7 @@
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 371,874 | 4.21 | 101 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 425 | 4.84 | 0 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 22 | - | 0 |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 458,127 | 4.40 | 351 |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 458,127 | 4.40 | 352 |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-28 | 32 (1,000 XP) | 39 | - | 0 |
 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 2023-09-28 | 28 (1,000 XP) | 563 | - | 0 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-09-28 | 14 (1,000 XP) | 120,820 | 4.40 | 0 |
@@ -639,7 +639,7 @@
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,433 | - | 0 |
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 6,261 | 4.18 | 67 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 76 | - | 0 |
-| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 851,780 | 4.54 | 13,602 |
+| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 851,780 | 4.54 | 13,646 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
 | [Biped](games/b/biped.md) | 2023-04-20 | 15 (1,000 XP) | 12,388 | - | 0 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 52 (1,200 XP) | 201 | - | 0 |
