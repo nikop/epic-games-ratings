@@ -3,16 +3,16 @@
 [View Rawdata](../../db/f/fallout_3__game_of_the_year_edition.json)  
 Rating: 4.59 (Ranked 464)  
 ## Awards
-Max (Character Customization): 15,874  (Ranked 30)  
-Sum: 32,830 (Ranked 48)  
+Max (Character Customization): 15,907  (Ranked 30)  
+Sum: 32,869 (Ranked 48)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 15,874 |
+| This game has Inclusive Character Customization | 15,907 |
 | This game is Great for Beginners | 1,962 |
 | This game is Extremely Fun | 1,849 |
+| This game has Diverse Characters | 1,825 |
 | This game has Amazing Storytelling | 1,820 |
-| This game has Diverse Characters | 1,819 |
 | This game is Highly Recommended | 1,765 |
 | This game has Quickly Understood Controls | 1,679 |
 | This game has Amazing Characters | 1,677 |
@@ -422,4 +422,4 @@ Diff (max vs sum): -18
 | 2024-04-21 | 4.60 | 15,794 | 32,671 |
 | 2024-04-22 | 4.59 | 15,833 | 32,738 |
 | 2024-04-23 | 4.59 | 15,874 | 32,811 |
-| 2024-04-24 | 4.59 | 15,874 | 32,830 |
+| 2024-04-24 | 4.59 | 15,907 | 32,869 |

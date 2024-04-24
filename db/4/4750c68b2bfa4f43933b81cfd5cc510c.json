@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-fc-24",
   "Ranking_Rating": 1039,
   "Ranking_Popularity": 24,
-  "Ranking_PopularitySum": 28,
+  "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -6781,10 +6781,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 65940,
       "NumberOfAwardsMax": 23159
+    },
+    {
+      "Time": "2024-04-24T22:57:24.0692798+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 66319,
+      "NumberOfAwardsMax": 23159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65940,
+  "NumberOfAwards": 66319,
   "NumberOfAwardsMax": 23159,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6816,7 +6822,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 14143
+      "Count": 14522
     },
     {
       "Text": "This game is Extremely Fun",
@@ -22111,9 +22117,9 @@
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2024-04-24T16:58:21.2389374+00:00",
+  "LastChanged": "2024-04-24T22:57:24.0692797+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:30.789406+00:00",
   "LastUpdate_AppInfo": "2024-04-19T17:57:12.2008138+00:00",
-  "LastUpdate_Ratings": "2024-04-24T21:00:12.4649598+00:00",
+  "LastUpdate_Ratings": "2024-04-24T22:57:24.0692802+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:30.7894844+00:00"
 }
