@@ -1,7 +1,7 @@
 # Suicide Squad: Kill the Justice League
 [Store](https://store.epicgames.com/en-US/p/suicide-squad-kill-the-justice-league)  
 [View Rawdata](../../db/s/suicide_squad__kill_the_justice_league.json)  
-Rating: 4.24 (Ranked 986)  
+Rating: 4.24 (Ranked 987)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
