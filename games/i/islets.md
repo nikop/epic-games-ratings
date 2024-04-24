@@ -4,14 +4,15 @@
 Rating: 4.72 (Ranked 195)  
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 596)  
-Sum: 75 (Ranked 529)  
-Diff (max vs sum): 67  
+Sum: 95 (Ranked 513)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 25 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Playful Visuals | 25 |
 | This game is Extremely Fun | 25 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -36,3 +37,4 @@ Diff (max vs sum): 67
 | 2024-04-20 | 4.72 | 25 | 95 |
 | 2024-04-22 | 4.72 | 25 | 74 |
 | 2024-04-23 | 4.72 | 25 | 75 |
+| 2024-04-24 | 4.72 | 25 | 95 |
