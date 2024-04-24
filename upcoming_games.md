@@ -10,6 +10,7 @@
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | - |  | - | - |
 | [Eden's Lair](games/c/ccd6a64f13f64c37a00d6160331cdecd.md) | 2024-04-26 | - |  | - | - |
 | [Ship's Cat](games/1/11f11905cbd549dea36bea8380461d06.md) | 2024-04-29 | - |  | - | - |
+| [Cube Step](games/9/94d21a9f81064b058c4d7d0d0bcba0d6.md) | 2024-04-29 | - |  | - | - |
 | [Warrior Lords](games/3/32a3518d649740a98e1ea26d6f887038.md) | 2024-04-29 | - |  | - | - |
 | [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-04-30 | - |  | - | - |
@@ -151,7 +152,6 @@
 | [Commandos: Origins](games/7/7c64b0352fb7449082d7331141b36d97.md) | 2024-12-31 | - |  | - | - |
 | [Cornucopia](games/4/4b2f856e9ffe4b1a82c3633e51c29371.md) | 2024-12-31 | - |  | - | - |
 | [Crime 1997](games/2/2ced7203e2f548c5b31cec8739d2a5ca.md) | 2024-12-31 | - |  | - | - |
-| [Cube Step](games/9/94d21a9f81064b058c4d7d0d0bcba0d6.md) | 2024-12-31 | - |  | - | - |
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | - |  | - | - |
 | [Dark Life Excalibur](games/1/136c658efed64efebf3008544fee972b.md) | 2024-12-31 | - |  | - | - |
 | [Dawn Apart](games/d/dawn_apart.md) | 2024-12-31 | - |  | - | - |
