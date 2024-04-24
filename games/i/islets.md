@@ -3,9 +3,9 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.72 (Ranked 194)  
 ## Awards
-Max (Highly Recommended): 26  (Ranked 586)  
+Max (Highly Recommended): 26  (Ranked 587)  
 Sum: 96 (Ranked 512)  
-Diff (max vs sum): 74  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 26 |
