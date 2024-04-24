@@ -4,7 +4,7 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 376,
   "Ranking_Popularity": 97,
-  "Ranking_PopularitySum": 106,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -4379,10 +4379,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 10276,
       "NumberOfAwardsMax": 4055
+    },
+    {
+      "Time": "2024-04-24T17:57:59.1661007+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 9763,
+      "NumberOfAwardsMax": 4055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10276,
+  "NumberOfAwards": 9763,
   "NumberOfAwardsMax": 4055,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4471,8 +4477,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-04-24T16:00:35.4974596+00:00",
+  "LastChanged": "2024-04-24T17:57:59.1661006+00:00",
   "LastUpdate_AppInfo": "2024-04-19T02:57:14.700751+00:00",
-  "LastUpdate_Ratings": "2024-04-24T16:00:35.4974602+00:00",
+  "LastUpdate_Ratings": "2024-04-24T17:57:59.1661011+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:19.6082971+00:00"
 }

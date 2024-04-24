@@ -1,7 +1,7 @@
 # The Big Con
 [Store](https://store.epicgames.com/en-US/p/the-big-con)  
 [View Rawdata](../../db/t/the_big_con.json)  
-Rating: 4.24 (Ranked 985)  
+Rating: 4.28 (Ranked 940)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -10,3 +10,4 @@ Rating: 4.24 (Ranked 985)
 | 2024-04-21 | 4.14 | 0 | 0 |
 | 2024-04-22 | 4.21 | 0 | 0 |
 | 2024-04-23 | 4.25 | 0 | 0 |
+| 2024-04-24 | 4.28 | 0 | 0 |
