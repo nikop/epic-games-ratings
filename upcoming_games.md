@@ -48,7 +48,6 @@
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 1 | - | - |
 | [Valiant Hearts: Coming Home](games/5/5bb27a0d5617488aa983f5b3f77c9611.md) | 2024-05-24 | - |  | - | - |
 | [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,756 |
-| [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-05-29 | - |  | - | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-05-31 | - |  | - | - |
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-31 | - |  | - | - |
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
@@ -201,6 +200,7 @@
 | [Spirit Castor: A Father's Trust](games/f/f1a5e1489de54426ba36cf0bbae2bd62.md) | 2024-12-31 | - |  | - | - |
 | [Star Vortex](games/f/f752f0d1dba941d1934cfdb69c8e944d.md) | 2024-12-31 | - |  | - | - |
 | [survival advanced](games/e/e99fea59671c4c30b4cb63bc0b815c5a.md) | 2024-12-31 | - |  | - | - |
+| [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-12-31 | - |  | - | - |
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2024-12-31 | - |  | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-12-31 | - |  | - | - |
@@ -493,6 +493,7 @@
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | - |  | - | - |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |
 | [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
+| [Revenge of Sardine](games/8/894b17f2131c4a38b2c43b50621730cc.md) | 2099-01-01 | - |  | - | - |
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2099-01-01 | - |  | - | - |
 | [Rise of Industry 2](games/4/47f326b0d07b4b7c8435163b1c78c8ab.md) | 2099-01-01 | - |  | - | - |
 | [Rooted](games/0/0c0ddf9e73d7480cb81033411e840dd1.md) | 2099-01-01 | - |  | - | - |
