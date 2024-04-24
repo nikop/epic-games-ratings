@@ -2,7 +2,7 @@
   "ID": "8d123dcc4b5c4d168f7de7b3e1ed7d47",
   "Name": "Rising Hell",
   "ProductSlug": "rising-hell-253707",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 804,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 985,
@@ -369,10 +369,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 678,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2024-04-24T14:00:47.4299591+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 679,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 678,
+  "NumberOfAwards": 679,
   "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -446,7 +452,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has a Creative Community",
@@ -467,8 +473,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2024-03-29T17:57:47.8246592+00:00",
+  "LastChanged": "2024-04-24T14:00:47.4299589+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:20.0492545+00:00",
-  "LastUpdate_Ratings": "2024-04-24T13:12:06.9977458+00:00",
+  "LastUpdate_Ratings": "2024-04-24T14:00:47.4299596+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:35.6529829+00:00"
 }
