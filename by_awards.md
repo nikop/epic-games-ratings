@@ -239,7 +239,7 @@
 | 237 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 499 | 4.50 | 641 |
 | 238 | [Second Extinction™](games/s/second_extinction™.md) | 496 | 4.06 | 1,097 |
 | 239 | [Against the Storm](games/a/against_the_storm.md) | 483 | 4.82 | 68 |
-| 240 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 476 | 4.78 | 113 |
+| 240 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 478 | 4.78 | 113 |
 | 241 | [Into the Breach](games/i/into_the_breach.md) | 474 | 4.83 | 56 |
 | 242 | [Hello Neighbor](games/h/hello_neighbor.md) | 473 | 4.57 | 511 |
 | 243 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 470 | 4.62 | 397 |
