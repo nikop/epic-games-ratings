@@ -24,7 +24,7 @@
 | 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,540 | 84 |
 | 20 | [Inscryption](games/i/inscryption.md) | 4.87 | 367 | 259 |
 | 20 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 310,878 | 5 |
-| 20 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,174 | 27 |
+| 20 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,192 | 27 |
 | 20 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 603 |
 | 20 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 690 | 207 |
 | 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 152 | 360 |
@@ -161,7 +161,7 @@
 | 150 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 632 |
 | 150 | [Outlast](games/o/outlast.md) | 4.75 | 31 | 559 |
 | 150 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,059 | 171 |
-| 150 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 16,833 | 28 |
+| 150 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 16,841 | 28 |
 | 150 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 105 | 399 |
 | 150 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 516 | 233 |
 | 150 | [Townscaper](games/t/townscaper.md) | 4.75 | 0 | 632 |

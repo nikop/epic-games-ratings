@@ -26,8 +26,8 @@
 | 24 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 22,576 | 4.17 | 1,039 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,591 | 4.60 | 446 |
 | 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,503 | 4.76 | 140 |
-| 27 | [Satisfactory](games/s/satisfactory.md) | 17,174 | 4.87 | 20 |
-| 28 | [SnowRunner](games/s/snowrunner.md) | 16,833 | 4.75 | 150 |
+| 27 | [Satisfactory](games/s/satisfactory.md) | 17,192 | 4.87 | 20 |
+| 28 | [SnowRunner](games/s/snowrunner.md) | 16,841 | 4.75 | 150 |
 | 29 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 16,140 | 4.59 | 464 |
 | 30 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,874 | 4.59 | 464 |
 | 31 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,061 | 4.44 | 742 |
