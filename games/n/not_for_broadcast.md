@@ -1,7 +1,7 @@
 # Not For Broadcast
 [Store](https://store.epicgames.com/en-US/p/not-for-broadcast-7e523f)  
 [View Rawdata](../../db/n/not_for_broadcast.json)  
-Rating: 4.77 (Ranked 123)  
+Rating: 4.75 (Ranked 149)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -19,3 +19,4 @@ Rating: 4.77 (Ranked 123)
 | 2023-10-26 | 4.75 | 0 | 0 |
 | 2023-12-02 | 4.76 | 0 | 0 |
 | 2024-02-14 | 4.77 | 0 | 0 |
+| 2024-04-25 | 4.75 | 0 | 0 |

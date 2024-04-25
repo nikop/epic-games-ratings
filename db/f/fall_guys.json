@@ -2,7 +2,7 @@
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
   "ProductSlug": "fall-guys",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 5,
   "Ranking_EOS_Progress": 1,
@@ -22048,10 +22048,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1427515,
       "NumberOfAwardsMax": 158956
+    },
+    {
+      "Time": "2024-04-25T17:00:51.0239087+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1427557,
+      "NumberOfAwardsMax": 158956
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1427515,
+  "NumberOfAwards": 1427557,
   "NumberOfAwardsMax": 158956,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -22065,13 +22071,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 139621
+      "Count": 139629
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 136748
+      "Count": 136759
     },
     {
       "Text": "This game has Competitive Players",
@@ -22113,13 +22119,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 110388
+      "Count": 110399
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 107381
+      "Count": 107393
     }
   ],
   "EOS_Progressed": 38962798,
@@ -55025,9 +55031,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
-  "LastChanged": "2024-04-25T15:59:19.2924425+00:00",
+  "LastChanged": "2024-04-25T17:00:51.0239085+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:16.5021581+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:52.8325147+00:00",
-  "LastUpdate_Ratings": "2024-04-25T15:59:19.292443+00:00",
+  "LastUpdate_Ratings": "2024-04-25T17:00:51.0239093+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:16.5023245+00:00"
 }

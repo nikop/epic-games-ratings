@@ -2,9 +2,9 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
-  "Ranking_Rating": 828,
+  "Ranking_Rating": 829,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 171,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -3915,10 +3915,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 4117,
       "NumberOfAwardsMax": 675
+    },
+    {
+      "Time": "2024-04-25T16:58:48.0842404+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 4553,
+      "NumberOfAwardsMax": 675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4117,
+  "NumberOfAwards": 4553,
   "NumberOfAwardsMax": 675,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3950,13 +3956,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 524
+      "Count": 525
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 490
+      "Count": 493
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3980,7 +3986,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 429
+      "Count": 432
     }
   ],
   "EOS_Progressed": 0,
@@ -3994,8 +4000,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2024-04-25T09:00:19.9702568+00:00",
+  "LastChanged": "2024-04-25T16:58:48.0842402+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:45.5272512+00:00",
-  "LastUpdate_Ratings": "2024-04-25T15:01:30.6963553+00:00",
+  "LastUpdate_Ratings": "2024-04-25T16:58:48.0842408+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:04.6053628+00:00"
 }
