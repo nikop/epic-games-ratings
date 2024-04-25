@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Space Rocks!](games/2/2fdfd820f11346f8a6ebb3bd5e6339c7.md) | 2024-04-25 | - |  | - | - |
 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 2024-04-25 | - |  | - | - |
 | [Jack Holmes: Master of Puppets](games/4/46d8d9b49fa24b2c81f648d2c30f45d1.md) | 2024-04-26 | - |  | - | - |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | - |  | - | - |
@@ -442,7 +441,6 @@
 | [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | - |  | - | - |
 | [Mimic](games/2/2483b3cc6cc0474eadf938933d0b5929.md) | 2099-01-01 | - |  | - | - |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2099-01-01 | 42 (1,000 XP) | 1 | - | - |
-| [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2099-01-01 | 25 (1,000 XP) | 0 | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Moon Village Simulator](games/m/moon_village_simulator.md) | 2099-01-01 | - |  | - | - |
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2099-01-01 | - |  | - | - |

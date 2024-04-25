@@ -16,7 +16,6 @@
 | [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 2099-01-01 | 14 (1,000 XP) | 4 | - | - |
 | [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | 30 (1,000 XP) | 1 | - | - |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2099-01-01 | 42 (1,000 XP) | 1 | - | - |
-| [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2099-01-01 | 25 (1,000 XP) | 0 | - | - |
 | [Never Alone](games/e/e578f95e616d4dc29a70d0f7be01ebb5.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
 | [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 437 | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2099-01-01 | 21 (1,000 XP) | 0 | - | - |
@@ -41,6 +40,7 @@
 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 2024-05-02 | 19 (1,000 XP) | 1 | - | - |
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 2 | - | - |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 3 | - | - |
+| [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | - |
 | [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 34 | - | - |
 | [Lunar Lander Beyond](games/6/62604a9708a14eed8b10b31ebd2056d7.md) | 2024-04-23 | 26 (1,000 XP) | 2 | - | 0 |
 | [NINJA KATO 3](games/4/45e5366436ed4058ad268d41516c4c0d.md) | 2024-04-21 | 5 (1,000 XP) | 0 | - | - |
@@ -549,7 +549,7 @@
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 22 (1,000 XP) | 313 | - | 0 |
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 175 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | 0 |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 935,956 | 4.68 | 9,703 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 935,956 | 4.68 | 9,815 |
 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,342,128 | 4.33 | 121 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 608 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 17 | - | 0 |
@@ -787,7 +787,7 @@
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 3,955 | 4.10 | 0 |
 | [Urbek City Builder](games/u/urbek_city_builder.md) | 2022-10-20 | 79 (1,000 XP) | 589 | - | 0 |
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 36,496 | 4.51 | 365 |
-| [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 2022-10-17 | 35 (1,000 XP) | 21,028 | 4.74 | 513 |
+| [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 2022-10-17 | 35 (1,000 XP) | 21,028 | 4.74 | 514 |
 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2022-10-17 | 30 (1,000 XP) | 88 | - | 0 |
 | [Trifox](games/t/trifox.md) | 2022-10-14 | 46 (1,000 XP) | 107 | - | 0 |
 | [Scorn](games/s/scorn.md) | 2022-10-14 | 12 (1,000 XP) | 3,194 | 4.46 | 0 |
@@ -935,7 +935,7 @@
 | [Unspottable](games/u/unspottable.md) | 2021-12-14 | 25 (1,000 XP) | 16 | - | 0 |
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 11,417 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,040 | - | 0 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 241 (5,790 XP) | 1,342,560 | 4.51 | 44,867 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 241 (5,790 XP) | 1,342,560 | 4.51 | 44,903 |
 | [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 243,316 | 4.61 | 796 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 14 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,559 | 4.47 | 36 |
@@ -1012,7 +1012,7 @@
 | [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 477,651 | 4.51 | 235 |
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 8,073 | 4.65 | 118 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 514,787 | 4.53 | 81 |
-| [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 499,450 | 4.44 | 277 |
+| [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 499,450 | 4.44 | 279 |
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,349,295 | 4.66 | 7,720 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,111 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,070 | 4.66 | 1,996 |
