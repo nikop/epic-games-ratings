@@ -64,7 +64,7 @@
 | 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,131 | 4.71 | 206 |
 | 63 | [Supraland](games/s/supraland.md) | 7,850 | 4.61 | 418 |
 | 64 | [Sifu](games/s/sifu.md) | 7,729 | 4.82 | 69 |
-| 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,711 | 4.66 | 316 |
+| 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,720 | 4.66 | 316 |
 | 66 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,143 | 4.83 | 56 |
 | 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,141 | 4.75 | 150 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,115 | 4.67 | 293 |
@@ -94,7 +94,7 @@
 | 92 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,690 | 4.68 | 273 |
 | 93 | [Days Gone](games/d/days_gone.md) | 4,545 | 4.68 | 273 |
 | 94 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,535 | 4.46 | 703 |
-| 95 | [Paladins](games/p/paladins.md) | 4,362 | 4.32 | 908 |
+| 95 | [Paladins](games/p/paladins.md) | 4,368 | 4.32 | 908 |
 | 96 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,208 | 4.51 | 620 |
 | 97 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4,062 | 4.63 | 376 |
 | 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,960 | 4.48 | 675 |
@@ -107,7 +107,7 @@
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,510 | 4.19 | 1,025 |
 | 106 | [Among Us](games/a/among_us.md) | 3,305 | 4.56 | 535 |
 | 107 | [RAGE 2](games/r/rage_2.md) | 3,113 | 4.27 | 956 |
-| 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,037 | 4.54 | 569 |
+| 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,048 | 4.54 | 569 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,964 | 4.62 | 397 |
 | 110 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,917 | 4.79 | 98 |
 | 111 | [Ghostrunner](games/g/ghostrunner.md) | 2,859 | 4.56 | 535 |
@@ -182,8 +182,8 @@
 | 180 | [Dishonored 2](games/d/dishonored_2.md) | 992 | 4.78 | 113 |
 | 181 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 943 | 4.60 | 447 |
 | 182 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 942 | 4.79 | 98 |
-| 183 | [Auto Chess](games/a/auto_chess.md) | 938 | 4.50 | 640 |
-| 183 | [The Long Dark](games/t/the_long_dark.md) | 938 | 4.74 | 166 |
+| 183 | [Auto Chess](games/a/auto_chess.md) | 939 | 4.50 | 640 |
+| 184 | [The Long Dark](games/t/the_long_dark.md) | 938 | 4.74 | 166 |
 | 185 | [Frostpunk](games/f/frostpunk.md) | 937 | 4.74 | 166 |
 | 186 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 933 | 4.45 | 717 |
 | 187 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 926 | 4.68 | 273 |
@@ -322,7 +322,7 @@
 | 320 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 210 | 4.35 | 875 |
 | 320 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 210 | 4.58 | 486 |
 | 322 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 208 | 4.55 | 551 |
-| 323 | [Relicta](games/r/relicta.md) | 206 | 4.14 | 1,066 |
+| 323 | [Relicta](games/r/relicta.md) | 206 | 4.14 | 1,067 |
 | 324 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 203 | 4.22 | 1,005 |
 | 324 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 203 | 4.54 | 569 |
 | 326 | [Crashlands](games/c/crashlands.md) | 202 | 4.66 | 316 |
@@ -616,7 +616,7 @@
 | 614 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 908 |
 | 614 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 551 |
 | 614 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 979 |
-| 614 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.14 | 1,066 |
+| 614 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.14 | 1,067 |
 | 614 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.29 | 929 |
 | 614 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,025 |
 | 614 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 486 |

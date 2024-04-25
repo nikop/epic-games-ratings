@@ -175,7 +175,7 @@
 | 166 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 52,725 | 14 |
 | 166 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 102 | 405 |
 | 166 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 114 | 390 |
-| 166 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 938 | 183 |
+| 166 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 938 | 184 |
 | 166 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 632 |
 | 166 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,197 | 157 |
 | 166 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 632 |
@@ -319,7 +319,7 @@
 | 316 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.66 | 63 | 465 |
 | 316 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.66 | 0 | 632 |
 | 316 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 102 | 405 |
-| 316 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,711 | 65 |
+| 316 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,720 | 65 |
 | 316 | [Crashlands](games/c/crashlands.md) | 4.66 | 202 | 326 |
 | 316 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 191 | 333 |
 | 316 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,319 | 150 |
@@ -577,7 +577,7 @@
 | 569 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.54 | 38 | 533 |
 | 569 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 203 | 324 |
 | 569 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.54 | 0 | 632 |
-| 569 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,037 | 108 |
+| 569 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,048 | 108 |
 | 569 | [RiME](games/r/rime.md) | 4.54 | 0 | 632 |
 | 569 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 589 |
 | 569 | [Sable](games/s/sable.md) | 4.54 | 33 | 551 |
@@ -641,7 +641,7 @@
 | 620 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 36 | 538 |
 | 640 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,037 | 129 |
 | 640 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.50 | 24 | 603 |
-| 640 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 938 | 183 |
+| 640 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 939 | 183 |
 | 640 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 499 | 237 |
 | 640 | [Calico](games/c/calico.md) | 4.50 | 0 | 632 |
 | 640 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 114 | 390 |
@@ -910,7 +910,7 @@
 | 908 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 0 | 632 |
 | 908 | [Ashen](games/a/ashen.md) | 4.32 | 22 | 614 |
 | 908 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 632 |
-| 908 | [Paladins](games/p/paladins.md) | 4.32 | 4,362 | 95 |
+| 908 | [Paladins](games/p/paladins.md) | 4.32 | 4,368 | 95 |
 | 908 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 632 |
 | 908 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.32 | 40 | 526 |
 | 908 | [Vampyr](games/v/vampyr.md) | 4.32 | 606 | 222 |
@@ -1064,14 +1064,14 @@
 | 1,056 | [Fangs](games/f/fangs.md) | 4.15 | 0 | 632 |
 | 1,056 | [Forspoken](games/f/forspoken.md) | 4.15 | 62 | 468 |
 | 1,056 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 28 | 576 |
+| 1,056 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 632 |
 | 1,056 | [Pine](games/p/pine.md) | 4.15 | 0 | 632 |
-| 1,066 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.14 | 22 | 614 |
-| 1,066 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 632 |
-| 1,066 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.14 | 0 | 632 |
-| 1,066 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 632 |
-| 1,066 | [Relicta](games/r/relicta.md) | 4.14 | 206 | 323 |
-| 1,066 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.14 | 0 | 632 |
-| 1,066 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 632 |
+| 1,067 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.14 | 22 | 614 |
+| 1,067 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 632 |
+| 1,067 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 632 |
+| 1,067 | [Relicta](games/r/relicta.md) | 4.14 | 206 | 323 |
+| 1,067 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.14 | 0 | 632 |
+| 1,067 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 632 |
 | 1,073 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 0 | 632 |
 | 1,073 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,559 | 113 |
 | 1,073 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.13 | 0 | 632 |
@@ -1159,7 +1159,7 @@
 | 1,157 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 3.70 | 0 | 632 |
 | 1,158 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 632 |
 | 1,159 | [Redfall](games/r/redfall.md) | 3.66 | 41 | 521 |
-| 1,160 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.55 | 0 | 632 |
+| 1,160 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.56 | 0 | 632 |
 | 1,161 | [Adios](games/a/adios.md) | 3.53 | 0 | 632 |
 | 1,162 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.44 | 101 | 409 |
 | 1,163 | [Survive on Raft](games/s/survive_on_raft.md) | 3.40 | 0 | 632 |
