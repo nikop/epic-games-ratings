@@ -161,7 +161,7 @@
 | 150 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 632 |
 | 150 | [Outlast](games/o/outlast.md) | 4.75 | 31 | 559 |
 | 150 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,059 | 171 |
-| 150 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 16,841 | 28 |
+| 150 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 16,855 | 28 |
 | 150 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 105 | 400 |
 | 150 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 516 | 233 |
 | 150 | [Townscaper](games/t/townscaper.md) | 4.75 | 0 | 632 |
@@ -262,7 +262,7 @@
 | 249 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 632 |
 | 249 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 679 | 208 |
 | 249 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 526 |
-| 249 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,174 | 40 |
+| 249 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,178 | 40 |
 | 249 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 76 | 447 |
 | 249 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 596 | 224 |
 | 249 | [Suzerain](games/s/suzerain.md) | 4.69 | 0 | 632 |
@@ -624,7 +624,7 @@
 | 620 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 306 |
 | 620 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 632 |
 | 620 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 44,867 | 15 |
-| 620 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 158,925 | 8 |
+| 620 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 158,956 | 8 |
 | 620 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 365 | 261 |
 | 620 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 162 | 354 |
 | 620 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.51 | 0 | 632 |
@@ -750,7 +750,7 @@
 | 741 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 337 | 269 |
 | 741 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.44 | 0 | 632 |
 | 741 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 386 |
-| 741 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,068 | 31 |
+| 741 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,071 | 31 |
 | 741 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 60 | 471 |
 | 741 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 632 |
 | 741 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 632 |
@@ -1105,7 +1105,7 @@
 | 1,103 | [Armored Warfare](games/a/armored_warfare.md) | 4.04 | 124 | 379 |
 | 1,103 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 632 |
 | 1,103 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.04 | 0 | 632 |
-| 1,106 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.03 | 23 | 611 |
+| 1,106 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.02 | 23 | 611 |
 | 1,107 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 632 |
 | 1,107 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 632 |
 | 1,107 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,530 | 51 |
@@ -1138,8 +1138,8 @@
 | 1,136 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.89 | 138 | 367 |
 | 1,136 | [Warface: Clutch](games/w/warface.md) | 3.89 | 507 | 236 |
 | 1,138 | [To The Rescue](games/t/to_the_rescue.md) | 3.88 | 0 | 632 |
-| 1,139 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.86 | 0 | 632 |
-| 1,139 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 632 |
+| 1,139 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.87 | 0 | 632 |
+| 1,140 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 632 |
 | 1,141 | [Poker Club](games/p/poker_club.md) | 3.85 | 54 | 487 |
 | 1,141 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 632 |
 | 1,141 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.85 | 0 | 632 |

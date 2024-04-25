@@ -7,7 +7,7 @@
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 311,291 | 4.87 | 20 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 227,374 | 4.18 | 1,034 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 162,212 | 4.68 | 273 |
-| 8 | [Fall Guys](games/f/fall_guys.md) | 158,925 | 4.51 | 620 |
+| 8 | [Fall Guys](games/f/fall_guys.md) | 158,956 | 4.51 | 620 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 132,298 | 4.69 | 249 |
 | 10 | [VALORANT](games/v/valorant.md) | 113,211 | 4.50 | 640 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 74,183 | 4.44 | 741 |
@@ -27,10 +27,10 @@
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,613 | 4.60 | 447 |
 | 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,512 | 4.76 | 141 |
 | 27 | [Satisfactory](games/s/satisfactory.md) | 17,216 | 4.87 | 20 |
-| 28 | [SnowRunner](games/s/snowrunner.md) | 16,841 | 4.75 | 150 |
+| 28 | [SnowRunner](games/s/snowrunner.md) | 16,855 | 4.75 | 150 |
 | 29 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 16,152 | 4.59 | 464 |
 | 30 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 15,907 | 4.59 | 464 |
-| 31 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,068 | 4.44 | 741 |
+| 31 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,071 | 4.44 | 741 |
 | 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,028 | 4.84 | 45 |
 | 33 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,846 | 4.58 | 486 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 14,229 | 4.46 | 703 |
@@ -39,7 +39,7 @@
 | 37 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,900 | 4.36 | 858 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 12,431 | 4.77 | 123 |
 | 39 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 12,293 | 4.49 | 658 |
-| 40 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,174 | 4.69 | 249 |
+| 40 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,178 | 4.69 | 249 |
 | 41 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 12,159 | 4.50 | 640 |
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 12,012 | 4.77 | 123 |
 | 43 | [NBA 2K21](games/n/nba_2k21.md) | 11,864 | 4.38 | 837 |
@@ -612,7 +612,7 @@
 | 603 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 511 |
 | 611 | [Black Book](games/b/black_book.md) | 23 | 4.63 | 376 |
 | 611 | [Griftlands](games/g/griftlands.md) | 23 | 4.79 | 98 |
-| 611 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 23 | 4.03 | 1,106 |
+| 611 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 23 | 4.02 | 1,106 |
 | 614 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 908 |
 | 614 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 551 |
 | 614 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 979 |
