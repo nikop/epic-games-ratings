@@ -2,7 +2,7 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 464,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -10445,18 +10445,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 32893,
       "NumberOfAwardsMax": 15907
+    },
+    {
+      "Time": "2024-04-25T21:59:42.9747635+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 32930,
+      "NumberOfAwardsMax": 15937
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32893,
-  "NumberOfAwardsMax": 15907,
+  "NumberOfAwards": 32930,
+  "NumberOfAwardsMax": 15937,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 15907
+      "Count": 15937
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10522,7 +10528,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1962
+      "Count": 1969
     }
   ],
   "EOS_Progressed": 0,
@@ -10537,8 +10543,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-04-25T18:59:59.6016031+00:00",
+  "LastChanged": "2024-04-25T21:59:42.9747633+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:25.9867817+00:00",
-  "LastUpdate_Ratings": "2024-04-25T20:58:33.3708668+00:00",
+  "LastUpdate_Ratings": "2024-04-25T21:59:42.9747638+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:09.8311736+00:00"
 }
