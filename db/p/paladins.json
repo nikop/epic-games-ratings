@@ -2,7 +2,7 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "ProductSlug": "paladins",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 908,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR,CN"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 11687,
   "RatingHistory": [
     {
@@ -13401,6 +13401,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 27623,
       "NumberOfAwardsMax": 4362
+    },
+    {
+      "Time": "2024-04-24T23:58:46.2553639+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 27623,
+      "NumberOfAwardsMax": 4362
     }
   ],
   "ReviewsDisabled": true,
@@ -13480,8 +13486,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2024-04-24T22:57:35.0816207+00:00",
+  "LastChanged": "2024-04-24T23:58:46.2553636+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:27.881305+00:00",
-  "LastUpdate_Ratings": "2024-04-24T22:57:35.0816216+00:00",
+  "LastUpdate_Ratings": "2024-04-24T23:58:46.2553643+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:57.5169172+00:00"
 }

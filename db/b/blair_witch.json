@@ -2,7 +2,7 @@
   "ID": "8101d2b09984401fa28cecce4c867e71",
   "Name": "Blair Witch",
   "ProductSlug": "blair-witch",
-  "Ranking_Rating": 1077,
+  "Ranking_Rating": 1076,
   "Ranking_Popularity": 632,
   "Ranking_PopularitySum": 632,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.11,
+  "Rating": 4.12,
   "NumberOfRatings": 635,
   "RatingHistory": [
     {
@@ -526,6 +526,12 @@
       "Rating": 4.11,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-24T23:57:31.1893335+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -543,8 +549,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:46.0898805+00:00",
-  "LastChanged": "2024-03-20T02:13:17.5179548+00:00",
+  "LastChanged": "2024-04-24T23:57:31.1893333+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:54.1828435+00:00",
-  "LastUpdate_Ratings": "2024-04-24T21:59:40.9316103+00:00",
+  "LastUpdate_Ratings": "2024-04-24T23:57:31.1893338+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:12.0567087+00:00"
 }
