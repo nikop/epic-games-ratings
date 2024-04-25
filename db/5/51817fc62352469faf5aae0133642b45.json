@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_Rating": 874,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 483,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -845,10 +845,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 148,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-04-25T15:59:26.7342877+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 149,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 148,
+  "NumberOfAwards": 149,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -874,7 +880,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Highly Recommended",
@@ -895,8 +901,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-04-25T01:44:47.178201+00:00",
+  "LastChanged": "2024-04-25T15:59:26.7342877+00:00",
   "LastUpdate_AppInfo": "2024-04-24T22:57:11.8277909+00:00",
-  "LastUpdate_Ratings": "2024-04-25T14:00:15.7341381+00:00",
+  "LastUpdate_Ratings": "2024-04-25T15:59:26.7342881+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:43.7841392+00:00"
 }
