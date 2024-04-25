@@ -4,7 +4,7 @@
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 858,
   "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 404,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -563,10 +563,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 338,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-04-25T01:43:37.4714334+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 338,
+  "NumberOfAwards": 341,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -604,7 +610,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 31
+      "Count": 34
     },
     {
       "Text": "This game has Competitive Players",
@@ -661,8 +667,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-04-24T08:58:21.4348907+00:00",
+  "LastChanged": "2024-04-25T01:43:37.4714332+00:00",
   "LastUpdate_AppInfo": "2024-04-21T10:57:05.4007582+00:00",
-  "LastUpdate_Ratings": "2024-04-24T23:00:39.3296413+00:00",
+  "LastUpdate_Ratings": "2024-04-25T01:43:37.4714336+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }
