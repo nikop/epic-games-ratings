@@ -18,7 +18,7 @@
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 44,106 | 4.72 | 194 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,552 | 4.74 | 166 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,067 | 4.64 | 362 |
-| 19 | [Dauntless](games/d/dauntless.md) | 28,631 | 4.53 | 587 |
+| 19 | [Dauntless](games/d/dauntless.md) | 28,652 | 4.53 | 587 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 27,099 | 4.89 | 12 |
 | 21 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,702 | 4.57 | 510 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 23,608 | 4.26 | 966 |
@@ -48,7 +48,7 @@
 | 46 | [DEATH STRANDING](games/d/death_stranding.md) | 10,541 | 4.78 | 113 |
 | 47 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,206 | 4.89 | 12 |
 | 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,156 | 4.63 | 376 |
-| 49 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,917 | 4.51 | 620 |
+| 49 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,929 | 4.51 | 620 |
 | 50 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 9,703 | 4.68 | 273 |
 | 51 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 9,530 | 4.01 | 1,107 |
 | 52 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,455 | 4.69 | 249 |
@@ -82,12 +82,12 @@
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,984 | 4.56 | 535 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,647 | 4.59 | 464 |
 | 82 | [SMITE](games/s/smite.md) | 5,620 | 4.41 | 788 |
+| 83 | [God of War](games/g/god_of_war.md) | 5,546 | 4.87 | 20 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,546 | 4.57 | 510 |
-| 84 | [God of War](games/g/god_of_war.md) | 5,540 | 4.87 | 20 |
 | 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,176 | 4.37 | 851 |
 | 86 | [Shop Titans](games/s/shop_titans.md) | 5,127 | 4.00 | 1,110 |
 | 87 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,124 | 4.62 | 397 |
-| 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,992 | 4.70 | 221 |
+| 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,994 | 4.70 | 221 |
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,856 | 4.65 | 342 |
 | 90 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 535 |
 | 91 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,698 | 4.70 | 221 |

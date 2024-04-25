@@ -21,7 +21,7 @@
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 632 |
 | 20 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,713 | 140 |
 | 20 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 802 | 198 |
-| 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,540 | 84 |
+| 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,546 | 83 |
 | 20 | [Inscryption](games/i/inscryption.md) | 4.87 | 367 | 259 |
 | 20 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 311,291 | 5 |
 | 20 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,192 | 27 |
@@ -244,7 +244,7 @@
 | 221 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.70 | 0 | 632 |
 | 221 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 632 |
 | 221 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 632 |
-| 221 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,992 | 88 |
+| 221 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,994 | 88 |
 | 221 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.70 | 0 | 632 |
 | 221 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 632 |
 | 221 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 632 |
@@ -587,7 +587,7 @@
 | 568 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.54 | 0 | 632 |
 | 568 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 413 | 252 |
 | 587 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 632 |
-| 587 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,631 | 19 |
+| 587 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,652 | 19 |
 | 587 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 26 | 589 |
 | 587 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 530 |
 | 587 | [Everything](games/e/everything.md) | 4.53 | 0 | 632 |
@@ -633,7 +633,7 @@
 | 620 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.51 | 0 | 632 |
 | 620 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 389 | 254 |
 | 620 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 1,075 | 170 |
-| 620 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 9,917 | 49 |
+| 620 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 9,929 | 49 |
 | 620 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 77 | 445 |
 | 620 | [The Medium](games/t/the_medium.md) | 4.51 | 0 | 632 |
 | 620 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 632 |
