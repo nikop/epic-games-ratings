@@ -4,7 +4,7 @@
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 941,
   "Ranking_Popularity": 603,
-  "Ranking_PopularitySum": 500,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -489,10 +489,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 110,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-04-25T09:59:26.2667574+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110,
+  "NumberOfAwards": 130,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -525,6 +531,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -539,8 +551,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-04-18T09:57:43.0533832+00:00",
+  "LastChanged": "2024-04-25T09:59:26.2667572+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:15.8268038+00:00",
-  "LastUpdate_Ratings": "2024-04-25T08:58:23.0331818+00:00",
+  "LastUpdate_Ratings": "2024-04-25T09:59:26.2667576+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:18.5743762+00:00"
 }
