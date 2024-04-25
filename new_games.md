@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Puzzle Agent](games/3/3726bbb2f39547989134d8ebaba10b3b.md) | 2024-04-25 | - |  | - | - |
 | [Cube Step](games/9/94d21a9f81064b058c4d7d0d0bcba0d6.md) | 2024-04-25 | - |  | - | - |
 | [Weed Shop 3](games/8/84367f1107b84e12ae5d2ef1d36d071e.md) | 2024-04-24 | - |  | - | - |
 | [Vengeance of Mr. Peppermint](games/v/vengeance_of_mr._peppermint.md) | 2024-04-24 | - |  | - | - |
@@ -26,7 +27,7 @@
 | [Brand New World](games/7/7198c1ccb7b64bbbb1a7d0112a75c9a5.md) | 2024-04-18 | - |  | - | - |
 | [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-18 | 42 (1,000 XP) | 1 | - | - |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2024-04-18 | - |  | - | 0 |
-| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | - |  | 4.50 | 0 |
+| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | - |  | 4.47 | 0 |
 | [Unescape](games/b/b2883057687b4323bef2f2619f95b52c.md) | 2024-04-18 | - |  | - | 0 |
 | [happiness market](games/3/301523940444454f809dd4d9122a4b3f.md) | 2024-04-18 | - |  | - | - |
 | [EMULATED: OpsRunner](games/7/7aa0633c4f714b949071394d35de89bf.md) | 2024-04-17 | - |  | - | - |

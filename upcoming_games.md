@@ -376,6 +376,9 @@
 | [Guardians of Elderon](games/g/guardians_of_elderon.md) | 2099-01-01 | - |  | - | - |
 | [Hands of Necromancy II](games/4/4bbdc84ecd234d5d8d94b8a350ad17c0.md) | 2099-01-01 | - |  | - | - |
 | [Happy Time](games/0/0c3400dec5ec47399810c08113c09958.md) | 2099-01-01 | - |  | - | - |
+| [Hector: Badge of Carnage - Episode 1](games/9/912f8bad879c4f54ae2e4f2b2b7e970e.md) | 2099-01-01 | - |  | - | - |
+| [Hector: Badge of Carnage - Episode 2](games/9/9a4a33ebb75f4481ab78dc2f000bdde3.md) | 2099-01-01 | - |  | - | - |
+| [Hector: Badge of Carnage - Episode 3](games/9/9283d870a39e44de996a8a88735e05b0.md) | 2099-01-01 | - |  | - | - |
 | [HELIX](games/b/bfaeb968e658400db8cc48fd4bae1081.md) | 2099-01-01 | - |  | - | - |
 | [Henry Halfhead](games/d/dbba31245c4345f7b9efa2f8434c446a.md) | 2099-01-01 | - |  | - | - |
 | [Hero Flood Rescue](games/h/hero_flood_rescue.md) | 2099-01-01 | - |  | - | - |
@@ -544,6 +547,11 @@
 | [Syncromania](games/2/2c526317445249939868f82d02425e2f.md) | 2099-01-01 | - |  | - | - |
 | [TAGLINE](games/b/bab1afea00da4a519ff7d3925bd99f89.md) | 2099-01-01 | - |  | - | - |
 | [Tails of Iron 2: Whiskers of Winter](games/8/8f8f6f0f4e3c492aac38c828ea2f763a.md) | 2099-01-01 | - |  | - | - |
+| [Tales of Monkey Island - Chapter 1](games/9/9d0f94c43c6e4c72ab56cf7c65d5cea8.md) | 2099-01-01 | - |  | - | - |
+| [Tales of Monkey Island - Chapter 2](games/d/d51a89fa65574cba9d7c13ec3c899a1a.md) | 2099-01-01 | - |  | - | - |
+| [Tales of Monkey Island - Chapter 3](games/b/b2633b067c604e10b41c9b75092d34ea.md) | 2099-01-01 | - |  | - | - |
+| [Tales of Monkey Island - Chapter 4](games/b/b81ab48605f74457ab80f2d96c02b000.md) | 2099-01-01 | - |  | - | - |
+| [Tales of Monkey Island - Chapter 5](games/b/b7e59e1e6e29496ebc96c9a082c868d8.md) | 2099-01-01 | - |  | - | - |
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | - |  | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2099-01-01 | - |  | - | - |
 | [The 22nd is Serda. f0a178](games/e/ee7012dfa0784b638503492ccd494e1f.md) | 2099-01-01 | - |  | - | - |
@@ -589,6 +597,10 @@
 | [Vexlands](games/8/82d2c076744d4e1aa12e8843cf129cfa.md) | 2099-01-01 | - |  | - | - |
 | [Vivaion](games/5/53ac8f9e5d4d4f3db35bf66cc74b03e6.md) | 2099-01-01 | - |  | - | - |
 | [Voor De Kroon](games/8/8c14e757bab745a8a76d991c38538f3f.md) | 2099-01-01 | - |  | - | - |
+| [Wallace and Gromit's Grand Adventures - Episode 1](games/4/4270c5d2ac0941d7986057d31425d1e7.md) | 2099-01-01 | - |  | - | - |
+| [Wallace and Gromit's Grand Adventures - Episode 2](games/0/0c678dc4b0874ad7aa69e6ee6e14da88.md) | 2099-01-01 | - |  | - | - |
+| [Wallace and Gromit's Grand Adventures - Episode 3](games/b/bba45a8ace4a4bc08ab80e7374a7d35f.md) | 2099-01-01 | - |  | - | - |
+| [Wallace and Gromit's Grand Adventures - Episode 4](games/7/7e5d287ca4da433bb4ede4453ce1410f.md) | 2099-01-01 | - |  | - | - |
 | [War Thugz - Satoshi City](games/3/3015d993989f40269abf39559053efcd.md) | 2099-01-01 | - |  | - | - |
 | [Warpaws](games/w/warpaws.md) | 2099-01-01 | - |  | - | - |
 | [Wayfinder](games/w/wayfinder.md) | 2099-01-01 | - |  | - | - |
