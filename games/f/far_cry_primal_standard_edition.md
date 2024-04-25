@@ -4,12 +4,12 @@
 Rating: 4.71 (Ranked 206)  
 Number of Ratings: 463  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 673  (Ranked 212)  
-Sum: 1,043 (Ranked 288)  
-Diff (max vs sum): -76  
+Max (Great Boss Battles): 676  (Ranked 211)  
+Sum: 1,046 (Ranked 288)  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 673 |
+| This game has Great Boss Battles | 676 |
 | This game is Highly Recommended | 46 |
 | This game is Relaxing | 45 |
 | This game is Great for Beginners | 45 |
@@ -347,3 +347,4 @@ Diff (max vs sum): -76
 | 2024-04-20 | 4.71 | - | 669 | 1,036 |
 | 2024-04-21 | 4.71 | - | 670 | 1,039 |
 | 2024-04-23 | 4.71 | - | 673 | 1,043 |
+| 2024-04-25 | 4.71 | - | 676 | 1,046 |

@@ -3,7 +3,7 @@
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
   "Ranking_Rating": 206,
-  "Ranking_Popularity": 212,
+  "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -2765,18 +2765,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 1043,
       "NumberOfAwardsMax": 673
+    },
+    {
+      "Time": "2024-04-25T02:57:48.605101+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 1046,
+      "NumberOfAwardsMax": 676
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1043,
-  "NumberOfAwardsMax": 673,
+  "NumberOfAwards": 1046,
+  "NumberOfAwardsMax": 676,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 673
+      "Count": 676
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2844,8 +2850,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2024-04-23T13:59:45.7929803+00:00",
+  "LastChanged": "2024-04-25T02:57:48.6051008+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:56.7729478+00:00",
-  "LastUpdate_Ratings": "2024-04-25T01:44:55.181693+00:00",
+  "LastUpdate_Ratings": "2024-04-25T02:57:48.6051014+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:50.6741631+00:00"
 }
