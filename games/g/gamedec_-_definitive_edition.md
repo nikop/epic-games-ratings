@@ -1,7 +1,7 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 940)  
+Rating: 4.29 (Ranked 929)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -345,12 +345,12 @@ Completed: 8 (0.00%) (Ranked 455)
 | 2024-03-21 | 262,902 | 8 |
 | 2024-04-10 | 264,148 | 8 |
 ## Awards
-Max (Character Customization): 105  (Ranked 399)  
-Sum: 105 (Ranked 505)  
+Max (Character Customization): 106  (Ranked 399)  
+Sum: 106 (Ranked 505)  
 Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 105 |
+| This game has Inclusive Character Customization | 106 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -451,3 +451,4 @@ Diff (max vs sum): -106
 | 2024-04-09 | 4.28 | - | 103 | 103 |
 | 2024-04-13 | 4.28 | - | 104 | 104 |
 | 2024-04-17 | 4.28 | - | 105 | 105 |
+| 2024-04-25 | 4.29 | - | 106 | 106 |
