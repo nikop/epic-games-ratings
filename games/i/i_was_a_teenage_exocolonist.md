@@ -1,7 +1,7 @@
 # I Was a Teenage Exocolonist
 [Store](https://store.epicgames.com/en-US/p/i-was-a-teenage-exocolonist-20625e)  
 [View Rawdata](../../db/i/i_was_a_teenage_exocolonist.json)  
-Rating: 4.73 (Ranked 180)  
+Rating: 4.73 (Ranked 181)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
   "Name": "Barony",
   "ProductSlug": "barony",
-  "Ranking_Rating": 180,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 763,
   "RatingHistory": [
     {
@@ -2466,6 +2466,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 865,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2024-04-26T11:59:41.3828932+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 865,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
@@ -2545,8 +2551,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2024-04-25T12:58:18.9790293+00:00",
+  "LastChanged": "2024-04-26T11:59:41.382893+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:29.0783629+00:00",
-  "LastUpdate_Ratings": "2024-04-26T10:58:01.354825+00:00",
+  "LastUpdate_Ratings": "2024-04-26T11:59:41.3828935+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:52.4472359+00:00"
 }
