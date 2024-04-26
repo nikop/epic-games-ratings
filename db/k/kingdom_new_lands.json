@@ -2,7 +2,7 @@
   "ID": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
   "Name": "Kingdom New Lands",
   "ProductSlug": "kingdom-new-lands",
-  "Ranking_Rating": 605,
+  "Ranking_Rating": 587,
   "Ranking_Popularity": 366,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 1793,
   "RatingHistory": [
     {
@@ -2052,6 +2052,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 832,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2024-04-26T03:58:11.4516576+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 832,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
@@ -2131,8 +2137,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2024-04-23T17:00:47.2190352+00:00",
+  "LastChanged": "2024-04-26T03:58:11.4516573+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:16.3175362+00:00",
-  "LastUpdate_Ratings": "2024-04-26T02:19:32.1661463+00:00",
+  "LastUpdate_Ratings": "2024-04-26T03:58:11.4516584+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:10.2880326+00:00"
 }

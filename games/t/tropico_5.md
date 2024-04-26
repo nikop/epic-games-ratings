@@ -1,15 +1,15 @@
 # Tropico 5
 [Store](https://store.epicgames.com/en-US/p/tropico-5)  
 [View Rawdata](../../db/t/tropico_5.json)  
-Rating: 4.45 (Ranked 718)  
+Rating: 4.45 (Ranked 717)  
 Number of Ratings: 2,008  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 138  (Ranked 367)  
-Sum: 1,026 (Ranked 290)  
-Diff (max vs sum): 77  
+Max (Great for Beginners): 139  (Ranked 366)  
+Sum: 1,027 (Ranked 290)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 138 |
+| This game is Great for Beginners | 139 |
 | This game is Extremely Fun | 127 |
 | This game is Highly Recommended | 120 |
 | This game is Educational | 119 |
@@ -217,3 +217,4 @@ Diff (max vs sum): 77
 | 2024-04-11 | 4.45 | - | 137 | 1,023 |
 | 2024-04-15 | 4.45 | - | 138 | 1,025 |
 | 2024-04-21 | 4.45 | - | 138 | 1,026 |
+| 2024-04-26 | 4.45 | - | 139 | 1,027 |
