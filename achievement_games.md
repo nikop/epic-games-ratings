@@ -211,7 +211,7 @@
 | [Epic World - Hunt For Quest](games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 2023-12-07 | 10 (1,000 XP) | 3 | - | - |
 | [Funtoon's World](games/a/a7ec33941949459cab07e39c65ca4309.md) | 2023-12-07 | 6 (1,000 XP) | 14 | - | 0 |
 | [Super Kids Racing](games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 2023-12-07 | 8 (1,000 XP) | 8 | - | 0 |
-| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 15,175 | 4.69 | 264 |
+| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 15,175 | 4.69 | 265 |
 | [NINJA KATO 1](games/1/1d712926020a45dc8fe28cb4c963c9ce.md) | 2023-12-07 | 8 (1,000 XP) | 9 | - | - |
 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 2023-12-07 | 5 (1,000 XP) | 1,259 | - | 0 |
 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 2023-12-07 | 52 (1,000 XP) | 34 | - | 0 |
@@ -253,7 +253,7 @@
 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 84,701 | 4.15 | 0 |
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2023-11-15 | 30 (1,000 XP) | 0 | 4.41 | 0 |
 | [Cave Digger 2](games/9/959857360f1a4558b390204178101bc3.md) | 2023-11-14 | 24 (1,000 XP) | 12 | - | 0 |
-| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 29,531 | 4.44 | 60 |
+| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 29,531 | 4.45 | 60 |
 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2023-11-14 | 35 (1,000 XP) | 2 | - | 0 |
 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 82,562 | 4.36 | 29 |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-11-14 | 30 (1,000 XP) | 129 | - | 0 |
@@ -375,7 +375,7 @@
 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2023-09-21 | 64 (1,000 XP) | 50 | - | 0 |
 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 2023-09-21 | 21 (1,000 XP) | 1 | - | - |
 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 2023-09-21 | 15 (1,000 XP) | 16 | - | 0 |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 26,097 | 4.57 | 3,733 |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 26,097 | 4.57 | 3,734 |
 | [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | - |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-09-15 | 16 (1,000 XP) | 27 | - | 0 |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 272 | - | 0 |
@@ -1013,7 +1013,7 @@
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 8,073 | 4.65 | 118 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 514,787 | 4.53 | 81 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 499,450 | 4.44 | 279 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,349,295 | 4.66 | 7,720 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,349,295 | 4.66 | 7,729 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,111 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,070 | 4.66 | 1,996 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,083,885 | 4.68 | 162,309 |

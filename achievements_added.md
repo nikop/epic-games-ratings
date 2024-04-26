@@ -50,7 +50,7 @@
 | [Never Alone](games/e/e578f95e616d4dc29a70d0f7be01ebb5.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 198 | 4.45 | 27 |
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 1,246 | 4.84 | 52 |
-| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 29,531 | 4.44 | 60 |
+| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 29,531 | 4.45 | 60 |
 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | 64 (1,000 XP) | 25 | - | 0 |
 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 2024-02-04 | 44 (1,000 XP) | 3,655 | 4.29 | 0 |
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 23 | - | 0 |
@@ -216,7 +216,7 @@
 | [Stone Guardian](games/9/97e89a0da1004cdfb0661afb798fc495.md) | 2023-12-07 | 16 (1,000 XP) | 13 | - | - |
 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 2023-12-09 | 5 (1,000 XP) | 14 | - | 0 |
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | 2023-12-05 | 36 (1,000 XP) | 63 | - | 0 |
-| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 15,175 | 4.69 | 264 |
+| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 15,175 | 4.69 | 265 |
 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 2023-12-18 | 43 (1,000 XP) | 470,427 | 4.34 | 55 |
 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-12-21 | 8 (1,000 XP) | 16,212 | - | 0 |
 | [Asterix and Obelix Heroes](games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 2023-10-05 | 22 (1,000 XP) | 58 | - | 0 |
@@ -412,7 +412,7 @@
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 48,259 | 4.47 | 3,673 |
 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 2023-09-25 | 91 (1,000 XP) | 2,434 | 4.55 | 0 |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 26,097 | 4.57 | 3,733 |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 26,097 | 4.57 | 3,734 |
 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 358 | - | 0 |
 | [Bud Spencer and Terence Hill - Slaps and Beans 2](games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 2023-09-22 | 33 (1,000 XP) | 0 | - | 0 |
 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 2023-10-04 | 47 (1,000 XP) | 106 | - | 0 |

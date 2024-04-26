@@ -29,6 +29,7 @@
 | [Quest Room](games/8/8b0f65a8a3c94a918eb954c2cac7102c.md) | 2024-05-03 | - |  | - | - |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 2 | - | - |
 | [Parkour Legends](games/p/parkour_legends.md) | 2024-05-08 | - |  | - | - |
+| [Cross Tails](games/c/cb0899902d9c4f33b4f763b22b981043.md) | 2024-05-09 | - |  | - | - |
 | [Ships At Sea](games/5/5c610ed6aec14085a604cb5e42e70ad4.md) | 2024-05-09 | - |  | - | - |
 | [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |
 | [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2024-05-11 | - |  | - | - |

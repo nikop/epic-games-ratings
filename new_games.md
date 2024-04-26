@@ -123,4 +123,3 @@
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 29 | - | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [VillageBlade](games/f/f5d99ffea3d846a7970a23ee801320f6.md) | 2024-03-27 | - |  | - | - |
-| [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | - |  | - | - |
