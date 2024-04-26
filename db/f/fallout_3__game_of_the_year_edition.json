@@ -2,7 +2,7 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 464,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -10457,10 +10457,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 32945,
       "NumberOfAwardsMax": 15937
+    },
+    {
+      "Time": "2024-04-26T01:44:08.8160769+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 32959,
+      "NumberOfAwardsMax": 15937
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32945,
+  "NumberOfAwards": 32959,
   "NumberOfAwardsMax": 15937,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10486,7 +10492,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1825
+      "Count": 1832
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10528,7 +10534,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1198
+      "Count": 1205
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10549,8 +10555,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-04-25T23:57:45.7393359+00:00",
+  "LastChanged": "2024-04-26T01:44:08.8160767+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:25.9867817+00:00",
-  "LastUpdate_Ratings": "2024-04-25T23:57:45.7393365+00:00",
+  "LastUpdate_Ratings": "2024-04-26T01:44:08.8160775+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:09.8311736+00:00"
 }
