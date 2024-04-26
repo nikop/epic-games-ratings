@@ -106,7 +106,7 @@
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,566 | 4.76 | 140 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,510 | 4.19 | 1,026 |
 | 106 | [Among Us](games/a/among_us.md) | 3,309 | 4.56 | 535 |
-| 107 | [RAGE 2](games/r/rage_2.md) | 3,113 | 4.27 | 956 |
+| 107 | [RAGE 2](games/r/rage_2.md) | 3,115 | 4.27 | 956 |
 | 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,048 | 4.54 | 568 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,964 | 4.62 | 397 |
 | 110 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,917 | 4.79 | 98 |
@@ -165,8 +165,8 @@
 | 163 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,133 | 4.61 | 420 |
 | 164 | [Torchlight II](games/t/torchlight_ii.md) | 1,126 | 4.59 | 464 |
 | 165 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,099 | 4.40 | 804 |
-| 166 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,088 | 4.54 | 568 |
-| 166 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,088 | 4.49 | 656 |
+| 166 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,089 | 4.49 | 656 |
+| 167 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,088 | 4.54 | 568 |
 | 168 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,083 | 4.56 | 535 |
 | 169 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 1,082 | 4.75 | 149 |
 | 170 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,075 | 4.51 | 621 |

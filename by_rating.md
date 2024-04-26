@@ -577,7 +577,7 @@
 | 568 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 204 | 324 |
 | 568 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.54 | 0 | 632 |
 | 568 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,048 | 108 |
-| 568 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,088 | 166 |
+| 568 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,088 | 167 |
 | 568 | [RiME](games/r/rime.md) | 4.54 | 0 | 632 |
 | 568 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 589 |
 | 568 | [Sable](games/s/sable.md) | 4.54 | 33 | 551 |
@@ -665,7 +665,7 @@
 | 656 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 411 |
 | 656 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 632 |
 | 656 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 0 | 632 |
-| 656 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,088 | 166 |
+| 656 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,089 | 166 |
 | 656 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.49 | 0 | 632 |
 | 656 | [Solitairica](games/s/solitairica.md) | 4.49 | 100 | 411 |
 | 656 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.49 | 0 | 632 |
@@ -959,7 +959,7 @@
 | 956 | [Cyber Hook](games/c/cyber_hook.md) | 4.27 | 0 | 632 |
 | 956 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.27 | 106 | 399 |
 | 956 | [Nightingale](games/n/nightingale.md) | 4.27 | 64 | 464 |
-| 956 | [RAGE 2](games/r/rage_2.md) | 4.27 | 3,113 | 107 |
+| 956 | [RAGE 2](games/r/rage_2.md) | 4.27 | 3,115 | 107 |
 | 956 | [Rise of Industry](games/r/rise_of_industry.md) | 4.27 | 33 | 551 |
 | 956 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 632 |
 | 956 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 632 |
