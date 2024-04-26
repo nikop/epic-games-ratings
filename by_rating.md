@@ -50,7 +50,7 @@
 | 45 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 632 |
 | 45 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 54 | 487 |
 | 45 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 632 |
-| 45 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,028 | 32 |
+| 45 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,033 | 32 |
 | 45 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 56 | 482 |
 | 45 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 232 | 308 |
 | 45 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 239 | 303 |
@@ -64,7 +64,7 @@
 | 56 | [Firework](games/f/firework.md) | 4.83 | 0 | 632 |
 | 56 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 672 | 213 |
 | 56 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 474 | 242 |
-| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 311 | 276 |
+| 56 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 312 | 276 |
 | 56 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 285 | 285 |
 | 56 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.83 | 0 | 632 |
 | 56 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 519 |
@@ -349,7 +349,7 @@
 | 342 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.65 | 0 | 632 |
 | 342 | [Fuga: Melodies of Steel](games/f/fuga__melodies_of_steel.md) | 4.65 | 0 | 632 |
 | 342 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 632 |
-| 342 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 236 | 305 |
+| 342 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 238 | 305 |
 | 342 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 61 | 470 |
 | 342 | [Old World](games/o/old_world.md) | 4.65 | 242 | 302 |
 | 342 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,192 | 158 |
@@ -414,7 +414,7 @@
 | 397 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 632 |
 | 397 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,964 | 109 |
 | 397 | [Rogue Lords](games/r/rogue_lords.md) | 4.62 | 0 | 632 |
-| 397 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 311 | 276 |
+| 397 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 311 | 277 |
 | 397 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 305 | 279 |
 | 397 | [Tavern Master](games/t/tavern_master.md) | 4.62 | 0 | 632 |
 | 397 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 5,142 | 86 |
@@ -566,7 +566,7 @@
 | 551 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.55 | 0 | 632 |
 | 551 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 95 | 420 |
 | 551 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 102 | 405 |
-| 551 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,579 | 144 |
+| 551 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,581 | 144 |
 | 568 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.54 | 0 | 632 |
 | 568 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 632 |
 | 568 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 0 | 632 |
@@ -576,7 +576,7 @@
 | 568 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.54 | 38 | 533 |
 | 568 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 204 | 324 |
 | 568 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.54 | 0 | 632 |
-| 568 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,048 | 108 |
+| 568 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,056 | 108 |
 | 568 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,088 | 167 |
 | 568 | [RiME](games/r/rime.md) | 4.54 | 0 | 632 |
 | 568 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 589 |
@@ -639,7 +639,7 @@
 | 621 | [The Medium](games/t/the_medium.md) | 4.51 | 0 | 632 |
 | 621 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 632 |
 | 621 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 146 | 361 |
-| 640 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,037 | 129 |
+| 640 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,040 | 129 |
 | 640 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.50 | 24 | 604 |
 | 640 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 939 | 183 |
 | 640 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 499 | 237 |
@@ -797,7 +797,7 @@
 | 789 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.41 | 0 | 632 |
 | 789 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.41 | 0 | 632 |
 | 789 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.41 | 258 | 295 |
-| 789 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,295 | 121 |
+| 789 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,296 | 121 |
 | 789 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 73 | 453 |
 | 789 | [Sheltered](games/s/sheltered.md) | 4.41 | 287 | 284 |
 | 789 | [SMITE](games/s/smite.md) | 4.41 | 5,625 | 82 |
