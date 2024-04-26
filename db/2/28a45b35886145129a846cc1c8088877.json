@@ -3,8 +3,8 @@
   "Name": "Mortal Online 2",
   "ProductSlug": "mortal-online-2-d7bb78",
   "Ranking_Rating": 858,
-  "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 412,
+  "Ranking_Popularity": 426,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -947,18 +947,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 317,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2024-04-26T08:57:23.4432008+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 317,
-  "NumberOfAwardsMax": 87,
+  "NumberOfAwards": 319,
+  "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 87
+      "Count": 89
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1033,8 +1039,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T20:58:55.3583755+00:00",
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
-  "LastChanged": "2024-04-26T06:59:40.5216702+00:00",
+  "LastChanged": "2024-04-26T08:57:23.4432007+00:00",
   "LastUpdate_AppInfo": "2024-04-23T11:57:04.419159+00:00",
-  "LastUpdate_Ratings": "2024-04-26T06:59:40.5216708+00:00",
+  "LastUpdate_Ratings": "2024-04-26T08:57:23.4432012+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:12.3227422+00:00"
 }
