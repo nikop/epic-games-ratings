@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | - |  | - | - |
 | [Eden's Lair](games/c/ccd6a64f13f64c37a00d6160331cdecd.md) | 2024-04-26 | - |  | - | - |
 | [RacerLoop](games/1/1fd24db7dd2c403c9f77e44940a90355.md) | 2024-04-29 | - |  | - | - |
 | [Ship's Cat](games/1/11f11905cbd549dea36bea8380461d06.md) | 2024-04-29 | - |  | - | - |

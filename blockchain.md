@@ -66,7 +66,7 @@
 | [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-03-04 | - |  | - | - |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | 4.59 | 0 |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
-| [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.49 | 0 |
+| [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.50 | 0 |
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | 0 |
 | [Arkbound-アークバウンド-](games/9/9fd854316dca49c6bdd72da6c287e81b.md) | 2024-02-08 | - |  | - | 0 |
 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 2024-02-07 | - |  | 3.44 | 101 |
@@ -81,7 +81,7 @@
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-29 | - |  | - | 0 |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 6,187 | 4.49 | 33 |
 | [World of Dypians](games/0/019f3ce538a440c48ecf5f4f8d787622.md) | 2023-12-21 | - |  | - | 0 |
-| [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.82 | 0 |
+| [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.83 | 0 |
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
