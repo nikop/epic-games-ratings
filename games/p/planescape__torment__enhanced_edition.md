@@ -1,7 +1,7 @@
 # Planescape: Torment: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/planescape-torment-enhanced-edition)  
 [View Rawdata](../../db/p/planescape__torment__enhanced_edition.json)  
-Rating: 4.71 (Ranked 207)  
+Rating: 4.71 (Ranked 206)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

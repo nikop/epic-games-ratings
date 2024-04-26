@@ -11324,10 +11324,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 4784011,
       "NumberOfAwardsMax": 803490
+    },
+    {
+      "Time": "2024-04-26T10:57:56.5642696+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 4785920,
+      "NumberOfAwardsMax": 803490
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4784011,
+  "NumberOfAwards": 4785920,
   "NumberOfAwardsMax": 803490,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -11347,7 +11353,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 701554
+      "Count": 702393
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11365,7 +11371,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 585225
+      "Count": 585805
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11389,7 +11395,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 570592
+      "Count": 571082
     }
   ],
   "EOS_Progressed": 29087333,
@@ -44787,9 +44793,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-04-26T04:57:53.3840001+00:00",
+  "LastChanged": "2024-04-26T10:57:56.5642694+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:36.652247+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:27.8205471+00:00",
-  "LastUpdate_Ratings": "2024-04-26T09:00:14.50606+00:00",
+  "LastUpdate_Ratings": "2024-04-26T10:57:56.5642701+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:36.6524905+00:00"
 }
