@@ -51,7 +51,6 @@
 | [INDIKA](games/d/d28938c1044945239079d371d545e5c7.md) | 2024-05-31 | - |  | - | - |
 | [JudgeSim](games/7/7ec64dbd5e634886915c1e9cf35f4d78.md) | 2024-05-31 | - |  | - | - |
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |
-| [RETOOLED](games/3/3bb0cfb02595417f9134a5f31bc46333.md) | 2024-05-31 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-05-31 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-05-31 | - |  | - | - |
 | [SU - Unlocking the 4th Dimension](games/0/0f03319acbc0407eb2585c62d77d2510.md) | 2024-05-31 | - |  | - | - |
@@ -125,6 +124,7 @@
 | [Honeycomb: The World Beyond](games/b/bedc86bbe4e6422e8216541921e4fd10.md) | 2024-09-30 | - |  | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-09-30 | 16 (1,000 XP) | 0 | - | - |
 | [Project Tower](games/a/a9d8b50783fa4e3aa449991c563c9217.md) | 2024-09-30 | - |  | - | - |
+| [RETOOLED](games/3/3bb0cfb02595417f9134a5f31bc46333.md) | 2024-09-30 | - |  | - | - |
 | [Skyformer](games/0/04758c0780e24a16b433fa56456790d9.md) | 2024-09-30 | - |  | - | - |
 | [Spiral](games/4/4ac2b56f3cbb4de58183d6f20ee834a1.md) | 2024-09-30 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-09-30 | - |  | - | - |
