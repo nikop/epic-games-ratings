@@ -2,9 +2,9 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 250,
+  "Ranking_Rating": 222,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 431,
   "Ranking_EOS_NewPlayers": 53,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -1451,10 +1451,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 605,
       "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2024-04-26T18:01:02.6437438+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 607,
+      "NumberOfAwardsMax": 265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 605,
+  "NumberOfAwards": 607,
   "NumberOfAwardsMax": 265,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1474,7 +1480,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1516,7 +1522,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has a Creative Community",
@@ -7903,9 +7909,9 @@
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-04-26T01:42:31.9592929+00:00",
+  "LastChanged": "2024-04-26T18:01:02.6437436+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:33.0718787+00:00",
   "LastUpdate_AppInfo": "2024-04-25T15:57:30.4568421+00:00",
-  "LastUpdate_Ratings": "2024-04-26T16:58:23.7781386+00:00",
+  "LastUpdate_Ratings": "2024-04-26T18:01:02.6437441+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:33.0719441+00:00"
 }
