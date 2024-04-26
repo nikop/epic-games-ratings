@@ -41,7 +41,7 @@
 | [GRUNND](games/b/b2618d3261e14430b9c338bbd6631018.md) | 2024-04-15 | - |  | - | - |
 | [AC Sailing](games/5/509ce98dda624bf193c297eadee9385c.md) | 2024-04-15 | - |  | - | 0 |
 | [The Mims Beginning](games/0/01aeec3653564e35b01803a9b0db8243.md) | 2024-04-13 | - |  | - | 0 |
-| [Evil Seal](games/6/6b627f8704ae454aaec3b576eb965d76.md) | 2024-04-13 | - |  | - | - |
+| [Evil Seal](games/6/6b627f8704ae454aaec3b576eb965d76.md) | 2024-04-13 | - |  | - | 0 |
 | [Urban Warriors](games/4/449a5d1081b14ff6bf2068ddfc8352f3.md) | 2024-04-12 | - |  | - | - |
 | [BackRooms 1995 The Lost Footage Chapter 1](games/6/623c70d194674a5aabe514e155be2b8b.md) | 2024-04-12 | - |  | - | - |
 | [Massira](games/1/15b4e5ae7fb345bdb9fe80fe56b67423.md) | 2024-04-12 | 23 (1,000 XP) | 1 | - | - |
