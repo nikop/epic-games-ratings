@@ -1,12 +1,12 @@
 # DEATHLOOP
 [Store](https://store.epicgames.com/en-US/p/deathloop)  
 [View Rawdata](../../db/d/deathloop.json)  
-Rating: 4.45 (Ranked 715)  
+Rating: 4.45 (Ranked 716)  
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 86  (Ranked 431)  
-Sum: 586 (Ranked 356)  
-Diff (max vs sum): 75  
+Sum: 586 (Ranked 355)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 514 |

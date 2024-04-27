@@ -2,7 +2,7 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 715,
+  "Ranking_Rating": 704,
   "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 592,
   "Ranking_EOS_Progress": 155,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-10-16T17:01:54.4862812+00:00",
@@ -404,6 +404,12 @@
     {
       "Time": "2024-04-04T13:01:38.9980952+00:00",
       "Rating": 4.45,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-04-27T14:57:19.7843751+00:00",
+      "Rating": 4.46,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
     }
@@ -12324,9 +12330,9 @@
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged": "2024-04-04T13:01:38.998095+00:00",
+  "LastChanged": "2024-04-27T14:57:19.7843749+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:22.2077307+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:58:15.6984863+00:00",
-  "LastUpdate_Ratings": "2024-04-27T13:01:25.7441361+00:00",
+  "LastUpdate_Ratings": "2024-04-27T14:57:19.784405+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:22.2077959+00:00"
 }

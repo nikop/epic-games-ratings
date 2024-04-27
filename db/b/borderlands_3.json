@@ -22307,10 +22307,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 403394,
       "NumberOfAwardsMax": 132429
+    },
+    {
+      "Time": "2024-04-27T14:57:20.7343378+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 403454,
+      "NumberOfAwardsMax": 132429
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 403394,
+  "NumberOfAwards": 403454,
   "NumberOfAwardsMax": 132429,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -22324,7 +22330,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 35632
+      "Count": 35657
     },
     {
       "Text": "This game is Highly Recommended",
@@ -22342,7 +22348,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 32522
+      "Count": 32544
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -22360,7 +22366,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28130
+      "Count": 28143
     },
     {
       "Text": "This game has Amazing Characters",
@@ -22392,8 +22398,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2024-04-27T13:01:26.6860156+00:00",
+  "LastChanged": "2024-04-27T14:57:20.7343376+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:58:15.8575636+00:00",
-  "LastUpdate_Ratings": "2024-04-27T13:01:26.6860165+00:00",
+  "LastUpdate_Ratings": "2024-04-27T14:57:20.7343383+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:40.3247407+00:00"
 }
