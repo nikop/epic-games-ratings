@@ -64,7 +64,7 @@
 | [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | - |  | - | - |
 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 2024-03-11 | - |  | 5.00 | 21 |
 | [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-03-04 | - |  | - | - |
-| [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | 4.59 | 0 |
+| [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | 4.53 | 0 |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |
 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 2024-02-12 | - |  | 4.50 | 0 |
 | [Vage Strike](games/e/e9ad1bfaf2e94deb9841966c8accb395.md) | 2024-02-12 | - |  | - | 0 |
@@ -124,6 +124,6 @@
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.60 | 0 |
 | [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.41 | 24 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
-| [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.85 | 58 |
+| [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.86 | 58 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.45 | 55 |
 | [Blankos Block Party](games/b/blankos_block_party.md) | 2022-09-15 | - |  | 4.21 | 32 |
