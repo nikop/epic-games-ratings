@@ -54,7 +54,7 @@
 | [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2024-04-30 | - |  | - | - |
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
 | [RacerLoop](games/1/1fd24db7dd2c403c9f77e44940a90355.md) | 2024-04-29 | - |  | - | - |
-| [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | - |
+| [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | 0 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.80 | 0 |
 | [Parallel TCG](games/1/16a5443c2b994a64b665f02b72ef42b3.md) | 2024-04-22 | - |  | - | 0 |
 | [Mars Battle](games/6/62681f0dc1b14afea3f65c97225ea517.md) | 2024-04-20 | - |  | - | 0 |

@@ -14,7 +14,7 @@
 | [Vengeance of Mr. Peppermint](games/v/vengeance_of_mr._peppermint.md) | 2024-04-24 | - |  | - | - |
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2024-04-24 | - |  | - | 0 |
 | [Oddsparks: An Automation Adventure](games/7/77c83b36cd1047f7aceeef2e5f84ab85.md) | 2024-04-24 | - |  | - | 0 |
-| [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | - |
+| [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | 0 |
 | [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 34 | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2024-04-24 | - |  | - | - |
 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 2024-04-23 | - |  | - | 0 |
@@ -111,5 +111,3 @@
 | [Project Apidom](games/5/551b8ecaa91c4369b87dc68c131cd7ae.md) | 2024-03-29 | - |  | - | 0 |
 | [CriticalOrb](games/1/12e1a3fb64044ffbbfa8fa94fa92b07c.md) | 2024-03-29 | - |  | - | - |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
-| [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | 23 (1,000 XP) | 13 | - | 0 |
-| [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 131 | - | 0 |
