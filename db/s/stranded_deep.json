@@ -2,7 +2,7 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 985,
@@ -3451,10 +3451,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 1533,
       "NumberOfAwardsMax": 256
+    },
+    {
+      "Time": "2024-04-27T19:58:21.2430608+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1534,
+      "NumberOfAwardsMax": 256
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1533,
+  "NumberOfAwards": 1534,
   "NumberOfAwardsMax": 256,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3474,7 +3480,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 225
+      "Count": 226
     },
     {
       "Text": "This game is Relaxing",
@@ -3530,8 +3536,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-04-27T16:59:15.3396533+00:00",
+  "LastChanged": "2024-04-27T19:58:21.2430606+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:54.207758+00:00",
-  "LastUpdate_Ratings": "2024-04-27T18:00:50.4302686+00:00",
+  "LastUpdate_Ratings": "2024-04-27T19:58:21.2430614+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:24.274513+00:00"
 }
