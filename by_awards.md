@@ -54,8 +54,8 @@
 | 52 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,469 | 4.69 | 251 |
 | 53 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,454 | 4.56 | 536 |
 | 54 | [Control](games/c/control.md) | 9,440 | 4.61 | 420 |
-| 55 | [Remnant II®](games/r/remnant_2.md) | 9,188 | 4.70 | 223 |
-| 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,181 | 4.68 | 274 |
+| 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,196 | 4.68 | 274 |
+| 56 | [Remnant II®](games/r/remnant_2.md) | 9,188 | 4.70 | 223 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,164 | 4.74 | 166 |
 | 58 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,587 | 4.84 | 45 |
 | 59 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,412 | 4.69 | 251 |
@@ -63,10 +63,10 @@
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,310 | 4.75 | 150 |
 | 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,151 | 4.71 | 205 |
 | 63 | [Supraland](games/s/supraland.md) | 7,851 | 4.61 | 420 |
-| 64 | [Sifu](games/s/sifu.md) | 7,742 | 4.82 | 70 |
-| 65 | [Cities: Skylines](games/c/cities__skylines.md) | 7,729 | 4.66 | 316 |
+| 64 | [Cities: Skylines](games/c/cities__skylines.md) | 7,744 | 4.66 | 316 |
+| 65 | [Sifu](games/s/sifu.md) | 7,742 | 4.82 | 70 |
 | 66 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,155 | 4.75 | 150 |
-| 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,147 | 4.83 | 56 |
+| 67 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,153 | 4.83 | 56 |
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,137 | 4.67 | 293 |
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,978 | 4.58 | 487 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 775 |
@@ -81,7 +81,7 @@
 | 79 | [Prey](games/p/prey.md) | 6,007 | 4.63 | 376 |
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,995 | 4.56 | 536 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,652 | 4.59 | 464 |
-| 82 | [SMITE](games/s/smite.md) | 5,625 | 4.41 | 789 |
+| 82 | [SMITE](games/s/smite.md) | 5,632 | 4.41 | 789 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,550 | 4.57 | 517 |
 | 84 | [God of War](games/g/god_of_war.md) | 5,549 | 4.87 | 20 |
 | 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,202 | 4.37 | 851 |
@@ -271,8 +271,8 @@
 | 269 | [Tannenberg](games/t/tannenberg.md) | 341 | 4.39 | 829 |
 | 270 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 340 | 4.44 | 741 |
 | 270 | [MudRunner](games/m/mudrunner.md) | 340 | 4.61 | 420 |
-| 272 | [Darkwood](games/d/darkwood.md) | 336 | 4.62 | 397 |
-| 272 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 336 | 4.82 | 70 |
+| 272 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 337 | 4.82 | 70 |
+| 273 | [Darkwood](games/d/darkwood.md) | 336 | 4.62 | 397 |
 | 274 | [Overcooked! 2](games/o/overcooked!_2.md) | 325 | 4.70 | 223 |
 | 275 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 324 | 4.58 | 487 |
 | 276 | [Diabotical](games/d/diabotical.md) | 314 | 4.73 | 182 |
@@ -330,7 +330,7 @@
 | 328 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 200 | 4.48 | 676 |
 | 329 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 197 | 4.62 | 397 |
 | 329 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 197 | 4.63 | 376 |
-| 331 | [The Witness](games/t/the_witness.md) | 195 | 4.69 | 251 |
+| 329 | [The Witness](games/t/the_witness.md) | 197 | 4.69 | 251 |
 | 332 | [Timberborn](games/t/timberborn.md) | 194 | 4.73 | 182 |
 | 333 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 192 | 4.67 | 293 |
 | 334 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 191 | 4.66 | 316 |

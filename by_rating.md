@@ -56,7 +56,7 @@
 | 45 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 239 | 303 |
 | 45 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 633 |
 | 56 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 633 |
-| 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,147 | 67 |
+| 56 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,153 | 67 |
 | 56 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 201 | 327 |
 | 56 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 633 |
 | 56 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 633 |
@@ -74,8 +74,8 @@
 | 70 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 539 |
 | 70 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,799 | 138 |
 | 70 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 633 |
-| 70 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 336 | 272 |
-| 70 | [Sifu](games/s/sifu.md) | 4.82 | 7,742 | 64 |
+| 70 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 337 | 272 |
+| 70 | [Sifu](games/s/sifu.md) | 4.82 | 7,742 | 65 |
 | 70 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 510 | 235 |
 | 70 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 79 | 443 |
 | 70 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 104 | 403 |
@@ -236,7 +236,7 @@
 | 223 | [King of Retail](games/k/king_of_retail.md) | 4.70 | 0 | 633 |
 | 223 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 168 | 353 |
 | 223 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.70 | 325 | 274 |
-| 223 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,188 | 55 |
+| 223 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,188 | 56 |
 | 223 | [Sailing Era](games/s/sailing_era.md) | 4.70 | 0 | 633 |
 | 223 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.70 | 31 | 560 |
 | 223 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 0 | 633 |
@@ -268,7 +268,7 @@
 | 251 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 78 | 444 |
 | 251 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 596 | 225 |
 | 251 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 58 | 478 |
-| 251 | [The Witness](games/t/the_witness.md) | 4.69 | 195 | 331 |
+| 251 | [The Witness](games/t/the_witness.md) | 4.69 | 197 | 329 |
 | 251 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.69 | 0 | 633 |
 | 251 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 633 |
 | 251 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,152 | 160 |
@@ -280,7 +280,7 @@
 | 274 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 633 |
 | 274 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 162,420 | 7 |
 | 274 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,550 | 93 |
-| 274 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 9,181 | 56 |
+| 274 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 9,196 | 55 |
 | 274 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 53 | 494 |
 | 274 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 9,942 | 49 |
 | 274 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 363,520 | 3 |
@@ -319,7 +319,7 @@
 | 316 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.66 | 64 | 464 |
 | 316 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.66 | 0 | 633 |
 | 316 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 102 | 406 |
-| 316 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,729 | 65 |
+| 316 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,744 | 64 |
 | 316 | [Crashlands](games/c/crashlands.md) | 4.66 | 202 | 326 |
 | 316 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 191 | 334 |
 | 316 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,319 | 150 |
@@ -399,7 +399,7 @@
 | 397 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 633 |
 | 397 | [Art of Rally](games/a/art_of_rally_1.md) | 4.62 | 85 | 432 |
 | 397 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 1,144 | 161 |
-| 397 | [Darkwood](games/d/darkwood.md) | 4.62 | 336 | 272 |
+| 397 | [Darkwood](games/d/darkwood.md) | 4.62 | 336 | 273 |
 | 397 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.62 | 81 | 437 |
 | 397 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 160 | 357 |
 | 397 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 0 | 633 |
@@ -800,7 +800,7 @@
 | 789 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,296 | 121 |
 | 789 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 73 | 453 |
 | 789 | [Sheltered](games/s/sheltered.md) | 4.41 | 287 | 285 |
-| 789 | [SMITE](games/s/smite.md) | 4.41 | 5,625 | 82 |
+| 789 | [SMITE](games/s/smite.md) | 4.41 | 5,632 | 82 |
 | 789 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 633 |
 | 789 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,084 | 125 |
 | 804 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.40 | 0 | 633 |
