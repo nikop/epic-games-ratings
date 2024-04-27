@@ -2,7 +2,7 @@
   "ID": "51b1503392e04abab64364092cbfca2b",
   "Name": "INDUSTRIA",
   "ProductSlug": "industria",
-  "Ranking_Rating": 1156,
+  "Ranking_Rating": 1145,
   "Ranking_Popularity": 633,
   "Ranking_PopularitySum": 633,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.73,
+  "Rating": 3.84,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:34.1554461+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-04-26T13:00:14.3153723+00:00",
       "Rating": 3.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-04-27T10:59:39.4468112+00:00",
+      "Rating": 3.84,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -53,8 +59,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:32.2310587+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.1554458+00:00",
-  "LastChanged": "2024-04-26T13:00:14.3153721+00:00",
+  "LastChanged": "2024-04-27T10:59:39.446811+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:20.837527+00:00",
-  "LastUpdate_Ratings": "2024-04-27T08:59:39.3241732+00:00",
+  "LastUpdate_Ratings": "2024-04-27T10:59:39.4468117+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.0679875+00:00"
 }

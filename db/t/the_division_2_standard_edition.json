@@ -3,7 +3,7 @@
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
   "Ranking_Rating": 622,
-  "Ranking_Popularity": 50,
+  "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -18861,18 +18861,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 35120,
       "NumberOfAwardsMax": 9936
+    },
+    {
+      "Time": "2024-04-27T11:02:22.8203562+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 35132,
+      "NumberOfAwardsMax": 9942
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35120,
-  "NumberOfAwardsMax": 9936,
+  "NumberOfAwards": 35132,
+  "NumberOfAwardsMax": 9942,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 9936
+      "Count": 9942
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -18902,13 +18908,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1923
+      "Count": 1926
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1914
+      "Count": 1917
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18952,8 +18958,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-04-27T09:58:53.6943179+00:00",
+  "LastChanged": "2024-04-27T11:02:22.820356+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:25.4594815+00:00",
-  "LastUpdate_Ratings": "2024-04-27T09:58:53.6943183+00:00",
+  "LastUpdate_Ratings": "2024-04-27T11:02:22.8203566+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:22.9186347+00:00"
 }
