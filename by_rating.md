@@ -50,7 +50,7 @@
 | 45 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 633 |
 | 45 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 54 | 489 |
 | 45 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 633 |
-| 45 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,033 | 32 |
+| 45 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,037 | 32 |
 | 45 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 56 | 484 |
 | 45 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 232 | 308 |
 | 45 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 239 | 303 |
@@ -437,7 +437,7 @@
 | 420 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,303 | 45 |
 | 420 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,133 | 163 |
 | 420 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 633 |
-| 420 | [Supraland](games/s/supraland.md) | 4.61 | 7,851 | 63 |
+| 420 | [Supraland](games/s/supraland.md) | 4.61 | 7,853 | 63 |
 | 420 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 597 | 223 |
 | 420 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 629 | 217 |
 | 420 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 80 | 439 |
@@ -1026,7 +1026,7 @@
 | 1,017 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.20 | 0 | 633 |
 | 1,025 | [Against All Odds](games/a/against_all_odds.md) | 4.19 | 0 | 633 |
 | 1,025 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 501 |
-| 1,025 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,510 | 105 |
+| 1,025 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,511 | 105 |
 | 1,025 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 614 |
 | 1,025 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 633 |
 | 1,025 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 439 |
