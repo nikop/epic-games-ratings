@@ -350,14 +350,14 @@ Completed: 4 (0.00%) (Ranked 455)
 | 2024-04-10 | 262,947 | 4 |
 ## Awards
 Max (Great for Quick Sessions): 66  (Ranked 460)  
-Sum: 440 (Ranked 380)  
+Sum: 443 (Ranked 380)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 66 |
-| This game has Unique Visuals | 49 |
+| This game has Unique Visuals | 51 |
 | This game has Amazing Characters | 47 |
-| This game is Highly Recommended | 44 |
+| This game is Highly Recommended | 45 |
 | This game has Amazing Storytelling | 44 |
 | This game has Challenging Combat | 42 |
 | This game has Quickly Understood Controls | 40 |
@@ -612,3 +612,4 @@ Diff (max vs sum): 80
 | 2024-04-22 | 4.40 | 66 | 436 |
 | 2024-04-24 | 4.40 | 66 | 439 |
 | 2024-04-26 | 4.40 | 66 | 440 |
+| 2024-04-27 | 4.40 | 66 | 443 |

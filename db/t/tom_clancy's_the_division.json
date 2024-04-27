@@ -3,7 +3,7 @@
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
   "Ranking_Rating": 464,
-  "Ranking_Popularity": 229,
+  "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -4325,10 +4325,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1537,
       "NumberOfAwardsMax": 536
+    },
+    {
+      "Time": "2024-04-27T11:57:06.7157231+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1538,
+      "NumberOfAwardsMax": 536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1537,
+  "NumberOfAwards": 1538,
   "NumberOfAwardsMax": 536,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4348,7 +4354,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4428,8 +4434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-04-27T01:42:08.3866462+00:00",
+  "LastChanged": "2024-04-27T11:57:06.7157229+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:58:01.5023794+00:00",
-  "LastUpdate_Ratings": "2024-04-27T09:59:08.5483844+00:00",
+  "LastUpdate_Ratings": "2024-04-27T11:57:06.7157234+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:19.1945908+00:00"
 }

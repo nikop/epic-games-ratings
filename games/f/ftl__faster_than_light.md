@@ -1,11 +1,11 @@
 # FTL: Faster Than Light
 [Store](https://store.epicgames.com/en-US/p/faster-than-light)  
 [View Rawdata](../../db/f/ftl__faster_than_light.json)  
-Rating: 4.79 (Ranked 99)  
+Rating: 4.79 (Ranked 100)  
 Number of Ratings: 1,209  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 180  (Ranked 339)  
-Sum: 1,417 (Ranked 267)  
+Sum: 1,418 (Ranked 267)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): 72
 | This game has Amazing Characters | 127 |
 | This game is Relaxing | 116 |
 | This game has Obsessive Gameplay | 89 |
-| This game has a Creative Community | 83 |
+| This game has a Creative Community | 84 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -237,3 +237,4 @@ Diff (max vs sum): 72
 | 2024-04-23 | 4.79 | - | 180 | 1,414 |
 | 2024-04-24 | 4.79 | - | 180 | 1,416 |
 | 2024-04-25 | 4.79 | - | 180 | 1,417 |
+| 2024-04-27 | 4.79 | - | 180 | 1,418 |
