@@ -19238,10 +19238,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 47644,
       "NumberOfAwardsMax": 16199
+    },
+    {
+      "Time": "2024-04-27T13:00:10.9104268+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 47665,
+      "NumberOfAwardsMax": 16199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47644,
+  "NumberOfAwards": 47665,
   "NumberOfAwardsMax": 16199,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19255,7 +19261,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10787
+      "Count": 10802
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19285,7 +19291,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2434
+      "Count": 2440
     },
     {
       "Text": "This game has Diverse Characters",
@@ -52410,9 +52416,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2024-04-27T09:58:35.5362404+00:00",
+  "LastChanged": "2024-04-27T13:00:10.9104266+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:55.2495205+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:19.6189534+00:00",
-  "LastUpdate_Ratings": "2024-04-27T11:02:04.2886527+00:00",
+  "LastUpdate_Ratings": "2024-04-27T13:00:10.9104273+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:55.2496894+00:00"
 }

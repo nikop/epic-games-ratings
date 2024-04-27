@@ -2,9 +2,9 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 1004,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.23,
   "NumberOfRatings": 3300,
   "RatingHistory": [
     {
@@ -3439,10 +3439,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1288,
       "NumberOfAwardsMax": 256
+    },
+    {
+      "Time": "2024-04-27T12:59:22.8644364+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1532,
+      "NumberOfAwardsMax": 256
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1288,
+  "NumberOfAwards": 1532,
   "NumberOfAwardsMax": 256,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3490,9 +3496,9 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 44
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 244
     },
     {
       "Text": "This game has a Creative Community",
@@ -3518,8 +3524,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-04-26T11:58:25.7297059+00:00",
+  "LastChanged": "2024-04-27T12:59:22.8644359+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:58:54.207758+00:00",
-  "LastUpdate_Ratings": "2024-04-27T11:01:07.9562757+00:00",
+  "LastUpdate_Ratings": "2024-04-27T12:59:22.8644367+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:24.274513+00:00"
 }
