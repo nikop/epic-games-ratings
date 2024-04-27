@@ -1,7 +1,7 @@
 # Godfall Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/godfall)  
 [View Rawdata](../../db/g/godfall.json)  
-Rating: 4.06 (Ranked 1,099)  
+Rating: 4.05 (Ranked 1,101)  
 Number of Ratings: 818  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 616  (Ranked 221)  
@@ -240,3 +240,4 @@ Diff (max vs sum): -74
 | 2024-04-16 | 4.06 | - | 615 | 976 |
 | 2024-04-20 | 4.06 | - | 616 | 978 |
 | 2024-04-21 | 4.06 | - | 616 | 981 |
+| 2024-04-27 | 4.05 | - | 616 | 981 |
