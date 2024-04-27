@@ -1,7 +1,7 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.56 (Ranked 535)  
+Rating: 4.56 (Ranked 534)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -340,12 +340,12 @@ Completed: 417 (0.03%) (Ranked 402)
 | 2024-04-10 | 1,477,766 | 417 |
 ## Awards
 Max (Great Boss Battles): 2,917  (Ranked 111)  
-Sum: 3,682 (Ranked 180)  
+Sum: 3,685 (Ranked 180)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,917 |
-| This game has Quickly Understood Controls | 114 |
+| This game has Quickly Understood Controls | 117 |
 | This game has Diverse Characters | 113 |
 | This game is Extremely Fun | 111 |
 | This game is Highly Recommended | 98 |
@@ -659,4 +659,4 @@ Diff (max vs sum): -69
 | 2024-04-24 | 4.56 | - | 2,859 | 3,608 |
 | 2024-04-25 | 4.56 | - | 2,885 | 3,641 |
 | 2024-04-26 | 4.56 | - | 2,885 | 3,647 |
-| 2024-04-27 | 4.56 | - | 2,917 | 3,682 |
+| 2024-04-27 | 4.56 | - | 2,917 | 3,685 |
