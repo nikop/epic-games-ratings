@@ -1,9 +1,9 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,455,205 | 4.29 | 931 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 803,490 | 4.45 | 717 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 804,213 | 4.45 | 717 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 363,520 | 4.68 | 274 |
-| 4 | [Genshin Impact](games/g/genshin_impact.md) | 338,586 | 4.67 | 293 |
+| 4 | [Genshin Impact](games/g/genshin_impact.md) | 338,753 | 4.67 | 293 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 311,986 | 4.87 | 20 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 227,530 | 4.18 | 1,035 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 162,420 | 4.68 | 274 |
@@ -45,18 +45,18 @@
 | 43 | [NBA 2K21](games/n/nba_2k21.md) | 11,866 | 4.38 | 837 |
 | 44 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 11,754 | 4.58 | 487 |
 | 45 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,303 | 4.61 | 420 |
-| 46 | [DEATH STRANDING](games/d/death_stranding.md) | 10,558 | 4.78 | 113 |
+| 46 | [DEATH STRANDING](games/d/death_stranding.md) | 10,575 | 4.78 | 113 |
 | 47 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,219 | 4.89 | 12 |
 | 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,211 | 4.63 | 376 |
 | 49 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 9,942 | 4.68 | 274 |
 | 50 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,936 | 4.51 | 622 |
-| 51 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 9,598 | 4.01 | 1,107 |
+| 51 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 9,598 | 4.01 | 1,106 |
 | 52 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,469 | 4.69 | 251 |
 | 53 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,454 | 4.56 | 536 |
 | 54 | [Control](games/c/control.md) | 9,440 | 4.61 | 420 |
 | 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,196 | 4.68 | 274 |
 | 56 | [Remnant II®](games/r/remnant_2.md) | 9,188 | 4.70 | 223 |
-| 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,164 | 4.74 | 166 |
+| 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,176 | 4.74 | 166 |
 | 58 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,587 | 4.84 | 45 |
 | 59 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,412 | 4.69 | 251 |
 | 60 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,359 | 4.49 | 660 |
@@ -75,8 +75,8 @@
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,227 | 4.66 | 316 |
 | 74 | [Rogue Company](games/r/rogue_company.md) | 6,204 | 4.28 | 942 |
 | 75 | [League of Legends](games/l/league_of_legends.md) | 6,150 | 4.20 | 1,017 |
-| 76 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,094 | 4.64 | 363 |
-| 77 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,086 | 4.85 | 35 |
+| 76 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,096 | 4.64 | 363 |
+| 77 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,087 | 4.85 | 35 |
 | 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,013 | 4.07 | 1,094 |
 | 79 | [Prey](games/p/prey.md) | 6,007 | 4.63 | 376 |
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,995 | 4.56 | 536 |
@@ -148,7 +148,7 @@
 | 146 | [Ring of Pain](games/r/ring_of_pain.md) | 1,524 | 4.58 | 487 |
 | 147 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,506 | 4.62 | 397 |
 | 148 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,375 | 4.70 | 223 |
-| 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,324 | 4.77 | 122 |
+| 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,326 | 4.77 | 122 |
 | 150 | [DOOM 64](games/d/doom_64.md) | 1,319 | 4.66 | 316 |
 | 151 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,284 | 4.69 | 251 |
 | 152 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,261 | 4.42 | 775 |
@@ -612,7 +612,7 @@
 | 604 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 517 |
 | 611 | [Black Book](games/b/black_book.md) | 23 | 4.63 | 376 |
 | 611 | [Griftlands](games/g/griftlands.md) | 23 | 4.79 | 99 |
-| 611 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 23 | 4.02 | 1,106 |
+| 611 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 23 | 4.01 | 1,106 |
 | 614 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 908 |
 | 614 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 551 |
 | 614 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 979 |

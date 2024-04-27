@@ -37,7 +37,7 @@
 | 35 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.85 | 43 | 515 |
 | 35 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.85 | 0 | 633 |
 | 35 | [Dead Cells](games/d/dead_cells.md) | 4.85 | 384 | 258 |
-| 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,086 | 77 |
+| 35 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,087 | 77 |
 | 35 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 633 |
 | 35 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.85 | 0 | 633 |
 | 35 | [Star Atlas](games/s/star_atlas.md) | 4.85 | 58 | 478 |
@@ -113,7 +113,7 @@
 | 99 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 122 | 381 |
 | 99 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 0 | 633 |
 | 113 | [Aground](games/a/aground.md) | 4.78 | 0 | 633 |
-| 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,558 | 46 |
+| 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,575 | 46 |
 | 113 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 486 | 239 |
 | 113 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,464 | 72 |
 | 113 | [Quake](games/q/quake.md) | 4.78 | 53 | 494 |
@@ -125,7 +125,7 @@
 | 122 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.77 | 0 | 633 |
 | 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,053 | 42 |
 | 122 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 999 | 180 |
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,324 | 149 |
+| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,326 | 149 |
 | 122 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,452 | 39 |
 | 122 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 633 |
 | 122 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.77 | 0 | 633 |
@@ -173,7 +173,7 @@
 | 166 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 37,607 | 17 |
 | 166 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 112 | 393 |
 | 166 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 905 | 188 |
-| 166 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,164 | 57 |
+| 166 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,176 | 57 |
 | 166 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 52,847 | 14 |
 | 166 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 404 |
 | 166 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 114 | 390 |
@@ -299,7 +299,7 @@
 | 293 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.67 | 192 | 333 |
 | 293 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,000 | 179 |
 | 293 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.67 | 7,137 | 68 |
-| 293 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 338,586 | 4 |
+| 293 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 338,753 | 4 |
 | 293 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 530 | 231 |
 | 293 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 633 |
 | 293 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,377 | 120 |
@@ -362,7 +362,7 @@
 | 342 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,864 | 89 |
 | 342 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 118 | 386 |
 | 342 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.65 | 0 | 633 |
-| 363 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,094 | 76 |
+| 363 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,096 | 76 |
 | 363 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.64 | 43 | 515 |
 | 363 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.64 | 0 | 633 |
 | 363 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.64 | 21 | 622 |
@@ -730,7 +730,7 @@
 | 717 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 633 |
 | 717 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 934 | 186 |
 | 717 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.45 | 31 | 560 |
-| 717 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 803,490 | 2 |
+| 717 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 804,213 | 2 |
 | 717 | [Scorn](games/s/scorn.md) | 4.45 | 0 | 633 |
 | 717 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.45 | 0 | 633 |
 | 717 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 633 |
@@ -1105,10 +1105,10 @@
 | 1,103 | [Armored Warfare](games/a/armored_warfare.md) | 4.04 | 124 | 379 |
 | 1,103 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 633 |
 | 1,103 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.04 | 0 | 633 |
-| 1,106 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.02 | 23 | 611 |
-| 1,107 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 633 |
-| 1,107 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 633 |
-| 1,107 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,598 | 51 |
+| 1,106 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 633 |
+| 1,106 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.01 | 23 | 611 |
+| 1,106 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 633 |
+| 1,106 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,598 | 51 |
 | 1,110 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 4.00 | 0 | 633 |
 | 1,110 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.00 | 0 | 633 |
 | 1,110 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,129 | 87 |
