@@ -34,12 +34,12 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-03-21 | 20,912 | 0 |
 | 2024-04-10 | 29,531 | 0 |
 ## Awards
-Max (Great for Quick Sessions): 60  (Ranked 471)  
-Sum: 349 (Ranked 399)  
-Diff (max vs sum): 72  
+Max (Great for Quick Sessions): 61  (Ranked 470)  
+Sum: 350 (Ranked 399)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 60 |
+| This game is Great for Quick Sessions | 61 |
 | This game is Great for Beginners | 57 |
 | This game is Extremely Fun | 34 |
 | This game has a Competitive Community | 34 |
@@ -173,3 +173,4 @@ Diff (max vs sum): 72
 | 2024-04-24 | 4.44 | 60 | 346 |
 | 2024-04-25 | 4.44 | 60 | 348 |
 | 2024-04-26 | 4.45 | 60 | 349 |
+| 2024-04-27 | 4.45 | 61 | 350 |
