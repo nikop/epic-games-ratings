@@ -4,7 +4,7 @@
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 99,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -2479,6 +2479,6 @@
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
   "LastChanged": "2024-04-25T17:00:18.7329003+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:42.2531377+00:00",
-  "LastUpdate_Ratings": "2024-04-26T22:01:42.9344908+00:00",
+  "LastUpdate_Ratings": "2024-04-26T23:58:20.5539374+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:22.006308+00:00"
 }
