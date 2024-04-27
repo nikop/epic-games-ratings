@@ -18,7 +18,7 @@
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 44,405 | 4.72 | 193 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,607 | 4.74 | 166 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,075 | 4.64 | 363 |
-| 19 | [Dauntless](games/d/dauntless.md) | 28,673 | 4.53 | 588 |
+| 19 | [Dauntless](games/d/dauntless.md) | 28,690 | 4.53 | 588 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 27,144 | 4.89 | 12 |
 | 21 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 24,340 | 4.15 | 1,054 |
 | 22 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,722 | 4.57 | 517 |
@@ -54,8 +54,8 @@
 | 52 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,469 | 4.69 | 251 |
 | 53 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,454 | 4.56 | 536 |
 | 54 | [Control](games/c/control.md) | 9,440 | 4.61 | 420 |
-| 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,196 | 4.68 | 274 |
-| 56 | [Remnant II®](games/r/remnant_2.md) | 9,188 | 4.70 | 223 |
+| 55 | [Remnant II®](games/r/remnant_2.md) | 9,208 | 4.70 | 223 |
+| 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,196 | 4.68 | 274 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,176 | 4.74 | 166 |
 | 58 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,587 | 4.84 | 45 |
 | 59 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,412 | 4.69 | 251 |
@@ -82,7 +82,7 @@
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,995 | 4.56 | 536 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,652 | 4.59 | 464 |
 | 82 | [SMITE](games/s/smite.md) | 5,632 | 4.41 | 789 |
-| 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,550 | 4.57 | 517 |
+| 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,554 | 4.57 | 517 |
 | 84 | [God of War](games/g/god_of_war.md) | 5,549 | 4.87 | 20 |
 | 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,202 | 4.37 | 851 |
 | 86 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,157 | 4.62 | 397 |
@@ -107,7 +107,7 @@
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,511 | 4.19 | 1,025 |
 | 106 | [Among Us](games/a/among_us.md) | 3,309 | 4.56 | 536 |
 | 107 | [RAGE 2](games/r/rage_2.md) | 3,115 | 4.27 | 957 |
-| 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,056 | 4.54 | 568 |
+| 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,066 | 4.54 | 568 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,969 | 4.62 | 397 |
 | 110 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,919 | 4.79 | 99 |
 | 111 | [Ghostrunner](games/g/ghostrunner.md) | 2,917 | 4.56 | 536 |
@@ -143,7 +143,7 @@
 | 141 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,636 | 4.79 | 99 |
 | 142 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,624 | 4.75 | 150 |
 | 143 | [MORDHAU](games/m/mordhau.md) | 1,617 | 4.37 | 851 |
-| 144 | [XCOM® 2](games/x/xcom®_2.md) | 1,581 | 4.55 | 551 |
+| 144 | [XCOM® 2](games/x/xcom®_2.md) | 1,583 | 4.55 | 551 |
 | 145 | [OUTRIDERS](games/o/outriders.md) | 1,573 | 4.43 | 763 |
 | 146 | [Ring of Pain](games/r/ring_of_pain.md) | 1,524 | 4.58 | 487 |
 | 147 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,506 | 4.62 | 397 |
@@ -273,8 +273,8 @@
 | 270 | [MudRunner](games/m/mudrunner.md) | 340 | 4.61 | 420 |
 | 272 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 337 | 4.82 | 70 |
 | 273 | [Darkwood](games/d/darkwood.md) | 336 | 4.62 | 397 |
-| 274 | [Overcooked! 2](games/o/overcooked!_2.md) | 325 | 4.70 | 223 |
-| 275 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 324 | 4.58 | 487 |
+| 274 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 327 | 4.58 | 487 |
+| 275 | [Overcooked! 2](games/o/overcooked!_2.md) | 325 | 4.70 | 223 |
 | 276 | [Diabotical](games/d/diabotical.md) | 314 | 4.73 | 182 |
 | 277 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 312 | 4.83 | 56 |
 | 278 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 311 | 4.62 | 397 |
@@ -577,18 +577,18 @@
 | 572 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 29 | 4.76 | 140 |
 | 572 | [shapez](games/s/shapez.md) | 29 | 4.71 | 205 |
 | 577 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 28 | 4.57 | 517 |
+| 577 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 28 | 4.58 | 487 |
 | 577 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.15 | 1,054 |
 | 577 | [Islets](games/i/islets.md) | 28 | 4.71 | 205 |
 | 577 | [Sail Forth](games/s/sail_forth.md) | 28 | 4.40 | 804 |
 | 577 | [The Front](games/t/the_front.md) | 28 | 4.09 | 1,084 |
 | 577 | [WRC Generations](games/w/wrc_generations.md) | 28 | 4.43 | 763 |
-| 583 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 27 | 4.58 | 487 |
-| 583 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 888 |
-| 583 | [ELEX](games/e/elex.md) | 27 | 4.45 | 717 |
-| 583 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 27 | 4.58 | 487 |
-| 583 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 27 | 4.52 | 607 |
-| 583 | [Spirit of the North](games/s/spirit_of_the_north.md) | 27 | 4.36 | 858 |
-| 583 | [We Were Here Forever](games/w/we_were_here_forever.md) | 27 | 4.67 | 293 |
+| 584 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 27 | 4.58 | 487 |
+| 584 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 888 |
+| 584 | [ELEX](games/e/elex.md) | 27 | 4.45 | 717 |
+| 584 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 27 | 4.52 | 607 |
+| 584 | [Spirit of the North](games/s/spirit_of_the_north.md) | 27 | 4.36 | 858 |
+| 584 | [We Were Here Forever](games/w/we_were_here_forever.md) | 27 | 4.67 | 293 |
 | 590 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 26 | 4.31 | 920 |
 | 590 | [DEMON'S TILT](games/d/demon's_tilt.md) | 26 | 4.53 | 588 |
 | 590 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 26 | 4.15 | 1,054 |
