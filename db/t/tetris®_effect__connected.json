@@ -4,7 +4,7 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1264,10 +1264,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 610,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-04-28T09:58:16.1433486+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 615,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 610,
+  "NumberOfAwards": 615,
   "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1293,7 +1299,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1305,19 +1311,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1329,7 +1335,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1361,8 +1367,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-04-25T10:59:28.8274673+00:00",
+  "LastChanged": "2024-04-28T09:58:16.1433484+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:41.315632+00:00",
-  "LastUpdate_Ratings": "2024-04-28T08:00:56.6922071+00:00",
+  "LastUpdate_Ratings": "2024-04-28T09:58:16.143349+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:04.0245945+00:00"
 }
