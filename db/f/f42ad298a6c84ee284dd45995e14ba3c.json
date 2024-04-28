@@ -2,7 +2,7 @@
   "ID": "f42ad298a6c84ee284dd45995e14ba3c",
   "Name": "Raid Shadow Legends",
   "ProductSlug": "raid-shadow-legends-b70e14",
-  "Ranking_Rating": 999,
+  "Ranking_Rating": 1005,
   "Ranking_Popularity": 533,
   "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-08-30T02:59:29.8015571+00:00",
@@ -863,10 +863,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 111,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-04-28T07:59:52.7513773+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 112,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 111,
+  "NumberOfAwards": 112,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -886,7 +892,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -913,8 +919,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T13:57:09.0545259+00:00",
   "FirstSeenRating": "2023-08-30T02:59:29.8015569+00:00",
-  "LastChanged": "2024-04-27T22:59:47.9491241+00:00",
+  "LastChanged": "2024-04-28T07:59:52.7513771+00:00",
   "LastUpdate_AppInfo": "2024-04-26T07:57:03.6705907+00:00",
-  "LastUpdate_Ratings": "2024-04-28T06:57:19.1365115+00:00",
+  "LastUpdate_Ratings": "2024-04-28T07:59:52.7513777+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:02.1612002+00:00"
 }
