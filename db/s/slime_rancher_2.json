@@ -4,7 +4,7 @@
   "ProductSlug": "slime-rancher-2",
   "Ranking_Rating": 101,
   "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 292,
+  "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1335,10 +1335,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1015,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2024-04-28T17:58:38.2038318+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1129,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1015,
+  "NumberOfAwards": 1129,
   "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1364,7 +1370,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 106
+      "Count": 114
     },
     {
       "Text": "This game has Easy Combat",
@@ -1427,8 +1433,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2024-04-28T16:01:31.9743262+00:00",
+  "LastChanged": "2024-04-28T17:58:38.2038316+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:01.938387+00:00",
-  "LastUpdate_Ratings": "2024-04-28T16:01:31.9743268+00:00",
+  "LastUpdate_Ratings": "2024-04-28T17:58:38.2038321+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:02.077197+00:00"
 }
