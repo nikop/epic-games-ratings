@@ -259,7 +259,7 @@
 | 250 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.69 | 9,475 | 52 |
 | 250 | [House Flipper](games/h/house_flipper.md) | 4.69 | 347 | 268 |
 | 250 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 168 | 353 |
-| 250 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,284 | 151 |
+| 250 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,285 | 151 |
 | 250 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,070 | 127 |
 | 250 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 633 |
 | 250 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 679 | 210 |
@@ -439,7 +439,7 @@
 | 419 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 633 |
 | 419 | [Supraland](games/s/supraland.md) | 4.61 | 7,853 | 63 |
 | 419 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 597 | 225 |
-| 419 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 629 | 217 |
+| 419 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 630 | 217 |
 | 419 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 80 | 439 |
 | 419 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 412 | 253 |
 | 419 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 93 | 423 |
@@ -548,7 +548,7 @@
 | 534 | [Returnal™](games/r/returnal™.md) | 4.56 | 218 | 317 |
 | 534 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,805 | 138 |
 | 534 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,003 | 80 |
-| 549 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 369 | 260 |
+| 549 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 370 | 260 |
 | 549 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 614 |
 | 549 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.55 | 0 | 633 |
 | 549 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,224 | 122 |
@@ -1095,7 +1095,7 @@
 | 1,090 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 633 |
 | 1,090 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.08 | 0 | 633 |
 | 1,095 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.07 | 0 | 633 |
-| 1,095 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,013 | 78 |
+| 1,095 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,015 | 78 |
 | 1,095 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.07 | 0 | 633 |
 | 1,095 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 228 | 312 |
 | 1,099 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.06 | 0 | 633 |

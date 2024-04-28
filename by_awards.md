@@ -77,7 +77,7 @@
 | 75 | [League of Legends](games/l/league_of_legends.md) | 6,159 | 4.20 | 1,018 |
 | 76 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,096 | 4.64 | 363 |
 | 77 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,087 | 4.85 | 36 |
-| 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,013 | 4.07 | 1,095 |
+| 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,015 | 4.07 | 1,095 |
 | 79 | [Prey](games/p/prey.md) | 6,007 | 4.63 | 376 |
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,003 | 4.56 | 534 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,663 | 4.59 | 463 |
@@ -150,7 +150,7 @@
 | 148 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,375 | 4.70 | 223 |
 | 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,326 | 4.77 | 121 |
 | 150 | [DOOM 64](games/d/doom_64.md) | 1,319 | 4.66 | 317 |
-| 151 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,284 | 4.69 | 250 |
+| 151 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,285 | 4.69 | 250 |
 | 152 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,264 | 4.42 | 773 |
 | 153 | [EVE Online](games/e/eve_online.md) | 1,240 | 4.24 | 988 |
 | 154 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,237 | 4.46 | 703 |
@@ -216,7 +216,7 @@
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 667 | 4.70 | 223 |
 | 215 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 651 | 4.26 | 966 |
 | 216 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 637 | 4.38 | 837 |
-| 217 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 629 | 4.61 | 419 |
+| 217 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 630 | 4.61 | 419 |
 | 218 | [Dark Deity](games/d/dark_deity.md) | 626 | 4.16 | 1,049 |
 | 219 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 624 | 4.34 | 886 |
 | 220 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 617 | 4.67 | 293 |
@@ -259,7 +259,7 @@
 | 257 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 387 | 3.99 | 1,115 |
 | 258 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 384 | 4.18 | 1,036 |
 | 258 | [Dead Cells](games/d/dead_cells.md) | 384 | 4.85 | 36 |
-| 260 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 369 | 4.55 | 549 |
+| 260 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 370 | 4.55 | 549 |
 | 261 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 368 | 4.43 | 761 |
 | 262 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 367 | 4.51 | 622 |
 | 262 | [Inscryption](games/i/inscryption.md) | 367 | 4.87 | 20 |
