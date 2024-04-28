@@ -4,11 +4,12 @@
 Rating: 4.80 (Ranked 91)  
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 409)  
-Sum: 101 (Ranked 509)  
-Diff (max vs sum): -100  
+Sum: 121 (Ranked 497)  
+Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 101 |
+| This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -90,3 +91,4 @@ Diff (max vs sum): -100
 | 2024-04-22 | 4.80 | 99 | 99 |
 | 2024-04-25 | 4.80 | 100 | 100 |
 | 2024-04-26 | 4.80 | 101 | 101 |
+| 2024-04-28 | 4.80 | 101 | 121 |
