@@ -2,7 +2,7 @@
   "ID": "d93cf08971eb4920862a95870a051f81",
   "Name": "Sail Forth",
   "ProductSlug": "sail-forth-51847e",
-  "Ranking_Rating": 805,
+  "Ranking_Rating": 806,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 58,
@@ -509,10 +509,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 143,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-04-28T13:01:26.2561969+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143,
+  "NumberOfAwards": 144,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -526,7 +532,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2863,9 +2869,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-04-27T14:57:57.8862541+00:00",
+  "LastChanged": "2024-04-28T13:01:26.2561967+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:24.2219897+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:59.3891041+00:00",
-  "LastUpdate_Ratings": "2024-04-28T11:57:20.5953698+00:00",
+  "LastUpdate_Ratings": "2024-04-28T13:01:26.2561972+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:24.222024+00:00"
 }

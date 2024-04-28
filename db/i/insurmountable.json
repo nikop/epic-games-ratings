@@ -2,7 +2,7 @@
   "ID": "e25eba2210804006a61763a4108322de",
   "Name": "Insurmountable",
   "ProductSlug": "insurmountable-b02c31",
-  "Ranking_Rating": 1027,
+  "Ranking_Rating": 1028,
   "Ranking_Popularity": 614,
   "Ranking_PopularitySum": 617,
   "Ranking_EOS_Progress": 985,
@@ -600,6 +600,6 @@
   "FirstSeen": "2022-07-22T20:16:54.1539465+00:00",
   "LastChanged": "2024-03-02T16:00:08.4879562+00:00",
   "LastUpdate_AppInfo": "2024-04-21T14:57:48.5746901+00:00",
-  "LastUpdate_Ratings": "2024-04-28T10:59:40.500161+00:00",
+  "LastUpdate_Ratings": "2024-04-28T13:00:38.1204636+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:11.3509479+00:00"
 }
