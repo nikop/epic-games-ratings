@@ -5,13 +5,13 @@ Rating: 4.87 (Ranked 20)
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 693  (Ranked 207)  
-Sum: 1,055 (Ranked 287)  
+Sum: 1,056 (Ranked 287)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 693 |
 | This game has Amazing Storytelling | 49 |
-| This game has Diverse Characters | 47 |
+| This game has Diverse Characters | 48 |
 | This game is Highly Recommended | 43 |
 | This game is Extremely Fun | 40 |
 | This game is Great for Beginners | 39 |
@@ -300,3 +300,4 @@ Diff (max vs sum): -80
 | 2024-04-21 | 4.87 | - | 690 | 1,052 |
 | 2024-04-24 | 4.87 | - | 692 | 1,054 |
 | 2024-04-26 | 4.87 | - | 693 | 1,055 |
+| 2024-04-28 | 4.87 | - | 693 | 1,056 |
