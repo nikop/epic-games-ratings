@@ -2,7 +2,7 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 295,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 34,
   "Ranking_EOS_Progress": 128,
@@ -17050,10 +17050,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 50651,
       "NumberOfAwardsMax": 7147
+    },
+    {
+      "Time": "2024-04-28T19:58:27.3582684+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 50669,
+      "NumberOfAwardsMax": 7147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50651,
+  "NumberOfAwards": 50669,
   "NumberOfAwardsMax": 7147,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -17085,7 +17091,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5034
+      "Count": 5038
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17115,7 +17121,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5707
+      "Count": 5721
     },
     {
       "Text": "This game has a Creative Community",
@@ -44565,9 +44571,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2024-04-28T09:57:21.790788+00:00",
+  "LastChanged": "2024-04-28T19:58:27.3582682+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:08.3679968+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:56:56.1405495+00:00",
-  "LastUpdate_Ratings": "2024-04-28T18:01:08.2361059+00:00",
+  "LastUpdate_Ratings": "2024-04-28T19:58:27.3582689+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:08.368123+00:00"
 }
