@@ -2,9 +2,9 @@
   "ID": "dc09ae8f1aa445b7853b5300c2345d81",
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
-  "Ranking_Rating": 739,
-  "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 399,
+  "Ranking_Rating": 716,
+  "Ranking_Popularity": 460,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-11-25T02:17:36.1236478+00:00",
@@ -1308,24 +1308,30 @@
       "Rating": 4.44,
       "NumberOfAwards": 351,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-04-28T02:21:37.1063371+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 360,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 351,
-  "NumberOfAwardsMax": 61,
+  "NumberOfAwards": 360,
+  "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 57
+      "Count": 60
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 61
+      "Count": 67
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1575,9 +1581,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-04-27T12:00:37.647315+00:00",
+  "LastChanged": "2024-04-28T02:21:37.1063369+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:32.1238768+00:00",
   "LastUpdate_AppInfo": "2024-04-21T19:57:27.9571157+00:00",
-  "LastUpdate_Ratings": "2024-04-27T23:59:39.2465681+00:00",
+  "LastUpdate_Ratings": "2024-04-28T02:21:37.1063374+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:32.1238896+00:00"
 }
