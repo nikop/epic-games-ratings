@@ -2,9 +2,9 @@
   "ID": "f3867695344144dc920630264c4dd678",
   "Name": "Doomsday Last Survivors",
   "ProductSlug": "doomsday-last-survivors-024df3",
-  "Ranking_Rating": 1042,
-  "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 433,
+  "Ranking_Rating": 1036,
+  "Ranking_Popularity": 390,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2023-07-14T19:57:17.8350643+00:00",
@@ -1451,11 +1451,17 @@
       "Rating": 4.17,
       "NumberOfAwards": 260,
       "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2024-04-27T23:58:56.8943507+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 262,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 260,
-  "NumberOfAwardsMax": 113,
+  "NumberOfAwards": 262,
+  "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1468,7 +1474,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1486,7 +1492,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1507,8 +1513,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2024-04-26T11:57:24.6275147+00:00",
+  "LastChanged": "2024-04-27T23:58:56.8943505+00:00",
   "LastUpdate_AppInfo": "2024-04-25T08:57:19.8499678+00:00",
-  "LastUpdate_Ratings": "2024-04-27T22:00:07.146958+00:00",
+  "LastUpdate_Ratings": "2024-04-27T23:58:56.894351+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:49.5521874+00:00"
 }
