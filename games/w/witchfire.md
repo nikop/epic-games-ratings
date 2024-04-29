@@ -4,14 +4,14 @@
 Rating: 4.61 (Ranked 421)  
 ## Awards
 Max (Challenging Combat): 123  (Ranked 381)  
-Sum: 625 (Ranked 344)  
+Sum: 627 (Ranked 344)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 123 |
 | This game is Highly Recommended | 116 |
 | This game has Quickly Understood Controls | 109 |
-| This game has Amazing Storytelling | 106 |
+| This game has Amazing Storytelling | 108 |
 | This game is Extremely Fun | 96 |
 | This game has Amazing Characters | 75 |
 | This game is Hard for Beginners | 71 |
@@ -196,3 +196,4 @@ Diff (max vs sum): 37
 | 2024-04-26 | 4.61 | 119 | 615 |
 | 2024-04-27 | 4.61 | 119 | 681 |
 | 2024-04-28 | 4.61 | 123 | 625 |
+| 2024-04-29 | 4.61 | 123 | 627 |
