@@ -4,7 +4,7 @@
   "ProductSlug": "death-stranding-directors-cut",
   "Ranking_Rating": 12,
   "Ranking_Popularity": 49,
-  "Ranking_PopularitySum": 71,
+  "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 53,
@@ -12893,10 +12893,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 18040,
       "NumberOfAwardsMax": 10240
+    },
+    {
+      "Time": "2024-04-29T18:00:03.9616497+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 18041,
+      "NumberOfAwardsMax": 10240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18040,
+  "NumberOfAwards": 18041,
   "NumberOfAwardsMax": 10240,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12928,7 +12934,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 690
+      "Count": 691
     },
     {
       "Text": "This game has Diverse Characters",
@@ -46029,9 +46035,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
-  "LastChanged": "2024-04-29T16:58:06.4760685+00:00",
+  "LastChanged": "2024-04-29T18:00:03.9616495+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:36.905691+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:57:45.8902341+00:00",
-  "LastUpdate_Ratings": "2024-04-29T16:58:06.4760691+00:00",
+  "LastUpdate_Ratings": "2024-04-29T18:00:03.9616501+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:36.9058839+00:00"
 }
