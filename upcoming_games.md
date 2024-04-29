@@ -42,6 +42,7 @@
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 1 | - | - |
 | [Valiant Hearts: Coming Home](games/5/5bb27a0d5617488aa983f5b3f77c9611.md) | 2024-05-24 | - |  | - | - |
 | [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,756 |
+| [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | - |  | - | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-05-31 | - |  | - | - |
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-31 | - |  | - | - |
 | [EARLY ACCESS: What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-05-31 | - |  | - | - |
@@ -230,6 +231,7 @@
 | [Falling Frontier](games/f/falling_frontier.md) | 2025-12-31 | - |  | - | - |
 | [Federation](games/f/ff6f8be77181424abd51b0fc551da825.md) | 2025-12-31 | - |  | - | - |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2025-12-31 | 19 (1,000 XP) | 1 | - | - |
+| [Promise Mascot Agency](games/9/9cdcb83442bd412fa8d0c47704e358b7.md) | 2025-12-31 | - |  | - | - |
 | [SpasmsOfStupidity](games/c/c56dd8ab2daf431c9feacc0fc87b42fc.md) | 2025-12-31 | - |  | - | - |
 | [33 Immortals](games/0/059c9bf09df94e09b059eefaea025de1.md) | 2099-01-01 | - |  | - | - |
 | [A Frog's Job](games/a/a_frog's_job.md) | 2099-01-01 | - |  | - | - |
@@ -253,7 +255,6 @@
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2099-01-01 | - |  | - | - |
 | [ASCENDANT.COM](games/f/f482bdb61ec6483c89b21c3af00a9833.md) | 2099-01-01 | - |  | - | - |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | - |  | - | - |
-| [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2099-01-01 | - |  | - | - |
 | [Astrometica](games/d/d5edf91e135b4742b668c25dea1e2e52.md) | 2099-01-01 | - |  | - | - |
 | [Automate It](games/a/a0f980262590468d989261e3c0f291ed.md) | 2099-01-01 | - |  | - | - |
 | [BADMAD ROBOTS](games/8/8c9aba45f7364ae483dcd05cf7d61cc4.md) | 2099-01-01 | - |  | - | - |
