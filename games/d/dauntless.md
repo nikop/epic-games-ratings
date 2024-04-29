@@ -1,18 +1,18 @@
 # Dauntless
 [Store](https://store.epicgames.com/en-US/p/dauntless)  
 [View Rawdata](../../db/d/dauntless.json)  
-Rating: 4.53 (Ranked 588)  
+Rating: 4.53 (Ranked 587)  
 Number of Ratings: 23,656  (23.09.2022)  
 ## Awards
 Max (Character Customization): 28,746  (Ranked 19)  
-Sum: 80,110 (Ranked 24)  
+Sum: 80,114 (Ranked 24)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 28,746 |
 | This game has Great Boss Battles | 19,976 |
 | This game is Great for Beginners | 5,366 |
-| This game has Diverse Characters | 4,676 |
+| This game has Diverse Characters | 4,680 |
 | This game is Highly Recommended | 4,418 |
 | This game is Extremely Fun | 4,369 |
 | This game has Amazing Characters | 4,242 |
@@ -482,4 +482,4 @@ Diff (max vs sum): -5
 | 2024-04-26 | 4.53 | - | 28,673 | 79,915 |
 | 2024-04-27 | 4.53 | - | 28,690 | 79,982 |
 | 2024-04-28 | 4.53 | - | 28,723 | 80,065 |
-| 2024-04-29 | 4.53 | - | 28,746 | 80,110 |
+| 2024-04-29 | 4.53 | - | 28,746 | 80,114 |

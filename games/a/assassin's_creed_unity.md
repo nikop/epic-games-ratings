@@ -1,11 +1,11 @@
 # Assassin's Creed Unity
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-unity)  
 [View Rawdata](../../db/a/assassin's_creed_unity.json)  
-Rating: 4.62 (Ranked 400)  
+Rating: 4.62 (Ranked 399)  
 Number of Ratings: 900  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,149  (Ranked 161)  
-Sum: 1,527 (Ranked 260)  
+Sum: 1,528 (Ranked 260)  
 Diff (max vs sum): -99  
 | Award | Count |
 | ----- | ----- |
@@ -17,8 +17,8 @@ Diff (max vs sum): -99
 | This game has Amazing Storytelling | 42 |
 | This game has Amazing Characters | 42 |
 | This game is Great for Beginners | 41 |
+| This game is Extremely Fun | 40 |
 | This game is Relaxing | 40 |
-| This game is Extremely Fun | 39 |
 | This game has Great Boss Battles | 32 |
 | This game is Great for Quick Sessions | 30 |
 | This game has a Creative Community | 29 |
@@ -407,3 +407,4 @@ Diff (max vs sum): -99
 | 2024-04-24 | 4.62 | - | 1,143 | 1,519 |
 | 2024-04-25 | 4.62 | - | 1,144 | 1,520 |
 | 2024-04-27 | 4.62 | - | 1,149 | 1,527 |
+| 2024-04-29 | 4.62 | - | 1,149 | 1,528 |
