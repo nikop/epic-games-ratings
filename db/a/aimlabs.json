@@ -2,9 +2,9 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 301,
+  "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -3517,12 +3517,18 @@
       "Rating": 4.61,
       "NumberOfAwards": 903,
       "NumberOfAwardsMax": 140
+    },
+    {
+      "Time": "2024-04-29T15:58:41.5506747+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 836,
+      "NumberOfAwardsMax": 140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 903,
+  "NumberOfAwards": 836,
   "NumberOfAwardsMax": 140,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3552,7 +3558,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Educational",
@@ -3609,8 +3615,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-04-25T19:59:22.2244572+00:00",
+  "LastChanged": "2024-04-29T15:58:41.5506745+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:22.0582463+00:00",
-  "LastUpdate_Ratings": "2024-04-29T13:59:54.5572192+00:00",
+  "LastUpdate_Ratings": "2024-04-29T15:58:41.550675+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:53.261858+00:00"
 }

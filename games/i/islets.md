@@ -3,9 +3,9 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.71 (Ranked 206)  
 ## Awards
-Max (Extremely Fun): 28  (Ranked 579)  
+Max (Extremely Fun): 28  (Ranked 578)  
 Sum: 147 (Ranked 485)  
-Diff (max vs sum): 94  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 28 |

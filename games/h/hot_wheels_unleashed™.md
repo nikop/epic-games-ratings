@@ -1,12 +1,12 @@
 # HOT WHEELS UNLEASHED™
 [Store](https://store.epicgames.com/en-US/p/hot-wheels-unleashed)  
 [View Rawdata](../../db/h/hot_wheels_unleashed™.json)  
-Rating: 4.58 (Ranked 486)  
+Rating: 4.58 (Ranked 485)  
 Number of Ratings: 312  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 44  (Ranked 516)  
+Max (Great for Beginners): 44  (Ranked 515)  
 Sum: 389 (Ranked 392)  
-Diff (max vs sum): 124  
+Diff (max vs sum): 123  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 44 |
