@@ -70,7 +70,7 @@
 | 68 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,147 | 4.67 | 294 |
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,983 | 4.58 | 487 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 776 |
-| 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,538 | 4.80 | 91 |
+| 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,539 | 4.80 | 91 |
 | 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,466 | 4.78 | 114 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,230 | 4.66 | 318 |
 | 74 | [Rogue Company](games/r/rogue_company.md) | 6,210 | 4.28 | 946 |
@@ -195,7 +195,7 @@
 | 193 | [Subnautica](games/s/subnautica.md) | 865 | 4.85 | 36 |
 | 194 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 853 | 4.60 | 449 |
 | 195 | [Neverwinter](games/n/neverwinter.md) | 838 | 4.29 | 933 |
-| 196 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 836 | 4.61 | 422 |
+| 195 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 838 | 4.61 | 422 |
 | 197 | [Core](games/c/core.md) | 806 | 4.34 | 887 |
 | 198 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 803 | 4.87 | 20 |
 | 199 | [Prison Architect](games/p/prison_architect.md) | 801 | 4.61 | 422 |
@@ -218,7 +218,7 @@
 | 216 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 637 | 4.38 | 839 |
 | 217 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 630 | 4.61 | 422 |
 | 218 | [Dark Deity](games/d/dark_deity.md) | 627 | 4.17 | 1,045 |
-| 219 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 624 | 4.34 | 887 |
+| 218 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 627 | 4.34 | 887 |
 | 220 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 617 | 4.67 | 294 |
 | 221 | [Godfall Ultimate Edition](games/g/godfall.md) | 616 | 4.05 | 1,103 |
 | 222 | [Vampyr](games/v/vampyr.md) | 608 | 4.32 | 910 |
@@ -254,13 +254,13 @@
 | 252 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 414 | 4.54 | 568 |
 | 253 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 412 | 4.61 | 422 |
 | 254 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 406 | 4.17 | 1,045 |
-| 255 | [Railway Empire](games/r/railway_empire.md) | 390 | 4.51 | 624 |
+| 255 | [Railway Empire](games/r/railway_empire.md) | 391 | 4.51 | 624 |
 | 256 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 389 | 4.72 | 194 |
 | 257 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 387 | 4.18 | 1,038 |
 | 257 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 387 | 3.99 | 1,117 |
 | 259 | [Dead Cells](games/d/dead_cells.md) | 385 | 4.85 | 36 |
-| 260 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 370 | 4.55 | 551 |
-| 261 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 368 | 4.44 | 741 |
+| 260 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 372 | 4.44 | 741 |
+| 261 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 370 | 4.55 | 551 |
 | 262 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 367 | 4.51 | 624 |
 | 262 | [Inscryption](games/i/inscryption.md) | 367 | 4.87 | 20 |
 | 264 | [The Messenger](games/t/the_messenger.md) | 363 | 4.81 | 78 |

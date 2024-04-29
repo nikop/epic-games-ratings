@@ -93,7 +93,7 @@
 | 91 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 1,022 | 175 |
 | 91 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.80 | 0 | 634 |
 | 91 | [Coffee Talk](games/c/coffee_talk.md) | 4.80 | 0 | 634 |
-| 91 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,538 | 71 |
+| 91 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,539 | 71 |
 | 91 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.80 | 239 | 305 |
 | 91 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 136 | 370 |
 | 91 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 454 | 245 |
@@ -446,7 +446,7 @@
 | 422 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 412 | 253 |
 | 422 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 93 | 423 |
 | 422 | [Warframe](games/w/warframe.md) | 4.61 | 23,519 | 24 |
-| 422 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 836 | 196 |
+| 422 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 838 | 195 |
 | 422 | [Witchfire](games/w/witchfire.md) | 4.61 | 123 | 381 |
 | 449 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 901 | 189 |
 | 449 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,674 | 25 |
@@ -550,7 +550,7 @@
 | 536 | [Returnal™](games/r/returnal™.md) | 4.56 | 218 | 317 |
 | 536 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,805 | 138 |
 | 536 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,008 | 80 |
-| 551 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 370 | 260 |
+| 551 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 370 | 261 |
 | 551 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 614 |
 | 551 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.55 | 0 | 634 |
 | 551 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,227 | 122 |
@@ -635,7 +635,7 @@
 | 624 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 634 |
 | 624 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.51 | 0 | 634 |
 | 624 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.51 | 0 | 634 |
-| 624 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 390 | 255 |
+| 624 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 391 | 255 |
 | 624 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 1,075 | 170 |
 | 624 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 9,947 | 50 |
 | 624 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 78 | 446 |
@@ -740,7 +740,7 @@
 | 718 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 140 | 366 |
 | 718 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 634 |
 | 718 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 4.45 | 0 | 634 |
-| 741 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.44 | 368 | 261 |
+| 741 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.44 | 372 | 260 |
 | 741 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.44 | 46 | 510 |
 | 741 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 634 |
 | 741 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 279 | 290 |
@@ -897,7 +897,7 @@
 | 887 | [House Party](games/h/house_party.md) | 4.34 | 0 | 634 |
 | 887 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 634 |
 | 887 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 33 | 552 |
-| 887 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 624 | 219 |
+| 887 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 627 | 218 |
 | 899 | [Among Trees](games/a/among_trees.md) | 4.33 | 0 | 634 |
 | 899 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 634 |
 | 899 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 634 |
