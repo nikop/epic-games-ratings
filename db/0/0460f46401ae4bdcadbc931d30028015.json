@@ -3,8 +3,8 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 1045,
-  "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 248,
+  "Ranking_Popularity": 287,
+  "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 21,
@@ -3739,12 +3739,18 @@
       "Rating": 4.17,
       "NumberOfAwards": 1717,
       "NumberOfAwardsMax": 406
+    },
+    {
+      "Time": "2024-04-29T09:00:27.8324327+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 1311,
+      "NumberOfAwardsMax": 284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1717,
-  "NumberOfAwardsMax": 406,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 1311,
+  "NumberOfAwardsMax": 284,
+  "MaxAwardTitle": "Competitive Community",
   "Tags": [
     {
       "Text": "This game has a Competitive Community",
@@ -14888,9 +14894,9 @@
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-04-29T02:19:10.4504744+00:00",
+  "LastChanged": "2024-04-29T09:00:27.8324325+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:54.3832906+00:00",
   "LastUpdate_AppInfo": "2024-04-25T20:57:10.6171142+00:00",
-  "LastUpdate_Ratings": "2024-04-29T07:58:29.7182631+00:00",
+  "LastUpdate_Ratings": "2024-04-29T09:00:27.8324329+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:54.3833575+00:00"
 }
