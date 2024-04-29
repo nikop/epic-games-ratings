@@ -18,7 +18,7 @@
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 44,682 | 4.72 | 194 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,677 | 4.74 | 167 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,088 | 4.64 | 364 |
-| 19 | [Dauntless](games/d/dauntless.md) | 28,723 | 4.53 | 588 |
+| 19 | [Dauntless](games/d/dauntless.md) | 28,746 | 4.53 | 588 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 27,203 | 4.89 | 12 |
 | 21 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 25,597 | 4.14 | 1,069 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 23,817 | 4.26 | 968 |
@@ -77,7 +77,7 @@
 | 75 | [League of Legends](games/l/league_of_legends.md) | 6,167 | 4.20 | 1,020 |
 | 76 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,098 | 4.64 | 364 |
 | 77 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,088 | 4.85 | 36 |
-| 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,015 | 4.07 | 1,097 |
+| 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,018 | 4.07 | 1,097 |
 | 79 | [Prey](games/p/prey.md) | 6,010 | 4.63 | 377 |
 | 80 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,008 | 4.56 | 536 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,671 | 4.59 | 465 |

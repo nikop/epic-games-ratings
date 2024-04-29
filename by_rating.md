@@ -589,7 +589,7 @@
 | 568 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 414 | 252 |
 | 588 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 634 |
 | 588 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 4.53 | 0 | 634 |
-| 588 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,723 | 19 |
+| 588 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,746 | 19 |
 | 588 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 27 | 584 |
 | 588 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 530 |
 | 588 | [Everything](games/e/everything.md) | 4.53 | 0 | 634 |
@@ -1097,7 +1097,7 @@
 | 1,092 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 634 |
 | 1,092 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.08 | 0 | 634 |
 | 1,097 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.07 | 0 | 634 |
-| 1,097 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,015 | 78 |
+| 1,097 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,018 | 78 |
 | 1,097 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.07 | 0 | 634 |
 | 1,097 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 228 | 312 |
 | 1,101 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.06 | 0 | 634 |
