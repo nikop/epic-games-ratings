@@ -2,7 +2,7 @@
   "ID": "basil",
   "Name": "Human Resource Machine",
   "ProductSlug": "human-resource-machine",
-  "Ranking_Rating": 377,
+  "Ranking_Rating": 398,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 985,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.63,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:48.6149291+00:00",
@@ -349,6 +349,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-04-29T13:58:53.7642613+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
@@ -375,8 +381,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:33.4589347+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.6149288+00:00",
-  "LastChanged": "2024-04-27T14:00:17.1283117+00:00",
+  "LastChanged": "2024-04-29T13:58:53.7642611+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:57:57.1031394+00:00",
-  "LastUpdate_Ratings": "2024-04-29T12:01:18.9369369+00:00",
+  "LastUpdate_Ratings": "2024-04-29T13:58:53.7642616+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:32.0136029+00:00"
 }
