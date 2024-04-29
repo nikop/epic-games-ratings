@@ -7,6 +7,7 @@
 | [Dungeon Renovation Simulator](games/2/27dde2bf49304fc19badc32544a9105f.md) | 2024-04-30 | - |  | - | - |
 | [FusyFox](games/6/6308f89d537b47ea96dc02fb5a07518c.md) | 2024-04-30 | - |  | - | - |
 | [Goalgetter](games/7/7f3d1cc99606488c889a893f5b82762a.md) | 2024-04-30 | - |  | - | - |
+| [Gunshots in the barren hills](games/4/4aeb446ed8044b9bbdf98044832da06a.md) | 2024-04-30 | - |  | - | - |
 | [House](games/3/35ca779d351a4132b7bd12ff2bad615a.md) | 2024-04-30 | - |  | - | - |
 | [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-04-30 | - |  | - | - |
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
