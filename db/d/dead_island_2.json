@@ -12433,18 +12433,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 22327,
       "NumberOfAwardsMax": 13921
+    },
+    {
+      "Time": "2024-04-29T18:57:10.4556231+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 22411,
+      "NumberOfAwardsMax": 13983
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22327,
-  "NumberOfAwardsMax": 13921,
+  "NumberOfAwards": 22411,
+  "NumberOfAwardsMax": 13983,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 13921
+      "Count": 13983
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12462,7 +12468,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1231
+      "Count": 1238
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12480,7 +12486,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1003
+      "Count": 1009
     },
     {
       "Text": "This game is Relaxing",
@@ -12492,7 +12498,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1003
+      "Count": 1012
     }
   ],
   "EOS_Progressed": 851780,
@@ -45564,9 +45570,9 @@
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2024-04-29T13:00:35.3868609+00:00",
+  "LastChanged": "2024-04-29T18:57:10.455623+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:21.7584655+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:58:01.7109964+00:00",
-  "LastUpdate_Ratings": "2024-04-29T16:58:50.240914+00:00",
+  "LastUpdate_Ratings": "2024-04-29T18:57:10.4556236+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:21.7587424+00:00"
 }
