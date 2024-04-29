@@ -317,8 +317,8 @@ Completed: 99 (0.25%) (Ranked 308)
 | 2024-04-10 | 39,150 | 99 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 377)  
-Sum: 828 (Ranked 313)  
-Diff (max vs sum): 64  
+Sum: 828 (Ranked 314)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 129 |
