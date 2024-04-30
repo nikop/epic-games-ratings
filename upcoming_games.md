@@ -373,6 +373,7 @@
 | [Hero Flood Rescue](games/h/hero_flood_rescue.md) | 2099-01-01 | - |  | - | - |
 | [Heroes of Latera](games/e/ef58f7e6ac8648a99de895f5e571d9e7.md) | 2099-01-01 | - |  | - | - |
 | [Hidden Cats: Magic Forest](games/b/bfb2b691db4741f7827ab8bd3dfd5b18.md) | 2099-01-01 | - |  | - | - |
+| [Highway Police Simulator](games/7/7845c6fd0d5e47cd8ca951c3053209db.md) | 2099-01-01 | - |  | - | - |
 | [Hit and Boom](games/h/hit_and_boom.md) | 2099-01-01 | - |  | - | - |
 | [Hold On](games/h/hold_on.md) | 2099-01-01 | - |  | - | - |
 | [Horizon Heat](games/c/c0ec8837e5e248259075443e531da3ab.md) | 2099-01-01 | - |  | - | - |
