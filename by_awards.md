@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,466,323 | 4.29 | 933 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 805,985 | 4.45 | 719 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 806,945 | 4.45 | 719 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 364,981 | 4.68 | 273 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 338,995 | 4.67 | 293 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 313,072 | 4.87 | 20 |
@@ -84,7 +84,7 @@
 | 82 | [SMITE](games/s/smite.md) | 5,646 | 4.41 | 789 |
 | 83 | [God of War](games/g/god_of_war.md) | 5,566 | 4.87 | 20 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,564 | 4.57 | 515 |
-| 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,233 | 4.37 | 852 |
+| 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,233 | 4.37 | 853 |
 | 86 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,198 | 4.62 | 398 |
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,136 | 4.00 | 1,112 |
 | 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,005 | 4.70 | 223 |
@@ -105,7 +105,7 @@
 | 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,586 | 4.57 | 515 |
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,567 | 4.76 | 140 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,514 | 4.19 | 1,027 |
-| 106 | [Among Us](games/a/among_us.md) | 3,315 | 4.56 | 535 |
+| 106 | [Among Us](games/a/among_us.md) | 3,320 | 4.56 | 535 |
 | 107 | [RAGE 2](games/r/rage_2.md) | 3,119 | 4.27 | 961 |
 | 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,074 | 4.53 | 587 |
 | 109 | [Path of Exile](games/p/path_of_exile.md) | 2,974 | 4.62 | 398 |
@@ -122,7 +122,7 @@
 | 120 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,378 | 4.67 | 293 |
 | 121 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,297 | 4.41 | 789 |
 | 122 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,234 | 4.55 | 550 |
-| 123 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,175 | 4.37 | 852 |
+| 123 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,175 | 4.37 | 853 |
 | 124 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,095 | 4.89 | 12 |
 | 125 | [World of Warships](games/w/world_of_warships.md) | 2,093 | 4.41 | 789 |
 | 126 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,077 | 4.49 | 661 |
@@ -141,7 +141,7 @@
 | 139 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,799 | 4.79 | 101 |
 | 140 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,720 | 4.87 | 20 |
 | 141 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,645 | 4.79 | 101 |
-| 142 | [MORDHAU](games/m/mordhau.md) | 1,638 | 4.37 | 852 |
+| 142 | [MORDHAU](games/m/mordhau.md) | 1,638 | 4.37 | 853 |
 | 143 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,630 | 4.75 | 149 |
 | 144 | [XCOM® 2](games/x/xcom®_2.md) | 1,586 | 4.55 | 550 |
 | 145 | [OUTRIDERS](games/o/outriders.md) | 1,577 | 4.43 | 763 |
@@ -161,7 +161,7 @@
 | 159 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,192 | 4.64 | 363 |
 | 160 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,153 | 4.69 | 251 |
 | 161 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,152 | 4.62 | 398 |
-| 162 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,143 | 4.53 | 587 |
+| 162 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,145 | 4.53 | 587 |
 | 163 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,133 | 4.61 | 422 |
 | 164 | [Torchlight II](games/t/torchlight_ii.md) | 1,128 | 4.59 | 464 |
 | 165 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,100 | 4.40 | 806 |
@@ -331,7 +331,7 @@
 | 329 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 197 | 4.62 | 398 |
 | 329 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 197 | 4.63 | 377 |
 | 329 | [The Witness](games/t/the_witness.md) | 197 | 4.69 | 251 |
-| 332 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 195 | 4.68 | 273 |
+| 332 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 196 | 4.68 | 273 |
 | 333 | [F1® 23](games/f/f1®_23_standard_edition.md) | 194 | 4.61 | 422 |
 | 333 | [Timberborn](games/t/timberborn.md) | 194 | 4.73 | 182 |
 | 335 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 191 | 4.66 | 318 |
@@ -628,7 +628,7 @@
 | 621 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 21 | 4.64 | 363 |
 | 621 | [Tails of Iron](games/t/tails_of_iron.md) | 21 | 4.59 | 464 |
 | 628 | [Astro Duel 2](games/a/astro_duel_2.md) | 20 | 4.75 | 149 |
-| 628 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 20 | 4.37 | 852 |
+| 628 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 20 | 4.37 | 853 |
 | 628 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 20 | 4.71 | 206 |
 | 628 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 20 | 4.50 | 642 |
 | 628 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 20 | 4.67 | 293 |
