@@ -1,5 +1,18 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
+| [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-04-30 | - |  | - | - |
+| [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | - |  | - | - |
+| [Dungeon Renovation Simulator](games/2/27dde2bf49304fc19badc32544a9105f.md) | 2024-04-30 | - |  | - | - |
+| [FusyFox](games/6/6308f89d537b47ea96dc02fb5a07518c.md) | 2024-04-30 | - |  | - | - |
+| [Goalgetter](games/7/7f3d1cc99606488c889a893f5b82762a.md) | 2024-04-30 | - |  | - | - |
+| [Gunshots in the barren hills](games/4/4aeb446ed8044b9bbdf98044832da06a.md) | 2024-04-30 | - |  | - | - |
+| [House](games/3/35ca779d351a4132b7bd12ff2bad615a.md) | 2024-04-30 | - |  | - | - |
+| [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-04-30 | - |  | - | - |
+| [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
+| [Player Non Player](games/1/1b27521a313b4d05842a052cff892b91.md) | 2024-04-30 | - |  | - | - |
+| [Summer's Gone](games/4/451da11e3adf4275ace500815e0453fb.md) | 2024-04-30 | - |  | - | - |
+| [Womanizer](games/f/f5b1e856606c4990af9f705d1cd92623.md) | 2024-04-30 | - |  | - | - |
 | [Warrior Lords](games/3/32a3518d649740a98e1ea26d6f887038.md) | 2024-04-29 | - |  | - | - |
 | [RacerLoop](games/1/1fd24db7dd2c403c9f77e44940a90355.md) | 2024-04-29 | - |  | - | - |
 | [Ship's Cat](games/1/11f11905cbd549dea36bea8380461d06.md) | 2024-04-28 | - |  | - | - |
@@ -90,21 +103,3 @@
 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 2024-04-01 | 58 (1,250 XP) | 7 | - | 0 |
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | - |
 | [Era.S Decode](games/5/5302127af0b84df1953f5fc4378042eb.md) | 2024-03-31 | - |  | - | 0 |
-| [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-03-31 | - |  | - | 0 |
-| [Back to the Earth](games/5/50833957772f447699fab0bb571039d0.md) | 2024-03-31 | - |  | - | - |
-| [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
-| [Domynyo](games/0/0da5045417f24b309daf44a90c354cf2.md) | 2024-03-31 | - |  | - | - |
-| [Geneforge 2 - Infestation](games/8/849b81c39d7643a588f1acc034384dc7.md) | 2024-03-31 | - |  | - | - |
-| [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-03-31 | - |  | - | - |
-| [Gridiron](games/d/d23b008fda0444588998e65e0de39871.md) | 2024-03-31 | - |  | - | 0 |
-| [Heath the unchosen path](games/0/0ab21aefa7624625abaa1ceb308d941d.md) | 2024-03-31 | - |  | - | - |
-| [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
-| [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-03-31 | - |  | - | - |
-| [Of Murder and Moonshine](games/7/7218b3eddf1749dd9f966c615f2a9d96.md) | 2024-03-31 | - |  | - | - |
-| [Repression](games/0/0bcd77c68cff407a9628730bb61f639d.md) | 2024-03-31 | - |  | - | - |
-| [Solars Dominion](games/0/0c71144a77c14ac9a7d796a4821c8cf8.md) | 2024-03-31 | - |  | - | - |
-| [The Chronos Event](games/b/b08609c40a8b465ea288d96ba71b2088.md) | 2024-03-31 | - |  | - | - |
-| [TRIBES 3: Rivals](games/4/41f54b0e3988413c921e4a21cdb15172.md) | 2024-03-31 | - |  | - | - |
-| [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | 30 (1,000 XP) | 2 | - | 0 |
-| [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-03-31 | - |  | - | - |
-| [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 4 | - | 0 |
