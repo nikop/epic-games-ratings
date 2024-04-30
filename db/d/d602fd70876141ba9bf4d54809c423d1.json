@@ -2,9 +2,9 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_Rating": 587,
+  "Ranking_Rating": 588,
   "Ranking_Popularity": 162,
-  "Ranking_PopularitySum": 124,
+  "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 53,
@@ -6555,10 +6555,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 8680,
       "NumberOfAwardsMax": 1145
+    },
+    {
+      "Time": "2024-04-30T16:00:00.2049027+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 8682,
+      "NumberOfAwardsMax": 1145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8680,
+  "NumberOfAwards": 8682,
   "NumberOfAwardsMax": 1145,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6614,7 +6620,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 906
+      "Count": 908
     },
     {
       "Text": "This game has Challenging Combat",
@@ -19785,9 +19791,9 @@
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenRating": "2023-10-20T08:01:20.4759895+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged": "2024-04-30T06:59:23.4860647+00:00",
+  "LastChanged": "2024-04-30T16:00:00.2049025+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:35.1796037+00:00",
   "LastUpdate_AppInfo": "2024-04-25T15:57:31.6180095+00:00",
-  "LastUpdate_Ratings": "2024-04-30T14:57:34.3234422+00:00",
+  "LastUpdate_Ratings": "2024-04-30T16:00:00.2049032+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:35.1797249+00:00"
 }
