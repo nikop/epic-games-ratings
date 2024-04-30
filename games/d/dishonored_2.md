@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dishonored_2.json)  
 Rating: 4.78 (Ranked 114)  
 ## Awards
-Max (Great Boss Battles): 1,003  (Ranked 179)  
+Max (Great Boss Battles): 1,003  (Ranked 180)  
 Sum: 1,820 (Ranked 238)  
-Diff (max vs sum): -59  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,003 |
