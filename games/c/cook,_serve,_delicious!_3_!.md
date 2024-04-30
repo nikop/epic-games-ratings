@@ -1,12 +1,12 @@
 # Cook, Serve, Delicious! 3?!
 [Store](https://store.epicgames.com/en-US/p/cook-serve-delicious-3-fb9aae)  
 [View Rawdata](../../db/c/cook,_serve,_delicious!_3_!.json)  
-Rating: 4.50 (Ranked 643)  
+Rating: 4.50 (Ranked 644)  
 Number of Ratings: 2,006  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 114  (Ranked 390)  
+Max (Great for Quick Sessions): 114  (Ranked 391)  
 Sum: 762 (Ranked 325)  
-Diff (max vs sum): 65  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 114 |
