@@ -488,6 +488,7 @@
 | [Revenge of Sardine](games/8/894b17f2131c4a38b2c43b50621730cc.md) | 2099-01-01 | - |  | - | - |
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2099-01-01 | - |  | - | - |
 | [Rise of Industry 2](games/4/47f326b0d07b4b7c8435163b1c78c8ab.md) | 2099-01-01 | - |  | - | - |
+| [Rising Heat](games/2/2835eeff30174fcdaea3114f6b79aaf5.md) | 2099-01-01 | - |  | - | - |
 | [Rooted](games/0/0c0ddf9e73d7480cb81033411e840dd1.md) | 2099-01-01 | - |  | - | - |
 | [Rune Seeker](games/d/d3bd62d6a6db42d0b2763f169549ba7a.md) | 2099-01-01 | - |  | - | - |
 | [Runeroots TD](games/2/2f169ae019ee48318209c0aebef2b378.md) | 2099-01-01 | - |  | - | - |
