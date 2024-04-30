@@ -3781,10 +3781,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 1364,
       "NumberOfAwardsMax": 296
+    },
+    {
+      "Time": "2024-04-30T19:58:03.8432974+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 1377,
+      "NumberOfAwardsMax": 296
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1364,
+  "NumberOfAwards": 1377,
   "NumberOfAwardsMax": 296,
   "MaxAwardTitle": "Competitive Community",
   "Tags": [
@@ -3828,7 +3834,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 186
+      "Count": 191
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3846,7 +3852,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 204
+      "Count": 212
     }
   ],
   "EOS_Progressed": 14014,
@@ -14930,9 +14936,9 @@
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-04-30T17:59:57.8686634+00:00",
+  "LastChanged": "2024-04-30T19:58:03.8432973+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:54.3832906+00:00",
   "LastUpdate_AppInfo": "2024-04-25T20:57:10.6171142+00:00",
-  "LastUpdate_Ratings": "2024-04-30T17:59:57.8686638+00:00",
+  "LastUpdate_Ratings": "2024-04-30T19:58:03.8432979+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:54.3833575+00:00"
 }
