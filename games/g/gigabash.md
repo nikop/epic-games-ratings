@@ -1,7 +1,7 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 607)  
+Rating: 4.51 (Ranked 622)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -185,3 +185,4 @@ Diff (max vs sum): -93
 | 2024-04-21 | 4.52 | 84 | 84 |
 | 2024-04-26 | 4.52 | 87 | 87 |
 | 2024-04-27 | 4.52 | 88 | 88 |
+| 2024-04-30 | 4.51 | 88 | 88 |

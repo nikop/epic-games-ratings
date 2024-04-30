@@ -2,7 +2,7 @@
   "ID": "53310576ce1d4446b20dbbdac4f09f2d",
   "Name": "A Total War Saga: TROY",
   "ProductSlug": "a-total-war-saga-troy",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 644,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 985,
@@ -9355,10 +9355,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 13098,
       "NumberOfAwardsMax": 2045
+    },
+    {
+      "Time": "2024-04-30T08:59:06.7611074+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 13100,
+      "NumberOfAwardsMax": 2045
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13098,
+  "NumberOfAwards": 13100,
   "NumberOfAwardsMax": 2045,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9384,7 +9390,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1578
+      "Count": 1580
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9428,8 +9434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2024-04-30T04:01:06.7023305+00:00",
+  "LastChanged": "2024-04-30T08:59:06.7611073+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:14.5750031+00:00",
-  "LastUpdate_Ratings": "2024-04-30T07:01:07.1384438+00:00",
+  "LastUpdate_Ratings": "2024-04-30T08:59:06.7611078+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:31.109241+00:00"
 }
