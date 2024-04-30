@@ -2,7 +2,7 @@
   "ID": "92d67652a4ca46c28507a29d6bc3db4d",
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
-  "Ranking_Rating": 899,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2023-11-30T13:08:42.1369127+00:00",
@@ -1841,11 +1841,17 @@
       "Rating": 4.33,
       "NumberOfAwards": 526,
       "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2024-04-30T03:58:13.9046901+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 528,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 526,
-  "NumberOfAwardsMax": 143,
+  "NumberOfAwards": 528,
+  "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -1858,7 +1864,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 143
+      "Count": 144
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1888,7 +1894,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1939,8 +1945,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2024-04-29T05:00:29.9550625+00:00",
+  "LastChanged": "2024-04-30T03:58:13.9046899+00:00",
   "LastUpdate_AppInfo": "2024-04-25T18:57:06.0769225+00:00",
-  "LastUpdate_Ratings": "2024-04-30T02:19:03.8286805+00:00",
+  "LastUpdate_Ratings": "2024-04-30T03:58:13.9046903+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:30.5382367+00:00"
 }
