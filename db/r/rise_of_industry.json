@@ -3,8 +3,8 @@
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 960,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 543,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -445,11 +445,17 @@
       "Rating": 4.27,
       "NumberOfAwards": 59,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-04-30T16:58:27.6848136+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 60,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 60,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -462,7 +468,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 34
+      "Count": 35
     }
   ],
   "EOS_Progressed": 785949,
@@ -33278,9 +33284,9 @@
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
-  "LastChanged": "2024-04-26T04:57:38.0335235+00:00",
+  "LastChanged": "2024-04-30T16:58:27.6848135+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:21.9605098+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:57:48.5383447+00:00",
-  "LastUpdate_Ratings": "2024-04-30T15:00:51.5723197+00:00",
+  "LastUpdate_Ratings": "2024-04-30T16:58:27.684814+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:21.9606695+00:00"
 }
