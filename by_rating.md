@@ -266,7 +266,7 @@
 | 251 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 527 |
 | 251 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,192 | 41 |
 | 251 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 79 | 444 |
-| 251 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 599 | 224 |
+| 251 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 600 | 223 |
 | 251 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 58 | 479 |
 | 251 | [The Witness](games/t/the_witness.md) | 4.69 | 198 | 329 |
 | 251 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 633 |
@@ -391,7 +391,7 @@
 | 377 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 633 |
 | 377 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 736 | 204 |
 | 377 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 10,295 | 48 |
-| 377 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,105 | 97 |
+| 377 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,115 | 97 |
 | 377 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 633 |
 | 377 | [Prey](games/p/prey.md) | 4.63 | 6,010 | 80 |
 | 377 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 197 | 330 |
@@ -587,7 +587,7 @@
 | 568 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.54 | 0 | 633 |
 | 568 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 414 | 252 |
 | 587 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 633 |
-| 587 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,746 | 19 |
+| 587 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,763 | 19 |
 | 587 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 27 | 583 |
 | 587 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 529 |
 | 587 | [Everything](games/e/everything.md) | 4.53 | 0 | 633 |
@@ -631,6 +631,7 @@
 | 623 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 367 | 261 |
 | 623 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 162 | 355 |
 | 623 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.51 | 0 | 633 |
+| 623 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.51 | 0 | 633 |
 | 623 | [Mars Horizon](games/m/mars_horizon.md) | 4.51 | 0 | 633 |
 | 623 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.51 | 0 | 633 |
 | 623 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.51 | 0 | 633 |
@@ -641,25 +642,24 @@
 | 623 | [The Medium](games/t/the_medium.md) | 4.51 | 0 | 633 |
 | 623 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 633 |
 | 623 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 146 | 362 |
-| 642 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,045 | 129 |
-| 642 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.50 | 25 | 599 |
-| 642 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 940 | 185 |
-| 642 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 502 | 237 |
-| 642 | [Calico](games/c/calico.md) | 4.50 | 0 | 633 |
-| 642 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 114 | 390 |
-| 642 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 633 |
-| 642 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 633 |
-| 642 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 159,101 | 8 |
-| 642 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 122 | 382 |
-| 642 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 633 |
-| 642 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.50 | 0 | 633 |
-| 642 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 698 | 205 |
-| 642 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 33 | 551 |
-| 642 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.50 | 20 | 628 |
-| 642 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,271 | 40 |
-| 642 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 4.50 | 0 | 633 |
-| 642 | [VALORANT](games/v/valorant.md) | 4.50 | 114,213 | 10 |
-| 642 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 493 |
+| 643 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,045 | 129 |
+| 643 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.50 | 25 | 599 |
+| 643 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 940 | 185 |
+| 643 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 502 | 237 |
+| 643 | [Calico](games/c/calico.md) | 4.50 | 0 | 633 |
+| 643 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 114 | 390 |
+| 643 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 633 |
+| 643 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 633 |
+| 643 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 159,101 | 8 |
+| 643 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 122 | 382 |
+| 643 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 633 |
+| 643 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 698 | 205 |
+| 643 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 33 | 551 |
+| 643 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.50 | 20 | 628 |
+| 643 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,271 | 40 |
+| 643 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 4.50 | 0 | 633 |
+| 643 | [VALORANT](games/v/valorant.md) | 4.50 | 114,213 | 10 |
+| 643 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 493 |
 | 661 | [9Lives Arena](games/9/9lives_arena.md) | 4.49 | 33 | 551 |
 | 661 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,077 | 126 |
 | 661 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 633 |
