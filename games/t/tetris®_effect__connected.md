@@ -5,12 +5,12 @@ Rating: 4.86 (Ranked 28)
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 177  (Ranked 343)  
-Sum: 616 (Ranked 347)  
-Diff (max vs sum): -4  
+Sum: 617 (Ranked 346)  
+Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 177 |
-| This game is Great for Beginners | 60 |
+| This game is Great for Beginners | 61 |
 | This game is Great for Quick Sessions | 56 |
 | This game is Extremely Fun | 52 |
 | This game has Quickly Understood Controls | 51 |
@@ -194,3 +194,4 @@ Diff (max vs sum): -4
 | 2024-04-25 | 4.86 | - | 177 | 610 |
 | 2024-04-28 | 4.86 | - | 177 | 615 |
 | 2024-04-30 | 4.86 | - | 177 | 616 |
+| 2024-05-01 | 4.86 | - | 177 | 617 |
