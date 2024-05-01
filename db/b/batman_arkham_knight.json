@@ -3,7 +3,7 @@
   "Name": "Batman Arkham Knight",
   "ProductSlug": "batman-arkham-knight",
   "Ranking_Rating": 57,
-  "Ranking_Popularity": 67,
+  "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -9251,18 +9251,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 11724,
       "NumberOfAwardsMax": 7176
+    },
+    {
+      "Time": "2024-05-01T15:58:12.1704951+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 11733,
+      "NumberOfAwardsMax": 7183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11724,
-  "NumberOfAwardsMax": 7176,
+  "NumberOfAwards": 11733,
+  "NumberOfAwardsMax": 7183,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7176
+      "Count": 7183
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9280,7 +9286,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 468
+      "Count": 470
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9336,8 +9342,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2024-05-01T04:59:42.4858034+00:00",
+  "LastChanged": "2024-05-01T15:58:12.1704948+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:41.0259745+00:00",
-  "LastUpdate_Ratings": "2024-05-01T14:00:18.5886853+00:00",
+  "LastUpdate_Ratings": "2024-05-01T15:58:12.1704959+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:04.5759304+00:00"
 }
