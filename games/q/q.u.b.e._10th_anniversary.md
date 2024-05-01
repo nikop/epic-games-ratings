@@ -140,12 +140,12 @@ Completed: 327 (0.92%) (Ranked 215)
 | 2024-03-21 | 34,497 | 308 |
 | 2024-04-10 | 35,483 | 327 |
 ## Awards
-Max (Challenging Puzzles): 31  (Ranked 561)  
-Sum: 31 (Ranked 592)  
-Diff (max vs sum): -31  
+Max (Challenging Puzzles): 32  (Ranked 559)  
+Sum: 32 (Ranked 592)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 31 |
+| This game features Challenging Puzzles | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -209,3 +209,4 @@ Diff (max vs sum): -31
 | 2024-03-28 | 4.45 | 30 | 30 |
 | 2024-04-04 | 4.45 | 31 | 31 |
 | 2024-04-27 | 4.46 | 31 | 31 |
+| 2024-05-01 | 4.46 | 32 | 32 |
