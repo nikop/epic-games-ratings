@@ -413,7 +413,7 @@
 | 398 | [MotoGP™21](games/m/motogp™21.md) | 4.62 | 26 | 592 |
 | 398 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 635 |
 | 398 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 635 |
-| 398 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,975 | 109 |
+| 398 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,975 | 110 |
 | 398 | [Rogue Lords](games/r/rogue_lords.md) | 4.62 | 0 | 635 |
 | 398 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 635 |
 | 398 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 311 | 277 |
@@ -540,7 +540,7 @@
 | 535 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 54 | 490 |
 | 535 | [Duskers](games/d/duskers.md) | 4.56 | 0 | 635 |
 | 535 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,084 | 169 |
-| 535 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 2,975 | 109 |
+| 535 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 2,991 | 109 |
 | 535 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 102 | 407 |
 | 535 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 244 | 301 |
 | 535 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,756 | 90 |
@@ -559,7 +559,7 @@
 | 550 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 211 | 321 |
 | 550 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.55 | 83 | 436 |
 | 550 | [Little Inferno](games/l/little_inferno.md) | 4.55 | 0 | 635 |
-| 550 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,430 | 119 |
+| 550 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,432 | 119 |
 | 550 | [Observation](games/o/observation.md) | 4.55 | 0 | 635 |
 | 550 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 36 | 540 |
 | 550 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 635 |
@@ -937,7 +937,7 @@
 | 934 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 635 |
 | 934 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.29 | 22 | 615 |
 | 934 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,469,186 | 1 |
-| 934 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 106 | 400 |
+| 934 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.29 | 107 | 399 |
 | 934 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 635 |
 | 934 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.29 | 0 | 635 |
 | 934 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 58 | 479 |
@@ -1008,19 +1008,19 @@
 | 1,000 | [The Fall](games/t/the_fall.md) | 4.23 | 0 | 635 |
 | 1,007 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 204 | 325 |
 | 1,007 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 635 |
-| 1,007 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 902 | 190 |
 | 1,007 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.22 | 39 | 530 |
 | 1,007 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.22 | 102 | 407 |
 | 1,007 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 173 | 348 |
 | 1,007 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.22 | 0 | 635 |
-| 1,014 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 377 |
-| 1,014 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 559 |
-| 1,014 | [Gone Home](games/g/gone_home.md) | 4.21 | 0 | 635 |
-| 1,014 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 635 |
-| 1,014 | [Out of Line](games/o/out_of_line.md) | 4.21 | 0 | 635 |
-| 1,014 | [RiMS Racing](games/r/rims_racing.md) | 4.21 | 0 | 635 |
-| 1,014 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 0 | 635 |
-| 1,014 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 80 | 440 |
+| 1,013 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 129 | 377 |
+| 1,013 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 559 |
+| 1,013 | [Gone Home](games/g/gone_home.md) | 4.21 | 0 | 635 |
+| 1,013 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.21 | 0 | 635 |
+| 1,013 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 902 | 190 |
+| 1,013 | [Out of Line](games/o/out_of_line.md) | 4.21 | 0 | 635 |
+| 1,013 | [RiMS Racing](games/r/rims_racing.md) | 4.21 | 0 | 635 |
+| 1,013 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 0 | 635 |
+| 1,013 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 80 | 440 |
 | 1,022 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 132 | 374 |
 | 1,022 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 635 |
 | 1,022 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 549 |
@@ -1147,9 +1147,9 @@
 | 1,144 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.86 | 46 | 509 |
 | 1,146 | [Poker Club](games/p/poker_club.md) | 3.85 | 55 | 486 |
 | 1,146 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 635 |
+| 1,146 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.85 | 0 | 635 |
 | 1,146 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.85 | 0 | 635 |
-| 1,149 | [Blood of Steel](games/b/blood_of_steel.md) | 3.84 | 0 | 635 |
-| 1,149 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.84 | 0 | 635 |
+| 1,150 | [Blood of Steel](games/b/blood_of_steel.md) | 3.84 | 0 | 635 |
 | 1,151 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 635 |
 | 1,151 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 635 |
 | 1,153 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 635 |
