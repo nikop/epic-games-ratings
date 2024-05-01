@@ -12667,10 +12667,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 30132,
       "NumberOfAwardsMax": 8177
+    },
+    {
+      "Time": "2024-05-01T22:59:50.7819299+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 30134,
+      "NumberOfAwardsMax": 8177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30132,
+  "NumberOfAwards": 30134,
   "NumberOfAwardsMax": 8177,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12732,7 +12738,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1789
+      "Count": 1791
     },
     {
       "Text": "This game is Relaxing",
@@ -45395,9 +45401,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-05-01T20:00:27.2644317+00:00",
+  "LastChanged": "2024-05-01T22:59:50.7819297+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:37.2083999+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:38.3062564+00:00",
-  "LastUpdate_Ratings": "2024-05-01T21:58:17.8075566+00:00",
+  "LastUpdate_Ratings": "2024-05-01T22:59:50.7819303+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:37.208608+00:00"
 }

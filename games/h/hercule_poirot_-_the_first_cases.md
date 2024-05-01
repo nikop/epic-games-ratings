@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.40 (Ranked 806)  
+Rating: 4.42 (Ranked 777)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -180,3 +180,4 @@ Completed: 8 (1.47%) (Ranked 175)
 | 2023-07-07 | 4.35 | 0 | 0 |
 | 2024-01-03 | 4.38 | 0 | 0 |
 | 2024-02-04 | 4.40 | 0 | 0 |
+| 2024-05-01 | 4.42 | 0 | 0 |
