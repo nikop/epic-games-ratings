@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 21,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-06-01T19:56:58.3012544+00:00",
@@ -14953,6 +14953,12 @@
     {
       "Time": "2024-05-01T02:22:20.8426442+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 31566,
+      "NumberOfAwardsMax": 10484
+    },
+    {
+      "Time": "2024-05-01T04:57:43.1769162+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 31566,
       "NumberOfAwardsMax": 10484
     }
@@ -44798,9 +44804,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-05-01T02:22:20.842644+00:00",
+  "LastChanged": "2024-05-01T04:57:43.1769159+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.6001653+00:00",
   "LastUpdate_AppInfo": "2024-04-26T23:57:05.1626002+00:00",
-  "LastUpdate_Ratings": "2024-05-01T02:59:07.9055864+00:00",
+  "LastUpdate_Ratings": "2024-05-01T04:57:43.1769166+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.6003221+00:00"
 }
