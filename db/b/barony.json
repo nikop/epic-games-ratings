@@ -4,7 +4,7 @@
   "ProductSlug": "barony",
   "Ranking_Rating": 166,
   "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -2502,10 +2502,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 874,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2024-05-01T02:59:08.4469177+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 875,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 874,
+  "NumberOfAwards": 875,
   "NumberOfAwardsMax": 126,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2561,7 +2567,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game is Relaxing",
@@ -2581,8 +2587,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2024-04-30T15:01:16.6390833+00:00",
+  "LastChanged": "2024-05-01T02:59:08.4469174+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:02.0907374+00:00",
-  "LastUpdate_Ratings": "2024-05-01T02:22:21.2307148+00:00",
+  "LastUpdate_Ratings": "2024-05-01T02:59:08.4469186+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:52.4472359+00:00"
 }
