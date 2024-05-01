@@ -2,7 +2,7 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 789,
+  "Ranking_Rating": 777,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 242,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 190,
   "RatingHistory": [
     {
@@ -2385,6 +2385,12 @@
     {
       "Time": "2024-04-30T03:57:52.6235622+00:00",
       "Rating": 4.41,
+      "NumberOfAwards": 516,
+      "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-05-01T03:57:09.6283952+00:00",
+      "Rating": 4.42,
       "NumberOfAwards": 516,
       "NumberOfAwardsMax": 81
     }
@@ -7057,9 +7063,9 @@
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2024-04-30T03:57:52.623562+00:00",
+  "LastChanged": "2024-05-01T03:57:09.628388+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:27.5505742+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:58:17.8877699+00:00",
-  "LastUpdate_Ratings": "2024-05-01T02:23:31.02388+00:00",
+  "LastUpdate_Ratings": "2024-05-01T03:57:09.6283955+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:27.5506045+00:00"
 }

@@ -1,7 +1,7 @@
 # Way of the Hunter
 [Store](https://store.epicgames.com/en-US/p/way-of-the-hunter)  
 [View Rawdata](../../db/w/way_of_the_hunter.json)  
-Rating: 4.41 (Ranked 789)  
+Rating: 4.42 (Ranked 777)  
 Number of Ratings: 190  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -392,3 +392,4 @@ Diff (max vs sum): 75
 | 2024-04-27 | 4.41 | - | 80 | 514 |
 | 2024-04-28 | 4.41 | - | 80 | 515 |
 | 2024-04-30 | 4.41 | - | 81 | 516 |
+| 2024-05-01 | 4.42 | - | 81 | 516 |
