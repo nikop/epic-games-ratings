@@ -4,7 +4,7 @@
   "ProductSlug": "this-war-of-mine",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -2251,10 +2251,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 810,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-05-01T13:03:09.6975511+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 811,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 810,
+  "NumberOfAwards": 811,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2310,7 +2316,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2338,9 +2344,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:40.68032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.8551694+00:00",
-  "LastChanged": "2024-04-29T01:45:37.1081099+00:00",
+  "LastChanged": "2024-05-01T13:03:09.6975507+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:16.3503295+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:05.0224039+00:00",
-  "LastUpdate_Ratings": "2024-05-01T11:57:35.7158667+00:00",
+  "LastUpdate_Ratings": "2024-05-01T13:03:09.6975515+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:16.3503326+00:00"
 }
