@@ -4,7 +4,7 @@
   "ProductSlug": "bioshock-remastered",
   "Ranking_Rating": 363,
   "Ranking_Popularity": 76,
-  "Ranking_PopularitySum": 136,
+  "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -3198,10 +3198,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 7450,
       "NumberOfAwardsMax": 6098
+    },
+    {
+      "Time": "2024-05-01T14:59:09.3003902+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7451,
+      "NumberOfAwardsMax": 6098
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7450,
+  "NumberOfAwards": 7451,
   "NumberOfAwardsMax": 6098,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3215,7 +3221,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 153
+      "Count": 154
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3289,8 +3295,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2024-05-01T10:57:27.9211576+00:00",
+  "LastChanged": "2024-05-01T14:59:09.30039+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:57:50.5671512+00:00",
-  "LastUpdate_Ratings": "2024-05-01T13:58:07.1353474+00:00",
+  "LastUpdate_Ratings": "2024-05-01T14:59:09.3003905+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:28.3548952+00:00"
 }

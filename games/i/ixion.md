@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.60 (Ranked 448)  
+Rating: 4.61 (Ranked 422)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -413,3 +413,4 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-03-21 | 4.60 | 0 | 0 |
 | 2024-04-23 | 4.61 | 0 | 0 |
 | 2024-04-25 | 4.60 | 0 | 0 |
+| 2024-05-01 | 4.61 | 0 | 0 |

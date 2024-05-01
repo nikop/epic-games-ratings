@@ -2,7 +2,7 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 422,
   "Ranking_Popularity": 635,
   "Ranking_PopularitySum": 635,
   "Ranking_EOS_Progress": 236,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2022-12-11T21:57:21.9707652+00:00",
@@ -399,6 +399,12 @@
     {
       "Time": "2024-04-25T15:00:36.0397457+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-01T14:58:08.7901001+00:00",
+      "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -9446,9 +9452,9 @@
   "FirstSeen": "2022-12-07T21:57:33.3706141+00:00",
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
-  "LastChanged": "2024-04-25T15:00:36.0397455+00:00",
+  "LastChanged": "2024-05-01T14:58:08.7900999+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:47.6308566+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:20.7141142+00:00",
-  "LastUpdate_Ratings": "2024-05-01T13:04:14.5018613+00:00",
+  "LastUpdate_Ratings": "2024-05-01T14:58:08.7901007+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:47.6309288+00:00"
 }

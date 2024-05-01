@@ -3,7 +3,7 @@
   "Name": "CRSED: Cuisine Royale",
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 909,
-  "Ranking_Popularity": 398,
+  "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -1654,11 +1654,17 @@
       "Rating": 4.32,
       "NumberOfAwards": 821,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2024-05-01T14:58:16.7961962+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 822,
+      "NumberOfAwardsMax": 112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 821,
-  "NumberOfAwardsMax": 111,
+  "NumberOfAwards": 822,
+  "NumberOfAwardsMax": 112,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1677,7 +1683,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 111
+      "Count": 112
     },
     {
       "Text": "This game has Competitive Players",
@@ -1751,8 +1757,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2024-04-29T23:59:24.8371691+00:00",
+  "LastChanged": "2024-05-01T14:58:16.796196+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:24.7963893+00:00",
-  "LastUpdate_Ratings": "2024-05-01T13:04:26.0124353+00:00",
+  "LastUpdate_Ratings": "2024-05-01T14:58:16.7961966+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:30.2001373+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/s/sins_of_a_solar_empire_2.json)  
 Rating: 4.58 (Ranked 486)  
 ## Awards
-Max (Great for Beginners): 59  (Ranked 477)  
-Sum: 275 (Ranked 430)  
-Diff (max vs sum): 47  
+Max (Great for Beginners): 62  (Ranked 470)  
+Sum: 278 (Ranked 428)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 59 |
+| This game is Great for Beginners | 62 |
 | This game is Highly Recommended | 36 |
 | This game is Extremely Fun | 33 |
 | This game is Relaxing | 28 |
@@ -143,3 +143,4 @@ Diff (max vs sum): 47
 | 2024-04-27 | 4.58 | 58 | 219 |
 | 2024-04-29 | 4.58 | 58 | 220 |
 | 2024-04-30 | 4.58 | 59 | 275 |
+| 2024-05-01 | 4.58 | 62 | 278 |
