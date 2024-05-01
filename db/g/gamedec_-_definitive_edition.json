@@ -3,8 +3,8 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 934,
-  "Ranking_Popularity": 400,
-  "Ranking_PopularitySum": 507,
+  "Ranking_Popularity": 399,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -589,18 +589,24 @@
       "Rating": 4.29,
       "NumberOfAwards": 106,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-05-01T06:57:07.7226229+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 107,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 106,
-  "NumberOfAwardsMax": 106,
+  "NumberOfAwards": 107,
+  "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 106
+      "Count": 107
     }
   ],
   "EOS_Progressed": 264148,
@@ -32691,9 +32697,9 @@
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "LastChanged": "2024-04-26T16:57:46.1339047+00:00",
+  "LastChanged": "2024-05-01T06:57:07.7226227+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:41.4168497+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:20.0601535+00:00",
-  "LastUpdate_Ratings": "2024-05-01T04:58:42.2945351+00:00",
+  "LastUpdate_Ratings": "2024-05-01T06:57:07.7226232+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:41.4170001+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3a75347fa792448385b55a73a8bc5625",
   "Name": "Torque Drift 2",
   "ProductSlug": "torque-drift-2-b08765",
-  "Ranking_Rating": 1149,
+  "Ranking_Rating": 1146,
   "Ranking_Popularity": 635,
   "Ranking_PopularitySum": 635,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.84,
+  "Rating": 3.85,
   "RatingHistory": [
     {
       "Time": "2023-12-08T05:58:56.9310334+00:00",
@@ -275,6 +275,12 @@
       "Rating": 3.84,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-01T06:59:36.5057915+00:00",
+      "Rating": 3.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -293,8 +299,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-03T05:57:43.1380332+00:00",
   "FirstSeenRating": "2023-12-08T05:58:56.9310331+00:00",
-  "LastChanged": "2024-04-15T04:59:20.5789803+00:00",
+  "LastChanged": "2024-05-01T06:59:36.5057912+00:00",
   "LastUpdate_AppInfo": "2024-04-29T20:58:53.4112979+00:00",
-  "LastUpdate_Ratings": "2024-05-01T05:58:25.9880672+00:00",
+  "LastUpdate_Ratings": "2024-05-01T06:59:36.5057919+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:47.6272227+00:00"
 }
