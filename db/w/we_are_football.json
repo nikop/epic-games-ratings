@@ -3,8 +3,8 @@
   "Name": "WE ARE FOOTBALL",
   "ProductSlug": "we-are-football",
   "Ranking_Rating": 920,
-  "Ranking_Popularity": 635,
-  "Ranking_PopularitySum": 635,
+  "Ranking_Popularity": 634,
+  "Ranking_PopularitySum": 634,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -195,6 +195,6 @@
   "FirstSeenRating": "2022-09-05T19:30:54.6319305+00:00",
   "LastChanged": "2024-03-09T19:59:08.6902356+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:46.3561545+00:00",
-  "LastUpdate_Ratings": "2024-05-01T15:58:22.9910145+00:00",
+  "LastUpdate_Ratings": "2024-05-01T17:00:30.2764239+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:19.8095093+00:00"
 }
