@@ -4,7 +4,7 @@
   "ProductSlug": "kards-the-world-war-ii-card-game",
   "Ranking_Rating": 830,
   "Ranking_Popularity": 213,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -3981,10 +3981,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 4569,
       "NumberOfAwardsMax": 678
+    },
+    {
+      "Time": "2024-05-01T10:57:05.2486948+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 4136,
+      "NumberOfAwardsMax": 678
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4569,
+  "NumberOfAwards": 4136,
   "NumberOfAwardsMax": 678,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4060,8 +4066,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2024-05-01T05:59:23.1052441+00:00",
+  "LastChanged": "2024-05-01T10:57:05.2486946+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:57:40.090334+00:00",
-  "LastUpdate_Ratings": "2024-05-01T08:59:17.8922111+00:00",
+  "LastUpdate_Ratings": "2024-05-01T10:57:05.2486952+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:04.6053628+00:00"
 }

@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.74 (Ranked 165)  
+Rating: 4.74 (Ranked 166)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -339,7 +339,7 @@ Completed: 702 (0.17%) (Ranked 331)
 | 2024-04-10 | 403,634 | 702 |
 ## Awards
 Max (Character Customization): 37,720  (Ranked 17)  
-Sum: 83,359 (Ranked 22)  
+Sum: 83,365 (Ranked 22)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): -5
 | This game is Highly Recommended | 2,524 |
 | This game has Amazing Characters | 2,492 |
 | This game has Quickly Understood Controls | 2,368 |
-| This game has Beautiful Visuals | 2,244 |
+| This game has Beautiful Visuals | 2,250 |
 | This game has a Creative Community | 1,608 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -762,4 +762,4 @@ Diff (max vs sum): -5
 | 2024-04-28 | 4.74 | 37,677 | 83,133 |
 | 2024-04-29 | 4.74 | 37,701 | 83,245 |
 | 2024-04-30 | 4.74 | 37,720 | 83,332 |
-| 2024-05-01 | 4.74 | 37,720 | 83,359 |
+| 2024-05-01 | 4.74 | 37,720 | 83,365 |
