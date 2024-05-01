@@ -3,8 +3,8 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 166,
-  "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 366,
+  "Ranking_Popularity": 388,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1175,18 +1175,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 499,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-04-30T23:59:14.3474627+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 505,
+      "NumberOfAwardsMax": 117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 499,
-  "NumberOfAwardsMax": 114,
+  "NumberOfAwards": 505,
+  "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 114
+      "Count": 117
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1198,7 +1204,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1234,7 +1240,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1279,8 +1285,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-04-30T22:57:30.749387+00:00",
+  "LastChanged": "2024-04-30T23:59:14.3474626+00:00",
   "LastUpdate_AppInfo": "2024-04-24T20:57:16.7806198+00:00",
-  "LastUpdate_Ratings": "2024-04-30T22:57:30.7493873+00:00",
+  "LastUpdate_Ratings": "2024-04-30T23:59:14.3474631+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
