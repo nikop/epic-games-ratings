@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 292,
+  "Ranking_Rating": 293,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 21,
@@ -14949,10 +14949,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 31512,
       "NumberOfAwardsMax": 10484
+    },
+    {
+      "Time": "2024-05-01T02:22:20.8426442+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 31566,
+      "NumberOfAwardsMax": 10484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31512,
+  "NumberOfAwards": 31566,
   "NumberOfAwardsMax": 10484,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14984,13 +14990,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1550
+      "Count": 1571
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1295
+      "Count": 1312
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15020,7 +15026,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1545
+      "Count": 1561
     },
     {
       "Text": "This game is Great for Beginners",
@@ -44792,9 +44798,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-04-30T22:57:48.2935628+00:00",
+  "LastChanged": "2024-05-01T02:22:20.842644+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.6001653+00:00",
   "LastUpdate_AppInfo": "2024-04-26T23:57:05.1626002+00:00",
-  "LastUpdate_Ratings": "2024-04-30T23:59:33.9326096+00:00",
+  "LastUpdate_Ratings": "2024-05-01T02:22:20.8426446+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.6003221+00:00"
 }
