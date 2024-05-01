@@ -5,7 +5,7 @@ Rating: 4.82 (Ranked 70)
 Number of Ratings: 4,283  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 1,828  (Ranked 137)  
-Sum: 13,817 (Ranked 89)  
+Sum: 13,823 (Ranked 89)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 48
 | This game is Relaxing | 1,707 |
 | This game has Diverse Characters | 1,703 |
 | This game is Highly Recommended | 1,661 |
-| This game has Quickly Understood Controls | 1,640 |
+| This game has Quickly Understood Controls | 1,646 |
 | This game has Challenging Combat | 404 |
 | This game has Obsessive Gameplay | 269 |
 | This game has a Creative Community | 79 |
@@ -489,4 +489,4 @@ Diff (max vs sum): 48
 | 2024-04-28 | 4.82 | - | 1,818 | 13,729 |
 | 2024-04-29 | 4.82 | - | 1,822 | 13,771 |
 | 2024-04-30 | 4.82 | - | 1,828 | 13,814 |
-| 2024-05-01 | 4.82 | - | 1,828 | 13,817 |
+| 2024-05-01 | 4.82 | - | 1,828 | 13,823 |
