@@ -2,7 +2,7 @@
   "ID": "c37115918ccc4969a57b6b1bdc28af4a",
   "Name": "Tiny Tina\u0027s Wonderlands",
   "ProductSlug": "tiny-tinas-wonderlands",
-  "Ranking_Rating": 516,
+  "Ranking_Rating": 515,
   "Ranking_Popularity": 23,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 985,
@@ -15167,10 +15167,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 42506,
       "NumberOfAwardsMax": 23762
+    },
+    {
+      "Time": "2024-05-01T06:00:19.7434643+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 42507,
+      "NumberOfAwardsMax": 23762
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42506,
+  "NumberOfAwards": 42507,
   "NumberOfAwardsMax": 23762,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -15184,7 +15190,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2378
+      "Count": 2379
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15246,8 +15252,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2024-05-01T04:57:47.3072717+00:00",
+  "LastChanged": "2024-05-01T06:00:19.7434641+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:03.5562049+00:00",
-  "LastUpdate_Ratings": "2024-05-01T04:57:47.3072735+00:00",
+  "LastUpdate_Ratings": "2024-05-01T06:00:19.7434647+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:37.0698011+00:00"
 }

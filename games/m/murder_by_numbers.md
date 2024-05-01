@@ -1,7 +1,7 @@
 # Murder by Numbers
 [Store](https://store.epicgames.com/en-US/p/murder-by-numbers)  
 [View Rawdata](../../db/m/murder_by_numbers.json)  
-Rating: 4.28 (Ranked 946)  
+Rating: 4.28 (Ranked 947)  
 ## Awards
 Max (Diverse Characters): 25  (Ranked 601)  
 Sum: 153 (Ranked 483)  

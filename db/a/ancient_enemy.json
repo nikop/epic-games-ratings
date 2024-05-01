@@ -2,8 +2,8 @@
   "ID": "138c9362d8ff4c239076bc556e18cdac",
   "Name": "Ancient Enemy",
   "ProductSlug": "ancient-enemy",
-  "Ranking_Rating": 1128,
-  "Ranking_Popularity": 513,
+  "Ranking_Rating": 1129,
+  "Ranking_Popularity": 514,
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -800,6 +800,6 @@
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
   "LastChanged": "2024-02-14T20:58:34.6579864+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:57:31.1034283+00:00",
-  "LastUpdate_Ratings": "2024-05-01T04:00:09.6002389+00:00",
+  "LastUpdate_Ratings": "2024-05-01T05:58:58.2974544+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:16.6173239+00:00"
 }
