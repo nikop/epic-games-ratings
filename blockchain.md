@@ -52,6 +52,7 @@
 | [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-06-30 | - |  | - | - |
 | [EARLY ACCESS: What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-05-31 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-05-31 | - |  | - | - |
+| [Storm Warfare](games/a/a6cce5235d144efbb511ecb062b26013.md) | 2024-05-01 | - |  | - | - |
 | [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2024-04-30 | - |  | - | 0 |
 | [FusyFox](games/6/6308f89d537b47ea96dc02fb5a07518c.md) | 2024-04-30 | - |  | - | 0 |
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
@@ -63,7 +64,7 @@
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | - |
 | [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
 | [Solars Dominion](games/0/0c71144a77c14ac9a7d796a4821c8cf8.md) | 2024-03-31 | - |  | - | - |
-| [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | - |  | - | - |
+| [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | - |  | - | 0 |
 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 2024-03-11 | - |  | 5.00 | 21 |
 | [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-03-04 | - |  | - | 0 |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | 4.56 | 0 |
@@ -76,7 +77,7 @@
 | [Bladerite](games/7/7e5f7d87c17c4e68b5e200306aa46344.md) | 2024-02-01 | - |  | - | 0 |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | 0 |
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
-| [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-20 | - |  | 4.00 | 0 |
+| [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-20 | - |  | 3.99 | 0 |
 | [Take The Throne](games/8/8dc19fa4313c42a497f638648541243e.md) | 2024-01-20 | - |  | - | 0 |
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2024-01-10 | - |  | - | 0 |
 | [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | 0 |
@@ -88,7 +89,7 @@
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | 4.36 | 39 |
-| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.74 | 117 |
+| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.75 | 117 |
 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 2023-11-21 | - |  | 4.40 | 0 |
 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 2023-11-15 | - |  | 4.20 | 0 |
 | [Meta Lordz](games/6/63d008723df74b828d6916c39b26052d.md) | 2023-11-06 | - |  | - | 0 |
