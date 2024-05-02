@@ -352,7 +352,7 @@
 | 342 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 239 | 306 |
 | 342 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 61 | 473 |
 | 342 | [Northgard](games/n/northgard.md) | 4.65 | 47 | 508 |
-| 342 | [Old World](games/o/old_world.md) | 4.65 | 242 | 303 |
+| 342 | [Old World](games/o/old_world.md) | 4.65 | 243 | 303 |
 | 342 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,196 | 158 |
 | 342 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 62 | 471 |
 | 342 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.65 | 0 | 634 |
@@ -637,7 +637,7 @@
 | 623 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.51 | 0 | 634 |
 | 623 | [Railway Empire](games/r/railway_empire.md) | 4.51 | 392 | 255 |
 | 623 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 1,075 | 170 |
-| 623 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 9,953 | 50 |
+| 623 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 9,958 | 50 |
 | 623 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 78 | 448 |
 | 623 | [The Medium](games/t/the_medium.md) | 4.51 | 0 | 634 |
 | 623 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 634 |
@@ -653,7 +653,7 @@
 | 643 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 159,168 | 8 |
 | 643 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 123 | 382 |
 | 643 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 634 |
-| 643 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 698 | 205 |
+| 643 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 699 | 205 |
 | 643 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 33 | 555 |
 | 643 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.50 | 20 | 629 |
 | 643 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,314 | 40 |
@@ -755,7 +755,7 @@
 | 743 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 634 |
 | 743 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 634 |
 | 743 | [Star Renegades](games/s/star_renegades.md) | 4.44 | 0 | 634 |
-| 743 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 698 | 205 |
+| 743 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 698 | 206 |
 | 743 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 416 |
 | 743 | [The Colonists](games/t/the_colonists.md) | 4.44 | 0 | 634 |
 | 743 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.44 | 253 | 298 |
