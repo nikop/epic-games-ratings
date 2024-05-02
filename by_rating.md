@@ -270,7 +270,7 @@
 | 250 | [The Witness](games/t/the_witness.md) | 4.69 | 198 | 330 |
 | 250 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.69 | 0 | 634 |
 | 250 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 634 |
-| 250 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,155 | 160 |
+| 250 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,155 | 161 |
 | 250 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 634 |
 | 273 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,734 | 91 |
 | 273 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 795 | 200 |
@@ -299,7 +299,7 @@
 | 293 | [Dungeons 4](games/d/dungeons_4.md) | 4.67 | 0 | 634 |
 | 293 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 634 |
 | 293 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,009 | 179 |
-| 293 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 339,208 | 4 |
+| 293 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 339,319 | 4 |
 | 293 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 533 | 231 |
 | 293 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 634 |
 | 293 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,378 | 120 |
@@ -399,7 +399,7 @@
 | 379 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,848 | 135 |
 | 398 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 634 |
 | 398 | [Art of Rally](games/a/art_of_rally_1.md) | 4.62 | 88 | 430 |
-| 398 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 1,154 | 161 |
+| 398 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 1,158 | 160 |
 | 398 | [Darkwood](games/d/darkwood.md) | 4.62 | 336 | 272 |
 | 398 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.62 | 83 | 437 |
 | 398 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 169 | 354 |
