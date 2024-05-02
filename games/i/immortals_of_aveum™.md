@@ -179,8 +179,8 @@ Completed: 7 (0.17%) (Ranked 331)
 | 2024-03-21 | 4,028 | 7 |
 | 2024-04-10 | 4,112 | 7 |
 ## Awards
-Max (Amazing Characters): 32  (Ranked 559)  
-Sum: 160 (Ranked 481)  
+Max (Amazing Characters): 32  (Ranked 560)  
+Sum: 160 (Ranked 482)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |

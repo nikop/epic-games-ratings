@@ -3,8 +3,8 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 36,
-  "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 566,
+  "Ranking_Popularity": 515,
+  "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 53,
@@ -367,18 +367,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-05-02T01:42:29.1167653+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 44
+      "Count": 45
     }
   ],
   "EOS_Progressed": 2965,
@@ -7027,9 +7033,9 @@
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged": "2024-04-29T08:57:10.458192+00:00",
+  "LastChanged": "2024-05-02T01:42:29.1167652+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:53.0800144+00:00",
   "LastUpdate_AppInfo": "2024-05-01T16:57:13.9336148+00:00",
-  "LastUpdate_Ratings": "2024-05-01T23:00:01.0212511+00:00",
+  "LastUpdate_Ratings": "2024-05-02T01:42:29.1167658+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:53.0800688+00:00"
 }

@@ -3,8 +3,8 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.71 (Ranked 205)  
 ## Awards
-Max (Extremely Fun): 30  (Ranked 570)  
-Sum: 150 (Ranked 484)  
+Max (Extremely Fun): 30  (Ranked 571)  
+Sum: 150 (Ranked 485)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
