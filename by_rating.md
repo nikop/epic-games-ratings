@@ -80,7 +80,7 @@
 | 70 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 80 | 441 |
 | 79 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,502 | 116 |
 | 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 634 |
-| 79 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.81 | 248 | 299 |
+| 79 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.81 | 252 | 299 |
 | 79 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 634 |
 | 79 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 634 |
 | 79 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 634 |
@@ -437,7 +437,7 @@
 | 422 | [MudRunner](games/m/mudrunner.md) | 4.61 | 343 | 268 |
 | 422 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 634 |
 | 422 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 807 | 197 |
-| 422 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,322 | 45 |
+| 422 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,327 | 45 |
 | 422 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,133 | 163 |
 | 422 | [Supraland](games/s/supraland.md) | 4.61 | 7,857 | 63 |
 | 422 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 600 | 224 |
@@ -864,7 +864,7 @@
 | 862 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.36 | 50 | 502 |
 | 862 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 634 |
 | 862 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 178 | 342 |
-| 862 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,909 | 38 |
+| 862 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,911 | 38 |
 | 862 | [Flatout](games/f/flatout.md) | 4.36 | 0 | 634 |
 | 862 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.36 | 0 | 634 |
 | 862 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 0 | 634 |
@@ -872,20 +872,20 @@
 | 862 | [MetalCore](games/m/metalcore.md) | 4.36 | 41 | 524 |
 | 862 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 586 |
 | 862 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 53 | 494 |
-| 862 | [The Big Con](games/t/the_big_con.md) | 4.36 | 0 | 634 |
 | 862 | [Torchlight](games/t/torchlight.md) | 4.36 | 25 | 602 |
 | 862 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 174 | 348 |
 | 862 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.36 | 33 | 554 |
-| 877 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 130 | 376 |
-| 877 | [Encased](games/e/encased.md) | 4.35 | 179 | 341 |
-| 877 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.35 | 0 | 634 |
-| 877 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 634 |
-| 877 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 210 | 322 |
-| 877 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 634 |
-| 877 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 634 |
-| 877 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.35 | 292 | 285 |
-| 877 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 284 | 288 |
-| 877 | [Speed Brawl](games/s/speed_brawl.md) | 4.35 | 30 | 571 |
+| 876 | [BIOMUTANT](games/b/biomutant.md) | 4.35 | 130 | 376 |
+| 876 | [Encased](games/e/encased.md) | 4.35 | 179 | 341 |
+| 876 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.35 | 0 | 634 |
+| 876 | [Hammerting](games/h/hammerting.md) | 4.35 | 0 | 634 |
+| 876 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 210 | 322 |
+| 876 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 634 |
+| 876 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 634 |
+| 876 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.35 | 292 | 285 |
+| 876 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 284 | 288 |
+| 876 | [Speed Brawl](games/s/speed_brawl.md) | 4.35 | 30 | 571 |
+| 876 | [The Big Con](games/t/the_big_con.md) | 4.35 | 0 | 634 |
 | 887 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 586 |
 | 887 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 634 |
 | 887 | [Core](games/c/core.md) | 4.34 | 806 | 198 |
