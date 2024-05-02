@@ -14163,18 +14163,24 @@
       "Rating": 4.26,
       "NumberOfAwards": 117602,
       "NumberOfAwardsMax": 23937
+    },
+    {
+      "Time": "2024-05-02T14:58:30.0065509+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 117726,
+      "NumberOfAwardsMax": 23976
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 117602,
-  "NumberOfAwardsMax": 23937,
+  "NumberOfAwards": 117726,
+  "NumberOfAwardsMax": 23976,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23937
+      "Count": 23976
     },
     {
       "Text": "This game has a Competitive Community",
@@ -14186,7 +14192,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 11561
+      "Count": 11591
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14198,13 +14204,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 12738
+      "Count": 12771
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12606
+      "Count": 12628
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -29879,9 +29885,9 @@
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
-  "LastChanged": "2024-05-02T13:04:15.3005363+00:00",
+  "LastChanged": "2024-05-02T14:58:30.0065504+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:24.5857519+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:26.958969+00:00",
-  "LastUpdate_Ratings": "2024-05-02T13:04:15.3005368+00:00",
+  "LastUpdate_Ratings": "2024-05-02T14:58:30.0065514+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:24.585848+00:00"
 }
