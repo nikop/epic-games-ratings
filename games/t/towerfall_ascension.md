@@ -1,7 +1,7 @@
 # TowerFall Ascension
 [Store](https://store.epicgames.com/en-US/p/towerfall-ascension)  
 [View Rawdata](../../db/t/towerfall_ascension.json)  
-Rating: 4.72 (Ranked 193)  
+Rating: 4.73 (Ranked 182)  
 Number of Ratings: 32  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -37,3 +37,4 @@ Number of Ratings: 32  (23.09.2022)
 | 2023-10-12 | 4.70 | - | 0 | 0 |
 | 2024-03-03 | 4.71 | - | 0 | 0 |
 | 2024-04-14 | 4.72 | - | 0 | 0 |
+| 2024-05-02 | 4.73 | - | 0 | 0 |

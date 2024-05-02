@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 515)
 Number of Ratings: 20,753  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 23,774  (Ranked 23)  
-Sum: 42,534 (Ranked 39)  
+Sum: 42,536 (Ranked 39)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -16
 | This game is Extremely Fun | 2,357 |
 | This game is Highly Recommended | 2,315 |
 | This game has Quickly Understood Controls | 2,312 |
-| This game is Relaxing | 2,280 |
+| This game is Relaxing | 2,282 |
 | This game has Amazing Characters | 2,258 |
 | This game has Obsessive Gameplay | 1,206 |
 ## Ratings History
@@ -485,4 +485,4 @@ Diff (max vs sum): -16
 | 2024-04-29 | 4.57 | - | 23,748 | 42,482 |
 | 2024-04-30 | 4.57 | - | 23,757 | 42,497 |
 | 2024-05-01 | 4.57 | - | 23,762 | 42,517 |
-| 2024-05-02 | 4.57 | - | 23,774 | 42,534 |
+| 2024-05-02 | 4.57 | - | 23,774 | 42,536 |
