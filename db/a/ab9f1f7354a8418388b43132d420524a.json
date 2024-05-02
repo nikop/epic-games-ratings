@@ -2,9 +2,9 @@
   "ID": "ab9f1f7354a8418388b43132d420524a",
   "Name": "Town of Salem 2",
   "ProductSlug": "town-of-salem-2-ab6497",
-  "Ranking_Rating": 606,
-  "Ranking_Popularity": 634,
-  "Ranking_PopularitySum": 634,
+  "Ranking_Rating": 605,
+  "Ranking_Popularity": 635,
+  "Ranking_PopularitySum": 635,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -224,5 +224,5 @@
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
   "LastChanged": "2024-05-02T18:58:05.3926987+00:00",
   "LastUpdate_AppInfo": "2024-05-02T17:57:26.1098865+00:00",
-  "LastUpdate_Ratings": "2024-05-02T21:57:12.1789212+00:00"
+  "LastUpdate_Ratings": "2024-05-02T22:59:02.0816578+00:00"
 }

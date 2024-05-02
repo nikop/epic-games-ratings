@@ -3,8 +3,8 @@
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
   "Ranking_Rating": 569,
-  "Ranking_Popularity": 634,
-  "Ranking_PopularitySum": 634,
+  "Ranking_Popularity": 635,
+  "Ranking_PopularitySum": 635,
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 41,
@@ -1888,6 +1888,6 @@
   "LastChanged": "2024-05-01T01:47:35.0869174+00:00",
   "LastChanged_Achievements": "2024-04-10T06:07:06.4037628+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:58:24.1159804+00:00",
-  "LastUpdate_Ratings": "2024-05-02T21:57:03.3830876+00:00",
+  "LastUpdate_Ratings": "2024-05-02T22:58:51.6109089+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:06.4038086+00:00"
 }

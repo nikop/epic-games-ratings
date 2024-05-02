@@ -10029,10 +10029,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 14170,
       "NumberOfAwardsMax": 5255
+    },
+    {
+      "Time": "2024-05-02T23:00:29.7689091+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 14185,
+      "NumberOfAwardsMax": 5255
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14170,
+  "NumberOfAwards": 14185,
   "NumberOfAwardsMax": 5255,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10052,13 +10058,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1524
+      "Count": 1526
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 941
+      "Count": 943
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -10076,7 +10082,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 811
+      "Count": 813
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10088,13 +10094,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1770
+      "Count": 1776
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 799
+      "Count": 802
     }
   ],
   "EOS_Progressed": 0,
@@ -10109,8 +10115,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2024-05-02T14:57:21.1012135+00:00",
+  "LastChanged": "2024-05-02T23:00:29.7689089+00:00",
   "LastUpdate_AppInfo": "2024-04-26T14:57:22.5945078+00:00",
-  "LastUpdate_Ratings": "2024-05-02T21:58:27.0782771+00:00",
+  "LastUpdate_Ratings": "2024-05-02T23:00:29.7689096+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:13.4068998+00:00"
 }
