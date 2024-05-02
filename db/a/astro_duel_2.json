@@ -3,8 +3,8 @@
   "Name": "Astro Duel 2",
   "ProductSlug": "astro-duel-2-e1261d",
   "Ranking_Rating": 165,
-  "Ranking_Popularity": 629,
-  "Ranking_PopularitySum": 629,
+  "Ranking_Popularity": 623,
+  "Ranking_PopularitySum": 624,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -209,18 +209,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-05-02T16:59:00.9658855+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 133050,
@@ -496,9 +502,9 @@
   "FirstSeen": "2024-03-07T19:58:35.1487767+00:00",
   "FirstSeenRating": "2024-03-10T21:58:46.5307453+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:06.8606043+00:00",
-  "LastChanged": "2024-04-30T09:57:39.2727343+00:00",
+  "LastChanged": "2024-05-02T16:59:00.9658853+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:35.9567643+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:24.3439633+00:00",
-  "LastUpdate_Ratings": "2024-05-02T15:57:02.8071802+00:00",
+  "LastUpdate_Ratings": "2024-05-02T16:59:00.9658859+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:35.9568162+00:00"
 }

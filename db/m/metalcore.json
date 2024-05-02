@@ -2,9 +2,9 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 524,
-  "Ranking_PopularitySum": 401,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -593,10 +593,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 349,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-05-02T16:58:07.8678869+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 353,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 349,
+  "NumberOfAwards": 353,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -664,7 +670,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24
+      "Count": 28
     },
     {
       "Text": "This game is Relaxing",
@@ -691,8 +697,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-05-02T08:59:40.7193912+00:00",
+  "LastChanged": "2024-05-02T16:58:07.8678867+00:00",
   "LastUpdate_AppInfo": "2024-04-28T11:57:03.8563016+00:00",
-  "LastUpdate_Ratings": "2024-05-02T14:59:54.3172545+00:00",
+  "LastUpdate_Ratings": "2024-05-02T16:58:07.8678873+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }

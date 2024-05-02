@@ -4,7 +4,7 @@
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 100,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -2428,10 +2428,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1425,
       "NumberOfAwardsMax": 181
+    },
+    {
+      "Time": "2024-05-02T16:58:31.4198632+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1427,
+      "NumberOfAwardsMax": 181
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1425,
+  "NumberOfAwards": 1427,
   "NumberOfAwardsMax": 181,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2475,7 +2481,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 151
+      "Count": 153
     },
     {
       "Text": "This game is Relaxing",
@@ -2513,8 +2519,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-04-29T18:57:28.9300784+00:00",
+  "LastChanged": "2024-05-02T16:58:31.419863+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:13.8442824+00:00",
-  "LastUpdate_Ratings": "2024-05-02T15:00:23.8253553+00:00",
+  "LastUpdate_Ratings": "2024-05-02T16:58:31.4198636+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:22.006308+00:00"
 }
