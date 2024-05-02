@@ -107,7 +107,7 @@
 | 100 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 613 |
 | 100 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,648 | 142 |
 | 100 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 948 | 181 |
-| 100 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,929 | 111 |
+| 100 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,931 | 111 |
 | 100 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 438 | 248 |
 | 100 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 123 | 382 |
 | 100 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.79 | 0 | 634 |
@@ -150,7 +150,7 @@
 | 148 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.75 | 0 | 634 |
 | 148 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,373 | 61 |
 | 148 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 634 |
-| 148 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,087 | 168 |
+| 148 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,089 | 168 |
 | 148 | [Fez](games/f/fez.md) | 4.75 | 26 | 593 |
 | 148 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,632 | 143 |
 | 148 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 634 |
@@ -589,7 +589,7 @@
 | 569 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 634 |
 | 569 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 414 | 253 |
 | 589 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 634 |
-| 589 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,785 | 19 |
+| 589 | [Dauntless](games/d/dauntless.md) | 4.53 | 28,812 | 19 |
 | 589 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 532 |
 | 589 | [Everything](games/e/everything.md) | 4.53 | 0 | 634 |
 | 589 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 634 |
@@ -746,7 +746,7 @@
 | 743 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 634 |
 | 743 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 279 | 290 |
 | 743 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 74,802 | 11 |
-| 743 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 340 | 270 |
+| 743 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 341 | 269 |
 | 743 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.44 | 0 | 634 |
 | 743 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 390 |
 | 743 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,122 | 31 |
@@ -1114,7 +1114,7 @@
 | 1,110 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 634 |
 | 1,110 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,771 | 51 |
 | 1,114 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.00 | 0 | 634 |
-| 1,114 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,141 | 87 |
+| 1,114 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,143 | 87 |
 | 1,114 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 634 |
 | 1,117 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 387 | 257 |
 | 1,117 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.99 | 0 | 634 |
