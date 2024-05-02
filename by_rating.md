@@ -449,7 +449,7 @@
 | 422 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 840 | 195 |
 | 422 | [Witchfire](games/w/witchfire.md) | 4.61 | 125 | 380 |
 | 449 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 911 | 188 |
-| 449 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 140 | 367 |
+| 449 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 141 | 366 |
 | 449 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,699 | 25 |
 | 449 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 421 | 251 |
 | 449 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 93 | 425 |
@@ -726,20 +726,20 @@
 | 719 | [DEATHLOOP](games/d/deathloop.md) | 4.45 | 88 | 430 |
 | 719 | [ELEX](games/e/elex.md) | 4.45 | 27 | 586 |
 | 719 | [Faeria](games/f/faeria.md) | 4.45 | 119 | 388 |
-| 719 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.45 | 140 | 367 |
+| 719 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.45 | 140 | 368 |
 | 719 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.45 | 0 | 634 |
 | 719 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.45 | 54 | 491 |
 | 719 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 634 |
 | 719 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.45 | 0 | 634 |
 | 719 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 934 | 186 |
-| 719 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 807,946 | 2 |
+| 719 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 809,001 | 2 |
 | 719 | [Scorn](games/s/scorn.md) | 4.45 | 0 | 634 |
 | 719 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.45 | 0 | 634 |
 | 719 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 634 |
 | 719 | [STG Football](games/s/stg_football.md) | 4.45 | 55 | 487 |
 | 719 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 309 | 278 |
 | 719 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.45 | 0 | 634 |
-| 719 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 140 | 367 |
+| 719 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 140 | 368 |
 | 719 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 634 |
 | 719 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 4.45 | 0 | 634 |
 | 743 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.44 | 46 | 510 |
@@ -1112,7 +1112,7 @@
 | 1,110 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 634 |
 | 1,110 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.01 | 25 | 602 |
 | 1,110 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 634 |
-| 1,110 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,733 | 51 |
+| 1,110 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,771 | 51 |
 | 1,114 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.00 | 0 | 634 |
 | 1,114 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,141 | 87 |
 | 1,114 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 634 |
