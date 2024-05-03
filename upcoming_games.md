@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [SU - Unlocking the 4th Dimension](games/0/0f03319acbc0407eb2585c62d77d2510.md) | 2024-05-03 | - |  | - | - |
 | [Redline](games/6/605a466d713147fdaa8c06d008d31101.md) | 2024-05-03 | - |  | - | - |
 | [Space Accident](games/1/18efd480ed4549688383b6036df07bc2.md) | 2024-05-03 | - |  | - | - |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2024-05-03 | - |  | - | - |
