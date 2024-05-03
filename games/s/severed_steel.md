@@ -346,7 +346,7 @@ Completed: 80 (0.01%) (Ranked 431)
 | 2024-04-10 | 661,356 | 80 |
 ## Awards
 Max (Great Boss Battles): 602  (Ranked 223)  
-Sum: 806 (Ranked 321)  
+Sum: 807 (Ranked 321)  
 Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
@@ -360,7 +360,7 @@ Diff (max vs sum): -98
 | This game has Competitive Players | 22 |
 | This game has Amazing Characters | 21 |
 | This game has Unique Visuals | 21 |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -595,3 +595,4 @@ Diff (max vs sum): -98
 | 2024-04-30 | 4.69 | 600 | 803 |
 | 2024-05-01 | 4.69 | 602 | 805 |
 | 2024-05-02 | 4.69 | 602 | 806 |
+| 2024-05-03 | 4.69 | 602 | 807 |
