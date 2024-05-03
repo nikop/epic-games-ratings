@@ -3,7 +3,7 @@
   "Name": "The Walking Dead : The Definitive Series",
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 20,
-  "Ranking_Popularity": 207,
+  "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -2224,18 +2224,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1060,
       "NumberOfAwardsMax": 695
+    },
+    {
+      "Time": "2024-05-03T01:46:36.4562062+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1063,
+      "NumberOfAwardsMax": 698
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1060,
-  "NumberOfAwardsMax": 695,
+  "NumberOfAwards": 1063,
+  "NumberOfAwardsMax": 698,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 695
+      "Count": 698
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2315,8 +2321,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-04-29T19:00:17.8657186+00:00",
+  "LastChanged": "2024-05-03T01:46:36.456206+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:21.9093928+00:00",
-  "LastUpdate_Ratings": "2024-05-02T23:57:40.8383677+00:00",
+  "LastUpdate_Ratings": "2024-05-03T01:46:36.4562065+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:21.20015+00:00"
 }
