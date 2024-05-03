@@ -4,7 +4,7 @@
   "ProductSlug": "seekers-of-tokane-a5986d",
   "Ranking_Rating": 642,
   "Ranking_Popularity": 624,
-  "Ranking_PopularitySum": 624,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -353,10 +353,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-05-03T08:58:45.1734638+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
+  "NumberOfAwards": 41,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -365,6 +371,12 @@
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -379,8 +391,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-05-02T22:00:09.9598883+00:00",
+  "LastChanged": "2024-05-03T08:58:45.1734636+00:00",
   "LastUpdate_AppInfo": "2024-05-02T21:57:02.0750338+00:00",
-  "LastUpdate_Ratings": "2024-05-03T06:59:38.7648378+00:00",
+  "LastUpdate_Ratings": "2024-05-03T08:58:45.1734641+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:24.9528222+00:00"
 }
