@@ -13,7 +13,7 @@
 | 11 | [Destiny 2](games/d/destiny_2.md) | 74,866 | 4.44 | 739 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 68,764 | 4.58 | 485 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 60,225 | 4.61 | 422 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,112 | 4.74 | 165 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,154 | 4.74 | 165 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,305 | 4.51 | 622 |
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 45,173 | 4.72 | 194 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,776 | 4.74 | 165 |
@@ -22,7 +22,7 @@
 | 20 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 27,425 | 4.13 | 1,076 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 27,315 | 4.89 | 12 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 23,976 | 4.26 | 967 |
-| 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,774 | 4.57 | 515 |
+| 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,786 | 4.57 | 515 |
 | 24 | [Warframe](games/w/warframe.md) | 23,580 | 4.61 | 422 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,716 | 4.60 | 448 |
 | 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,584 | 4.76 | 139 |
@@ -235,7 +235,7 @@
 | 233 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 520 | 4.75 | 149 |
 | 234 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 517 | 4.78 | 113 |
 | 235 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 514 | 4.74 | 165 |
-| 236 | [Slime Rancher](games/s/slime_rancher.md) | 513 | 4.82 | 70 |
+| 235 | [Slime Rancher](games/s/slime_rancher.md) | 514 | 4.82 | 70 |
 | 237 | [Warface: Clutch](games/w/warface.md) | 509 | 3.89 | 1,141 |
 | 238 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 503 | 4.50 | 642 |
 | 239 | [Second Extinction™](games/s/second_extinction™.md) | 497 | 4.06 | 1,103 |
@@ -278,9 +278,9 @@
 | 276 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 313 | 4.83 | 57 |
 | 277 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 311 | 4.62 | 398 |
 | 278 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 309 | 4.45 | 717 |
-| 279 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 398 |
-| 280 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 304 | 4.63 | 379 |
-| 281 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 303 | 4.17 | 1,044 |
+| 279 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 306 | 4.17 | 1,044 |
+| 280 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 398 |
+| 281 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 304 | 4.63 | 379 |
 | 282 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 300 | 4.65 | 342 |
 | 283 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 299 | 4.44 | 739 |
 | 284 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 967 |

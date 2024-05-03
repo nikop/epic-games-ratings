@@ -76,7 +76,7 @@
 | 70 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 635 |
 | 70 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 339 | 271 |
 | 70 | [Sifu](games/s/sifu.md) | 4.82 | 7,768 | 65 |
-| 70 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 513 | 236 |
+| 70 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 514 | 235 |
 | 70 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 80 | 441 |
 | 79 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,504 | 116 |
 | 79 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 635 |
@@ -173,7 +173,7 @@
 | 165 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 37,776 | 17 |
 | 165 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 910 | 189 |
 | 165 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,221 | 57 |
-| 165 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 53,112 | 14 |
+| 165 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 53,154 | 14 |
 | 165 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 405 |
 | 165 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 114 | 395 |
 | 165 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 942 | 185 |
@@ -382,7 +382,7 @@
 | 379 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 624 |
 | 379 | [APE OUT](games/a/ape_out.md) | 4.63 | 0 | 635 |
 | 379 | [Colt Canyon](games/c/colt_canyon.md) | 4.63 | 0 | 635 |
-| 379 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 304 | 280 |
+| 379 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 304 | 281 |
 | 379 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 547 |
 | 379 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,449 | 118 |
 | 379 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,077 | 127 |
@@ -417,7 +417,7 @@
 | 398 | [Rogue Lords](games/r/rogue_lords.md) | 4.62 | 0 | 635 |
 | 398 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 635 |
 | 398 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 311 | 277 |
-| 398 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 305 | 279 |
+| 398 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 305 | 280 |
 | 398 | [Tavern Master](games/t/tavern_master.md) | 4.62 | 0 | 635 |
 | 398 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 5,254 | 86 |
 | 398 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 635 |
@@ -531,7 +531,7 @@
 | 515 | [System Shock](games/s/system_shock.md) | 4.57 | 0 | 635 |
 | 515 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 57 | 483 |
 | 515 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,574 | 84 |
-| 515 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,774 | 23 |
+| 515 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,786 | 23 |
 | 515 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 635 |
 | 515 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 244 | 301 |
 | 515 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 24 | 609 |
@@ -1046,7 +1046,7 @@
 | 1,044 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 635 |
 | 1,044 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 627 | 219 |
 | 1,044 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 115 | 394 |
-| 1,044 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 303 | 281 |
+| 1,044 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 306 | 279 |
 | 1,044 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 635 |
 | 1,044 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 635 |
 | 1,044 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 635 |
