@@ -3,9 +3,9 @@
 [View Rawdata](../../db/m/metalcore.json)  
 Rating: 4.38 (Ranked 839)  
 ## Awards
-Max (Diverse Characters): 41  (Ranked 524)  
+Max (Diverse Characters): 41  (Ranked 525)  
 Sum: 362 (Ranked 399)  
-Diff (max vs sum): 125  
+Diff (max vs sum): 126  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 41 |

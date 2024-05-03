@@ -4,7 +4,7 @@
   "ProductSlug": "amnesia-rebirth",
   "Ranking_Rating": 990,
   "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 478,
+  "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -745,6 +745,6 @@
   "FirstSeen": "2022-07-22T20:28:30.9158166+00:00",
   "LastChanged": "2024-01-20T15:58:29.499599+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:57:22.9723077+00:00",
-  "LastUpdate_Ratings": "2024-05-03T02:22:43.8965308+00:00",
+  "LastUpdate_Ratings": "2024-05-03T03:58:46.9200708+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:54.7611123+00:00"
 }
