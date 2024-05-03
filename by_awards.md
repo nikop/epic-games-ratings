@@ -11,7 +11,7 @@
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 132,758 | 4.69 | 250 |
 | 10 | [VALORANT](games/v/valorant.md) | 114,756 | 4.50 | 642 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 74,866 | 4.44 | 739 |
-| 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 68,764 | 4.58 | 485 |
+| 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 68,790 | 4.58 | 485 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 60,225 | 4.61 | 422 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,154 | 4.74 | 165 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,305 | 4.51 | 622 |
@@ -23,9 +23,9 @@
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 27,315 | 4.89 | 12 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 23,976 | 4.26 | 967 |
 | 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,786 | 4.57 | 515 |
-| 24 | [Warframe](games/w/warframe.md) | 23,580 | 4.61 | 422 |
+| 24 | [Warframe](games/w/warframe.md) | 23,597 | 4.61 | 422 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,716 | 4.60 | 448 |
-| 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,584 | 4.76 | 139 |
+| 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,595 | 4.76 | 139 |
 | 27 | [Satisfactory](games/s/satisfactory.md) | 17,359 | 4.87 | 20 |
 | 28 | [SnowRunner](games/s/snowrunner.md) | 16,966 | 4.75 | 149 |
 | 29 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 16,329 | 4.58 | 485 |
@@ -48,7 +48,7 @@
 | 46 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 10,692 | 4.68 | 273 |
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 10,633 | 4.78 | 113 |
 | 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,379 | 4.63 | 379 |
-| 49 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,254 | 4.89 | 12 |
+| 49 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,261 | 4.89 | 12 |
 | 50 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,958 | 4.51 | 622 |
 | 51 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 9,805 | 4.01 | 1,110 |
 | 52 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,514 | 4.69 | 250 |
@@ -61,7 +61,7 @@
 | 59 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,451 | 4.49 | 660 |
 | 60 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,439 | 4.69 | 250 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,373 | 4.75 | 149 |
-| 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,183 | 4.71 | 206 |
+| 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,190 | 4.71 | 206 |
 | 63 | [Supraland](games/s/supraland.md) | 7,857 | 4.61 | 422 |
 | 64 | [Cities: Skylines](games/c/cities__skylines.md) | 7,817 | 4.66 | 317 |
 | 65 | [Sifu](games/s/sifu.md) | 7,768 | 4.82 | 70 |
@@ -323,9 +323,9 @@
 | 321 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 211 | 4.56 | 536 |
 | 322 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 210 | 4.35 | 876 |
 | 323 | [Relicta](games/r/relicta.md) | 206 | 4.14 | 1,070 |
+| 324 | [Blasphemous](games/b/blasphemous.md) | 205 | 4.83 | 57 |
 | 324 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 205 | 4.54 | 569 |
-| 325 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 204 | 4.22 | 1,008 |
-| 326 | [Blasphemous](games/b/blasphemous.md) | 203 | 4.83 | 57 |
+| 326 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 204 | 4.22 | 1,008 |
 | 327 | [Crashlands](games/c/crashlands.md) | 202 | 4.66 | 317 |
 | 327 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 202 | 4.68 | 273 |
 | 329 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 201 | 4.48 | 678 |
@@ -364,8 +364,8 @@
 | 362 | [while True: learn()](games/w/while_true__learn().md) | 146 | 4.51 | 622 |
 | 363 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 144 | 4.31 | 920 |
 | 363 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 144 | 3.89 | 1,141 |
-| 365 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 142 | 4.45 | 718 |
-| 365 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 142 | 4.58 | 485 |
+| 365 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 143 | 4.58 | 485 |
+| 366 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 142 | 4.45 | 718 |
 | 367 | [Aimlabs](games/a/aimlabs.md) | 141 | 4.60 | 448 |
 | 367 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 141 | 4.52 | 605 |
 | 369 | [Tropico 5](games/t/tropico_5.md) | 140 | 4.45 | 718 |
