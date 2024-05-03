@@ -2,7 +2,7 @@
   "ID": "95e09a8c24c44684bca1a6f25aea920c",
   "Name": "Evil Dead: The Game",
   "ProductSlug": "evil-dead-the-game",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 864,
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 985,
@@ -9236,10 +9236,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 30859,
       "NumberOfAwardsMax": 12911
+    },
+    {
+      "Time": "2024-05-03T11:59:58.5808669+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 30861,
+      "NumberOfAwardsMax": 12911
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30859,
+  "NumberOfAwards": 30861,
   "NumberOfAwardsMax": 12911,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9307,7 +9313,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1651
+      "Count": 1653
     }
   ],
   "EOS_Progressed": 0,
@@ -9321,8 +9327,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2024-05-02T03:00:22.4649675+00:00",
+  "LastChanged": "2024-05-03T11:59:58.5808667+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:58:16.3434582+00:00",
-  "LastUpdate_Ratings": "2024-05-03T10:59:04.345453+00:00",
+  "LastUpdate_Ratings": "2024-05-03T11:59:58.5808675+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:59.9657274+00:00"
 }

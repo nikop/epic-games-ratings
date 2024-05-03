@@ -3,8 +3,8 @@
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 57,
-  "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 157,
+  "Ranking_Popularity": 210,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 53,
@@ -9077,11 +9077,17 @@
       "Rating": 4.83,
       "NumberOfAwards": 5413,
       "NumberOfAwardsMax": 681
+    },
+    {
+      "Time": "2024-05-03T11:58:46.1106898+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 5423,
+      "NumberOfAwardsMax": 683
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5413,
-  "NumberOfAwardsMax": 681,
+  "NumberOfAwards": 5423,
+  "NumberOfAwardsMax": 683,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -9094,7 +9100,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 485
+      "Count": 486
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9106,13 +9112,13 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 508
+      "Count": 512
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 681
+      "Count": 683
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9130,7 +9136,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 535
+      "Count": 538
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -40580,9 +40586,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-05-03T01:47:43.5844888+00:00",
+  "LastChanged": "2024-05-03T11:58:46.1106897+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:29.2742772+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:57:51.1057143+00:00",
-  "LastUpdate_Ratings": "2024-05-03T10:57:21.0514994+00:00",
+  "LastUpdate_Ratings": "2024-05-03T11:58:46.1106903+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:29.2744398+00:00"
 }
