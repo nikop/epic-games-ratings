@@ -2,7 +2,7 @@
   "ID": "buttercup",
   "Name": "The Walking Dead: Season Two",
   "ProductSlug": "walking-dead-season-two",
-  "Ranking_Rating": 36,
+  "Ranking_Rating": 28,
   "Ranking_Popularity": 635,
   "Ranking_PopularitySum": 635,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.85,
+  "Rating": 4.86,
   "NumberOfRatings": 24,
   "RatingHistory": [
     {
@@ -169,6 +169,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-03T13:01:01.9116747+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -187,8 +193,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:19.5722563+00:00",
   "FirstSeenRating": "2022-08-07T16:31:05.1986599+00:00",
-  "LastChanged": "2024-03-24T05:59:19.7855815+00:00",
+  "LastChanged": "2024-05-03T13:01:01.9116744+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:05.7645787+00:00",
-  "LastUpdate_Ratings": "2024-05-03T11:57:00.3002758+00:00",
+  "LastUpdate_Ratings": "2024-05-03T13:01:01.9116752+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:17.3414478+00:00"
 }
