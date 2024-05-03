@@ -4,7 +4,7 @@
   "ProductSlug": "outlast",
   "Ranking_Rating": 149,
   "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 514,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -435,10 +435,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-05-03T14:57:55.9113869+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 98,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97,
+  "NumberOfAwards": 98,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -452,7 +458,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",
@@ -479,8 +485,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-04-26T02:57:36.6988192+00:00",
+  "LastChanged": "2024-05-03T14:57:55.9113868+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:12.1961057+00:00",
-  "LastUpdate_Ratings": "2024-05-03T13:01:23.458602+00:00",
+  "LastUpdate_Ratings": "2024-05-03T14:57:55.9113873+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:21.330913+00:00"
 }
