@@ -1,9 +1,9 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,475,109 | 4.29 | 935 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 809,001 | 4.45 | 718 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 810,945 | 4.45 | 718 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 366,302 | 4.68 | 273 |
-| 4 | [Genshin Impact](games/g/genshin_impact.md) | 339,319 | 4.67 | 293 |
+| 4 | [Genshin Impact](games/g/genshin_impact.md) | 339,404 | 4.67 | 293 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 314,062 | 4.87 | 20 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 227,939 | 4.18 | 1,038 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 163,136 | 4.68 | 273 |
@@ -44,7 +44,7 @@
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 12,165 | 4.77 | 122 |
 | 43 | [NBA 2K21](games/n/nba_2k21.md) | 11,868 | 4.38 | 840 |
 | 44 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 11,828 | 4.58 | 485 |
-| 45 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,327 | 4.61 | 422 |
+| 45 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,330 | 4.61 | 422 |
 | 46 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 10,692 | 4.68 | 273 |
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 10,633 | 4.78 | 113 |
 | 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,379 | 4.63 | 379 |
@@ -513,22 +513,22 @@
 | 509 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 47 | 4.48 | 678 |
 | 509 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 47 | 4.30 | 928 |
 | 513 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 46 | 4.44 | 739 |
+| 513 | [MetalCore](games/m/metalcore.md) | 46 | 4.39 | 830 |
 | 513 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 990 |
-| 515 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,129 |
-| 515 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 45 | 4.85 | 36 |
-| 515 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 45 | 3.96 | 1,125 |
-| 518 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 44 | 4.58 | 485 |
-| 519 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 43 | 4.64 | 363 |
-| 519 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 43 | 4.58 | 485 |
-| 519 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 43 | 4.33 | 897 |
-| 522 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 42 | 4.58 | 485 |
-| 522 | [Steelrising](games/s/steelrising.md) | 42 | 4.29 | 935 |
-| 522 | [TUNIC](games/t/tunic.md) | 42 | 4.83 | 57 |
-| 525 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 41 | 4.55 | 551 |
-| 525 | [MetalCore](games/m/metalcore.md) | 41 | 4.39 | 830 |
-| 525 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 41 | 4.42 | 777 |
-| 525 | [Redfall](games/r/redfall.md) | 41 | 3.66 | 1,164 |
-| 525 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 41 | 4.48 | 678 |
+| 516 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,129 |
+| 516 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 45 | 4.85 | 36 |
+| 516 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 45 | 3.96 | 1,125 |
+| 519 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 44 | 4.58 | 485 |
+| 520 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 43 | 4.64 | 363 |
+| 520 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 43 | 4.58 | 485 |
+| 520 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 43 | 4.33 | 897 |
+| 523 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 42 | 4.58 | 485 |
+| 523 | [Steelrising](games/s/steelrising.md) | 42 | 4.29 | 935 |
+| 523 | [TUNIC](games/t/tunic.md) | 42 | 4.83 | 57 |
+| 526 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 41 | 4.55 | 551 |
+| 526 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 41 | 4.42 | 777 |
+| 526 | [Redfall](games/r/redfall.md) | 41 | 3.66 | 1,164 |
+| 526 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 41 | 4.48 | 678 |
 | 530 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 40 | 4.48 | 678 |
 | 530 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 40 | 4.69 | 250 |
 | 532 | [20XX](games/2/20xx.md) | 39 | 4.61 | 422 |
