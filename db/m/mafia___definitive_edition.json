@@ -2,7 +2,7 @@
   "ID": "ee8802651a004c48999169fa32eb4903",
   "Name": "Mafia: Definitive Edition",
   "ProductSlug": "mafia-definitive-edition",
-  "Ranking_Rating": 380,
+  "Ranking_Rating": 379,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 985,
@@ -1638,10 +1638,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 923,
       "NumberOfAwardsMax": 739
+    },
+    {
+      "Time": "2024-05-04T13:57:11.5994608+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 924,
+      "NumberOfAwardsMax": 739
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 923,
+  "NumberOfAwards": 924,
   "NumberOfAwardsMax": 739,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1691,7 +1697,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -1705,8 +1711,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2024-05-03T21:00:30.160347+00:00",
+  "LastChanged": "2024-05-04T13:57:11.5994607+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:11.700554+00:00",
-  "LastUpdate_Ratings": "2024-05-04T11:59:26.6198902+00:00",
+  "LastUpdate_Ratings": "2024-05-04T13:57:11.5994611+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:51.9489925+00:00"
 }
