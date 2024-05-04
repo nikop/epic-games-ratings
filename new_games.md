@@ -13,7 +13,7 @@
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 2 | - | - |
 | [Undead Inc.](games/f/fe3316099db5422ebeb202e518942fa1.md) | 2024-05-02 | - |  | - | 0 |
 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | - |  | 4.58 | 0 |
-| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | - |  | 4.55 | 0 |
+| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | - |  | 4.59 | 0 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | - |  | - | - |
 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 2024-05-02 | - |  | - | - |
 | [Storm Warfare](games/a/a6cce5235d144efbb511ecb062b26013.md) | 2024-05-01 | - |  | - | - |
@@ -42,7 +42,7 @@
 | [GuDaiFengLiuZhuan](games/f/f388ed15f12b437d8f6bb72da340515a.md) | 2024-04-28 | - |  | - | - |
 | [Space Outpost Silicon One](games/a/a186804ccee0436daa300390685eb7d7.md) | 2024-04-28 | - |  | - | 0 |
 | [Eden's Lair](games/c/ccd6a64f13f64c37a00d6160331cdecd.md) | 2024-04-26 | - |  | - | - |
-| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | - |  | 4.44 | 0 |
+| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | - |  | 4.45 | 0 |
 | [Jack Holmes: Master of Puppets](games/4/46d8d9b49fa24b2c81f648d2c30f45d1.md) | 2024-04-26 | - |  | - | 0 |
 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 2024-04-25 | - |  | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
@@ -60,7 +60,7 @@
 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 2024-04-23 | - |  | - | 0 |
 | [Tales of Kenzera™: ZAU](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | - |  | - | 0 |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | 0 |
-| [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.80 | 0 |
+| [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.81 | 0 |
 | [Necrosmith 2](games/e/e153609a322d42e18ee587bb862022fc.md) | 2024-04-23 | - |  | - | 0 |
 | [Lunar Lander Beyond](games/6/62604a9708a14eed8b10b31ebd2056d7.md) | 2024-04-23 | 26 (1,000 XP) | 2 | - | 0 |
 | [Sweet Transit](games/a/a9621f7429a445a08d09bfa964a7c31f.md) | 2024-04-22 | - |  | - | 0 |
@@ -111,4 +111,3 @@
 | [DESOLATIUM](games/6/6b86aaf9e810458f874c7d43eb81e813.md) | 2024-04-05 | - |  | - | - |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | - |  | - | - |
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 1 | - | - |
-| [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 15 | - | 0 |
