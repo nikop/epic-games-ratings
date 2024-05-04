@@ -4,7 +4,7 @@
   "ProductSlug": "sackboy-a-big-adventure",
   "Ranking_Rating": 139,
   "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 519,
+  "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -521,10 +521,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 95,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-05-04T17:57:42.4861338+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 95,
+  "NumberOfAwards": 96,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -544,7 +550,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -565,8 +571,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T21:31:24.5822973+00:00",
   "FirstSeenRating": "2022-11-01T17:31:11.1953561+00:00",
-  "LastChanged": "2024-04-27T06:58:37.341019+00:00",
+  "LastChanged": "2024-05-04T17:57:42.4861336+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:30.5745874+00:00",
-  "LastUpdate_Ratings": "2024-05-04T16:00:11.7634596+00:00",
+  "LastUpdate_Ratings": "2024-05-04T17:57:42.4861342+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:45.8780824+00:00"
 }

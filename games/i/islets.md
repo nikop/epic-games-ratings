@@ -4,8 +4,8 @@
 Rating: 4.71 (Ranked 206)  
 ## Awards
 Max (Extremely Fun): 30  (Ranked 572)  
-Sum: 152 (Ranked 486)  
-Diff (max vs sum): 86  
+Sum: 173 (Ranked 474)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 30 |
@@ -15,6 +15,7 @@ Diff (max vs sum): 86
 | This game is Great for Beginners | 25 |
 | This game is Relaxing | 22 |
 | This game has Amazing Characters | 22 |
+| This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -48,3 +49,4 @@ Diff (max vs sum): 86
 | 2024-04-30 | 4.71 | 30 | 149 |
 | 2024-05-01 | 4.71 | 30 | 150 |
 | 2024-05-02 | 4.71 | 30 | 152 |
+| 2024-05-04 | 4.71 | 30 | 173 |
