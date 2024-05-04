@@ -1,7 +1,7 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 707)  
+Rating: 4.46 (Ranked 709)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
