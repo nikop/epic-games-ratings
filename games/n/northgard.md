@@ -1,7 +1,7 @@
 # Northgard
 [Store](https://store.epicgames.com/en-US/p/northgard)  
 [View Rawdata](../../db/n/northgard.json)  
-Rating: 4.65 (Ranked 342)  
+Rating: 4.64 (Ranked 362)  
 Number of Ratings: 82  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 47  (Ranked 513)  
@@ -146,3 +146,4 @@ Diff (max vs sum): 64
 | 2024-04-16 | 4.66 | - | 47 | 239 |
 | 2024-04-28 | 4.65 | - | 47 | 239 |
 | 2024-05-02 | 4.65 | - | 47 | 240 |
+| 2024-05-04 | 4.64 | - | 47 | 240 |

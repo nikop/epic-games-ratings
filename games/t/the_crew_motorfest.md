@@ -1,10 +1,10 @@
 # The Crew™ Motorfest Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-crew-motorfest)  
 [View Rawdata](../../db/t/the_crew_motorfest.json)  
-Rating: 4.64 (Ranked 363)  
+Rating: 4.64 (Ranked 362)  
 ## Awards
 Max (Relaxing): 1,203  (Ranked 158)  
-Sum: 8,866 (Ranked 121)  
+Sum: 8,867 (Ranked 121)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 37
 | This game is Highly Recommended | 1,127 |
 | This game is Extremely Fun | 1,096 |
 | This game has Competitive Players | 1,077 |
-| This game has Amazing Storytelling | 1,064 |
+| This game has Amazing Storytelling | 1,065 |
 | This game has Amazing Characters | 990 |
 | This game has Diverse Characters | 580 |
 | This game is Great for Quick Sessions | 103 |
@@ -253,4 +253,4 @@ Diff (max vs sum): 37
 | 2024-05-01 | 4.64 | 1,196 | 8,823 |
 | 2024-05-02 | 4.64 | 1,198 | 8,840 |
 | 2024-05-03 | 4.64 | 1,203 | 8,859 |
-| 2024-05-04 | 4.64 | 1,203 | 8,866 |
+| 2024-05-04 | 4.64 | 1,203 | 8,867 |
