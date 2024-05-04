@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 250,
+  "Ranking_Rating": 251,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 102,
@@ -13666,10 +13666,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 23137,
       "NumberOfAwardsMax": 8440
+    },
+    {
+      "Time": "2024-05-04T15:58:27.7494442+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 23139,
+      "NumberOfAwardsMax": 8440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23137,
+  "NumberOfAwards": 23139,
   "NumberOfAwardsMax": 8440,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13731,7 +13737,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1599
+      "Count": 1601
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -44805,9 +44811,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-05-04T06:58:08.8223444+00:00",
+  "LastChanged": "2024-05-04T15:58:27.749444+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:33.1422911+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:10.6178772+00:00",
-  "LastUpdate_Ratings": "2024-05-04T13:59:59.9410035+00:00",
+  "LastUpdate_Ratings": "2024-05-04T15:58:27.7494446+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:33.1424666+00:00"
 }

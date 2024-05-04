@@ -2,7 +2,7 @@
   "ID": "56eab841eaab4016b9fedd2350f997b6",
   "Name": "Oddworld: New \u0027n\u0027 Tasty",
   "ProductSlug": "oddworld-new-n-tasty",
-  "Ranking_Rating": 679,
+  "Ranking_Rating": 661,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 112,
   "RatingHistory": [
     {
@@ -401,6 +401,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 40,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-05-04T15:59:17.9374499+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
@@ -426,8 +432,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:35.2607812+00:00",
-  "LastChanged": "2024-04-12T01:39:34.9704934+00:00",
+  "LastChanged": "2024-05-04T15:59:17.9374497+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:58:22.9903128+00:00",
-  "LastUpdate_Ratings": "2024-05-04T14:57:08.2133838+00:00",
+  "LastUpdate_Ratings": "2024-05-04T15:59:17.9374501+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:46.146366+00:00"
 }

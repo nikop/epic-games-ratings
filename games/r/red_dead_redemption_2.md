@@ -5,22 +5,22 @@ Rating: 4.87 (Ranked 20)
 Number of Ratings: 102,658  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 314,397  (Ranked 5)  
-Sum: 871,674 (Ranked 6)  
+Sum: 872,068 (Ranked 6)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 314,397 |
-| This game has Great Boss Battles | 182,283 |
+| This game has Great Boss Battles | 182,523 |
 | This game is Great for Beginners | 41,599 |
 | This game has Diverse Characters | 40,259 |
 | This game is Highly Recommended | 38,887 |
 | This game is Extremely Fun | 38,180 |
 | This game has Amazing Characters | 38,162 |
 | This game has Amazing Storytelling | 38,142 |
-| This game is Educational | 37,845 |
+| This game is Educational | 37,934 |
 | This game is Relaxing | 37,773 |
 | This game has Quickly Understood Controls | 36,542 |
-| This game has a Creative Community | 27,605 |
+| This game has a Creative Community | 27,670 |
 | This game has Realistic Visuals | 17,056 |
 | This game has Obsessive Gameplay | 5,801 |
 ## Ratings History
@@ -492,4 +492,4 @@ Diff (max vs sum): -1
 | 2024-05-01 | 4.87 | - | 313,720 | 868,728 |
 | 2024-05-02 | 4.87 | - | 314,062 | 869,998 |
 | 2024-05-03 | 4.87 | - | 314,397 | 871,264 |
-| 2024-05-04 | 4.87 | - | 314,397 | 871,674 |
+| 2024-05-04 | 4.87 | - | 314,397 | 872,068 |
