@@ -2,7 +2,7 @@
   "ID": "d98b6c292e224a59b359372f4f5152df",
   "Name": "Tiny Tina\u0027s Assault on Dragon Keep: A Wonderlands One-shot Adventure",
   "ProductSlug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 708,
   "Ranking_Popularity": 279,
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 1211,
   "RatingHistory": [
     {
@@ -838,6 +838,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 309,
       "NumberOfAwardsMax": 309
+    },
+    {
+      "Time": "2024-05-04T20:59:00.1731757+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 309,
+      "NumberOfAwardsMax": 309
     }
   ],
   "ReviewsDisabled": false,
@@ -863,8 +869,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:16.2350109+00:00",
-  "LastChanged": "2024-04-19T18:58:53.9702211+00:00",
+  "LastChanged": "2024-05-04T20:59:00.1731755+00:00",
   "LastUpdate_AppInfo": "2024-04-28T11:57:03.6622768+00:00",
-  "LastUpdate_Ratings": "2024-05-04T19:01:36.6681085+00:00",
+  "LastUpdate_Ratings": "2024-05-04T20:59:00.1731761+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:16.7764003+00:00"
 }

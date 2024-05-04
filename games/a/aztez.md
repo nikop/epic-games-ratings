@@ -1,12 +1,12 @@
 # Aztez
 [Store](https://store.epicgames.com/en-US/p/aztez)  
 [View Rawdata](../../db/a/aztez.json)  
-Rating: 4.55 (Ranked 554)  
+Rating: 4.55 (Ranked 555)  
 Number of Ratings: 43  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 22  (Ranked 613)  
+Max (Great Boss Battles): 22  (Ranked 614)  
 Sum: 22 (Ranked 617)  
-Diff (max vs sum): -4  
+Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 22 |
