@@ -2,7 +2,7 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 554,
+  "Ranking_Rating": 555,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 985,
@@ -4503,10 +4503,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3163,
       "NumberOfAwardsMax": 373
+    },
+    {
+      "Time": "2024-05-04T11:57:31.1728852+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3164,
+      "NumberOfAwardsMax": 373
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3163,
+  "NumberOfAwards": 3164,
   "NumberOfAwardsMax": 373,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -4568,7 +4574,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 348
+      "Count": 349
     },
     {
       "Text": "This game has a Creative Community",
@@ -4589,8 +4595,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-05-03T20:58:25.7906564+00:00",
+  "LastChanged": "2024-05-04T11:57:31.172885+00:00",
   "LastUpdate_AppInfo": "2024-04-29T18:57:06.975922+00:00",
-  "LastUpdate_Ratings": "2024-05-04T09:59:45.261213+00:00",
+  "LastUpdate_Ratings": "2024-05-04T11:57:31.1728856+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:53.9546771+00:00"
 }

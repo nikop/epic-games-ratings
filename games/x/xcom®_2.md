@@ -1,11 +1,11 @@
 # XCOM® 2
 [Store](https://store.epicgames.com/en-US/p/xcom-2)  
 [View Rawdata](../../db/x/xcom®_2.json)  
-Rating: 4.55 (Ranked 554)  
+Rating: 4.55 (Ranked 555)  
 Number of Ratings: 7,396  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 1,593  (Ranked 144)  
-Sum: 12,950 (Ranked 96)  
+Sum: 12,954 (Ranked 96)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 48
 | This game has Challenging Combat | 1,582 |
 | This game has Diverse Characters | 1,571 |
 | This game is Relaxing | 1,539 |
-| This game has Quickly Understood Controls | 1,522 |
+| This game has Quickly Understood Controls | 1,526 |
 | This game has Amazing Storytelling | 1,519 |
 | This game is Extremely Fun | 1,515 |
 | This game has Amazing Characters | 1,402 |
@@ -488,4 +488,4 @@ Diff (max vs sum): 48
 | 2024-05-01 | 4.55 | - | 1,590 | 12,923 |
 | 2024-05-02 | 4.55 | - | 1,593 | 12,932 |
 | 2024-05-03 | 4.55 | - | 1,593 | 12,948 |
-| 2024-05-04 | 4.55 | - | 1,593 | 12,950 |
+| 2024-05-04 | 4.55 | - | 1,593 | 12,954 |
