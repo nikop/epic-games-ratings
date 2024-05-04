@@ -123,7 +123,7 @@
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 31 | 565 |
 | 122 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 25 | 601 |
 | 122 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.77 | 0 | 635 |
-| 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,165 | 42 |
+| 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,208 | 41 |
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,338 | 149 |
 | 122 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,493 | 39 |
 | 122 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 635 |
@@ -139,10 +139,10 @@
 | 122 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 635 |
 | 138 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,595 | 26 |
 | 138 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,572 | 104 |
-| 138 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.76 | 127 | 379 |
+| 138 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.76 | 127 | 380 |
 | 138 | [Journey](games/j/journey.md) | 4.76 | 0 | 635 |
 | 138 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,508 | 116 |
-| 138 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,831 | 137 |
+| 138 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,833 | 137 |
 | 138 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.76 | 38 | 536 |
 | 138 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 29 | 575 |
 | 138 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.76 | 0 | 635 |
@@ -167,7 +167,7 @@
 | 165 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 515 | 235 |
 | 165 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 85 | 435 |
 | 165 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.74 | 21 | 624 |
-| 165 | [Barony](games/b/barony.md) | 4.74 | 126 | 381 |
+| 165 | [Barony](games/b/barony.md) | 4.74 | 129 | 377 |
 | 165 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 59 | 480 |
 | 165 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 946 | 183 |
 | 165 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 37,799 | 17 |
@@ -263,7 +263,7 @@
 | 250 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 635 |
 | 250 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 683 | 210 |
 | 250 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 531 |
-| 250 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,204 | 41 |
+| 250 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,204 | 42 |
 | 250 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 79 | 445 |
 | 250 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 603 | 223 |
 | 250 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 58 | 481 |
@@ -296,7 +296,7 @@
 | 294 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.67 | 0 | 635 |
 | 294 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 0 | 635 |
 | 294 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.67 | 0 | 635 |
-| 294 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.67 | 127 | 379 |
+| 294 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.67 | 127 | 380 |
 | 294 | [Dungeons 4](games/d/dungeons_4.md) | 4.67 | 0 | 635 |
 | 294 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 635 |
 | 294 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,011 | 178 |
@@ -446,7 +446,7 @@
 | 422 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 423 |
 | 422 | [Warframe](games/w/warframe.md) | 4.61 | 23,597 | 24 |
 | 422 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 842 | 195 |
-| 422 | [Witchfire](games/w/witchfire.md) | 4.61 | 128 | 378 |
+| 422 | [Witchfire](games/w/witchfire.md) | 4.61 | 128 | 379 |
 | 448 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 911 | 190 |
 | 448 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 141 | 367 |
 | 448 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,728 | 25 |
@@ -595,7 +595,7 @@
 | 588 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 635 |
 | 588 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 214 | 318 |
 | 588 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 4.53 | 0 | 635 |
-| 588 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.53 | 3,092 | 108 |
+| 588 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.53 | 3,098 | 108 |
 | 588 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 34 | 552 |
 | 588 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 635 |
 | 588 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.53 | 0 | 635 |

@@ -40,8 +40,8 @@
 | 38 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,913 | 4.36 | 866 |
 | 39 | [HITMAN World of Assassination](games/h/hitman_3.md) | 12,493 | 4.77 | 122 |
 | 40 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 12,365 | 4.50 | 642 |
-| 41 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,204 | 4.69 | 250 |
-| 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 12,165 | 4.77 | 122 |
+| 41 | [Bloons TD 6](games/b/bloons_td_6.md) | 12,208 | 4.77 | 122 |
+| 42 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,204 | 4.69 | 250 |
 | 43 | [NBA 2K21](games/n/nba_2k21.md) | 11,868 | 4.38 | 842 |
 | 44 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 11,844 | 4.58 | 485 |
 | 45 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,330 | 4.61 | 422 |
@@ -107,7 +107,7 @@
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,523 | 4.19 | 1,029 |
 | 106 | [Among Us](games/a/among_us.md) | 3,323 | 4.56 | 537 |
 | 107 | [RAGE 2](games/r/rage_2.md) | 3,124 | 4.26 | 967 |
-| 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,092 | 4.53 | 588 |
+| 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,098 | 4.53 | 588 |
 | 109 | [Ghostrunner](games/g/ghostrunner.md) | 3,038 | 4.56 | 537 |
 | 110 | [Path of Exile](games/p/path_of_exile.md) | 2,978 | 4.62 | 398 |
 | 111 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,933 | 4.79 | 100 |
@@ -136,7 +136,7 @@
 | 134 | [Conan Exiles](games/c/conan_exiles.md) | 1,856 | 4.54 | 569 |
 | 135 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,849 | 4.63 | 379 |
 | 136 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 1,838 | 4.82 | 69 |
-| 137 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,831 | 4.76 | 138 |
+| 137 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,833 | 4.76 | 138 |
 | 138 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,807 | 4.56 | 537 |
 | 139 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,802 | 4.79 | 100 |
 | 140 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,728 | 4.87 | 20 |
@@ -377,10 +377,10 @@
 | 375 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 131 | 4.28 | 948 |
 | 376 | [BIOMUTANT](games/b/biomutant.md) | 130 | 4.35 | 877 |
 | 377 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 129 | 4.21 | 1,015 |
-| 378 | [Witchfire](games/w/witchfire.md) | 128 | 4.61 | 422 |
-| 379 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 127 | 4.67 | 294 |
-| 379 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 127 | 4.76 | 138 |
-| 381 | [Barony](games/b/barony.md) | 126 | 4.74 | 165 |
+| 377 | [Barony](games/b/barony.md) | 129 | 4.74 | 165 |
+| 379 | [Witchfire](games/w/witchfire.md) | 128 | 4.61 | 422 |
+| 380 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 127 | 4.67 | 294 |
+| 380 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 127 | 4.76 | 138 |
 | 382 | [Armored Warfare](games/a/armored_warfare.md) | 124 | 4.03 | 1,110 |
 | 383 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 123 | 4.50 | 642 |
 | 383 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 123 | 4.79 | 100 |
