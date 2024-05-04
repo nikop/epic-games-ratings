@@ -316,7 +316,7 @@
 | 294 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.67 | 0 | 635 |
 | 294 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.67 | 0 | 635 |
 | 294 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 27 | 587 |
-| 317 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,770 | 100 |
+| 317 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,773 | 100 |
 | 317 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.66 | 64 | 469 |
 | 317 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 103 | 404 |
 | 317 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,829 | 64 |
@@ -386,7 +386,7 @@
 | 380 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 304 | 281 |
 | 380 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 548 |
 | 380 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,450 | 118 |
-| 380 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,077 | 127 |
+| 380 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,079 | 126 |
 | 380 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 0 | 635 |
 | 380 | [HITMAN](games/h/hitman.md) | 4.63 | 229 | 312 |
 | 380 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 635 |
@@ -437,7 +437,7 @@
 | 423 | [MudRunner](games/m/mudrunner.md) | 4.61 | 343 | 269 |
 | 423 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 635 |
 | 423 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 813 | 197 |
-| 423 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,330 | 45 |
+| 423 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,336 | 45 |
 | 423 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,133 | 163 |
 | 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,859 | 63 |
 | 423 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 601 | 224 |
@@ -682,7 +682,7 @@
 | 679 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 107 | 399 |
 | 679 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 289 |
 | 679 | [Figment](games/f/figment.md) | 4.48 | 21 | 624 |
-| 679 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,028 | 98 |
+| 679 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,037 | 98 |
 | 679 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 635 |
 | 679 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 4.48 | 0 | 635 |
 | 679 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 635 |
@@ -709,7 +709,7 @@
 | 707 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,562 | 93 |
 | 707 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.46 | 0 | 635 |
 | 707 | [Escape Academy](games/e/escape_academy.md) | 4.46 | 0 | 635 |
-| 707 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.46 | 142 | 366 |
+| 707 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.46 | 143 | 365 |
 | 707 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,243 | 153 |
 | 707 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 14,345 | 34 |
 | 707 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.46 | 0 | 635 |
@@ -1101,7 +1101,7 @@
 | 1,096 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 635 |
 | 1,096 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.08 | 0 | 635 |
 | 1,101 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.07 | 0 | 635 |
-| 1,101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,023 | 79 |
+| 1,101 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,028 | 79 |
 | 1,101 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.07 | 0 | 635 |
 | 1,101 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 228 | 313 |
 | 1,105 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 498 | 239 |
