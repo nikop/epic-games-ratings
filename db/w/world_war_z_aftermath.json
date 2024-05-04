@@ -2,8 +2,8 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 536,
-  "Ranking_Popularity": 79,
+  "Ranking_Rating": 537,
+  "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -15746,18 +15746,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 34676,
       "NumberOfAwardsMax": 6021
+    },
+    {
+      "Time": "2024-05-04T01:40:41.9040059+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 34690,
+      "NumberOfAwardsMax": 6030
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34676,
-  "NumberOfAwardsMax": 6021,
+  "NumberOfAwards": 34690,
+  "NumberOfAwardsMax": 6030,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6021
+      "Count": 6030
     },
     {
       "Text": "This game is Relaxing",
@@ -15769,7 +15775,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3882
+      "Count": 3885
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15781,7 +15787,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3912
+      "Count": 3914
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15827,9 +15833,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2024-05-03T18:58:02.2907566+00:00",
+  "LastChanged": "2024-05-04T01:40:41.9040057+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:48.9305688+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:43.6852681+00:00",
-  "LastUpdate_Ratings": "2024-05-03T23:00:30.299248+00:00",
+  "LastUpdate_Ratings": "2024-05-04T01:40:41.9040063+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:48.9305722+00:00"
 }

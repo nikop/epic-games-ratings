@@ -4,7 +4,7 @@
 Rating: 4.41 (Ranked 793)  
 ## Awards
 Max (Diverse Characters): 46  (Ranked 515)  
-Sum: 351 (Ranked 401)  
+Sum: 352 (Ranked 401)  
 Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): 114
 | This game has Unique Visuals | 29 |
 | This game is Extremely Fun | 28 |
 | This game has Competitive Players | 25 |
-| This game is Relaxing | 22 |
+| This game is Relaxing | 23 |
 | This game is Great for Quick Sessions | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -59,3 +59,4 @@ Diff (max vs sum): 114
 | 2024-05-01 | 4.36 | 41 | 345 |
 | 2024-05-02 | 4.38 | 41 | 362 |
 | 2024-05-03 | 4.41 | 46 | 371 |
+| 2024-05-04 | 4.41 | 46 | 352 |
