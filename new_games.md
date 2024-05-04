@@ -114,5 +114,3 @@
 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 15 | - | 0 |
 | [Divine Rush](games/c/c2a984900e22447d972c96e65a62da2e.md) | 2024-04-04 | - |  | - | 0 |
 | [Vacation Adventures Park Ranger 9 Collectors Edition](games/6/665e6a3aa3c046ceaa6500638889b4ee.md) | 2024-04-04 | - |  | - | 0 |
-| [Apartment Of Death](games/a/a289e2f87380496290f9be28b5a277f6.md) | 2024-04-04 | - |  | - | 0 |
-| [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | 15 (1,000 XP) | 0 | - | - |
