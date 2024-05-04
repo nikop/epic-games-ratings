@@ -1,7 +1,7 @@
 # INSIDE
 [Store](https://store.epicgames.com/en-US/p/inside)  
 [View Rawdata](../../db/i/inside.json)  
-Rating: 4.68 (Ranked 273)  
+Rating: 4.68 (Ranked 272)  
 Number of Ratings: 1,592  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
