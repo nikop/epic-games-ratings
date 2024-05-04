@@ -1,7 +1,7 @@
 # Sakuna: Of Rice and Ruin
 [Store](https://store.epicgames.com/en-US/p/sakuna-of-rice-and-ruin)  
 [View Rawdata](../../db/s/sakuna__of_rice_and_ruin.json)  
-Rating: 4.73 (Ranked 182)  
+Rating: 4.73 (Ranked 183)  
 Number of Ratings: 29  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
