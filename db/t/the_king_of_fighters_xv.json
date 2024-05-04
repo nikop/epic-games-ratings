@@ -4,7 +4,7 @@
   "ProductSlug": "the-king-of-fighters-xv",
   "Ranking_Rating": 317,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -570,10 +570,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 592,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-05-04T04:59:50.6242729+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 593,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 592,
+  "NumberOfAwards": 593,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -605,7 +611,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Diverse Characters",
@@ -655,8 +661,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2024-04-26T05:00:32.8450233+00:00",
+  "LastChanged": "2024-05-04T04:59:50.6242728+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:49.8066149+00:00",
-  "LastUpdate_Ratings": "2024-05-04T03:57:04.8821204+00:00",
+  "LastUpdate_Ratings": "2024-05-04T04:59:50.6242733+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:20.4596652+00:00"
 }
