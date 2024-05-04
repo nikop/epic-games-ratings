@@ -4,7 +4,7 @@
   "ProductSlug": "the-king-of-fighters-xv",
   "Ranking_Rating": 318,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -576,10 +576,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 593,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-05-04T19:58:45.3682097+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 594,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 593,
+  "NumberOfAwards": 594,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -587,7 +593,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Competitive Players",
@@ -661,8 +667,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2024-05-04T04:59:50.6242728+00:00",
+  "LastChanged": "2024-05-04T19:58:45.3682095+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:49.8066149+00:00",
-  "LastUpdate_Ratings": "2024-05-04T18:57:36.1336733+00:00",
+  "LastUpdate_Ratings": "2024-05-04T19:58:45.3682099+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:20.4596652+00:00"
 }
