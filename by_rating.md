@@ -219,7 +219,7 @@
 | 206 | [Tchia](games/t/tchia.md) | 4.71 | 0 | 635 |
 | 206 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.71 | 0 | 635 |
 | 206 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 0 | 635 |
-| 206 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,591 | 113 |
+| 206 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,598 | 113 |
 | 206 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 635 |
 | 222 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,707 | 92 |
 | 222 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 4.70 | 0 | 635 |
@@ -374,7 +374,7 @@
 | 363 | [Madcar for PC](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.64 | 0 | 635 |
 | 363 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 635 |
 | 363 | [No Straight Roads](games/n/no_straight_roads.md) | 4.64 | 0 | 635 |
-| 363 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,103 | 18 |
+| 363 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,110 | 18 |
 | 363 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 38 | 536 |
 | 363 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,203 | 158 |
 | 363 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 226 | 314 |
@@ -390,7 +390,7 @@
 | 379 | [HITMAN](games/h/hitman.md) | 4.63 | 229 | 312 |
 | 379 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 635 |
 | 379 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 739 | 203 |
-| 379 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 10,379 | 48 |
+| 379 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 10,409 | 48 |
 | 379 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,161 | 97 |
 | 379 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 635 |
 | 379 | [Prey](games/p/prey.md) | 4.63 | 6,019 | 80 |
@@ -428,7 +428,7 @@
 | 422 | [Control](games/c/control.md) | 4.61 | 9,464 | 54 |
 | 422 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 240 | 305 |
 | 422 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 635 |
-| 422 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,225 | 13 |
+| 422 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,277 | 13 |
 | 422 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.61 | 196 | 333 |
 | 422 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 157 | 358 |
 | 422 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 65 | 467 |

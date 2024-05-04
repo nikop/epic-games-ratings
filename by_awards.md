@@ -12,12 +12,12 @@
 | 10 | [VALORANT](games/v/valorant.md) | 114,955 | 4.50 | 642 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 74,937 | 4.44 | 741 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 68,790 | 4.58 | 485 |
-| 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 60,225 | 4.61 | 422 |
+| 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 60,277 | 4.61 | 422 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,154 | 4.74 | 165 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,356 | 4.51 | 622 |
 | 16 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 45,324 | 4.72 | 194 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,799 | 4.74 | 165 |
-| 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,103 | 4.64 | 363 |
+| 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,110 | 4.64 | 363 |
 | 19 | [Dauntless](games/d/dauntless.md) | 28,835 | 4.53 | 588 |
 | 20 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 27,799 | 4.13 | 1,077 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 27,341 | 4.89 | 12 |
@@ -47,7 +47,7 @@
 | 45 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,330 | 4.61 | 422 |
 | 46 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 10,796 | 4.68 | 273 |
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 10,649 | 4.78 | 113 |
-| 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,379 | 4.63 | 379 |
+| 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,409 | 4.63 | 379 |
 | 49 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,261 | 4.89 | 12 |
 | 50 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,958 | 4.51 | 622 |
 | 51 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 9,805 | 4.01 | 1,111 |
@@ -112,7 +112,7 @@
 | 110 | [Path of Exile](games/p/path_of_exile.md) | 2,978 | 4.62 | 398 |
 | 111 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,933 | 4.79 | 100 |
 | 112 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,608 | 4.77 | 122 |
-| 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,591 | 4.71 | 206 |
+| 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,598 | 4.71 | 206 |
 | 114 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,584 | 4.13 | 1,077 |
 | 115 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,085 |
 | 116 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,508 | 4.81 | 80 |
