@@ -4,7 +4,7 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 345,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1288,10 +1288,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 618,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-05-05T02:58:42.0993328+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 619,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 618,
+  "NumberOfAwards": 619,
   "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1311,7 +1317,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1385,8 +1391,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-05-04T04:00:40.9311461+00:00",
+  "LastChanged": "2024-05-05T02:58:42.0993324+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:13.0471191+00:00",
-  "LastUpdate_Ratings": "2024-05-05T01:48:50.6990001+00:00",
+  "LastUpdate_Ratings": "2024-05-05T02:58:42.099333+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:04.0245945+00:00"
 }
