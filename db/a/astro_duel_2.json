@@ -3,8 +3,8 @@
   "Name": "Astro Duel 2",
   "ProductSlug": "astro-duel-2-e1261d",
   "Ranking_Rating": 165,
-  "Ranking_Popularity": 626,
-  "Ranking_PopularitySum": 626,
+  "Ranking_Popularity": 625,
+  "Ranking_PopularitySum": 625,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -505,6 +505,6 @@
   "LastChanged": "2024-05-02T16:59:00.9658853+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:35.9567643+00:00",
   "LastUpdate_AppInfo": "2024-04-28T15:57:24.3439633+00:00",
-  "LastUpdate_Ratings": "2024-05-05T13:57:36.3846127+00:00",
+  "LastUpdate_Ratings": "2024-05-05T14:59:02.2652899+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:35.9568162+00:00"
 }
