@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 815,332 | 4.45 | 720 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 367,837 | 4.68 | 274 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 339,697 | 4.67 | 294 |
-| 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 314,773 | 4.87 | 20 |
+| 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 315,153 | 4.87 | 20 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 228,111 | 4.18 | 1,040 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 163,461 | 4.68 | 274 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 159,331 | 4.50 | 642 |
@@ -71,7 +71,7 @@
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,010 | 4.58 | 487 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 781 |
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,540 | 4.80 | 92 |
-| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,478 | 4.78 | 112 |
+| 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,482 | 4.78 | 112 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,236 | 4.66 | 318 |
 | 74 | [League of Legends](games/l/league_of_legends.md) | 6,224 | 4.20 | 1,025 |
 | 75 | [Rogue Company](games/r/rogue_company.md) | 6,223 | 4.28 | 950 |
@@ -150,11 +150,11 @@
 | 148 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,376 | 4.70 | 222 |
 | 149 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,340 | 4.77 | 121 |
 | 150 | [DOOM 64](games/d/doom_64.md) | 1,320 | 4.66 | 318 |
-| 151 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,287 | 4.69 | 250 |
+| 151 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,288 | 4.69 | 250 |
 | 152 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,280 | 4.42 | 781 |
 | 153 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,248 | 4.46 | 707 |
 | 154 | [EVE Online](games/e/eve_online.md) | 1,244 | 4.24 | 992 |
-| 155 | [Saints Row](games/s/saints_row.md) | 1,240 | 3.90 | 1,142 |
+| 155 | [Saints Row](games/s/saints_row.md) | 1,241 | 3.90 | 1,142 |
 | 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,234 | 4.47 | 693 |
 | 157 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,213 | 4.74 | 165 |
 | 158 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,206 | 4.64 | 362 |
@@ -284,7 +284,7 @@
 | 282 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 304 | 4.63 | 379 |
 | 283 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 299 | 4.44 | 741 |
 | 284 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 968 |
-| 285 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 294 | 4.34 | 888 |
+| 285 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 296 | 4.34 | 888 |
 | 286 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 288 | 4.83 | 57 |
 | 286 | [Sheltered](games/s/sheltered.md) | 288 | 4.41 | 796 |
 | 288 | [Roller Champions™](games/r/roller_champions™.md) | 284 | 4.35 | 878 |
