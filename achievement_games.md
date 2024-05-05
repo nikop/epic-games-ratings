@@ -348,7 +348,7 @@
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 2023-09-29 | 14 (1,000 XP) | 0 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 24 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.13 | 28,283 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.13 | 28,755 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,475 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 371,874 | 4.22 | 102 |
@@ -363,7 +363,7 @@
 | [Danghost](games/6/66b12faffa204da39bda39d087789944.md) | 2023-09-27 | 66 (1,000 XP) | 0 | - | 0 |
 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 2023-09-26 | 22 (1,000 XP) | 87 | - | 0 |
 | [Super Hydorah](games/0/0a17427d84184578bd1bc06a2f410a58.md) | 2023-09-25 | 21 (1,000 XP) | 15 | - | 0 |
-| [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 2023-09-25 | 91 (1,000 XP) | 2,434 | 4.56 | 0 |
+| [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 2023-09-25 | 91 (1,000 XP) | 2,434 | 4.57 | 0 |
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-09-23 | 21 (1,000 XP) | 1 | - | - |
 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2023-09-22 | 17 (1,000 XP) | 294 | - | 0 |
 | [Bud Spencer and Terence Hill - Slaps and Beans 2](games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 2023-09-22 | 33 (1,000 XP) | 0 | - | 0 |
@@ -471,7 +471,7 @@
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 35 (1,200 XP) | 20,212 | 4.52 | 0 |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 341,926 | 4.70 | 9,363 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 341,926 | 4.70 | 9,382 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | 12 (1,000 XP) | 23 | - | 0 |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
@@ -699,7 +699,7 @@
 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 2023-03-09 | 21 (1,000 XP) | 203 | - | 0 |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 2023-03-07 | 27 (1,000 XP) | 1,621 | 4.34 | 0 |
 | [Rogue Spirit](games/r/rogue_spirit.md) | 2023-03-07 | 60 (1,000 XP) | 37 | - | 0 |
-| [Sniper Elite 5](games/s/sniper_elite_5.md) | 2023-03-07 | 71 (1,705 XP) | 4,620 | 4.48 | 47 |
+| [Sniper Elite 5](games/s/sniper_elite_5.md) | 2023-03-07 | 71 (1,705 XP) | 4,620 | 4.49 | 47 |
 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 2023-02-28 | 24 (1,000 XP) | 1,780 | - | 0 |
 | [Voltaire: The Vegan Vampire](games/v/voltaire__the_vegan_vampire.md) | 2023-02-27 | 31 (1,000 XP) | 147 | - | 0 |
 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 2023-02-23 | 40 (1,000 XP) | 1,341 | 4.57 | 0 |
@@ -768,7 +768,7 @@
 | [McPixel 3](games/m/mcpixel_3.md) | 2022-11-14 | 93 (1,000 XP) | 1 | - | 0 |
 | [Bloodshore](games/b/bloodshore.md) | 2022-11-11 | 17 (1,000 XP) | 361 | - | 0 |
 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 2022-11-10 | 8 (1,000 XP) | 9 | - | 0 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 2022-11-08 | 100 (1,000 XP) | 381,894 | 4.75 | 1,641 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 2022-11-08 | 100 (1,000 XP) | 381,894 | 4.75 | 1,646 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 2022-11-07 | 32 (1,000 XP) | 1,507 | 4.58 | 27 |
 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | 2022-11-04 | 24 (1,000 XP) | 79 | - | 0 |
 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 2022-11-04 | 14 (1,000 XP) | 12 | - | 0 |
@@ -786,7 +786,7 @@
 | [The Bunker](games/t/the_bunker.md) | 2022-10-21 | 28 (1,000 XP) | 214 | - | 0 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 3,955 | 4.10 | 0 |
 | [Urbek City Builder](games/u/urbek_city_builder.md) | 2022-10-20 | 79 (1,000 XP) | 589 | - | 0 |
-| [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 36,496 | 4.51 | 367 |
+| [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 36,496 | 4.51 | 368 |
 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 2022-10-17 | 35 (1,000 XP) | 21,028 | 4.74 | 516 |
 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2022-10-17 | 30 (1,000 XP) | 88 | - | 0 |
 | [Trifox](games/t/trifox.md) | 2022-10-14 | 46 (1,000 XP) | 107 | - | 0 |
@@ -889,7 +889,7 @@
 | [Wunderling DX](games/w/wunderling_dx.md) | 2022-04-28 | 41 (1,000 XP) | 41 | - | 0 |
 | [Imagine Earth](games/i/imagine_earth.md) | 2022-04-28 | 24 (1,000 XP) | 461 | 4.32 | 0 |
 | [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 253 | - | 0 |
-| [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 2022-04-27 | 22 (1,000 XP) | 0 | 4.55 | 0 |
+| [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 2022-04-27 | 22 (1,000 XP) | 0 | 4.56 | 0 |
 | [Train Valley](games/t/train_valley.md) | 2022-04-27 | 39 (1,000 XP) | 742 | 4.47 | 0 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 2022-04-26 | 72 (1,000 XP) | 7,785 | 4.18 | 99 |
 | [Unrailed!](games/u/unrailed!.md) | 2022-04-25 | 52 (1,000 XP) | 699,314 | 4.64 | 227 |
@@ -957,7 +957,7 @@
 | [War Mongrels](games/w/war_mongrels.md) | 2021-10-19 | 59 (1,000 XP) | 2,543 | 4.39 | 0 |
 | [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,010 | 4.82 | 487 |
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,097 | 4.43 | 0 |
-| [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,637,769 | 4.65 | 1,198 |
+| [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,637,769 | 4.65 | 1,199 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 162,195 | 4.47 | 22 |
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 542,311 | 4.68 | 9,275 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 27,960 | 4.28 | 0 |
