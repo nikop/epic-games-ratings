@@ -4,12 +4,13 @@
 Rating: 4.80 (Ranked 93)  
 ## Awards
 Max (Great Boss Battles): 103  (Ranked 404)  
-Sum: 123 (Ranked 498)  
-Diff (max vs sum): -94  
+Sum: 143 (Ranked 490)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 103 |
 | This game has Playful Visuals | 20 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -93,3 +94,4 @@ Diff (max vs sum): -94
 | 2024-04-26 | 4.80 | 101 | 101 |
 | 2024-04-28 | 4.80 | 101 | 121 |
 | 2024-05-01 | 4.80 | 103 | 123 |
+| 2024-05-05 | 4.80 | 103 | 143 |
