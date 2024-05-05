@@ -376,7 +376,7 @@
 | 362 | [Northgard](games/n/northgard.md) | 4.64 | 47 | 513 |
 | 362 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,110 | 18 |
 | 362 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.64 | 38 | 536 |
-| 362 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,203 | 158 |
+| 362 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,206 | 158 |
 | 362 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 227 | 314 |
 | 379 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.63 | 0 | 635 |
 | 379 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 625 |
@@ -428,7 +428,7 @@
 | 422 | [Control](games/c/control.md) | 4.61 | 9,464 | 54 |
 | 422 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 240 | 305 |
 | 422 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 635 |
-| 422 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,277 | 13 |
+| 422 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,326 | 13 |
 | 422 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.61 | 197 | 331 |
 | 422 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 157 | 358 |
 | 422 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 65 | 467 |
@@ -626,7 +626,7 @@
 | 623 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,209 | 96 |
 | 623 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 308 |
 | 623 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 635 |
-| 623 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,356 | 16 |
+| 623 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,414 | 16 |
 | 623 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.51 | 0 | 635 |
 | 623 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 367 | 262 |
 | 623 | [GigaBash](games/g/gigabash.md) | 4.51 | 89 | 429 |
@@ -762,7 +762,7 @@
 | 742 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.44 | 254 | 299 |
 | 742 | [Tunche](games/t/tunche.md) | 4.44 | 35 | 548 |
 | 742 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 299 | 283 |
-| 763 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 380 | 260 |
+| 763 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 382 | 260 |
 | 763 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 275 | 292 |
 | 763 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 635 |
 | 763 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 635 |
@@ -959,7 +959,7 @@
 | 950 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.28 | 366 | 264 |
 | 950 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 25 | 601 |
 | 950 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 635 |
-| 950 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,222 | 74 |
+| 950 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,222 | 75 |
 | 950 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 131 | 376 |
 | 950 | [Steelrising](games/s/steelrising.md) | 4.28 | 42 | 524 |
 | 950 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 350 |
@@ -1028,7 +1028,7 @@
 | 1,025 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 133 | 375 |
 | 1,025 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 635 |
 | 1,025 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 552 |
-| 1,025 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,214 | 75 |
+| 1,025 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,224 | 74 |
 | 1,030 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 505 |
 | 1,030 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,524 | 105 |
 | 1,030 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.19 | 33 | 556 |

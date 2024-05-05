@@ -12,10 +12,10 @@
 | 10 | [VALORANT](games/v/valorant.md) | 115,203 | 4.50 | 642 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 75,033 | 4.44 | 742 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 68,827 | 4.58 | 486 |
-| 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 60,277 | 4.61 | 422 |
+| 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 60,326 | 4.61 | 422 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,201 | 4.74 | 165 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 45,448 | 4.72 | 196 |
-| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,356 | 4.51 | 623 |
+| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,414 | 4.51 | 623 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,829 | 4.74 | 165 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,110 | 4.64 | 362 |
 | 19 | [Dauntless](games/d/dauntless.md) | 28,861 | 4.53 | 591 |
@@ -73,8 +73,8 @@
 | 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,540 | 4.80 | 93 |
 | 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,478 | 4.78 | 113 |
 | 73 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,236 | 4.66 | 318 |
-| 74 | [Rogue Company](games/r/rogue_company.md) | 6,222 | 4.28 | 950 |
-| 75 | [League of Legends](games/l/league_of_legends.md) | 6,214 | 4.20 | 1,025 |
+| 74 | [League of Legends](games/l/league_of_legends.md) | 6,224 | 4.20 | 1,025 |
+| 75 | [Rogue Company](games/r/rogue_company.md) | 6,222 | 4.28 | 950 |
 | 76 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,102 | 4.64 | 362 |
 | 77 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,099 | 4.85 | 37 |
 | 78 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,042 | 4.56 | 539 |
@@ -157,7 +157,7 @@
 | 155 | [Saints Row](games/s/saints_row.md) | 1,240 | 3.90 | 1,142 |
 | 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,234 | 4.47 | 693 |
 | 157 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,213 | 4.74 | 165 |
-| 158 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,203 | 4.64 | 362 |
+| 158 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,206 | 4.64 | 362 |
 | 159 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,198 | 4.65 | 342 |
 | 160 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,163 | 4.62 | 397 |
 | 161 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,157 | 4.69 | 251 |
@@ -259,7 +259,7 @@
 | 257 | [Dead Cells](games/d/dead_cells.md) | 390 | 4.85 | 37 |
 | 257 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 390 | 4.72 | 196 |
 | 259 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 387 | 3.99 | 1,120 |
-| 260 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 380 | 4.43 | 763 |
+| 260 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 382 | 4.43 | 763 |
 | 261 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 374 | 4.55 | 555 |
 | 262 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 367 | 4.51 | 623 |
 | 262 | [Inscryption](games/i/inscryption.md) | 367 | 4.87 | 20 |
