@@ -3,7 +3,7 @@
   "Name": "Assassin\u0027s Creed Syndicate Standard Edition",
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 623,
-  "Ranking_Popularity": 344,
+  "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -4944,11 +4944,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 1396,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-05-04T23:58:25.6492599+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1397,
+      "NumberOfAwardsMax": 178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1396,
-  "NumberOfAwardsMax": 177,
+  "NumberOfAwards": 1397,
+  "NumberOfAwardsMax": 178,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -4973,7 +4979,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5035,8 +5041,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2024-05-04T20:59:19.6634625+00:00",
+  "LastChanged": "2024-05-04T23:58:25.6492598+00:00",
   "LastUpdate_AppInfo": "2024-04-28T20:58:03.1212796+00:00",
-  "LastUpdate_Ratings": "2024-05-04T22:00:32.4930836+00:00",
+  "LastUpdate_Ratings": "2024-05-04T23:58:25.6492614+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:28.2641347+00:00"
 }
