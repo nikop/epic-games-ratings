@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Diamond Drone](games/5/5e307f50567c4f8fb0c187f0729bfd08.md) | 2024-05-05 | - |  | - | - |
+| [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 2 | - | - |
 | [Parkour Legends](games/p/parkour_legends.md) | 2024-05-08 | - |  | - | - |
 | [The Lone Blade](games/e/e785c43b142546029dc0a3220ccb5ac4.md) | 2024-05-08 | - |  | - | - |
@@ -42,7 +43,6 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Active and Operational](games/a/active_and_operational.md) | 2024-06-30 | - |  | - | - |
 | [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2024-06-30 | - |  | - | - |
-| [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-06-30 | - |  | - | - |
 | [Baimason's Thing Finder Puzzle](games/f/fcf1df110db64edb929913d38d4276aa.md) | 2024-06-30 | - |  | - | - |
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-30 | - |  | - | - |
 | [ChronoForge](games/3/3347fc952acb48f1a4cbd0896e1316dc.md) | 2024-06-30 | - |  | - | - |
