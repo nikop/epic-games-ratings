@@ -57,7 +57,7 @@
 | 45 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 241 | 304 |
 | 45 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 635 |
 | 57 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 635 |
-| 57 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,196 | 68 |
+| 57 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,201 | 68 |
 | 57 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 205 | 326 |
 | 57 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 635 |
 | 57 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 635 |
@@ -123,14 +123,14 @@
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 31 | 565 |
 | 122 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 25 | 601 |
 | 122 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.77 | 0 | 635 |
-| 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,208 | 41 |
+| 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,238 | 41 |
 | 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,340 | 149 |
 | 122 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,501 | 39 |
 | 122 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.77 | 155 | 360 |
 | 122 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 635 |
 | 122 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.77 | 0 | 635 |
 | 122 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 635 |
-| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,608 | 112 |
+| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,609 | 112 |
 | 122 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.77 | 0 | 635 |
 | 122 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 877 | 192 |
 | 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 635 |
@@ -263,7 +263,7 @@
 | 251 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 635 |
 | 251 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 685 | 212 |
 | 251 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 531 |
-| 251 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,208 | 41 |
+| 251 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,208 | 42 |
 | 251 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 79 | 445 |
 | 251 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 603 | 223 |
 | 251 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 58 | 482 |
@@ -273,7 +273,7 @@
 | 251 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,157 | 161 |
 | 251 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 635 |
 | 273 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,752 | 91 |
-| 273 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 795 | 200 |
+| 273 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 796 | 200 |
 | 273 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 0 | 635 |
 | 273 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 73 | 455 |
 | 273 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 635 |
@@ -987,7 +987,7 @@
 | 984 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.25 | 0 | 635 |
 | 984 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 635 |
 | 984 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 635 |
-| 984 | [Predecessor](games/p/predecessor.md) | 4.25 | 555 | 229 |
+| 984 | [Predecessor](games/p/predecessor.md) | 4.25 | 558 | 229 |
 | 984 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 635 |
 | 984 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 635 |
 | 984 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 601 |
@@ -1114,7 +1114,7 @@
 | 1,112 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 4.02 | 0 | 635 |
 | 1,113 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 635 |
 | 1,113 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 635 |
-| 1,113 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,838 | 51 |
+| 1,113 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,867 | 51 |
 | 1,116 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.00 | 25 | 601 |
 | 1,116 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.00 | 0 | 635 |
 | 1,116 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,145 | 87 |
