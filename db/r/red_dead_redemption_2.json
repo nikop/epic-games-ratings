@@ -25751,18 +25751,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 873707,
       "NumberOfAwardsMax": 314773
+    },
+    {
+      "Time": "2024-05-05T22:58:32.9776573+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 874171,
+      "NumberOfAwardsMax": 315153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 873707,
-  "NumberOfAwardsMax": 314773,
+  "NumberOfAwards": 874171,
+  "NumberOfAwardsMax": 315153,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 314773
+      "Count": 315153
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -25786,7 +25792,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 38228
+      "Count": 38312
     },
     {
       "Text": "This game is Educational",
@@ -25854,8 +25860,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-05-05T19:58:37.6284254+00:00",
+  "LastChanged": "2024-05-05T22:58:32.9776571+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:44.7967162+00:00",
-  "LastUpdate_Ratings": "2024-05-05T20:59:58.9953002+00:00",
+  "LastUpdate_Ratings": "2024-05-05T22:58:32.9776577+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:47.0957834+00:00"
 }

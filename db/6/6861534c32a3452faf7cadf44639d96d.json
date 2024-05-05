@@ -2,7 +2,7 @@
   "ID": "6861534c32a3452faf7cadf44639d96d",
   "Name": "Garten of Banban",
   "ProductSlug": "garten-of-banban-13ddcd",
-  "Ranking_Rating": 1158,
+  "Ranking_Rating": 1153,
   "Ranking_Popularity": 636,
   "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.79,
+  "Rating": 3.83,
   "RatingHistory": [
     {
       "Time": "2024-01-07T15:57:26.3414368+00:00",
@@ -77,6 +77,12 @@
       "Rating": 3.79,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-05T22:58:15.0738868+00:00",
+      "Rating": 3.83,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -95,8 +101,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-15T07:57:36.5792679+00:00",
   "FirstSeenRating": "2024-01-07T15:57:26.3414366+00:00",
-  "LastChanged": "2024-04-29T23:00:24.6320771+00:00",
+  "LastChanged": "2024-05-05T22:58:15.0738866+00:00",
   "LastUpdate_AppInfo": "2024-05-02T01:41:19.4704956+00:00",
-  "LastUpdate_Ratings": "2024-05-05T20:59:44.137992+00:00",
+  "LastUpdate_Ratings": "2024-05-05T22:58:15.0738872+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:36.9923684+00:00"
 }
