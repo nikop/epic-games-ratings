@@ -11,7 +11,7 @@
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 635 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 24 | 608 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 635 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,264 | 49 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,276 | 49 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 531 | 232 |
 | 12 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,101 | 125 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 27,378 | 21 |
@@ -114,30 +114,30 @@
 | 100 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 0 | 635 |
 | 113 | [Aground](games/a/aground.md) | 4.78 | 0 | 635 |
 | 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,660 | 47 |
-| 113 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 1,007 | 180 |
 | 113 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 526 | 233 |
 | 113 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,478 | 72 |
 | 113 | [Quake](games/q/quake.md) | 4.78 | 53 | 495 |
 | 113 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 67 | 464 |
 | 113 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.78 | 61 | 474 |
 | 113 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 31 | 565 |
-| 122 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 25 | 601 |
-| 122 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.77 | 0 | 635 |
-| 122 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,238 | 41 |
-| 122 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,340 | 149 |
-| 122 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,501 | 39 |
-| 122 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.77 | 155 | 360 |
-| 122 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 635 |
-| 122 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.77 | 0 | 635 |
-| 122 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 635 |
-| 122 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,609 | 112 |
-| 122 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.77 | 0 | 635 |
-| 122 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 877 | 192 |
-| 122 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 635 |
-| 122 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,019 | 176 |
-| 122 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 635 |
-| 122 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 173 | 350 |
-| 122 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 635 |
+| 121 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 25 | 601 |
+| 121 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.77 | 0 | 635 |
+| 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,238 | 41 |
+| 121 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,007 | 180 |
+| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,340 | 149 |
+| 121 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,501 | 39 |
+| 121 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.77 | 155 | 360 |
+| 121 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 635 |
+| 121 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.77 | 0 | 635 |
+| 121 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 635 |
+| 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.77 | 2,609 | 112 |
+| 121 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.77 | 0 | 635 |
+| 121 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 877 | 192 |
+| 121 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 635 |
+| 121 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,019 | 176 |
+| 121 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 635 |
+| 121 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 173 | 350 |
+| 121 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 635 |
 | 139 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,615 | 26 |
 | 139 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,572 | 104 |
 | 139 | [Journey](games/j/journey.md) | 4.76 | 0 | 635 |
@@ -149,7 +149,7 @@
 | 139 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 635 |
 | 139 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 220 | 316 |
 | 149 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.75 | 0 | 635 |
-| 149 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,390 | 61 |
+| 149 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,399 | 61 |
 | 149 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 635 |
 | 149 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,090 | 168 |
 | 149 | [Fez](games/f/fez.md) | 4.75 | 26 | 593 |
@@ -596,7 +596,7 @@
 | 591 | [Everything](games/e/everything.md) | 4.53 | 0 | 635 |
 | 591 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 635 |
 | 591 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 214 | 318 |
-| 591 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.53 | 3,098 | 108 |
+| 591 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.53 | 3,103 | 108 |
 | 591 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.53 | 34 | 553 |
 | 591 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 635 |
 | 591 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.53 | 0 | 635 |
@@ -683,7 +683,7 @@
 | 680 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 107 | 399 |
 | 680 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 289 |
 | 680 | [Figment](games/f/figment.md) | 4.48 | 21 | 625 |
-| 680 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,037 | 98 |
+| 680 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,044 | 98 |
 | 680 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 635 |
 | 680 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 4.48 | 0 | 635 |
 | 680 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 635 |
@@ -1155,8 +1155,8 @@
 | 1,153 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 635 |
 | 1,153 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 635 |
 | 1,155 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 635 |
-| 1,155 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.82 | 0 | 635 |
 | 1,155 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 635 |
+| 1,157 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.80 | 0 | 635 |
 | 1,158 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 635 |
 | 1,158 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.79 | 0 | 635 |
 | 1,158 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 635 |
