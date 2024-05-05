@@ -1,7 +1,7 @@
 # SLUDGE LIFE
 [Store](https://store.epicgames.com/en-US/p/sludge-life)  
 [View Rawdata](../../db/s/sludge_life.json)  
-Rating: 4.77 (Ranked 122)  
+Rating: 4.77 (Ranked 121)  
 Number of Ratings: 176  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
