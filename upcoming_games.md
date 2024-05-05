@@ -4,6 +4,7 @@
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 2 | - | - |
 | [Parkour Legends](games/p/parkour_legends.md) | 2024-05-08 | - |  | - | - |
+| [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2024-05-08 | - |  | - | - |
 | [The Lone Blade](games/e/e785c43b142546029dc0a3220ccb5ac4.md) | 2024-05-08 | - |  | - | - |
 | [Cross Tails](games/c/cb0899902d9c4f33b4f763b22b981043.md) | 2024-05-09 | - |  | - | - |
 | [Ships At Sea](games/5/5c610ed6aec14085a604cb5e42e70ad4.md) | 2024-05-09 | - |  | - | - |
@@ -332,7 +333,6 @@
 | [Evil Tonight](games/e/ea17712b1bd24b64a7b7ff60b8c936b0.md) | 2099-01-01 | 8 (1,000 XP) | 0 | - | - |
 | [ExoGP](games/9/9fa6c3e5e2ce4038b77b36c90bf55f9e.md) | 2099-01-01 | - |  | - | - |
 | [ExoWorlds](games/8/8ac47eb9b3844030b73ecc21936730a0.md) | 2099-01-01 | - |  | - | - |
-| [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2099-01-01 | - |  | - | - |
 | [Extremely Realistic Siege Warfare Simulator](games/b/ba853730b0ab4978b0a7394c47cdc337.md) | 2099-01-01 | - |  | - | - |
 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2099-01-01 | - |  | - | - |
 | [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | 2099-01-01 | - |  | - | - |
