@@ -1,10 +1,10 @@
 # Dishonored®: Death of the Outsider™
 [Store](https://store.epicgames.com/en-US/p/dishonored-death-of-the-outsider)  
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
-Rating: 4.44 (Ranked 742)  
+Rating: 4.44 (Ranked 741)  
 ## Awards
 Max (Relaxing): 78  (Ranked 448)  
-Sum: 619 (Ranked 347)  
+Sum: 620 (Ranked 347)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 101
 | This game is Extremely Fun | 76 |
 | This game has Amazing Storytelling | 75 |
 | This game has Amazing Characters | 73 |
-| This game has Diverse Characters | 72 |
+| This game has Diverse Characters | 73 |
 | This game is Highly Recommended | 71 |
 | This game is Great for Beginners | 68 |
 | This game has Quickly Understood Controls | 64 |
@@ -298,3 +298,4 @@ Diff (max vs sum): 101
 | 2024-05-01 | 4.43 | 77 | 616 |
 | 2024-05-02 | 4.43 | 78 | 619 |
 | 2024-05-03 | 4.44 | 78 | 619 |
+| 2024-05-05 | 4.44 | 78 | 620 |
