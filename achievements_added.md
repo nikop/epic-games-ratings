@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 604 | 4.24 | 118 |
-| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 17,111 | 3.89 | 51 |
+| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 17,111 | 3.90 | 51 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 4 | - | 0 |
 | [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | 77 (1,000 XP) | 6 | - | 0 |
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-04-05 | 30 (1,000 XP) | 2 | - | 0 |
@@ -177,7 +177,7 @@
 | [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 416,682 | 4.40 | 28 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 41 | - | - |
 | [Entomophobia](games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 2023-10-31 | 14 (1,000 XP) | 11 | - | - |
-| [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 322,087 | 4.65 | 303 |
+| [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 322,087 | 4.65 | 305 |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 173 | - | - |
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 137 | - | 0 |
 | [I'm in Love With Your Dead Grandmother](games/3/3eab9be22dbd475ab1ef7e3824b81121.md) | 2024-02-03 | 12 (1,000 XP) | 121 | - | - |
@@ -199,7 +199,7 @@
 | [CounterAttack: Uprising](games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 2024-01-12 | 24 (1,000 XP) | 71 | - | 0 |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 2023-12-17 | 31 (1,000 XP) | 97 | - | 0 |
-| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 348,769 | 4.26 | 95 |
+| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 348,769 | 4.26 | 122 |
 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 259,065 | 4.28 | 38 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 4,173 | 4.42 | 81 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 1,337 | 4.48 | 107 |

@@ -56,7 +56,7 @@
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 1 | - | - |
 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 15 | - | 0 |
 | [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | 15 (1,000 XP) | 0 | - | - |
-| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 17,111 | 3.89 | 51 |
+| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 17,111 | 3.90 | 51 |
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 2024-04-01 | 58 (1,250 XP) | 7 | - | 0 |
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | 30 (1,000 XP) | 2 | - | 0 |
@@ -188,7 +188,7 @@
 | [Potato Sack Racing Simulator 2024](games/2/2ea4230c2a664c27a7e3d1c94a487241.md) | 2024-01-05 | 17 (1,000 XP) | 25 | - | 0 |
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 137 | - | 0 |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 74 | - | 0 |
-| [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 322,087 | 4.65 | 303 |
+| [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 322,087 | 4.65 | 305 |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 6,187 | 4.49 | 36 |
 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-26 | 16 (1,000 XP) | 31 | - | 0 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 43 | - | 0 |
@@ -201,7 +201,7 @@
 | [Virtual Rides 3](games/1/116f71b2da434337bba6498e0ea61d9c.md) | 2023-12-17 | 10 (1,000 XP) | 32 | - | 0 |
 | [Battle Planet - Judgement Day](games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 2023-12-15 | 13 (1,000 XP) | 4 | - | 0 |
 | [Hero Battle Fantasy Arena](games/4/4d936d45ca14450c86d6472c3c494181.md) | 2023-12-15 | 15 (1,000 XP) | 86 | - | 0 |
-| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 348,769 | 4.26 | 95 |
+| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 348,769 | 4.26 | 122 |
 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 259,065 | 4.28 | 38 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 2023-12-13 | 51 (1,000 XP) | 510 | - | 0 |
@@ -681,7 +681,7 @@
 | [Gripper](games/g/gripper.md) | 2023-03-29 | 35 (1,000 XP) | 52 | - | 0 |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 2023-03-29 | 13 (1,000 XP) | 21,732 | 4.53 | 0 |
 | [Horse Tales - Emerald Valley Ranch](games/h/horse_tales_-_emerald_valley_ranch.md) | 2023-03-29 | 33 (1,000 XP) | 53 | - | 0 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 41 (1,130 XP) | 94,894 | 3.97 | 693 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 41 (1,130 XP) | 94,894 | 3.97 | 699 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | 2023-03-28 | 33 (1,000 XP) | 4,358 | 4.67 | 0 |
 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2023-03-23 | 17 (1,440 XP) | 277 | - | 0 |
 | [Chess Ultra](games/c/chess_ultra.md) | 2023-03-23 | 38 (1,000 XP) | 238,349 | 4.28 | 0 |
@@ -821,7 +821,7 @@
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 55 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.18 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,821 | 4.77 | 1,340 |
-| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 755,320 | 4.18 | 417 |
+| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 755,320 | 4.18 | 422 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.54 | 39 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 246,545 | 4.58 | 1,526 |
