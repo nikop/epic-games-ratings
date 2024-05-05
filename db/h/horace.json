@@ -2,9 +2,9 @@
   "ID": "8aa6e526d2864c108f219747ad7011e5",
   "Name": "Horace",
   "ProductSlug": "horace",
-  "Ranking_Rating": 555,
-  "Ranking_Popularity": 635,
-  "Ranking_PopularitySum": 635,
+  "Ranking_Rating": 540,
+  "Ranking_Popularity": 636,
+  "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 45,
   "RatingHistory": [
     {
@@ -293,6 +293,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-05T21:00:09.1748222+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -310,8 +316,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.8760783+00:00",
-  "LastChanged": "2024-03-31T17:59:19.7814425+00:00",
+  "LastChanged": "2024-05-05T21:00:09.1748219+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:50.6466943+00:00",
-  "LastUpdate_Ratings": "2024-05-05T19:58:48.6065131+00:00",
+  "LastUpdate_Ratings": "2024-05-05T21:00:09.1748226+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:42.2396354+00:00"
 }
