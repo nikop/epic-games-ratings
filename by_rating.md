@@ -76,7 +76,7 @@
 | 70 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 636 |
 | 70 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 339 | 273 |
 | 70 | [Sifu](games/s/sifu.md) | 4.82 | 7,789 | 65 |
-| 70 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 514 | 237 |
+| 70 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 515 | 237 |
 | 70 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 80 | 441 |
 | 70 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.82 | 21 | 626 |
 | 80 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,518 | 116 |
@@ -326,7 +326,7 @@
 | 318 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,320 | 150 |
 | 318 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 428 | 251 |
 | 318 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.66 | 0 | 636 |
-| 318 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.66 | 7,206 | 67 |
+| 318 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.66 | 7,216 | 67 |
 | 318 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 636 |
 | 318 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 636 |
 | 318 | [Overcooked](games/o/overcooked.md) | 4.66 | 135 | 373 |
@@ -684,7 +684,7 @@
 | 681 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 108 | 400 |
 | 681 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 290 |
 | 681 | [Figment](games/f/figment.md) | 4.48 | 21 | 626 |
-| 681 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,044 | 98 |
+| 681 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,050 | 98 |
 | 681 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 636 |
 | 681 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 4.48 | 0 | 636 |
 | 681 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 636 |
@@ -1157,9 +1157,9 @@
 | 1,153 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 636 |
 | 1,156 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 636 |
 | 1,156 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 636 |
-| 1,158 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.80 | 0 | 636 |
-| 1,159 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 636 |
-| 1,159 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.79 | 0 | 636 |
+| 1,158 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 636 |
+| 1,158 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.79 | 0 | 636 |
+| 1,160 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.78 | 0 | 636 |
 | 1,161 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 636 |
 | 1,162 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 0 | 636 |
 | 1,163 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 636 |

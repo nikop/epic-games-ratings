@@ -66,7 +66,7 @@
 | 64 | [Cities: Skylines](games/c/cities__skylines.md) | 7,853 | 4.66 | 318 |
 | 65 | [Sifu](games/s/sifu.md) | 7,789 | 4.82 | 70 |
 | 66 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,220 | 4.75 | 149 |
-| 67 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,206 | 4.66 | 318 |
+| 67 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,216 | 4.66 | 318 |
 | 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,201 | 4.83 | 57 |
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,010 | 4.58 | 486 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 781 |
@@ -97,7 +97,7 @@
 | 95 | [Paladins](games/p/paladins.md) | 4,407 | 4.32 | 911 |
 | 96 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,210 | 4.51 | 622 |
 | 97 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4,179 | 4.63 | 379 |
-| 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,044 | 4.48 | 681 |
+| 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,050 | 4.48 | 681 |
 | 99 | [Hades](games/h/hades.md) | 3,785 | 4.92 | 5 |
 | 100 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,774 | 4.66 | 318 |
 | 101 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,765 | 4.57 | 514 |
@@ -236,7 +236,7 @@
 | 234 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 532 | 4.78 | 112 |
 | 235 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 521 | 4.75 | 149 |
 | 236 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 516 | 4.74 | 165 |
-| 237 | [Slime Rancher](games/s/slime_rancher.md) | 514 | 4.82 | 70 |
+| 237 | [Slime Rancher](games/s/slime_rancher.md) | 515 | 4.82 | 70 |
 | 238 | [Warface: Clutch](games/w/warface.md) | 509 | 3.89 | 1,145 |
 | 239 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 504 | 4.50 | 643 |
 | 240 | [Second Extinction™](games/s/second_extinction™.md) | 498 | 4.06 | 1,105 |
