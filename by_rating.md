@@ -338,7 +338,7 @@
 | 318 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 903 | 191 |
 | 318 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.66 | 81 | 439 |
 | 318 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 105 | 403 |
-| 318 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,236 | 73 |
+| 318 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,236 | 74 |
 | 318 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 246 |
 | 318 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 636 |
 | 342 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 636 |
@@ -427,7 +427,7 @@
 | 421 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 4.61 | 0 | 636 |
 | 421 | [Control](games/c/control.md) | 4.61 | 9,466 | 54 |
 | 421 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 636 |
-| 421 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,326 | 13 |
+| 421 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,376 | 13 |
 | 421 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.61 | 198 | 331 |
 | 421 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 157 | 358 |
 | 421 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 65 | 468 |
@@ -732,7 +732,7 @@
 | 720 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 636 |
 | 720 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.45 | 0 | 636 |
 | 720 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 935 | 186 |
-| 720 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 815,332 | 2 |
+| 720 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 816,674 | 2 |
 | 720 | [Scorn](games/s/scorn.md) | 4.45 | 0 | 636 |
 | 720 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.45 | 0 | 636 |
 | 720 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 636 |
@@ -762,7 +762,7 @@
 | 741 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.44 | 256 | 299 |
 | 741 | [Tunche](games/t/tunche.md) | 4.44 | 35 | 549 |
 | 741 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 299 | 284 |
-| 763 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 382 | 261 |
+| 763 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 383 | 261 |
 | 763 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 275 | 293 |
 | 763 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 636 |
 | 763 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 0 | 636 |
@@ -836,7 +836,7 @@
 | 813 | [The Big Con](games/t/the_big_con.md) | 4.40 | 0 | 636 |
 | 813 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 636 |
 | 836 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 636 |
-| 836 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.39 | 267 | 295 |
+| 836 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.39 | 268 | 294 |
 | 836 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 678 | 214 |
 | 836 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 636 |
 | 836 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 98 | 418 |
@@ -1028,7 +1028,7 @@
 | 1,025 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 133 | 375 |
 | 1,025 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 636 |
 | 1,025 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 553 |
-| 1,025 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,224 | 74 |
+| 1,025 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,237 | 73 |
 | 1,030 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 507 |
 | 1,030 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,524 | 105 |
 | 1,030 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.19 | 33 | 556 |
@@ -1132,9 +1132,9 @@
 | 1,128 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.96 | 51 | 502 |
 | 1,128 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 3.96 | 0 | 636 |
 | 1,132 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 518 |
-| 1,132 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.95 | 31 | 566 |
 | 1,132 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 113 | 397 |
-| 1,135 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.94 | 0 | 636 |
+| 1,134 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 31 | 566 |
+| 1,134 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.94 | 0 | 636 |
 | 1,136 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.93 | 0 | 636 |
 | 1,136 | [Potion Permit](games/p/potion_permit.md) | 3.93 | 79 | 445 |
 | 1,136 | [To The Rescue](games/t/to_the_rescue.md) | 3.93 | 0 | 636 |
