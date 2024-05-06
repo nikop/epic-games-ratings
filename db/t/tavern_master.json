@@ -2,7 +2,7 @@
   "ID": "5d98959c6b8e43ed9a856a2f7518f548",
   "Name": "Tavern Master",
   "ProductSlug": "tavern-master-ee18ab",
-  "Ranking_Rating": 396,
+  "Ranking_Rating": 379,
   "Ranking_Popularity": 636,
   "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:23.2935411+00:00",
@@ -167,6 +167,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-05T23:58:06.8403002+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -185,8 +191,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-14T06:58:25.9911629+00:00",
   "FirstSeenRating": "2023-03-31T05:58:23.2935408+00:00",
-  "LastChanged": "2024-04-21T10:00:09.2242442+00:00",
+  "LastChanged": "2024-05-05T23:58:06.8403+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:47.2114311+00:00",
-  "LastUpdate_Ratings": "2024-05-05T22:02:11.4482932+00:00",
+  "LastUpdate_Ratings": "2024-05-05T23:58:06.8403005+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:46.509725+00:00"
 }

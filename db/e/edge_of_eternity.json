@@ -2,7 +2,7 @@
   "ID": "a8a489c0a58646ec88aec778d015fc73",
   "Name": "Edge Of Eternity",
   "ProductSlug": "edge-of-eternity",
-  "Ranking_Rating": 1159,
+  "Ranking_Rating": 1162,
   "Ranking_Popularity": 636,
   "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.79,
+  "Rating": 3.73,
   "NumberOfRatings": 22,
   "RatingHistory": [
     {
@@ -139,6 +139,12 @@
       "Rating": 3.79,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-05T23:57:59.1551336+00:00",
+      "Rating": 3.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -157,8 +163,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:46.9216243+00:00",
   "FirstSeenRating": "2022-09-05T18:00:46.7188152+00:00",
-  "LastChanged": "2024-03-06T15:59:16.0578996+00:00",
+  "LastChanged": "2024-05-05T23:57:59.1551333+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:44.6139349+00:00",
-  "LastUpdate_Ratings": "2024-05-05T22:01:59.5580289+00:00",
+  "LastUpdate_Ratings": "2024-05-05T23:57:59.1551339+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:40.3887854+00:00"
 }
