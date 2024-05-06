@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_Rating": 878,
   "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 432,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -941,10 +941,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 276,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-05-06T02:21:20.3845653+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 277,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 276,
+  "NumberOfAwards": 277,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -994,7 +1000,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -1009,8 +1015,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-05-04T19:57:41.3539387+00:00",
+  "LastChanged": "2024-05-06T02:21:20.3845651+00:00",
   "LastUpdate_AppInfo": "2024-05-01T23:56:58.2658738+00:00",
-  "LastUpdate_Ratings": "2024-05-05T23:59:21.0481469+00:00",
+  "LastUpdate_Ratings": "2024-05-06T02:21:20.3845656+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:43.7841392+00:00"
 }
