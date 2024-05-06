@@ -188,7 +188,7 @@
 | [Potato Sack Racing Simulator 2024](games/2/2ea4230c2a664c27a7e3d1c94a487241.md) | 2024-01-05 | 17 (1,000 XP) | 25 | - | 0 |
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 137 | - | 0 |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 74 | - | 0 |
-| [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 322,087 | 4.65 | 305 |
+| [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 322,087 | 4.65 | 306 |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 6,187 | 4.49 | 36 |
 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-26 | 16 (1,000 XP) | 31 | - | 0 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 43 | - | 0 |
@@ -903,7 +903,7 @@
 | [Rocco's Island](games/r/rocco's_island.md) | 2022-04-08 | 40 (1,000 XP) | 2 | - | 0 |
 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 2022-04-08 | 30 (1,000 XP) | 134 | - | 0 |
 | [ATOM RPG](games/a/atom_rpg.md) | 2022-04-06 | 36 (1,000 XP) | 1,925 | 4.52 | 56 |
-| [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2022-04-05 | 45 (1,000 XP) | 61,405 | 4.77 | 2,609 |
+| [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2022-04-05 | 45 (1,000 XP) | 61,405 | 4.77 | 2,614 |
 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 2022-04-01 | 30 (1,000 XP) | 102 | - | 0 |
 | [Pinball FX](games/p/pinball_fx.md) | 2022-03-31 | 40 (1,200 XP) | 314,529 | 4.07 | 229 |
 | [Weird West: Definitive Edition](games/w/weird_west.md) | 2022-03-31 | 53 (1,000 XP) | 2,162 | 4.43 | 33 |
