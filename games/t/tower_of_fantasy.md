@@ -3,8 +3,8 @@
 [View Rawdata](../../db/t/tower_of_fantasy.json)  
 Rating: 4.34 (Ranked 888)  
 ## Awards
-Max (Character Customization): 640  (Ranked 217)  
-Sum: 1,644 (Ranked 255)  
+Max (Character Customization): 640  (Ranked 218)  
+Sum: 1,644 (Ranked 256)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |

@@ -3,7 +3,7 @@
   "Name": "Inscryption",
   "ProductSlug": "inscryption-6b29ab",
   "Ranking_Rating": 20,
-  "Ranking_Popularity": 265,
+  "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -896,18 +896,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 498,
       "NumberOfAwardsMax": 367
+    },
+    {
+      "Time": "2024-05-06T04:58:47.5036167+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 499,
+      "NumberOfAwardsMax": 368
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 498,
-  "NumberOfAwardsMax": 367,
+  "NumberOfAwards": 499,
+  "NumberOfAwardsMax": 368,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 367
+      "Count": 368
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -963,8 +969,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2024-04-12T17:58:41.5045402+00:00",
+  "LastChanged": "2024-05-06T04:58:47.5036165+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:55.6199828+00:00",
-  "LastUpdate_Ratings": "2024-05-06T03:00:49.5480116+00:00",
+  "LastUpdate_Ratings": "2024-05-06T04:58:47.5036171+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:41.7746334+00:00"
 }
