@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 796,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1847,10 +1847,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 453,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-05-06T21:59:51.5573813+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 409,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 453,
+  "NumberOfAwards": 409,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -29265,9 +29271,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-05-04T11:59:52.867916+00:00",
+  "LastChanged": "2024-05-06T21:59:51.5573811+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:24.9201076+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:58:03.0159618+00:00",
-  "LastUpdate_Ratings": "2024-05-06T20:59:11.3078885+00:00",
+  "LastUpdate_Ratings": "2024-05-06T21:59:51.5573818+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:24.920246+00:00"
 }

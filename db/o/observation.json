@@ -2,7 +2,7 @@
   "ID": "allium",
   "Name": "Observation",
   "ProductSlug": "observation",
-  "Ranking_Rating": 556,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 636,
   "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 23,
   "RatingHistory": [
     {
@@ -108,6 +108,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-06T21:57:10.0438187+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -126,8 +132,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:43.1233001+00:00",
   "FirstSeenRating": "2022-09-02T12:00:46.9628353+00:00",
-  "LastChanged": "2023-10-05T21:59:23.1117982+00:00",
+  "LastChanged": "2024-05-06T21:57:10.0438185+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:06.4074016+00:00",
-  "LastUpdate_Ratings": "2024-05-06T19:59:49.9307432+00:00",
+  "LastUpdate_Ratings": "2024-05-06T21:57:10.0438191+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:30.6781578+00:00"
 }

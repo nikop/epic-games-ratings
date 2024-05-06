@@ -352,12 +352,12 @@ Completed: 564 (0.10%) (Ranked 357)
 | 2024-04-10 | 540,666 | 564 |
 ## Awards
 Max (Relaxing): 22  (Ranked 615)  
-Sum: 42 (Ranked 575)  
-Diff (max vs sum): 40  
+Sum: 43 (Ranked 572)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 22 |
-| This game is Great for Beginners | 20 |
+| This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -446,3 +446,4 @@ Diff (max vs sum): 40
 | 2024-02-21 | 4.46 | - | 22 | 22 |
 | 2024-02-25 | 4.47 | - | 22 | 22 |
 | 2024-03-09 | 4.47 | - | 22 | 42 |
+| 2024-05-06 | 4.47 | - | 22 | 43 |
