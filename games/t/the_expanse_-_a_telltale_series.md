@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.52 (Ranked 607)  
+Rating: 4.51 (Ranked 621)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -305,3 +305,4 @@ Completed: 77 (0.38%) (Ranked 280)
 | 2024-03-21 | 4.52 | 0 | 0 |
 | 2024-03-28 | 4.53 | 0 | 0 |
 | 2024-05-02 | 4.52 | 0 | 0 |
+| 2024-05-06 | 4.51 | 0 | 0 |
