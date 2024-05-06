@@ -189,7 +189,7 @@
 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 2023-12-29 | 15 (1,000 XP) | 137 | - | 0 |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 74 | - | 0 |
 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 2023-12-28 | 12 (1,000 XP) | 322,087 | 4.65 | 306 |
-| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 6,187 | 4.49 | 36 |
+| [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 6,187 | 4.50 | 36 |
 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 2023-12-26 | 16 (1,000 XP) | 31 | - | 0 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 43 | - | 0 |
 | [Return of Red Riding Hood Enhanced Edition](games/f/f9b5fde4c25442e5b6dd30e19ac26580.md) | 2023-12-22 | 51 (1,000 XP) | 29 | - | - |
@@ -348,7 +348,7 @@
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 2023-09-29 | 14 (1,000 XP) | 0 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 24 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.13 | 28,755 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.13 | 29,096 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,475 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 371,874 | 4.22 | 102 |
@@ -363,7 +363,7 @@
 | [Danghost](games/6/66b12faffa204da39bda39d087789944.md) | 2023-09-27 | 66 (1,000 XP) | 0 | - | 0 |
 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 2023-09-26 | 22 (1,000 XP) | 87 | - | 0 |
 | [Super Hydorah](games/0/0a17427d84184578bd1bc06a2f410a58.md) | 2023-09-25 | 21 (1,000 XP) | 15 | - | 0 |
-| [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 2023-09-25 | 91 (1,000 XP) | 2,434 | 4.57 | 0 |
+| [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 2023-09-25 | 91 (1,000 XP) | 2,434 | 4.56 | 0 |
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-09-23 | 21 (1,000 XP) | 1 | - | - |
 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2023-09-22 | 17 (1,000 XP) | 294 | - | 0 |
 | [Bud Spencer and Terence Hill - Slaps and Beans 2](games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 2023-09-22 | 33 (1,000 XP) | 0 | - | 0 |
@@ -1046,7 +1046,7 @@
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,221 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 2,344 | 4.60 | 93 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 2,421 | 4.60 | 421 |
-| [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 149,110 | 4.13 | 0 |
+| [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 149,110 | 4.14 | 0 |
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,136 | 4.19 | 50 |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | 16 (1,000 XP) | 0 | - | - |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
