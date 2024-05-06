@@ -4,7 +4,7 @@
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 834,
   "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -749,10 +749,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 404,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-05-06T16:00:06.2023441+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 440,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 404,
+  "NumberOfAwards": 440,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -832,7 +838,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 32
+      "Count": 36
     }
   ],
   "EOS_Progressed": 0,
@@ -847,8 +853,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-05-06T14:58:35.2194181+00:00",
+  "LastChanged": "2024-05-06T16:00:06.2023439+00:00",
   "LastUpdate_AppInfo": "2024-05-05T12:58:56.454325+00:00",
-  "LastUpdate_Ratings": "2024-05-06T14:58:35.2194186+00:00",
+  "LastUpdate_Ratings": "2024-05-06T16:00:06.2023445+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }

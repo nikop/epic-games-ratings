@@ -4,7 +4,7 @@
   "ProductSlug": "galactic-civilizations-iii",
   "Ranking_Rating": 1009,
   "Ranking_Popularity": 326,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -2582,10 +2582,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1343,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2024-05-06T15:58:29.7217723+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1344,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1343,
+  "NumberOfAwards": 1344,
   "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2605,7 +2611,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2655,8 +2661,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2024-05-06T01:44:56.8011488+00:00",
+  "LastChanged": "2024-05-06T15:58:29.7217721+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:18.5759523+00:00",
-  "LastUpdate_Ratings": "2024-05-06T14:00:46.6749946+00:00",
+  "LastUpdate_Ratings": "2024-05-06T15:58:29.7217728+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:11.0439417+00:00"
 }
