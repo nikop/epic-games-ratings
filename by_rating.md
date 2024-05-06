@@ -57,7 +57,7 @@
 | 45 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 241 | 305 |
 | 45 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 636 |
 | 57 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 636 |
-| 57 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,201 | 68 |
+| 57 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,209 | 68 |
 | 57 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 205 | 326 |
 | 57 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 636 |
 | 57 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 636 |
@@ -122,10 +122,10 @@
 | 112 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 31 | 566 |
 | 121 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 25 | 602 |
 | 121 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.77 | 0 | 636 |
-| 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,238 | 41 |
+| 121 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,254 | 41 |
 | 121 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,008 | 180 |
-| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,340 | 149 |
-| 121 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,515 | 39 |
+| 121 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,343 | 149 |
+| 121 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,523 | 39 |
 | 121 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 636 |
 | 121 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.77 | 0 | 636 |
 | 121 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 636 |
@@ -259,7 +259,7 @@
 | 250 | [House Flipper](games/h/house_flipper.md) | 4.69 | 347 | 269 |
 | 250 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 636 |
 | 250 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,288 | 151 |
-| 250 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,073 | 128 |
+| 250 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,075 | 128 |
 | 250 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 636 |
 | 250 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 685 | 212 |
 | 250 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 531 |
@@ -741,7 +741,7 @@
 | 720 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.45 | 0 | 636 |
 | 720 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 141 | 369 |
 | 741 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.44 | 0 | 636 |
-| 741 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.44 | 46 | 516 |
+| 741 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.44 | 47 | 513 |
 | 741 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 636 |
 | 741 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 280 | 291 |
 | 741 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 75,113 | 11 |
@@ -855,7 +855,7 @@
 | 843 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 636 |
 | 843 | [The Riflemen](games/t/the_riflemen.md) | 4.38 | 0 | 636 |
 | 843 | [The Silent Age](games/t/the_silent_age.md) | 4.38 | 0 | 636 |
-| 843 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 637 | 219 |
+| 843 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 638 | 219 |
 | 857 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 0 | 636 |
 | 857 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 0 | 636 |
 | 857 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.37 | 0 | 636 |
@@ -998,7 +998,7 @@
 | 991 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 636 |
 | 991 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 636 |
 | 991 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.24 | 0 | 636 |
-| 991 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 516 |
+| 991 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 46 | 517 |
 | 991 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.24 | 118 | 390 |
 | 1,001 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.23 | 0 | 636 |
 | 1,001 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 636 |
@@ -1151,12 +1151,12 @@
 | 1,148 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 636 |
 | 1,148 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.85 | 0 | 636 |
 | 1,151 | [Blood of Steel](games/b/blood_of_steel.md) | 3.84 | 0 | 636 |
-| 1,151 | [INDUSTRIA](games/i/industria.md) | 3.84 | 0 | 636 |
-| 1,153 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.83 | 0 | 636 |
-| 1,153 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 636 |
-| 1,153 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 636 |
-| 1,156 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 636 |
-| 1,156 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 636 |
+| 1,152 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.83 | 0 | 636 |
+| 1,152 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 636 |
+| 1,152 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 636 |
+| 1,155 | [INDUSTRIA](games/i/industria.md) | 3.82 | 0 | 636 |
+| 1,155 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 636 |
+| 1,155 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 636 |
 | 1,158 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 636 |
 | 1,158 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.79 | 0 | 636 |
 | 1,160 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.78 | 0 | 636 |
