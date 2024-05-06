@@ -1,7 +1,7 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 207)  
+Rating: 4.71 (Ranked 206)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -376,12 +376,12 @@ Completed: 58 (0.01%) (Ranked 431)
 | 2024-03-21 | 828,671 | 57 |
 | 2024-04-10 | 832,015 | 58 |
 ## Awards
-Max (Character Customization): 8,210  (Ranked 62)  
-Sum: 30,265 (Ranked 54)  
+Max (Character Customization): 8,221  (Ranked 62)  
+Sum: 30,276 (Ranked 54)  
 Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,210 |
+| This game has Inclusive Character Customization | 8,221 |
 | This game has Great Boss Battles | 5,943 |
 | This game has Challenging Combat | 1,897 |
 | This game has Diverse Characters | 1,885 |
@@ -861,4 +861,4 @@ Diff (max vs sum): 8
 | 2024-05-03 | 4.71 | - | 8,190 | 30,191 |
 | 2024-05-04 | 4.71 | - | 8,201 | 30,225 |
 | 2024-05-05 | 4.71 | - | 8,210 | 30,259 |
-| 2024-05-06 | 4.71 | - | 8,210 | 30,265 |
+| 2024-05-06 | 4.71 | - | 8,221 | 30,276 |
