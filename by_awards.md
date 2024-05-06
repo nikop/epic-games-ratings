@@ -15,7 +15,7 @@
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 60,326 | 4.61 | 421 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,258 | 4.74 | 165 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 45,581 | 4.72 | 196 |
-| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,414 | 4.51 | 622 |
+| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,458 | 4.51 | 622 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,874 | 4.74 | 165 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,117 | 4.64 | 362 |
 | 19 | [Dauntless](games/d/dauntless.md) | 28,883 | 4.53 | 592 |
@@ -47,7 +47,7 @@
 | 45 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,343 | 4.61 | 421 |
 | 46 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 11,025 | 4.67 | 294 |
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 10,666 | 4.78 | 112 |
-| 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,440 | 4.63 | 379 |
+| 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,484 | 4.63 | 379 |
 | 49 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,276 | 4.89 | 12 |
 | 50 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,964 | 4.51 | 622 |
 | 51 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 9,867 | 4.01 | 1,113 |
@@ -176,8 +176,8 @@
 | 174 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,050 | 4.24 | 991 |
 | 175 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,032 | 4.80 | 92 |
 | 176 | [Sonic Mania](games/s/sonic_mania.md) | 1,019 | 4.77 | 121 |
+| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 1,013 | 4.67 | 294 |
 | 177 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,013 | 4.31 | 923 |
-| 178 | [FAR CRY 4](games/f/far_cry_4.md) | 1,012 | 4.67 | 294 |
 | 179 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 1,001 |
 | 180 | [Dishonored 2](games/d/dishonored_2.md) | 1,008 | 4.77 | 121 |
 | 181 | [Frostpunk](games/f/frostpunk.md) | 948 | 4.74 | 165 |
@@ -362,10 +362,10 @@
 | 360 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 155 | 4.78 | 112 |
 | 361 | [Atomicrops](games/a/atomicrops.md) | 152 | 4.86 | 28 |
 | 362 | [Alien: Isolation](games/a/alien__isolation.md) | 147 | 4.61 | 421 |
+| 362 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 147 | 4.31 | 923 |
 | 362 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 147 | 3.90 | 1,142 |
-| 364 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 146 | 4.46 | 707 |
-| 364 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 146 | 4.31 | 923 |
-| 364 | [while True: learn()](games/w/while_true__learn().md) | 146 | 4.51 | 622 |
+| 365 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 146 | 4.46 | 707 |
+| 365 | [while True: learn()](games/w/while_true__learn().md) | 146 | 4.51 | 622 |
 | 367 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 143 | 4.58 | 486 |
 | 368 | [Aimlabs](games/a/aimlabs.md) | 142 | 4.60 | 448 |
 | 369 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 141 | 4.52 | 607 |

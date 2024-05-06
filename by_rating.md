@@ -300,7 +300,7 @@
 | 294 | [Dungeons 4](games/d/dungeons_4.md) | 4.67 | 0 | 636 |
 | 294 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 636 |
 | 294 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 11,025 | 46 |
-| 294 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,012 | 178 |
+| 294 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,013 | 177 |
 | 294 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 339,697 | 4 |
 | 294 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 533 | 231 |
 | 294 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 636 |
@@ -389,7 +389,7 @@
 | 379 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 0 | 636 |
 | 379 | [HITMAN](games/h/hitman.md) | 4.63 | 229 | 312 |
 | 379 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 739 | 203 |
-| 379 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 10,440 | 48 |
+| 379 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 10,484 | 48 |
 | 379 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,179 | 97 |
 | 379 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 636 |
 | 379 | [Prey](games/p/prey.md) | 4.63 | 6,024 | 80 |
@@ -625,7 +625,7 @@
 | 622 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,209 | 96 |
 | 622 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 309 |
 | 622 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 636 |
-| 622 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,414 | 16 |
+| 622 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,458 | 16 |
 | 622 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.51 | 0 | 636 |
 | 622 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 368 | 263 |
 | 622 | [GigaBash](games/g/gigabash.md) | 4.51 | 89 | 429 |
@@ -641,7 +641,7 @@
 | 622 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 78 | 448 |
 | 622 | [The Medium](games/t/the_medium.md) | 4.51 | 0 | 636 |
 | 622 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 636 |
-| 622 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 146 | 364 |
+| 622 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 146 | 365 |
 | 643 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,053 | 129 |
 | 643 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.50 | 25 | 602 |
 | 643 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 947 | 183 |
@@ -709,7 +709,7 @@
 | 707 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,576 | 93 |
 | 707 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.46 | 0 | 636 |
 | 707 | [Escape Academy](games/e/escape_academy.md) | 4.46 | 0 | 636 |
-| 707 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.46 | 146 | 364 |
+| 707 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.46 | 146 | 365 |
 | 707 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,248 | 153 |
 | 707 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 14,359 | 34 |
 | 707 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.46 | 32 | 562 |
@@ -923,7 +923,7 @@
 | 911 | [Vampyr](games/v/vampyr.md) | 4.32 | 610 | 222 |
 | 911 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.32 | 0 | 636 |
 | 923 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 428 | 250 |
-| 923 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.31 | 146 | 364 |
+| 923 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.31 | 147 | 362 |
 | 923 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.31 | 0 | 636 |
 | 923 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,013 | 177 |
 | 923 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.31 | 0 | 636 |
