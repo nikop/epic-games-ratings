@@ -12239,11 +12239,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 10798,
       "NumberOfAwardsMax": 1646
+    },
+    {
+      "Time": "2024-05-06T19:00:48.3552845+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 10803,
+      "NumberOfAwardsMax": 1648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10798,
-  "NumberOfAwardsMax": 1646,
+  "NumberOfAwards": 10803,
+  "NumberOfAwardsMax": 1648,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -12256,7 +12262,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1240
+      "Count": 1241
     },
     {
       "Text": "This game is Extremely Fun",
@@ -12268,7 +12274,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1646
+      "Count": 1648
     },
     {
       "Text": "This game is Educational",
@@ -12280,7 +12286,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1128
+      "Count": 1129
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12292,7 +12298,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1317
+      "Count": 1318
     },
     {
       "Text": "This game has Unique Visuals",
@@ -45176,9 +45182,9 @@
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
-  "LastChanged": "2024-05-05T17:58:09.699727+00:00",
+  "LastChanged": "2024-05-06T19:00:48.3552843+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:38.380706+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:51.9488744+00:00",
-  "LastUpdate_Ratings": "2024-05-06T17:58:26.9589801+00:00",
+  "LastUpdate_Ratings": "2024-05-06T19:00:48.3552847+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:38.3809183+00:00"
 }
