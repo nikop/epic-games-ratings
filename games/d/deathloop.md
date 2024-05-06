@@ -1,7 +1,7 @@
 # DEATHLOOP
 [Store](https://store.epicgames.com/en-US/p/deathloop)  
 [View Rawdata](../../db/d/deathloop.json)  
-Rating: 4.45 (Ranked 720)  
+Rating: 4.44 (Ranked 738)  
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 88  (Ranked 433)  
@@ -245,3 +245,4 @@ Diff (max vs sum): 79
 | 2024-04-28 | 4.45 | - | 86 | 588 |
 | 2024-04-30 | 4.45 | - | 87 | 591 |
 | 2024-05-01 | 4.45 | - | 88 | 595 |
+| 2024-05-06 | 4.44 | - | 88 | 595 |
