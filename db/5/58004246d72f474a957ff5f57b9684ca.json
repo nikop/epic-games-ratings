@@ -2,7 +2,7 @@
   "ID": "58004246d72f474a957ff5f57b9684ca",
   "Name": "Cat Quest II",
   "ProductSlug": "cat-quest-ii-9dbefc",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 397,
   "Ranking_Popularity": 636,
   "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2024-05-04T03:58:34.2984488+00:00",
@@ -47,6 +47,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-06T06:58:17.6243311+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -65,7 +71,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-02T17:58:17.8761313+00:00",
   "FirstSeenRating": "2024-05-04T03:58:34.2984486+00:00",
-  "LastChanged": "2024-05-06T01:45:00.943322+00:00",
+  "LastChanged": "2024-05-06T06:58:17.624331+00:00",
   "LastUpdate_AppInfo": "2024-04-30T13:57:23.594269+00:00",
-  "LastUpdate_Ratings": "2024-05-06T05:00:00.1089642+00:00"
+  "LastUpdate_Ratings": "2024-05-06T06:58:17.624332+00:00"
 }
