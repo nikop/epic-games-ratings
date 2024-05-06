@@ -2,7 +2,7 @@
   "ID": "ae6aa949a2874b5fa15e8ab96bd77fee",
   "Name": "Steelrising",
   "ProductSlug": "steelrising",
-  "Ranking_Rating": 950,
+  "Ranking_Rating": 951,
   "Ranking_Popularity": 636,
   "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
@@ -403,6 +403,6 @@
   "FirstSeenRating": "2022-09-10T17:30:37.2290833+00:00",
   "LastChanged": "2024-05-04T19:01:54.7827864+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:35.003322+00:00",
-  "LastUpdate_Ratings": "2024-05-06T10:01:28.2998041+00:00",
+  "LastUpdate_Ratings": "2024-05-06T11:58:53.4640145+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:25.6601978+00:00"
 }

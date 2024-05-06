@@ -2,9 +2,9 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 112,
-  "Ranking_Popularity": 360,
-  "Ranking_PopularitySum": 343,
+  "Ranking_Rating": 120,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -1385,18 +1385,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 644,
       "NumberOfAwardsMax": 155
+    },
+    {
+      "Time": "2024-05-06T11:57:47.6747666+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 654,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 644,
-  "NumberOfAwardsMax": 155,
+  "NumberOfAwards": 654,
+  "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 155
+      "Count": 164
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1408,7 +1414,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1495,8 +1501,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-05-06T06:59:09.8811264+00:00",
+  "LastChanged": "2024-05-06T11:57:47.6747664+00:00",
   "LastUpdate_AppInfo": "2024-05-01T21:57:19.8444984+00:00",
-  "LastUpdate_Ratings": "2024-05-06T10:00:23.3966145+00:00",
+  "LastUpdate_Ratings": "2024-05-06T11:57:47.6747669+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
