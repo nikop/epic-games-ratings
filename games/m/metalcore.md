@@ -4,12 +4,12 @@
 Rating: 4.41 (Ranked 796)  
 ## Awards
 Max (Diverse Characters): 56  (Ranked 485)  
-Sum: 395 (Ranked 391)  
-Diff (max vs sum): 94  
+Sum: 399 (Ranked 390)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 56 |
-| This game is Great for Beginners | 40 |
+| This game is Great for Beginners | 44 |
 | This game is Highly Recommended | 39 |
 | This game has a Competitive Community | 39 |
 | This game has Quickly Understood Controls | 37 |
@@ -61,3 +61,4 @@ Diff (max vs sum): 94
 | 2024-05-03 | 4.41 | 46 | 371 |
 | 2024-05-04 | 4.42 | 50 | 367 |
 | 2024-05-05 | 4.42 | 56 | 395 |
+| 2024-05-06 | 4.41 | 56 | 399 |
