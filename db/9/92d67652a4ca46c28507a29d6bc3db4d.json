@@ -2,7 +2,7 @@
   "ID": "92d67652a4ca46c28507a29d6bc3db4d",
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 930,
   "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.3,
   "RatingHistory": [
     {
       "Time": "2023-11-30T13:08:42.1369127+00:00",
@@ -1919,10 +1919,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 545,
       "NumberOfAwardsMax": 147
+    },
+    {
+      "Time": "2024-05-06T16:57:48.7655401+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 548,
+      "NumberOfAwardsMax": 147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 545,
+  "NumberOfAwards": 548,
   "NumberOfAwardsMax": 147,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1942,7 +1948,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1972,7 +1978,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Competitive Players",
@@ -1996,7 +2002,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2017,8 +2023,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2024-05-06T10:57:41.40499+00:00",
+  "LastChanged": "2024-05-06T16:57:48.7655399+00:00",
   "LastUpdate_AppInfo": "2024-05-02T18:57:48.810173+00:00",
-  "LastUpdate_Ratings": "2024-05-06T14:59:49.924316+00:00",
+  "LastUpdate_Ratings": "2024-05-06T16:57:48.7655405+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:30.5382367+00:00"
 }
