@@ -5274,10 +5274,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 18783,
       "NumberOfAwardsMax": 14158
+    },
+    {
+      "Time": "2024-05-06T07:59:27.2463906+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 18698,
+      "NumberOfAwardsMax": 14158
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18783,
+  "NumberOfAwards": 18698,
   "NumberOfAwardsMax": 14158,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5377,8 +5383,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2024-05-05T22:00:06.9667438+00:00",
+  "LastChanged": "2024-05-06T07:59:27.2463905+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:16.6637467+00:00",
-  "LastUpdate_Ratings": "2024-05-06T06:58:08.4259625+00:00",
+  "LastUpdate_Ratings": "2024-05-06T07:59:27.2463909+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:12.4871749+00:00"
 }
