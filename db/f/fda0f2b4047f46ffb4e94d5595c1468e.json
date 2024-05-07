@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-kombat-1",
   "Ranking_Rating": 514,
   "Ranking_Popularity": 101,
-  "Ranking_PopularitySum": 95,
+  "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 53,
@@ -9445,10 +9445,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 13110,
       "NumberOfAwardsMax": 3769
+    },
+    {
+      "Time": "2024-05-07T14:58:57.8242234+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 13125,
+      "NumberOfAwardsMax": 3769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13110,
+  "NumberOfAwards": 13125,
   "NumberOfAwardsMax": 3769,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9462,13 +9468,13 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 846
+      "Count": 848
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 940
+      "Count": 941
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9486,13 +9492,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 935
+      "Count": 939
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 915
+      "Count": 917
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9510,7 +9516,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 894
+      "Count": 898
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -9522,7 +9528,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 1045
+      "Count": 1047
     }
   ],
   "EOS_Progressed": 26097,
@@ -22388,9 +22394,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-05-07T08:58:21.8033438+00:00",
+  "LastChanged": "2024-05-07T14:58:57.8242232+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:32.4532037+00:00",
   "LastUpdate_AppInfo": "2024-05-05T04:57:14.6693668+00:00",
-  "LastUpdate_Ratings": "2024-05-07T13:01:12.0399049+00:00",
+  "LastUpdate_Ratings": "2024-05-07T14:58:57.8242238+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:32.4532797+00:00"
 }
