@@ -2,6 +2,9 @@
   "ID": "9a1baf1cfcfd4cdba01b1ce54ae2ed55",
   "Name": "Shadow Man Remastered",
   "ProductSlug": "shadow-man-remastered",
+  "Ranking_Rating": 36,
+  "Ranking_Popularity": 636,
+  "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -17,10 +20,17 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:44.175103+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-07T19:00:12.9661249+00:00",
+      "Rating": 4.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -41,8 +51,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:50.8399206+00:00",
   "FirstSeenRating": "2023-03-31T05:57:44.1751027+00:00",
-  "LastChanged": "2023-03-31T05:57:44.1751027+00:00",
+  "LastChanged": "2024-05-07T19:00:12.9661244+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:56.9717178+00:00",
-  "LastUpdate_Ratings": "2024-05-07T17:57:58.4586097+00:00",
+  "LastUpdate_Ratings": "2024-05-07T19:00:12.9661252+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:00.7234175+00:00"
 }

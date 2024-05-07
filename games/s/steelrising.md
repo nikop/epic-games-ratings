@@ -1,7 +1,7 @@
 # Steelrising
 [Store](https://store.epicgames.com/en-US/p/steelrising)  
 [View Rawdata](../../db/s/steelrising.json)  
-Rating: 4.28 (Ranked 951)  
+Rating: 4.28 (Ranked 952)  
 Number of Ratings: 122  (23.09.2022)  
 ## Awards
 | Award | Count |

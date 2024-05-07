@@ -2,7 +2,7 @@
   "ID": "854ca270c7f04fe483212a35811e9189",
   "Name": "Everything",
   "ProductSlug": "everything",
-  "Ranking_Rating": 592,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 636,
   "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2022-10-18T21:30:46.9754199+00:00",
@@ -95,6 +95,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-07T18:57:26.7347061+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -113,8 +119,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:51.4210299+00:00",
   "FirstSeenRating": "2022-10-18T21:30:46.9754194+00:00",
-  "LastChanged": "2024-01-31T14:58:14.6074422+00:00",
+  "LastChanged": "2024-05-07T18:57:26.7347059+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:18.1916276+00:00",
-  "LastUpdate_Ratings": "2024-05-07T16:59:02.4484675+00:00",
+  "LastUpdate_Ratings": "2024-05-07T18:57:26.7347071+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:35.8077304+00:00"
 }

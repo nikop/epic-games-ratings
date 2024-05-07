@@ -2,7 +2,7 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 154,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 985,
@@ -4092,10 +4092,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 2957,
       "NumberOfAwardsMax": 1244
+    },
+    {
+      "Time": "2024-05-07T19:00:13.3730651+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 2958,
+      "NumberOfAwardsMax": 1244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2957,
+  "NumberOfAwards": 2958,
   "NumberOfAwardsMax": 1244,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4133,7 +4139,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Competitive Players",
@@ -4177,8 +4183,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2024-05-07T14:58:25.9342091+00:00",
+  "LastChanged": "2024-05-07T19:00:13.3730649+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:07.3691866+00:00",
-  "LastUpdate_Ratings": "2024-05-07T17:57:58.8417811+00:00",
+  "LastUpdate_Ratings": "2024-05-07T19:00:13.3730654+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:32.0729406+00:00"
 }

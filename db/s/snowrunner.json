@@ -2,7 +2,7 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 985,
@@ -19699,10 +19699,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 110333,
       "NumberOfAwardsMax": 17044
+    },
+    {
+      "Time": "2024-05-07T19:00:59.3946422+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 110344,
+      "NumberOfAwardsMax": 17044
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110333,
+  "NumberOfAwards": 110344,
   "NumberOfAwardsMax": 17044,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -19764,7 +19770,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 8683
+      "Count": 8694
     }
   ],
   "EOS_Progressed": 0,
@@ -19778,8 +19784,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2024-05-07T17:58:36.064163+00:00",
+  "LastChanged": "2024-05-07T19:00:59.3946421+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:19.4557216+00:00",
-  "LastUpdate_Ratings": "2024-05-07T17:58:36.0641636+00:00",
+  "LastUpdate_Ratings": "2024-05-07T19:00:59.3946427+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:01.7563159+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "096d7313d4ae432f9327081a45db439d",
   "Name": "Titan Quest Anniversary Edition",
   "ProductSlug": "titan-quest",
-  "Ranking_Rating": 318,
+  "Ranking_Rating": 319,
   "Ranking_Popularity": 404,
-  "Ranking_PopularitySum": 427,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -814,6 +814,6 @@
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
   "LastChanged": "2024-05-04T06:59:05.5339013+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:20.5697505+00:00",
-  "LastUpdate_Ratings": "2024-05-07T16:59:22.7909415+00:00",
+  "LastUpdate_Ratings": "2024-05-07T18:57:58.4479165+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:01.1687615+00:00"
 }
