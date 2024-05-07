@@ -302,7 +302,7 @@
 | 295 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 636 |
 | 295 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 11,110 | 46 |
 | 295 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,013 | 177 |
-| 295 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 339,789 | 4 |
+| 295 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 339,880 | 4 |
 | 295 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 636 |
 | 295 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,381 | 120 |
 | 295 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 760 | 202 |
@@ -338,7 +338,7 @@
 | 318 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 903 | 191 |
 | 318 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.66 | 81 | 440 |
 | 318 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.66 | 105 | 403 |
-| 318 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,240 | 73 |
+| 318 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,240 | 74 |
 | 318 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 247 |
 | 318 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.66 | 0 | 636 |
 | 342 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 636 |
@@ -1028,7 +1028,7 @@
 | 1,025 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 133 | 375 |
 | 1,025 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 636 |
 | 1,025 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 553 |
-| 1,025 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,237 | 74 |
+| 1,025 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,242 | 73 |
 | 1,030 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 508 |
 | 1,030 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,528 | 105 |
 | 1,030 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.19 | 33 | 556 |
