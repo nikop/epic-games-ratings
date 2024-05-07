@@ -4,7 +4,7 @@
 | 2 | [Tinykin](games/t/tinykin.md) | 4.95 | 0 | 636 |
 | 3 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.94 | 0 | 636 |
 | 4 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 636 |
-| 5 | [Hades](games/h/hades.md) | 4.92 | 3,785 | 99 |
+| 5 | [Hades](games/h/hades.md) | 4.92 | 3,787 | 99 |
 | 6 | [Celeste](games/c/celeste.md) | 4.91 | 1,981 | 131 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 636 |
 | 8 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 636 |
@@ -171,7 +171,7 @@
 | 165 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 948 | 181 |
 | 165 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 37,901 | 17 |
 | 165 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 918 | 189 |
-| 165 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,247 | 57 |
+| 165 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,251 | 57 |
 | 165 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 636 |
 | 165 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 53,329 | 14 |
 | 165 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 406 |
@@ -705,7 +705,7 @@
 | 693 | [Riverbond](games/r/riverbond.md) | 4.47 | 22 | 615 |
 | 693 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.47 | 0 | 636 |
 | 693 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 636 |
-| 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,234 | 156 |
+| 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,237 | 156 |
 | 707 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,580 | 93 |
 | 707 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.46 | 0 | 636 |
 | 707 | [Escape Academy](games/e/escape_academy.md) | 4.46 | 0 | 636 |
@@ -749,7 +749,7 @@
 | 738 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 636 |
 | 738 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.44 | 0 | 636 |
 | 738 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 392 |
-| 738 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,153 | 31 |
+| 738 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,163 | 31 |
 | 738 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.44 | 0 | 636 |
 | 738 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 76 | 453 |
 | 738 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 636 |
@@ -1030,7 +1030,7 @@
 | 1,025 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 553 |
 | 1,025 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,237 | 74 |
 | 1,030 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 508 |
-| 1,030 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,524 | 105 |
+| 1,030 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,528 | 105 |
 | 1,030 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.19 | 33 | 556 |
 | 1,030 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 615 |
 | 1,030 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 442 |
