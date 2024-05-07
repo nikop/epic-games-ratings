@@ -5,6 +5,7 @@
 | [The Lone Blade](games/e/e785c43b142546029dc0a3220ccb5ac4.md) | 2024-05-08 | - |  | - | - |
 | [Cross Tails](games/c/cb0899902d9c4f33b4f763b22b981043.md) | 2024-05-09 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2024-05-09 | - |  | - | - |
+| [Crown Trick](games/9/9b9b340c4dd449059df709c1f26db201.md) | 2024-05-09 | - |  | - | - |
 | [Trigger Tennis](games/0/0ec12dcb698d4b0ba999f94a710eaba3.md) | 2024-05-09 | - |  | - | - |
 | [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |
 | [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2024-05-11 | - |  | - | - |
