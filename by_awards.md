@@ -176,8 +176,8 @@
 | 174 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,050 | 4.24 | 992 |
 | 175 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,036 | 4.80 | 93 |
 | 176 | [Sonic Mania](games/s/sonic_mania.md) | 1,019 | 4.77 | 121 |
-| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 1,013 | 4.67 | 295 |
-| 177 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,013 | 4.31 | 924 |
+| 177 | [FAR CRY 4](games/f/far_cry_4.md) | 1,014 | 4.67 | 295 |
+| 178 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,013 | 4.31 | 924 |
 | 179 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 1,002 |
 | 180 | [Dishonored 2](games/d/dishonored_2.md) | 1,008 | 4.77 | 121 |
 | 181 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 953 | 4.79 | 100 |
@@ -206,8 +206,8 @@
 | 204 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 739 | 4.58 | 487 |
 | 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 703 | 3.97 | 1,125 |
 | 206 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 700 | 4.50 | 643 |
-| 207 | [Star Trek Online](games/s/star_trek_online.md) | 699 | 4.44 | 740 |
-| 207 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 699 | 4.87 | 20 |
+| 206 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 700 | 4.87 | 20 |
+| 208 | [Star Trek Online](games/s/star_trek_online.md) | 699 | 4.44 | 740 |
 | 209 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 688 | 4.83 | 58 |
 | 210 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 687 | 4.71 | 206 |
 | 211 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 686 | 4.62 | 399 |
@@ -251,7 +251,7 @@
 | 249 | [Dead Space](games/d/dead_space.md) | 452 | 4.71 | 206 |
 | 250 | [Nuclear Throne](games/n/nuclear_throne.md) | 440 | 4.79 | 100 |
 | 251 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 429 | 4.31 | 924 |
-| 252 | [Dungeons 3](games/d/dungeons_3.md) | 428 | 4.66 | 319 |
+| 251 | [Dungeons 3](games/d/dungeons_3.md) | 429 | 4.66 | 319 |
 | 253 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 427 | 4.18 | 1,041 |
 | 254 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 421 | 4.60 | 449 |
 | 255 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 416 | 4.61 | 423 |
@@ -612,19 +612,19 @@
 | 609 | [Outer Wilds](games/o/outer_wilds.md) | 24 | 4.90 | 8 |
 | 609 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 24 | 4.87 | 20 |
 | 609 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 513 |
+| 613 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 23 | 4.32 | 912 |
 | 613 | [Griftlands](games/g/griftlands.md) | 23 | 4.79 | 100 |
 | 613 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 23 | 4.49 | 663 |
-| 615 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 22 | 4.32 | 912 |
-| 615 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 22 | 4.47 | 694 |
-| 615 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 912 |
-| 615 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 557 |
-| 615 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 985 |
-| 615 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.14 | 1,071 |
-| 615 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.29 | 936 |
-| 615 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,031 |
-| 615 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 487 |
-| 615 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 694 |
-| 615 | [Tails of Iron](games/t/tails_of_iron.md) | 22 | 4.59 | 466 |
+| 616 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 22 | 4.47 | 694 |
+| 616 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 912 |
+| 616 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 557 |
+| 616 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 985 |
+| 616 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.14 | 1,071 |
+| 616 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.29 | 936 |
+| 616 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,031 |
+| 616 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 487 |
+| 616 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 694 |
+| 616 | [Tails of Iron](games/t/tails_of_iron.md) | 22 | 4.59 | 466 |
 | 626 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 381 |
 | 626 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 21 | 4.42 | 782 |
 | 626 | [Astro Duel 2](games/a/astro_duel_2.md) | 21 | 4.74 | 166 |
