@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-forbidden-west-complete-edition",
   "Ranking_Rating": 92,
   "Ranking_Popularity": 296,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 53,
@@ -985,10 +985,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 675,
       "NumberOfAwardsMax": 266
+    },
+    {
+      "Time": "2024-05-07T01:46:17.737012+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 680,
+      "NumberOfAwardsMax": 266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 675,
+  "NumberOfAwards": 680,
   "NumberOfAwardsMax": 266,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1008,13 +1014,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1050,7 +1056,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has a Creative Community",
@@ -1738,9 +1744,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-05-06T20:58:34.5070076+00:00",
+  "LastChanged": "2024-05-07T01:46:17.7370118+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:17.2752092+00:00",
   "LastUpdate_AppInfo": "2024-05-02T09:56:55.6832803+00:00",
-  "LastUpdate_Ratings": "2024-05-06T23:57:55.3733312+00:00",
+  "LastUpdate_Ratings": "2024-05-07T01:46:17.7370123+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:17.2752744+00:00"
 }
