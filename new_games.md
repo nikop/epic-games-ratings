@@ -110,4 +110,3 @@
 | [Might & Magic: Heroes VI](games/8/818d9be07fb64277a061245a24035c48.md) | 2024-04-08 | - |  | - | 0 |
 | [URBO](games/c/cd7de0977e0f4f7f8468653789569766.md) | 2024-04-08 | 29 (1,000 XP) | 0 | - | 0 |
 | [Heavy Burden](games/8/8e0b8a0109344a60b68732503eb9c201.md) | 2024-04-07 | - |  | - | - |
-| [Alpha League](games/e/e7d3d2bfe6a44e2cab8b2348f1572591.md) | 2024-04-07 | - |  | - | - |
