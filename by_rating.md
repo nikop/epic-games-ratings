@@ -11,7 +11,7 @@
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 636 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 24 | 609 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 636 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,285 | 49 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,292 | 49 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 534 | 233 |
 | 12 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,102 | 125 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 27,418 | 21 |
@@ -19,7 +19,7 @@
 | 16 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,059 | 173 |
 | 16 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 636 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 636 |
-| 20 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,733 | 140 |
+| 20 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,735 | 140 |
 | 20 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 803 | 199 |
 | 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,592 | 83 |
 | 20 | [Inscryption](games/i/inscryption.md) | 4.87 | 368 | 265 |
@@ -112,7 +112,7 @@
 | 99 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 0 | 636 |
 | 99 | [WarmSnow](games/w/warmsnow.md) | 4.79 | 103 | 406 |
 | 112 | [Aground](games/a/aground.md) | 4.78 | 0 | 636 |
-| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,666 | 47 |
+| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,676 | 47 |
 | 112 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 536 | 232 |
 | 112 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,483 | 72 |
 | 112 | [Quake](games/q/quake.md) | 4.78 | 53 | 497 |
@@ -158,7 +158,7 @@
 | 149 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,226 | 66 |
 | 149 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 636 |
 | 149 | [Outlast](games/o/outlast.md) | 4.75 | 31 | 566 |
-| 149 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,083 | 170 |
+| 149 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,085 | 170 |
 | 149 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,044 | 28 |
 | 149 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 636 |
 | 149 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 106 | 402 |
@@ -895,7 +895,7 @@
 | 888 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.34 | 0 | 636 |
 | 888 | [House Party](games/h/house_party.md) | 4.34 | 0 | 636 |
 | 888 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 43 | 522 |
-| 888 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.34 | 296 | 286 |
+| 888 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.34 | 297 | 285 |
 | 888 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 636 |
 | 888 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 33 | 556 |
 | 899 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 636 |
@@ -1150,13 +1150,13 @@
 | 1,148 | [Poker Club](games/p/poker_club.md) | 3.85 | 56 | 487 |
 | 1,148 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 636 |
 | 1,150 | [Blood of Steel](games/b/blood_of_steel.md) | 3.84 | 0 | 636 |
+| 1,150 | [INDUSTRIA](games/i/industria.md) | 3.84 | 0 | 636 |
 | 1,150 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 636 |
-| 1,152 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.83 | 0 | 636 |
-| 1,152 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 636 |
-| 1,152 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 636 |
-| 1,155 | [INDUSTRIA](games/i/industria.md) | 3.82 | 0 | 636 |
-| 1,155 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 636 |
-| 1,155 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 636 |
+| 1,153 | [Garten of Banban](games/6/6861534c32a3452faf7cadf44639d96d.md) | 3.83 | 0 | 636 |
+| 1,153 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 636 |
+| 1,153 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.83 | 0 | 636 |
+| 1,156 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 636 |
+| 1,156 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 636 |
 | 1,158 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 636 |
 | 1,158 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.79 | 0 | 636 |
 | 1,160 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.76 | 0 | 636 |
