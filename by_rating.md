@@ -155,7 +155,7 @@
 | 149 | [Fez](games/f/fez.md) | 4.75 | 26 | 595 |
 | 149 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,648 | 143 |
 | 149 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 636 |
-| 149 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,220 | 66 |
+| 149 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,226 | 66 |
 | 149 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 636 |
 | 149 | [Outlast](games/o/outlast.md) | 4.75 | 31 | 566 |
 | 149 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,083 | 170 |
@@ -624,7 +624,7 @@
 | 621 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,210 | 96 |
 | 621 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 310 |
 | 621 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 636 |
-| 621 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,458 | 16 |
+| 621 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,508 | 16 |
 | 621 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.51 | 0 | 636 |
 | 621 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.51 | 90 | 428 |
 | 621 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 368 | 265 |
