@@ -2,7 +2,7 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 380,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 6856,
   "RatingHistory": [
     {
@@ -9005,6 +9005,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 13836,
       "NumberOfAwardsMax": 2455
+    },
+    {
+      "Time": "2024-05-07T08:59:12.2949718+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 13836,
+      "NumberOfAwardsMax": 2455
     }
   ],
   "ReviewsDisabled": false,
@@ -9066,8 +9072,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2024-05-06T15:00:25.9216066+00:00",
+  "LastChanged": "2024-05-07T08:59:12.2949716+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:38.3705893+00:00",
-  "LastUpdate_Ratings": "2024-05-07T07:57:47.3769395+00:00",
+  "LastUpdate_Ratings": "2024-05-07T08:59:12.2949722+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:37.4842023+00:00"
 }
