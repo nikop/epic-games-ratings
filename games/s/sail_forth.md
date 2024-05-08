@@ -80,8 +80,8 @@ Completed: 13 (0.00%) (Ranked 455)
 | 2024-03-21 | 407,265 | 9 |
 | 2024-04-10 | 416,682 | 13 |
 ## Awards
-Max (Quickly Understood Controls): 28  (Ranked 583)  
-Sum: 145 (Ranked 489)  
+Max (Quickly Understood Controls): 28  (Ranked 584)  
+Sum: 145 (Ranked 490)  
 Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
