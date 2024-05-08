@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Parkour Legends](games/p/parkour_legends.md) | 2024-05-08 | - |  | - | - |
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2024-05-08 | - |  | - | - |
 | [The Lone Blade](games/e/e785c43b142546029dc0a3220ccb5ac4.md) | 2024-05-08 | - |  | - | - |
 | [Cross Tails](games/c/cb0899902d9c4f33b4f763b22b981043.md) | 2024-05-09 | - |  | - | - |

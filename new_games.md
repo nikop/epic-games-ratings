@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Parkour Legends](games/p/parkour_legends.md) | 2024-05-08 | - |  | - | - |
 | [Darkestville Castle](games/c/c33824d3cf754146aca31f48780b92bf.md) | 2024-05-07 | - |  | - | - |
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | - |  | - | - |
 | [The Origin Theory - Episode One](games/2/272516e06b114390af92429cba34eb6a.md) | 2024-05-06 | - |  | - | - |

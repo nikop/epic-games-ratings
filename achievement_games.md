@@ -62,7 +62,7 @@
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | 30 (1,000 XP) | 2 | - | 0 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 4 | - | 0 |
 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 2024-03-29 | 10 (1,000 XP) | 5 | - | 0 |
-| [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 19 | 4.84 | 26 |
+| [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 19 | 4.84 | 29 |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | 23 (1,000 XP) | 13 | - | 0 |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 131 | - | 0 |
@@ -651,7 +651,7 @@
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 50 | - | 0 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 48 (1,000 XP) | 99 | - | 0 |
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 32 (1,000 XP) | 33 | - | - |
-| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,624,999 | 4.37 | 1,680 |
+| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,624,999 | 4.37 | 1,687 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,614 | - | 0 |
@@ -679,7 +679,7 @@
 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 2023-03-30 | 12 (1,000 XP) | 1,125 | 3.98 | 0 |
 | [Stellar Interface](games/s/stellar_interface.md) | 2023-03-30 | 132 (1,000 XP) | 81 | - | 0 |
 | [Gripper](games/g/gripper.md) | 2023-03-29 | 35 (1,000 XP) | 52 | - | 0 |
-| [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 2023-03-29 | 13 (1,000 XP) | 21,732 | 4.53 | 0 |
+| [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 2023-03-29 | 13 (1,000 XP) | 21,732 | 4.54 | 0 |
 | [Horse Tales - Emerald Valley Ranch](games/h/horse_tales_-_emerald_valley_ranch.md) | 2023-03-29 | 33 (1,000 XP) | 53 | - | 0 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 41 (1,130 XP) | 94,894 | 3.97 | 703 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | 2023-03-28 | 33 (1,000 XP) | 4,358 | 4.67 | 0 |
@@ -1038,7 +1038,7 @@
 | [Old World](games/o/old_world.md) | 2020-05-05 | 358 (3,440 XP) | 18,723 | 4.65 | 244 |
 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 107,305 | 4.74 | 9,257 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 45,186 | 4.68 | 929 |
-| [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 733,435 | 4.92 | 3,787 |
+| [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 733,435 | 4.92 | 3,792 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 52,183 | 4.68 | 0 |
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 240,594 | 4.67 | 618 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 1,337 | 4.48 | 108 |
