@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 140,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 331,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1481,10 +1481,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 718,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2024-05-08T19:59:39.2162158+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 681,
+      "NumberOfAwardsMax": 186
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 718,
+  "NumberOfAwards": 681,
   "NumberOfAwardsMax": 186,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1591,8 +1597,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-05-08T15:57:45.3124224+00:00",
+  "LastChanged": "2024-05-08T19:59:39.2162157+00:00",
   "LastUpdate_AppInfo": "2024-05-01T21:57:19.8444984+00:00",
-  "LastUpdate_Ratings": "2024-05-08T18:57:46.388035+00:00",
+  "LastUpdate_Ratings": "2024-05-08T19:59:39.2162163+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
