@@ -1,15 +1,15 @@
 # Train Sim World® 2
 [Store](https://store.epicgames.com/en-US/p/train-sim-world-2)  
 [View Rawdata](../../db/t/train_sim_world®_2.json)  
-Rating: 4.38 (Ranked 844)  
+Rating: 4.38 (Ranked 843)  
 Number of Ratings: 2,541  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 638  (Ranked 219)  
-Sum: 4,639 (Ranked 163)  
+Max (Great for Beginners): 640  (Ranked 219)  
+Sum: 4,641 (Ranked 163)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 638 |
+| This game is Great for Beginners | 640 |
 | This game has Quickly Understood Controls | 511 |
 | This game has Realistic Visuals | 499 |
 | This game is Relaxing | 497 |
@@ -359,3 +359,4 @@ Diff (max vs sum): 56
 | 2024-05-04 | 4.38 | - | 637 | 4,636 |
 | 2024-05-05 | 4.38 | - | 637 | 4,637 |
 | 2024-05-06 | 4.38 | - | 638 | 4,639 |
+| 2024-05-07 | 4.38 | - | 640 | 4,641 |
