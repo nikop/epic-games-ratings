@@ -5,6 +5,7 @@
 | [Euphoria: Supreme Mechanics](games/1/18051c2571964edbaeb83f87d12a189c.md) | 2024-05-09 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2024-05-09 | - |  | - | - |
 | [Crown Trick](games/9/9b9b340c4dd449059df709c1f26db201.md) | 2024-05-09 | - |  | - | - |
+| [Cryptmaster](games/c/cryptmaster.md) | 2024-05-09 | - |  | - | - |
 | [Trigger Tennis](games/0/0ec12dcb698d4b0ba999f94a710eaba3.md) | 2024-05-09 | - |  | - | - |
 | [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |
 | [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2024-05-11 | - |  | - | - |
@@ -295,7 +296,6 @@
 | [Critter Crops](games/c/critter_crops.md) | 2099-01-01 | - |  | - | - |
 | [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2099-01-01 | - |  | - | - |
 | [Crowncity](games/8/8a9e2e0b21af45119ff2ada4a39be1a1.md) | 2099-01-01 | - |  | - | - |
-| [Cryptmaster](games/c/cryptmaster.md) | 2099-01-01 | - |  | - | - |
 | [Cthulhu: Books of Ancients](games/c/cthulhu__books_of_ancients.md) | 2099-01-01 | - |  | - | - |
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2099-01-01 | - |  | - | - |
 | [CyberCorp](games/2/2c0b31e23e2c4d0396802d4561940177.md) | 2099-01-01 | - |  | - | - |
