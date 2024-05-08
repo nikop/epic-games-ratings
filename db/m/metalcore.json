@@ -2,7 +2,7 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 796,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -821,10 +821,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 479,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-05-08T03:58:19.9719301+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 482,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 479,
+  "NumberOfAwards": 482,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -856,7 +862,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game is Great for Beginners",
@@ -868,7 +874,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Unique Visuals",
@@ -919,8 +925,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-05-08T02:03:51.6209992+00:00",
+  "LastChanged": "2024-05-08T03:58:19.9719298+00:00",
   "LastUpdate_AppInfo": "2024-05-05T12:58:56.454325+00:00",
-  "LastUpdate_Ratings": "2024-05-08T02:03:51.6209997+00:00",
+  "LastUpdate_Ratings": "2024-05-08T03:58:19.9719305+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }
