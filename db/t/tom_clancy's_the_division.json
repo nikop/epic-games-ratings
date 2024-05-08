@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 466,
   "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 261,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -4397,10 +4397,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1552,
       "NumberOfAwardsMax": 539
+    },
+    {
+      "Time": "2024-05-08T10:59:52.2037149+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1553,
+      "NumberOfAwardsMax": 539
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1552,
+  "NumberOfAwards": 1553,
   "NumberOfAwardsMax": 539,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4456,7 +4462,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game is Relaxing",
@@ -4500,8 +4506,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-05-08T09:58:44.7167499+00:00",
+  "LastChanged": "2024-05-08T10:59:52.2037147+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:47.2071588+00:00",
-  "LastUpdate_Ratings": "2024-05-08T09:58:44.7167505+00:00",
+  "LastUpdate_Ratings": "2024-05-08T10:59:52.2037155+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:19.1945908+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "390584f0f63a4e69978eafa4d4fce9e7",
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
-  "Ranking_Rating": 594,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 637,
   "Ranking_PopularitySum": 637,
   "Ranking_EOS_Progress": 170,
@@ -23,7 +23,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:29.8298129+00:00",
@@ -472,6 +472,12 @@
     {
       "Time": "2024-04-27T15:58:13.3213213+00:00",
       "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-08T10:59:38.0186572+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -11016,9 +11022,9 @@
   "FirstSeen": "2023-03-29T21:57:34.1236869+00:00",
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
-  "LastChanged": "2024-04-27T15:58:13.3213211+00:00",
+  "LastChanged": "2024-05-08T10:59:38.018657+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:20.2830207+00:00",
   "LastUpdate_AppInfo": "2024-05-05T04:57:23.2553031+00:00",
-  "LastUpdate_Ratings": "2024-05-08T09:58:23.6436715+00:00",
+  "LastUpdate_Ratings": "2024-05-08T10:59:38.0186576+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:20.2830765+00:00"
 }
