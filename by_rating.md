@@ -303,7 +303,7 @@
 | 295 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 637 |
 | 295 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 11,182 | 46 |
 | 295 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,014 | 177 |
-| 295 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 339,880 | 4 |
+| 295 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 339,949 | 4 |
 | 295 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 533 | 234 |
 | 295 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 637 |
 | 295 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,381 | 120 |
@@ -731,7 +731,7 @@
 | 720 | [Othercide](games/o/othercide.md) | 4.45 | 0 | 637 |
 | 720 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 936 | 186 |
 | 720 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.45 | 32 | 563 |
-| 720 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 817,372 | 2 |
+| 720 | [Rocket League®](games/r/rocket_league®.md) | 4.45 | 817,993 | 2 |
 | 720 | [Scorn](games/s/scorn.md) | 4.45 | 0 | 637 |
 | 720 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.45 | 0 | 637 |
 | 720 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.45 | 0 | 637 |
@@ -1109,10 +1109,10 @@
 | 1,107 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 637 |
 | 1,107 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.05 | 618 | 221 |
 | 1,107 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 637 |
+| 1,110 | [Armored Warfare](games/a/armored_warfare.md) | 4.04 | 126 | 383 |
 | 1,110 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 637 |
 | 1,110 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.04 | 0 | 637 |
-| 1,112 | [Armored Warfare](games/a/armored_warfare.md) | 4.03 | 126 | 383 |
-| 1,112 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 4.03 | 0 | 637 |
+| 1,113 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 4.03 | 0 | 637 |
 | 1,114 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 637 |
 | 1,114 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 637 |
 | 1,114 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 9,910 | 51 |

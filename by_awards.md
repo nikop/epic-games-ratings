@@ -1,9 +1,9 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,494,871 | 4.29 | 936 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 817,372 | 4.45 | 720 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 817,993 | 4.45 | 720 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 368,643 | 4.68 | 274 |
-| 4 | [Genshin Impact](games/g/genshin_impact.md) | 339,880 | 4.67 | 295 |
+| 4 | [Genshin Impact](games/g/genshin_impact.md) | 339,949 | 4.67 | 295 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 315,686 | 4.87 | 20 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 228,216 | 4.18 | 1,041 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 163,650 | 4.68 | 274 |
@@ -382,7 +382,7 @@
 | 380 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 129 | 4.21 | 1,018 |
 | 380 | [Barony](games/b/barony.md) | 129 | 4.74 | 166 |
 | 382 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 127 | 4.67 | 295 |
-| 383 | [Armored Warfare](games/a/armored_warfare.md) | 126 | 4.03 | 1,112 |
+| 383 | [Armored Warfare](games/a/armored_warfare.md) | 126 | 4.04 | 1,110 |
 | 384 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 124 | 4.50 | 644 |
 | 384 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 124 | 4.33 | 900 |
 | 386 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 123 | 4.26 | 970 |
