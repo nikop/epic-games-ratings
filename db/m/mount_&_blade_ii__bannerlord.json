@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 165,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 57,
   "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 112,
@@ -13978,10 +13978,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 19209,
       "NumberOfAwardsMax": 9257
+    },
+    {
+      "Time": "2024-05-08T18:59:54.65097+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 19211,
+      "NumberOfAwardsMax": 9257
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19209,
+  "NumberOfAwards": 19211,
   "NumberOfAwardsMax": 9257,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14031,7 +14037,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1006
+      "Count": 1008
     },
     {
       "Text": "This game has Diverse Characters",
@@ -44847,9 +44853,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-05-08T14:58:24.617498+00:00",
+  "LastChanged": "2024-05-08T18:59:54.6509698+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:35.5636194+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:35.3812687+00:00",
-  "LastUpdate_Ratings": "2024-05-08T17:58:33.3578432+00:00",
+  "LastUpdate_Ratings": "2024-05-08T18:59:54.6509701+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:35.5637751+00:00"
 }

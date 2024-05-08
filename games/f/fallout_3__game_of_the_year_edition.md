@@ -1,11 +1,11 @@
 # Fallout 3: Game of the Year Edition
 [Store](https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition)  
 [View Rawdata](../../db/f/fallout_3__game_of_the_year_edition.json)  
-Rating: 4.60 (Ranked 449)  
+Rating: 4.60 (Ranked 450)  
 ## Awards
 Max (Character Customization): 16,436  (Ranked 29)  
-Sum: 33,987 (Ranked 48)  
-Diff (max vs sum): -19  
+Sum: 33,987 (Ranked 49)  
+Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 16,436 |

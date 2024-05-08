@@ -2,9 +2,9 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 1087,
+  "Ranking_Rating": 1088,
   "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 331,
+  "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 53,
@@ -2581,10 +2581,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 709,
       "NumberOfAwardsMax": 176
+    },
+    {
+      "Time": "2024-05-08T18:58:23.0817109+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 710,
+      "NumberOfAwardsMax": 176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 709,
+  "NumberOfAwards": 710,
   "NumberOfAwardsMax": 176,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2628,7 +2634,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19260,9 +19266,9 @@
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-05-08T05:00:56.4448288+00:00",
+  "LastChanged": "2024-05-08T18:58:23.0817107+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:29.4924603+00:00",
   "LastUpdate_AppInfo": "2024-05-05T12:58:57.5219303+00:00",
-  "LastUpdate_Ratings": "2024-05-08T17:00:59.6989753+00:00",
+  "LastUpdate_Ratings": "2024-05-08T18:58:23.0817111+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:29.4925295+00:00"
 }
