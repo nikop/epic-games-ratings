@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 140,
+  "Ranking_Rating": 123,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -1487,10 +1487,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 681,
       "NumberOfAwardsMax": 186
+    },
+    {
+      "Time": "2024-05-08T21:57:16.2074082+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 691,
+      "NumberOfAwardsMax": 186
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 681,
+  "NumberOfAwards": 691,
   "NumberOfAwardsMax": 186,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1522,13 +1528,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 40
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 31
+      "Count": 34
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1558,7 +1564,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 39
+      "Count": 41
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1597,8 +1603,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-05-08T19:59:39.2162157+00:00",
+  "LastChanged": "2024-05-08T21:57:16.207408+00:00",
   "LastUpdate_AppInfo": "2024-05-01T21:57:19.8444984+00:00",
-  "LastUpdate_Ratings": "2024-05-08T19:59:39.2162163+00:00",
+  "LastUpdate_Ratings": "2024-05-08T21:57:16.2074087+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }

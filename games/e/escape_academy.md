@@ -1,7 +1,7 @@
 # Escape Academy
 [Store](https://store.epicgames.com/en-US/p/escape-academy-bfc2bf)  
 [View Rawdata](../../db/e/escape_academy.json)  
-Rating: 4.46 (Ranked 709)  
+Rating: 4.46 (Ranked 710)  
 ## Awards
 Max (Challenging Puzzles): 63  (Ranked 475)  
 Sum: 63 (Ranked 550)  
