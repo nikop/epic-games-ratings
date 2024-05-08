@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 22,
@@ -12751,10 +12751,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 23168,
       "NumberOfAwardsMax": 14374
+    },
+    {
+      "Time": "2024-05-08T15:58:28.7595914+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 23178,
+      "NumberOfAwardsMax": 14374
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23168,
+  "NumberOfAwards": 23178,
   "NumberOfAwardsMax": 14374,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12768,7 +12774,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1208
+      "Count": 1210
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12786,7 +12792,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1074
+      "Count": 1077
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12798,7 +12804,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1042
+      "Count": 1047
     },
     {
       "Text": "This game is Relaxing",
@@ -45882,9 +45888,9 @@
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2024-05-08T03:58:26.2032551+00:00",
+  "LastChanged": "2024-05-08T15:58:28.7595912+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:21.7584655+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:52.2940283+00:00",
-  "LastUpdate_Ratings": "2024-05-08T14:00:18.5796208+00:00",
+  "LastUpdate_Ratings": "2024-05-08T15:58:28.7595919+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:21.7587424+00:00"
 }

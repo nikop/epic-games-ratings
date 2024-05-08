@@ -3,8 +3,8 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 556,
-  "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 414,
+  "Ranking_Popularity": 529,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1233,12 +1233,18 @@
       "Rating": 4.55,
       "NumberOfAwards": 319,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-05-08T16:00:12.3019755+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 320,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 319,
+  "NumberOfAwards": 320,
   "NumberOfAwardsMax": 41,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1256,7 +1262,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Diverse Characters",
@@ -23478,9 +23484,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-05-07T10:57:51.8598289+00:00",
+  "LastChanged": "2024-05-08T16:00:12.3019754+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:26.6318325+00:00",
   "LastUpdate_AppInfo": "2024-05-03T16:57:22.8069248+00:00",
-  "LastUpdate_Ratings": "2024-05-08T14:58:20.875727+00:00",
+  "LastUpdate_Ratings": "2024-05-08T16:00:12.301976+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:26.631928+00:00"
 }

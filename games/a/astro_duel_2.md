@@ -1,7 +1,7 @@
 # Astro Duel 2
 [Store](https://store.epicgames.com/en-US/p/astro-duel-2-e1261d)  
 [View Rawdata](../../db/a/astro_duel_2.json)  
-Rating: 4.74 (Ranked 166)  
+Rating: 4.74 (Ranked 165)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -44,8 +44,8 @@ Completed: 1 (0.00%) (Ranked 455)
 | 2024-03-21 | 119,522 | 0 |
 | 2024-04-10 | 133,050 | 1 |
 ## Awards
-Max (Great Boss Battles): 21  (Ranked 627)  
-Sum: 21 (Ranked 627)  
+Max (Great Boss Battles): 21  (Ranked 628)  
+Sum: 21 (Ranked 628)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
