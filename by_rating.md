@@ -58,7 +58,7 @@
 | 46 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 241 | 305 |
 | 46 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 637 |
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 637 |
-| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,213 | 68 |
+| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,216 | 68 |
 | 58 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 205 | 327 |
 | 58 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 637 |
 | 58 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 637 |
@@ -113,7 +113,7 @@
 | 100 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 0 | 637 |
 | 100 | [WarmSnow](games/w/warmsnow.md) | 4.79 | 103 | 408 |
 | 113 | [Aground](games/a/aground.md) | 4.78 | 0 | 637 |
-| 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,676 | 47 |
+| 113 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,688 | 47 |
 | 113 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 538 | 232 |
 | 113 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,483 | 72 |
 | 113 | [Quake](games/q/quake.md) | 4.78 | 53 | 498 |
@@ -361,7 +361,7 @@
 | 344 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 637 |
 | 344 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 572 | 228 |
 | 344 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,920 | 89 |
-| 344 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 118 | 392 |
+| 344 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 119 | 391 |
 | 344 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.65 | 0 | 637 |
 | 364 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 637 |
 | 364 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,102 | 77 |
@@ -656,31 +656,31 @@
 | 644 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 159,399 | 8 |
 | 644 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 124 | 384 |
 | 644 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 637 |
-| 644 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.50 | 0 | 637 |
 | 644 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.50 | 0 | 637 |
 | 644 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 700 | 207 |
 | 644 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,483 | 40 |
 | 644 | [VALORANT](games/v/valorant.md) | 4.50 | 115,715 | 10 |
 | 644 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 498 |
-| 663 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,079 | 127 |
-| 663 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.49 | 99 | 418 |
-| 663 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,546 | 59 |
-| 663 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 637 |
-| 663 | [Maneater](games/m/maneater.md) | 4.49 | 14,163 | 36 |
-| 663 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 416 |
-| 663 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 41 | 528 |
-| 663 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 33 | 557 |
-| 663 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 637 |
-| 663 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 0 | 637 |
-| 663 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,099 | 166 |
-| 663 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.49 | 23 | 614 |
-| 663 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 47 | 515 |
-| 663 | [Solitairica](games/s/solitairica.md) | 4.49 | 100 | 416 |
-| 663 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.49 | 0 | 637 |
-| 663 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 637 |
-| 663 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.49 | 0 | 637 |
-| 663 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 13,642 | 37 |
-| 663 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.49 | 0 | 637 |
+| 662 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,079 | 127 |
+| 662 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.49 | 99 | 418 |
+| 662 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,546 | 59 |
+| 662 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 637 |
+| 662 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.49 | 0 | 637 |
+| 662 | [Maneater](games/m/maneater.md) | 4.49 | 14,163 | 36 |
+| 662 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 416 |
+| 662 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 41 | 528 |
+| 662 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 33 | 557 |
+| 662 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 637 |
+| 662 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 0 | 637 |
+| 662 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,099 | 166 |
+| 662 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.49 | 23 | 614 |
+| 662 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 47 | 515 |
+| 662 | [Solitairica](games/s/solitairica.md) | 4.49 | 100 | 416 |
+| 662 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.49 | 0 | 637 |
+| 662 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 637 |
+| 662 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.49 | 0 | 637 |
+| 662 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 13,642 | 37 |
+| 662 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.49 | 0 | 637 |
 | 682 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 66 | 468 |
 | 682 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 108 | 402 |
 | 682 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 281 | 290 |
