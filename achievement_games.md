@@ -84,7 +84,7 @@
 | [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-22 | 14 (1,000 XP) | 1 | - | 0 |
 | [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-21 | 23 (1,000 XP) | 62 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 14 | - | 0 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.80 | 270 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.80 | 271 |
 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 7,918 | 4.44 | 0 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | 0 |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 6 | - | 0 |
@@ -787,7 +787,7 @@
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 3,955 | 4.10 | 0 |
 | [Urbek City Builder](games/u/urbek_city_builder.md) | 2022-10-20 | 79 (1,000 XP) | 589 | - | 0 |
 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 2022-10-18 | 51 (1,000 XP) | 36,496 | 4.51 | 368 |
-| [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 2022-10-17 | 35 (1,000 XP) | 21,028 | 4.73 | 516 |
+| [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 2022-10-17 | 35 (1,000 XP) | 21,028 | 4.73 | 517 |
 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2022-10-17 | 30 (1,000 XP) | 88 | - | 0 |
 | [Trifox](games/t/trifox.md) | 2022-10-14 | 46 (1,000 XP) | 107 | - | 0 |
 | [Scorn](games/s/scorn.md) | 2022-10-14 | 12 (1,000 XP) | 3,194 | 4.45 | 0 |

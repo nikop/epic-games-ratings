@@ -70,7 +70,7 @@
 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 2024-04-23 | - |  | - | 0 |
 | [Tales of Kenzera™: ZAU](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | - |  | - | 0 |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | 0 |
-| [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.76 | 0 |
+| [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.71 | 0 |
 | [Necrosmith 2](games/e/e153609a322d42e18ee587bb862022fc.md) | 2024-04-23 | - |  | - | 0 |
 | [Lunar Lander Beyond](games/6/62604a9708a14eed8b10b31ebd2056d7.md) | 2024-04-23 | 26 (1,000 XP) | 2 | - | 0 |
 | [Sweet Transit](games/a/a9621f7429a445a08d09bfa964a7c31f.md) | 2024-04-22 | - |  | - | 0 |
@@ -110,5 +110,3 @@
 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 2024-04-09 | - |  | - | 0 |
 | [Hands of Necromancy](games/4/4887fdd384674d118eacfefd5bb26741.md) | 2024-04-09 | - |  | - | - |
 | [Last Hope Bunker: Zombie Survival](games/1/11b636268cb64c7f9feada368d41ba76.md) | 2024-04-09 | - |  | - | 0 |
-| [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 2024-04-08 | - |  | - | 0 |
-| [Might & Magic: Heroes VI](games/8/818d9be07fb64277a061245a24035c48.md) | 2024-04-08 | - |  | - | 0 |
