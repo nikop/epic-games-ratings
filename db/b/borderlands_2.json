@@ -2,7 +2,7 @@
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
-  "Ranking_Rating": 138,
+  "Ranking_Rating": 139,
   "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 985,
@@ -15999,10 +15999,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 44193,
       "NumberOfAwardsMax": 17631
+    },
+    {
+      "Time": "2024-05-08T17:58:58.2072643+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 44200,
+      "NumberOfAwardsMax": 17631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44193,
+  "NumberOfAwards": 44200,
   "NumberOfAwardsMax": 17631,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -16022,7 +16028,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2904
+      "Count": 2907
     },
     {
       "Text": "This game has Amazing Characters",
@@ -16034,7 +16040,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3490
+      "Count": 3494
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16090,8 +16096,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2024-05-08T01:59:53.802414+00:00",
+  "LastChanged": "2024-05-08T17:58:58.2072642+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:48.3073042+00:00",
-  "LastUpdate_Ratings": "2024-05-08T16:00:47.1324496+00:00",
+  "LastUpdate_Ratings": "2024-05-08T17:58:58.2072646+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:18.1486263+00:00"
 }
