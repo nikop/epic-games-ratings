@@ -4,6 +4,8 @@
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2024-05-08 | - |  | - | - |
 | [The Lone Blade](games/e/e785c43b142546029dc0a3220ccb5ac4.md) | 2024-05-08 | - |  | - | - |
 | [Cross Tails](games/c/cb0899902d9c4f33b4f763b22b981043.md) | 2024-05-09 | - |  | - | - |
+| [Cybernetic Fault](games/f/fef01803e2f1468591535ce1709b89b7.md) | 2024-05-09 | - |  | - | - |
+| [Euphoria: Supreme Mechanics](games/1/18051c2571964edbaeb83f87d12a189c.md) | 2024-05-09 | - |  | - | - |
 | [1000xRESIST](games/1/1000xresist.md) | 2024-05-09 | - |  | - | - |
 | [Crown Trick](games/9/9b9b340c4dd449059df709c1f26db201.md) | 2024-05-09 | - |  | - | - |
 | [Trigger Tennis](games/0/0ec12dcb698d4b0ba999f94a710eaba3.md) | 2024-05-09 | - |  | - | - |
@@ -12,8 +14,8 @@
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | - |  | - | - |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 1 | - | - |
 | [Athenian Rhapsody](games/e/e07a23238eb744e48941547e0aa89228.md) | 2024-05-14 | - |  | - | - |
+| [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | - |  | - | - |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | - | - |
-| [ROBOBEAT](games/r/robobeat.md) | 2024-05-16 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | - |  | - | - |
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | - |  | - | - |
 | [Let Me Sleep](games/f/fe8e9a4876a14ee0a2a95b1f49ea443d.md) | 2024-05-16 | - |  | - | - |
@@ -591,6 +593,7 @@
 | [Varkalai: The Cradle Of Fate](games/6/672fdfd6cf634e21a53019d3fc5deb20.md) | 2099-01-01 | - |  | - | - |
 | [Velo](games/v/velo.md) | 2099-01-01 | - |  | - | - |
 | [Vexlands](games/8/82d2c076744d4e1aa12e8843cf129cfa.md) | 2099-01-01 | - |  | - | - |
+| [Viking Rise](games/b/bcca452821c54464bc2cf64458de387e.md) | 2099-01-01 | - |  | - | - |
 | [Vivaion](games/5/53ac8f9e5d4d4f3db35bf66cc74b03e6.md) | 2099-01-01 | - |  | - | - |
 | [Voor De Kroon](games/8/8c14e757bab745a8a76d991c38538f3f.md) | 2099-01-01 | - |  | - | - |
 | [Wallace and Gromit's Grand Adventures - Episode 1](games/4/4270c5d2ac0941d7986057d31425d1e7.md) | 2099-01-01 | - |  | - | - |
