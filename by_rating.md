@@ -25,7 +25,7 @@
 | 22 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 803 | 199 |
 | 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,600 | 83 |
 | 22 | [Inscryption](games/i/inscryption.md) | 4.87 | 368 | 265 |
-| 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 315,686 | 5 |
+| 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 315,944 | 5 |
 | 22 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,477 | 27 |
 | 22 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 611 |
 | 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 700 | 208 |
@@ -236,7 +236,7 @@
 | 224 | [Islets](games/i/islets.md) | 4.70 | 31 | 568 |
 | 224 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,378 | 148 |
 | 224 | [King of Retail](games/k/king_of_retail.md) | 4.70 | 0 | 638 |
-| 224 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 172 | 354 |
+| 224 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 173 | 352 |
 | 224 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.70 | 333 | 275 |
 | 224 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,411 | 55 |
 | 224 | [Sailing Era](games/s/sailing_era.md) | 4.70 | 0 | 638 |
@@ -361,7 +361,7 @@
 | 345 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.65 | 0 | 638 |
 | 345 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 463 |
 | 345 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 638 |
-| 345 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 572 | 228 |
+| 345 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 575 | 228 |
 | 345 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,920 | 89 |
 | 345 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 119 | 392 |
 | 345 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.65 | 0 | 638 |
@@ -453,8 +453,8 @@
 | 424 | [Witchfire](games/w/witchfire.md) | 4.61 | 132 | 378 |
 | 452 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 921 | 189 |
 | 452 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 143 | 369 |
-| 452 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,787 | 25 |
-| 452 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.60 | 121 | 390 |
+| 452 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,798 | 25 |
+| 452 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.60 | 122 | 389 |
 | 452 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 242 | 305 |
 | 452 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 421 | 254 |
 | 452 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 93 | 428 |
@@ -847,7 +847,7 @@
 | 845 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 638 |
 | 845 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 638 |
 | 845 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 638 |
-| 845 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 172 | 354 |
+| 845 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 172 | 355 |
 | 845 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 183 | 340 |
 | 845 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 0 | 638 |
 | 845 | [NBA 2K21](games/n/nba_2k21.md) | 4.38 | 11,870 | 44 |
@@ -860,7 +860,7 @@
 | 845 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 640 | 219 |
 | 859 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 0 | 638 |
 | 859 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 0 | 638 |
-| 859 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,176 | 123 |
+| 859 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,177 | 123 |
 | 859 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 636 |
 | 859 | [MORDHAU](games/m/mordhau.md) | 4.37 | 1,687 | 141 |
 | 859 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.37 | 0 | 638 |
@@ -989,7 +989,7 @@
 | 987 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 618 |
 | 987 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 638 |
 | 987 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 638 |
-| 987 | [Predecessor](games/p/predecessor.md) | 4.25 | 565 | 229 |
+| 987 | [Predecessor](games/p/predecessor.md) | 4.25 | 568 | 229 |
 | 987 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 638 |
 | 987 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 638 |
 | 987 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 604 |
