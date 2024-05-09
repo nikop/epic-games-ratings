@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 209,
   "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -400,10 +400,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 178,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-05-09T19:58:42.1377557+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 179,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 178,
+  "NumberOfAwards": 179,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -411,7 +417,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -468,8 +474,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-05-09T15:57:11.6991482+00:00",
+  "LastChanged": "2024-05-09T19:58:42.1377556+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:37.7972214+00:00",
-  "LastUpdate_Ratings": "2024-05-09T18:57:02.2291928+00:00",
+  "LastUpdate_Ratings": "2024-05-09T19:58:42.1377561+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:12.1786525+00:00"
 }
