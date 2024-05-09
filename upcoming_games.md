@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [1000xRESIST](games/1/1000xresist.md) | 2024-05-09 | - |  | - | - |
 | [Crown Trick](games/9/9b9b340c4dd449059df709c1f26db201.md) | 2024-05-09 | - |  | - | - |
 | [Cryptmaster](games/c/cryptmaster.md) | 2024-05-09 | - |  | - | - |
 | [Trigger Tennis](games/0/0ec12dcb698d4b0ba999f94a710eaba3.md) | 2024-05-09 | - |  | - | - |
