@@ -2,7 +2,7 @@
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
   "ProductSlug": "diabotical",
-  "Ranking_Rating": 184,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 572,
   "RatingHistory": [
     {
@@ -2121,6 +2121,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 2778,
       "NumberOfAwardsMax": 316
+    },
+    {
+      "Time": "2024-05-09T17:00:46.7995316+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2778,
+      "NumberOfAwardsMax": 316
     }
   ],
   "ReviewsDisabled": false,
@@ -2212,8 +2218,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2024-05-04T13:57:46.9163754+00:00",
+  "LastChanged": "2024-05-09T17:00:46.7995314+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:58:07.6722983+00:00",
-  "LastUpdate_Ratings": "2024-05-09T15:58:38.8629574+00:00",
+  "LastUpdate_Ratings": "2024-05-09T17:00:46.799532+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:52.2510583+00:00"
 }

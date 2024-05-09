@@ -324,8 +324,8 @@ Completed: 1,474 (4.99%) (Ranked 94)
 | 2024-04-10 | 29,544 | 1,474 |
 ## Awards
 Max (Amazing Storytelling): 48  (Ranked 515)  
-Sum: 423 (Ranked 385)  
-Diff (max vs sum): 130  
+Sum: 425 (Ranked 383)  
+Diff (max vs sum): 132  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 48 |
@@ -336,9 +336,9 @@ Diff (max vs sum): 130
 | This game is Highly Recommended | 39 |
 | This game is Great for Quick Sessions | 37 |
 | This game is Extremely Fun | 35 |
+| This game has Easy Combat | 34 |
 | This game has a Creative Community | 33 |
-| This game has Easy Combat | 33 |
-| This game is Relaxing | 30 |
+| This game is Relaxing | 31 |
 | This game has Obsessive Gameplay | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -506,3 +506,4 @@ Diff (max vs sum): 130
 | 2024-04-27 | 4.86 | - | 48 | 419 |
 | 2024-05-02 | 4.86 | - | 48 | 422 |
 | 2024-05-07 | 4.86 | - | 48 | 423 |
+| 2024-05-09 | 4.86 | - | 48 | 425 |

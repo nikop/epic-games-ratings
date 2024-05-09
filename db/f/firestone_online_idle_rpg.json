@@ -2,8 +2,8 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1080,
-  "Ranking_Popularity": 466,
+  "Ranking_Rating": 1086,
+  "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 352,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.13,
+  "Rating": 4.11,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -1422,18 +1422,24 @@
       "Rating": 4.13,
       "NumberOfAwards": 317,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-05-09T16:59:02.7961322+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 317,
-  "NumberOfAwardsMax": 68,
+  "NumberOfAwards": 319,
+  "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1445,7 +1451,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Playful Visuals",
@@ -14875,9 +14881,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-05-08T19:59:14.2721103+00:00",
+  "LastChanged": "2024-05-09T16:59:02.796132+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:28.7691013+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:29.1117308+00:00",
-  "LastUpdate_Ratings": "2024-05-09T14:59:59.1649861+00:00",
+  "LastUpdate_Ratings": "2024-05-09T16:59:02.7961325+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:28.7692678+00:00"
 }

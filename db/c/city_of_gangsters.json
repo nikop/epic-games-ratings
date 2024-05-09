@@ -4,7 +4,7 @@
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 954,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1388,10 +1388,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 350,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2024-05-09T16:58:06.8762267+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 370,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 350,
+  "NumberOfAwards": 370,
   "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1448,6 +1454,12 @@
       "Prefix": "This game has",
       "Type": "Unique Visuals",
       "Count": 30
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 372277,
@@ -34392,9 +34404,9 @@
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2024-05-08T22:58:00.3479995+00:00",
+  "LastChanged": "2024-05-09T16:58:06.8762265+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:19.4273423+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:10.3106167+00:00",
-  "LastUpdate_Ratings": "2024-05-09T14:59:03.7013983+00:00",
+  "LastUpdate_Ratings": "2024-05-09T16:58:06.8762271+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:19.4275517+00:00"
 }
