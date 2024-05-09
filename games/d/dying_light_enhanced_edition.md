@@ -1,4 +1,4 @@
-# Dying Light Enhanced Edition
+# Dying Light: Standard Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light)  
 [View Rawdata](../../db/d/dying_light_enhanced_edition.json)  
 Rating: 4.61 (Ranked 424)  
