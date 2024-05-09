@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_Rating": 490,
   "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 53,
@@ -3523,10 +3523,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1482,
       "NumberOfAwardsMax": 218
+    },
+    {
+      "Time": "2024-05-09T22:58:20.9448814+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1303,
+      "NumberOfAwardsMax": 218
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1482,
+  "NumberOfAwards": 1303,
   "NumberOfAwardsMax": 218,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -15436,9 +15442,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-05-09T16:58:41.5786281+00:00",
+  "LastChanged": "2024-05-09T22:58:20.9448813+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:33.135429+00:00",
   "LastUpdate_AppInfo": "2024-05-09T16:57:32.1347173+00:00",
-  "LastUpdate_Ratings": "2024-05-09T21:00:48.0504369+00:00",
+  "LastUpdate_Ratings": "2024-05-09T22:58:20.9448818+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:33.1355094+00:00"
 }
