@@ -2,7 +2,7 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
-  "Ranking_Rating": 489,
+  "Ranking_Rating": 468,
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 1278,
   "RatingHistory": [
     {
@@ -1859,6 +1859,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1465,
       "NumberOfAwardsMax": 739
+    },
+    {
+      "Time": "2024-05-09T03:58:40.0961617+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1465,
+      "NumberOfAwardsMax": 739
     }
   ],
   "ReviewsDisabled": false,
@@ -1944,8 +1950,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2024-05-07T03:59:50.9591423+00:00",
+  "LastChanged": "2024-05-09T03:58:40.0961615+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:58:13.2275758+00:00",
-  "LastUpdate_Ratings": "2024-05-09T02:57:14.5895563+00:00",
+  "LastUpdate_Ratings": "2024-05-09T03:58:40.0961621+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:49.1472156+00:00"
 }

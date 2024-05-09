@@ -1,7 +1,7 @@
 # Tyranny - Gold Edition
 [Store](https://store.epicgames.com/en-US/p/tyranny)  
 [View Rawdata](../../db/t/tyranny_-_gold_edition.json)  
-Rating: 4.58 (Ranked 489)  
+Rating: 4.59 (Ranked 468)  
 Number of Ratings: 1,278  (23.09.2022)  
 ## Awards
 Max (Character Customization): 739  (Ranked 204)  
@@ -206,3 +206,4 @@ Diff (max vs sum): -64
 | 2024-04-26 | 4.59 | - | 737 | 1,463 |
 | 2024-05-01 | 4.58 | - | 738 | 1,464 |
 | 2024-05-07 | 4.58 | - | 739 | 1,465 |
+| 2024-05-09 | 4.59 | - | 739 | 1,465 |
