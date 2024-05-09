@@ -180,8 +180,8 @@ Completed: 7 (0.17%) (Ranked 331)
 | 2024-04-10 | 4,112 | 7 |
 ## Awards
 Max (Amazing Characters): 33  (Ranked 558)  
-Sum: 163 (Ranked 483)  
-Diff (max vs sum): 75  
+Sum: 164 (Ranked 482)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 33 |
@@ -189,7 +189,7 @@ Diff (max vs sum): 75
 | This game is Relaxing | 27 |
 | This game has Amazing Storytelling | 26 |
 | This game is Extremely Fun | 23 |
-| This game has Diverse Characters | 22 |
+| This game has Diverse Characters | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -287,3 +287,4 @@ Diff (max vs sum): 75
 | 2024-05-03 | 4.20 | 33 | 162 |
 | 2024-05-04 | 4.19 | 33 | 162 |
 | 2024-05-06 | 4.19 | 33 | 163 |
+| 2024-05-09 | 4.19 | 33 | 164 |

@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-new-vegas",
   "Ranking_Rating": 298,
   "Ranking_Popularity": 46,
-  "Ranking_PopularitySum": 48,
+  "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 53,
@@ -15351,18 +15351,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 34006,
       "NumberOfAwardsMax": 11182
+    },
+    {
+      "Time": "2024-05-09T01:44:49.8394918+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 34100,
+      "NumberOfAwardsMax": 11249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34006,
-  "NumberOfAwardsMax": 11182,
+  "NumberOfAwards": 34100,
+  "NumberOfAwardsMax": 11249,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 11182
+      "Count": 11249
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -15398,13 +15404,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1368
+      "Count": 1381
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1026
+      "Count": 1040
     },
     {
       "Text": "This game is Extremely Fun",
@@ -45194,9 +45200,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-05-08T21:57:35.5868435+00:00",
+  "LastChanged": "2024-05-09T01:44:49.8394914+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.6001653+00:00",
   "LastUpdate_AppInfo": "2024-05-04T01:40:04.3408279+00:00",
-  "LastUpdate_Ratings": "2024-05-08T22:59:31.3277005+00:00",
+  "LastUpdate_Ratings": "2024-05-09T01:44:49.8394923+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.6003221+00:00"
 }
