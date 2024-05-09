@@ -15,7 +15,7 @@
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 60,437 | 4.61 | 424 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,417 | 4.74 | 167 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 46,359 | 4.72 | 198 |
-| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,548 | 4.51 | 626 |
+| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,575 | 4.51 | 626 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,947 | 4.74 | 167 |
 | 18 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,133 | 4.64 | 366 |
 | 19 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 29,832 | 4.12 | 1,082 |
@@ -115,8 +115,8 @@
 | 112 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,617 | 4.71 | 208 |
 | 114 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,603 | 4.13 | 1,080 |
 | 115 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,524 | 4.81 | 83 |
+| 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,519 | 4.76 | 142 |
 | 116 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,090 |
-| 117 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,516 | 4.76 | 142 |
 | 118 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,457 | 4.63 | 383 |
 | 119 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,448 | 4.55 | 557 |
 | 120 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,381 | 4.67 | 298 |

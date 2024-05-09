@@ -144,7 +144,7 @@
 | 142 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,637 | 26 |
 | 142 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,577 | 104 |
 | 142 | [Journey](games/j/journey.md) | 4.76 | 0 | 638 |
-| 142 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,516 | 117 |
+| 142 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,519 | 116 |
 | 142 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,837 | 137 |
 | 142 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 29 | 578 |
 | 142 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.76 | 0 | 638 |
@@ -629,7 +629,7 @@
 | 626 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,210 | 96 |
 | 626 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 310 |
 | 626 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 638 |
-| 626 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,548 | 16 |
+| 626 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,575 | 16 |
 | 626 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.51 | 0 | 638 |
 | 626 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 368 | 265 |
 | 626 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 162 | 358 |
