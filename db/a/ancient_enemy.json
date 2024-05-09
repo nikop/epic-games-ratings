@@ -3,8 +3,8 @@
   "Name": "Ancient Enemy",
   "ProductSlug": "ancient-enemy",
   "Ranking_Rating": 1135,
-  "Ranking_Popularity": 521,
-  "Ranking_PopularitySum": 463,
+  "Ranking_Popularity": 515,
+  "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -737,12 +737,18 @@
       "Rating": 3.95,
       "NumberOfAwards": 196,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-05-09T10:58:03.02976+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196,
-  "NumberOfAwardsMax": 45,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 244,
+  "NumberOfAwardsMax": 48,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -782,9 +788,9 @@
     },
     {
       "Text": "This game is Extremely Fun",
-      "Prefix": "",
-      "Type": "",
-      "Count": 42
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 48
     }
   ],
   "EOS_Progressed": 0,
@@ -798,8 +804,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:16.0310515+00:00",
-  "LastChanged": "2024-02-14T20:58:34.6579864+00:00",
+  "LastChanged": "2024-05-09T10:58:03.0297598+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:19.6663259+00:00",
-  "LastUpdate_Ratings": "2024-05-09T08:59:54.1700595+00:00",
+  "LastUpdate_Ratings": "2024-05-09T10:58:03.0297603+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:16.6173239+00:00"
 }
