@@ -49,7 +49,7 @@
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
 | [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 79 | 1,270 |
 | [Urbek City Builder](../games/u/urbek_city_builder.md) | 79 | 1,000 |
-| [Dying Light Enhanced Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
+| [Dying Light: Standard Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
 | [Bears in Space](../games/2/23e93891eab3402ba0321f1ca405d41d.md) | 77 | 1,000 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
 | [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 |

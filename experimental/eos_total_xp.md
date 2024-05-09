@@ -322,7 +322,7 @@
 | [Dungeons 4](../games/d/dungeons_4.md) | 61 | 1,000 |
 | [Dust Fleet](../games/d/dust_fleet.md) | 41 | 1,000 |
 | [Dust to the End](../games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 47 | 1,000 |
-| [Dying Light Enhanced Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
+| [Dying Light: Standard Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
 | [EA SPORTS FC™ 24 Standard Edition](../games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 40 | 1,000 |
 | [EA SPORTS™ FIFA 23 Standard Edition](../games/e/ea_sports™_fifa_23_standard_edition.md) | 39 | 1,000 |
 | [EA SPORTS™ PGA TOUR™](../games/e/ea_sports™_pga_tour™.md) | 18 | 1,000 |

@@ -2,7 +2,7 @@
 | - | ---- | ---------- | --------- |
 | 1 | [Fall Guys](games/f/fall_guys.md) | 38,962,798 | 54,623 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 29,087,333 | 2,989 |
-| 3 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4,280,519 | 59 |
+| 3 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4,280,519 | 59 |
 | 4 | [DEATH STRANDING](games/d/death_stranding.md) | 4,193,103 | 2,442 |
 | 5 | [PC Building Simulator](games/p/pc_building_simulator.md) | 3,637,769 | 47 |
 | 6 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,904,661 | 810 |
