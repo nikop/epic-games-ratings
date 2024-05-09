@@ -3,9 +3,6 @@
 [View Rawdata](../../db/e/escape_academy.json)  
 Rating: 4.46 (Ranked 710)  
 ## Awards
-Max (Challenging Puzzles): 63  (Ranked 476)  
-Sum: 63 (Ranked 550)  
-Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 63 |

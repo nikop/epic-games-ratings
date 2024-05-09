@@ -179,9 +179,9 @@ Completed: 7 (0.17%) (Ranked 331)
 | 2024-03-21 | 4,028 | 7 |
 | 2024-04-10 | 4,112 | 7 |
 ## Awards
-Max (Amazing Characters): 33  (Ranked 558)  
+Max (Amazing Characters): 33  (Ranked 557)  
 Sum: 164 (Ranked 483)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 33 |
