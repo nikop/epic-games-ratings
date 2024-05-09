@@ -377,7 +377,7 @@
 | 375 | [Overcooked](games/o/overcooked.md) | 135 | 4.66 | 322 |
 | 375 | [Sonic Origins](games/s/sonic_origins.md) | 135 | 4.57 | 515 |
 | 377 | [Aven Colony](games/a/aven_colony.md) | 133 | 4.20 | 1,027 |
-| 378 | [Witchfire](games/w/witchfire.md) | 132 | 4.61 | 424 |
+| 377 | [Witchfire](games/w/witchfire.md) | 133 | 4.61 | 424 |
 | 379 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 131 | 4.28 | 954 |
 | 380 | [BIOMUTANT](games/b/biomutant.md) | 130 | 4.35 | 881 |
 | 381 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 129 | 4.21 | 1,020 |

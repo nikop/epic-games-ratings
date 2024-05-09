@@ -450,7 +450,7 @@
 | 424 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 427 |
 | 424 | [Warframe](games/w/warframe.md) | 4.61 | 23,707 | 24 |
 | 424 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 850 | 195 |
-| 424 | [Witchfire](games/w/witchfire.md) | 4.61 | 132 | 378 |
+| 424 | [Witchfire](games/w/witchfire.md) | 4.61 | 133 | 377 |
 | 452 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 921 | 189 |
 | 452 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 143 | 369 |
 | 452 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,798 | 25 |
