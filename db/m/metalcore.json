@@ -4,7 +4,7 @@
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 785,
   "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 380,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -869,10 +869,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 462,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-05-09T13:00:44.4782157+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 465,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 462,
+  "NumberOfAwards": 465,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -928,7 +934,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 39
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -967,8 +973,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-05-09T09:57:56.2190321+00:00",
+  "LastChanged": "2024-05-09T13:00:44.4782154+00:00",
   "LastUpdate_AppInfo": "2024-05-05T12:58:56.454325+00:00",
-  "LastUpdate_Ratings": "2024-05-09T10:59:10.0097325+00:00",
+  "LastUpdate_Ratings": "2024-05-09T13:00:44.478216+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }
