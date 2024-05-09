@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_settlers®__new_allies.json)  
 Rating: 3.90 (Ranked 1,146)  
 ## Awards
-Max (Relaxing): 150  (Ranked 362)  
+Max (Relaxing): 150  (Ranked 363)  
 Sum: 542 (Ranked 363)  
-Diff (max vs sum): -1  
+Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 150 |
