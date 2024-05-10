@@ -3,7 +3,7 @@
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
   "Ranking_Rating": 344,
-  "Ranking_Popularity": 307,
+  "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -4062,10 +4062,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1850,
       "NumberOfAwardsMax": 240
+    },
+    {
+      "Time": "2024-05-10T15:57:33.1116721+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1851,
+      "NumberOfAwardsMax": 240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1850,
+  "NumberOfAwards": 1851,
   "NumberOfAwardsMax": 240,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4097,7 +4103,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 176
+      "Count": 177
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4147,8 +4153,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2024-05-10T09:57:19.2935161+00:00",
+  "LastChanged": "2024-05-10T15:57:33.111672+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:24.9229819+00:00",
-  "LastUpdate_Ratings": "2024-05-10T13:58:56.7646123+00:00",
+  "LastUpdate_Ratings": "2024-05-10T15:57:33.1116726+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:16.7421752+00:00"
 }
