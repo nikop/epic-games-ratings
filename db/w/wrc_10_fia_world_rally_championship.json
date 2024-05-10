@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-10",
   "Ranking_Rating": 684,
   "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 415,
+  "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -623,10 +623,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 320,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-05-10T10:57:50.8384483+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 320,
+  "NumberOfAwards": 321,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -664,7 +670,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Challenging Combat",
@@ -714,8 +720,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2024-05-04T01:41:45.064376+00:00",
+  "LastChanged": "2024-05-10T10:57:50.8384482+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:08.5142494+00:00",
-  "LastUpdate_Ratings": "2024-05-10T09:00:11.4195939+00:00",
+  "LastUpdate_Ratings": "2024-05-10T10:57:50.8384485+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:21.7004529+00:00"
 }
