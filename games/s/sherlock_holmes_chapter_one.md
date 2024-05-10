@@ -1,7 +1,7 @@
 # Sherlock Holmes Chapter One
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-chapter-one)  
 [View Rawdata](../../db/s/sherlock_holmes_chapter_one.json)  
-Rating: 4.46 (Ranked 712)  
+Rating: 4.45 (Ranked 723)  
 Number of Ratings: 179  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -112,3 +112,4 @@ Number of Ratings: 179  (23.09.2022)
 | 2024-04-07 | 4.46 | - | 0 | 0 |
 | 2024-04-22 | 4.45 | - | 0 | 0 |
 | 2024-05-09 | 4.46 | - | 0 | 0 |
+| 2024-05-10 | 4.45 | - | 0 | 0 |

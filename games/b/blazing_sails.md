@@ -3,12 +3,12 @@
 [View Rawdata](../../db/b/blazing_sails.json)  
 Rating: 3.97 (Ranked 1,127)  
 ## Awards
-Max (Great for Beginners): 767  (Ranked 201)  
-Sum: 4,713 (Ranked 162)  
+Max (Great for Beginners): 768  (Ranked 201)  
+Sum: 4,714 (Ranked 162)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 767 |
+| This game is Great for Beginners | 768 |
 | This game is Highly Recommended | 614 |
 | This game is Extremely Fun | 602 |
 | This game has Competitive Players | 597 |
@@ -231,4 +231,4 @@ Diff (max vs sum): 39
 | 2024-05-07 | 3.97 | 765 | 4,700 |
 | 2024-05-08 | 3.97 | 765 | 4,708 |
 | 2024-05-09 | 3.97 | 767 | 4,712 |
-| 2024-05-10 | 3.97 | 767 | 4,713 |
+| 2024-05-10 | 3.97 | 768 | 4,714 |
