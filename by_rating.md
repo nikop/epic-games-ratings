@@ -71,7 +71,7 @@
 | 59 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 289 | 287 |
 | 59 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.83 | 0 | 638 |
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 527 |
-| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 487 | 241 |
+| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 488 | 241 |
 | 72 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 238 | 308 |
 | 72 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 544 |
 | 72 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,874 | 133 |
@@ -453,7 +453,7 @@
 | 424 | [Witchfire](games/w/witchfire.md) | 4.61 | 133 | 377 |
 | 452 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 927 | 188 |
 | 452 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 143 | 370 |
-| 452 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,798 | 25 |
+| 452 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,814 | 25 |
 | 452 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.60 | 124 | 385 |
 | 452 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 242 | 305 |
 | 452 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 422 | 254 |
@@ -683,6 +683,7 @@
 | 666 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.49 | 0 | 638 |
 | 666 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 13,777 | 37 |
 | 666 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.49 | 0 | 638 |
+| 684 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.48 | 22 | 618 |
 | 684 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 66 | 470 |
 | 684 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 638 |
 | 684 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 109 | 401 |
@@ -695,20 +696,19 @@
 | 684 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 638 |
 | 684 | [Wall World](games/w/wall_world.md) | 4.48 | 0 | 638 |
 | 684 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 41 | 528 |
-| 696 | [Absolute Drift](games/a/absolute_drift.md) | 4.47 | 0 | 638 |
-| 696 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.47 | 22 | 618 |
-| 696 | [Chorus](games/c/chorus.md) | 4.47 | 36 | 544 |
-| 696 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 638 |
-| 696 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 148 | 365 |
-| 696 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 164 | 357 |
-| 696 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,679 | 102 |
-| 696 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 638 |
-| 696 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 638 |
-| 696 | [MythForce](games/m/mythforce.md) | 4.47 | 38 | 539 |
-| 696 | [Riverbond](games/r/riverbond.md) | 4.47 | 22 | 618 |
-| 696 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.47 | 0 | 638 |
-| 696 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 638 |
-| 696 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,242 | 156 |
+| 697 | [Absolute Drift](games/a/absolute_drift.md) | 4.47 | 0 | 638 |
+| 697 | [Chorus](games/c/chorus.md) | 4.47 | 36 | 544 |
+| 697 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 638 |
+| 697 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 148 | 365 |
+| 697 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 164 | 357 |
+| 697 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,679 | 102 |
+| 697 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 638 |
+| 697 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 638 |
+| 697 | [MythForce](games/m/mythforce.md) | 4.47 | 38 | 539 |
+| 697 | [Riverbond](games/r/riverbond.md) | 4.47 | 22 | 618 |
+| 697 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.47 | 0 | 638 |
+| 697 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 638 |
+| 697 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,242 | 156 |
 | 710 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,583 | 93 |
 | 710 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.46 | 0 | 638 |
 | 710 | [Escape Academy](games/e/escape_academy.md) | 4.46 | 0 | 638 |
@@ -773,7 +773,7 @@
 | 768 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 638 |
 | 768 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 4.43 | 0 | 638 |
 | 768 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.43 | 0 | 638 |
-| 768 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,587 | 145 |
+| 768 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,590 | 145 |
 | 768 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 0 | 638 |
 | 768 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 638 |
 | 768 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 638 |
@@ -892,7 +892,7 @@
 | 890 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 638 |
 | 890 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 590 |
 | 890 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 638 |
-| 890 | [Core](games/c/core.md) | 4.34 | 807 | 198 |
+| 890 | [Core](games/c/core.md) | 4.34 | 808 | 198 |
 | 890 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.34 | 0 | 638 |
 | 890 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.34 | 0 | 638 |
 | 890 | [House Party](games/h/house_party.md) | 4.34 | 0 | 638 |
