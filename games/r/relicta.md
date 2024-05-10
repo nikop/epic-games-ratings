@@ -1,7 +1,7 @@
 # Relicta
 [Store](https://store.epicgames.com/en-US/p/relicta)  
 [View Rawdata](../../db/r/relicta.json)  
-Rating: 4.14 (Ranked 1,072)  
+Rating: 4.13 (Ranked 1,079)  
 Number of Ratings: 429  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 206  (Ranked 326)  
@@ -122,3 +122,4 @@ Diff (max vs sum): -106
 | 2024-02-02 | 4.15 | - | 205 | 280 |
 | 2024-02-04 | 4.15 | - | 206 | 281 |
 | 2024-03-29 | 4.14 | - | 206 | 281 |
+| 2024-05-10 | 4.13 | - | 206 | 281 |
