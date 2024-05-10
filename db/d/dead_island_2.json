@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 575,
-  "Ranking_Popularity": 35,
+  "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 286,
@@ -12823,18 +12823,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 23297,
       "NumberOfAwardsMax": 14439
+    },
+    {
+      "Time": "2024-05-10T21:58:03.5057238+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 23353,
+      "NumberOfAwardsMax": 14480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23297,
-  "NumberOfAwardsMax": 14439,
+  "NumberOfAwards": 23353,
+  "NumberOfAwardsMax": 14480,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 14439
+      "Count": 14480
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12852,13 +12858,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1301
+      "Count": 1305
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1081
+      "Count": 1086
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12882,7 +12888,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1057
+      "Count": 1063
     }
   ],
   "EOS_Progressed": 851780,
@@ -45954,9 +45960,9 @@
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2024-05-10T20:01:03.6343159+00:00",
+  "LastChanged": "2024-05-10T21:58:03.5057236+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:21.7584655+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:52.2940283+00:00",
-  "LastUpdate_Ratings": "2024-05-10T20:01:03.6343165+00:00",
+  "LastUpdate_Ratings": "2024-05-10T21:58:03.5057243+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:21.7587424+00:00"
 }

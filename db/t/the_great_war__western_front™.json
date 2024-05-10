@@ -2,7 +2,7 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 1125,
+  "Ranking_Rating": 1131,
   "Ranking_Popularity": 639,
   "Ranking_PopularitySum": 639,
   "Ranking_EOS_Progress": 336,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.98,
+  "Rating": 3.96,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:31.1456661+00:00",
@@ -143,6 +143,12 @@
     {
       "Time": "2024-04-25T20:00:01.3893146+00:00",
       "Rating": 3.98,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-10T21:59:41.6955099+00:00",
+      "Rating": 3.96,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4419,9 +4425,9 @@
   "FirstSeen": "2023-03-30T22:57:31.8125553+00:00",
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
-  "LastChanged": "2024-04-25T20:00:01.3893144+00:00",
+  "LastChanged": "2024-05-10T21:59:41.6955097+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:45.4493285+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:28.9429085+00:00",
-  "LastUpdate_Ratings": "2024-05-10T20:58:07.8342497+00:00",
+  "LastUpdate_Ratings": "2024-05-10T21:59:41.6955102+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:45.4493538+00:00"
 }
