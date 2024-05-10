@@ -43,7 +43,7 @@
 | 41 | [Bloons TD 6](games/b/bloons_td_6.md) | 12,300 | 4.77 | 123 |
 | 42 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,217 | 4.69 | 253 |
 | 43 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 11,906 | 4.58 | 490 |
-| 44 | [NBA 2K21](games/n/nba_2k21.md) | 11,870 | 4.38 | 845 |
+| 44 | [NBA 2K21](games/n/nba_2k21.md) | 11,873 | 4.38 | 845 |
 | 45 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,358 | 4.61 | 424 |
 | 46 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 11,339 | 4.67 | 299 |
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 10,701 | 4.78 | 115 |
@@ -80,7 +80,7 @@
 | 78 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,069 | 4.56 | 539 |
 | 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,048 | 4.07 | 1,104 |
 | 80 | [Prey](games/p/prey.md) | 6,028 | 4.63 | 382 |
-| 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,724 | 4.59 | 469 |
+| 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,730 | 4.59 | 469 |
 | 82 | [SMITE](games/s/smite.md) | 5,694 | 4.41 | 800 |
 | 83 | [God of War](games/g/god_of_war.md) | 5,603 | 4.87 | 22 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,597 | 4.57 | 515 |
@@ -300,8 +300,8 @@
 | 298 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 259 | 4.42 | 784 |
 | 299 | [Stranded Deep](games/s/stranded_deep.md) | 258 | 4.22 | 1,012 |
 | 300 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 257 | 4.44 | 742 |
+| 301 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 247 | 4.83 | 59 |
 | 301 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 247 | 4.57 | 515 |
-| 302 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 245 | 4.83 | 59 |
 | 303 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 244 | 4.56 | 539 |
 | 303 | [Old World](games/o/old_world.md) | 244 | 4.65 | 345 |
 | 305 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 242 | 4.60 | 452 |
@@ -324,8 +324,8 @@
 | 322 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 214 | 4.53 | 597 |
 | 323 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 210 | 4.35 | 881 |
 | 324 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 208 | 4.54 | 574 |
-| 325 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 206 | 4.22 | 1,012 |
-| 325 | [Relicta](games/r/relicta.md) | 206 | 4.14 | 1,072 |
+| 325 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 207 | 4.22 | 1,012 |
+| 326 | [Relicta](games/r/relicta.md) | 206 | 4.14 | 1,072 |
 | 327 | [Blasphemous](games/b/blasphemous.md) | 205 | 4.83 | 59 |
 | 328 | [Crashlands](games/c/crashlands.md) | 202 | 4.66 | 322 |
 | 329 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 201 | 4.48 | 684 |
@@ -507,12 +507,12 @@
 | 504 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 52 | 4.69 | 253 |
 | 504 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 52 | 4.29 | 938 |
 | 504 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 52 | 3.96 | 1,131 |
+| 504 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 52 | 4.32 | 913 |
 | 504 | [Transport Fever 2](games/t/transport_fever_2.md) | 52 | 4.68 | 277 |
-| 509 | [Coromon](games/c/coromon.md) | 50 | 4.68 | 277 |
-| 509 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 1,033 |
-| 509 | [Isonzo](games/i/isonzo.md) | 50 | 4.57 | 515 |
-| 509 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 50 | 4.32 | 913 |
-| 509 | [Warpips](games/w/warpips.md) | 50 | 4.43 | 767 |
+| 510 | [Coromon](games/c/coromon.md) | 50 | 4.68 | 277 |
+| 510 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 1,033 |
+| 510 | [Isonzo](games/i/isonzo.md) | 50 | 4.57 | 515 |
+| 510 | [Warpips](games/w/warpips.md) | 50 | 4.43 | 767 |
 | 514 | [Ancient Enemy](games/a/ancient_enemy.md) | 48 | 3.95 | 1,135 |
 | 514 | [Bugsnax](games/b/bugsnax.md) | 48 | 4.86 | 30 |
 | 516 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 47 | 4.58 | 490 |

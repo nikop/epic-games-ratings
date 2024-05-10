@@ -3,6 +3,7 @@
 | [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2024-05-10 | - |  | - | - |
 | [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |
 | [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2024-05-11 | - |  | - | - |
+| [Fabledom](games/7/777bdd3852e549bba87e873475cc62da.md) | 2024-05-13 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | - |  | - | - |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 1 | - | - |
 | [Athenian Rhapsody](games/e/e07a23238eb744e48941547e0aa89228.md) | 2024-05-14 | - |  | - | - |
