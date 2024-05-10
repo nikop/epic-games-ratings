@@ -1,11 +1,11 @@
 # Core
 [Store](https://store.epicgames.com/en-US/p/core)  
 [View Rawdata](../../db/c/core.json)  
-Rating: 4.34 (Ranked 891)  
+Rating: 4.34 (Ranked 892)  
 Number of Ratings: 1,439  (23.09.2022)  
 ## Awards
 Max (Character Customization): 808  (Ranked 198)  
-Sum: 2,263 (Ranked 227)  
+Sum: 2,264 (Ranked 227)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +20,7 @@ Diff (max vs sum): -29
 | This game is Relaxing | 128 |
 | This game has a Creative Community | 128 |
 | This game has Easy Combat | 111 |
-| This game has Amazing Storytelling | 110 |
+| This game has Amazing Storytelling | 111 |
 | This game has Obsessive Gameplay | 77 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -312,4 +312,4 @@ Diff (max vs sum): -29
 | 2024-05-02 | 4.34 | - | 806 | 2,260 |
 | 2024-05-03 | 4.34 | - | 807 | 2,261 |
 | 2024-05-09 | 4.34 | - | 807 | 2,262 |
-| 2024-05-10 | 4.34 | - | 808 | 2,263 |
+| 2024-05-10 | 4.34 | - | 808 | 2,264 |
