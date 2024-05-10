@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |
 | [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2024-05-10 | - |  | - | 0 |
 | [Ivorfall](games/b/be715805f0dd4c63b83491a84413cf81.md) | 2024-05-10 | - |  | - | - |
 | [Viking Rise](games/b/bcca452821c54464bc2cf64458de387e.md) | 2024-05-10 | - |  | - | 0 |
@@ -25,7 +26,7 @@
 | [Darkestville Castle](games/c/c33824d3cf754146aca31f48780b92bf.md) | 2024-05-07 | - |  | - | - |
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | - |  | - | - |
 | [The Origin Theory - Episode One](games/2/272516e06b114390af92429cba34eb6a.md) | 2024-05-06 | - |  | - | - |
-| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.90 | 0 |
+| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.89 | 0 |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 2 | - | 0 |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Diamond Drone](games/5/5e307f50567c4f8fb0c187f0729bfd08.md) | 2024-05-05 | - |  | - | - |
@@ -41,7 +42,7 @@
 | [Plants vs. Zombies™ Game of the Year Edition](games/c/c7f4f01a250d409ebf0a47677b1b4896.md) | 2024-05-02 | - |  | - | 0 |
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 2 | - | 0 |
 | [Undead Inc.](games/f/fe3316099db5422ebeb202e518942fa1.md) | 2024-05-02 | - |  | - | 0 |
-| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | - |  | 4.69 | 25 |
+| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | - |  | 4.68 | 30 |
 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | - |  | 4.58 | 242 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | - |  | - | 0 |
 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 2024-05-02 | - |  | - | - |
@@ -77,7 +78,7 @@
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Space Rocks!](games/2/2fdfd820f11346f8a6ebb3bd5e6339c7.md) | 2024-04-25 | - |  | - | - |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | - |  | - | 0 |
-| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | - |  | 4.50 | 114 |
+| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | - |  | 4.51 | 114 |
 | [Puzzle Agent](games/3/3726bbb2f39547989134d8ebaba10b3b.md) | 2024-04-25 | - |  | - | 0 |
 | [Cube Step](games/9/94d21a9f81064b058c4d7d0d0bcba0d6.md) | 2024-04-25 | - |  | - | 0 |
 | [Weed Shop 3](games/8/84367f1107b84e12ae5d2ef1d36d071e.md) | 2024-04-24 | - |  | - | 0 |
