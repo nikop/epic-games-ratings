@@ -335,7 +335,7 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-04-10 | 314,529 | 0 |
 ## Awards
 Max (Great for Beginners): 230  (Ranked 313)  
-Sum: 1,728 (Ranked 248)  
+Sum: 1,729 (Ranked 248)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 65
 | This game is Extremely Fun | 167 |
 | This game has Competitive Players | 164 |
 | This game has Challenging Combat | 121 |
-| This game has a Competitive Community | 114 |
+| This game has a Competitive Community | 115 |
 | This game has Amazing Storytelling | 108 |
 | This game has Amazing Characters | 95 |
 | This game has Obsessive Gameplay | 65 |
@@ -631,3 +631,4 @@ Diff (max vs sum): 65
 | 2024-04-27 | 4.07 | - | 228 | 1,726 |
 | 2024-05-04 | 4.07 | - | 229 | 1,727 |
 | 2024-05-06 | 4.07 | - | 230 | 1,728 |
+| 2024-05-10 | 4.07 | - | 230 | 1,729 |
