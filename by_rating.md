@@ -306,7 +306,7 @@
 | 299 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 638 |
 | 299 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 11,339 | 46 |
 | 299 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,014 | 177 |
-| 299 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 340,038 | 4 |
+| 299 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 340,154 | 4 |
 | 299 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 638 |
 | 299 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,381 | 120 |
 | 299 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 761 | 202 |
@@ -394,7 +394,7 @@
 | 382 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 10,554 | 48 |
 | 382 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,211 | 97 |
 | 382 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 638 |
-| 382 | [Prey](games/p/prey.md) | 4.63 | 6,026 | 80 |
+| 382 | [Prey](games/p/prey.md) | 4.63 | 6,028 | 80 |
 | 382 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.63 | 0 | 638 |
 | 382 | [Tavern Master](games/t/tavern_master.md) | 4.63 | 0 | 638 |
 | 382 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.63 | 0 | 638 |
@@ -441,7 +441,7 @@
 | 424 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 638 |
 | 424 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 822 | 197 |
 | 424 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,358 | 45 |
-| 424 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,134 | 163 |
+| 424 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,135 | 163 |
 | 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,864 | 64 |
 | 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 602 | 225 |
 | 424 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 652 | 217 |
@@ -822,7 +822,7 @@
 | 817 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 77 | 454 |
 | 817 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,100 | 166 |
 | 817 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 638 |
-| 817 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 374 | 264 |
+| 817 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 376 | 264 |
 | 817 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 4.40 | 0 | 638 |
 | 817 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 638 |
 | 817 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 638 |
@@ -1129,7 +1129,7 @@
 | 1,127 | [Blazing Sails](games/b/blazing_sails.md) | 3.97 | 767 | 201 |
 | 1,127 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 638 |
 | 1,127 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.97 | 0 | 638 |
-| 1,127 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.97 | 706 | 205 |
+| 1,127 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.97 | 708 | 205 |
 | 1,131 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.96 | 29 | 579 |
 | 1,131 | [Conarium](games/c/conarium.md) | 3.96 | 0 | 638 |
 | 1,131 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.96 | 52 | 504 |
