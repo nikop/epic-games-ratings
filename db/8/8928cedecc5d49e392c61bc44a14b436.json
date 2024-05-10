@@ -2,8 +2,8 @@
   "ID": "8928cedecc5d49e392c61bc44a14b436",
   "Name": "Return Alive",
   "ProductSlug": "return-alive-0ffdd1",
-  "Ranking_Rating": 1148,
-  "Ranking_Popularity": 495,
+  "Ranking_Rating": 1144,
+  "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 431,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.89,
+  "Rating": 3.91,
   "RatingHistory": [
     {
       "Time": "2024-04-07T15:58:07.8680422+00:00",
@@ -305,18 +305,24 @@
       "Rating": 3.89,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-05-10T16:57:53.5881632+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 55,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 55,
+  "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 54
+      "Count": 55
     }
   ],
   "EOS_Progressed": 17111,
@@ -443,9 +449,9 @@
   "FirstSeen": "2024-04-03T02:14:35.9374728+00:00",
   "FirstSeenRating": "2024-04-07T15:58:07.8680419+00:00",
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
-  "LastChanged": "2024-05-09T05:59:12.9002969+00:00",
+  "LastChanged": "2024-05-10T16:57:53.5881631+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:09.4829262+00:00",
   "LastUpdate_AppInfo": "2024-05-10T10:56:59.1579739+00:00",
-  "LastUpdate_Ratings": "2024-05-10T14:59:36.8454322+00:00",
+  "LastUpdate_Ratings": "2024-05-10T16:57:53.5881635+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:09.4837259+00:00"
 }

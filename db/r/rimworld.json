@@ -2,7 +2,7 @@
   "ID": "7051eadbb8c2435caf32a9bc0dc17936",
   "Name": "RimWorld",
   "ProductSlug": "rimworld",
-  "Ranking_Rating": 14,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.89,
+  "Rating": 4.88,
   "NumberOfRatings": 870,
   "RatingHistory": [
     {
@@ -4595,6 +4595,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 4404,
       "NumberOfAwardsMax": 534
+    },
+    {
+      "Time": "2024-05-10T16:59:15.3440364+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 4404,
+      "NumberOfAwardsMax": 534
     }
   ],
   "ReviewsDisabled": false,
@@ -4680,8 +4686,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2024-05-07T12:58:56.5470329+00:00",
+  "LastChanged": "2024-05-10T16:59:15.3440363+00:00",
   "LastUpdate_AppInfo": "2024-05-05T15:57:09.849095+00:00",
-  "LastUpdate_Ratings": "2024-05-10T15:57:22.2683592+00:00",
+  "LastUpdate_Ratings": "2024-05-10T16:59:15.3440367+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:56.5634916+00:00"
 }

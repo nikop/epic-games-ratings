@@ -1,16 +1,16 @@
 # Far Cry 6 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-6)  
 [View Rawdata](../../db/f/far_cry_6_standard_edition.json)  
-Rating: 4.46 (Ranked 710)  
+Rating: 4.46 (Ranked 711)  
 Number of Ratings: 12,290  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 1,253  (Ranked 153)  
-Sum: 9,496 (Ranked 116)  
+Sum: 9,497 (Ranked 116)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,253 |
-| This game is Relaxing | 1,207 |
+| This game is Relaxing | 1,208 |
 | This game has Diverse Characters | 1,200 |
 | This game has Quickly Understood Controls | 1,188 |
 | This game is Extremely Fun | 1,186 |
@@ -494,4 +494,4 @@ Diff (max vs sum): 37
 | 2024-05-07 | 4.46 | - | 1,251 | 9,482 |
 | 2024-05-08 | 4.46 | - | 1,251 | 9,487 |
 | 2024-05-09 | 4.46 | - | 1,252 | 9,491 |
-| 2024-05-10 | 4.46 | - | 1,253 | 9,496 |
+| 2024-05-10 | 4.46 | - | 1,253 | 9,497 |
