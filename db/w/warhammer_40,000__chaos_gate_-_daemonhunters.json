@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
   "Ranking_Rating": 515,
   "Ranking_Popularity": 301,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -967,10 +967,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 506,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2024-05-10T17:57:59.3523655+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 538,
+      "NumberOfAwardsMax": 247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 506,
+  "NumberOfAwards": 538,
   "NumberOfAwardsMax": 247,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1026,7 +1032,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 29
+      "Count": 32
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6936,9 +6942,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2024-05-10T13:03:55.8342752+00:00",
+  "LastChanged": "2024-05-10T17:57:59.3523653+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:08.910641+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:58:19.175608+00:00",
-  "LastUpdate_Ratings": "2024-05-10T16:00:10.5610728+00:00",
+  "LastUpdate_Ratings": "2024-05-10T17:57:59.3523657+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:08.910708+00:00"
 }
