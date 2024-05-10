@@ -2,7 +2,7 @@
   "ID": "e59da5b391d24c05ba6d9115b6e05459",
   "Name": "Ys IX: Monstrum Nox",
   "ProductSlug": "ys-ix-monstrum-nox",
-  "Ranking_Rating": 225,
+  "Ranking_Rating": 253,
   "Ranking_Popularity": 639,
   "Ranking_PopularitySum": 639,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 33,
   "RatingHistory": [
     {
@@ -160,6 +160,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-10T19:58:55.3119028+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -177,8 +183,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:53.4070911+00:00",
-  "LastChanged": "2024-01-26T21:58:37.5920222+00:00",
+  "LastChanged": "2024-05-10T19:58:55.3119026+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:22.978211+00:00",
-  "LastUpdate_Ratings": "2024-05-10T18:00:11.8396505+00:00",
+  "LastUpdate_Ratings": "2024-05-10T19:58:55.3119031+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:54.8599272+00:00"
 }

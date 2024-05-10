@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human - Reloaded Edition",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 35,
   "Ranking_EOS_Progress": 19,
@@ -19820,10 +19820,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 48732,
       "NumberOfAwardsMax": 16456
+    },
+    {
+      "Time": "2024-05-10T19:59:53.4645885+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 48744,
+      "NumberOfAwardsMax": 16456
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48732,
+  "NumberOfAwards": 48744,
   "NumberOfAwardsMax": 16456,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19855,7 +19861,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2942
+      "Count": 2954
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -52992,9 +52998,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2024-05-10T15:57:57.5437429+00:00",
+  "LastChanged": "2024-05-10T19:59:53.4645883+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:55.2495205+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:31.1620326+00:00",
-  "LastUpdate_Ratings": "2024-05-10T18:57:48.0196725+00:00",
+  "LastUpdate_Ratings": "2024-05-10T19:59:53.4645889+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:55.2496894+00:00"
 }

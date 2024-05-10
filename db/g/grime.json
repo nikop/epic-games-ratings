@@ -2,9 +2,9 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 445,
-  "Ranking_PopularitySum": 357,
+  "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 53,
@@ -2477,10 +2477,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 585,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-05-10T19:57:24.7559136+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 586,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 585,
+  "NumberOfAwards": 586,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2506,7 +2512,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Extremely Fun",
@@ -25663,9 +25669,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-05-09T13:57:19.1400708+00:00",
+  "LastChanged": "2024-05-10T19:57:24.7559134+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:58.1627395+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:57.8568284+00:00",
-  "LastUpdate_Ratings": "2024-05-10T17:59:12.0018945+00:00",
+  "LastUpdate_Ratings": "2024-05-10T19:57:24.755914+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:58.1629+00:00"
 }
