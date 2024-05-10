@@ -3,8 +3,8 @@
   "Name": "Fallout 4",
   "ProductSlug": "fallout-4",
   "Ranking_Rating": 645,
-  "Ranking_Popularity": 405,
-  "Ranking_PopularitySum": 504,
+  "Ranking_Popularity": 396,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -295,18 +295,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 125,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-05-10T14:59:37.8687046+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 135,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 125,
-  "NumberOfAwardsMax": 104,
+  "NumberOfAwards": 135,
+  "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 104
+      "Count": 114
     },
     {
       "Text": "This game has Diverse Characters",
@@ -327,8 +333,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
-  "LastChanged": "2024-05-10T10:57:28.4376907+00:00",
+  "LastChanged": "2024-05-10T14:59:37.8687044+00:00",
   "LastUpdate_AppInfo": "2024-05-09T18:56:54.1494396+00:00",
-  "LastUpdate_Ratings": "2024-05-10T13:57:36.80629+00:00",
+  "LastUpdate_Ratings": "2024-05-10T14:59:37.8687052+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:08.5050159+00:00"
 }
