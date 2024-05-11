@@ -2,7 +2,7 @@
   "ID": "f2144add4a0542e385d8d8506f26d760",
   "Name": "PHANTOM GALAXIES\u2122",
   "ProductSlug": "phantom-galaxies-8f4ca5",
-  "Ranking_Rating": 973,
+  "Ranking_Rating": 1072,
   "Ranking_Popularity": 639,
   "Ranking_PopularitySum": 639,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2024-03-11T01:38:57.382601+00:00",
@@ -71,6 +71,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-11T17:57:55.6074025+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -89,8 +95,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T13:05:25.7745698+00:00",
   "FirstSeenRating": "2024-03-11T01:38:57.3826008+00:00",
-  "LastChanged": "2024-05-09T06:59:46.7719833+00:00",
+  "LastChanged": "2024-05-11T17:57:55.6074024+00:00",
   "LastUpdate_AppInfo": "2024-05-10T08:57:18.9322955+00:00",
-  "LastUpdate_Ratings": "2024-05-11T15:59:46.9881768+00:00",
+  "LastUpdate_Ratings": "2024-05-11T17:57:55.6074036+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:11.4690645+00:00"
 }
