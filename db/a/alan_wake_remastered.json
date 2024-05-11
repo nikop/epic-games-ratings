@@ -4,7 +4,7 @@
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 698,
   "Ranking_Popularity": 619,
-  "Ranking_PopularitySum": 534,
+  "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 53,
@@ -700,10 +700,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-05-11T08:57:00.9302108+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84,
+  "NumberOfAwards": 85,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -735,7 +741,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 162195,
@@ -31261,9 +31267,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
-  "LastChanged": "2024-05-11T06:59:05.2211535+00:00",
+  "LastChanged": "2024-05-11T08:57:00.9302106+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:35.0554968+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:14.2862274+00:00",
-  "LastUpdate_Ratings": "2024-05-11T06:59:05.2211539+00:00",
+  "LastUpdate_Ratings": "2024-05-11T08:57:00.9302112+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:35.0556516+00:00"
 }

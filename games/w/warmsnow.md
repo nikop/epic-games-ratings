@@ -3,9 +3,9 @@
 [View Rawdata](../../db/w/warmsnow.json)  
 Rating: 4.79 (Ranked 104)  
 ## Awards
-Max (Great Boss Battles): 105  (Ranked 405)  
+Max (Great Boss Battles): 105  (Ranked 406)  
 Sum: 145 (Ranked 491)  
-Diff (max vs sum): -86  
+Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 105 |
