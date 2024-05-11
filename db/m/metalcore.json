@@ -2,7 +2,7 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 786,
+  "Ranking_Rating": 802,
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -953,10 +953,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 522,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-05-11T19:59:18.1232724+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 523,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 522,
+  "NumberOfAwards": 523,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1030,7 +1036,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1051,8 +1057,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-05-11T13:59:32.2467257+00:00",
+  "LastChanged": "2024-05-11T19:59:18.1232723+00:00",
   "LastUpdate_AppInfo": "2024-05-05T12:58:56.454325+00:00",
-  "LastUpdate_Ratings": "2024-05-11T18:58:01.7811707+00:00",
+  "LastUpdate_Ratings": "2024-05-11T19:59:18.1232727+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }

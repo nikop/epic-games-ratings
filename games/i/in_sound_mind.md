@@ -1,18 +1,18 @@
 # In Sound Mind
 [Store](https://store.epicgames.com/en-US/p/in-sound-mind)  
 [View Rawdata](../../db/i/in_sound_mind.json)  
-Rating: 4.61 (Ranked 425)  
+Rating: 4.61 (Ranked 426)  
 Number of Ratings: 1,937  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 65  (Ranked 472)  
-Sum: 354 (Ranked 402)  
-Diff (max vs sum): 70  
+Sum: 355 (Ranked 401)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 65 |
 | This game has Amazing Characters | 60 |
 | This game is Highly Recommended | 56 |
-| This game has Quickly Understood Controls | 52 |
+| This game has Quickly Understood Controls | 53 |
 | This game has Unique Visuals | 46 |
 | This game has Amazing Storytelling | 45 |
 | This game has Obsessive Gameplay | 36 |
@@ -111,3 +111,4 @@ Diff (max vs sum): 70
 | 2024-04-12 | 4.61 | - | 64 | 352 |
 | 2024-04-21 | 4.61 | - | 64 | 353 |
 | 2024-04-28 | 4.61 | - | 65 | 354 |
+| 2024-05-11 | 4.61 | - | 65 | 355 |

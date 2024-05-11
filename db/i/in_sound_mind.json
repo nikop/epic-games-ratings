@@ -2,9 +2,9 @@
   "ID": "fa9812acd30f46f8a69a75bf27addb5c",
   "Name": "In Sound Mind",
   "ProductSlug": "in-sound-mind",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 472,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -995,10 +995,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 354,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2024-05-11T19:58:24.8638769+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 355,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 354,
+  "NumberOfAwards": 355,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1030,7 +1036,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1068,8 +1074,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
-  "LastChanged": "2024-04-28T13:58:25.8699214+00:00",
+  "LastChanged": "2024-05-11T19:58:24.8638767+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:26.5730602+00:00",
-  "LastUpdate_Ratings": "2024-05-11T18:00:04.8226759+00:00",
+  "LastUpdate_Ratings": "2024-05-11T19:58:24.8638773+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:07.301933+00:00"
 }
