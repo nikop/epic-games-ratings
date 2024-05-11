@@ -5,13 +5,13 @@ Rating: 4.50 (Ranked 647)
 Number of Ratings: 76  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 25  (Ranked 605)  
-Sum: 65 (Ranked 548)  
-Diff (max vs sum): 57  
+Sum: 66 (Ranked 547)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 25 |
+| This game is Highly Recommended | 21 |
 | This game has Amazing Storytelling | 20 |
-| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -108,3 +108,4 @@ Diff (max vs sum): 57
 | 2024-04-11 | 4.49 | - | 24 | 44 |
 | 2024-04-21 | 4.50 | - | 24 | 44 |
 | 2024-04-28 | 4.50 | - | 25 | 65 |
+| 2024-05-11 | 4.50 | - | 25 | 66 |
