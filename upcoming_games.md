@@ -8,6 +8,7 @@
 | [Lizard Slayer](games/c/c41d2880cc784e3ab5744177cf90a603.md) | 2024-05-14 | - |  | - | - |
 | [Athenian Rhapsody](games/e/e07a23238eb744e48941547e0aa89228.md) | 2024-05-14 | - |  | - | - |
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | - |  | - | - |
+| [Die By The Blade](games/d/die_by_the_blade.md) | 2024-05-16 | - |  | - | - |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | - |  | - | - |
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | - |  | - | - |
@@ -310,7 +311,6 @@
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2099-01-01 | 19 (1,000 XP) | 507 | - | 0 |
 | [DevMtForakerAudience](games/r/r.b.i._baseball_21.md) | 2099-01-01 | - |  | - | - |
 | [dHexUs](games/1/18ce5f915fb44c1c957951439af675fb.md) | 2099-01-01 | - |  | - | - |
-| [Die By The Blade](games/d/die_by_the_blade.md) | 2099-01-01 | - |  | - | - |
 | [Dismay](games/d/dismay.md) | 2099-01-01 | - |  | - | - |
 | [Djinn - The Forbidden Knowledge](games/c/c0d21f55048943b990644fa9f43322cb.md) | 2099-01-01 | - |  | - | - |
 | [Don Duality](games/2/2325c580f06d4eb4ba6814c1b6802bed.md) | 2099-01-01 | - |  | - | - |
