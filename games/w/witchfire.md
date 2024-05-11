@@ -3,12 +3,12 @@
 [View Rawdata](../../db/w/witchfire.json)  
 Rating: 4.61 (Ranked 425)  
 ## Awards
-Max (Challenging Combat): 135  (Ranked 376)  
-Sum: 763 (Ranked 328)  
-Diff (max vs sum): 48  
+Max (Challenging Combat): 137  (Ranked 373)  
+Sum: 765 (Ranked 328)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 135 |
+| This game has Challenging Combat | 137 |
 | This game is Highly Recommended | 132 |
 | This game has Quickly Understood Controls | 120 |
 | This game has Amazing Storytelling | 116 |
@@ -208,3 +208,4 @@ Diff (max vs sum): 48
 | 2024-05-08 | 4.61 | 132 | 756 |
 | 2024-05-09 | 4.61 | 133 | 759 |
 | 2024-05-10 | 4.61 | 135 | 763 |
+| 2024-05-11 | 4.61 | 137 | 765 |
