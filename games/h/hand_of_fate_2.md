@@ -1,7 +1,7 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.54 (Ranked 575)  
+Rating: 4.53 (Ranked 596)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -477,3 +477,4 @@ Diff (max vs sum): 80
 | 2024-04-10 | 4.54 | - | 37 | 205 |
 | 2024-04-11 | 4.54 | - | 38 | 206 |
 | 2024-05-05 | 4.54 | - | 38 | 207 |
+| 2024-05-11 | 4.53 | - | 38 | 207 |

@@ -4,7 +4,7 @@
 Rating: 4.59 (Ranked 470)  
 ## Awards
 Max (Great for Quick Sessions): 1,083  (Ranked 171)  
-Sum: 8,686 (Ranked 126)  
+Sum: 8,687 (Ranked 126)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 45
 | This game has Diverse Characters | 1,027 |
 | This game has Competitive Players | 925 |
 | This game has Quickly Understood Controls | 914 |
-| This game has Challenging Combat | 831 |
+| This game has Challenging Combat | 832 |
 | This game is Extremely Fun | 826 |
 | This game is Highly Recommended | 819 |
 | This game has Amazing Characters | 781 |
@@ -496,4 +496,4 @@ Diff (max vs sum): 45
 | 2024-05-08 | 4.59 | 1,072 | 8,648 |
 | 2024-05-09 | 4.59 | 1,079 | 8,663 |
 | 2024-05-10 | 4.59 | 1,079 | 8,678 |
-| 2024-05-11 | 4.59 | 1,083 | 8,686 |
+| 2024-05-11 | 4.59 | 1,083 | 8,687 |

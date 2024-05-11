@@ -2,7 +2,7 @@
   "ID": "51817fc62352469faf5aae0133642b45",
   "Name": "Call of Dragons",
   "ProductSlug": "call-of-dragons-d85ee6",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 892,
   "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 985,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-11-12T06:58:46.4147492+00:00",
@@ -977,10 +977,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 338,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-05-11T14:57:29.7717115+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 338,
+  "NumberOfAwards": 339,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1030,7 +1036,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1057,8 +1063,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-05-10T14:58:08.5955091+00:00",
+  "LastChanged": "2024-05-11T14:57:29.7717113+00:00",
   "LastUpdate_AppInfo": "2024-05-09T01:44:27.5825888+00:00",
-  "LastUpdate_Ratings": "2024-05-11T13:01:16.3522203+00:00",
+  "LastUpdate_Ratings": "2024-05-11T14:57:29.7717118+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:43.7841392+00:00"
 }
