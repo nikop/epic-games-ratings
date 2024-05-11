@@ -1,7 +1,7 @@
 # Osiris: New Dawn
 [Store](https://store.epicgames.com/en-US/p/osiris-new-dawn)  
 [View Rawdata](../../db/o/osiris__new_dawn.json)  
-Rating: 3.72 (Ranked 1,169)  
+Rating: 3.73 (Ranked 1,168)  
 Number of Ratings: 106  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -63,3 +63,4 @@ Number of Ratings: 106  (23.09.2022)
 | 2024-02-10 | 3.73 | - | 0 | 0 |
 | 2024-02-24 | 3.71 | - | 0 | 0 |
 | 2024-04-28 | 3.72 | - | 0 | 0 |
+| 2024-05-11 | 3.73 | - | 0 | 0 |

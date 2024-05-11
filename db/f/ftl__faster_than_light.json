@@ -2,7 +2,7 @@
   "ID": "f7dc1618d0bd4810a61f50d44333900e",
   "Name": "FTL: Faster Than Light",
   "ProductSlug": "faster-than-light",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 105,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 985,
@@ -2482,10 +2482,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1438,
       "NumberOfAwardsMax": 181
+    },
+    {
+      "Time": "2024-05-11T17:00:06.4589627+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1439,
+      "NumberOfAwardsMax": 181
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1438,
+  "NumberOfAwards": 1439,
   "NumberOfAwardsMax": 181,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2553,7 +2559,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 84
+      "Count": 85
     }
   ],
   "EOS_Progressed": 0,
@@ -2567,8 +2573,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-05-11T08:00:02.5351896+00:00",
+  "LastChanged": "2024-05-11T17:00:06.4589626+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:07.6343179+00:00",
-  "LastUpdate_Ratings": "2024-05-11T15:58:34.9876516+00:00",
+  "LastUpdate_Ratings": "2024-05-11T17:00:06.458963+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:22.006308+00:00"
 }

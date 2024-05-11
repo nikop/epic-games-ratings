@@ -3,7 +3,7 @@
   "Name": "Century: Age of Ashes",
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 817,
-  "Ranking_Popularity": 455,
+  "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -1960,18 +1960,24 @@
       "Rating": 4.4,
       "NumberOfAwards": 660,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-05-11T16:57:50.2141925+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 661,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 660,
-  "NumberOfAwardsMax": 77,
+  "NumberOfAwards": 661,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game is Relaxing",
@@ -2045,8 +2051,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2024-05-09T16:58:19.7016358+00:00",
+  "LastChanged": "2024-05-11T16:57:50.2141923+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:58:15.5596534+00:00",
-  "LastUpdate_Ratings": "2024-05-11T14:59:41.1450254+00:00",
+  "LastUpdate_Ratings": "2024-05-11T16:57:50.2141927+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:06.6664968+00:00"
 }
