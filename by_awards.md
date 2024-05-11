@@ -62,7 +62,7 @@
 | 60 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,469 | 4.69 | 253 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,437 | 4.75 | 152 |
 | 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,252 | 4.71 | 211 |
-| 63 | [Cities: Skylines](games/c/cities__skylines.md) | 7,888 | 4.66 | 323 |
+| 63 | [Cities: Skylines](games/c/cities__skylines.md) | 7,897 | 4.66 | 323 |
 | 64 | [Supraland](games/s/supraland.md) | 7,864 | 4.61 | 425 |
 | 65 | [Sifu](games/s/sifu.md) | 7,806 | 4.82 | 72 |
 | 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,252 | 4.66 | 323 |
@@ -106,9 +106,9 @@
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,578 | 4.76 | 143 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,533 | 4.19 | 1,034 |
 | 106 | [Among Us](games/a/among_us.md) | 3,333 | 4.56 | 543 |
-| 107 | [RAGE 2](games/r/rage_2.md) | 3,139 | 4.26 | 973 |
-| 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,132 | 4.54 | 575 |
-| 109 | [Ghostrunner](games/g/ghostrunner.md) | 3,127 | 4.56 | 543 |
+| 107 | [Ghostrunner](games/g/ghostrunner.md) | 3,142 | 4.56 | 543 |
+| 108 | [RAGE 2](games/r/rage_2.md) | 3,139 | 4.26 | 973 |
+| 109 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,132 | 4.54 | 575 |
 | 110 | [Path of Exile](games/p/path_of_exile.md) | 2,981 | 4.62 | 401 |
 | 111 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,946 | 4.79 | 104 |
 | 112 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,626 | 4.71 | 211 |
@@ -261,7 +261,7 @@
 | 258 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 393 | 4.72 | 200 |
 | 260 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 387 | 3.99 | 1,124 |
 | 261 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 383 | 4.43 | 765 |
-| 262 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 381 | 4.55 | 558 |
+| 262 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 382 | 4.55 | 558 |
 | 263 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 377 | 4.29 | 939 |
 | 264 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 376 | 4.40 | 818 |
 | 265 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 368 | 4.51 | 626 |

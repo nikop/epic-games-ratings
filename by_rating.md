@@ -326,7 +326,7 @@
 | 323 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.66 | 64 | 474 |
 | 323 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 103 | 409 |
 | 323 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 308 | 281 |
-| 323 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,888 | 63 |
+| 323 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,897 | 63 |
 | 323 | [Crashlands](games/c/crashlands.md) | 4.66 | 202 | 330 |
 | 323 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 193 | 338 |
 | 323 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,320 | 150 |
@@ -546,7 +546,7 @@
 | 543 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 54 | 496 |
 | 543 | [Duskers](games/d/duskers.md) | 4.56 | 0 | 639 |
 | 543 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,089 | 169 |
-| 543 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 3,127 | 109 |
+| 543 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 3,142 | 107 |
 | 543 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 104 | 406 |
 | 543 | [Horace](games/h/horace.md) | 4.56 | 0 | 639 |
 | 543 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.56 | 244 | 303 |
@@ -558,7 +558,7 @@
 | 543 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,807 | 139 |
 | 543 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,072 | 78 |
 | 558 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 639 |
-| 558 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 381 | 262 |
+| 558 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 382 | 262 |
 | 558 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 619 |
 | 558 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 586 |
 | 558 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,255 | 122 |
@@ -588,7 +588,7 @@
 | 575 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 83 | 441 |
 | 575 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.54 | 0 | 639 |
 | 575 | [Observation](games/o/observation.md) | 4.54 | 0 | 639 |
-| 575 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,132 | 108 |
+| 575 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,132 | 109 |
 | 575 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,098 | 168 |
 | 575 | [Redout 2](games/r/redout_2.md) | 4.54 | 0 | 639 |
 | 575 | [RUINER](games/r/ruiner.md) | 4.54 | 26 | 599 |
@@ -981,7 +981,7 @@
 | 973 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 24 | 611 |
 | 973 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.26 | 0 | 639 |
 | 973 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 639 |
-| 973 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,139 | 107 |
+| 973 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,139 | 108 |
 | 973 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 35 | 550 |
 | 973 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 639 |
 | 973 | [Startup Panic](games/s/startup_panic.md) | 4.26 | 0 | 639 |
