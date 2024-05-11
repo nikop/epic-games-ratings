@@ -15,7 +15,7 @@
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 60,499 | 4.61 | 425 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,499 | 4.74 | 168 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 46,848 | 4.72 | 200 |
-| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,626 | 4.51 | 626 |
+| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,667 | 4.51 | 626 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 37,992 | 4.74 | 168 |
 | 18 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 30,227 | 4.12 | 1,082 |
 | 19 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,137 | 4.64 | 366 |
@@ -76,14 +76,14 @@
 | 74 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,240 | 4.66 | 323 |
 | 75 | [Rogue Company](games/r/rogue_company.md) | 6,233 | 4.28 | 955 |
 | 76 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,110 | 4.85 | 38 |
-| 77 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,102 | 4.64 | 366 |
+| 77 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,103 | 4.64 | 366 |
 | 78 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,072 | 4.56 | 543 |
 | 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,048 | 4.07 | 1,104 |
 | 80 | [Prey](games/p/prey.md) | 6,028 | 4.63 | 383 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,730 | 4.59 | 470 |
 | 82 | [SMITE](games/s/smite.md) | 5,702 | 4.41 | 802 |
-| 83 | [God of War](games/g/god_of_war.md) | 5,603 | 4.87 | 22 |
-| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,597 | 4.57 | 516 |
+| 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,605 | 4.57 | 516 |
+| 84 | [God of War](games/g/god_of_war.md) | 5,603 | 4.87 | 22 |
 | 85 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,384 | 4.62 | 401 |
 | 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,348 | 4.37 | 861 |
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,151 | 4.00 | 1,120 |
@@ -102,10 +102,10 @@
 | 100 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,784 | 4.57 | 516 |
 | 101 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,776 | 4.66 | 323 |
 | 102 | [Gloomhaven](games/g/gloomhaven.md) | 3,682 | 4.47 | 699 |
-| 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,594 | 4.57 | 516 |
+| 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,596 | 4.57 | 516 |
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,578 | 4.76 | 143 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,533 | 4.19 | 1,034 |
-| 106 | [Among Us](games/a/among_us.md) | 3,333 | 4.56 | 543 |
+| 106 | [Among Us](games/a/among_us.md) | 3,335 | 4.56 | 543 |
 | 107 | [Ghostrunner](games/g/ghostrunner.md) | 3,142 | 4.56 | 543 |
 | 108 | [RAGE 2](games/r/rage_2.md) | 3,139 | 4.26 | 973 |
 | 109 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,132 | 4.54 | 575 |
@@ -311,7 +311,7 @@
 | 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 238 | 4.58 | 491 |
 | 309 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 238 | 4.82 | 72 |
 | 311 | [Crying Suns](games/c/crying_suns.md) | 235 | 4.51 | 626 |
-| 312 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 233 | 4.84 | 48 |
+| 312 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 234 | 4.84 | 48 |
 | 313 | [Sunless Sea](games/s/sunless_sea.md) | 232 | 4.59 | 470 |
 | 314 | [Pinball FX](games/p/pinball_fx.md) | 230 | 4.07 | 1,104 |
 | 315 | [HITMAN](games/h/hitman.md) | 229 | 4.63 | 383 |

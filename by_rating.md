@@ -23,7 +23,7 @@
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 639 |
 | 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,739 | 140 |
 | 22 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 803 | 199 |
-| 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,603 | 83 |
+| 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,603 | 84 |
 | 22 | [Inscryption](games/i/inscryption.md) | 4.87 | 368 | 265 |
 | 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 316,489 | 5 |
 | 22 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,515 | 27 |
@@ -55,7 +55,7 @@
 | 48 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 639 |
 | 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,124 | 32 |
 | 48 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 57 | 487 |
-| 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 233 | 312 |
+| 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 234 | 312 |
 | 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 241 | 307 |
 | 48 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 639 |
 | 59 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 639 |
@@ -366,7 +366,7 @@
 | 346 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.65 | 0 | 639 |
 | 346 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 639 |
 | 366 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 639 |
-| 366 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,102 | 77 |
+| 366 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,103 | 77 |
 | 366 | [Black Book](games/b/black_book.md) | 4.64 | 122 | 389 |
 | 366 | [Eternights](games/e/eternights.md) | 4.64 | 0 | 639 |
 | 366 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.64 | 43 | 523 |
@@ -531,18 +531,18 @@
 | 516 | [Isonzo](games/i/isonzo.md) | 4.57 | 50 | 510 |
 | 516 | [Minit](games/m/minit.md) | 4.57 | 0 | 639 |
 | 516 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,784 | 100 |
-| 516 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,594 | 103 |
+| 516 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,596 | 103 |
 | 516 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 135 | 376 |
 | 516 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.57 | 29 | 580 |
 | 516 | [System Shock](games/s/system_shock.md) | 4.57 | 0 | 639 |
 | 516 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 57 | 487 |
 | 516 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.57 | 0 | 639 |
-| 516 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,597 | 84 |
+| 516 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,605 | 83 |
 | 516 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,873 | 23 |
 | 516 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 639 |
 | 516 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 247 | 301 |
 | 516 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 24 | 611 |
-| 543 | [Among Us](games/a/among_us.md) | 4.56 | 3,333 | 106 |
+| 543 | [Among Us](games/a/among_us.md) | 4.56 | 3,335 | 106 |
 | 543 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 54 | 496 |
 | 543 | [Duskers](games/d/duskers.md) | 4.56 | 0 | 639 |
 | 543 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,089 | 169 |
@@ -629,7 +629,7 @@
 | 626 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,212 | 97 |
 | 626 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 311 |
 | 626 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 639 |
-| 626 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,626 | 16 |
+| 626 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,667 | 16 |
 | 626 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.51 | 0 | 639 |
 | 626 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.51 | 114 | 396 |
 | 626 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 368 | 265 |
