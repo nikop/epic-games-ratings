@@ -23,7 +23,7 @@
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 639 |
 | 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,739 | 140 |
 | 22 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 803 | 199 |
-| 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,603 | 84 |
+| 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,607 | 83 |
 | 22 | [Inscryption](games/i/inscryption.md) | 4.87 | 368 | 265 |
 | 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 316,489 | 5 |
 | 22 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,515 | 27 |
@@ -72,7 +72,7 @@
 | 59 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.83 | 0 | 639 |
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 527 |
 | 72 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 488 | 241 |
-| 72 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 238 | 309 |
+| 72 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 239 | 309 |
 | 72 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 544 |
 | 72 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,881 | 133 |
 | 72 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 639 |
@@ -239,7 +239,7 @@
 | 225 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 173 | 353 |
 | 225 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.70 | 333 | 275 |
 | 225 | [Pacific Drive](games/p/pacific_drive.md) | 4.70 | 0 | 639 |
-| 225 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,443 | 55 |
+| 225 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,450 | 55 |
 | 225 | [Sailing Era](games/s/sailing_era.md) | 4.70 | 0 | 639 |
 | 225 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.70 | 31 | 568 |
 | 225 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 0 | 639 |
@@ -322,7 +322,7 @@
 | 300 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.67 | 0 | 639 |
 | 300 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.67 | 0 | 639 |
 | 300 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 27 | 592 |
-| 323 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,776 | 101 |
+| 323 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,778 | 101 |
 | 323 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.66 | 64 | 474 |
 | 323 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 103 | 409 |
 | 323 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 308 | 281 |
@@ -454,7 +454,7 @@
 | 425 | [Witchfire](games/w/witchfire.md) | 4.61 | 135 | 376 |
 | 453 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 929 | 187 |
 | 453 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 143 | 370 |
-| 453 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,814 | 25 |
+| 453 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,820 | 25 |
 | 453 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.60 | 124 | 385 |
 | 453 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 242 | 305 |
 | 453 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 422 | 254 |
@@ -471,7 +471,7 @@
 | 453 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 27 | 592 |
 | 470 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.59 | 0 | 639 |
 | 470 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 639 |
-| 470 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,079 | 171 |
+| 470 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,083 | 171 |
 | 470 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,730 | 81 |
 | 470 | [Deceive Inc.](games/d/deceive_inc..md) | 4.59 | 0 | 639 |
 | 470 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.59 | 0 | 639 |
@@ -493,7 +493,7 @@
 | 491 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.58 | 89 | 433 |
 | 491 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 47 | 516 |
 | 491 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 68,975 | 12 |
-| 491 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 238 | 309 |
+| 491 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 238 | 310 |
 | 491 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.58 | 27 | 592 |
 | 491 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.58 | 0 | 639 |
 | 491 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 0 | 639 |
@@ -537,7 +537,7 @@
 | 516 | [System Shock](games/s/system_shock.md) | 4.57 | 0 | 639 |
 | 516 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 57 | 487 |
 | 516 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.57 | 0 | 639 |
-| 516 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,605 | 83 |
+| 516 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,605 | 84 |
 | 516 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,873 | 23 |
 | 516 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 639 |
 | 516 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 247 | 301 |

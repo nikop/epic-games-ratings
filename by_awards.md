@@ -24,7 +24,7 @@
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,166 | 4.26 | 973 |
 | 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,873 | 4.57 | 516 |
 | 24 | [Warframe](games/w/warframe.md) | 23,743 | 4.61 | 425 |
-| 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,814 | 4.60 | 453 |
+| 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,820 | 4.60 | 453 |
 | 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,665 | 4.76 | 143 |
 | 27 | [Satisfactory](games/s/satisfactory.md) | 17,515 | 4.87 | 22 |
 | 28 | [SnowRunner](games/s/snowrunner.md) | 17,108 | 4.75 | 152 |
@@ -54,7 +54,7 @@
 | 52 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,567 | 4.68 | 277 |
 | 53 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,558 | 4.56 | 543 |
 | 54 | [Control](games/c/control.md) | 9,482 | 4.61 | 425 |
-| 55 | [Remnant II®](games/r/remnant_2.md) | 9,443 | 4.70 | 225 |
+| 55 | [Remnant II®](games/r/remnant_2.md) | 9,450 | 4.70 | 225 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,374 | 4.68 | 277 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,271 | 4.74 | 168 |
 | 58 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,626 | 4.84 | 48 |
@@ -82,8 +82,8 @@
 | 80 | [Prey](games/p/prey.md) | 6,028 | 4.63 | 383 |
 | 81 | [Chivalry 2](games/c/chivalry_2.md) | 5,730 | 4.59 | 470 |
 | 82 | [SMITE](games/s/smite.md) | 5,702 | 4.41 | 802 |
-| 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,605 | 4.57 | 516 |
-| 84 | [God of War](games/g/god_of_war.md) | 5,603 | 4.87 | 22 |
+| 83 | [God of War](games/g/god_of_war.md) | 5,607 | 4.87 | 22 |
+| 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,605 | 4.57 | 516 |
 | 85 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,384 | 4.62 | 401 |
 | 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,348 | 4.37 | 861 |
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,151 | 4.00 | 1,120 |
@@ -100,7 +100,7 @@
 | 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,073 | 4.48 | 685 |
 | 99 | [Hades](games/h/hades.md) | 3,803 | 4.92 | 5 |
 | 100 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,784 | 4.57 | 516 |
-| 101 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,776 | 4.66 | 323 |
+| 101 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,778 | 4.66 | 323 |
 | 102 | [Gloomhaven](games/g/gloomhaven.md) | 3,682 | 4.47 | 699 |
 | 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,596 | 4.57 | 516 |
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,578 | 4.76 | 143 |
@@ -170,7 +170,7 @@
 | 168 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,098 | 4.54 | 575 |
 | 169 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,089 | 4.56 | 543 |
 | 170 | [Riders Republic](games/r/riders_republic.md) | 1,086 | 4.75 | 152 |
-| 171 | [Brawlhalla](games/b/brawlhalla.md) | 1,079 | 4.59 | 470 |
+| 171 | [Brawlhalla](games/b/brawlhalla.md) | 1,083 | 4.59 | 470 |
 | 172 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,077 | 4.51 | 626 |
 | 173 | [Ooblets](games/o/ooblets.md) | 1,059 | 4.88 | 17 |
 | 174 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,051 | 4.24 | 996 |
@@ -308,8 +308,8 @@
 | 305 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 242 | 4.58 | 491 |
 | 307 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 241 | 4.84 | 48 |
 | 308 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 240 | 4.65 | 346 |
-| 309 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 238 | 4.58 | 491 |
-| 309 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 238 | 4.82 | 72 |
+| 309 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 239 | 4.82 | 72 |
+| 310 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 238 | 4.58 | 491 |
 | 311 | [Crying Suns](games/c/crying_suns.md) | 235 | 4.51 | 626 |
 | 312 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 234 | 4.84 | 48 |
 | 313 | [Sunless Sea](games/s/sunless_sea.md) | 232 | 4.59 | 470 |
