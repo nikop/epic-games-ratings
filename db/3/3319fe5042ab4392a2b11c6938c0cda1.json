@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_Rating": 969,
   "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 497,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -353,10 +353,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 136,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-05-11T22:58:21.1776373+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 139,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 136,
+  "NumberOfAwards": 139,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -370,7 +376,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1590,9 +1596,9 @@
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenRating": "2024-04-06T03:58:46.1197856+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged": "2024-05-11T21:00:39.4382282+00:00",
+  "LastChanged": "2024-05-11T22:58:21.1776371+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:56.8810303+00:00",
   "LastUpdate_AppInfo": "2024-05-09T02:57:04.712326+00:00",
-  "LastUpdate_Ratings": "2024-05-11T21:00:39.4382287+00:00",
+  "LastUpdate_Ratings": "2024-05-11T22:58:21.1776376+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:56.8810547+00:00"
 }
