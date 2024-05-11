@@ -4,7 +4,7 @@
   "ProductSlug": "salt-and-sanctuary",
   "Ranking_Rating": 401,
   "Ranking_Popularity": 279,
-  "Ranking_PopularitySum": 231,
+  "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 53,
@@ -3352,10 +3352,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2118,
       "NumberOfAwardsMax": 312
+    },
+    {
+      "Time": "2024-05-11T01:43:04.7582755+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2119,
+      "NumberOfAwardsMax": 312
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2118,
+  "NumberOfAwards": 2119,
   "NumberOfAwardsMax": 312,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3405,7 +3411,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 267
+      "Count": 268
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -35097,9 +35103,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2024-05-10T14:57:43.0318065+00:00",
+  "LastChanged": "2024-05-11T01:43:04.7582753+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:26.287513+00:00",
   "LastUpdate_AppInfo": "2024-05-05T16:57:12.5186271+00:00",
-  "LastUpdate_Ratings": "2024-05-10T22:59:49.4288065+00:00",
+  "LastUpdate_Ratings": "2024-05-11T01:43:04.7582759+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:26.287657+00:00"
 }
