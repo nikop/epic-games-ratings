@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 211,
   "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 473,
+  "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -430,10 +430,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 182,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-05-12T06:57:28.2152095+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 183,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 182,
+  "NumberOfAwards": 183,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -477,7 +483,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -498,8 +504,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-05-12T01:48:59.4471176+00:00",
+  "LastChanged": "2024-05-12T06:57:28.2152094+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:37.7972214+00:00",
-  "LastUpdate_Ratings": "2024-05-12T04:59:11.3869335+00:00",
+  "LastUpdate_Ratings": "2024-05-12T06:57:28.2152097+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:12.1786525+00:00"
 }
