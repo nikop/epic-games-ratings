@@ -4,7 +4,7 @@
   "ProductSlug": "dishonored-definitive-edition",
   "Ranking_Rating": 152,
   "Ranking_Popularity": 166,
-  "Ranking_PopularitySum": 259,
+  "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -3640,10 +3640,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1624,
       "NumberOfAwardsMax": 1101
+    },
+    {
+      "Time": "2024-05-12T19:57:07.9743241+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1625,
+      "NumberOfAwardsMax": 1101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1624,
+  "NumberOfAwards": 1625,
   "NumberOfAwardsMax": 1101,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3717,7 +3723,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 36
+      "Count": 37
     }
   ],
   "EOS_Progressed": 0,
@@ -3731,8 +3737,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2024-05-12T07:57:16.9836738+00:00",
+  "LastChanged": "2024-05-12T19:57:07.9743235+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:01.6458296+00:00",
-  "LastUpdate_Ratings": "2024-05-12T18:00:26.9353677+00:00",
+  "LastUpdate_Ratings": "2024-05-12T19:57:07.9743244+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:37.1197157+00:00"
 }
