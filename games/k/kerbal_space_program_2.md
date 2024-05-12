@@ -3,12 +3,12 @@
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
 Rating: 4.32 (Ranked 915)  
 ## Awards
-Max (Relaxing): 96  (Ranked 424)  
-Sum: 638 (Ranked 345)  
-Diff (max vs sum): 79  
+Max (Educational): 97  (Ranked 423)  
+Sum: 639 (Ranked 345)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 96 |
+| This game is Educational | 97 |
 | This game is Relaxing | 96 |
 | This game has Amazing Characters | 83 |
 | This game is Highly Recommended | 82 |
@@ -261,3 +261,4 @@ Diff (max vs sum): 79
 | 2024-05-09 | 4.32 | 96 | 636 |
 | 2024-05-10 | 4.32 | 96 | 637 |
 | 2024-05-11 | 4.32 | 96 | 638 |
+| 2024-05-12 | 4.32 | 97 | 639 |

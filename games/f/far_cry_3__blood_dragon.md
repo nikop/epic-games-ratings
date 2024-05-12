@@ -1,7 +1,7 @@
 # Far Cry 3: Blood Dragon
 [Store](https://store.epicgames.com/en-US/p/far-cry-3-blood-dragon)  
 [View Rawdata](../../db/f/far_cry_3__blood_dragon.json)  
-Rating: 4.65 (Ranked 345)  
+Rating: 4.64 (Ranked 365)  
 Number of Ratings: 54  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -60,3 +60,4 @@ Number of Ratings: 54  (23.09.2022)
 | 2024-03-12 | 4.65 | - | 0 | 0 |
 | 2024-03-17 | 4.64 | - | 0 | 0 |
 | 2024-04-23 | 4.65 | - | 0 | 0 |
+| 2024-05-12 | 4.64 | - | 0 | 0 |
