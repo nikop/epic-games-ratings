@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/sackboy™__a_big_adventure.json)  
 Rating: 4.76 (Ranked 143)  
 ## Awards
-Max (Great for Quick Sessions): 29  (Ranked 581)  
+Max (Great for Quick Sessions): 29  (Ranked 580)  
 Sum: 99 (Ranked 518)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 29 |
