@@ -9399,12 +9399,18 @@
       "Rating": 4.74,
       "NumberOfAwards": 8219,
       "NumberOfAwardsMax": 949
+    },
+    {
+      "Time": "2024-05-12T13:58:44.6353687+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 8221,
+      "NumberOfAwardsMax": 949
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8219,
+  "NumberOfAwards": 8221,
   "NumberOfAwardsMax": 949,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -9446,7 +9452,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 947
+      "Count": 949
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9492,9 +9498,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-05-12T12:59:54.1978405+00:00",
+  "LastChanged": "2024-05-12T13:58:44.6353685+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:36.2994809+00:00",
   "LastUpdate_AppInfo": "2024-05-05T15:57:12.6018209+00:00",
-  "LastUpdate_Ratings": "2024-05-12T12:59:54.197841+00:00",
+  "LastUpdate_Ratings": "2024-05-12T13:58:44.6353691+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:36.2994841+00:00"
 }

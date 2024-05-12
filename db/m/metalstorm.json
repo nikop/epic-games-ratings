@@ -4,7 +4,7 @@
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 766,
   "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 388,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1512,10 +1512,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 410,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-05-12T13:57:47.1326283+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 411,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 410,
+  "NumberOfAwards": 411,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1541,7 +1547,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1779,9 +1785,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-05-12T08:59:13.367245+00:00",
+  "LastChanged": "2024-05-12T13:57:47.1326281+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:32.1238768+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:57:07.1201272+00:00",
-  "LastUpdate_Ratings": "2024-05-12T11:59:31.0627673+00:00",
+  "LastUpdate_Ratings": "2024-05-12T13:57:47.1326286+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:32.1238896+00:00"
 }
