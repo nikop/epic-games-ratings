@@ -2,7 +2,7 @@
   "ID": "b90be973f6e74975ac1a6ff15dbfd0b3",
   "Name": "Fallout Tactics: Brotherhood of Steel",
   "ProductSlug": "fallout-tactics-brotherhood-of-steel",
-  "Ranking_Rating": 712,
+  "Ranking_Rating": 698,
   "Ranking_Popularity": 365,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.47,
   "RatingHistory": [
     {
       "Time": "2022-12-23T20:57:41.5501636+00:00",
@@ -905,10 +905,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 332,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2024-05-12T20:57:44.6936643+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 333,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 332,
+  "NumberOfAwards": 333,
   "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -958,7 +964,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 29
     }
   ],
   "EOS_Progressed": 0,
@@ -973,8 +979,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:01:33.5009817+00:00",
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
-  "LastChanged": "2024-05-11T23:57:31.7778181+00:00",
+  "LastChanged": "2024-05-12T20:57:44.6936641+00:00",
   "LastUpdate_AppInfo": "2024-05-05T21:58:18.0088326+00:00",
-  "LastUpdate_Ratings": "2024-05-12T18:59:16.63894+00:00",
+  "LastUpdate_Ratings": "2024-05-12T20:57:44.6936645+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:28.2839386+00:00"
 }
