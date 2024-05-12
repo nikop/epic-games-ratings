@@ -2,9 +2,9 @@
   "ID": "c986e75258a146fba03a920dba852ca9",
   "Name": "Cat Quest",
   "ProductSlug": "cat-quest-8373e0",
-  "Ranking_Rating": 345,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 419,
+  "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 53,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-12-29T10:57:23.2583362+00:00",
@@ -537,6 +537,12 @@
     {
       "Time": "2024-05-11T21:57:53.6704809+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 313,
+      "NumberOfAwardsMax": 313
+    },
+    {
+      "Time": "2024-05-12T21:58:02.3335831+00:00",
+      "Rating": 4.66,
       "NumberOfAwards": 313,
       "NumberOfAwardsMax": 313
     }
@@ -4222,9 +4228,9 @@
   "FirstSeen": "2023-12-28T18:57:14.4261716+00:00",
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
-  "LastChanged": "2024-05-11T21:57:53.6704807+00:00",
+  "LastChanged": "2024-05-12T21:58:02.333583+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:59.264163+00:00",
   "LastUpdate_AppInfo": "2024-05-10T04:57:13.0847504+00:00",
-  "LastUpdate_Ratings": "2024-05-12T19:59:45.4108876+00:00",
+  "LastUpdate_Ratings": "2024-05-12T21:58:02.3335834+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:59.2641904+00:00"
 }

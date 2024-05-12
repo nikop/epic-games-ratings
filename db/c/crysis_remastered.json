@@ -4,7 +4,7 @@
   "ProductSlug": "crysis-remastered",
   "Ranking_Rating": 765,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -993,6 +993,6 @@
   "FirstSeen": "2022-07-22T20:33:04.7204895+00:00",
   "LastChanged": "2024-04-29T04:59:07.2413947+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:28.0363774+00:00",
-  "LastUpdate_Ratings": "2024-05-12T19:59:49.8376405+00:00",
+  "LastUpdate_Ratings": "2024-05-12T21:58:07.0553047+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:10.4570358+00:00"
 }
