@@ -3,12 +3,12 @@
 [View Rawdata](../../db/m/murder_by_numbers.json)  
 Rating: 4.28 (Ranked 953)  
 ## Awards
-Max (Diverse Characters): 25  (Ranked 605)  
-Sum: 176 (Ranked 478)  
-Diff (max vs sum): 127  
+Max (Diverse Characters): 26  (Ranked 600)  
+Sum: 177 (Ranked 478)  
+Diff (max vs sum): 122  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 25 |
+| This game has Diverse Characters | 26 |
 | This game is Great for Quick Sessions | 24 |
 | This game is Extremely Fun | 23 |
 | This game has Playful Visuals | 22 |
@@ -89,3 +89,4 @@ Diff (max vs sum): 127
 | 2024-05-07 | 4.28 | 25 | 174 |
 | 2024-05-08 | 4.28 | 25 | 175 |
 | 2024-05-10 | 4.28 | 25 | 176 |
+| 2024-05-12 | 4.28 | 26 | 177 |

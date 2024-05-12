@@ -3,8 +3,8 @@
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
   "Ranking_Rating": 937,
-  "Ranking_Popularity": 364,
-  "Ranking_PopularitySum": 360,
+  "Ranking_Popularity": 362,
+  "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 53,
@@ -1997,11 +1997,17 @@
       "Rating": 4.29,
       "NumberOfAwards": 567,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2024-05-12T08:57:39.2745459+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 572,
+      "NumberOfAwardsMax": 152
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 567,
-  "NumberOfAwardsMax": 150,
+  "NumberOfAwards": 572,
+  "NumberOfAwardsMax": 152,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -2014,7 +2020,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 150
+      "Count": 152
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2050,7 +2056,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game has Competitive Players",
@@ -2074,7 +2080,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2095,8 +2101,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2024-05-11T21:59:06.5406918+00:00",
+  "LastChanged": "2024-05-12T08:57:39.2745458+00:00",
   "LastUpdate_AppInfo": "2024-05-09T19:57:01.1524514+00:00",
-  "LastUpdate_Ratings": "2024-05-12T07:00:01.3739525+00:00",
+  "LastUpdate_Ratings": "2024-05-12T08:57:39.2745463+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:30.5382367+00:00"
 }
