@@ -2,7 +2,7 @@
   "ID": "a3100205e194489088c7625c8c5c1596",
   "Name": "The Forest Quartet",
   "ProductSlug": "forest-quartet-5d03e3",
-  "Ranking_Rating": 1090,
+  "Ranking_Rating": 1082,
   "Ranking_Popularity": 639,
   "Ranking_PopularitySum": 639,
   "Ranking_EOS_Progress": 110,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.1,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2023-09-27T18:00:22.509375+00:00",
@@ -243,6 +243,12 @@
     {
       "Time": "2024-05-07T18:00:49.9982903+00:00",
       "Rating": 4.1,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-12T18:01:03.1448865+00:00",
+      "Rating": 4.12,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -15501,9 +15507,9 @@
   "FirstSeen": "2023-09-21T18:00:01.3259174+00:00",
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
-  "LastChanged": "2024-05-07T18:00:49.9982901+00:00",
+  "LastChanged": "2024-05-12T18:01:03.1448863+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:17.5938856+00:00",
   "LastUpdate_AppInfo": "2024-05-10T13:01:21.8823834+00:00",
-  "LastUpdate_Ratings": "2024-05-12T16:58:30.6893337+00:00",
+  "LastUpdate_Ratings": "2024-05-12T18:01:03.1448868+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:17.5940172+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.49 (Ranked 667)
 Number of Ratings: 1,100  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 8,598  (Ranked 59)  
-Sum: 11,740 (Ranked 101)  
+Sum: 11,742 (Ranked 101)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -42
 | This game is Highly Recommended | 361 |
 | This game has Quickly Understood Controls | 341 |
 | This game is Extremely Fun | 330 |
-| This game is Relaxing | 326 |
+| This game is Relaxing | 328 |
 | This game has a Creative Community | 215 |
 | This game is Educational | 102 |
 ## Ratings History
@@ -359,4 +359,4 @@ Diff (max vs sum): -42
 | 2024-05-09 | 4.49 | - | 8,555 | 11,675 |
 | 2024-05-10 | 4.49 | - | 8,567 | 11,692 |
 | 2024-05-11 | 4.49 | - | 8,582 | 11,719 |
-| 2024-05-12 | 4.49 | - | 8,598 | 11,740 |
+| 2024-05-12 | 4.49 | - | 8,598 | 11,742 |
