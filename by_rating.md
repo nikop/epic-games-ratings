@@ -19,7 +19,7 @@
 | 17 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 25 | 605 |
 | 17 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,059 | 173 |
 | 17 | [Rain World](games/r/rain_world.md) | 4.88 | 0 | 639 |
-| 17 | [RimWorld](games/r/rimworld.md) | 4.88 | 534 | 233 |
+| 17 | [RimWorld](games/r/rimworld.md) | 4.88 | 534 | 234 |
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 639 |
 | 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,742 | 140 |
 | 22 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 803 | 199 |
@@ -291,7 +291,7 @@
 | 277 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 370,395 | 3 |
 | 277 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.68 | 52 | 505 |
 | 277 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 639 |
-| 277 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 534 | 233 |
+| 277 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 535 | 233 |
 | 277 | [Pikuniku](games/p/pikuniku.md) | 4.68 | 0 | 639 |
 | 277 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.68 | 0 | 639 |
 | 277 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.68 | 0 | 639 |
@@ -424,33 +424,33 @@
 | 401 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 305 | 282 |
 | 401 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.62 | 655 | 217 |
 | 401 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 5,394 | 85 |
+| 401 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.62 | 80 | 445 |
 | 401 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 639 |
-| 426 | [20XX](games/2/20xx.md) | 4.61 | 39 | 536 |
-| 426 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 639 |
-| 426 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 147 | 366 |
-| 426 | [Art of Rally](games/a/art_of_rally_1.md) | 4.61 | 91 | 431 |
-| 426 | [BLACKTAIL](games/b/blacktail.md) | 4.61 | 0 | 639 |
-| 426 | [Control](games/c/control.md) | 4.61 | 9,485 | 54 |
-| 426 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,574 | 13 |
-| 426 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.61 | 202 | 330 |
-| 426 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 158 | 360 |
-| 426 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 65 | 472 |
-| 426 | [IXION](games/i/ixion.md) | 4.61 | 0 | 639 |
-| 426 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.61 | 0 | 639 |
-| 426 | [MudRunner](games/m/mudrunner.md) | 4.61 | 348 | 269 |
-| 426 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 639 |
-| 426 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 639 |
-| 426 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 824 | 197 |
-| 426 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,368 | 46 |
-| 426 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,136 | 163 |
-| 426 | [Supraland](games/s/supraland.md) | 4.61 | 7,864 | 64 |
-| 426 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 603 | 225 |
-| 426 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 80 | 445 |
-| 426 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 418 | 255 |
-| 426 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 427 |
-| 426 | [Warframe](games/w/warframe.md) | 4.61 | 23,774 | 24 |
-| 426 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 856 | 195 |
-| 426 | [Witchfire](games/w/witchfire.md) | 4.61 | 137 | 373 |
+| 427 | [20XX](games/2/20xx.md) | 4.61 | 39 | 536 |
+| 427 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 639 |
+| 427 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 147 | 366 |
+| 427 | [Art of Rally](games/a/art_of_rally_1.md) | 4.61 | 91 | 431 |
+| 427 | [BLACKTAIL](games/b/blacktail.md) | 4.61 | 0 | 639 |
+| 427 | [Control](games/c/control.md) | 4.61 | 9,485 | 54 |
+| 427 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,574 | 13 |
+| 427 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.61 | 202 | 330 |
+| 427 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 158 | 360 |
+| 427 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 65 | 472 |
+| 427 | [IXION](games/i/ixion.md) | 4.61 | 0 | 639 |
+| 427 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.61 | 0 | 639 |
+| 427 | [MudRunner](games/m/mudrunner.md) | 4.61 | 348 | 269 |
+| 427 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 639 |
+| 427 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 639 |
+| 427 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 824 | 197 |
+| 427 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,368 | 46 |
+| 427 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,136 | 163 |
+| 427 | [Supraland](games/s/supraland.md) | 4.61 | 7,864 | 64 |
+| 427 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 603 | 225 |
+| 427 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 418 | 255 |
+| 427 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 427 |
+| 427 | [Warframe](games/w/warframe.md) | 4.61 | 23,774 | 24 |
+| 427 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 856 | 195 |
+| 427 | [Witchfire](games/w/witchfire.md) | 4.61 | 137 | 373 |
 | 452 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 929 | 187 |
 | 452 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 144 | 369 |
 | 452 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,820 | 25 |
