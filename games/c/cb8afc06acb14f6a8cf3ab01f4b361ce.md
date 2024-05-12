@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.22 (Ranked 1,011)  
+Rating: 4.21 (Ranked 1,019)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -177,12 +177,12 @@ Completed: 10 (0.00%) (Ranked 455)
 | 2024-03-21 | 366,821 | 10 |
 | 2024-04-10 | 371,874 | 10 |
 ## Awards
-Max (Great Boss Battles): 103  (Ranked 410)  
-Sum: 103 (Ranked 515)  
-Diff (max vs sum): -105  
+Max (Great Boss Battles): 104  (Ranked 408)  
+Sum: 104 (Ranked 515)  
+Diff (max vs sum): -107  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 103 |
+| This game has Great Boss Battles | 104 |
 | This game has Inclusive Character Customization | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -268,3 +268,4 @@ Diff (max vs sum): -105
 | 2024-04-28 | 4.21 | 102 | 102 |
 | 2024-04-30 | 4.22 | 102 | 102 |
 | 2024-05-10 | 4.22 | 103 | 103 |
+| 2024-05-12 | 4.21 | 104 | 104 |
