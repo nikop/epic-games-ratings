@@ -2,7 +2,7 @@
   "ID": "87de7c0aad7944899fb6d2b05e13b108",
   "Name": "LISA: The Joyful - Definitive Edition",
   "ProductSlug": "lisa-the-joyful-219c24",
-  "Ranking_Rating": 6,
+  "Ranking_Rating": 4,
   "Ranking_Popularity": 639,
   "Ranking_PopularitySum": 639,
   "Ranking_EOS_Progress": 828,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.92,
+  "Rating": 4.93,
   "RatingHistory": [
     {
       "Time": "2024-05-08T18:58:12.4792206+00:00",
@@ -40,6 +40,12 @@
     {
       "Time": "2024-05-10T18:58:30.0593611+00:00",
       "Rating": 4.92,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-12T18:57:59.172781+00:00",
+      "Rating": 4.93,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -156,9 +162,9 @@
   "FirstSeen": "2024-04-25T18:57:23.751166+00:00",
   "FirstSeenRating": "2024-05-08T18:58:12.4792204+00:00",
   "FirstSeenAchievements": "2024-04-08T15:01:32.5421278+00:00",
-  "LastChanged": "2024-05-10T18:58:30.0593608+00:00",
+  "LastChanged": "2024-05-12T18:57:59.1727808+00:00",
   "LastChanged_Achievements": "2024-04-10T06:07:10.9834446+00:00",
   "LastUpdate_AppInfo": "2024-05-10T21:56:51.5117785+00:00",
-  "LastUpdate_Ratings": "2024-05-12T17:00:58.7515245+00:00",
+  "LastUpdate_Ratings": "2024-05-12T18:57:59.1727812+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:10.9834547+00:00"
 }
