@@ -140,17 +140,17 @@
 | 124 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 639 |
 | 124 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,020 | 176 |
 | 124 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 639 |
+| 124 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.77 | 0 | 639 |
 | 124 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 173 | 354 |
 | 124 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 639 |
-| 143 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,675 | 26 |
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,580 | 104 |
-| 143 | [Journey](games/j/journey.md) | 4.76 | 0 | 639 |
-| 143 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,527 | 116 |
-| 143 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,837 | 137 |
-| 143 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 29 | 581 |
-| 143 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.76 | 0 | 639 |
-| 143 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 639 |
-| 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 220 | 319 |
+| 144 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,686 | 26 |
+| 144 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,580 | 104 |
+| 144 | [Journey](games/j/journey.md) | 4.76 | 0 | 639 |
+| 144 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,527 | 116 |
+| 144 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,837 | 137 |
+| 144 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 29 | 581 |
+| 144 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 639 |
+| 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 220 | 319 |
 | 152 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.75 | 0 | 639 |
 | 152 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,456 | 61 |
 | 152 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.75 | 21 | 630 |
@@ -276,7 +276,7 @@
 | 255 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,161 | 162 |
 | 255 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 639 |
 | 255 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 639 |
-| 277 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,785 | 90 |
+| 277 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,791 | 90 |
 | 277 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 796 | 200 |
 | 277 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 0 | 639 |
 | 277 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 74 | 459 |
@@ -581,7 +581,7 @@
 | 576 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 639 |
 | 576 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,867 | 135 |
 | 576 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 4.54 | 0 | 639 |
-| 576 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 14,511 | 34 |
+| 576 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 14,557 | 34 |
 | 576 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 536 |
 | 576 | [Everything](games/e/everything.md) | 4.54 | 0 | 639 |
 | 576 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.54 | 129 | 384 |
@@ -962,7 +962,7 @@
 | 953 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.28 | 26 | 600 |
 | 953 | [Nightingale](games/n/nightingale.md) | 4.28 | 69 | 466 |
 | 953 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 639 |
-| 953 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,235 | 75 |
+| 953 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,238 | 75 |
 | 953 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 131 | 379 |
 | 953 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 639 |
 | 953 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 354 |
@@ -1008,16 +1008,16 @@
 | 1,004 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.23 | 93 | 428 |
 | 1,004 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 179 |
 | 1,004 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.23 | 40 | 533 |
+| 1,004 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 258 | 300 |
 | 1,004 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.23 | 122 | 392 |
 | 1,004 | [The Fall](games/t/the_fall.md) | 4.23 | 0 | 639 |
-| 1,011 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 639 |
-| 1,011 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 208 | 327 |
-| 1,011 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 639 |
-| 1,011 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 924 | 190 |
-| 1,011 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 0 | 639 |
-| 1,011 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 258 | 300 |
-| 1,011 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 174 | 352 |
-| 1,011 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.22 | 0 | 639 |
+| 1,012 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 639 |
+| 1,012 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 208 | 327 |
+| 1,012 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 639 |
+| 1,012 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 924 | 190 |
+| 1,012 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 0 | 639 |
+| 1,012 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 174 | 352 |
+| 1,012 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.22 | 0 | 639 |
 | 1,019 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 130 | 380 |
 | 1,019 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 566 |
 | 1,019 | [Gone Home](games/g/gone_home.md) | 4.21 | 0 | 639 |
@@ -1170,8 +1170,8 @@
 | 1,167 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 0 | 639 |
 | 1,169 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 3.71 | 0 | 639 |
 | 1,170 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 639 |
-| 1,171 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.66 | 70 | 464 |
-| 1,172 | [Redfall](games/r/redfall.md) | 3.65 | 41 | 529 |
+| 1,171 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.65 | 70 | 464 |
+| 1,171 | [Redfall](games/r/redfall.md) | 3.65 | 41 | 529 |
 | 1,173 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.59 | 0 | 639 |
 | 1,174 | [Adios](games/a/adios.md) | 3.53 | 0 | 639 |
 | 1,175 | [Survive on Raft](games/s/survive_on_raft.md) | 3.50 | 0 | 639 |
