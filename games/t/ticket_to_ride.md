@@ -1,7 +1,7 @@
 # Ticket To Ride: Classic Edition
 [Store](https://store.epicgames.com/en-US/p/ticket-to-ride)  
 [View Rawdata](../../db/t/ticket_to_ride.json)  
-Rating: 4.61 (Ranked 426)  
+Rating: 4.62 (Ranked 401)  
 Number of Ratings: 167  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 80  (Ranked 445)  
@@ -147,3 +147,4 @@ Diff (max vs sum): 61
 | 2024-04-11 | 4.61 | - | 80 | 423 |
 | 2024-04-15 | 4.61 | - | 80 | 424 |
 | 2024-04-23 | 4.61 | - | 80 | 425 |
+| 2024-05-12 | 4.62 | - | 80 | 425 |
