@@ -2,8 +2,8 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 802,
-  "Ranking_Popularity": 468,
+  "Ranking_Rating": 786,
+  "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -965,11 +965,17 @@
       "Rating": 4.41,
       "NumberOfAwards": 525,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-05-12T01:49:29.9328038+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 532,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 525,
-  "NumberOfAwardsMax": 67,
+  "NumberOfAwards": 532,
+  "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -994,7 +1000,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 67
+      "Count": 71
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1030,7 +1036,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 38
+      "Count": 41
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1063,8 +1069,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-05-11T23:00:46.3704244+00:00",
+  "LastChanged": "2024-05-12T01:49:29.9328036+00:00",
   "LastUpdate_AppInfo": "2024-05-05T12:58:56.454325+00:00",
-  "LastUpdate_Ratings": "2024-05-11T23:00:46.370425+00:00",
+  "LastUpdate_Ratings": "2024-05-12T01:49:29.932804+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:12.9030781+00:00"
 }
