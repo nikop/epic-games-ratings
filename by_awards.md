@@ -10,7 +10,7 @@
 | 8 | [Fall Guys](games/f/fall_guys.md) | 159,578 | 4.50 | 647 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 133,202 | 4.69 | 254 |
 | 10 | [VALORANT](games/v/valorant.md) | 116,331 | 4.50 | 647 |
-| 11 | [Destiny 2](games/d/destiny_2.md) | 75,574 | 4.44 | 743 |
+| 11 | [Destiny 2](games/d/destiny_2.md) | 75,695 | 4.44 | 743 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 69,010 | 4.58 | 491 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 60,574 | 4.61 | 426 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,542 | 4.74 | 167 |
@@ -337,8 +337,8 @@
 | 334 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 197 | 4.62 | 401 |
 | 334 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 197 | 4.74 | 167 |
 | 334 | [Timberborn](games/t/timberborn.md) | 197 | 4.74 | 167 |
-| 338 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 193 | 4.66 | 323 |
-| 339 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 191 | 4.62 | 401 |
+| 338 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 194 | 4.62 | 401 |
+| 339 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 193 | 4.66 | 323 |
 | 340 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 184 | 4.08 | 1,100 |
 | 341 | [Mothergunship](games/m/mothergunship.md) | 183 | 4.38 | 846 |
 | 342 | [Encased](games/e/encased.md) | 182 | 4.35 | 882 |
@@ -617,24 +617,24 @@
 | 615 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 23 | 4.32 | 915 |
 | 615 | [Griftlands](games/g/griftlands.md) | 23 | 4.79 | 105 |
 | 615 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 23 | 4.49 | 667 |
+| 615 | [The Machines Arena](games/t/the_machines_arena.md) | 23 | 4.73 | 186 |
 | 615 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 23 | 4.82 | 72 |
-| 619 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 22 | 4.47 | 698 |
-| 619 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 915 |
-| 619 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 557 |
-| 619 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 989 |
-| 619 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.14 | 1,072 |
-| 619 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.28 | 954 |
-| 619 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,033 |
-| 619 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 491 |
-| 619 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 698 |
-| 619 | [Tails of Iron](games/t/tails_of_iron.md) | 22 | 4.59 | 470 |
-| 629 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 384 |
-| 629 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 21 | 4.42 | 786 |
-| 629 | [Astro Duel 2](games/a/astro_duel_2.md) | 21 | 4.74 | 167 |
-| 629 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 21 | 5.00 | 1 |
-| 629 | [Figment](games/f/figment.md) | 21 | 4.48 | 685 |
-| 629 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 21 | 4.64 | 366 |
-| 629 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 21 | 4.71 | 211 |
-| 636 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 20 | 4.37 | 861 |
-| 636 | [The Machines Arena](games/t/the_machines_arena.md) | 20 | 4.73 | 186 |
-| 636 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 20 | 4.68 | 277 |
+| 620 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 22 | 4.47 | 698 |
+| 620 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 915 |
+| 620 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 557 |
+| 620 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 989 |
+| 620 | [Cursed to Golf](games/c/cursed_to_golf.md) | 22 | 4.14 | 1,072 |
+| 620 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.28 | 954 |
+| 620 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,033 |
+| 620 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 491 |
+| 620 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 698 |
+| 620 | [Tails of Iron](games/t/tails_of_iron.md) | 22 | 4.59 | 470 |
+| 630 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 384 |
+| 630 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 21 | 4.42 | 786 |
+| 630 | [Astro Duel 2](games/a/astro_duel_2.md) | 21 | 4.74 | 167 |
+| 630 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 21 | 5.00 | 1 |
+| 630 | [Figment](games/f/figment.md) | 21 | 4.48 | 685 |
+| 630 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 21 | 4.64 | 366 |
+| 630 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 21 | 4.71 | 211 |
+| 637 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 20 | 4.37 | 861 |
+| 637 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 20 | 4.68 | 277 |

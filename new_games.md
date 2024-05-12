@@ -92,7 +92,7 @@
 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 2024-04-23 | - |  | - | 0 |
 | [Tales of Kenzera™: ZAU](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | - |  | - | 0 |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | 0 |
-| [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.73 | 20 |
+| [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.73 | 23 |
 | [Necrosmith 2](games/e/e153609a322d42e18ee587bb862022fc.md) | 2024-04-23 | - |  | - | 0 |
 | [Lunar Lander Beyond](games/6/62604a9708a14eed8b10b31ebd2056d7.md) | 2024-04-23 | 26 (1,000 XP) | 2 | - | 0 |
 | [Sweet Transit](games/a/a9621f7429a445a08d09bfa964a7c31f.md) | 2024-04-22 | - |  | - | 0 |
