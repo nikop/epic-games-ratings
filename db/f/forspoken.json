@@ -3,7 +3,7 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 1065,
-  "Ranking_Popularity": 476,
+  "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 433,
@@ -833,18 +833,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 98,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-05-13T21:58:37.9822263+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 99,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98,
-  "NumberOfAwardsMax": 64,
+  "NumberOfAwards": 99,
+  "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -20675,9 +20681,9 @@
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-05-03T09:57:18.8389813+00:00",
+  "LastChanged": "2024-05-13T21:58:37.9822261+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:08.8066083+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:15.9174662+00:00",
-  "LastUpdate_Ratings": "2024-05-13T20:00:11.3914818+00:00",
+  "LastUpdate_Ratings": "2024-05-13T21:58:37.9822267+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:08.8067102+00:00"
 }
