@@ -3,7 +3,7 @@
   "Name": "God of War",
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 22,
-  "Ranking_Popularity": 84,
+  "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -7329,18 +7329,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 10607,
       "NumberOfAwardsMax": 5614
+    },
+    {
+      "Time": "2024-05-13T18:58:37.9798666+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 10611,
+      "NumberOfAwardsMax": 5616
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10607,
-  "NumberOfAwardsMax": 5614,
+  "NumberOfAwards": 10611,
+  "NumberOfAwardsMax": 5616,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5614
+      "Count": 5616
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -7358,7 +7364,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7382,7 +7388,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game is Educational",
@@ -7438,8 +7444,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-05-13T15:59:30.1394639+00:00",
+  "LastChanged": "2024-05-13T18:58:37.9798664+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:58.5189743+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:01:52.3843681+00:00",
+  "LastUpdate_Ratings": "2024-05-13T18:58:37.9798671+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:39.3280089+00:00"
 }

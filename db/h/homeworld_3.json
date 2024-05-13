@@ -13,10 +13,14 @@
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -35,9 +39,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2024-05-13T19:00:18.8409301+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:24.1566752+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:27.8232702+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:54.1143329+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:58:45.8832286+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:00:18.8409334+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:27.8232735+00:00"
 }
