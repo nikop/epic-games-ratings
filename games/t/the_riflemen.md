@@ -21,7 +21,7 @@ Rating: 4.38 (Ranked 846)
 | Sword Master | 0.10% | ~121 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 120,820 (Ranked 109)  
-Completed: 11,761 (9.73%) (Ranked 48)  
+Completed: 11,761 (9.73%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

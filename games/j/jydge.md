@@ -20,8 +20,8 @@
 | Lawful Not Awful | 0.00% | ~0 |
 | Special Specialist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 739)  
-Completed: 0 (0.00%) (Ranked 455)  
+Progressed: 18 (Ranked 741)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human - Reloaded Edition",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 492,
+  "Ranking_Rating": 493,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 35,
   "Ranking_EOS_Progress": 19,
-  "Ranking_EOS_Completed": 431,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Completed": 433,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-02-04T00:00:00+00:00",
     "PcReleaseDate": "2022-02-04T00:00:00+00:00",
@@ -19952,18 +19952,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 48985,
       "NumberOfAwardsMax": 16495
+    },
+    {
+      "Time": "2024-05-13T19:58:29.3158042+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 49004,
+      "NumberOfAwardsMax": 16510
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48985,
-  "NumberOfAwardsMax": 16495,
+  "NumberOfAwards": 49004,
+  "NumberOfAwardsMax": 16510,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 16495
+      "Count": 16510
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -20029,7 +20035,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 2065
+      "Count": 2069
     }
   ],
   "EOS_Progressed": 1052209,
@@ -53124,9 +53130,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2024-05-13T16:59:10.5828552+00:00",
+  "LastChanged": "2024-05-13T19:58:29.315804+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:55.2495205+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:23.8870253+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:15.141668+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:29.3158047+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:55.2496894+00:00"
 }

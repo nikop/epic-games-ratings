@@ -37,7 +37,7 @@ Number of Ratings: 94  (23.09.2022)
 | Expert Collector | 1.00% | ~526 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52,575 (Ranked 143)  
-Completed: 315 (0.60%) (Ranked 243)  
+Completed: 315 (0.60%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

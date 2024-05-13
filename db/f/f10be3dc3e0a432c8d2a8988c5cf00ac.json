@@ -2,10 +2,10 @@
   "ID": "f10be3dc3e0a432c8d2a8988c5cf00ac",
   "Name": "Infantry Assault: War 3D FPS",
   "ProductSlug": "infantry-assault-3d-c21e9e",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-09-08T07:00:00+00:00",
     "PcReleaseDate": "2023-09-08T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-17T15:04:17.3280694+00:00",
   "LastUpdate_AppInfo": "2024-05-08T02:56:56.1390486+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:06.5405027+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:52.4557515+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:35.6516791+00:00"
 }

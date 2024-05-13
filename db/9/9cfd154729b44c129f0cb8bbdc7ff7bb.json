@@ -2,10 +2,10 @@
   "ID": "9cfd154729b44c129f0cb8bbdc7ff7bb",
   "Name": "VIDEOVERSE",
   "ProductSlug": "videoverse-3e126a",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-04-19T10:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-09T09:57:04.4061202+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:54.1559781+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:58:07.0034738+00:00"
 }

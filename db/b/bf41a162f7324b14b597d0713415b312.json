@@ -2,10 +2,10 @@
   "ID": "bf41a162f7324b14b597d0713415b312",
   "Name": "ANONYMOUS HUNTING SIMULATOR",
   "ProductSlug": "anonymous-hunting-simulator-5eac14",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-11-10T10:00:00+00:00",
     "PcReleaseDate": "2023-11-10T10:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-10T04:57:12.5301583+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:56:56.4290057+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:49.0401676+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:29.6639195+00:00"
 }

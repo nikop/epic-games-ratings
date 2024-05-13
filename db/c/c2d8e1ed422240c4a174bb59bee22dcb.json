@@ -2,10 +2,10 @@
   "ID": "c2d8e1ed422240c4a174bb59bee22dcb",
   "Name": "Asurya\u0027s Embers",
   "ProductSlug": "asuryas-embers-6bcdde",
-  "Ranking_EOS_Progress": 865,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 867,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-03-06T18:00:00+00:00",
     "PcReleaseDate": "2024-03-06T18:00:00+00:00",
@@ -94,6 +94,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:19.3268203+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:50.2717946+00:00",
   "LastUpdate_AppInfo": "2024-05-08T07:57:03.596333+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:42.9222158+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:30.7667233+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:50.2718011+00:00"
 }

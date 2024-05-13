@@ -2,10 +2,10 @@
   "ID": "5367b40700174f1b9f4b5cc5ceb3751d",
   "Name": "Outbreak The Fedora Files: What Lydia Knows",
   "ProductSlug": "outbreak-the-fedora-files-what-lydia-knows-6069a4",
-  "Ranking_EOS_Progress": 865,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 867,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-05-03T13:00:00+00:00",
     "PcReleaseDate": "2024-05-03T13:00:00+00:00",
@@ -299,6 +299,6 @@
   "FirstSeenAchievements": "2024-04-10T06:01:54.0829762+00:00",
   "LastChanged_Achievements": "2024-04-10T06:01:54.0829689+00:00",
   "LastUpdate_AppInfo": "2024-05-12T05:57:29.2582087+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:20.5768595+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:34.7189052+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:54.0838907+00:00"
 }

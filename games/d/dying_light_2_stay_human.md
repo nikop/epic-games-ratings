@@ -1,7 +1,7 @@
 # Dying Light 2 Stay Human - Reloaded Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 492)  
+Rating: 4.58 (Ranked 493)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -73,7 +73,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Connoisseur | 0.10% | ~698 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,052,209 (Ranked 19)  
-Completed: 80 (0.01%) (Ranked 431)  
+Completed: 80 (0.01%) (Ranked 433)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -359,12 +359,12 @@ Completed: 80 (0.01%) (Ranked 431)
 | 2024-03-21 | 1,024,375 | 79 |
 | 2024-04-10 | 1,052,209 | 80 |
 ## Awards
-Max (Character Customization): 16,495  (Ranked 30)  
-Sum: 48,985 (Ranked 35)  
+Max (Character Customization): 16,510  (Ranked 30)  
+Sum: 49,004 (Ranked 35)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 16,495 |
+| This game has Inclusive Character Customization | 16,510 |
 | This game has Great Boss Battles | 11,065 |
 | This game is Great for Beginners | 2,967 |
 | This game has Diverse Characters | 2,655 |
@@ -374,7 +374,7 @@ Diff (max vs sum): -5
 | This game is Extremely Fun | 2,256 |
 | This game has Quickly Understood Controls | 2,138 |
 | This game is Relaxing | 2,075 |
-| This game has a Creative Community | 2,065 |
+| This game has a Creative Community | 2,069 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -866,4 +866,4 @@ Diff (max vs sum): -5
 | 2024-05-10 | 4.58 | - | 16,456 | 48,772 |
 | 2024-05-11 | 4.58 | - | 16,476 | 48,844 |
 | 2024-05-12 | 4.58 | - | 16,495 | 48,925 |
-| 2024-05-13 | 4.58 | - | 16,495 | 48,985 |
+| 2024-05-13 | 4.58 | - | 16,510 | 49,004 |

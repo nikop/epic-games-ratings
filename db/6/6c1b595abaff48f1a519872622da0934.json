@@ -2,10 +2,10 @@
   "ID": "6c1b595abaff48f1a519872622da0934",
   "Name": "Ertugrul of Ulukayin",
   "ProductSlug": "ertugrul-of-ulukayin-8bc359",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-08T19:56:56.0905624+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:19.6311452+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:57:31.2034379+00:00"
 }

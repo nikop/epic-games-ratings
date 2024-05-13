@@ -366,7 +366,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Split the Army | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,723 (Ranked 181)  
-Completed: 5 (0.03%) (Ranked 402)  
+Completed: 5 (0.03%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

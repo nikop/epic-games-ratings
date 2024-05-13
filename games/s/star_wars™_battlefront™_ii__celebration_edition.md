@@ -49,7 +49,7 @@
 | The Bomber | 0.30% | ~1,364 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 454,796 (Ranked 53)  
-Completed: 108 (0.02%) (Ranked 413)  
+Completed: 108 (0.02%) (Ranked 416)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

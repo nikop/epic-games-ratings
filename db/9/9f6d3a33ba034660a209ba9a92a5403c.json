@@ -2,10 +2,10 @@
   "ID": "9f6d3a33ba034660a209ba9a92a5403c",
   "Name": "Monster knockout",
   "ProductSlug": "monster-knockout-895118",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-01-03T03:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-10T08:57:20.3809077+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:12.2052203+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:57:23.0110915+00:00"
 }

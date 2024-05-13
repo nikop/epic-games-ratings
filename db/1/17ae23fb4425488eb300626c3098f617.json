@@ -2,10 +2,10 @@
   "ID": "17ae23fb4425488eb300626c3098f617",
   "Name": "1001 Jigsaw Castles And Palaces",
   "ProductSlug": "1001-jigsaw-castles-and-palaces-b256df",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-01-02T21:00:00+00:00",
     "PcReleaseDate": "2019-11-10T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-05T13:01:41.5481925+00:00",
   "LastUpdate_AppInfo": "2024-05-07T14:57:16.4919191+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:16.7451688+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:27.6112987+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:31.7317744+00:00"
 }

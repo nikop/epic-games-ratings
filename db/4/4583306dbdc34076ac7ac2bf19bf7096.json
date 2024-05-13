@@ -2,10 +2,10 @@
   "ID": "4583306dbdc34076ac7ac2bf19bf7096",
   "Name": "Dragon Age: Dreadwolf\u2122",
   "ProductSlug": "dragon-age-dreadwolf",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-07T04:57:20.7707607+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:11.4722342+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:57.2989782+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:41.1639504+00:00"
 }

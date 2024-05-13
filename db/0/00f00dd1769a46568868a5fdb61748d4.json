@@ -2,10 +2,10 @@
   "ID": "00f00dd1769a46568868a5fdb61748d4",
   "Name": "Frightence",
   "ProductSlug": "frightence-46923d",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-06-29T21:00:00+00:00",
     "PcReleaseDate": "2023-06-29T21:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2023-06-23T06:00:18.8591126+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:35.1942689+00:00",
   "LastUpdate_AppInfo": "2024-05-11T05:57:09.2116109+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:46.9703487+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:00.0918283+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:35.1942718+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 451,
-  "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Completed": 8,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -1932,6 +1932,6 @@
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:01.303921+00:00",
   "LastUpdate_AppInfo": "2024-05-11T22:57:08.7194392+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:25.3504984+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:38.602317+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:01.303938+00:00"
 }

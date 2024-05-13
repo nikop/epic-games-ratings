@@ -2,10 +2,10 @@
   "ID": "e278531bc44245d29329e60389bd04ad",
   "Name": "Motorbike Evolution 2024",
   "ProductSlug": "motorbike-evolution-2024-fa40bf",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-03-25T13:00:00+00:00",
     "PcReleaseDate": "2024-03-25T13:00:00+00:00",
@@ -311,6 +311,6 @@
   "FirstSeenAchievements": "2024-01-22T13:11:27.8604808+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:14.0525047+00:00",
   "LastUpdate_AppInfo": "2024-05-06T21:56:55.8973419+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:00.852123+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:52.7857073+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:14.0525271+00:00"
 }

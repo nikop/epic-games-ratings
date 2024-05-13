@@ -3,9 +3,9 @@
   "Name": "Island Idle RPG",
   "ProductSlug": "island-idle-rpg-350c2e",
   "Ranking_EOS_Progress": 650,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-02-07T17:00:00+00:00",
     "PcReleaseDate": "2022-06-27T09:30:00+00:00",
@@ -242,6 +242,6 @@
   "FirstSeenAchievements": "2024-03-21T17:06:16.4116869+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:25.8844328+00:00",
   "LastUpdate_AppInfo": "2024-05-09T01:44:28.8746404+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:23.3434915+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:34.9375525+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:25.884448+00:00"
 }

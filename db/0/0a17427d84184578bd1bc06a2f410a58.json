@@ -2,10 +2,10 @@
   "ID": "0a17427d84184578bd1bc06a2f410a58",
   "Name": "Super Hydorah",
   "ProductSlug": "super-hydorah-56d575",
-  "Ranking_EOS_Progress": 753,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 756,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-09-25T17:00:00+00:00",
     "PcReleaseDate": "2017-09-19T22:00:00+00:00",
@@ -84,9 +84,9 @@
       "ID": "01-secret-astronaut",
       "SetID": "8j9d1h0",
       "Name": "Escaping astronaut",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "02-secret-egg",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2024-01-05T01:47:08.7944252+00:00",
   "FirstSeenAchievements": "2023-09-25T18:03:19.8372728+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:54.8382871+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:21.8954963+00:00",
   "LastUpdate_AppInfo": "2024-05-07T11:57:20.7209761+00:00",
   "LastUpdate_Ratings": "2024-05-13T18:59:31.581369+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:54.8383007+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:21.8955106+00:00"
 }

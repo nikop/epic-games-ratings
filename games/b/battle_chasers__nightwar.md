@@ -55,8 +55,8 @@ Number of Ratings: 32  (23.09.2022)
 | Rare Crafter | 3.00% | ~2 |
 | Risk Taker | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 619)  
-Completed: 1 (1.54%) (Ranked 171)  
+Progressed: 65 (Ranked 620)  
+Completed: 1 (1.54%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

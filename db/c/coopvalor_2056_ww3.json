@@ -2,10 +2,10 @@
   "ID": "abafc2bb624e445e812f67406ad0eabc",
   "Name": "CoopValor 2056: Ukraine WW3",
   "ProductSlug": "coopvalor-2056-ukraine-ww3-718385",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-05-17T12:00:00+00:00",
     "PcReleaseDate": "2023-04-22T10:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenAchievements": "2023-04-27T07:00:05.0177716+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:33.2826896+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:02.1631108+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:05.2338961+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:15.0291558+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:33.282693+00:00"
 }

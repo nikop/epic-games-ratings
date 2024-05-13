@@ -2,10 +2,10 @@
   "ID": "b66a599ae2d043bca00413e67f1cc841",
   "Name": "Dark Journey:The Fate of the Demon King",
   "ProductSlug": "dark-journey-the-fate-of-the-demon-king-4bf628",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-03-09T02:00:00.315+00:00",
     "PcReleaseDate": "2024-02-04T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-29T07:58:40.8555818+00:00",
   "LastUpdate_AppInfo": "2024-05-07T04:57:19.2102632+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:31.9678812+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:45.0043837+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:06.3183553+00:00"
 }

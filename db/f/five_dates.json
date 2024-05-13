@@ -2,10 +2,10 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Completed": 247,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -5205,6 +5205,6 @@
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:23.0839383+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:13.8398926+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:12.86582+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:23.7156215+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:23.0839699+00:00"
 }

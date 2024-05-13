@@ -2,10 +2,10 @@
   "ID": "a3d688525a954efa8afc49bfe5464c80",
   "Name": "Die Again",
   "ProductSlug": "die-again-9d5045",
-  "Ranking_EOS_Progress": 865,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 867,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-04-11T11:00:00+00:00",
     "PcReleaseDate": "2024-04-11T11:00:00+00:00",
@@ -202,6 +202,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:10.9322701+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:44.5864905+00:00",
   "LastUpdate_AppInfo": "2024-05-08T01:26:56.257804+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:02.9458122+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:12.8286177+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:44.5865052+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "d5ee752640ef4cee8b7f5364410ba41f",
   "Name": "The Bridge",
   "ProductSlug": "the-bridge",
-  "Ranking_Rating": 1082,
+  "Ranking_Rating": 1080,
   "Ranking_Popularity": 640,
   "Ranking_PopularitySum": 640,
   "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Completed": 361,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2013-02-22T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:36.1011649+00:00",
@@ -213,6 +213,12 @@
     {
       "Time": "2024-05-08T18:58:31.510961+00:00",
       "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-13T19:59:25.6746154+00:00",
+      "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -414,9 +420,9 @@
   "FirstSeen": "2022-07-22T20:22:48.769788+00:00",
   "FirstSeenRating": "2023-03-31T05:57:36.1011646+00:00",
   "FirstSeenAchievements": "2024-03-21T17:09:26.5019662+00:00",
-  "LastChanged": "2024-05-08T18:58:31.5109608+00:00",
+  "LastChanged": "2024-05-13T19:59:25.6746151+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:10.6175803+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:44.1046947+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:37.1575475+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:25.6746165+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:10.6175932+00:00"
 }

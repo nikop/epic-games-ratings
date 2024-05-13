@@ -56,7 +56,7 @@ Number of Ratings: 780  (23.09.2022)
 | Blood Pact | 0.10% | ~671 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 670,847 (Ranked 32)  
-Completed: 176 (0.03%) (Ranked 402)  
+Completed: 176 (0.03%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

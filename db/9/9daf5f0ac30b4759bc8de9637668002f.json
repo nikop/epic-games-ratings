@@ -2,10 +2,10 @@
   "ID": "9daf5f0ac30b4759bc8de9637668002f",
   "Name": "BattleCore Arena",
   "ProductSlug": "battlecore-arena",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2099-04-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,5 +29,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-07T16:57:00.9454995+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:24.268755+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:13.9349508+00:00"
 }

@@ -34,7 +34,7 @@
 | KOBEEE! | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 377 (Ranked 435)  
-Completed: 11 (2.92%) (Ranked 130)  
+Completed: 11 (2.92%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -249,7 +249,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Sable | 0.10% | ~1,343 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,342,560 (Ranked 13)  
-Completed: 83 (0.01%) (Ranked 431)  
+Completed: 83 (0.01%) (Ranked 433)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

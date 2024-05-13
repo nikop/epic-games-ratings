@@ -2,10 +2,10 @@
   "ID": "008a30c80c99477b8dc42f3f97ab4792",
   "Name": "Kao the Kangaroo - Mystery of the Volcano",
   "ProductSlug": "kao-the-kangaroo-mystery-of-the-volcano-4b433a",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2005-12-02T11:00:00+00:00",
@@ -46,5 +46,5 @@
   "LastChanged": "2023-05-02T07:57:31.6572907+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:58:01.0115975+00:00",
   "LastUpdate_Ratings": "2024-05-13T18:58:42.0571647+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:10.1942509+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:34.2728026+00:00"
 }

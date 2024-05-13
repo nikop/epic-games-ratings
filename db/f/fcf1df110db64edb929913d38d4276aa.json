@@ -2,10 +2,10 @@
   "ID": "fcf1df110db64edb929913d38d4276aa",
   "Name": "Baimason\u0027s Thing Finder Puzzle",
   "ProductSlug": "baimasons-thing-finder-puzzle-0738aa",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-04-05T15:01:39.0830009+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:34.7056995+00:00",
   "LastUpdate_AppInfo": "2024-05-11T05:57:10.1483139+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:27.3707062+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:17.140682+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:34.7057029+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1a0e52b3813344f3a9e82ff7dc7c6c51",
   "Name": "EARLY ACCESS: What Is This Sorcery: Trading Card Game",
   "ProductSlug": "what-is-this-sorcery-trading-card-game-166a41",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-05-31T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-13T04:57:23.1259383+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:19.6604603+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:09.9617072+00:00"
 }

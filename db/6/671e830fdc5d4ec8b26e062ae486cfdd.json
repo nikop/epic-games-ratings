@@ -2,10 +2,10 @@
   "ID": "671e830fdc5d4ec8b26e062ae486cfdd",
   "Name": "Unreal Physics",
   "ProductSlug": "unreal-physics-bdb358",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-03-24T17:00:00+00:00",
     "PcReleaseDate": "2024-03-24T17:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-25T23:59:25.3148265+00:00",
   "LastUpdate_AppInfo": "2024-05-07T07:56:59.7313961+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:02.6408803+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:54.3366053+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:00.8863071+00:00"
 }

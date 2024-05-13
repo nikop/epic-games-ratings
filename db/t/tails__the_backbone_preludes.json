@@ -2,10 +2,10 @@
   "ID": "47c39908aa26471886d6100c1fb70436",
   "Name": "Tails Noir Preludes",
   "ProductSlug": "tails-noir-4240c4",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-02-02T17:00:00+00:00",
     "PcReleaseDate": "2023-02-02T17:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:01.5318242+00:00",
   "LastChanged": "2023-03-31T05:58:01.5318244+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:06.1331161+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:20.0446242+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:31.6391916+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:34.3802112+00:00"
 }

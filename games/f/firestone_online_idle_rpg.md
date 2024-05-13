@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.65 (Ranked 1,171)  
+Rating: 3.64 (Ranked 1,172)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -82,7 +82,7 @@ Rating: 3.65 (Ranked 1,171)
 | Jewel Enchanting | 0.40% | ~25 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,261 (Ranked 221)  
-Completed: 7 (0.11%) (Ranked 352)  
+Completed: 7 (0.11%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "a289e2f87380496290f9be28b5a277f6",
   "Name": "Apartment Of Death",
   "ProductSlug": "the-apartment-f09924",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-04-04T00:00:00+00:00",
     "PcReleaseDate": "2024-04-17T01:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-20T05:58:09.4582051+00:00",
   "LastUpdate_AppInfo": "2024-05-12T05:57:26.4833983+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:11.2572407+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:21.9897442+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:58.6846953+00:00"
 }

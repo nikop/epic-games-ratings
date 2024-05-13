@@ -2,10 +2,10 @@
   "ID": "eca02a726aa54712b4c03c00bf1f0c23",
   "Name": "Bud Spencer and Terence Hill - Slaps and Beans 2",
   "ProductSlug": "bud-spencer-and-terence-hill-slaps-and-beans-2-faab3a",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-09-22T15:00:00+00:00",
     "PcReleaseDate": "2023-09-22T15:00:00+00:00",
@@ -311,6 +311,6 @@
   "FirstSeenAchievements": "2023-09-16T15:03:35.3494286+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:29.4600427+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:37.1693987+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:56:59.945125+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:51.973496+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:29.4600641+00:00"
 }

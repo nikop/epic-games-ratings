@@ -2,10 +2,10 @@
   "ID": "98c157cecc744a6393d86f60ccd43b53",
   "Name": "Road Maintenance Simulator",
   "ProductSlug": "road-maintenance-simulator-e6d9ff",
-  "Ranking_EOS_Progress": 865,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 867,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-02-29T13:00:00+00:00",
     "PcReleaseDate": "2022-04-07T10:00:00+00:00",
@@ -458,6 +458,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:16.4933952+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:48.1953495+00:00",
   "LastUpdate_AppInfo": "2024-05-10T15:57:01.862119+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:03.5123665+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:49.8281375+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:48.1953798+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "5e834b926aa547029903e0ae4f649a70",
   "Name": "Axiom Verge 2",
   "ProductSlug": "axiom-verge-2",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 519,
   "Ranking_Popularity": 640,
   "Ranking_PopularitySum": 640,
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-08-11T19:00:00+00:00",
     "PcReleaseDate": "2021-08-11T19:00:00+00:00",
@@ -286,6 +286,6 @@
   "FirstSeen": "2022-07-22T20:25:37.6251124+00:00",
   "LastChanged": "2024-05-03T23:59:55.3374888+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:09.7866972+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:10.8392527+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:50.8016048+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:56.8143421+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:18.1573198+00:00"
 }

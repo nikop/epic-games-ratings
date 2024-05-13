@@ -2,10 +2,10 @@
   "ID": "cb0899902d9c4f33b4f763b22b981043",
   "Name": "Cross Tails",
   "ProductSlug": "cross-tails-47ab3f",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-05-09T00:00:00+00:00",
     "PcReleaseDate": "2023-07-19T15:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-10T01:45:24.1384623+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:46.67639+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:33.9648562+00:00"
 }

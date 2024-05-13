@@ -60,7 +60,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Treat yourself - GPU | 0.10% | ~3,638 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,637,769 (Ranked 5)  
-Completed: 47 (0.00%) (Ranked 455)  
+Completed: 47 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

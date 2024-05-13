@@ -38,8 +38,8 @@
 | Stud Manager | 0.00% | ~0 |
 | Champion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 644)  
-Completed: 0 (0.00%) (Ranked 455)  
+Progressed: 53 (Ranked 645)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

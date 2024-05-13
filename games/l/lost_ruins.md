@@ -46,8 +46,8 @@ Rating: 4.85 (Ranked 38)
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781 (Ranked 363)  
-Completed: 1 (0.13%) (Ranked 342)  
+Progressed: 781 (Ranked 364)  
+Completed: 1 (0.13%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

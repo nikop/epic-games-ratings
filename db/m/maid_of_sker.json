@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 29,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 431,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -970,6 +970,11 @@
       "Time": "2024-04-10T06:06:45.2768586+00:00",
       "NumProgressed": 404,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-05-13T20:05:13.3591498+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -979,9 +984,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 138
     },
     {
       "ID": "axe_of_kindness",
@@ -1005,23 +1010,23 @@
       "Name": "Bull in a China Shop",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 182
+      "UsersEstimate": 198
     },
     {
       "ID": "dodgy_geezer",
@@ -1037,15 +1042,15 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 138
     },
     {
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 69
     },
     {
       "ID": "ending_on_a_high_note",
@@ -1149,7 +1154,7 @@
       "Name": "Perfect Harmony!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "phonic_boom",
@@ -1157,7 +1162,7 @@
       "Name": "Phonic Boom",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "rapturous_applause",
@@ -1165,7 +1170,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "scholar",
@@ -1181,7 +1186,7 @@
       "Name": "Sker Explorer",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "smooth_operator",
@@ -1189,7 +1194,7 @@
       "Name": "Smooth Operator",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "the_long_night",
@@ -1211,16 +1216,16 @@
       "ID": "wales_interactive",
       "SetID": "3j2phem",
       "Name": "Wales Interactive",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 431,
       "Completed": 0
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:45.276858+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:13.3591495+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:46.5582604+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:51.6538609+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:45.2768778+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:39.9324135+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:13.3591698+00:00"
 }

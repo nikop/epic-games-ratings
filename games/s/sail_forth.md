@@ -1,7 +1,7 @@
 # Sail Forth
 [Store](https://store.epicgames.com/en-US/p/sail-forth-51847e)  
 [View Rawdata](../../db/s/sail_forth.json)  
-Rating: 4.40 (Ranked 817)  
+Rating: 4.40 (Ranked 818)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -54,7 +54,7 @@ Rating: 4.40 (Ranked 817)
 | Crushed Ice | 0.10% | ~417 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 416,682 (Ranked 58)  
-Completed: 13 (0.00%) (Ranked 455)  
+Completed: 13 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,8 +81,8 @@ Completed: 13 (0.00%) (Ranked 455)
 | 2024-04-10 | 416,682 | 13 |
 ## Awards
 Max (Quickly Understood Controls): 28  (Ranked 586)  
-Sum: 145 (Ranked 492)  
-Diff (max vs sum): 94  
+Sum: 145 (Ranked 493)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 28 |

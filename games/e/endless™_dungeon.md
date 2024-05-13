@@ -36,7 +36,7 @@
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,752 (Ranked 303)  
-Completed: 0 (0.00%) (Ranked 455)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

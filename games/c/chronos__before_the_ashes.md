@@ -50,7 +50,7 @@ Rating: 4.15 (Ranked 1,065)
 | Ultimate Power! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 72 (Ranked 609)  
-Completed: 0 (0.00%) (Ranked 455)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

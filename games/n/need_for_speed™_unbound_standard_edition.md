@@ -47,7 +47,7 @@
 | Cleaning Up | 0.70% | ~485 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 69,339 (Ranked 130)  
-Completed: 90 (0.13%) (Ranked 342)  
+Completed: 90 (0.13%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

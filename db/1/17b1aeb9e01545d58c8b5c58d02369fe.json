@@ -2,10 +2,10 @@
   "ID": "17b1aeb9e01545d58c8b5c58d02369fe",
   "Name": "SCP",
   "ProductSlug": "scp-808868",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-09T14:56:58.138015+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:24.6558427+00:00"
+  "LastUpdate_Ratings": "2024-05-13T20:00:08.5669585+00:00"
 }

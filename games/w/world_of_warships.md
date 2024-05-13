@@ -52,7 +52,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 127,520 (Ranked 104)  
-Completed: 0 (0.00%) (Ranked 455)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,12 +223,12 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-04-10 | 127,520 | 0 |
 ## Awards
 Max (Challenging Combat): 2,138  (Ranked 124)  
-Sum: 17,998 (Ranked 73)  
+Sum: 18,000 (Ranked 73)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 2,138 |
-| This game is Highly Recommended | 2,131 |
+| This game is Highly Recommended | 2,133 |
 | This game has Quickly Understood Controls | 2,120 |
 | This game is Relaxing | 2,118 |
 | This game is Extremely Fun | 2,074 |
@@ -727,4 +727,4 @@ Diff (max vs sum): 51
 | 2024-05-10 | 4.41 | - | 2,131 | 17,932 |
 | 2024-05-11 | 4.41 | - | 2,135 | 17,965 |
 | 2024-05-12 | 4.41 | - | 2,138 | 17,985 |
-| 2024-05-13 | 4.41 | - | 2,138 | 17,998 |
+| 2024-05-13 | 4.41 | - | 2,138 | 18,000 |

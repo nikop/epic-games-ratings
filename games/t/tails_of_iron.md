@@ -42,8 +42,8 @@ Rating: 4.59 (Ranked 470)
 | Discover the mystery of the Kings Chambers | 2.00% | ~50 |
 | A new Warchief rises | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,525 (Ranked 270)  
-Completed: 17 (0.67%) (Ranked 235)  
+Progressed: 2,525 (Ranked 272)  
+Completed: 17 (0.67%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

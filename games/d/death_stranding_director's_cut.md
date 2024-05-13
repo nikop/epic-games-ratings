@@ -71,7 +71,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,339 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 584,742 (Ranked 36)  
-Completed: 2,521 (0.43%) (Ranked 269)  
+Completed: 2,521 (0.43%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

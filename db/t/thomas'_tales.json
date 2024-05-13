@@ -2,10 +2,10 @@
   "ID": "b4b9992b61e5413496ca934dbacdb129",
   "Name": "Thomas\u0027 Tales",
   "ProductSlug": "thomas-tales-912c23",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "2022-06-16T04:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-16T20:02:03.7236062+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:37.0610417+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:56:58.7684492+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:50.99202+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:37.6786945+00:00"
 }

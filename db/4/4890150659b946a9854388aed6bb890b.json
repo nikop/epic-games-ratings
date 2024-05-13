@@ -2,10 +2,10 @@
   "ID": "4890150659b946a9854388aed6bb890b",
   "Name": "Twinsen\u0027s Little Big Adventure Classic",
   "ProductSlug": "twinsens-little-big-adventure-classic-056421",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "1994-05-31T12:30:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-11T01:41:43.9844099+00:00",
   "LastUpdate_Ratings": "2024-05-13T18:59:41.3422282+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:35.5939739+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:04.2118313+00:00"
 }

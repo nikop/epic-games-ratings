@@ -120,7 +120,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.30% | ~482 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 160,674 (Ranked 94)  
-Completed: 437 (0.27%) (Ranked 303)  
+Completed: 437 (0.27%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

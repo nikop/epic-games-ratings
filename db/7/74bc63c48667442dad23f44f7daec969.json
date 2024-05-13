@@ -2,10 +2,10 @@
   "ID": "74bc63c48667442dad23f44f7daec969",
   "Name": "Space Chef",
   "ProductSlug": "space-chef-3f1010",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2023-06-15T22:00:58.5980428+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:40.3076964+00:00",
   "LastUpdate_AppInfo": "2024-05-11T01:41:45.6496605+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:06.1840686+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:19.8710266+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:40.3076996+00:00"
 }

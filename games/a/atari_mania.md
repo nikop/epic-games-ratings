@@ -24,7 +24,7 @@
 | Dedicated Floor #4 Gamer | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,044 (Ranked 287)  
-Completed: 4 (0.20%) (Ranked 319)  
+Completed: 4 (0.20%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

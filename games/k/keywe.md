@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 95.00% | ~240 |
-| Learn the Ropes | 67.00% | ~170 |
-| Fun in the Bungalow Basin Sun | 39.00% | ~99 |
-| Working for the Kiweekend | 38.00% | ~96 |
-| Practice Makes Postmasters | 36.00% | ~91 |
-| A Startling Discovery | 33.00% | ~83 |
-| Pumpkins and Postage Stamps | 23.00% | ~58 |
-| Kiwinter Kiwonderland | 8.00% | ~20 |
-| Secrets of the Telepost | 3.00% | ~8 |
-| Against All Odds | 2.00% | ~5 |
-| Summer Postmasters | 2.00% | ~5 |
-| Off to the Races | 1.00% | ~3 |
-| Autumn Postmasters | 1.00% | ~3 |
-| Postmasters General | 0.80% | ~2 |
-| Winter Postmasters | 0.80% | ~2 |
-| KeyWe are the Champions | 0.40% | ~1 |
-| Working Overtime | 0.40% | ~1 |
-| Stocking Up | 0.40% | ~1 |
+| You're Hired | 95.00% | ~308 |
+| Learn the Ropes | 65.00% | ~211 |
+| Fun in the Bungalow Basin Sun | 38.00% | ~123 |
+| Practice Makes Postmasters | 35.00% | ~113 |
+| Working for the Kiweekend | 35.00% | ~113 |
+| A Startling Discovery | 31.00% | ~100 |
+| Pumpkins and Postage Stamps | 23.00% | ~75 |
+| Kiwinter Kiwonderland | 7.00% | ~23 |
+| Against All Odds | 2.00% | ~6 |
+| Secrets of the Telepost | 2.00% | ~6 |
+| Autumn Postmasters | 2.00% | ~6 |
+| Summer Postmasters | 2.00% | ~6 |
+| Postmasters General | 1.00% | ~3 |
+| Winter Postmasters | 1.00% | ~3 |
+| Off to the Races | 0.90% | ~3 |
+| KeyWe are the Champions | 0.30% | ~1 |
+| Working Overtime | 0.30% | ~1 |
+| Stocking Up | 0.30% | ~1 |
 | Tournamasters | 0.00% | ~0 |
 | Fully Stocked | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253 (Ranked 469)  
-Completed: 0 (0.00%) (Ranked 455)  
+Progressed: 324 (Ranked 451)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,6 +118,7 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-01-26 | 198 | 0 |
 | 2024-03-21 | 244 | 0 |
 | 2024-04-07 | 253 | 0 |
+| 2024-05-13 | 324 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

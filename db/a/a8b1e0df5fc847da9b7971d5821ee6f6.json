@@ -2,10 +2,10 @@
   "ID": "a8b1e0df5fc847da9b7971d5821ee6f6",
   "Name": "Dead Space\u2122 3",
   "ProductSlug": "dead-space-3-5a3755",
-  "Ranking_EOS_Progress": 807,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-04-01T20:00:00+00:00",
     "PcReleaseDate": "2013-02-04T23:00:00+00:00",
@@ -524,6 +524,6 @@
   "FirstSeenAchievements": "2024-04-10T06:01:54.9327235+00:00",
   "LastChanged_Achievements": "2024-04-10T06:01:54.932716+00:00",
   "LastUpdate_AppInfo": "2024-05-07T01:43:49.1314161+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:06.7785466+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:20.4192505+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:54.9335549+00:00"
 }

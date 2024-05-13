@@ -2,10 +2,10 @@
   "ID": "08a9c02dda9c41a59230704e270c4c01",
   "Name": "Outbreak Lost Hope Broken Faith",
   "ProductSlug": "outbreak-lost-hope-broken-faith-77b3f9",
-  "Ranking_EOS_Progress": 753,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-10-11T14:00:00+00:00",
     "PcReleaseDate": "2023-10-11T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -104,6 +104,11 @@
       "Time": "2024-02-22T21:05:07.9390644+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-05-13T20:05:29.7752427+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-09T15:02:36.7106799+00:00",
@@ -114,7 +119,7 @@
       "ID": "BEWARE_THE_SHADOWS_ACH",
       "SetID": "1go0aao",
       "Name": "Beware the Shadows",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "GET_AWAY_FROM_HER_ACH",
       "SetID": "1go0aao",
       "Name": "Get Away From Her!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -154,7 +159,7 @@
       "ID": "IVE_LOST_HER_ACH",
       "SetID": "1go0aao",
       "Name": "I\u0027ve Lost Her",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -162,7 +167,7 @@
       "ID": "I_NEED_A_WEAPON_ACH",
       "SetID": "1go0aao",
       "Name": "I Need a Weapon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -194,7 +199,7 @@
       "ID": "TRIGGERED_THE_ONSLAUGHT_ACH",
       "SetID": "1go0aao",
       "Name": "Triggered the Onslaught",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "WALK_IN_THE_PARK_ACH",
       "SetID": "1go0aao",
       "Name": "Walk in the Park",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -211,14 +216,14 @@
     {
       "ID": "1go0aao",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:31.2622202+00:00",
   "FirstSeenAchievements": "2023-08-09T15:02:36.7106798+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:07:03.7462284+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:29.7752422+00:00",
   "LastUpdate_AppInfo": "2024-05-09T16:57:36.0178651+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:23.9849243+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:03.7462386+00:00"
+  "LastUpdate_Ratings": "2024-05-13T20:00:07.9848034+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:29.7752526+00:00"
 }

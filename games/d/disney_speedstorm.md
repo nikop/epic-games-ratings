@@ -1,7 +1,7 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.40 (Ranked 817)  
+Rating: 4.40 (Ranked 818)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,7 +31,7 @@ Rating: 4.40 (Ranked 817)
 | PERFECTLY POISED | 0.70% | ~3,207 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 458,127 (Ranked 52)  
-Completed: 2,358 (0.51%) (Ranked 257)  
+Completed: 2,358 (0.51%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

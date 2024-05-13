@@ -2,10 +2,10 @@
   "ID": "d2ad3196483f4a8ea6e1a43de9400bbb",
   "Name": "The Unexpected Quest",
   "ProductSlug": "the-unexpected-quest-d9ce4c",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-04-04T00:00:00+00:00",
     "PcReleaseDate": "2020-11-26T20:00:00+00:00",
@@ -165,6 +165,6 @@
   "FirstSeenAchievements": "2024-03-21T17:05:28.1441361+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:00.9022262+00:00",
   "LastUpdate_AppInfo": "2024-05-09T23:56:52.3331865+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:23.4236828+00:00",
+  "LastUpdate_Ratings": "2024-05-13T20:00:07.5047331+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:00.9030962+00:00"
 }

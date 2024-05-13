@@ -2,10 +2,10 @@
   "ID": "19aea2ba9543461d8848f1d5ea27fce2",
   "Name": "Argonauts Agency 6: Missing Daughter",
   "ProductSlug": "argonauts-agency-missing-daughter-1ca64b",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-12-20T21:00:00+00:00",
     "PcReleaseDate": "2022-01-16T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-26T14:00:53.1324994+00:00",
   "LastUpdate_AppInfo": "2024-05-07T18:57:04.4149278+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:14.9740764+00:00",
+  "LastUpdate_Ratings": "2024-05-13T20:00:00.2451143+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:27.6945425+00:00"
 }

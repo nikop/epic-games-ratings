@@ -2,10 +2,10 @@
   "ID": "57516fb42c924c54be764afa7d006718",
   "Name": "Doodle Kingdom",
   "ProductSlug": "doodle-kingdom-91f65e",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 809,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2016-06-08T21:00:00+00:00",
@@ -25,27 +25,147 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-05-13T20:05:43.9176089+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-05-13T20:05:43.9176112+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "801302",
+      "SetID": "ckhgfk3",
+      "Name": "Shopper",
+      "Percentage": 43,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "801312",
+      "SetID": "ckhgfk3",
+      "Name": "Adventurer",
+      "Percentage": 29,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "801322",
+      "SetID": "ckhgfk3",
+      "Name": "Creator",
+      "Percentage": 43,
+      "XP": 200,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "801332",
+      "SetID": "ckhgfk3",
+      "Name": "Divine Hero",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "801342",
+      "SetID": "ckhgfk3",
+      "Name": "Unknown Hero",
+      "Percentage": 43,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "801352",
+      "SetID": "ckhgfk3",
+      "Name": "Vagabond",
+      "Percentage": 43,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "801362",
+      "SetID": "ckhgfk3",
+      "Name": "Quest complete",
+      "Percentage": 29,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "801372",
+      "SetID": "ckhgfk3",
+      "Name": "Spell Master",
+      "Percentage": 43,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "801382",
+      "SetID": "ckhgfk3",
+      "Name": "Bestiary",
+      "Percentage": 43,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "801392",
+      "SetID": "ckhgfk3",
+      "Name": "Knight",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "801402",
+      "SetID": "ckhgfk3",
+      "Name": "Shopping addicted",
+      "Percentage": 14,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "801412",
+      "SetID": "ckhgfk3",
+      "Name": "Unstoppable",
+      "Percentage": 14,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "801422",
+      "SetID": "ckhgfk3",
+      "Name": "Lord of the elements",
+      "Percentage": 43,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "801432",
+      "SetID": "ckhgfk3",
+      "Name": "Urbanizer",
+      "Percentage": 43,
+      "XP": 40,
+      "UsersEstimate": 3
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "ckhgfk3",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-06T01:47:06.6128001+00:00",
   "FirstSeenAchievements": "2024-04-07T18:01:56.9650271+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:07:21.293959+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:43.9176085+00:00",
   "LastUpdate_AppInfo": "2024-05-09T23:56:52.3321257+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:46.3730186+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:21.2939628+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:33.7175451+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:43.9185029+00:00"
 }

@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 452)
 | Export Expert | 0.10% | ~408 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 407,558 (Ranked 60)  
-Completed: 182 (0.04%) (Ranked 395)  
+Completed: 182 (0.04%) (Ranked 398)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

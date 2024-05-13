@@ -2,10 +2,10 @@
   "ID": "18b76f5ff8004856a2d1e2e206b01445",
   "Name": "Rising Mist",
   "ProductSlug": "rising-mist-36ba97",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-06-15T17:00:00+00:00",
     "PcReleaseDate": "2022-02-24T18:00:00+00:00",
@@ -30,9 +30,275 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-05-13T20:05:31.8902741+00:00",
+  "TotalAchievements": 33,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BREW_20_POTIONS",
+      "SetID": "4m348co",
+      "Name": "Brew 20 potions",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUY_ALL_FIELDS",
+      "SetID": "4m348co",
+      "Name": "Own all fields",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CATCH_50_FISH",
+      "SetID": "4m348co",
+      "Name": "Catch 50 fish",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHARLIES_FATE",
+      "SetID": "4m348co",
+      "Name": "Discover Charlie\u0027s fate",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHRISTAS_FATE",
+      "SetID": "4m348co",
+      "Name": "Christas fate",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECT_ALL_RECEPIES",
+      "SetID": "4m348co",
+      "Name": "Collect all recipes",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ALL_TASKS",
+      "SetID": "4m348co",
+      "Name": "Complete all tasks",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DISCOVER_EVERYTHING",
+      "SetID": "4m348co",
+      "Name": "Discoverer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EARN_50K",
+      "SetID": "4m348co",
+      "Name": "Earn 50k",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ESHUDELLS_FATE",
+      "SetID": "4m348co",
+      "Name": "Eshudells fate",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIND_10_GEMS",
+      "SetID": "4m348co",
+      "Name": "Find 10 gems",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIND_FIRST_ALLAY",
+      "SetID": "4m348co",
+      "Name": "Find first ally",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_HARVEST",
+      "SetID": "4m348co",
+      "Name": "Harvest first crop",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GET_1000_EXPERIENCE_POINTS",
+      "SetID": "4m348co",
+      "Name": "Get 1000 XP",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GET_9000_EXPERIENCE_POINTS",
+      "SetID": "4m348co",
+      "Name": "Get 9000 XP",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HARVEST_100_CROPS",
+      "SetID": "4m348co",
+      "Name": "Harvest 100 crops",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOSE_1_FIGHT",
+      "SetID": "4m348co",
+      "Name": "Lose 1 fight",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_CRYSTAL_BAY",
+      "SetID": "4m348co",
+      "Name": "Reach Crystal Bay",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_NAMA_THALOR",
+      "SetID": "4m348co",
+      "Name": "Reach Nama-Thalor",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_NAVALON",
+      "SetID": "4m348co",
+      "Name": "Find Navalon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_NEVNEN",
+      "SetID": "4m348co",
+      "Name": "Reach Nev Nen",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_OAKENROCK",
+      "SetID": "4m348co",
+      "Name": "Reach Oakenrock",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_OLD_AGE",
+      "SetID": "4m348co",
+      "Name": "Reach old age",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_TARROGAR",
+      "SetID": "4m348co",
+      "Name": "Reach Tarrogar",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_TARTARUS_CAVES",
+      "SetID": "4m348co",
+      "Name": "Enter the Tartarus Caves",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_WINTERGUARD",
+      "SetID": "4m348co",
+      "Name": "Reach Winterguard",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAVE_OCCOTERRA",
+      "SetID": "4m348co",
+      "Name": "Save Occoterra",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNLOCK_ALL_COMBAT_SKILLS",
+      "SetID": "4m348co",
+      "Name": "Dragon slayer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNLOCK_ALL_FISHING_SKILLS",
+      "SetID": "4m348co",
+      "Name": "Master fisher",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNLOCK_ALL_GENERAL_SKILLS",
+      "SetID": "4m348co",
+      "Name": "Jack of all trades",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_10_FIGHTS",
+      "SetID": "4m348co",
+      "Name": "Win 10 fights",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_50_FIGHTS",
+      "SetID": "4m348co",
+      "Name": "Win 50 fights",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WIN_FIRST_FIGHT",
+      "SetID": "4m348co",
+      "Name": "Win 1 fight",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4m348co",
@@ -43,8 +309,8 @@
   ],
   "FirstSeen": "2023-09-08T22:58:32.2397599+00:00",
   "FirstSeenAchievements": "2023-05-23T12:00:58.5863451+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:07:07.3768048+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:31.8902728+00:00",
   "LastUpdate_AppInfo": "2024-05-08T17:57:26.1595511+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:59.4351545+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:07.3768083+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:47.2437829+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:31.8915355+00:00"
 }

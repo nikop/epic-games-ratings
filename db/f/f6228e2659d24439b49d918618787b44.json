@@ -2,10 +2,10 @@
   "ID": "f6228e2659d24439b49d918618787b44",
   "Name": "Mahjong Valentine\u0027s Day",
   "ProductSlug": "mahjong-valentines-day-6e1e50",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-02-07T21:00:00+00:00",
     "PcReleaseDate": "2016-03-05T21:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-08T17:57:21.6155505+00:00",
   "LastUpdate_Ratings": "2024-05-13T19:00:06.9117724+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:41.0994999+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:09.3822422+00:00"
 }

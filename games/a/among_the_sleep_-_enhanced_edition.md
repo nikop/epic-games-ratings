@@ -18,7 +18,7 @@ Number of Ratings: 368  (23.09.2022)
 | Collected all drawings | 0.50% | ~535 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 106,917 (Ranked 113)  
-Completed: 500 (0.47%) (Ranked 264)  
+Completed: 500 (0.47%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

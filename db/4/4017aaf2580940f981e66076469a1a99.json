@@ -2,10 +2,10 @@
   "ID": "4017aaf2580940f981e66076469a1a99",
   "Name": "City Transport Simulator: Tram",
   "ProductSlug": "city-transport-simulator-tram-105774",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2024-04-10T06:05:46.0649354+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:46.0649334+00:00",
   "LastUpdate_AppInfo": "2024-05-10T01:45:24.4778369+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:57:47.5545974+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:34.6734641+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:46.0649379+00:00"
 }

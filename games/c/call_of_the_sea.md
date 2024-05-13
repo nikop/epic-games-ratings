@@ -1,7 +1,7 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 817)  
+Rating: 4.40 (Ranked 818)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,7 +41,7 @@ Rating: 4.40 (Ranked 817)
 | Meta-reference | 1.00% | ~1,500 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149,974 (Ranked 98)  
-Completed: 1,411 (0.94%) (Ranked 210)  
+Completed: 1,411 (0.94%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

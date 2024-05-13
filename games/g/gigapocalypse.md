@@ -59,7 +59,7 @@
 | Destroy Everything | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 211 (Ranked 488)  
-Completed: 1 (0.47%) (Ranked 264)  
+Completed: 1 (0.47%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

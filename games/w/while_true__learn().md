@@ -36,7 +36,7 @@ Number of Ratings: 896  (23.09.2022)
 | The Scrooge | 0.10% | ~627 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 626,911 (Ranked 34)  
-Completed: 593 (0.09%) (Ranked 363)  
+Completed: 593 (0.09%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,8 +323,8 @@ Completed: 593 (0.09%) (Ranked 363)
 | 2024-04-10 | 626,911 | 593 |
 ## Awards
 Max (Challenging Puzzles): 146  (Ranked 367)  
-Sum: 146 (Ranked 490)  
-Diff (max vs sum): -123  
+Sum: 146 (Ranked 491)  
+Diff (max vs sum): -124  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 146 |

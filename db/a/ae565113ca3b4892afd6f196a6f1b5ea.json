@@ -2,10 +2,10 @@
   "ID": "ae565113ca3b4892afd6f196a6f1b5ea",
   "Name": "Dungeon Escape",
   "ProductSlug": "dungeon-escape-71b2bc",
-  "Ranking_EOS_Progress": 865,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 756,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-05-06T15:00:00+00:00",
     "PcReleaseDate": "2016-05-27T17:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-04-07T02:21:09.7011951+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-05-13T20:05:19.1747593+00:00",
+      "NumProgressed": 15,
       "NumCompleted": 0
     }
   ],
@@ -45,185 +50,185 @@
       "ID": "COMPLETE_LEVEL_1",
       "SetID": "91p1jo2",
       "Name": "Level 1 completed",
-      "Percentage": 150,
+      "Percentage": 107,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 16
     },
     {
       "ID": "COMPLETE_LEVEL_10",
       "SetID": "91p1jo2",
       "Name": "Level 10 completed",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "COMPLETE_LEVEL_11",
       "SetID": "91p1jo2",
       "Name": "Level 11 completed",
-      "Percentage": 50,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "COMPLETE_LEVEL_12",
       "SetID": "91p1jo2",
       "Name": "Level 12 completed",
-      "Percentage": 50,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "COMPLETE_LEVEL_13",
       "SetID": "91p1jo2",
       "Name": "Level 13 completed",
-      "Percentage": 50,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "COMPLETE_LEVEL_14",
       "SetID": "91p1jo2",
       "Name": "Level 14 completed",
-      "Percentage": 50,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "COMPLETE_LEVEL_15",
       "SetID": "91p1jo2",
       "Name": "Level 15 completed",
-      "Percentage": 50,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_LEVEL_16",
       "SetID": "91p1jo2",
       "Name": "Level 16 completed",
-      "Percentage": 50,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_LEVEL_17",
       "SetID": "91p1jo2",
       "Name": "Level 17 completed",
-      "Percentage": 50,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_LEVEL_18",
       "SetID": "91p1jo2",
       "Name": "Level 18 completed",
-      "Percentage": 50,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "COMPLETE_LEVEL_19",
       "SetID": "91p1jo2",
       "Name": "Level 19 completed",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_LEVEL_2",
       "SetID": "91p1jo2",
       "Name": "Level 2 completed",
-      "Percentage": 100,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 14
     },
     {
       "ID": "COMPLETE_LEVEL_20",
       "SetID": "91p1jo2",
       "Name": "Level 20 completed",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_LEVEL_21",
       "SetID": "91p1jo2",
       "Name": "Level 21 completed",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_LEVEL_22",
       "SetID": "91p1jo2",
       "Name": "Level 22 completed",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_LEVEL_23",
       "SetID": "91p1jo2",
       "Name": "Level 23 completed",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_LEVEL_24",
       "SetID": "91p1jo2",
       "Name": "Level 24 completed",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_LEVEL_25",
       "SetID": "91p1jo2",
       "Name": "Level 25 completed",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_LEVEL_26",
       "SetID": "91p1jo2",
       "Name": "Level 26 completed",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_LEVEL_27",
       "SetID": "91p1jo2",
       "Name": "Level 27 completed",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_LEVEL_28",
       "SetID": "91p1jo2",
       "Name": "Level 28 completed",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_LEVEL_29",
       "SetID": "91p1jo2",
       "Name": "Level 29 completed",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_LEVEL_3",
       "SetID": "91p1jo2",
       "Name": "Level 3 completed",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 12
     },
     {
       "ID": "COMPLETE_LEVEL_30",
@@ -309,9 +314,9 @@
       "ID": "COMPLETE_LEVEL_4",
       "SetID": "91p1jo2",
       "Name": "Level 4 completed",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 12
     },
     {
       "ID": "COMPLETE_LEVEL_40",
@@ -397,9 +402,9 @@
       "ID": "COMPLETE_LEVEL_5",
       "SetID": "91p1jo2",
       "Name": "Level 5 completed",
-      "Percentage": 100,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 9
     },
     {
       "ID": "COMPLETE_LEVEL_50",
@@ -413,55 +418,55 @@
       "ID": "COMPLETE_LEVEL_6",
       "SetID": "91p1jo2",
       "Name": "Level 6 completed",
-      "Percentage": 100,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 9
     },
     {
       "ID": "COMPLETE_LEVEL_7",
       "SetID": "91p1jo2",
       "Name": "Level 7 completed",
-      "Percentage": 100,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "COMPLETE_LEVEL_8",
       "SetID": "91p1jo2",
       "Name": "Level 8 completed",
-      "Percentage": 100,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "COMPLETE_LEVEL_9",
       "SetID": "91p1jo2",
       "Name": "Level 9 completed",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "GET_5000",
       "SetID": "91p1jo2",
       "Name": "Blood Money",
-      "Percentage": 50,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "91p1jo2",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-07T18:57:08.4743699+00:00",
   "FirstSeenAchievements": "2024-04-07T02:21:09.702658+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:51.9059025+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:19.1747589+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:15.0931268+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:17.0876919+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:51.9059332+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:57:28.093038+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:19.1747915+00:00"
 }

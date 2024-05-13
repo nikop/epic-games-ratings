@@ -2,10 +2,10 @@
   "ID": "edf3f9a1425d408cb5d5b28fda549f04",
   "Name": "KMON: World of Kogaea",
   "ProductSlug": "kmon-world-of-kogaea-f81f63",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-13T11:57:02.5892526+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:00.1761843+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:47.8428574+00:00"
 }

@@ -28,7 +28,7 @@ Number of Ratings: 170  (23.09.2022)
 | Hide and Seek | 4.00% | ~1,359 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33,987 (Ranked 156)  
-Completed: 624 (1.84%) (Ranked 158)  
+Completed: 624 (1.84%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

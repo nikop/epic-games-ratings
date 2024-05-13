@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 576)
 | Three's a Crowd | 0.10% | ~177 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 851,780 (Ranked 22)  
-Completed: 2,869 (0.34%) (Ranked 286)  
+Completed: 2,869 (0.34%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

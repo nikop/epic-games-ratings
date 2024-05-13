@@ -2,10 +2,10 @@
   "ID": "ac29e4dd8b194395ad1adcb59a1eb755",
   "Name": "Time Trap",
   "ProductSlug": "time-trap-8a9725",
-  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Progress": 695,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-09-22T08:00:00+00:00",
     "PcReleaseDate": "2017-07-28T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
-  "EOS_Completed": 9,
+  "EOS_Progressed": 33,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 30,
+  "EOS_Completed_Percentage": 30.3,
   "EosHistory": [
     {
       "Time": "2023-09-12T14:02:14.1623151+00:00",
@@ -209,6 +209,11 @@
       "Time": "2024-03-21T17:11:21.6221682+00:00",
       "NumProgressed": 30,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-05-13T20:05:41.8019325+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-12T14:02:14.1636363+00:00",
@@ -219,55 +224,55 @@
       "ID": "achievement_beginner",
       "SetID": "b9jpe8p",
       "Name": "Beginner",
-      "Percentage": 83,
+      "Percentage": 85,
       "XP": 200,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "achievement_calm",
       "SetID": "b9jpe8p",
       "Name": "Calm",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_sniper",
       "SetID": "b9jpe8p",
       "Name": "Sniper",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_superman",
       "SetID": "b9jpe8p",
       "Name": "Superman",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_winner",
       "SetID": "b9jpe8p",
       "Name": "Winner",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "b9jpe8p",
       "IsBase": true,
-      "Progressed": 30,
-      "Completed": 9
+      "Progressed": 33,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-12-15T13:06:07.1604686+00:00",
   "FirstSeenAchievements": "2023-09-12T14:02:14.1636362+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:07:18.489266+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:41.8019317+00:00",
   "LastUpdate_AppInfo": "2024-05-08T09:57:06.7760229+00:00",
   "LastUpdate_Ratings": "2024-05-13T19:00:23.1462633+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:18.4892748+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:41.8019421+00:00"
 }

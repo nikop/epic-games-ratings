@@ -40,7 +40,7 @@ Rating: 4.15 (Ranked 1,065)
 | Shai-Hulud? | 0.20% | ~128 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64,100 (Ranked 132)  
-Completed: 104 (0.16%) (Ranked 334)  
+Completed: 104 (0.16%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

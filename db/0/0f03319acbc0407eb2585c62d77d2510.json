@@ -2,10 +2,10 @@
   "ID": "0f03319acbc0407eb2585c62d77d2510",
   "Name": "SU - Unlocking the 4th Dimension",
   "ProductSlug": "su-18f045",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-05-03T01:00:00+00:00",
     "PcReleaseDate": "2024-05-03T01:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-11T02:57:06.7730541+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:42.1303886+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:57:54.9856943+00:00"
 }

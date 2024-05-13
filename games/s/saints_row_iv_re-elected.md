@@ -1,7 +1,7 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.40 (Ranked 817)  
+Rating: 4.40 (Ranked 818)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -79,7 +79,7 @@ Rating: 4.40 (Ranked 817)
 | Ultimate Hot Potato | 0.10% | ~389 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 389,351 (Ranked 63)  
-Completed: 18 (0.00%) (Ranked 455)  
+Completed: 18 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

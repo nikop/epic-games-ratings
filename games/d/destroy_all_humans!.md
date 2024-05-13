@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Steezy Down the Spine | 2.00% | ~21 |
 | Toilet Break | 2.00% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058 (Ranked 342)  
-Completed: 10 (0.95%) (Ranked 209)  
+Progressed: 1,058 (Ranked 343)  
+Completed: 10 (0.95%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -69,7 +69,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 48,259 (Ranked 148)  
-Completed: 2 (0.00%) (Ranked 455)  
+Completed: 2 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -20,8 +20,8 @@
 | Hymn of Triumph | 0.30% | ~11 |
 | Grand Finale | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,591 (Ranked 252)  
-Completed: 8 (0.22%) (Ranked 312)  
+Progressed: 3,591 (Ranked 253)  
+Completed: 8 (0.22%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

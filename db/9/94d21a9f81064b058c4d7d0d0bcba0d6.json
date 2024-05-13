@@ -2,10 +2,10 @@
   "ID": "94d21a9f81064b058c4d7d0d0bcba0d6",
   "Name": "Cube Step",
   "ProductSlug": "cube-step-78cbc6",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-04-25T05:00:00+00:00",
     "PcReleaseDate": "2024-04-25T05:00:00+00:00",
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-28T07:58:18.2260615+00:00",
   "LastUpdate_AppInfo": "2024-05-12T05:57:27.2411393+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:34.1051362+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:57:45.9199389+00:00"
 }

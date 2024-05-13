@@ -6,51 +6,51 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 89.00% | ~1,924 |
-| Self-Improvement | 70.00% | ~1,513 |
-| Perky | 65.00% | ~1,405 |
-| Let’s Ride | 59.00% | ~1,276 |
-| Welcome to the Weird West | 56.00% | ~1,211 |
-| Dead or Alive | 55.00% | ~1,189 |
-| Full House | 37.00% | ~800 |
-| Off the Trail | 34.00% | ~735 |
-| Justice Served | 30.00% | ~649 |
-| Chain Reaction | 27.00% | ~584 |
-| Through Their Eyes | 26.00% | ~562 |
-| Dishonored | 25.00% | ~540 |
-| Rain of Death | 25.00% | ~540 |
-| Scholar | 25.00% | ~540 |
-| The Great Escape | 24.00% | ~519 |
-| That’s All, Folks | 19.00% | ~411 |
-| Fallen Star | 16.00% | ~346 |
-| For Balance | 16.00% | ~346 |
-| Here Comes Santa Claus | 16.00% | ~346 |
-| Winds of War | 16.00% | ~346 |
-| Dog Days | 13.00% | ~281 |
-| Elusive Prey | 13.00% | ~281 |
-| Out on the Ebb Tide | 13.00% | ~281 |
-| Turning the Tables | 13.00% | ~281 |
-| Workers' Rights | 13.00% | ~281 |
-| Power Behind the Pulpit | 12.00% | ~259 |
-| Something Wicked This Way Comes… | 12.00% | ~259 |
-| There is Hope | 12.00% | ~259 |
-| The Philosopher’s Stone | 10.00% | ~216 |
-| Loyalty to the Pack | 9.00% | ~195 |
-| Eternity Can Wait | 9.00% | ~195 |
-| Mystery Machine | 9.00% | ~195 |
-| Gold Digger | 8.00% | ~173 |
-| Monster Hunter | 8.00% | ~173 |
-| Knuckle Sandwich | 8.00% | ~173 |
-| Do Not Pass Go… | 7.00% | ~151 |
-| Getting the Gang Back Together | 7.00% | ~151 |
-| Healing Old Wounds | 6.00% | ~130 |
-| Who You Gonna Call? | 6.00% | ~130 |
-| This Is Sparta | 5.00% | ~108 |
-| What’s in the Box? | 5.00% | ~108 |
+| Unforgiven | 89.00% | ~1,940 |
+| Self-Improvement | 71.00% | ~1,548 |
+| Perky | 65.00% | ~1,417 |
+| Let’s Ride | 59.00% | ~1,286 |
+| Dead or Alive | 56.00% | ~1,221 |
+| Welcome to the Weird West | 56.00% | ~1,221 |
+| Full House | 37.00% | ~807 |
+| Off the Trail | 34.00% | ~741 |
+| Justice Served | 30.00% | ~654 |
+| Chain Reaction | 27.00% | ~589 |
+| Through Their Eyes | 26.00% | ~567 |
+| Dishonored | 25.00% | ~545 |
+| Rain of Death | 25.00% | ~545 |
+| Scholar | 25.00% | ~545 |
+| The Great Escape | 24.00% | ~523 |
+| That’s All, Folks | 19.00% | ~414 |
+| Fallen Star | 16.00% | ~349 |
+| For Balance | 16.00% | ~349 |
+| Here Comes Santa Claus | 16.00% | ~349 |
+| Winds of War | 16.00% | ~349 |
+| Dog Days | 13.00% | ~283 |
+| Elusive Prey | 13.00% | ~283 |
+| Out on the Ebb Tide | 13.00% | ~283 |
+| Turning the Tables | 13.00% | ~283 |
+| Workers' Rights | 13.00% | ~283 |
+| Power Behind the Pulpit | 12.00% | ~262 |
+| Something Wicked This Way Comes… | 12.00% | ~262 |
+| There is Hope | 12.00% | ~262 |
+| The Philosopher’s Stone | 10.00% | ~218 |
+| Loyalty to the Pack | 9.00% | ~196 |
+| Eternity Can Wait | 9.00% | ~196 |
+| Mystery Machine | 9.00% | ~196 |
+| Do Not Pass Go… | 8.00% | ~174 |
+| Gold Digger | 8.00% | ~174 |
+| Monster Hunter | 8.00% | ~174 |
+| Knuckle Sandwich | 8.00% | ~174 |
+| Getting the Gang Back Together | 7.00% | ~153 |
+| Healing Old Wounds | 6.00% | ~131 |
+| Who You Gonna Call? | 6.00% | ~131 |
+| This Is Sparta | 5.00% | ~109 |
+| What’s in the Box? | 5.00% | ~109 |
 | Ghost Town | 3.00% | ~65 |
 | Lord Inut Sends His Regards | 3.00% | ~65 |
 | Moondrunk | 3.00% | ~65 |
-| 'Ma Barker | 2.00% | ~43 |
+| 'Ma Barker | 2.00% | ~44 |
 | I Kicked a Bird and I Liked it | 1.00% | ~22 |
 | Hog Wild | 1.00% | ~22 |
 | Explorer | 0.70% | ~15 |
@@ -60,8 +60,8 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~11 |
 | Revenant | 0.50% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,162 (Ranked 283)  
-Completed: 7 (0.32%) (Ranked 291)  
+Progressed: 2,180 (Ranked 282)  
+Completed: 7 (0.32%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,6 +267,7 @@ Completed: 7 (0.32%) (Ranked 291)
 | 2024-01-26 | 2,071 | 7 |
 | 2024-03-21 | 2,128 | 7 |
 | 2024-04-07 | 2,162 | 7 |
+| 2024-05-13 | 2,180 | 7 |
 ## Awards
 Max (Impact the Story): 33  (Ranked 558)  
 Sum: 33 (Ranked 596)  

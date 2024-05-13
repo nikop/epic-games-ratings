@@ -2,10 +2,10 @@
   "ID": "3e49a248830d4859926ce856907b05eb",
   "Name": "Redneck Rampage Rides Again",
   "ProductSlug": "redneck-rampage-rides-again-1655a7",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-07-29T16:00:00+00:00",
     "PcReleaseDate": "2022-07-29T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:09.8014786+00:00",
   "LastChanged": "2023-03-31T05:58:09.8014787+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:09.8354923+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:10.7424796+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:56.8100877+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:53.0482883+00:00"
 }

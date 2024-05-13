@@ -106,7 +106,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Shoestring Budget | 0.10% | ~482 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 482,352 (Ranked 49)  
-Completed: 22 (0.00%) (Ranked 455)  
+Completed: 22 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

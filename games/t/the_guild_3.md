@@ -33,8 +33,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sandwich maker | 0.00% | ~0 |
 | Proud as a rooster | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215 (Ranked 486)  
-Completed: 0 (0.00%) (Ranked 455)  
+Progressed: 215 (Ranked 487)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

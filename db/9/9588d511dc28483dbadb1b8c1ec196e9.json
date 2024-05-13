@@ -2,10 +2,10 @@
   "ID": "9588d511dc28483dbadb1b8c1ec196e9",
   "Name": "Tri6 Infinite",
   "ProductSlug": "tri6-infinite-3ac4cc",
-  "Ranking_EOS_Progress": 760,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 763,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2020-07-17T17:00:00+00:00",
@@ -104,25 +104,25 @@
       "ID": "0",
       "SetID": "72mf9o7",
       "Name": "Hyperion",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "1",
       "SetID": "72mf9o7",
       "Name": "Helios",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "10",
       "SetID": "72mf9o7",
       "Name": "Power Up",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "11",
@@ -160,9 +160,9 @@
       "ID": "15",
       "SetID": "72mf9o7",
       "Name": "Stomper",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "16",
@@ -208,9 +208,9 @@
       "ID": "20",
       "SetID": "72mf9o7",
       "Name": "Trampoline",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "21",
@@ -232,17 +232,17 @@
       "ID": "23",
       "SetID": "72mf9o7",
       "Name": "Rage Attack",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "3",
       "SetID": "72mf9o7",
       "Name": "Lap 4",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "4",
@@ -303,8 +303,8 @@
   ],
   "FirstSeen": "2023-08-11T02:57:55.7033583+00:00",
   "FirstSeenAchievements": "2023-07-02T08:01:17.6787047+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:07:03.2763989+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:29.3815782+00:00",
   "LastUpdate_AppInfo": "2024-05-13T09:57:12.0585494+00:00",
   "LastUpdate_Ratings": "2024-05-13T18:58:52.1154171+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:03.2764148+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:29.3815928+00:00"
 }

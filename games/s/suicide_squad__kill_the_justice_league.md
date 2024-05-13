@@ -56,8 +56,8 @@ Rating: 4.23 (Ranked 1,004)
 | Need to Know | 0.80% | ~5 |
 | The Oldest One in the Book! | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604 (Ranked 389)  
-Completed: 0 (0.00%) (Ranked 455)  
+Progressed: 604 (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

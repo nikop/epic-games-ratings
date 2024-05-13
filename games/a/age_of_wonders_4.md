@@ -71,7 +71,7 @@ Rating: 4.66 (Ranked 323)
 | Draconic Connoisseur | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,547 (Ranked 216)  
-Completed: 11 (0.15%) (Ranked 337)  
+Completed: 11 (0.15%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,12 +323,12 @@ Completed: 11 (0.15%) (Ranked 337)
 | 2024-03-21 | 7,504 | 10 |
 | 2024-04-10 | 7,547 | 11 |
 ## Awards
-Max (Diverse Characters): 64  (Ranked 475)  
-Sum: 374 (Ranked 399)  
-Diff (max vs sum): 76  
+Max (Diverse Characters): 65  (Ranked 473)  
+Sum: 375 (Ranked 398)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 64 |
+| This game has Diverse Characters | 65 |
 | This game is Great for Beginners | 61 |
 | This game has Beautiful Visuals | 40 |
 | This game is Extremely Fun | 38 |
@@ -499,3 +499,4 @@ Diff (max vs sum): 76
 | 2024-05-06 | 4.66 | 64 | 372 |
 | 2024-05-09 | 4.66 | 64 | 373 |
 | 2024-05-10 | 4.66 | 64 | 374 |
+| 2024-05-13 | 4.66 | 65 | 375 |

@@ -53,7 +53,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''I've never seen a real one!'' | 1.00% | ~614 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 61,405 (Ranked 135)  
-Completed: 300 (0.49%) (Ranked 261)  
+Completed: 300 (0.49%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

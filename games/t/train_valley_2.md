@@ -97,7 +97,7 @@ Number of Ratings: 87  (23.09.2022)
 | World Zapper | 0.10% | ~447 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 447,797 (Ranked 54)  
-Completed: 29 (0.01%) (Ranked 431)  
+Completed: 29 (0.01%) (Ranked 433)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

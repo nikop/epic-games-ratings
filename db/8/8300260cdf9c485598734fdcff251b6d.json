@@ -2,10 +2,10 @@
   "ID": "8300260cdf9c485598734fdcff251b6d",
   "Name": "AIdventure",
   "ProductSlug": "aidventure-8afc0d",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-05-20T15:00:00+00:00",
     "PcReleaseDate": "2022-09-12T08:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-04-27T20:58:15.3735255+00:00",
   "LastUpdate_AppInfo": "2024-05-08T01:26:55.7785338+00:00",
   "LastUpdate_Ratings": "2024-05-13T18:58:54.5603743+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:50.2503008+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:17.6782278+00:00"
 }

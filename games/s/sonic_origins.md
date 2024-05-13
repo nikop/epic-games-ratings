@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 492)  
+Rating: 4.58 (Ranked 493)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,8 +42,8 @@ Number of Ratings: 154  (23.09.2022)
 | S3 & K Mission Master | 13.00% | ~100 |
 | Sonic the Hedgehog 2 Mission Master | 11.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 771 (Ranked 365)  
-Completed: 53 (6.87%) (Ranked 70)  
+Progressed: 771 (Ranked 366)  
+Completed: 53 (6.87%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,8 +242,8 @@ Completed: 53 (6.87%) (Ranked 70)
 | 2024-04-10 | 771 | 53 |
 ## Awards
 Max (Great Boss Battles): 135  (Ranked 378)  
-Sum: 155 (Ranked 488)  
-Diff (max vs sum): -110  
+Sum: 155 (Ranked 489)  
+Diff (max vs sum): -111  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 135 |

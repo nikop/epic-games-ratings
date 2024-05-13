@@ -43,7 +43,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Consultant | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 99,247 (Ranked 115)  
-Completed: 199 (0.20%) (Ranked 319)  
+Completed: 199 (0.20%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,14 +330,14 @@ Completed: 199 (0.20%) (Ranked 319)
 | 2024-04-10 | 99,247 | 199 |
 ## Awards
 Max (Relaxing): 562  (Ranked 230)  
-Sum: 3,478 (Ranked 186)  
+Sum: 3,479 (Ranked 186)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 562 |
 | This game is Highly Recommended | 545 |
+| This game is Extremely Fun | 494 |
 | This game has Quickly Understood Controls | 494 |
-| This game is Extremely Fun | 493 |
 | This game has Competitive Players | 486 |
 | This game has Amazing Storytelling | 400 |
 | This game has Obsessive Gameplay | 334 |
@@ -675,4 +675,4 @@ Diff (max vs sum): 44
 | 2024-05-07 | 4.53 | - | 562 | 3,472 |
 | 2024-05-09 | 4.53 | - | 562 | 3,475 |
 | 2024-05-10 | 4.53 | - | 562 | 3,477 |
-| 2024-05-13 | 4.53 | - | 562 | 3,478 |
+| 2024-05-13 | 4.53 | - | 562 | 3,479 |

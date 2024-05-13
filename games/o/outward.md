@@ -6,51 +6,51 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,938 |
-| Ready for Winter | 61.00% | ~3,336 |
-| Ready for Summer | 48.00% | ~2,625 |
-| Cordon Bleu | 40.00% | ~2,188 |
-| Tapped! | 34.00% | ~1,859 |
-| Eureka | 29.00% | ~1,586 |
-| Scourge Slayer | 23.00% | ~1,258 |
-| Science, Troglodyte! | 22.00% | ~1,203 |
-| Exceptional Skill | 20.00% | ~1,094 |
-| Home Sweet Home | 20.00% | ~1,094 |
-| Encyclopedic! | 18.00% | ~984 |
-| The Power of Family | 15.00% | ~820 |
-| A Fortress Toppled! | 14.00% | ~766 |
-| Apex Predator | 14.00% | ~766 |
-| The Power of Faith | 11.00% | ~602 |
-| Strange amalgams | 10.00% | ~547 |
-| The Power of Freedom | 8.00% | ~438 |
-| Ace Detective | 7.00% | ~383 |
-| Gift from the Ancestors | 7.00% | ~383 |
-| Magic is a science | 7.00% | ~383 |
-| House of Cards | 6.00% | ~328 |
-| Let ‘em eat magma! | 6.00% | ~328 |
-| The power of ambition | 6.00% | ~328 |
-| Blood and justice | 5.00% | ~273 |
-| Hold my Mead and Watch This | 5.00% | ~273 |
-| The stuff of legends. | 5.00% | ~273 |
-| Ancestor's Pride | 4.00% | ~219 |
-| Memory of a legend | 4.00% | ~219 |
-| For All Aurai | 3.00% | ~164 |
-| Light of Levant | 3.00% | ~164 |
-| This was a mistake... | 3.00% | ~164 |
-| Crowd Pleaser. | 2.00% | ~109 |
-| Perfect Defense | 2.00% | ~109 |
-| Power! To! The People! | 2.00% | ~109 |
-| Your actions define you | 2.00% | ~109 |
-| The blood is life | 1.00% | ~55 |
-| Vanquisher of nightmares | 1.00% | ~55 |
-| They'll Tell Stories About This | 0.70% | ~38 |
-| Through fire and flame. | 0.70% | ~38 |
+| Venture Outward | 72.00% | ~4,009 |
+| Ready for Winter | 61.00% | ~3,396 |
+| Ready for Summer | 48.00% | ~2,673 |
+| Cordon Bleu | 40.00% | ~2,227 |
+| Tapped! | 34.00% | ~1,893 |
+| Eureka | 29.00% | ~1,615 |
+| Scourge Slayer | 23.00% | ~1,281 |
+| Science, Troglodyte! | 22.00% | ~1,225 |
+| Exceptional Skill | 20.00% | ~1,114 |
+| Home Sweet Home | 20.00% | ~1,114 |
+| Encyclopedic! | 18.00% | ~1,002 |
+| The Power of Family | 15.00% | ~835 |
+| A Fortress Toppled! | 14.00% | ~780 |
+| Apex Predator | 14.00% | ~780 |
+| The Power of Faith | 12.00% | ~668 |
+| Strange amalgams | 11.00% | ~612 |
+| The Power of Freedom | 9.00% | ~501 |
+| Ace Detective | 7.00% | ~390 |
+| Gift from the Ancestors | 7.00% | ~390 |
+| Magic is a science | 7.00% | ~390 |
+| Hold my Mead and Watch This | 6.00% | ~334 |
+| House of Cards | 6.00% | ~334 |
+| Let ‘em eat magma! | 6.00% | ~334 |
+| The power of ambition | 6.00% | ~334 |
+| Blood and justice | 5.00% | ~278 |
+| The stuff of legends. | 5.00% | ~278 |
+| Ancestor's Pride | 4.00% | ~223 |
+| For All Aurai | 4.00% | ~223 |
+| Memory of a legend | 4.00% | ~223 |
+| Light of Levant | 3.00% | ~167 |
+| This was a mistake... | 3.00% | ~167 |
+| Crowd Pleaser. | 2.00% | ~111 |
+| Perfect Defense | 2.00% | ~111 |
+| Power! To! The People! | 2.00% | ~111 |
+| Your actions define you | 2.00% | ~111 |
+| The blood is life | 1.00% | ~56 |
+| Vanquisher of nightmares | 1.00% | ~56 |
+| They'll Tell Stories About This | 0.80% | ~45 |
+| Through fire and flame. | 0.70% | ~39 |
 | Legacy of a master hunter | 0.40% | ~22 |
-| Master of Aurai | 0.30% | ~16 |
-| The Absolute Pinnacle. | 0.30% | ~16 |
+| Master of Aurai | 0.30% | ~17 |
+| The Absolute Pinnacle. | 0.30% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,469 (Ranked 229)  
-Completed: 6 (0.11%) (Ranked 352)  
+Progressed: 5,568 (Ranked 228)  
+Completed: 6 (0.11%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,6 +320,7 @@ Completed: 6 (0.11%) (Ranked 352)
 | 2024-03-21 | 5,264 | 6 |
 | 2024-04-05 | 5,452 | 6 |
 | 2024-04-10 | 5,469 | 6 |
+| 2024-05-13 | 5,568 | 6 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 545)  
 Sum: 256 (Ranked 445)  

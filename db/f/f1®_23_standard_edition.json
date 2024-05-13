@@ -3,12 +3,12 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 427,
-  "Ranking_Popularity": 330,
+  "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -3727,11 +3727,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 1141,
       "NumberOfAwardsMax": 202
+    },
+    {
+      "Time": "2024-05-13T19:57:57.3593386+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1147,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1141,
-  "NumberOfAwardsMax": 202,
+  "NumberOfAwards": 1147,
+  "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3756,13 +3762,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 202
+      "Count": 205
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 154
+      "Count": 156
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3774,7 +3780,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15537,9 +15543,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-05-12T16:59:25.6252497+00:00",
+  "LastChanged": "2024-05-13T19:57:57.3593384+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:21.6545137+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:19.6615461+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:44.3480579+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:57.359339+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:21.6546178+00:00"
 }

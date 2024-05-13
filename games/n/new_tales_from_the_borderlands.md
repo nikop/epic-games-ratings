@@ -32,8 +32,8 @@ Rating: 4.10 (Ranked 1,091)
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,955 (Ranked 246)  
-Completed: 1 (0.03%) (Ranked 402)  
+Progressed: 3,955 (Ranked 248)  
+Completed: 1 (0.03%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

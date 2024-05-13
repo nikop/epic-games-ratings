@@ -3,9 +3,9 @@
   "Name": "REVEIL",
   "ProductSlug": "reveil-43bd49",
   "Ranking_EOS_Progress": 651,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-03-06T16:00:00+00:00",
     "PcReleaseDate": "2024-03-06T16:00:00+00:00",
@@ -272,6 +272,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:07.6178737+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:42.8278738+00:00",
   "LastUpdate_AppInfo": "2024-05-11T01:41:45.9489062+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:14.2798858+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:28.4524377+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:42.8278868+00:00"
 }

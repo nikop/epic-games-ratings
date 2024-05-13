@@ -2,10 +2,10 @@
   "ID": "c6422f963ff84bcbb3b77539e77b6ef7",
   "Name": "Ultros",
   "ProductSlug": "ultros",
-  "Ranking_EOS_Progress": 572,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-02-13T08:00:00+00:00",
     "PcReleaseDate": "2024-02-13T08:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -42,6 +42,11 @@
     {
       "Time": "2024-04-10T06:06:43.611076+00:00",
       "NumProgressed": 100,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-05-13T20:05:11.7485395+00:00",
+      "NumProgressed": 107,
       "NumCompleted": 0
     }
   ],
@@ -61,7 +66,7 @@
       "ID": "ALL_FRUIT",
       "SetID": "2hbmfjb",
       "Name": "The feast of harvest",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -69,7 +74,7 @@
       "ID": "ALL_GUTS",
       "SetID": "2hbmfjb",
       "Name": "The pound of flesh which I demand",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -85,15 +90,15 @@
       "ID": "BAD_ENDING",
       "SetID": "2hbmfjb",
       "Name": "Out of darkness is born the light",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BRUNZON",
       "SetID": "2hbmfjb",
       "Name": "Ground to a halt",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -109,7 +114,7 @@
       "ID": "CONNECT_SHAMAN_GG",
       "SetID": "2hbmfjb",
       "Name": "Hear them sing through the leaves",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -133,7 +138,7 @@
       "ID": "CONNECT_SHAMAN_PS",
       "SetID": "2hbmfjb",
       "Name": "High above, bodies sigh",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -165,15 +170,15 @@
       "ID": "ENRAGED_BEAST",
       "SetID": "2hbmfjb",
       "Name": "Wrath upon the enraged",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ENRAGED_BEAST_REGEN",
       "SetID": "2hbmfjb",
       "Name": "In like a lion, out like a lamb",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -181,9 +186,9 @@
       "ID": "FEASTRO",
       "SetID": "2hbmfjb",
       "Name": "A hungry stomach has no ears",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "FEASTRO_REGEN",
@@ -213,7 +218,7 @@
       "ID": "FULLY_UPGRADED_EXTRACTOR",
       "SetID": "2hbmfjb",
       "Name": "Cutting-edge",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -221,7 +226,7 @@
       "ID": "GOOD_ENDING",
       "SetID": "2hbmfjb",
       "Name": "Walking with all the stars within",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -229,15 +234,15 @@
       "ID": "HOST",
       "SetID": "2hbmfjb",
       "Name": "For knowledge is limited",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HOST_REGEN",
       "SetID": "2hbmfjb",
       "Name": "Encircled by imagination",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -253,7 +258,7 @@
       "ID": "INFINITY_SISTERS_REGEN",
       "SetID": "2hbmfjb",
       "Name": "And one day will seem like three",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -279,7 +284,7 @@
       "Name": "Setting a trap for others",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "VASA_REGEN",
@@ -293,23 +298,23 @@
       "ID": "VOLLY_KILL",
       "SetID": "2hbmfjb",
       "Name": "Nietzsche taken to heart",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "2hbmfjb",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-13T20:00:38.1528688+00:00",
   "FirstSeenAchievements": "2023-10-27T15:04:03.1385531+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:43.6110755+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:11.7485392+00:00",
   "LastUpdate_AppInfo": "2024-05-10T08:57:20.7669592+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:00.2791884+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:43.611092+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:58:13.7632376+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:11.748557+00:00"
 }

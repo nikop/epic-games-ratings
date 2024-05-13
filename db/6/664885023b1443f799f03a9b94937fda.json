@@ -2,10 +2,10 @@
   "ID": "664885023b1443f799f03a9b94937fda",
   "Name": "Tools Up! Ultimate Edition",
   "ProductSlug": "tools-up-ultimate-edition-d2736d",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-01-05T15:00:00+00:00",
     "PcReleaseDate": "2024-01-05T15:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2024-01-25T16:01:49.6291369+00:00",
   "FirstSeenAchievements": "2023-12-21T16:04:10.1969453+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:07:21.0774582+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:43.6444098+00:00",
   "LastUpdate_AppInfo": "2024-05-10T04:57:16.2811392+00:00",
   "LastUpdate_Ratings": "2024-05-13T18:59:53.1162232+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:21.0774615+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:43.644414+00:00"
 }

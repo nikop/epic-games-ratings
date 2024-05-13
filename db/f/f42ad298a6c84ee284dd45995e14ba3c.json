@@ -4,11 +4,11 @@
   "ProductSlug": "raid-shadow-legends-b70e14",
   "Ranking_Rating": 1004,
   "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 495,
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_PopularitySum": 487,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-07-20T10:30:00+00:00",
     "PcReleaseDate": "2019-09-29T07:00:00+00:00",
@@ -923,10 +923,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 141,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-05-13T19:58:51.1026118+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 161,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 141,
+  "NumberOfAwards": 161,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -965,6 +971,12 @@
       "Prefix": "This game has",
       "Type": "Unique Visuals",
       "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -979,8 +991,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T13:57:09.0545259+00:00",
   "FirstSeenRating": "2023-08-30T02:59:29.8015569+00:00",
-  "LastChanged": "2024-05-12T23:00:34.0782176+00:00",
+  "LastChanged": "2024-05-13T19:58:51.1026114+00:00",
   "LastUpdate_AppInfo": "2024-05-10T08:57:21.3233957+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:56:58.9134305+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:51.1026121+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:02.1612002+00:00"
 }

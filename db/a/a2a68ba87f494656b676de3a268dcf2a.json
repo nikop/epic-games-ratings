@@ -2,10 +2,10 @@
   "ID": "a2a68ba87f494656b676de3a268dcf2a",
   "Name": "Julai",
   "ProductSlug": "julai-03ca17",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-02-14T16:00:00+00:00",
     "PcReleaseDate": "2024-02-14T16:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-05-13T04:57:21.7767241+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:19.5066549+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:31.0812914+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:46.1949255+00:00"
 }

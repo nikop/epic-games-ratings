@@ -2,10 +2,10 @@
   "ID": "f2e5527508fc488884b634181564e9b2",
   "Name": "Love Too Easily",
   "ProductSlug": "love-too-easily-1854cf",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-08-28T07:00:00+00:00",
     "PcReleaseDate": "2023-08-28T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-30T16:58:17.6767905+00:00",
   "LastUpdate_AppInfo": "2024-05-10T01:45:27.6471758+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:02.398213+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:15.9084263+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:10.8751624+00:00"
 }

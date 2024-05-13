@@ -2,10 +2,10 @@
   "ID": "4d38b523f0ef409d9cc79af313643ec9",
   "Name": "Homeseek",
   "ProductSlug": "homeseek-243763",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-09-14T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T07:00:00+00:00",
@@ -479,6 +479,6 @@
   "FirstSeenAchievements": "2023-09-13T12:01:57.9977339+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:44.2660516+00:00",
   "LastUpdate_AppInfo": "2024-05-09T09:57:02.9640504+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:01.0473848+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:48.4759538+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:44.2661028+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a32dedde9e2848e187e8b8971b2e90b4",
   "Name": "Dread X Collection The Hunt",
   "ProductSlug": "dread-x-collection-the-hunt-e9793e",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2022-05-12T08:00:00+00:00",
     "PcReleaseDate": "2021-04-12T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:40.5962178+00:00",
   "LastChanged": "2023-03-31T05:58:40.5962179+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:08.145527+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:01.2040737+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:07.5235244+00:00"
+  "LastUpdate_Ratings": "2024-05-13T19:59:48.5952089+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:32.0344936+00:00"
 }

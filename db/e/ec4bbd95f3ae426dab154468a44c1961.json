@@ -2,10 +2,10 @@
   "ID": "ec4bbd95f3ae426dab154468a44c1961",
   "Name": "Mysteries of the Undead",
   "ProductSlug": "mysteries-of-the-undead-46140a",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-10-02T00:00:00+00:00",
     "PcReleaseDate": "2019-03-28T02:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-04T18:58:42.6924019+00:00",
   "LastUpdate_AppInfo": "2024-05-13T11:57:04.1620245+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:59:45.6495929+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:58.6832239+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:36.4361723+00:00"
 }

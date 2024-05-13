@@ -57,7 +57,7 @@
 | Smelter's Got Your Back | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50 (Ranked 651)  
-Completed: 4 (8.00%) (Ranked 56)  
+Completed: 4 (8.00%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

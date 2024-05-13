@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 425,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 412,
+  "EOS_Progressed": 424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1549,6 +1549,11 @@
       "Time": "2024-04-10T06:06:55.2823313+00:00",
       "NumProgressed": 412,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-05-13T20:05:22.3078464+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1559,17 +1564,17 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 276
     },
     {
       "ID": "10",
       "SetID": "6bgoh8g",
       "Name": "Masquerade",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "11",
@@ -1577,23 +1582,23 @@
       "Name": "Final questions",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "12",
       "SetID": "6bgoh8g",
       "Name": "Time to rob a bank!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "13",
       "SetID": "6bgoh8g",
       "Name": "A leap of faith to be sure!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "14",
@@ -1623,9 +1628,9 @@
       "ID": "17",
       "SetID": "6bgoh8g",
       "Name": "Master Chess",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "18",
@@ -1639,9 +1644,9 @@
       "ID": "19",
       "SetID": "6bgoh8g",
       "Name": "I am speed",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "2",
@@ -1649,7 +1654,7 @@
       "Name": "I do not like your face, Mr Ratchett",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 119
     },
     {
       "ID": "20",
@@ -1671,9 +1676,9 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "23",
@@ -1681,31 +1686,31 @@
       "Name": "He is the doctor you\u0027re looking for",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "24",
       "SetID": "6bgoh8g",
       "Name": "Just like a police lineup",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 47
     },
     {
       "ID": "25",
       "SetID": "6bgoh8g",
       "Name": "Cheater!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "26",
       "SetID": "6bgoh8g",
       "Name": "The only useful pigeon is a stool pigeon",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 68
     },
     {
       "ID": "27",
@@ -1713,23 +1718,23 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "3",
       "SetID": "6bgoh8g",
       "Name": "It was not in the book",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 85
     },
     {
       "ID": "4",
       "SetID": "6bgoh8g",
       "Name": "A simple mistake leads to grave consequences",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "5",
@@ -1737,31 +1742,31 @@
       "Name": "The power of observation",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "6",
       "SetID": "6bgoh8g",
       "Name": "A true detective",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "7",
       "SetID": "6bgoh8g",
       "Name": "It\u0027s all coming together",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "8",
       "SetID": "6bgoh8g",
       "Name": "You\u0027re probably wondering how I got here...",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "9",
@@ -1769,21 +1774,21 @@
       "Name": "Encore!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 412,
+      "Progressed": 424,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:55.2823307+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:22.3078459+00:00",
   "LastUpdate_AppInfo": "2024-05-09T16:57:36.2193816+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:30.441776+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:55.2823551+00:00"
+  "LastUpdate_Ratings": "2024-05-13T20:00:13.6094671+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:22.3078692+00:00"
 }

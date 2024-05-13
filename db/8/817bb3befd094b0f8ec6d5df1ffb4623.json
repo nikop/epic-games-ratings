@@ -2,10 +2,10 @@
   "ID": "817bb3befd094b0f8ec6d5df1ffb4623",
   "Name": "1001 Jigsaw. World Tour: London",
   "ProductSlug": "1001-jigsaw-world-tour-london-06dba1",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-12-06T21:00:00+00:00",
     "PcReleaseDate": "2019-02-04T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T19:57:15.5586898+00:00",
   "LastUpdate_AppInfo": "2024-05-09T18:56:52.8014206+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:00.6105349+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:59:48.2191236+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:07.0808426+00:00"
 }

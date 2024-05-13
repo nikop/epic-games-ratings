@@ -2,10 +2,10 @@
   "ID": "58c551d60fa348e899b68bbc6381ea42",
   "Name": "Rainbow Pixel - Color by Number",
   "ProductSlug": "rainbow-pixel-color-by-number-462613",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-01-29T21:00:00+00:00",
     "PcReleaseDate": "2019-09-30T21:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2024-03-10T12:57:56.3468858+00:00",
   "LastUpdate_AppInfo": "2024-05-08T17:57:22.0193468+00:00",
   "LastUpdate_Ratings": "2024-05-13T19:00:19.8693531+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:58.9697998+00:00"
+  "LastUpdate_Achievements": "2024-05-13T20:05:25.5436667+00:00"
 }

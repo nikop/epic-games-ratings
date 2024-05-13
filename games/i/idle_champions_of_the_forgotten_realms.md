@@ -566,7 +566,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Gnome in the Mortuary | 0.10% | ~230 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 263,266 (Ranked 74)  
-Completed: 2,858 (1.09%) (Ranked 200)  
+Completed: 2,858 (1.09%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

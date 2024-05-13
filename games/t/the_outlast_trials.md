@@ -34,19 +34,19 @@ Rating: 4.65 (Ranked 346)
 | Sleight of Hand | 4.00% | ~862 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,555 (Ranked 171)  
-Completed: 339 (1.57%) (Ranked 169)  
+Completed: 339 (1.57%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 15,097 | 291 |
 | 2024-04-10 | 21,555 | 339 |
 ## Awards
-Max (Great for Beginners): 580  (Ranked 229)  
-Sum: 3,069 (Ranked 198)  
+Max (Great for Beginners): 582  (Ranked 229)  
+Sum: 3,071 (Ranked 198)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 580 |
+| This game is Great for Beginners | 582 |
 | This game has Diverse Characters | 472 |
 | This game is Highly Recommended | 427 |
 | This game is Extremely Fun | 417 |
@@ -404,4 +404,4 @@ Diff (max vs sum): 31
 | 2024-05-10 | 4.65 | 577 | 3,042 |
 | 2024-05-11 | 4.65 | 577 | 3,055 |
 | 2024-05-12 | 4.65 | 580 | 3,063 |
-| 2024-05-13 | 4.65 | 580 | 3,069 |
+| 2024-05-13 | 4.65 | 582 | 3,071 |

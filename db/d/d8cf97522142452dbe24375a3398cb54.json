@@ -2,10 +2,10 @@
   "ID": "d8cf97522142452dbe24375a3398cb54",
   "Name": "Elven Rivers. The Forgotten Lands Collector\u0027s Edition",
   "ProductSlug": "elven-rivers-the-forgotten-lands-collectors-edition-13f068",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-05-31T18:00:00+00:00",
     "PcReleaseDate": "2023-03-01T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-24T07:57:21.005052+00:00",
   "LastUpdate_AppInfo": "2024-05-10T21:56:52.9726249+00:00",
-  "LastUpdate_Ratings": "2024-05-13T17:58:59.9761337+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:57:09.9609134+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:32.7645117+00:00"
 }

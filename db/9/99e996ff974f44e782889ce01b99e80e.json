@@ -2,10 +2,10 @@
   "ID": "99e996ff974f44e782889ce01b99e80e",
   "Name": "Cat Lovescapes",
   "ProductSlug": "cat-lovescapes-4ad779",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-03-22T23:00:00+00:00",
     "PcReleaseDate": "2022-06-19T22:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-31T08:58:15.2618554+00:00",
   "LastUpdate_AppInfo": "2024-05-09T11:57:13.714974+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:00:10.8626287+00:00",
+  "LastUpdate_Ratings": "2024-05-13T19:58:24.6600751+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:02.0209148+00:00"
 }

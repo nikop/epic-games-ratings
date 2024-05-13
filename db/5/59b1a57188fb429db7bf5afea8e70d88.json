@@ -2,10 +2,10 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 648,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 640,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 52,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -254,6 +254,11 @@
       "Time": "2024-03-21T17:08:21.6906721+00:00",
       "NumProgressed": 52,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-05-13T20:05:12.3006786+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T15:02:12.9396867+00:00",
@@ -264,7 +269,7 @@
       "ID": "A_PATH_TO_SAFETY_ACH",
       "SetID": "7jaf9il",
       "Name": "A Patch to Safety",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -272,15 +277,15 @@
       "ID": "CATCHING_UP_ACH",
       "SetID": "7jaf9il",
       "Name": "Catching Up",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "COMBAT_EVOLUTION_ACH",
       "SetID": "7jaf9il",
       "Name": "Combat Evolution",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -298,7 +303,7 @@
       "Name": "Dino Chow",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DINO_HUNTER_ACH",
@@ -320,9 +325,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -336,9 +341,9 @@
       "ID": "HORRIFIC_BEYOND_BELIEF_ACH",
       "SetID": "7jaf9il",
       "Name": "Horrific Beyond Belief",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "IMPORTANT_FUEL_ACH",
@@ -376,9 +381,9 @@
       "ID": "MAKING_FRIENDS_ACH",
       "SetID": "7jaf9il",
       "Name": "Making Friends",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "QUITE_THE_CRISIS_ACH",
@@ -400,9 +405,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -416,17 +421,17 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
@@ -465,14 +470,14 @@
     {
       "ID": "7jaf9il",
       "IsBase": true,
-      "Progressed": 52,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:44.2931586+00:00",
+  "LastChanged_Achievements": "2024-05-13T20:05:12.3006783+00:00",
   "LastUpdate_AppInfo": "2024-05-09T15:57:04.3343241+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:31.3127552+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:44.2931975+00:00"
+  "LastUpdate_Ratings": "2024-05-13T20:00:14.2331653+00:00",
+  "LastUpdate_Achievements": "2024-05-13T20:05:12.3006967+00:00"
 }

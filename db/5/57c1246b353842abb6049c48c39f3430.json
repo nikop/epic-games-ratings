@@ -2,10 +2,10 @@
   "ID": "57c1246b353842abb6049c48c39f3430",
   "Name": "Plants vs. Zombies\u2122: BFN Deluxe Edition",
   "ProductSlug": "plants-vs-zombies-bfn-deluxe-edition-80d6cb",
-  "Ranking_EOS_Progress": 985,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 987,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-05-09T20:00:00+00:00",
     "PcReleaseDate": "2019-10-16T21:30:00+00:00",
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-12T13:02:54.2996314+00:00",
   "LastUpdate_AppInfo": "2024-05-09T20:56:54.8032736+00:00",
-  "LastUpdate_Ratings": "2024-05-13T18:58:32.6603159+00:00"
+  "LastUpdate_Ratings": "2024-05-13T20:00:15.4562958+00:00"
 }

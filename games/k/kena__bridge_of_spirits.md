@@ -49,7 +49,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Master Spirit Guide | 0.30% | ~1,295 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 431,545 (Ranked 55)  
-Completed: 574 (0.13%) (Ranked 342)  
+Completed: 574 (0.13%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,7 +336,7 @@ Completed: 574 (0.13%) (Ranked 342)
 | 2024-04-10 | 431,545 | 574 |
 ## Awards
 Max (Great Boss Battles): 1,380  (Ranked 148)  
-Sum: 1,752 (Ranked 246)  
+Sum: 1,753 (Ranked 246)  
 Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): -98
 | This game has Amazing Storytelling | 43 |
 | This game has Amazing Characters | 42 |
 | This game is Extremely Fun | 40 |
-| This game has Challenging Combat | 39 |
+| This game has Challenging Combat | 40 |
 | This game has Quickly Understood Controls | 37 |
 | This game has Beautiful Visuals | 37 |
 | This game has Diverse Characters | 34 |
@@ -535,3 +535,4 @@ Diff (max vs sum): -98
 | 2024-05-08 | 4.70 | - | 1,378 | 1,748 |
 | 2024-05-11 | 4.70 | - | 1,379 | 1,751 |
 | 2024-05-12 | 4.70 | - | 1,380 | 1,752 |
+| 2024-05-13 | 4.70 | - | 1,380 | 1,753 |

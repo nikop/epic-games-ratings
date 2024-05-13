@@ -2,10 +2,10 @@
   "ID": "d41f47180bb94a70b3d05a31ebe89b7d",
   "Name": "Far Horizon",
   "ProductSlug": "far-horizon-dd7069",
-  "Ranking_EOS_Progress": 550,
-  "Ranking_EOS_Completed": 455,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Completed": 458,
+  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2024-03-11T11:00:00+00:00",
     "PcReleaseDate": "2024-03-11T11:00:00+00:00",
@@ -498,7 +498,7 @@
   "FirstSeen": "2024-03-12T01:40:09.4844814+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:15.9872166+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:47.6997862+00:00",
-  "LastUpdate_AppInfo": "2024-05-06T18:57:09.4505702+00:00",
+  "LastUpdate_AppInfo": "2024-05-13T19:57:07.49216+00:00",
   "LastUpdate_Ratings": "2024-05-13T18:59:32.7927777+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:47.6998193+00:00"
 }

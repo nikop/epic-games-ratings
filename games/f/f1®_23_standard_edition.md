@@ -56,7 +56,7 @@ Rating: 4.61 (Ranked 427)
 | Elite Racer | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,009 (Ranked 174)  
-Completed: 0 (0.00%) (Ranked 455)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,20 +196,20 @@ Completed: 0 (0.00%) (Ranked 455)
 | 2024-03-21 | 20,681 | 0 |
 | 2024-04-10 | 21,009 | 0 |
 ## Awards
-Max (Diverse Characters): 202  (Ranked 330)  
-Sum: 1,141 (Ranked 284)  
-Diff (max vs sum): 46  
+Max (Diverse Characters): 205  (Ranked 329)  
+Sum: 1,147 (Ranked 284)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 202 |
+| This game has Diverse Characters | 205 |
 | This game is Highly Recommended | 158 |
-| This game has a Competitive Community | 154 |
+| This game has a Competitive Community | 156 |
 | This game has Amazing Characters | 128 |
 | This game is Extremely Fun | 108 |
 | This game has Amazing Storytelling | 106 |
 | This game has Competitive Players | 96 |
+| This game has Quickly Understood Controls | 95 |
 | This game is Educational | 95 |
-| This game has Quickly Understood Controls | 94 |
 | This game has Challenging Combat | 92 |
 | This game is Great for Beginners | 36 |
 | This game is Great for Quick Sessions | 24 |
@@ -458,3 +458,4 @@ Diff (max vs sum): 46
 | 2024-05-10 | 4.61 | 200 | 1,131 |
 | 2024-05-11 | 4.61 | 202 | 1,139 |
 | 2024-05-12 | 4.61 | 202 | 1,141 |
+| 2024-05-13 | 4.61 | 205 | 1,147 |

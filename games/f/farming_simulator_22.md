@@ -51,7 +51,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Raisin the stakes | 0.30% | ~216 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 71,846 (Ranked 128)  
-Completed: 9 (0.01%) (Ranked 431)  
+Completed: 9 (0.01%) (Ranked 433)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,15 +338,15 @@ Completed: 9 (0.01%) (Ranked 431)
 | 2024-04-10 | 71,846 | 9 |
 ## Awards
 Max (Great for Beginners): 7,275  (Ranked 66)  
-Sum: 51,337 (Ranked 34)  
+Sum: 51,346 (Ranked 34)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 7,275 |
 | This game has Diverse Characters | 5,813 |
 | This game is Highly Recommended | 5,104 |
-| This game is Educational | 5,020 |
-| This game is Extremely Fun | 4,809 |
+| This game is Educational | 5,024 |
+| This game is Extremely Fun | 4,814 |
 | This game is Relaxing | 4,794 |
 | This game has Quickly Understood Controls | 4,763 |
 | This game has Amazing Storytelling | 4,726 |
@@ -839,4 +839,4 @@ Diff (max vs sum): 32
 | 2024-05-10 | 4.66 | - | 7,252 | 51,228 |
 | 2024-05-11 | 4.66 | - | 7,266 | 51,273 |
 | 2024-05-12 | 4.66 | - | 7,275 | 51,318 |
-| 2024-05-13 | 4.66 | - | 7,275 | 51,337 |
+| 2024-05-13 | 4.66 | - | 7,275 | 51,346 |

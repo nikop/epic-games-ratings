@@ -1,7 +1,7 @@
 # The Bridge
 [Store](https://store.epicgames.com/en-US/p/the-bridge)  
 [View Rawdata](../../db/t/the_bridge.json)  
-Rating: 4.12 (Ranked 1,082)  
+Rating: 4.13 (Ranked 1,080)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,7 +27,7 @@ Rating: 4.12 (Ranked 1,082)
 | Garden-Inverter | 0.10% | ~149 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149,110 (Ranked 99)  
-Completed: 146 (0.10%) (Ranked 357)  
+Completed: 146 (0.10%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,3 +68,4 @@ Completed: 146 (0.10%) (Ranked 357)
 | 2024-05-04 | 4.13 | 0 | 0 |
 | 2024-05-06 | 4.14 | 0 | 0 |
 | 2024-05-08 | 4.12 | 0 | 0 |
+| 2024-05-13 | 4.13 | 0 | 0 |

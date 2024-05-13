@@ -28,8 +28,8 @@
 | Speed Strats | 8.00% | ~1 |
 | Done Quick | 8.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 772)  
-Completed: 0 (0.00%) (Ranked 455)  
+Progressed: 13 (Ranked 775)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

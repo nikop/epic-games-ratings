@@ -44,7 +44,7 @@ Number of Ratings: 24  (23.09.2022)
 | Lock Jaw Girl | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 514,787 (Ranked 45)  
-Completed: 0 (0.00%) (Ranked 455)  
+Completed: 0 (0.00%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

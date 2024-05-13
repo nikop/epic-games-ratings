@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 1,032)
 | Treasure Hunter | 0.80% | ~33 |
 | Fowl Play | 0.40% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,112 (Ranked 244)  
-Completed: 7 (0.17%) (Ranked 331)  
+Progressed: 4,112 (Ranked 246)  
+Completed: 7 (0.17%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
