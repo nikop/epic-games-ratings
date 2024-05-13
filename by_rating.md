@@ -354,7 +354,7 @@
 | 346 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 639 |
 | 346 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 240 | 308 |
 | 346 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 62 | 477 |
-| 346 | [Old World](games/o/old_world.md) | 4.65 | 244 | 304 |
+| 346 | [Old World](games/o/old_world.md) | 4.65 | 245 | 304 |
 | 346 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,202 | 159 |
 | 346 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 62 | 477 |
 | 346 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 464 |
@@ -446,7 +446,7 @@
 | 427 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,136 | 163 |
 | 427 | [Supraland](games/s/supraland.md) | 4.61 | 7,864 | 64 |
 | 427 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 603 | 225 |
-| 427 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 418 | 255 |
+| 427 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 419 | 255 |
 | 427 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 427 |
 | 427 | [Warframe](games/w/warframe.md) | 4.61 | 23,791 | 24 |
 | 427 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 856 | 195 |
@@ -548,6 +548,7 @@
 | 543 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,090 | 169 |
 | 543 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 3,156 | 107 |
 | 543 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 104 | 408 |
+| 543 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 42 | 527 |
 | 543 | [Horace](games/h/horace.md) | 4.56 | 0 | 639 |
 | 543 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,756 | 91 |
 | 543 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 9,579 | 52 |
@@ -556,25 +557,24 @@
 | 543 | [Returnal™](games/r/returnal™.md) | 4.56 | 221 | 318 |
 | 543 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,807 | 139 |
 | 543 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,082 | 78 |
-| 557 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 639 |
-| 557 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 383 | 262 |
-| 557 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 620 |
-| 557 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 586 |
-| 557 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,260 | 122 |
-| 557 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 639 |
-| 557 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.55 | 42 | 527 |
-| 557 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 218 | 321 |
-| 557 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.55 | 0 | 639 |
-| 557 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 244 | 304 |
-| 557 | [Little Inferno](games/l/little_inferno.md) | 4.55 | 0 | 639 |
-| 557 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,456 | 119 |
-| 557 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 36 | 545 |
-| 557 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 639 |
-| 557 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 95 | 426 |
-| 557 | [RiME](games/r/rime.md) | 4.55 | 0 | 639 |
-| 557 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 102 | 414 |
-| 557 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.55 | 0 | 639 |
-| 557 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,602 | 144 |
+| 558 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 639 |
+| 558 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 383 | 262 |
+| 558 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 620 |
+| 558 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 586 |
+| 558 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,260 | 122 |
+| 558 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 639 |
+| 558 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 218 | 321 |
+| 558 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.55 | 0 | 639 |
+| 558 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 244 | 305 |
+| 558 | [Little Inferno](games/l/little_inferno.md) | 4.55 | 0 | 639 |
+| 558 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,459 | 119 |
+| 558 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 36 | 545 |
+| 558 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 639 |
+| 558 | [RAILGRADE](games/r/railgrade.md) | 4.55 | 95 | 426 |
+| 558 | [RiME](games/r/rime.md) | 4.55 | 0 | 639 |
+| 558 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.55 | 102 | 414 |
+| 558 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.55 | 0 | 639 |
+| 558 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,602 | 144 |
 | 576 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.54 | 0 | 639 |
 | 576 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 639 |
 | 576 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 639 |
