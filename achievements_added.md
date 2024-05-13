@@ -58,7 +58,7 @@
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | 14 (1,000 XP) | 240 | - | 0 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 514,787 | 4.53 | 88 |
 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | 20 (1,000 XP) | 6,008 | 4.16 | 27 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.80 | 287 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.80 | 294 |
 | [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 602 | 4.70 | 0 |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 18 | - | 0 |
 | [Not Another Weekend](games/0/0de089d70ff5482285814bb5df921541.md) | 2024-01-23 | 37 (1,000 XP) | 2 | - | 0 |
@@ -230,7 +230,7 @@
 | [Quiz Time](games/3/3a4eb3f9b5b34db6aeed3a636c4fd154.md) | 2023-12-05 | 5 (1,000 XP) | 11 | - | 0 |
 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 2023-12-04 | 5 (1,000 XP) | 17 | - | 0 |
 | [SteamWorld Build](games/s/steamworld_build.md) | 2023-12-01 | 28 (1,000 XP) | 307 | - | 0 |
-| [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.54 | 39 |
+| [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.53 | 39 |
 | [Funtoon's World](games/a/a7ec33941949459cab07e39c65ca4309.md) | 2023-12-07 | 6 (1,000 XP) | 14 | - | 0 |
 | [Balloon Strike](games/5/524a7bde223b442d9e006c9891b5d702.md) | 2023-12-01 | 5 (1,000 XP) | 7 | - | - |
 | [Math Fun](games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 2023-12-02 | 5 (1,000 XP) | 15 | - | 0 |

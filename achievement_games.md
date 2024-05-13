@@ -85,7 +85,7 @@
 | [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-22 | 14 (1,000 XP) | 1 | - | 0 |
 | [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-21 | 23 (1,000 XP) | 62 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 14 | - | 0 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.80 | 287 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.80 | 294 |
 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 7,918 | 4.42 | 0 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | 0 |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 6 | - | 0 |
@@ -550,7 +550,7 @@
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 22 (1,000 XP) | 313 | - | 0 |
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 175 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | 0 |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 935,956 | 4.67 | 11,515 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 935,956 | 4.67 | 11,633 |
 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,342,128 | 4.33 | 124 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 608 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 17 | - | 0 |
@@ -823,7 +823,7 @@
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.27 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,821 | 4.77 | 1,347 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 755,320 | 4.19 | 455 |
-| [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.54 | 39 |
+| [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.53 | 39 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 246,545 | 4.58 | 1,528 |
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 2022-08-23 | 19 (1,000 XP) | 408 | - | 0 |
@@ -924,7 +924,7 @@
 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 2022-02-10 | 35 (1,000 XP) | 567,949 | 4.62 | 474 |
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 11,556 | - | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 175 | - | 0 |
-| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 770,707 | 4.82 | 7,811 |
+| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 770,707 | 4.82 | 7,815 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,052,209 | 4.58 | 16,495 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 250 | 4.68 | 53 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,558 |
@@ -959,7 +959,7 @@
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,097 | 4.43 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,637,769 | 4.65 | 1,202 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 162,195 | 4.47 | 22 |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 542,311 | 4.68 | 9,402 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 363 (5,330 XP) | 542,311 | 4.68 | 9,413 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 27,960 | 4.28 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 6,024 | 4.43 | 36 |
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 121,207 | 4.54 | 33 |
