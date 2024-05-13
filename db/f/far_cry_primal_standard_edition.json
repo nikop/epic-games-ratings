@@ -2,7 +2,7 @@
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
-  "Ranking_Rating": 211,
+  "Ranking_Rating": 225,
   "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 985,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 463,
   "RatingHistory": [
     {
@@ -2849,10 +2849,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 1065,
       "NumberOfAwardsMax": 690
+    },
+    {
+      "Time": "2024-05-13T17:01:54.6429877+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1066,
+      "NumberOfAwardsMax": 690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1065,
+  "NumberOfAwards": 1066,
   "NumberOfAwardsMax": 690,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2902,7 +2908,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2928,8 +2934,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2024-05-11T18:59:32.9120248+00:00",
+  "LastChanged": "2024-05-13T17:01:54.6429875+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:17.514938+00:00",
-  "LastUpdate_Ratings": "2024-05-13T15:59:32.6290082+00:00",
+  "LastUpdate_Ratings": "2024-05-13T17:01:54.6429881+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:50.6741631+00:00"
 }

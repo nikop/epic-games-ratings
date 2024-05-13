@@ -3,7 +3,7 @@
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 576,
-  "Ranking_Popularity": 168,
+  "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 985,
   "Ranking_EOS_Completed": 455,
@@ -6714,24 +6714,30 @@
       "Rating": 4.54,
       "NumberOfAwards": 4830,
       "NumberOfAwardsMax": 1098
+    },
+    {
+      "Time": "2024-05-13T16:57:34.4275563+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 4834,
+      "NumberOfAwardsMax": 1100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4830,
-  "NumberOfAwardsMax": 1098,
+  "NumberOfAwards": 4834,
+  "NumberOfAwardsMax": 1100,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1098
+      "Count": 1100
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 861
+      "Count": 862
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6791,7 +6797,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 278
+      "Count": 279
     }
   ],
   "EOS_Progressed": 0,
@@ -6805,8 +6811,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-05-13T09:57:22.2789621+00:00",
+  "LastChanged": "2024-05-13T16:57:34.4275561+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:14.0685427+00:00",
-  "LastUpdate_Ratings": "2024-05-13T13:59:05.6213922+00:00",
+  "LastUpdate_Ratings": "2024-05-13T16:57:34.4275567+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:57.0259984+00:00"
 }
