@@ -4,13 +4,13 @@
 Rating: 3.95 (Ranked 1,135)  
 ## Awards
 Max (Highly Recommended): 115  (Ranked 398)  
-Sum: 870 (Ranked 308)  
-Diff (max vs sum): 90  
+Sum: 873 (Ranked 307)  
+Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 115 |
+| This game has Realistic Visuals | 101 |
 | This game is Relaxing | 99 |
-| This game has Realistic Visuals | 98 |
 | This game is Extremely Fun | 98 |
 | This game has Competitive Players | 95 |
 | This game has Amazing Storytelling | 95 |
@@ -186,3 +186,4 @@ Diff (max vs sum): 90
 | 2024-05-10 | 3.95 | 114 | 865 |
 | 2024-05-11 | 3.95 | 114 | 866 |
 | 2024-05-12 | 3.95 | 115 | 870 |
+| 2024-05-13 | 3.95 | 115 | 873 |
