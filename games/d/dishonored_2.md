@@ -1,7 +1,7 @@
 # Dishonored 2
 [Store](https://store.epicgames.com/en-US/p/dishonored-2)  
 [View Rawdata](../../db/d/dishonored_2.json)  
-Rating: 4.77 (Ranked 124)  
+Rating: 4.77 (Ranked 125)  
 ## Awards
 Max (Great Boss Battles): 1,010  (Ranked 179)  
 Sum: 1,836 (Ranked 240)  

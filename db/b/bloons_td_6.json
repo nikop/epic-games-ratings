@@ -2,7 +2,7 @@
   "ID": "6a8dfa6e441e4f2f9048a98776c6077d",
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
-  "Ranking_Rating": 124,
+  "Ranking_Rating": 125,
   "Ranking_Popularity": 41,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 985,
@@ -18307,10 +18307,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 65030,
       "NumberOfAwardsMax": 12377
+    },
+    {
+      "Time": "2024-05-13T01:48:46.3625577+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 65044,
+      "NumberOfAwardsMax": 12377
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65030,
+  "NumberOfAwards": 65044,
   "NumberOfAwardsMax": 12377,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -18348,7 +18354,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 6722
+      "Count": 6736
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18405,8 +18411,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2024-05-12T18:58:47.4393551+00:00",
+  "LastChanged": "2024-05-13T01:48:46.3625575+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:51.4463774+00:00",
-  "LastUpdate_Ratings": "2024-05-12T23:57:11.6821437+00:00",
+  "LastUpdate_Ratings": "2024-05-13T01:48:46.3625582+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:35.2100042+00:00"
 }
