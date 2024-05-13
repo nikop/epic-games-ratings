@@ -95,7 +95,7 @@
 | 81 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.81 | 31 | 570 |
 | 81 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 639 |
 | 81 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.81 | 104 | 408 |
-| 96 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 1,041 | 175 |
+| 96 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.80 | 1,045 | 175 |
 | 96 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.80 | 61 | 480 |
 | 96 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.80 | 1,811 | 138 |
 | 96 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,541 | 71 |
@@ -459,7 +459,7 @@
 | 452 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 93 | 428 |
 | 452 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 639 |
 | 452 | [DOOM 3](games/d/doom_3.md) | 4.60 | 73 | 460 |
-| 452 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 16,595 | 29 |
+| 452 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 16,643 | 29 |
 | 452 | [GRIME](games/g/grime.md) | 4.60 | 80 | 445 |
 | 452 | [GRIT](games/g/grit.md) | 4.60 | 0 | 639 |
 | 452 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 639 |
@@ -514,7 +514,7 @@
 | 491 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 333 | 276 |
 | 491 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 218 | 321 |
 | 491 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.58 | 31 | 570 |
-| 491 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 7,027 | 69 |
+| 491 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 7,031 | 69 |
 | 491 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 740 | 204 |
 | 491 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 144 | 369 |
 | 491 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,873 | 33 |
@@ -546,7 +546,7 @@
 | 543 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 54 | 496 |
 | 543 | [Duskers](games/d/duskers.md) | 4.56 | 0 | 639 |
 | 543 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,090 | 169 |
-| 543 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 3,156 | 107 |
+| 543 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 3,173 | 107 |
 | 543 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 104 | 408 |
 | 543 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 42 | 528 |
 | 543 | [Horace](games/h/horace.md) | 4.56 | 0 | 639 |
@@ -812,7 +812,7 @@
 | 803 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,303 | 121 |
 | 803 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 73 | 460 |
 | 803 | [Sheltered](games/s/sheltered.md) | 4.41 | 288 | 290 |
-| 803 | [SMITE](games/s/smite.md) | 4.41 | 5,704 | 82 |
+| 803 | [SMITE](games/s/smite.md) | 4.41 | 5,713 | 82 |
 | 803 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 0 | 639 |
 | 803 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 639 |
 | 803 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,138 | 124 |
@@ -966,34 +966,34 @@
 | 953 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 131 | 379 |
 | 953 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 639 |
 | 953 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 354 |
-| 967 | [Circus Electrique](games/c/circus_electrique.md) | 4.27 | 0 | 639 |
 | 967 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.27 | 22 | 620 |
 | 967 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 639 |
 | 967 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.27 | 0 | 639 |
 | 967 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.27 | 40 | 534 |
 | 967 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 639 |
-| 973 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.26 | 0 | 639 |
-| 973 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 130 | 380 |
-| 973 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,192 | 22 |
-| 973 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.26 | 67 | 469 |
-| 973 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 639 |
-| 973 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 657 | 216 |
-| 973 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 24 | 611 |
-| 973 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 639 |
-| 973 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,143 | 108 |
-| 973 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 35 | 551 |
-| 973 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 639 |
-| 973 | [Startup Panic](games/s/startup_panic.md) | 4.26 | 0 | 639 |
-| 973 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 639 |
-| 973 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.26 | 0 | 639 |
-| 973 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 287 |
-| 988 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 620 |
-| 988 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 639 |
-| 988 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 639 |
-| 988 | [Predecessor](games/p/predecessor.md) | 4.25 | 585 | 228 |
-| 988 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 639 |
-| 988 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 639 |
-| 988 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 606 |
+| 972 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.26 | 0 | 639 |
+| 972 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 130 | 380 |
+| 972 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,192 | 22 |
+| 972 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.26 | 67 | 469 |
+| 972 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 639 |
+| 972 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 658 | 216 |
+| 972 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 24 | 611 |
+| 972 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.26 | 0 | 639 |
+| 972 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,143 | 108 |
+| 972 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 35 | 551 |
+| 972 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 639 |
+| 972 | [Startup Panic](games/s/startup_panic.md) | 4.26 | 0 | 639 |
+| 972 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.26 | 0 | 639 |
+| 972 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.26 | 0 | 639 |
+| 972 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 287 |
+| 987 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 639 |
+| 987 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 620 |
+| 987 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 639 |
+| 987 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 639 |
+| 987 | [Predecessor](games/p/predecessor.md) | 4.25 | 585 | 228 |
+| 987 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 639 |
+| 987 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 639 |
+| 987 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 606 |
 | 995 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 639 |
 | 995 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 555 |
 | 995 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 639 |

@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Truth](games/8/85fd2cbfd42d42658bec86047c19993c.md) | 2024-05-13 | - |  | - | - |
 | [Fabledom](games/7/777bdd3852e549bba87e873475cc62da.md) | 2024-05-13 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | - |  | - | - |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 1 | - | - |
