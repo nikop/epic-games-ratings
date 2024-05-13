@@ -55,7 +55,7 @@
 | 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,134 | 32 |
 | 48 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 57 | 487 |
 | 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 234 | 312 |
-| 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 241 | 307 |
+| 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 241 | 308 |
 | 48 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 639 |
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 639 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,228 | 68 |
@@ -71,7 +71,7 @@
 | 58 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.83 | 0 | 639 |
 | 58 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 528 |
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 488 | 241 |
-| 71 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 240 | 308 |
+| 71 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 240 | 309 |
 | 71 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 545 |
 | 71 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,897 | 133 |
 | 71 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 639 |
@@ -129,7 +129,7 @@
 | 125 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,377 | 41 |
 | 125 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,010 | 179 |
 | 125 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,347 | 149 |
-| 125 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,558 | 40 |
+| 125 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,566 | 40 |
 | 125 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 639 |
 | 125 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.77 | 0 | 639 |
 | 125 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 639 |
@@ -352,7 +352,7 @@
 | 346 | [Dungeons 3](games/d/dungeons_3.md) | 4.65 | 429 | 253 |
 | 346 | [Fuga: Melodies of Steel](games/f/fuga__melodies_of_steel.md) | 4.65 | 0 | 639 |
 | 346 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 639 |
-| 346 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 240 | 308 |
+| 346 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 242 | 307 |
 | 346 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 62 | 477 |
 | 346 | [Old World](games/o/old_world.md) | 4.65 | 245 | 304 |
 | 346 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,202 | 159 |
@@ -1014,7 +1014,7 @@
 | 1,012 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 639 |
 | 1,012 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 208 | 327 |
 | 1,012 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 639 |
-| 1,012 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 924 | 190 |
+| 1,012 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 926 | 189 |
 | 1,012 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.22 | 0 | 639 |
 | 1,012 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 174 | 352 |
 | 1,012 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.22 | 0 | 639 |
@@ -1160,11 +1160,11 @@
 | 1,158 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.82 | 0 | 639 |
 | 1,158 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.82 | 0 | 639 |
 | 1,160 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 3.80 | 0 | 639 |
+| 1,160 | [INDUSTRIA](games/i/industria.md) | 3.80 | 0 | 639 |
 | 1,160 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.80 | 0 | 639 |
-| 1,162 | [INDUSTRIA](games/i/industria.md) | 3.79 | 0 | 639 |
-| 1,162 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 639 |
-| 1,162 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.79 | 0 | 639 |
-| 1,162 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.79 | 0 | 639 |
+| 1,163 | [Spelldrifter](games/s/spelldrifter.md) | 3.79 | 0 | 639 |
+| 1,163 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 3.79 | 0 | 639 |
+| 1,163 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.79 | 0 | 639 |
 | 1,166 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 639 |
 | 1,167 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.73 | 0 | 639 |
 | 1,167 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.73 | 0 | 639 |
