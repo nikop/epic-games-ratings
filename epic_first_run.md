@@ -8,7 +8,7 @@
 | [JudgeSim](games/7/7ec64dbd5e634886915c1e9cf35f4d78.md) | 2024-06-30 | - |  | - | - |
 | [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
-| [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 3 | - | - |
+| [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 24 | - | - |
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |
 | [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 2024-04-10 | 5 (1,000 XP) | 3 | - | - |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |

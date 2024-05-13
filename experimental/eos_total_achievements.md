@@ -381,8 +381,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
 | [Horizon Chase Turbo](../games/h/horizon_chase_turbo.md) | 37 | 1,000 |
@@ -472,6 +472,7 @@
 | [Motorbike Evolution 2024](../games/e/e278531bc44245d29329e60389bd04ad.md) | 33 | 1,000 |
 | [My Lovely Wife](../games/m/my_lovely_wife.md) | 33 | 1,000 |
 | [NHRA Championship Drag Racing - Speed For All](../games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 33 | 1,000 |
+| [Rising Mist](../games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 33 | 1,000 |
 | [Sidecar Evolution 2024](../games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 33 | 1,000 |
 | [Touch Type Tale](../games/t/touch_type_tale.md) | 33 | 1,000 |
 | [ACL Pro Cornhole](../games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 32 | 1,000 |
@@ -886,6 +887,7 @@
 | [Choice Clash: What Would you Rather?](../games/0/0f16806f667f49bba9d15a208ebf639c.md) | 14 | 1,000 |
 | [Crimson Spires](../games/c/crimson_spires.md) | 14 | 1,000 |
 | [Daydream. Forgotten Sorrow](../games/7/7b8963f6857041fd97a4a23845eb113d.md) | 14 | 1,000 |
+| [Doodle Kingdom](../games/5/57516fb42c924c54be764afa7d006718.md) | 14 | 1,000 |
 | [Entomophobia](../games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 14 | 1,000 |
 | [Ex Natura Nature Corrupted](../games/4/4fad42879d3643a0a295ad012fed973d.md) | 14 | 1,000 |
 | [Golfing in Aether](../games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 14 | 1,000 |
@@ -1009,6 +1011,7 @@
 | [Trash Troopers Earth Reclaim](../games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 8 | 1,000 |
 | [CHUCHEL](../games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 7 | 1,000 |
 | [Remains](../games/r/remains.md) | 7 | 1,000 |
+| [Sea of Dreams](../games/a/a7414e60172b4759a136d064018119c1.md) | 7 | 1,000 |
 | [Unlock The Cat](../games/0/06eff52201bd4e7d9db3e56a11ac4536.md) | 7 | 1,000 |
 | [Cat Slide Tiles](../games/3/344d0216bb1f4f5ca084a7a613478efa.md) | 6 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |

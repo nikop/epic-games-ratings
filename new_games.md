@@ -35,7 +35,7 @@
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | - |  | - | - |
 | [The Origin Theory - Episode One](games/2/272516e06b114390af92429cba34eb6a.md) | 2024-05-06 | - |  | - | - |
 | [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.93 | 0 |
-| [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 2 | - | 0 |
+| [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 15 | - | 0 |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Diamond Drone](games/5/5e307f50567c4f8fb0c187f0729bfd08.md) | 2024-05-05 | - |  | - | - |
 | [Quest Room](games/8/8b0f65a8a3c94a918eb954c2cac7102c.md) | 2024-05-03 | - |  | - | 0 |
@@ -51,11 +51,11 @@
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 2 | - | 0 |
 | [Undead Inc.](games/f/fe3316099db5422ebeb202e518942fa1.md) | 2024-05-02 | - |  | - | 0 |
 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | - |  | 4.71 | 45 |
-| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | - |  | 4.58 | 394 |
+| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | - |  | 4.57 | 394 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | - |  | - | 0 |
 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 2024-05-02 | - |  | - | - |
 | [Storm Warfare](games/a/a6cce5235d144efbb511ecb062b26013.md) | 2024-05-01 | - |  | - | 0 |
-| [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 3 | - | - |
+| [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 24 | - | - |
 | [FoxCode](games/8/80637b1991524bc1bbddadd39bde04a8.md) | 2024-04-30 | - |  | - | 0 |
 | [FRONT MISSION 2: Remake](games/e/e80b3a84fa574d44ace56f5ad69d71a1.md) | 2024-04-30 | - |  | - | 0 |
 | [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2024-04-30 | - |  | - | 0 |
@@ -63,7 +63,7 @@
 | [The Inner World](games/0/04f5224e17fe40fb8cf28205397643fe.md) | 2024-04-30 | - |  | - | 0 |
 | [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-04-30 | - |  | - | - |
-| [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | - |  | - | 0 |
+| [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | 14 (1,000 XP) | 7 | - | 0 |
 | [Dungeon Renovation Simulator](games/2/27dde2bf49304fc19badc32544a9105f.md) | 2024-04-30 | - |  | - | - |
 | [FusyFox](games/6/6308f89d537b47ea96dc02fb5a07518c.md) | 2024-04-30 | - |  | - | 0 |
 | [Goalgetter](games/7/7f3d1cc99606488c889a893f5b82762a.md) | 2024-04-30 | - |  | - | - |

@@ -311,6 +311,7 @@
 | [Don't Byte Your Tongue](../games/d/don't_byte_your_tongue.md) | 31 | 1,000 |
 | [Doodle Devil](../games/d/doodle_devil.md) | 9 | 1,000 |
 | [Doodle God](../games/d/doodle_god.md) | 22 | 1,000 |
+| [Doodle Kingdom](../games/5/57516fb42c924c54be764afa7d006718.md) | 14 | 1,000 |
 | [DotLine](../games/e/e582a1469e18401e8729827444ea2c8e.md) | 42 | 1,000 |
 | [Dreadful River](../games/0/01c515c1f28547ab8142678d107be081.md) | 110 | 1,000 |
 | [Dros](../games/a/a46cade12846436281c910ddc51411f3.md) | 40 | 1,000 |
@@ -670,8 +671,8 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Pepper Grinder](../games/p/pepper_grinder.md) | 23 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |
@@ -738,6 +739,7 @@
 | [Rise of Industry](../games/r/rise_of_industry.md) | 27 | 1,000 |
 | [Rise of the Third Power](../games/r/rise_of_the_third_power.md) | 21 | 1,000 |
 | [Risen](../games/r/risen.md) | 50 | 1,000 |
+| [Rising Mist](../games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 33 | 1,000 |
 | [River City Girls](../games/a/a02304688fb3406192a3491b4281bee7.md) | 28 | 1,000 |
 | [Riverbond](../games/r/riverbond.md) | 57 | 1,000 |
 | [Road 96](../games/r/road_96.md) | 12 | 1,000 |
@@ -769,6 +771,7 @@
 | [Scrapnaut](../games/s/scrapnaut.md) | 31 | 1,000 |
 | [Scribble It!](../games/d/dc989527f6684c218eb8f5992e85cfea.md) | 25 | 1,000 |
 | [Sea Horizon](../games/b/bcd479d96de045fa8805f2bf4962475e.md) | 17 | 1,000 |
+| [Sea of Dreams](../games/a/a7414e60172b4759a136d064018119c1.md) | 7 | 1,000 |
 | [SEASON®: A letter to the future](../games/s/season®__a_letter_to_the_future.md) | 16 | 1,000 |
 | [Seduction of beauty](../games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 44 | 1,000 |
 | [Serafina's Saga: Awakened](../games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 14 | 1,000 |
