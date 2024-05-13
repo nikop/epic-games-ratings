@@ -472,7 +472,7 @@
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 35 (1,200 XP) | 20,212 | 4.50 | 0 |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 341,926 | 4.71 | 9,464 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 55 (1,250 XP) | 341,926 | 4.70 | 9,464 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | 12 (1,000 XP) | 23 | - | 0 |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
@@ -683,7 +683,7 @@
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 2023-03-29 | 13 (1,000 XP) | 21,732 | 4.55 | 0 |
 | [Horse Tales - Emerald Valley Ranch](games/h/horse_tales_-_emerald_valley_ranch.md) | 2023-03-29 | 33 (1,000 XP) | 53 | - | 0 |
 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 41 (1,130 XP) | 94,894 | 3.97 | 712 |
-| [Touch Type Tale](games/t/touch_type_tale.md) | 2023-03-28 | 33 (1,000 XP) | 4,358 | 4.67 | 0 |
+| [Touch Type Tale](games/t/touch_type_tale.md) | 2023-03-28 | 33 (1,000 XP) | 4,358 | 4.68 | 0 |
 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2023-03-23 | 17 (1,440 XP) | 277 | - | 0 |
 | [Chess Ultra](games/c/chess_ultra.md) | 2023-03-23 | 38 (1,000 XP) | 238,349 | 4.28 | 0 |
 | [Quest of Dungeons](games/q/quest_of_dungeons.md) | 2023-03-23 | 25 (1,000 XP) | 72 | - | 0 |
@@ -716,7 +716,7 @@
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 17,904 | 4.53 | 28 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 5,553 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 735 | - | 0 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 403,634 | 4.74 | 38,014 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 403,634 | 4.74 | 38,053 |
 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 2023-02-03 | 70 (1,000 XP) | 225 | - | 0 |
 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 2023-02-02 | 33 (1,000 XP) | 64,100 | 4.15 | 0 |
 | [PERISH](games/p/perish.md) | 2023-02-02 | 63 (1,000 XP) | 4,423 | - | 0 |
