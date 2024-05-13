@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | - |  | - | 0 |
 | [The Land Beneath Us](games/c/c99e1a5d5bd5462d8fbaabf6951bbbdf.md) | 2024-05-13 | - |  | - | 0 |
-| [Fabledom](games/7/777bdd3852e549bba87e873475cc62da.md) | 2024-05-13 | - |  | - | - |
+| [Fabledom](games/7/777bdd3852e549bba87e873475cc62da.md) | 2024-05-13 | - |  | - | 0 |
 | [Truth](games/8/85fd2cbfd42d42658bec86047c19993c.md) | 2024-05-13 | - |  | - | - |
 | [Dofamine](games/d/dcedb432f689463e8ed0d004fb67c5ee.md) | 2024-05-12 | - |  | - | - |
 | [Truck](games/c/c33afcc65c264c81aa8e2537b7580690.md) | 2024-05-12 | - |  | - | - |
