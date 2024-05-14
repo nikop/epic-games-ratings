@@ -6,7 +6,7 @@
 | 4 | [Hades II](games/h/hades_ii.md) | 4.93 | 0 | 640 |
 | 4 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.93 | 0 | 640 |
 | 4 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 640 |
-| 7 | [Hades](games/h/hades.md) | 4.92 | 3,815 | 99 |
+| 7 | [Hades](games/h/hades.md) | 4.92 | 3,822 | 99 |
 | 8 | [Celeste](games/c/celeste.md) | 4.91 | 1,988 | 131 |
 | 8 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 640 |
 | 10 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 640 |
@@ -55,7 +55,7 @@
 | 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,138 | 32 |
 | 48 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 57 | 487 |
 | 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 234 | 312 |
-| 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 241 | 308 |
+| 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 242 | 307 |
 | 48 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 640 |
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 640 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,234 | 68 |
@@ -326,7 +326,7 @@
 | 323 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.66 | 65 | 473 |
 | 323 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 103 | 411 |
 | 323 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 313 | 280 |
-| 323 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,918 | 63 |
+| 323 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,928 | 63 |
 | 323 | [Crashlands](games/c/crashlands.md) | 4.66 | 202 | 332 |
 | 323 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 193 | 339 |
 | 323 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,320 | 150 |
@@ -491,7 +491,7 @@
 | 470 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 543 | 232 |
 | 470 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 0 | 640 |
 | 470 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 640 |
-| 470 | [Wolfenstein: The Old Blood - Worldwide](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 90 | 432 |
+| 470 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 90 | 432 |
 | 493 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.58 | 90 | 432 |
 | 493 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 47 | 517 |
 | 493 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 69,058 | 12 |
@@ -517,7 +517,7 @@
 | 493 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 7,031 | 69 |
 | 493 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 740 | 204 |
 | 493 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 144 | 369 |
-| 493 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,874 | 33 |
+| 493 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,874 | 33 |
 | 519 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 640 |
 | 519 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.57 | 0 | 640 |
 | 519 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 54 | 496 |
