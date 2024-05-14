@@ -77,7 +77,7 @@
 | 72 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 36 | 545 |
 | 72 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 640 |
 | 72 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 343 | 272 |
-| 72 | [Sifu](games/s/sifu.md) | 4.82 | 7,815 | 65 |
+| 72 | [Sifu](games/s/sifu.md) | 4.82 | 7,818 | 65 |
 | 72 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 517 | 237 |
 | 72 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 442 |
 | 72 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.82 | 23 | 618 |
@@ -327,7 +327,7 @@
 | 323 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 103 | 411 |
 | 323 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 313 | 280 |
 | 323 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,918 | 63 |
-| 323 | [Crashlands](games/c/crashlands.md) | 4.66 | 202 | 331 |
+| 323 | [Crashlands](games/c/crashlands.md) | 4.66 | 202 | 332 |
 | 323 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 193 | 339 |
 | 323 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,320 | 150 |
 | 323 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.66 | 0 | 640 |
@@ -401,7 +401,7 @@
 | 384 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.63 | 0 | 640 |
 | 384 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,850 | 136 |
 | 401 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 640 |
-| 401 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 1,172 | 160 |
+| 401 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.62 | 1,172 | 161 |
 | 401 | [Darkwood](games/d/darkwood.md) | 4.62 | 336 | 275 |
 | 401 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.62 | 2,461 | 118 |
 | 401 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.62 | 87 | 438 |
@@ -609,7 +609,7 @@
 | 597 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.53 | 0 | 640 |
 | 597 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 88 | 436 |
 | 597 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 562 | 230 |
-| 597 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,169 | 161 |
+| 597 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,174 | 160 |
 | 597 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 416 | 256 |
 | 597 | [Verdun](games/v/verdun.md) | 4.53 | 116 | 397 |
 | 613 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 264 | 298 |
@@ -667,6 +667,7 @@
 | 647 | [VALORANT](games/v/valorant.md) | 4.50 | 116,636 | 10 |
 | 647 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 502 |
 | 667 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,080 | 128 |
+| 667 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.49 | 0 | 640 |
 | 667 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,612 | 59 |
 | 667 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 640 |
 | 667 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.49 | 0 | 640 |
@@ -676,29 +677,28 @@
 | 667 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 33 | 560 |
 | 667 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 640 |
 | 667 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 0 | 640 |
-| 667 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,105 | 165 |
+| 667 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,108 | 165 |
 | 667 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 47 | 517 |
 | 667 | [Solitairica](games/s/solitairica.md) | 4.49 | 100 | 417 |
 | 667 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 640 |
 | 667 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.49 | 0 | 640 |
 | 667 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 14,071 | 37 |
 | 667 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.49 | 0 | 640 |
-| 684 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 66 | 470 |
-| 684 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 640 |
-| 684 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.48 | 0 | 640 |
-| 684 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 109 | 403 |
-| 684 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 282 | 292 |
-| 684 | [Figment](games/f/figment.md) | 4.48 | 21 | 631 |
-| 684 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,084 | 98 |
-| 684 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 640 |
-| 684 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.48 | 0 | 640 |
-| 684 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 640 |
-| 684 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.48 | 24 | 613 |
-| 684 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.48 | 0 | 640 |
-| 684 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.48 | 202 | 331 |
-| 684 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 640 |
-| 684 | [Wall World](games/w/wall_world.md) | 4.48 | 0 | 640 |
-| 684 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 41 | 531 |
+| 685 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 66 | 470 |
+| 685 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 640 |
+| 685 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 109 | 403 |
+| 685 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 282 | 292 |
+| 685 | [Figment](games/f/figment.md) | 4.48 | 21 | 631 |
+| 685 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,084 | 98 |
+| 685 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 640 |
+| 685 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.48 | 0 | 640 |
+| 685 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 640 |
+| 685 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.48 | 24 | 613 |
+| 685 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.48 | 0 | 640 |
+| 685 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.48 | 203 | 331 |
+| 685 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.48 | 0 | 640 |
+| 685 | [Wall World](games/w/wall_world.md) | 4.48 | 0 | 640 |
+| 685 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 41 | 531 |
 | 700 | [Absolute Drift](games/a/absolute_drift.md) | 4.47 | 0 | 640 |
 | 700 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.47 | 22 | 621 |
 | 700 | [Chorus](games/c/chorus.md) | 4.47 | 36 | 545 |
