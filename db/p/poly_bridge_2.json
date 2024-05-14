@@ -2,7 +2,7 @@
   "ID": "9b31326adff64c7fa7bbac6e8d4a9e6e",
   "Name": "Poly Bridge 2",
   "ProductSlug": "poly-bridge-2",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 596,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 54,
   "RatingHistory": [
     {
@@ -343,6 +343,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-05-13T23:57:38.6462969+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
@@ -368,8 +374,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.1339202+00:00",
-  "LastChanged": "2024-04-20T04:59:24.0127574+00:00",
+  "LastChanged": "2024-05-13T23:57:38.6462966+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:58:07.796192+00:00",
-  "LastUpdate_Ratings": "2024-05-13T21:59:15.1557794+00:00",
+  "LastUpdate_Ratings": "2024-05-13T23:57:38.646297+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:49.1527099+00:00"
 }
