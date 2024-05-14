@@ -185,17 +185,17 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-10 | 230,044 | 0 |
 ## Awards
 Max (Diverse Characters): 24,199  (Ranked 22)  
-Sum: 119,288 (Ranked 18)  
+Sum: 119,305 (Ranked 18)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 24,199 |
 | This game is Highly Recommended | 16,226 |
-| This game has a Competitive Community | 15,465 |
+| This game has a Competitive Community | 15,472 |
 | This game has Amazing Characters | 13,252 |
 | This game has Competitive Players | 13,046 |
 | This game is Extremely Fun | 12,805 |
-| This game has Amazing Storytelling | 12,490 |
+| This game has Amazing Storytelling | 12,500 |
 | This game has Quickly Understood Controls | 11,805 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -696,4 +696,4 @@ Diff (max vs sum): 4
 | 2024-05-11 | 4.26 | 24,183 | 119,163 |
 | 2024-05-12 | 4.26 | 24,192 | 119,213 |
 | 2024-05-13 | 4.26 | 24,192 | 119,260 |
-| 2024-05-14 | 4.26 | 24,199 | 119,288 |
+| 2024-05-14 | 4.26 | 24,199 | 119,305 |
