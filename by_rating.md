@@ -71,7 +71,7 @@
 | 58 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 289 | 289 |
 | 58 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.83 | 0 | 640 |
 | 58 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 528 |
-| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 488 | 242 |
+| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 489 | 241 |
 | 72 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 545 |
 | 72 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,899 | 133 |
 | 72 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 36 | 545 |
@@ -266,7 +266,7 @@
 | 255 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,081 | 127 |
 | 255 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 640 |
 | 255 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 687 | 214 |
-| 255 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 535 |
+| 255 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.69 | 40 | 536 |
 | 255 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,220 | 42 |
 | 255 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 79 | 450 |
 | 255 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 609 | 224 |
@@ -408,7 +408,7 @@
 | 401 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 197 | 334 |
 | 401 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 0 | 640 |
 | 401 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.62 | 85 | 440 |
-| 401 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 474 | 245 |
+| 401 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 476 | 244 |
 | 401 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 689 | 213 |
 | 401 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 197 | 334 |
 | 401 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.62 | 0 | 640 |
@@ -631,7 +631,7 @@
 | 628 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,212 | 97 |
 | 628 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 311 |
 | 628 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 640 |
-| 628 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,779 | 16 |
+| 628 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,817 | 16 |
 | 628 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.51 | 0 | 640 |
 | 628 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 368 | 268 |
 | 628 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 163 | 359 |
@@ -758,7 +758,7 @@
 | 743 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.44 | 0 | 640 |
 | 743 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 640 |
 | 743 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 640 |
-| 743 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 821,264 | 2 |
+| 743 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 821,839 | 2 |
 | 743 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 640 |
 | 743 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 4.44 | 0 | 640 |
 | 743 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 420 |
@@ -893,7 +893,6 @@
 | 891 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 640 |
 | 891 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 593 |
 | 891 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 640 |
-| 891 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.34 | 54 | 496 |
 | 891 | [Core](games/c/core.md) | 4.34 | 808 | 198 |
 | 891 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.34 | 0 | 640 |
 | 891 | [Hammerting](games/h/hammerting.md) | 4.34 | 0 | 640 |
@@ -903,18 +902,19 @@
 | 891 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.34 | 304 | 284 |
 | 891 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 640 |
 | 891 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 33 | 560 |
-| 891 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 646 | 218 |
-| 905 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 640 |
-| 905 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 640 |
-| 905 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.33 | 57 | 487 |
-| 905 | [Filament](games/f/filament.md) | 4.33 | 602 | 226 |
-| 905 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 640 |
-| 905 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.33 | 0 | 640 |
-| 905 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 124 | 388 |
-| 905 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.33 | 93 | 429 |
-| 905 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.33 | 0 | 640 |
-| 905 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 640 |
-| 905 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 640 |
+| 891 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 648 | 218 |
+| 904 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 640 |
+| 904 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.33 | 54 | 496 |
+| 904 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 640 |
+| 904 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.33 | 57 | 487 |
+| 904 | [Filament](games/f/filament.md) | 4.33 | 602 | 226 |
+| 904 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 640 |
+| 904 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.33 | 0 | 640 |
+| 904 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 124 | 388 |
+| 904 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.33 | 93 | 429 |
+| 904 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.33 | 0 | 640 |
+| 904 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 640 |
+| 904 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 640 |
 | 916 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.32 | 23 | 618 |
 | 916 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 431 | 252 |
 | 916 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 0 | 640 |
@@ -1007,7 +1007,7 @@
 | 1,004 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 640 |
 | 1,004 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.23 | 95 | 426 |
 | 1,004 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 180 |
-| 1,004 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.23 | 40 | 535 |
+| 1,004 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.23 | 41 | 531 |
 | 1,004 | [Stranded Deep](games/s/stranded_deep.md) | 4.23 | 258 | 300 |
 | 1,004 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.23 | 122 | 392 |
 | 1,004 | [The Fall](games/t/the_fall.md) | 4.23 | 0 | 640 |
