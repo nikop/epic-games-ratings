@@ -4,7 +4,7 @@
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 1031,
   "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 472,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 25,
@@ -811,10 +811,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 185,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-05-14T17:01:12.6904298+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 186,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 185,
+  "NumberOfAwards": 186,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -822,7 +828,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Relaxing",
@@ -6990,9 +6996,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2024-05-13T03:59:05.5489425+00:00",
+  "LastChanged": "2024-05-14T17:01:12.6904296+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:31.2443716+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:28.6871928+00:00",
-  "LastUpdate_Ratings": "2024-05-14T15:59:08.4434162+00:00",
+  "LastUpdate_Ratings": "2024-05-14T17:01:12.6904301+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:31.2444304+00:00"
 }
