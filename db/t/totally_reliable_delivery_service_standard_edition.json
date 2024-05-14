@@ -2,7 +2,7 @@
   "ID": "52b90f9a982a404781b189f6a7903226",
   "Name": "Totally Reliable Delivery Service Standard Edition",
   "ProductSlug": "totally-reliable-delivery-service",
-  "Ranking_Rating": 684,
+  "Ranking_Rating": 685,
   "Ranking_Popularity": 640,
   "Ranking_PopularitySum": 640,
   "Ranking_EOS_Progress": 987,
@@ -525,6 +525,6 @@
   "FirstSeen": "2022-07-22T20:20:09.4036127+00:00",
   "LastChanged": "2024-04-24T23:59:15.6722246+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:58.9898136+00:00",
-  "LastUpdate_Ratings": "2024-05-14T02:58:55.6400371+00:00",
+  "LastUpdate_Ratings": "2024-05-14T03:59:52.1881634+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:50.9097202+00:00"
 }
