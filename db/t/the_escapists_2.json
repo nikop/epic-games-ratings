@@ -4,7 +4,7 @@
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 519,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 374,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1478,12 +1478,18 @@
       "Rating": 4.57,
       "NumberOfAwards": 485,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-05-14T10:00:45.23665+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 486,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 485,
+  "NumberOfAwards": 486,
   "NumberOfAwardsMax": 57,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -1507,7 +1513,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game is Relaxing",
@@ -1563,8 +1569,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2024-05-13T04:58:22.4233744+00:00",
+  "LastChanged": "2024-05-14T10:00:45.2366497+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:06.5563838+00:00",
-  "LastUpdate_Ratings": "2024-05-14T08:58:38.7976602+00:00",
+  "LastUpdate_Ratings": "2024-05-14T10:00:45.2366505+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:36.1012783+00:00"
 }

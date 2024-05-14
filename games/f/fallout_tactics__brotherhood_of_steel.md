@@ -3,12 +3,12 @@
 [View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
 Rating: 4.47 (Ranked 700)  
 ## Awards
-Max (Character Customization): 153  (Ranked 362)  
-Sum: 338 (Ranked 408)  
+Max (Character Customization): 154  (Ranked 362)  
+Sum: 339 (Ranked 408)  
 Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 153 |
+| This game has Inclusive Character Customization | 154 |
 | This game has Challenging Combat | 32 |
 | This game has Unique Visuals | 29 |
 | This game has Amazing Characters | 29 |
@@ -161,4 +161,4 @@ Diff (max vs sum): -46
 | 2024-05-11 | 4.46 | 150 | 332 |
 | 2024-05-12 | 4.47 | 150 | 333 |
 | 2024-05-13 | 4.47 | 153 | 337 |
-| 2024-05-14 | 4.47 | 153 | 338 |
+| 2024-05-14 | 4.47 | 154 | 339 |

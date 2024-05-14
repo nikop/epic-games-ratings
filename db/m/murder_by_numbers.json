@@ -4,7 +4,7 @@
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 966,
   "Ranking_Popularity": 601,
-  "Ranking_PopularitySum": 479,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -561,10 +561,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 177,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-05-14T10:00:17.7718842+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 178,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 177,
+  "NumberOfAwards": 178,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -572,7 +578,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Diverse Characters",
@@ -629,8 +635,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-05-13T16:00:38.2313811+00:00",
+  "LastChanged": "2024-05-14T10:00:17.771884+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:35.0933039+00:00",
-  "LastUpdate_Ratings": "2024-05-14T08:58:15.7824208+00:00",
+  "LastUpdate_Ratings": "2024-05-14T10:00:17.7718846+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:18.5743762+00:00"
 }
