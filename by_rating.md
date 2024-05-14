@@ -143,7 +143,7 @@
 | 125 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.77 | 0 | 640 |
 | 125 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 173 | 354 |
 | 125 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 640 |
-| 144 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,686 | 26 |
+| 144 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,695 | 26 |
 | 144 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,581 | 104 |
 | 144 | [Journey](games/j/journey.md) | 4.76 | 0 | 640 |
 | 144 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,531 | 116 |
@@ -249,7 +249,7 @@
 | 225 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 640 |
 | 225 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 640 |
 | 225 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.70 | 0 | 640 |
-| 225 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 5,027 | 88 |
+| 225 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 5,029 | 88 |
 | 225 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 640 |
 | 225 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.70 | 0 | 640 |
 | 225 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 271 | 297 |
@@ -431,7 +431,7 @@
 | 426 | [Art of Rally](games/a/art_of_rally_1.md) | 4.61 | 92 | 431 |
 | 426 | [BLACKTAIL](games/b/blacktail.md) | 4.61 | 0 | 640 |
 | 426 | [Control](games/c/control.md) | 4.61 | 9,492 | 54 |
-| 426 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,753 | 13 |
+| 426 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 60,831 | 13 |
 | 426 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.61 | 205 | 329 |
 | 426 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 158 | 360 |
 | 426 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 65 | 473 |
@@ -1117,7 +1117,7 @@
 | 1,115 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 4.03 | 0 | 640 |
 | 1,116 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 640 |
 | 1,116 | [Port Royale 4](games/p/port_royale_4.md) | 4.01 | 0 | 640 |
-| 1,116 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 10,110 | 50 |
+| 1,116 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 10,140 | 50 |
 | 1,116 | [The First Tree](games/t/the_first_tree.md) | 4.01 | 0 | 640 |
 | 1,116 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.01 | 0 | 640 |
 | 1,121 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.00 | 25 | 608 |

@@ -12,7 +12,7 @@
 | 10 | [VALORANT](games/v/valorant.md) | 116,636 | 4.50 | 647 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 75,864 | 4.44 | 743 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 69,058 | 4.58 | 493 |
-| 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 60,753 | 4.61 | 426 |
+| 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 60,831 | 4.61 | 426 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,654 | 4.74 | 166 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 47,351 | 4.72 | 199 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,817 | 4.51 | 628 |
@@ -25,7 +25,7 @@
 | 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,916 | 4.57 | 519 |
 | 24 | [Warframe](games/w/warframe.md) | 23,810 | 4.61 | 426 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,841 | 4.60 | 452 |
-| 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,686 | 4.76 | 144 |
+| 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,695 | 4.76 | 144 |
 | 27 | [Satisfactory](games/s/satisfactory.md) | 17,573 | 4.87 | 22 |
 | 28 | [SnowRunner](games/s/snowrunner.md) | 17,147 | 4.75 | 151 |
 | 29 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 16,667 | 4.60 | 452 |
@@ -49,7 +49,7 @@
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 10,755 | 4.78 | 116 |
 | 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,661 | 4.63 | 384 |
 | 49 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,317 | 4.89 | 14 |
-| 50 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 10,110 | 4.01 | 1,116 |
+| 50 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 10,140 | 4.01 | 1,116 |
 | 51 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,981 | 4.51 | 628 |
 | 52 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,592 | 4.56 | 543 |
 | 53 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,586 | 4.68 | 277 |
@@ -87,7 +87,7 @@
 | 85 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,425 | 4.62 | 401 |
 | 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,366 | 4.37 | 861 |
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,156 | 4.00 | 1,121 |
-| 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,027 | 4.70 | 225 |
+| 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,029 | 4.70 | 225 |
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,946 | 4.65 | 347 |
 | 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,796 | 4.68 | 277 |
 | 91 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 543 |
