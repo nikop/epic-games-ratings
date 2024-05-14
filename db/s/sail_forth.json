@@ -4,7 +4,7 @@
   "ProductSlug": "sail-forth-51847e",
   "Ranking_Rating": 818,
   "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 491,
+  "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -527,10 +527,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 146,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-05-14T18:59:52.6145783+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 166,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 146,
+  "NumberOfAwards": 166,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -575,6 +581,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 23
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 416682,
@@ -2881,9 +2893,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-05-14T14:58:21.5849528+00:00",
+  "LastChanged": "2024-05-14T18:59:52.6145781+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:24.2219897+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:19.8977136+00:00",
-  "LastUpdate_Ratings": "2024-05-14T17:58:22.182889+00:00",
+  "LastUpdate_Ratings": "2024-05-14T18:59:52.6145785+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:24.222024+00:00"
 }

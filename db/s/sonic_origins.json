@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-origins",
   "Ranking_Rating": 493,
   "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 489,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 25,
@@ -3593,6 +3593,6 @@
   "LastChanged": "2024-05-13T02:24:46.9585052+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:30.5724564+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:25.4753347+00:00",
-  "LastUpdate_Ratings": "2024-05-14T17:00:02.4720458+00:00",
+  "LastUpdate_Ratings": "2024-05-14T18:57:42.8199261+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:30.5724894+00:00"
 }
