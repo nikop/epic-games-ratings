@@ -198,7 +198,7 @@
 | 187 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 640 |
 | 187 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 0 | 640 |
 | 187 | [World of Goo](games/w/world_of_goo.md) | 4.73 | 0 | 640 |
-| 199 | [Dead Space](games/d/dead_space.md) | 4.72 | 455 | 248 |
+| 199 | [Dead Space](games/d/dead_space.md) | 4.72 | 455 | 249 |
 | 199 | [Diabotical](games/d/diabotical.md) | 4.72 | 317 | 278 |
 | 199 | [FUSER™](games/f/fuser™.md) | 4.72 | 36 | 545 |
 | 199 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 47,351 | 15 |
@@ -555,7 +555,7 @@
 | 543 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,868 | 135 |
 | 543 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.56 | 0 | 640 |
 | 543 | [Returnal™](games/r/returnal™.md) | 4.56 | 222 | 319 |
-| 543 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,807 | 139 |
+| 543 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,808 | 139 |
 | 543 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,093 | 78 |
 | 558 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 640 |
 | 558 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 385 | 263 |
@@ -949,22 +949,22 @@
 | 937 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 842 | 196 |
 | 937 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 52 | 507 |
 | 937 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 640 |
-| 937 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.29 | 181 | 343 |
 | 937 | [The Surge 2](games/t/the_surge_2.md) | 4.29 | 0 | 640 |
 | 937 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 640 |
-| 953 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.28 | 0 | 640 |
-| 953 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 0 | 640 |
-| 953 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.28 | 0 | 640 |
-| 953 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 640 |
-| 953 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 72 | 463 |
-| 953 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 640 |
-| 953 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 640 |
-| 953 | [Nightingale](games/n/nightingale.md) | 4.28 | 70 | 464 |
-| 953 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 640 |
-| 953 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,238 | 75 |
-| 953 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 131 | 381 |
-| 953 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 640 |
-| 953 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 354 |
+| 952 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.28 | 0 | 640 |
+| 952 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 0 | 640 |
+| 952 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.28 | 0 | 640 |
+| 952 | [Chess Ultra](games/c/chess_ultra.md) | 4.28 | 0 | 640 |
+| 952 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 72 | 463 |
+| 952 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 640 |
+| 952 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 640 |
+| 952 | [Nightingale](games/n/nightingale.md) | 4.28 | 70 | 464 |
+| 952 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 640 |
+| 952 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 181 | 343 |
+| 952 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,238 | 75 |
+| 952 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 131 | 381 |
+| 952 | [Steelrising](games/s/steelrising.md) | 4.28 | 0 | 640 |
+| 952 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 354 |
 | 966 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.27 | 22 | 621 |
 | 966 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 26 | 601 |
 | 966 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.27 | 0 | 640 |
@@ -1031,7 +1031,7 @@
 | 1,027 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 640 |
 | 1,027 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 556 |
 | 1,027 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,284 | 73 |
-| 1,032 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.19 | 455 | 248 |
+| 1,032 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.19 | 459 | 248 |
 | 1,032 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 511 |
 | 1,032 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,538 | 105 |
 | 1,032 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.19 | 33 | 560 |
