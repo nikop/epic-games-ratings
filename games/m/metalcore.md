@@ -4,8 +4,8 @@
 Rating: 4.43 (Ranked 765)  
 ## Awards
 Max (Great for Beginners): 78  (Ranked 454)  
-Sum: 639 (Ranked 346)  
-Diff (max vs sum): 108  
+Sum: 641 (Ranked 345)  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 78 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 108
 | This game has Challenging Combat | 51 |
 | This game has Amazing Characters | 50 |
 | This game has Unique Visuals | 47 |
-| This game has Amazing Storytelling | 43 |
+| This game has Amazing Storytelling | 45 |
 | This game has Competitive Players | 38 |
 | This game is Relaxing | 37 |
 | This game is Great for Quick Sessions | 21 |
@@ -69,4 +69,4 @@ Diff (max vs sum): 108
 | 2024-05-11 | 4.42 | 67 | 525 |
 | 2024-05-12 | 4.42 | 72 | 551 |
 | 2024-05-13 | 4.43 | 76 | 573 |
-| 2024-05-14 | 4.43 | 78 | 639 |
+| 2024-05-14 | 4.43 | 78 | 641 |

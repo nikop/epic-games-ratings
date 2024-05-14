@@ -4,14 +4,14 @@
 Rating: 4.27 (Ranked 966)  
 ## Awards
 Max (Diverse Characters): 26  (Ranked 601)  
-Sum: 178 (Ranked 477)  
-Diff (max vs sum): 124  
+Sum: 179 (Ranked 476)  
+Diff (max vs sum): 125  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 26 |
 | This game is Extremely Fun | 24 |
 | This game is Great for Quick Sessions | 24 |
-| This game has Playful Visuals | 22 |
+| This game has Playful Visuals | 23 |
 | This game has Amazing Characters | 21 |
 | This game is Highly Recommended | 21 |
 | This game is Relaxing | 20 |
@@ -91,4 +91,4 @@ Diff (max vs sum): 124
 | 2024-05-10 | 4.28 | 25 | 176 |
 | 2024-05-12 | 4.28 | 26 | 177 |
 | 2024-05-13 | 4.27 | 26 | 177 |
-| 2024-05-14 | 4.27 | 26 | 178 |
+| 2024-05-14 | 4.27 | 26 | 179 |

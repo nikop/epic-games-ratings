@@ -3,7 +3,7 @@
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 38,
-  "Ranking_Popularity": 258,
+  "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -5777,10 +5777,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 3233,
       "NumberOfAwardsMax": 395
+    },
+    {
+      "Time": "2024-05-14T15:57:48.5946664+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 3234,
+      "NumberOfAwardsMax": 395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3233,
+  "NumberOfAwards": 3234,
   "NumberOfAwardsMax": 395,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5800,7 +5806,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 319
+      "Count": 320
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5868,8 +5874,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-05-12T09:57:54.4905587+00:00",
+  "LastChanged": "2024-05-14T15:57:48.5946663+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:30.460327+00:00",
-  "LastUpdate_Ratings": "2024-05-14T13:58:52.6677715+00:00",
+  "LastUpdate_Ratings": "2024-05-14T15:57:48.5946667+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:25.1158845+00:00"
 }
