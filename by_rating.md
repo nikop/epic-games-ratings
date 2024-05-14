@@ -62,6 +62,7 @@
 | 58 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 205 | 329 |
 | 58 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 640 |
 | 58 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 640 |
+| 58 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 240 | 309 |
 | 58 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 248 | 302 |
 | 58 | [Firework](games/f/firework.md) | 4.83 | 0 | 640 |
 | 58 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 697 | 210 |
@@ -70,17 +71,16 @@
 | 58 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 289 | 289 |
 | 58 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.83 | 0 | 640 |
 | 58 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 528 |
-| 71 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 488 | 242 |
-| 71 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.82 | 240 | 309 |
-| 71 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 545 |
-| 71 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,899 | 133 |
-| 71 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 36 | 545 |
-| 71 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 640 |
-| 71 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 343 | 272 |
-| 71 | [Sifu](games/s/sifu.md) | 4.82 | 7,815 | 65 |
-| 71 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 517 | 237 |
-| 71 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 442 |
-| 71 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.82 | 23 | 618 |
+| 72 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 488 | 242 |
+| 72 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 545 |
+| 72 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,899 | 133 |
+| 72 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 36 | 545 |
+| 72 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 640 |
+| 72 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 343 | 272 |
+| 72 | [Sifu](games/s/sifu.md) | 4.82 | 7,815 | 65 |
+| 72 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 517 | 237 |
+| 72 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 442 |
+| 72 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.82 | 23 | 618 |
 | 82 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,538 | 115 |
 | 82 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 640 |
 | 82 | [Coffee Talk](games/c/coffee_talk.md) | 4.81 | 0 | 640 |
@@ -284,7 +284,7 @@
 | 277 | [Coromon](games/c/coromon.md) | 4.68 | 50 | 511 |
 | 277 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 164,206 | 7 |
 | 277 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,580 | 94 |
-| 277 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 9,423 | 56 |
+| 277 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 9,424 | 56 |
 | 277 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 53 | 502 |
 | 277 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.68 | 27 | 593 |
 | 277 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,586 | 53 |
@@ -1072,16 +1072,16 @@
 | 1,065 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 28 | 586 |
 | 1,065 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 640 |
 | 1,065 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.15 | 0 | 640 |
-| 1,073 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.14 | 22 | 621 |
 | 1,073 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 640 |
 | 1,073 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 0 | 640 |
 | 1,073 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.14 | 0 | 640 |
 | 1,073 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.14 | 0 | 640 |
 | 1,073 | [Pine](games/p/pine.md) | 4.14 | 0 | 640 |
 | 1,073 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 640 |
-| 1,080 | [Relicta](games/r/relicta.md) | 4.13 | 206 | 328 |
-| 1,080 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,621 | 114 |
-| 1,080 | [The Bridge](games/t/the_bridge.md) | 4.13 | 0 | 640 |
+| 1,079 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 621 |
+| 1,079 | [Relicta](games/r/relicta.md) | 4.13 | 206 | 328 |
+| 1,079 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,621 | 114 |
+| 1,079 | [The Bridge](games/t/the_bridge.md) | 4.13 | 0 | 640 |
 | 1,083 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 640 |
 | 1,083 | [Banished](games/b/banished.md) | 4.12 | 0 | 640 |
 | 1,083 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 640 |
