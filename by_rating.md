@@ -276,7 +276,7 @@
 | 255 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,161 | 162 |
 | 255 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 640 |
 | 255 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 640 |
-| 277 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,791 | 90 |
+| 277 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,796 | 90 |
 | 277 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 796 | 200 |
 | 277 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.68 | 0 | 640 |
 | 277 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 74 | 460 |
@@ -358,7 +358,7 @@
 | 346 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,202 | 159 |
 | 346 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 62 | 477 |
 | 346 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.65 | 39 | 537 |
-| 346 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 464 |
+| 346 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 465 |
 | 346 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 640 |
 | 346 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 582 | 229 |
 | 346 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,946 | 89 |
@@ -628,7 +628,7 @@
 | 613 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.52 | 38 | 540 |
 | 613 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 640 |
 | 628 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 178 | 347 |
-| 628 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,212 | 97 |
+| 628 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,214 | 97 |
 | 628 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 311 |
 | 628 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 640 |
 | 628 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,817 | 16 |
@@ -737,7 +737,7 @@
 | 725 | [Scorn](games/s/scorn.md) | 4.45 | 0 | 640 |
 | 725 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.45 | 0 | 640 |
 | 725 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 0 | 640 |
-| 725 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 702 | 207 |
+| 725 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 703 | 207 |
 | 725 | [STG Football](games/s/stg_football.md) | 4.45 | 55 | 494 |
 | 725 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 309 | 282 |
 | 725 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.45 | 0 | 640 |
@@ -958,7 +958,7 @@
 | 952 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 72 | 463 |
 | 952 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 640 |
 | 952 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 640 |
-| 952 | [Nightingale](games/n/nightingale.md) | 4.28 | 70 | 464 |
+| 952 | [Nightingale](games/n/nightingale.md) | 4.28 | 70 | 465 |
 | 952 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 640 |
 | 952 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 181 | 343 |
 | 952 | [Rogue Company](games/r/rogue_company.md) | 4.28 | 6,238 | 75 |
@@ -1171,7 +1171,7 @@
 | 1,169 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 3.71 | 0 | 640 |
 | 1,170 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 640 |
 | 1,171 | [Redfall](games/r/redfall.md) | 3.66 | 41 | 531 |
-| 1,172 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.64 | 70 | 464 |
+| 1,172 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.64 | 72 | 463 |
 | 1,173 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.59 | 0 | 640 |
 | 1,174 | [Adios](games/a/adios.md) | 3.53 | 0 | 640 |
 | 1,175 | [Survive on Raft](games/s/survive_on_raft.md) | 3.50 | 0 | 640 |
