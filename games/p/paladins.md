@@ -1,7 +1,7 @@
 # Paladins
 [Store](https://store.epicgames.com/en-US/p/paladins)  
 [View Rawdata](../../db/p/paladins.json)  
-Rating: 4.32 (Ranked 916)  
+Rating: 4.31 (Ranked 925)  
 Number of Ratings: 11,687  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 4,430  (Ranked 95)  
@@ -498,3 +498,4 @@ Diff (max vs sum): 37
 | 2024-05-12 | 4.32 | - | 4,427 | 27,896 |
 | 2024-05-13 | 4.32 | - | 4,430 | 27,908 |
 | 2024-05-14 | 4.32 | - | 4,430 | 27,911 |
+| 2024-05-15 | 4.31 | - | 4,430 | 27,911 |
