@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,515,643 | 4.29 | 937 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 821,839 | 4.44 | 744 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 822,516 | 4.44 | 744 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 371,927 | 4.68 | 277 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 340,534 | 4.67 | 300 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 317,812 | 4.87 | 22 |
@@ -15,7 +15,7 @@
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 60,831 | 4.61 | 426 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 53,696 | 4.74 | 166 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 47,479 | 4.72 | 199 |
-| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,817 | 4.51 | 627 |
+| 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 45,878 | 4.51 | 627 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 38,106 | 4.74 | 166 |
 | 18 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 30,593 | 4.12 | 1,083 |
 | 19 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,159 | 4.64 | 366 |
@@ -84,7 +84,7 @@
 | 82 | [SMITE](games/s/smite.md) | 5,719 | 4.41 | 802 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,623 | 4.57 | 519 |
 | 84 | [God of War](games/g/god_of_war.md) | 5,619 | 4.87 | 22 |
-| 85 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,425 | 4.62 | 402 |
+| 85 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,439 | 4.62 | 402 |
 | 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,374 | 4.37 | 860 |
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,160 | 4.00 | 1,121 |
 | 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,029 | 4.70 | 225 |
@@ -99,7 +99,7 @@
 | 97 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,214 | 4.51 | 627 |
 | 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,089 | 4.48 | 686 |
 | 99 | [Hades](games/h/hades.md) | 3,822 | 4.92 | 6 |
-| 100 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,796 | 4.57 | 519 |
+| 100 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,798 | 4.57 | 519 |
 | 101 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,780 | 4.66 | 323 |
 | 102 | [Gloomhaven](games/g/gloomhaven.md) | 3,685 | 4.47 | 700 |
 | 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,597 | 4.57 | 519 |
@@ -316,8 +316,8 @@
 | 314 | [Sunless Sea](games/s/sunless_sea.md) | 232 | 4.59 | 471 |
 | 315 | [HITMAN](games/h/hitman.md) | 230 | 4.63 | 384 |
 | 315 | [Pinball FX](games/p/pinball_fx.md) | 230 | 4.07 | 1,104 |
-| 317 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 227 | 4.69 | 255 |
-| 317 | [Unrailed!](games/u/unrailed!.md) | 227 | 4.64 | 366 |
+| 317 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 228 | 4.69 | 255 |
+| 318 | [Unrailed!](games/u/unrailed!.md) | 227 | 4.64 | 366 |
 | 319 | [Returnal™](games/r/returnal™.md) | 222 | 4.56 | 542 |
 | 320 | [The Riftbreaker](games/t/the_riftbreaker.md) | 220 | 4.76 | 144 |
 | 321 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 219 | 4.58 | 493 |

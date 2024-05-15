@@ -259,7 +259,7 @@
 | 255 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 641 |
 | 255 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 137 | 375 |
 | 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,481 | 60 |
-| 255 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 227 | 317 |
+| 255 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 228 | 317 |
 | 255 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.69 | 56 | 491 |
 | 255 | [House Flipper](games/h/house_flipper.md) | 4.69 | 347 | 271 |
 | 255 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 641 |
@@ -382,7 +382,7 @@
 | 366 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,159 | 19 |
 | 366 | [Tavern Master](games/t/tavern_master.md) | 4.64 | 0 | 641 |
 | 366 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,221 | 158 |
-| 366 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 227 | 317 |
+| 366 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 227 | 318 |
 | 384 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.63 | 0 | 641 |
 | 384 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 631 |
 | 384 | [APE OUT](games/a/ape_out.md) | 4.63 | 0 | 641 |
@@ -422,7 +422,7 @@
 | 402 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 197 | 336 |
 | 402 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 312 | 281 |
 | 402 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 305 | 283 |
-| 402 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 5,425 | 85 |
+| 402 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.62 | 5,439 | 85 |
 | 402 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.62 | 80 | 445 |
 | 402 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 641 |
 | 426 | [20XX](games/2/20xx.md) | 4.61 | 39 | 537 |
@@ -529,7 +529,7 @@
 | 519 | [Hue](games/h/hue.md) | 4.57 | 0 | 641 |
 | 519 | [Isonzo](games/i/isonzo.md) | 4.57 | 50 | 512 |
 | 519 | [Minit](games/m/minit.md) | 4.57 | 0 | 641 |
-| 519 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,796 | 100 |
+| 519 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 3,798 | 100 |
 | 519 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 4.57 | 426 | 254 |
 | 519 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,597 | 103 |
 | 519 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.57 | 30 | 578 |
@@ -630,7 +630,7 @@
 | 627 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,214 | 97 |
 | 627 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 312 |
 | 627 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 641 |
-| 627 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,817 | 16 |
+| 627 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 45,878 | 16 |
 | 627 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.51 | 0 | 641 |
 | 627 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 369 | 268 |
 | 627 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 163 | 359 |
@@ -758,7 +758,7 @@
 | 744 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 641 |
 | 744 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 641 |
 | 744 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 641 |
-| 744 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 821,839 | 2 |
+| 744 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 822,516 | 2 |
 | 744 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 641 |
 | 744 | [Terminator: Dark Fate - Defiance](games/c/c265245a0790465cbf32df9aa540e590.md) | 4.44 | 0 | 641 |
 | 744 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 420 |
