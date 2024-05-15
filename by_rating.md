@@ -58,7 +58,7 @@
 | 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 242 | 307 |
 | 48 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 640 |
 | 58 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 640 |
-| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,234 | 68 |
+| 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,239 | 68 |
 | 58 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 205 | 330 |
 | 58 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 640 |
 | 58 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 640 |
@@ -255,7 +255,7 @@
 | 225 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 271 | 297 |
 | 225 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 640 |
 | 255 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 640 |
-| 255 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 133,296 | 9 |
+| 255 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 133,328 | 9 |
 | 255 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 640 |
 | 255 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 137 | 375 |
 | 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,481 | 60 |
@@ -488,7 +488,7 @@
 | 471 | [Tails of Iron](games/t/tails_of_iron.md) | 4.59 | 22 | 622 |
 | 471 | [The Invincible](games/t/the_invincible.md) | 4.59 | 0 | 640 |
 | 471 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 35 | 552 |
-| 471 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 543 | 232 |
+| 471 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 544 | 232 |
 | 471 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 0 | 640 |
 | 471 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 640 |
 | 471 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 90 | 432 |
@@ -538,7 +538,7 @@
 | 519 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 57 | 487 |
 | 519 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.57 | 0 | 640 |
 | 519 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 5,623 | 83 |
-| 519 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,916 | 23 |
+| 519 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 23,926 | 23 |
 | 519 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 640 |
 | 519 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 247 | 303 |
 | 519 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.57 | 24 | 613 |
@@ -921,15 +921,15 @@
 | 916 | [Ashen](games/a/ashen.md) | 4.32 | 22 | 622 |
 | 916 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 640 |
 | 916 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.32 | 97 | 423 |
+| 916 | [Paladins](games/p/paladins.md) | 4.32 | 4,430 | 95 |
 | 916 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 640 |
 | 916 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.32 | 54 | 497 |
 | 916 | [Vampyr](games/v/vampyr.md) | 4.32 | 610 | 224 |
-| 925 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 114 | 399 |
-| 925 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.31 | 0 | 640 |
-| 925 | [Paladins](games/p/paladins.md) | 4.31 | 4,430 | 95 |
-| 925 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,015 | 178 |
-| 925 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 0 | 640 |
-| 925 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 640 |
+| 926 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 114 | 399 |
+| 926 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.31 | 0 | 640 |
+| 926 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,015 | 178 |
+| 926 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 0 | 640 |
+| 926 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 640 |
 | 931 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.30 | 0 | 640 |
 | 931 | [Expeditions: Viking](games/e/expeditions__viking.md) | 4.30 | 0 | 640 |
 | 931 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.30 | 0 | 640 |
