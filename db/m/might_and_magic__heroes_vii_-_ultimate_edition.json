@@ -4,7 +4,7 @@
   "ProductSlug": "might-and-magic-heroes-7",
   "Ranking_Rating": 714,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 416,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1414,10 +1414,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 326,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-05-15T16:57:33.6048564+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 327,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 326,
+  "NumberOfAwards": 327,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1461,7 +1467,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1481,8 +1487,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2024-05-13T20:57:31.7587359+00:00",
+  "LastChanged": "2024-05-15T16:57:33.6048562+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:58:09.7269665+00:00",
-  "LastUpdate_Ratings": "2024-05-15T14:58:54.604802+00:00",
+  "LastUpdate_Ratings": "2024-05-15T16:57:33.6048568+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:33.1570261+00:00"
 }

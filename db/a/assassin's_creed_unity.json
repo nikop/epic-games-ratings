@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 402,
   "Ranking_Popularity": 161,
-  "Ranking_PopularitySum": 261,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3502,10 +3502,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 1568,
       "NumberOfAwardsMax": 1172
+    },
+    {
+      "Time": "2024-05-15T16:58:42.987657+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1569,
+      "NumberOfAwardsMax": 1172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1568,
+  "NumberOfAwards": 1569,
   "NumberOfAwardsMax": 1172,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3537,7 +3543,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3605,8 +3611,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2024-05-14T18:00:42.6705442+00:00",
+  "LastChanged": "2024-05-15T16:58:42.9876569+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:11.1317427+00:00",
-  "LastUpdate_Ratings": "2024-05-15T15:00:04.3893656+00:00",
+  "LastUpdate_Ratings": "2024-05-15T16:58:42.9876575+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:01.1343771+00:00"
 }
