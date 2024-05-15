@@ -4,7 +4,7 @@
   "ProductSlug": "saints-row-iv-re-elected",
   "Ranking_Rating": 818,
   "Ranking_Popularity": 227,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1013,18 +1013,24 @@
       "Rating": 4.4,
       "NumberOfAwards": 600,
       "NumberOfAwardsMax": 600
+    },
+    {
+      "Time": "2024-05-15T18:59:23.7385186+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 601,
+      "NumberOfAwardsMax": 601
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 600,
-  "NumberOfAwardsMax": 600,
+  "NumberOfAwards": 601,
+  "NumberOfAwardsMax": 601,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 600
+      "Count": 601
     }
   ],
   "EOS_Progressed": 389351,
@@ -34225,9 +34231,9 @@
   "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
-  "LastChanged": "2024-05-13T09:59:06.8961575+00:00",
+  "LastChanged": "2024-05-15T18:59:23.7385184+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:17.9983685+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:38.0564142+00:00",
-  "LastUpdate_Ratings": "2024-05-15T17:00:35.3529686+00:00",
+  "LastUpdate_Ratings": "2024-05-15T18:59:23.7385188+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:17.9985755+00:00"
 }

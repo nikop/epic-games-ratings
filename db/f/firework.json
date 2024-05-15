@@ -3,8 +3,8 @@
   "Name": "Firework",
   "ProductSlug": "firework-a03fdc",
   "Ranking_Rating": 58,
-  "Ranking_Popularity": 641,
-  "Ranking_PopularitySum": 641,
+  "Ranking_Popularity": 642,
+  "Ranking_PopularitySum": 642,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -73,6 +73,6 @@
   "FirstSeenRating": "2022-09-28T03:32:11.0204001+00:00",
   "LastChanged": "2024-01-14T08:00:56.4985678+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:07.4019576+00:00",
-  "LastUpdate_Ratings": "2024-05-15T17:57:36.6990348+00:00",
+  "LastUpdate_Ratings": "2024-05-15T19:00:17.5658956+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:44.3130973+00:00"
 }
