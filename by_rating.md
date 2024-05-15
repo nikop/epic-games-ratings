@@ -25,7 +25,7 @@
 | 22 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 803 | 199 |
 | 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,616 | 84 |
 | 22 | [Inscryption](games/i/inscryption.md) | 4.87 | 370 | 266 |
-| 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 317,443 | 5 |
+| 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 317,812 | 5 |
 | 22 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,573 | 27 |
 | 22 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 613 |
 | 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 704 | 206 |
@@ -79,7 +79,7 @@
 | 72 | [Sifu](games/s/sifu.md) | 4.82 | 7,818 | 65 |
 | 72 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 518 | 237 |
 | 72 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 443 |
-| 72 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.82 | 23 | 618 |
+| 72 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.82 | 23 | 619 |
 | 81 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,540 | 115 |
 | 81 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 640 |
 | 81 | [Coffee Talk](games/c/coffee_talk.md) | 4.81 | 0 | 640 |
@@ -109,7 +109,7 @@
 | 106 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 640 |
 | 106 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 0 | 640 |
 | 106 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 181 | 343 |
-| 106 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 618 |
+| 106 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 619 |
 | 106 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,671 | 142 |
 | 106 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 961 | 181 |
 | 106 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,948 | 111 |
@@ -362,7 +362,7 @@
 | 347 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 465 |
 | 347 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 640 |
 | 347 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 582 | 229 |
-| 347 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,946 | 89 |
+| 347 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,953 | 89 |
 | 347 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.65 | 0 | 640 |
 | 347 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 640 |
 | 366 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 640 |
@@ -662,13 +662,13 @@
 | 646 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.50 | 0 | 640 |
 | 646 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 702 | 208 |
 | 646 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.50 | 0 | 640 |
-| 646 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,679 | 39 |
+| 646 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,715 | 39 |
 | 646 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.50 | 0 | 640 |
 | 646 | [VALORANT](games/v/valorant.md) | 4.50 | 116,773 | 10 |
 | 646 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 502 |
 | 667 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,082 | 127 |
 | 667 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.49 | 0 | 640 |
-| 667 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,612 | 59 |
+| 667 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,626 | 59 |
 | 667 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 640 |
 | 667 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.49 | 0 | 640 |
 | 667 | [Maneater](games/m/maneater.md) | 4.49 | 14,178 | 36 |
@@ -834,17 +834,17 @@
 | 818 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 458 |
 | 818 | [Sail Forth](games/s/sail_forth.md) | 4.40 | 28 | 586 |
 | 818 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 600 | 227 |
+| 818 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.40 | 702 | 208 |
 | 818 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 215 | 323 |
 | 818 | [The Big Con](games/t/the_big_con.md) | 4.40 | 0 | 640 |
 | 818 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 0 | 640 |
-| 838 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 640 |
-| 838 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.39 | 275 | 295 |
-| 838 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 681 | 215 |
-| 838 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.39 | 0 | 640 |
-| 838 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 640 |
-| 838 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 100 | 417 |
-| 838 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.39 | 699 | 209 |
-| 838 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 341 | 274 |
+| 839 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 640 |
+| 839 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.39 | 275 | 295 |
+| 839 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 681 | 215 |
+| 839 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.39 | 0 | 640 |
+| 839 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 640 |
+| 839 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 100 | 417 |
+| 839 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 341 | 274 |
 | 846 | [Beyond Blue](games/b/beyond_blue.md) | 4.38 | 0 | 640 |
 | 846 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.38 | 0 | 640 |
 | 846 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 640 |
@@ -915,7 +915,7 @@
 | 904 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.33 | 0 | 640 |
 | 904 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 640 |
 | 904 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 640 |
-| 916 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.32 | 23 | 618 |
+| 916 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.32 | 24 | 613 |
 | 916 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.32 | 431 | 252 |
 | 916 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.32 | 0 | 640 |
 | 916 | [Ashen](games/a/ashen.md) | 4.32 | 22 | 621 |
@@ -989,7 +989,7 @@
 | 987 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 621 |
 | 987 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 640 |
 | 987 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 640 |
-| 987 | [Predecessor](games/p/predecessor.md) | 4.25 | 588 | 228 |
+| 987 | [Predecessor](games/p/predecessor.md) | 4.25 | 591 | 228 |
 | 987 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 640 |
 | 987 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 640 |
 | 987 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 608 |
@@ -1123,7 +1123,7 @@
 | 1,121 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 4.00 | 0 | 640 |
 | 1,121 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.00 | 25 | 608 |
 | 1,121 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.00 | 0 | 640 |
-| 1,121 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,156 | 87 |
+| 1,121 | [Shop Titans](games/s/shop_titans.md) | 4.00 | 5,160 | 87 |
 | 1,125 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.99 | 0 | 640 |
 | 1,125 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 387 | 261 |
 | 1,127 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 640 |
