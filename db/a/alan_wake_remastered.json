@@ -3,7 +3,7 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 700,
-  "Ranking_Popularity": 621,
+  "Ranking_Popularity": 619,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 356,
@@ -706,11 +706,17 @@
       "Rating": 4.47,
       "NumberOfAwards": 85,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-05-15T02:27:39.0473903+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 86,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -735,7 +741,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Unique Visuals",
@@ -31267,9 +31273,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
-  "LastChanged": "2024-05-11T08:57:00.9302106+00:00",
+  "LastChanged": "2024-05-15T02:27:39.0473901+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:35.0554968+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:10.2110049+00:00",
-  "LastUpdate_Ratings": "2024-05-15T01:48:26.5291122+00:00",
+  "LastUpdate_Ratings": "2024-05-15T02:27:39.0473907+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:35.0556516+00:00"
 }
