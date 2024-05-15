@@ -2,9 +2,9 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 117,
+  "Ranking_Rating": 124,
   "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -1769,10 +1769,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 927,
       "NumberOfAwardsMax": 239
+    },
+    {
+      "Time": "2024-05-15T13:02:04.0920245+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 930,
+      "NumberOfAwardsMax": 239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 927,
+  "NumberOfAwards": 930,
   "NumberOfAwardsMax": 239,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1840,7 +1846,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 47
+      "Count": 50
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1879,8 +1885,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-05-15T06:57:04.7070823+00:00",
+  "LastChanged": "2024-05-15T13:02:04.0920244+00:00",
   "LastUpdate_AppInfo": "2024-05-08T22:57:19.701756+00:00",
-  "LastUpdate_Ratings": "2024-05-15T10:58:56.6565602+00:00",
+  "LastUpdate_Ratings": "2024-05-15T13:02:04.0920248+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
