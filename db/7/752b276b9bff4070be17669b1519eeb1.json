@@ -2,8 +2,8 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 838,
-  "Ranking_Popularity": 209,
+  "Ranking_Rating": 818,
+  "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-07-29T23:57:57.562026+00:00",
@@ -4427,18 +4427,24 @@
       "Rating": 4.39,
       "NumberOfAwards": 2095,
       "NumberOfAwardsMax": 699
+    },
+    {
+      "Time": "2024-05-14T23:57:42.6395037+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 2099,
+      "NumberOfAwardsMax": 702
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2095,
-  "NumberOfAwardsMax": 699,
+  "NumberOfAwards": 2099,
+  "NumberOfAwardsMax": 702,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 699
+      "Count": 702
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4456,7 +4462,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4507,8 +4513,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-05-14T17:59:24.3781422+00:00",
+  "LastChanged": "2024-05-14T23:57:42.6395035+00:00",
   "LastUpdate_AppInfo": "2024-05-10T08:57:19.5393729+00:00",
-  "LastUpdate_Ratings": "2024-05-14T21:59:34.4593072+00:00",
+  "LastUpdate_Ratings": "2024-05-14T23:57:42.6395041+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:43.5071765+00:00"
 }
