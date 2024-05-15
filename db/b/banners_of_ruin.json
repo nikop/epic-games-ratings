@@ -3,8 +3,8 @@
   "Name": "Banners of Ruin",
   "ProductSlug": "banners-of-ruin",
   "Ranking_Rating": 891,
-  "Ranking_Popularity": 640,
-  "Ranking_PopularitySum": 640,
+  "Ranking_Popularity": 641,
+  "Ranking_PopularitySum": 641,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -135,6 +135,6 @@
   "FirstSeenRating": "2022-10-06T05:31:48.7730935+00:00",
   "LastChanged": "2024-01-22T22:59:41.3337745+00:00",
   "LastUpdate_AppInfo": "2024-05-12T12:59:37.5497059+00:00",
-  "LastUpdate_Ratings": "2024-05-15T02:58:59.7064436+00:00",
+  "LastUpdate_Ratings": "2024-05-15T04:57:34.4648555+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:38.7950236+00:00"
 }
