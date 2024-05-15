@@ -2,7 +2,7 @@
   "ID": "9c1a74145a9145ec803d7452e80819a0",
   "Name": "Fallout 4",
   "ProductSlug": "fallout-4",
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 595,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2024-04-27T19:57:32.7546994+00:00",
@@ -415,6 +415,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 328,
       "NumberOfAwardsMax": 146
+    },
+    {
+      "Time": "2024-05-15T14:59:39.9615523+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 328,
+      "NumberOfAwardsMax": 146
     }
   ],
   "ReviewsDisabled": false,
@@ -483,8 +489,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
-  "LastChanged": "2024-05-15T13:58:17.965283+00:00",
+  "LastChanged": "2024-05-15T14:59:39.9615522+00:00",
   "LastUpdate_AppInfo": "2024-05-09T18:56:54.1494396+00:00",
-  "LastUpdate_Ratings": "2024-05-15T13:58:17.9652833+00:00",
+  "LastUpdate_Ratings": "2024-05-15T14:59:39.9615527+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:08.5050159+00:00"
 }
