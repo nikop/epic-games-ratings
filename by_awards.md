@@ -55,7 +55,7 @@
 | 53 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,593 | 4.56 | 542 |
 | 54 | [Control](games/c/control.md) | 9,492 | 4.61 | 426 |
 | 55 | [Remnant II®](games/r/remnant_2.md) | 9,487 | 4.71 | 211 |
-| 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,434 | 4.68 | 277 |
+| 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,441 | 4.68 | 277 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,305 | 4.74 | 166 |
 | 58 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,632 | 4.84 | 48 |
 | 59 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,626 | 4.49 | 667 |
@@ -89,7 +89,7 @@
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,160 | 4.00 | 1,121 |
 | 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,029 | 4.70 | 225 |
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,953 | 4.65 | 347 |
-| 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,796 | 4.68 | 277 |
+| 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,797 | 4.68 | 277 |
 | 91 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 542 |
 | 92 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,713 | 4.70 | 225 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,591 | 4.46 | 714 |
@@ -128,7 +128,7 @@
 | 126 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,096 | 4.63 | 384 |
 | 127 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,082 | 4.49 | 667 |
 | 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,081 | 4.69 | 255 |
-| 129 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,060 | 4.50 | 646 |
+| 129 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,061 | 4.50 | 646 |
 | 130 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2,002 | 4.66 | 323 |
 | 131 | [Celeste](games/c/celeste.md) | 1,988 | 4.91 | 7 |
 | 132 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,942 | 4.86 | 31 |
@@ -152,7 +152,7 @@
 | 150 | [DOOM 64](games/d/doom_64.md) | 1,320 | 4.66 | 323 |
 | 151 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,290 | 4.42 | 785 |
 | 152 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,289 | 4.69 | 255 |
-| 153 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,256 | 4.46 | 714 |
+| 153 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,258 | 4.46 | 714 |
 | 154 | [Saints Row](games/s/saints_row.md) | 1,253 | 3.90 | 1,148 |
 | 155 | [EVE Online](games/e/eve_online.md) | 1,248 | 4.24 | 994 |
 | 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,245 | 4.47 | 700 |
@@ -240,8 +240,8 @@
 | 238 | [Warface: Clutch](games/w/warface.md) | 511 | 3.89 | 1,150 |
 | 239 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 507 | 4.50 | 646 |
 | 240 | [Second Extinction™](games/s/second_extinction™.md) | 498 | 4.06 | 1,107 |
-| 241 | [Against the Storm](games/a/against_the_storm.md) | 489 | 4.82 | 72 |
-| 241 | [Hello Neighbor](games/h/hello_neighbor.md) | 489 | 4.56 | 542 |
+| 241 | [Hello Neighbor](games/h/hello_neighbor.md) | 491 | 4.56 | 542 |
+| 242 | [Against the Storm](games/a/against_the_storm.md) | 489 | 4.82 | 72 |
 | 243 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 480 | 4.17 | 1,050 |
 | 244 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 476 | 4.62 | 402 |
 | 244 | [Into the Breach](games/i/into_the_breach.md) | 476 | 4.83 | 58 |
@@ -449,14 +449,14 @@
 | 445 | [GRIME](games/g/grime.md) | 80 | 4.60 | 452 |
 | 445 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 80 | 4.19 | 1,033 |
 | 445 | [MetalCore](games/m/metalcore.md) | 80 | 4.41 | 802 |
+| 445 | [Metalstorm](games/m/metalstorm.md) | 80 | 4.43 | 765 |
 | 445 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 80 | 4.62 | 402 |
 | 445 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 80 | 4.21 | 1,018 |
-| 452 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 79 | 4.43 | 765 |
-| 452 | [Potion Permit](games/p/potion_permit.md) | 79 | 3.94 | 1,140 |
-| 452 | [Session: Skate Sim](games/s/session__skate_sim.md) | 79 | 4.68 | 277 |
-| 455 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 78 | 4.40 | 818 |
-| 455 | [Metalstorm](games/m/metalstorm.md) | 78 | 4.43 | 765 |
-| 455 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 78 | 4.51 | 627 |
+| 453 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 79 | 4.43 | 765 |
+| 453 | [Potion Permit](games/p/potion_permit.md) | 79 | 3.94 | 1,140 |
+| 453 | [Session: Skate Sim](games/s/session__skate_sim.md) | 79 | 4.68 | 277 |
+| 456 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 78 | 4.40 | 818 |
+| 456 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 78 | 4.51 | 627 |
 | 458 | [Rising Hell](games/r/rising_hell.md) | 76 | 4.40 | 818 |
 | 458 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 76 | 4.37 | 860 |
 | 460 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 74 | 4.68 | 277 |
