@@ -123,4 +123,3 @@
 | [Unescape?](games/b/b2883057687b4323bef2f2619f95b52c.md) | 2024-04-18 | - |  | - | 0 |
 | [happiness market](games/3/301523940444454f809dd4d9122a4b3f.md) | 2024-04-18 | - |  | - | - |
 | [EMULATED: OpsRunner](games/7/7aa0633c4f714b949071394d35de89bf.md) | 2024-04-17 | - |  | - | - |
-| [Unveiling](games/2/2320bcb2f9f3493bb15518639c01ad49.md) | 2024-04-15 | - |  | - | - |
