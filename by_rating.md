@@ -146,7 +146,7 @@
 | 144 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,695 | 26 |
 | 144 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,581 | 104 |
 | 144 | [Journey](games/j/journey.md) | 4.76 | 0 | 640 |
-| 144 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,531 | 116 |
+| 144 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,535 | 116 |
 | 144 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,838 | 137 |
 | 144 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 640 |
 | 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 220 | 320 |
@@ -258,7 +258,7 @@
 | 255 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 133,296 | 9 |
 | 255 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 640 |
 | 255 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 137 | 375 |
-| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,476 | 60 |
+| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,481 | 60 |
 | 255 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 227 | 316 |
 | 255 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.69 | 56 | 491 |
 | 255 | [House Flipper](games/h/house_flipper.md) | 4.69 | 347 | 271 |
@@ -331,7 +331,7 @@
 | 323 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 193 | 339 |
 | 323 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,320 | 150 |
 | 323 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.66 | 0 | 640 |
-| 323 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.66 | 7,283 | 66 |
+| 323 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.66 | 7,289 | 66 |
 | 323 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 640 |
 | 323 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 640 |
 | 323 | [Outlast 2](games/o/outlast_2.md) | 4.66 | 0 | 640 |
@@ -610,7 +610,7 @@
 | 596 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 562 | 231 |
 | 596 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,174 | 160 |
 | 596 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 416 | 257 |
-| 596 | [Verdun](games/v/verdun.md) | 4.53 | 117 | 396 |
+| 596 | [Verdun](games/v/verdun.md) | 4.53 | 117 | 397 |
 | 612 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 264 | 298 |
 | 612 | [ATOM RPG](games/a/atom_rpg.md) | 4.52 | 56 | 491 |
 | 612 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 640 |
@@ -753,7 +753,7 @@
 | 744 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 342 | 273 |
 | 744 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 640 |
 | 744 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.44 | 0 | 640 |
-| 744 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 117 | 396 |
+| 744 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 118 | 395 |
 | 744 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,207 | 31 |
 | 744 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 640 |
 | 744 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 640 |
@@ -921,15 +921,15 @@
 | 916 | [Ashen](games/a/ashen.md) | 4.32 | 22 | 622 |
 | 916 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 640 |
 | 916 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.32 | 97 | 423 |
-| 916 | [Paladins](games/p/paladins.md) | 4.32 | 4,430 | 95 |
 | 916 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 640 |
 | 916 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.32 | 54 | 497 |
 | 916 | [Vampyr](games/v/vampyr.md) | 4.32 | 610 | 224 |
-| 926 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 114 | 399 |
-| 926 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.31 | 0 | 640 |
-| 926 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,015 | 178 |
-| 926 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 0 | 640 |
-| 926 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 640 |
+| 925 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 114 | 399 |
+| 925 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.31 | 0 | 640 |
+| 925 | [Paladins](games/p/paladins.md) | 4.31 | 4,430 | 95 |
+| 925 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,015 | 178 |
+| 925 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 0 | 640 |
+| 925 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 640 |
 | 931 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.30 | 0 | 640 |
 | 931 | [Expeditions: Viking](games/e/expeditions__viking.md) | 4.30 | 0 | 640 |
 | 931 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.30 | 0 | 640 |
@@ -1136,7 +1136,7 @@
 | 1,132 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 3.96 | 0 | 640 |
 | 1,132 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 3.96 | 0 | 640 |
 | 1,136 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 48 | 515 |
-| 1,136 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 117 | 396 |
+| 1,136 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 117 | 397 |
 | 1,136 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 640 |
 | 1,136 | [True Reporter. Hidden Mistwood](games/f/f3cdd34e969744e3a60c38fbd1c29669.md) | 3.95 | 0 | 640 |
 | 1,140 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 31 | 571 |
