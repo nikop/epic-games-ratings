@@ -127,21 +127,21 @@
 | 125 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,109 | 4.89 | 14 |
 | 126 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,096 | 4.63 | 384 |
 | 127 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,082 | 4.49 | 667 |
-| 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,081 | 4.69 | 255 |
+| 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,082 | 4.69 | 255 |
 | 129 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,061 | 4.50 | 646 |
 | 130 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2,002 | 4.66 | 323 |
 | 131 | [Celeste](games/c/celeste.md) | 1,988 | 4.91 | 7 |
 | 132 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,942 | 4.86 | 31 |
 | 133 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 1,899 | 4.82 | 72 |
-| 134 | [Conan Exiles](games/c/conan_exiles.md) | 1,869 | 4.54 | 577 |
-| 134 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,869 | 4.56 | 542 |
+| 134 | [Conan Exiles](games/c/conan_exiles.md) | 1,871 | 4.54 | 577 |
+| 135 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,869 | 4.56 | 542 |
 | 136 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,850 | 4.63 | 384 |
 | 137 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,838 | 4.76 | 144 |
 | 138 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,812 | 4.80 | 96 |
 | 139 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,808 | 4.56 | 542 |
 | 140 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,743 | 4.87 | 22 |
 | 141 | [MORDHAU](games/m/mordhau.md) | 1,718 | 4.36 | 868 |
-| 142 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,671 | 4.79 | 106 |
+| 142 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,674 | 4.79 | 106 |
 | 143 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,660 | 4.75 | 151 |
 | 144 | [XCOM® 2](games/x/xcom®_2.md) | 1,603 | 4.55 | 558 |
 | 145 | [OUTRIDERS](games/o/outriders.md) | 1,596 | 4.43 | 765 |
@@ -282,9 +282,9 @@
 | 280 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 316 | 4.66 | 323 |
 | 281 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 312 | 4.62 | 402 |
 | 282 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 309 | 4.45 | 725 |
-| 283 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 402 |
-| 284 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 304 | 4.63 | 384 |
-| 284 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 304 | 4.34 | 891 |
+| 283 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 307 | 4.34 | 891 |
+| 284 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 402 |
+| 285 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 304 | 4.63 | 384 |
 | 286 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 300 | 4.44 | 744 |
 | 287 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 972 |
 | 288 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 296 | 4.80 | 96 |
@@ -342,12 +342,12 @@
 | 340 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 184 | 4.08 | 1,100 |
 | 341 | [Encased](games/e/encased.md) | 183 | 4.35 | 882 |
 | 341 | [Mothergunship](games/m/mothergunship.md) | 183 | 4.38 | 846 |
-| 343 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 181 | 4.79 | 106 |
-| 343 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 181 | 4.28 | 952 |
-| 345 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 180 | 4.42 | 785 |
-| 346 | [Cris Tales](games/c/cris_tales.md) | 179 | 4.36 | 868 |
-| 347 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 178 | 4.51 | 627 |
-| 347 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 178 | 4.70 | 225 |
+| 343 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 182 | 4.70 | 225 |
+| 344 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 181 | 4.79 | 106 |
+| 344 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 181 | 4.28 | 952 |
+| 346 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 180 | 4.42 | 785 |
+| 347 | [Cris Tales](games/c/cris_tales.md) | 179 | 4.36 | 868 |
+| 348 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 178 | 4.51 | 627 |
 | 349 | [SYNCED](games/s/synced.md) | 177 | 4.10 | 1,090 |
 | 349 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 177 | 4.86 | 31 |
 | 351 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 1,057 |
