@@ -4,7 +4,7 @@
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 277,
   "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 399,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 398,
   "Ranking_EOS_NewPlayers": 25,
@@ -1081,10 +1081,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 376,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-05-15T09:59:02.0337388+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 377,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 376,
+  "NumberOfAwards": 377,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1116,7 +1122,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7968,9 +7974,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2024-05-15T01:48:43.0331283+00:00",
+  "LastChanged": "2024-05-15T09:59:02.0337386+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:03.3697914+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:16.3128553+00:00",
-  "LastUpdate_Ratings": "2024-05-15T08:57:18.1004442+00:00",
+  "LastUpdate_Ratings": "2024-05-15T09:59:02.0337395+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:03.3698657+00:00"
 }
