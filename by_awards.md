@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 822,516 | 4.44 | 745 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 372,612 | 4.68 | 277 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 340,646 | 4.67 | 300 |
-| 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 317,812 | 4.87 | 22 |
+| 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 318,194 | 4.87 | 22 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 228,661 | 4.18 | 1,045 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 164,382 | 4.68 | 277 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 159,680 | 4.50 | 646 |
@@ -45,7 +45,7 @@
 | 43 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 11,981 | 4.58 | 494 |
 | 44 | [NBA 2K21](games/n/nba_2k21.md) | 11,873 | 4.38 | 846 |
 | 45 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 11,779 | 4.67 | 300 |
-| 46 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,376 | 4.61 | 427 |
+| 46 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,380 | 4.61 | 427 |
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 10,775 | 4.78 | 117 |
 | 48 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 10,704 | 4.63 | 384 |
 | 49 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,321 | 4.89 | 14 |
@@ -88,7 +88,7 @@
 | 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,378 | 4.37 | 860 |
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,160 | 4.00 | 1,122 |
 | 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,029 | 4.70 | 225 |
-| 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,953 | 4.65 | 346 |
+| 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,961 | 4.65 | 346 |
 | 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,797 | 4.68 | 277 |
 | 91 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 542 |
 | 92 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,713 | 4.70 | 225 |
@@ -175,8 +175,8 @@
 | 173 | [Ooblets](games/o/ooblets.md) | 1,059 | 4.88 | 18 |
 | 174 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,051 | 4.80 | 96 |
 | 174 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,051 | 4.24 | 994 |
-| 176 | [FAR CRY 4](games/f/far_cry_4.md) | 1,020 | 4.67 | 300 |
-| 176 | [Sonic Mania](games/s/sonic_mania.md) | 1,020 | 4.77 | 125 |
+| 176 | [FAR CRY 4](games/f/far_cry_4.md) | 1,025 | 4.67 | 300 |
+| 177 | [Sonic Mania](games/s/sonic_mania.md) | 1,020 | 4.77 | 125 |
 | 178 | [Dishonored 2](games/d/dishonored_2.md) | 1,015 | 4.77 | 125 |
 | 178 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,015 | 4.31 | 924 |
 | 180 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 1,004 |
@@ -227,7 +227,7 @@
 | 225 | [Surviving Mars](games/s/surviving_mars.md) | 603 | 4.61 | 427 |
 | 226 | [Filament](games/f/filament.md) | 602 | 4.33 | 904 |
 | 227 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 601 | 4.40 | 818 |
-| 228 | [Predecessor](games/p/predecessor.md) | 591 | 4.25 | 987 |
+| 228 | [Predecessor](games/p/predecessor.md) | 592 | 4.25 | 987 |
 | 229 | [The Outlast Trials](games/t/the_outlast_trials.md) | 583 | 4.65 | 346 |
 | 230 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 566 | 4.78 | 117 |
 | 231 | [Terraforming Mars](games/t/terraforming_mars.md) | 562 | 4.53 | 595 |

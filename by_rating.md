@@ -25,7 +25,7 @@
 | 22 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 803 | 199 |
 | 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,619 | 84 |
 | 22 | [Inscryption](games/i/inscryption.md) | 4.87 | 370 | 266 |
-| 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 317,812 | 5 |
+| 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 318,194 | 5 |
 | 22 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,590 | 27 |
 | 22 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 613 |
 | 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 704 | 206 |
@@ -138,7 +138,7 @@
 | 125 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 893 | 192 |
 | 125 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.77 | 38 | 540 |
 | 125 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 642 |
-| 125 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,020 | 176 |
+| 125 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,020 | 177 |
 | 125 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 642 |
 | 125 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.77 | 0 | 642 |
 | 125 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 173 | 354 |
@@ -307,7 +307,7 @@
 | 300 | [Dungeons 4](games/d/dungeons_4.md) | 4.67 | 0 | 642 |
 | 300 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 642 |
 | 300 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 11,779 | 45 |
-| 300 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,020 | 176 |
+| 300 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,025 | 176 |
 | 300 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 340,646 | 4 |
 | 300 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 642 |
 | 300 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,384 | 120 |
@@ -362,7 +362,7 @@
 | 346 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 465 |
 | 346 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 642 |
 | 346 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 583 | 229 |
-| 346 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,953 | 89 |
+| 346 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,961 | 89 |
 | 346 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.65 | 0 | 642 |
 | 346 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.65 | 0 | 642 |
 | 366 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 642 |
@@ -442,7 +442,7 @@
 | 427 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 642 |
 | 427 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 642 |
 | 427 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 830 | 197 |
-| 427 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,376 | 46 |
+| 427 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,380 | 46 |
 | 427 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,136 | 163 |
 | 427 | [Supraland](games/s/supraland.md) | 4.61 | 7,864 | 64 |
 | 427 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 603 | 225 |
@@ -989,7 +989,7 @@
 | 987 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 22 | 622 |
 | 987 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 642 |
 | 987 | [Men of War](games/m/men_of_war.md) | 4.25 | 0 | 642 |
-| 987 | [Predecessor](games/p/predecessor.md) | 4.25 | 591 | 228 |
+| 987 | [Predecessor](games/p/predecessor.md) | 4.25 | 592 | 228 |
 | 987 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 642 |
 | 987 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 642 |
 | 987 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 25 | 608 |
