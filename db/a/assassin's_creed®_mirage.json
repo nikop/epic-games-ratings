@@ -3,8 +3,8 @@
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 765,
-  "Ranking_Popularity": 262,
-  "Ranking_PopularitySum": 198,
+  "Ranking_Popularity": 261,
+  "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -6127,11 +6127,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 3094,
       "NumberOfAwardsMax": 386
+    },
+    {
+      "Time": "2024-05-16T15:58:40.2613564+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 3100,
+      "NumberOfAwardsMax": 387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3094,
-  "NumberOfAwardsMax": 386,
+  "NumberOfAwards": 3100,
+  "NumberOfAwardsMax": 387,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6144,7 +6150,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 386
+      "Count": 387
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6168,7 +6174,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 303
+      "Count": 307
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6180,7 +6186,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 297
+      "Count": 298
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6213,8 +6219,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-05-16T13:02:47.5385085+00:00",
+  "LastChanged": "2024-05-16T15:58:40.2613562+00:00",
   "LastUpdate_AppInfo": "2024-05-12T16:57:19.6334735+00:00",
-  "LastUpdate_Ratings": "2024-05-16T14:00:14.2543351+00:00",
+  "LastUpdate_Ratings": "2024-05-16T15:58:40.2613568+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:42.036615+00:00"
 }
