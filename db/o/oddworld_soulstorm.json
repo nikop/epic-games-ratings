@@ -2,7 +2,7 @@
   "ID": "e099f2abf3324d248054bf14c476fbc0",
   "Name": "Oddworld: Soulstorm Enhanced Edition",
   "ProductSlug": "oddworld-soulstorm",
-  "Ranking_Rating": 255,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.66,
   "NumberOfRatings": 72,
   "RatingHistory": [
     {
@@ -276,6 +276,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 40,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-05-16T03:00:02.474664+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
@@ -301,8 +307,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:54.3777281+00:00",
-  "LastChanged": "2024-03-19T20:58:13.112926+00:00",
+  "LastChanged": "2024-05-16T03:00:02.4746638+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:14.6631147+00:00",
-  "LastUpdate_Ratings": "2024-05-16T02:20:56.775912+00:00",
+  "LastUpdate_Ratings": "2024-05-16T03:00:02.4746644+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:22.2330509+00:00"
 }
