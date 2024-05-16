@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Die By The Blade](games/d/die_by_the_blade.md) | 2024-05-16 | - |  | - | - |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | - |  | - | - |
 | [In Stars and Time](games/0/0edb660794414ac59242c0942609e991.md) | 2024-05-16 | - |  | - | - |
