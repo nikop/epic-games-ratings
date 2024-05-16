@@ -11,8 +11,8 @@
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 1 | - | - |
 | [I'm determined to make 3A: 01 in 65](games/e/e2be1d8966c84260a891372bc270c810.md) | 2024-05-20 | - |  | - | - |
 | [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-05-20 | - |  | - | 0 |
-| [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-21 | - |  | - | - |
 | [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | - |
+| [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-23 | - |  | - | - |
 | [Ships At Sea](games/5/5c610ed6aec14085a604cb5e42e70ad4.md) | 2024-05-23 | - |  | - | - |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 1 | - | - |
 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | - |  | - | - |
