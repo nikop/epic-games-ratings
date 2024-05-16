@@ -4,7 +4,7 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 668,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 357,
+  "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1525,10 +1525,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 595,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-05-16T13:58:32.2395278+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 596,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 595,
+  "NumberOfAwards": 596,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1554,7 +1560,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1610,8 +1616,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-05-09T22:57:26.165633+00:00",
+  "LastChanged": "2024-05-16T13:58:32.2395276+00:00",
   "LastUpdate_AppInfo": "2024-05-12T12:59:38.3004422+00:00",
-  "LastUpdate_Ratings": "2024-05-16T11:59:37.0997962+00:00",
+  "LastUpdate_Ratings": "2024-05-16T13:58:32.2395281+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:26.4660981+00:00"
 }
