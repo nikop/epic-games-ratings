@@ -57,8 +57,8 @@
 | 55 | [Remnant II®](games/r/remnant_2.md) | 9,492 | 4.71 | 212 |
 | 56 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,446 | 4.68 | 276 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,305 | 4.74 | 166 |
-| 58 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,634 | 4.84 | 48 |
-| 59 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,626 | 4.49 | 668 |
+| 58 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,641 | 4.49 | 668 |
+| 59 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,634 | 4.84 | 48 |
 | 60 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,482 | 4.69 | 255 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,467 | 4.75 | 151 |
 | 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,289 | 4.71 | 212 |
@@ -100,7 +100,7 @@
 | 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,090 | 4.48 | 686 |
 | 99 | [Hades](games/h/hades.md) | 3,828 | 4.92 | 6 |
 | 100 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 3,798 | 4.57 | 519 |
-| 101 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,780 | 4.66 | 322 |
+| 101 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,782 | 4.66 | 322 |
 | 102 | [Gloomhaven](games/g/gloomhaven.md) | 3,685 | 4.47 | 701 |
 | 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,597 | 4.57 | 519 |
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,582 | 4.76 | 144 |
@@ -205,10 +205,10 @@
 | 203 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 743 | 4.58 | 494 |
 | 204 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 742 | 4.63 | 384 |
 | 205 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 720 | 3.97 | 1,128 |
-| 206 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 704 | 4.87 | 22 |
-| 207 | [Star Trek Online](games/s/star_trek_online.md) | 703 | 4.45 | 726 |
-| 208 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 702 | 4.50 | 646 |
-| 208 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 702 | 4.40 | 818 |
+| 206 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 705 | 4.40 | 818 |
+| 207 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 704 | 4.87 | 22 |
+| 208 | [Star Trek Online](games/s/star_trek_online.md) | 703 | 4.45 | 726 |
+| 209 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 702 | 4.50 | 646 |
 | 210 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 698 | 4.83 | 58 |
 | 211 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 693 | 4.70 | 225 |
 | 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 691 | 4.70 | 225 |
@@ -292,7 +292,7 @@
 | 290 | [Sheltered](games/s/sheltered.md) | 288 | 4.41 | 802 |
 | 291 | [Roller Champions™](games/r/roller_champions™.md) | 284 | 4.35 | 881 |
 | 292 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 282 | 4.48 | 686 |
-| 293 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 280 | 4.44 | 745 |
+| 293 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 281 | 4.44 | 745 |
 | 294 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 279 | 4.39 | 839 |
 | 294 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 279 | 4.58 | 494 |
 | 296 | [Crysis Remastered](games/c/crysis_remastered.md) | 275 | 4.43 | 765 |

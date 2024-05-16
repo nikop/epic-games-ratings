@@ -28,7 +28,7 @@
 | 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 318,194 | 5 |
 | 22 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,590 | 27 |
 | 22 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 613 |
-| 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 704 | 206 |
+| 22 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 704 | 207 |
 | 22 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.87 | 0 | 642 |
 | 31 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 152 | 364 |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 48 | 515 |
@@ -49,7 +49,7 @@
 | 38 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 0 | 642 |
 | 48 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.84 | 0 | 642 |
 | 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 52 | 509 |
-| 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,634 | 58 |
+| 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,634 | 59 |
 | 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 642 |
 | 48 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 56 | 493 |
 | 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,143 | 32 |
@@ -321,7 +321,7 @@
 | 299 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.67 | 105 | 406 |
 | 299 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.67 | 0 | 642 |
 | 299 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 27 | 594 |
-| 322 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,780 | 101 |
+| 322 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,782 | 101 |
 | 322 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 103 | 411 |
 | 322 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 317 | 278 |
 | 322 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 7,934 | 63 |
@@ -661,14 +661,14 @@
 | 646 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 125 | 387 |
 | 646 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 642 |
 | 646 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.50 | 0 | 642 |
-| 646 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 702 | 208 |
+| 646 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 702 | 209 |
 | 646 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.50 | 0 | 642 |
 | 646 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,742 | 39 |
 | 646 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.50 | 0 | 642 |
 | 646 | [VALORANT](games/v/valorant.md) | 4.50 | 116,975 | 10 |
 | 646 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 503 |
 | 668 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,082 | 127 |
-| 668 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,626 | 59 |
+| 668 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,641 | 58 |
 | 668 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 642 |
 | 668 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.49 | 0 | 642 |
 | 668 | [Maneater](games/m/maneater.md) | 4.49 | 14,180 | 37 |
@@ -739,7 +739,7 @@
 | 726 | [Scorn](games/s/scorn.md) | 4.45 | 0 | 642 |
 | 726 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.45 | 0 | 642 |
 | 726 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 0 | 642 |
-| 726 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 703 | 207 |
+| 726 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 703 | 208 |
 | 726 | [STG Football](games/s/stg_football.md) | 4.45 | 55 | 496 |
 | 726 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 309 | 282 |
 | 726 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.45 | 0 | 642 |
@@ -749,7 +749,7 @@
 | 745 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.44 | 47 | 518 |
 | 745 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 642 |
 | 745 | [DEATHLOOP](games/d/deathloop.md) | 4.44 | 89 | 436 |
-| 745 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 280 | 293 |
+| 745 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 281 | 293 |
 | 745 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 76,081 | 11 |
 | 745 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 342 | 273 |
 | 745 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 642 |
@@ -834,7 +834,7 @@
 | 818 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 458 |
 | 818 | [Sail Forth](games/s/sail_forth.md) | 4.40 | 28 | 586 |
 | 818 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 601 | 227 |
-| 818 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.40 | 702 | 208 |
+| 818 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.40 | 705 | 206 |
 | 818 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 216 | 323 |
 | 818 | [The Big Con](games/t/the_big_con.md) | 4.40 | 0 | 642 |
 | 818 | [War Mongrels](games/w/war_mongrels.md) | 4.40 | 0 | 642 |
