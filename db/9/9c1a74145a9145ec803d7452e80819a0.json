@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-4",
   "Ranking_Rating": 576,
   "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -445,10 +445,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 368,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2024-05-16T04:00:15.5560087+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 409,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 368,
+  "NumberOfAwards": 409,
   "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -505,6 +511,12 @@
       "Prefix": "This game has",
       "Type": "Challenging Combat",
       "Count": 28
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 41
     }
   ],
   "EOS_Progressed": 0,
@@ -519,8 +531,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
-  "LastChanged": "2024-05-16T02:59:15.362827+00:00",
+  "LastChanged": "2024-05-16T04:00:15.5560085+00:00",
   "LastUpdate_AppInfo": "2024-05-09T18:56:54.1494396+00:00",
-  "LastUpdate_Ratings": "2024-05-16T02:59:15.3628275+00:00",
+  "LastUpdate_Ratings": "2024-05-16T04:00:15.556009+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:08.5050159+00:00"
 }

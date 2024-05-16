@@ -3,8 +3,8 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 117,
-  "Ranking_Popularity": 311,
-  "Ranking_PopularitySum": 299,
+  "Ranking_Popularity": 302,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1793,18 +1793,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 936,
       "NumberOfAwardsMax": 239
+    },
+    {
+      "Time": "2024-05-16T03:57:20.6641926+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 948,
+      "NumberOfAwardsMax": 248
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 936,
-  "NumberOfAwardsMax": 239,
+  "NumberOfAwards": 948,
+  "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 239
+      "Count": 248
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1828,7 +1834,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1882,7 +1888,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game is Educational",
@@ -1903,8 +1909,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-05-15T21:57:33.3951563+00:00",
+  "LastChanged": "2024-05-16T03:57:20.6641925+00:00",
   "LastUpdate_AppInfo": "2024-05-15T23:56:56.8018435+00:00",
-  "LastUpdate_Ratings": "2024-05-16T02:22:40.2297575+00:00",
+  "LastUpdate_Ratings": "2024-05-16T03:57:20.6641929+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
