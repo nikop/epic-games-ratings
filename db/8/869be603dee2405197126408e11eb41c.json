@@ -2,7 +2,7 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-09-27T08:01:20.8251438+00:00",
@@ -2657,6 +2657,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 875,
       "NumberOfAwardsMax": 279
+    },
+    {
+      "Time": "2024-05-16T09:57:03.2581662+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 875,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
@@ -2743,8 +2749,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-05-15T15:57:46.3654879+00:00",
+  "LastChanged": "2024-05-16T09:57:03.258166+00:00",
   "LastUpdate_AppInfo": "2024-05-10T17:57:02.1518024+00:00",
-  "LastUpdate_Ratings": "2024-05-16T07:59:05.471827+00:00",
+  "LastUpdate_Ratings": "2024-05-16T09:57:03.2581666+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:06.3528888+00:00"
 }
