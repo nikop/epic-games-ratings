@@ -110,7 +110,7 @@
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | 0 |
 | [APE SQUAD](games/0/09c47d3d9f3847d28e192c31f5622e98.md) | 2023-09-26 | - |  | - | 0 |
 | [Generative Quest](games/b/bf62490d4c7d476980a52286c5554f6e.md) | 2023-09-18 | - |  | - | 0 |
-| [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | 4.39 | 279 |
+| [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | 4.38 | 279 |
 | [Kode Zero](games/d/dc4c4be805e344a4bab504dc2c2a526d.md) | 2023-09-12 | - |  | - | 0 |
 | [The Moshpit Tournament](games/2/2d9bae7960d34288b85d26ed3196d90d.md) | 2023-09-10 | - |  | - | 0 |
 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 53,619 | 4.33 | 307 |
@@ -124,7 +124,7 @@
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | 4.77 | 40 |
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | 0 |
 | [DinoDash](games/3/3411919497ef47359de5d9a67a7225fb.md) | 2023-06-30 | - |  | - | 0 |
-| [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | 4.24 | 0 |
+| [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | 4.12 | 0 |
 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 2023-06-27 | - |  | 4.18 | 0 |
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | 4.43 | 30 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.65 | 0 |

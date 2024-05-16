@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | - |  | - | - |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2024-05-16 | - |  | - | - |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | - | - |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | - |  | - | - |
