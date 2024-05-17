@@ -2,7 +2,7 @@
   "ID": "935fa66c485e4c988eb939f86dc458b5",
   "Name": "Phantom Brigade",
   "ProductSlug": "phantom-brigade",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 643,
   "Ranking_PopularitySum": 643,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 239,
   "RatingHistory": [
     {
@@ -506,6 +506,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-17T14:58:28.1314924+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -530,8 +536,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
-  "LastChanged": "2024-04-02T20:58:25.9799377+00:00",
+  "LastChanged": "2024-05-17T14:58:28.1314922+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:52.99469+00:00",
-  "LastUpdate_Ratings": "2024-05-17T13:03:46.1108529+00:00",
+  "LastUpdate_Ratings": "2024-05-17T14:58:28.1314928+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:08.2190744+00:00"
 }
