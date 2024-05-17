@@ -2,9 +2,9 @@
   "ID": "f4be56a88fff45fb8ffb1f05f1c76467",
   "Name": "The Front",
   "ProductSlug": "the-front-3a8219",
-  "Ranking_Rating": 1098,
+  "Ranking_Rating": 1099,
   "Ranking_Popularity": 584,
-  "Ranking_PopularitySum": 522,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -707,10 +707,16 @@
       "Rating": 4.09,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-05-17T19:01:29.2165555+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 98,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97,
+  "NumberOfAwards": 98,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -754,7 +760,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -769,8 +775,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:43.5636582+00:00",
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
-  "LastChanged": "2024-05-14T18:59:06.4941015+00:00",
+  "LastChanged": "2024-05-17T19:01:29.2165552+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:08.5735524+00:00",
-  "LastUpdate_Ratings": "2024-05-17T17:59:03.1204239+00:00",
+  "LastUpdate_Ratings": "2024-05-17T19:01:29.2165558+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:36.0149417+00:00"
 }

@@ -1,7 +1,7 @@
 # Fort Triumph
 [Store](https://store.epicgames.com/en-US/p/fort-triumph)  
 [View Rawdata](../../db/f/fort_triumph.json)  
-Rating: 4.08 (Ranked 1,102)  
+Rating: 4.08 (Ranked 1,103)  
 ## Awards
 Max (Character Customization): 146  (Ranked 368)  
 Sum: 146 (Ranked 493)  

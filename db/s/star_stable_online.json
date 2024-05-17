@@ -2,7 +2,7 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isPromotionalContentUsed": "null"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -3939,6 +3939,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 1707,
       "NumberOfAwardsMax": 216
+    },
+    {
+      "Time": "2024-05-17T18:58:41.2771982+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 1707,
+      "NumberOfAwardsMax": 216
     }
   ],
   "ReviewsDisabled": false,
@@ -4030,8 +4036,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2024-05-16T18:00:45.6467199+00:00",
+  "LastChanged": "2024-05-17T18:58:41.277198+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:17.2234378+00:00",
-  "LastUpdate_Ratings": "2024-05-17T17:00:03.1022887+00:00",
+  "LastUpdate_Ratings": "2024-05-17T18:58:41.2771985+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:56.9073426+00:00"
 }
