@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 278,
+  "Ranking_Rating": 277,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 42,
@@ -18985,10 +18985,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 78012,
       "NumberOfAwardsMax": 9482
+    },
+    {
+      "Time": "2024-05-17T15:58:31.853772+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 78063,
+      "NumberOfAwardsMax": 9482
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 78012,
+  "NumberOfAwards": 78063,
   "NumberOfAwardsMax": 9482,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -18996,7 +19002,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9104
+      "Count": 9120
     },
     {
       "Text": "This game has Challenging Combat",
@@ -19038,7 +19044,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 8622
+      "Count": 8642
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -19050,7 +19056,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 7257
+      "Count": 7272
     },
     {
       "Text": "This game has Unique Visuals",
@@ -54605,9 +54611,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-05-17T14:00:20.4967459+00:00",
+  "LastChanged": "2024-05-17T15:58:31.8537718+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:40.1408172+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:20.2424819+00:00",
-  "LastUpdate_Ratings": "2024-05-17T14:00:20.4967465+00:00",
+  "LastUpdate_Ratings": "2024-05-17T15:58:31.8537726+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:40.1418904+00:00"
 }

@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 278)  
+Rating: 4.68 (Ranked 277)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -658,19 +658,19 @@ Completed: 4 (0.00%) (Ranked 458)
 | 2024-04-10 | 542,311 | 4 |
 ## Awards
 Max (Diverse Characters): 9,482  (Ranked 56)  
-Sum: 78,012 (Ranked 26)  
+Sum: 78,063 (Ranked 26)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 9,482 |
 | This game is Educational | 9,466 |
-| This game is Highly Recommended | 9,104 |
+| This game is Highly Recommended | 9,120 |
 | This game has Challenging Combat | 9,000 |
 | This game is Extremely Fun | 8,786 |
-| This game is Relaxing | 8,622 |
+| This game is Relaxing | 8,642 |
 | This game has Competitive Players | 8,437 |
 | This game has Amazing Storytelling | 7,858 |
-| This game has Amazing Characters | 7,257 |
+| This game has Amazing Characters | 7,272 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -1161,4 +1161,4 @@ Diff (max vs sum): 30
 | 2024-05-14 | 4.68 | - | 9,434 | 77,722 |
 | 2024-05-15 | 4.68 | - | 9,446 | 77,821 |
 | 2024-05-16 | 4.68 | - | 9,466 | 77,911 |
-| 2024-05-17 | 4.68 | - | 9,482 | 78,012 |
+| 2024-05-17 | 4.68 | - | 9,482 | 78,063 |
