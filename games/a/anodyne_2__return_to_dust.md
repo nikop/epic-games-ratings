@@ -1,7 +1,7 @@
 # Anodyne 2: Return To Dust
 [Store](https://store.epicgames.com/en-US/p/anodyne-2-return-to-dust)  
 [View Rawdata](../../db/a/anodyne_2__return_to_dust.json)  
-Rating: 4.32 (Ranked 919)  
+Rating: 4.34 (Ranked 893)  
 Number of Ratings: 20  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -25,3 +25,4 @@ Number of Ratings: 20  (23.09.2022)
 | 2024-03-10 | 4.29 | - | 0 | 0 |
 | 2024-03-22 | 4.31 | - | 0 | 0 |
 | 2024-04-19 | 4.32 | - | 0 | 0 |
+| 2024-05-17 | 4.34 | - | 0 | 0 |
