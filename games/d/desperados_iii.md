@@ -51,8 +51,8 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-03-21 | 773 | 0 |
 | 2024-04-10 | 1,246 | 0 |
 ## Awards
-Max (Amazing Storytelling): 52  (Ranked 511)  
-Sum: 354 (Ranked 405)  
+Max (Amazing Storytelling): 52  (Ranked 510)  
+Sum: 354 (Ranked 404)  
 Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |

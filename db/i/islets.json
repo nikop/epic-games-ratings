@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 212,
   "Ranking_Popularity": 556,
-  "Ranking_PopularitySum": 471,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -472,10 +472,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 188,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-05-17T06:58:41.8660597+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 189,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 188,
+  "NumberOfAwards": 189,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -489,7 +495,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Playful Visuals",
@@ -540,8 +546,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-05-16T06:57:26.9556434+00:00",
+  "LastChanged": "2024-05-17T06:58:41.8660595+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:31.9797727+00:00",
-  "LastUpdate_Ratings": "2024-05-17T05:01:04.5734283+00:00",
+  "LastUpdate_Ratings": "2024-05-17T06:58:41.8660599+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:12.1786525+00:00"
 }

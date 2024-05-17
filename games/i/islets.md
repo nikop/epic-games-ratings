@@ -4,13 +4,13 @@
 Rating: 4.71 (Ranked 212)  
 ## Awards
 Max (Extremely Fun): 34  (Ranked 556)  
-Sum: 188 (Ranked 471)  
-Diff (max vs sum): 85  
+Sum: 189 (Ranked 470)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 34 |
 | This game is Highly Recommended | 31 |
-| This game has Quickly Understood Controls | 27 |
+| This game has Quickly Understood Controls | 28 |
 | This game is Great for Beginners | 27 |
 | This game has Playful Visuals | 25 |
 | This game is Relaxing | 24 |
@@ -59,3 +59,4 @@ Diff (max vs sum): 85
 | 2024-05-12 | 4.71 | 32 | 185 |
 | 2024-05-14 | 4.70 | 34 | 188 |
 | 2024-05-16 | 4.71 | 34 | 188 |
+| 2024-05-17 | 4.71 | 34 | 189 |
