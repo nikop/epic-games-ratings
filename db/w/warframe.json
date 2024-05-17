@@ -2,7 +2,7 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 428,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 24,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 987,
@@ -19280,10 +19280,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 67898,
       "NumberOfAwardsMax": 23888
+    },
+    {
+      "Time": "2024-05-17T19:58:44.0000501+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 67924,
+      "NumberOfAwardsMax": 23888
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 67898,
+  "NumberOfAwards": 67924,
   "NumberOfAwardsMax": 23888,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -19303,13 +19309,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5257
+      "Count": 5263
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5340
+      "Count": 5349
     },
     {
       "Text": "This game is Highly Recommended",
@@ -19333,7 +19339,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5307
+      "Count": 5318
     },
     {
       "Text": "This game has Unique Visuals",
@@ -19365,8 +19371,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2024-05-17T09:00:37.8997287+00:00",
+  "LastChanged": "2024-05-17T19:58:44.00005+00:00",
   "LastUpdate_AppInfo": "2024-05-12T05:57:24.4904622+00:00",
-  "LastUpdate_Ratings": "2024-05-17T18:00:58.0966209+00:00",
+  "LastUpdate_Ratings": "2024-05-17T19:58:44.0000505+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:14.2784113+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "6e6aa039c73347b885803de65ac5d3db",
   "Name": "Ghost of Tsushima DIRECTOR\u0027S CUT",
   "ProductSlug": "ghost-of-tsushima",
-  "Ranking_Rating": 17,
+  "Ranking_Rating": 9,
   "Ranking_Popularity": 643,
   "Ranking_PopularitySum": 643,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.88,
+  "Rating": 4.9,
   "RatingHistory": [
     {
       "Time": "2024-05-17T11:59:38.4268401+00:00",
@@ -29,6 +29,12 @@
     {
       "Time": "2024-05-17T16:58:05.017559+00:00",
       "Rating": 4.88,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-17T19:58:20.4932428+00:00",
+      "Rating": 4.9,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -57,9 +63,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-05-17T16:58:05.0175588+00:00",
+  "LastChanged": "2024-05-17T19:58:20.4932426+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:01.6038252+00:00",
   "LastUpdate_AppInfo": "2024-05-15T23:56:54.4241796+00:00",
-  "LastUpdate_Ratings": "2024-05-17T18:00:34.3194691+00:00",
+  "LastUpdate_Ratings": "2024-05-17T19:58:20.4932432+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:01.6038632+00:00"
 }
