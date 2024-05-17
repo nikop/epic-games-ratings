@@ -2,7 +2,7 @@
   "ID": "ff50f85ed609454e80ac46d9496da34d",
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
-  "Ranking_Rating": 277,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 6301,
   "RatingHistory": [
     {
@@ -6994,6 +6994,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 4653,
       "NumberOfAwardsMax": 535
+    },
+    {
+      "Time": "2024-05-17T05:58:45.3204774+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4653,
+      "NumberOfAwardsMax": 535
     }
   ],
   "ReviewsDisabled": false,
@@ -7073,8 +7079,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-05-16T22:00:09.8074661+00:00",
+  "LastChanged": "2024-05-17T05:58:45.3204772+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:51.3731911+00:00",
-  "LastUpdate_Ratings": "2024-05-17T03:59:46.2069505+00:00",
+  "LastUpdate_Ratings": "2024-05-17T05:58:45.3204777+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:19.5888782+00:00"
 }
