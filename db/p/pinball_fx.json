@@ -2,9 +2,9 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 1102,
+  "Ranking_Rating": 1107,
   "Ranking_Popularity": 313,
-  "Ranking_PopularitySum": 248,
+  "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.08,
+  "Rating": 4.07,
   "NumberOfRatings": 756,
   "RatingHistory": [
     {
@@ -2741,10 +2741,16 @@
       "Rating": 4.08,
       "NumberOfAwards": 1747,
       "NumberOfAwardsMax": 234
+    },
+    {
+      "Time": "2024-05-17T18:00:08.1215369+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 1748,
+      "NumberOfAwardsMax": 234
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1747,
+  "NumberOfAwards": 1748,
   "NumberOfAwardsMax": 234,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2806,7 +2812,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game has Amazing Characters",
@@ -35609,9 +35615,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2024-05-17T14:59:05.5943207+00:00",
+  "LastChanged": "2024-05-17T18:00:08.1215367+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:45.0098673+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:58:06.4113133+00:00",
-  "LastUpdate_Ratings": "2024-05-17T16:57:43.6462396+00:00",
+  "LastUpdate_Ratings": "2024-05-17T18:00:08.1215372+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:45.0100044+00:00"
 }

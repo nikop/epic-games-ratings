@@ -2,7 +2,7 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
-  "Ranking_Rating": 933,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 1084,
   "RatingHistory": [
     {
@@ -4285,6 +4285,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 2674,
       "NumberOfAwardsMax": 844
+    },
+    {
+      "Time": "2024-05-17T17:58:21.498847+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 2674,
+      "NumberOfAwardsMax": 844
     }
   ],
   "ReviewsDisabled": false,
@@ -4370,8 +4376,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2024-05-17T02:57:05.686959+00:00",
+  "LastChanged": "2024-05-17T17:58:21.4988468+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:42.6107387+00:00",
-  "LastUpdate_Ratings": "2024-05-17T15:59:29.3246447+00:00",
+  "LastUpdate_Ratings": "2024-05-17T17:58:21.4988473+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:10.5945486+00:00"
 }
