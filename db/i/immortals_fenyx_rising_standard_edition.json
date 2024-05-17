@@ -4,7 +4,7 @@
   "ProductSlug": "immortals-fenyx-rising",
   "Ranking_Rating": 469,
   "Ranking_Popularity": 183,
-  "Ranking_PopularitySum": 265,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3493,6 +3493,6 @@
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
   "LastChanged": "2024-05-16T19:58:33.2692757+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:58:12.5250213+00:00",
-  "LastUpdate_Ratings": "2024-05-16T22:59:14.5685328+00:00",
+  "LastUpdate_Ratings": "2024-05-17T01:44:18.34599+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:49.0105202+00:00"
 }

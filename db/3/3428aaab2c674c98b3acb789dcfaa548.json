@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-new-vegas",
   "Ranking_Rating": 299,
   "Ranking_Popularity": 45,
-  "Ranking_PopularitySum": 44,
+  "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 25,
@@ -15729,10 +15729,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 36028,
       "NumberOfAwardsMax": 11863
+    },
+    {
+      "Time": "2024-05-17T01:46:05.7635661+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 36039,
+      "NumberOfAwardsMax": 11863
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36028,
+  "NumberOfAwards": 36039,
   "NumberOfAwardsMax": 11863,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15770,7 +15776,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1496
+      "Count": 1507
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -45572,9 +45578,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-05-16T23:00:53.5310392+00:00",
+  "LastChanged": "2024-05-17T01:46:05.763566+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.6001653+00:00",
   "LastUpdate_AppInfo": "2024-05-11T01:41:40.6203882+00:00",
-  "LastUpdate_Ratings": "2024-05-16T23:00:53.5310399+00:00",
+  "LastUpdate_Ratings": "2024-05-17T01:46:05.7635666+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.6003221+00:00"
 }
