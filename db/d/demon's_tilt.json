@@ -2,7 +2,7 @@
   "ID": "c4a39e8e304c4356afcddd79820b223d",
   "Name": "DEMON\u0027S TILT",
   "ProductSlug": "demons-tilt",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 613,
   "Ranking_EOS_Progress": 369,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 276,
   "RatingHistory": [
     {
@@ -534,6 +534,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 27,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-05-17T11:59:18.720442+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
@@ -807,9 +813,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.6473258+00:00",
-  "LastChanged": "2024-05-03T01:44:22.0335581+00:00",
+  "LastChanged": "2024-05-17T11:59:18.7204418+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:14.7616076+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:58:06.0510662+00:00",
-  "LastUpdate_Ratings": "2024-05-17T10:57:39.5589328+00:00",
+  "LastUpdate_Ratings": "2024-05-17T11:59:18.7204424+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:14.762419+00:00"
 }

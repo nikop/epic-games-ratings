@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: The Cosmic Shake
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-the-cosmic-shake)  
 [View Rawdata](../../db/s/spongebob_squarepants__the_cosmic_shake.json)  
-Rating: 4.72 (Ranked 199)  
+Rating: 4.72 (Ranked 200)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

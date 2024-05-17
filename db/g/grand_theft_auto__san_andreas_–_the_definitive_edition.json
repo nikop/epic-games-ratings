@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 406,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 172,
@@ -3899,10 +3899,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 769,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-05-17T11:57:55.8649789+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 770,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 769,
+  "NumberOfAwards": 770,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3964,7 +3970,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 94
+      "Count": 95
     }
   ],
   "EOS_Progressed": 21397,
@@ -23199,9 +23205,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-05-17T01:46:19.6075582+00:00",
+  "LastChanged": "2024-05-17T11:57:55.8649787+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:29.6863442+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:39.9813571+00:00",
-  "LastUpdate_Ratings": "2024-05-17T10:00:22.6140826+00:00",
+  "LastUpdate_Ratings": "2024-05-17T11:57:55.8649793+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:29.6864522+00:00"
 }

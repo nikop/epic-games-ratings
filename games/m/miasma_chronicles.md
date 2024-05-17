@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.45 (Ranked 727)  
+Rating: 4.45 (Ranked 728)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

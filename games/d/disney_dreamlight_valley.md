@@ -1,7 +1,7 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.77 (Ranked 124)  
+Rating: 4.77 (Ranked 126)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -261,7 +261,7 @@ Completed: 413 (2.61%) (Ranked 139)
 | 2024-04-10 | 15,821 | 413 |
 ## Awards
 Max (Great for Beginners): 1,356  (Ranked 149)  
-Sum: 9,157 (Ranked 119)  
+Sum: 9,158 (Ranked 119)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +272,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 875 |
 | This game has Amazing Storytelling | 860 |
 | This game is Extremely Fun | 842 |
-| This game has Quickly Understood Controls | 823 |
+| This game has Quickly Understood Controls | 824 |
 | This game has a Creative Community | 814 |
 | This game has Easy Combat | 614 |
 | This game has Obsessive Gameplay | 415 |
@@ -705,4 +705,4 @@ Diff (max vs sum): 30
 | 2024-05-14 | 4.77 | - | 1,355 | 9,149 |
 | 2024-05-15 | 4.77 | - | 1,355 | 9,150 |
 | 2024-05-16 | 4.77 | - | 1,356 | 9,156 |
-| 2024-05-17 | 4.77 | - | 1,356 | 9,157 |
+| 2024-05-17 | 4.77 | - | 1,356 | 9,158 |

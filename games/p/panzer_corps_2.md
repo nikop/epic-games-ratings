@@ -1,16 +1,16 @@
 # Panzer Corps 2
 [Store](https://store.epicgames.com/en-US/p/panzer-corps-2)  
 [View Rawdata](../../db/p/panzer_corps_2.json)  
-Rating: 4.49 (Ranked 669)  
+Rating: 4.49 (Ranked 670)  
 Number of Ratings: 37  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 33  (Ranked 561)  
-Sum: 182 (Ranked 476)  
-Diff (max vs sum): 85  
+Max (Relaxing): 34  (Ranked 556)  
+Sum: 183 (Ranked 474)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
+| This game is Relaxing | 34 |
 | This game is Highly Recommended | 33 |
-| This game is Relaxing | 33 |
 | This game is Extremely Fun | 32 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Amazing Storytelling | 28 |
@@ -136,3 +136,4 @@ Diff (max vs sum): 85
 | 2024-05-05 | 4.50 | - | 33 | 181 |
 | 2024-05-07 | 4.49 | - | 33 | 181 |
 | 2024-05-08 | 4.49 | - | 33 | 182 |
+| 2024-05-17 | 4.49 | - | 34 | 183 |

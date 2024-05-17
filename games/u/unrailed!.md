@@ -1,7 +1,7 @@
 # Unrailed!
 [Store](https://store.epicgames.com/en-US/p/unrailed-e19729)  
 [View Rawdata](../../db/u/unrailed!.json)  
-Rating: 4.64 (Ranked 366)  
+Rating: 4.64 (Ranked 368)  
 Number of Ratings: 21,990  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -347,8 +347,8 @@ Completed: 17 (0.00%) (Ranked 458)
 | 2024-04-10 | 699,314 | 17 |
 ## Awards
 Max (Great for Beginners): 228  (Ranked 318)  
-Sum: 1,695 (Ranked 252)  
-Diff (max vs sum): 66  
+Sum: 1,695 (Ranked 253)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 228 |
