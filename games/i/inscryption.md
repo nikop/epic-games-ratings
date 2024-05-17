@@ -1,11 +1,11 @@
 # Inscryption
 [Store](https://store.epicgames.com/en-US/p/inscryption-6b29ab)  
 [View Rawdata](../../db/i/inscryption.json)  
-Rating: 4.87 (Ranked 22)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 771  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 370  (Ranked 267)  
-Sum: 502 (Ranked 372)  
+Sum: 503 (Ranked 372)  
 Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): -105
 | This game is Great for Beginners | 21 |
 | This game has Amazing Characters | 21 |
 | This game is Highly Recommended | 21 |
+| This game is Relaxing | 21 |
 | This game has Unique Visuals | 20 |
-| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -143,3 +143,4 @@ Diff (max vs sum): -105
 | 2024-05-11 | 4.87 | - | 369 | 500 |
 | 2024-05-12 | 4.87 | - | 370 | 501 |
 | 2024-05-13 | 4.87 | - | 370 | 502 |
+| 2024-05-17 | 4.87 | - | 370 | 503 |

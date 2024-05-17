@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-9",
   "Ranking_Rating": 613,
   "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -846,10 +846,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 316,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-05-17T17:00:36.9494645+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 317,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316,
+  "NumberOfAwards": 317,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -893,7 +899,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Challenging Combat",
@@ -943,8 +949,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
-  "LastChanged": "2024-05-15T10:58:41.2074998+00:00",
+  "LastChanged": "2024-05-17T17:00:36.9494643+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:26.856328+00:00",
-  "LastUpdate_Ratings": "2024-05-17T15:58:33.9137901+00:00",
+  "LastUpdate_Ratings": "2024-05-17T17:00:36.9494651+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:37.6201733+00:00"
 }

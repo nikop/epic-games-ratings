@@ -2,7 +2,7 @@
   "ID": "78546100323d461dbda0306d6af277e3",
   "Name": "Inscryption",
   "ProductSlug": "inscryption-6b29ab",
-  "Ranking_Rating": 22,
+  "Ranking_Rating": 23,
   "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 987,
@@ -920,10 +920,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 502,
       "NumberOfAwardsMax": 370
+    },
+    {
+      "Time": "2024-05-17T16:58:47.5377143+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 503,
+      "NumberOfAwardsMax": 370
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 502,
+  "NumberOfAwards": 503,
   "NumberOfAwardsMax": 370,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -973,7 +979,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -987,8 +993,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2024-05-13T17:58:35.0007337+00:00",
+  "LastChanged": "2024-05-17T16:58:47.5377141+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:49.2054549+00:00",
-  "LastUpdate_Ratings": "2024-05-17T15:00:01.8717218+00:00",
+  "LastUpdate_Ratings": "2024-05-17T16:58:47.5377146+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:41.7746334+00:00"
 }

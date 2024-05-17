@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1066,
+  "Ranking_Rating": 1059,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 145,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -843,6 +843,12 @@
     {
       "Time": "2024-05-15T15:59:56.1836441+00:00",
       "Rating": 4.15,
+      "NumberOfAwards": 100,
+      "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2024-05-17T16:57:12.8353519+00:00",
+      "Rating": 4.16,
       "NumberOfAwards": 100,
       "NumberOfAwardsMax": 66
     }
@@ -20687,9 +20693,9 @@
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-05-15T15:59:56.1836439+00:00",
+  "LastChanged": "2024-05-17T16:57:12.8353517+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:08.8066083+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:15.9174662+00:00",
-  "LastUpdate_Ratings": "2024-05-17T14:58:38.8863497+00:00",
+  "LastUpdate_Ratings": "2024-05-17T16:57:12.8353524+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:08.8067102+00:00"
 }
