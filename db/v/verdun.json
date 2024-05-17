@@ -2,7 +2,7 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 599,
+  "Ranking_Rating": 598,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 125,
@@ -2349,10 +2349,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 1017,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2024-05-17T21:57:23.2168208+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1018,
+      "NumberOfAwardsMax": 117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1017,
+  "NumberOfAwards": 1018,
   "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2426,7 +2432,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -34099,9 +34105,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-05-15T10:57:39.6361698+00:00",
+  "LastChanged": "2024-05-17T21:57:23.2168207+00:00",
   "LastChanged_Achievements": "2024-05-13T20:05:05.1667422+00:00",
   "LastUpdate_AppInfo": "2024-05-12T12:59:37.1942402+00:00",
-  "LastUpdate_Ratings": "2024-05-17T19:59:53.6663169+00:00",
+  "LastUpdate_Ratings": "2024-05-17T21:57:23.2168211+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:05.1676191+00:00"
 }
