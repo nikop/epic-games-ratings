@@ -5,12 +5,12 @@ Rating: 4.65 (Ranked 347)
 Number of Ratings: 722  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 62  (Ranked 477)  
-Sum: 501 (Ranked 373)  
+Sum: 502 (Ranked 373)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 62 |
-| This game has Amazing Characters | 58 |
+| This game has Amazing Characters | 59 |
 | This game is Great for Beginners | 58 |
 | This game is Extremely Fun | 56 |
 | This game has Easy Combat | 56 |
@@ -202,4 +202,4 @@ Diff (max vs sum): 104
 | 2024-05-10 | 4.65 | - | 61 | 497 |
 | 2024-05-11 | 4.65 | - | 62 | 498 |
 | 2024-05-12 | 4.65 | - | 62 | 500 |
-| 2024-05-18 | 4.65 | - | 62 | 501 |
+| 2024-05-18 | 4.65 | - | 62 | 502 |
