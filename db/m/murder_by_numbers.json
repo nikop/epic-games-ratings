@@ -4,7 +4,7 @@
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 969,
   "Ranking_Popularity": 602,
-  "Ranking_PopularitySum": 477,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -579,10 +579,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 180,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-05-18T19:58:57.88012+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 156,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 180,
+  "NumberOfAwards": 156,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -647,8 +653,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-05-18T07:58:09.0844468+00:00",
+  "LastChanged": "2024-05-18T19:58:57.8801198+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:35.0933039+00:00",
-  "LastUpdate_Ratings": "2024-05-18T18:57:00.9220854+00:00",
+  "LastUpdate_Ratings": "2024-05-18T19:58:57.8801204+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:18.5743762+00:00"
 }
