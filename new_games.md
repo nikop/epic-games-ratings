@@ -52,7 +52,7 @@
 | [Darkestville Castle](games/c/c33824d3cf754146aca31f48780b92bf.md) | 2024-05-07 | - |  | - | - |
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | - |  | - | - |
 | [The Origin Theory - Episode One](games/2/272516e06b114390af92429cba34eb6a.md) | 2024-05-06 | - |  | - | 0 |
-| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.89 | 0 |
+| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.90 | 0 |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 15 | - | 0 |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Diamond Drone](games/5/5e307f50567c4f8fb0c187f0729bfd08.md) | 2024-05-05 | - |  | - | 0 |
@@ -131,4 +131,4 @@
 | [Brand New World](games/7/7198c1ccb7b64bbbb1a7d0112a75c9a5.md) | 2024-04-18 | - |  | - | - |
 | [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-18 | 42 (1,000 XP) | 1 | - | 0 |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2024-04-18 | - |  | - | 0 |
-| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | - |  | 4.50 | 20 |
+| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | - |  | 4.51 | 20 |
