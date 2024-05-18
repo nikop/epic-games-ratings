@@ -1,7 +1,7 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.86 (Ranked 1,154)  
+Rating: 3.85 (Ranked 1,156)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -529,3 +529,4 @@ Diff (max vs sum): 25
 | 2024-05-08 | 3.85 | 56 | 192 |
 | 2024-05-09 | 3.85 | 56 | 194 |
 | 2024-05-16 | 3.86 | 56 | 194 |
+| 2024-05-18 | 3.85 | 56 | 194 |
