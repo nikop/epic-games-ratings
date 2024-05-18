@@ -1,7 +1,7 @@
 # Yooka-Laylee and the Impossible Lair
 [Store](https://store.epicgames.com/en-US/p/yooka-laylee-and-the-impossible-lair)  
 [View Rawdata](../../db/y/yooka-laylee_and_the_impossible_lair.json)  
-Rating: 4.36 (Ranked 871)  
+Rating: 4.35 (Ranked 882)  
 Number of Ratings: 346  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 33  (Ranked 562)  
@@ -146,3 +146,4 @@ Diff (max vs sum): 108
 | 2024-03-30 | 4.36 | - | 33 | 237 |
 | 2024-04-15 | 4.36 | - | 33 | 238 |
 | 2024-05-07 | 4.36 | - | 33 | 239 |
+| 2024-05-18 | 4.35 | - | 33 | 239 |

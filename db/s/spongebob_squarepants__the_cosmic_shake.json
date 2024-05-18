@@ -2,7 +2,7 @@
   "ID": "da36711940d4460da57d8d6ad67236a4",
   "Name": "SpongeBob SquarePants: The Cosmic Shake",
   "ProductSlug": "spongebob-squarepants-the-cosmic-shake",
-  "Ranking_Rating": 200,
+  "Ranking_Rating": 201,
   "Ranking_Popularity": 643,
   "Ranking_PopularitySum": 643,
   "Ranking_EOS_Progress": 681,
@@ -632,6 +632,6 @@
   "LastChanged": "2024-05-02T16:59:41.9392251+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:39.0393947+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:28.0076689+00:00",
-  "LastUpdate_Ratings": "2024-05-18T03:00:17.0333342+00:00",
+  "LastUpdate_Ratings": "2024-05-18T04:58:30.666701+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:39.0394414+00:00"
 }
