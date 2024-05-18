@@ -1,12 +1,12 @@
 # Far Cry®3 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-3)  
 [View Rawdata](../../db/f/far_cry®3_standard_edition.json)  
-Rating: 4.70 (Ranked 226)  
+Rating: 4.70 (Ranked 227)  
 Number of Ratings: 504  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 695  (Ranked 211)  
+Max (Great Boss Battles): 695  (Ranked 212)  
 Sum: 1,116 (Ranked 287)  
-Diff (max vs sum): -76  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 695 |
