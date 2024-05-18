@@ -1,7 +1,7 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.16 (Ranked 1,060)  
+Rating: 4.18 (Ranked 1,047)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -181,3 +181,4 @@ Completed: 6 (0.21%) (Ranked 318)
 | 2024-04-12 | 4.13 | 0 | 0 |
 | 2024-04-17 | 4.15 | 0 | 0 |
 | 2024-04-19 | 4.16 | 0 | 0 |
+| 2024-05-18 | 4.18 | 0 | 0 |
