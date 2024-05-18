@@ -3,8 +3,8 @@
   "Name": "Apeiron",
   "ProductSlug": "apeiron-b83793",
   "Ranking_Rating": 1047,
-  "Ranking_Popularity": 642,
-  "Ranking_PopularitySum": 642,
+  "Ranking_Popularity": 643,
+  "Ranking_PopularitySum": 643,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -295,6 +295,6 @@
   "FirstSeenRating": "2024-01-22T08:00:14.8352566+00:00",
   "LastChanged": "2024-05-12T18:57:13.2134309+00:00",
   "LastUpdate_AppInfo": "2024-05-15T13:57:20.5510705+00:00",
-  "LastUpdate_Ratings": "2024-05-18T18:59:19.150268+00:00",
+  "LastUpdate_Ratings": "2024-05-18T20:58:00.9364246+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:31.4726686+00:00"
 }
