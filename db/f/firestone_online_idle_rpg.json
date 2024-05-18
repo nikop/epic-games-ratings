@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.61,
+  "Rating": 3.59,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -1662,10 +1662,16 @@
       "Rating": 3.61,
       "NumberOfAwards": 267,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-05-18T13:02:13.632982+00:00",
+      "Rating": 3.59,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 267,
+  "NumberOfAwards": 270,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1691,7 +1697,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15115,9 +15121,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-05-18T07:00:20.5449145+00:00",
+  "LastChanged": "2024-05-18T13:02:13.6329819+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:28.7691013+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:25.5972445+00:00",
-  "LastUpdate_Ratings": "2024-05-18T11:57:22.1348116+00:00",
+  "LastUpdate_Ratings": "2024-05-18T13:02:13.6329824+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:28.7692678+00:00"
 }
