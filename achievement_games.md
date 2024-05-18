@@ -65,7 +65,7 @@
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | 30 (1,000 XP) | 2 | - | 0 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 4 | - | 0 |
 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 2024-03-29 | 10 (1,000 XP) | 5 | 4.94 | 0 |
-| [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 19 | 4.81 | 37 |
+| [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 19 | 4.81 | 39 |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | 23 (1,000 XP) | 13 | - | 0 |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 131 | - | 0 |
@@ -288,7 +288,7 @@
 | [Dude, Where Is My Beer?](games/7/7c6b6697df584024be9c60a1da59096b.md) | 2023-11-01 | 22 (1,000 XP) | 111 | - | 0 |
 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | 44 (1,000 XP) | 2,134 | 4.50 | 0 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | 17 (1,000 XP) | 1 | - | 0 |
-| [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2023-10-31 | 36 (1,000 XP) | 2,865 | 4.16 | 0 |
+| [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2023-10-31 | 36 (1,000 XP) | 2,865 | 4.18 | 0 |
 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 2023-10-31 | 12 (1,000 XP) | 1,157 | - | 0 |
 | [Enypnion Redreamed](games/e/e8f7fa1572fd4c2a9e6cc855878684f9.md) | 2023-10-31 | 10 (1,000 XP) | 1 | - | - |
 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 2023-10-31 | 16 (1,000 XP) | 10,356 | - | 0 |
@@ -939,7 +939,7 @@
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 11,417 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,040 | - | 0 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 241 (5,790 XP) | 1,342,560 | 4.51 | 46,081 |
-| [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 243,316 | 4.61 | 839 |
+| [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 243,316 | 4.61 | 842 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 14 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,559 | 4.47 | 36 |
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 626,911 | 4.51 | 146 |
@@ -1047,7 +1047,7 @@
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 1,337 | 4.48 | 109 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 52,575 | 4.43 | 0 |
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,296 |
-| [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 4,398 | 4.60 | 93 |
+| [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 4,398 | 4.60 | 94 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 2,421 | 4.60 | 423 |
 | [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 149,110 | 4.14 | 0 |
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,136 | 4.19 | 50 |

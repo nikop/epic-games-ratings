@@ -27,7 +27,7 @@
 | [NINJA KATO 3](games/4/45e5366436ed4058ad268d41516c4c0d.md) | 2024-04-21 | 5 (1,000 XP) | 0 | - | - |
 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | - | 0 |
 | [Outbreak The Fedora Files: What Lydia Knows](games/5/5367b40700174f1b9f4b5cc5ceb3751d.md) | 2024-05-03 | 31 (1,000 XP) | 2 | - | - |
-| [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 19 | 4.81 | 37 |
+| [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 19 | 4.81 | 39 |
 | [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 2024-04-10 | 5 (1,000 XP) | 3 | - | - |
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 29 | - | 0 |
 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 41 | - | 0 |
@@ -72,7 +72,7 @@
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 2,421 | 4.60 | 423 |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | 41 (1,000 XP) | 0 | - | 0 |
 | [Highwater](games/h/highwater.md) | 2024-03-14 | 20 (1,000 XP) | 4 | - | 0 |
-| [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 4,398 | 4.60 | 93 |
+| [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 4,398 | 4.60 | 94 |
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2099-02-01 | 8 (1,000 XP) | 3,029 | - | 0 |
 | [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 133,050 | 4.75 | 21 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 18 | - | - |
