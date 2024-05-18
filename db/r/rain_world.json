@@ -2,9 +2,9 @@
   "ID": "c8b495f1a9a34972ba0b0c46e8afec31",
   "Name": "Rain World",
   "ProductSlug": "rain-world-4c860c",
-  "Ranking_Rating": 18,
-  "Ranking_Popularity": 638,
-  "Ranking_PopularitySum": 638,
+  "Ranking_Rating": 13,
+  "Ranking_Popularity": 631,
+  "Ranking_PopularitySum": 633,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.88,
+  "Rating": 4.89,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:25.9902036+00:00",
@@ -161,18 +161,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-05-18T10:58:52.8525802+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -187,8 +193,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
-  "LastChanged": "2024-05-15T19:01:45.3530753+00:00",
+  "LastChanged": "2024-05-18T10:58:52.85258+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:33.3504412+00:00",
-  "LastUpdate_Ratings": "2024-05-18T08:59:39.1334412+00:00",
+  "LastUpdate_Ratings": "2024-05-18T10:58:52.8525807+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:01.9028057+00:00"
 }
