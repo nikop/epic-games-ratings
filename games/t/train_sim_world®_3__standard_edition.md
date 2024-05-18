@@ -1,18 +1,18 @@
 # Train Sim World® 3: Standard Edition
 [Store](https://store.epicgames.com/en-US/p/train-sim-world-3)  
 [View Rawdata](../../db/t/train_sim_world®_3__standard_edition.json)  
-Rating: 4.53 (Ranked 598)  
+Rating: 4.53 (Ranked 597)  
 Number of Ratings: 170  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 416  (Ranked 257)  
-Sum: 2,761 (Ranked 210)  
+Sum: 2,762 (Ranked 210)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 416 |
 | This game has Realistic Visuals | 327 |
 | This game is Highly Recommended | 298 |
-| This game is Extremely Fun | 285 |
+| This game is Extremely Fun | 286 |
 | This game has a Creative Community | 276 |
 | This game is Educational | 274 |
 | This game is Relaxing | 247 |
@@ -367,3 +367,4 @@ Diff (max vs sum): 47
 | 2024-05-08 | 4.54 | - | 416 | 2,760 |
 | 2024-05-11 | 4.53 | - | 416 | 2,760 |
 | 2024-05-17 | 4.53 | - | 416 | 2,761 |
+| 2024-05-18 | 4.53 | - | 416 | 2,762 |
