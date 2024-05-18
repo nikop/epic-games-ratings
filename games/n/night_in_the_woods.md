@@ -1,7 +1,7 @@
 # Night in the Woods
 [Store](https://store.epicgames.com/en-US/p/night-in-the-woods)  
 [View Rawdata](../../db/n/night_in_the_woods.json)  
-Rating: 4.73 (Ranked 189)  
+Rating: 4.73 (Ranked 188)  
 Number of Ratings: 615  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 158  (Ranked 362)  
