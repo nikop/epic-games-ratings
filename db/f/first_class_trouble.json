@@ -2299,10 +2299,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 885,
       "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2024-05-18T02:20:14.1048528+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 886,
+      "NumberOfAwardsMax": 165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 885,
+  "NumberOfAwards": 886,
   "NumberOfAwardsMax": 165,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2310,7 +2316,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2379,8 +2385,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2024-05-15T01:49:02.6685518+00:00",
+  "LastChanged": "2024-05-18T02:20:14.1048526+00:00",
   "LastUpdate_AppInfo": "2024-05-12T17:57:20.188037+00:00",
-  "LastUpdate_Ratings": "2024-05-18T00:00:23.177644+00:00",
+  "LastUpdate_Ratings": "2024-05-18T02:20:14.1048532+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:07.7117239+00:00"
 }
