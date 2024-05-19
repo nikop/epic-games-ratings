@@ -170,7 +170,6 @@
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-12-31 | - |  | - | - |
 | [NEO BERLIN 2087](games/6/6360997dd9194c40aa70a701791b1819.md) | 2024-12-31 | - |  | - | - |
 | [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
-| [Pantheon Rift](games/p/project_chaos.md) | 2024-12-31 | - |  | - | - |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-12-31 | - |  | - | - |
 | [Puppet House](games/d/d581f8bd34204f98af1a404d99bd347a.md) | 2024-12-31 | - |  | - | - |
 | [R3V3NGE](games/6/6beebb4d356a48118e607e2112bca45f.md) | 2024-12-31 | - |  | - | - |
@@ -208,6 +207,7 @@
 | [Skystead Ranch](games/5/5df8e058035b4f1ab1522b584a0142f3.md) | 2025-01-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [The Crimson Lyre](games/3/397c0a87980c4098b5a37d77a33e2713.md) | 2025-03-31 | - |  | - | - |
+| [Pantheon Rift](games/p/project_chaos.md) | 2025-04-30 | - |  | - | - |
 | [Ariokan](games/f/f4962a68cb2a46e295f690e592655ec0.md) | 2025-06-30 | - |  | - | - |
 | [Crystal Ball Critters](games/9/9f72ba7c750948d0ba91b26f9c989b3f.md) | 2025-06-30 | - |  | - | - |
 | [Escape the Charon](games/0/0c2bc94b5c6e45eab601489bd567db7d.md) | 2025-06-30 | - |  | - | - |
