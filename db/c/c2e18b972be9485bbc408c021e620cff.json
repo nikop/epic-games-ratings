@@ -4,7 +4,7 @@
   "ProductSlug": "train-sim-world-4",
   "Ranking_Rating": 788,
   "Ranking_Popularity": 299,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3199,24 +3199,30 @@
       "Rating": 4.42,
       "NumberOfAwards": 1118,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2024-05-19T12:59:37.7135085+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1045,
+      "NumberOfAwardsMax": 265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1118,
-  "NumberOfAwardsMax": 262,
+  "NumberOfAwards": 1045,
+  "NumberOfAwardsMax": 265,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 262
+      "Count": 265
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 153
+      "Count": 154
     },
     {
       "Text": "This game has a Creative Community",
@@ -3228,7 +3234,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 113
+      "Count": 116
     },
     {
       "Text": "This game is Educational",
@@ -3287,9 +3293,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-05-19T10:59:06.5735525+00:00",
+  "LastChanged": "2024-05-19T12:59:37.7135083+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:56.162357+00:00",
   "LastUpdate_AppInfo": "2024-05-15T18:58:13.2787025+00:00",
-  "LastUpdate_Ratings": "2024-05-19T10:59:06.573553+00:00",
+  "LastUpdate_Ratings": "2024-05-19T12:59:37.7135089+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:56.1623604+00:00"
 }
