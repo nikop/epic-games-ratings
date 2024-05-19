@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_Rating": 497,
   "Ranking_Popularity": 308,
-  "Ranking_PopularitySum": 261,
+  "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 25,
@@ -3643,10 +3643,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1572,
       "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2024-05-19T14:57:58.0428944+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1757,
+      "NumberOfAwardsMax": 244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1572,
+  "NumberOfAwards": 1757,
   "NumberOfAwardsMax": 244,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3696,7 +3702,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 181
+      "Count": 185
     },
     {
       "Text": "This game is Great for Beginners",
@@ -15556,9 +15562,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-05-19T01:50:50.0617528+00:00",
+  "LastChanged": "2024-05-19T14:57:58.0428942+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:33.135429+00:00",
   "LastUpdate_AppInfo": "2024-05-16T17:57:03.9279589+00:00",
-  "LastUpdate_Ratings": "2024-05-19T13:01:38.8285727+00:00",
+  "LastUpdate_Ratings": "2024-05-19T14:57:58.0428948+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:33.1355094+00:00"
 }

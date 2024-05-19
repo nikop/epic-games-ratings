@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1177,
+  "Ranking_Rating": 1178,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 221,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.58,
+  "Rating": 3.57,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -1696,6 +1696,12 @@
     {
       "Time": "2024-05-19T11:59:02.9487479+00:00",
       "Rating": 3.58,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2024-05-19T14:58:17.9099532+00:00",
+      "Rating": 3.57,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 82
     }
@@ -15151,9 +15157,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-05-19T11:59:02.9487477+00:00",
+  "LastChanged": "2024-05-19T14:58:17.9099528+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:28.7691013+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:25.5972445+00:00",
-  "LastUpdate_Ratings": "2024-05-19T13:01:59.1827478+00:00",
+  "LastUpdate_Ratings": "2024-05-19T14:58:17.9099536+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:28.7692678+00:00"
 }
