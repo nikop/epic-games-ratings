@@ -1,7 +1,7 @@
 # Battle Chasers: Nightwar
 [Store](https://store.epicgames.com/en-US/p/battle-chasers-nightwar)  
 [View Rawdata](../../db/b/battle_chasers__nightwar.json)  
-Rating: 4.67 (Ranked 299)  
+Rating: 4.66 (Ranked 321)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -102,3 +102,4 @@ Completed: 1 (1.54%) (Ranked 173)
 | 2024-04-02 | 4.67 | - | 0 | 0 |
 | 2024-04-20 | 4.68 | - | 0 | 0 |
 | 2024-05-15 | 4.67 | - | 0 | 0 |
+| 2024-05-19 | 4.66 | - | 0 | 0 |
