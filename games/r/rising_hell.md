@@ -4,7 +4,7 @@
 Rating: 4.40 (Ranked 821)  
 ## Awards
 Max (Quickly Understood Controls): 76  (Ranked 459)  
-Sum: 680 (Ranked 340)  
+Sum: 681 (Ranked 340)  
 Diff (max vs sum): 119  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 119
 | This game is Great for Beginners | 60 |
 | This game is Highly Recommended | 59 |
 | This game has Amazing Characters | 59 |
-| This game is Great for Quick Sessions | 58 |
+| This game is Great for Quick Sessions | 59 |
 | This game has a Creative Community | 41 |
 | This game has Obsessive Gameplay | 26 |
 | This game has Challenging Combat | 20 |
@@ -71,3 +71,4 @@ Diff (max vs sum): 119
 | 2024-03-29 | 4.40 | 76 | 678 |
 | 2024-04-24 | 4.40 | 76 | 679 |
 | 2024-04-29 | 4.40 | 76 | 680 |
+| 2024-05-19 | 4.40 | 76 | 681 |
