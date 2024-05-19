@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 1029,
   "Ranking_Popularity": 245,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2695,10 +2695,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 1711,
       "NumberOfAwardsMax": 481
+    },
+    {
+      "Time": "2024-05-19T20:57:12.8221371+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 1714,
+      "NumberOfAwardsMax": 481
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1711,
+  "NumberOfAwards": 1714,
   "NumberOfAwardsMax": 481,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2742,7 +2748,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 195
+      "Count": 198
     }
   ],
   "EOS_Progressed": 755320,
@@ -16658,9 +16664,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2024-05-19T17:00:43.1034392+00:00",
+  "LastChanged": "2024-05-19T20:57:12.8221369+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:21.0901312+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:47.4761853+00:00",
-  "LastUpdate_Ratings": "2024-05-19T19:00:23.4278282+00:00",
+  "LastUpdate_Ratings": "2024-05-19T20:57:12.8221375+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:21.0902059+00:00"
 }
