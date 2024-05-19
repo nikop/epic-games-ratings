@@ -3,9 +3,9 @@
 [View Rawdata](../../db/r/rain_world.json)  
 Rating: 4.89 (Ranked 14)  
 ## Awards
-Max (Diverse Characters): 21  (Ranked 632)  
+Max (Diverse Characters): 21  (Ranked 633)  
 Sum: 21 (Ranked 635)  
-Diff (max vs sum): -3  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 21 |

@@ -3,8 +3,8 @@
   "Name": "Town of Salem 2",
   "ProductSlug": "town-of-salem-2-ab6497",
   "Ranking_Rating": 628,
-  "Ranking_Popularity": 640,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 623,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -324,18 +324,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 40,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-05-19T10:58:54.1350868+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Playful Visuals",
   "Tags": [
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 20
+      "Count": 22
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -356,7 +362,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
-  "LastChanged": "2024-05-18T16:58:09.8045835+00:00",
+  "LastChanged": "2024-05-19T10:58:54.1350867+00:00",
   "LastUpdate_AppInfo": "2024-05-16T18:57:12.5896981+00:00",
-  "LastUpdate_Ratings": "2024-05-19T09:57:41.1652467+00:00"
+  "LastUpdate_Ratings": "2024-05-19T10:58:54.135087+00:00"
 }
