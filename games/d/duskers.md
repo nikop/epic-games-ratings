@@ -1,7 +1,14 @@
 # Duskers
 [Store](https://store.epicgames.com/en-US/p/duskers-672fdc)  
 [View Rawdata](../../db/d/duskers.json)  
-Rating: 4.56 (Ranked 542)  
+Rating: 4.56 (Ranked 541)  
+## Awards
+Max (Quickly Understood Controls): 20  (Ranked 641)  
+Sum: 20 (Ranked 641)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -60,3 +67,4 @@ Rating: 4.56 (Ranked 542)
 | 2024-01-10 | 4.54 | 0 | 0 |
 | 2024-02-14 | 4.55 | 0 | 0 |
 | 2024-03-20 | 4.56 | 0 | 0 |
+| 2024-05-19 | 4.56 | 20 | 20 |
