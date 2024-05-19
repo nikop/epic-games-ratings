@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-valhalla",
   "Ranking_Rating": 451,
   "Ranking_Popularity": 25,
-  "Ranking_PopularitySum": 37,
+  "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -19237,10 +19237,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 45818,
       "NumberOfAwardsMax": 17908
+    },
+    {
+      "Time": "2024-05-19T01:48:54.8848049+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 45820,
+      "NumberOfAwardsMax": 17908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45818,
+  "NumberOfAwards": 45820,
   "NumberOfAwardsMax": 17908,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19266,7 +19272,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1875
+      "Count": 1877
     },
     {
       "Text": "This game is Great for Beginners",
@@ -19328,8 +19334,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2024-05-18T22:59:10.9318628+00:00",
+  "LastChanged": "2024-05-19T01:48:54.8848047+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:58:07.7657797+00:00",
-  "LastUpdate_Ratings": "2024-05-18T22:59:10.9318634+00:00",
+  "LastUpdate_Ratings": "2024-05-19T01:48:54.8848054+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:24.0497376+00:00"
 }

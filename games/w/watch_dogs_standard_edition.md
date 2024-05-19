@@ -1,12 +1,12 @@
 # Watch Dogs Standard Edition
 [Store](https://store.epicgames.com/en-US/p/watch-dogs)  
 [View Rawdata](../../db/w/watch_dogs_standard_edition.json)  
-Rating: 4.58 (Ranked 496)  
+Rating: 4.58 (Ranked 497)  
 Number of Ratings: 1,912  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 145  (Ranked 371)  
-Sum: 884 (Ranked 307)  
-Diff (max vs sum): 64  
+Sum: 886 (Ranked 306)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 145 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 64
 | This game has Amazing Characters | 129 |
 | This game is Relaxing | 124 |
 | This game is Highly Recommended | 108 |
-| This game is Extremely Fun | 103 |
+| This game is Extremely Fun | 105 |
 | This game is Great for Quick Sessions | 60 |
 | This game has a Competitive Community | 34 |
 | This game has Competitive Players | 32 |
@@ -401,3 +401,4 @@ Diff (max vs sum): 64
 | 2024-05-14 | 4.58 | - | 144 | 878 |
 | 2024-05-15 | 4.58 | - | 144 | 879 |
 | 2024-05-17 | 4.58 | - | 145 | 884 |
+| 2024-05-19 | 4.58 | - | 145 | 886 |
