@@ -2,9 +2,9 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1176,
+  "Ranking_Rating": 1177,
   "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 439,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 25,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.59,
+  "Rating": 3.58,
   "RatingHistory": [
     {
       "Time": "2023-04-03T11:57:10.5871115+00:00",
@@ -1680,10 +1680,16 @@
       "Rating": 3.59,
       "NumberOfAwards": 274,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-05-19T03:59:40.0964865+00:00",
+      "Rating": 3.58,
+      "NumberOfAwards": 277,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 274,
+  "NumberOfAwards": 277,
   "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1703,7 +1709,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 56
+      "Count": 59
     },
     {
       "Text": "This game has Playful Visuals",
@@ -15133,9 +15139,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-05-18T17:57:45.8751842+00:00",
+  "LastChanged": "2024-05-19T03:59:40.0964863+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:28.7691013+00:00",
   "LastUpdate_AppInfo": "2024-05-12T22:57:25.5972445+00:00",
-  "LastUpdate_Ratings": "2024-05-19T02:57:57.7135211+00:00",
+  "LastUpdate_Ratings": "2024-05-19T03:59:40.0964869+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:28.7692678+00:00"
 }
