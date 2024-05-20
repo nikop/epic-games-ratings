@@ -2,7 +2,7 @@
   "ID": "52b90f9a982a404781b189f6a7903226",
   "Name": "Totally Reliable Delivery Service Standard Edition",
   "ProductSlug": "totally-reliable-delivery-service",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 671,
   "Ranking_Popularity": 645,
   "Ranking_PopularitySum": 645,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 112,
   "RatingHistory": [
     {
@@ -506,6 +506,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-20T01:47:28.8377952+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -523,8 +529,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:09.4036127+00:00",
-  "LastChanged": "2024-04-24T23:59:15.6722246+00:00",
+  "LastChanged": "2024-05-20T01:47:28.837795+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:56.6771686+00:00",
-  "LastUpdate_Ratings": "2024-05-19T23:58:40.9222805+00:00",
+  "LastUpdate_Ratings": "2024-05-20T01:47:28.8377956+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:50.9097202+00:00"
 }
