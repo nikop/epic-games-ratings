@@ -60,6 +60,7 @@
 | [The Bornless](games/a/aaa64a6e060d46ba8de15f19a0d6269e.md) | 2024-06-30 | - |  | - | - |
 | [The End of the Sun](games/6/69569d1b9145402f8e557bd1baed7343.md) | 2024-06-30 | - |  | - | - |
 | [The Smurfs - Village Party](games/e/e0d342096dbe47e9a41a2b7735683edd.md) | 2024-06-30 | - |  | - | - |
+| [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-06-30 | - |  | - | - |
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-07-09 | - |  | - | - |

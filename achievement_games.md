@@ -157,7 +157,7 @@
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | 0 |
 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 2024-01-31 | 21 (1,000 XP) | 3,075 | - | 0 |
 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 3 | - | - |
-| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 69,746 | 4.58 | 33 |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 69,746 | 4.57 | 33 |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 32 | - | 0 |
 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2024-01-25 | 100 (1,000 XP) | 20 | - | 0 |
@@ -352,7 +352,7 @@
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 2023-09-29 | 14 (1,000 XP) | 0 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 24 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.12 | 31,031 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 496,346 | 4.12 | 31,101 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,475 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 371,874 | 4.22 | 104 |
@@ -823,7 +823,7 @@
 | [Isonzo](games/i/isonzo.md) | 2022-09-13 | 45 (1,000 XP) | 9,032 | 4.57 | 50 |
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 55 | - | 0 |
-| [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.21 | 0 |
+| [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.23 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,821 | 4.77 | 1,364 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 755,320 | 4.20 | 486 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.53 | 39 |
@@ -930,7 +930,7 @@
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 770,707 | 4.82 | 7,840 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,052,209 | 4.58 | 16,592 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 250 | 4.68 | 53 |
-| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,615 |
+| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,623 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 453 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 289 | - | 0 |
 | [Partisans 1941](games/p/partisans_1941.md) | 2022-01-11 | 30 (1,000 XP) | 2,357 | 4.63 | 0 |
@@ -1039,14 +1039,14 @@
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 1,246 | 4.84 | 52 |
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 144,045 | 4.87 | 806 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 358 (3,440 XP) | 18,723 | 4.65 | 246 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 107,305 | 4.74 | 9,333 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 107,305 | 4.74 | 9,338 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 45,186 | 4.69 | 930 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 733,435 | 4.92 | 3,858 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 52,183 | 4.68 | 0 |
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 240,594 | 4.67 | 621 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 1,337 | 4.48 | 109 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 52,575 | 4.43 | 0 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,309 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,315 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 4,398 | 4.60 | 94 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 2,421 | 4.60 | 423 |
 | [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 149,110 | 4.16 | 0 |
