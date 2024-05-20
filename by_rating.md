@@ -5,7 +5,7 @@
 | 3 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.94 | 0 | 645 |
 | 3 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.94 | 0 | 645 |
 | 5 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 645 |
-| 6 | [Hades](games/h/hades.md) | 4.92 | 3,848 | 99 |
+| 6 | [Hades](games/h/hades.md) | 4.92 | 3,858 | 99 |
 | 7 | [Celeste](games/c/celeste.md) | 4.91 | 1,994 | 131 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 645 |
 | 9 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 645 |
@@ -157,7 +157,7 @@
 | 153 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.75 | 0 | 645 |
 | 153 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 645 |
 | 153 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,111 | 166 |
-| 153 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,669 | 143 |
+| 153 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,673 | 143 |
 | 153 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 645 |
 | 153 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,295 | 67 |
 | 153 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 645 |
@@ -466,7 +466,7 @@
 | 452 | [GRIME](games/g/grime.md) | 4.60 | 83 | 442 |
 | 452 | [GRIT](games/g/grit.md) | 4.60 | 0 | 645 |
 | 452 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 645 |
-| 452 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 869 | 194 |
+| 452 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 871 | 194 |
 | 452 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.60 | 0 | 645 |
 | 452 | [Prince of Persia Standard Edition](games/7/7afef992aaba4b53abfdf561e64e534d.md) | 4.60 | 0 | 645 |
 | 452 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.60 | 0 | 645 |
@@ -937,21 +937,21 @@
 | 928 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.31 | 0 | 645 |
 | 936 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.30 | 0 | 645 |
 | 936 | [Expeditions: Viking](games/e/expeditions__viking.md) | 4.30 | 0 | 645 |
+| 936 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 846 | 196 |
 | 936 | [Worms Rumble](games/w/worms_rumble.md) | 4.30 | 0 | 645 |
 | 936 | [Wreckfest](games/w/wreckfest.md) | 4.30 | 0 | 645 |
-| 940 | [Cyber Hook](games/c/cyber_hook.md) | 4.29 | 0 | 645 |
-| 940 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 645 |
-| 940 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.29 | 80 | 450 |
-| 940 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,530,043 | 1 |
-| 940 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 645 |
-| 940 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.29 | 153 | 364 |
-| 940 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.29 | 386 | 264 |
-| 940 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 60 | 484 |
-| 940 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 846 | 196 |
-| 940 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 53 | 503 |
-| 940 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 645 |
-| 940 | [The Surge 2](games/t/the_surge_2.md) | 4.29 | 0 | 645 |
-| 940 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 645 |
+| 941 | [Cyber Hook](games/c/cyber_hook.md) | 4.29 | 0 | 645 |
+| 941 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 645 |
+| 941 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.29 | 80 | 450 |
+| 941 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,530,043 | 1 |
+| 941 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 645 |
+| 941 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.29 | 153 | 364 |
+| 941 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.29 | 386 | 264 |
+| 941 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 60 | 484 |
+| 941 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 53 | 503 |
+| 941 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 645 |
+| 941 | [The Surge 2](games/t/the_surge_2.md) | 4.29 | 0 | 645 |
+| 941 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 645 |
 | 953 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.28 | 0 | 645 |
 | 953 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 0 | 645 |
 | 953 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.28 | 0 | 645 |
@@ -1057,36 +1057,36 @@
 | 1,055 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 645 |
 | 1,055 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 630 | 220 |
 | 1,055 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 120 | 392 |
+| 1,055 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 4.17 | 0 | 645 |
 | 1,055 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 486 | 244 |
 | 1,055 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 645 |
 | 1,055 | [The Guild 3](games/t/the_guild_3.md) | 4.17 | 0 | 645 |
 | 1,055 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.17 | 0 | 645 |
-| 1,062 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 0 | 645 |
-| 1,062 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 645 |
-| 1,062 | [Forspoken](games/f/forspoken.md) | 4.16 | 67 | 471 |
-| 1,062 | [Model Builder](games/m/model_builder.md) | 4.16 | 0 | 645 |
-| 1,062 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 352 |
-| 1,062 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.16 | 0 | 645 |
-| 1,068 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 0 | 645 |
-| 1,068 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 645 |
-| 1,068 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.15 | 0 | 645 |
-| 1,068 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.15 | 0 | 645 |
-| 1,068 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.15 | 28 | 587 |
-| 1,068 | [Fangs](games/f/fangs.md) | 4.15 | 0 | 645 |
-| 1,068 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 28 | 587 |
-| 1,068 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 645 |
-| 1,068 | [The Bridge](games/t/the_bridge.md) | 4.15 | 0 | 645 |
-| 1,077 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 645 |
-| 1,077 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 0 | 645 |
-| 1,077 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.14 | 0 | 645 |
-| 1,077 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 645 |
-| 1,077 | [Pine](games/p/pine.md) | 4.14 | 0 | 645 |
-| 1,077 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.14 | 0 | 645 |
-| 1,077 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 645 |
-| 1,084 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 623 |
-| 1,084 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 4.13 | 0 | 645 |
-| 1,084 | [Relicta](games/r/relicta.md) | 4.13 | 206 | 331 |
-| 1,084 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,647 | 113 |
+| 1,063 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 0 | 645 |
+| 1,063 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 645 |
+| 1,063 | [Forspoken](games/f/forspoken.md) | 4.16 | 67 | 471 |
+| 1,063 | [Model Builder](games/m/model_builder.md) | 4.16 | 0 | 645 |
+| 1,063 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 352 |
+| 1,063 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.16 | 0 | 645 |
+| 1,069 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 0 | 645 |
+| 1,069 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 645 |
+| 1,069 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.15 | 0 | 645 |
+| 1,069 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.15 | 0 | 645 |
+| 1,069 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.15 | 28 | 587 |
+| 1,069 | [Fangs](games/f/fangs.md) | 4.15 | 0 | 645 |
+| 1,069 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 28 | 587 |
+| 1,069 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 645 |
+| 1,069 | [The Bridge](games/t/the_bridge.md) | 4.15 | 0 | 645 |
+| 1,078 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 645 |
+| 1,078 | [Gravewood High](games/g/gravewood_high.md) | 4.14 | 0 | 645 |
+| 1,078 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.14 | 0 | 645 |
+| 1,078 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.14 | 0 | 645 |
+| 1,078 | [Pine](games/p/pine.md) | 4.14 | 0 | 645 |
+| 1,078 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.14 | 0 | 645 |
+| 1,078 | [The Alien Cube](games/t/the_alien_cube.md) | 4.14 | 0 | 645 |
+| 1,085 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.13 | 22 | 623 |
+| 1,085 | [Relicta](games/r/relicta.md) | 4.13 | 206 | 331 |
+| 1,085 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,647 | 113 |
 | 1,088 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.12 | 0 | 645 |
 | 1,088 | [Banished](games/b/banished.md) | 4.12 | 0 | 645 |
 | 1,088 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 645 |
