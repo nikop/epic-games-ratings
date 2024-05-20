@@ -1,15 +1,15 @@
 # Anno 2205 - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/anno-2205)  
 [View Rawdata](../../db/a/anno_2205_-_standard_edition.json)  
-Rating: 4.50 (Ranked 649)  
+Rating: 4.50 (Ranked 650)  
 Number of Ratings: 76  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 25  (Ranked 609)  
-Sum: 87 (Ranked 534)  
-Diff (max vs sum): 75  
+Max (Great for Beginners): 26  (Ranked 602)  
+Sum: 88 (Ranked 533)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 25 |
+| This game is Great for Beginners | 26 |
 | This game has Amazing Storytelling | 21 |
 | This game is Highly Recommended | 21 |
 | This game has Quickly Understood Controls | 20 |
@@ -112,3 +112,4 @@ Diff (max vs sum): 75
 | 2024-05-11 | 4.50 | - | 25 | 66 |
 | 2024-05-16 | 4.50 | - | 25 | 86 |
 | 2024-05-18 | 4.50 | - | 25 | 87 |
+| 2024-05-20 | 4.50 | - | 26 | 88 |

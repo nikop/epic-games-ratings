@@ -3,12 +3,12 @@
 [View Rawdata](../../db/h/hades_ii.json)  
 Rating: 4.90 (Ranked 9)  
 ## Awards
-Max (Great Boss Battles): 21  (Ranked 633)  
-Sum: 21 (Ranked 635)  
-Diff (max vs sum): -2  
+Max (Great Boss Battles): 25  (Ranked 610)  
+Sum: 25 (Ranked 622)  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 21 |
+| This game has Great Boss Battles | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -20,3 +20,4 @@ Diff (max vs sum): -2
 | 2024-05-14 | 4.91 | 0 | 0 |
 | 2024-05-16 | 4.92 | 0 | 0 |
 | 2024-05-18 | 4.90 | 21 | 21 |
+| 2024-05-20 | 4.90 | 25 | 25 |
