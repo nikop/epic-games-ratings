@@ -2,7 +2,7 @@
   "ID": "a1a52b1a570e4ee3ab3b2a8ca930753e",
   "Name": "Orcs Must Die! 3",
   "ProductSlug": "combo-a7e03a",
-  "Ranking_Rating": 521,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 987,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2024-05-03T11:58:38.5901757+00:00",
@@ -234,10 +234,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 682,
       "NumberOfAwardsMax": 594
+    },
+    {
+      "Time": "2024-05-20T18:00:45.1739741+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 683,
+      "NumberOfAwardsMax": 594
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 682,
+  "NumberOfAwards": 683,
   "NumberOfAwardsMax": 594,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -263,7 +269,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -284,7 +290,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-02T17:59:08.0734959+00:00",
   "FirstSeenRating": "2024-05-03T11:58:38.5901753+00:00",
-  "LastChanged": "2024-05-20T00:00:47.1040769+00:00",
+  "LastChanged": "2024-05-20T18:00:45.1739739+00:00",
   "LastUpdate_AppInfo": "2024-05-16T17:57:05.180802+00:00",
-  "LastUpdate_Ratings": "2024-05-20T16:58:04.3902484+00:00"
+  "LastUpdate_Ratings": "2024-05-20T18:00:45.1739745+00:00"
 }
