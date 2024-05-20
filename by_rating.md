@@ -694,7 +694,7 @@
 | 689 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 109 | 403 |
 | 689 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 282 | 292 |
 | 689 | [Figment](games/f/figment.md) | 4.48 | 21 | 633 |
-| 689 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,101 | 98 |
+| 689 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,107 | 98 |
 | 689 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 646 |
 | 689 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 646 |
 | 689 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.48 | 0 | 646 |
@@ -899,6 +899,7 @@
 | 894 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 646 |
 | 894 | [Core](games/c/core.md) | 4.34 | 811 | 198 |
 | 894 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.34 | 0 | 646 |
+| 894 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 58 | 489 |
 | 894 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.34 | 0 | 646 |
 | 894 | [Hammerting](games/h/hammerting.md) | 4.34 | 0 | 646 |
 | 894 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.34 | 0 | 646 |
@@ -907,18 +908,17 @@
 | 894 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 646 |
 | 894 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 33 | 563 |
 | 894 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 659 | 217 |
-| 908 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 646 |
-| 908 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 646 |
-| 908 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.33 | 58 | 489 |
-| 908 | [Filament](games/f/filament.md) | 4.33 | 603 | 226 |
-| 908 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 646 |
-| 908 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 109 | 403 |
-| 908 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.33 | 94 | 430 |
-| 908 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.33 | 315 | 281 |
-| 908 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.33 | 0 | 646 |
-| 908 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 646 |
-| 908 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.33 | 59 | 486 |
-| 908 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 646 |
+| 909 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 646 |
+| 909 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 646 |
+| 909 | [Filament](games/f/filament.md) | 4.33 | 603 | 226 |
+| 909 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 646 |
+| 909 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 109 | 403 |
+| 909 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.33 | 94 | 430 |
+| 909 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.33 | 315 | 281 |
+| 909 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.33 | 0 | 646 |
+| 909 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 646 |
+| 909 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.33 | 59 | 486 |
+| 909 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 646 |
 | 920 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.32 | 24 | 614 |
 | 920 | [Ashen](games/a/ashen.md) | 4.32 | 22 | 623 |
 | 920 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.32 | 0 | 646 |
@@ -1052,7 +1052,7 @@
 | 1,049 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.18 | 0 | 646 |
 | 1,049 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 99 | 421 |
 | 1,049 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 646 |
-| 1,049 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 228,855 | 6 |
+| 1,049 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 228,911 | 6 |
 | 1,049 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 426 |
 | 1,055 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 646 |
 | 1,055 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 630 | 220 |
