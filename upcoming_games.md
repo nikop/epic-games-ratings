@@ -5,6 +5,7 @@
 | [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | - |
 | [Magic Patrol Envoy](games/b/b373c02d39b8470187edd411bd1d36a3.md) | 2024-05-23 | - |  | - | - |
 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-23 | - |  | - | - |
+| [Tennis Manager 2024](games/0/0ccff28e73c64060b1c9a74c3298fd68.md) | 2024-05-23 | - |  | - | - |
 | [Ships At Sea](games/5/5c610ed6aec14085a604cb5e42e70ad4.md) | 2024-05-23 | - |  | - | - |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 1 | - | - |
 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | - |  | - | - |
