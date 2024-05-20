@@ -21,9 +21,9 @@
 | 19 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 25 | 610 |
 | 19 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,059 | 173 |
 | 19 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 646 |
-| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,746 | 140 |
+| 22 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,746 | 141 |
 | 22 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 806 | 199 |
-| 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,634 | 84 |
+| 22 | [God of War](games/g/god_of_war.md) | 4.87 | 5,638 | 84 |
 | 22 | [Inscryption](games/i/inscryption.md) | 4.87 | 371 | 266 |
 | 22 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 319,620 | 5 |
 | 22 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,662 | 27 |
@@ -256,7 +256,7 @@
 | 228 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 272 | 297 |
 | 228 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 646 |
 | 256 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 646 |
-| 256 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 133,510 | 9 |
+| 256 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 133,559 | 9 |
 | 256 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 646 |
 | 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,485 | 61 |
 | 256 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 236 | 313 |
@@ -431,7 +431,7 @@
 | 428 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 646 |
 | 428 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 149 | 367 |
 | 428 | [Art of Rally](games/a/art_of_rally_1.md) | 4.61 | 93 | 433 |
-| 428 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 1,173 | 161 |
+| 428 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 1,176 | 161 |
 | 428 | [BLACKTAIL](games/b/blacktail.md) | 4.61 | 0 | 646 |
 | 428 | [Control](games/c/control.md) | 4.61 | 9,510 | 56 |
 | 428 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 61,296 | 13 |
@@ -670,7 +670,7 @@
 | 650 | [VALORANT](games/v/valorant.md) | 4.50 | 117,662 | 10 |
 | 650 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 53 | 503 |
 | 670 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,083 | 127 |
-| 670 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,676 | 58 |
+| 670 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,688 | 58 |
 | 670 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 646 |
 | 670 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.49 | 0 | 646 |
 | 670 | [Maneater](games/m/maneater.md) | 4.49 | 14,186 | 37 |
@@ -878,7 +878,7 @@
 | 872 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.36 | 0 | 646 |
 | 872 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.36 | 31 | 572 |
 | 872 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.36 | 0 | 646 |
-| 872 | [MORDHAU](games/m/mordhau.md) | 4.36 | 1,743 | 141 |
+| 872 | [MORDHAU](games/m/mordhau.md) | 4.36 | 1,749 | 140 |
 | 872 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 596 |
 | 872 | [Torchlight](games/t/torchlight.md) | 4.36 | 25 | 610 |
 | 872 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 174 | 354 |
@@ -1017,7 +1017,7 @@
 | 1,010 | [The Fall](games/t/the_fall.md) | 4.23 | 0 | 646 |
 | 1,016 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 646 |
 | 1,016 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 208 | 328 |
-| 1,016 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 933 | 189 |
+| 1,016 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 936 | 189 |
 | 1,016 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.22 | 104 | 410 |
 | 1,016 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.22 | 175 | 353 |
 | 1,016 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.22 | 0 | 646 |
@@ -1111,7 +1111,7 @@
 | 1,104 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 646 |
 | 1,110 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.07 | 0 | 646 |
 | 1,110 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.07 | 0 | 646 |
-| 1,110 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,069 | 79 |
+| 1,110 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,072 | 79 |
 | 1,110 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 498 | 241 |
 | 1,114 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.06 | 0 | 646 |
 | 1,115 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 646 |
