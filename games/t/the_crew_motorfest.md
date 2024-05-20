@@ -4,13 +4,13 @@
 Rating: 4.64 (Ranked 371)  
 ## Awards
 Max (Relaxing): 1,237  (Ranked 157)  
-Sum: 9,126 (Ranked 120)  
+Sum: 9,129 (Ranked 120)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 1,237 |
 | This game is Great for Beginners | 1,212 |
-| This game has Quickly Understood Controls | 1,177 |
+| This game has Quickly Understood Controls | 1,180 |
 | This game is Highly Recommended | 1,157 |
 | This game is Extremely Fun | 1,127 |
 | This game has Competitive Players | 1,111 |
@@ -269,4 +269,4 @@ Diff (max vs sum): 37
 | 2024-05-17 | 4.64 | 1,232 | 9,096 |
 | 2024-05-18 | 4.64 | 1,235 | 9,109 |
 | 2024-05-19 | 4.64 | 1,235 | 9,121 |
-| 2024-05-20 | 4.64 | 1,237 | 9,126 |
+| 2024-05-20 | 4.64 | 1,237 | 9,129 |
