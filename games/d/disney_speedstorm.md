@@ -1,7 +1,7 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 840)  
+Rating: 4.39 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -313,9 +313,9 @@ Completed: 2,358 (0.51%) (Ranked 260)
 | 2024-03-21 | 447,954 | 2,258 |
 | 2024-04-10 | 458,127 | 2,358 |
 ## Awards
-Max (Great for Beginners): 389  (Ranked 261)  
+Max (Great for Beginners): 389  (Ranked 262)  
 Sum: 2,284 (Ranked 226)  
-Diff (max vs sum): 35  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 389 |

@@ -3,8 +3,8 @@
   "Name": "Quake",
   "ProductSlug": "quake",
   "Ranking_Rating": 119,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 567,
+  "Ranking_Popularity": 502,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -422,6 +422,6 @@
   "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
   "LastChanged": "2024-04-24T18:57:33.803341+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:08.5798611+00:00",
-  "LastUpdate_Ratings": "2024-05-20T13:04:51.3577515+00:00",
+  "LastUpdate_Ratings": "2024-05-20T14:58:37.1875611+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:13.5941699+00:00"
 }

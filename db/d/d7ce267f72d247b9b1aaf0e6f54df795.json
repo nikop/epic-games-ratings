@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 119,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -1943,10 +1943,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1026,
       "NumberOfAwardsMax": 261
+    },
+    {
+      "Time": "2024-05-20T14:59:34.1749012+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 1030,
+      "NumberOfAwardsMax": 261
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1026,
+  "NumberOfAwards": 1030,
   "NumberOfAwardsMax": 261,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1960,7 +1966,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 75
+      "Count": 79
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2053,8 +2059,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-05-20T13:57:59.9662312+00:00",
+  "LastChanged": "2024-05-20T14:59:34.174901+00:00",
   "LastUpdate_AppInfo": "2024-05-15T23:56:56.8018435+00:00",
-  "LastUpdate_Ratings": "2024-05-20T13:57:59.9662316+00:00",
+  "LastUpdate_Ratings": "2024-05-20T14:59:34.1749016+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }

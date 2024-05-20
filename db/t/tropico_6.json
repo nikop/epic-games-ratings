@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 348,
   "Ranking_Popularity": 393,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 416,
   "Ranking_EOS_NewPlayers": 10,
@@ -1879,10 +1879,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 835,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2024-05-20T14:57:27.5843722+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 838,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 835,
+  "NumberOfAwards": 838,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1896,7 +1902,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 112
+      "Count": 115
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18029,9 +18035,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-05-18T13:59:19.6928456+00:00",
+  "LastChanged": "2024-05-20T14:57:27.584372+00:00",
   "LastChanged_Achievements": "2024-04-10T06:07:10.5486125+00:00",
   "LastUpdate_AppInfo": "2024-05-19T23:58:21.312609+00:00",
-  "LastUpdate_Ratings": "2024-05-20T13:03:31.7668099+00:00",
+  "LastUpdate_Ratings": "2024-05-20T14:57:27.5843724+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:10.5486982+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 323,
-  "Ranking_PopularitySum": 253,
+  "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -22,7 +22,7 @@
       "isPromotionalContentUsed": "null"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -3963,10 +3963,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 1711,
       "NumberOfAwardsMax": 217
+    },
+    {
+      "Time": "2024-05-20T14:58:49.3644021+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 1714,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1711,
+  "NumberOfAwards": 1714,
   "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3974,7 +3980,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 167
+      "Count": 170
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4054,8 +4060,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2024-05-19T19:01:35.0280392+00:00",
+  "LastChanged": "2024-05-20T14:58:49.3644019+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:15.5059481+00:00",
-  "LastUpdate_Ratings": "2024-05-20T13:05:05.3039803+00:00",
+  "LastUpdate_Ratings": "2024-05-20T14:58:49.3644025+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:56.9073426+00:00"
 }
