@@ -2,7 +2,7 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 406,
+  "Ranking_Rating": 405,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 987,
@@ -8621,10 +8621,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 10608,
       "NumberOfAwardsMax": 2990
+    },
+    {
+      "Time": "2024-05-20T18:57:32.6309223+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 10614,
+      "NumberOfAwardsMax": 2990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10608,
+  "NumberOfAwards": 10614,
   "NumberOfAwardsMax": 2990,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8650,7 +8656,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 768
+      "Count": 769
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8662,7 +8668,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 908
+      "Count": 910
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8680,13 +8686,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 670
+      "Count": 672
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 737
+      "Count": 738
     },
     {
       "Text": "This game has Unique Visuals",
@@ -8718,8 +8724,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2024-05-20T13:58:46.7535594+00:00",
+  "LastChanged": "2024-05-20T18:57:32.6309222+00:00",
   "LastUpdate_AppInfo": "2024-05-19T06:57:11.8282891+00:00",
-  "LastUpdate_Ratings": "2024-05-20T16:58:51.8734681+00:00",
+  "LastUpdate_Ratings": "2024-05-20T18:57:32.6309227+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:07.4069105+00:00"
 }
