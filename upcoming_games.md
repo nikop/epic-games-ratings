@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [I'm determined to make 3A: 01 in 65](games/e/e2be1d8966c84260a891372bc270c810.md) | 2024-05-20 | - |  | - | - |
 | [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-05-20 | - |  | - | 0 |
 | [Night Project](games/1/160f324cdc904f8eb98b47214ee1a3e9.md) | 2024-05-20 | - |  | - | - |
 | [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | - |
