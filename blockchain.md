@@ -97,7 +97,7 @@
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | 4.41 | 80 |
-| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.77 | 261 |
+| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.78 | 261 |
 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 2023-11-21 | - |  | 4.42 | 0 |
 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 2023-11-15 | - |  | 4.20 | 0 |
 | [Meta Lordz](games/6/63d008723df74b828d6916c39b26052d.md) | 2023-11-06 | - |  | - | 0 |
@@ -135,6 +135,6 @@
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.60 | 0 |
 | [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.41 | 29 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
-| [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.85 | 58 |
+| [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.85 | 59 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.44 | 55 |
 | [Blankos Block Party](games/b/blankos_block_party.md) | 2022-09-15 | - |  | 4.21 | 32 |
