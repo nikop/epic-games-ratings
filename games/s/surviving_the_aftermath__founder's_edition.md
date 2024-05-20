@@ -354,7 +354,7 @@ Completed: 88 (0.02%) (Ranked 416)
 | 2024-04-10 | 546,678 | 88 |
 ## Awards
 Max (Great for Beginners): 371  (Ranked 266)  
-Sum: 1,880 (Ranked 238)  
+Sum: 1,881 (Ranked 238)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -365,7 +365,7 @@ Diff (max vs sum): 28
 | This game is Highly Recommended | 263 |
 | This game is Relaxing | 258 |
 | This game has Amazing Characters | 192 |
-| This game has a Creative Community | 149 |
+| This game has a Creative Community | 150 |
 | This game has Diverse Characters | 83 |
 | This game has Obsessive Gameplay | 58 |
 ## Ratings History
@@ -687,3 +687,4 @@ Diff (max vs sum): 28
 | 2024-05-17 | 4.38 | - | 371 | 1,875 |
 | 2024-05-18 | 4.38 | - | 371 | 1,878 |
 | 2024-05-19 | 4.38 | - | 371 | 1,880 |
+| 2024-05-20 | 4.38 | - | 371 | 1,881 |
