@@ -1841,10 +1841,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 702,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2024-05-20T03:58:56.9653936+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 703,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 702,
+  "NumberOfAwards": 703,
   "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1894,7 +1900,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9171,9 +9177,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2024-05-19T20:57:21.5306813+00:00",
+  "LastChanged": "2024-05-20T03:58:56.9653935+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:09.3226281+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:51.5224825+00:00",
-  "LastUpdate_Ratings": "2024-05-20T02:57:30.9474316+00:00",
+  "LastUpdate_Ratings": "2024-05-20T03:58:56.9653939+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:09.32268+00:00"
 }
