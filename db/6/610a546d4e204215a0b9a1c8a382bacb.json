@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 119,
   "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 165,
+  "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -6571,10 +6571,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 4651,
       "NumberOfAwardsMax": 579
+    },
+    {
+      "Time": "2024-05-20T19:58:27.6869043+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 4656,
+      "NumberOfAwardsMax": 579
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4651,
+  "NumberOfAwards": 4656,
   "NumberOfAwardsMax": 579,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6582,7 +6588,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 471
+      "Count": 473
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6630,7 +6636,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 400
+      "Count": 403
     },
     {
       "Text": "This game has Amazing Characters",
@@ -17223,9 +17229,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-05-20T07:57:21.9548235+00:00",
+  "LastChanged": "2024-05-20T19:58:27.6869041+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:36.816588+00:00",
   "LastUpdate_AppInfo": "2024-05-15T09:57:08.0306767+00:00",
-  "LastUpdate_Ratings": "2024-05-20T18:00:33.3513484+00:00",
+  "LastUpdate_Ratings": "2024-05-20T19:58:27.6869046+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:36.8167073+00:00"
 }
