@@ -1,11 +1,11 @@
 # Galactic Civilizations III
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iii)  
 [View Rawdata](../../db/g/galactic_civilizations_iii.json)  
-Rating: 4.22 (Ranked 1,016)  
+Rating: 4.22 (Ranked 1,017)  
 Number of Ratings: 1,085  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 210  (Ranked 326)  
-Sum: 1,363 (Ranked 271)  
+Sum: 1,364 (Ranked 271)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 55
 | This game is Relaxing | 185 |
 | This game is Highly Recommended | 183 |
 | This game has Amazing Storytelling | 167 |
-| This game has Amazing Characters | 143 |
+| This game has Amazing Characters | 144 |
 | This game has a Creative Community | 83 |
 | This game has Unique Visuals | 34 |
 ## Ratings History
@@ -299,4 +299,4 @@ Diff (max vs sum): 55
 | 2024-05-14 | 4.22 | - | 208 | 1,358 |
 | 2024-05-17 | 4.22 | - | 208 | 1,360 |
 | 2024-05-18 | 4.22 | - | 208 | 1,361 |
-| 2024-05-20 | 4.22 | - | 210 | 1,363 |
+| 2024-05-20 | 4.22 | - | 210 | 1,364 |
