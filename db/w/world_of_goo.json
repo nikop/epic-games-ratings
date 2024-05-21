@@ -2,7 +2,7 @@
   "ID": "anemone",
   "Name": "World of Goo",
   "ProductSlug": "world-of-goo",
-  "Ranking_Rating": 188,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 645,
   "Ranking_PopularitySum": 645,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -248,6 +248,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-20T23:59:01.5327176+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -265,8 +271,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:07.5057967+00:00",
-  "LastChanged": "2024-03-30T22:57:58.6980432+00:00",
+  "LastChanged": "2024-05-20T23:59:01.5327174+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:16.6081253+00:00",
-  "LastUpdate_Ratings": "2024-05-20T22:57:24.9679282+00:00",
+  "LastUpdate_Ratings": "2024-05-20T23:59:01.532718+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:10.7216747+00:00"
 }
