@@ -63,7 +63,7 @@
 | 59 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 209 | 329 |
 | 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 645 |
 | 59 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 645 |
-| 59 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 249 | 303 |
+| 59 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 251 | 303 |
 | 59 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 248 | 304 |
 | 59 | [Firework](games/f/firework.md) | 4.83 | 0 | 645 |
 | 59 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 705 | 208 |
@@ -261,7 +261,7 @@
 | 255 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 236 | 313 |
 | 255 | [House Flipper](games/h/house_flipper.md) | 4.69 | 348 | 271 |
 | 255 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 645 |
-| 255 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 185 | 342 |
+| 255 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 187 | 342 |
 | 255 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,292 | 152 |
 | 255 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,083 | 128 |
 | 255 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 645 |
@@ -609,7 +609,7 @@
 | 598 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.53 | 0 | 645 |
 | 598 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 94 | 430 |
 | 598 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 562 | 232 |
-| 598 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,179 | 160 |
+| 598 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,183 | 160 |
 | 598 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 417 | 257 |
 | 598 | [Verdun](games/v/verdun.md) | 4.53 | 117 | 398 |
 | 613 | [9Lives Arena](games/9/9lives_arena.md) | 4.52 | 37 | 545 |
@@ -719,7 +719,7 @@
 | 715 | [Escape Academy](games/e/escape_academy.md) | 4.46 | 0 | 645 |
 | 715 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,264 | 153 |
 | 715 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 645 |
-| 715 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 14,585 | 35 |
+| 715 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 14,600 | 35 |
 | 715 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 54 | 499 |
 | 715 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 645 |
 | 715 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 645 |
@@ -764,7 +764,7 @@
 | 747 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 645 |
 | 747 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.44 | 0 | 645 |
 | 747 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 645 |
-| 747 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 827,741 | 2 |
+| 747 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 828,811 | 2 |
 | 747 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 645 |
 | 747 | [STG Football](games/s/stg_football.md) | 4.44 | 55 | 497 |
 | 747 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 421 |
@@ -1052,7 +1052,7 @@
 | 1,050 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.18 | 0 | 645 |
 | 1,050 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 99 | 421 |
 | 1,050 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 645 |
-| 1,050 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 228,911 | 6 |
+| 1,050 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 228,957 | 6 |
 | 1,050 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 427 |
 | 1,055 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 645 |
 | 1,055 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 630 | 220 |
