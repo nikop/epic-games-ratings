@@ -6287,10 +6287,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 3713,
       "NumberOfAwardsMax": 658
+    },
+    {
+      "Time": "2024-05-21T13:58:16.7293908+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 3715,
+      "NumberOfAwardsMax": 658
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3713,
+  "NumberOfAwards": 3715,
   "NumberOfAwardsMax": 658,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6334,7 +6340,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 418
+      "Count": 420
     },
     {
       "Text": "This game is Relaxing",
@@ -6360,8 +6366,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2024-05-21T04:57:56.7879594+00:00",
+  "LastChanged": "2024-05-21T13:58:16.7293906+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:23.3105529+00:00",
-  "LastUpdate_Ratings": "2024-05-21T12:00:31.4023916+00:00",
+  "LastUpdate_Ratings": "2024-05-21T13:58:16.7293913+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:52.4429145+00:00"
 }
