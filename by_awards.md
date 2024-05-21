@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 3,536,144 | 4.29 | 944 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 828,811 | 4.44 | 747 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 374,972 | 4.68 | 278 |
-| 4 | [Genshin Impact](games/g/genshin_impact.md) | 341,098 | 4.67 | 300 |
+| 4 | [Genshin Impact](games/g/genshin_impact.md) | 341,191 | 4.67 | 300 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 319,869 | 4.87 | 22 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 228,957 | 4.18 | 1,050 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 164,905 | 4.68 | 278 |
@@ -95,7 +95,7 @@
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,614 | 4.46 | 715 |
 | 94 | [Days Gone](games/d/days_gone.md) | 4,591 | 4.68 | 278 |
 | 95 | [Paladins](games/p/paladins.md) | 4,451 | 4.31 | 929 |
-| 96 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4,287 | 4.63 | 386 |
+| 96 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4,298 | 4.63 | 386 |
 | 97 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,215 | 4.51 | 629 |
 | 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,114 | 4.48 | 688 |
 | 99 | [Hades](games/h/hades.md) | 3,860 | 4.92 | 6 |
@@ -111,7 +111,7 @@
 | 109 | [RAGE 2](games/r/rage_2.md) | 3,157 | 4.26 | 976 |
 | 110 | [Path of Exile](games/p/path_of_exile.md) | 2,990 | 4.62 | 405 |
 | 111 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,956 | 4.79 | 108 |
-| 112 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,656 | 4.71 | 215 |
+| 112 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,663 | 4.71 | 215 |
 | 113 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,651 | 4.13 | 1,085 |
 | 114 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,635 | 4.77 | 127 |
 | 115 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,566 | 4.81 | 82 |
@@ -144,7 +144,7 @@
 | 142 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,689 | 4.79 | 108 |
 | 143 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,678 | 4.75 | 154 |
 | 144 | [XCOM® 2](games/x/xcom®_2.md) | 1,607 | 4.55 | 561 |
-| 145 | [OUTRIDERS](games/o/outriders.md) | 1,600 | 4.43 | 771 |
+| 145 | [OUTRIDERS](games/o/outriders.md) | 1,601 | 4.43 | 771 |
 | 146 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,533 | 4.62 | 405 |
 | 147 | [Ring of Pain](games/r/ring_of_pain.md) | 1,530 | 4.58 | 495 |
 | 148 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,381 | 4.70 | 226 |
@@ -218,7 +218,7 @@
 | 216 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 666 | 4.61 | 425 |
 | 217 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 659 | 4.34 | 894 |
 | 218 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 658 | 4.26 | 976 |
-| 219 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 641 | 4.38 | 849 |
+| 219 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 642 | 4.38 | 849 |
 | 220 | [Dark Deity](games/d/dark_deity.md) | 630 | 4.17 | 1,055 |
 | 221 | [Godfall Ultimate Edition](games/g/godfall.md) | 623 | 4.05 | 1,115 |
 | 222 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 621 | 4.67 | 300 |

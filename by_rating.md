@@ -224,7 +224,7 @@
 | 215 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.71 | 0 | 645 |
 | 215 | [Tchia](games/t/tchia.md) | 4.71 | 0 | 645 |
 | 215 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 0 | 645 |
-| 215 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,656 | 112 |
+| 215 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,663 | 112 |
 | 226 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,715 | 92 |
 | 226 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 137 | 377 |
 | 226 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 4.70 | 0 | 645 |
@@ -307,7 +307,7 @@
 | 300 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 645 |
 | 300 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 12,205 | 43 |
 | 300 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,029 | 176 |
-| 300 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 341,098 | 4 |
+| 300 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 341,191 | 4 |
 | 300 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 535 | 235 |
 | 300 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 645 |
 | 300 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,389 | 120 |
@@ -398,7 +398,7 @@
 | 386 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.63 | 0 | 645 |
 | 386 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 742 | 204 |
 | 386 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 10,828 | 48 |
-| 386 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,287 | 96 |
+| 386 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,298 | 96 |
 | 386 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 645 |
 | 386 | [Prey](games/p/prey.md) | 4.63 | 6,039 | 80 |
 | 386 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 197 | 339 |
@@ -775,7 +775,7 @@
 | 771 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 645 |
 | 771 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 645 |
 | 771 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 86 | 440 |
-| 771 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,600 | 145 |
+| 771 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,601 | 145 |
 | 771 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.43 | 0 | 645 |
 | 771 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 645 |
 | 771 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 645 |
@@ -860,7 +860,7 @@
 | 849 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 372 | 266 |
 | 849 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 645 |
 | 849 | [The Riflemen](games/t/the_riflemen.md) | 4.38 | 0 | 645 |
-| 849 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 641 | 219 |
+| 849 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 642 | 219 |
 | 862 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 0 | 645 |
 | 862 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 0 | 645 |
 | 862 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,179 | 123 |
