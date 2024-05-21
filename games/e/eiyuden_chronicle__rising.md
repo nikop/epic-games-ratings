@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.51 (Ranked 629)  
+Rating: 4.50 (Ranked 649)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -180,3 +180,4 @@ Completed: 63 (7.46%) (Ranked 64)
 | 2023-11-25 | 4.51 | - | 0 | 0 |
 | 2023-12-03 | 4.50 | - | 0 | 0 |
 | 2024-04-28 | 4.51 | - | 0 | 0 |
+| 2024-05-21 | 4.50 | - | 0 | 0 |

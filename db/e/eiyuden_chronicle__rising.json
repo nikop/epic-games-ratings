@@ -2,7 +2,7 @@
   "ID": "a4824407d9ec4f6a8c13919e732f9400",
   "Name": "Eiyuden Chronicle: Rising",
   "ProductSlug": "eiyuden-chronicle-rising",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 647,
   "Ranking_PopularitySum": 647,
   "Ranking_EOS_Progress": 361,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 48,
   "RatingHistory": [
     {
@@ -189,6 +189,12 @@
     {
       "Time": "2024-04-28T21:57:09.4863723+00:00",
       "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-21T22:58:36.3822287+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1333,9 +1339,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
-  "LastChanged": "2024-04-28T21:57:09.4863722+00:00",
+  "LastChanged": "2024-05-21T22:58:36.3822285+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:52.1136001+00:00",
   "LastUpdate_AppInfo": "2024-05-19T23:57:32.5625564+00:00",
-  "LastUpdate_Ratings": "2024-05-21T21:57:31.41936+00:00",
+  "LastUpdate_Ratings": "2024-05-21T22:58:36.3822291+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:52.1136409+00:00"
 }
