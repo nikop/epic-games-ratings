@@ -1,7 +1,7 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 427)  
+Rating: 4.62 (Ranked 404)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -804,4 +804,4 @@ Diff (max vs sum): 68
 | 2024-05-17 | 4.62 | - | 476 | 3,875 |
 | 2024-05-19 | 4.62 | - | 476 | 3,876 |
 | 2024-05-20 | 4.62 | - | 478 | 3,880 |
-| 2024-05-21 | 4.61 | - | 478 | 3,882 |
+| 2024-05-21 | 4.62 | - | 478 | 3,882 |
