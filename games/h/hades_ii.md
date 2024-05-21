@@ -3,8 +3,8 @@
 [View Rawdata](../../db/h/hades_ii.json)  
 Rating: 4.90 (Ranked 9)  
 ## Awards
-Max (Great Boss Battles): 25  (Ranked 610)  
-Sum: 25 (Ranked 622)  
+Max (Great Boss Battles): 25  (Ranked 611)  
+Sum: 25 (Ranked 623)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |

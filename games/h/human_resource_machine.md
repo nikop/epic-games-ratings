@@ -3,9 +3,9 @@
 [View Rawdata](../../db/h/human_resource_machine.json)  
 Rating: 4.62 (Ranked 405)  
 ## Awards
-Max (Challenging Puzzles): 85  (Ranked 442)  
+Max (Challenging Puzzles): 85  (Ranked 443)  
 Sum: 85 (Ranked 536)  
-Diff (max vs sum): -94  
+Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 85 |
