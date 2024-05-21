@@ -22,7 +22,7 @@
 | 20 | [Dauntless](games/d/dauntless.md) | 29,252 | 4.53 | 598 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 27,733 | 4.89 | 14 |
 | 22 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,243 | 4.26 | 976 |
-| 23 | [Warframe](games/w/warframe.md) | 23,982 | 4.61 | 425 |
+| 23 | [Warframe](games/w/warframe.md) | 24,001 | 4.61 | 425 |
 | 24 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 23,981 | 4.57 | 520 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 17,928 | 4.60 | 452 |
 | 26 | [Borderlands 2](games/b/borderlands_2.md) | 17,740 | 4.76 | 145 |
@@ -242,9 +242,9 @@
 | 239 | [Warface: Clutch](games/w/warface.md) | 511 | 3.89 | 1,153 |
 | 241 | [Second Extinction™](games/s/second_extinction™.md) | 498 | 4.07 | 1,110 |
 | 242 | [Hello Neighbor](games/h/hello_neighbor.md) | 495 | 4.57 | 520 |
-| 243 | [Against the Storm](games/a/against_the_storm.md) | 490 | 4.82 | 73 |
-| 244 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 488 | 4.17 | 1,055 |
-| 245 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 486 | 4.20 | 1,030 |
+| 243 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 491 | 4.20 | 1,030 |
+| 244 | [Against the Storm](games/a/against_the_storm.md) | 490 | 4.82 | 73 |
+| 245 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 488 | 4.17 | 1,055 |
 | 246 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 478 | 4.61 | 425 |
 | 246 | [Into the Breach](games/i/into_the_breach.md) | 478 | 4.83 | 59 |
 | 248 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 468 | 4.80 | 98 |
@@ -619,21 +619,21 @@
 | 615 | [Outer Wilds](games/o/outer_wilds.md) | 24 | 4.90 | 9 |
 | 615 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 24 | 4.49 | 670 |
 | 615 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 24 | 4.87 | 22 |
+| 615 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 24 | 4.51 | 629 |
 | 615 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.57 | 520 |
 | 615 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 24 | 4.82 | 73 |
-| 622 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 23 | 4.48 | 688 |
-| 622 | [Cursed to Golf](games/c/cursed_to_golf.md) | 23 | 4.13 | 1,085 |
-| 622 | [Griftlands](games/g/griftlands.md) | 23 | 4.79 | 108 |
-| 625 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 920 |
-| 625 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 561 |
-| 625 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 22 | 5.00 | 1 |
-| 625 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 993 |
-| 625 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.27 | 970 |
-| 625 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,039 |
-| 625 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 495 |
-| 625 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 703 |
-| 625 | [Tails of Iron](games/t/tails_of_iron.md) | 22 | 4.58 | 495 |
-| 625 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 22 | 4.51 | 629 |
+| 623 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 23 | 4.48 | 688 |
+| 623 | [Cursed to Golf](games/c/cursed_to_golf.md) | 23 | 4.13 | 1,085 |
+| 623 | [Griftlands](games/g/griftlands.md) | 23 | 4.79 | 108 |
+| 626 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 920 |
+| 626 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 561 |
+| 626 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 22 | 5.00 | 1 |
+| 626 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 993 |
+| 626 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.27 | 970 |
+| 626 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,039 |
+| 626 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 495 |
+| 626 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 703 |
+| 626 | [Tails of Iron](games/t/tails_of_iron.md) | 22 | 4.58 | 495 |
 | 635 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 386 |
 | 635 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 21 | 4.42 | 788 |
 | 635 | [Figment](games/f/figment.md) | 21 | 4.48 | 688 |
