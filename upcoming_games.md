@@ -45,11 +45,13 @@
 | [Hero's Land](games/7/75f574ba4c08449192a3a8afc6cd6b4b.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
 | [JudgeSim](games/7/7ec64dbd5e634886915c1e9cf35f4d78.md) | 2024-06-30 | - |  | - | - |
+| [Knight Swap](games/d/d62ad943ddbb4d0b8aa4969f31260bc5.md) | 2024-06-30 | - |  | - | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-30 | - |  | - | - |
 | [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 398,559 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [Myth & Mirage](games/5/5180c8d470c54875b18e52723630fdbb.md) | 2024-06-30 | - |  | - | - |
 | [Ninja Chowdown: Glaze of Glory](games/9/9d14aa079d6247ea83dcbc8879b90380.md) | 2024-06-30 | - |  | - | - |
+| [PeakPals](games/1/14c946b79c9e4112a1dfe276fc0623df.md) | 2024-06-30 | - |  | - | - |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
