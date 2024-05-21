@@ -65,6 +65,7 @@
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-07-09 | - |  | - | - |
+| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | - | 0 |
 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | - |  | - | - |
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2024-07-25 | - |  | - | - |
 | [SMITE 2](games/1/16ed9f15b1b449ccb59cb610b13df5b8.md) | 2024-07-30 | - |  | - | - |
@@ -485,7 +486,6 @@
 | [R-Type Tactics I - II Cosmos](games/r/r-type_tactics_i_-_ii_cosmos.md) | 2099-01-01 | - |  | - | - |
 | [Radiant Arena](games/e/e842ff4630504acd96d55f65a5827d1c.md) | 2099-01-01 | - |  | - | - |
 | [Ravenswatch](games/r/ravenswatch.md) | 2099-01-01 | - |  | - | - |
-| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2099-01-01 | - |  | - | 0 |
 | [Realife Simulator](games/b/b45f4ea9d6ca4644a06b5f52ee87930e.md) | 2099-01-01 | - |  | - | - |
 | [Realms of Alterra: Prologue](games/d/d779b7aef075456b9b056a8eb4172819.md) | 2099-01-01 | - |  | - | - |
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | - |  | - | - |
