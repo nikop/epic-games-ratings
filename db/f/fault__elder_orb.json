@@ -4,7 +4,7 @@
   "ProductSlug": "fault-elder-orb",
   "Ranking_Rating": 1149,
   "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1436,6 +1436,6 @@
   "FirstSeen": "2022-07-22T20:21:40.2503475+00:00",
   "LastChanged": "2022-12-03T23:07:52.062399+00:00",
   "LastUpdate_AppInfo": "2024-05-19T16:57:39.0418389+00:00",
-  "LastUpdate_Ratings": "2024-05-21T18:57:36.994916+00:00",
+  "LastUpdate_Ratings": "2024-05-21T19:59:00.8673491+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:00.3478211+00:00"
 }
