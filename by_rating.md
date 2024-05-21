@@ -185,7 +185,7 @@
 | 169 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 952 | 185 |
 | 169 | [Timberborn](games/t/timberborn.md) | 4.74 | 198 | 338 |
 | 169 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 645 |
-| 169 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,232 | 158 |
+| 169 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,239 | 157 |
 | 169 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 645 |
 | 169 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 645 |
 | 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 645 |
@@ -383,7 +383,7 @@
 | 371 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 645 |
 | 371 | [No Straight Roads](games/n/no_straight_roads.md) | 4.64 | 0 | 645 |
 | 371 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,185 | 19 |
-| 371 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,237 | 157 |
+| 371 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,237 | 158 |
 | 371 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 230 | 319 |
 | 386 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.63 | 0 | 645 |
 | 386 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 635 |
@@ -498,7 +498,7 @@
 | 495 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 47 | 519 |
 | 495 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 69,211 | 12 |
 | 495 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.58 | 0 | 645 |
-| 495 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 16,592 | 30 |
+| 495 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 16,606 | 30 |
 | 495 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 279 | 295 |
 | 495 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 66 | 473 |
 | 495 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 645 |
@@ -633,7 +633,7 @@
 | 629 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.51 | 0 | 645 |
 | 629 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 235 | 314 |
 | 629 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 645 |
-| 629 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 46,192 | 16 |
+| 629 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 46,229 | 16 |
 | 629 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.51 | 0 | 645 |
 | 629 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.51 | 370 | 268 |
 | 629 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.51 | 163 | 361 |
@@ -1150,8 +1150,8 @@
 | 1,148 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 645 |
 | 1,149 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 37 | 545 |
 | 1,149 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 412 |
-| 1,151 | [Saints Row](games/s/saints_row.md) | 3.90 | 1,258 | 154 |
-| 1,151 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.90 | 153 | 366 |
+| 1,149 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.91 | 153 | 366 |
+| 1,152 | [Saints Row](games/s/saints_row.md) | 3.90 | 1,258 | 154 |
 | 1,153 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.89 | 0 | 645 |
 | 1,153 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.89 | 0 | 645 |
 | 1,153 | [Warface: Clutch](games/w/warface.md) | 3.89 | 511 | 239 |
