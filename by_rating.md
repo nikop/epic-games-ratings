@@ -59,7 +59,7 @@
 | 49 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 243 | 310 |
 | 49 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 645 |
 | 59 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 645 |
-| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,259 | 68 |
+| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,266 | 68 |
 | 59 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 209 | 329 |
 | 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 645 |
 | 59 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 645 |
@@ -365,7 +365,7 @@
 | 348 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 469 |
 | 348 | [Tavern Master](games/t/tavern_master.md) | 4.65 | 0 | 645 |
 | 348 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 645 |
-| 348 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 590 | 230 |
+| 348 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 591 | 230 |
 | 348 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 4,981 | 89 |
 | 348 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 121 | 393 |
 | 348 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.65 | 0 | 645 |
@@ -1179,7 +1179,7 @@
 | 1,177 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 645 |
 | 1,178 | [Redfall](games/r/redfall.md) | 3.66 | 41 | 532 |
 | 1,179 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.59 | 0 | 645 |
-| 1,180 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.58 | 86 | 440 |
+| 1,180 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.57 | 86 | 440 |
 | 1,181 | [Adios](games/a/adios.md) | 3.53 | 0 | 645 |
 | 1,182 | [Survive on Raft](games/s/survive_on_raft.md) | 3.50 | 0 | 645 |
 | 1,183 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.44 | 101 | 416 |
