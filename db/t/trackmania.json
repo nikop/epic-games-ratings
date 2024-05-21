@@ -4,7 +4,7 @@
   "ProductSlug": "trackmania",
   "Ranking_Rating": 349,
   "Ranking_Popularity": 89,
-  "Ranking_PopularitySum": 41,
+  "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -20623,18 +20623,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 39978,
       "NumberOfAwardsMax": 4981
+    },
+    {
+      "Time": "2024-05-21T20:58:01.7412951+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 40010,
+      "NumberOfAwardsMax": 4988
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39978,
-  "NumberOfAwardsMax": 4981,
+  "NumberOfAwards": 40010,
+  "NumberOfAwardsMax": 4988,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4981
+      "Count": 4988
     },
     {
       "Text": "This game has Competitive Players",
@@ -20646,7 +20652,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 4876
+      "Count": 4884
     },
     {
       "Text": "This game is Extremely Fun",
@@ -20670,19 +20676,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3678
+      "Count": 3681
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4065
+      "Count": 4069
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3282
+      "Count": 3288
     },
     {
       "Text": "This game has Challenging Combat",
@@ -20694,7 +20700,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2418
+      "Count": 2422
     },
     {
       "Text": "This game has Amazing Characters",
@@ -20714,8 +20720,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-05-21T15:59:33.1217491+00:00",
+  "LastChanged": "2024-05-21T20:58:01.7412949+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:38.0166447+00:00",
-  "LastUpdate_Ratings": "2024-05-21T19:00:37.3447926+00:00",
+  "LastUpdate_Ratings": "2024-05-21T20:58:01.7412955+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:04.4386038+00:00"
 }
