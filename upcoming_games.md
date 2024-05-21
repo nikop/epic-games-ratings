@@ -208,6 +208,7 @@
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | - |  | - | - |
 | [Worshippers of Cthulhu](games/3/3cc25c5644354b8aa07d735794004cbf.md) | 2024-12-31 | - |  | - | - |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-12-31 | - |  | - | - |
+| [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | 2024-12-31 | - |  | - | - |
 | [Skystead Ranch](games/5/5df8e058035b4f1ab1522b584a0142f3.md) | 2025-01-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [The Crimson Lyre](games/3/397c0a87980c4098b5a37d77a33e2713.md) | 2025-03-31 | - |  | - | - |
