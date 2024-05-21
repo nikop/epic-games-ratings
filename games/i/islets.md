@@ -4,7 +4,7 @@
 Rating: 4.71 (Ranked 215)  
 ## Awards
 Max (Extremely Fun): 35  (Ranked 555)  
-Sum: 215 (Ranked 457)  
+Sum: 216 (Ranked 457)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
@@ -13,9 +13,9 @@ Diff (max vs sum): 98
 | This game has Quickly Understood Controls | 28 |
 | This game is Great for Beginners | 27 |
 | This game has Playful Visuals | 25 |
+| This game has Amazing Characters | 25 |
 | This game is Great for Quick Sessions | 25 |
 | This game is Relaxing | 24 |
-| This game has Amazing Characters | 24 |
 | This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -62,3 +62,4 @@ Diff (max vs sum): 98
 | 2024-05-16 | 4.71 | 34 | 188 |
 | 2024-05-17 | 4.71 | 34 | 189 |
 | 2024-05-20 | 4.71 | 35 | 215 |
+| 2024-05-21 | 4.71 | 35 | 216 |
