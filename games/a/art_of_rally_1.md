@@ -268,8 +268,8 @@ Completed: 46 (0.01%) (Ranked 433)
 | 2024-04-10 | 492,501 | 46 |
 ## Awards
 Max (Great for Quick Sessions): 93  (Ranked 434)  
-Sum: 669 (Ranked 343)  
-Diff (max vs sum): 91  
+Sum: 669 (Ranked 342)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 93 |
