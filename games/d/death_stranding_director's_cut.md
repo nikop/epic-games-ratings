@@ -358,7 +358,7 @@ Completed: 2,521 (0.43%) (Ranked 272)
 | 2024-04-10 | 584,742 | 2,521 |
 ## Awards
 Max (Great Boss Battles): 10,349  (Ranked 50)  
-Sum: 18,296 (Ranked 72)  
+Sum: 18,297 (Ranked 72)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
@@ -373,7 +373,7 @@ Diff (max vs sum): -22
 | This game is Extremely Fun | 702 |
 | This game is Educational | 696 |
 | This game is Relaxing | 670 |
-| This game has a Creative Community | 577 |
+| This game has a Creative Community | 578 |
 | This game has Obsessive Gameplay | 158 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -870,4 +870,4 @@ Diff (max vs sum): -22
 | 2024-05-19 | 4.89 | - | 10,334 | 18,259 |
 | 2024-05-20 | 4.89 | - | 10,341 | 18,276 |
 | 2024-05-21 | 4.89 | - | 10,347 | 18,288 |
-| 2024-05-22 | 4.89 | - | 10,349 | 18,296 |
+| 2024-05-22 | 4.89 | - | 10,349 | 18,297 |
