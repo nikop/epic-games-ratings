@@ -2,7 +2,7 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light: Standard Edition",
   "ProductSlug": "dying-light",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 3,
@@ -20232,18 +20232,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 122191,
       "NumberOfAwardsMax": 61462
+    },
+    {
+      "Time": "2024-05-22T13:03:57.3683711+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 122257,
+      "NumberOfAwardsMax": 61514
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 122191,
-  "NumberOfAwardsMax": 61462,
+  "NumberOfAwards": 122257,
+  "NumberOfAwardsMax": 61514,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 61462
+      "Count": 61514
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -20279,7 +20285,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3700
+      "Count": 3710
     },
     {
       "Text": "This game is Extremely Fun",
@@ -20309,7 +20315,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3056
+      "Count": 3060
     },
     {
       "Text": "This game has a Creative Community",
@@ -53533,9 +53539,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
-  "LastChanged": "2024-05-22T09:58:38.9816828+00:00",
+  "LastChanged": "2024-05-22T13:03:57.368371+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:10.1984298+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:08.7684675+00:00",
-  "LastUpdate_Ratings": "2024-05-22T11:00:58.6664573+00:00",
+  "LastUpdate_Ratings": "2024-05-22T13:03:57.3683715+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:10.1986473+00:00"
 }
