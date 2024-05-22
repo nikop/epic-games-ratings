@@ -59,7 +59,7 @@
 | 49 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 243 | 311 |
 | 49 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.84 | 0 | 647 |
 | 59 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 647 |
-| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,266 | 68 |
+| 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,273 | 68 |
 | 59 | [Blasphemous](games/b/blasphemous.md) | 4.83 | 209 | 330 |
 | 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.83 | 0 | 647 |
 | 59 | [Cozy Grove](games/c/cozy_grove.md) | 4.83 | 0 | 647 |
@@ -493,7 +493,7 @@
 | 476 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 88 | 440 |
 | 476 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 232 | 318 |
 | 476 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 35 | 556 |
-| 476 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 545 | 233 |
+| 476 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 547 | 233 |
 | 476 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 647 |
 | 496 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.58 | 0 | 647 |
 | 496 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 47 | 520 |
