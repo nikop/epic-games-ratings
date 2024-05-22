@@ -3,8 +3,8 @@
   "Name": "Gods Unchained",
   "ProductSlug": "gods-unchained-9b2cb5",
   "Ranking_Rating": 747,
-  "Ranking_Popularity": 624,
-  "Ranking_PopularitySum": 629,
+  "Ranking_Popularity": 617,
+  "Ranking_PopularitySum": 627,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -521,11 +521,17 @@
       "Rating": 4.44,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-05-22T01:48:51.2694933+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -544,7 +550,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -559,8 +565,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-22T02:56:58.3555255+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
-  "LastChanged": "2024-05-21T23:58:23.1249178+00:00",
+  "LastChanged": "2024-05-22T01:48:51.2694931+00:00",
   "LastUpdate_AppInfo": "2024-05-17T04:57:14.8449425+00:00",
-  "LastUpdate_Ratings": "2024-05-21T23:58:23.1249185+00:00",
+  "LastUpdate_Ratings": "2024-05-22T01:48:51.2694937+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:21.706188+00:00"
 }

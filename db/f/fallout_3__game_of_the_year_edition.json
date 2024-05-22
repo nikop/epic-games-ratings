@@ -11435,10 +11435,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 34854,
       "NumberOfAwardsMax": 16849
+    },
+    {
+      "Time": "2024-05-22T01:48:30.8345288+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 34859,
+      "NumberOfAwardsMax": 16849
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34854,
+  "NumberOfAwards": 34859,
   "NumberOfAwardsMax": 16849,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11506,13 +11512,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1291
+      "Count": 1292
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2120
+      "Count": 2124
     }
   ],
   "EOS_Progressed": 0,
@@ -11527,8 +11533,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-05-21T21:59:58.8913356+00:00",
+  "LastChanged": "2024-05-22T01:48:30.8345287+00:00",
   "LastUpdate_AppInfo": "2024-05-19T22:57:23.8168054+00:00",
-  "LastUpdate_Ratings": "2024-05-21T23:58:07.8815181+00:00",
+  "LastUpdate_Ratings": "2024-05-22T01:48:30.8345291+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:09.8311736+00:00"
 }

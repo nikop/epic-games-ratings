@@ -2,7 +2,7 @@
   "ID": "f3cdd34e969744e3a60c38fbd1c29669",
   "Name": "True Reporter. Hidden Mistwood",
   "ProductSlug": "true-reporter-414088",
-  "Ranking_Rating": 1141,
+  "Ranking_Rating": 1128,
   "Ranking_Popularity": 647,
   "Ranking_PopularitySum": 647,
   "Ranking_EOS_Progress": 987,
@@ -22,11 +22,17 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.95,
+  "Rating": 4,
   "RatingHistory": [
     {
       "Time": "2024-05-07T14:59:30.7164782+00:00",
       "Rating": 3.95,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-22T01:46:54.2930345+00:00",
+      "Rating": 4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -47,8 +53,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-25T11:57:49.7754337+00:00",
   "FirstSeenRating": "2024-05-07T14:59:30.716478+00:00",
-  "LastChanged": "2024-05-07T14:59:30.7164781+00:00",
+  "LastChanged": "2024-05-22T01:46:54.2930343+00:00",
   "LastUpdate_AppInfo": "2024-05-18T01:42:42.7505496+00:00",
-  "LastUpdate_Ratings": "2024-05-21T22:59:58.8652558+00:00",
+  "LastUpdate_Ratings": "2024-05-22T01:46:54.2930349+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:35.7245193+00:00"
 }
