@@ -6,7 +6,7 @@
 | [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | - |
 | [Ground to Dust](games/3/3d221e64f74743f0a0e78ab1518ce657.md) | 2024-05-22 | - |  | - | - |
 | [Survival: Fountain of Youth](games/c/cb0f45bc17c84708bbbe08741f6ff2b8.md) | 2024-05-21 | - |  | - | 0 |
-| [MetaStrike](games/9/9bc9fd0e71724d60901f07738a5462a6.md) | 2024-05-21 | - |  | - | - |
+| [MetaStrike](games/9/9bc9fd0e71724d60901f07738a5462a6.md) | 2024-05-21 | - |  | - | 0 |
 | [Night Project](games/1/160f324cdc904f8eb98b47214ee1a3e9.md) | 2024-05-20 | - |  | - | 0 |
 | [AIdventure](games/8/8300260cdf9c485598734fdcff251b6d.md) | 2024-05-20 | - |  | - | 0 |
 | [I'm determined to make 3A: 01 in 65](games/e/e2be1d8966c84260a891372bc270c810.md) | 2024-05-20 | - |  | - | - |
@@ -63,7 +63,7 @@
 | [Darkestville Castle](games/c/c33824d3cf754146aca31f48780b92bf.md) | 2024-05-07 | - |  | - | - |
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | - |  | - | - |
 | [The Origin Theory - Episode One](games/2/272516e06b114390af92429cba34eb6a.md) | 2024-05-06 | - |  | - | 0 |
-| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.90 | 37 |
+| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.90 | 40 |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 15 | - | 0 |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Diamond Drone](games/5/5e307f50567c4f8fb0c187f0729bfd08.md) | 2024-05-05 | - |  | - | 0 |
