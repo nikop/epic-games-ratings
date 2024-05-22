@@ -1,11 +1,11 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,538,562 | 4.29 | 944 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 828,811 | 4.44 | 747 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 829,652 | 4.44 | 747 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 375,320 | 4.68 | 279 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 341,191 | 4.67 | 300 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 320,155 | 4.87 | 22 |
-| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 228,957 | 4.18 | 1,050 |
+| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 228,993 | 4.18 | 1,050 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 165,009 | 4.68 | 279 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 159,945 | 4.50 | 649 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 133,604 | 4.69 | 255 |
@@ -30,7 +30,7 @@
 | 28 | [SnowRunner](games/s/snowrunner.md) | 17,254 | 4.75 | 154 |
 | 29 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 16,849 | 4.60 | 452 |
 | 30 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 16,606 | 4.58 | 496 |
-| 31 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,292 | 4.44 | 747 |
+| 31 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,307 | 4.44 | 747 |
 | 32 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,189 | 4.84 | 49 |
 | 33 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,890 | 4.58 | 496 |
 | 34 | [Dead Island 2](games/d/dead_island_2.md) | 14,795 | 4.54 | 580 |
@@ -85,7 +85,7 @@
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,660 | 4.57 | 521 |
 | 84 | [God of War](games/g/god_of_war.md) | 5,638 | 4.87 | 22 |
 | 85 | [The Sims™ 4](games/t/the_sims™_4.md) | 5,557 | 4.62 | 404 |
-| 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,433 | 4.37 | 863 |
+| 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,453 | 4.37 | 863 |
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,170 | 4.00 | 1,128 |
 | 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,039 | 4.70 | 227 |
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,988 | 4.65 | 349 |
@@ -185,8 +185,8 @@
 | 182 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 957 | 4.59 | 476 |
 | 184 | [Frostpunk](games/f/frostpunk.md) | 955 | 4.74 | 169 |
 | 185 | [The Long Dark](games/t/the_long_dark.md) | 952 | 4.74 | 169 |
+| 186 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 944 | 4.60 | 452 |
 | 186 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 944 | 4.74 | 169 |
-| 187 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 943 | 4.60 | 452 |
 | 188 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 937 | 4.22 | 1,016 |
 | 188 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 937 | 4.45 | 728 |
 | 190 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 930 | 4.69 | 255 |
@@ -254,7 +254,7 @@
 | 252 | [Nuclear Throne](games/n/nuclear_throne.md) | 443 | 4.79 | 108 |
 | 253 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 434 | 4.31 | 928 |
 | 254 | [Dungeons 3](games/d/dungeons_3.md) | 432 | 4.66 | 323 |
-| 255 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 423 | 4.60 | 452 |
+| 255 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 424 | 4.60 | 452 |
 | 256 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 421 | 4.61 | 428 |
 | 257 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 417 | 4.53 | 597 |
 | 258 | [Dead Cells](games/d/dead_cells.md) | 403 | 4.85 | 38 |

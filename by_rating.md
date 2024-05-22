@@ -451,11 +451,11 @@
 | 428 | [Warframe](games/w/warframe.md) | 4.61 | 24,001 | 23 |
 | 428 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 868 | 195 |
 | 428 | [Witchfire](games/w/witchfire.md) | 4.61 | 143 | 373 |
-| 452 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 943 | 187 |
+| 452 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 944 | 186 |
 | 452 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 146 | 370 |
 | 452 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,942 | 25 |
 | 452 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 246 | 307 |
-| 452 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 423 | 255 |
+| 452 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 424 | 255 |
 | 452 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 94 | 430 |
 | 452 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 647 |
 | 452 | [Deceive Inc.](games/d/deceive_inc..md) | 4.60 | 0 | 647 |
@@ -758,14 +758,14 @@
 | 747 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.44 | 0 | 647 |
 | 747 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 119 | 395 |
 | 747 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.44 | 24 | 617 |
-| 747 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,292 | 31 |
+| 747 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,307 | 31 |
 | 747 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 647 |
 | 747 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 89 | 440 |
 | 747 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 647 |
 | 747 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.44 | 0 | 647 |
 | 747 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 647 |
 | 747 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 647 |
-| 747 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 828,811 | 2 |
+| 747 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 829,652 | 2 |
 | 747 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.44 | 0 | 647 |
 | 747 | [STG Football](games/s/stg_football.md) | 4.44 | 55 | 498 |
 | 747 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 421 |
@@ -869,7 +869,7 @@
 | 863 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.37 | 0 | 647 |
 | 863 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.37 | 76 | 461 |
 | 863 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.37 | 0 | 647 |
-| 863 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 5,433 | 86 |
+| 863 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 5,453 | 86 |
 | 863 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.37 | 0 | 647 |
 | 872 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 131 | 383 |
 | 872 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 647 |
@@ -1052,7 +1052,7 @@
 | 1,050 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.18 | 0 | 647 |
 | 1,050 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 99 | 421 |
 | 1,050 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 647 |
-| 1,050 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 228,957 | 6 |
+| 1,050 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 228,993 | 6 |
 | 1,050 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 427 |
 | 1,055 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 647 |
 | 1,055 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 630 | 221 |
