@@ -75,7 +75,7 @@
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | - |
 | [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | - |
 | [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | - |  | - | 0 |
-| [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 2024-03-11 | - |  | 4.93 | 24 |
+| [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 2024-03-11 | - |  | 4.92 | 24 |
 | [Echo Of The Horizon](games/1/1eb1a02f78034cb39087bc575adff07d.md) | 2024-03-04 | - |  | - | 0 |
 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 2024-02-20 | - |  | 4.45 | 0 |
 | [Red Chaos](games/1/13a9cc26a8b744e49f5ce45c5553b3c0.md) | 2024-02-16 | - |  | - | 0 |

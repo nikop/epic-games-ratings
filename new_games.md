@@ -3,7 +3,7 @@
 | [The Dark Isle](games/c/cc66d1c61f4d41c9b5377b5e13e92d80.md) | 2024-05-22 | - |  | - | - |
 | [Phoots and the Pineapple Throne](games/0/06fd63da93b64b10af24c7c77bb6cb2f.md) | 2024-05-22 | - |  | - | - |
 | [Harvest Hunt](games/8/82b0be96b0014eba84d9dbc93fd21dbf.md) | 2024-05-22 | - |  | - | - |
-| [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | - |
+| [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | 0 |
 | [Ground to Dust](games/3/3d221e64f74743f0a0e78ab1518ce657.md) | 2024-05-22 | - |  | - | - |
 | [Survival: Fountain of Youth](games/c/cb0f45bc17c84708bbbe08741f6ff2b8.md) | 2024-05-21 | - |  | - | 0 |
 | [MetaStrike](games/9/9bc9fd0e71724d60901f07738a5462a6.md) | 2024-05-21 | - |  | - | 0 |
@@ -115,7 +115,7 @@
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Space Rocks!](games/2/2fdfd820f11346f8a6ebb3bd5e6339c7.md) | 2024-04-25 | - |  | - | - |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | - |  | - | 0 |
-| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | - |  | 4.54 | 197 |
+| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | - |  | 4.55 | 197 |
 | [Puzzle Agent](games/3/3726bbb2f39547989134d8ebaba10b3b.md) | 2024-04-25 | - |  | - | 0 |
 | [Cube Step](games/9/94d21a9f81064b058c4d7d0d0bcba0d6.md) | 2024-04-25 | - |  | - | 0 |
 | [Weed Shop 3](games/8/84367f1107b84e12ae5d2ef1d36d071e.md) | 2024-04-24 | - |  | - | 0 |
