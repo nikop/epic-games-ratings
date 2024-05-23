@@ -5,8 +5,8 @@ Rating: 4.62 (Ranked 404)
 Number of Ratings: 167  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 81  (Ranked 448)  
-Sum: 426 (Ranked 388)  
-Diff (max vs sum): 60  
+Sum: 426 (Ranked 389)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 81 |

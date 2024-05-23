@@ -1,7 +1,7 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 322)  
+Rating: 4.65 (Ranked 348)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -708,3 +708,4 @@ Diff (max vs sum): 52
 | 2024-05-19 | 4.66 | - | 431 | 2,961 |
 | 2024-05-21 | 4.66 | - | 432 | 2,962 |
 | 2024-05-22 | 4.66 | - | 432 | 2,963 |
+| 2024-05-23 | 4.65 | - | 432 | 2,963 |
