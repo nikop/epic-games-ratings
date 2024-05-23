@@ -3,8 +3,8 @@
   "Name": "Orcs Must Die! 3",
   "ProductSlug": "combo-a7e03a",
   "Ranking_Rating": 542,
-  "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 326,
+  "Ranking_Popularity": 216,
+  "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -318,18 +318,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 784,
       "NumberOfAwardsMax": 657
+    },
+    {
+      "Time": "2024-05-23T21:58:09.3020341+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 807,
+      "NumberOfAwardsMax": 680
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 784,
-  "NumberOfAwardsMax": 657,
+  "NumberOfAwards": 807,
+  "NumberOfAwardsMax": 680,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 657
+      "Count": 680
     },
     {
       "Text": "This game is Extremely Fun",
@@ -380,7 +386,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-02T17:59:08.0734959+00:00",
   "FirstSeenRating": "2024-05-03T11:58:38.5901753+00:00",
-  "LastChanged": "2024-05-23T06:57:24.3771551+00:00",
+  "LastChanged": "2024-05-23T21:58:09.3020339+00:00",
   "LastUpdate_AppInfo": "2024-05-23T17:57:18.8983672+00:00",
-  "LastUpdate_Ratings": "2024-05-23T20:01:10.7411771+00:00"
+  "LastUpdate_Ratings": "2024-05-23T21:58:09.3020344+00:00"
 }
