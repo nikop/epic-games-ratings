@@ -68,7 +68,7 @@
 | 59 | [Firework](games/f/firework.md) | 4.83 | 0 | 647 |
 | 59 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 705 | 209 |
 | 59 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 478 | 246 |
-| 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 319 | 280 |
+| 59 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.83 | 319 | 281 |
 | 59 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.83 | 292 | 290 |
 | 59 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.83 | 0 | 647 |
 | 59 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 532 |
@@ -203,7 +203,7 @@
 | 189 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 0 | 647 |
 | 202 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 4.72 | 77 | 460 |
 | 202 | [Dead Space](games/d/dead_space.md) | 4.72 | 459 | 250 |
-| 202 | [Diabotical](games/d/diabotical.md) | 4.72 | 318 | 281 |
+| 202 | [Diabotical](games/d/diabotical.md) | 4.72 | 318 | 282 |
 | 202 | [FUSER™](games/f/fuser™.md) | 4.72 | 36 | 551 |
 | 202 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 48,994 | 15 |
 | 202 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 158 | 363 |
@@ -229,7 +229,7 @@
 | 216 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 0 | 647 |
 | 216 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,667 | 112 |
 | 216 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 0 | 647 |
-| 230 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,715 | 92 |
+| 230 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,716 | 92 |
 | 230 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 137 | 377 |
 | 230 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 4.70 | 0 | 647 |
 | 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 699 | 211 |
@@ -390,7 +390,7 @@
 | 385 | [Colt Canyon](games/c/colt_canyon.md) | 4.63 | 0 | 647 |
 | 385 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 304 | 287 |
 | 385 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 556 |
-| 385 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,104 | 126 |
+| 385 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,107 | 126 |
 | 385 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 0 | 647 |
 | 385 | [HITMAN](games/h/hitman.md) | 4.63 | 231 | 319 |
 | 385 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.63 | 0 | 647 |
@@ -479,7 +479,7 @@
 | 475 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.59 | 0 | 647 |
 | 475 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.59 | 27 | 599 |
 | 475 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.59 | 129 | 386 |
-| 475 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,117 | 165 |
+| 475 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,120 | 165 |
 | 475 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.59 | 0 | 647 |
 | 475 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,793 | 81 |
 | 475 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 0 | 647 |
@@ -711,7 +711,7 @@
 | 701 | [Riverbond](games/r/riverbond.md) | 4.47 | 22 | 630 |
 | 701 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 647 |
 | 701 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 647 |
-| 701 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,250 | 156 |
+| 701 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,254 | 155 |
 | 713 | [Absolute Drift](games/a/absolute_drift.md) | 4.46 | 0 | 647 |
 | 713 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,626 | 93 |
 | 713 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.46 | 0 | 647 |
@@ -915,7 +915,7 @@
 | 910 | [Filament](games/f/filament.md) | 4.33 | 603 | 229 |
 | 910 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 647 |
 | 910 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.33 | 109 | 403 |
-| 910 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.33 | 318 | 281 |
+| 910 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.33 | 321 | 280 |
 | 910 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.33 | 0 | 647 |
 | 910 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 647 |
 | 910 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 647 |
@@ -1002,7 +1002,7 @@
 | 998 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.24 | 0 | 647 |
 | 998 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.24 | 96 | 427 |
 | 998 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 647 |
-| 998 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,252 | 155 |
+| 998 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,252 | 156 |
 | 998 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,051 | 175 |
 | 998 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.24 | 42 | 532 |
 | 998 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 647 |

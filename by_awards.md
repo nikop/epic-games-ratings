@@ -91,7 +91,7 @@
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 4,993 | 4.65 | 349 |
 | 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,830 | 4.68 | 279 |
 | 91 | [MultiVersus](games/m/multiversus.md) | 4,756 | 4.56 | 542 |
-| 92 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,715 | 4.70 | 230 |
+| 92 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,716 | 4.70 | 230 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,626 | 4.46 | 713 |
 | 94 | [Days Gone](games/d/days_gone.md) | 4,595 | 4.68 | 279 |
 | 95 | [Paladins](games/p/paladins.md) | 4,460 | 4.31 | 929 |
@@ -125,7 +125,7 @@
 | 123 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,180 | 4.37 | 862 |
 | 124 | [World of Warships](games/w/world_of_warships.md) | 2,175 | 4.41 | 806 |
 | 125 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,117 | 4.89 | 14 |
-| 126 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,104 | 4.63 | 385 |
+| 126 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,107 | 4.63 | 385 |
 | 127 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,084 | 4.49 | 669 |
 | 128 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,083 | 4.69 | 255 |
 | 129 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,065 | 4.50 | 647 |
@@ -154,8 +154,8 @@
 | 152 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,292 | 4.69 | 255 |
 | 153 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,264 | 4.46 | 713 |
 | 154 | [Saints Row](games/s/saints_row.md) | 1,259 | 3.90 | 1,153 |
-| 155 | [EVE Online](games/e/eve_online.md) | 1,252 | 4.24 | 998 |
-| 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,250 | 4.47 | 701 |
+| 155 | [Train Valley 2](games/t/train_valley_2.md) | 1,254 | 4.47 | 701 |
+| 156 | [EVE Online](games/e/eve_online.md) | 1,252 | 4.24 | 998 |
 | 157 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,246 | 4.64 | 372 |
 | 158 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,243 | 4.74 | 169 |
 | 159 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,207 | 4.65 | 349 |
@@ -164,7 +164,7 @@
 | 162 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,168 | 4.69 | 255 |
 | 163 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,136 | 4.61 | 426 |
 | 163 | [Torchlight II](games/t/torchlight_ii.md) | 1,136 | 4.60 | 453 |
-| 165 | [Brawlhalla](games/b/brawlhalla.md) | 1,117 | 4.59 | 475 |
+| 165 | [Brawlhalla](games/b/brawlhalla.md) | 1,120 | 4.59 | 475 |
 | 166 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,116 | 4.49 | 669 |
 | 167 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 1,115 | 4.75 | 154 |
 | 168 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,102 | 4.40 | 823 |
@@ -279,9 +279,9 @@
 | 277 | [Darkwood](games/d/darkwood.md) | 336 | 4.62 | 404 |
 | 278 | [Overcooked! 2](games/o/overcooked!_2.md) | 334 | 4.69 | 255 |
 | 279 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 322 | 4.66 | 322 |
-| 280 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 319 | 4.83 | 59 |
-| 281 | [Diabotical](games/d/diabotical.md) | 318 | 4.72 | 202 |
-| 281 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 318 | 4.33 | 910 |
+| 280 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 321 | 4.33 | 910 |
+| 281 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 319 | 4.83 | 59 |
+| 282 | [Diabotical](games/d/diabotical.md) | 318 | 4.72 | 202 |
 | 283 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 313 | 4.81 | 83 |
 | 284 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 312 | 4.62 | 404 |
 | 285 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 309 | 4.45 | 728 |

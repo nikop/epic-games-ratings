@@ -410,7 +410,7 @@
 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 2023-09-05 | 17 (1,000 XP) | 5 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 14 | - | - |
 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 2023-09-04 | 17 (1,000 XP) | 237 | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 53,619 | 4.33 | 318 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 53,619 | 4.33 | 321 |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2023-09-01 | 36 (1,000 XP) | 6 | - | - |
 | [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 2023-09-01 | 34 (1,000 XP) | 96 | - | 0 |
 | [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 85 | - | 0 |
@@ -872,7 +872,7 @@
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,631 | 4.74 | 114 |
 | [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 215 | 4.17 | 0 |
 | [It Takes Two](games/i/it_takes_two.md) | 2022-06-10 | 20 (1,000 XP) | 171,377 | - | - |
-| [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 89 (1,300 XP) | 447,797 | 4.47 | 1,250 |
+| [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 89 (1,300 XP) | 447,797 | 4.47 | 1,254 |
 | [My Lovely Wife](games/m/my_lovely_wife.md) | 2022-06-07 | 33 (1,000 XP) | 651 | 4.38 | 0 |
 | [Battlefield V Definitive Edition](games/b/battlefield_v_definitive_edition.md) | 2022-06-03 | 21 (1,000 XP) | 122,128 | - | - |
 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 2022-06-02 | 19 (1,000 XP) | 3,030 | - | 0 |

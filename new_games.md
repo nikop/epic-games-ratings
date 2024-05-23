@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Vacation Adventures Park Ranger 16 Collectors Edition](games/5/53a06f8aaff64a5ab3939f048ccdb178.md) | 2024-05-23 | - |  | - | - |
 | [Magic Patrol Envoy](games/b/b373c02d39b8470187edd411bd1d36a3.md) | 2024-05-23 | - |  | - | - |
 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-23 | - |  | - | 0 |
 | [KLONOA Phantasy Reverie Series](games/7/7120b2046fd845578509f66420ffc251.md) | 2024-05-23 | - |  | - | - |
