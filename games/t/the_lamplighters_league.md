@@ -1,7 +1,7 @@
 # The Lamplighters League
 [Store](https://store.epicgames.com/en-US/p/the-lamplighters-league)  
 [View Rawdata](../../db/t/the_lamplighters_league.json)  
-Rating: 4.48 (Ranked 688)  
+Rating: 4.47 (Ranked 700)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -24,3 +24,4 @@ Rating: 4.48 (Ranked 688)
 | 2024-04-04 | 4.50 | 0 | 0 |
 | 2024-04-25 | 4.49 | 0 | 0 |
 | 2024-05-17 | 4.48 | 0 | 0 |
+| 2024-05-23 | 4.47 | 0 | 0 |
