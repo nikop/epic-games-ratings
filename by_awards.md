@@ -210,7 +210,7 @@
 | 208 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 707 | 4.87 | 22 |
 | 209 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 705 | 4.83 | 59 |
 | 209 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 705 | 4.50 | 647 |
-| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 698 | 4.70 | 230 |
+| 211 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 699 | 4.70 | 230 |
 | 212 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 696 | 4.71 | 216 |
 | 213 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 694 | 4.62 | 404 |
 | 214 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 690 | 4.69 | 256 |
@@ -429,11 +429,11 @@
 | 427 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 96 | 4.24 | 998 |
 | 427 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 1,049 |
 | 429 | [RAILGRADE](games/r/railgrade.md) | 95 | 4.55 | 561 |
-| 430 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 94 | 4.60 | 453 |
-| 430 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 94 | 3.57 | 1,181 |
-| 430 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 94 | 4.34 | 894 |
-| 430 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 94 | 4.53 | 596 |
-| 430 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 94 | 4.61 | 426 |
+| 429 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 95 | 4.53 | 596 |
+| 431 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 94 | 4.60 | 453 |
+| 431 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 94 | 3.57 | 1,181 |
+| 431 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 94 | 4.34 | 894 |
+| 431 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 94 | 4.61 | 426 |
 | 435 | [Art of Rally](games/a/art_of_rally_1.md) | 93 | 4.61 | 426 |
 | 436 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 91 | 4.59 | 475 |
 | 436 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 91 | 4.62 | 404 |

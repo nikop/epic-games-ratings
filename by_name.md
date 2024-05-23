@@ -863,7 +863,7 @@
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.44 | 747 | 47 | 521 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 453 | 424 | 255 |
 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 688 | 109 | 403 |
-| [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 453 | 94 | 430 |
+| [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 453 | 94 | 431 |
 | [Darkwood](games/d/darkwood.md) | 4.62 | 404 | 336 | 276 |
 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 747 | 0 | 648 |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | - | - | - | - |
@@ -1284,7 +1284,7 @@
 | [Far Cry New Dawn - Ultimate](games/f/far_cry_new_dawn_-_ultimate.md) | - | - | - | - |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.45 | 728 | 345 | 273 |
 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 216 | 696 | 212 |
-| [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 230 | 698 | 211 |
+| [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 230 | 699 | 211 |
 | [Far Horizon](games/d/d41f47180bb94a70b3d05a31ebe89b7d.md) | - | - | 0 | - |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.66 | 322 | 0 | 648 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 385 | 0 | 648 |
@@ -1329,7 +1329,7 @@
 | [Firegirl: Hack 'n Splash Rescue DX](games/f/firegirl__hack_'n_splash_rescue_dx.md) | - | - | 0 | - |
 | [Fires At Midnight](games/f/fires_at_midnight_1.md) | - | - | 0 | - |
 | [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | - | - | - | - |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.57 | 1,181 | 94 | 430 |
+| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.57 | 1,181 | 94 | 431 |
 | [Firework](games/f/firework.md) | 4.83 | 59 | 0 | 648 |
 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 701 | 165 | 359 |
 | [First Dwarf](games/f/first_dwarf.md) | - | - | - | - |
@@ -2051,8 +2051,8 @@
 | [Little Orpheus](games/l/little_orpheus.md) | - | - | 0 | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | - | - | - | - |
 | [Littlelands](games/d/de4a72bbf5e6433c9cf8f24871fd9b47.md) | - | - | - | - |
-| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live](games/l/live_130.md) | - | - | - | - |
+| [Live](games/l/live_79.md) | - | - | - | - |
 | [Live In The Country](games/7/7247d3e923ac4d04a7d8f4435e240302.md) | - | - | - | - |
 | [Lizard Slayer](games/c/c41d2880cc784e3ab5744177cf90a603.md) | - | - | - | - |
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | - | - | 0 | - |
@@ -2288,7 +2288,7 @@
 | [MORDHAU](games/m/mordhau.md) | 4.36 | 870 | 1,755 | 140 |
 | [Morels: The Hunt](games/m/morels__the_hunt.md) | - | - | 0 | - |
 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 521 | 3,825 | 100 |
-| [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.34 | 894 | 94 | 430 |
+| [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.34 | 894 | 94 | 431 |
 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 976 | 24 | 618 |
 | [Mortal Street Fighter](games/5/58ac7dee6bc7429db98fdae628f179ce.md) | - | - | 0 | - |
 | [Mosaics Galore](games/0/00b0ca412bb94ca9a6945f71b2a16cc5.md) | - | - | 0 | - |
@@ -2609,8 +2609,8 @@
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 349 | 1,207 | 159 |
 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 453 | 871 | 195 |
 | [PeakPals](games/1/14c946b79c9e4112a1dfe276fc0623df.md) | - | - | - | - |
-| [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | - | - | - | - |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | - | - | - | - |
+| [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | - | - | - | - |
 | [Penko Park](games/p/penko_park.md) | - | - | 0 | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | - | - | 0 | - |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | - | - | - | - |
@@ -3077,8 +3077,8 @@
 | [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | - | - | - | - |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.41 | 806 | 288 | 291 |
@@ -3401,7 +3401,7 @@
 | [Super Kids Racing](games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | - | - | 0 | - |
 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | - | - | 0 | - |
 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 169 | 103 | 411 |
-| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 596 | 94 | 430 |
+| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 596 | 95 | 429 |
 | [Super Mega Zero](games/s/super_mega_zero.md) | - | - | 0 | - |
 | [Super Smash Asteroids](games/s/super_smash_asteroids.md) | - | - | - | - |
 | [Super Squad](games/s/super_squad.md) | - | - | 0 | - |
@@ -3950,7 +3950,7 @@
 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.71 | 216 | 0 | 648 |
 | [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | - | - | 0 | - |
 | [TRIBES 3: Rivals](games/4/41f54b0e3988413c921e4a21cdb15172.md) | - | - | - | - |
-| [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 426 | 94 | 430 |
+| [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 426 | 94 | 431 |
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | - | - | 0 | - |
 | [Trifox](games/t/trifox.md) | - | - | 0 | - |
 | [Trigger Tennis](games/0/0ec12dcb698d4b0ba999f94a710eaba3.md) | - | - | - | - |
@@ -4013,8 +4013,8 @@
 | [Undead Horde](games/u/undead_horde.md) | - | - | 0 | - |
 | [Undead Inc.](games/f/fe3316099db5422ebeb202e518942fa1.md) | - | - | 0 | - |
 | [Under a Rock](games/f/f1838ea95ba442d98b3da503ae5a5a33.md) | - | - | - | - |
-| [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | - | - | 0 | - |
 | [Under The Waves](games/u/under_the_waves.md) | - | - | - | - |
+| [Under The Waves](games/d/d5309b9c54564b1f9a0b4c6b797cc5f0.md) | - | - | 0 | - |
 | [Undergrave](games/u/undergrave.md) | - | - | 0 | - |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | - | - | 0 | - |
 | [Underworld Defense](games/2/229da97a621d443dafe527f874375f3b.md) | - | - | 0 | - |
@@ -4146,8 +4146,8 @@
 | [Wanderlust: Travel Stories](games/w/wanderlust__travel_stories.md) | - | - | 0 | - |
 | [Wanna Survive](games/w/wanna_survive.md) | - | - | 0 | - |
 | [Wanted: Dead](games/w/wanted_dead.md) | - | - | 0 | - |
-| [War Hospital](games/w/war_hospital.md) | - | - | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | - | - | 0 | - |
+| [War Hospital](games/w/war_hospital.md) | - | - | - | - |
 | [War Mongrels](games/w/war_mongrels.md) | 4.41 | 806 | 0 | 648 |
 | [War Thugz - Satoshi City](games/3/3015d993989f40269abf39559053efcd.md) | - | - | - | - |
 | [Warehouse Bots](games/1/1425a316528c444ab263d66abd3e3176.md) | - | - | - | - |

@@ -232,7 +232,7 @@
 | 230 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,715 | 92 |
 | 230 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 137 | 377 |
 | 230 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 4.70 | 0 | 648 |
-| 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 698 | 211 |
+| 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 699 | 211 |
 | 230 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.70 | 0 | 648 |
 | 230 | [For The King](games/f/for_the_king.md) | 4.70 | 454 | 251 |
 | 230 | [Foretales](games/f/foretales.md) | 4.70 | 0 | 648 |
@@ -448,7 +448,7 @@
 | 426 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 669 | 216 |
 | 426 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 5,584 | 85 |
 | 426 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 421 | 256 |
-| 426 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 430 |
+| 426 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 431 |
 | 426 | [Warframe](games/w/warframe.md) | 4.61 | 24,026 | 23 |
 | 426 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 873 | 194 |
 | 426 | [Witchfire](games/w/witchfire.md) | 4.61 | 143 | 374 |
@@ -457,7 +457,7 @@
 | 453 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,960 | 25 |
 | 453 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 246 | 307 |
 | 453 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 424 | 255 |
-| 453 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 94 | 430 |
+| 453 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 94 | 431 |
 | 453 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 648 |
 | 453 | [Deceive Inc.](games/d/deceive_inc..md) | 4.60 | 0 | 648 |
 | 453 | [DOOM 3](games/d/doom_3.md) | 4.60 | 73 | 465 |
@@ -607,7 +607,7 @@
 | 596 | [RiME](games/r/rime.md) | 4.53 | 0 | 648 |
 | 596 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 648 |
 | 596 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.53 | 0 | 648 |
-| 596 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 94 | 430 |
+| 596 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 95 | 429 |
 | 596 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.53 | 562 | 232 |
 | 596 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,186 | 160 |
 | 596 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 417 | 257 |
@@ -905,7 +905,7 @@
 | 894 | [Hammerting](games/h/hammerting.md) | 4.34 | 0 | 648 |
 | 894 | [House Party](games/h/house_party.md) | 4.34 | 0 | 648 |
 | 894 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 44 | 526 |
-| 894 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.34 | 94 | 430 |
+| 894 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.34 | 94 | 431 |
 | 894 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 648 |
 | 894 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 33 | 567 |
 | 894 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 665 | 217 |
@@ -1180,7 +1180,7 @@
 | 1,178 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 648 |
 | 1,179 | [Redfall](games/r/redfall.md) | 3.66 | 41 | 534 |
 | 1,180 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.59 | 0 | 648 |
-| 1,181 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.57 | 94 | 430 |
+| 1,181 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.57 | 94 | 431 |
 | 1,182 | [Adios](games/a/adios.md) | 3.53 | 0 | 648 |
 | 1,183 | [Survive on Raft](games/s/survive_on_raft.md) | 3.50 | 0 | 648 |
 | 1,184 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.44 | 101 | 416 |
