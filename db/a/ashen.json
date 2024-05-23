@@ -3,8 +3,8 @@
   "Name": "Ashen",
   "ProductSlug": "ashen",
   "Ranking_Rating": 920,
-  "Ranking_Popularity": 629,
-  "Ranking_PopularitySum": 633,
+  "Ranking_Popularity": 626,
+  "Ranking_PopularitySum": 631,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -438,11 +438,17 @@
       "Rating": 4.32,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-05-23T07:00:11.093651+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 23,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -455,7 +461,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -469,8 +475,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
-  "LastChanged": "2024-04-23T21:57:41.148176+00:00",
+  "LastChanged": "2024-05-23T07:00:11.0936508+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:33.7999665+00:00",
-  "LastUpdate_Ratings": "2024-05-23T05:58:20.6920257+00:00",
+  "LastUpdate_Ratings": "2024-05-23T07:00:11.0936515+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:54.2103566+00:00"
 }
