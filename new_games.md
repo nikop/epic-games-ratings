@@ -132,4 +132,3 @@
 | [Tales of Kenzera™: ZAU](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | - |  | - | 0 |
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | - |  | - | 0 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.72 | 29 |
-| [Necrosmith 2](games/e/e153609a322d42e18ee587bb862022fc.md) | 2024-04-23 | - |  | - | 0 |
