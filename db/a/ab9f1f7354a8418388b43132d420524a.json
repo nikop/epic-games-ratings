@@ -360,10 +360,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 107,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-05-23T08:57:56.1500715+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 107,
+  "NumberOfAwards": 108,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Playful Visuals",
   "Tags": [
@@ -383,7 +389,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Diverse Characters",
@@ -410,7 +416,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
-  "LastChanged": "2024-05-23T05:57:41.3177109+00:00",
+  "LastChanged": "2024-05-23T08:57:56.1500714+00:00",
   "LastUpdate_AppInfo": "2024-05-16T18:57:12.5896981+00:00",
-  "LastUpdate_Ratings": "2024-05-23T06:59:26.4908264+00:00"
+  "LastUpdate_Ratings": "2024-05-23T08:57:56.1500718+00:00"
 }
