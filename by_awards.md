@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,541,081 | 4.29 | 944 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 829,652 | 4.44 | 747 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 830,427 | 4.44 | 747 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 375,703 | 4.68 | 279 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 341,363 | 4.67 | 299 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 320,462 | 4.87 | 22 |
@@ -16,7 +16,7 @@
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 54,095 | 4.74 | 169 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 48,994 | 4.72 | 202 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 46,271 | 4.51 | 629 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 38,322 | 4.74 | 169 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 38,361 | 4.74 | 169 |
 | 18 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 31,222 | 4.12 | 1,089 |
 | 19 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,189 | 4.64 | 372 |
 | 20 | [Dauntless](games/d/dauntless.md) | 29,288 | 4.53 | 596 |
@@ -131,7 +131,7 @@
 | 129 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,065 | 4.50 | 647 |
 | 130 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2,005 | 4.66 | 322 |
 | 131 | [Celeste](games/c/celeste.md) | 1,998 | 4.91 | 7 |
-| 132 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,951 | 4.86 | 30 |
+| 132 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,954 | 4.86 | 30 |
 | 133 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 1,938 | 4.82 | 73 |
 | 134 | [Conan Exiles](games/c/conan_exiles.md) | 1,880 | 4.54 | 581 |
 | 135 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,871 | 4.56 | 542 |
@@ -184,7 +184,7 @@
 | 182 | [Auto Chess](games/a/auto_chess.md) | 958 | 4.50 | 647 |
 | 183 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 957 | 4.59 | 475 |
 | 184 | [Frostpunk](games/f/frostpunk.md) | 955 | 4.74 | 169 |
-| 185 | [The Long Dark](games/t/the_long_dark.md) | 952 | 4.74 | 169 |
+| 185 | [The Long Dark](games/t/the_long_dark.md) | 953 | 4.74 | 169 |
 | 186 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 947 | 4.74 | 169 |
 | 187 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 944 | 4.60 | 453 |
 | 188 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 939 | 4.22 | 1,015 |
@@ -226,7 +226,7 @@
 | 224 | [Severed Steel](games/s/severed_steel.md) | 618 | 4.69 | 255 |
 | 225 | [Vampyr](games/v/vampyr.md) | 612 | 4.32 | 920 |
 | 226 | [Surviving Mars](games/s/surviving_mars.md) | 609 | 4.61 | 426 |
-| 227 | [Predecessor](games/p/predecessor.md) | 606 | 4.25 | 992 |
+| 227 | [Predecessor](games/p/predecessor.md) | 606 | 4.25 | 991 |
 | 228 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 604 | 4.40 | 823 |
 | 229 | [Filament](games/f/filament.md) | 603 | 4.33 | 910 |
 | 230 | [The Outlast Trials](games/t/the_outlast_trials.md) | 594 | 4.65 | 349 |
@@ -613,7 +613,7 @@
 | 607 | [Murder by Numbers](games/m/murder_by_numbers.md) | 26 | 4.27 | 970 |
 | 607 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 26 | 4.50 | 647 |
 | 607 | [Solar Ash](games/s/solar_ash.md) | 26 | 4.66 | 322 |
-| 607 | [Yooka-Laylee](games/y/yooka-laylee.md) | 26 | 4.25 | 992 |
+| 607 | [Yooka-Laylee](games/y/yooka-laylee.md) | 26 | 4.25 | 991 |
 | 615 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 25 | 4.88 | 19 |
 | 615 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 25 | 4.02 | 1,121 |
 | 615 | [Torchlight](games/t/torchlight.md) | 25 | 4.36 | 870 |
@@ -626,17 +626,17 @@
 | 618 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 24 | 4.52 | 613 |
 | 618 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 24 | 4.58 | 494 |
 | 626 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 23 | 4.48 | 688 |
+| 626 | [Ashen](games/a/ashen.md) | 23 | 4.32 | 920 |
 | 626 | [Cursed to Golf](games/c/cursed_to_golf.md) | 23 | 4.13 | 1,085 |
 | 626 | [Griftlands](games/g/griftlands.md) | 23 | 4.79 | 107 |
-| 629 | [Ashen](games/a/ashen.md) | 22 | 4.32 | 920 |
-| 629 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 561 |
-| 629 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 992 |
-| 629 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.27 | 970 |
-| 629 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,038 |
-| 629 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 22 | 4.64 | 372 |
-| 629 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 494 |
-| 629 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 701 |
-| 629 | [Tails of Iron](games/t/tails_of_iron.md) | 22 | 4.58 | 494 |
+| 630 | [Aztez](games/a/aztez.md) | 22 | 4.55 | 561 |
+| 630 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.25 | 991 |
+| 630 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 22 | 4.27 | 970 |
+| 630 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,038 |
+| 630 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 22 | 4.64 | 372 |
+| 630 | [Moving Out](games/m/moving_out.md) | 22 | 4.58 | 494 |
+| 630 | [Riverbond](games/r/riverbond.md) | 22 | 4.47 | 701 |
+| 630 | [Tails of Iron](games/t/tails_of_iron.md) | 22 | 4.58 | 494 |
 | 638 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 385 |
 | 638 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 21 | 4.42 | 788 |
 | 638 | [Figment](games/f/figment.md) | 21 | 4.48 | 688 |
