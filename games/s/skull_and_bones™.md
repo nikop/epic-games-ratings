@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/skull_and_bones™.json)  
 Rating: 4.13 (Ranked 1,086)  
 ## Awards
-Max (Great Boss Battles): 2,669  (Ranked 112)  
+Max (Great Boss Battles): 2,669  (Ranked 113)  
 Sum: 5,800 (Ranked 152)  
-Diff (max vs sum): -40  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,669 |
