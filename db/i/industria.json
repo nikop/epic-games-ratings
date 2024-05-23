@@ -2,7 +2,7 @@
   "ID": "51b1503392e04abab64364092cbfca2b",
   "Name": "INDUSTRIA",
   "ProductSlug": "industria",
-  "Ranking_Rating": 1171,
+  "Ranking_Rating": 1172,
   "Ranking_Popularity": 647,
   "Ranking_PopularitySum": 647,
   "Ranking_EOS_Progress": 987,
@@ -193,6 +193,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.1554458+00:00",
   "LastChanged": "2024-05-22T17:57:53.6210383+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:36.0657258+00:00",
-  "LastUpdate_Ratings": "2024-05-23T08:58:39.212141+00:00",
+  "LastUpdate_Ratings": "2024-05-23T10:57:12.3889739+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.0679875+00:00"
 }
