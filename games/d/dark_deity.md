@@ -1,7 +1,7 @@
 # Dark Deity
 [Store](https://store.epicgames.com/en-US/p/dark-deity-0b08d1)  
 [View Rawdata](../../db/d/dark_deity.json)  
-Rating: 4.17 (Ranked 1,054)  
+Rating: 4.16 (Ranked 1,059)  
 Number of Ratings: 24  (23.09.2022)  
 ## Awards
 Max (Character Customization): 630  (Ranked 221)  
@@ -92,3 +92,4 @@ Diff (max vs sum): -83
 | 2024-05-04 | 4.17 | - | 629 | 900 |
 | 2024-05-06 | 4.17 | - | 630 | 903 |
 | 2024-05-21 | 4.17 | - | 630 | 904 |
+| 2024-05-23 | 4.16 | - | 630 | 904 |

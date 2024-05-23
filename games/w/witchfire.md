@@ -1,7 +1,7 @@
 # Witchfire
 [Store](https://store.epicgames.com/en-US/p/witchfire-db273e)  
 [View Rawdata](../../db/w/witchfire.json)  
-Rating: 4.61 (Ranked 426)  
+Rating: 4.61 (Ranked 427)  
 ## Awards
 Max (Challenging Combat): 143  (Ranked 374)  
 Sum: 804 (Ranked 323)  
