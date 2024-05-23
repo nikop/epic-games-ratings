@@ -2,8 +2,8 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 119,
-  "Ranking_Popularity": 299,
+  "Ranking_Rating": 126,
+  "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -2039,18 +2039,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 1068,
       "NumberOfAwardsMax": 270
+    },
+    {
+      "Time": "2024-05-23T18:58:54.7395812+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1074,
+      "NumberOfAwardsMax": 275
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1068,
-  "NumberOfAwardsMax": 270,
+  "NumberOfAwards": 1074,
+  "NumberOfAwardsMax": 275,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 270
+      "Count": 275
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2074,7 +2080,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2149,8 +2155,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-05-23T04:59:15.245351+00:00",
+  "LastChanged": "2024-05-23T18:58:54.7395811+00:00",
   "LastUpdate_AppInfo": "2024-05-23T01:44:17.4708653+00:00",
-  "LastUpdate_Ratings": "2024-05-23T16:59:55.0583736+00:00",
+  "LastUpdate_Ratings": "2024-05-23T18:58:54.7395814+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }

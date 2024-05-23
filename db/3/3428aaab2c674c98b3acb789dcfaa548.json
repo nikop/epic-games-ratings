@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-new-vegas",
   "Ranking_Rating": 298,
   "Ranking_Popularity": 42,
-  "Ranking_PopularitySum": 43,
+  "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 25,
@@ -16059,10 +16059,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 37543,
       "NumberOfAwardsMax": 12310
+    },
+    {
+      "Time": "2024-05-23T18:59:23.3038368+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 37561,
+      "NumberOfAwardsMax": 12310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37543,
+  "NumberOfAwards": 37561,
   "NumberOfAwardsMax": 12310,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16112,7 +16118,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1143
+      "Count": 1147
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16124,13 +16130,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1078
+      "Count": 1086
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1882
+      "Count": 1888
     },
     {
       "Text": "This game is Great for Beginners",
@@ -45902,9 +45908,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-05-23T17:00:13.2698825+00:00",
+  "LastChanged": "2024-05-23T18:59:23.3038355+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.6001653+00:00",
   "LastUpdate_AppInfo": "2024-05-18T01:42:40.6635148+00:00",
-  "LastUpdate_Ratings": "2024-05-23T17:00:13.2698831+00:00",
+  "LastUpdate_Ratings": "2024-05-23T18:59:23.3038371+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.6003221+00:00"
 }
