@@ -2,7 +2,7 @@
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
   "ProductSlug": "killing-floor-2",
-  "Ranking_Rating": 748,
+  "Ranking_Rating": 749,
   "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 987,
@@ -17521,10 +17521,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 36246,
       "NumberOfAwardsMax": 15319
+    },
+    {
+      "Time": "2024-05-23T16:58:07.3323948+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 36258,
+      "NumberOfAwardsMax": 15319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36246,
+  "NumberOfAwards": 36258,
   "NumberOfAwardsMax": 15319,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -17544,13 +17550,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2337
+      "Count": 2339
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2267
+      "Count": 2270
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -17568,13 +17574,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2277
+      "Count": 2282
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2445
+      "Count": 2447
     },
     {
       "Text": "This game has Challenging Combat",
@@ -17600,8 +17606,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2024-05-23T10:57:49.5046288+00:00",
+  "LastChanged": "2024-05-23T16:58:07.3323946+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:49.1823485+00:00",
-  "LastUpdate_Ratings": "2024-05-23T15:00:57.2244923+00:00",
+  "LastUpdate_Ratings": "2024-05-23T16:58:07.3323953+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:56.1172106+00:00"
 }

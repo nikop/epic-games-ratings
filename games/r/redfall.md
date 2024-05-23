@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.66 (Ranked 1,180)  
+Rating: 3.66 (Ranked 1,181)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -238,8 +238,8 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-05-13 | 2,583 | 0 |
 ## Awards
 Max (Great Boss Battles): 41  (Ranked 534)  
-Sum: 41 (Ranked 584)  
-Diff (max vs sum): -50  
+Sum: 41 (Ranked 583)  
+Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 41 |

@@ -1,5 +1,5 @@
 {
-  "CatalogLastModifiedDate": "2024-05-23T15:53:53.1+00:00",
+  "CatalogLastModifiedDate": "2024-05-23T16:49:36.031+00:00",
   "KnownCustomAttributes": {
     "isManuallySetViewableDate": {
       "KnownValues": {
@@ -104,6 +104,11 @@
     "CloudSaveFolder": {
       "KnownValues": {
         "shadow-complex": "vpr"
+      }
+    },
+    "isPrePurchase": {
+      "KnownValues": {
+        "true": "f640a0c1648147fea7e81565b45a3003"
       }
     }
   }
