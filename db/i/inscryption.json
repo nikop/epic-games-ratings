@@ -932,10 +932,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 504,
       "NumberOfAwardsMax": 371
+    },
+    {
+      "Time": "2024-05-23T22:58:25.7715511+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 505,
+      "NumberOfAwardsMax": 371
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 504,
+  "NumberOfAwards": 505,
   "NumberOfAwardsMax": 371,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -955,7 +961,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",
@@ -999,8 +1005,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2024-05-20T02:57:20.7462519+00:00",
+  "LastChanged": "2024-05-23T22:58:25.7715509+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:46.5469999+00:00",
-  "LastUpdate_Ratings": "2024-05-23T20:59:36.1790566+00:00",
+  "LastUpdate_Ratings": "2024-05-23T22:58:25.7715515+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:41.7746334+00:00"
 }
