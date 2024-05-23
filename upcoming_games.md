@@ -6,6 +6,7 @@
 | [Valiant Hearts: Coming Home](games/5/5bb27a0d5617488aa983f5b3f77c9611.md) | 2024-05-24 | - |  | - | - |
 | [Asilium](games/3/3e940b5a368a403db6c3920d22000705.md) | 2024-05-24 | - |  | - | - |
 | [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,756 |
+| [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | - |  | - | - |
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | - |  | - | - |
 | [SOKOCAT - DUNGEON](games/7/7835e0cee5f244368043d0ba83528856.md) | 2024-05-30 | - |  | - | - |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | - |  | - | - |
@@ -60,7 +61,6 @@
 | [The End of the Sun](games/6/69569d1b9145402f8e557bd1baed7343.md) | 2024-06-30 | - |  | - | - |
 | [The Smurfs - Village Party](games/e/e0d342096dbe47e9a41a2b7735683edd.md) | 2024-06-30 | - |  | - | - |
 | [Tomb nightmares](games/a/a5d808aff2a144048d1f842e0db6ad12.md) | 2024-06-30 | - |  | - | - |
-| [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-06-30 | - |  | - | - |
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-30 | - |  | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |

@@ -133,5 +133,3 @@
 | [Oddsparks: An Automation Adventure](games/7/77c83b36cd1047f7aceeef2e5f84ab85.md) | 2024-04-24 | - |  | - | 0 |
 | [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | 0 |
 | [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 34 | - | - |
-| [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 2024-04-23 | - |  | - | 0 |
-| [Tales of Kenzera™: ZAU](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | - |  | - | 0 |
