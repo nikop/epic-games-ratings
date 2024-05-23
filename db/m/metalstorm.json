@@ -2,7 +2,7 @@
   "ID": "dc09ae8f1aa445b7853b5300c2345d81",
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 748,
   "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 160,
@@ -1686,10 +1686,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 461,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-05-23T15:01:28.4824592+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 462,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 461,
+  "NumberOfAwards": 462,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1751,7 +1757,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Competitive Players",
@@ -1953,9 +1959,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-05-23T12:00:49.8021952+00:00",
+  "LastChanged": "2024-05-23T15:01:28.482459+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:32.1238768+00:00",
   "LastUpdate_AppInfo": "2024-05-19T22:57:25.9847943+00:00",
-  "LastUpdate_Ratings": "2024-05-23T13:58:12.7386737+00:00",
+  "LastUpdate_Ratings": "2024-05-23T15:01:28.4824597+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:32.1238896+00:00"
 }
