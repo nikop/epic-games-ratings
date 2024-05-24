@@ -4,7 +4,7 @@
   "ProductSlug": "the-drone-racing-league-simulator",
   "Ranking_Rating": 631,
   "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 366,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1080,10 +1080,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 566,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2024-05-24T10:57:28.1387002+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 604,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 566,
+  "NumberOfAwards": 604,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1097,7 +1103,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game is Relaxing",
@@ -1109,7 +1115,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1151,7 +1157,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1172,8 +1178,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
-  "LastChanged": "2024-05-22T21:58:10.2685006+00:00",
+  "LastChanged": "2024-05-24T10:57:28.1387+00:00",
   "LastUpdate_AppInfo": "2024-05-19T06:57:12.7851634+00:00",
-  "LastUpdate_Ratings": "2024-05-24T08:58:21.5600035+00:00",
+  "LastUpdate_Ratings": "2024-05-24T10:57:28.1387006+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:11.1147219+00:00"
 }
