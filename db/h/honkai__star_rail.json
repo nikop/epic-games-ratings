@@ -2,7 +2,7 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 202,
+  "Ranking_Rating": 203,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 987,
@@ -16819,18 +16819,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 221373,
       "NumberOfAwardsMax": 49198
+    },
+    {
+      "Time": "2024-05-24T15:57:12.836416+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 221719,
+      "NumberOfAwardsMax": 49414
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 221373,
-  "NumberOfAwardsMax": 49198,
+  "NumberOfAwards": 221719,
+  "NumberOfAwardsMax": 49414,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 49198
+      "Count": 49414
     },
     {
       "Text": "This game is Highly Recommended",
@@ -16866,7 +16872,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 14284
+      "Count": 14346
     },
     {
       "Text": "This game is Great for Beginners",
@@ -16890,7 +16896,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 16033
+      "Count": 16101
     },
     {
       "Text": "This game has a Creative Community",
@@ -16911,8 +16917,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2024-05-24T08:59:51.4242134+00:00",
+  "LastChanged": "2024-05-24T15:57:12.8364159+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:41.1516536+00:00",
-  "LastUpdate_Ratings": "2024-05-24T13:59:05.3778505+00:00",
+  "LastUpdate_Ratings": "2024-05-24T15:57:12.8364166+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:43.6390722+00:00"
 }
