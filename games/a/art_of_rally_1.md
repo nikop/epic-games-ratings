@@ -267,16 +267,16 @@ Completed: 46 (0.01%) (Ranked 433)
 | 2024-03-21 | 482,494 | 42 |
 | 2024-04-10 | 492,501 | 46 |
 ## Awards
-Max (Great for Quick Sessions): 93  (Ranked 435)  
-Sum: 669 (Ranked 342)  
-Diff (max vs sum): 93  
+Max (Great for Quick Sessions): 93  (Ranked 436)  
+Sum: 671 (Ranked 342)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 93 |
 | This game is Highly Recommended | 82 |
 | This game has Quickly Understood Controls | 78 |
 | This game is Extremely Fun | 73 |
-| This game is Relaxing | 66 |
+| This game is Relaxing | 68 |
 | This game has Amazing Storytelling | 66 |
 | This game has a Competitive Community | 55 |
 | This game has Challenging Combat | 55 |
@@ -459,3 +459,4 @@ Diff (max vs sum): 93
 | 2024-05-18 | 4.61 | - | 93 | 664 |
 | 2024-05-20 | 4.61 | - | 93 | 666 |
 | 2024-05-21 | 4.61 | - | 93 | 669 |
+| 2024-05-24 | 4.61 | - | 93 | 671 |
