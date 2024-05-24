@@ -4,7 +4,7 @@
   "ProductSlug": "ratchet-clank-rift-apart",
   "Ranking_Rating": 202,
   "Ranking_Popularity": 638,
-  "Ranking_PopularitySum": 583,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -605,6 +605,6 @@
   "FirstSeenRating": "2023-07-30T10:57:29.073595+00:00",
   "LastChanged": "2024-05-20T22:59:32.6487706+00:00",
   "LastUpdate_AppInfo": "2024-05-23T01:44:18.4688056+00:00",
-  "LastUpdate_Ratings": "2024-05-23T23:58:06.8042893+00:00",
+  "LastUpdate_Ratings": "2024-05-24T01:47:23.3715432+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:21.1434427+00:00"
 }

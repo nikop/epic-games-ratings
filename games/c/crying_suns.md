@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.51 (Ranked 630)  
+Rating: 4.52 (Ranked 614)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -493,3 +493,4 @@ Diff (max vs sum): -124
 | 2024-04-02 | 4.51 | - | 235 | 275 |
 | 2024-04-21 | 4.51 | - | 235 | 276 |
 | 2024-05-02 | 4.51 | - | 235 | 277 |
+| 2024-05-24 | 4.52 | - | 235 | 277 |
