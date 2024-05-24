@@ -139,4 +139,3 @@
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2024-04-24 | - |  | - | 0 |
 | [Oddsparks: An Automation Adventure](games/7/77c83b36cd1047f7aceeef2e5f84ab85.md) | 2024-04-24 | - |  | - | 0 |
 | [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | 0 |
-| [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 34 | - | - |
