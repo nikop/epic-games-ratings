@@ -3,6 +3,7 @@
 | [Djinn - The Forbidden Knowledge](games/c/c0d21f55048943b990644fa9f43322cb.md) | 2024-05-24 | - |  | - | - |
 | [Valiant Hearts: Coming Home](games/5/5bb27a0d5617488aa983f5b3f77c9611.md) | 2024-05-24 | - |  | - | - |
 | [Asilium](games/3/3e940b5a368a403db6c3920d22000705.md) | 2024-05-24 | - |  | - | - |
+| [Corpse Keeper](games/c/corpse_keeper.md) | 2024-05-28 | - |  | - | - |
 | [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,756 |
 | [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | - |  | - | - |
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | - |  | - | - |
@@ -295,7 +296,6 @@
 | [Clicker Guardians](games/c/clicker_guardians.md) | 2099-01-01 | - |  | - | - |
 | [Cloud Cutter](games/c/cloud_cutter.md) | 2099-01-01 | 31 (1,000 XP) | 1 | - | - |
 | [Contingent®️](games/e/ed4fdacaea4746deb4aeb02480909cb1.md) | 2099-01-01 | - |  | - | - |
-| [Corpse Keeper](games/c/corpse_keeper.md) | 2099-01-01 | - |  | - | - |
 | [Corsairs Legacy – Pirate Action RPG & Sea Battles](games/5/55172c31a4094ccda2f06c94635139c6.md) | 2099-01-01 | - |  | - | - |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2099-01-01 | - |  | - | - |
 | [Critter Crops](games/c/critter_crops.md) | 2099-01-01 | - |  | - | - |

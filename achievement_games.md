@@ -64,7 +64,7 @@
 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 2024-04-01 | 58 (1,250 XP) | 7 | - | 0 |
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | 30 (1,000 XP) | 2 | - | 0 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 4 | - | 0 |
-| [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 2024-03-29 | 10 (1,000 XP) | 5 | 4.94 | 0 |
+| [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 2024-03-29 | 10 (1,000 XP) | 5 | 4.91 | 0 |
 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 19 | 4.81 | 41 |
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | 23 (1,000 XP) | 13 | - | 0 |
@@ -553,7 +553,7 @@
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 22 (1,000 XP) | 313 | - | 0 |
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 175 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | 0 |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 935,956 | 4.67 | 12,310 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 935,956 | 4.67 | 12,377 |
 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,342,128 | 4.33 | 109 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 608 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 17 | - | 0 |
@@ -830,7 +830,7 @@
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 246,545 | 4.58 | 1,530 |
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 2022-08-23 | 19 (1,000 XP) | 408 | - | 0 |
-| [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,515,718 | 4.44 | 76,728 |
+| [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,515,718 | 4.44 | 76,820 |
 | [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 1,013,850 | 3.90 | 1,261 |
 | [Yars: Recharged](games/y/yars__recharged.md) | 2022-08-23 | 15 (1,000 XP) | 3,591 | - | 0 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 4,173 | 4.42 | 85 |
@@ -1027,7 +1027,7 @@
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 61,475 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,628 | 4.02 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 492,501 | 4.61 | 93 |
-| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 29,087,333 | 4.44 | 830,427 |
+| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 29,087,333 | 4.44 | 831,352 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 256,846 | 4.58 | 340 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 2020-09-08 | 69 (1,000 XP) | 569 | 4.54 | 83 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 29,397 | 4.84 | 234 |
