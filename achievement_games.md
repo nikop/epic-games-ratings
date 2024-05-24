@@ -78,7 +78,7 @@
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 29 | - | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | 41 (1,000 XP) | 58 | - | 0 |
-| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 604 | 4.26 | 151 |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 604 | 4.26 | 155 |
 | [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 2024-03-26 | 24 (1,000 XP) | 33 | - | 0 |
 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-03-26 | 34 (1,000 XP) | 2 | - | 0 |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 0 | - | 0 |
@@ -184,7 +184,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 40 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 43 | - | 0 |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 70 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 40,364 | 4.32 | 60 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 40,364 | 4.32 | 62 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 70 | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 41 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 173 | - | - |
@@ -804,7 +804,7 @@
 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 2022-10-06 | 29 (1,000 XP) | 48,307 | 4.28 | 132 |
 | [The Complex](games/t/the_complex.md) | 2022-10-04 | 20 (1,000 XP) | 1,019 | - | 0 |
 | [Airoheart](games/a/airoheart.md) | 2022-09-30 | 29 (1,000 XP) | 0 | - | 0 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 230,044 | 4.26 | 24,255 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 230,044 | 4.26 | 24,262 |
 | [Bunny Park](games/b/bunny_park.md) | 2022-09-30 | 18 (1,000 XP) | 325 | - | 0 |
 | [Lemon Cake](games/l/lemon_cake.md) | 2022-09-29 | 17 (1,000 XP) | 247 | - | 0 |
 | [Despot's Game](games/d/despot's_game.md) | 2022-09-29 | 35 (1,000 XP) | 516 | 4.50 | 0 |
