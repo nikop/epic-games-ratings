@@ -2,8 +2,8 @@
   "ID": "afe2527e29b94db48b2eef984e34d81a",
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
-  "Ranking_Rating": 851,
-  "Ranking_Popularity": 428,
+  "Ranking_Rating": 864,
+  "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2024-05-17T19:01:00.799761+00:00",
@@ -156,6 +156,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 130,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-05-24T20:58:22.2452007+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
@@ -188,7 +194,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
-  "LastChanged": "2024-05-24T16:57:10.2044558+00:00",
+  "LastChanged": "2024-05-24T20:58:22.2452004+00:00",
   "LastUpdate_AppInfo": "2024-05-23T14:57:12.5429312+00:00",
-  "LastUpdate_Ratings": "2024-05-24T18:59:52.1647337+00:00"
+  "LastUpdate_Ratings": "2024-05-24T20:58:22.245201+00:00"
 }
