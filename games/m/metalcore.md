@@ -1,7 +1,7 @@
 # MetalCore
 [Store](https://store.epicgames.com/en-US/p/metalcore-f60c27)  
 [View Rawdata](../../db/m/metalcore.json)  
-Rating: 4.41 (Ranked 810)  
+Rating: 4.41 (Ranked 809)  
 ## Awards
 Max (Diverse Characters): 80  (Ranked 452)  
 Sum: 654 (Ranked 346)  

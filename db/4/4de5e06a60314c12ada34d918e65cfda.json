@@ -2,7 +2,7 @@
   "ID": "4de5e06a60314c12ada34d918e65cfda",
   "Name": "Crosshair V2",
   "ProductSlug": "crosshair-v2-d58322",
-  "Ranking_Rating": 749,
+  "Ranking_Rating": 729,
   "Ranking_Popularity": 649,
   "Ranking_PopularitySum": 649,
   "Ranking_EOS_Progress": 987,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2024-05-16T18:57:41.1739302+00:00",
@@ -132,6 +132,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-24T17:57:08.8473695+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -150,7 +156,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-05-24T13:02:52.1985865+00:00",
+  "LastChanged": "2024-05-24T17:57:08.8473693+00:00",
   "LastUpdate_AppInfo": "2024-05-20T02:22:51.6222414+00:00",
-  "LastUpdate_Ratings": "2024-05-24T15:58:48.7399859+00:00"
+  "LastUpdate_Ratings": "2024-05-24T17:57:08.8473698+00:00"
 }
