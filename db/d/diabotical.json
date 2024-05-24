@@ -2,7 +2,7 @@
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
   "ProductSlug": "diabotical",
-  "Ranking_Rating": 203,
+  "Ranking_Rating": 202,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 987,
@@ -2187,10 +2187,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2791,
       "NumberOfAwardsMax": 318
+    },
+    {
+      "Time": "2024-05-24T16:57:41.5215444+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2792,
+      "NumberOfAwardsMax": 318
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2791,
+  "NumberOfAwards": 2792,
   "NumberOfAwardsMax": 318,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2228,7 +2234,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 263
+      "Count": 264
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2278,8 +2284,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2024-05-24T14:59:30.8005722+00:00",
+  "LastChanged": "2024-05-24T16:57:41.5215442+00:00",
   "LastUpdate_AppInfo": "2024-05-19T23:57:53.9244727+00:00",
-  "LastUpdate_Ratings": "2024-05-24T14:59:30.8005727+00:00",
+  "LastUpdate_Ratings": "2024-05-24T16:57:41.521545+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:52.2510583+00:00"
 }
