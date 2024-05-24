@@ -152,7 +152,7 @@
 | 145 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,841 | 137 |
 | 145 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 648 |
 | 145 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 648 |
-| 145 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 220 | 322 |
+| 145 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 221 | 322 |
 | 154 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.75 | 0 | 648 |
 | 154 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,532 | 60 |
 | 154 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 648 |
@@ -306,7 +306,7 @@
 | 298 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 12,310 | 42 |
 | 298 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,032 | 176 |
 | 298 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 341,478 | 4 |
-| 298 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 536 | 235 |
+| 298 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 537 | 235 |
 | 298 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 648 |
 | 298 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,389 | 120 |
 | 298 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 765 | 202 |
@@ -568,7 +568,7 @@
 | 561 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,294 | 122 |
 | 561 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 648 |
 | 561 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.55 | 209 | 331 |
-| 561 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 220 | 322 |
+| 561 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 220 | 323 |
 | 561 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.55 | 0 | 648 |
 | 561 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 244 | 309 |
 | 561 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.55 | 2,476 | 118 |

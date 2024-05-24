@@ -234,7 +234,7 @@
 | 232 | [Terraforming Mars](games/t/terraforming_mars.md) | 562 | 4.53 | 597 |
 | 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 547 | 4.59 | 475 |
 | 234 | [RimWorld](games/r/rimworld.md) | 539 | 4.89 | 13 |
-| 235 | [Loop Hero](games/l/loop_hero.md) | 536 | 4.67 | 298 |
+| 235 | [Loop Hero](games/l/loop_hero.md) | 537 | 4.67 | 298 |
 | 236 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 534 | 4.75 | 154 |
 | 237 | [Slime Rancher](games/s/slime_rancher.md) | 524 | 4.82 | 73 |
 | 238 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 519 | 4.74 | 169 |
@@ -321,8 +321,8 @@
 | 318 | [Unrailed!](games/u/unrailed!.md) | 231 | 4.64 | 371 |
 | 320 | [Returnal™](games/r/returnal™.md) | 225 | 4.56 | 542 |
 | 321 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 222 | 4.58 | 494 |
-| 322 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 220 | 4.55 | 561 |
-| 322 | [The Riftbreaker](games/t/the_riftbreaker.md) | 220 | 4.76 | 145 |
+| 322 | [The Riftbreaker](games/t/the_riftbreaker.md) | 221 | 4.76 | 145 |
+| 323 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 220 | 4.55 | 561 |
 | 324 | [Star Stable Online](games/s/star_stable_online.md) | 217 | 4.40 | 824 |
 | 325 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 214 | 4.62 | 403 |
 | 325 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 214 | 4.53 | 597 |
