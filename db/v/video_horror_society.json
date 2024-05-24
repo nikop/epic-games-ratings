@@ -4,7 +4,7 @@
   "ProductSlug": "vhs",
   "Ranking_Rating": 977,
   "Ranking_Popularity": 289,
-  "Ranking_PopularitySum": 310,
+  "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1154,6 +1154,6 @@
   "FirstSeen": "2022-07-22T20:25:40.6568691+00:00",
   "LastChanged": "2023-09-02T03:00:37.9471633+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:44.9762515+00:00",
-  "LastUpdate_Ratings": "2024-05-24T13:01:25.2711024+00:00",
+  "LastUpdate_Ratings": "2024-05-24T13:59:13.962357+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:22.115159+00:00"
 }

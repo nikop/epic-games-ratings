@@ -372,10 +372,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 128,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-05-24T13:58:06.8520255+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 129,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 128,
+  "NumberOfAwards": 129,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Playful Visuals",
   "Tags": [
@@ -407,7 +413,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Competitive Players",
@@ -428,7 +434,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
-  "LastChanged": "2024-05-23T17:59:28.3063868+00:00",
+  "LastChanged": "2024-05-24T13:58:06.8520254+00:00",
   "LastUpdate_AppInfo": "2024-05-23T19:56:56.5272953+00:00",
-  "LastUpdate_Ratings": "2024-05-24T11:59:45.8207749+00:00"
+  "LastUpdate_Ratings": "2024-05-24T13:58:06.8520258+00:00"
 }
