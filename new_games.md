@@ -139,4 +139,3 @@
 | [Vengeance of Mr. Peppermint](games/v/vengeance_of_mr._peppermint.md) | 2024-04-24 | - |  | - | 0 |
 | [Headquarters World War 2](games/h/headquarters_world_war_2.md) | 2024-04-24 | - |  | - | 0 |
 | [Oddsparks: An Automation Adventure](games/7/77c83b36cd1047f7aceeef2e5f84ab85.md) | 2024-04-24 | - |  | - | 0 |
-| [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | 0 |
