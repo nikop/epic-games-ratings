@@ -5,7 +5,7 @@ Rating: 4.46 (Ranked 715)
 Number of Ratings: 14,652  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 14,629  (Ranked 35)  
-Sum: 112,159 (Ranked 19)  
+Sum: 112,166 (Ranked 19)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 16
 | This game is Highly Recommended | 9,953 |
 | This game has Challenging Combat | 8,666 |
 | This game has Amazing Characters | 7,894 |
-| This game has Amazing Storytelling | 7,321 |
+| This game has Amazing Storytelling | 7,328 |
 | This game has a Competitive Community | 7,266 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -511,4 +511,4 @@ Diff (max vs sum): 16
 | 2024-05-21 | 4.46 | - | 14,600 | 111,919 |
 | 2024-05-22 | 4.46 | - | 14,619 | 112,038 |
 | 2024-05-23 | 4.46 | - | 14,629 | 112,141 |
-| 2024-05-24 | 4.46 | - | 14,629 | 112,159 |
+| 2024-05-24 | 4.46 | - | 14,629 | 112,166 |
