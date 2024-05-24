@@ -2,7 +2,7 @@
   "ID": "c8738a4d1ead40368eab9688b3c7d737",
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
   "ProductSlug": "skyrim",
-  "Ranking_Rating": 30,
+  "Ranking_Rating": 31,
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 987,
@@ -6445,10 +6445,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 4586,
       "NumberOfAwardsMax": 1954
+    },
+    {
+      "Time": "2024-05-24T18:59:58.4040322+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 4587,
+      "NumberOfAwardsMax": 1954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4586,
+  "NumberOfAwards": 4587,
   "NumberOfAwardsMax": 1954,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6498,7 +6504,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 371
+      "Count": 372
     },
     {
       "Text": "This game is Relaxing",
@@ -6525,8 +6531,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2024-05-24T01:47:13.8238805+00:00",
+  "LastChanged": "2024-05-24T18:59:58.4040321+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:32.6006891+00:00",
-  "LastUpdate_Ratings": "2024-05-24T17:58:30.1389178+00:00",
+  "LastUpdate_Ratings": "2024-05-24T18:59:58.4040325+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:46.7993712+00:00"
 }

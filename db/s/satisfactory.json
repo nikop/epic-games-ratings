@@ -21581,10 +21581,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 136573,
       "NumberOfAwardsMax": 17729
+    },
+    {
+      "Time": "2024-05-24T18:57:05.7823297+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 136588,
+      "NumberOfAwardsMax": 17729
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 136573,
+  "NumberOfAwards": 136588,
   "NumberOfAwardsMax": 17729,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -21628,7 +21634,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 13547
+      "Count": 13562
     },
     {
       "Text": "This game has Easy Combat",
@@ -21674,9 +21680,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-05-24T15:57:12.9466143+00:00",
+  "LastChanged": "2024-05-24T18:57:05.7823295+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:25.2949783+00:00",
   "LastUpdate_AppInfo": "2024-05-19T22:57:20.5943487+00:00",
-  "LastUpdate_Ratings": "2024-05-24T16:59:01.141539+00:00",
+  "LastUpdate_Ratings": "2024-05-24T18:57:05.7823302+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:25.2949822+00:00"
 }
