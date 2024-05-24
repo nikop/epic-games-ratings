@@ -36,7 +36,7 @@
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 1 | - | - |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 1 | - | - |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 1 | - | - |
-| [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 2024-05-09 | 78 (1,000 XP) | 4,280,519 | 4.61 | 61,584 |
+| [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 2024-05-09 | 78 (1,000 XP) | 4,280,519 | 4.61 | 61,656 |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 15 | - | 0 |
 | [Outbreak The Fedora Files: What Lydia Knows](games/5/5367b40700174f1b9f4b5cc5ceb3751d.md) | 2024-05-03 | 31 (1,000 XP) | 2 | - | - |
 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 2024-05-02 | 19 (1,000 XP) | 1 | - | - |
@@ -685,7 +685,7 @@
 | [Gripper](games/g/gripper.md) | 2023-03-29 | 35 (1,000 XP) | 52 | - | 0 |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 2023-03-29 | 13 (1,000 XP) | 21,732 | 4.55 | 0 |
 | [Horse Tales - Emerald Valley Ranch](games/h/horse_tales_-_emerald_valley_ranch.md) | 2023-03-29 | 33 (1,000 XP) | 53 | - | 0 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 41 (1,130 XP) | 94,894 | 3.97 | 740 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 41 (1,130 XP) | 94,894 | 3.97 | 741 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | 2023-03-28 | 33 (1,000 XP) | 4,358 | 4.68 | 0 |
 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2023-03-23 | 17 (1,440 XP) | 277 | - | 0 |
 | [Chess Ultra](games/c/chess_ultra.md) | 2023-03-23 | 38 (1,000 XP) | 238,349 | 4.29 | 0 |
@@ -985,7 +985,7 @@
 | [Crash Drive 3](games/c/crash_drive_3.md) | 2021-07-08 | 55 (1,000 XP) | 479 | - | 0 |
 | [Supraland](games/s/supraland.md) | 2021-07-02 | 98 (1,000 XP) | 748,740 | 4.61 | 7,869 |
 | [Adios](games/a/adios.md) | 2021-06-29 | 25 (1,000 XP) | 88,946 | 3.53 | 0 |
-| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,134,027 | 4.55 | 209 |
+| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,134,027 | 4.55 | 211 |
 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 479 | - | 0 |
 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 2021-06-16 | 14 (1,000 XP) | 714 | - | 0 |
 | [Going Medieval](games/g/going_medieval.md) | 2021-06-01 | 31 (1,000 XP) | 8,985 | 4.61 | 160 |
