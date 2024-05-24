@@ -2,7 +2,7 @@
   "ID": "6bff1c13a8884b518bd44acaf691ddba",
   "Name": "MudRunner",
   "ProductSlug": "mudrunner",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 424,
   "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 987,
@@ -4727,10 +4727,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2236,
       "NumberOfAwardsMax": 351
+    },
+    {
+      "Time": "2024-05-24T13:03:12.1690474+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2237,
+      "NumberOfAwardsMax": 351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2236,
+  "NumberOfAwards": 2237,
   "NumberOfAwardsMax": 351,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4792,7 +4798,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 195
+      "Count": 196
     },
     {
       "Text": "This game has a Creative Community",
@@ -4812,8 +4818,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-05-24T11:57:35.6964578+00:00",
+  "LastChanged": "2024-05-24T13:03:12.1690472+00:00",
   "LastUpdate_AppInfo": "2024-05-19T23:57:16.8220703+00:00",
-  "LastUpdate_Ratings": "2024-05-24T11:57:35.6964585+00:00",
+  "LastUpdate_Ratings": "2024-05-24T13:03:12.1690477+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:14.9860173+00:00"
 }
