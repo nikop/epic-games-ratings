@@ -5,8 +5,8 @@ Rating: 4.26 (Ranked 977)
 Number of Ratings: 5,442  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 658  (Ranked 219)  
-Sum: 3,715 (Ranked 182)  
-Diff (max vs sum): 37  
+Sum: 3,715 (Ranked 183)  
+Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 4,091 |

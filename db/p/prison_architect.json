@@ -3,7 +3,7 @@
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
   "Ranking_Rating": 424,
-  "Ranking_Popularity": 197,
+  "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 433,
@@ -11647,11 +11647,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 6400,
       "NumberOfAwardsMax": 848
+    },
+    {
+      "Time": "2024-05-24T14:59:04.3403831+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 6403,
+      "NumberOfAwardsMax": 851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6400,
-  "NumberOfAwardsMax": 848,
+  "NumberOfAwards": 6403,
+  "NumberOfAwardsMax": 851,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -11664,7 +11670,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 848
+      "Count": 851
     },
     {
       "Text": "This game is Extremely Fun",
@@ -44360,9 +44366,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-05-24T08:58:08.5850964+00:00",
+  "LastChanged": "2024-05-24T14:59:04.3403827+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.0892703+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:33.7958653+00:00",
-  "LastUpdate_Ratings": "2024-05-24T13:57:11.358318+00:00",
+  "LastUpdate_Ratings": "2024-05-24T14:59:04.3403837+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.08963+00:00"
 }

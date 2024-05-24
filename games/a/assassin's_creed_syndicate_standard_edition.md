@@ -1,11 +1,11 @@
 # Assassin's Creed Syndicate Standard Edition
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-syndicate)  
 [View Rawdata](../../db/a/assassin's_creed_syndicate_standard_edition.json)  
-Rating: 4.51 (Ranked 631)  
+Rating: 4.51 (Ranked 632)  
 Number of Ratings: 2,854  (23.09.2022)  
 ## Awards
 Max (Relaxing): 182  (Ranked 347)  
-Sum: 1,431 (Ranked 270)  
+Sum: 1,432 (Ranked 270)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 77
 | This game is Great for Beginners | 177 |
 | This game has Amazing Storytelling | 170 |
 | This game has Diverse Characters | 163 |
-| This game has Quickly Understood Controls | 159 |
+| This game has Quickly Understood Controls | 160 |
 | This game is Educational | 157 |
 | This game is Extremely Fun | 152 |
 | This game is Highly Recommended | 148 |
@@ -428,3 +428,4 @@ Diff (max vs sum): 77
 | 2024-05-21 | 4.51 | - | 180 | 1,425 |
 | 2024-05-22 | 4.51 | - | 180 | 1,428 |
 | 2024-05-23 | 4.51 | - | 182 | 1,431 |
+| 2024-05-24 | 4.51 | - | 182 | 1,432 |
