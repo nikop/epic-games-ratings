@@ -4,7 +4,7 @@
   "ProductSlug": "seekers-of-tokane-a5986d",
   "Ranking_Rating": 648,
   "Ranking_Popularity": 607,
-  "Ranking_PopularitySum": 550,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -426,10 +426,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 71,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-05-24T03:58:55.3702395+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 71,
+  "NumberOfAwards": 72,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -443,7 +449,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -464,8 +470,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-05-23T01:44:30.033199+00:00",
+  "LastChanged": "2024-05-24T03:58:55.3702393+00:00",
   "LastUpdate_AppInfo": "2024-05-23T22:57:15.6588149+00:00",
-  "LastUpdate_Ratings": "2024-05-24T02:23:59.9507034+00:00",
+  "LastUpdate_Ratings": "2024-05-24T03:58:55.3702398+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:24.9528222+00:00"
 }
