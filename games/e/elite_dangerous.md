@@ -4,12 +4,12 @@
 Rating: 4.62 (Ranked 404)  
 Number of Ratings: 6,856  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 2,467  (Ranked 119)  
-Sum: 13,899 (Ranked 91)  
+Max (Highly Recommended): 2,471  (Ranked 119)  
+Sum: 13,903 (Ranked 91)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 2,467 |
+| This game is Highly Recommended | 2,471 |
 | This game has Challenging Combat | 2,420 |
 | This game is Relaxing | 2,343 |
 | This game is Extremely Fun | 2,316 |
@@ -484,4 +484,4 @@ Diff (max vs sum): 28
 | 2024-05-20 | 4.62 | - | 2,467 | 13,890 |
 | 2024-05-22 | 4.62 | - | 2,467 | 13,893 |
 | 2024-05-23 | 4.62 | - | 2,467 | 13,897 |
-| 2024-05-24 | 4.62 | - | 2,467 | 13,899 |
+| 2024-05-24 | 4.62 | - | 2,471 | 13,903 |
