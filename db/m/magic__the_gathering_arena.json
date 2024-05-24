@@ -21866,10 +21866,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 112141,
       "NumberOfAwardsMax": 14629
+    },
+    {
+      "Time": "2024-05-24T02:22:43.6976833+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 112159,
+      "NumberOfAwardsMax": 14629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 112141,
+  "NumberOfAwards": 112159,
   "NumberOfAwardsMax": 14629,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -21883,7 +21889,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 11804
+      "Count": 11816
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -21937,7 +21943,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 7260
+      "Count": 7266
     }
   ],
   "EOS_Progressed": 0,
@@ -21951,8 +21957,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-05-23T21:56:53.3240763+00:00",
+  "LastChanged": "2024-05-24T02:22:43.6976832+00:00",
   "LastUpdate_AppInfo": "2024-05-19T22:57:28.0422931+00:00",
-  "LastUpdate_Ratings": "2024-05-24T00:00:48.5362481+00:00",
+  "LastUpdate_Ratings": "2024-05-24T02:22:43.6976841+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:10.5154539+00:00"
 }
