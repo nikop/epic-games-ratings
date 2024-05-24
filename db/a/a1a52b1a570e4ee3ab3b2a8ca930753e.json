@@ -4,7 +4,7 @@
   "ProductSlug": "combo-a7e03a",
   "Ranking_Rating": 542,
   "Ranking_Popularity": 216,
-  "Ranking_PopularitySum": 323,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -324,10 +324,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 807,
       "NumberOfAwardsMax": 680
+    },
+    {
+      "Time": "2024-05-24T04:59:43.5745037+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 828,
+      "NumberOfAwardsMax": 680
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 807,
+  "NumberOfAwards": 828,
   "NumberOfAwardsMax": 680,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -372,6 +378,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 25
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -386,7 +398,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-02T17:59:08.0734959+00:00",
   "FirstSeenRating": "2024-05-03T11:58:38.5901753+00:00",
-  "LastChanged": "2024-05-23T21:58:09.3020339+00:00",
+  "LastChanged": "2024-05-24T04:59:43.5745035+00:00",
   "LastUpdate_AppInfo": "2024-05-23T17:57:18.8983672+00:00",
-  "LastUpdate_Ratings": "2024-05-24T03:58:56.1216331+00:00"
+  "LastUpdate_Ratings": "2024-05-24T04:59:43.5745039+00:00"
 }
