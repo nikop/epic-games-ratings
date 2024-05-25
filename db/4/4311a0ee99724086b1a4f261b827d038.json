@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 543,
   "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1323,10 +1323,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 336,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-05-25T03:00:24.650983+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 337,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336,
+  "NumberOfAwards": 337,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1334,7 +1340,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Relaxing",
@@ -23568,9 +23574,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-05-23T11:59:13.2615289+00:00",
+  "LastChanged": "2024-05-25T03:00:24.6509828+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:26.6318325+00:00",
   "LastUpdate_AppInfo": "2024-05-24T18:57:00.4082747+00:00",
-  "LastUpdate_Ratings": "2024-05-25T02:20:36.1998098+00:00",
+  "LastUpdate_Ratings": "2024-05-25T03:00:24.6509833+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:26.631928+00:00"
 }
