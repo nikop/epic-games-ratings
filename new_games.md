@@ -57,7 +57,7 @@
 | [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2024-05-11 | - |  | - | - |
 | [Garten of Banban 7](games/1/1e3a55074a2b486a8c75dc34feab3b5e.md) | 2024-05-11 | - |  | - | 0 |
 | [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |
-| [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2024-05-10 | - |  | 4.45 | 0 |
+| [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2024-05-10 | - |  | 4.46 | 0 |
 | [Ivorfall](games/b/be715805f0dd4c63b83491a84413cf81.md) | 2024-05-10 | - |  | - | 0 |
 | [Viking Rise: Valhalla](games/b/bcca452821c54464bc2cf64458de387e.md) | 2024-05-10 | - |  | - | 0 |
 | [Revenge of Sardine](games/8/894b17f2131c4a38b2c43b50621730cc.md) | 2024-05-10 | - |  | - | - |
@@ -82,7 +82,7 @@
 | [Darkestville Castle](games/c/c33824d3cf754146aca31f48780b92bf.md) | 2024-05-07 | - |  | - | - |
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | - |  | - | - |
 | [The Origin Theory - Episode One](games/2/272516e06b114390af92429cba34eb6a.md) | 2024-05-06 | - |  | - | 0 |
-| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.90 | 42 |
+| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.90 | 50 |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 15 | - | 0 |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Diamond Drone](games/5/5e307f50567c4f8fb0c187f0729bfd08.md) | 2024-05-05 | - |  | - | 0 |
