@@ -2,7 +2,7 @@
   "ID": "9c59efaabb6a48f19b3485d5d9416032",
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "ProductSlug": "lego-star-wars-the-skywalker-saga",
-  "Ranking_Rating": 125,
+  "Ranking_Rating": 143,
   "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 135,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 2536,
   "RatingHistory": [
     {
@@ -5263,6 +5263,12 @@
     {
       "Time": "2024-05-25T02:59:30.3678173+00:00",
       "Rating": 4.77,
+      "NumberOfAwards": 7152,
+      "NumberOfAwardsMax": 2639
+    },
+    {
+      "Time": "2024-05-25T22:59:26.3593656+00:00",
+      "Rating": 4.76,
       "NumberOfAwards": 7152,
       "NumberOfAwardsMax": 2639
     }
@@ -21266,9 +21272,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2024-05-25T02:59:30.3678171+00:00",
+  "LastChanged": "2024-05-25T22:59:26.3593654+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:12.7396446+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:40.2217148+00:00",
-  "LastUpdate_Ratings": "2024-05-25T21:57:57.9651119+00:00",
+  "LastUpdate_Ratings": "2024-05-25T22:59:26.359366+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:12.7397284+00:00"
 }

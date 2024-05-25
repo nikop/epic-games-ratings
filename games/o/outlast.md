@@ -3,9 +3,9 @@
 [View Rawdata](../../db/o/outlast.json)  
 Rating: 4.74 (Ranked 170)  
 ## Awards
-Max (Highly Recommended): 32  (Ranked 578)  
+Max (Highly Recommended): 32  (Ranked 579)  
 Sum: 102 (Ranked 522)  
-Diff (max vs sum): 56  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

@@ -4,7 +4,7 @@
   "ProductSlug": "town-of-salem-2-ab6497",
   "Ranking_Rating": 611,
   "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 486,
+  "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -426,10 +426,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 176,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-05-25T22:59:58.8640298+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 178,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 176,
+  "NumberOfAwards": 178,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -467,7 +473,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 21
+      "Count": 23
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -488,7 +494,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
-  "LastChanged": "2024-05-25T21:58:30.6115023+00:00",
+  "LastChanged": "2024-05-25T22:59:58.8640296+00:00",
   "LastUpdate_AppInfo": "2024-05-23T19:56:56.5272953+00:00",
-  "LastUpdate_Ratings": "2024-05-25T21:58:30.6115029+00:00"
+  "LastUpdate_Ratings": "2024-05-25T22:59:58.8640301+00:00"
 }
