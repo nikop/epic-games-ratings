@@ -1,7 +1,7 @@
 # Deliver Us The Moon
 [Store](https://store.epicgames.com/en-US/p/deliver-us-the-moon)  
 [View Rawdata](../../db/d/deliver_us_the_moon.json)  
-Rating: 4.59 (Ranked 476)  
+Rating: 4.58 (Ranked 492)  
 Number of Ratings: 24  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -64,3 +64,4 @@ Number of Ratings: 24  (23.09.2022)
 | 2024-04-07 | 4.59 | - | 0 | 0 |
 | 2024-04-20 | 4.58 | - | 0 | 0 |
 | 2024-05-13 | 4.59 | - | 0 | 0 |
+| 2024-05-25 | 4.58 | - | 0 | 0 |
