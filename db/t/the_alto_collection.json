@@ -4,7 +4,7 @@
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 252,
   "Ranking_Popularity": 494,
-  "Ranking_PopularitySum": 384,
+  "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 433,
   "Ranking_EOS_NewPlayers": 25,
@@ -1214,10 +1214,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 467,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2024-05-25T21:59:47.7457638+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 469,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 467,
+  "NumberOfAwards": 469,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1249,7 +1255,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1279,7 +1285,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has a Kind Community",
@@ -33791,9 +33797,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-05-23T19:58:32.492092+00:00",
+  "LastChanged": "2024-05-25T21:59:47.7457635+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:03.3113937+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:48.7329063+00:00",
-  "LastUpdate_Ratings": "2024-05-25T20:57:27.5175518+00:00",
+  "LastUpdate_Ratings": "2024-05-25T21:59:47.7457641+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:03.3115369+00:00"
 }
