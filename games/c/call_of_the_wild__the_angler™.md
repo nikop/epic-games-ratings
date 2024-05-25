@@ -340,13 +340,13 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-10 | 755,320 | 0 |
 ## Awards
 Max (Great for Beginners): 512  (Ranked 239)  
-Sum: 1,784 (Ranked 245)  
+Sum: 1,785 (Ranked 245)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 512 |
 | This game is Highly Recommended | 265 |
-| This game has Amazing Storytelling | 216 |
+| This game has Amazing Storytelling | 217 |
 | This game is Relaxing | 209 |
 | This game is Educational | 206 |
 | This game is Extremely Fun | 195 |
@@ -547,3 +547,4 @@ Diff (max vs sum): -6
 | 2024-05-22 | 4.20 | - | 499 | 1,753 |
 | 2024-05-23 | 4.20 | - | 503 | 1,769 |
 | 2024-05-24 | 4.20 | - | 512 | 1,784 |
+| 2024-05-25 | 4.20 | - | 512 | 1,785 |
