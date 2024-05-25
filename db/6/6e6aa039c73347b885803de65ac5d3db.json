@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-of-tsushima",
   "Ranking_Rating": 47,
   "Ranking_Popularity": 235,
-  "Ranking_PopularitySum": 311,
+  "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -241,10 +241,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 884,
       "NumberOfAwardsMax": 540
+    },
+    {
+      "Time": "2024-05-25T18:58:11.3698008+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 891,
+      "NumberOfAwardsMax": 540
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 884,
+  "NumberOfAwards": 891,
   "NumberOfAwardsMax": 540,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -306,7 +312,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 28
+      "Count": 35
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -335,9 +341,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-05-25T16:59:23.424916+00:00",
+  "LastChanged": "2024-05-25T18:58:11.3698006+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:01.6038252+00:00",
   "LastUpdate_AppInfo": "2024-05-22T23:56:57.6326311+00:00",
-  "LastUpdate_Ratings": "2024-05-25T16:59:23.4249166+00:00",
+  "LastUpdate_Ratings": "2024-05-25T18:58:11.3698011+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:01.6038632+00:00"
 }
