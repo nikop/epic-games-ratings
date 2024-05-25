@@ -2,7 +2,7 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 168,
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ, CN"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 692,
   "RatingHistory": [
     {
@@ -6840,18 +6840,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 4861,
       "NumberOfAwardsMax": 1104
+    },
+    {
+      "Time": "2024-05-25T17:57:57.348656+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 4863,
+      "NumberOfAwardsMax": 1105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4861,
-  "NumberOfAwardsMax": 1104,
+  "NumberOfAwards": 4863,
+  "NumberOfAwardsMax": 1105,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1104
+      "Count": 1105
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -6899,7 +6905,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 307
+      "Count": 308
     },
     {
       "Text": "This game is Relaxing",
@@ -6931,8 +6937,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-05-24T18:57:52.9489815+00:00",
+  "LastChanged": "2024-05-25T17:57:57.3486557+00:00",
   "LastUpdate_AppInfo": "2024-05-19T22:57:30.3983797+00:00",
-  "LastUpdate_Ratings": "2024-05-25T15:59:11.4096555+00:00",
+  "LastUpdate_Ratings": "2024-05-25T17:57:57.3486564+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:57.0259984+00:00"
 }
