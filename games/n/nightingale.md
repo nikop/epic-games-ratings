@@ -1,14 +1,14 @@
 # Nightingale
 [Store](https://store.epicgames.com/en-US/p/nightingale)  
 [View Rawdata](../../db/n/nightingale.json)  
-Rating: 4.28 (Ranked 955)  
+Rating: 4.28 (Ranked 956)  
 ## Awards
-Max (Great for Beginners): 72  (Ranked 469)  
-Sum: 425 (Ranked 391)  
+Max (Great for Beginners): 73  (Ranked 468)  
+Sum: 426 (Ranked 390)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 72 |
+| This game is Great for Beginners | 73 |
 | This game is Highly Recommended | 67 |
 | This game has Quickly Understood Controls | 55 |
 | This game has Diverse Characters | 54 |
@@ -100,3 +100,4 @@ Diff (max vs sum): 78
 | 2024-05-21 | 4.28 | 72 | 421 |
 | 2024-05-22 | 4.28 | 72 | 422 |
 | 2024-05-23 | 4.28 | 72 | 425 |
+| 2024-05-24 | 4.28 | 73 | 426 |
