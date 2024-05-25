@@ -48,7 +48,7 @@
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | - |  | - | 0 |
 | [Lizard Slayer](games/c/c41d2880cc784e3ab5744177cf90a603.md) | 2024-05-14 | - |  | - | - |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 1 | - | - |
-| [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | - |  | 3.82 | 0 |
+| [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | - |  | 3.90 | 0 |
 | [The Land Beneath Us](games/c/c99e1a5d5bd5462d8fbaabf6951bbbdf.md) | 2024-05-13 | - |  | - | 0 |
 | [Fabledom](games/7/777bdd3852e549bba87e873475cc62da.md) | 2024-05-13 | - |  | - | 0 |
 | [Truth](games/8/85fd2cbfd42d42658bec86047c19993c.md) | 2024-05-13 | - |  | - | - |
