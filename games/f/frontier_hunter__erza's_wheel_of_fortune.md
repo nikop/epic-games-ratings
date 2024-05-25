@@ -1,7 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.41 (Ranked 810)  
+Rating: 4.43 (Ranked 771)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -208,3 +208,4 @@ Completed: 3 (0.33%) (Ranked 291)
 | 2024-02-19 | 4.40 | 0 | 0 |
 | 2024-03-08 | 4.42 | 0 | 0 |
 | 2024-04-03 | 4.41 | 0 | 0 |
+| 2024-05-25 | 4.43 | 0 | 0 |

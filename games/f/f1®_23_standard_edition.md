@@ -1,7 +1,7 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.60 (Ranked 455)  
+Rating: 4.60 (Ranked 456)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -197,13 +197,13 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-10 | 21,009 | 0 |
 ## Awards
 Max (Diverse Characters): 213  (Ranked 328)  
-Sum: 1,207 (Ranked 282)  
+Sum: 1,210 (Ranked 282)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 213 |
 | This game has a Competitive Community | 171 |
-| This game is Highly Recommended | 163 |
+| This game is Highly Recommended | 166 |
 | This game has Amazing Characters | 134 |
 | This game is Extremely Fun | 119 |
 | This game has Amazing Storytelling | 111 |
@@ -470,4 +470,4 @@ Diff (max vs sum): 46
 | 2024-05-22 | 4.60 | 212 | 1,184 |
 | 2024-05-23 | 4.60 | 212 | 1,188 |
 | 2024-05-24 | 4.60 | 213 | 1,202 |
-| 2024-05-25 | 4.60 | 213 | 1,207 |
+| 2024-05-25 | 4.60 | 213 | 1,210 |
