@@ -1,12 +1,12 @@
 # Submerged: Hidden Depths
 [Store](https://store.epicgames.com/en-US/p/submerged-hidden-depths-6065a1)  
 [View Rawdata](../../db/s/submerged__hidden_depths.json)  
-Rating: 4.24 (Ranked 1,001)  
+Rating: 4.24 (Ranked 1,002)  
 Number of Ratings: 2,582  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 46  (Ranked 528)  
-Sum: 336 (Ranked 413)  
-Diff (max vs sum): 115  
+Sum: 336 (Ranked 414)  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 46 |
