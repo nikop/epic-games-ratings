@@ -1,7 +1,7 @@
 # Detroit: Become Human
 [Store](https://store.epicgames.com/en-US/p/detroit-become-human)  
 [View Rawdata](../../db/d/detroit__become_human.json)  
-Rating: 4.87 (Ranked 21)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 3,910  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 1,753  (Ranked 141)  
@@ -322,3 +322,4 @@ Diff (max vs sum): -94
 | 2024-05-22 | 4.86 | - | 1,750 | 2,010 |
 | 2024-05-23 | 4.86 | - | 1,752 | 2,012 |
 | 2024-05-24 | 4.87 | - | 1,753 | 2,013 |
+| 2024-05-25 | 4.86 | - | 1,753 | 2,013 |
