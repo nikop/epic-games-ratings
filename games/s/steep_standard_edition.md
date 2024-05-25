@@ -4,9 +4,9 @@
 Rating: 4.70 (Ranked 230)  
 Number of Ratings: 414  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 31  (Ranked 579)  
+Max (Great for Beginners): 31  (Ranked 580)  
 Sum: 223 (Ranked 459)  
-Diff (max vs sum): 120  
+Diff (max vs sum): 121  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 32 |
