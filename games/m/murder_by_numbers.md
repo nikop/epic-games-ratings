@@ -3,8 +3,8 @@
 [View Rawdata](../../db/m/murder_by_numbers.json)  
 Rating: 4.28 (Ranked 956)  
 ## Awards
-Max (Diverse Characters): 26  (Ranked 611)  
-Sum: 158 (Ranked 491)  
+Max (Diverse Characters): 26  (Ranked 612)  
+Sum: 158 (Ranked 492)  
 Diff (max vs sum): 120  
 | Award | Count |
 | ----- | ----- |

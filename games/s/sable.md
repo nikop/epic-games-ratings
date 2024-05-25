@@ -1,7 +1,7 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.54 (Ranked 582)  
+Rating: 4.54 (Ranked 581)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -350,9 +350,9 @@ Completed: 1,294 (1.07%) (Ranked 205)
 | 2024-03-21 | 119,128 | 1,266 |
 | 2024-04-10 | 121,207 | 1,294 |
 ## Awards
-Max (Extremely Fun): 34  (Ranked 564)  
+Max (Extremely Fun): 34  (Ranked 565)  
 Sum: 215 (Ranked 460)  
-Diff (max vs sum): 104  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 34 |

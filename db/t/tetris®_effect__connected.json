@@ -4,7 +4,7 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1332,10 +1332,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 625,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-05-25T16:58:04.5226102+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 626,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 625,
+  "NumberOfAwards": 626,
   "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1409,7 +1415,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1429,8 +1435,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-05-25T02:19:25.300265+00:00",
+  "LastChanged": "2024-05-25T16:58:04.52261+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:31.8123619+00:00",
-  "LastUpdate_Ratings": "2024-05-25T14:59:47.4725576+00:00",
+  "LastUpdate_Ratings": "2024-05-25T16:58:04.5226106+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:04.0245945+00:00"
 }

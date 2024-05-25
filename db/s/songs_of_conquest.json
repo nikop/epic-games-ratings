@@ -3,8 +3,8 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 297,
-  "Ranking_Popularity": 577,
-  "Ranking_PopularitySum": 441,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -526,10 +526,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 275,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-05-25T16:58:17.2043531+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 276,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 275,
+  "NumberOfAwards": 276,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -555,7 +561,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Relaxing",
@@ -5203,9 +5209,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
-  "LastChanged": "2024-05-14T14:57:18.1633184+00:00",
+  "LastChanged": "2024-05-25T16:58:17.2043529+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:08.078338+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:37.1485054+00:00",
-  "LastUpdate_Ratings": "2024-05-25T15:00:00.1035466+00:00",
+  "LastUpdate_Ratings": "2024-05-25T16:58:17.2043536+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:08.0783839+00:00"
 }
