@@ -23,7 +23,7 @@
 | 21 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.87 | 38 | 547 |
 | 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,753 | 141 |
 | 21 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 807 | 199 |
-| 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,647 | 84 |
+| 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,652 | 84 |
 | 21 | [Inscryption](games/i/inscryption.md) | 4.87 | 372 | 268 |
 | 21 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 321,066 | 5 |
 | 21 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,741 | 27 |
@@ -159,7 +159,7 @@
 | 153 | [Fez](games/f/fez.md) | 4.75 | 26 | 609 |
 | 153 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,687 | 143 |
 | 153 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 650 |
-| 153 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,331 | 67 |
+| 153 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,339 | 67 |
 | 153 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 650 |
 | 153 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 1,103 | 169 |
 | 153 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.75 | 30 | 586 |
@@ -250,7 +250,7 @@
 | 230 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 650 |
 | 230 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 5,043 | 88 |
 | 230 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.70 | 0 | 650 |
-| 230 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 272 | 299 |
+| 230 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 273 | 299 |
 | 230 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 650 |
 | 253 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 650 |
 | 253 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 133,754 | 9 |
@@ -681,14 +681,13 @@
 | 673 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 34 | 562 |
 | 673 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 650 |
 | 673 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 0 | 650 |
-| 673 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,116 | 167 |
+| 673 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,117 | 167 |
 | 673 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 48 | 519 |
 | 673 | [Solitairica](games/s/solitairica.md) | 4.49 | 101 | 418 |
 | 673 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 650 |
 | 673 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 14,660 | 35 |
 | 673 | [Wall World](games/w/wall_world.md) | 4.49 | 0 | 650 |
 | 673 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.49 | 0 | 650 |
-| 689 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.48 | 23 | 628 |
 | 689 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 66 | 476 |
 | 689 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 650 |
 | 689 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 110 | 404 |
@@ -700,21 +699,22 @@
 | 689 | [The Medium](games/t/the_medium.md) | 4.48 | 0 | 650 |
 | 689 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.48 | 204 | 334 |
 | 689 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 41 | 536 |
-| 701 | [Chorus](games/c/chorus.md) | 4.47 | 36 | 553 |
-| 701 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 4.47 | 0 | 650 |
-| 701 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 650 |
-| 701 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 159 | 363 |
-| 701 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 165 | 359 |
-| 701 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,691 | 102 |
-| 701 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 650 |
-| 701 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 650 |
-| 701 | [MythForce](games/m/mythforce.md) | 4.47 | 38 | 547 |
-| 701 | [Riverbond](games/r/riverbond.md) | 4.47 | 22 | 633 |
-| 701 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 650 |
-| 701 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.47 | 0 | 650 |
-| 701 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 0 | 650 |
-| 701 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 650 |
-| 701 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,257 | 155 |
+| 700 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.47 | 23 | 628 |
+| 700 | [Chorus](games/c/chorus.md) | 4.47 | 36 | 553 |
+| 700 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 4.47 | 0 | 650 |
+| 700 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.47 | 0 | 650 |
+| 700 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 159 | 363 |
+| 700 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 165 | 359 |
+| 700 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,691 | 102 |
+| 700 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 650 |
+| 700 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 650 |
+| 700 | [MythForce](games/m/mythforce.md) | 4.47 | 38 | 547 |
+| 700 | [Riverbond](games/r/riverbond.md) | 4.47 | 22 | 633 |
+| 700 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.47 | 0 | 650 |
+| 700 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.47 | 0 | 650 |
+| 700 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.47 | 0 | 650 |
+| 700 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 650 |
+| 700 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,257 | 155 |
 | 716 | [Absolute Drift](games/a/absolute_drift.md) | 4.46 | 0 | 650 |
 | 716 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,639 | 93 |
 | 716 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.46 | 0 | 650 |
@@ -840,7 +840,7 @@
 | 825 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 463 |
 | 825 | [Sail Forth](games/s/sail_forth.md) | 4.40 | 28 | 592 |
 | 825 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 604 | 228 |
-| 825 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.40 | 723 | 206 |
+| 825 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.40 | 726 | 206 |
 | 825 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 217 | 325 |
 | 843 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 650 |
 | 843 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.39 | 0 | 650 |
@@ -1188,6 +1188,6 @@
 | 1,186 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.58 | 96 | 429 |
 | 1,187 | [Adios](games/a/adios.md) | 3.53 | 0 | 650 |
 | 1,188 | [Survive on Raft](games/s/survive_on_raft.md) | 3.50 | 0 | 650 |
-| 1,189 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.47 | 124 | 391 |
+| 1,189 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.46 | 124 | 391 |
 | 1,190 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.38 | 0 | 650 |
 | 1,191 | [Operation New Earth](games/o/operation_new_earth.md) | 3.34 | 0 | 650 |
