@@ -255,7 +255,7 @@
 | 253 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 650 |
 | 253 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 133,754 | 9 |
 | 253 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 650 |
-| 253 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 137 | 378 |
+| 253 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 138 | 377 |
 | 253 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,488 | 61 |
 | 253 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 242 | 311 |
 | 253 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.69 | 60 | 487 |
@@ -562,7 +562,7 @@
 | 543 | [Returnal™](games/r/returnal™.md) | 4.56 | 225 | 320 |
 | 543 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.56 | 0 | 650 |
 | 543 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,809 | 139 |
-| 543 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,140 | 76 |
+| 543 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,145 | 76 |
 | 564 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 0 | 650 |
 | 564 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 386 | 266 |
 | 564 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 633 |
@@ -618,7 +618,7 @@
 | 613 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 650 |
 | 613 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 650 |
 | 613 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 650 |
-| 613 | [GigaBash](games/g/gigabash.md) | 4.52 | 100 | 421 |
+| 613 | [GigaBash](games/g/gigabash.md) | 4.52 | 101 | 418 |
 | 613 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 113 | 403 |
 | 613 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 142 | 376 |
 | 613 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 650 |
@@ -676,7 +676,7 @@
 | 673 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,725 | 58 |
 | 673 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 650 |
 | 673 | [Maneater](games/m/maneater.md) | 4.49 | 14,192 | 37 |
-| 673 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 421 |
+| 673 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 422 |
 | 673 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 41 | 536 |
 | 673 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 34 | 562 |
 | 673 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 650 |

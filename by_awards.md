@@ -75,7 +75,7 @@
 | 73 | [League of Legends](games/l/league_of_legends.md) | 6,377 | 4.20 | 1,035 |
 | 74 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,259 | 4.66 | 322 |
 | 75 | [Rogue Company](games/r/rogue_company.md) | 6,251 | 4.28 | 956 |
-| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,140 | 4.56 | 543 |
+| 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,145 | 4.56 | 543 |
 | 77 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,135 | 4.85 | 37 |
 | 78 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,111 | 4.64 | 369 |
 | 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,081 | 4.07 | 1,114 |
@@ -376,8 +376,8 @@
 | 374 | [Witchfire](games/w/witchfire.md) | 144 | 4.61 | 423 |
 | 375 | [Tropico 5](games/t/tropico_5.md) | 143 | 4.45 | 733 |
 | 376 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 142 | 4.52 | 613 |
+| 377 | [Cave Story+](games/c/cave_story+.md) | 138 | 4.69 | 253 |
 | 377 | [Overcooked](games/o/overcooked.md) | 138 | 4.66 | 322 |
-| 378 | [Cave Story+](games/c/cave_story+.md) | 137 | 4.69 | 253 |
 | 379 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 136 | 4.80 | 97 |
 | 379 | [Sonic Origins](games/s/sonic_origins.md) | 136 | 4.58 | 494 |
 | 381 | [Aven Colony](games/a/aven_colony.md) | 133 | 4.20 | 1,035 |
@@ -417,11 +417,11 @@
 | 413 | [Super Meat Boy](games/s/super_meat_boy.md) | 103 | 4.74 | 169 |
 | 416 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 102 | 4.26 | 979 |
 | 416 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 102 | 4.55 | 564 |
+| 418 | [GigaBash](games/g/gigabash.md) | 101 | 4.52 | 613 |
 | 418 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 101 | 4.86 | 31 |
 | 418 | [Ranch Simulator](games/r/ranch_simulator.md) | 101 | 4.39 | 843 |
 | 418 | [Solitairica](games/s/solitairica.md) | 101 | 4.49 | 673 |
-| 421 | [GigaBash](games/g/gigabash.md) | 100 | 4.52 | 613 |
-| 421 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 100 | 4.49 | 673 |
+| 422 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 100 | 4.49 | 673 |
 | 423 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 99 | 4.24 | 1,001 |
 | 423 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 99 | 4.18 | 1,054 |
 | 423 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 99 | 4.54 | 583 |
