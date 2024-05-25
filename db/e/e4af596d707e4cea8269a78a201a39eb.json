@@ -4,7 +4,7 @@
   "ProductSlug": "shrapnel-e59542",
   "Ranking_Rating": 1189,
   "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 473,
+  "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.47,
+  "Rating": 3.46,
   "RatingHistory": [
     {
       "Time": "2024-02-09T02:59:46.6661194+00:00",
@@ -377,10 +377,16 @@
       "Rating": 3.47,
       "NumberOfAwards": 190,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2024-05-25T02:20:42.054697+00:00",
+      "Rating": 3.46,
+      "NumberOfAwards": 201,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 190,
+  "NumberOfAwards": 201,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -400,7 +406,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 66
+      "Count": 77
     },
     {
       "Text": "This game has Competitive Players",
@@ -421,8 +427,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-07T21:57:27.054712+00:00",
   "FirstSeenRating": "2024-02-09T02:59:46.6661192+00:00",
-  "LastChanged": "2024-05-25T00:00:08.0281779+00:00",
+  "LastChanged": "2024-05-25T02:20:42.0546968+00:00",
   "LastUpdate_AppInfo": "2024-05-24T16:57:06.1068816+00:00",
-  "LastUpdate_Ratings": "2024-05-25T00:00:08.0281782+00:00",
+  "LastUpdate_Ratings": "2024-05-25T02:20:42.0546972+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:39.7587118+00:00"
 }
