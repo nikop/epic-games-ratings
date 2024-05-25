@@ -2,7 +2,7 @@
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
-  "Ranking_Rating": 423,
+  "Ranking_Rating": 404,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 871,
   "RatingHistory": [
     {
@@ -7509,6 +7509,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 2970,
       "NumberOfAwardsMax": 423
+    },
+    {
+      "Time": "2024-05-25T13:59:28.3007325+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2970,
+      "NumberOfAwardsMax": 423
     }
   ],
   "ReviewsDisabled": false,
@@ -7588,8 +7594,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2024-05-24T17:59:50.0514604+00:00",
+  "LastChanged": "2024-05-25T13:59:28.3007323+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:28.3398015+00:00",
-  "LastUpdate_Ratings": "2024-05-25T13:00:17.3913766+00:00",
+  "LastUpdate_Ratings": "2024-05-25T13:59:28.3007329+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:12.520235+00:00"
 }
