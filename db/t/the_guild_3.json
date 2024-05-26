@@ -2,7 +2,7 @@
   "ID": "641243a8260e40d1b4599b7e329fce49",
   "Name": "The Guild 3",
   "ProductSlug": "the-guild-3",
-  "Ranking_Rating": 1060,
+  "Ranking_Rating": 1058,
   "Ranking_Popularity": 651,
   "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 487,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "NumberOfRatings": 76,
   "RatingHistory": [
     {
@@ -284,6 +284,12 @@
       "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-26T21:59:52.5036819+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -535,9 +541,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:22.0812478+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:41.252685+00:00",
-  "LastChanged": "2024-01-12T18:57:37.985054+00:00",
+  "LastChanged": "2024-05-26T21:59:52.5036818+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:01.7628452+00:00",
   "LastUpdate_AppInfo": "2024-05-26T07:57:14.6235617+00:00",
-  "LastUpdate_Ratings": "2024-05-26T20:58:13.2090398+00:00",
+  "LastUpdate_Ratings": "2024-05-26T21:59:52.5036823+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:01.7628604+00:00"
 }
