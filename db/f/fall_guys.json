@@ -2,7 +2,7 @@
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
   "ProductSlug": "fall-guys",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 650,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 5,
   "Ranking_EOS_Progress": 1,
@@ -23344,10 +23344,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 1434104,
       "NumberOfAwardsMax": 160103
+    },
+    {
+      "Time": "2024-05-26T09:57:26.0424679+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1434181,
+      "NumberOfAwardsMax": 160103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1434104,
+  "NumberOfAwards": 1434181,
   "NumberOfAwardsMax": 160103,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -23361,7 +23367,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 140064
+      "Count": 140083
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -23385,7 +23391,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 136218
+      "Count": 136256
     },
     {
       "Text": "This game is Extremely Fun",
@@ -23409,7 +23415,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 110795
+      "Count": 110815
     },
     {
       "Text": "This game has Playful Visuals",
@@ -56321,9 +56327,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
-  "LastChanged": "2024-05-26T04:59:18.2579624+00:00",
+  "LastChanged": "2024-05-26T09:57:26.0424677+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:16.5021581+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:42.9734197+00:00",
-  "LastUpdate_Ratings": "2024-05-26T07:58:59.5568399+00:00",
+  "LastUpdate_Ratings": "2024-05-26T09:57:26.0424684+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:16.5023245+00:00"
 }
