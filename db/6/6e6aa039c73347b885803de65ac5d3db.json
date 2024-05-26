@@ -2,9 +2,9 @@
   "ID": "6e6aa039c73347b885803de65ac5d3db",
   "Name": "Ghost of Tsushima DIRECTOR\u0027S CUT",
   "ProductSlug": "ghost-of-tsushima",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 37,
   "Ranking_Popularity": 222,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2024-05-17T11:59:38.4268401+00:00",
@@ -283,10 +283,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 1118,
       "NumberOfAwardsMax": 626
+    },
+    {
+      "Time": "2024-05-26T20:57:38.5362803+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1141,
+      "NumberOfAwardsMax": 626
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1118,
+  "NumberOfAwards": 1141,
   "NumberOfAwardsMax": 626,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -342,7 +348,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 34
+      "Count": 43
     },
     {
       "Text": "This game is Relaxing",
@@ -354,7 +360,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 42
+      "Count": 56
     },
     {
       "Text": "This game has a Creative Community",
@@ -383,9 +389,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-05-26T18:58:47.7139877+00:00",
+  "LastChanged": "2024-05-26T20:57:38.5362801+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:01.6038252+00:00",
   "LastUpdate_AppInfo": "2024-05-22T23:56:57.6326311+00:00",
-  "LastUpdate_Ratings": "2024-05-26T18:58:47.7139881+00:00",
+  "LastUpdate_Ratings": "2024-05-26T20:57:38.5362806+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:01.6038632+00:00"
 }
