@@ -9608,60 +9608,66 @@
       "Rating": 4.29,
       "NumberOfAwards": 24725986,
       "NumberOfAwardsMax": 3551010
+    },
+    {
+      "Time": "2024-05-26T02:59:21.9816149+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 24767976,
+      "NumberOfAwardsMax": 3557195
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24725986,
-  "NumberOfAwardsMax": 3551010,
+  "NumberOfAwards": 24767976,
+  "NumberOfAwardsMax": 3557195,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3551010
+      "Count": 3557195
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3267277
+      "Count": 3272665
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3361972
+      "Count": 3368004
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3245035
+      "Count": 3250969
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2994681
+      "Count": 2999626
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2933036
+      "Count": 2937897
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2958938
+      "Count": 2963832
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2414037
+      "Count": 2417788
     }
   ],
   "EOS_Progressed": 0,
@@ -9675,8 +9681,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2024-05-25T01:46:25.4323834+00:00",
+  "LastChanged": "2024-05-26T02:59:21.9816147+00:00",
   "LastUpdate_AppInfo": "2024-05-19T16:57:31.5882036+00:00",
-  "LastUpdate_Ratings": "2024-05-25T23:59:27.120727+00:00",
+  "LastUpdate_Ratings": "2024-05-26T02:59:21.9816154+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:57.6396581+00:00"
 }
