@@ -1,7 +1,7 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.76 (Ranked 144)  
+Rating: 4.77 (Ranked 126)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -763,3 +763,4 @@ Diff (max vs sum): -26
 | 2024-05-23 | 4.77 | - | 2,638 | 7,145 |
 | 2024-05-24 | 4.77 | - | 2,639 | 7,149 |
 | 2024-05-25 | 4.77 | - | 2,639 | 7,152 |
+| 2024-05-26 | 4.77 | - | 2,639 | 7,152 |

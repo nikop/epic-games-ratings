@@ -3,7 +3,7 @@
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
   "Ranking_Rating": 385,
-  "Ranking_Popularity": 441,
+  "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -2001,11 +2001,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 551,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-05-26T10:58:47.9420789+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 552,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 551,
-  "NumberOfAwardsMax": 91,
+  "NumberOfAwards": 552,
+  "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2018,7 +2024,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2107,9 +2113,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2024-05-26T01:53:41.8859014+00:00",
+  "LastChanged": "2024-05-26T10:58:47.9420787+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:57.1908198+00:00",
   "LastUpdate_AppInfo": "2024-05-22T23:56:56.6402606+00:00",
-  "LastUpdate_Ratings": "2024-05-26T09:57:31.5091299+00:00",
+  "LastUpdate_Ratings": "2024-05-26T10:58:47.9420791+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:57.1908218+00:00"
 }
