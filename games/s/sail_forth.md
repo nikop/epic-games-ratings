@@ -81,8 +81,8 @@ Completed: 13 (0.00%) (Ranked 458)
 | 2024-04-10 | 416,682 | 13 |
 ## Awards
 Max (Quickly Understood Controls): 28  (Ranked 595)  
-Sum: 169 (Ranked 490)  
-Diff (max vs sum): 105  
+Sum: 170 (Ranked 489)  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 28 |
@@ -91,8 +91,8 @@ Diff (max vs sum): 105
 | This game has Playful Visuals | 24 |
 | This game is Relaxing | 24 |
 | This game has Easy Combat | 21 |
+| This game has Amazing Storytelling | 21 |
 | This game is Highly Recommended | 21 |
-| This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -151,3 +151,4 @@ Diff (max vs sum): 105
 | 2024-05-19 | 4.40 | 28 | 167 |
 | 2024-05-20 | 4.40 | 28 | 168 |
 | 2024-05-24 | 4.40 | 28 | 169 |
+| 2024-05-26 | 4.40 | 28 | 170 |

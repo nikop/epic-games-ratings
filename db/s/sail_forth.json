@@ -4,7 +4,7 @@
   "ProductSlug": "sail-forth-51847e",
   "Ranking_Rating": 829,
   "Ranking_Popularity": 595,
-  "Ranking_PopularitySum": 490,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -551,10 +551,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 169,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-05-26T15:58:20.3746342+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 170,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 169,
+  "NumberOfAwards": 170,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -592,7 +598,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Relaxing",
@@ -2911,9 +2917,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-05-24T23:59:38.1649421+00:00",
+  "LastChanged": "2024-05-26T15:58:20.374634+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:24.2219897+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:13.1191367+00:00",
-  "LastUpdate_Ratings": "2024-05-26T13:59:31.8520269+00:00",
+  "LastUpdate_Ratings": "2024-05-26T15:58:20.3746346+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:24.222024+00:00"
 }
