@@ -2,7 +2,7 @@
   "ID": "3b550d92911244558770b68c5a812a5d",
   "Name": "Sheltered",
   "ProductSlug": "sheltered",
-  "Ranking_Rating": 813,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 987,
@@ -895,6 +895,6 @@
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
   "LastChanged": "2024-05-03T19:57:38.4407632+00:00",
   "LastUpdate_AppInfo": "2024-05-19T23:57:32.0071603+00:00",
-  "LastUpdate_Ratings": "2024-05-26T04:57:50.5703446+00:00",
+  "LastUpdate_Ratings": "2024-05-26T05:59:28.0302418+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:31.4540681+00:00"
 }
