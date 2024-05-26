@@ -115,6 +115,7 @@
 | [Unreachable](games/4/48d6c1632de6479b8c6c1d2f415cea92.md) | 2024-09-30 | - |  | - | - |
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-09-30 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-30 | - |  | - | - |
+| [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
 | [Assassin’s Creed Shadows](games/1/14a28903e3d14bd5aa3e6dbf10868126.md) | 2024-11-15 | - |  | - | - |
