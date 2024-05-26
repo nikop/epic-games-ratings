@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-10 | 1,246 | 0 |
 ## Awards
 Max (Amazing Storytelling): 53  (Ranked 509)  
-Sum: 360 (Ranked 405)  
+Sum: 361 (Ranked 405)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
@@ -61,8 +61,8 @@ Diff (max vs sum): 104
 | This game has Diverse Characters | 49 |
 | This game is Extremely Fun | 45 |
 | This game has Amazing Characters | 44 |
+| This game is Great for Beginners | 40 |
 | This game is Highly Recommended | 40 |
-| This game is Great for Beginners | 39 |
 | This game has Quickly Understood Controls | 39 |
 | This game has Challenging Combat | 36 |
 | This game has Obsessive Gameplay | 20 |
@@ -204,3 +204,4 @@ Diff (max vs sum): 104
 | 2024-05-21 | 4.84 | - | 52 | 358 |
 | 2024-05-23 | 4.84 | - | 53 | 359 |
 | 2024-05-25 | 4.84 | - | 53 | 360 |
+| 2024-05-26 | 4.84 | - | 53 | 361 |

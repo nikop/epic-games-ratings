@@ -1,15 +1,15 @@
 # Killing Floor 2
 [Store](https://store.epicgames.com/en-US/p/killing-floor-2)  
 [View Rawdata](../../db/k/killing_floor_2.json)  
-Rating: 4.44 (Ranked 751)  
+Rating: 4.44 (Ranked 752)  
 Number of Ratings: 18,418  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 15,355  (Ranked 31)  
-Sum: 36,354 (Ranked 44)  
+Max (Great Boss Battles): 15,376  (Ranked 31)  
+Sum: 36,375 (Ranked 44)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 15,355 |
+| This game has Great Boss Battles | 15,376 |
 | This game is Great for Beginners | 2,617 |
 | This game has Diverse Characters | 2,456 |
 | This game is Relaxing | 2,364 |
@@ -512,4 +512,4 @@ Diff (max vs sum): -13
 | 2024-05-23 | 4.44 | - | 15,319 | 36,258 |
 | 2024-05-24 | 4.44 | - | 15,340 | 36,308 |
 | 2024-05-25 | 4.44 | - | 15,355 | 36,350 |
-| 2024-05-26 | 4.44 | - | 15,355 | 36,354 |
+| 2024-05-26 | 4.44 | - | 15,376 | 36,375 |
