@@ -2,9 +2,9 @@
   "ID": "76cd63399a874c2b854fd74cda49a256",
   "Name": "Suicide Squad: Kill the Justice League",
   "ProductSlug": "suicide-squad-kill-the-justice-league",
-  "Ranking_Rating": 982,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 363,
-  "Ranking_PopularitySum": 482,
+  "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.26,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2024-03-28T20:59:22.341135+00:00",
@@ -469,10 +469,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 183,
       "NumberOfAwardsMax": 163
+    },
+    {
+      "Time": "2024-05-26T14:57:45.6921999+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 205,
+      "NumberOfAwardsMax": 163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 183,
+  "NumberOfAwards": 205,
   "NumberOfAwardsMax": 163,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -487,6 +493,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 20
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 604,
@@ -917,9 +929,9 @@
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-05-25T21:59:56.6884039+00:00",
+  "LastChanged": "2024-05-26T14:57:45.6921997+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:23.0346572+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:52.4944121+00:00",
-  "LastUpdate_Ratings": "2024-05-26T13:01:29.1076344+00:00",
+  "LastUpdate_Ratings": "2024-05-26T14:57:45.6922003+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:23.0357465+00:00"
 }

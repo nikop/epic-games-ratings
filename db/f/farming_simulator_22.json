@@ -2,7 +2,7 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 324,
+  "Ranking_Rating": 347,
   "Ranking_Popularity": 66,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 128,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 7683,
   "RatingHistory": [
     {
@@ -18010,10 +18010,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 52137,
       "NumberOfAwardsMax": 7441
+    },
+    {
+      "Time": "2024-05-26T15:00:13.2751241+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 52199,
+      "NumberOfAwardsMax": 7441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52137,
+  "NumberOfAwards": 52199,
   "NumberOfAwardsMax": 7441,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -18039,7 +18045,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4817
+      "Count": 4842
     },
     {
       "Text": "This game is Highly Recommended",
@@ -18051,7 +18057,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4788
+      "Count": 4808
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18081,7 +18087,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 4639
+      "Count": 4656
     },
     {
       "Text": "This game has Easy Combat",
@@ -45525,9 +45531,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2024-05-26T13:57:42.6181465+00:00",
+  "LastChanged": "2024-05-26T15:00:13.2751239+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:08.3679968+00:00",
   "LastUpdate_AppInfo": "2024-05-19T16:57:28.2894536+00:00",
-  "LastUpdate_Ratings": "2024-05-26T13:57:42.618147+00:00",
+  "LastUpdate_Ratings": "2024-05-26T15:00:13.2751245+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:08.368123+00:00"
 }

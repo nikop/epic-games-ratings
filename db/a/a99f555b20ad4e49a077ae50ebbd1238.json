@@ -4,7 +4,7 @@
   "ProductSlug": "zeeverse-92a34e",
   "Ranking_Rating": 73,
   "Ranking_Popularity": 595,
-  "Ranking_PopularitySum": 575,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -225,6 +225,6 @@
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
   "LastChanged": "2024-05-24T09:59:29.3615096+00:00",
   "LastUpdate_AppInfo": "2024-05-23T02:20:45.4078032+00:00",
-  "LastUpdate_Ratings": "2024-05-26T13:58:21.8956024+00:00",
+  "LastUpdate_Ratings": "2024-05-26T15:01:12.4046643+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:48.2236553+00:00"
 }
