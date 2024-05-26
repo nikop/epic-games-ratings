@@ -3,7 +3,7 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 425,
-  "Ranking_Popularity": 85,
+  "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -17303,24 +17303,30 @@
       "Rating": 4.61,
       "NumberOfAwards": 25999,
       "NumberOfAwardsMax": 5651
+    },
+    {
+      "Time": "2024-05-26T20:02:46.2010881+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 26031,
+      "NumberOfAwardsMax": 5672
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25999,
-  "NumberOfAwardsMax": 5651,
+  "NumberOfAwards": 26031,
+  "NumberOfAwardsMax": 5672,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1598
+      "Count": 1602
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5651
+      "Count": 5672
     },
     {
       "Text": "This game has Diverse Characters",
@@ -17356,7 +17362,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2073
+      "Count": 2080
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17397,9 +17403,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-05-26T18:58:03.6225886+00:00",
+  "LastChanged": "2024-05-26T20:02:46.2010879+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:11.7808177+00:00",
   "LastUpdate_AppInfo": "2024-05-26T07:57:12.0796645+00:00",
-  "LastUpdate_Ratings": "2024-05-26T18:58:03.6225892+00:00",
+  "LastUpdate_Ratings": "2024-05-26T20:02:46.2010886+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:11.7808251+00:00"
 }
