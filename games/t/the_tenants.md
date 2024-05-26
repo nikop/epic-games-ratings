@@ -1,7 +1,7 @@
 # The Tenants
 [Store](https://store.epicgames.com/en-US/p/the-tenants)  
 [View Rawdata](../../db/t/the_tenants.json)  
-Rating: 4.52 (Ranked 611)  
+Rating: 4.53 (Ranked 598)  
 Number of Ratings: 82  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -273,3 +273,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2023-06-11 | 4.54 | - | 0 | 0 |
 | 2023-07-15 | 4.53 | - | 0 | 0 |
 | 2023-12-26 | 4.52 | - | 0 | 0 |
+| 2024-05-26 | 4.53 | - | 0 | 0 |

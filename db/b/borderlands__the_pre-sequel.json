@@ -2,7 +2,7 @@
   "ID": "6110c92696a54f108c8e9002713ea5f9",
   "Name": "Borderlands: The Pre-Sequel",
   "ProductSlug": "borderlands-the-pre-sequel",
-  "Ranking_Rating": 648,
+  "Ranking_Rating": 649,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 987,
@@ -5589,10 +5589,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 3445,
       "NumberOfAwardsMax": 512
+    },
+    {
+      "Time": "2024-05-26T01:53:53.552449+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 3446,
+      "NumberOfAwardsMax": 512
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3445,
+  "NumberOfAwards": 3446,
   "NumberOfAwardsMax": 512,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5612,7 +5618,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 433
+      "Count": 434
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5668,8 +5674,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2024-05-24T14:59:48.766486+00:00",
+  "LastChanged": "2024-05-26T01:53:53.5524489+00:00",
   "LastUpdate_AppInfo": "2024-05-19T23:58:00.9433275+00:00",
-  "LastUpdate_Ratings": "2024-05-25T22:59:46.793905+00:00",
+  "LastUpdate_Ratings": "2024-05-26T01:53:53.5524494+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:58.1572786+00:00"
 }

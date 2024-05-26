@@ -1,7 +1,7 @@
 # The Sinking City
 [Store](https://store.epicgames.com/en-US/p/the-sinking-city)  
 [View Rawdata](../../db/t/the_sinking_city.json)  
-Rating: 4.27 (Ranked 975)  
+Rating: 4.27 (Ranked 977)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

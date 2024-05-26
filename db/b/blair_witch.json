@@ -2,7 +2,7 @@
   "ID": "8101d2b09984401fa28cecce4c867e71",
   "Name": "Blair Witch",
   "ProductSlug": "blair-witch",
-  "Ranking_Rating": 1093,
+  "Ranking_Rating": 1095,
   "Ranking_Popularity": 651,
   "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 987,
@@ -551,6 +551,6 @@
   "FirstSeen": "2022-07-22T20:28:46.0898805+00:00",
   "LastChanged": "2024-04-24T23:57:31.1893333+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:57:06.9655675+00:00",
-  "LastUpdate_Ratings": "2024-05-25T22:59:34.2724802+00:00",
+  "LastUpdate_Ratings": "2024-05-26T01:53:36.4286602+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:12.0567087+00:00"
 }

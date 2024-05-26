@@ -1,12 +1,12 @@
 # Total War: WARHAMMER III
 [Store](https://store.epicgames.com/en-US/p/total-war-warhammer-3)  
 [View Rawdata](../../db/t/total_war__warhammer_iii.json)  
-Rating: 4.71 (Ranked 214)  
+Rating: 4.71 (Ranked 215)  
 Number of Ratings: 882  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 2,676  (Ranked 112)  
+Max (Great Boss Battles): 2,676  (Ranked 113)  
 Sum: 10,736 (Ranked 105)  
-Diff (max vs sum): 7  
+Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,676 |

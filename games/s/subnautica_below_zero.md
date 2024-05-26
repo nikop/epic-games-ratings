@@ -1,12 +1,12 @@
 # Subnautica Below Zero
 [Store](https://store.epicgames.com/en-US/p/subnautica-below-zero)  
 [View Rawdata](../../db/s/subnautica_below_zero.json)  
-Rating: 4.77 (Ranked 125)  
+Rating: 4.77 (Ranked 126)  
 Number of Ratings: 1,844  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 173  (Ranked 356)  
+Max (Great for Beginners): 173  (Ranked 357)  
 Sum: 1,314 (Ranked 274)  
-Diff (max vs sum): 82  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 173 |

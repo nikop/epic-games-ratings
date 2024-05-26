@@ -2,7 +2,7 @@
   "ID": "7e1b3a8e19c949c0bfaed0424a8c4bb5",
   "Name": "Pine",
   "ProductSlug": "pine",
-  "Ranking_Rating": 1081,
+  "Ranking_Rating": 1083,
   "Ranking_Popularity": 651,
   "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 987,
@@ -633,6 +633,6 @@
   "FirstSeen": "2022-07-22T20:23:31.2285518+00:00",
   "LastChanged": "2024-05-03T14:57:43.6470344+00:00",
   "LastUpdate_AppInfo": "2024-05-19T22:57:25.429578+00:00",
-  "LastUpdate_Ratings": "2024-05-25T23:57:53.0583884+00:00",
+  "LastUpdate_Ratings": "2024-05-26T01:56:25.8124487+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:40.604617+00:00"
 }

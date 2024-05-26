@@ -2,7 +2,7 @@
   "ID": "bd12fd574df14846ad24703ca7b1a12b",
   "Name": "Mages of Mystralia",
   "ProductSlug": "mages-of-mystralia",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 987,
@@ -586,18 +586,24 @@
       "Rating": 4.38,
       "NumberOfAwards": 173,
       "NumberOfAwardsMax": 173
+    },
+    {
+      "Time": "2024-05-26T01:52:44.0008985+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 174,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 173,
-  "NumberOfAwardsMax": 173,
+  "NumberOfAwards": 174,
+  "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 173
+      "Count": 174
     }
   ],
   "EOS_Progressed": 0,
@@ -611,8 +617,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
-  "LastChanged": "2024-05-19T10:57:59.0725698+00:00",
+  "LastChanged": "2024-05-26T01:52:44.0008983+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:30.4944189+00:00",
-  "LastUpdate_Ratings": "2024-05-25T22:58:55.6665931+00:00",
+  "LastUpdate_Ratings": "2024-05-26T01:52:44.0008988+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:02.4443394+00:00"
 }

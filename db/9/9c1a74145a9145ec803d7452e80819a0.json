@@ -2,9 +2,9 @@
   "ID": "9c1a74145a9145ec803d7452e80819a0",
   "Name": "Fallout 4",
   "ProductSlug": "fallout-4",
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 323,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -751,10 +751,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 605,
       "NumberOfAwardsMax": 221
+    },
+    {
+      "Time": "2024-05-26T01:55:58.8122845+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 609,
+      "NumberOfAwardsMax": 221
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 605,
+  "NumberOfAwards": 609,
   "NumberOfAwardsMax": 221,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -786,7 +792,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Characters",
@@ -804,7 +810,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game has Challenging Combat",
@@ -843,8 +849,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
-  "LastChanged": "2024-05-25T20:57:31.4830333+00:00",
+  "LastChanged": "2024-05-26T01:55:58.8122843+00:00",
   "LastUpdate_AppInfo": "2024-05-23T19:56:54.8250141+00:00",
-  "LastUpdate_Ratings": "2024-05-25T23:57:36.0149905+00:00",
+  "LastUpdate_Ratings": "2024-05-26T01:55:58.8122848+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:08.5050159+00:00"
 }
