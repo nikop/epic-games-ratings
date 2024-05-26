@@ -419,7 +419,7 @@
 | 406 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 651 |
 | 406 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,536 | 146 |
 | 406 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 651 |
-| 406 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,992 | 110 |
+| 406 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 2,993 | 110 |
 | 406 | [Rogue Lords](games/r/rogue_lords.md) | 4.62 | 0 | 651 |
 | 406 | [Roguebook](games/r/roguebook.md) | 4.62 | 0 | 651 |
 | 406 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 312 | 284 |
@@ -646,35 +646,35 @@
 | 630 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 1,079 | 172 |
 | 630 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 10,006 | 51 |
 | 630 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 78 | 462 |
+| 630 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.51 | 0 | 651 |
 | 630 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 651 |
 | 630 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 146 | 373 |
-| 649 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,070 | 129 |
-| 649 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.50 | 26 | 612 |
-| 649 | [ATOM RPG](games/a/atom_rpg.md) | 4.50 | 57 | 496 |
-| 649 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 960 | 182 |
-| 649 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 512 | 241 |
-| 649 | [Calico](games/c/calico.md) | 4.50 | 0 | 651 |
-| 649 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 114 | 400 |
-| 649 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.50 | 0 | 651 |
-| 649 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 651 |
-| 649 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 651 |
-| 649 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 0 | 651 |
-| 649 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 651 |
-| 649 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 160,103 | 8 |
-| 649 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 125 | 391 |
-| 649 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 651 |
-| 649 | [Legend of Grimrock](games/l/legend_of_grimrock.md) | 4.50 | 0 | 651 |
-| 649 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 706 | 210 |
-| 649 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 4.50 | 0 | 651 |
-| 649 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.50 | 0 | 651 |
-| 649 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.50 | 0 | 651 |
-| 649 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.50 | 27 | 604 |
-| 649 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.50 | 0 | 651 |
-| 649 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,993 | 38 |
-| 649 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.50 | 0 | 651 |
-| 649 | [VALORANT](games/v/valorant.md) | 4.50 | 118,831 | 10 |
-| 649 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 55 | 502 |
-| 649 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.50 | 0 | 651 |
+| 650 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,070 | 129 |
+| 650 | [Anno 2205 - Standard Edition](games/a/anno_2205_-_standard_edition.md) | 4.50 | 26 | 612 |
+| 650 | [ATOM RPG](games/a/atom_rpg.md) | 4.50 | 57 | 496 |
+| 650 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 960 | 182 |
+| 650 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 512 | 241 |
+| 650 | [Calico](games/c/calico.md) | 4.50 | 0 | 651 |
+| 650 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 114 | 400 |
+| 650 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.50 | 0 | 651 |
+| 650 | [Dark Deception](games/d/dark_deception.md) | 4.50 | 0 | 651 |
+| 650 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 651 |
+| 650 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 0 | 651 |
+| 650 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 651 |
+| 650 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 160,103 | 8 |
+| 650 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 125 | 391 |
+| 650 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 651 |
+| 650 | [Legend of Grimrock](games/l/legend_of_grimrock.md) | 4.50 | 0 | 651 |
+| 650 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 706 | 210 |
+| 650 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 4.50 | 0 | 651 |
+| 650 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.50 | 0 | 651 |
+| 650 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.50 | 0 | 651 |
+| 650 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.50 | 27 | 604 |
+| 650 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 4.50 | 0 | 651 |
+| 650 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 12,993 | 38 |
+| 650 | [VALORANT](games/v/valorant.md) | 4.50 | 118,831 | 10 |
+| 650 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 55 | 502 |
+| 650 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.50 | 0 | 651 |
 | 676 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,085 | 128 |
 | 676 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,725 | 58 |
 | 676 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 651 |
