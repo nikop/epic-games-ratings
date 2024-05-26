@@ -1,8 +1,10 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Argonauts Agency 3: Chair of Hephaestus](games/2/29b93abfbd7c4e028999d69deeb9b16d.md) | 2024-05-27 | - |  | - | - |
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2024-05-28 | - |  | - | - |
 | [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,758 |
 | [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | - |  | - | - |
+| [1001 Jigsaw. Cute Cats 2](games/1/1f631325713047fc8ec24312c5516155.md) | 2024-05-29 | - |  | - | - |
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | - |  | - | - |
 | [SOKOCAT - DUNGEON](games/7/7835e0cee5f244368043d0ba83528856.md) | 2024-05-30 | - |  | - | - |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | - |  | - | - |
@@ -16,9 +18,12 @@
 | [Minimally Invasive](games/f/f72a4664ea454e22a00a00d1274c41dc.md) | 2024-05-31 | - |  | - | - |
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |
 | [Western Chapter](games/2/2b0ab0a4593344dda8d3cfec92611189.md) | 2024-05-31 | - |  | - | - |
+| [New Lands](games/e/e0f22cbd766547b5b10cbac9bf35849b.md) | 2024-05-31 | - |  | - | - |
 | [F1® 24 Standard Edition](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | - | - |
+| [1001 Jigsaw: Earth Chronicles 2](games/8/818219d294284979a166202ce578439e.md) | 2024-06-03 | - |  | - | - |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | - |
 | [Cleaning Queens 2: Sparkling Palace](games/6/6826d523207948248b2161700dc703ee.md) | 2024-06-04 | - |  | - | - |
+| [Lost Artifacts 6: Mysterious Book Collector's Edition](games/d/d205843ad0a54884aead72ad4d50c161.md) | 2024-06-05 | - |  | - | - |
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-06-06 | - |  | - | - |
 | [BattleCore Arena](games/9/9daf5f0ac30b4759bc8de9637668002f.md) | 2024-06-06 | - |  | - | - |
 | [A Game´s Tale](games/1/1001579a7cb24f058683043aca87f987.md) | 2024-06-07 | - |  | - | - |

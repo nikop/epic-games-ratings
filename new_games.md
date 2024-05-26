@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | - |  | - | - |
-| [Asilium](games/3/3e940b5a368a403db6c3920d22000705.md) | 2024-05-24 | - |  | - | - |
+| [Asilium](games/3/3e940b5a368a403db6c3920d22000705.md) | 2024-05-24 | - |  | - | 0 |
 | [Valiant Hearts: Coming Home](games/5/5bb27a0d5617488aa983f5b3f77c9611.md) | 2024-05-24 | - |  | - | 0 |
 | [Djinn - The Forbidden Knowledge](games/c/c0d21f55048943b990644fa9f43322cb.md) | 2024-05-24 | - |  | - | - |
 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | - |  | - | - |
@@ -39,7 +39,7 @@
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | - |  | - | - |
 | [The Elder Scrolls III: Morrowind® Game of the Year Edition](games/2/2b04b1a83647411e956695342f1d14b6.md) | 2024-05-16 | - |  | - | - |
 | [The Elder Scrolls IV: Oblivion® Game of the Year Edition](games/3/3e8bb00c44d748c6bb16bc83f12bb9e0.md) | 2024-05-16 | - |  | - | 0 |
-| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | 4.84 | 626 |
+| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | 4.85 | 626 |
 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | - |  | 4.39 | 137 |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2024-05-16 | - |  | - | 0 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | - |  | - | 0 |
