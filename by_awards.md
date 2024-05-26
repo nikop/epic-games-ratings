@@ -64,13 +64,13 @@
 | 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,337 | 4.71 | 215 |
 | 63 | [Cities: Skylines](games/c/cities__skylines.md) | 8,029 | 4.66 | 324 |
 | 64 | [Supraland](games/s/supraland.md) | 7,871 | 4.61 | 427 |
-| 65 | [Sifu](games/s/sifu.md) | 7,862 | 4.82 | 73 |
+| 65 | [Sifu](games/s/sifu.md) | 7,865 | 4.82 | 73 |
 | 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,441 | 4.66 | 324 |
 | 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,363 | 4.75 | 154 |
 | 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,293 | 4.83 | 60 |
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,060 | 4.58 | 494 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 797 |
-| 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,547 | 4.80 | 98 |
+| 71 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,549 | 4.80 | 98 |
 | 72 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,507 | 4.78 | 119 |
 | 73 | [League of Legends](games/l/league_of_legends.md) | 6,391 | 4.20 | 1,038 |
 | 74 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,262 | 4.66 | 324 |
@@ -118,7 +118,7 @@
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,560 | 4.76 | 144 |
 | 117 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,103 |
 | 118 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,480 | 4.55 | 563 |
-| 119 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,471 | 4.62 | 406 |
+| 119 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,473 | 4.62 | 406 |
 | 120 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,390 | 4.67 | 300 |
 | 121 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,308 | 4.41 | 814 |
 | 122 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,296 | 4.55 | 563 |
@@ -206,7 +206,7 @@
 | 204 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 744 | 3.97 | 1,139 |
 | 205 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 743 | 4.63 | 385 |
 | 206 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 728 | 4.56 | 543 |
-| 207 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 726 | 4.40 | 828 |
+| 206 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 728 | 4.40 | 828 |
 | 208 | [Star Trek Online](games/s/star_trek_online.md) | 714 | 4.45 | 734 |
 | 209 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 709 | 4.87 | 21 |
 | 210 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 706 | 4.83 | 60 |
@@ -221,20 +221,20 @@
 | 219 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 658 | 4.26 | 982 |
 | 220 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 644 | 4.38 | 855 |
 | 221 | [Dark Deity](games/d/dark_deity.md) | 630 | 4.16 | 1,066 |
-| 222 | [Godfall Ultimate Edition](games/g/godfall.md) | 625 | 4.05 | 1,122 |
-| 223 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 621 | 4.67 | 300 |
-| 224 | [Severed Steel](games/s/severed_steel.md) | 619 | 4.69 | 253 |
-| 225 | [Predecessor](games/p/predecessor.md) | 614 | 4.25 | 997 |
-| 226 | [Vampyr](games/v/vampyr.md) | 612 | 4.32 | 926 |
-| 227 | [Surviving Mars](games/s/surviving_mars.md) | 611 | 4.61 | 427 |
-| 228 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 605 | 4.40 | 828 |
-| 229 | [Filament](games/f/filament.md) | 603 | 4.33 | 917 |
-| 230 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 602 | 4.78 | 119 |
-| 231 | [The Outlast Trials](games/t/the_outlast_trials.md) | 595 | 4.65 | 348 |
-| 232 | [Terraforming Mars](games/t/terraforming_mars.md) | 562 | 4.53 | 598 |
-| 233 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 549 | 4.59 | 478 |
-| 234 | [RimWorld](games/r/rimworld.md) | 544 | 4.89 | 13 |
-| 235 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 540 | 4.84 | 49 |
+| 222 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 626 | 4.84 | 49 |
+| 223 | [Godfall Ultimate Edition](games/g/godfall.md) | 625 | 4.05 | 1,122 |
+| 224 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 621 | 4.67 | 300 |
+| 225 | [Severed Steel](games/s/severed_steel.md) | 619 | 4.69 | 253 |
+| 226 | [Predecessor](games/p/predecessor.md) | 614 | 4.25 | 997 |
+| 227 | [Vampyr](games/v/vampyr.md) | 612 | 4.32 | 926 |
+| 228 | [Surviving Mars](games/s/surviving_mars.md) | 611 | 4.61 | 427 |
+| 229 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 605 | 4.40 | 828 |
+| 230 | [Filament](games/f/filament.md) | 603 | 4.33 | 917 |
+| 231 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 602 | 4.78 | 119 |
+| 232 | [The Outlast Trials](games/t/the_outlast_trials.md) | 597 | 4.65 | 348 |
+| 233 | [Terraforming Mars](games/t/terraforming_mars.md) | 562 | 4.53 | 598 |
+| 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 549 | 4.59 | 478 |
+| 235 | [RimWorld](games/r/rimworld.md) | 544 | 4.89 | 13 |
 | 236 | [Loop Hero](games/l/loop_hero.md) | 537 | 4.68 | 278 |
 | 237 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 534 | 4.75 | 154 |
 | 238 | [Slime Rancher](games/s/slime_rancher.md) | 527 | 4.82 | 73 |
@@ -527,9 +527,9 @@
 | 525 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 47 | 4.58 | 494 |
 | 525 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 47 | 4.85 | 36 |
 | 525 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 47 | 4.44 | 751 |
+| 528 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 46 | 4.56 | 543 |
 | 528 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 1,004 |
-| 529 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 45 | 4.56 | 543 |
-| 529 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 45 | 4.34 | 902 |
+| 530 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 45 | 4.34 | 902 |
 | 531 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 44 | 4.58 | 494 |
 | 531 | [Steelrising](games/s/steelrising.md) | 44 | 4.28 | 958 |
 | 533 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 43 | 4.84 | 49 |
