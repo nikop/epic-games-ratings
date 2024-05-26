@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human - Reloaded Edition",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 494,
+  "Ranking_Rating": 493,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 35,
   "Ranking_EOS_Progress": 19,
@@ -20456,18 +20456,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 49780,
       "NumberOfAwardsMax": 16674
+    },
+    {
+      "Time": "2024-05-26T16:58:31.9305123+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 49815,
+      "NumberOfAwardsMax": 16698
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49780,
-  "NumberOfAwardsMax": 16674,
+  "NumberOfAwards": 49815,
+  "NumberOfAwardsMax": 16698,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 16674
+      "Count": 16698
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -20479,7 +20485,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2306
+      "Count": 2314
     },
     {
       "Text": "This game has Amazing Characters",
@@ -20509,7 +20515,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2713
+      "Count": 2716
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -53628,9 +53634,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2024-05-26T15:00:00.4516124+00:00",
+  "LastChanged": "2024-05-26T16:58:31.9305121+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:55.2495205+00:00",
   "LastUpdate_AppInfo": "2024-05-19T18:58:22.8950716+00:00",
-  "LastUpdate_Ratings": "2024-05-26T15:00:00.451613+00:00",
+  "LastUpdate_Ratings": "2024-05-26T16:58:31.9305128+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:55.2496894+00:00"
 }

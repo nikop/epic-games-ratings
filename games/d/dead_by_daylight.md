@@ -1,7 +1,7 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 630)  
+Rating: 4.51 (Ranked 631)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -537,7 +537,7 @@ Completed: 83 (0.01%) (Ranked 433)
 | 2024-04-10 | 1,342,560 | 83 |
 ## Awards
 Max (Diverse Characters): 46,492  (Ranked 16)  
-Sum: 342,632 (Ranked 12)  
+Sum: 342,673 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -547,7 +547,7 @@ Diff (max vs sum): 4
 | This game has Challenging Combat | 38,092 |
 | This game has Competitive Players | 37,858 |
 | This game is Extremely Fun | 37,588 |
-| This game has Quickly Understood Controls | 36,188 |
+| This game has Quickly Understood Controls | 36,229 |
 | This game has Amazing Storytelling | 34,599 |
 | This game has a Competitive Community | 33,988 |
 | This game has Obsessive Gameplay | 16,768 |
@@ -1043,4 +1043,4 @@ Diff (max vs sum): 4
 | 2024-05-23 | 4.51 | - | 46,312 | 341,618 |
 | 2024-05-24 | 4.51 | - | 46,350 | 341,973 |
 | 2024-05-25 | 4.51 | - | 46,408 | 342,378 |
-| 2024-05-26 | 4.51 | - | 46,492 | 342,632 |
+| 2024-05-26 | 4.51 | - | 46,492 | 342,673 |

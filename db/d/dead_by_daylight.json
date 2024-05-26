@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 630,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 13,
@@ -20504,10 +20504,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 342632,
       "NumberOfAwardsMax": 46492
+    },
+    {
+      "Time": "2024-05-26T16:59:23.5073672+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 342673,
+      "NumberOfAwardsMax": 46492
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 342632,
+  "NumberOfAwards": 342673,
   "NumberOfAwardsMax": 46492,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -20557,7 +20563,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 36188
+      "Count": 36229
     },
     {
       "Text": "This game has Challenging Combat",
@@ -55198,9 +55204,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2024-05-26T13:58:08.706364+00:00",
+  "LastChanged": "2024-05-26T16:59:23.507367+00:00",
   "LastChanged_Achievements": "2024-04-10T06:07:19.5150297+00:00",
   "LastUpdate_AppInfo": "2024-05-19T16:57:37.273206+00:00",
-  "LastUpdate_Ratings": "2024-05-26T15:00:52.1687597+00:00",
+  "LastUpdate_Ratings": "2024-05-26T16:59:23.5073679+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:19.5156126+00:00"
 }
