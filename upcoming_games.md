@@ -37,7 +37,6 @@
 | [Colorgrid](games/3/37986e23d96545498b42f60c3198b6d3.md) | 2024-06-30 | - |  | - | - |
 | [Departed Away](games/8/8fb3b92706e84e07ad8b2804599b6677.md) | 2024-06-30 | - |  | - | - |
 | [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-06-30 | - |  | - | - |
-| [Epsylon](games/4/4b9bf181ec404f99bf552046c6b25ca0.md) | 2024-06-30 | - |  | - | - |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-06-30 | - |  | - | - |
 | [Flashback 2](games/f/flashback_2.md) | 2024-06-30 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
@@ -99,6 +98,7 @@
 | [Deathpunk](games/e/e2d3a34aeee943f588e6a62b8968df2f.md) | 2024-09-30 | - |  | - | - |
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [Ememe](games/2/2a5c8c9ac1d54eb39a5df0bce74cc66e.md) | 2024-09-30 | - |  | - | - |
+| [Epsylon](games/4/4b9bf181ec404f99bf552046c6b25ca0.md) | 2024-09-30 | - |  | - | - |
 | [Flintlock: The Siege of Dawn](games/f/flintlock_-_the_siege_of_dawn.md) | 2024-09-30 | - |  | - | - |
 | [Green Hawk Platoon](games/8/8e9581e6efd141878e25dd1a0c0dceb6.md) | 2024-09-30 | - |  | - | - |
 | [Hidden Pass](games/9/9cda6b0af2b040728763a7f798370910.md) | 2024-09-30 | - |  | - | - |
