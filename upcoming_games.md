@@ -21,12 +21,12 @@
 | [F1® 24 Standard Edition](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | - | - |
 | [1001 Jigsaw: Earth Chronicles 2](games/8/818219d294284979a166202ce578439e.md) | 2024-06-03 | - |  | - | - |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | - |
+| [Colony : Part I The Moon Castle](games/2/2c7d9a2ca1274d039abd2f434217040b.md) | 2024-06-04 | - |  | - | - |
 | [Cleaning Queens 2: Sparkling Palace](games/6/6826d523207948248b2161700dc703ee.md) | 2024-06-04 | - |  | - | - |
 | [Lost Artifacts 6: Mysterious Book Collector's Edition](games/d/d205843ad0a54884aead72ad4d50c161.md) | 2024-06-05 | - |  | - | - |
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-06-06 | - |  | - | - |
 | [BattleCore Arena](games/9/9daf5f0ac30b4759bc8de9637668002f.md) | 2024-06-06 | - |  | - | - |
 | [A Game´s Tale](games/1/1001579a7cb24f058683043aca87f987.md) | 2024-06-07 | - |  | - | - |
-| [Colony : Part I The Moon Castle](games/2/2c7d9a2ca1274d039abd2f434217040b.md) | 2024-06-09 | - |  | - | - |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | - |  | - | - |
 | [Still Wakes The Deep](games/a/a2100103ee894b96826d1c1ce2bae4c9.md) | 2024-06-18 | - |  | - | - |
 | [Workers & Resources: Soviet Republic](games/f/f5fdb08368b845aa9c27df5cb6995a24.md) | 2024-06-20 | - |  | - | - |
