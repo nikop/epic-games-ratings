@@ -2,7 +2,7 @@
   "ID": "e885327ce4414509bff4c10757f88334",
   "Name": "Wuthering Waves",
   "ProductSlug": "wuthering-waves-76ebc5",
-  "Ranking_Rating": 1096,
+  "Ranking_Rating": 1075,
   "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 987,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2024-05-23T10:59:58.0087544+00:00",
@@ -66,6 +66,12 @@
       "Rating": 4.12,
       "NumberOfAwards": 165,
       "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2024-05-27T18:59:38.7465613+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 165,
+      "NumberOfAwardsMax": 165
     }
   ],
   "ReviewsDisabled": false,
@@ -92,8 +98,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T02:22:20.3878047+00:00",
   "FirstSeenRating": "2024-05-23T10:59:58.0087542+00:00",
-  "LastChanged": "2024-05-27T13:04:27.4070664+00:00",
+  "LastChanged": "2024-05-27T18:59:38.7465611+00:00",
   "LastUpdate_AppInfo": "2024-05-25T07:56:57.4376239+00:00",
-  "LastUpdate_Ratings": "2024-05-27T17:57:16.9540405+00:00",
+  "LastUpdate_Ratings": "2024-05-27T18:59:38.7465615+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:58.3915253+00:00"
 }
