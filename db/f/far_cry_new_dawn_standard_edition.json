@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-new-dawn",
   "Ranking_Rating": 734,
   "Ranking_Popularity": 274,
-  "Ranking_PopularitySum": 379,
+  "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1558,18 +1558,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 487,
       "NumberOfAwardsMax": 345
+    },
+    {
+      "Time": "2024-05-27T13:57:22.2806745+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 488,
+      "NumberOfAwardsMax": 346
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 487,
-  "NumberOfAwardsMax": 345,
+  "NumberOfAwards": 488,
+  "NumberOfAwardsMax": 346,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 345
+      "Count": 346
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1619,8 +1625,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2024-05-21T21:58:17.9707884+00:00",
+  "LastChanged": "2024-05-27T13:57:22.2806744+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:25.5411811+00:00",
-  "LastUpdate_Ratings": "2024-05-27T11:58:41.2233278+00:00",
+  "LastUpdate_Ratings": "2024-05-27T13:57:22.2806749+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:30.0363608+00:00"
 }
