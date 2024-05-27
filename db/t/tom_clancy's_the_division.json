@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 477,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 261,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -4553,10 +4553,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1587,
       "NumberOfAwardsMax": 550
+    },
+    {
+      "Time": "2024-05-27T13:05:17.5947646+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1588,
+      "NumberOfAwardsMax": 550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1587,
+  "NumberOfAwards": 1588,
   "NumberOfAwardsMax": 550,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4618,7 +4624,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4656,8 +4662,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-05-27T11:57:25.9251277+00:00",
+  "LastChanged": "2024-05-27T13:05:17.5947643+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:07.26506+00:00",
-  "LastUpdate_Ratings": "2024-05-27T11:57:25.9251283+00:00",
+  "LastUpdate_Ratings": "2024-05-27T13:05:17.594765+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:19.1945908+00:00"
 }

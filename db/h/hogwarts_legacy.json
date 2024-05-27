@@ -19747,10 +19747,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 85723,
       "NumberOfAwardsMax": 38545
+    },
+    {
+      "Time": "2024-05-27T13:06:21.2366136+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 85727,
+      "NumberOfAwardsMax": 38545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85723,
+  "NumberOfAwards": 85727,
   "NumberOfAwardsMax": 38545,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19794,7 +19800,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2746
+      "Count": 2750
     },
     {
       "Text": "This game is Relaxing",
@@ -50939,9 +50945,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-05-27T11:58:24.8849303+00:00",
+  "LastChanged": "2024-05-27T13:06:21.2366134+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:51.7511451+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:40.1682359+00:00",
-  "LastUpdate_Ratings": "2024-05-27T11:58:24.8849309+00:00",
+  "LastUpdate_Ratings": "2024-05-27T13:06:21.236614+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:51.7512882+00:00"
 }

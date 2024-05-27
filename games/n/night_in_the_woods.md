@@ -4,8 +4,8 @@
 Rating: 4.72 (Ranked 203)  
 Number of Ratings: 615  (23.09.2022)  
 ## Awards
-Max (Impact the Story): 158  (Ranked 367)  
-Sum: 158 (Ranked 494)  
+Max (Impact the Story): 158  (Ranked 368)  
+Sum: 158 (Ranked 495)  
 Diff (max vs sum): -127  
 | Award | Count |
 | ----- | ----- |
