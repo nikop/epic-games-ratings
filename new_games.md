@@ -25,7 +25,7 @@
 | [Phoots and the Pineapple Throne](games/0/06fd63da93b64b10af24c7c77bb6cb2f.md) | 2024-05-22 | - |  | - | - |
 | [Harvest Hunt](games/8/82b0be96b0014eba84d9dbc93fd21dbf.md) | 2024-05-22 | - |  | - | - |
 | [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | 0 |
-| [Ground to Dust](games/3/3d221e64f74743f0a0e78ab1518ce657.md) | 2024-05-22 | - |  | - | - |
+| [Ground to Dust](games/3/3d221e64f74743f0a0e78ab1518ce657.md) | 2024-05-22 | - |  | - | 0 |
 | [Survival: Fountain of Youth](games/c/cb0f45bc17c84708bbbe08741f6ff2b8.md) | 2024-05-21 | - |  | - | 0 |
 | [MetaStrike](games/9/9bc9fd0e71724d60901f07738a5462a6.md) | 2024-05-21 | - |  | - | 0 |
 | [Night Project](games/1/160f324cdc904f8eb98b47214ee1a3e9.md) | 2024-05-20 | - |  | - | 0 |
