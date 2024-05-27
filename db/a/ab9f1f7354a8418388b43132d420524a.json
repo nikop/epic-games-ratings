@@ -3,8 +3,8 @@
   "Name": "Town of Salem 2",
   "ProductSlug": "town-of-salem-2-ab6497",
   "Ranking_Rating": 614,
-  "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 481,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -456,11 +456,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 185,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-05-27T22:58:59.3261071+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 187,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 185,
-  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 187,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -503,7 +509,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 40
+      "Count": 42
     }
   ],
   "EOS_Progressed": 0,
@@ -518,7 +524,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
-  "LastChanged": "2024-05-26T23:57:29.0491686+00:00",
+  "LastChanged": "2024-05-27T22:58:59.326107+00:00",
   "LastUpdate_AppInfo": "2024-05-23T19:56:56.5272953+00:00",
-  "LastUpdate_Ratings": "2024-05-27T20:59:51.3810971+00:00"
+  "LastUpdate_Ratings": "2024-05-27T22:58:59.3261076+00:00"
 }
