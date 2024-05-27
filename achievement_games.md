@@ -74,7 +74,7 @@
 | [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 10 | - | 0 |
 | [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 17 | - | 0 |
 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 47 | - | 0 |
-| [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 41 | 4.43 | 0 |
+| [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 41 | 4.44 | 0 |
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 29 | 4.38 | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | 41 (1,000 XP) | 58 | - | 0 |
@@ -869,7 +869,7 @@
 | [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 38,962,798 | 4.50 | 160,178 |
 | [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 1,291 | 4.54 | 0 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 6,108 | - | - |
-| [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,631 | 4.74 | 114 |
+| [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,631 | 4.74 | 115 |
 | [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 215 | 4.18 | 0 |
 | [It Takes Two](games/i/it_takes_two.md) | 2022-06-10 | 20 (1,000 XP) | 171,377 | - | - |
 | [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 89 (1,300 XP) | 447,797 | 4.47 | 1,263 |

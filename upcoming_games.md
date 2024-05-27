@@ -567,6 +567,7 @@
 | [Tales of Monkey Island - Chapter 3](games/b/b2633b067c604e10b41c9b75092d34ea.md) | 2099-01-01 | - |  | - | - |
 | [Tales of Monkey Island - Chapter 4](games/b/b81ab48605f74457ab80f2d96c02b000.md) | 2099-01-01 | - |  | - | - |
 | [Tales of Monkey Island - Chapter 5](games/b/b7e59e1e6e29496ebc96c9a082c868d8.md) | 2099-01-01 | - |  | - | - |
+| [Tamarindos Freaking Dinner](games/6/6db5dedf9d63416196b99a1031a06469.md) | 2099-01-01 | - |  | - | - |
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | - |  | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2099-01-01 | - |  | - | - |
 | [The 22nd is Serda. f0a178](games/e/ee7012dfa0784b638503492ccd494e1f.md) | 2099-01-01 | - |  | - | - |
