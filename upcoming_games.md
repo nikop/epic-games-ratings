@@ -70,6 +70,7 @@
 | [Tomb nightmares](games/a/a5d808aff2a144048d1f842e0db6ad12.md) | 2024-06-30 | - |  | - | - |
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-30 | - |  | - | - |
+| [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-04 | - |  | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-07-09 | - |  | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | - | 0 |
@@ -631,7 +632,6 @@
 | [WorldShards](games/9/9fc3b81795414dc991af6c884d05b058.md) | 2099-01-01 | - |  | - | - |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | 2099-01-01 | - |  | - | - |
 | [Ys X: Nordics](games/7/78e018c4f69d4ffc8840f94a76146822.md) | 2099-01-01 | - |  | - | - |
-| [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2099-01-01 | - |  | - | - |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2099-01-01 | - |  | - | - |
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | 2099-01-01 | - |  | - | - |
 | [Binary Smoke](games/b/binary_smoke.md) | 2099-01-02 | - |  | - | - |
