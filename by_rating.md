@@ -20,7 +20,7 @@
 | 18 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 25 | 620 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,060 | 174 |
 | 18 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 652 |
-| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,755 | 141 |
+| 21 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,761 | 141 |
 | 21 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 809 | 199 |
 | 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,667 | 85 |
 | 21 | [Inscryption](games/i/inscryption.md) | 4.87 | 372 | 268 |
@@ -456,7 +456,7 @@
 | 425 | [Warframe](games/w/warframe.md) | 4.61 | 24,144 | 23 |
 | 425 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 878 | 194 |
 | 425 | [Witchfire](games/w/witchfire.md) | 4.61 | 146 | 376 |
-| 457 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 949 | 187 |
+| 457 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 953 | 187 |
 | 457 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 150 | 372 |
 | 457 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.60 | 0 | 652 |
 | 457 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 17,989 | 25 |
@@ -479,7 +479,7 @@
 | 477 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.59 | 93 | 440 |
 | 477 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.59 | 0 | 652 |
 | 477 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.59 | 27 | 605 |
-| 477 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,124 | 166 |
+| 477 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 1,125 | 165 |
 | 477 | [Chivalry 2](games/c/chivalry_2.md) | 4.59 | 5,830 | 81 |
 | 477 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.59 | 0 | 652 |
 | 477 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.59 | 0 | 652 |
@@ -936,7 +936,7 @@
 | 934 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 436 | 254 |
 | 934 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 115 | 402 |
 | 934 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 4.31 | 0 | 652 |
-| 934 | [Paladins](games/p/paladins.md) | 4.31 | 4,481 | 95 |
+| 934 | [Paladins](games/p/paladins.md) | 4.31 | 4,485 | 95 |
 | 934 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,015 | 179 |
 | 934 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.31 | 0 | 652 |
 | 934 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 652 |
@@ -1151,11 +1151,11 @@
 | 1,148 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 3.96 | 0 | 652 |
 | 1,148 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 3.96 | 0 | 652 |
 | 1,151 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 48 | 523 |
-| 1,151 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 122 | 397 |
 | 1,151 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 3.95 | 0 | 652 |
 | 1,151 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 652 |
 | 1,151 | [Potion Permit](games/p/potion_permit.md) | 3.95 | 79 | 459 |
-| 1,156 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 31 | 583 |
+| 1,155 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.94 | 31 | 583 |
+| 1,155 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.94 | 122 | 397 |
 | 1,157 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 3.93 | 0 | 652 |
 | 1,158 | [Ironcast](games/i/ironcast.md) | 3.92 | 0 | 652 |
 | 1,159 | [Chimeraland](games/c/chimeraland.md) | 3.91 | 37 | 554 |
