@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-4",
   "Ranking_Rating": 521,
   "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 362,
+  "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -811,10 +811,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 604,
       "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2024-05-28T09:59:00.2103478+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 604,
+  "NumberOfAwards": 610,
   "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -882,13 +888,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 31
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 25
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -903,8 +909,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
-  "LastChanged": "2024-05-28T01:48:11.6294361+00:00",
+  "LastChanged": "2024-05-28T09:59:00.2103476+00:00",
   "LastUpdate_AppInfo": "2024-05-23T19:56:54.8250141+00:00",
-  "LastUpdate_Ratings": "2024-05-28T08:57:26.7451799+00:00",
+  "LastUpdate_Ratings": "2024-05-28T09:59:00.2103483+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:08.5050159+00:00"
 }
