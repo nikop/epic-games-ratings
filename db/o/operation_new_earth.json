@@ -2,7 +2,7 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1195,
+  "Ranking_Rating": 1194,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 266,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.34,
+  "Rating": 3.38,
   "RatingHistory": [
     {
       "Time": "2023-10-02T15:57:56.3745228+00:00",
@@ -159,6 +159,12 @@
     {
       "Time": "2024-05-02T13:59:55.4304913+00:00",
       "Rating": 3.34,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-28T01:46:26.0158604+00:00",
+      "Rating": 3.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -9378,9 +9384,9 @@
   "FirstSeen": "2023-05-28T14:01:58.5738051+00:00",
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged": "2024-05-02T13:59:55.4304911+00:00",
+  "LastChanged": "2024-05-28T01:46:26.0158602+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:51.6792781+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:55.80849+00:00",
-  "LastUpdate_Ratings": "2024-05-27T22:58:57.6446325+00:00",
+  "LastUpdate_Ratings": "2024-05-28T01:46:26.0158608+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.679334+00:00"
 }
