@@ -38,12 +38,12 @@
 | [Spellcats Auto Card Tactics](games/4/4dadd911cca741d684859a00e813a14b.md) | 2024-05-17 | - |  | - | - |
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | - |  | - | 0 |
 | [Let Me Sleep](games/f/fe8e9a4876a14ee0a2a95b1f49ea443d.md) | 2024-05-16 | - |  | - | - |
-| [In Stars and Time](games/0/0edb660794414ac59242c0942609e991.md) | 2024-05-16 | - |  | - | - |
+| [In Stars and Time](games/0/0edb660794414ac59242c0942609e991.md) | 2024-05-16 | - |  | - | 0 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | - |  | - | - |
 | [The Elder Scrolls III: Morrowind® Game of the Year Edition](games/2/2b04b1a83647411e956695342f1d14b6.md) | 2024-05-16 | - |  | - | - |
 | [The Elder Scrolls IV: Oblivion® Game of the Year Edition](games/3/3e8bb00c44d748c6bb16bc83f12bb9e0.md) | 2024-05-16 | - |  | - | 0 |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | 4.85 | 774 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | - |  | 4.39 | 168 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | - |  | 4.40 | 168 |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2024-05-16 | - |  | - | 0 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | - |  | - | 0 |
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | - |  | - | 0 |
@@ -86,7 +86,7 @@
 | [Darkestville Castle](games/c/c33824d3cf754146aca31f48780b92bf.md) | 2024-05-07 | - |  | - | - |
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | - |  | - | - |
 | [The Origin Theory - Episode One](games/2/272516e06b114390af92429cba34eb6a.md) | 2024-05-06 | - |  | - | 0 |
-| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.91 | 62 |
+| [Hades II](games/h/hades_ii.md) | 2024-05-06 | - |  | 4.90 | 62 |
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 15 | - | 0 |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Diamond Drone](games/5/5e307f50567c4f8fb0c187f0729bfd08.md) | 2024-05-05 | - |  | - | 0 |
