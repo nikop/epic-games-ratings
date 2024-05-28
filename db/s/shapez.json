@@ -622,12 +622,18 @@
       "Rating": 4.71,
       "NumberOfAwards": 153,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-05-28T11:58:51.1315242+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 154,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 153,
+  "NumberOfAwards": 154,
   "NumberOfAwardsMax": 29,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -639,7 +645,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Beginners",
@@ -684,8 +690,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2024-05-26T08:57:59.6972726+00:00",
+  "LastChanged": "2024-05-28T11:58:51.1315241+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:58:53.479703+00:00",
-  "LastUpdate_Ratings": "2024-05-28T09:59:16.8232951+00:00",
+  "LastUpdate_Ratings": "2024-05-28T11:58:51.1315245+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:09.9913977+00:00"
 }
