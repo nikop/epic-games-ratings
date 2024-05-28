@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_machines_arena.json)  
 Rating: 4.73 (Ranked 187)  
 ## Awards
-Max (Great Boss Battles): 29  (Ranked 591)  
-Sum: 29 (Ranked 617)  
-Diff (max vs sum): -26  
+Max (Great Boss Battles): 30  (Ranked 589)  
+Sum: 30 (Ranked 616)  
+Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 29 |
+| This game has Great Boss Battles | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -55,3 +55,4 @@ Diff (max vs sum): -26
 | 2024-05-17 | 4.72 | 27 | 27 |
 | 2024-05-20 | 4.72 | 29 | 29 |
 | 2024-05-24 | 4.73 | 29 | 29 |
+| 2024-05-28 | 4.73 | 30 | 30 |
