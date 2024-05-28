@@ -318,13 +318,13 @@ Completed: 498 (0.58%) (Ranked 252)
 | 2024-04-10 | 86,064 | 498 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 605)  
-Sum: 116 (Ranked 512)  
+Sum: 117 (Ranked 512)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |
+| This game has Amazing Storytelling | 25 |
 | This game is Relaxing | 25 |
-| This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 20 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
@@ -361,3 +361,4 @@ Diff (max vs sum): 93
 | 2023-08-09 | 4.36 | - | 26 | 114 |
 | 2023-10-29 | 4.36 | - | 26 | 115 |
 | 2023-12-11 | 4.36 | - | 27 | 116 |
+| 2024-05-28 | 4.36 | - | 27 | 117 |
