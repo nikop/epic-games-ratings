@@ -66,7 +66,7 @@
 | 64 | [Sifu](games/s/sifu.md) | 7,873 | 4.82 | 73 |
 | 64 | [Supraland](games/s/supraland.md) | 7,873 | 4.61 | 425 |
 | 66 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 7,532 | 4.65 | 347 |
-| 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,373 | 4.75 | 154 |
+| 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,384 | 4.75 | 154 |
 | 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,299 | 4.83 | 58 |
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,065 | 4.58 | 495 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 800 |
@@ -235,14 +235,14 @@
 | 233 | [Terraforming Mars](games/t/terraforming_mars.md) | 562 | 4.53 | 597 |
 | 234 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 550 | 4.59 | 477 |
 | 235 | [RimWorld](games/r/rimworld.md) | 546 | 4.89 | 13 |
-| 236 | [Loop Hero](games/l/loop_hero.md) | 540 | 4.68 | 280 |
+| 236 | [Loop Hero](games/l/loop_hero.md) | 541 | 4.68 | 280 |
 | 237 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 534 | 4.75 | 154 |
 | 238 | [Slime Rancher](games/s/slime_rancher.md) | 527 | 4.82 | 73 |
 | 239 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 523 | 4.20 | 1,039 |
 | 240 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 520 | 4.74 | 170 |
 | 241 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 512 | 4.50 | 650 |
 | 241 | [Warface: Clutch](games/w/warface.md) | 512 | 3.89 | 1,164 |
-| 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 500 | 4.57 | 521 |
+| 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 502 | 4.57 | 521 |
 | 244 | [Second Extinction™](games/s/second_extinction™.md) | 498 | 4.06 | 1,120 |
 | 245 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 496 | 4.17 | 1,061 |
 | 246 | [Against the Storm](games/a/against_the_storm.md) | 491 | 4.82 | 73 |
@@ -590,11 +590,11 @@
 | 583 | [Wildermyth](games/w/wildermyth.md) | 31 | 4.78 | 119 |
 | 589 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 30 | 4.75 | 154 |
 | 589 | [Speed Brawl](games/s/speed_brawl.md) | 30 | 4.35 | 890 |
-| 591 | [Aether TCG](games/c/cards_of_ethernity.md) | 29 | 4.43 | 775 |
-| 591 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 29 | 4.17 | 1,061 |
-| 591 | [shapez](games/s/shapez.md) | 29 | 4.71 | 215 |
-| 591 | [The Front](games/t/the_front.md) | 29 | 4.09 | 1,108 |
-| 591 | [The Machines Arena](games/t/the_machines_arena.md) | 29 | 4.73 | 187 |
+| 589 | [The Machines Arena](games/t/the_machines_arena.md) | 30 | 4.73 | 187 |
+| 592 | [Aether TCG](games/c/cards_of_ethernity.md) | 29 | 4.43 | 775 |
+| 592 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 29 | 4.17 | 1,061 |
+| 592 | [shapez](games/s/shapez.md) | 29 | 4.71 | 215 |
+| 592 | [The Front](games/t/the_front.md) | 29 | 4.09 | 1,108 |
 | 596 | [ELEX](games/e/elex.md) | 28 | 4.44 | 751 |
 | 596 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 28 | 4.55 | 563 |
 | 596 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.15 | 1,076 |

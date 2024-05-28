@@ -160,7 +160,7 @@
 | 154 | [Fez](games/f/fez.md) | 4.75 | 26 | 612 |
 | 154 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,691 | 143 |
 | 154 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 652 |
-| 154 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,373 | 67 |
+| 154 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,384 | 67 |
 | 154 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 652 |
 | 154 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.75 | 30 | 589 |
 | 154 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,350 | 28 |
@@ -198,7 +198,7 @@
 | 187 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.73 | 0 | 652 |
 | 187 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.73 | 0 | 652 |
 | 187 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.73 | 0 | 652 |
-| 187 | [The Machines Arena](games/t/the_machines_arena.md) | 4.73 | 29 | 591 |
+| 187 | [The Machines Arena](games/t/the_machines_arena.md) | 4.73 | 30 | 589 |
 | 187 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 652 |
 | 187 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 0 | 652 |
 | 187 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.73 | 0 | 652 |
@@ -222,7 +222,7 @@
 | 215 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.71 | 0 | 652 |
 | 215 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.71 | 21 | 641 |
 | 215 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.71 | 0 | 652 |
-| 215 | [shapez](games/s/shapez.md) | 4.71 | 29 | 591 |
+| 215 | [shapez](games/s/shapez.md) | 4.71 | 29 | 592 |
 | 215 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.71 | 0 | 652 |
 | 215 | [Tchia](games/t/tchia.md) | 4.71 | 0 | 652 |
 | 215 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 0 | 652 |
@@ -291,7 +291,7 @@
 | 280 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,748 | 52 |
 | 280 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 378,151 | 3 |
 | 280 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 652 |
-| 280 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 540 | 236 |
+| 280 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 541 | 236 |
 | 280 | [Pikuniku](games/p/pikuniku.md) | 4.68 | 0 | 652 |
 | 280 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.68 | 79 | 459 |
 | 280 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.68 | 0 | 652 |
@@ -528,7 +528,7 @@
 | 521 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.57 | 0 | 652 |
 | 521 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.57 | 235 | 315 |
 | 521 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 652 |
-| 521 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 500 | 243 |
+| 521 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 502 | 243 |
 | 521 | [Hue](games/h/hue.md) | 4.57 | 0 | 652 |
 | 521 | [Isonzo](games/i/isonzo.md) | 4.57 | 50 | 517 |
 | 521 | [Minit](games/m/minit.md) | 4.57 | 0 | 652 |
@@ -774,7 +774,7 @@
 | 751 | [The Surge](games/t/the_surge.md) | 4.44 | 36 | 556 |
 | 751 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 302 | 288 |
 | 751 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 28 | 596 |
-| 775 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.43 | 29 | 591 |
+| 775 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.43 | 29 | 592 |
 | 775 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 393 | 264 |
 | 775 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 4.43 | 0 | 652 |
 | 775 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 276 | 299 |
@@ -1061,7 +1061,7 @@
 | 1,056 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 432 |
 | 1,056 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 652 |
 | 1,061 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 652 |
-| 1,061 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.17 | 29 | 591 |
+| 1,061 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.17 | 29 | 592 |
 | 1,061 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 652 |
 | 1,061 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 496 | 245 |
 | 1,061 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 652 |
@@ -1111,7 +1111,7 @@
 | 1,108 | [Patron](games/p/patron.md) | 4.09 | 0 | 652 |
 | 1,108 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 652 |
 | 1,108 | [SYNCED](games/s/synced.md) | 4.09 | 180 | 351 |
-| 1,108 | [The Front](games/t/the_front.md) | 4.09 | 29 | 591 |
+| 1,108 | [The Front](games/t/the_front.md) | 4.09 | 29 | 592 |
 | 1,108 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 0 | 652 |
 | 1,114 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 146 | 376 |
 | 1,114 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 345 |
