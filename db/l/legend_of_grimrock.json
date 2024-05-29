@@ -3,8 +3,8 @@
   "Name": "Legend of Grimrock",
   "ProductSlug": "legend-of-grimrock",
   "Ranking_Rating": 652,
-  "Ranking_Popularity": 652,
-  "Ranking_PopularitySum": 652,
+  "Ranking_Popularity": 651,
+  "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -53,6 +53,6 @@
   "FirstSeenRating": "2023-03-31T05:58:10.9161286+00:00",
   "LastChanged": "2024-05-24T23:59:28.9741498+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:53.4936515+00:00",
-  "LastUpdate_Ratings": "2024-05-28T21:59:24.6406846+00:00",
+  "LastUpdate_Ratings": "2024-05-29T02:26:08.5999513+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:12.9200834+00:00"
 }

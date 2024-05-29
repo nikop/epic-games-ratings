@@ -2,7 +2,7 @@
   "ID": "21916c391ae4425d8f6cce2382aebd0c",
   "Name": "Darkest Dungeon\u00AE",
   "ProductSlug": "darkest-dungeon",
-  "Ranking_Rating": 144,
+  "Ranking_Rating": 145,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 987,
@@ -7245,10 +7245,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 9739,
       "NumberOfAwardsMax": 3598
+    },
+    {
+      "Time": "2024-05-29T02:28:32.8573035+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 9740,
+      "NumberOfAwardsMax": 3598
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9739,
+  "NumberOfAwards": 9740,
   "NumberOfAwardsMax": 3598,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7304,7 +7310,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 706
+      "Count": 707
     },
     {
       "Text": "This game has a Creative Community",
@@ -7330,8 +7336,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2024-05-28T05:58:16.6199501+00:00",
+  "LastChanged": "2024-05-29T02:28:32.8573031+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:08.4446989+00:00",
-  "LastUpdate_Ratings": "2024-05-28T22:59:08.5171571+00:00",
+  "LastUpdate_Ratings": "2024-05-29T02:28:32.8573039+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:55.8997022+00:00"
 }

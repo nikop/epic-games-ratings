@@ -2,9 +2,9 @@
   "ID": "a861a0cf27d74d85ad7c3fbcf9e2af42",
   "Name": "Pascal\u0027s Wager: Definitive Edition",
   "ProductSlug": "pascals-wager",
-  "Ranking_Rating": 871,
-  "Ranking_Popularity": 652,
-  "Ranking_PopularitySum": 652,
+  "Ranking_Rating": 848,
+  "Ranking_Popularity": 651,
+  "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2022-11-24T04:58:14.8204329+00:00",
@@ -65,6 +65,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-29T02:27:50.1310541+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -83,8 +89,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:33.4222204+00:00",
   "FirstSeenRating": "2022-11-24T04:58:14.8204326+00:00",
-  "LastChanged": "2024-02-26T11:00:16.7823201+00:00",
+  "LastChanged": "2024-05-29T02:27:50.1310539+00:00",
   "LastUpdate_AppInfo": "2024-05-26T23:57:07.3112521+00:00",
-  "LastUpdate_Ratings": "2024-05-28T22:58:09.7788685+00:00",
+  "LastUpdate_Ratings": "2024-05-29T02:27:50.1310545+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:10.0894179+00:00"
 }
