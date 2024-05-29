@@ -1,10 +1,10 @@
 # Dishonored 2
 [Store](https://store.epicgames.com/en-US/p/dishonored-2)  
 [View Rawdata](../../db/d/dishonored_2.json)  
-Rating: 4.77 (Ranked 126)  
+Rating: 4.77 (Ranked 127)  
 ## Awards
 Max (Great Boss Battles): 1,029  (Ranked 177)  
-Sum: 1,875 (Ranked 240)  
+Sum: 1,876 (Ranked 240)  
 Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
@@ -12,8 +12,8 @@ Diff (max vs sum): -63
 | This game has Diverse Characters | 113 |
 | This game has Amazing Characters | 105 |
 | This game has Amazing Storytelling | 101 |
+| This game has Unique Visuals | 101 |
 | This game is Highly Recommended | 100 |
-| This game has Unique Visuals | 100 |
 | This game is Extremely Fun | 87 |
 | This game has Quickly Understood Controls | 86 |
 | This game is Relaxing | 82 |
@@ -428,3 +428,4 @@ Diff (max vs sum): -63
 | 2024-05-26 | 4.77 | 1,022 | 1,867 |
 | 2024-05-27 | 4.77 | 1,026 | 1,871 |
 | 2024-05-28 | 4.77 | 1,029 | 1,875 |
+| 2024-05-29 | 4.77 | 1,029 | 1,876 |
