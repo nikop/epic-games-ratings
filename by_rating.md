@@ -11,7 +11,7 @@
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 651 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 24 | 623 |
 | 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 651 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,385 | 50 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,390 | 50 |
 | 12 | [Rain World](games/r/rain_world.md) | 4.89 | 22 | 633 |
 | 12 | [RimWorld](games/r/rimworld.md) | 4.89 | 546 | 235 |
 | 12 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,120 | 125 |
@@ -158,7 +158,7 @@
 | 154 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 651 |
 | 154 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,125 | 165 |
 | 154 | [Fez](games/f/fez.md) | 4.75 | 26 | 614 |
-| 154 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,693 | 143 |
+| 154 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,695 | 143 |
 | 154 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 651 |
 | 154 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,397 | 67 |
 | 154 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 651 |
@@ -307,7 +307,7 @@
 | 300 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 4.67 | 0 | 651 |
 | 300 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.67 | 12,704 | 41 |
 | 300 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 1,033 | 176 |
-| 300 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 342,107 | 4 |
+| 300 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 342,175 | 4 |
 | 300 | [Madcar for PC](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.67 | 0 | 651 |
 | 300 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 651 |
 | 300 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,391 | 120 |
@@ -496,7 +496,7 @@
 | 476 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 651 |
 | 495 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.58 | 0 | 651 |
 | 495 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 47 | 526 |
-| 495 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 69,381 | 12 |
+| 495 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 69,397 | 12 |
 | 495 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.58 | 132 | 385 |
 | 495 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 651 |
 | 495 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 0 | 651 |
@@ -722,7 +722,7 @@
 | 719 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,660 | 93 |
 | 719 | [Death Coming](games/d/death_coming.md) | 4.46 | 0 | 651 |
 | 719 | [Escape Academy](games/e/escape_academy.md) | 4.46 | 0 | 651 |
-| 719 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,270 | 153 |
+| 719 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,272 | 153 |
 | 719 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 14,699 | 36 |
 | 719 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 54 | 507 |
 | 719 | [Riverbond](games/r/riverbond.md) | 4.46 | 22 | 633 |
@@ -868,7 +868,7 @@
 | 858 | [Parkitect](games/p/parkitect.md) | 4.38 | 0 | 651 |
 | 858 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.38 | 21 | 641 |
 | 858 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 76 | 465 |
-| 858 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 374 | 267 |
+| 858 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 376 | 267 |
 | 858 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 651 |
 | 858 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 644 | 221 |
 | 872 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.37 | 0 | 651 |
@@ -1057,7 +1057,7 @@
 | 1,047 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.19 | 0 | 651 |
 | 1,056 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 99 | 427 |
 | 1,056 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 34 | 565 |
-| 1,056 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 229,298 | 6 |
+| 1,056 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 229,333 | 6 |
 | 1,056 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 432 |
 | 1,056 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 651 |
 | 1,056 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 651 |
@@ -1095,7 +1095,7 @@
 | 1,093 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.13 | 31,690 | 18 |
 | 1,093 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 0 | 651 |
 | 1,093 | [Relicta](games/r/relicta.md) | 4.13 | 206 | 334 |
-| 1,093 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,692 | 112 |
+| 1,093 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,699 | 112 |
 | 1,097 | [Banished](games/b/banished.md) | 4.12 | 0 | 651 |
 | 1,097 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 651 |
 | 1,097 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 623 |
@@ -1189,7 +1189,7 @@
 | 1,187 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 651 |
 | 1,188 | [Redfall](games/r/redfall.md) | 3.66 | 41 | 542 |
 | 1,189 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.60 | 0 | 651 |
-| 1,190 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.57 | 114 | 404 |
+| 1,190 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.58 | 114 | 404 |
 | 1,191 | [Adios](games/a/adios.md) | 3.53 | 0 | 651 |
 | 1,192 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.47 | 181 | 350 |
 | 1,193 | [Survive on Raft](games/s/survive_on_raft.md) | 3.42 | 0 | 651 |
