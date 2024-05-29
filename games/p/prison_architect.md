@@ -311,13 +311,13 @@ Completed: 13 (0.01%) (Ranked 433)
 | 2024-04-10 | 243,316 | 13 |
 ## Awards
 Max (Great for Beginners): 858  (Ranked 196)  
-Sum: 6,462 (Ranked 145)  
+Sum: 6,467 (Ranked 145)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 858 |
 | This game is Extremely Fun | 803 |
-| This game is Relaxing | 781 |
+| This game is Relaxing | 786 |
 | This game is Highly Recommended | 757 |
 | This game has Diverse Characters | 738 |
 | This game has Quickly Understood Controls | 728 |
@@ -821,3 +821,4 @@ Diff (max vs sum): 51
 | 2024-05-26 | 4.61 | - | 856 | 6,436 |
 | 2024-05-27 | 4.61 | - | 856 | 6,442 |
 | 2024-05-28 | 4.61 | - | 858 | 6,462 |
+| 2024-05-29 | 4.61 | - | 858 | 6,467 |
