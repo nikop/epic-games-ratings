@@ -616,10 +616,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2024-05-29T09:00:24.9398276+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 209,
+  "NumberOfAwards": 210,
   "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
@@ -633,7 +639,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 45
+      "Count": 46
     }
   ],
   "EOS_Progressed": 19519,
@@ -19655,9 +19661,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2024-05-21T17:01:33.0971135+00:00",
+  "LastChanged": "2024-05-29T09:00:24.9398275+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:29.4786425+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:49.0083748+00:00",
-  "LastUpdate_Ratings": "2024-05-29T07:58:11.2270133+00:00",
+  "LastUpdate_Ratings": "2024-05-29T09:00:24.9398281+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:29.478768+00:00"
 }
