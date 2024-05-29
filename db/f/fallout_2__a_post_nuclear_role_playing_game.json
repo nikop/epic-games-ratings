@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-2",
   "Ranking_Rating": 256,
   "Ranking_Popularity": 309,
-  "Ranking_PopularitySum": 398,
+  "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1279,10 +1279,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 394,
       "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2024-05-29T16:58:09.9710193+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 414,
+      "NumberOfAwardsMax": 246
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 394,
+  "NumberOfAwards": 414,
   "NumberOfAwardsMax": 246,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1327,6 +1333,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 22
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1341,8 +1353,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-05-29T10:57:26.0450043+00:00",
+  "LastChanged": "2024-05-29T16:58:09.9710192+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:46:57.2783582+00:00",
-  "LastUpdate_Ratings": "2024-05-29T14:59:20.1238496+00:00",
+  "LastUpdate_Ratings": "2024-05-29T16:58:09.9710196+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:03.4953299+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 1015,
   "Ranking_Popularity": 353,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 25,
@@ -3351,10 +3351,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 932,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2024-05-29T16:59:58.7868934+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 934,
+      "NumberOfAwardsMax": 180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 932,
+  "NumberOfAwards": 934,
   "NumberOfAwardsMax": 180,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -3386,7 +3392,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 173
+      "Count": 175
     },
     {
       "Text": "This game has Challenging Combat",
@@ -16485,9 +16491,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-05-28T20:58:04.1725816+00:00",
+  "LastChanged": "2024-05-29T16:59:58.7868933+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:20.2343165+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:43.4392515+00:00",
-  "LastUpdate_Ratings": "2024-05-29T15:58:59.3830085+00:00",
+  "LastUpdate_Ratings": "2024-05-29T16:59:58.786894+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:20.2344065+00:00"
 }
