@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 1015,
+  "Ranking_Rating": 1004,
   "Ranking_Popularity": 651,
   "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 163,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -177,6 +177,12 @@
     {
       "Time": "2024-03-12T03:59:10.0744369+00:00",
       "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-29T13:03:40.0684359+00:00",
+      "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -24728,9 +24734,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
-  "LastChanged": "2024-03-12T03:59:10.0744366+00:00",
+  "LastChanged": "2024-05-29T13:03:40.0684357+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:40.7521255+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:58:29.0455615+00:00",
-  "LastUpdate_Ratings": "2024-05-29T11:00:25.9926578+00:00",
+  "LastUpdate_Ratings": "2024-05-29T13:03:40.068437+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:40.7522504+00:00"
 }

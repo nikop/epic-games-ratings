@@ -1,7 +1,7 @@
 # Shenmue III - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/shenmue-3)  
 [View Rawdata](../../db/s/shenmue_iii_-_standard_edition.json)  
-Rating: 4.23 (Ranked 1,015)  
+Rating: 4.23 (Ranked 1,016)  
 Number of Ratings: 172  (23.09.2022)  
 ## Awards
 | Award | Count |
