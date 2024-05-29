@@ -4,7 +4,7 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 544,
   "Ranking_Popularity": 53,
-  "Ranking_PopularitySum": 64,
+  "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -14027,10 +14027,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 24399,
       "NumberOfAwardsMax": 9690
+    },
+    {
+      "Time": "2024-05-29T14:58:31.4873192+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 24412,
+      "NumberOfAwardsMax": 9690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24399,
+  "NumberOfAwards": 24412,
   "NumberOfAwardsMax": 9690,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14044,13 +14050,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6932
+      "Count": 6939
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1155
+      "Count": 1158
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14080,7 +14086,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1080
+      "Count": 1083
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14106,8 +14112,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-05-29T11:58:43.2300559+00:00",
+  "LastChanged": "2024-05-29T14:58:31.487319+00:00",
   "LastUpdate_AppInfo": "2024-05-26T07:57:16.4098638+00:00",
-  "LastUpdate_Ratings": "2024-05-29T13:05:03.531609+00:00",
+  "LastUpdate_Ratings": "2024-05-29T14:58:31.4873198+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:56.5890805+00:00"
 }
