@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 1062,
+  "Ranking_Rating": 1063,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 194,
@@ -4303,10 +4303,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 2217,
       "NumberOfAwardsMax": 496
+    },
+    {
+      "Time": "2024-05-29T10:57:23.8821944+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 2219,
+      "NumberOfAwardsMax": 496
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2217,
+  "NumberOfAwards": 2219,
   "NumberOfAwardsMax": 496,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4350,7 +4356,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 267
+      "Count": 269
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15457,9 +15463,9 @@
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-05-29T05:58:02.1725982+00:00",
+  "LastChanged": "2024-05-29T10:57:23.8821942+00:00",
   "LastChanged_Achievements": "2024-05-13T20:05:21.4358154+00:00",
   "LastUpdate_AppInfo": "2024-05-23T22:57:15.641218+00:00",
-  "LastUpdate_Ratings": "2024-05-29T08:58:47.3102593+00:00",
+  "LastUpdate_Ratings": "2024-05-29T10:57:23.8821947+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:21.4358902+00:00"
 }
