@@ -172,8 +172,8 @@
 | 170 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 1,102 | 4.40 | 829 |
 | 171 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,098 | 4.56 | 544 |
 | 172 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 1,079 | 4.51 | 631 |
-| 173 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,070 | 4.80 | 98 |
-| 174 | [Ooblets](games/o/ooblets.md) | 1,060 | 4.88 | 17 |
+| 173 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,071 | 4.80 | 98 |
+| 174 | [Ooblets](games/o/ooblets.md) | 1,062 | 4.88 | 17 |
 | 175 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,051 | 4.24 | 1,004 |
 | 176 | [FAR CRY 4](games/f/far_cry_4.md) | 1,033 | 4.67 | 300 |
 | 177 | [Dishonored 2](games/d/dishonored_2.md) | 1,029 | 4.77 | 126 |
@@ -300,7 +300,7 @@
 | 298 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 277 | 4.43 | 776 |
 | 299 | [Crysis Remastered](games/c/crysis_remastered.md) | 276 | 4.43 | 776 |
 | 300 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 274 | 4.70 | 229 |
-| 301 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 269 | 4.52 | 613 |
+| 301 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 271 | 4.52 | 613 |
 | 302 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 261 | 4.42 | 800 |
 | 302 | [Stranded Deep](games/s/stranded_deep.md) | 261 | 4.22 | 1,023 |
 | 304 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 256 | 4.83 | 59 |
@@ -351,16 +351,16 @@
 | 348 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 182 | 4.79 | 108 |
 | 350 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 181 | 4.28 | 960 |
 | 350 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 181 | 3.47 | 1,192 |
+| 352 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 180 | 4.28 | 960 |
 | 352 | [SYNCED](games/s/synced.md) | 180 | 4.09 | 1,109 |
 | 352 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 180 | 4.23 | 1,015 |
-| 354 | [Cris Tales](games/c/cris_tales.md) | 179 | 4.36 | 879 |
-| 355 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 177 | 4.86 | 30 |
-| 356 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 1,067 |
-| 357 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 175 | 4.36 | 879 |
-| 358 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 174 | 4.38 | 858 |
-| 359 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 173 | 4.77 | 126 |
-| 359 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 960 |
-| 361 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 170 | 4.28 | 960 |
+| 355 | [Cris Tales](games/c/cris_tales.md) | 179 | 4.36 | 879 |
+| 356 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 177 | 4.86 | 30 |
+| 357 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 1,067 |
+| 358 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 175 | 4.36 | 879 |
+| 359 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 174 | 4.38 | 858 |
+| 360 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 173 | 4.77 | 126 |
+| 360 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 960 |
 | 362 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 168 | 4.40 | 829 |
 | 363 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 166 | 4.85 | 36 |
 | 364 | [First Class Trouble](games/f/first_class_trouble.md) | 165 | 4.47 | 702 |
