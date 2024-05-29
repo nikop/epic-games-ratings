@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | - |  | - | - |
+| [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | - |  | - | 0 |
 | [Knight Swap](games/d/d62ad943ddbb4d0b8aa4969f31260bc5.md) | 2024-05-29 | - |  | - | - |
 | [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | - |  | - | - |
 | [1001 Jigsaw. Cute Cats 2](games/1/1f631325713047fc8ec24312c5516155.md) | 2024-05-29 | - |  | - | - |
@@ -65,9 +65,9 @@
 | [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2024-05-11 | - |  | - | - |
 | [Garten of Banban 7](games/1/1e3a55074a2b486a8c75dc34feab3b5e.md) | 2024-05-11 | - |  | - | 0 |
 | [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |
-| [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2024-05-10 | - |  | 4.41 | 0 |
+| [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2024-05-10 | - |  | 4.40 | 0 |
 | [Ivorfall](games/b/be715805f0dd4c63b83491a84413cf81.md) | 2024-05-10 | - |  | - | 0 |
-| [Viking Rise: Valhalla](games/b/bcca452821c54464bc2cf64458de387e.md) | 2024-05-10 | - |  | 4.00 | 0 |
+| [Viking Rise: Valhalla](games/b/bcca452821c54464bc2cf64458de387e.md) | 2024-05-10 | - |  | 3.77 | 0 |
 | [Revenge of Sardine](games/8/894b17f2131c4a38b2c43b50621730cc.md) | 2024-05-10 | - |  | - | - |
 | [Trigger Tennis](games/0/0ec12dcb698d4b0ba999f94a710eaba3.md) | 2024-05-09 | - |  | - | - |
 | [A Way Out](games/4/4090664cbdc2403c8e3331989bc8c072.md) | 2024-05-09 | - |  | - | 0 |
