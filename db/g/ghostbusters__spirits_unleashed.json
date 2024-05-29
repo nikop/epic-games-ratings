@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 613,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 268,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 154,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.52,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -5455,10 +5455,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 3327,
       "NumberOfAwardsMax": 372
+    },
+    {
+      "Time": "2024-05-29T06:59:41.7220665+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 3328,
+      "NumberOfAwardsMax": 372
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3327,
+  "NumberOfAwards": 3328,
   "NumberOfAwardsMax": 372,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5478,7 +5484,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 309
+      "Count": 310
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -28375,9 +28381,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-05-26T21:00:17.2831035+00:00",
+  "LastChanged": "2024-05-29T06:59:41.7220664+00:00",
   "LastChanged_Achievements": "2024-04-10T06:07:17.0547263+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:25.3033773+00:00",
-  "LastUpdate_Ratings": "2024-05-29T05:57:59.0579934+00:00",
+  "LastUpdate_Ratings": "2024-05-29T06:59:41.7220669+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:17.0548514+00:00"
 }
