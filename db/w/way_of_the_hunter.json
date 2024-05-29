@@ -3,7 +3,7 @@
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 799,
-  "Ranking_Popularity": 432,
+  "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 416,
@@ -2505,11 +2505,17 @@
       "Rating": 4.42,
       "NumberOfAwards": 634,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-05-29T18:57:52.6097269+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 635,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 634,
-  "NumberOfAwardsMax": 96,
+  "NumberOfAwards": 635,
+  "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2522,7 +2528,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7175,9 +7181,9 @@
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2024-05-29T16:59:34.4809531+00:00",
+  "LastChanged": "2024-05-29T18:57:52.6097267+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:27.5505742+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:29.2951103+00:00",
-  "LastUpdate_Ratings": "2024-05-29T16:59:34.4809537+00:00",
+  "LastUpdate_Ratings": "2024-05-29T18:57:52.6097271+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:27.5506045+00:00"
 }
