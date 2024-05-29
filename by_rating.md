@@ -166,7 +166,7 @@
 | 154 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,355 | 28 |
 | 154 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 651 |
 | 154 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 107 | 412 |
-| 154 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 534 | 237 |
+| 154 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 535 | 237 |
 | 154 | [Townscaper](games/t/townscaper.md) | 4.75 | 0 | 651 |
 | 169 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.74 | 520 | 240 |
 | 169 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 87 | 448 |
@@ -446,7 +446,7 @@
 | 424 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,136 | 164 |
 | 424 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.61 | 0 | 651 |
 | 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,874 | 65 |
-| 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 616 | 228 |
+| 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 618 | 228 |
 | 424 | [The Invincible](games/t/the_invincible.md) | 4.61 | 0 | 651 |
 | 424 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 681 | 218 |
 | 424 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 5,771 | 83 |
@@ -454,8 +454,8 @@
 | 424 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 438 |
 | 424 | [Warframe](games/w/warframe.md) | 4.61 | 24,157 | 23 |
 | 424 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 878 | 194 |
-| 424 | [Witchfire](games/w/witchfire.md) | 4.61 | 146 | 376 |
-| 456 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 953 | 187 |
+| 424 | [Witchfire](games/w/witchfire.md) | 4.61 | 147 | 375 |
+| 456 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 955 | 187 |
 | 456 | [Aimlabs](games/a/aimlabs.md) | 4.60 | 150 | 373 |
 | 456 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.60 | 0 | 651 |
 | 456 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 18,000 | 25 |
@@ -489,7 +489,7 @@
 | 476 | [NORCO](games/n/norco.md) | 4.59 | 0 | 651 |
 | 476 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.59 | 0 | 651 |
 | 476 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 232 | 319 |
-| 476 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 344 | 275 |
+| 476 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 346 | 274 |
 | 476 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 31 | 583 |
 | 476 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 36 | 556 |
 | 476 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 550 | 234 |
@@ -554,7 +554,7 @@
 | 544 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 46 | 529 |
 | 544 | [Horace](games/h/horace.md) | 4.56 | 0 | 651 |
 | 544 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 651 |
-| 544 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,762 | 91 |
+| 544 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,768 | 91 |
 | 544 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.56 | 9,690 | 53 |
 | 544 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 4.56 | 785 | 202 |
 | 544 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,872 | 135 |
@@ -696,7 +696,7 @@
 | 689 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 651 |
 | 689 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 282 | 295 |
 | 689 | [Figment](games/f/figment.md) | 4.48 | 21 | 641 |
-| 689 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,152 | 98 |
+| 689 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,158 | 98 |
 | 689 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 651 |
 | 689 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 651 |
 | 689 | [The Medium](games/t/the_medium.md) | 4.48 | 0 | 651 |
@@ -760,12 +760,13 @@
 | 752 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 77,278 | 11 |
 | 752 | [ELEX](games/e/elex.md) | 4.44 | 28 | 596 |
 | 752 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 119 | 399 |
-| 752 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,405 | 31 |
+| 752 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,417 | 31 |
 | 752 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 651 |
 | 752 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.44 | 0 | 651 |
 | 752 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 95 | 435 |
 | 752 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.44 | 0 | 651 |
 | 752 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.44 | 0 | 651 |
+| 752 | [OUTRIDERS](games/o/outriders.md) | 4.44 | 1,610 | 145 |
 | 752 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 651 |
 | 752 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 651 |
 | 752 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 835,778 | 2 |
@@ -775,30 +776,29 @@
 | 752 | [The Surge](games/t/the_surge.md) | 4.44 | 36 | 556 |
 | 752 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 302 | 288 |
 | 752 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 28 | 596 |
-| 776 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.43 | 29 | 592 |
-| 776 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 393 | 264 |
-| 776 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 276 | 299 |
-| 776 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 79 | 459 |
-| 776 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 0 | 651 |
-| 776 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.43 | 0 | 651 |
-| 776 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.43 | 0 | 651 |
-| 776 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 651 |
-| 776 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 651 |
-| 776 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 4.43 | 0 | 651 |
-| 776 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.43 | 0 | 651 |
-| 776 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.43 | 20 | 646 |
-| 776 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,608 | 145 |
-| 776 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 651 |
-| 776 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 651 |
-| 776 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 651 |
-| 776 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 651 |
-| 776 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.43 | 277 | 298 |
-| 776 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.43 | 0 | 651 |
-| 776 | [Tunche](games/t/tunche.md) | 4.43 | 35 | 562 |
-| 776 | [Warpips](games/w/warpips.md) | 4.43 | 54 | 507 |
-| 776 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 4.43 | 0 | 651 |
-| 776 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.43 | 33 | 574 |
-| 776 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 60 | 491 |
+| 777 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.43 | 29 | 592 |
+| 777 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 393 | 264 |
+| 777 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 276 | 299 |
+| 777 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 79 | 459 |
+| 777 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.43 | 0 | 651 |
+| 777 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.43 | 0 | 651 |
+| 777 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.43 | 0 | 651 |
+| 777 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 651 |
+| 777 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 651 |
+| 777 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 4.43 | 0 | 651 |
+| 777 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.43 | 0 | 651 |
+| 777 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.43 | 20 | 646 |
+| 777 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 651 |
+| 777 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.43 | 0 | 651 |
+| 777 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 651 |
+| 777 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 651 |
+| 777 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.43 | 277 | 298 |
+| 777 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.43 | 0 | 651 |
+| 777 | [Tunche](games/t/tunche.md) | 4.43 | 35 | 562 |
+| 777 | [Warpips](games/w/warpips.md) | 4.43 | 54 | 507 |
+| 777 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 4.43 | 0 | 651 |
+| 777 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.43 | 33 | 574 |
+| 777 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 60 | 491 |
 | 800 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 641 |
 | 800 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.42 | 0 | 651 |
 | 800 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.42 | 0 | 651 |
@@ -845,7 +845,7 @@
 | 829 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 465 |
 | 829 | [Sail Forth](games/s/sail_forth.md) | 4.40 | 28 | 596 |
 | 829 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 605 | 230 |
-| 829 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.40 | 732 | 208 |
+| 829 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.40 | 735 | 208 |
 | 829 | [Star Stable Online](games/s/star_stable_online.md) | 4.40 | 217 | 327 |
 | 848 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 651 |
 | 848 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.39 | 399 | 263 |
@@ -870,7 +870,7 @@
 | 858 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.38 | 76 | 465 |
 | 858 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 376 | 267 |
 | 858 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 651 |
-| 858 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 644 | 221 |
+| 858 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.38 | 646 | 221 |
 | 872 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.37 | 0 | 651 |
 | 872 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.37 | 0 | 651 |
 | 872 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.37 | 0 | 651 |
@@ -896,6 +896,7 @@
 | 890 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 210 | 331 |
 | 890 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 4.35 | 33 | 574 |
 | 890 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 651 |
+| 890 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.35 | 45 | 531 |
 | 890 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 651 |
 | 890 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 284 | 294 |
 | 890 | [Speed Brawl](games/s/speed_brawl.md) | 4.35 | 30 | 589 |
@@ -903,19 +904,18 @@
 | 890 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.35 | 53 | 513 |
 | 890 | [The Riflemen](games/t/the_riflemen.md) | 4.35 | 0 | 651 |
 | 890 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.35 | 33 | 574 |
-| 904 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 651 |
-| 904 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 0 | 651 |
-| 904 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 606 |
-| 904 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 651 |
-| 904 | [Core](games/c/core.md) | 4.34 | 812 | 199 |
-| 904 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 58 | 496 |
-| 904 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.34 | 0 | 651 |
-| 904 | [Hammerting](games/h/hammerting.md) | 4.34 | 0 | 651 |
-| 904 | [House Party](games/h/house_party.md) | 4.34 | 0 | 651 |
-| 904 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 45 | 531 |
-| 904 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.34 | 95 | 435 |
-| 904 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 651 |
-| 904 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 672 | 219 |
+| 905 | [Among Trees](games/a/among_trees.md) | 4.34 | 0 | 651 |
+| 905 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.34 | 0 | 651 |
+| 905 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 606 |
+| 905 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 651 |
+| 905 | [Core](games/c/core.md) | 4.34 | 812 | 199 |
+| 905 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.34 | 58 | 496 |
+| 905 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.34 | 0 | 651 |
+| 905 | [Hammerting](games/h/hammerting.md) | 4.34 | 0 | 651 |
+| 905 | [House Party](games/h/house_party.md) | 4.34 | 0 | 651 |
+| 905 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.34 | 95 | 435 |
+| 905 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 651 |
+| 905 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 672 | 219 |
 | 917 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 651 |
 | 917 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 651 |
 | 917 | [Filament](games/f/filament.md) | 4.33 | 603 | 231 |
@@ -1042,7 +1042,7 @@
 | 1,038 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 133 | 384 |
 | 1,038 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.20 | 528 | 239 |
 | 1,038 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 565 |
-| 1,038 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,425 | 73 |
+| 1,038 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,435 | 73 |
 | 1,038 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.20 | 0 | 651 |
 | 1,038 | [RiMS Racing](games/r/rims_racing.md) | 4.20 | 0 | 651 |
 | 1,038 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.20 | 0 | 651 |
@@ -1113,7 +1113,7 @@
 | 1,109 | [SYNCED](games/s/synced.md) | 4.09 | 180 | 352 |
 | 1,109 | [The Front](games/t/the_front.md) | 4.09 | 29 | 592 |
 | 1,109 | [The World Next Door](games/t/the_world_next_door.md) | 4.09 | 0 | 651 |
-| 1,114 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 146 | 376 |
+| 1,114 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 146 | 377 |
 | 1,114 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 346 |
 | 1,114 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 235 | 317 |
 | 1,114 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 651 |
@@ -1125,13 +1125,13 @@
 | 1,123 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 651 |
 | 1,123 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.05 | 625 | 224 |
 | 1,125 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 651 |
+| 1,125 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 4.04 | 0 | 651 |
 | 1,125 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.04 | 0 | 651 |
 | 1,125 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 4.04 | 0 | 651 |
-| 1,128 | [Armored Warfare](games/a/armored_warfare.md) | 4.03 | 128 | 390 |
-| 1,128 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 4.03 | 0 | 651 |
-| 1,128 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.03 | 0 | 651 |
-| 1,128 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.03 | 26 | 614 |
-| 1,128 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 651 |
+| 1,129 | [Armored Warfare](games/a/armored_warfare.md) | 4.03 | 128 | 390 |
+| 1,129 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.03 | 0 | 651 |
+| 1,129 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.03 | 26 | 614 |
+| 1,129 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 651 |
 | 1,133 | [The First Tree](games/t/the_first_tree.md) | 4.02 | 0 | 651 |
 | 1,134 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 651 |
 | 1,134 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 10,636 | 49 |

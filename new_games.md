@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [1001 Jigsaw. Cute Cats 2](games/1/1f631325713047fc8ec24312c5516155.md) | 2024-05-29 | - |  | - | - |
-| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,762 |
+| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,768 |
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2024-05-28 | - |  | - | - |
 | [Argonauts Agency 3: Chair of Hephaestus](games/2/29b93abfbd7c4e028999d69deeb9b16d.md) | 2024-05-27 | - |  | - | 0 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | - |  | - | - |
