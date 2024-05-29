@@ -51,12 +51,12 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-03-21 | 773 | 0 |
 | 2024-04-10 | 1,246 | 0 |
 ## Awards
-Max (Amazing Storytelling): 53  (Ranked 511)  
-Sum: 361 (Ranked 409)  
-Diff (max vs sum): 102  
+Max (Amazing Storytelling): 54  (Ranked 507)  
+Sum: 362 (Ranked 407)  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Storytelling | 53 |
+| This game has Amazing Storytelling | 54 |
 | This game is Relaxing | 51 |
 | This game has Diverse Characters | 49 |
 | This game is Extremely Fun | 45 |
@@ -205,3 +205,4 @@ Diff (max vs sum): 102
 | 2024-05-23 | 4.84 | - | 53 | 359 |
 | 2024-05-25 | 4.84 | - | 53 | 360 |
 | 2024-05-26 | 4.84 | - | 53 | 361 |
+| 2024-05-29 | 4.84 | - | 54 | 362 |

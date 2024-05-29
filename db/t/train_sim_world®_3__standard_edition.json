@@ -2,7 +2,7 @@
   "ID": "a64d4c5460384218b17de5bd785085f8",
   "Name": "Train Sim World\u00AE 3: Standard Edition",
   "ProductSlug": "train-sim-world-3",
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -3964,6 +3964,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 2776,
       "NumberOfAwardsMax": 419
+    },
+    {
+      "Time": "2024-05-29T09:57:26.5341203+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2776,
+      "NumberOfAwardsMax": 419
     }
   ],
   "ReviewsDisabled": false,
@@ -4056,8 +4062,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2024-05-26T20:57:19.8613881+00:00",
+  "LastChanged": "2024-05-29T09:57:26.5341201+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:45.6169067+00:00",
-  "LastUpdate_Ratings": "2024-05-29T07:58:47.6892737+00:00",
+  "LastUpdate_Ratings": "2024-05-29T09:57:26.5341207+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:15.8745445+00:00"
 }
