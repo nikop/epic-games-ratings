@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 154)
 Number of Ratings: 1,090  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 107  (Ranked 412)  
-Sum: 824 (Ranked 322)  
+Sum: 825 (Ranked 322)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 90
 | This game is Educational | 89 |
 | This game has Amazing Characters | 83 |
 | This game has Amazing Storytelling | 81 |
-| This game is Relaxing | 77 |
+| This game is Relaxing | 78 |
 | This game is Extremely Fun | 74 |
 | This game has a Creative Community | 40 |
 ## Ratings History
@@ -265,3 +265,4 @@ Diff (max vs sum): 90
 | 2024-05-25 | 4.75 | - | 107 | 822 |
 | 2024-05-27 | 4.75 | - | 107 | 823 |
 | 2024-05-28 | 4.75 | - | 107 | 824 |
+| 2024-05-29 | 4.75 | - | 107 | 825 |
