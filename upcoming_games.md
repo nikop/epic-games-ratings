@@ -9,7 +9,6 @@
 | [Reliefs The Time of the Lemures](games/3/3184fa4f95ff42e48853f3f16de47fce.md) | 2024-05-30 | - |  | - | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-05-31 | - |  | - | - |
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | - |  | - | - |
-| [EARLY ACCESS: What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-05-31 | - |  | - | - |
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 18 | - | - |
 | [INDIKA](games/d/d28938c1044945239079d371d545e5c7.md) | 2024-05-31 | - |  | - | - |
@@ -32,6 +31,7 @@
 | [Still Wakes The Deep](games/a/a2100103ee894b96826d1c1ce2bae4c9.md) | 2024-06-18 | - |  | - | - |
 | [Workers & Resources: Soviet Republic](games/f/f5fdb08368b845aa9c27df5cb6995a24.md) | 2024-06-20 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-06-27 | - |  | - | - |
+| [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2024-06-28 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2024-06-30 | - |  | - | - |
 | [Asylum Revenge](games/4/4aa01217f1cc4e53923d81738de0859b.md) | 2024-06-30 | - |  | - | - |
@@ -39,9 +39,9 @@
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-30 | - |  | - | - |
 | [ChronoForge](games/3/3347fc952acb48f1a4cbd0896e1316dc.md) | 2024-06-30 | - |  | - | - |
 | [City of Graves](games/8/822ebd51d45941ab945ccd4b124938c2.md) | 2024-06-30 | - |  | - | - |
-| [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2024-06-30 | - |  | - | - |
 | [Colorgrid](games/3/37986e23d96545498b42f60c3198b6d3.md) | 2024-06-30 | - |  | - | - |
 | [Departed Away](games/8/8fb3b92706e84e07ad8b2804599b6677.md) | 2024-06-30 | - |  | - | - |
+| [EARLY ACCESS: What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-06-30 | - |  | - | - |
 | [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-06-30 | - |  | - | - |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-06-30 | - |  | - | - |
 | [Flashback 2](games/f/flashback_2.md) | 2024-06-30 | - |  | - | - |
