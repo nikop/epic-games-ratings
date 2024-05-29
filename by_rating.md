@@ -160,10 +160,10 @@
 | 154 | [Fez](games/f/fez.md) | 4.75 | 26 | 614 |
 | 154 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,693 | 143 |
 | 154 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 651 |
-| 154 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,384 | 67 |
+| 154 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,397 | 67 |
 | 154 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 651 |
 | 154 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.75 | 30 | 589 |
-| 154 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,350 | 28 |
+| 154 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,355 | 28 |
 | 154 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 651 |
 | 154 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 107 | 412 |
 | 154 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 534 | 237 |
@@ -327,7 +327,7 @@
 | 325 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,800 | 101 |
 | 325 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.66 | 0 | 651 |
 | 325 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 103 | 417 |
-| 325 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 324 | 281 |
+| 325 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.66 | 325 | 281 |
 | 325 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 8,044 | 63 |
 | 325 | [Crashlands](games/c/crashlands.md) | 4.66 | 203 | 336 |
 | 325 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 194 | 342 |
@@ -445,7 +445,7 @@
 | 424 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,427 | 46 |
 | 424 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,136 | 164 |
 | 424 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.61 | 0 | 651 |
-| 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,873 | 65 |
+| 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,874 | 65 |
 | 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 616 | 228 |
 | 424 | [The Invincible](games/t/the_invincible.md) | 4.61 | 0 | 651 |
 | 424 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 681 | 218 |
@@ -516,7 +516,7 @@
 | 495 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 136 | 382 |
 | 495 | [Tails of Iron](games/t/tails_of_iron.md) | 4.58 | 22 | 633 |
 | 495 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 222 | 324 |
-| 495 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 7,065 | 69 |
+| 495 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 7,069 | 69 |
 | 495 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 746 | 205 |
 | 495 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 151 | 372 |
 | 495 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,902 | 34 |
@@ -598,7 +598,7 @@
 | 583 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.54 | 0 | 651 |
 | 583 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 651 |
 | 598 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 651 |
-| 598 | [Dauntless](games/d/dauntless.md) | 4.53 | 29,402 | 20 |
+| 598 | [Dauntless](games/d/dauntless.md) | 4.53 | 29,421 | 20 |
 | 598 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 548 |
 | 598 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 28 | 596 |
 | 598 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.53 | 38 | 551 |
