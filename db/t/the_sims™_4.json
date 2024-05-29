@@ -3,7 +3,7 @@
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
   "Ranking_Rating": 424,
-  "Ranking_Popularity": 83,
+  "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -17411,11 +17411,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 26558,
       "NumberOfAwardsMax": 5771
+    },
+    {
+      "Time": "2024-05-29T22:59:13.5735461+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 27004,
+      "NumberOfAwardsMax": 5990
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26558,
-  "NumberOfAwardsMax": 5771,
+  "NumberOfAwards": 27004,
+  "NumberOfAwardsMax": 5990,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -17428,13 +17434,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5771
+      "Count": 5990
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4462
+      "Count": 4630
     },
     {
       "Text": "This game has a Creative Community",
@@ -17464,7 +17470,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2106
+      "Count": 2165
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17505,9 +17511,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-05-29T20:59:56.4865589+00:00",
+  "LastChanged": "2024-05-29T22:59:13.5735459+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:11.7808177+00:00",
   "LastUpdate_AppInfo": "2024-05-26T07:57:12.0796645+00:00",
-  "LastUpdate_Ratings": "2024-05-29T20:59:56.4865594+00:00",
+  "LastUpdate_Ratings": "2024-05-29T22:59:13.5735465+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:11.7808251+00:00"
 }

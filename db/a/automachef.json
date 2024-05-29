@@ -3,8 +3,8 @@
   "Name": "Automachef",
   "ProductSlug": "automachef",
   "Ranking_Rating": 905,
-  "Ranking_Popularity": 606,
-  "Ranking_PopularitySum": 536,
+  "Ranking_Popularity": 596,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -630,18 +630,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 92,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-05-29T22:58:24.8583253+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 92,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 93,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game is Highly Recommended",
@@ -673,8 +679,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
-  "LastChanged": "2024-04-29T02:19:57.2444554+00:00",
+  "LastChanged": "2024-05-29T22:58:24.8583252+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:14.5887675+00:00",
-  "LastUpdate_Ratings": "2024-05-29T20:59:07.4173376+00:00",
+  "LastUpdate_Ratings": "2024-05-29T22:58:24.8583257+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:52.5616845+00:00"
 }

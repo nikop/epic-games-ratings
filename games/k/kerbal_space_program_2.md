@@ -4,7 +4,7 @@
 Rating: 4.33 (Ranked 917)  
 ## Awards
 Max (Educational): 100  (Ranked 426)  
-Sum: 666 (Ranked 346)  
+Sum: 667 (Ranked 346)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 80
 | This game is Highly Recommended | 89 |
 | This game has Amazing Characters | 86 |
 | This game is Extremely Fun | 76 |
-| This game has Quickly Understood Controls | 75 |
+| This game has Quickly Understood Controls | 76 |
 | This game has a Creative Community | 72 |
 | This game has Amazing Storytelling | 69 |
 | This game has Diverse Characters | 44 |
@@ -273,4 +273,4 @@ Diff (max vs sum): 80
 | 2024-05-25 | 4.33 | 99 | 658 |
 | 2024-05-26 | 4.33 | 99 | 661 |
 | 2024-05-27 | 4.33 | 99 | 663 |
-| 2024-05-29 | 4.33 | 100 | 666 |
+| 2024-05-29 | 4.33 | 100 | 667 |
