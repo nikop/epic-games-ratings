@@ -3,8 +3,8 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 36,
-  "Ranking_Popularity": 503,
-  "Ranking_PopularitySum": 570,
+  "Ranking_Popularity": 499,
+  "Ranking_PopularitySum": 568,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 25,
@@ -409,18 +409,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 56,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-05-30T01:49:52.7074933+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 57,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56,
-  "NumberOfAwardsMax": 56,
+  "NumberOfAwards": 57,
+  "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 56
+      "Count": 57
     }
   ],
   "EOS_Progressed": 18993,
@@ -14144,9 +14150,9 @@
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
-  "LastChanged": "2024-05-20T15:59:54.0588969+00:00",
+  "LastChanged": "2024-05-30T01:49:52.7074931+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:40.1265616+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:07.379147+00:00",
-  "LastUpdate_Ratings": "2024-05-29T23:57:50.4396059+00:00",
+  "LastUpdate_Ratings": "2024-05-30T01:49:52.7074937+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:40.1266669+00:00"
 }

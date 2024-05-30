@@ -2,7 +2,7 @@
   "ID": "98bcea8e884042acb6a356c774f7af1a",
   "Name": "Wall World",
   "ProductSlug": "wall-world-02e132",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 654,
   "Ranking_Popularity": 651,
   "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-04-06T01:56:16.0671255+00:00",
@@ -209,6 +209,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-30T01:49:14.1482119+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -227,8 +233,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-06T01:56:16.0671216+00:00",
   "FirstSeenRating": "2023-04-06T01:56:16.0671254+00:00",
-  "LastChanged": "2024-05-22T23:59:52.3402266+00:00",
+  "LastChanged": "2024-05-30T01:49:14.1482116+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:58:54.4573383+00:00",
-  "LastUpdate_Ratings": "2024-05-29T23:01:18.362907+00:00",
+  "LastUpdate_Ratings": "2024-05-30T01:49:14.1482124+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:21.4954919+00:00"
 }
