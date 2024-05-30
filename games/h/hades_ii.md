@@ -3,8 +3,8 @@
 [View Rawdata](../../db/h/hades_ii.json)  
 Rating: 4.90 (Ranked 8)  
 ## Awards
-Max (Character Customization): 64  (Ranked 483)  
-Sum: 113 (Ranked 516)  
+Max (Character Customization): 64  (Ranked 482)  
+Sum: 113 (Ranked 515)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
