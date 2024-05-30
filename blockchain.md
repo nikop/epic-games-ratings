@@ -63,7 +63,7 @@
 | [Asilium](games/3/3e940b5a368a403db6c3920d22000705.md) | 2024-05-24 | - |  | - | 0 |
 | [MetaStrike](games/9/9bc9fd0e71724d60901f07738a5462a6.md) | 2024-05-21 | - |  | - | 0 |
 | [Solars Dominion](games/0/0c71144a77c14ac9a7d796a4821c8cf8.md) | 2024-05-19 | - |  | - | 0 |
-| [FuseWars](games/b/bcaf5657e1b440098c0672be0406b274.md) | 2024-05-15 | - |  | - | - |
+| [FuseWars](games/b/bcaf5657e1b440098c0672be0406b274.md) | 2024-05-15 | - |  | - | 0 |
 | [Redline](games/6/605a466d713147fdaa8c06d008d31101.md) | 2024-05-03 | - |  | - | 0 |
 | [Storm Warfare](games/a/a6cce5235d144efbb511ecb062b26013.md) | 2024-05-01 | - |  | - | 0 |
 | [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2024-04-30 | - |  | - | 0 |
@@ -120,7 +120,7 @@
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | 4.38 | 286 |
 | [Kode Zero](games/d/dc4c4be805e344a4bab504dc2c2a526d.md) | 2023-09-12 | - |  | - | 0 |
 | [The Moshpit Tournament](games/2/2d9bae7960d34288b85d26ed3196d90d.md) | 2023-09-10 | - |  | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 53,619 | 4.33 | 333 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 53,619 | 4.32 | 333 |
 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 2023-08-30 | - |  | 4.26 | 0 |
 | [Meta NANOs: Rumble Race](games/d/d1dd254226e84377a6cf930e37726333.md) | 2023-08-30 | - |  | - | 0 |
 | [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2023-08-21 | - |  | - | 0 |
