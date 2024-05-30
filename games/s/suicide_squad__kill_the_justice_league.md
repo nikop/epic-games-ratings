@@ -64,13 +64,14 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-10 | 604 | 0 |
 ## Awards
 Max (Great Boss Battles): 189  (Ranked 345)  
-Sum: 255 (Ranked 453)  
-Diff (max vs sum): -108  
+Sum: 276 (Ranked 443)  
+Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 189 |
 | This game is Great for Beginners | 23 |
 | This game has Diverse Characters | 23 |
+| This game is Extremely Fun | 21 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -124,4 +125,4 @@ Diff (max vs sum): -108
 | 2024-05-27 | 4.27 | 168 | 212 |
 | 2024-05-28 | 4.28 | 170 | 214 |
 | 2024-05-29 | 4.28 | 180 | 226 |
-| 2024-05-30 | 4.28 | 189 | 255 |
+| 2024-05-30 | 4.28 | 189 | 276 |
