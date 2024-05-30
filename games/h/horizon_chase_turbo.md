@@ -1,7 +1,7 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.55 (Ranked 563)  
+Rating: 4.54 (Ranked 583)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -734,3 +734,4 @@ Diff (max vs sum): 86
 | 2024-05-26 | 4.55 | - | 211 | 1,801 |
 | 2024-05-28 | 4.55 | - | 211 | 1,802 |
 | 2024-05-29 | 4.55 | - | 211 | 1,803 |
+| 2024-05-30 | 4.54 | - | 211 | 1,803 |
