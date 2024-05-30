@@ -5,8 +5,8 @@ Rating: 4.57 (Ranked 522)
 Number of Ratings: 1,941  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 57  (Ranked 499)  
-Sum: 490 (Ranked 377)  
-Diff (max vs sum): 122  
+Sum: 490 (Ranked 378)  
+Diff (max vs sum): 121  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 57 |

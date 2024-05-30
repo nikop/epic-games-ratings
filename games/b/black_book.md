@@ -216,8 +216,8 @@ Completed: 93 (0.12%) (Ranked 353)
 | 2024-04-10 | 79,040 | 93 |
 ## Awards
 Max (Extremely Fun): 24  (Ranked 622)  
-Sum: 65 (Ranked 556)  
-Diff (max vs sum): 66  
+Sum: 65 (Ranked 557)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 126 |

@@ -4,8 +4,8 @@
 Rating: 4.28 (Ranked 961)  
 ## Awards
 Max (Great for Beginners): 74  (Ranked 468)  
-Sum: 490 (Ranked 377)  
-Diff (max vs sum): 91  
+Sum: 490 (Ranked 378)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 74 |
