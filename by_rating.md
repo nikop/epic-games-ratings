@@ -114,7 +114,7 @@
 | 108 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 629 |
 | 108 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,720 | 142 |
 | 108 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 974 | 181 |
-| 108 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,964 | 111 |
+| 108 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,965 | 111 |
 | 108 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 444 | 253 |
 | 108 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 125 | 394 |
 | 108 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 0 | 651 |
@@ -148,7 +148,7 @@
 | 144 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,601 | 104 |
 | 144 | [Journey](games/j/journey.md) | 4.76 | 0 | 651 |
 | 144 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,571 | 116 |
-| 144 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,843 | 137 |
+| 144 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,844 | 137 |
 | 144 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 651 |
 | 144 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 651 |
 | 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 221 | 326 |
@@ -256,7 +256,7 @@
 | 228 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 274 | 301 |
 | 228 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 651 |
 | 256 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 651 |
-| 256 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 134,042 | 9 |
+| 256 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 134,088 | 9 |
 | 256 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 651 |
 | 256 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 138 | 381 |
 | 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,507 | 61 |
@@ -430,7 +430,7 @@
 | 424 | [BLACKTAIL](games/b/blacktail.md) | 4.61 | 0 | 651 |
 | 424 | [Control](games/c/control.md) | 4.61 | 9,543 | 56 |
 | 424 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 246 | 310 |
-| 424 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 61,985 | 13 |
+| 424 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 62,050 | 13 |
 | 424 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.61 | 0 | 651 |
 | 424 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 162 | 366 |
 | 424 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 65 | 481 |
@@ -561,7 +561,7 @@
 | 544 | [Returnal™](games/r/returnal™.md) | 4.56 | 226 | 322 |
 | 544 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.56 | 0 | 651 |
 | 544 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,810 | 139 |
-| 544 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,164 | 76 |
+| 544 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,170 | 76 |
 | 563 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 0 | 651 |
 | 563 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 651 |
 | 563 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 386 | 266 |
@@ -662,7 +662,7 @@
 | 654 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 114 | 405 |
 | 654 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 651 |
 | 654 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 651 |
-| 654 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 160,234 | 8 |
+| 654 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 160,272 | 8 |
 | 654 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 125 | 394 |
 | 654 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 651 |
 | 654 | [Legend of Grimrock](games/l/legend_of_grimrock.md) | 4.50 | 0 | 651 |
@@ -762,7 +762,7 @@
 | 753 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 77,384 | 11 |
 | 753 | [ELEX](games/e/elex.md) | 4.44 | 28 | 597 |
 | 753 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 119 | 400 |
-| 753 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,417 | 31 |
+| 753 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,431 | 31 |
 | 753 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 651 |
 | 753 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.44 | 0 | 651 |
 | 753 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 95 | 435 |
@@ -1162,7 +1162,7 @@
 | 1,158 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.91 | 155 | 370 |
 | 1,158 | [True Reporter. Hidden Mistwood](games/f/f3cdd34e969744e3a60c38fbd1c29669.md) | 3.91 | 0 | 651 |
 | 1,162 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.90 | 0 | 651 |
-| 1,162 | [Saints Row](games/s/saints_row.md) | 3.90 | 1,267 | 154 |
+| 1,162 | [Saints Row](games/s/saints_row.md) | 3.90 | 1,268 | 154 |
 | 1,164 | [Warface: Clutch](games/w/warface.md) | 3.89 | 512 | 241 |
 | 1,165 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.88 | 63 | 486 |
 | 1,166 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.87 | 0 | 651 |
