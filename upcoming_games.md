@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [SOKOCAT - DUNGEON](games/7/7835e0cee5f244368043d0ba83528856.md) | 2024-05-30 | - |  | - | - |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | - |  | - | - |
 | [Reliefs The Time of the Lemures](games/3/3184fa4f95ff42e48853f3f16de47fce.md) | 2024-05-30 | - |  | - | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-05-31 | - |  | - | - |
@@ -462,6 +461,7 @@
 | [Moon Village Simulator](games/m/moon_village_simulator.md) | 2099-01-01 | - |  | - | - |
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2099-01-01 | - |  | - | - |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |
+| [Munch](games/c/c57260adb2684f23a4667a3692349d62.md) | 2099-01-01 | - |  | - | - |
 | [Munlay Online](games/c/c1c4ebf44f4e46c0be20c5741ddccade.md) | 2099-01-01 | - |  | - | - |
 | [Mushrooms: Forest Walker](games/m/mushrooms__forest_walker.md) | 2099-01-01 | - |  | - | - |
 | [Mutus Meteora](games/0/06a3d76750a1495d853e3067de19c377.md) | 2099-01-01 | - |  | - | - |
