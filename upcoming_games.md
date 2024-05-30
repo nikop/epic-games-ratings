@@ -156,8 +156,6 @@
 | [Dr. Finklestein's Marvelous Room](games/e/eee849a1ed424af5ae93554dd34fe980.md) | 2024-12-31 | - |  | - | - |
 | [Earth From Another Sun](games/1/1718f23d17c046398d8d248ec9b8f9d6.md) | 2024-12-31 | - |  | - | - |
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |
-| [Elders Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-12-31 | - |  | - | - |
-| [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-12-31 | - |  | - | - |
 | [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-12-31 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-12-31 | - |  | - | - |
 | [England In London](games/9/9a648ce6a6634184ad45f5fe3788a3c2.md) | 2024-12-31 | - |  | - | - |
@@ -236,6 +234,8 @@
 | [Big Walk](games/2/271473d449b34fa5825cd0c6af7ca728.md) | 2025-12-31 | - |  | - | - |
 | [DEPRISION](games/8/847d4e731fb146a590720e393f524df7.md) | 2025-12-31 | - |  | - | - |
 | [Dungeons Deep](games/9/99c180fe91034e829aeae9ec5d6b2ba2.md) | 2025-12-31 | - |  | - | - |
+| [Elders Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2025-12-31 | - |  | - | - |
+| [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2025-12-31 | - |  | - | - |
 | [Falling Frontier](games/f/falling_frontier.md) | 2025-12-31 | - |  | - | - |
 | [Federation](games/f/ff6f8be77181424abd51b0fc551da825.md) | 2025-12-31 | - |  | - | - |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2025-12-31 | 19 (1,000 XP) | 1 | - | - |

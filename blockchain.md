@@ -35,6 +35,7 @@
 | [War Thugz - Satoshi City](games/3/3015d993989f40269abf39559053efcd.md) | 2099-01-01 | - |  | - | - |
 | [Wild West Undead](games/d/d36ba9bed7b64c1caeebf444586a679d.md) | 2099-01-01 | - |  | - | - |
 | [Wilder World](games/3/373e41c357e942c382015b9cd2cb7390.md) | 2099-01-01 | - |  | - | - |
+| [Elders Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2025-12-31 | - |  | - | - |
 | [Revomon Novus](games/5/555331295ae1426b921b8919bfc38039.md) | 2025-12-31 | - |  | - | - |
 | [Valannia Arena](games/4/4706bb0e4a72425c8fbeea69d63acf1f.md) | 2025-06-30 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-12-31 | - |  | - | - |
@@ -44,7 +45,6 @@
 | [Coffee Town](games/a/a8b07df0c03c4a29992d60683e17cf84.md) | 2024-12-31 | - |  | - | - |
 | [Decimated](games/d/d37fcefd6be042c5a232b716ac56f118.md) | 2024-12-31 | - |  | - | - |
 | [Earth From Another Sun](games/1/1718f23d17c046398d8d248ec9b8f9d6.md) | 2024-12-31 | - |  | - | - |
-| [Elders Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2024-12-31 | - |  | - | - |
 | [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2024-12-31 | - |  | - | - |
 | [R3V3NGE](games/6/6beebb4d356a48118e607e2112bca45f.md) | 2024-12-31 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |

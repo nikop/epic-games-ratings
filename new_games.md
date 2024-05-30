@@ -65,7 +65,7 @@
 | [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2024-05-11 | - |  | - | - |
 | [Garten of Banban 7](games/1/1e3a55074a2b486a8c75dc34feab3b5e.md) | 2024-05-11 | - |  | - | 0 |
 | [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |
-| [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2024-05-10 | - |  | 4.41 | 0 |
+| [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 2024-05-10 | - |  | 4.42 | 0 |
 | [Ivorfall](games/b/be715805f0dd4c63b83491a84413cf81.md) | 2024-05-10 | - |  | - | 0 |
 | [Viking Rise: Valhalla](games/b/bcca452821c54464bc2cf64458de387e.md) | 2024-05-10 | - |  | 3.77 | 0 |
 | [Revenge of Sardine](games/8/894b17f2131c4a38b2c43b50621730cc.md) | 2024-05-10 | - |  | - | - |
@@ -117,16 +117,3 @@
 | [The Six Dragons](games/4/4bc5b2dfad714b379462cbbc06ea94ca.md) | 2024-04-30 | - |  | - | 0 |
 | [The Coma: Recut](games/c/c2161f5a91ad4bcca20febee10b9d113.md) | 2024-04-30 | - |  | - | 0 |
 | [The Inner World](games/0/04f5224e17fe40fb8cf28205397643fe.md) | 2024-04-30 | - |  | - | 0 |
-| [Chronicles of 2 Heroes: Amaterasu's Wrath](games/9/95205df41a9e4fc4bf91be327ea59070.md) | 2024-04-30 | - |  | - | - |
-| [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-04-30 | - |  | - | - |
-| [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | 14 (1,000 XP) | 7 | - | 0 |
-| [Dungeon Renovation Simulator](games/2/27dde2bf49304fc19badc32544a9105f.md) | 2024-04-30 | - |  | - | - |
-| [FusyFox](games/6/6308f89d537b47ea96dc02fb5a07518c.md) | 2024-04-30 | - |  | - | 0 |
-| [Goalgetter](games/7/7f3d1cc99606488c889a893f5b82762a.md) | 2024-04-30 | - |  | - | - |
-| [Gunshots in the barren hills](games/4/4aeb446ed8044b9bbdf98044832da06a.md) | 2024-04-30 | - |  | - | - |
-| [House](games/3/35ca779d351a4132b7bd12ff2bad615a.md) | 2024-04-30 | - |  | - | - |
-| [Match Three Pirates 2](games/9/99b0be691570460b8cfdc9282fc011ab.md) | 2024-04-30 | - |  | - | - |
-| [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
-| [Player Non Player](games/1/1b27521a313b4d05842a052cff892b91.md) | 2024-04-30 | - |  | - | - |
-| [Summer's Gone](games/4/451da11e3adf4275ace500815e0453fb.md) | 2024-04-30 | - |  | - | - |
-| [Womanizer](games/f/f5b1e856606c4990af9f705d1cd92623.md) | 2024-04-30 | - |  | - | 0 |
