@@ -2,7 +2,7 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania Starter Access",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 369,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 987,
@@ -21,7 +21,7 @@
       "partnerLinkType": "ubisoft"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.64,
   "NumberOfRatings": 6825,
   "RatingHistory": [
     {
@@ -20881,10 +20881,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 40173,
       "NumberOfAwardsMax": 5006
+    },
+    {
+      "Time": "2024-05-30T06:59:04.7301438+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 40174,
+      "NumberOfAwardsMax": 5006
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40173,
+  "NumberOfAwards": 40174,
   "NumberOfAwardsMax": 5006,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -20958,7 +20964,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2027
+      "Count": 2028
     }
   ],
   "EOS_Progressed": 0,
@@ -20972,8 +20978,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2024-05-29T21:57:58.8885779+00:00",
+  "LastChanged": "2024-05-30T06:59:04.7301436+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:58:26.1098244+00:00",
-  "LastUpdate_Ratings": "2024-05-30T05:57:26.8036848+00:00",
+  "LastUpdate_Ratings": "2024-05-30T06:59:04.7301443+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:04.4386038+00:00"
 }
