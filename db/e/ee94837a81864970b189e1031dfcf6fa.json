@@ -4,7 +4,7 @@
   "ProductSlug": "expeditions-a-mudrunner-game-e6bda2",
   "Ranking_Rating": 1062,
   "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 509,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 9,
@@ -570,10 +570,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 125,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-05-30T18:58:19.0860049+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 101,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 125,
+  "NumberOfAwards": 101,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -812,9 +818,9 @@
   "FirstSeen": "2024-03-05T17:58:37.8385796+00:00",
   "FirstSeenRating": "2024-03-07T12:58:57.6137618+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:52.4220924+00:00",
-  "LastChanged": "2024-05-30T15:58:15.9952991+00:00",
+  "LastChanged": "2024-05-30T18:58:19.0860047+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:42.4172243+00:00",
   "LastUpdate_AppInfo": "2024-05-24T05:56:59.3327917+00:00",
-  "LastUpdate_Ratings": "2024-05-30T17:00:53.6335446+00:00",
+  "LastUpdate_Ratings": "2024-05-30T18:58:19.0860053+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:42.4172378+00:00"
 }
