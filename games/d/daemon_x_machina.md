@@ -1,15 +1,15 @@
 # DAEMON X MACHINA
 [Store](https://store.epicgames.com/en-US/p/daemon-x-machina)  
 [View Rawdata](../../db/d/daemon_x_machina.json)  
-Rating: 4.40 (Ranked 831)  
+Rating: 4.40 (Ranked 832)  
 Number of Ratings: 2,096  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 1,103  (Ranked 170)  
-Sum: 1,630 (Ranked 260)  
+Max (Great Boss Battles): 1,104  (Ranked 170)  
+Sum: 1,631 (Ranked 260)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,103 |
+| This game has Great Boss Battles | 1,104 |
 | This game is Great for Beginners | 81 |
 | This game has Diverse Characters | 70 |
 | This game is Great for Quick Sessions | 65 |
@@ -253,3 +253,4 @@ Diff (max vs sum): -90
 | 2024-05-21 | 4.40 | - | 1,102 | 1,628 |
 | 2024-05-25 | 4.40 | - | 1,102 | 1,629 |
 | 2024-05-30 | 4.40 | - | 1,103 | 1,630 |
+| 2024-05-31 | 4.40 | - | 1,104 | 1,631 |

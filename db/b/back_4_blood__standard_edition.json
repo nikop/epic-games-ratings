@@ -4,7 +4,7 @@
   "ProductSlug": "back-4-blood",
   "Ranking_Rating": 720,
   "Ranking_Popularity": 93,
-  "Ranking_PopularitySum": 112,
+  "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -9786,18 +9786,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 10208,
       "NumberOfAwardsMax": 4674
+    },
+    {
+      "Time": "2024-05-31T21:57:49.5227598+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 10214,
+      "NumberOfAwardsMax": 4680
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10208,
-  "NumberOfAwardsMax": 4674,
+  "NumberOfAwards": 10214,
+  "NumberOfAwardsMax": 4680,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4674
+      "Count": 4680
     },
     {
       "Text": "This game is Relaxing",
@@ -9853,8 +9859,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2024-05-31T18:58:03.8085236+00:00",
+  "LastChanged": "2024-05-31T21:57:49.5227596+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:35.0523066+00:00",
-  "LastUpdate_Ratings": "2024-05-31T19:59:07.7980788+00:00",
+  "LastUpdate_Ratings": "2024-05-31T21:57:49.5227603+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:02.9007308+00:00"
 }
