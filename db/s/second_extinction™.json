@@ -2,7 +2,7 @@
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
   "ProductSlug": "second-extinction",
-  "Ranking_Rating": 1121,
+  "Ranking_Rating": 1123,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.07,
+  "Rating": 4.06,
   "NumberOfRatings": 617,
   "RatingHistory": [
     {
@@ -1493,6 +1493,12 @@
       "Rating": 4.07,
       "NumberOfAwards": 632,
       "NumberOfAwardsMax": 498
+    },
+    {
+      "Time": "2024-05-31T13:57:29.0548383+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 632,
+      "NumberOfAwardsMax": 498
     }
   ],
   "ReviewsDisabled": false,
@@ -1556,9 +1562,9 @@
   ],
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
-  "LastChanged": "2024-05-30T13:59:41.1888932+00:00",
+  "LastChanged": "2024-05-31T13:57:29.0548381+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:27.9773014+00:00",
   "LastUpdate_AppInfo": "2024-05-26T17:57:30.8223704+00:00",
-  "LastUpdate_Ratings": "2024-05-31T11:58:55.8824323+00:00",
+  "LastUpdate_Ratings": "2024-05-31T13:57:29.0548386+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:27.9773044+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "f9a21c4ce910440d82b83b01d1c48c5e",
   "Name": "Assassin\u0027s Creed\u00AE I: Director\u0027s Cut",
   "ProductSlug": "assassins-creed-1",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 815,
   "Ranking_Popularity": 642,
-  "Ranking_PopularitySum": 591,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 142,
   "RatingHistory": [
     {
@@ -685,10 +685,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-05-31T13:59:42.9950482+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
+  "NumberOfAwards": 61,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -703,6 +709,12 @@
       "Prefix": "This game has",
       "Type": "Unique Visuals",
       "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -716,8 +728,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
-  "LastChanged": "2024-05-08T17:58:56.1438732+00:00",
+  "LastChanged": "2024-05-31T13:59:42.9950481+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:58:25.3203168+00:00",
-  "LastUpdate_Ratings": "2024-05-31T13:02:49.0929378+00:00",
+  "LastUpdate_Ratings": "2024-05-31T13:59:42.9950485+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:22.5218623+00:00"
 }

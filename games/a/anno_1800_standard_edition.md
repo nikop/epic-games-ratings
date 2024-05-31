@@ -4,12 +4,12 @@
 Rating: 4.81 (Ranked 83)  
 Number of Ratings: 4,392  (23.09.2022)  
 ## Awards
-Max (Relaxing): 2,580  (Ranked 116)  
-Sum: 19,971 (Ranked 69)  
-Diff (max vs sum): 47  
+Max (Relaxing): 2,585  (Ranked 115)  
+Sum: 19,976 (Ranked 69)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 2,580 |
+| This game is Relaxing | 2,585 |
 | This game is Extremely Fun | 2,416 |
 | This game has Quickly Understood Controls | 2,392 |
 | This game is Highly Recommended | 2,370 |
@@ -533,4 +533,4 @@ Diff (max vs sum): 47
 | 2024-05-27 | 4.81 | - | 2,577 | 19,941 |
 | 2024-05-28 | 4.81 | - | 2,579 | 19,954 |
 | 2024-05-30 | 4.81 | - | 2,580 | 19,968 |
-| 2024-05-31 | 4.81 | - | 2,580 | 19,971 |
+| 2024-05-31 | 4.81 | - | 2,585 | 19,976 |

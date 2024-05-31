@@ -3,8 +3,8 @@
   "Name": null,
   "ProductSlug": "3dmark",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 646,
-  "Ranking_PopularitySum": 646,
+  "Ranking_Popularity": 642,
+  "Ranking_PopularitySum": 644,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -235,18 +235,24 @@
       "Rating": 4.84,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-05-31T13:59:27.6312382+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -261,8 +267,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-20T19:00:08.0227684+00:00",
   "FirstSeenRating": "2023-10-31T00:01:13.5106703+00:00",
-  "LastChanged": "2024-05-28T17:58:17.175438+00:00",
+  "LastChanged": "2024-05-31T13:59:27.6312377+00:00",
   "LastUpdate_AppInfo": "2024-05-29T20:57:04.7389675+00:00",
-  "LastUpdate_Ratings": "2024-05-31T13:02:26.2322208+00:00",
+  "LastUpdate_Ratings": "2024-05-31T13:59:27.6312384+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:17.8380826+00:00"
 }
