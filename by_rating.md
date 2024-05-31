@@ -39,7 +39,6 @@
 | 37 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.85 | 0 | 651 |
 | 37 | [Dead Cells](games/d/dead_cells.md) | 4.85 | 405 | 260 |
 | 37 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,141 | 77 |
-| 37 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 4.85 | 908 | 193 |
 | 37 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 57 | 499 |
 | 37 | [Lost Ruins](games/l/lost_ruins.md) | 4.85 | 0 | 651 |
 | 37 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.85 | 102 | 420 |
@@ -49,15 +48,16 @@
 | 37 | [Subnautica](games/s/subnautica.md) | 4.85 | 887 | 194 |
 | 37 | [The Last Campfire](games/t/the_last_campfire.md) | 4.85 | 0 | 651 |
 | 37 | [The Legend of Heroes: Trails from Zero](games/t/the_legend_of_heroes__trails_from_zero.md) | 4.85 | 0 | 651 |
-| 50 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.84 | 20 | 646 |
-| 50 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.84 | 0 | 651 |
-| 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 55 | 504 |
-| 50 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,675 | 59 |
-| 50 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 651 |
-| 50 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,257 | 32 |
-| 50 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 60 | 490 |
-| 50 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 234 | 318 |
-| 50 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 246 | 311 |
+| 49 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.84 | 20 | 646 |
+| 49 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.84 | 0 | 651 |
+| 49 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 55 | 504 |
+| 49 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,675 | 59 |
+| 49 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 4.84 | 908 | 193 |
+| 49 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 651 |
+| 49 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,257 | 32 |
+| 49 | [Rayman Origins](games/r/rayman_origins.md) | 4.84 | 60 | 490 |
+| 49 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 234 | 318 |
+| 49 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 246 | 311 |
 | 59 | [A Short Hike](games/a/a_short_hike.md) | 4.83 | 0 | 651 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,312 | 68 |
 | 59 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 70 | 472 |
@@ -251,7 +251,7 @@
 | 228 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.70 | 0 | 651 |
 | 228 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 651 |
 | 228 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 651 |
-| 228 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 5,060 | 88 |
+| 228 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 5,064 | 88 |
 | 228 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.70 | 0 | 651 |
 | 228 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.70 | 274 | 301 |
 | 228 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 651 |
@@ -998,7 +998,7 @@
 | 987 | [Startup Panic](games/s/startup_panic.md) | 4.26 | 0 | 651 |
 | 987 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 291 |
 | 998 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 651 |
-| 998 | [Predecessor](games/p/predecessor.md) | 4.25 | 628 | 223 |
+| 998 | [Predecessor](games/p/predecessor.md) | 4.25 | 634 | 222 |
 | 998 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 651 |
 | 998 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.25 | 0 | 651 |
 | 998 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 651 |
@@ -1068,7 +1068,7 @@
 | 1,064 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 651 |
 | 1,064 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 499 | 244 |
 | 1,064 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 651 |
-| 1,069 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 630 | 222 |
+| 1,069 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 630 | 223 |
 | 1,069 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 122 | 396 |
 | 1,069 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 0 | 651 |
 | 1,069 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 651 |
