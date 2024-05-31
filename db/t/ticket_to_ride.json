@@ -2,7 +2,7 @@
   "ID": "b4d9169e1b8548f2babec33107253309",
   "Name": "Ticket To Ride: Classic Edition",
   "ProductSlug": "ticket-to-ride",
-  "Ranking_Rating": 406,
+  "Ranking_Rating": 405,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 987,
@@ -782,10 +782,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 427,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-05-31T16:59:01.0618733+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 428,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 427,
+  "NumberOfAwards": 428,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -841,7 +847,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Characters",
@@ -881,9 +887,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:53.9949813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.6058604+00:00",
-  "LastChanged": "2024-05-29T18:58:13.5941484+00:00",
+  "LastChanged": "2024-05-31T16:59:01.0618731+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:32.1692319+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:40.6796156+00:00",
-  "LastUpdate_Ratings": "2024-05-31T15:57:40.2782231+00:00",
+  "LastUpdate_Ratings": "2024-05-31T16:59:01.0618738+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:32.1692343+00:00"
 }

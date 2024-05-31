@@ -2,7 +2,7 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 406,
+  "Ranking_Rating": 405,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 987,
@@ -8735,10 +8735,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 10641,
       "NumberOfAwardsMax": 2997
+    },
+    {
+      "Time": "2024-05-31T16:58:04.6812241+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 10642,
+      "NumberOfAwardsMax": 2997
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10641,
+  "NumberOfAwards": 10642,
   "NumberOfAwardsMax": 2997,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8770,7 +8776,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 676
+      "Count": 677
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8832,8 +8838,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2024-05-30T23:57:28.5633266+00:00",
+  "LastChanged": "2024-05-31T16:58:04.6812239+00:00",
   "LastUpdate_AppInfo": "2024-05-26T07:57:10.1646102+00:00",
-  "LastUpdate_Ratings": "2024-05-31T14:59:37.923888+00:00",
+  "LastUpdate_Ratings": "2024-05-31T16:58:04.6812247+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:07.4069105+00:00"
 }

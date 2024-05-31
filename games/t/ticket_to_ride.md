@@ -1,11 +1,11 @@
 # Ticket To Ride: Classic Edition
 [Store](https://store.epicgames.com/en-US/p/ticket-to-ride)  
 [View Rawdata](../../db/t/ticket_to_ride.json)  
-Rating: 4.62 (Ranked 406)  
+Rating: 4.62 (Ranked 405)  
 Number of Ratings: 167  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 81  (Ranked 453)  
-Sum: 427 (Ranked 391)  
+Sum: 428 (Ranked 391)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): 62
 | This game has Competitive Players | 48 |
 | This game has Quickly Understood Controls | 40 |
 | This game is Highly Recommended | 39 |
+| This game has Playful Visuals | 39 |
 | This game is Extremely Fun | 38 |
-| This game has Playful Visuals | 38 |
 | This game has Obsessive Gameplay | 37 |
 | This game has Amazing Characters | 24 |
 | This game has a Competitive Community | 23 |
@@ -150,3 +150,4 @@ Diff (max vs sum): 62
 | 2024-05-12 | 4.62 | - | 80 | 425 |
 | 2024-05-17 | 4.62 | - | 81 | 426 |
 | 2024-05-29 | 4.62 | - | 81 | 427 |
+| 2024-05-31 | 4.62 | - | 81 | 428 |
