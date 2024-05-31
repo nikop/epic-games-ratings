@@ -2,7 +2,7 @@
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
   "ProductSlug": "frostpunk",
-  "Ranking_Rating": 153,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "NumberOfRatings": 11240,
   "RatingHistory": [
     {
@@ -9759,6 +9759,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 8323,
       "NumberOfAwardsMax": 960
+    },
+    {
+      "Time": "2024-05-31T05:57:30.8491762+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 8323,
+      "NumberOfAwardsMax": 960
     }
   ],
   "ReviewsDisabled": false,
@@ -9852,9 +9858,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-05-30T21:58:11.4821707+00:00",
+  "LastChanged": "2024-05-31T05:57:30.8491761+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:36.2994809+00:00",
   "LastUpdate_AppInfo": "2024-05-26T17:57:19.1562215+00:00",
-  "LastUpdate_Ratings": "2024-05-31T03:58:27.5135008+00:00",
+  "LastUpdate_Ratings": "2024-05-31T05:57:30.8491768+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:36.2994841+00:00"
 }

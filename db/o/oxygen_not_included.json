@@ -2,7 +2,7 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 59,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 897,
   "RatingHistory": [
     {
@@ -3300,6 +3300,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 2542,
       "NumberOfAwardsMax": 292
+    },
+    {
+      "Time": "2024-05-31T05:58:50.6764559+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2542,
+      "NumberOfAwardsMax": 292
     }
   ],
   "ReviewsDisabled": false,
@@ -3385,8 +3391,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-05-28T10:59:31.3011967+00:00",
+  "LastChanged": "2024-05-31T05:58:50.6764557+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:31.9703191+00:00",
-  "LastUpdate_Ratings": "2024-05-31T03:59:42.9451815+00:00",
+  "LastUpdate_Ratings": "2024-05-31T05:58:50.6764565+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:06.8316183+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 216,
   "Ranking_Popularity": 113,
-  "Ranking_PopularitySum": 105,
+  "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -14246,10 +14246,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 10859,
       "NumberOfAwardsMax": 2701
+    },
+    {
+      "Time": "2024-05-31T05:58:44.2862815+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 10866,
+      "NumberOfAwardsMax": 2701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10859,
+  "NumberOfAwards": 10866,
   "NumberOfAwardsMax": 2701,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -14263,7 +14269,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1039
+      "Count": 1046
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14343,8 +14349,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2024-05-31T01:49:18.5444681+00:00",
+  "LastChanged": "2024-05-31T05:58:44.2862813+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:13.1048503+00:00",
-  "LastUpdate_Ratings": "2024-05-31T03:59:36.8233872+00:00",
+  "LastUpdate_Ratings": "2024-05-31T05:58:44.2862821+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:00.3441029+00:00"
 }
