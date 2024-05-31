@@ -181,14 +181,14 @@ Completed: 86 (0.08%) (Ranked 371)
 | 2024-04-10 | 102,435 | 86 |
 ## Awards
 Max (Great for Beginners): 181  (Ranked 352)  
-Sum: 728 (Ranked 335)  
+Sum: 729 (Ranked 335)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 181 |
 | This game has Diverse Characters | 139 |
 | This game is Highly Recommended | 98 |
-| This game has Amazing Characters | 92 |
+| This game has Amazing Characters | 93 |
 | This game has Quickly Understood Controls | 80 |
 | This game has Amazing Storytelling | 71 |
 | This game is Extremely Fun | 67 |
@@ -410,3 +410,4 @@ Diff (max vs sum): 17
 | 2024-05-26 | 4.09 | 180 | 726 |
 | 2024-05-29 | 4.09 | 180 | 727 |
 | 2024-05-30 | 4.09 | 181 | 728 |
+| 2024-05-31 | 4.09 | 181 | 729 |

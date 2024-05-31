@@ -2,9 +2,9 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 144,
+  "Ranking_Rating": 153,
   "Ranking_Popularity": 278,
-  "Ranking_PopularitySum": 280,
+  "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -2375,10 +2375,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 1288,
       "NumberOfAwardsMax": 340
+    },
+    {
+      "Time": "2024-05-31T22:58:05.0479646+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1304,
+      "NumberOfAwardsMax": 340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1288,
+  "NumberOfAwards": 1304,
   "NumberOfAwardsMax": 340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2392,7 +2398,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 95
+      "Count": 100
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2410,7 +2416,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 78
+      "Count": 80
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2428,7 +2434,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 73
+      "Count": 78
     },
     {
       "Text": "This game has Competitive Players",
@@ -2470,7 +2476,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 65
+      "Count": 69
     }
   ],
   "EOS_Progressed": 0,
@@ -2485,8 +2491,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-05-31T17:59:02.6519079+00:00",
+  "LastChanged": "2024-05-31T22:58:05.0479645+00:00",
   "LastUpdate_AppInfo": "2024-05-30T01:46:55.5938334+00:00",
-  "LastUpdate_Ratings": "2024-05-31T20:59:15.4891348+00:00",
+  "LastUpdate_Ratings": "2024-05-31T22:58:05.047965+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
