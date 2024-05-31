@@ -3,7 +3,7 @@
 | [New Lands](games/e/e0f22cbd766547b5b10cbac9bf35849b.md) | 2024-05-31 | - |  | - | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-05-31 | - |  | - | - |
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
-| [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 18 | - | - |
+| [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 18 | - | 0 |
 | [INDIKA](games/d/d28938c1044945239079d371d545e5c7.md) | 2024-05-31 | - |  | - | - |
 | [Minimally Invasive](games/f/f72a4664ea454e22a00a00d1274c41dc.md) | 2024-05-31 | - |  | - | - |
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |

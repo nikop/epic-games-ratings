@@ -116,7 +116,7 @@
 | 108 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 976 | 181 |
 | 108 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,965 | 111 |
 | 108 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 444 | 253 |
-| 108 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 125 | 392 |
+| 108 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 125 | 393 |
 | 108 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 0 | 651 |
 | 119 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,941 | 48 |
 | 119 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 625 | 224 |
@@ -367,7 +367,7 @@
 | 350 | [Symphony of War](games/s/symphony_of_war.md) | 4.65 | 70 | 472 |
 | 350 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 651 |
 | 350 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 603 | 231 |
-| 350 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 123 | 394 |
+| 350 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 123 | 395 |
 | 369 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 651 |
 | 369 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,113 | 78 |
 | 369 | [Black Book](games/b/black_book.md) | 4.64 | 24 | 622 |
@@ -664,7 +664,7 @@
 | 655 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 651 |
 | 655 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 651 |
 | 655 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 160,272 | 8 |
-| 655 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 125 | 392 |
+| 655 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 125 | 393 |
 | 655 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 651 |
 | 655 | [Legend of Grimrock](games/l/legend_of_grimrock.md) | 4.50 | 0 | 651 |
 | 655 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 709 | 211 |
@@ -772,7 +772,7 @@
 | 754 | [OUTRIDERS](games/o/outriders.md) | 4.44 | 1,610 | 145 |
 | 754 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 651 |
 | 754 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 651 |
-| 754 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 836,451 | 2 |
+| 754 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 837,101 | 2 |
 | 754 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 651 |
 | 754 | [STG Football](games/s/stg_football.md) | 4.44 | 55 | 504 |
 | 754 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 427 |
@@ -1070,7 +1070,7 @@
 | 1,065 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 499 | 244 |
 | 1,065 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.17 | 0 | 651 |
 | 1,070 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 630 | 223 |
-| 1,070 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 122 | 396 |
+| 1,070 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 122 | 397 |
 | 1,070 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.16 | 0 | 651 |
 | 1,070 | [Family Man](games/f/family_man.md) | 4.16 | 0 | 651 |
 | 1,070 | [Forspoken](games/f/forspoken.md) | 4.16 | 67 | 476 |
@@ -1152,7 +1152,7 @@
 | 1,150 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 3.96 | 0 | 651 |
 | 1,150 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 3.96 | 0 | 651 |
 | 1,152 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 48 | 522 |
-| 1,152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 123 | 394 |
+| 1,152 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 123 | 395 |
 | 1,152 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 3.95 | 0 | 651 |
 | 1,152 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.95 | 0 | 651 |
 | 1,152 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 3.95 | 57 | 499 |
@@ -1192,7 +1192,7 @@
 | 1,190 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 651 |
 | 1,191 | [Redfall](games/r/redfall.md) | 3.66 | 41 | 540 |
 | 1,192 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.60 | 0 | 651 |
-| 1,193 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.58 | 121 | 397 |
+| 1,193 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.58 | 127 | 391 |
 | 1,194 | [Adios](games/a/adios.md) | 3.53 | 0 | 651 |
 | 1,195 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.47 | 181 | 352 |
 | 1,196 | [Survive on Raft](games/s/survive_on_raft.md) | 3.42 | 0 | 651 |

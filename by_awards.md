@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,576,142 | 4.29 | 949 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 836,451 | 4.44 | 754 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 837,101 | 4.44 | 754 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 379,433 | 4.68 | 280 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 342,241 | 4.67 | 299 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 323,002 | 4.87 | 21 |
@@ -391,12 +391,12 @@
 | 389 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 130 | 4.21 | 1,033 |
 | 390 | [Armored Warfare](games/a/armored_warfare.md) | 128 | 4.03 | 1,132 |
 | 391 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 127 | 4.66 | 325 |
-| 392 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 125 | 4.50 | 655 |
-| 392 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 125 | 4.79 | 108 |
-| 394 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 123 | 3.95 | 1,152 |
-| 394 | [Tropico 6](games/t/tropico_6.md) | 123 | 4.65 | 350 |
-| 396 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 122 | 4.16 | 1,070 |
-| 397 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 121 | 3.58 | 1,193 |
+| 391 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 127 | 3.58 | 1,193 |
+| 393 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 125 | 4.50 | 655 |
+| 393 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 125 | 4.79 | 108 |
+| 395 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 123 | 3.95 | 1,152 |
+| 395 | [Tropico 6](games/t/tropico_6.md) | 123 | 4.65 | 350 |
+| 397 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 122 | 4.16 | 1,070 |
 | 398 | [Faeria](games/f/faeria.md) | 119 | 4.45 | 739 |
 | 398 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 119 | 4.44 | 754 |
 | 400 | [Verdun](games/v/verdun.md) | 117 | 4.53 | 598 |
