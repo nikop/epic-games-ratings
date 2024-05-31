@@ -379,7 +379,7 @@
 | 377 | [Fort Triumph](games/f/fort_triumph.md) | 146 | 4.08 | 1,116 |
 | 378 | [Tropico 5](games/t/tropico_5.md) | 145 | 4.45 | 739 |
 | 379 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 143 | 4.52 | 616 |
-| 380 | [Overcooked](games/o/overcooked.md) | 139 | 4.66 | 325 |
+| 380 | [Overcooked](games/o/overcooked.md) | 140 | 4.66 | 325 |
 | 381 | [Cave Story+](games/c/cave_story+.md) | 138 | 4.69 | 256 |
 | 382 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 136 | 4.80 | 98 |
 | 382 | [Sonic Origins](games/s/sonic_origins.md) | 136 | 4.58 | 496 |

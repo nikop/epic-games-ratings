@@ -336,7 +336,7 @@
 | 325 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.66 | 0 | 651 |
 | 325 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 651 |
 | 325 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 651 |
-| 325 | [Overcooked](games/o/overcooked.md) | 4.66 | 139 | 380 |
+| 325 | [Overcooked](games/o/overcooked.md) | 4.66 | 140 | 380 |
 | 325 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 2,006 | 131 |
 | 325 | [RIDE 5](games/r/ride_5.md) | 4.66 | 0 | 651 |
 | 325 | [Road 96](games/r/road_96.md) | 4.66 | 0 | 651 |
