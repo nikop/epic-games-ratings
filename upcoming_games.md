@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Cyberpunk SFX](games/7/7a0721af1f89440ba190a2c1eb2a1378.md) | 2024-05-31 | - |  | - | - |
-| [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | - |  | - | - |
 | [F1® 24 Standard Edition](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | - | - |
 | [1001 Jigsaw: Earth Chronicles 2](games/8/818219d294284979a166202ce578439e.md) | 2024-06-03 | - |  | - | - |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | - |
@@ -107,6 +105,7 @@
 | [Sofie: The Echoes](games/7/77593ca0e0f3495f95ab77a6ea960a65.md) | 2024-09-30 | - |  | - | - |
 | [space-battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-09-30 | - |  | - | - |
 | [Spiral](games/4/4ac2b56f3cbb4de58183d6f20ee834a1.md) | 2024-09-30 | - |  | - | - |
+| [Stormedge](games/0/014e225d587d41ea80c0adb3f33041d0.md) | 2024-09-30 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-09-30 | - |  | - | - |
 | [The Star Named EOS](games/7/7ce9f498f68c49cb82f60e04335d917f.md) | 2024-09-30 | - |  | - | - |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-30 | - |  | - | - |

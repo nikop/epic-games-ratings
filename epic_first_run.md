@@ -2,7 +2,6 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Feverdream: Rainbow Chaser](games/4/4838b0b4a084422997a5b43a29ba8fd6.md) | 2024-12-31 | - |  | - | - |
 | [Space Wolf](games/6/67b63764a0ad4f9a86559d8b798ef25e.md) | 2024-06-30 | - |  | - | - |
-| [Asylum Revenge](games/4/4aa01217f1cc4e53923d81738de0859b.md) | 2024-06-30 | - |  | - | - |
 | [Deathpunk](games/e/e2d3a34aeee943f588e6a62b8968df2f.md) | 2024-09-30 | - |  | - | - |
 | [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-30 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
