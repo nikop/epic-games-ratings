@@ -362,14 +362,14 @@ Completed: 182 (0.11%) (Ranked 356)
 | 2024-04-10 | 162,195 | 182 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 629)  
-Sum: 87 (Ranked 540)  
-Diff (max vs sum): 89  
+Sum: 88 (Ranked 539)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 153 |
 | This game is Great for Beginners | 23 |
+| This game has Amazing Storytelling | 22 |
 | This game has Amazing Characters | 22 |
-| This game has Amazing Storytelling | 21 |
 | This game has Unique Visuals | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -485,3 +485,4 @@ Diff (max vs sum): 89
 | 2024-05-18 | 4.48 | - | 23 | 86 |
 | 2024-05-25 | 4.47 | - | 23 | 86 |
 | 2024-05-30 | 4.48 | - | 23 | 87 |
+| 2024-05-31 | 4.48 | - | 23 | 88 |
