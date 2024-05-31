@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 599,
+  "Ranking_Rating": 600,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 115,
@@ -4217,10 +4217,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 3486,
       "NumberOfAwardsMax": 562
+    },
+    {
+      "Time": "2024-05-31T17:58:23.2640349+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 3487,
+      "NumberOfAwardsMax": 562
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3486,
+  "NumberOfAwards": 3487,
   "NumberOfAwardsMax": 562,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4228,7 +4234,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 545
+      "Count": 546
     },
     {
       "Text": "This game is Extremely Fun",
@@ -36191,9 +36197,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2024-05-29T23:58:08.1311305+00:00",
+  "LastChanged": "2024-05-31T17:58:23.2640347+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:00.7878358+00:00",
   "LastUpdate_AppInfo": "2024-05-26T17:57:14.6299829+00:00",
-  "LastUpdate_Ratings": "2024-05-31T15:59:50.2378448+00:00",
+  "LastUpdate_Ratings": "2024-05-31T17:58:23.2640352+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:00.7879962+00:00"
 }
