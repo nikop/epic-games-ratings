@@ -360,7 +360,7 @@ Completed: 80 (0.01%) (Ranked 433)
 | 2024-04-10 | 1,052,209 | 80 |
 ## Awards
 Max (Character Customization): 16,761  (Ranked 30)  
-Sum: 50,112 (Ranked 35)  
+Sum: 50,116 (Ranked 35)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
@@ -373,7 +373,7 @@ Diff (max vs sum): -5
 | This game has Amazing Storytelling | 2,411 |
 | This game is Extremely Fun | 2,331 |
 | This game has Quickly Understood Controls | 2,205 |
-| This game is Relaxing | 2,143 |
+| This game is Relaxing | 2,147 |
 | This game has a Creative Community | 2,134 |
 | This game has Obsessive Gameplay | 230 |
 ## Ratings History
@@ -884,4 +884,4 @@ Diff (max vs sum): -5
 | 2024-05-28 | 4.58 | - | 16,731 | 49,951 |
 | 2024-05-29 | 4.58 | - | 16,746 | 50,033 |
 | 2024-05-30 | 4.58 | - | 16,761 | 50,090 |
-| 2024-05-31 | 4.58 | - | 16,761 | 50,112 |
+| 2024-05-31 | 4.58 | - | 16,761 | 50,116 |
