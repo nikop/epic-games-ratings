@@ -2,7 +2,7 @@
   "ID": "2016da2363da487bbf78961d8faec81c",
   "Name": "Worms Rumble",
   "ProductSlug": "worms-rumble",
-  "Ranking_Rating": 1087,
+  "Ranking_Rating": 1139,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:08.8589949+00:00",
@@ -37,6 +37,12 @@
     {
       "Time": "2024-05-27T18:59:30.3777462+00:00",
       "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-05-31T19:57:13.2135398+00:00",
+      "Rating": 4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -57,8 +63,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:43.2844958+00:00",
   "FirstSeenRating": "2023-03-31T05:57:08.8589946+00:00",
-  "LastChanged": "2024-05-27T18:59:30.3777461+00:00",
+  "LastChanged": "2024-05-31T19:57:13.2135396+00:00",
   "LastUpdate_AppInfo": "2024-05-26T17:57:20.794452+00:00",
-  "LastUpdate_Ratings": "2024-05-31T17:58:42.4307073+00:00",
+  "LastUpdate_Ratings": "2024-05-31T19:57:13.2135402+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:50.4093175+00:00"
 }

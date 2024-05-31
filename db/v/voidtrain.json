@@ -4,7 +4,7 @@
   "ProductSlug": "voidtrain",
   "Ranking_Rating": 655,
   "Ranking_Popularity": 504,
-  "Ranking_PopularitySum": 434,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1524,10 +1524,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 293,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-05-31T19:59:10.9854241+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 319,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 293,
+  "NumberOfAwards": 319,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1583,7 +1589,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game has a Creative Community",
@@ -1611,9 +1617,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
   "FirstSeenAchievements": "2024-03-21T17:08:56.8390151+00:00",
-  "LastChanged": "2024-05-30T06:58:12.7486353+00:00",
+  "LastChanged": "2024-05-31T19:59:10.9854239+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:53.2646685+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:37.9892729+00:00",
-  "LastUpdate_Ratings": "2024-05-31T18:58:08.7588961+00:00",
+  "LastUpdate_Ratings": "2024-05-31T19:59:10.9854243+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:53.2646716+00:00"
 }
