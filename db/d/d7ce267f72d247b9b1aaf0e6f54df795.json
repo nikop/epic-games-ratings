@@ -2,9 +2,9 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 153,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 278,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -2387,10 +2387,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1306,
       "NumberOfAwardsMax": 340
+    },
+    {
+      "Time": "2024-06-01T07:57:29.1448799+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 1317,
+      "NumberOfAwardsMax": 340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1306,
+  "NumberOfAwards": 1317,
   "NumberOfAwardsMax": 340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2428,7 +2434,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 71
+      "Count": 76
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2446,7 +2452,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 66
+      "Count": 72
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2497,8 +2503,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-01T00:00:56.4015411+00:00",
+  "LastChanged": "2024-06-01T07:57:29.1448797+00:00",
   "LastUpdate_AppInfo": "2024-05-30T01:46:55.5938334+00:00",
-  "LastUpdate_Ratings": "2024-06-01T05:58:57.5211681+00:00",
+  "LastUpdate_Ratings": "2024-06-01T07:57:29.1448802+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
