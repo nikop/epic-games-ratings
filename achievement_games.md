@@ -73,7 +73,7 @@
 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.42 | 0 |
 | [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 10 | - | 0 |
 | [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 17 | - | 0 |
-| [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 47 | - | 0 |
+| [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 47 | 4.05 | 0 |
 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 41 | 4.56 | 0 |
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 29 | 4.16 | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
@@ -772,7 +772,7 @@
 | [McPixel 3](games/m/mcpixel_3.md) | 2022-11-14 | 93 (1,000 XP) | 1 | - | 0 |
 | [Bloodshore](games/b/bloodshore.md) | 2022-11-11 | 17 (1,000 XP) | 361 | - | 0 |
 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 2022-11-10 | 8 (1,000 XP) | 9 | - | 0 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 2022-11-08 | 100 (1,000 XP) | 381,894 | 4.75 | 1,697 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 2022-11-08 | 100 (1,000 XP) | 381,894 | 4.75 | 1,701 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 2022-11-07 | 32 (1,000 XP) | 1,507 | 4.59 | 27 |
 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | 2022-11-04 | 24 (1,000 XP) | 79 | - | 0 |
 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 2022-11-04 | 14 (1,000 XP) | 12 | - | 0 |
@@ -845,7 +845,7 @@
 | [Project Highrise](games/p/project_highrise.md) | 2022-08-11 | 88 (1,000 XP) | 613 | - | 0 |
 | [Rise of Industry](games/r/rise_of_industry.md) | 2022-08-11 | 27 (1,000 XP) | 785,949 | 4.26 | 38 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 2022-08-11 | 34 (1,000 XP) | 237,952 | 4.44 | 302 |
-| [GigaBash](games/g/gigabash.md) | 2022-08-04 | 35 (1,000 XP) | 142,382 | 4.51 | 102 |
+| [GigaBash](games/g/gigabash.md) | 2022-08-04 | 35 (1,000 XP) | 142,382 | 4.52 | 102 |
 | [Frogun](games/f/frogun.md) | 2022-08-02 | 31 (1,000 XP) | 249 | - | 0 |
 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 2022-07-28 | 70 (1,000 XP) | 2 | - | 0 |
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 2022-07-28 | 54 (1,000 XP) | 717,211 | 4.08 | 184 |
@@ -1046,7 +1046,7 @@
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 240,594 | 4.67 | 621 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 1,337 | 4.49 | 110 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 52,575 | 4.44 | 0 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,359 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,364 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 4,398 | 4.60 | 94 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 2,421 | 4.60 | 429 |
 | [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 149,110 | 4.14 | 0 |
