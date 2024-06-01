@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 616,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 154,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2022-10-19T03:31:00.7496554+00:00",
@@ -5471,6 +5471,12 @@
     {
       "Time": "2024-05-31T01:48:24.0989766+00:00",
       "Rating": 4.51,
+      "NumberOfAwards": 3331,
+      "NumberOfAwardsMax": 372
+    },
+    {
+      "Time": "2024-06-01T02:58:50.4242668+00:00",
+      "Rating": 4.52,
       "NumberOfAwards": 3331,
       "NumberOfAwardsMax": 372
     }
@@ -28393,9 +28399,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-05-31T01:48:24.0989764+00:00",
+  "LastChanged": "2024-06-01T02:58:50.4242666+00:00",
   "LastChanged_Achievements": "2024-04-10T06:07:17.0547263+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:25.3033773+00:00",
-  "LastUpdate_Ratings": "2024-06-01T00:00:49.0957195+00:00",
+  "LastUpdate_Ratings": "2024-06-01T02:58:50.4242675+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:17.0548514+00:00"
 }

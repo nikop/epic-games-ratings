@@ -4,7 +4,7 @@
   "ProductSlug": "diabotical",
   "Ranking_Rating": 203,
   "Ranking_Popularity": 285,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2199,10 +2199,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2793,
       "NumberOfAwardsMax": 318
+    },
+    {
+      "Time": "2024-06-01T03:00:58.9460309+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2795,
+      "NumberOfAwardsMax": 318
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2793,
+  "NumberOfAwards": 2795,
   "NumberOfAwardsMax": 318,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2234,7 +2240,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 260
+      "Count": 261
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2264,7 +2270,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 255
+      "Count": 256
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2290,8 +2296,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2024-05-30T02:24:42.8089451+00:00",
+  "LastChanged": "2024-06-01T03:00:58.9460307+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:27.559357+00:00",
-  "LastUpdate_Ratings": "2024-06-01T01:54:52.6604328+00:00",
+  "LastUpdate_Ratings": "2024-06-01T03:00:58.9460312+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:52.2510583+00:00"
 }
