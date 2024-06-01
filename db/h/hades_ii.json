@@ -3,7 +3,7 @@
   "Name": "Hades II",
   "ProductSlug": "hades-ii",
   "Ranking_Rating": 8,
-  "Ranking_Popularity": 475,
+  "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -228,11 +228,17 @@
       "Rating": 4.9,
       "NumberOfAwards": 122,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-06-01T16:59:36.6030863+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 124,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 122,
-  "NumberOfAwardsMax": 68,
+  "NumberOfAwards": 124,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
@@ -245,7 +251,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 68
+      "Count": 70
     }
   ],
   "EOS_Progressed": 0,
@@ -260,8 +266,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-06T20:57:55.3749991+00:00",
   "FirstSeenRating": "2024-05-08T21:57:36.1712831+00:00",
-  "LastChanged": "2024-06-01T15:57:56.4723843+00:00",
+  "LastChanged": "2024-06-01T16:59:36.6030861+00:00",
   "LastUpdate_AppInfo": "2024-05-26T17:57:29.7979546+00:00",
-  "LastUpdate_Ratings": "2024-06-01T15:57:56.4723852+00:00",
+  "LastUpdate_Ratings": "2024-06-01T16:59:36.6030866+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:33.2207273+00:00"
 }

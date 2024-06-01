@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 850,
   "Ranking_Popularity": 262,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 25,
@@ -5989,11 +5989,17 @@
       "Rating": 4.39,
       "NumberOfAwards": 2370,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2024-06-01T16:59:58.8463371+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2376,
+      "NumberOfAwardsMax": 405
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2370,
-  "NumberOfAwardsMax": 402,
+  "NumberOfAwards": 2376,
+  "NumberOfAwardsMax": 405,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6006,7 +6012,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 402
+      "Count": 405
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -6042,13 +6048,13 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 186
+      "Count": 187
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 137
+      "Count": 139
     },
     {
       "Text": "This game is Extremely Fun",
@@ -25923,9 +25929,9 @@
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-06-01T13:58:57.9862626+00:00",
+  "LastChanged": "2024-06-01T16:59:58.8463369+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:18.8611322+00:00",
   "LastUpdate_AppInfo": "2024-05-26T13:57:11.4679679+00:00",
-  "LastUpdate_Ratings": "2024-06-01T15:58:26.1876039+00:00",
+  "LastUpdate_Ratings": "2024-06-01T16:59:58.8463373+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:18.8612737+00:00"
 }
