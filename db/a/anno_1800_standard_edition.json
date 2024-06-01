@@ -17109,10 +17109,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 19979,
       "NumberOfAwardsMax": 2585
+    },
+    {
+      "Time": "2024-06-01T01:56:22.3326757+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 19986,
+      "NumberOfAwardsMax": 2585
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19979,
+  "NumberOfAwards": 19986,
   "NumberOfAwardsMax": 2585,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -17120,7 +17126,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2370
+      "Count": 2373
     },
     {
       "Text": "This game is Extremely Fun",
@@ -17180,7 +17186,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1400
+      "Count": 1404
     }
   ],
   "EOS_Progressed": 0,
@@ -17194,8 +17200,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2024-05-31T18:59:07.3466506+00:00",
+  "LastChanged": "2024-06-01T01:56:22.3326756+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:58:15.3905452+00:00",
-  "LastUpdate_Ratings": "2024-05-31T23:57:24.6199075+00:00",
+  "LastUpdate_Ratings": "2024-06-01T01:56:22.3326762+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:59.7487497+00:00"
 }
