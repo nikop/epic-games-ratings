@@ -118,7 +118,7 @@
 | 108 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 444 | 253 |
 | 108 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 125 | 393 |
 | 108 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.79 | 0 | 652 |
-| 119 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,941 | 48 |
+| 119 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 10,950 | 48 |
 | 119 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 630 | 223 |
 | 119 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,519 | 72 |
 | 119 | [Quake](games/q/quake.md) | 4.78 | 53 | 512 |
@@ -128,7 +128,7 @@
 | 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 27 | 606 |
 | 126 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.77 | 0 | 652 |
 | 126 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 12,852 | 40 |
-| 126 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,034 | 177 |
+| 126 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,036 | 177 |
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,383 | 149 |
 | 126 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,702 | 42 |
 | 126 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 652 |
@@ -600,7 +600,7 @@
 | 583 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 652 |
 | 583 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 419 | 258 |
 | 600 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 652 |
-| 600 | [Dauntless](games/d/dauntless.md) | 4.53 | 29,477 | 20 |
+| 600 | [Dauntless](games/d/dauntless.md) | 4.53 | 29,497 | 20 |
 | 600 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 546 |
 | 600 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 29 | 592 |
 | 600 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.53 | 38 | 550 |
@@ -1197,5 +1197,5 @@
 | 1,195 | [Adios](games/a/adios.md) | 3.53 | 0 | 652 |
 | 1,196 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.47 | 181 | 352 |
 | 1,197 | [Survive on Raft](games/s/survive_on_raft.md) | 3.42 | 0 | 652 |
-| 1,198 | [Operation New Earth](games/o/operation_new_earth.md) | 3.38 | 0 | 652 |
-| 1,198 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.38 | 0 | 652 |
+| 1,198 | [Operation New Earth](games/o/operation_new_earth.md) | 3.39 | 0 | 652 |
+| 1,199 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.38 | 0 | 652 |
