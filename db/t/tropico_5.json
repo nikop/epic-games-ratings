@@ -2,7 +2,7 @@
   "ID": "7015c51a49be4592b5ba3ae2577723c5",
   "Name": "Tropico 5",
   "ProductSlug": "tropico-5",
-  "Ranking_Rating": 740,
+  "Ranking_Rating": 739,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 987,
@@ -2496,10 +2496,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1041,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2024-06-01T13:57:04.0210547+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1042,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1041,
+  "NumberOfAwards": 1042,
   "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2531,7 +2537,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2581,8 +2587,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2024-05-25T20:58:09.026891+00:00",
+  "LastChanged": "2024-06-01T13:57:04.0210546+00:00",
   "LastUpdate_AppInfo": "2024-05-26T14:56:57.9177416+00:00",
-  "LastUpdate_Ratings": "2024-06-01T11:58:28.672956+00:00",
+  "LastUpdate_Ratings": "2024-06-01T13:57:04.0210551+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:55.4556329+00:00"
 }
