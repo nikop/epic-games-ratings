@@ -4,7 +4,7 @@
   "ProductSlug": "league-of-legends",
   "Ranking_Rating": 1043,
   "Ranking_Popularity": 73,
-  "Ranking_PopularitySum": 56,
+  "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -16129,11 +16129,17 @@
       "Rating": 4.2,
       "NumberOfAwards": 29526,
       "NumberOfAwardsMax": 6450
+    },
+    {
+      "Time": "2024-06-01T21:57:50.3293896+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 29549,
+      "NumberOfAwardsMax": 6458
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29526,
-  "NumberOfAwardsMax": 6450,
+  "NumberOfAwards": 29549,
+  "NumberOfAwardsMax": 6458,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -16146,7 +16152,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6450
+      "Count": 6458
     },
     {
       "Text": "This game has Challenging Combat",
@@ -16164,7 +16170,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4511
+      "Count": 4519
     },
     {
       "Text": "This game has a Competitive Community",
@@ -16176,7 +16182,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4272
+      "Count": 4279
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -16202,8 +16208,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2024-06-01T18:57:35.9240763+00:00",
+  "LastChanged": "2024-06-01T21:57:50.3293893+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:21.7901587+00:00",
-  "LastUpdate_Ratings": "2024-06-01T19:59:46.583098+00:00",
+  "LastUpdate_Ratings": "2024-06-01T21:57:50.32939+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:25.0763243+00:00"
 }
