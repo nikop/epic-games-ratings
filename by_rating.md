@@ -21,7 +21,7 @@
 | 17 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,062 | 174 |
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 652 |
 | 21 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 809 | 201 |
-| 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,682 | 85 |
+| 21 | [God of War](games/g/god_of_war.md) | 4.87 | 5,690 | 85 |
 | 21 | [Inscryption](games/i/inscryption.md) | 4.87 | 372 | 269 |
 | 21 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 323,341 | 5 |
 | 21 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,846 | 26 |
@@ -75,11 +75,11 @@
 | 60 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.83 | 29 | 592 |
 | 74 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 492 | 246 |
 | 74 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 555 |
-| 74 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,990 | 132 |
+| 74 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,998 | 132 |
 | 74 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 47 | 526 |
 | 74 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 652 |
 | 74 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 358 | 272 |
-| 74 | [Sifu](games/s/sifu.md) | 4.82 | 7,884 | 64 |
+| 74 | [Sifu](games/s/sifu.md) | 4.82 | 7,888 | 64 |
 | 74 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 531 | 239 |
 | 74 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 452 |
 | 83 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,585 | 115 |
@@ -269,7 +269,7 @@
 | 256 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,095 | 127 |
 | 256 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 694 | 216 |
 | 256 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 335 | 281 |
-| 256 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,270 | 43 |
+| 256 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,279 | 43 |
 | 256 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 627 | 225 |
 | 256 | [The Alto Collection](games/t/the_alto_collection.md) | 4.69 | 58 | 495 |
 | 256 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 652 |
@@ -398,7 +398,7 @@
 | 384 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.63 | 0 | 652 |
 | 384 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 746 | 207 |
 | 384 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 11,096 | 47 |
-| 384 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,385 | 96 |
+| 384 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,395 | 96 |
 | 384 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 652 |
 | 384 | [Prey](games/p/prey.md) | 4.63 | 6,056 | 81 |
 | 384 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 197 | 342 |
@@ -709,7 +709,7 @@
 | 707 | [Chorus](games/c/chorus.md) | 4.47 | 36 | 555 |
 | 707 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.47 | 161 | 367 |
 | 707 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 165 | 364 |
-| 707 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,692 | 102 |
+| 707 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,693 | 102 |
 | 707 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 652 |
 | 707 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.47 | 0 | 652 |
 | 707 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 652 |
