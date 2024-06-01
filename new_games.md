@@ -96,7 +96,7 @@
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | - |  | - | - |
 | [Unravel](games/7/71d91cc48e0145078a1db1e402c8975b.md) | 2024-05-09 | - |  | - | 0 |
 | [Unravel Two](games/2/2cad1455afca4f79ba7010936155b0a8.md) | 2024-05-09 | - |  | - | 0 |
-| [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 2024-05-09 | 78 (1,000 XP) | 4,280,519 | 4.61 | 62,118 |
+| [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 2024-05-09 | 78 (1,000 XP) | 4,280,519 | 4.61 | 62,175 |
 | [Crown Trick](games/9/9b9b340c4dd449059df709c1f26db201.md) | 2024-05-09 | - |  | - | - |
 | [Cryptmaster](games/c/cryptmaster.md) | 2024-05-09 | - |  | - | 0 |
 | [1000xRESIST](games/1/1000xresist.md) | 2024-05-09 | - |  | - | 0 |
@@ -126,5 +126,3 @@
 | [Plants vs. Zombies™ Game of the Year Edition](games/c/c7f4f01a250d409ebf0a47677b1b4896.md) | 2024-05-02 | - |  | - | 0 |
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 2 | - | 0 |
 | [Undead Inc.](games/f/fe3316099db5422ebeb202e518942fa1.md) | 2024-05-02 | - |  | - | 0 |
-| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | - |  | 4.70 | 91 |
-| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | - |  | 4.56 | 834 |
