@@ -4,7 +4,7 @@
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 951,
   "Ranking_Popularity": 453,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1959,10 +1959,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 633,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-06-01T20:57:55.7843691+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 634,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 633,
+  "NumberOfAwards": 634,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2024,7 +2030,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2056,8 +2062,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2024-05-31T22:59:54.8624696+00:00",
+  "LastChanged": "2024-06-01T20:57:55.784369+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:33.264142+00:00",
-  "LastUpdate_Ratings": "2024-06-01T19:00:01.7507684+00:00",
+  "LastUpdate_Ratings": "2024-06-01T20:57:55.7843695+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:22.3864219+00:00"
 }
