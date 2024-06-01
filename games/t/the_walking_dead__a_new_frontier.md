@@ -1,7 +1,7 @@
 # The Walking Dead: A New Frontier
 [Store](https://store.epicgames.com/en-US/p/walking-dead-a-new-frontier)  
 [View Rawdata](../../db/t/the_walking_dead__a_new_frontier.json)  
-Rating: 4.79 (Ranked 107)  
+Rating: 4.80 (Ranked 98)  
 Number of Ratings: 27  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -35,3 +35,4 @@ Number of Ratings: 27  (23.09.2022)
 | 2024-03-26 | 4.82 | - | 0 | 0 |
 | 2024-03-29 | 4.81 | - | 0 | 0 |
 | 2024-04-01 | 4.79 | - | 0 | 0 |
+| 2024-06-01 | 4.80 | - | 0 | 0 |

@@ -3,8 +3,8 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 153,
-  "Ranking_Popularity": 278,
-  "Ranking_PopularitySum": 276,
+  "Ranking_Popularity": 272,
+  "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2405,18 +2405,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 1323,
       "NumberOfAwardsMax": 340
+    },
+    {
+      "Time": "2024-06-01T18:57:51.5083977+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1357,
+      "NumberOfAwardsMax": 366
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1323,
-  "NumberOfAwardsMax": 340,
+  "NumberOfAwards": 1357,
+  "NumberOfAwardsMax": 366,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 340
+      "Count": 366
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2428,7 +2434,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 107
+      "Count": 111
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2482,7 +2488,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 73
+      "Count": 77
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2515,8 +2521,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-01T15:57:30.638981+00:00",
+  "LastChanged": "2024-06-01T18:57:51.5083975+00:00",
   "LastUpdate_AppInfo": "2024-05-30T01:46:55.5938334+00:00",
-  "LastUpdate_Ratings": "2024-06-01T16:59:16.7109359+00:00",
+  "LastUpdate_Ratings": "2024-06-01T18:57:51.5083981+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
