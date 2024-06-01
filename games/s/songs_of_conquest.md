@@ -145,7 +145,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-10 | 1,935 | 0 |
 ## Awards
 Max (Diverse Characters): 32  (Ranked 578)  
-Sum: 276 (Ranked 446)  
+Sum: 277 (Ranked 446)  
 Diff (max vs sum): 132  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +155,7 @@ Diff (max vs sum): 132
 | This game is Relaxing | 30 |
 | This game is Great for Beginners | 28 |
 | This game is Highly Recommended | 27 |
-| This game has Unique Visuals | 26 |
+| This game has Unique Visuals | 27 |
 | This game is Extremely Fun | 26 |
 | This game has Competitive Players | 23 |
 | This game has Amazing Characters | 23 |
@@ -251,3 +251,4 @@ Diff (max vs sum): 132
 | 2024-05-05 | 4.67 | - | 32 | 273 |
 | 2024-05-14 | 4.67 | - | 32 | 275 |
 | 2024-05-25 | 4.67 | - | 32 | 276 |
+| 2024-06-01 | 4.67 | - | 32 | 277 |
