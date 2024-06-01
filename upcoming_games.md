@@ -15,6 +15,7 @@
 | [One Night With Kawaii](games/4/42671f8f7f0d4810b1e4674f881824b5.md) | 2024-06-08 | - |  | - | - |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | - |  | - | - |
 | [JudgeSim](games/7/7ec64dbd5e634886915c1e9cf35f4d78.md) | 2024-06-14 | - |  | - | - |
+| [survival advanced](games/e/e99fea59671c4c30b4cb63bc0b815c5a.md) | 2024-06-14 | - |  | - | - |
 | [Still Wakes The Deep](games/a/a2100103ee894b96826d1c1ce2bae4c9.md) | 2024-06-18 | - |  | - | - |
 | [Workers & Resources: Soviet Republic](games/f/f5fdb08368b845aa9c27df5cb6995a24.md) | 2024-06-20 | - |  | - | - |
 | [Immortal Life](games/b/b0de0a1fbe94491f9405ee6f825f3dd9.md) | 2024-06-21 | - |  | - | - |
@@ -191,7 +192,6 @@
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2024-12-31 | - |  | - | - |
 | [Spirit Castor: A Father's Trust](games/f/f1a5e1489de54426ba36cf0bbae2bd62.md) | 2024-12-31 | - |  | - | - |
 | [Star Vortex](games/f/f752f0d1dba941d1934cfdb69c8e944d.md) | 2024-12-31 | - |  | - | - |
-| [survival advanced](games/e/e99fea59671c4c30b4cb63bc0b815c5a.md) | 2024-12-31 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-12-31 | - |  | - | - |
 | [TERCIOS - Honor and glory](games/1/1203b99d9f59457480a3da3c090a3858.md) | 2024-12-31 | - |  | - | - |
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2024-12-31 | - |  | - | - |
