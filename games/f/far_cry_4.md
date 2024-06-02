@@ -1,7 +1,7 @@
 # FAR CRY 4
 [Store](https://store.epicgames.com/en-US/p/far-cry-4)  
 [View Rawdata](../../db/f/far_cry_4.json)  
-Rating: 4.67 (Ranked 299)  
+Rating: 4.68 (Ranked 280)  
 Number of Ratings: 639  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,045  (Ranked 177)  
@@ -460,4 +460,4 @@ Diff (max vs sum): -74
 | 2024-05-30 | 4.67 | - | 1,039 | 1,745 |
 | 2024-05-31 | 4.67 | - | 1,043 | 1,750 |
 | 2024-06-01 | 4.67 | - | 1,045 | 1,752 |
-| 2024-06-02 | 4.67 | - | 1,045 | 1,753 |
+| 2024-06-02 | 4.68 | - | 1,045 | 1,753 |

@@ -4,7 +4,7 @@
   "ProductSlug": "tower-of-fantasy",
   "Ranking_Rating": 908,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -5291,10 +5291,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1770,
       "NumberOfAwardsMax": 678
+    },
+    {
+      "Time": "2024-06-02T14:57:44.2955427+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1776,
+      "NumberOfAwardsMax": 678
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1770,
+  "NumberOfAwards": 1776,
   "NumberOfAwardsMax": 678,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5308,7 +5314,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5332,7 +5338,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 116
+      "Count": 118
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5344,7 +5350,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game has a Kind Community",
@@ -5362,7 +5368,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 93
+      "Count": 95
     }
   ],
   "EOS_Progressed": 0,
@@ -5377,8 +5383,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2024-06-01T17:57:27.2990416+00:00",
+  "LastChanged": "2024-06-02T14:57:44.2955425+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:24.2118955+00:00",
-  "LastUpdate_Ratings": "2024-06-02T13:01:28.0578429+00:00",
+  "LastUpdate_Ratings": "2024-06-02T14:57:44.2955432+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:02.286952+00:00"
 }

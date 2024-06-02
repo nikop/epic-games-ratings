@@ -1,7 +1,7 @@
 # The Riftbreaker
 [Store](https://store.epicgames.com/en-US/p/the-riftbreaker)  
 [View Rawdata](../../db/t/the_riftbreaker.json)  
-Rating: 4.76 (Ranked 143)  
+Rating: 4.75 (Ranked 152)  
 Number of Ratings: 277  (23.09.2022)  
 ## Awards
 Max (Character Customization): 221  (Ranked 328)  
@@ -206,3 +206,4 @@ Diff (max vs sum): -39
 | 2024-05-04 | 4.76 | - | 220 | 569 |
 | 2024-05-24 | 4.76 | - | 221 | 570 |
 | 2024-05-29 | 4.76 | - | 221 | 572 |
+| 2024-06-02 | 4.75 | - | 221 | 572 |

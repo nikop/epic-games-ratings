@@ -2,7 +2,7 @@
   "ID": "6e6aa039c73347b885803de65ac5d3db",
   "Name": "Ghost of Tsushima DIRECTOR\u0027S CUT",
   "ProductSlug": "ghost-of-tsushima",
-  "Ranking_Rating": 37,
+  "Ranking_Rating": 49,
   "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.85,
+  "Rating": 4.84,
   "RatingHistory": [
     {
       "Time": "2024-05-17T11:59:38.4268401+00:00",
@@ -589,10 +589,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 2206,
       "NumberOfAwardsMax": 1090
+    },
+    {
+      "Time": "2024-06-02T14:58:46.4667386+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2223,
+      "NumberOfAwardsMax": 1090
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2206,
+  "NumberOfAwards": 2223,
   "NumberOfAwardsMax": 1090,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -654,13 +660,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 88
+      "Count": 96
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 96
+      "Count": 105
     },
     {
       "Text": "This game has a Creative Community",
@@ -689,9 +695,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-06-02T11:58:53.7436051+00:00",
+  "LastChanged": "2024-06-02T14:58:46.4667385+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:01.6038252+00:00",
   "LastUpdate_AppInfo": "2024-05-29T23:57:21.4129515+00:00",
-  "LastUpdate_Ratings": "2024-06-02T13:02:38.6877532+00:00",
+  "LastUpdate_Ratings": "2024-06-02T14:58:46.466739+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:01.6038632+00:00"
 }
