@@ -3,12 +3,12 @@
 [View Rawdata](../../db/s/stg_football.json)  
 Rating: 4.44 (Ranked 756)  
 ## Awards
-Max (Great for Beginners): 55  (Ranked 504)  
-Sum: 408 (Ranked 396)  
+Max (Great for Beginners): 56  (Ranked 504)  
+Sum: 409 (Ranked 396)  
 Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 55 |
+| This game is Great for Beginners | 56 |
 | This game is Great for Quick Sessions | 46 |
 | This game is Extremely Fun | 40 |
 | This game has Diverse Characters | 39 |
@@ -167,3 +167,4 @@ Diff (max vs sum): 108
 | 2024-05-03 | 4.45 | 55 | 407 |
 | 2024-05-11 | 4.45 | 55 | 408 |
 | 2024-05-17 | 4.44 | 55 | 408 |
+| 2024-06-02 | 4.44 | 56 | 409 |
