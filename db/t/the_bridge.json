@@ -2,7 +2,7 @@
   "ID": "d5ee752640ef4cee8b7f5364410ba41f",
   "Name": "The Bridge",
   "ProductSlug": "the-bridge",
-  "Ranking_Rating": 1080,
+  "Ranking_Rating": 1081,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 99,
@@ -465,6 +465,6 @@
   "LastChanged": "2024-06-01T09:01:22.4736986+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:10.6175803+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:14.2130414+00:00",
-  "LastUpdate_Ratings": "2024-06-02T06:57:45.7395279+00:00",
+  "LastUpdate_Ratings": "2024-06-02T07:59:20.1254544+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:10.6175932+00:00"
 }
