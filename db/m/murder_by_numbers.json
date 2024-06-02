@@ -4,7 +4,7 @@
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 980,
   "Ranking_Popularity": 614,
-  "Ranking_PopularitySum": 495,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -609,10 +609,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 158,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-06-01T23:58:52.3812319+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 158,
+  "NumberOfAwards": 159,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -650,7 +656,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Relaxing",
@@ -677,8 +683,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-05-30T08:57:27.3737122+00:00",
+  "LastChanged": "2024-06-01T23:58:52.3812314+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:58:18.3139292+00:00",
-  "LastUpdate_Ratings": "2024-06-01T22:57:16.1573836+00:00",
+  "LastUpdate_Ratings": "2024-06-01T23:58:52.3812322+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:18.5743762+00:00"
 }
