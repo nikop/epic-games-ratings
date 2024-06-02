@@ -1,7 +1,7 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.74 (Ranked 169)  
+Rating: 4.73 (Ranked 188)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -517,3 +517,4 @@ Diff (max vs sum): -84
 | 2024-05-25 | 4.74 | 520 | 817 |
 | 2024-05-31 | 4.74 | 522 | 819 |
 | 2024-06-01 | 4.74 | 523 | 820 |
+| 2024-06-02 | 4.73 | 523 | 820 |
