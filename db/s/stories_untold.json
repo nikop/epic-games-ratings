@@ -2,7 +2,7 @@
   "ID": "313f3719063340f886d90e70ae503cd4",
   "Name": "Stories Untold",
   "ProductSlug": "stories-untold",
-  "Ranking_Rating": 615,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.51,
   "NumberOfRatings": 28,
   "RatingHistory": [
     {
@@ -201,6 +201,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-02T18:58:21.0999497+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -218,8 +224,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:00.2135471+00:00",
-  "LastChanged": "2024-01-23T01:50:35.9752786+00:00",
+  "LastChanged": "2024-06-02T18:58:21.0999495+00:00",
   "LastUpdate_AppInfo": "2024-06-02T08:57:06.5478337+00:00",
-  "LastUpdate_Ratings": "2024-06-02T17:00:11.110187+00:00",
+  "LastUpdate_Ratings": "2024-06-02T18:58:21.0999503+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:42.5655308+00:00"
 }

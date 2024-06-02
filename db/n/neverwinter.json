@@ -2,7 +2,7 @@
   "ID": "9a4a6536096c4307bfb235d811f754ce",
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
-  "Ranking_Rating": 945,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 987,
@@ -4435,10 +4435,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 2713,
       "NumberOfAwardsMax": 855
+    },
+    {
+      "Time": "2024-06-02T18:59:37.2695469+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 2715,
+      "NumberOfAwardsMax": 855
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2713,
+  "NumberOfAwards": 2715,
   "NumberOfAwardsMax": 855,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4464,7 +4470,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 272
+      "Count": 274
     },
     {
       "Text": "This game is Relaxing",
@@ -4520,8 +4526,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2024-06-02T13:00:50.1533446+00:00",
+  "LastChanged": "2024-06-02T18:59:37.2695467+00:00",
   "LastUpdate_AppInfo": "2024-05-27T01:47:12.3783924+00:00",
-  "LastUpdate_Ratings": "2024-06-02T17:57:45.7476017+00:00",
+  "LastUpdate_Ratings": "2024-06-02T18:59:37.2695472+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:10.5945486+00:00"
 }
