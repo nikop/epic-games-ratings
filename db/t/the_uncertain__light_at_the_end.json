@@ -2,7 +2,7 @@
   "ID": "03fd634dc7f24662ac5545277b89a826",
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
-  "Ranking_Rating": 1178,
+  "Ranking_Rating": 1177,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 372,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.83,
+  "Rating": 3.84,
   "RatingHistory": [
     {
       "Time": "2022-10-10T07:33:50.0588665+00:00",
@@ -89,6 +89,12 @@
     {
       "Time": "2024-03-17T13:58:53.4629827+00:00",
       "Rating": 3.83,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-02T01:58:27.871071+00:00",
+      "Rating": 3.84,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1756,9 +1762,9 @@
   "FirstSeen": "2022-07-22T20:32:49.9129709+00:00",
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
-  "LastChanged": "2024-03-17T13:58:53.4629825+00:00",
+  "LastChanged": "2024-06-02T01:58:27.8710708+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:24.4439485+00:00",
   "LastUpdate_AppInfo": "2024-05-26T07:57:12.5474058+00:00",
-  "LastUpdate_Ratings": "2024-06-01T23:58:16.8721011+00:00",
+  "LastUpdate_Ratings": "2024-06-02T01:58:27.8710714+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:24.4439748+00:00"
 }
