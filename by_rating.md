@@ -497,7 +497,7 @@
 | 493 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 48 | 522 |
 | 493 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 69,485 | 12 |
 | 493 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.58 | 134 | 385 |
-| 493 | [Chivalry 2](games/c/chivalry_2.md) | 4.58 | 5,862 | 82 |
+| 493 | [Chivalry 2](games/c/chivalry_2.md) | 4.58 | 5,877 | 82 |
 | 493 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 652 |
 | 493 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 0 | 652 |
 | 493 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.58 | 16,788 | 30 |

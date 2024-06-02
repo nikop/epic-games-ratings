@@ -81,7 +81,7 @@
 | 79 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,115 | 4.64 | 370 |
 | 80 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,098 | 4.07 | 1,121 |
 | 81 | [Prey](games/p/prey.md) | 6,058 | 4.63 | 384 |
-| 82 | [Chivalry 2](games/c/chivalry_2.md) | 5,862 | 4.58 | 493 |
+| 82 | [Chivalry 2](games/c/chivalry_2.md) | 5,877 | 4.58 | 493 |
 | 83 | [SMITE](games/s/smite.md) | 5,794 | 4.40 | 831 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 5,739 | 4.57 | 524 |
 | 85 | [God of War](games/g/god_of_war.md) | 5,690 | 4.87 | 21 |
