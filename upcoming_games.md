@@ -508,6 +508,7 @@
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | - |  | - | - |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2099-01-01 | - |  | - | - |
 | [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
+| [Rhythm Towers](games/5/5b560fb9239241dd8377d0c532f7c562.md) | 2099-01-01 | - |  | - | - |
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2099-01-01 | - |  | - | - |
 | [Rise of Industry 2](games/4/47f326b0d07b4b7c8435163b1c78c8ab.md) | 2099-01-01 | - |  | - | - |
 | [Rising Heat](games/2/2835eeff30174fcdaea3114f6b79aaf5.md) | 2099-01-01 | - |  | - | - |
