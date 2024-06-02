@@ -2,9 +2,9 @@
   "ID": "6e6aa039c73347b885803de65ac5d3db",
   "Name": "Ghost of Tsushima DIRECTOR\u0027S CUT",
   "ProductSlug": "ghost-of-tsushima",
-  "Ranking_Rating": 49,
-  "Ranking_Popularity": 178,
-  "Ranking_PopularitySum": 233,
+  "Ranking_Rating": 37,
+  "Ranking_Popularity": 172,
+  "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2024-05-17T11:59:38.4268401+00:00",
@@ -583,18 +583,24 @@
       "Rating": 4.84,
       "NumberOfAwards": 2139,
       "NumberOfAwardsMax": 1023
+    },
+    {
+      "Time": "2024-06-02T11:58:53.7436053+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 2206,
+      "NumberOfAwardsMax": 1090
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2139,
-  "NumberOfAwardsMax": 1023,
+  "NumberOfAwards": 2206,
+  "NumberOfAwardsMax": 1090,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1023
+      "Count": 1090
     },
     {
       "Text": "This game has Amazing Characters",
@@ -683,9 +689,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-06-02T08:58:16.4161344+00:00",
+  "LastChanged": "2024-06-02T11:58:53.7436051+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:01.6038252+00:00",
   "LastUpdate_AppInfo": "2024-05-29T23:57:21.4129515+00:00",
-  "LastUpdate_Ratings": "2024-06-02T10:00:53.1965706+00:00",
+  "LastUpdate_Ratings": "2024-06-02T11:58:53.7436057+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:01.6038632+00:00"
 }
