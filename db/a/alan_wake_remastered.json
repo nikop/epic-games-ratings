@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 692,
+  "Ranking_Rating": 706,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 93,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.47,
   "NumberOfRatings": 524,
   "RatingHistory": [
     {
@@ -746,6 +746,12 @@
     {
       "Time": "2024-05-31T02:58:41.9959819+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-06-02T05:00:08.6607301+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 88,
       "NumberOfAwardsMax": 23
     }
@@ -31309,9 +31315,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
-  "LastChanged": "2024-05-31T02:58:41.9959817+00:00",
+  "LastChanged": "2024-06-02T05:00:08.6607299+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:35.0554968+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:57:43.4950436+00:00",
-  "LastUpdate_Ratings": "2024-06-02T03:58:10.9318791+00:00",
+  "LastUpdate_Ratings": "2024-06-02T05:00:08.6607304+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:35.0556516+00:00"
 }
