@@ -44,7 +44,7 @@
 | [Tennis Manager 2024](games/0/0ccff28e73c64060b1c9a74c3298fd68.md) | 2024-05-23 | - |  | - | - |
 | [Vacation Adventures Park Ranger 16 Collectors Edition](games/5/53a06f8aaff64a5ab3939f048ccdb178.md) | 2024-05-23 | - |  | - | 0 |
 | [Magic Patrol Envoy](games/b/b373c02d39b8470187edd411bd1d36a3.md) | 2024-05-23 | - |  | - | - |
-| [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-23 | - |  | 4.26 | 440 |
+| [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-23 | - |  | 4.26 | 478 |
 | [KLONOA Phantasy Reverie Series](games/7/7120b2046fd845578509f66420ffc251.md) | 2024-05-23 | - |  | - | 0 |
 | [We Love Katamari REROLL+ Royal Reverie](games/5/5c8529a62b4243469be68b08bd5c1bfa.md) | 2024-05-23 | - |  | - | 0 |
 | [The Dark Isle](games/c/cc66d1c61f4d41c9b5377b5e13e92d80.md) | 2024-05-22 | - |  | - | 0 |
@@ -115,4 +115,3 @@
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-05-06 | - |  | - | - |
 | [Diamond Drone](games/5/5e307f50567c4f8fb0c187f0729bfd08.md) | 2024-05-05 | - |  | - | 0 |
 | [Quest Room](games/8/8b0f65a8a3c94a918eb954c2cac7102c.md) | 2024-05-03 | - |  | - | 0 |
-| [Outbreak The Fedora Files: What Lydia Knows](games/5/5367b40700174f1b9f4b5cc5ceb3751d.md) | 2024-05-03 | 31 (1,000 XP) | 2 | - | - |
