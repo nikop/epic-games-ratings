@@ -2,7 +2,7 @@
   "ID": "77961f9557a149a8bf1cf761220d9d24",
   "Name": "Need for Speed\u2122 Deluxe Edition",
   "ProductSlug": "need-for-speed-2016-74ce95",
-  "Ranking_Rating": 1125,
+  "Ranking_Rating": 1043,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 659,
@@ -23,11 +23,17 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.05,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2024-06-01T01:56:59.9897903+00:00",
       "Rating": 4.05,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-02T02:58:01.9540304+00:00",
+      "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -430,9 +436,9 @@
   "FirstSeen": "2024-03-29T19:57:06.1388769+00:00",
   "FirstSeenRating": "2024-06-01T01:56:59.9897901+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.75627+00:00",
-  "LastChanged": "2024-06-01T01:56:59.9897902+00:00",
+  "LastChanged": "2024-06-02T02:58:01.9540302+00:00",
   "LastChanged_Achievements": "2024-04-10T06:01:54.7562629+00:00",
   "LastUpdate_AppInfo": "2024-05-30T19:57:14.1365413+00:00",
-  "LastUpdate_Ratings": "2024-06-01T23:59:12.9028131+00:00",
+  "LastUpdate_Ratings": "2024-06-02T02:58:01.9540308+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:54.7572724+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/t/the_outer_worlds__spacer's_choice_edition.json)  
 Rating: 4.49 (Ranked 678)  
 ## Awards
-Max (Character Customization): 14,983  (Ranked 34)  
-Sum: 21,555 (Ranked 68)  
+Max (Character Customization): 15,045  (Ranked 34)  
+Sum: 21,617 (Ranked 68)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 14,983 |
+| This game has Inclusive Character Customization | 15,045 |
 | This game is Extremely Fun | 797 |
 | This game has Amazing Storytelling | 793 |
 | This game has Diverse Characters | 792 |
@@ -289,3 +289,4 @@ Diff (max vs sum): -34
 | 2024-05-30 | 4.49 | 14,952 | 21,468 |
 | 2024-05-31 | 4.49 | 14,983 | 21,521 |
 | 2024-06-01 | 4.49 | 14,983 | 21,555 |
+| 2024-06-02 | 4.49 | 15,045 | 21,617 |

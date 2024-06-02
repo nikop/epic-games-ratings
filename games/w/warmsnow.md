@@ -1,14 +1,14 @@
 # WarmSnow
 [Store](https://store.epicgames.com/en-US/p/warmsnow-7e3180)  
 [View Rawdata](../../db/w/warmsnow.json)  
-Rating: 4.80 (Ranked 98)  
+Rating: 4.79 (Ranked 107)  
 ## Awards
-Max (Great Boss Battles): 111  (Ranked 408)  
-Sum: 174 (Ranked 487)  
-Diff (max vs sum): -79  
+Max (Great Boss Battles): 112  (Ranked 407)  
+Sum: 175 (Ranked 487)  
+Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 111 |
+| This game has Great Boss Battles | 112 |
 | This game has Diverse Characters | 22 |
 | This game has Playful Visuals | 21 |
 | This game is Great for Beginners | 20 |
@@ -107,3 +107,4 @@ Diff (max vs sum): -79
 | 2024-05-25 | 4.80 | 110 | 153 |
 | 2024-05-26 | 4.80 | 110 | 173 |
 | 2024-05-27 | 4.80 | 111 | 174 |
+| 2024-06-02 | 4.79 | 112 | 175 |
