@@ -13,7 +13,7 @@
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |
 | [Western Chapter](games/2/2b0ab0a4593344dda8d3cfec92611189.md) | 2024-05-31 | - |  | - | - |
 | [Reliefs The Time of the Lemures](games/3/3184fa4f95ff42e48853f3f16de47fce.md) | 2024-05-30 | - |  | - | - |
-| [Mirrors Edge: Catalyst](games/c/cd0c538ae44e4261b8ef0306649598b8.md) | 2024-05-30 | - |  | - | - |
+| [Mirrors Edge: Catalyst](games/c/cd0c538ae44e4261b8ef0306649598b8.md) | 2024-05-30 | - |  | - | 0 |
 | [Peggle Deluxe](games/8/836b4fbba86a42d8a0ef7987fb1921f6.md) | 2024-05-30 | - |  | - | 0 |
 | [Peggle Nights](games/1/1e4df99c0f534878a737ff8ada9c0fc6.md) | 2024-05-30 | - |  | - | 0 |
 | [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | - |  | - | 0 |
@@ -96,7 +96,7 @@
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | - |  | - | - |
 | [Unravel](games/7/71d91cc48e0145078a1db1e402c8975b.md) | 2024-05-09 | - |  | - | 0 |
 | [Unravel Two](games/2/2cad1455afca4f79ba7010936155b0a8.md) | 2024-05-09 | - |  | - | 0 |
-| [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 2024-05-09 | 78 (1,000 XP) | 4,280,519 | 4.61 | 62,175 |
+| [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 2024-05-09 | 78 (1,000 XP) | 4,280,519 | 4.61 | 62,249 |
 | [Crown Trick](games/9/9b9b340c4dd449059df709c1f26db201.md) | 2024-05-09 | - |  | - | - |
 | [Cryptmaster](games/c/cryptmaster.md) | 2024-05-09 | - |  | - | 0 |
 | [1000xRESIST](games/1/1000xresist.md) | 2024-05-09 | - |  | - | 0 |
