@@ -850,7 +850,7 @@
 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 2022-07-28 | 70 (1,000 XP) | 2 | - | 0 |
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 2022-07-28 | 54 (1,000 XP) | 717,211 | 4.08 | 184 |
 | [LOOPMANCER](games/l/loopmancer.md) | 2022-07-27 | 57 (1,000 XP) | 110 | - | 0 |
-| [Deponia Doomsday](games/d/deponia_doomsday.md) | 2022-07-21 | 36 (1,000 XP) | 592 | 4.57 | 0 |
+| [Deponia Doomsday](games/d/deponia_doomsday.md) | 2022-07-21 | 36 (1,000 XP) | 592 | 4.58 | 0 |
 | [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 160,674 | 4.00 | 5,183 |
 | [Silence](games/s/silence.md) | 2022-07-21 | 46 (1,000 XP) | 232 | - | 0 |
 | [Hazel Sky](games/h/hazel_sky.md) | 2022-07-20 | 24 (1,000 XP) | 6 | - | 0 |
@@ -930,7 +930,7 @@
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 770,707 | 4.82 | 7,888 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,052,209 | 4.58 | 16,788 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 250 | 4.68 | 53 |
-| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,702 |
+| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,715 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 453 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 289 | - | 0 |
 | [Partisans 1941](games/p/partisans_1941.md) | 2022-01-11 | 30 (1,000 XP) | 2,357 | 4.63 | 0 |
@@ -1046,7 +1046,7 @@
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 240,594 | 4.67 | 621 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 1,337 | 4.49 | 111 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 52,575 | 4.44 | 0 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,364 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 832,015 | 4.71 | 8,370 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 4,398 | 4.61 | 94 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 2,421 | 4.60 | 429 |
 | [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 149,110 | 4.15 | 0 |
