@@ -1,7 +1,7 @@
 # Dying Light 2 Stay Human - Reloaded Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 493)  
+Rating: 4.59 (Ranked 475)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -886,4 +886,4 @@ Diff (max vs sum): -5
 | 2024-05-30 | 4.58 | - | 16,761 | 50,090 |
 | 2024-05-31 | 4.58 | - | 16,770 | 50,144 |
 | 2024-06-01 | 4.58 | - | 16,788 | 50,209 |
-| 2024-06-02 | 4.58 | - | 16,788 | 50,244 |
+| 2024-06-02 | 4.59 | - | 16,788 | 50,244 |

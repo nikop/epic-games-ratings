@@ -1,11 +1,11 @@
 # The Captain
 [Store](https://store.epicgames.com/en-US/p/the-captain)  
 [View Rawdata](../../db/t/the_captain.json)  
-Rating: 4.44 (Ranked 755)  
+Rating: 4.44 (Ranked 756)  
 Number of Ratings: 2,117  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 99  (Ranked 427)  
-Sum: 677 (Ranked 343)  
+Sum: 678 (Ranked 343)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -19,7 +19,7 @@ Diff (max vs sum): 84
 | This game has Obsessive Gameplay | 62 |
 | This game is Relaxing | 62 |
 | This game has Playful Visuals | 52 |
-| This game has a Creative Community | 43 |
+| This game has a Creative Community | 44 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -53,3 +53,4 @@ Diff (max vs sum): 84
 | 2024-04-20 | 4.44 | - | 99 | 675 |
 | 2024-05-10 | 4.44 | - | 99 | 676 |
 | 2024-05-13 | 4.44 | - | 99 | 677 |
+| 2024-06-02 | 4.44 | - | 99 | 678 |

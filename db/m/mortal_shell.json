@@ -2,9 +2,9 @@
   "ID": "ff8c96d781824ba1ae62d18d207fc52e",
   "Name": "Mortal Shell",
   "ProductSlug": "mortal-shell",
-  "Ranking_Rating": 989,
+  "Ranking_Rating": 990,
   "Ranking_Popularity": 623,
-  "Ranking_PopularitySum": 517,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -799,10 +799,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 113,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-06-02T19:58:12.0984009+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 113,
+  "NumberOfAwards": 114,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -834,7 +840,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Highly Recommended",
@@ -854,8 +860,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2024-06-02T16:57:17.3060619+00:00",
+  "LastChanged": "2024-06-02T19:58:12.0984007+00:00",
   "LastUpdate_AppInfo": "2024-05-26T19:58:08.4842597+00:00",
-  "LastUpdate_Ratings": "2024-06-02T18:00:02.4148721+00:00",
+  "LastUpdate_Ratings": "2024-06-02T19:58:12.0984012+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:38.5873788+00:00"
 }
