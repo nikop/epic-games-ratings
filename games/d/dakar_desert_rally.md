@@ -3,12 +3,12 @@
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
 Rating: 3.95 (Ranked 1,154)  
 ## Awards
-Max (Highly Recommended): 124  (Ranked 395)  
-Sum: 933 (Ranked 305)  
-Diff (max vs sum): 90  
+Max (Highly Recommended): 125  (Ranked 393)  
+Sum: 934 (Ranked 305)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 124 |
+| This game is Highly Recommended | 125 |
 | This game has Realistic Visuals | 108 |
 | This game has Competitive Players | 105 |
 | This game is Extremely Fun | 105 |
@@ -206,3 +206,4 @@ Diff (max vs sum): 90
 | 2024-05-31 | 3.95 | 123 | 925 |
 | 2024-06-01 | 3.95 | 124 | 928 |
 | 2024-06-02 | 3.95 | 124 | 933 |
+| 2024-06-03 | 3.95 | 125 | 934 |
