@@ -4,7 +4,7 @@
   "ProductSlug": "hand-of-fate-2",
   "Ranking_Rating": 602,
   "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 471,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 25,
@@ -1007,10 +1007,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-06-03T09:58:27.8629536+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 209,
+  "NumberOfAwards": 210,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1048,7 +1054,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Unique Visuals",
@@ -28373,9 +28379,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
-  "LastChanged": "2024-06-03T01:50:49.140249+00:00",
+  "LastChanged": "2024-06-03T09:58:27.8629535+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:10.7380641+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:15.0477796+00:00",
-  "LastUpdate_Ratings": "2024-06-03T08:00:43.1994123+00:00",
+  "LastUpdate_Ratings": "2024-06-03T09:58:27.862954+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:10.7381864+00:00"
 }
