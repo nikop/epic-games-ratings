@@ -1,7 +1,7 @@
 # Mafia II: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-ii-definitive-edition)  
 [View Rawdata](../../db/m/mafia_ii__definitive_edition.json)  
-Rating: 4.41 (Ranked 817)  
+Rating: 4.42 (Ranked 805)  
 Number of Ratings: 1,020  (23.09.2022)  
 ## Awards
 | Award | Count |
@@ -108,3 +108,4 @@ Number of Ratings: 1,020  (23.09.2022)
 | 2024-05-31 | 4.41 | - | 0 | 0 |
 | 2024-06-01 | 4.42 | - | 0 | 0 |
 | 2024-06-02 | 4.41 | - | 0 | 0 |
+| 2024-06-03 | 4.42 | - | 0 | 0 |

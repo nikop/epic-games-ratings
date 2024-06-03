@@ -1,7 +1,7 @@
 # The Riflemen
 [Store](https://store.epicgames.com/en-US/p/the-riflemen-8be608)  
 [View Rawdata](../../db/t/the_riflemen.json)  
-Rating: 4.35 (Ranked 894)  
+Rating: 4.36 (Ranked 883)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -257,3 +257,4 @@ Completed: 11,761 (9.73%) (Ranked 50)
 | 2024-04-28 | 4.41 | 0 | 0 |
 | 2024-05-06 | 4.38 | 0 | 0 |
 | 2024-05-22 | 4.35 | 0 | 0 |
+| 2024-06-03 | 4.36 | 0 | 0 |
