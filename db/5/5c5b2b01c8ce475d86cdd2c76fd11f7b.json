@@ -2,8 +2,8 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_Rating": 990,
-  "Ranking_Popularity": 412,
+  "Ranking_Rating": 1001,
+  "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 458,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2024-03-15T19:58:30.0365604+00:00",
@@ -1757,11 +1757,17 @@
       "Rating": 4.26,
       "NumberOfAwards": 637,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-06-03T21:00:44.6483088+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 639,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 637,
-  "NumberOfAwardsMax": 106,
+  "NumberOfAwards": 639,
+  "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1774,7 +1780,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 106
+      "Count": 108
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3011,9 +3017,9 @@
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenRating": "2024-03-15T19:58:30.0365601+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged": "2024-06-02T15:00:11.8522529+00:00",
+  "LastChanged": "2024-06-03T21:00:44.6483086+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:24.1890806+00:00",
   "LastUpdate_AppInfo": "2024-05-30T04:57:17.0271284+00:00",
-  "LastUpdate_Ratings": "2024-06-03T19:57:32.0134734+00:00",
+  "LastUpdate_Ratings": "2024-06-03T21:00:44.6483092+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:24.1891469+00:00"
 }
