@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 152,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -2519,10 +2519,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1524,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2024-06-03T22:59:21.7879492+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1528,
+      "NumberOfAwardsMax": 416
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1524,
+  "NumberOfAwards": 1528,
   "NumberOfAwardsMax": 416,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2596,7 +2602,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 80
+      "Count": 84
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2629,8 +2635,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-03T19:59:08.2970918+00:00",
+  "LastChanged": "2024-06-03T22:59:21.787949+00:00",
   "LastUpdate_AppInfo": "2024-05-30T01:46:55.5938334+00:00",
-  "LastUpdate_Ratings": "2024-06-03T21:57:20.6428674+00:00",
+  "LastUpdate_Ratings": "2024-06-03T22:59:21.7879496+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
