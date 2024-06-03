@@ -525,6 +525,7 @@
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shy Cats Hidden Orchestra](games/7/744c73d9f99f416dabceeacaf91031a1.md) | 2099-01-01 | - |  | - | - |
+| [Silence of the Siren](games/e/eff9150abbd240558978d1285945ac45.md) | 2099-01-01 | - |  | - | - |
 | [SILENT BREATH](games/5/52075e29778942ce97f3b0f64ea16e52.md) | 2099-01-01 | - |  | - | - |
 | [Silent Depths](games/c/c916a6f3061d4785b9d39c36bcbb7ece.md) | 2099-01-01 | - |  | - | - |
 | [Singularity](games/d/df8d7b9bd9dc461991b6dd9429e11373.md) | 2099-01-01 | - |  | - | - |
