@@ -1,12 +1,12 @@
 # Steep Standard Edition
 [Store](https://store.epicgames.com/en-US/p/steep)  
 [View Rawdata](../../db/s/steep_standard_edition.json)  
-Rating: 4.70 (Ranked 230)  
+Rating: 4.70 (Ranked 229)  
 Number of Ratings: 414  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 31  (Ranked 581)  
+Max (Great for Beginners): 31  (Ranked 582)  
 Sum: 224 (Ranked 464)  
-Diff (max vs sum): 117  
+Diff (max vs sum): 118  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 32 |

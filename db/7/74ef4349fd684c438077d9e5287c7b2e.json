@@ -2,9 +2,9 @@
   "ID": "74ef4349fd684c438077d9e5287c7b2e",
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
-  "Ranking_Rating": 585,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 554,
+  "Ranking_Rating": 563,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2024-03-14T14:58:36.3976804+00:00",
@@ -570,10 +570,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 71,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-06-03T18:57:41.2788748+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 71,
+  "NumberOfAwards": 73,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -587,7 +593,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 22
     },
     {
       "Text": "This game has a Creative Community",
@@ -608,8 +614,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-06-02T13:00:43.5303558+00:00",
+  "LastChanged": "2024-06-03T18:57:41.2788746+00:00",
   "LastUpdate_AppInfo": "2024-05-31T05:57:24.4206315+00:00",
-  "LastUpdate_Ratings": "2024-06-03T16:59:27.3184765+00:00",
+  "LastUpdate_Ratings": "2024-06-03T18:57:41.2788751+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:49.7776766+00:00"
 }

@@ -1,15 +1,15 @@
 # Wolfenstein: The New Order - Worldwide
 [Store](https://store.epicgames.com/en-US/p/wolfenstein-the-new-order)  
 [View Rawdata](../../db/w/wolfenstein__the_new_order_-_worldwide.json)  
-Rating: 4.58 (Ranked 494)  
+Rating: 4.58 (Ranked 495)  
 Number of Ratings: 61,135  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 14,913  (Ranked 35)  
-Sum: 17,761 (Ranked 75)  
+Max (Great Boss Battles): 14,916  (Ranked 35)  
+Sum: 17,764 (Ranked 75)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 14,913 |
+| This game has Great Boss Battles | 14,916 |
 | This game is Great for Beginners | 392 |
 | This game has Diverse Characters | 387 |
 | This game is Relaxing | 362 |
@@ -395,4 +395,4 @@ Diff (max vs sum): -40
 | 2024-05-31 | 4.58 | - | 14,908 | 17,754 |
 | 2024-06-01 | 4.58 | - | 14,908 | 17,755 |
 | 2024-06-02 | 4.58 | - | 14,913 | 17,760 |
-| 2024-06-03 | 4.58 | - | 14,913 | 17,761 |
+| 2024-06-03 | 4.58 | - | 14,916 | 17,764 |

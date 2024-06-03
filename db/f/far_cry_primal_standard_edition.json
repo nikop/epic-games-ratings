@@ -2,7 +2,7 @@
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
-  "Ranking_Rating": 217,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 987,
@@ -2951,10 +2951,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 1088,
       "NumberOfAwardsMax": 705
+    },
+    {
+      "Time": "2024-06-03T18:58:47.416804+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 1089,
+      "NumberOfAwardsMax": 705
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1088,
+  "NumberOfAwards": 1089,
   "NumberOfAwardsMax": 705,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2974,7 +2980,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3030,8 +3036,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2024-06-03T15:58:36.8637404+00:00",
+  "LastChanged": "2024-06-03T18:58:47.4168034+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:37.2594022+00:00",
-  "LastUpdate_Ratings": "2024-06-03T17:01:07.6262284+00:00",
+  "LastUpdate_Ratings": "2024-06-03T18:58:47.4168056+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:50.6741631+00:00"
 }
