@@ -2,7 +2,7 @@
   "ID": "0c05e0889c3e42a4be1d81077d6e653a",
   "Name": "SKULL AND BONES\u2122",
   "ProductSlug": "skull-and-bones",
-  "Ranking_Rating": 1097,
+  "Ranking_Rating": 1101,
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.13,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2024-02-16T20:00:02.6134349+00:00",
@@ -2731,10 +2731,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 5954,
       "NumberOfAwardsMax": 2739
+    },
+    {
+      "Time": "2024-06-03T01:51:07.9870238+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 5964,
+      "NumberOfAwardsMax": 2739
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5954,
+  "NumberOfAwards": 5964,
   "NumberOfAwardsMax": 2739,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2748,7 +2754,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 633
+      "Count": 635
     },
     {
       "Text": "This game is Relaxing",
@@ -2772,7 +2778,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 678
+      "Count": 686
     },
     {
       "Text": "This game has Competitive Players",
@@ -2799,8 +2805,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-16T05:01:19.7778357+00:00",
   "FirstSeenRating": "2024-02-16T20:00:02.6134347+00:00",
-  "LastChanged": "2024-06-02T22:58:59.5781298+00:00",
+  "LastChanged": "2024-06-03T01:51:07.9870236+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:25.2470258+00:00",
-  "LastUpdate_Ratings": "2024-06-02T22:58:59.5781304+00:00",
+  "LastUpdate_Ratings": "2024-06-03T01:51:07.9870244+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:14.8805056+00:00"
 }
