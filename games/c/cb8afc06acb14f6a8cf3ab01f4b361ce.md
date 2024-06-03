@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.22 (Ranked 1,028)  
+Rating: 4.21 (Ranked 1,037)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -273,3 +273,4 @@ Diff (max vs sum): -109
 | 2024-05-28 | 4.22 | 105 | 105 |
 | 2024-05-29 | 4.21 | 105 | 105 |
 | 2024-06-02 | 4.22 | 105 | 105 |
+| 2024-06-03 | 4.21 | 105 | 105 |
