@@ -75,7 +75,7 @@
 | 60 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.83 | 29 | 594 |
 | 74 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 493 | 246 |
 | 74 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 554 |
-| 74 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,004 | 132 |
+| 74 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,012 | 131 |
 | 74 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 50 | 518 |
 | 74 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 652 |
 | 74 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 360 | 273 |
@@ -258,7 +258,7 @@
 | 255 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 134,265 | 9 |
 | 255 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 652 |
 | 255 | [Cave Story+](games/c/cave_story+.md) | 4.69 | 138 | 382 |
-| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,510 | 61 |
+| 255 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,514 | 61 |
 | 255 | [Dungeons 4](games/d/dungeons_4.md) | 4.69 | 0 | 652 |
 | 255 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.69 | 85 | 448 |
 | 255 | [House Flipper](games/h/house_flipper.md) | 4.69 | 350 | 275 |
@@ -284,7 +284,7 @@
 | 280 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 652 |
 | 280 | [Coromon](games/c/coromon.md) | 4.68 | 50 | 518 |
 | 280 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.68 | 166,193 | 7 |
-| 280 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,637 | 94 |
+| 280 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,639 | 94 |
 | 280 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 9,704 | 54 |
 | 280 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 53 | 512 |
 | 280 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.68 | 28 | 599 |
@@ -336,7 +336,7 @@
 | 324 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 652 |
 | 324 | [High On Life](games/h/high_on_life.md) | 4.66 | 0 | 652 |
 | 324 | [Overcooked](games/o/overcooked.md) | 4.66 | 141 | 380 |
-| 324 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 2,006 | 131 |
+| 324 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 2,006 | 132 |
 | 324 | [RIDE 5](games/r/ride_5.md) | 4.66 | 0 | 652 |
 | 324 | [Road 96](games/r/road_96.md) | 4.66 | 0 | 652 |
 | 324 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 27 | 607 |
@@ -773,7 +773,7 @@
 | 757 | [OUTRIDERS](games/o/outriders.md) | 4.44 | 1,616 | 145 |
 | 757 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 652 |
 | 757 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 652 |
-| 757 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 839,264 | 2 |
+| 757 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 840,386 | 2 |
 | 757 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 652 |
 | 757 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 504 |
 | 757 | [The Big Con](games/t/the_big_con.md) | 4.44 | 0 | 652 |
@@ -1015,7 +1015,7 @@
 | 1,010 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.24 | 0 | 652 |
 | 1,010 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 652 |
 | 1,010 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,264 | 156 |
-| 1,010 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,051 | 176 |
+| 1,010 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,052 | 176 |
 | 1,010 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.24 | 39 | 545 |
 | 1,010 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 652 |
 | 1,010 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 652 |
@@ -1100,11 +1100,11 @@
 | 1,097 | [Gravewood High](games/g/gravewood_high.md) | 4.13 | 0 | 652 |
 | 1,097 | [Lake](games/l/lake.md) | 4.13 | 0 | 652 |
 | 1,097 | [Relicta](games/r/relicta.md) | 4.13 | 206 | 335 |
-| 1,101 | [Banished](games/b/banished.md) | 4.12 | 0 | 652 |
-| 1,101 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 652 |
-| 1,101 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 623 |
-| 1,101 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.12 | 2,739 | 112 |
-| 1,101 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.12 | 0 | 652 |
+| 1,097 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,739 | 112 |
+| 1,102 | [Banished](games/b/banished.md) | 4.12 | 0 | 652 |
+| 1,102 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 652 |
+| 1,102 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 623 |
+| 1,102 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.12 | 0 | 652 |
 | 1,106 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.11 | 0 | 652 |
 | 1,106 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.11 | 0 | 652 |
 | 1,108 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 0 | 652 |
