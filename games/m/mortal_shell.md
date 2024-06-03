@@ -1,16 +1,16 @@
 # Mortal Shell
 [Store](https://store.epicgames.com/en-US/p/mortal-shell)  
 [View Rawdata](../../db/m/mortal_shell.json)  
-Rating: 4.26 (Ranked 989)  
+Rating: 4.25 (Ranked 1,001)  
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 24  (Ranked 623)  
-Sum: 114 (Ranked 516)  
-Diff (max vs sum): 107  
+Max (Quickly Understood Controls): 25  (Ranked 620)  
+Sum: 115 (Ranked 514)  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88 |
-| This game has Quickly Understood Controls | 24 |
+| This game has Quickly Understood Controls | 25 |
 | This game has Diverse Characters | 24 |
 | This game has Unique Visuals | 23 |
 | This game is Extremely Fun | 23 |
@@ -153,3 +153,4 @@ Diff (max vs sum): 107
 | 2024-05-31 | 4.25 | - | 24 | 112 |
 | 2024-06-01 | 4.26 | - | 24 | 112 |
 | 2024-06-02 | 4.26 | - | 24 | 114 |
+| 2024-06-03 | 4.25 | - | 25 | 115 |

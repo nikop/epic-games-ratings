@@ -3,7 +3,7 @@
   "Name": "Human Resource Machine",
   "ProductSlug": "human-resource-machine",
   "Ranking_Rating": 404,
-  "Ranking_Popularity": 448,
+  "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -401,6 +401,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.6149288+00:00",
   "LastChanged": "2024-05-19T17:59:23.125629+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:50:08.0801679+00:00",
-  "LastUpdate_Ratings": "2024-06-03T08:59:06.0363933+00:00",
+  "LastUpdate_Ratings": "2024-06-03T10:57:50.0276501+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:32.0136029+00:00"
 }
