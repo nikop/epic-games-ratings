@@ -1,7 +1,7 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.08 (Ranked 1,118)  
+Rating: 4.08 (Ranked 1,119)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -335,7 +335,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-10 | 314,529 | 0 |
 ## Awards
 Max (Great for Beginners): 237  (Ranked 318)  
-Sum: 1,774 (Ranked 248)  
+Sum: 1,775 (Ranked 248)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 70
 | This game is Extremely Fun | 173 |
 | This game has Competitive Players | 166 |
 | This game has Challenging Combat | 124 |
-| This game has a Competitive Community | 118 |
+| This game has a Competitive Community | 119 |
 | This game has Amazing Storytelling | 111 |
 | This game has Amazing Characters | 99 |
 | This game has Obsessive Gameplay | 65 |
@@ -652,4 +652,4 @@ Diff (max vs sum): 70
 | 2024-05-30 | 4.08 | - | 237 | 1,770 |
 | 2024-06-01 | 4.08 | - | 237 | 1,772 |
 | 2024-06-02 | 4.08 | - | 237 | 1,773 |
-| 2024-06-03 | 4.08 | - | 237 | 1,774 |
+| 2024-06-03 | 4.08 | - | 237 | 1,775 |
