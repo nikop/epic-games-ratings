@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 781)
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 507)  
-Sum: 294 (Ranked 439)  
-Diff (max vs sum): 68  
+Sum: 295 (Ranked 438)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 54 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 68
 | This game is Extremely Fun | 34 |
 | This game has Competitive Players | 32 |
 | This game has Amazing Storytelling | 31 |
-| This game is Highly Recommended | 29 |
+| This game is Highly Recommended | 30 |
 | This game has Challenging Combat | 21 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
@@ -215,3 +215,4 @@ Diff (max vs sum): 68
 | 2024-05-18 | 4.43 | - | 53 | 292 |
 | 2024-05-20 | 4.42 | - | 54 | 294 |
 | 2024-05-25 | 4.43 | - | 54 | 294 |
+| 2024-06-04 | 4.43 | - | 54 | 295 |
