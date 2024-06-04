@@ -2,7 +2,7 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 545,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 987,
@@ -14195,10 +14195,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 24500,
       "NumberOfAwardsMax": 9716
+    },
+    {
+      "Time": "2024-06-04T13:03:46.6231588+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 24503,
+      "NumberOfAwardsMax": 9716
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24500,
+  "NumberOfAwards": 24503,
   "NumberOfAwardsMax": 9716,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14242,13 +14248,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1121
+      "Count": 1123
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1087
+      "Count": 1088
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14274,8 +14280,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-06-03T22:58:25.3297654+00:00",
+  "LastChanged": "2024-06-04T13:03:46.6231586+00:00",
   "LastUpdate_AppInfo": "2024-06-02T08:57:06.218424+00:00",
-  "LastUpdate_Ratings": "2024-06-04T11:02:03.8124348+00:00",
+  "LastUpdate_Ratings": "2024-06-04T13:03:46.6231591+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:56.5890805+00:00"
 }

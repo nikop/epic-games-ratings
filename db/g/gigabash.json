@@ -2,7 +2,7 @@
   "ID": "16fc138ed83846bc90d923fe0d87ad72",
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 101,
@@ -23,7 +23,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2022-10-02T07:32:08.4274132+00:00",
@@ -590,6 +590,12 @@
     {
       "Time": "2024-06-01T01:56:56.0618987+00:00",
       "Rating": 4.52,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2024-06-04T13:02:37.2822465+00:00",
+      "Rating": 4.51,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 102
     }
@@ -6684,9 +6690,9 @@
   "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
-  "LastChanged": "2024-06-01T01:56:56.0618985+00:00",
+  "LastChanged": "2024-06-04T13:02:37.2822463+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:45.6379227+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:13.5705743+00:00",
-  "LastUpdate_Ratings": "2024-06-04T11:00:13.0289125+00:00",
+  "LastUpdate_Ratings": "2024-06-04T13:02:37.2822467+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:45.6379719+00:00"
 }
