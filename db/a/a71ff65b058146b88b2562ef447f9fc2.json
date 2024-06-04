@@ -2,7 +2,7 @@
   "ID": "a71ff65b058146b88b2562ef447f9fc2",
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2024-05-30T22:57:52.5489386+00:00",
@@ -52,6 +52,12 @@
     {
       "Time": "2024-06-03T18:59:53.677347+00:00",
       "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-04T18:57:55.8996808+00:00",
+      "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -488,9 +494,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-06-03T18:59:53.6773469+00:00",
+  "LastChanged": "2024-06-04T18:57:55.8996805+00:00",
   "LastChanged_Achievements": "2024-04-10T06:01:54.2825831+00:00",
   "LastUpdate_AppInfo": "2024-05-30T19:57:14.512694+00:00",
-  "LastUpdate_Ratings": "2024-06-04T16:59:12.0986609+00:00",
+  "LastUpdate_Ratings": "2024-06-04T18:57:55.8996811+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:54.2834372+00:00"
 }
