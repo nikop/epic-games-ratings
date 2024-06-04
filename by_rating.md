@@ -112,8 +112,8 @@
 | 108 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 0 | 652 |
 | 108 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 182 | 351 |
 | 108 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 630 |
-| 108 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,727 | 142 |
-| 108 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 980 | 182 |
+| 108 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,731 | 142 |
+| 108 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 981 | 182 |
 | 108 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,967 | 111 |
 | 108 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 445 | 254 |
 | 108 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 125 | 392 |
@@ -464,7 +464,7 @@
 | 458 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 429 | 257 |
 | 458 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 652 |
 | 458 | [DOOM 3](games/d/doom_3.md) | 4.60 | 73 | 469 |
-| 458 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,087 | 29 |
+| 458 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,105 | 29 |
 | 458 | [GRIME](games/g/grime.md) | 4.60 | 89 | 444 |
 | 458 | [MotoGP™21](games/m/motogp™21.md) | 4.60 | 27 | 607 |
 | 458 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 88 | 445 |
@@ -811,7 +811,7 @@
 | 805 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 652 |
 | 805 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.42 | 0 | 652 |
 | 805 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 41 | 539 |
-| 805 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 265 | 304 |
+| 805 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 266 | 304 |
 | 805 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
 | 805 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,316 | 151 |
 | 805 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 189 | 345 |
