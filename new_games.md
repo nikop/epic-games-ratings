@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | 2024-06-04 | - |  | - | - |
+| [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | 2024-06-04 | - |  | - | 0 |
 | [Buff](games/a/ad7c1ad62a9543a8977bcebbbf1e5ae1.md) | 2024-06-04 | - |  | - | - |
 | [Tom Clancy's Rainbow Six Vegas](games/c/c038d64da53c4cabb109419c0cd51838.md) | 2024-06-04 | - |  | - | - |
 | [Tom Clancy's Rainbow Six Vegas 2](games/2/25f0070354fb4a99aea10c26488fe342.md) | 2024-06-04 | - |  | - | - |
