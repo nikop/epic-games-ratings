@@ -174,7 +174,7 @@
 | 170 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 64 | 485 |
 | 170 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 38,914 | 17 |
 | 170 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 968 | 183 |
-| 170 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,416 | 57 |
+| 170 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,421 | 57 |
 | 170 | [Outlast](games/o/outlast.md) | 4.74 | 32 | 580 |
 | 170 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,111 | 169 |
 | 170 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 653 |
@@ -262,7 +262,7 @@
 | 256 | [Dungeons 4](games/d/dungeons_4.md) | 4.69 | 0 | 653 |
 | 256 | [House Flipper](games/h/house_flipper.md) | 4.69 | 351 | 275 |
 | 256 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 653 |
-| 256 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 193 | 344 |
+| 256 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 194 | 344 |
 | 256 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,298 | 152 |
 | 256 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,098 | 127 |
 | 256 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 697 | 216 |
@@ -529,7 +529,7 @@
 | 524 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.57 | 0 | 653 |
 | 524 | [Chivalry 2](games/c/chivalry_2.md) | 4.57 | 5,907 | 82 |
 | 524 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 0 | 653 |
-| 524 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.57 | 272 | 302 |
+| 524 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.57 | 276 | 301 |
 | 524 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 653 |
 | 524 | [Isonzo](games/i/isonzo.md) | 4.57 | 50 | 519 |
 | 524 | [Minit](games/m/minit.md) | 4.57 | 0 | 653 |
@@ -618,7 +618,7 @@
 | 603 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 4.53 | 32 | 580 |
 | 603 | [Verdun](games/v/verdun.md) | 4.53 | 117 | 399 |
 | 618 | [9Lives Arena](games/9/9lives_arena.md) | 4.52 | 37 | 552 |
-| 618 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 272 | 302 |
+| 618 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 272 | 303 |
 | 618 | [Crying Suns](games/c/crying_suns.md) | 4.52 | 241 | 317 |
 | 618 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 653 |
 | 618 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 653 |
@@ -963,26 +963,26 @@
 | 955 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 653 |
 | 955 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.29 | 0 | 653 |
 | 955 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 61 | 488 |
+| 955 | [Nightingale](games/n/nightingale.md) | 4.29 | 74 | 467 |
 | 955 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 54 | 507 |
 | 955 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.29 | 0 | 653 |
 | 955 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.29 | 207 | 334 |
 | 955 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 653 |
-| 968 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.28 | 0 | 653 |
-| 968 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 0 | 653 |
-| 968 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.28 | 58 | 495 |
-| 968 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.28 | 0 | 653 |
-| 968 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 49 | 522 |
-| 968 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.28 | 23 | 631 |
-| 968 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 653 |
-| 968 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 653 |
-| 968 | [Nightingale](games/n/nightingale.md) | 4.28 | 74 | 467 |
-| 968 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 653 |
-| 968 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.28 | 0 | 653 |
-| 968 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 181 | 353 |
-| 968 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 133 | 386 |
-| 968 | [Steelrising](games/s/steelrising.md) | 4.28 | 44 | 532 |
-| 968 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 361 |
-| 968 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.28 | 567 | 233 |
+| 969 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.28 | 0 | 653 |
+| 969 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.28 | 0 | 653 |
+| 969 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.28 | 58 | 495 |
+| 969 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.28 | 0 | 653 |
+| 969 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.28 | 49 | 522 |
+| 969 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.28 | 23 | 631 |
+| 969 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 653 |
+| 969 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 653 |
+| 969 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 653 |
+| 969 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.28 | 0 | 653 |
+| 969 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 181 | 353 |
+| 969 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 133 | 386 |
+| 969 | [Steelrising](games/s/steelrising.md) | 4.28 | 44 | 532 |
+| 969 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 361 |
+| 969 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.28 | 567 | 233 |
 | 984 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 81 | 452 |
 | 984 | [Men of War](games/m/men_of_war.md) | 4.27 | 0 | 653 |
 | 984 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 26 | 617 |
