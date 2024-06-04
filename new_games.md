@@ -1,6 +1,8 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | - |
+| [Tom Clancy's Rainbow Six Vegas](games/c/c038d64da53c4cabb109419c0cd51838.md) | 2024-06-04 | - |  | - | - |
+| [Tom Clancy's Rainbow Six Vegas 2](games/2/25f0070354fb4a99aea10c26488fe342.md) | 2024-06-04 | - |  | - | - |
+| [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | 0 |
 | [1001 Jigsaw: Earth Chronicles 2](games/8/818219d294284979a166202ce578439e.md) | 2024-06-03 | - |  | - | - |
 | [League of Angels: Pact](games/0/075ee5cb11b74aba8ea786c0476fad8f.md) | 2024-06-03 | - |  | - | 0 |
 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | - | 0 |

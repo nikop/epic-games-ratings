@@ -24,13 +24,13 @@
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2025-12-31 | 19 (1,000 XP) | 1 | - | - |
 | [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-12-31 | 31 (1,000 XP) | 398,559 | - | - |
 | [The Swine](games/t/the_swine.md) | 2024-12-31 | 5 (1,000 XP) | 0 | - | - |
-| [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-11-18 | 38 (1,000 XP) | 1 | - | - |
-| [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-11-18 | 38 (1,000 XP) | 1 | - | - |
+| [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-12-18 | 38 (1,000 XP) | 1 | - | - |
+| [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-12-18 | 38 (1,000 XP) | 1 | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-09-30 | 16 (1,000 XP) | 0 | - | - |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 0 | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2024-06-06 | 21 (1,000 XP) | 0 | - | - |
-| [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | - |
+| [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | 0 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 18 | - | 0 |
 | [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,840 |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 1 | - | 0 |
@@ -628,13 +628,13 @@
 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 2023-04-29 | 35 (1,000 XP) | 50 | - | 0 |
 | [Life After Death](games/l/life_after_death.md) | 2023-04-28 | 60 (1,000 XP) | 37 | - | 0 |
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 10 (1,000 XP) | 21 | - | 0 |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 55,690 | 4.50 | 13,127 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 55,690 | 4.50 | 13,137 |
 | [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 571,456 | 3.85 | 57 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 3,135 | 4.43 | 0 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 29 (1,150 XP) | 1,059 | - | 0 |
 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 2023-04-27 | 40 (1,000 XP) | 172 | - | 0 |
 | [Shotgun Farmers](games/s/shotgun_farmers.md) | 2023-04-27 | 74 (1,150 XP) | 440 | - | 0 |
-| [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 2023-04-27 | 30 (1,000 XP) | 2 | 4.55 | 0 |
+| [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 2023-04-27 | 30 (1,000 XP) | 2 | 4.54 | 0 |
 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2023-04-27 | 31 (1,000 XP) | 181 | - | 0 |
 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | 2023-04-27 | 49 (1,000 XP) | 96 | - | 0 |
 | [JYDGE](games/j/jydge.md) | 2023-04-27 | 15 (1,000 XP) | 18 | - | 0 |
@@ -824,7 +824,7 @@
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 55 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.26 | 0 |
-| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,821 | 4.77 | 1,385 |
+| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,821 | 4.77 | 1,388 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 755,320 | 4.21 | 548 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.53 | 39 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
@@ -903,7 +903,7 @@
 | [Riverbond](games/r/riverbond.md) | 2022-04-21 | 57 (1,000 XP) | 540,666 | 4.46 | 22 |
 | [MythForce](games/m/mythforce.md) | 2022-04-20 | 23 (1,000 XP) | 7,320 | 4.47 | 38 |
 | [Spirit of the North](games/s/spirit_of_the_north.md) | 2022-04-19 | 24 (1,000 XP) | 86,064 | 4.36 | 27 |
-| [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2022-04-18 | 46 (1,000 XP) | 83,469 | 4.51 | 1,080 |
+| [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2022-04-18 | 46 (1,000 XP) | 83,469 | 4.51 | 1,081 |
 | [Lost Ruins](games/l/lost_ruins.md) | 2022-04-15 | 40 (1,000 XP) | 781 | 4.85 | 0 |
 | [Rocco's Island](games/r/rocco's_island.md) | 2022-04-08 | 40 (1,000 XP) | 2 | - | 0 |
 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 2022-04-08 | 30 (1,000 XP) | 134 | - | 0 |
