@@ -4,13 +4,13 @@
 Rating: 4.69 (Ranked 256)  
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 193  (Ranked 344)  
-Sum: 255 (Ranked 454)  
-Diff (max vs sum): -110  
+Max (Great Boss Battles): 194  (Ranked 344)  
+Sum: 256 (Ranked 453)  
+Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 254 |
-| This game has Great Boss Battles | 193 |
+| This game has Great Boss Battles | 194 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Diverse Characters | 21 |
 | This game is Extremely Fun | 20 |
@@ -264,4 +264,4 @@ Diff (max vs sum): -110
 | 2024-05-29 | 4.69 | - | 190 | 251 |
 | 2024-05-31 | 4.69 | - | 192 | 253 |
 | 2024-06-03 | 4.69 | - | 193 | 254 |
-| 2024-06-04 | 4.69 | - | 193 | 255 |
+| 2024-06-04 | 4.69 | - | 194 | 256 |

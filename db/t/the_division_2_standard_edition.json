@@ -19971,10 +19971,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 35727,
       "NumberOfAwardsMax": 10015
+    },
+    {
+      "Time": "2024-06-04T22:57:32.4572064+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 35729,
+      "NumberOfAwardsMax": 10015
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35727,
+  "NumberOfAwards": 35729,
   "NumberOfAwardsMax": 10015,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -20036,7 +20042,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1955
+      "Count": 1957
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -20062,8 +20068,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-06-04T02:26:24.8550355+00:00",
+  "LastChanged": "2024-06-04T22:57:32.4572062+00:00",
   "LastUpdate_AppInfo": "2024-06-02T18:57:19.7497747+00:00",
-  "LastUpdate_Ratings": "2024-06-04T21:00:10.0483231+00:00",
+  "LastUpdate_Ratings": "2024-06-04T22:57:32.4572068+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:22.9186347+00:00"
 }
