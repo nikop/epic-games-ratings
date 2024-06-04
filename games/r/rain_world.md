@@ -3,8 +3,8 @@
 [View Rawdata](../../db/r/rain_world.json)  
 Rating: 4.86 (Ranked 28)  
 ## Awards
-Max (Diverse Characters): 22  (Ranked 635)  
-Sum: 22 (Ranked 638)  
+Max (Diverse Characters): 22  (Ranked 636)  
+Sum: 22 (Ranked 639)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |

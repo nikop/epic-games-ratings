@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.8,
+  "Rating": 3.81,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:34.1554461+00:00",
@@ -191,6 +191,12 @@
       "Rating": 3.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-04T21:58:35.8527919+00:00",
+      "Rating": 3.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -209,8 +215,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:32.2310587+00:00",
   "FirstSeenRating": "2023-03-31T05:57:34.1554458+00:00",
-  "LastChanged": "2024-05-30T19:57:38.5100846+00:00",
+  "LastChanged": "2024-06-04T21:58:35.8527917+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:06.5686603+00:00",
-  "LastUpdate_Ratings": "2024-06-04T20:00:53.0429009+00:00",
+  "LastUpdate_Ratings": "2024-06-04T21:58:35.8527924+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.0679875+00:00"
 }

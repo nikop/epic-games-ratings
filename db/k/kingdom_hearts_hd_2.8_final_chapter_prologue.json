@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-hd-2-8-final-chapter-prologue",
   "Ranking_Rating": 256,
   "Ranking_Popularity": 344,
-  "Ranking_PopularitySum": 455,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1639,10 +1639,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 193
+    },
+    {
+      "Time": "2024-06-04T21:59:00.3710785+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254,
+  "NumberOfAwards": 255,
   "NumberOfAwardsMax": 193,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1668,7 +1674,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1688,8 +1694,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:38.0851075+00:00",
-  "LastChanged": "2024-06-03T22:01:14.9119308+00:00",
+  "LastChanged": "2024-06-04T21:59:00.3710781+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:49:34.8689302+00:00",
-  "LastUpdate_Ratings": "2024-06-04T20:01:18.4323372+00:00",
+  "LastUpdate_Ratings": "2024-06-04T21:59:00.3710789+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:59.0026678+00:00"
 }
