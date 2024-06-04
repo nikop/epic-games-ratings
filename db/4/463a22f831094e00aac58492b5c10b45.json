@@ -2,7 +2,7 @@
   "ID": "463a22f831094e00aac58492b5c10b45",
   "Name": "Manor Lords",
   "ProductSlug": "manor-lords-ef795f",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 618,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2024-04-28T11:57:16.1750666+00:00",
@@ -300,6 +300,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-04T08:59:05.193512+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -318,7 +324,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-26T16:58:14.5386901+00:00",
   "FirstSeenRating": "2024-04-28T11:57:16.1750664+00:00",
-  "LastChanged": "2024-06-03T07:59:18.8958828+00:00",
+  "LastChanged": "2024-06-04T08:59:05.1935119+00:00",
   "LastUpdate_AppInfo": "2024-05-31T18:57:13.4810092+00:00",
-  "LastUpdate_Ratings": "2024-06-04T07:00:32.5829003+00:00"
+  "LastUpdate_Ratings": "2024-06-04T08:59:05.1935123+00:00"
 }

@@ -1,7 +1,7 @@
 # Nowhere Prophet
 [Store](https://store.epicgames.com/en-US/p/nowhere-prophet-4790db)  
 [View Rawdata](../../db/n/nowhere_prophet.json)  
-Rating: 4.52 (Ranked 617)  
+Rating: 4.54 (Ranked 586)  
 Number of Ratings: 21  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -12,3 +12,4 @@ Number of Ratings: 21  (23.09.2022)
 | 2022-12-07 | 4.61 | - | - | - |
 | 2022-12-20 | 4.52 | - | - | - |
 | 2023-03-31 | 4.52 | - | 0 | 0 |
+| 2024-06-04 | 4.54 | - | 0 | 0 |
