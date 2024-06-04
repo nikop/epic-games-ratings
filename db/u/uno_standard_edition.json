@@ -2,7 +2,7 @@
   "ID": "ca93b6d41a4e41af864942d8f0a2a826",
   "Name": "UNO Standard Edition",
   "ProductSlug": "uno",
-  "Ranking_Rating": 740,
+  "Ranking_Rating": 722,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 58,
   "RatingHistory": [
     {
@@ -323,6 +323,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-04T00:01:03.0993928+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -340,8 +346,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:51.0779321+00:00",
-  "LastChanged": "2024-06-02T01:54:27.2568093+00:00",
+  "LastChanged": "2024-06-04T00:01:03.0993926+00:00",
   "LastUpdate_AppInfo": "2024-06-02T19:57:31.1988153+00:00",
-  "LastUpdate_Ratings": "2024-06-03T22:58:21.8617684+00:00",
+  "LastUpdate_Ratings": "2024-06-04T00:01:03.0993938+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:55.7132515+00:00"
 }
