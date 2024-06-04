@@ -2,6 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Colony : Part I The Moon Castle](games/2/2c7d9a2ca1274d039abd2f434217040b.md) | 2024-06-04 | - |  | - | - |
 | [Cleaning Queens 2: Sparkling Palace](games/6/6826d523207948248b2161700dc703ee.md) | 2024-06-04 | - |  | - | - |
+| [CoopValor WW2 Battle of the Bulge](games/a/a607d7b55d8a4a3ab898c28a16897c5e.md) | 2024-06-04 | - |  | - | - |
 | [Tomb nightmares](games/a/a5d808aff2a144048d1f842e0db6ad12.md) | 2024-06-05 | - |  | - | - |
 | [Lost Artifacts 6: Mysterious Book Collector's Edition](games/d/d205843ad0a54884aead72ad4d50c161.md) | 2024-06-05 | - |  | - | - |
 | [Overrogue](games/2/2a300323ee504893b9006ca8cac53a0d.md) | 2024-06-06 | - |  | - | - |
