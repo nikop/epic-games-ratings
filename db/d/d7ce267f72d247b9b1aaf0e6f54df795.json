@@ -3,8 +3,8 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 152,
-  "Ranking_Popularity": 260,
-  "Ranking_PopularitySum": 263,
+  "Ranking_Popularity": 254,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2561,18 +2561,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 1582,
       "NumberOfAwardsMax": 416
+    },
+    {
+      "Time": "2024-06-04T21:00:02.9592378+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1625,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1582,
-  "NumberOfAwardsMax": 416,
+  "NumberOfAwards": 1625,
+  "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 416
+      "Count": 447
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2620,7 +2626,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 80
+      "Count": 86
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2656,7 +2662,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 79
+      "Count": 85
     }
   ],
   "EOS_Progressed": 0,
@@ -2671,8 +2677,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-04T18:59:49.4726326+00:00",
+  "LastChanged": "2024-06-04T21:00:02.9592377+00:00",
   "LastUpdate_AppInfo": "2024-05-30T01:46:55.5938334+00:00",
-  "LastUpdate_Ratings": "2024-06-04T18:59:49.4726331+00:00",
+  "LastUpdate_Ratings": "2024-06-04T21:00:02.9592381+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
