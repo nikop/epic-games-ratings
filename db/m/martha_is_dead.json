@@ -2,7 +2,7 @@
   "ID": "4b792f5770e84675b971a523a4ab9621",
   "Name": "Martha Is Dead",
   "ProductSlug": "martha-is-dead",
-  "Ranking_Rating": 1162,
+  "Ranking_Rating": 1161,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.93,
+  "Rating": 3.94,
   "NumberOfRatings": 39,
   "RatingHistory": [
     {
@@ -473,6 +473,12 @@
       "Rating": 3.93,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-04T13:58:07.7839482+00:00",
+      "Rating": 3.94,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -490,8 +496,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.5021839+00:00",
-  "LastChanged": "2024-06-01T13:01:02.5526723+00:00",
+  "LastChanged": "2024-06-04T13:58:07.7839479+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:50:33.1756059+00:00",
-  "LastUpdate_Ratings": "2024-06-04T11:59:53.686486+00:00",
+  "LastUpdate_Ratings": "2024-06-04T13:58:07.7839485+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:08.8935257+00:00"
 }
