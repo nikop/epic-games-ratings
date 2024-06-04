@@ -2,7 +2,7 @@
   "ID": "8618da9904ad41ad951fcc470d1873cb",
   "Name": "SuchArt: Genius Artist Simulator",
   "ProductSlug": "suchart-genius-artist-simulator",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 125,
   "RatingHistory": [
     {
@@ -432,6 +432,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-04T19:57:40.4137176+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -449,8 +455,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:12.7959951+00:00",
-  "LastChanged": "2024-03-13T02:15:18.3945889+00:00",
+  "LastChanged": "2024-06-04T19:57:40.4137174+00:00",
   "LastUpdate_AppInfo": "2024-06-02T13:57:19.3786507+00:00",
-  "LastUpdate_Ratings": "2024-06-04T17:59:55.6613919+00:00",
+  "LastUpdate_Ratings": "2024-06-04T19:57:40.4137179+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:11.1803301+00:00"
 }
