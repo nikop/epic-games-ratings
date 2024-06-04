@@ -1,7 +1,7 @@
 # Family Man
 [Store](https://store.epicgames.com/en-US/p/family-man-bbc679)  
 [View Rawdata](../../db/f/family_man.json)  
-Rating: 4.16 (Ranked 1,074)  
+Rating: 4.13 (Ranked 1,096)  
 Number of Ratings: 28  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -17,3 +17,4 @@ Number of Ratings: 28  (23.09.2022)
 | 2022-10-01 | 4.17 | - | - | - |
 | 2022-12-06 | 4.16 | - | - | - |
 | 2023-03-31 | 4.16 | - | 0 | 0 |
+| 2024-06-04 | 4.13 | - | 0 | 0 |
