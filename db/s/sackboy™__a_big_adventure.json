@@ -4,7 +4,7 @@
   "ProductSlug": "sackboy-a-big-adventure",
   "Ranking_Rating": 153,
   "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 501,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -605,10 +605,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 146,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-06-05T15:57:38.1687103+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 166,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 146,
+  "NumberOfAwards": 166,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -647,6 +653,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -661,8 +673,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T21:31:24.5822973+00:00",
   "FirstSeenRating": "2022-11-01T17:31:11.1953561+00:00",
-  "LastChanged": "2024-06-03T19:58:49.2108948+00:00",
+  "LastChanged": "2024-06-05T15:57:38.1687102+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:37.101068+00:00",
-  "LastUpdate_Ratings": "2024-06-05T13:59:40.6651227+00:00",
+  "LastUpdate_Ratings": "2024-06-05T15:57:38.1687105+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:45.8780824+00:00"
 }
