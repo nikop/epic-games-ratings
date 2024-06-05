@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 152,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -2579,10 +2579,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1648,
       "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2024-06-05T07:58:35.3434001+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1659,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1648,
+  "NumberOfAwards": 1659,
   "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2620,7 +2626,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 88
+      "Count": 92
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2656,7 +2662,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 84
+      "Count": 91
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2689,8 +2695,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-05T02:24:18.0879254+00:00",
+  "LastChanged": "2024-06-05T07:58:35.3433999+00:00",
   "LastUpdate_AppInfo": "2024-05-30T01:46:55.5938334+00:00",
-  "LastUpdate_Ratings": "2024-06-05T05:59:43.9953156+00:00",
+  "LastUpdate_Ratings": "2024-06-05T07:58:35.3434004+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
