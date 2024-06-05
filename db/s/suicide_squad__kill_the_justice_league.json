@@ -4,7 +4,7 @@
   "ProductSlug": "suicide-squad-kill-the-justice-league",
   "Ranking_Rating": 955,
   "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 413,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -631,10 +631,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 352,
       "NumberOfAwardsMax": 211
+    },
+    {
+      "Time": "2024-06-05T16:58:15.1845972+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 356,
+      "NumberOfAwardsMax": 211
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 352,
+  "NumberOfAwards": 356,
   "NumberOfAwardsMax": 211,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -648,13 +654,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Highly Recommended",
@@ -672,7 +678,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1109,9 +1115,9 @@
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-06-05T11:59:10.2550522+00:00",
+  "LastChanged": "2024-06-05T16:58:15.184597+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:23.0346572+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:26.942102+00:00",
-  "LastUpdate_Ratings": "2024-06-05T14:59:31.7335931+00:00",
+  "LastUpdate_Ratings": "2024-06-05T16:58:15.1845975+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:23.0357465+00:00"
 }
