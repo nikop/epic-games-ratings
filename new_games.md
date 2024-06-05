@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-06-05 | - |  | - | - |
 | [Lost Artifacts 6: Mysterious Book Collector's Edition](games/d/d205843ad0a54884aead72ad4d50c161.md) | 2024-06-05 | - |  | - | - |
 | [Tomb nightmares](games/a/a5d808aff2a144048d1f842e0db6ad12.md) | 2024-06-05 | - |  | - | - |
 | [CoopValor WW2 Battle of the Bulge](games/a/a607d7b55d8a4a3ab898c28a16897c5e.md) | 2024-06-04 | - |  | - | - |
