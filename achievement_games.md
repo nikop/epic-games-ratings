@@ -32,7 +32,7 @@
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2024-06-06 | 21 (1,000 XP) | 0 | - | - |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | 0 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 18 | - | 0 |
-| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,852 |
+| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,864 |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 1 | - | 0 |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 1 | - | 0 |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 1 | - | - |
@@ -87,7 +87,7 @@
 | [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-22 | 14 (1,000 XP) | 1 | - | 0 |
 | [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-21 | 23 (1,000 XP) | 62 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 14 | - | 0 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.81 | 347 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 7,212 | 4.81 | 349 |
 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 7,918 | 4.41 | 20 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | 0 |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 6 | - | 0 |
@@ -184,7 +184,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 40 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 43 | - | 0 |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 70 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 40,364 | 4.32 | 71 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 40,364 | 4.32 | 73 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 70 | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 41 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 173 | - | - |
@@ -205,7 +205,7 @@
 | [Battle Planet - Judgement Day](games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 2023-12-15 | 13 (1,000 XP) | 4 | - | 0 |
 | [Hero Battle Fantasy Arena](games/4/4d936d45ca14450c86d6472c3c494181.md) | 2023-12-15 | 15 (1,000 XP) | 86 | - | 0 |
 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 348,769 | 4.26 | 108 |
-| [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 259,065 | 4.27 | 53 |
+| [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 259,065 | 4.27 | 54 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 2023-12-13 | 51 (1,000 XP) | 510 | - | 0 |
 | [Bio Inc. Redemption](games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 2023-12-12 | 32 (1,000 XP) | 235 | - | 0 |
@@ -896,7 +896,7 @@
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 2022-04-27 | 22 (1,000 XP) | 0 | 4.58 | 0 |
 | [Train Valley](games/t/train_valley.md) | 2022-04-27 | 39 (1,000 XP) | 755 | 4.47 | 0 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 2022-04-26 | 72 (1,000 XP) | 7,785 | 4.18 | 99 |
-| [Unrailed!](games/u/unrailed!.md) | 2022-04-25 | 52 (1,000 XP) | 699,314 | 4.64 | 233 |
+| [Unrailed!](games/u/unrailed!.md) | 2022-04-25 | 52 (1,000 XP) | 699,314 | 4.64 | 234 |
 | [Wildermyth](games/w/wildermyth.md) | 2022-04-22 | 56 (1,000 XP) | 1,708 | 4.78 | 31 |
 | [Smelter](games/s/smelter.md) | 2022-04-22 | 51 (1,000 XP) | 50 | - | 0 |
 | [Godlike Burger](games/g/godlike_burger.md) | 2022-04-21 | 28 (1,000 XP) | 426,625 | 4.54 | 0 |
@@ -1000,7 +1000,7 @@
 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 2021-03-26 | 30 (1,000 XP) | 17 | - | 0 |
 | [The Tenants](games/t/the_tenants.md) | 2021-03-25 | 86 (1,400 XP) | 9,814 | 4.53 | 0 |
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 65 | 4.66 | 0 |
-| [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 198 | 4.44 | 28 |
+| [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 198 | 4.44 | 29 |
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 2021-03-18 | 19 (1,000 XP) | 1,231 | 4.37 | 0 |
 | [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 127,520 | 4.41 | 2,215 |
 | [Scrapnaut](games/s/scrapnaut.md) | 2021-03-03 | 31 (1,000 XP) | 789 | 4.32 | 0 |
