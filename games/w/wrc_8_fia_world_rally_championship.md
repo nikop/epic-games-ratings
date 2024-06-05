@@ -5,12 +5,13 @@ Rating: 4.58 (Ranked 495)
 Number of Ratings: 199  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 25  (Ranked 622)  
-Sum: 45 (Ranked 587)  
-Diff (max vs sum): 35  
+Sum: 65 (Ranked 560)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 25 |
 | This game is Great for Quick Sessions | 20 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -95,3 +96,4 @@ Diff (max vs sum): 35
 | 2024-04-02 | 4.57 | - | 24 | 44 |
 | 2024-05-22 | 4.58 | - | 24 | 44 |
 | 2024-05-23 | 4.58 | - | 25 | 45 |
+| 2024-06-05 | 4.58 | - | 25 | 65 |
