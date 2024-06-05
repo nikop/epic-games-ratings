@@ -387,6 +387,7 @@
 | [Haikuna](games/0/08ce088c33cb46719e378878ae7a24ec.md) | 2099-01-01 | - |  | - | - |
 | [Hands of Necromancy II](games/4/4bbdc84ecd234d5d8d94b8a350ad17c0.md) | 2099-01-01 | - |  | - | - |
 | [Hannah's Day](games/9/9bed0b06c3de4f39be171578a828da1a.md) | 2099-01-01 | - |  | - | - |
+| [Happy Lab](games/e/e93d97d4ad334c75b10412ae114c00dd.md) | 2099-01-01 | - |  | - | - |
 | [Happy Time](games/0/0c3400dec5ec47399810c08113c09958.md) | 2099-01-01 | - |  | - | - |
 | [Hector: Badge of Carnage - Episode 1](games/9/912f8bad879c4f54ae2e4f2b2b7e970e.md) | 2099-01-01 | - |  | - | - |
 | [Hector: Badge of Carnage - Episode 2](games/9/9a4a33ebb75f4481ab78dc2f000bdde3.md) | 2099-01-01 | - |  | - | - |
