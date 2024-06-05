@@ -4,7 +4,7 @@
   "ProductSlug": "void-bastards",
   "Ranking_Rating": 457,
   "Ranking_Popularity": 601,
-  "Ranking_PopularitySum": 492,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -872,6 +872,6 @@
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
   "LastChanged": "2024-05-24T09:59:39.5685799+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:16.3186098+00:00",
-  "LastUpdate_Ratings": "2024-06-05T18:59:58.7613968+00:00",
+  "LastUpdate_Ratings": "2024-06-05T20:58:11.9978775+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:58.3027748+00:00"
 }

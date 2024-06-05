@@ -2,7 +2,7 @@
   "ID": "2579ddfa98e94a18aff45d1525f666d4",
   "Name": "LEGO\u00AE Brawls",
   "ProductSlug": "lego-brawls",
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 707,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
@@ -23,7 +23,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.47,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:53.1081025+00:00",
@@ -156,6 +156,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-05T20:58:30.8079969+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -174,8 +180,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-17T17:57:58.3754978+00:00",
   "FirstSeenRating": "2023-03-31T05:57:53.1081024+00:00",
-  "LastChanged": "2024-05-27T19:57:33.9692783+00:00",
+  "LastChanged": "2024-06-05T20:58:30.8079965+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:50:17.9377756+00:00",
-  "LastUpdate_Ratings": "2024-06-05T19:00:24.4617755+00:00",
+  "LastUpdate_Ratings": "2024-06-05T20:58:30.8079972+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:37.6327134+00:00"
 }
