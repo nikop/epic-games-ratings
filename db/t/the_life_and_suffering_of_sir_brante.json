@@ -2,7 +2,7 @@
   "ID": "45bd0f6fc2704e22a3c1933f7bb972bf",
   "Name": "The Life and Suffering of Sir Brante",
   "ProductSlug": "the-life-and-suffering-of-sir-brante",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.73,
+  "Rating": 4.71,
   "NumberOfRatings": 31,
   "RatingHistory": [
     {
@@ -145,6 +145,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-05T01:48:58.5395332+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -163,8 +169,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:20.7872128+00:00",
   "FirstSeenRating": "2022-08-01T11:01:07.2774148+00:00",
-  "LastChanged": "2024-05-18T21:58:01.8137602+00:00",
+  "LastChanged": "2024-06-05T01:48:58.5395329+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:22.7641686+00:00",
-  "LastUpdate_Ratings": "2024-06-04T23:00:42.9066397+00:00",
+  "LastUpdate_Ratings": "2024-06-05T01:48:58.5395336+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:52.3884949+00:00"
 }
