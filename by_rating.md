@@ -683,7 +683,7 @@
 | 679 | [Darksiders III](games/d/darksiders_iii.md) | 4.49 | 111 | 408 |
 | 679 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,834 | 58 |
 | 679 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 653 |
-| 679 | [Maneater](games/m/maneater.md) | 4.49 | 14,220 | 37 |
+| 679 | [Maneater](games/m/maneater.md) | 4.49 | 14,222 | 37 |
 | 679 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 425 |
 | 679 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 41 | 539 |
 | 679 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 36 | 555 |
@@ -992,6 +992,7 @@
 | 984 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 653 |
 | 991 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 22 | 636 |
 | 991 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.26 | 0 | 653 |
+| 991 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 108 | 410 |
 | 991 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,308 | 22 |
 | 991 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 653 |
 | 991 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,176 | 109 |
@@ -1000,16 +1001,15 @@
 | 991 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 0 | 653 |
 | 991 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 291 |
 | 991 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.26 | 0 | 653 |
-| 1,001 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 653 |
-| 1,001 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.25 | 108 | 410 |
-| 1,001 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 653 |
-| 1,001 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 660 | 220 |
-| 1,001 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 25 | 622 |
-| 1,001 | [Predecessor](games/p/predecessor.md) | 4.25 | 648 | 221 |
-| 1,001 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 653 |
-| 1,001 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 653 |
-| 1,001 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 653 |
-| 1,001 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 617 |
+| 1,002 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 653 |
+| 1,002 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 653 |
+| 1,002 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 660 | 220 |
+| 1,002 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 25 | 622 |
+| 1,002 | [Predecessor](games/p/predecessor.md) | 4.25 | 648 | 221 |
+| 1,002 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 653 |
+| 1,002 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 653 |
+| 1,002 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 653 |
+| 1,002 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 617 |
 | 1,011 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 653 |
 | 1,011 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 566 |
 | 1,011 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 0 | 653 |

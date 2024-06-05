@@ -36,7 +36,7 @@
 | 34 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 15,157 | 4.49 | 679 |
 | 35 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,919 | 4.58 | 495 |
 | 36 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 14,781 | 4.46 | 722 |
-| 37 | [Maneater](games/m/maneater.md) | 14,220 | 4.49 | 679 |
+| 37 | [Maneater](games/m/maneater.md) | 14,222 | 4.49 | 679 |
 | 38 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 13,151 | 4.50 | 654 |
 | 39 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 13,001 | 4.67 | 300 |
 | 40 | [Bloons TD 6](games/b/bloons_td_6.md) | 12,967 | 4.77 | 126 |
@@ -219,8 +219,8 @@
 | 217 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 693 | 4.61 | 425 |
 | 218 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 692 | 4.39 | 851 |
 | 219 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 681 | 4.34 | 909 |
-| 220 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 660 | 4.25 | 1,001 |
-| 221 | [Predecessor](games/p/predecessor.md) | 648 | 4.25 | 1,001 |
+| 220 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 660 | 4.25 | 1,002 |
+| 221 | [Predecessor](games/p/predecessor.md) | 648 | 4.25 | 1,002 |
 | 222 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 647 | 4.37 | 875 |
 | 223 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 643 | 4.78 | 118 |
 | 224 | [Dark Deity](games/d/dark_deity.md) | 630 | 4.16 | 1,074 |
@@ -409,7 +409,7 @@
 | 406 | [WarmSnow](games/w/warmsnow.md) | 112 | 4.80 | 98 |
 | 408 | [Darksiders III](games/d/darksiders_iii.md) | 111 | 4.49 | 679 |
 | 409 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 110 | 4.56 | 546 |
-| 410 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 108 | 4.25 | 1,001 |
+| 410 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 108 | 4.26 | 991 |
 | 411 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 107 | 4.21 | 1,038 |
 | 411 | [This War of Mine](games/t/this_war_of_mine.md) | 107 | 4.75 | 152 |
 | 413 | [Solitairica](games/s/solitairica.md) | 106 | 4.48 | 692 |
@@ -620,9 +620,9 @@
 | 617 | [Fez](games/f/fez.md) | 26 | 4.75 | 152 |
 | 617 | [Murder by Numbers](games/m/murder_by_numbers.md) | 26 | 4.27 | 984 |
 | 617 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 26 | 4.00 | 1,141 |
-| 617 | [Yooka-Laylee](games/y/yooka-laylee.md) | 26 | 4.25 | 1,001 |
+| 617 | [Yooka-Laylee](games/y/yooka-laylee.md) | 26 | 4.25 | 1,002 |
 | 622 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 25 | 4.88 | 15 |
-| 622 | [Mortal Shell](games/m/mortal_shell.md) | 25 | 4.25 | 1,001 |
+| 622 | [Mortal Shell](games/m/mortal_shell.md) | 25 | 4.25 | 1,002 |
 | 622 | [Torchlight](games/t/torchlight.md) | 25 | 4.36 | 884 |
 | 622 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 25 | 4.58 | 495 |
 | 626 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 24 | 4.32 | 930 |
