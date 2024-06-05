@@ -2,7 +2,7 @@
   "ID": "e0172a81e4f0430e88c3156bdadfd088",
   "Name": "Solitairica",
   "ProductSlug": "solitairica",
-  "Ranking_Rating": 692,
+  "Ranking_Rating": 678,
   "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 474,
   "RatingHistory": [
     {
@@ -1585,6 +1585,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 605,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-06-05T17:59:56.8881167+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 605,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
@@ -1670,8 +1676,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-06-04T18:58:35.6337196+00:00",
+  "LastChanged": "2024-06-05T17:59:56.8881166+00:00",
   "LastUpdate_AppInfo": "2024-06-02T14:57:07.407923+00:00",
-  "LastUpdate_Ratings": "2024-06-05T16:58:47.8811661+00:00",
+  "LastUpdate_Ratings": "2024-06-05T17:59:56.8881171+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:26.4660981+00:00"
 }
