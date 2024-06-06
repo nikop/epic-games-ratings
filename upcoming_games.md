@@ -77,6 +77,7 @@
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-08-21 | - |  | - | - |
 | [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2024-08-23 | - |  | - | - |
+| [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | - |  | - | - |
 | [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | - | - |
 | [Cafe Maid - Cute Anime Girls](games/3/3dfc7c92bb4846b5bfbb0066ba5149e8.md) | 2024-08-31 | - |  | - | - |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-31 | - |  | - | - |
@@ -219,6 +220,7 @@
 | [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | 2024-12-31 | - |  | - | - |
 | [Skystead Ranch](games/5/5df8e058035b4f1ab1522b584a0142f3.md) | 2025-01-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
+| [Day of the Shell](games/2/28cf4c9348854bf5869237e0b4c8ca22.md) | 2025-03-31 | - |  | - | - |
 | [The Crimson Lyre](games/3/397c0a87980c4098b5a37d77a33e2713.md) | 2025-03-31 | - |  | - | - |
 | [Pantheon Rift](games/p/project_chaos.md) | 2025-04-30 | - |  | - | - |
 | [Ariokan](games/f/f4962a68cb2a46e295f690e592655ec0.md) | 2025-06-30 | - |  | - | - |
@@ -663,7 +665,6 @@
 | [John Carpenter’s Toxic Commando](games/a/a22be63a94a64dd4a999ed959f0ce77f.md) | 2099-02-01 | - |  | - | - |
 | [Judas](games/j/judas_1.md) | 2099-02-01 | - |  | - | - |
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2099-02-01 | 8 (1,000 XP) | 3,029 | - | 0 |
-| [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2099-02-01 | - |  | - | - |
 | [Nivalis](games/n/nivalis.md) | 2099-02-01 | - |  | - | - |
 | [Path of Exile 2](games/5/58a18be6bbba41a0bf52b014bb81d33b.md) | 2099-02-01 | - |  | - | - |
 | [PixelJunk Eden 2](games/c/c7d240a44afd4e0ba06780cfc6fc5884.md) | 2099-02-01 | - |  | - | - |
