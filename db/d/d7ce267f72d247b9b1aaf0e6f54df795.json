@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 168,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 250,
+  "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2627,10 +2627,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 1763,
       "NumberOfAwardsMax": 476
+    },
+    {
+      "Time": "2024-06-06T09:59:50.5483344+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1771,
+      "NumberOfAwardsMax": 476
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1763,
+  "NumberOfAwards": 1771,
   "NumberOfAwardsMax": 476,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2668,13 +2674,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 92
+      "Count": 95
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 130
+      "Count": 135
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2737,8 +2743,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-06T08:57:50.4874397+00:00",
+  "LastChanged": "2024-06-06T09:59:50.5483343+00:00",
   "LastUpdate_AppInfo": "2024-06-06T02:23:42.8311534+00:00",
-  "LastUpdate_Ratings": "2024-06-06T08:57:50.4874403+00:00",
+  "LastUpdate_Ratings": "2024-06-06T09:59:50.5483347+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }

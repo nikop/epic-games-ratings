@@ -4,7 +4,7 @@
   "ProductSlug": "inscryption-6b29ab",
   "Ranking_Rating": 20,
   "Ranking_Popularity": 270,
-  "Ranking_PopularitySum": 377,
+  "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -950,10 +950,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 507,
       "NumberOfAwardsMax": 373
+    },
+    {
+      "Time": "2024-06-06T09:57:58.828495+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 508,
+      "NumberOfAwardsMax": 373
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507,
+  "NumberOfAwards": 508,
   "NumberOfAwardsMax": 373,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -991,7 +997,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1017,8 +1023,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2024-06-02T14:59:22.5588033+00:00",
+  "LastChanged": "2024-06-06T09:57:58.8284948+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:19.5011671+00:00",
-  "LastUpdate_Ratings": "2024-06-06T07:59:01.3051773+00:00",
+  "LastUpdate_Ratings": "2024-06-06T09:57:58.8284953+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:41.7746334+00:00"
 }
