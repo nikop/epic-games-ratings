@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-of-us-part-1",
   "Ranking_Rating": 424,
   "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2655,10 +2655,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1001,
       "NumberOfAwardsMax": 696
+    },
+    {
+      "Time": "2024-06-06T02:25:31.1410974+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1029,
+      "NumberOfAwardsMax": 696
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1001,
+  "NumberOfAwards": 1029,
   "NumberOfAwardsMax": 696,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2727,6 +2733,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 20
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -2741,8 +2753,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-06-05T16:58:10.9246984+00:00",
+  "LastChanged": "2024-06-06T02:25:31.1410972+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:25.5131946+00:00",
-  "LastUpdate_Ratings": "2024-06-06T00:01:52.0142028+00:00",
+  "LastUpdate_Ratings": "2024-06-06T02:25:31.1410977+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:00.0204976+00:00"
 }
