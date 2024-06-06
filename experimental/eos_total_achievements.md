@@ -741,7 +741,7 @@
 | [Absolute Drift](../games/a/absolute_drift.md) | 20 | 1,000 |
 | [AER Memories of Old](../games/a/aer_memories_of_old.md) | 20 | 1,000 |
 | [Blood Flowers](../games/5/5ab7474f6a7043aaba392d4b64096737.md) | 20 | 1,000 |
-| [Blossom Tales II The Minotaur Prince](../games/b/blossom_tales_ii_the_minotaur_prince.md) | 20 | 1,000 |
+| [Blossom  Tales  II  The  Minotaur  Prince](../games/b/blossom_tales_ii_the_minotaur_prince.md) | 20 | 1,000 |
 | [Bread and Fred](../games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 20 | 1,000 |
 | [Charon's Staircase](../games/c/charon's_staircase.md) | 20 | 1,000 |
 | [Dark Fantasy Jigsaw Puzzle](../games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 20 | 1,000 |

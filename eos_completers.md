@@ -67,7 +67,7 @@
 | 65 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.40% |
 | 66 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 7.27% |
 | 67 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.26% |
-| 68 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.14% |
+| 68 | [Blossom  Tales  II  The  Minotaur  Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.14% |
 | 68 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 70 | [Scorn](games/s/scorn.md) | 7.01% |
 | 71 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 6.90% |

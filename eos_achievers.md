@@ -764,7 +764,7 @@
 | 756 | [What The Duck](games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 15 | 0 |
 | 763 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 14 | 0 |
 | 763 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 14 | 0 |
-| 763 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 14 | 1 |
+| 763 | [Blossom  Tales  II  The  Minotaur  Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 14 | 1 |
 | 763 | [Funtoon's World](games/a/a7ec33941949459cab07e39c65ca4309.md) | 14 | 0 |
 | 763 | [Horse Racing](games/e/e4e71e80487245b682ed399fa518964e.md) | 14 | 0 |
 | 763 | [Loretta](games/l/loretta.md) | 14 | 0 |
