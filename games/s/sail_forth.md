@@ -81,12 +81,12 @@ Completed: 13 (0.00%) (Ranked 458)
 | 2024-04-10 | 416,682 | 13 |
 ## Awards
 Max (Quickly Understood Controls): 28  (Ranked 602)  
-Sum: 171 (Ranked 490)  
+Sum: 172 (Ranked 490)  
 Diff (max vs sum): 112  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 28 |
-| This game is Extremely Fun | 26 |
+| This game is Extremely Fun | 27 |
 | This game is Great for Beginners | 26 |
 | This game has Playful Visuals | 24 |
 | This game is Relaxing | 24 |
@@ -153,3 +153,4 @@ Diff (max vs sum): 112
 | 2024-05-24 | 4.40 | 28 | 169 |
 | 2024-05-26 | 4.40 | 28 | 170 |
 | 2024-05-31 | 4.40 | 28 | 171 |
+| 2024-06-06 | 4.40 | 28 | 172 |
