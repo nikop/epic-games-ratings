@@ -9,7 +9,7 @@
 | [Colony : Part I The Moon Castle](games/2/2c7d9a2ca1274d039abd2f434217040b.md) | 2024-06-04 | - |  | - | - |
 | [Diabotical Rogue](games/2/2ef1c6035f6240ae9bd6ab92eb82db4e.md) | 2024-06-04 | - |  | - | 0 |
 | [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | 2024-06-04 | - |  | - | 0 |
-| [Buff](games/a/ad7c1ad62a9543a8977bcebbbf1e5ae1.md) | 2024-06-04 | - |  | - | - |
+| [Buff](games/a/ad7c1ad62a9543a8977bcebbbf1e5ae1.md) | 2024-06-04 | - |  | - | 0 |
 | [Tom Clancy's Rainbow Six Vegas](games/c/c038d64da53c4cabb109419c0cd51838.md) | 2024-06-04 | - |  | - | - |
 | [Tom Clancy's Rainbow Six Vegas 2](games/2/25f0070354fb4a99aea10c26488fe342.md) | 2024-06-04 | - |  | - | - |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | 0 |
