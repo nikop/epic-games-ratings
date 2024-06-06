@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Red Planet Rampart](games/d/dc66053dbf6248cfbcb8c9a406b54dfb.md) | 2024-06-06 | - |  | - | - |
 | [BattleCore Arena](games/9/9daf5f0ac30b4759bc8de9637668002f.md) | 2024-06-06 | - |  | - | - |
 | [Project Kinesis](games/7/7242da4da9a34727958d4c47d5bb9ae4.md) | 2024-06-06 | - |  | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2024-06-06 | 21 (1,000 XP) | 0 | - | - |
@@ -61,7 +62,7 @@
 | [Tennis Manager 2024](games/0/0ccff28e73c64060b1c9a74c3298fd68.md) | 2024-05-23 | - |  | - | - |
 | [Vacation Adventures Park Ranger 16 Collectors Edition](games/5/53a06f8aaff64a5ab3939f048ccdb178.md) | 2024-05-23 | - |  | - | 0 |
 | [Magic Patrol Envoy](games/b/b373c02d39b8470187edd411bd1d36a3.md) | 2024-05-23 | - |  | - | - |
-| [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-23 | - |  | 4.29 | 685 |
+| [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2024-05-23 | - |  | 4.30 | 685 |
 | [KLONOA Phantasy Reverie Series](games/7/7120b2046fd845578509f66420ffc251.md) | 2024-05-23 | - |  | - | 0 |
 | [We Love Katamari REROLL+ Royal Reverie](games/5/5c8529a62b4243469be68b08bd5c1bfa.md) | 2024-05-23 | - |  | - | 0 |
 | [The Dark Isle](games/c/cc66d1c61f4d41c9b5377b5e13e92d80.md) | 2024-05-22 | - |  | - | 0 |
