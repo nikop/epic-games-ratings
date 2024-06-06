@@ -658,12 +658,12 @@ Completed: 4 (0.00%) (Ranked 458)
 | 2024-04-10 | 542,311 | 4 |
 ## Awards
 Max (Educational): 9,738  (Ranked 53)  
-Sum: 80,081 (Ranked 26)  
+Sum: 80,086 (Ranked 26)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 9,738 |
-| This game has Diverse Characters | 9,702 |
+| This game has Diverse Characters | 9,707 |
 | This game is Highly Recommended | 9,344 |
 | This game has Challenging Combat | 9,222 |
 | This game is Extremely Fun | 8,995 |
@@ -1181,4 +1181,4 @@ Diff (max vs sum): 27
 | 2024-06-03 | 4.68 | - | 9,715 | 79,893 |
 | 2024-06-04 | 4.68 | - | 9,726 | 79,975 |
 | 2024-06-05 | 4.68 | - | 9,726 | 80,045 |
-| 2024-06-06 | 4.68 | - | 9,738 | 80,081 |
+| 2024-06-06 | 4.68 | - | 9,738 | 80,086 |
