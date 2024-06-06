@@ -3,8 +3,8 @@
   "Name": "Ghost of Tsushima DIRECTOR\u0027S CUT",
   "ProductSlug": "ghost-of-tsushima",
   "Ranking_Rating": 48,
-  "Ranking_Popularity": 158,
-  "Ranking_PopularitySum": 213,
+  "Ranking_Popularity": 151,
+  "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -757,24 +757,30 @@
       "Rating": 4.84,
       "NumberOfAwards": 2730,
       "NumberOfAwardsMax": 1266
+    },
+    {
+      "Time": "2024-06-06T13:03:07.6553481+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2806,
+      "NumberOfAwardsMax": 1320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2730,
-  "NumberOfAwardsMax": 1266,
+  "NumberOfAwards": 2806,
+  "NumberOfAwardsMax": 1320,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1266
+      "Count": 1320
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 158
+      "Count": 165
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -810,7 +816,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 148
+      "Count": 163
     },
     {
       "Text": "This game is Extremely Fun",
@@ -857,9 +863,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-06-06T09:57:22.0962481+00:00",
+  "LastChanged": "2024-06-06T13:03:07.6553479+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:01.6038252+00:00",
   "LastUpdate_AppInfo": "2024-06-06T01:46:51.783199+00:00",
-  "LastUpdate_Ratings": "2024-06-06T10:59:00.1833251+00:00",
+  "LastUpdate_Ratings": "2024-06-06T13:03:07.6553484+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:01.6038632+00:00"
 }

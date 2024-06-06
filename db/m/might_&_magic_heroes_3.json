@@ -2,7 +2,7 @@
   "ID": "4912067a5f4f4346b312aa226b2787ac",
   "Name": "Might \u0026 Magic Heroes 3",
   "ProductSlug": "might-and-magic-heroes-3",
-  "Ranking_Rating": 60,
+  "Ranking_Rating": 48,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 165,
   "RatingHistory": [
     {
@@ -4760,6 +4760,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 1394,
       "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2024-06-06T13:04:40.6635482+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 1394,
+      "NumberOfAwardsMax": 320
     }
   ],
   "ReviewsDisabled": false,
@@ -4851,8 +4857,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2024-06-05T10:57:39.4028544+00:00",
+  "LastChanged": "2024-06-06T13:04:40.6635479+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:49:46.5314682+00:00",
-  "LastUpdate_Ratings": "2024-06-06T11:59:02.320391+00:00",
+  "LastUpdate_Ratings": "2024-06-06T13:04:40.6635487+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:41.4446652+00:00"
 }
