@@ -6219,10 +6219,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 2804,
       "NumberOfAwardsMax": 1276
+    },
+    {
+      "Time": "2024-06-06T07:58:54.1986284+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 2805,
+      "NumberOfAwardsMax": 1276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2804,
+  "NumberOfAwards": 2805,
   "NumberOfAwardsMax": 1276,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -6266,7 +6272,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 139
+      "Count": 140
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -30832,9 +30838,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-06-05T22:58:06.0854268+00:00",
+  "LastChanged": "2024-06-06T07:58:54.1986282+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:21.0177089+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:15.7581945+00:00",
-  "LastUpdate_Ratings": "2024-06-06T06:57:35.2222525+00:00",
+  "LastUpdate_Ratings": "2024-06-06T07:58:54.1986289+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:21.0178661+00:00"
 }
