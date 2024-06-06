@@ -3,7 +3,7 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 474,
-  "Ranking_Popularity": 322,
+  "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 458,
@@ -4123,11 +4123,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 1296,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-06-06T16:57:36.555184+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1302,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1296,
-  "NumberOfAwardsMax": 231,
+  "NumberOfAwards": 1302,
+  "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4146,13 +4152,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 175
+      "Count": 176
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 231
+      "Count": 233
     },
     {
       "Text": "This game has a Competitive Community",
@@ -4176,7 +4182,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 142
+      "Count": 144
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4200,7 +4206,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 106
+      "Count": 107
     }
   ],
   "EOS_Progressed": 21009,
@@ -15933,9 +15939,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-06-05T13:58:59.1041199+00:00",
+  "LastChanged": "2024-06-06T16:57:36.5551838+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:21.6545137+00:00",
   "LastUpdate_AppInfo": "2024-06-02T19:57:37.3429516+00:00",
-  "LastUpdate_Ratings": "2024-06-06T14:59:19.076325+00:00",
+  "LastUpdate_Ratings": "2024-06-06T16:57:36.5551843+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:21.6546178+00:00"
 }
