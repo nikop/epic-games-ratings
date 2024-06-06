@@ -1,7 +1,7 @@
 {
   "ID": "539a43c4910f41ae851d7acc184c92f1",
   "Name": "CryptoBall",
-  "ProductSlug": "burnball-d8c422",
+  "ProductSlug": "cryptoball-d8c422",
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-03T16:57:10.035753+00:00",
-  "LastUpdate_Ratings": "2024-06-06T17:58:48.9030796+00:00"
+  "LastUpdate_Ratings": "2024-06-06T19:57:17.0188762+00:00"
 }

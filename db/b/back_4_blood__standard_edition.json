@@ -4,7 +4,7 @@
   "ProductSlug": "back-4-blood",
   "Ranking_Rating": 724,
   "Ranking_Popularity": 93,
-  "Ranking_PopularitySum": 112,
+  "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -9888,10 +9888,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 10270,
       "NumberOfAwardsMax": 4715
+    },
+    {
+      "Time": "2024-06-06T19:59:48.4687647+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 10271,
+      "NumberOfAwardsMax": 4715
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10270,
+  "NumberOfAwards": 10271,
   "NumberOfAwardsMax": 4715,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9911,7 +9917,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 764
+      "Count": 765
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9955,8 +9961,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.310125+00:00",
-  "LastChanged": "2024-06-06T15:57:55.7336831+00:00",
+  "LastChanged": "2024-06-06T19:59:48.4687645+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:50:28.122632+00:00",
-  "LastUpdate_Ratings": "2024-06-06T18:58:39.5164909+00:00",
+  "LastUpdate_Ratings": "2024-06-06T19:59:48.4687653+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:02.9007308+00:00"
 }
