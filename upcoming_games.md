@@ -666,6 +666,7 @@
 | [John Carpenter’s Toxic Commando](games/a/a22be63a94a64dd4a999ed959f0ce77f.md) | 2099-02-01 | - |  | - | - |
 | [Judas](games/j/judas_1.md) | 2099-02-01 | - |  | - | - |
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2099-02-01 | 8 (1,000 XP) | 3,029 | - | 0 |
+| [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2099-02-01 | - |  | - | - |
 | [Nivalis](games/n/nivalis.md) | 2099-02-01 | - |  | - | - |
 | [Path of Exile 2](games/5/58a18be6bbba41a0bf52b014bb81d33b.md) | 2099-02-01 | - |  | - | - |
 | [PixelJunk Eden 2](games/c/c7d240a44afd4e0ba06780cfc6fc5884.md) | 2099-02-01 | - |  | - | - |

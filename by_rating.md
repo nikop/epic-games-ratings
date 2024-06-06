@@ -19,7 +19,7 @@
 | 14 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,063 | 175 |
 | 14 | [RimWorld](games/r/rimworld.md) | 4.88 | 554 | 235 |
 | 14 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 653 |
-| 20 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 809 | 201 |
+| 20 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 812 | 200 |
 | 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,716 | 85 |
 | 20 | [Inscryption](games/i/inscryption.md) | 4.87 | 373 | 270 |
 | 20 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 325,187 | 5 |
@@ -445,7 +445,7 @@
 | 424 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 653 |
 | 424 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 114 | 402 |
 | 424 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 870 | 198 |
-| 424 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,462 | 46 |
+| 424 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,465 | 46 |
 | 424 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,137 | 166 |
 | 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,880 | 66 |
 | 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 620 | 229 |

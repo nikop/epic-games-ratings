@@ -45,7 +45,7 @@
 | 43 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,293 | 4.69 | 256 |
 | 44 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 12,216 | 4.58 | 497 |
 | 45 | [NBA 2K21](games/n/nba_2k21.md) | 11,876 | 4.38 | 861 |
-| 46 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,462 | 4.61 | 424 |
+| 46 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,465 | 4.61 | 424 |
 | 47 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 11,213 | 4.63 | 386 |
 | 48 | [DEATH STRANDING](games/d/death_stranding.md) | 10,991 | 4.78 | 118 |
 | 49 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 10,822 | 4.01 | 1,139 |
@@ -200,7 +200,7 @@
 | 198 | [Prison Architect](games/p/prison_architect.md) | 870 | 4.61 | 424 |
 | 199 | [Neverwinter](games/n/neverwinter.md) | 856 | 4.30 | 949 |
 | 200 | [Core](games/c/core.md) | 812 | 4.34 | 909 |
-| 201 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 809 | 4.87 | 20 |
+| 200 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 812 | 4.87 | 20 |
 | 202 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 803 | 4.68 | 279 |
 | 203 | [Blazing Sails](games/b/blazing_sails.md) | 778 | 3.97 | 1,151 |
 | 204 | [Neon Abyss](games/n/neon_abyss.md) | 769 | 4.67 | 300 |
