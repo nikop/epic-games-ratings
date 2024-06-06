@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Project Kinesis](games/7/7242da4da9a34727958d4c47d5bb9ae4.md) | 2024-06-06 | - |  | - | - |
 | [BattleCore Arena](games/9/9daf5f0ac30b4759bc8de9637668002f.md) | 2024-06-06 | - |  | - | - |
 | [Red Planet Rampart](games/d/dc66053dbf6248cfbcb8c9a406b54dfb.md) | 2024-06-06 | - |  | - | - |
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-06-06 | - |  | - | - |
@@ -118,6 +117,7 @@
 | [Unreachable](games/4/48d6c1632de6479b8c6c1d2f415cea92.md) | 2024-09-30 | - |  | - | - |
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-09-30 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-30 | - |  | - | - |
+| [Wrekless](games/1/1ca7ecb5530d4ae9b1b0348266a44555.md) | 2024-09-30 | - |  | - | - |
 | [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-10-18 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |

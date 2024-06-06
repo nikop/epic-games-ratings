@@ -281,7 +281,7 @@
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | 26 (1,000 XP) | 1,903 | 4.28 | 23 |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | 0 |
-| [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 1,655 | 4.86 | 167 |
+| [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 1,655 | 4.86 | 168 |
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 5,269 | 4.42 | 266 |
 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-11-02 | 36 (1,000 XP) | 36 | - | 0 |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-11-01 | 21 (1,000 XP) | 0 | - | 0 |
@@ -589,7 +589,7 @@
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 10 (1,000 XP) | 168 | - | 0 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 27 (1,000 XP) | 47 | - | 0 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 9 (1,000 XP) | 38 | - | 0 |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 21,555 | 4.65 | 616 |
+| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 21,555 | 4.65 | 620 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 12 (1,000 XP) | 2 | - | 0 |
 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 1,927 | - | 0 |
 | [Elypse](games/e/elypse.md) | 2023-05-17 | 34 (1,000 XP) | 152 | - | 0 |
@@ -685,7 +685,7 @@
 | [Gripper](games/g/gripper.md) | 2023-03-29 | 35 (1,000 XP) | 52 | - | 0 |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 2023-03-29 | 13 (1,000 XP) | 21,732 | 4.55 | 0 |
 | [Horse Tales - Emerald Valley Ranch](games/h/horse_tales_-_emerald_valley_ranch.md) | 2023-03-29 | 33 (1,000 XP) | 53 | - | 0 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 41 (1,130 XP) | 94,894 | 3.98 | 754 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 41 (1,130 XP) | 94,894 | 3.98 | 759 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | 2023-03-28 | 33 (1,000 XP) | 4,358 | 4.69 | 0 |
 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2023-03-23 | 17 (1,440 XP) | 277 | - | 0 |
 | [Chess Ultra](games/c/chess_ultra.md) | 2023-03-23 | 38 (1,000 XP) | 238,349 | 4.29 | 0 |
@@ -927,7 +927,7 @@
 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 2022-02-10 | 35 (1,000 XP) | 567,949 | 4.61 | 485 |
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 11,556 | - | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 175 | - | 0 |
-| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 770,707 | 4.82 | 7,900 |
+| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 770,707 | 4.82 | 7,904 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,052,209 | 4.59 | 16,850 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 250 | 4.68 | 53 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,742 |

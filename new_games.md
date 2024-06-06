@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Project Kinesis](games/7/7242da4da9a34727958d4c47d5bb9ae4.md) | 2024-06-06 | - |  | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2024-06-06 | 21 (1,000 XP) | 0 | - | - |
 | [Overrogue](games/2/2a300323ee504893b9006ca8cac53a0d.md) | 2024-06-06 | - |  | - | - |
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-06-05 | - |  | - | - |
@@ -81,7 +82,7 @@
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | - |  | - | 0 |
 | [The Elder Scrolls III: Morrowind® Game of the Year Edition](games/2/2b04b1a83647411e956695342f1d14b6.md) | 2024-05-16 | - |  | - | 0 |
 | [The Elder Scrolls IV: Oblivion® Game of the Year Edition](games/3/3e8bb00c44d748c6bb16bc83f12bb9e0.md) | 2024-05-16 | - |  | - | 0 |
-| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | 4.84 | 1,266 |
+| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | 4.84 | 1,320 |
 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | - |  | 4.43 | 282 |
 | [Die By The Blade](games/d/die_by_the_blade.md) | 2024-05-16 | - |  | - | 0 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | - |  | - | 0 |
