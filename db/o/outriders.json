@@ -4,7 +4,7 @@
   "ProductSlug": "outriders",
   "Ranking_Rating": 758,
   "Ranking_Popularity": 145,
-  "Ranking_PopularitySum": 184,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -5954,10 +5954,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 3727,
       "NumberOfAwardsMax": 1620
+    },
+    {
+      "Time": "2024-06-06T05:58:05.1526848+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 3729,
+      "NumberOfAwardsMax": 1620
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3727,
+  "NumberOfAwards": 3729,
   "NumberOfAwardsMax": 1620,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5995,7 +6001,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 254
+      "Count": 256
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6039,8 +6045,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2024-06-05T20:57:44.1523129+00:00",
+  "LastChanged": "2024-06-06T05:58:05.1526847+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:50:08.7052635+00:00",
-  "LastUpdate_Ratings": "2024-06-06T03:59:38.6971936+00:00",
+  "LastUpdate_Ratings": "2024-06-06T05:58:05.1526853+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:25.1696684+00:00"
 }
