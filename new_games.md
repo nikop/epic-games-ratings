@@ -78,7 +78,7 @@
 | [Let Me Sleep](games/f/fe8e9a4876a14ee0a2a95b1f49ea443d.md) | 2024-05-16 | - |  | - | - |
 | [In Stars and Time](games/0/0edb660794414ac59242c0942609e991.md) | 2024-05-16 | - |  | - | 0 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | - |  | - | 0 |
-| [The Elder Scrolls III: Morrowind® Game of the Year Edition](games/2/2b04b1a83647411e956695342f1d14b6.md) | 2024-05-16 | - |  | - | - |
+| [The Elder Scrolls III: Morrowind® Game of the Year Edition](games/2/2b04b1a83647411e956695342f1d14b6.md) | 2024-05-16 | - |  | - | 0 |
 | [The Elder Scrolls IV: Oblivion® Game of the Year Edition](games/3/3e8bb00c44d748c6bb16bc83f12bb9e0.md) | 2024-05-16 | - |  | - | 0 |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | - |  | 4.84 | 1,266 |
 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | - |  | 4.43 | 271 |
