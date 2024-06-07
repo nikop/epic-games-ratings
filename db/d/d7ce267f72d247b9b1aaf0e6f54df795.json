@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 168,
   "Ranking_Popularity": 242,
-  "Ranking_PopularitySum": 243,
+  "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2687,10 +2687,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 1874,
       "NumberOfAwardsMax": 516
+    },
+    {
+      "Time": "2024-06-07T17:58:47.6979403+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1894,
+      "NumberOfAwardsMax": 516
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1874,
+  "NumberOfAwards": 1894,
   "NumberOfAwardsMax": 516,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2704,7 +2710,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 135
+      "Count": 145
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2746,7 +2752,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 91
+      "Count": 97
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2776,7 +2782,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 101
+      "Count": 105
     },
     {
       "Text": "This game is Educational",
@@ -2797,8 +2803,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-07T14:58:05.4310445+00:00",
+  "LastChanged": "2024-06-07T17:58:47.6979399+00:00",
   "LastUpdate_AppInfo": "2024-06-06T02:23:42.8311534+00:00",
-  "LastUpdate_Ratings": "2024-06-07T16:00:00.1095038+00:00",
+  "LastUpdate_Ratings": "2024-06-07T17:58:47.6979406+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
