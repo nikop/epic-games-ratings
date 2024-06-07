@@ -1,7 +1,7 @@
 # Duskers
 [Store](https://store.epicgames.com/en-US/p/duskers-672fdc)  
 [View Rawdata](../../db/d/duskers.json)  
-Rating: 4.56 (Ranked 547)  
+Rating: 4.55 (Ranked 564)  
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 648)  
 Sum: 20 (Ranked 648)  
@@ -68,3 +68,4 @@ Diff (max vs sum): 0
 | 2024-02-14 | 4.55 | 0 | 0 |
 | 2024-03-20 | 4.56 | 0 | 0 |
 | 2024-05-19 | 4.56 | 20 | 20 |
+| 2024-06-07 | 4.55 | 20 | 20 |

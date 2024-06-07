@@ -2,7 +2,7 @@
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 118,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 987,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2022-12-03T17:57:10.4344429+00:00",
@@ -9621,6 +9621,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 6235,
       "NumberOfAwardsMax": 2504
+    },
+    {
+      "Time": "2024-06-07T19:58:42.975148+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 6235,
+      "NumberOfAwardsMax": 2504
     }
   ],
   "ReviewsDisabled": false,
@@ -9707,8 +9713,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-06-07T16:58:32.4327398+00:00",
+  "LastChanged": "2024-06-07T19:58:42.9751478+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:31.7541576+00:00",
-  "LastUpdate_Ratings": "2024-06-07T18:00:12.5363788+00:00",
+  "LastUpdate_Ratings": "2024-06-07T19:58:42.9751484+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:13.4493579+00:00"
 }
