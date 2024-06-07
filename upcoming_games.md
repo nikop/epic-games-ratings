@@ -80,6 +80,7 @@
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | - |  | - | - |
 | [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | - | - |
 | [Cafe Maid - Cute Anime Girls](games/3/3dfc7c92bb4846b5bfbb0066ba5149e8.md) | 2024-08-31 | - |  | - | - |
+| [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-08-31 | - |  | - | - |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-31 | - |  | - | - |
 | [Mirror Of Darkness](games/5/5896d071f8c544e39aef05706c15fc11.md) | 2024-08-31 | - |  | - | - |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-31 | - |  | - | - |
@@ -268,6 +269,7 @@
 | [AWAKEN - Astral Blade](games/9/952df933162b4007b4b07d38b1998f3b.md) | 2099-01-01 | - |  | - | - |
 | [Backrooms: Between Lost Dimension](games/e/e01fcd0a8d4d44ca8a7f90021d2ffd88.md) | 2099-01-01 | - |  | - | - |
 | [BADMAD ROBOTS](games/8/8c9aba45f7364ae483dcd05cf7d61cc4.md) | 2099-01-01 | - |  | - | - |
+| [Bandit Trap](games/7/7f438000e27e42409cf87125db2bbed0.md) | 2099-01-01 | - |  | - | - |
 | [Barista Simulator](games/d/d50a739b158c4d0fb8f3788f837b09d2.md) | 2099-01-01 | - |  | - | - |
 | [Battle Leet](games/6/68b61ac6800241caa70393fda6da575d.md) | 2099-01-01 | - |  | - | - |
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 4 | - | - |
@@ -303,6 +305,7 @@
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | - |  | - | - |
 | [Chains of War](games/2/29f2565853204cf3ad9aa748f30a36d5.md) | 2099-01-01 | - |  | - | - |
 | [Chemists Area of infection](games/c/chemists_area_of_infection.md) | 2099-01-01 | - |  | - | - |
+| [ChromaGun 2: Dye Hard](games/6/6ed7ed41ff3a431ebdd9d2bd25a4d9b3.md) | 2099-01-01 | - |  | - | - |
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
 | [Chrono Odyssey](games/0/0784e327b4474de18562b0eae53b16ca.md) | 2099-01-01 | - |  | - | - |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
@@ -319,7 +322,6 @@
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2099-01-01 | - |  | - | - |
 | [CyberCorp](games/2/2c0b31e23e2c4d0396802d4561940177.md) | 2099-01-01 | - |  | - | - |
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | 2099-01-01 | - |  | - | - |
-| [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 2099-01-01 | - |  | - | - |
 | [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2099-01-01 | - |  | - | - |
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [DeadPoly](games/7/70de45f56cbe43b3ae198624dd9f032f.md) | 2099-01-01 | - |  | - | - |
@@ -502,6 +504,7 @@
 | [Pawn Shop Simulator](games/a/a2f4d83cbe634ef4ba0681575b10edf1.md) | 2099-01-01 | - |  | - | - |
 | [Pillazon - MMO Drug Lord Tycoon](games/e/e3ea6ce18c3143ec8b4dbd15bb16a73c.md) | 2099-01-01 | - |  | - | - |
 | [Pine: A Story of Loss](games/d/d3c16b1b2d8e4331a1daea61170425f0.md) | 2099-01-01 | - |  | - | - |
+| [Pipistrello and the Cursed Yoyo](games/e/e224fd0c4bea40e0b052c3daf75de792.md) | 2099-01-01 | - |  | - | - |
 | [Please Comply](games/2/27a4702560f7496d926fb95012c25a2a.md) | 2099-01-01 | - |  | - | - |
 | [Pneumata](games/b/b8d6c7d0ab08485eb37741b972bf2773.md) | 2099-01-01 | - |  | - | - |
 | [POPUCOM](games/2/2ff9b80a92ef4a3fbc506a62f1bc3c59.md) | 2099-01-01 | - |  | - | - |
@@ -547,6 +550,7 @@
 | [Silent Depths](games/c/c916a6f3061d4785b9d39c36bcbb7ece.md) | 2099-01-01 | - |  | - | - |
 | [Singularity](games/d/df8d7b9bd9dc461991b6dd9429e11373.md) | 2099-01-01 | - |  | - | - |
 | [SkateNationXL](games/6/69fe287fe2804b2282c65addfec65aa7.md) | 2099-01-01 | - |  | - | - |
+| [Skopje '83](games/e/e96fa614a9c3468f9422455c14dfbcfc.md) | 2099-01-01 | - |  | - | - |
 | [Sky of Tides](games/e/e177af16278145ee95e8e64d73654b83.md) | 2099-01-01 | - |  | - | - |
 | [Sophia the Traveler](games/a/a038504f2c5a41fa9ae608f72284a96f.md) | 2099-01-01 | - |  | - | - |
 | [SOS OPS!](games/3/312174cf57134898a8f751921430d765.md) | 2099-01-01 | - |  | - | - |
