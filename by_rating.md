@@ -20,8 +20,8 @@
 | 14 | [RimWorld](games/r/rimworld.md) | 4.88 | 554 | 235 |
 | 14 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 653 |
 | 20 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 812 | 200 |
-| 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,716 | 85 |
-| 20 | [Inscryption](games/i/inscryption.md) | 4.87 | 373 | 270 |
+| 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,722 | 85 |
+| 20 | [Inscryption](games/i/inscryption.md) | 4.87 | 374 | 270 |
 | 20 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 325,563 | 5 |
 | 20 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 17,933 | 26 |
 | 20 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 626 |
@@ -75,7 +75,7 @@
 | 72 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 7,342 | 68 |
 | 72 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.82 | 71 | 473 |
 | 72 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 36 | 555 |
-| 72 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.82 | 349 | 276 |
+| 72 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.82 | 353 | 275 |
 | 72 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,032 | 130 |
 | 72 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 52 | 517 |
 | 72 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.82 | 0 | 653 |
@@ -173,7 +173,7 @@
 | 168 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 39,003 | 17 |
 | 168 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 516 | 242 |
 | 168 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 972 | 183 |
-| 168 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,428 | 57 |
+| 168 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,435 | 57 |
 | 168 | [Outlast](games/o/outlast.md) | 4.74 | 32 | 581 |
 | 168 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,113 | 169 |
 | 168 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 653 |
@@ -261,7 +261,7 @@
 | 256 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.69 | 166,639 | 7 |
 | 256 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,519 | 61 |
 | 256 | [Dungeons 4](games/d/dungeons_4.md) | 4.69 | 0 | 653 |
-| 256 | [House Flipper](games/h/house_flipper.md) | 4.69 | 351 | 275 |
+| 256 | [House Flipper](games/h/house_flipper.md) | 4.69 | 351 | 276 |
 | 256 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 653 |
 | 256 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 194 | 344 |
 | 256 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,299 | 153 |
@@ -489,7 +489,7 @@
 | 473 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.59 | 888 | 196 |
 | 473 | [Sunless Sea](games/s/sunless_sea.md) | 4.59 | 232 | 322 |
 | 473 | [Tails of Iron](games/t/tails_of_iron.md) | 4.59 | 22 | 637 |
-| 473 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 349 | 276 |
+| 473 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.59 | 349 | 277 |
 | 473 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.59 | 31 | 586 |
 | 473 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 36 | 555 |
 | 473 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 554 | 235 |
@@ -624,7 +624,7 @@
 | 620 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 653 |
 | 620 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 653 |
 | 620 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 653 |
-| 620 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.52 | 373 | 270 |
+| 620 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.52 | 373 | 271 |
 | 620 | [GigaBash](games/g/gigabash.md) | 4.52 | 102 | 420 |
 | 620 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 113 | 404 |
 | 620 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 143 | 379 |
@@ -814,7 +814,7 @@
 | 804 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
 | 804 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.42 | 0 | 653 |
 | 804 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,321 | 151 |
-| 804 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 189 | 345 |
+| 804 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 190 | 345 |
 | 804 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 100 | 426 |
 | 804 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 653 |
 | 818 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 653 |
@@ -920,7 +920,7 @@
 | 909 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 46 | 530 |
 | 909 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 653 |
 | 909 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 33 | 576 |
-| 909 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 685 | 219 |
+| 909 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 687 | 219 |
 | 922 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.33 | 0 | 653 |
 | 922 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 653 |
 | 922 | [Filament](games/f/filament.md) | 4.33 | 604 | 233 |
@@ -954,7 +954,7 @@
 | 949 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.30 | 418 | 261 |
 | 949 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 856 | 199 |
 | 949 | [The Surge 2](games/t/the_surge_2.md) | 4.30 | 0 | 653 |
-| 949 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.30 | 685 | 219 |
+| 949 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.30 | 685 | 220 |
 | 956 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.29 | 60 | 491 |
 | 956 | [Chess Ultra](games/c/chess_ultra.md) | 4.29 | 0 | 653 |
 | 956 | [Cyber Hook](games/c/cyber_hook.md) | 4.29 | 0 | 653 |
