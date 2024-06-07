@@ -22808,10 +22808,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 82548,
       "NumberOfAwardsMax": 28147
+    },
+    {
+      "Time": "2024-06-07T20:59:58.1289778+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 82560,
+      "NumberOfAwardsMax": 28147
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 82548,
+  "NumberOfAwards": 82560,
   "NumberOfAwardsMax": 28147,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -22867,7 +22873,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5229
+      "Count": 5237
     },
     {
       "Text": "This game has Diverse Characters",
@@ -22885,7 +22891,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 3389
+      "Count": 3393
     }
   ],
   "EOS_Progressed": 0,
@@ -22899,8 +22905,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2024-06-07T16:57:47.3829596+00:00",
+  "LastChanged": "2024-06-07T20:59:58.1289776+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:18.7407601+00:00",
-  "LastUpdate_Ratings": "2024-06-07T19:58:09.41878+00:00",
+  "LastUpdate_Ratings": "2024-06-07T20:59:58.1289781+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:12.2735856+00:00"
 }
