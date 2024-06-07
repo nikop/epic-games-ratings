@@ -2,9 +2,9 @@
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
-  "Ranking_Rating": 458,
+  "Ranking_Rating": 457,
   "Ranking_Popularity": 164,
-  "Ranking_PopularitySum": 226,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3418,10 +3418,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2318,
       "NumberOfAwardsMax": 1143
+    },
+    {
+      "Time": "2024-06-07T08:59:43.9483268+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2319,
+      "NumberOfAwardsMax": 1143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2318,
+  "NumberOfAwards": 2319,
   "NumberOfAwardsMax": 1143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3459,7 +3465,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3503,8 +3509,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2024-06-06T09:57:35.4169835+00:00",
+  "LastChanged": "2024-06-07T08:59:43.9483266+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:05.6526577+00:00",
-  "LastUpdate_Ratings": "2024-06-07T07:57:49.6072146+00:00",
+  "LastUpdate_Ratings": "2024-06-07T08:59:43.9483273+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:46.1497108+00:00"
 }

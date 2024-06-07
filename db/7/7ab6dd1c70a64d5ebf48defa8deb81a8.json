@@ -3,8 +3,8 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 1080,
-  "Ranking_Popularity": 653,
-  "Ranking_PopularitySum": 653,
+  "Ranking_Popularity": 652,
+  "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 318,
   "Ranking_EOS_NewPlayers": 25,
@@ -5574,6 +5574,6 @@
   "LastChanged": "2024-05-31T22:59:19.1652575+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:30.3528812+00:00",
   "LastUpdate_AppInfo": "2024-06-04T10:58:02.2029886+00:00",
-  "LastUpdate_Ratings": "2024-06-07T07:00:31.2892625+00:00",
+  "LastUpdate_Ratings": "2024-06-07T08:58:05.6511725+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:30.3529182+00:00"
 }

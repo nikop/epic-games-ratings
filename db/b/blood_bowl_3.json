@@ -3,8 +3,8 @@
   "Name": "Blood Bowl 3\t",
   "ProductSlug": "blood-bowl-3",
   "Ranking_Rating": 1169,
-  "Ranking_Popularity": 653,
-  "Ranking_PopularitySum": 653,
+  "Ranking_Popularity": 652,
+  "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -381,6 +381,6 @@
   "FirstSeenRating": "2023-03-31T05:57:03.2574154+00:00",
   "LastChanged": "2024-05-30T11:57:42.8287983+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:45.3178547+00:00",
-  "LastUpdate_Ratings": "2024-06-07T07:57:16.2892576+00:00",
+  "LastUpdate_Ratings": "2024-06-07T08:59:11.1222292+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:02.948812+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 423,
   "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 433,
   "Ranking_EOS_NewPlayers": 25,
@@ -2174,10 +2174,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 681,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2024-06-07T08:57:36.2214914+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 682,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 681,
+  "NumberOfAwards": 682,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2203,7 +2209,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 82
+      "Count": 83
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8823,9 +8829,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-06-07T03:58:44.8065675+00:00",
+  "LastChanged": "2024-06-07T08:57:36.2214912+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:40.7222414+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:09.5616836+00:00",
-  "LastUpdate_Ratings": "2024-06-07T06:59:52.3899814+00:00",
+  "LastUpdate_Ratings": "2024-06-07T08:57:36.221492+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:40.7223058+00:00"
 }
