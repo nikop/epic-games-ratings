@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 21,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-06-01T19:56:58.3012544+00:00",
@@ -16677,10 +16677,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 40268,
       "NumberOfAwardsMax": 13134
+    },
+    {
+      "Time": "2024-06-07T14:58:23.0006631+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 40277,
+      "NumberOfAwardsMax": 13134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40268,
+  "NumberOfAwards": 40277,
   "NumberOfAwardsMax": 13134,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16730,7 +16736,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1229
+      "Count": 1233
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16742,7 +16748,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1155
+      "Count": 1160
     },
     {
       "Text": "This game has a Creative Community",
@@ -46520,9 +46526,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-06-07T11:58:10.9749788+00:00",
+  "LastChanged": "2024-06-07T14:58:23.0006626+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.6001653+00:00",
   "LastUpdate_AppInfo": "2024-06-01T01:53:31.2941638+00:00",
-  "LastUpdate_Ratings": "2024-06-07T13:06:44.9208293+00:00",
+  "LastUpdate_Ratings": "2024-06-07T14:58:23.0006638+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.6003221+00:00"
 }
