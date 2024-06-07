@@ -1,11 +1,11 @@
 # Control
 [Store](https://store.epicgames.com/en-US/p/control)  
 [View Rawdata](../../db/c/control.json)  
-Rating: 4.61 (Ranked 424)  
+Rating: 4.61 (Ranked 423)  
 Number of Ratings: 16,122  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 9,562  (Ranked 56)  
-Sum: 14,723 (Ranked 90)  
+Sum: 14,724 (Ranked 90)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): -34
 | This game has Amazing Storytelling | 612 |
 | This game is Extremely Fun | 608 |
 | This game has Diverse Characters | 601 |
-| This game has Quickly Understood Controls | 598 |
+| This game has Quickly Understood Controls | 599 |
 | This game has Amazing Characters | 580 |
 | This game has Unique Visuals | 577 |
 | This game has a Creative Community | 337 |
@@ -489,3 +489,4 @@ Diff (max vs sum): -34
 | 2024-06-04 | 4.61 | - | 9,557 | 14,711 |
 | 2024-06-05 | 4.61 | - | 9,560 | 14,715 |
 | 2024-06-06 | 4.61 | - | 9,562 | 14,723 |
+| 2024-06-07 | 4.61 | - | 9,562 | 14,724 |

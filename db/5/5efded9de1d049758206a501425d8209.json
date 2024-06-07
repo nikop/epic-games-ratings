@@ -2,7 +2,7 @@
   "ID": "5efded9de1d049758206a501425d8209",
   "Name": "Raini: The Lords of Light",
   "ProductSlug": "raini-the-lords-of-light-eaeed0",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-08-17T14:58:23.8866797+00:00",
@@ -737,6 +737,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 368,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-06-07T04:00:34.8560777+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 368,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
@@ -835,8 +841,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-24T03:57:18.8590918+00:00",
   "FirstSeenRating": "2023-08-17T14:58:23.8866793+00:00",
-  "LastChanged": "2024-06-04T02:58:54.52822+00:00",
+  "LastChanged": "2024-06-07T04:00:34.8560775+00:00",
   "LastUpdate_AppInfo": "2024-06-02T08:57:02.7412638+00:00",
-  "LastUpdate_Ratings": "2024-06-07T02:58:12.0710838+00:00",
+  "LastUpdate_Ratings": "2024-06-07T04:00:34.8560779+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:32.3413705+00:00"
 }
