@@ -4,7 +4,7 @@
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 300,
   "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 447,
+  "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -538,10 +538,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 277,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-06-07T01:52:57.6815176+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 278,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 277,
+  "NumberOfAwards": 278,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -561,7 +567,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5215,9 +5221,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
-  "LastChanged": "2024-06-01T09:57:32.2188972+00:00",
+  "LastChanged": "2024-06-07T01:52:57.6815175+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:08.078338+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:25.0948246+00:00",
-  "LastUpdate_Ratings": "2024-06-06T23:00:37.2893159+00:00",
+  "LastUpdate_Ratings": "2024-06-07T01:52:57.6815179+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:08.0783839+00:00"
 }
