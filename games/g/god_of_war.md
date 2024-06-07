@@ -1,11 +1,11 @@
 # God of War
 [Store](https://store.epicgames.com/en-US/p/god-of-war)  
 [View Rawdata](../../db/g/god_of_war.json)  
-Rating: 4.87 (Ranked 20)  
+Rating: 4.87 (Ranked 19)  
 Number of Ratings: 4,943  (23.09.2022)  
 ## Awards
 Max (Character Customization): 5,722  (Ranked 85)  
-Sum: 10,924 (Ranked 105)  
+Sum: 10,928 (Ranked 105)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
@@ -13,14 +13,14 @@ Diff (max vs sum): -20
 | This game has Great Boss Battles | 2,860 |
 | This game has Amazing Characters | 235 |
 | This game is Great for Beginners | 232 |
+| This game is Educational | 229 |
 | This game has Amazing Storytelling | 228 |
-| This game is Educational | 228 |
 | This game has Competitive Players | 228 |
 | This game is Highly Recommended | 226 |
 | This game has Diverse Characters | 226 |
 | This game is Extremely Fun | 220 |
 | This game is Relaxing | 216 |
-| This game has Challenging Combat | 206 |
+| This game has Challenging Combat | 209 |
 | This game has Quickly Understood Controls | 192 |
 | This game has a Creative Community | 137 |
 | This game has Obsessive Gameplay | 86 |
@@ -465,4 +465,4 @@ Diff (max vs sum): -20
 | 2024-06-04 | 4.87 | - | 5,707 | 10,902 |
 | 2024-06-05 | 4.87 | - | 5,707 | 10,905 |
 | 2024-06-06 | 4.87 | - | 5,716 | 10,918 |
-| 2024-06-07 | 4.87 | - | 5,722 | 10,924 |
+| 2024-06-07 | 4.87 | - | 5,722 | 10,928 |

@@ -1,7 +1,7 @@
 # Rain World
 [Store](https://store.epicgames.com/en-US/p/rain-world-4c860c)  
 [View Rawdata](../../db/r/rain_world.json)  
-Rating: 4.86 (Ranked 28)  
+Rating: 4.86 (Ranked 27)  
 ## Awards
 Max (Diverse Characters): 22  (Ranked 637)  
 Sum: 22 (Ranked 640)  
