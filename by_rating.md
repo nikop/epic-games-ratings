@@ -153,7 +153,7 @@
 | 142 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 69 | 477 |
 | 142 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 652 |
 | 153 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.75 | 0 | 652 |
-| 153 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,616 | 60 |
+| 153 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,620 | 60 |
 | 153 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 652 |
 | 153 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,135 | 167 |
 | 153 | [Fez](games/f/fez.md) | 4.75 | 26 | 616 |
@@ -185,7 +185,7 @@
 | 168 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 963 | 185 |
 | 168 | [Timberborn](games/t/timberborn.md) | 4.74 | 201 | 339 |
 | 168 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 652 |
-| 168 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 539 | 239 |
+| 168 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 540 | 239 |
 | 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 1,270 | 158 |
 | 168 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 652 |
 | 189 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 526 | 241 |
@@ -196,7 +196,7 @@
 | 189 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 4.73 | 0 | 652 |
 | 189 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 652 |
 | 189 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.73 | 0 | 652 |
-| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 200 | 340 |
+| 189 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 201 | 339 |
 | 189 | [The Machines Arena](games/t/the_machines_arena.md) | 4.73 | 30 | 591 |
 | 189 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.73 | 0 | 652 |
 | 189 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.73 | 0 | 652 |
@@ -394,7 +394,7 @@
 | 386 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.63 | 95 | 435 |
 | 386 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,122 | 126 |
 | 386 | [HITMAN](games/h/hitman.md) | 4.63 | 231 | 323 |
-| 386 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 340 |
+| 386 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 341 |
 | 386 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 750 | 207 |
 | 386 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 11,239 | 47 |
 | 386 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,431 | 96 |
@@ -725,7 +725,7 @@
 | 707 | [Train Valley 2](games/t/train_valley_2.md) | 4.47 | 1,276 | 155 |
 | 724 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 4,715 | 93 |
 | 724 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.46 | 0 | 652 |
-| 724 | [Faeria](games/f/faeria.md) | 4.46 | 119 | 397 |
+| 724 | [Faeria](games/f/faeria.md) | 4.46 | 119 | 398 |
 | 724 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,278 | 154 |
 | 724 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.46 | 36 | 555 |
 | 724 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 14,812 | 36 |
@@ -763,8 +763,8 @@
 | 758 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.44 | 47 | 528 |
 | 758 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 652 |
 | 758 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 285 | 295 |
-| 758 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 78,390 | 11 |
-| 758 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 119 | 397 |
+| 758 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 78,583 | 11 |
+| 758 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 120 | 397 |
 | 758 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,537 | 31 |
 | 758 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.44 | 0 | 652 |
 | 758 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 101 | 425 |

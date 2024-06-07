@@ -10,7 +10,7 @@
 | 8 | [Fall Guys](games/f/fall_guys.md) | 160,544 | 4.50 | 653 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 134,488 | 4.69 | 256 |
 | 10 | [VALORANT](games/v/valorant.md) | 120,851 | 4.50 | 653 |
-| 11 | [Destiny 2](games/d/destiny_2.md) | 78,390 | 4.44 | 758 |
+| 11 | [Destiny 2](games/d/destiny_2.md) | 78,583 | 4.44 | 758 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 69,595 | 4.58 | 497 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 62,448 | 4.61 | 423 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 54,904 | 4.74 | 168 |
@@ -59,7 +59,7 @@
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,435 | 4.74 | 168 |
 | 58 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,850 | 4.49 | 677 |
 | 59 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,692 | 4.84 | 47 |
-| 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,616 | 4.75 | 153 |
+| 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,620 | 4.75 | 153 |
 | 61 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,519 | 4.69 | 256 |
 | 62 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,390 | 4.71 | 214 |
 | 63 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 8,384 | 4.62 | 403 |
@@ -238,7 +238,7 @@
 | 235 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 554 | 4.59 | 473 |
 | 237 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 549 | 4.21 | 1,038 |
 | 238 | [Loop Hero](games/l/loop_hero.md) | 544 | 4.68 | 281 |
-| 239 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 539 | 4.74 | 168 |
+| 239 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 540 | 4.74 | 168 |
 | 240 | [Slime Rancher](games/s/slime_rancher.md) | 533 | 4.82 | 72 |
 | 241 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 526 | 4.73 | 189 |
 | 242 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 516 | 4.74 | 168 |
@@ -338,9 +338,9 @@
 | 336 | [Crashlands](games/c/crashlands.md) | 205 | 4.66 | 324 |
 | 337 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 204 | 4.48 | 692 |
 | 338 | [The Witness](games/t/the_witness.md) | 202 | 4.69 | 256 |
+| 339 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 201 | 4.73 | 189 |
 | 339 | [Timberborn](games/t/timberborn.md) | 201 | 4.74 | 168 |
-| 340 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 200 | 4.63 | 386 |
-| 340 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 200 | 4.73 | 189 |
+| 341 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 200 | 4.63 | 386 |
 | 342 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 197 | 4.66 | 324 |
 | 342 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 197 | 4.63 | 386 |
 | 344 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 194 | 4.69 | 256 |
@@ -396,8 +396,8 @@
 | 393 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 125 | 4.79 | 108 |
 | 395 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 123 | 4.16 | 1,074 |
 | 395 | [Tropico 6](games/t/tropico_6.md) | 123 | 4.65 | 347 |
-| 397 | [Faeria](games/f/faeria.md) | 119 | 4.46 | 724 |
-| 397 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 119 | 4.44 | 758 |
+| 397 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 120 | 4.44 | 758 |
+| 398 | [Faeria](games/f/faeria.md) | 119 | 4.46 | 724 |
 | 399 | [Verdun](games/v/verdun.md) | 117 | 4.53 | 604 |
 | 400 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 115 | 4.31 | 941 |
 | 400 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 115 | 4.74 | 168 |
