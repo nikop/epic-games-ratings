@@ -490,6 +490,7 @@
 | [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 437 | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Nyan Heroes](games/8/8e8c6752bd704123adc71241c92e7bce.md) | 2099-01-01 | - |  | - | - |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2099-01-01 | - |  | - | - |
 | [Omega Ops](games/b/b30aa3c65b2f4754b78a219636c7dba1.md) | 2099-01-01 | - |  | - | - |
 | [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2099-01-01 | - |  | - | - |
 | [One Eleven](games/5/57bfe5b2441545b7bfe8812fb8936814.md) | 2099-01-01 | - |  | - | - |
@@ -680,6 +681,7 @@
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2099-02-01 | - |  | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
+| [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2099-02-01 | - |  | - | - |
 | [John Carpenter’s Toxic Commando](games/a/a22be63a94a64dd4a999ed959f0ce77f.md) | 2099-02-01 | - |  | - | - |
 | [Judas](games/j/judas_1.md) | 2099-02-01 | - |  | - | - |
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2099-02-01 | 8 (1,000 XP) | 3,029 | - | 0 |
