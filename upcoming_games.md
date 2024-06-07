@@ -366,6 +366,7 @@
 | [ExoWorlds](games/8/8ac47eb9b3844030b73ecc21936730a0.md) | 2099-01-01 | - |  | - | - |
 | [Extremely Realistic Siege Warfare Simulator](games/b/ba853730b0ab4978b0a7394c47cdc337.md) | 2099-01-01 | - |  | - | - |
 | [Farm and Fix Simulator](games/f/farm_and_fix_simulator.md) | 2099-01-01 | - |  | - | - |
+| [FATAL FURY: City of the Wolves](games/6/6ce9cadbab474f07928e3035473289d2.md) | 2099-01-01 | - |  | - | - |
 | [Field Hospital: Dr. Taylor's Story](games/f/field_hospital__dr._taylor's_story.md) | 2099-01-01 | - |  | - | - |
 | [FIRE](games/7/7ac5de5b8f10403ab9687388ec52c025.md) | 2099-01-01 | - |  | - | - |
 | [Fireball Wizard](games/a/a39d4b1311c741a191345f39bf1446eb.md) | 2099-01-01 | - |  | - | - |
