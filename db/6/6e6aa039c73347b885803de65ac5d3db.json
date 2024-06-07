@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-of-tsushima",
   "Ranking_Rating": 47,
   "Ranking_Popularity": 150,
-  "Ranking_PopularitySum": 205,
+  "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -811,10 +811,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2903,
       "NumberOfAwardsMax": 1367
+    },
+    {
+      "Time": "2024-06-07T15:57:08.4706889+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2923,
+      "NumberOfAwardsMax": 1367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2903,
+  "NumberOfAwards": 2923,
   "NumberOfAwardsMax": 1367,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -828,7 +834,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 165
+      "Count": 170
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -852,7 +858,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 146
+      "Count": 155
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -864,7 +870,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 163
+      "Count": 169
     },
     {
       "Text": "This game is Extremely Fun",
@@ -911,9 +917,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-06-07T13:58:58.5051619+00:00",
+  "LastChanged": "2024-06-07T15:57:08.4706887+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:01.6038252+00:00",
   "LastUpdate_AppInfo": "2024-06-06T01:46:51.783199+00:00",
-  "LastUpdate_Ratings": "2024-06-07T13:58:58.5051624+00:00",
+  "LastUpdate_Ratings": "2024-06-07T15:57:08.4706891+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:01.6038632+00:00"
 }

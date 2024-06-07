@@ -4,7 +4,7 @@
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 168,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 373,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1403,10 +1403,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 524,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-06-07T15:58:19.3024898+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 528,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 524,
+  "NumberOfAwards": 528,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1426,7 +1432,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game has Competitive Players",
@@ -1450,7 +1456,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Educational",
@@ -1462,7 +1468,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has a Creative Community",
@@ -1500,8 +1506,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
-  "LastChanged": "2024-06-07T04:58:21.7363464+00:00",
+  "LastChanged": "2024-06-07T15:58:19.3024897+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:35.1966281+00:00",
-  "LastUpdate_Ratings": "2024-06-07T14:00:07.5488749+00:00",
+  "LastUpdate_Ratings": "2024-06-07T15:58:19.3024901+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:31.0937786+00:00"
 }
