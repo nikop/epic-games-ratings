@@ -543,6 +543,7 @@
 | [Silent Depths](games/c/c916a6f3061d4785b9d39c36bcbb7ece.md) | 2099-01-01 | - |  | - | - |
 | [Singularity](games/d/df8d7b9bd9dc461991b6dd9429e11373.md) | 2099-01-01 | - |  | - | - |
 | [SkateNationXL](games/6/69fe287fe2804b2282c65addfec65aa7.md) | 2099-01-01 | - |  | - | - |
+| [Sky of Tides](games/e/e177af16278145ee95e8e64d73654b83.md) | 2099-01-01 | - |  | - | - |
 | [Sophia the Traveler](games/a/a038504f2c5a41fa9ae608f72284a96f.md) | 2099-01-01 | - |  | - | - |
 | [SOS OPS!](games/3/312174cf57134898a8f751921430d765.md) | 2099-01-01 | - |  | - | - |
 | [Soul War](games/5/57a8c2548bc244558f5bd74fe7fe85c5.md) | 2099-01-01 | - |  | - | - |
