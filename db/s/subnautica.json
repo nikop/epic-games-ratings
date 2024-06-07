@@ -8713,10 +8713,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 6710,
       "NumberOfAwardsMax": 891
+    },
+    {
+      "Time": "2024-06-07T11:00:41.7890764+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 6711,
+      "NumberOfAwardsMax": 891
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6710,
+  "NumberOfAwards": 6711,
   "NumberOfAwardsMax": 891,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8778,7 +8784,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 546
+      "Count": 547
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -8798,8 +8804,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2024-06-07T07:59:23.8977593+00:00",
+  "LastChanged": "2024-06-07T11:00:41.7890762+00:00",
   "LastUpdate_AppInfo": "2024-06-02T19:57:31.6601914+00:00",
-  "LastUpdate_Ratings": "2024-06-07T09:57:46.7890356+00:00",
+  "LastUpdate_Ratings": "2024-06-07T11:00:41.7890768+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:16.6307189+00:00"
 }
