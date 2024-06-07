@@ -2398,10 +2398,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1139,
       "NumberOfAwardsMax": 720
+    },
+    {
+      "Time": "2024-06-07T22:00:29.8596768+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1140,
+      "NumberOfAwardsMax": 720
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1139,
+  "NumberOfAwards": 1140,
   "NumberOfAwardsMax": 720,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -2433,7 +2439,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2489,8 +2495,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-06-06T17:58:53.8429704+00:00",
+  "LastChanged": "2024-06-07T22:00:29.8596766+00:00",
   "LastUpdate_AppInfo": "2024-06-02T19:57:31.6598729+00:00",
-  "LastUpdate_Ratings": "2024-06-07T20:57:58.0303138+00:00",
+  "LastUpdate_Ratings": "2024-06-07T22:00:29.8596772+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:21.20015+00:00"
 }
