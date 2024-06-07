@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 281,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 21,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-06-01T19:56:58.3012544+00:00",
@@ -16665,10 +16665,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 40194,
       "NumberOfAwardsMax": 13083
+    },
+    {
+      "Time": "2024-06-07T05:00:22.6553877+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 40217,
+      "NumberOfAwardsMax": 13083
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40194,
+  "NumberOfAwards": 40217,
   "NumberOfAwardsMax": 13083,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16688,7 +16694,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2788
+      "Count": 2798
     },
     {
       "Text": "This game is Highly Recommended",
@@ -16712,7 +16718,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1635
+      "Count": 1640
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -16742,7 +16748,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3359
+      "Count": 3367
     }
   ],
   "EOS_Progressed": 935956,
@@ -46508,9 +46514,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-06-07T01:51:41.1372474+00:00",
+  "LastChanged": "2024-06-07T05:00:22.6553875+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:09.6001653+00:00",
   "LastUpdate_AppInfo": "2024-06-01T01:53:31.2941638+00:00",
-  "LastUpdate_Ratings": "2024-06-07T03:58:21.3827059+00:00",
+  "LastUpdate_Ratings": "2024-06-07T05:00:22.6553882+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:09.6003221+00:00"
 }
