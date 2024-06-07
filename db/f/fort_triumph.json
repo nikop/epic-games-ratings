@@ -3,8 +3,8 @@
   "Name": "Fort Triumph",
   "ProductSlug": "fort-triumph",
   "Ranking_Rating": 1118,
-  "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 376,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -119,18 +119,24 @@
       "Rating": 4.08,
       "NumberOfAwards": 146,
       "NumberOfAwardsMax": 146
+    },
+    {
+      "Time": "2024-06-07T22:57:50.4621262+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 147,
+      "NumberOfAwardsMax": 147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 146,
-  "NumberOfAwardsMax": 146,
+  "NumberOfAwards": 147,
+  "NumberOfAwardsMax": 147,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 146
+      "Count": 147
     }
   ],
   "EOS_Progressed": 0,
@@ -145,8 +151,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:49.441525+00:00",
   "FirstSeenRating": "2022-12-02T08:58:26.1405445+00:00",
-  "LastChanged": "2024-05-08T05:00:37.7996535+00:00",
+  "LastChanged": "2024-06-07T22:57:50.4621261+00:00",
   "LastUpdate_AppInfo": "2024-06-02T18:57:29.0539321+00:00",
-  "LastUpdate_Ratings": "2024-06-07T20:59:23.824224+00:00",
+  "LastUpdate_Ratings": "2024-06-07T22:57:50.4621264+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:51.9568042+00:00"
 }
