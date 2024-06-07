@@ -4,7 +4,7 @@
   "ProductSlug": "combo-a7e03a",
   "Ranking_Rating": 547,
   "Ranking_Popularity": 193,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -630,10 +630,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 1160,
       "NumberOfAwardsMax": 907
+    },
+    {
+      "Time": "2024-06-07T13:06:14.8034528+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1123,
+      "NumberOfAwardsMax": 907
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1160,
+  "NumberOfAwards": 1123,
   "NumberOfAwardsMax": 907,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -710,7 +716,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-02T17:59:08.0734959+00:00",
   "FirstSeenRating": "2024-05-03T11:58:38.5901753+00:00",
-  "LastChanged": "2024-06-07T02:29:59.8766133+00:00",
+  "LastChanged": "2024-06-07T13:06:14.8034527+00:00",
   "LastUpdate_AppInfo": "2024-06-06T18:57:26.2880077+00:00",
-  "LastUpdate_Ratings": "2024-06-07T11:57:43.5933961+00:00"
+  "LastUpdate_Ratings": "2024-06-07T13:06:14.8034532+00:00"
 }

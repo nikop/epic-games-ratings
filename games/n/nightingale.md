@@ -3,9 +3,9 @@
 [View Rawdata](../../db/n/nightingale.json)  
 Rating: 4.29 (Ranked 956)  
 ## Awards
-Max (Great for Beginners): 75  (Ranked 467)  
+Max (Great for Beginners): 75  (Ranked 468)  
 Sum: 509 (Ranked 375)  
-Diff (max vs sum): 92  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 75 |
