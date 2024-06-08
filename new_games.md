@@ -128,5 +128,3 @@
 | [Crown Trick](games/9/9b9b340c4dd449059df709c1f26db201.md) | 2024-05-09 | - |  | - | - |
 | [Cryptmaster](games/c/cryptmaster.md) | 2024-05-09 | - |  | - | 0 |
 | [1000xRESIST](games/1/1000xresist.md) | 2024-05-09 | - |  | - | 0 |
-| [Cybernetic Fault](games/f/fef01803e2f1468591535ce1709b89b7.md) | 2024-05-09 | - |  | - | - |
-| [Euphoria: Supreme Mechanics](games/1/18051c2571964edbaeb83f87d12a189c.md) | 2024-05-09 | - |  | - | - |
