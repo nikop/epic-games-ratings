@@ -3,8 +3,8 @@
 [View Rawdata](../../db/n/nightingale.json)  
 Rating: 4.29 (Ranked 957)  
 ## Awards
-Max (Great for Beginners): 75  (Ranked 468)  
-Sum: 454 (Ranked 386)  
+Max (Great for Beginners): 75  (Ranked 469)  
+Sum: 454 (Ranked 387)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
