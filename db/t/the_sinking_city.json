@@ -3,8 +3,8 @@
   "Name": "The Sinking City",
   "ProductSlug": "the-sinking-city",
   "Ranking_Rating": 930,
-  "Ranking_Popularity": 652,
-  "Ranking_PopularitySum": 652,
+  "Ranking_Popularity": 653,
+  "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -69,6 +69,6 @@
   "FirstSeenRating": "2024-05-24T18:59:35.5135277+00:00",
   "LastChanged": "2024-06-02T18:59:30.1240365+00:00",
   "LastUpdate_AppInfo": "2024-06-05T14:57:12.1682976+00:00",
-  "LastUpdate_Ratings": "2024-06-08T06:57:31.2812573+00:00",
+  "LastUpdate_Ratings": "2024-06-08T08:00:06.4877741+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:58.0150216+00:00"
 }
