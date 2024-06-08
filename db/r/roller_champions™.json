@@ -4,7 +4,7 @@
   "ProductSlug": "roller-champions",
   "Ranking_Rating": 896,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 222,
+  "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3971,10 +3971,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 2446,
       "NumberOfAwardsMax": 284
+    },
+    {
+      "Time": "2024-06-08T06:59:38.6137038+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2448,
+      "NumberOfAwardsMax": 284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2446,
+  "NumberOfAwards": 2448,
   "NumberOfAwardsMax": 284,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4036,7 +4042,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 192
+      "Count": 194
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4056,8 +4062,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2024-05-26T23:58:21.7155755+00:00",
+  "LastChanged": "2024-06-08T06:59:38.6137036+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:09.043146+00:00",
-  "LastUpdate_Ratings": "2024-06-08T05:57:39.7224073+00:00",
+  "LastUpdate_Ratings": "2024-06-08T06:59:38.6137041+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:17.0509985+00:00"
 }
