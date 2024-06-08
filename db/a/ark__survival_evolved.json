@@ -22932,10 +22932,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 297785,
       "NumberOfAwardsMax": 69623
+    },
+    {
+      "Time": "2024-06-08T13:59:46.6728294+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 297812,
+      "NumberOfAwardsMax": 69623
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 297785,
+  "NumberOfAwards": 297812,
   "NumberOfAwardsMax": 69623,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -22961,7 +22967,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22747
+      "Count": 22755
     },
     {
       "Text": "This game is Educational",
@@ -22985,7 +22991,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 21501
+      "Count": 21507
     },
     {
       "Text": "This game has Amazing Characters",
@@ -23003,7 +23009,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26172
+      "Count": 26185
     },
     {
       "Text": "This game is Relaxing",
@@ -23023,8 +23029,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-06-08T08:59:59.2080365+00:00",
+  "LastChanged": "2024-06-08T13:59:46.6728292+00:00",
   "LastUpdate_AppInfo": "2024-06-02T19:57:37.8390923+00:00",
-  "LastUpdate_Ratings": "2024-06-08T13:00:51.5914875+00:00",
+  "LastUpdate_Ratings": "2024-06-08T13:59:46.67283+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:01.5578155+00:00"
 }
