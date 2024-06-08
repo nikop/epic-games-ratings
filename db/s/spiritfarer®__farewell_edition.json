@@ -4,7 +4,7 @@
   "ProductSlug": "spiritfarer",
   "Ranking_Rating": 18,
   "Ranking_Popularity": 625,
-  "Ranking_PopularitySum": 522,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -433,10 +433,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 107,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-06-08T19:57:00.8618473+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 127,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 107,
+  "NumberOfAwards": 127,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -469,6 +475,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 20
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -482,8 +494,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
-  "LastChanged": "2024-04-16T10:57:27.1706466+00:00",
+  "LastChanged": "2024-06-08T19:57:00.8618471+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:50:15.7330252+00:00",
-  "LastUpdate_Ratings": "2024-06-08T17:59:02.8298672+00:00",
+  "LastUpdate_Ratings": "2024-06-08T19:57:00.8618475+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:54.0490513+00:00"
 }

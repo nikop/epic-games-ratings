@@ -3,8 +3,8 @@
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
   "Ranking_Rating": 692,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 386,
+  "Ranking_Popularity": 482,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 416,
   "Ranking_EOS_NewPlayers": 25,
@@ -806,18 +806,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 470,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2024-06-08T19:57:33.8496425+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 471,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 470,
-  "NumberOfAwardsMax": 66,
+  "NumberOfAwards": 471,
+  "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15046,9 +15052,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
-  "LastChanged": "2024-06-08T16:57:24.147165+00:00",
+  "LastChanged": "2024-06-08T19:57:33.8496424+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:55.9379561+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:35.5293199+00:00",
-  "LastUpdate_Ratings": "2024-06-08T17:59:53.5977327+00:00",
+  "LastUpdate_Ratings": "2024-06-08T19:57:33.8496428+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:55.9380485+00:00"
 }
