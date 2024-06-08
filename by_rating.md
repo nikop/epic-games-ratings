@@ -67,7 +67,7 @@
 | 62 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 267 | 305 |
 | 62 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 252 | 309 |
 | 62 | [Firework](games/f/firework.md) | 4.83 | 0 | 652 |
-| 62 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 713 | 212 |
+| 62 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 715 | 212 |
 | 62 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 481 | 250 |
 | 62 | [TUNIC](games/t/tunic.md) | 4.83 | 42 | 538 |
 | 62 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.83 | 30 | 592 |
@@ -141,7 +141,7 @@
 | 127 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,026 | 178 |
 | 127 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 4.77 | 174 | 359 |
 | 127 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 652 |
-| 142 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,881 | 27 |
+| 142 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,889 | 27 |
 | 142 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,605 | 104 |
 | 142 | [Journey](games/j/journey.md) | 4.76 | 0 | 652 |
 | 142 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 652 |
@@ -404,7 +404,7 @@
 | 386 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,853 | 136 |
 | 403 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 652 |
 | 403 | [Darkwood](games/d/darkwood.md) | 4.62 | 338 | 281 |
-| 403 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.62 | 2,485 | 119 |
+| 403 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.62 | 2,486 | 119 |
 | 403 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 226 | 326 |
 | 403 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.62 | 8,478 | 62 |
 | 403 | [GRIT](games/g/grit.md) | 4.62 | 0 | 652 |
@@ -449,7 +449,7 @@
 | 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,882 | 66 |
 | 423 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 620 | 230 |
 | 423 | [The Invincible](games/t/the_invincible.md) | 4.61 | 0 | 652 |
-| 423 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 698 | 217 |
+| 423 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 703 | 217 |
 | 423 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 6,569 | 71 |
 | 423 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 4.61 | 0 | 652 |
 | 423 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 430 | 258 |
@@ -985,14 +985,13 @@
 | 983 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 82 | 451 |
 | 983 | [Men of War](games/m/men_of_war.md) | 4.27 | 0 | 652 |
 | 983 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 26 | 616 |
-| 983 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,267 | 76 |
+| 983 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,273 | 76 |
 | 983 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 0 | 652 |
 | 983 | [Steelrising](games/s/steelrising.md) | 4.27 | 44 | 532 |
 | 983 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.27 | 54 | 508 |
 | 983 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 652 |
 | 991 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 22 | 636 |
 | 991 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.26 | 0 | 652 |
-| 991 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 108 | 410 |
 | 991 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,326 | 23 |
 | 991 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 652 |
 | 991 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 25 | 621 |
@@ -1001,14 +1000,15 @@
 | 991 | [Startup Panic](games/s/startup_panic.md) | 4.26 | 0 | 652 |
 | 991 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 0 | 652 |
 | 991 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 292 |
-| 1,002 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 652 |
-| 1,002 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 652 |
-| 1,002 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 660 | 221 |
-| 1,002 | [Predecessor](games/p/predecessor.md) | 4.25 | 652 | 223 |
-| 1,002 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 652 |
-| 1,002 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 652 |
-| 1,002 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 652 |
-| 1,002 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 616 |
+| 1,001 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 652 |
+| 1,001 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.25 | 108 | 410 |
+| 1,001 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 652 |
+| 1,001 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 660 | 221 |
+| 1,001 | [Predecessor](games/p/predecessor.md) | 4.25 | 652 | 223 |
+| 1,001 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 652 |
+| 1,001 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 652 |
+| 1,001 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 652 |
+| 1,001 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 616 |
 | 1,010 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 652 |
 | 1,010 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 568 |
 | 1,010 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.24 | 0 | 652 |
@@ -1036,16 +1036,16 @@
 | 1,030 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 4.22 | 0 | 652 |
 | 1,030 | [Out of Line](games/o/out_of_line.md) | 4.22 | 0 | 652 |
 | 1,030 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 263 | 307 |
-| 1,030 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.22 | 0 | 652 |
 | 1,030 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.22 | 0 | 652 |
-| 1,039 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 130 | 389 |
-| 1,039 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 581 |
-| 1,039 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.21 | 549 | 237 |
-| 1,039 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 0 | 652 |
-| 1,039 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 107 | 411 |
-| 1,039 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 0 | 652 |
-| 1,039 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 80 | 458 |
-| 1,039 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.21 | 0 | 652 |
+| 1,038 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 130 | 389 |
+| 1,038 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 581 |
+| 1,038 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.21 | 549 | 237 |
+| 1,038 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.21 | 0 | 652 |
+| 1,038 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 4.21 | 107 | 411 |
+| 1,038 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.21 | 0 | 652 |
+| 1,038 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.21 | 0 | 652 |
+| 1,038 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 80 | 458 |
+| 1,038 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.21 | 0 | 652 |
 | 1,047 | [Against All Odds](games/a/against_all_odds.md) | 4.20 | 0 | 652 |
 | 1,047 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 134 | 385 |
 | 1,047 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 568 |
