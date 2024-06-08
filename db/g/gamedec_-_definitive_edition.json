@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 956,
+  "Ranking_Rating": 969,
   "Ranking_Popularity": 407,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 73,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "NumberOfRatings": 33,
   "RatingHistory": [
     {
@@ -659,6 +659,12 @@
     {
       "Time": "2024-05-30T09:57:49.3751529+00:00",
       "Rating": 4.29,
+      "NumberOfAwards": 112,
+      "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-06-08T01:46:55.3197754+00:00",
+      "Rating": 4.28,
       "NumberOfAwards": 112,
       "NumberOfAwardsMax": 112
     }
@@ -32763,9 +32769,9 @@
   "FirstSeen": "2022-07-22T20:19:30.52798+00:00",
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
-  "LastChanged": "2024-05-30T09:57:49.3751527+00:00",
+  "LastChanged": "2024-06-08T01:46:55.3197752+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:41.4168497+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:28.0570013+00:00",
-  "LastUpdate_Ratings": "2024-06-07T22:58:41.1643533+00:00",
+  "LastUpdate_Ratings": "2024-06-08T01:46:55.3197757+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:41.4170001+00:00"
 }
