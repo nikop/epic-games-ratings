@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [One Night With Kawaii](games/4/42671f8f7f0d4810b1e4674f881824b5.md) | 2024-06-08 | - |  | - | - |
 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 2024-06-07 | - |  | - | - |
 | [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | - |  | - | - |
 | [A Game´s Tale](games/1/1001579a7cb24f058683043aca87f987.md) | 2024-06-07 | - |  | - | - |
@@ -31,7 +32,7 @@
 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | - | 0 |
 | [The Black Within](games/1/151b4a63a63e445a9003113227ecd810.md) | 2024-05-31 | - |  | - | 0 |
 | [Cyberpunk SFX](games/7/7a0721af1f89440ba190a2c1eb2a1378.md) | 2024-05-31 | - |  | - | - |
-| [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | - |  | - | - |
+| [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | - |  | - | 0 |
 | [New Lands](games/e/e0f22cbd766547b5b10cbac9bf35849b.md) | 2024-05-31 | - |  | - | 0 |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-05-31 | - |  | - | - |
 | [Eternal Exodus](games/e/e54a925435924e42ab3cd20f584d6e14.md) | 2024-05-31 | - |  | - | - |
@@ -129,4 +130,3 @@
 | [1000xRESIST](games/1/1000xresist.md) | 2024-05-09 | - |  | - | 0 |
 | [Cybernetic Fault](games/f/fef01803e2f1468591535ce1709b89b7.md) | 2024-05-09 | - |  | - | - |
 | [Euphoria: Supreme Mechanics](games/1/18051c2571964edbaeb83f87d12a189c.md) | 2024-05-09 | - |  | - | - |
-| [Cross Tails](games/c/cb0899902d9c4f33b4f763b22b981043.md) | 2024-05-09 | - |  | - | 0 |
