@@ -72,6 +72,7 @@
 | [SteamWorld Heist II](games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 2024-08-08 | - |  | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 0 | - | - |
+| [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2024-08-15 | - |  | - | - |
 | [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2024-08-16 | - |  | - | - |
 | [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 2024-08-16 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
@@ -326,7 +327,6 @@
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2099-01-01 | - |  | - | - |
 | [CyberCorp](games/2/2c0b31e23e2c4d0396802d4561940177.md) | 2099-01-01 | - |  | - | - |
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | 2099-01-01 | - |  | - | - |
-| [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2099-01-01 | - |  | - | - |
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [DeadPoly](games/7/70de45f56cbe43b3ae198624dd9f032f.md) | 2099-01-01 | - |  | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2099-01-01 | - |  | - | - |
