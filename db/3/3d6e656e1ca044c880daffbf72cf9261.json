@@ -1,14 +1,14 @@
 {
   "ID": "3d6e656e1ca044c880daffbf72cf9261",
-  "Name": "The Slayer",
+  "Name": "The Slayer:Rebirth",
   "ProductSlug": "the-slayer-d43d68",
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
-    "ReleaseDate": "2024-07-31T00:00:00+00:00",
-    "PcReleaseDate": "2024-07-31T00:00:00+00:00",
+    "ReleaseDate": "2099-01-01T00:00:00+00:00",
+    "PcReleaseDate": "2099-01-01T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": true,
     "EpicFirstRunAdded": "2024-03-10T09:57:00.4238417+00:00",
