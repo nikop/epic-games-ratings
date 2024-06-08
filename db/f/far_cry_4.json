@@ -2,7 +2,7 @@
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
   "ProductSlug": "far-cry-4",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 639,
   "RatingHistory": [
     {
@@ -4585,18 +4585,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1770,
       "NumberOfAwardsMax": 1056
+    },
+    {
+      "Time": "2024-06-08T03:58:03.2880317+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1774,
+      "NumberOfAwardsMax": 1059
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1770,
-  "NumberOfAwardsMax": 1056,
+  "NumberOfAwards": 1774,
+  "NumberOfAwardsMax": 1059,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1056
+      "Count": 1059
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4638,7 +4644,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4670,8 +4676,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2024-06-06T13:02:29.143261+00:00",
+  "LastChanged": "2024-06-08T03:58:03.2880315+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:57:36.2961099+00:00",
-  "LastUpdate_Ratings": "2024-06-08T02:25:57.2303849+00:00",
+  "LastUpdate_Ratings": "2024-06-08T03:58:03.2880319+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:38.4677995+00:00"
 }
