@@ -314,6 +314,7 @@
 | [Chrono Odyssey](games/0/0784e327b4474de18562b0eae53b16ca.md) | 2099-01-01 | - |  | - | - |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
 | [City Transport Simulator: Tram](games/4/4017aaf2580940f981e66076469a1a99.md) | 2099-01-01 | - |  | - | - |
+| [Clair Obscur: Expedition 33](games/f/fd04af72ea0f437aad3a15acd9ed5508.md) | 2099-01-01 | - |  | - | - |
 | [Clash Heroes of Feralia Terra](games/e/efb6aef408a04c04aa5f69e565b5a918.md) | 2099-01-01 | - |  | - | - |
 | [Clicker Guardians](games/c/clicker_guardians.md) | 2099-01-01 | - |  | - | - |
 | [Cloud Cutter](games/c/cloud_cutter.md) | 2099-01-01 | 31 (1,000 XP) | 1 | - | - |
