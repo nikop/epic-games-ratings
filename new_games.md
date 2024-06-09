@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Below Level](games/3/35df9b6ab690473aa9a3d68c68f8c0fa.md) | 2024-06-09 | - |  | - | - |
 | [One Night With Kawaii](games/4/42671f8f7f0d4810b1e4674f881824b5.md) | 2024-06-08 | - |  | - | - |
-| [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 2024-06-07 | - |  | 3.98 | 0 |
+| [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 2024-06-07 | - |  | 4.04 | 0 |
 | [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | - |  | - | 0 |
 | [A Game´s Tale](games/1/1001579a7cb24f058683043aca87f987.md) | 2024-06-07 | - |  | - | - |
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | - |  | - | - |
@@ -113,4 +113,3 @@
 | [Truck](games/c/c33afcc65c264c81aa8e2537b7580690.md) | 2024-05-12 | - |  | - | 0 |
 | [Spellbound Survivors](games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 2024-05-11 | - |  | - | - |
 | [Garten of Banban 7](games/1/1e3a55074a2b486a8c75dc34feab3b5e.md) | 2024-05-11 | - |  | - | 0 |
-| [Finger Fury Showdown](games/6/615330bff3a54d4e88176873e842d220.md) | 2024-05-10 | - |  | - | - |

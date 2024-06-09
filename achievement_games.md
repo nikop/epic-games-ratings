@@ -204,7 +204,7 @@
 | [Virtual Rides 3](games/1/116f71b2da434337bba6498e0ea61d9c.md) | 2023-12-17 | 10 (1,000 XP) | 32 | - | 0 |
 | [Battle Planet - Judgement Day](games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 2023-12-15 | 13 (1,000 XP) | 4 | - | 0 |
 | [Hero Battle Fantasy Arena](games/4/4d936d45ca14450c86d6472c3c494181.md) | 2023-12-15 | 15 (1,000 XP) | 86 | - | 0 |
-| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 348,769 | 4.25 | 108 |
+| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 348,769 | 4.25 | 110 |
 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 259,065 | 4.27 | 54 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 2023-12-13 | 51 (1,000 XP) | 510 | - | 0 |
@@ -655,7 +655,7 @@
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 50 | - | 0 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 48 (1,000 XP) | 99 | - | 0 |
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 32 (1,000 XP) | 33 | - | - |
-| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,624,999 | 4.36 | 1,831 |
+| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,624,999 | 4.36 | 1,835 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,614 | - | 0 |
@@ -930,7 +930,7 @@
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 770,707 | 4.82 | 7,914 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,052,209 | 4.59 | 16,925 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 250 | 4.68 | 54 |
-| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,764 |
+| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,770 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 453 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 289 | - | 0 |
 | [Partisans 1941](games/p/partisans_1941.md) | 2022-01-11 | 30 (1,000 XP) | 2,357 | 4.62 | 0 |
@@ -1025,7 +1025,7 @@
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 53,562 | 4.65 | 434 |
 | [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 1,477,766 | 4.56 | 3,452 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 61,475 | - | 0 |
-| [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,628 | 4.03 | 0 |
+| [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,628 | 4.04 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 492,501 | 4.61 | 95 |
 | [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 29,087,333 | 4.44 | 849,685 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 256,846 | 4.58 | 350 |
