@@ -70,7 +70,7 @@
 | 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,347 | 4.82 | 72 |
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,095 | 4.58 | 498 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 803 |
-| 71 | [The Sims™ 4](games/t/the_sims™_4.md) | 6,569 | 4.61 | 425 |
+| 71 | [The Sims™ 4](games/t/the_sims™_4.md) | 6,604 | 4.61 | 425 |
 | 72 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,555 | 4.80 | 99 |
 | 73 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,532 | 4.78 | 118 |
 | 74 | [League of Legends](games/l/league_of_legends.md) | 6,516 | 4.20 | 1,048 |
@@ -105,7 +105,7 @@
 | 103 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,629 | 4.57 | 527 |
 | 104 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,605 | 4.76 | 142 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,588 | 4.19 | 1,055 |
-| 106 | [Ghostrunner](games/g/ghostrunner.md) | 3,443 | 4.56 | 546 |
+| 106 | [Ghostrunner](games/g/ghostrunner.md) | 3,452 | 4.56 | 546 |
 | 107 | [Among Us](games/a/among_us.md) | 3,406 | 4.55 | 565 |
 | 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,275 | 4.53 | 601 |
 | 109 | [RAGE 2](games/r/rage_2.md) | 3,181 | 4.26 | 992 |
@@ -140,7 +140,7 @@
 | 138 | [MORDHAU](games/m/mordhau.md) | 1,831 | 4.36 | 887 |
 | 139 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,829 | 4.80 | 99 |
 | 140 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,811 | 4.56 | 546 |
-| 141 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,766 | 4.86 | 28 |
+| 141 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,769 | 4.86 | 28 |
 | 142 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,743 | 4.79 | 108 |
 | 143 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,720 | 4.75 | 153 |
 | 144 | [XCOM® 2](games/x/xcom®_2.md) | 1,629 | 4.55 | 565 |
@@ -502,10 +502,10 @@
 | 498 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 58 | 4.65 | 346 |
 | 498 | [The Escapists 2](games/t/the_escapists_2.md) | 58 | 4.57 | 527 |
 | 502 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 57 | 4.85 | 36 |
+| 502 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 57 | 4.46 | 724 |
 | 502 | [Poker Club](games/p/poker_club.md) | 57 | 3.85 | 1,179 |
-| 504 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 56 | 4.46 | 724 |
-| 504 | [STG Football](games/s/stg_football.md) | 56 | 4.44 | 755 |
-| 504 | [Voidtrain](games/v/voidtrain.md) | 56 | 4.50 | 651 |
+| 505 | [STG Football](games/s/stg_football.md) | 56 | 4.44 | 755 |
+| 505 | [Voidtrain](games/v/voidtrain.md) | 56 | 4.50 | 651 |
 | 507 | [Desperados III](games/d/desperados_iii.md) | 55 | 4.84 | 47 |
 | 507 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 55 | 4.29 | 957 |
 | 509 | [AXIOM VERGE](games/a/axiom_verge.md) | 54 | 4.57 | 527 |

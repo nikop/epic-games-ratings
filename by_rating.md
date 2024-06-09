@@ -29,7 +29,7 @@
 | 18 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.87 | 0 | 653 |
 | 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 153 | 373 |
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 49 | 522 |
-| 28 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,766 | 141 |
+| 28 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,769 | 141 |
 | 28 | [Rain World](games/r/rain_world.md) | 4.86 | 22 | 636 |
 | 28 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 60 | 491 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 178 | 357 |
@@ -452,7 +452,7 @@
 | 425 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 620 | 230 |
 | 425 | [The Invincible](games/t/the_invincible.md) | 4.61 | 0 | 653 |
 | 425 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 703 | 217 |
-| 425 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 6,569 | 71 |
+| 425 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 6,604 | 71 |
 | 425 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 4.61 | 0 | 653 |
 | 425 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 442 |
 | 425 | [Warframe](games/w/warframe.md) | 4.61 | 24,399 | 22 |
@@ -551,7 +551,7 @@
 | 546 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 54 | 509 |
 | 546 | [Everything](games/e/everything.md) | 4.56 | 0 | 653 |
 | 546 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 1,105 | 171 |
-| 546 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 3,443 | 106 |
+| 546 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 3,452 | 106 |
 | 546 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 110 | 410 |
 | 546 | [Hob](games/h/hob.md) | 4.56 | 0 | 653 |
 | 546 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 47 | 528 |
@@ -673,7 +673,7 @@
 | 651 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,193 | 38 |
 | 651 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 653 |
 | 651 | [VALORANT](games/v/valorant.md) | 4.50 | 121,236 | 10 |
-| 651 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 56 | 504 |
+| 651 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 56 | 505 |
 | 651 | [Wall World](games/w/wall_world.md) | 4.50 | 0 | 653 |
 | 676 | [Auto Chess](games/a/auto_chess.md) | 4.49 | 963 | 187 |
 | 676 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,092 | 128 |
@@ -729,7 +729,7 @@
 | 724 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,279 | 156 |
 | 724 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.46 | 36 | 556 |
 | 724 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 14,827 | 36 |
-| 724 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 56 | 504 |
+| 724 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 57 | 502 |
 | 724 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.46 | 942 | 190 |
 | 724 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.46 | 34 | 569 |
 | 724 | [Riverbond](games/r/riverbond.md) | 4.46 | 22 | 636 |
@@ -774,7 +774,7 @@
 | 755 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 653 |
 | 755 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 848,428 | 2 |
 | 755 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 653 |
-| 755 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 504 |
+| 755 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 505 |
 | 755 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 430 |
 | 755 | [The Surge](games/t/the_surge.md) | 4.44 | 36 | 556 |
 | 755 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 302 | 291 |
