@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 546,
   "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 329,
+  "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 25,
@@ -4061,10 +4061,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 804,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2024-06-09T02:57:38.8607276+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 805,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 804,
+  "NumberOfAwards": 805,
   "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4102,7 +4108,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 89
+      "Count": 90
     },
     {
       "Text": "This game has a Creative Community",
@@ -23361,9 +23367,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-06-05T18:59:29.0923655+00:00",
+  "LastChanged": "2024-06-09T02:57:38.8607273+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:29.6863442+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:50:09.5152143+00:00",
-  "LastUpdate_Ratings": "2024-06-08T23:59:59.2737143+00:00",
+  "LastUpdate_Ratings": "2024-06-09T02:57:38.860728+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:29.6864522+00:00"
 }
