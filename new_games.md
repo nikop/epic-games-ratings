@@ -8,7 +8,7 @@
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | - |  | - | - |
 | [GRID Legends: Deluxe Edition](games/4/4dbce3b6359541ae90e4fcb14c9d2164.md) | 2024-06-06 | - |  | - | - |
 | [Mass Effect™ 2 (2010 Edition)](games/c/c1cdf99afc8341929e2b1611fc77aa41.md) | 2024-06-06 | - |  | - | - |
-| [Colorgrid](games/3/37986e23d96545498b42f60c3198b6d3.md) | 2024-06-06 | - |  | - | - |
+| [Colorgrid](games/3/37986e23d96545498b42f60c3198b6d3.md) | 2024-06-06 | - |  | - | 0 |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-06 | - |  | - | - |
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-06-06 | - |  | - | - |
 | [Red Planet Rampart](games/d/dc66053dbf6248cfbcb8c9a406b54dfb.md) | 2024-06-06 | - |  | - | - |
