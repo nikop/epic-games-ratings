@@ -3,7 +3,7 @@
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
   "Ranking_Rating": 498,
-  "Ranking_Popularity": 327,
+  "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 379,
@@ -3901,10 +3901,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1568,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2024-06-09T06:59:17.2756594+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1569,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1568,
+  "NumberOfAwards": 1569,
   "NumberOfAwardsMax": 224,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -3912,7 +3918,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 197
+      "Count": 198
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15814,9 +15820,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-06-08T10:58:53.4497022+00:00",
+  "LastChanged": "2024-06-09T06:59:17.2756592+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:33.135429+00:00",
   "LastUpdate_AppInfo": "2024-06-06T18:57:25.2887341+00:00",
-  "LastUpdate_Ratings": "2024-06-09T05:00:08.8751076+00:00",
+  "LastUpdate_Ratings": "2024-06-09T06:59:17.2756598+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:33.1355094+00:00"
 }

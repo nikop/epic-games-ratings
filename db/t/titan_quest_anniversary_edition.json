@@ -3,8 +3,8 @@
   "Name": "Titan Quest Anniversary Edition",
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 301,
-  "Ranking_Popularity": 415,
-  "Ranking_PopularitySum": 432,
+  "Ranking_Popularity": 414,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -775,18 +775,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 307,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-06-09T06:59:23.4352685+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 308,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 307,
-  "NumberOfAwardsMax": 105,
+  "NumberOfAwards": 308,
+  "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -842,8 +848,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2024-06-07T14:57:30.8497993+00:00",
+  "LastChanged": "2024-06-09T06:59:23.4352682+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:49:48.6663137+00:00",
-  "LastUpdate_Ratings": "2024-06-09T05:00:14.0950304+00:00",
+  "LastUpdate_Ratings": "2024-06-09T06:59:23.4352688+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:01.1687615+00:00"
 }

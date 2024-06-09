@@ -3,8 +3,8 @@
   "Name": "Suicide Squad: Kill the Justice League",
   "ProductSlug": "suicide-squad-kill-the-justice-league",
   "Ranking_Rating": 971,
-  "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 409,
+  "Ranking_Popularity": 325,
+  "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -697,18 +697,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 378,
       "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2024-06-09T06:58:08.9163421+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 383,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 378,
-  "NumberOfAwardsMax": 222,
+  "NumberOfAwards": 383,
+  "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 222
+      "Count": 227
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1175,9 +1181,9 @@
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-06-09T01:59:15.2827281+00:00",
+  "LastChanged": "2024-06-09T06:58:08.9163419+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:23.0346572+00:00",
   "LastUpdate_AppInfo": "2024-06-02T20:58:26.942102+00:00",
-  "LastUpdate_Ratings": "2024-06-09T04:59:09.947143+00:00",
+  "LastUpdate_Ratings": "2024-06-09T06:58:08.9163425+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:23.0357465+00:00"
 }
