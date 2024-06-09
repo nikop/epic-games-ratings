@@ -85,12 +85,12 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-03-21 | 154 | 0 |
 | 2024-04-10 | 250 | 0 |
 ## Awards
-Max (Character Customization): 53  (Ranked 514)  
-Sum: 53 (Ranked 579)  
-Diff (max vs sum): -65  
+Max (Character Customization): 54  (Ranked 509)  
+Sum: 54 (Ranked 576)  
+Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 53 |
+| This game has Inclusive Character Customization | 54 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -161,3 +161,4 @@ Diff (max vs sum): -65
 | 2024-03-05 | 4.67 | - | 52 | 52 |
 | 2024-03-30 | 4.67 | - | 53 | 53 |
 | 2024-04-09 | 4.68 | - | 53 | 53 |
+| 2024-06-09 | 4.68 | - | 54 | 54 |
