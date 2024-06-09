@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 635,
   "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -5232,10 +5232,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1458,
       "NumberOfAwardsMax": 184
+    },
+    {
+      "Time": "2024-06-09T18:57:53.8549796+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1459,
+      "NumberOfAwardsMax": 184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1458,
+  "NumberOfAwards": 1459,
   "NumberOfAwardsMax": 184,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -5273,7 +5279,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 164
+      "Count": 165
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5323,8 +5329,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2024-06-09T13:58:20.9586482+00:00",
+  "LastChanged": "2024-06-09T18:57:53.8549794+00:00",
   "LastUpdate_AppInfo": "2024-06-03T01:50:12.5599613+00:00",
-  "LastUpdate_Ratings": "2024-06-09T16:59:43.8284915+00:00",
+  "LastUpdate_Ratings": "2024-06-09T18:57:53.8549801+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:28.2641347+00:00"
 }
