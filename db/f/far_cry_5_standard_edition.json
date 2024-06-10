@@ -2,7 +2,7 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 987,
@@ -6901,10 +6901,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 3563,
       "NumberOfAwardsMax": 2128
+    },
+    {
+      "Time": "2024-06-10T13:08:04.6920105+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3564,
+      "NumberOfAwardsMax": 2128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3563,
+  "NumberOfAwards": 3564,
   "NumberOfAwardsMax": 2128,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6948,7 +6954,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 165
+      "Count": 166
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6992,8 +6998,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2024-06-09T20:59:08.9541023+00:00",
+  "LastChanged": "2024-06-10T13:08:04.6920103+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:18.830298+00:00",
-  "LastUpdate_Ratings": "2024-06-10T11:57:59.9502503+00:00",
+  "LastUpdate_Ratings": "2024-06-10T13:08:04.6920108+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:05.435571+00:00"
 }
