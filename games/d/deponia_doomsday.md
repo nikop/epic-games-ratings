@@ -1,7 +1,7 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.58 (Ranked 498)  
+Rating: 4.59 (Ranked 475)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -181,3 +181,4 @@ Completed: 7 (1.18%) (Ranked 195)
 | 2023-09-28 | 4.55 | 0 | 0 |
 | 2024-02-15 | 4.57 | 0 | 0 |
 | 2024-06-02 | 4.58 | 0 | 0 |
+| 2024-06-10 | 4.59 | 0 | 0 |
