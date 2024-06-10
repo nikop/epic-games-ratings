@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 188,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -2789,10 +2789,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 2214,
       "NumberOfAwardsMax": 611
+    },
+    {
+      "Time": "2024-06-10T18:57:52.4973974+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 2245,
+      "NumberOfAwardsMax": 611
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2214,
+  "NumberOfAwards": 2245,
   "NumberOfAwardsMax": 611,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2806,7 +2812,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 171
+      "Count": 190
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2824,7 +2830,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 129
+      "Count": 134
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2866,7 +2872,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 124
+      "Count": 131
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2899,8 +2905,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-10T16:59:42.6321527+00:00",
+  "LastChanged": "2024-06-10T18:57:52.4973972+00:00",
   "LastUpdate_AppInfo": "2024-06-06T02:23:42.8311534+00:00",
-  "LastUpdate_Ratings": "2024-06-10T16:59:42.6321533+00:00",
+  "LastUpdate_Ratings": "2024-06-10T18:57:52.4973978+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
