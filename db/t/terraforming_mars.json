@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 586,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 115,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 2731,
   "RatingHistory": [
     {
@@ -4257,6 +4257,12 @@
     {
       "Time": "2024-06-09T16:57:32.4698973+00:00",
       "Rating": 4.53,
+      "NumberOfAwards": 3493,
+      "NumberOfAwardsMax": 564
+    },
+    {
+      "Time": "2024-06-10T16:58:39.7334807+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 3493,
       "NumberOfAwardsMax": 564
     }
@@ -36233,9 +36239,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2024-06-09T16:57:32.4698971+00:00",
+  "LastChanged": "2024-06-10T16:58:39.7334805+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:00.7878358+00:00",
   "LastUpdate_AppInfo": "2024-06-09T18:57:18.5636175+00:00",
-  "LastUpdate_Ratings": "2024-06-10T14:59:39.6713777+00:00",
+  "LastUpdate_Ratings": "2024-06-10T16:58:39.7334813+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:00.7879962+00:00"
 }
