@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 426)
 Number of Ratings: 3,483  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 621  (Ranked 229)  
-Sum: 3,840 (Ranked 180)  
+Sum: 3,841 (Ranked 180)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 49
 | This game is Relaxing | 463 |
 | This game is Highly Recommended | 442 |
 | This game is Educational | 411 |
-| This game has Amazing Storytelling | 405 |
+| This game has Amazing Storytelling | 406 |
 | This game has Amazing Characters | 293 |
 | This game has a Creative Community | 268 |
 | This game has Obsessive Gameplay | 229 |
@@ -443,4 +443,4 @@ Diff (max vs sum): 49
 | 2024-06-06 | 4.61 | - | 620 | 3,833 |
 | 2024-06-07 | 4.61 | - | 620 | 3,835 |
 | 2024-06-09 | 4.61 | - | 620 | 3,839 |
-| 2024-06-10 | 4.61 | - | 621 | 3,840 |
+| 2024-06-10 | 4.61 | - | 621 | 3,841 |
