@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 170,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 22,
   "Ranking_EOS_Progress": 61,
@@ -20389,24 +20389,30 @@
       "Rating": 4.74,
       "NumberOfAwards": 87684,
       "NumberOfAwardsMax": 39213
+    },
+    {
+      "Time": "2024-06-10T20:57:05.0165515+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 87795,
+      "NumberOfAwardsMax": 39266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 87684,
-  "NumberOfAwardsMax": 39213,
+  "NumberOfAwards": 87795,
+  "NumberOfAwardsMax": 39266,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 39213
+      "Count": 39266
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 22192
+      "Count": 22242
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -20418,7 +20424,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2667
+      "Count": 2675
     },
     {
       "Text": "This game is Great for Beginners",
@@ -51581,9 +51587,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-06-10T18:59:29.7135591+00:00",
+  "LastChanged": "2024-06-10T20:57:05.0165513+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:51.7511451+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:21.3738317+00:00",
-  "LastUpdate_Ratings": "2024-06-10T18:59:29.7135597+00:00",
+  "LastUpdate_Ratings": "2024-06-10T20:57:05.0165519+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:51.7512882+00:00"
 }
