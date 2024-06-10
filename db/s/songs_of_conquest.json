@@ -2,7 +2,7 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 581,
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 291,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 292,
   "RatingHistory": [
     {
@@ -554,6 +554,12 @@
     {
       "Time": "2024-06-08T09:59:07.2384931+00:00",
       "Rating": 4.66,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-06-10T09:00:34.2665885+00:00",
+      "Rating": 4.67,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 32
     }
@@ -5233,9 +5239,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
-  "LastChanged": "2024-06-08T09:59:07.238493+00:00",
+  "LastChanged": "2024-06-10T09:00:34.2665883+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:08.078338+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:21.9562338+00:00",
-  "LastUpdate_Ratings": "2024-06-10T07:57:53.9225517+00:00",
+  "LastUpdate_Ratings": "2024-06-10T09:00:34.2665888+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:08.0783839+00:00"
 }
