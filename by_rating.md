@@ -50,7 +50,7 @@
 | 47 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.84 | 0 | 653 |
 | 47 | [Dead Cells](games/d/dead_cells.md) | 4.84 | 411 | 262 |
 | 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 55 | 507 |
-| 47 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,698 | 59 |
+| 47 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,703 | 59 |
 | 47 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 653 |
 | 47 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.84 | 0 | 653 |
 | 47 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,338 | 33 |
@@ -102,7 +102,7 @@
 | 100 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.80 | 63 | 486 |
 | 100 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.80 | 1,829 | 139 |
 | 100 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,555 | 72 |
-| 100 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 136 | 383 |
+| 100 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.80 | 136 | 384 |
 | 100 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 474 | 251 |
 | 100 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 653 |
 | 100 | [TOEM](games/t/toem.md) | 4.80 | 0 | 653 |
@@ -368,7 +368,7 @@
 | 345 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 123 | 396 |
 | 345 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.65 | 0 | 653 |
 | 368 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 653 |
-| 368 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,120 | 79 |
+| 368 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,122 | 79 |
 | 368 | [Black Book](games/b/black_book.md) | 4.64 | 24 | 625 |
 | 368 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 4.64 | 0 | 653 |
 | 368 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.64 | 0 | 653 |
@@ -499,7 +499,7 @@
 | 475 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 90 | 444 |
 | 498 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.58 | 0 | 653 |
 | 498 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 69,694 | 12 |
-| 498 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.58 | 136 | 383 |
+| 498 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.58 | 138 | 383 |
 | 498 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 4.58 | 0 | 653 |
 | 498 | [Deceive Inc.](games/d/deceive_inc..md) | 4.58 | 0 | 653 |
 | 498 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.58 | 0 | 653 |
@@ -517,7 +517,7 @@
 | 498 | [Risen](games/r/risen.md) | 4.58 | 0 | 653 |
 | 498 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.58 | 74 | 471 |
 | 498 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 4.58 | 43 | 536 |
-| 498 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 136 | 383 |
+| 498 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 136 | 384 |
 | 498 | [System Shock](games/s/system_shock.md) | 4.58 | 0 | 653 |
 | 498 | [Tavern Master](games/t/tavern_master.md) | 4.58 | 0 | 653 |
 | 498 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 351 | 277 |
@@ -1122,7 +1122,7 @@
 | 1,118 | [Patron](games/p/patron.md) | 4.08 | 0 | 653 |
 | 1,118 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 239 | 318 |
 | 1,118 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 653 |
-| 1,123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,120 | 79 |
+| 1,123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,120 | 80 |
 | 1,123 | [Obduction](games/o/obduction.md) | 4.07 | 61 | 489 |
 | 1,123 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 653 |
 | 1,126 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 653 |

@@ -58,7 +58,7 @@
 | 56 | [Control](games/c/control.md) | 9,569 | 4.61 | 426 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,451 | 4.74 | 170 |
 | 58 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,868 | 4.49 | 676 |
-| 59 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,698 | 4.84 | 47 |
+| 59 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,703 | 4.84 | 47 |
 | 60 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 8,681 | 4.62 | 404 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,635 | 4.75 | 154 |
 | 62 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,530 | 4.69 | 256 |
@@ -78,8 +78,8 @@
 | 76 | [Rogue Company](games/r/rogue_company.md) | 6,276 | 4.27 | 985 |
 | 77 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,219 | 4.56 | 547 |
 | 78 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,149 | 4.85 | 36 |
-| 79 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,120 | 4.64 | 368 |
-| 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,120 | 4.07 | 1,123 |
+| 79 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,122 | 4.64 | 368 |
+| 80 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,120 | 4.07 | 1,123 |
 | 81 | [Prey](games/p/prey.md) | 6,064 | 4.63 | 386 |
 | 82 | [Chivalry 2](games/c/chivalry_2.md) | 5,995 | 4.56 | 547 |
 | 83 | [SMITE](games/s/smite.md) | 5,828 | 4.40 | 834 |
@@ -382,9 +382,9 @@
 | 380 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 143 | 4.52 | 619 |
 | 381 | [Overcooked](games/o/overcooked.md) | 141 | 4.66 | 322 |
 | 382 | [Cave Story+](games/c/cave_story+.md) | 139 | 4.70 | 230 |
-| 383 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 136 | 4.58 | 498 |
-| 383 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 136 | 4.80 | 100 |
-| 383 | [Sonic Origins](games/s/sonic_origins.md) | 136 | 4.58 | 498 |
+| 383 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 138 | 4.58 | 498 |
+| 384 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 136 | 4.80 | 100 |
+| 384 | [Sonic Origins](games/s/sonic_origins.md) | 136 | 4.58 | 498 |
 | 386 | [Aven Colony](games/a/aven_colony.md) | 134 | 4.20 | 1,048 |
 | 387 | [Barony](games/b/barony.md) | 133 | 4.74 | 170 |
 | 387 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 133 | 4.28 | 972 |
