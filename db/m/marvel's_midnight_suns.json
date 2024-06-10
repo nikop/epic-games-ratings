@@ -3,8 +3,8 @@
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 758,
-  "Ranking_Popularity": 113,
-  "Ranking_PopularitySum": 146,
+  "Ranking_Popularity": 110,
+  "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -9741,18 +9741,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 6623,
       "NumberOfAwardsMax": 2794
+    },
+    {
+      "Time": "2024-06-10T21:59:23.898936+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 6841,
+      "NumberOfAwardsMax": 3012
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6623,
-  "NumberOfAwardsMax": 2794,
+  "NumberOfAwards": 6841,
+  "NumberOfAwardsMax": 3012,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2794
+      "Count": 3012
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9827,8 +9833,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-06-10T18:59:58.2257217+00:00",
+  "LastChanged": "2024-06-10T21:59:23.8989359+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:27.6010778+00:00",
-  "LastUpdate_Ratings": "2024-06-10T20:57:26.8827925+00:00",
+  "LastUpdate_Ratings": "2024-06-10T21:59:23.8989366+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:13.4493579+00:00"
 }
