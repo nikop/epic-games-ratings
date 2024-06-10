@@ -1,10 +1,10 @@
 # Nightingale
 [Store](https://store.epicgames.com/en-US/p/nightingale)  
 [View Rawdata](../../db/n/nightingale.json)  
-Rating: 4.29 (Ranked 958)  
+Rating: 4.29 (Ranked 959)  
 ## Awards
 Max (Great for Beginners): 75  (Ranked 469)  
-Sum: 460 (Ranked 389)  
+Sum: 461 (Ranked 389)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 80
 | This game has Quickly Understood Controls | 57 |
 | This game has Diverse Characters | 56 |
 | This game has Amazing Storytelling | 56 |
-| This game is Extremely Fun | 54 |
+| This game is Extremely Fun | 55 |
 | This game is Relaxing | 52 |
 | This game has a Creative Community | 38 |
 | This game has Beautiful Visuals | 36 |
@@ -115,3 +115,4 @@ Diff (max vs sum): 80
 | 2024-06-07 | 4.29 | 75 | 454 |
 | 2024-06-08 | 4.29 | 75 | 457 |
 | 2024-06-09 | 4.29 | 75 | 460 |
+| 2024-06-10 | 4.29 | 75 | 461 |
