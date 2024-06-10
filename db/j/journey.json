@@ -2,7 +2,7 @@
   "ID": "lemur",
   "Name": "Journey",
   "ProductSlug": "journey",
-  "Ranking_Rating": 142,
+  "Ranking_Rating": 127,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 54,
   "RatingHistory": [
     {
@@ -240,6 +240,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-10T17:57:16.5378696+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -257,8 +263,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:29.6928731+00:00",
-  "LastChanged": "2024-01-15T15:03:12.0046702+00:00",
+  "LastChanged": "2024-06-10T17:57:16.5378695+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:27.88144+00:00",
-  "LastUpdate_Ratings": "2024-06-10T15:58:25.8450955+00:00",
+  "LastUpdate_Ratings": "2024-06-10T17:57:16.5378698+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:04.7433321+00:00"
 }
