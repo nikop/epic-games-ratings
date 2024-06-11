@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | - |  | - | - |
 | [Garden Paradise](games/5/54180fd9376a41a287ff0cc5bbad0a5b.md) | 2024-06-12 | - |  | - | - |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | - |  | - | - |
 | [CRUELTY](games/1/1869b4b037124467b43cd9e62c6ee09d.md) | 2024-06-13 | - |  | - | - |
@@ -11,7 +12,6 @@
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | - |  | - | - |
 | [Chocolate Factory](games/1/14acd6d0e20049f4bcd489aeb6dd6f85.md) | 2024-06-18 | - |  | - | - |
 | [Still Wakes The Deep](games/a/a2100103ee894b96826d1c1ce2bae4c9.md) | 2024-06-18 | - |  | - | - |
-| [East Defense](games/d/d1fed5d227fa47eb86bb5b67d86278cf.md) | 2024-06-18 | - |  | - | - |
 | [Republic of Pirates](games/0/0cf54ee6730540daadb4f3bb7d54d481.md) | 2024-06-19 | - |  | - | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-20 | - |  | - | - |
 | [Workers & Resources: Soviet Republic](games/f/f5fdb08368b845aa9c27df5cb6995a24.md) | 2024-06-20 | - |  | - | - |
@@ -501,7 +501,6 @@
 | [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 437 | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Nyan Heroes](games/8/8e8c6752bd704123adc71241c92e7bce.md) | 2099-01-01 | - |  | - | - |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2099-01-01 | - |  | - | - |
 | [Omega Ops](games/b/b30aa3c65b2f4754b78a219636c7dba1.md) | 2099-01-01 | - |  | - | - |
 | [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2099-01-01 | - |  | - | - |
 | [One Eleven](games/5/57bfe5b2441545b7bfe8812fb8936814.md) | 2099-01-01 | - |  | - | - |
