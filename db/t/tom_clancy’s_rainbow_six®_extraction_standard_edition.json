@@ -3,7 +3,7 @@
   "Name": "Tom Clancy\u0027s Rainbow Six Extraction",
   "ProductSlug": "rainbow-six-extraction",
   "Ranking_Rating": 692,
-  "Ranking_Popularity": 338,
+  "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 284,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -3193,18 +3193,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 1254,
       "NumberOfAwardsMax": 204
+    },
+    {
+      "Time": "2024-06-11T10:59:05.9714808+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 1256,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1254,
-  "NumberOfAwardsMax": 204,
+  "NumberOfAwards": 1256,
+  "NumberOfAwardsMax": 206,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 204
+      "Count": 206
     },
     {
       "Text": "This game is Relaxing",
@@ -3272,8 +3278,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2024-06-02T16:57:15.7762591+00:00",
+  "LastChanged": "2024-06-11T10:59:05.9714806+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:45.672162+00:00",
-  "LastUpdate_Ratings": "2024-06-11T09:00:09.4234108+00:00",
+  "LastUpdate_Ratings": "2024-06-11T10:59:05.971481+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:08.9319846+00:00"
 }
