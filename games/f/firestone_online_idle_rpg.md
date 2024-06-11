@@ -363,12 +363,12 @@ Completed: 7 (0.11%) (Ranked 356)
 | 2024-03-21 | 5,856 | 7 |
 | 2024-04-10 | 6,261 | 7 |
 ## Awards
-Max (Great for Beginners): 185  (Ranked 347)  
-Sum: 407 (Ranked 399)  
+Max (Great for Beginners): 197  (Ranked 344)  
+Sum: 419 (Ranked 396)  
 Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 185 |
+| This game is Great for Beginners | 197 |
 | This game is Great for Quick Sessions | 134 |
 | This game has Playful Visuals | 114 |
 | This game has Quickly Understood Controls | 108 |
@@ -581,4 +581,4 @@ Diff (max vs sum): -52
 | 2024-06-08 | 3.62 | 171 | 377 |
 | 2024-06-09 | 3.62 | 176 | 387 |
 | 2024-06-10 | 3.62 | 185 | 405 |
-| 2024-06-11 | 3.63 | 185 | 407 |
+| 2024-06-11 | 3.63 | 197 | 419 |

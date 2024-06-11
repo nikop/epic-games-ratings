@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-tactics-brotherhood-of-steel",
   "Ranking_Rating": 709,
   "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 406,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1085,10 +1085,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 387,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2024-06-11T20:00:29.4547754+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 408,
+      "NumberOfAwardsMax": 162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 387,
+  "NumberOfAwards": 408,
   "NumberOfAwardsMax": 162,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1145,6 +1151,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -1159,8 +1171,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:01:33.5009817+00:00",
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
-  "LastChanged": "2024-06-08T19:57:45.1973888+00:00",
+  "LastChanged": "2024-06-11T20:00:29.4547752+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:24.0702074+00:00",
-  "LastUpdate_Ratings": "2024-06-11T18:58:23.9595922+00:00",
+  "LastUpdate_Ratings": "2024-06-11T20:00:29.4547757+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:28.2839386+00:00"
 }
