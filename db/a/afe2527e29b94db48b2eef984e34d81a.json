@@ -2,9 +2,9 @@
   "ID": "afe2527e29b94db48b2eef984e34d81a",
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
-  "Ranking_Rating": 783,
+  "Ranking_Rating": 782,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 371,
+  "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -414,10 +414,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 568,
       "NumberOfAwardsMax": 337
+    },
+    {
+      "Time": "2024-06-11T16:58:32.3673608+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 590,
+      "NumberOfAwardsMax": 337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 568,
+  "NumberOfAwards": 590,
   "NumberOfAwardsMax": 337,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -456,6 +462,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -470,7 +482,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
-  "LastChanged": "2024-06-11T08:58:47.7048564+00:00",
+  "LastChanged": "2024-06-11T16:58:32.3673607+00:00",
   "LastUpdate_AppInfo": "2024-06-06T16:57:24.6172799+00:00",
-  "LastUpdate_Ratings": "2024-06-11T15:01:29.9972834+00:00"
+  "LastUpdate_Ratings": "2024-06-11T16:58:32.3673611+00:00"
 }

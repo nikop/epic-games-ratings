@@ -3466,10 +3466,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2263,
       "NumberOfAwardsMax": 314
+    },
+    {
+      "Time": "2024-06-11T16:58:53.9489685+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2264,
+      "NumberOfAwardsMax": 314
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2263,
+  "NumberOfAwards": 2264,
   "NumberOfAwardsMax": 314,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3531,7 +3537,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 122
+      "Count": 123
     }
   ],
   "EOS_Progressed": 550798,
@@ -35211,9 +35217,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2024-06-10T13:05:04.0887305+00:00",
+  "LastChanged": "2024-06-11T16:58:53.9489684+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:26.287513+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:22.1082009+00:00",
-  "LastUpdate_Ratings": "2024-06-11T15:02:00.6189759+00:00",
+  "LastUpdate_Ratings": "2024-06-11T16:58:53.9489689+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:26.287657+00:00"
 }

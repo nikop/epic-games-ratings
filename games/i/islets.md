@@ -3,14 +3,14 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.71 (Ranked 213)  
 ## Awards
-Max (Extremely Fun): 35  (Ranked 566)  
-Sum: 243 (Ranked 462)  
+Max (Quickly Understood Controls): 35  (Ranked 566)  
+Sum: 245 (Ranked 462)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 35 |
 | This game is Extremely Fun | 35 |
 | This game is Highly Recommended | 34 |
-| This game has Quickly Understood Controls | 33 |
 | This game is Great for Beginners | 31 |
 | This game is Relaxing | 30 |
 | This game is Great for Quick Sessions | 28 |
@@ -79,3 +79,4 @@ Diff (max vs sum): 104
 | 2024-06-08 | 4.71 | 35 | 241 |
 | 2024-06-09 | 4.71 | 35 | 242 |
 | 2024-06-10 | 4.71 | 35 | 243 |
+| 2024-06-11 | 4.71 | 35 | 245 |
