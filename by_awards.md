@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,609,491 | 4.29 | 959 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 850,442 | 4.44 | 758 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 851,062 | 4.44 | 758 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 385,363 | 4.68 | 281 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 343,344 | 4.67 | 300 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 327,175 | 4.87 | 18 |
@@ -10,7 +10,7 @@
 | 8 | [Fall Guys](games/f/fall_guys.md) | 160,692 | 4.50 | 652 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 134,697 | 4.69 | 257 |
 | 10 | [VALORANT](games/v/valorant.md) | 121,593 | 4.50 | 652 |
-| 11 | [Destiny 2](games/d/destiny_2.md) | 79,035 | 4.44 | 758 |
+| 11 | [Destiny 2](games/d/destiny_2.md) | 79,159 | 4.44 | 758 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 69,717 | 4.58 | 497 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 62,685 | 4.61 | 426 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 55,192 | 4.74 | 170 |
@@ -38,7 +38,7 @@
 | 36 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 14,849 | 4.46 | 724 |
 | 37 | [Maneater](games/m/maneater.md) | 14,234 | 4.49 | 677 |
 | 38 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 13,269 | 4.68 | 281 |
-| 39 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 13,208 | 4.50 | 652 |
+| 39 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 13,220 | 4.50 | 652 |
 | 40 | [Bloons TD 6](games/b/bloons_td_6.md) | 13,088 | 4.77 | 126 |
 | 41 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,934 | 4.36 | 886 |
 | 42 | [HITMAN World of Assassination](games/h/hitman_3.md) | 12,770 | 4.77 | 126 |
@@ -68,7 +68,7 @@
 | 66 | [Supraland](games/s/supraland.md) | 7,885 | 4.61 | 426 |
 | 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,557 | 4.75 | 154 |
 | 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,353 | 4.82 | 72 |
-| 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,099 | 4.58 | 497 |
+| 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,103 | 4.58 | 497 |
 | 70 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 805 |
 | 71 | [The Sims™ 4](games/t/the_sims™_4.md) | 6,642 | 4.61 | 426 |
 | 72 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,555 | 4.80 | 100 |
@@ -87,7 +87,7 @@
 | 85 | [God of War](games/g/god_of_war.md) | 5,741 | 4.87 | 18 |
 | 86 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 5,647 | 4.37 | 876 |
 | 87 | [Shop Titans](games/s/shop_titans.md) | 5,200 | 4.00 | 1,146 |
-| 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,082 | 4.70 | 231 |
+| 88 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,085 | 4.70 | 231 |
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 5,026 | 4.64 | 368 |
 | 90 | [MultiVersus](games/m/multiversus.md) | 4,930 | 4.56 | 547 |
 | 91 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,881 | 4.68 | 281 |
@@ -294,8 +294,8 @@
 | 292 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 301 | 4.58 | 497 |
 | 293 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 993 |
 | 294 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 294 | 4.83 | 60 |
-| 295 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 288 | 4.38 | 861 |
-| 295 | [Sheltered](games/s/sheltered.md) | 288 | 4.41 | 820 |
+| 295 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 289 | 4.38 | 861 |
+| 296 | [Sheltered](games/s/sheltered.md) | 288 | 4.41 | 820 |
 | 297 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 287 | 4.43 | 783 |
 | 298 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 286 | 4.44 | 758 |
 | 299 | [Roller Champions™](games/r/roller_champions™.md) | 284 | 4.35 | 895 |
@@ -327,8 +327,8 @@
 | 324 | [Returnal™](games/r/returnal™.md) | 231 | 4.56 | 547 |
 | 326 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 228 | 4.55 | 565 |
 | 327 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 227 | 4.62 | 404 |
-| 328 | [The Riftbreaker](games/t/the_riftbreaker.md) | 226 | 4.76 | 143 |
-| 329 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 225 | 4.58 | 497 |
+| 327 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 227 | 4.58 | 497 |
+| 329 | [The Riftbreaker](games/t/the_riftbreaker.md) | 226 | 4.76 | 143 |
 | 330 | [Star Stable Online](games/s/star_stable_online.md) | 220 | 4.41 | 820 |
 | 331 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 215 | 4.53 | 601 |
 | 332 | [Blasphemous](games/b/blasphemous.md) | 214 | 4.83 | 60 |
