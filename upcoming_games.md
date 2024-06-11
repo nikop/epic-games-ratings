@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The New Order](games/a/a7b3d65c6ca4471f90699430a273f1c8.md) | 2024-06-11 | - |  | - | - |
 | [Garden Paradise](games/5/54180fd9376a41a287ff0cc5bbad0a5b.md) | 2024-06-12 | - |  | - | - |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | - |  | - | - |
 | [CRUELTY](games/1/1869b4b037124467b43cd9e62c6ee09d.md) | 2024-06-13 | - |  | - | - |
@@ -431,6 +432,7 @@
 | [Infection Free Zone](games/5/582f0eafbde4494bbf31ef210830dd62.md) | 2099-01-01 | - |  | - | - |
 | [Infinitesimals](games/i/infinitesimals.md) | 2099-01-01 | - |  | - | - |
 | [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | 30 (1,000 XP) | 1 | - | - |
+| [Internet Cafe Evolution](games/8/87beabc82e8a4a4f9a4914ee5d97decc.md) | 2099-01-01 | - |  | - | - |
 | [Intravenous](games/1/1a75390ae85d492d875b29a6e7fe1466.md) | 2099-01-01 | - |  | - | - |
 | [Jawbreaker](games/j/jawbreaker.md) | 2099-01-01 | - |  | - | 0 |
 | [JDM: Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | - |  | - | - |
@@ -625,7 +627,6 @@
 | [The Legend of Heroes Trails through Daybreak](games/b/b0beeaad664a41ddb029247838a5a930.md) | 2099-01-01 | - |  | - | - |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
 | [The Netcode Conflict](games/b/b90475ab7a2542af810ec9dd9649398d.md) | 2099-01-01 | - |  | - | - |
-| [The New Order](games/a/a7b3d65c6ca4471f90699430a273f1c8.md) | 2099-01-01 | - |  | - | - |
 | [The Night Wanderer](games/4/45d15cce2e0749369154d8124be46910.md) | 2099-01-01 | - |  | - | - |
 | [The Sinking City 2](games/5/5e3377fe4ff34650bfbd8dbea9b3a222.md) | 2099-01-01 | - |  | - | - |
 | [The Slayer:Rebirth](games/3/3d6e656e1ca044c880daffbf72cf9261.md) | 2099-01-01 | - |  | - | - |
