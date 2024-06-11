@@ -22580,10 +22580,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 113564,
       "NumberOfAwardsMax": 14849
+    },
+    {
+      "Time": "2024-06-11T02:29:19.3552579+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 113569,
+      "NumberOfAwardsMax": 14849
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 113564,
+  "NumberOfAwards": 113569,
   "NumberOfAwardsMax": 14849,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -22633,7 +22639,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 8780
+      "Count": 8785
     },
     {
       "Text": "This game has Amazing Characters",
@@ -22665,8 +22671,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-06-11T00:00:52.7790325+00:00",
+  "LastChanged": "2024-06-11T02:29:19.3552575+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:48.5849131+00:00",
-  "LastUpdate_Ratings": "2024-06-11T00:00:52.779033+00:00",
+  "LastUpdate_Ratings": "2024-06-11T02:29:19.3552584+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:10.5154539+00:00"
 }
