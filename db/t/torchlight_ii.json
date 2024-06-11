@@ -3,7 +3,7 @@
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
   "Ranking_Rating": 457,
-  "Ranking_Popularity": 165,
+  "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -3442,18 +3442,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 2322,
       "NumberOfAwardsMax": 1144
+    },
+    {
+      "Time": "2024-06-11T15:58:26.5633484+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2324,
+      "NumberOfAwardsMax": 1146
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2322,
-  "NumberOfAwardsMax": 1144,
+  "NumberOfAwards": 2324,
+  "NumberOfAwardsMax": 1146,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1144
+      "Count": 1146
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3527,8 +3533,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2024-06-08T10:01:07.0888923+00:00",
+  "LastChanged": "2024-06-11T15:58:26.5633483+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:57.5943652+00:00",
-  "LastUpdate_Ratings": "2024-06-11T13:59:58.8872861+00:00",
+  "LastUpdate_Ratings": "2024-06-11T15:58:26.5633487+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:46.1497108+00:00"
 }
