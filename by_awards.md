@@ -76,7 +76,7 @@
 | 74 | [League of Legends](games/l/league_of_legends.md) | 6,536 | 4.20 | 1,048 |
 | 75 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,291 | 4.66 | 322 |
 | 76 | [Rogue Company](games/r/rogue_company.md) | 6,276 | 4.27 | 984 |
-| 77 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,219 | 4.56 | 547 |
+| 77 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,224 | 4.56 | 547 |
 | 78 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,152 | 4.85 | 36 |
 | 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,125 | 4.07 | 1,124 |
 | 80 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,122 | 4.64 | 368 |
@@ -112,7 +112,7 @@
 | 110 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 3,012 | 4.44 | 758 |
 | 111 | [Path of Exile](games/p/path_of_exile.md) | 3,000 | 4.62 | 404 |
 | 112 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,970 | 4.79 | 108 |
-| 113 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,881 | 4.12 | 1,103 |
+| 113 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,881 | 4.13 | 1,098 |
 | 114 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,748 | 4.70 | 231 |
 | 115 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,657 | 4.76 | 143 |
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,616 | 4.76 | 143 |
@@ -124,8 +124,8 @@
 | 122 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,315 | 4.55 | 565 |
 | 123 | [World of Warships](games/w/world_of_warships.md) | 2,223 | 4.41 | 820 |
 | 124 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,183 | 4.37 | 876 |
+| 125 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,133 | 4.63 | 387 |
 | 125 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,133 | 4.89 | 11 |
-| 126 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,128 | 4.63 | 387 |
 | 127 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,103 | 4.69 | 257 |
 | 128 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,093 | 4.49 | 677 |
 | 129 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,090 | 4.50 | 652 |
@@ -198,7 +198,7 @@
 | 196 | [Subnautica](games/s/subnautica.md) | 896 | 4.85 | 36 |
 | 197 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 892 | 4.59 | 474 |
 | 198 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 884 | 4.61 | 426 |
-| 199 | [Prison Architect](games/p/prison_architect.md) | 880 | 4.61 | 426 |
+| 199 | [Prison Architect](games/p/prison_architect.md) | 883 | 4.61 | 426 |
 | 200 | [Neverwinter](games/n/neverwinter.md) | 858 | 4.30 | 954 |
 | 201 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 814 | 4.87 | 18 |
 | 202 | [Core](games/c/core.md) | 813 | 4.34 | 911 |
@@ -626,7 +626,7 @@
 | 622 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 25 | 4.57 | 526 |
 | 625 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 24 | 4.32 | 932 |
 | 625 | [Black Book](games/b/black_book.md) | 24 | 4.64 | 368 |
-| 625 | [Cursed to Golf](games/c/cursed_to_golf.md) | 24 | 4.12 | 1,103 |
+| 625 | [Cursed to Golf](games/c/cursed_to_golf.md) | 24 | 4.12 | 1,104 |
 | 625 | [Outer Wilds](games/o/outer_wilds.md) | 24 | 4.90 | 7 |
 | 625 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 24 | 4.87 | 18 |
 | 630 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 23 | 4.47 | 709 |

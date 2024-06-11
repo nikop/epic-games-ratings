@@ -393,7 +393,7 @@
 | 387 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 305 | 289 |
 | 387 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 566 |
 | 387 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.63 | 98 | 433 |
-| 387 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,128 | 126 |
+| 387 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,133 | 125 |
 | 387 | [HITMAN](games/h/hitman.md) | 4.63 | 231 | 324 |
 | 387 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 342 |
 | 387 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 751 | 208 |
@@ -444,7 +444,7 @@
 | 426 | [MudRunner](games/m/mudrunner.md) | 4.61 | 356 | 275 |
 | 426 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 653 |
 | 426 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 114 | 403 |
-| 426 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 880 | 199 |
+| 426 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 883 | 199 |
 | 426 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,489 | 46 |
 | 426 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,139 | 168 |
 | 426 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 653 |
@@ -563,7 +563,7 @@
 | 547 | [Returnal™](games/r/returnal™.md) | 4.56 | 231 | 324 |
 | 547 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.56 | 0 | 653 |
 | 547 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,811 | 140 |
-| 547 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,219 | 77 |
+| 547 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,224 | 77 |
 | 565 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.55 | 0 | 653 |
 | 565 | [Among Us](games/a/among_us.md) | 4.55 | 3,413 | 107 |
 | 565 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 653 |
@@ -1101,14 +1101,14 @@
 | 1,098 | [Lake](games/l/lake.md) | 4.13 | 0 | 653 |
 | 1,098 | [Relicta](games/r/relicta.md) | 4.13 | 206 | 336 |
 | 1,098 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.13 | 0 | 653 |
+| 1,098 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 2,881 | 113 |
 | 1,098 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.13 | 0 | 653 |
-| 1,103 | [Banished](games/b/banished.md) | 4.12 | 0 | 653 |
-| 1,103 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 653 |
-| 1,103 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 625 |
-| 1,103 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.12 | 0 | 653 |
-| 1,103 | [Gravewood High](games/g/gravewood_high.md) | 4.12 | 0 | 653 |
-| 1,103 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.12 | 2,881 | 113 |
-| 1,103 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.12 | 0 | 653 |
+| 1,104 | [Banished](games/b/banished.md) | 4.12 | 0 | 653 |
+| 1,104 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 653 |
+| 1,104 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 625 |
+| 1,104 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.12 | 0 | 653 |
+| 1,104 | [Gravewood High](games/g/gravewood_high.md) | 4.12 | 0 | 653 |
+| 1,104 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.12 | 0 | 653 |
 | 1,110 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.11 | 0 | 653 |
 | 1,111 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 0 | 653 |
 | 1,111 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 0 | 653 |
