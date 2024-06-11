@@ -15,7 +15,7 @@
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 28,241 | 21 |
 | 14 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 25 | 622 |
 | 14 | [Flatout 2](games/f/flatout_2.md) | 4.88 | 0 | 653 |
-| 14 | [RimWorld](games/r/rimworld.md) | 4.88 | 554 | 238 |
+| 14 | [RimWorld](games/r/rimworld.md) | 4.88 | 556 | 238 |
 | 14 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 653 |
 | 18 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 814 | 201 |
 | 18 | [God of War](games/g/god_of_war.md) | 4.87 | 5,741 | 85 |
@@ -700,7 +700,7 @@
 | 692 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 283 | 300 |
 | 692 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 4.48 | 0 | 653 |
 | 692 | [Figment](games/f/figment.md) | 4.48 | 21 | 643 |
-| 692 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,200 | 98 |
+| 692 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,203 | 98 |
 | 692 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 653 |
 | 692 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 4.48 | 0 | 653 |
 | 692 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.48 | 0 | 653 |
@@ -815,7 +815,7 @@
 | 806 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 269 | 306 |
 | 806 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 70 |
 | 806 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.42 | 0 | 653 |
-| 806 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,327 | 151 |
+| 806 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,330 | 151 |
 | 806 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 191 | 346 |
 | 806 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 102 | 423 |
 | 806 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 653 |
@@ -1105,28 +1105,28 @@
 | 1,103 | [Banished](games/b/banished.md) | 4.12 | 0 | 653 |
 | 1,103 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 653 |
 | 1,103 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 625 |
+| 1,103 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.12 | 0 | 653 |
 | 1,103 | [Gravewood High](games/g/gravewood_high.md) | 4.12 | 0 | 653 |
 | 1,103 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.12 | 2,881 | 113 |
 | 1,103 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.12 | 0 | 653 |
-| 1,109 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.11 | 0 | 653 |
-| 1,110 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 0 | 653 |
-| 1,110 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 0 | 653 |
-| 1,110 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 118 |
-| 1,110 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 0 | 653 |
-| 1,114 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 653 |
-| 1,114 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 653 |
-| 1,114 | [SYNCED](games/s/synced.md) | 4.09 | 183 | 352 |
-| 1,114 | [The Front](games/t/the_front.md) | 4.09 | 29 | 597 |
-| 1,118 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 147 | 377 |
-| 1,118 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 349 |
-| 1,118 | [Patron](games/p/patron.md) | 4.08 | 0 | 653 |
-| 1,118 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 239 | 318 |
-| 1,118 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 653 |
-| 1,123 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.07 | 0 | 653 |
-| 1,123 | [Homeworld 3](games/h/homeworld_3.md) | 4.07 | 0 | 653 |
-| 1,123 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,125 | 79 |
-| 1,123 | [Obduction](games/o/obduction.md) | 4.07 | 61 | 489 |
-| 1,123 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 653 |
+| 1,110 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.11 | 0 | 653 |
+| 1,111 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.10 | 0 | 653 |
+| 1,111 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 0 | 653 |
+| 1,111 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 118 |
+| 1,111 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.10 | 0 | 653 |
+| 1,115 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 653 |
+| 1,115 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 653 |
+| 1,115 | [SYNCED](games/s/synced.md) | 4.09 | 183 | 352 |
+| 1,115 | [The Front](games/t/the_front.md) | 4.09 | 29 | 597 |
+| 1,119 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 147 | 377 |
+| 1,119 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 349 |
+| 1,119 | [Patron](games/p/patron.md) | 4.08 | 0 | 653 |
+| 1,119 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 239 | 318 |
+| 1,119 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 653 |
+| 1,124 | [Homeworld 3](games/h/homeworld_3.md) | 4.07 | 0 | 653 |
+| 1,124 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,125 | 79 |
+| 1,124 | [Obduction](games/o/obduction.md) | 4.07 | 61 | 489 |
+| 1,124 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 653 |
 | 1,128 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.06 | 0 | 653 |
 | 1,128 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.06 | 0 | 653 |
 | 1,128 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.06 | 0 | 653 |
