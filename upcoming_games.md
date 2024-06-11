@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | - |  | - | - |
 | [Garden Paradise](games/5/54180fd9376a41a287ff0cc5bbad0a5b.md) | 2024-06-12 | - |  | - | - |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | - |  | - | - |
 | [CRUELTY](games/1/1869b4b037124467b43cd9e62c6ee09d.md) | 2024-06-13 | - |  | - | - |
@@ -59,6 +58,7 @@
 | [Flintlock: The Siege of Dawn](games/f/flintlock_-_the_siege_of_dawn.md) | 2024-07-18 | - |  | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | - | 0 |
 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | - |  | - | - |
+| [CONSCRIPT](games/c/c35e949c4c29471aa23033ad9bb97879.md) | 2024-07-23 | - |  | - | - |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | - |  | - | - |
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2024-07-25 | - |  | - | - |
 | [SMITE 2](games/1/16ed9f15b1b449ccb59cb610b13df5b8.md) | 2024-07-30 | - |  | - | - |
