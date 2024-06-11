@@ -29,7 +29,7 @@
 | 18 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.87 | 0 | 653 |
 | 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 154 | 373 |
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 49 | 522 |
-| 28 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,769 | 141 |
+| 28 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,772 | 141 |
 | 28 | [Rain World](games/r/rain_world.md) | 4.86 | 22 | 636 |
 | 28 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 60 | 493 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 178 | 358 |
@@ -453,7 +453,7 @@
 | 426 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 713 | 213 |
 | 426 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 6,642 | 71 |
 | 426 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 442 |
-| 426 | [Warframe](games/w/warframe.md) | 4.61 | 24,422 | 22 |
+| 426 | [Warframe](games/w/warframe.md) | 4.61 | 24,433 | 22 |
 | 426 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 884 | 198 |
 | 426 | [Witchfire](games/w/witchfire.md) | 4.61 | 149 | 375 |
 | 457 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 974 | 184 |
@@ -832,7 +832,7 @@
 | 820 | [Star Stable Online](games/s/star_stable_online.md) | 4.41 | 220 | 330 |
 | 820 | [The Lion's Song](games/t/the_lion's_song.md) | 4.41 | 0 | 653 |
 | 820 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 653 |
-| 820 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,223 | 123 |
+| 820 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,225 | 123 |
 | 834 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.40 | 0 | 653 |
 | 834 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 653 |
 | 834 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 653 |
@@ -922,6 +922,7 @@
 | 911 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 46 | 532 |
 | 911 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 653 |
 | 911 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 692 | 220 |
+| 923 | [Ashen](games/a/ashen.md) | 4.33 | 23 | 630 |
 | 923 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 653 |
 | 923 | [Filament](games/f/filament.md) | 4.33 | 604 | 234 |
 | 923 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.33 | 0 | 653 |
@@ -931,18 +932,17 @@
 | 923 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 653 |
 | 923 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 653 |
 | 923 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.33 | 927 | 194 |
-| 932 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.32 | 24 | 625 |
-| 932 | [Ashen](games/a/ashen.md) | 4.32 | 23 | 630 |
-| 932 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 4.32 | 0 | 653 |
-| 932 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.32 | 0 | 653 |
-| 932 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 653 |
-| 932 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.32 | 0 | 653 |
-| 932 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.32 | 351 | 277 |
-| 932 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 653 |
-| 932 | [The Sinking City](games/t/the_sinking_city.md) | 4.32 | 0 | 653 |
-| 932 | [Vampyr](games/v/vampyr.md) | 4.32 | 615 | 232 |
-| 932 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.32 | 0 | 653 |
-| 932 | [Wreckfest](games/w/wreckfest.md) | 4.32 | 0 | 653 |
+| 933 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.32 | 24 | 625 |
+| 933 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 4.32 | 0 | 653 |
+| 933 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.32 | 0 | 653 |
+| 933 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 653 |
+| 933 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.32 | 0 | 653 |
+| 933 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.32 | 351 | 277 |
+| 933 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 653 |
+| 933 | [The Sinking City](games/t/the_sinking_city.md) | 4.32 | 0 | 653 |
+| 933 | [Vampyr](games/v/vampyr.md) | 4.32 | 615 | 232 |
+| 933 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.32 | 0 | 653 |
+| 933 | [Wreckfest](games/w/wreckfest.md) | 4.32 | 0 | 653 |
 | 944 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 653 |
 | 944 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 439 | 256 |
 | 944 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 115 | 401 |
