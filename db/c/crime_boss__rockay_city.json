@@ -3,7 +3,7 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1150,
-  "Ranking_Popularity": 207,
+  "Ranking_Popularity": 206,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 374,
@@ -7639,11 +7639,17 @@
       "Rating": 3.98,
       "NumberOfAwards": 4285,
       "NumberOfAwardsMax": 765
+    },
+    {
+      "Time": "2024-06-11T21:58:17.8762758+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4286,
+      "NumberOfAwardsMax": 766
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 4285,
-  "NumberOfAwardsMax": 765,
+  "NumberOfAwards": 4286,
+  "NumberOfAwardsMax": 766,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -7656,7 +7662,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 765
+      "Count": 766
     },
     {
       "Text": "This game has Amazing Characters",
@@ -34562,9 +34568,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-06-11T09:58:33.6357673+00:00",
+  "LastChanged": "2024-06-11T21:58:17.8762757+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:53.765626+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:46.065651+00:00",
-  "LastUpdate_Ratings": "2024-06-11T19:00:11.9860442+00:00",
+  "LastUpdate_Ratings": "2024-06-11T21:58:17.8762762+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:53.7657466+00:00"
 }

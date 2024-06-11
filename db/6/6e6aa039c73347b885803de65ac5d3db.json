@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-of-tsushima",
   "Ranking_Rating": 47,
   "Ranking_Popularity": 146,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1015,10 +1015,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3449,
       "NumberOfAwardsMax": 1565
+    },
+    {
+      "Time": "2024-06-11T21:57:14.4380314+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3486,
+      "NumberOfAwardsMax": 1565
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3449,
+  "NumberOfAwards": 3486,
   "NumberOfAwardsMax": 1565,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1050,13 +1056,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 188
+      "Count": 195
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 175
+      "Count": 182
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1068,7 +1074,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 198
+      "Count": 207
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1086,7 +1092,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 162
+      "Count": 176
     },
     {
       "Text": "This game has a Creative Community",
@@ -1115,9 +1121,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-06-11T18:59:02.1402369+00:00",
+  "LastChanged": "2024-06-11T21:57:14.4380313+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:01.6038252+00:00",
   "LastUpdate_AppInfo": "2024-06-06T01:46:51.783199+00:00",
-  "LastUpdate_Ratings": "2024-06-11T18:59:02.1402376+00:00",
+  "LastUpdate_Ratings": "2024-06-11T21:57:14.4380318+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:01.6038632+00:00"
 }
