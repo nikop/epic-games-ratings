@@ -418,6 +418,7 @@
 | [Highway Police Simulator](games/7/7845c6fd0d5e47cd8ca951c3053209db.md) | 2099-01-01 | - |  | - | - |
 | [Hit and Boom](games/h/hit_and_boom.md) | 2099-01-01 | - |  | - | - |
 | [Hold On](games/h/hold_on.md) | 2099-01-01 | - |  | - | - |
+| [Homaysa](games/9/98e145c3fa464271a0ee3e6d6f6bf75f.md) | 2099-01-01 | - |  | - | - |
 | [Horizon Heat](games/c/c0ec8837e5e248259075443e531da3ab.md) | 2099-01-01 | - |  | - | - |
 | [House of Legacy](games/5/5ef78d1f002246fa924d4618da242456.md) | 2099-01-01 | - |  | - | - |
 | [HumanitZ](games/h/humanitz.md) | 2099-01-01 | - |  | - | - |
