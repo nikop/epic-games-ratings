@@ -2,7 +2,7 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 345,
+  "Ranking_Rating": 344,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 171,
@@ -7447,18 +7447,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 3336,
       "NumberOfAwardsMax": 626
+    },
+    {
+      "Time": "2024-06-11T03:57:37.1290718+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 3342,
+      "NumberOfAwardsMax": 629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3336,
-  "NumberOfAwardsMax": 626,
+  "NumberOfAwards": 3342,
+  "NumberOfAwardsMax": 629,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 435
+      "Count": 436
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7482,7 +7488,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 626
+      "Count": 629
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7494,7 +7500,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 526
+      "Count": 528
     },
     {
       "Text": "This game is Educational",
@@ -7764,9 +7770,9 @@
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
   "FirstSeenAchievements": "2024-01-11T18:08:26.6528361+00:00",
-  "LastChanged": "2024-06-10T19:57:47.3874876+00:00",
+  "LastChanged": "2024-06-11T03:57:37.1290717+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:02.4929962+00:00",
   "LastUpdate_AppInfo": "2024-06-09T08:57:22.7644967+00:00",
-  "LastUpdate_Ratings": "2024-06-11T02:29:19.165263+00:00",
+  "LastUpdate_Ratings": "2024-06-11T03:57:37.1290722+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:02.4930347+00:00"
 }

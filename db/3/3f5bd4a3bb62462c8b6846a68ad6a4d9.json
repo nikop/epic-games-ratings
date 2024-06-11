@@ -2,7 +2,7 @@
   "ID": "3f5bd4a3bb62462c8b6846a68ad6a4d9",
   "Name": "Cosmik Battle",
   "ProductSlug": "cosmik-battle-f6dbf4",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 653,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2024-04-14T07:50:45.1717658+00:00",
@@ -191,6 +191,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-11T03:59:58.8455187+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -209,8 +215,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T17:57:36.2608146+00:00",
   "FirstSeenRating": "2024-04-14T07:50:45.1717656+00:00",
-  "LastChanged": "2024-06-06T18:57:47.029377+00:00",
+  "LastChanged": "2024-06-11T03:59:58.8455185+00:00",
   "LastUpdate_AppInfo": "2024-06-04T17:57:32.7522398+00:00",
-  "LastUpdate_Ratings": "2024-06-11T02:57:49.5933791+00:00",
+  "LastUpdate_Ratings": "2024-06-11T03:59:58.8455191+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:27.5946783+00:00"
 }

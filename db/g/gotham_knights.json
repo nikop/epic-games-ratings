@@ -2,9 +2,9 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 1055,
+  "Ranking_Rating": 1054,
   "Ranking_Popularity": 105,
-  "Ranking_PopularitySum": 149,
+  "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 25,
@@ -7611,18 +7611,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 6321,
       "NumberOfAwardsMax": 3592
+    },
+    {
+      "Time": "2024-06-11T03:57:36.6198321+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 6325,
+      "NumberOfAwardsMax": 3596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6321,
-  "NumberOfAwardsMax": 3592,
+  "NumberOfAwards": 6325,
+  "NumberOfAwardsMax": 3596,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3592
+      "Count": 3596
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -34335,9 +34341,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-06-10T03:58:05.1417581+00:00",
+  "LastChanged": "2024-06-11T03:57:36.619832+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:35.8442518+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:26.81366+00:00",
-  "LastUpdate_Ratings": "2024-06-11T02:29:18.4735112+00:00",
+  "LastUpdate_Ratings": "2024-06-11T03:57:36.6198326+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:35.844396+00:00"
 }
