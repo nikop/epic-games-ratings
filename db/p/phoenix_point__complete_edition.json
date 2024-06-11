@@ -2,7 +2,7 @@
   "ID": "iris",
   "Name": "Phoenix Point: Complete Edition",
   "ProductSlug": "phoenix-point",
-  "Ranking_Rating": 547,
+  "Ranking_Rating": 546,
   "Ranking_Popularity": 135,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 987,
@@ -4447,18 +4447,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 7541,
       "NumberOfAwardsMax": 1879
+    },
+    {
+      "Time": "2024-06-11T17:59:24.253782+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7543,
+      "NumberOfAwardsMax": 1881
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7541,
-  "NumberOfAwardsMax": 1879,
+  "NumberOfAwards": 7543,
+  "NumberOfAwardsMax": 1881,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1879
+      "Count": 1881
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4526,8 +4532,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2024-06-11T01:51:52.2515834+00:00",
+  "LastChanged": "2024-06-11T17:59:24.2537818+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:53.0392912+00:00",
-  "LastUpdate_Ratings": "2024-06-11T16:57:41.0142862+00:00",
+  "LastUpdate_Ratings": "2024-06-11T17:59:24.2537825+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:24.8131671+00:00"
 }

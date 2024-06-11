@@ -2,7 +2,7 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 267,
   "Ranking_EOS_Progress": 987,
@@ -3526,10 +3526,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1510,
       "NumberOfAwardsMax": 962
+    },
+    {
+      "Time": "2024-06-11T17:58:25.7119231+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1511,
+      "NumberOfAwardsMax": 962
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1510,
+  "NumberOfAwards": 1511,
   "NumberOfAwardsMax": 962,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3543,7 +3549,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3605,8 +3611,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2024-06-11T03:58:06.2312981+00:00",
+  "LastChanged": "2024-06-11T17:58:25.711923+00:00",
   "LastUpdate_AppInfo": "2024-06-09T20:57:09.0570243+00:00",
-  "LastUpdate_Ratings": "2024-06-11T15:59:44.4810875+00:00",
+  "LastUpdate_Ratings": "2024-06-11T17:58:25.7119237+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:49.0105202+00:00"
 }
