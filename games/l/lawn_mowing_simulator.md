@@ -349,14 +349,14 @@ Completed: 19 (0.00%) (Ranked 458)
 | 2024-04-10 | 717,211 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 184  (Ranked 349)  
-Sum: 1,005 (Ranked 300)  
+Sum: 1,006 (Ranked 300)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 184 |
 | This game is Great for Beginners | 175 |
 | This game is Extremely Fun | 174 |
-| This game is Relaxing | 170 |
+| This game is Relaxing | 171 |
 | This game is Highly Recommended | 159 |
 | This game has Amazing Storytelling | 143 |
 | This game has Obsessive Gameplay | 55 |
@@ -479,3 +479,4 @@ Diff (max vs sum): 49
 | 2024-04-21 | 4.08 | - | 184 | 1,003 |
 | 2024-05-08 | 4.08 | - | 184 | 1,004 |
 | 2024-05-30 | 4.08 | - | 184 | 1,005 |
+| 2024-06-12 | 4.08 | - | 184 | 1,006 |
