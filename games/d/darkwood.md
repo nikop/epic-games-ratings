@@ -4,18 +4,18 @@
 Rating: 4.62 (Ranked 404)  
 ## Awards
 Max (Extremely Fun): 338  (Ranked 282)  
-Sum: 2,503 (Ranked 220)  
+Sum: 2,505 (Ranked 220)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 338 |
-| This game has Challenging Combat | 307 |
+| This game has Challenging Combat | 308 |
 | This game has Amazing Storytelling | 300 |
 | This game has Quickly Understood Controls | 285 |
 | This game is Highly Recommended | 283 |
 | This game has Unique Visuals | 279 |
 | This game has Diverse Characters | 270 |
-| This game has Amazing Characters | 265 |
+| This game has Amazing Characters | 266 |
 | This game has a Creative Community | 176 |
 | This game has Obsessive Gameplay | 65 |
 ## Ratings History
@@ -152,3 +152,4 @@ Diff (max vs sum): 62
 | 2024-05-31 | 4.62 | 338 | 2,501 |
 | 2024-06-02 | 4.62 | 338 | 2,502 |
 | 2024-06-03 | 4.62 | 338 | 2,503 |
+| 2024-06-12 | 4.62 | 338 | 2,505 |
