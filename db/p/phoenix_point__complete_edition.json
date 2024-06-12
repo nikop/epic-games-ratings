@@ -4,7 +4,7 @@
   "ProductSlug": "phoenix-point",
   "Ranking_Rating": 545,
   "Ranking_Popularity": 135,
-  "Ranking_PopularitySum": 136,
+  "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -4540,6 +4540,6 @@
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
   "LastChanged": "2024-06-12T02:59:11.8006929+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:53.0392912+00:00",
-  "LastUpdate_Ratings": "2024-06-12T20:01:26.5321355+00:00",
+  "LastUpdate_Ratings": "2024-06-12T21:58:57.3882111+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:24.8131671+00:00"
 }
