@@ -2,7 +2,7 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 457,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 654,
   "Ranking_PopularitySum": 654,
   "Ranking_EOS_Progress": 273,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2023-11-20T21:59:05.9866436+00:00",
@@ -345,6 +345,12 @@
     {
       "Time": "2024-06-07T08:57:21.7356161+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-12T18:58:38.5268158+00:00",
+      "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -6149,9 +6155,9 @@
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged": "2024-06-07T08:57:21.7356159+00:00",
+  "LastChanged": "2024-06-12T18:58:38.5268156+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:48.1436341+00:00",
   "LastUpdate_AppInfo": "2024-06-11T09:57:16.0380627+00:00",
-  "LastUpdate_Ratings": "2024-06-12T17:00:28.5003507+00:00",
+  "LastUpdate_Ratings": "2024-06-12T18:58:38.5268162+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:48.1437264+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 924,
+  "Ranking_Rating": 925,
   "Ranking_Popularity": 407,
-  "Ranking_PopularitySum": 334,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3265,10 +3265,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 762,
       "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2024-06-12T18:57:53.2702947+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 763,
+      "NumberOfAwardsMax": 113
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 762,
+  "NumberOfAwards": 763,
   "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3300,7 +3306,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 75
+      "Count": 76
     },
     {
       "Text": "This game is Relaxing",
@@ -31818,9 +31824,9 @@
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2024-06-11T19:58:25.7520302+00:00",
+  "LastChanged": "2024-06-12T18:57:53.2702945+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:33.2865123+00:00",
   "LastUpdate_AppInfo": "2024-06-08T02:23:23.7318514+00:00",
-  "LastUpdate_Ratings": "2024-06-12T16:59:43.5566867+00:00",
+  "LastUpdate_Ratings": "2024-06-12T18:57:53.2702951+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:33.2866692+00:00"
 }

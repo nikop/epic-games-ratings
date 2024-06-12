@@ -4,7 +4,7 @@
   "ProductSlug": "panzer-corps-2",
   "Ranking_Rating": 654,
   "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 482,
+  "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -835,10 +835,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 196,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-06-12T18:58:51.845434+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196,
+  "NumberOfAwards": 197,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -858,7 +864,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Extremely Fun",
@@ -902,8 +908,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2024-06-11T19:59:24.1115832+00:00",
+  "LastChanged": "2024-06-12T18:58:51.8454335+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:09.0962452+00:00",
-  "LastUpdate_Ratings": "2024-06-12T17:57:33.1337965+00:00",
+  "LastUpdate_Ratings": "2024-06-12T18:58:51.8454344+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:44.4933401+00:00"
 }
