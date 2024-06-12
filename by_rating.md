@@ -134,7 +134,7 @@
 | 126 | [Journey](games/j/journey.md) | 4.77 | 0 | 654 |
 | 126 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 654 |
 | 126 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 654 |
-| 126 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.77 | 6,543 | 73 |
+| 126 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.77 | 6,545 | 73 |
 | 126 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.77 | 0 | 654 |
 | 126 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 919 | 195 |
 | 126 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.77 | 0 | 654 |
@@ -265,7 +265,7 @@
 | 257 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 654 |
 | 257 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,300 | 153 |
 | 257 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,103 | 127 |
-| 257 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 699 | 218 |
+| 257 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 700 | 218 |
 | 257 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 336 | 283 |
 | 257 | [RIDE 5](games/r/ride_5.md) | 4.69 | 0 | 654 |
 | 257 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,308 | 43 |
@@ -308,7 +308,7 @@
 | 300 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 343,406 | 4 |
 | 300 | [Madcar for PC](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.67 | 0 | 654 |
 | 300 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 654 |
-| 300 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,393 | 120 |
+| 300 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,395 | 120 |
 | 300 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 770 | 205 |
 | 300 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.67 | 40 | 545 |
 | 300 | [Revita](games/r/revita.md) | 4.67 | 0 | 654 |
@@ -671,7 +671,7 @@
 | 654 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 37 | 555 |
 | 654 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.50 | 0 | 654 |
 | 654 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.50 | 48 | 525 |
-| 654 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,220 | 39 |
+| 654 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,233 | 39 |
 | 654 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 654 |
 | 654 | [The Medium](games/t/the_medium.md) | 4.50 | 0 | 654 |
 | 654 | [VALORANT](games/v/valorant.md) | 4.50 | 121,760 | 10 |
@@ -1051,7 +1051,7 @@
 | 1,049 | [Against All Odds](games/a/against_all_odds.md) | 4.20 | 0 | 654 |
 | 1,049 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 134 | 386 |
 | 1,049 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 571 |
-| 1,049 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,543 | 73 |
+| 1,049 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,543 | 74 |
 | 1,049 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.20 | 0 | 654 |
 | 1,049 | [RiMS Racing](games/r/rims_racing.md) | 4.20 | 0 | 654 |
 | 1,055 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 520 |
