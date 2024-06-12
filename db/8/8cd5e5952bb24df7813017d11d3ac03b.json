@@ -1,19 +1,21 @@
 {
   "ID": "8cd5e5952bb24df7813017d11d3ac03b",
-  "Name": null,
+  "Name": "Atomfall",
   "ProductSlug": "atomfall",
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
-    "ReleaseDate": null,
+    "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "com.epicgames.app.blacklist": "[]"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -29,5 +31,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-12T13:02:54.6644901+00:00",
-  "LastUpdate_Ratings": "2024-06-12T13:03:04.5062626+00:00"
+  "LastUpdate_Ratings": "2024-06-12T13:58:56.2223689+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Alan Wake 2",
   "ProductSlug": "alan-wake-2",
   "Ranking_Rating": 85,
-  "Ranking_Popularity": 165,
+  "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 151,
@@ -6097,11 +6097,17 @@
       "Rating": 4.81,
       "NumberOfAwards": 6857,
       "NumberOfAwardsMax": 1145
+    },
+    {
+      "Time": "2024-06-12T13:58:04.399485+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 6876,
+      "NumberOfAwardsMax": 1153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6857,
-  "NumberOfAwardsMax": 1145,
+  "NumberOfAwards": 6876,
+  "NumberOfAwardsMax": 1153,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6114,7 +6120,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1145
+      "Count": 1153
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6132,7 +6138,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 978
+      "Count": 989
     },
     {
       "Text": "This game has a Creative Community",
@@ -18511,9 +18517,9 @@
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
-  "LastChanged": "2024-06-12T10:58:03.7402587+00:00",
+  "LastChanged": "2024-06-12T13:58:04.3994848+00:00",
   "LastChanged_Achievements": "2024-04-10T06:07:03.805012+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:54.5792661+00:00",
-  "LastUpdate_Ratings": "2024-06-12T12:00:26.5026613+00:00",
+  "LastUpdate_Ratings": "2024-06-12T13:58:04.3994853+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:03.8051018+00:00"
 }
