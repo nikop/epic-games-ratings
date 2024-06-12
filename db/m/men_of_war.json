@@ -3,8 +3,8 @@
   "Name": "Men of War",
   "ProductSlug": "men-of-war-74bf75",
   "Ranking_Rating": 985,
-  "Ranking_Popularity": 654,
-  "Ranking_PopularitySum": 654,
+  "Ranking_Popularity": 655,
+  "Ranking_PopularitySum": 655,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -145,6 +145,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8479653+00:00",
   "LastChanged": "2024-05-18T22:58:34.2991413+00:00",
   "LastUpdate_AppInfo": "2024-06-09T08:57:19.4117154+00:00",
-  "LastUpdate_Ratings": "2024-06-12T20:58:55.0022046+00:00",
+  "LastUpdate_Ratings": "2024-06-12T22:57:11.7545736+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:58.997746+00:00"
 }
