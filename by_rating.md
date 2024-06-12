@@ -3,7 +3,7 @@
 | 1 | [Tinykin](games/t/tinykin.md) | 4.95 | 0 | 654 |
 | 2 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.94 | 0 | 654 |
 | 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 654 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,939 | 100 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,944 | 100 |
 | 5 | [Celeste](games/c/celeste.md) | 4.91 | 2,028 | 131 |
 | 5 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 654 |
 | 7 | [Hades II](games/h/hades_ii.md) | 4.90 | 91 | 444 |
@@ -128,7 +128,7 @@
 | 126 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 27 | 608 |
 | 126 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.77 | 0 | 654 |
 | 126 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 13,102 | 40 |
-| 126 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,055 | 177 |
+| 126 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,057 | 177 |
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.77 | 1,394 | 149 |
 | 126 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,776 | 42 |
 | 126 | [Journey](games/j/journey.md) | 4.77 | 0 | 654 |
@@ -453,7 +453,7 @@
 | 427 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 715 | 213 |
 | 427 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 6,679 | 71 |
 | 427 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 442 |
-| 427 | [Warframe](games/w/warframe.md) | 4.61 | 24,433 | 22 |
+| 427 | [Warframe](games/w/warframe.md) | 4.61 | 24,453 | 22 |
 | 427 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 886 | 198 |
 | 427 | [Witchfire](games/w/witchfire.md) | 4.61 | 149 | 375 |
 | 457 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 975 | 184 |
@@ -996,23 +996,23 @@
 | 993 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.26 | 0 | 654 |
 | 993 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,341 | 23 |
 | 993 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 654 |
-| 993 | [Mortal Shell](games/m/mortal_shell.md) | 4.26 | 26 | 616 |
 | 993 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,187 | 110 |
 | 993 | [Startup Panic](games/s/startup_panic.md) | 4.26 | 0 | 654 |
 | 993 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 0 | 654 |
 | 993 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.26 | 54 | 511 |
 | 993 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 293 |
-| 1,003 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 654 |
-| 1,003 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.25 | 110 | 410 |
-| 1,003 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 654 |
-| 1,003 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 663 | 222 |
-| 1,003 | [Predecessor](games/p/predecessor.md) | 4.25 | 660 | 224 |
-| 1,003 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 40 | 545 |
-| 1,003 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 654 |
-| 1,003 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 38 | 552 |
-| 1,003 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 654 |
-| 1,003 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 654 |
-| 1,003 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 616 |
+| 1,002 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 654 |
+| 1,002 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.25 | 110 | 410 |
+| 1,002 | [Hellpoint](games/h/hellpoint.md) | 4.25 | 0 | 654 |
+| 1,002 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 663 | 222 |
+| 1,002 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 26 | 616 |
+| 1,002 | [Predecessor](games/p/predecessor.md) | 4.25 | 660 | 224 |
+| 1,002 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 40 | 545 |
+| 1,002 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 654 |
+| 1,002 | [Rise of Industry](games/r/rise_of_industry.md) | 4.25 | 38 | 552 |
+| 1,002 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 654 |
+| 1,002 | [Twin Mirror](games/t/twin_mirror.md) | 4.25 | 0 | 654 |
+| 1,002 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 616 |
 | 1,014 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 654 |
 | 1,014 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 571 |
 | 1,014 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.24 | 0 | 654 |
