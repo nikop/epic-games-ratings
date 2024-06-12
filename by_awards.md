@@ -55,7 +55,7 @@
 | 53 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,809 | 4.68 | 281 |
 | 54 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 9,767 | 4.55 | 566 |
 | 54 | [Remnant II®](games/r/remnant_2.md) | 9,767 | 4.70 | 232 |
-| 56 | [Control](games/c/control.md) | 9,573 | 4.61 | 427 |
+| 56 | [Control](games/c/control.md) | 9,578 | 4.61 | 427 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,478 | 4.74 | 170 |
 | 58 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 8,897 | 4.49 | 678 |
 | 59 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 8,856 | 4.62 | 404 |

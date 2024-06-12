@@ -431,7 +431,7 @@
 | 427 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 149 | 375 |
 | 427 | [Art of Rally](games/a/art_of_rally_1.md) | 4.61 | 96 | 436 |
 | 427 | [BLACKTAIL](games/b/blacktail.md) | 4.61 | 0 | 654 |
-| 427 | [Control](games/c/control.md) | 4.61 | 9,573 | 56 |
+| 427 | [Control](games/c/control.md) | 4.61 | 9,578 | 56 |
 | 427 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 247 | 313 |
 | 427 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 654 |
 | 427 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 62,734 | 13 |
