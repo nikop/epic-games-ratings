@@ -1,6 +1,6 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 3,609,491 | 4.29 | 959 |
+| 1 | [Fortnite](games/f/fortnite.md) | 3,611,753 | 4.29 | 959 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 851,062 | 4.44 | 757 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 385,827 | 4.68 | 281 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 343,406 | 4.67 | 300 |
@@ -17,7 +17,7 @@
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 51,838 | 4.72 | 201 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 47,445 | 4.50 | 653 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 39,325 | 4.74 | 170 |
-| 18 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 34,287 | 4.14 | 1,091 |
+| 18 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 34,443 | 4.14 | 1,091 |
 | 19 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,284 | 4.64 | 367 |
 | 20 | [Dauntless](games/d/dauntless.md) | 29,685 | 4.53 | 602 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 28,269 | 4.89 | 11 |
@@ -33,7 +33,7 @@
 | 31 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,595 | 4.44 | 757 |
 | 32 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 15,395 | 4.49 | 678 |
 | 33 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,366 | 4.84 | 47 |
-| 34 | [Dead Island 2](games/d/dead_island_2.md) | 15,326 | 4.54 | 586 |
+| 34 | [Dead Island 2](games/d/dead_island_2.md) | 15,345 | 4.54 | 586 |
 | 35 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,926 | 4.58 | 498 |
 | 36 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 14,861 | 4.46 | 724 |
 | 37 | [Maneater](games/m/maneater.md) | 14,234 | 4.49 | 678 |
@@ -43,13 +43,13 @@
 | 41 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,934 | 4.36 | 886 |
 | 42 | [HITMAN World of Assassination](games/h/hitman_3.md) | 12,776 | 4.77 | 126 |
 | 43 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,308 | 4.69 | 257 |
-| 44 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 12,290 | 4.58 | 498 |
+| 44 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 12,303 | 4.58 | 498 |
 | 45 | [NBA 2K21](games/n/nba_2k21.md) | 11,883 | 4.38 | 861 |
 | 46 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,491 | 4.61 | 427 |
 | 47 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 11,336 | 4.63 | 387 |
 | 48 | [DEATH STRANDING](games/d/death_stranding.md) | 11,081 | 4.78 | 119 |
 | 49 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 10,977 | 4.01 | 1,143 |
-| 50 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,463 | 4.89 | 11 |
+| 50 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,470 | 4.89 | 11 |
 | 51 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 10,024 | 4.51 | 635 |
 | 52 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,817 | 4.68 | 281 |
 | 53 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 9,809 | 4.68 | 281 |
@@ -91,7 +91,7 @@
 | 89 | [Trackmania Starter Access](games/t/trackmania.md) | 5,026 | 4.64 | 367 |
 | 90 | [MultiVersus](games/m/multiversus.md) | 4,946 | 4.56 | 545 |
 | 91 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,884 | 4.68 | 281 |
-| 92 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,745 | 4.46 | 724 |
+| 92 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,754 | 4.46 | 724 |
 | 93 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,726 | 4.70 | 232 |
 | 94 | [Days Gone](games/d/days_gone.md) | 4,663 | 4.68 | 281 |
 | 95 | [Paladins](games/p/paladins.md) | 4,518 | 4.31 | 943 |
@@ -210,8 +210,8 @@
 | 208 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 753 | 4.63 | 387 |
 | 209 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 748 | 4.58 | 498 |
 | 210 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 723 | 4.87 | 18 |
-| 211 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 718 | 4.83 | 61 |
-| 211 | [Star Trek Online](games/s/star_trek_online.md) | 718 | 4.45 | 744 |
+| 211 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 721 | 4.83 | 61 |
+| 212 | [Star Trek Online](games/s/star_trek_online.md) | 718 | 4.45 | 744 |
 | 213 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 715 | 4.61 | 427 |
 | 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 713 | 4.71 | 213 |
 | 215 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 712 | 4.50 | 653 |
@@ -364,8 +364,8 @@
 | 361 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 174 | 4.77 | 126 |
 | 363 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 971 |
 | 364 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 170 | 4.86 | 28 |
-| 365 | [First Class Trouble](games/f/first_class_trouble.md) | 166 | 4.47 | 709 |
-| 365 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 166 | 4.30 | 953 |
+| 365 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 168 | 4.30 | 953 |
+| 366 | [First Class Trouble](games/f/first_class_trouble.md) | 166 | 4.47 | 709 |
 | 367 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 164 | 4.51 | 635 |
 | 368 | [Going Medieval](games/g/going_medieval.md) | 163 | 4.61 | 427 |
 | 369 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 162 | 4.47 | 709 |
