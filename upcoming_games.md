@@ -4,9 +4,11 @@
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | - |  | - | - |
 | [CRUELTY](games/1/1869b4b037124467b43cd9e62c6ee09d.md) | 2024-06-13 | - |  | - | - |
 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 2024-06-13 | - |  | - | - |
+| [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | - |  | - | - |
 | [JudgeSim](games/7/7ec64dbd5e634886915c1e9cf35f4d78.md) | 2024-06-14 | - |  | - | - |
 | [survival advanced](games/e/e99fea59671c4c30b4cb63bc0b815c5a.md) | 2024-06-14 | - |  | - | - |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | - |  | - | - |
+| [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 1 | - | - |
 | [Virtual Girlfriend Lia](games/e/e140fc5e5afc4462ad05681a1acb5619.md) | 2024-06-15 | - |  | - | - |
 | [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-16 | - |  | - | - |
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | - |  | - | - |
@@ -111,7 +113,7 @@
 | [Project Tower](games/a/a9d8b50783fa4e3aa449991c563c9217.md) | 2024-09-30 | - |  | - | - |
 | [RETOOLED](games/3/3bb0cfb02595417f9134a5f31bc46333.md) | 2024-09-30 | - |  | - | - |
 | [Sofie: The Echoes](games/7/77593ca0e0f3495f95ab77a6ea960a65.md) | 2024-09-30 | - |  | - | - |
-| [space-battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-09-30 | - |  | - | - |
+| [Space Battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-09-30 | - |  | - | - |
 | [Spider Fox](games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 2024-09-30 | - |  | - | - |
 | [Spiral](games/4/4ac2b56f3cbb4de58183d6f20ee834a1.md) | 2024-09-30 | - |  | - | - |
 | [Stormedge](games/0/014e225d587d41ea80c0adb3f33041d0.md) | 2024-09-30 | - |  | - | - |
@@ -484,7 +486,6 @@
 | [MetaDOS](games/c/c93d58631e5841a89a75dd2dce81add9.md) | 2099-01-01 | - |  | - | - |
 | [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | - |  | - | - |
 | [Mimic](games/2/2483b3cc6cc0474eadf938933d0b5929.md) | 2099-01-01 | - |  | - | - |
-| [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2099-01-01 | 42 (1,000 XP) | 1 | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Moon Village Simulator](games/m/moon_village_simulator.md) | 2099-01-01 | - |  | - | - |
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2099-01-01 | - |  | - | - |
@@ -693,6 +694,7 @@
 | [Worlds Of The Future](games/w/worlds_of_the_future.md) | 2099-01-02 | - |  | - | - |
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [Anno 117: Pax Romana](games/5/525cf92ef772437e98805aeb6e234b2a.md) | 2099-02-01 | - |  | - | - |
+| [Atomfall](games/8/8cd5e5952bb24df7813017d11d3ac03b.md) | 2099-02-01 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2099-02-01 | - |  | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
