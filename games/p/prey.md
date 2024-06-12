@@ -1,15 +1,15 @@
 # Prey
 [Store](https://store.epicgames.com/en-US/p/prey)  
 [View Rawdata](../../db/p/prey.json)  
-Rating: 4.63 (Ranked 386)  
+Rating: 4.63 (Ranked 387)  
 Number of Ratings: 13,217  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 6,064  (Ranked 81)  
-Sum: 8,265 (Ranked 131)  
+Max (Great Boss Battles): 6,065  (Ranked 81)  
+Sum: 8,266 (Ranked 131)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,064 |
+| This game has Great Boss Battles | 6,065 |
 | This game is Highly Recommended | 358 |
 | This game has Amazing Storytelling | 346 |
 | This game has Diverse Characters | 340 |
@@ -429,4 +429,4 @@ Diff (max vs sum): -50
 | 2024-06-06 | 4.63 | - | 6,061 | 8,261 |
 | 2024-06-07 | 4.63 | - | 6,063 | 8,263 |
 | 2024-06-09 | 4.63 | - | 6,064 | 8,264 |
-| 2024-06-12 | 4.63 | - | 6,064 | 8,265 |
+| 2024-06-12 | 4.63 | - | 6,065 | 8,266 |
