@@ -3,9 +3,9 @@
 [View Rawdata](../../db/b/brawlhalla.json)  
 Rating: 4.59 (Ranked 473)  
 ## Awards
-Max (Great for Quick Sessions): 1,144  (Ranked 166)  
+Max (Great for Quick Sessions): 1,144  (Ranked 167)  
 Sum: 9,103 (Ranked 122)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 1,144 |
