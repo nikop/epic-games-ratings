@@ -2,7 +2,7 @@
   "ID": "6110c92696a54f108c8e9002713ea5f9",
   "Name": "Borderlands: The Pre-Sequel",
   "ProductSlug": "borderlands-the-pre-sequel",
-  "Ranking_Rating": 653,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CU,IR,SY,VE"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "NumberOfRatings": 2939,
   "RatingHistory": [
     {
@@ -5697,6 +5697,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 3471,
       "NumberOfAwardsMax": 515
+    },
+    {
+      "Time": "2024-06-12T11:57:27.7016351+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 3471,
+      "NumberOfAwardsMax": 515
     }
   ],
   "ReviewsDisabled": false,
@@ -5776,8 +5782,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2024-06-09T20:57:26.6975687+00:00",
+  "LastChanged": "2024-06-12T11:57:27.7016349+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:17.6557955+00:00",
-  "LastUpdate_Ratings": "2024-06-12T09:58:29.122045+00:00",
+  "LastUpdate_Ratings": "2024-06-12T11:57:27.7016379+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:58.1572786+00:00"
 }
