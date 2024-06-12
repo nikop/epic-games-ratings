@@ -4,11 +4,12 @@
 Rating: 4.57 (Ranked 525)  
 ## Awards
 Max (Great for Beginners): 31  (Ranked 585)  
-Sum: 31 (Ranked 616)  
-Diff (max vs sum): -31  
+Sum: 51 (Ranked 585)  
+Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -106,3 +107,4 @@ Diff (max vs sum): -31
 | 2024-05-07 | 4.57 | 29 | 29 |
 | 2024-05-11 | 4.57 | 30 | 30 |
 | 2024-05-18 | 4.57 | 31 | 31 |
+| 2024-06-12 | 4.57 | 31 | 51 |
