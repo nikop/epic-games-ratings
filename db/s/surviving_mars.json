@@ -2,7 +2,7 @@
   "ID": "d759128018124dcabb1fbee9bb28e178",
   "Name": "Surviving Mars",
   "ProductSlug": "surviving-mars",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 987,
@@ -6039,10 +6039,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3844,
       "NumberOfAwardsMax": 622
+    },
+    {
+      "Time": "2024-06-12T10:57:57.3773048+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3845,
+      "NumberOfAwardsMax": 622
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3844,
+  "NumberOfAwards": 3845,
   "NumberOfAwardsMax": 622,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6098,7 +6104,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 268
+      "Count": 269
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6118,8 +6124,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2024-06-12T01:52:27.1001043+00:00",
+  "LastChanged": "2024-06-12T10:57:57.3773046+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:51.6914047+00:00",
-  "LastUpdate_Ratings": "2024-06-12T08:59:25.9622799+00:00",
+  "LastUpdate_Ratings": "2024-06-12T10:57:57.3773051+00:00",
   "LastUpdate_Achievements": "2024-05-13T20:05:28.3508327+00:00"
 }

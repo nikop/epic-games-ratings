@@ -2,9 +2,9 @@
   "ID": "91b15e9ef6c94b1694d87639beb8cbad",
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
-  "Ranking_Rating": 1110,
-  "Ranking_Popularity": 616,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Rating": 1109,
+  "Ranking_Popularity": 601,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.1,
+  "Rating": 4.11,
   "RatingHistory": [
     {
       "Time": "2024-06-08T20:00:01.7971586+00:00",
@@ -132,12 +132,18 @@
       "Rating": 4.1,
       "NumberOfAwards": 47,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-06-12T10:58:25.6301231+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 75,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47,
-  "NumberOfAwardsMax": 26,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 75,
+  "NumberOfAwardsMax": 28,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -150,6 +156,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 26
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -164,8 +176,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-06-12T05:58:55.1813932+00:00",
+  "LastChanged": "2024-06-12T10:58:25.6301228+00:00",
   "LastUpdate_AppInfo": "2024-06-09T11:57:11.0497212+00:00",
-  "LastUpdate_Ratings": "2024-06-12T09:00:05.9640575+00:00",
+  "LastUpdate_Ratings": "2024-06-12T10:58:25.6301234+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:58.3203397+00:00"
 }
