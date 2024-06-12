@@ -319,7 +319,7 @@ Completed: 533 (0.30%) (Ranked 299)
 | 2024-04-10 | 176,159 | 533 |
 ## Awards
 Max (Challenging Combat): 89  (Ranked 446)  
-Sum: 624 (Ranked 360)  
+Sum: 625 (Ranked 360)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
@@ -328,8 +328,8 @@ Diff (max vs sum): 86
 | This game has Quickly Understood Controls | 81 |
 | This game has Amazing Characters | 80 |
 | This game is Extremely Fun | 79 |
+| This game has Unique Visuals | 79 |
 | This game has Amazing Storytelling | 79 |
-| This game has Unique Visuals | 78 |
 | This game has a Creative Community | 57 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -611,4 +611,4 @@ Diff (max vs sum): 86
 | 2024-06-08 | 4.60 | - | 89 | 621 |
 | 2024-06-10 | 4.60 | - | 89 | 622 |
 | 2024-06-11 | 4.60 | - | 89 | 623 |
-| 2024-06-12 | 4.60 | - | 89 | 624 |
+| 2024-06-12 | 4.60 | - | 89 | 625 |
