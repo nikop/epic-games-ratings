@@ -4,7 +4,7 @@
   "ProductSlug": "barony",
   "Ranking_Rating": 170,
   "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 307,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2754,10 +2754,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 930,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2024-06-12T20:57:21.6861724+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 854,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 930,
+  "NumberOfAwards": 854,
   "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2833,8 +2839,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2024-06-12T18:58:31.0905976+00:00",
+  "LastChanged": "2024-06-12T20:57:21.6861722+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:57.716415+00:00",
-  "LastUpdate_Ratings": "2024-06-12T18:58:31.0905997+00:00",
+  "LastUpdate_Ratings": "2024-06-12T20:57:21.6861728+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:52.4472359+00:00"
 }

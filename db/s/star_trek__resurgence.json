@@ -3,8 +3,8 @@
   "Name": "Star Trek: Resurgence",
   "ProductSlug": "star-trek-resurgence",
   "Ranking_Rating": 897,
-  "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 615,
+  "Ranking_Popularity": 571,
+  "Ranking_PopularitySum": 610,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -565,18 +565,24 @@
       "Rating": 4.35,
       "NumberOfAwards": 33,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-06-12T20:58:47.5274347+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 34,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 33
+      "Count": 34
     }
   ],
   "EOS_Progressed": 0,
@@ -591,8 +597,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-23T18:58:32.467143+00:00",
   "FirstSeenRating": "2023-05-27T09:58:07.9853002+00:00",
-  "LastChanged": "2024-06-07T19:58:55.8225267+00:00",
+  "LastChanged": "2024-06-12T20:58:47.5274345+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:16.3854594+00:00",
-  "LastUpdate_Ratings": "2024-06-12T18:59:48.8782483+00:00",
+  "LastUpdate_Ratings": "2024-06-12T20:58:47.5274351+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:28.6951737+00:00"
 }
