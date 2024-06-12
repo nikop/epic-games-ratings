@@ -2,7 +2,7 @@
   "ID": "magnolia",
   "Name": "The Witness",
   "ProductSlug": "the-witness",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 256,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 987,
@@ -699,6 +699,6 @@
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
   "LastChanged": "2024-06-08T18:58:24.507791+00:00",
   "LastUpdate_AppInfo": "2024-06-09T20:57:04.3574337+00:00",
-  "LastUpdate_Ratings": "2024-06-12T13:58:08.7865455+00:00",
+  "LastUpdate_Ratings": "2024-06-12T15:01:23.8055324+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:52.8642031+00:00"
 }
