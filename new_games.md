@@ -14,7 +14,7 @@
 | [East Defense](games/d/d1fed5d227fa47eb86bb5b67d86278cf.md) | 2024-06-10 | - |  | - | - |
 | [Below Level](games/3/35df9b6ab690473aa9a3d68c68f8c0fa.md) | 2024-06-09 | - |  | - | - |
 | [One Night With Kawaii](games/4/42671f8f7f0d4810b1e4674f881824b5.md) | 2024-06-08 | - |  | - | 0 |
-| [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 2024-06-07 | - |  | 4.12 | 45 |
+| [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 2024-06-07 | - |  | 4.13 | 45 |
 | [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | - |  | - | 0 |
 | [A Game´s Tale](games/1/1001579a7cb24f058683043aca87f987.md) | 2024-06-07 | - |  | - | - |
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | - |  | - | - |
@@ -42,7 +42,7 @@
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 0 | - | 0 |
 | [1001 Jigsaw: Earth Chronicles 2](games/8/818219d294284979a166202ce578439e.md) | 2024-06-03 | - |  | - | - |
 | [League of Angels: Pact](games/0/075ee5cb11b74aba8ea786c0476fad8f.md) | 2024-06-03 | - |  | - | 0 |
-| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | 4.47 | 0 |
+| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | - |  | 4.53 | 0 |
 | [The Black Within](games/1/151b4a63a63e445a9003113227ecd810.md) | 2024-05-31 | - |  | - | 0 |
 | [Cyberpunk SFX](games/7/7a0721af1f89440ba190a2c1eb2a1378.md) | 2024-05-31 | - |  | - | - |
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | - |  | - | 0 |
@@ -113,5 +113,3 @@
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | - |  | - | 0 |
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | - |  | - | 0 |
 | [FuseWars](games/b/bcaf5657e1b440098c0672be0406b274.md) | 2024-05-15 | - |  | - | 0 |
-| [Athenian Rhapsody](games/e/e07a23238eb744e48941547e0aa89228.md) | 2024-05-14 | - |  | - | 0 |
-| [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | - |  | - | 0 |
