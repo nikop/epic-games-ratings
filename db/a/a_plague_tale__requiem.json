@@ -2,7 +2,7 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 188,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 173,
@@ -1281,10 +1281,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 827,
       "NumberOfAwardsMax": 530
+    },
+    {
+      "Time": "2024-06-13T01:50:05.294638+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 828,
+      "NumberOfAwardsMax": 530
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 827,
+  "NumberOfAwards": 828,
   "NumberOfAwardsMax": 530,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1322,7 +1328,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18036,9 +18042,9 @@
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2024-06-12T21:59:13.1531939+00:00",
+  "LastChanged": "2024-06-13T01:50:05.2946378+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:22.7586311+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:58.8674799+00:00",
-  "LastUpdate_Ratings": "2024-06-12T23:58:07.175399+00:00",
+  "LastUpdate_Ratings": "2024-06-13T01:50:05.2946382+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:22.7587325+00:00"
 }

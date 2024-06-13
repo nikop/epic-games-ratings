@@ -3,8 +3,8 @@
 [View Rawdata](../../db/t/the_front.json)  
 Rating: 4.09 (Ranked 1,116)  
 ## Awards
-Max (Highly Recommended): 29  (Ranked 597)  
-Sum: 100 (Ranked 532)  
+Max (Highly Recommended): 29  (Ranked 598)  
+Sum: 100 (Ranked 533)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
