@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
 Rating: 4.47 (Ranked 706)  
 ## Awards
-Max (Character Customization): 163  (Ranked 368)  
+Max (Character Customization): 163  (Ranked 369)  
 Sum: 410 (Ranked 399)  
-Diff (max vs sum): -31  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 163 |

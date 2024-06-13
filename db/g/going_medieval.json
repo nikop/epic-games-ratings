@@ -3,7 +3,7 @@
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 428,
-  "Ranking_Popularity": 368,
+  "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 289,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 331,
@@ -2157,11 +2157,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 1167,
       "NumberOfAwardsMax": 163
+    },
+    {
+      "Time": "2024-06-13T09:57:49.2310437+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1168,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1167,
-  "NumberOfAwardsMax": 163,
+  "NumberOfAwards": 1168,
+  "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2198,7 +2204,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 163
+      "Count": 164
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -18216,9 +18222,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2024-06-10T15:59:15.8410831+00:00",
+  "LastChanged": "2024-06-13T09:57:49.2310435+00:00",
   "LastChanged_Achievements": "2024-04-10T06:03:52.0834226+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:44.0056264+00:00",
-  "LastUpdate_Ratings": "2024-06-13T07:59:11.4201929+00:00",
+  "LastUpdate_Ratings": "2024-06-13T09:57:49.2310442+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:52.0835109+00:00"
 }
