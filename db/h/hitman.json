@@ -3,7 +3,7 @@
   "Name": "HITMAN",
   "ProductSlug": "hitman/standard-edition",
   "Ranking_Rating": 387,
-  "Ranking_Popularity": 324,
+  "Ranking_Popularity": 323,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -3160,11 +3160,17 @@
       "Rating": 4.63,
       "NumberOfAwards": 1699,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-06-12T23:58:46.9918248+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1701,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1699,
-  "NumberOfAwardsMax": 231,
+  "NumberOfAwards": 1701,
+  "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3183,7 +3189,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 231
+      "Count": 233
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3239,8 +3245,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2024-06-11T16:58:39.2766835+00:00",
+  "LastChanged": "2024-06-12T23:58:46.9918247+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:57:59.1835783+00:00",
-  "LastUpdate_Ratings": "2024-06-12T21:59:49.0619091+00:00",
+  "LastUpdate_Ratings": "2024-06-12T23:58:46.991825+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:36.5221788+00:00"
 }
