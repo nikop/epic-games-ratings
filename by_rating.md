@@ -464,7 +464,7 @@
 | 459 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.60 | 431 | 259 |
 | 459 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 95 | 441 |
 | 459 | [DOOM 3](games/d/doom_3.md) | 4.60 | 73 | 475 |
-| 459 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,229 | 29 |
+| 459 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,247 | 29 |
 | 459 | [GRIME](games/g/grime.md) | 4.60 | 89 | 446 |
 | 459 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.60 | 0 | 655 |
 | 459 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 0 | 655 |
