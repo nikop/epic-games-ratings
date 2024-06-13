@@ -5,7 +5,7 @@ Rating: 4.86 (Ranked 28)
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 178  (Ranked 358)  
-Sum: 637 (Ranked 356)  
+Sum: 638 (Ranked 356)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 52 |
 | This game is Highly Recommended | 51 |
 | This game is Relaxing | 44 |
-| This game has Competitive Players | 41 |
+| This game has Competitive Players | 42 |
 | This game has Challenging Combat | 33 |
 | This game has Amazing Storytelling | 32 |
 | This game has Amazing Characters | 32 |
@@ -209,3 +209,4 @@ Diff (max vs sum): 2
 | 2024-06-08 | 4.86 | - | 178 | 635 |
 | 2024-06-10 | 4.86 | - | 178 | 636 |
 | 2024-06-12 | 4.86 | - | 178 | 637 |
+| 2024-06-13 | 4.86 | - | 178 | 638 |

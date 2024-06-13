@@ -1,17 +1,17 @@
 # Metro Exodus Standard Edition
 [Store](https://store.epicgames.com/en-US/p/metro-exodus)  
 [View Rawdata](../../db/m/metro_exodus_standard_edition.json)  
-Rating: 4.77 (Ranked 126)  
+Rating: 4.77 (Ranked 127)  
 Number of Ratings: 7,529  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 6,545  (Ranked 74)  
-Sum: 12,216 (Ranked 98)  
+Max (Great Boss Battles): 6,549  (Ranked 74)  
+Sum: 12,221 (Ranked 98)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,545 |
+| This game has Great Boss Battles | 6,549 |
 | This game is Great for Beginners | 755 |
-| This game has Diverse Characters | 708 |
+| This game has Diverse Characters | 709 |
 | This game is Highly Recommended | 684 |
 | This game has Amazing Storytelling | 684 |
 | This game has Amazing Characters | 648 |
@@ -482,4 +482,4 @@ Diff (max vs sum): -24
 | 2024-06-10 | 4.77 | - | 6,537 | 12,196 |
 | 2024-06-11 | 4.77 | - | 6,543 | 12,205 |
 | 2024-06-12 | 4.77 | - | 6,545 | 12,212 |
-| 2024-06-13 | 4.77 | - | 6,545 | 12,216 |
+| 2024-06-13 | 4.77 | - | 6,549 | 12,221 |

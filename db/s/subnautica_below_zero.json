@@ -2,7 +2,7 @@
   "ID": "foxglove",
   "Name": "Subnautica Below Zero",
   "ProductSlug": "subnautica-below-zero",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 127,
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 987,
@@ -2533,10 +2533,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1328,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-06-13T20:58:27.2642012+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1329,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1328,
+  "NumberOfAwards": 1329,
   "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2544,7 +2550,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 155
+      "Count": 156
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2612,8 +2618,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2024-06-11T16:59:46.8493964+00:00",
+  "LastChanged": "2024-06-13T20:58:27.264201+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:37.3274134+00:00",
-  "LastUpdate_Ratings": "2024-06-13T19:01:25.2970362+00:00",
+  "LastUpdate_Ratings": "2024-06-13T20:58:27.2642018+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:09.2438355+00:00"
 }
