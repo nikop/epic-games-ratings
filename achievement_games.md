@@ -75,7 +75,7 @@
 | [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 17 | - | 0 |
 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 47 | 4.19 | 0 |
 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 41 | 4.64 | 0 |
-| [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 29 | 4.49 | 0 |
+| [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 29 | 4.50 | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | 41 (1,000 XP) | 58 | - | 0 |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 604 | 4.27 | 240 |
@@ -184,7 +184,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 40 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 43 | - | 0 |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 70 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 40,364 | 4.31 | 83 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 40,364 | 4.32 | 83 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 70 | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 41 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 173 | - | - |
@@ -256,7 +256,7 @@
 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 84,701 | 4.14 | 0 |
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2023-11-15 | 30 (1,000 XP) | 0 | 4.39 | 0 |
 | [Cave Digger 2](games/9/959857360f1a4558b390204178101bc3.md) | 2023-11-14 | 24 (1,000 XP) | 12 | - | 0 |
-| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 29,531 | 4.45 | 105 |
+| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 29,531 | 4.44 | 108 |
 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2023-11-14 | 35 (1,000 XP) | 2 | - | 0 |
 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 82,562 | 4.35 | 35 |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-11-14 | 30 (1,000 XP) | 129 | - | 0 |
@@ -281,7 +281,7 @@
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 2023-11-03 | 26 (1,000 XP) | 1,903 | 4.28 | 24 |
 | [Tad the Lost Explorer](games/t/tad_the_lost_explorer.md) | 2023-11-02 | 27 (1,000 XP) | 1 | - | 0 |
-| [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 1,655 | 4.86 | 170 |
+| [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 2023-11-02 | 59 (1,000 XP) | 1,655 | 4.86 | 171 |
 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 2023-11-02 | 27 (1,000 XP) | 5,269 | 4.42 | 269 |
 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-11-02 | 36 (1,000 XP) | 36 | - | 0 |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-11-01 | 21 (1,000 XP) | 0 | - | 0 |
@@ -298,7 +298,7 @@
 | [Entomophobia](games/7/76e9bc3f4ccd4061b471ee52735daf45.md) | 2023-10-31 | 14 (1,000 XP) | 11 | - | - |
 | [Revans](games/d/dc5c7673e02543d6b57e9579d970702f.md) | 2023-10-31 | 64 (1,000 XP) | 0 | - | - |
 | [Monsters of Mican](games/7/737058bee79c4c47a4faa14289678dcd.md) | 2023-10-27 | 20 (1,000 XP) | 14 | - | 0 |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 427,127 | 4.81 | 1,153 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 66 (1,000 XP) | 427,127 | 4.81 | 1,162 |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-10-26 | 13 (1,000 XP) | 419 | - | 0 |
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-10-26 | 33 (1,000 XP) | 132 | - | 0 |
 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-10-26 | 24 (1,000 XP) | 121 | - | 0 |
@@ -930,7 +930,7 @@
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 770,707 | 4.82 | 7,941 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,052,209 | 4.59 | 16,993 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 250 | 4.68 | 54 |
-| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,781 |
+| [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,421,353 | 4.77 | 12,791 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 453 | - | 0 |
 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2022-01-13 | 18 (1,000 XP) | 289 | - | 0 |
 | [Partisans 1941](games/p/partisans_1941.md) | 2022-01-11 | 30 (1,000 XP) | 2,357 | 4.62 | 0 |
