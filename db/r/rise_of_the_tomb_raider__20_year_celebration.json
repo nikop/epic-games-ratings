@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-tomb-raider",
   "Ranking_Rating": 256,
   "Ranking_Popularity": 44,
-  "Ranking_PopularitySum": 84,
+  "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -6992,10 +6992,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 15752,
       "NumberOfAwardsMax": 12313
+    },
+    {
+      "Time": "2024-06-13T17:59:36.535592+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 15753,
+      "NumberOfAwardsMax": 12313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15752,
+  "NumberOfAwards": 15753,
   "NumberOfAwardsMax": 12313,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7027,7 +7033,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 425
+      "Count": 426
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7077,8 +7083,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2024-06-13T07:59:43.9095645+00:00",
+  "LastChanged": "2024-06-13T17:59:36.5355919+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:03.2323057+00:00",
-  "LastUpdate_Ratings": "2024-06-13T16:00:20.1205837+00:00",
+  "LastUpdate_Ratings": "2024-06-13T17:59:36.5355924+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:35.3190684+00:00"
 }
