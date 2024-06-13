@@ -1,7 +1,7 @@
 # Oddworld: New 'n' Tasty
 [Store](https://store.epicgames.com/en-US/p/oddworld-new-n-tasty)  
 [View Rawdata](../../db/o/oddworld__new_'n'_tasty.json)  
-Rating: 4.49 (Ranked 678)  
+Rating: 4.48 (Ranked 692)  
 Number of Ratings: 112  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 41  (Ranked 543)  
@@ -88,3 +88,4 @@ Diff (max vs sum): -54
 | 2024-04-12 | 4.48 | - | 40 | 40 |
 | 2024-05-04 | 4.49 | - | 40 | 40 |
 | 2024-05-06 | 4.49 | - | 41 | 41 |
+| 2024-06-13 | 4.48 | - | 41 | 41 |
