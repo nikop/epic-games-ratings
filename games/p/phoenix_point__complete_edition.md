@@ -1,11 +1,11 @@
 # Phoenix Point: Complete Edition
 [Store](https://store.epicgames.com/en-US/p/phoenix-point)  
 [View Rawdata](../../db/p/phoenix_point__complete_edition.json)  
-Rating: 4.56 (Ranked 543)  
+Rating: 4.56 (Ranked 544)  
 Number of Ratings: 2,121  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,881  (Ranked 135)  
-Sum: 7,544 (Ranked 137)  
+Sum: 7,545 (Ranked 137)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): -2
 | This game is Highly Recommended | 716 |
 | This game is Extremely Fun | 709 |
 | This game has Diverse Characters | 701 |
-| This game has Challenging Combat | 695 |
+| This game has Challenging Combat | 696 |
 | This game has Amazing Storytelling | 669 |
 | This game has Quickly Understood Controls | 657 |
 | This game is Relaxing | 637 |
@@ -350,3 +350,4 @@ Diff (max vs sum): -2
 | 2024-06-09 | 4.56 | - | 1,879 | 7,539 |
 | 2024-06-11 | 4.56 | - | 1,881 | 7,543 |
 | 2024-06-12 | 4.56 | - | 1,881 | 7,544 |
+| 2024-06-13 | 4.56 | - | 1,881 | 7,545 |
