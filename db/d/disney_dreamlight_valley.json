@@ -2,7 +2,7 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 142,
   "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 191,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 1396,
   "RatingHistory": [
     {
@@ -8657,6 +8657,12 @@
     {
       "Time": "2024-06-13T01:50:52.9146544+00:00",
       "Rating": 4.77,
+      "NumberOfAwards": 9340,
+      "NumberOfAwardsMax": 1395
+    },
+    {
+      "Time": "2024-06-13T17:01:34.2989822+00:00",
+      "Rating": 4.76,
       "NumberOfAwards": 9340,
       "NumberOfAwardsMax": 1395
     }
@@ -29030,9 +29036,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-06-13T01:50:52.9146542+00:00",
+  "LastChanged": "2024-06-13T17:01:34.298982+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:45.2342087+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:21.797444+00:00",
-  "LastUpdate_Ratings": "2024-06-13T15:58:43.751939+00:00",
+  "LastUpdate_Ratings": "2024-06-13T17:01:34.2989826+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:45.2343099+00:00"
 }

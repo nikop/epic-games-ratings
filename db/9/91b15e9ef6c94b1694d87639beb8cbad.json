@@ -2,9 +2,9 @@
   "ID": "91b15e9ef6c94b1694d87639beb8cbad",
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
-  "Ranking_Rating": 1104,
+  "Ranking_Rating": 1099,
   "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 483,
+  "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2024-06-08T20:00:01.7971586+00:00",
@@ -180,10 +180,16 @@
       "Rating": 4.12,
       "NumberOfAwards": 190,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-06-13T16:58:46.2233431+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 249,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 190,
+  "NumberOfAwards": 249,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -222,6 +228,18 @@
       "Prefix": "This game has a",
       "Type": "Competitive Community",
       "Count": 21
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 30
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 29
     }
   ],
   "EOS_Progressed": 0,
@@ -236,8 +254,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-06-13T13:57:16.6755891+00:00",
+  "LastChanged": "2024-06-13T16:58:46.223343+00:00",
   "LastUpdate_AppInfo": "2024-06-09T11:57:11.0497212+00:00",
-  "LastUpdate_Ratings": "2024-06-13T15:00:07.4566253+00:00",
+  "LastUpdate_Ratings": "2024-06-13T16:58:46.2233435+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:58.3203397+00:00"
 }
