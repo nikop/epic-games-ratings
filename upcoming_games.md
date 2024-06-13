@@ -265,6 +265,7 @@
 | [Aerial_Knight's We Never Yield](games/6/60d72468c4794f428a3276cc10e8610b.md) | 2099-01-01 | - |  | - | - |
 | [AEVITAS](games/e/e551d0f379ad42629494c89540c1c853.md) | 2099-01-01 | - |  | - | - |
 | [Age of History 3](games/d/dfb48dfb84a04354a912913708e01d24.md) | 2099-01-01 | - |  | - | - |
+| [Agents of Argus](games/b/b182edbe3ff04602ae9ee54378e20db9.md) | 2099-01-01 | - |  | - | - |
 | [AI Fight Club](games/5/5a0b16db15534e68aa33b4cc50551de2.md) | 2099-01-01 | - |  | - | - |
 | [AI Roguelite](games/a/ai_roguelite.md) | 2099-01-01 | - |  | - | - |
 | [Alder Choke](games/a/alder_choke.md) | 2099-01-01 | - |  | - | - |

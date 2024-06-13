@@ -184,7 +184,7 @@
 | 182 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 1,027 |
 | 183 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 987 | 4.79 | 108 |
 | 184 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 981 | 4.74 | 170 |
-| 185 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 975 | 4.60 | 458 |
+| 185 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 977 | 4.60 | 458 |
 | 186 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 968 | 4.22 | 1,033 |
 | 187 | [Auto Chess](games/a/auto_chess.md) | 967 | 4.50 | 653 |
 | 187 | [Frostpunk](games/f/frostpunk.md) | 967 | 4.75 | 153 |
@@ -341,7 +341,7 @@
 | 339 | [The Witness](games/t/the_witness.md) | 204 | 4.69 | 256 |
 | 340 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 202 | 4.73 | 188 |
 | 340 | [Timberborn](games/t/timberborn.md) | 202 | 4.74 | 170 |
-| 342 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 201 | 3.62 | 1,201 |
+| 342 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 201 | 3.63 | 1,201 |
 | 343 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 200 | 4.63 | 387 |
 | 344 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 198 | 4.69 | 256 |
 | 344 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 198 | 4.63 | 387 |
@@ -551,36 +551,36 @@
 | 549 | [20XX](games/2/20xx.md) | 39 | 4.61 | 428 |
 | 549 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 39 | 4.53 | 603 |
 | 549 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 39 | 4.53 | 603 |
+| 552 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 38 | 4.12 | 1,104 |
 | 552 | [MythForce](games/m/mythforce.md) | 38 | 4.47 | 706 |
 | 552 | [Rise of Industry](games/r/rise_of_industry.md) | 38 | 4.26 | 993 |
 | 552 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 38 | 4.52 | 619 |
-| 555 | [9Lives Arena](games/9/9lives_arena.md) | 37 | 4.53 | 603 |
-| 555 | [Chimeraland](games/c/chimeraland.md) | 37 | 3.91 | 1,170 |
-| 555 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 37 | 4.50 | 653 |
-| 558 | [Chorus](games/c/chorus.md) | 36 | 4.47 | 706 |
-| 558 | [DOOM (1993)](games/d/doom_(1993).md) | 36 | 4.82 | 72 |
-| 558 | [FUSER™](games/f/fuser™.md) | 36 | 4.72 | 201 |
-| 558 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 36 | 4.44 | 757 |
-| 558 | [Outward Definitive Edition](games/o/outward.md) | 36 | 4.54 | 585 |
-| 558 | [The Surge](games/t/the_surge.md) | 36 | 4.43 | 782 |
-| 558 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 36 | 4.59 | 473 |
-| 558 | [Tunche](games/t/tunche.md) | 36 | 4.43 | 782 |
-| 558 | [Weird West: Definitive Edition](games/w/weird_west.md) | 36 | 4.43 | 782 |
-| 567 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 35 | 4.63 | 387 |
-| 567 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 35 | 4.42 | 804 |
-| 567 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 35 | 4.34 | 912 |
-| 567 | [Islets](games/i/islets.md) | 35 | 4.71 | 213 |
-| 567 | [Sable](games/s/sable.md) | 35 | 4.54 | 585 |
-| 572 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 1,014 |
-| 572 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 34 | 3.97 | 1,154 |
-| 572 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 34 | 4.20 | 1,049 |
-| 572 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 34 | 4.18 | 1,066 |
-| 572 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.51 | 634 |
-| 572 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 34 | 4.46 | 723 |
-| 572 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 34 | 4.35 | 897 |
-| 572 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 34 | 4.81 | 85 |
-| 580 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 33 | 4.11 | 1,109 |
-| 580 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 33 | 4.35 | 897 |
+| 556 | [9Lives Arena](games/9/9lives_arena.md) | 37 | 4.53 | 603 |
+| 556 | [Chimeraland](games/c/chimeraland.md) | 37 | 3.91 | 1,170 |
+| 556 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 37 | 4.50 | 653 |
+| 559 | [Chorus](games/c/chorus.md) | 36 | 4.47 | 706 |
+| 559 | [DOOM (1993)](games/d/doom_(1993).md) | 36 | 4.82 | 72 |
+| 559 | [FUSER™](games/f/fuser™.md) | 36 | 4.72 | 201 |
+| 559 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 36 | 4.44 | 757 |
+| 559 | [Outward Definitive Edition](games/o/outward.md) | 36 | 4.54 | 585 |
+| 559 | [The Surge](games/t/the_surge.md) | 36 | 4.43 | 782 |
+| 559 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 36 | 4.59 | 473 |
+| 559 | [Tunche](games/t/tunche.md) | 36 | 4.43 | 782 |
+| 559 | [Weird West: Definitive Edition](games/w/weird_west.md) | 36 | 4.43 | 782 |
+| 568 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 35 | 4.63 | 387 |
+| 568 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 35 | 4.42 | 804 |
+| 568 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 35 | 4.34 | 912 |
+| 568 | [Islets](games/i/islets.md) | 35 | 4.71 | 213 |
+| 568 | [Sable](games/s/sable.md) | 35 | 4.54 | 585 |
+| 573 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 34 | 4.24 | 1,014 |
+| 573 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 34 | 3.97 | 1,154 |
+| 573 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 34 | 4.20 | 1,049 |
+| 573 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 34 | 4.18 | 1,066 |
+| 573 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.51 | 634 |
+| 573 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 34 | 4.46 | 723 |
+| 573 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 34 | 4.35 | 897 |
+| 573 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 34 | 4.81 | 85 |
+| 581 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 33 | 4.35 | 897 |
 | 582 | [Blankos Block Party](games/b/blankos_block_party.md) | 32 | 4.21 | 1,040 |
 | 582 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 32 | 3.94 | 1,165 |
 | 582 | [Outlast](games/o/outlast.md) | 32 | 4.74 | 170 |

@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Agents of Argus](games/b/b182edbe3ff04602ae9ee54378e20db9.md) | 2099-01-01 | - |  | - | - |
 | [Sanctua](games/9/9b0b02d0d80042a6bdd27db67f71abba.md) | 2099-01-01 | - |  | - | - |
 | [Backrooms: Between Lost Dimension](games/e/e01fcd0a8d4d44ca8a7f90021d2ffd88.md) | 2099-01-01 | - |  | - | - |
 | [Spirit Castor: A Father's Trust](games/f/f1a5e1489de54426ba36cf0bbae2bd62.md) | 2024-12-31 | - |  | - | - |
