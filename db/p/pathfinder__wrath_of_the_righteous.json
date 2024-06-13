@@ -4,7 +4,7 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 143,
   "Ranking_Popularity": 137,
-  "Ranking_PopularitySum": 136,
+  "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -6279,18 +6279,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7550,
       "NumberOfAwardsMax": 1849
+    },
+    {
+      "Time": "2024-06-13T03:58:32.2821867+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7552,
+      "NumberOfAwardsMax": 1851
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7550,
-  "NumberOfAwardsMax": 1849,
+  "NumberOfAwards": 7552,
+  "NumberOfAwardsMax": 1851,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1849
+      "Count": 1851
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -22523,9 +22529,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-06-12T21:58:05.1953358+00:00",
+  "LastChanged": "2024-06-13T03:58:32.2821865+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:38.2221312+00:00",
   "LastUpdate_AppInfo": "2024-06-09T20:57:14.265277+00:00",
-  "LastUpdate_Ratings": "2024-06-13T02:27:29.1610637+00:00",
+  "LastUpdate_Ratings": "2024-06-13T03:58:32.2821872+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:38.2222987+00:00"
 }
