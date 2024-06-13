@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [DOSA: Guardians](games/8/84abf01158f84874b4a8737dfcad9eca.md) | 2024-06-13 | - |  | - | - |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | - |  | - | - |
 | [Dino Hazard: Chronos Blackout](games/e/e8d43fd48d6a42818e387ca4edcd749a.md) | 2024-06-12 | - |  | - | - |
 | [Garden Paradise](games/5/54180fd9376a41a287ff0cc5bbad0a5b.md) | 2024-06-12 | - |  | - | - |
