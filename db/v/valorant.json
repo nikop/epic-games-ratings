@@ -20501,10 +20501,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 850724,
       "NumberOfAwardsMax": 121937
+    },
+    {
+      "Time": "2024-06-13T14:58:27.4549512+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 851450,
+      "NumberOfAwardsMax": 121937
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 850724,
+  "NumberOfAwards": 851450,
   "NumberOfAwardsMax": 121937,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -20518,7 +20524,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 94915
+      "Count": 95064
     },
     {
       "Text": "This game has Competitive Players",
@@ -20536,13 +20542,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 99116
+      "Count": 99271
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 93059
+      "Count": 93215
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -20560,13 +20566,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 85460
+      "Count": 85588
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 91650
+      "Count": 91788
     }
   ],
   "EOS_Progressed": 0,
@@ -20580,8 +20586,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-06-13T06:58:30.5900883+00:00",
+  "LastChanged": "2024-06-13T14:58:27.454951+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:11.5266371+00:00",
-  "LastUpdate_Ratings": "2024-06-13T13:04:51.5346326+00:00",
+  "LastUpdate_Ratings": "2024-06-13T14:58:27.4549516+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:27.6218645+00:00"
 }

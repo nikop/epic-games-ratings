@@ -3,7 +3,7 @@
   "Name": "Bugsnax",
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 523,
+  "Ranking_Popularity": 521,
   "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 96,
@@ -1236,18 +1236,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 435,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-06-13T14:58:58.2996431+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 436,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 435,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 436,
+  "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10197,9 +10203,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2024-06-06T17:58:09.9928658+00:00",
+  "LastChanged": "2024-06-13T14:58:58.2996429+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:25.6710739+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:22.9787456+00:00",
-  "LastUpdate_Ratings": "2024-06-13T13:05:11.8381603+00:00",
+  "LastUpdate_Ratings": "2024-06-13T14:58:58.2996434+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:25.6711237+00:00"
 }
