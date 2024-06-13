@@ -313,12 +313,12 @@ Completed: 2,358 (0.51%) (Ranked 260)
 | 2024-03-21 | 447,954 | 2,258 |
 | 2024-04-10 | 458,127 | 2,358 |
 ## Awards
-Max (Great for Beginners): 413  (Ranked 262)  
-Sum: 2,437 (Ranked 225)  
-Diff (max vs sum): 37  
+Max (Great for Beginners): 414  (Ranked 263)  
+Sum: 2,438 (Ranked 225)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 413 |
+| This game is Great for Beginners | 414 |
 | This game is Great for Quick Sessions | 361 |
 | This game has Diverse Characters | 288 |
 | This game has a Competitive Community | 192 |
@@ -589,4 +589,4 @@ Diff (max vs sum): 37
 | 2024-06-10 | 4.39 | 411 | 2,420 |
 | 2024-06-11 | 4.39 | 411 | 2,428 |
 | 2024-06-12 | 4.39 | 413 | 2,434 |
-| 2024-06-13 | 4.39 | 413 | 2,437 |
+| 2024-06-13 | 4.39 | 414 | 2,438 |
