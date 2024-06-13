@@ -111,4 +111,3 @@
 | [FuseWars](games/b/bcaf5657e1b440098c0672be0406b274.md) | 2024-05-15 | - |  | - | 0 |
 | [Athenian Rhapsody](games/e/e07a23238eb744e48941547e0aa89228.md) | 2024-05-14 | - |  | - | 0 |
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | - |  | - | 0 |
-| [Lizard Slayer](games/c/c41d2880cc784e3ab5744177cf90a603.md) | 2024-05-14 | - |  | - | - |
