@@ -2,7 +2,7 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_Rating": 1005,
+  "Ranking_Rating": 1004,
   "Ranking_Popularity": 408,
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 68,
@@ -1889,10 +1889,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 668,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-06-14T17:59:16.4698317+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 669,
+      "NumberOfAwardsMax": 112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 668,
+  "NumberOfAwards": 669,
   "NumberOfAwardsMax": 112,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1948,7 +1954,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 56
+      "Count": 57
     }
   ],
   "EOS_Progressed": 348769,
@@ -3143,9 +3149,9 @@
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenRating": "2024-03-15T19:58:30.0365601+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged": "2024-06-13T19:58:06.9971757+00:00",
+  "LastChanged": "2024-06-14T17:59:16.4698316+00:00",
   "LastChanged_Achievements": "2024-04-10T06:06:24.1890806+00:00",
   "LastUpdate_AppInfo": "2024-06-13T05:57:07.3944864+00:00",
-  "LastUpdate_Ratings": "2024-06-14T16:01:34.6608738+00:00",
+  "LastUpdate_Ratings": "2024-06-14T17:59:16.4698321+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:24.1891469+00:00"
 }

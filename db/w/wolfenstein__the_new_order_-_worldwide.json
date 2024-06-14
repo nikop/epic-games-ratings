@@ -1,6 +1,6 @@
 {
   "ID": "0bd3e505924240adb702295fa08c1eff",
-  "Name": "Wolfenstein: The New Order",
+  "Name": "Wolfenstein: The New Order - Worldwide",
   "ProductSlug": "wolfenstein-the-new-order",
   "Ranking_Rating": 498,
   "Ranking_Popularity": 35,
@@ -10,7 +10,7 @@
   "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
-    "ReleaseDate": "2021-09-09T15:00:00+00:00",
+    "ReleaseDate": "2022-12-15T16:00:00+00:00",
     "PcReleaseDate": "2014-05-20T15:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
