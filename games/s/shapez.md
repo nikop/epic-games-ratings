@@ -4,16 +4,16 @@
 Rating: 4.71 (Ranked 213)  
 ## Awards
 Max (Relaxing): 30  (Ranked 594)  
-Sum: 158 (Ranked 500)  
-Diff (max vs sum): 94  
+Sum: 159 (Ranked 498)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
 | This game is Relaxing | 30 |
 | This game has Quickly Understood Controls | 30 |
 | This game is Great for Beginners | 29 |
+| This game is Educational | 24 |
 | This game is Highly Recommended | 24 |
-| This game is Educational | 23 |
 | This game is Extremely Fun | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -121,3 +121,4 @@ Diff (max vs sum): 94
 | 2024-06-06 | 4.71 | 30 | 156 |
 | 2024-06-07 | 4.71 | 30 | 157 |
 | 2024-06-13 | 4.71 | 30 | 158 |
+| 2024-06-14 | 4.71 | 30 | 159 |
