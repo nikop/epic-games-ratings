@@ -25,7 +25,6 @@
 | [CryptoBall](games/5/539a43c4910f41ae851d7acc184c92f1.md) | 2024-06-30 | - |  | - | - |
 | [Cycles](games/7/796819dc95244ad3b421b64b4a93df9a.md) | 2024-06-30 | - |  | - | - |
 | [Departed Away](games/8/8fb3b92706e84e07ad8b2804599b6677.md) | 2024-06-30 | - |  | - | - |
-| [Drowned God Conspiracy of Ages](games/0/0e92b6115f284c358aace04dd4e89e42.md) | 2024-06-30 | - |  | - | - |
 | [EARLY ACCESS: What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-06-30 | - |  | - | - |
 | [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-06-30 | - |  | - | - |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-06-30 | - |  | - | - |

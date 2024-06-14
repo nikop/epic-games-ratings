@@ -397,7 +397,7 @@
 | [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 1,053 | 4.61 | 0 |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-10 | 14 (1,000 XP) | 725 | - | 0 |
 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-09-08 | 50 (1,000 XP) | 218 | - | 0 |
-| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 43 (1,300 XP) | 10,096 | 4.68 | 28 |
+| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 43 (1,300 XP) | 10,096 | 4.69 | 28 |
 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 2023-09-08 | 24 (1,000 XP) | 1 | - | 0 |
 | [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 102,435 | 4.10 | 184 |
 | [Lempo](games/l/lempo.md) | 2023-09-07 | 34 (1,000 XP) | 1 | - | 0 |
@@ -823,7 +823,7 @@
 | [Isonzo](games/i/isonzo.md) | 2022-09-13 | 45 (1,000 XP) | 9,032 | 4.57 | 51 |
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 55 | - | 0 |
-| [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.25 | 0 |
+| [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 529 | 4.24 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 15,821 | 4.76 | 1,395 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 755,320 | 4.21 | 570 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 637 | 4.53 | 39 |
@@ -851,7 +851,7 @@
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 2022-07-28 | 54 (1,000 XP) | 717,211 | 4.08 | 184 |
 | [LOOPMANCER](games/l/loopmancer.md) | 2022-07-27 | 57 (1,000 XP) | 110 | - | 0 |
 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 2022-07-21 | 36 (1,000 XP) | 592 | 4.61 | 0 |
-| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 160,674 | 4.00 | 5,209 |
+| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 160,674 | 4.00 | 5,211 |
 | [Silence](games/s/silence.md) | 2022-07-21 | 46 (1,000 XP) | 232 | - | 0 |
 | [Hazel Sky](games/h/hazel_sky.md) | 2022-07-20 | 24 (1,000 XP) | 6 | - | 0 |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 2022-07-19 | 28 (1,000 XP) | 693 | 4.65 | 0 |
