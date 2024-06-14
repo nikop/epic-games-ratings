@@ -4,7 +4,7 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 804,
   "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 416,
   "Ranking_EOS_NewPlayers": 25,
@@ -2601,10 +2601,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 651,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2024-06-14T13:59:03.5794129+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 654,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 651,
+  "NumberOfAwards": 654,
   "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2648,7 +2654,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2666,7 +2672,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 56
+      "Count": 58
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7271,9 +7277,9 @@
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2024-06-12T13:05:44.8253867+00:00",
+  "LastChanged": "2024-06-14T13:59:03.5794127+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:27.5505742+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:13.1489721+00:00",
-  "LastUpdate_Ratings": "2024-06-14T12:00:07.2902847+00:00",
+  "LastUpdate_Ratings": "2024-06-14T13:59:03.5794132+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:27.5506045+00:00"
 }
