@@ -2,7 +2,7 @@
   "ID": "91b15e9ef6c94b1694d87639beb8cbad",
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
-  "Ranking_Rating": 1075,
+  "Ranking_Rating": 1065,
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 987,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2024-06-08T20:00:01.7971586+00:00",
@@ -222,6 +222,12 @@
       "Rating": 4.17,
       "NumberOfAwards": 440,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-06-14T22:58:09.4545429+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 440,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
@@ -302,8 +308,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-06-14T19:57:31.7477147+00:00",
+  "LastChanged": "2024-06-14T22:58:09.4545427+00:00",
   "LastUpdate_AppInfo": "2024-06-09T11:57:11.0497212+00:00",
-  "LastUpdate_Ratings": "2024-06-14T20:59:04.5492614+00:00",
+  "LastUpdate_Ratings": "2024-06-14T22:58:09.4545431+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:58.3203397+00:00"
 }
