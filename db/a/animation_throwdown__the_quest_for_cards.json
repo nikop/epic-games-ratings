@@ -4,7 +4,7 @@
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
   "Ranking_Rating": 944,
   "Ranking_Popularity": 256,
-  "Ranking_PopularitySum": 200,
+  "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3947,10 +3947,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 3188,
       "NumberOfAwardsMax": 439
+    },
+    {
+      "Time": "2024-06-14T18:57:01.7815175+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 3192,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3188,
+  "NumberOfAwards": 3192,
   "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3982,19 +3988,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 333
+      "Count": 334
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 325
+      "Count": 327
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 404
+      "Count": 405
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4026,8 +4032,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-06-13T15:57:51.4533339+00:00",
+  "LastChanged": "2024-06-14T18:57:01.7815173+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:57.0959613+00:00",
-  "LastUpdate_Ratings": "2024-06-14T16:58:37.058486+00:00",
+  "LastUpdate_Ratings": "2024-06-14T18:57:01.781518+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:16.8021962+00:00"
 }

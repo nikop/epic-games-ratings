@@ -1,7 +1,7 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.49 (Ranked 678)  
+Rating: 4.50 (Ranked 652)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -393,3 +393,4 @@ Completed: 34 (0.01%) (Ranked 433)
 | 2024-04-07 | 4.49 | - | 0 | 0 |
 | 2024-04-15 | 4.50 | - | 0 | 0 |
 | 2024-04-17 | 4.49 | - | 0 | 0 |
+| 2024-06-14 | 4.50 | - | 0 | 0 |

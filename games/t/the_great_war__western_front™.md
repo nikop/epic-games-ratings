@@ -1,7 +1,7 @@
 # The Great War: Western Front™
 [Store](https://store.epicgames.com/en-US/p/the-great-war-western-front)  
 [View Rawdata](../../db/t/the_great_war__western_front™.json)  
-Rating: 3.98 (Ranked 1,151)  
+Rating: 4.00 (Ranked 1,145)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -291,3 +291,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-25 | 3.98 | 0 | 0 |
 | 2024-05-10 | 3.96 | 0 | 0 |
 | 2024-06-03 | 3.98 | 0 | 0 |
+| 2024-06-14 | 4.00 | 0 | 0 |

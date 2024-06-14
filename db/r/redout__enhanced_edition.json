@@ -2,7 +2,7 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 678,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 656,
   "Ranking_PopularitySum": 656,
   "Ranking_EOS_Progress": 83,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 274,
   "RatingHistory": [
     {
@@ -359,6 +359,12 @@
     {
       "Time": "2024-04-17T22:58:52.5304461+00:00",
       "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-14T18:57:36.4802167+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -30120,9 +30126,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
-  "LastChanged": "2024-04-17T22:58:52.5304459+00:00",
+  "LastChanged": "2024-06-14T18:57:36.4802165+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:14.3935971+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:15.396361+00:00",
-  "LastUpdate_Ratings": "2024-06-14T16:59:17.1062493+00:00",
+  "LastUpdate_Ratings": "2024-06-14T18:57:36.4802174+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:14.3937482+00:00"
 }
