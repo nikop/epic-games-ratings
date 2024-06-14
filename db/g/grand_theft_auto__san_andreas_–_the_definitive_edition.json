@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 544,
-  "Ranking_Popularity": 411,
+  "Ranking_Popularity": 408,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 257,
@@ -4103,12 +4103,18 @@
       "Rating": 4.56,
       "NumberOfAwards": 813,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2024-06-14T19:58:48.9730504+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 817,
+      "NumberOfAwardsMax": 112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 813,
-  "NumberOfAwardsMax": 110,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 817,
+  "NumberOfAwardsMax": 112,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -4132,7 +4138,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 106
+      "Count": 107
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4156,13 +4162,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 110
+      "Count": 112
     },
     {
       "Text": "This game has Diverse Characters",
@@ -23403,9 +23409,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-06-13T18:59:11.8173744+00:00",
+  "LastChanged": "2024-06-14T19:58:48.9730503+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:29.6863442+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:57:50.2974894+00:00",
-  "LastUpdate_Ratings": "2024-06-14T18:57:14.2517505+00:00",
+  "LastUpdate_Ratings": "2024-06-14T19:58:48.9730511+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:29.6864522+00:00"
 }
