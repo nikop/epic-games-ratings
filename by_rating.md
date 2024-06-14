@@ -593,32 +593,32 @@
 | 584 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 212 | 333 |
 | 584 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.54 | 0 | 655 |
 | 584 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 559 |
+| 584 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,294 | 109 |
 | 584 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,115 | 171 |
 | 584 | [RUINER](games/r/ruiner.md) | 4.54 | 27 | 609 |
 | 584 | [Sable](games/s/sable.md) | 4.54 | 35 | 568 |
 | 584 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 99 | 430 |
 | 584 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 655 |
 | 584 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 564 | 236 |
-| 600 | [9Lives Arena](games/9/9lives_arena.md) | 4.53 | 37 | 556 |
-| 600 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 655 |
-| 600 | [Dauntless](games/d/dauntless.md) | 4.53 | 29,734 | 20 |
-| 600 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 550 |
-| 600 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 4.53 | 0 | 655 |
-| 600 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 655 |
-| 600 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.53 | 39 | 550 |
-| 600 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.53 | 84 | 452 |
-| 600 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 215 | 331 |
-| 600 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.53 | 0 | 655 |
-| 600 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.53 | 3,294 | 109 |
-| 600 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.53 | 0 | 655 |
-| 600 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 655 |
-| 600 | [RiME](games/r/rime.md) | 4.53 | 0 | 655 |
-| 600 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 655 |
-| 600 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,216 | 161 |
-| 600 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 655 |
-| 600 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 424 | 261 |
-| 600 | [Verdun](games/v/verdun.md) | 4.53 | 117 | 400 |
-| 600 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 40 | 546 |
+| 601 | [9Lives Arena](games/9/9lives_arena.md) | 4.53 | 37 | 556 |
+| 601 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 655 |
+| 601 | [Dauntless](games/d/dauntless.md) | 4.53 | 29,734 | 20 |
+| 601 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 39 | 550 |
+| 601 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 4.53 | 0 | 655 |
+| 601 | [Godlike Burger](games/g/godlike_burger.md) | 4.53 | 0 | 655 |
+| 601 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.53 | 39 | 550 |
+| 601 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.53 | 84 | 452 |
+| 601 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 215 | 331 |
+| 601 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.53 | 0 | 655 |
+| 601 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.53 | 0 | 655 |
+| 601 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 655 |
+| 601 | [RiME](games/r/rime.md) | 4.53 | 0 | 655 |
+| 601 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 655 |
+| 601 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,216 | 161 |
+| 601 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 655 |
+| 601 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 424 | 261 |
+| 601 | [Verdun](games/v/verdun.md) | 4.53 | 117 | 400 |
+| 601 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.53 | 40 | 546 |
 | 620 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.52 | 272 | 304 |
 | 620 | [Crying Suns](games/c/crying_suns.md) | 4.52 | 241 | 318 |
 | 620 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 655 |
