@@ -115,6 +115,7 @@
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-09-30 | - |  | - | - |
 | [The Star Named EOS](games/7/7ce9f498f68c49cb82f60e04335d917f.md) | 2024-09-30 | - |  | - | - |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-30 | - |  | - | - |
+| [Union of Gnomes](games/3/3880ec67d75643da816c9feabb168010.md) | 2024-09-30 | - |  | - | - |
 | [Unreachable](games/4/48d6c1632de6479b8c6c1d2f415cea92.md) | 2024-09-30 | - |  | - | - |
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-09-30 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-30 | - |  | - | - |
