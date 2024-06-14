@@ -1,15 +1,15 @@
 # Aimlabs
 [Store](https://store.epicgames.com/en-US/p/aimlabs)  
 [View Rawdata](../../db/a/aimlabs.json)  
-Rating: 4.59 (Ranked 474)  
+Rating: 4.60 (Ranked 458)  
 ## Awards
 Max (Great for Beginners): 153  (Ranked 374)  
-Sum: 1,034 (Ranked 300)  
+Sum: 1,035 (Ranked 300)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 153 |
-| This game is Great for Quick Sessions | 145 |
+| This game is Great for Quick Sessions | 146 |
 | This game is Educational | 113 |
 | This game has Competitive Players | 100 |
 | This game is Highly Recommended | 98 |
@@ -314,3 +314,4 @@ Diff (max vs sum): 74
 | 2024-06-10 | 4.59 | 153 | 1,030 |
 | 2024-06-12 | 4.59 | 153 | 1,031 |
 | 2024-06-13 | 4.59 | 153 | 1,034 |
+| 2024-06-14 | 4.60 | 153 | 1,035 |
