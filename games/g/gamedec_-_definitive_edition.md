@@ -1,7 +1,7 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 972)  
+Rating: 4.29 (Ranked 960)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -466,3 +466,4 @@ Diff (max vs sum): -114
 | 2024-05-29 | 4.29 | - | 111 | 111 |
 | 2024-05-30 | 4.29 | - | 112 | 112 |
 | 2024-06-08 | 4.28 | - | 112 | 112 |
+| 2024-06-14 | 4.29 | - | 112 | 112 |
