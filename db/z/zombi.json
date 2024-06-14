@@ -3,8 +3,8 @@
   "Name": "ZOMBI",
   "ProductSlug": "zombi",
   "Ranking_Rating": 804,
-  "Ranking_Popularity": 655,
-  "Ranking_PopularitySum": 655,
+  "Ranking_Popularity": 656,
+  "Ranking_PopularitySum": 656,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -151,6 +151,6 @@
   "FirstSeenRating": "2022-11-04T06:02:50.9751039+00:00",
   "LastChanged": "2024-03-06T06:59:43.1656386+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:57:21.123934+00:00",
-  "LastUpdate_Ratings": "2024-06-14T10:00:23.8191453+00:00",
+  "LastUpdate_Ratings": "2024-06-14T11:58:03.8368405+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:31.4462696+00:00"
 }
