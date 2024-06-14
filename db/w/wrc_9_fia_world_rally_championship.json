@@ -2,9 +2,9 @@
   "ID": "9cf250606722448887fa1447b1d9da06",
   "Name": "WRC 9 FIA World Rally Championship",
   "ProductSlug": "wrc-9",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 600,
   "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 439,
+  "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1017,6 +1017,6 @@
   "FirstSeen": "2022-07-22T20:19:01.098445+00:00",
   "LastChanged": "2024-06-13T13:57:46.7695043+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:57:29.7775928+00:00",
-  "LastUpdate_Ratings": "2024-06-14T01:49:40.7230985+00:00",
+  "LastUpdate_Ratings": "2024-06-14T02:28:15.1396393+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:37.6201733+00:00"
 }
