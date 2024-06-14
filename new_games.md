@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [JudgeSim](games/7/7ec64dbd5e634886915c1e9cf35f4d78.md) | 2024-06-14 | - |  | - | - |
 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 2024-06-13 | - |  | - | - |
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | - |  | - | - |
 | [CRUELTY](games/1/1869b4b037124467b43cd9e62c6ee09d.md) | 2024-06-13 | - |  | - | - |
