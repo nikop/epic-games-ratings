@@ -3,7 +3,7 @@
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 743,
-  "Ranking_Popularity": 212,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -4531,10 +4531,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2943,
       "NumberOfAwardsMax": 719
+    },
+    {
+      "Time": "2024-06-14T06:58:12.5720901+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2944,
+      "NumberOfAwardsMax": 719
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2943,
+  "NumberOfAwards": 2944,
   "NumberOfAwardsMax": 719,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4560,7 +4566,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4616,8 +4622,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2024-06-13T21:00:02.7802829+00:00",
+  "LastChanged": "2024-06-14T06:58:12.5720899+00:00",
   "LastUpdate_AppInfo": "2024-06-09T15:57:11.8957035+00:00",
-  "LastUpdate_Ratings": "2024-06-14T04:59:58.7734663+00:00",
+  "LastUpdate_Ratings": "2024-06-14T06:58:12.5720904+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:59.1127265+00:00"
 }

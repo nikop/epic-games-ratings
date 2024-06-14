@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_last_of_us™_part_i.json)  
 Rating: 4.61 (Ranked 427)  
 ## Awards
-Max (Great Boss Battles): 716  (Ranked 213)  
+Max (Great Boss Battles): 716  (Ranked 214)  
 Sum: 1,055 (Ranked 296)  
-Diff (max vs sum): -83  
+Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 716 |

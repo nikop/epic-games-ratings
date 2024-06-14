@@ -1,7 +1,7 @@
 # Icewind Dale: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/icewind-dale-enhanced-edition)  
 [View Rawdata](../../db/i/icewind_dale__enhanced_edition.json)  
-Rating: 4.81 (Ranked 86)  
+Rating: 4.82 (Ranked 72)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 4.81 (Ranked 86)
 | 2023-06-25 | 4.79 | 0 | 0 |
 | 2023-10-06 | 4.80 | 0 | 0 |
 | 2023-11-02 | 4.81 | 0 | 0 |
+| 2024-06-14 | 4.82 | 0 | 0 |

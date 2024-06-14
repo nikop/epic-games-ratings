@@ -3,8 +3,8 @@
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 724,
-  "Ranking_Popularity": 637,
-  "Ranking_PopularitySum": 592,
+  "Ranking_Popularity": 632,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 25,
@@ -537,18 +537,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-06-14T07:00:20.4711106+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 44,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",
@@ -31119,9 +31125,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
-  "LastChanged": "2024-05-27T07:59:36.1070974+00:00",
+  "LastChanged": "2024-06-14T07:00:20.4711104+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:21.696071+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:53.7537637+00:00",
-  "LastUpdate_Ratings": "2024-06-14T05:57:33.7706737+00:00",
+  "LastUpdate_Ratings": "2024-06-14T07:00:20.4711109+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:21.6962505+00:00"
 }

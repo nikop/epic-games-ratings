@@ -2,7 +2,7 @@
   "ID": "c22a84689e1a4ad083b2b4ba0ee396f4",
   "Name": "Icewind Dale: Enhanced Edition",
   "ProductSlug": "icewind-dale-enhanced-edition",
-  "Ranking_Rating": 86,
+  "Ranking_Rating": 72,
   "Ranking_Popularity": 655,
   "Ranking_PopularitySum": 655,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "RatingHistory": [
     {
       "Time": "2022-12-03T17:58:19.7648387+00:00",
@@ -63,6 +63,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-14T06:59:59.8444352+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -81,8 +87,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:15.7378973+00:00",
   "FirstSeenRating": "2022-12-03T17:58:19.7648385+00:00",
-  "LastChanged": "2023-11-02T06:59:24.5357297+00:00",
+  "LastChanged": "2024-06-14T06:59:59.844435+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:07.4600482+00:00",
-  "LastUpdate_Ratings": "2024-06-14T05:57:19.9804825+00:00",
+  "LastUpdate_Ratings": "2024-06-14T06:59:59.8444362+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:21.4569675+00:00"
 }
