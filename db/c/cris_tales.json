@@ -4,7 +4,7 @@
   "ProductSlug": "cris-tales",
   "Ranking_Rating": 886,
   "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 490,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -588,18 +588,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 179,
       "NumberOfAwardsMax": 179
+    },
+    {
+      "Time": "2024-06-14T01:50:07.1537953+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 179,
-  "NumberOfAwardsMax": 179,
+  "NumberOfAwards": 180,
+  "NumberOfAwardsMax": 180,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 179
+      "Count": 180
     }
   ],
   "EOS_Progressed": 0,
@@ -613,8 +619,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:17.9085392+00:00",
-  "LastChanged": "2024-05-07T08:57:10.2385904+00:00",
+  "LastChanged": "2024-06-14T01:50:07.1537951+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:55.0139036+00:00",
-  "LastUpdate_Ratings": "2024-06-13T23:01:15.7259072+00:00",
+  "LastUpdate_Ratings": "2024-06-14T01:50:07.1537955+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:30.0640353+00:00"
 }
