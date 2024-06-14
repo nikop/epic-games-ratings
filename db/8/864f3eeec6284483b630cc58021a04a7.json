@@ -2,7 +2,7 @@
   "ID": "864f3eeec6284483b630cc58021a04a7",
   "Name": "Need for Speed\u2122 Most Wanted",
   "ProductSlug": "need-for-speed-most-wanted-ecf84d",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 655,
   "Ranking_PopularitySum": 655,
   "Ranking_EOS_Progress": 987,
@@ -23,11 +23,17 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2024-06-12T03:59:18.8451987+00:00",
       "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-14T03:00:09.4037793+00:00",
+      "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -48,8 +54,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-30T12:00:39.0564925+00:00",
   "FirstSeenRating": "2024-06-12T03:59:18.8451984+00:00",
-  "LastChanged": "2024-06-12T03:59:18.8451985+00:00",
+  "LastChanged": "2024-06-14T03:00:09.4037791+00:00",
   "LastUpdate_AppInfo": "2024-06-13T20:57:19.2583689+00:00",
-  "LastUpdate_Ratings": "2024-06-14T02:26:29.7783894+00:00",
+  "LastUpdate_Ratings": "2024-06-14T03:00:09.4037797+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:53.9117825+00:00"
 }
