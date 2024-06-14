@@ -4,7 +4,7 @@
   "ProductSlug": "train-sim-world-2",
   "Ranking_Rating": 878,
   "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -4729,10 +4729,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 4690,
       "NumberOfAwardsMax": 648
+    },
+    {
+      "Time": "2024-06-14T09:58:42.5077675+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4692,
+      "NumberOfAwardsMax": 648
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4690,
+  "NumberOfAwards": 4692,
   "NumberOfAwardsMax": 648,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4752,7 +4758,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 485
+      "Count": 487
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4814,8 +4820,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2024-06-13T22:58:24.5482077+00:00",
+  "LastChanged": "2024-06-14T09:58:42.5077673+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:18.7053103+00:00",
-  "LastUpdate_Ratings": "2024-06-14T07:59:35.2422885+00:00",
+  "LastUpdate_Ratings": "2024-06-14T09:58:42.5077679+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:23.6465312+00:00"
 }
