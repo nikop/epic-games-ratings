@@ -4,7 +4,7 @@
   "ProductSlug": "bioshock-remastered",
   "Ranking_Rating": 369,
   "Ranking_Popularity": 80,
-  "Ranking_PopularitySum": 139,
+  "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3312,18 +3312,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 7481,
       "NumberOfAwardsMax": 6126
+    },
+    {
+      "Time": "2024-06-15T11:58:20.0214812+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7483,
+      "NumberOfAwardsMax": 6128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7481,
-  "NumberOfAwardsMax": 6126,
+  "NumberOfAwards": 7483,
+  "NumberOfAwardsMax": 6128,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6126
+      "Count": 6128
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3403,8 +3409,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2024-06-13T01:49:50.2287225+00:00",
+  "LastChanged": "2024-06-15T11:58:20.0214809+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:57:40.5509958+00:00",
-  "LastUpdate_Ratings": "2024-06-15T09:59:17.734931+00:00",
+  "LastUpdate_Ratings": "2024-06-15T11:58:20.0214814+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:28.3548952+00:00"
 }

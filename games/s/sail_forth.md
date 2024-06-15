@@ -81,8 +81,8 @@ Completed: 13 (0.00%) (Ranked 458)
 | 2024-04-10 | 416,682 | 13 |
 ## Awards
 Max (Extremely Fun): 28  (Ranked 601)  
-Sum: 173 (Ranked 492)  
-Diff (max vs sum): 109  
+Sum: 173 (Ranked 493)  
+Diff (max vs sum): 108  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 28 |
