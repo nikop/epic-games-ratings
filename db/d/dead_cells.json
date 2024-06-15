@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 36,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 193,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -6236,10 +6236,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 3369,
       "NumberOfAwardsMax": 415
+    },
+    {
+      "Time": "2024-06-15T19:57:37.9470502+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 3371,
+      "NumberOfAwardsMax": 415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3369,
+  "NumberOfAwards": 3371,
   "NumberOfAwardsMax": 415,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6277,7 +6283,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 301
+      "Count": 303
     },
     {
       "Text": "This game is Relaxing",
@@ -6327,8 +6333,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-06-15T08:57:21.0424243+00:00",
+  "LastChanged": "2024-06-15T19:57:37.94705+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:57:35.1116636+00:00",
-  "LastUpdate_Ratings": "2024-06-15T17:58:44.6955794+00:00",
+  "LastUpdate_Ratings": "2024-06-15T19:57:37.9470506+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:25.1158845+00:00"
 }
