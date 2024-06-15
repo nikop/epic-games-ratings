@@ -66,6 +66,7 @@
 | [IfSunSets](games/1/1d4d9a627e8548e1821d67ccb55ad146.md) | 2024-07-31 | - |  | - | - |
 | [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-07-31 | - |  | - | - |
 | [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | - | - |
+| [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 2024-08-08 | - |  | - | - |
 | [SteamWorld Heist II](games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 2024-08-08 | - |  | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 0 | - | - |
@@ -160,7 +161,6 @@
 | [Earth From Another Sun](games/1/1718f23d17c046398d8d248ec9b8f9d6.md) | 2024-12-31 | - |  | - | - |
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |
 | [England In London](games/9/9a648ce6a6634184ad45f5fe3788a3c2.md) | 2024-12-31 | - |  | - | - |
-| [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 2024-12-31 | - |  | - | - |
 | [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
 | [Everstorm](games/2/2247c107d7f74b8bb72445b10b6c1eae.md) | 2024-12-31 | - |  | - | - |
 | [Fata Deum](games/f/fata_deum.md) | 2024-12-31 | - |  | - | - |
