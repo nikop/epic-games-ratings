@@ -1,7 +1,7 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.62 (Ranked 404)  
+Rating: 4.62 (Ranked 403)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -330,12 +330,12 @@ Completed: 1,769 (0.32%) (Ranked 294)
 | 2024-03-21 | 549,476 | 1,754 |
 | 2024-04-10 | 550,798 | 1,769 |
 ## Awards
-Max (Challenging Combat): 314  (Ranked 287)  
-Sum: 2,266 (Ranked 232)  
+Max (Challenging Combat): 315  (Ranked 287)  
+Sum: 2,267 (Ranked 232)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 314 |
+| This game has Challenging Combat | 315 |
 | This game is Highly Recommended | 285 |
 | This game has Quickly Understood Controls | 277 |
 | This game has Diverse Characters | 269 |
@@ -623,4 +623,4 @@ Diff (max vs sum): 55
 | 2024-06-10 | 4.62 | - | 314 | 2,263 |
 | 2024-06-11 | 4.62 | - | 314 | 2,264 |
 | 2024-06-13 | 4.62 | - | 314 | 2,265 |
-| 2024-06-15 | 4.62 | - | 314 | 2,266 |
+| 2024-06-15 | 4.62 | - | 315 | 2,267 |
