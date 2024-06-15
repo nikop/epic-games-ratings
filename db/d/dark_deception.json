@@ -2,7 +2,7 @@
   "ID": "bddbb30a6c36455a9ca82c3a0f91af06",
   "Name": "Dark Deception",
   "ProductSlug": "dark-deception",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 722,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "NumberOfRatings": 50,
   "RatingHistory": [
     {
@@ -419,6 +419,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-15T13:58:11.9286238+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -436,8 +442,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:45.5721818+00:00",
-  "LastChanged": "2024-06-12T09:57:53.0717842+00:00",
+  "LastChanged": "2024-06-15T13:58:11.9286236+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:00.8114788+00:00",
-  "LastUpdate_Ratings": "2024-06-15T11:59:17.9205619+00:00",
+  "LastUpdate_Ratings": "2024-06-15T13:58:11.9286243+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:42.8187755+00:00"
 }
