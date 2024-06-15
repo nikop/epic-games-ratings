@@ -3,7 +3,7 @@
   "Name": "shapez",
   "ProductSlug": "shapez-0929c9",
   "Ranking_Rating": 214,
-  "Ranking_Popularity": 594,
+  "Ranking_Popularity": 587,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
@@ -658,12 +658,18 @@
       "Rating": 4.71,
       "NumberOfAwards": 159,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-06-15T20:57:40.7725637+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 159,
-  "NumberOfAwardsMax": 30,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 160,
+  "NumberOfAwardsMax": 31,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -687,7 +693,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Educational",
@@ -720,8 +726,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2024-06-14T03:57:06.8775946+00:00",
+  "LastChanged": "2024-06-15T20:57:40.7725635+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:24.866251+00:00",
-  "LastUpdate_Ratings": "2024-06-15T18:59:16.1578735+00:00",
+  "LastUpdate_Ratings": "2024-06-15T20:57:40.7725641+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:09.9913977+00:00"
 }

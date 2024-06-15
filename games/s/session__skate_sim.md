@@ -315,13 +315,13 @@ Completed: 2 (0.05%) (Ranked 387)
 | 2024-04-10 | 4,090 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 84  (Ranked 454)  
-Sum: 718 (Ranked 339)  
+Sum: 720 (Ranked 339)  
 Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 84 |
 | This game is Highly Recommended | 75 |
-| This game has Diverse Characters | 72 |
+| This game has Diverse Characters | 74 |
 | This game has a Creative Community | 64 |
 | This game is Extremely Fun | 60 |
 | This game has Amazing Characters | 58 |
@@ -608,3 +608,4 @@ Diff (max vs sum): 115
 | 2024-06-09 | 4.67 | - | 81 | 713 |
 | 2024-06-12 | 4.67 | - | 82 | 714 |
 | 2024-06-14 | 4.67 | - | 84 | 718 |
+| 2024-06-15 | 4.67 | - | 84 | 720 |
