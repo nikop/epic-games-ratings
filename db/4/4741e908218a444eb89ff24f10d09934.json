@@ -2,7 +2,7 @@
   "ID": "4741e908218a444eb89ff24f10d09934",
   "Name": "WE ARE FOOTBALL 2024",
   "ProductSlug": "we-are-football-2024-1654a9",
-  "Ranking_Rating": 785,
+  "Ranking_Rating": 932,
   "Ranking_Popularity": 656,
   "Ranking_PopularitySum": 656,
   "Ranking_EOS_Progress": 558,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2024-04-24T13:58:42.6031437+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-05-02T13:02:30.4455915+00:00",
       "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-15T01:50:40.0317915+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -447,9 +453,9 @@
   "FirstSeen": "2024-03-05T20:59:36.7417812+00:00",
   "FirstSeenRating": "2024-04-24T13:58:42.6031435+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:10.4782776+00:00",
-  "LastChanged": "2024-05-02T13:02:30.4455914+00:00",
+  "LastChanged": "2024-06-15T01:50:40.0317913+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:44.3431821+00:00",
   "LastUpdate_AppInfo": "2024-06-11T23:57:13.6737436+00:00",
-  "LastUpdate_Ratings": "2024-06-14T23:58:15.2383115+00:00",
+  "LastUpdate_Ratings": "2024-06-15T01:50:40.0317919+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:44.3432088+00:00"
 }
