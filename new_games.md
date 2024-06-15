@@ -71,7 +71,7 @@
 | [Knight Swap](games/d/d62ad943ddbb4d0b8aa4969f31260bc5.md) | 2024-05-29 | - |  | - | 0 |
 | [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | - |  | - | 0 |
 | [1001 Jigsaw. Cute Cats 2](games/1/1f631325713047fc8ec24312c5516155.md) | 2024-05-29 | - |  | - | - |
-| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 4,996 |
+| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,081,371 | 4.56 | 5,004 |
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2024-05-28 | - |  | - | 0 |
 | [Argonauts Agency 3: Chair of Hephaestus](games/2/29b93abfbd7c4e028999d69deeb9b16d.md) | 2024-05-27 | - |  | - | 0 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | - |  | - | - |
@@ -107,5 +107,3 @@
 | [Solars Dominion](games/0/0c71144a77c14ac9a7d796a4821c8cf8.md) | 2024-05-19 | - |  | - | 0 |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 1 | - | 0 |
 | [Spellcats Auto Card Tactics](games/4/4dadd911cca741d684859a00e813a14b.md) | 2024-05-17 | - |  | - | - |
-| [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | - |  | - | 0 |
-| [Let Me Sleep](games/f/fe8e9a4876a14ee0a2a95b1f49ea443d.md) | 2024-05-16 | - |  | - | - |
