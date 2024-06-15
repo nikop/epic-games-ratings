@@ -2,7 +2,7 @@
   "ID": "2462202651534bf7b4b4e0ea960be8ac",
   "Name": "Tyranny - Gold Edition",
   "ProductSlug": "tyranny",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 1278,
   "RatingHistory": [
     {
@@ -1949,10 +1949,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1484,
       "NumberOfAwardsMax": 748
+    },
+    {
+      "Time": "2024-06-15T03:59:41.9570262+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1485,
+      "NumberOfAwardsMax": 748
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1484,
+  "NumberOfAwards": 1485,
   "NumberOfAwardsMax": 748,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2008,7 +2014,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2034,8 +2040,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2024-06-12T23:59:33.4120266+00:00",
+  "LastChanged": "2024-06-15T03:59:41.9570261+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:18.3554027+00:00",
-  "LastUpdate_Ratings": "2024-06-15T02:58:01.5662813+00:00",
+  "LastUpdate_Ratings": "2024-06-15T03:59:41.9570268+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:49.1472156+00:00"
 }
