@@ -2,8 +2,8 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 584,
-  "Ranking_Popularity": 33,
+  "Ranking_Rating": 583,
+  "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 289,
@@ -13987,10 +13987,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 25108,
       "NumberOfAwardsMax": 15403
+    },
+    {
+      "Time": "2024-06-15T22:59:12.8462603+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 25113,
+      "NumberOfAwardsMax": 15403
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25108,
+  "NumberOfAwards": 25113,
   "NumberOfAwardsMax": 15403,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -14016,7 +14022,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1416
+      "Count": 1421
     },
     {
       "Text": "This game is Highly Recommended",
@@ -47118,9 +47124,9 @@
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2024-06-15T14:59:22.6938591+00:00",
+  "LastChanged": "2024-06-15T22:59:12.8462601+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:21.7584655+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:57:52.9318276+00:00",
-  "LastUpdate_Ratings": "2024-06-15T20:59:43.9844893+00:00",
+  "LastUpdate_Ratings": "2024-06-15T22:59:12.8462608+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:21.7587424+00:00"
 }
