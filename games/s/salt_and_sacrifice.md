@@ -1,7 +1,7 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 944)  
+Rating: 4.31 (Ranked 945)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -346,12 +346,12 @@ Completed: 1,330 (1.93%) (Ranked 158)
 | 2024-03-21 | 68,930 | 1,323 |
 | 2024-04-10 | 69,085 | 1,330 |
 ## Awards
-Max (Character Customization): 1,015  (Ranked 181)  
-Sum: 2,068 (Ranked 235)  
+Max (Character Customization): 1,016  (Ranked 181)  
+Sum: 2,069 (Ranked 235)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,015 |
+| This game has Inclusive Character Customization | 1,016 |
 | This game has Great Boss Battles | 592 |
 | This game is Extremely Fun | 72 |
 | This game has Challenging Combat | 72 |
@@ -589,3 +589,4 @@ Diff (max vs sum): -54
 | 2024-06-11 | 4.31 | - | 1,015 | 2,065 |
 | 2024-06-12 | 4.31 | - | 1,015 | 2,067 |
 | 2024-06-14 | 4.31 | - | 1,015 | 2,068 |
+| 2024-06-15 | 4.31 | - | 1,016 | 2,069 |
