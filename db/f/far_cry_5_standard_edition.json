@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-5",
   "Ranking_Rating": 386,
   "Ranking_Popularity": 125,
-  "Ranking_PopularitySum": 188,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -6937,10 +6937,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 3575,
       "NumberOfAwardsMax": 2137
+    },
+    {
+      "Time": "2024-06-15T15:58:35.7890103+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 3450,
+      "NumberOfAwardsMax": 2137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3575,
+  "NumberOfAwards": 3450,
   "NumberOfAwardsMax": 2137,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7028,8 +7034,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2024-06-14T13:05:15.3708594+00:00",
+  "LastChanged": "2024-06-15T15:58:35.7890102+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:18.830298+00:00",
-  "LastUpdate_Ratings": "2024-06-15T14:00:22.5372318+00:00",
+  "LastUpdate_Ratings": "2024-06-15T15:58:35.7890107+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:05.435571+00:00"
 }
