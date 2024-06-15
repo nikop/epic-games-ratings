@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 346,
   "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 212,
@@ -2005,10 +2005,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 859,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2024-06-14T23:58:07.6425991+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 860,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 859,
+  "NumberOfAwards": 860,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2016,7 +2022,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game is Relaxing",
@@ -18155,9 +18161,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-06-14T13:04:33.3003731+00:00",
+  "LastChanged": "2024-06-14T23:58:07.6425989+00:00",
   "LastChanged_Achievements": "2024-04-10T06:07:10.5486125+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:38.9879249+00:00",
-  "LastUpdate_Ratings": "2024-06-14T21:59:44.4142201+00:00",
+  "LastUpdate_Ratings": "2024-06-14T23:58:07.6425994+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:07:10.5486982+00:00"
 }
