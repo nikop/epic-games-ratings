@@ -2,7 +2,7 @@
   "ID": "14de166bd26f49e2a13e18e1d386777b",
   "Name": "Evil Nun: The Broken Mask",
   "ProductSlug": "evil-nun-the-broken-mask-372461",
-  "Ranking_Rating": 201,
+  "Ranking_Rating": 188,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
   "Ranking_EOS_Progress": 987,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2022-12-30T14:58:38.4709834+00:00",
@@ -136,6 +136,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-15T13:01:37.2619331+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -162,9 +168,9 @@
   "FirstSeen": "2022-10-31T20:02:47.3273278+00:00",
   "FirstSeenRating": "2022-12-30T14:58:38.470983+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5589424+00:00",
-  "LastChanged": "2024-06-14T10:59:36.9109753+00:00",
+  "LastChanged": "2024-06-15T13:01:37.2619329+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:41.7769014+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:58:08.5970317+00:00",
-  "LastUpdate_Ratings": "2024-06-15T10:59:08.6545038+00:00",
+  "LastUpdate_Ratings": "2024-06-15T13:01:37.2619335+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:41.7769055+00:00"
 }
