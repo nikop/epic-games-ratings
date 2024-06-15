@@ -2,9 +2,9 @@
   "ID": "afe2527e29b94db48b2eef984e34d81a",
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 784,
   "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2024-05-17T19:01:00.799761+00:00",
@@ -510,10 +510,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 686,
       "NumberOfAwardsMax": 370
+    },
+    {
+      "Time": "2024-06-15T14:59:34.8767791+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 687,
+      "NumberOfAwardsMax": 370
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 686,
+  "NumberOfAwards": 687,
   "NumberOfAwardsMax": 370,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -539,7 +545,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -584,7 +590,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
-  "LastChanged": "2024-06-15T11:59:06.2685118+00:00",
+  "LastChanged": "2024-06-15T14:59:34.8767789+00:00",
   "LastUpdate_AppInfo": "2024-06-13T17:57:19.3354389+00:00",
-  "LastUpdate_Ratings": "2024-06-15T13:58:00.9593731+00:00"
+  "LastUpdate_Ratings": "2024-06-15T14:59:34.8767796+00:00"
 }
