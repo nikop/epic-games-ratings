@@ -2,7 +2,7 @@
   "ID": "turtle",
   "Name": "Maneater",
   "ProductSlug": "maneater",
-  "Ranking_Rating": 680,
+  "Ranking_Rating": 679,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 987,
@@ -5700,10 +5700,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 18866,
       "NumberOfAwardsMax": 14248
+    },
+    {
+      "Time": "2024-06-15T06:57:30.7551805+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 18867,
+      "NumberOfAwardsMax": 14248
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18866,
+  "NumberOfAwards": 18867,
   "NumberOfAwardsMax": 14248,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5789,7 +5795,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 103
+      "Count": 104
     }
   ],
   "EOS_Progressed": 0,
@@ -5803,8 +5809,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2024-06-15T03:01:20.2833483+00:00",
+  "LastChanged": "2024-06-15T06:57:30.7551804+00:00",
   "LastUpdate_AppInfo": "2024-06-09T20:57:06.7947113+00:00",
-  "LastUpdate_Ratings": "2024-06-15T04:59:14.2089594+00:00",
+  "LastUpdate_Ratings": "2024-06-15T06:57:30.755181+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:12.4871749+00:00"
 }
