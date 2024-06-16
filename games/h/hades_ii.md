@@ -3,9 +3,9 @@
 [View Rawdata](../../db/h/hades_ii.json)  
 Rating: 4.89 (Ranked 10)  
 ## Awards
-Max (Character Customization): 97  (Ranked 436)  
+Max (Character Customization): 97  (Ranked 437)  
 Sum: 169 (Ranked 496)  
-Diff (max vs sum): -60  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 97 |
