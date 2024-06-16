@@ -4,7 +4,7 @@
   "ProductSlug": "dark-and-darker-qa-c1e629",
   "Ranking_Rating": 1040,
   "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 336,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -300,10 +300,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 762,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-06-16T11:59:08.6654253+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 778,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 762,
+  "NumberOfAwards": 778,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -335,7 +341,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 65
+      "Count": 81
     },
     {
       "Text": "This game has a Competitive Community",
@@ -386,8 +392,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-06-16T10:57:50.270659+00:00",
+  "LastChanged": "2024-06-16T11:59:08.6654251+00:00",
   "LastUpdate_AppInfo": "2024-06-09T11:57:11.0497212+00:00",
-  "LastUpdate_Ratings": "2024-06-16T10:57:50.2706596+00:00",
+  "LastUpdate_Ratings": "2024-06-16T11:59:08.6654256+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:58.3203397+00:00"
 }
