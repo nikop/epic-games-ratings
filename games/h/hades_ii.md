@@ -3,12 +3,12 @@
 [View Rawdata](../../db/h/hades_ii.json)  
 Rating: 4.90 (Ranked 7)  
 ## Awards
-Max (Character Customization): 95  (Ranked 443)  
-Sum: 164 (Ranked 497)  
-Diff (max vs sum): -54  
+Max (Character Customization): 97  (Ranked 435)  
+Sum: 166 (Ranked 497)  
+Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 95 |
+| This game has Inclusive Character Customization | 97 |
 | This game has Great Boss Battles | 69 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -43,3 +43,4 @@ Diff (max vs sum): -54
 | 2024-06-11 | 4.90 | 91 | 158 |
 | 2024-06-13 | 4.90 | 93 | 162 |
 | 2024-06-15 | 4.90 | 95 | 164 |
+| 2024-06-16 | 4.90 | 97 | 166 |
