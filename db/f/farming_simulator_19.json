@@ -17367,10 +17367,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 59771,
       "NumberOfAwardsMax": 9831
+    },
+    {
+      "Time": "2024-06-16T17:58:17.6834574+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 59784,
+      "NumberOfAwardsMax": 9831
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59771,
+  "NumberOfAwards": 59784,
   "NumberOfAwardsMax": 9831,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -17378,7 +17384,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6658
+      "Count": 6662
     },
     {
       "Text": "This game is Great for Beginners",
@@ -17402,13 +17408,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 6463
+      "Count": 6465
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6233
+      "Count": 6235
     },
     {
       "Text": "This game is Highly Recommended",
@@ -17420,13 +17426,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6231
+      "Count": 6233
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5774
+      "Count": 5777
     },
     {
       "Text": "This game has a Creative Community",
@@ -17452,8 +17458,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2024-06-16T06:58:34.8276205+00:00",
+  "LastChanged": "2024-06-16T17:58:17.6834573+00:00",
   "LastUpdate_AppInfo": "2024-06-09T21:57:37.8150571+00:00",
-  "LastUpdate_Ratings": "2024-06-16T15:59:43.9535129+00:00",
+  "LastUpdate_Ratings": "2024-06-16T17:58:17.683458+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:18.3010006+00:00"
 }

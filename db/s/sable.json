@@ -2,7 +2,7 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Ranking_Rating": 602,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 568,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 108,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "NumberOfRatings": 43,
   "RatingHistory": [
     {
@@ -837,10 +837,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 240,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-06-16T17:57:32.4853306+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 241,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 240,
+  "NumberOfAwards": 241,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -866,7 +872,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -33878,9 +33884,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
-  "LastChanged": "2024-06-14T21:58:05.9862341+00:00",
+  "LastChanged": "2024-06-16T17:57:32.4853304+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:32.0939067+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:05.9464778+00:00",
-  "LastUpdate_Ratings": "2024-06-16T15:58:51.3233601+00:00",
+  "LastUpdate_Ratings": "2024-06-16T17:57:32.4853309+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:32.094084+00:00"
 }
