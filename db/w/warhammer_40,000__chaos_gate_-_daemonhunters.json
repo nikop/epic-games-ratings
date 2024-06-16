@@ -2,7 +2,7 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 245,
@@ -1009,10 +1009,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 544,
       "NumberOfAwardsMax": 250
+    },
+    {
+      "Time": "2024-06-16T22:58:30.9612944+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 545,
+      "NumberOfAwardsMax": 250
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 544,
+  "NumberOfAwards": 545,
   "NumberOfAwardsMax": 250,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1056,7 +1062,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Relaxing",
@@ -6978,9 +6984,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2024-06-14T20:00:05.3315612+00:00",
+  "LastChanged": "2024-06-16T22:58:30.9612943+00:00",
   "LastChanged_Achievements": "2024-04-10T06:02:08.910641+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:25.0322177+00:00",
-  "LastUpdate_Ratings": "2024-06-16T20:58:53.2134699+00:00",
+  "LastUpdate_Ratings": "2024-06-16T22:58:30.9612948+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:08.910708+00:00"
 }

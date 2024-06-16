@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.57 (Ranked 522)  
+Rating: 4.57 (Ranked 523)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -330,13 +330,13 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-10 | 4,126 | 0 |
 ## Awards
 Max (Character Customization): 250  (Ranked 312)  
-Sum: 544 (Ranked 377)  
+Sum: 545 (Ranked 377)  
 Diff (max vs sum): -65  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 250 |
 | This game is Extremely Fun | 38 |
-| This game is Highly Recommended | 37 |
+| This game is Highly Recommended | 38 |
 | This game has Amazing Storytelling | 35 |
 | This game has Diverse Characters | 35 |
 | This game has Amazing Characters | 34 |
@@ -499,3 +499,4 @@ Diff (max vs sum): -65
 | 2024-06-08 | 4.57 | - | 249 | 542 |
 | 2024-06-12 | 4.57 | - | 249 | 543 |
 | 2024-06-14 | 4.57 | - | 250 | 544 |
+| 2024-06-16 | 4.57 | - | 250 | 545 |

@@ -4,7 +4,7 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 188,
   "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 25,
@@ -2340,10 +2340,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 1202,
       "NumberOfAwardsMax": 203
+    },
+    {
+      "Time": "2024-06-16T23:00:32.0477382+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 1203,
+      "NumberOfAwardsMax": 203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1202,
+  "NumberOfAwards": 1203,
   "NumberOfAwardsMax": 203,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2369,7 +2375,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 144
+      "Count": 145
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11972,9 +11978,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-06-14T22:57:50.2442521+00:00",
+  "LastChanged": "2024-06-16T23:00:32.047738+00:00",
   "LastChanged_Achievements": "2024-04-10T06:04:55.5135975+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:55.9725691+00:00",
-  "LastUpdate_Ratings": "2024-06-16T21:57:43.7683525+00:00",
+  "LastUpdate_Ratings": "2024-06-16T23:00:32.0477388+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:55.5136477+00:00"
 }
