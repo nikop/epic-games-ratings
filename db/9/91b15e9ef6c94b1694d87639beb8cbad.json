@@ -3,8 +3,8 @@
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
   "Ranking_Rating": 1033,
-  "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 331,
+  "Ranking_Popularity": 401,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -312,12 +312,18 @@
       "Rating": 4.22,
       "NumberOfAwards": 799,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-06-16T18:57:12.5115183+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 858,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 799,
-  "NumberOfAwardsMax": 97,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 858,
+  "NumberOfAwardsMax": 116,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -335,7 +341,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 89
+      "Count": 116
     },
     {
       "Text": "This game is Highly Recommended",
@@ -359,13 +365,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 58
+      "Count": 77
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 64
+      "Count": 77
     },
     {
       "Text": "This game has Amazing Characters",
@@ -398,8 +404,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-06-16T16:58:32.147904+00:00",
+  "LastChanged": "2024-06-16T18:57:12.511518+00:00",
   "LastUpdate_AppInfo": "2024-06-16T13:00:59.3551343+00:00",
-  "LastUpdate_Ratings": "2024-06-16T16:58:32.1479046+00:00",
+  "LastUpdate_Ratings": "2024-06-16T18:57:12.5115186+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:01:58.3203397+00:00"
 }
