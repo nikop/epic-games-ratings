@@ -2,9 +2,9 @@
   "ID": "9afbc4780d874152a1c66d5fec0967d4",
   "Name": "Northgard",
   "ProductSlug": "northgard",
-  "Ranking_Rating": 402,
+  "Ranking_Rating": 403,
   "Ranking_Popularity": 520,
-  "Ranking_PopularitySum": 458,
+  "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -859,10 +859,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-06-16T09:58:53.4604167+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254,
+  "NumberOfAwards": 255,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -882,7 +888,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Extremely Fun",
@@ -932,8 +938,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2024-06-15T07:57:22.1220113+00:00",
+  "LastChanged": "2024-06-16T09:58:53.4604166+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:58:16.8726458+00:00",
-  "LastUpdate_Ratings": "2024-06-16T07:59:47.2274112+00:00",
+  "LastUpdate_Ratings": "2024-06-16T09:58:53.4604171+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:06:04.955051+00:00"
 }
