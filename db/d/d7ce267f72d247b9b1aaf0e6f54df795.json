@@ -3,8 +3,8 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 188,
-  "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 202,
+  "Ranking_Popularity": 201,
+  "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3023,18 +3023,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 3099,
       "NumberOfAwardsMax": 792
+    },
+    {
+      "Time": "2024-06-16T08:59:33.3606519+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 3153,
+      "NumberOfAwardsMax": 817
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3099,
-  "NumberOfAwardsMax": 792,
+  "NumberOfAwards": 3153,
+  "NumberOfAwardsMax": 817,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 792
+      "Count": 817
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3046,7 +3052,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 240
+      "Count": 249
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3100,7 +3106,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 165
+      "Count": 176
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3118,7 +3124,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 164
+      "Count": 173
     }
   ],
   "EOS_Progressed": 0,
@@ -3133,8 +3139,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-16T07:57:56.4895785+00:00",
+  "LastChanged": "2024-06-16T08:59:33.3606517+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:43.9534656+00:00",
-  "LastUpdate_Ratings": "2024-06-16T07:57:56.4895791+00:00",
+  "LastUpdate_Ratings": "2024-06-16T08:59:33.3606521+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }

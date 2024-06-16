@@ -2,7 +2,7 @@
   "ID": "e1067ce994e24a4abbe36247eaa26bfd",
   "Name": "Hob",
   "ProductSlug": "hob",
-  "Ranking_Rating": 543,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
   "Ranking_EOS_Progress": 987,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 466,
   "RatingHistory": [
     {
@@ -511,6 +511,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-16T08:59:52.3675778+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -528,8 +534,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:19.3157268+00:00",
-  "LastChanged": "2024-05-16T04:59:07.0379908+00:00",
+  "LastChanged": "2024-06-16T08:59:52.3675776+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:58.046654+00:00",
-  "LastUpdate_Ratings": "2024-06-16T07:58:17.8415762+00:00",
+  "LastUpdate_Ratings": "2024-06-16T08:59:52.3675781+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:32.8132905+00:00"
 }
