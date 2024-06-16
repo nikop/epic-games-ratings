@@ -74,7 +74,7 @@
 | [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 10 | - | 0 |
 | [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 17 | - | 0 |
 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 47 | 4.24 | 0 |
-| [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 41 | 4.62 | 0 |
+| [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 41 | 4.63 | 0 |
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 29 | 4.50 | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | 41 (1,000 XP) | 58 | - | 0 |
@@ -968,7 +968,7 @@
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 121,207 | 4.53 | 35 |
 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 2021-09-21 | 41 (1,000 XP) | 431,545 | 4.70 | 1,387 |
 | [Severed Steel](games/s/severed_steel.md) | 2021-09-17 | 52 (1,000 XP) | 661,356 | 4.69 | 636 |
-| [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 264,148 | 4.29 | 112 |
+| [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 264,148 | 4.28 | 112 |
 | [Flat Heroes](games/f/flat_heroes.md) | 2021-09-15 | 44 (1,000 XP) | 704 | - | 0 |
 | [Dice Legacy](games/d/dice_legacy.md) | 2021-09-09 | 45 (1,000 XP) | 1,443 | 4.29 | 0 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 2021-09-02 | 116 (1,150 XP) | 13,841 | 4.76 | 1,855 |
