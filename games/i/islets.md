@@ -3,9 +3,9 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.71 (Ranked 214)  
 ## Awards
-Max (Quickly Understood Controls): 37  (Ranked 556)  
+Max (Quickly Understood Controls): 37  (Ranked 557)  
 Sum: 253 (Ranked 459)  
-Diff (max vs sum): 97  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 37 |

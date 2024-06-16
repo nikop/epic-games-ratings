@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.50 (Ranked 653)  
+Rating: 4.50 (Ranked 654)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -362,8 +362,8 @@ Completed: 11 (0.24%) (Ranked 313)
 | 2024-03-21 | 4,549 | 11 |
 | 2024-04-10 | 4,620 | 11 |
 ## Awards
-Max (Great for Beginners): 48  (Ranked 527)  
-Sum: 48 (Ranked 585)  
+Max (Great for Beginners): 48  (Ranked 528)  
+Sum: 48 (Ranked 586)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
