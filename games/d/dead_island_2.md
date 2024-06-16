@@ -350,12 +350,12 @@ Completed: 2,869 (0.34%) (Ranked 289)
 | 2024-03-21 | 841,520 | 2,808 |
 | 2024-04-10 | 851,780 | 2,869 |
 ## Awards
-Max (Great Boss Battles): 15,403  (Ranked 34)  
-Sum: 25,116 (Ranked 63)  
-Diff (max vs sum): -29  
+Max (Great Boss Battles): 15,431  (Ranked 33)  
+Sum: 25,144 (Ranked 63)  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 15,403 |
+| This game has Great Boss Battles | 15,431 |
 | This game is Great for Beginners | 1,421 |
 | This game has Diverse Characters | 1,336 |
 | This game has Quickly Understood Controls | 1,206 |
@@ -789,4 +789,4 @@ Diff (max vs sum): -29
 | 2024-06-13 | 4.54 | 15,364 | 25,030 |
 | 2024-06-14 | 4.54 | 15,385 | 25,069 |
 | 2024-06-15 | 4.54 | 15,403 | 25,113 |
-| 2024-06-16 | 4.54 | 15,403 | 25,116 |
+| 2024-06-16 | 4.54 | 15,431 | 25,144 |
