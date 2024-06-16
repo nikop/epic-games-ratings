@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-4",
   "Ranking_Rating": 475,
   "Ranking_Popularity": 287,
-  "Ranking_PopularitySum": 322,
+  "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -1355,6 +1355,6 @@
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "LastChanged": "2024-06-16T07:00:11.6352332+00:00",
   "LastUpdate_AppInfo": "2024-06-13T20:57:19.84828+00:00",
-  "LastUpdate_Ratings": "2024-06-16T17:59:20.2747893+00:00",
+  "LastUpdate_Ratings": "2024-06-16T19:58:38.011337+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:08.5050159+00:00"
 }
