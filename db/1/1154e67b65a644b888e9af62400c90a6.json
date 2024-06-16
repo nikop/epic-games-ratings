@@ -2,7 +2,7 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 602,
   "Ranking_Popularity": 109,
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -8927,10 +8927,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10611,
       "NumberOfAwardsMax": 3306
+    },
+    {
+      "Time": "2024-06-16T21:58:24.2506578+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 10619,
+      "NumberOfAwardsMax": 3306
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10611,
+  "NumberOfAwards": 10619,
   "NumberOfAwardsMax": 3306,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8944,13 +8950,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 674
+      "Count": 676
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1004
+      "Count": 1006
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8992,7 +8998,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 592
+      "Count": 596
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9019,8 +9025,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-06-16T14:59:59.4902498+00:00",
+  "LastChanged": "2024-06-16T21:58:24.2506576+00:00",
   "LastUpdate_AppInfo": "2024-06-12T13:03:03.1730148+00:00",
-  "LastUpdate_Ratings": "2024-06-16T19:59:54.6226663+00:00",
+  "LastUpdate_Ratings": "2024-06-16T21:58:24.2506585+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:24.3882364+00:00"
 }

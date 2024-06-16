@@ -2,9 +2,9 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 170,
+  "Ranking_Rating": 188,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 201,
+  "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -3047,10 +3047,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 3188,
       "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2024-06-16T21:59:20.5453105+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 3213,
+      "NumberOfAwardsMax": 817
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3188,
+  "NumberOfAwards": 3213,
   "NumberOfAwardsMax": 817,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3100,7 +3106,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 200
+      "Count": 212
     },
     {
       "Text": "This game has Competitive Players",
@@ -3112,7 +3118,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 177
+      "Count": 190
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3157,8 +3163,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-16T15:57:30.5160861+00:00",
+  "LastChanged": "2024-06-16T21:59:20.5453103+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:43.9534656+00:00",
-  "LastUpdate_Ratings": "2024-06-16T20:00:35.6507231+00:00",
+  "LastUpdate_Ratings": "2024-06-16T21:59:20.5453109+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
