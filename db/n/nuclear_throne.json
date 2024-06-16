@@ -4,7 +4,7 @@
   "ProductSlug": "nuclear-throne",
   "Ranking_Rating": 108,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -2671,10 +2671,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1522,
       "NumberOfAwardsMax": 449
+    },
+    {
+      "Time": "2024-06-16T13:59:09.8089487+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1524,
+      "NumberOfAwardsMax": 449
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1522,
+  "NumberOfAwards": 1524,
   "NumberOfAwardsMax": 449,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2688,7 +2694,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 383
+      "Count": 385
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2768,8 +2774,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2024-06-16T08:59:56.9480219+00:00",
+  "LastChanged": "2024-06-16T13:59:09.8089485+00:00",
   "LastUpdate_AppInfo": "2024-06-09T19:56:59.8010106+00:00",
-  "LastUpdate_Ratings": "2024-06-16T13:01:22.5036442+00:00",
+  "LastUpdate_Ratings": "2024-06-16T13:59:09.808949+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:47.4583605+00:00"
 }
