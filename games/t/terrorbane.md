@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First contact | 104.00% | ~51 |
-| System shocked | 65.00% | ~32 |
-| Exposé | 59.00% | ~29 |
-| Blade of prophecy | 45.00% | ~22 |
-| Normal end | 43.00% | ~21 |
-| C Rank Bug-catcher | 41.00% | ~20 |
-| Armed robbery | 35.00% | ~17 |
-| Never learn | 29.00% | ~14 |
-| B Rank Bug-catcher | 27.00% | ~13 |
+| First contact | 102.00% | ~52 |
+| System shocked | 63.00% | ~32 |
+| Exposé | 57.00% | ~29 |
+| Blade of prophecy | 43.00% | ~22 |
+| Normal end | 41.00% | ~21 |
+| C Rank Bug-catcher | 39.00% | ~20 |
+| Armed robbery | 33.00% | ~17 |
+| Never learn | 27.00% | ~14 |
+| B Rank Bug-catcher | 25.00% | ~13 |
 | Secret Admirer | 18.00% | ~9 |
 | Errorbane | 16.00% | ~8 |
 | Bugged, not stupid | 14.00% | ~7 |
@@ -30,8 +30,8 @@
 | Arcade master | 2.00% | ~1 |
 | Real completionist | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 656)  
-Completed: 1 (2.04%) (Ranked 155)  
+Progressed: 51 (Ranked 710)  
+Completed: 1 (1.96%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -51,6 +51,7 @@ Completed: 1 (2.04%) (Ranked 155)
 | 2024-01-19 | 46 | 1 |
 | 2024-01-22 | 47 | 1 |
 | 2024-03-21 | 49 | 1 |
+| 2024-06-17 | 51 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

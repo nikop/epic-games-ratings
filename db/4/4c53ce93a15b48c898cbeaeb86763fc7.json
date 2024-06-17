@@ -2,10 +2,10 @@
   "ID": "4c53ce93a15b48c898cbeaeb86763fc7",
   "Name": "Protector Goddess Fight",
   "ProductSlug": "the-five-sistersinlaw-526295",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 957,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-24T00:00:00+00:00",
     "PcReleaseDate": "2024-05-24T00:00:00+00:00",
@@ -23,16 +23,234 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:07:43.046452+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:07:43.0464569+00:00",
+  "TotalAchievements": 25,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BQEY",
+      "SetID": "co1j0e5",
+      "Name": "meet by chance",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHLJ",
+      "SetID": "co1j0e5",
+      "Name": "Return to Lin\u0027s house",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DJZM",
+      "SetID": "co1j0e5",
+      "Name": "Authorities",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DZ",
+      "SetID": "co1j0e5",
+      "Name": "Friend circle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JHQS",
+      "SetID": "co1j0e5",
+      "Name": "Fun after drinking",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LJY",
+      "SetID": "co1j0e5",
+      "Name": "Lin Jiayi",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LMW",
+      "SetID": "co1j0e5",
+      "Name": "Lin Miaowei",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LMY",
+      "SetID": "co1j0e5",
+      "Name": "Lin Miaoya",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LWW",
+      "SetID": "co1j0e5",
+      "Name": "Lin WanWan",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LYC",
+      "SetID": "co1j0e5",
+      "Name": "Lin Yichun",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MJCZ",
+      "SetID": "co1j0e5",
+      "Name": "Agile operation",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SJGLDS",
+      "SetID": "co1j0e5",
+      "Name": "Time management master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SL",
+      "SetID": "co1j0e5",
+      "Name": "Private chat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "alllH0",
+      "SetID": "co1j0e5",
+      "Name": "family",
+      "Percentage": 50,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "jiayiB0",
+      "SetID": "co1j0e5",
+      "Name": "Pheasant",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "jiayiH0",
+      "SetID": "co1j0e5",
+      "Name": "Double Horge",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "miaoweiB0",
+      "SetID": "co1j0e5",
+      "Name": "Prison disaster",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "miaoweiB1",
+      "SetID": "co1j0e5",
+      "Name": "untouchable",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "miaoweiH0",
+      "SetID": "co1j0e5",
+      "Name": "Hold up with you",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "miaoyaB0",
+      "SetID": "co1j0e5",
+      "Name": "Dance",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "miaoyaH0",
+      "SetID": "co1j0e5",
+      "Name": "Calmly",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "wanwanB0",
+      "SetID": "co1j0e5",
+      "Name": "Dream broken",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "wanwanH0",
+      "SetID": "co1j0e5",
+      "Name": "Dream not to give up",
+      "Percentage": 50,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "yichunB0",
+      "SetID": "co1j0e5",
+      "Name": "Far away",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "yichunH0",
+      "SetID": "co1j0e5",
+      "Name": "Brave",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "co1j0e5",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:07:43.0464569+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:07:43.0464517+00:00",
   "LastUpdate_AppInfo": "2024-06-11T15:57:06.7115607+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:11.3404342+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:27.3072563+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:43.0471212+00:00"
 }

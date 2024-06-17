@@ -2,10 +2,10 @@
   "ID": "2949830a102e4b6aad990f6ae31e758f",
   "Name": "Little Wu Chang",
   "ProductSlug": "littlewuchang-19c539",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-20T02:00:00+00:00",
     "PcReleaseDate": "2024-06-20T02:00:00+00:00",
@@ -23,26 +23,194 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:11:46.552975+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:11:46.5529774+00:00",
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllMagics",
+      "SetID": "c20d215",
+      "Name": "Master of All Spells",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllStones",
+      "SetID": "c20d215",
+      "Name": "Jade Collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllWayBackHome",
+      "SetID": "c20d215",
+      "Name": "Heaven, Earth, Metal, Wood, Water, Fire, and Earth",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllWeapons",
+      "SetID": "c20d215",
+      "Name": "Master of All Weapons",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AttrUp",
+      "SetID": "c20d215",
+      "Name": "I\u0027ve Become Stronger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BestEmployee",
+      "SetID": "c20d215",
+      "Name": "Best Employee",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "End_1",
+      "SetID": "c20d215",
+      "Name": "Diamond Body",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "End_2",
+      "SetID": "c20d215",
+      "Name": "Invasion of Demons",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "End_3",
+      "SetID": "c20d215",
+      "Name": "Descent of the Heavenly Deity",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EquipStone",
+      "SetID": "c20d215",
+      "Name": "Ah! Beautiful Jade",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FourKings",
+      "SetID": "c20d215",
+      "Name": "The Four Heavenly Kings",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PerfectBody",
+      "SetID": "c20d215",
+      "Name": "Perfect Body",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "backHomeWay",
+      "SetID": "c20d215",
+      "Name": "The Way Home",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "godBack",
+      "SetID": "c20d215",
+      "Name": "The Heavenly King\u0027s Return",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kill\u05A9\uFFFD\uBFAB",
+      "SetID": "c20d215",
+      "Name": "Defeat the Spider Spirit",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kill\uFFFD\uCEA2\uFFFD\uFFFD",
+      "SetID": "c20d215",
+      "Name": "Defeat the Red Imp",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kill\uFFFD\uFFFD\uFFFD\uFFFD",
+      "SetID": "c20d215",
+      "Name": "Defeat the Dragon King",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kill\uFFFD\uFFFD\uFFFD\uFFFD\u0163\u0377",
+      "SetID": "c20d215",
+      "Name": "Greed",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "kill\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD\uFFFD",
+      "SetID": "c20d215",
+      "Name": "God Blocker, God Slayer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlockCatchGhost",
+      "SetID": "c20d215",
+      "Name": "The Job at Hand",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c20d215",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:08:16.1209933+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:31.1273562+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:11:46.5529747+00:00",
   "LastUpdate_AppInfo": "2024-06-14T15:57:15.1152579+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:44.9558666+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:31.1273591+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:08.8548079+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:46.553671+00:00"
 }

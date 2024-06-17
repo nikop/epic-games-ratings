@@ -2,10 +2,10 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 602,
+  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
-  "EOS_Completed": 14,
+  "EOS_Progressed": 125,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.5,
+  "EOS_Completed_Percentage": 12.8,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -519,6 +519,11 @@
       "Time": "2024-04-10T06:05:21.4783759+00:00",
       "NumProgressed": 112,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-06-17T16:15:11.0274448+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -529,17 +534,17 @@
       "ID": "01_ACHIEVEMENT_Level_01",
       "SetID": "6opd2eg",
       "Name": "First tower built",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 121
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 98
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
@@ -547,7 +552,7 @@
       "Name": "A new challenge",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
@@ -555,39 +560,39 @@
       "Name": "I see through deception",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 60
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 51,
+      "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 125,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     },
     {
       "ID": "08_ACHIEVEMENT_Game_Complete",
       "SetID": "6opd2eg",
       "Name": "Finish the game",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 150,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "09_ACHIEVEMENT_Complete_Master",
@@ -595,15 +600,15 @@
       "Name": "Hanoi Master",
       "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 145,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
@@ -611,21 +616,21 @@
       "Name": "Shortcut Master",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 112,
-      "Completed": 14
+      "Progressed": 125,
+      "Completed": 16
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:21.4783753+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:11.0274443+00:00",
   "LastUpdate_AppInfo": "2024-06-11T23:57:12.1944258+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:56.6980884+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:21.4783854+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:55.839823+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:11.0274547+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9cfd154729b44c129f0cb8bbdc7ff7bb",
   "Name": "VIDEOVERSE",
   "ProductSlug": "videoverse-3e126a",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-19T10:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -25,17 +25,379 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:13.7790187+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:13.7790202+00:00",
+  "TotalAchievements": 43,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "accessibility",
+      "SetID": "49coljn",
+      "Name": "It Matters",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "allthemes",
+      "SetID": "49coljn",
+      "Name": "Variety Is The Spice Of Life",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chapter1",
+      "SetID": "49coljn",
+      "Name": "Welcome To Videoverse",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chapter2",
+      "SetID": "49coljn",
+      "Name": "A Friend Request",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chapter3",
+      "SetID": "49coljn",
+      "Name": "Growing Closer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chapter4",
+      "SetID": "49coljn",
+      "Name": "Butterflies",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chapter5",
+      "SetID": "49coljn",
+      "Name": "Return To Videoverse",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chapter6",
+      "SetID": "49coljn",
+      "Name": "Left Behind",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chapter7",
+      "SetID": "49coljn",
+      "Name": "Anxiety",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "chapter8",
+      "SetID": "49coljn",
+      "Name": "Playing Games",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "community",
+      "SetID": "49coljn",
+      "Name": "Don\u2019t Shoot The Messenger",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "creep",
+      "SetID": "49coljn",
+      "Name": "Shark Bite",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "darthvalentineban",
+      "SetID": "49coljn",
+      "Name": "The Dark Side",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "emoemmett",
+      "SetID": "49coljn",
+      "Name": "Em-otional",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "endbench",
+      "SetID": "49coljn",
+      "Name": "In The Crowd",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "endtrain",
+      "SetID": "49coljn",
+      "Name": "Empty Seat",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "enduncle",
+      "SetID": "49coljn",
+      "Name": "The TRUTH",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ffend",
+      "SetID": "49coljn",
+      "Name": "Ready For Feudal Fantasy II: Fall Of Hanzo",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ffspoilt",
+      "SetID": "49coljn",
+      "Name": "!SPOILERZ!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "frienddecline",
+      "SetID": "49coljn",
+      "Name": "First Impressions",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "friendfp",
+      "SetID": "49coljn",
+      "Name": "So Fluffy!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "frienduncle",
+      "SetID": "49coljn",
+      "Name": "Rumours From A Relative",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "gamekmk",
+      "SetID": "49coljn",
+      "Name": "This Is Embarrassing...",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "gamesentence",
+      "SetID": "49coljn",
+      "Name": "Full Stop",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "graphics",
+      "SetID": "49coljn",
+      "Name": "It\u2019s My Passion!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "highcommunity",
+      "SetID": "49coljn",
+      "Name": "Max Community",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "jellyfish",
+      "SetID": "49coljn",
+      "Name": "A Remake Of The Classic Jellyfish Title!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "markillban",
+      "SetID": "49coljn",
+      "Name": "MarKilled",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "markunposter",
+      "SetID": "49coljn",
+      "Name": "A Kickass Poster!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "markusroute",
+      "SetID": "49coljn",
+      "Name": "Team MarKun666",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "platonic",
+      "SetID": "49coljn",
+      "Name": "Best Of Friends",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "romantic",
+      "SetID": "49coljn",
+      "Name": "Teenage Crush",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "theend",
+      "SetID": "49coljn",
+      "Name": "When Emmett Met Violet",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "themelawful",
+      "SetID": "49coljn",
+      "Name": "Lawful Good",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "themelove",
+      "SetID": "49coljn",
+      "Name": "Lots Of Love!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "tpyp",
+      "SetID": "49coljn",
+      "Name": "It Came Recommended",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "videoversegay",
+      "SetID": "49coljn",
+      "Name": "Belongs To The Gays!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "vivimock",
+      "SetID": "49coljn",
+      "Name": "Shy Guy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "warning",
+      "SetID": "49coljn",
+      "Name": "Potty Mouth",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "zalorblocks",
+      "SetID": "49coljn",
+      "Name": "Friendship Over",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "zalorgossip",
+      "SetID": "49coljn",
+      "Name": "I Didn\u2019t Think You\u2019d Find Out",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "zalorname",
+      "SetID": "49coljn",
+      "Name": "Could It Be...?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "zalorroute",
+      "SetID": "49coljn",
+      "Name": "Team Zalor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "49coljn",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-08T02:58:52.6974245+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:13.7790201+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:13.7790185+00:00",
   "LastUpdate_AppInfo": "2024-06-13T13:02:46.91346+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:34.4595134+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:01:44.6819147+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:13.7796045+00:00"
 }

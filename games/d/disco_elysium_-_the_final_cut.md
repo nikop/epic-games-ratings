@@ -6,49 +6,49 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~40,333 |
-| Biggest Communism Builder | 24.00% | ~34,571 |
-| The World's Most Laughable Centrist | 20.00% | ~28,809 |
-| Il Coppo Del'Arte! | 18.00% | ~25,928 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~23,047 |
-| Hyperstellar Law Official | 15.00% | ~21,607 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~20,166 |
-| Gurdi-Ball Is Lit | 14.00% | ~20,166 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,726 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,845 |
-| Unbelievably Boring **** | 9.00% | ~12,964 |
-| Enemy Of The Physical Realm | 9.00% | ~12,964 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,964 |
-| Hardie's Heroes | 6.00% | ~8,643 |
-| The Lawbringer | 4.00% | ~5,762 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,762 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,321 |
-| Bother Kim After Hours | 3.00% | ~4,321 |
-| Baddest Of the Bad Cops | 2.00% | ~2,881 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,881 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,881 |
-| Wheel of Pleasure and Light | 2.00% | ~2,881 |
-| Massive Torque Dork | 1.00% | ~1,440 |
-| Avowed Inframaterialist | 1.00% | ~1,440 |
-| Venture into the HARDCORE | 0.90% | ~1,296 |
-| Real Musor | 0.90% | ~1,296 |
-| Baddest Brow in Town | 0.80% | ~1,152 |
-| Committee of la Responsabilité | 0.80% | ~1,152 |
-| Networthy Individual | 0.70% | ~1,008 |
-| Leopard Mindset | 0.60% | ~864 |
-| Modus: Mullen | 0.30% | ~432 |
-| Palerunner | 0.30% | ~432 |
-| Cause a ****storm | 0.20% | ~288 |
-| True Detective | 0.20% | ~288 |
-| The Icebreaker | 0.20% | ~288 |
-| The Most Honourable Cop in The Land | 0.10% | ~144 |
-| Gluten-Free Topping Pie | 0.10% | ~144 |
-| Get Kim to Wear *The Jacket* | 0.10% | ~144 |
-| Medal dispenser | 0.10% | ~144 |
-| What body? | 0.10% | ~144 |
+| Goodest Of The Good Cops | 0.40% | ~585 |
+| Biggest Communism Builder | 0.30% | ~439 |
+| The World's Most Laughable Centrist | 0.30% | ~439 |
+| Il Coppo Del'Arte! | 0.20% | ~293 |
+| Baddest Hustler In The Neoliberal Hood | 0.20% | ~293 |
+| Literally The Sorriest Cop On Earth | 0.20% | ~293 |
+| Hyperstellar Law Official | 0.20% | ~293 |
+| Truly Rabid *Traditionalist* | 0.20% | ~293 |
+| Recruit Detective Kim Kitsuragi | 0.20% | ~293 |
+| Gurdi-Ball Is Lit | 0.20% | ~293 |
+| Baddest Brow in Town | 0.10% | ~146 |
+| Cause a ****storm | 0.10% | ~146 |
+| Committee of la Responsabilité | 0.10% | ~146 |
+| The Opener Of The Eighth Seal | 0.10% | ~146 |
+| Baddest Of the Bad Cops | 0.10% | ~146 |
+| Unbelievably Boring **** | 0.10% | ~146 |
+| Enemy Of The Physical Realm | 0.10% | ~146 |
+| Massive Torque Dork | 0.10% | ~146 |
+| The Most Honourable Cop in The Land | 0.10% | ~146 |
+| The Lawbringer | 0.10% | ~146 |
+| Expert Advanced Remote Viewer | 0.10% | ~146 |
+| Recruit Detective Kuuno de Ruyter | 0.10% | ~146 |
+| The Figurines Won't Win Her Back | 0.10% | ~146 |
+| Gluten-Free Topping Pie | 0.10% | ~146 |
+| True Detective | 0.10% | ~146 |
+| Venture into the HARDCORE | 0.10% | ~146 |
+| Hardie's Heroes | 0.10% | ~146 |
+| The Icebreaker | 0.10% | ~146 |
+| Avowed Inframaterialist | 0.10% | ~146 |
+| Bother Kim After Hours | 0.10% | ~146 |
+| Get Kim to Wear *The Jacket* | 0.10% | ~146 |
+| Leopard Mindset | 0.10% | ~146 |
+| Medal dispenser | 0.10% | ~146 |
+| Modus: Mullen | 0.10% | ~146 |
+| Networthy Individual | 0.10% | ~146 |
+| Palerunner | 0.10% | ~146 |
+| Wheel of Pleasure and Light | 0.10% | ~146 |
+| Fairweather t-500 Vitreous Enamel | 0.10% | ~146 |
+| Real Musor | 0.10% | ~146 |
+| What body? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,045 (Ranked 100)  
-Completed: 31 (0.02%) (Ranked 416)  
+Progressed: 146,324 (Ranked 106)  
+Completed: 32 (0.02%) (Ranked 468)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,6 +333,7 @@ Completed: 31 (0.02%) (Ranked 416)
 | 2024-02-22 | 142,015 | 29 |
 | 2024-03-21 | 143,279 | 31 |
 | 2024-04-10 | 144,045 | 31 |
+| 2024-06-17 | 146,324 | 32 |
 ## Awards
 Max (Character Customization): 816  (Ranked 202)  
 Sum: 1,264 (Ranked 283)  

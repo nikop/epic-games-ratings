@@ -2,10 +2,10 @@
   "ID": "90abbb77fe434ec39e3a4b8c1b3d2eec",
   "Name": "The Last Citadel",
   "ProductSlug": "the-last-citadel-d18ed9",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-12T02:57:23.4555851+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:41.5558356+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:20.2070894+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:02.2195435+00:00"
 }

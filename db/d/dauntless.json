@@ -4,11 +4,11 @@
   "ProductSlug": "dauntless",
   "Ranking_Rating": 603,
   "Ranking_Popularity": 20,
-  "Ranking_PopularitySum": 25,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_PopularitySum": 24,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-03-19T13:51:00+00:00",
     "PcReleaseDate": null,
@@ -18867,10 +18867,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 83625,
       "NumberOfAwardsMax": 29820
+    },
+    {
+      "Time": "2024-06-17T15:57:30.0247546+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 83647,
+      "NumberOfAwardsMax": 29820
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 83625,
+  "NumberOfAwards": 83647,
   "NumberOfAwardsMax": 29820,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18884,7 +18890,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 20813
+      "Count": 20829
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18920,7 +18926,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5670
+      "Count": 5676
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18952,8 +18958,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-06-17T02:57:58.811875+00:00",
+  "LastChanged": "2024-06-17T15:57:30.0247544+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:29.5863719+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:20.948682+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:19.997431+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:30.0247553+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:25.4691628+00:00"
 }

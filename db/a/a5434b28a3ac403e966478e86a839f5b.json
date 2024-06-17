@@ -5,10 +5,10 @@
   "Ranking_Rating": 70,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -73,11 +73,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1226,
-  "EOS_Completed": 17,
+  "EOS_Progressed": 1384,
+  "EOS_Completed": 18,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.39,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -3653,6 +3653,11 @@
       "Time": "2024-04-10T06:03:47.3981187+00:00",
       "NumProgressed": 1226,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-06-17T16:12:17.1947993+00:00",
+      "NumProgressed": 1384,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3665,15 +3670,15 @@
       "Name": "Assassinate the Makron",
       "Percentage": 15,
       "XP": 120,
-      "UsersEstimate": 184
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 650
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_eou2",
@@ -3681,23 +3686,23 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_eou4",
       "SetID": "51of0eo",
       "Name": "Navigate the Mines",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_eou5",
@@ -3705,7 +3710,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_eou6",
@@ -3713,7 +3718,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_eou7",
@@ -3721,7 +3726,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_eou8",
@@ -3729,15 +3734,15 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_mg2",
       "SetID": "51of0eo",
       "Name": "Disc Collector",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 74
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_n64",
@@ -3745,7 +3750,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_rogue",
@@ -3753,7 +3758,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_xatrix",
@@ -3761,23 +3766,23 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 98
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 1226,
-      "Completed": 17
+      "Progressed": 1384,
+      "Completed": 18
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-04-09T23:58:42.680967+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:47.3981168+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:17.194799+00:00",
   "LastUpdate_AppInfo": "2024-06-14T18:56:59.8209003+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:45.1597779+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:47.3981412+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:25.0238093+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:17.1948291+00:00"
 }

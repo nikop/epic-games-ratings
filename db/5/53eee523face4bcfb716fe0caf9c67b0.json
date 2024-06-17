@@ -2,10 +2,10 @@
   "ID": "53eee523face4bcfb716fe0caf9c67b0",
   "Name": "Crowded Mysteries",
   "ProductSlug": "crowded-mysteries-084054",
-  "Ranking_EOS_Progress": 906,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 821,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-02T22:00:00+00:00",
     "PcReleaseDate": "2023-08-22T22:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -31,6 +31,11 @@
     {
       "Time": "2024-04-10T06:01:57.6855934+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:08:45.3475758+00:00",
+      "NumProgressed": 17,
       "NumCompleted": 0
     }
   ],
@@ -42,9 +47,9 @@
       "ID": "ach_credits_open",
       "SetID": "nig6n",
       "Name": "Read Me",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_extra_clue_11",
@@ -66,9 +71,9 @@
       "ID": "ach_extra_clue_5",
       "SetID": "nig6n",
       "Name": "Keen Eye",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_extra_clue_8",
@@ -82,9 +87,9 @@
       "ID": "ach_game_finished",
       "SetID": "nig6n",
       "Name": "Professional Detective",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_game_finished_night",
@@ -98,9 +103,9 @@
       "ID": "ach_hint_pass_level_10",
       "SetID": "nig6n",
       "Name": "Good Detective",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_hint_pass_level_14",
@@ -114,17 +119,17 @@
       "ID": "ach_hint_pass_level_3",
       "SetID": "nig6n",
       "Name": "Promising Detective",
-      "Percentage": 0,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_hint_pass_level_7",
       "SetID": "nig6n",
       "Name": "Junior Detective",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_speedrun_finished",
@@ -154,9 +159,9 @@
       "ID": "ach_stars_1_3",
       "SetID": "nig6n",
       "Name": "Star Cadet",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_stars_3_6",
@@ -170,9 +175,9 @@
       "ID": "ach_stars_6_9",
       "SetID": "nig6n",
       "Name": "Star Corporal",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_stars_9_12",
@@ -186,22 +191,22 @@
       "ID": "ach_streak_finished",
       "SetID": "nig6n",
       "Name": "Tenacious D(etective)!",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "nig6n",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:01:57.6856007+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:01:57.6855928+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:45.3475753+00:00",
   "LastUpdate_AppInfo": "2024-06-12T14:57:14.5743656+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:53.1398956+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:01:57.6864511+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:00.5390105+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:45.3475891+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 4.51 (Ranked 636)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 61.00% | ~818 |
-| You're the Expert! | 27.00% | ~362 |
-| Home Cook | 24.00% | ~322 |
-| So Clean You Can Eat Off the Floor | 17.00% | ~228 |
-| French Flair | 15.00% | ~201 |
-| S is for Scrumptious | 15.00% | ~201 |
-| Next Level Cuisine | 8.00% | ~107 |
-| Haute Cuisine | 7.00% | ~94 |
-| Italian Style | 6.00% | ~80 |
-| Well-Stocked Kitchen | 5.00% | ~67 |
-| Culinary Arts | 4.00% | ~54 |
-| Sous-Chef | 4.00% | ~54 |
-| Rolling in Dough | 4.00% | ~54 |
-| Perfectionist | 3.00% | ~40 |
-| Leaning Tower of Pizza | 2.00% | ~27 |
-| Eco Warrior | 0.40% | ~5 |
-| The Bigger the Better | 0.40% | ~5 |
-| Kitchen Model | 0.30% | ~4 |
+| The Big Day | 61.00% | ~987 |
+| You're the Expert! | 26.00% | ~421 |
+| Home Cook | 23.00% | ~372 |
+| So Clean You Can Eat Off the Floor | 17.00% | ~275 |
+| French Flair | 15.00% | ~243 |
+| S is for Scrumptious | 14.00% | ~227 |
+| Next Level Cuisine | 8.00% | ~129 |
+| Haute Cuisine | 7.00% | ~113 |
+| Italian Style | 6.00% | ~97 |
+| Well-Stocked Kitchen | 5.00% | ~81 |
+| Culinary Arts | 4.00% | ~65 |
+| Sous-Chef | 4.00% | ~65 |
+| Rolling in Dough | 4.00% | ~65 |
+| Perfectionist | 3.00% | ~49 |
+| Leaning Tower of Pizza | 2.00% | ~32 |
+| Eco Warrior | 0.40% | ~6 |
+| The Bigger the Better | 0.40% | ~6 |
+| Kitchen Model | 0.20% | ~3 |
 | Chef, Yes Chef! | 0.20% | ~3 |
-| Teamwork | 0.10% | ~1 |
-| Codename: Arrabbiata | 0.10% | ~1 |
-| Satisfaction Guaranteed | 0.10% | ~1 |
-| Dream Team | 0.10% | ~1 |
+| Teamwork | 0.10% | ~2 |
+| Codename: Arrabbiata | 0.10% | ~2 |
+| Satisfaction Guaranteed | 0.10% | ~2 |
+| Dream Team | 0.10% | ~2 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
 | Stella d’Italia | 0.00% | ~0 |
@@ -46,8 +46,8 @@ Rating: 4.51 (Ranked 636)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,341 (Ranked 325)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 1,618 (Ranked 349)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,6 +284,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 1,127 | 0 |
 | 2024-03-21 | 1,235 | 0 |
 | 2024-04-10 | 1,341 | 0 |
+| 2024-06-17 | 1,618 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "2df8b055a5674c8e9211fc51f8efd210",
   "Name": "Arranger: A Role-Puzzling Adventure",
   "ProductSlug": "arranger-a-rolepuzzling-adventure-dbfde7",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 957,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-25T16:00:00+00:00",
     "PcReleaseDate": "2024-07-25T16:00:00+00:00",
@@ -23,17 +23,322 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:15:51.8806024+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:15:51.8806052+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "arranger_reveal",
+      "SetID": "dhe3k4n",
+      "Name": "RE: A Ranger",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle1_w1",
+      "SetID": "dhe3k4n",
+      "Name": "The Forest Path",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle1_w2",
+      "SetID": "dhe3k4n",
+      "Name": "The Ceaseless Hissing of Love",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle1_w3",
+      "SetID": "dhe3k4n",
+      "Name": "The Creepy Mine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle2_w1",
+      "SetID": "dhe3k4n",
+      "Name": "The Forest Pattern",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle2_w2",
+      "SetID": "dhe3k4n",
+      "Name": "Shipped Some Burly Dreamboats",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle2_w3",
+      "SetID": "dhe3k4n",
+      "Name": "The Tricky Mine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle3_w1",
+      "SetID": "dhe3k4n",
+      "Name": "The Forest Loop",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle3_w2",
+      "SetID": "dhe3k4n",
+      "Name": "Dino-mite Matchmaking",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_puzzle3_w3",
+      "SetID": "dhe3k4n",
+      "Name": "The Spiky Mine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_temple_1",
+      "SetID": "dhe3k4n",
+      "Name": "A Sylvan Mystery",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_temple_2",
+      "SetID": "dhe3k4n",
+      "Name": "A Jumble in the Jungle",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "complete_temple_3",
+      "SetID": "dhe3k4n",
+      "Name": "The Cipher in the Cacti",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "game_completed_100",
+      "SetID": "dhe3k4n",
+      "Name": "Grid Looper",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "game_completed_any",
+      "SetID": "dhe3k4n",
+      "Name": "Made Susie Proud",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "mr_help_completed",
+      "SetID": "dhe3k4n",
+      "Name": "Mister Helped",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "reach_hurveth",
+      "SetID": "dhe3k4n",
+      "Name": "A New Perspective",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "reach_t2",
+      "SetID": "dhe3k4n",
+      "Name": "The City \u0027Round the Lake",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "reach_t3",
+      "SetID": "dhe3k4n",
+      "Name": "Source of the Smoke",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "reach_t4",
+      "SetID": "dhe3k4n",
+      "Name": "Wake Up, Jemma",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "reach_t5",
+      "SetID": "dhe3k4n",
+      "Name": "Rarified Air",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town1_bronze_1",
+      "SetID": "dhe3k4n",
+      "Name": "Snip snap",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town1_bronze_2",
+      "SetID": "dhe3k4n",
+      "Name": "HAWNK!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town1_completed",
+      "SetID": "dhe3k4n",
+      "Name": "The End of the Beginning",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town2_bronze_1",
+      "SetID": "dhe3k4n",
+      "Name": "Birdly an Inconvenience",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town2_bronze_2",
+      "SetID": "dhe3k4n",
+      "Name": "Game of Throne",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town2_completed",
+      "SetID": "dhe3k4n",
+      "Name": "Made a Splash",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town4_bronze_1",
+      "SetID": "dhe3k4n",
+      "Name": "Where\u0027s Culto?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town4_bronze_2",
+      "SetID": "dhe3k4n",
+      "Name": "A Secreted Sculpture",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town4_completed",
+      "SetID": "dhe3k4n",
+      "Name": "For Flax",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town5_bronze_1",
+      "SetID": "dhe3k4n",
+      "Name": "An Eggsacting Eggstraction",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town5_bronze_2",
+      "SetID": "dhe3k4n",
+      "Name": "Shake, Se\u00F1ora",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "town5_completed",
+      "SetID": "dhe3k4n",
+      "Name": "The Beginning of The End",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "w1_bronze",
+      "SetID": "dhe3k4n",
+      "Name": "An Unexpected Feast",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "w2_bronze",
+      "SetID": "dhe3k4n",
+      "Name": "Feeling Antsy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "w3_bronze",
+      "SetID": "dhe3k4n",
+      "Name": "Na Na Na Na, Na Naaa",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "dhe3k4n",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:15:51.8806052+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:51.8806019+00:00",
   "LastUpdate_AppInfo": "2024-06-13T01:47:49.416745+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:57.9199404+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:46.9087096+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:22.2300842+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:51.8813655+00:00"
 }

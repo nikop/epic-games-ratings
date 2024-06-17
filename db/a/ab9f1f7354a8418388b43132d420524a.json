@@ -5,10 +5,10 @@
   "Ranking_Rating": 620,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 479,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 109,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-18T15:00:00+00:00",
     "PcReleaseDate": "2023-08-25T17:00:00+00:00",
@@ -782,19 +782,3563 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 136786,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:33.4303811+00:00",
+      "NumProgressed": 136786,
+      "NumCompleted": 6
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:33.4303839+00:00",
+  "TotalAchievements": 440,
+  "TotalAchievementsXP": 3000,
+  "Achievements": [
+    {
+      "ID": "0",
+      "SetID": "lbkge0",
+      "Name": "Adoration",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "1",
+      "SetID": "4a1hjjf",
+      "Name": "Idolize",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "10",
+      "SetID": "4a1hjjf",
+      "Name": "Protector",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "100",
+      "SetID": "lbkge0",
+      "Name": "Occultist",
+      "Percentage": 8,
+      "XP": 5,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "101",
+      "SetID": "4a1hjjf",
+      "Name": "Dark Magician",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "102",
+      "SetID": "4a1hjjf",
+      "Name": "Charmer",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "103",
+      "SetID": "4a1hjjf",
+      "Name": "Diabolist",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "104",
+      "SetID": "lbkge0",
+      "Name": "The Nightmare",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "105",
+      "SetID": "4a1hjjf",
+      "Name": "Insomnia",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "106",
+      "SetID": "4a1hjjf",
+      "Name": "Restless",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "107",
+      "SetID": "4a1hjjf",
+      "Name": "The Bringer of Insanity",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "108",
+      "SetID": "lbkge0",
+      "Name": "Enthrall",
+      "Percentage": 8,
+      "XP": 5,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "109",
+      "SetID": "4a1hjjf",
+      "Name": "Charm",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "11",
+      "SetID": "4a1hjjf",
+      "Name": "Warden",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "110",
+      "SetID": "4a1hjjf",
+      "Name": "Hypnotize",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "111",
+      "SetID": "4a1hjjf",
+      "Name": "Mesmerize",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "112",
+      "SetID": "lbkge0",
+      "Name": "Spellslinger",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "113",
+      "SetID": "4a1hjjf",
+      "Name": "Accursed",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "114",
+      "SetID": "4a1hjjf",
+      "Name": "Hocus Pocus",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "115",
+      "SetID": "4a1hjjf",
+      "Name": "Abracadabra",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "116",
+      "SetID": "lbkge0",
+      "Name": "Hallucination",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "117",
+      "SetID": "4a1hjjf",
+      "Name": "Mirage",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "118",
+      "SetID": "4a1hjjf",
+      "Name": "Optical Illusion",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "119",
+      "SetID": "4a1hjjf",
+      "Name": "Deceptive Imagery",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "12",
+      "SetID": "lbkge0",
+      "Name": "Priest",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 13679
+    },
+    {
+      "ID": "120",
+      "SetID": "lbkge0",
+      "Name": "Bad Luck",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "121",
+      "SetID": "4a1hjjf",
+      "Name": "Nemesis",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "122",
+      "SetID": "4a1hjjf",
+      "Name": "Misfortune",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "123",
+      "SetID": "4a1hjjf",
+      "Name": "Black Cat",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "124",
+      "SetID": "lbkge0",
+      "Name": "Gaze of Stone",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "125",
+      "SetID": "4a1hjjf",
+      "Name": "House of Rock",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "126",
+      "SetID": "4a1hjjf",
+      "Name": "Dust to Dust",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "127",
+      "SetID": "4a1hjjf",
+      "Name": "The Gorgon",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "128",
+      "SetID": "lbkge0",
+      "Name": "Raise Zombie!",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "129",
+      "SetID": "4a1hjjf",
+      "Name": "Army of the Dead",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "13",
+      "SetID": "4a1hjjf",
+      "Name": "Healer",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "130",
+      "SetID": "4a1hjjf",
+      "Name": "Day of the Dead",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "131",
+      "SetID": "4a1hjjf",
+      "Name": "Zombie Apocalypse",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "132",
+      "SetID": "lbkge0",
+      "Name": "Silent but Deadly",
+      "Percentage": 8,
+      "XP": 5,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "133",
+      "SetID": "4a1hjjf",
+      "Name": "Poison Beverage",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "134",
+      "SetID": "4a1hjjf",
+      "Name": "Toxic",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "135",
+      "SetID": "4a1hjjf",
+      "Name": "Miasma",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "136",
+      "SetID": "lbkge0",
+      "Name": "Alchemist",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "137",
+      "SetID": "4a1hjjf",
+      "Name": "Eye of Newt",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "138",
+      "SetID": "4a1hjjf",
+      "Name": "Vial Juggler",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "139",
+      "SetID": "4a1hjjf",
+      "Name": "Elixir of Victory",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "14",
+      "SetID": "4a1hjjf",
+      "Name": "Diviner",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "140",
+      "SetID": "lbkge0",
+      "Name": "Black Magic",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "141",
+      "SetID": "4a1hjjf",
+      "Name": "Dark Arts",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "142",
+      "SetID": "4a1hjjf",
+      "Name": "Witchcraft",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "143",
+      "SetID": "4a1hjjf",
+      "Name": "Blood Ritual",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "144",
+      "SetID": "lbkge0",
+      "Name": "Mumbo Jumbo",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "145",
+      "SetID": "4a1hjjf",
+      "Name": "Bad Juju",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "146",
+      "SetID": "4a1hjjf",
+      "Name": "Speechlessness",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "147",
+      "SetID": "4a1hjjf",
+      "Name": "Silence",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "148",
+      "SetID": "lbkge0",
+      "Name": "Ferocious",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "149",
+      "SetID": "4a1hjjf",
+      "Name": "Predator",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "15",
+      "SetID": "4a1hjjf",
+      "Name": "Elder",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "150",
+      "SetID": "4a1hjjf",
+      "Name": "Devourer",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "151",
+      "SetID": "4a1hjjf",
+      "Name": "Apex",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "152",
+      "SetID": "lbkge0",
+      "Name": "Domination",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "153",
+      "SetID": "4a1hjjf",
+      "Name": "Puppet Master",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "154",
+      "SetID": "4a1hjjf",
+      "Name": "Marionette",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "155",
+      "SetID": "4a1hjjf",
+      "Name": "Warlock",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "156",
+      "SetID": "lbkge0",
+      "Name": "Pyromaniac",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "157",
+      "SetID": "4a1hjjf",
+      "Name": "Firebug",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "158",
+      "SetID": "4a1hjjf",
+      "Name": "Incendiary",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "159",
+      "SetID": "4a1hjjf",
+      "Name": "Ifrit",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "16",
+      "SetID": "lbkge0",
+      "Name": "Medical Examiner",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "160",
+      "SetID": "lbkge0",
+      "Name": "Droughtbringer",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "161",
+      "SetID": "4a1hjjf",
+      "Name": "Starvation",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "162",
+      "SetID": "4a1hjjf",
+      "Name": "Moldy Bread",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "163",
+      "SetID": "4a1hjjf",
+      "Name": "Grain Shortage",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "164",
+      "SetID": "lbkge0",
+      "Name": "Bloodshed",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "165",
+      "SetID": "4a1hjjf",
+      "Name": "Warfare",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "166",
+      "SetID": "4a1hjjf",
+      "Name": "Onslaught",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "167",
+      "SetID": "4a1hjjf",
+      "Name": "Blitzkrieg",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "168",
+      "SetID": "lbkge0",
+      "Name": "Cataclysm",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "169",
+      "SetID": "4a1hjjf",
+      "Name": "Calamity",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "17",
+      "SetID": "4a1hjjf",
+      "Name": "Autopsy",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "170",
+      "SetID": "4a1hjjf",
+      "Name": "Destiny",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "171",
+      "SetID": "4a1hjjf",
+      "Name": "Prediction",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "172",
+      "SetID": "lbkge0",
+      "Name": "Firing Squad",
+      "Percentage": 8,
+      "XP": 5,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "173",
+      "SetID": "4a1hjjf",
+      "Name": "Guillotine",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "174",
+      "SetID": "4a1hjjf",
+      "Name": "Hangman",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "175",
+      "SetID": "4a1hjjf",
+      "Name": "Iron Maiden",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "176",
+      "SetID": "lbkge0",
+      "Name": "Joker",
+      "Percentage": 8,
+      "XP": 5,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "177",
+      "SetID": "4a1hjjf",
+      "Name": "Clown",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "178",
+      "SetID": "4a1hjjf",
+      "Name": "Prankster",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "179",
+      "SetID": "4a1hjjf",
+      "Name": "Lunatic",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "18",
+      "SetID": "4a1hjjf",
+      "Name": "Obituary",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "180",
+      "SetID": "lbkge0",
+      "Name": "ARG!",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "181",
+      "SetID": "4a1hjjf",
+      "Name": "Plunder",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "182",
+      "SetID": "4a1hjjf",
+      "Name": "X Marks the Spot",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "183",
+      "SetID": "4a1hjjf",
+      "Name": "Edward Teach",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "184",
+      "SetID": "lbkge0",
+      "Name": "Diseased",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "185",
+      "SetID": "4a1hjjf",
+      "Name": "Infectious",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "186",
+      "SetID": "4a1hjjf",
+      "Name": "Virulent",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "187",
+      "SetID": "4a1hjjf",
+      "Name": "Pestilent",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "188",
+      "SetID": "lbkge0",
+      "Name": "Lonely Killer",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "189",
+      "SetID": "4a1hjjf",
+      "Name": "Murderer",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "19",
+      "SetID": "4a1hjjf",
+      "Name": "Coroner\u0027s Report",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "190",
+      "SetID": "4a1hjjf",
+      "Name": "Psychopath",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "191",
+      "SetID": "4a1hjjf",
+      "Name": "Sociopath",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "192",
+      "SetID": "lbkge0",
+      "Name": "Cloak",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "193",
+      "SetID": "4a1hjjf",
+      "Name": "Veil",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "194",
+      "SetID": "4a1hjjf",
+      "Name": "Shadow",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "195",
+      "SetID": "4a1hjjf",
+      "Name": "Shade",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "196",
+      "SetID": "lbkge0",
+      "Name": "Extinction",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "197",
+      "SetID": "4a1hjjf",
+      "Name": "Oblivion",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "198",
+      "SetID": "4a1hjjf",
+      "Name": "Grim Reaper",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "199",
+      "SetID": "4a1hjjf",
+      "Name": "Shinigami",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "2",
+      "SetID": "4a1hjjf",
+      "Name": "Cherish",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "20",
+      "SetID": "lbkge0",
+      "Name": "Divine Protector",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "200",
+      "SetID": "lbkge0",
+      "Name": "Sharp Claws",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "201",
+      "SetID": "4a1hjjf",
+      "Name": "Lycan",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "202",
+      "SetID": "4a1hjjf",
+      "Name": "Wild Beast",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "203",
+      "SetID": "4a1hjjf",
+      "Name": "Mauled",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "204",
+      "SetID": "lbkge0",
+      "Name": "Initiation",
+      "Percentage": 37,
+      "XP": 5,
+      "UsersEstimate": 50611
+    },
+    {
+      "ID": "205",
+      "SetID": "lbkge0",
+      "Name": "Novice",
+      "Percentage": 13,
+      "XP": 5,
+      "UsersEstimate": 17782
+    },
+    {
+      "ID": "206",
+      "SetID": "lbkge0",
+      "Name": "Apprentice",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "207",
+      "SetID": "lbkge0",
+      "Name": "Dedicated",
+      "Percentage": 4,
+      "XP": 25,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "208",
+      "SetID": "lbkge0",
+      "Name": "Patriarch",
+      "Percentage": 2,
+      "XP": 50,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "209",
+      "SetID": "lbkge0",
+      "Name": "Zealous",
+      "Percentage": 1,
+      "XP": 100,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "21",
+      "SetID": "4a1hjjf",
+      "Name": "Righteous Fury",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "210",
+      "SetID": "lbkge0",
+      "Name": "Iconic",
+      "Percentage": 0.3,
+      "XP": 200,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "211",
+      "SetID": "lbkge0",
+      "Name": "Adept of the Town",
+      "Percentage": 0.5,
+      "XP": 50,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "212",
+      "SetID": "lbkge0",
+      "Name": "Savant of Magic",
+      "Percentage": 0.4,
+      "XP": 50,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "213",
+      "SetID": "lbkge0",
+      "Name": "Savant of Neutrality",
+      "Percentage": 0.2,
+      "XP": 50,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "214",
+      "SetID": "lbkge0",
+      "Name": "Town of Salem Expert",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "215",
+      "SetID": "lbkge0",
+      "Name": "Close Call",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "216",
+      "SetID": "lbkge0",
+      "Name": "Marathon",
+      "Percentage": 0.9,
+      "XP": 20,
+      "UsersEstimate": 1231
+    },
+    {
+      "ID": "217",
+      "SetID": "lbkge0",
+      "Name": "The Perfect Town",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "218",
+      "SetID": "lbkge0",
+      "Name": "The Perfect Coven",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "219",
+      "SetID": "lbkge0",
+      "Name": "Consolation Prize",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 32829
+    },
+    {
+      "ID": "22",
+      "SetID": "4a1hjjf",
+      "Name": "Devotion",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "220",
+      "SetID": "lbkge0",
+      "Name": "Improbable",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "221",
+      "SetID": "lbkge0",
+      "Name": "Lonely",
+      "Percentage": 11,
+      "XP": 10,
+      "UsersEstimate": 15046
+    },
+    {
+      "ID": "222",
+      "SetID": "4a1hjjf",
+      "Name": "Will You Be Mine?",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "223",
+      "SetID": "4a1hjjf",
+      "Name": "Falling In Love",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "224",
+      "SetID": "4a1hjjf",
+      "Name": "Rejection",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "225",
+      "SetID": "4a1hjjf",
+      "Name": "Heartbroken",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "226",
+      "SetID": "4a1hjjf",
+      "Name": "Forgetful Healer",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "227",
+      "SetID": "4a1hjjf",
+      "Name": "Distracted Constable",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "228",
+      "SetID": "4a1hjjf",
+      "Name": "Absent-Minded Politician",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "229",
+      "SetID": "4a1hjjf",
+      "Name": "Asleep On The Job",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "23",
+      "SetID": "4a1hjjf",
+      "Name": "Deus Vult",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "230",
+      "SetID": "4a1hjjf",
+      "Name": "I\u0027ll Save You!",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "231",
+      "SetID": "4a1hjjf",
+      "Name": "Bulletproof",
+      "Percentage": 0.9,
+      "XP": 5,
+      "UsersEstimate": 1231
+    },
+    {
+      "ID": "232",
+      "SetID": "4a1hjjf",
+      "Name": "Tango Down",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "233",
+      "SetID": "4a1hjjf",
+      "Name": "Sacrificial Lamb",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "234",
+      "SetID": "4a1hjjf",
+      "Name": "Blessed Recovery",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 12311
+    },
+    {
+      "ID": "235",
+      "SetID": "4a1hjjf",
+      "Name": "Divine Shield",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "236",
+      "SetID": "4a1hjjf",
+      "Name": "Prayer of Mending",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "237",
+      "SetID": "4a1hjjf",
+      "Name": "Cleanse",
+      "Percentage": 1,
+      "XP": 10,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "238",
+      "SetID": "4a1hjjf",
+      "Name": "Postmortem",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "239",
+      "SetID": "4a1hjjf",
+      "Name": "DNA Evidence",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "24",
+      "SetID": "lbkge0",
+      "Name": "Deputize",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "240",
+      "SetID": "4a1hjjf",
+      "Name": "Master of Dissection",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "241",
+      "SetID": "4a1hjjf",
+      "Name": "Plagued Corpse",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "242",
+      "SetID": "4a1hjjf",
+      "Name": "Holy Vengeance",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "243",
+      "SetID": "4a1hjjf",
+      "Name": "Blessing of Protection",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "244",
+      "SetID": "4a1hjjf",
+      "Name": "Holy Boon",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "245",
+      "SetID": "4a1hjjf",
+      "Name": "Trivial Crusade",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "246",
+      "SetID": "4a1hjjf",
+      "Name": "Assasination",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 9575
+    },
+    {
+      "ID": "247",
+      "SetID": "4a1hjjf",
+      "Name": "Apocalyptic Defense",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "248",
+      "SetID": "4a1hjjf",
+      "Name": "Taken Care Of",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "249",
+      "SetID": "4a1hjjf",
+      "Name": "Quickdraw",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "25",
+      "SetID": "4a1hjjf",
+      "Name": "Lieutenant",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "250",
+      "SetID": "4a1hjjf",
+      "Name": "No Evidence",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 19150
+    },
+    {
+      "ID": "251",
+      "SetID": "4a1hjjf",
+      "Name": "Finger Prints",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 12311
+    },
+    {
+      "ID": "252",
+      "SetID": "4a1hjjf",
+      "Name": "Wasted Night",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "253",
+      "SetID": "4a1hjjf",
+      "Name": "Deranged Forensics",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "254",
+      "SetID": "4a1hjjf",
+      "Name": "Execution",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "255",
+      "SetID": "4a1hjjf",
+      "Name": "Flawless Executioner",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "256",
+      "SetID": "4a1hjjf",
+      "Name": "Making The Right Choice",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "257",
+      "SetID": "4a1hjjf",
+      "Name": "Failed Execution",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "258",
+      "SetID": "4a1hjjf",
+      "Name": "I See You",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "259",
+      "SetID": "4a1hjjf",
+      "Name": "It\u0027s A Party",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "26",
+      "SetID": "4a1hjjf",
+      "Name": "Commissioner",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "260",
+      "SetID": "4a1hjjf",
+      "Name": "Prison Watchguard",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "261",
+      "SetID": "4a1hjjf",
+      "Name": "Psychotic Stalker",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "262",
+      "SetID": "4a1hjjf",
+      "Name": "Bureaucratic Leadership",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 13679
+    },
+    {
+      "ID": "263",
+      "SetID": "4a1hjjf",
+      "Name": "Scales of Justice",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "264",
+      "SetID": "4a1hjjf",
+      "Name": "Due Process",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "265",
+      "SetID": "4a1hjjf",
+      "Name": "Rigged Jury",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "266",
+      "SetID": "4a1hjjf",
+      "Name": "Champion of the Town",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "267",
+      "SetID": "4a1hjjf",
+      "Name": "Stacked Jury",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "268",
+      "SetID": "4a1hjjf",
+      "Name": "Risky Strategy",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "269",
+      "SetID": "4a1hjjf",
+      "Name": "Dementia",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "27",
+      "SetID": "4a1hjjf",
+      "Name": "Second-In-Command",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "270",
+      "SetID": "4a1hjjf",
+      "Name": "Indict",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "271",
+      "SetID": "4a1hjjf",
+      "Name": "Triumphant Prosecution",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "272",
+      "SetID": "4a1hjjf",
+      "Name": "Taking One For The Team",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "273",
+      "SetID": "4a1hjjf",
+      "Name": "Apocalypse Averted",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "274",
+      "SetID": "4a1hjjf",
+      "Name": "Supernatural Vision",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 9575
+    },
+    {
+      "ID": "275",
+      "SetID": "4a1hjjf",
+      "Name": "Not Looking Good",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "276",
+      "SetID": "4a1hjjf",
+      "Name": "The Gift of Sight",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "277",
+      "SetID": "4a1hjjf",
+      "Name": "Irrational Visions",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "278",
+      "SetID": "4a1hjjf",
+      "Name": "Once More Sherlock",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "279",
+      "SetID": "4a1hjjf",
+      "Name": "Vigilante\u0027s Redemption",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "28",
+      "SetID": "lbkge0",
+      "Name": "Detective",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 13679
+    },
+    {
+      "ID": "280",
+      "SetID": "4a1hjjf",
+      "Name": "Unholy Crusade",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "281",
+      "SetID": "4a1hjjf",
+      "Name": "Self Promotion",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "282",
+      "SetID": "4a1hjjf",
+      "Name": "Birds of a Feather",
+      "Percentage": 11,
+      "XP": 5,
+      "UsersEstimate": 15046
+    },
+    {
+      "ID": "283",
+      "SetID": "4a1hjjf",
+      "Name": "Opposites Attract",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 19150
+    },
+    {
+      "ID": "284",
+      "SetID": "4a1hjjf",
+      "Name": "Broken Crystal Ball",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "285",
+      "SetID": "4a1hjjf",
+      "Name": "Demented Oracle",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "286",
+      "SetID": "4a1hjjf",
+      "Name": "Busted",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 16414
+    },
+    {
+      "ID": "287",
+      "SetID": "4a1hjjf",
+      "Name": "Not Suspicious",
+      "Percentage": 15,
+      "XP": 5,
+      "UsersEstimate": 20518
+    },
+    {
+      "ID": "288",
+      "SetID": "4a1hjjf",
+      "Name": "Assisted Interrogation",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "289",
+      "SetID": "4a1hjjf",
+      "Name": "Paranoid Interrogation",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "29",
+      "SetID": "4a1hjjf",
+      "Name": "Gumshoe",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "290",
+      "SetID": "4a1hjjf",
+      "Name": "Sleep It Off",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "291",
+      "SetID": "4a1hjjf",
+      "Name": "Operation: Dominion",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "292",
+      "SetID": "4a1hjjf",
+      "Name": "Voodoo Spy",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "293",
+      "SetID": "4a1hjjf",
+      "Name": "Operative of Dreams",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "294",
+      "SetID": "4a1hjjf",
+      "Name": "Let\u0027s Party",
+      "Percentage": 16,
+      "XP": 5,
+      "UsersEstimate": 21886
+    },
+    {
+      "ID": "295",
+      "SetID": "4a1hjjf",
+      "Name": "Drinking With A Psychopath",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "296",
+      "SetID": "4a1hjjf",
+      "Name": "Party of One",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "297",
+      "SetID": "4a1hjjf",
+      "Name": "Insane, Plagued and Inebriated",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "298",
+      "SetID": "4a1hjjf",
+      "Name": "How Is That Possible?",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "299",
+      "SetID": "4a1hjjf",
+      "Name": "This Is Awkward",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "3",
+      "SetID": "4a1hjjf",
+      "Name": "Worship",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "30",
+      "SetID": "4a1hjjf",
+      "Name": "Private Eye",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "300",
+      "SetID": "4a1hjjf",
+      "Name": "What Are You Up To?",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "301",
+      "SetID": "4a1hjjf",
+      "Name": "Silly Witch",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "302",
+      "SetID": "4a1hjjf",
+      "Name": "Sportsman",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "303",
+      "SetID": "4a1hjjf",
+      "Name": "Spring-Loaded",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "304",
+      "SetID": "4a1hjjf",
+      "Name": "Busy Night",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "305",
+      "SetID": "4a1hjjf",
+      "Name": "War Approaches",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "306",
+      "SetID": "4a1hjjf",
+      "Name": "Risky Maneuvers",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "307",
+      "SetID": "4a1hjjf",
+      "Name": "Tricked Out of the Shadows",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "308",
+      "SetID": "4a1hjjf",
+      "Name": "Taunt the Necronomicon",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "309",
+      "SetID": "4a1hjjf",
+      "Name": "Full Moon Trickery",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "31",
+      "SetID": "4a1hjjf",
+      "Name": "Sherlock Holmes",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "310",
+      "SetID": "4a1hjjf",
+      "Name": "Massacre",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "311",
+      "SetID": "4a1hjjf",
+      "Name": "Weathered Soldier",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "312",
+      "SetID": "4a1hjjf",
+      "Name": "Proficient Paranoia",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "313",
+      "SetID": "4a1hjjf",
+      "Name": "Going Down Fighting",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "314",
+      "SetID": "4a1hjjf",
+      "Name": "Vengeance",
+      "Percentage": 8,
+      "XP": 5,
+      "UsersEstimate": 10943
+    },
+    {
+      "ID": "315",
+      "SetID": "4a1hjjf",
+      "Name": "Perfect Shot",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "316",
+      "SetID": "4a1hjjf",
+      "Name": "Controlled Weapon",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "317",
+      "SetID": "4a1hjjf",
+      "Name": "Ouch",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "318",
+      "SetID": "4a1hjjf",
+      "Name": "Rival Gunslinger",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "319",
+      "SetID": "4a1hjjf",
+      "Name": "Unwise Reveal",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "32",
+      "SetID": "lbkge0",
+      "Name": "Prison Warden",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "320",
+      "SetID": "4a1hjjf",
+      "Name": "Dealt With",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "321",
+      "SetID": "4a1hjjf",
+      "Name": "Two For One Special",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "322",
+      "SetID": "4a1hjjf",
+      "Name": "The Matriarch",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "323",
+      "SetID": "4a1hjjf",
+      "Name": "Protection of the Necronomicon",
+      "Percentage": 0.9,
+      "XP": 5,
+      "UsersEstimate": 1231
+    },
+    {
+      "ID": "324",
+      "SetID": "4a1hjjf",
+      "Name": "Power of the Necronomicon",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "325",
+      "SetID": "4a1hjjf",
+      "Name": "This Is Suspicious",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "326",
+      "SetID": "4a1hjjf",
+      "Name": "Unsound Mind",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "327",
+      "SetID": "4a1hjjf",
+      "Name": "Triple Insomnia",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "328",
+      "SetID": "4a1hjjf",
+      "Name": "Knight of Nightmares",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "329",
+      "SetID": "4a1hjjf",
+      "Name": "That Backfired",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "33",
+      "SetID": "4a1hjjf",
+      "Name": "Correctional Officer",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "330",
+      "SetID": "4a1hjjf",
+      "Name": "Master of Deceit",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "331",
+      "SetID": "4a1hjjf",
+      "Name": "Altered Testament",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "332",
+      "SetID": "4a1hjjf",
+      "Name": "Marshal\u0027s Will",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "333",
+      "SetID": "4a1hjjf",
+      "Name": "Overwhelming Deception",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "334",
+      "SetID": "4a1hjjf",
+      "Name": "The First of Many",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "335",
+      "SetID": "4a1hjjf",
+      "Name": "Don\u0027t Fear The Reaper",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "336",
+      "SetID": "4a1hjjf",
+      "Name": "Hexplosion",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "337",
+      "SetID": "4a1hjjf",
+      "Name": "Astral Prominence",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "338",
+      "SetID": "4a1hjjf",
+      "Name": "Protect the Book Wielder",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "339",
+      "SetID": "4a1hjjf",
+      "Name": "Fantastical",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "34",
+      "SetID": "4a1hjjf",
+      "Name": "Locked Up",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "340",
+      "SetID": "4a1hjjf",
+      "Name": "Assist The Leader",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "341",
+      "SetID": "4a1hjjf",
+      "Name": "Covert Poisoning",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "342",
+      "SetID": "4a1hjjf",
+      "Name": "No More Protection",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "343",
+      "SetID": "4a1hjjf",
+      "Name": "Double Ambush",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "344",
+      "SetID": "4a1hjjf",
+      "Name": "Why Are You Here?",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "345",
+      "SetID": "4a1hjjf",
+      "Name": "Fullmoon Rampage",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "346",
+      "SetID": "4a1hjjf",
+      "Name": "Risky Play",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "347",
+      "SetID": "4a1hjjf",
+      "Name": "Hide The Evidence",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "348",
+      "SetID": "4a1hjjf",
+      "Name": "Could\u0027ve Been Anything",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "349",
+      "SetID": "4a1hjjf",
+      "Name": "That Was Challenging",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "35",
+      "SetID": "4a1hjjf",
+      "Name": "Penitentiary",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "350",
+      "SetID": "4a1hjjf",
+      "Name": "Rampage Once More",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "351",
+      "SetID": "4a1hjjf",
+      "Name": "Shadow Mending",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "352",
+      "SetID": "4a1hjjf",
+      "Name": "Reanimated Hexplosion",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "353",
+      "SetID": "4a1hjjf",
+      "Name": "Wage War Once Again",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "354",
+      "SetID": "4a1hjjf",
+      "Name": "Ineffective Brew",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "355",
+      "SetID": "4a1hjjf",
+      "Name": "Out of Cures",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "356",
+      "SetID": "4a1hjjf",
+      "Name": "Paranoia Can\u0027t Save you",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "357",
+      "SetID": "4a1hjjf",
+      "Name": "A Venomous Trick",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "358",
+      "SetID": "4a1hjjf",
+      "Name": "Bottle Juggler",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "359",
+      "SetID": "4a1hjjf",
+      "Name": "Critical Information",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "36",
+      "SetID": "lbkge0",
+      "Name": "Sentry",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "360",
+      "SetID": "4a1hjjf",
+      "Name": "Priorities",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "361",
+      "SetID": "4a1hjjf",
+      "Name": "I Have Been Tricked",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "362",
+      "SetID": "4a1hjjf",
+      "Name": "No Guessing Required",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "363",
+      "SetID": "4a1hjjf",
+      "Name": "Guaranteed Success",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "364",
+      "SetID": "4a1hjjf",
+      "Name": "Unlimited Power",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "365",
+      "SetID": "4a1hjjf",
+      "Name": "Sorcery Vs Doom",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "366",
+      "SetID": "4a1hjjf",
+      "Name": "Sewn Shut",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "367",
+      "SetID": "4a1hjjf",
+      "Name": "Peace and Quiet",
+      "Percentage": 0.9,
+      "XP": 5,
+      "UsersEstimate": 1231
+    },
+    {
+      "ID": "368",
+      "SetID": "4a1hjjf",
+      "Name": "Sworn to Secrecy",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "369",
+      "SetID": "4a1hjjf",
+      "Name": "Silent Ballot",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "37",
+      "SetID": "4a1hjjf",
+      "Name": "Eagle Eye",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "370",
+      "SetID": "4a1hjjf",
+      "Name": "Red Alert",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "371",
+      "SetID": "4a1hjjf",
+      "Name": "Nature\u0027s Observer",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "372",
+      "SetID": "4a1hjjf",
+      "Name": "Sixth Sense",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "373",
+      "SetID": "4a1hjjf",
+      "Name": "Wild Spray",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "374",
+      "SetID": "4a1hjjf",
+      "Name": "Two Birds, One Stone",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "375",
+      "SetID": "4a1hjjf",
+      "Name": "Double-Edged Sword",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "376",
+      "SetID": "4a1hjjf",
+      "Name": "Controlled Elevation",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "377",
+      "SetID": "4a1hjjf",
+      "Name": "Resistance Is Futile",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "378",
+      "SetID": "4a1hjjf",
+      "Name": "Disco Inferno",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "379",
+      "SetID": "4a1hjjf",
+      "Name": "Blazing Penetentiary",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "38",
+      "SetID": "4a1hjjf",
+      "Name": "Hawk",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "380",
+      "SetID": "4a1hjjf",
+      "Name": "Drenched",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "381",
+      "SetID": "4a1hjjf",
+      "Name": "This Complicates Things",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "382",
+      "SetID": "4a1hjjf",
+      "Name": "Feast or Famine",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "383",
+      "SetID": "4a1hjjf",
+      "Name": "Swift Famine",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "384",
+      "SetID": "4a1hjjf",
+      "Name": "Bars Cannot Stop Famine",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "385",
+      "SetID": "4a1hjjf",
+      "Name": "Famine Ravages The Town",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "386",
+      "SetID": "4a1hjjf",
+      "Name": "War Emerges",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "387",
+      "SetID": "4a1hjjf",
+      "Name": "Racing To War",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "388",
+      "SetID": "4a1hjjf",
+      "Name": "The Art of War",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "389",
+      "SetID": "4a1hjjf",
+      "Name": "Unstoppable Force",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "39",
+      "SetID": "4a1hjjf",
+      "Name": "Sentinel",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "390",
+      "SetID": "4a1hjjf",
+      "Name": "The Town\u0027s Cataclysm",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "391",
+      "SetID": "4a1hjjf",
+      "Name": "Calamity of the Coven",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "392",
+      "SetID": "4a1hjjf",
+      "Name": "Neutral Catastrophe",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "393",
+      "SetID": "4a1hjjf",
+      "Name": "Accelerated Annihilation",
+      "Percentage": 0.6,
+      "XP": 10,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "394",
+      "SetID": "4a1hjjf",
+      "Name": "Quick Execution",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "395",
+      "SetID": "4a1hjjf",
+      "Name": "Execute the Leader",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "396",
+      "SetID": "4a1hjjf",
+      "Name": "Double Jeopardy",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "397",
+      "SetID": "4a1hjjf",
+      "Name": "Difficult Task",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "398",
+      "SetID": "4a1hjjf",
+      "Name": "Not Taking Sides",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "399",
+      "SetID": "4a1hjjf",
+      "Name": "Prosecution Backfired",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "4",
+      "SetID": "lbkge0",
+      "Name": "Oblivious",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "40",
+      "SetID": "lbkge0",
+      "Name": "Supervisor",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 12311
+    },
+    {
+      "ID": "400",
+      "SetID": "4a1hjjf",
+      "Name": "Anti-Town",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "401",
+      "SetID": "4a1hjjf",
+      "Name": "Widower",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "402",
+      "SetID": "4a1hjjf",
+      "Name": "On a Roll",
+      "Percentage": 0.9,
+      "XP": 5,
+      "UsersEstimate": 1231
+    },
+    {
+      "ID": "403",
+      "SetID": "4a1hjjf",
+      "Name": "Avoided Retaliation",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "404",
+      "SetID": "4a1hjjf",
+      "Name": "Scalawag!",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "405",
+      "SetID": "4a1hjjf",
+      "Name": "Dueling the Apocalypse",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "406",
+      "SetID": "4a1hjjf",
+      "Name": "A God Among Us",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "407",
+      "SetID": "4a1hjjf",
+      "Name": "Succumbed To Pestilence",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "408",
+      "SetID": "4a1hjjf",
+      "Name": "Abrupt Pandemic",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "409",
+      "SetID": "4a1hjjf",
+      "Name": "Plundering Plague",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "41",
+      "SetID": "4a1hjjf",
+      "Name": "Ambassador",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "410",
+      "SetID": "4a1hjjf",
+      "Name": "Dexter Morgan",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "411",
+      "SetID": "4a1hjjf",
+      "Name": "Bloodlust",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 9575
+    },
+    {
+      "ID": "412",
+      "SetID": "4a1hjjf",
+      "Name": "Bay Harbor Butcher",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "413",
+      "SetID": "4a1hjjf",
+      "Name": "Rock, Paper, Knife",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "414",
+      "SetID": "4a1hjjf",
+      "Name": "Stalker\u0027s Victim",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "415",
+      "SetID": "4a1hjjf",
+      "Name": "Setup",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "416",
+      "SetID": "4a1hjjf",
+      "Name": "Framed",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "417",
+      "SetID": "4a1hjjf",
+      "Name": "Do You Seer What I Seer?",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "418",
+      "SetID": "4a1hjjf",
+      "Name": "Death Itself",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 2736
+    },
+    {
+      "ID": "419",
+      "SetID": "4a1hjjf",
+      "Name": "Expeditious Death",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "42",
+      "SetID": "4a1hjjf",
+      "Name": "Executive",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "420",
+      "SetID": "4a1hjjf",
+      "Name": "Total Obliteration",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "421",
+      "SetID": "4a1hjjf",
+      "Name": "Invincibility",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "422",
+      "SetID": "4a1hjjf",
+      "Name": "Jailbreak",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "423",
+      "SetID": "4a1hjjf",
+      "Name": "Rampage",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "424",
+      "SetID": "4a1hjjf",
+      "Name": "Slicing Up The Coven",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "425",
+      "SetID": "4a1hjjf",
+      "Name": "Heartbreak On A Fullmoon",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "426",
+      "SetID": "lbkge0",
+      "Name": "Partygoer",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "427",
+      "SetID": "4a1hjjf",
+      "Name": "Fashionista",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "428",
+      "SetID": "4a1hjjf",
+      "Name": "Merrymaker",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "429",
+      "SetID": "4a1hjjf",
+      "Name": "Night Owl",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "43",
+      "SetID": "4a1hjjf",
+      "Name": "Command And Chief",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "430",
+      "SetID": "lbkge0",
+      "Name": "Judiciary",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "431",
+      "SetID": "4a1hjjf",
+      "Name": "Hearing",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "432",
+      "SetID": "4a1hjjf",
+      "Name": "Council",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "433",
+      "SetID": "4a1hjjf",
+      "Name": "Court",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "434",
+      "SetID": "4a1hjjf",
+      "Name": "Celebration",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "435",
+      "SetID": "4a1hjjf",
+      "Name": "Rave",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 4104
+    },
+    {
+      "ID": "436",
+      "SetID": "4a1hjjf",
+      "Name": "Party of Two",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "437",
+      "SetID": "4a1hjjf",
+      "Name": "Assembly",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "438",
+      "SetID": "4a1hjjf",
+      "Name": "Witchhunt",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "439",
+      "SetID": "4a1hjjf",
+      "Name": "Commission for Death",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "44",
+      "SetID": "lbkge0",
+      "Name": "Emperor",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "45",
+      "SetID": "4a1hjjf",
+      "Name": "Royalty",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "46",
+      "SetID": "4a1hjjf",
+      "Name": "Sovereign",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "47",
+      "SetID": "4a1hjjf",
+      "Name": "Aristocrat",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "48",
+      "SetID": "lbkge0",
+      "Name": "Attorney",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "49",
+      "SetID": "4a1hjjf",
+      "Name": "Litigator",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "5",
+      "SetID": "4a1hjjf",
+      "Name": "Forgetful",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "50",
+      "SetID": "4a1hjjf",
+      "Name": "Indictor",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "51",
+      "SetID": "4a1hjjf",
+      "Name": "Blow the Whistle",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "52",
+      "SetID": "lbkge0",
+      "Name": "Clairvoyant",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "53",
+      "SetID": "4a1hjjf",
+      "Name": "Prophet",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "54",
+      "SetID": "4a1hjjf",
+      "Name": "Soothsayer",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "55",
+      "SetID": "4a1hjjf",
+      "Name": "Oracle",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "56",
+      "SetID": "lbkge0",
+      "Name": "The Avenger",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "57",
+      "SetID": "4a1hjjf",
+      "Name": "Vengeance",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "58",
+      "SetID": "4a1hjjf",
+      "Name": "Revitalize",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "59",
+      "SetID": "4a1hjjf",
+      "Name": "Reanimate",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "6",
+      "SetID": "4a1hjjf",
+      "Name": "Clouded Mind",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "60",
+      "SetID": "lbkge0",
+      "Name": "Tarot Reader",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 13679
+    },
+    {
+      "ID": "61",
+      "SetID": "4a1hjjf",
+      "Name": "Mystic",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "62",
+      "SetID": "4a1hjjf",
+      "Name": "Fortune-Teller",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "63",
+      "SetID": "4a1hjjf",
+      "Name": "Palm Reader",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "64",
+      "SetID": "lbkge0",
+      "Name": "Enforce The Law",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 13679
+    },
+    {
+      "ID": "65",
+      "SetID": "4a1hjjf",
+      "Name": "Marshall",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "66",
+      "SetID": "4a1hjjf",
+      "Name": "Constable",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "67",
+      "SetID": "4a1hjjf",
+      "Name": "P.I.",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "68",
+      "SetID": "lbkge0",
+      "Name": "Espionage",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "69",
+      "SetID": "4a1hjjf",
+      "Name": "Sleuth",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 958
+    },
+    {
+      "ID": "7",
+      "SetID": "4a1hjjf",
+      "Name": "Blackout",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "70",
+      "SetID": "4a1hjjf",
+      "Name": "Undercover Agent",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "71",
+      "SetID": "4a1hjjf",
+      "Name": "CIA",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "72",
+      "SetID": "lbkge0",
+      "Name": "Inebriated",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 13679
+    },
+    {
+      "ID": "73",
+      "SetID": "4a1hjjf",
+      "Name": "Sloshed",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "74",
+      "SetID": "4a1hjjf",
+      "Name": "Plastered",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "75",
+      "SetID": "4a1hjjf",
+      "Name": "Wasted",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "76",
+      "SetID": "lbkge0",
+      "Name": "Low Jack",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "77",
+      "SetID": "4a1hjjf",
+      "Name": "Pathfinder",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "78",
+      "SetID": "4a1hjjf",
+      "Name": "Trail Chaser",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "79",
+      "SetID": "4a1hjjf",
+      "Name": "Bloodhound",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "8",
+      "SetID": "lbkge0",
+      "Name": "Chaperon",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "80",
+      "SetID": "lbkge0",
+      "Name": "It\u0027s a Trap!",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 6839
+    },
+    {
+      "ID": "81",
+      "SetID": "4a1hjjf",
+      "Name": "Bear Trap",
+      "Percentage": 0.9,
+      "XP": 5,
+      "UsersEstimate": 1231
+    },
+    {
+      "ID": "82",
+      "SetID": "4a1hjjf",
+      "Name": "Hunter",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "83",
+      "SetID": "4a1hjjf",
+      "Name": "Master Trapper",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "84",
+      "SetID": "lbkge0",
+      "Name": "Deceiver",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "85",
+      "SetID": "4a1hjjf",
+      "Name": "Conniver",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "86",
+      "SetID": "4a1hjjf",
+      "Name": "Swindler",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "87",
+      "SetID": "4a1hjjf",
+      "Name": "Charlatan",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "88",
+      "SetID": "lbkge0",
+      "Name": "Battle-Hardened",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 9575
+    },
+    {
+      "ID": "89",
+      "SetID": "4a1hjjf",
+      "Name": "Soldier",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1368
+    },
+    {
+      "ID": "9",
+      "SetID": "4a1hjjf",
+      "Name": "Safeguard",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "90",
+      "SetID": "4a1hjjf",
+      "Name": "Warrior",
+      "Percentage": 0.4,
+      "XP": 5,
+      "UsersEstimate": 547
+    },
+    {
+      "ID": "91",
+      "SetID": "4a1hjjf",
+      "Name": "Sergeant",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "92",
+      "SetID": "lbkge0",
+      "Name": "Mercenary",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 8207
+    },
+    {
+      "ID": "93",
+      "SetID": "4a1hjjf",
+      "Name": "Vigilante Justice",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1094
+    },
+    {
+      "ID": "94",
+      "SetID": "4a1hjjf",
+      "Name": "Smoking Gun",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 410
+    },
+    {
+      "ID": "95",
+      "SetID": "4a1hjjf",
+      "Name": "Judicatory",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    },
+    {
+      "ID": "96",
+      "SetID": "lbkge0",
+      "Name": "Constructor",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 5471
+    },
+    {
+      "ID": "97",
+      "SetID": "4a1hjjf",
+      "Name": "Inventor",
+      "Percentage": 0.5,
+      "XP": 5,
+      "UsersEstimate": 684
+    },
+    {
+      "ID": "98",
+      "SetID": "4a1hjjf",
+      "Name": "Fabricator",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 274
+    },
+    {
+      "ID": "99",
+      "SetID": "4a1hjjf",
+      "Name": "Formulation",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 137
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4a1hjjf",
+      "IsBase": false,
+      "Progressed": 136786,
+      "Completed": 2
+    },
+    {
+      "ID": "lbkge0",
+      "IsBase": true,
+      "Progressed": 136786,
+      "Completed": 6
+    }
+  ],
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:33.4303838+00:00",
   "LastChanged": "2024-06-17T08:58:32.2278691+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:33.4303806+00:00",
   "LastUpdate_AppInfo": "2024-06-13T20:57:18.2870622+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:55.1491883+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:05.0836888+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:33.4324347+00:00"
 }

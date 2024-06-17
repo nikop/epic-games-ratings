@@ -2,10 +2,10 @@
   "ID": "a702c4e086e143e39a95456fa7832719",
   "Name": "Hailot - Random Card Defense",
   "ProductSlug": "hailot-7a5a5f",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-19T16:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-20T11:59:01.0465313+00:00",
   "LastUpdate_AppInfo": "2024-06-11T23:57:13.1817601+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:29.3936968+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:45.0244129+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:42.1356239+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:48.4282084+00:00"
 }

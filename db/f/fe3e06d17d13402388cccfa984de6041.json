@@ -2,10 +2,10 @@
   "ID": "fe3e06d17d13402388cccfa984de6041",
   "Name": "Olympics Go! Paris 2024",
   "ProductSlug": "olympics-go-paris-2024-5d5f77",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Completed": 439,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-11T16:00:00+00:00",
     "PcReleaseDate": "2024-06-11T16:00:00+00:00",
@@ -25,17 +25,331 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 2258,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0.04,
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:29.9069218+00:00",
+      "NumProgressed": 2258,
+      "NumCompleted": 1
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:29.9069246+00:00",
+  "TotalAchievements": 37,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "all_bronze_beginner_event",
+      "SetID": "b888bip",
+      "Name": "Bronze Beginnings",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 226
+    },
+    {
+      "ID": "all_bronze_expert_event",
+      "SetID": "b888bip",
+      "Name": "Bronze Expertise",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 45
+    },
+    {
+      "ID": "all_bronze_master_event",
+      "SetID": "b888bip",
+      "Name": "Bronze Master",
+      "Percentage": 0.1,
+      "XP": 70,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "all_bronze_pro_event",
+      "SetID": "b888bip",
+      "Name": "Bronze Professional",
+      "Percentage": 0.4,
+      "XP": 50,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "all_gold_beginner_event",
+      "SetID": "b888bip",
+      "Name": "Gold Beginnings",
+      "Percentage": 6,
+      "XP": 30,
+      "UsersEstimate": 135
+    },
+    {
+      "ID": "all_gold_expert_event",
+      "SetID": "b888bip",
+      "Name": "Gold Expertise",
+      "Percentage": 1,
+      "XP": 50,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "all_gold_master_event",
+      "SetID": "b888bip",
+      "Name": "Gold Master",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "all_gold_pro_event",
+      "SetID": "b888bip",
+      "Name": "Gold Professional",
+      "Percentage": 0.2,
+      "XP": 70,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "all_silver_beginner_event",
+      "SetID": "b888bip",
+      "Name": "Silver Beginnings",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 181
+    },
+    {
+      "ID": "all_silver_expert_event",
+      "SetID": "b888bip",
+      "Name": "Silver Expertise",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 45
+    },
+    {
+      "ID": "all_silver_master_event",
+      "SetID": "b888bip",
+      "Name": "Silver Master",
+      "Percentage": 0.1,
+      "XP": 80,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "all_silver_pro_event",
+      "SetID": "b888bip",
+      "Name": "Silver Professional",
+      "Percentage": 0.4,
+      "XP": 60,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "first_bronze_medal",
+      "SetID": "b888bip",
+      "Name": "First bronze medal",
+      "Percentage": 95,
+      "XP": 5,
+      "UsersEstimate": 2145
+    },
+    {
+      "ID": "first_gold_medal",
+      "SetID": "b888bip",
+      "Name": "First Gold medal",
+      "Percentage": 92,
+      "XP": 20,
+      "UsersEstimate": 2077
+    },
+    {
+      "ID": "first_medal_archery",
+      "SetID": "b888bip",
+      "Name": "First medal won in Archery",
+      "Percentage": 84,
+      "XP": 5,
+      "UsersEstimate": 1897
+    },
+    {
+      "ID": "first_medal_athletics",
+      "SetID": "b888bip",
+      "Name": "First medal won in Athletics",
+      "Percentage": 95,
+      "XP": 5,
+      "UsersEstimate": 2145
+    },
+    {
+      "ID": "first_medal_basketball",
+      "SetID": "b888bip",
+      "Name": "First medal won in Basketball",
+      "Percentage": 19,
+      "XP": 5,
+      "UsersEstimate": 429
+    },
+    {
+      "ID": "first_medal_breaking",
+      "SetID": "b888bip",
+      "Name": "First medal won in Breaking",
+      "Percentage": 28,
+      "XP": 5,
+      "UsersEstimate": 632
+    },
+    {
+      "ID": "first_medal_cycling",
+      "SetID": "b888bip",
+      "Name": "First medal won in Cycling",
+      "Percentage": 22,
+      "XP": 5,
+      "UsersEstimate": 497
+    },
+    {
+      "ID": "first_medal_fencing",
+      "SetID": "b888bip",
+      "Name": "First medal won in Fencing",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 1694
+    },
+    {
+      "ID": "first_medal_golf",
+      "SetID": "b888bip",
+      "Name": "First medal won in Golf",
+      "Percentage": 43,
+      "XP": 5,
+      "UsersEstimate": 971
+    },
+    {
+      "ID": "first_medal_gymnastics",
+      "SetID": "b888bip",
+      "Name": "First medal won in Gymnastics",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 316
+    },
+    {
+      "ID": "first_medal_rowing",
+      "SetID": "b888bip",
+      "Name": "First medal won in Rowing",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 316
+    },
+    {
+      "ID": "first_medal_shooting",
+      "SetID": "b888bip",
+      "Name": "First medal won in Shooting",
+      "Percentage": 55,
+      "XP": 5,
+      "UsersEstimate": 1242
+    },
+    {
+      "ID": "first_medal_skateboard",
+      "SetID": "b888bip",
+      "Name": "First medal won in Skateboard",
+      "Percentage": 20,
+      "XP": 5,
+      "UsersEstimate": 452
+    },
+    {
+      "ID": "first_medal_swimming",
+      "SetID": "b888bip",
+      "Name": "First medal won in Swimming",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 271
+    },
+    {
+      "ID": "first_silver_medal",
+      "SetID": "b888bip",
+      "Name": "First Silver medal",
+      "Percentage": 95,
+      "XP": 10,
+      "UsersEstimate": 2145
+    },
+    {
+      "ID": "game_fashionista",
+      "SetID": "b888bip",
+      "Name": "Fashionista",
+      "Percentage": 35,
+      "XP": 10,
+      "UsersEstimate": 790
+    },
+    {
+      "ID": "game_improve_medal",
+      "SetID": "b888bip",
+      "Name": "New Record",
+      "Percentage": 9,
+      "XP": 25,
+      "UsersEstimate": 203
+    },
+    {
+      "ID": "game_play_every_sport",
+      "SetID": "b888bip",
+      "Name": "Jack of all trades",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 226
+    },
+    {
+      "ID": "placed_all_building",
+      "SetID": "b888bip",
+      "Name": "Master Architect",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "placed_all_spots_around",
+      "SetID": "b888bip",
+      "Name": "City Planner",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 113
+    },
+    {
+      "ID": "placed_decorations_3",
+      "SetID": "b888bip",
+      "Name": "Landscape Artist",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 45
+    },
+    {
+      "ID": "placed_foodstands_3",
+      "SetID": "b888bip",
+      "Name": "Picky Eater",
+      "Percentage": 4,
+      "XP": 25,
+      "UsersEstimate": 90
+    },
+    {
+      "ID": "placed_restaurants_3",
+      "SetID": "b888bip",
+      "Name": "What shall we eat?",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 68
+    },
+    {
+      "ID": "placed_services_3",
+      "SetID": "b888bip",
+      "Name": "Help is on the way",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 113
+    },
+    {
+      "ID": "placed_shop_3",
+      "SetID": "b888bip",
+      "Name": "Shopping Spree",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 68
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "b888bip",
+      "IsBase": true,
+      "Progressed": 2258,
+      "Completed": 1
+    }
+  ],
   "FirstSeen": "2024-06-11T21:59:22.6599322+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:29.9069245+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:29.9069213+00:00",
   "LastUpdate_AppInfo": "2024-06-14T22:57:15.3430651+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:43.4776991+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:05.3578898+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:29.9076284+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start a new game | 43.00% | ~3 |
-| Go Direct | 29.00% | ~2 |
-| Enter a new name | 14.00% | ~1 |
-| Title Sequence | 14.00% | ~1 |
+| Start a new game | 38.00% | ~3 |
+| Go Direct | 25.00% | ~2 |
+| Enter a new name | 13.00% | ~1 |
+| Title Sequence | 13.00% | ~1 |
 | Burying the past | 0.00% | ~0 |
 | CD Player | 0.00% | ~0 |
 | Father Route | 0.00% | ~0 |
@@ -65,8 +65,8 @@
 | Victim | 0.00% | ~0 |
 | Have played WTC : Recruitment Day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 809)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 8 (Ranked 887)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,3 +76,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2023-05-06 | 5 | 0 |
 | 2024-02-22 | 6 | 0 |
 | 2024-03-21 | 7 | 0 |
+| 2024-06-17 | 8 | 0 |

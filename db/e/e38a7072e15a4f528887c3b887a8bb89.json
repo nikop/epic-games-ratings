@@ -2,10 +2,10 @@
   "ID": "e38a7072e15a4f528887c3b887a8bb89",
   "Name": "Outbreak The New Nightmare Revisited",
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
-  "Ranking_EOS_Progress": 713,
-  "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 156,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
     "PcReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 36,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 2.78,
   "EosHistory": [
     {
       "Time": "2023-11-09T10:06:31.960066+00:00",
@@ -169,6 +169,11 @@
       "Time": "2024-03-21T17:09:41.3789379+00:00",
       "NumProgressed": 28,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:13:13.3681212+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:20.387506+00:00",
@@ -179,31 +184,31 @@
       "ID": "ABSOLUTE_OVERKILL_ACH",
       "SetID": "c01b5ga",
       "Name": "Absolute Overkill",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EVAC_POINT_ACH",
       "SetID": "c01b5ga",
       "Name": "Evac point",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EVERY_SHOT_COUNTS_ACH",
       "SetID": "c01b5ga",
       "Name": "Every Shot Counts!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "HANGING_IN_THERE_ACH",
       "SetID": "c01b5ga",
       "Name": "Hanging in There",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -211,15 +216,15 @@
       "ID": "HORRIBLE_END_ACH",
       "SetID": "c01b5ga",
       "Name": "Horrible End",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "KEEP_RUNNING_ACH",
       "SetID": "c01b5ga",
       "Name": "Keep Running!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -227,15 +232,15 @@
       "ID": "NO_FEAR_ACH",
       "SetID": "c01b5ga",
       "Name": "No Fear",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 23
     },
     {
       "ID": "OPENING_SALVO_ACH",
       "SetID": "c01b5ga",
       "Name": "Opening Salvo",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -243,23 +248,23 @@
       "ID": "SWEET_LIFE_ACH",
       "SetID": "c01b5ga",
       "Name": "Sweet Life",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TACTICAL_MEASURES_ACH",
       "SetID": "c01b5ga",
       "Name": "Tactical Measures",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THE_LAST_STAND_ACH",
       "SetID": "c01b5ga",
       "Name": "The Last Stand",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -267,7 +272,7 @@
       "ID": "ULTIMATE_ESCAPE_ACH",
       "SetID": "c01b5ga",
       "Name": "Ultimate Escape",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -276,14 +281,14 @@
     {
       "ID": "c01b5ga",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 36,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-07T01:37:16.531327+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:18.2071909+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:13:13.3681208+00:00",
   "LastUpdate_AppInfo": "2024-06-13T18:57:27.7400238+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:37.9927241+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:18.2072011+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:14.161913+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:13:13.368132+00:00"
 }

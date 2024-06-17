@@ -2,10 +2,10 @@
   "ID": "c43146b859f04072ab662e89587b692b",
   "Name": "Outbreak Endless Nightmares Restless Dreams",
   "ProductSlug": "outbreak-endless-nightmares-restless-dreams-40507b",
-  "Ranking_EOS_Progress": 707,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-30T14:00:00+00:00",
     "PcReleaseDate": "2023-08-30T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 31,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.45,
+  "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
     {
       "Time": "2023-10-18T22:15:21.0608364+00:00",
@@ -99,6 +99,11 @@
       "Time": "2024-03-21T17:07:05.6802211+00:00",
       "NumProgressed": 29,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:10:31.7909591+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.0608453+00:00",
@@ -125,9 +130,9 @@
       "ID": "MIGHT_BE_MENDED_ACH",
       "SetID": "cnj66m",
       "Name": "Might Be Mended",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MYSTERIOUS_HORRORS_ACH",
@@ -141,9 +146,9 @@
       "ID": "PURGATORY_ACH",
       "SetID": "cnj66m",
       "Name": "Purgatory",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SOURCE_OF_TORMENT_ACH",
@@ -157,25 +162,25 @@
       "ID": "STRANGE_LAND_ACH",
       "SetID": "cnj66m",
       "Name": "Strange Land",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "SUPERIOR_FIREPOWER_ACH",
       "SetID": "cnj66m",
       "Name": "Superior Firepower",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THE_CONDUCTOR_ACH",
       "SetID": "cnj66m",
       "Name": "The Conductor",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TOWER_OF_PAIN_ACH",
@@ -198,14 +203,14 @@
     {
       "ID": "cnj66m",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 31,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-21T11:58:37.7848996+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.0608452+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:51.9988048+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:10:31.7909587+00:00",
   "LastUpdate_AppInfo": "2024-06-13T19:56:56.4195259+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:06.448971+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:51.9988133+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:01.3815455+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:10:31.7909676+00:00"
 }

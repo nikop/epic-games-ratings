@@ -5,61 +5,61 @@ Rating: 4.56 (Ranked 542)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 26.00% | ~336 |
-| Increasing your Power Level | 26.00% | ~336 |
-| Enter the Speed Gauntlet | 25.00% | ~323 |
-| I just can't choose | 25.00% | ~323 |
-| A Cheese Grater to the Face | 19.00% | ~245 |
-| Put it on a shelf | 18.00% | ~232 |
-| It's like an haircut | 17.00% | ~219 |
-| Ride in the rising sun | 16.00% | ~207 |
-| Suit up | 16.00% | ~207 |
-| Walked like an Egyptian | 15.00% | ~194 |
-| Running at the speed of sound | 14.00% | ~181 |
-| Rookie No-No More | 12.00% | ~155 |
-| Martian explorer | 11.00% | ~142 |
-| To the core | 8.00% | ~103 |
-| Blurred photofinish | 8.00% | ~103 |
-| First step into a larger world | 7.00% | ~90 |
-| EZ game EZ life | 6.00% | ~77 |
-| B-asic! | 5.00% | ~65 |
-| Over the clouds | 5.00% | ~65 |
-| Under the sea, under the sea | 5.00% | ~65 |
-| Even Faster! | 5.00% | ~65 |
-| Longshot | 5.00% | ~65 |
-| Under the neon lights | 4.00% | ~52 |
-| Almost broke the game | 4.00% | ~52 |
-| Better luck next time | 4.00% | ~52 |
-| Dev, this! | 4.00% | ~52 |
-| Try them all | 3.00% | ~39 |
-| A-mazing! | 3.00% | ~39 |
-| To infinity and gravity! | 3.00% | ~39 |
-| One giant drive for mankind | 3.00% | ~39 |
-| All Power to Engines! | 3.00% | ~39 |
-| Had to sweat a bit | 3.00% | ~39 |
-| It's like a party! | 3.00% | ~39 |
-| He who laughs last... | 3.00% | ~39 |
-| This is to go, even Further Beyond! | 2.00% | ~26 |
-| Gitting Gud | 2.00% | ~26 |
-| [Sweats profusely] | 2.00% | ~26 |
-| Redout Champion | 2.00% | ~26 |
-| Healthy competition | 2.00% | ~26 |
-| Great Start | 2.00% | ~26 |
-| S-uper! | 1.00% | ~13 |
-| Put a sign on it | 1.00% | ~13 |
-| Everything is better with friends | 1.00% | ~13 |
-| Eat dust my friend | 1.00% | ~13 |
-| Grandslam | 1.00% | ~13 |
-| Fashion Racer | 0.90% | ~12 |
-| Familiar Face | 0.90% | ~12 |
-| Better than half the studio... | 0.90% | ~12 |
-| Beat you to it! | 0.90% | ~12 |
-| Redout Grandmaster | 0.80% | ~10 |
-| I, need, more, shelves! | 0.50% | ~6 |
-| New pro in town! | 0.10% | ~1 |
+| Rookie No More | 42.00% | ~35,181 |
+| Increasing your Power Level | 42.00% | ~35,181 |
+| Enter the Speed Gauntlet | 35.00% | ~29,318 |
+| I just can't choose | 35.00% | ~29,318 |
+| A Cheese Grater to the Face | 17.00% | ~14,240 |
+| Running at the speed of sound | 15.00% | ~12,565 |
+| Rookie No-No More | 13.00% | ~10,889 |
+| Put it on a shelf | 12.00% | ~10,052 |
+| First step into a larger world | 10.00% | ~8,376 |
+| It's like an haircut | 10.00% | ~8,376 |
+| Suit up | 9.00% | ~7,539 |
+| Ride in the rising sun | 7.00% | ~5,864 |
+| Walked like an Egyptian | 6.00% | ~5,026 |
+| It's like a party! | 5.00% | ~4,188 |
+| Better luck next time | 4.00% | ~3,351 |
+| Martian explorer | 3.00% | ~2,513 |
+| Blurred photofinish | 3.00% | ~2,513 |
+| Healthy competition | 2.00% | ~1,675 |
+| To the core | 1.00% | ~838 |
+| Everything is better with friends | 0.80% | ~670 |
+| EZ game EZ life | 0.60% | ~503 |
+| Almost broke the game | 0.60% | ~503 |
+| Over the clouds | 0.50% | ~419 |
+| Even Faster! | 0.50% | ~419 |
+| Eat dust my friend | 0.50% | ~419 |
+| B-asic! | 0.40% | ~335 |
+| Under the sea, under the sea | 0.40% | ~335 |
+| To infinity and gravity! | 0.20% | ~168 |
+| One giant drive for mankind | 0.20% | ~168 |
+| Under the neon lights | 0.20% | ~168 |
+| Beat you to it! | 0.20% | ~168 |
+| He who laughs last... | 0.20% | ~168 |
+| Fashion Racer | 0.10% | ~84 |
+| Try them all | 0.10% | ~84 |
+| A-mazing! | 0.10% | ~84 |
+| S-uper! | 0.10% | ~84 |
+| Put a sign on it | 0.10% | ~84 |
+| I, need, more, shelves! | 0.10% | ~84 |
+| This is to go, even Further Beyond! | 0.10% | ~84 |
+| All Power to Engines! | 0.10% | ~84 |
+| Had to sweat a bit | 0.10% | ~84 |
+| Gitting Gud | 0.10% | ~84 |
+| [Sweats profusely] | 0.10% | ~84 |
+| Redout Champion | 0.10% | ~84 |
+| Longshot | 0.10% | ~84 |
+| Redout Grandmaster | 0.10% | ~84 |
+| Familiar Face | 0.10% | ~84 |
+| Dev, this! | 0.10% | ~84 |
+| Better than half the studio... | 0.10% | ~84 |
+| New pro in town! | 0.10% | ~84 |
+| Grandslam | 0.10% | ~84 |
+| Great Start | 0.10% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,291 (Ranked 328)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 83,765 (Ranked 134)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,6 +228,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-03-21 | 1,277 | 0 |
 | 2024-04-07 | 1,289 | 0 |
 | 2024-04-10 | 1,291 | 0 |
+| 2024-06-17 | 83,765 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

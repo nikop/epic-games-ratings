@@ -5,52 +5,52 @@ Rating: 4.69 (Ranked 262)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 12.00% | ~1,212 |
-| A Thorny Situation | 12.00% | ~1,212 |
-| ... And Spit Back Out | 10.00% | ~1,010 |
-| Miner 49er | 8.00% | ~808 |
-| Break-Net Speed | 8.00% | ~808 |
-| Bramble Breaker | 8.00% | ~808 |
-| Calm Sailing | 7.00% | ~707 |
-| Humble Collector | 7.00% | ~707 |
-| Open the Gate! | 6.00% | ~606 |
-| Mist Walker | 6.00% | ~606 |
-| Lumberjack | 5.00% | ~505 |
-| Clear the Air | 4.00% | ~404 |
-| Oui, Chef! | 4.00% | ~404 |
-| Botanical Breakthrough | 4.00% | ~404 |
-| Search for the Hairy Grell | 3.00% | ~303 |
-| Beach Comber | 3.00% | ~303 |
-| Higher Tax Bracket | 3.00% | ~303 |
-| Flaming Hot Completos | 2.00% | ~202 |
-| Fae Farmer | 2.00% | ~202 |
-| Got to Catch Them All | 2.00% | ~202 |
-| Scattered Scroll Scrounger | 2.00% | ~202 |
-| Rumble in the Jumble | 2.00% | ~202 |
-| Fanatical Farmer | 2.00% | ~202 |
-| Azorian Anniversary | 2.00% | ~202 |
-| Skilled | 2.00% | ~202 |
-| Exit Through The Gift Shop | 2.00% | ~54 |
-| I Now Pronounce You... | 1.00% | ~101 |
-| Chatty Neighbor | 1.00% | ~101 |
-| Azorian Hat Dance | 1.00% | ~27 |
-| Right Tool For the Job | 0.90% | ~91 |
-| House Proud | 0.90% | ~91 |
-| Going Down | 0.80% | ~22 |
-| Angling Authority | 0.60% | ~61 |
-| Captain of Cozy | 0.50% | ~50 |
-| Polyglot | 0.40% | ~11 |
-| Cloverfield Island | 0.10% | ~10 |
-| Workaholic | 0.10% | ~10 |
-| Giving the People What They Want | 0.10% | ~10 |
-| Very Skilled | 0.10% | ~10 |
+| Azoria Beckons | 15.00% | ~1,614 |
+| A Thorny Situation | 15.00% | ~1,614 |
+| ... And Spit Back Out | 13.00% | ~1,399 |
+| Break-Net Speed | 11.00% | ~1,184 |
+| Bramble Breaker | 10.00% | ~1,076 |
+| Miner 49er | 9.00% | ~968 |
+| Humble Collector | 9.00% | ~968 |
+| Calm Sailing | 8.00% | ~861 |
+| Open the Gate! | 8.00% | ~861 |
+| Mist Walker | 7.00% | ~753 |
+| Lumberjack | 6.00% | ~646 |
+| Oui, Chef! | 6.00% | ~646 |
+| Clear the Air | 5.00% | ~538 |
+| Search for the Hairy Grell | 4.00% | ~430 |
+| Higher Tax Bracket | 4.00% | ~430 |
+| Botanical Breakthrough | 4.00% | ~430 |
+| Beach Comber | 3.00% | ~323 |
+| Rumble in the Jumble | 3.00% | ~323 |
+| Skilled | 3.00% | ~323 |
+| Flaming Hot Completos | 2.00% | ~215 |
+| Fae Farmer | 2.00% | ~215 |
+| Got to Catch Them All | 2.00% | ~215 |
+| Scattered Scroll Scrounger | 2.00% | ~215 |
+| Fanatical Farmer | 2.00% | ~215 |
+| Azorian Anniversary | 2.00% | ~215 |
+| Azorian Hat Dance | 2.00% | ~68 |
+| Exit Through The Gift Shop | 2.00% | ~68 |
+| I Now Pronounce You... | 1.00% | ~108 |
+| Chatty Neighbor | 1.00% | ~108 |
+| Right Tool For the Job | 1.00% | ~108 |
+| House Proud | 1.00% | ~108 |
+| Going Down | 1.00% | ~34 |
+| Angling Authority | 0.70% | ~75 |
+| Captain of Cozy | 0.50% | ~54 |
+| Polyglot | 0.50% | ~17 |
+| Cloverfield Island | 0.10% | ~11 |
+| Workaholic | 0.10% | ~11 |
+| Giving the People What They Want | 0.10% | ~11 |
+| Very Skilled | 0.10% | ~11 |
 | A Pal To All | 0.10% | ~3 |
 | Scroll Hunter | 0.10% | ~3 |
 | Splish-Splash | 0.10% | ~3 |
 | Archi-Pal-igo Aficionado | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,096 (Ranked 204)  
-Completed: 1 (0.01%) (Ranked 433)  
+Progressed: 10,761 (Ranked 223)  
+Completed: 3 (0.03%) (Ranked 449)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,6 +208,7 @@ Completed: 1 (0.01%) (Ranked 433)
 | 2024-02-22 | 9,556 | 1 |
 | 2024-03-21 | 9,863 | 1 |
 | 2024-04-10 | 10,096 | 1 |
+| 2024-06-17 | 10,761 | 3 |
 ## Awards
 Max (Character Customization): 28  (Ranked 601)  
 Sum: 28 (Ranked 623)  

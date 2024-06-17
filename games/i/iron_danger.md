@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 81.00% | ~367 |
-| Found the Healer | 32.00% | ~145 |
-| Second Shard | 8.00% | ~36 |
-| Champion of Kalevala | 6.00% | ~27 |
-| Keyu Exterminator | 6.00% | ~27 |
-| Death is Merely a Setback | 6.00% | ~27 |
-| Ring of Fire! | 6.00% | ~27 |
-| Third Shard | 6.00% | ~27 |
-| Berry Nice | 5.00% | ~23 |
-| Fourth Shard | 5.00% | ~23 |
-| Big Fish | 4.00% | ~18 |
-| Tastes Like Chicken | 4.00% | ~18 |
-| Fifth Shard | 4.00% | ~18 |
-| Mushroom Forager | 2.00% | ~9 |
-| Good Stew | 2.00% | ~9 |
-| Green Thumb | 2.00% | ~9 |
-| Avian Veterinarian | 2.00% | ~9 |
-| Bird Butcherer | 2.00% | ~9 |
-| Finished Iron Danger | 2.00% | ~9 |
+| First Shard | 81.00% | ~432 |
+| Found the Healer | 31.00% | ~165 |
+| Second Shard | 8.00% | ~43 |
+| Champion of Kalevala | 6.00% | ~32 |
+| Death is Merely a Setback | 6.00% | ~32 |
+| Third Shard | 6.00% | ~32 |
+| Berry Nice | 5.00% | ~27 |
+| Keyu Exterminator | 5.00% | ~27 |
+| Ring of Fire! | 5.00% | ~27 |
+| Fourth Shard | 5.00% | ~27 |
+| Big Fish | 4.00% | ~21 |
+| Fifth Shard | 4.00% | ~21 |
+| Tastes Like Chicken | 3.00% | ~16 |
+| Mushroom Forager | 2.00% | ~11 |
+| Good Stew | 2.00% | ~11 |
+| Green Thumb | 2.00% | ~11 |
+| Avian Veterinarian | 2.00% | ~11 |
+| Bird Butcherer | 2.00% | ~11 |
+| Finished Iron Danger | 2.00% | ~11 |
 | Natural Selection | 1.00% | ~5 |
-| Knock, Knock! | 0.90% | ~4 |
-| Trolled | 0.90% | ~4 |
-| Troll Hunter | 0.90% | ~4 |
+| Knock, Knock! | 0.80% | ~4 |
+| Trolled | 0.80% | ~4 |
+| Troll Hunter | 0.80% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453 (Ranked 413)  
-Completed: 4 (0.88%) (Ranked 221)  
+Progressed: 533 (Ranked 440)  
+Completed: 4 (0.75%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,6 +161,7 @@ Completed: 4 (0.88%) (Ranked 221)
 | 2024-02-22 | 381 | 4 |
 | 2024-03-21 | 418 | 4 |
 | 2024-04-08 | 453 | 4 |
+| 2024-06-17 | 533 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,38 +5,38 @@ Rating: 4.16 (Ranked 1,082)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~11,159 |
-| Disposing of the Evidence | 40.00% | ~5,378 |
-| Without a Scratch | 35.00% | ~4,706 |
-| Wreckless Driving | 30.00% | ~4,034 |
-| A Marked Man | 27.00% | ~3,630 |
-| Street Sweeper | 21.00% | ~2,823 |
-| Liberty City Minute | 18.00% | ~2,420 |
-| Offshore Delivery | 16.00% | ~2,151 |
-| Dirty Money | 14.00% | ~1,882 |
-| Not So Fast | 12.00% | ~1,613 |
-| Right-hand Man | 11.00% | ~1,479 |
-| By a Mile | 10.00% | ~1,344 |
-| A Gift from the King | 8.00% | ~1,076 |
-| Full Artillery | 5.00% | ~672 |
-| Mob Boss | 3.00% | ~403 |
-| Splish Splash | 3.00% | ~403 |
-| Escape Artist | 2.00% | ~269 |
-| Planned Ahead | 2.00% | ~269 |
-| Got This Figured Out | 2.00% | ~269 |
-| Come Out to Play-y-y-y | 2.00% | ~269 |
-| Where To? | 2.00% | ~269 |
-| Man Toyz | 2.00% | ~269 |
-| Playing Doctor | 2.00% | ~269 |
-| Going Rogue | 2.00% | ~269 |
-| Liberty City Secrets | 2.00% | ~269 |
-| Wheels Up | 1.00% | ~134 |
-| Furious First Responder | 1.00% | ~134 |
-| Is That All You've Got? | 1.00% | ~134 |
-| King of Liberty City | 0.90% | ~121 |
+| First Day on the Job | 84.00% | ~11,926 |
+| Disposing of the Evidence | 40.00% | ~5,679 |
+| Without a Scratch | 36.00% | ~5,111 |
+| Wreckless Driving | 30.00% | ~4,259 |
+| A Marked Man | 27.00% | ~3,833 |
+| Street Sweeper | 21.00% | ~2,982 |
+| Liberty City Minute | 19.00% | ~2,698 |
+| Offshore Delivery | 16.00% | ~2,272 |
+| Dirty Money | 14.00% | ~1,988 |
+| Not So Fast | 12.00% | ~1,704 |
+| By a Mile | 11.00% | ~1,562 |
+| Right-hand Man | 11.00% | ~1,562 |
+| A Gift from the King | 8.00% | ~1,136 |
+| Full Artillery | 5.00% | ~710 |
+| Mob Boss | 3.00% | ~426 |
+| Splish Splash | 3.00% | ~426 |
+| Escape Artist | 2.00% | ~284 |
+| Planned Ahead | 2.00% | ~284 |
+| Got This Figured Out | 2.00% | ~284 |
+| Wheels Up | 2.00% | ~284 |
+| Come Out to Play-y-y-y | 2.00% | ~284 |
+| Where To? | 2.00% | ~284 |
+| Man Toyz | 2.00% | ~284 |
+| Playing Doctor | 2.00% | ~284 |
+| Going Rogue | 2.00% | ~284 |
+| Liberty City Secrets | 2.00% | ~284 |
+| Furious First Responder | 1.00% | ~142 |
+| Is That All You've Got? | 1.00% | ~142 |
+| King of Liberty City | 0.90% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,445 (Ranked 196)  
-Completed: 122 (0.91%) (Ranked 220)  
+Progressed: 14,198 (Ranked 211)  
+Completed: 130 (0.92%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,6 +320,7 @@ Completed: 122 (0.91%) (Ranked 220)
 | 2024-01-27 | 12,560 | 97 |
 | 2024-03-21 | 13,149 | 117 |
 | 2024-04-10 | 13,445 | 122 |
+| 2024-06-17 | 14,198 | 130 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

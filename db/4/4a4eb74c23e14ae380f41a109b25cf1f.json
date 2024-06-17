@@ -2,10 +2,10 @@
   "ID": "4a4eb74c23e14ae380f41a109b25cf1f",
   "Name": "Miwa: The Sacred Fox",
   "ProductSlug": "miwa-the-sacred-fox-89da48",
-  "Ranking_EOS_Progress": 906,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 940,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-14T22:00:00+00:00",
     "PcReleaseDate": "2023-06-17T22:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -31,6 +31,11 @@
     {
       "Time": "2024-01-26T21:05:33.8060232+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:11:00.2749087+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -42,9 +47,9 @@
       "ID": "Miwa: The Sacred Fox",
       "SetID": "c95dc43",
       "Name": "Miwa: The Sacred Fox",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "afterlife",
@@ -98,9 +103,9 @@
       "ID": "horse_lover",
       "SetID": "c95dc43",
       "Name": "Horse Lover",
-      "Percentage": 0,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "kitsune_enchanter",
@@ -194,9 +199,9 @@
       "ID": "level12_completed",
       "SetID": "c95dc43",
       "Name": "Dark Descent",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "level13_completed",
@@ -379,13 +384,13 @@
     {
       "ID": "c95dc43",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-24T12:05:18.0820913+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:07.2834541+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:11:00.2749082+00:00",
   "LastUpdate_AppInfo": "2024-06-11T05:57:01.2747117+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:14.9157768+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:07.2834829+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:21.9957807+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:00.2749376+00:00"
 }

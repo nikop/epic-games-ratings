@@ -2,13 +2,13 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 398,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Completed": 439,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -444,7 +444,7 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 7946,
+  "EOS_Progressed": 8519,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -9314,6 +9314,11 @@
       "Time": "2024-04-10T06:04:50.5403014+00:00",
       "NumProgressed": 7946,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-06-17T16:14:12.4836002+00:00",
+      "NumProgressed": 8519,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -9325,39 +9330,39 @@
       "Name": "Against All Odds",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Amy",
       "SetID": "bmkn7o4",
       "Name": "Amy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 170
     },
     {
       "ID": "Amy_Scav",
       "SetID": "bmkn7o4",
       "Name": "Amy: Scavenger Hunt",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 77
     },
     {
       "ID": "Ashley",
       "SetID": "bmkn7o4",
       "Name": "Ashley",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 68
     },
     {
       "ID": "BBrahrnold",
       "SetID": "bmkn7o4",
       "Name": "Benedict Brahrnold",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 68
     },
     {
       "ID": "BeBack",
@@ -9365,7 +9370,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 60
     },
     {
       "ID": "BeyondTheCall",
@@ -9373,15 +9378,15 @@
       "Name": "Beyond the Call of Dude-y",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "Brahdyssey",
       "SetID": "bmkn7o4",
       "Name": "The Brahdyssey",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 341
     },
     {
       "ID": "Bride",
@@ -9389,7 +9394,7 @@
       "Name": "The Bride",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "Casabrova",
@@ -9397,15 +9402,15 @@
       "Name": "Casabrova",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Casanova",
       "SetID": "bmkn7o4",
       "Name": "Casanova",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 85
     },
     {
       "ID": "CaughtInAct",
@@ -9413,7 +9418,7 @@
       "Name": "Caught in the Act",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 341
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -9421,7 +9426,7 @@
       "Name": "Congrats, A Celebrity Hates You",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DClubCert",
@@ -9429,7 +9434,7 @@
       "Name": "D-Club Certified",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DeckTheBalls",
@@ -9437,7 +9442,7 @@
       "Name": "Deck the Balls",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     },
     {
       "ID": "DnD_Ashley",
@@ -9445,15 +9450,15 @@
       "Name": "Drunk and Disorderly: Ashley",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 170
     },
     {
       "ID": "DnD_Madison",
       "SetID": "bmkn7o4",
       "Name": "Drunk and Disorderly: Madison",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 43
     },
     {
       "ID": "DnD_Stephanie",
@@ -9461,7 +9466,7 @@
       "Name": "Drunk and Disorderly: Stephanie",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 256
     },
     {
       "ID": "DoNotBurn",
@@ -9469,15 +9474,15 @@
       "Name": "Do Not Burn",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "DojaDinoliciousDanceapalooza",
       "SetID": "5f3a6d9",
       "Name": "Doja\u0027s Dope-Ass Dinolicious Danceapalooza",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 17
     },
     {
       "ID": "DuckNWeave",
@@ -9485,7 +9490,7 @@
       "Name": "Duck n\u0027 Weave",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "FirstImpressions",
@@ -9493,15 +9498,15 @@
       "Name": "First Impressions",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "FriendInNeed",
       "SetID": "bmkn7o4",
       "Name": "A Friend in Need...",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 767
     },
     {
       "ID": "GoodRiddance",
@@ -9509,7 +9514,7 @@
       "Name": "Good Riddance!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GrumpFu",
@@ -9517,23 +9522,23 @@
       "Name": "I Know Grump-Fu",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "HarderDood",
       "SetID": "bmkn7o4",
       "Name": "The Harder They Fall...Dood",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 75,
-      "UsersEstimate": 24
+      "UsersEstimate": 34
     },
     {
       "ID": "HijinksAverted",
       "SetID": "bmkn7o4",
       "Name": "Hijinks Averted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 17
     },
     {
       "ID": "HostHijinks",
@@ -9541,7 +9546,7 @@
       "Name": "Host Hijinks",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "HungryHungryHotTubs",
@@ -9549,15 +9554,15 @@
       "Name": "Hungry Hungry Hot Tubs",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "IRLLetsPlay",
       "SetID": "bmkn7o4",
       "Name": "IRL Let\u0027s Player",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 170
     },
     {
       "ID": "IceBath",
@@ -9565,7 +9570,7 @@
       "Name": "Ice Bath",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Inspector",
@@ -9573,15 +9578,15 @@
       "Name": "Inspector",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 170
     },
     {
       "ID": "ItSmellsLikeRoses",
       "SetID": "5f3a6d9",
       "Name": "It Smells Like Roses",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 56
     },
     {
       "ID": "Katherine",
@@ -9589,15 +9594,15 @@
       "Name": "Katherine",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 341
     },
     {
       "ID": "LCA",
       "SetID": "bmkn7o4",
       "Name": "Love Conquers All",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 68
     },
     {
       "ID": "LifeFoundAWay",
@@ -9605,7 +9610,7 @@
       "Name": "Life Found a Way",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 167
     },
     {
       "ID": "MoneyShot",
@@ -9613,7 +9618,7 @@
       "Name": "Money Shot",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NC_Vickie",
@@ -9621,7 +9626,7 @@
       "Name": "Newcomer: Vickie",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 170
     },
     {
       "ID": "NoticeMe",
@@ -9629,7 +9634,7 @@
       "Name": "Notice Me, Sensei",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NowItsAParty",
@@ -9637,23 +9642,23 @@
       "Name": "Now It\u0027s a Party!",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "Pat_Relentless",
       "SetID": "bmkn7o4",
       "Name": "Relentless",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 341
     },
     {
       "ID": "Penguinfucker",
       "SetID": "bmkn7o4",
       "Name": "Rule 34",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 51
     },
     {
       "ID": "PoopEnding",
@@ -9661,15 +9666,15 @@
       "Name": "Party Pooper",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Rachael",
       "SetID": "bmkn7o4",
       "Name": "Rachael",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 43
     },
     {
       "ID": "Ronin",
@@ -9677,7 +9682,7 @@
       "Name": "Ronin",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "SO_Ashley",
@@ -9685,15 +9690,15 @@
       "Name": "Smooth Operator: Ashley",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 85
     },
     {
       "ID": "SO_Madison",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Madison",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 477
+      "UsersEstimate": 596
     },
     {
       "ID": "SmellBlood",
@@ -9701,31 +9706,31 @@
       "Name": "Do You Smell Blood?",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "SocialButterfly",
       "SetID": "bmkn7o4",
       "Name": "Social Butterfly",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 170
     },
     {
       "ID": "Stephanie",
       "SetID": "bmkn7o4",
       "Name": "Stephanie",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 77
     },
     {
       "ID": "StrikingResemblance",
       "SetID": "bmkn7o4",
       "Name": "A Striking Resemblance",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 34
     },
     {
       "ID": "Succeed",
@@ -9733,7 +9738,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 341
     },
     {
       "ID": "SuckerPunch",
@@ -9741,7 +9746,7 @@
       "Name": "Sucker Punch",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TM_Derek",
@@ -9749,23 +9754,23 @@
       "Name": "The Muse: Derek",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "TM_Frank",
       "SetID": "bmkn7o4",
       "Name": "Howz It Goin Dood",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 34
     },
     {
       "ID": "TM_Madison",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Madison",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 170
     },
     {
       "ID": "ThatsANiceBush",
@@ -9773,7 +9778,7 @@
       "Name": "That\u0027s a Nice Bush!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TheCrush",
@@ -9781,7 +9786,7 @@
       "Name": "The Crush",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 85
     },
     {
       "ID": "TheCrushes",
@@ -9789,15 +9794,15 @@
       "Name": "The Crush(es)",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TheMagicNumber",
       "SetID": "bmkn7o4",
       "Name": "The Magic Number",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 72
+      "UsersEstimate": 85
     },
     {
       "ID": "TheMostWonderfulTimeOfTheYear",
@@ -9805,15 +9810,15 @@
       "Name": "The Most Wonderful Time of the Year",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Vickie",
       "SetID": "bmkn7o4",
       "Name": "Vickie",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 85
     },
     {
       "ID": "cooch",
@@ -9821,23 +9826,23 @@
       "Name": "La Coochadora",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "derezzed",
       "SetID": "bmkn7o4",
       "Name": "Derezzed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 34
     },
     {
       "ID": "elderbrahs",
       "SetID": "bmkn7o4",
       "Name": "The Elder Brahs",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 51
     },
     {
       "ID": "geometry",
@@ -9845,15 +9850,15 @@
       "Name": "Simple Geometry",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "gooddays",
       "SetID": "bmkn7o4",
       "Name": "Good Ol\u0027 Days",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 43
     },
     {
       "ID": "snapped",
@@ -9861,36 +9866,36 @@
       "Name": "Snapped",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "tal",
       "SetID": "bmkn7o4",
       "Name": "Te Amo Lety",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 85
     }
   ],
   "AchievementSets": [
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4985,
+      "Progressed": 5558,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7946,
+      "Progressed": 8519,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2024-06-10T21:58:14.382555+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:50.540301+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:14:12.4835998+00:00",
   "LastUpdate_AppInfo": "2024-06-16T09:57:24.4866313+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:21.1001668+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:50.5403802+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:35.491859+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:12.4836903+00:00"
 }

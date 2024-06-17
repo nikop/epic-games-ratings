@@ -2,10 +2,10 @@
   "ID": "e11032a0439743babf7f530e4e747145",
   "Name": "HyperRogue",
   "ProductSlug": "hyperrogue-57ce19",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-17T08:00:00+00:00",
     "PcReleaseDate": "2015-01-16T00:00:00+00:00",
@@ -23,16 +23,2504 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:31.5004659+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:31.5004688+00:00",
+  "TotalAchievements": 308,
+  "TotalAchievementsXP": 2135,
+  "Achievements": [
+    {
+      "ID": "APPLE1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Yendorian Forest",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "APPLE2",
+      "SetID": "b53op9b",
+      "Name": "Yendorian Researcher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "APPLE3",
+      "SetID": "5klen59",
+      "Name": "Sparrowhawk",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "APPLE4",
+      "SetID": "5klen59",
+      "Name": "Yendorian Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BARROW1",
+      "SetID": "b53op9b",
+      "Name": "Grave Robber",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BARROW2",
+      "SetID": "b53op9b",
+      "Name": "Master Grave Robber",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BARROW3",
+      "SetID": "5klen59",
+      "Name": "Draugr",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BARROW4",
+      "SetID": "5klen59",
+      "Name": "Master of the Draugar",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLIZZ1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Blizzard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLIZZ2",
+      "SetID": "b53op9b",
+      "Name": "Ice Golem",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLIZZ3",
+      "SetID": "5klen59",
+      "Name": "Void Beast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLIZZ4",
+      "SetID": "5klen59",
+      "Name": "Master of the Blizzard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOWDRAGON",
+      "SetID": "5klen59",
+      "Name": "Black Arrow",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOWKRAKEN",
+      "SetID": "5klen59",
+      "Name": "Black Harpoon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOWVARIETY1",
+      "SetID": "5klen59",
+      "Name": "New Crossbow",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOWVARIETY2",
+      "SetID": "5klen59",
+      "Name": "Master of Marksmanship",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BROWN1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Brown Islands",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BROWN2",
+      "SetID": "b53op9b",
+      "Name": "Acid Bird",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BROWN3",
+      "SetID": "5klen59",
+      "Name": "Bronze Beast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BROWN4",
+      "SetID": "5klen59",
+      "Name": "Master of the Brown Island",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BUG3",
+      "SetID": "5klen59",
+      "Name": "Enemy Number One",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BULL1",
+      "SetID": "b53op9b",
+      "Name": "Sleeping Bull",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BULL2",
+      "SetID": "b53op9b",
+      "Name": "Gadfly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BULL3",
+      "SetID": "5klen59",
+      "Name": "Butterfly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BULL4",
+      "SetID": "5klen59",
+      "Name": "Master of Bull Dash",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAOS",
+      "SetID": "b53op9b",
+      "Name": "Master of Chaos",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COAST1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Coast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COAST2",
+      "SetID": "b53op9b",
+      "Name": "Albatross",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COAST3",
+      "SetID": "5klen59",
+      "Name": "Amber Albatross",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COAST4",
+      "SetID": "5klen59",
+      "Name": "Master of the Tides",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMEBACK",
+      "SetID": "5klen59",
+      "Name": "There and Back Again",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CORAL1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Warped Coast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CORAL2",
+      "SetID": "b53op9b",
+      "Name": "Ratling",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CORAL3",
+      "SetID": "5klen59",
+      "Name": "Ratling Avenger",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CORAL4",
+      "SetID": "5klen59",
+      "Name": "Master of the Warp",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CR4",
+      "SetID": "b53op9b",
+      "Name": "Hyperbolic Traveler",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CURSED1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Cursed Canyon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CURSED2",
+      "SetID": "b53op9b",
+      "Name": "Canyon Hag",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CURSED3",
+      "SetID": "5klen59",
+      "Name": "Cursed Shadow",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CURSED4",
+      "SetID": "5klen59",
+      "Name": "Master of Curses",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DAISY1",
+      "SetID": "b53op9b",
+      "Name": "Reached Hell",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DAISY2",
+      "SetID": "b53op9b",
+      "Name": "Demon of Hell",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DAISY3",
+      "SetID": "5klen59",
+      "Name": "Greater Demon of Hell",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DAISY4",
+      "SetID": "5klen59",
+      "Name": "Master of Hell",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEMONSLAYER",
+      "SetID": "b53op9b",
+      "Name": "Demon Slayer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIAMOND1",
+      "SetID": "b53op9b",
+      "Name": "Ice Explorer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIAMOND2",
+      "SetID": "b53op9b",
+      "Name": "Ice Wolf",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIAMOND3",
+      "SetID": "5klen59",
+      "Name": "Yeti Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIAMOND4",
+      "SetID": "5klen59",
+      "Name": "Master of Ice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DICE1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Dice Reserve",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DICE2",
+      "SetID": "b53op9b",
+      "Name": "Animated Die",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DICE3",
+      "SetID": "5klen59",
+      "Name": "Happy Die",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DICE4",
+      "SetID": "5klen59",
+      "Name": "Master of Dice",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOD1",
+      "SetID": "b53op9b",
+      "Name": "Reached Reptiles",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOD2",
+      "SetID": "b53op9b",
+      "Name": "Lizard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOD3",
+      "SetID": "5klen59",
+      "Name": "Alligator",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOD4",
+      "SetID": "5klen59",
+      "Name": "Master of Reptiles",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOVE1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Windy Plains",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOVE2",
+      "SetID": "b53op9b",
+      "Name": "Wind Crow",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOVE3",
+      "SetID": "5klen59",
+      "Name": "White Dove",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOVE4",
+      "SetID": "5klen59",
+      "Name": "Master of the Windy Plains",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRAGON1",
+      "SetID": "b53op9b",
+      "Name": "Dragon Slayer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRAGON2",
+      "SetID": "b53op9b",
+      "Name": "Dragon Lord",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRAGON3",
+      "SetID": "5klen59",
+      "Name": "Dragon Prince",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRAGON4",
+      "SetID": "5klen59",
+      "Name": "Dragon King",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DUNG1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Dungeon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DUNG2",
+      "SetID": "b53op9b",
+      "Name": "Bat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DUNG3",
+      "SetID": "5klen59",
+      "Name": "Skeleton",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DUNG4",
+      "SetID": "5klen59",
+      "Name": "Master of the Dungeon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ECLEC1",
+      "SetID": "b53op9b",
+      "Name": "Reached Eclectic City",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ECLEC2",
+      "SetID": "b53op9b",
+      "Name": "Eclectic Wolf",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ECLEC3",
+      "SetID": "5klen59",
+      "Name": "Eclectic Guard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ECLEC4",
+      "SetID": "5klen59",
+      "Name": "Eclectic Mayor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELEC3",
+      "SetID": "5klen59",
+      "Name": "Golden Beast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELEMENT1",
+      "SetID": "b53op9b",
+      "Name": "Elementalist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELEMENT2",
+      "SetID": "b53op9b",
+      "Name": "Lesser Elemental",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELEMENT3",
+      "SetID": "5klen59",
+      "Name": "Greater Elemental",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELEMENT4",
+      "SetID": "5klen59",
+      "Name": "Master of Elements",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELIXIR1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Alchemist Lab",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELIXIR2",
+      "SetID": "b53op9b",
+      "Name": "Slime Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELIXIR3",
+      "SetID": "5klen59",
+      "Name": "Alchemist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELIXIR4",
+      "SetID": "5klen59",
+      "Name": "Master Alchemist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EMERALD1",
+      "SetID": "b53op9b",
+      "Name": "Reached Emerald Mine",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EMERALD2",
+      "SetID": "b53op9b",
+      "Name": "Emerald Miner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EMERALD3",
+      "SetID": "5klen59",
+      "Name": "Emerald Pikeman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EMERALD4",
+      "SetID": "5klen59",
+      "Name": "Master of Emeralds",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FALLDEATH1",
+      "SetID": "b53op9b",
+      "Name": "Death Runner",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FEATHER1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Land of Eternal Motion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FEATHER2",
+      "SetID": "b53op9b",
+      "Name": "Running Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FEATHER3",
+      "SetID": "5klen59",
+      "Name": "Greater Running Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FEATHER4",
+      "SetID": "5klen59",
+      "Name": "Master of Motion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FERN1",
+      "SetID": "b53op9b",
+      "Name": "Reached Dry Forest",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FERN2",
+      "SetID": "b53op9b",
+      "Name": "Forest Warrior",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FERN3",
+      "SetID": "5klen59",
+      "Name": "Forest Fairy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FERN4",
+      "SetID": "5klen59",
+      "Name": "Master of Forest",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLASH1",
+      "SetID": "b53op9b",
+      "Name": "Flash Wizard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLASH2",
+      "SetID": "5klen59",
+      "Name": "Flash Archmage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLASH3",
+      "SetID": "5klen59",
+      "Name": "Master of Flash",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FREEFALL1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Free Fall",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FREEFALL2",
+      "SetID": "b53op9b",
+      "Name": "Falling Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FREEFALL3",
+      "SetID": "5klen59",
+      "Name": "Western Hawk",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FREEFALL4",
+      "SetID": "5klen59",
+      "Name": "Master of the Free Fall",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FROG1",
+      "SetID": "b53op9b",
+      "Name": "Reached Frog Park",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FROG2",
+      "SetID": "b53op9b",
+      "Name": "Giant Frog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FROG3",
+      "SetID": "5klen59",
+      "Name": "Yellow Frog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FROG4",
+      "SetID": "5klen59",
+      "Name": "Frog Prince",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FRUIT1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Clearing",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FRUIT2",
+      "SetID": "b53op9b",
+      "Name": "Red Fox",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FRUIT3",
+      "SetID": "5klen59",
+      "Name": "Giant Fox",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FRUIT4",
+      "SetID": "5klen59",
+      "Name": "Master of the Clearing",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FULGUR1",
+      "SetID": "b53op9b",
+      "Name": "Lightning Bolt",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FULGUR2",
+      "SetID": "b53op9b",
+      "Name": "Storm Troll",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FULGUR3",
+      "SetID": "5klen59",
+      "Name": "Metal Beast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FULGUR4",
+      "SetID": "5klen59",
+      "Name": "Rich Metal Beast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GARDENER",
+      "SetID": "5klen59",
+      "Name": "Wall Gardener",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GARNET1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Living Fjord",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GARNET2",
+      "SetID": "b53op9b",
+      "Name": "Viking",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GARNET3",
+      "SetID": "5klen59",
+      "Name": "Water Elemental",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GARNET4",
+      "SetID": "5klen59",
+      "Name": "Master of the Fjord",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOBLINSWORD",
+      "SetID": "5klen59",
+      "Name": "Deadly Death",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Living Caves",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD2",
+      "SetID": "b53op9b",
+      "Name": "Cave Goblin",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD3",
+      "SetID": "5klen59",
+      "Name": "Cave Troll",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD4",
+      "SetID": "5klen59",
+      "Name": "Master of Caves",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLEM2",
+      "SetID": "5klen59",
+      "Name": "Golem Archmage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLEM3",
+      "SetID": "5klen59",
+      "Name": "Master of Golems",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOSWORD",
+      "SetID": "5klen59",
+      "Name": "Exotic Swordsman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAIL2",
+      "SetID": "b53op9b",
+      "Name": "Sir Galahad",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAIL3",
+      "SetID": "5klen59",
+      "Name": "King Arthur",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAIL4",
+      "SetID": "5klen59",
+      "Name": "Merlin",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAIL4D",
+      "SetID": "5klen59",
+      "Name": "Knight of the 16-Cell Table",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAIL4D2",
+      "SetID": "5klen59",
+      "Name": "Knight of the 3-Spherical Table",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAILH",
+      "SetID": "5klen59",
+      "Name": "Heptagonal Knight",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRIMOIRE1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Temple of Chthulu",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRIMOIRE2",
+      "SetID": "b53op9b",
+      "Name": "Necronomicon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRIMOIRE3",
+      "SetID": "5klen59",
+      "Name": "Cultist Leader",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRIMOIRE4",
+      "SetID": "5klen59",
+      "Name": "Master of the Cult",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HALLOWEEN1",
+      "SetID": "5klen59",
+      "Name": "Halloween Witch",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HALLOWEEN2",
+      "SetID": "5klen59",
+      "Name": "Halloween Vampire",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HARDCORE",
+      "SetID": "5klen59",
+      "Name": "Hardcore",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HARDMETAL",
+      "SetID": "5klen59",
+      "Name": "Hardcore Metal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HYPER1",
+      "SetID": "b53op9b",
+      "Name": "Hyperbolic Sage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HYPER2",
+      "SetID": "b53op9b",
+      "Name": "Master of the Hyperboloid",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HYPER3",
+      "SetID": "5klen59",
+      "Name": "Grandmaster of the Hyperboloid",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HYPER4",
+      "SetID": "5klen59",
+      "Name": "Hyperboloid Prodigy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IVYSLAYER",
+      "SetID": "b53op9b",
+      "Name": "Plantslayer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JELLY1",
+      "SetID": "b53op9b",
+      "Name": "Hyperbug",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JELLY2",
+      "SetID": "b53op9b",
+      "Name": "Hyperbug Warrior",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JELLY3",
+      "SetID": "5klen59",
+      "Name": "Hyperbug Queen",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JELLY4",
+      "SetID": "5klen59",
+      "Name": "Master of the Hive",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JELLZ1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Jelly Kingdom",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JELLZ2",
+      "SetID": "b53op9b",
+      "Name": "Tasty Jelly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JELLZ3",
+      "SetID": "5klen59",
+      "Name": "Jelly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JELLZ4",
+      "SetID": "5klen59",
+      "Name": "Jelly King",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KILLMUTANT",
+      "SetID": "5klen59",
+      "Name": "The Biggest Boss Monster Ever",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KRAKEN1",
+      "SetID": "b53op9b",
+      "Name": "Kraken Slayer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KRAKEN2",
+      "SetID": "b53op9b",
+      "Name": "Diver",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KRAKEN3",
+      "SetID": "5klen59",
+      "Name": "Master Diver",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KRAKEN4",
+      "SetID": "5klen59",
+      "Name": "Master of the Depths",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIFEBRINGER",
+      "SetID": "5klen59",
+      "Name": "Lifebringer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIGHTNING1",
+      "SetID": "b53op9b",
+      "Name": "Storm Wizard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIGHTNING2",
+      "SetID": "5klen59",
+      "Name": "Lightning Archmage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIGHTNING3",
+      "SetID": "5klen59",
+      "Name": "Master of Lightning",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LILY1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Volcanic Wasteland",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LILY2",
+      "SetID": "b53op9b",
+      "Name": "Lava Wolf",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LILY3",
+      "SetID": "5klen59",
+      "Name": "Salamander",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LILY4",
+      "SetID": "5klen59",
+      "Name": "Master of the Volcano",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOTUS1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Haunted Woods",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOTUS2",
+      "SetID": "b53op9b",
+      "Name": "Dark Ghost",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOTUS3",
+      "SetID": "5klen59",
+      "Name": "Survivalist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOTUS4",
+      "SetID": "5klen59",
+      "Name": "Master of Ghosts",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LOVASZ",
+      "SetID": "5klen59",
+      "Name": "Lov\u00E1sz Conjecture",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MELEE3",
+      "SetID": "5klen59",
+      "Name": "Master Swordsman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MELEE5",
+      "SetID": "5klen59",
+      "Name": "Master of Melee",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MINE1",
+      "SetID": "b53op9b",
+      "Name": "Reached Minefield",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MINE2",
+      "SetID": "b53op9b",
+      "Name": "Minesweeper",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MINE3",
+      "SetID": "5klen59",
+      "Name": "Bomberbird",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MINE4",
+      "SetID": "5klen59",
+      "Name": "Master of the Minefield",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRAGE",
+      "SetID": "5klen59",
+      "Name": "General Euclid",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRROR1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Land of Mirrors",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRROR2",
+      "SetID": "b53op9b",
+      "Name": "Mirror Ranger",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRROR3",
+      "SetID": "5klen59",
+      "Name": "Mirror Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRROR4",
+      "SetID": "5klen59",
+      "Name": "Master of Mirrors and Mirages",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRRORKILL1",
+      "SetID": "b53op9b",
+      "Name": "Mirror Wizard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRRORKILL2",
+      "SetID": "5klen59",
+      "Name": "Mirror Archmage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MIRRORKILL3",
+      "SetID": "5klen59",
+      "Name": "Master of Mirrors",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOATSHARK",
+      "SetID": "5klen59",
+      "Name": "Nasty Pet",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOUNT1",
+      "SetID": "b53op9b",
+      "Name": "Mountain Climber",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOUNT2",
+      "SetID": "b53op9b",
+      "Name": "Mountain Ivy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOUNT3",
+      "SetID": "5klen59",
+      "Name": "Mountain Eagle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MOUNT4",
+      "SetID": "5klen59",
+      "Name": "Master of the Mountain",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MUTANT1",
+      "SetID": "b53op9b",
+      "Name": "Mutant Sapling",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MUTANT2",
+      "SetID": "b53op9b",
+      "Name": "Forest Troll",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MUTANT3",
+      "SetID": "5klen59",
+      "Name": "Mutant Ivy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MUTANT4",
+      "SetID": "5klen59",
+      "Name": "Master of the Ivy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ORB3",
+      "SetID": "b53op9b",
+      "Name": "Head Witch",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PIRATE1",
+      "SetID": "b53op9b",
+      "Name": "Parrot",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PIRATE2",
+      "SetID": "b53op9b",
+      "Name": "Caribbean Shark",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PIRATE3",
+      "SetID": "5klen59",
+      "Name": "Pirate",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PIRATE4",
+      "SetID": "5klen59",
+      "Name": "Master of Caribbean",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWER1",
+      "SetID": "b53op9b",
+      "Name": "Apprentice Witch",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWER2",
+      "SetID": "b53op9b",
+      "Name": "Winter Witch",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWER3",
+      "SetID": "5klen59",
+      "Name": "Flash Witch",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "POWER4",
+      "SetID": "5klen59",
+      "Name": "Master of Power",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRAIR1",
+      "SetID": "b53op9b",
+      "Name": "On the Other Side",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRAIR2",
+      "SetID": "b53op9b",
+      "Name": "Herd Bull",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRAIR3",
+      "SetID": "5klen59",
+      "Name": "Raging Bull",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRAIR4",
+      "SetID": "5klen59",
+      "Name": "Master of Prairie",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRINCESS1",
+      "SetID": "b53op9b",
+      "Name": "Saved the Princess",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRINCESS2",
+      "SetID": "5klen59",
+      "Name": "Princess Challenge",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRINCESS_PACIFIST",
+      "SetID": "5klen59",
+      "Name": "Martial Artist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PTM1",
+      "SetID": "b53op9b",
+      "Name": "Adept of Tactics",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PTM2",
+      "SetID": "5klen59",
+      "Name": "Master of Tactics",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PTM3",
+      "SetID": "5klen59",
+      "Name": "Grandmaster of Tactics",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RACEWON",
+      "SetID": "5klen59",
+      "Name": "Champion",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RADIO1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Irradiated Fields",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RADIO2",
+      "SetID": "b53op9b",
+      "Name": "Mutant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RADIO3",
+      "SetID": "5klen59",
+      "Name": "Mutant Raider",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RADIO4",
+      "SetID": "5klen59",
+      "Name": "Master of Radiation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REDGEM1",
+      "SetID": "b53op9b",
+      "Name": "Climber",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REDGEM2",
+      "SetID": "b53op9b",
+      "Name": "Red Troll",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REDGEM3",
+      "SetID": "5klen59",
+      "Name": "Rock Snake",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REDGEM4",
+      "SetID": "5klen59",
+      "Name": "Master of the Valley",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROSE1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Rose Garden",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROSE2",
+      "SetID": "b53op9b",
+      "Name": "False Princess",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROSE3",
+      "SetID": "5klen59",
+      "Name": "Rose Beauty",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROSE4",
+      "SetID": "5klen59",
+      "Name": "Rose Lady",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUBY1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Jungle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUBY2",
+      "SetID": "b53op9b",
+      "Name": "Jungle Eagle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUBY3",
+      "SetID": "5klen59",
+      "Name": "Jungle Ivy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUBY4",
+      "SetID": "5klen59",
+      "Name": "Master of the Jungle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUG1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Palace",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUG2",
+      "SetID": "b53op9b",
+      "Name": "Palace Guard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUG3",
+      "SetID": "5klen59",
+      "Name": "Vizier",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUG4",
+      "SetID": "5klen59",
+      "Name": "Prince",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUIN1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Ruined City",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUIN2",
+      "SetID": "b53op9b",
+      "Name": "Brown Raider",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUIN3",
+      "SetID": "5klen59",
+      "Name": "Blue Raider",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUIN4",
+      "SetID": "5klen59",
+      "Name": "Raider Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAPPHIRE1",
+      "SetID": "b53op9b",
+      "Name": "Reached Cocytus",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAPPHIRE2",
+      "SetID": "b53op9b",
+      "Name": "Ice Shark",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAPPHIRE3",
+      "SetID": "5klen59",
+      "Name": "Crystal Sage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAPPHIRE4",
+      "SetID": "5klen59",
+      "Name": "Master of Cocytus",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEVENMINE",
+      "SetID": "5klen59",
+      "Name": "Black Mark",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHMUP",
+      "SetID": "5klen59",
+      "Name": "Knife Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SILVER1",
+      "SetID": "b53op9b",
+      "Name": "Reached Dead Caves",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SILVER2",
+      "SetID": "b53op9b",
+      "Name": "Dark Troll",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SILVER3",
+      "SetID": "5klen59",
+      "Name": "Earth Elemental",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SILVER4",
+      "SetID": "5klen59",
+      "Name": "Master of Dead Caves",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SLASH2",
+      "SetID": "5klen59",
+      "Name": "Magic Swordsman",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPICE1",
+      "SetID": "b53op9b",
+      "Name": "Reached Desert",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPICE2",
+      "SetID": "b53op9b",
+      "Name": "Desert Fox",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPICE3",
+      "SetID": "5klen59",
+      "Name": "Desert Worm",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPICE4",
+      "SetID": "5klen59",
+      "Name": "Master of Desert",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STABBER1",
+      "SetID": "b53op9b",
+      "Name": "Stabber",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STABBER2",
+      "SetID": "b53op9b",
+      "Name": "Double Stabber",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STABBER3",
+      "SetID": "5klen59",
+      "Name": "Master Stabber",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATUE1",
+      "SetID": "b53op9b",
+      "Name": "Reached R\u0027Lyeh",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATUE2",
+      "SetID": "b53op9b",
+      "Name": "Cultist of Cthulhu",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATUE3",
+      "SetID": "5klen59",
+      "Name": "Tentacle of Cthulhu",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATUE4",
+      "SetID": "5klen59",
+      "Name": "Master of R\u0027Lyeh",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SURVIVAL",
+      "SetID": "5klen59",
+      "Name": "Master Survivalist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TERRAC1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Terracotta Army",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TERRAC2",
+      "SetID": "b53op9b",
+      "Name": "Jiangshi",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TERRAC3",
+      "SetID": "5klen59",
+      "Name": "Terracotta Warrior",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TERRAC4",
+      "SetID": "5klen59",
+      "Name": "The Emperor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TORTOISE2",
+      "SetID": "b53op9b",
+      "Name": "Tortoise Hero",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TORTOISE3",
+      "SetID": "5klen59",
+      "Name": "Tortoise Champion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TORTOISE4",
+      "SetID": "5klen59",
+      "Name": "Tortoise Ninja",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOTALVICTORY",
+      "SetID": "5klen59",
+      "Name": "Total Victory",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOTEM1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Graveyard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOTEM2",
+      "SetID": "b53op9b",
+      "Name": "Graveyard Zombie",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOTEM3",
+      "SetID": "5klen59",
+      "Name": "Graveyard Ghost",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOTEM4",
+      "SetID": "5klen59",
+      "Name": "Master Necromancer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOWER1",
+      "SetID": "b53op9b",
+      "Name": "Reached the Ivory Tower",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOWER2",
+      "SetID": "b53op9b",
+      "Name": "Servant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOWER3",
+      "SetID": "5klen59",
+      "Name": "Gargoyle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOWER4",
+      "SetID": "5klen59",
+      "Name": "Master of the Tower",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROLL1",
+      "SetID": "b53op9b",
+      "Name": "Trollfighter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROLL2",
+      "SetID": "b53op9b",
+      "Name": "Troll Lord",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROLL3",
+      "SetID": "5klen59",
+      "Name": "Troll Prince",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROLL4",
+      "SetID": "5klen59",
+      "Name": "Troll King",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TURQ1",
+      "SetID": "b53op9b",
+      "Name": "Hunted One",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TURQ2",
+      "SetID": "b53op9b",
+      "Name": "Hunting Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TURQ3",
+      "SetID": "5klen59",
+      "Name": "Escape Artist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TURQ4",
+      "SetID": "5klen59",
+      "Name": "Master of Liberty",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WET1",
+      "SetID": "b53op9b",
+      "Name": "Reached Wetland",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WET2",
+      "SetID": "b53op9b",
+      "Name": "Pike",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WET3",
+      "SetID": "5klen59",
+      "Name": "Drowned Spirit",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WET4",
+      "SetID": "5klen59",
+      "Name": "Master of the Wetland",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WHIRL1",
+      "SetID": "b53op9b",
+      "Name": "Escaped Whirlpool",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WHIRL2",
+      "SetID": "b53op9b",
+      "Name": "Vortex Shark",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WHIRL3",
+      "SetID": "5klen59",
+      "Name": "Vortex Pirate",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WHIRL4",
+      "SetID": "5klen59",
+      "Name": "Master of the Whirlpool",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WINE1",
+      "SetID": "b53op9b",
+      "Name": "Reached Vineyard",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WINE2",
+      "SetID": "b53op9b",
+      "Name": "Vine Beast",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WINE3",
+      "SetID": "5klen59",
+      "Name": "Vine Spirit",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WINE4",
+      "SetID": "5klen59",
+      "Name": "Master of Vines",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YENDC1",
+      "SetID": "b53op9b",
+      "Name": "Adept of Yendor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YENDC2",
+      "SetID": "5klen59",
+      "Name": "Master of Keys",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YENDC3",
+      "SetID": "5klen59",
+      "Name": "Grandmaster of Keys",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YENDOR1",
+      "SetID": "b53op9b",
+      "Name": "Find an Orb of Yendor",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "YENDOR2",
+      "SetID": "b53op9b",
+      "Name": "Got an Orb of Yendor",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZEBRA1",
+      "SetID": "b53op9b",
+      "Name": "Reached Zebra",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZEBRA2",
+      "SetID": "b53op9b",
+      "Name": "Striped Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZEBRA3",
+      "SetID": "5klen59",
+      "Name": "Spotted Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZEBRA4",
+      "SetID": "5klen59",
+      "Name": "Checkered Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZEBRAWORM",
+      "SetID": "5klen59",
+      "Name": "Worm of the World",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "b53op9b",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    },
+    {
+      "ID": "5klen59",
+      "IsBase": false,
+      "Progressed": 1,
+      "Completed": 1
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:08:31.5004688+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:31.5004653+00:00",
   "LastUpdate_AppInfo": "2024-06-11T19:57:41.2354806+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:19.7376938+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:32.711945+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:31.5019292+00:00"
 }

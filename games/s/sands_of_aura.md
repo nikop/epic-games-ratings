@@ -4,30 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 91.00% | ~182 |
-| Dousing a Venerable Flame | 14.00% | ~28 |
-| Advanced Armaments | 14.00% | ~28 |
-| A Small Thirsty Thing | 13.00% | ~26 |
-| Spirit Within | 12.00% | ~24 |
-| Overboard | 11.00% | ~22 |
-| Bladesmith | 10.00% | ~20 |
-| Leisis Bless You | 10.00% | ~20 |
-| Rain Must Fall | 9.00% | ~18 |
-| The Guardian of Fire | 9.00% | ~18 |
-| The River Styx | 8.00% | ~16 |
-| Sovereignty of Irons | 8.00% | ~16 |
-| Twin Thorns | 8.00% | ~16 |
-| Explorer | 7.00% | ~14 |
-| Let Me Solo Them | 6.00% | ~12 |
-| Sommelier | 5.00% | ~10 |
-| Frigid Winds | 5.00% | ~10 |
-| A Sandwyrm's Hoard | 5.00% | ~10 |
-| Transformative Nature | 3.00% | ~6 |
-| Missing Melodies | 2.00% | ~4 |
-| Redeemer | 2.00% | ~4 |
-| Smotherly Love | 2.00% | ~4 |
+| Setting Sail | 93.00% | ~224 |
+| Dousing a Venerable Flame | 13.00% | ~31 |
+| Advanced Armaments | 13.00% | ~31 |
+| A Small Thirsty Thing | 12.00% | ~29 |
+| Spirit Within | 11.00% | ~27 |
+| Overboard | 10.00% | ~24 |
+| Bladesmith | 10.00% | ~24 |
+| Leisis Bless You | 10.00% | ~24 |
+| Rain Must Fall | 9.00% | ~22 |
+| The Guardian of Fire | 9.00% | ~22 |
+| Sovereignty of Irons | 8.00% | ~19 |
+| Explorer | 7.00% | ~17 |
+| The River Styx | 7.00% | ~17 |
+| Twin Thorns | 7.00% | ~17 |
+| Let Me Solo Them | 6.00% | ~14 |
+| Sommelier | 5.00% | ~12 |
+| A Sandwyrm's Hoard | 5.00% | ~12 |
+| Frigid Winds | 4.00% | ~10 |
+| Missing Melodies | 2.00% | ~5 |
+| Redeemer | 2.00% | ~5 |
+| Smotherly Love | 2.00% | ~5 |
+| Transformative Nature | 2.00% | ~5 |
 | Pommelsmith | 1.00% | ~2 |
-| Champion of Starspire | 0.50% | ~1 |
+| One Size Fits All | 0.40% | ~1 |
+| Champion of Starspire | 0.40% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
 | A Momentary Reflection | 0.00% | ~0 |
@@ -35,7 +36,6 @@
 | Barophobia | 0.00% | ~0 |
 | Shattered Illusions | 0.00% | ~0 |
 | Aura Mastered | 0.00% | ~0 |
-| One Size Fits All | 0.00% | ~0 |
 | The Trinket Tracker | 0.00% | ~0 |
 | Family Heirlooms | 0.00% | ~0 |
 | A Casualty of Truth | 0.00% | ~0 |
@@ -63,8 +63,8 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 496)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 241 (Ranked 528)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -134,6 +134,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-03-04 | 175 | 0 |
 | 2024-03-21 | 191 | 0 |
 | 2024-04-10 | 200 | 0 |
+| 2024-06-17 | 241 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

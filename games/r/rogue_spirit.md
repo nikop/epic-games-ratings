@@ -4,44 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent Assassin | 54.00% | ~20 |
-| Liberator | 32.00% | ~12 |
-| Parry Mastery | 32.00% | ~12 |
-| Famine Defeated | 24.00% | ~9 |
-| Perceptive | 24.00% | ~9 |
-| Gold Collector | 14.00% | ~5 |
-| Possess Mastery | 14.00% | ~5 |
-| Master Assassin | 8.00% | ~3 |
+| Silent Assassin | 57.00% | ~23 |
+| Liberator | 35.00% | ~14 |
+| Famine Defeated | 30.00% | ~12 |
+| Parry Mastery | 30.00% | ~12 |
+| Perceptive | 25.00% | ~10 |
+| Gold Collector | 15.00% | ~6 |
+| Master Assassin | 13.00% | ~5 |
+| Possess Mastery | 13.00% | ~5 |
+| Token Collector | 8.00% | ~3 |
+| War Defeated | 8.00% | ~3 |
 | Body Spawn Master | 5.00% | ~2 |
+| Death Defeated | 5.00% | ~2 |
+| Decay Defeated | 5.00% | ~2 |
+| Demon Butcher | 5.00% | ~2 |
 | Group Fight Mastery | 5.00% | ~2 |
-| Token Collector | 5.00% | ~2 |
-| War Defeated | 5.00% | ~2 |
 | Body Blast Master | 3.00% | ~1 |
 | Body Swapper | 3.00% | ~1 |
 | Dash Mastery | 3.00% | ~1 |
-| Death Defeated | 3.00% | ~1 |
-| Decay Defeated | 3.00% | ~1 |
-| Demon Butcher | 3.00% | ~1 |
+| Demon King Defeated | 3.00% | ~1 |
 | Earth Shatter Master | 3.00% | ~1 |
+| Elemental Butcher | 3.00% | ~1 |
 | Elemental Mastery | 3.00% | ~1 |
+| Elite Butcher | 3.00% | ~1 |
+| Familiar Catcher | 3.00% | ~1 |
+| Familiar Trainer | 3.00% | ~1 |
 | Fire Blast Master | 3.00% | ~1 |
 | Land Mine Master | 3.00% | ~1 |
+| Lone Wolf Champion | 3.00% | ~1 |
 | Reanimate Master | 3.00% | ~1 |
 | Skill Adept | 3.00% | ~1 |
 | Vanish Master | 3.00% | ~1 |
 | Blink Master | 0.00% | ~0 |
 | Body Snatcher Champion | 0.00% | ~0 |
 | Cold Skin Master | 0.00% | ~0 |
-| Demon King Defeated | 0.00% | ~0 |
 | Dominate Master | 0.00% | ~0 |
 | Electric Trap Master | 0.00% | ~0 |
-| Elemental Butcher | 0.00% | ~0 |
 | Elemental Roulette Champion | 0.00% | ~0 |
 | Elementalist Champion | 0.00% | ~0 |
-| Elite Butcher | 0.00% | ~0 |
-| Familiar Catcher | 0.00% | ~0 |
 | Familiar Master | 0.00% | ~0 |
-| Familiar Trainer | 0.00% | ~0 |
 | Fire Tornado Master | 0.00% | ~0 |
 | Flamethrower Master | 0.00% | ~0 |
 | Frost Wall Master | 0.00% | ~0 |
@@ -50,7 +51,6 @@
 | Glue Bomb Master | 0.00% | ~0 |
 | Hard Mode Champion | 0.00% | ~0 |
 | Immobilize Master | 0.00% | ~0 |
-| Lone Wolf Champion | 0.00% | ~0 |
 | Magnetic Grenade Master | 0.00% | ~0 |
 | Master Butcher | 0.00% | ~0 |
 | Protective Dome Master | 0.00% | ~0 |
@@ -65,8 +65,8 @@
 | Sprinter Champion | 0.00% | ~0 |
 | Thunderstorm Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 681)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 40 (Ranked 741)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-22 | 34 | 0 |
 | 2024-03-21 | 35 | 0 |
 | 2024-04-10 | 37 | 0 |
+| 2024-06-17 | 40 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

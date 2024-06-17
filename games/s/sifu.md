@@ -6,69 +6,69 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 7.00% | ~53,949 |
-| The Assault | 6.00% | ~46,242 |
-| Life is your teacher | 6.00% | ~46,242 |
-| Lightning Hands | 6.00% | ~46,242 |
-| The Hateful Pole Fighter | 4.00% | ~30,828 |
-| Street Fighting | 4.00% | ~30,828 |
-| State of constant learning | 4.00% | ~30,828 |
-| Qi Gong: Essence | 4.00% | ~30,828 |
-| Old Child | 4.00% | ~30,828 |
-| A Lady's Blood in the Snow | 3.00% | ~23,121 |
-| Lady Wing Chun | 3.00% | ~23,121 |
-| Kill Nil | 3.00% | ~23,121 |
-| Stuntmaster | 3.00% | ~23,121 |
-| Qi Gong: Breath | 3.00% | ~23,121 |
-| I know Kung-Fu | 3.00% | ~23,121 |
-| Path of the Prospect | 3.00% | ~23,121 |
-| Rumble in the Hangar | 3.00% | ~23,121 |
-| Diligence as a goal | 3.00% | ~2,400 |
-| Furious Fists | 2.00% | ~15,414 |
-| Scareless | 2.00% | ~15,414 |
-| Dance of the Praying Mantis | 2.00% | ~15,414 |
-| Qi Gong: Mind | 2.00% | ~15,414 |
-| Kung-Fu Tussle | 2.00% | ~15,414 |
-| Take damage to save time | 2.00% | ~15,414 |
-| Project Arena | 2.00% | ~1,600 |
-| Muk Yan Master | 1.00% | ~7,707 |
-| Tiger on Fire | 1.00% | ~7,707 |
-| Source of Flying Daggers | 1.00% | ~7,707 |
-| Detective Story | 1.00% | ~7,707 |
-| Fight the way you practice | 1.00% | ~800 |
-| Iron Money | 0.90% | ~6,936 |
-| Legendary Talismans of Wuxing | 0.90% | ~6,936 |
-| Sword Stained With Blood | 0.90% | ~6,936 |
-| Bloody Sport | 0.90% | ~720 |
-| Martial Hub | 0.90% | ~720 |
-| Prodigal Child | 0.80% | ~6,166 |
-| The 36th Chamber of Kung-Fu | 0.80% | ~6,166 |
-| The best strikes are the ones we avoid | 0.70% | ~560 |
-| Knowledge Greed | 0.60% | ~4,624 |
-| The Pit Protector | 0.60% | ~4,624 |
-| Drunken Fighter | 0.50% | ~3,854 |
-| Martial Artist | 0.50% | ~3,854 |
-| Come Snap With Me | 0.50% | ~3,854 |
-| Deadly Venom | 0.50% | ~400 |
-| Healing Memory | 0.40% | ~3,083 |
-| Master of the Phoenix Eye Fist | 0.40% | ~3,083 |
-| Ferocity, speed, strength, accuracy | 0.40% | ~3,083 |
-| Be like water my friend | 0.40% | ~3,083 |
-| A Touch of Acumen | 0.40% | ~320 |
-| Secure, Protect, Leave | 0.30% | ~240 |
-| Master of the Flying Assassins | 0.30% | ~240 |
-| Beatmaker | 0.30% | ~240 |
-| Crouching Tiger | 0.20% | ~160 |
-| Skill and an even stronger will | 0.20% | ~160 |
-| Here Cometh the Iceman | 0.20% | ~160 |
-| Warriors from the Mountain | 0.10% | ~771 |
-| Hidden Dragon | 0.10% | ~80 |
-| Fighter in the Pond | 0.10% | ~80 |
-| Bonus Stage | 0.10% | ~80 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~80 |
+| The Old Grandmaster | 9.00% | ~70,593 |
+| Life is your teacher | 8.00% | ~62,750 |
+| The Assault | 7.00% | ~54,906 |
+| Lightning Hands | 7.00% | ~54,906 |
+| The Hateful Pole Fighter | 5.00% | ~39,219 |
+| State of constant learning | 5.00% | ~39,219 |
+| Old Child | 5.00% | ~39,219 |
+| A Lady's Blood in the Snow | 4.00% | ~31,375 |
+| Stuntmaster | 4.00% | ~31,375 |
+| Street Fighting | 4.00% | ~31,375 |
+| Qi Gong: Breath | 4.00% | ~31,375 |
+| Qi Gong: Essence | 4.00% | ~31,375 |
+| Rumble in the Hangar | 4.00% | ~31,375 |
+| Lady Wing Chun | 3.00% | ~23,531 |
+| Furious Fists | 3.00% | ~23,531 |
+| Kill Nil | 3.00% | ~23,531 |
+| Qi Gong: Mind | 3.00% | ~23,531 |
+| I know Kung-Fu | 3.00% | ~23,531 |
+| Path of the Prospect | 3.00% | ~23,531 |
+| Take damage to save time | 3.00% | ~23,531 |
+| Diligence as a goal | 3.00% | ~2,810 |
+| Scareless | 2.00% | ~15,687 |
+| Dance of the Praying Mantis | 2.00% | ~15,687 |
+| Kung-Fu Tussle | 2.00% | ~15,687 |
+| Project Arena | 2.00% | ~1,873 |
+| Muk Yan Master | 1.00% | ~7,844 |
+| Tiger on Fire | 1.00% | ~7,844 |
+| Source of Flying Daggers | 1.00% | ~7,844 |
+| Iron Money | 1.00% | ~7,844 |
+| Legendary Talismans of Wuxing | 1.00% | ~7,844 |
+| Prodigal Child | 1.00% | ~7,844 |
+| Detective Story | 1.00% | ~7,844 |
+| The 36th Chamber of Kung-Fu | 1.00% | ~7,844 |
+| Sword Stained With Blood | 1.00% | ~7,844 |
+| Bloody Sport | 1.00% | ~937 |
+| Martial Hub | 1.00% | ~937 |
+| Fight the way you practice | 1.00% | ~937 |
+| The best strikes are the ones we avoid | 0.80% | ~749 |
+| Knowledge Greed | 0.70% | ~5,491 |
+| The Pit Protector | 0.70% | ~5,491 |
+| Come Snap With Me | 0.70% | ~5,491 |
+| Drunken Fighter | 0.60% | ~4,706 |
+| Martial Artist | 0.60% | ~4,706 |
+| Deadly Venom | 0.60% | ~562 |
+| Healing Memory | 0.50% | ~3,922 |
+| Master of the Phoenix Eye Fist | 0.50% | ~3,922 |
+| Ferocity, speed, strength, accuracy | 0.50% | ~3,922 |
+| Be like water my friend | 0.50% | ~3,922 |
+| A Touch of Acumen | 0.50% | ~468 |
+| Secure, Protect, Leave | 0.30% | ~281 |
+| Skill and an even stronger will | 0.30% | ~281 |
+| Master of the Flying Assassins | 0.30% | ~281 |
+| Beatmaker | 0.30% | ~281 |
+| Crouching Tiger | 0.20% | ~187 |
+| Here Cometh the Iceman | 0.20% | ~187 |
+| Bonus Stage | 0.20% | ~187 |
+| A Bit Of Everything, Simultaneously | 0.20% | ~187 |
+| Warriors from the Mountain | 0.10% | ~784 |
+| Hidden Dragon | 0.10% | ~94 |
+| Fighter in the Pond | 0.10% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770,707 (Ranked 26)  
-Completed: 13,098 (1.70%) (Ranked 164)  
+Progressed: 784,372 (Ranked 28)  
+Completed: 13,166 (1.68%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -353,6 +353,7 @@ Completed: 13,098 (1.70%) (Ranked 164)
 | 2024-02-22 | 765,727 | 13,043 |
 | 2024-03-21 | 769,381 | 13,082 |
 | 2024-04-10 | 770,707 | 13,098 |
+| 2024-06-17 | 784,372 | 13,166 |
 ## Awards
 Max (Great Boss Battles): 7,956  (Ranked 65)  
 Sum: 13,633 (Ranked 94)  

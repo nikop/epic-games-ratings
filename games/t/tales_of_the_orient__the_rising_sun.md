@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 84.00% | ~16 |
-| Constructor | 84.00% | ~16 |
-| Happy Ending | 84.00% | ~16 |
-| 1 Hour! | 63.00% | ~12 |
-| 10 is good! | 58.00% | ~11 |
-| One-quarter mark | 42.00% | ~8 |
-| Half way! | 32.00% | ~6 |
-| 5 Hours! | 32.00% | ~6 |
-| 10 Hours! | 26.00% | ~5 |
-| Almost there! | 26.00% | ~5 |
-| You did it! | 16.00% | ~3 |
+| Good Start | 85.00% | ~17 |
+| Constructor | 85.00% | ~17 |
+| Happy Ending | 85.00% | ~17 |
+| 1 Hour! | 65.00% | ~13 |
+| 10 is good! | 60.00% | ~12 |
+| One-quarter mark | 45.00% | ~9 |
+| Half way! | 35.00% | ~7 |
+| 5 Hours! | 35.00% | ~7 |
+| 10 Hours! | 30.00% | ~6 |
+| Almost there! | 30.00% | ~6 |
+| You did it! | 20.00% | ~4 |
 | I can't stop playing! | 5.00% | ~1 |
 | Keep Going | 0.00% | ~0 |
 | Chain Mode | 0.00% | ~0 |
 | Pop Mode | 0.00% | ~0 |
 | Swap Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 737)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 20 (Ranked 807)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -35,6 +35,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2023-09-19 | 17 | 0 |
 | 2023-09-26 | 18 | 0 |
 | 2023-12-31 | 19 | 0 |
+| 2024-06-17 | 20 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

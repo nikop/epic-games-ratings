@@ -6,65 +6,65 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 14.00% | ~239 |
-| Me and My Familiar | 13.00% | ~222 |
-| Gotta Ca... Must Collect All of Them | 10.00% | ~171 |
-| Passing Shadow | 10.00% | ~171 |
-| This Too Shall Pass | 10.00% | ~171 |
-| Cutthroat Competitors | 10.00% | ~171 |
-| Daybreak | 10.00% | ~171 |
-| How Romantic! | 9.00% | ~154 |
-| Completing the Look | 6.00% | ~102 |
-| War Endured | 6.00% | ~102 |
-| A Mythic Menagerie | 5.00% | ~85 |
-| Who's Counting? | 5.00% | ~85 |
-| Core Failure | 5.00% | ~85 |
-| Pyrrhic Victory | 4.00% | ~68 |
-| Thematic Divergence | 3.00% | ~51 |
-| Chain Reaction | 3.00% | ~51 |
-| Echoes Die | 3.00% | ~51 |
-| A Story of Heroes | 3.00% | ~51 |
-| Turncoat | 3.00% | ~51 |
-| Let Me Get My Chisel | 2.00% | ~34 |
-| Plague Doctor | 2.00% | ~34 |
-| Legends Never Die | 2.00% | ~34 |
-| In Soil, In Smoke | 2.00% | ~34 |
-| Everfading | 2.00% | ~34 |
-| Another Tale to Tell | 2.00% | ~34 |
-| All My Birds, Safely Home | 2.00% | ~34 |
-| No Time for Clawmonsters | 2.00% | ~34 |
-| We Emerge Changed | 1.00% | ~17 |
-| Storied Past | 1.00% | ~17 |
-| Worldwalker | 1.00% | ~17 |
-| Empty the Caves | 1.00% | ~17 |
-| Bonebreakers | 1.00% | ~17 |
-| No More Nightmares | 1.00% | ~17 |
-| A Hunger, Sated | 1.00% | ~17 |
-| Wingknight's Prowess | 1.00% | ~17 |
-| Bears are Scary | 1.00% | ~17 |
-| Fight Like a Bird | 1.00% | ~17 |
-| Grillmaster | 1.00% | ~17 |
-| Some Say I'm Too Flashy | 1.00% | ~17 |
-| Into Mulch | 1.00% | ~17 |
-| Astrology | 1.00% | ~17 |
-| Tempest | 1.00% | ~17 |
-| Lochias's Hunger | 1.00% | ~17 |
-| Drauvenslayers | 0.80% | ~14 |
-| I'm Not Smiling | 0.80% | ~14 |
-| Back into the Sea | 0.70% | ~12 |
-| The Power of Friendship | 0.60% | ~10 |
-| War-Ender | 0.60% | ~10 |
-| Symbiosis | 0.60% | ~10 |
-| Solid as the Hills | 0.50% | ~9 |
-| Thwack! | 0.50% | ~9 |
-| Overwhelming Monstrosity | 0.40% | ~7 |
-| A Lowly Crust of Beef | 0.40% | ~7 |
-| A Temperamental Shrub | 0.40% | ~7 |
-| We Call That Mortificient! | 0.20% | ~3 |
-| Peacemaker | 0.10% | ~2 |
+| The Cost of Heroism | 20.00% | ~377 |
+| Me and My Familiar | 19.00% | ~358 |
+| This Too Shall Pass | 16.00% | ~301 |
+| Passing Shadow | 15.00% | ~283 |
+| Cutthroat Competitors | 15.00% | ~283 |
+| Daybreak | 15.00% | ~283 |
+| Gotta Ca... Must Collect All of Them | 14.00% | ~264 |
+| How Romantic! | 14.00% | ~264 |
+| Completing the Look | 9.00% | ~170 |
+| War Endured | 8.00% | ~151 |
+| A Mythic Menagerie | 7.00% | ~132 |
+| Who's Counting? | 7.00% | ~132 |
+| Core Failure | 7.00% | ~132 |
+| Pyrrhic Victory | 6.00% | ~113 |
+| Thematic Divergence | 5.00% | ~94 |
+| Echoes Die | 5.00% | ~94 |
+| Chain Reaction | 4.00% | ~75 |
+| Everfading | 4.00% | ~75 |
+| A Story of Heroes | 4.00% | ~75 |
+| Turncoat | 4.00% | ~75 |
+| Let Me Get My Chisel | 3.00% | ~57 |
+| Plague Doctor | 3.00% | ~57 |
+| Legends Never Die | 3.00% | ~57 |
+| In Soil, In Smoke | 3.00% | ~57 |
+| Another Tale to Tell | 3.00% | ~57 |
+| All My Birds, Safely Home | 3.00% | ~57 |
+| No Time for Clawmonsters | 3.00% | ~57 |
+| We Emerge Changed | 2.00% | ~38 |
+| Storied Past | 2.00% | ~38 |
+| Worldwalker | 2.00% | ~38 |
+| Empty the Caves | 2.00% | ~38 |
+| Drauvenslayers | 2.00% | ~38 |
+| Back into the Sea | 2.00% | ~38 |
+| Bonebreakers | 2.00% | ~38 |
+| No More Nightmares | 2.00% | ~38 |
+| A Hunger, Sated | 2.00% | ~38 |
+| Wingknight's Prowess | 2.00% | ~38 |
+| Bears are Scary | 2.00% | ~38 |
+| Fight Like a Bird | 2.00% | ~38 |
+| Grillmaster | 2.00% | ~38 |
+| Some Say I'm Too Flashy | 2.00% | ~38 |
+| Into Mulch | 2.00% | ~38 |
+| Astrology | 2.00% | ~38 |
+| Tempest | 2.00% | ~38 |
+| Lochias's Hunger | 2.00% | ~38 |
+| The Power of Friendship | 1.00% | ~19 |
+| War-Ender | 1.00% | ~19 |
+| Solid as the Hills | 1.00% | ~19 |
+| Symbiosis | 1.00% | ~19 |
+| I'm Not Smiling | 1.00% | ~19 |
+| Thwack! | 1.00% | ~19 |
+| A Temperamental Shrub | 0.70% | ~13 |
+| A Lowly Crust of Beef | 0.60% | ~11 |
+| Overwhelming Monstrosity | 0.50% | ~9 |
+| We Call That Mortificient! | 0.50% | ~9 |
+| Peacemaker | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,708 (Ranked 305)  
-Completed: 7 (0.41%) (Ranked 277)  
+Progressed: 1,884 (Ranked 338)  
+Completed: 8 (0.42%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,13 +289,14 @@ Completed: 7 (0.41%) (Ranked 277)
 | 2024-02-22 | 1,661 | 7 |
 | 2024-03-21 | 1,691 | 7 |
 | 2024-04-10 | 1,708 | 7 |
+| 2024-06-17 | 1,884 | 8 |
 ## Awards
-Max (Character Customization): 31  (Ranked 587)  
-Sum: 31 (Ranked 618)  
-Diff (max vs sum): -31  
+Max (Character Customization): 32  (Ranked 581)  
+Sum: 32 (Ranked 616)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 31 |
+| This game has Inclusive Character Customization | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -325,3 +326,4 @@ Diff (max vs sum): -31
 | 2024-01-03 | 4.79 | - | 29 | 29 |
 | 2024-01-23 | 4.78 | - | 30 | 30 |
 | 2024-04-22 | 4.78 | - | 31 | 31 |
+| 2024-06-17 | 4.78 | - | 32 | 32 |

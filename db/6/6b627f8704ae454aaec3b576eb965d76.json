@@ -2,10 +2,10 @@
   "ID": "6b627f8704ae454aaec3b576eb965d76",
   "Name": "Evil Seal",
   "ProductSlug": "evil-seal-c8dea6",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-13T06:32:32.214+00:00",
     "PcReleaseDate": "2024-04-07T23:00:00+00:00",
@@ -25,17 +25,291 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:10.5958393+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:10.5958417+00:00",
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ABYSSAL_ANNIHILATOR",
+      "SetID": "8l657ha",
+      "Name": "Abyssal Annihilator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BLADE_MASTER",
+      "SetID": "8l657ha",
+      "Name": "Blade Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_INTRO",
+      "SetID": "8l657ha",
+      "Name": "The Nightmare Begins",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_LEVEL_1",
+      "SetID": "8l657ha",
+      "Name": "Level 1",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COMPLETE_LEVEL_2",
+      "SetID": "8l657ha",
+      "Name": "Level 2",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CURSED_CONQUEROR",
+      "SetID": "8l657ha",
+      "Name": "Cursed Conqueror",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DAMNDED_DEVOTEES_SLAYER",
+      "SetID": "8l657ha",
+      "Name": "Damned Devotees Slayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEMON_SLAYER",
+      "SetID": "8l657ha",
+      "Name": "Demon Slayer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEMON_SPIDER_SLAYER",
+      "SetID": "8l657ha",
+      "Name": "Demon Spider Slayer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEVILS_DEMISE",
+      "SetID": "8l657ha",
+      "Name": "Devil\u0027s Demise",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ENTER_HELL",
+      "SetID": "8l657ha",
+      "Name": "A dangerous path",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ENTER_LIMB",
+      "SetID": "8l657ha",
+      "Name": "A dangerous path",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ENTER_ORACLE",
+      "SetID": "8l657ha",
+      "Name": "Lucifer vision",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXECUTIONER",
+      "SetID": "8l657ha",
+      "Name": "Executioner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXIT_ORACLE",
+      "SetID": "8l657ha",
+      "Name": "Back to the present",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FINAL_BATTLE",
+      "SetID": "8l657ha",
+      "Name": "Final Battle",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLYING_FIEND_SLAYER",
+      "SetID": "8l657ha",
+      "Name": "Flying Fiend Slayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GOLEM_CRUSHER",
+      "SetID": "8l657ha",
+      "Name": "Golem Crusher",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GUNSLINGER",
+      "SetID": "8l657ha",
+      "Name": "Gunslinger",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HELLHOUND_HUNTER",
+      "SetID": "8l657ha",
+      "Name": "Hellhound Hunter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_DEVIL",
+      "SetID": "8l657ha",
+      "Name": "Kill devil",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_GHOST",
+      "SetID": "8l657ha",
+      "Name": "Kill ghost",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RAPID_FIRE_RAMPAGER",
+      "SetID": "8l657ha",
+      "Name": "Rapid Fire Rampager",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_REVOLVER_RAPTOR",
+      "SetID": "8l657ha",
+      "Name": "Revolver Raptor",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SENTINEL_SLAYER",
+      "SetID": "8l657ha",
+      "Name": "Sentinel Slayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SHOTGUN_SLAYER",
+      "SetID": "8l657ha",
+      "Name": "Shotgun slayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SNIPER",
+      "SetID": "8l657ha",
+      "Name": "Sniper",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SNIPER_EXP",
+      "SetID": "8l657ha",
+      "Name": "Sniper Expert",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SNIPER_PRO",
+      "SetID": "8l657ha",
+      "Name": "Sniper PRO",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPECTER_SLAYER",
+      "SetID": "8l657ha",
+      "Name": "Specter Slayer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SPRAYER",
+      "SetID": "8l657ha",
+      "Name": "Sprayer",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SURVIVOR_MASTER",
+      "SetID": "8l657ha",
+      "Name": "Survivor Master",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "8l657ha",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-04-26T07:59:54.1948608+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:10.5958416+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:10.595839+00:00",
   "LastUpdate_AppInfo": "2024-06-15T09:57:12.8777238+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:21.2818643+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:30.2652503+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:10.5964726+00:00"
 }

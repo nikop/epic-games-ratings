@@ -5,10 +5,10 @@
   "Ranking_Rating": 70,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 577,
-  "Ranking_EOS_Progress": 737,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 137,
+  "Ranking_EOS_Completed": 396,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-29T17:00:00+00:00",
     "PcReleaseDate": "2023-07-18T17:00:00+00:00",
@@ -296,16 +296,21 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 19,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 81800,
+  "EOS_Completed": 79,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:01:54.0348879+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:08:37.5872227+00:00",
+      "NumProgressed": 81800,
+      "NumCompleted": 79
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:54.0348948+00:00",
@@ -316,217 +321,217 @@
       "ID": "00_meet_rando",
       "SetID": "2lphen6",
       "Name": "The Face of Blood",
-      "Percentage": 16,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 9816
     },
     {
       "ID": "01_meet_buzzo",
       "SetID": "2lphen6",
       "Name": "Embrace the Joy",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 24540
     },
     {
       "ID": "02_save_buddy",
       "SetID": "2lphen6",
       "Name": "Happy Reunion",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 6544
     },
     {
       "ID": "03_fishcave",
       "SetID": "2lphen6",
       "Name": "There\u0027s Something Fishy...",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "04_randolando",
       "SetID": "2lphen6",
       "Name": "The End is Nigh",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4908
     },
     {
       "ID": "05_joyless",
       "SetID": "2lphen6",
       "Name": "Joyless End",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1636
     },
     {
       "ID": "06_joyful",
       "SetID": "2lphen6",
       "Name": "Joyful End",
-      "Percentage": 5,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2454
     },
     {
       "ID": "07_hotelsecret",
       "SetID": "2lphen6",
       "Name": "Weekend Getaway",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1636
     },
     {
       "ID": "08_creed",
       "SetID": "2lphen6",
       "Name": "Worth it",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 573
     },
     {
       "ID": "09_selfish",
       "SetID": "2lphen6",
       "Name": "Selfish",
-      "Percentage": 5,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 818
     },
     {
       "ID": "10_kind_of_selfish",
       "SetID": "2lphen6",
       "Name": "Kind of Selfish",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1636
     },
     {
       "ID": "11_selfless",
       "SetID": "2lphen6",
       "Name": "Selfless",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 180,
-      "UsersEstimate": 0
+      "UsersEstimate": 1636
     },
     {
       "ID": "12_columbo",
       "SetID": "2lphen6",
       "Name": "Bye, I Guess...",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4908
     },
     {
       "ID": "13_roulette",
       "SetID": "2lphen6",
       "Name": "I Love You Son.",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 818
     },
     {
       "ID": "14_mike",
       "SetID": "2lphen6",
       "Name": "10-4 Good Buddy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1636
     },
     {
       "ID": "15_ewcchamp",
       "SetID": "2lphen6",
       "Name": "The Champ is Here!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "16_tagchamp",
       "SetID": "2lphen6",
       "Name": "Arm-Shock 4 Life!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "17_doctor",
       "SetID": "2lphen6",
       "Name": "The Doctor is in the House",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 4090
     },
     {
       "ID": "18_headshot",
       "SetID": "2lphen6",
       "Name": "Look on the Brightside",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "19_hairmanity",
       "SetID": "2lphen6",
       "Name": "Really? Hairmanity?",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 10634
     },
     {
       "ID": "20_area_1",
       "SetID": "2lphen6",
       "Name": "Let\u0027s Find Her",
-      "Percentage": 32,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 39264
     },
     {
       "ID": "21_area_2",
       "SetID": "2lphen6",
       "Name": "It\u0027s all falling down",
-      "Percentage": 16,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 8998
     },
     {
       "ID": "22_area_3",
       "SetID": "2lphen6",
       "Name": "No Turning Back",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5726
     },
     {
       "ID": "23_potty",
       "SetID": "2lphen6",
       "Name": "No...",
-      "Percentage": 11,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4908
     },
     {
       "ID": "24_rangers",
       "SetID": "2lphen6",
       "Name": "Salvation Ends",
-      "Percentage": 5,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2454
     },
     {
       "ID": "25_burningman",
       "SetID": "2lphen6",
       "Name": "Hot Snow",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 4090
     },
     {
       "ID": "26_hornman",
       "SetID": "2lphen6",
       "Name": "...",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 491
     },
     {
       "ID": "27_terry",
@@ -534,87 +539,87 @@
       "Name": "Hint Guy Recruit",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 60532
     },
     {
       "ID": "28_crisp",
       "SetID": "2lphen6",
       "Name": "Many Swords Guy",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3272
     },
     {
       "ID": "29_rt",
       "SetID": "2lphen6",
       "Name": "Dirt Bag Guy",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "30_rooster",
       "SetID": "2lphen6",
       "Name": "Red Hair Guy",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5726
     },
     {
       "ID": "31_olan",
       "SetID": "2lphen6",
       "Name": "Drunk Guy",
-      "Percentage": 37,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 18814
     },
     {
       "ID": "32_nern",
       "SetID": "2lphen6",
       "Name": "Annoying Guy",
-      "Percentage": 26,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 27812
     },
     {
       "ID": "33_rage",
       "SetID": "2lphen6",
       "Name": "Headbutt Guy",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 13088
     },
     {
       "ID": "34_percy",
       "SetID": "2lphen6",
       "Name": "Poop Guy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 9816
     },
     {
       "ID": "35_maddog",
       "SetID": "2lphen6",
       "Name": "Nipple Guy",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 4090
     },
     {
       "ID": "36_shocklord",
       "SetID": "2lphen6",
       "Name": "Face First Guy",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "37_fardy",
       "SetID": "2lphen6",
       "Name": "Violated Guy",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 10634
     },
     {
       "ID": "38_queen",
@@ -622,175 +627,175 @@
       "Name": "Lady Guy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4090
     },
     {
       "ID": "39_carp",
       "SetID": "2lphen6",
       "Name": "Fish Guy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1636
     },
     {
       "ID": "40_harvey",
       "SetID": "2lphen6",
       "Name": "Lawyer Fish Guy",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "41_clint",
       "SetID": "2lphen6",
       "Name": "Cool Dude Guy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1636
     },
     {
       "ID": "42_buckets",
       "SetID": "2lphen6",
       "Name": "Mysterious Guy",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 818
     },
     {
       "ID": "43_buffalo",
       "SetID": "2lphen6",
       "Name": "American Guy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4908
     },
     {
       "ID": "44_tigerman",
       "SetID": "2lphen6",
       "Name": "Spear Guy",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 4090
     },
     {
       "ID": "45_ollie",
       "SetID": "2lphen6",
       "Name": "Sweaty Guy",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "46_geese",
       "SetID": "2lphen6",
       "Name": "Rhyming Bird Guy",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "47_dick",
       "SetID": "2lphen6",
       "Name": "Party Guy",
-      "Percentage": 11,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4090
     },
     {
       "ID": "48_jack",
       "SetID": "2lphen6",
       "Name": "Magic Guy",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3272
     },
     {
       "ID": "49_sonny",
       "SetID": "2lphen6",
       "Name": "Powerful Clothesline Guy",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2454
     },
     {
       "ID": "50_yazan",
       "SetID": "2lphen6",
       "Name": "Cat Guy",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 7362
     },
     {
       "ID": "51_beastborn",
       "SetID": "2lphen6",
       "Name": "Wild Guy",
-      "Percentage": 21,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 10634
     },
     {
       "ID": "52_fly",
       "SetID": "2lphen6",
       "Name": "Bug Guy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1636
     },
     {
       "ID": "53_ajeet",
       "SetID": "2lphen6",
       "Name": "Poke Guy",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3272
     },
     {
       "ID": "54_garth",
       "SetID": "2lphen6",
       "Name": "Art Guy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4908
     },
     {
       "ID": "55_bo",
       "SetID": "2lphen6",
       "Name": "Weird Guy",
-      "Percentage": 11,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4090
     },
     {
       "ID": "56_birdie",
       "SetID": "2lphen6",
       "Name": "Super Drunk Guy",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5726
     },
     {
       "ID": "57_painmode",
       "SetID": "2lphen6",
       "Name": "Sorry Master",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 180,
-      "UsersEstimate": 0
+      "UsersEstimate": 818
     }
   ],
   "AchievementSets": [
     {
       "ID": "2lphen6",
       "IsBase": true,
-      "Progressed": 19,
-      "Completed": 0
+      "Progressed": 81800,
+      "Completed": 79
     }
   ],
   "FirstSeen": "2024-04-01T06:00:42.9546024+00:00",
   "FirstSeenRating": "2024-04-28T12:59:32.2146949+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.0348947+00:00",
   "LastChanged": "2024-06-15T03:58:19.9328997+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:01:54.0348873+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:37.5872221+00:00",
   "LastUpdate_AppInfo": "2024-06-15T01:47:14.7539849+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:31.7063893+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:01:54.03573+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:59.3900653+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:37.5872603+00:00"
 }

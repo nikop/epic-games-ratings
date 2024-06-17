@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 261,
-  "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 387,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 170,
+  "Ranking_EOS_Completed": 439,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1249,11 +1249,11 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 29779,
-  "EOS_Completed": 15,
+  "EOS_Progressed": 36322,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.05,
+  "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
       "Time": "2023-08-30T11:07:13.7661076+00:00",
@@ -18949,6 +18949,11 @@
       "Time": "2024-04-10T06:05:14.6943803+00:00",
       "NumProgressed": 29779,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-06-17T16:14:58.3138303+00:00",
+      "NumProgressed": 36322,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18961,7 +18966,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3995
     },
     {
       "ID": "a_10",
@@ -18969,7 +18974,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 596
+      "UsersEstimate": 726
     },
     {
       "ID": "a_11",
@@ -18977,7 +18982,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 596
+      "UsersEstimate": 726
     },
     {
       "ID": "a_12",
@@ -18985,7 +18990,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 596
+      "UsersEstimate": 726
     },
     {
       "ID": "a_15",
@@ -18993,7 +18998,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 1090
     },
     {
       "ID": "a_16",
@@ -19001,15 +19006,15 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 596
+      "UsersEstimate": 726
     },
     {
       "ID": "a_18",
       "SetID": "daiie3o",
       "Name": "Bye Bye",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 13401
+      "UsersEstimate": 16708
     },
     {
       "ID": "a_19",
@@ -19017,7 +19022,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2906
     },
     {
       "ID": "a_2",
@@ -19025,7 +19030,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1816
     },
     {
       "ID": "a_20",
@@ -19033,7 +19038,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2179
     },
     {
       "ID": "a_21",
@@ -19041,7 +19046,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2179
     },
     {
       "ID": "a_22",
@@ -19049,7 +19054,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1453
     },
     {
       "ID": "a_23",
@@ -19057,7 +19062,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2906
     },
     {
       "ID": "a_25",
@@ -19065,7 +19070,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1816
     },
     {
       "ID": "a_26",
@@ -19073,7 +19078,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 726
     },
     {
       "ID": "a_27",
@@ -19081,7 +19086,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 1090
     },
     {
       "ID": "a_28",
@@ -19089,7 +19094,7 @@
       "Name": "Pastry Chef",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 726
     },
     {
       "ID": "a_3",
@@ -19097,7 +19102,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 893
+      "UsersEstimate": 1090
     },
     {
       "ID": "a_30",
@@ -19105,7 +19110,7 @@
       "Name": "King of red wines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 73
     },
     {
       "ID": "a_31",
@@ -19113,7 +19118,7 @@
       "Name": "King of white wines",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "a_32",
@@ -19121,7 +19126,7 @@
       "Name": "Sales Expert",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "a_33",
@@ -19129,7 +19134,7 @@
       "Name": "Big deals",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "a_34",
@@ -19137,7 +19142,7 @@
       "Name": "Master Winemaker",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "a_35",
@@ -19145,7 +19150,7 @@
       "Name": "Welcome to the club",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 596
+      "UsersEstimate": 726
     },
     {
       "ID": "a_36",
@@ -19153,7 +19158,7 @@
       "Name": "Unsuitable Terroir",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "a_4",
@@ -19161,7 +19166,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 363
     },
     {
       "ID": "a_5",
@@ -19169,7 +19174,7 @@
       "Name": "Treasure of Roero",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 254
     },
     {
       "ID": "a_6",
@@ -19177,7 +19182,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 363
     },
     {
       "ID": "a_7",
@@ -19185,7 +19190,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 182
     },
     {
       "ID": "a_8",
@@ -19193,7 +19198,7 @@
       "Name": "Famous",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1453
     },
     {
       "ID": "a_9",
@@ -19201,23 +19206,23 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 596
+      "UsersEstimate": 726
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 29779,
-      "Completed": 15
+      "Progressed": 36322,
+      "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-05-26T22:00:24.0131372+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:14.6943795+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:14:58.3138298+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:58.3973189+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:55.5308025+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:14.6944772+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:38.2248055+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:58.3139509+00:00"
 }

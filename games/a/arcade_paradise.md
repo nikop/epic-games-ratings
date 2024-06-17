@@ -5,34 +5,34 @@ Rating: 4.60 (Ranked 458)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~758 |
-| Fetch Quest Complete | 90.00% | ~703 |
-| I can't wait! | 82.00% | ~640 |
-| Swish | 55.00% | ~430 |
-| Clean up on Aisle 9 | 39.00% | ~305 |
-| Machine Maxed | 28.00% | ~219 |
-| Existential dread | 27.00% | ~211 |
-| Gerald of Riviera | 25.00% | ~195 |
-| Bug Fixer | 24.00% | ~187 |
-| Goal | 21.00% | ~164 |
-| I ran the numbers | 15.00% | ~117 |
-| Taking the plunge | 13.00% | ~102 |
-| Hidden Packages | 11.00% | ~86 |
-| GOOOAAAL | 9.00% | ~70 |
+| Pushing a pull door | 97.00% | ~765 |
+| Fetch Quest Complete | 90.00% | ~710 |
+| I can't wait! | 82.00% | ~647 |
+| Swish | 55.00% | ~434 |
+| Clean up on Aisle 9 | 39.00% | ~308 |
+| Machine Maxed | 29.00% | ~229 |
+| Existential dread | 28.00% | ~221 |
+| Gerald of Riviera | 25.00% | ~197 |
+| Bug Fixer | 24.00% | ~189 |
+| Goal | 22.00% | ~174 |
+| I ran the numbers | 15.00% | ~118 |
+| Taking the plunge | 13.00% | ~103 |
+| Hidden Packages | 12.00% | ~95 |
+| GOOOAAAL | 10.00% | ~79 |
 | Ahoy Hoy | 7.00% | ~55 |
 | New Kid on the Block | 7.00% | ~55 |
+| Bombscare | 6.00% | ~47 |
 | Rhythm is a dancer | 6.00% | ~47 |
 | Jimmy Goldman Would be Proud | 6.00% | ~47 |
 | You Spin Me Round | 6.00% | ~47 |
-| Bombscare | 5.00% | ~39 |
-| Crowning achievement | 4.00% | ~31 |
-| Your Bloody Valentine | 4.00% | ~31 |
-| GoldGuy Jr | 4.00% | ~31 |
-| Nose to the Grindstone | 4.00% | ~31 |
-| Waking nightmare | 4.00% | ~31 |
-| To do. Done! | 3.00% | ~23 |
-| We come in peace | 3.00% | ~23 |
-| Hammer time | 3.00% | ~23 |
+| Your Bloody Valentine | 5.00% | ~39 |
+| Crowning achievement | 4.00% | ~32 |
+| GoldGuy Jr | 4.00% | ~32 |
+| Nose to the Grindstone | 4.00% | ~32 |
+| Waking nightmare | 4.00% | ~32 |
+| To do. Done! | 3.00% | ~24 |
+| We come in peace | 3.00% | ~24 |
+| Hammer time | 3.00% | ~24 |
 | 1CC | 2.00% | ~16 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~16 |
 | Modern Gorefare | 2.00% | ~16 |
@@ -51,7 +51,7 @@ Rating: 4.60 (Ranked 458)
 | It's a horror game | 0.80% | ~6 |
 | Got 9999 problem but a Zombie ain't one | 0.80% | ~6 |
 | Friends Reunited | 0.60% | ~5 |
-| Arcadeception | 0.50% | ~4 |
+| Arcadeception | 0.60% | ~5 |
 | Corporate Restructrure | 0.40% | ~3 |
 | Sonically Youthful | 0.40% | ~3 |
 | Many Machines Maxed | 0.30% | ~2 |
@@ -60,8 +60,8 @@ Rating: 4.60 (Ranked 458)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781 (Ranked 364)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 789 (Ranked 408)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -173,6 +173,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 770 | 0 |
 | 2024-03-21 | 776 | 0 |
 | 2024-04-10 | 781 | 0 |
+| 2024-06-17 | 789 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

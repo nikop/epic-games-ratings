@@ -5,35 +5,35 @@ Rating: 4.85 (Ranked 36)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 68.00% | ~1,204 |
-| The Adventure Begins | 51.00% | ~903 |
-| With Great Power… | 39.00% | ~691 |
-| Swabbie | 38.00% | ~673 |
-| This Belongs in a Museum | 35.00% | ~620 |
-| The Gambit Has Begun | 32.00% | ~567 |
-| Somewhere Deep in the Lost Caribbean | 28.00% | ~496 |
-| Mirror Mirror on the Wall | 28.00% | ~496 |
-| Powder Monkey | 28.00% | ~496 |
-| Pirates Assemble! | 26.00% | ~460 |
-| Buccaneer | 23.00% | ~407 |
-| All Good Things | 21.00% | ~372 |
-| Fishy Fish | 21.00% | ~372 |
-| Persistent Parasite | 18.00% | ~319 |
-| Seadog | 16.00% | ~283 |
-| Jaded Judge | 14.00% | ~248 |
-| Rustic Recipe | 13.00% | ~230 |
-| Tobacco Travesty | 12.00% | ~213 |
-| Accursed Artifacts | 11.00% | ~195 |
-| Lyrical Longing | 11.00% | ~195 |
-| Privateer | 10.00% | ~177 |
-| Fully Decked | 9.00% | ~159 |
-| Corsair | 6.00% | ~106 |
-| Freebooter | 4.00% | ~71 |
-| Marauder | 3.00% | ~53 |
-| Welcome Back Jester | 3.00% | ~53 |
+| A New Journey | 68.00% | ~1,287 |
+| The Adventure Begins | 51.00% | ~965 |
+| With Great Power… | 39.00% | ~738 |
+| Swabbie | 38.00% | ~719 |
+| This Belongs in a Museum | 35.00% | ~663 |
+| The Gambit Has Begun | 32.00% | ~606 |
+| Somewhere Deep in the Lost Caribbean | 29.00% | ~549 |
+| Mirror Mirror on the Wall | 28.00% | ~530 |
+| Powder Monkey | 28.00% | ~530 |
+| Pirates Assemble! | 26.00% | ~492 |
+| Buccaneer | 23.00% | ~435 |
+| All Good Things | 21.00% | ~398 |
+| Fishy Fish | 21.00% | ~398 |
+| Persistent Parasite | 18.00% | ~341 |
+| Seadog | 16.00% | ~303 |
+| Jaded Judge | 14.00% | ~265 |
+| Tobacco Travesty | 12.00% | ~227 |
+| Rustic Recipe | 12.00% | ~227 |
+| Accursed Artifacts | 11.00% | ~208 |
+| Lyrical Longing | 11.00% | ~208 |
+| Privateer | 10.00% | ~189 |
+| Fully Decked | 9.00% | ~170 |
+| Corsair | 5.00% | ~95 |
+| Freebooter | 4.00% | ~76 |
+| Marauder | 3.00% | ~57 |
+| Welcome Back Jester | 3.00% | ~57 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,771 (Ranked 302)  
-Completed: 51 (2.88%) (Ranked 133)  
+Progressed: 1,893 (Ranked 337)  
+Completed: 54 (2.85%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,6 +205,7 @@ Completed: 51 (2.88%) (Ranked 133)
 | 2024-03-04 | 1,680 | 45 |
 | 2024-03-21 | 1,734 | 48 |
 | 2024-04-10 | 1,771 | 51 |
+| 2024-06-17 | 1,893 | 54 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

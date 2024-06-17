@@ -2,10 +2,10 @@
   "ID": "760df178070b4dcbbfbe498b07b5d1a8",
   "Name": "Camp Canyonwood",
   "ProductSlug": "camp-canyonwood-dd54ff",
-  "Ranking_EOS_Progress": 689,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-26T15:00:00+00:00",
     "PcReleaseDate": "2024-02-26T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34,
+  "EOS_Progressed": 45,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-04-10T06:05:46.3807353+00:00",
       "NumProgressed": 34,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:15:50.7479316+00:00",
+      "NumProgressed": 45,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:14.1481179+00:00",
@@ -54,7 +59,7 @@
       "ID": "Abduction",
       "SetID": "blcifn5",
       "Name": "Vanished",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -62,9 +67,9 @@
       "ID": "AllNighter",
       "SetID": "blcifn5",
       "Name": "All Nighter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ArcheryBadge",
@@ -80,21 +85,21 @@
       "Name": "The Gift of Learning",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "BiomesComplete",
       "SetID": "blcifn5",
       "Name": "Fixer Upper",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BugBadge",
       "SetID": "blcifn5",
       "Name": "Master Bug Catcher",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -110,9 +115,9 @@
       "ID": "Builder",
       "SetID": "blcifn5",
       "Name": "Great Outdoor Architect",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "BurntMarshmallow",
@@ -158,9 +163,9 @@
       "ID": "DeadBody",
       "SetID": "blcifn5",
       "Name": "Stand By Me",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DiggingBadge",
@@ -182,7 +187,7 @@
       "ID": "ExploreBadge",
       "SetID": "blcifn5",
       "Name": "Master Explorer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -198,9 +203,9 @@
       "ID": "FirstDonation",
       "SetID": "blcifn5",
       "Name": "Happy Helper",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "FishComplete",
@@ -214,7 +219,7 @@
       "ID": "FishingBadge",
       "SetID": "blcifn5",
       "Name": "Master Fisher",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -254,9 +259,9 @@
       "ID": "FourStarRating",
       "SetID": "blcifn5",
       "Name": "Camp Pretty Good Actually",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GhostBadge",
@@ -286,17 +291,17 @@
       "ID": "JackDeal",
       "SetID": "blcifn5",
       "Name": "Dealmaker",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "KnockedOut",
       "SetID": "blcifn5",
       "Name": "Safety First",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "MiningBadge",
@@ -334,7 +339,7 @@
       "ID": "Poison",
       "SetID": "blcifn5",
       "Name": "Don\u0027t Eat That",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -368,21 +373,21 @@
       "Name": "Break It Up!",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ThreeStarRating",
       "SetID": "blcifn5",
       "Name": "Camp Acceptable",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TwoStarRating",
       "SetID": "blcifn5",
       "Name": "Camp Underdog",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -407,14 +412,14 @@
     {
       "ID": "blcifn5",
       "IsBase": true,
-      "Progressed": 34,
+      "Progressed": 45,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-27T06:59:08.2429457+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:14.1481178+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:46.3807347+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:50.7479312+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:41.1089219+00:00",
-  "LastUpdate_Ratings": "2024-06-17T15:00:03.2107318+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:46.3807628+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:21.0355315+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:50.7479644+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 323,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 620,
-  "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 591,
+  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2017-10-03T16:00:00+00:00",
@@ -207,11 +207,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
-  "EOS_Completed": 1,
+  "EOS_Progressed": 146,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.54,
+  "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:06:10.709082+00:00",
@@ -222,6 +222,11 @@
       "Time": "2024-04-10T06:02:23.1960682+00:00",
       "NumProgressed": 65,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:09:34.8710393+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2024-03-21T17:06:10.7090851+00:00",
@@ -232,263 +237,263 @@
       "ID": "aFantasyFinalized",
       "SetID": "b95gi9n",
       "Name": "A Fantasy, Finalized",
-      "Percentage": 5,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "allOutOfBubblegum",
       "SetID": "b95gi9n",
       "Name": "All out of Bubblegum...",
-      "Percentage": 12,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "anUnstoppableForce",
       "SetID": "b95gi9n",
       "Name": "An Unstoppable Force",
-      "Percentage": 17,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "angler",
       "SetID": "b95gi9n",
       "Name": "Angler",
-      "Percentage": 29,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 31
     },
     {
       "ID": "apprenticeCrafter",
       "SetID": "b95gi9n",
       "Name": "Apprentice Crafter",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 66
     },
     {
       "ID": "areYouNotEntertained",
       "SetID": "b95gi9n",
       "Name": "Are You Not Entertained",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "badMoonRising",
       "SetID": "b95gi9n",
       "Name": "Bad Moon Rising",
-      "Percentage": 31,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "barrelOfFun",
       "SetID": "b95gi9n",
       "Name": "Barrel of Fun",
-      "Percentage": 42,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 50
     },
     {
       "ID": "battleReady",
       "SetID": "b95gi9n",
       "Name": "Battle Ready",
-      "Percentage": 32,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 32
     },
     {
       "ID": "beautyInTheEye",
       "SetID": "b95gi9n",
       "Name": "Beauty is in the Eye",
-      "Percentage": 23,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "beginnersLuck",
       "SetID": "b95gi9n",
       "Name": "Beginner\u0027s Luck",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 53
     },
     {
       "ID": "beholdMyTrueForm",
       "SetID": "b95gi9n",
       "Name": "Behold, My True Form",
-      "Percentage": 23,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "bigGameHunter",
       "SetID": "b95gi9n",
       "Name": "Big Game Hunter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "bloodAndTears",
       "SetID": "b95gi9n",
       "Name": "Blood and Tears",
-      "Percentage": 31,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 32
     },
     {
       "ID": "braveByDefault",
       "SetID": "b95gi9n",
       "Name": "Brave by Default",
-      "Percentage": 38,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 39
     },
     {
       "ID": "changes",
       "SetID": "b95gi9n",
       "Name": "Ch-ch-ch-changes!",
-      "Percentage": 22,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "cosplaying",
       "SetID": "b95gi9n",
       "Name": "Cosplaying",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "dirtyHands",
       "SetID": "b95gi9n",
       "Name": "Dirty Hands",
-      "Percentage": 29,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 28
     },
     {
       "ID": "epicCrafter",
       "SetID": "b95gi9n",
       "Name": "Epic Crafter",
-      "Percentage": 8,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "findersKeepers",
       "SetID": "b95gi9n",
       "Name": "Finders Keepers",
-      "Percentage": 22,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "fishWatching",
       "SetID": "b95gi9n",
       "Name": "Fish Watching",
-      "Percentage": 5,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "freshMint",
       "SetID": "b95gi9n",
       "Name": "Fresh Mint",
-      "Percentage": 25,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 23
     },
     {
       "ID": "goOn",
       "SetID": "b95gi9n",
       "Name": "Go On...",
-      "Percentage": 35,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 35
     },
     {
       "ID": "itsJustBeginning",
       "SetID": "b95gi9n",
       "Name": "It\u0027s Just Beginning",
-      "Percentage": 49,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 69
     },
     {
       "ID": "lichPlease",
       "SetID": "b95gi9n",
       "Name": "Lich, Please",
-      "Percentage": 25,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 25
     },
     {
       "ID": "likeANoss",
       "SetID": "b95gi9n",
       "Name": "Like A Noss",
-      "Percentage": 12,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "littleGameHunter",
       "SetID": "b95gi9n",
       "Name": "Little Game Hunter",
-      "Percentage": 28,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 26
     },
     {
       "ID": "massRuckus",
       "SetID": "b95gi9n",
       "Name": "Mass Ruckus",
-      "Percentage": 17,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "masterCrafter",
       "SetID": "b95gi9n",
       "Name": "Master Crafter",
-      "Percentage": 18,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "mustBeBored",
       "SetID": "b95gi9n",
       "Name": "Must Be Bored",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "mysterySolved",
       "SetID": "b95gi9n",
       "Name": "Mystery Solved",
-      "Percentage": 45,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 53
     },
     {
       "ID": "newBitcoin",
       "SetID": "b95gi9n",
       "Name": "The New Bitcoin",
-      "Percentage": 28,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 26
     },
     {
       "ID": "noParley",
       "SetID": "b95gi9n",
       "Name": "No Parley",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -496,9 +501,9 @@
       "ID": "queenOfTheNorth",
       "SetID": "b95gi9n",
       "Name": "Queen of the North",
-      "Percentage": 18,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "rareCrafter",
@@ -506,7 +511,7 @@
       "Name": "Rare Crafter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "riskTaker",
@@ -514,118 +519,118 @@
       "Name": "Risk Taker",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "seeingRed",
       "SetID": "b95gi9n",
       "Name": "Seeing Red",
-      "Percentage": 35,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 41
     },
     {
       "ID": "survivors",
       "SetID": "b95gi9n",
       "Name": "Survivors",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 121
     },
     {
       "ID": "thatsDeepBro",
       "SetID": "b95gi9n",
       "Name": "That\u0027s Deep, Bro",
-      "Percentage": 32,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 34
     },
     {
       "ID": "theLibrarian",
       "SetID": "b95gi9n",
       "Name": "The Librarian",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "theLookingGlass",
       "SetID": "b95gi9n",
       "Name": "The Looking Glass",
-      "Percentage": 12,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "theNewStandard",
       "SetID": "b95gi9n",
       "Name": "The New Standard",
-      "Percentage": 17,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "tooLate",
       "SetID": "b95gi9n",
       "Name": "Too Late",
-      "Percentage": 35,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 41
     },
     {
       "ID": "trialByCombat",
       "SetID": "b95gi9n",
       "Name": "Trial By Combat",
-      "Percentage": 45,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 55
     },
     {
       "ID": "viceVersa",
       "SetID": "b95gi9n",
       "Name": "Vice Versa",
-      "Percentage": 22,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "warmingUp",
       "SetID": "b95gi9n",
       "Name": "Warming Up",
-      "Percentage": 23,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "wellRead",
       "SetID": "b95gi9n",
       "Name": "Well Read",
-      "Percentage": 25,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 23
     },
     {
       "ID": "youreLearning",
       "SetID": "b95gi9n",
       "Name": "You\u0027re Learning...",
-      "Percentage": 45,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "b95gi9n",
       "IsBase": true,
-      "Progressed": 65,
-      "Completed": 1
+      "Progressed": 146,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:09.2276065+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:10.7090851+00:00",
   "LastChanged": "2024-05-19T02:58:54.7744936+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:23.1960675+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:09:34.871039+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:01.3463556+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:44.630289+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:23.196102+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:29.436578+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:34.8710693+00:00"
 }

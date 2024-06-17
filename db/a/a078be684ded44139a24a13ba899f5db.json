@@ -2,10 +2,10 @@
   "ID": "a078be684ded44139a24a13ba899f5db",
   "Name": "Ducati World Championship",
   "ProductSlug": "ducati-world-championship-0280d9",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-03T19:06:50.687+00:00",
     "PcReleaseDate": "2024-04-02T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-13T02:24:44.1463512+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:20.5921797+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:01:53.0964613+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:34.6006944+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:35.827406+00:00"
 }

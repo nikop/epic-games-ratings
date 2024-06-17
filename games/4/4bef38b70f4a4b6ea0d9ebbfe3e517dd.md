@@ -47,3 +47,10 @@
 | Lightning fast | 0.00% | ~0 |
 | All in the family | 0.00% | ~0 |
 | Tomato puree | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 997)  
+Completed: 0 (0.00%) (Ranked 510)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-06-17 | 1 | 0 |

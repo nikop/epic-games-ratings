@@ -5,10 +5,10 @@
   "Ranking_Rating": 1180,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 553,
-  "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 433,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-03T02:00:00+00:00",
     "PcReleaseDate": "2024-04-03T02:00:00+00:00",
@@ -511,16 +511,21 @@
       "Count": 78
     }
   ],
-  "EOS_Progressed": 17111,
-  "EOS_Completed": 1,
+  "EOS_Progressed": 58298,
+  "EOS_Completed": 50,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.01,
+  "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:06:09.4829268+00:00",
       "NumProgressed": 17111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:16:32.6919773+00:00",
+      "NumProgressed": 58298,
+      "NumCompleted": 50
     }
   ],
   "AchievementsAdded": "2024-04-10T06:06:09.4829296+00:00",
@@ -531,57 +536,57 @@
       "ID": "AccItemVal_1",
       "SetID": "6aajed6",
       "Name": "Millionaire",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 583
     },
     {
       "ID": "DayMissComp_1",
       "SetID": "6aajed6",
       "Name": "First Mission Complete",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 4449
+      "UsersEstimate": 13992
     },
     {
       "ID": "Death_1",
       "SetID": "6aajed6",
       "Name": "Failure is the Mother of Success",
-      "Percentage": 0.2,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 350
     },
     {
       "ID": "EliteMonKill_1",
       "SetID": "6aajed6",
       "Name": "Start of a Legend",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 408
     },
     {
       "ID": "Escape_1",
       "SetID": "6aajed6",
       "Name": "First Successful Escape",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4278
+      "UsersEstimate": 13409
     },
     {
       "ID": "ExpItemVal_1",
       "SetID": "6aajed6",
       "Name": "Diligent Mercenary",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 856
+      "UsersEstimate": 3498
     },
     {
       "ID": "MonKill_1",
       "SetID": "6aajed6",
       "Name": "Noob Slayer",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 1749
     },
     {
       "ID": "PlayTime_1",
@@ -589,7 +594,7 @@
       "Name": "Beginner No Longer",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 1198
+      "UsersEstimate": 4081
     },
     {
       "ID": "PlayerKill_1",
@@ -597,15 +602,15 @@
       "Name": "Wanted Mercenary",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 1369
+      "UsersEstimate": 4664
     },
     {
       "ID": "ResultEXP_1",
       "SetID": "6aajed6",
       "Name": "A Gold Saved is a Gold Gained",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 5647
+      "UsersEstimate": 18072
     },
     {
       "ID": "Revive_1",
@@ -613,7 +618,7 @@
       "Name": "Rescue Team Move Out",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 58
     },
     {
       "ID": "SellVal_1",
@@ -621,23 +626,23 @@
       "Name": "Great Merchant",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 513
+      "UsersEstimate": 1749
     }
   ],
   "AchievementSets": [
     {
       "ID": "6aajed6",
       "IsBase": true,
-      "Progressed": 17111,
-      "Completed": 1
+      "Progressed": 58298,
+      "Completed": 50
     }
   ],
   "FirstSeen": "2024-04-03T02:14:35.9374728+00:00",
   "FirstSeenRating": "2024-04-07T15:58:07.8680419+00:00",
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
   "LastChanged": "2024-06-16T02:00:43.2686556+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:09.4829262+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:16:32.6919769+00:00",
   "LastUpdate_AppInfo": "2024-06-14T13:57:09.0778429+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:29.6058983+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:09.4837259+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:05.2333493+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:16:32.6919855+00:00"
 }

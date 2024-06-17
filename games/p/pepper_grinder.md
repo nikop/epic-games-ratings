@@ -4,33 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunter | 108.00% | ~14 |
-| New Hobby | 85.00% | ~11 |
-| A Path Less Traveled | 77.00% | ~10 |
-| Beetle Flipper | 69.00% | ~9 |
-| Garden Shakedown | 69.00% | ~9 |
-| No Wormies | 54.00% | ~7 |
-| Pepper/Mint | 54.00% | ~7 |
-| Make A Friend | 46.00% | ~6 |
-| A Dash of Pepper | 46.00% | ~6 |
-| Dedicated Explorer | 46.00% | ~6 |
-| Emperor Naro | 38.00% | ~5 |
-| Skull Hunter | 31.00% | ~4 |
-| Stickerbook World Tour | 31.00% | ~4 |
-| Fast Cash | 15.00% | ~2 |
-| Killer Driller | 8.00% | ~1 |
-| Special Series Collector | 8.00% | ~1 |
-| Series 1 Collector | 8.00% | ~1 |
-| Series 2 Collector | 8.00% | ~1 |
-| Series 3 Collector | 8.00% | ~1 |
-| Series 4 Collector | 8.00% | ~1 |
-| Treasure Rush | 8.00% | ~1 |
-| Speed Strats | 8.00% | ~1 |
-| Done Quick | 8.00% | ~1 |
+| Treasure Hunter | 95.00% | ~21 |
+| New Hobby | 73.00% | ~16 |
+| Beetle Flipper | 68.00% | ~15 |
+| A Path Less Traveled | 68.00% | ~15 |
+| Garden Shakedown | 64.00% | ~14 |
+| No Wormies | 59.00% | ~13 |
+| Pepper/Mint | 59.00% | ~13 |
+| A Dash of Pepper | 55.00% | ~12 |
+| Emperor Naro | 45.00% | ~10 |
+| Make A Friend | 45.00% | ~10 |
+| Dedicated Explorer | 45.00% | ~10 |
+| Skull Hunter | 32.00% | ~7 |
+| Stickerbook World Tour | 32.00% | ~7 |
+| Killer Driller | 14.00% | ~3 |
+| Special Series Collector | 14.00% | ~3 |
+| Series 1 Collector | 14.00% | ~3 |
+| Series 2 Collector | 14.00% | ~3 |
+| Series 3 Collector | 14.00% | ~3 |
+| Series 4 Collector | 14.00% | ~3 |
+| Fast Cash | 14.00% | ~3 |
+| Treasure Rush | 14.00% | ~3 |
+| Speed Strats | 14.00% | ~3 |
+| Done Quick | 14.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 775)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 22 (Ranked 799)  
+Completed: 2 (9.09%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-10 | 13 | 0 |
+| 2024-06-17 | 22 | 2 |

@@ -5,66 +5,66 @@ Rating: 4.54 (Ranked 584)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dr. Reed, I Presume? | 0.10% | ~852 |
-| Making Your Mark | 0.10% | ~852 |
-| Git Gutte! | 0.10% | ~852 |
-| Anger Management | 0.10% | ~852 |
-| Make it So | 0.10% | ~852 |
-| LA Influential | 0.10% | ~852 |
-| Perks of the Job | 0.10% | ~852 |
-| Bookworm | 0.10% | ~852 |
-| Break A Leg | 0.10% | ~852 |
-| On Safari | 0.10% | ~852 |
-| I Got a Zombie Army and You Can't Harm Me | 0.10% | ~852 |
-| But Doctor, I am Butcho | 0.10% | ~852 |
-| Slayer Squad | 0.10% | ~852 |
-| Smorgasbord | 0.10% | ~852 |
-| Can't Handle the Truth | 0.10% | ~852 |
-| Coup de Grâce | 0.10% | ~852 |
-| Like Riding a Bike | 0.10% | ~852 |
-| Not Even My Final Form | 0.10% | ~852 |
-| Hazardous Materials | 0.10% | ~852 |
-| Friends Like These | 0.10% | ~852 |
-| Hotel California | 0.10% | ~852 |
-| Donk! | 0.10% | ~852 |
-| Internet Famous | 0.10% | ~852 |
-| Sole Survivor | 0.10% | ~852 |
-| Jumbo Keyring | 0.10% | ~852 |
-| Apex Predator | 0.10% | ~852 |
-| Zombologist | 0.10% | ~852 |
-| Ooh, Shiny! | 0.10% | ~852 |
-| Gore Horse | 0.10% | ~852 |
-| A Patton Emerges | 0.10% | ~852 |
-| Humanity Distilled | 0.10% | ~852 |
-| I Am the Resurrection | 0.10% | ~852 |
-| Down with the Sickness | 0.10% | ~852 |
-| Sharpest Tool in the Box | 0.10% | ~852 |
-| Stacking the Deck | 0.10% | ~852 |
-| Personal Assistant Personally Assisted | 0.10% | ~852 |
-| Survival Skills | 0.10% | ~852 |
-| Max Headroom | 0.10% | ~852 |
-| Go, Bobcats! | 0.10% | ~852 |
-| Our True Nature | 0.10% | ~852 |
-| This is My Weapon | 0.10% | ~852 |
-| Variety is the Spice of Death | 0.10% | ~852 |
-| Welcome To Hell-A | 0.10% | ~852 |
-| Rising Star | 0.10% | ~852 |
-| Bucket List | 0.10% | ~852 |
-| One of Us | 0.10% | ~177 |
-| Whatever It Takes | 0.10% | ~177 |
-| Lawn and Order | 0.10% | ~177 |
-| Pork Chopped | 0.10% | ~177 |
-| Wilhelm | 0.10% | ~177 |
-| Top That, Tisha! | 0.10% | ~177 |
-| No Encores | 0.10% | ~177 |
-| Festival Clean Up Simulator | 0.10% | ~177 |
-| Rip 'n' Tear | 0.10% | ~177 |
-| The Direct Approach | 0.10% | ~177 |
-| Drop The Beat | 0.10% | ~177 |
-| Three's a Crowd | 0.10% | ~177 |
+| Welcome To Hell-A | 3.00% | ~28,698 |
+| Dr. Reed, I Presume? | 2.00% | ~19,132 |
+| Git Gutte! | 2.00% | ~19,132 |
+| Bookworm | 2.00% | ~19,132 |
+| Break A Leg | 2.00% | ~19,132 |
+| But Doctor, I am Butcho | 2.00% | ~19,132 |
+| Slayer Squad | 2.00% | ~19,132 |
+| Can't Handle the Truth | 2.00% | ~19,132 |
+| Coup de Grâce | 2.00% | ~19,132 |
+| Like Riding a Bike | 2.00% | ~19,132 |
+| Hazardous Materials | 2.00% | ~19,132 |
+| Friends Like These | 2.00% | ~19,132 |
+| Hotel California | 2.00% | ~19,132 |
+| Apex Predator | 2.00% | ~19,132 |
+| Stacking the Deck | 2.00% | ~19,132 |
+| Personal Assistant Personally Assisted | 2.00% | ~19,132 |
+| This is My Weapon | 2.00% | ~19,132 |
+| No Encores | 2.00% | ~5,643 |
+| Drop The Beat | 2.00% | ~5,643 |
+| Three's a Crowd | 2.00% | ~5,643 |
+| Making Your Mark | 1.00% | ~9,566 |
+| Anger Management | 1.00% | ~9,566 |
+| Perks of the Job | 1.00% | ~9,566 |
+| I Got a Zombie Army and You Can't Harm Me | 1.00% | ~9,566 |
+| Zombologist | 1.00% | ~9,566 |
+| Ooh, Shiny! | 1.00% | ~9,566 |
+| A Patton Emerges | 1.00% | ~9,566 |
+| Humanity Distilled | 1.00% | ~9,566 |
+| I Am the Resurrection | 1.00% | ~9,566 |
+| Down with the Sickness | 1.00% | ~9,566 |
+| Our True Nature | 1.00% | ~9,566 |
+| Whatever It Takes | 1.00% | ~2,822 |
+| Pork Chopped | 1.00% | ~2,822 |
+| Max Headroom | 0.90% | ~8,610 |
+| One of Us | 0.90% | ~2,539 |
+| Not Even My Final Form | 0.80% | ~7,653 |
+| Jumbo Keyring | 0.80% | ~7,653 |
+| Go, Bobcats! | 0.80% | ~7,653 |
+| Rising Star | 0.70% | ~6,696 |
+| On Safari | 0.60% | ~5,740 |
+| Smorgasbord | 0.60% | ~5,740 |
+| Internet Famous | 0.60% | ~5,740 |
+| Variety is the Spice of Death | 0.60% | ~5,740 |
+| Make it So | 0.50% | ~4,783 |
+| Gore Horse | 0.50% | ~4,783 |
+| LA Influential | 0.40% | ~3,826 |
+| Sole Survivor | 0.40% | ~3,826 |
+| Sharpest Tool in the Box | 0.40% | ~3,826 |
+| The Direct Approach | 0.40% | ~1,129 |
+| Survival Skills | 0.30% | ~2,870 |
+| Festival Clean Up Simulator | 0.30% | ~846 |
+| Donk! | 0.20% | ~1,913 |
+| Top That, Tisha! | 0.20% | ~564 |
+| Rip 'n' Tear | 0.20% | ~564 |
+| Bucket List | 0.10% | ~957 |
+| Lawn and Order | 0.10% | ~282 |
+| Wilhelm | 0.10% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 851,780 (Ranked 22)  
-Completed: 2,869 (0.34%) (Ranked 289)  
+Progressed: 956,612 (Ranked 23)  
+Completed: 3,062 (0.32%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,6 +349,7 @@ Completed: 2,869 (0.34%) (Ranked 289)
 | 2024-02-22 | 825,437 | 2,726 |
 | 2024-03-21 | 841,520 | 2,808 |
 | 2024-04-10 | 851,780 | 2,869 |
+| 2024-06-17 | 956,612 | 3,062 |
 ## Awards
 Max (Great Boss Battles): 15,462  (Ranked 33)  
 Sum: 25,207 (Ranked 63)  

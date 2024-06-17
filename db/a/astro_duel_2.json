@@ -5,10 +5,10 @@
   "Ranking_Rating": 127,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 103,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 105,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-07T16:00:00+00:00",
     "PcReleaseDate": "2024-03-07T16:00:00+00:00",
@@ -252,8 +252,8 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 133050,
-  "EOS_Completed": 1,
+  "EOS_Progressed": 149122,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
@@ -267,6 +267,11 @@
       "Time": "2024-04-10T06:02:35.9567649+00:00",
       "NumProgressed": 133050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:09:58.9642415+00:00",
+      "NumProgressed": 149122,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-03-21T17:06:35.3897356+00:00",
@@ -279,7 +284,7 @@
       "Name": "Nearly Untouchable",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_CPUSolo",
@@ -287,15 +292,15 @@
       "Name": "Bot Dueler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6652
+      "UsersEstimate": 7456
     },
     {
       "ID": "Ach_CPUTeam3",
       "SetID": "dcmn433",
       "Name": "CPU Slayer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 596
     },
     {
       "ID": "Ach_CPUTeam5",
@@ -303,7 +308,7 @@
       "Name": "AI Master",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_Classic",
@@ -311,15 +316,15 @@
       "Name": "Glitched System",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_DarkLabHeist",
       "SetID": "dcmn433",
       "Name": "Pawed Plunder",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3992
+      "UsersEstimate": 5965
     },
     {
       "ID": "Ach_EarnAllFireMedals",
@@ -327,7 +332,7 @@
       "Name": "Byte Maverick",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_EarnAllGoldCoins",
@@ -335,7 +340,7 @@
       "Name": "Gold Hoarder",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_EarnAllHackMedals",
@@ -343,7 +348,7 @@
       "Name": "Complete Hack",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_EarnCoopGoldCoin",
@@ -351,7 +356,7 @@
       "Name": "Skilled Crew",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1491
     },
     {
       "ID": "Ach_EarnGoldCoin",
@@ -359,7 +364,7 @@
       "Name": "Professional",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3992
+      "UsersEstimate": 4474
     },
     {
       "ID": "Ach_FastMegaSwarm",
@@ -367,47 +372,47 @@
       "Name": "Exterminator",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_FinishAJob",
       "SetID": "dcmn433",
       "Name": "Hired Gun",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 21288
+      "UsersEstimate": 25351
     },
     {
       "ID": "Ach_FinishAllJobs",
       "SetID": "dcmn433",
       "Name": "Bounty Ace",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 665
+      "UsersEstimate": 895
     },
     {
       "ID": "Ach_Flare",
       "SetID": "dcmn433",
       "Name": "Hostile Outpost",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1342
     },
     {
       "ID": "Ach_GasRigs",
       "SetID": "dcmn433",
       "Name": "Astral Refinery",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 746
     },
     {
       "ID": "Ach_Graveyard",
       "SetID": "dcmn433",
       "Name": "Awakened Rift",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 447
     },
     {
       "ID": "Ach_HeistCommando",
@@ -415,7 +420,7 @@
       "Name": "Elite Commando",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_Kill5Pilots",
@@ -423,7 +428,7 @@
       "Name": "Mega Kill",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_Kill6Pilots",
@@ -431,7 +436,7 @@
       "Name": "Whoops",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_NoPlantHarmed",
@@ -439,15 +444,15 @@
       "Name": "Plant Protector",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_PilotGray",
       "SetID": "dcmn433",
       "Name": "Telekinetic Predator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 447
     },
     {
       "ID": "Ach_PilotOrange",
@@ -455,23 +460,23 @@
       "Name": "Street Legend",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1491
     },
     {
       "ID": "Ach_PilotTeal",
       "SetID": "dcmn433",
       "Name": "Dawn Warrior",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 1044
     },
     {
       "ID": "Ach_PilotYellow",
       "SetID": "dcmn433",
       "Name": "Arrogant Assassin",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 596
     },
     {
       "ID": "Ach_RunOverPilots",
@@ -479,7 +484,7 @@
       "Name": "Pilot Crusher",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     },
     {
       "ID": "Ach_Sunken",
@@ -487,15 +492,15 @@
       "Name": "Protected Ruins",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2982
     },
     {
       "ID": "Ach_UnlockAllHacks",
       "SetID": "dcmn433",
       "Name": "Admin Access",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 298
     },
     {
       "ID": "Ach_UnlockMarketShips",
@@ -503,7 +508,7 @@
       "Name": "Full Roster",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3992
+      "UsersEstimate": 4474
     },
     {
       "ID": "Ach_WeaponTestSurvivor",
@@ -511,23 +516,23 @@
       "Name": "Deft Maneuvers",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 133
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "dcmn433",
       "IsBase": true,
-      "Progressed": 133050,
-      "Completed": 1
+      "Progressed": 149122,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2024-03-07T19:58:35.1487767+00:00",
   "FirstSeenRating": "2024-03-10T21:58:46.5307453+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:06.8606043+00:00",
   "LastChanged": "2024-06-03T13:05:03.4103138+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:35.9567643+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:09:58.9642411+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:18.1058942+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:33.4262642+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:35.9568162+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:15.7366885+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:58.9642598+00:00"
 }

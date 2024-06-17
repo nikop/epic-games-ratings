@@ -5,10 +5,10 @@
   "Ranking_Rating": 86,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 364,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -45,11 +45,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 781,
+  "EOS_Progressed": 832,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:32.3628433+00:00",
@@ -2100,6 +2100,11 @@
       "Time": "2024-04-10T06:05:30.130393+00:00",
       "NumProgressed": 781,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:15:26.2018176+00:00",
+      "NumProgressed": 832,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2111,7 +2116,7 @@
       "Name": "Arrive Home",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ArtCollector",
@@ -2125,7 +2130,7 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 141
     },
@@ -2133,7 +2138,7 @@
       "ID": "Assassin",
       "SetID": "82505mn",
       "Name": "Assassin",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -2141,9 +2146,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "BugHunter",
@@ -2151,15 +2156,15 @@
       "Name": "Bug Hunter",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 183
     },
     {
       "ID": "Cryomancer",
       "SetID": "82505mn",
       "Name": "Cryomancer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Explorer",
@@ -2167,7 +2172,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "GhostBuster",
@@ -2175,7 +2180,7 @@
       "Name": "Ghost Buster",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 116
     },
     {
       "ID": "Gladiator",
@@ -2183,21 +2188,21 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 100
     },
     {
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 216
     },
     {
       "ID": "Hardboiled",
       "SetID": "82505mn",
       "Name": "Hardboiled",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -2205,9 +2210,9 @@
       "ID": "HolyKnight",
       "SetID": "82505mn",
       "Name": "Holy Knight",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 25
     },
     {
       "ID": "Horder",
@@ -2215,7 +2220,7 @@
       "Name": "Hoarder",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Iconoclasm",
@@ -2223,7 +2228,7 @@
       "Name": "Iconoclasm",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 108
     },
     {
       "ID": "Inquisitor",
@@ -2231,7 +2236,7 @@
       "Name": "Inquisitor",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 283
     },
     {
       "ID": "Librarian",
@@ -2239,7 +2244,7 @@
       "Name": "Librarian",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 100
     },
     {
       "ID": "Lumberjack",
@@ -2247,15 +2252,15 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 92
     },
     {
       "ID": "Marksman",
       "SetID": "82505mn",
       "Name": "Marksman",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 25
     },
     {
       "ID": "MeatLover",
@@ -2263,7 +2268,7 @@
       "Name": "Meat Lover",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MoneySwag",
@@ -2271,15 +2276,15 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "Necromancer",
       "SetID": "82505mn",
       "Name": "Necromancer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Oops",
@@ -2287,7 +2292,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "OrcMustDie",
@@ -2295,7 +2300,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 92
     },
     {
       "ID": "Pyromancer",
@@ -2303,7 +2308,7 @@
       "Name": "Pyromancer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "Reincarnation",
@@ -2311,7 +2316,7 @@
       "Name": "Reincarnation",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 108
     },
     {
       "ID": "Roughneck",
@@ -2333,9 +2338,9 @@
       "ID": "ShieldCrusher",
       "SetID": "82505mn",
       "Name": "Shield Crusher",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 58
     },
     {
       "ID": "SlingOfDavid",
@@ -2343,7 +2348,7 @@
       "Name": "Sling of David",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SpellMaster",
@@ -2351,7 +2356,7 @@
       "Name": "Spell Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "SwordMaster",
@@ -2367,15 +2372,15 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 100
     },
     {
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 158
     },
     {
       "ID": "TheTrio",
@@ -2383,7 +2388,7 @@
       "Name": "Trio",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "TrapMaster",
@@ -2391,23 +2396,23 @@
       "Name": "Trap Master",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 141
     },
     {
       "ID": "TreasureHunter",
       "SetID": "82505mn",
       "Name": "Treasure Hunter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 50
     },
     {
       "ID": "Troubleshooter",
       "SetID": "82505mn",
       "Name": "Troubleshooter",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 75
     },
     {
       "ID": "WeaponMaster",
@@ -2430,7 +2435,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 781,
+      "Progressed": 832,
       "Completed": 1
     }
   ],
@@ -2438,8 +2443,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-06-16T08:58:08.5936553+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:30.1303926+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:26.2018174+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:30.9991493+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:01:06.3323488+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:30.1304212+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:51.553963+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:26.2018437+00:00"
 }

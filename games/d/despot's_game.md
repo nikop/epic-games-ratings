@@ -1,48 +1,48 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 655)  
+Rating: 4.50 (Ranked 656)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~454 |
-| Vanquisher of Robots | 79.00% | ~408 |
-| Party | 51.00% | ~263 |
-| Impossible Cube | 45.00% | ~232 |
-| Through the Darkness | 45.00% | ~232 |
-| Knowledge is Power | 44.00% | ~227 |
-| No Mercy | 43.00% | ~222 |
-| The Return of a Rat | 41.00% | ~212 |
-| Fat of the Earth | 37.00% | ~191 |
-| Last Man Standing | 32.00% | ~165 |
-| He's Seen It All | 29.00% | ~150 |
-| Great Hero | 29.00% | ~150 |
-| Rookie | 28.00% | ~144 |
-| Campaigning | 27.00% | ~139 |
-| Catch Jonathan_tostar | 27.00% | ~139 |
-| Assemble a Meganewbie | 24.00% | ~124 |
-| Frugal | 22.00% | ~114 |
-| Feed a God | 21.00% | ~108 |
-| Great Flight | 20.00% | ~103 |
-| To the Moon and Back | 20.00% | ~103 |
-| Holy Vengeance | 17.00% | ~88 |
-| Honorary Cultist | 14.00% | ~72 |
-| Strength and Sorcery | 11.00% | ~57 |
-| Brain and Brawn | 11.00% | ~57 |
-| Omae Wa Mou Shindeiru | 9.00% | ~46 |
-| Experimentalist | 7.00% | ~36 |
-| Soldier | 7.00% | ~36 |
-| Wide Selection | 6.00% | ~31 |
-| Android Power | 6.00% | ~31 |
-| Zombie Lover | 3.00% | ~15 |
-| Shopaholic | 2.00% | ~10 |
-| Full House | 2.00% | ~10 |
-| Munchkin | 2.00% | ~10 |
-| Vet | 0.80% | ~4 |
+| Good start! | 89.00% | ~489 |
+| Vanquisher of Robots | 80.00% | ~439 |
+| Party | 52.00% | ~285 |
+| Through the Darkness | 46.00% | ~253 |
+| No Mercy | 44.00% | ~242 |
+| Impossible Cube | 44.00% | ~242 |
+| Knowledge is Power | 43.00% | ~236 |
+| The Return of a Rat | 40.00% | ~220 |
+| Fat of the Earth | 38.00% | ~209 |
+| Last Man Standing | 32.00% | ~176 |
+| He's Seen It All | 30.00% | ~165 |
+| Great Hero | 30.00% | ~165 |
+| Rookie | 28.00% | ~154 |
+| Catch Jonathan_tostar | 27.00% | ~148 |
+| Campaigning | 26.00% | ~143 |
+| Assemble a Meganewbie | 24.00% | ~132 |
+| Frugal | 22.00% | ~121 |
+| Feed a God | 21.00% | ~115 |
+| Great Flight | 20.00% | ~110 |
+| To the Moon and Back | 20.00% | ~110 |
+| Holy Vengeance | 18.00% | ~99 |
+| Honorary Cultist | 14.00% | ~77 |
+| Strength and Sorcery | 11.00% | ~60 |
+| Brain and Brawn | 11.00% | ~60 |
+| Omae Wa Mou Shindeiru | 9.00% | ~49 |
+| Experimentalist | 7.00% | ~38 |
+| Soldier | 7.00% | ~38 |
+| Wide Selection | 6.00% | ~33 |
+| Android Power | 6.00% | ~33 |
+| Zombie Lover | 3.00% | ~16 |
+| Shopaholic | 2.00% | ~11 |
+| Full House | 2.00% | ~11 |
+| Munchkin | 1.00% | ~5 |
+| Vet | 0.70% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516 (Ranked 400)  
-Completed: 1 (0.19%) (Ranked 325)  
+Progressed: 549 (Ranked 435)  
+Completed: 1 (0.18%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 1 (0.19%) (Ranked 325)
 | 2024-02-22 | 512 | 1 |
 | 2024-03-21 | 514 | 1 |
 | 2024-04-10 | 516 | 1 |
+| 2024-06-17 | 549 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

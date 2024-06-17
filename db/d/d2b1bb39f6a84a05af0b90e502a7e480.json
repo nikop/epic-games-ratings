@@ -2,10 +2,10 @@
   "ID": "d2b1bb39f6a84a05af0b90e502a7e480",
   "Name": "Fe",
   "ProductSlug": "fe-3ecd8a",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-02T20:00:00+00:00",
     "PcReleaseDate": "2018-02-16T14:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "16o8o47",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:07:48.0372654+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:07:48.0372558+00:00",
   "LastUpdate_AppInfo": "2024-06-14T01:48:40.437632+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:52.0628894+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:34.0653835+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:48.0372677+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 46.00% | ~198 |
-| Animal Lover | 32.00% | ~138 |
-| Don't Breathe | 32.00% | ~138 |
-| Easy Listening | 16.00% | ~69 |
-| Smooth Operator | 16.00% | ~69 |
-| Perfect Harmony! | 13.00% | ~56 |
-| Rapturous Applause! | 13.00% | ~56 |
-| Wales Interactive | 10.00% | ~43 |
-| Bull in a China Shop | 9.00% | ~39 |
-| Chief Butler | 6.00% | ~26 |
-| Sker Explorer | 4.00% | ~17 |
-| Phonic Boom | 2.00% | ~9 |
-| Ending on a High Note | 1.00% | ~4 |
-| The Long Night | 1.00% | ~4 |
-| Luddite | 0.70% | ~3 |
-| Maids of Sker | 0.70% | ~3 |
-| Scholar | 0.70% | ~3 |
-| Axe of Kindness | 0.50% | ~2 |
-| In Darkness | 0.50% | ~2 |
+| Choking Hazard | 46.00% | ~234 |
+| Animal Lover | 31.00% | ~157 |
+| Don't Breathe | 31.00% | ~157 |
+| Smooth Operator | 16.00% | ~81 |
+| Easy Listening | 14.00% | ~71 |
+| Rapturous Applause! | 13.00% | ~66 |
+| Perfect Harmony! | 12.00% | ~61 |
+| Bull in a China Shop | 9.00% | ~46 |
+| Wales Interactive | 9.00% | ~46 |
+| Chief Butler | 6.00% | ~30 |
+| Sker Explorer | 4.00% | ~20 |
+| Ending on a High Note | 1.00% | ~5 |
+| Phonic Boom | 1.00% | ~5 |
+| The Long Night | 1.00% | ~5 |
+| Luddite | 0.60% | ~3 |
+| Maids of Sker | 0.60% | ~3 |
+| Scholar | 0.60% | ~3 |
+| Axe of Kindness | 0.40% | ~2 |
+| In Darkness | 0.40% | ~2 |
+| Hard Times | 0.20% | ~1 |
 | Axeman | 0.00% | ~0 |
 | Dodgy Geezer | 0.00% | ~0 |
-| Hard Times | 0.00% | ~0 |
 | Head of the Hotel | 0.00% | ~0 |
 | Hell at the Hotel | 0.00% | ~0 |
 | In Complete Darkness | 0.00% | ~0 |
@@ -35,8 +35,8 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 431 (Ranked 421)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 508 (Ranked 443)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,6 +154,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-05 | 398 | 0 |
 | 2024-04-10 | 404 | 0 |
 | 2024-05-13 | 431 | 0 |
+| 2024-06-17 | 508 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

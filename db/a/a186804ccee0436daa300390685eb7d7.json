@@ -2,10 +2,10 @@
   "ID": "a186804ccee0436daa300390685eb7d7",
   "Name": "Space Outpost Silicon One",
   "ProductSlug": "space-outpost-silicon-one-e41922",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-01T15:00:00+00:00",
     "PcReleaseDate": "2024-05-01T15:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-03T01:45:14.4881421+00:00",
   "LastUpdate_AppInfo": "2024-06-11T18:57:12.851498+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:59.1685064+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:23.7716625+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:08.2920162+00:00"
 }

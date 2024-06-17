@@ -2,10 +2,10 @@
   "ID": "224b2e53d23246c2b67c3bad1ccb5eb1",
   "Name": "Spellbound Survivors",
   "ProductSlug": "spellbound-survivors-4da8c1",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 869,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-11T17:00:00+00:00",
     "PcReleaseDate": "2023-12-29T09:00:00+00:00",
@@ -25,18 +25,459 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:36.5774163+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:36.5774189+00:00",
+  "TotalAchievements": 53,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ADVANCED",
+      "SetID": "15bl9lg",
+      "Name": "Advanced",
+      "Percentage": 27,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ANCIENT_SAND",
+      "SetID": "15bl9lg",
+      "Name": "Ancient Sand",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ARROW",
+      "SetID": "15bl9lg",
+      "Name": "Arrow",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ASSASSIN",
+      "SetID": "15bl9lg",
+      "Name": "Assassin",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "BERSERKER",
+      "SetID": "15bl9lg",
+      "Name": "Berserker",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "BLEAK",
+      "SetID": "15bl9lg",
+      "Name": "Thorn Wave",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BLESSING",
+      "SetID": "15bl9lg",
+      "Name": "Blessing",
+      "Percentage": 64,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "BOOMERANG",
+      "SetID": "15bl9lg",
+      "Name": "Rod",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "CHALLENGER",
+      "SetID": "15bl9lg",
+      "Name": "Challenger",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEMISE",
+      "SetID": "15bl9lg",
+      "Name": "Demise",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ELITE",
+      "SetID": "15bl9lg",
+      "Name": "Elite",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "EQUALIZER",
+      "SetID": "15bl9lg",
+      "Name": "Multifire",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVOKE",
+      "SetID": "15bl9lg",
+      "Name": "Rebirth",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIST",
+      "SetID": "15bl9lg",
+      "Name": "Fist",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "FORTIFY",
+      "SetID": "15bl9lg",
+      "Name": "Rapidfire",
+      "Percentage": 73,
+      "XP": 15,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "FROST",
+      "SetID": "15bl9lg",
+      "Name": "Frost",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FROZEN_TUNDRA",
+      "SetID": "15bl9lg",
+      "Name": "Frozen Tundra",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "GLAMOR",
+      "SetID": "15bl9lg",
+      "Name": "Magnetizer",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "GRANDMASTER",
+      "SetID": "15bl9lg",
+      "Name": "Grandmaster",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HOMING_SLASH",
+      "SetID": "15bl9lg",
+      "Name": "Blade Wave",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "HUNTER",
+      "SetID": "15bl9lg",
+      "Name": "Hunter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INTERMEDIATE",
+      "SetID": "15bl9lg",
+      "Name": "Intermediate",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "JUTSU",
+      "SetID": "15bl9lg",
+      "Name": "Jutsu",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KING",
+      "SetID": "15bl9lg",
+      "Name": "Monkey King",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEGEND",
+      "SetID": "15bl9lg",
+      "Name": "Legend",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LIGHTNING_GLOVE",
+      "SetID": "15bl9lg",
+      "Name": "Lightning",
+      "Percentage": 36,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "MAGE",
+      "SetID": "15bl9lg",
+      "Name": "Mage",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MAGMA_FURY",
+      "SetID": "15bl9lg",
+      "Name": "Magma Fury",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MASTER",
+      "SetID": "15bl9lg",
+      "Name": "Master",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MASTERY",
+      "SetID": "15bl9lg",
+      "Name": "XP Booster",
+      "Percentage": 73,
+      "XP": 15,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "MONK",
+      "SetID": "15bl9lg",
+      "Name": "Monk",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MUMMY",
+      "SetID": "15bl9lg",
+      "Name": "Mummy",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "PALADIN",
+      "SetID": "15bl9lg",
+      "Name": "Paladin",
+      "Percentage": 27,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "PHANTOM",
+      "SetID": "15bl9lg",
+      "Name": "Shadow Knight",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "PIRATE",
+      "SetID": "15bl9lg",
+      "Name": "Pirate",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "PREDATORY",
+      "SetID": "15bl9lg",
+      "Name": "Skull Fury",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROFESSIONAL",
+      "SetID": "15bl9lg",
+      "Name": "Professional",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "REFINE",
+      "SetID": "15bl9lg",
+      "Name": "Elixir",
+      "Percentage": 27,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "SAMURAI",
+      "SetID": "15bl9lg",
+      "Name": "Samurai",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SAND_STORM",
+      "SetID": "15bl9lg",
+      "Name": "Sand Storm",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SHAMAN",
+      "SetID": "15bl9lg",
+      "Name": "Shaman",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SHINOBI",
+      "SetID": "15bl9lg",
+      "Name": "Shinobi",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SIREN",
+      "SetID": "15bl9lg",
+      "Name": "Prolonger",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPIKE_BALL",
+      "SetID": "15bl9lg",
+      "Name": "Spike Ball",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "SWIFT",
+      "SetID": "15bl9lg",
+      "Name": "Boots",
+      "Percentage": 73,
+      "XP": 15,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "TROLL",
+      "SetID": "15bl9lg",
+      "Name": "Orc",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNDEAD",
+      "SetID": "15bl9lg",
+      "Name": "Zero",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNFOLD",
+      "SetID": "15bl9lg",
+      "Name": "Vitalizer",
+      "Percentage": 73,
+      "XP": 15,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "UPRISING_TERROR",
+      "SetID": "15bl9lg",
+      "Name": "Uprising Terror",
+      "Percentage": 45,
+      "XP": 40,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "UPSCALE",
+      "SetID": "15bl9lg",
+      "Name": "Enricher",
+      "Percentage": 18,
+      "XP": 40,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "VALOUR",
+      "SetID": "15bl9lg",
+      "Name": "Valour",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VELOCITY",
+      "SetID": "15bl9lg",
+      "Name": "Velocity",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WARLOCK",
+      "SetID": "15bl9lg",
+      "Name": "Warlock",
+      "Percentage": 9,
+      "XP": 100,
+      "UsersEstimate": 1
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "15bl9lg",
+      "IsBase": true,
+      "Progressed": 11,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-11T15:57:44.3042591+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:36.5774189+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:36.5774159+00:00",
   "LastUpdate_AppInfo": "2024-06-14T13:57:06.9268824+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:53.8500013+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:01:53.5147354+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:02.450662+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:36.5781257+00:00"
 }

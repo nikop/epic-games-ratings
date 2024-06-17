@@ -2,10 +2,10 @@
   "ID": "fdf05d3975f44e8d989bc2923e3e6f38",
   "Name": "Letters \u0026 Legends",
   "ProductSlug": "letters-and-legends-2a2c80",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 803,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-25T23:00:00+00:00",
     "PcReleaseDate": "2024-04-25T23:00:00+00:00",
@@ -25,17 +25,243 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:21.5144853+00:00",
+      "NumProgressed": 21,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:21.5144879+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "A_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "A is for Abaddon",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "B_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "B is for Bruiser",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "C_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "C is for Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "D_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "D is for Decimation",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "E_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "E is for Endangerment",
+      "Percentage": 29,
+      "XP": 50,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "F_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "F is for Fantastical",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "G_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "G is for Graveyard",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "H is for Hellscape",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "I_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "I is for Incineration",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "J_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "J is for Jabber",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "K_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "K is for Killer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "L_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "L is for Learning",
+      "Percentage": 14,
+      "XP": 25,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "M_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "M is for Megalophonous",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "N_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "N is for Nonagonic",
+      "Percentage": 5,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "O_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "O is for Octonary",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "P_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "P is for Pecunious",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Q_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "Q is for Quaternary",
+      "Percentage": 14,
+      "XP": 25,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "R_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "R is for Recuperative",
+      "Percentage": 38,
+      "XP": 25,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "S_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "S is for Score",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "T_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "T is for Thirsty",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "U_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "U is for Urgency",
+      "Percentage": 52,
+      "XP": 25,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "V_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "V is for Vainglorious",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "W_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "W is for Wordsmith",
+      "Percentage": 19,
+      "XP": 25,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "X_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "X is for Xenophobia",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Y_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "Y is for Yielding",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "Z_IS_FOR",
+      "SetID": "3lcgfm4",
+      "Name": "Z is for Zealotical",
+      "Percentage": 52,
+      "XP": 10,
+      "UsersEstimate": 11
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "3lcgfm4",
+      "IsBase": true,
+      "Progressed": 21,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-04-30T21:57:27.020062+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:21.5144878+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:21.5144849+00:00",
   "LastUpdate_AppInfo": "2024-06-12T13:02:57.7949819+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:21.3236873+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:49.0374202+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:21.5150797+00:00"
 }

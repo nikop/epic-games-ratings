@@ -5,60 +5,60 @@ Rating: 4.52 (Ranked 620)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 14.00% | ~5,109 |
-| Meticulously Efficient | 11.00% | ~4,015 |
-| Advancement | 10.00% | ~3,650 |
-| Solo Capture | 8.00% | ~2,920 |
-| Swift Rift Removers | 8.00% | ~2,920 |
-| I collect Spores, Molds, and Fungi | 7.00% | ~2,555 |
-| Discovery | 7.00% | ~2,555 |
-| Fully Upgraded | 7.00% | ~2,555 |
-| Teamwork | 7.00% | ~2,555 |
-| Clutch Capture | 6.00% | ~2,190 |
-| There you are! | 6.00% | ~2,190 |
-| Vaporous Expansion | 6.00% | ~2,190 |
-| Whoopsie | 6.00% | ~2,190 |
-| Cultured | 5.00% | ~1,825 |
-| Daily Dose | 5.00% | ~1,825 |
-| Ghostbuster In Training | 5.00% | ~1,825 |
-| Animated | 4.00% | ~1,460 |
-| Ectoplasmic Entity | 4.00% | ~1,460 |
-| Icing on the Cake | 4.00% | ~1,460 |
-| Legions | 4.00% | ~1,460 |
-| Right back at ya | 4.00% | ~1,460 |
-| Side Hustle | 4.00% | ~1,460 |
-| Summoner | 4.00% | ~1,460 |
-| Back Off | 3.00% | ~1,095 |
-| We have the best insurance | 3.00% | ~1,095 |
-| Pesky Jerks | 3.00% | ~1,095 |
-| Rift Destroyer | 3.00% | ~1,095 |
-| Seasoned | 3.00% | ~1,095 |
-| Skilled | 3.00% | ~1,095 |
-| Stunner | 3.00% | ~1,095 |
-| Welcome to the Crew | 3.00% | ~1,095 |
-| Collector | 2.00% | ~730 |
-| Diabolical | 2.00% | ~730 |
-| Escape Artist | 2.00% | ~730 |
-| Reckless | 2.00% | ~730 |
-| Rivalry | 2.00% | ~730 |
-| Tobin's Prodigy | 2.00% | ~730 |
-| Fragile Panes | 1.00% | ~365 |
-| Liability | 1.00% | ~365 |
-| Surprise! | 1.00% | ~365 |
-| Therapeutic | 1.00% | ~365 |
-| Terrifying | 0.90% | ~328 |
-| Rift Seeker | 0.80% | ~292 |
-| Master Collector | 0.60% | ~219 |
-| Catostrophic Destroyer | 0.30% | ~109 |
-| Ghost Expert | 0.30% | ~109 |
-| Little Help Here | 0.30% | ~109 |
-| I don't need these | 0.20% | ~73 |
-| Line em' up | 0.20% | ~73 |
-| Mycophile | 0.20% | ~73 |
-| Ultimate Defense | 0.20% | ~73 |
+| Stylish | 16.00% | ~6,074 |
+| Meticulously Efficient | 12.00% | ~4,555 |
+| Advancement | 11.00% | ~4,176 |
+| Swift Rift Removers | 9.00% | ~3,416 |
+| I collect Spores, Molds, and Fungi | 8.00% | ~3,037 |
+| Discovery | 8.00% | ~3,037 |
+| Solo Capture | 8.00% | ~3,037 |
+| Fully Upgraded | 7.00% | ~2,657 |
+| Teamwork | 7.00% | ~2,657 |
+| Clutch Capture | 6.00% | ~2,278 |
+| Cultured | 6.00% | ~2,278 |
+| Daily Dose | 6.00% | ~2,278 |
+| There you are! | 6.00% | ~2,278 |
+| Vaporous Expansion | 6.00% | ~2,278 |
+| Whoopsie | 6.00% | ~2,278 |
+| Ghostbuster In Training | 5.00% | ~1,898 |
+| Right back at ya | 5.00% | ~1,898 |
+| Animated | 4.00% | ~1,518 |
+| We have the best insurance | 4.00% | ~1,518 |
+| Ectoplasmic Entity | 4.00% | ~1,518 |
+| Icing on the Cake | 4.00% | ~1,518 |
+| Legions | 4.00% | ~1,518 |
+| Pesky Jerks | 4.00% | ~1,518 |
+| Seasoned | 4.00% | ~1,518 |
+| Side Hustle | 4.00% | ~1,518 |
+| Summoner | 4.00% | ~1,518 |
+| Back Off | 3.00% | ~1,139 |
+| Rift Destroyer | 3.00% | ~1,139 |
+| Skilled | 3.00% | ~1,139 |
+| Stunner | 3.00% | ~1,139 |
+| Welcome to the Crew | 3.00% | ~1,139 |
+| Collector | 2.00% | ~759 |
+| Diabolical | 2.00% | ~759 |
+| Escape Artist | 2.00% | ~759 |
+| Liability | 2.00% | ~759 |
+| Reckless | 2.00% | ~759 |
+| Rivalry | 2.00% | ~759 |
+| Tobin's Prodigy | 2.00% | ~759 |
+| Fragile Panes | 1.00% | ~380 |
+| Surprise! | 1.00% | ~380 |
+| Therapeutic | 1.00% | ~380 |
+| Terrifying | 0.90% | ~342 |
+| Rift Seeker | 0.80% | ~304 |
+| Master Collector | 0.60% | ~228 |
+| Ghost Expert | 0.40% | ~152 |
+| Catostrophic Destroyer | 0.30% | ~114 |
+| I don't need these | 0.30% | ~114 |
+| Little Help Here | 0.30% | ~114 |
+| Line em' up | 0.20% | ~76 |
+| Mycophile | 0.20% | ~76 |
+| Ultimate Defense | 0.20% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,496 (Ranked 154)  
-Completed: 75 (0.21%) (Ranked 318)  
+Progressed: 37,961 (Ranked 167)  
+Completed: 78 (0.21%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,6 +344,7 @@ Completed: 75 (0.21%) (Ranked 318)
 | 2024-03-21 | 35,360 | 74 |
 | 2024-04-08 | 36,457 | 75 |
 | 2024-04-10 | 36,496 | 75 |
+| 2024-06-17 | 37,961 | 78 |
 ## Awards
 Max (Great for Beginners): 375  (Ranked 273)  
 Sum: 3,360 (Ranked 195)  

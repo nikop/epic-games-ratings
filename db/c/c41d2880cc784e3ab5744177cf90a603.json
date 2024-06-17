@@ -2,10 +2,10 @@
   "ID": "c41d2880cc784e3ab5744177cf90a603",
   "Name": "Lizard Slayer",
   "ProductSlug": "lizard-slayer-5c25ba",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-14T05:00:00+00:00",
     "PcReleaseDate": "2024-05-14T05:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-15T02:23:54.9880072+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:34.9027912+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:20.2232557+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:17.9672265+00:00"
 }

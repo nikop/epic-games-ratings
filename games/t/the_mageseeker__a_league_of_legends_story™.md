@@ -5,62 +5,62 @@ Rating: 4.78 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,491 |
-| No more cages! | 90.00% | ~3,308 |
-| Everfrost | 77.00% | ~2,830 |
-| Pentakill | 76.00% | ~2,793 |
-| Dark Forest | 76.00% | ~2,793 |
-| The use of petricite | 74.00% | ~2,720 |
-| You can pet the dog | 61.00% | ~2,242 |
-| Thornbarrow | 47.00% | ~1,727 |
-| Big Helmet Bro | 43.00% | ~1,580 |
-| Clarion Cove | 43.00% | ~1,580 |
-| Ternmoat Headquarters | 41.00% | ~1,507 |
-| Elemental master | 40.00% | ~1,470 |
-| Past trauma | 40.00% | ~1,470 |
-| Old friend | 36.00% | ~1,323 |
-| Cypress Glen Headquarters | 36.00% | ~1,323 |
-| Devineur | 35.00% | ~1,286 |
-| Petricite Burst | 35.00% | ~1,286 |
-| Hijack | 34.00% | ~1,250 |
-| I chose my shackles | 31.00% | ~1,139 |
-| Ancient power | 31.00% | ~1,139 |
-| Whispers in the Woods I | 30.00% | ~1,102 |
-| Sacred Woods | 29.00% | ~1,066 |
-| Little light | 27.00% | ~992 |
-| Glyndemere | 26.00% | ~956 |
-| Capelworth | 26.00% | ~956 |
-| Full equipped | 26.00% | ~956 |
-| Iffighain Headquarters | 25.00% | ~919 |
-| No more holding back | 22.00% | ~808 |
-| Terbisia | 22.00% | ~808 |
-| Whispers in the Woods II | 21.00% | ~772 |
-| Quickmoore Headquarters | 21.00% | ~772 |
-| My heart and sword always for Demacia | 20.00% | ~735 |
-| Friendly fire | 20.00% | ~735 |
-| True power | 20.00% | ~735 |
-| The Central Headquarters | 20.00% | ~735 |
-| Whispers in the Woods III | 19.00% | ~698 |
-| Meltridge | 19.00% | ~698 |
-| I smell fear | 18.00% | ~662 |
-| Cloven Dell Headquarters | 18.00% | ~662 |
-| The end of the experiments | 17.00% | ~625 |
-| The Great City of Demacia | 17.00% | ~625 |
-| Truth is a dark mirror | 17.00% | ~625 |
-| Call it 'redistribution of magic | 17.00% | ~625 |
-| Whispers in the Woods IV | 16.00% | ~588 |
-| Embrace the darkness | 15.00% | ~551 |
-| Do you trust me? | 15.00% | ~551 |
-| The great mage rebellion starts now | 15.00% | ~551 |
-| Back to sleep, then... | 14.00% | ~514 |
-| Chains master | 12.00% | ~441 |
-| You can pet the... horse | 12.00% | ~441 |
-| Spellcrafting | 12.00% | ~441 |
-| Silverwing nest | 3.00% | ~110 |
+| For Demacia | 95.00% | ~3,512 |
+| No more cages! | 90.00% | ~3,327 |
+| Everfrost | 77.00% | ~2,847 |
+| Dark Forest | 77.00% | ~2,847 |
+| Pentakill | 76.00% | ~2,810 |
+| The use of petricite | 74.00% | ~2,736 |
+| You can pet the dog | 61.00% | ~2,255 |
+| Thornbarrow | 47.00% | ~1,738 |
+| Big Helmet Bro | 44.00% | ~1,627 |
+| Clarion Cove | 43.00% | ~1,590 |
+| Ternmoat Headquarters | 42.00% | ~1,553 |
+| Elemental master | 40.00% | ~1,479 |
+| Past trauma | 40.00% | ~1,479 |
+| Cypress Glen Headquarters | 37.00% | ~1,368 |
+| Old friend | 36.00% | ~1,331 |
+| Petricite Burst | 36.00% | ~1,331 |
+| Devineur | 35.00% | ~1,294 |
+| Hijack | 34.00% | ~1,257 |
+| I chose my shackles | 31.00% | ~1,146 |
+| Ancient power | 31.00% | ~1,146 |
+| Whispers in the Woods I | 30.00% | ~1,109 |
+| Sacred Woods | 29.00% | ~1,072 |
+| Little light | 27.00% | ~998 |
+| Glyndemere | 27.00% | ~998 |
+| Capelworth | 26.00% | ~961 |
+| Full equipped | 26.00% | ~961 |
+| Iffighain Headquarters | 25.00% | ~924 |
+| No more holding back | 22.00% | ~813 |
+| Terbisia | 22.00% | ~813 |
+| Whispers in the Woods II | 21.00% | ~776 |
+| Friendly fire | 21.00% | ~776 |
+| Quickmoore Headquarters | 21.00% | ~776 |
+| My heart and sword always for Demacia | 20.00% | ~739 |
+| True power | 20.00% | ~739 |
+| Meltridge | 20.00% | ~739 |
+| The Central Headquarters | 20.00% | ~739 |
+| Whispers in the Woods III | 19.00% | ~702 |
+| I smell fear | 18.00% | ~665 |
+| Cloven Dell Headquarters | 18.00% | ~665 |
+| The end of the experiments | 17.00% | ~628 |
+| The Great City of Demacia | 17.00% | ~628 |
+| Truth is a dark mirror | 17.00% | ~628 |
+| Call it 'redistribution of magic | 17.00% | ~628 |
+| Embrace the darkness | 16.00% | ~592 |
+| Whispers in the Woods IV | 16.00% | ~592 |
+| Do you trust me? | 16.00% | ~592 |
+| The great mage rebellion starts now | 15.00% | ~555 |
+| Back to sleep, then... | 14.00% | ~518 |
+| You can pet the... horse | 13.00% | ~481 |
+| Chains master | 12.00% | ~444 |
+| Spellcrafting | 12.00% | ~444 |
+| Silverwing nest | 3.00% | ~111 |
 | The Unshackled | 2.00% | ~74 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,675 (Ranked 252)  
-Completed: 47 (1.28%) (Ranked 187)  
+Progressed: 3,697 (Ranked 280)  
+Completed: 48 (1.30%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,6 +294,7 @@ Completed: 47 (1.28%) (Ranked 187)
 | 2024-04-07 | 3,649 | 46 |
 | 2024-04-10 | 3,651 | 46 |
 | 2024-05-13 | 3,675 | 47 |
+| 2024-06-17 | 3,697 | 48 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

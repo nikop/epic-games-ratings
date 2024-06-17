@@ -4,47 +4,48 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 57.00% | ~30 |
-| The Mastercrafter | 45.00% | ~24 |
-| Builder | 42.00% | ~22 |
-| Horse Whisperer | 40.00% | ~21 |
-| Racing horse | 40.00% | ~21 |
-| The Champion of Sneaky Ways | 38.00% | ~20 |
-| Finding Esmeé | 38.00% | ~20 |
-| A helping hand | 32.00% | ~17 |
-| Junior Show Jumper | 32.00% | ~17 |
-| Rodeo Rider | 26.00% | ~14 |
-| Finding Lili | 25.00% | ~13 |
-| Equine Coiffeur | 23.00% | ~12 |
-| Beginner's Luck | 23.00% | ~12 |
-| Masseur | 21.00% | ~11 |
-| Friendship | 21.00% | ~11 |
-| Dog Lover | 21.00% | ~11 |
-| A Star On The Rise | 19.00% | ~10 |
-| Party Crasher | 19.00% | ~10 |
-| Legendary Steed | 19.00% | ~10 |
-| Surprise! | 19.00% | ~10 |
-| Bon appétit! | 17.00% | ~9 |
-| Squeaky clean | 13.00% | ~7 |
-| The Birds and the Bees | 11.00% | ~6 |
-| Cat Lover | 11.00% | ~6 |
-| Tea Time | 9.00% | ~5 |
-| Buckaroo | 8.00% | ~4 |
-| Paranormal Investigator | 6.00% | ~3 |
-| Apple Pie | 4.00% | ~2 |
-| Tenacious Explorer | 2.00% | ~1 |
+| Newbie | 64.00% | ~77 |
+| The Mastercrafter | 51.00% | ~61 |
+| Builder | 50.00% | ~60 |
+| Horse Whisperer | 49.00% | ~59 |
+| Racing horse | 45.00% | ~54 |
+| Finding Esmeé | 40.00% | ~48 |
+| Junior Show Jumper | 39.00% | ~47 |
+| The Champion of Sneaky Ways | 39.00% | ~47 |
+| A helping hand | 38.00% | ~46 |
+| Masseur | 32.00% | ~38 |
+| Equine Coiffeur | 32.00% | ~38 |
+| Rodeo Rider | 32.00% | ~38 |
+| Finding Lili | 31.00% | ~37 |
+| Dog Lover | 29.00% | ~35 |
+| Friendship | 28.00% | ~34 |
+| Beginner's Luck | 26.00% | ~31 |
+| Party Crasher | 26.00% | ~31 |
+| Legendary Steed | 26.00% | ~31 |
+| A Star On The Rise | 25.00% | ~30 |
+| Surprise! | 25.00% | ~30 |
+| Bon appétit! | 23.00% | ~28 |
+| Squeaky clean | 23.00% | ~28 |
+| The Birds and the Bees | 18.00% | ~22 |
+| Tea Time | 17.00% | ~20 |
+| Cat Lover | 14.00% | ~17 |
+| Buckaroo | 10.00% | ~12 |
+| Paranormal Investigator | 9.00% | ~11 |
+| Apple Pie | 8.00% | ~10 |
+| Tenacious Explorer | 3.00% | ~4 |
+| Stud Manager | 2.00% | ~2 |
+| Like Lemmings | 0.80% | ~1 |
 | Completionist | 0.00% | ~0 |
-| Like Lemmings | 0.00% | ~0 |
-| Stud Manager | 0.00% | ~0 |
 | Champion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 645)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 120 (Ranked 609)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 36 | 0 |
 | 2024-04-10 | 53 | 0 |
+| 2024-06-17 | 120 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

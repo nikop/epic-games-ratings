@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That wasn't so bad | 21.00% | ~154 |
-| The athlete | 9.00% | ~66 |
-| The intellectual | 8.00% | ~59 |
-| Let it begin | 7.00% | ~51 |
-| The activist | 6.00% | ~44 |
-| The boss | 4.00% | ~29 |
-| Picky, Picky! | 1.00% | ~7 |
-| The lad | 1.00% | ~7 |
-| The debonair | 1.00% | ~7 |
-| The individualist | 1.00% | ~7 |
-| More than browsing | 0.80% | ~6 |
-| The nice guy | 0.70% | ~5 |
-| Picky! | 0.30% | ~2 |
-| The techie | 0.30% | ~2 |
-| The bad boy | 0.30% | ~2 |
-| Playing the field | 0.10% | ~1 |
-| Keep the spark alive | 0.10% | ~1 |
-| Go well, lad | 0.10% | ~1 |
-| Muggy Misha | 0.10% | ~1 |
+| That wasn't so bad | 31.00% | ~265 |
+| Let it begin | 12.00% | ~102 |
+| The athlete | 11.00% | ~94 |
+| The intellectual | 10.00% | ~85 |
+| The activist | 8.00% | ~68 |
+| The boss | 6.00% | ~51 |
+| Picky, Picky! | 2.00% | ~17 |
+| More than browsing | 2.00% | ~17 |
+| The lad | 2.00% | ~17 |
+| The debonair | 2.00% | ~17 |
+| The individualist | 2.00% | ~17 |
+| The techie | 2.00% | ~17 |
+| The nice guy | 1.00% | ~9 |
+| Picky! | 0.90% | ~8 |
+| Go well, lad | 0.90% | ~8 |
+| Playing the field | 0.60% | ~5 |
+| Keep the spark alive | 0.60% | ~5 |
+| The bad boy | 0.60% | ~5 |
+| Muggy Misha | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735 (Ranked 374)  
-Completed: 8 (1.09%) (Ranked 203)  
+Progressed: 854 (Ranked 396)  
+Completed: 10 (1.17%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,6 +160,7 @@ Completed: 8 (1.09%) (Ranked 203)
 | 2024-02-22 | 642 | 7 |
 | 2024-03-21 | 713 | 8 |
 | 2024-04-10 | 735 | 8 |
+| 2024-06-17 | 854 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

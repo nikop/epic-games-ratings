@@ -5,44 +5,45 @@ Rating: 4.77 (Ranked 127)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hired Gun | 16.00% | ~21,288 |
-| Bot Dueler | 5.00% | ~6,652 |
-| Pawed Plunder | 3.00% | ~3,992 |
-| Professional | 3.00% | ~3,992 |
-| Full Roster | 3.00% | ~3,992 |
-| Protected Ruins | 2.00% | ~2,661 |
-| Skilled Crew | 1.00% | ~1,330 |
-| Street Legend | 1.00% | ~1,330 |
-| Hostile Outpost | 0.80% | ~1,064 |
-| Dawn Warrior | 0.60% | ~798 |
-| Bounty Ace | 0.50% | ~665 |
-| Astral Refinery | 0.40% | ~532 |
-| CPU Slayer | 0.30% | ~399 |
-| Arrogant Assassin | 0.30% | ~399 |
-| Awakened Rift | 0.20% | ~266 |
-| Telekinetic Predator | 0.20% | ~266 |
-| Nearly Untouchable | 0.10% | ~133 |
-| AI Master | 0.10% | ~133 |
-| Glitched System | 0.10% | ~133 |
-| Byte Maverick | 0.10% | ~133 |
-| Gold Hoarder | 0.10% | ~133 |
-| Complete Hack | 0.10% | ~133 |
-| Exterminator | 0.10% | ~133 |
-| Elite Commando | 0.10% | ~133 |
-| Mega Kill | 0.10% | ~133 |
-| Whoops | 0.10% | ~133 |
-| Plant Protector | 0.10% | ~133 |
-| Pilot Crusher | 0.10% | ~133 |
-| Admin Access | 0.10% | ~133 |
-| Deft Maneuvers | 0.10% | ~133 |
+| Hired Gun | 17.00% | ~25,351 |
+| Bot Dueler | 5.00% | ~7,456 |
+| Pawed Plunder | 4.00% | ~5,965 |
+| Professional | 3.00% | ~4,474 |
+| Full Roster | 3.00% | ~4,474 |
+| Protected Ruins | 2.00% | ~2,982 |
+| Skilled Crew | 1.00% | ~1,491 |
+| Street Legend | 1.00% | ~1,491 |
+| Hostile Outpost | 0.90% | ~1,342 |
+| Dawn Warrior | 0.70% | ~1,044 |
+| Bounty Ace | 0.60% | ~895 |
+| Astral Refinery | 0.50% | ~746 |
+| CPU Slayer | 0.40% | ~596 |
+| Arrogant Assassin | 0.40% | ~596 |
+| Awakened Rift | 0.30% | ~447 |
+| Telekinetic Predator | 0.30% | ~447 |
+| Admin Access | 0.20% | ~298 |
+| Nearly Untouchable | 0.10% | ~149 |
+| AI Master | 0.10% | ~149 |
+| Glitched System | 0.10% | ~149 |
+| Byte Maverick | 0.10% | ~149 |
+| Gold Hoarder | 0.10% | ~149 |
+| Complete Hack | 0.10% | ~149 |
+| Exterminator | 0.10% | ~149 |
+| Elite Commando | 0.10% | ~149 |
+| Mega Kill | 0.10% | ~149 |
+| Whoops | 0.10% | ~149 |
+| Plant Protector | 0.10% | ~149 |
+| Pilot Crusher | 0.10% | ~149 |
+| Deft Maneuvers | 0.10% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,050 (Ranked 103)  
-Completed: 1 (0.00%) (Ranked 458)  
+Progressed: 149,122 (Ranked 105)  
+Completed: 5 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 119,522 | 0 |
 | 2024-04-10 | 133,050 | 1 |
+| 2024-06-17 | 149,122 | 5 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

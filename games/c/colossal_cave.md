@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 94.00% | ~106 |
-| You're spelunkin' now! | 80.00% | ~90 |
-| The Birdman of The Caves | 49.00% | ~55 |
-| I've Fallen & I Can't Get Up | 49.00% | ~55 |
-| Charmin' the Snake | 34.00% | ~38 |
-| Drums in the Deep | 24.00% | ~27 |
-| Bridge Builder | 23.00% | ~26 |
-| Treasure Seeker | 19.00% | ~21 |
-| Green Thumb Goliath | 17.00% | ~19 |
-| Take the Scenic Route | 13.00% | ~15 |
-| St. George's Gauntlet | 12.00% | ~14 |
-| Redbeard's Revenger | 12.00% | ~14 |
-| Treasure Hunter | 12.00% | ~14 |
-| BJ & The Bear | 12.00% | ~14 |
-| Can't bear the weight | 9.00% | ~10 |
+| We've only just begun | 94.00% | ~111 |
+| You're spelunkin' now! | 80.00% | ~94 |
+| I've Fallen & I Can't Get Up | 51.00% | ~60 |
+| The Birdman of The Caves | 49.00% | ~58 |
+| Charmin' the Snake | 34.00% | ~40 |
+| Drums in the Deep | 25.00% | ~30 |
+| Bridge Builder | 23.00% | ~27 |
+| Treasure Seeker | 19.00% | ~22 |
+| Green Thumb Goliath | 17.00% | ~20 |
+| Take the Scenic Route | 14.00% | ~17 |
+| St. George's Gauntlet | 14.00% | ~17 |
+| Redbeard's Revenger | 11.00% | ~13 |
+| Treasure Hunter | 11.00% | ~13 |
+| BJ & The Bear | 11.00% | ~13 |
+| Can't bear the weight | 8.00% | ~9 |
 | Mr. Magic | 8.00% | ~9 |
 | Soft Hands | 8.00% | ~9 |
 | Egg On His Face | 7.00% | ~8 |
+| Batteries not Included | 7.00% | ~8 |
 | Who dat? | 7.00% | ~8 |
-| Batteries not Included | 6.00% | ~7 |
 | What a Winner! | 5.00% | ~6 |
 | Colossal Cave Explorer | 4.00% | ~5 |
-| Master Cave Plunderer | 4.00% | ~5 |
+| Master Cave Plunderer | 3.00% | ~4 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 113 (Ranked 559)  
-Completed: 1 (0.88%) (Ranked 221)  
+Progressed: 118 (Ranked 611)  
+Completed: 1 (0.85%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,6 +69,7 @@ Completed: 1 (0.88%) (Ranked 221)
 | 2024-01-20 | 108 | 1 |
 | 2024-03-21 | 112 | 1 |
 | 2024-04-10 | 113 | 1 |
+| 2024-06-17 | 118 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

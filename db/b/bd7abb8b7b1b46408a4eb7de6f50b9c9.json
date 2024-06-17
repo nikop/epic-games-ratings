@@ -2,10 +2,10 @@
   "ID": "bd7abb8b7b1b46408a4eb7de6f50b9c9",
   "Name": "Deadly Domain",
   "ProductSlug": "deadly-domain-2acb41",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-16T08:53:01.477+00:00",
     "PcReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -28,10 +28,62 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-06-17T16:07:42.5639519+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "DiamondMedal",
+      "SetID": "1pi5ek",
+      "Name": "Diamond Medal",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoldenMedal",
+      "SetID": "1pi5ek",
+      "Name": "Golden Medal",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MedalA",
+      "SetID": "1pi5ek",
+      "Name": "Medal A",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MedalB",
+      "SetID": "1pi5ek",
+      "Name": "Medal B",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MedalSilver",
+      "SetID": "1pi5ek",
+      "Name": "Silver Medal",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1pi5ek",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:07:42.5639519+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:07:42.5639501+00:00",
   "LastUpdate_AppInfo": "2024-06-16T08:57:07.5180525+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:35.4339333+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:51.0937714+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:42.5651976+00:00"
 }

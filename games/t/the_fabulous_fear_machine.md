@@ -4,56 +4,56 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Master trainee | 58.00% | ~61 |
-| You have three wishes left | 54.00% | ~57 |
-| Jung's dream | 47.00% | ~50 |
-| The battle of Great Britain | 44.00% | ~47 |
-| A continent with chemistry | 35.00% | ~37 |
-| Giant | 34.00% | ~36 |
-| Pulp! Where Monsters Dwell | 33.00% | ~35 |
-| The happy farmer girl | 32.00% | ~34 |
-| Pulp! Terror Tales in the Night | 30.00% | ~32 |
-| A rival with no options | 29.00% | ~31 |
-| Et in arcadia ego | 27.00% | ~29 |
-| The artist | 27.00% | ~29 |
-| Diagnosis: fear | 27.00% | ~29 |
-| Ambition is... blind | 27.00% | ~29 |
-| You have two wishes left | 27.00% | ~29 |
-| Pulp! Out of this World | 25.00% | ~26 |
-| Pulp! Adventures into the Unknown | 24.00% | ~25 |
-| Welcome to Hellville | 24.00% | ~25 |
-| You had one wish left | 22.00% | ~23 |
-| The seer | 22.00% | ~23 |
-| You've awakened the beast | 21.00% | ~22 |
-| Hate is... addictive | 21.00% | ~22 |
-| Kirlian's best disciple | 21.00% | ~22 |
-| Blessed antennas | 20.00% | ~21 |
-| Pulp! The Beyond | 19.00% | ~20 |
-| Bread and bocaua | 18.00% | ~19 |
-| Fanatacism is... poisonous | 18.00% | ~19 |
-| The bully | 18.00% | ~19 |
-| Blood Red Island | 17.00% | ~18 |
-| The adventurer | 17.00% | ~18 |
-| The beast in the Oval Office | 16.00% | ~17 |
-| Pulp! True Adventures | 16.00% | ~17 |
-| America had no Faith | 14.00% | ~15 |
-| The scholar | 13.00% | ~14 |
-| ECO mode | 13.00% | ~14 |
-| A new Hindenburg | 12.00% | ~13 |
-| The barbarian invasions | 10.00% | ~11 |
-| Vaccine fans | 10.00% | ~11 |
-| Pulp! Tales from the Crypt | 8.00% | ~8 |
-| Pulp! Skeleton Hand | 5.00% | ~5 |
-| Thirst for Oleum | 5.00% | ~5 |
-| Troy is burning! | 5.00% | ~5 |
-| Pulp! The Perfect Crime | 4.00% | ~4 |
-| Pulp! Weird Science | 4.00% | ~4 |
-| Pulp! Heart Throbs | 4.00% | ~4 |
-| Pulp! Mister Mystery | 3.00% | ~3 |
-| Pulp! The Vault of Horror | 3.00% | ~3 |
+| Master trainee | 61.00% | ~73 |
+| You have three wishes left | 55.00% | ~65 |
+| Jung's dream | 49.00% | ~58 |
+| The battle of Great Britain | 46.00% | ~55 |
+| Pulp! Where Monsters Dwell | 34.00% | ~40 |
+| A continent with chemistry | 34.00% | ~40 |
+| Giant | 33.00% | ~39 |
+| The happy farmer girl | 32.00% | ~38 |
+| Pulp! Terror Tales in the Night | 31.00% | ~37 |
+| A rival with no options | 29.00% | ~35 |
+| Et in arcadia ego | 27.00% | ~32 |
+| Diagnosis: fear | 27.00% | ~32 |
+| Ambition is... blind | 27.00% | ~32 |
+| You have two wishes left | 27.00% | ~32 |
+| The artist | 26.00% | ~31 |
+| Pulp! Out of this World | 25.00% | ~30 |
+| Pulp! Adventures into the Unknown | 24.00% | ~29 |
+| Welcome to Hellville | 24.00% | ~29 |
+| Kirlian's best disciple | 23.00% | ~27 |
+| You had one wish left | 22.00% | ~26 |
+| You've awakened the beast | 21.00% | ~25 |
+| Hate is... addictive | 21.00% | ~25 |
+| The seer | 21.00% | ~25 |
+| Blessed antennas | 19.00% | ~23 |
+| Blood Red Island | 18.00% | ~21 |
+| Bread and bocaua | 18.00% | ~21 |
+| Fanatacism is... poisonous | 18.00% | ~21 |
+| The bully | 18.00% | ~21 |
+| The adventurer | 18.00% | ~21 |
+| Pulp! The Beyond | 18.00% | ~21 |
+| The beast in the Oval Office | 16.00% | ~19 |
+| Pulp! True Adventures | 16.00% | ~19 |
+| The scholar | 14.00% | ~17 |
+| ECO mode | 13.00% | ~15 |
+| America had no Faith | 13.00% | ~15 |
+| A new Hindenburg | 13.00% | ~15 |
+| The barbarian invasions | 10.00% | ~12 |
+| Pulp! Tales from the Crypt | 9.00% | ~11 |
+| Vaccine fans | 9.00% | ~11 |
+| Thirst for Oleum | 5.00% | ~6 |
+| Troy is burning! | 5.00% | ~6 |
+| Pulp! Skeleton Hand | 4.00% | ~5 |
+| Pulp! The Perfect Crime | 3.00% | ~4 |
+| Pulp! Weird Science | 3.00% | ~4 |
+| Pulp! Heart Throbs | 3.00% | ~4 |
+| Pulp! Mister Mystery | 3.00% | ~4 |
+| Pulp! The Vault of Horror | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 568)  
-Completed: 1 (0.94%) (Ranked 213)  
+Progressed: 119 (Ranked 610)  
+Completed: 1 (0.84%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,3 +109,4 @@ Completed: 1 (0.94%) (Ranked 213)
 | 2024-03-04 | 101 | 1 |
 | 2024-03-21 | 104 | 1 |
 | 2024-04-10 | 106 | 1 |
+| 2024-06-17 | 119 | 1 |

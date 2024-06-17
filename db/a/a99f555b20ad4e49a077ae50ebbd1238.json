@@ -3,12 +3,12 @@
   "Name": "Zeeverse",
   "ProductSlug": "zeeverse-92a34e",
   "Ranking_Rating": 60,
-  "Ranking_Popularity": 587,
+  "Ranking_Popularity": 588,
   "Ranking_PopularitySum": 553,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-18T14:30:00+00:00",
     "PcReleaseDate": "2023-12-21T22:00:00+00:00",
@@ -291,6 +291,6 @@
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
   "LastChanged": "2024-06-17T13:08:12.8450667+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:44.573528+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:43.6235435+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:48.2236553+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:26.9972058+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:18.6363596+00:00"
 }

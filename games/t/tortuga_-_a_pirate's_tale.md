@@ -5,35 +5,35 @@ Rating: 3.83 (Ranked 1,189)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,847 |
-| No Half Measures | 87.00% | ~15,429 |
-| Personal Matter | 86.00% | ~15,251 |
-| But You Have Heard of Me | 72.00% | ~12,768 |
-| Double the Barrels, double the Fun | 54.00% | ~9,576 |
-| Pimp My Glide | 50.00% | ~8,867 |
-| ... And Where Do the Stories Come From? | 41.00% | ~7,271 |
-| House Party! | 36.00% | ~6,384 |
-| Make It Rain | 23.00% | ~4,079 |
-| Curse of the Seven Seas | 23.00% | ~4,079 |
-| Head First | 17.00% | ~3,015 |
-| To the World's End | 12.00% | ~2,128 |
-| Table for Six | 11.00% | ~1,951 |
-| Sharing Is Caring | 10.00% | ~1,773 |
-| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,419 |
-| Morally Flexible | 6.00% | ~1,064 |
-| Fishing for Compliments | 5.00% | ~887 |
-| After All, Why Shouldn't I Keep It? | 3.00% | ~532 |
-| A True Dandy | 2.00% | ~355 |
-| A New Legend Awaits | 1.00% | ~177 |
+| Eeligally Ambitious | 95.00% | ~16,904 |
+| No Half Measures | 87.00% | ~15,481 |
+| Personal Matter | 86.00% | ~15,303 |
+| But You Have Heard of Me | 72.00% | ~12,812 |
+| Double the Barrels, double the Fun | 54.00% | ~9,609 |
+| Pimp My Glide | 50.00% | ~8,897 |
+| ... And Where Do the Stories Come From? | 41.00% | ~7,296 |
+| House Party! | 36.00% | ~6,406 |
+| Make It Rain | 23.00% | ~4,093 |
+| Curse of the Seven Seas | 23.00% | ~4,093 |
+| Head First | 17.00% | ~3,025 |
+| To the World's End | 12.00% | ~2,135 |
+| Table for Six | 11.00% | ~1,957 |
+| Sharing Is Caring | 10.00% | ~1,779 |
+| I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,424 |
+| Morally Flexible | 6.00% | ~1,068 |
+| Fishing for Compliments | 5.00% | ~890 |
+| After All, Why Shouldn't I Keep It? | 3.00% | ~534 |
+| A True Dandy | 2.00% | ~356 |
+| A New Legend Awaits | 1.00% | ~178 |
 | Pirate King | 0.90% | ~160 |
 | Oooh, We're Half Way There | 0.80% | ~142 |
-| O Captain! My Captain! | 0.20% | ~35 |
+| O Captain! My Captain! | 0.20% | ~36 |
 | Devilishly Talented | 0.10% | ~18 |
 | Heavy Tunaing | 0.10% | ~18 |
 | Pufferfish | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,734 (Ranked 185)  
-Completed: 1 (0.01%) (Ranked 433)  
+Progressed: 17,794 (Ranked 200)  
+Completed: 2 (0.01%) (Ranked 486)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -311,6 +311,7 @@ Completed: 1 (0.01%) (Ranked 433)
 | 2024-02-22 | 17,683 | 1 |
 | 2024-03-21 | 17,717 | 1 |
 | 2024-04-10 | 17,734 | 1 |
+| 2024-06-17 | 17,794 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

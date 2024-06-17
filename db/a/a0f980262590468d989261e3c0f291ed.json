@@ -2,10 +2,10 @@
   "ID": "a0f980262590468d989261e3c0f291ed",
   "Name": "Automate It",
   "ProductSlug": "automate-it-67aa7a",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,11 +29,334 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-06-17T16:08:41.0186449+00:00",
+  "TotalAchievements": 39,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_1",
+      "SetID": "4nfgl07",
+      "Name": "First Steps",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_10",
+      "SetID": "4nfgl07",
+      "Name": "Volcanic Desert Conqueror",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_11",
+      "SetID": "4nfgl07",
+      "Name": "Factory Engineer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_12",
+      "SetID": "4nfgl07",
+      "Name": "Elevator Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_13",
+      "SetID": "4nfgl07",
+      "Name": "Path Divider",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_14",
+      "SetID": "4nfgl07",
+      "Name": "Technologist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_15",
+      "SetID": "4nfgl07",
+      "Name": "Supreme Challenger",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_16",
+      "SetID": "4nfgl07",
+      "Name": "Creative Architect",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_17",
+      "SetID": "4nfgl07",
+      "Name": "Supreme Producer",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_18",
+      "SetID": "4nfgl07",
+      "Name": "Time Master",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_19",
+      "SetID": "4nfgl07",
+      "Name": "Efficiency Master",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_2",
+      "SetID": "4nfgl07",
+      "Name": "Efficient Producer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_20",
+      "SetID": "4nfgl07",
+      "Name": "Dissolution Specialist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_21",
+      "SetID": "4nfgl07",
+      "Name": "Alchemist",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_22",
+      "SetID": "4nfgl07",
+      "Name": "Complete Processor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_23",
+      "SetID": "4nfgl07",
+      "Name": "Master Engineer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_24",
+      "SetID": "4nfgl07",
+      "Name": "Tireless Creator",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_25",
+      "SetID": "4nfgl07",
+      "Name": "Perfect Factory",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_26",
+      "SetID": "4nfgl07",
+      "Name": "Multidisciplinary Producer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_27",
+      "SetID": "4nfgl07",
+      "Name": "Resource Recycler",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_28",
+      "SetID": "4nfgl07",
+      "Name": "Advanced Logistics",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_29",
+      "SetID": "4nfgl07",
+      "Name": "Energy Saver",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_3",
+      "SetID": "4nfgl07",
+      "Name": "Logistics Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_30",
+      "SetID": "4nfgl07",
+      "Name": "Speedrunner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_31",
+      "SetID": "4nfgl07",
+      "Name": "Master Chemist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_32",
+      "SetID": "4nfgl07",
+      "Name": "Strategic Planner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_33",
+      "SetID": "4nfgl07",
+      "Name": "Efficiency Guru",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_34",
+      "SetID": "4nfgl07",
+      "Name": "Fluid Handler",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_35",
+      "SetID": "4nfgl07",
+      "Name": "Gas Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_36",
+      "SetID": "4nfgl07",
+      "Name": "Fluid and Gas Technician",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_37",
+      "SetID": "4nfgl07",
+      "Name": "Hydraulic Expert",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_38",
+      "SetID": "4nfgl07",
+      "Name": "Gas Specialist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_39",
+      "SetID": "4nfgl07",
+      "Name": "Chemical Engineer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_4",
+      "SetID": "4nfgl07",
+      "Name": "Energy Economist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_5",
+      "SetID": "4nfgl07",
+      "Name": "Race Against Time",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_6",
+      "SetID": "4nfgl07",
+      "Name": "Green Forest Explorer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_7",
+      "SetID": "4nfgl07",
+      "Name": "Tropical Adventurer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_8",
+      "SetID": "4nfgl07",
+      "Name": "Enchanted Forest Guardian",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AUIT_ACHIEVEMENT_1_9",
+      "SetID": "4nfgl07",
+      "Name": "Alpine Survivor",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4nfgl07",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:08:41.0186448+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:41.0186429+00:00",
   "LastUpdate_AppInfo": "2024-06-11T09:57:13.9787824+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:21.1795032+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:01:55.605779+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:01:15.5184546+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:41.0193448+00:00"
 }

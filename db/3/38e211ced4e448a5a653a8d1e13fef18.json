@@ -2,10 +2,10 @@
   "ID": "38e211ced4e448a5a653a8d1e13fef18",
   "Name": "Marvel Rivals",
   "ProductSlug": "marvel-rivals-182004",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-12T21:57:11.7386016+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:15.3191715+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:01:54.5545816+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:36.1499056+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:39.0771911+00:00"
 }

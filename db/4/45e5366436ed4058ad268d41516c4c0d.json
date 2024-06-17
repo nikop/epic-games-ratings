@@ -2,10 +2,10 @@
   "ID": "45e5366436ed4058ad268d41516c4c0d",
   "Name": "NINJA KATO 3",
   "ProductSlug": "ninja-kato-3-76c9c5",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-21T15:00:00+00:00",
     "PcReleaseDate": "2024-04-21T15:00:00+00:00",
@@ -83,8 +83,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:01:54.3775943+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:01:54.3775898+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:38.2930166+00:00",
   "LastUpdate_AppInfo": "2024-06-14T07:56:58.6860949+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:22.8964282+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:01:54.3787088+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:52.9063355+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:38.2930222+00:00"
 }

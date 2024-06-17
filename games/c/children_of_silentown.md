@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 90.00% | ~235 |
-| Trumpet | 89.00% | ~232 |
-| Spyglass | 84.00% | ~219 |
-| Broken toy | 78.00% | ~204 |
-| Egghead Lucy | 77.00% | ~201 |
-| Puppy | 64.00% | ~167 |
-| Coal's fur | 59.00% | ~154 |
-| Blue's drawing | 54.00% | ~141 |
-| Mysterious footprints | 49.00% | ~128 |
-| Glass shards | 47.00% | ~123 |
-| Complicated padlock | 42.00% | ~110 |
-| Windmill | 41.00% | ~107 |
-| Big metal ruler | 39.00% | ~102 |
-| Doll | 38.00% | ~99 |
-| Mysterious paintings | 36.00% | ~94 |
-| Cat | 33.00% | ~86 |
-| Depths of the well | 26.00% | ~68 |
-| Children | 23.00% | ~60 |
-| Huge Snail | 15.00% | ~39 |
-| Flower of hope | 15.00% | ~39 |
-| Friend | 13.00% | ~34 |
-| Forest Howl | 12.00% | ~31 |
-| Back Home | 11.00% | ~29 |
-| Old kettle | 11.00% | ~29 |
-| Hope | 5.00% | ~13 |
+| Lucky charm | 90.00% | ~251 |
+| Trumpet | 88.00% | ~246 |
+| Spyglass | 83.00% | ~232 |
+| Broken toy | 77.00% | ~215 |
+| Egghead Lucy | 76.00% | ~212 |
+| Puppy | 63.00% | ~176 |
+| Coal's fur | 58.00% | ~162 |
+| Blue's drawing | 53.00% | ~148 |
+| Mysterious footprints | 49.00% | ~137 |
+| Glass shards | 46.00% | ~128 |
+| Complicated padlock | 42.00% | ~117 |
+| Windmill | 42.00% | ~117 |
+| Big metal ruler | 39.00% | ~109 |
+| Doll | 38.00% | ~106 |
+| Mysterious paintings | 37.00% | ~103 |
+| Cat | 32.00% | ~89 |
+| Depths of the well | 27.00% | ~75 |
+| Children | 23.00% | ~64 |
+| Huge Snail | 15.00% | ~42 |
+| Friend | 14.00% | ~39 |
+| Flower of hope | 14.00% | ~39 |
+| Forest Howl | 13.00% | ~36 |
+| Old kettle | 13.00% | ~36 |
+| Back Home | 11.00% | ~31 |
+| Hope | 5.00% | ~14 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 261 (Ranked 469)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 279 (Ranked 514)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,6 +114,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-03-04 | 251 | 0 |
 | 2024-03-21 | 254 | 0 |
 | 2024-04-10 | 261 | 0 |
+| 2024-06-17 | 279 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

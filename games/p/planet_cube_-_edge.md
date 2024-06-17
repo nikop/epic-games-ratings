@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky Checkpoint | 133.00% | ~8 |
-| I Need Healing! | 133.00% | ~8 |
-| Collectables? Shocking. | 117.00% | ~7 |
-| You'll Be Fine! | 117.00% | ~7 |
-| Dinosaur's Isle | 67.00% | ~4 |
-| Out of the Dorms | 50.00% | ~3 |
-| Never Forget your First | 50.00% | ~3 |
-| Got Our Water Back! | 33.00% | ~2 |
-| You Just Don't Learn | 33.00% | ~2 |
-| Green, Mean and Edgy | 33.00% | ~2 |
-| Show Off | 33.00% | ~2 |
-| Nothing's Impossible | 33.00% | ~2 |
-| Except Maybe This | 33.00% | ~2 |
-| Ready For The Olympics | 33.00% | ~2 |
-| Intense Commute | 17.00% | ~1 |
-| Explored The Labs | 17.00% | ~1 |
-| Bullet Conscious | 17.00% | ~1 |
-| Defence Broken | 17.00% | ~1 |
-| Gunny | 17.00% | ~1 |
-| C-C-Combo! | 17.00% | ~1 |
-| Cubes Can Fly | 17.00% | ~1 |
-| I Refuse To Be A Hero | 17.00% | ~1 |
+| Lucky Checkpoint | 129.00% | ~9 |
+| I Need Healing! | 129.00% | ~9 |
+| Collectables? Shocking. | 114.00% | ~8 |
+| You'll Be Fine! | 100.00% | ~7 |
+| Dinosaur's Isle | 57.00% | ~4 |
+| Out of the Dorms | 43.00% | ~3 |
+| Never Forget your First | 43.00% | ~3 |
+| Got Our Water Back! | 29.00% | ~2 |
+| You Just Don't Learn | 29.00% | ~2 |
+| Green, Mean and Edgy | 29.00% | ~2 |
+| Show Off | 29.00% | ~2 |
+| Nothing's Impossible | 29.00% | ~2 |
+| Except Maybe This | 29.00% | ~2 |
+| Ready For The Olympics | 29.00% | ~2 |
+| Intense Commute | 14.00% | ~1 |
+| Explored The Labs | 14.00% | ~1 |
+| Bullet Conscious | 14.00% | ~1 |
+| Defence Broken | 14.00% | ~1 |
+| Gunny | 14.00% | ~1 |
+| C-C-Combo! | 14.00% | ~1 |
+| Cubes Can Fly | 14.00% | ~1 |
+| I Refuse To Be A Hero | 14.00% | ~1 |
 | In Too Deep | 0.00% | ~0 |
 | Now What? | 0.00% | ~0 |
 | Got Wet | 0.00% | ~0 |
@@ -45,8 +45,8 @@
 | I Just Like Holding It | 0.00% | ~0 |
 | Oooh, Shiny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 820)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 7 (Ranked 894)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,3 +55,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2023-09-29 | 4 | 0 |
 | 2023-10-03 | 5 | 0 |
 | 2024-03-21 | 6 | 0 |
+| 2024-06-17 | 7 | 0 |

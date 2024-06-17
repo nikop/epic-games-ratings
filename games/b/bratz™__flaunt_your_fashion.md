@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Stilesville | 97.00% | ~239 |
-| Talented Performer | 60.00% | ~148 |
-| Welcome to Barcelona | 58.00% | ~143 |
-| We will need a bigger wardrobe | 48.00% | ~118 |
-| Roller Race | 42.00% | ~103 |
-| Born to Win | 39.00% | ~96 |
-| Welcome to Seoul | 39.00% | ~96 |
-| Stilesville Hidden Style | 34.00% | ~84 |
-| Creating New Trends | 29.00% | ~71 |
-| Best Gala Ever | 28.00% | ~69 |
-| Welcome to the The Stylin' Soiree | 28.00% | ~69 |
-| Scooter Race | 27.00% | ~66 |
-| Barcelona Hidden Style | 21.00% | ~52 |
-| Seoul Hidden Style | 18.00% | ~44 |
-| Hoverboard Race | 9.00% | ~22 |
-| Trendy Selfies | 3.00% | ~7 |
-| Exclusive Photoshoot | 2.00% | ~5 |
-| Xtremely Cool Pictures | 0.80% | ~2 |
-| Talented Photographer | 0.40% | ~1 |
+| Welcome to Stilesville | 98.00% | ~299 |
+| Talented Performer | 58.00% | ~177 |
+| Welcome to Barcelona | 56.00% | ~171 |
+| We will need a bigger wardrobe | 49.00% | ~149 |
+| Roller Race | 41.00% | ~125 |
+| Born to Win | 37.00% | ~113 |
+| Welcome to Seoul | 37.00% | ~113 |
+| Stilesville Hidden Style | 34.00% | ~104 |
+| Creating New Trends | 28.00% | ~85 |
+| Welcome to the The Stylin' Soiree | 28.00% | ~85 |
+| Scooter Race | 28.00% | ~85 |
+| Best Gala Ever | 27.00% | ~82 |
+| Barcelona Hidden Style | 20.00% | ~61 |
+| Seoul Hidden Style | 16.00% | ~49 |
+| Hoverboard Race | 10.00% | ~30 |
+| Trendy Selfies | 3.00% | ~9 |
+| Exclusive Photoshoot | 2.00% | ~6 |
+| Xtremely Cool Pictures | 1.00% | ~3 |
+| Talented Photographer | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 476)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 305 (Ranked 507)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-26 | 175 | 0 |
 | 2024-03-21 | 225 | 0 |
 | 2024-04-10 | 246 | 0 |
+| 2024-06-17 | 305 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

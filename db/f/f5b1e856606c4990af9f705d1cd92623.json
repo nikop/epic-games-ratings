@@ -2,10 +2,10 @@
   "ID": "f5b1e856606c4990af9f705d1cd92623",
   "Name": "Womanizer",
   "ProductSlug": "womanizer-a847b6",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-04-26T00:00:00+00:00",
@@ -24,18 +24,403 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:09:30.9995646+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:09:30.9995658+00:00",
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALONEWALKING",
+      "SetID": "7o6ad0a",
+      "Name": "All By Myself",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ANOTHERBADENDING",
+      "SetID": "7o6ad0a",
+      "Name": "Twice the Misfortune",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ASKFORLAWYER",
+      "SetID": "7o6ad0a",
+      "Name": "Protection",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BADENDING",
+      "SetID": "7o6ad0a",
+      "Name": "Bad Ending",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPETITION",
+      "SetID": "7o6ad0a",
+      "Name": "Exhibition",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FINDCONVICT",
+      "SetID": "7o6ad0a",
+      "Name": "The Killer",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GIRLSSECRETE",
+      "SetID": "7o6ad0a",
+      "Name": "It\u0027s A Secret",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HELPMEPRETEND",
+      "SetID": "7o6ad0a",
+      "Name": "False Pretenses",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HITGURU",
+      "SetID": "7o6ad0a",
+      "Name": "Float Like a Butterfly, Sting Like a Bee",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HOSPITAL",
+      "SetID": "7o6ad0a",
+      "Name": "Hospital",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IGNOREFRIEND",
+      "SetID": "7o6ad0a",
+      "Name": "Ignorance is Bliss",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LIAR",
+      "SetID": "7o6ad0a",
+      "Name": "Liar",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISSMILA",
+      "SetID": "7o6ad0a",
+      "Name": "Mila",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISSNADYA",
+      "SetID": "7o6ad0a",
+      "Name": "Nadia",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISSNASTYA",
+      "SetID": "7o6ad0a",
+      "Name": "Nastya",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISSOLYA",
+      "SetID": "7o6ad0a",
+      "Name": "Olya",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISSSVETA",
+      "SetID": "7o6ad0a",
+      "Name": "Sveta",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISSTANYA",
+      "SetID": "7o6ad0a",
+      "Name": "Tanya",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NADYADEBTREFUSE",
+      "SetID": "7o6ad0a",
+      "Name": "I Refuse!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NADYAHOME",
+      "SetID": "7o6ad0a",
+      "Name": "Nadia\u0027s Home",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NADYAKISS",
+      "SetID": "7o6ad0a",
+      "Name": "Kiss",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NADYALESSON",
+      "SetID": "7o6ad0a",
+      "Name": "Lesson",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NADYALOVE",
+      "SetID": "7o6ad0a",
+      "Name": "Relationship N",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NIKITADRINK",
+      "SetID": "7o6ad0a",
+      "Name": "Party?",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NOACCOMPANY",
+      "SetID": "7o6ad0a",
+      "Name": "Not Coming With You",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NOMEETING",
+      "SetID": "7o6ad0a",
+      "Name": "Meeting? No Way!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OLYALOVE",
+      "SetID": "7o6ad0a",
+      "Name": "Relationship O",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OLYANUMBER",
+      "SetID": "7o6ad0a",
+      "Name": "Phone Number Get!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OLYASTRETCHEDWELL",
+      "SetID": "7o6ad0a",
+      "Name": "Perfect Stretching",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PEEK",
+      "SetID": "7o6ad0a",
+      "Name": "Training\u2026My Eyes",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PHOTO",
+      "SetID": "7o6ad0a",
+      "Name": "Rising Influencer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROMISEMARK",
+      "SetID": "7o6ad0a",
+      "Name": "Promise",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEESUSPECT",
+      "SetID": "7o6ad0a",
+      "Name": "Suspected",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHOCKINGNEWS",
+      "SetID": "7o6ad0a",
+      "Name": "News",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHYGIRL",
+      "SetID": "7o6ad0a",
+      "Name": "Shy Girl",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SVETAAWAY",
+      "SetID": "7o6ad0a",
+      "Name": "Pressure",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SVETAINTHEBAR",
+      "SetID": "7o6ad0a",
+      "Name": "Drinks at the Bar",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SVETAINVITED",
+      "SetID": "7o6ad0a",
+      "Name": "Be Our Guest",
+      "Percentage": 0,
+      "XP": 110,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SVETAWIN",
+      "SetID": "7o6ad0a",
+      "Name": "The Correct Choice",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TANYAALONE",
+      "SetID": "7o6ad0a",
+      "Name": "Failure",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TANYACHOSEGURU",
+      "SetID": "7o6ad0a",
+      "Name": "Guru",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TANYAHOME",
+      "SetID": "7o6ad0a",
+      "Name": "Tanya\u0027s Home",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TANYALOVE",
+      "SetID": "7o6ad0a",
+      "Name": "Tanya\u0027s Love",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TANYAREALFAIL",
+      "SetID": "7o6ad0a",
+      "Name": "Failure",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRAINING",
+      "SetID": "7o6ad0a",
+      "Name": "Workout",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WINNER",
+      "SetID": "7o6ad0a",
+      "Name": "Winner Winner Chicken Dinner",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "7o6ad0a",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-05-11T15:59:56.4332345+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:09:30.9995658+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:09:30.9995644+00:00",
   "LastUpdate_AppInfo": "2024-06-14T18:56:58.5879404+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:26.5759162+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:21.0900673+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:37.7092618+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:31.0002036+00:00"
 }

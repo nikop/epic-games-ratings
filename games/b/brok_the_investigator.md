@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 76.00% | ~45 |
-| Chapter 1 | 46.00% | ~27 |
-| Chapter 2 | 42.00% | ~25 |
-| Chapter 3 | 36.00% | ~21 |
-| Your Days Are Numbered | 36.00% | ~21 |
-| It's In My Nature | 36.00% | ~21 |
-| Chapter 4 | 34.00% | ~20 |
-| All Materials | 34.00% | ~20 |
-| Chapter 5 | 32.00% | ~19 |
-| Chapter 6 | 25.00% | ~15 |
-| Best Student | 17.00% | ~10 |
-| Food Thief | 12.00% | ~7 |
-| Ads Fan | 10.00% | ~6 |
-| Highway Survival | 10.00% | ~6 |
-| Sugar Pills Lover | 10.00% | ~6 |
-| Tramp Saver | 10.00% | ~6 |
-| Hard To Wake Up | 10.00% | ~6 |
+| Introduction completed | 75.00% | ~48 |
+| Chapter 1 | 44.00% | ~28 |
+| Chapter 2 | 41.00% | ~26 |
+| Chapter 3 | 34.00% | ~22 |
+| Your Days Are Numbered | 34.00% | ~22 |
+| It's In My Nature | 34.00% | ~22 |
+| Chapter 4 | 31.00% | ~20 |
+| All Materials | 31.00% | ~20 |
+| Chapter 5 | 30.00% | ~19 |
+| Chapter 6 | 23.00% | ~15 |
+| Best Student | 16.00% | ~10 |
+| Food Thief | 11.00% | ~7 |
+| Ads Fan | 9.00% | ~6 |
+| Highway Survival | 9.00% | ~6 |
+| Sugar Pills Lover | 9.00% | ~6 |
+| Tramp Saver | 9.00% | ~6 |
+| Hard To Wake Up | 9.00% | ~6 |
 | Chipmunk | 8.00% | ~5 |
 | Secret Locker | 8.00% | ~5 |
 | Paw Music | 8.00% | ~5 |
-| Bear Cop | 7.00% | ~4 |
+| Bear Cop | 6.00% | ~4 |
 | Main Endings | 3.00% | ~2 |
 | Master of Mattresses | 2.00% | ~1 |
 | Pushy, pushy | 2.00% | ~1 |
@@ -34,8 +34,8 @@
 | Pacifist | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 632)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 64 (Ranked 686)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-22 | 49 | 0 |
 | 2024-03-21 | 55 | 0 |
 | 2024-04-10 | 59 | 0 |
+| 2024-06-17 | 64 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

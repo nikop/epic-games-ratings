@@ -2,10 +2,10 @@
   "ID": "684f406af86a4a7eb01a8b263e7280e2",
   "Name": "Galactic Empire",
   "ProductSlug": "galactic-empire-f23125",
-  "Ranking_EOS_Progress": 843,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 887,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-17T00:00:00+00:00",
     "PcReleaseDate": "2023-03-09T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -48,6 +48,11 @@
     {
       "Time": "2024-02-22T21:03:46.128109+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:12:22.5082584+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -596,14 +601,14 @@
     {
       "ID": "4m616mc",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-18T08:57:49.6456335+00:00",
   "FirstSeenAchievements": "2023-10-29T19:02:56.789919+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:49.996007+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:22.508258+00:00",
   "LastUpdate_AppInfo": "2024-06-17T13:57:09.7428976+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:21.9205801+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:49.9960521+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:01:17.8560321+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:22.5083015+00:00"
 }

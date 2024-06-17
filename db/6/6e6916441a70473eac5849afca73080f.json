@@ -2,10 +2,10 @@
   "ID": "6e6916441a70473eac5849afca73080f",
   "Name": "War of Tanks",
   "ProductSlug": "war-of-tanks-e916f2",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-13T12:21:10.849+00:00",
     "PcReleaseDate": "2023-04-19T19:00:00+00:00",
@@ -36,5 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-13T20:57:21.6038626+00:00",
   "LastUpdate_AppInfo": "2024-06-13T13:02:44.6873069+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:57.75497+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:59.1146417+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:09.0055715+00:00"
 }

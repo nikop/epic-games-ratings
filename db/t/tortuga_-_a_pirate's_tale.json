@@ -5,10 +5,10 @@
   "Ranking_Rating": 1189,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 433,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 200,
+  "Ranking_EOS_Completed": 486,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -353,8 +353,8 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17734,
-  "EOS_Completed": 1,
+  "EOS_Progressed": 17794,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
@@ -8683,6 +8683,11 @@
       "Time": "2024-04-10T06:04:27.2390523+00:00",
       "NumProgressed": 17734,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:13:29.5930528+00:00",
+      "NumProgressed": 17794,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 26,
@@ -8694,7 +8699,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16847
+      "UsersEstimate": 16904
     },
     {
       "ID": "ACH001",
@@ -8702,7 +8707,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 15251
+      "UsersEstimate": 15303
     },
     {
       "ID": "ACH0010",
@@ -8710,7 +8715,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1957
     },
     {
       "ID": "ACH0011",
@@ -8718,7 +8723,7 @@
       "Name": "After All, Why Shouldn\u0027t I Keep It?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 532
+      "UsersEstimate": 534
     },
     {
       "ID": "ACH0012",
@@ -8726,7 +8731,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8867
+      "UsersEstimate": 8897
     },
     {
       "ID": "ACH0013",
@@ -8734,7 +8739,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4093
     },
     {
       "ID": "ACH0014",
@@ -8742,7 +8747,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1779
     },
     {
       "ID": "ACH0015",
@@ -8766,7 +8771,7 @@
       "Name": "Fishing for Compliments",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 887
+      "UsersEstimate": 890
     },
     {
       "ID": "ACH0018",
@@ -8774,7 +8779,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4093
     },
     {
       "ID": "ACH0019",
@@ -8790,7 +8795,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12768
+      "UsersEstimate": 12812
     },
     {
       "ID": "ACH0020",
@@ -8798,7 +8803,7 @@
       "Name": "A New Legend Awaits",
       "Percentage": 1,
       "XP": 110,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH0021",
@@ -8806,7 +8811,7 @@
       "Name": "A True Dandy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH0022",
@@ -8814,7 +8819,7 @@
       "Name": "House Party!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6384
+      "UsersEstimate": 6406
     },
     {
       "ID": "ACH0023",
@@ -8822,7 +8827,7 @@
       "Name": "I\u0027m Somewhat of a Colonial Force Myself",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1424
     },
     {
       "ID": "ACH0024",
@@ -8838,7 +8843,7 @@
       "Name": "Morally Flexible",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1068
     },
     {
       "ID": "ACH003",
@@ -8846,7 +8851,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9576
+      "UsersEstimate": 9609
     },
     {
       "ID": "ACH004",
@@ -8854,7 +8859,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 15429
+      "UsersEstimate": 15481
     },
     {
       "ID": "ACH005",
@@ -8862,7 +8867,7 @@
       "Name": "Head First",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3025
     },
     {
       "ID": "ACH006",
@@ -8870,7 +8875,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 7271
+      "UsersEstimate": 7296
     },
     {
       "ID": "ACH007",
@@ -8878,7 +8883,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2135
     },
     {
       "ID": "ACH008",
@@ -8894,23 +8899,23 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 0.2,
       "XP": 110,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17734,
-      "Completed": 1
+      "Progressed": 17794,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-01-19T15:57:46.7735502+00:00",
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-06-09T23:58:16.60253+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:27.2390517+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:13:29.5930524+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:25.1256325+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:11.7344063+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:27.2391048+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:16.7171422+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:13:29.5931016+00:00"
 }

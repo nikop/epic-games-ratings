@@ -5,10 +5,10 @@
   "Ranking_Rating": 925,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 188,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-14T16:00:00+00:00",
     "PcReleaseDate": "2021-03-11T07:00:00+00:00",
@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16249,
+  "EOS_Progressed": 16250,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1011,6 +1011,11 @@
       "Time": "2024-03-21T17:12:26.6062383+00:00",
       "NumProgressed": 16249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:17:28.4995264+00:00",
+      "NumProgressed": 16250,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-12T12:03:32.4502016+00:00",
@@ -1023,7 +1028,7 @@
       "Name": "Unfortunate Plumber",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2438
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1047,7 +1052,7 @@
       "Name": "Don\u0027t play with fire, kids",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -1095,7 +1100,7 @@
       "Name": "Fire safety",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 9099
+      "UsersEstimate": 9100
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -1135,7 +1140,7 @@
       "Name": "Merchant",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -1175,7 +1180,7 @@
       "Name": "Groovy!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1199,7 +1204,7 @@
       "Name": "1.000.000 Scovilles",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 3087
+      "UsersEstimate": 3088
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1223,7 +1228,7 @@
       "Name": "Gentle hugs",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -1231,7 +1236,7 @@
       "Name": "First steps",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 4387
+      "UsersEstimate": 4388
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_11",
@@ -1287,7 +1292,7 @@
       "Name": "Don\u0027t Come Near Me",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -1335,7 +1340,7 @@
       "Name": "Mmm, tasty",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_26",
@@ -1367,7 +1372,7 @@
       "Name": "A Good Read",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_31",
@@ -1431,7 +1436,7 @@
       "Name": "Good Murder",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_1",
@@ -1503,7 +1508,7 @@
       "Name": "Pacifist Run",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_4",
@@ -1558,7 +1563,7 @@
     {
       "ID": "h261mm",
       "IsBase": true,
-      "Progressed": 16249,
+      "Progressed": 16250,
       "Completed": 0
     }
   ],
@@ -1566,8 +1571,8 @@
   "FirstSeenRating": "2023-11-17T10:00:31.8324772+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
   "LastChanged": "2024-06-10T07:57:55.932961+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:51.4289699+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:28.4995261+00:00",
   "LastUpdate_AppInfo": "2024-06-14T13:02:52.962263+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:16.2906274+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:51.429016+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:38.1708063+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:28.4995788+00:00"
 }

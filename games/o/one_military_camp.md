@@ -4,53 +4,53 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 55.00% | ~194 |
-| The 4 Pillars | 51.00% | ~180 |
-| Capitalism | 23.00% | ~81 |
-| Green Energy | 17.00% | ~60 |
-| There's something in those trees | 14.00% | ~49 |
-| Desert Power | 13.00% | ~46 |
-| Great Producer | 13.00% | ~46 |
-| Health Care | 12.00% | ~42 |
-| Healing | 10.00% | ~35 |
-| Indebted | 10.00% | ~35 |
-| Perfect Soldier | 9.00% | ~32 |
-| Ammo Tycoon | 9.00% | ~32 |
-| Desert Rat | 9.00% | ~32 |
-| Pathfinder | 8.00% | ~28 |
-| Food Tycoon | 8.00% | ~28 |
-| Fuel Tycoon | 8.00% | ~28 |
-| Overpopulation | 7.00% | ~25 |
-| Good payer | 7.00% | ~25 |
-| Jantine: the Misfortunes of Evil | 6.00% | ~21 |
-| Self-sufficient | 6.00% | ~21 |
-| Tear Down the Wall! | 5.00% | ~18 |
-| Supersoldier | 5.00% | ~18 |
-| Vive le Résistance | 5.00% | ~18 |
-| Property Bro | 5.00% | ~18 |
-| Medicine Tycoon | 5.00% | ~18 |
-| Outdoor Decorator | 4.00% | ~14 |
-| No News is Good News | 4.00% | ~14 |
-| Human Resources | 4.00% | ~14 |
-| Training Camp | 4.00% | ~14 |
-| Winter Soldier | 3.00% | ~11 |
-| Snowman | 2.00% | ~7 |
-| Reconquest | 2.00% | ~7 |
+| First Step | 55.00% | ~211 |
+| The 4 Pillars | 52.00% | ~200 |
+| Capitalism | 23.00% | ~88 |
+| Green Energy | 17.00% | ~65 |
+| There's something in those trees | 15.00% | ~58 |
+| Health Care | 14.00% | ~54 |
+| Desert Power | 14.00% | ~54 |
+| Great Producer | 13.00% | ~50 |
+| Perfect Soldier | 10.00% | ~38 |
+| Healing | 10.00% | ~38 |
+| Indebted | 10.00% | ~38 |
+| Overpopulation | 9.00% | ~35 |
+| Ammo Tycoon | 9.00% | ~35 |
+| Pathfinder | 8.00% | ~31 |
+| Food Tycoon | 8.00% | ~31 |
+| Fuel Tycoon | 8.00% | ~31 |
+| Desert Rat | 8.00% | ~31 |
+| Jantine: the Misfortunes of Evil | 7.00% | ~27 |
+| Good payer | 7.00% | ~27 |
+| Supersoldier | 6.00% | ~23 |
+| Property Bro | 6.00% | ~23 |
+| Self-sufficient | 6.00% | ~23 |
+| Tear Down the Wall! | 5.00% | ~19 |
+| Vive le Résistance | 5.00% | ~19 |
+| Training Camp | 5.00% | ~19 |
+| Medicine Tycoon | 5.00% | ~19 |
+| Outdoor Decorator | 4.00% | ~15 |
+| No News is Good News | 4.00% | ~15 |
+| Human Resources | 4.00% | ~15 |
+| Winter Soldier | 3.00% | ~12 |
+| Counter-espionage | 2.00% | ~8 |
+| Snowman | 2.00% | ~8 |
+| Reconquest | 2.00% | ~8 |
+| Researcher | 2.00% | ~8 |
 | Economist | 1.00% | ~4 |
-| Counter-espionage | 1.00% | ~4 |
 | Crisis Committee | 1.00% | ~4 |
 | Against Adversity | 1.00% | ~4 |
-| Researcher | 1.00% | ~4 |
-| Conveyor Belt Madness | 0.90% | ~3 |
-| Self-management | 0.60% | ~2 |
-| People's Hero | 0.30% | ~1 |
+| Self-management | 0.80% | ~3 |
+| Conveyor Belt Madness | 0.80% | ~3 |
+| People's Hero | 0.50% | ~2 |
+| War Veteran | 0.30% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
-| War Veteran | 0.00% | ~0 |
 | First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352 (Ranked 443)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 384 (Ranked 483)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,3 +165,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-03-21 | 341 | 0 |
 | 2024-04-05 | 350 | 0 |
 | 2024-05-13 | 352 | 0 |
+| 2024-06-17 | 384 | 0 |

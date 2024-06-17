@@ -2,10 +2,10 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 489,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 530,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 237,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -734,6 +734,11 @@
       "Time": "2024-04-10T06:05:05.8581349+00:00",
       "NumProgressed": 210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:14:42.9347753+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -746,13 +751,13 @@
       "Name": "Altruist",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_appearance_of_god_gleda",
       "SetID": "bngbnfb",
       "Name": "Theophany (Gleda)",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -760,7 +765,7 @@
       "ID": "achievement_appearance_of_god_philia",
       "SetID": "bngbnfb",
       "Name": "Theophany (Philia)",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -768,7 +773,7 @@
       "ID": "achievement_appearance_of_god_rit",
       "SetID": "bngbnfb",
       "Name": "Theophany (Reet)",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -792,7 +797,7 @@
       "ID": "achievement_bench_for_spare",
       "SetID": "bngbnfb",
       "Name": "Sidelined",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -802,13 +807,13 @@
       "Name": "Berserker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_blance_is_my_choise",
       "SetID": "bngbnfb",
       "Name": "My name is Blance",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -826,7 +831,7 @@
       "Name": "Death to the javelin thrower",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_drunk_lucky",
@@ -834,7 +839,7 @@
       "Name": "The luck of drunkards",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_egoist",
@@ -842,7 +847,7 @@
       "Name": "Egomaniac",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_feng_is_my_choise",
@@ -850,13 +855,13 @@
       "Name": "My name is Pheng",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_fidelity_to_the_clan",
       "SetID": "bngbnfb",
       "Name": "True to the clan",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -864,7 +869,7 @@
       "ID": "achievement_fidelity_to_the_word",
       "SetID": "bngbnfb",
       "Name": "Oath-keeper",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -874,7 +879,7 @@
       "Name": "The luck of wiseguys",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_fortune",
@@ -888,7 +893,7 @@
       "ID": "achievement_genius_of_tactics",
       "SetID": "bngbnfb",
       "Name": "Tactical genius",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 140,
       "UsersEstimate": 2
     },
@@ -912,7 +917,7 @@
       "ID": "achievement_hardcore_ursus",
       "SetID": "bngbnfb",
       "Name": "Tin man",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -928,7 +933,7 @@
       "ID": "achievement_hero",
       "SetID": "bngbnfb",
       "Name": "Hero",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -936,7 +941,7 @@
       "ID": "achievement_kill_the_death",
       "SetID": "bngbnfb",
       "Name": "Defeater of death",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -944,7 +949,7 @@
       "ID": "achievement_kriger_alive",
       "SetID": "bngbnfb",
       "Name": "A friend in need",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -952,15 +957,15 @@
       "ID": "achievement_last_word",
       "SetID": "bngbnfb",
       "Name": "The last word",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_madman",
       "SetID": "bngbnfb",
       "Name": "Madman",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -970,7 +975,7 @@
       "Name": "Makt makes it",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_marauder",
@@ -984,7 +989,7 @@
       "ID": "achievement_meet_vay",
       "SetID": "bngbnfb",
       "Name": "The monk",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -1010,7 +1015,7 @@
       "Name": "Not energetic",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_not_risky",
@@ -1018,7 +1023,7 @@
       "Name": "Not a daredevil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 113
+      "UsersEstimate": 128
     },
     {
       "ID": "achievement_rush",
@@ -1026,7 +1031,7 @@
       "Name": "In a rush",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_save_the_king",
@@ -1034,7 +1039,7 @@
       "Name": "Save the King",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_save_the_prince",
@@ -1042,7 +1047,7 @@
       "Name": "Save the Prince",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_silly_death",
@@ -1058,13 +1063,13 @@
       "Name": "The Baptism of the Triune",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_the_most_difficult_decision",
       "SetID": "bngbnfb",
       "Name": "The hardest choice",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1074,7 +1079,7 @@
       "Name": "Thorn\u0027s alive!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_thorn_is_my_choise",
@@ -1082,7 +1087,7 @@
       "Name": "My name is Thorn",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_thrifty",
@@ -1090,7 +1095,7 @@
       "Name": "Parsimonious",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_torn_strands",
@@ -1106,7 +1111,7 @@
       "Name": "Two hands are better than one",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_we_are_saved_gleda",
@@ -1114,13 +1119,13 @@
       "Name": "We\u0027re saved (Gleda)",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_we_are_saved_philia",
       "SetID": "bngbnfb",
       "Name": "We\u0027re saved (Philia)",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -1128,7 +1133,7 @@
       "ID": "achievement_we_are_saved_rit",
       "SetID": "bngbnfb",
       "Name": "We\u0027re saved (Reet)",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1136,7 +1141,7 @@
       "ID": "achievement_wrong_choice",
       "SetID": "bngbnfb",
       "Name": "Wrong choice",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -1145,14 +1150,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:05.8581344+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:14:42.9347749+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:42.5647121+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:09.1223188+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:05.8581656+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:47.7149083+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:42.9348066+00:00"
 }

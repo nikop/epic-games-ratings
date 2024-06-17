@@ -1,58 +1,58 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 563)  
+Rating: 4.55 (Ranked 564)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~44,145 |
-| First Steps | 80.00% | ~37,974 |
-| Control the Shadows | 68.00% | ~32,278 |
-| Tools of the Trade | 63.00% | ~29,905 |
-| Apprentice | 60.00% | ~28,481 |
-| Secret Seeker | 57.00% | ~27,057 |
-| Forge of Assassins | 56.00% | ~26,582 |
-| Revenant | 52.00% | ~24,683 |
-| I don’t Care! | 46.00% | ~21,835 |
-| Bird of Prey | 38.00% | ~18,038 |
-| Engraved with Power | 33.00% | ~15,664 |
-| Lady | 31.00% | ~14,715 |
-| Fashionable Assassin | 27.00% | ~12,816 |
-| Apex Predator | 24.00% | ~11,392 |
-| Soul Reaver | 23.00% | ~10,918 |
-| Embers | 22.00% | ~10,443 |
-| Wall Lizard | 20.00% | ~9,494 |
-| Clinging to Life | 18.00% | ~8,544 |
-| Burning | 17.00% | ~8,070 |
-| Look Behind You | 17.00% | ~8,070 |
-| Sleeping on the Job | 16.00% | ~7,595 |
-| Family | 14.00% | ~6,646 |
-| War Engines | 14.00% | ~6,646 |
-| Signature Move | 14.00% | ~6,646 |
-| Ruse | 12.00% | ~5,696 |
-| Master Ninja | 11.00% | ~5,221 |
-| Hatching | 10.00% | ~4,747 |
-| Bonds | 9.00% | ~4,272 |
-| Get Over Here | 9.00% | ~4,272 |
-| The Hidden Village | 9.00% | ~4,272 |
-| Denouement | 8.00% | ~3,797 |
-| A Pleasant Stay | 8.00% | ~3,797 |
-| Pilgrimage | 7.00% | ~3,323 |
-| The Lookout | 5.00% | ~2,373 |
-| The Spirit of Vengeance | 5.00% | ~2,373 |
-| Hollow | 5.00% | ~2,373 |
-| Left Behind | 4.00% | ~1,899 |
-| Secrets of the Earth | 4.00% | ~1,899 |
-| Heart of Fire | 4.00% | ~1,899 |
-| The Lion’s Den | 3.00% | ~1,424 |
-| Forest Spirits | 3.00% | ~1,424 |
-| Hot Potato | 2.00% | ~949 |
-| Anger Management | 2.00% | ~949 |
-| Legacy | 2.00% | ~949 |
+| Awakening | 93.00% | ~45,391 |
+| First Steps | 80.00% | ~39,046 |
+| Control the Shadows | 68.00% | ~33,189 |
+| Tools of the Trade | 63.00% | ~30,749 |
+| Apprentice | 60.00% | ~29,285 |
+| Secret Seeker | 57.00% | ~27,821 |
+| Forge of Assassins | 56.00% | ~27,332 |
+| Revenant | 52.00% | ~25,380 |
+| I don’t Care! | 47.00% | ~22,940 |
+| Bird of Prey | 38.00% | ~18,547 |
+| Engraved with Power | 33.00% | ~16,107 |
+| Lady | 31.00% | ~15,130 |
+| Fashionable Assassin | 27.00% | ~13,178 |
+| Apex Predator | 25.00% | ~12,202 |
+| Soul Reaver | 23.00% | ~11,226 |
+| Embers | 22.00% | ~10,738 |
+| Wall Lizard | 21.00% | ~10,250 |
+| Clinging to Life | 19.00% | ~9,274 |
+| Burning | 17.00% | ~8,297 |
+| Look Behind You | 17.00% | ~8,297 |
+| Sleeping on the Job | 17.00% | ~8,297 |
+| Family | 14.00% | ~6,833 |
+| War Engines | 14.00% | ~6,833 |
+| Signature Move | 14.00% | ~6,833 |
+| Ruse | 12.00% | ~5,857 |
+| Master Ninja | 11.00% | ~5,369 |
+| Hatching | 10.00% | ~4,881 |
+| Bonds | 9.00% | ~4,393 |
+| Denouement | 9.00% | ~4,393 |
+| Get Over Here | 9.00% | ~4,393 |
+| The Hidden Village | 9.00% | ~4,393 |
+| A Pleasant Stay | 9.00% | ~4,393 |
+| Pilgrimage | 7.00% | ~3,417 |
+| The Lookout | 5.00% | ~2,440 |
+| The Spirit of Vengeance | 5.00% | ~2,440 |
+| Hollow | 5.00% | ~2,440 |
+| Left Behind | 4.00% | ~1,952 |
+| Secrets of the Earth | 4.00% | ~1,952 |
+| Heart of Fire | 4.00% | ~1,952 |
+| The Lion’s Den | 3.00% | ~1,464 |
+| Forest Spirits | 3.00% | ~1,464 |
+| Hot Potato | 2.00% | ~976 |
+| Anger Management | 2.00% | ~976 |
+| Legacy | 2.00% | ~976 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,468 (Ranked 149)  
-Completed: 278 (0.59%) (Ranked 247)  
+Progressed: 48,808 (Ranked 162)  
+Completed: 295 (0.60%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,6 +336,7 @@ Completed: 278 (0.59%) (Ranked 247)
 | 2024-01-27 | 45,570 | 252 |
 | 2024-03-21 | 46,796 | 271 |
 | 2024-04-10 | 47,468 | 278 |
+| 2024-06-17 | 48,808 | 295 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

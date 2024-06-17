@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 79.00% | ~50 |
-| Sea Legs | 65.00% | ~41 |
-| What?! | 43.00% | ~27 |
-| Frogs Legs | 21.00% | ~13 |
-| Hoist the Sails | 19.00% | ~12 |
-| Mad Scientist | 17.00% | ~11 |
-| Socialite | 16.00% | ~10 |
-| Secure the Sheets | 14.00% | ~9 |
-| Who Even Needs Keys | 10.00% | ~6 |
-| Couch-surfing | 10.00% | ~6 |
-| Hands on the Helm | 10.00% | ~6 |
-| Replace the Rudder | 10.00% | ~6 |
-| Shrub-Seeing: Townlife | 8.00% | ~5 |
-| Shrub-Seeing: Silly Birbs | 8.00% | ~5 |
-| Sailor Swift | 8.00% | ~5 |
-| No Evil | 8.00% | ~5 |
-| Bank of Me | 8.00% | ~5 |
-| Shrub-Seeing: Ruins of old | 6.00% | ~4 |
-| Safe Investment | 6.00% | ~4 |
-| Fantastic Fungi | 6.00% | ~4 |
-| The Journey Continues | 6.00% | ~4 |
-| Shrub-Seeing: Lights in the sky | 5.00% | ~3 |
-| Shrub-Seeing: Ancient Extractor | 5.00% | ~3 |
-| Shrub-Seeing: Seen it all! | 5.00% | ~3 |
-| Yeet! | 5.00% | ~3 |
-| Caught Ya! | 5.00% | ~3 |
-| Honey, I'm Home | 5.00% | ~3 |
-| Home Sweet Home | 5.00% | ~3 |
-| One with the frogs | 3.00% | ~2 |
-| Return to sender | 3.00% | ~2 |
-| Vandal | 3.00% | ~2 |
-| Falling with Style | 3.00% | ~2 |
-| Froggy Friendship | 3.00% | ~2 |
-| Crunch Time | 2.00% | ~1 |
-| Just Here for the Food | 2.00% | ~1 |
+| Shipwrecked! | 84.00% | ~81 |
+| Sea Legs | 65.00% | ~63 |
+| What?! | 46.00% | ~45 |
+| Frogs Legs | 20.00% | ~19 |
+| Hoist the Sails | 20.00% | ~19 |
+| Socialite | 16.00% | ~16 |
+| Mad Scientist | 14.00% | ~14 |
+| Secure the Sheets | 13.00% | ~13 |
+| Hands on the Helm | 9.00% | ~9 |
+| Shrub-Seeing: Silly Birbs | 8.00% | ~8 |
+| Couch-surfing | 8.00% | ~8 |
+| Shrub-Seeing: Townlife | 7.00% | ~7 |
+| Replace the Rudder | 7.00% | ~7 |
+| Who Even Needs Keys | 6.00% | ~6 |
+| Shrub-Seeing: Ruins of old | 6.00% | ~6 |
+| Sailor Swift | 6.00% | ~6 |
+| Bank of Me | 6.00% | ~6 |
+| No Evil | 5.00% | ~5 |
+| Caught Ya! | 5.00% | ~5 |
+| Home Sweet Home | 5.00% | ~5 |
+| The Journey Continues | 5.00% | ~5 |
+| Shrub-Seeing: Lights in the sky | 4.00% | ~4 |
+| Yeet! | 4.00% | ~4 |
+| Safe Investment | 4.00% | ~4 |
+| Honey, I'm Home | 4.00% | ~4 |
+| Fantastic Fungi | 4.00% | ~4 |
+| Froggy Friendship | 4.00% | ~4 |
+| Shrub-Seeing: Ancient Extractor | 3.00% | ~3 |
+| Shrub-Seeing: Seen it all! | 3.00% | ~3 |
+| One with the frogs | 2.00% | ~2 |
+| Return to sender | 2.00% | ~2 |
+| Vandal | 2.00% | ~2 |
+| Falling with Style | 2.00% | ~2 |
+| Crunch Time | 1.00% | ~1 |
+| Just Here for the Food | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 624)  
-Completed: 1 (1.59%) (Ranked 169)  
+Progressed: 97 (Ranked 634)  
+Completed: 1 (1.03%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,6 +87,7 @@ Completed: 1 (1.59%) (Ranked 169)
 | 2024-01-21 | 51 | 1 |
 | 2024-03-21 | 61 | 1 |
 | 2024-04-10 | 63 | 1 |
+| 2024-06-17 | 97 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

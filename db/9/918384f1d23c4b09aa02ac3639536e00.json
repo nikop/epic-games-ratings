@@ -2,10 +2,10 @@
   "ID": "918384f1d23c4b09aa02ac3639536e00",
   "Name": "Rebirth of Arcadia",
   "ProductSlug": "rebirth-of-arcadia-d2cb8f",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-14T18:57:00.643448+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:02.8326288+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:41.1507925+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:35.6720986+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:40.8378473+00:00"
 }

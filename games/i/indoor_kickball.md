@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hat Unlocked | 81.00% | ~87 |
-| Accessory Unlocked | 78.00% | ~84 |
-| Butter Fingers | 76.00% | ~82 |
-| Homer | 72.00% | ~78 |
-| Character Unlocked | 71.00% | ~77 |
-| Have a good trip! | 71.00% | ~77 |
-| Kickball Unlocked | 67.00% | ~72 |
-| Settle Down | 67.00% | ~72 |
-| Stay Hydrated | 64.00% | ~69 |
-| First Win | 62.00% | ~67 |
-| True Story! | 45.00% | ~49 |
-| Bedroom Secret Spot | 41.00% | ~44 |
-| At least everyone still had fun | 37.00% | ~40 |
-| Kick It | 33.00% | ~36 |
-| Classroom Secret Spot | 30.00% | ~32 |
-| Spooky | 28.00% | ~30 |
-| Grand Slam! | 27.00% | ~29 |
-| Living Room Secret Spot | 25.00% | ~27 |
-| Save some water for the fishies | 24.00% | ~26 |
-| Bathroom Secret Spot | 23.00% | ~25 |
-| Angry Dad | 23.00% | ~25 |
-| Hi Hungry, I'm Dad | 22.00% | ~24 |
-| Angry Mom | 22.00% | ~24 |
-| Have Mercy | 20.00% | ~22 |
-| Just how we drew it up | 14.00% | ~15 |
+| Hat Unlocked | 83.00% | ~96 |
+| Accessory Unlocked | 79.00% | ~92 |
+| Butter Fingers | 79.00% | ~92 |
+| Homer | 74.00% | ~86 |
+| Character Unlocked | 73.00% | ~85 |
+| Have a good trip! | 72.00% | ~84 |
+| Kickball Unlocked | 69.00% | ~80 |
+| Settle Down | 68.00% | ~79 |
+| Stay Hydrated | 66.00% | ~77 |
+| First Win | 64.00% | ~74 |
+| True Story! | 47.00% | ~55 |
+| Bedroom Secret Spot | 42.00% | ~49 |
+| At least everyone still had fun | 41.00% | ~48 |
+| Kick It | 34.00% | ~39 |
+| Classroom Secret Spot | 33.00% | ~38 |
+| Grand Slam! | 27.00% | ~31 |
+| Living Room Secret Spot | 27.00% | ~31 |
+| Spooky | 27.00% | ~31 |
+| Bathroom Secret Spot | 26.00% | ~30 |
+| Save some water for the fishies | 25.00% | ~29 |
+| Angry Dad | 25.00% | ~29 |
+| Hi Hungry, I'm Dad | 23.00% | ~27 |
+| Angry Mom | 22.00% | ~26 |
+| Have Mercy | 21.00% | ~24 |
+| Just how we drew it up | 16.00% | ~19 |
 | Kitchen Secret Spot | 9.00% | ~10 |
+| You broke it, you bought it | 9.00% | ~10 |
 | Interference | 8.00% | ~9 |
-| You broke it, you bought it | 7.00% | ~8 |
-| Found the Secret Formula! | 5.00% | ~5 |
-| Attic Secret Spot | 4.00% | ~4 |
+| Found the Secret Formula! | 6.00% | ~7 |
+| Attic Secret Spot | 4.00% | ~5 |
 | Basement Secret Spot | 3.00% | ~3 |
 | Garage Secret Spot | 3.00% | ~3 |
 | Gamer Room Secret Spot | 0.90% | ~1 |
@@ -45,8 +45,8 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 564)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 116 (Ranked 614)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,3 +107,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-08 | 104 | 0 |
 | 2024-01-19 | 107 | 0 |
 | 2024-03-21 | 108 | 0 |
+| 2024-06-17 | 116 | 0 |

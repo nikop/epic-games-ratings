@@ -6,36 +6,41 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 3.00% | ~9,436 |
-| I Found it! | 1.00% | ~3,145 |
-| Ready Steady Score | 0.50% | ~1,573 |
-| First but not Last | 0.40% | ~1,258 |
-| Full Loot Madness | 0.30% | ~944 |
-| Contender | 0.20% | ~629 |
-| My Table, my Rules | 0.10% | ~315 |
-| Collect Them All | 0.10% | ~315 |
-| Shiny Memento | 0.10% | ~315 |
-| Table Mastered, part 10 | 0.10% | ~315 |
-| Medal Hunter | 0.10% | ~315 |
-| Medal Wizard | 0.10% | ~315 |
-| Pinball Hoarder | 0.10% | ~315 |
-| Virtual Pinball Museum | 0.10% | ~315 |
-| Nine Zeroes | 0.10% | ~315 |
-| Challenge Accepted! | 0.10% | ~315 |
-| Relic Hunter | 0.10% | ~315 |
-| Interior Designer | 0.10% | ~315 |
-| Show Them | 0.10% | ~315 |
-| Totally Furnished | 0.10% | ~315 |
-| Dress Code | 0.10% | ~315 |
-| Customizer | 0.10% | ~315 |
-| I know the Rules | 0.10% | ~315 |
-| Catomic Bomb | 0.10% | ~33 |
-| The Captain | 0.10% | ~33 |
-| Battle of Cardassia | 0.10% | ~33 |
-| Did It for the Dowry | 0.10% | ~33 |
-| Glorious victory | 0.10% | ~33 |
-| The most beautiful Christmas | 0.10% | ~33 |
-| End of Gloom | 0.10% | ~33 |
+| Ball Launched | 0.50% | ~1,622 |
+| I Found it! | 0.20% | ~649 |
+| Leveling Up | 0.20% | ~85 |
+| Contender | 0.10% | ~324 |
+| My Table, my Rules | 0.10% | ~324 |
+| Collect Them All | 0.10% | ~324 |
+| Shiny Memento | 0.10% | ~324 |
+| First but not Last | 0.10% | ~324 |
+| Table Mastered, part 10 | 0.10% | ~324 |
+| Medal Hunter | 0.10% | ~324 |
+| Medal Wizard | 0.10% | ~324 |
+| Ready Steady Score | 0.10% | ~324 |
+| Pinball Hoarder | 0.10% | ~324 |
+| Virtual Pinball Museum | 0.10% | ~324 |
+| Nine Zeroes | 0.10% | ~324 |
+| Challenge Accepted! | 0.10% | ~324 |
+| Full Loot Madness | 0.10% | ~324 |
+| Relic Hunter | 0.10% | ~324 |
+| Interior Designer | 0.10% | ~324 |
+| Show Them | 0.10% | ~324 |
+| Totally Furnished | 0.10% | ~324 |
+| Dress Code | 0.10% | ~324 |
+| Customizer | 0.10% | ~324 |
+| I know the Rules | 0.10% | ~324 |
+| Catomic Bomb | 0.10% | ~42 |
+| The Captain | 0.10% | ~42 |
+| Battle of Cardassia | 0.10% | ~42 |
+| Did It for the Dowry | 0.10% | ~42 |
+| End of Gloom | 0.10% | ~42 |
+| Knight Rider | 0.10% | ~42 |
+| True Neural | 0.10% | ~42 |
+| Golden Boot Trophy | 0.10% | ~42 |
+| Getting The Hang Of It | 0.10% | ~42 |
+| Halfway There | 0.10% | ~42 |
+| A Few More Steps | 0.10% | ~42 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -45,10 +50,15 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Terraformer | 0.00% | ~0 |
 | To boldly go… | 0.00% | ~0 |
+| Glorious victory | 0.00% | ~0 |
+| The most beautiful Christmas | 0.00% | ~0 |
 | Evil AI unplugged | 0.00% | ~0 |
+| Balanced Chakram | 0.00% | ~0 |
+| Daybreak | 0.00% | ~0 |
+| Maxed Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314,529 (Ranked 71)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 324,327 (Ranked 75)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,9 +343,10 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 304,959 | 0 |
 | 2024-03-21 | 310,363 | 0 |
 | 2024-04-10 | 314,529 | 0 |
+| 2024-06-17 | 324,327 | 0 |
 ## Awards
 Max (Great for Beginners): 242  (Ranked 318)  
-Sum: 1,791 (Ranked 249)  
+Sum: 1,792 (Ranked 249)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +358,7 @@ Diff (max vs sum): 69
 | This game is Extremely Fun | 173 |
 | This game has Competitive Players | 167 |
 | This game has Challenging Combat | 126 |
-| This game has a Competitive Community | 119 |
+| This game has a Competitive Community | 120 |
 | This game has Amazing Storytelling | 112 |
 | This game has Amazing Characters | 99 |
 | This game has Obsessive Gameplay | 65 |
@@ -659,3 +670,4 @@ Diff (max vs sum): 69
 | 2024-06-14 | 4.08 | - | 241 | 1,788 |
 | 2024-06-15 | 4.08 | - | 241 | 1,789 |
 | 2024-06-16 | 4.08 | - | 242 | 1,791 |
+| 2024-06-17 | 4.08 | - | 242 | 1,792 |

@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breaking Free | 39.00% | ~22 |
-| Overcoming Weakness | 34.00% | ~19 |
-| Boulder Breaker | 27.00% | ~15 |
+| Overcoming Weakness | 33.00% | ~19 |
+| Boulder Breaker | 26.00% | ~15 |
 | Fence-Sitter | 16.00% | ~9 |
 | Crystal Hunter | 14.00% | ~8 |
 | Green Thumb | 14.00% | ~8 |
-| Setting Off | 13.00% | ~7 |
+| Setting Off | 12.00% | ~7 |
 | Equivalent Exchange | 9.00% | ~5 |
 | Bye-Bye, Butcher | 7.00% | ~4 |
 | Rejected Parasite | 7.00% | ~4 |
@@ -35,8 +35,8 @@
 | Conqueror of the Devil Blade | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56 (Ranked 638)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 57 (Ranked 697)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,3 +78,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-10 | 49 | 0 |
 | 2024-02-22 | 53 | 0 |
 | 2024-03-21 | 56 | 0 |
+| 2024-06-17 | 57 | 0 |

@@ -2,10 +2,10 @@
   "ID": "9f16c280679749e8ab6179f64e005a37",
   "Name": "Hauntii",
   "ProductSlug": "hauntii-8d9bd7",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -28,11 +28,342 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-06-17T16:17:02.3681539+00:00",
+  "TotalAchievements": 40,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllStar",
+      "SetID": "29fkb9g",
+      "Name": "The World",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ashes",
+      "SetID": "29fkb9g",
+      "Name": "Page of Coins",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Banshee",
+      "SetID": "29fkb9g",
+      "Name": "The Devil",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BeeSting",
+      "SetID": "29fkb9g",
+      "Name": "Three of Wands",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BigIron",
+      "SetID": "29fkb9g",
+      "Name": "Five of Cups",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BlackHole",
+      "SetID": "29fkb9g",
+      "Name": "Queen of Swords",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BrightStar",
+      "SetID": "29fkb9g",
+      "Name": "Queen of Cups",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapeau",
+      "SetID": "29fkb9g",
+      "Name": "Eight of Coins",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CrossingTower",
+      "SetID": "29fkb9g",
+      "Name": "The Fool",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EternityHour",
+      "SetID": "29fkb9g",
+      "Name": "Page of Wands",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FadeAway",
+      "SetID": "29fkb9g",
+      "Name": "Judgement",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FallenStar",
+      "SetID": "29fkb9g",
+      "Name": "Queen of Coins",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ForestSage",
+      "SetID": "29fkb9g",
+      "Name": "The Hermit",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GodShatter",
+      "SetID": "29fkb9g",
+      "Name": "Wheel of Fortune",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GottaGoFast",
+      "SetID": "29fkb9g",
+      "Name": "King of Wands",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GreatScott",
+      "SetID": "29fkb9g",
+      "Name": "The Chariot",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GrowOnTrees",
+      "SetID": "29fkb9g",
+      "Name": "King of Cups",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HandfulOfDust",
+      "SetID": "29fkb9g",
+      "Name": "Page of Cups",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HumbleTable",
+      "SetID": "29fkb9g",
+      "Name": "The High Priestess",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JohnSilence",
+      "SetID": "29fkb9g",
+      "Name": "Death",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JudgeNot",
+      "SetID": "29fkb9g",
+      "Name": "The Sun",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LastReward",
+      "SetID": "29fkb9g",
+      "Name": "Five of Coins",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoHands",
+      "SetID": "29fkb9g",
+      "Name": "The Lovers",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PewPew",
+      "SetID": "29fkb9g",
+      "Name": "Five of Wands",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Poltergeist",
+      "SetID": "29fkb9g",
+      "Name": "The Tower",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ponderous",
+      "SetID": "29fkb9g",
+      "Name": "King of Swords",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Psychopomp",
+      "SetID": "29fkb9g",
+      "Name": "The Magician",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RavenKing",
+      "SetID": "29fkb9g",
+      "Name": "The Emperor",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RootOfEvil",
+      "SetID": "29fkb9g",
+      "Name": "King of Coins",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Seymour",
+      "SetID": "29fkb9g",
+      "Name": "The Star",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SunkBattleship",
+      "SetID": "29fkb9g",
+      "Name": "Eight of Swords",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SuplexIt",
+      "SetID": "29fkb9g",
+      "Name": "Strength",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tarnation",
+      "SetID": "29fkb9g",
+      "Name": "Five of Swords",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheBells",
+      "SetID": "29fkb9g",
+      "Name": "Four of Wands",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tuppence",
+      "SetID": "29fkb9g",
+      "Name": "Nine of Coins",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UnlikelyMilliner",
+      "SetID": "29fkb9g",
+      "Name": "Four of Coins",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UrsaMajor",
+      "SetID": "29fkb9g",
+      "Name": "The Hanged Man",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Whimper",
+      "SetID": "29fkb9g",
+      "Name": "Page of Swords",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WhiteHole",
+      "SetID": "29fkb9g",
+      "Name": "Queen of Wands",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WorldTraveller",
+      "SetID": "29fkb9g",
+      "Name": "Six of Wands",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "29fkb9g",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:17:02.3681538+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:02.3681519+00:00",
   "LastUpdate_AppInfo": "2024-06-13T18:57:34.5936259+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:01:33.9947981+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:26.1892799+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:26.0456678+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:02.3689443+00:00"
 }

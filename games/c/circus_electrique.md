@@ -6,59 +6,59 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 51.00% | ~270 |
-| Circus Electrique Proudly Presents... | 45.00% | ~238 |
-| Grand Opening | 44.00% | ~233 |
-| Path of Learning | 44.00% | ~233 |
-| Built in a Day | 36.00% | ~190 |
-| More Brain Than Brawn | 31.00% | ~164 |
-| Perfect Illusion | 25.00% | ~132 |
-| Hundred Percent First | 25.00% | ~132 |
-| Dirty Dozen | 21.00% | ~111 |
-| Lion Tamer | 19.00% | ~101 |
-| Fan Service | 19.00% | ~101 |
-| King of District 1 | 17.00% | ~90 |
-| Amazing! | 17.00% | ~90 |
-| Bar Brawler | 16.00% | ~85 |
-| Lucky Day | 15.00% | ~79 |
-| Flawless Presentation | 15.00% | ~79 |
-| One More Thing... | 14.00% | ~74 |
-| King of District 2 | 13.00% | ~69 |
-| Time Travel! | 12.00% | ~63 |
-| Marketing Manager | 11.00% | ~58 |
-| Circus Versus Circus | 9.00% | ~48 |
-| King of District 3 | 9.00% | ~48 |
-| Club Member | 7.00% | ~37 |
-| Hundred Percent Second | 7.00% | ~37 |
-| Spirits High | 7.00% | ~37 |
-| Mobile Infantry | 7.00% | ~37 |
-| Around the Clock | 6.00% | ~32 |
-| Club Champion | 6.00% | ~32 |
-| King of District 4 | 5.00% | ~26 |
-| City Savior | 4.00% | ~21 |
-| King of District 5 | 4.00% | ~21 |
-| Hundred Percent Third | 3.00% | ~16 |
-| Circus Maximus | 3.00% | ~16 |
-| Victorian Victor | 3.00% | ~16 |
-| Last Man Standing | 3.00% | ~16 |
-| Accomplished Veteran | 2.00% | ~11 |
-| Unmatched Skills | 2.00% | ~11 |
-| Hundred Percent Fourth | 2.00% | ~11 |
-| Hundred Percent Fifth | 2.00% | ~11 |
-| King of District 6 | 2.00% | ~11 |
-| Grand Slam | 2.00% | ~11 |
-| The Greatest Show | 2.00% | ~11 |
-| Perfect Chemistry | 2.00% | ~11 |
-| London Liberator | 1.00% | ~5 |
-| Hundred Percent Sixth | 0.90% | ~5 |
-| Vicious Busters | 0.90% | ~5 |
-| Devastating Blow | 0.60% | ~3 |
-| Clown Care | 0.40% | ~2 |
-| Guest Stars | 0.40% | ~2 |
-| Versatile Tactics | 0.20% | ~1 |
+| Self Defense | 78.00% | ~49,536 |
+| Circus Electrique Proudly Presents... | 54.00% | ~34,294 |
+| Grand Opening | 53.00% | ~33,659 |
+| Path of Learning | 51.00% | ~32,389 |
+| Built in a Day | 33.00% | ~20,958 |
+| More Brain Than Brawn | 29.00% | ~18,417 |
+| Perfect Illusion | 19.00% | ~12,067 |
+| Hundred Percent First | 19.00% | ~12,067 |
+| Fan Service | 13.00% | ~8,256 |
+| Dirty Dozen | 12.00% | ~7,621 |
+| Lion Tamer | 10.00% | ~6,351 |
+| Amazing! | 10.00% | ~6,351 |
+| King of District 1 | 9.00% | ~5,716 |
+| Lucky Day | 7.00% | ~4,446 |
+| Bar Brawler | 7.00% | ~4,446 |
+| Flawless Presentation | 7.00% | ~4,446 |
+| King of District 2 | 6.00% | ~3,810 |
+| One More Thing... | 5.00% | ~3,175 |
+| Time Travel! | 5.00% | ~3,175 |
+| Marketing Manager | 4.00% | ~2,540 |
+| Mobile Infantry | 4.00% | ~2,540 |
+| Circus Versus Circus | 3.00% | ~1,905 |
+| Hundred Percent Second | 3.00% | ~1,905 |
+| King of District 3 | 3.00% | ~1,905 |
+| Spirits High | 3.00% | ~1,905 |
+| Around the Clock | 2.00% | ~1,270 |
+| Club Member | 2.00% | ~1,270 |
+| Club Champion | 2.00% | ~1,270 |
+| King of District 4 | 2.00% | ~1,270 |
+| Perfect Chemistry | 2.00% | ~1,270 |
+| Last Man Standing | 2.00% | ~1,270 |
+| City Savior | 1.00% | ~635 |
+| King of District 5 | 1.00% | ~635 |
+| Accomplished Veteran | 0.90% | ~572 |
+| Hundred Percent Third | 0.90% | ~572 |
+| Circus Maximus | 0.90% | ~572 |
+| Victorian Victor | 0.80% | ~508 |
+| Unmatched Skills | 0.70% | ~445 |
+| King of District 6 | 0.70% | ~445 |
+| Hundred Percent Fourth | 0.60% | ~381 |
+| The Greatest Show | 0.50% | ~318 |
+| Hundred Percent Fifth | 0.40% | ~254 |
+| Grand Slam | 0.30% | ~191 |
+| Devastating Blow | 0.30% | ~191 |
+| Hundred Percent Sixth | 0.20% | ~127 |
+| Vicious Busters | 0.20% | ~127 |
+| Clown Care | 0.20% | ~127 |
+| London Liberator | 0.10% | ~64 |
+| Versatile Tactics | 0.10% | ~64 |
+| Guest Stars | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 529 (Ranked 398)  
-Completed: 1 (0.19%) (Ranked 325)  
+Progressed: 63,508 (Ranked 148)  
+Completed: 17 (0.03%) (Ranked 449)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,6 +143,7 @@ Completed: 1 (0.19%) (Ranked 325)
 | 2024-03-04 | 519 | 1 |
 | 2024-03-21 | 524 | 1 |
 | 2024-04-10 | 529 | 1 |
+| 2024-06-17 | 63,508 | 17 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -3,6 +3,62 @@
 [View Rawdata](../../db/b/biomutant.json)  
 Rating: 4.36 (Ranked 886)  
 Number of Ratings: 198  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| The Adventure Begins | 40.00% | ~399 |
+| In the Green | 16.00% | ~160 |
+| Rodeo | 15.00% | ~150 |
+| Knockout! | 14.00% | ~140 |
+| Heavy Metal | 11.00% | ~110 |
+| Elementary | 10.00% | ~100 |
+| Snack-time | 8.00% | ~80 |
+| Hammertime | 7.00% | ~70 |
+| Specialized | 6.00% | ~60 |
+| Toytinkerer | 6.00% | ~60 |
+| Under the Table | 6.00% | ~60 |
+| Conquest | 5.00% | ~50 |
+| Max Gains | 5.00% | ~50 |
+| That's Mine! | 5.00% | ~50 |
+| Adventurer | 4.00% | ~40 |
+| Riding the wave | 4.00% | ~40 |
+| Starstruck | 4.00% | ~40 |
+| The Dragon | 4.00% | ~40 |
+| Conscious | 3.00% | ~30 |
+| DNA Overload | 3.00% | ~30 |
+| Eye on the Road | 3.00% | ~30 |
+| Gumshow | 3.00% | ~30 |
+| Nautica | 3.00% | ~30 |
+| Paragon | 3.00% | ~30 |
+| Thugs | 3.00% | ~30 |
+| Zoo-do | 3.00% | ~30 |
+| End of the Rainbow | 2.00% | ~20 |
+| Kneel | 2.00% | ~20 |
+| Old World Gadgets | 2.00% | ~20 |
+| Sproing! | 2.00% | ~20 |
+| Trek | 2.00% | ~20 |
+| Hack n' Slash | 1.00% | ~10 |
+| Pew Pew! | 1.00% | ~10 |
+| Twinkle Twinkle | 1.00% | ~10 |
+| Show-off | 0.90% | ~9 |
+| Tar-up | 0.80% | ~8 |
+| Electrified | 0.70% | ~7 |
+| Mariner | 0.70% | ~7 |
+| Stick it to Them | 0.70% | ~7 |
+| Wung-fu Master | 0.70% | ~7 |
+| Bagman | 0.50% | ~5 |
+| Social | 0.40% | ~4 |
+| Flap-flap | 0.30% | ~3 |
+| Angler | 0.00% | ~0 |
+| Bugologist | 0.00% | ~0 |
+| Quack | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 997 (Ranked 385)  
+Completed: 0 (0.00%) (Ranked 510)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-06-17 | 997 | 0 |
 ## Awards
 Max (Character Customization): 132  (Ranked 389)  
 Sum: 180 (Ranked 490)  

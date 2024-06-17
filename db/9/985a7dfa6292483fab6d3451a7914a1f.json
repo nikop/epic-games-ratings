@@ -2,10 +2,10 @@
   "ID": "985a7dfa6292483fab6d3451a7914a1f",
   "Name": "Tamarak Trail",
   "ProductSlug": "tamarak-trail-0edcb0",
-  "Ranking_EOS_Progress": 809,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-29T17:00:00+00:00",
     "PcReleaseDate": "2024-02-29T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-04-10T06:05:48.3673894+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:15:53.546546+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:16.7428205+00:00",
@@ -54,15 +59,15 @@
       "ID": "Beast of the Woods",
       "SetID": "9837122",
       "Name": "Beast of the Woods",
-      "Percentage": 86,
+      "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "Case Closed",
       "SetID": "9837122",
       "Name": "Case Closed",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -70,7 +75,7 @@
       "ID": "Core Collector",
       "SetID": "9837122",
       "Name": "Core Collector",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -78,7 +83,7 @@
       "ID": "Corruption\u0027s Source",
       "SetID": "9837122",
       "Name": "Corruption\u0027s Source",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -86,17 +91,17 @@
       "ID": "Critical Success",
       "SetID": "9837122",
       "Name": "Critical Success",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 45,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Curtain Call",
       "SetID": "9837122",
       "Name": "Curtain Call",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Dice Mastery",
@@ -110,7 +115,7 @@
       "ID": "Enduring the Trial",
       "SetID": "9837122",
       "Name": "Enduring the Trial",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "ID": "Ethereal Tea-Time",
       "SetID": "9837122",
       "Name": "Ethereal Tea-Time",
-      "Percentage": 14,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -134,9 +139,9 @@
       "ID": "Hypnosis Breaker",
       "SetID": "9837122",
       "Name": "Hypnosis Breaker",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Limitless",
@@ -166,23 +171,23 @@
       "ID": "Unbreakable Resolve",
       "SetID": "9837122",
       "Name": "Unbreakable Resolve",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "9837122",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-02T13:58:27.4253138+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:16.7428204+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:48.3673888+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:53.5465456+00:00",
   "LastUpdate_AppInfo": "2024-06-14T01:48:40.0125568+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:54.9353726+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:48.3673988+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:04.8633716+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:53.5465567+00:00"
 }

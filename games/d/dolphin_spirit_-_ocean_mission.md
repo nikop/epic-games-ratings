@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 49.00% | ~19 |
-| Recycling newbie | 44.00% | ~17 |
-| New recruit | 26.00% | ~10 |
-| Interesting | 26.00% | ~10 |
-| Amateur photographer | 18.00% | ~7 |
-| Let's get started | 13.00% | ~5 |
-| In search of knowledge | 13.00% | ~5 |
-| Power of the dolphin | 13.00% | ~5 |
-| Power of the ray | 13.00% | ~5 |
-| Rescuer | 10.00% | ~4 |
-| Power of the turtle | 10.00% | ~4 |
-| Pro Photographer | 8.00% | ~3 |
-| Recycling expert | 8.00% | ~3 |
-| Island gardian angel | 8.00% | ~3 |
-| Picture of the bay | 8.00% | ~3 |
-| Picture of the atoll | 8.00% | ~3 |
-| Picture of the reef | 8.00% | ~3 |
-| Animal reporter | 5.00% | ~2 |
-| Creek cleanup | 5.00% | ~2 |
-| Atoll cleanup | 5.00% | ~2 |
-| Reef cleanup | 5.00% | ~2 |
-| Heroic member | 5.00% | ~2 |
-| Legend of the association | 5.00% | ~2 |
-| Picture of the creek | 5.00% | ~2 |
-| Picture of the island | 5.00% | ~2 |
-| Well of science | 5.00% | ~2 |
-| Power of the shark | 5.00% | ~2 |
-| The fifth one! | 5.00% | ~2 |
-| Recycling Legend | 3.00% | ~1 |
-| Bay cleanup | 3.00% | ~1 |
-| Island protector | 3.00% | ~1 |
+| Welcome to Maupiroa | 49.00% | ~22 |
+| Recycling newbie | 42.00% | ~19 |
+| New recruit | 24.00% | ~11 |
+| Interesting | 22.00% | ~10 |
+| Amateur photographer | 18.00% | ~8 |
+| In search of knowledge | 16.00% | ~7 |
+| Power of the dolphin | 16.00% | ~7 |
+| Rescuer | 13.00% | ~6 |
+| Power of the ray | 13.00% | ~6 |
+| Let's get started | 11.00% | ~5 |
+| Pro Photographer | 9.00% | ~4 |
+| Island gardian angel | 9.00% | ~4 |
+| Picture of the bay | 9.00% | ~4 |
+| Power of the turtle | 9.00% | ~4 |
+| Recycling expert | 7.00% | ~3 |
+| Heroic member | 7.00% | ~3 |
+| Legend of the association | 7.00% | ~3 |
+| Picture of the atoll | 7.00% | ~3 |
+| Picture of the reef | 7.00% | ~3 |
+| Power of the shark | 7.00% | ~3 |
+| Animal reporter | 4.00% | ~2 |
+| Creek cleanup | 4.00% | ~2 |
+| Atoll cleanup | 4.00% | ~2 |
+| Reef cleanup | 4.00% | ~2 |
+| Picture of the creek | 4.00% | ~2 |
+| Picture of the island | 4.00% | ~2 |
+| Well of science | 4.00% | ~2 |
+| The fifth one! | 4.00% | ~2 |
+| Recycling Legend | 2.00% | ~1 |
+| Bay cleanup | 2.00% | ~1 |
+| Island protector | 2.00% | ~1 |
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 677)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 45 (Ranked 728)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,3 +67,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-13 | 33 | 0 |
 | 2024-02-22 | 38 | 0 |
 | 2024-03-21 | 39 | 0 |
+| 2024-06-17 | 45 | 0 |

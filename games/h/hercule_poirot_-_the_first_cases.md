@@ -5,55 +5,55 @@ Rating: 4.42 (Ranked 803)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 87.00% | ~474 |
-| Luc Piette | 73.00% | ~398 |
-| Angeline Van den Bosch | 71.00% | ~387 |
-| Elizabeth Padget | 68.00% | ~371 |
-| Little Grey Cells | 67.00% | ~365 |
-| The Bracelet | 65.00% | ~354 |
-| The Blackmail | 54.00% | ~294 |
-| Major Felix Hagen | 54.00% | ~294 |
-| Florette Duval | 53.00% | ~289 |
-| Fine-toothed Comb | 52.00% | ~283 |
-| Order and Method | 51.00% | ~278 |
-| Truth from Within | 48.00% | ~262 |
-| The Altercation | 48.00% | ~262 |
-| The Major | 46.00% | ~251 |
-| Curious and Beautiful | 44.00% | ~240 |
-| Comtesse Margaux de Vos | 44.00% | ~240 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~234 |
-| The Interrogations | 43.00% | ~234 |
-| Well-acquainted | 41.00% | ~223 |
-| Zakariya Demir | 41.00% | ~223 |
-| Well-read | 39.00% | ~213 |
-| Cassandra Van den Bosch | 38.00% | ~207 |
-| The Secret | 37.00% | ~202 |
-| Gedeon Demir | 36.00% | ~196 |
-| Rehana Piette | 35.00% | ~191 |
-| Instinct is Marvellous | 33.00% | ~180 |
-| Ernesto da Silva | 33.00% | ~180 |
-| Inge Frank | 32.00% | ~174 |
-| The Search | 31.00% | ~169 |
-| Hugo Beckers | 30.00% | ~164 |
-| The Family | 29.00% | ~158 |
-| Well-travelled | 28.00% | ~153 |
-| Thinking of Everything | 27.00% | ~147 |
-| Viscount Edwin Van den Bosch | 27.00% | ~147 |
-| Exquisite Artwork | 26.00% | ~142 |
-| Archibald Sterling | 26.00% | ~142 |
-| Well-prepared | 22.00% | ~120 |
-| The Truth | 22.00% | ~120 |
-| What Else Did I Miss? | 19.00% | ~104 |
-| I Like an Audience | 19.00% | ~104 |
-| The Denouement | 18.00% | ~98 |
-| Sunken Secrets | 18.00% | ~98 |
-| Probably the Greatest Detective in the World | 12.00% | ~65 |
-| Take a Break | 11.00% | ~60 |
-| Room with a View | 8.00% | ~44 |
-| Work-life Balance | 3.00% | ~16 |
+| It Wasn’t a Burglary | 87.00% | ~499 |
+| Luc Piette | 73.00% | ~418 |
+| Angeline Van den Bosch | 72.00% | ~413 |
+| Elizabeth Padget | 68.00% | ~390 |
+| Little Grey Cells | 67.00% | ~384 |
+| The Bracelet | 65.00% | ~372 |
+| Florette Duval | 54.00% | ~309 |
+| The Blackmail | 53.00% | ~304 |
+| Major Felix Hagen | 53.00% | ~304 |
+| Fine-toothed Comb | 52.00% | ~298 |
+| Order and Method | 51.00% | ~292 |
+| The Altercation | 48.00% | ~275 |
+| Truth from Within | 47.00% | ~269 |
+| The Major | 46.00% | ~264 |
+| Curious and Beautiful | 44.00% | ~252 |
+| Comtesse Margaux de Vos | 44.00% | ~252 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~246 |
+| The Interrogations | 43.00% | ~246 |
+| Well-acquainted | 41.00% | ~235 |
+| Zakariya Demir | 41.00% | ~235 |
+| Well-read | 39.00% | ~223 |
+| Cassandra Van den Bosch | 38.00% | ~218 |
+| The Secret | 37.00% | ~212 |
+| Gedeon Demir | 35.00% | ~201 |
+| Rehana Piette | 35.00% | ~201 |
+| Instinct is Marvellous | 33.00% | ~189 |
+| Ernesto da Silva | 33.00% | ~189 |
+| Inge Frank | 32.00% | ~183 |
+| The Search | 31.00% | ~178 |
+| Hugo Beckers | 30.00% | ~172 |
+| The Family | 28.00% | ~160 |
+| Well-travelled | 27.00% | ~155 |
+| Thinking of Everything | 27.00% | ~155 |
+| Viscount Edwin Van den Bosch | 27.00% | ~155 |
+| Archibald Sterling | 26.00% | ~149 |
+| Exquisite Artwork | 25.00% | ~143 |
+| Well-prepared | 22.00% | ~126 |
+| The Truth | 22.00% | ~126 |
+| I Like an Audience | 20.00% | ~115 |
+| What Else Did I Miss? | 19.00% | ~109 |
+| The Denouement | 18.00% | ~103 |
+| Sunken Secrets | 18.00% | ~103 |
+| Probably the Greatest Detective in the World | 12.00% | ~69 |
+| Take a Break | 11.00% | ~63 |
+| Room with a View | 8.00% | ~46 |
+| Work-life Balance | 3.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545 (Ranked 396)  
-Completed: 8 (1.47%) (Ranked 177)  
+Progressed: 573 (Ranked 433)  
+Completed: 8 (1.40%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,6 +170,7 @@ Completed: 8 (1.47%) (Ranked 177)
 | 2024-02-22 | 523 | 8 |
 | 2024-03-21 | 533 | 8 |
 | 2024-04-10 | 545 | 8 |
+| 2024-06-17 | 573 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

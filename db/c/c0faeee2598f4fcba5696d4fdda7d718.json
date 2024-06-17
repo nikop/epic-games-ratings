@@ -2,10 +2,10 @@
   "ID": "c0faeee2598f4fcba5696d4fdda7d718",
   "Name": "Russian Village Simulator",
   "ProductSlug": "russian-village-simulator-ddedb6",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-02T13:00:00+00:00",
     "PcReleaseDate": "2023-09-25T01:00:00+00:00",
@@ -25,17 +25,435 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:20.8813435+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:20.8813465+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_1_0",
+      "SetID": "2n92fgj",
+      "Name": "Arrival in the village",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_1",
+      "SetID": "2n92fgj",
+      "Name": "Village alcoholic",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_10",
+      "SetID": "2n92fgj",
+      "Name": "Protector of birds",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_11",
+      "SetID": "2n92fgj",
+      "Name": "Corn farmer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_12",
+      "SetID": "2n92fgj",
+      "Name": "Bird Man",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_13",
+      "SetID": "2n92fgj",
+      "Name": "Bencher",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_14",
+      "SetID": "2n92fgj",
+      "Name": "Onion woe",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_15",
+      "SetID": "2n92fgj",
+      "Name": "Carrot Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_16",
+      "SetID": "2n92fgj",
+      "Name": "Woodworker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_17",
+      "SetID": "2n92fgj",
+      "Name": "Dolly",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_18",
+      "SetID": "2n92fgj",
+      "Name": "Cucumber Maker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_19",
+      "SetID": "2n92fgj",
+      "Name": "Pepper Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_2",
+      "SetID": "2n92fgj",
+      "Name": "Barn",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_20",
+      "SetID": "2n92fgj",
+      "Name": "Sunny Man",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_21",
+      "SetID": "2n92fgj",
+      "Name": "Tomato Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_22",
+      "SetID": "2n92fgj",
+      "Name": "letter carrier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_23",
+      "SetID": "2n92fgj",
+      "Name": "Radish",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_24",
+      "SetID": "2n92fgj",
+      "Name": "Distiller",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_25",
+      "SetID": "2n92fgj",
+      "Name": "Beet master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_26",
+      "SetID": "2n92fgj",
+      "Name": "You come over once in a while",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_27",
+      "SetID": "2n92fgj",
+      "Name": "Pumpkin Baron",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_28",
+      "SetID": "2n92fgj",
+      "Name": "Oink Oink",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_29",
+      "SetID": "2n92fgj",
+      "Name": "Faith",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_3",
+      "SetID": "2n92fgj",
+      "Name": "Watermelon Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_30",
+      "SetID": "2n92fgj",
+      "Name": "Rooster Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_31",
+      "SetID": "2n92fgj",
+      "Name": "Garlic Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_4",
+      "SetID": "2n92fgj",
+      "Name": "The eggplant master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_5",
+      "SetID": "2n92fgj",
+      "Name": "Lumberjack",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_6",
+      "SetID": "2n92fgj",
+      "Name": "Little cow",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_7",
+      "SetID": "2n92fgj",
+      "Name": "Forest cleaner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_8",
+      "SetID": "2n92fgj",
+      "Name": "Cabbage Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_9",
+      "SetID": "2n92fgj",
+      "Name": "Potato Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_0",
+      "SetID": "2n92fgj",
+      "Name": "Electrification",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_1",
+      "SetID": "2n92fgj",
+      "Name": "Waterman",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_10",
+      "SetID": "2n92fgj",
+      "Name": "Catfish",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_11",
+      "SetID": "2n92fgj",
+      "Name": "Swan Lake",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_12",
+      "SetID": "2n92fgj",
+      "Name": "Thinker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_13",
+      "SetID": "2n92fgj",
+      "Name": "The fish of my dreams",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_14",
+      "SetID": "2n92fgj",
+      "Name": "Machinist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_15",
+      "SetID": "2n92fgj",
+      "Name": "Chairperson",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_16",
+      "SetID": "2n92fgj",
+      "Name": "Fortune-teller",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_17",
+      "SetID": "2n92fgj",
+      "Name": "Boombox",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_2",
+      "SetID": "2n92fgj",
+      "Name": "Postal worker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_3",
+      "SetID": "2n92fgj",
+      "Name": "Destination",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_4",
+      "SetID": "2n92fgj",
+      "Name": "Tractor driver",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_5",
+      "SetID": "2n92fgj",
+      "Name": "Gusak",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_6",
+      "SetID": "2n92fgj",
+      "Name": "Perch",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_7",
+      "SetID": "2n92fgj",
+      "Name": "Mackerel",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_8",
+      "SetID": "2n92fgj",
+      "Name": "Pike",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_2_9",
+      "SetID": "2n92fgj",
+      "Name": "Sazan",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "2n92fgj",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-05-08T20:57:37.9916112+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:20.8813465+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:20.8813431+00:00",
   "LastUpdate_AppInfo": "2024-06-13T05:57:08.2249311+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:41.8402953+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:36.7874478+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:20.8820698+00:00"
 }

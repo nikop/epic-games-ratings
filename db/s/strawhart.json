@@ -2,10 +2,10 @@
   "ID": "59c7280154cc4fe1a7c3a4a7d6f74adf",
   "Name": "Strawhart",
   "ProductSlug": "strawhart-776f4d",
-  "Ranking_EOS_Progress": 756,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-20T08:00:00+00:00",
     "PcReleaseDate": "2022-03-11T04:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -81,6 +81,11 @@
       "Time": "2024-03-04T23:05:35.0167336+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:17:17.0316581+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 21,
@@ -98,7 +103,7 @@
       "ID": "ACH_ARCHIVE_BUILT",
       "SetID": "64pp6bc",
       "Name": "The Archive is Incomplete",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -106,7 +111,7 @@
       "ID": "ACH_ARCHIVE_FOUND",
       "SetID": "64pp6bc",
       "Name": "Master Archivist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "ACH_CRATES",
       "SetID": "64pp6bc",
       "Name": "Cratepocalipse",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -138,9 +143,9 @@
       "ID": "ACH_CRITTER_RESCUE",
       "SetID": "64pp6bc",
       "Name": "Activist",
-      "Percentage": 40,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CULTIST_COLLECTALL",
@@ -162,7 +167,7 @@
       "ID": "ACH_HIDE_SEEK",
       "SetID": "64pp6bc",
       "Name": "Petting Zoo",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "ACH_SHARD_1",
       "SetID": "64pp6bc",
       "Name": "A Blast for You and a Blasphemy",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "ACH_SHARD_1_RITUAL",
       "SetID": "64pp6bc",
       "Name": "Geneva Suggestion",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -194,7 +199,7 @@
       "ID": "ACH_SHARD_2",
       "SetID": "64pp6bc",
       "Name": "Cold Poultry",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -210,7 +215,7 @@
       "ID": "ACH_SIBBOLETH_ENTER",
       "SetID": "64pp6bc",
       "Name": "Through the Heavenly Gate",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -218,7 +223,7 @@
       "ID": "ACH_SPRINT_UNLOCKED",
       "SetID": "64pp6bc",
       "Name": "Where\u0027s the Sprint Button?",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -234,15 +239,15 @@
       "ID": "ACH_STRAWHART_AWAKEN",
       "SetID": "64pp6bc",
       "Name": "What could possibly go wrong?",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_STRAWHART_DEFEAT",
       "SetID": "64pp6bc",
       "Name": "The Bigger They Are...",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -250,7 +255,7 @@
       "ID": "ACH_STRAWHART_DENY",
       "SetID": "64pp6bc",
       "Name": "Daemon Deferred",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 3
     }
@@ -259,7 +264,7 @@
     {
       "ID": "64pp6bc",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
@@ -267,8 +272,8 @@
   "FirstSeenRating": "2023-04-21T23:57:25.9719541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.1466412+00:00",
   "LastChanged": "2023-04-21T23:57:25.9719541+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:33.9885621+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:17.0316577+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:44.4604553+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:32.3164943+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:33.9885758+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:01:40.9167871+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:17.0316699+00:00"
 }

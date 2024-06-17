@@ -5,29 +5,29 @@ Rating: 4.27 (Ranked 984)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~2,922 |
-| Bonfire Lit | 3.00% | ~2,192 |
-| Survival Expert | 3.00% | ~2,192 |
-| Denial | 2.00% | ~1,461 |
-| Acceptance | 2.00% | ~1,461 |
-| Bargaining | 2.00% | ~1,461 |
-| Anger | 1.00% | ~731 |
-| Fear Of The Dark | 1.00% | ~731 |
-| Detective of the occult | 1.00% | ~731 |
-| Depression | 1.00% | ~731 |
-| Bless me Father... | 0.80% | ~584 |
-| Phone Bill | 0.80% | ~584 |
-| Power of Friendship | 0.70% | ~511 |
-| Chain Breaker | 0.70% | ~511 |
-| Let there be light | 0.50% | ~365 |
-| Silent Advisor | 0.50% | ~365 |
-| Soda addiction | 0.40% | ~292 |
-| Paparazzi | 0.40% | ~292 |
-| Are you still there? | 0.40% | ~292 |
-| Ear Ringing | 0.10% | ~73 |
+| Out of Shape | 4.00% | ~2,986 |
+| Bonfire Lit | 3.00% | ~2,239 |
+| Survival Expert | 3.00% | ~2,239 |
+| Denial | 2.00% | ~1,493 |
+| Acceptance | 2.00% | ~1,493 |
+| Bargaining | 2.00% | ~1,493 |
+| Anger | 1.00% | ~746 |
+| Fear Of The Dark | 1.00% | ~746 |
+| Detective of the occult | 1.00% | ~746 |
+| Depression | 1.00% | ~746 |
+| Bless me Father... | 0.80% | ~597 |
+| Phone Bill | 0.80% | ~597 |
+| Power of Friendship | 0.70% | ~522 |
+| Chain Breaker | 0.70% | ~522 |
+| Let there be light | 0.50% | ~373 |
+| Silent Advisor | 0.50% | ~373 |
+| Soda addiction | 0.40% | ~299 |
+| Paparazzi | 0.40% | ~299 |
+| Are you still there? | 0.40% | ~299 |
+| Ear Ringing | 0.10% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,060 (Ranked 127)  
-Completed: 18 (0.02%) (Ranked 416)  
+Progressed: 74,641 (Ranked 141)  
+Completed: 18 (0.02%) (Ranked 468)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,6 +312,7 @@ Completed: 18 (0.02%) (Ranked 416)
 | 2024-03-21 | 72,531 | 18 |
 | 2024-04-07 | 73,008 | 18 |
 | 2024-04-10 | 73,060 | 18 |
+| 2024-06-17 | 74,641 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

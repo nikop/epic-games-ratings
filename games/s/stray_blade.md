@@ -4,61 +4,61 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 38.00% | ~76 |
-| Tinkerer | 31.00% | ~62 |
-| Welcome to the Club | 21.00% | ~42 |
-| A new World ahead | 16.00% | ~32 |
-| Don't Cry Wolf | 14.00% | ~28 |
-| Apprentice | 12.00% | ~24 |
-| Can't touch this | 8.00% | ~16 |
-| Freezing Cold | 7.00% | ~14 |
-| Locked and Loaded | 6.00% | ~12 |
-| Expert | 6.00% | ~12 |
-| Craftsmen | 5.00% | ~10 |
-| Searing Heat | 5.00% | ~10 |
-| Defeat Tezuth | 4.00% | ~8 |
-| Nothing but the Truth | 4.00% | ~8 |
-| The Golden Flash | 4.00% | ~8 |
-| The Power of the Mountains | 4.00% | ~8 |
-| Witch | 3.00% | ~6 |
-| The A-Team | 3.00% | ~6 |
-| Changing the World | 3.00% | ~6 |
-| Sponsor | 2.00% | ~4 |
+| Self-Defence | 41.00% | ~89 |
+| Tinkerer | 34.00% | ~74 |
+| Welcome to the Club | 22.00% | ~48 |
+| A new World ahead | 16.00% | ~35 |
+| Apprentice | 14.00% | ~31 |
+| Don't Cry Wolf | 13.00% | ~28 |
+| Can't touch this | 9.00% | ~20 |
+| Freezing Cold | 8.00% | ~17 |
+| Expert | 7.00% | ~15 |
+| Craftsmen | 6.00% | ~13 |
+| Searing Heat | 6.00% | ~13 |
+| Locked and Loaded | 6.00% | ~13 |
+| The Golden Flash | 6.00% | ~13 |
+| Nothing but the Truth | 5.00% | ~11 |
+| Changing the World | 5.00% | ~11 |
+| Defeat Tezuth | 4.00% | ~9 |
+| Witch | 4.00% | ~9 |
+| The A-Team | 4.00% | ~9 |
+| The Power of the Mountains | 4.00% | ~9 |
+| Sponsor | 3.00% | ~7 |
+| Through Dangers Untold | 3.00% | ~7 |
 | Defeat Ingla | 2.00% | ~4 |
 | Defeat Uskol | 2.00% | ~4 |
-| Through Dangers Untold | 2.00% | ~4 |
 | Ancient Powers | 2.00% | ~4 |
+| Wizard | 2.00% | ~4 |
 | Pathfinder | 2.00% | ~4 |
+| Finally! | 2.00% | ~4 |
+| The End | 2.00% | ~4 |
 | But what of the Acreans? | 2.00% | ~4 |
+| A Deceiving Gift | 2.00% | ~4 |
+| Unveiling the Truth | 2.00% | ~4 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
-| Mountain Lover | 1.00% | ~2 |
 | Forest Expert | 1.00% | ~2 |
-| Wizard | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
 | Globetrotter | 1.00% | ~2 |
-| Finally! | 1.00% | ~2 |
-| The End | 1.00% | ~2 |
-| A Deceiving Gift | 1.00% | ~2 |
-| Unveiling the Truth | 1.00% | ~2 |
-| Small Setback | 1.00% | ~2 |
+| Collector | 0.90% | ~2 |
+| Mountain Lover | 0.90% | ~2 |
+| Master of all Domains | 0.90% | ~2 |
+| Mind Over Matter | 0.90% | ~2 |
+| Small Setback | 0.90% | ~2 |
 | Style over Stats | 0.50% | ~1 |
-| Collector | 0.50% | ~1 |
 | Explorer by Heart | 0.50% | ~1 |
 | Wasteland Connoisseur | 0.50% | ~1 |
 | Fashionista | 0.50% | ~1 |
 | Knowledge is King | 0.50% | ~1 |
 | Bookworm | 0.50% | ~1 |
 | Wayseeker | 0.50% | ~1 |
-| Master of all Domains | 0.50% | ~1 |
-| Mind Over Matter | 0.50% | ~1 |
 | Coming Prepared | 0.50% | ~1 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
 | Everything in its Place | 0.00% | ~0 |
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 201 (Ranked 495)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 218 (Ranked 541)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,6 +176,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 179 | 0 |
 | 2024-03-21 | 189 | 0 |
 | 2024-04-10 | 201 | 0 |
+| 2024-06-17 | 218 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,12 +3,12 @@
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 680,
-  "Ranking_Popularity": 168,
-  "Ranking_PopularitySum": 117,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_Popularity": 169,
+  "Ranking_PopularitySum": 118,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -12724,10 +12724,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 9747,
       "NumberOfAwardsMax": 1147
+    },
+    {
+      "Time": "2024-06-17T16:04:57.1790937+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 9749,
+      "NumberOfAwardsMax": 1147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9747,
+  "NumberOfAwards": 9749,
   "NumberOfAwardsMax": 1147,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -12783,7 +12789,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1024
+      "Count": 1026
     },
     {
       "Text": "This game is Educational",
@@ -12815,8 +12821,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-06-16T20:58:01.0191891+00:00",
+  "LastChanged": "2024-06-17T16:04:57.1790935+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:06.002545+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:57.1730033+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:00.0818913+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:57.179094+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:33.9967202+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 77,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-02T15:00:00+00:00",
     "PcReleaseDate": "2019-09-23T22:00:00+00:00",
@@ -307,19 +307,109 @@
       "Count": 112
     }
   ],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 298358,
+  "EOS_Completed": 6462,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 2.17,
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:31.1354814+00:00",
+      "NumProgressed": 298358,
+      "NumCompleted": 6462
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:31.1354835+00:00",
+  "TotalAchievements": 9,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "com.thegentlebros.catquest2.continent",
+      "SetID": "5gike56",
+      "Name": "The Lupus Empire",
+      "Percentage": 15,
+      "XP": 50,
+      "UsersEstimate": 44754
+    },
+    {
+      "ID": "com.thegentlebros.catquest2.dungeons",
+      "SetID": "5gike56",
+      "Name": "Dungeon Master",
+      "Percentage": 2,
+      "XP": 100,
+      "UsersEstimate": 5967
+    },
+    {
+      "ID": "com.thegentlebros.catquest2.equipments",
+      "SetID": "5gike56",
+      "Name": "Fashionista Tails",
+      "Percentage": 3,
+      "XP": 200,
+      "UsersEstimate": 8951
+    },
+    {
+      "ID": "com.thegentlebros.catquest2.firstmainquest",
+      "SetID": "5gike56",
+      "Name": "Catventure Begins",
+      "Percentage": 29,
+      "XP": 50,
+      "UsersEstimate": 86524
+    },
+    {
+      "ID": "com.thegentlebros.catquest2.level",
+      "SetID": "5gike56",
+      "Name": "Kinghood",
+      "Percentage": 6,
+      "XP": 100,
+      "UsersEstimate": 17901
+    },
+    {
+      "ID": "com.thegentlebros.catquest2.mainquests",
+      "SetID": "5gike56",
+      "Name": "Paws Together",
+      "Percentage": 7,
+      "XP": 200,
+      "UsersEstimate": 20885
+    },
+    {
+      "ID": "com.thegentlebros.catquest2.royalarts",
+      "SetID": "5gike56",
+      "Name": "Royal Fur",
+      "Percentage": 10,
+      "XP": 100,
+      "UsersEstimate": 29836
+    },
+    {
+      "ID": "com.thegentlebros.catquest2.sidequests",
+      "SetID": "5gike56",
+      "Name": "Furriend of the People",
+      "Percentage": 3,
+      "XP": 100,
+      "UsersEstimate": 8951
+    },
+    {
+      "ID": "com.thegentlebros.catquest2.spells",
+      "SetID": "5gike56",
+      "Name": "Arcane Paws",
+      "Percentage": 4,
+      "XP": 100,
+      "UsersEstimate": 11934
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5gike56",
+      "IsBase": true,
+      "Progressed": 298358,
+      "Completed": 6462
+    }
+  ],
   "FirstSeen": "2024-05-02T17:58:17.8761313+00:00",
   "FirstSeenRating": "2024-05-04T03:58:34.2984486+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:31.1354834+00:00",
   "LastChanged": "2024-06-17T04:58:28.8270173+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:31.1354811+00:00",
   "LastUpdate_AppInfo": "2024-06-11T18:57:14.788011+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:11.9599888+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:54.0383057+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:31.1361553+00:00"
 }

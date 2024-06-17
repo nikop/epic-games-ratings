@@ -2,10 +2,10 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 527,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 158,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -526,6 +526,11 @@
       "Time": "2024-03-21T17:08:26.8558273+00:00",
       "NumProgressed": 155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:11:56.782004+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -535,7 +540,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 55,
       "UsersEstimate": 68
     },
@@ -545,15 +550,15 @@
       "Name": "It doesn\u0027t work like that",
       "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "RUNE_BOOSTDAMAGERANGE",
       "SetID": "9433p49",
       "Name": "This is just the beginning...",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "RUNE_BOOSTHEALTHCOMBO",
@@ -569,7 +574,7 @@
       "Name": "Time is on my side",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "RUNE_CURSEDCOINS",
@@ -577,7 +582,7 @@
       "Name": "Unstoppable Curiosity",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
@@ -585,7 +590,7 @@
       "Name": "Runes collector",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -599,7 +604,7 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 55,
       "UsersEstimate": 95
     },
@@ -609,7 +614,7 @@
       "Name": "Witch\u0027s duty",
       "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -617,13 +622,13 @@
       "Name": "Devil\u0027s dozen",
       "Percentage": 27,
       "XP": 55,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 75,
       "UsersEstimate": 62
     },
@@ -631,9 +636,9 @@
       "ID": "RUNE_OVERSTAMINA",
       "SetID": "9433p49",
       "Name": "A small victory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "RUNE_STORM",
@@ -641,13 +646,13 @@
       "Name": "Path of purity",
       "Percentage": 84,
       "XP": 55,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 40,
       "UsersEstimate": 79
     }
@@ -656,7 +661,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 158,
       "Completed": 0
     }
   ],
@@ -664,8 +669,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:36.9899468+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:11:56.7820036+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:28.8317938+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:18.9532345+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:36.9899589+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:27.5551065+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:56.7820175+00:00"
 }

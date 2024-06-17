@@ -5,72 +5,81 @@ Rating: 4.22 (Ranked 1,033)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Veil Lifted | 4.00% | ~623 |
-| Lost and Found | 4.00% | ~623 |
-| Vengeance for the Fallen | 3.00% | ~467 |
-| Rise and Fall | 3.00% | ~467 |
-| Thriving in Darkness | 3.00% | ~467 |
-| A Rest Among the Dead | 3.00% | ~467 |
-| Honed to Perfection | 2.00% | ~311 |
-| Rune Novice | 2.00% | ~311 |
-| Rune Master | 2.00% | ~311 |
-| Shades of Violence | 2.00% | ~311 |
-| Together in Death | 2.00% | ~311 |
-| Burying the Past | 2.00% | ~311 |
-| Unwanted | 2.00% | ~311 |
-| Unbroken to the End | 2.00% | ~311 |
-| Wings of Grief | 2.00% | ~311 |
-| Twin Faces of Sin | 2.00% | ~311 |
-| Judgement | 2.00% | ~311 |
-| Hunt's End | 2.00% | ~311 |
-| The King is Dead | 2.00% | ~311 |
-| Fallen | 2.00% | ~311 |
-| In Light we Walk | 2.00% | ~311 |
-| Essence of Death | 2.00% | ~311 |
-| Seasoned | 2.00% | ~311 |
-| The Past Shapes the Present | 2.00% | ~311 |
-| Wayfarer | 1.00% | ~156 |
-| Carving Out Victory | 1.00% | ~156 |
-| Utmost Insight | 1.00% | ~156 |
-| Comrades | 1.00% | ~156 |
-| Shared Triumph | 1.00% | ~156 |
-| No Mercy | 1.00% | ~156 |
-| Travels Resumed | 1.00% | ~156 |
-| Hero Worship | 1.00% | ~156 |
-| Antanas' Legacy | 1.00% | ~156 |
-| Without Purpose | 1.00% | ~156 |
-| Salvation in Blood | 0.70% | ~109 |
-| The Price of Knowledge | 0.70% | ~109 |
-| Moving On | 0.70% | ~109 |
-| A Shadow Dispelled | 0.60% | ~93 |
-| A Queen's Rest | 0.50% | ~78 |
-| Umbral Offerings | 0.40% | ~62 |
-| Faithful | 0.40% | ~62 |
-| Vengeful Reflection | 0.40% | ~62 |
-| Lord of the Risen | 0.40% | ~62 |
-| A Hunger Sated | 0.30% | ~47 |
-| Back to the Void | 0.30% | ~47 |
-| Ammunition Collector | 0.20% | ~31 |
-| Radiant Adept | 0.20% | ~31 |
-| Umbral Adept | 0.20% | ~31 |
-| Gesture Collector | 0.20% | ~31 |
-| Infernal Offerings | 0.20% | ~31 |
-| Radiant Offerings | 0.20% | ~31 |
-| Part of the Divine | 0.20% | ~31 |
-| Weapon Collector | 0.10% | ~16 |
-| Ironclad | 0.10% | ~16 |
-| What Sights Contained Within | 0.10% | ~16 |
-| Trinket Collector | 0.10% | ~16 |
-| Inferno Adept | 0.10% | ~16 |
-| Throwable Collector | 0.10% | ~16 |
-| None Shall be Spared | 0.10% | ~16 |
-| The Last Step | 0.10% | ~16 |
-| Lord of the Fallen | 0.10% | ~16 |
-| Lingering Moments | 0.10% | ~16 |
-| A Trace of Venom | 0.10% | ~16 |
+| A Veil Lifted | 7.00% | ~1,192 |
+| Lost and Found | 6.00% | ~1,022 |
+| Vengeance for the Fallen | 5.00% | ~851 |
+| Thriving in Darkness | 5.00% | ~851 |
+| Rise and Fall | 4.00% | ~681 |
+| A Rest Among the Dead | 4.00% | ~681 |
+| Shades of Violence | 3.00% | ~511 |
+| Together in Death | 3.00% | ~511 |
+| Burying the Past | 3.00% | ~511 |
+| The Past Shapes the Present | 3.00% | ~511 |
+| Altered Prospects | 3.00% | ~70 |
+| Honed to Perfection | 2.00% | ~341 |
+| Rune Novice | 2.00% | ~341 |
+| Comrades | 2.00% | ~341 |
+| Shared Triumph | 2.00% | ~341 |
+| Unwanted | 2.00% | ~341 |
+| Unbroken to the End | 2.00% | ~341 |
+| Wings of Grief | 2.00% | ~341 |
+| Judgement | 2.00% | ~341 |
+| Hunt's End | 2.00% | ~341 |
+| Essence of Death | 2.00% | ~341 |
+| Rune Master | 1.00% | ~170 |
+| Carving Out Victory | 1.00% | ~170 |
+| Utmost Insight | 1.00% | ~170 |
+| No Mercy | 1.00% | ~170 |
+| Twin Faces of Sin | 1.00% | ~170 |
+| The King is Dead | 1.00% | ~170 |
+| Fallen | 1.00% | ~170 |
+| Without Purpose | 1.00% | ~170 |
+| In Light we Walk | 1.00% | ~170 |
+| Seasoned | 1.00% | ~170 |
+| Antanas' Legacy | 0.80% | ~136 |
+| Wayfarer | 0.70% | ~119 |
+| Travels Resumed | 0.70% | ~119 |
+| Hero Worship | 0.70% | ~119 |
+| Salvation in Blood | 0.60% | ~102 |
+| Umbral Offerings | 0.60% | ~102 |
+| The Price of Knowledge | 0.50% | ~85 |
+| Moving On | 0.50% | ~85 |
+| A Shadow Dispelled | 0.50% | ~85 |
+| Faithful | 0.40% | ~68 |
+| A Queen's Rest | 0.40% | ~68 |
+| Vengeful Reflection | 0.40% | ~68 |
+| Radiant Adept | 0.30% | ~51 |
+| A Hunger Sated | 0.30% | ~51 |
+| Lord of the Risen | 0.30% | ~51 |
+| Back to the Void | 0.30% | ~51 |
+| What Sights Contained Within | 0.20% | ~34 |
+| Umbral Adept | 0.20% | ~34 |
+| Gesture Collector | 0.20% | ~34 |
+| Radiant Offerings | 0.20% | ~34 |
+| Part of the Divine | 0.20% | ~34 |
+| The Last Step | 0.20% | ~34 |
+| Weapon Collector | 0.10% | ~17 |
+| Ironclad | 0.10% | ~17 |
+| Trinket Collector | 0.10% | ~17 |
+| Ammunition Collector | 0.10% | ~17 |
+| Inferno Adept | 0.10% | ~17 |
+| Throwable Collector | 0.10% | ~17 |
+| Infernal Offerings | 0.10% | ~17 |
+| None Shall be Spared | 0.10% | ~17 |
+| Lord of the Fallen | 0.10% | ~17 |
+| Lingering Moments | 0.10% | ~17 |
+| A Trace of Venom | 0.10% | ~17 |
+| Fickle Fortune | 0.10% | ~2 |
+| Inefficient Medicine | 0.10% | ~2 |
+| Trail of the Dead | 0.10% | ~2 |
+| Making Do | 0.10% | ~2 |
+| Come What May | 0.10% | ~2 |
+| A Gruelling Journey | 0.10% | ~2 |
+| Lord of Slaughter | 0.10% | ~2 |
+| Indomitable | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,572 (Ranked 192)  
-Completed: 2 (0.01%) (Ranked 433)  
+Progressed: 17,028 (Ranked 203)  
+Completed: 6 (0.04%) (Ranked 439)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,6 +183,7 @@ Completed: 2 (0.01%) (Ranked 433)
 | 2024-02-22 | 14,820 | 2 |
 | 2024-03-21 | 15,317 | 2 |
 | 2024-04-10 | 15,572 | 2 |
+| 2024-06-17 | 17,028 | 6 |
 ## Awards
 Max (Character Customization): 972  (Ranked 187)  
 Sum: 2,679 (Ranked 216)  

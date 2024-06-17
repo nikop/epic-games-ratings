@@ -2,10 +2,10 @@
   "ID": "0ffb3b0800b947fc84a8734004467797",
   "Name": "Alice: Madness Returns\u2122",
   "ProductSlug": "alice-madness-returns-3f8717",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-02T20:00:00+00:00",
     "PcReleaseDate": "2011-06-05T21:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-04T05:00:46.6343852+00:00",
   "LastUpdate_AppInfo": "2024-06-14T01:48:40.5209032+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:52.9251811+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:34.8298986+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:27.6955256+00:00"
 }

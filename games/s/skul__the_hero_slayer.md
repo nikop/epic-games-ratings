@@ -6,33 +6,33 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~15,056 |
-| What should I buy? | 80.00% | ~12,951 |
-| Focus! | 61.00% | ~9,875 |
-| Rescued Elder Ent | 61.00% | ~9,875 |
-| The End of the Gold Mane Knights | 49.00% | ~7,933 |
-| False Goddess, Disappear | 41.00% | ~6,637 |
-| Rules of Etiquette | 39.00% | ~6,314 |
-| Inventory Management | 34.00% | ~5,504 |
-| The Fall of the Leonia Order | 33.00% | ~5,342 |
-| Quick Movements | 31.00% | ~5,019 |
-| Go Home... | 30.00% | ~4,857 |
-| The Final Battle of the First Hero | 29.00% | ~4,695 |
-| The Hero Killer | 27.00% | ~4,371 |
-| Brain at Full Throttle | 21.00% | ~3,400 |
-| Rookies Welcome | 18.00% | ~2,914 |
-| Deadly Power | 17.00% | ~2,752 |
-| Castle Restoration Plans | 14.00% | ~2,266 |
-| The Dwarven Chandelier | 12.00% | ~1,943 |
-| Master of Speed | 10.00% | ~1,619 |
-| The Levitator | 9.00% | ~1,457 |
-| The God of Battle | 5.00% | ~809 |
-| Too Much of a Talker | 1.00% | ~162 |
-| The Skeleton King | 1.00% | ~162 |
-| Cold-Blooded | 0.70% | ~113 |
+| The Legend Begins | 93.00% | ~15,945 |
+| What should I buy? | 80.00% | ~13,716 |
+| Focus! | 61.00% | ~10,458 |
+| Rescued Elder Ent | 61.00% | ~10,458 |
+| The End of the Gold Mane Knights | 49.00% | ~8,401 |
+| False Goddess, Disappear | 42.00% | ~7,201 |
+| Rules of Etiquette | 40.00% | ~6,858 |
+| Inventory Management | 34.00% | ~5,829 |
+| The Fall of the Leonia Order | 33.00% | ~5,658 |
+| Quick Movements | 32.00% | ~5,486 |
+| Go Home... | 31.00% | ~5,315 |
+| The Final Battle of the First Hero | 29.00% | ~4,972 |
+| The Hero Killer | 28.00% | ~4,801 |
+| Brain at Full Throttle | 21.00% | ~3,600 |
+| Deadly Power | 18.00% | ~3,086 |
+| Rookies Welcome | 17.00% | ~2,915 |
+| Castle Restoration Plans | 14.00% | ~2,400 |
+| The Dwarven Chandelier | 12.00% | ~2,057 |
+| Master of Speed | 10.00% | ~1,714 |
+| The Levitator | 9.00% | ~1,543 |
+| The God of Battle | 5.00% | ~857 |
+| Too Much of a Talker | 2.00% | ~343 |
+| The Skeleton King | 1.00% | ~171 |
+| Cold-Blooded | 0.60% | ~103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,189 (Ranked 190)  
-Completed: 26 (0.16%) (Ranked 337)  
+Progressed: 17,145 (Ranked 201)  
+Completed: 28 (0.16%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -296,6 +296,7 @@ Completed: 26 (0.16%) (Ranked 337)
 | 2024-02-22 | 15,450 | 24 |
 | 2024-03-21 | 15,883 | 25 |
 | 2024-04-10 | 16,189 | 26 |
+| 2024-06-17 | 17,145 | 28 |
 ## Awards
 Max (Great for Beginners): 203  (Ranked 341)  
 Sum: 1,203 (Ranked 288)  

@@ -4,34 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Collect 40 Woods | 75.00% | ~38 |
-| Adventurer I | 69.00% | ~35 |
-| Hire your first worker | 65.00% | ~33 |
-| 1k Coins | 61.00% | ~31 |
-| Defeat 10 monsters in a row | 51.00% | ~26 |
-| Hero I | 49.00% | ~25 |
-| 10k coins | 41.00% | ~21 |
-| Build a Boat and a Ship | 41.00% | ~21 |
-| Hero II | 37.00% | ~19 |
-| Engineer II | 29.00% | ~15 |
-| Chef I | 27.00% | ~14 |
-| Hero III | 25.00% | ~13 |
-| Engineer III | 25.00% | ~13 |
-| 100k coins | 24.00% | ~12 |
-| Hero IV | 20.00% | ~10 |
-| Engineer Master | 18.00% | ~9 |
-| Legendary Hero | 12.00% | ~6 |
-| 1M coins | 12.00% | ~6 |
-| Chef II | 12.00% | ~6 |
-| 500k coins | 10.00% | ~5 |
-| 10M coins | 10.00% | ~5 |
-| 100M coins | 10.00% | ~5 |
-| NobleMan | 10.00% | ~5 |
+| Collect 40 Woods | 80.00% | ~101 |
+| Adventurer I | 76.00% | ~96 |
+| Hire your first worker | 71.00% | ~89 |
+| 1k Coins | 67.00% | ~84 |
+| Defeat 10 monsters in a row | 56.00% | ~71 |
+| Hero I | 56.00% | ~71 |
+| Build a Boat and a Ship | 40.00% | ~50 |
+| 10k coins | 37.00% | ~47 |
+| Hero II | 32.00% | ~40 |
+| Engineer II | 29.00% | ~37 |
+| Chef I | 27.00% | ~34 |
+| Engineer III | 27.00% | ~34 |
+| Hero III | 21.00% | ~26 |
+| Engineer Master | 19.00% | ~24 |
+| 100k coins | 17.00% | ~21 |
+| Hero IV | 16.00% | ~20 |
+| 1M coins | 11.00% | ~14 |
+| Chef II | 11.00% | ~14 |
+| 500k coins | 10.00% | ~13 |
+| 10M coins | 10.00% | ~13 |
+| Legendary Hero | 9.00% | ~11 |
+| 100M coins | 9.00% | ~11 |
+| NobleMan | 7.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51 (Ranked 650)  
-Completed: 5 (9.80%) (Ranked 49)  
+Progressed: 126 (Ranked 600)  
+Completed: 8 (6.35%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 44 | 3 |
 | 2024-04-10 | 51 | 5 |
+| 2024-06-17 | 126 | 8 |

@@ -2,10 +2,10 @@
   "ID": "b0de0a1fbe94491f9405ee6f825f3dd9",
   "Name": "Immortal Life",
   "ProductSlug": "immortal-life-771430",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-21T00:00:00+00:00",
     "PcReleaseDate": "2024-01-18T07:00:00+00:00",
@@ -22,26 +22,610 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:15:43.5607565+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:15:43.5607597+00:00",
+  "TotalAchievements": 72,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BlueFoodType_30",
+      "SetID": "450i4e5",
+      "Name": "Gourmand",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BlueProductType_10",
+      "SetID": "450i4e5",
+      "Name": "Brewer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BlueToolType_1",
+      "SetID": "450i4e5",
+      "Name": "I\u0027m Cherishing It",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BlueToolType_3",
+      "SetID": "450i4e5",
+      "Name": "I Need More",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BlueToolType_5",
+      "SetID": "450i4e5",
+      "Name": "Thoroughly Tempered",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DecorationType_10",
+      "SetID": "450i4e5",
+      "Name": "Utterly Destitute",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DecorationType_30",
+      "SetID": "450i4e5",
+      "Name": "Nice \u0026 Warm",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DecorationType_50",
+      "SetID": "450i4e5",
+      "Name": "Fabulous Residence",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ElixirFireType_1",
+      "SetID": "450i4e5",
+      "Name": "Firestarter",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ElixirFireType_10",
+      "SetID": "450i4e5",
+      "Name": "Furnaceman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ElixirFireType_20",
+      "SetID": "450i4e5",
+      "Name": "Fire Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ElixirType_1",
+      "SetID": "450i4e5",
+      "Name": "Alchemist",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ElixirType_25",
+      "SetID": "450i4e5",
+      "Name": "Veteran Alchemist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ElixirType_50",
+      "SetID": "450i4e5",
+      "Name": "Master Alchemist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FashionType_10",
+      "SetID": "450i4e5",
+      "Name": "Plainly Dressed",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FashionType_30",
+      "SetID": "450i4e5",
+      "Name": "Elegantly Dressed",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FashionType_50",
+      "SetID": "450i4e5",
+      "Name": "Fashion Guy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FishType_1",
+      "SetID": "450i4e5",
+      "Name": "Fisherman",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FishType_20",
+      "SetID": "450i4e5",
+      "Name": "Veteran Fisherman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FishType_40",
+      "SetID": "450i4e5",
+      "Name": "Master Fisherman",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FoodType_1",
+      "SetID": "450i4e5",
+      "Name": "Kitchen Helper",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FoodType_20",
+      "SetID": "450i4e5",
+      "Name": "Cook",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FoodType_40",
+      "SetID": "450i4e5",
+      "Name": "Chef",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FoodType_60",
+      "SetID": "450i4e5",
+      "Name": "Gastronome",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GetMoney_10000",
+      "SetID": "450i4e5",
+      "Name": "One Small Goal",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "GetMoney_100000",
+      "SetID": "450i4e5",
+      "Name": "Ten Small Goals",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KillMonster_ID_1018",
+      "SetID": "450i4e5",
+      "Name": "Winding Path",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KillMonster_ID_1047",
+      "SetID": "450i4e5",
+      "Name": "Rain or Shine",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KillMonster_ID_1053",
+      "SetID": "450i4e5",
+      "Name": "Blooming Flowers",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KillMonster_ID_3011",
+      "SetID": "450i4e5",
+      "Name": "Sandstorm",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KillMonster_ID_3021",
+      "SetID": "450i4e5",
+      "Name": "The Sea Melting Into the Sky",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KillMonster_ID_3031",
+      "SetID": "450i4e5",
+      "Name": "The Noon Is Bright and Stars Are Few",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KillMonster_ID_3041",
+      "SetID": "450i4e5",
+      "Name": "Blazing Fire",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KillMonster_ID_3051",
+      "SetID": "450i4e5",
+      "Name": "Snow \u0026 Frost",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "KillMonster_ID_3061",
+      "SetID": "450i4e5",
+      "Name": "Thorns of Heaven \u0026 Earth",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LegendFishType_9",
+      "SetID": "450i4e5",
+      "Name": "Never Leave Empty-handed",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LuckyFishType_3",
+      "SetID": "450i4e5",
+      "Name": "Bait-Taker",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MagicPlant_6",
+      "SetID": "450i4e5",
+      "Name": "Legendary Famer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MonsterBall_1",
+      "SetID": "450i4e5",
+      "Name": "Hunter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MonsterBall_20",
+      "SetID": "450i4e5",
+      "Name": "Demon Hunter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MonsterBall_40",
+      "SetID": "450i4e5",
+      "Name": "Soul Hunter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MonsterBall_60",
+      "SetID": "450i4e5",
+      "Name": "Soul Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1001",
+      "SetID": "450i4e5",
+      "Name": "Mentor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1002",
+      "SetID": "450i4e5",
+      "Name": "Practice Makes Perfect",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1003",
+      "SetID": "450i4e5",
+      "Name": "Wanderer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1004",
+      "SetID": "450i4e5",
+      "Name": "Great Wealth",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1005",
+      "SetID": "450i4e5",
+      "Name": "Ingenuity \u0026 Originality",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1006",
+      "SetID": "450i4e5",
+      "Name": "Forging Ahead",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1007",
+      "SetID": "450i4e5",
+      "Name": "This is Life",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1008",
+      "SetID": "450i4e5",
+      "Name": "Outside The Box",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1009",
+      "SetID": "450i4e5",
+      "Name": "Well-organized",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1010",
+      "SetID": "450i4e5",
+      "Name": "Breadth of Mind",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1011",
+      "SetID": "450i4e5",
+      "Name": "Ingenious Workmanship",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPCFavourMax_ID_1012",
+      "SetID": "450i4e5",
+      "Name": "Healing Hands",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PlantType_10",
+      "SetID": "450i4e5",
+      "Name": "Ploughman",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "PlantType_20",
+      "SetID": "450i4e5",
+      "Name": "Tenant Farmer",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "PlantType_30",
+      "SetID": "450i4e5",
+      "Name": "Rich Farmer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ProductType_1",
+      "SetID": "450i4e5",
+      "Name": "Helper",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ProductType_10",
+      "SetID": "450i4e5",
+      "Name": "Assistant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ProductType_20",
+      "SetID": "450i4e5",
+      "Name": "Liquor Official",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QuestComplete_ID_10105",
+      "SetID": "450i4e5",
+      "Name": "All the Talents",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "QuestComplete_ID_10121",
+      "SetID": "450i4e5",
+      "Name": "Work As One",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "QuestComplete_ID_10133",
+      "SetID": "450i4e5",
+      "Name": "A Change for the Better",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "QuestComplete_ID_10151",
+      "SetID": "450i4e5",
+      "Name": "Honesty",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "QuestComplete_ID_10170",
+      "SetID": "450i4e5",
+      "Name": "Past \u0026 Future",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QuestComplete_ID_20040",
+      "SetID": "450i4e5",
+      "Name": "No Turning Back",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RarePlantType_10",
+      "SetID": "450i4e5",
+      "Name": "Peasant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RarePlantType_20",
+      "SetID": "450i4e5",
+      "Name": "Veteran Famer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RarePlantType_30",
+      "SetID": "450i4e5",
+      "Name": "Divine Famer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Skill_1",
+      "SetID": "450i4e5",
+      "Name": "Spell Learner",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Skill_15",
+      "SetID": "450i4e5",
+      "Name": "Spell Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Skill_7",
+      "SetID": "450i4e5",
+      "Name": "Spellcaster",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "450i4e5",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:11:54.6602326+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:42.2900664+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:43.560756+00:00",
   "LastUpdate_AppInfo": "2024-06-12T21:57:11.1754867+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:44.360665+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:42.2900692+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:28.8254995+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:43.5614952+00:00"
 }

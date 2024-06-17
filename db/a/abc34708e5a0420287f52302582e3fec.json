@@ -2,10 +2,10 @@
   "ID": "abc34708e5a0420287f52302582e3fec",
   "Name": "Boxes: Lost Fragments",
   "ProductSlug": "boxes-lost-fragments-079041",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 957,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-05T00:00:00+00:00",
     "PcReleaseDate": "2024-02-01T18:00:00+00:00",
@@ -24,18 +24,131 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:15:48.4616259+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:15:48.4616284+00:00",
+  "TotalAchievements": 12,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_CONQ",
+      "SetID": "3impl3o",
+      "Name": "Conqueror",
+      "Percentage": 100,
+      "XP": 150,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_FILM",
+      "SetID": "3impl3o",
+      "Name": "Filmmaker",
+      "Percentage": 50,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_GAME",
+      "SetID": "3impl3o",
+      "Name": "Game complete",
+      "Percentage": 50,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_LIGHTS",
+      "SetID": "3impl3o",
+      "Name": "Illuminate",
+      "Percentage": 50,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_MARK",
+      "SetID": "3impl3o",
+      "Name": "The Marksman",
+      "Percentage": 100,
+      "XP": 75,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_OCULUS",
+      "SetID": "3impl3o",
+      "Name": "Dimensions",
+      "Percentage": 50,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_PAINTING",
+      "SetID": "3impl3o",
+      "Name": "Hidden gems",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_PIG",
+      "SetID": "3impl3o",
+      "Name": "Fortune",
+      "Percentage": 100,
+      "XP": 75,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_ROBOT",
+      "SetID": "3impl3o",
+      "Name": "Aurora",
+      "Percentage": 50,
+      "XP": 150,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_SARC",
+      "SetID": "3impl3o",
+      "Name": "Sarcophagus",
+      "Percentage": 50,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_TEAM",
+      "SetID": "3impl3o",
+      "Name": "Teamwork",
+      "Percentage": 50,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_TOKEN",
+      "SetID": "3impl3o",
+      "Name": "Beginnings",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 2
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "3impl3o",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-04T21:59:42.0642407+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:15:48.4616283+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:48.4616255+00:00",
   "LastUpdate_AppInfo": "2024-06-14T02:57:15.2079255+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:57.4846286+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:45.0247547+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:40.4753785+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:48.4623348+00:00"
 }

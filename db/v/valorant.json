@@ -2,13 +2,13 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 7,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-06-02T18:52:01+00:00",
@@ -20651,10 +20651,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 856794,
       "NumberOfAwardsMax": 122816
+    },
+    {
+      "Time": "2024-06-17T15:58:54.4659683+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 857265,
+      "NumberOfAwardsMax": 122816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 856794,
+  "NumberOfAwards": 857265,
   "NumberOfAwardsMax": 122816,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -20668,7 +20674,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 95567
+      "Count": 95677
     },
     {
       "Text": "This game has Competitive Players",
@@ -20686,7 +20692,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 99796
+      "Count": 99920
     },
     {
       "Text": "This game has Amazing Characters",
@@ -20710,13 +20716,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 86065
+      "Count": 86181
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 92266
+      "Count": 92387
     }
   ],
   "EOS_Progressed": 0,
@@ -20730,8 +20736,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-06-17T14:00:22.0182758+00:00",
+  "LastChanged": "2024-06-17T15:58:54.4659681+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:48.7004458+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:22.0182765+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:27.6218645+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:54.4659688+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:13:30.2943207+00:00"
 }

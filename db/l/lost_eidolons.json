@@ -2,13 +2,13 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1082,
+  "EOS_Progressed": 1057,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -3127,6 +3127,11 @@
       "Time": "2024-04-10T06:02:59.2057577+00:00",
       "NumProgressed": 1082,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:10:44.937824+00:00",
+      "NumProgressed": 1057,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -3138,15 +3143,15 @@
       "Name": "Way of the King",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "02",
       "SetID": "73ikgfc",
       "Name": "Way of the Warlord",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 53
     },
     {
       "ID": "03",
@@ -3168,49 +3173,49 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 81,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 876
+      "UsersEstimate": 898
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 77,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 856
     },
     {
       "ID": "07",
       "SetID": "73ikgfc",
       "Name": "Monster Hunter",
-      "Percentage": 62,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 698
     },
     {
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 368
+      "UsersEstimate": 381
     },
     {
       "ID": "09",
       "SetID": "73ikgfc",
       "Name": "Awakening",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 307
     },
     {
       "ID": "10",
       "SetID": "73ikgfc",
       "Name": "Huntmaster",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 296
     },
     {
       "ID": "11",
@@ -3224,17 +3229,17 @@
       "ID": "12",
       "SetID": "73ikgfc",
       "Name": "First Bloom",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 21
     },
     {
       "ID": "13",
       "SetID": "73ikgfc",
       "Name": "Let Us Cling Together",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 32
     },
     {
       "ID": "14",
@@ -3242,15 +3247,15 @@
       "Name": "Til We Meet Again",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "15",
       "SetID": "73ikgfc",
       "Name": "Lean on Me",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "16",
@@ -3258,39 +3263,39 @@
       "Name": "A Promised Voyage",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "17",
       "SetID": "73ikgfc",
       "Name": "Ready to Learn",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 801
+      "UsersEstimate": 824
     },
     {
       "ID": "18",
       "SetID": "73ikgfc",
       "Name": "Earning Trust",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 649
+      "UsersEstimate": 676
     },
     {
       "ID": "19",
       "SetID": "73ikgfc",
       "Name": "Broken Oath",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 116
     },
     {
       "ID": "20",
       "SetID": "73ikgfc",
       "Name": "Digging Deep",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 190
     },
     {
       "ID": "21",
@@ -3298,30 +3303,30 @@
       "Name": "Arrow in the Wind",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "22",
       "SetID": "73ikgfc",
       "Name": "House Vulisica\u0027s Heirloom",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 190
     },
     {
       "ID": "23",
       "SetID": "73ikgfc",
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 243
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1082,
+      "Progressed": 1057,
       "Completed": 1
     }
   ],
@@ -3329,8 +3334,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:59.2057572+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:10:44.9378236+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:16.0585251+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:28.6649982+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:59.2057898+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:06.1226408+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:10:44.9378582+00:00"
 }

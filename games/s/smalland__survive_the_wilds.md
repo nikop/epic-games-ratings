@@ -1,26 +1,26 @@
 # Smalland: Survive the Wilds
 [Store](https://store.epicgames.com/en-US/p/smalland)  
 [View Rawdata](../../db/s/smalland__survive_the_wilds.json)  
-Rating: 4.55 (Ranked 563)  
+Rating: 4.55 (Ranked 564)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One VERY small step | 4.00% | ~869 |
-| Getting some shuteye | 3.00% | ~652 |
-| Safe! | 2.00% | ~435 |
-| Insect hunter | 2.00% | ~435 |
-| Stone Age | 2.00% | ~435 |
-| Forming bonds | 1.00% | ~217 |
-| Vertebrate hunter | 1.00% | ~217 |
-| Smooth as silk | 0.80% | ~174 |
-| Hang time | 0.50% | ~109 |
-| Mastermind | 0.50% | ~109 |
-| Metal Age | 0.50% | ~109 |
-| Something Wicked | 0.20% | ~43 |
-| The Key | 0.20% | ~43 |
+| One VERY small step | 4.00% | ~881 |
+| Safe! | 2.00% | ~440 |
+| Getting some shuteye | 2.00% | ~440 |
+| Insect hunter | 2.00% | ~440 |
+| Stone Age | 2.00% | ~440 |
+| Forming bonds | 1.00% | ~220 |
+| Vertebrate hunter | 1.00% | ~220 |
+| Smooth as silk | 0.80% | ~176 |
+| Mastermind | 0.50% | ~110 |
+| Metal Age | 0.50% | ~110 |
+| Hang time | 0.40% | ~88 |
+| Something Wicked | 0.20% | ~44 |
+| The Key | 0.20% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,732 (Ranked 170)  
-Completed: 18 (0.08%) (Ranked 371)  
+Progressed: 22,020 (Ranked 185)  
+Completed: 18 (0.08%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,6 +301,7 @@ Completed: 18 (0.08%) (Ranked 371)
 | 2024-02-22 | 21,538 | 18 |
 | 2024-03-21 | 21,691 | 18 |
 | 2024-04-10 | 21,732 | 18 |
+| 2024-06-17 | 22,020 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

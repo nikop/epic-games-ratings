@@ -5,35 +5,35 @@ Rating: 4.10 (Ranked 1,112)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 52.00% | ~2,057 |
-| Totally Intentional | 47.00% | ~1,859 |
-| Each Sold Separately | 39.00% | ~1,542 |
-| We're In | 34.00% | ~1,345 |
-| You're Not Naked | 30.00% | ~1,186 |
-| From Zeroes... | 30.00% | ~1,186 |
-| Tale in the Toilet | 30.00% | ~1,186 |
-| Don't Get Cocky | 28.00% | ~1,107 |
-| Shard Snatchers | 25.00% | ~989 |
-| You Rich Now! | 23.00% | ~910 |
-| Our Lucky Winner | 22.00% | ~870 |
-| You Poor Now! | 21.00% | ~831 |
-| You Got the Goods, Kid | 21.00% | ~831 |
-| The Shardmenstration | 20.00% | ~791 |
-| Those Were the Days... | 20.00% | ~791 |
-| ...To Heroes | 19.00% | ~751 |
-| Mas, Por Favor | 18.00% | ~712 |
-| And Still Champion... | 15.00% | ~593 |
-| Super Trusting Friend! | 10.00% | ~396 |
-| Hey, thanks! | 5.00% | ~198 |
-| Bring back the butt! | 4.00% | ~158 |
-| Murderous Mascot Mayhem | 3.00% | ~119 |
+| Who Needs Keys? | 52.00% | ~2,084 |
+| Totally Intentional | 47.00% | ~1,883 |
+| Each Sold Separately | 39.00% | ~1,563 |
+| We're In | 34.00% | ~1,362 |
+| You're Not Naked | 30.00% | ~1,202 |
+| From Zeroes... | 30.00% | ~1,202 |
+| Tale in the Toilet | 30.00% | ~1,202 |
+| Don't Get Cocky | 28.00% | ~1,122 |
+| Shard Snatchers | 25.00% | ~1,002 |
+| You Rich Now! | 23.00% | ~922 |
+| Our Lucky Winner | 22.00% | ~882 |
+| You Poor Now! | 21.00% | ~841 |
+| You Got the Goods, Kid | 21.00% | ~841 |
+| The Shardmenstration | 20.00% | ~801 |
+| Those Were the Days... | 20.00% | ~801 |
+| ...To Heroes | 19.00% | ~761 |
+| Mas, Por Favor | 18.00% | ~721 |
+| And Still Champion... | 15.00% | ~601 |
+| Super Trusting Friend! | 10.00% | ~401 |
+| Hey, thanks! | 5.00% | ~200 |
+| Bring back the butt! | 4.00% | ~160 |
+| Murderous Mascot Mayhem | 3.00% | ~120 |
 | New Business | 0.90% | ~36 |
-| Okay, Vain Much? | 0.60% | ~24 |
+| Okay, Vain Much? | 0.50% | ~20 |
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,955 (Ranked 248)  
-Completed: 1 (0.03%) (Ranked 405)  
+Progressed: 4,007 (Ranked 273)  
+Completed: 1 (0.02%) (Ranked 468)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,6 +244,7 @@ Completed: 1 (0.03%) (Ranked 405)
 | 2024-03-04 | 3,875 | 0 |
 | 2024-03-21 | 3,888 | 0 |
 | 2024-04-10 | 3,955 | 1 |
+| 2024-06-17 | 4,007 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

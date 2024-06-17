@@ -2,10 +2,10 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Completed": 128,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 284,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.97,
+  "EOS_Completed_Percentage": 3.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -1121,6 +1121,11 @@
       "Time": "2024-04-10T06:02:20.3816263+00:00",
       "NumProgressed": 277,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-06-17T16:09:29.6531744+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 17,
@@ -1130,97 +1135,97 @@
       "ID": "0",
       "SetID": "acl54ke",
       "Name": "Solved first case",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 88
     },
     {
       "ID": "1",
       "SetID": "acl54ke",
       "Name": "Solved second case",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 80
+      "UsersEstimate": 88
     },
     {
       "ID": "10",
       "SetID": "acl54ke",
       "Name": "Solved eleventh case",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 71
     },
     {
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 51
     },
     {
       "ID": "4",
       "SetID": "acl54ke",
       "Name": "Solved fifth case",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 37
     },
     {
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "7",
       "SetID": "acl54ke",
       "Name": "Solved eighth case",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 40
     },
     {
       "ID": "8",
       "SetID": "acl54ke",
       "Name": "Solved ninth case",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 28
     },
     {
       "ID": "9",
       "SetID": "acl54ke",
       "Name": "Solved tenth case",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "11",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 1st Case",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "12",
@@ -1236,7 +1241,7 @@
       "Name": "Solved The Spider of Lanka 3rd Case",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "14",
@@ -1244,7 +1249,7 @@
       "Name": "Solved the Lemurian Vampire 1st Case",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "15",
@@ -1252,7 +1257,7 @@
       "Name": "Solved the Lemurian Vampire 2nd Case",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "16",
@@ -1267,13 +1272,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 284,
       "Completed": 11
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 224,
+      "Progressed": 231,
       "Completed": 110
     }
   ],
@@ -1281,8 +1286,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:20.3816258+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:09:29.6531742+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:26.8005074+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:29.0765963+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:20.3816483+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:53.4551461+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:29.6531881+00:00"
 }

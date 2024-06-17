@@ -2,10 +2,10 @@
   "ID": "7d8459956d774d788532fd472b437df8",
   "Name": "Bunny Park",
   "ProductSlug": "bunny-park-835c4c",
-  "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 498,
+  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-01-14T12:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 325,
-  "EOS_Completed": 10,
+  "EOS_Progressed": 329,
+  "EOS_Completed": 11,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.08,
+  "EOS_Completed_Percentage": 3.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -265,6 +265,11 @@
       "Time": "2024-04-10T06:05:25.4719854+00:00",
       "NumProgressed": 325,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-06-17T16:15:17.9077097+00:00",
+      "NumProgressed": 329,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 18,
@@ -276,15 +281,15 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 315
+      "UsersEstimate": 319
     },
     {
       "ID": "BP-02",
       "SetID": "7fc93f2",
       "Name": "Bunny Party",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "BP-03",
@@ -300,15 +305,15 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 276
     },
     {
       "ID": "BP-05",
       "SetID": "7fc93f2",
       "Name": "Debris Gatherer",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 201
     },
     {
       "ID": "BP-06",
@@ -316,7 +321,7 @@
       "Name": "Debris Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "BP-07",
@@ -324,7 +329,7 @@
       "Name": "Beginner Decorator",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 164
     },
     {
       "ID": "BP-08",
@@ -332,7 +337,7 @@
       "Name": "Stylish Decorator",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "BP-09",
@@ -340,15 +345,15 @@
       "Name": "Ace Decorator",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "BP-10",
       "SetID": "7fc93f2",
       "Name": "Bunny Cuddles",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "BP-11",
@@ -364,23 +369,23 @@
       "Name": "Cozy Autumn",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "BP-13",
       "SetID": "7fc93f2",
       "Name": "Winter Wonderland",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "BP-14",
       "SetID": "7fc93f2",
       "Name": "Spring Blossom",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "BP-15",
@@ -388,7 +393,7 @@
       "Name": "Helpful Bot-terfly",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "BP-16",
@@ -396,7 +401,7 @@
       "Name": "Pom Pom",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "BP-17",
@@ -419,16 +424,16 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 325,
-      "Completed": 10
+      "Progressed": 329,
+      "Completed": 11
     }
   ],
   "FirstSeen": "2022-09-30T19:33:06.0814746+00:00",
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:25.4719848+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:17.9077094+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:32.256224+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:01:09.5600745+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:25.4719977+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:55.5705791+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:17.9077196+00:00"
 }

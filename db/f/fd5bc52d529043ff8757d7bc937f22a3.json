@@ -2,10 +2,10 @@
   "ID": "fd5bc52d529043ff8757d7bc937f22a3",
   "Name": "Maze OF Disorder",
   "ProductSlug": "maze-of-disorder-4f23a0",
-  "Ranking_EOS_Progress": 855,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 903,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-10T06:00:00+00:00",
     "PcReleaseDate": "2024-04-10T06:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -31,6 +31,11 @@
     {
       "Time": "2024-04-10T06:01:53.5215547+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:08:36.5640752+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -83,13 +88,13 @@
     {
       "ID": "47n2he9",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:01:53.5215616+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:01:53.521554+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:36.5640748+00:00",
   "LastUpdate_AppInfo": "2024-06-14T07:56:58.5558115+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:21.6405553+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:01:53.5225127+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:49.4900089+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:36.564084+00:00"
 }

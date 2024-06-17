@@ -2,10 +2,10 @@
   "ID": "4d7b7a63e2f4443bb29486d8f4db941b",
   "Name": "Lysfanga: The Time Shift Warrior",
   "ProductSlug": "lysfanga-9608f2",
-  "Ranking_EOS_Progress": 594,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 653,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-13T15:00:00+00:00",
     "PcReleaseDate": "2024-02-13T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-04-10T06:06:02.4501143+00:00",
       "NumProgressed": 84,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:16:20.8244043+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:42.4571292+00:00",
@@ -54,17 +59,17 @@
       "ID": "ACH_SIDE_001",
       "SetID": "bh57elp",
       "Name": "Mote of Magic",
-      "Percentage": 90,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_SIDE_002",
       "SetID": "bh57elp",
       "Name": "Motes of Magic Fan",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_SIDE_003",
@@ -72,15 +77,15 @@
       "Name": "Motes of Magic Buff",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SIDE_004",
       "SetID": "bh57elp",
       "Name": "Motes of Magic Aficionado",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SIDE_005",
@@ -96,7 +101,7 @@
       "Name": "Back to School",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SIDE_012",
@@ -104,13 +109,13 @@
       "Name": "Mage",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SIDE_013",
       "SetID": "bh57elp",
       "Name": "Archmage",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -118,25 +123,25 @@
       "ID": "ACH_SIDE_021",
       "SetID": "bh57elp",
       "Name": "Runesmith",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_SIDE_022",
       "SetID": "bh57elp",
       "Name": "Runic Adept",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_SIDE_023",
       "SetID": "bh57elp",
       "Name": "Runemaster",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SIDE_031",
@@ -144,7 +149,7 @@
       "Name": "Change of Style",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SIDE_032",
@@ -158,9 +163,9 @@
       "ID": "ACH_SIDE_041",
       "SetID": "bh57elp",
       "Name": "Artistic Incline",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_SIDE_042",
@@ -174,15 +179,15 @@
       "ID": "ACH_SIDE_051",
       "SetID": "bh57elp",
       "Name": "The Codex",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_SIDE_055",
       "SetID": "bh57elp",
       "Name": "Encyclopedia",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -190,17 +195,17 @@
       "ID": "ACH_SIDE_061",
       "SetID": "bh57elp",
       "Name": "Shard of power",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_SIDE_062",
       "SetID": "bh57elp",
       "Name": "Remnant crafting",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_SIDE_063",
@@ -214,9 +219,9 @@
       "ID": "ACH_SIDE_101",
       "SetID": "bh57elp",
       "Name": "Speedy Fight",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_SIDE_102",
@@ -230,7 +235,7 @@
       "ID": "ACH_SIDE_103",
       "SetID": "bh57elp",
       "Name": "Speedy Tour of Balara",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -262,9 +267,9 @@
       "ID": "ACH_SIDE_111",
       "SetID": "bh57elp",
       "Name": "Memories Fought: 1",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_SIDE_112",
@@ -286,7 +291,7 @@
       "ID": "ACH_SIDE_131",
       "SetID": "bh57elp",
       "Name": "Memory Master: 1",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -310,7 +315,7 @@
       "ID": "ACH_SIDE_141",
       "SetID": "bh57elp",
       "Name": "Challenging Memories: 1",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -374,65 +379,65 @@
       "ID": "ACH_STORY_01",
       "SetID": "bh57elp",
       "Name": "Welcome to Mayura",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_STORY_02",
       "SetID": "bh57elp",
       "Name": "Me, me, and... me!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_STORY_03",
       "SetID": "bh57elp",
       "Name": "Lost Brother",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_STORY_04",
       "SetID": "bh57elp",
       "Name": "Power of the Goddess",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_STORY_11",
       "SetID": "bh57elp",
       "Name": "The High City",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_STORY_12",
       "SetID": "bh57elp",
       "Name": "The Stranger",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_STORY_13",
       "SetID": "bh57elp",
       "Name": "Sacred Weapons",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_STORY_14",
       "SetID": "bh57elp",
       "Name": "Family Reunion",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_STORY_21",
@@ -440,23 +445,23 @@
       "Name": "Welcome to Balara",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_STORY_22",
       "SetID": "bh57elp",
       "Name": "Champion of the Coliseum",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_STORY_23",
       "SetID": "bh57elp",
       "Name": "Tainted Weapon",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_STORY_23a",
@@ -464,77 +469,77 @@
       "Name": "History of Meddling",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_STORY_24",
       "SetID": "bh57elp",
       "Name": "Freedom",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_STORY_31",
       "SetID": "bh57elp",
       "Name": "Welcome to N\u00E4galora",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_STORY_32",
       "SetID": "bh57elp",
       "Name": "Satisfying Serpentine Friend",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_STORY_33",
       "SetID": "bh57elp",
       "Name": "Temple Raider",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_STORY_34",
       "SetID": "bh57elp",
       "Name": "Secrets of the Calamity",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_STORY_35",
       "SetID": "bh57elp",
       "Name": "Big Bad Boss",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_STORY_41",
       "SetID": "bh57elp",
       "Name": "End of the Line",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_STORY_42",
       "SetID": "bh57elp",
       "Name": "Fall of the God-King",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_STORY_51",
       "SetID": "bh57elp",
       "Name": "Visions of the Past",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -542,7 +547,7 @@
       "ID": "ACH_STORY_52",
       "SetID": "bh57elp",
       "Name": "Remembered Conflict",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -550,7 +555,7 @@
       "ID": "ACH_STORY_53",
       "SetID": "bh57elp",
       "Name": "Duty of Memory",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 3
     }
@@ -559,14 +564,14 @@
     {
       "ID": "bh57elp",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 87,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-15T03:58:04.4668239+00:00",
   "FirstSeenAchievements": "2023-07-16T17:04:11.7793699+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:02.4501138+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:16:20.8244038+00:00",
   "LastUpdate_AppInfo": "2024-06-15T02:23:53.5501059+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:48.1975654+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:02.4501577+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:37.5784674+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:16:20.82446+00:00"
 }

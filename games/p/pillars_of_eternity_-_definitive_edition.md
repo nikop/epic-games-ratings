@@ -6,44 +6,44 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 85.00% | ~910 |
-| Completed Act I | 32.00% | ~342 |
-| 5 Upgrades in Stronghold | 27.00% | ~289 |
-| First 5 Levels of Od Nua | 26.00% | ~278 |
-| Make an Adventurer | 24.00% | ~257 |
-| Completed Act II | 17.00% | ~182 |
-| Enchanter | 16.00% | ~171 |
-| Disposition | 16.00% | ~171 |
-| Super Murderer | 15.00% | ~160 |
-| All Upgrades in Stronghold | 15.00% | ~160 |
-| The Watcher With Eight Friends | 15.00% | ~160 |
-| Middle 5 Levels of Od Nua | 15.00% | ~160 |
-| Soulbinder | 14.00% | ~150 |
-| The Heir of Caed Nua | 13.00% | ~139 |
-| Last 5 Levels of Od Nua | 13.00% | ~139 |
-| Bounty Hunter | 11.00% | ~118 |
-| The Giftbearer | 11.00% | ~118 |
-| Trappy | 10.00% | ~107 |
-| Watcher at the Breach | 10.00% | ~107 |
-| Herald of the Old Flame | 9.00% | ~96 |
-| Completed Act III | 8.00% | ~86 |
-| Fish Guts and Murder | 8.00% | ~86 |
-| Alchemist | 7.00% | ~75 |
-| A Voice from the Deep | 7.00% | ~75 |
-| The Siege of Crägholdt | 7.00% | ~75 |
+| Kickstarter Backer | 86.00% | ~912 |
+| Completed Act I | 32.00% | ~340 |
+| 5 Upgrades in Stronghold | 28.00% | ~297 |
+| First 5 Levels of Od Nua | 26.00% | ~276 |
+| Make an Adventurer | 24.00% | ~255 |
+| Completed Act II | 17.00% | ~180 |
+| Enchanter | 16.00% | ~170 |
+| Disposition | 16.00% | ~170 |
+| Middle 5 Levels of Od Nua | 16.00% | ~170 |
+| Super Murderer | 15.00% | ~159 |
+| All Upgrades in Stronghold | 15.00% | ~159 |
+| The Watcher With Eight Friends | 15.00% | ~159 |
+| The Heir of Caed Nua | 14.00% | ~149 |
+| Soulbinder | 14.00% | ~149 |
+| Last 5 Levels of Od Nua | 13.00% | ~138 |
+| Bounty Hunter | 11.00% | ~117 |
+| The Giftbearer | 11.00% | ~117 |
+| Trappy | 10.00% | ~106 |
+| Herald of the Old Flame | 10.00% | ~106 |
+| Watcher at the Breach | 10.00% | ~106 |
+| Completed Act III | 8.00% | ~85 |
+| Alchemist | 8.00% | ~85 |
+| Fish Guts and Murder | 8.00% | ~85 |
+| A Voice from the Deep | 7.00% | ~74 |
+| The Siege of Crägholdt | 7.00% | ~74 |
 | Explorer | 6.00% | ~64 |
 | Called to their Labor | 6.00% | ~64 |
-| Chef | 5.00% | ~54 |
-| Scribe | 5.00% | ~54 |
-| From the Clouds to the Depths | 5.00% | ~54 |
-| Appease All of the Gods | 5.00% | ~54 |
-| Terror of the White March | 5.00% | ~54 |
-| The Storied Adventurer | 4.00% | ~43 |
+| Chef | 5.00% | ~53 |
+| Scribe | 5.00% | ~53 |
+| From the Clouds to the Depths | 5.00% | ~53 |
+| Appease All of the Gods | 5.00% | ~53 |
+| Terror of the White March | 5.00% | ~53 |
+| The Storied Adventurer | 4.00% | ~42 |
 | Won the Game!!! | 3.00% | ~32 |
 | Among the Moss and Peat | 2.00% | ~21 |
 | Legendary Enchanter | 1.00% | ~11 |
 | Path of the Damned | 0.70% | ~7 |
-| Expert | 0.60% | ~6 |
+| Expert | 0.70% | ~7 |
 | Solo | 0.60% | ~6 |
 | Triple Crown | 0.60% | ~6 |
 | Trial of Iron | 0.60% | ~6 |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,070 (Ranked 340)  
-Completed: 2 (0.19%) (Ranked 325)  
+Progressed: 1,061 (Ranked 379)  
+Completed: 2 (0.19%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,6 +122,7 @@ Completed: 2 (0.19%) (Ranked 325)
 | 2024-01-18 | 1,073 | 2 |
 | 2024-03-21 | 1,072 | 2 |
 | 2024-04-10 | 1,070 | 2 |
+| 2024-06-17 | 1,061 | 2 |
 ## Awards
 Max (Character Customization): 2,009  (Ranked 132)  
 Sum: 4,993 (Ranked 161)  

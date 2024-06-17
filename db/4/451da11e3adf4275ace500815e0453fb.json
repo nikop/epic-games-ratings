@@ -2,10 +2,10 @@
   "ID": "451da11e3adf4275ace500815e0453fb",
   "Name": "Summer\u0027s Gone",
   "ProductSlug": "summers-gone-c1ec51",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-05-10T16:00:00+00:00",
@@ -25,18 +25,387 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:18:16.3191557+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:18:16.3191595+00:00",
+  "TotalAchievements": 44,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ANightInTheDesert",
+      "SetID": "i88g5a",
+      "Name": "A Night in the Desert",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARaceWith",
+      "SetID": "i88g5a",
+      "Name": "A race with impossible odds",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AmberMarla",
+      "SetID": "i88g5a",
+      "Name": "Looking out for the elders.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Awkward4",
+      "SetID": "i88g5a",
+      "Name": "1...2...3...4... Kiss.",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BellaGymA",
+      "SetID": "i88g5a",
+      "Name": "Gym with Bella.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BellaHeist",
+      "SetID": "i88g5a",
+      "Name": "Nightly Adventures with Bella",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BellaSave",
+      "SetID": "i88g5a",
+      "Name": "Bella darling, free me!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CH1Finished",
+      "SetID": "i88g5a",
+      "Name": "Chapter 1!",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Chapter2Done",
+      "SetID": "i88g5a",
+      "Name": "Finished Chapter 2",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter4x5Finished",
+      "SetID": "i88g5a",
+      "Name": "Finish Chapter 4x5.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DoubleAgent",
+      "SetID": "i88g5a",
+      "Name": "A Dangerous game.",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Equality",
+      "SetID": "i88g5a",
+      "Name": "E for Equality",
+      "Percentage": 100,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FinishCh3x5",
+      "SetID": "i88g5a",
+      "Name": "Finished Chapter 3x5",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishChapter4",
+      "SetID": "i88g5a",
+      "Name": "Finish Chapter 4",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishedCH3",
+      "SetID": "i88g5a",
+      "Name": "Finish Chapter 3",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishedSeason1",
+      "SetID": "i88g5a",
+      "Name": "Finish Season 1",
+      "Percentage": 0,
+      "XP": 175,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GymAloneA",
+      "SetID": "i88g5a",
+      "Name": "Workout with Robin and Sasha",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GymBros",
+      "SetID": "i88g5a",
+      "Name": "Gym Bros",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Homesickness",
+      "SetID": "i88g5a",
+      "Name": "Homesickness",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KissBellchen",
+      "SetID": "i88g5a",
+      "Name": "One hell of a team.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KissMila",
+      "SetID": "i88g5a",
+      "Name": "Kiss Mila.",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MajaFavor",
+      "SetID": "i88g5a",
+      "Name": "A favor from Maja.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MeetClaire",
+      "SetID": "i88g5a",
+      "Name": "Doctor Claire",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MilaDatePlan",
+      "SetID": "i88g5a",
+      "Name": "Date with Mila",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MilaGymA",
+      "SetID": "i88g5a",
+      "Name": "Gym with Mila.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NadiaFavor",
+      "SetID": "i88g5a",
+      "Name": "Nadia\u0027s debt.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NiaBesuch",
+      "SetID": "i88g5a",
+      "Name": "Visit Nia in Chapter 5.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NiaDateA",
+      "SetID": "i88g5a",
+      "Name": "A date with Nia.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoraSave",
+      "SetID": "i88g5a",
+      "Name": "Look Miri! We\u0027re prisoners!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NotSoDifferent",
+      "SetID": "i88g5a",
+      "Name": "We aren\u0027t so different.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Perception",
+      "SetID": "i88g5a",
+      "Name": "More than just friends?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PumpingCheeto",
+      "SetID": "i88g5a",
+      "Name": "Pumping Cheeto",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PunchPrefect",
+      "SetID": "i88g5a",
+      "Name": "The prefect.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RobinFavorA",
+      "SetID": "i88g5a",
+      "Name": "A favor from Robin.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RobinRumor",
+      "SetID": "i88g5a",
+      "Name": "The rumor with Robin.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SitWithSasha",
+      "SetID": "i88g5a",
+      "Name": "Sasha and the butterfly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TabletopA",
+      "SetID": "i88g5a",
+      "Name": "Tabletop",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheCursen",
+      "SetID": "i88g5a",
+      "Name": "The Cursen",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ThePromise",
+      "SetID": "i88g5a",
+      "Name": "The Promise",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TheWiggly",
+      "SetID": "i88g5a",
+      "Name": "The Wiggly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VicDatePlan",
+      "SetID": "i88g5a",
+      "Name": "Date with Victoria",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WatchingStarsMila",
+      "SetID": "i88g5a",
+      "Name": "Watching the stars with Mila.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WatchingStarsNami",
+      "SetID": "i88g5a",
+      "Name": "Watching the stars with Nami.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WatchingStarsVic",
+      "SetID": "i88g5a",
+      "Name": "Watching the stars with Victoria.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "i88g5a",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-05T23:57:55.5152398+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:18:16.3191594+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:18:16.3191552+00:00",
   "LastUpdate_AppInfo": "2024-06-10T21:57:15.331216+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:31.3137997+00:00",
-  "LastUpdate_Achievements": "2024-05-13T20:05:19.4127611+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:58.5070784+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:18:16.3199123+00:00"
 }

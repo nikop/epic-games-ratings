@@ -2,10 +2,10 @@
   "ID": "0113dd49216f4f2d995ef9a6eebd67f4",
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
-  "Ranking_EOS_Progress": 448,
-  "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 328,
+  "EOS_Progressed": 370,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-08-10T08:00:42.4575271+00:00",
@@ -1319,6 +1319,11 @@
       "Time": "2024-04-10T06:04:47.0928935+00:00",
       "NumProgressed": 328,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:14:06.1937968+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1329,9 +1334,9 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -1339,7 +1344,7 @@
       "Name": "Across The Styx",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 74
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1347,15 +1352,15 @@
       "Name": "Against All Odds",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1363,13 +1368,13 @@
       "Name": "Arrow Of Eros Undone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_BRANDNEWCHORUS",
       "SetID": "bj5g0n4",
       "Name": "Brand New Chorus",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -1377,9 +1382,9 @@
       "ID": "SG_BRAVEONTIME",
       "SetID": "bj5g0n4",
       "Name": "Brave On Time",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_CHARISMATIC",
@@ -1387,7 +1392,7 @@
       "Name": "Charismatic",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "SG_CUNNING",
@@ -1395,15 +1400,15 @@
       "Name": "Cunning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 274
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1411,39 +1416,39 @@
       "Name": "Everything Has Changed",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "SG_FIERY",
       "SetID": "bj5g0n4",
       "Name": "Fiery",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -1451,7 +1456,7 @@
       "Name": "Lost In A Song",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "SG_MAESTRO",
@@ -1465,33 +1470,33 @@
       "ID": "SG_MEANTTOBE",
       "SetID": "bj5g0n4",
       "Name": "Meant To Be",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "SG_MYTIMETOSHINE",
       "SetID": "bj5g0n4",
       "Name": "My Time To Shine",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 67
     },
     {
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 45,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 155
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
       "SetID": "bj5g0n4",
       "Name": "Not Taking Any Chances",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "SG_QUEENWITHOUTATHRONE",
@@ -1499,7 +1504,7 @@
       "Name": "Queen Without A Throne",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "SG_SAYINGGOODBYE",
@@ -1507,7 +1512,7 @@
       "Name": "Saying Goodbye",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -1515,7 +1520,7 @@
       "Name": "Share This Dance",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SG_SNAKECHARMER",
@@ -1523,7 +1528,7 @@
       "Name": "Snake Charmer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -1539,29 +1544,29 @@
       "Name": "The Answer Is You",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_THECHOICEISYOURS",
       "SetID": "bj5g0n4",
       "Name": "The Choice Is Yours",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "SG_THEHIGHROAD",
       "SetID": "bj5g0n4",
       "Name": "The High Road",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -1577,9 +1582,9 @@
       "ID": "SG_THEMUSESENCORE",
       "SetID": "bj5g0n4",
       "Name": "The Muse\u2019s Encore",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "SG_THEQUEENOFTHEDEAD",
@@ -1587,13 +1592,13 @@
       "Name": "The Queen Of The Dead",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "SG_THEULTIMATESACRIFICE",
       "SetID": "bj5g0n4",
       "Name": "The Ultimate Sacrifice",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 30
     },
@@ -1603,7 +1608,7 @@
       "Name": "This Hell Is Mine",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_TOGETHERVICTORIOUS",
@@ -1611,29 +1616,35 @@
       "Name": "Together, Victorious",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SG_VIRTUOSO",
       "SetID": "bj5g0n4",
       "Name": "Virtuoso",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 328,
+      "Progressed": 370,
       "Completed": 1
+    },
+    {
+      "ID": "7dpj0in",
+      "IsBase": false,
+      "Progressed": 36,
+      "Completed": 36
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:47.0928929+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:14:06.1937964+00:00",
   "LastUpdate_AppInfo": "2024-06-14T07:56:58.361712+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:11.8174209+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:47.0929176+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:28.2050221+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:06.1938247+00:00"
 }

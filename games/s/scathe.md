@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 3.00% | ~30 |
-| Half a Life | 2.00% | ~20 |
-| Shock to the System | 2.00% | ~20 |
-| Bad Blood | 1.00% | ~10 |
-| Serious Bam | 0.80% | ~8 |
-| Doomed | 0.50% | ~5 |
-| Postal Service | 0.50% | ~5 |
-| Unreal | 0.50% | ~5 |
-| Bloodstorm | 0.40% | ~4 |
-| Pacifantastic | 0.40% | ~4 |
-| SCATHE Too | 0.40% | ~4 |
-| Amaging Work | 0.30% | ~3 |
-| ...And I'm All Out Of Gun | 0.30% | ~3 |
-| Castle Of The Wolf | 0.30% | ~3 |
-| Nuke Them All | 0.30% | ~3 |
-| Purely Not | 0.30% | ~3 |
-| Quakin' | 0.30% | ~3 |
-| Rune Escape | 0.30% | ~3 |
-| Shocking Bio | 0.30% | ~3 |
-| Such Sin | 0.30% | ~3 |
+| First Blood | 3.00% | ~37 |
+| Half a Life | 2.00% | ~24 |
+| Bad Blood | 1.00% | ~12 |
+| Shock to the System | 1.00% | ~12 |
+| Serious Bam | 0.70% | ~9 |
+| Postal Service | 0.50% | ~6 |
+| Doomed | 0.40% | ~5 |
+| Unreal | 0.40% | ~5 |
+| Amaging Work | 0.30% | ~4 |
+| ...And I'm All Out Of Gun | 0.30% | ~4 |
+| Bloodstorm | 0.30% | ~4 |
+| Nuke Them All | 0.30% | ~4 |
+| Pacifantastic | 0.30% | ~4 |
+| Rune Escape | 0.30% | ~4 |
+| SCATHE Too | 0.30% | ~4 |
+| Castle Of The Wolf | 0.20% | ~2 |
 | Gears of Door | 0.20% | ~2 |
 | Ice Work | 0.20% | ~2 |
+| Purely Not | 0.20% | ~2 |
+| Quakin' | 0.20% | ~2 |
+| Shocking Bio | 0.20% | ~2 |
 | Slaving Grace | 0.20% | ~2 |
+| Such Sin | 0.20% | ~2 |
 | Takin' Names | 0.20% | ~2 |
 | The Kingpin | 0.20% | ~2 |
 | Unreal 4 | 0.20% | ~2 |
@@ -35,8 +35,8 @@
 | Rage Quit | 0.10% | ~1 |
 | Until Dusk | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,008 (Ranked 349)  
-Completed: 1 (0.10%) (Ranked 361)  
+Progressed: 1,220 (Ranked 369)  
+Completed: 1 (0.08%) (Ranked 410)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,6 +235,7 @@ Completed: 1 (0.10%) (Ranked 361)
 | 2024-02-22 | 786 | 1 |
 | 2024-03-21 | 885 | 1 |
 | 2024-04-10 | 1,008 | 1 |
+| 2024-06-17 | 1,220 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

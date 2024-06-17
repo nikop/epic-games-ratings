@@ -5,10 +5,10 @@
   "Ranking_Rating": 499,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 433,
-  "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 439,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-12T17:00:00+00:00",
     "PcReleaseDate": "2024-02-12T17:00:00+00:00",
@@ -776,11 +776,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1926,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 2253,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:05:33.9545863+00:00",
@@ -791,6 +791,11 @@
       "Time": "2024-04-10T06:02:03.7392614+00:00",
       "NumProgressed": 1926,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:08:57.0881181+00:00",
+      "NumProgressed": 2253,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-03-21T17:05:33.9545918+00:00",
@@ -809,65 +814,65 @@
       "ID": "ACH_ASCEND",
       "SetID": "628iiaa",
       "Name": "Farewell my love",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_AUL_SAUL",
       "SetID": "628iiaa",
       "Name": "Old moss-head",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_BANISH",
       "SetID": "628iiaa",
       "Name": "Banishing Move",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_BEAST",
       "SetID": "628iiaa",
       "Name": "No more Beast",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_BLAST",
       "SetID": "628iiaa",
       "Name": "Outburst",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_CALENDRE",
       "SetID": "628iiaa",
       "Name": "Nazuku no more",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_COLLECTIBLE",
       "SetID": "628iiaa",
       "Name": "Bookworm",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_CURRENCY",
       "SetID": "628iiaa",
       "Name": "Round Figure",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_CURSED_CHEST",
@@ -875,71 +880,71 @@
       "Name": "Cursed Locksmith",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_DESTRUCTIBLES",
       "SetID": "628iiaa",
       "Name": "Demolition Man",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_DUNGEON",
       "SetID": "628iiaa",
       "Name": "Raider",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_ENTITY",
       "SetID": "628iiaa",
       "Name": "Injustice For All",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_FIRST_PACT",
       "SetID": "628iiaa",
       "Name": "A Promise made",
-      "Percentage": 13,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_FREEZE",
       "SetID": "628iiaa",
       "Name": "Until a cure is found",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_FULL_EQUIPMENT",
       "SetID": "628iiaa",
       "Name": "Catch \u0027Em All",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_FULL_ITEM_RANK7",
       "SetID": "628iiaa",
       "Name": "Bring it on!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_ITEM_RANK7",
       "SetID": "628iiaa",
       "Name": "A Perfect Tool",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH_LEVEL_MAX",
@@ -947,215 +952,215 @@
       "Name": "Full Potency",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_LOCKED_CHEST",
       "SetID": "628iiaa",
       "Name": "Locksmith",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_MANOR",
       "SetID": "628iiaa",
       "Name": "Hidden Door",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_MAX_ESSENCES",
       "SetID": "628iiaa",
       "Name": "Cases Closed",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_MKC_HASKELL",
       "SetID": "628iiaa",
       "Name": "Judged Jury",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_MKC_PENNINGTON",
       "SetID": "628iiaa",
       "Name": "Burden of Command",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_MKC_THICKSKIN",
       "SetID": "628iiaa",
       "Name": "Rose\u0027s fate",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_NAMED_ENCOUNTER_VOID",
       "SetID": "628iiaa",
       "Name": "Second Death",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_NIGHTMARE",
       "SetID": "628iiaa",
       "Name": "The Curse is lifted",
-      "Percentage": 12,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_NOHIT",
       "SetID": "628iiaa",
       "Name": "Float like a Butterfly",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_NWD_PRIMER_BOOK",
       "SetID": "628iiaa",
       "Name": "Teacher\u0027s Pet",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_POST_PARRY_ATTACK",
       "SetID": "628iiaa",
       "Name": "Counterattack",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_PUPPETEER",
       "SetID": "628iiaa",
       "Name": "Broken Puppet",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_RESURRECTION",
       "SetID": "628iiaa",
       "Name": "Death is a journey",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_REUNION",
       "SetID": "628iiaa",
       "Name": "Reunion",
-      "Percentage": 14,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_RITUAL",
       "SetID": "628iiaa",
       "Name": "A Farmer\u0027s Life",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_SECOND_PACT",
       "SetID": "628iiaa",
       "Name": "Final Promise",
-      "Percentage": 14,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_SHELTER",
       "SetID": "628iiaa",
       "Name": "Gimme Shelter",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_SOUL_GRABBER",
       "SetID": "628iiaa",
       "Name": "The Good Hunter",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_TEAMWORK",
       "SetID": "628iiaa",
       "Name": "Teamwork",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_TREASURE_MAP",
       "SetID": "628iiaa",
       "Name": "Prospector",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ULTIMATE",
       "SetID": "628iiaa",
       "Name": "Soulmates",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_UPGRADE_ITEM",
       "SetID": "628iiaa",
       "Name": "Unlimited Power",
-      "Percentage": 13,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_VAMPYR_BOOK",
       "SetID": "628iiaa",
       "Name": "American Vampyr",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_WEAKSPOT_RIFLE",
       "SetID": "628iiaa",
       "Name": "Right on Target",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 270
     }
   ],
   "AchievementSets": [
     {
       "ID": "628iiaa",
       "IsBase": true,
-      "Progressed": 1926,
-      "Completed": 0
+      "Progressed": 2253,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-13T03:59:56.0096216+00:00",
   "FirstSeenRating": "2024-02-15T23:59:07.6110237+00:00",
   "FirstSeenAchievements": "2023-11-15T16:03:15.009525+00:00",
   "LastChanged": "2024-06-16T23:00:21.3661526+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:03.7392608+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:57.0881177+00:00",
   "LastUpdate_AppInfo": "2024-06-13T05:57:08.78061+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:01:22.7657072+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:03.7392851+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:12.5626063+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:57.0881412+00:00"
 }

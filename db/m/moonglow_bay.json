@@ -2,10 +2,10 @@
   "ID": "0610384879594dd0b42c73e2d8af88ae",
   "Name": "Moonglow Bay",
   "ProductSlug": "moonglow-bay",
-  "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 470,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
     "PcReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402,
+  "EOS_Progressed": 411,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -156,6 +156,11 @@
       "Time": "2024-03-21T17:11:33.835067+00:00",
       "NumProgressed": 402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:15:24.2935036+00:00",
+      "NumProgressed": 411,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 37,
@@ -269,9 +274,9 @@
       "ID": "ACH_14_BURDEN",
       "SetID": "cieb1c3",
       "Name": "The Burden",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_15_FOLKLORE",
@@ -365,17 +370,17 @@
       "ID": "ACH_26_CONFECTION",
       "SetID": "cieb1c3",
       "Name": "Collection of Confection",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_27_BLACKSMITH",
       "SetID": "cieb1c3",
       "Name": "Ode to a Blacksmith",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_28_SHELLFISH",
@@ -429,9 +434,9 @@
       "ID": "ACH_34_GRAPE",
       "SetID": "cieb1c3",
       "Name": "Then Peel Me A Grape",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_35_WORTH",
@@ -462,7 +467,7 @@
     {
       "ID": "cieb1c3",
       "IsBase": true,
-      "Progressed": 402,
+      "Progressed": 411,
       "Completed": 0
     }
   ],
@@ -470,8 +475,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:28.9855605+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:24.2935032+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:40.2103632+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:11.1106592+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:28.9855822+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:52.1189192+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:24.2935275+00:00"
 }

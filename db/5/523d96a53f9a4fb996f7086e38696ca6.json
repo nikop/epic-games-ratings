@@ -2,10 +2,10 @@
   "ID": "523d96a53f9a4fb996f7086e38696ca6",
   "Name": "Secrets of the Heartbeat",
   "ProductSlug": "the_ceos_girls-f8e234",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-07T07:00:00+00:00",
     "PcReleaseDate": "2024-06-07T07:00:00+00:00",
@@ -25,17 +25,259 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 223,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:00.0075222+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:00.0075262+00:00",
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1_001",
+      "SetID": "bjegngh",
+      "Name": "Hmm! Bad Person!",
+      "Percentage": 28,
+      "XP": 25,
+      "UsersEstimate": 62
+    },
+    {
+      "ID": "1_003",
+      "SetID": "bjegngh",
+      "Name": "Always Ready to Help",
+      "Percentage": 67,
+      "XP": 25,
+      "UsersEstimate": 149
+    },
+    {
+      "ID": "1_004",
+      "SetID": "bjegngh",
+      "Name": "Sleeping Secretary",
+      "Percentage": 21,
+      "XP": 25,
+      "UsersEstimate": 47
+    },
+    {
+      "ID": "2_005",
+      "SetID": "bjegngh",
+      "Name": "Kind-hearted",
+      "Percentage": 39,
+      "XP": 25,
+      "UsersEstimate": 87
+    },
+    {
+      "ID": "2_006",
+      "SetID": "bjegngh",
+      "Name": "I Like You the Most",
+      "Percentage": 64,
+      "XP": 25,
+      "UsersEstimate": 143
+    },
+    {
+      "ID": "2_007",
+      "SetID": "bjegngh",
+      "Name": "Overflowing with Domineering Aura",
+      "Percentage": 30,
+      "XP": 25,
+      "UsersEstimate": 67
+    },
+    {
+      "ID": "2_008",
+      "SetID": "bjegngh",
+      "Name": "Life Is About Movement",
+      "Percentage": 58,
+      "XP": 25,
+      "UsersEstimate": 129
+    },
+    {
+      "ID": "2_009",
+      "SetID": "bjegngh",
+      "Name": "One Shot, One Hole",
+      "Percentage": 15,
+      "XP": 25,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "2_017",
+      "SetID": "bjegngh",
+      "Name": "I Want It All",
+      "Percentage": 26,
+      "XP": 25,
+      "UsersEstimate": 58
+    },
+    {
+      "ID": "3_010",
+      "SetID": "bjegngh",
+      "Name": "A True Gentleman",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 22
+    },
+    {
+      "ID": "3_011",
+      "SetID": "bjegngh",
+      "Name": "Heart of Steel",
+      "Percentage": 13,
+      "XP": 25,
+      "UsersEstimate": 29
+    },
+    {
+      "ID": "3_012",
+      "SetID": "bjegngh",
+      "Name": "Gaming Expert",
+      "Percentage": 15,
+      "XP": 25,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "3_013",
+      "SetID": "bjegngh",
+      "Name": "Top-notch Determination",
+      "Percentage": 12,
+      "XP": 25,
+      "UsersEstimate": 27
+    },
+    {
+      "ID": "3_014",
+      "SetID": "bjegngh",
+      "Name": "Great Minds Focus on Important Matters",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 22
+    },
+    {
+      "ID": "3_015",
+      "SetID": "bjegngh",
+      "Name": "I Like Them Young",
+      "Percentage": 5,
+      "XP": 25,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "4_002",
+      "SetID": "bjegngh",
+      "Name": "Water carrier master",
+      "Percentage": 25,
+      "XP": 25,
+      "UsersEstimate": 56
+    },
+    {
+      "ID": "4_016",
+      "SetID": "bjegngh",
+      "Name": "Brave Heart",
+      "Percentage": 14,
+      "XP": 25,
+      "UsersEstimate": 31
+    },
+    {
+      "ID": "4_018",
+      "SetID": "bjegngh",
+      "Name": "I\u0027m Satisfied with You",
+      "Percentage": 16,
+      "XP": 25,
+      "UsersEstimate": 36
+    },
+    {
+      "ID": "4_019",
+      "SetID": "bjegngh",
+      "Name": "The Second Sip Is Even Sweeter",
+      "Percentage": 13,
+      "XP": 25,
+      "UsersEstimate": 29
+    },
+    {
+      "ID": "4_020",
+      "SetID": "bjegngh",
+      "Name": "Give It Another Try",
+      "Percentage": 9,
+      "XP": 25,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "4_021",
+      "SetID": "bjegngh",
+      "Name": "Sweet, Sweet",
+      "Percentage": 15,
+      "XP": 25,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "5_022",
+      "SetID": "bjegngh",
+      "Name": "I\u0027ll Take Care of You",
+      "Percentage": 14,
+      "XP": 100,
+      "UsersEstimate": 31
+    },
+    {
+      "ID": "5_023",
+      "SetID": "bjegngh",
+      "Name": "Unrivaled Hero",
+      "Percentage": 9,
+      "XP": 100,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "5_024",
+      "SetID": "bjegngh",
+      "Name": "Why Not?",
+      "Percentage": 8,
+      "XP": 100,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "5_025",
+      "SetID": "bjegngh",
+      "Name": "Love Everything About Her",
+      "Percentage": 11,
+      "XP": 100,
+      "UsersEstimate": 25
+    },
+    {
+      "ID": "5_026",
+      "SetID": "bjegngh",
+      "Name": "The Fruits of a Hot Summer",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 38
+    },
+    {
+      "ID": "5_027",
+      "SetID": "bjegngh",
+      "Name": "Are You Asleep, Superstar?",
+      "Percentage": 18,
+      "XP": 25,
+      "UsersEstimate": 40
+    },
+    {
+      "ID": "5_028",
+      "SetID": "bjegngh",
+      "Name": "Heard You Like Older Sisters?",
+      "Percentage": 10,
+      "XP": 25,
+      "UsersEstimate": 22
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "bjegngh",
+      "IsBase": true,
+      "Progressed": 223,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-08T02:23:59.328677+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:00.0075261+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:00.0075218+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:57:24.0035766+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:45.4337874+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:09.6777123+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:00.0081864+00:00"
 }

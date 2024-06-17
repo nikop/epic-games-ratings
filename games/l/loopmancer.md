@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 117.00% | ~129 |
-| Break no Sweat | 112.00% | ~123 |
+| Black Cat's Warning | 118.00% | ~130 |
+| Break no Sweat | 114.00% | ~125 |
 | Every little bit counts | 107.00% | ~118 |
-| Growth | 88.00% | ~97 |
+| Growth | 91.00% | ~100 |
 | Targeting the Enemy | 75.00% | ~82 |
 | Unavoidable | 71.00% | ~78 |
 | Revenge | 67.00% | ~74 |
 | Reunion | 44.00% | ~48 |
 | Fluke | 37.00% | ~41 |
 | Elimination | 36.00% | ~40 |
+| Once Bitten, Twice Shy | 34.00% | ~37 |
 | Excellent Driving Skills | 33.00% | ~36 |
-| Once Bitten, Twice Shy | 33.00% | ~36 |
 | Victor's Prejudice | 33.00% | ~36 |
 | Memento | 31.00% | ~34 |
 | Fleet-footed | 28.00% | ~31 |
 | Defeat the AI | 27.00% | ~30 |
 | Invincible | 27.00% | ~30 |
+| Neutralize | 25.00% | ~28 |
 | Unsalvageable | 24.00% | ~26 |
 | Best in Dragon City | 23.00% | ~25 |
 | Walking into a Trap | 23.00% | ~25 |
-| Neutralize | 23.00% | ~25 |
-| Disdain | 22.00% | ~24 |
+| Disdain | 23.00% | ~25 |
 | Brain in a Vat | 19.00% | ~21 |
 | Final Battle | 18.00% | ~20 |
 | Outsider's Profit | 18.00% | ~20 |
@@ -62,8 +62,8 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 563)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 110 (Ranked 619)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

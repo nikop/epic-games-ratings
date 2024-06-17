@@ -1,50 +1,50 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.50 (Ranked 655)  
+Rating: 4.50 (Ranked 656)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,906 |
-| One HIT wonder | 35.00% | ~674 |
-| Wanderer | 32.00% | ~616 |
-| One shot, one kill | 26.00% | ~500 |
-| Traveler | 23.00% | ~443 |
-| Explorer | 17.00% | ~327 |
-| Grave Robber | 17.00% | ~327 |
-| Head Burst | 17.00% | ~327 |
-| Double agent | 15.00% | ~289 |
-| Paranoia | 15.00% | ~289 |
-| Savant | 10.00% | ~192 |
-| Kraina Grzybow | 9.00% | ~173 |
-| Love Guru | 9.00% | ~173 |
-| Bustin' nuts | 8.00% | ~154 |
-| Superhuman | 8.00% | ~154 |
-| Not-so-private Eye | 7.00% | ~135 |
-| The Vitinsky Rifle | 6.00% | ~116 |
-| Protection racket | 5.00% | ~96 |
-| Secret room | 5.00% | ~96 |
-| Sacrifice | 4.00% | ~77 |
-| Indy | 3.00% | ~58 |
-| Wishmaster | 3.00% | ~58 |
-| Career criminal | 2.00% | ~38 |
-| Neanderthal | 1.00% | ~19 |
-| It was worth a shot | 1.00% | ~19 |
-| Cosmic Horror | 1.00% | ~19 |
+| Atom Agent | 99.00% | ~2,060 |
+| One HIT wonder | 34.00% | ~708 |
+| Wanderer | 32.00% | ~666 |
+| One shot, one kill | 25.00% | ~520 |
+| Traveler | 23.00% | ~479 |
+| Grave Robber | 17.00% | ~354 |
+| Explorer | 16.00% | ~333 |
+| Head Burst | 16.00% | ~333 |
+| Double agent | 15.00% | ~312 |
+| Paranoia | 14.00% | ~291 |
+| Savant | 10.00% | ~208 |
+| Kraina Grzybow | 9.00% | ~187 |
+| Love Guru | 9.00% | ~187 |
+| Superhuman | 8.00% | ~166 |
+| Bustin' nuts | 7.00% | ~146 |
+| Not-so-private Eye | 7.00% | ~146 |
+| The Vitinsky Rifle | 6.00% | ~125 |
+| Protection racket | 4.00% | ~83 |
+| Sacrifice | 4.00% | ~83 |
+| Secret room | 4.00% | ~83 |
+| Indy | 3.00% | ~62 |
+| Wishmaster | 3.00% | ~62 |
+| Career criminal | 2.00% | ~42 |
+| Neanderthal | 1.00% | ~21 |
+| It was worth a shot | 1.00% | ~21 |
+| Cosmic Horror | 1.00% | ~21 |
 | Ghostbuster | 0.60% | ~12 |
-| Cheeki Breeki | 0.50% | ~10 |
 | Comrade Yogi | 0.50% | ~10 |
 | Tourist Korallov | 0.50% | ~10 |
+| Cheeki Breeki | 0.40% | ~8 |
 | It's a classic! | 0.40% | ~8 |
 | Expert | 0.30% | ~6 |
-| Mystical relics | 0.20% | ~4 |
 | 27 Club | 0.10% | ~2 |
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
+| Mystical relics | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,925 (Ranked 294)  
-Completed: 1 (0.05%) (Ranked 387)  
+Progressed: 2,081 (Ranked 326)  
+Completed: 1 (0.05%) (Ranked 429)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,6 +281,7 @@ Completed: 1 (0.05%) (Ranked 387)
 | 2024-02-22 | 1,851 | 1 |
 | 2024-03-21 | 1,902 | 1 |
 | 2024-04-10 | 1,925 | 1 |
+| 2024-06-17 | 2,081 | 1 |
 ## Awards
 Max (Character Customization): 58  (Ranked 504)  
 Sum: 58 (Ranked 575)  

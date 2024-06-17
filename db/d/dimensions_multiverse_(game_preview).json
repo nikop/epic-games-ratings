@@ -2,10 +2,10 @@
   "ID": "d9d281ad1cde44768ed4e0103735ac51",
   "Name": "Dimensions",
   "ProductSlug": "dimensions-multiverse-21227d",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-03T16:00:00+00:00",
     "PcReleaseDate": "2023-05-08T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-16T21:57:12.8477225+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:55.793513+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:00.2270444+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:35.8056994+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:31.6031489+00:00"
 }

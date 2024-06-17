@@ -6,69 +6,69 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 66.00% | ~307 |
-| Cartographer | 59.00% | ~274 |
-| A Strange Artefact | 54.00% | ~251 |
-| Insomnia | 50.00% | ~232 |
-| Lost & Found & Lost Again | 44.00% | ~205 |
-| From Whence we Came | 44.00% | ~205 |
-| Fire and Flood | 43.00% | ~200 |
-| Spooky! | 38.00% | ~177 |
-| Treasure Hunt | 36.00% | ~167 |
-| Shennong Herbalist | 35.00% | ~163 |
-| Good Mama | 34.00% | ~158 |
-| O Captain My Captain | 33.00% | ~153 |
-| Plunderer | 30.00% | ~140 |
-| Taxonomist | 28.00% | ~130 |
-| Traveller | 26.00% | ~121 |
-| Uncertain Loyalties | 25.00% | ~116 |
-| Nahua Seeker | 24.00% | ~112 |
-| Roll to Save | 23.00% | ~107 |
-| Veteran Explorer | 23.00% | ~107 |
-| Red Flag Pirate | 21.00% | ~98 |
-| Iron Man | 17.00% | ~79 |
-| A Gentle Beast | 17.00% | ~79 |
-| Practical Palaeontology | 17.00% | ~79 |
-| Adventurer | 15.00% | ~70 |
-| For the Club! | 15.00% | ~70 |
-| Shortening of the Way | 15.00% | ~70 |
-| Dapper | 15.00% | ~70 |
-| The New Director | 14.00% | ~65 |
-| The Director is Dead | 14.00% | ~65 |
-| And Here Is Your Statue | 14.00% | ~65 |
-| Plays Well With Others | 14.00% | ~65 |
-| Discovery | 13.00% | ~60 |
-| Very Classy | 13.00% | ~60 |
-| Under the Table | 11.00% | ~51 |
-| It's Complicated | 11.00% | ~51 |
-| Level Up | 9.00% | ~42 |
-| Cold Blood, Warm Heart | 9.00% | ~42 |
-| Errand Runner | 9.00% | ~42 |
-| SCHMETTERLING | 8.00% | ~37 |
-| No Laughing Matter | 8.00% | ~37 |
-| The Great Library | 8.00% | ~37 |
-| Zookeeper | 7.00% | ~33 |
-| The Workshop | 6.00% | ~28 |
-| The Round Table | 6.00% | ~28 |
-| Islander Understanding | 5.00% | ~23 |
-| A Paris Sunset | 5.00% | ~23 |
-| The Director Perseveres | 5.00% | ~23 |
-| A Perfect Map | 4.00% | ~19 |
-| X Marks the Spot | 4.00% | ~19 |
-| Frugal | 4.00% | ~19 |
-| A Familiar Figure | 3.00% | ~14 |
-| Risk/Reward | 3.00% | ~14 |
-| I Set Forth Again... and Again... and Again... | 3.00% | ~14 |
-| Lunatic | 2.00% | ~9 |
-| Look Ma, No Equipment! | 2.00% | ~9 |
+| The Adventure Begins | 68.00% | ~333 |
+| Cartographer | 60.00% | ~293 |
+| A Strange Artefact | 55.00% | ~269 |
+| Insomnia | 52.00% | ~254 |
+| Lost & Found & Lost Again | 44.00% | ~215 |
+| From Whence we Came | 44.00% | ~215 |
+| Fire and Flood | 43.00% | ~210 |
+| Spooky! | 39.00% | ~191 |
+| Shennong Herbalist | 37.00% | ~181 |
+| Treasure Hunt | 37.00% | ~181 |
+| Good Mama | 34.00% | ~166 |
+| O Captain My Captain | 33.00% | ~161 |
+| Plunderer | 31.00% | ~152 |
+| Taxonomist | 28.00% | ~137 |
+| Traveller | 26.00% | ~127 |
+| Uncertain Loyalties | 26.00% | ~127 |
+| Roll to Save | 24.00% | ~117 |
+| Nahua Seeker | 24.00% | ~117 |
+| Veteran Explorer | 23.00% | ~112 |
+| Red Flag Pirate | 22.00% | ~108 |
+| Practical Palaeontology | 18.00% | ~88 |
+| Iron Man | 17.00% | ~83 |
+| A Gentle Beast | 17.00% | ~83 |
+| Shortening of the Way | 16.00% | ~78 |
+| Adventurer | 15.00% | ~73 |
+| For the Club! | 15.00% | ~73 |
+| Dapper | 15.00% | ~73 |
+| The New Director | 14.00% | ~68 |
+| The Director is Dead | 14.00% | ~68 |
+| Discovery | 14.00% | ~68 |
+| Plays Well With Others | 14.00% | ~68 |
+| And Here Is Your Statue | 13.00% | ~64 |
+| Very Classy | 13.00% | ~64 |
+| Under the Table | 12.00% | ~59 |
+| It's Complicated | 11.00% | ~54 |
+| Level Up | 9.00% | ~44 |
+| Cold Blood, Warm Heart | 9.00% | ~44 |
+| Errand Runner | 9.00% | ~44 |
+| Zookeeper | 8.00% | ~39 |
+| SCHMETTERLING | 8.00% | ~39 |
+| No Laughing Matter | 8.00% | ~39 |
+| The Great Library | 8.00% | ~39 |
+| The Workshop | 7.00% | ~34 |
+| Islander Understanding | 6.00% | ~29 |
+| The Round Table | 6.00% | ~29 |
+| A Paris Sunset | 5.00% | ~24 |
+| The Director Perseveres | 5.00% | ~24 |
+| X Marks the Spot | 4.00% | ~20 |
+| Risk/Reward | 4.00% | ~20 |
+| Frugal | 4.00% | ~20 |
+| A Familiar Figure | 3.00% | ~15 |
+| A Perfect Map | 3.00% | ~15 |
+| I Set Forth Again... and Again... and Again... | 3.00% | ~15 |
+| Lunatic | 2.00% | ~10 |
+| Look Ma, No Equipment! | 2.00% | ~10 |
 | It's Not Too Late | 1.00% | ~5 |
-| Pacifism Ain't Easy | 0.90% | ~4 |
-| Abominable Hunger | 0.60% | ~3 |
+| Abominable Hunger | 0.80% | ~4 |
+| Pacifism Ain't Easy | 0.80% | ~4 |
 | Everything is FINE... | 0.60% | ~3 |
 | Now I've Seen It All | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 465 (Ranked 410)  
-Completed: 1 (0.22%) (Ranked 315)  
+Progressed: 489 (Ranked 449)  
+Completed: 1 (0.20%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -155,6 +155,7 @@ Completed: 1 (0.22%) (Ranked 315)
 | 2024-02-22 | 453 | 1 |
 | 2024-03-21 | 455 | 1 |
 | 2024-04-10 | 465 | 1 |
+| 2024-06-17 | 489 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

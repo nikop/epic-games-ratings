@@ -2,10 +2,10 @@
   "ID": "0cf54ee6730540daadb4f3bb7d54d481",
   "Name": "Republic of Pirates",
   "ProductSlug": "republic-of-pirates-b6dfa6",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-19T16:00:00+00:00",
     "PcReleaseDate": "2024-06-19T16:00:00+00:00",
@@ -23,26 +23,434 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:12:28.7853288+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:12:28.7853315+00:00",
+  "TotalAchievements": 50,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Aiders_England",
+      "SetID": "b9ni7g2",
+      "Name": "The British are Coming",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Aiders_France",
+      "SetID": "b9ni7g2",
+      "Name": "The French are Coming",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Aiders_Spain",
+      "SetID": "b9ni7g2",
+      "Name": "The Spanish are Coming",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BasicRoads_I",
+      "SetID": "b9ni7g2",
+      "Name": "Roads to Riches I",
+      "Percentage": 300,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "BasicRoads_II",
+      "SetID": "b9ni7g2",
+      "Name": "Roads to Riches II",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BrickRoads_I",
+      "SetID": "b9ni7g2",
+      "Name": "Roads to Riches III",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BrickRoads_II",
+      "SetID": "b9ni7g2",
+      "Name": "Roads to Riches IV",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BuildShip_Brig",
+      "SetID": "b9ni7g2",
+      "Name": "Brig Builder",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BuildShip_Ketch",
+      "SetID": "b9ni7g2",
+      "Name": "Ketchomaniac",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BuildShip_ManOfWar",
+      "SetID": "b9ni7g2",
+      "Name": "Master and Commander",
+      "Percentage": 200,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Build_Any_I",
+      "SetID": "b9ni7g2",
+      "Name": "Architect I",
+      "Percentage": 400,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Build_Any_II",
+      "SetID": "b9ni7g2",
+      "Name": "Architect II",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Build_Any_III",
+      "SetID": "b9ni7g2",
+      "Name": "Architect III",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Build_DefensiveTower",
+      "SetID": "b9ni7g2",
+      "Name": "Turtling",
+      "Percentage": 200,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Build_Lumberjack",
+      "SetID": "b9ni7g2",
+      "Name": "Deforestation",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Build_Storage",
+      "SetID": "b9ni7g2",
+      "Name": "17th Century Amazon",
+      "Percentage": 300,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "CaptainLevel_I",
+      "SetID": "b9ni7g2",
+      "Name": "First Mate I",
+      "Percentage": 400,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "CaptainLevel_II",
+      "SetID": "b9ni7g2",
+      "Name": "First Mate II",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "CaptainLevel_III",
+      "SetID": "b9ni7g2",
+      "Name": "First Mate III",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ConqueringIslandsFreePlay_Easy",
+      "SetID": "b9ni7g2",
+      "Name": "Archipelago Conqueror - Easy",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ConqueringIslandsFreePlay_Hard",
+      "SetID": "b9ni7g2",
+      "Name": "Archipelago Conqueror - Hard",
+      "Percentage": 100,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ConqueringIslandsFreePlay_Normal",
+      "SetID": "b9ni7g2",
+      "Name": "Archipelago Conqueror - Medium",
+      "Percentage": 100,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ConqueringIslands_All",
+      "SetID": "b9ni7g2",
+      "Name": "Island Conqueror",
+      "Percentage": 200,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ConqueringIslands_I",
+      "SetID": "b9ni7g2",
+      "Name": "Island Marauder",
+      "Percentage": 400,
+      "XP": 15,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ConqueringIslands_II",
+      "SetID": "b9ni7g2",
+      "Name": "Island Dominator",
+      "Percentage": 200,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Debris_I",
+      "SetID": "b9ni7g2",
+      "Name": "Plunderer I",
+      "Percentage": 400,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Debris_II",
+      "SetID": "b9ni7g2",
+      "Name": "Plunderer II",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Debris_III",
+      "SetID": "b9ni7g2",
+      "Name": "Plunderer III",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DestroyShips_Any",
+      "SetID": "b9ni7g2",
+      "Name": "Rule the Waves",
+      "Percentage": 100,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DestroyShips_England",
+      "SetID": "b9ni7g2",
+      "Name": "Rule the Waves - British Vessels",
+      "Percentage": 200,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "DestroyShips_France",
+      "SetID": "b9ni7g2",
+      "Name": "Rule the Waves - French Vessels",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DestroyShips_Spain",
+      "SetID": "b9ni7g2",
+      "Name": "Rule the Waves - Spanish Vessels",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Envoy",
+      "SetID": "b9ni7g2",
+      "Name": "You\u0027re Welcome",
+      "Percentage": 200,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "FinishCampaign_Easy",
+      "SetID": "b9ni7g2",
+      "Name": "New Republic - Easy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishCampaign_Hard",
+      "SetID": "b9ni7g2",
+      "Name": "New Republic - Hard",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinishCampaign_Normal",
+      "SetID": "b9ni7g2",
+      "Name": "New Republic - Medium",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HaveGold_I",
+      "SetID": "b9ni7g2",
+      "Name": "Pirate Fortune I",
+      "Percentage": 400,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "HaveGold_II",
+      "SetID": "b9ni7g2",
+      "Name": "Pirate Fortune II",
+      "Percentage": 200,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "HaveResource_BetterSails",
+      "SetID": "b9ni7g2",
+      "Name": "Improved Sails, Me Hearties!",
+      "Percentage": 200,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "HaveResource_EnglishInsignia",
+      "SetID": "b9ni7g2",
+      "Name": "English Insignia Raid",
+      "Percentage": 200,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "HaveResource_SpanishGold",
+      "SetID": "b9ni7g2",
+      "Name": "Spanish Gold Heist",
+      "Percentage": 200,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "LegendaryCaptain",
+      "SetID": "b9ni7g2",
+      "Name": "Legend of the Seas",
+      "Percentage": 200,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Pacifist",
+      "SetID": "b9ni7g2",
+      "Name": "Goody Two-Shoes",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Population_I",
+      "SetID": "b9ni7g2",
+      "Name": "Brethren of the Coast I",
+      "Percentage": 400,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Population_II",
+      "SetID": "b9ni7g2",
+      "Name": "Brethren of the Coast II",
+      "Percentage": 200,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Population_III",
+      "SetID": "b9ni7g2",
+      "Name": "Brethren of the Coast III",
+      "Percentage": 200,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "StartFreePlay",
+      "SetID": "b9ni7g2",
+      "Name": "Unfettered Freedom",
+      "Percentage": 300,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "StylishBuildings",
+      "SetID": "b9ni7g2",
+      "Name": "Building with Style",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StylishShips",
+      "SetID": "b9ni7g2",
+      "Name": "Sailing with Style",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TradeOffer",
+      "SetID": "b9ni7g2",
+      "Name": "Master of Trade",
+      "Percentage": 300,
+      "XP": 10,
+      "UsersEstimate": 3
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b9ni7g2",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:03:53.1915936+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:53.1915916+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:28.7853284+00:00",
   "LastUpdate_AppInfo": "2024-06-14T13:57:06.6219939+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:38.163259+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:53.1915951+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:28.1093967+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:28.7859949+00:00"
 }

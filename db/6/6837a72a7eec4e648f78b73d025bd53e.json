@@ -2,10 +2,10 @@
   "ID": "6837a72a7eec4e648f78b73d025bd53e",
   "Name": "Neon Blood",
   "ProductSlug": "neon-blood-661cf7",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "6hdh6e7",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:08:14.2505087+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:14.2505067+00:00",
   "LastUpdate_AppInfo": "2024-06-16T18:57:04.9477685+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:12.9551879+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:56.334966+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:14.2505106+00:00"
 }

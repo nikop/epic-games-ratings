@@ -5,10 +5,10 @@
   "Ranking_Rating": 925,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 433,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Completed": 486,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 59872,
+  "EOS_Progressed": 60499,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -16526,6 +16526,11 @@
       "Time": "2024-04-10T06:02:23.7224744+00:00",
       "NumProgressed": 59872,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-06-17T16:09:35.7660438+00:00",
+      "NumProgressed": 60499,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16545,7 +16550,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1210
     },
     {
       "ID": "BoomBox",
@@ -16553,7 +16558,7 @@
       "Name": "Boom Box Baby",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "BoomBoxWipeout",
@@ -16569,7 +16574,7 @@
       "Name": "I Can\u0027t Believe I\u0027ve Done This",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 302
     },
     {
       "ID": "CantTouchThis",
@@ -16585,7 +16590,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 605
     },
     {
       "ID": "Explorer",
@@ -16593,7 +16598,7 @@
       "Name": "Map Explorer",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "FallFest",
@@ -16601,7 +16606,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4790
+      "UsersEstimate": 4840
     },
     {
       "ID": "FlyingPresent",
@@ -16609,7 +16614,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3592
+      "UsersEstimate": 3630
     },
     {
       "ID": "FlyingPresentMaster",
@@ -16617,7 +16622,7 @@
       "Name": "Flying Present Ultimate Master",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "FoodTaster",
@@ -16625,7 +16630,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5987
+      "UsersEstimate": 6050
     },
     {
       "ID": "FoolMeTwice",
@@ -16633,7 +16638,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 605
     },
     {
       "ID": "FoundAllBackers",
@@ -16657,7 +16662,7 @@
       "Name": "Ridiculously Generous",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "GetThemAll",
@@ -16673,7 +16678,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 484
     },
     {
       "ID": "HFZGoober",
@@ -16681,15 +16686,15 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3592
+      "UsersEstimate": 3630
     },
     {
       "ID": "HarshLove",
       "SetID": "8gem5jc",
       "Name": "Harsh Love",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 302
     },
     {
       "ID": "HiFive",
@@ -16697,7 +16702,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1815
     },
     {
       "ID": "IsThisPossible",
@@ -16711,17 +16716,17 @@
       "ID": "LevelDiver",
       "SetID": "8gem5jc",
       "Name": "Level Diver",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 544
     },
     {
       "ID": "LittleGirl",
       "SetID": "8gem5jc",
       "Name": "Beaten By A Little Girl",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 423
     },
     {
       "ID": "LordOfHFZ",
@@ -16745,7 +16750,7 @@
       "Name": "Made It Through",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 302
     },
     {
       "ID": "Money",
@@ -16761,7 +16766,7 @@
       "Name": "Nine Funkotronians",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "OldSchool",
@@ -16769,7 +16774,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 605
     },
     {
       "ID": "PacifistVictory",
@@ -16785,7 +16790,7 @@
       "Name": "Piece O\u0027 Cake",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 302
     },
     {
       "ID": "Randomizer",
@@ -16793,7 +16798,7 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1210
     },
     {
       "ID": "RhythmStar",
@@ -16809,7 +16814,7 @@
       "Name": "Broken Present Risk Taker",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Saint",
@@ -16817,7 +16822,7 @@
       "Name": "I\u0027m A Total Saint",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "SantasBag",
@@ -16825,7 +16830,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 423
     },
     {
       "ID": "SecretLevel",
@@ -16833,7 +16838,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1210
     },
     {
       "ID": "StruckLove",
@@ -16841,7 +16846,7 @@
       "Name": "Struck By Love",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Sunflower",
@@ -16849,7 +16854,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2994
+      "UsersEstimate": 3025
     },
     {
       "ID": "Teamwork",
@@ -16857,7 +16862,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 423
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -16865,7 +16870,7 @@
       "Name": "The Worst Possible Luck",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ThrillSeeker",
@@ -16873,7 +16878,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4191
+      "UsersEstimate": 4235
     },
     {
       "ID": "TimelySplash",
@@ -16881,7 +16886,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1815
     },
     {
       "ID": "TotalBummer",
@@ -16889,7 +16894,7 @@
       "Name": "Totally Bummed Again",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 423
     },
     {
       "ID": "TrulyEvil",
@@ -16897,7 +16902,7 @@
       "Name": "Truly Evil",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "WakeyWakey",
@@ -16905,7 +16910,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 605
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -16928,7 +16933,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 59872,
+      "Progressed": 60499,
       "Completed": 6
     }
   ],
@@ -16936,8 +16941,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:23.7224736+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:09:35.7660433+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:55.5305963+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:47.1795702+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:23.7225637+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:27.3312724+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:35.7661616+00:00"
 }

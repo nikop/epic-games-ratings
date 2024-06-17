@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caretaker | 85.00% | ~179 |
-| Too Cool For School | 85.00% | ~179 |
-| Who's A Good Boy | 72.00% | ~152 |
-| Feng Shui | 72.00% | ~152 |
-| Power Up | 72.00% | ~152 |
-| Thick Skin | 69.00% | ~146 |
-| Math Wizard | 67.00% | ~141 |
-| Destroy Erase Improve | 67.00% | ~141 |
-| Power Overload | 64.00% | ~135 |
-| Quite A Snack | 62.00% | ~131 |
-| Impenetrable Skin | 57.00% | ~120 |
-| Overwhelming Power | 55.00% | ~116 |
-| Chomp Chomp! | 48.00% | ~101 |
-| Supreme Power | 47.00% | ~99 |
-| The Duelist | 45.00% | ~95 |
-| Target Practice | 45.00% | ~95 |
-| Glorious Battle | 44.00% | ~93 |
-| Diaper Time! | 44.00% | ~93 |
-| Mutant And Proud | 41.00% | ~87 |
-| Meat Larder | 41.00% | ~87 |
-| The Emperor's New Clothes | 34.00% | ~72 |
-| You Shall Not Pass | 33.00% | ~70 |
-| Animal Lover | 33.00% | ~70 |
-| Final Evolution | 33.00% | ~70 |
-| Godlike Power | 32.00% | ~68 |
-| Undying Skin | 32.00% | ~68 |
-| Happy Little Home | 32.00% | ~68 |
-| Fight Me! | 31.00% | ~65 |
-| Supremacy | 31.00% | ~65 |
-| Mommy's Very Angry | 30.00% | ~63 |
-| Back To The Future | 27.00% | ~57 |
-| Loyal Companion | 27.00% | ~57 |
-| Immortal Skin | 25.00% | ~53 |
-| Lunch Before The Lunch | 24.00% | ~51 |
-| Fire Beacon | 24.00% | ~51 |
-| From Here To Eternity | 20.00% | ~42 |
-| Building Blocks | 20.00% | ~42 |
-| Octopostructure | 18.00% | ~38 |
-| Boss Hunter | 15.00% | ~32 |
-| Hawkman | 10.00% | ~21 |
-| Annihilate | 9.00% | ~19 |
-| Fashion Victim | 8.00% | ~17 |
+| Caretaker | 86.00% | ~190 |
+| Too Cool For School | 86.00% | ~190 |
+| Feng Shui | 73.00% | ~161 |
+| Who's A Good Boy | 72.00% | ~159 |
+| Power Up | 72.00% | ~159 |
+| Thick Skin | 70.00% | ~155 |
+| Math Wizard | 68.00% | ~150 |
+| Destroy Erase Improve | 68.00% | ~150 |
+| Power Overload | 66.00% | ~146 |
+| Quite A Snack | 62.00% | ~137 |
+| Impenetrable Skin | 57.00% | ~126 |
+| Overwhelming Power | 55.00% | ~122 |
+| Chomp Chomp! | 50.00% | ~110 |
+| Supreme Power | 48.00% | ~106 |
+| The Duelist | 46.00% | ~102 |
+| Target Practice | 46.00% | ~102 |
+| Glorious Battle | 45.00% | ~99 |
+| Diaper Time! | 45.00% | ~99 |
+| Mutant And Proud | 42.00% | ~93 |
+| Meat Larder | 42.00% | ~93 |
+| The Emperor's New Clothes | 36.00% | ~80 |
+| Final Evolution | 35.00% | ~77 |
+| You Shall Not Pass | 34.00% | ~75 |
+| Animal Lover | 33.00% | ~73 |
+| Godlike Power | 33.00% | ~73 |
+| Undying Skin | 33.00% | ~73 |
+| Happy Little Home | 33.00% | ~73 |
+| Supremacy | 33.00% | ~73 |
+| Mommy's Very Angry | 32.00% | ~71 |
+| Fight Me! | 32.00% | ~71 |
+| Loyal Companion | 29.00% | ~64 |
+| Back To The Future | 28.00% | ~62 |
+| Immortal Skin | 27.00% | ~60 |
+| Fire Beacon | 25.00% | ~55 |
+| Lunch Before The Lunch | 24.00% | ~53 |
+| Building Blocks | 22.00% | ~49 |
+| From Here To Eternity | 21.00% | ~46 |
+| Octopostructure | 19.00% | ~42 |
+| Boss Hunter | 15.00% | ~33 |
+| Hawkman | 11.00% | ~24 |
+| Annihilate | 10.00% | ~22 |
+| Fashion Victim | 8.00% | ~18 |
 | See You Later | 7.00% | ~15 |
 | Godlike Skin | 7.00% | ~15 |
 | Feast Time | 7.00% | ~15 |
 | Unlucky Luke | 6.00% | ~13 |
 | Cheesy Chess | 6.00% | ~13 |
 | Octopy Mayhem | 5.00% | ~11 |
-| A Phony Clown | 4.00% | ~8 |
-| Duck Knight | 4.00% | ~8 |
-| Got'em Totem | 4.00% | ~8 |
+| A Phony Clown | 4.00% | ~9 |
+| Duck Knight | 4.00% | ~9 |
+| Got'em Totem | 4.00% | ~9 |
+| Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
-| Destroy Everything | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 488)  
-Completed: 1 (0.47%) (Ranked 267)  
+Progressed: 221 (Ranked 539)  
+Completed: 2 (0.90%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 1 (0.47%) (Ranked 267)
 | 2024-01-17 | 207 | 1 |
 | 2024-02-22 | 210 | 1 |
 | 2024-03-21 | 211 | 1 |
+| 2024-06-17 | 221 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

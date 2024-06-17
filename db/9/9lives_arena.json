@@ -5,10 +5,10 @@
   "Ranking_Rating": 603,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 517,
-  "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-27T15:00:00+00:00",
     "PcReleaseDate": "2023-12-27T15:00:00+00:00",
@@ -355,7 +355,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 6187,
+  "EOS_Progressed": 7002,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -3965,6 +3965,11 @@
       "Time": "2024-04-10T06:06:34.2664973+00:00",
       "NumProgressed": 6187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:17:17.5121505+00:00",
+      "NumProgressed": 7002,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -3975,9 +3980,9 @@
       "ID": "FishingSmallBronze",
       "SetID": "13dm16l",
       "Name": "Bronze Angler Trophy",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 200,
-      "UsersEstimate": 31
+      "UsersEstimate": 49
     },
     {
       "ID": "FishingSmallGold",
@@ -4009,14 +4014,14 @@
       "Name": "Silver Angler Trophy",
       "Percentage": 0.1,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 6187,
+      "Progressed": 7002,
       "Completed": 0
     }
   ],
@@ -4024,8 +4029,8 @@
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
   "LastChanged": "2024-06-15T11:58:43.6258652+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:34.2664967+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:17.51215+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:28.4895921+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:34.1194129+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:34.2665176+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:04.9730516+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:17.512179+00:00"
 }

@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 93.00% | ~232 |
-| Treasure hunter | 90.00% | ~224 |
-| Survivalist | 84.00% | ~209 |
-| Challenge seeker | 80.00% | ~199 |
-| Coin collector | 73.00% | ~182 |
-| Floater | 58.00% | ~144 |
-| Speedrunner | 43.00% | ~107 |
-| On foot racer | 41.00% | ~102 |
-| Prickly situation handler | 34.00% | ~85 |
-| Hat lover | 33.00% | ~82 |
-| Perfectionist | 31.00% | ~77 |
-| Protected | 29.00% | ~72 |
-| Pragmatic | 22.00% | ~55 |
-| Calory burner | 18.00% | ~45 |
+| Historian | 93.00% | ~235 |
+| Treasure hunter | 90.00% | ~228 |
+| Survivalist | 85.00% | ~215 |
+| Challenge seeker | 79.00% | ~200 |
+| Coin collector | 72.00% | ~182 |
+| Floater | 58.00% | ~147 |
+| Speedrunner | 43.00% | ~109 |
+| On foot racer | 41.00% | ~104 |
+| Prickly situation handler | 34.00% | ~86 |
+| Hat lover | 32.00% | ~81 |
+| Perfectionist | 30.00% | ~76 |
+| Protected | 29.00% | ~73 |
+| Pragmatic | 22.00% | ~56 |
+| Calory burner | 18.00% | ~46 |
 | Snow digger | 14.00% | ~35 |
 | Pacifist | 14.00% | ~35 |
 | Model | 14.00% | ~35 |
 | Fire extinguisher | 10.00% | ~25 |
 | Hubworld fan | 10.00% | ~25 |
-| Occult cataloger | 7.00% | ~17 |
-| Photographer | 5.00% | ~12 |
+| Occult cataloger | 7.00% | ~18 |
+| Photographer | 5.00% | ~13 |
 | Great rescuer | 4.00% | ~10 |
 | Absolute race champion | 4.00% | ~10 |
 | Doppelganger | 4.00% | ~10 |
-| Tank | 3.00% | ~7 |
+| Tank | 3.00% | ~8 |
 | Gladiator | 2.00% | ~5 |
 | Biologist | 2.00% | ~5 |
 | Fashionista | 2.00% | ~5 |
 | Duelist | 2.00% | ~5 |
-| Art lover | 1.00% | ~2 |
-| Completionist | 1.00% | ~2 |
+| Art lover | 1.00% | ~3 |
+| Completionist | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 473)  
-Completed: 4 (1.61%) (Ranked 167)  
+Progressed: 253 (Ranked 524)  
+Completed: 4 (1.58%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,6 +87,7 @@ Completed: 4 (1.61%) (Ranked 167)
 | 2024-02-22 | 246 | 4 |
 | 2024-03-21 | 248 | 4 |
 | 2024-04-10 | 249 | 4 |
+| 2024-06-17 | 253 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

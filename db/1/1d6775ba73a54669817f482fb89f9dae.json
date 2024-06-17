@@ -2,10 +2,10 @@
   "ID": "1d6775ba73a54669817f482fb89f9dae",
   "Name": "The Oregon Trail",
   "ProductSlug": "the-oregon-trail-60efa0",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-04T07:00:00+00:00",
     "PcReleaseDate": "2022-11-14T10:00:00+00:00",
@@ -31,7 +31,23 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "1e2cfoc",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    },
+    {
+      "ID": "d8494hk",
+      "IsBase": false,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:07:46.7482184+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:07:46.7482121+00:00",
   "LastUpdate_AppInfo": "2024-06-17T11:57:07.2706579+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:37.1318946+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:25.5515242+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:46.7482218+00:00"
 }

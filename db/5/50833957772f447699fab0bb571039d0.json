@@ -2,10 +2,10 @@
   "ID": "50833957772f447699fab0bb571039d0",
   "Name": "Back to the Earth",
   "ProductSlug": "back-to-the-earth-8567e4",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-04-20T21:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-14T02:57:14.3906919+00:00",
-  "LastUpdate_Ratings": "2024-06-17T15:00:09.6275875+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:00.7298989+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:34.9801322+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:50.5027464+00:00"
 }

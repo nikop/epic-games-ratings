@@ -2,10 +2,10 @@
   "ID": "4dadd911cca741d684859a00e813a14b",
   "Name": "Spellcats Auto Card Tactics",
   "ProductSlug": "spellcats-auto-card-tactics-1e832c",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-17T00:00:00+00:00",
     "PcReleaseDate": "2024-05-20T18:00:00+00:00",
@@ -23,16 +23,242 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:15.8109631+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:15.8109664+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_00",
+      "SetID": "8en63c0",
+      "Name": "Get all achievements",
+      "Percentage": 0,
+      "XP": 125,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_01",
+      "SetID": "8en63c0",
+      "Name": "Elemental Mastery",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_02",
+      "SetID": "8en63c0",
+      "Name": "Sacrificial Strategy",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_03",
+      "SetID": "8en63c0",
+      "Name": "Purr fect defense",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_04",
+      "SetID": "8en63c0",
+      "Name": "Clawed Victory",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_05",
+      "SetID": "8en63c0",
+      "Name": "Cataclysm",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_06",
+      "SetID": "8en63c0",
+      "Name": "Feline\u0027s Favor",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_07",
+      "SetID": "8en63c0",
+      "Name": "Last Cat Standing",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_08",
+      "SetID": "8en63c0",
+      "Name": "Cat\u0027s Claw",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_09",
+      "SetID": "8en63c0",
+      "Name": "Cat Brawler",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_10",
+      "SetID": "8en63c0",
+      "Name": "Feline Frenzy",
+      "Percentage": 100,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_11",
+      "SetID": "8en63c0",
+      "Name": "Cat Conqueror",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "8en63c0",
+      "Name": "Whisker whiz",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_13",
+      "SetID": "8en63c0",
+      "Name": "Unleashed Fury",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_14",
+      "SetID": "8en63c0",
+      "Name": "Whiskers of Wisdom",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_15",
+      "SetID": "8en63c0",
+      "Name": "Feline\u0027s Grace",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_16",
+      "SetID": "8en63c0",
+      "Name": "Paws of Power",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_17",
+      "SetID": "8en63c0",
+      "Name": "Mana Maestro",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_18",
+      "SetID": "8en63c0",
+      "Name": "Legendary Summoner",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_19",
+      "SetID": "8en63c0",
+      "Name": "First Step of a Journey",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_20",
+      "SetID": "8en63c0",
+      "Name": "Cat Slayer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_21",
+      "SetID": "8en63c0",
+      "Name": "Mana Maven",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_22",
+      "SetID": "8en63c0",
+      "Name": "Legendary Growth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_23",
+      "SetID": "8en63c0",
+      "Name": "The cat nekocaster",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_24",
+      "SetID": "8en63c0",
+      "Name": "Disrespect",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_25",
+      "SetID": "8en63c0",
+      "Name": "1 of 9 lives",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "8en63c0",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:08:15.8109664+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:15.8109625+00:00",
   "LastUpdate_AppInfo": "2024-06-12T14:57:16.1124429+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:08.8474993+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:47.2773369+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:15.8116436+00:00"
 }

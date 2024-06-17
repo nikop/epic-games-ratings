@@ -2,10 +2,10 @@
   "ID": "bcaf5657e1b440098c0672be0406b274",
   "Name": "FuseWars",
   "ProductSlug": "symbiotefusewars-b9adaf",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-15T00:00:00+00:00",
     "PcReleaseDate": "2024-05-29T04:30:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-30T03:57:22.0617103+00:00",
   "LastUpdate_AppInfo": "2024-06-13T22:57:12.5574675+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:40.1259533+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:32.7671952+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:55.9803892+00:00"
 }

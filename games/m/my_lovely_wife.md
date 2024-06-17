@@ -6,42 +6,42 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~631 |
-| I did it! | 94.00% | ~612 |
-| Learner | 91.00% | ~592 |
-| Economical | 91.00% | ~592 |
-| Devout | 89.00% | ~579 |
-| The Love Martyr | 87.00% | ~566 |
-| Frugal | 84.00% | ~547 |
-| Dilligent | 82.00% | ~534 |
-| I... I did it? | 79.00% | ~514 |
-| Adored | 75.00% | ~488 |
-| The Hobbyist | 65.00% | ~423 |
-| A Forked Tongue | 55.00% | ~358 |
-| The Admirer | 52.00% | ~339 |
-| Between Two Fires | 50.00% | ~326 |
-| Precious | 45.00% | ~293 |
-| Devoted | 41.00% | ~267 |
-| The Farmer | 39.00% | ~254 |
-| Ever After | 36.00% | ~234 |
-| Mandatory Sacrifice | 29.00% | ~189 |
-| Loyal | 28.00% | ~182 |
-| The Collector | 25.00% | ~163 |
-| All Doors Open | 20.00% | ~130 |
-| Faithful | 11.00% | ~72 |
-| Asmodeus | 9.00% | ~59 |
-| A Close | 9.00% | ~59 |
-| Luna | 8.00% | ~52 |
-| Lover | 2.00% | ~13 |
+| Objective Complete | 97.00% | ~663 |
+| I did it! | 93.00% | ~635 |
+| Economical | 91.00% | ~622 |
+| Learner | 90.00% | ~615 |
+| Devout | 88.00% | ~601 |
+| The Love Martyr | 86.00% | ~587 |
+| Frugal | 84.00% | ~574 |
+| Dilligent | 81.00% | ~553 |
+| I... I did it? | 78.00% | ~533 |
+| Adored | 74.00% | ~505 |
+| The Hobbyist | 64.00% | ~437 |
+| A Forked Tongue | 54.00% | ~369 |
+| The Admirer | 51.00% | ~348 |
+| Between Two Fires | 50.00% | ~342 |
+| Precious | 44.00% | ~301 |
+| Devoted | 40.00% | ~273 |
+| The Farmer | 39.00% | ~266 |
+| Ever After | 35.00% | ~239 |
+| Mandatory Sacrifice | 28.00% | ~191 |
+| Loyal | 27.00% | ~184 |
+| The Collector | 24.00% | ~164 |
+| All Doors Open | 20.00% | ~137 |
+| Faithful | 11.00% | ~75 |
+| A Close | 10.00% | ~68 |
+| Asmodeus | 8.00% | ~55 |
+| Luna | 8.00% | ~55 |
+| Lover | 2.00% | ~14 |
 | Conclusions | 1.00% | ~7 |
 | The Harvester | 0.90% | ~6 |
-| Playboy | 0.30% | ~2 |
-| Necessary Sacrifice | 0.20% | ~1 |
+| Playboy | 0.40% | ~3 |
+| Necessary Sacrifice | 0.10% | ~1 |
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 383)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 683 (Ranked 420)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 636 | 0 |
 | 2024-03-21 | 647 | 0 |
 | 2024-04-10 | 651 | 0 |
+| 2024-06-17 | 683 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

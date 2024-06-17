@@ -2,10 +2,10 @@
   "ID": "c13296d2098b4582aafc0133fe020734",
   "Name": "Scott Whiskers in: the Search for Mr. Fumbleclaw",
   "ProductSlug": "scott-whiskers-inthe-search-for-mr-fumbleclaw-3fd734",
-  "Ranking_EOS_Progress": 906,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-20T23:00:00+00:00",
     "PcReleaseDate": "2024-03-20T23:00:00+00:00",
@@ -251,8 +251,8 @@
   ],
   "FirstSeen": "2024-04-14T19:31:03.8537543+00:00",
   "FirstSeenAchievements": "2024-01-16T08:06:29.3089879+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:06.2132563+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:52.5429691+00:00",
   "LastUpdate_AppInfo": "2024-06-14T13:02:53.7109933+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:24.9604037+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:06.2132724+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:57.2984814+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:52.5429857+00:00"
 }

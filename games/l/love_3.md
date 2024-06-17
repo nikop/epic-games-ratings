@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Friendly Fire | 21.00% | ~3 |
-| Safety | 21.00% | ~3 |
-| LOVE | 14.00% | ~2 |
-| kuso | 14.00% | ~2 |
-| 13 Years in 69 Minutes | 7.00% | ~1 |
-| Air walker | 7.00% | ~1 |
-| Ball Dropper | 7.00% | ~1 |
-| Bork & Niko | 7.00% | ~1 |
-| Cautious Completionist | 7.00% | ~1 |
-| Freedom | 7.00% | ~1 |
-| Frequent Flyer | 7.00% | ~1 |
-| Where did I put my keys? | 7.00% | ~1 |
-| Gotta Go Fast | 7.00% | ~1 |
-| Jump rope | 7.00% | ~1 |
-| Just a Scratch or Two | 7.00% | ~1 |
-| Longest Fall | 7.00% | ~1 |
-| Nostalgia | 7.00% | ~1 |
-| Threading the Needle | 7.00% | ~1 |
-| YOLO | 7.00% | ~1 |
-| やり甲斐 | 7.00% | ~1 |
+| Friendly Fire | 31.00% | ~5 |
+| Safety | 25.00% | ~4 |
+| kuso | 25.00% | ~4 |
+| LOVE | 19.00% | ~3 |
+| Air walker | 13.00% | ~2 |
+| Jump rope | 13.00% | ~2 |
+| Longest Fall | 13.00% | ~2 |
+| Threading the Needle | 13.00% | ~2 |
+| 13 Years in 69 Minutes | 6.00% | ~1 |
+| Ball Dropper | 6.00% | ~1 |
+| Bork & Niko | 6.00% | ~1 |
+| Cautious Completionist | 6.00% | ~1 |
+| Freedom | 6.00% | ~1 |
+| Frequent Flyer | 6.00% | ~1 |
+| Where did I put my keys? | 6.00% | ~1 |
+| Gotta Go Fast | 6.00% | ~1 |
+| Just a Scratch or Two | 6.00% | ~1 |
+| Nostalgia | 6.00% | ~1 |
+| YOLO | 6.00% | ~1 |
+| やり甲斐 | 6.00% | ~1 |
 | Charlie | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 763)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 16 (Ranked 826)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -42,6 +42,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 11 | 0 |
 | 2024-03-21 | 13 | 0 |
 | 2024-04-10 | 14 | 0 |
+| 2024-06-17 | 16 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

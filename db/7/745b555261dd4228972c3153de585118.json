@@ -2,10 +2,10 @@
   "ID": "745b555261dd4228972c3153de585118",
   "Name": "Totally Spies! - Cyber Mission",
   "ProductSlug": "totally-spies-cyber-mission-051599",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-10-31T00:00:00+00:00",
     "PcReleaseDate": "2024-10-31T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-14T16:57:09.1750968+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:41.5968374+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:59.8966578+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:15.5303661+00:00"
 }

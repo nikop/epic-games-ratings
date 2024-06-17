@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Make Him Mad | 70.00% | ~7 |
-| Ark of the Covenant | 30.00% | ~3 |
-| Big Momma | 10.00% | ~1 |
-| Half Blood | 10.00% | ~1 |
-| Left of Centre | 10.00% | ~1 |
-| Of Wulfs and Demons | 10.00% | ~1 |
-| Right Hand Man | 10.00% | ~1 |
-| Teachers and Traitors | 10.00% | ~1 |
-| The Butcheress | 10.00% | ~1 |
-| Thule Chapel | 10.00% | ~1 |
-| Vampiress | 10.00% | ~1 |
-| Walls of Jericho | 10.00% | ~1 |
+| Make Him Mad | 64.00% | ~7 |
+| Ark of the Covenant | 27.00% | ~3 |
+| Big Momma | 18.00% | ~2 |
+| Half Blood | 9.00% | ~1 |
+| Left of Centre | 9.00% | ~1 |
+| Of Wulfs and Demons | 9.00% | ~1 |
+| Right Hand Man | 9.00% | ~1 |
+| Teachers and Traitors | 9.00% | ~1 |
+| The Butcheress | 9.00% | ~1 |
+| Thule Chapel | 9.00% | ~1 |
+| Vampiress | 9.00% | ~1 |
+| Walls of Jericho | 9.00% | ~1 |
 | Head Gun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 791)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 11 (Ranked 869)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -28,6 +28,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2023-10-31 | 8 | 0 |
 | 2023-11-07 | 9 | 0 |
 | 2023-11-08 | 10 | 0 |
+| 2024-06-17 | 11 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

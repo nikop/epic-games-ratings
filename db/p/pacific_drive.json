@@ -5,10 +5,10 @@
   "Ranking_Rating": 214,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 324,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-22T08:00:00+00:00",
     "PcReleaseDate": "2024-02-22T08:00:00+00:00",
@@ -214,7 +214,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1352,
+  "EOS_Progressed": 1941,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -239,6 +239,11 @@
       "Time": "2024-05-13T20:05:24.580867+00:00",
       "NumProgressed": 1352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:18:22.80252+00:00",
+      "NumProgressed": 1941,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:07:47.7975547+00:00",
@@ -249,49 +254,49 @@
       "ID": "CarEquipped",
       "SetID": "9p940h6",
       "Name": "Fully Outfitted",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 176
+      "UsersEstimate": 214
     },
     {
       "ID": "CarFly",
       "SetID": "9p940h6",
       "Name": "Where We\u0027re Going, We Don\u0027t Need Roads",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 427
     },
     {
       "ID": "CarReplace",
       "SetID": "9p940h6",
       "Name": "Car Of Theseus",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 272
     },
     {
       "ID": "CarStorage",
       "SetID": "9p940h6",
       "Name": "Packrat",
-      "Percentage": 19,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 311
     },
     {
       "ID": "CryptidBobble",
       "SetID": "9p940h6",
       "Name": "Along for the Ride",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 136
     },
     {
       "ID": "DecoFull",
       "SetID": "9p940h6",
       "Name": "Personal Methods of Creative Expression are Highly Encouraged",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 214
     },
     {
       "ID": "Distraction",
@@ -299,15 +304,15 @@
       "Name": "Sleight of Hand",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 487
+      "UsersEstimate": 699
     },
     {
       "ID": "DmgCar",
       "SetID": "9p940h6",
       "Name": "Et tu?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 446
     },
     {
       "ID": "DmgHatTrick",
@@ -315,13 +320,13 @@
       "Name": "Just Walk it Off",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "DriveBunny",
       "SetID": "9p940h6",
       "Name": "Watch Out for Hop-ons!",
-      "Percentage": 0.9,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -329,25 +334,25 @@
       "ID": "DriveFar",
       "SetID": "9p940h6",
       "Name": "Long Haul",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 233
     },
     {
       "ID": "DriveFast",
       "SetID": "9p940h6",
       "Name": "Great Scott!",
-      "Percentage": 32,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 563
     },
     {
       "ID": "DrivePark",
       "SetID": "9p940h6",
       "Name": "Driver\u0027s Ed Dropout",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 330
     },
     {
       "ID": "DriveTrees",
@@ -355,39 +360,39 @@
       "Name": "Lumberjack",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 39
     },
     {
       "ID": "FixStreakSE",
       "SetID": "9p940h6",
       "Name": "Certified Mechanic",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 194
     },
     {
       "ID": "InventHalf",
       "SetID": "9p940h6",
       "Name": "DIY Expert",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 243
+      "UsersEstimate": 311
     },
     {
       "ID": "InventMax",
       "SetID": "9p940h6",
       "Name": "DIY Master",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 70,
-      "UsersEstimate": 9
+      "UsersEstimate": 16
     },
     {
       "ID": "InventNew",
       "SetID": "9p940h6",
       "Name": "Patent Pending",
-      "Percentage": 51,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 932
     },
     {
       "ID": "InventStationMax",
@@ -395,7 +400,7 @@
       "Name": "Garage Barrage",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "KickAnomaly",
@@ -403,7 +408,7 @@
       "Name": "Nothing Personnel, Zone",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 97
     },
     {
       "ID": "KickCar",
@@ -411,63 +416,63 @@
       "Name": "Troubleshooting",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 330
     },
     {
       "ID": "LogHalf",
       "SetID": "9p940h6",
       "Name": "ARDA Record-Keeper",
-      "Percentage": 30,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 406
+      "UsersEstimate": 505
     },
     {
       "ID": "LogMax",
       "SetID": "9p940h6",
       "Name": "ARDA Lorekeeper",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 70,
-      "UsersEstimate": 122
+      "UsersEstimate": 136
     },
     {
       "ID": "NaturalRecharge",
       "SetID": "9p940h6",
       "Name": "Renewable Power",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 116
     },
     {
       "ID": "QuirkFirst",
       "SetID": "9p940h6",
       "Name": "Car Whisperer",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 505
     },
     {
       "ID": "RunDoubleJuice",
       "SetID": "9p940h6",
       "Name": "Juiced Up",
-      "Percentage": 31,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 543
     },
     {
       "ID": "RunLong",
       "SetID": "9p940h6",
       "Name": "Streets Ahead",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 116
     },
     {
       "ID": "RunNoBreak",
       "SetID": "9p940h6",
       "Name": "It Would Take a Miracle",
-      "Percentage": 18,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 291
     },
     {
       "ID": "RunNoFuel",
@@ -475,21 +480,21 @@
       "Name": "Running on Empty",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RunNoPark",
       "SetID": "9p940h6",
       "Name": "No Parking",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RunStructureless",
       "SetID": "9p940h6",
       "Name": "With the Top Down",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -499,15 +504,15 @@
       "Name": "I Don\u2019t Know What I Expected",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 116
     },
     {
       "ID": "StealWreck",
       "SetID": "9p940h6",
       "Name": "They Weren\u0027t Using It",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 175
     },
     {
       "ID": "StormAir",
@@ -515,63 +520,63 @@
       "Name": "Fly Homeward",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 116
     },
     {
       "ID": "StormCollapsed",
       "SetID": "9p940h6",
       "Name": "The Eye of the Storm",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 291
     },
     {
       "ID": "StormScan",
       "SetID": "9p940h6",
       "Name": "Scientific Pursuit",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "Tombstone",
       "SetID": "9p940h6",
       "Name": "Graverobber",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 155
     },
     {
       "ID": "q00",
       "SetID": "9p940h6",
       "Name": "The Auto Shop",
-      "Percentage": 51,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 1106
     },
     {
       "ID": "q01",
       "SetID": "9p940h6",
       "Name": "Into the Wilderness",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 835
     },
     {
       "ID": "q015",
       "SetID": "9p940h6",
       "Name": "Investigate the Zone",
-      "Percentage": 37,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 796
     },
     {
       "ID": "q02",
       "SetID": "9p940h6",
       "Name": "A Leap of Faith",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 524
     },
     {
       "ID": "q03",
@@ -579,7 +584,7 @@
       "Name": "Stabilizing the Route",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 388
     },
     {
       "ID": "q05",
@@ -587,7 +592,7 @@
       "Name": "The Mid-Zone Crossing",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 272
     },
     {
       "ID": "q06a",
@@ -595,54 +600,54 @@
       "Name": "Hack the Planet!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 272
     },
     {
       "ID": "q06b",
       "SetID": "9p940h6",
       "Name": "The Visions",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 252
     },
     {
       "ID": "q07",
       "SetID": "9p940h6",
       "Name": "The Red Meadow Records",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 214
     },
     {
       "ID": "q08",
       "SetID": "9p940h6",
       "Name": "The Deep Zone Crossing",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 194
     },
     {
       "ID": "q10",
       "SetID": "9p940h6",
       "Name": "The Anomaly Barricade",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 155
     },
     {
       "ID": "q11",
       "SetID": "9p940h6",
       "Name": "The End of the Road",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 122
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p940h6",
       "IsBase": true,
-      "Progressed": 1352,
+      "Progressed": 1941,
       "Completed": 0
     }
   ],
@@ -650,8 +655,8 @@
   "FirstSeenRating": "2024-02-28T20:59:46.14238+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:47.7975545+00:00",
   "LastChanged": "2024-06-14T02:25:51.936309+00:00",
-  "LastChanged_Achievements": "2024-05-13T20:05:24.5808666+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:18:22.8025196+00:00",
   "LastUpdate_AppInfo": "2024-06-16T09:57:15.9618388+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:12.1154593+00:00",
-  "LastUpdate_Achievements": "2024-05-13T20:05:24.580898+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:17.3643942+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:18:22.8025498+00:00"
 }

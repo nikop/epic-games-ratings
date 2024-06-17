@@ -2,10 +2,10 @@
   "ID": "d998151b857341e29d5241b6d7f6fd3a",
   "Name": "Get Slapped!",
   "ProductSlug": "get-slapped-d1aea8",
-  "Ranking_EOS_Progress": 724,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-01T07:00:00+00:00",
     "PcReleaseDate": "2024-05-01T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -47,6 +47,11 @@
       "Time": "2024-05-13T20:05:43.3939767+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:18:43.0761182+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:05:30.8192119+00:00",
@@ -57,7 +62,7 @@
       "ID": "BTreeAchieve",
       "SetID": "8ko4ph7",
       "Name": "Booty Booty Booty",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -65,9 +70,9 @@
       "ID": "CSAchieve",
       "SetID": "8ko4ph7",
       "Name": "Crouching Slapper Hidden Cockroach",
-      "Percentage": 50,
+      "Percentage": 39,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "CappyDefeat",
@@ -81,7 +86,7 @@
       "ID": "DataLogsAchieve",
       "SetID": "8ko4ph7",
       "Name": "Lore? In my Slapciety?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -91,28 +96,28 @@
       "Name": "Early Access Supporter",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 24
+      "UsersEstimate": 36
     },
     {
       "ID": "SlappaAchieve",
       "SetID": "8ko4ph7",
       "Name": "For A Few Slappers More",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ko4ph7",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:05:30.8192118+00:00",
-  "LastChanged_Achievements": "2024-05-13T20:05:43.3939762+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:18:43.0761177+00:00",
   "LastUpdate_AppInfo": "2024-06-15T08:57:08.1957641+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:21.0833084+00:00",
-  "LastUpdate_Achievements": "2024-05-13T20:05:43.3939826+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:48.1829343+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:18:43.0761247+00:00"
 }

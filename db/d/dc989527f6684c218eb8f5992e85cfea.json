@@ -5,10 +5,10 @@
   "Ranking_Rating": 1067,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 196,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -95,7 +95,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17780,
+  "EOS_Progressed": 19071,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -20090,6 +20090,11 @@
       "Time": "2024-04-10T06:02:26.2298813+00:00",
       "NumProgressed": 17780,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:09:40.6157989+00:00",
+      "NumProgressed": 19071,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -20099,9 +20104,9 @@
       "ID": "ACH_CHANGE_AVATAR_FIRST_TIME",
       "SetID": "5ck0pmd",
       "Name": "Self Portrait",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2134
+      "UsersEstimate": 2479
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -20117,7 +20122,7 @@
       "Name": "Double Rainbow!",
       "Percentage": 0.2,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_6_COLORS",
@@ -20125,7 +20130,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 889
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -20133,15 +20138,15 @@
       "Name": "Shape Novice!",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_10_SECONDS_4_PLAYERS",
       "SetID": "5ck0pmd",
       "Name": "Dal\u00ED",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 107
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -20149,7 +20154,7 @@
       "Name": "Vermeer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_5_SECONDS_4_PLAYERS",
@@ -20157,7 +20162,7 @@
       "Name": "Michelangelo",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_HUNDRED_UPVOTES",
@@ -20171,9 +20176,9 @@
       "ID": "ACH_NOONE_GUESSED_CORRECTLY",
       "SetID": "5ck0pmd",
       "Name": "You tried your best!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8773
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -20181,7 +20186,7 @@
       "Name": "First words",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -20189,7 +20194,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3433
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -20197,7 +20202,7 @@
       "Name": "A true writer!",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_WIN_100_GAMES",
@@ -20205,7 +20210,7 @@
       "Name": "Senior Artist",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_WIN_10_GAMES_GUESS_IT",
@@ -20213,7 +20218,7 @@
       "Name": "It\u0027s a guessing game...",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_WIN_10_GAMES_RATE_IT",
@@ -20221,7 +20226,7 @@
       "Name": "Medal Magnet!",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_WIN_10_GAMES_SCRIBBLE_IT",
@@ -20229,7 +20234,7 @@
       "Name": "Scribble Routinier",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_WIN_25_GAMES",
@@ -20237,7 +20242,7 @@
       "Name": "Junior Artist",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_WIN_50_GAMES_GUESS_IT",
@@ -20253,7 +20258,7 @@
       "Name": "11 out of 10!",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_WIN_50_GAMES_SCRIBBLE_IT",
@@ -20269,7 +20274,7 @@
       "Name": "Art Intern",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3734
+      "UsersEstimate": 4005
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -20277,30 +20282,30 @@
       "Name": "Got It!",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_WIN_A_GAME_RATE_IT",
       "SetID": "5ck0pmd",
       "Name": "First Prize!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
       "SetID": "5ck0pmd",
       "Name": "First Sketch",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3814
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 17780,
+      "Progressed": 19071,
       "Completed": 0
     }
   ],
@@ -20308,8 +20313,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-06-06T19:59:02.8325418+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:26.2298805+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:09:40.6157985+00:00",
   "LastUpdate_AppInfo": "2024-06-16T02:57:02.0444308+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:57.0034674+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:26.2299849+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:57.0795494+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:40.615882+00:00"
 }

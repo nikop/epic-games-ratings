@@ -2,10 +2,10 @@
   "ID": "af1bc981716d44a4a2e6e6bec2fef194",
   "Name": "Cat Billiards",
   "ProductSlug": "cat-billiards-6ec73f",
-  "Ranking_EOS_Progress": 906,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 997,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -848,8 +848,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:17.2925595+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:49.0924591+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:54.632714+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:40.9672816+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:53.9399449+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:49.0925457+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:02.4700306+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:54.6328065+00:00"
 }

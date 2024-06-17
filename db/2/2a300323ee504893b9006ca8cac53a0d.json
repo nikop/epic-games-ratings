@@ -2,10 +2,10 @@
   "ID": "2a300323ee504893b9006ca8cac53a0d",
   "Name": "Overrogue",
   "ProductSlug": "overrogue-3c0b98",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 917,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-06T00:00:00+00:00",
     "PcReleaseDate": "2022-07-06T15:00:00+00:00",
@@ -25,17 +25,243 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:13.3978094+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:13.3978122+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "6e9c0b9",
+      "Name": "Beginners\u0027 Cave",
+      "Percentage": 120,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "10",
+      "SetID": "6e9c0b9",
+      "Name": "Gushion Palace",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "6e9c0b9",
+      "Name": "The Pekoe",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "6e9c0b9",
+      "Name": "Tower of Trial: 5th Floor",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "6e9c0b9",
+      "Name": "True Overlord Castle",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "6e9c0b9",
+      "Name": "Warrior of Darkness",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "15",
+      "SetID": "6e9c0b9",
+      "Name": "Warrior Lord",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "6e9c0b9",
+      "Name": "Warrior of Evil",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "6e9c0b9",
+      "Name": "Labyrinth Challenger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "6e9c0b9",
+      "Name": "Labyrinth Conqueror",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "6e9c0b9",
+      "Name": "Labyrinth Dominator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "6e9c0b9",
+      "Name": "Scream Peak",
+      "Percentage": 60,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "20",
+      "SetID": "6e9c0b9",
+      "Name": "Card Beginner",
+      "Percentage": 20,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "21",
+      "SetID": "6e9c0b9",
+      "Name": "Card Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "6e9c0b9",
+      "Name": "Card Maister",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "6e9c0b9",
+      "Name": "Amateur Challenger",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "24",
+      "SetID": "6e9c0b9",
+      "Name": "Experienced Challenger",
+      "Percentage": 20,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "25",
+      "SetID": "6e9c0b9",
+      "Name": "Expert Challenger",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "6e9c0b9",
+      "Name": "Underworld Helper",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "6e9c0b9",
+      "Name": "Brownie Street",
+      "Percentage": 40,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "4",
+      "SetID": "6e9c0b9",
+      "Name": "Overlord Castle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "6e9c0b9",
+      "Name": "Zareos Ruins",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "6e9c0b9",
+      "Name": "Osay Forest",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "6e9c0b9",
+      "Name": "Tempuraly Avenue",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "6e9c0b9",
+      "Name": "Gaap Hall",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "6e9c0b9",
+      "Name": "Gamijin Cliff",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "6e9c0b9",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-13T17:58:35.6592482+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:13.3978121+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:13.3978088+00:00",
   "LastUpdate_AppInfo": "2024-06-14T02:57:14.2693916+00:00",
-  "LastUpdate_Ratings": "2024-06-17T15:00:07.7863484+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:31.4215707+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:13.3985044+00:00"
 }

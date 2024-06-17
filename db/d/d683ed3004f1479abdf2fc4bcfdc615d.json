@@ -2,10 +2,10 @@
   "ID": "d683ed3004f1479abdf2fc4bcfdc615d",
   "Name": "Eigengrau",
   "ProductSlug": "eigengrau-62aef0",
-  "Ranking_EOS_Progress": 820,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 887,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-07-03T10:00:00+00:00",
     "PcReleaseDate": "2023-06-04T22:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -59,6 +59,11 @@
     {
       "Time": "2024-04-10T06:02:25.7068431+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:09:39.575023+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -101,9 +106,9 @@
       "ID": "PROGRESS_00",
       "SetID": "2122228",
       "Name": "The Blade of Beginning",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROGRESS_01",
@@ -598,20 +603,20 @@
     {
       "ID": "2122228",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 8,
       "Completed": 0
     },
     {
       "ID": "2h64pjh",
       "IsBase": false,
-      "Progressed": 2,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T11:00:58.826137+00:00",
   "FirstSeenAchievements": "2023-06-17T23:00:57.8989714+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:25.7068421+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:09:39.5750224+00:00",
   "LastUpdate_AppInfo": "2024-06-17T06:57:09.3767344+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:34.264295+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:25.7069021+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:49.5128346+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:39.5750696+00:00"
 }

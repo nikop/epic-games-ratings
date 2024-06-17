@@ -2,10 +2,10 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Completed": 335,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 363,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1609,6 +1609,11 @@
       "Time": "2024-04-10T06:03:14.3556266+00:00",
       "NumProgressed": 358,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:11:14.2247778+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1677,7 +1682,7 @@
       "Name": "Golden Button",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_MAIN_GOLD_CARROT",
@@ -1693,7 +1698,7 @@
       "Name": "Golden Hat",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_MAIN_GOLD_SCARF",
@@ -1725,7 +1730,7 @@
       "Name": "Silver Button",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
@@ -1741,7 +1746,7 @@
       "Name": "Silver Hat",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_SCARF",
@@ -1764,14 +1769,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 363,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:14.355626+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:11:14.2247772+00:00",
   "LastUpdate_AppInfo": "2024-06-10T17:57:06.2094894+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:28.8543093+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:14.3556468+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:06.5106896+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:14.2247977+00:00"
 }

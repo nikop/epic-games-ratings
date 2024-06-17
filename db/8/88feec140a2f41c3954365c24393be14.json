@@ -5,10 +5,10 @@
   "Ranking_Rating": 724,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 106,
-  "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 111,
+  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
     "PcReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -251,11 +251,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125512,
-  "EOS_Completed": 6626,
+  "EOS_Progressed": 132036,
+  "EOS_Completed": 7215,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.28,
+  "EOS_Completed_Percentage": 5.46,
   "EosHistory": [
     {
       "Time": "2023-09-14T16:03:33.5899615+00:00",
@@ -15836,6 +15836,11 @@
       "Time": "2024-04-10T06:04:10.4575542+00:00",
       "NumProgressed": 125512,
       "NumCompleted": 6626
+    },
+    {
+      "Time": "2024-06-17T16:12:59.5169187+00:00",
+      "NumProgressed": 132036,
+      "NumCompleted": 7215
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -15848,23 +15853,23 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 79073
+      "UsersEstimate": 83183
     },
     {
       "ID": "GoldMedalCrewmates",
       "SetID": "bcl47p5",
       "Name": "Gold Medal Crewmates",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 125,
-      "UsersEstimate": 22592
+      "UsersEstimate": 25087
     },
     {
       "ID": "GoldPact",
       "SetID": "bcl47p5",
       "Name": "Gold Pact",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 125,
-      "UsersEstimate": 23847
+      "UsersEstimate": 26407
     },
     {
       "ID": "OurFriendshipIsGolden",
@@ -15872,23 +15877,23 @@
       "Name": "Our Friendship is Golden",
       "Percentage": 7,
       "XP": 150,
-      "UsersEstimate": 8786
+      "UsersEstimate": 9243
     },
     {
       "ID": "PelagicPerils",
       "SetID": "bcl47p5",
       "Name": "Pelagic Perils",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 74052
+      "UsersEstimate": 79222
     },
     {
       "ID": "ShipDip",
       "SetID": "bcl47p5",
       "Name": "Ship Dip!",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 69032
+      "UsersEstimate": 73940
     },
     {
       "ID": "TheArtOfParley",
@@ -15896,31 +15901,31 @@
       "Name": "The Art of Parley",
       "Percentage": 78,
       "XP": 75,
-      "UsersEstimate": 97899
+      "UsersEstimate": 102988
     },
     {
       "ID": "TheGoldenRatio",
       "SetID": "bcl47p5",
       "Name": "The Golden Ratio",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 125,
-      "UsersEstimate": 16317
+      "UsersEstimate": 18485
     },
     {
       "ID": "TilesTrailsTreasure",
       "SetID": "bcl47p5",
       "Name": "Tiles, Trails, Treasure!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 75,
-      "UsersEstimate": 79073
+      "UsersEstimate": 84503
     },
     {
       "ID": "WeCanDoBetter",
       "SetID": "bcl47p5",
       "Name": "We Can Do Better!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 99154
+      "UsersEstimate": 105629
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -15928,31 +15933,31 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 101665
+      "UsersEstimate": 106949
     },
     {
       "ID": "WelcomeAboard",
       "SetID": "bcl47p5",
       "Name": "Welcome Aboard!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 100410
+      "UsersEstimate": 106949
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 125512,
-      "Completed": 6626
+      "Progressed": 132036,
+      "Completed": 7215
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2024-06-14T09:59:13.9872306+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:10.4575536+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:59.5169175+00:00",
   "LastUpdate_AppInfo": "2024-06-14T07:56:59.9416986+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:01:14.3953866+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:10.4576349+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:01.2423724+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:59.5170144+00:00"
 }

@@ -6,58 +6,58 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 96.00% | ~258 |
-| Daily Life Begins Anew | 80.00% | ~215 |
-| Our World Now | 80.00% | ~215 |
-| Never Saw It Coming | 64.00% | ~172 |
-| Coup de Grace | 56.00% | ~151 |
-| Go-Home Club Activities START! | 47.00% | ~126 |
-| Philanthropist | 37.00% | ~100 |
-| Behind the Curtain | 32.00% | ~86 |
-| Test Your Luck | 32.00% | ~86 |
-| Master of Surprise | 28.00% | ~75 |
-| Be Who You Wanna Be | 26.00% | ~70 |
-| Investment Ban-χ-ing | 24.00% | ~65 |
-| Counter Champion | 24.00% | ~65 |
-| Friendly Neighborhood | 23.00% | ~62 |
-| Combo Commando | 23.00% | ~62 |
-| One-Track Mind | 22.00% | ~59 |
-| WIRE Guru | 22.00% | ~59 |
-| Nice Doing Business | 22.00% | ~59 |
-| Stay Winning | 22.00% | ~59 |
-| Lost Souls For Sale | 20.00% | ~54 |
-| The Greater Good | 19.00% | ~51 |
-| Depths of the Heart | 19.00% | ~51 |
-| Selfish Decisions | 18.00% | ~48 |
-| Extracurricular Affair | 18.00% | ~48 |
-| Trigger Finger | 18.00% | ~48 |
-| Pulling Heartstrings | 17.00% | ~46 |
-| Hopes Rewarded | 16.00% | ~43 |
-| Guarding Guru | 16.00% | ~43 |
-| To Each Their Own | 11.00% | ~30 |
-| Eat Your Heart Out | 11.00% | ~30 |
-| Hustled and Bustled | 11.00% | ~30 |
-| Extra! Extra! Journalism Club Showdown | 9.00% | ~24 |
-| Redo Redone | 8.00% | ~22 |
-| Prince of Lettuce | 8.00% | ~22 |
-| Love, Loss, and the Omega Nebula | 8.00% | ~22 |
-| The Part-Time Tyrant | 7.00% | ~19 |
-| Songstress Unleashed | 7.00% | ~19 |
-| Executive Privilege | 7.00% | ~19 |
-| For the Love of Regret | 4.00% | ~11 |
-| Building Bridges | 3.00% | ~8 |
-| From Nurse to Worse | 3.00% | ~8 |
-| Birth of a Salesman | 3.00% | ~8 |
-| Group Therapy | 3.00% | ~8 |
-| χ Signature | 3.00% | ~8 |
-| To the Other Side | 2.00% | ~5 |
+| Welcome to Redo | 95.00% | ~274 |
+| Daily Life Begins Anew | 80.00% | ~230 |
+| Our World Now | 79.00% | ~228 |
+| Never Saw It Coming | 64.00% | ~184 |
+| Coup de Grace | 56.00% | ~161 |
+| Go-Home Club Activities START! | 46.00% | ~132 |
+| Philanthropist | 36.00% | ~104 |
+| Test Your Luck | 32.00% | ~92 |
+| Behind the Curtain | 31.00% | ~89 |
+| Master of Surprise | 28.00% | ~81 |
+| Be Who You Wanna Be | 26.00% | ~75 |
+| Counter Champion | 24.00% | ~69 |
+| Combo Commando | 24.00% | ~69 |
+| Friendly Neighborhood | 23.00% | ~66 |
+| Investment Ban-χ-ing | 23.00% | ~66 |
+| One-Track Mind | 22.00% | ~63 |
+| Nice Doing Business | 22.00% | ~63 |
+| Stay Winning | 22.00% | ~63 |
+| WIRE Guru | 21.00% | ~60 |
+| The Greater Good | 19.00% | ~55 |
+| Depths of the Heart | 19.00% | ~55 |
+| Lost Souls For Sale | 19.00% | ~55 |
+| Selfish Decisions | 18.00% | ~52 |
+| Extracurricular Affair | 18.00% | ~52 |
+| Trigger Finger | 18.00% | ~52 |
+| Pulling Heartstrings | 17.00% | ~49 |
+| Hopes Rewarded | 16.00% | ~46 |
+| Guarding Guru | 16.00% | ~46 |
+| To Each Their Own | 11.00% | ~32 |
+| Eat Your Heart Out | 11.00% | ~32 |
+| Hustled and Bustled | 10.00% | ~29 |
+| Extra! Extra! Journalism Club Showdown | 9.00% | ~26 |
+| Prince of Lettuce | 8.00% | ~23 |
+| Love, Loss, and the Omega Nebula | 8.00% | ~23 |
+| Redo Redone | 7.00% | ~20 |
+| The Part-Time Tyrant | 7.00% | ~20 |
+| Songstress Unleashed | 7.00% | ~20 |
+| Executive Privilege | 7.00% | ~20 |
+| For the Love of Regret | 4.00% | ~12 |
+| Building Bridges | 3.00% | ~9 |
+| Birth of a Salesman | 3.00% | ~9 |
+| To the Other Side | 2.00% | ~6 |
+| From Nurse to Worse | 2.00% | ~6 |
+| Group Therapy | 2.00% | ~6 |
+| χ Signature | 2.00% | ~6 |
+| The Caligula Effect 2 | 1.00% | ~3 |
 | World Peace | 1.00% | ~3 |
 | Heart of Gold | 1.00% | ~3 |
 | Topical Conversationalist | 1.00% | ~3 |
-| The Caligula Effect 2 | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 468)  
-Completed: 2 (0.74%) (Ranked 233)  
+Progressed: 288 (Ranked 511)  
+Completed: 3 (1.04%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,6 +90,7 @@ Completed: 2 (0.74%) (Ranked 233)
 | 2024-02-22 | 263 | 2 |
 | 2024-03-21 | 267 | 2 |
 | 2024-04-10 | 269 | 2 |
+| 2024-06-17 | 288 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

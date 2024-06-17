@@ -2,10 +2,10 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 610,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 119,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.94,
+  "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
       "Time": "2023-09-21T16:04:08.4521224+00:00",
@@ -499,6 +499,11 @@
       "Time": "2024-04-10T06:06:28.3583074+00:00",
       "NumProgressed": 106,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:17:06.8510805+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-15T20:07:40.8374596+00:00",
@@ -509,9 +514,9 @@
       "ID": "1",
       "SetID": "d37idgg",
       "Name": "Master trainee",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 73
     },
     {
       "ID": "10",
@@ -519,7 +524,7 @@
       "Name": "You\u0027ve awakened the beast",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "11",
@@ -527,7 +532,7 @@
       "Name": "Hate is... addictive",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "12",
@@ -535,15 +540,15 @@
       "Name": "You had one wish left",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "13",
       "SetID": "d37idgg",
       "Name": "Blessed antennas",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "14",
@@ -551,15 +556,15 @@
       "Name": "The beast in the Oval Office",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "15",
       "SetID": "d37idgg",
       "Name": "Blood Red Island",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "16",
@@ -567,7 +572,7 @@
       "Name": "Bread and bocaua",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "17",
@@ -575,31 +580,31 @@
       "Name": "Fanatacism is... poisonous",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 58
     },
     {
       "ID": "19",
       "SetID": "d37idgg",
       "Name": "Giant",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 65
     },
     {
       "ID": "20",
@@ -607,7 +612,7 @@
       "Name": "A rival with no options",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "21",
@@ -615,23 +620,23 @@
       "Name": "Et in arcadia ego",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "22",
       "SetID": "d37idgg",
       "Name": "The artist",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "23",
       "SetID": "d37idgg",
       "Name": "The seer",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "24",
@@ -639,29 +644,29 @@
       "Name": "The bully",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "25",
       "SetID": "d37idgg",
       "Name": "The scholar",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "26",
       "SetID": "d37idgg",
       "Name": "The adventurer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "27",
       "SetID": "d37idgg",
       "Name": "Pulp! The Perfect Crime",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -669,7 +674,7 @@
       "ID": "28",
       "SetID": "d37idgg",
       "Name": "Pulp! Weird Science",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -677,7 +682,7 @@
       "ID": "29",
       "SetID": "d37idgg",
       "Name": "Pulp! Heart Throbs",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -685,9 +690,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 55
     },
     {
       "ID": "30",
@@ -695,21 +700,21 @@
       "Name": "Pulp! Mister Mystery",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "31",
       "SetID": "d37idgg",
       "Name": "Pulp! Tales from the Crypt",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "32",
       "SetID": "d37idgg",
       "Name": "Pulp! Skeleton Hand",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -719,23 +724,23 @@
       "Name": "Pulp! The Vault of Horror",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "34",
       "SetID": "d37idgg",
       "Name": "Pulp! Terror Tales in the Night",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "36",
@@ -743,7 +748,7 @@
       "Name": "Pulp! Out of this World",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "37",
@@ -751,7 +756,7 @@
       "Name": "Pulp! Adventures into the Unknown",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "38",
@@ -759,31 +764,31 @@
       "Name": "Pulp! True Adventures",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "39",
       "SetID": "d37idgg",
       "Name": "Pulp! The Beyond",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "40",
       "SetID": "d37idgg",
       "Name": "Kirlian\u0027s best disciple",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "41",
@@ -791,7 +796,7 @@
       "Name": "Thirst for Oleum",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "42",
@@ -799,7 +804,7 @@
       "Name": "The barbarian invasions",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "43",
@@ -807,13 +812,13 @@
       "Name": "ECO mode",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "44",
       "SetID": "d37idgg",
       "Name": "America had no Faith",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -821,7 +826,7 @@
       "ID": "45",
       "SetID": "d37idgg",
       "Name": "Vaccine fans",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -831,15 +836,15 @@
       "Name": "Troy is burning!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "47",
       "SetID": "d37idgg",
       "Name": "A new Hindenburg",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "5",
@@ -847,7 +852,7 @@
       "Name": "The happy farmer girl",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "6",
@@ -855,7 +860,7 @@
       "Name": "Diagnosis: fear",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "7",
@@ -863,7 +868,7 @@
       "Name": "Ambition is... blind",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "8",
@@ -871,7 +876,7 @@
       "Name": "You have two wishes left",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "9",
@@ -879,21 +884,21 @@
       "Name": "Welcome to Hellville",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "d37idgg",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 119,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:28.3583069+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:06.8510799+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:43.9055717+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:04.8741629+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:28.3583403+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:31.1743252+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:06.851122+00:00"
 }

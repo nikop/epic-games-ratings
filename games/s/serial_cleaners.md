@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Conscience | 48.00% | ~189 |
-| So it goes | 42.00% | ~165 |
-| A New Broom Sweeps Clean | 21.00% | ~83 |
-| Off to a Good Start | 17.00% | ~67 |
-| Small-time Finder | 17.00% | ~67 |
-| Business as usual | 14.00% | ~55 |
-| Mr. Hygeni | 11.00% | ~43 |
-| Pride and Joy | 9.00% | ~35 |
-| Eyes Yet To Open | 7.00% | ~28 |
-| Hackathon | 6.00% | ~24 |
-| Total Recall | 5.00% | ~20 |
-| All the Stories | 4.00% | ~16 |
-| Something Rotten | 4.00% | ~16 |
-| Witness Protection | 4.00% | ~16 |
-| The Wing and the Thigh | 4.00% | ~16 |
-| Blood Capade | 2.00% | ~8 |
-| Bee Squat | 2.00% | ~8 |
+| Clean Conscience | 50.00% | ~218 |
+| So it goes | 45.00% | ~197 |
+| A New Broom Sweeps Clean | 22.00% | ~96 |
+| Off to a Good Start | 18.00% | ~79 |
+| Small-time Finder | 18.00% | ~79 |
+| Business as usual | 15.00% | ~66 |
+| Mr. Hygeni | 11.00% | ~48 |
+| Pride and Joy | 9.00% | ~39 |
+| Eyes Yet To Open | 8.00% | ~35 |
+| Hackathon | 8.00% | ~35 |
+| Total Recall | 6.00% | ~26 |
+| All the Stories | 5.00% | ~22 |
+| Something Rotten | 5.00% | ~22 |
+| Witness Protection | 5.00% | ~22 |
+| The Wing and the Thigh | 4.00% | ~17 |
+| Bee Squat | 3.00% | ~13 |
+| Blood Capade | 2.00% | ~9 |
+| … Women Inherit The Earth | 2.00% | ~6 |
 | The Crush And Smash The Dino Four | 1.00% | ~3 |
-| … Women Inherit The Earth | 1.00% | ~3 |
 | The Germophobes | 1.00% | ~4 |
-| Crazy SOB, You Did It | 0.50% | ~1 |
-| Do-you-think-he-saurus | 0.30% | ~1 |
-| Cha Cha Real Smooth | 0.30% | ~1 |
-| That’s One Big Pile | 0.30% | ~1 |
+| Crazy SOB, You Did It | 0.50% | ~2 |
+| Do-you-think-he-saurus | 0.20% | ~1 |
+| Cha Cha Real Smooth | 0.20% | ~1 |
+| That’s One Big Pile | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 394 (Ranked 432)  
-Completed: 6 (1.52%) (Ranked 175)  
+Progressed: 437 (Ranked 465)  
+Completed: 6 (1.37%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,6 +129,7 @@ Completed: 6 (1.52%) (Ranked 175)
 | 2024-01-26 | 309 | 6 |
 | 2024-03-21 | 372 | 6 |
 | 2024-04-10 | 394 | 6 |
+| 2024-06-17 | 437 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

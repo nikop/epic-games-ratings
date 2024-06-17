@@ -4,28 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 76.00% | ~134 |
-| Gear Up | 64.00% | ~113 |
-| A Grand Show | 64.00% | ~113 |
-| Freshen Up | 54.00% | ~95 |
-| GG EZ | 52.00% | ~92 |
-| Hydrophobia | 35.00% | ~62 |
-| Ka-Ching! | 29.00% | ~51 |
-| Stop Right There | 27.00% | ~48 |
-| Get to the Point | 23.00% | ~40 |
-| Phew! | 16.00% | ~28 |
-| Mr. Want It All | 14.00% | ~25 |
-| Toe to Toe | 14.00% | ~25 |
-| The Hidden Secret | 13.00% | ~23 |
-| Grand Escape | 10.00% | ~18 |
-| Space Warrior: Prologue | 10.00% | ~18 |
-| The Abyss Conqueror | 9.00% | ~16 |
-| The Fortress Conqueror | 7.00% | ~12 |
-| Keep it Up, rookie! | 7.00% | ~12 |
+| Iceberg Theory | 76.00% | ~141 |
+| Gear Up | 65.00% | ~121 |
+| A Grand Show | 65.00% | ~121 |
+| Freshen Up | 54.00% | ~100 |
+| GG EZ | 53.00% | ~99 |
+| Hydrophobia | 35.00% | ~65 |
+| Ka-Ching! | 28.00% | ~52 |
+| Stop Right There | 26.00% | ~48 |
+| Get to the Point | 23.00% | ~43 |
+| Phew! | 16.00% | ~30 |
+| Mr. Want It All | 13.00% | ~24 |
+| Toe to Toe | 13.00% | ~24 |
+| The Hidden Secret | 12.00% | ~22 |
+| The Abyss Conqueror | 9.00% | ~17 |
+| Grand Escape | 9.00% | ~17 |
+| Space Warrior: Prologue | 9.00% | ~17 |
+| The Fortress Conqueror | 7.00% | ~13 |
+| Keep it Up, rookie! | 6.00% | ~11 |
 | The Inactivated Frozen Conqueror | 5.00% | ~9 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~9 |
 | he Ultra Fortress Conqueror | 5.00% | ~9 |
-| Decapitation Strike | 5.00% | ~9 |
 | The Sunken City Conqueror | 4.00% | ~7 |
 | The Deep Frozen Conqueror | 4.00% | ~7 |
 | The Infinite Train Conqueror | 4.00% | ~7 |
@@ -34,13 +33,14 @@
 | Rapidfire | 4.00% | ~7 |
 | Antaeus | 4.00% | ~7 |
 | Hell of a Fight | 4.00% | ~7 |
-| The Zero Dimensional Capital Conqueror | 3.00% | ~5 |
-| Death Bringer Conqueror | 3.00% | ~5 |
-| The Looping Space Conqueror | 3.00% | ~5 |
-| The Truth? | 3.00% | ~5 |
-| Air Interception | 3.00% | ~5 |
-| Proliferation | 3.00% | ~5 |
-| Bye Bye Gravity | 3.00% | ~5 |
+| Decapitation Strike | 4.00% | ~7 |
+| The Zero Dimensional Capital Conqueror | 3.00% | ~6 |
+| Death Bringer Conqueror | 3.00% | ~6 |
+| The Looping Space Conqueror | 3.00% | ~6 |
+| The Truth? | 3.00% | ~6 |
+| Air Interception | 3.00% | ~6 |
+| Proliferation | 3.00% | ~6 |
+| Bye Bye Gravity | 3.00% | ~6 |
 | Break Through the Forbidden | 2.00% | ~4 |
 | Breaking the Limit | 2.00% | ~4 |
 | Pumped Up | 2.00% | ~4 |
@@ -48,15 +48,15 @@
 | Alloy Rangers, Assemble! | 1.00% | ~2 |
 | Easy Peasy | 1.00% | ~2 |
 | Clean Sweep | 1.00% | ~2 |
-| Flawless | 0.60% | ~1 |
-| Peace Out | 0.60% | ~1 |
-| Mischief Time | 0.60% | ~1 |
-| Art is an Explosion | 0.60% | ~1 |
-| Bullets Fear Me | 0.60% | ~1 |
-| Super Alloy Ranger! | 0.60% | ~1 |
+| Flawless | 0.50% | ~1 |
+| Peace Out | 0.50% | ~1 |
+| Mischief Time | 0.50% | ~1 |
+| Art is an Explosion | 0.50% | ~1 |
+| Bullets Fear Me | 0.50% | ~1 |
+| Super Alloy Ranger! | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 513)  
-Completed: 1 (0.57%) (Ranked 254)  
+Progressed: 186 (Ranked 558)  
+Completed: 1 (0.54%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,6 +150,7 @@ Completed: 1 (0.57%) (Ranked 254)
 | 2024-02-22 | 168 | 1 |
 | 2024-03-21 | 174 | 1 |
 | 2024-04-10 | 176 | 1 |
+| 2024-06-17 | 186 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

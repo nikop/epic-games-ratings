@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 76.00% | ~68 |
-| Grand Re-Opening | 67.00% | ~60 |
-| Pup Pup Boogie | 65.00% | ~58 |
-| Summer Day | 62.00% | ~55 |
-| Mr. Porter | 52.00% | ~46 |
-| Risky Rescue | 47.00% | ~42 |
-| Carlos Is Tangled | 45.00% | ~40 |
-| Clear the Road | 42.00% | ~37 |
-| Paw patrol member | 40.00% | ~36 |
-| Mandy Family | 40.00% | ~36 |
-| Robot Out of Control | 40.00% | ~36 |
-| Never Miss | 38.00% | ~34 |
-| Break Time | 33.00% | ~29 |
-| In the Air | 33.00% | ~29 |
-| Training Day | 30.00% | ~27 |
-| Master of the Rope | 29.00% | ~26 |
-| Adventure Bay’s Citizen | 27.00% | ~24 |
-| Animal Sighting | 25.00% | ~22 |
-| The Fastest | 22.00% | ~20 |
-| You Have Been Everywhere | 21.00% | ~19 |
-| Don’t Miss Any | 21.00% | ~19 |
-| Mountain and Ice | 20.00% | ~18 |
-| Everything Under Control | 17.00% | ~15 |
-| Nothing Can Stop You | 8.00% | ~7 |
-| A Great Explorer | 7.00% | ~6 |
-| King of the Mountain | 4.00% | ~4 |
-| Air Ace | 1.00% | ~1 |
-| You Know Them All | 1.00% | ~1 |
-| The Collector | 1.00% | ~1 |
-| Pup Treat Master | 1.00% | ~1 |
+| Mighty Powers | 82.00% | ~99 |
+| Grand Re-Opening | 74.00% | ~90 |
+| Pup Pup Boogie | 69.00% | ~83 |
+| Summer Day | 64.00% | ~77 |
+| Mr. Porter | 55.00% | ~67 |
+| Risky Rescue | 54.00% | ~65 |
+| Carlos Is Tangled | 50.00% | ~60 |
+| Clear the Road | 47.00% | ~57 |
+| Mandy Family | 45.00% | ~54 |
+| Never Miss | 44.00% | ~53 |
+| Paw patrol member | 41.00% | ~50 |
+| Robot Out of Control | 41.00% | ~50 |
+| Break Time | 37.00% | ~45 |
+| In the Air | 35.00% | ~42 |
+| Master of the Rope | 34.00% | ~41 |
+| Training Day | 31.00% | ~38 |
+| Adventure Bay’s Citizen | 30.00% | ~36 |
+| The Fastest | 25.00% | ~30 |
+| Animal Sighting | 23.00% | ~28 |
+| You Have Been Everywhere | 21.00% | ~25 |
+| Don’t Miss Any | 21.00% | ~25 |
+| Mountain and Ice | 19.00% | ~23 |
+| Everything Under Control | 17.00% | ~21 |
+| Nothing Can Stop You | 10.00% | ~12 |
+| A Great Explorer | 7.00% | ~8 |
+| King of the Mountain | 6.00% | ~7 |
+| Air Ace | 4.00% | ~5 |
+| You Know Them All | 2.00% | ~2 |
+| The Collector | 2.00% | ~2 |
+| Pup Treat Master | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 583)  
-Completed: 1 (1.12%) (Ranked 200)  
+Progressed: 121 (Ranked 607)  
+Completed: 3 (2.48%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 1 (1.12%) (Ranked 200)
 | 2024-01-20 | 65 | 1 |
 | 2024-03-21 | 81 | 1 |
 | 2024-04-10 | 89 | 1 |
+| 2024-06-17 | 121 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,28 +6,28 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 83.00% | ~1,022 |
-| Take-Off | 81.00% | ~997 |
-| Hokey-Pokey | 68.00% | ~837 |
-| Camellos | 54.00% | ~665 |
-| Bad Trip | 45.00% | ~554 |
-| Didn't Miss A Single One | 44.00% | ~542 |
-| That was base | 44.00% | ~542 |
-| Spread | 43.00% | ~529 |
-| Safe Pair of Hands | 34.00% | ~419 |
-| Don't Let Mom Know You're A Druglord | 31.00% | ~382 |
-| Architect of Fortunes | 23.00% | ~283 |
-| Bite the Blow | 22.00% | ~271 |
-| Pampered Life | 22.00% | ~271 |
-| Spreading Fear | 8.00% | ~98 |
-| I'm Going To Call You Kitty | 7.00% | ~86 |
-| Follow the Money | 6.00% | ~74 |
-| Operation Odessa | 1.00% | ~12 |
-| Iron Lady | 0.50% | ~6 |
-| Sense Of Style | 0.40% | ~5 |
+| Our Man | 84.00% | ~1,200 |
+| Take-Off | 82.00% | ~1,171 |
+| Hokey-Pokey | 67.00% | ~957 |
+| Camellos | 53.00% | ~757 |
+| That was base | 45.00% | ~643 |
+| Bad Trip | 45.00% | ~643 |
+| Spread | 44.00% | ~628 |
+| Didn't Miss A Single One | 43.00% | ~614 |
+| Safe Pair of Hands | 33.00% | ~471 |
+| Don't Let Mom Know You're A Druglord | 31.00% | ~443 |
+| Architect of Fortunes | 22.00% | ~314 |
+| Bite the Blow | 22.00% | ~314 |
+| Pampered Life | 21.00% | ~300 |
+| Spreading Fear | 8.00% | ~114 |
+| I'm Going To Call You Kitty | 7.00% | ~100 |
+| Follow the Money | 6.00% | ~86 |
+| Operation Odessa | 2.00% | ~29 |
+| Sense Of Style | 0.40% | ~6 |
+| Iron Lady | 0.40% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,231 (Ranked 332)  
-Completed: 4 (0.32%) (Ranked 294)  
+Progressed: 1,428 (Ranked 360)  
+Completed: 4 (0.28%) (Ranked 335)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,6 +269,7 @@ Completed: 4 (0.32%) (Ranked 294)
 | 2024-01-26 | 1,066 | 3 |
 | 2024-03-21 | 1,195 | 4 |
 | 2024-04-10 | 1,231 | 4 |
+| 2024-06-17 | 1,428 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

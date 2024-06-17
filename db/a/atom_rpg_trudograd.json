@@ -5,10 +5,10 @@
   "Ranking_Rating": 584,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 626,
-  "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -282,7 +282,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1507,
+  "EOS_Progressed": 1575,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2382,6 +2382,11 @@
       "Time": "2024-04-10T06:05:15.2925266+00:00",
       "NumProgressed": 1507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:14:59.6389044+00:00",
+      "NumProgressed": 1575,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2391,9 +2396,9 @@
       "ID": "ADMIRAL",
       "SetID": "62d2oh4",
       "Name": "Admiral",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ALBINO_BLOODSUCKER",
@@ -2401,7 +2406,7 @@
       "Name": "Albino Bloodsucker",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ATOM_KVAS",
@@ -2409,7 +2414,7 @@
       "Name": "Atomic Soda",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "ATOM_QUIT",
@@ -2431,9 +2436,9 @@
       "ID": "B_E",
       "SetID": "62d2oh4",
       "Name": "Baby Eater",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "COMMANDO",
@@ -2449,7 +2454,7 @@
       "Name": "Death of the Author",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ESCALATION_OF_CONFLICT",
@@ -2465,7 +2470,7 @@
       "Name": "Fight Club",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "FREELANCE_POLICE",
@@ -2473,7 +2478,7 @@
       "Name": "Freelance Police",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "HOLY_MOUNTAIN",
@@ -2489,7 +2494,7 @@
       "Name": "Household",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -2497,7 +2502,7 @@
       "Name": "Human Antidote",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "INCOMPETENCE",
@@ -2513,7 +2518,7 @@
       "Name": "KGB Bunker",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "LOT_49",
@@ -2521,23 +2526,23 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "LUCKY_GOOSE",
       "SetID": "62d2oh4",
       "Name": "Goose Sacrifice",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MEMOIRS_OF_A_NIBBLER",
       "SetID": "62d2oh4",
       "Name": "Memoirs of a Nibbler",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "MYST_KNIFE",
@@ -2545,7 +2550,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "OLD_FRIEND",
@@ -2553,7 +2558,7 @@
       "Name": "An Old Friend",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "POSITRONIUM",
@@ -2561,31 +2566,31 @@
       "Name": "The Great and Powerful",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "POWER_SIMPLICITY",
       "SetID": "62d2oh4",
       "Name": "Power of Simplicity",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "RISING_STAR",
       "SetID": "62d2oh4",
       "Name": "Rising Star",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "SECOND_THOUGHT",
       "SetID": "62d2oh4",
       "Name": "Second Thought",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SHADOW_OVER_TRUDOGRAD",
@@ -2593,7 +2598,7 @@
       "Name": "Shadow over Trudograd",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "SICK_FREAK",
@@ -2625,7 +2630,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -2633,7 +2638,7 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -2641,14 +2646,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1370
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1507,
+      "Progressed": 1575,
       "Completed": 0
     }
   ],
@@ -2656,8 +2661,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2024-06-15T22:59:53.9071631+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:15.2925261+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:14:59.638904+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:13.0137354+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:18.8617125+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:15.2925535+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:43.6477729+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:59.6389288+00:00"
 }

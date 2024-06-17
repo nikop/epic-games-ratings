@@ -2,10 +2,10 @@
   "ID": "2ff9b80a92ef4a3fbc506a62f1bc3c59",
   "Name": "POPUCOM",
   "ProductSlug": "popucom-3b79ee",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-15T13:57:22.2091768+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:43.0912003+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:35.9812722+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:02.1016416+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:54.974336+00:00"
 }

@@ -4,7 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terra Atlantus | 0.00% | ~0 |
+| Terra Atlantus | 33.00% | ~2 |
+| Brute Force | 33.00% | ~2 |
 | Tak Mal Arik Tiak | 0.00% | ~0 |
 | Time and Again | 0.00% | ~0 |
 | Under the Radar | 0.00% | ~0 |
@@ -18,7 +19,6 @@
 | Battle-Hardened | 0.00% | ~0 |
 | No Harm Done | 0.00% | ~0 |
 | Probably Just the Wind | 0.00% | ~0 |
-| Brute Force | 0.00% | ~0 |
 | Is That All Ya Got? | 0.00% | ~0 |
 | Three Birds, One Drone | 0.00% | ~0 |
 | Four of a Kind | 0.00% | ~0 |
@@ -35,9 +35,10 @@
 | The Great Gabber | 0.00% | ~0 |
 | Arm Day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 906)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 6 (Ranked 903)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-02-22 | 1 | 0 |
+| 2024-06-17 | 6 | 0 |

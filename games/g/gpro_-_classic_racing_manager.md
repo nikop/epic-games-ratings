@@ -5,42 +5,42 @@ Rating: 3.78 (Ranked 1,196)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 73.00% | ~449 |
-| Photo shoot | 18.00% | ~111 |
-| No brakes | 14.00% | ~86 |
-| Wannabe | 12.00% | ~74 |
-| First taste | 10.00% | ~62 |
-| Amateur hitchhiker | 7.00% | ~43 |
-| Better than cake | 7.00% | ~43 |
-| Amateur newbie | 3.00% | ~18 |
-| Reliability expert | 3.00% | ~18 |
-| Hero | 2.00% | ~12 |
-| Drama queen | 2.00% | ~12 |
-| Mr. Whiting | 2.00% | ~12 |
-| Hattrick | 2.00% | ~12 |
-| Amateur photo shoot | 2.00% | ~12 |
-| On the top | 2.00% | ~12 |
+| Newbie | 72.00% | ~467 |
+| Photo shoot | 18.00% | ~117 |
+| No brakes | 15.00% | ~97 |
+| Wannabe | 12.00% | ~78 |
+| First taste | 10.00% | ~65 |
+| Amateur hitchhiker | 8.00% | ~52 |
+| Better than cake | 7.00% | ~45 |
+| Amateur newbie | 3.00% | ~19 |
+| Reliability expert | 3.00% | ~19 |
+| Hattrick | 3.00% | ~19 |
+| Loyalty | 2.00% | ~13 |
+| Hero | 2.00% | ~13 |
+| Drama queen | 2.00% | ~13 |
+| Mr. Whiting | 2.00% | ~13 |
+| Amateur photo shoot | 2.00% | ~13 |
+| On the top | 2.00% | ~13 |
 | Pro hitchhiker | 1.00% | ~6 |
-| Loyalty | 1.00% | ~6 |
+| Amateur wannabe | 1.00% | ~6 |
 | No brakes Amateur | 1.00% | ~6 |
 | First Amateur taste | 1.00% | ~6 |
-| Amateur wannabe | 0.80% | ~5 |
-| Addict | 0.70% | ~4 |
-| Untouchable | 0.70% | ~4 |
+| Addict | 0.60% | ~4 |
+| Tutorial master | 0.60% | ~4 |
+| Weatherman | 0.60% | ~4 |
+| Untouchable | 0.60% | ~4 |
 | Monster Amateur car | 0.50% | ~3 |
-| Tutorial master | 0.50% | ~3 |
-| Weatherman | 0.50% | ~3 |
+| Endurance team mate | 0.50% | ~3 |
 | Pro newbie | 0.30% | ~2 |
+| Knockout Amateur | 0.30% | ~2 |
+| Grand Chelem | 0.30% | ~2 |
 | Amateur hattrick | 0.30% | ~2 |
-| Endurance team mate | 0.30% | ~2 |
 | Pro photo shoot | 0.20% | ~1 |
 | Monster Pro car | 0.20% | ~1 |
 | Amateur champion | 0.20% | ~1 |
 | Amateur executor | 0.20% | ~1 |
 | Pro wannabe | 0.20% | ~1 |
-| Knockout Amateur | 0.20% | ~1 |
 | No brakes Pro | 0.20% | ~1 |
-| Grand Chelem | 0.20% | ~1 |
 | Amateur Grand Chelem | 0.20% | ~1 |
 | All over the place | 0.20% | ~1 |
 | Shepherd | 0.20% | ~1 |
@@ -168,8 +168,8 @@ Rating: 3.78 (Ranked 1,196)
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 387)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 649 (Ranked 423)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,6 +329,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 574 | 0 |
 | 2024-03-21 | 597 | 0 |
 | 2024-04-10 | 615 | 0 |
+| 2024-06-17 | 649 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

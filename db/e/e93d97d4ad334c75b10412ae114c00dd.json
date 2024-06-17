@@ -2,10 +2,10 @@
   "ID": "e93d97d4ad334c75b10412ae114c00dd",
   "Name": "Happy Lab",
   "ProductSlug": "my-product-7756c4",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-10-26T03:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "d575n3m",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:08:08.8902103+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:08.890208+00:00",
   "LastUpdate_AppInfo": "2024-06-12T08:57:26.6216164+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:59.9396896+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:14.9682046+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:08.8902121+00:00"
 }

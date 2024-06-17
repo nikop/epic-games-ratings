@@ -2,10 +2,10 @@
   "ID": "b9665613f2b94636bf4536a411002d22",
   "Name": "RAWMEN: Food Fighter Arena \uD83C\uDF5C",
   "ProductSlug": "rawmen-03f74e",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-23T00:00:00+00:00",
     "PcReleaseDate": "2024-07-23T00:00:00+00:00",
@@ -40,11 +40,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "3el58oc",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-12-31T04:58:39.4215478+00:00",
   "FirstSeenRating": "2023-03-31T05:58:41.7807932+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:11:47.2562781+00:00",
   "LastChanged": "2023-03-31T05:58:41.7807933+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:11:47.2562762+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:07.0081265+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:47.4619104+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:31.5408231+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:47.6744666+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:47.2562795+00:00"
 }

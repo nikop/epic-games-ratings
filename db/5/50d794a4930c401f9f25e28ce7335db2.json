@@ -2,10 +2,10 @@
   "ID": "50d794a4930c401f9f25e28ce7335db2",
   "Name": "The Tribe Must Survive",
   "ProductSlug": "the-tribe-must-survive-06c4d6",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 757,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-23T13:00:00+00:00",
     "PcReleaseDate": "2024-02-22T14:00:00+00:00",
@@ -25,17 +25,281 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:01.9788658+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:01.9788703+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1950,
+  "Achievements": [
+    {
+      "ID": "ANCESTRAL_CHIEF",
+      "SetID": "7j4hl85",
+      "Name": "Ancestral Chief",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ASCENSION",
+      "SetID": "7j4hl85",
+      "Name": "Ascension",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_NEW_DAWN",
+      "SetID": "dg77af9",
+      "Name": "A New Dawn",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BORROWED_TIME",
+      "SetID": "7j4hl85",
+      "Name": "Borrowed Time",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BRAIN_OVER_BRAWN",
+      "SetID": "dg77af9",
+      "Name": "Brain Over Brawn",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "CARNIVORE",
+      "SetID": "dg77af9",
+      "Name": "Carnivore",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CLOSE_CALL",
+      "SetID": "7j4hl85",
+      "Name": "Close Call",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COPPER_COLUMNS",
+      "SetID": "7j4hl85",
+      "Name": "Copper Columns",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CREATURES_OF_COMFORT",
+      "SetID": "dg77af9",
+      "Name": "Creatures of Comfort",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DARKNESS_WILL_NOT_BREAK_US",
+      "SetID": "dg77af9",
+      "Name": "Darkness Will Not Break Us",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ELITE_SCAVENGER",
+      "SetID": "7j4hl85",
+      "Name": "Elite Scavenger",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EMBRACE_THE_CARNAGE",
+      "SetID": "7j4hl85",
+      "Name": "Embrace the Carnage",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ETERNAL_FLAME",
+      "SetID": "dg77af9",
+      "Name": "Eternal Flame",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "EXPANSIONIST",
+      "SetID": "7j4hl85",
+      "Name": "Expansionist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EXTERMINATOR",
+      "SetID": "dg77af9",
+      "Name": "Exterminator",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_OF_MANY",
+      "SetID": "7j4hl85",
+      "Name": "First of Many",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HOW_SHOCKING",
+      "SetID": "dg77af9",
+      "Name": "How Shocking!",
+      "Percentage": 6,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "JACK_OF_ALL_TRADES",
+      "SetID": "7j4hl85",
+      "Name": "Jack of All Trades",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KEEP_IT_PRIMITIVE",
+      "SetID": "7j4hl85",
+      "Name": "Keep It Primitive",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NO_COMPROMISES",
+      "SetID": "7j4hl85",
+      "Name": "No Compromises",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OUT_OF_THE_STONE_AGE",
+      "SetID": "7j4hl85",
+      "Name": "Out of the Stone Age",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PEACE_OF_MIND",
+      "SetID": "dg77af9",
+      "Name": "Peace of Mind",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REEGLOB_DINGDONG",
+      "SetID": "dg77af9",
+      "Name": "Reeglob Dingdong? I don\u0027t think so.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REJECT_THE_WASTE",
+      "SetID": "7j4hl85",
+      "Name": "Reject the Waste",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STARTING_SIX",
+      "SetID": "dg77af9",
+      "Name": "Starting Six",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STOP_POKING_ME",
+      "SetID": "dg77af9",
+      "Name": "Stop Poking Me!",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "STRENGTH_IN_NUMBERS",
+      "SetID": "dg77af9",
+      "Name": "Strength in Numbers",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THE_TRIBE_SURVIVED",
+      "SetID": "dg77af9",
+      "Name": "The Tribe Survived",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THROUGH_THE_LONG_NIGHT",
+      "SetID": "dg77af9",
+      "Name": "Through the Long Night",
+      "Percentage": 3,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TRANSCENDENT_TRIFECTA",
+      "SetID": "7j4hl85",
+      "Name": "Transcendent Trifecta",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "7j4hl85",
+      "IsBase": false,
+      "Progressed": 1,
+      "Completed": 0
+    },
+    {
+      "ID": "dg77af9",
+      "IsBase": true,
+      "Progressed": 34,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-05-24T08:57:03.3003938+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:01.9788702+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:01.9788653+00:00",
   "LastUpdate_AppInfo": "2024-06-12T23:57:25.8781644+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:58.5342592+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:42.6109354+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:01.9796444+00:00"
 }

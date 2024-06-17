@@ -2,10 +2,10 @@
   "ID": "1409385ad20c4ba48849a6cc0973db4a",
   "Name": "Boti - Byteland Overclocked",
   "ProductSlug": "boti-byteland-overclocked-3a40c3",
-  "Ranking_EOS_Progress": 906,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 894,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-17T10:00:00+00:00",
     "PcReleaseDate": "2023-09-14T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-01-15T17:10:29.1565027+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:15:05.025501+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -44,33 +49,33 @@
       "ID": "Ach18_name_ITZ_OVER_9000",
       "SetID": "7fi8cpe",
       "Name": "ITZ OVER 9000!",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi01_name_Welcome_to_Chipset",
       "SetID": "7fi8cpe",
       "Name": "Welcome to Chipset",
-      "Percentage": 0,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "Achi02_name_Clock_Up",
       "SetID": "7fi8cpe",
       "Name": "Clock Up",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi03_name_Tripping_Down_Memory_Lane",
       "SetID": "7fi8cpe",
       "Name": "Tripping Down Memory Lane",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi04_name_Port_In_a_Storm",
@@ -84,9 +89,9 @@
       "ID": "Achi05_name_The_Show_Must_Log_On",
       "SetID": "7fi8cpe",
       "Name": "The Show Must Log On",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi06_name_Biggest_Fans",
@@ -116,9 +121,9 @@
       "ID": "Achi09_name_All_Codes_Lead_to_Home",
       "SetID": "7fi8cpe",
       "Name": "All Codes Lead to Home",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi10_name_Beyond_Infinity",
@@ -180,9 +185,9 @@
       "ID": "Achi17_name_Get_Over_Here",
       "SetID": "7fi8cpe",
       "Name": "Get Over Here",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi19_name_Evil_Twin",
@@ -436,17 +441,17 @@
       "ID": "Achi56_name_Dumpster_Diver",
       "SetID": "7fi8cpe",
       "Name": "Dumpster Diver",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi57_name_Sandy_Rampage",
       "SetID": "7fi8cpe",
       "Name": "Sandy Rampage",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi58_name_Cinematic_Aficionado",
@@ -461,14 +466,14 @@
     {
       "ID": "7fi8cpe",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-24T14:58:25.1132039+00:00",
   "FirstSeenAchievements": "2023-12-22T20:09:06.1697385+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:18.277353+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:05.0255005+00:00",
   "LastUpdate_AppInfo": "2024-06-14T18:56:57.2075231+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:29.7468552+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:18.2773834+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:55.1508975+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:05.0255314+00:00"
 }

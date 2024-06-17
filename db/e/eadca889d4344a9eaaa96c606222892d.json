@@ -2,10 +2,10 @@
   "ID": "eadca889d4344a9eaaa96c606222892d",
   "Name": "The Gravity Trickster",
   "ProductSlug": "the-gravity-trickster-fb8524",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "ce3jh2a",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:17:53.3469357+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:53.346934+00:00",
   "LastUpdate_AppInfo": "2024-06-15T02:23:56.9558917+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:47.0300942+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:20.1856833+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:08.3545761+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:53.3469371+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 4.46 (Ranked 724)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 39.00% | ~13,838 |
-| Sector 2 | 34.00% | ~12,064 |
-| Sector 3 | 29.00% | ~10,290 |
-| Crush That Cube! | 28.00% | ~9,935 |
-| Sector 4 | 24.00% | ~8,516 |
-| Crush That Ball! | 22.00% | ~7,806 |
-| Sector 5 | 16.00% | ~5,677 |
-| Sector 6 | 13.00% | ~4,613 |
-| Feeling the Blues | 10.00% | ~3,548 |
-| Squished | 9.00% | ~3,193 |
-| Finale | 9.00% | ~3,193 |
-| Sector 7 | 9.00% | ~3,193 |
-| Did That Work? -- No! | 9.00% | ~3,193 |
-| Master Room | 5.00% | ~1,774 |
-| The Puzzle Master | 3.00% | ~1,064 |
-| The Collector | 2.00% | ~710 |
-| Bronze Trophy | 2.00% | ~710 |
-| Master Of The Collectables | 2.00% | ~710 |
-| Gold Trophy | 2.00% | ~710 |
-| Hopefully that's all of them! | 2.00% | ~710 |
-| Phew! | 2.00% | ~710 |
-| Silver Trophy | 2.00% | ~710 |
-| Completed It. | 2.00% | ~710 |
-| Maxed Out | 2.00% | ~710 |
+| Sector 1 | 41.00% | ~15,666 |
+| Sector 2 | 36.00% | ~13,756 |
+| Sector 3 | 31.00% | ~11,845 |
+| Crush That Cube! | 30.00% | ~11,463 |
+| Sector 4 | 25.00% | ~9,552 |
+| Crush That Ball! | 24.00% | ~9,170 |
+| Sector 5 | 16.00% | ~6,114 |
+| Sector 6 | 14.00% | ~5,349 |
+| Feeling the Blues | 11.00% | ~4,203 |
+| Squished | 10.00% | ~3,821 |
+| Finale | 10.00% | ~3,821 |
+| Sector 7 | 10.00% | ~3,821 |
+| Did That Work? -- No! | 9.00% | ~3,439 |
+| Master Room | 5.00% | ~1,910 |
+| The Puzzle Master | 3.00% | ~1,146 |
+| The Collector | 2.00% | ~764 |
+| Bronze Trophy | 2.00% | ~764 |
+| Master Of The Collectables | 2.00% | ~764 |
+| Gold Trophy | 2.00% | ~764 |
+| Hopefully that's all of them! | 2.00% | ~764 |
+| Phew! | 2.00% | ~764 |
+| Silver Trophy | 2.00% | ~764 |
+| Completed It. | 2.00% | ~764 |
+| Maxed Out | 2.00% | ~764 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,483 (Ranked 155)  
-Completed: 327 (0.92%) (Ranked 218)  
+Progressed: 38,210 (Ranked 166)  
+Completed: 366 (0.96%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 327 (0.92%) (Ranked 218)
 | 2024-02-22 | 32,839 | 274 |
 | 2024-03-21 | 34,497 | 308 |
 | 2024-04-10 | 35,483 | 327 |
+| 2024-06-17 | 38,210 | 366 |
 ## Awards
 Max (Challenging Puzzles): 34  (Ranked 573)  
 Sum: 34 (Ranked 613)  

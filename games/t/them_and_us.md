@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~317 |
-| Forced to Kill | 63.00% | ~298 |
-| A Night To Remember | 37.00% | ~175 |
-| Safe...For now? | 28.00% | ~132 |
-| Open Sesame | 24.00% | ~114 |
-| What have I done!? | 17.00% | ~80 |
-| Them and Us | 16.00% | ~76 |
-| OUTRAGE | 16.00% | ~76 |
-| This Coffin Has Your Name On It! | 14.00% | ~66 |
-| Alone In The Dark | 13.00% | ~61 |
-| The Cultists | 12.00% | ~57 |
-| The Forgotten Tower | 12.00% | ~57 |
-| Parasite Exterminated | 11.00% | ~52 |
-| Trapped | 11.00% | ~52 |
-| The Curse Is Real | 10.00% | ~47 |
-| Lover of classics | 9.00% | ~43 |
-| Modern Player | 9.00% | ~43 |
-| Rest In Peace | 9.00% | ~43 |
-| What A Mansion | 8.00% | ~38 |
-| I Am The Gate Keeper! | 6.00% | ~28 |
-| Researcher | 5.00% | ~24 |
-| Armed To The Teeth | 4.00% | ~19 |
-| This Mansion Is Clean | 4.00% | ~19 |
-| Back In Time | 2.00% | ~9 |
-| Retro Player | 2.00% | ~9 |
-| Spiritual essence well spent | 2.00% | ~9 |
-| Run and Gun | 2.00% | ~9 |
-| The 5th Element | 2.00% | ~9 |
-| The bus stop | 2.00% | ~9 |
+| Alone with Them | 67.00% | ~328 |
+| Forced to Kill | 63.00% | ~309 |
+| A Night To Remember | 38.00% | ~186 |
+| Safe...For now? | 30.00% | ~147 |
+| Open Sesame | 25.00% | ~122 |
+| What have I done!? | 18.00% | ~88 |
+| Them and Us | 17.00% | ~83 |
+| OUTRAGE | 17.00% | ~83 |
+| This Coffin Has Your Name On It! | 15.00% | ~74 |
+| Alone In The Dark | 14.00% | ~69 |
+| The Cultists | 13.00% | ~64 |
+| The Forgotten Tower | 13.00% | ~64 |
+| Parasite Exterminated | 12.00% | ~59 |
+| Trapped | 11.00% | ~54 |
+| The Curse Is Real | 10.00% | ~49 |
+| Lover of classics | 9.00% | ~44 |
+| Modern Player | 9.00% | ~44 |
+| Rest In Peace | 9.00% | ~44 |
+| What A Mansion | 8.00% | ~39 |
+| Researcher | 6.00% | ~29 |
+| I Am The Gate Keeper! | 6.00% | ~29 |
+| Armed To The Teeth | 4.00% | ~20 |
+| This Mansion Is Clean | 4.00% | ~20 |
+| Back In Time | 2.00% | ~10 |
+| Retro Player | 2.00% | ~10 |
+| Spiritual essence well spent | 2.00% | ~10 |
+| Run and Gun | 2.00% | ~10 |
+| The 5th Element | 2.00% | ~10 |
+| The bus stop | 2.00% | ~10 |
 | Pet The Dog | 1.00% | ~5 |
 | Before The Eclipse | 0.60% | ~3 |
 | Box Of Ploutus | 0.40% | ~2 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473 (Ranked 409)  
-Completed: 1 (0.21%) (Ranked 318)  
+Progressed: 490 (Ranked 448)  
+Completed: 1 (0.20%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,6 +186,7 @@ Completed: 1 (0.21%) (Ranked 318)
 | 2024-03-04 | 443 | 1 |
 | 2024-03-21 | 457 | 1 |
 | 2024-04-10 | 473 | 1 |
+| 2024-06-17 | 490 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

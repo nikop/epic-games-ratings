@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 62.00% | ~614 |
-| Welcome to Mordor! | 53.00% | ~525 |
-| Collectibles Part 1 | 49.00% | ~485 |
-| Wait! Wait! Not yet! | 38.00% | ~376 |
-| Like Flying... | 33.00% | ~327 |
-| The Maggot | 26.00% | ~257 |
-| Memories | 26.00% | ~257 |
-| The Breeder | 22.00% | ~218 |
-| The Veteran | 18.00% | ~178 |
-| The Traitor | 14.00% | ~139 |
-| The Spider | 13.00% | ~129 |
-| Good as Fish | 10.00% | ~99 |
-| Her Eyes | 9.00% | ~89 |
-| Murderer | 9.00% | ~89 |
-| Gollum/Sméagol | 8.00% | ~79 |
-| Trigger-Happy | 8.00% | ~79 |
-| He's so Annoying | 7.00% | ~69 |
-| The Friend | 7.00% | ~69 |
-| Master of the Old Game | 5.00% | ~50 |
-| Made a Song | 5.00% | ~50 |
-| Sweet Darkness | 3.00% | ~30 |
-| So Silly! | 3.00% | ~30 |
-| So Tasty! | 3.00% | ~30 |
-| Break a Leg! | 2.00% | ~20 |
-| And now we wish... | 2.00% | ~20 |
-| Ss ss ss... | 2.00% | ~20 |
-| Collectibles Part 2 | 1.00% | ~10 |
-| Elf-Friend | 0.60% | ~6 |
-| We wants it! We needs it | 0.50% | ~5 |
-| Nervous Hands | 0.50% | ~5 |
-| Scout | 0.50% | ~5 |
+| The Wraith | 62.00% | ~694 |
+| Welcome to Mordor! | 52.00% | ~582 |
+| Collectibles Part 1 | 49.00% | ~549 |
+| Wait! Wait! Not yet! | 38.00% | ~426 |
+| Like Flying... | 33.00% | ~370 |
+| The Maggot | 27.00% | ~302 |
+| Memories | 25.00% | ~280 |
+| The Breeder | 22.00% | ~246 |
+| The Veteran | 19.00% | ~213 |
+| The Traitor | 15.00% | ~168 |
+| The Spider | 14.00% | ~157 |
+| Good as Fish | 12.00% | ~134 |
+| Her Eyes | 11.00% | ~123 |
+| Gollum/Sméagol | 10.00% | ~112 |
+| The Friend | 9.00% | ~101 |
+| Murderer | 9.00% | ~101 |
+| Trigger-Happy | 9.00% | ~101 |
+| He's so Annoying | 8.00% | ~90 |
+| Master of the Old Game | 6.00% | ~67 |
+| Made a Song | 5.00% | ~56 |
+| Sweet Darkness | 4.00% | ~45 |
+| So Tasty! | 4.00% | ~45 |
+| So Silly! | 3.00% | ~34 |
+| Break a Leg! | 2.00% | ~22 |
+| And now we wish... | 2.00% | ~22 |
+| Ss ss ss... | 2.00% | ~22 |
+| Collectibles Part 2 | 1.00% | ~11 |
+| Elf-Friend | 0.90% | ~10 |
+| Nervous Hands | 0.50% | ~6 |
+| Scout | 0.50% | ~6 |
 | We Hates Them! | 0.40% | ~4 |
-| Good Sméagol! | 0.30% | ~3 |
+| We wants it! We needs it | 0.40% | ~4 |
+| Good Sméagol! | 0.40% | ~4 |
+| River Hobbit | 0.20% | ~2 |
 | Rule them all! | 0.10% | ~1 |
 | How Did You Do That? | 0.10% | ~1 |
-| River Hobbit | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 990 (Ranked 350)  
-Completed: 1 (0.10%) (Ranked 361)  
+Progressed: 1,120 (Ranked 375)  
+Completed: 1 (0.09%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -195,3 +195,4 @@ Completed: 1 (0.10%) (Ranked 361)
 | 2024-03-04 | 749 | 1 |
 | 2024-03-21 | 760 | 1 |
 | 2024-04-10 | 990 | 1 |
+| 2024-06-17 | 1,120 | 1 |

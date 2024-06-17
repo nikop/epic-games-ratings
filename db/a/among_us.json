@@ -2,13 +2,13 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 563,
+  "Ranking_Rating": 564,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 61,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
     "PcReleaseDate": "2018-06-15T14:36:00+00:00",
@@ -15864,18 +15864,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 25960,
       "NumberOfAwardsMax": 3432
+    },
+    {
+      "Time": "2024-06-17T16:05:56.2567759+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 25965,
+      "NumberOfAwardsMax": 3436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25960,
-  "NumberOfAwardsMax": 3432,
+  "NumberOfAwards": 25965,
+  "NumberOfAwardsMax": 3436,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3432
+      "Count": 3436
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -15923,7 +15929,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2382
+      "Count": 2383
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15955,8 +15961,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2024-06-17T13:57:53.7556454+00:00",
+  "LastChanged": "2024-06-17T16:05:56.2567757+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:55.9243071+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:24.4242298+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:24.4033209+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:56.2567764+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:37.042483+00:00"
 }

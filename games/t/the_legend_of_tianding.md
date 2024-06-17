@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 93.00% | ~115 |
-| Eat the Rich | 61.00% | ~76 |
-| Killing Machine | 47.00% | ~58 |
-| Phantom Kunoichi | 43.00% | ~53 |
-| Death Battle | 41.00% | ~51 |
-| Divine Retribution | 40.00% | ~50 |
-| Captain Mustache | 39.00% | ~48 |
-| Final Showdown | 35.00% | ~43 |
-| The End of an Outlaw | 34.00% | ~42 |
-| Dispel Rumors | 31.00% | ~38 |
-| Demon Slayer | 27.00% | ~33 |
-| Steal Her Away | 25.00% | ~31 |
-| Fight Fire With Fire | 25.00% | ~31 |
-| Sewer Rat | 24.00% | ~30 |
-| Urban Explorer | 23.00% | ~29 |
-| Big Eater | 22.00% | ~27 |
-| Tour Guide | 22.00% | ~27 |
-| Coward | 22.00% | ~27 |
-| Not Today | 21.00% | ~26 |
-| Tomb Raider | 21.00% | ~26 |
-| The Real O.G. | 17.00% | ~21 |
-| The Hero of the People | 14.00% | ~17 |
-| Talk to the Fist | 10.00% | ~12 |
-| Collector | 9.00% | ~11 |
-| Taoist | 7.00% | ~9 |
-| The Legend | 6.00% | ~7 |
+| Hero Arrives | 89.00% | ~164 |
+| Eat the Rich | 54.00% | ~99 |
+| Killing Machine | 38.00% | ~70 |
+| Death Battle | 34.00% | ~63 |
+| Phantom Kunoichi | 34.00% | ~63 |
+| Divine Retribution | 33.00% | ~61 |
+| Captain Mustache | 31.00% | ~57 |
+| Final Showdown | 28.00% | ~52 |
+| The End of an Outlaw | 28.00% | ~52 |
+| Dispel Rumors | 23.00% | ~42 |
+| Demon Slayer | 21.00% | ~39 |
+| Steal Her Away | 20.00% | ~37 |
+| Fight Fire With Fire | 20.00% | ~37 |
+| Urban Explorer | 18.00% | ~33 |
+| Sewer Rat | 18.00% | ~33 |
+| Big Eater | 17.00% | ~31 |
+| Coward | 17.00% | ~31 |
+| Tour Guide | 16.00% | ~29 |
+| Not Today | 16.00% | ~29 |
+| Tomb Raider | 16.00% | ~29 |
+| The Real O.G. | 13.00% | ~24 |
+| The Hero of the People | 10.00% | ~18 |
+| Talk to the Fist | 9.00% | ~17 |
+| Collector | 8.00% | ~15 |
+| Taoist | 6.00% | ~11 |
+| The Legend | 5.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 545)  
-Completed: 7 (5.65%) (Ranked 82)  
+Progressed: 184 (Ranked 559)  
+Completed: 9 (4.89%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,6 +97,7 @@ Completed: 7 (5.65%) (Ranked 82)
 | 2024-02-22 | 118 | 7 |
 | 2024-03-21 | 122 | 7 |
 | 2024-04-10 | 124 | 7 |
+| 2024-06-17 | 184 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

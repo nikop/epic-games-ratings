@@ -2,10 +2,10 @@
   "ID": "40f6e4beb45a4bbfb77fdb6774331e83",
   "Name": "Golfing in Aether",
   "ProductSlug": "golfing-in-aether-cfac43",
-  "Ranking_EOS_Progress": 843,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 926,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-09-23T18:00:00+00:00",
@@ -52,9 +52,9 @@
       "ID": "AroundTheWorld",
       "SetID": "8ohdpka",
       "Name": "Around the World",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "BounceBack",
@@ -116,9 +116,9 @@
       "ID": "Pathfinder",
       "SetID": "8ohdpka",
       "Name": "Pathfinder",
-      "Percentage": 75,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Perfect",
@@ -140,9 +140,9 @@
       "ID": "Seasonal",
       "SetID": "8ohdpka",
       "Name": "Seasonal",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "TeeTime",
@@ -170,8 +170,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T01:41:24.9647963+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:19.2739228+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:11:24.2922385+00:00",
   "LastUpdate_AppInfo": "2024-06-14T02:57:15.7734713+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:28.3735289+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:19.2739333+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:01:32.1153263+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:24.2922481+00:00"
 }

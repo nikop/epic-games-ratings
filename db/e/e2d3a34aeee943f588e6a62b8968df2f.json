@@ -2,10 +2,10 @@
   "ID": "e2d3a34aeee943f588e6a62b8968df2f",
   "Name": "Deathpunk",
   "ProductSlug": "deathpunk-f5f83b",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-11T15:57:06.5403874+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:43.5892593+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:39.5670698+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:44.9893326+00:00"
 }

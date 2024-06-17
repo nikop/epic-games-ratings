@@ -2,10 +2,10 @@
   "ID": "9dd57a83fbae44f5b0fee00cf941be7d",
   "Name": "LOVE 3",
   "ProductSlug": "love-3-c2516f",
-  "Ranking_EOS_Progress": 763,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 826,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-12-07T00:00:00+00:00",
     "PcReleaseDate": "2021-12-07T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -84,6 +84,11 @@
       "Time": "2024-04-10T06:04:39.7274172+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:13:52.5885415+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-22T22:05:52.1814908+00:00",
@@ -94,7 +99,7 @@
       "ID": "13 Years in 69 Minutes",
       "SetID": "cigfl04",
       "Name": "13 Years in 69 Minutes",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -102,15 +107,15 @@
       "ID": "Air walker",
       "SetID": "cigfl04",
       "Name": "Air walker",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ball Dropper",
       "SetID": "cigfl04",
       "Name": "Ball Dropper",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "ID": "Bork \u0026 Niko",
       "SetID": "cigfl04",
       "Name": "Bork \u0026 Niko",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "Cautious Completionist",
       "SetID": "cigfl04",
       "Name": "Cautious Completionist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "Freedom",
       "SetID": "cigfl04",
       "Name": "Freedom",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "Frequent Flyer",
       "SetID": "cigfl04",
       "Name": "Frequent Flyer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -158,15 +163,15 @@
       "ID": "Friendly Fire",
       "SetID": "cigfl04",
       "Name": "Friendly Fire",
-      "Percentage": 21,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Get all LOVE 2 Tokens in a Run",
       "SetID": "cigfl04",
       "Name": "Where did I put my keys?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "Gotta Go Fast",
       "SetID": "cigfl04",
       "Name": "Gotta Go Fast",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -182,15 +187,15 @@
       "ID": "Jump rope",
       "SetID": "cigfl04",
       "Name": "Jump rope",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Just a Scratch or Two",
       "SetID": "cigfl04",
       "Name": "Just a Scratch or Two",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -198,23 +203,23 @@
       "ID": "LOVE",
       "SetID": "cigfl04",
       "Name": "LOVE",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Longest Fall",
       "SetID": "cigfl04",
       "Name": "Longest Fall",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Nostalgia",
       "SetID": "cigfl04",
       "Name": "Nostalgia",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -222,9 +227,9 @@
       "ID": "Safety",
       "SetID": "cigfl04",
       "Name": "Safety",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Seeker",
@@ -238,15 +243,15 @@
       "ID": "Threading the Needle",
       "SetID": "cigfl04",
       "Name": "Threading the Needle",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "YOLO",
       "SetID": "cigfl04",
       "Name": "YOLO",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 105,
       "UsersEstimate": 1
     },
@@ -254,15 +259,15 @@
       "ID": "kuso",
       "SetID": "cigfl04",
       "Name": "kuso",
-      "Percentage": 14,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "\u3084\u308A\u7532\u6590",
       "SetID": "cigfl04",
       "Name": "\u3084\u308A\u7532\u6590",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -271,7 +276,7 @@
     {
       "ID": "cigfl04",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
@@ -279,8 +284,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
   "FirstSeenAchievements": "2023-05-25T21:04:32.3599326+00:00",
   "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:39.7274167+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:13:52.5885411+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:19.5098897+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:26.413628+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:39.7274299+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:37.6756539+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:13:52.5885855+00:00"
 }

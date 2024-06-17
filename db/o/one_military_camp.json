@@ -2,10 +2,10 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 443,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 483,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 384,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1399,6 +1399,11 @@
       "Time": "2024-05-13T20:05:05.258107+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:17:56.5012665+00:00",
+      "NumProgressed": 384,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1409,9 +1414,9 @@
       "ID": "ACHIEVEMENT_ID_0",
       "SetID": "c504de6",
       "Name": "Jantine: the Misfortunes of Evil",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_ID_1",
@@ -1419,7 +1424,7 @@
       "Name": "Tear Down the Wall!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_ID_10",
@@ -1441,25 +1446,25 @@
       "ID": "ACHIEVEMENT_ID_12",
       "SetID": "c504de6",
       "Name": "Counter-espionage",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_13",
       "SetID": "c504de6",
       "Name": "Supersoldier",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_ID_14",
       "SetID": "c504de6",
       "Name": "Perfect Soldier",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -1467,7 +1472,7 @@
       "Name": "Outdoor Decorator",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_16",
@@ -1483,23 +1488,23 @@
       "Name": "Vive le R\u00E9sistance",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_ID_18",
       "SetID": "c504de6",
       "Name": "Self-management",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -1507,7 +1512,7 @@
       "Name": "No News is Good News",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_20",
@@ -1515,23 +1520,23 @@
       "Name": "Healing",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
       "SetID": "c504de6",
       "Name": "There\u0027s something in those trees",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_ID_22",
       "SetID": "c504de6",
       "Name": "Desert Power",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -1539,23 +1544,23 @@
       "Name": "Snowman",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_24",
       "SetID": "c504de6",
       "Name": "Overpopulation",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_ID_25",
       "SetID": "c504de6",
       "Name": "Property Bro",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_ID_26",
@@ -1563,31 +1568,31 @@
       "Name": "Human Resources",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
       "SetID": "c504de6",
       "Name": "War Veteran",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_ID_29",
       "SetID": "c504de6",
       "Name": "Training Camp",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_ID_3",
@@ -1595,7 +1600,7 @@
       "Name": "Reconquest",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_30",
@@ -1603,7 +1608,7 @@
       "Name": "Indebted",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -1611,7 +1616,7 @@
       "Name": "Good payer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_ID_32",
@@ -1619,7 +1624,7 @@
       "Name": "Capitalism",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1627,7 +1632,7 @@
       "Name": "Pathfinder",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_ID_34",
@@ -1635,7 +1640,7 @@
       "Name": "Self-sufficient",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_ID_35",
@@ -1643,7 +1648,7 @@
       "Name": "Food Tycoon",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_ID_36",
@@ -1651,7 +1656,7 @@
       "Name": "Fuel Tycoon",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_ID_37",
@@ -1659,7 +1664,7 @@
       "Name": "Medicine Tycoon",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -1667,13 +1672,13 @@
       "Name": "Ammo Tycoon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_ID_39",
       "SetID": "c504de6",
       "Name": "Conveyor Belt Madness",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1683,7 +1688,7 @@
       "Name": "First Step",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 211
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1691,7 +1696,7 @@
       "Name": "Great Producer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
@@ -1721,9 +1726,9 @@
       "ID": "ACHIEVEMENT_ID_5",
       "SetID": "c504de6",
       "Name": "Desert Rat",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_ID_6",
@@ -1731,15 +1736,15 @@
       "Name": "Winter Soldier",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_ID_7",
       "SetID": "c504de6",
       "Name": "Researcher",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_8",
@@ -1747,29 +1752,29 @@
       "Name": "Green Energy",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
       "SetID": "c504de6",
       "Name": "People\u0027s Hero",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 384,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-05-13T20:05:05.2581068+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:56.5012662+00:00",
   "LastUpdate_AppInfo": "2024-06-16T20:57:22.9792048+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:01:40.6858713+00:00",
-  "LastUpdate_Achievements": "2024-05-13T20:05:05.2581492+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:34.3399758+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:56.5012966+00:00"
 }

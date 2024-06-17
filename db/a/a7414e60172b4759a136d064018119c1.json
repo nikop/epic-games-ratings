@@ -2,10 +2,10 @@
   "ID": "a7414e60172b4759a136d064018119c1",
   "Name": "Sea of Dreams",
   "ProductSlug": "sea-of-dreams-32035a",
-  "Ranking_EOS_Progress": 867,
-  "Ranking_EOS_Completed": 6,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 903,
+  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-17T23:00:00+00:00",
     "PcReleaseDate": "2022-04-14T22:00:00+00:00",
@@ -24,8 +24,8 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
-  "EOS_Completed": 1,
+  "EOS_Progressed": 6,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 50,
@@ -34,6 +34,11 @@
       "Time": "2024-05-13T20:05:06.5931662+00:00",
       "NumProgressed": 2,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:17:58.3306718+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-05-13T20:05:06.5931699+00:00",
@@ -46,7 +51,7 @@
       "Name": "Budding mechanic",
       "Percentage": 50,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "casino_royal",
@@ -54,15 +59,15 @@
       "Name": "Casino Royal",
       "Percentage": 50,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "day_night",
       "SetID": "7okp496",
       "Name": "Day, Night, Day, Night",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "i_have_a_dream",
@@ -70,7 +75,7 @@
       "Name": "I have a dream\u2026",
       "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "only_one",
@@ -78,7 +83,7 @@
       "Name": "You are the only one",
       "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "pianist",
@@ -86,29 +91,29 @@
       "Name": "Pianist",
       "Percentage": 50,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "thank_you",
       "SetID": "7okp496",
       "Name": "Thank You",
-      "Percentage": 100,
+      "Percentage": 67,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "7okp496",
       "IsBase": true,
-      "Progressed": 2,
-      "Completed": 1
+      "Progressed": 6,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2024-03-05T19:57:56.7437708+00:00",
   "FirstSeenAchievements": "2023-10-18T00:03:29.5796334+00:00",
-  "LastChanged_Achievements": "2024-05-13T20:05:06.5931658+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:58.3306713+00:00",
   "LastUpdate_AppInfo": "2024-06-12T21:57:13.4042161+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:21.8489917+00:00",
-  "LastUpdate_Achievements": "2024-05-13T20:05:06.5957079+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:31.2283958+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:58.3306777+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d3f8b5fc530c4445824813a1366a25d3",
   "Name": "Surmount",
   "ProductSlug": "surmount-d33e62",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 926,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-02T13:00:00+00:00",
     "PcReleaseDate": "2024-05-02T13:00:00+00:00",
@@ -24,27 +24,155 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:15:46.1937559+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:15:46.193758+00:00",
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALL_EXPEDITIONS",
+      "SetID": "6eg5loc",
+      "Name": "All Expeditions",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_GACHAPON",
+      "SetID": "6eg5loc",
+      "Name": "Gachapon Collector",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_GAMES",
+      "SetID": "6eg5loc",
+      "Name": "Game Collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_PEOPLE",
+      "SetID": "6eg5loc",
+      "Name": "Full Address Book",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENDING",
+      "SetID": "6eg5loc",
+      "Name": "Planted the flag!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FOUND_BIGHAND",
+      "SetID": "6eg5loc",
+      "Name": "Discovered Big Hand",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FOUND_DEV",
+      "SetID": "6eg5loc",
+      "Name": "Chance Encounter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOTAL_GEMS GEMS_COLLECTED (0-10000)",
+      "SetID": "6eg5loc",
+      "Name": "Gem Collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOTAL_GRABBED TIMES_GRABBED (0-10000)",
+      "SetID": "6eg5loc",
+      "Name": "Grabhappy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TOTAL_RUNS RUNCOUNT (0-25)",
+      "SetID": "6eg5loc",
+      "Name": "NEVER GIVE UP",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRUE_ENDING",
+      "SetID": "6eg5loc",
+      "Name": "Great climber",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZONE1",
+      "SetID": "6eg5loc",
+      "Name": "Entered Mt. Om",
+      "Percentage": 50,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ZONE2",
+      "SetID": "6eg5loc",
+      "Name": "Reached Zone 2",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZONE3",
+      "SetID": "6eg5loc",
+      "Name": "Reached Zone 3",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZONE4",
+      "SetID": "6eg5loc",
+      "Name": "Reached Zone 4",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6eg5loc",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-30T09:59:16.1893676+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:09.1470288+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:43.609394+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:46.1937556+00:00",
   "LastUpdate_AppInfo": "2024-06-11T23:57:13.4726917+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:51.3747347+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:43.6093964+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:13.7092844+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:46.1944778+00:00"
 }

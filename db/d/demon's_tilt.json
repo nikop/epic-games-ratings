@@ -5,10 +5,10 @@
   "Ranking_Rating": 584,
   "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 626,
-  "Ranking_EOS_Progress": 369,
-  "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Completed": 383,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
     "PcReleaseDate": "2019-12-13T15:00:00+00:00",
@@ -554,16 +554,21 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 753,
-  "EOS_Completed": 3,
+  "EOS_Progressed": 10164,
+  "EOS_Completed": 12,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:02:14.7616084+00:00",
       "NumProgressed": 753,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-06-17T16:09:19.4670549+00:00",
+      "NumProgressed": 10164,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2024-04-10T06:02:14.7616115+00:00",
@@ -574,248 +579,248 @@
       "ID": "EOS_DTA_APPRENTICE",
       "SetID": "2a55amo",
       "Name": "Apprentice Blacksmith",
-      "Percentage": 74,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 1423
     },
     {
       "ID": "EOS_DTA_ARMY",
       "SetID": "2a55amo",
       "Name": "Army of Darkness",
-      "Percentage": 27,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 203
+      "UsersEstimate": 407
     },
     {
       "ID": "EOS_DTA_BILLION",
       "SetID": "2a55amo",
       "Name": "Billionaire\u0027s Club",
-      "Percentage": 6,
+      "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 81
     },
     {
       "ID": "EOS_DTA_BLOODBAT",
       "SetID": "2a55amo",
       "Name": "Bloodbat Butcher",
-      "Percentage": 38,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 286
+      "UsersEstimate": 610
     },
     {
       "ID": "EOS_DTA_BURN",
       "SetID": "2a55amo",
       "Name": "Ever Burning Sulfur",
-      "Percentage": 25,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 407
     },
     {
       "ID": "EOS_DTA_CANDLE",
       "SetID": "2a55amo",
       "Name": "Candlelight Vigil",
-      "Percentage": 10,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 203
     },
     {
       "ID": "EOS_DTA_EIGHTHOUSE",
       "SetID": "2a55amo",
       "Name": "The Eighth House",
-      "Percentage": 11,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 203
     },
     {
       "ID": "EOS_DTA_EYEBALL",
       "SetID": "2a55amo",
       "Name": "Eyeball Expunger",
-      "Percentage": 12,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 102
     },
     {
       "ID": "EOS_DTA_GORE",
       "SetID": "2a55amo",
       "Name": "Gore Slayer",
-      "Percentage": 52,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 392
+      "UsersEstimate": 915
     },
     {
       "ID": "EOS_DTA_HERMITS",
       "SetID": "2a55amo",
       "Name": "Master of Hermits",
-      "Percentage": 22,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 305
     },
     {
       "ID": "EOS_DTA_HOMONCULI",
       "SetID": "2a55amo",
       "Name": "You Say Homonculus, I Say Homonculi",
-      "Percentage": 2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 10
     },
     {
       "ID": "EOS_DTA_IRON",
       "SetID": "2a55amo",
       "Name": "Iron Maiden",
-      "Percentage": 30,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 508
     },
     {
       "ID": "EOS_DTA_LEGENDARY",
       "SetID": "2a55amo",
       "Name": "Legendary Blacksmith",
-      "Percentage": 27,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 203
+      "UsersEstimate": 508
     },
     {
       "ID": "EOS_DTA_MASTER",
       "SetID": "2a55amo",
       "Name": "Master Blacksmith",
-      "Percentage": 47,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 354
+      "UsersEstimate": 813
     },
     {
       "ID": "EOS_DTA_MATRYSHOKA",
       "SetID": "2a55amo",
       "Name": "Matryoshka Masher",
-      "Percentage": 46,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 346
+      "UsersEstimate": 813
     },
     {
       "ID": "EOS_DTA_NUMBER",
       "SetID": "2a55amo",
       "Name": "Number of the Beast",
-      "Percentage": 30,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 508
     },
     {
       "ID": "EOS_DTA_PACHI",
       "SetID": "2a55amo",
       "Name": "Pachi Master",
-      "Percentage": 59,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 1016
     },
     {
       "ID": "EOS_DTA_PROVIDENCE",
       "SetID": "2a55amo",
       "Name": "I Am Providence",
-      "Percentage": 7,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 71
     },
     {
       "ID": "EOS_DTA_REVERSE",
       "SetID": "2a55amo",
       "Name": "Reversed High Priestess",
-      "Percentage": 53,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 1016
     },
     {
       "ID": "EOS_DTA_RITUAL_ARCANE",
       "SetID": "2a55amo",
       "Name": "A Dark Ritual, ARCANE",
-      "Percentage": 5,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 81
     },
     {
       "ID": "EOS_DTA_RITUAL_HERMIT",
       "SetID": "2a55amo",
       "Name": "A Dark Ritual, HERMIT",
-      "Percentage": 10,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 203
     },
     {
       "ID": "EOS_DTA_RITUAL_MAGI",
       "SetID": "2a55amo",
       "Name": "Ritual Magi",
-      "Percentage": 39,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 711
     },
     {
       "ID": "EOS_DTA_RITUAL_SEER",
       "SetID": "2a55amo",
       "Name": "Ritual Seer",
-      "Percentage": 27,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 407
     },
     {
       "ID": "EOS_DTA_RITUAL_WARLOCK",
       "SetID": "2a55amo",
       "Name": "Ritual Warlock",
-      "Percentage": 16,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 120
+      "UsersEstimate": 203
     },
     {
       "ID": "EOS_DTA_RITUAL_ZODIAC",
       "SetID": "2a55amo",
       "Name": "A Dark Ritual, ZODIAC",
-      "Percentage": 8,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 102
     },
     {
       "ID": "EOS_DTA_TILT",
       "SetID": "2a55amo",
       "Name": "If You Ain\u2019t Tilting you Ain\u2019t Trying",
-      "Percentage": 6,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 102
     },
     {
       "ID": "EOS_DTA_VICTORY",
       "SetID": "2a55amo",
       "Name": "Victory Laps",
-      "Percentage": 51,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 384
+      "UsersEstimate": 915
     },
     {
       "ID": "EOS_DTA_WELCOME",
       "SetID": "2a55amo",
       "Name": "Welcome Paladin",
-      "Percentage": 96,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 723
+      "UsersEstimate": 1830
     },
     {
       "ID": "EOS_DTA_WIZARDMODE",
       "SetID": "2a55amo",
       "Name": "WIZARD MODE",
-      "Percentage": 3,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "2a55amo",
       "IsBase": true,
-      "Progressed": 753,
-      "Completed": 3
+      "Progressed": 10164,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:18:30.3918213+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.6473258+00:00",
   "LastChanged": "2024-05-17T11:59:18.7204418+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:14.7616076+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:09:19.4670544+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:13.8242553+00:00",
-  "LastUpdate_Ratings": "2024-06-17T15:00:01.3343138+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:14.762419+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:17.4099051+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:09:19.4670746+00:00"
 }

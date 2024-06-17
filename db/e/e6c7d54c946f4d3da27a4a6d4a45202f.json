@@ -2,10 +2,10 @@
   "ID": "e6c7d54c946f4d3da27a4a6d4a45202f",
   "Name": "FRONT MISSION 1st: Remake",
   "ProductSlug": "front-mission-1st-remake-124a24",
-  "Ranking_EOS_Progress": 843,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 903,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -49,6 +49,11 @@
       "Time": "2024-01-10T09:04:58.9787995+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:17:41.0218555+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-06-29T10:00:33.4680773+00:00",
@@ -59,9 +64,9 @@
       "ID": "achievement_id_1",
       "SetID": "95c9ld5",
       "Name": "RECRUITER",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_id_10",
@@ -83,9 +88,9 @@
       "ID": "achievement_id_12",
       "SetID": "95c9ld5",
       "Name": "WHEN THE WAR BEGAN",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_id_13",
@@ -99,17 +104,17 @@
       "ID": "achievement_id_14",
       "SetID": "95c9ld5",
       "Name": "ONE AGAINST ALL",
-      "Percentage": 0,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_id_15",
       "SetID": "95c9ld5",
       "Name": "HELL YEA",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_id_16",
@@ -147,9 +152,9 @@
       "ID": "achievement_id_2",
       "SetID": "95c9ld5",
       "Name": "SHOULDER TO SHOULDER",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_id_20",
@@ -227,49 +232,49 @@
       "ID": "achievement_id_3",
       "SetID": "95c9ld5",
       "Name": "I HAVE MY OWN SYSTEM",
-      "Percentage": 0,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_id_4",
       "SetID": "95c9ld5",
       "Name": "OUTSTANDING CAPTAIN",
-      "Percentage": 0,
+      "Percentage": 117,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_id_5",
       "SetID": "95c9ld5",
       "Name": "ACE PILOT",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_id_6",
       "SetID": "95c9ld5",
       "Name": "THE BEST MATERIAL",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_id_7",
       "SetID": "95c9ld5",
       "Name": "VETERAN",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_id_8",
       "SetID": "95c9ld5",
       "Name": "KABUUM!",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_id_9",
@@ -284,14 +289,20 @@
     {
       "ID": "95c9ld5",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 6,
+      "Completed": 0
+    },
+    {
+      "ID": "b69djao",
+      "IsBase": false,
+      "Progressed": 0,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-30T05:57:06.1324977+00:00",
   "FirstSeenAchievements": "2023-06-26T08:01:45.5503063+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:07:08.0985195+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:41.021855+00:00",
   "LastUpdate_AppInfo": "2024-06-11T14:57:29.5402759+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:22.799355+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:08.0985352+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:32.3330795+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:41.0218752+00:00"
 }

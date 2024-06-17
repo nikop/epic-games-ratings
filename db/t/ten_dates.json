@@ -2,10 +2,10 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735,
-  "EOS_Completed": 8,
+  "EOS_Progressed": 854,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1681,6 +1681,11 @@
       "Time": "2024-04-10T06:05:15.7926814+00:00",
       "NumProgressed": 735,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-06-17T16:15:00.1569396+00:00",
+      "NumProgressed": 854,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -1690,169 +1695,169 @@
       "ID": "fail_misha",
       "SetID": "6h5h9ho",
       "Name": "Picky!",
-      "Percentage": 0.3,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "fail_ryan",
       "SetID": "6h5h9ho",
       "Name": "Picky, Picky!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 17
     },
     {
       "ID": "misha_date2_all",
       "SetID": "6h5h9ho",
       "Name": "Playing the field",
-      "Percentage": 0.1,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "misha_date3_all",
       "SetID": "6h5h9ho",
       "Name": "Keep the spark alive",
-      "Percentage": 0.1,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 7,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 102
     },
     {
       "ID": "profile_ryan",
       "SetID": "6h5h9ho",
       "Name": "That wasn\u0027t so bad",
-      "Percentage": 21,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 265
     },
     {
       "ID": "ryan_date2_all",
       "SetID": "6h5h9ho",
       "Name": "More than browsing",
-      "Percentage": 0.8,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 17
     },
     {
       "ID": "ryan_date3_all",
       "SetID": "6h5h9ho",
       "Name": "Go well, lad",
-      "Percentage": 0.1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 8
     },
     {
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 44
+      "UsersEstimate": 68
     },
     {
       "ID": "success_bash",
       "SetID": "6h5h9ho",
       "Name": "The lad",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 17
     },
     {
       "ID": "success_brandy",
       "SetID": "6h5h9ho",
       "Name": "The boss",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 29
+      "UsersEstimate": 51
     },
     {
       "ID": "success_derek",
       "SetID": "6h5h9ho",
       "Name": "The debonair",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 17
     },
     {
       "ID": "success_hazel",
       "SetID": "6h5h9ho",
       "Name": "The individualist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 17
     },
     {
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 85
     },
     {
       "ID": "success_lucas",
       "SetID": "6h5h9ho",
       "Name": "The techie",
-      "Percentage": 0.3,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 17
     },
     {
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 66
+      "UsersEstimate": 94
     },
     {
       "ID": "success_ty",
       "SetID": "6h5h9ho",
       "Name": "The bad boy",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "vinny_number",
       "SetID": "6h5h9ho",
       "Name": "Muggy Misha",
-      "Percentage": 0.1,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 735,
-      "Completed": 8
+      "Progressed": 854,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-02-16T03:10:27.551187+00:00",
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:15.7926806+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:00.1569392+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:43.2626461+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:01.6026017+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:15.7927002+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:26.9296236+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:00.1569615+00:00"
 }

@@ -4,44 +4,48 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Steam Power | 48.00% | ~32 |
-| Connection Up | 43.00% | ~29 |
-| Industrial Revolution | 19.00% | ~13 |
-| Double Trouble | 18.00% | ~12 |
-| Tunnel Vision | 16.00% | ~11 |
-| Full House | 15.00% | ~10 |
-| Heavy Load | 13.00% | ~9 |
-| Bridge Over Troubled Water | 9.00% | ~6 |
-| City Link | 9.00% | ~6 |
-| Long Train | 7.00% | ~5 |
-| Time Traveler | 6.00% | ~4 |
-| Cargo King | 6.00% | ~4 |
-| Trainee | 4.00% | ~3 |
-| Diesel Dream | 4.00% | ~3 |
-| Old School | 4.00% | ~3 |
-| Supply Chain | 4.00% | ~3 |
+| Steam Power | 47.00% | ~39 |
+| Connection Up | 45.00% | ~37 |
+| Industrial Revolution | 22.00% | ~18 |
+| Tunnel Vision | 17.00% | ~14 |
+| Trainee | 16.00% | ~13 |
+| Full House | 16.00% | ~13 |
+| City Link | 16.00% | ~13 |
+| Double Trouble | 16.00% | ~13 |
+| Heavy Load | 14.00% | ~12 |
+| Bridge Over Troubled Water | 12.00% | ~10 |
+| Long Train | 11.00% | ~9 |
+| Cargo King | 7.00% | ~6 |
+| Diesel Dream | 6.00% | ~5 |
+| Old School | 6.00% | ~5 |
+| Supply Chain | 6.00% | ~5 |
+| Mega Train | 6.00% | ~5 |
+| Connections master | 6.00% | ~5 |
+| Money Train | 5.00% | ~4 |
+| Time Traveler | 5.00% | ~4 |
+| Urban Network | 5.00% | ~4 |
+| Train Spotter | 5.00% | ~4 |
+| Electric Avenue | 4.00% | ~3 |
+| Super Long Train | 4.00% | ~3 |
+| Five Alive | 4.00% | ~3 |
+| Speed Demon | 4.00% | ~3 |
+| People Mover | 4.00% | ~3 |
+| Contract Apprentice | 4.00% | ~3 |
 | Money Matters | 4.00% | ~3 |
-| Billionaire Club | 3.00% | ~2 |
-| Five Alive | 3.00% | ~2 |
-| Train Spotter | 3.00% | ~2 |
-| Mega Train | 3.00% | ~2 |
-| Connections master | 3.00% | ~2 |
-| Capital Connection | 1.00% | ~1 |
-| Electric Avenue | 1.00% | ~1 |
-| Super Long Train | 1.00% | ~1 |
+| Capital Connection | 2.00% | ~2 |
+| Billionaire Club | 2.00% | ~2 |
+| Industrial Giant | 2.00% | ~2 |
+| World Explorer | 1.00% | ~1 |
+| Cross Country | 1.00% | ~1 |
 | Busy Station | 1.00% | ~1 |
-| Money Train | 1.00% | ~1 |
-| Speed Demon | 1.00% | ~1 |
-| People Mover | 1.00% | ~1 |
-| Contract Apprentice | 1.00% | ~1 |
-| Urban Network | 1.00% | ~1 |
+| Modern Times | 1.00% | ~1 |
+| Ultra Long Train | 1.00% | ~1 |
+| Green Energy | 1.00% | ~1 |
+| Regional Express | 1.00% | ~1 |
 | Contract Master | 1.00% | ~1 |
-| World Explorer | 0.00% | ~0 |
+| Crowd Pleaser | 1.00% | ~1 |
 | Mass Upgrade | 0.00% | ~0 |
-| Cross Country | 0.00% | ~0 |
-| Modern Times | 0.00% | ~0 |
 | Future Proof | 0.00% | ~0 |
-| Ultra Long Train | 0.00% | ~0 |
 | Train Tycoon | 0.00% | ~0 |
 | Big Spender | 0.00% | ~0 |
 | Steam Punk | 0.00% | ~0 |
@@ -49,14 +53,10 @@
 | One Route Wonder | 0.00% | ~0 |
 | Machine Maker | 0.00% | ~0 |
 | Mixed Bag | 0.00% | ~0 |
-| Green Energy | 0.00% | ~0 |
-| Regional Express | 0.00% | ~0 |
-| Industrial Giant | 0.00% | ~0 |
-| Crowd Pleaser | 0.00% | ~0 |
 | Bullet Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 618)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 83 (Ranked 662)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,3 +86,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-08 | 27 | 0 |
 | 2024-03-21 | 65 | 0 |
 | 2024-04-10 | 67 | 0 |
+| 2024-06-17 | 83 | 0 |

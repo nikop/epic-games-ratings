@@ -5,10 +5,10 @@
   "Ranking_Rating": 936,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 467,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -543,6 +543,11 @@
       "Time": "2024-04-10T06:03:43.7002161+00:00",
       "NumProgressed": 461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:12:09.5061513+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -562,7 +567,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 161
+      "UsersEstimate": 163
     },
     {
       "ID": "CampaignStars2",
@@ -570,7 +575,7 @@
       "Name": "Campaign Silver",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CampaignStars3",
@@ -578,7 +583,7 @@
       "Name": "Campaign Gold",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "CampaignStars4",
@@ -618,7 +623,7 @@
       "Name": "Environmentalist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Forester",
@@ -626,15 +631,15 @@
       "Name": "Forester",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Metropolis",
       "SetID": "c2k469b",
       "Name": "Metropolis",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 131
     },
     {
       "ID": "Multitalent",
@@ -650,7 +655,7 @@
       "Name": "Bora",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "PlanetEdora",
@@ -658,7 +663,7 @@
       "Name": "Edora",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "PlanetIqunox",
@@ -666,7 +671,7 @@
       "Name": "Iqunox",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "PlanetJoma",
@@ -674,7 +679,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 198
+      "UsersEstimate": 201
     },
     {
       "ID": "PlanetLorian",
@@ -682,7 +687,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "PlanetMagni",
@@ -690,7 +695,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "PlanetRounos",
@@ -698,7 +703,7 @@
       "Name": "Rounos",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "PlanetThera",
@@ -714,15 +719,15 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 272
+      "UsersEstimate": 276
     },
     {
       "ID": "PlanetUdionTorix",
       "SetID": "c2k469b",
       "Name": "Udion Torix",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "Scientist",
@@ -730,7 +735,7 @@
       "Name": "Scientist",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "WorldCreator",
@@ -738,14 +743,14 @@
       "Name": "World Creator",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 467,
       "Completed": 0
     }
   ],
@@ -753,8 +758,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:43.7002155+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:09.5061509+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:45.5814529+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:09.4699092+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:43.7002335+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:38.0139538+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:09.5061693+00:00"
 }

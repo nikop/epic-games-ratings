@@ -5,10 +5,10 @@
   "Ranking_Rating": 475,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 318,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-25T14:00:00+00:00",
     "PcReleaseDate": "2015-11-10T00:00:00+00:00",
@@ -1353,20 +1353,715 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 16296,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:12:56.0880524+00:00",
+      "NumProgressed": 16296,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:12:56.0880543+00:00",
+  "TotalAchievements": 84,
+  "TotalAchievementsXP": 1600,
+  "Achievements": [
+    {
+      "ID": "achv_01_0",
+      "SetID": "bpbje0m",
+      "Name": "War Never Changes",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_02_0",
+      "SetID": "bpbje0m",
+      "Name": "When Freedom Calls",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_03_0",
+      "SetID": "bpbje0m",
+      "Name": "Unlikely Valentine",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_04_0",
+      "SetID": "bpbje0m",
+      "Name": "Reunions",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_05_0",
+      "SetID": "bpbje0m",
+      "Name": "Dangerous Minds",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_06_0",
+      "SetID": "bpbje0m",
+      "Name": "Hunter/Hunted",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_07_0",
+      "SetID": "bpbje0m",
+      "Name": "The Molecular Level",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_08_0",
+      "SetID": "bpbje0m",
+      "Name": "The Nuclear Option",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_09_0",
+      "SetID": "bpbje0m",
+      "Name": "Institutionalized",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_10_0",
+      "SetID": "bpbje0m",
+      "Name": "Mankind-Redefined",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_11_0",
+      "SetID": "bpbje0m",
+      "Name": "Powering Up",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_12_0",
+      "SetID": "bpbje0m",
+      "Name": "Nuclear Family",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_13_0",
+      "SetID": "bpbje0m",
+      "Name": "The First Step",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_14_0",
+      "SetID": "bpbje0m",
+      "Name": "Taking Independence",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_15_0",
+      "SetID": "bpbje0m",
+      "Name": "Old Guns",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_16_0",
+      "SetID": "bpbje0m",
+      "Name": "Semper Invicta",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_17_0",
+      "SetID": "bpbje0m",
+      "Name": "Blind Betrayal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_18_0",
+      "SetID": "bpbje0m",
+      "Name": "Ad Victoriam",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_19_0",
+      "SetID": "bpbje0m",
+      "Name": "Tradecraft",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_20_0",
+      "SetID": "bpbje0m",
+      "Name": "Underground Undercover",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_21_0",
+      "SetID": "bpbje0m",
+      "Name": "Rockets\u0027 Red Glare",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_22_0",
+      "SetID": "bpbje0m",
+      "Name": "Sanctuary",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_23_0",
+      "SetID": "bpbje0m",
+      "Name": "Community Organizer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_24_0",
+      "SetID": "bpbje0m",
+      "Name": "Benevolent Leader",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_25_0",
+      "SetID": "bpbje0m",
+      "Name": "Gun-For-Hire",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_26_0",
+      "SetID": "bpbje0m",
+      "Name": "Mercenary",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_27_0",
+      "SetID": "bpbje0m",
+      "Name": "Scavver",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_28_0",
+      "SetID": "bpbje0m",
+      "Name": "What\u0027s Yours Is Mine",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_29_0",
+      "SetID": "bpbje0m",
+      "Name": "RobCo\u0027s Worst Nightmare",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_30_0",
+      "SetID": "bpbje0m",
+      "Name": "Armed and Dangerous",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_31_0",
+      "SetID": "bpbje0m",
+      "Name": "Wasteland D.I.Y.",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_32_0",
+      "SetID": "bpbje0m",
+      "Name": "Never Go It Alone",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_33_0",
+      "SetID": "bpbje0m",
+      "Name": "Lovable",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_34_0",
+      "SetID": "bpbje0m",
+      "Name": "Fix-Er-Upper",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_35_0",
+      "SetID": "bpbje0m",
+      "Name": "Future Retro",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_36_0",
+      "SetID": "bpbje0m",
+      "Name": "\u2026The Harder They Fall",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_37_0",
+      "SetID": "bpbje0m",
+      "Name": "Ranger Corps",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_38_0",
+      "SetID": "bpbje0m",
+      "Name": "Print\u0027s Not Dead",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_39_0",
+      "SetID": "bpbje0m",
+      "Name": "Prankster\u0027s Return",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_40_0",
+      "SetID": "bpbje0m",
+      "Name": "Masshole",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_41_0",
+      "SetID": "bpbje0m",
+      "Name": "Animal Control",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_42_0",
+      "SetID": "bpbje0m",
+      "Name": "Homerun!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_43_0",
+      "SetID": "bpbje0m",
+      "Name": "Touchdown!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_44_0",
+      "SetID": "bpbje0m",
+      "Name": "They\u0027re Not Dolls\u2026",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_45_0",
+      "SetID": "bpbje0m",
+      "Name": "\u2026They\u0027re Action Figures",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_46_0",
+      "SetID": "bpbje0m",
+      "Name": "Born Survivor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_47_0",
+      "SetID": "bpbje0m",
+      "Name": "Commonwealth Citizen",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_48_0",
+      "SetID": "bpbje0m",
+      "Name": "Unstoppable Wanderer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_49_0",
+      "SetID": "bpbje0m",
+      "Name": "Legend Of The Wastes",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_50_0",
+      "SetID": "bpbje0m",
+      "Name": "Prepared for the Future",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_51_0",
+      "SetID": "a4i91nk",
+      "Name": "Mechanical Menace",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_52_0",
+      "SetID": "a4i91nk",
+      "Name": "Headhunting",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_53_0",
+      "SetID": "a4i91nk",
+      "Name": "Restoring Order",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_54_0",
+      "SetID": "a4i91nk",
+      "Name": "Robot Hunter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_55_0",
+      "SetID": "a4i91nk",
+      "Name": "The Most Toys",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_56_0",
+      "SetID": "a4i91nk",
+      "Name": "Docile",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_57_0",
+      "SetID": "a4i91nk",
+      "Name": "Instigator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_58_0",
+      "SetID": "a4i91nk",
+      "Name": "Trapper",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_59_0",
+      "SetID": "a4i91nk",
+      "Name": "Far From Home",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_60_0",
+      "SetID": "a4i91nk",
+      "Name": "Where You Belong",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_61_0",
+      "SetID": "a4i91nk",
+      "Name": "The Way Life Should Be",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_62_0",
+      "SetID": "a4i91nk",
+      "Name": "Cleansing The Land",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_63_0",
+      "SetID": "a4i91nk",
+      "Name": "Close To Home",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_64_0",
+      "SetID": "a4i91nk",
+      "Name": "The Islander\u0027s Almanac",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_65_0",
+      "SetID": "a4i91nk",
+      "Name": "Hooked",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_66_0",
+      "SetID": "a4i91nk",
+      "Name": "New England Vacationer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_67_0",
+      "SetID": "a4i91nk",
+      "Name": "Push Back The Fog",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_68_0",
+      "SetID": "a4i91nk",
+      "Name": "Just Add Saltwater",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_69_0",
+      "SetID": "a4i91nk",
+      "Name": "Show Off",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_70_0",
+      "SetID": "a4i91nk",
+      "Name": "Time Out",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_71_0",
+      "SetID": "a4i91nk",
+      "Name": "Mass Production",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_72_0",
+      "SetID": "a4i91nk",
+      "Name": "Oversight",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_73_0",
+      "SetID": "a4i91nk",
+      "Name": "Better Living Underground",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_74_0",
+      "SetID": "a4i91nk",
+      "Name": "Vault Dweller",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_75_0",
+      "SetID": "a4i91nk",
+      "Name": "Raiding for a Living",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_76_0",
+      "SetID": "a4i91nk",
+      "Name": "Diebrarian",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_77_0",
+      "SetID": "a4i91nk",
+      "Name": "Beverageer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_78_0",
+      "SetID": "a4i91nk",
+      "Name": "Hostile Takeover",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_79_0",
+      "SetID": "a4i91nk",
+      "Name": "All Sugared Up",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_80_0",
+      "SetID": "a4i91nk",
+      "Name": "Eyes on the Prize",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_81_0",
+      "SetID": "a4i91nk",
+      "Name": "Taken for a Ride",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_82_0",
+      "SetID": "a4i91nk",
+      "Name": "The Grand Tour",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_83_0",
+      "SetID": "a4i91nk",
+      "Name": "Home Sweet Home",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achv_84_0",
+      "SetID": "a4i91nk",
+      "Name": "Power Play",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "a4i91nk",
+      "IsBase": false,
+      "Progressed": 16296,
+      "Completed": 0
+    },
+    {
+      "ID": "bpbje0m",
+      "IsBase": true,
+      "Progressed": 16296,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
   "LastChanged": "2024-06-17T13:04:34.9844796+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:56.0880521+00:00",
   "LastUpdate_AppInfo": "2024-06-13T20:57:19.84828+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:31.8838485+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:08.5050159+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:07.8382975+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:56.0887312+00:00"
 }

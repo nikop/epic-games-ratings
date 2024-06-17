@@ -2,10 +2,10 @@
   "ID": "9f72ba7c750948d0ba91b26f9c989b3f",
   "Name": "Crystal Ball Critters",
   "ProductSlug": "crystal-ball-critters-c08765",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2025-06-30T00:00:00+00:00",
     "PcReleaseDate": "2025-06-30T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "dg5dfod",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:10:52.1670706+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:10:52.1670677+00:00",
   "LastUpdate_AppInfo": "2024-06-10T17:57:06.5578679+00:00",
-  "LastUpdate_Ratings": "2024-06-17T15:00:02.9260671+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:02.9482433+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:20.5096188+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:10:52.1670726+00:00"
 }

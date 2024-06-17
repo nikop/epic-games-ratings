@@ -2,10 +2,10 @@
   "ID": "9fb0adc767184d57ae4d6f4dc47235ba",
   "Name": "Unholy Village",
   "ProductSlug": "unholy-village-bf7edb",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,9 +29,59 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-06-17T16:15:43.6090735+00:00",
+  "TotalAchievements": 6,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "escapevillage",
+      "SetID": "4cj2eim",
+      "Name": "Escape from the village.",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "firebooks",
+      "SetID": "4cj2eim",
+      "Name": "Fire books",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "firstblood",
+      "SetID": "4cj2eim",
+      "Name": "First blood",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hidewardrobe",
+      "SetID": "4cj2eim",
+      "Name": "Hide inside the wardrobe.",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "nobattery",
+      "SetID": "4cj2eim",
+      "Name": "Drain the battery of the flashlight.",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "takefriends",
+      "SetID": "4cj2eim",
+      "Name": "Take your friends to the village by car.",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4cj2eim",
@@ -41,8 +91,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:05:42.3064921+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:42.3064904+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:43.6090719+00:00",
   "LastUpdate_AppInfo": "2024-06-17T13:57:08.5523563+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:51.7494474+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:42.3064934+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:14.1405293+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:43.6099166+00:00"
 }

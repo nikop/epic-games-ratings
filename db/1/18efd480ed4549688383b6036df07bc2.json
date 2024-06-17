@@ -2,10 +2,10 @@
   "ID": "18efd480ed4549688383b6036df07bc2",
   "Name": "Space Accident",
   "ProductSlug": "space-accident-vr-8aa915",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 799,
+  "Ranking_EOS_Completed": 11,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-03T09:00:00+00:00",
     "PcReleaseDate": "2022-02-10T10:00:00+00:00",
@@ -23,16 +23,74 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 22,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 40.91,
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:07:50.341303+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 9
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:07:50.3413118+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_1",
+      "SetID": "94p2dg4",
+      "Name": "First puzzle",
+      "Percentage": 86,
+      "XP": 200,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "ACH_2",
+      "SetID": "94p2dg4",
+      "Name": "Second puzzle",
+      "Percentage": 68,
+      "XP": 200,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "ACH_3",
+      "SetID": "94p2dg4",
+      "Name": "Third puzzle",
+      "Percentage": 55,
+      "XP": 200,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "ACH_4",
+      "SetID": "94p2dg4",
+      "Name": "Fourth puzzle",
+      "Percentage": 50,
+      "XP": 200,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACH_5",
+      "SetID": "94p2dg4",
+      "Name": "Command centre",
+      "Percentage": 41,
+      "XP": 200,
+      "UsersEstimate": 9
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "94p2dg4",
+      "IsBase": true,
+      "Progressed": 22,
+      "Completed": 9
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:07:50.3413118+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:07:50.3413026+00:00",
   "LastUpdate_AppInfo": "2024-06-12T14:57:14.3806568+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:17.8953738+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:41.5487065+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:50.3421423+00:00"
 }

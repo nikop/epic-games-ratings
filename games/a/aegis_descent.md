@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 93.00% | ~432 |
-| Scavenger | 73.00% | ~339 |
-| Line of Duty | 71.00% | ~329 |
-| Gunner | 57.00% | ~264 |
-| DocKing | 45.00% | ~209 |
-| What-A-Shot | 43.00% | ~200 |
-| Batteries Included | 38.00% | ~176 |
-| Death from Above | 33.00% | ~153 |
-| Hull King | 25.00% | ~116 |
-| Extra Ammo | 19.00% | ~88 |
-| Splash Damage | 19.00% | ~88 |
+| Clean Sweep | 93.00% | ~434 |
+| Scavenger | 73.00% | ~341 |
+| Line of Duty | 71.00% | ~332 |
+| Gunner | 57.00% | ~266 |
+| DocKing | 45.00% | ~210 |
+| What-A-Shot | 43.00% | ~201 |
+| Batteries Included | 38.00% | ~177 |
+| Death from Above | 34.00% | ~159 |
+| Hull King | 25.00% | ~117 |
+| Splash Damage | 19.00% | ~89 |
 | Boss Down | 18.00% | ~84 |
-| Hazardous Duty | 16.00% | ~74 |
+| Extra Ammo | 18.00% | ~84 |
+| Hazardous Duty | 16.00% | ~75 |
 | Perky | 14.00% | ~65 |
-| Perk King | 10.00% | ~46 |
-| Salvage | 10.00% | ~46 |
-| Sixty Seconds | 10.00% | ~46 |
-| Shocking | 10.00% | ~46 |
+| Perk King | 10.00% | ~47 |
+| Salvage | 10.00% | ~47 |
+| Sixty Seconds | 10.00% | ~47 |
+| Shocking | 10.00% | ~47 |
 | Perfect Timing | 9.00% | ~42 |
 | Killer Elite | 6.00% | ~28 |
 | Bumper Car | 4.00% | ~19 |
@@ -31,14 +31,14 @@
 | Thirty Birds... | 4.00% | ~19 |
 | Early Bird | 3.00% | ~14 |
 | Swiss Cheese | 3.00% | ~14 |
-| Heavy Metal | 2.00% | ~9 |
-| Mister Fix It | 2.00% | ~9 |
 | Shell Shock | 2.00% | ~9 |
-| Hornet Lock On | 2.00% | ~9 |
-| Specialized | 2.00% | ~9 |
 | The First Step | 2.00% | ~9 |
 | Having a Blast | 1.00% | ~5 |
+| Heavy Metal | 1.00% | ~5 |
+| Mister Fix It | 1.00% | ~5 |
 | Power Up | 1.00% | ~5 |
+| Hornet Lock On | 1.00% | ~5 |
+| Specialized | 1.00% | ~5 |
 | The Cannoneer | 1.00% | ~5 |
 | Demolition Derby | 0.60% | ~3 |
 | Intel King | 0.60% | ~3 |
@@ -49,8 +49,8 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464 (Ranked 411)  
-Completed: 1 (0.22%) (Ranked 315)  
+Progressed: 467 (Ranked 453)  
+Completed: 1 (0.21%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 1 (0.22%) (Ranked 315)
 | 2024-01-26 | 457 | 1 |
 | 2024-03-21 | 462 | 1 |
 | 2024-04-08 | 464 | 1 |
+| 2024-06-17 | 467 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

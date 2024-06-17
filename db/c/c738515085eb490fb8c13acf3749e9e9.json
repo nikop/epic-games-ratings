@@ -2,10 +2,10 @@
   "ID": "c738515085eb490fb8c13acf3749e9e9",
   "Name": "ROAD TO EXOTICS!",
   "ProductSlug": "road-to-exotics-e9a738",
-  "Ranking_EOS_Progress": 906,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 710,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-14T04:00:00+00:00",
     "PcReleaseDate": "2024-05-14T04:00:00+00:00",
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -32,6 +32,11 @@
     {
       "Time": "2024-03-21T17:07:30.271684+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:10:57.1894278+00:00",
+      "NumProgressed": 51,
       "NumCompleted": 0
     }
   ],
@@ -43,134 +48,134 @@
       "ID": "Formula collector",
       "SetID": "coom88h",
       "Name": "Formula collector",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Hypercar collector",
       "SetID": "coom88h",
-      "Name": "Hypercar collector",
-      "Percentage": 0,
+      "Name": "Exotics collector",
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Loser",
       "SetID": "coom88h",
       "Name": "Loser",
-      "Percentage": 100,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "Loser 2",
       "SetID": "coom88h",
       "Name": "Loser 2",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Loser 3",
       "SetID": "coom88h",
       "Name": "Loser 3",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Monster collector",
       "SetID": "coom88h",
       "Name": "Monster collector",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Muscle collector",
       "SetID": "coom88h",
       "Name": "Classic collector",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Out of this world friend 2",
       "SetID": "coom88h",
       "Name": "U.F.O",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Racing collector",
       "SetID": "coom88h",
-      "Name": "Racecar collector",
-      "Percentage": 0,
+      "Name": "Super collector",
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Simple collector",
       "SetID": "coom88h",
-      "Name": "Simple collector",
-      "Percentage": 0,
+      "Name": "Tuners collector",
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "Ultimate collector",
       "SetID": "coom88h",
       "Name": "Ultimate collector",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Ultimate goods collector",
       "SetID": "coom88h",
       "Name": "Champion",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Winner",
       "SetID": "coom88h",
       "Name": "Winner",
-      "Percentage": 0,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "Winner 2",
       "SetID": "coom88h",
       "Name": "Winner 2",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "Winner 3",
       "SetID": "coom88h",
       "Name": "Winner 3",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "coom88h",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:07:30.2716873+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:05.3947469+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:10:57.1894273+00:00",
   "LastUpdate_AppInfo": "2024-06-16T09:57:19.1646906+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:53.740976+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:05.3947565+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:35.7643829+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:10:57.189438+00:00"
 }

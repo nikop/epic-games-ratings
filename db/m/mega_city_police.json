@@ -2,10 +2,10 @@
   "ID": "a0a5746aad2645a9a23913766d2f4667",
   "Name": "Mega City Force",
   "ProductSlug": "mega-city-force-22a245",
-  "Ranking_EOS_Progress": 657,
-  "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 717,
+  "Ranking_EOS_Completed": 173,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-07-28T14:00:00+00:00",
     "PcReleaseDate": "2023-07-28T14:00:00+00:00",
@@ -249,17 +249,17 @@
       "ID": "ACH_BLAST_APART_100",
       "SetID": "a2aifpa",
       "Name": "Gibbing Love",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BOSSES_100",
       "SetID": "a2aifpa",
       "Name": "Head of the Snake",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BURN_50",
@@ -478,8 +478,8 @@
   ],
   "FirstSeen": "2023-07-30T18:59:40.5539908+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:08.7767583+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:28.616812+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:23.9613784+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:31.5855236+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:01:07.8010103+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:28.6168277+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:53.6291041+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:23.9613969+00:00"
 }

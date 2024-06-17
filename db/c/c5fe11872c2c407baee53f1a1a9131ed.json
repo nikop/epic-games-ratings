@@ -2,10 +2,10 @@
   "ID": "c5fe11872c2c407baee53f1a1a9131ed",
   "Name": "SPINGUN",
   "ProductSlug": "spingun-843f78",
-  "Ranking_EOS_Progress": 514,
-  "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 563,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 177,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-06-02T21:05:45.2718961+00:00",
@@ -814,6 +814,11 @@
       "Time": "2024-04-10T06:04:01.1142154+00:00",
       "NumProgressed": 175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:12:43.4938356+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -881,7 +886,7 @@
       "Name": "Customize Ship",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_endless_120",
@@ -897,7 +902,7 @@
       "Name": "Endless 30 Seconds",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "ach_endless_60",
@@ -905,7 +910,7 @@
       "Name": "Endless 60 Seconds",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_endless_c_60",
@@ -959,9 +964,9 @@
       "ID": "ach_lotsokills",
       "SetID": "5a4225j",
       "Name": "Lots o\u0027 Kills",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_pacifist",
@@ -983,9 +988,9 @@
       "ID": "ach_practiceperfect",
       "SetID": "5a4225j",
       "Name": "Practice Makes Perfect",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_pulser_zone",
@@ -1009,7 +1014,7 @@
       "Name": "Won Spreader Zone",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_toosoon",
@@ -1032,14 +1037,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 177,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:01.1142149+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:43.4938353+00:00",
   "LastUpdate_AppInfo": "2024-06-16T09:57:16.6657303+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:33.8850303+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:01.1142353+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:49.1062104+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:43.4938511+00:00"
 }

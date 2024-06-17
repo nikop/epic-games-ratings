@@ -5,58 +5,58 @@ Rating: 4.71 (Ranked 214)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Patent Pending | 51.00% | ~690 |
-| The Auto Shop | 51.00% | ~690 |
-| Into the Wilderness | 39.00% | ~527 |
-| Investigate the Zone | 37.00% | ~500 |
-| Sleight of Hand | 36.00% | ~487 |
-| Great Scott! | 32.00% | ~433 |
-| Juiced Up | 31.00% | ~419 |
-| ARDA Record-Keeper | 30.00% | ~406 |
-| Car Whisperer | 28.00% | ~379 |
-| A Leap of Faith | 26.00% | ~352 |
-| Where We're Going, We Don't Need Roads | 24.00% | ~324 |
-| Et tu? | 24.00% | ~324 |
-| Stabilizing the Route | 20.00% | ~270 |
-| Packrat | 19.00% | ~257 |
-| DIY Expert | 18.00% | ~243 |
-| It Would Take a Miracle | 18.00% | ~243 |
-| Car Of Theseus | 17.00% | ~230 |
-| Troubleshooting | 17.00% | ~230 |
-| The Eye of the Storm | 17.00% | ~230 |
-| Driver's Ed Dropout | 16.00% | ~216 |
-| Long Haul | 14.00% | ~189 |
-| The Mid-Zone Crossing | 14.00% | ~189 |
-| Hack the Planet! | 14.00% | ~189 |
-| The Visions | 14.00% | ~189 |
-| Fully Outfitted | 13.00% | ~176 |
-| Personal Methods of Creative Expression are Highly Encouraged | 13.00% | ~176 |
-| The Red Meadow Records | 13.00% | ~176 |
-| Certified Mechanic | 12.00% | ~162 |
-| The Deep Zone Crossing | 12.00% | ~162 |
-| They Weren't Using It | 10.00% | ~135 |
-| ARDA Lorekeeper | 9.00% | ~122 |
-| Graverobber | 9.00% | ~122 |
-| The Anomaly Barricade | 9.00% | ~122 |
-| The End of the Road | 9.00% | ~122 |
-| Along for the Ride | 8.00% | ~108 |
-| Renewable Power | 7.00% | ~95 |
-| Streets Ahead | 7.00% | ~95 |
-| I Don’t Know What I Expected | 6.00% | ~81 |
-| Fly Homeward | 6.00% | ~81 |
-| Nothing Personnel, Zone | 5.00% | ~68 |
-| Scientific Pursuit | 3.00% | ~41 |
-| Lumberjack | 2.00% | ~27 |
-| Garage Barrage | 1.00% | ~14 |
-| Just Walk it Off | 0.90% | ~12 |
-| Watch Out for Hop-ons! | 0.90% | ~12 |
-| DIY Master | 0.70% | ~9 |
-| No Parking | 0.50% | ~7 |
-| With the Top Down | 0.30% | ~4 |
-| Running on Empty | 0.10% | ~1 |
+| The Auto Shop | 57.00% | ~1,106 |
+| Patent Pending | 48.00% | ~932 |
+| Into the Wilderness | 43.00% | ~835 |
+| Investigate the Zone | 41.00% | ~796 |
+| Sleight of Hand | 36.00% | ~699 |
+| Great Scott! | 29.00% | ~563 |
+| Juiced Up | 28.00% | ~543 |
+| A Leap of Faith | 27.00% | ~524 |
+| ARDA Record-Keeper | 26.00% | ~505 |
+| Car Whisperer | 26.00% | ~505 |
+| Et tu? | 23.00% | ~446 |
+| Where We're Going, We Don't Need Roads | 22.00% | ~427 |
+| Stabilizing the Route | 20.00% | ~388 |
+| Driver's Ed Dropout | 17.00% | ~330 |
+| Troubleshooting | 17.00% | ~330 |
+| Packrat | 16.00% | ~311 |
+| DIY Expert | 16.00% | ~311 |
+| It Would Take a Miracle | 15.00% | ~291 |
+| The Eye of the Storm | 15.00% | ~291 |
+| Car Of Theseus | 14.00% | ~272 |
+| The Mid-Zone Crossing | 14.00% | ~272 |
+| Hack the Planet! | 14.00% | ~272 |
+| The Visions | 13.00% | ~252 |
+| Long Haul | 12.00% | ~233 |
+| Fully Outfitted | 11.00% | ~214 |
+| Personal Methods of Creative Expression are Highly Encouraged | 11.00% | ~214 |
+| The Red Meadow Records | 11.00% | ~214 |
+| Certified Mechanic | 10.00% | ~194 |
+| The Deep Zone Crossing | 10.00% | ~194 |
+| They Weren't Using It | 9.00% | ~175 |
+| Graverobber | 8.00% | ~155 |
+| The Anomaly Barricade | 8.00% | ~155 |
+| The End of the Road | 8.00% | ~155 |
+| Along for the Ride | 7.00% | ~136 |
+| ARDA Lorekeeper | 7.00% | ~136 |
+| Renewable Power | 6.00% | ~116 |
+| Streets Ahead | 6.00% | ~116 |
+| I Don’t Know What I Expected | 6.00% | ~116 |
+| Fly Homeward | 6.00% | ~116 |
+| Nothing Personnel, Zone | 5.00% | ~97 |
+| Lumberjack | 2.00% | ~39 |
+| Scientific Pursuit | 2.00% | ~39 |
+| Garage Barrage | 1.00% | ~19 |
+| Just Walk it Off | 0.90% | ~17 |
+| DIY Master | 0.80% | ~16 |
+| Watch Out for Hop-ons! | 0.60% | ~12 |
+| No Parking | 0.40% | ~8 |
+| With the Top Down | 0.20% | ~4 |
+| Running on Empty | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,352 (Ranked 324)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 1,941 (Ranked 334)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,6 +64,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-04-07 | 524 | 0 |
 | 2024-04-10 | 602 | 0 |
 | 2024-05-13 | 1,352 | 0 |
+| 2024-06-17 | 1,941 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

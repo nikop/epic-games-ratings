@@ -5,41 +5,41 @@ Rating: 4.54 (Ranked 584)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,311 |
-| Household | 7.00% | ~105 |
-| An Old Friend | 6.00% | ~90 |
-| Lot 49 | 5.00% | ~75 |
-| Viva La Revolution | 5.00% | ~75 |
-| Atomic Soda | 4.00% | ~60 |
-| Mysterious Knife | 4.00% | ~60 |
-| Shadow over Trudograd | 4.00% | ~60 |
-| Walking Fortress | 4.00% | ~60 |
-| Freelance Police | 3.00% | ~45 |
-| The Great and Powerful | 3.00% | ~45 |
-| Albino Bloodsucker | 2.00% | ~30 |
-| Fight Club | 2.00% | ~30 |
-| Human Antidote | 2.00% | ~30 |
-| Death of the Author | 1.00% | ~15 |
-| Memoirs of a Nibbler | 0.90% | ~14 |
-| Rising Star | 0.90% | ~14 |
-| KGB Bunker | 0.80% | ~12 |
+| Fresh Prince of Trudograd | 87.00% | ~1,370 |
+| Household | 7.00% | ~110 |
+| An Old Friend | 6.00% | ~94 |
+| Lot 49 | 5.00% | ~79 |
+| Viva La Revolution | 5.00% | ~79 |
+| Atomic Soda | 4.00% | ~63 |
+| Mysterious Knife | 4.00% | ~63 |
+| Shadow over Trudograd | 4.00% | ~63 |
+| Walking Fortress | 4.00% | ~63 |
+| Freelance Police | 3.00% | ~47 |
+| The Great and Powerful | 3.00% | ~47 |
+| Albino Bloodsucker | 2.00% | ~32 |
+| Fight Club | 2.00% | ~32 |
+| Human Antidote | 2.00% | ~32 |
+| Death of the Author | 1.00% | ~16 |
+| Memoirs of a Nibbler | 1.00% | ~16 |
+| KGB Bunker | 0.80% | ~13 |
+| Rising Star | 0.80% | ~13 |
 | Sixth Sense | 0.70% | ~11 |
-| Baby Eater | 0.50% | ~8 |
+| Baby Eater | 0.60% | ~9 |
+| Admiral | 0.40% | ~6 |
 | Incompetence | 0.40% | ~6 |
-| Admiral | 0.30% | ~5 |
+| Goose Sacrifice | 0.40% | ~6 |
+| Second Thought | 0.40% | ~6 |
 | Bronzovka | 0.30% | ~5 |
 | Commando | 0.30% | ~5 |
 | Holy Mountain | 0.30% | ~5 |
-| Goose Sacrifice | 0.30% | ~5 |
-| Second Thought | 0.30% | ~5 |
+| Power of Simplicity | 0.30% | ~5 |
 | Sick Freak | 0.30% | ~5 |
 | Goodbye ATOM | 0.20% | ~3 |
-| Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,507 (Ranked 315)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 1,575 (Ranked 351)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -241,6 +241,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 1,471 | 0 |
 | 2024-03-21 | 1,489 | 0 |
 | 2024-04-10 | 1,507 | 0 |
+| 2024-06-17 | 1,575 | 0 |
 ## Awards
 Max (Character Customization): 27  (Ranked 608)  
 Sum: 27 (Ranked 626)  

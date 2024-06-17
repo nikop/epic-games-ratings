@@ -5,10 +5,10 @@
   "Ranking_Rating": 232,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 425,
+  "Ranking_EOS_Completed": 197,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -51,11 +51,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 612,
-  "EOS_Completed": 8,
+  "EOS_Progressed": 647,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-10-18T09:06:38.9917479+00:00",
@@ -1696,6 +1696,11 @@
       "Time": "2024-04-10T06:04:23.3405184+00:00",
       "NumProgressed": 612,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-06-17T16:13:22.5303578+00:00",
+      "NumProgressed": 647,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1708,15 +1713,15 @@
       "Name": "Combo Crackerjack",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "Kronos Island Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 65
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -1724,15 +1729,15 @@
       "Name": "Ares Island Explorer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Explorer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND4",
@@ -1740,7 +1745,7 @@
       "Name": "Ouranos Island Explorer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "DEFENCE_LEVEL_REACH_NUM",
@@ -1748,7 +1753,7 @@
       "Name": "Hardened Hedgehog",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ENEMY_DEFEATED_ALL",
@@ -1756,55 +1761,55 @@
       "Name": "Easy Prey",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 252
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 226
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "Big Encounter",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 175
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
       "SetID": "apihg0e",
       "Name": "Elder Koco Encounter",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 239
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
       "SetID": "apihg0e",
       "Name": "Hermit Koco Encounter",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 257
+      "UsersEstimate": 278
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
       "SetID": "apihg0e",
       "Name": "Celestial Rain",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 181
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1812,7 +1817,7 @@
       "Name": "Unknown Threat",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 531
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1820,23 +1825,23 @@
       "Name": "Speed Demon",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 311
     },
     {
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 272
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Ticket to Tranquility",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 175
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1844,47 +1849,47 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "KODAMA_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Koco Leader",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 136
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
       "SetID": "apihg0e",
       "Name": "The Beginning",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 175
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ancient Defiance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 104
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Futile Resistance",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 78
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Hope Across Ages",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 65
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1892,15 +1897,15 @@
       "Name": "A Land at Peace",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 355
+      "UsersEstimate": 382
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1908,7 +1913,7 @@
       "Name": "Threats Identified",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD1",
@@ -1916,23 +1921,23 @@
       "Name": "Kronos Island Memories",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 91
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
       "SetID": "apihg0e",
       "Name": "Ares Island Memories",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Memories",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD4",
@@ -1940,7 +1945,7 @@
       "Name": "Ouranos Island Memories",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "POWER_LEVEL_REACH_NUM",
@@ -1948,23 +1953,23 @@
       "Name": "Herculean Hedgehog",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hearty Hedgehog",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 52
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
       "SetID": "apihg0e",
       "Name": "Unrivaled Aptitude",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 71
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1972,7 +1977,7 @@
       "Name": "Hypersonic Hedgehog",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1980,7 +1985,7 @@
       "Name": "Expert Historian",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SUB_CLEAR_ISLAND1",
@@ -1988,23 +1993,23 @@
       "Name": "Kronos Island Expert",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "SUB_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Expert",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "SUB_CLEAR_ISLAND3",
       "SetID": "apihg0e",
       "Name": "Chaos Island Expert",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 19
     },
     {
       "ID": "SUB_CLEAR_ISLAND4",
@@ -2012,7 +2017,7 @@
       "Name": "Ouranos Island Expert",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TOTAL_DESTROYED_OBJECT",
@@ -2020,23 +2025,23 @@
       "Name": "Swath of Destruction",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 220
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 612,
-      "Completed": 8
+      "Progressed": 647,
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenRating": "2024-04-02T11:58:37.0098894+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
   "LastChanged": "2024-06-10T14:59:59.8062904+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:23.3405175+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:13:22.530357+00:00",
   "LastUpdate_AppInfo": "2024-06-12T13:03:04.1774215+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:42.0195574+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:23.3405488+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:02.3001963+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:13:22.5303876+00:00"
 }

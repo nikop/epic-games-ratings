@@ -2,10 +2,10 @@
   "ID": "3645577654d440e4a833ce60dac7ccf3",
   "Name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
-  "Ranking_EOS_Progress": 621,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 682,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 66,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -309,6 +309,11 @@
       "Time": "2024-04-10T06:06:23.5017531+00:00",
       "NumProgressed": 64,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:16:57.412517+00:00",
+      "NumProgressed": 66,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-22T06:03:17.9237808+00:00",
@@ -463,7 +468,7 @@
       "ID": "MagicCat10",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 10 cats unlocked",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -471,9 +476,9 @@
       "ID": "MagicCat20",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 20 cats unlocked",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MagicCat30",
@@ -495,9 +500,9 @@
       "ID": "MagicCat50",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 50 cats unlocked",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MagicCat60",
@@ -511,7 +516,7 @@
       "ID": "Tower1_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the First Tower",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -543,25 +548,25 @@
       "ID": "Tower2_RankA",
       "SetID": "df8cl74",
       "Name": "The Second Tower: A Rank",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Tower2_RankS",
       "SetID": "df8cl74",
       "Name": "The Second Tower: S Rank",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Tower3_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the Third Tower",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Tower3_RankA",
@@ -607,25 +612,25 @@
       "ID": "Tower5_Normal",
       "SetID": "df8cl74",
       "Name": "Clear the Fifth Tower",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Tower5_RankA",
       "SetID": "df8cl74",
       "Name": "The Fifth Tower A Rank",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Tower5_RankS",
       "SetID": "df8cl74",
       "Name": "The Fifth Tower S Rank",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Tower6_Normal",
@@ -664,14 +669,14 @@
     {
       "ID": "df8cl74",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 66,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-02T01:47:17.1216415+00:00",
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:23.5017526+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:16:57.4125166+00:00",
   "LastUpdate_AppInfo": "2024-06-12T21:57:08.0210652+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:48.6517364+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:23.501783+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:29.0941205+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:16:57.4125736+00:00"
 }

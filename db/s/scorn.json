@@ -5,10 +5,10 @@
   "Ranking_Rating": 757,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -239,11 +239,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3194,
-  "EOS_Completed": 224,
-  "EOS_NewPlayers": 3,
+  "EOS_Progressed": 5488,
+  "EOS_Completed": 270,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.01,
+  "EOS_Completed_Percentage": 4.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -5494,6 +5494,11 @@
       "Time": "2024-04-10T06:07:15.7006132+00:00",
       "NumProgressed": 3194,
       "NumCompleted": 224
+    },
+    {
+      "Time": "2024-06-17T16:17:48.6129899+00:00",
+      "NumProgressed": 5488,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 12,
@@ -5503,65 +5508,65 @@
       "ID": "001",
       "SetID": "94k0mj8",
       "Name": "001",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 351
+      "UsersEstimate": 823
     },
     {
       "ID": "002",
       "SetID": "94k0mj8",
       "Name": "002",
-      "Percentage": 19,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 607
+      "UsersEstimate": 1537
     },
     {
       "ID": "003",
       "SetID": "94k0mj8",
       "Name": "003",
-      "Percentage": 22,
+      "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 703
+      "UsersEstimate": 1701
     },
     {
       "ID": "004",
       "SetID": "94k0mj8",
       "Name": "004",
-      "Percentage": 20,
+      "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 639
+      "UsersEstimate": 1537
     },
     {
       "ID": "005",
       "SetID": "94k0mj8",
       "Name": "005",
-      "Percentage": 19,
+      "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 607
+      "UsersEstimate": 1427
     },
     {
       "ID": "006",
       "SetID": "94k0mj8",
       "Name": "006",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 415
+      "UsersEstimate": 878
     },
     {
       "ID": "007",
       "SetID": "94k0mj8",
       "Name": "007",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 383
+      "UsersEstimate": 768
     },
     {
       "ID": "008",
       "SetID": "94k0mj8",
       "Name": "008",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 351
+      "UsersEstimate": 659
     },
     {
       "ID": "009",
@@ -5569,7 +5574,7 @@
       "Name": "009",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 351
+      "UsersEstimate": 604
     },
     {
       "ID": "010",
@@ -5577,7 +5582,7 @@
       "Name": "010",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 351
+      "UsersEstimate": 604
     },
     {
       "ID": "011",
@@ -5585,7 +5590,7 @@
       "Name": "011",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 351
+      "UsersEstimate": 604
     },
     {
       "ID": "012",
@@ -5593,23 +5598,23 @@
       "Name": "012",
       "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 351
+      "UsersEstimate": 604
     }
   ],
   "AchievementSets": [
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 3194,
-      "Completed": 224
+      "Progressed": 5488,
+      "Completed": 270
     }
   ],
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2024-05-25T06:59:09.8575145+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:07:15.7006127+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:48.6129895+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:09.6245728+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:24.2937151+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:07:15.7006459+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:01:22.4648754+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:48.6130263+00:00"
 }

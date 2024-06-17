@@ -2,10 +2,10 @@
   "ID": "aac5ef68f6ce4c20aea4c3e722873070",
   "Name": "A Musical Story",
   "ProductSlug": "a-musical-story-973128",
-  "Ranking_EOS_Progress": 551,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
     "PcReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 126,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:26.5327185+00:00",
@@ -379,6 +379,11 @@
       "Time": "2024-04-10T06:05:05.4942837+00:00",
       "NumProgressed": 120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-17T16:14:42.3376986+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 54,
@@ -390,7 +395,7 @@
       "Name": "Voodoo Child",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "L0_FINISH",
@@ -398,15 +403,15 @@
       "Name": "ECG",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "L0_PERFECT",
       "SetID": "6finf64",
       "Name": "Time",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "L10_5_FINISH",
@@ -414,7 +419,7 @@
       "Name": "Fuel",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "L10_5_PERFECT",
@@ -422,7 +427,7 @@
       "Name": "Gasoline",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "L10_FINISH",
@@ -430,7 +435,7 @@
       "Name": "A Bigger Band",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "L10_PERFECT",
@@ -438,7 +443,7 @@
       "Name": "On the Road Again",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "L11_FINISH",
@@ -446,7 +451,7 @@
       "Name": "Alone Together",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "L11_PERFECT",
@@ -454,7 +459,7 @@
       "Name": "Under the Bridge",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "L12_FINISH",
@@ -462,7 +467,7 @@
       "Name": "Threatening Nature",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "L12_PERFECT",
@@ -478,7 +483,7 @@
       "Name": "Flat Tire",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "L13_PERFECT",
@@ -494,7 +499,7 @@
       "Name": "The Clash",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "L14_PERFECT",
@@ -510,7 +515,7 @@
       "Name": "Bad Trip",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "L15_PERFECT",
@@ -518,7 +523,7 @@
       "Name": "Purple Haze",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "L16_5_FINISH",
@@ -526,15 +531,15 @@
       "Name": "Regrets",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "L16_5_PERFECT",
       "SetID": "6finf64",
       "Name": "All Apologies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "L16_FINISH",
@@ -550,7 +555,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "L17_FINISH",
@@ -558,7 +563,7 @@
       "Name": "Love",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "L17_PERFECT",
@@ -574,7 +579,7 @@
       "Name": "Here we go again!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "L18_PERFECT",
@@ -582,7 +587,7 @@
       "Name": "Carry On",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "L19_FINISH",
@@ -598,7 +603,7 @@
       "Name": "Killer Cars",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "L1_5_FINISH",
@@ -606,31 +611,31 @@
       "Name": "Daily Life",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 118
     },
     {
       "ID": "L1_5_PERFECT",
       "SetID": "6finf64",
       "Name": "Big City Music",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "L1_FINISH",
       "SetID": "6finf64",
       "Name": "Rehearsal",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "L1_PERFECT",
       "SetID": "6finf64",
       "Name": "Symbiosis",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "L20_FINISH",
@@ -646,7 +651,7 @@
       "Name": "Hospital Flowers",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "L21_FINISH",
@@ -668,9 +673,9 @@
       "ID": "L2_FINISH",
       "SetID": "6finf64",
       "Name": "Assembly Line Work",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 115
     },
     {
       "ID": "L2_PERFECT",
@@ -678,23 +683,23 @@
       "Name": "Sound of Noise",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "L3_FINISH",
       "SetID": "6finf64",
       "Name": "Solitude",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 110
     },
     {
       "ID": "L3_PERFECT",
       "SetID": "6finf64",
       "Name": "TV Dreams",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "L4_FINISH",
@@ -702,7 +707,7 @@
       "Name": "Pinewood, Here we come!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 100
     },
     {
       "ID": "L4_PERFECT",
@@ -710,15 +715,15 @@
       "Name": "Dreamers",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "L5_FINISH",
       "SetID": "6finf64",
       "Name": "The Van",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "L5_PERFECT",
@@ -726,7 +731,7 @@
       "Name": "The Fix",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "L6_FINISH",
@@ -734,23 +739,23 @@
       "Name": "Road-Trip",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "L6_PERFECT",
       "SetID": "6finf64",
       "Name": "The Mountains, The Valleys",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "L7_5_FINISH",
       "SetID": "6finf64",
       "Name": "Briget\u0027s",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 71
     },
     {
       "ID": "L7_5_PERFECT",
@@ -758,21 +763,21 @@
       "Name": "As the Crow Flies",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "L7_FINISH",
       "SetID": "6finf64",
       "Name": "A Musical Pause",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "L7_PERFECT",
       "SetID": "6finf64",
       "Name": "Flight of the Bumblebee",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 14
     },
@@ -780,9 +785,9 @@
       "ID": "L8_FINISH",
       "SetID": "6finf64",
       "Name": "Love at First Sight",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "L8_PERFECT",
@@ -796,9 +801,9 @@
       "ID": "L9_FINISH",
       "SetID": "6finf64",
       "Name": "First Kiss",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "L9_PERFECT",
@@ -806,7 +811,7 @@
       "Name": "Unintended",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "UNLOCK_L21",
@@ -814,14 +819,14 @@
       "Name": "Stairway to Heaven",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "6finf64",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 126,
       "Completed": 1
     }
   ],
@@ -829,8 +834,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:05.4942832+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:14:42.3376983+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:33.3324267+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:33.7015305+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:05.4943176+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:57:48.8890367+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:42.337731+00:00"
 }

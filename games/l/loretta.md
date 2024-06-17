@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The only good Rat is a dead Rat | 86.00% | ~12 |
-| Act of Violence | 79.00% | ~11 |
-| Ace in the Hole | 50.00% | ~7 |
-| A Cure for Wellness | 50.00% | ~7 |
-| Dead End | 43.00% | ~6 |
-| The New Beginning | 36.00% | ~5 |
-| Red is Dead | 29.00% | ~4 |
-| Out of the Past | 14.00% | ~2 |
+| The only good Rat is a dead Rat | 87.00% | ~13 |
+| Act of Violence | 73.00% | ~11 |
+| Ace in the Hole | 53.00% | ~8 |
+| A Cure for Wellness | 47.00% | ~7 |
+| Dead End | 40.00% | ~6 |
+| The New Beginning | 33.00% | ~5 |
+| Red is Dead | 27.00% | ~4 |
+| Out of the Past | 13.00% | ~2 |
 | Woman on the Run | 7.00% | ~1 |
 | Lightning Strikes Twice | 7.00% | ~1 |
 | I've Got a Feeling I'm Falling | 7.00% | ~1 |
@@ -27,8 +27,8 @@
 | Murmuration | 7.00% | ~1 |
 | Spiders In My Head | 7.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 763)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 15 (Ranked 833)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -41,6 +41,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2023-12-27 | 11 | 0 |
 | 2023-12-30 | 12 | 0 |
 | 2024-04-10 | 14 | 0 |
+| 2024-06-17 | 15 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

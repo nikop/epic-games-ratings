@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 80.00% | ~145 |
-| You Have Been Deaded | 75.00% | ~136 |
-| Rookie | 66.00% | ~119 |
-| Apprentice Destructor | 30.00% | ~54 |
-| I Prefer Jazz Fusion | 12.00% | ~22 |
-| Master Destructor | 12.00% | ~22 |
-| Avaricerite | 9.00% | ~16 |
-| Ball Galore | 9.00% | ~16 |
-| Easy Victory | 8.00% | ~14 |
-| Back From The Dead | 7.00% | ~13 |
-| You Are Actually Supposed To Use Those | 6.00% | ~11 |
-| Ball Collector | 5.00% | ~9 |
-| Legendary Destructor | 5.00% | ~9 |
-| Ball Protector | 4.00% | ~7 |
-| Nomad | 4.00% | ~7 |
-| Ticking Clock | 4.00% | ~7 |
-| Collector | 3.00% | ~5 |
-| Detoxed | 3.00% | ~5 |
-| Medium Rare | 3.00% | ~5 |
-| Scrap Collector | 3.00% | ~5 |
+| Graduation | 79.00% | ~150 |
+| You Have Been Deaded | 74.00% | ~141 |
+| Rookie | 65.00% | ~124 |
+| Apprentice Destructor | 29.00% | ~55 |
+| I Prefer Jazz Fusion | 11.00% | ~21 |
+| Master Destructor | 11.00% | ~21 |
+| Avaricerite | 9.00% | ~17 |
+| Ball Galore | 8.00% | ~15 |
+| Easy Victory | 7.00% | ~13 |
+| You Are Actually Supposed To Use Those | 7.00% | ~13 |
+| Back From The Dead | 6.00% | ~11 |
+| Ball Collector | 5.00% | ~10 |
+| Legendary Destructor | 5.00% | ~10 |
+| Ball Protector | 4.00% | ~8 |
+| Nomad | 4.00% | ~8 |
+| Ticking Clock | 4.00% | ~8 |
+| Collector | 3.00% | ~6 |
+| Detoxed | 3.00% | ~6 |
+| Medium Rare | 3.00% | ~6 |
+| Scrap Collector | 3.00% | ~6 |
 | Bullet Hell | 2.00% | ~4 |
 | Ice Breaker | 2.00% | ~4 |
 | Monster of Fashion | 2.00% | ~4 |
@@ -36,8 +36,8 @@
 | Victory That Is Even More True | 1.00% | ~2 |
 | What Even Are You? | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 507)  
-Completed: 2 (1.10%) (Ranked 202)  
+Progressed: 190 (Ranked 555)  
+Completed: 2 (1.05%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,6 +114,7 @@ Completed: 2 (1.10%) (Ranked 202)
 | 2024-01-02 | 178 | 2 |
 | 2024-02-22 | 180 | 2 |
 | 2024-04-10 | 181 | 2 |
+| 2024-06-17 | 190 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

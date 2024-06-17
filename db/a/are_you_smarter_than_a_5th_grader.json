@@ -2,10 +2,10 @@
   "ID": "1293d5a9bfc84e7e8574d02b6ee5a3af",
   "Name": "Are You Smarter Than A 5th Grader",
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
-  "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 427,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -605,6 +605,11 @@
       "Time": "2024-04-10T06:03:36.0559805+00:00",
       "NumProgressed": 408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:11:55.0757904+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -622,9 +627,9 @@
       "ID": "AStudent",
       "SetID": "6l18k14",
       "Name": "\u0022A\u0022 Student",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Byoing",
@@ -632,7 +637,7 @@
       "Name": "Byoing",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ExamPractice",
@@ -640,7 +645,7 @@
       "Name": "Exam Practice",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "ExamTime",
@@ -648,7 +653,7 @@
       "Name": "Exam Time",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 347
+      "UsersEstimate": 363
     },
     {
       "ID": "FifthGrade",
@@ -662,15 +667,15 @@
       "ID": "FirstGrade",
       "SetID": "6l18k14",
       "Name": "1st Grade",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 184
     },
     {
       "ID": "FourthGrade",
       "SetID": "6l18k14",
       "Name": "4th Grade",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -678,7 +683,7 @@
       "ID": "FullHouse",
       "SetID": "6l18k14",
       "Name": "Full House",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -694,9 +699,9 @@
       "ID": "InTheHonorRoll",
       "SetID": "6l18k14",
       "Name": "In The Honor Roll",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 75,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "Librarian",
@@ -718,9 +723,9 @@
       "ID": "SecondGrade",
       "SetID": "6l18k14",
       "Name": "2nd Grade",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "SelfSufficient",
@@ -728,15 +733,15 @@
       "Name": "Self-Sufficient",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SmarterThanA5thGrader",
       "SetID": "6l18k14",
       "Name": "Smarter than a 5th Grader",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 167
     },
     {
       "ID": "StudySession",
@@ -744,7 +749,7 @@
       "Name": "Study Session",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "ThirdGrade",
@@ -758,16 +763,16 @@
       "ID": "Unlucky",
       "SetID": "6l18k14",
       "Name": "Unlucky",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 94
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 427,
       "Completed": 0
     }
   ],
@@ -775,8 +780,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:36.05598+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:11:55.0757901+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:56.9286465+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:27.1407898+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:36.0559941+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:06:01.9734396+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:55.0758076+00:00"
 }

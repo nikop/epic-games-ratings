@@ -2,10 +2,10 @@
   "ID": "6515ed58d6ef4981b0055e04e9abd204",
   "Name": "NHRA Championship Drag Racing - Speed For All",
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
-  "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 954,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -946,6 +946,11 @@
       "Time": "2024-04-10T06:04:31.5576418+00:00",
       "NumProgressed": 865,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:13:37.6555298+00:00",
+      "NumProgressed": 954,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -955,9 +960,9 @@
       "ID": "1",
       "SetID": "4n5bj21",
       "Name": "Graduated",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 944
     },
     {
       "ID": "11",
@@ -965,23 +970,23 @@
       "Name": "In the bank",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "12",
       "SetID": "4n5bj21",
       "Name": "Well oiled Veteran",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "13",
       "SetID": "4n5bj21",
       "Name": "Don\u0027t get ahead on yourself",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 363
     },
     {
       "ID": "14",
@@ -989,7 +994,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 649
     },
     {
       "ID": "15",
@@ -997,7 +1002,7 @@
       "Name": "Whole again",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 114
     },
     {
       "ID": "16",
@@ -1005,7 +1010,7 @@
       "Name": "American Legend",
       "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "17",
@@ -1029,7 +1034,7 @@
       "Name": "Risky business",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "2",
@@ -1037,7 +1042,7 @@
       "Name": "First one tastes better",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "20",
@@ -1053,15 +1058,15 @@
       "Name": "Participation trophy",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 219
     },
     {
       "ID": "22",
       "SetID": "4n5bj21",
       "Name": "Getting the job done",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 76
     },
     {
       "ID": "23",
@@ -1085,7 +1090,7 @@
       "Name": "Better than the pros",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "26",
@@ -1093,13 +1098,13 @@
       "Name": "Fan Boy",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "27",
       "SetID": "4n5bj21",
       "Name": "Dedicated tourist",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -1109,7 +1114,7 @@
       "Name": "Better late then never",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "29",
@@ -1133,7 +1138,7 @@
       "Name": "Ready to Mingle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "31",
@@ -1179,17 +1184,17 @@
       "ID": "5",
       "SetID": "4n5bj21",
       "Name": "Secure the bag",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "6",
       "SetID": "4n5bj21",
       "Name": "For Science!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "7",
@@ -1197,7 +1202,7 @@
       "Name": "Cash Rules Everything Around Me",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 76
     },
     {
       "ID": "8",
@@ -1205,22 +1210,22 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 286
     },
     {
       "ID": "9",
       "SetID": "4n5bj21",
       "Name": "Oops, My bad",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 630
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 954,
       "Completed": 0
     }
   ],
@@ -1228,8 +1233,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:31.557641+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:13:37.6555292+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:40.4621768+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:13.0710332+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:31.5576658+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:56.8704019+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:13:37.6555564+00:00"
 }

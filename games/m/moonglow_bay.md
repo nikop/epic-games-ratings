@@ -17,12 +17,14 @@
 | The Heart of Moonglow | 0.70% | ~3 |
 | Aquatic Expansion | 0.70% | ~3 |
 | Four-Legged Friends | 0.70% | ~3 |
+| Then Peel Me A Grape | 0.70% | ~3 |
 | Worth Your While | 0.70% | ~3 |
 | From Beyond | 0.50% | ~2 |
 | Crimebusters of the Sea | 0.50% | ~2 |
-| Then Peel Me A Grape | 0.50% | ~2 |
+| Ode to a Blacksmith | 0.50% | ~2 |
 | Restored to Prosperity | 0.20% | ~1 |
-| Ode to a Blacksmith | 0.20% | ~1 |
+| The Burden | 0.20% | ~1 |
+| Collection of Confection | 0.20% | ~1 |
 | You Can Pet The Dog | 0.20% | ~1 |
 | The Whole Journey | 0.00% | ~0 |
 | Fishing Season | 0.00% | ~0 |
@@ -30,20 +32,18 @@
 | Versus the Sea | 0.00% | ~0 |
 | Expert Raconteur | 0.00% | ~0 |
 | Town Roustabout | 0.00% | ~0 |
-| The Burden | 0.00% | ~0 |
 | Culinary Arts | 0.00% | ~0 |
 | Like a Fairytale | 0.00% | ~0 |
 | From the Underworld | 0.00% | ~0 |
 | The Stuff of Legend | 0.00% | ~0 |
-| Collection of Confection | 0.00% | ~0 |
 | Expedition | 0.00% | ~0 |
 | Conservationist | 0.00% | ~0 |
 | Uh... Thanks. I Think. | 0.00% | ~0 |
 | Get-it-off-get-it-off! | 0.00% | ~0 |
 | A Tonne of Fun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402 (Ranked 430)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 411 (Ranked 470)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-20 | 398 | 0 |
 | 2024-02-22 | 399 | 0 |
 | 2024-03-21 | 402 | 0 |
+| 2024-06-17 | 411 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

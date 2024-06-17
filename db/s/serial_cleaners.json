@@ -2,10 +2,10 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 394,
+  "EOS_Progressed": 437,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.52,
+  "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -814,6 +814,11 @@
       "Time": "2024-04-10T06:02:52.4414717+00:00",
       "NumProgressed": 394,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-06-17T16:10:32.5261529+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -823,17 +828,17 @@
       "ID": "ALL_MAIN_MISSIONS",
       "SetID": "2lk004m",
       "Name": "All the Stories",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "ALL_MEMORIES",
       "SetID": "2lk004m",
       "Name": "Total Recall",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 26
     },
     {
       "ID": "BOB_SLIDE",
@@ -841,15 +846,15 @@
       "Name": "Blood Capade",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 67
+      "UsersEstimate": 79
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -857,55 +862,55 @@
       "Name": "Pride and Joy",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "CHAPTER3_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Eyes Yet To Open",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 75,
-      "UsersEstimate": 28
+      "UsersEstimate": 35
     },
     {
       "ID": "CHAPTER4_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Something Rotten",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "CHAPTER5_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Witness Protection",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
       "SetID": "2lk004m",
       "Name": "Small-time Finder",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 79
     },
     {
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 197
     },
     {
       "ID": "DISPOSE_15_BODIES",
       "SetID": "2lk004m",
       "Name": "Business as usual",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 66
     },
     {
       "ID": "DLC01_ACHIEVEMENT01",
@@ -913,13 +918,13 @@
       "Name": "Crazy SOB, You Did It",
       "Percentage": 0.5,
       "XP": 125,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DLC01_ACHIEVEMENT02",
       "SetID": "5jieak",
       "Name": "Do-you-think-he-saurus",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -927,7 +932,7 @@
       "ID": "DLC01_ACHIEVEMENT03",
       "SetID": "5jieak",
       "Name": "Cha Cha Real Smooth",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -935,7 +940,7 @@
       "ID": "DLC01_ACHIEVEMENT04",
       "SetID": "5jieak",
       "Name": "That\u2019s One Big Pile",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -951,25 +956,25 @@
       "ID": "DLC01_ACHIEVEMENT06",
       "SetID": "5jieak",
       "Name": "\u2026 Women Inherit The Earth",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "LATI_SPRAY",
       "SetID": "2lk004m",
       "Name": "Bee Squat",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 83
+      "UsersEstimate": 96
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -985,7 +990,7 @@
       "Name": "Mr. Hygeni",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "PSYCHO_DISMEMBER",
@@ -993,36 +998,36 @@
       "Name": "The Wing and the Thigh",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 189
+      "UsersEstimate": 218
     },
     {
       "ID": "VIPER_HACKING",
       "SetID": "2lk004m",
       "Name": "Hackathon",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 24
+      "UsersEstimate": 35
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 257,
+      "Progressed": 300,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 394,
+      "Progressed": 437,
       "Completed": 6
     }
   ],
@@ -1030,8 +1035,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:52.4414711+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:10:32.5261527+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:45.7620569+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:00.8983654+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:52.4414918+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:06.2884398+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:10:32.5261714+00:00"
 }

@@ -6,48 +6,48 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~574 |
-| Close call! | 69.00% | ~521 |
-| Builder | 51.00% | ~385 |
-| Living it large! | 45.00% | ~340 |
-| Collector | 44.00% | ~332 |
-| Pangs of conscience | 43.00% | ~325 |
-| Need to think | 42.00% | ~317 |
-| Completely nuts! | 40.00% | ~302 |
-| Europe | 34.00% | ~257 |
-| Just in time! | 33.00% | ~249 |
-| Madness! | 31.00% | ~234 |
-| Philatelist | 27.00% | ~204 |
-| It's no coincidence. | 27.00% | ~204 |
-| Let's roll! | 26.00% | ~196 |
-| Non Stop! | 25.00% | ~189 |
-| Ouroboros | 24.00% | ~181 |
-| Russia | 20.00% | ~151 |
-| Foreman | 20.00% | ~151 |
-| America | 19.00% | ~143 |
-| Missed it! | 17.00% | ~128 |
-| Sabotage | 15.00% | ~113 |
-| Japan | 12.00% | ~91 |
-| Achtung! | 12.00% | ~91 |
-| Tycoon | 10.00% | ~76 |
-| Woodcutter | 9.00% | ~68 |
-| Engineer | 9.00% | ~68 |
-| Germany | 7.00% | ~53 |
-| Сhancellor | 5.00% | ~38 |
-| Supercrash! | 5.00% | ~38 |
-| Chuck Norris | 5.00% | ~38 |
-| Peacemaker | 4.00% | ~30 |
-| Forgotten | 3.00% | ~23 |
-| Lucky vandal | 3.00% | ~23 |
-| Juggler | 0.90% | ~7 |
-| Salesman | 0.90% | ~7 |
-| Maniac vandal | 0.70% | ~5 |
-| BBQ | 0.50% | ~4 |
+| Getting started | 75.00% | ~618 |
+| Close call! | 68.00% | ~560 |
+| Builder | 50.00% | ~412 |
+| Living it large! | 44.00% | ~363 |
+| Collector | 43.00% | ~354 |
+| Pangs of conscience | 42.00% | ~346 |
+| Need to think | 41.00% | ~338 |
+| Completely nuts! | 39.00% | ~321 |
+| Europe | 34.00% | ~280 |
+| Just in time! | 33.00% | ~272 |
+| Madness! | 31.00% | ~255 |
+| Philatelist | 27.00% | ~222 |
+| It's no coincidence. | 27.00% | ~222 |
+| Let's roll! | 26.00% | ~214 |
+| Non Stop! | 25.00% | ~206 |
+| Ouroboros | 24.00% | ~198 |
+| America | 20.00% | ~165 |
+| Russia | 20.00% | ~165 |
+| Foreman | 19.00% | ~157 |
+| Missed it! | 17.00% | ~140 |
+| Sabotage | 15.00% | ~124 |
+| Japan | 12.00% | ~99 |
+| Achtung! | 12.00% | ~99 |
+| Tycoon | 10.00% | ~82 |
+| Woodcutter | 9.00% | ~74 |
+| Engineer | 9.00% | ~74 |
+| Germany | 7.00% | ~58 |
+| Chuck Norris | 6.00% | ~49 |
+| Сhancellor | 5.00% | ~41 |
+| Supercrash! | 5.00% | ~41 |
+| Peacemaker | 4.00% | ~33 |
+| Forgotten | 3.00% | ~25 |
+| Lucky vandal | 3.00% | ~25 |
+| Juggler | 1.00% | ~8 |
+| Salesman | 1.00% | ~8 |
+| Maniac vandal | 0.70% | ~6 |
+| BBQ | 0.60% | ~5 |
 | Mega-railroad | 0.50% | ~4 |
-| Vandal | 0.30% | ~2 |
+| Vandal | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755 (Ranked 367)  
-Completed: 2 (0.26%) (Ranked 308)  
+Progressed: 824 (Ranked 403)  
+Completed: 2 (0.24%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,6 +209,7 @@ Completed: 2 (0.26%) (Ranked 308)
 | 2024-04-05 | 740 | 2 |
 | 2024-04-10 | 742 | 2 |
 | 2024-05-13 | 755 | 2 |
+| 2024-06-17 | 824 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

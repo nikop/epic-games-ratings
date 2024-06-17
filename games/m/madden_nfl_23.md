@@ -5,30 +5,30 @@ Rating: 4.29 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 56.00% | ~2,796 |
-| Big Spender | 53.00% | ~2,646 |
-| MVP | 53.00% | ~2,646 |
-| Stud Finder | 40.00% | ~1,997 |
-| Dealmaker | 38.00% | ~1,897 |
-| ROTY | 32.00% | ~1,597 |
-| Roster Reshuffle | 31.00% | ~1,548 |
-| Future of the Franchise | 19.00% | ~948 |
-| Throwin’ Dots | 18.00% | ~899 |
-| Already in Progress | 17.00% | ~849 |
-| Change of Scenery | 16.00% | ~799 |
-| Pro Bowler | 16.00% | ~799 |
-| Primetime | 15.00% | ~749 |
-| Unblockable | 9.00% | ~449 |
-| Pocket Ace | 6.00% | ~300 |
-| Lockdown Corner | 5.00% | ~250 |
-| Head-to-Head | 5.00% | ~250 |
-| Gain Train | 1.00% | ~50 |
-| Ol' Reliable | 0.70% | ~35 |
-| Lockdown Leader | 0.50% | ~25 |
+| Bragging Rights | 55.00% | ~2,819 |
+| Big Spender | 53.00% | ~2,716 |
+| MVP | 53.00% | ~2,716 |
+| Stud Finder | 40.00% | ~2,050 |
+| Dealmaker | 38.00% | ~1,948 |
+| ROTY | 32.00% | ~1,640 |
+| Roster Reshuffle | 31.00% | ~1,589 |
+| Future of the Franchise | 19.00% | ~974 |
+| Throwin’ Dots | 18.00% | ~922 |
+| Already in Progress | 17.00% | ~871 |
+| Primetime | 16.00% | ~820 |
+| Change of Scenery | 16.00% | ~820 |
+| Pro Bowler | 16.00% | ~820 |
+| Unblockable | 9.00% | ~461 |
+| Pocket Ace | 6.00% | ~308 |
+| Lockdown Corner | 5.00% | ~256 |
+| Head-to-Head | 5.00% | ~256 |
+| Gain Train | 1.00% | ~51 |
+| Ol' Reliable | 0.80% | ~41 |
+| Lockdown Leader | 0.50% | ~26 |
 | The Fortress | 0.40% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,992 (Ranked 232)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 5,125 (Ranked 259)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,6 +165,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 4,804 | 0 |
 | 2024-03-21 | 4,932 | 0 |
 | 2024-04-10 | 4,992 | 0 |
+| 2024-06-17 | 5,125 | 0 |
 ## Awards
 Max (Diverse Characters): 61  (Ranked 493)  
 Sum: 278 (Ranked 451)  

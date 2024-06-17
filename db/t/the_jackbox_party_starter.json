@@ -2,10 +2,10 @@
   "ID": "ec47caf26e574aa882d96fc924afc291",
   "Name": "The Jackbox Party Starter",
   "ProductSlug": "jackbox-party-starter",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-06-30T05:00:00+00:00",
     "PcReleaseDate": "2022-06-30T05:00:00+00:00",
@@ -38,11 +38,20 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "4abedo6",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-07-22T20:27:13.3796122+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.5607145+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:14:54.5723618+00:00",
   "LastChanged": "2023-03-31T05:58:06.5607146+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:14:54.5723603+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:22.5566407+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:57.668893+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:12.5890824+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:40.4472971+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:54.5723637+00:00"
 }

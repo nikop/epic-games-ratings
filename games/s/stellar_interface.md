@@ -4,35 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 85.00% | ~69 |
-| Killing Spree | 67.00% | ~54 |
-| Merchant Prince I | 56.00% | ~45 |
-| 5Gb HDD | 51.00% | ~41 |
-| Fighting Fit I | 35.00% | ~28 |
-| Dominating | 33.00% | ~27 |
-| Rambo I | 30.00% | ~24 |
-| 10Gb HDD | 30.00% | ~24 |
-| The Vette | 26.00% | ~21 |
-| Mega Kill | 22.00% | ~18 |
-| Stoic | 19.00% | ~15 |
-| Almost There I | 19.00% | ~15 |
-| Omicron Alpha | 15.00% | ~12 |
-| Galactic Cadet | 15.00% | ~12 |
-| Bronze Prince of Ball-air | 11.00% | ~9 |
-| Pacifist | 11.00% | ~9 |
-| 25Gb HDD | 11.00% | ~9 |
-| Collateral Damage I | 11.00% | ~9 |
+| First Blood | 86.00% | ~72 |
+| Killing Spree | 68.00% | ~57 |
+| Merchant Prince I | 57.00% | ~48 |
+| 5Gb HDD | 52.00% | ~44 |
+| Fighting Fit I | 37.00% | ~31 |
+| Dominating | 35.00% | ~29 |
+| Rambo I | 32.00% | ~27 |
+| 10Gb HDD | 31.00% | ~26 |
+| The Vette | 27.00% | ~23 |
+| Mega Kill | 24.00% | ~20 |
+| Almost There I | 20.00% | ~17 |
+| Stoic | 18.00% | ~15 |
+| Omicron Alpha | 15.00% | ~13 |
+| Galactic Cadet | 15.00% | ~13 |
+| Bronze Prince of Ball-air | 12.00% | ~10 |
+| Pacifist | 12.00% | ~10 |
+| 25Gb HDD | 12.00% | ~10 |
+| Collateral Damage I | 12.00% | ~10 |
+| Rambo II | 11.00% | ~9 |
 | Sectoral Ensign | 10.00% | ~8 |
-| Rambo II | 10.00% | ~8 |
 | Defrosted | 10.00% | ~8 |
-| Unstoppable | 9.00% | ~7 |
-| Silver Prince of Ball-air | 9.00% | ~7 |
+| Unstoppable | 10.00% | ~8 |
+| Silver Prince of Ball-air | 10.00% | ~8 |
+| Golden Prince of Ball-air | 8.00% | ~7 |
+| Merchant Prince II | 8.00% | ~7 |
+| Hitchhiker | 7.00% | ~6 |
+| Diligent | 7.00% | ~6 |
 | Hoarder | 7.00% | ~6 |
-| Golden Prince of Ball-air | 7.00% | ~6 |
 | Space Surfer | 7.00% | ~6 |
-| Merchant Prince II | 7.00% | ~6 |
-| Hitchhiker | 6.00% | ~5 |
-| Diligent | 6.00% | ~5 |
+| Omicron Theta | 6.00% | ~5 |
+| Omicron Beta | 6.00% | ~5 |
 | Food Poisoning | 6.00% | ~5 |
 | Usurper I | 6.00% | ~5 |
 | Flower Power | 6.00% | ~5 |
@@ -46,8 +48,6 @@
 | Rambo III | 5.00% | ~4 |
 | Rambo IV | 5.00% | ~4 |
 | Curious | 5.00% | ~4 |
-| Omicron Theta | 5.00% | ~4 |
-| Omicron Beta | 5.00% | ~4 |
 | No Peace | 5.00% | ~4 |
 | Bird of Prey | 5.00% | ~4 |
 | Wicked Sick | 5.00% | ~4 |
@@ -55,6 +55,7 @@
 | 50Gb HDD | 5.00% | ~4 |
 | Silver Foundation | 5.00% | ~4 |
 | Silver Pest Control | 5.00% | ~4 |
+| Revenge | 4.00% | ~3 |
 | Bronze BBQ | 4.00% | ~3 |
 | Pilgrim | 4.00% | ~3 |
 | Golden Foundation | 4.00% | ~3 |
@@ -66,7 +67,6 @@
 | Beetle | 4.00% | ~3 |
 | Anger Management | 4.00% | ~3 |
 | Almost There II | 4.00% | ~3 |
-| Revenge | 2.00% | ~2 |
 | Bronze Tovarish | 2.00% | ~2 |
 | Archer's Bronze Fate | 2.00% | ~2 |
 | Bronze Alchemist | 2.00% | ~2 |
@@ -86,6 +86,7 @@
 | Archer's Silver Fate | 2.00% | ~2 |
 | Silver Alchemist | 2.00% | ~2 |
 | Silver BBQ | 2.00% | ~2 |
+| Consumist | 2.00% | ~2 |
 | Collateral Damage III | 2.00% | ~2 |
 | Merchant Prince III | 2.00% | ~2 |
 | Magic Bronze mirror; on the wall | 1.00% | ~1 |
@@ -109,7 +110,6 @@
 | Galactic Major | 1.00% | ~1 |
 | Magic Silver mirror; on the wall | 1.00% | ~1 |
 | Galactic Captain | 1.00% | ~1 |
-| Consumist | 1.00% | ~1 |
 | Collateral Damage IV | 1.00% | ~1 |
 | Fighting Fit IV | 1.00% | ~1 |
 | Providence | 0.00% | ~0 |
@@ -137,8 +137,8 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81 (Ranked 597)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 84 (Ranked 658)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,3 +196,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-07 | 78 | 0 |
 | 2024-01-12 | 79 | 0 |
 | 2024-04-10 | 81 | 0 |
+| 2024-06-17 | 84 | 0 |

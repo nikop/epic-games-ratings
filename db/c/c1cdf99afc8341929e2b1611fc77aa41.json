@@ -2,10 +2,10 @@
   "ID": "c1cdf99afc8341929e2b1611fc77aa41",
   "Name": "Mass Effect\u2122 2 (2010 Edition)",
   "ProductSlug": "mass-effect-2-digital-deluxe-edition-1427fe",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-06T20:00:00+00:00",
     "PcReleaseDate": "2010-01-26T09:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-13T20:57:18.5864394+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:59.7001088+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:14.3046379+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:06.3696481+00:00"
 }

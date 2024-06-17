@@ -5,10 +5,10 @@
   "Ranking_Rating": 1135,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-13T18:00:00+00:00",
     "PcReleaseDate": "2024-05-13T18:00:00+00:00",
@@ -111,20 +111,308 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1910,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:17:05.8792392+00:00",
+      "NumProgressed": 1910,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:17:05.8792417+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "HW3_01_WE_ARE_AWAY",
+      "SetID": "8c74307",
+      "Name": "We Are Away",
+      "Percentage": 67,
+      "XP": 15,
+      "UsersEstimate": 1280
+    },
+    {
+      "ID": "HW3_02_HELLUVA_SHIP",
+      "SetID": "8c74307",
+      "Name": "A Helluva Ship",
+      "Percentage": 65,
+      "XP": 15,
+      "UsersEstimate": 1242
+    },
+    {
+      "ID": "HW3_03_WARRIORS_FRINGE",
+      "SetID": "8c74307",
+      "Name": "Warriors Of The Fringe",
+      "Percentage": 61,
+      "XP": 15,
+      "UsersEstimate": 1165
+    },
+    {
+      "ID": "HW3_04_STEP_TOO_CLOSE",
+      "SetID": "8c74307",
+      "Name": "One Step Too Close",
+      "Percentage": 60,
+      "XP": 15,
+      "UsersEstimate": 1146
+    },
+    {
+      "ID": "HW3_05_DARK_CLOUD_GATHERS",
+      "SetID": "8c74307",
+      "Name": "A Dark Cloud Gathers",
+      "Percentage": 54,
+      "XP": 15,
+      "UsersEstimate": 1031
+    },
+    {
+      "ID": "HW3_06_CHAPEL_PERILOUS",
+      "SetID": "8c74307",
+      "Name": "Chapel Perilous",
+      "Percentage": 51,
+      "XP": 15,
+      "UsersEstimate": 974
+    },
+    {
+      "ID": "HW3_07_PREPARE_SHIPBREAK",
+      "SetID": "8c74307",
+      "Name": "Prepare To Shipbreak",
+      "Percentage": 46,
+      "XP": 15,
+      "UsersEstimate": 879
+    },
+    {
+      "ID": "HW3_08_OPEN_THE_WAY",
+      "SetID": "8c74307",
+      "Name": "Open The Way",
+      "Percentage": 43,
+      "XP": 30,
+      "UsersEstimate": 821
+    },
+    {
+      "ID": "HW3_09_HUNTED_US",
+      "SetID": "8c74307",
+      "Name": "As They Have Hunted Us",
+      "Percentage": 36,
+      "XP": 30,
+      "UsersEstimate": 688
+    },
+    {
+      "ID": "HW3_10_GHOSTS_OF_DESERT",
+      "SetID": "8c74307",
+      "Name": "Ghosts Of The Desert",
+      "Percentage": 30,
+      "XP": 30,
+      "UsersEstimate": 573
+    },
+    {
+      "ID": "HW3_10_INTO_THE_GLACIER",
+      "SetID": "8c74307",
+      "Name": "Into the Glacier",
+      "Percentage": 34,
+      "XP": 30,
+      "UsersEstimate": 649
+    },
+    {
+      "ID": "HW3_10_NOTHING_SHORT",
+      "SetID": "8c74307",
+      "Name": "Nothing Short Of Miraculous",
+      "Percentage": 4,
+      "XP": 80,
+      "UsersEstimate": 76
+    },
+    {
+      "ID": "HW3_11_LOST_AND_FOUND",
+      "SetID": "8c74307",
+      "Name": "The Sajuuk-Khar",
+      "Percentage": 33,
+      "XP": 30,
+      "UsersEstimate": 630
+    },
+    {
+      "ID": "HW3_12_TIME_OF_PROPHECY",
+      "SetID": "8c74307",
+      "Name": "The Time Of Prophecy",
+      "Percentage": 29,
+      "XP": 30,
+      "UsersEstimate": 554
+    },
+    {
+      "ID": "HW3_13_WAR_IS_OVER",
+      "SetID": "8c74307",
+      "Name": "This War Is Over",
+      "Percentage": 25,
+      "XP": 80,
+      "UsersEstimate": 478
+    },
+    {
+      "ID": "HW3_BUILD_500",
+      "SetID": "8c74307",
+      "Name": "Grand Armada",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HW3_CAPITAL_BOMBER_KILL",
+      "SetID": "8c74307",
+      "Name": "That Was One in a Million!",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 955
+    },
+    {
+      "ID": "HW3_CAPTURE_SHIP",
+      "SetID": "8c74307",
+      "Name": "Hostile Takeover",
+      "Percentage": 62,
+      "XP": 15,
+      "UsersEstimate": 1184
+    },
+    {
+      "ID": "HW3_COLLECT_ARTIFACT",
+      "SetID": "8c74307",
+      "Name": "That Belongs in a Museum!",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 382
+    },
+    {
+      "ID": "HW3_COMPLETE_01_EASY",
+      "SetID": "8c74307",
+      "Name": "Captain",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 420
+    },
+    {
+      "ID": "HW3_COMPLETE_02_MEDIUM",
+      "SetID": "8c74307",
+      "Name": "Admiral",
+      "Percentage": 18,
+      "XP": 45,
+      "UsersEstimate": 344
+    },
+    {
+      "ID": "HW3_COMPLETE_03_HARD",
+      "SetID": "8c74307",
+      "Name": "Navigator",
+      "Percentage": 2,
+      "XP": 80,
+      "UsersEstimate": 38
+    },
+    {
+      "ID": "HW3_COMPLETE_WARGAMES",
+      "SetID": "8c74307",
+      "Name": "Shall We Play a Game?",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 172
+    },
+    {
+      "ID": "HW3_FORMATION",
+      "SetID": "8c74307",
+      "Name": "Stay in formation!",
+      "Percentage": 83,
+      "XP": 15,
+      "UsersEstimate": 1585
+    },
+    {
+      "ID": "HW3_GUARD",
+      "SetID": "8c74307",
+      "Name": "If You\u2019ll Be My Bodyguard",
+      "Percentage": 85,
+      "XP": 15,
+      "UsersEstimate": 1624
+    },
+    {
+      "ID": "HW3_KILL_200_STRIKECRAFT",
+      "SetID": "8c74307",
+      "Name": "Bug Swatter",
+      "Percentage": 67,
+      "XP": 15,
+      "UsersEstimate": 1280
+    },
+    {
+      "ID": "HW3_KILL_50_CAPITAL",
+      "SetID": "8c74307",
+      "Name": "Big Game Hunter",
+      "Percentage": 46,
+      "XP": 15,
+      "UsersEstimate": 879
+    },
+    {
+      "ID": "HW3_MOTHERSHIP_NO_DAMAGE",
+      "SetID": "8c74307",
+      "Name": "Untouchable",
+      "Percentage": 61,
+      "XP": 80,
+      "UsersEstimate": 1165
+    },
+    {
+      "ID": "HW3_PERSISTENT_SHIP",
+      "SetID": "8c74307",
+      "Name": "A Path Across the Galaxy",
+      "Percentage": 25,
+      "XP": 80,
+      "UsersEstimate": 478
+    },
+    {
+      "ID": "HW3_REPAIR_50",
+      "SetID": "8c74307",
+      "Name": "Fix-it Frigate",
+      "Percentage": 65,
+      "XP": 30,
+      "UsersEstimate": 1242
+    },
+    {
+      "ID": "HW3_RESEARCH_FIRST",
+      "SetID": "8c74307",
+      "Name": "The Unbound",
+      "Percentage": 85,
+      "XP": 15,
+      "UsersEstimate": 1624
+    },
+    {
+      "ID": "HW3_RESEARCH_MISSILE",
+      "SetID": "8c74307",
+      "Name": "The Great Cannon",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 630
+    },
+    {
+      "ID": "HW3_SCUTTLE",
+      "SetID": "8c74307",
+      "Name": "Destruct Sequence Alpha-One",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "HW3_SKIRMISH_3",
+      "SetID": "8c74307",
+      "Name": "Not Today, Singularity!",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 96
+    },
+    {
+      "ID": "HW3_SPLASH_DAMAGE",
+      "SetID": "8c74307",
+      "Name": "Kablammo",
+      "Percentage": 45,
+      "XP": 15,
+      "UsersEstimate": 860
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8c74307",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1910,
       "Completed": 0
     }
   ],
@@ -132,8 +420,8 @@
   "FirstSeenRating": "2024-05-20T08:58:02.6468807+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:24.1566752+00:00",
   "LastChanged": "2024-06-14T23:58:30.8271555+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:27.8232702+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:05.8792388+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:52.3188616+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:33.8173293+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:27.8232735+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:10.4980929+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:05.8800389+00:00"
 }

@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Notes | 11.00% | ~25 |
-| Time for Renovations | 11.00% | ~25 |
-| Dry No More | 10.00% | ~22 |
-| The Mendel Experiment | 10.00% | ~22 |
-| Who's a Good Plant? | 10.00% | ~22 |
-| A Greener Day | 9.00% | ~20 |
-| A Sad Moment | 9.00% | ~20 |
-| Leave My Baby Alone! | 9.00% | ~20 |
-| Research Complete | 9.00% | ~20 |
-| Room Revealer | 8.00% | ~18 |
-| Seed of Love | 8.00% | ~18 |
-| Budding Scientist | 4.00% | ~9 |
-| Landlord | 4.00% | ~9 |
-| #NewFilter | 4.00% | ~9 |
-| Say Cheese! | 4.00% | ~9 |
+| Taking Notes | 17.00% | ~41 |
+| Time for Renovations | 16.00% | ~38 |
+| Dry No More | 15.00% | ~36 |
+| The Mendel Experiment | 15.00% | ~36 |
+| Who's a Good Plant? | 15.00% | ~36 |
+| Leave My Baby Alone! | 14.00% | ~34 |
+| A Greener Day | 13.00% | ~31 |
+| A Sad Moment | 12.00% | ~29 |
+| Research Complete | 12.00% | ~29 |
+| Room Revealer | 11.00% | ~26 |
+| Seed of Love | 11.00% | ~26 |
+| #NewFilter | 7.00% | ~17 |
+| Say Cheese! | 7.00% | ~17 |
+| Budding Scientist | 6.00% | ~14 |
+| Lab-Room | 6.00% | ~14 |
+| Landlord | 6.00% | ~14 |
+| Let's Go for a Walk | 6.00% | ~14 |
+| Water Water Water | 5.00% | ~12 |
 | Feet in the Water | 3.00% | ~7 |
 | Food for Insects | 3.00% | ~7 |
 | Hands in the Dirt | 3.00% | ~7 |
-| Lab-Room | 3.00% | ~7 |
-| Let's Go for a Walk | 3.00% | ~7 |
+| Head in the Clouds | 3.00% | ~7 |
 | Master Gardener | 3.00% | ~7 |
+| Pottery Connoisseur | 3.00% | ~7 |
 | Spray Spray Spray | 3.00% | ~7 |
-| Water Water Water | 3.00% | ~7 |
 | Weeds Have Feelings Too | 3.00% | ~7 |
-| Balcony Optimizer | 2.00% | ~4 |
-| Head in the Clouds | 2.00% | ~4 |
-| Pet Pet Pet | 2.00% | ~4 |
-| Pottery Connoisseur | 2.00% | ~4 |
-| The Best One | 2.00% | ~4 |
-| Love and Science | 0.90% | ~2 |
-| Perfectionist | 0.90% | ~2 |
+| Balcony Optimizer | 2.00% | ~5 |
+| Love and Science | 2.00% | ~5 |
+| Pet Pet Pet | 2.00% | ~5 |
+| The Best One | 2.00% | ~5 |
+| Perfectionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 484)  
-Completed: 1 (0.45%) (Ranked 269)  
+Progressed: 240 (Ranked 529)  
+Completed: 2 (0.83%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,6 +108,7 @@ Completed: 1 (0.45%) (Ranked 269)
 | 2024-01-23 | 218 | 1 |
 | 2024-03-21 | 223 | 1 |
 | 2024-04-10 | 224 | 1 |
+| 2024-06-17 | 240 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

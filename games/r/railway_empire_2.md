@@ -5,70 +5,70 @@ Rating: 4.39 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| From X to Y | 4.00% | ~120 |
-| Departure | 4.00% | ~120 |
-| A new Journey | 4.00% | ~120 |
-| Country Bumpkin | 4.00% | ~120 |
-| Facility Manager | 3.00% | ~90 |
-| Brainstorm | 3.00% | ~90 |
-| We brake for nobody | 3.00% | ~90 |
-| Way of Iron | 3.00% | ~90 |
-| All around the World | 3.00% | ~90 |
-| Poor Devil | 3.00% | ~90 |
-| Mind the Gap | 3.00% | ~90 |
-| Right through the middle | 3.00% | ~90 |
-| Mystery Tour | 3.00% | ~90 |
-| Travel Company | 3.00% | ~90 |
-| Full Steam ahead | 2.00% | ~60 |
-| General Manager | 2.00% | ~60 |
-| Country Life | 2.00% | ~60 |
-| Access granted | 2.00% | ~60 |
-| Going once, going twice, sold | 2.00% | ~60 |
-| All mine | 2.00% | ~60 |
-| Producer | 2.00% | ~60 |
-| Bold and beautiful | 2.00% | ~60 |
-| Bridge Builder | 2.00% | ~60 |
-| Mole | 2.00% | ~60 |
-| Bull and bear | 2.00% | ~60 |
-| Financial Shark | 2.00% | ~60 |
-| Apprentice | 1.00% | ~30 |
-| Stoker | 1.00% | ~30 |
-| Trailblazer | 1.00% | ~30 |
-| Resistance is futile | 1.00% | ~30 |
-| Go West | 1.00% | ~30 |
-| Unstoppable | 1.00% | ~30 |
-| Track to the Future | 1.00% | ~30 |
-| Conductor | 1.00% | ~30 |
-| Seven at one stroke | 1.00% | ~30 |
-| Traffic Jam | 1.00% | ~30 |
-| Tycoon | 1.00% | ~30 |
-| Max Power | 1.00% | ~30 |
-| Hostile Takeover | 1.00% | ~30 |
-| Assimilated | 1.00% | ~30 |
-| Traffic Junction | 1.00% | ~30 |
-| Breaking Ground | 1.00% | ~30 |
-| Settler | 1.00% | ~30 |
-| Call of Duty | 1.00% | ~30 |
-| Socializer | 1.00% | ~30 |
-| Other countries, other candies | 1.00% | ~2 |
-| A new Hope | 0.90% | ~27 |
-| Locusts | 0.90% | ~27 |
-| Networker | 0.80% | ~24 |
-| Sissi would be proud | 0.80% | ~2 |
-| Nerves of steel | 0.80% | ~2 |
-| Engineer | 0.60% | ~18 |
-| Let off some steam | 0.60% | ~18 |
-| Accurate | 0.40% | ~12 |
-| Three Cheers for Progress | 0.30% | ~9 |
+| A new Journey | 7.00% | ~219 |
+| Country Bumpkin | 7.00% | ~219 |
+| From X to Y | 6.00% | ~188 |
+| Departure | 6.00% | ~188 |
+| Brainstorm | 6.00% | ~188 |
+| We brake for nobody | 6.00% | ~188 |
+| Way of Iron | 6.00% | ~188 |
+| All around the World | 6.00% | ~188 |
+| Mind the Gap | 6.00% | ~188 |
+| Mystery Tour | 6.00% | ~188 |
+| Travel Company | 6.00% | ~188 |
+| Facility Manager | 5.00% | ~156 |
+| Producer | 5.00% | ~156 |
+| Poor Devil | 5.00% | ~156 |
+| Right through the middle | 5.00% | ~156 |
+| Access granted | 4.00% | ~125 |
+| Going once, going twice, sold | 4.00% | ~125 |
+| All mine | 4.00% | ~125 |
+| Bridge Builder | 4.00% | ~125 |
+| Mole | 4.00% | ~125 |
+| Bull and bear | 4.00% | ~125 |
+| Financial Shark | 4.00% | ~125 |
+| Apprentice | 3.00% | ~94 |
+| Stoker | 3.00% | ~94 |
+| Full Steam ahead | 3.00% | ~94 |
+| General Manager | 3.00% | ~94 |
+| Country Life | 3.00% | ~94 |
+| Hostile Takeover | 3.00% | ~94 |
+| Traffic Junction | 3.00% | ~94 |
+| Bold and beautiful | 3.00% | ~94 |
+| Breaking Ground | 3.00% | ~94 |
+| Trailblazer | 2.00% | ~63 |
+| Resistance is futile | 2.00% | ~63 |
+| Go West | 2.00% | ~63 |
+| Unstoppable | 2.00% | ~63 |
+| Track to the Future | 2.00% | ~63 |
+| Conductor | 2.00% | ~63 |
+| Seven at one stroke | 2.00% | ~63 |
+| Traffic Jam | 2.00% | ~63 |
+| Tycoon | 2.00% | ~63 |
+| Max Power | 2.00% | ~63 |
+| Assimilated | 2.00% | ~63 |
+| Locusts | 2.00% | ~63 |
+| Settler | 2.00% | ~63 |
+| Call of Duty | 2.00% | ~63 |
+| Socializer | 2.00% | ~63 |
+| A new Hope | 1.00% | ~31 |
+| Engineer | 1.00% | ~31 |
+| Let off some steam | 1.00% | ~31 |
+| Networker | 1.00% | ~31 |
+| Sissi would be proud | 1.00% | ~3 |
+| Other countries, other candies | 1.00% | ~3 |
+| Nerves of steel | 1.00% | ~3 |
+| Accurate | 0.70% | ~22 |
+| Three Cheers for Progress | 0.40% | ~13 |
 | European Union | 0.10% | ~3 |
 | United States | 0.10% | ~3 |
+| Together we stand | 0.10% | ~3 |
 | Too clever for Poirot | 0.10% | ~0 |
 | Hotel Transylvania | 0.10% | ~0 |
 | Not a second class murder | 0.10% | ~0 |
-| Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,006 (Ranked 262)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 3,127 (Ranked 294)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,6 +324,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-27 | 2,776 | 0 |
 | 2024-03-21 | 2,975 | 0 |
 | 2024-04-10 | 3,006 | 0 |
+| 2024-06-17 | 3,127 | 0 |
 ## Awards
 Max (Great for Beginners): 24  (Ranked 625)  
 Sum: 24 (Ranked 635)  

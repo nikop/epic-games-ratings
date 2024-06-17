@@ -5,34 +5,35 @@ Rating: 4.44 (Ranked 757)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Takedowns I | 30.00% | ~8,859 |
-| Career Wins I | 26.00% | ~7,678 |
-| Squadron Member | 25.00% | ~7,383 |
-| Making Friends | 22.00% | ~6,497 |
-| Silver League | 8.00% | ~2,362 |
-| Takedowns II | 7.00% | ~2,067 |
-| Plane Trophies I | 7.00% | ~2,067 |
-| Career Wins II | 5.00% | ~1,477 |
-| Gold League | 4.00% | ~1,181 |
-| Platinum League | 2.00% | ~591 |
-| Diamond League | 0.80% | ~236 |
-| Takedowns III | 0.50% | ~148 |
-| Plane Trophies II | 0.40% | ~118 |
-| Career Wins III | 0.30% | ~89 |
-| Master League | 0.30% | ~89 |
-| Plane Trophies III | 0.10% | ~30 |
-| Plane Trophies IV | 0.10% | ~30 |
-| Grandmaster League | 0.10% | ~30 |
+| Takedowns I | 28.00% | ~16,130 |
+| Career Wins I | 24.00% | ~13,826 |
+| Squadron Member | 23.00% | ~13,250 |
+| Making Friends | 22.00% | ~12,674 |
+| Takedowns II | 7.00% | ~4,033 |
+| Silver League | 7.00% | ~4,033 |
+| Plane Trophies I | 6.00% | ~3,456 |
+| Career Wins II | 5.00% | ~2,880 |
+| Gold League | 4.00% | ~2,304 |
+| Platinum League | 2.00% | ~1,152 |
+| Diamond League | 0.80% | ~461 |
+| Takedowns III | 0.70% | ~403 |
+| Career Wins III | 0.40% | ~230 |
+| Plane Trophies II | 0.40% | ~230 |
+| Master League | 0.40% | ~230 |
+| Plane Trophies III | 0.10% | ~58 |
+| Plane Trophies IV | 0.10% | ~58 |
+| Grandmaster League | 0.10% | ~58 |
 | Takedowns IV | 0.00% | ~0 |
 | Career Wins IV | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,531 (Ranked 160)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 57,608 (Ranked 155)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 20,912 | 0 |
 | 2024-04-10 | 29,531 | 0 |
+| 2024-06-17 | 57,608 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 113  (Ranked 410)  
 Sum: 585 (Ranked 370)  

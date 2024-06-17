@@ -5,20 +5,20 @@ Rating: 4.33 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~9,099 |
+| Fire safety | 56.00% | ~9,100 |
 | First fall | 36.00% | ~5,850 |
-| Don't play with fire, kids | 27.00% | ~4,387 |
-| First steps | 27.00% | ~4,387 |
-| 1.000.000 Scovilles | 19.00% | ~3,087 |
+| Don't play with fire, kids | 27.00% | ~4,388 |
+| First steps | 27.00% | ~4,388 |
+| 1.000.000 Scovilles | 19.00% | ~3,088 |
 | An Old Timer | 18.00% | ~2,925 |
 | I'll give this one a 0 star rating | 18.00% | ~2,925 |
 | Hands up! | 16.00% | ~2,600 |
 | Feeling Better | 16.00% | ~2,600 |
-| Unfortunate Plumber | 15.00% | ~2,437 |
+| Unfortunate Plumber | 15.00% | ~2,438 |
 | Don't interrupt my research! | 14.00% | ~2,275 |
-| A Good Read | 11.00% | ~1,787 |
+| A Good Read | 11.00% | ~1,788 |
 | Boot for an eye | 10.00% | ~1,625 |
-| Pacifist Run | 7.00% | ~1,137 |
+| Pacifist Run | 7.00% | ~1,138 |
 | Uh, Which Key is the Right One? | 6.00% | ~975 |
 | Golden fingers | 5.00% | ~812 |
 | OMG I FOUND A BUG | 5.00% | ~812 |
@@ -26,11 +26,11 @@ Rating: 4.33 (Ranked 925)
 | I Think I'm Lost | 4.00% | ~650 |
 | Meat Machine | 4.00% | ~650 |
 | Untouchable | 4.00% | ~650 |
-| Merchant | 3.00% | ~487 |
-| Groovy! | 3.00% | ~487 |
-| Gentle hugs | 3.00% | ~487 |
-| Mmm, tasty | 3.00% | ~487 |
-| Good Murder | 3.00% | ~487 |
+| Merchant | 3.00% | ~488 |
+| Groovy! | 3.00% | ~488 |
+| Gentle hugs | 3.00% | ~488 |
+| Mmm, tasty | 3.00% | ~488 |
+| Good Murder | 3.00% | ~488 |
 | Infinite pleasure | 2.00% | ~325 |
 | Body Building | 2.00% | ~325 |
 | Stranger in the Elevator | 2.00% | ~325 |
@@ -42,7 +42,7 @@ Rating: 4.33 (Ranked 925)
 | Where are those diamonds? | 1.00% | ~162 |
 | Blue Valentine | 1.00% | ~162 |
 | Now you see | 0.80% | ~130 |
-| Don't Come Near Me | 0.60% | ~97 |
+| Don't Come Near Me | 0.60% | ~98 |
 | Athletic | 0.50% | ~81 |
 | A Heap of Raw Meat | 0.50% | ~81 |
 | Golden eyes | 0.40% | ~65 |
@@ -73,8 +73,8 @@ Rating: 4.33 (Ranked 925)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,249 (Ranked 188)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 16,250 (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-06 | 16,247 | 0 |
 | 2024-01-13 | 16,248 | 0 |
 | 2024-03-21 | 16,249 | 0 |
+| 2024-06-17 | 16,250 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

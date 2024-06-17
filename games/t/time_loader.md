@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 57.00% | ~91 |
-| Springs | 54.00% | ~86 |
-| Soap | 37.00% | ~59 |
-| Purr-fect | 32.00% | ~51 |
-| Act 1 | 31.00% | ~50 |
-| Capacitors | 30.00% | ~48 |
-| Wrench | 29.00% | ~46 |
-| Mug | 27.00% | ~43 |
-| Soldering iron | 26.00% | ~42 |
-| Act 2 | 22.00% | ~35 |
-| Robot Bros | 21.00% | ~34 |
-| Act 3 | 19.00% | ~30 |
-| Cassette | 18.00% | ~29 |
-| Harpoon | 18.00% | ~29 |
-| Here we go again | 16.00% | ~26 |
-| Flyer | 15.00% | ~24 |
-| It’s in the Vault | 14.00% | ~22 |
-| Dr. Antivirus | 14.00% | ~22 |
-| Ticket | 13.00% | ~21 |
-| Access protocol | 13.00% | ~21 |
-| Time Capsule | 11.00% | ~18 |
-| Photo | 11.00% | ~18 |
-| Contract | 9.00% | ~14 |
-| Baseball | 9.00% | ~14 |
-| New Dawn | 9.00% | ~14 |
-| VHS blogger | 8.00% | ~13 |
-| Out of the loop | 8.00% | ~13 |
-| Secret ending | 8.00% | ~13 |
+| Screwdriver | 57.00% | ~97 |
+| Springs | 53.00% | ~91 |
+| Soap | 37.00% | ~63 |
+| Purr-fect | 31.00% | ~53 |
+| Wrench | 29.00% | ~50 |
+| Capacitors | 29.00% | ~50 |
+| Act 1 | 29.00% | ~50 |
+| Mug | 26.00% | ~44 |
+| Soldering iron | 25.00% | ~43 |
+| Act 2 | 21.00% | ~36 |
+| Robot Bros | 20.00% | ~34 |
+| Harpoon | 18.00% | ~31 |
+| Act 3 | 18.00% | ~31 |
+| Cassette | 17.00% | ~29 |
+| Flyer | 15.00% | ~26 |
+| Here we go again | 15.00% | ~26 |
+| It’s in the Vault | 14.00% | ~24 |
+| Dr. Antivirus | 13.00% | ~22 |
+| Ticket | 12.00% | ~21 |
+| Access protocol | 12.00% | ~21 |
+| Photo | 11.00% | ~19 |
+| Time Capsule | 10.00% | ~17 |
+| Baseball | 9.00% | ~15 |
+| Contract | 8.00% | ~14 |
+| VHS blogger | 8.00% | ~14 |
+| New Dawn | 8.00% | ~14 |
+| Out of the loop | 7.00% | ~12 |
+| Secret ending | 7.00% | ~12 |
 | Leave me alone | 6.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 525)  
-Completed: 9 (5.62%) (Ranked 83)  
+Progressed: 171 (Ranked 570)  
+Completed: 9 (5.26%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 9 (5.62%) (Ranked 83)
 | 2024-01-27 | 148 | 9 |
 | 2024-03-21 | 157 | 9 |
 | 2024-04-10 | 160 | 9 |
+| 2024-06-17 | 171 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "cec0399345494e7cbd993bc660d95980",
   "Name": "Love n War: Hero by Chance II Ultimate Edition",
   "ProductSlug": "love-n-war-hero-by-chance-ii-e71083",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-29T00:00:00+00:00",
     "PcReleaseDate": "2023-08-03T04:00:00+00:00",
@@ -226,8 +226,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-06T04:03:56.3543807+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:15.0051413+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:16:42.2865745+00:00",
   "LastUpdate_AppInfo": "2024-06-15T17:57:00.2042591+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:06.3809775+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:15.0051556+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:17.373073+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:16:42.2865884+00:00"
 }

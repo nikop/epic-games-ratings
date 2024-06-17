@@ -2,10 +2,10 @@
   "ID": "3ed00dd26dce45c0912e528beb2877f8",
   "Name": "Formula Evolution 2024",
   "ProductSlug": "formula-evolution-2024-085f66",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-03T12:00:00+00:00",
     "PcReleaseDate": "2024-06-03T12:00:00+00:00",
@@ -24,12 +24,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 11199,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:11:13.5053045+00:00",
+      "NumProgressed": 11199,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-01-22T13:11:28.0449271+00:00",
   "TotalAchievements": 33,
   "TotalAchievementsXP": 1000,
@@ -62,49 +68,49 @@
       "ID": "FASTEST_LAP_1",
       "SetID": "a1h0eca",
       "Name": "Fastest lap",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 896
     },
     {
       "ID": "FASTEST_LAP_10",
       "SetID": "a1h0eca",
       "Name": "Master of one lap",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 90
     },
     {
       "ID": "FASTEST_LAP_3",
       "SetID": "a1h0eca",
       "Name": "Good pace",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 336
     },
     {
       "ID": "FINISHED_1",
       "SetID": "a1h0eca",
       "Name": "Greener",
-      "Percentage": 0,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4816
     },
     {
       "ID": "FINISHED_10",
       "SetID": "a1h0eca",
       "Name": "New star",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 896
     },
     {
       "ID": "FINISHED_100",
       "SetID": "a1h0eca",
       "Name": "Established",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 22
     },
     {
       "ID": "FINISHED_1000",
@@ -118,97 +124,97 @@
       "ID": "ONE_LAP",
       "SetID": "a1h0eca",
       "Name": "First lap",
-      "Percentage": 0,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 6943
     },
     {
       "ID": "PODIUM_1",
       "SetID": "a1h0eca",
       "Name": "Podium finisher",
-      "Percentage": 0,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1792
     },
     {
       "ID": "PODIUM_10",
       "SetID": "a1h0eca",
       "Name": "Upcoming force",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 224
     },
     {
       "ID": "PODIUM_3",
       "SetID": "a1h0eca",
       "Name": "Good driver",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 784
     },
     {
       "ID": "REGISTER",
       "SetID": "a1h0eca",
       "Name": "On the starting grid",
-      "Percentage": 0,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 9295
     },
     {
       "ID": "RESEARCHED_2",
       "SetID": "a1h0eca",
       "Name": "Generation 2",
-      "Percentage": 0,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2352
     },
     {
       "ID": "RESEARCHED_3",
       "SetID": "a1h0eca",
       "Name": "Generation 3",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1568
     },
     {
       "ID": "RESEARCHED_4",
       "SetID": "a1h0eca",
       "Name": "Generation 4",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 560
     },
     {
       "ID": "RESEARCHED_5",
       "SetID": "a1h0eca",
       "Name": "Generation 5",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "RESEARCHED_6",
       "SetID": "a1h0eca",
       "Name": "Generation 6",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 56
     },
     {
       "ID": "RESEARCHED_7",
       "SetID": "a1h0eca",
       "Name": "Generation 7",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 70,
-      "UsersEstimate": 0
+      "UsersEstimate": 45
     },
     {
       "ID": "RESEARCHED_8",
       "SetID": "a1h0eca",
       "Name": "Generation 8",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 22
     },
     {
       "ID": "SVARTA",
@@ -222,17 +228,17 @@
       "ID": "WIN_1",
       "SetID": "a1h0eca",
       "Name": "Race winner",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 896
     },
     {
       "ID": "WIN_10",
       "SetID": "a1h0eca",
       "Name": "Championship contender",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 78
     },
     {
       "ID": "WIN_100",
@@ -246,49 +252,49 @@
       "ID": "WIN_3",
       "SetID": "a1h0eca",
       "Name": "Multiple race winner",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 336
     },
     {
       "ID": "WIN_HORICE",
       "SetID": "a1h0eca",
       "Name": "Ho\u0159ice winner",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "XP_100",
       "SetID": "a1h0eca",
       "Name": "Newcomer",
-      "Percentage": 0,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 4816
     },
     {
       "ID": "XP_1000",
       "SetID": "a1h0eca",
       "Name": "Rookie",
-      "Percentage": 0,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1680
     },
     {
       "ID": "XP_10000",
       "SetID": "a1h0eca",
       "Name": "Learner",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 112
     },
     {
       "ID": "XP_100000",
       "SetID": "a1h0eca",
       "Name": "Advanced",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "XP_1000000",
@@ -303,14 +309,14 @@
     {
       "ID": "a1h0eca",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 11199,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-04T01:48:11.0671181+00:00",
   "FirstSeenAchievements": "2024-01-22T13:11:28.0449271+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:13.8453332+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:11:13.505304+00:00",
   "LastUpdate_AppInfo": "2024-06-10T23:57:05.1258556+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:22.3169437+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:13.8453503+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:03:37.8633688+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:11:13.5053219+00:00"
 }

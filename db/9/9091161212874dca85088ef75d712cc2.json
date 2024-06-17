@@ -2,10 +2,10 @@
   "ID": "9091161212874dca85088ef75d712cc2",
   "Name": "Jusant",
   "ProductSlug": "jusant",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 926,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-19T09:00:00+00:00",
     "PcReleaseDate": "2023-10-31T01:00:00+00:00",
@@ -26,27 +26,203 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:52.3603113+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:52.3603139+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_Altar_All",
+      "SetID": "721je03",
+      "Name": "Cycle celebration",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Altar_Any",
+      "SetID": "721je03",
+      "Name": "Back in motion",
+      "Percentage": 25,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Bianca_All",
+      "SetID": "721je03",
+      "Name": "Final ascent",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Cairn_All",
+      "SetID": "721je03",
+      "Name": "Common ground",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Cairn_Any",
+      "SetID": "721je03",
+      "Name": "First stone",
+      "Percentage": 50,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_ChocoAway_Multi",
+      "SetID": "721je03",
+      "Name": "Bogeychoco",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_ClimbJump_Multi",
+      "SetID": "721je03",
+      "Name": "Acrobat",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_EndGame",
+      "SetID": "721je03",
+      "Name": "Water piper",
+      "Percentage": 25,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Fresco_All",
+      "SetID": "721je03",
+      "Name": "Antique gallery manager",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Fresco_Any",
+      "SetID": "721je03",
+      "Name": "Echo from the past",
+      "Percentage": 50,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_FrozenBallast_One",
+      "SetID": "721je03",
+      "Name": "Awakened memory",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_HoldFRND_One",
+      "SetID": "721je03",
+      "Name": "A faint glimmer",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Letter_All",
+      "SetID": "721je03",
+      "Name": "Avid reader",
+      "Percentage": 25,
+      "XP": 90,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Letter_Any",
+      "SetID": "721je03",
+      "Name": "First contact",
+      "Percentage": 75,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_PebbleStop_Multi",
+      "SetID": "721je03",
+      "Name": "Collective climb",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_PetFRND_Multi",
+      "SetID": "721je03",
+      "Name": "Restored connection",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_PetFRND_One",
+      "SetID": "721je03",
+      "Name": "Adventure buddies",
+      "Percentage": 75,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_Shell_All",
+      "SetID": "721je03",
+      "Name": "Sound archeologist",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Shell_Any",
+      "SetID": "721je03",
+      "Name": "An ear to the past",
+      "Percentage": 50,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_StaminaRestore_Multi",
+      "SetID": "721je03",
+      "Name": "Fresh air",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_WallRideApex",
+      "SetID": "721je03",
+      "Name": "Angel\u0027s carabiner",
+      "Percentage": 25,
+      "XP": 30,
+      "UsersEstimate": 1
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "721je03",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-13T16:01:29.7206543+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.9276929+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:02:01.6400466+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:52.3603108+00:00",
   "LastUpdate_AppInfo": "2024-06-11T18:57:13.2725779+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:27.5508968+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:02:01.6400504+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:01.9009993+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:52.361075+00:00"
 }

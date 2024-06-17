@@ -2,10 +2,10 @@
   "ID": "4dbce3b6359541ae90e4fcb14c9d2164",
   "Name": "GRID Legends: Deluxe Edition",
   "ProductSlug": "grid-legends-deluxe-edition-d7b0b7",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-06T20:00:00+00:00",
     "PcReleaseDate": "2022-02-24T09:00:00+00:00",
@@ -32,7 +32,23 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "94lff8l",
+      "IsBase": false,
+      "Progressed": 0,
+      "Completed": 0
+    },
+    {
+      "ID": "8117k1o",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:07:44.7595921+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:07:44.7595861+00:00",
   "LastUpdate_AppInfo": "2024-06-13T20:57:18.5913397+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:59.320411+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:13.5404456+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:44.7597735+00:00"
 }

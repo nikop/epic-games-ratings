@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kidney Sold | 25.00% | ~1 |
-| Long-Term Consequences | 25.00% | ~1 |
-| Made It! | 25.00% | ~1 |
+| Long-Term Consequences | 17.00% | ~2 |
+| Kidney Sold | 8.00% | ~1 |
+| Made It! | 8.00% | ~1 |
 | Bookworm | 0.00% | ~0 |
 | Boondoggle | 0.00% | ~0 |
 | Cat Person | 0.00% | ~0 |
@@ -25,9 +25,10 @@
 | Supplement Junkie | 0.00% | ~0 |
 | Unbalanced Mechanic | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 843)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 12 (Ranked 856)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-10 | 4 | 0 |
+| 2024-06-17 | 12 | 0 |

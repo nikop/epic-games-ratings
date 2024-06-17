@@ -5,29 +5,29 @@ Rating: 4.30 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Missing data | 79.00% | ~111 |
-| Broken jar | 74.00% | ~104 |
-| The child of the night | 70.00% | ~98 |
-| It fits. IT FITS! | 69.00% | ~97 |
-| Uncle will be happy | 60.00% | ~84 |
-| I have an army! | 56.00% | ~78 |
-| Sticky fingers | 35.00% | ~49 |
-| A horrible thing will happen... | 29.00% | ~41 |
-| Vampires | 26.00% | ~36 |
-| Bloody stream | 24.00% | ~34 |
-| Fangs | 15.00% | ~21 |
-| Mirrors | 8.00% | ~11 |
-| At least there is something to read | 5.00% | ~7 |
-| Coat | 5.00% | ~7 |
-| Sarcophagus | 4.00% | ~6 |
-| Missing pages | 4.00% | ~6 |
-| I need a hero | 4.00% | ~6 |
-| Master of puppets | 4.00% | ~6 |
-| I love you all | 4.00% | ~6 |
-| Skills to pay the bills | 4.00% | ~6 |
+| Missing data | 79.00% | ~137 |
+| Broken jar | 75.00% | ~130 |
+| The child of the night | 72.00% | ~125 |
+| It fits. IT FITS! | 68.00% | ~118 |
+| Uncle will be happy | 58.00% | ~100 |
+| I have an army! | 54.00% | ~93 |
+| Sticky fingers | 33.00% | ~57 |
+| A horrible thing will happen... | 29.00% | ~50 |
+| Vampires | 27.00% | ~47 |
+| Bloody stream | 23.00% | ~40 |
+| Fangs | 14.00% | ~24 |
+| Mirrors | 8.00% | ~14 |
+| At least there is something to read | 6.00% | ~10 |
+| Coat | 5.00% | ~9 |
+| I need a hero | 5.00% | ~9 |
+| I love you all | 5.00% | ~9 |
+| Skills to pay the bills | 5.00% | ~9 |
+| Sarcophagus | 4.00% | ~7 |
+| Missing pages | 3.00% | ~5 |
+| Master of puppets | 3.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 536)  
-Completed: 5 (3.57%) (Ranked 115)  
+Progressed: 173 (Ranked 567)  
+Completed: 5 (2.89%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,6 +98,7 @@ Completed: 5 (3.57%) (Ranked 115)
 | 2023-12-30 | 113 | 5 |
 | 2024-03-21 | 131 | 5 |
 | 2024-04-10 | 140 | 5 |
+| 2024-06-17 | 173 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

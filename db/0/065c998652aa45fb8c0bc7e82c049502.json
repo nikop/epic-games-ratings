@@ -2,10 +2,10 @@
   "ID": "065c998652aa45fb8c0bc7e82c049502",
   "Name": "Stygian: Outer Gods",
   "ProductSlug": "stygian-outer-gods-e5f4c5",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-10T19:56:55.8860535+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:02.6505654+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:09.5197671+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:07.3500416+00:00"
 }

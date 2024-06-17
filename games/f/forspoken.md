@@ -5,62 +5,62 @@ Rating: 4.15 (Ranked 1,087)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 14.00% | ~7,004 |
-| Unlocked Potential | 12.00% | ~6,004 |
-| Tinkerer | 10.00% | ~5,003 |
-| Leapfrogger | 8.00% | ~4,003 |
-| Knock 'Em Dead | 8.00% | ~4,003 |
-| Pilgrimage: Initiate | 8.00% | ~4,003 |
-| Hell of a Run | 8.00% | ~4,003 |
-| Call of the Fount: Baptized | 8.00% | ~4,003 |
-| Stuck | 6.00% | ~3,002 |
-| No Mercy | 6.00% | ~3,002 |
-| Explorer: Seeker | 6.00% | ~3,002 |
-| Help Me Out Here | 6.00% | ~3,002 |
-| Through the Eyes of Another: Empath | 5.00% | ~2,502 |
-| The Interloper | 4.00% | ~2,001 |
-| Hop, Step, Jump | 4.00% | ~2,001 |
-| Outdoorsperson | 3.00% | ~1,501 |
-| What Must Be Done | 3.00% | ~1,501 |
-| Damned If You Do... | 3.00% | ~1,501 |
-| Endless Runner | 3.00% | ~1,501 |
-| Might and Main | 2.00% | ~1,001 |
-| The Hue of Blue | 2.00% | ~1,001 |
-| Breaking Point | 2.00% | ~1,001 |
-| None the Wiser | 2.00% | ~1,001 |
-| Explorer: Pathfinder | 2.00% | ~1,001 |
-| Shocker | 2.00% | ~1,001 |
-| From Every Angle | 2.00% | ~1,001 |
-| The Truth Will Out | 1.00% | ~500 |
-| Forspoken | 1.00% | ~500 |
-| Pilgrimage: Novice | 1.00% | ~500 |
-| Awakening | 0.80% | ~400 |
-| Wildfire | 0.80% | ~400 |
-| Realized Potential | 0.80% | ~400 |
-| Explorer: Trailblazer | 0.70% | ~350 |
-| Through the Eyes of Another: Seer | 0.50% | ~250 |
-| Archivist | 0.40% | ~200 |
-| Craftsperson | 0.40% | ~200 |
-| Tit for Tat | 0.40% | ~200 |
-| Paragon | 0.30% | ~150 |
-| Call of the Fount: Beatified | 0.30% | ~150 |
-| A Roaring Trade | 0.30% | ~150 |
-| Promises | 0.30% | ~150 |
-| Rebirth | 0.30% | ~150 |
-| Pilgrimage: Adept | 0.20% | ~100 |
-| I Can Fly! | 0.20% | ~100 |
-| Abominizer | 0.10% | ~50 |
-| Through the Eyes of Another: Visionary | 0.10% | ~50 |
-| Kit and Caboodle | 0.10% | ~50 |
-| Above and Beyond | 0.10% | ~50 |
-| Happy Snapper | 0.10% | ~50 |
-| Barely There | 0.10% | ~50 |
-| Moves | 0.10% | ~50 |
-| Remembrance | 0.10% | ~50 |
-| Cat Person | 0.10% | ~50 |
+| Attachments | 14.00% | ~7,266 |
+| Unlocked Potential | 13.00% | ~6,747 |
+| Tinkerer | 10.00% | ~5,190 |
+| Knock 'Em Dead | 9.00% | ~4,671 |
+| Pilgrimage: Initiate | 9.00% | ~4,671 |
+| Leapfrogger | 8.00% | ~4,152 |
+| Hell of a Run | 8.00% | ~4,152 |
+| Call of the Fount: Baptized | 8.00% | ~4,152 |
+| No Mercy | 7.00% | ~3,633 |
+| Explorer: Seeker | 7.00% | ~3,633 |
+| Stuck | 6.00% | ~3,114 |
+| Help Me Out Here | 6.00% | ~3,114 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,595 |
+| The Interloper | 4.00% | ~2,076 |
+| Hop, Step, Jump | 4.00% | ~2,076 |
+| Outdoorsperson | 3.00% | ~1,557 |
+| What Must Be Done | 3.00% | ~1,557 |
+| Damned If You Do... | 3.00% | ~1,557 |
+| Endless Runner | 3.00% | ~1,557 |
+| Might and Main | 2.00% | ~1,038 |
+| The Hue of Blue | 2.00% | ~1,038 |
+| Breaking Point | 2.00% | ~1,038 |
+| None the Wiser | 2.00% | ~1,038 |
+| Explorer: Pathfinder | 2.00% | ~1,038 |
+| Shocker | 2.00% | ~1,038 |
+| From Every Angle | 2.00% | ~1,038 |
+| The Truth Will Out | 1.00% | ~519 |
+| Forspoken | 1.00% | ~519 |
+| Pilgrimage: Novice | 1.00% | ~519 |
+| Wildfire | 0.90% | ~467 |
+| Awakening | 0.80% | ~415 |
+| Realized Potential | 0.80% | ~415 |
+| Explorer: Trailblazer | 0.70% | ~363 |
+| Through the Eyes of Another: Seer | 0.60% | ~311 |
+| Archivist | 0.40% | ~208 |
+| Craftsperson | 0.40% | ~208 |
+| Tit for Tat | 0.40% | ~208 |
+| Promises | 0.40% | ~208 |
+| Paragon | 0.30% | ~156 |
+| Call of the Fount: Beatified | 0.30% | ~156 |
+| I Can Fly! | 0.30% | ~156 |
+| A Roaring Trade | 0.30% | ~156 |
+| Rebirth | 0.30% | ~156 |
+| Pilgrimage: Adept | 0.20% | ~104 |
+| Abominizer | 0.10% | ~52 |
+| Through the Eyes of Another: Visionary | 0.10% | ~52 |
+| Kit and Caboodle | 0.10% | ~52 |
+| Above and Beyond | 0.10% | ~52 |
+| Happy Snapper | 0.10% | ~52 |
+| Barely There | 0.10% | ~52 |
+| Moves | 0.10% | ~52 |
+| Remembrance | 0.10% | ~52 |
+| Cat Person | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,032 (Ranked 145)  
-Completed: 4 (0.01%) (Ranked 433)  
+Progressed: 51,902 (Ranked 160)  
+Completed: 4 (0.01%) (Ranked 486)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,6 +344,7 @@ Completed: 4 (0.01%) (Ranked 433)
 | 2024-01-27 | 47,813 | 4 |
 | 2024-03-21 | 49,138 | 4 |
 | 2024-04-10 | 50,032 | 4 |
+| 2024-06-17 | 51,902 | 4 |
 ## Awards
 Max (Character Customization): 68  (Ranked 482)  
 Sum: 103 (Ranked 529)  

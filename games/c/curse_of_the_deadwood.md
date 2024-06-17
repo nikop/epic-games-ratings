@@ -75,8 +75,8 @@
 | Locked and Loaded | 0.00% | ~0 |
 | Army of Two | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 867)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 2 (Ranked 957)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

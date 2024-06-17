@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 98.00% | ~848 |
-| Trouble with the swerve | 68.00% | ~588 |
-| Oops, My bad | 67.00% | ~580 |
-| Don't get ahead on yourself | 39.00% | ~337 |
-| I didn't know you where there! | 30.00% | ~260 |
-| Participation trophy | 23.00% | ~199 |
-| Whole again | 12.00% | ~104 |
-| Cash Rules Everything Around Me | 8.00% | ~69 |
-| Getting the job done | 7.00% | ~61 |
-| Risky business | 6.00% | ~52 |
-| Ready to Mingle | 6.00% | ~52 |
-| Better late then never | 5.00% | ~43 |
-| First one tastes better | 4.00% | ~35 |
-| Better than the pros | 2.00% | ~17 |
-| Fan Boy | 2.00% | ~17 |
-| In the bank | 1.00% | ~9 |
-| American Legend | 1.00% | ~9 |
-| Dedicated tourist | 1.00% | ~9 |
-| Well oiled Veteran | 0.20% | ~2 |
-| For Science! | 0.20% | ~2 |
+| Graduated | 99.00% | ~944 |
+| Trouble with the swerve | 68.00% | ~649 |
+| Oops, My bad | 66.00% | ~630 |
+| Don't get ahead on yourself | 38.00% | ~363 |
+| I didn't know you where there! | 30.00% | ~286 |
+| Participation trophy | 23.00% | ~219 |
+| Whole again | 12.00% | ~114 |
+| Getting the job done | 8.00% | ~76 |
+| Cash Rules Everything Around Me | 8.00% | ~76 |
+| Risky business | 6.00% | ~57 |
+| Ready to Mingle | 6.00% | ~57 |
+| Better late then never | 5.00% | ~48 |
+| First one tastes better | 4.00% | ~38 |
+| Better than the pros | 2.00% | ~19 |
+| Fan Boy | 2.00% | ~19 |
+| In the bank | 1.00% | ~10 |
+| American Legend | 1.00% | ~10 |
+| Dedicated tourist | 0.90% | ~9 |
+| Well oiled Veteran | 0.30% | ~3 |
+| For Science! | 0.30% | ~3 |
+| Secure the bag | 0.20% | ~2 |
 | Lightning fast | 0.10% | ~1 |
 | Unstoppable Force | 0.10% | ~1 |
-| Secure the bag | 0.10% | ~1 |
 | Allaround speed demon | 0.00% | ~0 |
 | Simply the best | 0.00% | ~0 |
 | I don't take breaks, I break records | 0.00% | ~0 |
@@ -38,8 +38,8 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 865 (Ranked 360)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 954 (Ranked 390)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,6 +140,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 859 | 0 |
 | 2024-03-21 | 863 | 0 |
 | 2024-04-10 | 865 | 0 |
+| 2024-06-17 | 954 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "7a78425e9d094942bd44700957de54da",
   "Name": "Lucky Goal",
   "ProductSlug": "luckygoal-201ee6",
-  "Ranking_EOS_Progress": 544,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 592,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-01-01T11:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -439,6 +439,11 @@
       "Time": "2024-04-10T06:03:53.4339967+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:12:29.4817155+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-25T13:10:20.6476388+00:00",
@@ -457,103 +462,103 @@
       "ID": "ACHIEVEMENT_LVL1_1_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "TRAINEE",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL1_1_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 1.1 TIME LIMIT",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL1_2_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "GOALKEEPER",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL1_2_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 1.2 TIME LIMIT",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL1_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "ROOKY",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL1_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 1 TIME LIMIT",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL2_1_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "FIND HOLE!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL2_1_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 2.1 TIME LIMIT",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL2_2_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "GOLFER!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL2_2_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 2.2 TIME LIMIT",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL2_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "GOLF PICKER",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL2_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 2 TIME LIMIT",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL3_1_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "SAILOR",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -561,7 +566,7 @@
       "ID": "ACHIEVEMENT_LVL3_1_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 3.1 TIME LIMIT",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -569,7 +574,7 @@
       "ID": "ACHIEVEMENT_LVL3_2_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "CAPTAIN",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -577,7 +582,7 @@
       "ID": "ACHIEVEMENT_LVL3_2_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 3.2 TIME LIMIT",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -585,33 +590,33 @@
       "ID": "ACHIEVEMENT_LVL3_COMPLETE",
       "SetID": "7ckmp1f",
       "Name": "KING OF SOCCER",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_LVL3_TIME",
       "SetID": "7ckmp1f",
       "Name": "LEVEL 3 TIME LIMIT",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_REFEREE",
       "SetID": "7ckmp1f",
       "Name": "CORRUPT REFEREE",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_REFEREE10",
       "SetID": "7ckmp1f",
       "Name": "CORRUPT REFEREE",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_REFEREE100",
@@ -625,7 +630,7 @@
       "ID": "ACHIEVEMENT_SHIP",
       "SetID": "7ckmp1f",
       "Name": "MIDFIELFER",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -633,7 +638,7 @@
       "ID": "ACHIEVEMENT_SHIP10",
       "SetID": "7ckmp1f",
       "Name": "MIDFIELFER",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -657,15 +662,15 @@
       "ID": "ACHIEVEMENT_TROPHY1",
       "SetID": "7ckmp1f",
       "Name": "TROPHY FINDER",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_TROPHY4",
       "SetID": "7ckmp1f",
       "Name": "TROPHY FINDER",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -682,14 +687,14 @@
     {
       "ID": "7ckmp1f",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-08T09:59:30.6826297+00:00",
   "FirstSeenAchievements": "2023-09-24T20:02:24.3206608+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:03:53.4339962+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:12:29.4817149+00:00",
   "LastUpdate_AppInfo": "2024-06-10T17:57:08.3960523+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:47.9409164+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:03:53.4340168+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:37.1440619+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:12:29.4817318+00:00"
 }

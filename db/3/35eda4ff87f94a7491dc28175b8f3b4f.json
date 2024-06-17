@@ -2,13 +2,13 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
-  "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 172,
+  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -377,11 +377,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30619,
-  "EOS_Completed": 195,
+  "EOS_Progressed": 34632,
+  "EOS_Completed": 237,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -9652,6 +9652,11 @@
       "Time": "2024-04-10T06:06:04.5922747+00:00",
       "NumProgressed": 30619,
       "NumCompleted": 195
+    },
+    {
+      "Time": "2024-06-17T16:16:24.2761305+00:00",
+      "NumProgressed": 34632,
+      "NumCompleted": 237
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9662,33 +9667,33 @@
       "ID": "AVID_READER_1_6",
       "SetID": "24fdn9j",
       "Name": "Avid Reader",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 276
+      "UsersEstimate": 346
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
       "SetID": "24fdn9j",
       "Name": "Beam Me Up Scotty",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 2450
+      "UsersEstimate": 3117
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
       "SetID": "24fdn9j",
       "Name": "Good Listener",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 346
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
       "SetID": "24fdn9j",
       "Name": "Morbidly Curious",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 1039
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -9696,7 +9701,7 @@
       "Name": "Savior",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3463
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -9704,15 +9709,15 @@
       "Name": "Righter of Wrongs",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 1837
+      "UsersEstimate": 2078
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
       "SetID": "24fdn9j",
       "Name": "Rescuer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 4287
+      "UsersEstimate": 5195
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -9720,7 +9725,7 @@
       "Name": "Secrets Out",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2771
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -9728,7 +9733,7 @@
       "Name": "Locksmith",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 3062
+      "UsersEstimate": 3463
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -9736,23 +9741,23 @@
       "Name": "Investigator",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 612
+      "UsersEstimate": 693
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 30619,
-      "Completed": 195
+      "Progressed": 34632,
+      "Completed": 237
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-05-31T19:58:10.0191006+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:04.5922742+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:16:24.2761301+00:00",
   "LastUpdate_AppInfo": "2024-06-14T13:02:52.2157192+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:43.3848246+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:04.5923292+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:26.6611584+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:16:24.2761803+00:00"
 }

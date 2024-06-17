@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 75.00% | ~528 |
-| Snake Eyes | 61.00% | ~429 |
-| Be water, my friend | 58.00% | ~408 |
-| Fireball | 46.00% | ~324 |
-| The King of Flat | 45.00% | ~317 |
-| Hit That Ball | 35.00% | ~246 |
-| Air Slash | 33.00% | ~232 |
-| Eat That Apple | 25.00% | ~176 |
-| Tornado Chaser | 16.00% | ~113 |
-| Bomberman | 12.00% | ~84 |
-| Bubble Party | 9.00% | ~63 |
-| The Colossus | 8.00% | ~56 |
-| Floor is Lava | 7.00% | ~49 |
-| Pim Pam Pum | 7.00% | ~49 |
-| Dash Crash - Hero Edition | 5.00% | ~35 |
-| Ambush | 4.00% | ~28 |
-| Black Belt | 3.00% | ~21 |
-| Snake Eyes - Hero Edition | 2.00% | ~14 |
-| The King of Flat - Hero Edition | 2.00% | ~14 |
-| Quite The Hero | 2.00% | ~14 |
-| Rogue | 2.00% | ~14 |
+| Dash Crash | 74.00% | ~541 |
+| Snake Eyes | 60.00% | ~439 |
+| Be water, my friend | 58.00% | ~424 |
+| Fireball | 46.00% | ~336 |
+| The King of Flat | 46.00% | ~336 |
+| Hit That Ball | 35.00% | ~256 |
+| Air Slash | 33.00% | ~241 |
+| Eat That Apple | 25.00% | ~183 |
+| Tornado Chaser | 16.00% | ~117 |
+| Bomberman | 12.00% | ~88 |
+| Bubble Party | 9.00% | ~66 |
+| The Colossus | 8.00% | ~58 |
+| Floor is Lava | 7.00% | ~51 |
+| Pim Pam Pum | 6.00% | ~44 |
+| Dash Crash - Hero Edition | 5.00% | ~37 |
+| Ambush | 4.00% | ~29 |
+| Black Belt | 3.00% | ~22 |
+| Snake Eyes - Hero Edition | 2.00% | ~15 |
+| The King of Flat - Hero Edition | 2.00% | ~15 |
+| Quite The Hero | 2.00% | ~15 |
+| Rogue | 2.00% | ~15 |
 | Path of the Hero | 1.00% | ~7 |
 | Hit That Ball - Hero Edition | 1.00% | ~7 |
 | Eat That Apple - Hero Edition | 1.00% | ~7 |
@@ -32,25 +32,25 @@
 | Oh, no | 1.00% | ~7 |
 | Apprentice | 1.00% | ~7 |
 | Vertigo | 1.00% | ~7 |
-| Bomberman - Hero Edition | 0.90% | ~6 |
+| Bomberman - Hero Edition | 0.80% | ~6 |
 | Tornado Chaser - Hero Edition | 0.70% | ~5 |
-| The Colossus - Hero Edition | 0.60% | ~4 |
+| The Colossus - Hero Edition | 0.50% | ~4 |
 | Pim Pam Pum - Hero Edition | 0.40% | ~3 |
 | Killing Spree | 0.40% | ~3 |
 | Rogue - Hero Edition | 0.30% | ~2 |
+| Explorer | 0.30% | ~2 |
 | Dear Diary | 0.10% | ~1 |
 | Lone Wolf | 0.10% | ~1 |
 | Persistence | 0.10% | ~1 |
 | Warrior Trials | 0.10% | ~1 |
-| Explorer | 0.10% | ~1 |
 | Flat Hero | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 | Shepherd | 0.00% | ~0 |
 | Yondu | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704 (Ranked 378)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 731 (Ranked 417)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -158,6 +158,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 682 | 0 |
 | 2024-03-21 | 698 | 0 |
 | 2024-04-10 | 704 | 0 |
+| 2024-06-17 | 731 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

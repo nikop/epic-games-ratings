@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Going Batty | 33.00% | ~4 |
+| Going Batty | 31.00% | ~4 |
 | Amateur Electrician | 8.00% | ~1 |
 | Armed and Dangerous | 8.00% | ~1 |
 | Go for the Heart | 8.00% | ~1 |
@@ -19,8 +19,8 @@
 | Nowhere you can hide | 0.00% | ~0 |
 | Pound of Flesh | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 778)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 13 (Ranked 851)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -29,6 +29,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2023-11-09 | 10 | 0 |
 | 2023-12-20 | 11 | 0 |
 | 2023-12-31 | 12 | 0 |
+| 2024-06-17 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

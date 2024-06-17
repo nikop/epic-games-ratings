@@ -2,10 +2,10 @@
   "ID": "3017522a6faa4fd4a8f16d5e2899fe69",
   "Name": "Inkulinati",
   "ProductSlug": "inkulinati-b60b1c",
-  "Ranking_EOS_Progress": 609,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-22T18:00:00+00:00",
     "PcReleaseDate": "2024-02-22T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-04-10T06:05:44.1348538+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:15:47.1310221+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:09.9783552+00:00",
@@ -54,33 +59,33 @@
       "ID": "ABSOLUTE_EFFICIENCY",
       "SetID": "5p39703",
       "Name": "Absolute Efficiency",
-      "Percentage": 67,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 73
     },
     {
       "ID": "AFTERLIFE",
       "SetID": "5p39703",
       "Name": "Afterlife",
-      "Percentage": 26,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "AFTERLIFE_II",
       "SetID": "5p39703",
       "Name": "Afterlife II",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "AMBITION",
       "SetID": "5p39703",
       "Name": "Ambition",
-      "Percentage": 53,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 59
     },
     {
       "ID": "Afterlife_III",
@@ -94,183 +99,183 @@
       "ID": "ELITE_LEAGUE_MEMBER",
       "SetID": "5p39703",
       "Name": "Inkulinati Secret League Member",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "FATAL_BLOW",
       "SetID": "5p39703",
       "Name": "Fatal Blow",
-      "Percentage": 69,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 77
     },
     {
       "ID": "FIRST_STEP",
       "SetID": "5p39703",
       "Name": "First Step",
-      "Percentage": 63,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 77
     },
     {
       "ID": "GOD_MODE",
       "SetID": "5p39703",
       "Name": "God Mode",
-      "Percentage": 53,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 59
     },
     {
       "ID": "GRADUATION",
       "SetID": "5p39703",
       "Name": "Graduation",
-      "Percentage": 76,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 94
     },
     {
       "ID": "HERESY",
       "SetID": "5p39703",
       "Name": "Heresy",
-      "Percentage": 32,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 36
     },
     {
       "ID": "NON_OMNIS_MORIAR",
       "SetID": "5p39703",
       "Name": "Non Omnis Moriar",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "NOT_EVEN_THE_SAME_PARISH",
       "SetID": "5p39703",
       "Name": "Not Even the Same Parish",
-      "Percentage": 50,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 51
     },
     {
       "ID": "ONE_TINY_BAND",
       "SetID": "5p39703",
       "Name": "One-Tiny Band",
-      "Percentage": 11,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "PURGATORY_TIME",
       "SetID": "5p39703",
       "Name": "Purgatory Time",
-      "Percentage": 22,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "PYRRHIC_VICTORY",
       "SetID": "5p39703",
       "Name": "Pyrrhic Victory",
-      "Percentage": 11,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "REVENGE",
       "SetID": "5p39703",
       "Name": "Revenge",
-      "Percentage": 76,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 92
     },
     {
       "ID": "SO_CLEVER_HE_WAS",
       "SetID": "5p39703",
       "Name": "So Clever He Was...",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 12
     },
     {
       "ID": "SO_HOLY_SHE_WAS",
       "SetID": "5p39703",
       "Name": "So Holy She Was...",
-      "Percentage": 29,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 34
     },
     {
       "ID": "SO_MUCH_LOVE_FOR_ANIMAL_HE_HAD",
       "SetID": "5p39703",
       "Name": "Such an Animal Lover He Was...",
-      "Percentage": 28,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 28
     },
     {
       "ID": "SO_SCHOLAR_HE_WAS",
       "SetID": "5p39703",
       "Name": "So Scholarly He Was...",
-      "Percentage": 21,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 24
     },
     {
       "ID": "SO_STRONG_HE_WAS",
       "SetID": "5p39703",
       "Name": "So Strong He Was...",
-      "Percentage": 46,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 51
     },
     {
       "ID": "SO_WISE_HE_WAS",
       "SetID": "5p39703",
       "Name": "So Wise He Was...",
-      "Percentage": 54,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 63
     },
     {
       "ID": "STUDENT_AMBITION",
       "SetID": "5p39703",
       "Name": "Student Ambition",
-      "Percentage": 14,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "SWAN_SONG",
       "SetID": "5p39703",
       "Name": "Swan Song",
-      "Percentage": 71,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 81
     },
     {
       "ID": "TOP_OF_THE_CLASS",
       "SetID": "5p39703",
       "Name": "Top of the Class",
-      "Percentage": 10,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "5p39703",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-24T19:56:58.3100746+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:09.9783551+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:44.1348531+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:47.1310216+00:00",
   "LastUpdate_AppInfo": "2024-06-10T23:57:01.3373945+00:00",
-  "LastUpdate_Ratings": "2024-06-17T13:59:58.9769367+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:44.1348691+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:23.5196909+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:47.131039+00:00"
 }

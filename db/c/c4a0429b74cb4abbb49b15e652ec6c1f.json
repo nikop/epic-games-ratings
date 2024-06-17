@@ -2,10 +2,10 @@
   "ID": "c4a0429b74cb4abbb49b15e652ec6c1f",
   "Name": "Deverse World",
   "ProductSlug": "deverse-world-3ccb84",
-  "Ranking_EOS_Progress": 402,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 551,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2059,11 +2059,16 @@
       "Time": "2024-04-10T06:05:24.0179255+00:00",
       "NumProgressed": 507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:15:15.8095919+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
-  "TotalAchievements": 19,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
   "Achievements": [
     {
       "ID": "best_pianist",
@@ -2222,14 +2227,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 551,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:24.017925+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:15.8095914+00:00",
   "LastUpdate_AppInfo": "2024-06-14T13:02:50.7520204+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:52.1478183+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:24.0179468+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:25.726651+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:15.8096087+00:00"
 }

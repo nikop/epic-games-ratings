@@ -1,36 +1,36 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.35 (Ranked 895)  
+Rating: 4.35 (Ranked 896)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 81.00% | ~876 |
-| First Blood | 77.00% | ~833 |
-| Ready to Learn | 74.00% | ~801 |
-| Monster Hunter | 62.00% | ~671 |
-| Earning Trust | 60.00% | ~649 |
-| Monster Slayer | 34.00% | ~368 |
-| Awakening | 27.00% | ~292 |
-| Huntmaster | 26.00% | ~281 |
-| Complete the sidequest 'Malice and Greed' | 21.00% | ~227 |
-| House Vulisica's Heirloom | 17.00% | ~184 |
-| Digging Deep | 16.00% | ~173 |
-| Broken Oath | 10.00% | ~108 |
-| Way of the King | 9.00% | ~97 |
-| Til We Meet Again | 5.00% | ~54 |
-| Way of the Warlord | 4.00% | ~43 |
-| Arrow in the Wind | 4.00% | ~43 |
+| The First Step | 85.00% | ~898 |
+| First Blood | 81.00% | ~856 |
+| Ready to Learn | 78.00% | ~824 |
+| Monster Hunter | 66.00% | ~698 |
+| Earning Trust | 64.00% | ~676 |
+| Monster Slayer | 36.00% | ~381 |
+| Awakening | 29.00% | ~307 |
+| Huntmaster | 28.00% | ~296 |
+| Complete the sidequest 'Malice and Greed' | 23.00% | ~243 |
+| Digging Deep | 18.00% | ~190 |
+| House Vulisica's Heirloom | 18.00% | ~190 |
+| Broken Oath | 11.00% | ~116 |
+| Way of the King | 9.00% | ~95 |
+| Way of the Warlord | 5.00% | ~53 |
+| Til We Meet Again | 5.00% | ~53 |
+| Arrow in the Wind | 4.00% | ~42 |
 | The Unvanquished | 3.00% | ~32 |
-| Let Us Cling Together | 2.00% | ~22 |
-| A Promised Voyage | 2.00% | ~22 |
+| Let Us Cling Together | 3.00% | ~32 |
+| First Bloom | 2.00% | ~21 |
+| A Promised Voyage | 2.00% | ~21 |
 | Life or Death | 1.00% | ~11 |
 | Someone to Protect | 1.00% | ~11 |
-| First Bloom | 1.00% | ~11 |
-| Lean on Me | 0.70% | ~8 |
+| Lean on Me | 0.90% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,082 (Ranked 339)  
-Completed: 1 (0.09%) (Ranked 367)  
+Progressed: 1,057 (Ranked 380)  
+Completed: 1 (0.09%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,6 +190,7 @@ Completed: 1 (0.09%) (Ranked 367)
 | 2024-01-26 | 1,118 | 1 |
 | 2024-03-21 | 1,088 | 1 |
 | 2024-04-10 | 1,082 | 1 |
+| 2024-06-17 | 1,057 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

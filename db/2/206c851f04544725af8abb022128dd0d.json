@@ -2,10 +2,10 @@
   "ID": "206c851f04544725af8abb022128dd0d",
   "Name": "Fireside",
   "ProductSlug": "fireside-ff8e68",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-04T09:00:00+00:00",
     "PcReleaseDate": "2024-06-04T09:00:00+00:00",
@@ -25,17 +25,387 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:08:06.6958663+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:08:06.695871+00:00",
+  "TotalAchievements": 44,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "FS_EXP_Farm",
+      "SetID": "76f48b1",
+      "Name": "Friends at the Farm?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_EXP_MountainTops",
+      "SetID": "76f48b1",
+      "Name": "Professional Mountain Climber",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_EXP_Swamp",
+      "SetID": "76f48b1",
+      "Name": "Tough Mudder",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FS_MISC_AllUpgrades",
+      "SetID": "76f48b1",
+      "Name": "Master Builder",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_BlackboardLv1",
+      "SetID": "76f48b1",
+      "Name": "Goon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_BlackboardLv2",
+      "SetID": "76f48b1",
+      "Name": "Freelancer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_BlackboardLv3",
+      "SetID": "76f48b1",
+      "Name": "Master Operative",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_Buddy",
+      "SetID": "76f48b1",
+      "Name": "A Dog Named Buddy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_CookLv1",
+      "SetID": "76f48b1",
+      "Name": "Scullion",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FS_MISC_CookLv2",
+      "SetID": "76f48b1",
+      "Name": "Cook",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_CookLv3",
+      "SetID": "76f48b1",
+      "Name": "Master Chef",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_ExploredAll",
+      "SetID": "76f48b1",
+      "Name": "Legendary Explorer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_FrogCoin",
+      "SetID": "76f48b1",
+      "Name": "Boundless Generosity",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_GameComplete",
+      "SetID": "76f48b1",
+      "Name": "The End?",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_HangingAround",
+      "SetID": "76f48b1",
+      "Name": "Just Hanging Around",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_Rocky",
+      "SetID": "76f48b1",
+      "Name": "Pet the Rock",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_Solidarity",
+      "SetID": "76f48b1",
+      "Name": "Solidarity",
+      "Percentage": 20,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "FS_MISC_TradesLv1",
+      "SetID": "76f48b1",
+      "Name": "Haggler",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FS_MISC_TradesLv2",
+      "SetID": "76f48b1",
+      "Name": "Merchant",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_TradesLv3",
+      "SetID": "76f48b1",
+      "Name": "Trade Magnate",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_UpgradedAll",
+      "SetID": "76f48b1",
+      "Name": "Strong Connection",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_MISC_Visitors",
+      "SetID": "76f48b1",
+      "Name": "Visitors Welcome!",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FS_PROG_Bridge",
+      "SetID": "76f48b1",
+      "Name": "Building a Bridge",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "FS_PROG_Castle",
+      "SetID": "76f48b1",
+      "Name": "Old-School",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_PROG_ChoseHazel",
+      "SetID": "76f48b1",
+      "Name": "Timber Tycoon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_PROG_ChoseOwl",
+      "SetID": "76f48b1",
+      "Name": "Wildlife Protector",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_PROG_ForestShrine",
+      "SetID": "76f48b1",
+      "Name": "Restoring the Nexus: The Forest",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_PROG_Island",
+      "SetID": "76f48b1",
+      "Name": "Island in the Ocean",
+      "Percentage": 10,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FS_PROG_Kevin",
+      "SetID": "76f48b1",
+      "Name": "Family Reunion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_PROG_Knack",
+      "SetID": "76f48b1",
+      "Name": "A New Beginning",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_PROG_MountainShrine",
+      "SetID": "76f48b1",
+      "Name": "Restoring the Nexus: The Mountains",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_PROG_RiverShrine",
+      "SetID": "76f48b1",
+      "Name": "Restoring the Nexus: The River Delta",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "FS_PROG_Shoggy",
+      "SetID": "76f48b1",
+      "Name": "The Handyman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_PROG_Siggi",
+      "SetID": "76f48b1",
+      "Name": "Dragonheart",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_Edelweiss",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: The Most Mythical",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_Feather",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Stunning Beauty",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FS_TRO_Fossil",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Straight from the Cambrian Age",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_Frangipani",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Golden Glow",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_Lilyapd",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Rare Lake Decor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_Pearl",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Sea Treasure",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_PonchoScarf",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Cozy and Dry",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_RangerMultitoolAxe",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Sheriff of the Woods",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_Ring",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Precioussss",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FS_TRO_SunhatTowel",
+      "SetID": "76f48b1",
+      "Name": "Trading Trophies: Vacation-Ready",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "76f48b1",
+      "IsBase": true,
+      "Progressed": 10,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-04T20:01:23.9691418+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:08:06.6958709+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:06.6958657+00:00",
   "LastUpdate_AppInfo": "2024-06-13T17:57:17.2030791+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:18.3302303+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:49.4886403+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:06.696719+00:00"
 }

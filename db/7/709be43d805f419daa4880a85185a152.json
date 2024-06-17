@@ -2,10 +2,10 @@
   "ID": "709be43d805f419daa4880a85185a152",
   "Name": "GHOST at DAWN",
   "ProductSlug": "ghost-at-dawn-c007a3",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-10-06T05:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "3heknb1",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:08:16.7946615+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:16.794659+00:00",
   "LastUpdate_AppInfo": "2024-06-12T21:57:12.7380845+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:58.2650715+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:07:11.5454902+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:16.7946636+00:00"
 }

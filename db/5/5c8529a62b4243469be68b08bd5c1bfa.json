@@ -2,10 +2,10 @@
   "ID": "5c8529a62b4243469be68b08bd5c1bfa",
   "Name": "We Love Katamari REROLL\u002B Royal Reverie",
   "ProductSlug": "we-love-katamari-reroll-and-royal-reverie",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-23T01:00:00+00:00",
     "PcReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -20,17 +20,315 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-06-17T16:07:58.3721356+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-06-17T16:07:58.3721394+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_01",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Soccer Kid",
+      "Percentage": 150,
+      "XP": 10,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "ACHIEVEMENT_02",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Rainbow Girl",
+      "Percentage": 140,
+      "XP": 10,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "ACHIEVEMENT_03",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Lazybones",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_04",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Grandpa",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_05",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Grandma",
+      "Percentage": 120,
+      "XP": 10,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "ACHIEVEMENT_06",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Bird and Elephant",
+      "Percentage": 120,
+      "XP": 10,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "ACHIEVEMENT_07",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Dog",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_08",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Ikebana Teacher",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_09",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Substitute Teacher",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_10",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The F1 Racer",
+      "Percentage": 140,
+      "XP": 10,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "ACHIEVEMENT_11",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Rain Coat Girl",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Dr. Katamari",
+      "Percentage": 130,
+      "XP": 10,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "ACHIEVEMENT_13",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Crane Hat Boy",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_14",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Just-right Girl",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_15",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Cowbear Farmer",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_16",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Excited Baby",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_17",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Cleanly Mom",
+      "Percentage": 130,
+      "XP": 10,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "ACHIEVEMENT_18",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Fund-raiser",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_19",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Hansel \u0026amp; Gretel",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_20",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Float Boy",
+      "Percentage": 150,
+      "XP": 10,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "ACHIEVEMENT_21",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Camper Man",
+      "Percentage": 90,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "ACHIEVEMENT_22",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Mini-Sumo",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_23",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Book Worm",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_24",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Snow Child",
+      "Percentage": 110,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_25",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Michiru Hoshino",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_26",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Tomio Hoshino",
+      "Percentage": 110,
+      "XP": 50,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "ACHIEVEMENT_27",
+      "SetID": "blc32jk",
+      "Name": "We Also Love Mutsuo Hoshino",
+      "Percentage": 80,
+      "XP": 50,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "ACHIEVEMENT_28",
+      "SetID": "blc32jk",
+      "Name": "That Was The Prince",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "ACHIEVEMENT_29",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Cousins",
+      "Percentage": 90,
+      "XP": 50,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "ACHIEVEMENT_30",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The King",
+      "Percentage": 80,
+      "XP": 50,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "ACHIEVEMENT_31",
+      "SetID": "blc32jk",
+      "Name": "We Also Love The Queen",
+      "Percentage": 70,
+      "XP": 20,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "ACHIEVEMENT_32",
+      "SetID": "blc32jk",
+      "Name": "We Love Katamari Damacy",
+      "Percentage": 200,
+      "XP": 10,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "ACHIEVEMENT_33",
+      "SetID": "blc32jk",
+      "Name": "We Love Katamari Damacy So Much",
+      "Percentage": 150,
+      "XP": 100,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "ACHIEVEMENT_34",
+      "SetID": "blc32jk",
+      "Name": "We Love Katamari Damacy So So So Much",
+      "Percentage": 150,
+      "XP": 150,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "ACHIEVEMENT_35",
+      "SetID": "blc32jk",
+      "Name": "We Love Katamari Damacy!",
+      "Percentage": 70,
+      "XP": 200,
+      "UsersEstimate": 7
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "blc32jk",
+      "IsBase": true,
+      "Progressed": 10,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-05-27T09:58:09.8305155+00:00",
+  "FirstSeenAchievements": "2024-06-17T16:07:58.3721393+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:07:58.3721353+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:43.6665874+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:57:53.7456497+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:30.567428+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:07:58.3729746+00:00"
 }

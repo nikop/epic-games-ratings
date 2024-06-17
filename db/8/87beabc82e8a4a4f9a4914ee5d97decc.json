@@ -2,10 +2,10 @@
   "ID": "87beabc82e8a4a4f9a4914ee5d97decc",
   "Name": "Internet Cafe Evolution",
   "ProductSlug": "internet-cafe-evolution-c1271a",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-04-19T08:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "cg0gehh",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:08:08.0775443+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:08.0775419+00:00",
   "LastUpdate_AppInfo": "2024-06-11T03:57:07.7608256+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:28.3149678+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:03.435193+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:08.077546+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c54616412a81452a9222e43b97b69ef2",
   "Name": "Thank Goodness You\u0027re Here!",
   "ProductSlug": "thank-goodness-youre-here-aac813",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "1mbk2pn",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:13:41.4868241+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:13:41.4868225+00:00",
   "LastUpdate_AppInfo": "2024-06-12T21:57:14.8338612+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:32.6574166+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:33.6431665+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:59:08.754577+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:13:41.4868258+00:00"
 }

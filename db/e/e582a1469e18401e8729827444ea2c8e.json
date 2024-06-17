@@ -2,10 +2,10 @@
   "ID": "e582a1469e18401e8729827444ea2c8e",
   "Name": "DotLine",
   "ProductSlug": "dot-line-e45fbd",
-  "Ranking_EOS_Progress": 724,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-15T18:00:00+00:00",
     "PcReleaseDate": "2018-09-22T00:00:00+00:00",
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -42,6 +42,11 @@
     {
       "Time": "2024-04-10T06:05:50.2409172+00:00",
       "NumProgressed": 24,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:15:56.9020228+00:00",
+      "NumProgressed": 31,
       "NumCompleted": 0
     }
   ],
@@ -85,9 +90,9 @@
       "ID": "ACH_13",
       "SetID": "7be47b7",
       "Name": "Act A",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_14",
@@ -293,7 +298,7 @@
       "ID": "ACH_37",
       "SetID": "7be47b7",
       "Name": "Trophy",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -341,7 +346,7 @@
       "ID": "ACH_42",
       "SetID": "7be47b7",
       "Name": "Victory",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -390,13 +395,13 @@
     {
       "ID": "7be47b7",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:19.8070559+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:50.2409167+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:56.9020223+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:25.601042+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:00:21.1656304+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:50.2409463+00:00"
+  "LastUpdate_Ratings": "2024-06-17T15:58:53.5076747+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:56.9020452+00:00"
 }

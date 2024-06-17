@@ -2,10 +2,10 @@
   "ID": "f8cbf321729f439aae9c088cbbebe93e",
   "Name": "Survivor - Castaway Island",
   "ProductSlug": "survivor-castaway-island-16f672",
-  "Ranking_EOS_Progress": 602,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 649,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-03T08:00:00+00:00",
     "PcReleaseDate": "2023-10-03T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 89,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -369,6 +369,11 @@
       "Time": "2024-04-10T06:04:39.1138551+00:00",
       "NumProgressed": 78,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:13:51.7803268+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T10:09:15.6934484+00:00",
@@ -379,23 +384,23 @@
       "ID": "_00",
       "SetID": "670ak8f",
       "Name": "Immunity",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "_02",
       "SetID": "670ak8f",
       "Name": "Only one family",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -403,17 +408,17 @@
       "ID": "_03",
       "SetID": "670ak8f",
       "Name": "Strategist",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "_04",
       "SetID": "670ak8f",
       "Name": "Multitasking",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "_05",
@@ -421,29 +426,29 @@
       "Name": "Lazy bones",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 49
     },
     {
       "ID": "_07",
       "SetID": "670ak8f",
       "Name": "Mastermind",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "_08",
       "SetID": "670ak8f",
       "Name": "Real Adventurer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -451,9 +456,9 @@
       "ID": "_09",
       "SetID": "670ak8f",
       "Name": "Champion",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "_10",
@@ -468,14 +473,14 @@
     {
       "ID": "670ak8f",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 89,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:04:39.1138548+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:13:51.7803261+00:00",
   "LastUpdate_AppInfo": "2024-06-12T14:57:14.3811095+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:59:14.1413047+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:39.1138621+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:05:33.2003242+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:13:51.7803376+00:00"
 }

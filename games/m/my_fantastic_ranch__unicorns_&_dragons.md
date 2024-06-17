@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 56.00% | ~32 |
-| Spirit of competition | 37.00% | ~21 |
-| Creature Evolution | 33.00% | ~19 |
-| Prized Possession | 33.00% | ~19 |
-| Festival Fever | 25.00% | ~14 |
-| Kingdom Party Time | 25.00% | ~14 |
-| Think Positive | 23.00% | ~13 |
-| Entering New Territory | 23.00% | ~13 |
-| Gotta Adopt Them All! | 14.00% | ~8 |
-| Just One More Go | 12.00% | ~7 |
-| Lecturer | 12.00% | ~7 |
-| Landscaper | 7.00% | ~4 |
-| Dream Big | 7.00% | ~4 |
-| Kindred Spirits | 7.00% | ~4 |
-| Diamonds in the Rough | 5.00% | ~3 |
-| Neverending Story | 5.00% | ~3 |
-| Fully Booked! | 4.00% | ~2 |
-| Protected Nature Reserve | 2.00% | ~1 |
+| Let the Adventure Begin! | 57.00% | ~36 |
+| Spirit of competition | 38.00% | ~24 |
+| Prized Possession | 35.00% | ~22 |
+| Creature Evolution | 33.00% | ~21 |
+| Festival Fever | 27.00% | ~17 |
+| Kingdom Party Time | 27.00% | ~17 |
+| Entering New Territory | 25.00% | ~16 |
+| Think Positive | 22.00% | ~14 |
+| Gotta Adopt Them All! | 14.00% | ~9 |
+| Just One More Go | 11.00% | ~7 |
+| Lecturer | 11.00% | ~7 |
+| Landscaper | 8.00% | ~5 |
+| Dream Big | 8.00% | ~5 |
+| Diamonds in the Rough | 6.00% | ~4 |
+| Neverending Story | 6.00% | ~4 |
+| Kindred Spirits | 6.00% | ~4 |
+| Protected Nature Reserve | 3.00% | ~2 |
+| Fully Booked! | 3.00% | ~2 |
+| Kingdom Champions | 2.00% | ~1 |
 | Paving the Way | 2.00% | ~1 |
-| Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
 | Dragon Academy | 0.00% | ~0 |
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 636)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 63 (Ranked 690)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,6 +82,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-01-12 | 50 | 0 |
 | 2024-03-21 | 55 | 0 |
 | 2024-04-10 | 57 | 0 |
+| 2024-06-17 | 63 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

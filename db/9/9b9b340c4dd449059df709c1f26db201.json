@@ -2,10 +2,10 @@
   "ID": "9b9b340c4dd449059df709c1f26db201",
   "Name": "Crown Trick",
   "ProductSlug": "crown-trick-11494d",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-09T16:00:00+00:00",
     "PcReleaseDate": "2020-10-16T09:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "5j8h68i",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-17T16:08:19.4569115+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:08:19.4569097+00:00",
   "LastUpdate_AppInfo": "2024-06-11T11:57:09.2580021+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:03.5527701+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:54.112611+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:08:19.4569135+00:00"
 }

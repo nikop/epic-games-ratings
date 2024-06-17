@@ -5,54 +5,54 @@ Rating: 4.29 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 45.00% | ~649 |
-| Manipulating Fate | 11.00% | ~159 |
-| The City | 11.00% | ~159 |
-| Hear me out | 8.00% | ~115 |
-| Full house | 7.00% | ~101 |
-| Burn and Pillage | 7.00% | ~101 |
-| Listening to the crowd | 6.00% | ~87 |
-| The Penitent Ones | 5.00% | ~72 |
-| Greedy | 5.00% | ~72 |
-| Hidden Secrets | 5.00% | ~72 |
-| The Stranded King | 5.00% | ~72 |
-| Accepting the Prophecy | 5.00% | ~72 |
-| Just Chilling | 4.00% | ~58 |
-| Ascended | 4.00% | ~58 |
-| Incredible Strength | 4.00% | ~58 |
-| Prophecy Fulfilled | 4.00% | ~58 |
-| The Greedy Ones | 3.00% | ~43 |
-| The First King | 2.00% | ~29 |
-| The great fire | 2.00% | ~29 |
-| The Unruly Ones | 2.00% | ~29 |
-| The Council | 1.00% | ~14 |
-| The Mad | 1.00% | ~14 |
-| Like the dream | 1.00% | ~14 |
-| Metropolis | 0.90% | ~13 |
-| Charismatic Leader | 0.70% | ~10 |
-| Six Faces | 0.60% | ~9 |
+| We made it | 47.00% | ~718 |
+| Manipulating Fate | 11.00% | ~168 |
+| The City | 11.00% | ~168 |
+| Full house | 8.00% | ~122 |
+| Hear me out | 8.00% | ~122 |
+| Burn and Pillage | 7.00% | ~107 |
+| Listening to the crowd | 7.00% | ~107 |
+| The Penitent Ones | 6.00% | ~92 |
+| Greedy | 5.00% | ~76 |
+| Hidden Secrets | 5.00% | ~76 |
+| The Stranded King | 5.00% | ~76 |
+| Accepting the Prophecy | 5.00% | ~76 |
+| Just Chilling | 4.00% | ~61 |
+| Ascended | 4.00% | ~61 |
+| Incredible Strength | 4.00% | ~61 |
+| The Greedy Ones | 4.00% | ~61 |
+| Prophecy Fulfilled | 4.00% | ~61 |
+| The First King | 3.00% | ~46 |
+| The great fire | 2.00% | ~31 |
+| The Unruly Ones | 2.00% | ~31 |
+| The Council | 1.00% | ~15 |
+| The Mad | 1.00% | ~15 |
+| Like the dream | 1.00% | ~15 |
+| Metropolis | 0.90% | ~14 |
+| Charismatic Leader | 0.70% | ~11 |
 | Red Tape | 0.60% | ~9 |
 | Knowledge is Power | 0.60% | ~9 |
-| The Great Winter | 0.50% | ~7 |
-| Ice and Fire | 0.30% | ~4 |
-| It's spreading | 0.30% | ~4 |
-| The Flail | 0.30% | ~4 |
-| The Corrupted | 0.30% | ~4 |
-| The Incarnate | 0.30% | ~4 |
+| Six Faces | 0.50% | ~8 |
+| The Great Winter | 0.50% | ~8 |
+| Ice and Fire | 0.30% | ~5 |
+| It's spreading | 0.30% | ~5 |
+| The Flail | 0.30% | ~5 |
+| The Corrupted | 0.30% | ~5 |
+| The Incarnate | 0.30% | ~5 |
 | Mad Engineers | 0.20% | ~3 |
 | Aesthetics | 0.20% | ~3 |
-| The experiment | 0.10% | ~1 |
-| Break the chains | 0.10% | ~1 |
-| Discover the truth | 0.10% | ~1 |
-| Oktoberfest | 0.10% | ~1 |
-| The Foul | 0.10% | ~1 |
-| Fate is against us | 0.10% | ~1 |
-| Despite everything | 0.10% | ~1 |
+| The experiment | 0.10% | ~2 |
+| Break the chains | 0.10% | ~2 |
+| Discover the truth | 0.10% | ~2 |
+| Oktoberfest | 0.10% | ~2 |
+| The Foul | 0.10% | ~2 |
+| Fate is against us | 0.10% | ~2 |
+| Despite everything | 0.10% | ~2 |
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,443 (Ranked 322)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 1,528 (Ranked 354)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,6 +284,7 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 1,393 | 0 |
 | 2024-03-21 | 1,424 | 0 |
 | 2024-04-10 | 1,443 | 0 |
+| 2024-06-17 | 1,528 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

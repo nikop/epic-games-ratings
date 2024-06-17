@@ -2,10 +2,10 @@
   "ID": "fd28199790f441de828b16e9fd646438",
   "Name": "Hidden Shapes Animals",
   "ProductSlug": "hidden-shapes-animals-0fca0f",
-  "Ranking_EOS_Progress": 906,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 670,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-18T17:00:00+00:00",
     "PcReleaseDate": "2021-04-14T17:00:00+00:00",
@@ -25,16 +25,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 75,
+  "EOS_Completed": 8,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 10.67,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:06:34.6542341+00:00",
       "NumProgressed": 1,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-17T16:17:18.2210011+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2024-04-05T15:01:38.5933325+00:00",
@@ -45,351 +50,351 @@
       "ID": "ACHIEVEMENT_HSA_01",
       "SetID": "a0o8p8j",
       "Name": "HSA - 01",
-      "Percentage": 100,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 70
     },
     {
       "ID": "ACHIEVEMENT_HSA_02",
       "SetID": "a0o8p8j",
       "Name": "HSA - 02",
-      "Percentage": 100,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_HSA_03",
       "SetID": "a0o8p8j",
       "Name": "HSA - 03",
-      "Percentage": 100,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_HSA_04",
       "SetID": "a0o8p8j",
       "Name": "HSA - 04",
-      "Percentage": 100,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_HSA_05",
       "SetID": "a0o8p8j",
       "Name": "HSA - 05",
-      "Percentage": 100,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_HSA_06",
       "SetID": "a0o8p8j",
       "Name": "HSA - 06",
-      "Percentage": 100,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_HSA_07",
       "SetID": "a0o8p8j",
       "Name": "HSA - 07",
-      "Percentage": 100,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 36
     },
     {
       "ID": "ACHIEVEMENT_HSA_08",
       "SetID": "a0o8p8j",
       "Name": "HSA - 08",
-      "Percentage": 100,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_HSA_09",
       "SetID": "a0o8p8j",
       "Name": "HSA - 09",
-      "Percentage": 100,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_HSA_10",
       "SetID": "a0o8p8j",
       "Name": "HSA - 10",
-      "Percentage": 100,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_HSA_11",
       "SetID": "a0o8p8j",
       "Name": "HSA - 11",
-      "Percentage": 0,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_HSA_12",
       "SetID": "a0o8p8j",
       "Name": "HSA - 12",
-      "Percentage": 0,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_HSA_13",
       "SetID": "a0o8p8j",
       "Name": "HSA - 13",
-      "Percentage": 0,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_HSA_14",
       "SetID": "a0o8p8j",
       "Name": "HSA - 14",
-      "Percentage": 0,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_HSA_15",
       "SetID": "a0o8p8j",
       "Name": "HSA - 15",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_HSA_16",
       "SetID": "a0o8p8j",
       "Name": "HSA - 16",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_HSA_17",
       "SetID": "a0o8p8j",
       "Name": "HSA - 17",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_HSA_18",
       "SetID": "a0o8p8j",
       "Name": "HSA - 18",
-      "Percentage": 0,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_HSA_19",
       "SetID": "a0o8p8j",
       "Name": "HSA - 19",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_HSA_20",
       "SetID": "a0o8p8j",
       "Name": "HSA - 20",
-      "Percentage": 0,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSA_21_Full",
       "SetID": "a0o8p8j",
       "Name": "HSA - 21",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_22",
       "SetID": "a0o8p8j",
       "Name": "HSA - 22",
-      "Percentage": 100,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_HSA_23",
       "SetID": "a0o8p8j",
       "Name": "HSA - 23",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_HSA_24",
       "SetID": "a0o8p8j",
       "Name": "HSA - 24",
-      "Percentage": 0,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_HSA_25",
       "SetID": "a0o8p8j",
       "Name": "HSA - 25",
-      "Percentage": 0,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_HSA_26",
       "SetID": "a0o8p8j",
       "Name": "HSA - 26",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_27",
       "SetID": "a0o8p8j",
       "Name": "HSA - 27",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_28",
       "SetID": "a0o8p8j",
       "Name": "HSA - 28",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_29",
       "SetID": "a0o8p8j",
       "Name": "HSA - 29",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSA_30",
       "SetID": "a0o8p8j",
       "Name": "HSA - 30",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_31",
       "SetID": "a0o8p8j",
       "Name": "HSA - 31",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSA_32",
       "SetID": "a0o8p8j",
       "Name": "HSA - 32",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSA_33",
       "SetID": "a0o8p8j",
       "Name": "HSA - 33",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSA_34",
       "SetID": "a0o8p8j",
       "Name": "HSA - 34",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_35",
       "SetID": "a0o8p8j",
       "Name": "HSA - 35",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_36",
       "SetID": "a0o8p8j",
       "Name": "HSA - 36",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_37",
       "SetID": "a0o8p8j",
       "Name": "HSA - 37",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_38",
       "SetID": "a0o8p8j",
       "Name": "HSA - 38",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSA_39",
       "SetID": "a0o8p8j",
       "Name": "HSA - 39",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_40",
       "SetID": "a0o8p8j",
       "Name": "HSA - 40",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_41",
       "SetID": "a0o8p8j",
       "Name": "HSA - 41",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSA_42_Full",
       "SetID": "a0o8p8j",
       "Name": "HSA - 42",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "a0o8p8j",
       "IsBase": true,
-      "Progressed": 1,
-      "Completed": 0
+      "Progressed": 75,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2024-04-28T13:57:49.6966452+00:00",
   "FirstSeenAchievements": "2024-04-05T15:01:38.5933324+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:06:34.6542336+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:17:18.2210006+00:00",
   "LastUpdate_AppInfo": "2024-06-13T17:57:17.8238449+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:01:37.7444342+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:06:34.6542584+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:00:30.4115503+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:17:18.221029+00:00"
 }

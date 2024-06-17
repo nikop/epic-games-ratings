@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start of a Journey | 92.00% | ~91 |
-| A thing of beauty | 87.00% | ~86 |
-| Escape the Maze | 58.00% | ~57 |
-| Brace the cold | 40.00% | ~40 |
-| A Long Walk | 38.00% | ~38 |
-| Dont mind the heat | 19.00% | ~19 |
-| City of Puzzles | 12.00% | ~12 |
-| This field of danger | 12.00% | ~12 |
-| Labyrinths of the Mind | 12.00% | ~12 |
-| A Terrifying Blizzard | 8.00% | ~8 |
-| A Dangerous Road | 7.00% | ~7 |
-| Scorched Ruins | 5.00% | ~5 |
-| City of Illusion | 5.00% | ~5 |
-| Kill the Flames | 4.00% | ~4 |
-| Find the Light | 4.00% | ~4 |
-| Fight and Overcome | 3.00% | ~3 |
-| A Walk to the End | 3.00% | ~3 |
-| The Final Test | 3.00% | ~3 |
-| A Journey's End | 3.00% | ~3 |
-| A Stone Left Unturned | 1.00% | ~1 |
-| Celibacy/Delicacy | 1.00% | ~1 |
-| No End is Eternal | 0.00% | ~0 |
-| Tranquility/Resilience | 0.00% | ~0 |
-| Recovery/Imagination | 0.00% | ~0 |
-| Infatuation/Strength | 0.00% | ~0 |
-| Love/Indulgence | 0.00% | ~0 |
-| Innocence/Transformation | 0.00% | ~0 |
-| Constellation of Beauty | 0.00% | ~0 |
-| Quickstart to a Journey | 0.00% | ~0 |
-| Race the Maze | 0.00% | ~0 |
-| A chilly jog | 0.00% | ~0 |
-| Run the road | 0.00% | ~0 |
-| Sweat, Sweat, Sweat | 0.00% | ~0 |
-| A Quick Solver | 0.00% | ~0 |
-| Fast and Careful | 0.00% | ~0 |
-| Labyrinths of Time | 0.00% | ~0 |
-| A Cold Drill | 0.00% | ~0 |
-| A Dangerous Run | 0.00% | ~0 |
-| Sprint of Fire | 0.00% | ~0 |
-| Quick City Trip | 0.00% | ~0 |
-| Flames of Haste | 0.00% | ~0 |
-| Chase the Light | 0.00% | ~0 |
-| Exercising in the Cold | 0.00% | ~0 |
-| Rev your engines | 0.00% | ~0 |
-| The Final Race | 0.00% | ~0 |
-| A Speedy Journey | 0.00% | ~0 |
-| A Quick Secret | 0.00% | ~0 |
+| Start of a Journey | 91.00% | ~100 |
+| A thing of beauty | 84.00% | ~92 |
+| Escape the Maze | 56.00% | ~62 |
+| Brace the cold | 38.00% | ~42 |
+| A Long Walk | 36.00% | ~40 |
+| Dont mind the heat | 19.00% | ~21 |
+| City of Puzzles | 12.00% | ~13 |
+| This field of danger | 12.00% | ~13 |
+| Labyrinths of the Mind | 12.00% | ~13 |
+| A Terrifying Blizzard | 8.00% | ~9 |
+| A Dangerous Road | 7.00% | ~8 |
+| Scorched Ruins | 5.00% | ~6 |
+| City of Illusion | 5.00% | ~6 |
+| Kill the Flames | 5.00% | ~6 |
+| Find the Light | 5.00% | ~6 |
+| Fight and Overcome | 4.00% | ~4 |
+| A Walk to the End | 4.00% | ~4 |
+| The Final Test | 4.00% | ~4 |
+| A Journey's End | 4.00% | ~4 |
+| A Stone Left Unturned | 2.00% | ~2 |
+| Celibacy/Delicacy | 2.00% | ~2 |
+| No End is Eternal | 0.90% | ~1 |
+| Tranquility/Resilience | 0.90% | ~1 |
+| Recovery/Imagination | 0.90% | ~1 |
+| Infatuation/Strength | 0.90% | ~1 |
+| Love/Indulgence | 0.90% | ~1 |
+| Innocence/Transformation | 0.90% | ~1 |
+| Constellation of Beauty | 0.90% | ~1 |
+| Quickstart to a Journey | 0.90% | ~1 |
+| Race the Maze | 0.90% | ~1 |
+| A chilly jog | 0.90% | ~1 |
+| Run the road | 0.90% | ~1 |
+| Sweat, Sweat, Sweat | 0.90% | ~1 |
+| A Quick Solver | 0.90% | ~1 |
+| Fast and Careful | 0.90% | ~1 |
+| Labyrinths of Time | 0.90% | ~1 |
+| A Cold Drill | 0.90% | ~1 |
+| A Dangerous Run | 0.90% | ~1 |
+| Sprint of Fire | 0.90% | ~1 |
+| Quick City Trip | 0.90% | ~1 |
+| Flames of Haste | 0.90% | ~1 |
+| Chase the Light | 0.90% | ~1 |
+| Exercising in the Cold | 0.90% | ~1 |
+| Rev your engines | 0.90% | ~1 |
+| The Final Race | 0.90% | ~1 |
+| A Speedy Journey | 0.90% | ~1 |
+| A Quick Secret | 0.90% | ~1 |
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 575)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 110 (Ranked 619)  
+Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -121,3 +121,4 @@ Completed: 0 (0.00%) (Ranked 458)
 | 2024-02-22 | 89 | 0 |
 | 2024-03-21 | 94 | 0 |
 | 2024-04-10 | 99 | 0 |
+| 2024-06-17 | 110 | 0 |

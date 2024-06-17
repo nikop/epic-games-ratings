@@ -6,53 +6,53 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 85.00% | ~541 |
-| Mash Machine | 78.00% | ~497 |
-| Ducks in a Row, Fish in a Barrel | 59.00% | ~376 |
-| Furon Fashion | 50.00% | ~318 |
-| Shop Til They Drop | 43.00% | ~274 |
-| Bodied Sattva | 42.00% | ~268 |
-| Cult Following | 39.00% | ~248 |
-| Earthly Pleasures | 38.00% | ~242 |
-| Lie Back and Think of Albion | 30.00% | ~191 |
-| Upgreatest | 30.00% | ~191 |
-| Pimp My Raid | 29.00% | ~185 |
-| I Look Up As I Walk to Takoshima | 25.00% | ~159 |
-| Freshly Squeezed | 24.00% | ~153 |
-| Die Nasty | 22.00% | ~140 |
-| Perfect Probulator | 20.00% | ~127 |
-| Transmitting From Sol-3 | 18.00% | ~115 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 16.00% | ~102 |
-| Kaijuiced | 14.00% | ~89 |
-| Dusted | 14.00% | ~89 |
-| Fly Me to the Moon Base | 13.00% | ~83 |
-| Scuttled | 11.00% | ~70 |
-| Lobster Blisque | 9.00% | ~57 |
-| Re-Return of the Clone of the Invasion II-2 | 9.00% | ~57 |
-| Yettisoned | 7.00% | ~45 |
-| Ultimate Smoothie | 6.00% | ~38 |
-| Arkvoodle Doodle | 6.00% | ~38 |
-| Deincarnated | 4.00% | ~25 |
-| Arty Facts | 2.00% | ~13 |
-| Against All Odds | 2.00% | ~13 |
-| Forbidden Donut | 2.00% | ~13 |
-| The Optional Mandate | 2.00% | ~13 |
-| Higher Than the Futen Zoku | 2.00% | ~13 |
-| PK Slam Dunk | 1.00% | ~6 |
-| Gotta Catch All the Pop Art | 1.00% | ~6 |
-| This Is Earth Radio | 1.00% | ~6 |
-| Hidden Human Hive Harvest | 1.00% | ~6 |
-| Toilet Break | 1.00% | ~6 |
-| Albion Bridge Is for Falling Down | 1.00% | ~6 |
-| Ouch of Body Experience | 1.00% | ~6 |
-| To Russia With Love | 1.00% | ~6 |
-| If You Know What I Mean | 1.00% | ~6 |
-| Steezy Down the Spine | 0.90% | ~6 |
-| Path of the Furon | 0.90% | ~6 |
-| Trans-Siberian Express | 0.90% | ~6 |
+| Rock of the Bay | 86.00% | ~703 |
+| Mash Machine | 80.00% | ~654 |
+| Ducks in a Row, Fish in a Barrel | 61.00% | ~498 |
+| Furon Fashion | 52.00% | ~425 |
+| Shop Til They Drop | 46.00% | ~376 |
+| Bodied Sattva | 45.00% | ~368 |
+| Cult Following | 40.00% | ~327 |
+| Earthly Pleasures | 40.00% | ~327 |
+| Lie Back and Think of Albion | 33.00% | ~270 |
+| Upgreatest | 32.00% | ~261 |
+| Pimp My Raid | 30.00% | ~245 |
+| I Look Up As I Walk to Takoshima | 25.00% | ~204 |
+| Freshly Squeezed | 25.00% | ~204 |
+| Die Nasty | 22.00% | ~180 |
+| Perfect Probulator | 21.00% | ~172 |
+| Transmitting From Sol-3 | 19.00% | ~155 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 17.00% | ~139 |
+| Kaijuiced | 15.00% | ~123 |
+| Dusted | 14.00% | ~114 |
+| Fly Me to the Moon Base | 13.00% | ~106 |
+| Scuttled | 11.00% | ~90 |
+| Lobster Blisque | 9.00% | ~74 |
+| Re-Return of the Clone of the Invasion II-2 | 9.00% | ~74 |
+| Yettisoned | 8.00% | ~65 |
+| Ultimate Smoothie | 6.00% | ~49 |
+| Arkvoodle Doodle | 6.00% | ~49 |
+| Deincarnated | 4.00% | ~33 |
+| Against All Odds | 2.00% | ~16 |
+| Forbidden Donut | 2.00% | ~16 |
+| Hidden Human Hive Harvest | 2.00% | ~16 |
+| The Optional Mandate | 2.00% | ~16 |
+| Higher Than the Futen Zoku | 2.00% | ~16 |
+| PK Slam Dunk | 1.00% | ~8 |
+| Arty Facts | 1.00% | ~8 |
+| Gotta Catch All the Pop Art | 1.00% | ~8 |
+| This Is Earth Radio | 1.00% | ~8 |
+| Toilet Break | 1.00% | ~8 |
+| Albion Bridge Is for Falling Down | 1.00% | ~8 |
+| Ouch of Body Experience | 1.00% | ~8 |
+| To Russia With Love | 1.00% | ~8 |
+| If You Know What I Mean | 1.00% | ~8 |
+| Steezy Down the Spine | 1.00% | ~8 |
+| Path of the Furon | 1.00% | ~8 |
+| Trans-Siberian Express | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 637 (Ranked 385)  
-Completed: 2 (0.31%) (Ranked 298)  
+Progressed: 817 (Ranked 404)  
+Completed: 3 (0.37%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,6 +116,7 @@ Completed: 2 (0.31%) (Ranked 298)
 | 2024-02-22 | 537 | 2 |
 | 2024-03-21 | 599 | 2 |
 | 2024-04-10 | 637 | 2 |
+| 2024-06-17 | 817 | 3 |
 ## Awards
 Max (Great Boss Battles): 39  (Ranked 552)  
 Sum: 39 (Ranked 603)  

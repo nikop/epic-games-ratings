@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 73.00% | ~78 |
-| Complete Level 1-1 | 64.00% | ~68 |
-| Immortal | 55.00% | ~59 |
-| Complete Level 1-2 | 46.00% | ~49 |
-| Scraping by | 34.00% | ~36 |
-| Engineer-mage hybrid | 33.00% | ~35 |
-| Complete Level 1-3 | 32.00% | ~34 |
+| What is this? | 73.00% | ~79 |
+| Complete Level 1-1 | 64.00% | ~69 |
+| Immortal | 56.00% | ~60 |
+| Complete Level 1-2 | 45.00% | ~49 |
+| Scraping by | 33.00% | ~36 |
+| Engineer-mage hybrid | 33.00% | ~36 |
+| Complete Level 1-3 | 31.00% | ~33 |
 | Defeat the warrior boss | 24.00% | ~26 |
 | Get out of my way | 22.00% | ~24 |
-| Redecorator | 21.00% | ~22 |
-| Just a sip | 20.00% | ~21 |
-| Complete Level 2-1 | 19.00% | ~20 |
-| Complete Level 2-2 | 19.00% | ~20 |
+| Redecorator | 20.00% | ~22 |
+| Just a sip | 19.00% | ~21 |
+| Complete Level 2-1 | 19.00% | ~21 |
+| Complete Level 2-2 | 19.00% | ~21 |
 | Complete Level 2-3 | 16.00% | ~17 |
 | Defeat the engineer boss | 15.00% | ~16 |
 | Versatile | 15.00% | ~16 |
 | Well-off | 13.00% | ~14 |
 | Too many crates | 13.00% | ~14 |
 | Complete Level 3-1 | 13.00% | ~14 |
-| Engineer-warrior hybrid | 12.00% | ~13 |
+| Engineer-warrior hybrid | 13.00% | ~14 |
 | Baby steps | 11.00% | ~12 |
 | Complete Level 3-2 | 11.00% | ~12 |
 | Party popper | 11.00% | ~12 |
@@ -31,8 +31,8 @@
 | Drink up | 9.00% | ~10 |
 | Mage-warrior hybrid | 9.00% | ~10 |
 | Complete Level 3-3 | 8.00% | ~9 |
-| Defeat the mage boss | 7.00% | ~7 |
-| Mage specialist | 7.00% | ~7 |
+| Mage specialist | 7.00% | ~8 |
+| Defeat the mage boss | 6.00% | ~6 |
 | Remote retrieved | 6.00% | ~6 |
 | Engineer specialist | 6.00% | ~6 |
 | Way of the mage | 6.00% | ~6 |
@@ -51,8 +51,8 @@
 | Almost there | 0.90% | ~1 |
 | Go go go | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 565)  
-Completed: 1 (0.93%) (Ranked 216)  
+Progressed: 108 (Ranked 621)  
+Completed: 1 (0.93%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 1 (0.93%) (Ranked 216)
 | 2024-01-04 | 105 | 1 |
 | 2024-01-20 | 106 | 1 |
 | 2024-03-21 | 107 | 1 |
+| 2024-06-17 | 108 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "2f0ada8893114e90910b83b554e5e9e7",
   "Name": "LOOPMANCER",
   "ProductSlug": "loopmancer",
-  "Ranking_EOS_Progress": 563,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 619,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -646,9 +646,9 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 112,
+      "Percentage": 114,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_AVOID_PLAZA_ATTACK",
@@ -662,9 +662,9 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 117,
+      "Percentage": 118,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
@@ -862,9 +862,9 @@
       "ID": "ACH_LET_GANGSTER_GO",
       "SetID": "6d82akp",
       "Name": "Disdain",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_LISTEN_TO_CLASSIC_MUSIC",
@@ -894,9 +894,9 @@
       "ID": "ACH_NOT_TUMBLE_DOWN",
       "SetID": "6d82akp",
       "Name": "Once Bitten, Twice Shy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_ONCE_OVERKILL_MANY_DIE",
@@ -1062,9 +1062,9 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 88,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_UNPLUG_EBRAIN",
@@ -1086,9 +1086,9 @@
       "ID": "ACH_WEILONG_NANOKILL",
       "SetID": "6d82akp",
       "Name": "Neutralize",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_XFGZ_FALL_SEABASE",
@@ -1111,8 +1111,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2024-04-10T06:05:19.2068428+00:00",
+  "LastChanged_Achievements": "2024-06-17T16:15:06.9679337+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:17.5211954+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:05.3810779+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:05:19.2068812+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:02:58.8795267+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:15:06.968001+00:00"
 }

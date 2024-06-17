@@ -5,73 +5,74 @@ Rating: 4.27 (Ranked 984)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trial By Fire | 96.00% | ~580 |
-| Cleaning Out the Closet | 92.00% | ~556 |
-| Hitting The Fan | 86.00% | ~519 |
-| Fowl Play | 83.00% | ~501 |
-| Walled In | 64.00% | ~387 |
-| Death Blooms | 61.00% | ~368 |
-| Blitzkrieg Bop | 56.00% | ~338 |
-| Level Up | 54.00% | ~326 |
-| Thunderstruck! | 46.00% | ~278 |
-| Hell and Back | 43.00% | ~260 |
-| Blackest Night | 42.00% | ~254 |
-| Choices | 40.00% | ~242 |
-| Endgame | 36.00% | ~217 |
-| Managing People | 33.00% | ~199 |
-| Abandon All Hope | 33.00% | ~199 |
-| Act of War | 32.00% | ~193 |
-| No One Defeats Brainiac! | 27.00% | ~163 |
-| Choice of Evils | 25.00% | ~151 |
-| Stop Me If You've Heard This One | 21.00% | ~127 |
-| The Chosen One | 21.00% | ~127 |
-| Winged Vengeance | 18.00% | ~109 |
-| Turn and Turn Again | 18.00% | ~109 |
-| Your World is Mine! | 16.00% | ~97 |
-| War Machine | 15.00% | ~91 |
-| Shock Treatment | 14.00% | ~85 |
-| History Repeats | 13.00% | ~79 |
-| Forces In Motion | 11.00% | ~66 |
-| Battle Lines | 9.00% | ~54 |
-| The Right Question | 9.00% | ~54 |
-| Welcome to the Jungle! | 8.00% | ~48 |
-| Their Dark Designs | 8.00% | ~48 |
-| Harleen the Queen | 8.00% | ~48 |
-| Lawton's Last Stand | 8.00% | ~48 |
-| Combine and Conquer | 7.00% | ~42 |
-| Killin' Time | 7.00% | ~42 |
-| The Venom Connection | 7.00% | ~42 |
-| Captain Boomerang! Agent of Oz | 6.00% | ~36 |
-| Grand Experiment | 6.00% | ~36 |
-| Into the Angry Planet | 5.00% | ~30 |
-| The Final Frontier | 4.00% | ~24 |
-| King For A Day | 4.00% | ~24 |
-| Allies | 4.00% | ~24 |
-| Number the Dead | 4.00% | ~24 |
-| Blaze of Glory | 3.00% | ~18 |
-| The Real Deal | 1.00% | ~6 |
-| Trial by Blood | 1.00% | ~6 |
-| All Sorts of Fun | 1.00% | ~6 |
-| The Reaper | 1.00% | ~6 |
-| Need to Know | 0.80% | ~5 |
-| The Oldest One in the Book! | 0.20% | ~1 |
+| Trial By Fire | 86.00% | ~2,953 |
+| Cleaning Out the Closet | 81.00% | ~2,782 |
+| Hitting The Fan | 74.00% | ~2,541 |
+| Fowl Play | 67.00% | ~2,301 |
+| Walled In | 51.00% | ~1,751 |
+| Death Blooms | 49.00% | ~1,683 |
+| Level Up | 43.00% | ~1,477 |
+| Blitzkrieg Bop | 42.00% | ~1,442 |
+| Thunderstruck! | 36.00% | ~1,236 |
+| Hell and Back | 35.00% | ~1,202 |
+| Blackest Night | 33.00% | ~1,133 |
+| Endgame | 29.00% | ~996 |
+| Choices | 29.00% | ~996 |
+| Abandon All Hope | 28.00% | ~962 |
+| Managing People | 24.00% | ~824 |
+| No One Defeats Brainiac! | 23.00% | ~790 |
+| Act of War | 21.00% | ~721 |
+| Choice of Evils | 17.00% | ~584 |
+| The Chosen One | 15.00% | ~515 |
+| Winged Vengeance | 14.00% | ~481 |
+| Your World is Mine! | 14.00% | ~481 |
+| Stop Me If You've Heard This One | 14.00% | ~481 |
+| Turn and Turn Again | 13.00% | ~446 |
+| War Machine | 12.00% | ~412 |
+| Shock Treatment | 12.00% | ~412 |
+| History Repeats | 10.00% | ~343 |
+| Lawton's Last Stand | 8.00% | ~275 |
+| Forces In Motion | 8.00% | ~275 |
+| Welcome to the Jungle! | 7.00% | ~240 |
+| Their Dark Designs | 7.00% | ~240 |
+| Harleen the Queen | 7.00% | ~240 |
+| Combine and Conquer | 6.00% | ~206 |
+| Battle Lines | 6.00% | ~206 |
+| The Right Question | 6.00% | ~206 |
+| Captain Boomerang! Agent of Oz | 6.00% | ~206 |
+| King For A Day | 5.00% | ~172 |
+| The Venom Connection | 5.00% | ~172 |
+| Grand Experiment | 5.00% | ~172 |
+| Killin' Time | 4.00% | ~137 |
+| Allies | 4.00% | ~137 |
+| Into the Angry Planet | 3.00% | ~103 |
+| Blaze of Glory | 3.00% | ~103 |
+| Number the Dead | 3.00% | ~103 |
+| The Final Frontier | 2.00% | ~69 |
+| The Real Deal | 1.00% | ~34 |
+| The Oldest One in the Book! | 1.00% | ~34 |
+| Trial by Blood | 1.00% | ~34 |
+| Need to Know | 1.00% | ~34 |
+| All Sorts of Fun | 0.90% | ~31 |
+| The Reaper | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 458)  
+Progressed: 3,434 (Ranked 284)  
+Completed: 2 (0.06%) (Ranked 423)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-10 | 604 | 0 |
+| 2024-06-17 | 3,434 | 2 |
 ## Awards
 Max (Great Boss Battles): 261  (Ranked 309)  
-Sum: 483 (Ranked 387)  
+Sum: 484 (Ranked 387)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 261 |
 | This game is Great for Beginners | 33 |
 | This game has Diverse Characters | 33 |
-| This game is Highly Recommended | 31 |
+| This game is Highly Recommended | 32 |
 | This game is Extremely Fun | 27 |
 | This game has Quickly Understood Controls | 27 |
 | This game has Amazing Storytelling | 27 |
@@ -147,4 +148,4 @@ Diff (max vs sum): -78
 | 2024-06-14 | 4.27 | 245 | 433 |
 | 2024-06-15 | 4.27 | 250 | 445 |
 | 2024-06-16 | 4.27 | 253 | 454 |
-| 2024-06-17 | 4.27 | 261 | 483 |
+| 2024-06-17 | 4.27 | 261 | 484 |

@@ -2,10 +2,10 @@
   "ID": "e8f68f559c424bb595657875ed90131a",
   "Name": "Void Prison",
   "ProductSlug": "void-prison-de816b",
-  "Ranking_EOS_Progress": 987,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-31T09:00:00+00:00",
     "PcReleaseDate": "2022-05-18T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-16T19:57:28.5268552+00:00",
-  "LastUpdate_Ratings": "2024-06-17T14:58:33.9984934+00:00",
-  "LastUpdate_Achievements": "2024-04-10T06:04:44.265863+00:00"
+  "LastUpdate_Ratings": "2024-06-17T16:04:04.6147863+00:00",
+  "LastUpdate_Achievements": "2024-06-17T16:14:01.3433205+00:00"
 }
