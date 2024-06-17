@@ -2,7 +2,7 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 74,
   "Ranking_EOS_Progress": 1087,
@@ -17122,11 +17122,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 18061,
       "NumberOfAwardsMax": 2330
+    },
+    {
+      "Time": "2024-06-17T19:57:46.4558569+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 18066,
+      "NumberOfAwardsMax": 2333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18061,
-  "NumberOfAwardsMax": 2330,
+  "NumberOfAwards": 18066,
+  "NumberOfAwardsMax": 2333,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -17139,7 +17145,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2330
+      "Count": 2333
     },
     {
       "Text": "This game has Amazing Characters",
@@ -17157,7 +17163,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2142
+      "Count": 2143
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17169,7 +17175,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1959
+      "Count": 1960
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -17201,8 +17207,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2024-06-17T08:58:45.2102331+00:00",
+  "LastChanged": "2024-06-17T19:57:46.4558567+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:16.6634884+00:00",
-  "LastUpdate_Ratings": "2024-06-17T17:58:54.9521911+00:00",
+  "LastUpdate_Ratings": "2024-06-17T19:57:46.4558575+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:52.2469825+00:00"
 }

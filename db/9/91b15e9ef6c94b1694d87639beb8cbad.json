@@ -3,8 +3,8 @@
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
   "Ranking_Rating": 1027,
-  "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 301,
+  "Ranking_Popularity": 380,
+  "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -360,11 +360,17 @@
       "Rating": 4.23,
       "NumberOfAwards": 1017,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2024-06-17T19:59:47.0346032+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1084,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1017,
-  "NumberOfAwardsMax": 116,
+  "NumberOfAwards": 1084,
+  "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -383,7 +389,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 116
+      "Count": 145
     },
     {
       "Text": "This game is Highly Recommended",
@@ -407,7 +413,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 77
+      "Count": 96
     },
     {
       "Text": "This game is Extremely Fun",
@@ -425,7 +431,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 89
+      "Count": 108
     },
     {
       "Text": "This game has Competitive Players",
@@ -446,8 +452,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-06-17T16:01:12.3429866+00:00",
+  "LastChanged": "2024-06-17T19:59:47.034603+00:00",
   "LastUpdate_AppInfo": "2024-06-16T13:00:59.3551343+00:00",
-  "LastUpdate_Ratings": "2024-06-17T18:57:44.997888+00:00",
+  "LastUpdate_Ratings": "2024-06-17T19:59:47.0346035+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.2786758+00:00"
 }
