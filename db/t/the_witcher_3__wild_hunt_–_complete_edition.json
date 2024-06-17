@@ -4,7 +4,7 @@
   "ProductSlug": "the-witcher-3-wild-hunt",
   "Ranking_Rating": 10,
   "Ranking_Popularity": 21,
-  "Ranking_PopularitySum": 25,
+  "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -23198,10 +23198,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 83617,
       "NumberOfAwardsMax": 28425
+    },
+    {
+      "Time": "2024-06-17T11:58:27.1484788+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 83631,
+      "NumberOfAwardsMax": 28425
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 83617,
+  "NumberOfAwards": 83631,
   "NumberOfAwardsMax": 28425,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -23239,7 +23245,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5635
+      "Count": 5641
     },
     {
       "Text": "This game has Amazing Characters",
@@ -23269,7 +23275,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 5704
+      "Count": 5712
     },
     {
       "Text": "This game has a Creative Community",
@@ -23289,8 +23295,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2024-06-17T06:58:59.328114+00:00",
+  "LastChanged": "2024-06-17T11:58:27.1484786+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:07.4488666+00:00",
-  "LastUpdate_Ratings": "2024-06-17T10:00:40.6033536+00:00",
+  "LastUpdate_Ratings": "2024-06-17T11:58:27.1484793+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:04:12.2735856+00:00"
 }
