@@ -3,8 +3,8 @@
   "Name": "Outlast 2",
   "ProductSlug": "outlast-2",
   "Ranking_Rating": 323,
-  "Ranking_Popularity": 657,
-  "Ranking_PopularitySum": 657,
+  "Ranking_Popularity": 658,
+  "Ranking_PopularitySum": 658,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -379,6 +379,6 @@
   "FirstSeenRating": "2022-10-23T03:31:57.5204331+00:00",
   "LastChanged": "2024-06-13T03:00:02.3474036+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:15.9276888+00:00",
-  "LastUpdate_Ratings": "2024-06-17T17:58:16.1726515+00:00",
+  "LastUpdate_Ratings": "2024-06-17T19:00:10.2862995+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:28.6657174+00:00"
 }

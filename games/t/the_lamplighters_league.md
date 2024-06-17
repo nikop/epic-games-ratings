@@ -1,7 +1,14 @@
 # The Lamplighters League
 [Store](https://store.epicgames.com/en-US/p/the-lamplighters-league)  
 [View Rawdata](../../db/t/the_lamplighters_league.json)  
-Rating: 4.47 (Ranked 710)  
+Rating: 4.44 (Ranked 756)  
+## Awards
+Max (Character Customization): 20  (Ranked 650)  
+Sum: 20 (Ranked 650)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game has Inclusive Character Customization | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -27,3 +34,4 @@ Rating: 4.47 (Ranked 710)
 | 2024-05-23 | 4.47 | 0 | 0 |
 | 2024-06-02 | 4.46 | 0 | 0 |
 | 2024-06-16 | 4.47 | 0 | 0 |
+| 2024-06-17 | 4.44 | 20 | 20 |
