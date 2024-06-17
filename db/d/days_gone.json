@@ -2,7 +2,7 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 279,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 1087,
@@ -6773,10 +6773,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 8193,
       "NumberOfAwardsMax": 4675
+    },
+    {
+      "Time": "2024-06-17T22:58:39.2265443+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 8195,
+      "NumberOfAwardsMax": 4675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8193,
+  "NumberOfAwards": 8195,
   "NumberOfAwardsMax": 4675,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6790,7 +6796,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 423
+      "Count": 425
     },
     {
       "Text": "This game is Relaxing",
@@ -6864,8 +6870,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2024-06-17T11:59:57.848283+00:00",
+  "LastChanged": "2024-06-17T22:58:39.2265441+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:29.2120333+00:00",
-  "LastUpdate_Ratings": "2024-06-17T21:01:02.3816861+00:00",
+  "LastUpdate_Ratings": "2024-06-17T22:58:39.2265448+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:50.0710032+00:00"
 }
