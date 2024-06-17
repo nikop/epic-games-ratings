@@ -1,7 +1,7 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.39 (Ranked 849)  
+Rating: 4.38 (Ranked 860)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -412,3 +412,4 @@ Diff (max vs sum): -10
 | 2024-06-06 | 4.38 | 23 | 23 |
 | 2024-06-11 | 4.39 | 23 | 23 |
 | 2024-06-15 | 4.39 | 24 | 24 |
+| 2024-06-17 | 4.38 | 24 | 24 |

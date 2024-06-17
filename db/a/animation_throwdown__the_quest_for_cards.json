@@ -4,7 +4,7 @@
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
   "Ranking_Rating": 945,
   "Ranking_Popularity": 256,
-  "Ranking_PopularitySum": 201,
+  "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -3977,10 +3977,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 3196,
       "NumberOfAwardsMax": 440
+    },
+    {
+      "Time": "2024-06-17T20:58:01.5145057+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 3198,
+      "NumberOfAwardsMax": 440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3196,
+  "NumberOfAwards": 3198,
   "NumberOfAwardsMax": 440,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4006,7 +4012,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 419
+      "Count": 421
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4056,8 +4062,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-06-17T18:58:57.1476056+00:00",
+  "LastChanged": "2024-06-17T20:58:01.5145055+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:23.9637953+00:00",
-  "LastUpdate_Ratings": "2024-06-17T18:58:57.1476062+00:00",
+  "LastUpdate_Ratings": "2024-06-17T20:58:01.5145062+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:10.9679903+00:00"
 }

@@ -3,8 +3,8 @@
 [View Rawdata](../../db/b/blood_bowl_3.json)  
 Rating: 3.90 (Ranked 1,176)  
 ## Awards
-Max (Diverse Characters): 20  (Ranked 650)  
-Sum: 20 (Ranked 650)  
+Max (Diverse Characters): 20  (Ranked 651)  
+Sum: 20 (Ranked 651)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
