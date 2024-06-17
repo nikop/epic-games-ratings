@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 188,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 199,
+  "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3053,10 +3053,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 3213,
       "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2024-06-17T01:57:24.150013+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 3223,
+      "NumberOfAwardsMax": 817
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3213,
+  "NumberOfAwards": 3223,
   "NumberOfAwardsMax": 817,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3082,7 +3088,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 173
+      "Count": 183
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3163,8 +3169,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-16T21:59:20.5453103+00:00",
+  "LastChanged": "2024-06-17T01:57:24.1500129+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:43.9534656+00:00",
-  "LastUpdate_Ratings": "2024-06-16T23:57:08.3630703+00:00",
+  "LastUpdate_Ratings": "2024-06-17T01:57:24.1500133+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }

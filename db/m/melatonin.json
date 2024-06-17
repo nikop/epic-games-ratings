@@ -2,7 +2,7 @@
   "ID": "e42a1909bc4a46b88ad8435441817b56",
   "Name": "Melatonin",
   "ProductSlug": "melatonin-f16dcb",
-  "Ranking_Rating": 86,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 657,
   "Ranking_PopularitySum": 657,
   "Ranking_EOS_Progress": 987,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:11.2547735+00:00",
@@ -39,6 +39,12 @@
     {
       "Time": "2024-06-05T22:59:22.1109879+00:00",
       "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-17T01:56:41.864305+00:00",
+      "Rating": 4.82,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -59,8 +65,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-20T02:06:00.0748142+00:00",
   "FirstSeenRating": "2023-03-31T05:58:11.2547734+00:00",
-  "LastChanged": "2024-06-05T22:59:22.1109877+00:00",
+  "LastChanged": "2024-06-17T01:56:41.8643048+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:09.3879952+00:00",
-  "LastUpdate_Ratings": "2024-06-16T23:00:53.3286696+00:00",
+  "LastUpdate_Ratings": "2024-06-17T01:56:41.8643053+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:08.4876468+00:00"
 }

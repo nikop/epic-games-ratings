@@ -4,7 +4,7 @@
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 523,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 25,
@@ -10212,6 +10212,6 @@
   "LastChanged": "2024-06-14T06:57:50.498326+00:00",
   "LastChanged_Achievements": "2024-04-10T06:05:25.6710739+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:57.4269255+00:00",
-  "LastUpdate_Ratings": "2024-06-16T23:00:02.9496343+00:00",
+  "LastUpdate_Ratings": "2024-06-17T01:55:53.2837084+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:05:25.6711237+00:00"
 }
