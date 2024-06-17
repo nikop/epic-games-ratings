@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 188,
   "Ranking_Popularity": 201,
-  "Ranking_PopularitySum": 198,
+  "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 987,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 25,
@@ -3065,18 +3065,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 3236,
       "NumberOfAwardsMax": 817
+    },
+    {
+      "Time": "2024-06-17T09:59:24.1844146+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 3298,
+      "NumberOfAwardsMax": 852
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3236,
-  "NumberOfAwardsMax": 817,
+  "NumberOfAwards": 3298,
+  "NumberOfAwardsMax": 852,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 817
+      "Count": 852
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3100,13 +3106,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 181
+      "Count": 191
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 163
+      "Count": 172
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3142,7 +3148,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 176
+      "Count": 184
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3175,8 +3181,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-17T08:00:58.7923706+00:00",
+  "LastChanged": "2024-06-17T09:59:24.1844145+00:00",
   "LastUpdate_AppInfo": "2024-06-13T02:24:43.9534656+00:00",
-  "LastUpdate_Ratings": "2024-06-17T08:00:58.7923711+00:00",
+  "LastUpdate_Ratings": "2024-06-17T09:59:24.1844151+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:03:51.196973+00:00"
 }
