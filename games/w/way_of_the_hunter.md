@@ -90,7 +90,7 @@ Completed: 1 (0.02%) (Ranked 416)
 | 2024-04-10 | 4,173 | 1 |
 ## Awards
 Max (Great for Beginners): 102  (Ranked 426)  
-Sum: 659 (Ranked 355)  
+Sum: 661 (Ranked 355)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -102,7 +102,7 @@ Diff (max vs sum): 71
 | This game is Extremely Fun | 68 |
 | This game is Educational | 65 |
 | This game has Amazing Characters | 62 |
-| This game has Realistic Visuals | 58 |
+| This game has Realistic Visuals | 60 |
 | This game has a Creative Community | 40 |
 | This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 25 |
@@ -418,3 +418,4 @@ Diff (max vs sum): 71
 | 2024-06-12 | 4.42 | - | 102 | 651 |
 | 2024-06-14 | 4.42 | - | 102 | 657 |
 | 2024-06-15 | 4.42 | - | 102 | 659 |
+| 2024-06-16 | 4.42 | - | 102 | 661 |

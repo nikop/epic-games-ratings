@@ -22991,18 +22991,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 431238,
       "NumberOfAwardsMax": 55550
+    },
+    {
+      "Time": "2024-06-16T23:57:56.7839956+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 431555,
+      "NumberOfAwardsMax": 55645
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 431238,
-  "NumberOfAwardsMax": 55550,
+  "NumberOfAwards": 431555,
+  "NumberOfAwardsMax": 55645,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 55550
+      "Count": 55645
     },
     {
       "Text": "This game is Highly Recommended",
@@ -23026,13 +23032,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 43647
+      "Count": 43725
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 43824
+      "Count": 43881
     },
     {
       "Text": "This game is Relaxing",
@@ -23050,7 +23056,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 38346
+      "Count": 38395
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -23062,7 +23068,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 29805
+      "Count": 29843
     }
   ],
   "EOS_Progressed": 0,
@@ -23076,8 +23082,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-06-16T20:57:58.1854643+00:00",
+  "LastChanged": "2024-06-16T23:57:56.7839954+00:00",
   "LastUpdate_AppInfo": "2024-06-10T02:57:57.0075816+00:00",
-  "LastUpdate_Ratings": "2024-06-16T22:00:32.2573973+00:00",
+  "LastUpdate_Ratings": "2024-06-16T23:57:56.7839961+00:00",
   "LastUpdate_Achievements": "2024-04-10T06:02:42.032926+00:00"
 }
