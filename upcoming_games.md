@@ -161,6 +161,7 @@
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |
 | [England In London](games/9/9a648ce6a6634184ad45f5fe3788a3c2.md) | 2024-12-31 | - |  | - | - |
 | [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
+| [Evershire](games/8/82d7f438164d4ed182d27265c63574fc.md) | 2024-12-31 | - |  | - | - |
 | [Everstorm](games/2/2247c107d7f74b8bb72445b10b6c1eae.md) | 2024-12-31 | - |  | - | - |
 | [Fata Deum](games/f/fata_deum.md) | 2024-12-31 | - |  | - | - |
 | [Feverdream: Rainbow Chaser](games/4/4838b0b4a084422997a5b43a29ba8fd6.md) | 2024-12-31 | - |  | - | - |
