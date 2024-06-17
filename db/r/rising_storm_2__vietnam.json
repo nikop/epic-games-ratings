@@ -3,8 +3,8 @@
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 680,
-  "Ranking_Popularity": 169,
-  "Ranking_PopularitySum": 118,
+  "Ranking_Popularity": 167,
+  "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -12730,18 +12730,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 9749,
       "NumberOfAwardsMax": 1147
+    },
+    {
+      "Time": "2024-06-17T17:57:45.3800968+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 9754,
+      "NumberOfAwardsMax": 1149
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9749,
-  "NumberOfAwardsMax": 1147,
+  "NumberOfAwards": 9754,
+  "NumberOfAwardsMax": 1149,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1147
+      "Count": 1149
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12759,7 +12765,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 935
+      "Count": 936
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -12771,7 +12777,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1019
+      "Count": 1021
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12821,8 +12827,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-06-17T16:04:57.1790935+00:00",
+  "LastChanged": "2024-06-17T17:57:45.3800966+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:06.002545+00:00",
-  "LastUpdate_Ratings": "2024-06-17T16:04:57.179094+00:00",
+  "LastUpdate_Ratings": "2024-06-17T17:57:45.3800974+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:33.9967202+00:00"
 }
