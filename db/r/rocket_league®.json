@@ -12416,18 +12416,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 5063064,
       "NumberOfAwardsMax": 855690
+    },
+    {
+      "Time": "2024-06-18T07:58:50.7117876+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5063781,
+      "NumberOfAwardsMax": 856407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5063064,
-  "NumberOfAwardsMax": 855690,
+  "NumberOfAwards": 5063781,
+  "NumberOfAwardsMax": 856407,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 855690
+      "Count": 856407
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -45884,9 +45890,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-06-17T14:58:18.1837769+00:00",
+  "LastChanged": "2024-06-18T07:58:50.7117868+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:34.8154769+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:21.8406246+00:00",
-  "LastUpdate_Ratings": "2024-06-18T06:00:00.2890625+00:00",
+  "LastUpdate_Ratings": "2024-06-18T07:58:50.711788+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:34.8156831+00:00"
 }
