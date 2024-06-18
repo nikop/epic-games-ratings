@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-x-5d70eb",
   "Ranking_Rating": 562,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 437,
+  "Ranking_PopularitySum": 459,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -834,10 +834,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 307,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2024-06-18T13:59:24.0215699+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 250,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 307,
+  "NumberOfAwards": 250,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -902,8 +908,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-06-17T20:58:25.8162329+00:00",
+  "LastChanged": "2024-06-18T13:59:24.0215697+00:00",
   "LastUpdate_AppInfo": "2024-06-14T07:57:01.3611059+00:00",
-  "LastUpdate_Ratings": "2024-06-18T13:03:27.0501423+00:00",
+  "LastUpdate_Ratings": "2024-06-18T13:59:24.0215702+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:55.8838829+00:00"
 }
