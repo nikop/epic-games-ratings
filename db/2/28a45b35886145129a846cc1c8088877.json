@@ -2,8 +2,8 @@
   "ID": "28a45b35886145129a846cc1c8088877",
   "Name": "Mortal Online 2",
   "ProductSlug": "mortal-online-2-d7bb78",
-  "Ranking_Rating": 849,
-  "Ranking_Popularity": 432,
+  "Ranking_Rating": 858,
+  "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-12-21T16:59:51.7204837+00:00",
@@ -1337,18 +1337,24 @@
       "Rating": 4.39,
       "NumberOfAwards": 398,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2024-06-18T17:59:17.0750559+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 401,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 398,
-  "NumberOfAwardsMax": 99,
+  "NumberOfAwards": 401,
+  "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 99
+      "Count": 101
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1390,7 +1396,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1423,8 +1429,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T20:58:55.3583755+00:00",
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
-  "LastChanged": "2024-06-16T16:57:27.0774429+00:00",
+  "LastChanged": "2024-06-18T17:59:17.0750543+00:00",
   "LastUpdate_AppInfo": "2024-06-18T15:56:56.4359558+00:00",
-  "LastUpdate_Ratings": "2024-06-18T16:57:25.6499496+00:00",
+  "LastUpdate_Ratings": "2024-06-18T17:59:17.0750564+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:10.1103913+00:00"
 }
