@@ -4,7 +4,7 @@
   "ProductSlug": "dauntless",
   "Ranking_Rating": 605,
   "Ranking_Popularity": 20,
-  "Ranking_PopularitySum": 25,
+  "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -18891,10 +18891,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 83682,
       "NumberOfAwardsMax": 29846
+    },
+    {
+      "Time": "2024-06-18T01:50:54.3572848+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 83688,
+      "NumberOfAwardsMax": 29846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 83682,
+  "NumberOfAwards": 83688,
   "NumberOfAwardsMax": 29846,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18920,7 +18926,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4590
+      "Count": 4591
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -18950,7 +18956,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4444
+      "Count": 4449
     },
     {
       "Text": "This game is Relaxing",
@@ -18976,8 +18982,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-06-17T22:58:39.6560761+00:00",
+  "LastChanged": "2024-06-18T01:50:54.3572846+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:29.5863719+00:00",
-  "LastUpdate_Ratings": "2024-06-17T22:58:39.6560767+00:00",
+  "LastUpdate_Ratings": "2024-06-18T01:50:54.3572853+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:25.4691628+00:00"
 }
