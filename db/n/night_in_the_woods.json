@@ -4,7 +4,7 @@
   "ProductSlug": "night-in-the-woods",
   "Ranking_Rating": 200,
   "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 500,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -697,18 +697,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 159,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2024-06-18T08:58:15.6007346+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 159,
-  "NumberOfAwardsMax": 159,
+  "NumberOfAwards": 160,
+  "NumberOfAwardsMax": 160,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 159
+      "Count": 160
     }
   ],
   "EOS_Progressed": 0,
@@ -722,8 +728,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:36.3686737+00:00",
-  "LastChanged": "2024-06-09T01:59:15.5701638+00:00",
+  "LastChanged": "2024-06-18T08:58:15.6007345+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:53.4890178+00:00",
-  "LastUpdate_Ratings": "2024-06-18T06:59:20.5105768+00:00",
+  "LastUpdate_Ratings": "2024-06-18T08:58:15.6007349+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:39.2364619+00:00"
 }

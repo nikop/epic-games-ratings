@@ -3,7 +3,7 @@
   "Name": "Overcooked! 2",
   "ProductSlug": "overcooked-2",
   "Ranking_Rating": 261,
-  "Ranking_Popularity": 284,
+  "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -5412,18 +5412,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2541,
       "NumberOfAwardsMax": 338
+    },
+    {
+      "Time": "2024-06-18T09:01:38.7755967+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2542,
+      "NumberOfAwardsMax": 339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2541,
-  "NumberOfAwardsMax": 338,
+  "NumberOfAwards": 2542,
+  "NumberOfAwardsMax": 339,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 338
+      "Count": 339
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5509,8 +5515,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-06-16T15:58:06.2673215+00:00",
+  "LastChanged": "2024-06-18T09:01:38.7755965+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:38.891676+00:00",
-  "LastUpdate_Ratings": "2024-06-18T07:59:10.6527041+00:00",
+  "LastUpdate_Ratings": "2024-06-18T09:01:38.7755973+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:01.9217379+00:00"
 }
