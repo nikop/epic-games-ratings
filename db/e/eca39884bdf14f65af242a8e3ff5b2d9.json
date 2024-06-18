@@ -13,9 +13,9 @@
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
     "PcReleaseDate": null,
     "isBlockchainUsed": false,
-    "isEpicFirstRun": true,
+    "isEpicFirstRun": false,
     "EpicFirstRunAdded": "2023-12-20T17:57:07.6046656+00:00",
-    "EpicFirstRunRemoved": null,
+    "EpicFirstRunRemoved": "2024-06-18T18:57:09.2778105+00:00",
     "CustomAttributes": {
       "com.epicgames.app.blacklist": "CN, RU, BY"
     }
@@ -5305,6 +5305,6 @@
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
   "LastChanged": "2024-06-17T23:57:41.2841266+00:00",
   "LastUpdate_AppInfo": "2024-06-17T22:57:08.5417065+00:00",
-  "LastUpdate_Ratings": "2024-06-18T16:58:43.8951674+00:00",
+  "LastUpdate_Ratings": "2024-06-18T18:57:22.7758244+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:30.1607151+00:00"
 }

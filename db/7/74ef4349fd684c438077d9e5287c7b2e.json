@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-x-5d70eb",
   "Ranking_Rating": 563,
   "Ranking_Popularity": 478,
-  "Ranking_PopularitySum": 459,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -846,10 +846,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 252,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2024-06-18T18:59:04.0576809+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 234,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 252,
+  "NumberOfAwards": 234,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -900,6 +906,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 25
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -914,8 +926,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-06-18T15:57:51.2288046+00:00",
+  "LastChanged": "2024-06-18T18:59:04.0576808+00:00",
   "LastUpdate_AppInfo": "2024-06-14T07:57:01.3611059+00:00",
-  "LastUpdate_Ratings": "2024-06-18T16:59:49.3013233+00:00",
+  "LastUpdate_Ratings": "2024-06-18T18:59:04.0576813+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:55.8838829+00:00"
 }
