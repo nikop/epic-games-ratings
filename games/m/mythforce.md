@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.47 (Ranked 710)  
+Rating: 4.46 (Ranked 722)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -363,3 +363,4 @@ Diff (max vs sum): 114
 | 2024-01-31 | 4.47 | - | 37 | 298 |
 | 2024-02-18 | 4.47 | - | 37 | 299 |
 | 2024-04-21 | 4.47 | - | 38 | 300 |
+| 2024-06-18 | 4.46 | - | 38 | 300 |
