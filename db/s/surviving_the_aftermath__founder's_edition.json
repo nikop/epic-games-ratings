@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 859,
   "Ranking_Popularity": 270,
-  "Ranking_PopularitySum": 242,
+  "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 43,
   "Ranking_EOS_Completed": 468,
   "Ranking_EOS_NewPlayers": 1,
@@ -4966,10 +4966,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 1943,
       "NumberOfAwardsMax": 388
+    },
+    {
+      "Time": "2024-06-18T10:57:46.1374269+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1944,
+      "NumberOfAwardsMax": 388
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1943,
+  "NumberOfAwards": 1944,
   "NumberOfAwardsMax": 388,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4989,7 +4995,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 274
+      "Count": 275
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -30057,9 +30063,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2024-06-18T07:57:59.0022274+00:00",
+  "LastChanged": "2024-06-18T10:57:46.1374267+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:19.7830844+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:10.4461853+00:00",
-  "LastUpdate_Ratings": "2024-06-18T08:59:48.6604718+00:00",
+  "LastUpdate_Ratings": "2024-06-18T10:57:46.1374273+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:19.783209+00:00"
 }
