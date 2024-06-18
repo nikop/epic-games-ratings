@@ -2,7 +2,7 @@
   "ID": "73dc1fbd99ac40b0914b317dcbeae85f",
   "Name": "Blood Bowl 3\t",
   "ProductSlug": "blood-bowl-3",
-  "Ranking_Rating": 1176,
+  "Ranking_Rating": 1171,
   "Ranking_Popularity": 651,
   "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 1087,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.9,
+  "Rating": 3.92,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:03.2574156+00:00",
@@ -379,6 +379,12 @@
       "Rating": 3.9,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-06-18T20:59:36.1778313+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
@@ -405,8 +411,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-23T17:57:00.609773+00:00",
   "FirstSeenRating": "2023-03-31T05:57:03.2574154+00:00",
-  "LastChanged": "2024-06-12T22:57:33.6453309+00:00",
+  "LastChanged": "2024-06-18T20:59:36.1778311+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:19.8701607+00:00",
-  "LastUpdate_Ratings": "2024-06-18T19:01:19.8630805+00:00",
+  "LastUpdate_Ratings": "2024-06-18T20:59:36.1778315+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:37.0482471+00:00"
 }
