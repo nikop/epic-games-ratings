@@ -3,8 +3,8 @@
   "Name": "Fez",
   "ProductSlug": "fez",
   "Ranking_Rating": 153,
-  "Ranking_Popularity": 618,
-  "Ranking_PopularitySum": 632,
+  "Ranking_Popularity": 602,
+  "Ranking_PopularitySum": 624,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -360,18 +360,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-06-18T21:57:16.9575575+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 26
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -385,8 +391,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
-  "LastChanged": "2024-05-24T17:00:06.998698+00:00",
+  "LastChanged": "2024-06-18T21:57:16.9575573+00:00",
   "LastUpdate_AppInfo": "2024-06-16T20:57:25.7277594+00:00",
-  "LastUpdate_Ratings": "2024-06-18T19:58:33.4459504+00:00",
+  "LastUpdate_Ratings": "2024-06-18T21:57:16.9575578+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:07.7309031+00:00"
 }

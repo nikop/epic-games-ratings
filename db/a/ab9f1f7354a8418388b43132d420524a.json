@@ -2,8 +2,8 @@
   "ID": "ab9f1f7354a8418388b43132d420524a",
   "Name": "Town of Salem 2",
   "ProductSlug": "town-of-salem-2-ab6497",
-  "Ranking_Rating": 635,
-  "Ranking_Popularity": 543,
+  "Ranking_Rating": 621,
+  "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 510,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2024-04-20T18:57:39.0302102+00:00",
@@ -736,6 +736,12 @@
     {
       "Time": "2024-06-17T22:58:09.7820605+00:00",
       "Rating": 4.51,
+      "NumberOfAwards": 201,
+      "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-06-18T22:00:27.7677331+00:00",
+      "Rating": 4.52,
       "NumberOfAwards": 201,
       "NumberOfAwardsMax": 41
     }
@@ -4348,9 +4354,9 @@
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:33.4303838+00:00",
-  "LastChanged": "2024-06-17T22:58:09.7820603+00:00",
+  "LastChanged": "2024-06-18T22:00:27.7677327+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:33.4303806+00:00",
   "LastUpdate_AppInfo": "2024-06-13T20:57:18.2870622+00:00",
-  "LastUpdate_Ratings": "2024-06-18T20:59:16.1157175+00:00",
+  "LastUpdate_Ratings": "2024-06-18T22:00:27.7677334+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:33.4324347+00:00"
 }

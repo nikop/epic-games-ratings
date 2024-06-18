@@ -328,12 +328,12 @@ Completed: 6 (0.00%) (Ranked 510)
 | 2024-04-10 | 237,952 | 5 |
 | 2024-06-17 | 242,215 | 6 |
 ## Awards
-Max (Highly Recommended): 302  (Ranked 292)  
-Sum: 2,322 (Ranked 229)  
+Max (Highly Recommended): 303  (Ranked 292)  
+Sum: 2,323 (Ranked 229)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 302 |
+| This game is Highly Recommended | 303 |
 | This game has Quickly Understood Controls | 299 |
 | This game is Extremely Fun | 298 |
 | This game has Amazing Characters | 287 |
@@ -536,4 +536,4 @@ Diff (max vs sum): 63
 | 2024-06-13 | 4.44 | 302 | 2,319 |
 | 2024-06-15 | 4.44 | 302 | 2,320 |
 | 2024-06-17 | 4.44 | 302 | 2,321 |
-| 2024-06-18 | 4.44 | 302 | 2,322 |
+| 2024-06-18 | 4.44 | 303 | 2,323 |
