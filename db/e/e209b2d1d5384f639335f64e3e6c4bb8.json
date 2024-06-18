@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-deserts-of-kharak",
   "Ranking_Rating": 803,
   "Ranking_Popularity": 568,
-  "Ranking_PopularitySum": 476,
+  "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -603,10 +603,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 206,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-06-18T15:58:54.551176+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 206,
+  "NumberOfAwards": 226,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -656,6 +662,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
       "Count": 20
     }
   ],
@@ -19727,9 +19739,9 @@
   "FirstSeen": "2023-08-24T17:59:08.2089952+00:00",
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged": "2024-06-09T02:58:37.5987683+00:00",
+  "LastChanged": "2024-06-18T15:58:54.5511758+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:01.569211+00:00",
   "LastUpdate_AppInfo": "2024-06-14T18:56:57.9352249+00:00",
-  "LastUpdate_Ratings": "2024-06-18T14:00:27.7844922+00:00",
+  "LastUpdate_Ratings": "2024-06-18T15:58:54.5511764+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:01.569365+00:00"
 }
