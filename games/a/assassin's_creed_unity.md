@@ -1,7 +1,7 @@
 # Assassin's Creed Unity
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-unity)  
 [View Rawdata](../../db/a/assassin's_creed_unity.json)  
-Rating: 4.61 (Ranked 426)  
+Rating: 4.62 (Ranked 404)  
 Number of Ratings: 900  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,211  (Ranked 163)  
@@ -450,3 +450,4 @@ Diff (max vs sum): -97
 | 2024-06-14 | 4.61 | - | 1,209 | 1,623 |
 | 2024-06-16 | 4.61 | - | 1,211 | 1,625 |
 | 2024-06-18 | 4.61 | - | 1,211 | 1,680 |
+| 2024-06-19 | 4.62 | - | 1,211 | 1,680 |
