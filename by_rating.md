@@ -65,7 +65,7 @@
 | 60 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 253 | 310 |
 | 60 | [Firework](games/f/firework.md) | 4.83 | 0 | 658 |
 | 60 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 729 | 213 |
-| 60 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 481 | 250 |
+| 60 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 482 | 250 |
 | 60 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.83 | 0 | 658 |
 | 60 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.83 | 0 | 658 |
 | 60 | [TUNIC](games/t/tunic.md) | 4.83 | 43 | 539 |
@@ -128,7 +128,7 @@
 | 117 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 32 | 582 |
 | 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 27 | 611 |
 | 127 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.77 | 0 | 658 |
-| 127 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 13,216 | 40 |
+| 127 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 13,228 | 40 |
 | 127 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,063 | 178 |
 | 127 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,834 | 42 |
 | 127 | [Journey](games/j/journey.md) | 4.77 | 0 | 658 |
@@ -923,7 +923,7 @@
 | 915 | [Hammerting](games/h/hammerting.md) | 4.34 | 0 | 658 |
 | 915 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.34 | 0 | 658 |
 | 915 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 658 |
-| 915 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 706 | 219 |
+| 915 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 707 | 219 |
 | 925 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.33 | 24 | 626 |
 | 925 | [Ashen](games/a/ashen.md) | 4.33 | 23 | 635 |
 | 925 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 658 |
@@ -1095,7 +1095,7 @@
 | 1,089 | [Fangs](games/f/fangs.md) | 4.15 | 0 | 658 |
 | 1,089 | [God's Trigger](games/g/god's_trigger.md) | 4.15 | 28 | 602 |
 | 1,089 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.15 | 0 | 658 |
-| 1,096 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.14 | 35,176 | 18 |
+| 1,096 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.14 | 35,284 | 18 |
 | 1,096 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 4.14 | 0 | 658 |
 | 1,096 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.14 | 0 | 658 |
 | 1,096 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.14 | 0 | 658 |
