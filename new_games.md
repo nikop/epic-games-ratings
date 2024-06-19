@@ -89,7 +89,7 @@
 | [Dragon Age II: Ultimate Edition](games/4/4e8c0f56bcf948d581e30c58283d183c.md) | 2024-05-23 | - |  | - | 0 |
 | [Dragon Age™: Origins - Ultimate Edition](games/a/aa0bf256813a423f8705093d696065b4.md) | 2024-05-23 | - |  | - | 0 |
 | [Mass Effect™ (2007)](games/8/8109d0d7b82f4242bf4cd26108e50f20.md) | 2024-05-23 | - |  | - | 0 |
-| [Mirrors Edge](games/5/527f5ab0c1924d1fa31340c6cb2246f3.md) | 2024-05-23 | - |  | - | - |
+| [Mirrors Edge](games/5/527f5ab0c1924d1fa31340c6cb2246f3.md) | 2024-05-23 | - |  | - | 0 |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 15 | - | 0 |
 | [The Tribe Must Survive](games/5/50d794a4930c401f9f25e28ce7335db2.md) | 2024-05-23 | 30 (1,950 XP) | 34 | - | 0 |
 | [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 2,420 | - | 0 |
