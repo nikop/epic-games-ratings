@@ -3,7 +3,7 @@
   "Name": "Subnautica",
   "ProductSlug": "subnautica",
   "Ranking_Rating": 36,
-  "Ranking_Popularity": 197,
+  "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -8881,10 +8881,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 6751,
       "NumberOfAwardsMax": 897
+    },
+    {
+      "Time": "2024-06-19T10:57:16.8354124+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 6752,
+      "NumberOfAwardsMax": 897
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6751,
+  "NumberOfAwards": 6752,
   "NumberOfAwardsMax": 897,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8922,7 +8928,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 779
+      "Count": 780
     },
     {
       "Text": "This game is Relaxing",
@@ -8966,8 +8972,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2024-06-19T03:58:38.4146752+00:00",
+  "LastChanged": "2024-06-19T10:57:16.8354122+00:00",
   "LastUpdate_AppInfo": "2024-06-16T20:57:28.2840341+00:00",
-  "LastUpdate_Ratings": "2024-06-19T08:58:37.8439415+00:00",
+  "LastUpdate_Ratings": "2024-06-19T10:57:16.835413+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:22.7323964+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
   "Ranking_Rating": 785,
   "Ranking_Popularity": 266,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 449,
   "Ranking_EOS_NewPlayers": 1,
@@ -612,10 +612,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 738,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2024-06-19T10:59:03.6637298+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 765,
+      "NumberOfAwardsMax": 403
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 738,
+  "NumberOfAwards": 765,
   "NumberOfAwardsMax": 403,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -629,7 +635,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 174
+      "Count": 178
     },
     {
       "Text": "This game is Highly Recommended",
@@ -665,13 +671,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 26
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 279563,
@@ -1260,9 +1272,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-06-18T20:57:44.3679844+00:00",
+  "LastChanged": "2024-06-19T10:59:03.6637297+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:54.7600691+00:00",
   "LastUpdate_AppInfo": "2024-06-13T17:57:19.3354389+00:00",
-  "LastUpdate_Ratings": "2024-06-19T09:00:36.9753558+00:00",
+  "LastUpdate_Ratings": "2024-06-19T10:59:03.6637301+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:54.7612031+00:00"
 }
