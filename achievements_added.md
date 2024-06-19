@@ -145,7 +145,7 @@
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 27 | - | 0 |
 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2024-03-06 | 5 (1,000 XP) | 2 | - | 0 |
 | [Revival: Recolonization](games/4/4ccef3d9b96a4839ab46a6e83ddc6e61.md) | 2024-04-11 | 32 (1,000 XP) | 1 | - | 0 |
-| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 11,356 | 4.40 | 20 |
+| [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 11,356 | 4.41 | 20 |
 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 2024-03-12 | 34 (1,000 XP) | 1 | - | 0 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Stories from the Outbreak](games/5/54b2781b490444debc7739e562b05291.md) | 2024-03-14 | 37 (1,000 XP) | 8 | - | 0 |
@@ -315,7 +315,7 @@
 | [Bio Inc. Redemption](games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 2023-12-12 | 32 (1,000 XP) | 261 | - | 0 |
 | [Virtual Rides 3](games/1/116f71b2da434337bba6498e0ea61d9c.md) | 2023-12-17 | 10 (1,000 XP) | 67 | - | 0 |
 | [Tales of the Tiny Planet](games/f/fcfb5f2cb071465391cc3c4555327790.md) | 2023-12-18 | 34 (1,000 XP) | 1 | - | 0 |
-| [GigaBash](games/g/gigabash.md) | 2022-08-04 | 35 (1,000 XP) | 151,060 | 4.52 | 105 |
+| [GigaBash](games/g/gigabash.md) | 2022-08-04 | 35 (1,000 XP) | 151,060 | 4.52 | 106 |
 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2024-01-25 | 100 (1,000 XP) | 24 | - | 0 |
 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 2023-12-07 | 5 (1,000 XP) | 1,430 | - | 0 |
 | [Your Computer Might Be At Risk](games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 2023-06-28 | 37 (1,000 XP) | 9 | - | 0 |
