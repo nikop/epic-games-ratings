@@ -168,7 +168,7 @@
 | 153 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 658 |
 | 153 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 107 | 419 |
 | 153 | [Townscaper](games/t/townscaper.md) | 4.75 | 0 | 658 |
-| 153 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 1,301 | 155 |
+| 153 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 1,305 | 154 |
 | 170 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.74 | 88 | 451 |
 | 170 | [Barony](games/b/barony.md) | 4.74 | 134 | 387 |
 | 170 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 70 | 481 |
@@ -188,7 +188,7 @@
 | 170 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 658 |
 | 170 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 544 | 240 |
 | 170 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 658 |
-| 189 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 532 | 242 |
+| 189 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 533 | 242 |
 | 189 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 658 |
 | 189 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 658 |
 | 189 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.73 | 0 | 658 |
@@ -268,7 +268,7 @@
 | 261 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.69 | 28 | 602 |
 | 261 | [House Flipper](games/h/house_flipper.md) | 4.69 | 355 | 278 |
 | 261 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 658 |
-| 261 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,304 | 154 |
+| 261 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,304 | 155 |
 | 261 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,108 | 127 |
 | 261 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 703 | 220 |
 | 261 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 339 | 282 |
@@ -455,7 +455,7 @@
 | 426 | [Warframe](games/w/warframe.md) | 4.61 | 24,584 | 22 |
 | 426 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 887 | 199 |
 | 426 | [Witchfire](games/w/witchfire.md) | 4.61 | 152 | 376 |
-| 456 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 988 | 186 |
+| 456 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 990 | 185 |
 | 456 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.60 | 0 | 658 |
 | 456 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 18,214 | 25 |
 | 456 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 658 |
@@ -747,7 +747,7 @@
 | 743 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.45 | 0 | 658 |
 | 743 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.45 | 47 | 533 |
 | 743 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.45 | 20 | 651 |
-| 743 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.45 | 350 | 280 |
+| 743 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.45 | 351 | 280 |
 | 743 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.45 | 0 | 658 |
 | 743 | [Metalstorm](games/m/metalstorm.md) | 4.45 | 114 | 406 |
 | 743 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.45 | 0 | 658 |

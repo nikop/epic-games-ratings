@@ -153,8 +153,8 @@
 | 151 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,340 | 4.42 | 804 |
 | 152 | [DOOM 64](games/d/doom_64.md) | 1,326 | 4.66 | 323 |
 | 153 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,307 | 4.64 | 368 |
-| 154 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,304 | 4.69 | 261 |
-| 155 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,301 | 4.75 | 153 |
+| 154 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,305 | 4.75 | 153 |
+| 155 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,304 | 4.69 | 261 |
 | 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,299 | 4.48 | 690 |
 | 157 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,285 | 4.46 | 721 |
 | 158 | [Saints Row](games/s/saints_row.md) | 1,280 | 3.90 | 1,178 |
@@ -184,8 +184,8 @@
 | 182 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 1,011 | 4.56 | 543 |
 | 183 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 1,030 |
 | 184 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 994 | 4.79 | 108 |
+| 185 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 990 | 4.60 | 456 |
 | 185 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 990 | 4.74 | 170 |
-| 186 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 988 | 4.60 | 456 |
 | 187 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 975 | 4.22 | 1,037 |
 | 188 | [Auto Chess](games/a/auto_chess.md) | 970 | 4.50 | 652 |
 | 189 | [Frostpunk](games/f/frostpunk.md) | 968 | 4.75 | 153 |
@@ -241,7 +241,7 @@
 | 239 | [Loop Hero](games/l/loop_hero.md) | 552 | 4.68 | 280 |
 | 240 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 544 | 4.74 | 170 |
 | 241 | [Slime Rancher](games/s/slime_rancher.md) | 537 | 4.82 | 71 |
-| 242 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 532 | 4.73 | 189 |
+| 242 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 533 | 4.73 | 189 |
 | 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 529 | 4.57 | 521 |
 | 244 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 519 | 4.51 | 634 |
 | 245 | [Warface: Clutch](games/w/warface.md) | 516 | 3.88 | 1,179 |
@@ -279,7 +279,7 @@
 | 277 | [MudRunner](games/m/mudrunner.md) | 358 | 4.60 | 456 |
 | 278 | [House Flipper](games/h/house_flipper.md) | 355 | 4.69 | 261 |
 | 278 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 355 | 4.59 | 474 |
-| 280 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 350 | 4.45 | 743 |
+| 280 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 351 | 4.45 | 743 |
 | 281 | [Tannenberg](games/t/tannenberg.md) | 343 | 4.39 | 850 |
 | 282 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 339 | 4.66 | 323 |
 | 282 | [Darkwood](games/d/darkwood.md) | 339 | 4.62 | 403 |
