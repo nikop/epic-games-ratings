@@ -1,15 +1,15 @@
 # Mutant Year Zero: Road to Eden
 [Store](https://store.epicgames.com/en-US/p/mutant-year-zero)  
 [View Rawdata](../../db/m/mutant_year_zero__road_to_eden.json)  
-Rating: 4.50 (Ranked 652)  
+Rating: 4.50 (Ranked 651)  
 Number of Ratings: 2,052  (23.09.2022)  
 ## Awards
-Max (Character Customization): 712  (Ranked 218)  
-Sum: 1,043 (Ranked 300)  
+Max (Character Customization): 713  (Ranked 218)  
+Sum: 1,044 (Ranked 300)  
 Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 712 |
+| This game has Inclusive Character Customization | 713 |
 | This game has Amazing Characters | 47 |
 | This game has Quickly Understood Controls | 44 |
 | This game is Extremely Fun | 44 |
@@ -220,3 +220,4 @@ Diff (max vs sum): -82
 | 2024-06-02 | 4.50 | - | 711 | 1,041 |
 | 2024-06-03 | 4.50 | - | 712 | 1,042 |
 | 2024-06-15 | 4.50 | - | 712 | 1,043 |
+| 2024-06-19 | 4.50 | - | 713 | 1,044 |
