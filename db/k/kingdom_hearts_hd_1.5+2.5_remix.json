@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
   "Ranking_Rating": 72,
   "Ranking_Popularity": 128,
-  "Ranking_PopularitySum": 85,
+  "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -15915,10 +15915,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 15953,
       "NumberOfAwardsMax": 2104
+    },
+    {
+      "Time": "2024-06-19T18:58:05.9695757+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 15965,
+      "NumberOfAwardsMax": 2104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15953,
+  "NumberOfAwards": 15965,
   "NumberOfAwardsMax": 2104,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15956,7 +15962,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2030
+      "Count": 2035
     },
     {
       "Text": "This game has Challenging Combat",
@@ -15986,7 +15992,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1997
+      "Count": 2004
     },
     {
       "Text": "This game has a Creative Community",
@@ -16006,8 +16012,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2024-06-19T16:59:20.040379+00:00",
+  "LastChanged": "2024-06-19T18:58:05.9695755+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:29.5437191+00:00",
-  "LastUpdate_Ratings": "2024-06-19T16:59:20.0403796+00:00",
+  "LastUpdate_Ratings": "2024-06-19T18:58:05.9695762+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:00.3352498+00:00"
 }
