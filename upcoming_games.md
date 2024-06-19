@@ -597,6 +597,7 @@
 | [Sumerian Six](games/7/77d0632b8cf14d4f8b974899928a579d.md) | 2099-01-01 | - |  | - | - |
 | [SunnySide](games/s/sunnyside.md) | 2099-01-01 | - |  | - | - |
 | [Super BUFF HD](games/7/74b34f2f86db48579e9f785686886111.md) | 2099-01-01 | - |  | - | - |
+| [Super Farming Boy](games/3/3fabb6db9e5a4a17b86601d9accd8556.md) | 2099-01-01 | - |  | - | - |
 | [Supergalactix](games/s/supergalactix.md) | 2099-01-01 | - |  | - | - |
 | [Surfing Legends](games/2/2f041426f4ce4d65a6c1b100b4b3bf4a.md) | 2099-01-01 | - |  | - | - |
 | [Survival Bunker](games/2/2169f3808bad448fbc29f18ada527f28.md) | 2099-01-01 | - |  | - | - |
