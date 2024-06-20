@@ -7128,10 +7128,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 4930,
       "NumberOfAwardsMax": 1119
+    },
+    {
+      "Time": "2024-06-20T01:47:19.88544+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 4933,
+      "NumberOfAwardsMax": 1119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4930,
+  "NumberOfAwards": 4933,
   "NumberOfAwardsMax": 1119,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7187,7 +7193,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 311
+      "Count": 312
     },
     {
       "Text": "This game is Relaxing",
@@ -7205,7 +7211,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 286
+      "Count": 288
     }
   ],
   "EOS_Progressed": 0,
@@ -7219,8 +7225,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-06-19T16:57:59.8327171+00:00",
+  "LastChanged": "2024-06-20T01:47:19.8854398+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:35.4646613+00:00",
-  "LastUpdate_Ratings": "2024-06-19T22:58:41.8242181+00:00",
+  "LastUpdate_Ratings": "2024-06-20T01:47:19.8854404+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:31.7949446+00:00"
 }
