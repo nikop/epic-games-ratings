@@ -1009,7 +1009,7 @@
 | [ATOM RPG](games/a/atom_rpg.md) | 2022-04-06 | 36 (1,000 XP) | 2,081 | 4.50 | 58 |
 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2022-04-05 | 45 (1,000 XP) | 67,349 | 4.76 | 2,662 |
 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 2022-04-01 | 30 (1,000 XP) | 107 | - | 0 |
-| [Pinball FX](games/p/pinball_fx.md) | 2022-03-31 | 50 (1,400 XP) | 324,327 | 4.09 | 242 |
+| [Pinball FX](games/p/pinball_fx.md) | 2022-03-31 | 50 (1,400 XP) | 324,327 | 4.09 | 243 |
 | [Weird West: Definitive Edition](games/w/weird_west.md) | 2022-03-31 | 53 (1,000 XP) | 11,813 | 4.44 | 41 |
 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 595,911 | 4.89 | 10,515 |
 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 2022-03-18 | 31 (1,000 XP) | 0 | 4.68 | 0 |

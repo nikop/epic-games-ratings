@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Cyber Avenger](games/2/23e0d8cad86d45308001a2c4151969c0.md) | 2024-06-20 | - |  | - | - |
 | [Rogue Glitch Ultra](games/3/3c27bc096b424648b664cdc673f02ae3.md) | 2024-06-20 | - |  | - | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-20 | 20 (1,000 XP) | 1 | - | - |
 | [My name is Ximen Qing](games/1/1197b3d9c5f14531bc31a26727db5e90.md) | 2024-06-20 | - |  | - | 0 |

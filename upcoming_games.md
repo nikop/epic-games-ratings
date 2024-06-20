@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Cyber Avenger](games/2/23e0d8cad86d45308001a2c4151969c0.md) | 2024-06-20 | - |  | - | - |
 | [Everafter Falls](games/b/bb5dabc784164e62ac3e96858de000bf.md) | 2024-06-20 | - |  | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-06-20 | - |  | - | 0 |
 | [Workers & Resources: Soviet Republic](games/f/f5fdb08368b845aa9c27df5cb6995a24.md) | 2024-06-20 | - |  | - | - |
@@ -341,6 +340,7 @@
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [DeadPoly](games/7/70de45f56cbe43b3ae198624dd9f032f.md) | 2099-01-01 | - |  | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2099-01-01 | - |  | - | - |
+| [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2099-01-01 | - |  | - | - |
 | [Debtors' Club](games/d/dda54842f3d34f8791f2bddfe7d21676.md) | 2099-01-01 | - |  | - | - |
 | [Decadent](games/c/cb7b9392b46d47c2a279aa2d66cbdf04.md) | 2099-01-01 | - |  | - | - |
 | [Delta Force: Hawk Ops](games/3/3e2c28241611405aa231308a39bee638.md) | 2099-01-01 | - |  | - | - |
