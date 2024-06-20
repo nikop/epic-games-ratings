@@ -82,7 +82,7 @@
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | 48 (1,000 XP) | 1 | - | 0 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 2 | - | 0 |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 81,984 | 4.85 | 1,848 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 279,563 | 4.43 | 411 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 279,563 | 4.43 | 418 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | 7 (1,000 XP) | 262 | - | 0 |
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | 28 (1,000 XP) | 15 | - | 0 |
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | 38 (1,000 XP) | 32 | - | 0 |
@@ -112,7 +112,7 @@
 | [Space Accident](games/1/18efd480ed4549688383b6036df07bc2.md) | 2024-05-03 | 5 (1,000 XP) | 22 | - | 0 |
 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 2024-05-02 | 19 (1,000 XP) | 17 | - | - |
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 30 | - | 0 |
-| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 298,358 | 4.70 | 112 |
+| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 298,358 | 4.70 | 115 |
 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 488,117 | 4.56 | 1,015 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | 50 (1,000 XP) | 1 | - | 0 |
 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 2024-05-02 | 15 (1,000 XP) | 4 | - | 0 |
@@ -302,7 +302,7 @@
 | [Battle Planet - Judgement Day](games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 2023-12-15 | 13 (1,000 XP) | 4 | - | 0 |
 | [Hero Battle Fantasy Arena](games/4/4d936d45ca14450c86d6472c3c494181.md) | 2023-12-15 | 15 (1,000 XP) | 335 | - | 0 |
 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 414,750 | 4.25 | 115 |
-| [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 471,173 | 4.26 | 57 |
+| [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 471,173 | 4.26 | 58 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 2023-12-13 | 51 (1,000 XP) | 735 | - | 0 |
 | [Bio Inc. Redemption](games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 2023-12-12 | 32 (1,000 XP) | 261 | - | 0 |
@@ -641,7 +641,7 @@
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-09 | 6 (1,000 XP) | 848 | - | 0 |
 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 2023-06-09 | 74 (1,110 XP) | 267 | - | 0 |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 2023-06-08 | 17 (1,000 XP) | 12 | - | 0 |
-| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,942,334 | 4.58 | 12,388 |
+| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,942,334 | 4.58 | 12,403 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 13 (1,000 XP) | 64 | - | 0 |
 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2023-06-07 | 11 (1,000 XP) | 102 | - | 0 |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 117 | - | 0 |
@@ -1019,14 +1019,14 @@
 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 2022-03-02 | 73 (1,000 XP) | 269 | 4.29 | 0 |
 | [HordeCore](games/h/hordecore.md) | 2022-03-02 | 28 (1,000 XP) | 388 | - | 0 |
 | [ELEX II](games/e/elex_ii.md) | 2022-03-01 | 50 (1,000 XP) | 590 | 4.28 | 0 |
-| [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 2022-02-28 | 46 (1,000 XP) | 573 | 4.42 | 0 |
+| [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 2022-02-28 | 46 (1,000 XP) | 573 | 4.37 | 0 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 2022-02-25 | 101 (1,000 XP) | 4,653 | 4.31 | 0 |
 | [Call of the Sea](games/c/call_of_the_sea.md) | 2022-02-17 | 34 (1,000 XP) | 155,905 | 4.40 | 0 |
 | [Session: Skate Sim](games/s/session__skate_sim.md) | 2022-02-17 | 48 (1,000 XP) | 4,478 | 4.68 | 85 |
 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 2022-02-10 | 35 (1,000 XP) | 599,301 | 4.61 | 491 |
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 12,736 | - | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 188 | - | 0 |
-| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 784,372 | 4.82 | 7,962 |
+| [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 784,372 | 4.82 | 7,964 |
 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,134,738 | 4.59 | 17,122 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 482 | 4.68 | 54 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,449,954 | 4.77 | 12,839 |

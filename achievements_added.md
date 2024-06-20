@@ -43,7 +43,7 @@
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 6 | - | - |
 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 136,786 | 4.51 | 41 |
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | 308 (2,135 XP) | 1 | - | - |
-| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 298,358 | 4.70 | 112 |
+| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 298,358 | 4.70 | 115 |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-06 | 30 (1,000 XP) | 91 | - | - |
 | [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 2,258 | - | 0 |
 | [OLD SKOOL RACER](games/8/8d617ef953bf4147b3b507f33e2a7299.md) | 2024-04-10 | 8 (1,000 XP) | 8 | - | - |
@@ -88,7 +88,7 @@
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 29 | - | 0 |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 17,043 | 4.54 | 20 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 21 | - | 0 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 279,563 | 4.43 | 411 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 279,563 | 4.43 | 418 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 4 | - | - |
 | [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | 2024-04-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | 22 (1,000 XP) | 5 | - | - |
@@ -307,7 +307,7 @@
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 2023-12-17 | 31 (1,000 XP) | 106 | - | 0 |
 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 414,750 | 4.25 | 115 |
-| [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 471,173 | 4.26 | 57 |
+| [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 471,173 | 4.26 | 58 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 5,144 | 4.42 | 104 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 1,960 | 4.48 | 112 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
