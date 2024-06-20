@@ -4,7 +4,7 @@
   "ProductSlug": "railway-empire",
   "Ranking_Rating": 634,
   "Ranking_Popularity": 265,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -4977,10 +4977,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2460,
       "NumberOfAwardsMax": 409
+    },
+    {
+      "Time": "2024-06-20T17:59:13.0580176+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2735,
+      "NumberOfAwardsMax": 409
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2460,
+  "NumberOfAwards": 2735,
   "NumberOfAwardsMax": 409,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5042,7 +5048,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 272
+      "Count": 275
     }
   ],
   "EOS_Progressed": 0,
@@ -5064,9 +5070,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
-  "LastChanged": "2024-06-20T13:57:48.0092195+00:00",
+  "LastChanged": "2024-06-20T17:59:13.0580174+00:00",
   "LastChanged_Achievements": "2024-06-17T16:18:29.4823351+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:13.9670399+00:00",
-  "LastUpdate_Ratings": "2024-06-20T14:59:50.9567628+00:00",
+  "LastUpdate_Ratings": "2024-06-20T17:59:13.0580179+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:29.4823375+00:00"
 }
