@@ -4,7 +4,7 @@
   "ProductSlug": "book-of-yog-idle-rpg-74cebc",
   "Ranking_Rating": 1160,
   "Ranking_Popularity": 574,
-  "Ranking_PopularitySum": 577,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -857,10 +857,16 @@
       "Rating": 3.96,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-06-20T02:57:23.2610091+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 74,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54,
+  "NumberOfAwards": 74,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -881,6 +887,12 @@
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -895,8 +907,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-22T15:57:06.3635011+00:00",
   "FirstSeenRating": "2023-07-14T13:12:36.4172007+00:00",
-  "LastChanged": "2024-06-17T08:00:56.3479722+00:00",
+  "LastChanged": "2024-06-20T02:57:23.261009+00:00",
   "LastUpdate_AppInfo": "2024-06-15T08:57:07.7228702+00:00",
-  "LastUpdate_Ratings": "2024-06-20T01:49:03.5056824+00:00",
+  "LastUpdate_Ratings": "2024-06-20T02:57:23.2610094+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:31.3860279+00:00"
 }
