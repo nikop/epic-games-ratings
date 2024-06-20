@@ -66,6 +66,7 @@
 | [IfSunSets](games/1/1d4d9a627e8548e1821d67ccb55ad146.md) | 2024-07-31 | - |  | - | - |
 | [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-07-31 | 100 (1,000 XP) | 0 | - | - |
 | [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | - | - |
+| [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | - |  | - | - |
 | [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 2024-08-08 | 20 (1,000 XP) | 3 | - | - |
 | [SteamWorld Heist II](games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 2024-08-08 | - |  | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
@@ -330,7 +331,6 @@
 | [Cloud Cutter](games/c/cloud_cutter.md) | 2099-01-01 | 31 (1,000 XP) | 1 | - | - |
 | [Contingent®️](games/e/ed4fdacaea4746deb4aeb02480909cb1.md) | 2099-01-01 | - |  | - | - |
 | [Corsairs Legacy – Pirate Action RPG & Sea Battles](games/5/55172c31a4094ccda2f06c94635139c6.md) | 2099-01-01 | - |  | - | - |
-| [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2099-01-01 | - |  | - | - |
 | [Critter Crops](games/c/critter_crops.md) | 2099-01-01 | - |  | - | - |
 | [Crowncity](games/8/8a9e2e0b21af45119ff2ada4a39be1a1.md) | 2099-01-01 | - |  | - | - |
 | [Cthulhu: Books of Ancients](games/c/cthulhu__books_of_ancients.md) | 2099-01-01 | - |  | - | - |
