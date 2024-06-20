@@ -4,7 +4,7 @@
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 60,
   "Ranking_Popularity": 211,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 313,
   "Ranking_EOS_NewPlayers": 1,
@@ -10133,10 +10133,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 5795,
       "NumberOfAwardsMax": 734
+    },
+    {
+      "Time": "2024-06-20T19:57:52.1142476+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 5815,
+      "NumberOfAwardsMax": 734
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5795,
+  "NumberOfAwards": 5815,
   "NumberOfAwardsMax": 734,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10162,7 +10168,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 549
+      "Count": 556
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10186,7 +10192,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 582
+      "Count": 588
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10198,7 +10204,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 658
+      "Count": 665
     },
     {
       "Text": "This game has Easy Combat",
@@ -41647,9 +41653,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-06-20T18:00:13.1391281+00:00",
+  "LastChanged": "2024-06-20T19:57:52.1142475+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:24.9372303+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:31.0309602+00:00",
-  "LastUpdate_Ratings": "2024-06-20T18:00:13.1391288+00:00",
+  "LastUpdate_Ratings": "2024-06-20T19:57:52.1142481+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:24.9373816+00:00"
 }

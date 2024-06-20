@@ -3,7 +3,7 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 188,
-  "Ranking_Popularity": 194,
+  "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -3215,10 +3215,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 3561,
       "NumberOfAwardsMax": 935
+    },
+    {
+      "Time": "2024-06-20T19:57:45.5309856+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 3570,
+      "NumberOfAwardsMax": 935
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3561,
+  "NumberOfAwards": 3570,
   "NumberOfAwardsMax": 935,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3310,7 +3316,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 197
+      "Count": 206
     }
   ],
   "EOS_Progressed": 0,
@@ -3325,8 +3331,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-06-20T18:00:03.4636459+00:00",
+  "LastChanged": "2024-06-20T19:57:45.5309854+00:00",
   "LastUpdate_AppInfo": "2024-06-20T02:57:10.7728742+00:00",
-  "LastUpdate_Ratings": "2024-06-20T18:00:03.4636464+00:00",
+  "LastUpdate_Ratings": "2024-06-20T19:57:45.5309859+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:24.8521418+00:00"
 }

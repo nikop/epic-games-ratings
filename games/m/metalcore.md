@@ -4,8 +4,8 @@
 Rating: 4.42 (Ranked 804)  
 ## Awards
 Max (Great for Beginners): 84  (Ranked 457)  
-Sum: 681 (Ranked 350)  
-Diff (max vs sum): 107  
+Sum: 681 (Ranked 351)  
+Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 84 |
