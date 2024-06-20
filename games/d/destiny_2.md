@@ -1,7 +1,7 @@
 # Destiny 2
 [Store](https://store.epicgames.com/en-US/p/destiny-2)  
 [View Rawdata](../../db/d/destiny_2.json)  
-Rating: 4.44 (Ranked 757)  
+Rating: 4.44 (Ranked 756)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -318,7 +318,7 @@ Completed: 53,897 (3.31%) (Ranked 144)
 | 2024-06-17 | 1,626,567 | 53,897 |
 ## Awards
 Max (Great Boss Battles): 80,182  (Ranked 11)  
-Sum: 190,964 (Ranked 15)  
+Sum: 190,988 (Ranked 15)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -326,7 +326,7 @@ Diff (max vs sum): -4
 | This game has Diverse Characters | 19,948 |
 | This game has Challenging Combat | 16,373 |
 | This game is Highly Recommended | 16,115 |
-| This game has Amazing Characters | 14,765 |
+| This game has Amazing Characters | 14,789 |
 | This game has Amazing Storytelling | 14,694 |
 | This game is Extremely Fun | 14,670 |
 | This game has Quickly Understood Controls | 14,217 |
@@ -835,4 +835,4 @@ Diff (max vs sum): -4
 | 2024-06-17 | 4.44 | - | 79,944 | 190,213 |
 | 2024-06-18 | 4.44 | - | 80,026 | 190,476 |
 | 2024-06-19 | 4.44 | - | 80,182 | 190,881 |
-| 2024-06-20 | 4.44 | - | 80,182 | 190,964 |
+| 2024-06-20 | 4.44 | - | 80,182 | 190,988 |
