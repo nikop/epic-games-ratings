@@ -4,7 +4,7 @@
 Rating: 4.61 (Ranked 427)  
 ## Awards
 Max (Great for Beginners): 6,854  (Ranked 70)  
-Sum: 35,774 (Ranked 49)  
+Sum: 35,790 (Ranked 49)  
 Diff (max vs sum): 21  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 21
 | This game has Diverse Characters | 5,500 |
 | This game has a Creative Community | 3,739 |
 | This game is Highly Recommended | 3,455 |
-| This game has Amazing Characters | 3,044 |
+| This game has Amazing Characters | 3,060 |
 | This game is Extremely Fun | 2,766 |
 | This game has Amazing Storytelling | 2,751 |
 | This game has Easy Combat | 2,747 |
@@ -503,4 +503,4 @@ Diff (max vs sum): 21
 | 2024-06-17 | 4.61 | 6,824 | 35,360 |
 | 2024-06-18 | 4.61 | 6,834 | 35,562 |
 | 2024-06-19 | 4.61 | 6,854 | 35,758 |
-| 2024-06-20 | 4.61 | 6,854 | 35,774 |
+| 2024-06-20 | 4.61 | 6,854 | 35,790 |
