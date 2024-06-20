@@ -2,7 +2,7 @@
   "ID": "74ef4349fd684c438077d9e5287c7b2e",
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
-  "Ranking_Rating": 543,
+  "Ranking_Rating": 563,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 1087,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2024-03-14T14:58:36.3976804+00:00",
@@ -888,6 +888,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-06-20T05:58:25.8207742+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
@@ -962,8 +968,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-06-19T21:59:17.4392435+00:00",
+  "LastChanged": "2024-06-20T05:58:25.8207741+00:00",
   "LastUpdate_AppInfo": "2024-06-14T07:57:01.3611059+00:00",
-  "LastUpdate_Ratings": "2024-06-20T04:00:39.3878698+00:00",
+  "LastUpdate_Ratings": "2024-06-20T05:58:25.8207746+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:55.8838829+00:00"
 }
