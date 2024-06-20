@@ -2,7 +2,7 @@
   "ID": "14ee004dadc142faaaece5a6270fb628",
   "Name": "The Witcher 3: Wild Hunt \u2013 Complete Edition",
   "ProductSlug": "the-witcher-3-wild-hunt",
-  "Ranking_Rating": 10,
+  "Ranking_Rating": 11,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 1087,
@@ -23300,10 +23300,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 83909,
       "NumberOfAwardsMax": 28519
+    },
+    {
+      "Time": "2024-06-20T10:58:27.3677126+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 83915,
+      "NumberOfAwardsMax": 28519
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 83909,
+  "NumberOfAwards": 83915,
   "NumberOfAwardsMax": 28519,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -23359,7 +23365,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5332
+      "Count": 5338
     },
     {
       "Text": "This game has Diverse Characters",
@@ -23391,8 +23397,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2024-06-19T23:58:04.8421437+00:00",
+  "LastChanged": "2024-06-20T10:58:27.3677124+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:07.4488666+00:00",
-  "LastUpdate_Ratings": "2024-06-20T08:59:53.4759143+00:00",
+  "LastUpdate_Ratings": "2024-06-20T10:58:27.367713+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:02.8425462+00:00"
 }
