@@ -1,5 +1,8 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-06-20 | - |  | - | 0 |
+| [Workers & Resources: Soviet Republic](games/f/f5fdb08368b845aa9c27df5cb6995a24.md) | 2024-06-20 | - |  | - | - |
+| [Everafter Falls](games/b/bb5dabc784164e62ac3e96858de000bf.md) | 2024-06-20 | - |  | - | - |
 | [Cyber Avenger](games/2/23e0d8cad86d45308001a2c4151969c0.md) | 2024-06-20 | - |  | - | - |
 | [Rogue Glitch Ultra](games/3/3c27bc096b424648b664cdc673f02ae3.md) | 2024-06-20 | - |  | - | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-20 | 20 (1,000 XP) | 1 | - | - |
@@ -49,7 +52,7 @@
 | [Lost Artifacts 6: Mysterious Book Collector's Edition](games/d/d205843ad0a54884aead72ad4d50c161.md) | 2024-06-05 | - |  | - | - |
 | [Tomb nightmares](games/a/a5d808aff2a144048d1f842e0db6ad12.md) | 2024-06-05 | - |  | - | - |
 | [CoopValor WW2 Battle of the Bulge](games/a/a607d7b55d8a4a3ab898c28a16897c5e.md) | 2024-06-04 | - |  | - | - |
-| [Cleaning Queens 2: Sparkling Palace](games/6/6826d523207948248b2161700dc703ee.md) | 2024-06-04 | - |  | - | - |
+| [Cleaning Queens 2: Sparkling Palace](games/6/6826d523207948248b2161700dc703ee.md) | 2024-06-04 | - |  | - | 0 |
 | [Colony : Part I The Moon Castle](games/2/2c7d9a2ca1274d039abd2f434217040b.md) | 2024-06-04 | - |  | - | - |
 | [Diabotical Rogue](games/2/2ef1c6035f6240ae9bd6ab92eb82db4e.md) | 2024-06-04 | - |  | - | 0 |
 | [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | 2024-06-04 | 44 (1,000 XP) | 10 | - | 0 |
@@ -110,4 +113,3 @@
 | [Harvest Hunt](games/8/82b0be96b0014eba84d9dbc93fd21dbf.md) | 2024-05-22 | - |  | - | - |
 | [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | 0 |
 | [Ground to Dust](games/3/3d221e64f74743f0a0e78ab1518ce657.md) | 2024-05-22 | - |  | - | 0 |
-| [Survival: Fountain of Youth](games/c/cb0f45bc17c84708bbbe08741f6ff2b8.md) | 2024-05-21 | 49 (1,000 XP) | 44 | - | 0 |

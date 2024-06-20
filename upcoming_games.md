@@ -1,8 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Everafter Falls](games/b/bb5dabc784164e62ac3e96858de000bf.md) | 2024-06-20 | - |  | - | - |
-| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-06-20 | - |  | - | 0 |
-| [Workers & Resources: Soviet Republic](games/f/f5fdb08368b845aa9c27df5cb6995a24.md) | 2024-06-20 | - |  | - | - |
 | [Sift Heads Cartels](games/d/d90b9faabef34675acb0e84ff671ebce.md) | 2024-06-20 | - |  | - | - |
 | [The ultimate Math teaching game](games/0/053a26c9d1ee495e95ce70c65222d024.md) | 2024-06-20 | - |  | - | - |
 | [Immortal Life](games/b/b0de0a1fbe94491f9405ee6f825f3dd9.md) | 2024-06-21 | 72 (1,000 XP) | 1 | - | - |
