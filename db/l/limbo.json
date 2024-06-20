@@ -2,7 +2,7 @@
   "ID": "92053006068e4aa9b1ad413f72090f5e",
   "Name": "Limbo",
   "ProductSlug": "limbo",
-  "Ranking_Rating": 456,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 658,
   "Ranking_PopularitySum": 658,
   "Ranking_EOS_Progress": 1087,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 198,
   "RatingHistory": [
     {
@@ -426,6 +426,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-20T20:59:50.9057413+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -443,8 +449,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.942118+00:00",
-  "LastChanged": "2024-06-13T19:59:37.8375345+00:00",
+  "LastChanged": "2024-06-20T20:59:50.9057411+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:37.621672+00:00",
-  "LastUpdate_Ratings": "2024-06-20T19:58:12.6001936+00:00",
+  "LastUpdate_Ratings": "2024-06-20T20:59:50.9057418+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:49.6711417+00:00"
 }

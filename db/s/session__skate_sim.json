@@ -3,7 +3,7 @@
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 280,
-  "Ranking_Popularity": 455,
+  "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 417,
@@ -1967,11 +1967,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 726,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2024-06-20T20:57:37.6678326+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 727,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 726,
-  "NumberOfAwardsMax": 85,
+  "NumberOfAwards": 727,
+  "NumberOfAwardsMax": 86,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -2008,7 +2014,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 85
+      "Count": 86
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9302,9 +9308,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2024-06-19T19:57:39.880184+00:00",
+  "LastChanged": "2024-06-20T20:57:37.6678324+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:08.3514342+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:52.9361799+00:00",
-  "LastUpdate_Ratings": "2024-06-20T18:58:53.4606745+00:00",
+  "LastUpdate_Ratings": "2024-06-20T20:57:37.667833+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:08.35149+00:00"
 }
