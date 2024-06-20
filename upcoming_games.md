@@ -330,6 +330,7 @@
 | [Clicker Guardians](games/c/clicker_guardians.md) | 2099-01-01 | - |  | - | - |
 | [Cloud Cutter](games/c/cloud_cutter.md) | 2099-01-01 | 31 (1,000 XP) | 1 | - | - |
 | [Contingent®️](games/e/ed4fdacaea4746deb4aeb02480909cb1.md) | 2099-01-01 | - |  | - | - |
+| [Copa City](games/f/f01e94386f3141d583b60da78e1bdd61.md) | 2099-01-01 | - |  | - | - |
 | [Corsairs Legacy – Pirate Action RPG & Sea Battles](games/5/55172c31a4094ccda2f06c94635139c6.md) | 2099-01-01 | - |  | - | - |
 | [Critter Crops](games/c/critter_crops.md) | 2099-01-01 | - |  | - | - |
 | [Crowncity](games/8/8a9e2e0b21af45119ff2ada4a39be1a1.md) | 2099-01-01 | - |  | - | - |
