@@ -1,11 +1,11 @@
 # Paladins
 [Store](https://store.epicgames.com/en-US/p/paladins)  
 [View Rawdata](../../db/p/paladins.json)  
-Rating: 4.31 (Ranked 946)  
+Rating: 4.31 (Ranked 945)  
 Number of Ratings: 11,687  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 4,537  (Ranked 97)  
-Sum: 28,415 (Ranked 59)  
+Sum: 28,416 (Ranked 59)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 38
 | This game is Extremely Fun | 3,592 |
 | This game has Competitive Players | 3,591 |
 | This game is Highly Recommended | 3,580 |
-| This game has Quickly Understood Controls | 3,558 |
+| This game has Quickly Understood Controls | 3,559 |
 | This game has Amazing Characters | 3,473 |
 | This game is Great for Quick Sessions | 3,226 |
 | This game has Amazing Storytelling | 3,176 |
@@ -534,4 +534,4 @@ Diff (max vs sum): 38
 | 2024-06-17 | 4.31 | - | 4,528 | 28,381 |
 | 2024-06-18 | 4.31 | - | 4,531 | 28,394 |
 | 2024-06-19 | 4.31 | - | 4,537 | 28,403 |
-| 2024-06-20 | 4.31 | - | 4,537 | 28,415 |
+| 2024-06-20 | 4.31 | - | 4,537 | 28,416 |

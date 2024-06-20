@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 1118,
   "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -2987,10 +2987,16 @@
       "Rating": 4.09,
       "NumberOfAwards": 1799,
       "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2024-06-20T21:58:30.3829982+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 1800,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1799,
+  "NumberOfAwards": 1800,
   "NumberOfAwardsMax": 243,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3070,7 +3076,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 128
+      "Count": 129
     }
   ],
   "EOS_Progressed": 324327,
@@ -35940,9 +35946,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2024-06-20T09:57:41.862458+00:00",
+  "LastChanged": "2024-06-20T21:58:30.382998+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:12.8914777+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:15.0800211+00:00",
-  "LastUpdate_Ratings": "2024-06-20T19:59:46.6190324+00:00",
+  "LastUpdate_Ratings": "2024-06-20T21:58:30.3829987+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:12.8916379+00:00"
 }
