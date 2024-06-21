@@ -3,7 +3,7 @@
   "Name": "SKULL AND BONES\u2122",
   "ProductSlug": "skull-and-bones",
   "Ranking_Rating": 1105,
-  "Ranking_Popularity": 113,
+  "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -3211,18 +3211,24 @@
       "Rating": 4.13,
       "NumberOfAwards": 6481,
       "NumberOfAwardsMax": 2969
+    },
+    {
+      "Time": "2024-06-21T20:57:45.9698385+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 6489,
+      "NumberOfAwardsMax": 2977
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6481,
-  "NumberOfAwardsMax": 2969,
+  "NumberOfAwards": 6489,
+  "NumberOfAwardsMax": 2977,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2969
+      "Count": 2977
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3279,8 +3285,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-16T05:01:19.7778357+00:00",
   "FirstSeenRating": "2024-02-16T20:00:02.6134347+00:00",
-  "LastChanged": "2024-06-21T13:02:13.9592157+00:00",
+  "LastChanged": "2024-06-21T20:57:45.9698383+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:52.0541277+00:00",
-  "LastUpdate_Ratings": "2024-06-21T18:59:06.4165008+00:00",
+  "LastUpdate_Ratings": "2024-06-21T20:57:45.9698393+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:15.6087159+00:00"
 }

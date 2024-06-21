@@ -3,7 +3,7 @@
   "Name": "Train Valley 2",
   "ProductSlug": "train-valley-2-3606da",
   "Ranking_Rating": 692,
-  "Ranking_Popularity": 157,
+  "Ranking_Popularity": 156,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 486,
@@ -6501,18 +6501,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 2871,
       "NumberOfAwardsMax": 1301
+    },
+    {
+      "Time": "2024-06-21T20:57:30.1326507+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 2876,
+      "NumberOfAwardsMax": 1305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2871,
-  "NumberOfAwardsMax": 1301,
+  "NumberOfAwards": 2876,
+  "NumberOfAwardsMax": 1305,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 1301
+      "Count": 1305
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6524,7 +6530,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 163
+      "Count": 164
     },
     {
       "Text": "This game has Playful Visuals",
@@ -31207,9 +31213,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-06-21T12:01:27.92886+00:00",
+  "LastChanged": "2024-06-21T20:57:30.1326506+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:27.2866989+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:45.8236406+00:00",
-  "LastUpdate_Ratings": "2024-06-21T18:58:48.6563807+00:00",
+  "LastUpdate_Ratings": "2024-06-21T20:57:30.132651+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:27.2868694+00:00"
 }
