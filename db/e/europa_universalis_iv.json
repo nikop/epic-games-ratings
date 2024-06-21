@@ -20167,10 +20167,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 81619,
       "NumberOfAwardsMax": 9926
+    },
+    {
+      "Time": "2024-06-21T04:59:38.1164496+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 81628,
+      "NumberOfAwardsMax": 9926
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 81619,
+  "NumberOfAwards": 81628,
   "NumberOfAwardsMax": 9926,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -20178,7 +20184,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9535
+      "Count": 9544
     },
     {
       "Text": "This game has Challenging Combat",
@@ -55872,9 +55878,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-06-20T22:57:52.3192633+00:00",
+  "LastChanged": "2024-06-21T04:59:38.1164494+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:40.0484374+00:00",
   "LastUpdate_AppInfo": "2024-06-16T21:57:09.2900368+00:00",
-  "LastUpdate_Ratings": "2024-06-21T02:59:51.0678645+00:00",
+  "LastUpdate_Ratings": "2024-06-21T04:59:38.11645+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:40.0498314+00:00"
 }

@@ -331,7 +331,7 @@ Completed: 2 (0.00%) (Ranked 510)
 | 2024-06-17 | 599,301 | 2 |
 ## Awards
 Max (Challenging Combat): 491  (Ranked 249)  
-Sum: 3,985 (Ranked 178)  
+Sum: 3,986 (Ranked 178)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): 71
 | This game is Extremely Fun | 456 |
 | This game has Realistic Visuals | 447 |
 | This game has Competitive Players | 441 |
-| This game has Amazing Characters | 410 |
+| This game has Amazing Characters | 411 |
 | This game has Amazing Storytelling | 407 |
 | This game has a Competitive Community | 397 |
 | This game has Obsessive Gameplay | 156 |
@@ -834,4 +834,4 @@ Diff (max vs sum): 71
 | 2024-06-17 | 4.62 | - | 490 | 3,972 |
 | 2024-06-18 | 4.62 | - | 491 | 3,979 |
 | 2024-06-20 | 4.61 | - | 491 | 3,984 |
-| 2024-06-21 | 4.61 | - | 491 | 3,985 |
+| 2024-06-21 | 4.61 | - | 491 | 3,986 |

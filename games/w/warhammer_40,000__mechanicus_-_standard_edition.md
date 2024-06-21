@@ -329,7 +329,7 @@ Completed: 6 (0.00%) (Ranked 510)
 | 2024-06-17 | 242,215 | 6 |
 ## Awards
 Max (Highly Recommended): 303  (Ranked 292)  
-Sum: 2,326 (Ranked 229)  
+Sum: 2,327 (Ranked 229)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): 63
 | This game has Amazing Storytelling | 257 |
 | This game is Relaxing | 255 |
 | This game has Unique Visuals | 230 |
-| This game has a Creative Community | 108 |
+| This game has a Creative Community | 109 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -538,4 +538,4 @@ Diff (max vs sum): 63
 | 2024-06-17 | 4.44 | 302 | 2,321 |
 | 2024-06-18 | 4.44 | 303 | 2,323 |
 | 2024-06-19 | 4.44 | 303 | 2,325 |
-| 2024-06-21 | 4.44 | 303 | 2,326 |
+| 2024-06-21 | 4.44 | 303 | 2,327 |
