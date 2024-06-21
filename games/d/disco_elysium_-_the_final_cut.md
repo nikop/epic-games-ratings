@@ -336,7 +336,7 @@ Completed: 32 (0.02%) (Ranked 468)
 | 2024-06-17 | 146,324 | 32 |
 ## Awards
 Max (Character Customization): 816  (Ranked 202)  
-Sum: 1,265 (Ranked 284)  
+Sum: 1,266 (Ranked 284)  
 Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
@@ -350,7 +350,7 @@ Diff (max vs sum): -82
 | This game has Diverse Characters | 43 |
 | This game has Unique Visuals | 41 |
 | This game is Extremely Fun | 40 |
-| This game has a Creative Community | 28 |
+| This game has a Creative Community | 29 |
 | This game has Obsessive Gameplay | 26 |
 | This game has Easy Combat | 20 |
 ## Ratings History
@@ -600,3 +600,4 @@ Diff (max vs sum): -82
 | 2024-06-14 | 4.87 | - | 815 | 1,263 |
 | 2024-06-17 | 4.87 | - | 816 | 1,264 |
 | 2024-06-18 | 4.87 | - | 816 | 1,265 |
+| 2024-06-21 | 4.87 | - | 816 | 1,266 |

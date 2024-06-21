@@ -2,9 +2,9 @@
   "ID": "afe2527e29b94db48b2eef984e34d81a",
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
-  "Ranking_Rating": 784,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 333,
+  "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 449,
   "Ranking_EOS_NewPlayers": 1,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.44,
   "RatingHistory": [
     {
       "Time": "2024-05-17T19:01:00.799761+00:00",
@@ -648,10 +648,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 785,
       "NumberOfAwardsMax": 418
+    },
+    {
+      "Time": "2024-06-21T01:47:49.508363+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 788,
+      "NumberOfAwardsMax": 418
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 785,
+  "NumberOfAwards": 788,
   "NumberOfAwardsMax": 418,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -665,7 +671,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 178
+      "Count": 179
     },
     {
       "Text": "This game is Highly Recommended",
@@ -713,7 +719,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20
+      "Count": 22
     }
   ],
   "EOS_Progressed": 279563,
@@ -1302,9 +1308,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-06-20T19:58:36.4068569+00:00",
+  "LastChanged": "2024-06-21T01:47:49.5083626+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:54.7600691+00:00",
   "LastUpdate_AppInfo": "2024-06-20T17:57:22.4578998+00:00",
-  "LastUpdate_Ratings": "2024-06-20T22:59:10.6206517+00:00",
+  "LastUpdate_Ratings": "2024-06-21T01:47:49.5083633+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:54.7612031+00:00"
 }
