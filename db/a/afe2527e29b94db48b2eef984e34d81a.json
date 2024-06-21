@@ -3,7 +3,7 @@
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
   "Ranking_Rating": 758,
-  "Ranking_Popularity": 263,
+  "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 449,
@@ -666,18 +666,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 792,
       "NumberOfAwardsMax": 418
+    },
+    {
+      "Time": "2024-06-21T17:59:39.2316563+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 806,
+      "NumberOfAwardsMax": 432
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 792,
-  "NumberOfAwardsMax": 418,
+  "NumberOfAwards": 806,
+  "NumberOfAwardsMax": 432,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 418
+      "Count": 432
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1320,9 +1326,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-06-21T16:58:00.6650824+00:00",
+  "LastChanged": "2024-06-21T17:59:39.2316561+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:54.7600691+00:00",
   "LastUpdate_AppInfo": "2024-06-20T17:57:22.4578998+00:00",
-  "LastUpdate_Ratings": "2024-06-21T16:58:00.665083+00:00",
+  "LastUpdate_Ratings": "2024-06-21T17:59:39.2316567+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:54.7612031+00:00"
 }

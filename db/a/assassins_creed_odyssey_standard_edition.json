@@ -3,7 +3,7 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 153,
-  "Ranking_Popularity": 61,
+  "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -18852,18 +18852,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 24466,
       "NumberOfAwardsMax": 8721
+    },
+    {
+      "Time": "2024-06-21T17:58:40.860876+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 24479,
+      "NumberOfAwardsMax": 8732
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24466,
-  "NumberOfAwardsMax": 8721,
+  "NumberOfAwards": 24479,
+  "NumberOfAwardsMax": 8732,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8721
+      "Count": 8732
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -18893,13 +18899,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1043
+      "Count": 1044
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1013
+      "Count": 1014
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -18955,8 +18961,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-06-21T16:01:07.9543222+00:00",
+  "LastChanged": "2024-06-21T17:58:40.8608758+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:24.2983019+00:00",
-  "LastUpdate_Ratings": "2024-06-21T16:01:07.9543228+00:00",
+  "LastUpdate_Ratings": "2024-06-21T17:58:40.8608765+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:05.3191894+00:00"
 }
