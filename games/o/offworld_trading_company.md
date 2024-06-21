@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 963)
 Number of Ratings: 432  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 55  (Ranked 511)  
-Sum: 315 (Ranked 432)  
+Sum: 316 (Ranked 432)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 79
 | This game is Relaxing | 48 |
 | This game has Diverse Characters | 43 |
 | This game has Challenging Combat | 42 |
-| This game is Extremely Fun | 41 |
+| This game is Extremely Fun | 42 |
 | This game has Amazing Storytelling | 36 |
 | This game is Educational | 33 |
 | This game has Competitive Players | 28 |
@@ -153,3 +153,4 @@ Diff (max vs sum): 79
 | 2024-06-01 | 4.29 | - | 54 | 312 |
 | 2024-06-08 | 4.29 | - | 55 | 314 |
 | 2024-06-18 | 4.29 | - | 55 | 315 |
+| 2024-06-21 | 4.29 | - | 55 | 316 |

@@ -2,8 +2,8 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 474,
-  "Ranking_Popularity": 327,
+  "Ranking_Rating": 475,
+  "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 486,
@@ -968,18 +968,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 403,
       "NumberOfAwardsMax": 232
+    },
+    {
+      "Time": "2024-06-21T21:58:42.4805501+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 404,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 403,
-  "NumberOfAwardsMax": 232,
+  "NumberOfAwards": 404,
+  "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 232
+      "Count": 233
     },
     {
       "Text": "This game has Unique Visuals",
@@ -30417,9 +30423,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2024-05-27T16:58:31.4327919+00:00",
+  "LastChanged": "2024-06-21T21:58:42.4805499+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:55.6959611+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:22.0942583+00:00",
-  "LastUpdate_Ratings": "2024-06-21T20:00:30.6129959+00:00",
+  "LastUpdate_Ratings": "2024-06-21T21:58:42.4805504+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:55.6961609+00:00"
 }
