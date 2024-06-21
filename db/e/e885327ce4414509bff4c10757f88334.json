@@ -2,8 +2,8 @@
   "ID": "e885327ce4414509bff4c10757f88334",
   "Name": "Wuthering Waves",
   "ProductSlug": "wuthering-waves-76ebc5",
-  "Ranking_Rating": 880,
-  "Ranking_Popularity": 157,
+  "Ranking_Rating": 889,
+  "Ranking_Popularity": 153,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2024-05-23T10:59:58.0087544+00:00",
@@ -540,18 +540,24 @@
       "Rating": 4.37,
       "NumberOfAwards": 1556,
       "NumberOfAwardsMax": 1289
+    },
+    {
+      "Time": "2024-06-21T02:25:14.5912479+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1595,
+      "NumberOfAwardsMax": 1321
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1556,
-  "NumberOfAwardsMax": 1289,
+  "NumberOfAwards": 1595,
+  "NumberOfAwardsMax": 1321,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1289
+      "Count": 1321
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -569,13 +575,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 42
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game is Great for Beginners",
@@ -614,8 +620,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T02:22:20.3878047+00:00",
   "FirstSeenRating": "2024-05-23T10:59:58.0087542+00:00",
-  "LastChanged": "2024-06-20T23:59:20.9533964+00:00",
+  "LastChanged": "2024-06-21T02:25:14.5912478+00:00",
   "LastUpdate_AppInfo": "2024-06-15T08:57:07.7226448+00:00",
-  "LastUpdate_Ratings": "2024-06-20T23:59:20.9533969+00:00",
+  "LastUpdate_Ratings": "2024-06-21T02:25:14.5912482+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.4833168+00:00"
 }
