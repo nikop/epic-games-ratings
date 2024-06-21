@@ -18,7 +18,7 @@
 | 16 | [RimWorld](games/r/rimworld.md) | 4.88 | 562 | 238 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 658 |
 | 18 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 816 | 202 |
-| 18 | [God of War](games/g/god_of_war.md) | 4.87 | 5,797 | 85 |
+| 18 | [God of War](games/g/god_of_war.md) | 4.87 | 5,801 | 85 |
 | 18 | [Inscryption](games/i/inscryption.md) | 4.87 | 376 | 272 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,067 | 177 |
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 330,785 | 5 |
@@ -82,7 +82,7 @@
 | 73 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.82 | 0 | 658 |
 | 73 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 58 | 504 |
 | 73 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 372 | 274 |
-| 73 | [Sifu](games/s/sifu.md) | 4.82 | 7,964 | 65 |
+| 73 | [Sifu](games/s/sifu.md) | 4.82 | 7,974 | 65 |
 | 73 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 539 | 241 |
 | 73 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 460 |
 | 73 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 105 | 422 |
@@ -119,7 +119,7 @@
 | 107 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 126 | 395 |
 | 118 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.78 | 0 | 658 |
 | 118 | [Cozy Grove](games/c/cozy_grove.md) | 4.78 | 0 | 658 |
-| 118 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,154 | 49 |
+| 118 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,165 | 49 |
 | 118 | [Quake](games/q/quake.md) | 4.78 | 53 | 519 |
 | 118 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.78 | 44 | 535 |
 | 118 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 68 | 483 |
@@ -162,7 +162,7 @@
 | 153 | [GNOG](games/g/gnog.md) | 4.75 | 0 | 658 |
 | 153 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,656 | 67 |
 | 153 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 658 |
-| 153 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,567 | 28 |
+| 153 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,578 | 28 |
 | 153 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.75 | 0 | 658 |
 | 153 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 658 |
 | 153 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 107 | 420 |
@@ -265,7 +265,7 @@
 | 261 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 135,199 | 9 |
 | 261 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 658 |
 | 261 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.69 | 168,460 | 7 |
-| 261 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,553 | 62 |
+| 261 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,557 | 62 |
 | 261 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 273 | 306 |
 | 261 | [House Flipper](games/h/house_flipper.md) | 4.69 | 355 | 278 |
 | 261 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 658 |
@@ -414,7 +414,7 @@
 | 404 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 0 | 658 |
 | 404 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.62 | 88 | 452 |
 | 404 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 719 | 215 |
-| 404 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,563 | 147 |
+| 404 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,566 | 147 |
 | 404 | [Northgard](games/n/northgard.md) | 4.62 | 52 | 520 |
 | 404 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 658 |
 | 404 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 0 | 658 |
@@ -869,7 +869,7 @@
 | 859 | [Mothergunship](games/m/mothergunship.md) | 4.38 | 188 | 349 |
 | 859 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.38 | 0 | 658 |
 | 859 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.38 | 0 | 658 |
-| 859 | [NBA 2K21](games/n/nba_2k21.md) | 4.38 | 11,887 | 45 |
+| 859 | [NBA 2K21](games/n/nba_2k21.md) | 4.38 | 11,888 | 45 |
 | 859 | [Parkitect](games/p/parkitect.md) | 4.38 | 0 | 658 |
 | 859 | [Prince of Persia: Sands of Time](games/f/fc5bb62add4045f6adf9cafcf49c608d.md) | 4.38 | 0 | 658 |
 | 859 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.38 | 25 | 623 |
@@ -1062,7 +1062,7 @@
 | 1,056 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 6,602 | 72 |
 | 1,056 | [RiMS Racing](games/r/rims_racing.md) | 4.20 | 0 | 658 |
 | 1,062 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 524 |
-| 1,062 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,615 | 106 |
+| 1,062 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,616 | 106 |
 | 1,062 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 640 |
 | 1,062 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.19 | 80 | 464 |
 | 1,062 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 658 |
