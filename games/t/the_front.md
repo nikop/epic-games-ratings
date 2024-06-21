@@ -1,11 +1,11 @@
 # The Front
 [Store](https://store.epicgames.com/en-US/p/the-front-3a8219)  
 [View Rawdata](../../db/t/the_front.json)  
-Rating: 4.09 (Ranked 1,119)  
+Rating: 4.09 (Ranked 1,120)  
 ## Awards
 Max (Highly Recommended): 30  (Ranked 597)  
-Sum: 102 (Ranked 532)  
-Diff (max vs sum): 65  
+Sum: 103 (Ranked 530)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
@@ -13,7 +13,7 @@ Diff (max vs sum): 65
 | This game is Extremely Fun | 28 |
 | This game has Competitive Players | 28 |
 | This game is Relaxing | 25 |
-| This game has Amazing Storytelling | 23 |
+| This game has Amazing Storytelling | 24 |
 | This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -107,4 +107,4 @@ Diff (max vs sum): 65
 | 2024-05-31 | 4.09 | 29 | 99 |
 | 2024-06-12 | 4.09 | 29 | 100 |
 | 2024-06-13 | 4.09 | 29 | 101 |
-| 2024-06-21 | 4.09 | 30 | 102 |
+| 2024-06-21 | 4.09 | 30 | 103 |

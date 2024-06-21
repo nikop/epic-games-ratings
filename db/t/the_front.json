@@ -2,9 +2,9 @@
   "ID": "f4be56a88fff45fb8ffb1f05f1c76467",
   "Name": "The Front",
   "ProductSlug": "the-front-3a8219",
-  "Ranking_Rating": 1119,
+  "Ranking_Rating": 1120,
   "Ranking_Popularity": 597,
-  "Ranking_PopularitySum": 532,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -737,10 +737,16 @@
       "Rating": 4.09,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-06-21T11:59:03.4132981+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 103,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 102,
+  "NumberOfAwards": 103,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -778,7 +784,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -799,8 +805,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:43.5636582+00:00",
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
-  "LastChanged": "2024-06-21T01:48:09.8640019+00:00",
+  "LastChanged": "2024-06-21T11:59:03.4132979+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:58:12.1147893+00:00",
-  "LastUpdate_Ratings": "2024-06-21T10:00:29.29625+00:00",
+  "LastUpdate_Ratings": "2024-06-21T11:59:03.4132985+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:33.945624+00:00"
 }
