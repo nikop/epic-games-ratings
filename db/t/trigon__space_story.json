@@ -2,7 +2,7 @@
   "ID": "1b5e25ef034f497fbea17e9d3af3d7ba",
   "Name": "Trigon: Space Story",
   "ProductSlug": "trigon-ce1936",
-  "Ranking_Rating": 1046,
+  "Ranking_Rating": 1037,
   "Ranking_Popularity": 658,
   "Ranking_PopularitySum": 658,
   "Ranking_EOS_Progress": 1087,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -263,6 +263,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-21T07:59:06.2593055+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -280,8 +286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:03.1653519+00:00",
-  "LastChanged": "2024-06-20T06:59:54.9814652+00:00",
+  "LastChanged": "2024-06-21T07:59:06.2593053+00:00",
   "LastUpdate_AppInfo": "2024-06-16T20:57:32.9545546+00:00",
-  "LastUpdate_Ratings": "2024-06-21T06:00:03.6925184+00:00",
+  "LastUpdate_Ratings": "2024-06-21T07:59:06.2593058+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:46.7176301+00:00"
 }
