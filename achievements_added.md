@@ -88,7 +88,7 @@
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 29 | - | 0 |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 17,043 | 4.54 | 21 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 21 | - | 0 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 279,563 | 4.43 | 418 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 279,563 | 4.44 | 418 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 4 | - | - |
 | [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | 2024-04-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | 22 (1,000 XP) | 5 | - | - |
@@ -108,7 +108,7 @@
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | 33 (1,000 XP) | 0 | - | 0 |
 | [Sea of Dreams](games/a/a7414e60172b4759a136d064018119c1.md) | 2023-10-17 | 7 (1,000 XP) | 6 | - | 0 |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 4.28 | 268 |
-| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 58,298 | 3.85 | 78 |
+| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 58,298 | 3.86 | 78 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 12 | - | 0 |
 | [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | 77 (1,000 XP) | 35 | - | 0 |
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-04-05 | 30 (1,000 XP) | 2 | - | 0 |
@@ -129,7 +129,7 @@
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 1 | - | - |
 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 4,422 | 4.22 | 0 |
 | [NINJA KATO 3](games/4/45e5366436ed4058ad268d41516c4c0d.md) | 2024-04-21 | 5 (1,000 XP) | 0 | - | - |
-| [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.36 | 0 |
+| [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.38 | 0 |
 | [Outbreak The Fedora Files: What Lydia Knows](games/5/5367b40700174f1b9f4b5cc5ceb3751d.md) | 2024-05-03 | 31 (1,000 XP) | 4 | - | - |
 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 2024-03-29 | 58 (1,000 XP) | 81,800 | 4.82 | 58 |
 | [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 2024-04-10 | 5 (1,000 XP) | 6 | - | - |
@@ -163,7 +163,7 @@
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 27 | - | 0 |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | 31 (1,000 XP) | 124 | - | 0 |
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | 14 (1,000 XP) | 442 | - | 0 |
-| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 98 |
+| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 99 |
 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | 20 (1,000 XP) | 7,113 | 4.17 | 32 |
 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 13,443 | 4.81 | 397 |
 | [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 1,941 | 4.71 | 0 |
@@ -221,7 +221,7 @@
 | [Die Again](games/a/a3d688525a954efa8afc49bfe5464c80.md) | 2024-04-11 | 19 (1,000 XP) | 15 | - | - |
 | [Retro Commander](games/1/1e822fc232ef4a4a8bff9afdf5284cba.md) | 2024-02-01 | 15 (1,000 XP) | 1,368 | - | 0 |
 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-03-26 | 34 (1,000 XP) | 2 | - | 0 |
-| [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 2024-03-04 | 46 (1,000 XP) | 170 | 4.32 | 0 |
+| [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 2024-03-04 | 46 (1,000 XP) | 170 | 4.35 | 0 |
 | [Demise of Nations](games/2/284a71e3e36b41a18b474e5469060944.md) | 2024-02-02 | 21 (1,000 XP) | 350 | - | 0 |
 | [Inkulinati](games/3/3017522a6faa4fd4a8f16d5e2899fe69.md) | 2024-02-22 | 26 (1,000 XP) | 132 | - | 0 |
 | [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-22 | 14 (1,000 XP) | 1 | - | 0 |

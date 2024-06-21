@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Immortal Life](games/b/b0de0a1fbe94491f9405ee6f825f3dd9.md) | 2024-06-21 | 72 (1,000 XP) | 1 | - | - |
 | [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-06-21 | 17 (1,000 XP) | 1 | - | - |
 | [Exverse](games/1/1f39dc63e52d41d6aa207542f3cb22da.md) | 2024-06-24 | - |  | - | - |
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-27 | - |  | - | - |

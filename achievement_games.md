@@ -82,7 +82,7 @@
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | 48 (1,000 XP) | 1 | - | 0 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 2 | - | 0 |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 81,984 | 4.85 | 1,875 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 279,563 | 4.43 | 418 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 279,563 | 4.44 | 418 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | 7 (1,000 XP) | 262 | - | 0 |
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | 28 (1,000 XP) | 15 | - | 0 |
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | 38 (1,000 XP) | 32 | - | 0 |
@@ -153,7 +153,7 @@
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 1 | - | - |
 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 2,781 | 4.69 | 0 |
 | [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | 15 (1,000 XP) | 1 | - | - |
-| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 58,298 | 3.85 | 78 |
+| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 58,298 | 3.86 | 78 |
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 2024-04-01 | 58 (1,250 XP) | 838 | - | 0 |
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | 30 (1,000 XP) | 14 | - | 0 |
@@ -164,7 +164,7 @@
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | 23 (1,000 XP) | 22 | - | 0 |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 915 | - | 0 |
 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 2,166 | 4.11 | 0 |
-| [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.36 | 0 |
+| [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.38 | 0 |
 | [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 984 | - | 0 |
 | [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 1,048 | - | 0 |
 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 4,422 | 4.22 | 0 |
@@ -211,7 +211,7 @@
 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | 0 |
 | [Youtubers Life](games/a/aa743bad41d24af0a14b3d1e979e1f85.md) | 2024-03-05 | 63 (1,000 XP) | 2 | - | 0 |
 | [Youtubers Life 2](games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 2024-03-05 | 20 (1,000 XP) | 0 | - | 0 |
-| [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 2024-03-04 | 46 (1,000 XP) | 170 | 4.32 | 0 |
+| [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 2024-03-04 | 46 (1,000 XP) | 170 | 4.35 | 0 |
 | [Lost Islands](games/3/3b0aa55999714473a49215e89289f883.md) | 2024-03-02 | 19 (1,000 XP) | 2 | - | 0 |
 | [The Story Goes On](games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 2024-03-02 | 29 (1,000 XP) | 2 | - | - |
 | [Unwording](games/d/dfcaca0f28ed435ebaf4e12d87a39ad2.md) | 2024-03-01 | 14 (1,000 XP) | 75 | - | 0 |
@@ -455,7 +455,7 @@
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 385,304 | 4.21 | 110 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 505 | 4.82 | 0 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 24 | - | 0 |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 504,742 | 4.39 | 426 |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 504,742 | 4.39 | 427 |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-28 | 32 (1,000 XP) | 45 | - | 0 |
 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 2023-09-28 | 28 (1,000 XP) | 633 | - | 0 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-09-28 | 14 (1,000 XP) | 128,035 | 4.38 | 0 |
@@ -817,7 +817,7 @@
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 18,972 | 4.53 | 29 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 6,220 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 854 | - | 0 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 419,052 | 4.74 | 39,769 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 419,052 | 4.74 | 39,817 |
 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 2023-02-03 | 70 (1,000 XP) | 268 | - | 0 |
 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 2023-02-02 | 33 (1,000 XP) | 89,738 | 4.15 | 0 |
 | [PERISH](games/p/perish.md) | 2023-02-02 | 63 (1,000 XP) | 4,842 | - | 0 |
@@ -964,7 +964,7 @@
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 2022-06-23 | 22 (1,000 XP) | 43,014 | 4.21 | 130 |
 | [Sonic Origins](games/s/sonic_origins.md) | 2022-06-23 | 35 (1,000 XP) | 815 | 4.58 | 136 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 2022-06-23 | 49 (1,000 XP) | 288 | 4.43 | 0 |
-| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 39,791,726 | 4.50 | 161,073 |
+| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 39,791,726 | 4.50 | 161,108 |
 | [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 83,765 | 4.60 | 0 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 6,867 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,781 | 4.74 | 115 |
@@ -1088,7 +1088,7 @@
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,152,103 | 4.54 | 213 |
 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 546 | - | 0 |
 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 2021-06-16 | 14 (1,000 XP) | 719 | - | 0 |
-| [Going Medieval](games/g/going_medieval.md) | 2021-06-01 | 31 (1,000 XP) | 9,761 | 4.61 | 164 |
+| [Going Medieval](games/g/going_medieval.md) | 2021-06-01 | 31 (1,000 XP) | 9,761 | 4.61 | 165 |
 | [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 997 | 4.36 | 132 |
 | [Grindstone](games/g/grindstone.md) | 2021-05-20 | 49 (1,000 XP) | 5,298 | 4.84 | 0 |
 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 2021-05-13 | 31 (1,000 XP) | 36,322 | 4.35 | 210 |
@@ -1115,7 +1115,7 @@
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 7,787 | - | 0 |
 | [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 480,177 | 4.52 | 241 |
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 8,851 | 4.65 | 126 |
-| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 98 |
+| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 99 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 503,157 | 4.44 | 286 |
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.66 | 8,277 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,373 | 4.65 | 0 |

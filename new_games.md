@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Immortal Life](games/b/b0de0a1fbe94491f9405ee6f825f3dd9.md) | 2024-06-21 | 72 (1,000 XP) | 1 | - | - |
 | [The ultimate Math teaching game](games/0/053a26c9d1ee495e95ce70c65222d024.md) | 2024-06-20 | - |  | - | - |
 | [Sift Heads Cartels](games/d/d90b9faabef34675acb0e84ff671ebce.md) | 2024-06-20 | - |  | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-06-20 | - |  | - | 0 |
