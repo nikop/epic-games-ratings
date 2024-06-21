@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-3-game-of-the-year-edition",
   "Ranking_Rating": 456,
   "Ranking_Popularity": 29,
-  "Ranking_PopularitySum": 47,
+  "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -12473,10 +12473,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 35997,
       "NumberOfAwardsMax": 17331
+    },
+    {
+      "Time": "2024-06-21T17:01:28.8358838+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 36002,
+      "NumberOfAwardsMax": 17331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35997,
+  "NumberOfAwards": 36002,
   "NumberOfAwardsMax": 17331,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12550,7 +12556,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2211
+      "Count": 2216
     }
   ],
   "EOS_Progressed": 0,
@@ -12565,8 +12571,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-06-21T13:02:17.7264274+00:00",
+  "LastChanged": "2024-06-21T17:01:28.8358836+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:26.9192395+00:00",
-  "LastUpdate_Ratings": "2024-06-21T15:58:36.9081174+00:00",
+  "LastUpdate_Ratings": "2024-06-21T17:01:28.8358842+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:33.3398715+00:00"
 }

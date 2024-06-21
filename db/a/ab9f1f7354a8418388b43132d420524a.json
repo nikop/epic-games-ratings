@@ -2,9 +2,9 @@
   "ID": "ab9f1f7354a8418388b43132d420524a",
   "Name": "Town of Salem 2",
   "ProductSlug": "town-of-salem-2-ab6497",
-  "Ranking_Rating": 621,
-  "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 475,
+  "Ranking_Rating": 622,
+  "Ranking_Popularity": 533,
+  "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -774,11 +774,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 211,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-06-21T16:59:31.6120871+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 216,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 211,
-  "NumberOfAwardsMax": 42,
+  "NumberOfAwards": 216,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -803,7 +809,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 42
+      "Count": 47
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4384,9 +4390,9 @@
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:33.4303838+00:00",
-  "LastChanged": "2024-06-21T03:59:29.4866043+00:00",
+  "LastChanged": "2024-06-21T16:59:31.6120869+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:33.4303806+00:00",
   "LastUpdate_AppInfo": "2024-06-20T20:57:19.9366304+00:00",
-  "LastUpdate_Ratings": "2024-06-21T15:01:09.0065998+00:00",
+  "LastUpdate_Ratings": "2024-06-21T16:59:31.6120875+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:33.4324347+00:00"
 }
