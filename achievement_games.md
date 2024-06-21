@@ -232,7 +232,7 @@
 | [SPACE ELITE FORCE II](games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 2024-02-16 | 69 (1,000 XP) | 58 | - | 0 |
 | [DotLine](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | 42 (1,000 XP) | 31 | - | - |
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-02-15 | 45 (1,000 XP) | 399 | - | 0 |
-| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 1,852 | 4.68 | 0 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 1,852 | 4.69 | 0 |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2024-02-14 | 35 (1,000 XP) | 2 | - | 0 |
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 27 | - | 0 |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | 63 (1,000 XP) | 87 | - | 0 |
@@ -281,7 +281,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 61 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 85 | - | 0 |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 77 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 69,435 | 4.30 | 94 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 69,435 | 4.28 | 94 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 98 | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 50 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 188 | - | - |
@@ -371,7 +371,7 @@
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 40 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 62,117 | 4.83 | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.79 | 685 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.79 | 690 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,322 | 4.60 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 206 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 70 | - | - |
@@ -727,7 +727,7 @@
 | [Life After Death](games/l/life_after_death.md) | 2023-04-28 | 60 (1,000 XP) | 37 | - | 0 |
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 10 (1,000 XP) | 24 | - | 0 |
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 62,985 | 4.50 | 13,328 |
-| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 576,005 | 3.85 | 57 |
+| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 576,005 | 3.85 | 58 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 3,337 | 4.43 | 0 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 29 (1,150 XP) | 1,132 | - | 0 |
 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 2023-04-27 | 40 (1,000 XP) | 178 | - | 0 |
@@ -856,7 +856,7 @@
 | [IXION](games/i/ixion.md) | 2022-12-07 | 57 (1,050 XP) | 4,906 | 4.60 | 0 |
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,011 | 4.37 | 0 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,351 | 4.33 | 0 |
-| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,246,479 | 4.01 | 11,317 |
+| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,246,479 | 4.01 | 11,447 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 27,304 | 4.23 | 184 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 79,217 | - | - |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 396 | - | 0 |
@@ -971,11 +971,11 @@
 | [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 513 | 4.18 | 0 |
 | [It Takes Two](games/i/it_takes_two.md) | 2022-06-10 | 20 (1,000 XP) | 189,539 | - | - |
 | [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 6 | 4.66 | 0 |
-| [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 100 (1,420 XP) | 456,631 | 4.48 | 1,301 |
+| [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 100 (1,420 XP) | 456,631 | 4.48 | 1,305 |
 | [My Lovely Wife](games/m/my_lovely_wife.md) | 2022-06-07 | 33 (1,000 XP) | 683 | 4.38 | 0 |
 | [Battlefield V Definitive Edition](games/b/battlefield_v_definitive_edition.md) | 2022-06-03 | 21 (1,000 XP) | 133,158 | - | - |
 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 2022-06-02 | 19 (1,000 XP) | 3,665 | - | 0 |
-| [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,187 | 4.69 | 704 |
+| [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,187 | 4.69 | 705 |
 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 2022-05-20 | 11 (1,000 XP) | 2,239 | 4.19 | 0 |
 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2022-05-19 | 75 (1,000 XP) | 58,358 | 4.37 | 2,186 |
 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 2022-05-19 | 60 (1,000 XP) | 489 | 4.73 | 0 |
@@ -1027,7 +1027,7 @@
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 12,736 | - | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 188 | - | 0 |
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 784,372 | 4.82 | 7,974 |
-| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,134,738 | 4.59 | 17,144 |
+| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,134,738 | 4.59 | 17,163 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 482 | 4.68 | 54 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,449,954 | 4.77 | 12,844 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 533 | - | 0 |
@@ -1037,7 +1037,7 @@
 | [Unspottable](games/u/unspottable.md) | 2021-12-14 | 25 (1,000 XP) | 16 | - | 0 |
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 12,101 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,095 | - | 0 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 248 (5,965 XP) | 1,461,055 | 4.50 | 48,137 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 248 (5,965 XP) | 1,461,055 | 4.50 | 48,224 |
 | [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 262,266 | 4.61 | 898 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 16 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,648 | 4.46 | 36 |

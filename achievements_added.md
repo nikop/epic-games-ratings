@@ -236,7 +236,7 @@
 | [Youtubers Life 2](games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 2024-03-05 | 20 (1,000 XP) | 0 | - | 0 |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-12-18 | 38 (1,000 XP) | 1 | - | - |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 915 | - | 0 |
-| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 1,852 | 4.68 | 0 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 1,852 | 4.69 | 0 |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | 0 |
 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 2024-01-23 | 30 (1,000 XP) | 6 | - | 0 |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 3 | - | - |
@@ -275,7 +275,7 @@
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 4 | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 61 | - | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 98 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 69,435 | 4.30 | 94 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 69,435 | 4.28 | 94 |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 402 | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 7 | - | 0 |
@@ -383,7 +383,7 @@
 | [Dizzy Fight](games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 2023-11-30 | 5 (1,000 XP) | 0 | - | - |
 | [Who's Your Daddy?!](games/6/63d0293742c943d68b88af4173b1a5d0.md) | 2023-11-10 | 28 (1,000 XP) | 1,967 | - | 0 |
 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 2023-11-13 | 34 (1,000 XP) | 401 | - | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.79 | 685 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.79 | 690 |
 | [Patrolling Mars](games/e/e8e0954ed50b46458165b250c8a05671.md) | 2023-11-10 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | 17 (1,000 XP) | 1 | - | 0 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 46 | - | 0 |
@@ -392,7 +392,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,322 | 4.60 | 0 |
 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 2023-11-10 | 6 (1,000 XP) | 1 | - | 0 |
 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 2023-11-11 | 11 (1,000 XP) | 125 | - | 0 |
-| [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,187 | 4.69 | 704 |
+| [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,187 | 4.69 | 705 |
 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 2023-11-17 | 67 (1,000 XP) | 8 | - | 0 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 168,460 |
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
