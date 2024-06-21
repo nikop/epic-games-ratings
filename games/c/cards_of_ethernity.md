@@ -4,11 +4,12 @@
 Rating: 4.44 (Ranked 758)  
 ## Awards
 Max (Great for Beginners): 29  (Ranked 599)  
-Sum: 29 (Ranked 622)  
-Diff (max vs sum): -23  
+Sum: 49 (Ranked 587)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 29 |
+| This game is Great for Quick Sessions | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -56,3 +57,4 @@ Diff (max vs sum): -23
 | 2024-05-24 | 4.42 | 29 | 29 |
 | 2024-05-27 | 4.43 | 29 | 29 |
 | 2024-06-03 | 4.44 | 29 | 29 |
+| 2024-06-21 | 4.44 | 29 | 49 |
