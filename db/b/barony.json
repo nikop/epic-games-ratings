@@ -3,7 +3,7 @@
   "Name": "Barony",
   "ProductSlug": "barony",
   "Ranking_Rating": 169,
-  "Ranking_Popularity": 387,
+  "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -2808,11 +2808,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 863,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-06-21T06:58:23.1736591+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 864,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 863,
-  "NumberOfAwardsMax": 135,
+  "NumberOfAwards": 864,
+  "NumberOfAwardsMax": 136,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2849,7 +2855,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 135
+      "Count": 136
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2887,8 +2893,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2024-06-20T18:00:31.5863605+00:00",
+  "LastChanged": "2024-06-21T06:58:23.173659+00:00",
   "LastUpdate_AppInfo": "2024-06-16T19:57:24.5735944+00:00",
-  "LastUpdate_Ratings": "2024-06-21T05:00:35.1861229+00:00",
+  "LastUpdate_Ratings": "2024-06-21T06:58:23.1736595+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:01.8058218+00:00"
 }
