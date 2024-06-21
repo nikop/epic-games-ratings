@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/darkwood.json)  
 Rating: 4.62 (Ranked 404)  
 ## Awards
-Max (Extremely Fun): 339  (Ranked 282)  
-Sum: 2,512 (Ranked 224)  
-Diff (max vs sum): 58  
+Max (Extremely Fun): 339  (Ranked 283)  
+Sum: 2,513 (Ranked 224)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 339 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 283 |
 | This game has Unique Visuals | 280 |
 | This game has Diverse Characters | 270 |
-| This game has Amazing Characters | 266 |
+| This game has Amazing Characters | 267 |
 | This game has a Creative Community | 178 |
 | This game has Obsessive Gameplay | 65 |
 ## Ratings History
@@ -158,4 +158,4 @@ Diff (max vs sum): 58
 | 2024-06-16 | 4.62 | 339 | 2,509 |
 | 2024-06-17 | 4.62 | 339 | 2,510 |
 | 2024-06-20 | 4.62 | 339 | 2,511 |
-| 2024-06-21 | 4.62 | 339 | 2,512 |
+| 2024-06-21 | 4.62 | 339 | 2,513 |
