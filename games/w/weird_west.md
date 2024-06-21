@@ -1,7 +1,7 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.44 (Ranked 758)  
+Rating: 4.43 (Ranked 785)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -364,3 +364,4 @@ Diff (max vs sum): -54
 | 2024-06-16 | 4.44 | - | 63 | 100 |
 | 2024-06-17 | 4.44 | - | 63 | 103 |
 | 2024-06-18 | 4.44 | - | 41 | 41 |
+| 2024-06-21 | 4.43 | - | 41 | 41 |

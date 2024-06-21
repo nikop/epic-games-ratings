@@ -341,8 +341,8 @@ Completed: 1 (0.00%) (Ranked 510)
 | 2024-06-17 | 896,248 | 1 |
 ## Awards
 Max (Great for Beginners): 599  (Ranked 235)  
-Sum: 2,050 (Ranked 236)  
-Diff (max vs sum): -1  
+Sum: 2,050 (Ranked 237)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 599 |
