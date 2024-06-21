@@ -29,7 +29,7 @@
 | 18 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.87 | 0 | 658 |
 | 28 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 154 | 374 |
 | 28 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 50 | 523 |
-| 28 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,784 | 142 |
+| 28 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,784 | 143 |
 | 28 | [Rain World](games/r/rain_world.md) | 4.86 | 23 | 635 |
 | 28 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 60 | 496 |
 | 28 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 178 | 360 |
@@ -111,7 +111,7 @@
 | 107 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 0 | 658 |
 | 107 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 183 | 355 |
 | 107 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 635 |
-| 107 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,782 | 143 |
+| 107 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,788 | 142 |
 | 107 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 995 | 184 |
 | 107 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,977 | 112 |
 | 107 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 450 | 255 |
@@ -143,7 +143,7 @@
 | 126 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 72 | 479 |
 | 126 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 658 |
 | 143 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 17,977 | 27 |
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,618 | 105 |
+| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,620 | 105 |
 | 143 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,405 | 149 |
 | 143 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 658 |
 | 143 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.76 | 2,662 | 115 |
@@ -813,7 +813,7 @@
 | 803 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 71 |
 | 803 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 0 | 658 |
 | 803 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 658 |
-| 803 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,340 | 151 |
+| 803 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,343 | 151 |
 | 803 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 192 | 348 |
 | 803 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 104 | 423 |
 | 803 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 658 |
@@ -1204,7 +1204,7 @@
 | 1,202 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.71 | 0 | 658 |
 | 1,203 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 658 |
 | 1,203 | [Redfall](games/r/redfall.md) | 3.68 | 42 | 543 |
-| 1,205 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.65 | 249 | 315 |
+| 1,205 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.66 | 249 | 315 |
 | 1,206 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.62 | 0 | 658 |
 | 1,207 | [Adios](games/a/adios.md) | 3.53 | 0 | 658 |
 | 1,208 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.47 | 181 | 357 |
