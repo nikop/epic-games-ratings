@@ -3,8 +3,8 @@
   "Name": "Ghost of Tsushima DIRECTOR\u0027S CUT",
   "ProductSlug": "ghost-of-tsushima",
   "Ranking_Rating": 35,
-  "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 170,
+  "Ranking_Popularity": 135,
+  "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -1429,24 +1429,30 @@
       "Rating": 4.85,
       "NumberOfAwards": 4480,
       "NumberOfAwardsMax": 1875
+    },
+    {
+      "Time": "2024-06-21T18:58:13.2144786+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 4520,
+      "NumberOfAwardsMax": 1898
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4480,
-  "NumberOfAwardsMax": 1875,
+  "NumberOfAwards": 4520,
+  "NumberOfAwardsMax": 1898,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1875
+      "Count": 1898
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 243
+      "Count": 250
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1458,7 +1464,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 227
+      "Count": 232
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1470,7 +1476,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 249
+      "Count": 254
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2153,9 +2159,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-06-21T17:00:14.9417562+00:00",
+  "LastChanged": "2024-06-21T18:58:13.2144784+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:52.5912044+00:00",
   "LastUpdate_AppInfo": "2024-06-20T02:23:24.5915757+00:00",
-  "LastUpdate_Ratings": "2024-06-21T17:00:14.9417567+00:00",
+  "LastUpdate_Ratings": "2024-06-21T18:58:13.2144789+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:52.5919744+00:00"
 }

@@ -1,7 +1,7 @@
 # Neighbours back From Hell
 [Store](https://store.epicgames.com/en-US/p/neighbours-back-from-hell)  
 [View Rawdata](../../db/n/neighbours_back_from_hell.json)  
-Rating: 4.77 (Ranked 126)  
+Rating: 4.78 (Ranked 118)  
 Number of Ratings: 30  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -37,3 +37,4 @@ Number of Ratings: 30  (23.09.2022)
 | 2023-12-03 | 4.75 | - | 0 | 0 |
 | 2024-04-14 | 4.76 | - | 0 | 0 |
 | 2024-04-24 | 4.77 | - | 0 | 0 |
+| 2024-06-21 | 4.78 | - | 0 | 0 |
