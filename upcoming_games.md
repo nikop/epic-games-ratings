@@ -4,7 +4,6 @@
 | [Exverse](games/1/1f39dc63e52d41d6aa207542f3cb22da.md) | 2024-06-24 | - |  | - | - |
 | [Space Wolf](games/6/67b63764a0ad4f9a86559d8b798ef25e.md) | 2024-06-27 | - |  | - | - |
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-27 | - |  | - | - |
-| [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-06-27 | - |  | - | - |
 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Madiha In The Forsaken Dungeon](games/7/7f389c9fc7a948b9a944af9bc652bfa3.md) | 2024-06-29 | - |  | - | - |
@@ -71,6 +70,7 @@
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 0 | - | - |
 | [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2024-08-15 | - |  | - | - |
+| [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-08-15 | - |  | - | - |
 | [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2024-08-16 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-08-16 | - |  | - | - |
 | [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 2024-08-16 | - |  | - | - |
@@ -331,6 +331,7 @@
 | [Copa City](games/f/f01e94386f3141d583b60da78e1bdd61.md) | 2099-01-01 | - |  | - | - |
 | [Corsairs Legacy – Pirate Action RPG & Sea Battles](games/5/55172c31a4094ccda2f06c94635139c6.md) | 2099-01-01 | - |  | - | - |
 | [Critter Crops](games/c/critter_crops.md) | 2099-01-01 | - |  | - | - |
+| [Croakwood](games/5/5bacc25fb66544fdad2982efe9630eb1.md) | 2099-01-01 | - |  | - | - |
 | [Crowncity](games/8/8a9e2e0b21af45119ff2ada4a39be1a1.md) | 2099-01-01 | - |  | - | - |
 | [Cthulhu: Books of Ancients](games/c/cthulhu__books_of_ancients.md) | 2099-01-01 | - |  | - | - |
 | [Cyber：Mind Dive](games/8/89a398941c5c447fbf32413109f3d2e1.md) | 2099-01-01 | - |  | - | - |
