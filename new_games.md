@@ -90,7 +90,7 @@
 | [Knight Swap](games/d/d62ad943ddbb4d0b8aa4969f31260bc5.md) | 2024-05-29 | 10 (1,000 XP) | 40 | - | 0 |
 | [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | 10 (1,000 XP) | 84 | - | 0 |
 | [1001 Jigsaw. Cute Cats 2](games/1/1f631325713047fc8ec24312c5516155.md) | 2024-05-29 | - |  | - | - |
-| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,311,693 | 4.55 | 5,031 |
+| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,311,693 | 4.55 | 5,042 |
 | [Corpse Keeper](games/c/corpse_keeper.md) | 2024-05-28 | - |  | - | 0 |
 | [Argonauts Agency 3: Chair of Hephaestus](games/2/29b93abfbd7c4e028999d69deeb9b16d.md) | 2024-05-27 | - |  | - | 0 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | 15 (1,000 XP) | 2 | - | - |
@@ -117,4 +117,3 @@
 | [Phoots and the Pineapple Throne](games/0/06fd63da93b64b10af24c7c77bb6cb2f.md) | 2024-05-22 | - |  | - | 0 |
 | [Harvest Hunt](games/8/82b0be96b0014eba84d9dbc93fd21dbf.md) | 2024-05-22 | - |  | - | - |
 | [Men of War II](games/m/men_of_war_ii.md) | 2024-05-22 | - |  | - | 0 |
-| [Ground to Dust](games/3/3d221e64f74743f0a0e78ab1518ce657.md) | 2024-05-22 | - |  | - | 0 |
