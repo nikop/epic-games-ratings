@@ -3,8 +3,8 @@
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
   "Ranking_Rating": 1008,
-  "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 234,
+  "Ranking_Popularity": 293,
+  "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -534,12 +534,18 @@
       "Rating": 4.25,
       "NumberOfAwards": 2191,
       "NumberOfAwardsMax": 247
+    },
+    {
+      "Time": "2024-06-21T22:57:37.7651289+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 2328,
+      "NumberOfAwardsMax": 298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2191,
-  "NumberOfAwardsMax": 247,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 2328,
+  "NumberOfAwardsMax": 298,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -557,7 +563,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 243
+      "Count": 298
     },
     {
       "Text": "This game is Highly Recommended",
@@ -581,13 +587,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 160
+      "Count": 182
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 182
+      "Count": 213
     },
     {
       "Text": "This game has Amazing Characters",
@@ -599,7 +605,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 179
+      "Count": 208
     },
     {
       "Text": "This game has Competitive Players",
@@ -620,8 +626,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-06-21T19:00:13.0359797+00:00",
+  "LastChanged": "2024-06-21T22:57:37.7651287+00:00",
   "LastUpdate_AppInfo": "2024-06-16T13:00:59.3551343+00:00",
-  "LastUpdate_Ratings": "2024-06-21T20:58:48.0224572+00:00",
+  "LastUpdate_Ratings": "2024-06-21T22:57:37.7651291+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.2786758+00:00"
 }
