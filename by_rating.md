@@ -21,7 +21,7 @@
 | 18 | [God of War](games/g/god_of_war.md) | 4.87 | 5,797 | 85 |
 | 18 | [Inscryption](games/i/inscryption.md) | 4.87 | 376 | 272 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,067 | 177 |
-| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 330,444 | 5 |
+| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 330,785 | 5 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,156 | 26 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 627 |
 | 18 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 738 | 211 |
@@ -37,7 +37,7 @@
 | 28 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 176 | 361 |
 | 36 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.85 | 48 | 529 |
 | 36 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.85 | 0 | 658 |
-| 36 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,161 | 79 |
+| 36 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,162 | 79 |
 | 36 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 4.85 | 1,875 | 136 |
 | 36 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.85 | 60 | 496 |
 | 36 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.85 | 0 | 658 |
@@ -172,7 +172,7 @@
 | 169 | [Barony](games/b/barony.md) | 4.74 | 135 | 387 |
 | 169 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 70 | 481 |
 | 169 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 39,817 | 17 |
-| 169 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 990 | 185 |
+| 169 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 992 | 185 |
 | 169 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,537 | 58 |
 | 169 | [Outlast](games/o/outlast.md) | 4.74 | 33 | 581 |
 | 169 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,130 | 171 |
@@ -383,7 +383,7 @@
 | 366 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,318 | 19 |
 | 366 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,316 | 154 |
 | 366 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.64 | 0 | 658 |
-| 366 | [Trackmania Starter Access](games/t/trackmania.md) | 4.64 | 5,039 | 90 |
+| 366 | [Trackmania Starter Access](games/t/trackmania.md) | 4.64 | 5,041 | 90 |
 | 366 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 234 | 325 |
 | 386 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.63 | 0 | 658 |
 | 386 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 21 | 646 |
@@ -456,7 +456,7 @@
 | 426 | [Warframe](games/w/warframe.md) | 4.61 | 24,646 | 22 |
 | 426 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 887 | 200 |
 | 426 | [Witchfire](games/w/witchfire.md) | 4.61 | 152 | 376 |
-| 457 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 990 | 185 |
+| 457 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 990 | 186 |
 | 457 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.60 | 0 | 658 |
 | 457 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 18,234 | 25 |
 | 457 | [Death's Door](games/d/death's_door.md) | 4.60 | 0 | 658 |
@@ -498,7 +498,7 @@
 | 473 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 0 | 658 |
 | 473 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 658 |
 | 473 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.59 | 90 | 447 |
-| 499 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 69,963 | 12 |
+| 499 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 69,995 | 12 |
 | 499 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.58 | 241 | 321 |
 | 499 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 280 | 301 |
 | 499 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 658 |
@@ -625,7 +625,7 @@
 | 620 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 658 |
 | 620 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 658 |
 | 620 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.52 | 375 | 273 |
-| 620 | [GigaBash](games/g/gigabash.md) | 4.52 | 106 | 421 |
+| 620 | [GigaBash](games/g/gigabash.md) | 4.52 | 107 | 419 |
 | 620 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 114 | 409 |
 | 620 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 144 | 381 |
 | 620 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 4.52 | 0 | 658 |
@@ -678,7 +678,7 @@
 | 651 | [Wall World](games/w/wall_world.md) | 4.50 | 0 | 658 |
 | 677 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,095 | 129 |
 | 677 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 4.49 | 0 | 658 |
-| 677 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,975 | 59 |
+| 677 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 8,985 | 59 |
 | 677 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 658 |
 | 677 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 658 |
 | 677 | [Maneater](games/m/maneater.md) | 4.49 | 14,261 | 37 |
@@ -989,7 +989,7 @@
 | 987 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 86 | 453 |
 | 987 | [Men of War](games/m/men_of_war.md) | 4.27 | 0 | 658 |
 | 987 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 26 | 619 |
-| 987 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,298 | 76 |
+| 987 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,301 | 76 |
 | 987 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 0 | 658 |
 | 987 | [Steelrising](games/s/steelrising.md) | 4.27 | 44 | 535 |
 | 987 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.27 | 0 | 658 |
