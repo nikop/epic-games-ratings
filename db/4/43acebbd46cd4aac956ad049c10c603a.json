@@ -4,7 +4,7 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 422,
+  "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 1,
@@ -743,10 +743,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 343,
       "NumberOfAwardsMax": 176
+    },
+    {
+      "Time": "2024-06-20T23:57:22.1198857+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 176
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 343,
+  "NumberOfAwards": 344,
   "NumberOfAwardsMax": 176,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -778,7 +784,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Educational",
@@ -5359,9 +5365,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-06-20T18:58:26.7132586+00:00",
+  "LastChanged": "2024-06-20T23:57:22.1198855+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:43.8579429+00:00",
   "LastUpdate_AppInfo": "2024-06-14T09:57:06.1792367+00:00",
-  "LastUpdate_Ratings": "2024-06-20T21:59:34.4252532+00:00",
+  "LastUpdate_Ratings": "2024-06-20T23:57:22.1198859+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:43.8579951+00:00"
 }
