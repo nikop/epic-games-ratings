@@ -1,11 +1,11 @@
 # A Plague Tale: Innocence
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-innocence)  
 [View Rawdata](../../db/a/a_plague_tale__innocence.json)  
-Rating: 4.66 (Ranked 321)  
+Rating: 4.66 (Ranked 322)  
 Number of Ratings: 10,904  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 3,829  (Ranked 102)  
-Sum: 4,456 (Ranked 171)  
+Sum: 4,458 (Ranked 171)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -69
 | This game is Extremely Fun | 65 |
 | This game has Diverse Characters | 64 |
 | This game has Amazing Storytelling | 59 |
-| This game is Relaxing | 55 |
+| This game is Relaxing | 57 |
 | This game has a Creative Community | 40 |
 | This game has Easy Combat | 24 |
 ## Ratings History
@@ -302,4 +302,4 @@ Diff (max vs sum): -69
 | 2024-06-17 | 4.66 | - | 3,826 | 4,451 |
 | 2024-06-18 | 4.66 | - | 3,827 | 4,452 |
 | 2024-06-20 | 4.66 | - | 3,827 | 4,453 |
-| 2024-06-21 | 4.66 | - | 3,829 | 4,456 |
+| 2024-06-21 | 4.66 | - | 3,829 | 4,458 |
