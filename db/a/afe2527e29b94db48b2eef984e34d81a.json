@@ -2,7 +2,7 @@
   "ID": "afe2527e29b94db48b2eef984e34d81a",
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
-  "Ranking_Rating": 760,
+  "Ranking_Rating": 759,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 78,
@@ -690,10 +690,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 811,
       "NumberOfAwardsMax": 432
+    },
+    {
+      "Time": "2024-06-22T16:58:00.8450146+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 812,
+      "NumberOfAwardsMax": 432
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 811,
+  "NumberOfAwards": 812,
   "NumberOfAwardsMax": 432,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -755,7 +761,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 279563,
@@ -1344,9 +1350,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-06-22T03:58:44.4931397+00:00",
+  "LastChanged": "2024-06-22T16:58:00.8450144+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:54.7600691+00:00",
   "LastUpdate_AppInfo": "2024-06-20T17:57:22.4578998+00:00",
-  "LastUpdate_Ratings": "2024-06-22T14:59:08.6192505+00:00",
+  "LastUpdate_Ratings": "2024-06-22T16:58:00.8450148+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:54.7612031+00:00"
 }

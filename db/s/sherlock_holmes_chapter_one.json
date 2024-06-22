@@ -3,8 +3,8 @@
   "Name": "Sherlock Holmes Chapter One",
   "ProductSlug": "sherlock-holmes-chapter-one",
   "Ranking_Rating": 744,
-  "Ranking_Popularity": 658,
-  "Ranking_PopularitySum": 658,
+  "Ranking_Popularity": 659,
+  "Ranking_PopularitySum": 659,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -651,6 +651,6 @@
   "FirstSeen": "2022-07-22T20:17:16.496586+00:00",
   "LastChanged": "2024-06-21T16:59:19.7539413+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:07.1742747+00:00",
-  "LastUpdate_Ratings": "2024-06-22T14:59:58.6547556+00:00",
+  "LastUpdate_Ratings": "2024-06-22T16:58:53.2837606+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:40.7484788+00:00"
 }
