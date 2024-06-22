@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Coreborn](games/f/f1c9dd3a1471408f9e1f6bf0aad94698.md) | 2024-06-24 | - |  | - | - |
 | [Neon Blood](games/6/6837a72a7eec4e648f78b73d025bd53e.md) | 2099-01-01 | - |  | - | - |
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2099-01-01 | 8 (1,000 XP) | 3,210 | - | 0 |
 | [HardGame](games/7/7ca7a846b0124a1cb722646b6123a324.md) | 2099-01-01 | - |  | - | - |
