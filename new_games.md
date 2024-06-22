@@ -109,4 +109,3 @@
 | [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 2,420 | - | 0 |
 | [Ships At Sea](games/5/5c610ed6aec14085a604cb5e42e70ad4.md) | 2024-05-23 | - |  | - | 0 |
 | [Tennis Manager 2024](games/0/0ccff28e73c64060b1c9a74c3298fd68.md) | 2024-05-23 | - |  | - | - |
-| [Vacation Adventures Park Ranger 16 Collectors Edition](games/5/53a06f8aaff64a5ab3939f048ccdb178.md) | 2024-05-23 | - |  | - | 0 |
