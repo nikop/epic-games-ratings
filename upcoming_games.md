@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-23 | 5 (1,000 XP) | 1 | - | - |
 | [Coreborn](games/f/f1c9dd3a1471408f9e1f6bf0aad94698.md) | 2024-06-24 | - |  | - | - |
 | [Exverse](games/1/1f39dc63e52d41d6aa207542f3cb22da.md) | 2024-06-24 | - |  | - | - |
 | [Madiha In The Forsaken Dungeon](games/7/7f389c9fc7a948b9a944af9bc652bfa3.md) | 2024-06-26 | - |  | - | - |
@@ -620,7 +621,6 @@
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2099-01-01 | - |  | - | - |
 | [The 22nd is Serda. f0a178](games/e/ee7012dfa0784b638503492ccd494e1f.md) | 2099-01-01 | - |  | - | - |
 | [The Alters](games/t/the_alters.md) | 2099-01-01 | - |  | - | - |
-| [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2099-01-01 | 5 (1,000 XP) | 1 | - | - |
 | [The Bridge Curse 2: The Extrication](games/f/ff2082fe95a24381a0dc3b3d4ca92636.md) | 2099-01-01 | - |  | - | - |
 | [The Bustling World](games/b/b38a9cee1f0e4b72ab9b8f2aff8b1e07.md) | 2099-01-01 | - |  | - | - |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2099-01-01 | - |  | - | - |
