@@ -367,6 +367,7 @@
 | [Egging On](games/9/95a03fa57a43471e823f035c6ead4821.md) | 2099-01-01 | - |  | - | - |
 | [ElectriX](games/e/electrix.md) | 2099-01-01 | - |  | - | - |
 | [Elite Comet](games/4/4843acbd9ca647e3ad3eecae110daa80.md) | 2099-01-01 | - |  | - | - |
+| [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2099-01-01 | - |  | - | - |
 | [Entropic Decay](games/6/634b4057b29d483a9f3d6541b362f681.md) | 2099-01-01 | - |  | - | - |
 | [Escape from ever after](games/2/2ce0aeaba01a4c47b7c9dadb0eb7ad4e.md) | 2099-01-01 | - |  | - | - |
 | [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |
