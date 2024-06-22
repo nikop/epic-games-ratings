@@ -1,7 +1,7 @@
 # The Silent Age
 [Store](https://store.epicgames.com/en-US/p/the-silent-age-eb6972)  
 [View Rawdata](../../db/t/the_silent_age.json)  
-Rating: 4.39 (Ranked 853)  
+Rating: 4.40 (Ranked 837)  
 Number of Ratings: 29  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -71,3 +71,4 @@ Number of Ratings: 29  (23.09.2022)
 | 2024-03-21 | 4.37 | - | 0 | 0 |
 | 2024-03-31 | 4.38 | - | 0 | 0 |
 | 2024-05-17 | 4.39 | - | 0 | 0 |
+| 2024-06-22 | 4.40 | - | 0 | 0 |
