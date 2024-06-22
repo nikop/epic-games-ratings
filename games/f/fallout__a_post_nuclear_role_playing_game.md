@@ -3,12 +3,12 @@
 [View Rawdata](../../db/f/fallout__a_post_nuclear_role_playing_game.json)  
 Rating: 4.62 (Ranked 405)  
 ## Awards
-Max (Character Customization): 233  (Ranked 326)  
-Sum: 253 (Ranked 461)  
-Diff (max vs sum): -135  
+Max (Character Customization): 234  (Ranked 325)  
+Sum: 254 (Ranked 461)  
+Diff (max vs sum): -136  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 233 |
+| This game has Inclusive Character Customization | 234 |
 | This game is Hard for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -176,3 +176,4 @@ Diff (max vs sum): -135
 | 2024-06-18 | 4.62 | 231 | 251 |
 | 2024-06-19 | 4.62 | 232 | 252 |
 | 2024-06-20 | 4.62 | 233 | 253 |
+| 2024-06-22 | 4.62 | 234 | 254 |
