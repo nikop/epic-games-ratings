@@ -318,12 +318,12 @@ Completed: 111 (0.26%) (Ranked 340)
 | 2024-06-17 | 43,014 | 111 |
 ## Awards
 Max (Quickly Understood Controls): 130  (Ranked 393)  
-Sum: 830 (Ranked 327)  
+Sum: 831 (Ranked 327)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 130 |
-| This game is Extremely Fun | 115 |
+| This game is Extremely Fun | 116 |
 | This game is Highly Recommended | 114 |
 | This game has Competitive Players | 105 |
 | This game is Relaxing | 103 |
@@ -454,3 +454,4 @@ Diff (max vs sum): 66
 | 2024-04-19 | 4.21 | - | 129 | 828 |
 | 2024-05-04 | 4.21 | - | 129 | 829 |
 | 2024-05-09 | 4.21 | - | 130 | 830 |
+| 2024-06-22 | 4.21 | - | 130 | 831 |

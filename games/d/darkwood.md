@@ -4,7 +4,7 @@
 Rating: 4.62 (Ranked 404)  
 ## Awards
 Max (Extremely Fun): 339  (Ranked 284)  
-Sum: 2,514 (Ranked 225)  
+Sum: 2,515 (Ranked 225)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 59
 | This game has Unique Visuals | 280 |
 | This game has Diverse Characters | 270 |
 | This game has Amazing Characters | 267 |
-| This game has a Creative Community | 178 |
+| This game has a Creative Community | 179 |
 | This game has Obsessive Gameplay | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -159,4 +159,4 @@ Diff (max vs sum): 59
 | 2024-06-17 | 4.62 | 339 | 2,510 |
 | 2024-06-20 | 4.62 | 339 | 2,511 |
 | 2024-06-21 | 4.62 | 339 | 2,513 |
-| 2024-06-22 | 4.62 | 339 | 2,514 |
+| 2024-06-22 | 4.62 | 339 | 2,515 |
