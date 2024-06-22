@@ -3,7 +3,7 @@
   "Name": "In Sound Mind",
   "ProductSlug": "in-sound-mind",
   "Ranking_Rating": 425,
-  "Ranking_Popularity": 488,
+  "Ranking_Popularity": 486,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -1007,11 +1007,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 357,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2024-06-22T20:58:44.8917988+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 358,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 357,
-  "NumberOfAwardsMax": 65,
+  "NumberOfAwards": 358,
+  "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -1030,7 +1036,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1080,8 +1086,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
-  "LastChanged": "2024-06-09T17:59:59.8679187+00:00",
+  "LastChanged": "2024-06-22T20:58:44.8917986+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:58:48.9217908+00:00",
-  "LastUpdate_Ratings": "2024-06-22T19:00:40.0773697+00:00",
+  "LastUpdate_Ratings": "2024-06-22T20:58:44.891799+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:00.39227+00:00"
 }

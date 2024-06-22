@@ -4,7 +4,7 @@
   "ProductSlug": "seekers-of-tokane-a5986d",
   "Ranking_Rating": 694,
   "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 549,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -510,10 +510,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-06-22T20:59:08.3012487+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86,
+  "NumberOfAwards": 87,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -533,7 +539,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -548,8 +554,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-06-20T22:58:11.1584755+00:00",
+  "LastChanged": "2024-06-22T20:59:08.3012485+00:00",
   "LastUpdate_AppInfo": "2024-06-21T02:24:03.88972+00:00",
-  "LastUpdate_Ratings": "2024-06-22T19:57:26.4189646+00:00",
+  "LastUpdate_Ratings": "2024-06-22T20:59:08.301249+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:25.6181009+00:00"
 }
