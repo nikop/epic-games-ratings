@@ -4,7 +4,7 @@
   "ProductSlug": "neon-abyss",
   "Ranking_Rating": 300,
   "Ranking_Popularity": 208,
-  "Ranking_PopularitySum": 153,
+  "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -5631,10 +5631,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5857,
       "NumberOfAwardsMax": 774
+    },
+    {
+      "Time": "2024-06-22T11:57:35.7630494+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5858,
+      "NumberOfAwardsMax": 774
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5857,
+  "NumberOfAwards": 5858,
   "NumberOfAwardsMax": 774,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5690,7 +5696,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 530
+      "Count": 531
     },
     {
       "Text": "This game has a Creative Community",
@@ -5710,8 +5716,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2024-06-21T19:57:44.6411319+00:00",
+  "LastChanged": "2024-06-22T11:57:35.7630492+00:00",
   "LastUpdate_AppInfo": "2024-06-16T09:57:22.8613232+00:00",
-  "LastUpdate_Ratings": "2024-06-22T09:58:36.0609485+00:00",
+  "LastUpdate_Ratings": "2024-06-22T11:57:35.7630498+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:24.3288183+00:00"
 }
