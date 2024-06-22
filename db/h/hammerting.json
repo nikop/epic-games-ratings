@@ -2,7 +2,7 @@
   "ID": "942b65a56ff448f6be529cd07b407bb0",
   "Name": "Hammerting",
   "ProductSlug": "hammerting",
-  "Ranking_Rating": 921,
+  "Ranking_Rating": 892,
   "Ranking_Popularity": 658,
   "Ranking_PopularitySum": 658,
   "Ranking_EOS_Progress": 1087,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.36,
   "NumberOfRatings": 21,
   "RatingHistory": [
     {
@@ -140,6 +140,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-22T13:57:53.2944821+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -158,8 +164,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:38.7700421+00:00",
   "FirstSeenRating": "2022-09-17T18:02:30.2695463+00:00",
-  "LastChanged": "2024-05-13T03:59:31.2106886+00:00",
+  "LastChanged": "2024-06-22T13:57:53.294482+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:49.7967241+00:00",
-  "LastUpdate_Ratings": "2024-06-22T11:59:46.5866534+00:00",
+  "LastUpdate_Ratings": "2024-06-22T13:57:53.2944825+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:50.4487581+00:00"
 }

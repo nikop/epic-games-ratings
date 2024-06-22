@@ -2,9 +2,9 @@
   "ID": "c986e75258a146fba03a920dba852ca9",
   "Name": "Cat Quest",
   "ProductSlug": "cat-quest-8373e0",
-  "Ranking_Rating": 344,
-  "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 424,
+  "Ranking_Rating": 323,
+  "Ranking_Popularity": 282,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 1,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-12-29T10:57:23.2583362+00:00",
@@ -647,18 +647,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 339,
       "NumberOfAwardsMax": 339
+    },
+    {
+      "Time": "2024-06-22T13:57:11.8990188+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 339,
-  "NumberOfAwardsMax": 339,
+  "NumberOfAwards": 341,
+  "NumberOfAwardsMax": 341,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 339
+      "Count": 341
     }
   ],
   "EOS_Progressed": 353875,
@@ -4335,9 +4341,9 @@
   "FirstSeen": "2023-12-28T18:57:14.4261716+00:00",
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
-  "LastChanged": "2024-06-19T13:04:17.1552292+00:00",
+  "LastChanged": "2024-06-22T13:57:11.8990187+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:14.1810296+00:00",
   "LastUpdate_AppInfo": "2024-06-21T07:57:27.8088393+00:00",
-  "LastUpdate_Ratings": "2024-06-22T11:59:03.4250461+00:00",
+  "LastUpdate_Ratings": "2024-06-22T13:57:11.8990192+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:14.1810598+00:00"
 }

@@ -1,7 +1,7 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.53 (Ranked 1,210)  
+Rating: 3.52 (Ranked 1,210)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -347,3 +347,4 @@ Completed: 1,105 (1.20%) (Ranked 213)
 | 2024-03-25 | 3.57 | 0 | 0 |
 | 2024-03-29 | 3.58 | 0 | 0 |
 | 2024-04-15 | 3.53 | 0 | 0 |
+| 2024-06-22 | 3.52 | 0 | 0 |
