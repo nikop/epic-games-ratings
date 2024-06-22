@@ -7,8 +7,8 @@
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
-    "ReleaseDate": "2024-06-29T14:00:00+00:00",
-    "PcReleaseDate": "2024-06-29T14:00:00+00:00",
+    "ReleaseDate": "2024-06-26T22:00:00+00:00",
+    "PcReleaseDate": "2024-06-26T22:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-21T04:57:16.4759721+00:00",
-  "LastUpdate_Ratings": "2024-06-22T10:59:29.2083457+00:00"
+  "LastUpdate_Ratings": "2024-06-22T13:03:53.0288949+00:00"
 }
