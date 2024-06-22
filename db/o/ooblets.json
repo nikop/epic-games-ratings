@@ -4,7 +4,7 @@
   "ProductSlug": "ooblets",
   "Ranking_Rating": 18,
   "Ranking_Popularity": 178,
-  "Ranking_PopularitySum": 241,
+  "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -2190,10 +2190,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1971,
       "NumberOfAwardsMax": 1068
+    },
+    {
+      "Time": "2024-06-22T21:59:46.4312576+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1903,
+      "NumberOfAwardsMax": 1068
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1971,
+  "NumberOfAwards": 1903,
   "NumberOfAwardsMax": 1068,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2287,8 +2293,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:49.4319987+00:00",
-  "LastChanged": "2024-06-22T07:58:22.3377969+00:00",
+  "LastChanged": "2024-06-22T21:59:46.4312574+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:47.6881663+00:00",
-  "LastUpdate_Ratings": "2024-06-22T20:57:14.526249+00:00",
+  "LastUpdate_Ratings": "2024-06-22T21:59:46.431258+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:06.4506212+00:00"
 }

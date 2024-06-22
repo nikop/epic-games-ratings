@@ -2,7 +2,7 @@
   "ID": "8c7ed85dae4341d385919ee4d832eb1a",
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
-  "Ranking_Rating": 621,
+  "Ranking_Rating": 620,
   "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 1087,
@@ -2040,10 +2040,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 918,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-06-22T21:57:28.9395192+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 919,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 918,
+  "NumberOfAwards": 919,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2075,7 +2081,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2131,8 +2137,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2024-06-10T14:00:40.6015413+00:00",
+  "LastChanged": "2024-06-22T21:57:28.9395191+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:57.4820354+00:00",
-  "LastUpdate_Ratings": "2024-06-22T19:58:50.6989666+00:00",
+  "LastUpdate_Ratings": "2024-06-22T21:57:28.9395196+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:49.9600584+00:00"
 }

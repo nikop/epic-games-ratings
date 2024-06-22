@@ -1,11 +1,11 @@
 # Just Die Already
 [Store](https://store.epicgames.com/en-US/p/just-die-already)  
 [View Rawdata](../../db/j/just_die_already.json)  
-Rating: 4.52 (Ranked 621)  
+Rating: 4.52 (Ranked 620)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 114  (Ranked 410)  
-Sum: 918 (Ranked 311)  
+Sum: 919 (Ranked 311)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
@@ -13,8 +13,8 @@ Diff (max vs sum): 99
 | This game has Diverse Characters | 113 |
 | This game is Great for Beginners | 99 |
 | This game is Extremely Fun | 92 |
+| This game has Amazing Storytelling | 88 |
 | This game is Great for Quick Sessions | 87 |
-| This game has Amazing Storytelling | 87 |
 | This game has Quickly Understood Controls | 87 |
 | This game is Relaxing | 86 |
 | This game has a Silly Community | 86 |
@@ -209,3 +209,4 @@ Diff (max vs sum): 99
 | 2024-05-30 | 4.52 | - | 113 | 915 |
 | 2024-06-07 | 4.52 | - | 113 | 917 |
 | 2024-06-10 | 4.52 | - | 114 | 918 |
+| 2024-06-22 | 4.52 | - | 114 | 919 |
