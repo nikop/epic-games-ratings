@@ -2,7 +2,7 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 1087,
@@ -15853,10 +15853,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 10710,
       "NumberOfAwardsMax": 1133
+    },
+    {
+      "Time": "2024-06-22T15:58:18.8696709+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 10715,
+      "NumberOfAwardsMax": 1133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10710,
+  "NumberOfAwards": 10715,
   "NumberOfAwardsMax": 1133,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15882,7 +15888,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1068
+      "Count": 1071
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15894,7 +15900,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 999
+      "Count": 1001
     },
     {
       "Text": "This game is Great for Beginners",
@@ -15950,8 +15956,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-06-22T14:00:33.3935998+00:00",
+  "LastChanged": "2024-06-22T15:58:18.8696707+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:50.3590801+00:00",
-  "LastUpdate_Ratings": "2024-06-22T14:00:33.3936005+00:00",
+  "LastUpdate_Ratings": "2024-06-22T15:58:18.8696718+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:23.974471+00:00"
 }
