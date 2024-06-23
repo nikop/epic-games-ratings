@@ -2,7 +2,7 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 153,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 1087,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "NumberOfRatings": 4120,
   "RatingHistory": [
     {
@@ -15895,11 +15895,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 10730,
       "NumberOfAwardsMax": 1133
+    },
+    {
+      "Time": "2024-06-23T16:58:28.1316358+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 10736,
+      "NumberOfAwardsMax": 1135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10730,
-  "NumberOfAwardsMax": 1133,
+  "NumberOfAwards": 10736,
+  "NumberOfAwardsMax": 1135,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -15924,7 +15930,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1071
+      "Count": 1075
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15942,7 +15948,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1133
+      "Count": 1135
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15992,8 +15998,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-06-23T08:59:10.3958553+00:00",
+  "LastChanged": "2024-06-23T16:58:28.1316356+00:00",
   "LastUpdate_AppInfo": "2024-06-16T22:57:50.3590801+00:00",
-  "LastUpdate_Ratings": "2024-06-23T14:59:48.4757085+00:00",
+  "LastUpdate_Ratings": "2024-06-23T16:58:28.1316363+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:23.974471+00:00"
 }
