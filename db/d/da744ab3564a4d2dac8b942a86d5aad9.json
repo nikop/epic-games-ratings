@@ -2,7 +2,7 @@
   "ID": "da744ab3564a4d2dac8b942a86d5aad9",
   "Name": "Haven\u0027s Compass",
   "ProductSlug": "havens-compass-c31bb4",
-  "Ranking_Rating": 892,
+  "Ranking_Rating": 861,
   "Ranking_Popularity": 659,
   "Ranking_PopularitySum": 659,
   "Ranking_EOS_Progress": 1087,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2024-06-19T03:57:13.0088873+00:00",
@@ -53,6 +53,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-22T23:57:13.990372+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -71,8 +77,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-16T13:58:03.294766+00:00",
   "FirstSeenRating": "2024-06-19T03:57:13.0088871+00:00",
-  "LastChanged": "2024-06-22T19:59:53.6739741+00:00",
+  "LastChanged": "2024-06-22T23:57:13.9903719+00:00",
   "LastUpdate_AppInfo": "2024-06-20T14:57:00.0787417+00:00",
-  "LastUpdate_Ratings": "2024-06-22T21:59:07.8091108+00:00",
+  "LastUpdate_Ratings": "2024-06-22T23:57:13.9903726+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:27.5274501+00:00"
 }
