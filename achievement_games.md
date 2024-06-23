@@ -200,7 +200,7 @@
 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | 64 (1,000 XP) | 25 | - | 0 |
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 165 | - | 0 |
 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,079 | 4.27 | 0 |
-| [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 149,122 | 4.77 | 0 |
+| [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 149,122 | 4.78 | 0 |
 | [As Dusk Falls](games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 2024-03-07 | 50 (1,000 XP) | 64 | - | 0 |
 | [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 8 | - | 0 |
 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2024-03-06 | 5 (1,000 XP) | 2 | - | 0 |
@@ -494,7 +494,7 @@
 | [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 1,252 | 4.61 | 0 |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-10 | 14 (1,000 XP) | 787 | - | 0 |
 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-09-08 | 50 (1,000 XP) | 231 | - | 0 |
-| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 43 (1,300 XP) | 10,761 | 4.66 | 29 |
+| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 43 (1,300 XP) | 10,761 | 4.63 | 29 |
 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 2023-09-08 | 24 (1,000 XP) | 1 | - | 0 |
 | [SYNCED](games/s/synced.md) | 2023-09-08 | 16 (1,000 XP) | 107,049 | 4.09 | 188 |
 | [Baby Storm](games/c/ce637d3eeee844a8b902d93416b1e40e.md) | 2023-09-07 | 32 (1,000 XP) | 19 | - | 0 |
@@ -854,7 +854,7 @@
 | [Pirates Outlaws](games/p/pirates_outlaws.md) | 2022-12-12 | 124 (1,000 XP) | 78 | - | 0 |
 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 2022-12-08 | 72 (1,000 XP) | 418,344 | 4.40 | 616 |
 | [IXION](games/i/ixion.md) | 2022-12-07 | 57 (1,050 XP) | 4,906 | 4.60 | 0 |
-| [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,011 | 4.37 | 0 |
+| [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,011 | 4.36 | 0 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,351 | 4.33 | 0 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,246,479 | 4.01 | 11,486 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 27,304 | 4.23 | 185 |

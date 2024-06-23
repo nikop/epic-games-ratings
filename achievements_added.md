@@ -178,7 +178,7 @@
 | [Highwater](games/h/highwater.md) | 2024-03-14 | 20 (1,000 XP) | 12 | - | 0 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 6,757 | 4.60 | 97 |
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2099-01-01 | 8 (1,000 XP) | 3,210 | - | 0 |
-| [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 149,122 | 4.77 | 0 |
+| [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 149,122 | 4.78 | 0 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 113 | - | 0 |
 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-07 | 23 (1,000 XP) | 126 | - | 0 |
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 146 | 4.66 | 0 |
@@ -579,7 +579,7 @@
 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 2023-08-29 | 19 (1,000 XP) | 44 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 15 | - | - |
 | [Amigo Kebab Simulator](games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 2099-01-01 | 31 (1,000 XP) | 0 | - | - |
-| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 43 (1,300 XP) | 10,761 | 4.66 | 29 |
+| [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 43 (1,300 XP) | 10,761 | 4.63 | 29 |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | 21 (1,000 XP) | 1 | - | 0 |
 | [Marble It Up! Ultra](games/2/267b56359a8c45ee9154861187de210b.md) | 2023-08-17 | 86 (1,000 XP) | 212 | - | 0 |
 | [The Wild Case](games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 2023-09-30 | 18 (1,000 XP) | 0 | - | - |
