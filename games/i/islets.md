@@ -1,18 +1,18 @@
 # Islets
 [Store](https://store.epicgames.com/en-US/p/islets-5f2670)  
 [View Rawdata](../../db/i/islets.json)  
-Rating: 4.72 (Ranked 202)  
+Rating: 4.71 (Ranked 215)  
 ## Awards
 Max (Quickly Understood Controls): 38  (Ranked 557)  
-Sum: 263 (Ranked 455)  
+Sum: 264 (Ranked 455)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 38 |
 | This game is Extremely Fun | 38 |
 | This game is Highly Recommended | 36 |
+| This game is Relaxing | 34 |
 | This game is Great for Beginners | 34 |
-| This game is Relaxing | 33 |
 | This game is Great for Quick Sessions | 30 |
 | This game has Amazing Characters | 27 |
 | This game has Amazing Storytelling | 27 |
@@ -90,3 +90,4 @@ Diff (max vs sum): 102
 | 2024-06-20 | 4.71 | 38 | 262 |
 | 2024-06-21 | 4.71 | 38 | 263 |
 | 2024-06-22 | 4.72 | 38 | 263 |
+| 2024-06-23 | 4.71 | 38 | 264 |

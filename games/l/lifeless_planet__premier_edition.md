@@ -1,7 +1,7 @@
 # Lifeless Planet: Premier Edition
 [Store](https://store.epicgames.com/en-US/p/lifeless-planet-premier-edition)  
 [View Rawdata](../../db/l/lifeless_planet__premier_edition.json)  
-Rating: 4.04 (Ranked 1,141)  
+Rating: 4.03 (Ranked 1,145)  
 Number of Ratings: 287  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -97,3 +97,4 @@ Number of Ratings: 287  (23.09.2022)
 | 2023-12-31 | 4.04 | - | 0 | 0 |
 | 2024-01-23 | 4.05 | - | 0 | 0 |
 | 2024-05-26 | 4.04 | - | 0 | 0 |
+| 2024-06-23 | 4.03 | - | 0 | 0 |
