@@ -4,7 +4,7 @@
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_Rating": 991,
   "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -2255,10 +2255,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 519,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-06-23T13:00:11.8294178+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 524,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 519,
+  "NumberOfAwards": 524,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2278,7 +2284,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Competitive Players",
@@ -2302,19 +2308,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2335,8 +2341,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-06-23T04:01:01.0322983+00:00",
+  "LastChanged": "2024-06-23T13:00:11.8294177+00:00",
   "LastUpdate_AppInfo": "2024-06-19T06:57:07.3666392+00:00",
-  "LastUpdate_Ratings": "2024-06-23T10:59:12.0160238+00:00",
+  "LastUpdate_Ratings": "2024-06-23T13:00:11.8294181+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:03.9714079+00:00"
 }
