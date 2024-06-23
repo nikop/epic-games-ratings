@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-x-5d70eb",
   "Ranking_Rating": 543,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 454,
+  "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -972,10 +972,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 266,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-06-23T20:59:00.1759928+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 285,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 266,
+  "NumberOfAwards": 285,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -989,7 +995,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has a Creative Community",
@@ -1007,7 +1013,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 41
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1025,13 +1031,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 27
+      "Count": 31
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -1046,8 +1052,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-06-23T17:57:35.7804941+00:00",
+  "LastChanged": "2024-06-23T20:59:00.1759926+00:00",
   "LastUpdate_AppInfo": "2024-06-21T07:57:27.684555+00:00",
-  "LastUpdate_Ratings": "2024-06-23T18:59:35.1338196+00:00",
+  "LastUpdate_Ratings": "2024-06-23T20:59:00.1759932+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:55.8838829+00:00"
 }
