@@ -186,7 +186,7 @@ Completed: 6 (0.04%) (Ranked 439)
 | 2024-06-17 | 17,028 | 6 |
 ## Awards
 Max (Character Customization): 983  (Ranked 188)  
-Sum: 2,710 (Ranked 217)  
+Sum: 2,713 (Ranked 217)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -198,7 +198,7 @@ Diff (max vs sum): -29
 | This game has Amazing Storytelling | 141 |
 | This game has Amazing Characters | 130 |
 | This game is Extremely Fun | 127 |
-| This game has Quickly Understood Controls | 120 |
+| This game has Quickly Understood Controls | 123 |
 | This game has Competitive Players | 36 |
 | This game is Relaxing | 20 |
 | This game has a Creative Community | 20 |
@@ -447,3 +447,4 @@ Diff (max vs sum): -29
 | 2024-06-20 | 4.22 | 981 | 2,701 |
 | 2024-06-21 | 4.22 | 981 | 2,703 |
 | 2024-06-22 | 4.22 | 983 | 2,710 |
+| 2024-06-23 | 4.22 | 983 | 2,713 |
