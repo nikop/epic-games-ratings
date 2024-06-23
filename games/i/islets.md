@@ -3,8 +3,8 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.71 (Ranked 215)  
 ## Awards
-Max (Quickly Understood Controls): 38  (Ranked 557)  
-Sum: 264 (Ranked 455)  
+Max (Quickly Understood Controls): 38  (Ranked 558)  
+Sum: 264 (Ranked 456)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |

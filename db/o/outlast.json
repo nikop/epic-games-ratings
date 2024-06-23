@@ -3,7 +3,7 @@
   "Name": "Outlast",
   "ProductSlug": "outlast",
   "Ranking_Rating": 171,
-  "Ranking_Popularity": 576,
+  "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
@@ -525,10 +525,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 133,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-06-23T21:58:40.3084716+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 134,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 133,
+  "NumberOfAwards": 134,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -560,7 +566,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -575,8 +581,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-06-23T16:58:59.2881165+00:00",
-  "LastUpdate_AppInfo": "2024-06-16T20:57:17.964147+00:00",
-  "LastUpdate_Ratings": "2024-06-23T20:01:28.9572116+00:00",
+  "LastChanged": "2024-06-23T21:58:40.3084714+00:00",
+  "LastUpdate_AppInfo": "2024-06-23T21:57:06.9194702+00:00",
+  "LastUpdate_Ratings": "2024-06-23T21:58:40.3084719+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:54.3159747+00:00"
 }
