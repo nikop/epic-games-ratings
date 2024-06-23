@@ -1,7 +1,7 @@
 # OCTOPATH TRAVELER™
 [Store](https://store.epicgames.com/en-US/p/octopath-traveler)  
 [View Rawdata](../../db/o/octopath_traveler™.json)  
-Rating: 4.80 (Ranked 97)  
+Rating: 4.79 (Ranked 105)  
 Number of Ratings: 166  (23.09.2022)  
 ## Awards
 Max (Character Customization): 136  (Ranked 385)  
@@ -116,3 +116,4 @@ Diff (max vs sum): -127
 | 2024-02-11 | 4.81 | - | 134 | 134 |
 | 2024-03-10 | 4.80 | - | 134 | 134 |
 | 2024-04-26 | 4.80 | - | 136 | 136 |
+| 2024-06-23 | 4.79 | - | 136 | 136 |
