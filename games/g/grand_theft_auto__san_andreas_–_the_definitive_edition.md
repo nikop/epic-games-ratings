@@ -330,8 +330,8 @@ Completed: 128 (0.56%) (Ranked 281)
 | 2024-06-17 | 22,739 | 128 |
 ## Awards
 Max (Highly Recommended): 114  (Ranked 410)  
-Sum: 835 (Ranked 327)  
-Diff (max vs sum): 83  
+Sum: 836 (Ranked 325)  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 768 |
@@ -341,7 +341,7 @@ Diff (max vs sum): 83
 | This game has Amazing Storytelling | 106 |
 | This game is Relaxing | 105 |
 | This game has Diverse Characters | 101 |
-| This game has Quickly Understood Controls | 95 |
+| This game has Quickly Understood Controls | 96 |
 | This game is Extremely Fun | 90 |
 | This game has a Creative Community | 29 |
 ## Ratings History
@@ -717,4 +717,4 @@ Diff (max vs sum): 83
 | 2024-06-19 | 4.56 | 113 | 827 |
 | 2024-06-21 | 4.56 | 114 | 829 |
 | 2024-06-22 | 4.56 | 114 | 832 |
-| 2024-06-23 | 4.56 | 114 | 835 |
+| 2024-06-23 | 4.56 | 114 | 836 |
