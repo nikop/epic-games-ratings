@@ -1,6 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Be The Master of Yihongyuan](games/d/d74283065a944ffbb440c830d1bd692d.md) | 2024-06-22 | - |  | - | - |
+| [Be The Master of Yihongyuan](games/d/d74283065a944ffbb440c830d1bd692d.md) | 2024-06-22 | - |  | - | 0 |
 | [Victory At Sea Atlantic: Epic Naval Battles in World War II](games/c/c874163240834be29b22bab140ff81c8.md) | 2024-06-21 | - |  | - | - |
 | [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-06-21 | 17 (1,000 XP) | 1 | - | - |
 | [Immortal Life](games/b/b0de0a1fbe94491f9405ee6f825f3dd9.md) | 2024-06-21 | 72 (1,000 XP) | 1 | - | - |
