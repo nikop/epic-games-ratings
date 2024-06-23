@@ -535,6 +535,7 @@
 | [Project Vesperi](games/5/55dfac02aaca4e078a868f3b9338b1f0.md) | 2099-01-01 | - |  | - | - |
 | [Project Wunderwaffe](games/5/510596dec35f49d084d339157539ef52.md) | 2099-01-01 | - |  | - | - |
 | [Prospect](games/c/c55698c1101c4c9e9b1448e08bd29be2.md) | 2099-01-01 | - |  | - | - |
+| [PROTOBOT](games/c/ce37450ae2f9431cacb23244a0d8ac76.md) | 2099-01-01 | - |  | - | - |
 | [Providence](games/4/46ddbd5e69374a07839e584a4bc8e8b2.md) | 2099-01-01 | - |  | - | - |
 | [PUGS Agents](games/p/pugs_agents.md) | 2099-01-01 | - |  | - | - |
 | [Puzzles for Clef](games/p/puzzles_for_clef.md) | 2099-01-01 | - |  | - | - |
