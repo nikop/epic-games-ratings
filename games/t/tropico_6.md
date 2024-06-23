@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 342)  
+Rating: 4.65 (Ranked 341)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -337,7 +337,7 @@ Completed: 2 (0.02%) (Ranked 468)
 | 2024-06-17 | 8,851 | 2 |
 ## Awards
 Max (Highly Recommended): 126  (Ranked 395)  
-Sum: 871 (Ranked 317)  
+Sum: 872 (Ranked 317)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 78
 | This game has Amazing Storytelling | 112 |
 | This game is Extremely Fun | 111 |
 | This game is Great for Beginners | 106 |
-| This game is Educational | 103 |
+| This game is Educational | 104 |
 | This game has Amazing Characters | 101 |
 | This game has a Creative Community | 87 |
 | This game has Obsessive Gameplay | 52 |
@@ -606,3 +606,4 @@ Diff (max vs sum): 78
 | 2024-06-18 | 4.65 | - | 126 | 866 |
 | 2024-06-19 | 4.65 | - | 126 | 870 |
 | 2024-06-22 | 4.65 | - | 126 | 871 |
+| 2024-06-23 | 4.65 | - | 126 | 872 |
