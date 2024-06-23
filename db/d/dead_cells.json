@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 48,
   "Ranking_Popularity": 264,
-  "Ranking_PopularitySum": 193,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -6374,10 +6374,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3405,
       "NumberOfAwardsMax": 419
+    },
+    {
+      "Time": "2024-06-23T02:59:29.102093+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3408,
+      "NumberOfAwardsMax": 419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3405,
+  "NumberOfAwards": 3408,
   "NumberOfAwardsMax": 419,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6391,7 +6397,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 362
+      "Count": 364
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6427,7 +6433,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 316
+      "Count": 317
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6465,8 +6471,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-06-22T23:59:31.5299181+00:00",
+  "LastChanged": "2024-06-23T02:59:29.1020928+00:00",
   "LastUpdate_AppInfo": "2024-06-17T03:57:24.4613796+00:00",
-  "LastUpdate_Ratings": "2024-06-22T23:59:31.5299188+00:00",
+  "LastUpdate_Ratings": "2024-06-23T02:59:29.1020935+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:34.8701393+00:00"
 }

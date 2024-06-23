@@ -1,7 +1,7 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.58 (Ranked 495)  
+Rating: 4.58 (Ranked 496)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

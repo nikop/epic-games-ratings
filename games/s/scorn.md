@@ -1,7 +1,7 @@
 # Scorn
 [Store](https://store.epicgames.com/en-US/p/scorn)  
 [View Rawdata](../../db/s/scorn.json)  
-Rating: 4.44 (Ranked 758)  
+Rating: 4.43 (Ranked 785)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -317,3 +317,4 @@ Completed: 270 (4.92%) (Ranked 112)
 | 2024-02-22 | 4.46 | 0 | 0 |
 | 2024-04-26 | 4.45 | 0 | 0 |
 | 2024-05-25 | 4.44 | 0 | 0 |
+| 2024-06-23 | 4.43 | 0 | 0 |
