@@ -181,8 +181,8 @@ Completed: 7 (0.16%) (Ranked 366)
 | 2024-06-17 | 4,343 | 7 |
 ## Awards
 Max (Amazing Characters): 34  (Ranked 577)  
-Sum: 218 (Ranked 472)  
-Diff (max vs sum): 105  
+Sum: 218 (Ranked 473)  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 34 |
