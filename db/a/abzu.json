@@ -2,7 +2,7 @@
   "ID": "7af7476ff9eb4a8d9cd9d6486224de76",
   "Name": "ABZU",
   "ProductSlug": "abzu",
-  "Ranking_Rating": 403,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 659,
   "Ranking_PopularitySum": 659,
   "Ranking_EOS_Progress": 1087,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 148,
   "RatingHistory": [
     {
@@ -491,6 +491,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-24T10:01:15.8512148+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -508,8 +514,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:47.8662447+00:00",
-  "LastChanged": "2024-03-14T20:59:58.6745873+00:00",
+  "LastChanged": "2024-06-24T10:01:15.8512144+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:13.9428419+00:00",
-  "LastUpdate_Ratings": "2024-06-24T08:57:57.0767767+00:00",
+  "LastUpdate_Ratings": "2024-06-24T10:01:15.8512153+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:47.423226+00:00"
 }

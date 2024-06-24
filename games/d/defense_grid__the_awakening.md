@@ -1,7 +1,7 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.44 (Ranked 760)  
+Rating: 4.44 (Ranked 759)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -383,7 +383,7 @@ Completed: 5 (0.00%) (Ranked 510)
 | 2024-06-17 | 503,157 | 5 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 299)  
-Sum: 1,839 (Ranked 247)  
+Sum: 1,840 (Ranked 247)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -393,7 +393,7 @@ Diff (max vs sum): 52
 | This game is Extremely Fun | 221 |
 | This game is Highly Recommended | 209 |
 | This game has Challenging Combat | 199 |
-| This game has Amazing Storytelling | 192 |
+| This game has Amazing Storytelling | 193 |
 | This game has Amazing Characters | 182 |
 | This game has a Creative Community | 77 |
 | This game has Playful Visuals | 38 |
@@ -628,3 +628,4 @@ Diff (max vs sum): 52
 | 2024-06-13 | 4.44 | - | 286 | 1,835 |
 | 2024-06-22 | 4.44 | - | 287 | 1,837 |
 | 2024-06-23 | 4.44 | - | 288 | 1,839 |
+| 2024-06-24 | 4.44 | - | 288 | 1,840 |
