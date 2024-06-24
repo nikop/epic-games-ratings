@@ -101,7 +101,7 @@
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | 28 (1,000 XP) | 15 | - | 0 |
 | [Cross Tails](games/c/cb0899902d9c4f33b4f763b22b981043.md) | 2024-05-09 | 49 (1,000 XP) | 31 | - | 0 |
 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | 25 (1,000 XP) | 2 | - | - |
-| [Deadly Domain](games/b/bd7abb8b7b1b46408a4eb7de6f50b9c9.md) | 2024-06-16 | 5 (1,000 XP) | 0 | - | - |
+| [Deadly Domain](games/b/bd7abb8b7b1b46408a4eb7de6f50b9c9.md) | 2024-06-16 | 5 (1,000 XP) | 0 | - | 0 |
 | [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | 10 (1,000 XP) | 84 | - | 0 |
 | [KLONOA Phantasy Reverie Series](games/7/7120b2046fd845578509f66420ffc251.md) | 2024-05-23 | 25 (1,000 XP) | 11 | - | 0 |
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | 14 (1,000 XP) | 17 | - | 0 |

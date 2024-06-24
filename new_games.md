@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Smurfs - Village Party](games/e/e0d342096dbe47e9a41a2b7735683edd.md) | 2024-06-24 | - |  | - | - |
 | [Exverse](games/1/1f39dc63e52d41d6aa207542f3cb22da.md) | 2024-06-24 | - |  | - | - |
 | [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-23 | 5 (1,000 XP) | 1 | - | - |
 | [Be The Master of Yihongyuan](games/d/d74283065a944ffbb440c830d1bd692d.md) | 2024-06-22 | - |  | - | 0 |
@@ -20,7 +21,7 @@
 | [Political Punchers 2024 Arena](games/a/acee61c9af204dd1b2d193a1d5427567.md) | 2024-06-18 | - |  | - | - |
 | [Internet Cafe Evolution](games/8/87beabc82e8a4a4f9a4914ee5d97decc.md) | 2024-06-18 | - |  | - | 0 |
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | 308 (2,135 XP) | 1 | - | - |
-| [Deadly Domain](games/b/bd7abb8b7b1b46408a4eb7de6f50b9c9.md) | 2024-06-16 | 5 (1,000 XP) | 0 | - | - |
+| [Deadly Domain](games/b/bd7abb8b7b1b46408a4eb7de6f50b9c9.md) | 2024-06-16 | 5 (1,000 XP) | 0 | - | 0 |
 | [Virtual Girlfriend Lia](games/e/e140fc5e5afc4462ad05681a1acb5619.md) | 2024-06-15 | - |  | - | - |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 3 | - | - |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | 26 (1,000 XP) | 2 | - | 0 |

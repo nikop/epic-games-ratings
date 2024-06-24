@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The Smurfs - Village Party](games/e/e0d342096dbe47e9a41a2b7735683edd.md) | 2024-06-24 | - |  | - | - |
 | [Coreborn](games/f/f1c9dd3a1471408f9e1f6bf0aad94698.md) | 2024-06-24 | - |  | - | - |
 | [Madiha In The Forsaken Dungeon](games/7/7f389c9fc7a948b9a944af9bc652bfa3.md) | 2024-06-26 | - |  | - | - |
 | [Space Wolf](games/6/67b63764a0ad4f9a86559d8b798ef25e.md) | 2024-06-27 | - |  | - | - |
