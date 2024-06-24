@@ -1,7 +1,7 @@
 # Tails Noir
 [Store](https://store.epicgames.com/en-US/p/backbone)  
 [View Rawdata](../../db/b/backbone.json)  
-Rating: 4.33 (Ranked 930)  
+Rating: 4.33 (Ranked 931)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

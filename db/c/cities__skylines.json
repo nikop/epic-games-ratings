@@ -4,7 +4,7 @@
   "ProductSlug": "cities-skylines",
   "Ranking_Rating": 322,
   "Ranking_Popularity": 64,
-  "Ranking_PopularitySum": 32,
+  "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 14,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -20801,10 +20801,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 59919,
       "NumberOfAwardsMax": 8313
+    },
+    {
+      "Time": "2024-06-24T17:59:15.4830749+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 59937,
+      "NumberOfAwardsMax": 8313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59919,
+  "NumberOfAwards": 59937,
   "NumberOfAwardsMax": 8313,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -20848,7 +20854,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6849
+      "Count": 6861
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -20866,7 +20872,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4650
+      "Count": 4656
     }
   ],
   "EOS_Progressed": 1422239,
@@ -54443,9 +54449,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
-  "LastChanged": "2024-06-24T16:58:01.1553521+00:00",
+  "LastChanged": "2024-06-24T17:59:15.4830747+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:34.1835751+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:58:20.8201727+00:00",
-  "LastUpdate_Ratings": "2024-06-24T16:58:01.1553527+00:00",
+  "LastUpdate_Ratings": "2024-06-24T17:59:15.4830753+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:34.1838452+00:00"
 }
