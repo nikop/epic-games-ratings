@@ -1,7 +1,7 @@
 # Bramble The Mountain King
 [Store](https://store.epicgames.com/en-US/p/bramble-the-mountain-king-c0d1c6)  
 [View Rawdata](../../db/b/bramble_the_mountain_king.json)  
-Rating: 4.47 (Ranked 709)  
+Rating: 4.46 (Ranked 721)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -58,3 +58,4 @@ Completed: 0 (0.00%) (Ranked 510)
 | 2024-06-19 | 4.44 | 0 | 0 |
 | 2024-06-22 | 4.45 | 0 | 0 |
 | 2024-06-23 | 4.47 | 0 | 0 |
+| 2024-06-24 | 4.46 | 0 | 0 |
