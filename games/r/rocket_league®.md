@@ -1,7 +1,7 @@
 # Rocket League®
 [Store](https://store.epicgames.com/en-US/p/rocket-league)  
 [View Rawdata](../../db/r/rocket_league®.json)  
-Rating: 4.44 (Ranked 759)  
+Rating: 4.44 (Ranked 758)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -384,17 +384,17 @@ Completed: 3,168 (0.01%) (Ranked 486)
 | 2024-06-17 | 29,902,296 | 3,168 |
 ## Awards
 Max (Great for Quick Sessions): 864,388  (Ranked 2)  
-Sum: 5,099,698 (Ranked 2)  
+Sum: 5,102,263 (Ranked 2)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 864,388 |
-| This game has Competitive Players | 745,593 |
+| This game has Competitive Players | 746,268 |
 | This game is Extremely Fun | 655,459 |
-| This game is Highly Recommended | 622,396 |
-| This game has Challenging Combat | 608,453 |
+| This game is Highly Recommended | 623,090 |
+| This game has Challenging Combat | 609,126 |
 | This game has Quickly Understood Controls | 590,241 |
-| This game has Amazing Storytelling | 551,035 |
+| This game has Amazing Storytelling | 551,558 |
 | This game has a Competitive Community | 532,426 |
 | This game has Amazing Characters | 519,948 |
 | This game has Obsessive Gameplay | 167,946 |
@@ -919,4 +919,4 @@ Diff (max vs sum): 0
 | 2024-06-21 | 4.44 | - | 860,344 | 5,084,981 |
 | 2024-06-22 | 4.44 | - | 861,683 | 5,091,697 |
 | 2024-06-23 | 4.44 | - | 863,185 | 5,098,495 |
-| 2024-06-24 | 4.44 | - | 864,388 | 5,099,698 |
+| 2024-06-24 | 4.44 | - | 864,388 | 5,102,263 |

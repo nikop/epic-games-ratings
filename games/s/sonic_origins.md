@@ -242,12 +242,12 @@ Completed: 55 (6.75%) (Ranked 84)
 | 2024-04-10 | 771 | 53 |
 | 2024-06-17 | 815 | 55 |
 ## Awards
-Max (Great Boss Battles): 136  (Ranked 385)  
-Sum: 156 (Ranked 503)  
+Max (Great Boss Battles): 137  (Ranked 385)  
+Sum: 157 (Ranked 503)  
 Diff (max vs sum): -118  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 136 |
+| This game has Great Boss Battles | 137 |
 | This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -321,3 +321,4 @@ Diff (max vs sum): -118
 | 2024-05-05 | 4.57 | - | 135 | 155 |
 | 2024-05-13 | 4.58 | - | 135 | 155 |
 | 2024-05-21 | 4.58 | - | 136 | 156 |
+| 2024-06-24 | 4.58 | - | 137 | 157 |

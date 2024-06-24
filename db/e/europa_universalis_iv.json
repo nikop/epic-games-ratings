@@ -20257,11 +20257,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 81997,
       "NumberOfAwardsMax": 9977
+    },
+    {
+      "Time": "2024-06-24T13:58:22.0999595+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 82052,
+      "NumberOfAwardsMax": 9988
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 81997,
-  "NumberOfAwardsMax": 9977,
+  "NumberOfAwards": 82052,
+  "NumberOfAwardsMax": 9988,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -20274,25 +20280,25 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 9452
+      "Count": 9461
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 9933
+      "Count": 9942
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9204
+      "Count": 9217
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 9977
+      "Count": 9988
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -20310,7 +20316,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 9077
+      "Count": 9090
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -55962,9 +55968,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-06-24T08:59:04.4120406+00:00",
+  "LastChanged": "2024-06-24T13:58:22.0999593+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:40.0484374+00:00",
   "LastUpdate_AppInfo": "2024-06-23T22:57:12.7028147+00:00",
-  "LastUpdate_Ratings": "2024-06-24T11:59:28.5290615+00:00",
+  "LastUpdate_Ratings": "2024-06-24T13:58:22.0999602+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:40.0498314+00:00"
 }
