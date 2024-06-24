@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.53 (Ranked 603)  
+Rating: 4.54 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -258,3 +258,4 @@ Completed: 0 (0.00%) (Ranked 510)
 | 2024-06-21 | 4.57 | 0 | 0 |
 | 2024-06-22 | 4.56 | 0 | 0 |
 | 2024-06-23 | 4.55 | 0 | 0 |
+| 2024-06-24 | 4.54 | 0 | 0 |
