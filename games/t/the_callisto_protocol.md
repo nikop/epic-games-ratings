@@ -334,13 +334,13 @@ Completed: 86 (0.31%) (Ranked 326)
 | 2024-06-17 | 27,304 | 86 |
 ## Awards
 Max (Amazing Characters): 185  (Ranked 352)  
-Sum: 971 (Ranked 305)  
+Sum: 973 (Ranked 305)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 185 |
+| This game has Amazing Storytelling | 183 |
 | This game is Highly Recommended | 181 |
-| This game has Amazing Storytelling | 181 |
 | This game has Quickly Understood Controls | 178 |
 | This game is Extremely Fun | 165 |
 | This game has Challenging Combat | 154 |
@@ -679,4 +679,4 @@ Diff (max vs sum): 47
 | 2024-06-21 | 4.23 | 184 | 965 |
 | 2024-06-22 | 4.23 | 185 | 968 |
 | 2024-06-23 | 4.23 | 185 | 969 |
-| 2024-06-24 | 4.23 | 185 | 971 |
+| 2024-06-24 | 4.23 | 185 | 973 |
