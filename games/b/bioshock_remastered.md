@@ -1,15 +1,15 @@
 # BioShock Remastered
 [Store](https://store.epicgames.com/en-US/p/bioshock-remastered)  
 [View Rawdata](../../db/b/bioshock_remastered.json)  
-Rating: 4.64 (Ranked 364)  
+Rating: 4.64 (Ranked 365)  
 Number of Ratings: 24,195  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 6,134  (Ranked 82)  
-Sum: 7,494 (Ranked 139)  
+Max (Great Boss Battles): 6,135  (Ranked 82)  
+Sum: 7,495 (Ranked 139)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,134 |
+| This game has Great Boss Battles | 6,135 |
 | This game is Extremely Fun | 155 |
 | This game has Amazing Storytelling | 154 |
 | This game is Highly Recommended | 154 |
@@ -292,3 +292,4 @@ Diff (max vs sum): -57
 | 2024-06-18 | 4.64 | - | 6,130 | 7,487 |
 | 2024-06-21 | 4.64 | - | 6,132 | 7,491 |
 | 2024-06-22 | 4.64 | - | 6,134 | 7,494 |
+| 2024-06-24 | 4.64 | - | 6,135 | 7,495 |
