@@ -2,7 +2,7 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 1087,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "NumberOfRatings": 4120,
   "RatingHistory": [
     {
@@ -15913,6 +15913,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 10739,
       "NumberOfAwardsMax": 1135
+    },
+    {
+      "Time": "2024-06-24T11:58:00.9811368+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 10739,
+      "NumberOfAwardsMax": 1135
     }
   ],
   "ReviewsDisabled": false,
@@ -16010,8 +16016,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-06-23T21:58:07.9093983+00:00",
+  "LastChanged": "2024-06-24T11:58:00.9811364+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:58:12.5306421+00:00",
-  "LastUpdate_Ratings": "2024-06-24T10:00:12.3421327+00:00",
+  "LastUpdate_Ratings": "2024-06-24T11:58:00.9811374+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:23.974471+00:00"
 }

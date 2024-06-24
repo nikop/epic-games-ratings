@@ -1,7 +1,7 @@
 # MultiVersus
 [Store](https://store.epicgames.com/en-US/p/multiversus)  
 [View Rawdata](../../db/m/multiversus.json)  
-Rating: 4.55 (Ranked 559)  
+Rating: 4.55 (Ranked 560)  
 Number of Ratings: 55,748  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -113,19 +113,19 @@ Completed: 84,431 (6.44%) (Ranked 87)
 | 2024-06-17 | 1,311,693 | 84,431 |
 ## Awards
 Max (Great for Beginners): 5,066  (Ranked 90)  
-Sum: 47,798 (Ranked 36)  
+Sum: 47,810 (Ranked 36)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,066 |
-| This game has Diverse Characters | 4,811 |
+| This game has Diverse Characters | 4,818 |
 | This game is Great for Quick Sessions | 4,795 |
 | This game has Competitive Players | 4,695 |
 | This game has Quickly Understood Controls | 4,558 |
 | This game is Extremely Fun | 4,378 |
 | This game has Amazing Characters | 4,306 |
 | This game is Highly Recommended | 4,105 |
-| This game has Playful Visuals | 3,755 |
+| This game has Playful Visuals | 3,760 |
 | This game has Amazing Storytelling | 3,755 |
 | This game has a Competitive Community | 3,574 |
 | This game has Obsessive Gameplay | 3,030 |
@@ -363,4 +363,4 @@ Diff (max vs sum): 54
 | 2024-06-21 | 4.55 | - | 5,042 | 47,636 |
 | 2024-06-22 | 4.55 | - | 5,059 | 47,722 |
 | 2024-06-23 | 4.55 | - | 5,066 | 47,777 |
-| 2024-06-24 | 4.55 | - | 5,066 | 47,798 |
+| 2024-06-24 | 4.55 | - | 5,066 | 47,810 |

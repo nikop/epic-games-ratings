@@ -2,7 +2,7 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
   "ProductSlug": "multiversus",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 16,
@@ -5430,10 +5430,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 47798,
       "NumberOfAwardsMax": 5066
+    },
+    {
+      "Time": "2024-06-24T11:59:54.9696274+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 47810,
+      "NumberOfAwardsMax": 5066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47798,
+  "NumberOfAwards": 47810,
   "NumberOfAwardsMax": 5066,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5465,7 +5471,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4811
+      "Count": 4818
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5477,7 +5483,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3755
+      "Count": 3760
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12936,9 +12942,9 @@
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
-  "LastChanged": "2024-06-24T10:58:00.6326002+00:00",
+  "LastChanged": "2024-06-24T11:59:54.9696272+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:11.1037357+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:42.5991487+00:00",
-  "LastUpdate_Ratings": "2024-06-24T10:58:00.6326009+00:00",
+  "LastUpdate_Ratings": "2024-06-24T11:59:54.9696278+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:11.1037799+00:00"
 }
