@@ -87,7 +87,7 @@
 | 74 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 461 |
 | 74 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 105 | 423 |
 | 87 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 1,209 | 164 |
-| 87 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,611 | 117 |
+| 87 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,613 | 117 |
 | 87 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.81 | 416 | 265 |
 | 87 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 659 |
 | 87 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.81 | 0 | 659 |
@@ -143,7 +143,7 @@
 | 129 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.77 | 0 | 659 |
 | 129 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 72 | 480 |
 | 129 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 659 |
-| 144 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 18,002 | 27 |
+| 144 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 18,015 | 27 |
 | 144 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,622 | 105 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,414 | 150 |
 | 144 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 659 |
@@ -269,7 +269,7 @@
 | 258 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,109 | 128 |
 | 258 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 705 | 220 |
 | 258 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 343 | 283 |
-| 258 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,352 | 44 |
+| 258 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,356 | 44 |
 | 258 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 659 |
 | 258 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.69 | 0 | 659 |
 | 258 | [The Witness](games/t/the_witness.md) | 4.69 | 204 | 341 |
@@ -339,7 +339,7 @@
 | 322 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,319 | 76 |
 | 322 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.66 | 0 | 659 |
 | 322 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 254 |
-| 340 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.65 | 74 | 476 |
+| 340 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.65 | 76 | 473 |
 | 340 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 659 |
 | 340 | [Black Skylands](games/b/black_skylands.md) | 4.65 | 0 | 659 |
 | 340 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.65 | 0 | 659 |
@@ -825,12 +825,12 @@
 | 806 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 659 |
 | 824 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 659 |
 | 824 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 4.41 | 0 | 659 |
-| 824 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 75 | 475 |
+| 824 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 75 | 476 |
 | 824 | [Iron Harvest](games/i/iron_harvest.md) | 4.41 | 0 | 659 |
 | 824 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 441 |
 | 824 | [Sail Forth](games/s/sail_forth.md) | 4.41 | 28 | 605 |
 | 824 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,323 | 122 |
-| 824 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 74 | 476 |
+| 824 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 74 | 477 |
 | 824 | [Sheltered](games/s/sheltered.md) | 4.41 | 290 | 298 |
 | 824 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.41 | 781 | 207 |
 | 824 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 659 |
@@ -1023,7 +1023,6 @@
 | 1,009 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 620 |
 | 1,022 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 659 |
 | 1,022 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 577 |
-| 1,022 | [Circus Electrique](games/c/circus_electrique.md) | 4.24 | 0 | 659 |
 | 1,022 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 659 |
 | 1,022 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.24 | 0 | 659 |
 | 1,022 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.24 | 118 | 403 |
@@ -1035,13 +1034,14 @@
 | 1,022 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 659 |
 | 1,022 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 47 | 534 |
 | 1,022 | [The Fall](games/t/the_fall.md) | 4.24 | 0 | 659 |
-| 1,036 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.23 | 0 | 659 |
-| 1,036 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.23 | 0 | 659 |
-| 1,036 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 184 |
-| 1,036 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.23 | 0 | 659 |
-| 1,036 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 659 |
-| 1,036 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.23 | 185 | 352 |
-| 1,042 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 608 | 234 |
+| 1,035 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.23 | 0 | 659 |
+| 1,035 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.23 | 0 | 659 |
+| 1,035 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 0 | 659 |
+| 1,035 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 184 |
+| 1,035 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.23 | 0 | 659 |
+| 1,035 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 659 |
+| 1,035 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.23 | 185 | 352 |
+| 1,042 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 616 | 232 |
 | 1,042 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 659 |
 | 1,042 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 213 | 335 |
 | 1,042 | [Gone Home](games/g/gone_home.md) | 4.22 | 0 | 659 |
