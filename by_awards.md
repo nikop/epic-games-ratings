@@ -66,7 +66,7 @@
 | 64 | [Cities: Skylines](games/c/cities__skylines.md) | 8,313 | 4.66 | 321 |
 | 65 | [Sifu](games/s/sifu.md) | 7,986 | 4.82 | 74 |
 | 66 | [Supraland](games/s/supraland.md) | 7,894 | 4.61 | 423 |
-| 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,680 | 4.75 | 154 |
+| 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,693 | 4.75 | 154 |
 | 68 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,415 | 4.82 | 74 |
 | 69 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,137 | 4.58 | 495 |
 | 70 | [The Sims™ 4](games/t/the_sims™_4.md) | 6,944 | 4.61 | 423 |
@@ -97,7 +97,7 @@
 | 95 | [Days Gone](games/d/days_gone.md) | 4,706 | 4.68 | 279 |
 | 96 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4,596 | 4.63 | 384 |
 | 97 | [Paladins](games/p/paladins.md) | 4,549 | 4.31 | 951 |
-| 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,243 | 4.48 | 691 |
+| 98 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,246 | 4.48 | 691 |
 | 99 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,226 | 4.51 | 635 |
 | 100 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4,121 | 4.57 | 521 |
 | 101 | [Hades](games/h/hades.md) | 3,970 | 4.92 | 4 |
@@ -108,7 +108,7 @@
 | 106 | [Gotham Knights](games/g/gotham_knights.md) | 3,619 | 4.19 | 1,066 |
 | 107 | [Ghostrunner](games/g/ghostrunner.md) | 3,540 | 4.55 | 559 |
 | 108 | [Among Us](games/a/among_us.md) | 3,473 | 4.55 | 559 |
-| 109 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,332 | 4.54 | 582 |
+| 109 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,341 | 4.54 | 582 |
 | 110 | [RAGE 2](games/r/rage_2.md) | 3,209 | 4.26 | 1,001 |
 | 111 | [Path of Exile](games/p/path_of_exile.md) | 3,010 | 4.62 | 403 |
 | 112 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2,986 | 4.13 | 1,107 |
@@ -276,16 +276,16 @@
 | 274 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 373 | 4.82 | 74 |
 | 274 | [The Messenger](games/t/the_messenger.md) | 373 | 4.81 | 87 |
 | 276 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 370 | 4.32 | 944 |
-| 277 | [MudRunner](games/m/mudrunner.md) | 358 | 4.60 | 454 |
+| 277 | [MudRunner](games/m/mudrunner.md) | 359 | 4.60 | 454 |
 | 278 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 357 | 4.58 | 495 |
 | 279 | [House Flipper](games/h/house_flipper.md) | 355 | 4.69 | 258 |
 | 280 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 353 | 4.44 | 759 |
-| 281 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 344 | 4.59 | 472 |
-| 282 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 343 | 4.66 | 321 |
-| 282 | [Tannenberg](games/t/tannenberg.md) | 343 | 4.39 | 852 |
-| 284 | [Overcooked! 2](games/o/overcooked!_2.md) | 340 | 4.69 | 258 |
-| 285 | [Darkwood](games/d/darkwood.md) | 339 | 4.62 | 403 |
-| 286 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 324 | 4.25 | 1,009 |
+| 281 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 349 | 4.25 | 1,009 |
+| 282 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 344 | 4.59 | 472 |
+| 283 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 343 | 4.66 | 321 |
+| 283 | [Tannenberg](games/t/tannenberg.md) | 343 | 4.39 | 852 |
+| 285 | [Overcooked! 2](games/o/overcooked!_2.md) | 340 | 4.69 | 258 |
+| 286 | [Darkwood](games/d/darkwood.md) | 339 | 4.62 | 403 |
 | 287 | [Diabotical](games/d/diabotical.md) | 320 | 4.72 | 202 |
 | 287 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 320 | 4.84 | 47 |
 | 289 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 316 | 4.62 | 403 |
@@ -327,7 +327,7 @@
 | 325 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 234 | 4.62 | 403 |
 | 325 | [Unrailed!](games/u/unrailed!.md) | 234 | 4.64 | 365 |
 | 327 | [Sunless Sea](games/s/sunless_sea.md) | 233 | 4.59 | 472 |
-| 328 | [Returnal™](games/r/returnal™.md) | 231 | 4.56 | 543 |
+| 328 | [Returnal™](games/r/returnal™.md) | 232 | 4.56 | 543 |
 | 329 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 230 | 4.55 | 559 |
 | 329 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 230 | 4.58 | 495 |
 | 331 | [The Riftbreaker](games/t/the_riftbreaker.md) | 229 | 4.76 | 144 |
