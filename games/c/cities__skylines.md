@@ -1,7 +1,7 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.65 (Ranked 338)  
+Rating: 4.66 (Ranked 323)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -947,4 +947,4 @@ Diff (max vs sum): 33
 | 2024-06-22 | 4.66 | - | 8,303 | 59,785 |
 | 2024-06-23 | 4.66 | - | 8,313 | 59,867 |
 | 2024-06-24 | 4.66 | - | 8,326 | 59,950 |
-| 2024-06-25 | 4.65 | - | 8,326 | 59,953 |
+| 2024-06-25 | 4.66 | - | 8,326 | 59,953 |

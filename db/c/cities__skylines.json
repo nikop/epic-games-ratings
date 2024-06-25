@@ -2,7 +2,7 @@
   "ID": "6009be9994c2409099588cde6f3a5ed0",
   "Name": "Cities: Skylines",
   "ProductSlug": "cities-skylines",
-  "Ranking_Rating": 338,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 14,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 25248,
   "RatingHistory": [
     {
@@ -20817,6 +20817,12 @@
     {
       "Time": "2024-06-25T02:28:33.2399395+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 59953,
+      "NumberOfAwardsMax": 8326
+    },
+    {
+      "Time": "2024-06-25T09:59:05.3534687+00:00",
+      "Rating": 4.66,
       "NumberOfAwards": 59953,
       "NumberOfAwardsMax": 8326
     }
@@ -54461,9 +54467,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
-  "LastChanged": "2024-06-25T02:28:33.2399393+00:00",
+  "LastChanged": "2024-06-25T09:59:05.3534685+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:34.1835751+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:58:20.8201727+00:00",
-  "LastUpdate_Ratings": "2024-06-25T08:01:47.643836+00:00",
+  "LastUpdate_Ratings": "2024-06-25T09:59:05.3534691+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:34.1838452+00:00"
 }
