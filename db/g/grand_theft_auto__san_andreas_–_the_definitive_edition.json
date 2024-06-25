@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 543,
-  "Ranking_Popularity": 411,
-  "Ranking_PopularitySum": 326,
+  "Ranking_Popularity": 409,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 3,
@@ -4199,11 +4199,17 @@
       "Rating": 4.56,
       "NumberOfAwards": 837,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-06-25T18:58:22.8093051+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 841,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 837,
-  "NumberOfAwardsMax": 114,
+  "NumberOfAwards": 841,
+  "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -4216,7 +4222,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4234,13 +4240,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game has a Creative Community",
@@ -4252,7 +4258,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game is Great for Beginners",
@@ -23504,9 +23510,9 @@
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-06-24T00:00:20.4895711+00:00",
+  "LastChanged": "2024-06-25T18:58:22.809305+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:25.5823411+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:50.4388837+00:00",
-  "LastUpdate_Ratings": "2024-06-25T16:59:03.1382351+00:00",
+  "LastUpdate_Ratings": "2024-06-25T18:58:22.8093055+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:25.5824369+00:00"
 }
