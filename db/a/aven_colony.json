@@ -4,7 +4,7 @@
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 1062,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -1843,10 +1843,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 783,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2024-06-25T07:59:38.2142323+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 784,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 783,
+  "NumberOfAwards": 784,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1860,7 +1866,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 128
+      "Count": 129
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1916,8 +1922,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2024-06-24T07:59:10.0528866+00:00",
+  "LastChanged": "2024-06-25T07:59:38.2142321+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:41.6488332+00:00",
-  "LastUpdate_Ratings": "2024-06-25T06:00:06.3754812+00:00",
+  "LastUpdate_Ratings": "2024-06-25T07:59:38.2142326+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:03.9554097+00:00"
 }
