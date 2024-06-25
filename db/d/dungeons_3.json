@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-3",
   "Ranking_Rating": 338,
   "Ranking_Popularity": 259,
-  "Ranking_PopularitySum": 204,
+  "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 1,
@@ -4223,10 +4223,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 2982,
       "NumberOfAwardsMax": 440
+    },
+    {
+      "Time": "2024-06-25T01:52:18.3575698+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2983,
+      "NumberOfAwardsMax": 440
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2982,
+  "NumberOfAwards": 2983,
   "NumberOfAwardsMax": 440,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4264,7 +4270,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 314
+      "Count": 315
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -36218,9 +36224,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2024-06-24T18:58:31.6615421+00:00",
+  "LastChanged": "2024-06-25T01:52:18.3575696+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:42.365138+00:00",
   "LastUpdate_AppInfo": "2024-06-23T19:57:41.6795517+00:00",
-  "LastUpdate_Ratings": "2024-06-24T23:00:14.8618688+00:00",
+  "LastUpdate_Ratings": "2024-06-25T01:52:18.3575703+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:42.3652878+00:00"
 }

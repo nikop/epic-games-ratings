@@ -2,7 +2,7 @@
   "ID": "013ef1cdbe5a4408919025207ddb9c99",
   "Name": "Freshly Frosted",
   "ProductSlug": "freshly-frosted-c636d0",
-  "Ranking_Rating": 710,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 659,
   "Ranking_PopularitySum": 659,
   "Ranking_EOS_Progress": 903,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:42.7543356+00:00",
@@ -68,6 +68,12 @@
     {
       "Time": "2024-06-24T02:58:52.3115196+00:00",
       "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-25T01:53:33.8210581+00:00",
+      "Rating": 4.51,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -728,9 +734,9 @@
   "FirstSeen": "2022-07-22T20:32:23.8799258+00:00",
   "FirstSeenRating": "2023-03-31T05:58:42.7543353+00:00",
   "FirstSeenAchievements": "2024-06-17T16:16:37.4164305+00:00",
-  "LastChanged": "2024-06-24T02:58:52.3115194+00:00",
+  "LastChanged": "2024-06-25T01:53:33.821058+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:37.4164271+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:35.5975781+00:00",
-  "LastUpdate_Ratings": "2024-06-24T23:58:34.199137+00:00",
+  "LastUpdate_Ratings": "2024-06-25T01:53:33.8210591+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:37.4172777+00:00"
 }
