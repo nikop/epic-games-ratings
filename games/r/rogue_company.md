@@ -1,17 +1,17 @@
 # Rogue Company
 [Store](https://store.epicgames.com/en-US/p/rogue-company)  
 [View Rawdata](../../db/r/rogue_company.json)  
-Rating: 4.27 (Ranked 993)  
+Rating: 4.27 (Ranked 992)  
 Number of Ratings: 21,107  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 6,322  (Ranked 76)  
-Sum: 37,911 (Ranked 43)  
+Sum: 37,914 (Ranked 43)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 6,322 |
 | This game has Competitive Players | 5,591 |
-| This game is Extremely Fun | 5,445 |
+| This game is Extremely Fun | 5,448 |
 | This game has Quickly Understood Controls | 5,403 |
 | This game is Highly Recommended | 5,393 |
 | This game has Amazing Characters | 5,336 |
@@ -535,4 +535,4 @@ Diff (max vs sum): 33
 | 2024-06-22 | 4.27 | - | 6,304 | 37,859 |
 | 2024-06-23 | 4.27 | - | 6,313 | 37,885 |
 | 2024-06-24 | 4.27 | - | 6,317 | 37,895 |
-| 2024-06-25 | 4.27 | - | 6,322 | 37,911 |
+| 2024-06-25 | 4.27 | - | 6,322 | 37,914 |
