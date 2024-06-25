@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 864,
   "Ranking_Popularity": 542,
-  "Ranking_PopularitySum": 569,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -456,10 +456,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 65,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-06-25T13:57:38.40209+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65,
+  "NumberOfAwards": 85,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -474,6 +480,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 22
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -488,8 +500,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-06-25T11:58:48.2491464+00:00",
+  "LastChanged": "2024-06-25T13:57:38.4020896+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:22.8912984+00:00",
-  "LastUpdate_Ratings": "2024-06-25T11:58:48.2491468+00:00",
+  "LastUpdate_Ratings": "2024-06-25T13:57:38.4020902+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:44.0743617+00:00"
 }
