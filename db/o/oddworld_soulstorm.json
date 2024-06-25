@@ -3,8 +3,8 @@
   "Name": "Oddworld: Soulstorm Enhanced Edition",
   "ProductSlug": "oddworld-soulstorm",
   "Ranking_Rating": 299,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 602,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 601,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -294,18 +294,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-06-25T13:05:06.0547394+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 41
+      "Count": 42
     }
   ],
   "EOS_Progressed": 0,
@@ -319,8 +325,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:54.3777281+00:00",
-  "LastChanged": "2024-06-23T20:01:32.6892988+00:00",
+  "LastChanged": "2024-06-25T13:05:06.0547392+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:10.76777+00:00",
-  "LastUpdate_Ratings": "2024-06-25T11:58:03.0064535+00:00",
+  "LastUpdate_Ratings": "2024-06-25T13:05:06.0547399+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:54.9142734+00:00"
 }
