@@ -51,6 +51,7 @@
 | [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 | 2 |
 | [Lords of the Fallen](../games/t/the_lords_of_the_fallen.md) | 72 | 1,200 | 2 |
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 65 | 1,500 | 2 |
+| [Mass Effect 3 N7 Digital Deluxe Edition](../games/f/ff53808bb3b5462283516ab21d09a4dc.md) | 0 | 0 | 2 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 | 2 |
 | [Mega City Force](../games/m/mega_city_police.md) | 27 | 1,050 | 2 |
 | [Need for Speed™ Deluxe Edition](../games/7/77961f9557a149a8bf1cf761220d9d24.md) | 45 | 1,500 | 2 |

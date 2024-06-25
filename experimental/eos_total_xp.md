@@ -129,6 +129,7 @@
 | [Alekon](../games/9/947753e35eda434f9eafba17afa8f570.md) | 40 | 1,000 |
 | [Alex Kidd in Miracle World DX](../games/a/alex_kidd_in_miracle_world_dx.md) | 16 | 1,000 |
 | [Aliens: Dark Descent](../games/a/aliens__dark_descent.md) | 45 | 1,000 |
+| [Alphadia I & II](../games/4/49940871788f45ec914934e6af085284.md) | 35 | 1,000 |
 | [Amigo Kebab Simulator](../games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 31 | 1,000 |
 | [Among the Sleep - Enhanced Edition](../games/a/among_the_sleep_-_enhanced_edition.md) | 10 | 1,000 |
 | [Angelo and Deemon: One Hell of a Quest](../games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 17 | 1,000 |
@@ -732,8 +733,8 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Pepper Grinder](../games/p/pepper_grinder.md) | 23 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |

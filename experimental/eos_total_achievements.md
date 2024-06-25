@@ -416,8 +416,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [ROBOBEAT](../games/r/robobeat.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
@@ -460,6 +460,7 @@
 | [Tower Princess](../games/t/tower_princess.md) | 36 | 1,000 |
 | [A Plague Tale: Requiem](../games/a/a_plague_tale__requiem.md) | 35 | 1,000 |
 | [Aeon Must Die!](../games/a/aeon_must_die!.md) | 35 | 1,000 |
+| [Alphadia I & II](../games/4/49940871788f45ec914934e6af085284.md) | 35 | 1,000 |
 | [Backpack Hero](../games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 35 | 1,000 |
 | [Booze Masters: Freezing Moonshine](../games/d/deca76ccbe584df395bc785c61653e50.md) | 35 | 1,000 |
 | [Busway Islands - Puzzle](../games/b/busway_islands_-_puzzle.md) | 35 | 1,000 |

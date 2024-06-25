@@ -707,21 +707,21 @@
 | 699 | [Trash Troopers Earth Reclaim](games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 56 | 0 |
 | 699 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 56 | 3 |
 | 707 | [Smelter](games/s/smelter.md) | 53 | 4 |
+| 708 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 52 | 0 |
 | 708 | [Gripper](games/g/gripper.md) | 52 | 0 |
 | 708 | [Seven Doors](games/s/seven_doors.md) | 52 | 5 |
-| 710 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 51 | 0 |
-| 710 | [tERRORbane](games/t/terrorbane.md) | 51 | 1 |
-| 712 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 50 | 0 |
-| 712 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 50 | 7 |
-| 712 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | 50 | 0 |
-| 715 | [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 49 | 0 |
-| 715 | [Riftbound](games/r/riftbound.md) | 49 | 0 |
-| 717 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 48 | 0 |
-| 717 | [Mega City Force](games/m/mega_city_police.md) | 48 | 1 |
-| 717 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 48 | 0 |
-| 717 | [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 48 | 0 |
-| 717 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 48 | 0 |
-| 717 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 48 | 4 |
+| 711 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 51 | 0 |
+| 711 | [tERRORbane](games/t/terrorbane.md) | 51 | 1 |
+| 713 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 50 | 0 |
+| 713 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 50 | 7 |
+| 713 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | 50 | 0 |
+| 716 | [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 49 | 0 |
+| 716 | [Riftbound](games/r/riftbound.md) | 49 | 0 |
+| 718 | [Mega City Force](games/m/mega_city_police.md) | 48 | 1 |
+| 718 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 48 | 0 |
+| 718 | [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 48 | 0 |
+| 718 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 48 | 0 |
+| 718 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 48 | 4 |
 | 723 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 47 | 2 |
 | 723 | [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 47 | 0 |
 | 723 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 47 | 6 |
@@ -790,22 +790,22 @@
 | 786 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 26 | 1 |
 | 786 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 26 | 0 |
 | 790 | [Airship Kingdoms Adrift](games/a/airship_kingdoms_adrift.md) | 25 | 0 |
+| 790 | [Unravel](games/7/71d91cc48e0145078a1db1e402c8975b.md) | 25 | 0 |
 | 790 | [What The Duck](games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 25 | 0 |
 | 790 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 25 | 0 |
-| 793 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 24 | 0 |
-| 793 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 24 | 0 |
-| 793 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 24 | 0 |
-| 793 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 24 | 0 |
-| 797 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 23 | 0 |
-| 797 | [Dreadful River](games/0/01c515c1f28547ab8142678d107be081.md) | 23 | 0 |
-| 799 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 22 | 0 |
-| 799 | [Pepper Grinder](games/p/pepper_grinder.md) | 22 | 2 |
-| 799 | [Space Accident](games/1/18efd480ed4549688383b6036df07bc2.md) | 22 | 9 |
-| 799 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22 | 2 |
-| 803 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 21 | 0 |
-| 803 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 21 | 0 |
-| 803 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 21 | 0 |
-| 803 | [Unravel](games/7/71d91cc48e0145078a1db1e402c8975b.md) | 21 | 0 |
+| 794 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 24 | 0 |
+| 794 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 24 | 0 |
+| 794 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 24 | 0 |
+| 794 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 24 | 0 |
+| 798 | [Don't Byte Your Tongue](games/d/don't_byte_your_tongue.md) | 23 | 0 |
+| 798 | [Dreadful River](games/0/01c515c1f28547ab8142678d107be081.md) | 23 | 0 |
+| 800 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 22 | 0 |
+| 800 | [Pepper Grinder](games/p/pepper_grinder.md) | 22 | 2 |
+| 800 | [Space Accident](games/1/18efd480ed4549688383b6036df07bc2.md) | 22 | 9 |
+| 800 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 22 | 2 |
+| 804 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 21 | 0 |
+| 804 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 21 | 0 |
+| 804 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 21 | 0 |
 | 807 | [Arms Race 2](games/d/d3b4722b35674be186318c5f5e14b13e.md) | 20 | 0 |
 | 807 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 20 | 5 |
 | 807 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 20 | 0 |
@@ -1046,8 +1046,8 @@
 | 997 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 1 | 0 |
 | 997 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 1 | 0 |
 | 997 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 1 | 0 |
-| 997 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 1 | 0 |
 | 997 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 1 | 0 |
+| 997 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 1 | 0 |
 | 997 | [Popcorn Rocket](games/4/4acbe0ba4b144020b1dee0d6dd607029.md) | 1 | 0 |
 | 997 | [Probo Rush](games/p/probo_rush.md) | 1 | 1 |
 | 997 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 1 | 0 |

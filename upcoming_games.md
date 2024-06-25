@@ -49,7 +49,7 @@
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2024-07-25 | - |  | - | - |
 | [Trapaze](games/1/1000868feb26473f82cd34c1d5e1cb06.md) | 2024-07-25 | - |  | - | - |
 | [SMITE 2](games/1/16ed9f15b1b449ccb59cb610b13df5b8.md) | 2024-07-30 | - |  | - | - |
-| [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-07-31 | - |  | - | - |
+| [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-07-31 | 35 (1,000 XP) | 0 | - | - |
 | [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-07-31 | - |  | - | - |
 | [Breachway](games/b/breachway.md) | 2024-07-31 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
@@ -58,6 +58,7 @@
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-07-31 | - |  | - | - |
 | [Humay](games/4/4f761277f93544bdb88ce9ff1a298bd7.md) | 2024-07-31 | - |  | - | - |
 | [IfSunSets](games/1/1d4d9a627e8548e1821d67ccb55ad146.md) | 2024-07-31 | - |  | - | - |
+| [Kiteboarding](games/a/afd2ae1e0fcf4831898b8033d4986403.md) | 2024-07-31 | - |  | - | - |
 | [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-07-31 | 100 (1,000 XP) | 0 | - | - |
 | [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-31 | - |  | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2024-08-01 | - |  | - | - |
@@ -130,6 +131,7 @@
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-30 | - |  | - | - |
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | 2024-11-30 | - |  | - | - |
 | [Warehouse Bots](games/1/1425a316528c444ab263d66abd3e3176.md) | 2024-11-30 | - |  | - | - |
+| [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-12-02 | - |  | - | - |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-12-31 | - |  | - | - |
 | [63 Days](games/8/843074ada4be43cd82187404f21ca7d1.md) | 2024-12-31 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-12-31 | - |  | - | - |

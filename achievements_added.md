@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-07-31 | 35 (1,000 XP) | 0 | - | - |
 | [Summer's Gone](games/4/451da11e3adf4275ace500815e0453fb.md) | 2024-04-30 | 44 (1,000 XP) | 1 | - | 0 |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2024-04-18 | 30 (1,000 XP) | 29 | - | 0 |
 | [Baby Storm](games/c/ce637d3eeee844a8b902d93416b1e40e.md) | 2023-09-07 | 32 (1,000 XP) | 19 | - | 0 |
@@ -78,10 +79,10 @@
 | [The Tribe Must Survive](games/5/50d794a4930c401f9f25e28ce7335db2.md) | 2024-05-23 | 30 (1,950 XP) | 34 | - | 0 |
 | [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 2024-08-08 | 20 (1,000 XP) | 3 | - | - |
 | [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2099-01-01 | 40 (1,000 XP) | 2 | - | - |
-| [Unravel](games/7/71d91cc48e0145078a1db1e402c8975b.md) | 2024-05-09 | 26 (1,000 XP) | 21 | - | 0 |
+| [Unravel](games/7/71d91cc48e0145078a1db1e402c8975b.md) | 2024-05-09 | 26 (1,000 XP) | 25 | - | 0 |
 | [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | 28 (1,000 XP) | 223 | - | 0 |
 | [Cyberpunk SFX](games/7/7a0721af1f89440ba190a2c1eb2a1378.md) | 2024-05-31 | 5 (1,000 XP) | 13 | - | - |
-| [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | 46 (1,000 XP) | 48 | - | 0 |
+| [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | 46 (1,000 XP) | 52 | - | 0 |
 | [We Love Katamari REROLL+ Royal Reverie](games/5/5c8529a62b4243469be68b08bd5c1bfa.md) | 2024-05-23 | 35 (1,000 XP) | 10 | - | 0 |
 | [Quest Room](games/8/8b0f65a8a3c94a918eb954c2cac7102c.md) | 2024-05-03 | 12 (1,000 XP) | 34 | - | 0 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | 15 (1,000 XP) | 2 | - | - |
@@ -275,7 +276,7 @@
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 4 | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 61 | - | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 98 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 69,435 | 4.27 | 100 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 69,435 | 4.28 | 100 |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 402 | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 7 | - | 0 |
@@ -437,7 +438,7 @@
 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 2023-08-16 | 25 (1,000 XP) | 24 | - | 0 |
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 448,115 | 4.81 | 1,209 |
-| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 647 | 4.80 | 0 |
+| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 647 | 4.81 | 0 |
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 19,123 | 4.70 | 91 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 676 | 4.73 | 0 |
 | [The Swine](games/t/the_swine.md) | 2024-12-31 | 5 (1,000 XP) | 0 | - | - |
