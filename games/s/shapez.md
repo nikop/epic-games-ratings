@@ -4,7 +4,7 @@
 Rating: 4.71 (Ranked 214)  
 ## Awards
 Max (Relaxing): 32  (Ranked 585)  
-Sum: 165 (Ranked 500)  
+Sum: 166 (Ranked 500)  
 Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 85
 | This game is Great for Beginners | 30 |
 | This game is Highly Recommended | 25 |
 | This game is Educational | 24 |
-| This game is Extremely Fun | 23 |
+| This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -127,3 +127,4 @@ Diff (max vs sum): 85
 | 2024-06-21 | 4.71 | 31 | 162 |
 | 2024-06-22 | 4.71 | 31 | 164 |
 | 2024-06-23 | 4.71 | 32 | 165 |
+| 2024-06-25 | 4.71 | 32 | 166 |
