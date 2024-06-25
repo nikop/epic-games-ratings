@@ -2,7 +2,7 @@
   "ID": "168fc558aeef44a5b9cba5f25b5bb93f",
   "Name": "THE KING OF FIGHTERS XV",
   "ProductSlug": "the-king-of-fighters-xv",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 1087,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 181,
   "RatingHistory": [
     {
@@ -624,6 +624,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 601,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2024-06-25T02:27:53.3803256+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 601,
+      "NumberOfAwardsMax": 82
     }
   ],
   "ReviewsDisabled": false,
@@ -709,8 +715,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2024-06-22T01:49:25.1514821+00:00",
+  "LastChanged": "2024-06-25T02:27:53.3803254+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:58:01.6721391+00:00",
-  "LastUpdate_Ratings": "2024-06-25T00:00:15.4549927+00:00",
+  "LastUpdate_Ratings": "2024-06-25T02:27:53.3803259+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:42.8328668+00:00"
 }

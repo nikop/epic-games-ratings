@@ -3,8 +3,8 @@
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 920,
-  "Ranking_Popularity": 495,
-  "Ranking_PopularitySum": 409,
+  "Ranking_Popularity": 493,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
@@ -1314,18 +1314,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 395,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-06-25T02:26:54.8731533+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 395,
-  "NumberOfAwardsMax": 61,
+  "NumberOfAwards": 399,
+  "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1349,7 +1355,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1361,7 +1367,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6355,9 +6361,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-06-24T05:00:08.5029847+00:00",
+  "LastChanged": "2024-06-25T02:26:54.8731531+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:51.3212724+00:00",
   "LastUpdate_AppInfo": "2024-06-19T03:57:06.0863354+00:00",
-  "LastUpdate_Ratings": "2024-06-24T23:58:49.8936467+00:00",
+  "LastUpdate_Ratings": "2024-06-25T02:26:54.8731537+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:51.3213274+00:00"
 }
