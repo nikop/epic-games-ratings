@@ -190,7 +190,7 @@
 | 170 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 659 |
 | 170 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 548 | 240 |
 | 170 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 659 |
-| 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 534 | 242 |
+| 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 534 | 243 |
 | 191 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 659 |
 | 191 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 659 |
 | 191 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 4.73 | 0 | 659 |
@@ -495,7 +495,7 @@
 | 474 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.59 | 569 | 236 |
 | 474 | [Travellers Rest](games/t/travellers_rest.md) | 4.59 | 0 | 659 |
 | 474 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 659 |
-| 496 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 70,108 | 12 |
+| 496 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 70,134 | 12 |
 | 496 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.58 | 143 | 382 |
 | 496 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,161 | 166 |
 | 496 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.58 | 245 | 319 |
@@ -532,7 +532,7 @@
 | 523 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.57 | 111 | 416 |
 | 523 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.57 | 55 | 511 |
 | 523 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 659 |
-| 523 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 534 | 242 |
+| 523 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.57 | 535 | 242 |
 | 523 | [Hob](games/h/hob.md) | 4.57 | 0 | 659 |
 | 523 | [Isonzo](games/i/isonzo.md) | 4.57 | 52 | 521 |
 | 523 | [Minit](games/m/minit.md) | 4.57 | 0 | 659 |
@@ -774,7 +774,7 @@
 | 758 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.44 | 0 | 659 |
 | 758 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 659 |
 | 758 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 659 |
-| 758 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 864,388 | 2 |
+| 758 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 865,406 | 2 |
 | 758 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 659 |
 | 758 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 726 | 214 |
 | 758 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 510 |
@@ -1160,7 +1160,7 @@
 | 1,158 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 390 | 271 |
 | 1,158 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.99 | 26 | 620 |
 | 1,160 | [Blazing Sails](games/b/blazing_sails.md) | 3.98 | 786 | 207 |
-| 1,160 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.98 | 803 | 205 |
+| 1,160 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.98 | 806 | 205 |
 | 1,160 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 659 |
 | 1,163 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.97 | 35 | 571 |
 | 1,163 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 659 |
@@ -1195,9 +1195,9 @@
 | 1,193 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.84 | 0 | 659 |
 | 1,193 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 659 |
 | 1,195 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 659 |
+| 1,195 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.83 | 0 | 659 |
 | 1,195 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 0 | 659 |
-| 1,197 | [To The Rescue](games/t/to_the_rescue.md) | 3.82 | 0 | 659 |
-| 1,197 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.82 | 0 | 659 |
+| 1,198 | [To The Rescue](games/t/to_the_rescue.md) | 3.82 | 0 | 659 |
 | 1,199 | [INDUSTRIA](games/i/industria.md) | 3.81 | 0 | 659 |
 | 1,200 | [Spelldrifter](games/s/spelldrifter.md) | 3.80 | 0 | 659 |
 | 1,200 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 3.80 | 0 | 659 |
