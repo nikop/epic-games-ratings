@@ -2,7 +2,7 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 561,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 204,
@@ -691,10 +691,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 708,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-06-25T17:58:35.7658129+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 709,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 708,
+  "NumberOfAwards": 709,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -744,7 +750,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13152,9 +13158,9 @@
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
-  "LastChanged": "2024-06-19T20:59:08.6652787+00:00",
+  "LastChanged": "2024-06-25T17:58:35.7658127+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:44.9846255+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:58:01.4030654+00:00",
-  "LastUpdate_Ratings": "2024-06-25T15:59:17.9022005+00:00",
+  "LastUpdate_Ratings": "2024-06-25T17:58:35.7658133+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:44.9847077+00:00"
 }

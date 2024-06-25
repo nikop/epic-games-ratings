@@ -2,7 +2,7 @@
   "ID": "7ec453d446194b8f8afe82aaa9561211",
   "Name": "XCOM\u00AE 2",
   "ProductSlug": "xcom-2",
-  "Ranking_Rating": 561,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 1087,
@@ -14137,10 +14137,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 13492,
       "NumberOfAwardsMax": 1658
+    },
+    {
+      "Time": "2024-06-25T18:00:48.3082195+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 13493,
+      "NumberOfAwardsMax": 1658
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13492,
+  "NumberOfAwards": 13493,
   "NumberOfAwardsMax": 1658,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -14196,7 +14202,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 739
+      "Count": 740
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14216,8 +14222,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2024-06-25T13:57:19.7674209+00:00",
+  "LastChanged": "2024-06-25T18:00:48.3082193+00:00",
   "LastUpdate_AppInfo": "2024-06-23T21:57:20.6383229+00:00",
-  "LastUpdate_Ratings": "2024-06-25T16:57:37.8258944+00:00",
+  "LastUpdate_Ratings": "2024-06-25T18:00:48.3082199+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:02.0788438+00:00"
 }
