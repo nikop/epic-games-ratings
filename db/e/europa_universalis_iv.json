@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -20281,10 +20281,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 82135,
       "NumberOfAwardsMax": 10002
+    },
+    {
+      "Time": "2024-06-25T14:59:29.1021489+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 82148,
+      "NumberOfAwardsMax": 10002
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 82135,
+  "NumberOfAwards": 82148,
   "NumberOfAwardsMax": 10002,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -20334,7 +20340,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 9090
+      "Count": 9103
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -55986,9 +55992,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-06-25T13:57:50.2070604+00:00",
+  "LastChanged": "2024-06-25T14:59:29.1021487+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:40.0484374+00:00",
   "LastUpdate_AppInfo": "2024-06-23T22:57:12.7028147+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:57:50.2070611+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:59:29.1021494+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:40.0498314+00:00"
 }

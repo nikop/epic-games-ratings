@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-3-n7-digital-deluxe-edition-4ef6ed",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-13T20:00:00+00:00",
@@ -34,8 +34,24 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "4m7239",
+      "IsBase": false,
+      "Progressed": 0,
+      "Completed": 0
+    },
+    {
+      "ID": "c0a65gf",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-20T20:57:20.6633545+00:00",
+  "FirstSeenAchievements": "2024-06-25T15:01:36.4111415+00:00",
+  "LastChanged_Achievements": "2024-06-25T15:01:36.4111379+00:00",
   "LastUpdate_AppInfo": "2024-06-20T20:57:19.3196345+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:23.4458362+00:00"
+  "LastUpdate_Ratings": "2024-06-25T14:57:48.9245697+00:00",
+  "LastUpdate_Achievements": "2024-06-25T15:01:36.41125+00:00"
 }

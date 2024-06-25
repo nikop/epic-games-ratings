@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-andromeda-deluxe-edition-7a38d6",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-13T20:00:00+00:00",
@@ -34,8 +34,18 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "624l2e7",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-06-20T20:57:20.6393315+00:00",
+  "FirstSeenAchievements": "2024-06-25T15:01:35.6394641+00:00",
+  "LastChanged_Achievements": "2024-06-25T15:01:35.6384577+00:00",
   "LastUpdate_AppInfo": "2024-06-20T20:57:19.3196237+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:23.6325008+00:00"
+  "LastUpdate_Ratings": "2024-06-25T14:57:49.0800722+00:00",
+  "LastUpdate_Achievements": "2024-06-25T15:01:35.6394818+00:00"
 }

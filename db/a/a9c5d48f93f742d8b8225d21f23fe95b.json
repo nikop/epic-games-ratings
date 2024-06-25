@@ -4,7 +4,7 @@
   "ProductSlug": "projectelement-a1ec94",
   "Ranking_EOS_Progress": 833,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-13T10:00:01.524+00:00",
@@ -109,6 +109,6 @@
   "FirstSeenAchievements": "2024-03-21T17:05:29.6914129+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:18.7472583+00:00",
   "LastUpdate_AppInfo": "2024-06-19T21:57:20.3589606+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:03.867027+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:57:27.9626348+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:18.7472663+00:00"
 }

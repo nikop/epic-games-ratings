@@ -4,7 +4,7 @@
   "ProductSlug": "bgrpg-665404",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:46.9960306+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:46.9960226+00:00",
   "LastUpdate_AppInfo": "2024-06-18T21:57:05.9549618+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:23.5719946+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:57:49.0545463+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:46.9960328+00:00"
 }

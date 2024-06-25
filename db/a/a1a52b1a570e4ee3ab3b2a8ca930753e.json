@@ -2,12 +2,12 @@
   "ID": "a1a52b1a570e4ee3ab3b2a8ca930753e",
   "Name": "Orcs Must Die! 3",
   "ProductSlug": "combo-a7e03a",
-  "Ranking_Rating": 545,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 468,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-02T15:00:00+00:00",
@@ -1421,6 +1421,6 @@
   "LastChanged": "2024-06-25T11:59:14.3896441+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:28.5816417+00:00",
   "LastUpdate_AppInfo": "2024-06-20T19:57:17.5480913+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:58:08.5552573+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:59:45.0446398+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:28.5822801+00:00"
 }

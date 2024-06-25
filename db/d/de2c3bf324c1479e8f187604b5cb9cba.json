@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-labyrinth-e7b74b",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-18T21:57:06.4102801+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:51.1246407+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:58:18.2295019+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:56.7510889+00:00"
 }

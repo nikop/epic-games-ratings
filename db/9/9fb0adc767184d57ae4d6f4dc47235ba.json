@@ -4,7 +4,7 @@
   "ProductSlug": "unholy-village-bf7edb",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -93,6 +93,6 @@
   "FirstSeenAchievements": "2024-04-10T06:05:42.3064921+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:43.6090719+00:00",
   "LastUpdate_AppInfo": "2024-06-24T14:56:59.907956+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:08.3408399+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:57:32.7225137+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:43.6099166+00:00"
 }

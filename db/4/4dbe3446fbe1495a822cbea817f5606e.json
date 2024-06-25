@@ -4,7 +4,7 @@
   "ProductSlug": "blue-oak-bridge-53bc76",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-13T17:36:43.151+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-18T08:59:18.3771712+00:00",
   "LastUpdate_AppInfo": "2024-06-19T03:57:05.0917128+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:57:18.9162088+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:59:01.4440765+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:50.4824914+00:00"
 }

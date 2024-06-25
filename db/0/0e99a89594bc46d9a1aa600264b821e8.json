@@ -4,7 +4,7 @@
   "ProductSlug": "welcome-to-empyreum-f29a56",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:24.7750753+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:24.7750734+00:00",
   "LastUpdate_AppInfo": "2024-06-20T01:46:56.9561713+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:03:46.6333237+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:57:10.3533171+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:24.7750769+00:00"
 }

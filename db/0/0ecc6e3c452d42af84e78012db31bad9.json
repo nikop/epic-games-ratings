@@ -2,12 +2,12 @@
   "ID": "0ecc6e3c452d42af84e78012db31bad9",
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
-  "Ranking_Rating": 1142,
+  "Ranking_Rating": 1143,
   "Ranking_Popularity": 659,
   "Ranking_PopularitySum": 659,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -14127,6 +14127,6 @@
   "LastChanged": "2024-05-29T02:27:06.6324488+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:59.0822008+00:00",
   "LastUpdate_AppInfo": "2024-06-22T14:57:05.0844008+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:06.7775392+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:57:31.08288+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:59.082291+00:00"
 }

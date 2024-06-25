@@ -2,7 +2,7 @@
   "ID": "71d91cc48e0145078a1db1e402c8975b",
   "Name": "Unravel",
   "ProductSlug": "unravel-ce69bb",
-  "Ranking_EOS_Progress": 803,
+  "Ranking_EOS_Progress": 790,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 1,
   "Ranking_EOS_NewCompleters": 1,
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:00.0462798+00:00",
       "NumProgressed": 21,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-06-25T15:01:44.1106793+00:00",
+      "NumProgressed": 25,
       "NumCompleted": 0
     }
   ],
@@ -53,7 +58,7 @@
       "ID": "achievement_1",
       "SetID": "3b02pba",
       "Name": "Renewed",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -61,7 +66,7 @@
       "ID": "achievement_10",
       "SetID": "3b02pba",
       "Name": "Shut down",
-      "Percentage": 24,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -69,7 +74,7 @@
       "ID": "achievement_11",
       "SetID": "3b02pba",
       "Name": "Reach out",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -77,7 +82,7 @@
       "ID": "achievement_12",
       "SetID": "3b02pba",
       "Name": "Cold but warm",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -85,7 +90,7 @@
       "ID": "achievement_13",
       "SetID": "3b02pba",
       "Name": "Time will catch up",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -93,7 +98,7 @@
       "ID": "achievement_14",
       "SetID": "3b02pba",
       "Name": "The end is not the end",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -101,7 +106,7 @@
       "ID": "achievement_15",
       "SetID": "3b02pba",
       "Name": "Gardener",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -109,7 +114,7 @@
       "ID": "achievement_16",
       "SetID": "3b02pba",
       "Name": "Eagle eye",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -125,7 +130,7 @@
       "ID": "achievement_18",
       "SetID": "3b02pba",
       "Name": "Get a clew",
-      "Percentage": 29,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -133,7 +138,7 @@
       "ID": "achievement_19",
       "SetID": "3b02pba",
       "Name": "Pathfinder",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -149,7 +154,7 @@
       "ID": "achievement_20",
       "SetID": "3b02pba",
       "Name": "Dig where you stand",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -157,7 +162,7 @@
       "ID": "achievement_21",
       "SetID": "3b02pba",
       "Name": "Undaunted",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -173,7 +178,7 @@
       "ID": "achievement_23",
       "SetID": "3b02pba",
       "Name": "Snowfall",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -205,31 +210,31 @@
       "ID": "achievement_4",
       "SetID": "3b02pba",
       "Name": "Missing piece",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_5",
       "SetID": "3b02pba",
       "Name": "Watch the waves",
-      "Percentage": 52,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_6",
       "SetID": "3b02pba",
       "Name": "Found at last",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_7",
       "SetID": "3b02pba",
       "Name": "Walkabout",
-      "Percentage": 33,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -237,7 +242,7 @@
       "ID": "achievement_8",
       "SetID": "3b02pba",
       "Name": "Everlasting",
-      "Percentage": 29,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -245,7 +250,7 @@
       "ID": "achievement_9",
       "SetID": "3b02pba",
       "Name": "Scarred earth",
-      "Percentage": 29,
+      "Percentage": 24,
       "XP": 20,
       "UsersEstimate": 6
     }
@@ -254,14 +259,14 @@
     {
       "ID": "3b02pba",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-12T10:00:20.1067835+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:00.0462825+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:00.0462796+00:00",
+  "LastChanged_Achievements": "2024-06-25T15:01:44.1106788+00:00",
   "LastUpdate_AppInfo": "2024-06-21T01:47:23.4842247+00:00",
   "LastUpdate_Ratings": "2024-06-25T14:00:00.8288089+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:00.0468909+00:00"
+  "LastUpdate_Achievements": "2024-06-25T15:01:44.1107201+00:00"
 }

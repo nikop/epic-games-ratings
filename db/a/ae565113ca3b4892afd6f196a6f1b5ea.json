@@ -2,9 +2,9 @@
   "ID": "ae565113ca3b4892afd6f196a6f1b5ea",
   "Name": "Dungeon Escape",
   "ProductSlug": "dungeon-escape-71b2bc",
-  "Ranking_EOS_Progress": 799,
+  "Ranking_EOS_Progress": 800,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-06T15:00:00+00:00",
@@ -472,6 +472,6 @@
   "FirstSeenAchievements": "2024-04-07T02:21:09.702658+00:00",
   "LastChanged_Achievements": "2024-06-17T16:18:16.0837303+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:12.1472184+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:05:09.0467888+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:58:36.1531449+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:16.0837631+00:00"
 }

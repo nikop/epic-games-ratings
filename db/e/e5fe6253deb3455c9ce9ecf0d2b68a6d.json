@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -2405,6 +2405,6 @@
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:08.730857+00:00",
   "LastUpdate_AppInfo": "2024-06-18T19:56:57.9363515+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:05:15.0467676+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:58:42.1360493+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:08.7308757+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "zen-chess-mate-in-one-ecebc1",
   "Ranking_EOS_Progress": 644,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-06T17:30:00+00:00",
@@ -294,6 +294,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:30.8641048+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:30.864102+00:00",
   "LastUpdate_AppInfo": "2024-06-19T01:50:26.7535332+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:58:21.9095896+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:59:56.9851098+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.8646957+00:00"
 }

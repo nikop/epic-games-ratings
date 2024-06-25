@@ -4,7 +4,7 @@
   "ProductSlug": "unlock-the-cat-487fac",
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-22T17:00:00+00:00",
@@ -125,6 +125,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:06.6898416+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:26.9237229+00:00",
   "LastUpdate_AppInfo": "2024-06-22T19:57:13.1786548+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:03:35.2495948+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:56:59.04321+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:26.9237304+00:00"
 }

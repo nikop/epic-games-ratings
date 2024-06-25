@@ -4,7 +4,7 @@
   "ProductSlug": "madiha-in-the-forsaken-dungeon-579971",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-24T17:22:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-21T04:57:16.4759721+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:31.0786942+00:00"
+  "LastUpdate_Ratings": "2024-06-25T14:57:56.9205175+00:00",
+  "LastUpdate_Achievements": "2024-06-25T15:01:34.8025823+00:00"
 }

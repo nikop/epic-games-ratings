@@ -4,7 +4,7 @@
   "ProductSlug": "john-mambo-f4d187",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-14T21:58:24.442018+00:00",
   "LastUpdate_AppInfo": "2024-06-22T02:57:03.8622993+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:04:10.8902562+00:00",
+  "LastUpdate_Ratings": "2024-06-25T14:57:35.2136407+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:59.494383+00:00"
 }

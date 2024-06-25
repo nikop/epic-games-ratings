@@ -4,7 +4,7 @@
   "ProductSlug": "alphadia-i-and-ii-87391f",
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 1,
+  "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-31T00:00:00+00:00",
@@ -29,10 +29,302 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-06-25T15:01:36.1593468+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "5e0j1a9",
+      "Name": "Sudden Beginning",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "5e0j1a9",
+      "Name": "With the Hope for Future",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "5e0j1a9",
+      "Name": "Everyone\u0027s Supporter",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "5e0j1a9",
+      "Name": "Beginner Achiever",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "5e0j1a9",
+      "Name": "Intermediate Achiever",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "5e0j1a9",
+      "Name": "Advanced Achiever",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "5e0j1a9",
+      "Name": "Master Achiever",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "5e0j1a9",
+      "Name": "Solo Mission, Begins",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "5e0j1a9",
+      "Name": "Order from the Guildmistress",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "5e0j1a9",
+      "Name": "Cooperation with the Hostile Organization",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "5e0j1a9",
+      "Name": "Mystery of Ash",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "5e0j1a9",
+      "Name": "Hasty Departure",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "5e0j1a9",
+      "Name": "To the Great Ocean with the Companions",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "5e0j1a9",
+      "Name": "Sharing the Same Energi",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "5e0j1a9",
+      "Name": "To the Limitless Sky",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "5e0j1a9",
+      "Name": "Even Someone You Don\u0027t Care For",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "5e0j1a9",
+      "Name": "Final Showdown",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "5e0j1a9",
+      "Name": "Price for Peace",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "5e0j1a9",
+      "Name": "Peace Grasped Together",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "5e0j1a9",
+      "Name": "True Philanthropist",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "5e0j1a9",
+      "Name": "Beginner Accomplisher",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "5e0j1a9",
+      "Name": "Intermediate Accomplisher",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "5e0j1a9",
+      "Name": "With the New Companions",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "5e0j1a9",
+      "Name": "Advanced Accomplisher",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "5e0j1a9",
+      "Name": "Master Accomplisher",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "5e0j1a9",
+      "Name": "Beginner Fighter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "5e0j1a9",
+      "Name": "Intermediate Fighter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "5e0j1a9",
+      "Name": "Advanced Fighter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "5e0j1a9",
+      "Name": "Master Fighter",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "5e0j1a9",
+      "Name": "More Days of Escaping",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "5e0j1a9",
+      "Name": "To the Open Sea",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "5e0j1a9",
+      "Name": "To Stop the Brother\u0027s Wrongdoings",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "5e0j1a9",
+      "Name": "Open Wings and Fly to the Sky",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "5e0j1a9",
+      "Name": "With the Death of Friend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "5e0j1a9",
+      "Name": "To the Final Battle with Entrusted Thoughts",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5e0j1a9",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-06-25T15:01:36.1593468+00:00",
+  "LastChanged_Achievements": "2024-06-25T15:01:36.1593313+00:00",
   "LastUpdate_AppInfo": "2024-06-20T15:57:53.161225+00:00",
-  "LastUpdate_Ratings": "2024-06-25T13:58:17.5567871+00:00"
+  "LastUpdate_Ratings": "2024-06-25T14:59:52.8983898+00:00",
+  "LastUpdate_Achievements": "2024-06-25T15:01:36.1618425+00:00"
 }
