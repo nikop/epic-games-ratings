@@ -4,7 +4,7 @@
   "ProductSlug": "phoenix-point",
   "Ranking_Rating": 543,
   "Ranking_Popularity": 136,
-  "Ranking_PopularitySum": 137,
+  "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 3,
@@ -4519,10 +4519,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 7560,
       "NumberOfAwardsMax": 1889
+    },
+    {
+      "Time": "2024-06-25T19:59:16.7165628+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7561,
+      "NumberOfAwardsMax": 1889
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7560,
+  "NumberOfAwards": 7561,
   "NumberOfAwardsMax": 1889,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4560,7 +4566,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 702
+      "Count": 703
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4598,8 +4604,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2024-06-25T01:52:11.9915838+00:00",
+  "LastChanged": "2024-06-25T19:59:16.7165626+00:00",
   "LastUpdate_AppInfo": "2024-06-23T19:57:39.6951175+00:00",
-  "LastUpdate_Ratings": "2024-06-25T18:57:31.4834336+00:00",
+  "LastUpdate_Ratings": "2024-06-25T19:59:16.7165632+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:23.2363115+00:00"
 }
