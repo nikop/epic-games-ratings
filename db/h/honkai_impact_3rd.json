@@ -2,7 +2,7 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 694,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 1087,
@@ -16119,18 +16119,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 16442,
       "NumberOfAwardsMax": 4246
+    },
+    {
+      "Time": "2024-06-25T03:58:16.7333931+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 16447,
+      "NumberOfAwardsMax": 4249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16442,
-  "NumberOfAwardsMax": 4246,
+  "NumberOfAwards": 16447,
+  "NumberOfAwardsMax": 4249,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4246
+      "Count": 4249
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -16154,7 +16160,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 748
+      "Count": 750
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -16223,8 +16229,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2024-06-24T16:58:50.87967+00:00",
+  "LastChanged": "2024-06-25T03:58:16.7333929+00:00",
   "LastUpdate_AppInfo": "2024-06-23T21:57:14.1386405+00:00",
-  "LastUpdate_Ratings": "2024-06-25T02:29:04.6178093+00:00",
+  "LastUpdate_Ratings": "2024-06-25T03:58:16.7333936+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:16.2036263+00:00"
 }
