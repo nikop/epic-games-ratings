@@ -365,13 +365,13 @@ Completed: 9 (0.01%) (Ranked 486)
 | 2024-06-17 | 114,566 | 9 |
 ## Awards
 Max (Great for Beginners): 268  (Ranked 310)  
-Sum: 559 (Ranked 377)  
+Sum: 562 (Ranked 377)  
 Diff (max vs sum): -67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 268 |
 | This game has Playful Visuals | 147 |
-| This game has Quickly Understood Controls | 144 |
+| This game has Quickly Understood Controls | 147 |
 | This game is Great for Quick Sessions | 134 |
 | This game has a Kind Community | 63 |
 | This game has Diverse Characters | 59 |
@@ -596,3 +596,4 @@ Diff (max vs sum): -67
 | 2024-06-22 | 3.67 | 262 | 548 |
 | 2024-06-23 | 3.67 | 267 | 553 |
 | 2024-06-24 | 3.67 | 268 | 559 |
+| 2024-06-25 | 3.67 | 268 | 562 |
