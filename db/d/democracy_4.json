@@ -2,7 +2,7 @@
   "ID": "74b602736d704ed2a5915c31319d99f6",
   "Name": "Democracy 4",
   "ProductSlug": "democracy-4",
-  "Ranking_Rating": 881,
+  "Ranking_Rating": 891,
   "Ranking_Popularity": 660,
   "Ranking_PopularitySum": 660,
   "Ranking_EOS_Progress": 1088,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -353,6 +353,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-26T19:58:37.0115677+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -370,8 +376,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:46.6765497+00:00",
-  "LastChanged": "2024-06-07T17:58:22.9379393+00:00",
+  "LastChanged": "2024-06-26T19:58:37.0115675+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:25.3527921+00:00",
-  "LastUpdate_Ratings": "2024-06-26T18:00:27.9397073+00:00",
+  "LastUpdate_Ratings": "2024-06-26T19:58:37.0115681+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:35.7263389+00:00"
 }

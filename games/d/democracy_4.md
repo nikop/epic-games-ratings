@@ -1,7 +1,7 @@
 # Democracy 4
 [Store](https://store.epicgames.com/en-US/p/democracy-4)  
 [View Rawdata](../../db/d/democracy_4.json)  
-Rating: 4.37 (Ranked 881)  
+Rating: 4.36 (Ranked 891)  
 Number of Ratings: 46  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -70,3 +70,4 @@ Number of Ratings: 46  (23.09.2022)
 | 2024-03-20 | 4.37 | - | 0 | 0 |
 | 2024-04-18 | 4.38 | - | 0 | 0 |
 | 2024-06-07 | 4.37 | - | 0 | 0 |
+| 2024-06-26 | 4.36 | - | 0 | 0 |
