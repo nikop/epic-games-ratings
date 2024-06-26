@@ -2,7 +2,7 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
   "ProductSlug": "multiversus",
-  "Ranking_Rating": 561,
+  "Ranking_Rating": 562,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 16,
@@ -5508,10 +5508,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 47899,
       "NumberOfAwardsMax": 5074
+    },
+    {
+      "Time": "2024-06-26T21:57:58.3719549+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 47908,
+      "NumberOfAwardsMax": 5074
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47899,
+  "NumberOfAwards": 47908,
   "NumberOfAwardsMax": 5074,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5519,7 +5525,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4561
+      "Count": 4563
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5549,7 +5555,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4109
+      "Count": 4112
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5585,7 +5591,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4697
+      "Count": 4701
     },
     {
       "Text": "This game has a Competitive Community",
@@ -13014,9 +13020,9 @@
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
-  "LastChanged": "2024-06-26T19:59:15.591997+00:00",
+  "LastChanged": "2024-06-26T21:57:58.3719547+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:11.1037357+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:42.5991487+00:00",
-  "LastUpdate_Ratings": "2024-06-26T19:59:15.5919975+00:00",
+  "LastUpdate_Ratings": "2024-06-26T21:57:58.3719559+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:11.1037799+00:00"
 }

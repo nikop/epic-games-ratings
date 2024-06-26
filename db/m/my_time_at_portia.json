@@ -2,7 +2,7 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 1088,
@@ -4753,10 +4753,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5257,
       "NumberOfAwardsMax": 2398
+    },
+    {
+      "Time": "2024-06-26T21:57:30.9244222+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5258,
+      "NumberOfAwardsMax": 2398
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5257,
+  "NumberOfAwards": 5258,
   "NumberOfAwardsMax": 2398,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4782,7 +4788,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 284
+      "Count": 285
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4850,8 +4856,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2024-06-25T19:59:00.8285894+00:00",
+  "LastChanged": "2024-06-26T21:57:30.924422+00:00",
   "LastUpdate_AppInfo": "2024-06-23T22:57:16.0100973+00:00",
-  "LastUpdate_Ratings": "2024-06-26T19:58:55.057094+00:00",
+  "LastUpdate_Ratings": "2024-06-26T21:57:30.9244227+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:47.636066+00:00"
 }
