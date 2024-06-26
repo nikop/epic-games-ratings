@@ -479,7 +479,7 @@
 | 473 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.59 | 0 | 659 |
 | 473 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.59 | 435 | 261 |
 | 473 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 0 | 659 |
-| 473 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.59 | 17,237 | 30 |
+| 473 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.59 | 17,260 | 30 |
 | 473 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.59 | 0 | 659 |
 | 473 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 66 | 486 |
 | 473 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.59 | 967 | 191 |
@@ -499,7 +499,7 @@
 | 496 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 659 |
 | 496 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.58 | 143 | 382 |
 | 496 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,161 | 166 |
-| 496 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.58 | 245 | 319 |
+| 496 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.58 | 247 | 319 |
 | 496 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 280 | 304 |
 | 496 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 659 |
 | 496 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 44 | 538 |
@@ -877,9 +877,9 @@
 | 863 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.38 | 0 | 659 |
 | 863 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 4.38 | 392 | 269 |
 | 863 | [Tacoma](games/t/tacoma.md) | 4.38 | 0 | 659 |
+| 863 | [The Big Con](games/t/the_big_con.md) | 4.38 | 0 | 659 |
 | 863 | [The Riflemen](games/t/the_riflemen.md) | 4.38 | 0 | 659 |
 | 863 | [Train Valley](games/t/train_valley.md) | 4.38 | 0 | 659 |
-| 863 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.38 | 1,448 | 149 |
 | 881 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.37 | 0 | 659 |
 | 881 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 659 |
 | 881 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.37 | 0 | 659 |
@@ -887,10 +887,10 @@
 | 881 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,187 | 124 |
 | 881 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 653 |
 | 881 | [My Pet Hooligan](games/e/ef233d1e2619445a887f0380266aa4b5.md) | 4.37 | 0 | 659 |
-| 881 | [The Big Con](games/t/the_big_con.md) | 4.37 | 0 | 659 |
 | 881 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 5,775 | 87 |
 | 881 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.37 | 655 | 225 |
 | 881 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.37 | 0 | 659 |
+| 881 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.37 | 1,448 | 149 |
 | 892 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 132 | 392 |
 | 892 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 180 | 358 |
 | 892 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,938 | 41 |
@@ -1079,7 +1079,7 @@
 | 1,076 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 34 | 577 |
 | 1,076 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 659 |
 | 1,076 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.18 | 525 | 244 |
-| 1,076 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 230,605 | 6 |
+| 1,076 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 230,656 | 6 |
 | 1,076 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 444 |
 | 1,076 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 659 |
 | 1,076 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 659 |
@@ -1132,7 +1132,7 @@
 | 1,129 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 4.08 | 0 | 659 |
 | 1,129 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 354 |
 | 1,129 | [Patron](games/p/patron.md) | 4.08 | 0 | 659 |
-| 1,129 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 245 | 319 |
+| 1,129 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 245 | 320 |
 | 1,129 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 659 |
 | 1,135 | [Obduction](games/o/obduction.md) | 4.07 | 63 | 491 |
 | 1,135 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 501 | 247 |

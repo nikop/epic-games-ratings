@@ -5,7 +5,7 @@
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 393,747 | 4.68 | 280 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 345,281 | 4.67 | 299 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 332,516 | 4.87 | 18 |
-| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 230,605 | 4.18 | 1,076 |
+| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 230,656 | 4.18 | 1,076 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 169,086 | 4.69 | 256 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 161,329 | 4.50 | 653 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 135,450 | 4.69 | 256 |
@@ -29,7 +29,7 @@
 | 27 | [Borderlands 2](games/b/borderlands_2.md) | 18,022 | 4.76 | 144 |
 | 28 | [SnowRunner](games/s/snowrunner.md) | 17,608 | 4.75 | 153 |
 | 29 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 17,395 | 4.60 | 455 |
-| 30 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 17,237 | 4.59 | 473 |
+| 30 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 17,260 | 4.59 | 473 |
 | 31 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 15,905 | 4.49 | 680 |
 | 32 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,767 | 4.44 | 757 |
 | 33 | [Dead Island 2](games/d/dead_island_2.md) | 15,607 | 4.54 | 582 |
@@ -148,7 +148,7 @@
 | 146 | [OUTRIDERS](games/o/outriders.md) | 1,640 | 4.43 | 786 |
 | 147 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,576 | 4.62 | 405 |
 | 148 | [Ring of Pain](games/r/ring_of_pain.md) | 1,533 | 4.58 | 496 |
-| 149 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 1,448 | 4.38 | 863 |
+| 149 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 1,448 | 4.37 | 881 |
 | 150 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,417 | 4.76 | 144 |
 | 151 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,391 | 4.70 | 232 |
 | 152 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,350 | 4.42 | 807 |
@@ -318,8 +318,8 @@
 | 315 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 251 | 4.57 | 522 |
 | 317 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 248 | 4.61 | 424 |
 | 317 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 248 | 4.55 | 560 |
-| 319 | [F1® 23](games/f/f1®_23_standard_edition.md) | 245 | 4.58 | 496 |
-| 319 | [Pinball FX](games/p/pinball_fx.md) | 245 | 4.08 | 1,129 |
+| 319 | [F1® 23](games/f/f1®_23_standard_edition.md) | 247 | 4.58 | 496 |
+| 320 | [Pinball FX](games/p/pinball_fx.md) | 245 | 4.08 | 1,129 |
 | 321 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 244 | 4.57 | 522 |
 | 322 | [Crying Suns](games/c/crying_suns.md) | 241 | 4.52 | 621 |
 | 323 | [HITMAN](games/h/hitman.md) | 236 | 4.63 | 385 |
