@@ -4,7 +4,7 @@
   "ProductSlug": "the-messenger",
   "Ranking_Rating": 87,
   "Ranking_Popularity": 276,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -973,10 +973,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 419,
       "NumberOfAwardsMax": 373
+    },
+    {
+      "Time": "2024-06-26T23:00:11.2959936+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 439,
+      "NumberOfAwardsMax": 373
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 419,
+  "NumberOfAwards": 439,
   "NumberOfAwardsMax": 373,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1003,6 +1009,12 @@
       "Prefix": "This game has",
       "Type": "Challenging Combat",
       "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1016,8 +1028,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2024-06-23T20:57:22.3154263+00:00",
+  "LastChanged": "2024-06-26T23:00:11.2959934+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:22.4598035+00:00",
-  "LastUpdate_Ratings": "2024-06-26T21:57:01.6089299+00:00",
+  "LastUpdate_Ratings": "2024-06-26T23:00:11.2959939+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:44.6247069+00:00"
 }
