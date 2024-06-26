@@ -3,7 +3,7 @@
 | 1 | [Tinykin](games/t/tinykin.md) | 4.95 | 0 | 660 |
 | 2 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.94 | 0 | 660 |
 | 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 660 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,973 | 101 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,975 | 101 |
 | 5 | [Celeste](games/c/celeste.md) | 4.91 | 2,049 | 131 |
 | 5 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 660 |
 | 7 | [Hades II](games/h/hades_ii.md) | 4.90 | 104 | 426 |
@@ -155,7 +155,7 @@
 | 153 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.75 | 0 | 660 |
 | 153 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,753 | 60 |
 | 153 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 660 |
-| 153 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,160 | 167 |
+| 153 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,163 | 166 |
 | 153 | [Fez](games/f/fez.md) | 4.75 | 28 | 606 |
 | 153 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,767 | 144 |
 | 153 | [Frostpunk](games/f/frostpunk.md) | 4.75 | 973 | 190 |
@@ -283,7 +283,7 @@
 | 280 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,926 | 92 |
 | 280 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 814 | 204 |
 | 280 | [Coromon](games/c/coromon.md) | 4.68 | 50 | 527 |
-| 280 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,715 | 95 |
+| 280 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,718 | 95 |
 | 280 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 4.68 | 0 | 660 |
 | 280 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,002 | 53 |
 | 280 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,875 | 55 |
@@ -498,7 +498,7 @@
 | 496 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 70,160 | 12 |
 | 496 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 660 |
 | 496 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.58 | 145 | 381 |
-| 496 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,161 | 166 |
+| 496 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,161 | 167 |
 | 496 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.58 | 247 | 319 |
 | 496 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 280 | 304 |
 | 496 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.58 | 55 | 512 |
@@ -820,7 +820,7 @@
 | 807 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 72 |
 | 807 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 225 | 332 |
 | 807 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 660 |
-| 807 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,350 | 152 |
+| 807 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,352 | 152 |
 | 807 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 194 | 348 |
 | 807 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 106 | 423 |
 | 807 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 660 |
@@ -1160,7 +1160,7 @@
 | 1,158 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 390 | 271 |
 | 1,158 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.99 | 26 | 621 |
 | 1,160 | [Blazing Sails](games/b/blazing_sails.md) | 3.98 | 787 | 207 |
-| 1,160 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.98 | 806 | 205 |
+| 1,160 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.98 | 810 | 205 |
 | 1,160 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 660 |
 | 1,163 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.97 | 35 | 572 |
 | 1,163 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 660 |
@@ -1193,10 +1193,10 @@
 | 1,190 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.85 | 0 | 660 |
 | 1,190 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 660 |
 | 1,193 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.84 | 0 | 660 |
+| 1,193 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.84 | 0 | 660 |
 | 1,193 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 660 |
-| 1,195 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 660 |
-| 1,195 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.83 | 0 | 660 |
-| 1,195 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 0 | 660 |
+| 1,196 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.83 | 0 | 660 |
+| 1,196 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.83 | 0 | 660 |
 | 1,198 | [INDUSTRIA](games/i/industria.md) | 3.82 | 0 | 660 |
 | 1,198 | [To The Rescue](games/t/to_the_rescue.md) | 3.82 | 0 | 660 |
 | 1,200 | [Spelldrifter](games/s/spelldrifter.md) | 3.80 | 0 | 660 |
