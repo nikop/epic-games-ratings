@@ -2,7 +2,7 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
-  "Ranking_Rating": 654,
+  "Ranking_Rating": 679,
   "Ranking_Popularity": 189,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 1087,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "NumberOfRatings": 2249,
   "RatingHistory": [
     {
@@ -7105,6 +7105,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 6911,
       "NumberOfAwardsMax": 974
+    },
+    {
+      "Time": "2024-06-26T06:57:26.0858194+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 6911,
+      "NumberOfAwardsMax": 974
     }
   ],
   "ReviewsDisabled": false,
@@ -7190,8 +7196,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2024-06-24T19:57:37.2457604+00:00",
+  "LastChanged": "2024-06-26T06:57:26.0858193+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:58.5196143+00:00",
-  "LastUpdate_Ratings": "2024-06-26T04:58:47.777351+00:00",
+  "LastUpdate_Ratings": "2024-06-26T06:57:26.0858198+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:10.4235003+00:00"
 }
