@@ -4,9 +4,9 @@
 Rating: 4.42 (Ranked 807)  
 Number of Ratings: 61,855  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 6,689  (Ranked 71)  
+Max (Competitive Players): 6,689  (Ranked 72)  
 Sum: 53,955 (Ranked 33)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 6,689 |

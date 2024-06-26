@@ -4,7 +4,7 @@
   "ProductSlug": "alien-isolation",
   "Ranking_Rating": 424,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 295,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 3,
@@ -2780,10 +2780,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1093,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2024-06-25T23:58:27.4898944+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1009,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1093,
+  "NumberOfAwards": 1009,
   "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2853,8 +2859,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2024-06-24T20:58:38.341261+00:00",
+  "LastChanged": "2024-06-25T23:58:27.4898941+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:50.9970685+00:00",
-  "LastUpdate_Ratings": "2024-06-25T22:00:05.4289832+00:00",
+  "LastUpdate_Ratings": "2024-06-25T23:58:27.4898947+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:15.1357014+00:00"
 }

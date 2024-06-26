@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-new-lands",
   "Ranking_Rating": 621,
   "Ranking_Popularity": 381,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 1087,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 3,
@@ -2274,10 +2274,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 872,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-06-25T23:58:17.8491876+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 873,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 872,
+  "NumberOfAwards": 873,
   "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2297,7 +2303,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2353,8 +2359,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2024-06-24T06:56:55.0135486+00:00",
+  "LastChanged": "2024-06-25T23:58:17.8491874+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:47.6767715+00:00",
-  "LastUpdate_Ratings": "2024-06-25T21:59:54.7984333+00:00",
+  "LastUpdate_Ratings": "2024-06-25T23:58:17.8491881+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:34.0373202+00:00"
 }
