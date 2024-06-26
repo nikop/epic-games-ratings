@@ -2,7 +2,7 @@
   "ID": "39d4425dc6f44b92b44c025d4257c737",
   "Name": "Rumble Club",
   "ProductSlug": "rumble-club-674364",
-  "Ranking_Rating": 952,
+  "Ranking_Rating": 920,
   "Ranking_Popularity": 660,
   "Ranking_PopularitySum": 660,
   "Ranking_EOS_Progress": 1088,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2024-06-21T08:59:02.5145245+00:00",
@@ -60,6 +60,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-26T14:57:36.0708226+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -78,8 +84,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-23T22:59:14.4474412+00:00",
   "FirstSeenRating": "2024-06-21T08:59:02.514524+00:00",
-  "LastChanged": "2024-06-25T14:57:10.7565956+00:00",
+  "LastChanged": "2024-06-26T14:57:36.0708224+00:00",
   "LastUpdate_AppInfo": "2024-06-25T01:50:42.6303559+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:05:41.523367+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:57:36.0708229+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:37.0229378+00:00"
 }

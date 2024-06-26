@@ -2,7 +2,7 @@
   "ID": "c0d2e8a180624787be1c4c6386493796",
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
-  "Ranking_Rating": 74,
+  "Ranking_Rating": 61,
   "Ranking_Popularity": 660,
   "Ranking_PopularitySum": 660,
   "Ranking_EOS_Progress": 444,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "RatingHistory": [
     {
       "Time": "2024-01-11T05:00:16.5712266+00:00",
@@ -81,6 +81,12 @@
     {
       "Time": "2024-06-13T01:47:54.7794207+00:00",
       "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-26T14:58:24.4906234+00:00",
+      "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2274,9 +2280,9 @@
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged": "2024-06-13T01:47:54.7794205+00:00",
+  "LastChanged": "2024-06-26T14:58:24.4906233+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:30.3693574+00:00",
   "LastUpdate_AppInfo": "2024-06-21T07:57:26.0093233+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:06:46.2898395+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:58:24.4906239+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:30.3694197+00:00"
 }
