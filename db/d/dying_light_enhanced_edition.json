@@ -2,13 +2,13 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light: Standard Edition",
   "ProductSlug": "dying-light",
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 423,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 3,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-05-09T17:00:00+00:00",
     "PcReleaseDate": "2015-01-27T16:00:00+00:00",
@@ -54861,6 +54861,6 @@
   "LastChanged": "2024-06-26T13:04:44.7793464+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:58.6705647+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:36.5993986+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:44.7793473+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:53.7347464+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:58.6707607+00:00"
 }

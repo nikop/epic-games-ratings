@@ -2,10 +2,10 @@
   "ID": "5df8e058035b4f1ab1522b584a0142f3",
   "Name": "Skystead Ranch",
   "ProductSlug": "skystead-ranch-749c70",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2025-01-31T00:00:00+00:00",
     "PcReleaseDate": "2025-01-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-24T04:57:28.803633+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:57.6091325+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:58:58.8398713+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:51.4979742+00:00"
 }

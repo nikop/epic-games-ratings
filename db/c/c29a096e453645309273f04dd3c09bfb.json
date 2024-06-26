@@ -4,8 +4,8 @@
   "ProductSlug": "loca-deserta-odesa-3f480b",
   "Ranking_EOS_Progress": 782,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-02-13T23:00:00+00:00",
     "PcReleaseDate": "2022-06-15T22:00:00+00:00",
@@ -319,6 +319,6 @@
   "FirstSeenAchievements": "2024-01-21T19:04:42.5973794+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:39.9718205+00:00",
   "LastUpdate_AppInfo": "2024-06-24T07:57:26.6778019+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:21.758347+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:59:35.9246006+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:39.9718414+00:00"
 }

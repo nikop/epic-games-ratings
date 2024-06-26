@@ -4,8 +4,8 @@
   "ProductSlug": "eternal-supreme-a3866b",
   "Ranking_EOS_Progress": 997,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-12-31T03:00:00+00:00",
     "PcReleaseDate": "2024-12-31T03:00:00+00:00",
@@ -355,6 +355,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:05.6522758+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:42.3458249+00:00",
   "LastUpdate_AppInfo": "2024-06-20T06:57:10.1804616+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:31.699662+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:40.1989752+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:42.3458476+00:00"
 }

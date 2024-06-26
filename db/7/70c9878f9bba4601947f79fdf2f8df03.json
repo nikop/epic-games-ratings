@@ -2,10 +2,10 @@
   "ID": "70c9878f9bba4601947f79fdf2f8df03",
   "Name": "Survivor Cells",
   "ProductSlug": "survivor-cells-a0622f",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-07-31T00:00:00+00:00",
     "PcReleaseDate": "2024-05-10T17:00:00+00:00",
@@ -845,6 +845,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:18.508804+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:18.5088023+00:00",
   "LastUpdate_AppInfo": "2024-06-22T22:57:08.548679+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:57:52.7032189+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:57:20.348663+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:18.5095595+00:00"
 }

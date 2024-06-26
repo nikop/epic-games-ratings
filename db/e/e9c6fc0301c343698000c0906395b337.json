@@ -2,10 +2,10 @@
   "ID": "e9c6fc0301c343698000c0906395b337",
   "Name": "Gangster City Mafia Car Driving",
   "ProductSlug": "gangster-city-mafia-car-driving-88434c",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-10-05T18:00:00+00:00",
     "PcReleaseDate": "2023-02-12T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-16T05:57:17.389017+00:00",
   "LastUpdate_AppInfo": "2024-06-21T19:57:10.4302543+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:10.8572295+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:57:47.7536447+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:23.258771+00:00"
 }

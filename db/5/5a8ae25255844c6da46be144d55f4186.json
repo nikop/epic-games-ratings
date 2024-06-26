@@ -2,10 +2,10 @@
   "ID": "5a8ae25255844c6da46be144d55f4186",
   "Name": "Cuban Missile Crisis: Ice Crusade",
   "ProductSlug": "cuban-missile-crisis-ice-crusade-6649de",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-09-26T17:00:00+00:00",
     "PcReleaseDate": "2005-07-29T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-21T01:40:08.242266+00:00",
   "LastUpdate_AppInfo": "2024-06-26T13:04:10.9772809+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:16.2927229+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:59:27.9686869+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:42.0215179+00:00"
 }

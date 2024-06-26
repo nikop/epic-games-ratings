@@ -2,10 +2,10 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 543,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 218,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -591,6 +591,11 @@
       "Time": "2024-06-17T16:15:21.2330995+00:00",
       "NumProgressed": 217,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-26T14:08:38.1546271+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -600,17 +605,17 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "Achievement11",
@@ -618,7 +623,7 @@
       "Name": "Your Training Continues",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Achievement12",
@@ -650,7 +655,7 @@
       "Name": "Target Practice",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Achievement16",
@@ -666,7 +671,7 @@
       "Name": "Declawing",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "Achievement18",
@@ -682,7 +687,7 @@
       "Name": "Corwid Hill",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Achievement2",
@@ -696,9 +701,9 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement21",
@@ -714,15 +719,15 @@
       "Name": "Enemies of Fate",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "Achievement5",
@@ -769,7 +774,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 218,
       "Completed": 1
     }
   ],
@@ -777,8 +782,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:21.233099+00:00",
+  "LastChanged_Achievements": "2024-06-26T14:08:38.1546265+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:04.2660877+00:00",
   "LastUpdate_Ratings": "2024-06-26T13:07:17.1377337+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:21.2331164+00:00"
+  "LastUpdate_Achievements": "2024-06-26T14:08:38.15465+00:00"
 }

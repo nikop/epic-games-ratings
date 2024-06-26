@@ -4,8 +4,8 @@
   "ProductSlug": "letters-and-legends-2a2c80",
   "Ranking_EOS_Progress": 804,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-04-25T23:00:00+00:00",
     "PcReleaseDate": "2024-04-25T23:00:00+00:00",
@@ -262,6 +262,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:21.5144878+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:21.5144849+00:00",
   "LastUpdate_AppInfo": "2024-06-26T13:04:02.0214761+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:24.4302683+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:32.0724742+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:21.5150797+00:00"
 }

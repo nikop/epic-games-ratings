@@ -2,10 +2,10 @@
   "ID": "036515219be849ea92ea10d9f445107f",
   "Name": "Asdivine Saga",
   "ProductSlug": "asdivine-saga-5fdefe",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-07-31T00:00:00+00:00",
     "PcReleaseDate": "2021-09-29T15:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-20T15:57:53.3006004+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:42.7740971+00:00"
+  "LastUpdate_Ratings": "2024-06-26T13:58:37.1510597+00:00"
 }

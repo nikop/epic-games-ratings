@@ -2,10 +2,10 @@
   "ID": "3f6f54e0f8164224b817d23075cbb2a8",
   "Name": "Sunless Skies: Sovereign Edition",
   "ProductSlug": "sunless-skies-bb4947",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-06-27T15:00:00+00:00",
     "PcReleaseDate": "2019-01-31T18:00:00+00:00",
@@ -33,5 +33,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-20T15:57:53.1611315+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:42.2713989+00:00"
+  "LastUpdate_Ratings": "2024-06-26T13:58:36.4010007+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "224a83ec37974ce4a4379572aced3f35",
   "Name": "Drekirokr - Dusk of the Dragon",
   "ProductSlug": "drekirokr-dusk-of-the-dragon-f5225c",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
     "PcReleaseDate": "2020-06-10T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-21T03:57:25.1449297+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:34.147911+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:59:53.9685008+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:37.4781785+00:00"
 }

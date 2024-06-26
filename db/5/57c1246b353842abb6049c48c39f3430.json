@@ -4,8 +4,8 @@
   "ProductSlug": "plants-vs-zombies-bfn-deluxe-edition-80d6cb",
   "Ranking_EOS_Progress": 776,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-05-09T20:00:00+00:00",
     "PcReleaseDate": "2019-10-16T21:30:00+00:00",
@@ -454,6 +454,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:57.1363121+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:57.136307+00:00",
   "LastUpdate_AppInfo": "2024-06-21T01:47:23.4842306+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:46.5271775+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:55.7187884+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:57.1371881+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~328 |
-| Forced to Kill | 63.00% | ~309 |
-| A Night To Remember | 38.00% | ~186 |
-| Safe...For now? | 30.00% | ~147 |
-| Open Sesame | 25.00% | ~122 |
-| What have I done!? | 18.00% | ~88 |
-| Them and Us | 17.00% | ~83 |
-| OUTRAGE | 17.00% | ~83 |
-| This Coffin Has Your Name On It! | 15.00% | ~74 |
-| Alone In The Dark | 14.00% | ~69 |
-| The Cultists | 13.00% | ~64 |
-| The Forgotten Tower | 13.00% | ~64 |
-| Parasite Exterminated | 12.00% | ~59 |
-| Trapped | 11.00% | ~54 |
-| The Curse Is Real | 10.00% | ~49 |
-| Lover of classics | 9.00% | ~44 |
-| Modern Player | 9.00% | ~44 |
-| Rest In Peace | 9.00% | ~44 |
-| What A Mansion | 8.00% | ~39 |
-| Researcher | 6.00% | ~29 |
-| I Am The Gate Keeper! | 6.00% | ~29 |
+| Alone with Them | 67.00% | ~338 |
+| Forced to Kill | 63.00% | ~318 |
+| A Night To Remember | 38.00% | ~192 |
+| Safe...For now? | 29.00% | ~146 |
+| Open Sesame | 25.00% | ~126 |
+| Them and Us | 17.00% | ~86 |
+| OUTRAGE | 17.00% | ~86 |
+| What have I done!? | 17.00% | ~86 |
+| This Coffin Has Your Name On It! | 15.00% | ~76 |
+| Alone In The Dark | 14.00% | ~71 |
+| The Cultists | 13.00% | ~66 |
+| The Forgotten Tower | 13.00% | ~66 |
+| Parasite Exterminated | 12.00% | ~61 |
+| Trapped | 11.00% | ~56 |
+| Lover of classics | 10.00% | ~50 |
+| The Curse Is Real | 10.00% | ~50 |
+| Modern Player | 9.00% | ~45 |
+| Rest In Peace | 9.00% | ~45 |
+| What A Mansion | 8.00% | ~40 |
+| Researcher | 6.00% | ~30 |
+| I Am The Gate Keeper! | 6.00% | ~30 |
 | Armed To The Teeth | 4.00% | ~20 |
 | This Mansion Is Clean | 4.00% | ~20 |
 | Back In Time | 2.00% | ~10 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 490 (Ranked 448)  
+Progressed: 505 (Ranked 444)  
 Completed: 1 (0.20%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 1 (0.20%) (Ranked 352)
 | 2024-03-21 | 457 | 1 |
 | 2024-04-10 | 473 | 1 |
 | 2024-06-17 | 490 | 1 |
+| 2024-06-26 | 505 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

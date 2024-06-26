@@ -2,10 +2,10 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 490,
-  "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Completed": 338,
+  "Ranking_EOS_NewPlayers": 10,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 364,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-10-23T15:03:22.1103317+00:00",
@@ -1024,6 +1024,11 @@
       "Time": "2024-06-17T16:11:03.2269062+00:00",
       "NumProgressed": 360,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-06-26T14:06:08.0794525+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -1042,7 +1047,7 @@
       "ID": "ach10",
       "SetID": "baneh2j",
       "Name": "Player",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -1050,7 +1055,7 @@
       "ID": "ach11",
       "SetID": "baneh2j",
       "Name": "Otaku",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1058,7 +1063,7 @@
       "ID": "ach12",
       "SetID": "baneh2j",
       "Name": "Fan of comics",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1092,7 +1097,7 @@
       "Name": "Grahaaa!",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach17",
@@ -1100,7 +1105,7 @@
       "Name": "Get the cake",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach18",
@@ -1122,7 +1127,7 @@
       "ID": "ach2",
       "SetID": "baneh2j",
       "Name": "I know everyone",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1164,7 +1169,7 @@
       "Name": "Researcher",
       "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 169
+      "UsersEstimate": 171
     },
     {
       "ID": "ach25",
@@ -1180,7 +1185,7 @@
       "Name": "Passion",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach27",
@@ -1188,7 +1193,7 @@
       "Name": "Preparation",
       "Percentage": 80,
       "XP": 35,
-      "UsersEstimate": 288
+      "UsersEstimate": 291
     },
     {
       "ID": "ach28",
@@ -1196,7 +1201,7 @@
       "Name": "Start",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 313
+      "UsersEstimate": 317
     },
     {
       "ID": "ach29",
@@ -1204,7 +1209,7 @@
       "Name": "My first team",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ach3",
@@ -1212,7 +1217,7 @@
       "Name": "Trandy",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach30",
@@ -1220,7 +1225,7 @@
       "Name": "Found!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach31",
@@ -1250,9 +1255,9 @@
       "ID": "ach6",
       "SetID": "baneh2j",
       "Name": "On the style",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 230
+      "UsersEstimate": 229
     },
     {
       "ID": "ach7",
@@ -1266,7 +1271,7 @@
       "ID": "ach8",
       "SetID": "baneh2j",
       "Name": "\u0421inephile",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1274,7 +1279,7 @@
       "ID": "ach9",
       "SetID": "baneh2j",
       "Name": "A connoisseur of cartoons",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
       "UsersEstimate": 2
     }
@@ -1283,14 +1288,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 364,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:11:03.2269058+00:00",
+  "LastChanged_Achievements": "2024-06-26T14:06:08.0794521+00:00",
   "LastUpdate_AppInfo": "2024-06-20T02:57:10.7729217+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:35.9693506+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:03.2269312+00:00"
+  "LastUpdate_Ratings": "2024-06-26T13:58:26.3692057+00:00",
+  "LastUpdate_Achievements": "2024-06-26T14:06:08.0794802+00:00"
 }

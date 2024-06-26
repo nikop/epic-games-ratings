@@ -2,10 +2,10 @@
   "ID": "264f2f0e8bae4df79696899fb257a574",
   "Name": "FarWest Colony",
   "ProductSlug": "farwest-colony-aaa81c",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-01-27T12:04:13.485+00:00",
     "PcReleaseDate": "2024-01-27T12:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-29T04:58:12.4983791+00:00",
   "LastUpdate_AppInfo": "2024-06-21T03:57:25.6831417+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:38.3689365+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:47.0518885+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:46.2702972+00:00"
 }

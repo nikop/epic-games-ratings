@@ -4,8 +4,8 @@
   "ProductSlug": "hidden-shapes-lovely-cats-6bfb39",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-03-07T17:00:00+00:00",
     "PcReleaseDate": "2021-05-21T17:00:00+00:00",
@@ -404,6 +404,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:15.2339315+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:52.0885297+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:31.5890855+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:42.4363782+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:51.306879+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:52.0885888+00:00"
 }

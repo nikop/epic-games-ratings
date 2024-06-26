@@ -2,10 +2,10 @@
   "ID": "9fa6c3e5e2ce4038b77b36c90bf55f9e",
   "Name": "ExoGP",
   "ProductSlug": "exogp-af73bc",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-24T18:57:11.6431725+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:05:23.3913133+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:01:34.8485163+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:56.2606068+00:00"
 }

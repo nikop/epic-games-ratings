@@ -5,10 +5,10 @@
   "Ranking_Rating": 496,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 13,
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -23652,10 +23652,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 299492,
       "NumberOfAwardsMax": 70160
+    },
+    {
+      "Time": "2024-06-26T13:57:59.9974236+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 299502,
+      "NumberOfAwardsMax": 70160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 299492,
+  "NumberOfAwards": 299502,
   "NumberOfAwardsMax": 70160,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -23681,7 +23687,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22865
+      "Count": 22869
     },
     {
       "Text": "This game is Educational",
@@ -23711,7 +23717,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21670
+      "Count": 21673
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -23729,7 +23735,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21874
+      "Count": 21877
     }
   ],
   "EOS_Progressed": 0,
@@ -23743,8 +23749,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-06-26T11:58:18.8342923+00:00",
+  "LastChanged": "2024-06-26T13:57:59.9974235+00:00",
   "LastUpdate_AppInfo": "2024-06-23T22:57:12.5519116+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:18.8342931+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:57:59.997424+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:19.4284414+00:00"
 }

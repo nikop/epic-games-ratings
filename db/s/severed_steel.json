@@ -2,13 +2,13 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 280,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 486,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2021-09-17T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2022-12-28T18:57:32.9042651+00:00",
@@ -1845,18 +1845,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 857,
       "NumberOfAwardsMax": 637
+    },
+    {
+      "Time": "2024-06-26T13:59:55.555352+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 858,
+      "NumberOfAwardsMax": 638
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 857,
-  "NumberOfAwardsMax": 637,
+  "NumberOfAwards": 858,
+  "NumberOfAwardsMax": 638,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 637
+      "Count": 638
     },
     {
       "Text": "This game is Great for Beginners",
@@ -34932,9 +34938,9 @@
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2024-06-22T13:57:25.9103814+00:00",
+  "LastChanged": "2024-06-26T13:59:55.5553518+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:20.6603975+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:14.748415+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:35.5943066+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:59:55.5553523+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:20.6606013+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1154,
+  "Ranking_Rating": 1152,
   "Ranking_Popularity": 88,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4,
+  "Rating": 4.01,
   "NumberOfRatings": 12664,
   "RatingHistory": [
     {
@@ -10625,10 +10625,16 @@
       "Rating": 4,
       "NumberOfAwards": 28961,
       "NumberOfAwardsMax": 5230
+    },
+    {
+      "Time": "2024-06-26T14:01:24.7752622+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 28962,
+      "NumberOfAwardsMax": 5230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28961,
+  "NumberOfAwards": 28962,
   "NumberOfAwardsMax": 5230,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10678,7 +10684,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3920
+      "Count": 3921
     }
   ],
   "EOS_Progressed": 165697,
@@ -41633,9 +41639,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-06-25T23:58:16.3705181+00:00",
+  "LastChanged": "2024-06-26T14:01:24.775262+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:50.2416437+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:47.0632841+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:05:13.9896938+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:01:24.7752626+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:50.2418944+00:00"
 }

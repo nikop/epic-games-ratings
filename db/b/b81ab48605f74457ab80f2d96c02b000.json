@@ -2,10 +2,10 @@
   "ID": "b81ab48605f74457ab80f2d96c02b000",
   "Name": "Tales of Monkey Island - Chapter 4",
   "ProductSlug": "tales-of-monkey-island-chapter-4-97af89",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2009-07-07T11:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-20T17:57:23.5743622+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:49.1880576+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:58.5218316+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:19.4687541+00:00"
 }

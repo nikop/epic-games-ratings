@@ -2,10 +2,10 @@
   "ID": "ccd109fa7d104647a93aefd2180533d2",
   "Name": "Auto Legends",
   "ProductSlug": "auto-legends-36ce7e",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-24T21:57:02.2293405+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:24.4153905+00:00"
+  "LastUpdate_Ratings": "2024-06-26T13:58:08.8407125+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "revival-recolonization-8f1705",
   "Ranking_EOS_Progress": 997,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-04-11T14:00:00+00:00",
     "PcReleaseDate": "2024-04-11T14:00:00+00:00",
@@ -310,6 +310,6 @@
   "FirstSeenAchievements": "2024-03-21T17:12:05.7803874+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:53.8480579+00:00",
   "LastUpdate_AppInfo": "2024-06-20T22:57:24.0578139+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:51.3324724+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:01:00.5890159+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:53.848074+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "cb7b9392b46d47c2a279aa2d66cbdf04",
   "Name": "Decadent",
   "ProductSlug": "decadent-e21417",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-23T02:57:23.842511+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:33.1322177+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:58:21.9555242+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:19.9602274+00:00"
 }

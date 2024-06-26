@@ -2,10 +2,10 @@
   "ID": "61e4bb2351e2475b8d841507f8bfdd9b",
   "Name": "Concord",
   "ProductSlug": "concord",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-08-23T17:00:00+00:00",
     "PcReleaseDate": "2024-08-23T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:03.9855397+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:03.9855381+00:00",
   "LastUpdate_AppInfo": "2024-06-20T17:57:24.3720881+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:05:07.206255+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:01:17.511054+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:03.9855414+00:00"
 }

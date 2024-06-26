@@ -2,10 +2,10 @@
   "ID": "e2f07405a896421fa0348e7863f7b97b",
   "Name": "Farming Simulator 25",
   "ProductSlug": "farming-simulator-25-917e48",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-11-12T13:00:00+00:00",
     "PcReleaseDate": "2024-11-12T13:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-25T13:02:27.2069763+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:40.2417511+00:00"
+  "LastUpdate_Ratings": "2024-06-26T14:00:03.1586372+00:00"
 }

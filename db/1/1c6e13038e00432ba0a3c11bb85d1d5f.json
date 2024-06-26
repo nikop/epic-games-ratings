@@ -2,10 +2,10 @@
   "ID": "1c6e13038e00432ba0a3c11bb85d1d5f",
   "Name": "Voidwrought",
   "ProductSlug": "voidwrought-ce8f4b",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:42.4778688+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:42.4778659+00:00",
   "LastUpdate_AppInfo": "2024-06-21T16:57:06.6134749+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:45.0968132+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:58:40.5966587+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:42.4778705+00:00"
 }

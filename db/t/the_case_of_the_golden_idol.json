@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 286,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.87,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -1126,6 +1126,11 @@
       "Time": "2024-06-17T16:09:29.6531744+00:00",
       "NumProgressed": 284,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-06-26T14:05:14.4026907+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 17,
@@ -1137,7 +1142,7 @@
       "Name": "Solved first case",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "1",
@@ -1145,7 +1150,7 @@
       "Name": "Solved second case",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "10",
@@ -1161,7 +1166,7 @@
       "Name": "Solved third case",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "3",
@@ -1209,7 +1214,7 @@
       "Name": "Solved ninth case",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "9",
@@ -1225,7 +1230,7 @@
       "Name": "Solved The Spider of Lanka 1st Case",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "12",
@@ -1233,23 +1238,23 @@
       "Name": "Solved The Spider of Lanka 2nd Case",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "13",
       "SetID": "a3epimb",
       "Name": "Solved The Spider of Lanka 3rd Case",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "14",
       "SetID": "a3epimb",
       "Name": "Solved the Lemurian Vampire 1st Case",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "15",
@@ -1263,31 +1268,31 @@
       "ID": "16",
       "SetID": "a3epimb",
       "Name": "Solved the Lemurian Vampire 3rd Case",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 286,
       "Completed": 11
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 231,
-      "Completed": 110
+      "Progressed": 233,
+      "Completed": 111
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:09:29.6531742+00:00",
+  "LastChanged_Achievements": "2024-06-26T14:05:14.4026903+00:00",
   "LastUpdate_AppInfo": "2024-06-23T19:57:48.0309828+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:10.6861534+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:29.6531881+00:00"
+  "LastUpdate_Ratings": "2024-06-26T13:59:19.6077796+00:00",
+  "LastUpdate_Achievements": "2024-06-26T14:05:14.4027141+00:00"
 }

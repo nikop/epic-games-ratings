@@ -2,10 +2,10 @@
   "ID": "3c27bc096b424648b664cdc673f02ae3",
   "Name": "Rogue Glitch Ultra",
   "ProductSlug": "rogue-glitch-ultra-075b76",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-06-20T07:07:34.729+00:00",
     "PcReleaseDate": "2023-11-13T23:00:00+00:00",
@@ -33,5 +33,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-20T07:57:17.3096241+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:10.4964759+00:00"
+  "LastUpdate_Ratings": "2024-06-26T13:59:19.2486661+00:00"
 }

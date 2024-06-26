@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 631)  
+Progressed: 98 (Ranked 632)  
 Completed: 0 (0.00%) (Ranked 510)  
 ## EOS Players History
 | Date | Progressed | Completed |

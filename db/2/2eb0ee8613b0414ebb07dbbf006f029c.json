@@ -2,10 +2,10 @@
   "ID": "2eb0ee8613b0414ebb07dbbf006f029c",
   "Name": "Lost Lullabies",
   "ProductSlug": "lost-lullabies-02cba6",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-25T13:57:02.9667607+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:26.7362013+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:34.8591148+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:57.7799552+00:00"
 }

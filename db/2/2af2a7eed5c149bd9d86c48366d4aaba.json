@@ -2,10 +2,10 @@
   "ID": "2af2a7eed5c149bd9d86c48366d4aaba",
   "Name": "SpellBoundGame",
   "ProductSlug": "spellboundgame-610394",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-21T19:57:13.3585484+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:17.9981812+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:59:30.4655365+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:29.290018+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-five-sistersinlaw-526295",
   "Ranking_EOS_Progress": 957,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-05-24T00:00:00+00:00",
     "PcReleaseDate": "2024-05-24T00:00:00+00:00",
@@ -251,6 +251,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:43.0464569+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:43.0464517+00:00",
   "LastUpdate_AppInfo": "2024-06-25T17:57:09.9157914+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:51.0885465+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:19.0038821+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:43.0471212+00:00"
 }

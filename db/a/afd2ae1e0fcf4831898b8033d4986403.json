@@ -2,10 +2,10 @@
   "ID": "afd2ae1e0fcf4831898b8033d4986403",
   "Name": "Kiteboarding",
   "ProductSlug": "kiteboarding-867390",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-07-31T00:00:00+00:00",
     "PcReleaseDate": "2024-07-31T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-25T14:56:55.5518818+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:05:20.3410173+00:00"
+  "LastUpdate_Ratings": "2024-06-26T14:01:31.6687976+00:00"
 }

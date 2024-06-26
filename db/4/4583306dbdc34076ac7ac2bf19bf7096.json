@@ -2,10 +2,10 @@
   "ID": "4583306dbdc34076ac7ac2bf19bf7096",
   "Name": "Dragon Age\u2122: The Veilguard",
   "ProductSlug": "dragon-age-the-veilguard",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-25T11:57:06.3430725+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:57.2539118+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:58:58.2847279+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:04.5520382+00:00"
 }

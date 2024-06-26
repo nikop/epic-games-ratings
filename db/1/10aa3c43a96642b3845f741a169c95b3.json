@@ -2,10 +2,10 @@
   "ID": "10aa3c43a96642b3845f741a169c95b3",
   "Name": "EARTH DEFENSE FORCE \uFF16",
   "ProductSlug": "earth-defense-force-6-129839",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-07-25T07:00:00+00:00",
     "PcReleaseDate": "2024-07-25T07:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-24T15:57:21.455593+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:20.80658+00:00"
+  "LastUpdate_Ratings": "2024-06-26T13:58:03.3797236+00:00"
 }

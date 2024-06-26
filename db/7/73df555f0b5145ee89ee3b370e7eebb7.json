@@ -2,10 +2,10 @@
   "ID": "73df555f0b5145ee89ee3b370e7eebb7",
   "Name": "cant be touched: Algeria War",
   "ProductSlug": "cant-be-touch-7e87e8",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-22T02:57:02.6993025+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:05:17.0278886+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:01:28.1783573+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:22.3602009+00:00"
 }

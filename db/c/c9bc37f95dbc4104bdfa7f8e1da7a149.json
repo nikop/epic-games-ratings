@@ -2,10 +2,10 @@
   "ID": "c9bc37f95dbc4104bdfa7f8e1da7a149",
   "Name": "Metarush",
   "ProductSlug": "metarush-6c4e81",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-24T11:57:14.0545639+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:13.9609131+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:21.2105397+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.1497856+00:00"
 }

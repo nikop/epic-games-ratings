@@ -2,10 +2,10 @@
   "ID": "fea91f8cbd75425cb02c4b32d5f49afb",
   "Name": "RPG MAKER UNITE",
   "ProductSlug": "rpgunite-819421",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-02-29T06:00:00+00:00",
     "PcReleaseDate": "2023-05-08T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-29T06:57:58.8380402+00:00",
   "LastUpdate_AppInfo": "2024-06-24T14:57:01.5807854+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:40.8853264+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:40.7826166+00:00"
+  "LastUpdate_Ratings": "2024-06-26T14:00:49.6338248+00:00",
+  "LastUpdate_Achievements": "2024-06-26T14:08:46.8579112+00:00"
 }

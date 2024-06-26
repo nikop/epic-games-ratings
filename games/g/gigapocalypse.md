@@ -45,7 +45,7 @@
 | Boss Hunter | 15.00% | ~33 |
 | Hawkman | 11.00% | ~24 |
 | Annihilate | 10.00% | ~22 |
-| Fashion Victim | 8.00% | ~18 |
+| Fashion Victim | 9.00% | ~20 |
 | See You Later | 7.00% | ~15 |
 | Godlike Skin | 7.00% | ~15 |
 | Feast Time | 7.00% | ~15 |

@@ -2,13 +2,13 @@
   "ID": "a99f555b20ad4e49a077ae50ebbd1238",
   "Name": "Zeeverse",
   "ProductSlug": "zeeverse-92a34e",
-  "Ranking_Rating": 48,
+  "Ranking_Rating": 61,
   "Ranking_Popularity": 594,
   "Ranking_PopularitySum": 552,
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-12-18T14:30:00+00:00",
     "PcReleaseDate": "2023-12-21T22:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.83,
   "RatingHistory": [
     {
       "Time": "2024-02-09T15:57:23.2478125+00:00",
@@ -275,10 +275,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 82,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-06-26T13:59:39.9073939+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 83,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 82,
+  "NumberOfAwards": 83,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -298,7 +304,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -313,8 +319,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-18T18:59:41.818117+00:00",
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
-  "LastChanged": "2024-06-25T13:58:55.9593779+00:00",
+  "LastChanged": "2024-06-26T13:59:39.9073937+00:00",
   "LastUpdate_AppInfo": "2024-06-20T02:57:11.6755615+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:25.0260492+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:59:39.9073943+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:18.6363596+00:00"
 }

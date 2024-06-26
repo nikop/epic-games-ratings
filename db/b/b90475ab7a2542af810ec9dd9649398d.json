@@ -2,10 +2,10 @@
   "ID": "b90475ab7a2542af810ec9dd9649398d",
   "Name": "The Netcode Conflict",
   "ProductSlug": "the-netcode-conflict-f81ae2",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-19T21:57:16.8850249+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:20.0230246+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:59:33.5381266+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:20.6519579+00:00"
 }

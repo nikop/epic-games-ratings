@@ -2,10 +2,10 @@
   "ID": "e01fcd0a8d4d44ca8a7f90021d2ffd88",
   "Name": "Backrooms: Between Lost Dimension",
   "ProductSlug": "backrooms-between-lost-dimension-31b796",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-25T13:57:02.9245144+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:26.5685538+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:34.752578+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:49.7436096+00:00"
 }

@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 1.00% | ~20 |
 | Beast Mode | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,960 (Ranked 332)  
+Progressed: 1,960 (Ranked 333)  
 Completed: 2 (0.10%) (Ranked 396)  
 ## EOS Players History
 | Date | Progressed | Completed |

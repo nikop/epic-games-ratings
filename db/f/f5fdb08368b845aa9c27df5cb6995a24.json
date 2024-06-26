@@ -2,10 +2,10 @@
   "ID": "f5fdb08368b845aa9c27df5cb6995a24",
   "Name": "Workers \u0026 Resources: Soviet Republic",
   "ProductSlug": "workers-and-resources-soviet-republic-c33013",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-06-20T17:00:00+00:00",
     "PcReleaseDate": "2024-06-20T17:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-22T11:01:13.4344702+00:00",
   "LastUpdate_AppInfo": "2024-06-21T16:57:05.6311816+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:57:56.3836873+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:57:26.0426999+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:46.4976355+00:00"
 }

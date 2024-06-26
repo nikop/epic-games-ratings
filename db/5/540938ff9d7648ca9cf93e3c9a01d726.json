@@ -2,10 +2,10 @@
   "ID": "540938ff9d7648ca9cf93e3c9a01d726",
   "Name": "Mazemerizzz",
   "ProductSlug": "mazemerizzz-0ce0c3",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-03-01T06:00:00+00:00",
     "PcReleaseDate": "2024-03-01T06:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-21T03:57:25.5390508+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:26.042443+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:34.2113722+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:56.121955+00:00"
 }

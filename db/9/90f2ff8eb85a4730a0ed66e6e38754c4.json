@@ -2,10 +2,10 @@
   "ID": "90f2ff8eb85a4730a0ed66e6e38754c4",
   "Name": "KIRAVERSE",
   "ProductSlug": "the-kiraverse-c8c4fe",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-26T02:24:38.4612746+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:05:00.8354638+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:01:10.5945655+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:53.2880896+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "2714efb624174e479ae1d9d3e8d3184f",
   "Name": "Firelight Fantasy: Force Energy",
   "ProductSlug": "firelight-fantasy-force-energy-c5dce7",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-06-26T09:00:00+00:00",
     "PcReleaseDate": "2022-02-18T10:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-24T14:56:59.6434036+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:49.6966626+00:00"
+  "LastUpdate_Ratings": "2024-06-26T14:00:59.0558857+00:00"
 }

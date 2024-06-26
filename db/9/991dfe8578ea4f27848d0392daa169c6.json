@@ -2,10 +2,10 @@
   "ID": "991dfe8578ea4f27848d0392daa169c6",
   "Name": "Mirage: A Biplane Adventure",
   "ProductSlug": "mirage-a-biplane-adventure-912065",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-04-19T22:00:00+00:00",
     "PcReleaseDate": "2024-04-19T22:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-26T13:04:01.6356687+00:00",
-  "LastUpdate_Ratings": "2024-06-26T13:04:16.8078924+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:24.245068+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:29.8772055+00:00"
 }

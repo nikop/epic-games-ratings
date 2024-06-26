@@ -2,10 +2,10 @@
   "ID": "64d8cc2fb5cc4798a6db9796b7e73e3f",
   "Name": "Alien Paradise",
   "ProductSlug": "alien-paradise-6777c9",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-19T17:57:10.7967518+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:39.2979863+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:58:31.6816755+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:23.2269694+00:00"
 }

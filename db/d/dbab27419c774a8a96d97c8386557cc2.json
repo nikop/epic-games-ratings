@@ -2,10 +2,10 @@
   "ID": "dbab27419c774a8a96d97c8386557cc2",
   "Name": "Ironclads - Anglo Russian War 1866",
   "ProductSlug": "ironclads-anglo-russian-war-1866-0d16d5",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-05-25T04:00:00+00:00",
     "PcReleaseDate": "2011-06-21T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-21T07:57:27.1803372+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:57:59.3931678+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:57:30.2716235+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:54.79916+00:00"
 }

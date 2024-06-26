@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 2,
   "Ranking_EOS_Progress": 2,
   "Ranking_EOS_Completed": 486,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2015-07-07T15:00:00+00:00",
@@ -12578,10 +12578,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 5111137,
       "NumberOfAwardsMax": 867575
+    },
+    {
+      "Time": "2024-06-26T13:58:47.9369672+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5115043,
+      "NumberOfAwardsMax": 867575
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5111137,
+  "NumberOfAwards": 5115043,
   "NumberOfAwardsMax": 867575,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -12601,7 +12607,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 746844
+      "Count": 747802
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12619,13 +12625,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 623681
+      "Count": 624728
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 552056
+      "Count": 552850
     },
     {
       "Text": "This game has a Competitive Community",
@@ -12643,7 +12649,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 609715
+      "Count": 610822
     }
   ],
   "EOS_Progressed": 29902296,
@@ -46046,9 +46052,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-06-26T08:58:35.1892233+00:00",
+  "LastChanged": "2024-06-26T13:58:47.936967+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:34.8154769+00:00",
   "LastUpdate_AppInfo": "2024-06-23T19:57:43.4395033+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:49.8063267+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:58:47.9369677+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:34.8156831+00:00"
 }

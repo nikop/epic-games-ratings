@@ -2,10 +2,10 @@
   "ID": "525cf92ef772437e98805aeb6e234b2a",
   "Name": "Anno 117: Pax Romana",
   "ProductSlug": "anno-117-pax-romana",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-06-24T21:57:02.3737872+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:43.4802561+00:00",
+  "LastUpdate_Ratings": "2024-06-26T14:00:07.740733+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:21.6900606+00:00"
 }

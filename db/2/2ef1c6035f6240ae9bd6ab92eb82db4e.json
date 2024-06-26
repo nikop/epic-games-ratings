@@ -2,10 +2,10 @@
   "ID": "2ef1c6035f6240ae9bd6ab92eb82db4e",
   "Name": "Diabotical Rogue",
   "ProductSlug": "diabotical-rogue",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-06-04T19:00:00+00:00",
     "PcReleaseDate": "2024-06-04T19:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-04T22:57:20.883208+00:00",
   "LastUpdate_AppInfo": "2024-06-26T02:24:37.8306775+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:58:34.2764035+00:00",
+  "LastUpdate_Ratings": "2024-06-26T13:58:23.673153+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:35.2738813+00:00"
 }

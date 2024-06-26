@@ -2,10 +2,10 @@
   "ID": "331749a654a242e09975a6fbde1940cc",
   "Name": "Beyond Good \u0026 Evil 20th Anniversary Edition",
   "ProductSlug": "beyond-good-and-evil-anniversary-edition",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-06-25T04:00:00+00:00",
     "PcReleaseDate": "2024-06-25T04:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-25T10:58:30.2553041+00:00",
   "LastUpdate_AppInfo": "2024-06-25T04:57:04.8184942+00:00",
-  "LastUpdate_Ratings": "2024-06-26T11:59:40.1142861+00:00"
+  "LastUpdate_Ratings": "2024-06-26T14:00:02.9760821+00:00"
 }

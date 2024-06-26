@@ -2,10 +2,10 @@
   "ID": "e153609a322d42e18ee587bb862022fc",
   "Name": "Necrosmith 2",
   "ProductSlug": "necrosmith-2-a156cf",
-  "Ranking_EOS_Progress": 1087,
+  "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 1,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2024-04-23T07:04:10.566+00:00",
     "PcReleaseDate": "2024-04-22T05:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2024-04-27T01:40:26.0154508+00:00",
   "LastUpdate_AppInfo": "2024-06-26T06:57:15.5562834+00:00",
   "LastUpdate_Ratings": "2024-06-26T13:07:40.5602865+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:38.160602+00:00"
+  "LastUpdate_Achievements": "2024-06-26T14:07:03.2751814+00:00"
 }
