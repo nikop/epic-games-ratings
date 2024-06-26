@@ -33,6 +33,7 @@
 | [The End of the Sun](games/6/69569d1b9145402f8e557bd1baed7343.md) | 2024-06-30 | - |  | - | - |
 | [The Shadows Within: Nightmare's Games](games/4/42f7c7174a8a45d4a1189b3d0a267f43.md) | 2024-06-30 | - |  | - | - |
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
+| [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | - |  | - | - |
 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-04 | - |  | - | - |
 | [The Oregon Trail](games/1/1d6775ba73a54669817f482fb89f9dae.md) | 2024-07-04 | - |  | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
@@ -132,7 +133,7 @@
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-30 | - |  | - | - |
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | 2024-11-30 | - |  | - | - |
 | [Warehouse Bots](games/1/1425a316528c444ab263d66abd3e3176.md) | 2024-11-30 | - |  | - | - |
-| [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-12-02 | - |  | - | - |
+| [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-12-02 | 24 (1,000 XP) | 1 | - | - |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-12-31 | - |  | - | - |
 | [63 Days](games/8/843074ada4be43cd82187404f21ca7d1.md) | 2024-12-31 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-12-31 | - |  | - | - |
@@ -372,7 +373,6 @@
 | [Egging On](games/9/95a03fa57a43471e823f035c6ead4821.md) | 2099-01-01 | - |  | - | - |
 | [ElectriX](games/e/electrix.md) | 2099-01-01 | - |  | - | - |
 | [Elite Comet](games/4/4843acbd9ca647e3ad3eecae110daa80.md) | 2099-01-01 | - |  | - | - |
-| [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2099-01-01 | - |  | - | - |
 | [Entropic Decay](games/6/634b4057b29d483a9f3d6541b362f681.md) | 2099-01-01 | - |  | - | - |
 | [Escape from ever after](games/2/2ce0aeaba01a4c47b7c9dadb0eb7ad4e.md) | 2099-01-01 | - |  | - | - |
 | [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |

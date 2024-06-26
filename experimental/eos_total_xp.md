@@ -160,6 +160,7 @@
 | [Astro Duel 2](../games/a/astro_duel_2.md) | 30 | 1,000 |
 | [Astronite](../games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 25 | 1,000 |
 | [Asurya's Embers](../games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 5 | 1,000 |
+| [Asylum Nightmares](../games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 24 | 1,000 |
 | [Atari Mania](../games/a/atari_mania.md) | 18 | 1,000 |
 | [Atlas Fallen](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |
@@ -733,8 +734,8 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Pepper Grinder](../games/p/pepper_grinder.md) | 23 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |

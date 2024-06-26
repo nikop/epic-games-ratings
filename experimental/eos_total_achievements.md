@@ -416,8 +416,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [ROBOBEAT](../games/r/robobeat.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
@@ -707,6 +707,7 @@
 | [Troublemaker](../games/t/troublemaker.md) | 25 | 1,000 |
 | [Unspottable](../games/u/unspottable.md) | 25 | 1,000 |
 | [Winter Survival](../games/0/041ae72fbe004d19a36ee417318e7b94.md) | 25 | 1,000 |
+| [Asylum Nightmares](../games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 24 | 1,000 |
 | [Backbeat](../games/b/backbeat.md) | 24 | 1,000 |
 | [Backrooms: Realm of Shadows](../games/b/b5067143ff63434e9c902de3ffd197f6.md) | 24 | 1,000 |
 | [BloodRayne Betrayal Fresh Bites](../games/b/bloodrayne_betrayal_fresh_bites.md) | 24 | 1,000 |

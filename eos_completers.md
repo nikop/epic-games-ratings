@@ -127,9 +127,9 @@
 | 125 | [Anna's Quest](games/a/anna's_quest.md) | 4.17% |
 | 126 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 4.03% |
 | 127 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 3.89% |
-| 128 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.87% |
-| 129 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 3.85% |
-| 129 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 3.85% |
+| 128 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 3.85% |
+| 128 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 3.85% |
+| 128 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.85% |
 | 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 3.82% |
 | 132 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.77% |
 | 133 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 3.70% |
@@ -171,8 +171,8 @@
 | 169 | [A Way Out](games/4/4090664cbdc2403c8e3331989bc8c072.md) | 2.22% |
 | 170 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2.18% |
 | 171 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2.17% |
-| 172 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.13% |
-| 173 | [Mega City Force](games/m/mega_city_police.md) | 2.08% |
+| 172 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.08% |
+| 172 | [Mega City Force](games/m/mega_city_police.md) | 2.08% |
 | 174 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.02% |
 | 175 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 2.00% |
 | 176 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.97% |
@@ -337,8 +337,8 @@
 | 335 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 335 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.28% |
 | 335 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.28% |
-| 335 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 0.28% |
-| 339 | [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 0.27% |
+| 338 | [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 0.27% |
+| 338 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 0.27% |
 | 340 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 341 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 341 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 0.25% |
@@ -544,6 +544,7 @@
 | 510 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 0.00% |
 | 510 | [Astro Duel 2](games/a/astro_duel_2.md) | 0.00% |
 | 510 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 0.00% |
+| 510 | [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 0.00% |
 | 510 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 0.00% |
 | 510 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 0.00% |
 | 510 | [Baby Storm](games/c/ce637d3eeee844a8b902d93416b1e40e.md) | 0.00% |
@@ -858,8 +859,8 @@
 | 510 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 0.00% |
 | 510 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 510 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
-| 510 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
 | 510 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
+| 510 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
 | 510 | [PERISH](games/p/perish.md) | 0.00% |
 | 510 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 0.00% |
 | 510 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |
