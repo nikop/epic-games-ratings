@@ -17,7 +17,7 @@
 | [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-30 | - |  | - | - |
 | [FoxCode](games/8/80637b1991524bc1bbddadd39bde04a8.md) | 2024-04-30 | 7 (1,000 XP) | 7,269 | - | 0 |
-| [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-06-30 | - |  | - | - |
+| [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-09-30 | - |  | - | - |
 | [Myth & Mirage](games/5/5180c8d470c54875b18e52723630fdbb.md) | 2024-12-31 | - |  | - | - |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 36 | - | - |
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |
