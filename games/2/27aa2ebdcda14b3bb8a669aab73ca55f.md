@@ -3,12 +3,12 @@
 [View Rawdata](../../db/2/27aa2ebdcda14b3bb8a669aab73ca55f.json)  
 Rating: 4.37 (Ranked 882)  
 ## Awards
-Max (Character Customization): 5,775  (Ranked 87)  
-Sum: 16,186 (Ranked 84)  
+Max (Character Customization): 5,781  (Ranked 87)  
+Sum: 16,192 (Ranked 84)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 5,775 |
+| This game has Inclusive Character Customization | 5,781 |
 | This game is Great for Beginners | 2,070 |
 | This game has Diverse Characters | 1,779 |
 | This game is Highly Recommended | 1,303 |
@@ -362,4 +362,4 @@ Diff (max vs sum): 3
 | 2024-06-23 | 4.37 | 5,760 | 16,112 |
 | 2024-06-24 | 4.37 | 5,768 | 16,152 |
 | 2024-06-25 | 4.37 | 5,775 | 16,181 |
-| 2024-06-26 | 4.37 | 5,775 | 16,186 |
+| 2024-06-26 | 4.37 | 5,781 | 16,192 |

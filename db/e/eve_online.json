@@ -2,7 +2,7 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 1023,
+  "Ranking_Rating": 1036,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 1087,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "NumberOfRatings": 1408,
   "RatingHistory": [
     {
@@ -4392,6 +4392,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 2834,
       "NumberOfAwardsMax": 1270
+    },
+    {
+      "Time": "2024-06-26T07:57:22.7133784+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 2834,
+      "NumberOfAwardsMax": 1270
     }
   ],
   "ReviewsDisabled": false,
@@ -4477,8 +4483,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2024-06-25T07:58:12.6446997+00:00",
+  "LastChanged": "2024-06-26T07:57:22.7133782+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:24.6667505+00:00",
-  "LastUpdate_Ratings": "2024-06-26T05:58:46.1248489+00:00",
+  "LastUpdate_Ratings": "2024-06-26T07:57:22.7133788+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:38.4336714+00:00"
 }
