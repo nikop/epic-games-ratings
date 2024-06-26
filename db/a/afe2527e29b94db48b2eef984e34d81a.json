@@ -4,7 +4,7 @@
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
   "Ranking_Rating": 757,
   "Ranking_Popularity": 251,
-  "Ranking_PopularitySum": 314,
+  "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 449,
   "Ranking_EOS_NewPlayers": 18,
@@ -786,10 +786,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 889,
       "NumberOfAwardsMax": 480
+    },
+    {
+      "Time": "2024-06-26T18:58:01.6605509+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 892,
+      "NumberOfAwardsMax": 480
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 889,
+  "NumberOfAwards": 892,
   "NumberOfAwardsMax": 480,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -821,7 +827,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 38
+      "Count": 41
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1440,9 +1446,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-06-26T15:57:55.4412225+00:00",
+  "LastChanged": "2024-06-26T18:58:01.6605507+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:54.7600691+00:00",
   "LastUpdate_AppInfo": "2024-06-20T17:57:22.4578998+00:00",
-  "LastUpdate_Ratings": "2024-06-26T17:00:26.7843244+00:00",
+  "LastUpdate_Ratings": "2024-06-26T18:58:01.6605512+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:54.7612031+00:00"
 }
