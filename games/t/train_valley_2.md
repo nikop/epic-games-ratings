@@ -356,15 +356,15 @@ Completed: 35 (0.01%) (Ranked 486)
 | 2024-04-10 | 447,797 | 29 |
 | 2024-06-17 | 456,631 | 35 |
 ## Awards
-Max (Challenging Puzzles): 1,312  (Ranked 156)  
-Sum: 2,895 (Ranked 208)  
+Max (Challenging Puzzles): 1,314  (Ranked 156)  
+Sum: 2,899 (Ranked 208)  
 Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 1,312 |
+| This game features Challenging Puzzles | 1,314 |
 | This game is Great for Beginners | 367 |
 | This game has Playful Visuals | 180 |
-| This game is Highly Recommended | 165 |
+| This game is Highly Recommended | 167 |
 | This game is Extremely Fun | 145 |
 | This game has Quickly Understood Controls | 143 |
 | This game is Relaxing | 143 |
@@ -769,3 +769,4 @@ Diff (max vs sum): -52
 | 2024-06-24 | 4.48 | - | 1,308 | 2,887 |
 | 2024-06-25 | 4.48 | - | 1,308 | 2,888 |
 | 2024-06-26 | 4.48 | - | 1,312 | 2,895 |
+| 2024-06-27 | 4.48 | - | 1,314 | 2,899 |
