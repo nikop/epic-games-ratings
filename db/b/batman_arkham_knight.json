@@ -2,7 +2,7 @@
   "ID": "e5e30c728f1947759251eb5283ffa6e3",
   "Name": "Batman Arkham Knight",
   "ProductSlug": "batman-arkham-knight",
-  "Ranking_Rating": 75,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 1088,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 7386,
   "RatingHistory": [
     {
@@ -10379,6 +10379,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 12244,
       "NumberOfAwardsMax": 7432
+    },
+    {
+      "Time": "2024-06-27T17:58:41.6536462+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 12244,
+      "NumberOfAwardsMax": 7432
     }
   ],
   "ReviewsDisabled": false,
@@ -10464,8 +10470,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2024-06-27T09:57:59.0202947+00:00",
+  "LastChanged": "2024-06-27T17:58:41.653646+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:53.1794627+00:00",
-  "LastUpdate_Ratings": "2024-06-27T16:00:41.5402052+00:00",
+  "LastUpdate_Ratings": "2024-06-27T17:58:41.6536467+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:40.6276887+00:00"
 }

@@ -2786,10 +2786,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1009,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2024-06-27T17:58:18.70695+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1010,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1009,
+  "NumberOfAwards": 1010,
   "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2827,7 +2833,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 147
+      "Count": 148
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -2859,8 +2865,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2024-06-25T23:58:27.4898941+00:00",
+  "LastChanged": "2024-06-27T17:58:18.7069496+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:50.9970685+00:00",
-  "LastUpdate_Ratings": "2024-06-27T16:00:19.1787293+00:00",
+  "LastUpdate_Ratings": "2024-06-27T17:58:18.7069506+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:15.1357014+00:00"
 }
