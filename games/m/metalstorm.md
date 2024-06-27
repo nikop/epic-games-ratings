@@ -36,7 +36,7 @@ Completed: 0 (0.00%) (Ranked 510)
 | 2024-06-17 | 57,608 | 0 |
 ## Awards
 Max (Great for Quick Sessions): 125  (Ranked 398)  
-Sum: 648 (Ranked 360)  
+Sum: 649 (Ranked 360)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -48,8 +48,8 @@ Diff (max vs sum): 38
 | This game has Amazing Characters | 48 |
 | This game has Quickly Understood Controls | 47 |
 | This game is Relaxing | 41 |
+| This game has Amazing Storytelling | 37 |
 | This game has Competitive Players | 37 |
-| This game has Amazing Storytelling | 36 |
 | This game has Diverse Characters | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -232,3 +232,4 @@ Diff (max vs sum): 38
 | 2024-06-24 | 4.45 | 124 | 642 |
 | 2024-06-25 | 4.44 | 124 | 645 |
 | 2024-06-26 | 4.44 | 125 | 648 |
+| 2024-06-27 | 4.44 | 125 | 649 |
