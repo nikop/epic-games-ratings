@@ -1,11 +1,11 @@
 # Pathfinder: Kingmaker - Enhanced Plus Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-kingmaker)  
 [View Rawdata](../../db/p/pathfinder__kingmaker_-_enhanced_plus_edition.json)  
-Rating: 4.57 (Ranked 526)  
+Rating: 4.57 (Ranked 527)  
 Number of Ratings: 3,868  (23.09.2022)  
 ## Awards
 Max (Character Customization): 3,654  (Ranked 104)  
-Sum: 9,984 (Ranked 115)  
+Sum: 9,986 (Ranked 115)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): -11
 | This game has Amazing Characters | 471 |
 | This game is Highly Recommended | 471 |
 | This game is Extremely Fun | 462 |
-| This game has Amazing Storytelling | 446 |
-| This game has Quickly Understood Controls | 445 |
+| This game has Amazing Storytelling | 447 |
+| This game has Quickly Understood Controls | 446 |
 | This game has Challenging Combat | 438 |
 | This game is Relaxing | 400 |
 | This game has a Creative Community | 253 |
@@ -540,4 +540,4 @@ Diff (max vs sum): -11
 | 2024-06-24 | 4.57 | - | 3,653 | 9,980 |
 | 2024-06-25 | 4.57 | - | 3,653 | 9,981 |
 | 2024-06-26 | 4.57 | - | 3,653 | 9,983 |
-| 2024-06-27 | 4.57 | - | 3,654 | 9,984 |
+| 2024-06-27 | 4.57 | - | 3,654 | 9,986 |

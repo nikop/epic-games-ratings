@@ -4,7 +4,7 @@
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 340,
   "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 424,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -1556,10 +1556,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 343,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-06-27T16:00:47.163641+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 343,
+  "NumberOfAwards": 344,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1591,7 +1597,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1635,8 +1641,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2024-06-27T14:57:50.9581121+00:00",
+  "LastChanged": "2024-06-27T16:00:47.1636408+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:54.7160631+00:00",
-  "LastUpdate_Ratings": "2024-06-27T14:57:50.9581125+00:00",
+  "LastUpdate_Ratings": "2024-06-27T16:00:47.1636413+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:03.2269505+00:00"
 }
