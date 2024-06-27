@@ -4,7 +4,7 @@
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 155,
   "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 371,
+  "Ranking_PopularitySum": 370,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -1559,10 +1559,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 602,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-06-27T05:59:13.1835573+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 605,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 602,
+  "NumberOfAwards": 605,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1618,7 +1624,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 24
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -1632,8 +1638,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-06-27T04:57:21.9501358+00:00",
+  "LastChanged": "2024-06-27T05:59:13.1835571+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:35.919148+00:00",
-  "LastUpdate_Ratings": "2024-06-27T04:57:21.9501365+00:00",
+  "LastUpdate_Ratings": "2024-06-27T05:59:13.1835577+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:23.0811354+00:00"
 }
