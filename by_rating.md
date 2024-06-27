@@ -80,7 +80,7 @@
 | 74 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.82 | 0 | 660 |
 | 74 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,149 | 126 |
 | 74 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 62 | 494 |
-| 74 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 375 | 275 |
+| 74 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 376 | 275 |
 | 74 | [Sifu](games/s/sifu.md) | 4.82 | 7,998 | 65 |
 | 74 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 543 | 241 |
 | 74 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.82 | 0 | 660 |
@@ -393,7 +393,7 @@
 | 386 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 306 | 292 |
 | 386 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 572 |
 | 386 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.63 | 102 | 431 |
-| 386 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,159 | 125 |
+| 386 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,162 | 125 |
 | 386 | [HITMAN](games/h/hitman.md) | 4.63 | 236 | 323 |
 | 386 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.63 | 88 | 453 |
 | 386 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 344 |
@@ -428,7 +428,7 @@
 | 424 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 150 | 377 |
 | 424 | [Art of Rally](games/a/art_of_rally_1.md) | 4.61 | 102 | 431 |
 | 424 | [BLACKTAIL](games/b/blacktail.md) | 4.61 | 0 | 660 |
-| 424 | [Control](games/c/control.md) | 4.61 | 9,615 | 57 |
+| 424 | [Control](games/c/control.md) | 4.61 | 9,617 | 57 |
 | 424 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 249 | 317 |
 | 424 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 660 |
 | 424 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.61 | 0 | 660 |
@@ -478,7 +478,7 @@
 | 474 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.59 | 0 | 660 |
 | 474 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.59 | 0 | 660 |
 | 474 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.59 | 0 | 660 |
-| 474 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.59 | 435 | 261 |
+| 474 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.59 | 435 | 262 |
 | 474 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 0 | 660 |
 | 474 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.59 | 17,260 | 30 |
 | 474 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.59 | 0 | 660 |
@@ -843,7 +843,7 @@
 | 838 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 78 | 470 |
 | 838 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,105 | 174 |
 | 838 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 660 |
-| 838 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 434 | 262 |
+| 838 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 438 | 261 |
 | 838 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 660 |
 | 838 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.40 | 705 | 220 |
 | 838 | [King's Bounty: Warriors of the North](games/k/king's_bounty__warriors_of_the_north.md) | 4.40 | 0 | 660 |
@@ -1080,7 +1080,7 @@
 | 1,077 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 34 | 578 |
 | 1,077 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 660 |
 | 1,077 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.18 | 527 | 244 |
-| 1,077 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 230,656 | 6 |
+| 1,077 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 230,717 | 6 |
 | 1,077 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 444 |
 | 1,077 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 660 |
 | 1,077 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 660 |
