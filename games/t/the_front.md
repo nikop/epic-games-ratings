@@ -4,7 +4,7 @@
 Rating: 4.09 (Ranked 1,124)  
 ## Awards
 Max (Highly Recommended): 30  (Ranked 598)  
-Sum: 103 (Ranked 533)  
+Sum: 104 (Ranked 533)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 65
 | This game has Competitive Players | 28 |
 | This game is Relaxing | 25 |
 | This game has Amazing Storytelling | 24 |
-| This game has Quickly Understood Controls | 21 |
+| This game has Quickly Understood Controls | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -108,3 +108,4 @@ Diff (max vs sum): 65
 | 2024-06-12 | 4.09 | 29 | 100 |
 | 2024-06-13 | 4.09 | 29 | 101 |
 | 2024-06-21 | 4.09 | 30 | 103 |
+| 2024-06-27 | 4.09 | 30 | 104 |
