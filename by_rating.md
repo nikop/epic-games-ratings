@@ -21,8 +21,8 @@
 | 18 | [God of War](games/g/god_of_war.md) | 4.87 | 5,840 | 86 |
 | 18 | [Inscryption](games/i/inscryption.md) | 4.87 | 377 | 273 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,071 | 179 |
-| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 332,516 | 5 |
-| 18 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,255 | 26 |
+| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 332,818 | 5 |
+| 18 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,264 | 26 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 630 |
 | 18 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 748 | 213 |
 | 18 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 660 |
@@ -48,7 +48,7 @@
 | 36 | [The Legend of Heroes: Trails from Zero](games/t/the_legend_of_heroes__trails_from_zero.md) | 4.85 | 0 | 660 |
 | 47 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.84 | 22 | 642 |
 | 47 | [A Short Hike](games/a/a_short_hike.md) | 4.84 | 0 | 660 |
-| 47 | [Blasphemous](games/b/blasphemous.md) | 4.84 | 223 | 333 |
+| 47 | [Blasphemous](games/b/blasphemous.md) | 4.84 | 225 | 332 |
 | 47 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 48 | 532 |
 | 47 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.84 | 0 | 660 |
 | 47 | [Dead Cells](games/d/dead_cells.md) | 4.84 | 423 | 265 |
@@ -81,7 +81,7 @@
 | 74 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,149 | 126 |
 | 74 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 62 | 494 |
 | 74 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 375 | 275 |
-| 74 | [Sifu](games/s/sifu.md) | 4.82 | 7,994 | 65 |
+| 74 | [Sifu](games/s/sifu.md) | 4.82 | 7,998 | 65 |
 | 74 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 543 | 241 |
 | 74 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.82 | 0 | 660 |
 | 74 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 461 |
@@ -123,7 +123,7 @@
 | 120 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.78 | 0 | 660 |
 | 120 | [Coffee Talk](games/c/coffee_talk.md) | 4.78 | 0 | 660 |
 | 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.78 | 0 | 660 |
-| 120 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,211 | 49 |
+| 120 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,225 | 49 |
 | 120 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.78 | 0 | 660 |
 | 120 | [Quake](games/q/quake.md) | 4.78 | 53 | 521 |
 | 120 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.78 | 44 | 540 |
@@ -179,7 +179,7 @@
 | 171 | [Outlast](games/o/outlast.md) | 4.74 | 34 | 578 |
 | 171 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,137 | 171 |
 | 171 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 660 |
-| 171 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 56,254 | 14 |
+| 171 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 56,296 | 14 |
 | 171 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.74 | 0 | 660 |
 | 171 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 428 |
 | 171 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 115 | 410 |
@@ -271,7 +271,7 @@
 | 258 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,109 | 128 |
 | 258 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 705 | 220 |
 | 258 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 343 | 283 |
-| 258 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,360 | 44 |
+| 258 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,363 | 44 |
 | 258 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 638 | 227 |
 | 258 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 660 |
 | 258 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.69 | 0 | 660 |
@@ -470,7 +470,7 @@
 | 456 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 0 | 660 |
 | 456 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 89 | 451 |
 | 456 | [The Invincible](games/t/the_invincible.md) | 4.60 | 0 | 660 |
-| 456 | [Torchlight II](games/t/torchlight_ii.md) | 4.60 | 1,154 | 168 |
+| 456 | [Torchlight II](games/t/torchlight_ii.md) | 4.60 | 1,154 | 169 |
 | 456 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 29 | 602 |
 | 456 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 90 | 449 |
 | 474 | [Aimlabs](games/a/aimlabs.md) | 4.59 | 158 | 373 |
@@ -692,7 +692,7 @@
 | 680 | [Need for Speed™ Most Wanted](games/8/864f3eeec6284483b630cc58021a04a7.md) | 4.49 | 0 | 660 |
 | 680 | [Observation](games/o/observation.md) | 4.49 | 0 | 660 |
 | 680 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 660 |
-| 680 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,154 | 168 |
+| 680 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,157 | 168 |
 | 680 | [Solitairica](games/s/solitairica.md) | 4.49 | 108 | 421 |
 | 680 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 15,944 | 31 |
 | 696 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 67 | 485 |
