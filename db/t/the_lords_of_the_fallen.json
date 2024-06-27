@@ -3,7 +3,7 @@
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 1045,
-  "Ranking_Popularity": 187,
+  "Ranking_Popularity": 188,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 439,
@@ -4763,10 +4763,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 2729,
       "NumberOfAwardsMax": 994
+    },
+    {
+      "Time": "2024-06-27T22:57:55.0623811+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 2730,
+      "NumberOfAwardsMax": 994
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2729,
+  "NumberOfAwards": 2730,
   "NumberOfAwardsMax": 994,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4804,7 +4810,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 147
+      "Count": 148
     },
     {
       "Text": "This game has Competitive Players",
@@ -14173,9 +14179,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2024-06-26T20:58:26.1756139+00:00",
+  "LastChanged": "2024-06-27T22:57:55.0623809+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:50.5507374+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:58.1237187+00:00",
-  "LastUpdate_Ratings": "2024-06-27T20:58:59.9249576+00:00",
+  "LastUpdate_Ratings": "2024-06-27T22:57:55.0623815+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:50.5508487+00:00"
 }

@@ -1,4 +1,4 @@
-# Model Builder
+# Model Builder: Complete Edition
 [Store](https://store.epicgames.com/en-US/p/model-builder-f9b456)  
 [View Rawdata](../../db/m/model_builder.json)  
 Rating: 4.16 (Ranked 1,091)  
