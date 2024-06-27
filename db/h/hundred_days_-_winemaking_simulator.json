@@ -4,7 +4,7 @@
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 907,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 265,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 439,
   "Ranking_EOS_NewPlayers": 18,
@@ -1181,10 +1181,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1632,
       "NumberOfAwardsMax": 210
+    },
+    {
+      "Time": "2024-06-27T13:04:25.2698851+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1633,
+      "NumberOfAwardsMax": 210
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1632,
+  "NumberOfAwards": 1633,
   "NumberOfAwardsMax": 210,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1210,7 +1216,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19220,9 +19226,9 @@
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2024-05-26T22:00:24.0131372+00:00",
+  "LastChanged": "2024-06-27T13:04:25.269885+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:58.3138298+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:58:20.9669112+00:00",
-  "LastUpdate_Ratings": "2024-06-27T11:00:54.8900314+00:00",
+  "LastUpdate_Ratings": "2024-06-27T13:04:25.2698854+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:58.3139509+00:00"
 }
