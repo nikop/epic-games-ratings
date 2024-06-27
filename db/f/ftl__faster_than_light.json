@@ -4,7 +4,7 @@
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 106,
   "Ranking_Popularity": 354,
-  "Ranking_PopularitySum": 272,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -2734,10 +2734,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1491,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2024-06-26T23:57:33.8425952+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1492,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1491,
+  "NumberOfAwards": 1492,
   "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2787,7 +2793,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 122
+      "Count": 123
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2819,8 +2825,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-06-26T21:59:23.168554+00:00",
+  "LastChanged": "2024-06-26T23:57:33.842595+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:25.5878689+00:00",
-  "LastUpdate_Ratings": "2024-06-26T21:59:23.1685545+00:00",
+  "LastUpdate_Ratings": "2024-06-26T23:57:33.8425957+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:20.2317605+00:00"
 }
