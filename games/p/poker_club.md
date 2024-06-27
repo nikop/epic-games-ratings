@@ -339,13 +339,13 @@ Completed: 3 (0.00%) (Ranked 510)
 | 2024-05-13 | 571,456 | 3 |
 | 2024-06-17 | 576,005 | 3 |
 ## Awards
-Max (Highly Recommended): 58  (Ranked 507)  
-Sum: 210 (Ranked 476)  
+Max (Highly Recommended): 59  (Ranked 507)  
+Sum: 211 (Ranked 476)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 72 |
-| This game is Highly Recommended | 58 |
+| This game is Highly Recommended | 59 |
 | This game has Competitive Players | 52 |
 | This game has Quickly Understood Controls | 51 |
 | This game has a Competitive Community | 49 |
@@ -545,3 +545,4 @@ Diff (max vs sum): 31
 | 2024-06-20 | 3.85 | 57 | 208 |
 | 2024-06-21 | 3.85 | 58 | 209 |
 | 2024-06-23 | 3.85 | 58 | 210 |
+| 2024-06-27 | 3.85 | 59 | 211 |

@@ -4,7 +4,7 @@
   "ProductSlug": "rain-world-4c860c",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 636,
-  "Ranking_PopularitySum": 598,
+  "Ranking_PopularitySum": 596,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -191,10 +191,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-06-27T02:26:17.6921673+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
+  "NumberOfAwards": 44,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -208,7 +214,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -223,8 +229,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
-  "LastChanged": "2024-06-20T13:04:25.9261629+00:00",
+  "LastChanged": "2024-06-27T02:26:17.6921671+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:54.3074577+00:00",
-  "LastUpdate_Ratings": "2024-06-26T23:59:07.3403909+00:00",
+  "LastUpdate_Ratings": "2024-06-27T02:26:17.6921678+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:19.6123939+00:00"
 }

@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 524)  
+Rating: 4.58 (Ranked 497)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -544,3 +544,4 @@ Diff (max vs sum): 128
 | 2024-06-18 | 4.57 | - | 51 | 440 |
 | 2024-06-21 | 4.57 | - | 52 | 441 |
 | 2024-06-26 | 4.57 | - | 52 | 442 |
+| 2024-06-27 | 4.58 | - | 52 | 442 |
