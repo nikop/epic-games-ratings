@@ -1,12 +1,12 @@
 # DOOM II
 [Store](https://store.epicgames.com/en-US/p/doom-ii)  
 [View Rawdata](../../db/d/doom_ii.json)  
-Rating: 4.65 (Ranked 340)  
+Rating: 4.65 (Ranked 341)  
 Number of Ratings: 48  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 31  (Ranked 594)  
-Sum: 31 (Ranked 623)  
-Diff (max vs sum): -29  
+Sum: 31 (Ranked 624)  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 31 |

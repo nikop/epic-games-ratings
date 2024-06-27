@@ -20497,10 +20497,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 47016,
       "NumberOfAwardsMax": 18321
+    },
+    {
+      "Time": "2024-06-27T07:58:38.1418916+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 47017,
+      "NumberOfAwardsMax": 18321
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47016,
+  "NumberOfAwards": 47017,
   "NumberOfAwardsMax": 18321,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -20550,7 +20556,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1936
+      "Count": 1937
     },
     {
       "Text": "This game is Extremely Fun",
@@ -20588,8 +20594,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2024-06-27T04:58:09.1209723+00:00",
+  "LastChanged": "2024-06-27T07:58:38.1418914+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:51.1984712+00:00",
-  "LastUpdate_Ratings": "2024-06-27T05:59:53.9416815+00:00",
+  "LastUpdate_Ratings": "2024-06-27T07:58:38.1418926+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:32.7761218+00:00"
 }
