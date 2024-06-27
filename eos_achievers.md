@@ -1041,7 +1041,7 @@
 | 997 | [McPixel 3](games/m/mcpixel_3.md) | 1 | 1 |
 | 997 | [Metro Simulator 2](games/7/7ef79b257fe8475aa5c7a9d6c4d96f9b.md) | 1 | 0 |
 | 997 | [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 1 | 0 |
-| 997 | [Model Builder](games/m/model_builder.md) | 1 | 0 |
+| 997 | [Model Builder: Complete Edition](games/m/model_builder.md) | 1 | 0 |
 | 997 | [My Demon Wife](games/m/my_demon_wife.md) | 1 | 0 |
 | 997 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 1 | 0 |
 | 997 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 1 | 0 |

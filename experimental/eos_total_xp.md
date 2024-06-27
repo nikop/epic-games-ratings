@@ -651,7 +651,7 @@
 | [Mini Royale](../games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 31 | 1,000 |
 | [Miniland Adventure](../games/8/8900287f0941428abcdd1b92af29abce.md) | 52 | 1,000 |
 | [Miwa: The Sacred Fox](../games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 42 | 1,000 |
-| [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
+| [Model Builder: Complete Edition](../games/m/model_builder.md) | 70 | 1,000 |
 | [Mokoko X](../games/c/cace077f51674e66b937ba8d5646fff7.md) | 73 | 1,000 |
 | [Monmusu Gladiator](../games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 21 | 1,000 |
 | [Monster Coming](../games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 25 | 1,000 |

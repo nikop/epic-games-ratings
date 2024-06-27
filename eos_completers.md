@@ -816,7 +816,7 @@
 | 510 | [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 0.00% |
 | 510 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 0.00% |
 | 510 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 0.00% |
-| 510 | [Model Builder](games/m/model_builder.md) | 0.00% |
+| 510 | [Model Builder: Complete Edition](games/m/model_builder.md) | 0.00% |
 | 510 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 0.00% |
 | 510 | [Monorail Stories](games/m/monorail_stories.md) | 0.00% |
 | 510 | [Monster Outbreak](games/m/monster_outbreak.md) | 0.00% |

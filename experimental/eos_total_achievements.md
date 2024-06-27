@@ -85,7 +85,7 @@
 | [Beach Invasion 1945 - Pacific](../games/1/10290198c6dc48d5aa24d45bca39215a.md) | 70 | 1,000 |
 | [Curse of the Deadwood](../games/c/curse_of_the_deadwood.md) | 70 | 1,000 |
 | [Expeditions: Rome](../games/e/expeditions__rome.md) | 70 | 1,000 |
-| [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
+| [Model Builder: Complete Edition](../games/m/model_builder.md) | 70 | 1,000 |
 | [SpellForce: Conquest of Eo](../games/s/spellforce__conquest_of_eo.md) | 70 | 1,000 |
 | [Barotrauma](../games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 69 | 1,000 |
 | [Burst Hero](../games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 69 | 1,000 |
