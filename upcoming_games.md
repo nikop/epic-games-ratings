@@ -59,6 +59,7 @@
 | [Kiteboarding](games/a/afd2ae1e0fcf4831898b8033d4986403.md) | 2024-07-31 | - |  | - | - |
 | [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-07-31 | 100 (1,000 XP) | 0 | - | - |
 | [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-31 | - |  | - | - |
+| [Townopolis](games/3/3220b39e314b4d10ad1dbb2a3491b051.md) | 2024-07-31 | - |  | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2024-08-01 | - |  | - | - |
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
 | [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | - | - |
@@ -680,6 +681,7 @@
 | [Wallace and Gromit's Grand Adventures - Episode 3](games/b/bba45a8ace4a4bc08ab80e7374a7d35f.md) | 2099-01-01 | - |  | - | - |
 | [Wallace and Gromit's Grand Adventures - Episode 4](games/7/7e5d287ca4da433bb4ede4453ce1410f.md) | 2099-01-01 | - |  | - | - |
 | [War Thugz - Satoshi City](games/3/3015d993989f40269abf39559053efcd.md) | 2099-01-01 | - |  | - | - |
+| [Wardens Rising](games/f/f2422893417c484db645feb0d8fc9ecb.md) | 2099-01-01 | - |  | - | - |
 | [Warhammer 40,000: Mechanicus II](games/2/2661f476c01a4807aacb5c275ece4876.md) | 2099-01-01 | - |  | - | - |
 | [Warpaws](games/w/warpaws.md) | 2099-01-01 | - |  | - | - |
 | [Warped Universe](games/8/80ba3ee229734e4ab46601547075e24e.md) | 2099-01-01 | - |  | - | - |
