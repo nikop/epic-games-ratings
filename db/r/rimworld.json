@@ -3,7 +3,7 @@
   "Name": "RimWorld",
   "ProductSlug": "rimworld",
   "Ranking_Rating": 16,
-  "Ranking_Popularity": 237,
+  "Ranking_Popularity": 236,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
@@ -5165,11 +5165,17 @@
       "Rating": 4.88,
       "NumberOfAwards": 4551,
       "NumberOfAwardsMax": 567
+    },
+    {
+      "Time": "2024-06-27T08:57:56.2697634+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 4554,
+      "NumberOfAwardsMax": 569
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4551,
-  "NumberOfAwardsMax": 567,
+  "NumberOfAwards": 4554,
+  "NumberOfAwardsMax": 569,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5188,13 +5194,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 567
+      "Count": 569
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 427
+      "Count": 428
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5250,8 +5256,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2024-06-26T16:57:58.3801133+00:00",
+  "LastChanged": "2024-06-27T08:57:56.2697632+00:00",
   "LastUpdate_AppInfo": "2024-06-23T19:57:31.0265887+00:00",
-  "LastUpdate_Ratings": "2024-06-27T06:58:57.0644461+00:00",
+  "LastUpdate_Ratings": "2024-06-27T08:57:56.2697641+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:40.1447281+00:00"
 }
