@@ -3,7 +3,7 @@
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 969,
-  "Ranking_Popularity": 626,
+  "Ranking_Popularity": 621,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 510,
@@ -769,11 +769,17 @@
       "Rating": 4.29,
       "NumberOfAwards": 155,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-06-27T04:59:53.0406363+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 156,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 155,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 156,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -804,7 +810,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Educational",
@@ -2946,9 +2952,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-06-24T16:58:39.7039169+00:00",
+  "LastChanged": "2024-06-27T04:59:53.0406362+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:16.6499211+00:00",
   "LastUpdate_AppInfo": "2024-06-26T13:04:06.6327984+00:00",
-  "LastUpdate_Ratings": "2024-06-27T03:57:40.0419939+00:00",
+  "LastUpdate_Ratings": "2024-06-27T04:59:53.040637+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:16.6499457+00:00"
 }
