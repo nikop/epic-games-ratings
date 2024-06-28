@@ -2,7 +2,7 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 946,
+  "Ranking_Rating": 952,
   "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 157,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-09-24T07:59:49.2549091+00:00",
@@ -4017,6 +4017,12 @@
     {
       "Time": "2024-06-26T15:58:58.0003695+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 1250,
+      "NumberOfAwardsMax": 373
+    },
+    {
+      "Time": "2024-06-27T23:58:49.1011174+00:00",
+      "Rating": 4.31,
       "NumberOfAwards": 1250,
       "NumberOfAwardsMax": 373
     }
@@ -17982,9 +17988,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-06-26T15:58:58.0003693+00:00",
+  "LastChanged": "2024-06-27T23:58:49.1011173+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:26.4226596+00:00",
   "LastUpdate_AppInfo": "2024-06-26T06:57:18.1359184+00:00",
-  "LastUpdate_Ratings": "2024-06-27T21:59:55.2127585+00:00",
+  "LastUpdate_Ratings": "2024-06-27T23:58:49.1011178+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:26.4227945+00:00"
 }
