@@ -2,7 +2,7 @@
   "ID": "441b1561f48746059211ab905f4abc93",
   "Name": "Fishing Planet",
   "ProductSlug": "fishing-planet-87df68",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 525,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 124,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2024-02-06T16:00:39.8962707+00:00",
@@ -725,6 +725,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 172,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-06-28T17:57:17.2241125+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 172,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
@@ -979,9 +985,9 @@
   "FirstSeen": "2024-01-30T20:57:10.5239583+00:00",
   "FirstSeenRating": "2024-02-06T16:00:39.8962705+00:00",
   "FirstSeenAchievements": "2024-01-11T10:03:10.8867409+00:00",
-  "LastChanged": "2024-06-28T07:58:21.0669707+00:00",
+  "LastChanged": "2024-06-28T17:57:17.2241123+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:00.4223761+00:00",
   "LastUpdate_AppInfo": "2024-06-27T22:57:10.1588943+00:00",
-  "LastUpdate_Ratings": "2024-06-28T15:58:50.3142128+00:00",
+  "LastUpdate_Ratings": "2024-06-28T17:57:17.2241127+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:00.4223899+00:00"
 }
