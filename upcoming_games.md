@@ -43,7 +43,6 @@
 | [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-07-25 | - |  | - | - |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 2 | - | - |
-| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-07-25 | - |  | - | - |
 | [Trapaze](games/1/1000868feb26473f82cd34c1d5e1cb06.md) | 2024-07-25 | - |  | - | - |
 | [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-07-31 | 35 (1,000 XP) | 0 | - | - |
 | [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-07-31 | - |  | - | - |
@@ -91,6 +90,7 @@
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/s/s.t.a.l.k.e.r._2__heart_of_chornobyl.md) | 2024-09-05 | - |  | - | - |
 | [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | - |  | - | - |
 | [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | - | - |
+| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | - | - |
 | [Blood on the Thames](games/1/1ff50356d2a34fb5b1448d14c53b8f10.md) | 2024-09-30 | - |  | - | - |
 | [City of Graves](games/8/822ebd51d45941ab945ccd4b124938c2.md) | 2024-09-30 | - |  | - | - |
 | [Daahrien's Active and Operational](games/a/active_and_operational.md) | 2024-09-30 | - |  | - | - |

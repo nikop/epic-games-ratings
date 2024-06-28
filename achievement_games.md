@@ -1078,7 +1078,7 @@
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 6,746 | 4.50 | 57 |
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 248 | - | 0 |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 85,517 | 4.64 | 24 |
-| [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 24,584 | 4.69 | 358 |
+| [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 24,584 | 4.69 | 359 |
 | [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 181,547 | 4.60 | 90 |
 | [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 156,564 | 4.39 | 343 |
 | [Verdun](games/v/verdun.md) | 2021-07-22 | 59 (1,000 XP) | 79,337 | 4.53 | 118 |
