@@ -2,7 +2,7 @@
   "ID": "cumin",
   "Name": "Far Cry New Dawn Standard Edition",
   "ProductSlug": "far-cry-new-dawn",
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 759,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 1088,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 338,
   "RatingHistory": [
     {
@@ -1624,10 +1624,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 497,
       "NumberOfAwardsMax": 353
+    },
+    {
+      "Time": "2024-06-28T16:58:47.0916408+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 498,
+      "NumberOfAwardsMax": 353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 497,
+  "NumberOfAwards": 498,
   "NumberOfAwardsMax": 353,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1659,7 +1665,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Relaxing",
@@ -1685,8 +1691,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
-  "LastChanged": "2024-06-28T13:58:08.5303612+00:00",
+  "LastChanged": "2024-06-28T16:58:47.0916406+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:27.7566005+00:00",
-  "LastUpdate_Ratings": "2024-06-28T15:01:31.4432578+00:00",
+  "LastUpdate_Ratings": "2024-06-28T16:58:47.0916412+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:44.5459345+00:00"
 }
