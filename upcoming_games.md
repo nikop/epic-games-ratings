@@ -439,6 +439,7 @@
 | [Hyper Drill](games/1/1e40029294a44b7591ee6a14d9bed25a.md) | 2099-01-01 | - |  | - | - |
 | [iCode STEM Universe](games/9/9e13650094b74cb68ed5ccac5439ee26.md) | 2099-01-01 | - |  | - | - |
 | [Idle Calibur(选王之剑)](games/i/idle_calibur(选王之剑).md) | 2099-01-01 | - |  | - | - |
+| [Idle Trillionaire](games/8/8b5be370173547eea257cc8696c7491e.md) | 2099-01-01 | - |  | - | - |
 | [IncrediMarble](games/i/incredimarble.md) | 2099-01-01 | - |  | - | - |
 | [INDIKA](games/d/d28938c1044945239079d371d545e5c7.md) | 2099-01-01 | - |  | - | - |
 | [INDUSTRIA 2](games/b/b923c7c232814d448af46a02f1e1107b.md) | 2099-01-01 | - |  | - | - |
