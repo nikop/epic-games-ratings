@@ -3,7 +3,7 @@
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 1002,
-  "Ranking_Popularity": 556,
+  "Ranking_Popularity": 554,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 510,
@@ -511,11 +511,17 @@
       "Rating": 4.26,
       "NumberOfAwards": 107,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-06-28T09:58:44.2652159+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 107,
-  "NumberOfAwardsMax": 39,
+  "NumberOfAwards": 108,
+  "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -528,7 +534,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Relaxing",
@@ -33361,9 +33367,9 @@
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
-  "LastChanged": "2024-06-23T20:58:07.5882261+00:00",
+  "LastChanged": "2024-06-28T09:58:44.2652158+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:54.4221463+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:37.933492+00:00",
-  "LastUpdate_Ratings": "2024-06-28T08:00:16.3343179+00:00",
+  "LastUpdate_Ratings": "2024-06-28T09:58:44.2652165+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:54.4223064+00:00"
 }
