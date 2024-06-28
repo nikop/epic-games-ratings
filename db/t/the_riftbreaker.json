@@ -3,7 +3,7 @@
   "Name": "The Riftbreaker",
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 155,
-  "Ranking_Popularity": 331,
+  "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
@@ -1571,11 +1571,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 606,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-06-28T10:57:23.7850897+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 608,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 606,
-  "NumberOfAwardsMax": 231,
+  "NumberOfAwards": 608,
+  "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
@@ -1624,7 +1630,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 231
+      "Count": 233
     },
     {
       "Text": "This game has a Creative Community",
@@ -1644,8 +1650,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-06-28T05:57:37.8538015+00:00",
+  "LastChanged": "2024-06-28T10:57:23.7850895+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:35.919148+00:00",
-  "LastUpdate_Ratings": "2024-06-28T08:59:04.9702939+00:00",
+  "LastUpdate_Ratings": "2024-06-28T10:57:23.78509+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:23.0811354+00:00"
 }
