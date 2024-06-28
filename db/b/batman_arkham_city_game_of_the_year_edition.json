@@ -4,7 +4,7 @@
   "ProductSlug": "batman-arkham-city",
   "Ranking_Rating": 97,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -3463,6 +3463,6 @@
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
   "LastChanged": "2024-06-25T07:58:22.0748+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:27.5628842+00:00",
-  "LastUpdate_Ratings": "2024-06-28T18:00:06.7666117+00:00",
+  "LastUpdate_Ratings": "2024-06-28T19:58:44.5868869+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:50.7753322+00:00"
 }
