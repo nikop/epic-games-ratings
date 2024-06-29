@@ -1,11 +1,11 @@
 # Stranded Deep
 [Store](https://store.epicgames.com/en-US/p/stranded-deep)  
 [View Rawdata](../../db/s/stranded_deep.json)  
-Rating: 4.22 (Ranked 1,045)  
+Rating: 4.22 (Ranked 1,046)  
 Number of Ratings: 3,300  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 268  (Ranked 311)  
-Sum: 1,352 (Ranked 279)  
+Sum: 1,353 (Ranked 279)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 32
 | This game is Great for Beginners | 244 |
 | This game is Relaxing | 240 |
 | This game is Extremely Fun | 239 |
-| This game has Amazing Storytelling | 237 |
+| This game has Amazing Storytelling | 238 |
 | This game has a Creative Community | 124 |
 | This game has Obsessive Gameplay | 115 |
 | This game is Educational | 60 |
@@ -345,3 +345,4 @@ Diff (max vs sum): 32
 | 2024-06-26 | 4.22 | - | 267 | 1,349 |
 | 2024-06-27 | 4.22 | - | 268 | 1,351 |
 | 2024-06-28 | 4.22 | - | 268 | 1,352 |
+| 2024-06-29 | 4.22 | - | 268 | 1,353 |

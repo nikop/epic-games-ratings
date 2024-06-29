@@ -2,7 +2,7 @@
   "ID": "be69d05166bd49f3b649f6103c2324d0",
   "Name": "Realpolitiks II",
   "ProductSlug": "realpolitiks-2",
-  "Ranking_Rating": 1055,
+  "Ranking_Rating": 1026,
   "Ranking_Popularity": 662,
   "Ranking_PopularitySum": 662,
   "Ranking_EOS_Progress": 1088,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2022-12-01T03:29:27.0060801+00:00",
@@ -49,6 +49,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-29T11:00:03.4481752+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -67,8 +73,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:15.0752581+00:00",
   "FirstSeenRating": "2022-12-01T03:29:27.0060799+00:00",
-  "LastChanged": "2024-06-22T07:59:32.2792863+00:00",
+  "LastChanged": "2024-06-29T11:00:03.448175+00:00",
   "LastUpdate_AppInfo": "2024-06-23T21:57:10.8311104+00:00",
-  "LastUpdate_Ratings": "2024-06-29T09:57:56.7593023+00:00",
+  "LastUpdate_Ratings": "2024-06-29T11:00:03.4481754+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:04.8157043+00:00"
 }
