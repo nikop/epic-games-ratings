@@ -4,7 +4,7 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 710,
   "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 440,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 18,
@@ -846,10 +846,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 301,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-06-29T16:57:18.4588314+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 301,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -863,7 +869,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Great for Beginners",
@@ -13995,9 +14001,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2024-06-27T11:59:03.2351128+00:00",
+  "LastChanged": "2024-06-29T16:57:18.4588312+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:28.5356683+00:00",
   "LastUpdate_AppInfo": "2024-06-23T22:57:14.1824885+00:00",
-  "LastUpdate_Ratings": "2024-06-29T14:58:25.2053994+00:00",
+  "LastUpdate_Ratings": "2024-06-29T16:57:18.4588317+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:28.535755+00:00"
 }

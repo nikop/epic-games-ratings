@@ -3,7 +3,7 @@
   "Name": "Risk of Rain 2",
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 76,
-  "Ranking_Popularity": 275,
+  "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
@@ -5211,18 +5211,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 3183,
       "NumberOfAwardsMax": 376
+    },
+    {
+      "Time": "2024-06-29T16:57:02.9282178+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3185,
+      "NumberOfAwardsMax": 378
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3183,
-  "NumberOfAwardsMax": 376,
+  "NumberOfAwards": 3185,
+  "NumberOfAwardsMax": 378,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 376
+      "Count": 378
     },
     {
       "Text": "This game is Relaxing",
@@ -5302,8 +5308,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2024-06-29T13:03:11.9301416+00:00",
+  "LastChanged": "2024-06-29T16:57:02.9282176+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:22.7010972+00:00",
-  "LastUpdate_Ratings": "2024-06-29T14:58:09.5244026+00:00",
+  "LastUpdate_Ratings": "2024-06-29T16:57:02.9282181+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:29.0356545+00:00"
 }

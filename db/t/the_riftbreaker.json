@@ -2,7 +2,7 @@
   "ID": "f774d8b9a9324124892868e7b5c71169",
   "Name": "The Riftbreaker",
   "ProductSlug": "the-riftbreaker",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 1088,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "NumberOfRatings": 277,
   "RatingHistory": [
     {
@@ -1583,10 +1583,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 615,
       "NumberOfAwardsMax": 235
+    },
+    {
+      "Time": "2024-06-29T16:59:10.6361791+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 616,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 615,
+  "NumberOfAwards": 616,
   "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1618,7 +1624,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1656,8 +1662,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-06-29T13:58:27.1156052+00:00",
+  "LastChanged": "2024-06-29T16:59:10.6361789+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:35.919148+00:00",
-  "LastUpdate_Ratings": "2024-06-29T15:57:25.2374706+00:00",
+  "LastUpdate_Ratings": "2024-06-29T16:59:10.6361797+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:23.0811354+00:00"
 }
