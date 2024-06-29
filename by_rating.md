@@ -343,7 +343,7 @@
 | 339 | [Black Skylands](games/b/black_skylands.md) | 4.65 | 0 | 662 |
 | 339 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.65 | 343 | 284 |
 | 339 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.65 | 0 | 662 |
-| 339 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 8,361 | 64 |
+| 339 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 8,367 | 64 |
 | 339 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 127 | 395 |
 | 339 | [DOOM 64](games/d/doom_64.md) | 4.65 | 1,328 | 154 |
 | 339 | [DOOM II](games/d/doom_ii.md) | 4.65 | 31 | 594 |
@@ -445,7 +445,7 @@
 | 423 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,145 | 170 |
 | 423 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 662 |
 | 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,898 | 66 |
-| 423 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 631 | 228 |
+| 423 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 633 | 228 |
 | 423 | [Tails of Iron](games/t/tails_of_iron.md) | 4.61 | 22 | 643 |
 | 423 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 753 | 211 |
 | 423 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 6,998 | 71 |
@@ -569,7 +569,7 @@
 | 563 | [Duskers](games/d/duskers.md) | 4.55 | 20 | 654 |
 | 563 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 606 |
 | 563 | [Freshly Frosted](games/f/freshly_frosted.md) | 4.55 | 0 | 662 |
-| 563 | [Ghostrunner](games/g/ghostrunner.md) | 4.55 | 3,566 | 107 |
+| 563 | [Ghostrunner](games/g/ghostrunner.md) | 4.55 | 3,572 | 107 |
 | 563 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 662 |
 | 563 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 233 | 329 |
 | 563 | [Jitsu Squad](games/j/jitsu_squad.md) | 4.55 | 0 | 662 |
@@ -1081,13 +1081,13 @@
 | 1,077 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 34 | 578 |
 | 1,077 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 662 |
 | 1,077 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.18 | 527 | 244 |
-| 1,077 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 230,782 | 6 |
+| 1,077 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 230,835 | 6 |
 | 1,077 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 444 |
 | 1,077 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 662 |
 | 1,077 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 662 |
 | 1,077 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 662 |
 | 1,087 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 662 |
-| 1,087 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 631 | 228 |
+| 1,087 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 631 | 229 |
 | 1,087 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 125 | 399 |
 | 1,087 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.17 | 30 | 598 |
 | 1,087 | [The Bridge](games/t/the_bridge.md) | 4.17 | 0 | 662 |

@@ -5,7 +5,7 @@
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 396,394 | 4.68 | 282 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 345,597 | 4.67 | 300 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 333,781 | 4.87 | 18 |
-| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 230,782 | 4.18 | 1,077 |
+| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 230,835 | 4.18 | 1,077 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 169,377 | 4.69 | 259 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 161,433 | 4.50 | 655 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 135,571 | 4.69 | 259 |
@@ -63,7 +63,7 @@
 | 61 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,747 | 4.84 | 47 |
 | 62 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,573 | 4.69 | 259 |
 | 63 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,476 | 4.71 | 215 |
-| 64 | [Cities: Skylines](games/c/cities__skylines.md) | 8,361 | 4.65 | 339 |
+| 64 | [Cities: Skylines](games/c/cities__skylines.md) | 8,367 | 4.65 | 339 |
 | 65 | [Sifu](games/s/sifu.md) | 8,004 | 4.82 | 76 |
 | 66 | [Supraland](games/s/supraland.md) | 7,898 | 4.61 | 423 |
 | 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,728 | 4.75 | 155 |
@@ -106,7 +106,7 @@
 | 104 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,655 | 4.57 | 525 |
 | 105 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,624 | 4.76 | 145 |
 | 105 | [Gotham Knights](games/g/gotham_knights.md) | 3,624 | 4.19 | 1,068 |
-| 107 | [Ghostrunner](games/g/ghostrunner.md) | 3,566 | 4.55 | 563 |
+| 107 | [Ghostrunner](games/g/ghostrunner.md) | 3,572 | 4.55 | 563 |
 | 108 | [Among Us](games/a/among_us.md) | 3,488 | 4.55 | 563 |
 | 109 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,358 | 4.54 | 586 |
 | 110 | [RAGE 2](games/r/rage_2.md) | 3,214 | 4.26 | 1,001 |
@@ -227,8 +227,8 @@
 | 225 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 658 | 4.37 | 883 |
 | 226 | [The Outlast Trials](games/t/the_outlast_trials.md) | 655 | 4.65 | 339 |
 | 227 | [Severed Steel](games/s/severed_steel.md) | 642 | 4.69 | 259 |
-| 228 | [Dark Deity](games/d/dark_deity.md) | 631 | 4.17 | 1,087 |
-| 228 | [Surviving Mars](games/s/surviving_mars.md) | 631 | 4.61 | 423 |
+| 228 | [Surviving Mars](games/s/surviving_mars.md) | 633 | 4.61 | 423 |
+| 229 | [Dark Deity](games/d/dark_deity.md) | 631 | 4.17 | 1,087 |
 | 230 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 626 | 4.22 | 1,045 |
 | 230 | [Godfall Ultimate Edition](games/g/godfall.md) | 626 | 4.06 | 1,139 |
 | 232 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 623 | 4.67 | 300 |
