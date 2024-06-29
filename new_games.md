@@ -3,7 +3,7 @@
 | [Chess Club Valley](games/5/55e58062efd94787992a36c5ed9b44d4.md) | 2024-06-29 | - |  | - | - |
 | [Below Level](games/3/35df9b6ab690473aa9a3d68c68f8c0fa.md) | 2024-06-29 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
-| [Populous](games/9/92875a36ded64bdea321f9984b42d6b2.md) | 2024-06-27 | - |  | - | - |
+| [Populous](games/9/92875a36ded64bdea321f9984b42d6b2.md) | 2024-06-27 | - |  | - | 0 |
 | [Populous 2: Trials of the Olympian Gods](games/0/015591a4181841a189687d0d3ba5ddf0.md) | 2024-06-27 | - |  | - | - |
 | [Chess Knights: Shinobi](games/3/3ca3fe1ee37a4dbf90f1b242c3c30bee.md) | 2024-06-27 | - |  | - | - |
 | [HexON](games/5/5b95b193df59499886544e610dc871e5.md) | 2024-06-27 | - |  | - | 0 |
@@ -105,4 +105,3 @@
 | [Peggle Nights](games/1/1e4df99c0f534878a737ff8ada9c0fc6.md) | 2024-05-30 | - |  | - | 0 |
 | [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 48 | - | 0 |
 | [Revenge of the Boxer : Moscow Crime](games/f/fbf88f87983d477fbb665c2a0d1d2856.md) | 2024-05-30 | - |  | - | - |
-| [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 21 | - | 0 |
