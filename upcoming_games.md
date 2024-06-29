@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Demonheart](games/c/c24ab01828c74414b185dea9f87a88f8.md) | 2024-06-29 | - |  | - | - |
 | [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2024-06-30 | - |  | - | - |
 | [Asylum Revenge](games/4/4aa01217f1cc4e53923d81738de0859b.md) | 2024-06-30 | - |  | - | - |
 | [Auto Legends](games/c/ccd109fa7d104647a93aefd2180533d2.md) | 2024-06-30 | - |  | - | - |
@@ -419,6 +418,7 @@
 | [Happy Lab](games/e/e93d97d4ad334c75b10412ae114c00dd.md) | 2099-01-01 | - |  | - | - |
 | [Happy Time](games/0/0c3400dec5ec47399810c08113c09958.md) | 2099-01-01 | - |  | - | - |
 | [HardGame](games/7/7ca7a846b0124a1cb722646b6123a324.md) | 2099-01-01 | - |  | - | - |
+| [Havoc](games/2/28346ccf11a04fd38c5cd843362c5a58.md) | 2099-01-01 | - |  | - | - |
 | [Hector: Badge of Carnage - Episode 1](games/9/912f8bad879c4f54ae2e4f2b2b7e970e.md) | 2099-01-01 | - |  | - | - |
 | [Hector: Badge of Carnage - Episode 2](games/9/9a4a33ebb75f4481ab78dc2f000bdde3.md) | 2099-01-01 | - |  | - | - |
 | [Hector: Badge of Carnage - Episode 3](games/9/9283d870a39e44de996a8a88735e05b0.md) | 2099-01-01 | - |  | - | - |
