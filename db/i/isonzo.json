@@ -2,7 +2,7 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 231,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 98,
   "RatingHistory": [
     {
@@ -1329,6 +1329,12 @@
     {
       "Time": "2024-06-27T02:26:23.7152952+00:00",
       "Rating": 4.58,
+      "NumberOfAwards": 442,
+      "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-06-29T15:58:34.7698864+00:00",
+      "Rating": 4.57,
       "NumberOfAwards": 442,
       "NumberOfAwardsMax": 52
     }
@@ -12333,9 +12339,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2024-06-27T02:26:23.715295+00:00",
+  "LastChanged": "2024-06-29T15:58:34.7698862+00:00",
   "LastChanged_Achievements": "2024-06-17T16:18:41.4889603+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:57.4879677+00:00",
-  "LastUpdate_Ratings": "2024-06-29T13:59:28.7086655+00:00",
+  "LastUpdate_Ratings": "2024-06-29T15:58:34.7698867+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:41.4890509+00:00"
 }
