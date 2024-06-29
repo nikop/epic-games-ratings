@@ -3,7 +3,7 @@
   "Name": "Shadowrun Hong Kong - Extended Edition",
   "ProductSlug": "shadowrun-hong-kong",
   "Ranking_Rating": 586,
-  "Ranking_Popularity": 439,
+  "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
@@ -425,18 +425,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 99,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2024-06-29T01:48:52.0181192+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 100,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 99,
-  "NumberOfAwardsMax": 99,
+  "NumberOfAwards": 100,
+  "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 99
+      "Count": 100
     }
   ],
   "EOS_Progressed": 0,
@@ -450,8 +456,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:38.1146486+00:00",
-  "LastChanged": "2024-05-24T10:58:14.9897503+00:00",
+  "LastChanged": "2024-06-29T01:48:52.0181191+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:41.6678675+00:00",
-  "LastUpdate_Ratings": "2024-06-28T23:00:39.8026908+00:00",
+  "LastUpdate_Ratings": "2024-06-29T01:48:52.0181197+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:04.0842207+00:00"
 }
