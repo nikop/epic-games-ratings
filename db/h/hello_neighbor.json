@@ -2,7 +2,7 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 545,
+  "Ranking_Rating": 525,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 1088,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 1166,
   "RatingHistory": [
     {
@@ -8128,6 +8128,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 3287,
       "NumberOfAwardsMax": 536
+    },
+    {
+      "Time": "2024-06-29T02:25:31.4576722+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 3287,
+      "NumberOfAwardsMax": 536
     }
   ],
   "ReviewsDisabled": false,
@@ -8207,8 +8213,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2024-06-28T17:58:39.6092879+00:00",
+  "LastChanged": "2024-06-29T02:25:31.457672+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:58:29.3088545+00:00",
-  "LastUpdate_Ratings": "2024-06-29T00:00:54.6105332+00:00",
+  "LastUpdate_Ratings": "2024-06-29T02:25:31.4576727+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:25.8238209+00:00"
 }
