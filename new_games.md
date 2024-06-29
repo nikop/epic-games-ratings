@@ -101,7 +101,3 @@
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |
 | [Western Chapter](games/2/2b0ab0a4593344dda8d3cfec92611189.md) | 2024-05-31 | - |  | - | - |
 | [Reliefs The Time of the Lemures](games/3/3184fa4f95ff42e48853f3f16de47fce.md) | 2024-05-30 | 25 (1,000 XP) | 68 | - | 0 |
-| [Mirrors Edge: Catalyst](games/c/cd0c538ae44e4261b8ef0306649598b8.md) | 2024-05-30 | - |  | - | 0 |
-| [Peggle Deluxe](games/8/836b4fbba86a42d8a0ef7987fb1921f6.md) | 2024-05-30 | - |  | - | 0 |
-| [Peggle Nights](games/1/1e4df99c0f534878a737ff8ada9c0fc6.md) | 2024-05-30 | - |  | - | 0 |
-| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 48 | - | 0 |
