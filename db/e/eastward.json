@@ -2,7 +2,7 @@
   "ID": "656bd7c2e76b46d2a1b9b4f247e813f5",
   "Name": "Eastward",
   "ProductSlug": "eastward",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 662,
   "Ranking_PopularitySum": 662,
   "Ranking_EOS_Progress": 1088,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, HK, TW"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.6,
   "NumberOfRatings": 33,
   "RatingHistory": [
     {
@@ -132,6 +132,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-29T06:59:50.4153513+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -150,8 +156,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:13.9885092+00:00",
   "FirstSeenRating": "2022-07-31T06:31:42.9533956+00:00",
-  "LastChanged": "2023-03-31T05:58:19.5067631+00:00",
+  "LastChanged": "2024-06-29T06:59:50.4153512+00:00",
   "LastUpdate_AppInfo": "2024-06-23T19:57:42.0691106+00:00",
-  "LastUpdate_Ratings": "2024-06-29T05:00:54.3905379+00:00",
+  "LastUpdate_Ratings": "2024-06-29T06:59:50.415352+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:41.5630108+00:00"
 }

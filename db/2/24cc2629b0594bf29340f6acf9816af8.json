@@ -3,7 +3,7 @@
   "Name": "Horizon Forbidden West\u2122 Complete Edition",
   "ProductSlug": "horizon-forbidden-west-complete-edition",
   "Ranking_Rating": 76,
-  "Ranking_Popularity": 262,
+  "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 341,
@@ -2167,10 +2167,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 1117,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2024-06-29T07:00:58.8898358+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 1118,
+      "NumberOfAwardsMax": 436
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1117,
+  "NumberOfAwards": 1118,
   "NumberOfAwardsMax": 436,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2232,7 +2238,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has a Creative Community",
@@ -2925,9 +2931,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-06-29T02:26:56.2402528+00:00",
+  "LastChanged": "2024-06-29T07:00:58.8898357+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:20.1021927+00:00",
   "LastUpdate_AppInfo": "2024-06-27T13:57:10.3606237+00:00",
-  "LastUpdate_Ratings": "2024-06-29T05:57:49.3222066+00:00",
+  "LastUpdate_Ratings": "2024-06-29T07:00:58.8898361+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:20.1022576+00:00"
 }

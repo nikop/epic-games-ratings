@@ -1,7 +1,7 @@
 # Eastward
 [Store](https://store.epicgames.com/en-US/p/eastward)  
 [View Rawdata](../../db/e/eastward.json)  
-Rating: 4.67 (Ranked 300)  
+Rating: 4.60 (Ranked 455)  
 Number of Ratings: 33  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -30,3 +30,4 @@ Number of Ratings: 33  (23.09.2022)
 | 2022-12-28 | 4.66 | - | - | - |
 | 2022-12-31 | 4.67 | - | - | - |
 | 2023-03-31 | 4.67 | - | 0 | 0 |
+| 2024-06-29 | 4.60 | - | 0 | 0 |
