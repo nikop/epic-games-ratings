@@ -3,8 +3,8 @@
   "Name": "The Riftbreaker",
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 154,
-  "Ranking_Popularity": 329,
-  "Ranking_PopularitySum": 371,
+  "Ranking_Popularity": 326,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -1577,11 +1577,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 608,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2024-06-29T13:58:27.1156053+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 615,
+      "NumberOfAwardsMax": 235
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 608,
-  "NumberOfAwardsMax": 233,
+  "NumberOfAwards": 615,
+  "NumberOfAwardsMax": 235,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
@@ -1594,13 +1600,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game is Relaxing",
@@ -1624,13 +1630,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 233
+      "Count": 235
     },
     {
       "Text": "This game has a Creative Community",
@@ -1650,8 +1656,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-06-28T10:57:23.7850895+00:00",
+  "LastChanged": "2024-06-29T13:58:27.1156052+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:35.919148+00:00",
-  "LastUpdate_Ratings": "2024-06-29T12:00:53.7066676+00:00",
+  "LastUpdate_Ratings": "2024-06-29T13:58:27.1156055+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:23.0811354+00:00"
 }
