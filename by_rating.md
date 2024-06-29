@@ -83,7 +83,7 @@
 | 76 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,158 | 126 |
 | 76 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 62 | 495 |
 | 76 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 376 | 275 |
-| 76 | [Sifu](games/s/sifu.md) | 4.82 | 8,004 | 65 |
+| 76 | [Sifu](games/s/sifu.md) | 4.82 | 8,009 | 65 |
 | 76 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 543 | 241 |
 | 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 461 |
 | 76 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 105 | 426 |
@@ -123,7 +123,7 @@
 | 120 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.78 | 0 | 662 |
 | 120 | [Coffee Talk](games/c/coffee_talk.md) | 4.78 | 0 | 662 |
 | 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.78 | 0 | 662 |
-| 120 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,242 | 49 |
+| 120 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,252 | 49 |
 | 120 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.78 | 0 | 662 |
 | 120 | [Quake](games/q/quake.md) | 4.78 | 53 | 522 |
 | 120 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.78 | 44 | 540 |
@@ -446,8 +446,8 @@
 | 422 | [Supraland](games/s/supraland.md) | 4.61 | 7,898 | 66 |
 | 422 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 633 | 228 |
 | 422 | [Tails of Iron](games/t/tails_of_iron.md) | 4.61 | 22 | 643 |
-| 422 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 753 | 211 |
-| 422 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 6,998 | 71 |
+| 422 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 757 | 211 |
+| 422 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 7,013 | 71 |
 | 422 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 464 |
 | 422 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 442 | 259 |
 | 422 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 446 |
@@ -457,7 +457,7 @@
 | 455 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 1,000 | 187 |
 | 455 | [20XX](games/2/20xx.md) | 4.60 | 39 | 557 |
 | 455 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.60 | 0 | 662 |
-| 455 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 18,329 | 25 |
+| 455 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 18,343 | 25 |
 | 455 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 97 | 442 |
 | 455 | [DOOM 3](games/d/doom_3.md) | 4.60 | 73 | 478 |
 | 455 | [Eastward](games/e/eastward.md) | 4.60 | 0 | 662 |
@@ -471,7 +471,7 @@
 | 455 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.60 | 0 | 662 |
 | 455 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 89 | 452 |
 | 455 | [The Invincible](games/t/the_invincible.md) | 4.60 | 0 | 662 |
-| 455 | [Torchlight II](games/t/torchlight_ii.md) | 4.60 | 1,154 | 169 |
+| 455 | [Torchlight II](games/t/torchlight_ii.md) | 4.60 | 1,155 | 169 |
 | 455 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 29 | 603 |
 | 455 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 4.60 | 90 | 449 |
 | 475 | [Aimlabs](games/a/aimlabs.md) | 4.59 | 160 | 371 |
@@ -590,7 +590,7 @@
 | 586 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 606 |
 | 586 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 662 |
 | 586 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,268 | 79 |
-| 586 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,918 | 135 |
+| 586 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,919 | 135 |
 | 586 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,642 | 33 |
 | 586 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 27 | 614 |
 | 586 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 557 |
@@ -661,7 +661,7 @@
 | 655 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.50 | 48,680 | 16 |
 | 655 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 662 |
 | 655 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 662 |
-| 655 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 161,433 | 8 |
+| 655 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 161,480 | 8 |
 | 655 | [Fire Commander](games/f/fire_commander.md) | 4.50 | 0 | 662 |
 | 655 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 126 | 397 |
 | 655 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 662 |
@@ -1114,7 +1114,7 @@
 | 1,110 | [Lake](games/l/lake.md) | 4.13 | 0 | 662 |
 | 1,110 | [Relicta](games/r/relicta.md) | 4.13 | 207 | 338 |
 | 1,110 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.13 | 0 | 662 |
-| 1,110 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 3,002 | 112 |
+| 1,110 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 3,005 | 112 |
 | 1,116 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 662 |
 | 1,116 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 630 |
 | 1,118 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 662 |
@@ -1133,7 +1133,7 @@
 | 1,131 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 147 | 380 |
 | 1,131 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 355 |
 | 1,131 | [Patron](games/p/patron.md) | 4.08 | 0 | 662 |
-| 1,131 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 245 | 320 |
+| 1,131 | [Pinball FX](games/p/pinball_fx.md) | 4.08 | 246 | 320 |
 | 1,131 | [Tharsis](games/t/tharsis.md) | 4.08 | 0 | 662 |
 | 1,136 | [Obduction](games/o/obduction.md) | 4.07 | 63 | 492 |
 | 1,136 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 501 | 247 |
