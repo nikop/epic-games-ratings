@@ -100,4 +100,3 @@
 | [Minimally Invasive](games/f/f72a4664ea454e22a00a00d1274c41dc.md) | 2024-05-31 | - |  | - | - |
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |
 | [Western Chapter](games/2/2b0ab0a4593344dda8d3cfec92611189.md) | 2024-05-31 | - |  | - | - |
-| [Reliefs The Time of the Lemures](games/3/3184fa4f95ff42e48853f3f16de47fce.md) | 2024-05-30 | 25 (1,000 XP) | 68 | - | 0 |
