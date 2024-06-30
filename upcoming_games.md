@@ -1,32 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2024-06-30 | - |  | - | - |
-| [Asylum Revenge](games/4/4aa01217f1cc4e53923d81738de0859b.md) | 2024-06-30 | - |  | - | - |
-| [Auto Legends](games/c/ccd109fa7d104647a93aefd2180533d2.md) | 2024-06-30 | - |  | - | - |
-| [Baimason's Thing Finder Puzzle](games/f/fcf1df110db64edb929913d38d4276aa.md) | 2024-06-30 | - |  | - | - |
-| [ChronoForge](games/3/3347fc952acb48f1a4cbd0896e1316dc.md) | 2024-06-30 | - |  | - | - |
-| [CryptoBall](games/5/539a43c4910f41ae851d7acc184c92f1.md) | 2024-06-30 | - |  | - | - |
-| [Departed Away](games/8/8fb3b92706e84e07ad8b2804599b6677.md) | 2024-06-30 | - |  | - | - |
-| [EARLY ACCESS: What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-06-30 | - |  | - | - |
-| [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-06-30 | - |  | - | - |
-| [Flashback 2](games/f/flashback_2.md) | 2024-06-30 | - |  | - | - |
-| [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
-| [Hanoi Puzzles - Flip Match](games/4/4a5ba7e5cb24448485c7eff0076be187.md) | 2024-06-30 | - |  | - | - |
-| [Hero's Land](games/7/75f574ba4c08449192a3a8afc6cd6b4b.md) | 2024-06-30 | - |  | - | - |
-| [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
-| [Ninja Chowdown: Glaze of Glory](games/9/9d14aa079d6247ea83dcbc8879b90380.md) | 2024-06-30 | - |  | - | - |
-| [PeakPals](games/1/14c946b79c9e4112a1dfe276fc0623df.md) | 2024-06-30 | - |  | - | - |
-| [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-06-30 | - |  | - | - |
-| [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
-| [Rise Of Anupet](games/4/4362466173e7490d82c99991bbf2b80c.md) | 2024-06-30 | - |  | - | - |
-| [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
-| [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-06-30 | - |  | - | - |
-| [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-06-30 | - |  | - | - |
-| [The Bornless](games/a/aaa64a6e060d46ba8de15f19a0d6269e.md) | 2024-06-30 | - |  | - | - |
-| [The End of the Sun](games/6/69569d1b9145402f8e557bd1baed7343.md) | 2024-06-30 | - |  | - | - |
-| [The Shadows Within: Nightmare's Games](games/4/42f7c7174a8a45d4a1189b3d0a267f43.md) | 2024-06-30 | - |  | - | - |
-| [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | - |  | - | - |
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | - |  | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | - |  | - | - |
