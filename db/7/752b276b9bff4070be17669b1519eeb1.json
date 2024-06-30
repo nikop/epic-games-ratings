@@ -4,7 +4,7 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 826,
   "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 228,
+  "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -5363,18 +5363,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 2452,
       "NumberOfAwardsMax": 795
+    },
+    {
+      "Time": "2024-06-30T21:00:20.2768024+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 2458,
+      "NumberOfAwardsMax": 801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2452,
-  "NumberOfAwardsMax": 795,
+  "NumberOfAwards": 2458,
+  "NumberOfAwardsMax": 801,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 795
+      "Count": 801
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5443,8 +5449,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-06-30T16:57:34.3811908+00:00",
+  "LastChanged": "2024-06-30T21:00:20.2768022+00:00",
   "LastUpdate_AppInfo": "2024-06-28T14:57:22.4401543+00:00",
-  "LastUpdate_Ratings": "2024-06-30T19:57:49.1822882+00:00",
+  "LastUpdate_Ratings": "2024-06-30T21:00:20.2768028+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:14.4516326+00:00"
 }
