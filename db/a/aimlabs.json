@@ -4,7 +4,7 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 474,
   "Ranking_Popularity": 371,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -3877,10 +3877,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 991,
       "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2024-06-30T22:57:22.951125+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 992,
+      "NumberOfAwardsMax": 160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 991,
+  "NumberOfAwards": 992,
   "NumberOfAwardsMax": 160,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3954,7 +3960,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 86
+      "Count": 87
     }
   ],
   "EOS_Progressed": 0,
@@ -3969,8 +3975,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-06-29T23:57:27.0818256+00:00",
+  "LastChanged": "2024-06-30T22:57:22.9511248+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:57:33.2618938+00:00",
-  "LastUpdate_Ratings": "2024-06-30T20:59:07.7845478+00:00",
+  "LastUpdate_Ratings": "2024-06-30T22:57:22.9511254+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:29.7114193+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-tomb-raider",
   "Ranking_Rating": 261,
   "Ranking_Popularity": 44,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -7172,18 +7172,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 15832,
       "NumberOfAwardsMax": 12372
+    },
+    {
+      "Time": "2024-06-30T22:58:44.0790431+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 15840,
+      "NumberOfAwardsMax": 12379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15832,
-  "NumberOfAwardsMax": 12372,
+  "NumberOfAwards": 15840,
+  "NumberOfAwardsMax": 12379,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12372
+      "Count": 12379
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7225,7 +7231,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 386
+      "Count": 387
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7257,8 +7263,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2024-06-30T14:59:36.2838907+00:00",
+  "LastChanged": "2024-06-30T22:58:44.0790429+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:58:04.8898232+00:00",
-  "LastUpdate_Ratings": "2024-06-30T21:00:30.6980408+00:00",
+  "LastUpdate_Ratings": "2024-06-30T22:58:44.0790435+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:44.6837055+00:00"
 }
