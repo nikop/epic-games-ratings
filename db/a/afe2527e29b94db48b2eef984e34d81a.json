@@ -2,7 +2,7 @@
   "ID": "afe2527e29b94db48b2eef984e34d81a",
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
-  "Ranking_Rating": 758,
+  "Ranking_Rating": 746,
   "Ranking_Popularity": 250,
   "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 78,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2024-05-17T19:01:00.799761+00:00",
@@ -858,10 +858,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 922,
       "NumberOfAwardsMax": 493
+    },
+    {
+      "Time": "2024-06-30T03:57:34.7411506+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 923,
+      "NumberOfAwardsMax": 493
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 922,
+  "NumberOfAwards": 923,
   "NumberOfAwardsMax": 493,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -887,7 +893,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1512,9 +1518,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-06-29T16:58:33.5663591+00:00",
+  "LastChanged": "2024-06-30T03:57:34.7411504+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:54.7600691+00:00",
   "LastUpdate_AppInfo": "2024-06-27T18:57:04.7815342+00:00",
-  "LastUpdate_Ratings": "2024-06-30T02:01:17.2241544+00:00",
+  "LastUpdate_Ratings": "2024-06-30T03:57:34.7411509+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:54.7612031+00:00"
 }
