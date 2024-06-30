@@ -4,7 +4,7 @@
   "ProductSlug": "karos-09de0a",
   "Ranking_Rating": 961,
   "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -2585,10 +2585,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 713,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-06-30T17:58:06.1219936+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 714,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 713,
+  "NumberOfAwards": 714,
   "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2662,7 +2668,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2683,8 +2689,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2024-06-30T09:58:12.0605501+00:00",
+  "LastChanged": "2024-06-30T17:58:06.1219934+00:00",
   "LastUpdate_AppInfo": "2024-06-27T23:57:05.8553878+00:00",
-  "LastUpdate_Ratings": "2024-06-30T15:59:45.8582336+00:00",
+  "LastUpdate_Ratings": "2024-06-30T17:58:06.121994+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:45.3797752+00:00"
 }

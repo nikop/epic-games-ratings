@@ -4,7 +4,7 @@
   "ProductSlug": "shapez-0929c9",
   "Ranking_Rating": 215,
   "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 501,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -700,10 +700,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 167,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-06-30T17:59:46.2853305+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 187,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 167,
+  "NumberOfAwards": 187,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -748,6 +754,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 24
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -762,8 +774,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2024-06-30T15:00:34.2458452+00:00",
+  "LastChanged": "2024-06-30T17:59:46.2853304+00:00",
   "LastUpdate_AppInfo": "2024-06-23T23:58:21.3752535+00:00",
-  "LastUpdate_Ratings": "2024-06-30T16:58:22.1824235+00:00",
+  "LastUpdate_Ratings": "2024-06-30T17:59:46.2853308+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:04.9856537+00:00"
 }
