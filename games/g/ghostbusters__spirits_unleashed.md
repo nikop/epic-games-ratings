@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.52 (Ranked 624)  
+Rating: 4.52 (Ranked 625)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

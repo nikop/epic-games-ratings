@@ -1,7 +1,7 @@
 # The Red Lantern
 [Store](https://store.epicgames.com/en-US/p/the-red-lantern)  
 [View Rawdata](../../db/t/the_red_lantern.json)  
-Rating: 4.68 (Ranked 283)  
+Rating: 4.69 (Ranked 261)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.68 (Ranked 283)
 | 2023-12-07 | 4.69 | 0 | 0 |
 | 2024-02-13 | 4.70 | 0 | 0 |
 | 2024-06-04 | 4.68 | 0 | 0 |
+| 2024-06-30 | 4.69 | 0 | 0 |
