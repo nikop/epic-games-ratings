@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_Rating": 961,
   "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -1295,10 +1295,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 374,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-06-29T23:57:37.7363394+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 402,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 374,
+  "NumberOfAwards": 402,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1360,7 +1366,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 24
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -1375,8 +1381,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-06-29T16:59:16.074816+00:00",
+  "LastChanged": "2024-06-29T23:57:37.7363392+00:00",
   "LastUpdate_AppInfo": "2024-06-27T03:56:59.549215+00:00",
-  "LastUpdate_Ratings": "2024-06-29T21:59:42.4747182+00:00",
+  "LastUpdate_Ratings": "2024-06-29T23:57:37.7363398+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:15.4419717+00:00"
 }
