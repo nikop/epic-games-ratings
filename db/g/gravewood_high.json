@@ -2,7 +2,7 @@
   "ID": "36d3389b16b14deeb527754f6393469b",
   "Name": "Gravewood High",
   "ProductSlug": "gravewood-high",
-  "Ranking_Rating": 1124,
+  "Ranking_Rating": 1130,
   "Ranking_Popularity": 662,
   "Ranking_PopularitySum": 662,
   "Ranking_EOS_Progress": 1088,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.09,
+  "Rating": 4.08,
   "NumberOfRatings": 32,
   "RatingHistory": [
     {
@@ -434,6 +434,12 @@
       "Rating": 4.09,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-06-30T15:59:27.0106247+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -452,8 +458,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:07.1625329+00:00",
   "FirstSeenRating": "2022-08-20T03:01:10.1611704+00:00",
-  "LastChanged": "2024-06-24T15:59:04.6252849+00:00",
+  "LastChanged": "2024-06-30T15:59:27.0106246+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:30.2540841+00:00",
-  "LastUpdate_Ratings": "2024-06-30T14:57:37.0460741+00:00",
+  "LastUpdate_Ratings": "2024-06-30T15:59:27.0106252+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:11.1473514+00:00"
 }

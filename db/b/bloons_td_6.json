@@ -4,7 +4,7 @@
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 129,
   "Ranking_Popularity": 39,
-  "Ranking_PopularitySum": 30,
+  "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -20215,11 +20215,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 70700,
       "NumberOfAwardsMax": 13472
+    },
+    {
+      "Time": "2024-06-30T15:58:16.7325297+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 70739,
+      "NumberOfAwardsMax": 13487
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 70700,
-  "NumberOfAwardsMax": 13472,
+  "NumberOfAwards": 70739,
+  "NumberOfAwardsMax": 13487,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -20250,7 +20256,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6714
+      "Count": 6723
     },
     {
       "Text": "This game has Playful Visuals",
@@ -20262,7 +20268,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 13472
+      "Count": 13487
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -20280,7 +20286,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5509
+      "Count": 5524
     },
     {
       "Text": "This game is Relaxing",
@@ -20313,8 +20319,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2024-06-30T03:01:37.7043878+00:00",
+  "LastChanged": "2024-06-30T15:58:16.7325295+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:26.007709+00:00",
-  "LastUpdate_Ratings": "2024-06-30T14:00:06.2912473+00:00",
+  "LastUpdate_Ratings": "2024-06-30T15:58:16.7325301+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:53.6450718+00:00"
 }
