@@ -346,12 +346,12 @@ Completed: 0 (0.00%) (Ranked 510)
 | 2024-04-10 | 107,305 | 0 |
 | 2024-06-17 | 114,039 | 0 |
 ## Awards
-Max (Character Customization): 9,645  (Ranked 57)  
-Sum: 20,167 (Ranked 70)  
+Max (Character Customization): 9,665  (Ranked 57)  
+Sum: 20,187 (Ranked 70)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 9,645 |
+| This game has Inclusive Character Customization | 9,665 |
 | This game is Great for Beginners | 1,548 |
 | This game has Diverse Characters | 1,432 |
 | This game is Highly Recommended | 1,255 |
@@ -899,4 +899,4 @@ Diff (max vs sum): -13
 | 2024-06-28 | 4.74 | - | 9,634 | 20,126 |
 | 2024-06-29 | 4.74 | - | 9,634 | 20,141 |
 | 2024-06-30 | 4.74 | - | 9,645 | 20,165 |
-| 2024-07-01 | 4.74 | - | 9,645 | 20,167 |
+| 2024-07-01 | 4.74 | - | 9,665 | 20,187 |

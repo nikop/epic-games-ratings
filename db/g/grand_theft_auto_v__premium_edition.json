@@ -2,7 +2,7 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 284,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 1088,
@@ -15947,10 +15947,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 2661784,
       "NumberOfAwardsMax": 397871
+    },
+    {
+      "Time": "2024-07-01T02:58:04.4202915+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 2664074,
+      "NumberOfAwardsMax": 397871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2661784,
+  "NumberOfAwards": 2664074,
   "NumberOfAwardsMax": 397871,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15958,13 +15964,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 337905
+      "Count": 338516
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 313619
+      "Count": 314169
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15982,7 +15988,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 311890
+      "Count": 312446
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15994,7 +16000,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 324016
+      "Count": 324589
     },
     {
       "Text": "This game has Amazing Characters",
@@ -16026,8 +16032,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2024-06-30T20:58:55.0706447+00:00",
+  "LastChanged": "2024-07-01T02:58:04.4202913+00:00",
   "LastUpdate_AppInfo": "2024-06-24T04:57:23.2899737+00:00",
-  "LastUpdate_Ratings": "2024-06-30T23:59:09.2616917+00:00",
+  "LastUpdate_Ratings": "2024-07-01T02:58:04.420292+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:01.198191+00:00"
 }
