@@ -3,8 +3,8 @@
   "Name": "The Machines Arena",
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 206,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 621,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 619,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -305,18 +305,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 32,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-07-01T11:59:45.3286371+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32,
-  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 34,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 32
+      "Count": 34
     }
   ],
   "EOS_Progressed": 0,
@@ -331,8 +337,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-06-16T06:00:58.0556635+00:00",
+  "LastChanged": "2024-07-01T11:59:45.3286369+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:35.0880182+00:00",
-  "LastUpdate_Ratings": "2024-07-01T10:57:43.9497153+00:00",
+  "LastUpdate_Ratings": "2024-07-01T11:59:45.3286374+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:52.654507+00:00"
 }
