@@ -2,7 +2,7 @@
   "ID": "f9af68c0b03e425999c18381eb45e5fb",
   "Name": "Frontier Hunter: Erza\u0027s Wheel of Fortune",
   "ProductSlug": "frontier-hunter-erzas-wheel-of-fortune",
-  "Ranking_Rating": 784,
+  "Ranking_Rating": 825,
   "Ranking_Popularity": 662,
   "Ranking_PopularitySum": 662,
   "Ranking_EOS_Progress": 392,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:35.9709384+00:00",
@@ -77,6 +77,12 @@
     {
       "Time": "2024-05-25T14:57:56.2658636+00:00",
       "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-01T21:00:18.4554597+00:00",
+      "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3187,9 +3193,9 @@
   "FirstSeen": "2023-02-17T17:57:30.0066126+00:00",
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
-  "LastChanged": "2024-05-25T14:57:56.2658634+00:00",
+  "LastChanged": "2024-07-01T21:00:18.4554595+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:43.8376366+00:00",
   "LastUpdate_AppInfo": "2024-06-30T22:56:57.0072278+00:00",
-  "LastUpdate_Ratings": "2024-07-01T19:58:09.4387305+00:00",
+  "LastUpdate_Ratings": "2024-07-01T21:00:18.4554601+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:43.8376883+00:00"
 }
