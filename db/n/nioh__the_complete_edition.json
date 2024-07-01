@@ -3,7 +3,7 @@
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 562,
-  "Ranking_Popularity": 56,
+  "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
@@ -14915,18 +14915,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 24038,
       "NumberOfAwardsMax": 9897
+    },
+    {
+      "Time": "2024-07-01T22:58:59.0430576+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 24048,
+      "NumberOfAwardsMax": 9907
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24038,
-  "NumberOfAwardsMax": 9897,
+  "NumberOfAwards": 24048,
+  "NumberOfAwardsMax": 9907,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 9897
+      "Count": 9907
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14994,8 +15000,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-07-01T16:57:45.0360019+00:00",
+  "LastChanged": "2024-07-01T22:58:59.0430574+00:00",
   "LastUpdate_AppInfo": "2024-06-30T11:57:21.3619064+00:00",
-  "LastUpdate_Ratings": "2024-07-01T21:00:32.2569268+00:00",
+  "LastUpdate_Ratings": "2024-07-01T22:58:59.0430597+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:31.4084051+00:00"
 }

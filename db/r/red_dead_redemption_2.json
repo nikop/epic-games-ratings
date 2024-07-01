@@ -28487,10 +28487,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 942991,
       "NumberOfAwardsMax": 334596
+    },
+    {
+      "Time": "2024-07-01T22:57:19.5648703+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 943050,
+      "NumberOfAwardsMax": 334596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 942991,
+  "NumberOfAwards": 943050,
   "NumberOfAwardsMax": 334596,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -28546,7 +28552,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42777
+      "Count": 42836
     },
     {
       "Text": "This game is Great for Beginners",
@@ -28590,8 +28596,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-07-01T19:00:10.7635223+00:00",
+  "LastChanged": "2024-07-01T22:57:19.5648701+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:01:49.7225287+00:00",
-  "LastUpdate_Ratings": "2024-07-01T20:58:46.4463548+00:00",
+  "LastUpdate_Ratings": "2024-07-01T22:57:19.5648708+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:09.4122413+00:00"
 }
