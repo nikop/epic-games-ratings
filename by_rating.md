@@ -22,7 +22,7 @@
 | 18 | [Inscryption](games/i/inscryption.md) | 4.87 | 378 | 274 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,072 | 180 |
 | 18 | [Rain World](games/r/rain_world.md) | 4.87 | 23 | 638 |
-| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 334,198 | 5 |
+| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 334,596 | 5 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,322 | 26 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 631 |
 | 18 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 751 | 212 |
@@ -62,7 +62,7 @@
 | 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 237 | 323 |
 | 48 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.84 | 0 | 662 |
 | 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 251 | 315 |
-| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,444 | 69 |
+| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,448 | 69 |
 | 63 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 73 | 478 |
 | 63 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 284 | 303 |
 | 63 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 254 | 312 |
@@ -397,7 +397,7 @@
 | 385 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.63 | 88 | 453 |
 | 385 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 345 |
 | 385 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 772 | 209 |
-| 385 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 11,694 | 46 |
+| 385 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 11,715 | 46 |
 | 385 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,628 | 96 |
 | 385 | [Prey](games/p/prey.md) | 4.63 | 6,085 | 83 |
 | 385 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 198 | 346 |
@@ -1080,18 +1080,18 @@
 | 1,078 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 100 | 437 |
 | 1,078 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 34 | 578 |
 | 1,078 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 662 |
-| 1,078 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.18 | 527 | 244 |
-| 1,078 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 230,912 | 6 |
+| 1,078 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 230,993 | 6 |
 | 1,078 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 444 |
 | 1,078 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 662 |
 | 1,078 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 662 |
 | 1,078 | [The Bridge](games/t/the_bridge.md) | 4.18 | 0 | 662 |
 | 1,078 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 662 |
-| 1,088 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 662 |
-| 1,088 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 631 | 229 |
-| 1,088 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 125 | 401 |
-| 1,088 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.17 | 30 | 598 |
-| 1,088 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 4.17 | 0 | 662 |
+| 1,087 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 662 |
+| 1,087 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 631 | 229 |
+| 1,087 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 125 | 401 |
+| 1,087 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.17 | 30 | 598 |
+| 1,087 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 527 | 244 |
+| 1,087 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 4.17 | 0 | 662 |
 | 1,093 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.16 | 0 | 662 |
 | 1,093 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 4.16 | 0 | 662 |
 | 1,093 | [Forspoken](games/f/forspoken.md) | 4.16 | 72 | 481 |
@@ -1115,7 +1115,7 @@
 | 1,112 | [Lake](games/l/lake.md) | 4.13 | 0 | 662 |
 | 1,112 | [Relicta](games/r/relicta.md) | 4.13 | 207 | 338 |
 | 1,112 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.13 | 0 | 662 |
-| 1,112 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 3,005 | 112 |
+| 1,112 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 3,009 | 112 |
 | 1,117 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 662 |
 | 1,117 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 631 |
 | 1,117 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.12 | 0 | 662 |

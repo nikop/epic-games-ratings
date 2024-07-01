@@ -76,7 +76,7 @@
 | [Mass Effect 3 N7 Digital Deluxe Edition](games/f/ff53808bb3b5462283516ab21d09a4dc.md) | 2024-06-13 | - |  | - | 0 |
 | [Mass Effect: Andromeda Deluxe Edition](games/c/cfc9a8bcab134a639f76d7b1646554e7.md) | 2024-06-13 | - |  | - | 0 |
 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 2024-06-13 | 10 (1,000 XP) | 3 | - | 0 |
-| [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 6 | - | - |
+| [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 6 | - | 0 |
 | [CRUELTY](games/1/1869b4b037124467b43cd9e62c6ee09d.md) | 2024-06-13 | - |  | - | 0 |
 | [War of Tanks](games/6/6e6916441a70473eac5849afca73080f.md) | 2024-06-13 | - |  | - | 0 |
 | [DOSA: Guardians](games/8/84abf01158f84874b4a8737dfcad9eca.md) | 2024-06-13 | - |  | - | 0 |
