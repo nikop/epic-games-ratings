@@ -4,7 +4,7 @@
   "ProductSlug": "inscryption-6b29ab",
   "Ranking_Rating": 18,
   "Ranking_Popularity": 274,
-  "Ranking_PopularitySum": 384,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -992,10 +992,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 514,
       "NumberOfAwardsMax": 378
+    },
+    {
+      "Time": "2024-07-01T13:10:57.6113067+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 534,
+      "NumberOfAwardsMax": 378
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 514,
+  "NumberOfAwards": 534,
   "NumberOfAwardsMax": 378,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1046,6 +1052,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1059,8 +1071,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2024-06-30T09:59:27.7938875+00:00",
+  "LastChanged": "2024-07-01T13:10:57.6113065+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:11.0478213+00:00",
-  "LastUpdate_Ratings": "2024-07-01T11:00:01.3343256+00:00",
+  "LastUpdate_Ratings": "2024-07-01T13:10:57.6113069+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:10.3463611+00:00"
 }
