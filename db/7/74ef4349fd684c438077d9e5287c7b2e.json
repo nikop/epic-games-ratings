@@ -3,8 +3,8 @@
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
   "Ranking_Rating": 522,
-  "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 401,
+  "Ranking_Popularity": 382,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -1158,11 +1158,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 426,
       "NumberOfAwardsMax": 140
+    },
+    {
+      "Time": "2024-07-01T13:58:50.1895978+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 431,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 426,
-  "NumberOfAwardsMax": 140,
+  "NumberOfAwards": 431,
+  "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1187,7 +1193,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 140
+      "Count": 145
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1238,8 +1244,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-07-01T03:59:00.7007067+00:00",
+  "LastChanged": "2024-07-01T13:58:50.1895976+00:00",
   "LastUpdate_AppInfo": "2024-06-28T08:57:18.1697111+00:00",
-  "LastUpdate_Ratings": "2024-07-01T11:59:38.5529679+00:00",
+  "LastUpdate_Ratings": "2024-07-01T13:58:50.1895982+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:55.8838829+00:00"
 }
