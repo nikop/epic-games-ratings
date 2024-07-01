@@ -5,8 +5,8 @@ Rating: 4.25 (Ranked 1,013)
 Number of Ratings: 5,442  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 674  (Ranked 224)  
-Sum: 3,765 (Ranked 186)  
-Diff (max vs sum): 38  
+Sum: 3,766 (Ranked 187)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 4,091 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 38
 | This game is Relaxing | 459 |
 | This game has Amazing Characters | 455 |
 | This game is Extremely Fun | 426 |
-| This game has a Creative Community | 362 |
+| This game has a Creative Community | 363 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -470,4 +470,4 @@ Diff (max vs sum): 38
 | 2024-06-25 | 4.25 | - | 672 | 3,759 |
 | 2024-06-26 | 4.25 | - | 672 | 3,762 |
 | 2024-06-28 | 4.25 | - | 674 | 3,764 |
-| 2024-07-01 | 4.25 | - | 674 | 3,765 |
+| 2024-07-01 | 4.25 | - | 674 | 3,766 |

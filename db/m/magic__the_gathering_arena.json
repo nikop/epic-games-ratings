@@ -23444,10 +23444,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 115464,
       "NumberOfAwardsMax": 15132
+    },
+    {
+      "Time": "2024-07-01T19:57:46.1124226+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 115509,
+      "NumberOfAwardsMax": 15132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 115464,
+  "NumberOfAwards": 115509,
   "NumberOfAwardsMax": 15132,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -23461,19 +23467,19 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 12155
+      "Count": 12171
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 11267
+      "Count": 11275
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 12211
+      "Count": 12222
     },
     {
       "Text": "This game is Extremely Fun",
@@ -23485,7 +23491,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 11775
+      "Count": 11783
     },
     {
       "Text": "This game is Highly Recommended",
@@ -23503,7 +23509,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 8125
+      "Count": 8127
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -23529,8 +23535,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-07-01T17:59:17.5113625+00:00",
+  "LastChanged": "2024-07-01T19:57:46.1124224+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:56.3396288+00:00",
-  "LastUpdate_Ratings": "2024-07-01T17:59:17.5113631+00:00",
+  "LastUpdate_Ratings": "2024-07-01T19:57:46.112423+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:03.1738981+00:00"
 }
