@@ -108,6 +108,7 @@
 | 105 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.79 | 63 | 494 |
 | 105 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.79 | 0 | 662 |
 | 105 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.79 | 0 | 662 |
+| 105 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 721 | 217 |
 | 105 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 185 | 354 |
 | 105 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 638 |
 | 105 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,823 | 142 |
@@ -118,20 +119,19 @@
 | 105 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 136 | 387 |
 | 105 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 128 | 395 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.79 | 32 | 587 |
-| 119 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.78 | 0 | 662 |
-| 119 | [Coffee Talk](games/c/coffee_talk.md) | 4.78 | 0 | 662 |
-| 119 | [Cozy Grove](games/c/cozy_grove.md) | 4.78 | 0 | 662 |
-| 119 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,265 | 49 |
-| 119 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 721 | 217 |
-| 119 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.78 | 0 | 662 |
-| 119 | [Quake](games/q/quake.md) | 4.78 | 53 | 522 |
-| 119 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.78 | 44 | 542 |
-| 119 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 68 | 484 |
-| 119 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.78 | 0 | 662 |
+| 120 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.78 | 0 | 662 |
+| 120 | [Coffee Talk](games/c/coffee_talk.md) | 4.78 | 0 | 662 |
+| 120 | [Cozy Grove](games/c/cozy_grove.md) | 4.78 | 0 | 662 |
+| 120 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,265 | 49 |
+| 120 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.78 | 0 | 662 |
+| 120 | [Quake](games/q/quake.md) | 4.78 | 53 | 522 |
+| 120 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.78 | 44 | 542 |
+| 120 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 68 | 484 |
+| 120 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.78 | 0 | 662 |
 | 129 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 28 | 606 |
 | 129 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 13,487 | 39 |
 | 129 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,084 | 177 |
-| 129 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,938 | 42 |
+| 129 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,953 | 41 |
 | 129 | [Journey](games/j/journey.md) | 4.77 | 0 | 662 |
 | 129 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 662 |
 | 129 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 662 |
@@ -628,7 +628,7 @@
 | 624 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 662 |
 | 624 | [Far Cry](games/f/far_cry.md) | 4.52 | 0 | 662 |
 | 624 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 662 |
-| 624 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.52 | 382 | 273 |
+| 624 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.52 | 383 | 273 |
 | 624 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 114 | 413 |
 | 624 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 144 | 382 |
 | 624 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.52 | 35 | 573 |
@@ -673,7 +673,7 @@
 | 655 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.50 | 0 | 662 |
 | 655 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 662 |
 | 655 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.50 | 50 | 529 |
-| 655 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,409 | 40 |
+| 655 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,422 | 40 |
 | 655 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 662 |
 | 655 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.50 | 0 | 662 |
 | 655 | [The Medium](games/t/the_medium.md) | 4.50 | 0 | 662 |
@@ -897,7 +897,7 @@
 | 894 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 133 | 392 |
 | 894 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 180 | 358 |
 | 894 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 0 | 662 |
-| 894 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,941 | 41 |
+| 894 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,941 | 42 |
 | 894 | [Flatout](games/f/flatout.md) | 4.36 | 0 | 662 |
 | 894 | [Hammerting](games/h/hammerting.md) | 4.36 | 0 | 662 |
 | 894 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 0 | 662 |
