@@ -353,7 +353,7 @@
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |
 | [Gladiator : Blades of Fury](games/2/285b64782090429a8c055d913b2c93f1.md) | 2023-11-30 | 6 (1,000 XP) | 12 | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-09-30 | 16 (1,000 XP) | 0 | - | - |
-| [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,607 | 4.82 | 497 |
+| [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,607 | 4.82 | 499 |
 | [EndlessRunner](games/f/f42ed367eda74abfbd1d190de7fe0f10.md) | 2023-12-02 | 5 (1,000 XP) | 1 | - | - |
 | [International Basketball Manager 23](games/e/e9543b5d696d4129af27a26b22ceeaff.md) | 2023-05-29 | 32 (1,000 XP) | 150 | - | 0 |
 | [Magnetism](games/1/1f5c217a910f4c00aaee91c20b34bb46.md) | 2023-11-23 | 9 (1,000 XP) | 1 | - | - |
@@ -396,7 +396,7 @@
 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 2023-11-11 | 11 (1,000 XP) | 125 | - | 0 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,187 | 4.69 | 706 |
 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 2023-11-17 | 67 (1,000 XP) | 8 | - | 0 |
-| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 169,493 |
+| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 169,618 |
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-11-01 | 21 (1,000 XP) | 0 | - | 0 |
 | [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 443 | - | - |

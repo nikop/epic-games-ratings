@@ -70,7 +70,7 @@
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | 46 (1,000 XP) | 52 | - | 0 |
 | [Knight Swap](games/d/d62ad943ddbb4d0b8aa4969f31260bc5.md) | 2024-05-29 | 10 (1,000 XP) | 40 | - | 0 |
 | [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | 10 (1,000 XP) | 84 | - | 0 |
-| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,311,693 | 4.55 | 5,102 |
+| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,311,693 | 4.55 | 5,110 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | 15 (1,000 XP) | 2 | - | - |
 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | 25 (1,000 XP) | 2 | - | - |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 15 | - | 0 |
@@ -622,7 +622,7 @@
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 7,453 | 4.59 | 99 |
 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-19 | 24 (1,000 XP) | 236 | - | 0 |
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 224 | - | 0 |
-| [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 19,071 | 4.23 | 0 |
+| [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 19,071 | 4.25 | 0 |
 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 2023-06-16 | 45 (1,000 XP) | 1,002 | - | 0 |
 | [F1® 23](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 49 (1,000 XP) | 21,680 | 4.57 | 251 |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-15 | 5 (1,000 XP) | 216 | - | 0 |
@@ -653,7 +653,7 @@
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 21 (1,000 XP) | 318 | - | 0 |
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 177 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | 0 |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 1,102,179 | 4.67 | 13,952 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 1,102,179 | 4.67 | 13,984 |
 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,352,902 | 4.33 | 117 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 674 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 21 | - | 0 |
@@ -1039,7 +1039,7 @@
 | [Unspottable](games/u/unspottable.md) | 2021-12-14 | 25 (1,000 XP) | 16 | - | 0 |
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 12,101 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,095 | - | 0 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 248 (5,965 XP) | 1,461,055 | 4.50 | 48,756 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 248 (5,965 XP) | 1,461,055 | 4.50 | 48,816 |
 | [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 262,266 | 4.61 | 924 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 16 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,648 | 4.46 | 36 |
@@ -1059,7 +1059,7 @@
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 241 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 173 | 4.30 | 0 |
 | [War Mongrels](games/w/war_mongrels.md) | 2021-10-19 | 59 (1,000 XP) | 2,884 | 4.40 | 0 |
-| [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,607 | 4.82 | 497 |
+| [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,607 | 4.82 | 499 |
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,307 | 4.43 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,663,690 | 4.65 | 1,229 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 170,378 | 4.47 | 24 |
@@ -1122,7 +1122,7 @@
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.66 | 8,381 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,373 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,061 | 4.66 | 2,013 |
-| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 169,493 |
+| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 169,618 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 172 | 4.15 | 0 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,770 | 4.86 | 52 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 58,260 | 4.65 | 440 |
