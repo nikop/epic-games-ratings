@@ -1,7 +1,7 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.52 (Ranked 624)  
+Rating: 4.51 (Ranked 638)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -423,3 +423,4 @@ Diff (max vs sum): -126
 | 2024-05-26 | 4.51 | - | 147 | 147 |
 | 2024-06-28 | 4.51 | - | 148 | 148 |
 | 2024-06-30 | 4.52 | - | 148 | 148 |
+| 2024-07-01 | 4.51 | - | 148 | 148 |
