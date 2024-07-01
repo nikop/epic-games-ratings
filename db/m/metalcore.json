@@ -2,7 +2,7 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 809,
+  "Ranking_Rating": 785,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 1088,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -1259,10 +1259,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 720,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2024-07-01T05:59:09.9660414+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 722,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 720,
+  "NumberOfAwards": 722,
   "NumberOfAwardsMax": 86,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1318,7 +1324,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 54
+      "Count": 56
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1357,8 +1363,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-06-30T21:59:52.3113812+00:00",
+  "LastChanged": "2024-07-01T05:59:09.9660411+00:00",
   "LastUpdate_AppInfo": "2024-06-30T15:57:09.8266967+00:00",
-  "LastUpdate_Ratings": "2024-07-01T03:58:59.6339084+00:00",
+  "LastUpdate_Ratings": "2024-07-01T05:59:09.9660416+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:35.4478422+00:00"
 }
