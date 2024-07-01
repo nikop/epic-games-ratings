@@ -1,7 +1,7 @@
 # Freshly Frosted
 [Store](https://store.epicgames.com/en-US/p/freshly-frosted-c636d0)  
 [View Rawdata](../../db/f/freshly_frosted.json)  
-Rating: 4.56 (Ranked 546)  
+Rating: 4.55 (Ranked 562)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -103,3 +103,4 @@ Completed: 0 (0.00%) (Ranked 510)
 | 2024-06-27 | 4.53 | 0 | 0 |
 | 2024-06-28 | 4.55 | 0 | 0 |
 | 2024-06-29 | 4.56 | 0 | 0 |
+| 2024-07-01 | 4.55 | 0 | 0 |
