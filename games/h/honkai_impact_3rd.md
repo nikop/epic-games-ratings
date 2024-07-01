@@ -1,7 +1,7 @@
 # Honkai Impact 3rd
 [Store](https://store.epicgames.com/en-US/p/honkai-impact-3rd)  
 [View Rawdata](../../db/h/honkai_impact_3rd.json)  
-Rating: 4.47 (Ranked 711)  
+Rating: 4.47 (Ranked 712)  
 ## Awards
 Max (Character Customization): 4,272  (Ranked 98)  
 Sum: 16,539 (Ranked 80)  
