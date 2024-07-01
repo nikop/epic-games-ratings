@@ -2,7 +2,7 @@
   "ID": "4750c68b2bfa4f43933b81cfd5cc510c",
   "Name": "EA SPORTS FC\u2122 24 Standard Edition",
   "ProductSlug": "ea-sports-fc-24",
-  "Ranking_Rating": 1098,
+  "Ranking_Rating": 1100,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 35,
@@ -8047,10 +8047,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 86284,
       "NumberOfAwardsMax": 36602
+    },
+    {
+      "Time": "2024-07-01T02:03:36.3812441+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 86319,
+      "NumberOfAwardsMax": 36602
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86284,
+  "NumberOfAwards": 86319,
   "NumberOfAwardsMax": 36602,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8058,7 +8064,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 26387
+      "Count": 26422
     },
     {
       "Text": "This game has Diverse Characters",
@@ -23382,9 +23388,9 @@
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2024-06-30T19:57:52.2813079+00:00",
+  "LastChanged": "2024-07-01T02:03:36.3812439+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:36.0441312+00:00",
   "LastUpdate_AppInfo": "2024-06-29T01:46:56.5498031+00:00",
-  "LastUpdate_Ratings": "2024-06-30T22:58:36.9024638+00:00",
+  "LastUpdate_Ratings": "2024-07-01T02:03:36.3812445+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:36.0442237+00:00"
 }

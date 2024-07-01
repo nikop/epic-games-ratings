@@ -3,8 +3,8 @@
   "Name": "Redfall",
   "ProductSlug": "redfall",
   "Ranking_Rating": 1211,
-  "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 599,
+  "Ranking_Popularity": 539,
+  "Ranking_PopularitySum": 595,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -637,18 +637,24 @@
       "Rating": 3.68,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-07-01T02:05:18.333066+00:00",
+      "Rating": 3.68,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 44
+      "Count": 45
     }
   ],
   "EOS_Progressed": 2610,
@@ -5501,9 +5507,9 @@
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2024-06-28T17:58:09.2588687+00:00",
+  "LastChanged": "2024-07-01T02:05:18.3330659+00:00",
   "LastChanged_Achievements": "2024-06-17T16:18:17.2157334+00:00",
   "LastUpdate_AppInfo": "2024-06-30T22:57:04.3983824+00:00",
-  "LastUpdate_Ratings": "2024-06-30T23:00:06.0872776+00:00",
+  "LastUpdate_Ratings": "2024-07-01T02:05:18.3330664+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:17.2158108+00:00"
 }
