@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 215,
   "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 457,
+  "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -772,10 +772,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-07-02T16:00:42.1010921+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -783,7 +789,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -846,8 +852,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-06-30T13:59:36.5643493+00:00",
+  "LastChanged": "2024-07-02T16:00:42.1010919+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:09.5151121+00:00",
-  "LastUpdate_Ratings": "2024-07-02T14:58:31.1652819+00:00",
+  "LastUpdate_Ratings": "2024-07-02T16:00:42.1010924+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:54.0109005+00:00"
 }
