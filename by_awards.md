@@ -39,8 +39,8 @@
 | 37 | [Maneater](games/m/maneater.md) | 14,286 | 4.49 | 682 |
 | 38 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 14,012 | 4.68 | 284 |
 | 39 | [Bloons TD 6](games/b/bloons_td_6.md) | 13,509 | 4.77 | 129 |
-| 40 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 13,422 | 4.50 | 655 |
-| 41 | [HITMAN World of Assassination](games/h/hitman_3.md) | 12,953 | 4.77 | 129 |
+| 40 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 13,434 | 4.50 | 655 |
+| 41 | [HITMAN World of Assassination](games/h/hitman_3.md) | 12,964 | 4.77 | 129 |
 | 42 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,941 | 4.36 | 894 |
 | 43 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 12,555 | 4.58 | 497 |
 | 44 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,379 | 4.69 | 261 |
@@ -157,19 +157,19 @@
 | 155 | [DOOM 64](games/d/doom_64.md) | 1,329 | 4.65 | 338 |
 | 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,317 | 4.48 | 696 |
 | 157 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,313 | 4.69 | 261 |
-| 158 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,295 | 4.46 | 726 |
+| 158 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,296 | 4.46 | 726 |
 | 159 | [Saints Row](games/s/saints_row.md) | 1,288 | 3.90 | 1,186 |
 | 160 | [EVE Online](games/e/eve_online.md) | 1,278 | 4.24 | 1,026 |
 | 161 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,243 | 4.53 | 607 |
-| 162 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,229 | 4.65 | 338 |
-| 163 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,227 | 4.81 | 88 |
+| 162 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,230 | 4.81 | 88 |
+| 163 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,229 | 4.65 | 338 |
 | 164 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 1,223 | 4.74 | 170 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,219 | 4.62 | 403 |
 | 166 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,205 | 4.69 | 261 |
 | 167 | [Brawlhalla](games/b/brawlhalla.md) | 1,166 | 4.58 | 497 |
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 1,165 | 4.75 | 155 |
 | 169 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,163 | 4.49 | 682 |
-| 170 | [Torchlight II](games/t/torchlight_ii.md) | 1,156 | 4.60 | 455 |
+| 170 | [Torchlight II](games/t/torchlight_ii.md) | 1,157 | 4.60 | 455 |
 | 171 | [Riders Republic](games/r/riders_republic.md) | 1,147 | 4.74 | 170 |
 | 172 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,145 | 4.61 | 423 |
 | 173 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,130 | 4.54 | 586 |
@@ -217,7 +217,7 @@
 | 215 | [Star Trek Online](games/s/star_trek_online.md) | 729 | 4.44 | 761 |
 | 216 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 728 | 4.79 | 105 |
 | 217 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 725 | 4.62 | 403 |
-| 218 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 720 | 4.71 | 215 |
+| 218 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 721 | 4.71 | 215 |
 | 219 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 717 | 4.34 | 923 |
 | 220 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 714 | 4.50 | 655 |
 | 221 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 706 | 4.69 | 261 |
@@ -395,10 +395,10 @@
 | 392 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 133 | 4.28 | 978 |
 | 394 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 130 | 4.21 | 1,058 |
 | 395 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 128 | 4.71 | 215 |
+| 395 | [Metalstorm](games/m/metalstorm.md) | 128 | 4.44 | 761 |
 | 395 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 128 | 4.79 | 105 |
-| 397 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 127 | 4.65 | 338 |
-| 397 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 127 | 4.50 | 655 |
-| 397 | [Metalstorm](games/m/metalstorm.md) | 127 | 4.44 | 761 |
+| 398 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 127 | 4.65 | 338 |
+| 398 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 127 | 4.50 | 655 |
 | 400 | [Tropico 6](games/t/tropico_6.md) | 126 | 4.65 | 338 |
 | 401 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 125 | 4.17 | 1,088 |
 | 402 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 121 | 4.24 | 1,026 |
