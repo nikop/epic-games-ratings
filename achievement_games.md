@@ -457,7 +457,7 @@
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 385,304 | 4.21 | 110 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 505 | 4.83 | 0 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 24 | - | 0 |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 504,742 | 4.40 | 440 |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 504,742 | 4.40 | 442 |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-28 | 32 (1,000 XP) | 45 | - | 0 |
 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 2023-09-28 | 28 (1,000 XP) | 633 | - | 0 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-09-28 | 14 (1,000 XP) | 128,035 | 4.38 | 0 |
@@ -1063,7 +1063,7 @@
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,307 | 4.43 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,663,690 | 4.65 | 1,229 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 170,378 | 4.47 | 24 |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 373 (5,500 XP) | 570,109 | 4.68 | 10,079 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 373 (5,500 XP) | 570,109 | 4.68 | 10,086 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 29,363 | 4.28 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 6,329 | 4.43 | 37 |
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 127,671 | 4.54 | 35 |
@@ -1157,6 +1157,6 @@
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,239 | 4.19 | 50 |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | 16 (1,000 XP) | 0 | - | - |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
-| [Football Manager 2022](games/f/football_manager_2022.md) | - | 98 (1,000 XP) | 484,386 | 4.80 | 6,566 |
+| [Football Manager 2022](games/f/football_manager_2022.md) | - | 98 (1,000 XP) | 484,386 | 4.80 | 6,568 |
 | [greensheen Production](games/g/greensheen_production.md) | - | 35 (1,000 XP) | 33 | - | - |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 34 | - | - |
