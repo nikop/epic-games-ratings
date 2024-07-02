@@ -2,7 +2,7 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 299,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 1088,
@@ -24501,10 +24501,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 1583467,
       "NumberOfAwardsMax": 346048
+    },
+    {
+      "Time": "2024-07-02T21:57:01.3558067+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1583740,
+      "NumberOfAwardsMax": 346048
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1583467,
+  "NumberOfAwards": 1583740,
   "NumberOfAwardsMax": 346048,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -24518,7 +24524,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 177125
+      "Count": 177256
     },
     {
       "Text": "This game has Diverse Characters",
@@ -24530,7 +24536,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 135412
+      "Count": 135458
     },
     {
       "Text": "This game is Extremely Fun",
@@ -24542,13 +24548,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 132851
+      "Count": 132898
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 131227
+      "Count": 131276
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -24586,8 +24592,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2024-07-02T18:00:56.3066947+00:00",
+  "LastChanged": "2024-07-02T21:57:01.3558066+00:00",
   "LastUpdate_AppInfo": "2024-06-30T20:57:24.5678205+00:00",
-  "LastUpdate_Ratings": "2024-07-02T19:59:17.4664716+00:00",
+  "LastUpdate_Ratings": "2024-07-02T21:57:01.3558071+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:37.1275722+00:00"
 }
