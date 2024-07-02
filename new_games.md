@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | - |  | - | - |
 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 2024-07-02 | - |  | - | - |
-| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | - |  | - | - |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | - |  | - | 0 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | - |  | - | - |
 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-02 | - |  | - | 0 |
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | - |  | - | - |
@@ -28,7 +28,6 @@
 | [PeakPals](games/1/14c946b79c9e4112a1dfe276fc0623df.md) | 2024-06-30 | - |  | - | - |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
-| [Rise Of Anupet](games/4/4362466173e7490d82c99991bbf2b80c.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
 | [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-06-30 | - |  | - | - |
 | [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-06-30 | - |  | - | 0 |
