@@ -2,7 +2,7 @@
   "ID": "88e8dde0de8f44bdb3580d73e36d4157",
   "Name": "Nightingale",
   "ProductSlug": "nightingale",
-  "Ranking_Rating": 978,
+  "Ranking_Rating": 979,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 1088,
@@ -1538,6 +1538,6 @@
   "LastChanged": "2024-06-30T22:00:23.1116034+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:20.1410233+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:27.4300089+00:00",
-  "LastUpdate_Ratings": "2024-07-02T16:58:56.1729872+00:00",
+  "LastUpdate_Ratings": "2024-07-02T18:01:43.4867902+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:20.1410257+00:00"
 }
