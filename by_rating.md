@@ -115,7 +115,7 @@
 | 105 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 1,006 | 186 |
 | 105 | [Melatonin](games/m/melatonin.md) | 4.79 | 0 | 662 |
 | 105 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,984 | 113 |
-| 105 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 453 | 258 |
+| 105 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 454 | 258 |
 | 105 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 136 | 387 |
 | 105 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 128 | 395 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.79 | 32 | 588 |
@@ -179,7 +179,7 @@
 | 170 | [Outlast](games/o/outlast.md) | 4.74 | 34 | 578 |
 | 170 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,147 | 171 |
 | 170 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 662 |
-| 170 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 56,561 | 14 |
+| 170 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 56,619 | 14 |
 | 170 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.74 | 0 | 662 |
 | 170 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 430 |
 | 170 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 115 | 411 |
@@ -1216,7 +1216,7 @@
 | 1,214 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.62 | 0 | 662 |
 | 1,215 | [Adios](games/a/adios.md) | 3.52 | 0 | 662 |
 | 1,216 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.48 | 174 | 364 |
-| 1,217 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.45 | 0 | 662 |
-| 1,218 | [fell in love with coser](games/e/e4088fe230d843c18e1d45c4109d2713.md) | 3.43 | 0 | 662 |
-| 1,218 | [Operation New Earth](games/o/operation_new_earth.md) | 3.43 | 0 | 662 |
+| 1,217 | [Operation New Earth](games/o/operation_new_earth.md) | 3.46 | 0 | 662 |
+| 1,218 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.45 | 0 | 662 |
+| 1,219 | [fell in love with coser](games/e/e4088fe230d843c18e1d45c4109d2713.md) | 3.43 | 0 | 662 |
 | 1,220 | [Survive on Raft](games/s/survive_on_raft.md) | 3.40 | 0 | 662 |
