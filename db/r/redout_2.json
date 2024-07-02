@@ -2,7 +2,7 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 562,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 662,
   "Ranking_PopularitySum": 662,
   "Ranking_EOS_Progress": 134,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2022-10-24T23:31:30.797446+00:00",
@@ -243,6 +243,12 @@
     {
       "Time": "2024-06-30T06:57:02.76506+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-02T18:58:05.1267913+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2034,9 +2040,9 @@
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
-  "LastChanged": "2024-06-30T06:57:02.7650598+00:00",
+  "LastChanged": "2024-07-02T18:58:05.1267911+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:38.9109048+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:37.6814044+00:00",
-  "LastUpdate_Ratings": "2024-07-02T16:59:46.5418781+00:00",
+  "LastUpdate_Ratings": "2024-07-02T18:58:05.1267916+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:38.9109512+00:00"
 }
