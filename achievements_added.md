@@ -53,7 +53,7 @@
 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 488,117 | 4.56 | 1,087 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | 7 (1,000 XP) | 262 | - | 0 |
 | [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2024-07-04 | 12 (1,000 XP) | 1 | - | - |
-| [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 2,420 | 4.25 | 0 |
+| [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 2,420 | 4.28 | 0 |
 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 2024-04-25 | 26 (1,000 XP) | 21 | - | 0 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | 50 (1,000 XP) | 1 | - | 0 |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | 23 (1,000 XP) | 0 | - | 0 |
@@ -109,7 +109,7 @@
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | 14 (1,000 XP) | 17 | - | 0 |
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | 33 (1,000 XP) | 0 | - | 0 |
 | [Sea of Dreams](games/a/a7414e60172b4759a136d064018119c1.md) | 2023-10-17 | 7 (1,000 XP) | 6 | - | 0 |
-| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 4.28 | 287 |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 4.28 | 288 |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 58,298 | 3.86 | 83 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 12 | - | 0 |
 | [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | 77 (1,000 XP) | 35 | - | 0 |
@@ -187,7 +187,7 @@
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | 2024-04-10 | 19 (1,000 XP) | 50 | - | 0 |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,253 | 4.57 | 147 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,253 | 4.57 | 148 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 35,596 | 4.65 | 659 |
 | [Project Element](games/a/a9c5d48f93f742d8b8225d21f23fe95b.md) | 2024-03-13 | 6 (1,000 XP) | 15 | - | - |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 12 | - | 0 |
@@ -629,7 +629,7 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-09-23 | 21 (1,000 XP) | 1 | - | - |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | 0 |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 60 (1,500 XP) | 384,042 | 4.70 | 9,937 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 60 (1,500 XP) | 384,042 | 4.70 | 9,942 |
 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 97 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 34 (1,100 XP) | 1 | - | - |

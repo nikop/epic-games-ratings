@@ -75,7 +75,7 @@
 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | 25 (1,000 XP) | 2 | - | - |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 15 | - | 0 |
 | [The Tribe Must Survive](games/5/50d794a4930c401f9f25e28ce7335db2.md) | 2024-05-23 | 30 (1,950 XP) | 34 | - | 0 |
-| [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 2,420 | 4.25 | 0 |
+| [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 2,420 | 4.28 | 0 |
 | [KLONOA Phantasy Reverie Series](games/7/7120b2046fd845578509f66420ffc251.md) | 2024-05-23 | 25 (1,000 XP) | 11 | - | 0 |
 | [We Love Katamari REROLL+ Royal Reverie](games/5/5c8529a62b4243469be68b08bd5c1bfa.md) | 2024-05-23 | 35 (1,000 XP) | 10 | - | 0 |
 | [Survival: Fountain of Youth](games/c/cb0f45bc17c84708bbbe08741f6ff2b8.md) | 2024-05-21 | 49 (1,000 XP) | 44 | - | 0 |
@@ -174,7 +174,7 @@
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 2,608 | 4.55 | 24 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | 41 (1,000 XP) | 437 | - | 0 |
-| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 4.28 | 287 |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 4.28 | 288 |
 | [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 2024-03-26 | 24 (1,000 XP) | 56 | - | 0 |
 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-03-26 | 34 (1,000 XP) | 2 | - | 0 |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 4,203 | - | 0 |
@@ -239,7 +239,7 @@
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 27 | - | 0 |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | 63 (1,000 XP) | 87 | - | 0 |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | 31 (1,000 XP) | 124 | - | 0 |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,253 | 4.57 | 147 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,253 | 4.57 | 148 |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 14 | - | 0 |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-08 | 26 (1,000 XP) | 12 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
@@ -574,7 +574,7 @@
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 35 (1,200 XP) | 21,402 | 4.50 | 0 |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 60 (1,500 XP) | 384,042 | 4.70 | 9,937 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 60 (1,500 XP) | 384,042 | 4.70 | 9,942 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | 12 (1,000 XP) | 28 | - | 0 |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
@@ -858,7 +858,7 @@
 | [IXION](games/i/ixion.md) | 2022-12-07 | 57 (1,050 XP) | 4,906 | 4.60 | 0 |
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,011 | 4.36 | 0 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,351 | 4.34 | 0 |
-| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,246,479 | 4.01 | 11,647 |
+| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,246,479 | 4.01 | 11,667 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 27,304 | 4.24 | 187 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 79,217 | - | - |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 396 | - | 0 |
@@ -1054,7 +1054,7 @@
 | [Saint Kotar](games/s/saint_kotar.md) | 2021-10-28 | 45 (1,000 XP) | 27 | - | 0 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 2021-10-28 | 14 (1,000 XP) | 29,012 | 4.20 | 0 |
 | [Aeon Must Die!](games/a/aeon_must_die!.md) | 2021-10-27 | 35 (1,000 XP) | 3,716 | - | 0 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 142,316 | 4.69 | 8,581 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 142,316 | 4.69 | 8,584 |
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 2021-10-21 | 10 (1,000 XP) | 112,062 | 4.28 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 241 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 173 | 4.30 | 0 |
@@ -1119,7 +1119,7 @@
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 8,851 | 4.65 | 126 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 102 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 503,157 | 4.44 | 289 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.65 | 8,386 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.66 | 8,386 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,373 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,061 | 4.66 | 2,013 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 169,727 |
@@ -1137,7 +1137,7 @@
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 30,056 | 4.84 | 237 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 70,050 | 4.68 | 60 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 1,501 | 4.63 | 35 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,296,266 | 4.78 | 11,280 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,296,266 | 4.78 | 11,285 |
 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2020-06-25 | 20 (1,000 XP) | 37,623 | 4.43 | 0 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 2,938 | 4.63 | 42 |
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 2,516 | 4.84 | 55 |
