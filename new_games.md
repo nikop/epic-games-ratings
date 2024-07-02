@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-02 | - |  | - | - |
+| [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | - |  | - | - |
+| [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-02 | - |  | - | 0 |
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | - |  | - | - |
 | [Astralium: Game Modes](games/6/6732880ea603405698daad12f6011d79.md) | 2024-07-01 | - |  | - | 0 |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | - |  | - | - |
@@ -40,7 +41,7 @@
 | [Populous 2: Trials of the Olympian Gods](games/0/015591a4181841a189687d0d3ba5ddf0.md) | 2024-06-27 | - |  | - | - |
 | [Chess Knights: Shinobi](games/3/3ca3fe1ee37a4dbf90f1b242c3c30bee.md) | 2024-06-27 | - |  | - | - |
 | [HexON](games/5/5b95b193df59499886544e610dc871e5.md) | 2024-06-27 | - |  | - | 0 |
-| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | - |  | 4.26 | 0 |
+| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | - |  | 4.24 | 0 |
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-27 | - |  | - | 0 |
 | [Space Wolf](games/6/67b63764a0ad4f9a86559d8b798ef25e.md) | 2024-06-27 | - |  | - | - |
 | [The Adventures of Prince Shiratama ~Climb the mountains~](games/4/4334a911c46b4816b3d6580f5dd03fab.md) | 2024-06-26 | - |  | - | 0 |
@@ -58,7 +59,7 @@
 | [Victory At Sea Atlantic: Epic Naval Battles in World War II](games/c/c874163240834be29b22bab140ff81c8.md) | 2024-06-21 | - |  | - | - |
 | [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-06-21 | 17 (1,000 XP) | 1 | - | - |
 | [Immortal Life](games/b/b0de0a1fbe94491f9405ee6f825f3dd9.md) | 2024-06-21 | 72 (1,000 XP) | 1 | - | 0 |
-| [The ultimate Math teaching game](games/0/053a26c9d1ee495e95ce70c65222d024.md) | 2024-06-20 | - |  | - | - |
+| [The ultimate Math teaching game](games/0/053a26c9d1ee495e95ce70c65222d024.md) | 2024-06-20 | - |  | - | 0 |
 | [Sift Heads Cartels](games/d/d90b9faabef34675acb0e84ff671ebce.md) | 2024-06-20 | - |  | - | - |
 | [Workers & Resources: Soviet Republic](games/f/f5fdb08368b845aa9c27df5cb6995a24.md) | 2024-06-20 | - |  | - | 0 |
 | [Everafter Falls](games/b/bb5dabc784164e62ac3e96858de000bf.md) | 2024-06-20 | - |  | - | 0 |
