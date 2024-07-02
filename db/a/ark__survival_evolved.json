@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 1088,
@@ -23874,10 +23874,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 299929,
       "NumberOfAwardsMax": 70293
+    },
+    {
+      "Time": "2024-07-02T01:53:47.6821445+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 299961,
+      "NumberOfAwardsMax": 70293
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 299929,
+  "NumberOfAwards": 299961,
   "NumberOfAwardsMax": 70293,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -23891,13 +23897,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 24485
+      "Count": 24492
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24105
+      "Count": 24115
     },
     {
       "Text": "This game is Extremely Fun",
@@ -23909,7 +23915,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 23213
+      "Count": 23218
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -23927,7 +23933,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 21607
+      "Count": 21612
     },
     {
       "Text": "This game has Amazing Characters",
@@ -23939,7 +23945,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 21403
+      "Count": 21408
     },
     {
       "Text": "This game has Diverse Characters",
@@ -23965,8 +23971,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-07-01T16:58:18.4094465+00:00",
+  "LastChanged": "2024-07-02T01:53:47.6821444+00:00",
   "LastUpdate_AppInfo": "2024-06-30T23:57:01.4593695+00:00",
-  "LastUpdate_Ratings": "2024-07-01T22:59:38.5911029+00:00",
+  "LastUpdate_Ratings": "2024-07-02T01:53:47.6821449+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:19.4284414+00:00"
 }
