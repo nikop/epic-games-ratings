@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | - |  | - | - |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | - |  | - | - |
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | - |  | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | - |  | - | - |
@@ -12,6 +13,7 @@
 | [Lifeless Moon](games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 2024-07-09 | - |  | - | - |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | - |  | - | - |
 | [Megapolis](games/b/bb41e07f50464edb958e13c6531fe78c.md) | 2024-07-15 | - |  | - | - |
+| [Dungeons of Hinterberg](games/e/e42faa3ca424411db871181e13664ef3.md) | 2024-07-18 | - |  | - | - |
 | [Flintlock: The Siege of Dawn](games/f/flintlock_-_the_siege_of_dawn.md) | 2024-07-18 | - |  | - | - |
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | - |  | - | - |
 | [The Star Named EOS](games/7/7ce9f498f68c49cb82f60e04335d917f.md) | 2024-07-23 | - |  | - | - |
