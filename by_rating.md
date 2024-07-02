@@ -3,7 +3,7 @@
 | 1 | [Tinykin](games/t/tinykin.md) | 4.95 | 0 | 662 |
 | 2 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.94 | 0 | 662 |
 | 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 662 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,978 | 101 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,983 | 101 |
 | 5 | [Celeste](games/c/celeste.md) | 4.91 | 2,063 | 132 |
 | 5 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 662 |
 | 7 | [Hades II](games/h/hades_ii.md) | 4.90 | 110 | 417 |
@@ -306,7 +306,7 @@
 | 299 | [Fuga: Melodies of Steel](games/f/fuga__melodies_of_steel.md) | 4.67 | 0 | 662 |
 | 299 | [Genshin Impact](games/g/genshin_impact.md) | 4.67 | 345,896 | 4 |
 | 299 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 662 |
-| 299 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,398 | 120 |
+| 299 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,400 | 120 |
 | 299 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 775 | 208 |
 | 299 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.67 | 42 | 548 |
 | 299 | [Pikuniku](games/p/pikuniku.md) | 4.67 | 0 | 662 |
@@ -406,7 +406,7 @@
 | 403 | [Darkwood](games/d/darkwood.md) | 4.62 | 339 | 286 |
 | 403 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.62 | 2,499 | 119 |
 | 403 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 236 | 325 |
-| 403 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.62 | 11,088 | 50 |
+| 403 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.62 | 11,195 | 50 |
 | 403 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.62 | 0 | 662 |
 | 403 | [GRIT](games/g/grit.md) | 4.62 | 0 | 662 |
 | 403 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 0 | 662 |
@@ -446,7 +446,7 @@
 | 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,901 | 66 |
 | 423 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 635 | 228 |
 | 423 | [Tails of Iron](games/t/tails_of_iron.md) | 4.61 | 22 | 643 |
-| 423 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 759 | 211 |
+| 423 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 760 | 211 |
 | 423 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 7,049 | 71 |
 | 423 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 465 |
 | 423 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 444 | 260 |
