@@ -473,7 +473,6 @@
 | [MetaDOS](games/c/c93d58631e5841a89a75dd2dce81add9.md) | 2099-01-01 | - |  | - | - |
 | [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | - |  | - | - |
 | [Mimic](games/2/2483b3cc6cc0474eadf938933d0b5929.md) | 2099-01-01 | - |  | - | - |
-| [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2099-01-01 | - |  | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Moon Village Simulator](games/m/moon_village_simulator.md) | 2099-01-01 | - |  | - | - |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |

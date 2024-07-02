@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Astralium: Game Modes](games/6/6732880ea603405698daad12f6011d79.md) | 2024-07-01 | - |  | - | - |
+| [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | - |  | - | - |
+| [Astralium: Game Modes](games/6/6732880ea603405698daad12f6011d79.md) | 2024-07-01 | - |  | - | 0 |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | - |  | - | - |
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | - | 0 |
 | [Ascent of Ashes](games/a/a2cbb09ffa5d49aab9b00a2607be7508.md) | 2024-06-30 | - |  | - | - |
@@ -38,7 +39,7 @@
 | [Populous 2: Trials of the Olympian Gods](games/0/015591a4181841a189687d0d3ba5ddf0.md) | 2024-06-27 | - |  | - | - |
 | [Chess Knights: Shinobi](games/3/3ca3fe1ee37a4dbf90f1b242c3c30bee.md) | 2024-06-27 | - |  | - | - |
 | [HexON](games/5/5b95b193df59499886544e610dc871e5.md) | 2024-06-27 | - |  | - | 0 |
-| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | - |  | 4.23 | 0 |
+| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | - |  | 4.26 | 0 |
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-27 | - |  | - | 0 |
 | [Space Wolf](games/6/67b63764a0ad4f9a86559d8b798ef25e.md) | 2024-06-27 | - |  | - | - |
 | [The Adventures of Prince Shiratama ~Climb the mountains~](games/4/4334a911c46b4816b3d6580f5dd03fab.md) | 2024-06-26 | - |  | - | 0 |

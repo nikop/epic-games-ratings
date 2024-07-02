@@ -61,7 +61,7 @@
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-09-30 | - |  | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
-| [Astralium: Game Modes](games/6/6732880ea603405698daad12f6011d79.md) | 2024-07-01 | - |  | - | - |
+| [Astralium: Game Modes](games/6/6732880ea603405698daad12f6011d79.md) | 2024-07-01 | - |  | - | 0 |
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | - | 0 |
 | [ChronoForge](games/3/3347fc952acb48f1a4cbd0896e1316dc.md) | 2024-06-30 | - |  | - | 0 |
 | [CryptoBall](games/5/539a43c4910f41ae851d7acc184c92f1.md) | 2024-06-30 | - |  | - | - |
@@ -112,7 +112,7 @@
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | 4.42 | 89 |
-| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.74 | 1,190 |
+| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.74 | 1,223 |
 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 2023-11-21 | - |  | 4.49 | 0 |
 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 2023-11-15 | - |  | 4.25 | 0 |
 | [Meta Lordz](games/6/63d008723df74b828d6916c39b26052d.md) | 2023-11-06 | - |  | - | 0 |
