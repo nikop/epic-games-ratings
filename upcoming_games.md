@@ -2,6 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | - |  | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | - |  | - | - |
+| [Spirit Castor: A Father's Trust (Chapter 1)](games/f/f1a5e1489de54426ba36cf0bbae2bd62.md) | 2024-07-04 | - |  | - | - |
 | [The Oregon Trail](games/1/1d6775ba73a54669817f482fb89f9dae.md) | 2024-07-04 | - |  | - | - |
 | [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2024-07-04 | 12 (1,000 XP) | 1 | - | - |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
@@ -180,7 +181,6 @@
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2024-12-31 | - |  | - | - |
 | [Soliloquy](games/s/soliloquy.md) | 2024-12-31 | - |  | - | - |
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2024-12-31 | - |  | - | - |
-| [Spirit Castor: A Father's Trust (Chapter 1)](games/f/f1a5e1489de54426ba36cf0bbae2bd62.md) | 2024-12-31 | - |  | - | - |
 | [Star Vortex](games/f/f752f0d1dba941d1934cfdb69c8e944d.md) | 2024-12-31 | - |  | - | - |
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-12-31 | - |  | - | - |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2024-12-31 | - |  | - | - |
