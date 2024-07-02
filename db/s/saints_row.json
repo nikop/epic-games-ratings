@@ -4,7 +4,7 @@
   "ProductSlug": "saints-row",
   "Ranking_Rating": 1186,
   "Ranking_Popularity": 159,
-  "Ranking_PopularitySum": 113,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 468,
   "Ranking_EOS_NewPlayers": 18,
@@ -8125,11 +8125,17 @@
       "Rating": 3.9,
       "NumberOfAwards": 10370,
       "NumberOfAwardsMax": 1288
+    },
+    {
+      "Time": "2024-07-02T13:02:50.9195793+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 10373,
+      "NumberOfAwardsMax": 1291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10370,
-  "NumberOfAwardsMax": 1288,
+  "NumberOfAwards": 10373,
+  "NumberOfAwardsMax": 1291,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8160,7 +8166,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1288
+      "Count": 1291
     },
     {
       "Text": "This game is Highly Recommended",
@@ -40965,9 +40971,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-07-02T05:58:51.3813607+00:00",
+  "LastChanged": "2024-07-02T13:02:50.9195792+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:27.0962376+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:01:50.4271801+00:00",
-  "LastUpdate_Ratings": "2024-07-02T10:58:57.5602915+00:00",
+  "LastUpdate_Ratings": "2024-07-02T13:02:50.91958+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:27.0963848+00:00"
 }
