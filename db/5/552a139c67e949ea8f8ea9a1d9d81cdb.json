@@ -2,7 +2,7 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_Rating": 97,
+  "Ranking_Rating": 143,
   "Ranking_Popularity": 662,
   "Ranking_PopularitySum": 662,
   "Ranking_EOS_Progress": 292,
@@ -20,11 +20,17 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2024-06-26T21:57:21.9384995+00:00",
       "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-02T22:58:08.7779377+00:00",
+      "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5722,9 +5728,9 @@
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenRating": "2024-06-26T21:57:21.9384993+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged": "2024-06-26T21:57:21.9384994+00:00",
+  "LastChanged": "2024-07-02T22:58:08.7779375+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:24.3688675+00:00",
   "LastUpdate_AppInfo": "2024-06-27T20:57:08.8587375+00:00",
-  "LastUpdate_Ratings": "2024-07-02T20:59:24.3690651+00:00",
+  "LastUpdate_Ratings": "2024-07-02T22:58:08.7779379+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:24.3689399+00:00"
 }

@@ -1,7 +1,7 @@
 # Model Builder: Complete Edition
 [Store](https://store.epicgames.com/en-US/p/model-builder-complete-edition-f9b456)  
 [View Rawdata](../../db/m/model_builder.json)  
-Rating: 4.16 (Ranked 1,094)  
+Rating: 4.15 (Ranked 1,100)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -135,3 +135,4 @@ Completed: 0 (0.00%) (Ranked 510)
 | 2024-06-21 | 4.16 | 0 | 0 |
 | 2024-06-23 | 4.15 | 0 | 0 |
 | 2024-06-25 | 4.16 | 0 | 0 |
+| 2024-07-02 | 4.15 | 0 | 0 |
