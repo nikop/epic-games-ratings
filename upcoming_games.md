@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | - |  | - | - |
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | - |  | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | - |  | - | - |
 | [The Oregon Trail](games/1/1d6775ba73a54669817f482fb89f9dae.md) | 2024-07-04 | - |  | - | - |
@@ -10,6 +9,7 @@
 | [Townopolis](games/3/3220b39e314b4d10ad1dbb2a3491b051.md) | 2024-07-05 | - |  | - | - |
 | [Maisa: Galactic Bounty Hunter](games/1/15e3c5fe82e84c31b49eeb842b4fa001.md) | 2024-07-08 | - |  | - | - |
 | [Lifeless Moon](games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 2024-07-09 | - |  | - | - |
+| [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | - | - |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | - |  | - | - |
 | [Megapolis](games/b/bb41e07f50464edb958e13c6531fe78c.md) | 2024-07-15 | - |  | - | - |
 | [Dungeons of Hinterberg](games/e/e42faa3ca424411db871181e13664ef3.md) | 2024-07-18 | - |  | - | - |
@@ -500,7 +500,6 @@
 | [Outbreak Shades of Horror](games/3/33bf9c7afae24966967cc5e9b824e57d.md) | 2099-01-01 | - |  | - | - |
 | [Outfield](games/d/d912830b83244452b6c93ef123b3f45f.md) | 2099-01-01 | - |  | - | - |
 | [Ova Magica](games/o/ova_magica.md) | 2099-01-01 | - |  | - | - |
-| [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2099-01-01 | - |  | - | - |
 | [PACK MY STUFF](games/d/d71669b3eabc4ca3869613ccaf16bdd8.md) | 2099-01-01 | - |  | - | - |
 | [Pantomime](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2099-01-01 | - |  | - | - |
 | [Paperplanes](games/p/paperplanes.md) | 2099-01-01 | - |  | - | - |
