@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 177,
@@ -11257,24 +11257,30 @@
       "Rating": 4.57,
       "NumberOfAwards": 14631,
       "NumberOfAwardsMax": 4155
+    },
+    {
+      "Time": "2024-07-03T10:57:38.6690748+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 14646,
+      "NumberOfAwardsMax": 4164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14631,
-  "NumberOfAwardsMax": 4155,
+  "NumberOfAwards": 14646,
+  "NumberOfAwardsMax": 4164,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4155
+      "Count": 4164
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 927
+      "Count": 931
     },
     {
       "Text": "This game has Competitive Players",
@@ -11310,7 +11316,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1004
+      "Count": 1006
     },
     {
       "Text": "This game is Highly Recommended",
@@ -24205,9 +24211,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-07-03T08:58:27.4249931+00:00",
+  "LastChanged": "2024-07-03T10:57:38.6690748+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:39.338787+00:00",
   "LastUpdate_AppInfo": "2024-06-30T11:57:29.1960663+00:00",
-  "LastUpdate_Ratings": "2024-07-03T08:58:27.4249937+00:00",
+  "LastUpdate_Ratings": "2024-07-03T10:57:38.6690755+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:39.3388743+00:00"
 }
