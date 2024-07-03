@@ -25,7 +25,7 @@
 | 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 335,148 | 5 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,360 | 26 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 632 |
-| 18 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 752 | 212 |
+| 18 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 757 | 212 |
 | 18 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 662 |
 | 18 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.87 | 0 | 662 |
 | 29 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 154 | 376 |
@@ -130,7 +130,7 @@
 | 128 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.77 | 28 | 607 |
 | 128 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 13,525 | 39 |
 | 128 | [Dishonored 2](games/d/dishonored_2.md) | 4.77 | 1,084 | 178 |
-| 128 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,964 | 41 |
+| 128 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.77 | 12,976 | 41 |
 | 128 | [Journey](games/j/journey.md) | 4.77 | 0 | 662 |
 | 128 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.77 | 0 | 662 |
 | 128 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 662 |
@@ -148,7 +148,7 @@
 | 143 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 4.76 | 0 | 662 |
 | 143 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 662 |
 | 143 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.76 | 2,671 | 116 |
-| 143 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,686 | 115 |
+| 143 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,688 | 115 |
 | 143 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,862 | 139 |
 | 143 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 31 | 595 |
 | 143 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 662 |
@@ -509,7 +509,7 @@
 | 498 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 44 | 543 |
 | 498 | [Hue](games/h/hue.md) | 4.58 | 0 | 662 |
 | 498 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 43 | 546 |
-| 498 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 4.58 | 86 | 457 |
+| 498 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 4.58 | 87 | 456 |
 | 498 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 27 | 615 |
 | 498 | [Moving Out](games/m/moving_out.md) | 4.58 | 23 | 638 |
 | 498 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 12,561 | 43 |
@@ -720,7 +720,7 @@
 | 714 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 166 | 368 |
 | 714 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,713 | 103 |
 | 714 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 662 |
-| 714 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 4,277 | 98 |
+| 714 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 4,285 | 98 |
 | 714 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.47 | 0 | 662 |
 | 714 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 662 |
 | 714 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.47 | 0 | 662 |
@@ -791,7 +791,7 @@
 | 786 | [Blood of Titans](games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 4.43 | 0 | 662 |
 | 786 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 280 | 307 |
 | 786 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 662 |
-| 786 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 86 | 457 |
+| 786 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 86 | 458 |
 | 786 | [ELEX](games/e/elex.md) | 4.43 | 29 | 605 |
 | 786 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 662 |
 | 786 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.43 | 20 | 654 |
@@ -1117,7 +1117,7 @@
 | 1,114 | [Lake](games/l/lake.md) | 4.13 | 0 | 662 |
 | 1,114 | [Relicta](games/r/relicta.md) | 4.13 | 207 | 338 |
 | 1,114 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.13 | 0 | 662 |
-| 1,114 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 3,009 | 112 |
+| 1,114 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.13 | 3,014 | 112 |
 | 1,119 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 662 |
 | 1,119 | [Cursed to Golf](games/c/cursed_to_golf.md) | 4.12 | 24 | 632 |
 | 1,121 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 662 |
