@@ -320,8 +320,8 @@ Completed: 586 (0.32%) (Ranked 321)
 | 2024-06-17 | 181,547 | 586 |
 ## Awards
 Max (Challenging Combat): 90  (Ranked 451)  
-Sum: 651 (Ranked 362)  
-Diff (max vs sum): 89  
+Sum: 651 (Ranked 363)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 90 |

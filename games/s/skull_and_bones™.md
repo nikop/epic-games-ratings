@@ -3,12 +3,12 @@
 [View Rawdata](../../db/s/skull_and_bones™.json)  
 Rating: 4.13 (Ranked 1,114)  
 ## Awards
-Max (Great Boss Battles): 3,009  (Ranked 112)  
-Sum: 6,669 (Ranked 147)  
+Max (Great Boss Battles): 3,014  (Ranked 112)  
+Sum: 6,674 (Ranked 147)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,009 |
+| This game has Great Boss Battles | 3,014 |
 | This game is Great for Beginners | 787 |
 | This game is Extremely Fun | 730 |
 | This game is Highly Recommended | 717 |
@@ -157,3 +157,4 @@ Diff (max vs sum): -35
 | 2024-06-30 | 4.13 | 3,005 | 6,653 |
 | 2024-07-01 | 4.13 | 3,009 | 6,662 |
 | 2024-07-02 | 4.13 | 3,009 | 6,669 |
+| 2024-07-03 | 4.13 | 3,014 | 6,674 |
