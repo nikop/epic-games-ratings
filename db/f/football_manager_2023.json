@@ -13577,10 +13577,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 11469,
       "NumberOfAwardsMax": 1777
+    },
+    {
+      "Time": "2024-07-03T14:59:51.2369329+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11475,
+      "NumberOfAwardsMax": 1777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11469,
+  "NumberOfAwards": 11475,
   "NumberOfAwardsMax": 1777,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13588,7 +13594,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 953
+      "Count": 954
     },
     {
       "Text": "This game is Relaxing",
@@ -13600,7 +13606,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1350
+      "Count": 1351
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13612,7 +13618,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1308
+      "Count": 1310
     },
     {
       "Text": "This game has Competitive Players",
@@ -13642,7 +13648,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1141
+      "Count": 1143
     },
     {
       "Text": "This game has a Competitive Community",
@@ -46519,9 +46525,9 @@
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
-  "LastChanged": "2024-07-03T02:28:40.9780315+00:00",
+  "LastChanged": "2024-07-03T14:59:51.2369327+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:37.3105658+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:23.3609148+00:00",
-  "LastUpdate_Ratings": "2024-07-03T13:58:05.6500129+00:00",
+  "LastUpdate_Ratings": "2024-07-03T14:59:51.2369335+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:37.3107717+00:00"
 }
