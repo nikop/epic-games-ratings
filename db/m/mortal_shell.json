@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-shell",
   "Ranking_Rating": 1016,
   "Ranking_Popularity": 615,
-  "Ranking_PopularitySum": 508,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -883,10 +883,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 143,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-07-03T02:57:59.9521802+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143,
+  "NumberOfAwards": 144,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -900,7 +906,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -944,8 +950,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2024-06-16T17:58:30.7809916+00:00",
+  "LastChanged": "2024-07-03T02:57:59.95218+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:03:16.0662771+00:00",
-  "LastUpdate_Ratings": "2024-07-03T01:52:37.9794784+00:00",
+  "LastUpdate_Ratings": "2024-07-03T02:57:59.9521805+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:10:32.4721481+00:00"
 }
