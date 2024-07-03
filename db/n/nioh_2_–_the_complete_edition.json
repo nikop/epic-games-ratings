@@ -2,7 +2,7 @@
   "ID": "6acf92329bc449068201ee9a3f399a13",
   "Name": "Nioh 2 \u2013 The Complete Edition",
   "ProductSlug": "nioh-2-the-complete-edition",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 105,
   "Ranking_Popularity": 113,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 1088,
@@ -7970,10 +7970,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 8623,
       "NumberOfAwardsMax": 2986
+    },
+    {
+      "Time": "2024-07-03T20:00:59.472966+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 8624,
+      "NumberOfAwardsMax": 2986
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8623,
+  "NumberOfAwards": 8624,
   "NumberOfAwardsMax": 2986,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8011,7 +8017,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 555
+      "Count": 556
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8061,8 +8067,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2024-07-03T01:51:54.4824494+00:00",
+  "LastChanged": "2024-07-03T20:00:59.4729659+00:00",
   "LastUpdate_AppInfo": "2024-06-30T11:57:29.6934258+00:00",
-  "LastUpdate_Ratings": "2024-07-03T18:57:48.2197901+00:00",
+  "LastUpdate_Ratings": "2024-07-03T20:00:59.4729665+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:16.1209443+00:00"
 }
