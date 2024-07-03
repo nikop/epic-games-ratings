@@ -4,7 +4,7 @@
   "ProductSlug": "skyrim",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 134,
-  "Ranking_PopularitySum": 166,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -7069,10 +7069,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 4817,
       "NumberOfAwardsMax": 2049
+    },
+    {
+      "Time": "2024-07-03T23:00:10.8874018+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 4818,
+      "NumberOfAwardsMax": 2049
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4817,
+  "NumberOfAwards": 4818,
   "NumberOfAwardsMax": 2049,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7086,7 +7092,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 246
+      "Count": 247
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7149,8 +7155,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2024-07-03T16:58:47.2028975+00:00",
+  "LastChanged": "2024-07-03T23:00:10.8874014+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:43.0428976+00:00",
-  "LastUpdate_Ratings": "2024-07-03T21:57:54.0442875+00:00",
+  "LastUpdate_Ratings": "2024-07-03T23:00:10.8874021+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:22.5928377+00:00"
 }
