@@ -322,13 +322,13 @@ Completed: 7 (0.00%) (Ranked 510)
 | 2024-06-17 | 239,919 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 595)  
-Sum: 102 (Ranked 537)  
-Diff (max vs sum): 58  
+Sum: 103 (Ranked 535)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |
 | This game has Diverse Characters | 30 |
-| This game has Challenging Combat | 21 |
+| This game has Challenging Combat | 22 |
 | This game has a Kind Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -412,3 +412,4 @@ Diff (max vs sum): 58
 | 2024-06-07 | 4.59 | 31 | 100 |
 | 2024-06-12 | 4.59 | 31 | 101 |
 | 2024-06-15 | 4.59 | 31 | 102 |
+| 2024-07-03 | 4.59 | 31 | 103 |
