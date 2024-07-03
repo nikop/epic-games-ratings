@@ -2,8 +2,8 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 825,
-  "Ranking_Popularity": 450,
+  "Ranking_Rating": 826,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
@@ -1319,12 +1319,18 @@
       "Rating": 4.41,
       "NumberOfAwards": 699,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2024-07-03T05:57:13.0776438+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 704,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 699,
-  "NumberOfAwardsMax": 90,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 704,
+  "NumberOfAwardsMax": 92,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
@@ -1360,7 +1366,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 89
+      "Count": 92
     },
     {
       "Text": "This game has Competitive Players",
@@ -1390,7 +1396,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 64
+      "Count": 66
     },
     {
       "Text": "This game is Relaxing",
@@ -1417,8 +1423,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-07-03T01:50:59.8134729+00:00",
+  "LastChanged": "2024-07-03T05:57:13.0776436+00:00",
   "LastUpdate_AppInfo": "2024-06-30T15:57:09.8266967+00:00",
-  "LastUpdate_Ratings": "2024-07-03T03:59:01.2890412+00:00",
+  "LastUpdate_Ratings": "2024-07-03T05:57:13.0776444+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:35.4478422+00:00"
 }
