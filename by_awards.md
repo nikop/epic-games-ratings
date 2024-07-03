@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,683,466 | 4.29 | 970 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 872,718 | 4.44 | 762 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 873,350 | 4.44 | 762 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 399,022 | 4.68 | 284 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 346,048 | 4.67 | 301 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 335,148 | 4.87 | 18 |
@@ -13,7 +13,7 @@
 | 11 | [Destiny 2](games/d/destiny_2.md) | 81,197 | 4.44 | 762 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 70,318 | 4.58 | 498 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 63,757 | 4.61 | 424 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 56,619 | 4.74 | 170 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 56,669 | 4.74 | 170 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 55,755 | 4.72 | 206 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 48,940 | 4.50 | 656 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 40,311 | 4.74 | 170 |
@@ -65,7 +65,7 @@
 | 63 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,491 | 4.71 | 215 |
 | 64 | [Cities: Skylines](games/c/cities__skylines.md) | 8,397 | 4.65 | 339 |
 | 65 | [Sifu](games/s/sifu.md) | 8,020 | 4.82 | 76 |
-| 66 | [Supraland](games/s/supraland.md) | 7,901 | 4.61 | 424 |
+| 66 | [Supraland](games/s/supraland.md) | 7,904 | 4.61 | 424 |
 | 67 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,769 | 4.75 | 155 |
 | 68 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 7,702 | 4.44 | 762 |
 | 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,454 | 4.83 | 63 |
@@ -159,7 +159,7 @@
 | 157 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,313 | 4.69 | 261 |
 | 158 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,296 | 4.46 | 728 |
 | 159 | [Saints Row](games/s/saints_row.md) | 1,291 | 3.90 | 1,188 |
-| 160 | [EVE Online](games/e/eve_online.md) | 1,278 | 4.24 | 1,029 |
+| 160 | [EVE Online](games/e/eve_online.md) | 1,279 | 4.24 | 1,029 |
 | 161 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 1,266 | 4.74 | 170 |
 | 162 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,244 | 4.53 | 608 |
 | 163 | [Alan Wake 2](games/a/alan_wake_2.md) | 1,230 | 4.81 | 88 |
@@ -267,7 +267,7 @@
 | 265 | [Dead Cells](games/d/dead_cells.md) | 432 | 4.84 | 49 |
 | 266 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 425 | 4.53 | 608 |
 | 267 | [Railway Empire](games/r/railway_empire.md) | 411 | 4.51 | 639 |
-| 268 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 407 | 4.72 | 206 |
+| 268 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 408 | 4.72 | 206 |
 | 269 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 401 | 4.43 | 786 |
 | 270 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 400 | 4.38 | 873 |
 | 271 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 395 | 4.55 | 563 |
@@ -490,9 +490,9 @@
 | 488 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 66 | 4.69 | 261 |
 | 488 | [Heavy Rain](games/h/heavy_rain.md) | 66 | 4.59 | 476 |
 | 488 | [In Sound Mind](games/i/in_sound_mind.md) | 66 | 4.61 | 424 |
+| 488 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 66 | 4.82 | 76 |
 | 488 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 66 | 4.65 | 339 |
-| 492 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 65 | 4.31 | 953 |
-| 492 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 65 | 4.82 | 76 |
+| 493 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 65 | 4.31 | 953 |
 | 494 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 64 | 4.35 | 909 |
 | 495 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 63 | 4.79 | 104 |
 | 495 | [Obduction](games/o/obduction.md) | 63 | 4.07 | 1,139 |
@@ -512,14 +512,14 @@
 | 510 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 57 | 4.46 | 728 |
 | 510 | [Voidtrain](games/v/voidtrain.md) | 57 | 4.50 | 656 |
 | 512 | [Crosshair V2](games/4/4de5e06a60314c12ada34d918e65cfda.md) | 56 | 4.39 | 862 |
+| 512 | [Northgard](games/n/northgard.md) | 56 | 4.62 | 404 |
 | 512 | [STG Football](games/s/stg_football.md) | 56 | 4.44 | 762 |
-| 514 | [AXIOM VERGE](games/a/axiom_verge.md) | 55 | 4.57 | 525 |
-| 514 | [Desperados III](games/d/desperados_iii.md) | 55 | 4.84 | 49 |
-| 514 | [Expeditions: Rome](games/e/expeditions__rome.md) | 55 | 4.69 | 261 |
-| 514 | [Northgard](games/n/northgard.md) | 55 | 4.62 | 404 |
-| 514 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 55 | 4.29 | 970 |
-| 514 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 55 | 4.36 | 895 |
-| 514 | [Warpips](games/w/warpips.md) | 55 | 4.43 | 786 |
+| 515 | [AXIOM VERGE](games/a/axiom_verge.md) | 55 | 4.57 | 525 |
+| 515 | [Desperados III](games/d/desperados_iii.md) | 55 | 4.84 | 49 |
+| 515 | [Expeditions: Rome](games/e/expeditions__rome.md) | 55 | 4.69 | 261 |
+| 515 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 55 | 4.29 | 970 |
+| 515 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 55 | 4.36 | 895 |
+| 515 | [Warpips](games/w/warpips.md) | 55 | 4.43 | 786 |
 | 521 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 54 | 4.56 | 546 |
 | 521 | [Transport Fever 2](games/t/transport_fever_2.md) | 54 | 4.67 | 301 |
 | 523 | [Quake](games/q/quake.md) | 53 | 4.78 | 119 |
