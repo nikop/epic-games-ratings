@@ -4,7 +4,7 @@
   "ProductSlug": "borderlands-the-pre-sequel",
   "Ranking_Rating": 639,
   "Ranking_Popularity": 245,
-  "Ranking_PopularitySum": 192,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -5883,10 +5883,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 3516,
       "NumberOfAwardsMax": 523
+    },
+    {
+      "Time": "2024-07-03T12:01:01.6753876+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 3518,
+      "NumberOfAwardsMax": 523
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3516,
+  "NumberOfAwards": 3518,
   "NumberOfAwardsMax": 523,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5936,7 +5942,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 384
+      "Count": 386
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5962,8 +5968,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2024-07-02T21:58:05.50246+00:00",
+  "LastChanged": "2024-07-03T12:01:01.6753874+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:37.0072817+00:00",
-  "LastUpdate_Ratings": "2024-07-03T10:57:50.9411123+00:00",
+  "LastUpdate_Ratings": "2024-07-03T12:01:01.675388+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:27.388445+00:00"
 }
