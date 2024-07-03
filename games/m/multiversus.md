@@ -1,7 +1,7 @@
 # MultiVersus
 [Store](https://store.epicgames.com/en-US/p/multiversus)  
 [View Rawdata](../../db/m/multiversus.json)  
-Rating: 4.55 (Ranked 562)  
+Rating: 4.55 (Ranked 563)  
 Number of Ratings: 55,748  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
