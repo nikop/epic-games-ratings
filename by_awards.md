@@ -12,7 +12,7 @@
 | 10 | [VALORANT](games/v/valorant.md) | 126,134 | 4.50 | 655 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 81,197 | 4.44 | 761 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 70,318 | 4.58 | 497 |
-| 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 63,722 | 4.61 | 423 |
+| 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 63,757 | 4.61 | 423 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 56,619 | 4.74 | 170 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 55,755 | 4.72 | 206 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 48,940 | 4.50 | 655 |
@@ -129,7 +129,7 @@
 | 127 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,168 | 4.63 | 385 |
 | 128 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,153 | 4.89 | 11 |
 | 129 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,114 | 4.69 | 261 |
-| 130 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,111 | 4.50 | 655 |
+| 130 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,112 | 4.50 | 655 |
 | 131 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,099 | 4.49 | 682 |
 | 132 | [Celeste](games/c/celeste.md) | 2,064 | 4.91 | 5 |
 | 133 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2,051 | 4.42 | 807 |
@@ -188,8 +188,8 @@
 | 186 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 1,006 | 4.79 | 104 |
 | 187 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 1,001 | 4.60 | 455 |
 | 188 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 1,000 | 4.22 | 1,048 |
-| 189 | [Auto Chess](games/a/auto_chess.md) | 978 | 4.49 | 682 |
-| 190 | [Frostpunk](games/f/frostpunk.md) | 977 | 4.75 | 155 |
+| 189 | [Frostpunk](games/f/frostpunk.md) | 979 | 4.75 | 155 |
+| 190 | [Auto Chess](games/a/auto_chess.md) | 978 | 4.49 | 682 |
 | 191 | [The Long Dark](games/t/the_long_dark.md) | 974 | 4.73 | 190 |
 | 192 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 968 | 4.60 | 455 |
 | 193 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 949 | 4.69 | 261 |
@@ -348,10 +348,10 @@
 | 346 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 198 | 4.66 | 321 |
 | 346 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 198 | 4.63 | 385 |
 | 348 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 196 | 4.42 | 807 |
-| 349 | [Mothergunship](games/m/mothergunship.md) | 188 | 4.38 | 871 |
-| 349 | [SYNCED](games/s/synced.md) | 188 | 4.09 | 1,127 |
-| 351 | [Encased](games/e/encased.md) | 187 | 4.35 | 908 |
-| 351 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 187 | 4.24 | 1,028 |
+| 349 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 189 | 4.24 | 1,028 |
+| 350 | [Mothergunship](games/m/mothergunship.md) | 188 | 4.38 | 871 |
+| 350 | [SYNCED](games/s/synced.md) | 188 | 4.09 | 1,127 |
+| 352 | [Encased](games/e/encased.md) | 187 | 4.35 | 908 |
 | 353 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 186 | 4.51 | 638 |
 | 353 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 186 | 4.79 | 104 |
 | 355 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 185 | 4.28 | 979 |
