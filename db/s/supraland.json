@@ -4,7 +4,7 @@
   "ProductSlug": "supraland",
   "Ranking_Rating": 424,
   "Ranking_Popularity": 66,
-  "Ranking_PopularitySum": 113,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 18,
@@ -4253,18 +4253,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 10372,
       "NumberOfAwardsMax": 7901
+    },
+    {
+      "Time": "2024-07-03T08:58:12.1187154+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 10375,
+      "NumberOfAwardsMax": 7904
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10372,
-  "NumberOfAwardsMax": 7901,
+  "NumberOfAwards": 10375,
+  "NumberOfAwardsMax": 7904,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 7901
+      "Count": 7904
     },
     {
       "Text": "This game has Amazing Characters",
@@ -37102,9 +37108,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
-  "LastChanged": "2024-07-01T23:58:05.7267973+00:00",
+  "LastChanged": "2024-07-03T08:58:12.1187153+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:36.598795+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:28.5691897+00:00",
-  "LastUpdate_Ratings": "2024-07-03T06:59:50.1804027+00:00",
+  "LastUpdate_Ratings": "2024-07-03T08:58:12.1187157+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:36.5990176+00:00"
 }
