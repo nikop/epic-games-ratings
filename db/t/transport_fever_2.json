@@ -2,7 +2,7 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 300,
+  "Ranking_Rating": 284,
   "Ranking_Popularity": 521,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 299,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 180,
   "RatingHistory": [
     {
@@ -1127,6 +1127,12 @@
     {
       "Time": "2024-06-21T13:57:57.5057116+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 384,
+      "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-07-03T15:57:59.4178088+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 384,
       "NumberOfAwardsMax": 54
     }
@@ -8021,9 +8027,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2024-06-21T13:57:57.5057114+00:00",
+  "LastChanged": "2024-07-03T15:57:59.4178086+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:38.3602278+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:58.5170749+00:00",
-  "LastUpdate_Ratings": "2024-07-03T13:58:55.5403936+00:00",
+  "LastUpdate_Ratings": "2024-07-03T15:57:59.4178093+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:38.3602924+00:00"
 }

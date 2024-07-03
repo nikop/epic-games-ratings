@@ -1,7 +1,7 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.08 (Ranked 1,133)  
+Rating: 4.09 (Ranked 1,128)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -683,3 +683,4 @@ Diff (max vs sum): 69
 | 2024-06-30 | 4.08 | - | 246 | 1,818 |
 | 2024-07-01 | 4.08 | - | 246 | 1,821 |
 | 2024-07-02 | 4.08 | - | 246 | 1,822 |
+| 2024-07-03 | 4.09 | - | 246 | 1,822 |
