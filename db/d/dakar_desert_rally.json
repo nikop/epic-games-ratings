@@ -4,7 +4,7 @@
   "ProductSlug": "dakar-desert-rally",
   "Ranking_Rating": 1170,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -2949,10 +2949,16 @@
       "Rating": 3.96,
       "NumberOfAwards": 880,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-07-04T15:58:24.3373644+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 882,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 880,
+  "NumberOfAwards": 882,
   "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2978,7 +2984,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 104
+      "Count": 106
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3029,8 +3035,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-07-03T17:58:23.4472415+00:00",
+  "LastChanged": "2024-07-04T15:58:24.3373642+00:00",
   "LastUpdate_AppInfo": "2024-06-30T22:56:52.5175767+00:00",
-  "LastUpdate_Ratings": "2024-07-04T13:59:29.3805174+00:00",
+  "LastUpdate_Ratings": "2024-07-04T15:58:24.3373649+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:14.5987584+00:00"
 }
