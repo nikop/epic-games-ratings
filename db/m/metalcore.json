@@ -3,8 +3,8 @@
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 826,
-  "Ranking_Popularity": 448,
-  "Ranking_PopularitySum": 347,
+  "Ranking_Popularity": 446,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -1361,11 +1361,17 @@
       "Rating": 4.41,
       "NumberOfAwards": 719,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2024-07-04T09:58:32.7796522+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 722,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 719,
-  "NumberOfAwardsMax": 92,
+  "NumberOfAwards": 722,
+  "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1402,7 +1408,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 92
+      "Count": 95
     },
     {
       "Text": "This game has Competitive Players",
@@ -1459,8 +1465,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-07-04T04:58:58.1473879+00:00",
+  "LastChanged": "2024-07-04T09:58:32.7796521+00:00",
   "LastUpdate_AppInfo": "2024-06-30T15:57:09.8266967+00:00",
-  "LastUpdate_Ratings": "2024-07-04T08:00:24.4303581+00:00",
+  "LastUpdate_Ratings": "2024-07-04T09:58:32.7796526+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:35.4478422+00:00"
 }
