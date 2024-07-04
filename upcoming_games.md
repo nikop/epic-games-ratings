@@ -15,6 +15,7 @@
 | [Aerial_Knight's We Never Yield](games/6/60d72468c4794f428a3276cc10e8610b.md) | 2024-07-16 | - |  | - | - |
 | [Dungeons of Hinterberg](games/e/e42faa3ca424411db871181e13664ef3.md) | 2024-07-18 | - |  | - | - |
 | [Flintlock: The Siege of Dawn](games/f/flintlock_-_the_siege_of_dawn.md) | 2024-07-18 | - |  | - | - |
+| [The Black Pool](games/a/a79dc86babfd4136a6f788bf54d23308.md) | 2024-07-19 | - |  | - | - |
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | - |  | - | - |
 | [The Star Named EOS](games/7/7ce9f498f68c49cb82f60e04335d917f.md) | 2024-07-23 | - |  | - | - |
 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | - |  | - | - |
@@ -565,6 +566,7 @@
 | [Sophia the Traveler](games/a/a038504f2c5a41fa9ae608f72284a96f.md) | 2099-01-01 | - |  | - | - |
 | [SOS OPS!](games/3/312174cf57134898a8f751921430d765.md) | 2099-01-01 | - |  | - | - |
 | [Soul War](games/5/57a8c2548bc244558f5bd74fe7fe85c5.md) | 2099-01-01 | - |  | - | - |
+| [Soulslinger: Envoy of Death](games/4/4f97805eeaf3401095c8baba3bbfa566.md) | 2099-01-01 | - |  | - | - |
 | [Space Nation Online](games/1/12dc38cab446471a86b3c78ba31d0a5f.md) | 2099-01-01 | - |  | - | - |
 | [Spellborne](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [SpellBoundGame](games/2/2af2a7eed5c149bd9d86c48366d4aaba.md) | 2099-01-01 | - |  | - | - |
