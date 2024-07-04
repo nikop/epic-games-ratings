@@ -271,6 +271,7 @@
 | [Barista Simulator](games/d/d50a739b158c4d0fb8f3788f837b09d2.md) | 2099-01-01 | - |  | - | - |
 | [Battle Leet](games/6/68b61ac6800241caa70393fda6da575d.md) | 2099-01-01 | - |  | - | - |
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 4 | - | - |
+| [BeachHead Meta](games/b/b7aa9cc2cc0348b5a096b79424eed41b.md) | 2099-01-01 | - |  | - | - |
 | [Beacon of Neyda](games/e/e6dabddbc7e3446583d31c5b5cb3104a.md) | 2099-01-01 | - |  | - | - |
 | [Beat Stickman: Infinity Clones](games/b/beat_stickman__infinity_clones.md) | 2099-01-01 | - |  | - | - |
 | [Beaten Path](games/8/800b1f0f82da449b8a82942fa187f9e9.md) | 2099-01-01 | - |  | - | - |
@@ -536,7 +537,6 @@
 | [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
 | [Rhythm Towers](games/5/5b560fb9239241dd8377d0c532f7c562.md) | 2099-01-01 | - |  | - | - |
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2099-01-01 | - |  | - | - |
-| [Rise Of Anupet](games/4/4362466173e7490d82c99991bbf2b80c.md) | 2099-01-01 | - |  | - | - |
 | [Rise of Industry 2](games/4/47f326b0d07b4b7c8435163b1c78c8ab.md) | 2099-01-01 | - |  | - | - |
 | [Rising Heat](games/2/2835eeff30174fcdaea3114f6b79aaf5.md) | 2099-01-01 | - |  | - | - |
 | [Rogue Labyrinth](games/d/de2c3bf324c1479e8f187604b5cb9cba.md) | 2099-01-01 | - |  | - | - |

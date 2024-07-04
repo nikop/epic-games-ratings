@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Rise Of Anupet](games/4/4362466173e7490d82c99991bbf2b80c.md) | 2024-07-04 | - |  | - | - |
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | - |  | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | - |  | - | - |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | - |  | - | - |
@@ -88,7 +89,7 @@
 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 2024-06-13 | 10 (1,000 XP) | 3 | - | 0 |
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 6 | - | 0 |
 | [CRUELTY](games/1/1869b4b037124467b43cd9e62c6ee09d.md) | 2024-06-13 | - |  | - | 0 |
-| [War of Tanks](games/6/6e6916441a70473eac5849afca73080f.md) | 2024-06-13 | - |  | - | 0 |
+| [War of Tanks](games/6/6e6916441a70473eac5849afca73080f.md) | 2024-06-13 | - |  | 3.77 | 0 |
 | [DOSA: Guardians](games/8/84abf01158f84874b4a8737dfcad9eca.md) | 2024-06-13 | - |  | - | 0 |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | 23 (1,000 XP) | 0 | - | 0 |
 | [Dino Hazard: Chronos Blackout](games/e/e8d43fd48d6a42818e387ca4edcd749a.md) | 2024-06-12 | - |  | - | - |
@@ -121,5 +122,3 @@
 | [Diabotical Rogue](games/2/2ef1c6035f6240ae9bd6ab92eb82db4e.md) | 2024-06-04 | - |  | - | 0 |
 | [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | 2024-06-04 | 44 (1,000 XP) | 10 | - | 0 |
 | [Buff](games/a/ad7c1ad62a9543a8977bcebbbf1e5ae1.md) | 2024-06-04 | - |  | - | 0 |
-| [Tom Clancy's Rainbow Six Vegas](games/c/c038d64da53c4cabb109419c0cd51838.md) | 2024-06-04 | - |  | - | 0 |
-| [Tom Clancy's Rainbow Six Vegas 2](games/2/25f0070354fb4a99aea10c26488fe342.md) | 2024-06-04 | - |  | - | 0 |
