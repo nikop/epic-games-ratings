@@ -2,9 +2,9 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 824,
+  "Ranking_Rating": 808,
   "Ranking_Popularity": 332,
-  "Ranking_PopularitySum": 254,
+  "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -22,7 +22,7 @@
       "isPromotionalContentUsed": "null"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -4287,10 +4287,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 1780,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2024-07-04T17:57:49.6861458+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1782,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1780,
+  "NumberOfAwards": 1782,
   "NumberOfAwardsMax": 229,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4328,7 +4334,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 178
+      "Count": 179
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4346,7 +4352,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game has Easy Combat",
@@ -4378,8 +4384,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2024-07-04T15:58:51.675653+00:00",
+  "LastChanged": "2024-07-04T17:57:49.6861456+00:00",
   "LastUpdate_AppInfo": "2024-06-30T22:57:05.1138702+00:00",
-  "LastUpdate_Ratings": "2024-07-04T15:58:51.6756535+00:00",
+  "LastUpdate_Ratings": "2024-07-04T17:57:49.6861462+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:40.8524338+00:00"
 }

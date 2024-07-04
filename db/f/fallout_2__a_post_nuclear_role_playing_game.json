@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-2",
   "Ranking_Rating": 234,
   "Ranking_Popularity": 306,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -1531,10 +1531,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 500,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2024-07-04T17:58:40.1793121+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 501,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 500,
+  "NumberOfAwards": 501,
   "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1566,7 +1572,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1605,8 +1611,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-07-04T14:58:08.0897588+00:00",
+  "LastChanged": "2024-07-04T17:58:40.1793119+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:10.1928244+00:00",
-  "LastUpdate_Ratings": "2024-07-04T15:59:45.5252644+00:00",
+  "LastUpdate_Ratings": "2024-07-04T17:58:40.1793126+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:38.568418+00:00"
 }
