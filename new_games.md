@@ -122,4 +122,3 @@
 | [Colony : Part I The Moon Castle](games/2/2c7d9a2ca1274d039abd2f434217040b.md) | 2024-06-04 | - |  | - | - |
 | [Diabotical Rogue](games/2/2ef1c6035f6240ae9bd6ab92eb82db4e.md) | 2024-06-04 | - |  | - | 0 |
 | [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | 2024-06-04 | 44 (1,000 XP) | 10 | - | 0 |
-| [Buff](games/a/ad7c1ad62a9543a8977bcebbbf1e5ae1.md) | 2024-06-04 | - |  | - | 0 |

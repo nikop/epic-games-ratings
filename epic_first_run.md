@@ -23,7 +23,7 @@
 | [FoxCode](games/8/80637b1991524bc1bbddadd39bde04a8.md) | 2024-04-30 | 7 (1,000 XP) | 7,269 | - | 0 |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-09-30 | - |  | - | - |
 | [Myth & Mirage](games/5/5180c8d470c54875b18e52723630fdbb.md) | 2024-12-31 | - |  | - | - |
-| [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 36 | - | - |
+| [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 36 | - | 0 |
 | [My Corp Cargo Simulator : Prologue](games/9/96ae16730cef4c07babb00a3b3fbb5c5.md) | 2024-05-31 | - |  | - | - |
 | [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 2024-04-10 | 5 (1,000 XP) | 6 | - | - |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |

@@ -144,7 +144,7 @@
 | 128 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 663 |
 | 143 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 18,099 | 27 |
 | 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,627 | 106 |
-| 143 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,432 | 150 |
+| 143 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,434 | 150 |
 | 143 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 4.76 | 0 | 663 |
 | 143 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 663 |
 | 143 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.76 | 2,672 | 116 |
@@ -274,7 +274,7 @@
 | 261 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 707 | 221 |
 | 261 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 346 | 284 |
 | 261 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,387 | 44 |
-| 261 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 644 | 227 |
+| 261 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 645 | 227 |
 | 261 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 663 |
 | 261 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 663 |
 | 261 | [The Witness](games/t/the_witness.md) | 4.69 | 204 | 343 |
@@ -450,7 +450,7 @@
 | 423 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 465 |
 | 423 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 447 | 259 |
 | 423 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 447 |
-| 423 | [Warframe](games/w/warframe.md) | 4.61 | 24,956 | 22 |
+| 423 | [Warframe](games/w/warframe.md) | 4.61 | 24,971 | 22 |
 | 423 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 894 | 200 |
 | 423 | [Witchfire](games/w/witchfire.md) | 4.61 | 155 | 375 |
 | 454 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 1,001 | 188 |
@@ -565,6 +565,7 @@
 | 562 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 663 |
 | 562 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 396 | 271 |
 | 562 | [Aztez](games/a/aztez.md) | 4.55 | 22 | 643 |
+| 562 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.55 | 0 | 663 |
 | 562 | [Duskers](games/d/duskers.md) | 4.55 | 20 | 655 |
 | 562 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.55 | 1,124 | 174 |
 | 562 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 608 |
@@ -584,29 +585,28 @@
 | 562 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 663 |
 | 562 | [Wytchwood](games/w/wytchwood.md) | 4.55 | 0 | 663 |
 | 562 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,668 | 146 |
-| 585 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.54 | 0 | 663 |
-| 585 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 663 |
-| 585 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 663 |
-| 585 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 608 |
-| 585 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.54 | 0 | 663 |
-| 585 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,334 | 79 |
-| 585 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,923 | 136 |
-| 585 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,727 | 33 |
-| 585 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 608 |
-| 585 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 558 |
-| 585 | [Godlike Burger](games/g/godlike_burger.md) | 4.54 | 0 | 663 |
-| 585 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 216 | 335 |
-| 585 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 85 | 459 |
-| 585 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.54 | 251 | 316 |
-| 585 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.54 | 0 | 663 |
-| 585 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 566 |
-| 585 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,382 | 109 |
-| 585 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,130 | 173 |
-| 585 | [RiME](games/r/rime.md) | 4.54 | 0 | 663 |
-| 585 | [Sable](games/s/sable.md) | 4.54 | 35 | 573 |
-| 585 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.54 | 0 | 663 |
-| 585 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 100 | 437 |
-| 585 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 564 | 238 |
+| 586 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.54 | 0 | 663 |
+| 586 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 663 |
+| 586 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 663 |
+| 586 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 608 |
+| 586 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,334 | 79 |
+| 586 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,923 | 136 |
+| 586 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,727 | 33 |
+| 586 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 608 |
+| 586 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 558 |
+| 586 | [Godlike Burger](games/g/godlike_burger.md) | 4.54 | 0 | 663 |
+| 586 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 216 | 335 |
+| 586 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 85 | 459 |
+| 586 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.54 | 251 | 316 |
+| 586 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.54 | 0 | 663 |
+| 586 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 566 |
+| 586 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,382 | 109 |
+| 586 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,130 | 173 |
+| 586 | [RiME](games/r/rime.md) | 4.54 | 0 | 663 |
+| 586 | [Sable](games/s/sable.md) | 4.54 | 35 | 573 |
+| 586 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.54 | 0 | 663 |
+| 586 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 100 | 437 |
+| 586 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 564 | 238 |
 | 608 | [9Lives Arena](games/9/9lives_arena.md) | 4.53 | 38 | 561 |
 | 608 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 663 |
 | 608 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.53 | 0 | 663 |
