@@ -2,7 +2,7 @@
   "ID": "aa598567414d42378187b8861da550f7",
   "Name": "Remnant II\u00AE",
   "ProductSlug": "remnant-2",
-  "Ranking_Rating": 233,
+  "Ranking_Rating": 234,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 70,
@@ -13813,10 +13813,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 26199,
       "NumberOfAwardsMax": 9948
+    },
+    {
+      "Time": "2024-07-04T16:59:55.6551666+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 26207,
+      "NumberOfAwardsMax": 9948
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26199,
+  "NumberOfAwards": 26207,
   "NumberOfAwardsMax": 9948,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -13842,7 +13848,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1712
+      "Count": 1713
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13860,7 +13866,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1676
+      "Count": 1681
     },
     {
       "Text": "This game has a Creative Community",
@@ -13878,7 +13884,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1480
+      "Count": 1482
     },
     {
       "Text": "This game is Relaxing",
@@ -37036,9 +37042,9 @@
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-07-04T13:57:46.5569517+00:00",
+  "LastChanged": "2024-07-04T16:59:55.6551665+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:06.0952071+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:44.6344591+00:00",
-  "LastUpdate_Ratings": "2024-07-04T15:01:15.6030402+00:00",
+  "LastUpdate_Ratings": "2024-07-04T16:59:55.655167+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:06.0953513+00:00"
 }
