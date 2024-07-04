@@ -2,9 +2,9 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 808,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 332,
-  "Ranking_PopularitySum": 255,
+  "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -22,7 +22,7 @@
       "isPromotionalContentUsed": "null"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -4269,10 +4269,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1776,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2024-07-04T13:02:10.7586176+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 1778,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1776,
+  "NumberOfAwards": 1778,
   "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4340,7 +4346,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 185
+      "Count": 187
     },
     {
       "Text": "This game is Educational",
@@ -4360,8 +4366,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2024-07-02T17:58:39.8686621+00:00",
+  "LastChanged": "2024-07-04T13:02:10.7586174+00:00",
   "LastUpdate_AppInfo": "2024-06-30T22:57:05.1138702+00:00",
-  "LastUpdate_Ratings": "2024-07-04T10:59:49.1906188+00:00",
+  "LastUpdate_Ratings": "2024-07-04T13:02:10.7586182+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:40.8524338+00:00"
 }
