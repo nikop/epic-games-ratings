@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 3,686,141 | 4.29 | 970 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 873,350 | 4.44 | 763 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 873,996 | 4.44 | 763 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 399,545 | 4.68 | 283 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 346,187 | 4.67 | 300 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 335,451 | 4.87 | 18 |
@@ -13,14 +13,14 @@
 | 11 | [Destiny 2](games/d/destiny_2.md) | 81,269 | 4.44 | 763 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 70,332 | 4.58 | 497 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 63,797 | 4.61 | 423 |
-| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 56,669 | 4.74 | 170 |
+| 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 56,727 | 4.74 | 170 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 55,896 | 4.72 | 206 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 49,013 | 4.50 | 656 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 40,337 | 4.74 | 170 |
 | 18 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 36,813 | 4.15 | 1,101 |
 | 19 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,392 | 4.64 | 365 |
 | 20 | [Dauntless](games/d/dauntless.md) | 30,196 | 4.53 | 608 |
-| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 28,870 | 4.89 | 11 |
+| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 28,894 | 4.89 | 11 |
 | 22 | [Warframe](games/w/warframe.md) | 24,971 | 4.61 | 423 |
 | 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 24,458 | 4.57 | 523 |
 | 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,453 | 4.26 | 1,006 |
@@ -153,7 +153,7 @@
 | 151 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,395 | 4.70 | 234 |
 | 152 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,365 | 4.64 | 365 |
 | 153 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,359 | 4.42 | 809 |
-| 154 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,340 | 4.75 | 155 |
+| 154 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,341 | 4.75 | 155 |
 | 155 | [DOOM 64](games/d/doom_64.md) | 1,329 | 4.65 | 338 |
 | 156 | [Train Valley 2](games/t/train_valley_2.md) | 1,319 | 4.48 | 697 |
 | 157 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,313 | 4.69 | 261 |
@@ -249,7 +249,7 @@
 | 247 | [Warface: Clutch](games/w/warface.md) | 516 | 3.88 | 1,189 |
 | 248 | [Second Extinction™](games/s/second_extinction™.md) | 501 | 4.06 | 1,141 |
 | 249 | [Against the Storm](games/a/against_the_storm.md) | 500 | 4.82 | 76 |
-| 250 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 496 | 4.61 | 423 |
+| 250 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 498 | 4.61 | 423 |
 | 251 | [Into the Breach](games/i/into_the_breach.md) | 486 | 4.83 | 62 |
 | 252 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 485 | 4.27 | 994 |
 | 253 | [Dead Space](games/d/dead_space.md) | 481 | 4.71 | 216 |
@@ -446,10 +446,10 @@
 | 444 | [RAILGRADE](games/r/railgrade.md) | 96 | 4.55 | 562 |
 | 444 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 1,081 |
 | 446 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 95 | 4.70 | 234 |
-| 447 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 94 | 4.61 | 423 |
-| 448 | [DEATHLOOP](games/d/deathloop.md) | 92 | 4.44 | 763 |
-| 448 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 92 | 4.27 | 994 |
-| 448 | [MetalCore](games/m/metalcore.md) | 92 | 4.41 | 826 |
+| 446 | [MetalCore](games/m/metalcore.md) | 95 | 4.41 | 826 |
+| 448 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 94 | 4.61 | 423 |
+| 449 | [DEATHLOOP](games/d/deathloop.md) | 92 | 4.44 | 763 |
+| 449 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 92 | 4.27 | 994 |
 | 451 | [GRIME](games/g/grime.md) | 90 | 4.60 | 454 |
 | 451 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 90 | 4.60 | 454 |
 | 453 | [Human Resource Machine](games/h/human_resource_machine.md) | 89 | 4.62 | 402 |

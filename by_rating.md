@@ -14,7 +14,7 @@
 | 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,606 | 51 |
 | 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 663 |
 | 11 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,153 | 128 |
-| 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 28,870 | 21 |
+| 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 28,894 | 21 |
 | 11 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.89 | 0 | 663 |
 | 17 | [RimWorld](games/r/rimworld.md) | 4.88 | 570 | 237 |
 | 18 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 819 | 203 |
@@ -168,7 +168,7 @@
 | 155 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.75 | 0 | 663 |
 | 155 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 663 |
 | 155 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 108 | 424 |
-| 155 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 1,340 | 154 |
+| 155 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 1,341 | 154 |
 | 170 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.74 | 0 | 663 |
 | 170 | [Barony](games/b/barony.md) | 4.74 | 136 | 387 |
 | 170 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 76 | 474 |
@@ -179,7 +179,7 @@
 | 170 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,694 | 57 |
 | 170 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,149 | 171 |
 | 170 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 663 |
-| 170 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 56,669 | 14 |
+| 170 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 56,727 | 14 |
 | 170 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.74 | 0 | 663 |
 | 170 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 430 |
 | 170 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 115 | 411 |
@@ -435,7 +435,7 @@
 | 423 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.61 | 30 | 598 |
 | 423 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 167 | 368 |
 | 423 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 66 | 488 |
-| 423 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 496 | 250 |
+| 423 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 498 | 250 |
 | 423 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 663 |
 | 423 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 663 |
 | 423 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 115 | 411 |
@@ -449,7 +449,7 @@
 | 423 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 760 | 211 |
 | 423 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 465 |
 | 423 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 447 | 259 |
-| 423 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 447 |
+| 423 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 448 |
 | 423 | [Warframe](games/w/warframe.md) | 4.61 | 24,971 | 22 |
 | 423 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 894 | 200 |
 | 423 | [Witchfire](games/w/witchfire.md) | 4.61 | 155 | 375 |
@@ -764,7 +764,7 @@
 | 749 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 4.45 | 313 | 291 |
 | 763 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.44 | 30 | 598 |
 | 763 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 663 |
-| 763 | [DEATHLOOP](games/d/deathloop.md) | 4.44 | 92 | 448 |
+| 763 | [DEATHLOOP](games/d/deathloop.md) | 4.44 | 92 | 449 |
 | 763 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.44 | 289 | 301 |
 | 763 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 81,269 | 11 |
 | 763 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.44 | 20 | 655 |
@@ -776,7 +776,7 @@
 | 763 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 7,807 | 67 |
 | 763 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 130 | 395 |
 | 763 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 663 |
-| 763 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 873,350 | 2 |
+| 763 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 873,996 | 2 |
 | 763 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 4.44 | 0 | 663 |
 | 763 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 663 |
 | 763 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 513 |
@@ -831,7 +831,7 @@
 | 826 | [Hell is Others](games/h/hell_is_others.md) | 4.41 | 75 | 477 |
 | 826 | [Iron Harvest](games/i/iron_harvest.md) | 4.41 | 0 | 663 |
 | 826 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 442 |
-| 826 | [MetalCore](games/m/metalcore.md) | 4.41 | 92 | 448 |
+| 826 | [MetalCore](games/m/metalcore.md) | 4.41 | 95 | 446 |
 | 826 | [Sail Forth](games/s/sail_forth.md) | 4.41 | 30 | 598 |
 | 826 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,325 | 122 |
 | 826 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 74 | 478 |
@@ -995,7 +995,7 @@
 | 980 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 366 |
 | 994 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.27 | 0 | 663 |
 | 994 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.27 | 485 | 252 |
-| 994 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 92 | 448 |
+| 994 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 92 | 449 |
 | 994 | [Hellpoint](games/h/hellpoint.md) | 4.27 | 0 | 663 |
 | 994 | [Men of War](games/m/men_of_war.md) | 4.27 | 0 | 663 |
 | 994 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 27 | 615 |
