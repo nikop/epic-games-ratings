@@ -2052,10 +2052,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 920,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2024-07-04T19:58:45.2486966+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 921,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 920,
+  "NumberOfAwards": 921,
   "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2117,7 +2123,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2143,8 +2149,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2024-07-03T21:58:20.2987918+00:00",
+  "LastChanged": "2024-07-04T19:58:45.2486964+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:33.573449+00:00",
-  "LastUpdate_Ratings": "2024-07-04T18:00:11.8976859+00:00",
+  "LastUpdate_Ratings": "2024-07-04T19:58:45.2486974+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:49.9600584+00:00"
 }
