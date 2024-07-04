@@ -2,7 +2,7 @@
   "ID": "9510e329e4df4d0fbf123fc898cf3c21",
   "Name": "Fire Commander",
   "ProductSlug": "fire-commander-df24ad",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 695,
   "Ranking_Popularity": 663,
   "Ranking_PopularitySum": 663,
   "Ranking_EOS_Progress": 1088,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:30.1330187+00:00",
@@ -39,6 +39,12 @@
     {
       "Time": "2024-06-27T16:57:38.5010395+00:00",
       "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-04T18:59:27.686608+00:00",
+      "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -59,8 +65,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-17T14:58:08.8378516+00:00",
   "FirstSeenRating": "2023-03-31T05:58:30.1330184+00:00",
-  "LastChanged": "2024-06-27T16:57:38.5010393+00:00",
+  "LastChanged": "2024-07-04T18:59:27.6866078+00:00",
   "LastUpdate_AppInfo": "2024-06-30T22:56:56.0220237+00:00",
-  "LastUpdate_Ratings": "2024-07-04T17:57:31.0603034+00:00",
+  "LastUpdate_Ratings": "2024-07-04T18:59:27.6866084+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:33.9223276+00:00"
 }
