@@ -1,7 +1,7 @@
 # Recipe for Disaster
 [Store](https://store.epicgames.com/en-US/p/recipe-for-disaster-83726f)  
 [View Rawdata](../../db/r/recipe_for_disaster.json)  
-Rating: 4.26 (Ranked 1,006)  
+Rating: 4.25 (Ranked 1,017)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -77,3 +77,4 @@ Rating: 4.26 (Ranked 1,006)
 | 2024-06-19 | 4.26 | 0 | 0 |
 | 2024-06-20 | 4.25 | 0 | 0 |
 | 2024-06-21 | 4.26 | 0 | 0 |
+| 2024-07-05 | 4.25 | 0 | 0 |
