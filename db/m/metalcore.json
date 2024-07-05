@@ -4,7 +4,7 @@
   "ProductSlug": "metalcore-f60c27",
   "Ranking_Rating": 807,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -1391,10 +1391,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 727,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2024-07-05T04:58:00.4912708+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 727,
+  "NumberOfAwards": 728,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1474,7 +1480,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 60
+      "Count": 61
     }
   ],
   "EOS_Progressed": 0,
@@ -1489,8 +1495,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-07-05T01:51:19.1343563+00:00",
+  "LastChanged": "2024-07-05T04:58:00.4912707+00:00",
   "LastUpdate_AppInfo": "2024-06-30T15:57:09.8266967+00:00",
-  "LastUpdate_Ratings": "2024-07-05T02:59:19.2533206+00:00",
+  "LastUpdate_Ratings": "2024-07-05T04:58:00.4912711+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:35.4478422+00:00"
 }
