@@ -29,6 +29,8 @@
 | [Breachway](games/b/breachway.md) | 2024-07-31 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
 | [Dragon Chronicles: Black Tears](games/6/6ed45680bbff4a6993b7ccebe02a1f9d.md) | 2024-07-31 | - |  | - | - |
+| [Hero of the Kingdom](games/1/17fd3ea945ad482190387b6b55b42633.md) | 2024-07-31 | - |  | - | - |
+| [Hero of the Kingdom II](games/e/ed5411fb63534b74952a4dba16d5a38f.md) | 2024-07-31 | - |  | - | - |
 | [Hidden Shapes Old West](games/9/93ebef1040cb410fbe2b72237a6e26e0.md) | 2024-07-31 | 42 (1,000 XP) | 3 | - | - |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-07-31 | - |  | - | - |
 | [Humay](games/4/4f761277f93544bdb88ce9ff1a298bd7.md) | 2024-07-31 | - |  | - | - |
@@ -61,6 +63,9 @@
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-08-31 | - |  | - | - |
 | [DimonD Hunt](games/4/412632fc3f0d4a8e8294f22149e1dff1.md) | 2024-08-31 | - |  | - | - |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-31 | - |  | - | - |
+| [Hero of the Kingdom III](games/a/a64669daa91845c094bd01c537658db2.md) | 2024-08-31 | - |  | - | - |
+| [Hero of the Kingdom: The Lost Tales 1](games/0/0ff213fbaec14c7c89ab968f5ebd2a8a.md) | 2024-08-31 | - |  | - | - |
+| [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-31 | - |  | - | - |
 | [Mirror Of Darkness](games/5/5896d071f8c544e39aef05706c15fc11.md) | 2024-08-31 | - |  | - | - |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-31 | - |  | - | - |
 | [Squirrel with a Gun](games/d/dbfff2d3f4dc446b8f4931ed8a353685.md) | 2024-08-31 | - |  | - | - |
