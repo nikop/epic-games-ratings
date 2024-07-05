@@ -22,7 +22,7 @@
 | 18 | [Inscryption](games/i/inscryption.md) | 4.87 | 379 | 275 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,074 | 180 |
 | 18 | [Rain World](games/r/rain_world.md) | 4.87 | 23 | 639 |
-| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 335,451 | 5 |
+| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 335,715 | 5 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,393 | 25 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 633 |
 | 18 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 761 | 211 |
@@ -62,7 +62,7 @@
 | 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 237 | 323 |
 | 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 251 | 316 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,461 | 69 |
-| 62 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 73 | 479 |
+| 62 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 73 | 480 |
 | 62 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 287 | 302 |
 | 62 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 254 | 313 |
 | 62 | [Firework](games/f/firework.md) | 4.83 | 0 | 663 |
@@ -248,7 +248,7 @@
 | 235 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 0 | 663 |
 | 235 | [Pacific Drive](games/p/pacific_drive.md) | 4.70 | 0 | 663 |
 | 235 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.70 | 21 | 650 |
-| 235 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,948 | 54 |
+| 235 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 9,952 | 54 |
 | 235 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.70 | 32 | 588 |
 | 235 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 0 | 663 |
 | 235 | [SUPERHOT](games/s/superhot.md) | 4.70 | 0 | 663 |
@@ -284,7 +284,7 @@
 | 282 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.68 | 0 | 663 |
 | 282 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,959 | 92 |
 | 282 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 819 | 203 |
-| 282 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,748 | 94 |
+| 282 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,753 | 94 |
 | 282 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,107 | 52 |
 | 282 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,914 | 56 |
 | 282 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 400,082 | 3 |
@@ -457,7 +457,7 @@
 | 453 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.60 | 0 | 663 |
 | 453 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 18,389 | 26 |
 | 453 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 97 | 442 |
-| 453 | [DOOM 3](games/d/doom_3.md) | 4.60 | 73 | 479 |
+| 453 | [DOOM 3](games/d/doom_3.md) | 4.60 | 74 | 478 |
 | 453 | [Eastward](games/e/eastward.md) | 4.60 | 0 | 663 |
 | 453 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,486 | 29 |
 | 453 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.60 | 375 | 277 |
@@ -1092,14 +1092,14 @@
 | 1,090 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.17 | 0 | 663 |
 | 1,090 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 663 |
 | 1,090 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 631 | 230 |
-| 1,090 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.17 | 125 | 401 |
 | 1,090 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.17 | 30 | 598 |
 | 1,090 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 527 | 244 |
-| 1,096 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 4.16 | 0 | 663 |
-| 1,096 | [Forspoken](games/f/forspoken.md) | 4.16 | 72 | 481 |
-| 1,096 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 0 | 663 |
-| 1,096 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 663 |
-| 1,096 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 362 |
+| 1,095 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 4.16 | 125 | 401 |
+| 1,095 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 4.16 | 0 | 663 |
+| 1,095 | [Forspoken](games/f/forspoken.md) | 4.16 | 72 | 481 |
+| 1,095 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 0 | 663 |
+| 1,095 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 663 |
+| 1,095 | [Space Punks](games/s/space_punks.md) | 4.16 | 176 | 362 |
 | 1,101 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.15 | 0 | 663 |
 | 1,101 | [Dead Age 2](games/d/dead_age_2.md) | 4.15 | 0 | 663 |
 | 1,101 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 4.15 | 0 | 663 |
@@ -1213,9 +1213,9 @@
 | 1,211 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 663 |
 | 1,212 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.72 | 0 | 663 |
 | 1,213 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.71 | 0 | 663 |
-| 1,214 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 663 |
-| 1,214 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.68 | 339 | 286 |
-| 1,214 | [Redfall](games/r/redfall.md) | 3.68 | 45 | 540 |
+| 1,214 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.69 | 339 | 286 |
+| 1,215 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 663 |
+| 1,215 | [Redfall](games/r/redfall.md) | 3.68 | 45 | 540 |
 | 1,217 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.60 | 0 | 663 |
 | 1,218 | [Adios](games/a/adios.md) | 3.52 | 0 | 663 |
 | 1,219 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.48 | 174 | 364 |
