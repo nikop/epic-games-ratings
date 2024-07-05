@@ -3,8 +3,8 @@
   "Name": "Ranch Simulator",
   "ProductSlug": "ranch-simulator",
   "Ranking_Rating": 859,
-  "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 361,
+  "Ranking_Popularity": 420,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -2679,6 +2679,6 @@
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
   "LastChanged": "2024-07-03T16:01:32.2313542+00:00",
   "LastUpdate_AppInfo": "2024-06-30T22:57:00.7246429+00:00",
-  "LastUpdate_Ratings": "2024-07-05T10:57:43.8650901+00:00",
+  "LastUpdate_Ratings": "2024-07-05T11:59:26.2346881+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:51.9179883+00:00"
 }
