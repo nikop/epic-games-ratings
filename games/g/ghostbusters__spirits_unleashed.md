@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.52 (Ranked 624)  
+Rating: 4.52 (Ranked 625)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -347,7 +347,7 @@ Completed: 78 (0.21%) (Ranked 349)
 | 2024-06-17 | 37,961 | 78 |
 ## Awards
 Max (Great for Quick Sessions): 383  (Ranked 274)  
-Sum: 3,394 (Ranked 196)  
+Sum: 3,396 (Ranked 196)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -358,8 +358,8 @@ Diff (max vs sum): 78
 | This game has Amazing Storytelling | 336 |
 | This game is Extremely Fun | 330 |
 | This game has Competitive Players | 324 |
+| This game has Amazing Characters | 319 |
 | This game is Relaxing | 319 |
-| This game has Amazing Characters | 317 |
 | This game has Quickly Understood Controls | 310 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
@@ -768,4 +768,4 @@ Diff (max vs sum): 78
 | 2024-07-02 | 4.52 | 383 | 3,390 |
 | 2024-07-03 | 4.52 | 383 | 3,392 |
 | 2024-07-04 | 4.52 | 383 | 3,393 |
-| 2024-07-05 | 4.52 | 383 | 3,394 |
+| 2024-07-05 | 4.52 | 383 | 3,396 |
