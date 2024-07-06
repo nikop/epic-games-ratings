@@ -3,8 +3,8 @@
   "Name": "Good Company",
   "ProductSlug": "good-company",
   "Ranking_Rating": 784,
-  "Ranking_Popularity": 664,
-  "Ranking_PopularitySum": 664,
+  "Ranking_Popularity": 665,
+  "Ranking_PopularitySum": 665,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 468,
   "Ranking_EOS_NewPlayers": 18,
@@ -6217,6 +6217,6 @@
   "LastChanged": "2024-04-13T16:59:28.9918813+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:44.683695+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:18.6331294+00:00",
-  "LastUpdate_Ratings": "2024-07-06T15:58:11.4561477+00:00",
+  "LastUpdate_Ratings": "2024-07-06T17:01:19.8748116+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:44.6837682+00:00"
 }
