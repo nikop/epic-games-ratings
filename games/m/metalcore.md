@@ -3,13 +3,13 @@
 [View Rawdata](../../db/m/metalcore.json)  
 Rating: 4.42 (Ranked 809)  
 ## Awards
-Max (Diverse Characters): 95  (Ranked 446)  
-Sum: 737 (Ranked 340)  
-Diff (max vs sum): 106  
+Max (Great for Beginners): 96  (Ranked 444)  
+Sum: 738 (Ranked 340)  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 96 |
 | This game has Diverse Characters | 95 |
-| This game is Great for Beginners | 95 |
 | This game has a Competitive Community | 68 |
 | This game is Extremely Fun | 67 |
 | This game is Highly Recommended | 64 |
@@ -89,4 +89,4 @@ Diff (max vs sum): 106
 | 2024-07-02 | 4.42 | 89 | 733 |
 | 2024-07-03 | 4.41 | 92 | 711 |
 | 2024-07-04 | 4.42 | 95 | 726 |
-| 2024-07-05 | 4.42 | 95 | 737 |
+| 2024-07-05 | 4.42 | 96 | 738 |

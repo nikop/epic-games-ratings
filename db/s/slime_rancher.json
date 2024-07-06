@@ -4,7 +4,7 @@
   "ProductSlug": "slime-rancher",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -6035,10 +6035,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3835,
       "NumberOfAwardsMax": 544
+    },
+    {
+      "Time": "2024-07-05T23:58:19.2578569+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3836,
+      "NumberOfAwardsMax": 544
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3835,
+  "NumberOfAwards": 3836,
   "NumberOfAwardsMax": 544,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6094,7 +6100,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 391
+      "Count": 392
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6126,8 +6132,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2024-07-05T09:00:20.9523726+00:00",
+  "LastChanged": "2024-07-05T23:58:19.2578568+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:58:08.3162419+00:00",
-  "LastUpdate_Ratings": "2024-07-05T21:59:39.1186292+00:00",
+  "LastUpdate_Ratings": "2024-07-05T23:58:19.2578572+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:05:11.1679919+00:00"
 }
