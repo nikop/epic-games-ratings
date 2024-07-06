@@ -12,7 +12,7 @@
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | - |  | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | - |  | - | - |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | - |  | - | - |
-| [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 2024-07-02 | - |  | - | 0 |
+| [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 2024-07-02 | - |  | 4.10 | 0 |
 | [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | - |  | - | 0 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | - |  | - | - |
 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-02 | - |  | 4.30 | 69 |
@@ -45,7 +45,7 @@
 | [The End of the Sun](games/6/69569d1b9145402f8e557bd1baed7343.md) | 2024-06-30 | - |  | - | - |
 | [The Shadows Within: Nightmare's Games](games/4/42f7c7174a8a45d4a1189b3d0a267f43.md) | 2024-06-30 | - |  | - | - |
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | - |  | - | - |
-| [Demonheart](games/c/c24ab01828c74414b185dea9f87a88f8.md) | 2024-06-29 | - |  | - | - |
+| [Demonheart](games/c/c24ab01828c74414b185dea9f87a88f8.md) | 2024-06-29 | - |  | - | 0 |
 | [Chess Club Valley](games/5/55e58062efd94787992a36c5ed9b44d4.md) | 2024-06-29 | - |  | - | - |
 | [Below Level](games/3/35df9b6ab690473aa9a3d68c68f8c0fa.md) | 2024-06-29 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
@@ -119,4 +119,3 @@
 | [BattleCore Arena](games/9/9daf5f0ac30b4759bc8de9637668002f.md) | 2024-06-06 | - |  | - | 0 |
 | [Project Kinesis](games/7/7242da4da9a34727958d4c47d5bb9ae4.md) | 2024-06-06 | - |  | - | 0 |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2024-06-06 | - |  | - | 0 |
-| [Overrogue](games/2/2a300323ee504893b9006ca8cac53a0d.md) | 2024-06-06 | 26 (1,000 XP) | 5 | - | 0 |
