@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 874,618 | 4.44 | 763 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 400,608 | 4.68 | 282 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 346,454 | 4.67 | 299 |
-| 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 335,715 | 4.87 | 18 |
+| 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 335,957 | 4.87 | 18 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 231,297 | 4.18 | 1,081 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 170,109 | 4.69 | 260 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 161,684 | 4.50 | 655 |
@@ -12,7 +12,7 @@
 | 10 | [VALORANT](games/v/valorant.md) | 126,654 | 4.50 | 655 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 81,356 | 4.44 | 763 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 70,380 | 4.58 | 496 |
-| 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 63,832 | 4.61 | 423 |
+| 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 63,875 | 4.61 | 423 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 56,776 | 4.74 | 172 |
 | 15 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 56,114 | 4.72 | 206 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 49,104 | 4.50 | 655 |
@@ -64,7 +64,7 @@
 | 62 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,588 | 4.69 | 260 |
 | 63 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,501 | 4.71 | 216 |
 | 64 | [Cities: Skylines](games/c/cities__skylines.md) | 8,423 | 4.66 | 321 |
-| 65 | [Sifu](games/s/sifu.md) | 8,024 | 4.82 | 76 |
+| 65 | [Sifu](games/s/sifu.md) | 8,030 | 4.82 | 76 |
 | 66 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 8,003 | 4.44 | 763 |
 | 67 | [Supraland](games/s/supraland.md) | 7,904 | 4.61 | 423 |
 | 68 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,783 | 4.75 | 155 |
@@ -93,7 +93,7 @@
 | 91 | [Trackmania Starter Access](games/t/trackmania.md) | 5,065 | 4.64 | 365 |
 | 92 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,959 | 4.68 | 282 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,891 | 4.46 | 726 |
-| 94 | [Days Gone](games/d/days_gone.md) | 4,753 | 4.68 | 282 |
+| 94 | [Days Gone](games/d/days_gone.md) | 4,757 | 4.68 | 282 |
 | 95 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,737 | 4.70 | 235 |
 | 96 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4,652 | 4.63 | 383 |
 | 97 | [Paladins](games/p/paladins.md) | 4,590 | 4.31 | 954 |
@@ -289,7 +289,7 @@
 | 287 | [Darkwood](games/d/darkwood.md) | 339 | 4.62 | 403 |
 | 288 | [Diabotical](games/d/diabotical.md) | 320 | 4.73 | 189 |
 | 288 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 320 | 4.84 | 48 |
-| 290 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 318 | 4.62 | 403 |
+| 290 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 319 | 4.62 | 403 |
 | 291 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 315 | 4.45 | 747 |
 | 292 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 312 | 4.46 | 726 |
 | 293 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 307 | 4.63 | 383 |

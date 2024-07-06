@@ -22,7 +22,7 @@
 | 18 | [Inscryption](games/i/inscryption.md) | 4.87 | 379 | 275 |
 | 18 | [Ooblets](games/o/ooblets.md) | 4.87 | 1,074 | 180 |
 | 18 | [Rain World](games/r/rain_world.md) | 4.87 | 23 | 640 |
-| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 335,715 | 5 |
+| 18 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 335,957 | 5 |
 | 18 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,411 | 25 |
 | 18 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 635 |
 | 18 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 761 | 212 |
@@ -83,7 +83,7 @@
 | 76 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,185 | 127 |
 | 76 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 66 | 490 |
 | 76 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 379 | 275 |
-| 76 | [Sifu](games/s/sifu.md) | 4.82 | 8,024 | 65 |
+| 76 | [Sifu](games/s/sifu.md) | 4.82 | 8,030 | 65 |
 | 76 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 546 | 241 |
 | 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 462 |
 | 76 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 105 | 428 |
@@ -284,7 +284,7 @@
 | 282 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.68 | 0 | 665 |
 | 282 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,959 | 92 |
 | 282 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 819 | 203 |
-| 282 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,753 | 94 |
+| 282 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,757 | 94 |
 | 282 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,124 | 52 |
 | 282 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 14,111 | 38 |
 | 282 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,919 | 56 |
@@ -419,7 +419,7 @@
 | 403 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 0 | 665 |
 | 403 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 3,016 | 112 |
 | 403 | [Rogue Lords](games/r/rogue_lords.md) | 4.62 | 0 | 665 |
-| 403 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 318 | 290 |
+| 403 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 319 | 290 |
 | 403 | [Spellbreak](games/s/spellbreak.md) | 4.62 | 305 | 294 |
 | 403 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 665 |
 | 423 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 665 |
@@ -430,7 +430,7 @@
 | 423 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 249 | 319 |
 | 423 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 665 |
 | 423 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.61 | 0 | 665 |
-| 423 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 63,832 | 13 |
+| 423 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 63,875 | 13 |
 | 423 | [Eternights](games/e/eternights.md) | 4.61 | 0 | 665 |
 | 423 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 167 | 368 |
 | 423 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 66 | 490 |
