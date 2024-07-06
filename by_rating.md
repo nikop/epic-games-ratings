@@ -56,7 +56,7 @@
 | 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,771 | 61 |
 | 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 665 |
 | 48 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.84 | 60 | 505 |
-| 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,595 | 34 |
+| 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,606 | 34 |
 | 48 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.84 | 320 | 288 |
 | 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 305 | 294 |
 | 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 237 | 324 |
@@ -66,7 +66,7 @@
 | 62 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 289 | 301 |
 | 62 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 255 | 312 |
 | 62 | [Firework](games/f/firework.md) | 4.83 | 0 | 665 |
-| 62 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 777 | 209 |
+| 62 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 783 | 208 |
 | 62 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.83 | 0 | 665 |
 | 62 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 486 | 252 |
 | 62 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.83 | 0 | 665 |
@@ -285,7 +285,7 @@
 | 282 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,964 | 92 |
 | 282 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 819 | 203 |
 | 282 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,757 | 94 |
-| 282 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,124 | 52 |
+| 282 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,134 | 52 |
 | 282 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,925 | 56 |
 | 282 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 401,152 | 3 |
 | 282 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 665 |
@@ -308,7 +308,7 @@
 | 298 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.67 | 0 | 665 |
 | 298 | [Master of Magic](games/m/master_of_magic.md) | 4.67 | 0 | 665 |
 | 298 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,403 | 120 |
-| 298 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 778 | 208 |
+| 298 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 778 | 209 |
 | 298 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.67 | 42 | 548 |
 | 298 | [Pikuniku](games/p/pikuniku.md) | 4.67 | 0 | 665 |
 | 298 | [Revita](games/r/revita.md) | 4.67 | 0 | 665 |
@@ -538,7 +538,7 @@
 | 520 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,659 | 104 |
 | 520 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 61 | 502 |
 | 520 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 6,069 | 84 |
-| 520 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,475 | 23 |
+| 520 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,483 | 23 |
 | 520 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 665 |
 | 520 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 251 | 316 |
 | 542 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 0 | 665 |
@@ -953,18 +953,18 @@
 | 948 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 665 |
 | 948 | [Vampyr](games/v/vampyr.md) | 4.32 | 617 | 234 |
 | 948 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.32 | 0 | 665 |
-| 954 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 665 |
-| 954 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 446 | 262 |
-| 954 | [Ashen](games/a/ashen.md) | 4.31 | 23 | 640 |
-| 954 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.31 | 67 | 486 |
-| 954 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 116 | 410 |
-| 954 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.31 | 177 | 361 |
-| 954 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.31 | 384 | 273 |
-| 954 | [Paladins](games/p/paladins.md) | 4.31 | 4,595 | 97 |
-| 954 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,017 | 184 |
-| 954 | [The Surge 2](games/t/the_surge_2.md) | 4.31 | 0 | 665 |
-| 954 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 665 |
-| 954 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.31 | 30 | 600 |
+| 948 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.32 | 30 | 600 |
+| 955 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 665 |
+| 955 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 446 | 262 |
+| 955 | [Ashen](games/a/ashen.md) | 4.31 | 23 | 640 |
+| 955 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.31 | 67 | 486 |
+| 955 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 116 | 410 |
+| 955 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.31 | 177 | 361 |
+| 955 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.31 | 384 | 273 |
+| 955 | [Paladins](games/p/paladins.md) | 4.31 | 4,595 | 97 |
+| 955 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,017 | 184 |
+| 955 | [The Surge 2](games/t/the_surge_2.md) | 4.31 | 0 | 665 |
+| 955 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 665 |
 | 966 | [Chess Ultra](games/c/chess_ultra.md) | 4.30 | 0 | 665 |
 | 966 | [Expeditions: Viking](games/e/expeditions__viking.md) | 4.30 | 0 | 665 |
 | 966 | [JARS](games/j/jars.md) | 4.30 | 0 | 665 |
