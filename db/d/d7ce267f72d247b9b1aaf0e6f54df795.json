@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 171,
+  "Ranking_Rating": 155,
   "Ranking_Popularity": 154,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 1088,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -3887,10 +3887,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 5405,
       "NumberOfAwardsMax": 1349
+    },
+    {
+      "Time": "2024-07-06T14:58:13.9477285+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5417,
+      "NumberOfAwardsMax": 1349
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5405,
+  "NumberOfAwards": 5417,
   "NumberOfAwardsMax": 1349,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3976,7 +3982,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 379
+      "Count": 391
     },
     {
       "Text": "This game is Educational",
@@ -3997,8 +4003,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-07-06T09:58:00.6954603+00:00",
+  "LastChanged": "2024-07-06T14:58:13.9477283+00:00",
   "LastUpdate_AppInfo": "2024-07-04T03:57:19.6810801+00:00",
-  "LastUpdate_Ratings": "2024-07-06T13:02:19.2748427+00:00",
+  "LastUpdate_Ratings": "2024-07-06T14:58:13.9477289+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:24.8521418+00:00"
 }
