@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 21,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2023-06-01T19:56:58.3012544+00:00",
@@ -17931,10 +17931,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43614,
       "NumberOfAwardsMax": 14111
+    },
+    {
+      "Time": "2024-07-06T11:57:26.7822963+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 43638,
+      "NumberOfAwardsMax": 14111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43614,
+  "NumberOfAwards": 43638,
   "NumberOfAwardsMax": 14111,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17948,7 +17954,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8329
+      "Count": 8347
     },
     {
       "Text": "This game has Diverse Characters",
@@ -17978,7 +17984,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1771
+      "Count": 1777
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -47779,9 +47785,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-07-06T02:24:07.6339225+00:00",
+  "LastChanged": "2024-07-06T11:57:26.7822961+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:49.2037505+00:00",
   "LastUpdate_AppInfo": "2024-07-06T03:57:23.3092732+00:00",
-  "LastUpdate_Ratings": "2024-07-06T09:58:35.001301+00:00",
+  "LastUpdate_Ratings": "2024-07-06T11:57:26.7822967+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:49.2039742+00:00"
 }

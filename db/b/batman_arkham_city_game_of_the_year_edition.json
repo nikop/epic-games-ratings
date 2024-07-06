@@ -2,7 +2,7 @@
   "ID": "40c34bea9cd0460589c867f6a7246342",
   "Name": "Batman Arkham City Game of the Year Edition",
   "ProductSlug": "batman-arkham-city",
-  "Ranking_Rating": 97,
+  "Ranking_Rating": 104,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 1088,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "NumberOfRatings": 2832,
   "RatingHistory": [
     {
@@ -3424,10 +3424,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 2541,
       "NumberOfAwardsMax": 1859
+    },
+    {
+      "Time": "2024-07-06T11:58:28.3708972+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2543,
+      "NumberOfAwardsMax": 1859
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2541,
+  "NumberOfAwards": 2543,
   "NumberOfAwardsMax": 1859,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3441,13 +3447,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3497,8 +3503,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2024-07-05T04:58:33.0321524+00:00",
+  "LastChanged": "2024-07-06T11:58:28.370897+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:46.5876668+00:00",
-  "LastUpdate_Ratings": "2024-07-06T09:59:21.704444+00:00",
+  "LastUpdate_Ratings": "2024-07-06T11:58:28.3708978+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:50.7753322+00:00"
 }

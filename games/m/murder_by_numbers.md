@@ -3,9 +3,9 @@
 [View Rawdata](../../db/m/murder_by_numbers.json)  
 Rating: 4.27 (Ranked 994)  
 ## Awards
-Max (Great for Quick Sessions): 27  (Ranked 617)  
+Max (Great for Quick Sessions): 27  (Ranked 616)  
 Sum: 187 (Ranked 493)  
-Diff (max vs sum): 124  
+Diff (max vs sum): 123  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 27 |
