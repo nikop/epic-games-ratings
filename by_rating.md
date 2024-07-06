@@ -94,7 +94,7 @@
 | 88 | [Lost Ruins](games/l/lost_ruins.md) | 4.81 | 0 | 665 |
 | 88 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.81 | 0 | 665 |
 | 88 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 665 |
-| 88 | [The Messenger](games/t/the_messenger.md) | 4.81 | 375 | 277 |
+| 88 | [The Messenger](games/t/the_messenger.md) | 4.81 | 375 | 278 |
 | 88 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 665 |
 | 97 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.80 | 63 | 496 |
 | 97 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.80 | 1,859 | 140 |
@@ -460,7 +460,7 @@
 | 453 | [DOOM 3](games/d/doom_3.md) | 4.60 | 74 | 478 |
 | 453 | [Eastward](games/e/eastward.md) | 4.60 | 0 | 665 |
 | 453 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,497 | 29 |
-| 453 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.60 | 375 | 277 |
+| 453 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.60 | 379 | 275 |
 | 453 | [GRIME](games/g/grime.md) | 4.60 | 91 | 451 |
 | 453 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 665 |
 | 453 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 968 | 192 |
@@ -587,7 +587,7 @@
 | 583 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 665 |
 | 583 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 610 |
 | 583 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,348 | 76 |
-| 583 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,924 | 136 |
+| 583 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,925 | 136 |
 | 583 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,757 | 33 |
 | 583 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 610 |
 | 583 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 559 |
@@ -961,7 +961,7 @@
 | 954 | [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 4.31 | 0 | 665 |
 | 954 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.31 | 177 | 361 |
 | 954 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.31 | 384 | 273 |
-| 954 | [Paladins](games/p/paladins.md) | 4.31 | 4,590 | 97 |
+| 954 | [Paladins](games/p/paladins.md) | 4.31 | 4,595 | 97 |
 | 954 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,017 | 184 |
 | 954 | [The Surge 2](games/t/the_surge_2.md) | 4.31 | 0 | 665 |
 | 954 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.31 | 0 | 665 |
@@ -1083,7 +1083,7 @@
 | 1,081 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 100 | 437 |
 | 1,081 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 34 | 580 |
 | 1,081 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 665 |
-| 1,081 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 231,297 | 6 |
+| 1,081 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 231,371 | 6 |
 | 1,081 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 444 |
 | 1,081 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 665 |
 | 1,081 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 665 |
@@ -1149,14 +1149,14 @@
 | 1,147 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 665 |
 | 1,147 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 4.05 | 0 | 665 |
 | 1,149 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 665 |
-| 1,149 | [Homeworld 3](games/h/homeworld_3.md) | 4.04 | 0 | 665 |
 | 1,149 | [Port Royale 4](games/p/port_royale_4.md) | 4.04 | 0 | 665 |
 | 1,149 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 0 | 665 |
 | 1,149 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.04 | 0 | 665 |
-| 1,154 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.03 | 0 | 665 |
-| 1,154 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 0 | 665 |
-| 1,154 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 665 |
-| 1,157 | [Armored Warfare](games/a/armored_warfare.md) | 4.02 | 136 | 388 |
+| 1,153 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.03 | 0 | 665 |
+| 1,153 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 0 | 665 |
+| 1,153 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 665 |
+| 1,156 | [Armored Warfare](games/a/armored_warfare.md) | 4.02 | 136 | 388 |
+| 1,156 | [Homeworld 3](games/h/homeworld_3.md) | 4.02 | 0 | 665 |
 | 1,158 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.01 | 26 | 625 |
 | 1,158 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,715 | 47 |
 | 1,158 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,247 | 88 |
