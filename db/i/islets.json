@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 206,
   "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 455,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -802,10 +802,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 277,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-07-06T04:58:04.0672667+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 278,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 277,
+  "NumberOfAwards": 278,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -855,7 +861,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -876,8 +882,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-07-05T22:00:05.000319+00:00",
+  "LastChanged": "2024-07-06T04:58:04.0672666+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:09.5151121+00:00",
-  "LastUpdate_Ratings": "2024-07-06T02:59:48.8074355+00:00",
+  "LastUpdate_Ratings": "2024-07-06T04:58:04.0672671+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:54.0109005+00:00"
 }
