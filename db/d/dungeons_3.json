@@ -2,9 +2,9 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 337,
+  "Ranking_Rating": 336,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 206,
+  "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 3,
@@ -4247,11 +4247,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 2986,
       "NumberOfAwardsMax": 441
+    },
+    {
+      "Time": "2024-07-06T20:59:26.8895511+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2987,
+      "NumberOfAwardsMax": 442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2986,
-  "NumberOfAwardsMax": 441,
+  "NumberOfAwards": 2987,
+  "NumberOfAwardsMax": 442,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4264,7 +4270,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 441
+      "Count": 442
     },
     {
       "Text": "This game is Highly Recommended",
@@ -36247,9 +36253,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2024-07-02T22:58:39.7922817+00:00",
+  "LastChanged": "2024-07-06T20:59:26.8895509+00:00",
   "LastChanged_Achievements": "2024-06-26T14:05:21.9462775+00:00",
   "LastUpdate_AppInfo": "2024-06-30T20:57:18.0519664+00:00",
-  "LastUpdate_Ratings": "2024-07-06T19:57:29.7704374+00:00",
+  "LastUpdate_Ratings": "2024-07-06T20:59:26.8895516+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:05:21.9465014+00:00"
 }

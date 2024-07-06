@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 859,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 50,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-09-30T08:59:17.2887829+00:00",
@@ -6769,10 +6769,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 2664,
       "NumberOfAwardsMax": 447
+    },
+    {
+      "Time": "2024-07-06T21:00:04.6649718+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 2665,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2664,
+  "NumberOfAwards": 2665,
   "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6816,7 +6822,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 140
+      "Count": 141
     },
     {
       "Text": "This game has a Competitive Community",
@@ -26708,9 +26714,9 @@
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-07-06T08:00:15.0055715+00:00",
+  "LastChanged": "2024-07-06T21:00:04.6649716+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:14.8108105+00:00",
   "LastUpdate_AppInfo": "2024-06-30T16:57:19.2238962+00:00",
-  "LastUpdate_Ratings": "2024-07-06T19:58:06.2222479+00:00",
+  "LastUpdate_Ratings": "2024-07-06T21:00:04.6649724+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:14.8109148+00:00"
 }
