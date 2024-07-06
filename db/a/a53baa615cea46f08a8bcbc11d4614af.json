@@ -2,7 +2,7 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 1114,
+  "Ranking_Rating": 1081,
   "Ranking_Popularity": 665,
   "Ranking_PopularitySum": 665,
   "Ranking_EOS_Progress": 1088,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.13,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2024-07-06T01:47:40.4690961+00:00",
@@ -29,6 +29,12 @@
     {
       "Time": "2024-07-06T07:00:05.3159552+00:00",
       "Rating": 4.13,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-06T10:57:18.9268727+00:00",
+      "Rating": 4.18,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -49,7 +55,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-07-06T07:00:05.315955+00:00",
+  "LastChanged": "2024-07-06T10:57:18.9268726+00:00",
   "LastUpdate_AppInfo": "2024-07-02T13:02:34.7653462+00:00",
-  "LastUpdate_Ratings": "2024-07-06T08:59:04.4392572+00:00"
+  "LastUpdate_Ratings": "2024-07-06T10:57:18.9268731+00:00"
 }
