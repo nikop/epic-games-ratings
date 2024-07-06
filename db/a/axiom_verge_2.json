@@ -2,7 +2,7 @@
   "ID": "5e834b926aa547029903e0ae4f649a70",
   "Name": "Axiom Verge 2",
   "ProductSlug": "axiom-verge-2",
-  "Ranking_Rating": 496,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 665,
   "Ranking_PopularitySum": 665,
   "Ranking_EOS_Progress": 1088,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.56,
   "NumberOfRatings": 40,
   "RatingHistory": [
     {
@@ -273,6 +273,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-06T06:58:40.9911228+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -290,8 +296,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:37.6251124+00:00",
-  "LastChanged": "2024-06-26T02:58:36.9068564+00:00",
+  "LastChanged": "2024-07-06T06:58:40.9911226+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:50.1093235+00:00",
-  "LastUpdate_Ratings": "2024-07-06T04:59:29.1595023+00:00",
+  "LastUpdate_Ratings": "2024-07-06T06:58:40.991123+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:14.7532567+00:00"
 }
