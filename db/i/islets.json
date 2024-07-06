@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 206,
   "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 454,
+  "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -808,10 +808,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 278,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-07-06T22:57:53.8003271+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 279,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 278,
+  "NumberOfAwards": 279,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -837,7 +843,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game is Relaxing",
@@ -882,8 +888,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-07-06T04:58:04.0672666+00:00",
+  "LastChanged": "2024-07-06T22:57:53.8003269+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:57:09.5151121+00:00",
-  "LastUpdate_Ratings": "2024-07-06T20:59:14.5864058+00:00",
+  "LastUpdate_Ratings": "2024-07-06T22:57:53.8003275+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:54.0109005+00:00"
 }

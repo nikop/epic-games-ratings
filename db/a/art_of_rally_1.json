@@ -4,7 +4,7 @@
   "ProductSlug": "art-of-rally",
   "Ranking_Rating": 423,
   "Ranking_Popularity": 427,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 486,
   "Ranking_EOS_NewPlayers": 18,
@@ -2390,10 +2390,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 730,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-07-06T22:58:43.8898553+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 731,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 730,
+  "NumberOfAwards": 731,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2449,7 +2455,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 53
+      "Count": 54
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9044,9 +9050,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-07-06T18:00:46.5330987+00:00",
+  "LastChanged": "2024-07-06T22:58:43.8898551+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:03.8590846+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:34.6206918+00:00",
-  "LastUpdate_Ratings": "2024-07-06T21:00:05.6420825+00:00",
+  "LastUpdate_Ratings": "2024-07-06T22:58:43.8898558+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:03.859128+00:00"
 }
