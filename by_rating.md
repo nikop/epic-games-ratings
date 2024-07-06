@@ -239,7 +239,7 @@
 | 235 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 284 | 305 |
 | 235 | [For The King](games/f/for_the_king.md) | 4.70 | 462 | 255 |
 | 235 | [Foretales](games/f/foretales.md) | 4.70 | 0 | 665 |
-| 235 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.70 | 95 | 446 |
+| 235 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.70 | 95 | 447 |
 | 235 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 665 |
 | 235 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 0 | 665 |
 | 235 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,395 | 151 |
@@ -657,7 +657,7 @@
 | 654 | [Calico](games/c/calico.md) | 4.50 | 0 | 665 |
 | 654 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 115 | 412 |
 | 654 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 665 |
-| 654 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.50 | 49,065 | 16 |
+| 654 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.50 | 49,104 | 16 |
 | 654 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 665 |
 | 654 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 665 |
 | 654 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 4.50 | 0 | 665 |
@@ -672,7 +672,7 @@
 | 654 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 37 | 563 |
 | 654 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.50 | 0 | 665 |
 | 654 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 665 |
-| 654 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,450 | 40 |
+| 654 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,457 | 40 |
 | 654 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 665 |
 | 654 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.50 | 0 | 665 |
 | 654 | [The Medium](games/t/the_medium.md) | 4.50 | 0 | 665 |
@@ -814,7 +814,7 @@
 | 809 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.42 | 0 | 665 |
 | 809 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.42 | 36 | 567 |
 | 809 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 665 |
-| 809 | [MetalCore](games/m/metalcore.md) | 4.42 | 95 | 446 |
+| 809 | [MetalCore](games/m/metalcore.md) | 4.42 | 96 | 444 |
 | 809 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.42 | 0 | 665 |
 | 809 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 274 | 310 |
 | 809 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 4.42 | 0 | 665 |
@@ -968,7 +968,7 @@
 | 966 | [Chess Ultra](games/c/chess_ultra.md) | 4.30 | 0 | 665 |
 | 966 | [Expeditions: Viking](games/e/expeditions__viking.md) | 4.30 | 0 | 665 |
 | 966 | [JARS](games/j/jars.md) | 4.30 | 0 | 665 |
-| 966 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.30 | 456 | 257 |
+| 966 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.30 | 458 | 257 |
 | 966 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.30 | 69 | 484 |
 | 971 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.29 | 52 | 526 |
 | 971 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 665 |
@@ -1007,7 +1007,6 @@
 | 994 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 665 |
 | 1,006 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 22 | 645 |
 | 1,006 | [Cyber Hook](games/c/cyber_hook.md) | 4.26 | 0 | 665 |
-| 1,006 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 123 | 403 |
 | 1,006 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,459 | 24 |
 | 1,006 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 665 |
 | 1,006 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,222 | 110 |
@@ -1016,16 +1015,17 @@
 | 1,006 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.26 | 63 | 496 |
 | 1,006 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 665 |
 | 1,006 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 298 |
-| 1,017 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 4.25 | 0 | 665 |
-| 1,017 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 675 | 224 |
-| 1,017 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 27 | 617 |
-| 1,017 | [Predecessor](games/p/predecessor.md) | 4.25 | 708 | 221 |
-| 1,017 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 48 | 534 |
-| 1,017 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 665 |
-| 1,017 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.25 | 0 | 665 |
-| 1,017 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 665 |
-| 1,017 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 665 |
-| 1,017 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 625 |
+| 1,016 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 4.25 | 0 | 665 |
+| 1,016 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.25 | 123 | 403 |
+| 1,016 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 675 | 224 |
+| 1,016 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 27 | 617 |
+| 1,016 | [Predecessor](games/p/predecessor.md) | 4.25 | 708 | 221 |
+| 1,016 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 48 | 534 |
+| 1,016 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 665 |
+| 1,016 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.25 | 0 | 665 |
+| 1,016 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 665 |
+| 1,016 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 665 |
+| 1,016 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 625 |
 | 1,027 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 665 |
 | 1,027 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 580 |
 | 1,027 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 665 |
