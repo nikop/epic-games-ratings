@@ -2,7 +2,7 @@
   "ID": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
   "Name": "The Long Dark",
   "ProductSlug": "the-long-dark",
-  "Ranking_Rating": 189,
+  "Ranking_Rating": 171,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 1088,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 4814,
   "RatingHistory": [
     {
@@ -7943,6 +7943,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 5892,
       "NumberOfAwardsMax": 981
+    },
+    {
+      "Time": "2024-07-06T23:59:53.6759611+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5892,
+      "NumberOfAwardsMax": 981
     }
   ],
   "ReviewsDisabled": false,
@@ -8010,8 +8016,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2024-07-06T19:57:07.6800992+00:00",
+  "LastChanged": "2024-07-06T23:59:53.675961+00:00",
   "LastUpdate_AppInfo": "2024-07-01T05:58:13.054348+00:00",
-  "LastUpdate_Ratings": "2024-07-06T22:57:45.1512921+00:00",
+  "LastUpdate_Ratings": "2024-07-06T23:59:53.6759616+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:11.7014162+00:00"
 }
