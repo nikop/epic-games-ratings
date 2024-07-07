@@ -2,7 +2,7 @@
   "ID": "6009be9994c2409099588cde6f3a5ed0",
   "Name": "Cities: Skylines",
   "ProductSlug": "cities-skylines",
-  "Ranking_Rating": 336,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 14,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 25248,
   "RatingHistory": [
     {
@@ -21197,18 +21197,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 60723,
       "NumberOfAwardsMax": 8423
+    },
+    {
+      "Time": "2024-07-07T02:57:40.8659571+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 60754,
+      "NumberOfAwardsMax": 8433
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 60723,
-  "NumberOfAwardsMax": 8423,
+  "NumberOfAwards": 60754,
+  "NumberOfAwardsMax": 8433,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 8423
+      "Count": 8433
     },
     {
       "Text": "This game is Relaxing",
@@ -21220,13 +21226,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7649
+      "Count": 7661
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 7403
+      "Count": 7412
     },
     {
       "Text": "This game is Highly Recommended",
@@ -54839,9 +54845,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
-  "LastChanged": "2024-07-06T20:57:39.1246944+00:00",
+  "LastChanged": "2024-07-07T02:57:40.8659569+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:34.1835751+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:26.2469078+00:00",
-  "LastUpdate_Ratings": "2024-07-06T23:58:22.0555129+00:00",
+  "LastUpdate_Ratings": "2024-07-07T02:57:40.8659574+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:34.1838452+00:00"
 }
