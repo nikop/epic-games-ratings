@@ -4,7 +4,7 @@
   "ProductSlug": "salt-and-sanctuary",
   "Ranking_Rating": 403,
   "Ranking_Popularity": 290,
-  "Ranking_PopularitySum": 235,
+  "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 18,
@@ -3580,10 +3580,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2287,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2024-07-07T02:01:04.980173+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2288,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2287,
+  "NumberOfAwards": 2288,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3615,7 +3621,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game has Amazing Characters",
@@ -35330,9 +35336,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2024-07-06T03:58:01.7428804+00:00",
+  "LastChanged": "2024-07-07T02:01:04.9801728+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:37.3643902+00:00",
   "LastUpdate_AppInfo": "2024-07-01T02:02:48.3391963+00:00",
-  "LastUpdate_Ratings": "2024-07-06T22:59:11.373478+00:00",
+  "LastUpdate_Ratings": "2024-07-07T02:01:04.9801733+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:37.3645453+00:00"
 }
