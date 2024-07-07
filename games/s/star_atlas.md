@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/star_atlas.json)  
 Rating: 4.86 (Ranked 29)  
 ## Awards
-Max (Character Customization): 62  (Ranked 499)  
+Max (Character Customization): 62  (Ranked 500)  
 Sum: 62 (Ranked 578)  
-Diff (max vs sum): -79  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 62 |
