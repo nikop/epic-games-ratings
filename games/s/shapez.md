@@ -4,8 +4,8 @@
 Rating: 4.71 (Ranked 216)  
 ## Awards
 Max (Relaxing): 32  (Ranked 589)  
-Sum: 187 (Ranked 494)  
-Diff (max vs sum): 95  
+Sum: 188 (Ranked 493)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 95
 | This game is Highly Recommended | 25 |
 | This game is Educational | 24 |
 | This game is Extremely Fun | 24 |
-| This game has a Creative Community | 20 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -130,3 +130,4 @@ Diff (max vs sum): 95
 | 2024-06-23 | 4.71 | 32 | 165 |
 | 2024-06-25 | 4.71 | 32 | 166 |
 | 2024-06-30 | 4.71 | 32 | 187 |
+| 2024-07-07 | 4.71 | 32 | 188 |
