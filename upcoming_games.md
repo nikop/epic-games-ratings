@@ -146,6 +146,7 @@
 | [Decimated](games/d/d37fcefd6be042c5a232b716ac56f118.md) | 2024-12-31 | - |  | - | - |
 | [Earth From Another Sun](games/1/1718f23d17c046398d8d248ec9b8f9d6.md) | 2024-12-31 | - |  | - | - |
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |
+| [EBOLA VILLAGE](games/e/e37cc2b5002a46bd9d0207d4b5b70d0c.md) | 2024-12-31 | - |  | - | - |
 | [England In London](games/9/9a648ce6a6634184ad45f5fe3788a3c2.md) | 2024-12-31 | - |  | - | - |
 | [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
 | [Evershire](games/8/82d7f438164d4ed182d27265c63574fc.md) | 2024-12-31 | - |  | - | - |
