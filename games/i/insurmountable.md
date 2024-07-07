@@ -4,8 +4,8 @@
 Rating: 4.19 (Ranked 1,071)  
 Number of Ratings: 711  (23.09.2022)  
 ## Awards
-Max (Relaxing): 22  (Ranked 645)  
-Sum: 22 (Ranked 647)  
+Max (Relaxing): 22  (Ranked 646)  
+Sum: 22 (Ranked 648)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
