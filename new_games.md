@@ -108,4 +108,3 @@
 | [East Defense](games/d/d1fed5d227fa47eb86bb5b67d86278cf.md) | 2024-06-10 | - |  | - | 0 |
 | [One Night With Kawaii](games/4/42671f8f7f0d4810b1e4674f881824b5.md) | 2024-06-08 | - |  | - | 0 |
 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 2024-06-07 | - |  | 4.27 | 573 |
-| [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | 28 (1,000 XP) | 223 | - | 0 |
