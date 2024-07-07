@@ -588,7 +588,7 @@
 | 582 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.54 | 0 | 665 |
 | 582 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,363 | 76 |
 | 582 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,925 | 136 |
-| 582 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,757 | 33 |
+| 582 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,773 | 33 |
 | 582 | [Deceive Inc.](games/d/deceive_inc..md) | 4.54 | 0 | 665 |
 | 582 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 610 |
 | 582 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 558 |
@@ -1219,8 +1219,8 @@
 | 1,217 | [Chainmonsters](games/c/chainmonsters.md) | 3.68 | 0 | 665 |
 | 1,218 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.61 | 0 | 665 |
 | 1,219 | [Adios](games/a/adios.md) | 3.52 | 0 | 665 |
-| 1,220 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.48 | 174 | 364 |
-| 1,221 | [Operation New Earth](games/o/operation_new_earth.md) | 3.46 | 0 | 665 |
+| 1,220 | [Operation New Earth](games/o/operation_new_earth.md) | 3.49 | 0 | 665 |
+| 1,221 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.48 | 174 | 364 |
 | 1,222 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.45 | 0 | 665 |
 | 1,223 | [fell in love with coser](games/e/e4088fe230d843c18e1d45c4109d2713.md) | 3.43 | 0 | 665 |
 | 1,224 | [Survive on Raft](games/s/survive_on_raft.md) | 3.40 | 0 | 665 |
