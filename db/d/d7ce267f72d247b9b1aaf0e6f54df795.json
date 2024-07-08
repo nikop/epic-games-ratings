@@ -3,7 +3,7 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 171,
-  "Ranking_Popularity": 154,
+  "Ranking_Popularity": 152,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
@@ -3977,18 +3977,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 5616,
       "NumberOfAwardsMax": 1366
+    },
+    {
+      "Time": "2024-07-08T07:01:05.5493208+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5633,
+      "NumberOfAwardsMax": 1383
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5616,
-  "NumberOfAwardsMax": 1366,
+  "NumberOfAwards": 5633,
+  "NumberOfAwardsMax": 1383,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1366
+      "Count": 1383
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4087,8 +4093,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-07-08T03:58:58.7006767+00:00",
+  "LastChanged": "2024-07-08T07:01:05.5493206+00:00",
   "LastUpdate_AppInfo": "2024-07-04T03:57:19.6810801+00:00",
-  "LastUpdate_Ratings": "2024-07-08T05:00:16.5904452+00:00",
+  "LastUpdate_Ratings": "2024-07-08T07:01:05.5493211+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:24.8521418+00:00"
 }
