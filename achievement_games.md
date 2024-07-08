@@ -283,7 +283,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 61 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 85 | - | 0 |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 77 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 69,435 | 4.26 | 117 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 69,435 | 4.25 | 117 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 98 | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 50 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 188 | - | - |
@@ -864,7 +864,7 @@
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 396 | - | 0 |
 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 2022-11-18 | 15 (1,000 XP) | 575 | - | 0 |
 | [Night Book](games/n/night_book.md) | 2022-11-18 | 17 (1,000 XP) | 464 | - | 0 |
-| [Goat Simulator 3](games/g/goat_simulator_3.md) | 2022-11-17 | 39 (1,000 XP) | 299,551 | 4.83 | 783 |
+| [Goat Simulator 3](games/g/goat_simulator_3.md) | 2022-11-17 | 39 (1,000 XP) | 299,551 | 4.83 | 787 |
 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 2022-11-17 | 25 (1,000 XP) | 63 | - | 0 |
 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 2022-11-17 | 16 (1,000 XP) | 92 | - | 0 |
 | [Somerville](games/s/somerville.md) | 2022-11-15 | 11 (1,000 XP) | 1,755 | 4.24 | 0 |
@@ -966,7 +966,7 @@
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 2022-06-23 | 22 (1,000 XP) | 43,014 | 4.21 | 130 |
 | [Sonic Origins](games/s/sonic_origins.md) | 2022-06-23 | 35 (1,000 XP) | 815 | 4.58 | 137 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 2022-06-23 | 49 (1,000 XP) | 288 | 4.43 | 0 |
-| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 39,791,726 | 4.50 | 161,760 |
+| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 39,791,726 | 4.50 | 161,802 |
 | [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 83,765 | 4.53 | 0 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 6,867 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,781 | 4.74 | 115 |
