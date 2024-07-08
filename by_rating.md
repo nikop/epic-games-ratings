@@ -111,7 +111,7 @@
 | 104 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 187 | 353 |
 | 104 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 640 |
 | 104 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,833 | 142 |
-| 104 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 1,007 | 188 |
+| 104 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 1,008 | 186 |
 | 104 | [Melatonin](games/m/melatonin.md) | 4.79 | 0 | 665 |
 | 104 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,986 | 113 |
 | 104 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 454 | 258 |
@@ -407,7 +407,7 @@
 | 403 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.62 | 2,503 | 119 |
 | 403 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.62 | 30 | 602 |
 | 403 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 237 | 324 |
-| 403 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.62 | 11,705 | 48 |
+| 403 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.62 | 11,818 | 47 |
 | 403 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.62 | 0 | 665 |
 | 403 | [GRIT](games/g/grit.md) | 4.62 | 0 | 665 |
 | 403 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 0 | 665 |
@@ -773,7 +773,7 @@
 | 764 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.44 | 20 | 656 |
 | 764 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 8,203 | 65 |
 | 764 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 665 |
-| 764 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 875,795 | 2 |
+| 764 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 876,419 | 2 |
 | 764 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 665 |
 | 764 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 514 |
 | 764 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 441 |
@@ -817,7 +817,6 @@
 | 809 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 665 |
 | 809 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.42 | 0 | 665 |
 | 809 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 274 | 310 |
-| 809 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 4.42 | 0 | 665 |
 | 809 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 73 |
 | 809 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 230 | 332 |
 | 809 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 665 |
@@ -825,21 +824,22 @@
 | 809 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 200 | 345 |
 | 809 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 108 | 424 |
 | 809 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 665 |
-| 826 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.41 | 30 | 602 |
-| 826 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 665 |
-| 826 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 4.41 | 0 | 665 |
-| 826 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.41 | 0 | 665 |
-| 826 | [Iron Harvest](games/i/iron_harvest.md) | 4.41 | 0 | 665 |
-| 826 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 443 |
-| 826 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.41 | 20 | 656 |
-| 826 | [Sail Forth](games/s/sail_forth.md) | 4.41 | 31 | 598 |
-| 826 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,325 | 123 |
-| 826 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 74 | 478 |
-| 826 | [Sheltered](games/s/sheltered.md) | 4.41 | 290 | 300 |
-| 826 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.41 | 814 | 206 |
-| 826 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 665 |
-| 826 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.41 | 49 | 534 |
-| 826 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,284 | 125 |
+| 825 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.41 | 30 | 602 |
+| 825 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 665 |
+| 825 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 4.41 | 0 | 665 |
+| 825 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.41 | 0 | 665 |
+| 825 | [Iron Harvest](games/i/iron_harvest.md) | 4.41 | 0 | 665 |
+| 825 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 97 | 443 |
+| 825 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.41 | 20 | 656 |
+| 825 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 4.41 | 0 | 665 |
+| 825 | [Sail Forth](games/s/sail_forth.md) | 4.41 | 31 | 598 |
+| 825 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,325 | 123 |
+| 825 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 74 | 478 |
+| 825 | [Sheltered](games/s/sheltered.md) | 4.41 | 290 | 300 |
+| 825 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.41 | 814 | 206 |
+| 825 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 665 |
+| 825 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.41 | 49 | 534 |
+| 825 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,284 | 125 |
 | 841 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.40 | 0 | 665 |
 | 841 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 665 |
 | 841 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 665 |
@@ -1159,7 +1159,7 @@
 | 1,155 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 665 |
 | 1,158 | [Armored Warfare](games/a/armored_warfare.md) | 4.02 | 136 | 388 |
 | 1,159 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.01 | 26 | 626 |
-| 1,159 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,743 | 47 |
+| 1,159 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,743 | 48 |
 | 1,159 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,247 | 88 |
 | 1,162 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 4.00 | 0 | 665 |
 | 1,162 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 4.00 | 0 | 665 |
