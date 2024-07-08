@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 783)  
 ## Awards
-Max (Relaxing): 86  (Ranked 458)  
+Max (Relaxing): 86  (Ranked 459)  
 Sum: 763 (Ranked 338)  
-Diff (max vs sum): 120  
+Diff (max vs sum): 121  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 86 |

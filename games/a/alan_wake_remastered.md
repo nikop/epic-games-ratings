@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.47 (Ranked 714)  
+Rating: 4.47 (Ranked 715)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -363,8 +363,8 @@ Completed: 202 (0.12%) (Ranked 383)
 | 2024-06-17 | 170,378 | 202 |
 ## Awards
 Max (Amazing Characters): 24  (Ranked 635)  
-Sum: 111 (Ranked 530)  
-Diff (max vs sum): 105  
+Sum: 111 (Ranked 531)  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 153 |
