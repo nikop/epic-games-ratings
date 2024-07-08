@@ -463,6 +463,7 @@
 | [Lighthouse of Madness](games/e/e184eeca95e7493b9eb4cd38ee8c0a23.md) | 2099-01-01 | - |  | - | - |
 | [Lightracer Spark](games/l/lightracer_spark.md) | 2099-01-01 | - |  | - | - |
 | [Lightyear Frontier](games/l/lightyear_frontier.md) | 2099-01-01 | - |  | - | - |
+| [Line Time](games/e/ef5a6a2ad7a24dbc91622a36ebc45ed0.md) | 2099-01-01 | - |  | - | - |
 | [Littlelands](games/d/de4a72bbf5e6433c9cf8f24871fd9b47.md) | 2099-01-01 | - |  | - | - |
 | [LONESTAR](games/5/52b71983d55a48c899abbc022b380c1c.md) | 2099-01-01 | - |  | - | - |
 | [Loop](games/l/loop.md) | 2099-01-01 | - |  | - | - |
