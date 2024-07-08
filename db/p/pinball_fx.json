@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 1129,
   "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 251,
+  "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -3149,10 +3149,16 @@
       "Rating": 4.09,
       "NumberOfAwards": 1831,
       "NumberOfAwardsMax": 250
+    },
+    {
+      "Time": "2024-07-08T13:59:43.0710099+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 1833,
+      "NumberOfAwardsMax": 250
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1831,
+  "NumberOfAwards": 1833,
   "NumberOfAwardsMax": 250,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3178,7 +3184,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 217
+      "Count": 219
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -36102,9 +36108,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2024-07-07T21:57:33.5432527+00:00",
+  "LastChanged": "2024-07-08T13:59:43.0710098+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:12.8914777+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:35.8036086+00:00",
-  "LastUpdate_Ratings": "2024-07-08T13:04:16.2026342+00:00",
+  "LastUpdate_Ratings": "2024-07-08T13:59:43.0710102+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:12.8916379+00:00"
 }
