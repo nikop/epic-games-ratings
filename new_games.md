@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Blood West](games/c/cfd5606247d5400480bb7dccec626f1a.md) | 2024-07-08 | - |  | - | - |
 | [UNTITLED](games/f/fc6480a75bb14349aec408ef47dc58b9.md) | 2024-07-07 | - |  | - | - |
 | [MASHUP BROS. Super Marionette Brawl](games/d/d188c5bd7b3748878eea2423f47fb7f6.md) | 2024-07-07 | - |  | - | - |
 | [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2024-07-06 | - |  | - | - |
