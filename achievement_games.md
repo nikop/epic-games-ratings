@@ -411,7 +411,7 @@
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 67,627 | - | 0 |
 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 422,324 | 4.42 | 1,367 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 264 | - | 0 |
-| [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 34,632 | 4.36 | 0 |
+| [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 34,632 | 4.35 | 0 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 676 | 4.73 | 0 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 30 (1,000 XP) | 1,978 | - | 0 |
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-10-19 | 27 (1,000 XP) | 457 | - | 0 |
@@ -951,7 +951,7 @@
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 2022-07-28 | 54 (1,000 XP) | 734,262 | 4.08 | 184 |
 | [LOOPMANCER](games/l/loopmancer.md) | 2022-07-27 | 57 (1,000 XP) | 110 | - | 0 |
 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 2022-07-21 | 36 (1,000 XP) | 648 | 4.61 | 0 |
-| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 165,697 | 4.01 | 5,247 |
+| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 165,697 | 4.01 | 5,248 |
 | [Silence](games/s/silence.md) | 2022-07-21 | 46 (1,000 XP) | 260 | - | 0 |
 | [Hazel Sky](games/h/hazel_sky.md) | 2022-07-20 | 24 (1,000 XP) | 6 | - | 0 |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 2022-07-19 | 28 (1,000 XP) | 763 | 4.65 | 0 |
@@ -1127,7 +1127,7 @@
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,770 | 4.86 | 52 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 58,260 | 4.65 | 443 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 985 | 4.74 | 78 |
-| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,317,628 | 4.55 | 3,639 |
+| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,317,628 | 4.55 | 3,643 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 77,038 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,747 | 4.04 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 518,123 | 4.61 | 106 |
@@ -1152,11 +1152,11 @@
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 55,101 | 4.44 | 0 |
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 852,298 | 4.71 | 8,507 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 6,757 | 4.60 | 97 |
-| [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 7,249 | 4.58 | 437 |
+| [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 7,249 | 4.58 | 438 |
 | [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 169,555 | 4.18 | 0 |
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,239 | 4.19 | 50 |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | 16 (1,000 XP) | 0 | - | - |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
-| [Football Manager 2022](games/f/football_manager_2022.md) | - | 98 (1,000 XP) | 484,386 | 4.80 | 6,568 |
+| [Football Manager 2022](games/f/football_manager_2022.md) | - | 98 (1,000 XP) | 484,386 | 4.80 | 6,569 |
 | [greensheen Production](games/g/greensheen_production.md) | - | 35 (1,000 XP) | 33 | - | - |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 34 | - | - |
