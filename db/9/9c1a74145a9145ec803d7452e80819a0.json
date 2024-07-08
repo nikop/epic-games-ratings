@@ -2,8 +2,8 @@
   "ID": "9c1a74145a9145ec803d7452e80819a0",
   "Name": "Fallout 4",
   "ProductSlug": "fallout-4",
-  "Ranking_Rating": 423,
-  "Ranking_Popularity": 275,
+  "Ranking_Rating": 452,
+  "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 510,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2024-04-27T19:57:32.7546994+00:00",
@@ -1651,18 +1651,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 1013,
       "NumberOfAwardsMax": 381
+    },
+    {
+      "Time": "2024-07-08T13:05:21.6938402+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1018,
+      "NumberOfAwardsMax": 385
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1013,
-  "NumberOfAwardsMax": 381,
+  "NumberOfAwards": 1018,
+  "NumberOfAwardsMax": 385,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 381
+      "Count": 385
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1704,7 +1710,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2437,9 +2443,9 @@
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
-  "LastChanged": "2024-07-07T15:00:02.3745375+00:00",
+  "LastChanged": "2024-07-08T13:05:21.6938399+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:56.0880521+00:00",
   "LastUpdate_AppInfo": "2024-07-04T22:57:26.4448891+00:00",
-  "LastUpdate_Ratings": "2024-07-08T10:59:55.3258128+00:00",
+  "LastUpdate_Ratings": "2024-07-08T13:05:21.6938416+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:56.0887312+00:00"
 }
