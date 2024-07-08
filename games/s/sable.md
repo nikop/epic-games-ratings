@@ -352,8 +352,8 @@ Completed: 1,390 (1.09%) (Ranked 224)
 | 2024-06-17 | 127,671 | 1,390 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 576)  
-Sum: 250 (Ranked 465)  
-Diff (max vs sum): 111  
+Sum: 251 (Ranked 463)  
+Diff (max vs sum): 113  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |
@@ -364,7 +364,7 @@ Diff (max vs sum): 111
 | This game has Unique Visuals | 25 |
 | This game has Diverse Characters | 22 |
 | This game has Amazing Characters | 22 |
-| This game is Relaxing | 20 |
+| This game is Relaxing | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -514,3 +514,4 @@ Diff (max vs sum): 111
 | 2024-07-01 | 4.54 | - | 35 | 247 |
 | 2024-07-04 | 4.54 | - | 35 | 248 |
 | 2024-07-06 | 4.54 | - | 35 | 250 |
+| 2024-07-08 | 4.54 | - | 35 | 251 |
