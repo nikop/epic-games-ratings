@@ -24126,30 +24126,36 @@
       "Rating": 4.58,
       "NumberOfAwards": 300491,
       "NumberOfAwardsMax": 70433
+    },
+    {
+      "Time": "2024-07-08T20:00:40.8989404+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 300550,
+      "NumberOfAwardsMax": 70465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 300491,
-  "NumberOfAwardsMax": 70433,
+  "NumberOfAwards": 300550,
+  "NumberOfAwardsMax": 70465,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 70433
+      "Count": 70465
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 24537
+      "Count": 24542
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24154
+      "Count": 24161
     },
     {
       "Text": "This game is Extremely Fun",
@@ -24185,7 +24191,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 21739
+      "Count": 21743
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -24197,7 +24203,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26499
+      "Count": 26510
     },
     {
       "Text": "This game is Relaxing",
@@ -24217,8 +24223,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-07-08T16:57:59.9228637+00:00",
+  "LastChanged": "2024-07-08T20:00:40.8989402+00:00",
   "LastUpdate_AppInfo": "2024-07-07T23:57:11.2476963+00:00",
-  "LastUpdate_Ratings": "2024-07-08T16:57:59.9228645+00:00",
+  "LastUpdate_Ratings": "2024-07-08T20:00:40.898941+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:19.4284414+00:00"
 }

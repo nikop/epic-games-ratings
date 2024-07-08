@@ -335,6 +335,13 @@ Completed: 15 (0.06%) (Ranked 423)
 | 2024-03-21 | 25,416 | 14 |
 | 2024-04-10 | 25,541 | 14 |
 | 2024-06-17 | 25,705 | 15 |
+## Awards
+Max (Unique Visuals): 20  (Ranked 656)  
+Sum: 20 (Ranked 656)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -405,3 +412,4 @@ Completed: 15 (0.06%) (Ranked 423)
 | 2024-04-17 | 4.66 | 0 | 0 |
 | 2024-04-20 | 4.65 | 0 | 0 |
 | 2024-04-22 | 4.66 | 0 | 0 |
+| 2024-07-08 | 4.66 | 20 | 20 |

@@ -3,8 +3,8 @@
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
   "Ranking_Rating": 321,
-  "Ranking_Popularity": 665,
-  "Ranking_PopularitySum": 665,
+  "Ranking_Popularity": 656,
+  "Ranking_PopularitySum": 656,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 423,
   "Ranking_EOS_NewPlayers": 18,
@@ -367,12 +367,26 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-08T19:57:18.0291212+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Unique Visuals",
+  "Tags": [
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 25705,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 0,
@@ -9908,9 +9922,9 @@
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
-  "LastChanged": "2024-04-22T23:58:05.7207697+00:00",
+  "LastChanged": "2024-07-08T19:57:18.029121+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:43.6181255+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:28.9696304+00:00",
-  "LastUpdate_Ratings": "2024-07-08T15:58:16.3288196+00:00",
+  "LastUpdate_Ratings": "2024-07-08T19:57:18.0291214+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:43.6182077+00:00"
 }
