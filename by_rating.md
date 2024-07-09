@@ -78,7 +78,7 @@
 | 76 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 501 | 250 |
 | 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 667 |
 | 76 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 37 | 566 |
-| 76 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.82 | 451 | 259 |
+| 76 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.82 | 456 | 258 |
 | 76 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.82 | 0 | 667 |
 | 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 667 |
 | 76 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,193 | 126 |
@@ -114,7 +114,7 @@
 | 104 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 1,008 | 188 |
 | 104 | [Melatonin](games/m/melatonin.md) | 4.79 | 0 | 667 |
 | 104 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,986 | 113 |
-| 104 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 454 | 258 |
+| 104 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 454 | 259 |
 | 104 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 136 | 390 |
 | 104 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 129 | 398 |
 | 104 | [Wildermyth](games/w/wildermyth.md) | 4.79 | 32 | 591 |
@@ -286,7 +286,7 @@
 | 282 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 822 | 203 |
 | 282 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,768 | 94 |
 | 282 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,148 | 52 |
-| 282 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 14,189 | 38 |
+| 282 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 14,211 | 38 |
 | 282 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,934 | 56 |
 | 282 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 402,213 | 3 |
 | 282 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 667 |
@@ -430,7 +430,7 @@
 | 423 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 250 | 319 |
 | 423 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 667 |
 | 423 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.61 | 0 | 667 |
-| 423 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 63,957 | 13 |
+| 423 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 63,997 | 13 |
 | 423 | [Eternights](games/e/eternights.md) | 4.61 | 0 | 667 |
 | 423 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.61 | 385 | 273 |
 | 423 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 167 | 368 |
@@ -439,7 +439,7 @@
 | 423 | [Operation: Tango](games/o/operation__tango.md) | 4.61 | 0 | 667 |
 | 423 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 115 | 415 |
 | 423 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 936 | 196 |
-| 423 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,590 | 49 |
+| 423 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,597 | 49 |
 | 423 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,148 | 172 |
 | 423 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 667 |
 | 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,904 | 67 |
@@ -907,22 +907,22 @@
 | 896 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 617 |
 | 896 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 55 | 518 |
 | 896 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 181 | 358 |
-| 908 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 667 |
-| 908 | [Dark Light](games/d/dark_light.md) | 4.35 | 0 | 667 |
-| 908 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.35 | 0 | 667 |
-| 908 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.35 | 64 | 496 |
-| 908 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.35 | 0 | 667 |
-| 908 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.35 | 0 | 667 |
-| 908 | [House Party](games/h/house_party.md) | 4.35 | 0 | 667 |
-| 908 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 211 | 337 |
-| 908 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 667 |
-| 908 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 667 |
-| 908 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.35 | 0 | 667 |
-| 908 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 285 | 304 |
-| 908 | [Speed Brawl](games/s/speed_brawl.md) | 4.35 | 30 | 602 |
-| 908 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 4.35 | 0 | 667 |
-| 908 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.35 | 34 | 582 |
-| 908 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.35 | 143 | 384 |
+| 896 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.36 | 143 | 384 |
+| 909 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 667 |
+| 909 | [Dark Light](games/d/dark_light.md) | 4.35 | 0 | 667 |
+| 909 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.35 | 0 | 667 |
+| 909 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.35 | 64 | 496 |
+| 909 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 4.35 | 0 | 667 |
+| 909 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.35 | 0 | 667 |
+| 909 | [House Party](games/h/house_party.md) | 4.35 | 0 | 667 |
+| 909 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 211 | 337 |
+| 909 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 667 |
+| 909 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 667 |
+| 909 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.35 | 0 | 667 |
+| 909 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 285 | 304 |
+| 909 | [Speed Brawl](games/s/speed_brawl.md) | 4.35 | 30 | 602 |
+| 909 | [WE ARE FOOTBALL 2024](games/4/4741e908218a444eb89ff24f10d09934.md) | 4.35 | 0 | 667 |
+| 909 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 4.35 | 34 | 582 |
 | 924 | [Automachef](games/a/automachef.md) | 4.34 | 28 | 610 |
 | 924 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 667 |
 | 924 | [Beyond Blue](games/b/beyond_blue.md) | 4.34 | 0 | 667 |
