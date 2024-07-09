@@ -146,6 +146,7 @@
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | - |  | - | - |
 | [Dark Life Excalibur](games/1/136c658efed64efebf3008544fee972b.md) | 2024-12-31 | - |  | - | - |
 | [Dawn Apart](games/d/dawn_apart.md) | 2024-12-31 | - |  | - | - |
+| [Days of Defiance](games/3/3422cff6d1bd4e50b5dfe2153fe64ac1.md) | 2024-12-31 | - |  | - | - |
 | [Decimated](games/d/d37fcefd6be042c5a232b716ac56f118.md) | 2024-12-31 | - |  | - | - |
 | [Earth From Another Sun](games/1/1718f23d17c046398d8d248ec9b8f9d6.md) | 2024-12-31 | - |  | - | - |
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |

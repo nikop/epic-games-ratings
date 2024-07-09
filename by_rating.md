@@ -174,7 +174,7 @@
 | 171 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.74 | 78 | 473 |
 | 171 | [Fez](games/f/fez.md) | 4.74 | 28 | 610 |
 | 171 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 40,514 | 17 |
-| 171 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 1,383 | 152 |
+| 171 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 1,401 | 151 |
 | 171 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 1,023 | 183 |
 | 171 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,734 | 57 |
 | 171 | [Outlast](games/o/outlast.md) | 4.74 | 34 | 582 |
@@ -241,7 +241,7 @@
 | 234 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.70 | 96 | 446 |
 | 234 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 667 |
 | 234 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 0 | 667 |
-| 234 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,395 | 151 |
+| 234 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,395 | 152 |
 | 234 | [King of Retail](games/k/king_of_retail.md) | 4.70 | 0 | 667 |
 | 234 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 0 | 667 |
 | 234 | [Pacific Drive](games/p/pacific_drive.md) | 4.70 | 0 | 667 |
@@ -579,7 +579,7 @@
 | 560 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.55 | 0 | 667 |
 | 560 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.55 | 0 | 667 |
 | 560 | [Wytchwood](games/w/wytchwood.md) | 4.55 | 0 | 667 |
-| 560 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,673 | 146 |
+| 560 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,674 | 146 |
 | 581 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.54 | 0 | 667 |
 | 581 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 667 |
 | 581 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 667 |
@@ -673,7 +673,7 @@
 | 655 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 37 | 566 |
 | 655 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.50 | 0 | 667 |
 | 655 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 667 |
-| 655 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,477 | 40 |
+| 655 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,486 | 40 |
 | 655 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 667 |
 | 655 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.50 | 0 | 667 |
 | 655 | [The Medium](games/t/the_medium.md) | 4.50 | 0 | 667 |
@@ -936,6 +936,7 @@
 | 924 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.34 | 34 | 582 |
 | 924 | [Torchlight](games/t/torchlight.md) | 4.34 | 25 | 631 |
 | 924 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 724 | 218 |
+| 937 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.33 | 25 | 631 |
 | 937 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.33 | 0 | 667 |
 | 937 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.33 | 54 | 522 |
 | 937 | [CastleStorm 2](games/c/castlestorm_2.md) | 4.33 | 0 | 667 |
@@ -948,13 +949,12 @@
 | 937 | [Tails Noir](games/b/backbone.md) | 4.33 | 0 | 667 |
 | 937 | [ToeJam & Earl: Back in the Groove!](games/t/toejam_&_earl__back_in_the_groove!.md) | 4.33 | 0 | 667 |
 | 937 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.33 | 0 | 667 |
-| 949 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 4.32 | 25 | 631 |
-| 949 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 667 |
-| 949 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.32 | 104 | 431 |
-| 949 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.32 | 0 | 667 |
-| 949 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 667 |
-| 949 | [Vampyr](games/v/vampyr.md) | 4.32 | 617 | 235 |
-| 949 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.32 | 0 | 667 |
+| 950 | [Imagine Earth](games/i/imagine_earth.md) | 4.32 | 0 | 667 |
+| 950 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.32 | 104 | 431 |
+| 950 | [Pumpkin Jack](games/p/pumpkin_jack.md) | 4.32 | 0 | 667 |
+| 950 | [Scrapnaut](games/s/scrapnaut.md) | 4.32 | 0 | 667 |
+| 950 | [Vampyr](games/v/vampyr.md) | 4.32 | 617 | 235 |
+| 950 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.32 | 0 | 667 |
 | 956 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 667 |
 | 956 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 446 | 262 |
 | 956 | [Ashen](games/a/ashen.md) | 4.31 | 23 | 641 |
@@ -1084,7 +1084,7 @@
 | 1,081 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 100 | 438 |
 | 1,081 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 35 | 576 |
 | 1,081 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 667 |
-| 1,081 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 231,552 | 6 |
+| 1,081 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 231,618 | 6 |
 | 1,081 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 446 |
 | 1,081 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 667 |
 | 1,081 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 667 |

@@ -5,7 +5,7 @@
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 402,213 | 4.68 | 282 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 346,768 | 4.67 | 299 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 336,809 | 4.87 | 18 |
-| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 231,552 | 4.18 | 1,081 |
+| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 231,618 | 4.18 | 1,081 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 170,372 | 4.69 | 259 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 161,802 | 4.50 | 655 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 136,026 | 4.69 | 259 |
@@ -39,7 +39,7 @@
 | 37 | [Maneater](games/m/maneater.md) | 14,298 | 4.49 | 681 |
 | 38 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 14,211 | 4.68 | 282 |
 | 39 | [Bloons TD 6](games/b/bloons_td_6.md) | 13,631 | 4.77 | 128 |
-| 40 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 13,477 | 4.50 | 655 |
+| 40 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 13,486 | 4.50 | 655 |
 | 41 | [HITMAN World of Assassination](games/h/hitman_3.md) | 13,052 | 4.77 | 128 |
 | 42 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,947 | 4.36 | 896 |
 | 43 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 12,626 | 4.58 | 495 |
@@ -145,13 +145,13 @@
 | 143 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,813 | 4.86 | 29 |
 | 143 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,813 | 4.56 | 542 |
 | 145 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,788 | 4.75 | 155 |
-| 146 | [XCOM® 2](games/x/xcom®_2.md) | 1,673 | 4.55 | 560 |
+| 146 | [XCOM® 2](games/x/xcom®_2.md) | 1,674 | 4.55 | 560 |
 | 147 | [OUTRIDERS](games/o/outriders.md) | 1,648 | 4.43 | 784 |
 | 148 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,588 | 4.62 | 403 |
 | 149 | [Ring of Pain](games/r/ring_of_pain.md) | 1,533 | 4.58 | 495 |
 | 150 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 1,438 | 4.76 | 143 |
-| 151 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,395 | 4.70 | 234 |
-| 152 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 1,383 | 4.74 | 171 |
+| 151 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 1,401 | 4.74 | 171 |
+| 152 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,395 | 4.70 | 234 |
 | 153 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,377 | 4.64 | 363 |
 | 154 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,369 | 4.42 | 809 |
 | 155 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,349 | 4.75 | 155 |
@@ -234,7 +234,7 @@
 | 232 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 626 | 4.27 | 993 |
 | 233 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 625 | 4.67 | 299 |
 | 234 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 620 | 4.40 | 841 |
-| 235 | [Vampyr](games/v/vampyr.md) | 617 | 4.32 | 949 |
+| 235 | [Vampyr](games/v/vampyr.md) | 617 | 4.32 | 950 |
 | 236 | [Filament](games/f/filament.md) | 604 | 4.33 | 937 |
 | 237 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 573 | 4.59 | 474 |
 | 238 | [RimWorld](games/r/rimworld.md) | 571 | 4.88 | 17 |
@@ -431,7 +431,7 @@
 | 429 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 105 | 4.63 | 383 |
 | 429 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 105 | 4.82 | 76 |
 | 431 | [Carcassonne](games/c/carcassonne.md) | 104 | 4.66 | 322 |
-| 431 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 104 | 4.32 | 949 |
+| 431 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 104 | 4.32 | 950 |
 | 431 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 104 | 4.53 | 604 |
 | 434 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,186 |
 | 434 | [Super Meat Boy](games/s/super_meat_boy.md) | 103 | 4.74 | 171 |
@@ -630,7 +630,7 @@
 | 626 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 26 | 4.01 | 1,159 |
 | 626 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 26 | 4.56 | 542 |
 | 626 | [Yooka-Laylee](games/y/yooka-laylee.md) | 26 | 4.25 | 1,018 |
-| 631 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 25 | 4.32 | 949 |
+| 631 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 25 | 4.33 | 937 |
 | 631 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 25 | 4.89 | 11 |
 | 631 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 25 | 4.58 | 495 |
 | 631 | [Rain World](games/r/rain_world.md) | 25 | 4.87 | 18 |
