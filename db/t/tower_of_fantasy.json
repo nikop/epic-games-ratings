@@ -4,7 +4,7 @@
   "ProductSlug": "tower-of-fantasy",
   "Ranking_Rating": 924,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 246,
+  "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -5801,10 +5801,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1925,
       "NumberOfAwardsMax": 726
+    },
+    {
+      "Time": "2024-07-09T17:00:48.5415647+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1926,
+      "NumberOfAwardsMax": 726
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1925,
+  "NumberOfAwards": 1926,
   "NumberOfAwardsMax": 726,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5842,7 +5848,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 128
+      "Count": 129
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5887,8 +5893,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2024-07-09T15:58:21.2987621+00:00",
+  "LastChanged": "2024-07-09T17:00:48.5415646+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:14.346989+00:00",
-  "LastUpdate_Ratings": "2024-07-09T15:58:21.2987625+00:00",
+  "LastUpdate_Ratings": "2024-07-09T17:00:48.5415651+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:35.7886784+00:00"
 }

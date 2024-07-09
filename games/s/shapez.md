@@ -4,8 +4,8 @@
 Rating: 4.71 (Ranked 216)  
 ## Awards
 Max (Relaxing): 32  (Ranked 591)  
-Sum: 188 (Ranked 494)  
-Diff (max vs sum): 97  
+Sum: 188 (Ranked 495)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
