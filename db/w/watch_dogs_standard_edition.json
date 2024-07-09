@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 495,
   "Ranking_Popularity": 372,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -4357,10 +4357,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1060,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2024-07-09T04:58:14.4901546+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 972,
+      "NumberOfAwardsMax": 162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1060,
+  "NumberOfAwards": 972,
   "NumberOfAwardsMax": 162,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4454,8 +4460,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2024-07-08T13:05:20.7252533+00:00",
+  "LastChanged": "2024-07-09T04:58:14.4901544+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:56.4226081+00:00",
-  "LastUpdate_Ratings": "2024-07-09T02:59:20.2804557+00:00",
+  "LastUpdate_Ratings": "2024-07-09T04:58:14.4901551+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:56.767845+00:00"
 }
