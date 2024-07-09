@@ -4,7 +4,7 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 580,
   "Ranking_Popularity": 239,
-  "Ranking_PopularitySum": 192,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 18,
@@ -4397,10 +4397,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 3522,
       "NumberOfAwardsMax": 564
+    },
+    {
+      "Time": "2024-07-09T11:57:59.4743472+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3524,
+      "NumberOfAwardsMax": 564
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3522,
+  "NumberOfAwards": 3524,
   "NumberOfAwardsMax": 564,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4426,7 +4432,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 501
+      "Count": 502
     },
     {
       "Text": "This game has Competitive Players",
@@ -4450,7 +4456,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has a Competitive Community",
@@ -36376,9 +36382,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2024-07-05T17:00:12.4269487+00:00",
+  "LastChanged": "2024-07-09T11:57:59.474347+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:43.0147529+00:00",
   "LastUpdate_AppInfo": "2024-07-07T21:57:06.6830263+00:00",
-  "LastUpdate_Ratings": "2024-07-09T09:58:55.0548998+00:00",
+  "LastUpdate_Ratings": "2024-07-09T11:57:59.4743475+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:43.014924+00:00"
 }
