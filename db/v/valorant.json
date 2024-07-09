@@ -21389,10 +21389,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 885678,
       "NumberOfAwardsMax": 127172
+    },
+    {
+      "Time": "2024-07-09T17:58:30.3691625+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 886318,
+      "NumberOfAwardsMax": 127172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 885678,
+  "NumberOfAwards": 886318,
   "NumberOfAwardsMax": 127172,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -21406,7 +21412,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 98730
+      "Count": 98854
     },
     {
       "Text": "This game has Competitive Players",
@@ -21424,13 +21430,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 103325
+      "Count": 103461
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 96857
+      "Count": 96996
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -21448,13 +21454,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 88821
+      "Count": 88939
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 95389
+      "Count": 95512
     }
   ],
   "EOS_Progressed": 0,
@@ -21468,8 +21474,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-07-09T13:08:51.0532447+00:00",
+  "LastChanged": "2024-07-09T17:58:30.3691623+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:52.9611506+00:00",
-  "LastUpdate_Ratings": "2024-07-09T16:00:06.1490154+00:00",
+  "LastUpdate_Ratings": "2024-07-09T17:58:30.369163+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:30.2943207+00:00"
 }
