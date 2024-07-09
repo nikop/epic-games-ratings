@@ -4,7 +4,7 @@
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 993,
   "Ranking_Popularity": 617,
-  "Ranking_PopularitySum": 497,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -657,10 +657,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 187,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-07-09T20:58:46.139538+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 188,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187,
+  "NumberOfAwards": 188,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -674,7 +680,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Playful Visuals",
@@ -731,8 +737,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-07-06T03:59:48.8895345+00:00",
+  "LastChanged": "2024-07-09T20:58:46.1395378+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:37.7894215+00:00",
-  "LastUpdate_Ratings": "2024-07-09T19:00:08.3943693+00:00",
+  "LastUpdate_Ratings": "2024-07-09T20:58:46.1395383+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:22.8412672+00:00"
 }
