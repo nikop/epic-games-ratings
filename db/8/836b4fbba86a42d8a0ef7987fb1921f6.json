@@ -2,8 +2,8 @@
   "ID": "836b4fbba86a42d8a0ef7987fb1921f6",
   "Name": "Peggle Deluxe",
   "ProductSlug": "peggle-deluxe-9b4058",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-02T01:56:37.8019885+00:00",
   "LastUpdate_AppInfo": "2024-07-05T01:51:00.7760309+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:00:24.3683581+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:58:58.2989001+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:22.2672002+00:00"
 }

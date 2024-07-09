@@ -52,7 +52,7 @@ Rating: 4.74 (Ranked 171)
 | Collector's Edition | 0.50% | ~2,095 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 419,052 (Ranked 64)  
-Completed: 754 (0.18%) (Ranked 360)  
+Completed: 754 (0.18%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,7 +340,7 @@ Completed: 754 (0.18%) (Ranked 360)
 | 2024-06-17 | 419,052 | 754 |
 ## Awards
 Max (Character Customization): 40,546  (Ranked 17)  
-Sum: 91,986 (Ranked 21)  
+Sum: 91,990 (Ranked 21)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -4
 | This game is Highly Recommended | 2,898 |
 | This game has Amazing Characters | 2,855 |
 | This game has Quickly Understood Controls | 2,756 |
-| This game has Beautiful Visuals | 2,607 |
+| This game has Beautiful Visuals | 2,611 |
 | This game has a Creative Community | 1,837 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -832,4 +832,4 @@ Diff (max vs sum): -4
 | 2024-07-06 | 4.74 | 40,450 | 91,616 |
 | 2024-07-07 | 4.74 | 40,487 | 91,755 |
 | 2024-07-08 | 4.74 | 40,514 | 91,875 |
-| 2024-07-09 | 4.74 | 40,546 | 91,986 |
+| 2024-07-09 | 4.74 | 40,546 | 91,990 |

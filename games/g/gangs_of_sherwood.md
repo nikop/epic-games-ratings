@@ -59,7 +59,7 @@
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 198 (Ranked 550)  
-Completed: 0 (0.00%) (Ranked 510)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

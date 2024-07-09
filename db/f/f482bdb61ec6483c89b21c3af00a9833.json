@@ -2,8 +2,8 @@
   "ID": "f482bdb61ec6483c89b21c3af00a9833",
   "Name": "ASCENDANT.COM",
   "ProductSlug": "ascendant-16465d",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-09T01:54:58.6844546+00:00",
-  "LastUpdate_Ratings": "2024-07-09T19:59:34.2097243+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:58:07.2295548+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:52.903415+00:00"
 }

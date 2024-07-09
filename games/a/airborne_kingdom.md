@@ -1,41 +1,41 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 336)  
+Rating: 4.65 (Ranked 335)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,689 |
-| A Grove Replanted | 53.00% | ~4,438 |
-| Fields Watered | 41.00% | ~3,433 |
-| Seekers Found | 41.00% | ~3,433 |
-| Settling the Skies | 41.00% | ~3,433 |
-| Wind Powered | 40.00% | ~3,349 |
-| It Takes a Village | 34.00% | ~2,847 |
-| On the Town | 28.00% | ~2,344 |
-| Daylight Found | 26.00% | ~2,177 |
-| Irons Scorched | 25.00% | ~2,093 |
-| Islands Connected | 25.00% | ~2,093 |
-| Harp Tuned | 24.00% | ~2,010 |
-| Travelers Returned | 24.00% | ~2,010 |
-| Pyre Ignited | 23.00% | ~1,926 |
-| Hopes Hoisted | 22.00% | ~1,842 |
-| Knowledge Shared | 20.00% | ~1,675 |
-| Relic Finder | 20.00% | ~1,675 |
-| Worthy of the Title | 19.00% | ~1,591 |
-| A Peaceful Respite | 14.00% | ~1,172 |
-| A Learned Scholar | 13.00% | ~1,088 |
-| Prophecy Fulfilled | 13.00% | ~1,088 |
-| A Wanderer’s Guide | 11.00% | ~921 |
-| Knowledge Seeker | 6.00% | ~502 |
-| The Cycle Continues | 3.00% | ~251 |
-| Glowing Waters | 2.00% | ~167 |
-| Sparkling Alloys | 2.00% | ~167 |
-| A True Challenge | 2.00% | ~167 |
+| A Small Community | 56.00% | ~4,730 |
+| A Grove Replanted | 53.00% | ~4,476 |
+| Fields Watered | 41.00% | ~3,463 |
+| Seekers Found | 41.00% | ~3,463 |
+| Settling the Skies | 41.00% | ~3,463 |
+| Wind Powered | 40.00% | ~3,378 |
+| It Takes a Village | 34.00% | ~2,872 |
+| On the Town | 28.00% | ~2,365 |
+| Daylight Found | 26.00% | ~2,196 |
+| Islands Connected | 26.00% | ~2,196 |
+| Irons Scorched | 25.00% | ~2,112 |
+| Harp Tuned | 24.00% | ~2,027 |
+| Travelers Returned | 24.00% | ~2,027 |
+| Hopes Hoisted | 23.00% | ~1,943 |
+| Pyre Ignited | 23.00% | ~1,943 |
+| Knowledge Shared | 21.00% | ~1,774 |
+| Relic Finder | 20.00% | ~1,689 |
+| Worthy of the Title | 19.00% | ~1,605 |
+| A Peaceful Respite | 14.00% | ~1,182 |
+| A Learned Scholar | 13.00% | ~1,098 |
+| Prophecy Fulfilled | 13.00% | ~1,098 |
+| A Wanderer’s Guide | 11.00% | ~929 |
+| Knowledge Seeker | 6.00% | ~507 |
+| The Cycle Continues | 3.00% | ~253 |
+| Glowing Waters | 2.00% | ~169 |
+| Sparkling Alloys | 2.00% | ~169 |
+| A True Challenge | 2.00% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,373 (Ranked 233)  
-Completed: 64 (0.76%) (Ranked 254)  
+Progressed: 8,446 (Ranked 234)  
+Completed: 64 (0.76%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -320,6 +320,7 @@ Completed: 64 (0.76%) (Ranked 254)
 | 2024-03-21 | 8,048 | 60 |
 | 2024-04-10 | 8,111 | 60 |
 | 2024-06-17 | 8,373 | 64 |
+| 2024-07-09 | 8,446 | 64 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

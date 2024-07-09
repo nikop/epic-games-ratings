@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 590 (Ranked 430)  
-Completed: 0 (0.00%) (Ranked 510)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "2a5c8c9ac1d54eb39a5df0bce74cc66e",
   "Name": "Ememe",
   "ProductSlug": "ememe-220452",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-03T07:57:09.6434337+00:00",
-  "LastUpdate_Ratings": "2024-07-09T19:59:35.9552629+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:58:08.9267325+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:34.2595011+00:00"
 }

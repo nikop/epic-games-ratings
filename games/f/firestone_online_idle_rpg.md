@@ -82,7 +82,7 @@ Rating: 3.69 (Ranked 1,216)
 | Silverwood liberator | 0.10% | ~115 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 114,566 (Ranked 116)  
-Completed: 9 (0.01%) (Ranked 486)  
+Completed: 9 (0.01%) (Ranked 488)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

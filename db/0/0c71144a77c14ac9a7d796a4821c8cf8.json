@@ -2,8 +2,8 @@
   "ID": "0c71144a77c14ac9a7d796a4821c8cf8",
   "Name": "Solars Dominion",
   "ProductSlug": "solars-dominion-200fd8",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -36,7 +36,7 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2024-05-08T13:58:30.2009871+00:00",
-  "LastUpdate_AppInfo": "2024-07-02T21:56:54.9868004+00:00",
+  "LastUpdate_AppInfo": "2024-07-09T21:57:11.2143211+00:00",
   "LastUpdate_Ratings": "2024-07-09T21:00:20.5075998+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:45.7889728+00:00"
 }

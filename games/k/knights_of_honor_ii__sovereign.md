@@ -107,7 +107,7 @@ Rating: 4.34 (Ranked 924)
 | Two Sides to Every Story | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,351 (Ranked 315)  
-Completed: 0 (0.00%) (Ranked 510)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

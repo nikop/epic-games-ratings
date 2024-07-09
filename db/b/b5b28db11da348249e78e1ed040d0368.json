@@ -2,8 +2,8 @@
   "ID": "b5b28db11da348249e78e1ed040d0368",
   "Name": "Ready.Steady.Ship!",
   "ProductSlug": "readysteady-ship-31540e",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -256,6 +256,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:51.6388661+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:51.638861+00:00",
   "LastUpdate_AppInfo": "2024-07-05T16:57:43.6470438+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:58:10.1324679+00:00",
+  "LastUpdate_Ratings": "2024-07-09T22:00:29.2531784+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:51.6395625+00:00"
 }

@@ -54,7 +54,7 @@ Rating: 4.18 (Ranked 1,082)
 | Fowl Play | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,356 (Ranked 269)  
-Completed: 7 (0.16%) (Ranked 366)  
+Completed: 7 (0.16%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

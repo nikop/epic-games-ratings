@@ -5,49 +5,49 @@ Rating: 4.29 (Ranked 970)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~234 |
-| Bullseye! | 84.00% | ~226 |
-| Graduation! | 80.00% | ~215 |
-| Villfir Forest | 72.00% | ~194 |
-| Right in the kisser! | 57.00% | ~153 |
-| The Thrower | 44.00% | ~118 |
-| Duscot Steamcity | 43.00% | ~116 |
-| The Shaman | 42.00% | ~113 |
-| The Penguin | 41.00% | ~110 |
-| The Tunneler | 37.00% | ~100 |
-| The Magician | 36.00% | ~97 |
-| The Shield | 34.00% | ~91 |
-| Level Up!! | 32.00% | ~86 |
-| Kill-streak | 27.00% | ~73 |
-| Topped up | 27.00% | ~73 |
-| The Bird | 23.00% | ~62 |
-| The Ninja | 23.00% | ~62 |
-| 1 is all I need | 22.00% | ~59 |
-| The Idol | 22.00% | ~59 |
-| Inferno Ruins | 22.00% | ~59 |
-| I'm Rich | 19.00% | ~51 |
-| The Slime | 19.00% | ~51 |
-| Untouchable | 18.00% | ~48 |
-| The Giant | 15.00% | ~40 |
-| The Ooze | 15.00% | ~40 |
-| Ember | 15.00% | ~40 |
+| Level Up! | 87.00% | ~238 |
+| Bullseye! | 84.00% | ~230 |
+| Graduation! | 80.00% | ~219 |
+| Villfir Forest | 72.00% | ~197 |
+| Right in the kisser! | 57.00% | ~156 |
+| The Thrower | 44.00% | ~121 |
+| Duscot Steamcity | 43.00% | ~118 |
+| The Shaman | 42.00% | ~115 |
+| The Penguin | 41.00% | ~112 |
+| The Tunneler | 38.00% | ~104 |
+| The Magician | 37.00% | ~101 |
+| The Shield | 35.00% | ~96 |
+| Level Up!! | 33.00% | ~90 |
+| Topped up | 28.00% | ~77 |
+| Kill-streak | 27.00% | ~74 |
+| 1 is all I need | 23.00% | ~63 |
+| The Idol | 23.00% | ~63 |
+| The Bird | 23.00% | ~63 |
+| The Ninja | 23.00% | ~63 |
+| Inferno Ruins | 22.00% | ~60 |
+| I'm Rich | 20.00% | ~55 |
+| Untouchable | 19.00% | ~52 |
+| The Slime | 19.00% | ~52 |
+| The Flower | 15.00% | ~41 |
+| The Giant | 15.00% | ~41 |
+| The Ooze | 15.00% | ~41 |
+| Out of the Frying Pan... | 15.00% | ~41 |
+| Ember | 15.00% | ~41 |
 | The Blacksmith | 14.00% | ~38 |
-| The Flower | 14.00% | ~38 |
-| Out of the Frying Pan... | 14.00% | ~38 |
 | Turquoise | 14.00% | ~38 |
-| The Assistant | 12.00% | ~32 |
-| The Steampunk | 12.00% | ~32 |
-| The Droid | 9.00% | ~24 |
-| Verse | 9.00% | ~24 |
-| Iron | 9.00% | ~24 |
+| The Assistant | 12.00% | ~33 |
+| The Steampunk | 12.00% | ~33 |
+| The Droid | 9.00% | ~25 |
+| Verse | 9.00% | ~25 |
 | The Bomber | 8.00% | ~22 |
+| Iron | 8.00% | ~22 |
 | Power Overwhelming | 7.00% | ~19 |
 | Highway to Hell | 7.00% | ~19 |
 | The Astronaut | 6.00% | ~16 |
+| Mithril | 6.00% | ~16 |
 | Tested | 6.00% | ~16 |
-| The Exorcist | 5.00% | ~13 |
-| Mithril | 5.00% | ~13 |
-| Anvil | 5.00% | ~13 |
+| The Exorcist | 5.00% | ~14 |
+| Anvil | 5.00% | ~14 |
 | Analyzed | 4.00% | ~11 |
 | Aluminum | 4.00% | ~11 |
 | It's a Trap! | 3.00% | ~8 |
@@ -79,8 +79,8 @@ Rating: 4.29 (Ranked 970)
 | Divinity | 0.40% | ~1 |
 | Zombie Exterminator | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 516)  
-Completed: 1 (0.37%) (Ranked 313)  
+Progressed: 274 (Ranked 516)  
+Completed: 1 (0.36%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,6 +208,7 @@ Completed: 1 (0.37%) (Ranked 313)
 | 2024-04-10 | 247 | 1 |
 | 2024-05-13 | 253 | 1 |
 | 2024-06-17 | 269 | 1 |
+| 2024-07-09 | 274 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

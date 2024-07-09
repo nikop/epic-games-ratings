@@ -43,7 +43,7 @@
 | Prolific Artist | 13.00% | ~6 |
 | Merely Inquisitive | 13.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 723)  
+Progressed: 47 (Ranked 724)  
 Completed: 6 (12.77%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |

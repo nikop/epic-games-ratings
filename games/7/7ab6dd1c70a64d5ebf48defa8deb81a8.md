@@ -43,7 +43,7 @@ Rating: 4.17 (Ranked 1,093)
 | Feeling Fancy | 0.40% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,178 (Ranked 290)  
-Completed: 6 (0.19%) (Ranked 357)  
+Completed: 6 (0.19%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

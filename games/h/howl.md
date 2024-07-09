@@ -21,8 +21,8 @@
 | Ruthless | 38.00% | ~3 |
 | The Perfect Prophecy | 25.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 887)  
-Completed: 0 (0.00%) (Ranked 510)  
+Progressed: 8 (Ranked 888)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

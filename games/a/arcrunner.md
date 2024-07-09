@@ -35,7 +35,7 @@
 | Hell Raiser | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,132 (Ranked 374)  
-Completed: 0 (0.00%) (Ranked 510)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

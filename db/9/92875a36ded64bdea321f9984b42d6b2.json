@@ -2,8 +2,8 @@
   "ID": "92875a36ded64bdea321f9984b42d6b2",
   "Name": "Populous",
   "ProductSlug": "populous-845452",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-29T16:58:29.8502434+00:00",
   "LastUpdate_AppInfo": "2024-07-04T20:57:23.0177297+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:00:36.2580402+00:00"
+  "LastUpdate_Ratings": "2024-07-09T21:59:10.34395+00:00"
 }

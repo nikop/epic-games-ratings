@@ -2,8 +2,8 @@
   "ID": "37766a4f6c994e8ba33c9892ec5a56e2",
   "Name": "To the Stars",
   "ProductSlug": "to-the-stars-80b18e",
-  "Ranking_EOS_Progress": 957,
-  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_Progress": 927,
+  "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 4,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 50,
+  "EOS_Completed_Percentage": 25,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:01.3498828+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-07-09T22:07:22.9125543+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 1
     }
   ],
@@ -50,7 +55,7 @@
       "ID": "10",
       "SetID": "15faf2i",
       "Name": "Planet Bomber",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -58,7 +63,7 @@
       "ID": "11",
       "SetID": "15faf2i",
       "Name": "Planet Bomber",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -66,7 +71,7 @@
       "ID": "12",
       "SetID": "15faf2i",
       "Name": "Sneaky Pete",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "15",
       "SetID": "15faf2i",
       "Name": "Eco Warrior",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "16",
       "SetID": "15faf2i",
       "Name": "Queen of Speed",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "ID": "20",
       "SetID": "15faf2i",
       "Name": "Hot Air Balloon Pilot",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "21",
       "SetID": "15faf2i",
       "Name": "Tasty Fishy Deity",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -154,7 +159,7 @@
       "ID": "22",
       "SetID": "15faf2i",
       "Name": "Gardener",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "23",
       "SetID": "15faf2i",
       "Name": "2D Terror",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -170,7 +175,7 @@
       "ID": "24",
       "SetID": "15faf2i",
       "Name": "Golden Prawn",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "25",
       "SetID": "15faf2i",
       "Name": "Rock God",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "26",
       "SetID": "15faf2i",
       "Name": "Chaotic Tail",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -194,7 +199,7 @@
       "ID": "27",
       "SetID": "15faf2i",
       "Name": "Mistress Shapeshift",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "28",
       "SetID": "15faf2i",
       "Name": "Thorough Job",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -226,7 +231,7 @@
       "ID": "30",
       "SetID": "15faf2i",
       "Name": "Slow Grower",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -250,7 +255,7 @@
       "ID": "33",
       "SetID": "15faf2i",
       "Name": "Resource Raider",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -258,7 +263,7 @@
       "ID": "34",
       "SetID": "15faf2i",
       "Name": "Smoothtalker",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -274,7 +279,7 @@
       "ID": "36",
       "SetID": "15faf2i",
       "Name": "Environment Guy",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -282,7 +287,7 @@
       "ID": "37",
       "SetID": "15faf2i",
       "Name": "Chief Sneaker",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -290,7 +295,7 @@
       "ID": "38",
       "SetID": "15faf2i",
       "Name": "Emperor of Defense",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -298,7 +303,7 @@
       "ID": "39",
       "SetID": "15faf2i",
       "Name": "Revved up",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -306,7 +311,7 @@
       "ID": "4",
       "SetID": "15faf2i",
       "Name": "White Flag",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -322,7 +327,7 @@
       "ID": "5",
       "SetID": "15faf2i",
       "Name": "Loser\u0027s Humility",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -330,7 +335,7 @@
       "ID": "6",
       "SetID": "15faf2i",
       "Name": "Seat of your Pants",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -338,7 +343,7 @@
       "ID": "7",
       "SetID": "15faf2i",
       "Name": "Last Hurdle",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -363,13 +368,13 @@
     {
       "ID": "15faf2i",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 4,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:01.3498883+00:00",
-  "LastChanged_Achievements": "2024-06-25T15:01:44.6345269+00:00",
+  "LastChanged_Achievements": "2024-07-09T22:07:22.9125537+00:00",
   "LastUpdate_AppInfo": "2024-07-08T16:57:13.9439046+00:00",
   "LastUpdate_Ratings": "2024-07-09T21:00:20.7832659+00:00",
-  "LastUpdate_Achievements": "2024-06-25T15:01:44.634561+00:00"
+  "LastUpdate_Achievements": "2024-07-09T22:07:22.9125758+00:00"
 }

@@ -381,7 +381,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Veritas Vincit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 570,109 (Ranked 42)  
-Completed: 5 (0.00%) (Ranked 510)  
+Completed: 5 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -669,7 +669,7 @@ Completed: 5 (0.00%) (Ranked 510)
 | 2024-06-17 | 570,109 | 5 |
 ## Awards
 Max (Educational): 10,163  (Ranked 52)  
-Sum: 83,375 (Ranked 27)  
+Sum: 83,385 (Ranked 27)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -677,7 +677,7 @@ Diff (max vs sum): 25
 | This game has Diverse Characters | 10,068 |
 | This game is Highly Recommended | 9,753 |
 | This game has Challenging Combat | 9,614 |
-| This game is Extremely Fun | 9,355 |
+| This game is Extremely Fun | 9,365 |
 | This game is Relaxing | 9,238 |
 | This game has Competitive Players | 9,045 |
 | This game has Amazing Storytelling | 8,405 |
@@ -1225,4 +1225,4 @@ Diff (max vs sum): 25
 | 2024-07-06 | 4.68 | - | 10,134 | 83,115 |
 | 2024-07-07 | 4.68 | - | 10,148 | 83,211 |
 | 2024-07-08 | 4.68 | - | 10,148 | 83,298 |
-| 2024-07-09 | 4.68 | - | 10,163 | 83,375 |
+| 2024-07-09 | 4.68 | - | 10,163 | 83,385 |

@@ -2,8 +2,8 @@
   "ID": "7f438000e27e42409cf87125db2bbed0",
   "Name": "Bandit Trap",
   "ProductSlug": "bandit-trap-1bad77",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-05T23:57:03.3887394+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:57:27.7032603+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:59:47.0595011+00:00",
   "LastUpdate_Achievements": "2024-06-25T15:01:39.6276435+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "f01e94386f3141d583b60da78e1bdd61",
   "Name": "Copa City",
   "ProductSlug": "copa-city-8b3a50",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-04T15:57:07.4213495+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:58:01.5275451+00:00"
+  "LastUpdate_Ratings": "2024-07-09T22:00:20.0250393+00:00"
 }

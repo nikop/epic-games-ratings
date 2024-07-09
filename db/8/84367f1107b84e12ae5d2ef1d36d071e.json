@@ -2,8 +2,8 @@
   "ID": "84367f1107b84e12ae5d2ef1d36d071e",
   "Name": "Weed Shop 3",
   "ProductSlug": "weed-shop-3-1016fa",
-  "Ranking_EOS_Progress": 997,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 999,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -390,6 +390,6 @@
   "FirstSeenAchievements": "2024-03-21T17:05:27.2031215+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:49.9775984+00:00",
   "LastUpdate_AppInfo": "2024-07-02T23:57:01.4110996+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:58:16.6627282+00:00",
+  "LastUpdate_Ratings": "2024-07-09T22:00:36.2747233+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:49.9785017+00:00"
 }

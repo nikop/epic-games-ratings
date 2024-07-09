@@ -2,8 +2,8 @@
   "ID": "cc66d1c61f4d41c9b5377b5e13e92d80",
   "Name": "The Dark Isle",
   "ProductSlug": "the-dark-isle-4504b4",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T15:59:01.0369598+00:00",
   "LastUpdate_AppInfo": "2024-07-03T23:56:56.2753329+00:00",
-  "LastUpdate_Ratings": "2024-07-09T19:59:38.672599+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:58:11.0966273+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:19.9348073+00:00"
 }

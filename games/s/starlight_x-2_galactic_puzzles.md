@@ -48,8 +48,8 @@
 | Complete 5000 levels | 0.00% | ~0 |
 | Complete 25 12x12 levels | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 612)  
-Completed: 0 (0.00%) (Ranked 510)  
+Progressed: 117 (Ranked 614)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

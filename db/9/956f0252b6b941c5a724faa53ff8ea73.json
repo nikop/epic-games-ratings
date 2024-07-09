@@ -2,8 +2,8 @@
   "ID": "956f0252b6b941c5a724faa53ff8ea73",
   "Name": "Troma Presents Poultrygeist",
   "ProductSlug": "poultrygeist-6ab305",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-03T07:57:09.3950839+00:00",
-  "LastUpdate_Ratings": "2024-07-09T19:58:56.8644431+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:57:29.1500536+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:12.9508814+00:00"
 }

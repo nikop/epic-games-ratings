@@ -2,8 +2,8 @@
   "ID": "28346ccf11a04fd38c5cd843362c5a58",
   "Name": "Havoc",
   "ProductSlug": "panoverse2-8b60d6",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-06T19:56:59.3828671+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:00:13.7330398+00:00"
+  "LastUpdate_Ratings": "2024-07-09T21:58:47.7735829+00:00"
 }

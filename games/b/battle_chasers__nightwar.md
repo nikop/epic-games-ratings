@@ -1,7 +1,7 @@
 # Battle Chasers: Nightwar
 [Store](https://store.epicgames.com/en-US/p/battle-chasers-nightwar)  
 [View Rawdata](../../db/b/battle_chasers__nightwar.json)  
-Rating: 4.66 (Ranked 322)  
+Rating: 4.63 (Ranked 383)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,7 +56,7 @@ Number of Ratings: 32  (23.09.2022)
 | Big Game Hunter | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 146 (Ranked 591)  
-Completed: 2 (1.37%) (Ranked 198)  
+Completed: 2 (1.37%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,3 +112,4 @@ Diff (max vs sum): 0
 | 2024-05-15 | 4.67 | - | 0 | 0 |
 | 2024-05-19 | 4.66 | - | 0 | 0 |
 | 2024-06-27 | 4.66 | - | 20 | 20 |
+| 2024-07-09 | 4.63 | - | 20 | 20 |

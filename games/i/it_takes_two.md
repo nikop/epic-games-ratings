@@ -26,7 +26,7 @@
 | Minigame Megalomania | 2.00% | ~3,791 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 189,539 (Ranked 94)  
-Completed: 670 (0.35%) (Ranked 316)  
+Completed: 670 (0.35%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

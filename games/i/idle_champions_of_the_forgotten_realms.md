@@ -588,7 +588,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mordenkainen's Moment | 0.10% | ~298 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 331,239 (Ranked 74)  
-Completed: 3,069 (0.93%) (Ranked 242)  
+Completed: 3,069 (0.93%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

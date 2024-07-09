@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 580)  
+Rating: 4.54 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 580)
 | Wilhelm | 0.10% | ~282 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 956,612 (Ranked 23)  
-Completed: 3,062 (0.32%) (Ranked 321)  
+Completed: 3,062 (0.32%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -352,7 +352,7 @@ Completed: 3,062 (0.32%) (Ranked 321)
 | 2024-06-17 | 956,612 | 3,062 |
 ## Awards
 Max (Great Boss Battles): 15,800  (Ranked 33)  
-Sum: 25,882 (Ranked 63)  
+Sum: 25,883 (Ranked 63)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -361,7 +361,7 @@ Diff (max vs sum): -30
 | This game has Diverse Characters | 1,395 |
 | This game has Quickly Understood Controls | 1,252 |
 | This game is Highly Recommended | 1,228 |
-| This game is Extremely Fun | 1,208 |
+| This game is Extremely Fun | 1,209 |
 | This game has Amazing Storytelling | 1,197 |
 | This game is Relaxing | 1,192 |
 | This game has Amazing Characters | 1,134 |
@@ -813,4 +813,4 @@ Diff (max vs sum): -30
 | 2024-07-06 | 4.54 | 15,757 | 25,810 |
 | 2024-07-07 | 4.54 | 15,773 | 25,841 |
 | 2024-07-08 | 4.54 | 15,783 | 25,857 |
-| 2024-07-09 | 4.54 | 15,800 | 25,882 |
+| 2024-07-09 | 4.54 | 15,800 | 25,883 |

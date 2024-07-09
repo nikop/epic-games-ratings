@@ -2,8 +2,8 @@
   "ID": "036515219be849ea92ea10d9f445107f",
   "Name": "Asdivine Saga",
   "ProductSlug": "asdivine-saga-5fdefe",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -29,10 +29,294 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-09T22:02:44.8619049+00:00",
+  "TotalAchievements": 34,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "7l35b3",
+      "Name": "Ill Omen",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "7l35b3",
+      "Name": "I\u0027ll Go to Zandark Kingdom",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "7l35b3",
+      "Name": "I\u0027ll Travel the World",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "7l35b3",
+      "Name": "Lightoria\u0027s New King",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "7l35b3",
+      "Name": "Days in Zandark",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "7l35b3",
+      "Name": "Shinobi\u0027s Home",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "7l35b3",
+      "Name": "Careful Steps",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "7l35b3",
+      "Name": "Firm Steps",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "7l35b3",
+      "Name": "Secure Steps",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "7l35b3",
+      "Name": "Treasure Lover",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "7l35b3",
+      "Name": "Treasure Collector",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "7l35b3",
+      "Name": "First Companion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "7l35b3",
+      "Name": "Treasure Maniac",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "7l35b3",
+      "Name": "Novice Craftsman",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "7l35b3",
+      "Name": "Expert Craftsman",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "7l35b3",
+      "Name": "Master Craftsman",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "7l35b3",
+      "Name": "Awesome Impact",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "7l35b3",
+      "Name": "Fierce Impact",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "7l35b3",
+      "Name": "Intense Impact",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "7l35b3",
+      "Name": "Amateur Huntsman",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "7l35b3",
+      "Name": "Ordinary Huntsman",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "7l35b3",
+      "Name": "Skilled Huntsman",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "7l35b3",
+      "Name": "Noble Princess",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "7l35b3",
+      "Name": "The Core of Aids",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "7l35b3",
+      "Name": "Bronze Fighter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "7l35b3",
+      "Name": "Silver Fighter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "7l35b3",
+      "Name": "Gold Fighter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "7l35b3",
+      "Name": "Maid Fighter",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "7l35b3",
+      "Name": "All Together",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "7l35b3",
+      "Name": "Beyond the Raging Waves",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "7l35b3",
+      "Name": "Exploring the Sky",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "7l35b3",
+      "Name": "I\u0027m Going to Head Home",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "7l35b3",
+      "Name": "I\u0027ll Think About It After I Get Home",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "7l35b3",
+      "Name": "I\u0027ll Go to Lightoria Kingdom",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "7l35b3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-09T22:02:44.8619048+00:00",
+  "LastChanged_Achievements": "2024-07-09T22:02:44.8619005+00:00",
   "LastUpdate_AppInfo": "2024-07-04T16:57:22.1854854+00:00",
-  "LastUpdate_Ratings": "2024-07-09T19:59:38.237639+00:00"
+  "LastUpdate_Ratings": "2024-07-09T21:58:10.6030552+00:00",
+  "LastUpdate_Achievements": "2024-07-09T22:02:44.8629757+00:00"
 }

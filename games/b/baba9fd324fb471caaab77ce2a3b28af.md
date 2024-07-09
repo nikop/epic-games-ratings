@@ -35,8 +35,8 @@
 | The Great Gabber | 0.00% | ~0 |
 | Arm Day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 903)  
-Completed: 0 (0.00%) (Ranked 510)  
+Progressed: 6 (Ranked 904)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

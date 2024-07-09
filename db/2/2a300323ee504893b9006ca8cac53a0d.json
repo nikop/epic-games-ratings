@@ -2,8 +2,8 @@
   "ID": "2a300323ee504893b9006ca8cac53a0d",
   "Name": "Overrogue",
   "ProductSlug": "overrogue-3c0b98",
-  "Ranking_EOS_Progress": 917,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 919,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -262,6 +262,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:13.3978121+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:13.3978088+00:00",
   "LastUpdate_AppInfo": "2024-07-05T04:57:11.7851974+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:58:14.9560165+00:00",
+  "LastUpdate_Ratings": "2024-07-09T22:00:34.7594638+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:13.3985044+00:00"
 }

@@ -51,7 +51,7 @@ Number of Ratings: 56  (23.09.2022)
 | you're here for a good time, not a long time | 0.10% | ~518 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 518,123 (Ranked 49)  
-Completed: 61 (0.01%) (Ranked 486)  
+Completed: 61 (0.01%) (Ranked 488)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,7 +269,7 @@ Completed: 61 (0.01%) (Ranked 486)
 | 2024-06-17 | 518,123 | 61 |
 ## Awards
 Max (Great for Quick Sessions): 106  (Ranked 428)  
-Sum: 733 (Ranked 343)  
+Sum: 735 (Ranked 343)  
 Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): 85
 | This game has Amazing Storytelling | 74 |
 | This game has Challenging Combat | 62 |
 | This game has a Competitive Community | 58 |
-| This game has Amazing Characters | 55 |
+| This game has Amazing Characters | 57 |
 | This game has Competitive Players | 54 |
 | This game is Great for Beginners | 28 |
 ## Ratings History
@@ -490,4 +490,4 @@ Diff (max vs sum): 85
 | 2024-07-05 | 4.61 | - | 106 | 728 |
 | 2024-07-06 | 4.61 | - | 106 | 731 |
 | 2024-07-08 | 4.61 | - | 106 | 732 |
-| 2024-07-09 | 4.61 | - | 106 | 733 |
+| 2024-07-09 | 4.61 | - | 106 | 735 |

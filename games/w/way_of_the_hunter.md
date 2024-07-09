@@ -1,7 +1,7 @@
 # Way of the Hunter
 [Store](https://store.epicgames.com/en-US/p/way-of-the-hunter)  
 [View Rawdata](../../db/w/way_of_the_hunter.json)  
-Rating: 4.42 (Ranked 809)  
+Rating: 4.42 (Ranked 810)  
 Number of Ratings: 190  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -35,7 +35,7 @@ Number of Ratings: 190  (23.09.2022)
 | Task Force Tikamoon | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,144 (Ranked 258)  
-Completed: 2 (0.04%) (Ranked 439)  
+Completed: 2 (0.04%) (Ranked 440)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

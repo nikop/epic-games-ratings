@@ -1,7 +1,7 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.64 (Ranked 365)  
+Rating: 4.64 (Ranked 364)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,7 +58,7 @@ Number of Ratings: 96  (23.09.2022)
 | Word Master | 0.20% | ~171 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 85,517 (Ranked 132)  
-Completed: 112 (0.13%) (Ranked 380)  
+Completed: 112 (0.13%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

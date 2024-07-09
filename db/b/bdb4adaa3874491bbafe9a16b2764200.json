@@ -2,8 +2,8 @@
   "ID": "bdb4adaa3874491bbafe9a16b2764200",
   "Name": "LEGO\u00AE Horizon Adventures\u2122",
   "ProductSlug": "lego-horizon-adventures",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -27,7 +27,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "d4llpee",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-09T22:02:41.5392678+00:00",
+  "LastChanged_Achievements": "2024-07-09T22:02:41.5382666+00:00",
   "LastUpdate_AppInfo": "2024-07-09T15:57:38.3216534+00:00",
-  "LastUpdate_Ratings": "2024-07-09T19:59:14.8196446+00:00"
+  "LastUpdate_Ratings": "2024-07-09T21:57:47.4761259+00:00",
+  "LastUpdate_Achievements": "2024-07-09T22:02:41.5392828+00:00"
 }

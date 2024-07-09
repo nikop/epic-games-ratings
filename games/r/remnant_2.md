@@ -67,7 +67,7 @@ Rating: 4.70 (Ranked 234)
 | You Shall Pass | 0.10% | ~163 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 384,042 (Ranked 70)  
-Completed: 2,014 (0.52%) (Ranked 288)  
+Completed: 2,014 (0.52%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,7 +268,7 @@ Completed: 2,014 (0.52%) (Ranked 288)
 | 2024-06-17 | 384,042 | 2,014 |
 ## Awards
 Max (Great Boss Battles): 9,982  (Ranked 54)  
-Sum: 26,319 (Ranked 62)  
+Sum: 26,321 (Ranked 62)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): -8
 | This game is Extremely Fun | 1,707 |
 | This game has Quickly Understood Controls | 1,697 |
 | This game has Amazing Storytelling | 1,686 |
-| This game is Relaxing | 1,648 |
+| This game is Relaxing | 1,650 |
 | This game has Amazing Characters | 1,601 |
 | This game has Unique Visuals | 1,488 |
 | This game has a Creative Community | 1,193 |
@@ -635,4 +635,4 @@ Diff (max vs sum): -8
 | 2024-07-06 | 4.70 | 9,958 | 26,258 |
 | 2024-07-07 | 4.70 | 9,973 | 26,286 |
 | 2024-07-08 | 4.70 | 9,978 | 26,301 |
-| 2024-07-09 | 4.70 | 9,982 | 26,319 |
+| 2024-07-09 | 4.70 | 9,982 | 26,321 |

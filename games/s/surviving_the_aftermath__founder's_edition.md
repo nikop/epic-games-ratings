@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~568 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 567,650 (Ranked 43)  
-Completed: 107 (0.02%) (Ranked 468)  
+Completed: 107 (0.02%) (Ranked 470)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -355,7 +355,7 @@ Completed: 107 (0.02%) (Ranked 468)
 | 2024-06-17 | 567,650 | 107 |
 ## Awards
 Max (Great for Beginners): 405  (Ranked 269)  
-Sum: 1,987 (Ranked 243)  
+Sum: 1,990 (Ranked 243)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -363,8 +363,8 @@ Diff (max vs sum): 26
 | This game is Extremely Fun | 313 |
 | This game has Quickly Understood Controls | 289 |
 | This game is Highly Recommended | 280 |
-| This game has Amazing Storytelling | 277 |
-| This game is Relaxing | 269 |
+| This game has Amazing Storytelling | 278 |
+| This game is Relaxing | 271 |
 | This game has Amazing Characters | 192 |
 | This game has a Creative Community | 154 |
 | This game has Diverse Characters | 83 |
@@ -731,3 +731,4 @@ Diff (max vs sum): 26
 | 2024-07-04 | 4.38 | - | 403 | 1,980 |
 | 2024-07-06 | 4.38 | - | 405 | 1,984 |
 | 2024-07-08 | 4.38 | - | 405 | 1,987 |
+| 2024-07-09 | 4.38 | - | 405 | 1,990 |

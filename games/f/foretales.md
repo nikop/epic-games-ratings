@@ -47,8 +47,8 @@ Rating: 4.70 (Ranked 234)
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 510)  
+Progressed: 320 (Ranked 503)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

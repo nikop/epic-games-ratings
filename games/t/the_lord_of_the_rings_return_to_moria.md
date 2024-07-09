@@ -1,7 +1,7 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.42 (Ranked 809)  
+Rating: 4.42 (Ranked 810)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,7 +34,7 @@ Rating: 4.42 (Ranked 809)
 | We're Gonna Need More Mugs | 0.40% | ~1,689 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 422,324 (Ranked 63)  
-Completed: 642 (0.15%) (Ranked 373)  
+Completed: 642 (0.15%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

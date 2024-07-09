@@ -2,8 +2,8 @@
   "ID": "a7813321286a4180b3ab27dc11df9268",
   "Name": "DIG - Deep In Galaxies",
   "ProductSlug": "dig-deep-in-galaxies-973f95",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-12T07:00:21.3845637+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:36.8993056+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:58:17.1254372+00:00",
+  "LastUpdate_Ratings": "2024-07-09T22:00:36.6942076+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:29.9382105+00:00"
 }

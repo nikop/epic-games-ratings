@@ -46,7 +46,7 @@ Rating: 4.26 (Ranked 1,005)
 | Dazzling Personality | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239,265 (Ranked 90)  
-Completed: 0 (0.00%) (Ranked 510)  
+Completed: 0 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

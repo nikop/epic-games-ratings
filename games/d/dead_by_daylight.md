@@ -256,7 +256,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Troupe | 0.10% | ~1,461 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,461,055 (Ranked 12)  
-Completed: 104 (0.01%) (Ranked 486)  
+Completed: 104 (0.01%) (Ranked 488)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -545,14 +545,14 @@ Completed: 104 (0.01%) (Ranked 486)
 | 2024-06-17 | 1,461,055 | 104 |
 ## Awards
 Max (Diverse Characters): 49,228  (Ranked 16)  
-Sum: 361,964 (Ranked 12)  
+Sum: 362,001 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 49,228 |
 | This game is Highly Recommended | 41,543 |
 | This game has Amazing Characters | 40,634 |
-| This game has Challenging Combat | 40,279 |
+| This game has Challenging Combat | 40,316 |
 | This game has Competitive Players | 39,951 |
 | This game is Extremely Fun | 39,612 |
 | This game has Quickly Understood Controls | 38,211 |
@@ -1095,4 +1095,4 @@ Diff (max vs sum): 4
 | 2024-07-06 | 4.50 | - | 49,104 | 361,070 |
 | 2024-07-07 | 4.50 | - | 49,145 | 361,373 |
 | 2024-07-08 | 4.50 | - | 49,194 | 361,701 |
-| 2024-07-09 | 4.50 | - | 49,228 | 361,964 |
+| 2024-07-09 | 4.50 | - | 49,228 | 362,001 |

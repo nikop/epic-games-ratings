@@ -27,7 +27,7 @@ Rating: 4.37 (Ranked 883)
 | Rocketeer | 0.70% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,834 (Ranked 300)  
-Completed: 2 (0.07%) (Ranked 417)  
+Completed: 2 (0.07%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

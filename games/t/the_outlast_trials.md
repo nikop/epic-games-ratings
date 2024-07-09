@@ -1,7 +1,7 @@
 # The Outlast Trials
 [Store](https://store.epicgames.com/en-US/p/the-outlast-trials)  
 [View Rawdata](../../db/t/the_outlast_trials.json)  
-Rating: 4.65 (Ranked 336)  
+Rating: 4.65 (Ranked 335)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,7 +34,7 @@ Rating: 4.65 (Ranked 336)
 | Sleight of Hand | 3.00% | ~1,068 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35,596 (Ranked 171)  
-Completed: 480 (1.35%) (Ranked 200)  
+Completed: 480 (1.35%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

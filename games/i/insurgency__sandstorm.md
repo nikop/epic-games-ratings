@@ -43,7 +43,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Road Hazard | 0.10% | ~599 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 599,301 (Ranked 38)  
-Completed: 2 (0.00%) (Ranked 510)  
+Completed: 2 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,19 +331,19 @@ Completed: 2 (0.00%) (Ranked 510)
 | 2024-06-17 | 599,301 | 2 |
 ## Awards
 Max (Challenging Combat): 501  (Ranked 250)  
-Sum: 4,061 (Ranked 180)  
+Sum: 4,064 (Ranked 180)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 501 |
 | This game has Quickly Understood Controls | 481 |
-| This game is Highly Recommended | 467 |
+| This game is Highly Recommended | 468 |
 | This game has Realistic Visuals | 461 |
 | This game is Extremely Fun | 461 |
 | This game has Competitive Players | 446 |
 | This game has Amazing Characters | 422 |
 | This game has Amazing Storytelling | 417 |
-| This game has a Competitive Community | 405 |
+| This game has a Competitive Community | 407 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -851,3 +851,4 @@ Diff (max vs sum): 70
 | 2024-07-06 | 4.61 | - | 501 | 4,056 |
 | 2024-07-07 | 4.61 | - | 501 | 4,058 |
 | 2024-07-08 | 4.61 | - | 501 | 4,061 |
+| 2024-07-09 | 4.61 | - | 501 | 4,064 |

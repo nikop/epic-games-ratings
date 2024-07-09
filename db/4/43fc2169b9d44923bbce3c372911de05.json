@@ -2,8 +2,8 @@
   "ID": "43fc2169b9d44923bbce3c372911de05",
   "Name": "DATA2073",
   "ProductSlug": "data2073-9d83d4",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-03T18:56:55.0037777+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:00:36.5639917+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:59:10.7450663+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:04:20.8890706+00:00"
 }

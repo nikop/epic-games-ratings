@@ -2,8 +2,8 @@
   "ID": "c57260adb2684f23a4667a3692349d62",
   "Name": "Munch",
   "ProductSlug": "munch-67ddb8",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-04T14:57:18.2479675+00:00",
-  "LastUpdate_Ratings": "2024-07-09T19:59:15.8161785+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:57:48.4523387+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:24.7773448+00:00"
 }

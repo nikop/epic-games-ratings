@@ -2,8 +2,8 @@
   "ID": "b2915d5851bc4ddf91d7c90adf03f72b",
   "Name": "Arena 9th",
   "ProductSlug": "arena-9th-2b8a02",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-08T03:57:30.8933761+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:58:29.8322876+00:00",
+  "LastUpdate_Ratings": "2024-07-09T22:00:48.6511983+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:27.717129+00:00"
 }

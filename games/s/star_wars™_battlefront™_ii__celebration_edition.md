@@ -48,8 +48,8 @@
 | Multi-tasking | 0.50% | ~2,782 |
 | The Bomber | 0.20% | ~1,113 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 556,433 (Ranked 45)  
-Completed: 134 (0.02%) (Ranked 468)  
+Progressed: 556,433 (Ranked 46)  
+Completed: 134 (0.02%) (Ranked 470)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

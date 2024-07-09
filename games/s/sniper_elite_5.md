@@ -78,7 +78,7 @@ Rating: 4.49 (Ranked 680)
 | Master-at-arms | 0.60% | ~29 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,880 (Ranked 261)  
-Completed: 11 (0.23%) (Ranked 344)  
+Completed: 11 (0.23%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

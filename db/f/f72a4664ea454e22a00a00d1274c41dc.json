@@ -2,8 +2,8 @@
   "ID": "f72a4664ea454e22a00a00d1274c41dc",
   "Name": "Minimally Invasive",
   "ProductSlug": "minimally-invasive-60bd35",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-09T15:57:35.4394244+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:57:44.7308464+00:00",
+  "LastUpdate_Ratings": "2024-07-09T22:00:03.750111+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:09.9362819+00:00"
 }

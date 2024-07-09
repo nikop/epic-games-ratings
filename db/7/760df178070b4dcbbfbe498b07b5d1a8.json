@@ -2,8 +2,8 @@
   "ID": "760df178070b4dcbbfbe498b07b5d1a8",
   "Name": "Camp Canyonwood",
   "ProductSlug": "camp-canyonwood-dd54ff",
-  "Ranking_EOS_Progress": 728,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 729,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -420,6 +420,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:14.1481178+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:50.7479312+00:00",
   "LastUpdate_AppInfo": "2024-07-04T03:57:20.2391617+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:00:00.9442182+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:58:33.6525787+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:50.7479644+00:00"
 }

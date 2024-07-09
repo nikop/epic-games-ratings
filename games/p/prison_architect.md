@@ -6,25 +6,25 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 24.00% | ~62,944 |
-| Get Busy Living | 15.00% | ~39,340 |
-| Samuel Norton | 8.00% | ~20,981 |
-| Spare The Rod | 4.00% | ~10,491 |
-| Don't Put Me In The Dark | 3.00% | ~7,868 |
-| Wait and Hope | 3.00% | ~7,868 |
-| I May Have Found A Way Out Of Here | 3.00% | ~7,868 |
-| Throw The Book At Them | 2.00% | ~5,245 |
-| Iron Bars | 2.00% | ~5,245 |
-| D.B. Cooper | 1.00% | ~2,623 |
-| Reformation | 0.60% | ~1,574 |
-| Crowd Control | 0.50% | ~1,311 |
-| Freedom | 0.40% | ~1,049 |
-| Confined | 0.30% | ~787 |
-| It's Not What You Know... | 0.10% | ~262 |
-| ... It's What You Can Prove | 0.10% | ~262 |
+| Stone Walls | 24.00% | ~64,678 |
+| Get Busy Living | 15.00% | ~40,424 |
+| Samuel Norton | 8.00% | ~21,559 |
+| Spare The Rod | 4.00% | ~10,780 |
+| Don't Put Me In The Dark | 3.00% | ~8,085 |
+| Wait and Hope | 3.00% | ~8,085 |
+| I May Have Found A Way Out Of Here | 3.00% | ~8,085 |
+| Throw The Book At Them | 2.00% | ~5,390 |
+| Iron Bars | 2.00% | ~5,390 |
+| D.B. Cooper | 1.00% | ~2,695 |
+| Reformation | 0.60% | ~1,617 |
+| Crowd Control | 0.50% | ~1,347 |
+| Freedom | 0.40% | ~1,078 |
+| Confined | 0.30% | ~808 |
+| It's Not What You Know... | 0.10% | ~269 |
+| ... It's What You Can Prove | 0.10% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262,266 (Ranked 82)  
-Completed: 13 (0.00%) (Ranked 510)  
+Progressed: 269,490 (Ranked 79)  
+Completed: 13 (0.00%) (Ranked 512)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -310,9 +310,10 @@ Completed: 13 (0.00%) (Ranked 510)
 | 2024-03-21 | 237,850 | 13 |
 | 2024-04-10 | 243,316 | 13 |
 | 2024-06-17 | 262,266 | 13 |
+| 2024-07-09 | 269,490 | 13 |
 ## Awards
 Max (Great for Beginners): 936  (Ranked 195)  
-Sum: 7,088 (Ranked 143)  
+Sum: 7,091 (Ranked 143)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +324,7 @@ Diff (max vs sum): 52
 | This game has Diverse Characters | 817 |
 | This game has Quickly Understood Controls | 808 |
 | This game has Amazing Storytelling | 759 |
-| This game has Amazing Characters | 672 |
+| This game has Amazing Characters | 675 |
 | This game is Educational | 625 |
 | This game has a Creative Community | 544 |
 | This game has Obsessive Gameplay | 234 |
@@ -863,4 +864,4 @@ Diff (max vs sum): 52
 | 2024-07-06 | 4.61 | - | 934 | 7,053 |
 | 2024-07-07 | 4.61 | - | 934 | 7,063 |
 | 2024-07-08 | 4.61 | - | 934 | 7,077 |
-| 2024-07-09 | 4.61 | - | 936 | 7,088 |
+| 2024-07-09 | 4.61 | - | 936 | 7,091 |

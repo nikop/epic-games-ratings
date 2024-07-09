@@ -19,8 +19,8 @@
 | Meal for two | 5.00% | ~4 |
 | The fun uncle | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 670)  
-Completed: 1 (1.33%) (Ranked 202)  
+Progressed: 75 (Ranked 671)  
+Completed: 1 (1.33%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

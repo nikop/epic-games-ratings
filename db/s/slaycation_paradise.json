@@ -2,8 +2,8 @@
   "ID": "3eede8826c3b46e4926a30e4f95867ee",
   "Name": "Slaycation Paradise",
   "ProductSlug": "slaycation-paradise-47a603",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.628792+00:00",
   "LastChanged": "2023-03-31T05:58:24.6287921+00:00",
   "LastUpdate_AppInfo": "2024-07-07T13:00:40.0881481+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:58:21.9638526+00:00",
+  "LastUpdate_Ratings": "2024-07-09T22:00:40.9976135+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:33.8508288+00:00"
 }

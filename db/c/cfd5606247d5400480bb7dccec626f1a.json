@@ -2,8 +2,8 @@
   "ID": "cfd5606247d5400480bb7dccec626f1a",
   "Name": "Blood West",
   "ProductSlug": "blood-west-8f6ffd",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 959,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -25,17 +25,315 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-09T22:02:42.9554813+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-09T22:02:42.9557474+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "CompleteWithoutDeath_Chapter1",
+      "SetID": "3lop7m0",
+      "Name": "Trial by Roots",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CompleteWithoutDeath_Chapter2",
+      "SetID": "3lop7m0",
+      "Name": "Trial by Tentacles",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CompleteWithoutDeath_Chapter3",
+      "SetID": "3lop7m0",
+      "Name": "Trial by Fire",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_BeingDrunk",
+      "SetID": "3lop7m0",
+      "Name": "Drunken Brawl",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_BossTreeWithoutDamageFromSpikes",
+      "SetID": "3lop7m0",
+      "Name": "Spike Dancer",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Kill_BossTreeWithoutKillingOrbs",
+      "SetID": "3lop7m0",
+      "Name": "Pondering my orbs",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_GunLadyWithMask",
+      "SetID": "3lop7m0",
+      "Name": "I\u0027d like to keep it on",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Kill_ManyMobsWithSingleDynamite",
+      "SetID": "3lop7m0",
+      "Name": "Big Bada Boom",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Kill_SpiritWithDynamite",
+      "SetID": "3lop7m0",
+      "Name": "Explosive Soul",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Kill_TomahawkHeadshotInRow",
+      "SetID": "3lop7m0",
+      "Name": "Tomahawk Expert",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_VendigoWhileDrunk",
+      "SetID": "3lop7m0",
+      "Name": "The bush is moving!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_WithFire",
+      "SetID": "3lop7m0",
+      "Name": "Love is a burning thing",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_WithHeadshots",
+      "SetID": "3lop7m0",
+      "Name": "Headhunter",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Kill_ZombieCoffinByHeadshotWithoutBreakingTheCoffin",
+      "SetID": "3lop7m0",
+      "Name": "Shouldn\u0027t have peeked",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Special_ChainHeadshots",
+      "SetID": "3lop7m0",
+      "Name": "Serial Headshotter",
+      "Percentage": 200,
+      "XP": 30,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Special_CompleteChapterWithAllCurses",
+      "SetID": "3lop7m0",
+      "Name": "I\u0027m Perfect the way I am",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Special_FallAndSurvive",
+      "SetID": "3lop7m0",
+      "Name": "Wilhelm Scream",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Special_TireCollectorFewTimes",
+      "SetID": "3lop7m0",
+      "Name": "Personal coach",
+      "Percentage": 50,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Story_AlvaroChapter2",
+      "SetID": "3lop7m0",
+      "Name": "Alvaro\u2019s friend",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Story_AlvaroChapter3",
+      "SetID": "3lop7m0",
+      "Name": "Alvaro\u2019s best friend",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Story_BooHagQuest",
+      "SetID": "3lop7m0",
+      "Name": "Skin Dancer",
+      "Percentage": 50,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Story_Chapter1Done",
+      "SetID": "3lop7m0",
+      "Name": "Bloody Roots",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Story_Chapter2Done",
+      "SetID": "3lop7m0",
+      "Name": "Giant From Beyond",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Story_Chapter3Done",
+      "SetID": "3lop7m0",
+      "Name": "Old Friend, New Enemy",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Story_CollectAllQuestItemsChapter1",
+      "SetID": "3lop7m0",
+      "Name": "Gotta catch\u2019em all",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Story_DoctorQuest",
+      "SetID": "3lop7m0",
+      "Name": "Price of science",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Story_GetAllNotes",
+      "SetID": "3lop7m0",
+      "Name": "Loremaster of the Barren Lands",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Story_GiveAnabelleGoodFlower",
+      "SetID": "3lop7m0",
+      "Name": "Romance ain\u0027t dead, It\u0027s just me",
+      "Percentage": 50,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Story_JimQuest",
+      "SetID": "3lop7m0",
+      "Name": "Blood Money",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Story_MeetAnabelle",
+      "SetID": "3lop7m0",
+      "Name": "Masked Mystery",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Story_MeetPriest",
+      "SetID": "3lop7m0",
+      "Name": "Man of the Cloth",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Story_MeetTwen",
+      "SetID": "3lop7m0",
+      "Name": "Voodoo Daughter",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Story_MeetUndead",
+      "SetID": "3lop7m0",
+      "Name": "Undead, meet The Undead",
+      "Percentage": 50,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Story_TutorialDone",
+      "SetID": "3lop7m0",
+      "Name": "I Live Again",
+      "Percentage": 200,
+      "XP": 30,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Story_UseCure",
+      "SetID": "3lop7m0",
+      "Name": "For Whom the Bell Tolls?",
+      "Percentage": 50,
+      "XP": 30,
+      "UsersEstimate": 1
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "3lop7m0",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-07-09T17:01:06.2240392+00:00",
+  "FirstSeenAchievements": "2024-07-09T22:02:42.9557474+00:00",
+  "LastChanged_Achievements": "2024-07-09T22:02:42.9554802+00:00",
   "LastUpdate_AppInfo": "2024-07-08T13:03:41.0353463+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:57:36.7592964+00:00"
+  "LastUpdate_Ratings": "2024-07-09T21:59:56.3204364+00:00",
+  "LastUpdate_Achievements": "2024-07-09T22:02:42.9875688+00:00"
 }

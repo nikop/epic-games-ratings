@@ -2,8 +2,8 @@
   "ID": "b2618d3261e14430b9c338bbd6631018",
   "Name": "GRUNND",
   "ProductSlug": "grunnd-390f3f",
-  "Ranking_EOS_Progress": 1088,
-  "Ranking_EOS_Completed": 510,
+  "Ranking_EOS_Progress": 1090,
+  "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-08T14:57:14.317015+00:00",
-  "LastUpdate_Ratings": "2024-07-09T20:00:21.2403976+00:00",
+  "LastUpdate_Ratings": "2024-07-09T21:58:54.5804456+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:16.3352075+00:00"
 }

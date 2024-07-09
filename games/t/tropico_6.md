@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.65 (Ranked 336)  
+Rating: 4.65 (Ranked 335)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -47,8 +47,8 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.70% | ~62 |
 | My Ways | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,851 (Ranked 230)  
-Completed: 2 (0.02%) (Ranked 468)  
+Progressed: 8,851 (Ranked 231)  
+Completed: 2 (0.02%) (Ranked 470)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
