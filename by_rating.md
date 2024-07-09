@@ -216,7 +216,7 @@
 | 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 0 | 667 |
 | 206 | [The Machines Arena](games/t/the_machines_arena.md) | 4.72 | 34 | 582 |
 | 216 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 4.71 | 132 | 396 |
-| 216 | [Dead Space](games/d/dead_space.md) | 4.71 | 482 | 253 |
+| 216 | [Dead Space](games/d/dead_space.md) | 4.71 | 486 | 253 |
 | 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 731 | 216 |
 | 216 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 723 | 219 |
 | 216 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.71 | 0 | 667 |
@@ -396,7 +396,7 @@
 | 383 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 345 |
 | 383 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 776 | 210 |
 | 383 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 11,847 | 46 |
-| 383 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,661 | 96 |
+| 383 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,668 | 96 |
 | 383 | [Prey](games/p/prey.md) | 4.63 | 6,095 | 83 |
 | 383 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.63 | 198 | 348 |
 | 383 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.63 | 0 | 667 |
@@ -442,7 +442,7 @@
 | 423 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,597 | 49 |
 | 423 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,148 | 172 |
 | 423 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 667 |
-| 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,904 | 67 |
+| 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,905 | 67 |
 | 423 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 641 | 229 |
 | 423 | [Tails of Iron](games/t/tails_of_iron.md) | 4.61 | 22 | 646 |
 | 423 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 770 | 211 |
@@ -506,7 +506,7 @@
 | 495 | [MotoGP™21](games/m/motogp™21.md) | 4.58 | 27 | 617 |
 | 495 | [Moving Out](games/m/moving_out.md) | 4.58 | 23 | 641 |
 | 495 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 4.58 | 25 | 631 |
-| 495 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 12,626 | 43 |
+| 495 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 12,637 | 43 |
 | 495 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,533 | 149 |
 | 495 | [Risen](games/r/risen.md) | 4.58 | 0 | 667 |
 | 495 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.58 | 84 | 462 |
@@ -550,7 +550,7 @@
 | 542 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 50 | 531 |
 | 542 | [Horace](games/h/horace.md) | 4.56 | 0 | 667 |
 | 542 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 667 |
-| 542 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 4.56 | 1,107 | 176 |
+| 542 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 4.56 | 1,111 | 175 |
 | 542 | [Oxenfree](games/o/oxenfree.md) | 4.56 | 0 | 667 |
 | 542 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,891 | 138 |
 | 542 | [Returnal™](games/r/returnal™.md) | 4.56 | 235 | 330 |
@@ -586,7 +586,7 @@
 | 581 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 610 |
 | 581 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,385 | 76 |
 | 581 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,926 | 136 |
-| 581 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,783 | 33 |
+| 581 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,800 | 33 |
 | 581 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 610 |
 | 581 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 560 |
 | 581 | [Godlike Burger](games/g/godlike_burger.md) | 4.54 | 0 | 667 |
@@ -774,7 +774,7 @@
 | 764 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 8,291 | 65 |
 | 764 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 667 |
 | 764 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 667 |
-| 764 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 876,419 | 2 |
+| 764 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 877,051 | 2 |
 | 764 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 667 |
 | 764 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 514 |
 | 764 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 442 |
@@ -844,7 +844,7 @@
 | 841 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 667 |
 | 841 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 667 |
 | 841 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 78 | 473 |
-| 841 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,108 | 175 |
+| 841 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,108 | 176 |
 | 841 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.40 | 0 | 667 |
 | 841 | [Hell is Others](games/h/hell_is_others.md) | 4.40 | 75 | 478 |
 | 841 | [Hero's Hour](games/h/hero's_hour.md) | 4.40 | 0 | 667 |
