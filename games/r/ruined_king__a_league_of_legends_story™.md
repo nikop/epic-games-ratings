@@ -1,7 +1,7 @@
 # Ruined King: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/ruined-king-a-league-of-legends-story)  
 [View Rawdata](../../db/r/ruined_king__a_league_of_legends_story™.json)  
-Rating: 4.63 (Ranked 383)  
+Rating: 4.62 (Ranked 402)  
 Number of Ratings: 597  (23.09.2022)  
 ## Awards
 Max (Character Customization): 198  (Ranked 348)  
@@ -107,3 +107,4 @@ Diff (max vs sum): -141
 | 2024-05-05 | 4.62 | - | 197 | 197 |
 | 2024-05-17 | 4.63 | - | 197 | 197 |
 | 2024-06-07 | 4.63 | - | 198 | 198 |
+| 2024-07-09 | 4.62 | - | 198 | 198 |

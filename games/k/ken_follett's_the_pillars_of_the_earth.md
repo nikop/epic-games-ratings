@@ -336,8 +336,8 @@ Completed: 135 (0.65%) (Ranked 267)
 | 2024-04-10 | 19,519 | 133 |
 | 2024-06-17 | 20,672 | 135 |
 ## Awards
-Max (Easy Puzzles): 165  (Ranked 370)  
-Sum: 211 (Ranked 480)  
+Max (Easy Puzzles): 165  (Ranked 371)  
+Sum: 211 (Ranked 481)  
 Diff (max vs sum): -110  
 | Award | Count |
 | ----- | ----- |
