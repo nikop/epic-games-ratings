@@ -24,7 +24,7 @@
 | [Trapaze](games/1/1000868feb26473f82cd34c1d5e1cb06.md) | 2024-07-25 | - |  | - | - |
 | [Hero of the Kingdom II](games/e/ed5411fb63534b74952a4dba16d5a38f.md) | 2024-07-26 | - |  | - | - |
 | [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-07-31 | 35 (1,000 XP) | 0 | - | - |
-| [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-07-31 | - |  | - | - |
+| [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-07-31 | 34 (1,000 XP) | 0 | - | - |
 | [Breachway](games/b/breachway.md) | 2024-07-31 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
 | [Dragon Chronicles: Black Tears](games/6/6ed45680bbff4a6993b7ccebe02a1f9d.md) | 2024-07-31 | - |  | - | - |
@@ -645,7 +645,7 @@
 | [Thorgal](games/7/77e1c378b2344ca180de58114bc3a6b5.md) | 2099-01-01 | - |  | - | - |
 | [Three Kingdoms The Last Warlord](games/t/three_kingdoms_the_last_warlord.md) | 2099-01-01 | 192 (1,000 XP) | 0 | - | - |
 | [Time Flies](games/d/deef7522b0aa48629c8df8cfab16007c.md) | 2099-01-01 | - |  | - | - |
-| [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2099-01-01 | 40 (1,000 XP) | 2 | - | - |
+| [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2099-01-01 | 40 (1,000 XP) | 4 | - | - |
 | [Tokyo Waning Moon](games/0/098b24c8da10404abc327b0e1604ee96.md) | 2099-01-01 | - |  | - | - |
 | [Tormented Souls 2](games/9/98a33c69dd4c462a877089ca59716a52.md) | 2099-01-01 | - |  | - | - |
 | [Touch the Color](games/a/adc4991d2edb4cdf80d47822d9149169.md) | 2099-01-01 | - |  | - | - |

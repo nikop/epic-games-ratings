@@ -3,7 +3,7 @@
 | [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2024-07-09 | - |  | - | - |
 | [Lifeless Moon](games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 2024-07-09 | - |  | - | - |
 | [Maisa: Galactic Bounty Hunter](games/1/15e3c5fe82e84c31b49eeb842b4fa001.md) | 2024-07-08 | - |  | - | - |
-| [Blood West](games/c/cfd5606247d5400480bb7dccec626f1a.md) | 2024-07-08 | - |  | - | 0 |
+| [Blood West](games/c/cfd5606247d5400480bb7dccec626f1a.md) | 2024-07-08 | 35 (1,000 XP) | 2 | - | 0 |
 | [UNTITLED](games/f/fc6480a75bb14349aec408ef47dc58b9.md) | 2024-07-07 | - |  | - | - |
 | [MASHUP BROS. Super Marionette Brawl](games/d/d188c5bd7b3748878eea2423f47fb7f6.md) | 2024-07-07 | - |  | - | 0 |
 | [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2024-07-06 | - |  | - | - |
@@ -59,7 +59,7 @@
 | [Populous 2: Trials of the Olympian Gods](games/0/015591a4181841a189687d0d3ba5ddf0.md) | 2024-06-27 | - |  | - | - |
 | [Chess Knights: Shinobi](games/3/3ca3fe1ee37a4dbf90f1b242c3c30bee.md) | 2024-06-27 | - |  | - | - |
 | [HexON](games/5/5b95b193df59499886544e610dc871e5.md) | 2024-06-27 | - |  | - | 0 |
-| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | - |  | 4.42 | 45 |
+| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | - |  | 4.43 | 45 |
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-27 | - |  | - | 0 |
 | [Space Wolf](games/6/67b63764a0ad4f9a86559d8b798ef25e.md) | 2024-06-27 | - |  | - | - |
 | [The Adventures of Prince Shiratama ~Climb the mountains~](games/4/4334a911c46b4816b3d6580f5dd03fab.md) | 2024-06-26 | - |  | - | 0 |
@@ -90,7 +90,7 @@
 | [Political Punchers 2024 Arena](games/a/acee61c9af204dd1b2d193a1d5427567.md) | 2024-06-18 | - |  | - | 0 |
 | [Internet Cafe Evolution](games/8/87beabc82e8a4a4f9a4914ee5d97decc.md) | 2024-06-18 | - |  | - | 0 |
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | 308 (2,135 XP) | 1 | - | - |
-| [Deadly Domain](games/b/bd7abb8b7b1b46408a4eb7de6f50b9c9.md) | 2024-06-16 | 5 (1,000 XP) | 0 | - | 0 |
+| [Deadly Domain](games/b/bd7abb8b7b1b46408a4eb7de6f50b9c9.md) | 2024-06-16 | 5 (1,000 XP) | 137 | - | 0 |
 | [Virtual Girlfriend Lia](games/e/e140fc5e5afc4462ad05681a1acb5619.md) | 2024-06-15 | - |  | - | - |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 3 | - | - |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | 26 (1,000 XP) | 2 | - | 0 |

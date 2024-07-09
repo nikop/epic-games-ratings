@@ -462,6 +462,7 @@
 | [Aeon Must Die!](../games/a/aeon_must_die!.md) | 35 | 1,000 |
 | [Alphadia I & II](../games/4/49940871788f45ec914934e6af085284.md) | 35 | 1,000 |
 | [Backpack Hero](../games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 35 | 1,000 |
+| [Blood West](../games/c/cfd5606247d5400480bb7dccec626f1a.md) | 35 | 1,000 |
 | [Booze Masters: Freezing Moonshine](../games/d/deca76ccbe584df395bc785c61653e50.md) | 35 | 1,000 |
 | [Busway Islands - Puzzle](../games/b/busway_islands_-_puzzle.md) | 35 | 1,000 |
 | [Despot's Game](../games/d/despot's_game.md) | 35 | 1,000 |
@@ -485,6 +486,7 @@
 | [Time on Frog Island](../games/t/time_on_frog_island.md) | 35 | 1,000 |
 | [We Love Katamari REROLL+ Royal Reverie](../games/5/5c8529a62b4243469be68b08bd5c1bfa.md) | 35 | 1,000 |
 | [Airport CEO](../games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 34 | 1,000 |
+| [Asdivine Saga](../games/0/036515219be849ea92ea10d9f445107f.md) | 34 | 1,000 |
 | [Battlefield™ 2042](../games/b/battlefield™_2042.md) | 34 | 1,000 |
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
 | [Crayta](../games/c/crayta.md) | 34 | 1,000 |

@@ -149,6 +149,7 @@
 | [Art of Rally](../games/a/art_of_rally_1.md) | 43 | 1,000 |
 | [Arto](../games/a/arto.md) | 18 | 1,000 |
 | [As Dusk Falls](../games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 50 | 1,000 |
+| [Asdivine Saga](../games/0/036515219be849ea92ea10d9f445107f.md) | 34 | 1,000 |
 | [Ash of Gods: Redemption](../games/b/bf3261d8abc64fdfb73c3f9c4f7870e0.md) | 50 | 1,000 |
 | [Ash of Gods: The Way](../games/a/ash_of_gods__the_way.md) | 49 | 1,000 |
 | [Astalon -Tears of the Earth-](../games/a/astalon_-tears_of_the_earth-.md) | 30 | 1,000 |
@@ -196,6 +197,7 @@
 | [Blasphemous 2](../games/c/c2890856ddb844f1a7d552fc929838a7.md) | 46 | 1,000 |
 | [Blood Flowers](../games/5/5ab7474f6a7043aaba392d4b64096737.md) | 20 | 1,000 |
 | [Blood of Titans](../games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 66 | 1,000 |
+| [Blood West](../games/c/cfd5606247d5400480bb7dccec626f1a.md) | 35 | 1,000 |
 | [BloodRayne 2: Terminal Cut](../games/b/bloodrayne_2__terminal_cut.md) | 14 | 1,000 |
 | [BloodRayne Betrayal Fresh Bites](../games/b/bloodrayne_betrayal_fresh_bites.md) | 24 | 1,000 |
 | [BloodRayne: Terminal Cut](../games/b/bloodrayne__terminal_cut.md) | 13 | 1,000 |
