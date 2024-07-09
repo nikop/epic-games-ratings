@@ -372,7 +372,7 @@
 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 2023-11-08 | 9 (1,000 XP) | 31 | - | - |
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 40 | - | 0 |
-| [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 62,117 | 4.83 | 0 |
+| [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 62,117 | 4.84 | 0 |
 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.79 | 746 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,322 | 4.60 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 206 | - | 0 |
@@ -653,7 +653,7 @@
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 21 (1,000 XP) | 318 | - | 0 |
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 177 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | 0 |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 1,102,179 | 4.67 | 14,189 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 1,102,179 | 4.68 | 14,189 |
 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,352,902 | 4.33 | 118 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 674 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 21 | - | 0 |
@@ -833,7 +833,7 @@
 | [Garden In](games/g/garden_in.md) | 2023-01-26 | 31 (1,000 XP) | 240 | - | 0 |
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 2023-01-26 | 19 (1,000 XP) | 2,397 | 4.34 | 0 |
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 2023-01-25 | 71 (1,250 XP) | 19,704 | 4.83 | 61 |
-| [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 51,902 | 4.16 | 72 |
+| [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 51,902 | 4.16 | 73 |
 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 2023-01-24 | 19 (1,000 XP) | 305 | - | 0 |
 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 2023-01-19 | 26 (1,000 XP) | 17,794 | 3.83 | 0 |
 | [Colossal Cave](games/c/colossal_cave.md) | 2023-01-19 | 24 (1,000 XP) | 118 | - | 0 |
