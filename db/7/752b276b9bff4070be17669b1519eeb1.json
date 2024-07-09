@@ -3,8 +3,8 @@
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 826,
-  "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 228,
+  "Ranking_Popularity": 205,
+  "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 1088,
   "Ranking_EOS_Completed": 510,
   "Ranking_EOS_NewPlayers": 18,
@@ -5543,10 +5543,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 2513,
       "NumberOfAwardsMax": 815
+    },
+    {
+      "Time": "2024-07-09T19:00:14.763412+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 2514,
+      "NumberOfAwardsMax": 815
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2513,
+  "NumberOfAwards": 2514,
   "NumberOfAwardsMax": 815,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5584,7 +5590,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 157
+      "Count": 158
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5623,8 +5629,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-07-09T17:58:06.7977834+00:00",
+  "LastChanged": "2024-07-09T19:00:14.7634118+00:00",
   "LastUpdate_AppInfo": "2024-07-05T15:57:27.260194+00:00",
-  "LastUpdate_Ratings": "2024-07-09T17:58:06.797784+00:00",
+  "LastUpdate_Ratings": "2024-07-09T19:00:14.7634124+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:14.4516326+00:00"
 }
