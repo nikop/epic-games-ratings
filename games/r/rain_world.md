@@ -3,12 +3,12 @@
 [View Rawdata](../../db/r/rain_world.json)  
 Rating: 4.87 (Ranked 18)  
 ## Awards
-Max (Diverse Characters): 23  (Ranked 640)  
-Sum: 45 (Ranked 598)  
-Diff (max vs sum): 42  
+Max (Diverse Characters): 25  (Ranked 631)  
+Sum: 47 (Ranked 596)  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 23 |
+| This game has Diverse Characters | 25 |
 | This game has Challenging Combat | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -44,3 +44,4 @@ Diff (max vs sum): 42
 | 2024-06-27 | 4.86 | 23 | 44 |
 | 2024-06-29 | 4.87 | 23 | 44 |
 | 2024-07-07 | 4.87 | 23 | 45 |
+| 2024-07-09 | 4.87 | 25 | 47 |
