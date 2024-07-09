@@ -2,7 +2,7 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
-  "Ranking_Rating": 681,
+  "Ranking_Rating": 680,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 1088,
@@ -7306,6 +7306,6 @@
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
   "LastChanged": "2024-07-08T13:05:08.3002629+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:45.0907824+00:00",
-  "LastUpdate_Ratings": "2024-07-09T13:08:44.2158416+00:00",
+  "LastUpdate_Ratings": "2024-07-09T14:57:33.6689923+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:10.4235003+00:00"
 }
