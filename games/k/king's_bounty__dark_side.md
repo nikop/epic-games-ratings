@@ -1,11 +1,11 @@
 # King's Bounty: Dark Side
 [Store](https://store.epicgames.com/en-US/p/kings-bounty-dark-side-c3066f)  
 [View Rawdata](../../db/k/king's_bounty__dark_side.json)  
-Rating: 4.37 (Ranked 882)  
+Rating: 4.37 (Ranked 883)  
 Number of Ratings: 40  (23.09.2022)  
 ## Awards
-Max (Character Customization): 20  (Ranked 656)  
-Sum: 20 (Ranked 656)  
+Max (Character Customization): 20  (Ranked 657)  
+Sum: 20 (Ranked 657)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

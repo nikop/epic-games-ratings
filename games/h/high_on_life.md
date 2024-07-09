@@ -336,8 +336,8 @@ Completed: 15 (0.06%) (Ranked 423)
 | 2024-04-10 | 25,541 | 14 |
 | 2024-06-17 | 25,705 | 15 |
 ## Awards
-Max (Unique Visuals): 20  (Ranked 656)  
-Sum: 20 (Ranked 656)  
+Max (Unique Visuals): 20  (Ranked 657)  
+Sum: 20 (Ranked 657)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

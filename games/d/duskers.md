@@ -3,8 +3,8 @@
 [View Rawdata](../../db/d/duskers.json)  
 Rating: 4.55 (Ranked 560)  
 ## Awards
-Max (Quickly Understood Controls): 20  (Ranked 656)  
-Sum: 20 (Ranked 656)  
+Max (Quickly Understood Controls): 20  (Ranked 657)  
+Sum: 20 (Ranked 657)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
