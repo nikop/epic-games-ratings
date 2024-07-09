@@ -329,7 +329,7 @@ Completed: 144 (0.76%) (Ranked 254)
 | 2024-06-17 | 18,972 | 144 |
 ## Awards
 Max (Diverse Characters): 30  (Ranked 602)  
-Sum: 201 (Ranked 485)  
+Sum: 202 (Ranked 485)  
 Diff (max vs sum): 117  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): 117
 | This game has Quickly Understood Controls | 23 |
 | This game is Great for Beginners | 23 |
 | This game has Easy Combat | 22 |
-| This game is Relaxing | 21 |
+| This game is Relaxing | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -562,3 +562,4 @@ Diff (max vs sum): 117
 | 2024-07-01 | 4.53 | 30 | 199 |
 | 2024-07-03 | 4.53 | 30 | 200 |
 | 2024-07-06 | 4.53 | 30 | 201 |
+| 2024-07-09 | 4.53 | 30 | 202 |
