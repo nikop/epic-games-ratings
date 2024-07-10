@@ -316,18 +316,18 @@ Completed: 3 (0.07%) (Ranked 418)
 | 2024-06-17 | 4,478 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 87  (Ranked 458)  
-Sum: 738 (Ranked 343)  
+Sum: 740 (Ranked 343)  
 Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 87 |
-| This game is Highly Recommended | 76 |
+| This game is Highly Recommended | 77 |
 | This game has Diverse Characters | 76 |
 | This game has a Creative Community | 64 |
 | This game is Extremely Fun | 61 |
 | This game has Realistic Visuals | 61 |
 | This game has Amazing Characters | 60 |
-| This game has Amazing Storytelling | 55 |
+| This game has Amazing Storytelling | 56 |
 | This game is Relaxing | 52 |
 | This game has Quickly Understood Controls | 50 |
 | This game is Educational | 50 |
@@ -623,4 +623,4 @@ Diff (max vs sum): 115
 | 2024-07-06 | 4.67 | - | 87 | 735 |
 | 2024-07-07 | 4.67 | - | 87 | 736 |
 | 2024-07-09 | 4.67 | - | 87 | 737 |
-| 2024-07-10 | 4.67 | - | 87 | 738 |
+| 2024-07-10 | 4.67 | - | 87 | 740 |
