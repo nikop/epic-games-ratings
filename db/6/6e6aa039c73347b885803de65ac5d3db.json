@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-of-tsushima",
   "Ranking_Rating": 36,
   "Ranking_Popularity": 123,
-  "Ranking_PopularitySum": 156,
+  "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -2215,10 +2215,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 5907,
       "NumberOfAwardsMax": 2346
+    },
+    {
+      "Time": "2024-07-10T20:57:20.5195804+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5911,
+      "NumberOfAwardsMax": 2346
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5907,
+  "NumberOfAwards": 5911,
   "NumberOfAwardsMax": 2346,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2244,7 +2250,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 311
+      "Count": 315
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2939,9 +2945,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-07-10T18:59:14.3067907+00:00",
+  "LastChanged": "2024-07-10T20:57:20.5195803+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:52.5912044+00:00",
   "LastUpdate_AppInfo": "2024-07-04T02:57:20.5076902+00:00",
-  "LastUpdate_Ratings": "2024-07-10T18:59:14.3067913+00:00",
+  "LastUpdate_Ratings": "2024-07-10T20:57:20.5195808+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:52.5919744+00:00"
 }
