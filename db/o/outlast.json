@@ -2,7 +2,7 @@
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
   "ProductSlug": "outlast",
-  "Ranking_Rating": 172,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 582,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 1090,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -573,10 +573,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 117,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-07-10T02:59:46.6294276+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 119,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 117,
+  "NumberOfAwards": 119,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -602,7 +608,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -623,8 +629,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-07-07T13:58:34.2639515+00:00",
+  "LastChanged": "2024-07-10T02:59:46.6294274+00:00",
   "LastUpdate_AppInfo": "2024-07-07T22:57:09.2778348+00:00",
-  "LastUpdate_Ratings": "2024-07-10T00:00:05.6467703+00:00",
+  "LastUpdate_Ratings": "2024-07-10T02:59:46.6294279+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:54.3159747+00:00"
 }
