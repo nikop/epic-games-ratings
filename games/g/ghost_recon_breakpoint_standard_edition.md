@@ -1,7 +1,7 @@
 # Ghost Recon Breakpoint Standard Edition
 [Store](https://store.epicgames.com/en-US/p/ghost-recon-breakpoint)  
 [View Rawdata](../../db/g/ghost_recon_breakpoint_standard_edition.json)  
-Rating: 4.55 (Ranked 560)  
+Rating: 4.56 (Ranked 542)  
 Number of Ratings: 4,870  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 2,372  (Ranked 122)  
@@ -564,3 +564,4 @@ Diff (max vs sum): 48
 | 2024-07-07 | 4.56 | - | 2,367 | 18,281 |
 | 2024-07-08 | 4.56 | - | 2,370 | 18,295 |
 | 2024-07-09 | 4.56 | - | 2,372 | 18,308 |
+| 2024-07-10 | 4.56 | - | 2,372 | 18,308 |
