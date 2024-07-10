@@ -4,7 +4,7 @@
   "ProductSlug": "shrapnel-e59542",
   "Ranking_Rating": 1222,
   "Ranking_Popularity": 365,
-  "Ranking_PopularitySum": 453,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -603,6 +603,6 @@
   "FirstSeenRating": "2024-02-09T02:59:46.6661192+00:00",
   "LastChanged": "2024-06-30T16:00:19.8602335+00:00",
   "LastUpdate_AppInfo": "2024-07-05T21:57:11.2942023+00:00",
-  "LastUpdate_Ratings": "2024-07-10T10:58:02.192123+00:00",
+  "LastUpdate_Ratings": "2024-07-10T12:01:16.6453272+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:07:19.3741183+00:00"
 }

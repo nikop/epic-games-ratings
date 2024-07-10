@@ -2,9 +2,9 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 785,
+  "Ranking_Rating": 808,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -1505,10 +1505,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 765,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-07-10T11:59:39.4604371+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 766,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 765,
+  "NumberOfAwards": 766,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1516,7 +1522,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1603,8 +1609,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-07-10T06:58:59.736234+00:00",
+  "LastChanged": "2024-07-10T11:59:39.4604369+00:00",
   "LastUpdate_AppInfo": "2024-07-07T16:57:29.0115356+00:00",
-  "LastUpdate_Ratings": "2024-07-10T09:59:43.9157224+00:00",
+  "LastUpdate_Ratings": "2024-07-10T11:59:39.4604375+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:35.4478422+00:00"
 }
