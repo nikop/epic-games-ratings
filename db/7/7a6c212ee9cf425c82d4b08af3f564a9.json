@@ -2,9 +2,9 @@
   "ID": "7a6c212ee9cf425c82d4b08af3f564a9",
   "Name": "The Walking Dead No Man\u0027s Land",
   "ProductSlug": "the-walking-dead-no-mans-land-d3b769",
-  "Ranking_Rating": 1018,
-  "Ranking_Popularity": 405,
-  "Ranking_PopularitySum": 368,
+  "Ranking_Rating": 1004,
+  "Ranking_Popularity": 400,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 470,
   "Ranking_EOS_NewPlayers": 18,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2024-01-14T22:59:40.5405565+00:00",
@@ -2171,18 +2171,24 @@
       "Rating": 4.25,
       "NumberOfAwards": 640,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2024-07-10T22:57:47.1185761+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 646,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 640,
-  "NumberOfAwardsMax": 123,
+  "NumberOfAwards": 646,
+  "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 123
+      "Count": 128
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2224,7 +2230,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Relaxing",
@@ -4922,9 +4928,9 @@
   "FirstSeen": "2024-01-10T09:57:12.7833182+00:00",
   "FirstSeenRating": "2024-01-14T22:59:40.5405563+00:00",
   "FirstSeenAchievements": "2024-01-10T10:04:20.1419386+00:00",
-  "LastChanged": "2024-07-10T13:09:38.4774593+00:00",
+  "LastChanged": "2024-07-10T22:57:47.118576+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:36.7425034+00:00",
   "LastUpdate_AppInfo": "2024-07-04T01:52:10.1417132+00:00",
-  "LastUpdate_Ratings": "2024-07-10T20:59:50.0149767+00:00",
+  "LastUpdate_Ratings": "2024-07-10T22:57:47.118577+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:36.7425636+00:00"
 }
