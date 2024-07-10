@@ -166,7 +166,7 @@
 | 155 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 667 |
 | 155 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 0 | 667 |
 | 155 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.75 | 1,424 | 151 |
-| 155 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,680 | 28 |
+| 155 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 17,686 | 28 |
 | 155 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.75 | 0 | 667 |
 | 155 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.75 | 0 | 667 |
 | 155 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 108 | 425 |
@@ -394,9 +394,9 @@
 | 383 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,181 | 128 |
 | 383 | [HITMAN](games/h/hitman.md) | 4.63 | 237 | 324 |
 | 383 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 347 |
-| 383 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 776 | 210 |
+| 383 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 777 | 210 |
 | 383 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.63 | 11,864 | 47 |
-| 383 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,668 | 96 |
+| 383 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,671 | 96 |
 | 383 | [Prey](games/p/prey.md) | 4.63 | 6,095 | 83 |
 | 383 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.63 | 0 | 667 |
 | 383 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 42 | 551 |
@@ -440,7 +440,7 @@
 | 423 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,597 | 49 |
 | 423 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,149 | 172 |
 | 423 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 667 |
-| 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,905 | 67 |
+| 423 | [Supraland](games/s/supraland.md) | 4.61 | 7,906 | 67 |
 | 423 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 641 | 230 |
 | 423 | [Tails of Iron](games/t/tails_of_iron.md) | 4.61 | 22 | 646 |
 | 423 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.61 | 770 | 211 |
@@ -586,7 +586,7 @@
 | 581 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 610 |
 | 581 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,404 | 76 |
 | 581 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,926 | 136 |
-| 581 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,800 | 33 |
+| 581 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,816 | 33 |
 | 581 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 610 |
 | 581 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 560 |
 | 581 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.54 | 64 | 496 |
@@ -774,7 +774,7 @@
 | 763 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 8,373 | 65 |
 | 763 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 667 |
 | 763 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 667 |
-| 763 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 877,051 | 2 |
+| 763 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 877,687 | 2 |
 | 763 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 667 |
 | 763 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 514 |
 | 763 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 443 |
@@ -900,7 +900,7 @@
 | 897 | [BIOMUTANT](games/b/biomutant.md) | 4.36 | 133 | 394 |
 | 897 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 180 | 360 |
 | 897 | [Democracy 4](games/d/democracy_4.md) | 4.36 | 0 | 667 |
-| 897 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,947 | 42 |
+| 897 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,948 | 42 |
 | 897 | [Flatout](games/f/flatout.md) | 4.36 | 0 | 667 |
 | 897 | [Hammerting](games/h/hammerting.md) | 4.36 | 0 | 667 |
 | 897 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 0 | 667 |
