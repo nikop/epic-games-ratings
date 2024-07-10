@@ -78,7 +78,7 @@
 | 76 | [Chivalry 2](games/c/chivalry_2.md) | 6,404 | 4.54 | 581 |
 | 77 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,359 | 4.56 | 542 |
 | 78 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,348 | 4.66 | 321 |
-| 79 | [Rogue Company](games/r/rogue_company.md) | 6,341 | 4.27 | 993 |
+| 79 | [Rogue Company](games/r/rogue_company.md) | 6,341 | 4.27 | 994 |
 | 80 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,283 | 4.06 | 1,144 |
 | 81 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,174 | 4.85 | 36 |
 | 82 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,147 | 4.64 | 364 |
@@ -227,8 +227,8 @@
 | 225 | [The Outlast Trials](games/t/the_outlast_trials.md) | 663 | 4.65 | 335 |
 | 226 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 660 | 4.37 | 884 |
 | 227 | [Severed Steel](games/s/severed_steel.md) | 648 | 4.69 | 259 |
-| 228 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 646 | 4.27 | 993 |
-| 229 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 642 | 4.22 | 1,048 |
+| 228 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 646 | 4.22 | 1,048 |
+| 228 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 646 | 4.28 | 981 |
 | 230 | [Surviving Mars](games/s/surviving_mars.md) | 641 | 4.61 | 423 |
 | 231 | [Dark Deity](games/d/dark_deity.md) | 632 | 4.17 | 1,092 |
 | 232 | [Godfall Ultimate Edition](games/g/godfall.md) | 627 | 4.05 | 1,147 |
@@ -449,7 +449,7 @@
 | 446 | [RAILGRADE](games/r/railgrade.md) | 96 | 4.55 | 560 |
 | 446 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 1,082 |
 | 449 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 94 | 4.61 | 423 |
-| 450 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 93 | 4.27 | 993 |
+| 450 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 93 | 4.27 | 994 |
 | 451 | [DEATHLOOP](games/d/deathloop.md) | 92 | 4.44 | 763 |
 | 451 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 92 | 4.58 | 495 |
 | 453 | [GRIME](games/g/grime.md) | 91 | 4.60 | 451 |
@@ -546,7 +546,7 @@
 | 543 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 45 | 4.78 | 118 |
 | 543 | [Redfall](games/r/redfall.md) | 45 | 3.69 | 1,216 |
 | 546 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 44 | 4.58 | 495 |
-| 546 | [Steelrising](games/s/steelrising.md) | 44 | 4.27 | 993 |
+| 546 | [Steelrising](games/s/steelrising.md) | 44 | 4.27 | 994 |
 | 548 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 43 | 4.47 | 714 |
 | 548 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 43 | 4.58 | 495 |
 | 548 | [TUNIC](games/t/tunic.md) | 43 | 4.83 | 62 |
@@ -619,7 +619,7 @@
 | 617 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 27 | 4.29 | 970 |
 | 617 | [Mortal Shell](games/m/mortal_shell.md) | 27 | 4.25 | 1,018 |
 | 617 | [MotoGP™21](games/m/motogp™21.md) | 27 | 4.58 | 495 |
-| 617 | [Murder by Numbers](games/m/murder_by_numbers.md) | 27 | 4.27 | 993 |
+| 617 | [Murder by Numbers](games/m/murder_by_numbers.md) | 27 | 4.27 | 994 |
 | 617 | [Railway Empire 2](games/r/railway_empire_2.md) | 27 | 4.38 | 871 |
 | 617 | [RUINER](games/r/ruiner.md) | 27 | 4.53 | 604 |
 | 617 | [Solar Ash](games/s/solar_ash.md) | 27 | 4.66 | 321 |

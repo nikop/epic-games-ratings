@@ -65,6 +65,7 @@
 | [Hero of the Kingdom III](games/a/a64669daa91845c094bd01c537658db2.md) | 2024-08-31 | - |  | - | - |
 | [Hero of the Kingdom: The Lost Tales 1](games/0/0ff213fbaec14c7c89ab968f5ebd2a8a.md) | 2024-08-31 | - |  | - | - |
 | [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-31 | - |  | - | - |
+| [I Chatbot: AISYLUM](games/c/cf688ebf1c3f42ffa697c7b8afd73e9d.md) | 2024-08-31 | - |  | - | - |
 | [Mirror Of Darkness](games/5/5896d071f8c544e39aef05706c15fc11.md) | 2024-08-31 | - |  | - | - |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-31 | - |  | - | - |
 | [Sift Heads Rush](games/0/00dc291114184ee8b1f97af9d7ac8d58.md) | 2024-08-31 | - |  | - | - |

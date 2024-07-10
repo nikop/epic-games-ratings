@@ -981,6 +981,7 @@
 | 970 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 56 | 514 |
 | 970 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 667 |
 | 981 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.28 | 0 | 667 |
+| 981 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.28 | 646 | 228 |
 | 981 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 667 |
 | 981 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 116 | 413 |
 | 981 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 667 |
@@ -992,18 +993,17 @@
 | 981 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.28 | 133 | 394 |
 | 981 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.28 | 291 | 299 |
 | 981 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.28 | 173 | 367 |
-| 993 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 4.27 | 0 | 667 |
-| 993 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.27 | 0 | 667 |
-| 993 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.27 | 646 | 228 |
-| 993 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 93 | 450 |
-| 993 | [Hellpoint](games/h/hellpoint.md) | 4.27 | 0 | 667 |
-| 993 | [Men of War](games/m/men_of_war.md) | 4.27 | 0 | 667 |
-| 993 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 27 | 617 |
-| 993 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,341 | 79 |
-| 993 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 0 | 667 |
-| 993 | [Steelrising](games/s/steelrising.md) | 4.27 | 44 | 546 |
-| 993 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.27 | 0 | 667 |
-| 993 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 667 |
+| 994 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 4.27 | 0 | 667 |
+| 994 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.27 | 0 | 667 |
+| 994 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 93 | 450 |
+| 994 | [Hellpoint](games/h/hellpoint.md) | 4.27 | 0 | 667 |
+| 994 | [Men of War](games/m/men_of_war.md) | 4.27 | 0 | 667 |
+| 994 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 27 | 617 |
+| 994 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,341 | 79 |
+| 994 | [Saturnalia](games/s/saturnalia.md) | 4.27 | 0 | 667 |
+| 994 | [Steelrising](games/s/steelrising.md) | 4.27 | 44 | 546 |
+| 994 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.27 | 0 | 667 |
+| 994 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 667 |
 | 1,005 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 22 | 646 |
 | 1,005 | [Cyber Hook](games/c/cyber_hook.md) | 4.26 | 0 | 667 |
 | 1,005 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,475 | 24 |
@@ -1047,7 +1047,7 @@
 | 1,042 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 4.23 | 0 | 667 |
 | 1,042 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 667 |
 | 1,042 | [The Sinking City](games/t/the_sinking_city.md) | 4.23 | 0 | 667 |
-| 1,048 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 642 | 229 |
+| 1,048 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 646 | 228 |
 | 1,048 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 667 |
 | 1,048 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 215 | 337 |
 | 1,048 | [Gone Home](games/g/gone_home.md) | 4.22 | 0 | 667 |
