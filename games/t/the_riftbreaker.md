@@ -5,18 +5,18 @@ Rating: 4.76 (Ranked 143)
 Number of Ratings: 277  (23.09.2022)  
 ## Awards
 Max (Character Customization): 240  (Ranked 324)  
-Sum: 631 (Ranked 370)  
+Sum: 633 (Ranked 370)  
 Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 240 |
 | This game is Great for Beginners | 74 |
-| This game is Highly Recommended | 56 |
+| This game is Highly Recommended | 57 |
 | This game has Amazing Storytelling | 54 |
 | This game is Relaxing | 51 |
 | This game has Amazing Characters | 47 |
 | This game has Quickly Understood Controls | 43 |
-| This game is Extremely Fun | 37 |
+| This game is Extremely Fun | 38 |
 | This game has a Creative Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -232,3 +232,4 @@ Diff (max vs sum): -46
 | 2024-07-06 | 4.76 | - | 239 | 628 |
 | 2024-07-07 | 4.76 | - | 240 | 629 |
 | 2024-07-08 | 4.76 | - | 240 | 631 |
+| 2024-07-10 | 4.76 | - | 240 | 633 |
