@@ -1,7 +1,7 @@
 # Costume Quest 2
 [Store](https://store.epicgames.com/en-US/p/costume-quest-2)  
 [View Rawdata](../../db/c/costume_quest_2.json)  
-Rating: 4.42 (Ranked 808)  
+Rating: 4.40 (Ranked 841)  
 Number of Ratings: 60  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -80,3 +80,4 @@ Number of Ratings: 60  (23.09.2022)
 | 2023-11-14 | 4.45 | - | 0 | 0 |
 | 2024-01-08 | 4.44 | - | 0 | 0 |
 | 2024-03-11 | 4.42 | - | 0 | 0 |
+| 2024-07-10 | 4.40 | - | 0 | 0 |
