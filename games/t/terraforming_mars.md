@@ -331,8 +331,8 @@ Completed: 215 (0.20%) (Ranked 353)
 | 2024-06-17 | 105,296 | 215 |
 ## Awards
 Max (Relaxing): 564  (Ranked 239)  
-Sum: 3,524 (Ranked 192)  
-Diff (max vs sum): 47  
+Sum: 3,524 (Ranked 193)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 564 |
