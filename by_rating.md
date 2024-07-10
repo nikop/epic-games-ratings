@@ -190,7 +190,7 @@
 | 172 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 667 |
 | 172 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 558 | 240 |
 | 172 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 667 |
-| 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 537 | 244 |
+| 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 537 | 245 |
 | 191 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 89 | 455 |
 | 191 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 667 |
 | 191 | [Diabotical](games/d/diabotical.md) | 4.73 | 321 | 288 |
@@ -458,7 +458,7 @@
 | 451 | [DOOM 3](games/d/doom_3.md) | 4.60 | 74 | 479 |
 | 451 | [Eastward](games/e/eastward.md) | 4.60 | 0 | 667 |
 | 451 | [Eternights](games/e/eternights.md) | 4.60 | 0 | 667 |
-| 451 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,527 | 29 |
+| 451 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,539 | 29 |
 | 451 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.60 | 388 | 273 |
 | 451 | [GRIME](games/g/grime.md) | 4.60 | 91 | 453 |
 | 451 | [IXION](games/i/ixion.md) | 4.60 | 0 | 667 |
@@ -750,7 +750,7 @@
 | 746 | [Choo-Choo Charles](games/7/7f849b4158ca4264a43f71d4306a4199.md) | 4.45 | 0 | 667 |
 | 746 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 4.45 | 0 | 667 |
 | 746 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.45 | 47 | 540 |
-| 746 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 4.45 | 535 | 245 |
+| 746 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 4.45 | 539 | 244 |
 | 746 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 4.45 | 20 | 657 |
 | 746 | [Haven's Compass](games/d/da744ab3564a4d2dac8b942a86d5aad9.md) | 4.45 | 0 | 667 |
 | 746 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.45 | 0 | 667 |
@@ -797,7 +797,7 @@
 | 785 | [MetalCore](games/m/metalcore.md) | 4.43 | 99 | 442 |
 | 785 | [Metalstorm](games/m/metalstorm.md) | 4.43 | 137 | 388 |
 | 785 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.43 | 0 | 667 |
-| 785 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,648 | 147 |
+| 785 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,650 | 147 |
 | 785 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.43 | 42 | 551 |
 | 785 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 667 |
 | 785 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.43 | 0 | 667 |
@@ -821,7 +821,7 @@
 | 809 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 230 | 333 |
 | 809 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 4.42 | 50 | 531 |
 | 809 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 667 |
-| 809 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,369 | 154 |
+| 809 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,371 | 154 |
 | 809 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 201 | 346 |
 | 809 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 108 | 425 |
 | 809 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 667 |
@@ -1052,7 +1052,7 @@
 | 1,048 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 215 | 337 |
 | 1,048 | [Gone Home](games/g/gone_home.md) | 4.22 | 0 | 667 |
 | 1,048 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 667 |
-| 1,048 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 1,012 | 184 |
+| 1,048 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 1,015 | 184 |
 | 1,048 | [Out of Line](games/o/out_of_line.md) | 4.22 | 0 | 667 |
 | 1,048 | [RiMS Racing](games/r/rims_racing.md) | 4.22 | 0 | 667 |
 | 1,048 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 273 | 311 |
