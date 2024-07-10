@@ -2209,18 +2209,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 5878,
       "NumberOfAwardsMax": 2332
+    },
+    {
+      "Time": "2024-07-10T18:59:14.3067911+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 5907,
+      "NumberOfAwardsMax": 2346
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5878,
-  "NumberOfAwardsMax": 2332,
+  "NumberOfAwards": 5907,
+  "NumberOfAwardsMax": 2346,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2332
+      "Count": 2346
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2250,7 +2256,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 336
+      "Count": 338
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2262,7 +2268,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 358
+      "Count": 366
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2280,13 +2286,13 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 345
+      "Count": 348
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 205
+      "Count": 207
     }
   ],
   "EOS_Progressed": 81984,
@@ -2933,9 +2939,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-07-10T16:59:43.4960348+00:00",
+  "LastChanged": "2024-07-10T18:59:14.3067907+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:52.5912044+00:00",
   "LastUpdate_AppInfo": "2024-07-04T02:57:20.5076902+00:00",
-  "LastUpdate_Ratings": "2024-07-10T16:59:43.4960353+00:00",
+  "LastUpdate_Ratings": "2024-07-10T18:59:14.3067913+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:52.5919744+00:00"
 }
