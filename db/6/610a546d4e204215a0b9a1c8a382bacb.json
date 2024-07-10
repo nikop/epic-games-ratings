@@ -2,7 +2,7 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 118,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 130,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.79,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-11-08T07:59:36.9365658+00:00",
@@ -8311,11 +8311,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 5938,
       "NumberOfAwardsMax": 746
+    },
+    {
+      "Time": "2024-07-10T06:58:04.2268045+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 5945,
+      "NumberOfAwardsMax": 749
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5938,
-  "NumberOfAwardsMax": 746,
+  "NumberOfAwards": 5945,
+  "NumberOfAwardsMax": 749,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -8328,7 +8334,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 746
+      "Count": 749
     },
     {
       "Text": "This game is Relaxing",
@@ -8346,7 +8352,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 494
+      "Count": 498
     },
     {
       "Text": "This game has Competitive Players",
@@ -18968,9 +18974,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-07-10T01:56:44.2490358+00:00",
+  "LastChanged": "2024-07-10T06:58:04.2268043+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:35.2604041+00:00",
   "LastUpdate_AppInfo": "2024-07-03T13:57:17.8941392+00:00",
-  "LastUpdate_Ratings": "2024-07-10T04:59:10.1979008+00:00",
+  "LastUpdate_Ratings": "2024-07-10T06:58:04.2268052+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:35.2605687+00:00"
 }
