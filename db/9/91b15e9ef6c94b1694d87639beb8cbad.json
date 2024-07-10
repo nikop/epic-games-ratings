@@ -2,7 +2,7 @@
   "ID": "91b15e9ef6c94b1694d87639beb8cbad",
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
-  "Ranking_Rating": 982,
+  "Ranking_Rating": 994,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 1090,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2024-06-08T20:00:01.7971586+00:00",
@@ -1296,10 +1296,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 5072,
       "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2024-07-10T17:58:14.4922362+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 5122,
+      "NumberOfAwardsMax": 646
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5072,
+  "NumberOfAwards": 5122,
   "NumberOfAwardsMax": 646,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1313,7 +1319,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 575
+      "Count": 600
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1349,7 +1355,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 443
+      "Count": 456
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1361,7 +1367,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 394
+      "Count": 406
     },
     {
       "Text": "This game has Competitive Players",
@@ -1382,8 +1388,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-07-10T13:09:49.0833734+00:00",
+  "LastChanged": "2024-07-10T17:58:14.492236+00:00",
   "LastUpdate_AppInfo": "2024-07-07T14:57:05.3695364+00:00",
-  "LastUpdate_Ratings": "2024-07-10T15:59:32.7630641+00:00",
+  "LastUpdate_Ratings": "2024-07-10T17:58:14.4922366+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.2786758+00:00"
 }
