@@ -256,7 +256,7 @@
 | [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 8 | - | 0 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,351 | 4.34 | 0 |
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | 0 |
-| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 99,616 | 4.54 | 64 |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 99,616 | 4.55 | 64 |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 11,199 | - | 0 |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 4,203 | - | 0 |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 0 | - | - |
@@ -579,7 +579,7 @@
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,275 | 4.85 | 49 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,288 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,291 |
 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 2023-08-29 | 19 (1,000 XP) | 44 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 15 | - | - |
 | [Amigo Kebab Simulator](games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 2099-01-01 | 31 (1,000 XP) | 0 | - | - |

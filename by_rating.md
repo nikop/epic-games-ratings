@@ -566,6 +566,7 @@
 | 560 | [Duskers](games/d/duskers.md) | 4.55 | 20 | 657 |
 | 560 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.55 | 1,128 | 174 |
 | 560 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 610 |
+| 560 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.55 | 64 | 496 |
 | 560 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,372 | 122 |
 | 560 | [Ghostrunner](games/g/ghostrunner.md) | 4.55 | 3,653 | 105 |
 | 560 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 667 |
@@ -580,29 +581,28 @@
 | 560 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.55 | 0 | 667 |
 | 560 | [Wytchwood](games/w/wytchwood.md) | 4.55 | 0 | 667 |
 | 560 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,676 | 146 |
-| 581 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.54 | 0 | 667 |
-| 581 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 667 |
-| 581 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 667 |
-| 581 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 610 |
-| 581 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,404 | 76 |
-| 581 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,926 | 136 |
-| 581 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,816 | 33 |
-| 581 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 610 |
-| 581 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 560 |
-| 581 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.54 | 64 | 496 |
-| 581 | [Godlike Burger](games/g/godlike_burger.md) | 4.54 | 0 | 667 |
-| 581 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 216 | 336 |
-| 581 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 85 | 461 |
-| 581 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.54 | 0 | 667 |
-| 581 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 569 |
-| 581 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,412 | 109 |
-| 581 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,133 | 173 |
-| 581 | [RiME](games/r/rime.md) | 4.54 | 0 | 667 |
-| 581 | [Sable](games/s/sable.md) | 4.54 | 35 | 576 |
-| 581 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.54 | 0 | 667 |
-| 581 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 100 | 439 |
-| 581 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 667 |
-| 581 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 564 | 239 |
+| 582 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.54 | 0 | 667 |
+| 582 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 667 |
+| 582 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 667 |
+| 582 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 610 |
+| 582 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,404 | 76 |
+| 582 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,926 | 136 |
+| 582 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,816 | 33 |
+| 582 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 610 |
+| 582 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 560 |
+| 582 | [Godlike Burger](games/g/godlike_burger.md) | 4.54 | 0 | 667 |
+| 582 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 216 | 336 |
+| 582 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 85 | 461 |
+| 582 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.54 | 0 | 667 |
+| 582 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 569 |
+| 582 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,412 | 109 |
+| 582 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,133 | 173 |
+| 582 | [RiME](games/r/rime.md) | 4.54 | 0 | 667 |
+| 582 | [Sable](games/s/sable.md) | 4.54 | 35 | 576 |
+| 582 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.54 | 0 | 667 |
+| 582 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 100 | 439 |
+| 582 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.54 | 0 | 667 |
+| 582 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 564 | 239 |
 | 604 | [9Lives Arena](games/9/9lives_arena.md) | 4.53 | 38 | 563 |
 | 604 | [Anno 2070](games/a/anno_2070.md) | 4.53 | 0 | 667 |
 | 604 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.53 | 0 | 667 |
@@ -840,7 +840,7 @@
 | 826 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.41 | 815 | 205 |
 | 826 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 667 |
 | 826 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.41 | 49 | 535 |
-| 826 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,288 | 125 |
+| 826 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,291 | 125 |
 | 842 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.40 | 0 | 667 |
 | 842 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 667 |
 | 842 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 667 |
@@ -1009,7 +1009,7 @@
 | 1,005 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 4.26 | 125 | 403 |
 | 1,005 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,475 | 24 |
 | 1,005 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.26 | 0 | 667 |
-| 1,005 | [Predecessor](games/p/predecessor.md) | 4.26 | 713 | 221 |
+| 1,005 | [Predecessor](games/p/predecessor.md) | 4.26 | 715 | 221 |
 | 1,005 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,228 | 110 |
 | 1,005 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.26 | 0 | 667 |
 | 1,005 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 42 | 551 |

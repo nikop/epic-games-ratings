@@ -258,7 +258,7 @@
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | 0 |
 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 2024-01-31 | 21 (1,000 XP) | 4,308 | 4.00 | 0 |
 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 4 | - | - |
-| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 99,616 | 4.54 | 64 |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 99,616 | 4.55 | 64 |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 40 | - | 0 |
 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2024-01-25 | 100 (1,000 XP) | 24 | - | 0 |
@@ -1107,7 +1107,7 @@
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 146 | 4.63 | 20 |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 390 | 4.43 | 29 |
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 2021-03-18 | 19 (1,000 XP) | 1,428 | 4.37 | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,288 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,291 |
 | [Scrapnaut](games/s/scrapnaut.md) | 2021-03-03 | 31 (1,000 XP) | 831 | 4.32 | 0 |
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 52,242 | 4.59 | 236 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 88 | - | 0 |
