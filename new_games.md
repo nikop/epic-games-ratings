@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 2024-07-11 | - |  | - | - |
 | [Astra Nova](games/2/24157594879741fca671c04b3227fe27.md) | 2024-07-11 | - |  | - | - |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | - |  | - | - |
 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | - | 0 |

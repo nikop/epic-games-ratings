@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 2024-07-11 | - |  | - | - |
 | [Bulletrooms](games/3/363d0b06fb134d5b8c2794f488a694b8.md) | 2024-07-12 | - |  | - | - |
 | [Hidden Shapes Old West](games/9/93ebef1040cb410fbe2b72237a6e26e0.md) | 2024-07-12 | 42 (1,000 XP) | 3 | - | - |
 | [Tiny Witch](games/6/6c215e03a0894bc0acf2ed206f2f2e89.md) | 2024-07-15 | - |  | - | - |

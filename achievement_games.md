@@ -411,7 +411,7 @@
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 124 | - | 0 |
 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 2023-10-24 | 31 (1,000 XP) | 116 | - | 0 |
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 67,627 | - | 0 |
-| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 422,324 | 4.42 | 1,371 |
+| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 422,324 | 4.42 | 1,374 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 264 | - | 0 |
 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 34,632 | 4.35 | 0 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 676 | 4.73 | 0 |
@@ -757,7 +757,7 @@
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 50 | - | 0 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 48 (1,000 XP) | 110 | - | 0 |
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 32 (1,000 XP) | 33 | - | - |
-| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,648,877 | 4.36 | 1,920 |
+| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,648,877 | 4.36 | 1,922 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 17 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,821 | - | 0 |
@@ -853,7 +853,7 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 2022-12-13 | 30 (1,000 XP) | 121 | - | 0 |
 | [Danger Scavenger](games/d/danger_scavenger.md) | 2022-12-13 | 41 (1,000 XP) | 0 | - | 0 |
 | [60 Parsecs!](games/6/60_parsecs!.md) | 2022-12-13 | 44 (1,000 XP) | 1,945 | - | 0 |
-| [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 2022-12-13 | 60 (1,000 XP) | 13,821 | 4.54 | 0 |
+| [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 2022-12-13 | 60 (1,000 XP) | 13,821 | 4.53 | 0 |
 | [High On Life](games/h/high_on_life.md) | 2022-12-13 | 44 (1,195 XP) | 25,705 | 4.66 | 20 |
 | [Pirates Outlaws](games/p/pirates_outlaws.md) | 2022-12-12 | 124 (1,000 XP) | 78 | - | 0 |
 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 2022-12-08 | 72 (1,000 XP) | 418,344 | 4.40 | 620 |
@@ -1056,7 +1056,7 @@
 | [Saint Kotar](games/s/saint_kotar.md) | 2021-10-28 | 45 (1,000 XP) | 27 | - | 0 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 2021-10-28 | 14 (1,000 XP) | 29,012 | 4.20 | 0 |
 | [Aeon Must Die!](games/a/aeon_must_die!.md) | 2021-10-27 | 35 (1,000 XP) | 3,716 | - | 0 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 142,316 | 4.69 | 8,595 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 142,316 | 4.69 | 8,597 |
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 2021-10-21 | 10 (1,000 XP) | 112,062 | 4.29 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 241 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 173 | 4.30 | 0 |
