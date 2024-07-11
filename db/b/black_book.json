@@ -3,8 +3,8 @@
   "Name": "Black Book",
   "ProductSlug": "black-book",
   "Ranking_Rating": 364,
-  "Ranking_Popularity": 636,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 632,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 18,
@@ -853,11 +853,17 @@
       "Rating": 4.64,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-07-11T17:57:50.401876+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 90,
+  "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -870,7 +876,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -19048,9 +19054,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
-  "LastChanged": "2024-07-10T17:58:38.7174179+00:00",
+  "LastChanged": "2024-07-11T17:57:50.4018758+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:33.6147448+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:57:41.0449069+00:00",
-  "LastUpdate_Ratings": "2024-07-11T15:59:15.824064+00:00",
+  "LastUpdate_Ratings": "2024-07-11T17:57:50.4018765+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:33.6148473+00:00"
 }
