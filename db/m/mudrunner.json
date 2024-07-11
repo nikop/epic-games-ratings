@@ -4,7 +4,7 @@
   "ProductSlug": "mudrunner",
   "Ranking_Rating": 451,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -5087,10 +5087,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2576,
       "NumberOfAwardsMax": 365
+    },
+    {
+      "Time": "2024-07-11T11:00:28.7143449+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2577,
+      "NumberOfAwardsMax": 365
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2576,
+  "NumberOfAwards": 2577,
   "NumberOfAwardsMax": 365,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5152,7 +5158,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game has a Creative Community",
@@ -5172,8 +5178,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-07-10T11:58:43.9049287+00:00",
+  "LastChanged": "2024-07-11T11:00:28.7143447+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:57:49.2155304+00:00",
-  "LastUpdate_Ratings": "2024-07-11T09:57:33.1125196+00:00",
+  "LastUpdate_Ratings": "2024-07-11T11:00:28.7143452+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:19.7029147+00:00"
 }
