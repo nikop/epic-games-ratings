@@ -2,9 +2,9 @@
   "ID": "151e56468b5049628653dedab7c88007",
   "Name": "Saints Row IV Re-Elected",
   "ProductSlug": "saints-row-iv-re-elected",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 235,
-  "Ranking_PopularitySum": 357,
+  "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -1145,10 +1145,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 685,
       "NumberOfAwardsMax": 620
+    },
+    {
+      "Time": "2024-07-11T04:59:16.1507787+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 686,
+      "NumberOfAwardsMax": 620
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 685,
+  "NumberOfAwards": 686,
   "NumberOfAwardsMax": 620,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1168,7 +1174,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Unique Visuals",
@@ -34380,9 +34386,9 @@
   "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
-  "LastChanged": "2024-07-05T17:57:51.4679475+00:00",
+  "LastChanged": "2024-07-11T04:59:16.1507785+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:25.5388328+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:57:55.8059409+00:00",
-  "LastUpdate_Ratings": "2024-07-11T02:59:44.4959273+00:00",
+  "LastUpdate_Ratings": "2024-07-11T04:59:16.1507791+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:25.5390478+00:00"
 }

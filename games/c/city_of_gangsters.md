@@ -374,9 +374,9 @@ Completed: 8 (0.00%) (Ranked 512)
 | 2024-04-10 | 372,277 | 7 |
 | 2024-06-17 | 379,067 | 8 |
 ## Awards
-Max (Diverse Characters): 52  (Ranked 528)  
+Max (Diverse Characters): 52  (Ranked 529)  
 Sum: 319 (Ranked 434)  
-Diff (max vs sum): 94  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 72 |
