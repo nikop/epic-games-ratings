@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 171,
   "Ranking_Popularity": 150,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -4151,10 +4151,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 5960,
       "NumberOfAwardsMax": 1447
+    },
+    {
+      "Time": "2024-07-11T20:58:58.9660624+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 5967,
+      "NumberOfAwardsMax": 1447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5960,
+  "NumberOfAwards": 5967,
   "NumberOfAwardsMax": 1447,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4240,7 +4246,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 416
+      "Count": 423
     },
     {
       "Text": "This game is Educational",
@@ -4261,8 +4267,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-07-11T19:00:17.1074676+00:00",
+  "LastChanged": "2024-07-11T20:58:58.9660622+00:00",
   "LastUpdate_AppInfo": "2024-07-11T04:57:09.718904+00:00",
-  "LastUpdate_Ratings": "2024-07-11T19:00:17.1074682+00:00",
+  "LastUpdate_Ratings": "2024-07-11T20:58:58.9660627+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:24.8521418+00:00"
 }

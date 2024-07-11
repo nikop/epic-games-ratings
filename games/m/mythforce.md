@@ -232,7 +232,7 @@ Completed: 13 (0.11%) (Ranked 392)
 | 2024-06-17 | 12,257 | 13 |
 ## Awards
 Max (Great for Beginners): 39  (Ranked 560)  
-Sum: 273 (Ranked 456)  
+Sum: 274 (Ranked 456)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
@@ -245,7 +245,7 @@ Diff (max vs sum): 104
 | This game has Challenging Combat | 29 |
 | This game has Amazing Storytelling | 27 |
 | This game is Extremely Fun | 25 |
-| This game is Relaxing | 22 |
+| This game is Relaxing | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -369,3 +369,4 @@ Diff (max vs sum): 104
 | 2024-07-03 | 4.46 | - | 39 | 273 |
 | 2024-07-04 | 4.47 | - | 39 | 273 |
 | 2024-07-07 | 4.46 | - | 39 | 273 |
+| 2024-07-11 | 4.46 | - | 39 | 274 |
