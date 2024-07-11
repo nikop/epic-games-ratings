@@ -2,9 +2,9 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 541,
   "Ranking_Popularity": 77,
-  "Ranking_PopularitySum": 48,
+  "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -17708,6 +17708,6 @@
   "LastChanged": "2024-07-11T13:58:09.1224695+00:00",
   "LastChanged_Achievements": "2024-07-09T22:04:39.2815817+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:37.9600959+00:00",
-  "LastUpdate_Ratings": "2024-07-11T15:01:12.8553351+00:00",
+  "LastUpdate_Ratings": "2024-07-11T17:00:12.9512737+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:04:39.2815885+00:00"
 }

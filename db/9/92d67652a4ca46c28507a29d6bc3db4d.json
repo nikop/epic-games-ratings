@@ -4,7 +4,7 @@
   "ProductSlug": "karos-09de0a",
   "Ranking_Rating": 956,
   "Ranking_Popularity": 360,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -2817,6 +2817,6 @@
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
   "LastChanged": "2024-07-11T03:58:38.8452112+00:00",
   "LastUpdate_AppInfo": "2024-07-05T01:51:01.3561249+00:00",
-  "LastUpdate_Ratings": "2024-07-11T15:00:00.5162342+00:00",
+  "LastUpdate_Ratings": "2024-07-11T16:59:02.6135629+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:45.3797752+00:00"
 }

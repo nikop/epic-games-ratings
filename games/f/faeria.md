@@ -1,12 +1,12 @@
 # Faeria
 [Store](https://store.epicgames.com/en-US/p/faeria)  
 [View Rawdata](../../db/f/faeria.json)  
-Rating: 4.44 (Ranked 763)  
+Rating: 4.44 (Ranked 762)  
 Number of Ratings: 194  (23.09.2022)  
 ## Awards
 Max (Character Customization): 121  (Ranked 408)  
-Sum: 421 (Ranked 404)  
-Diff (max vs sum): 4  
+Sum: 421 (Ranked 403)  
+Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 121 |
