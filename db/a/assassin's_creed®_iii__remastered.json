@@ -2,7 +2,7 @@
   "ID": "anise",
   "Name": "Assassin\u0027s Creed\u00AE III: Remastered",
   "ProductSlug": "assassins-creed-3",
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 625,
   "Ranking_Popularity": 310,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 1090,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 257,
   "RatingHistory": [
     {
@@ -988,6 +988,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 275,
       "NumberOfAwardsMax": 275
+    },
+    {
+      "Time": "2024-07-11T14:58:19.6145844+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 275,
+      "NumberOfAwardsMax": 275
     }
   ],
   "ReviewsDisabled": false,
@@ -1013,8 +1019,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
-  "LastChanged": "2024-06-24T13:02:54.7176853+00:00",
+  "LastChanged": "2024-07-11T14:58:19.6145843+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:00.3378953+00:00",
-  "LastUpdate_Ratings": "2024-07-11T13:10:04.3062787+00:00",
+  "LastUpdate_Ratings": "2024-07-11T14:58:19.6145848+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:32.3066842+00:00"
 }

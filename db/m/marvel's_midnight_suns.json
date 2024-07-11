@@ -4,7 +4,7 @@
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 763,
   "Ranking_Popularity": 65,
-  "Ranking_PopularitySum": 73,
+  "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -11001,10 +11001,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 18952,
       "NumberOfAwardsMax": 8437
+    },
+    {
+      "Time": "2024-07-11T14:59:33.1269207+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 18969,
+      "NumberOfAwardsMax": 8437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18952,
+  "NumberOfAwards": 18969,
   "NumberOfAwardsMax": 8437,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11036,7 +11042,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1247
+      "Count": 1264
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11087,8 +11093,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-07-11T08:57:08.1534232+00:00",
+  "LastChanged": "2024-07-11T14:59:33.1269205+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:13.7702193+00:00",
-  "LastUpdate_Ratings": "2024-07-11T13:11:15.6264819+00:00",
+  "LastUpdate_Ratings": "2024-07-11T14:59:33.1269212+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:04.788522+00:00"
 }
