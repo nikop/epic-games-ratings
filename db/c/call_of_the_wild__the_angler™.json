@@ -3,7 +3,7 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 1049,
-  "Ranking_Popularity": 230,
+  "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 512,
@@ -3721,11 +3721,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 2169,
       "NumberOfAwardsMax": 646
+    },
+    {
+      "Time": "2024-07-11T08:58:50.8050469+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 2176,
+      "NumberOfAwardsMax": 653
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2169,
-  "NumberOfAwardsMax": 646,
+  "NumberOfAwards": 2176,
+  "NumberOfAwardsMax": 653,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3756,7 +3762,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 646
+      "Count": 653
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -17694,9 +17700,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2024-07-10T14:00:05.5197077+00:00",
+  "LastChanged": "2024-07-11T08:58:50.8050467+00:00",
   "LastChanged_Achievements": "2024-07-09T22:05:03.9455462+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:54.539281+00:00",
-  "LastUpdate_Ratings": "2024-07-11T06:59:57.2542685+00:00",
+  "LastUpdate_Ratings": "2024-07-11T08:58:50.8050472+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:05:03.945809+00:00"
 }
