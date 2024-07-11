@@ -329,7 +329,7 @@
 | 321 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 2,013 | 135 |
 | 321 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 27 | 617 |
 | 321 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.66 | 32 | 591 |
-| 321 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 944 | 194 |
+| 321 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 944 | 195 |
 | 321 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,348 | 78 |
 | 321 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.66 | 0 | 667 |
 | 321 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.66 | 0 | 667 |
@@ -587,7 +587,7 @@
 | 582 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 610 |
 | 582 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,419 | 76 |
 | 582 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,928 | 136 |
-| 582 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,816 | 33 |
+| 582 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,830 | 33 |
 | 582 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 610 |
 | 582 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 560 |
 | 582 | [Godlike Burger](games/g/godlike_burger.md) | 4.54 | 0 | 667 |
@@ -597,7 +597,7 @@
 | 582 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.54 | 0 | 667 |
 | 582 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 569 |
 | 582 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,420 | 109 |
-| 582 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,133 | 173 |
+| 582 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,135 | 173 |
 | 582 | [RiME](games/r/rime.md) | 4.54 | 0 | 667 |
 | 582 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.54 | 0 | 667 |
 | 582 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 100 | 439 |
@@ -735,7 +735,7 @@
 | 726 | [MythForce](games/m/mythforce.md) | 4.46 | 39 | 560 |
 | 726 | [Need for Speed™ Most Wanted](games/8/864f3eeec6284483b630cc58021a04a7.md) | 4.46 | 0 | 667 |
 | 726 | [Orwell: Keeping an Eye on You](games/o/orwell__keeping_an_eye_on_you.md) | 4.46 | 0 | 667 |
-| 726 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.46 | 944 | 194 |
+| 726 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.46 | 945 | 194 |
 | 726 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.46 | 36 | 569 |
 | 726 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 667 |
 | 726 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.46 | 0 | 667 |
@@ -1158,7 +1158,7 @@
 | 1,155 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.03 | 0 | 667 |
 | 1,155 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 0 | 667 |
 | 1,155 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 667 |
-| 1,159 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,763 | 48 |
+| 1,159 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,788 | 48 |
 | 1,159 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,251 | 88 |
 | 1,161 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 4.00 | 0 | 667 |
 | 1,161 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 4.00 | 0 | 667 |

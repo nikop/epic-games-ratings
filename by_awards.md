@@ -32,7 +32,7 @@
 | 30 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 17,523 | 4.59 | 473 |
 | 31 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 16,316 | 4.49 | 681 |
 | 32 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,896 | 4.44 | 763 |
-| 33 | [Dead Island 2](games/d/dead_island_2.md) | 15,816 | 4.54 | 582 |
+| 33 | [Dead Island 2](games/d/dead_island_2.md) | 15,830 | 4.54 | 582 |
 | 34 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,628 | 4.84 | 48 |
 | 35 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 15,267 | 4.46 | 726 |
 | 36 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,975 | 4.58 | 495 |
@@ -47,7 +47,7 @@
 | 45 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 12,108 | 4.62 | 402 |
 | 46 | [NBA 2K21](games/n/nba_2k21.md) | 11,896 | 4.38 | 871 |
 | 47 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 11,875 | 4.62 | 402 |
-| 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 11,763 | 4.01 | 1,159 |
+| 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 11,788 | 4.01 | 1,159 |
 | 49 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,607 | 4.61 | 423 |
 | 50 | [DEATH STRANDING](games/d/death_stranding.md) | 11,349 | 4.78 | 119 |
 | 51 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,643 | 4.89 | 11 |
@@ -172,7 +172,7 @@
 | 170 | [Torchlight II](games/t/torchlight_ii.md) | 1,158 | 4.60 | 451 |
 | 171 | [Riders Republic](games/r/riders_republic.md) | 1,154 | 4.74 | 172 |
 | 172 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,149 | 4.61 | 423 |
-| 173 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,133 | 4.54 | 582 |
+| 173 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,135 | 4.54 | 582 |
 | 174 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 1,130 | 4.40 | 838 |
 | 175 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 1,128 | 4.55 | 561 |
 | 176 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 1,116 | 4.56 | 542 |
@@ -193,8 +193,8 @@
 | 191 | [Auto Chess](games/a/auto_chess.md) | 982 | 4.50 | 656 |
 | 192 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 970 | 4.59 | 473 |
 | 193 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 952 | 4.69 | 259 |
-| 194 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 944 | 4.46 | 726 |
-| 194 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 944 | 4.66 | 321 |
+| 194 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 945 | 4.46 | 726 |
+| 195 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 944 | 4.66 | 321 |
 | 196 | [Prison Architect](games/p/prison_architect.md) | 938 | 4.61 | 423 |
 | 197 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 936 | 4.77 | 128 |
 | 198 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 918 | 4.59 | 473 |
