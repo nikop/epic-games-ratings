@@ -4,7 +4,7 @@
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 763,
   "Ranking_Popularity": 65,
-  "Ranking_PopularitySum": 74,
+  "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -10977,18 +10977,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 18769,
       "NumberOfAwardsMax": 8373
+    },
+    {
+      "Time": "2024-07-11T01:57:36.7314134+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 18909,
+      "NumberOfAwardsMax": 8437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18769,
-  "NumberOfAwardsMax": 8373,
+  "NumberOfAwards": 18909,
+  "NumberOfAwardsMax": 8437,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8373
+      "Count": 8437
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11006,7 +11012,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1223
+      "Count": 1243
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11036,7 +11042,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1230
+      "Count": 1260
     },
     {
       "Text": "This game has a Creative Community",
@@ -11048,7 +11054,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1212
+      "Count": 1238
     }
   ],
   "EOS_Progressed": 0,
@@ -11063,8 +11069,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-07-10T18:57:51.5334218+00:00",
+  "LastChanged": "2024-07-11T01:57:36.7314132+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:13.7702193+00:00",
-  "LastUpdate_Ratings": "2024-07-10T23:00:43.4482718+00:00",
+  "LastUpdate_Ratings": "2024-07-11T01:57:36.7314138+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:04.788522+00:00"
 }
