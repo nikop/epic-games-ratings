@@ -2,7 +2,7 @@
   "ID": "ad59318740674cb3adad80949d0bcc88",
   "Name": "Syberia: The World Before",
   "ProductSlug": "syberia-the-world-before",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 259,
   "Ranking_Popularity": 667,
   "Ranking_PopularitySum": 667,
   "Ranking_EOS_Progress": 1090,
@@ -21,7 +21,7 @@
       "isManuallySetViewableDate": "true"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 119,
   "RatingHistory": [
     {
@@ -316,6 +316,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-11T09:59:32.7919342+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -591,9 +597,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:03.7209999+00:00",
   "FirstSeenAchievements": "2023-08-01T09:04:56.2255951+00:00",
-  "LastChanged": "2024-03-14T20:58:07.6254418+00:00",
+  "LastChanged": "2024-07-11T09:59:32.7919339+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:58.3284448+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:28.3815905+00:00",
-  "LastUpdate_Ratings": "2024-07-11T08:57:26.0306922+00:00",
+  "LastUpdate_Ratings": "2024-07-11T09:59:32.7919346+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:58.3284615+00:00"
 }

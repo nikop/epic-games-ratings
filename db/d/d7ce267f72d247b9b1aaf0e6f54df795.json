@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 155,
   "Ranking_Popularity": 150,
-  "Ranking_PopularitySum": 156,
+  "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -4121,10 +4121,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 5912,
       "NumberOfAwardsMax": 1447
+    },
+    {
+      "Time": "2024-07-11T09:57:43.6486617+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 5921,
+      "NumberOfAwardsMax": 1447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5912,
+  "NumberOfAwards": 5921,
   "NumberOfAwardsMax": 1447,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4168,7 +4174,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 574
+      "Count": 583
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4231,8 +4237,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-07-11T07:59:17.2396958+00:00",
+  "LastChanged": "2024-07-11T09:57:43.6486615+00:00",
   "LastUpdate_AppInfo": "2024-07-11T04:57:09.718904+00:00",
-  "LastUpdate_Ratings": "2024-07-11T07:59:17.2396964+00:00",
+  "LastUpdate_Ratings": "2024-07-11T09:57:43.6486621+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:24.8521418+00:00"
 }
