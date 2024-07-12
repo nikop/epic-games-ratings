@@ -3,7 +3,7 @@
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 762,
-  "Ranking_Popularity": 65,
+  "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
@@ -11019,18 +11019,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 19000,
       "NumberOfAwardsMax": 8437
+    },
+    {
+      "Time": "2024-07-12T01:54:22.9827621+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 19117,
+      "NumberOfAwardsMax": 8499
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19000,
-  "NumberOfAwardsMax": 8437,
+  "NumberOfAwards": 19117,
+  "NumberOfAwardsMax": 8499,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8437
+      "Count": 8499
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11048,7 +11054,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1243
+      "Count": 1264
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11078,7 +11084,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1260
+      "Count": 1278
     },
     {
       "Text": "This game has a Creative Community",
@@ -11090,7 +11096,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1238
+      "Count": 1254
     }
   ],
   "EOS_Progressed": 0,
@@ -11105,8 +11111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-07-11T19:59:20.8610947+00:00",
+  "LastChanged": "2024-07-12T01:54:22.9827619+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:13.7702193+00:00",
-  "LastUpdate_Ratings": "2024-07-11T23:00:06.7967392+00:00",
+  "LastUpdate_Ratings": "2024-07-12T01:54:22.9827626+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:04.788522+00:00"
 }
