@@ -1,7 +1,7 @@
 # Universe Sandbox
 [Store](https://store.epicgames.com/en-US/p/universe-sandbox)  
 [View Rawdata](../../db/u/universe_sandbox.json)  
-Rating: 4.66 (Ranked 321)  
+Rating: 4.67 (Ranked 299)  
 Number of Ratings: 63  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -86,3 +86,4 @@ Number of Ratings: 63  (23.09.2022)
 | 2024-06-11 | 4.66 | - | 0 | 0 |
 | 2024-06-12 | 4.65 | - | 0 | 0 |
 | 2024-06-19 | 4.66 | - | 0 | 0 |
+| 2024-07-12 | 4.67 | - | 0 | 0 |
