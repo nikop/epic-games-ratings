@@ -2,7 +2,7 @@
   "ID": "2736ab9fec9c4a93a7a2872ed5154d4b",
   "Name": "RAGE 2",
   "ProductSlug": "rage-2",
-  "Ranking_Rating": 1005,
+  "Ranking_Rating": 1004,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 1090,
@@ -5011,18 +5011,24 @@
       "Rating": 4.26,
       "NumberOfAwards": 4357,
       "NumberOfAwardsMax": 3228
+    },
+    {
+      "Time": "2024-07-12T15:59:17.3016215+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 4359,
+      "NumberOfAwardsMax": 3230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4357,
-  "NumberOfAwardsMax": 3228,
+  "NumberOfAwards": 4359,
+  "NumberOfAwardsMax": 3230,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3228
+      "Count": 3230
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5098,9 +5104,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:59.0256751+00:00",
   "FirstSeenAchievements": "2023-05-23T21:03:37.9504818+00:00",
-  "LastChanged": "2024-07-11T20:58:58.3705875+00:00",
+  "LastChanged": "2024-07-12T15:59:17.3016212+00:00",
   "LastChanged_Achievements": "2024-07-09T22:05:09.9517382+00:00",
   "LastUpdate_AppInfo": "2024-07-07T21:57:13.4852118+00:00",
-  "LastUpdate_Ratings": "2024-07-12T14:00:18.6113292+00:00",
+  "LastUpdate_Ratings": "2024-07-12T15:59:17.3016219+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:05:09.9517419+00:00"
 }
