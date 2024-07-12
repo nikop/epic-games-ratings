@@ -1,15 +1,15 @@
 # Offworld Trading Company
 [Store](https://store.epicgames.com/en-US/p/offworld-trading-company)  
 [View Rawdata](../../db/o/offworld_trading_company.json)  
-Rating: 4.29 (Ranked 972)  
+Rating: 4.29 (Ranked 973)  
 Number of Ratings: 432  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 56  (Ranked 515)  
-Sum: 320 (Ranked 434)  
-Diff (max vs sum): 81  
+Max (Highly Recommended): 57  (Ranked 513)  
+Sum: 321 (Ranked 434)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 56 |
+| This game is Highly Recommended | 57 |
 | This game has Quickly Understood Controls | 50 |
 | This game is Relaxing | 48 |
 | This game has Diverse Characters | 43 |
@@ -156,3 +156,4 @@ Diff (max vs sum): 81
 | 2024-06-21 | 4.29 | - | 55 | 316 |
 | 2024-07-04 | 4.29 | - | 56 | 318 |
 | 2024-07-11 | 4.29 | - | 56 | 320 |
+| 2024-07-12 | 4.29 | - | 57 | 321 |
