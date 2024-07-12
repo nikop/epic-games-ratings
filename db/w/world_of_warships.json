@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 824,
   "Ranking_Popularity": 125,
-  "Ranking_PopularitySum": 71,
+  "Ranking_PopularitySum": 78,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -18940,10 +18940,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 19287,
       "NumberOfAwardsMax": 2291
+    },
+    {
+      "Time": "2024-07-11T23:58:50.8606644+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 17249,
+      "NumberOfAwardsMax": 2291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19287,
+  "NumberOfAwards": 17249,
   "NumberOfAwardsMax": 2291,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -38722,9 +38728,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-07-11T20:58:00.0517568+00:00",
+  "LastChanged": "2024-07-11T23:58:50.8606643+00:00",
   "LastChanged_Achievements": "2024-07-09T22:03:53.8001838+00:00",
   "LastUpdate_AppInfo": "2024-07-07T22:57:25.9521438+00:00",
-  "LastUpdate_Ratings": "2024-07-11T22:01:48.5639126+00:00",
+  "LastUpdate_Ratings": "2024-07-11T23:58:50.8606649+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:03:53.8003252+00:00"
 }
