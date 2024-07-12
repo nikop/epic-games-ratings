@@ -3,8 +3,8 @@
   "Name": "Flatout",
   "ProductSlug": "flatout-940461",
   "Ranking_Rating": 896,
-  "Ranking_Popularity": 667,
-  "Ranking_PopularitySum": 667,
+  "Ranking_Popularity": 668,
+  "Ranking_PopularitySum": 668,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -130,6 +130,6 @@
   "FirstSeenRating": "2022-10-20T20:02:03.0558069+00:00",
   "LastChanged": "2024-04-20T02:15:17.2999417+00:00",
   "LastUpdate_AppInfo": "2024-07-07T16:57:27.3824756+00:00",
-  "LastUpdate_Ratings": "2024-07-12T16:00:03.8179676+00:00",
+  "LastUpdate_Ratings": "2024-07-12T17:58:44.6990041+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:43.7983119+00:00"
 }

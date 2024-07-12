@@ -4,7 +4,7 @@
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 714,
   "Ranking_Popularity": 632,
-  "Ranking_PopularitySum": 531,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 385,
   "Ranking_EOS_NewPlayers": 18,
@@ -778,10 +778,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 112,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-07-12T17:59:34.3716102+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 112,
+  "NumberOfAwards": 113,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -795,7 +801,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Amazing Characters",
@@ -31350,9 +31356,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
-  "LastChanged": "2024-07-12T06:57:38.4348948+00:00",
+  "LastChanged": "2024-07-12T17:59:34.37161+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:32.6431778+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:10.2304448+00:00",
-  "LastUpdate_Ratings": "2024-07-12T16:57:29.4732831+00:00",
+  "LastUpdate_Ratings": "2024-07-12T17:59:34.3716106+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:32.6433603+00:00"
 }
