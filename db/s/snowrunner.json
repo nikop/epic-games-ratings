@@ -2,7 +2,7 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 155,
+  "Ranking_Rating": 156,
   "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 1090,
@@ -21985,10 +21985,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 113828,
       "NumberOfAwardsMax": 17690
+    },
+    {
+      "Time": "2024-07-12T09:59:47.4417088+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 113830,
+      "NumberOfAwardsMax": 17690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 113828,
+  "NumberOfAwards": 113830,
   "NumberOfAwardsMax": 17690,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -22020,7 +22026,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 13823
+      "Count": 13825
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -22064,8 +22070,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2024-07-12T01:54:28.1746514+00:00",
+  "LastChanged": "2024-07-12T09:59:47.4417086+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:15.5590142+00:00",
-  "LastUpdate_Ratings": "2024-07-12T07:59:53.6543207+00:00",
+  "LastUpdate_Ratings": "2024-07-12T09:59:47.4417092+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:49.6664+00:00"
 }
