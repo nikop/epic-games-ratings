@@ -324,13 +324,13 @@ Completed: 6 (0.10%) (Ranked 398)
 | 2024-06-17 | 6,060 | 6 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 569)  
-Sum: 262 (Ranked 459)  
+Sum: 264 (Ranked 459)  
 Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |
+| This game has Unique Visuals | 32 |
 | This game has Amazing Characters | 32 |
-| This game has Unique Visuals | 30 |
 | This game has Challenging Combat | 30 |
 | This game has Quickly Understood Controls | 28 |
 | This game is Extremely Fun | 28 |
@@ -434,3 +434,4 @@ Diff (max vs sum): 110
 | 2024-06-25 | 4.55 | - | 36 | 260 |
 | 2024-07-02 | 4.54 | - | 36 | 260 |
 | 2024-07-07 | 4.54 | - | 36 | 262 |
+| 2024-07-12 | 4.54 | - | 36 | 264 |
