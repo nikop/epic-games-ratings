@@ -2,9 +2,9 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 384,
+  "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2024-07-03T05:57:28.5370943+00:00",
@@ -185,10 +185,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 547,
       "NumberOfAwardsMax": 485
+    },
+    {
+      "Time": "2024-07-12T11:01:47.6315283+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 485
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 547,
+  "NumberOfAwards": 577,
   "NumberOfAwardsMax": 485,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -221,6 +227,12 @@
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 30
     }
   ],
   "EOS_Progressed": 0,
@@ -235,8 +247,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-07-11T20:59:55.0148569+00:00",
+  "LastChanged": "2024-07-12T11:01:47.6315281+00:00",
   "LastUpdate_AppInfo": "2024-07-08T21:57:19.4198199+00:00",
-  "LastUpdate_Ratings": "2024-07-12T09:58:49.8299151+00:00",
+  "LastUpdate_Ratings": "2024-07-12T11:01:47.6315285+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:07.2551306+00:00"
 }
