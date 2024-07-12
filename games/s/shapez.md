@@ -3,19 +3,20 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 218)  
 ## Awards
-Max (Great for Beginners): 32  (Ranked 592)  
-Sum: 189 (Ranked 493)  
-Diff (max vs sum): 99  
+Max (Relaxing): 32  (Ranked 592)  
+Sum: 210 (Ranked 482)  
+Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
 | This game is Relaxing | 32 |
 | This game is Great for Beginners | 32 |
 | This game has Quickly Understood Controls | 31 |
-| This game is Highly Recommended | 25 |
+| This game is Highly Recommended | 26 |
 | This game is Educational | 24 |
 | This game is Extremely Fun | 24 |
 | This game has a Creative Community | 21 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -132,3 +133,4 @@ Diff (max vs sum): 99
 | 2024-06-30 | 4.71 | 32 | 187 |
 | 2024-07-07 | 4.71 | 32 | 188 |
 | 2024-07-11 | 4.71 | 32 | 189 |
+| 2024-07-12 | 4.71 | 32 | 210 |

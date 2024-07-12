@@ -4,7 +4,7 @@
   "ProductSlug": "shapez-0929c9",
   "Ranking_Rating": 218,
   "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 493,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -718,12 +718,18 @@
       "Rating": 4.71,
       "NumberOfAwards": 189,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-07-12T05:57:28.111543+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 189,
+  "NumberOfAwards": 210,
   "NumberOfAwardsMax": 32,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -759,7 +765,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
@@ -772,6 +778,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 21
+    },
+    {
+      "Text": "This game has Unique Visuals",
+      "Prefix": "This game has",
+      "Type": "Unique Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -786,8 +798,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2024-07-11T15:58:07.5239414+00:00",
+  "LastChanged": "2024-07-12T05:57:28.1115428+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:58:05.0364935+00:00",
-  "LastUpdate_Ratings": "2024-07-12T03:58:39.3815488+00:00",
+  "LastUpdate_Ratings": "2024-07-12T05:57:28.1115432+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:04:08.3927194+00:00"
 }
