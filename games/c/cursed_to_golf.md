@@ -3,9 +3,9 @@
 [View Rawdata](../../db/c/cursed_to_golf.json)  
 Rating: 4.13 (Ranked 1,117)  
 ## Awards
-Max (Great Boss Battles): 24  (Ranked 637)  
+Max (Great Boss Battles): 24  (Ranked 638)  
 Sum: 24 (Ranked 643)  
-Diff (max vs sum): -6  
+Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 24 |
