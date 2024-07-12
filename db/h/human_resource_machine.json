@@ -3,8 +3,8 @@
   "Name": "Human Resource Machine",
   "ProductSlug": "human-resource-machine",
   "Ranking_Rating": 403,
-  "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 454,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -403,18 +403,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-07-12T19:57:06.5571382+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 90
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89,
-  "NumberOfAwardsMax": 89,
+  "NumberOfAwards": 90,
+  "NumberOfAwardsMax": 90,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 89
+      "Count": 90
     }
   ],
   "EOS_Progressed": 0,
@@ -429,8 +435,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:33.4589347+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.6149288+00:00",
-  "LastChanged": "2024-07-02T22:59:06.473402+00:00",
+  "LastChanged": "2024-07-12T19:57:06.557138+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:57:56.9929909+00:00",
-  "LastUpdate_Ratings": "2024-07-12T17:58:38.7977658+00:00",
+  "LastUpdate_Ratings": "2024-07-12T19:57:06.5571391+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:51.5569052+00:00"
 }
