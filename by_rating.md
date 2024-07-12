@@ -55,26 +55,26 @@
 | 48 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 55 | 520 |
 | 48 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,781 | 61 |
 | 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 667 |
+| 48 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 667 |
 | 48 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,635 | 34 |
 | 48 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.84 | 320 | 290 |
 | 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 307 | 294 |
 | 48 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.84 | 0 | 667 |
 | 48 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 237 | 326 |
 | 48 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 251 | 317 |
-| 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,489 | 69 |
-| 62 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 73 | 482 |
-| 62 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 291 | 301 |
-| 62 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 256 | 314 |
-| 62 | [Firework](games/f/firework.md) | 4.83 | 0 | 667 |
-| 62 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 791 | 208 |
-| 62 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.83 | 61 | 504 |
-| 62 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.83 | 0 | 667 |
-| 62 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 487 | 252 |
-| 62 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.83 | 0 | 667 |
-| 62 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.83 | 0 | 667 |
-| 62 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 667 |
-| 62 | [TUNIC](games/t/tunic.md) | 4.83 | 43 | 548 |
-| 62 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.83 | 34 | 582 |
+| 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,489 | 69 |
+| 63 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 73 | 482 |
+| 63 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 291 | 301 |
+| 63 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 256 | 314 |
+| 63 | [Firework](games/f/firework.md) | 4.83 | 0 | 667 |
+| 63 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 791 | 208 |
+| 63 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.83 | 61 | 504 |
+| 63 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.83 | 0 | 667 |
+| 63 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 487 | 252 |
+| 63 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.83 | 0 | 667 |
+| 63 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 667 |
+| 63 | [TUNIC](games/t/tunic.md) | 4.83 | 43 | 548 |
+| 63 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.83 | 34 | 582 |
 | 76 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 501 | 251 |
 | 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 667 |
 | 76 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 37 | 566 |
@@ -143,7 +143,7 @@
 | 128 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.77 | 74 | 479 |
 | 128 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 667 |
 | 143 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 18,156 | 27 |
-| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,630 | 107 |
+| 143 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,631 | 107 |
 | 143 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,443 | 151 |
 | 143 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 4.76 | 0 | 667 |
 | 143 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 667 |
@@ -890,7 +890,7 @@
 | 884 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,189 | 127 |
 | 884 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 657 |
 | 884 | [Tacoma](games/t/tacoma.md) | 4.37 | 0 | 667 |
-| 884 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 6,004 | 85 |
+| 884 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 6,012 | 85 |
 | 884 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.37 | 660 | 227 |
 | 884 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.37 | 0 | 667 |
 | 884 | [Wreckfest](games/w/wreckfest.md) | 4.37 | 0 | 667 |
@@ -1000,7 +1000,7 @@
 | 996 | [Hellpoint](games/h/hellpoint.md) | 4.27 | 0 | 667 |
 | 996 | [Men of War](games/m/men_of_war.md) | 4.27 | 0 | 667 |
 | 996 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 27 | 617 |
-| 996 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,343 | 79 |
+| 996 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,345 | 79 |
 | 996 | [Steelrising](games/s/steelrising.md) | 4.27 | 44 | 546 |
 | 996 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.27 | 0 | 667 |
 | 996 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 667 |
@@ -1086,7 +1086,7 @@
 | 1,082 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 35 | 576 |
 | 1,082 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 667 |
 | 1,082 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 80 | 467 |
-| 1,082 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 231,837 | 6 |
+| 1,082 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 231,924 | 6 |
 | 1,082 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 446 |
 | 1,082 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 667 |
 | 1,082 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 667 |
