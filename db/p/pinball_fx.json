@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 1130,
   "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 250,
+  "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -3161,10 +3161,16 @@
       "Rating": 4.09,
       "NumberOfAwards": 1834,
       "NumberOfAwardsMax": 250
+    },
+    {
+      "Time": "2024-07-12T03:57:14.7249125+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 1837,
+      "NumberOfAwardsMax": 250
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1834,
+  "NumberOfAwards": 1837,
   "NumberOfAwardsMax": 250,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3190,7 +3196,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3238,7 +3244,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 123
+      "Count": 125
     },
     {
       "Text": "This game has Challenging Combat",
@@ -36114,9 +36120,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2024-07-08T22:57:39.0614178+00:00",
+  "LastChanged": "2024-07-12T03:57:14.7249123+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:12.8914777+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:35.8036086+00:00",
-  "LastUpdate_Ratings": "2024-07-12T01:55:00.4152836+00:00",
+  "LastUpdate_Ratings": "2024-07-12T03:57:14.7249128+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:12.8916379+00:00"
 }

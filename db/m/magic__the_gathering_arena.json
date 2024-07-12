@@ -23882,10 +23882,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 116396,
       "NumberOfAwardsMax": 15267
+    },
+    {
+      "Time": "2024-07-12T03:58:45.2142144+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 116410,
+      "NumberOfAwardsMax": 15267
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 116396,
+  "NumberOfAwards": 116410,
   "NumberOfAwardsMax": 15267,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -23929,13 +23935,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 10274
+      "Count": 10279
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 9000
+      "Count": 9009
     },
     {
       "Text": "This game has Amazing Characters",
@@ -23967,8 +23973,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-07-11T20:57:33.7445633+00:00",
+  "LastChanged": "2024-07-12T03:58:45.2142142+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:57:20.8587136+00:00",
-  "LastUpdate_Ratings": "2024-07-12T01:56:43.0806445+00:00",
+  "LastUpdate_Ratings": "2024-07-12T03:58:45.2142148+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:03.1738981+00:00"
 }
