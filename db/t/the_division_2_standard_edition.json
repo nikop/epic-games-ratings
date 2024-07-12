@@ -20739,10 +20739,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 35950,
       "NumberOfAwardsMax": 10068
+    },
+    {
+      "Time": "2024-07-12T22:57:37.6013184+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 35952,
+      "NumberOfAwardsMax": 10068
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35950,
+  "NumberOfAwards": 35952,
   "NumberOfAwardsMax": 10068,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -20786,7 +20792,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1971
+      "Count": 1973
     },
     {
       "Text": "This game is Extremely Fun",
@@ -20830,8 +20836,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-07-12T20:59:03.4574912+00:00",
+  "LastChanged": "2024-07-12T22:57:37.6013182+00:00",
   "LastUpdate_AppInfo": "2024-07-07T21:57:15.336944+00:00",
-  "LastUpdate_Ratings": "2024-07-12T20:59:03.4574923+00:00",
+  "LastUpdate_Ratings": "2024-07-12T22:57:37.601319+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:30.7432232+00:00"
 }
