@@ -118,4 +118,3 @@
 | [CRUELTY](games/1/1869b4b037124467b43cd9e62c6ee09d.md) | 2024-06-13 | - |  | - | 0 |
 | [War of Tanks](games/6/6e6916441a70473eac5849afca73080f.md) | 2024-06-13 | - |  | 3.88 | 0 |
 | [DOSA: Guardians](games/8/84abf01158f84874b4a8737dfcad9eca.md) | 2024-06-13 | - |  | - | 0 |
-| [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | 23 (1,000 XP) | 0 | - | 0 |
