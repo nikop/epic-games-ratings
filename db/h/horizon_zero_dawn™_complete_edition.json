@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 156,
   "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 76,
+  "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -15416,10 +15416,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 18081,
       "NumberOfAwardsMax": 7825
+    },
+    {
+      "Time": "2024-07-13T06:57:10.6739552+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 18082,
+      "NumberOfAwardsMax": 7825
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18081,
+  "NumberOfAwards": 18082,
   "NumberOfAwardsMax": 7825,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15469,7 +15475,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 532
+      "Count": 533
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15507,8 +15513,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2024-07-13T04:58:18.4924411+00:00",
+  "LastChanged": "2024-07-13T06:57:10.673955+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:11.3444734+00:00",
-  "LastUpdate_Ratings": "2024-07-13T04:58:18.4924417+00:00",
+  "LastUpdate_Ratings": "2024-07-13T06:57:10.6739556+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:04.1947521+00:00"
 }
