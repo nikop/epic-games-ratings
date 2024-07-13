@@ -3,7 +3,7 @@
   "Name": "Defense Grid: The Awakening",
   "ProductSlug": "defense-grid",
   "Ranking_Rating": 762,
-  "Ranking_Popularity": 303,
+  "Ranking_Popularity": 302,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 512,
@@ -2594,11 +2594,17 @@
       "Rating": 4.44,
       "NumberOfAwards": 1845,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2024-07-13T13:01:05.3246897+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 1846,
+      "NumberOfAwardsMax": 290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1845,
-  "NumberOfAwardsMax": 289,
+  "NumberOfAwards": 1846,
+  "NumberOfAwardsMax": 290,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2617,7 +2623,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 289
+      "Count": 290
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -33329,9 +33335,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
-  "LastChanged": "2024-07-11T16:58:59.5815245+00:00",
+  "LastChanged": "2024-07-13T13:01:05.3246896+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:03.6474177+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:27.9451477+00:00",
-  "LastUpdate_Ratings": "2024-07-13T10:59:30.0050683+00:00",
+  "LastUpdate_Ratings": "2024-07-13T13:01:05.3246901+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:03.6476005+00:00"
 }

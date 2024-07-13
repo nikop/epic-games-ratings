@@ -4,7 +4,7 @@
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 335,
   "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 396,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -1683,10 +1683,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 469,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-07-13T13:03:47.166809+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 427,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 469,
+  "NumberOfAwards": 427,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1780,8 +1786,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2024-07-12T20:57:17.1963904+00:00",
+  "LastChanged": "2024-07-13T13:03:47.1668088+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:58:06.3039938+00:00",
-  "LastUpdate_Ratings": "2024-07-13T11:57:21.244007+00:00",
+  "LastUpdate_Ratings": "2024-07-13T13:03:47.1668092+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:43.6444941+00:00"
 }
