@@ -4,7 +4,7 @@
 Rating: 4.69 (Ranked 259)  
 ## Awards
 Max (Character Customization): 289  (Ranked 303)  
-Sum: 510 (Ranked 389)  
+Sum: 511 (Ranked 389)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -86
 | This game has Diverse Characters | 27 |
 | This game has Quickly Understood Controls | 27 |
 | This game is Highly Recommended | 23 |
-| This game has Challenging Combat | 20 |
+| This game has Challenging Combat | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -246,3 +246,4 @@ Diff (max vs sum): -86
 | 2024-07-09 | 4.70 | 287 | 508 |
 | 2024-07-10 | 4.69 | 288 | 509 |
 | 2024-07-12 | 4.69 | 289 | 510 |
+| 2024-07-13 | 4.69 | 289 | 511 |

@@ -20941,10 +20941,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 83644,
       "NumberOfAwardsMax": 10196
+    },
+    {
+      "Time": "2024-07-13T02:57:53.7460789+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 83660,
+      "NumberOfAwardsMax": 10196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 83644,
+  "NumberOfAwards": 83660,
   "NumberOfAwardsMax": 10196,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -20988,7 +20994,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 9065
+      "Count": 9073
     },
     {
       "Text": "This game is Relaxing",
@@ -21006,7 +21012,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 7745
+      "Count": 7753
     },
     {
       "Text": "This game has Unique Visuals",
@@ -56646,9 +56652,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-07-12T20:58:32.6763016+00:00",
+  "LastChanged": "2024-07-13T02:57:53.7460787+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:40.0484374+00:00",
   "LastUpdate_AppInfo": "2024-07-07T23:57:11.2709759+00:00",
-  "LastUpdate_Ratings": "2024-07-12T23:59:19.8049441+00:00",
+  "LastUpdate_Ratings": "2024-07-13T02:57:53.7460794+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:40.0498314+00:00"
 }
