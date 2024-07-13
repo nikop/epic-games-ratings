@@ -1,7 +1,7 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 656)  
+Rating: 4.43 (Ranked 783)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -145,3 +145,4 @@ Completed: 1 (0.18%) (Ranked 361)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-02-13 | 4.50 | - | - |
 | 2023-03-31 | 4.50 | 0 | 0 |
+| 2024-07-13 | 4.43 | 0 | 0 |
