@@ -33,7 +33,7 @@
 | 31 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 16,363 | 4.49 | 682 |
 | 32 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,905 | 4.44 | 762 |
 | 33 | [Dead Island 2](games/d/dead_island_2.md) | 15,842 | 4.54 | 582 |
-| 34 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,635 | 4.84 | 48 |
+| 34 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,640 | 4.84 | 48 |
 | 35 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 15,282 | 4.46 | 728 |
 | 36 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,978 | 4.58 | 496 |
 | 37 | [Maneater](games/m/maneater.md) | 14,310 | 4.49 | 682 |
@@ -93,7 +93,7 @@
 | 91 | [Trackmania Starter Access](games/t/trackmania.md) | 5,072 | 4.64 | 364 |
 | 92 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,975 | 4.68 | 283 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,917 | 4.46 | 728 |
-| 94 | [Days Gone](games/d/days_gone.md) | 4,773 | 4.68 | 283 |
+| 94 | [Days Gone](games/d/days_gone.md) | 4,774 | 4.68 | 283 |
 | 95 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,738 | 4.70 | 234 |
 | 96 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4,683 | 4.63 | 383 |
 | 97 | [Paladins](games/p/paladins.md) | 4,612 | 4.31 | 958 |
@@ -103,7 +103,7 @@
 | 101 | [Hades](games/h/hades.md) | 3,999 | 4.92 | 4 |
 | 102 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,849 | 4.66 | 322 |
 | 103 | [Gloomhaven](games/g/gloomhaven.md) | 3,718 | 4.47 | 714 |
-| 104 | [Ghostrunner](games/g/ghostrunner.md) | 3,671 | 4.55 | 559 |
+| 104 | [Ghostrunner](games/g/ghostrunner.md) | 3,681 | 4.55 | 559 |
 | 105 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,663 | 4.57 | 521 |
 | 106 | [Gotham Knights](games/g/gotham_knights.md) | 3,647 | 4.19 | 1,076 |
 | 107 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,631 | 4.76 | 143 |
@@ -130,7 +130,7 @@
 | 128 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,183 | 4.63 | 383 |
 | 129 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,160 | 4.89 | 11 |
 | 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,123 | 4.69 | 259 |
-| 131 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,119 | 4.50 | 657 |
+| 131 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,120 | 4.50 | 657 |
 | 132 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,101 | 4.49 | 682 |
 | 133 | [Celeste](games/c/celeste.md) | 2,082 | 4.92 | 4 |
 | 134 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 2,062 | 4.86 | 29 |
