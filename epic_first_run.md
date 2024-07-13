@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [WorldShadow](games/4/4796e309f0d749cc901f80167fb6bd94.md) | 2024-12-31 | - |  | - | - |
 | [Baby Boomer 2: 35 Years Too Soon](games/e/ec138d2df7af46d39a50c5f454c7317d.md) | 2024-08-16 | - |  | - | - |
 | [I Chatbot: AISYLUM](games/c/cf688ebf1c3f42ffa697c7b8afd73e9d.md) | 2024-08-31 | - |  | - | - |
 | [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2099-01-01 | - |  | - | - |

@@ -219,6 +219,7 @@
 | [Voidwrought](games/1/1c6e13038e00432ba0a3c11bb85d1d5f.md) | 2024-12-31 | - |  | - | - |
 | [Wanderer's Sigil: Dice-Fueled Adventure](games/7/74d48dd68be249aab319a2f9bca2dc0e.md) | 2024-12-31 | - |  | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-12-31 | - |  | - | - |
+| [WorldShadow](games/4/4796e309f0d749cc901f80167fb6bd94.md) | 2024-12-31 | - |  | - | - |
 | [Worshippers of Cthulhu](games/3/3cc25c5644354b8aa07d735794004cbf.md) | 2024-12-31 | - |  | - | - |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-12-31 | - |  | - | - |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-12-31 | 38 (1,000 XP) | 1 | - | - |
