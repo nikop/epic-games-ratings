@@ -4,7 +4,7 @@
   "ProductSlug": "raid-shadow-legends-b70e14",
   "Ranking_Rating": 1022,
   "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 497,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -1133,10 +1133,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 187,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-07-13T10:57:20.1213771+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 188,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187,
+  "NumberOfAwards": 188,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1156,7 +1162,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1201,8 +1207,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T13:57:09.0545259+00:00",
   "FirstSeenRating": "2023-08-30T02:59:29.8015569+00:00",
-  "LastChanged": "2024-07-12T13:05:33.6671232+00:00",
+  "LastChanged": "2024-07-13T10:57:20.1213769+00:00",
   "LastUpdate_AppInfo": "2024-07-12T16:57:10.951846+00:00",
-  "LastUpdate_Ratings": "2024-07-13T07:58:23.0792935+00:00",
+  "LastUpdate_Ratings": "2024-07-13T10:57:20.1213776+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:35.5546372+00:00"
 }
