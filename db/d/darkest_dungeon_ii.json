@@ -4,7 +4,7 @@
   "ProductSlug": "darkest-dungeon-2",
   "Ranking_Rating": 259,
   "Ranking_Popularity": 62,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 470,
   "Ranking_EOS_NewPlayers": 18,
@@ -15172,10 +15172,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 23750,
       "NumberOfAwardsMax": 8599
+    },
+    {
+      "Time": "2024-07-12T23:58:11.8443496+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 23751,
+      "NumberOfAwardsMax": 8599
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23750,
+  "NumberOfAwards": 23751,
   "NumberOfAwardsMax": 8599,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15225,7 +15231,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2147
+      "Count": 2148
     },
     {
       "Text": "This game is Relaxing",
@@ -46316,9 +46322,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-07-12T16:59:57.7857881+00:00",
+  "LastChanged": "2024-07-12T23:58:11.8443494+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:30.1568094+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:58:05.6538209+00:00",
-  "LastUpdate_Ratings": "2024-07-12T21:59:06.690997+00:00",
+  "LastUpdate_Ratings": "2024-07-12T23:58:11.8443499+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:30.1569738+00:00"
 }
