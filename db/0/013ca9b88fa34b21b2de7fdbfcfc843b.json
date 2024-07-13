@@ -3,8 +3,8 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 402,
-  "Ranking_Popularity": 603,
-  "Ranking_PopularitySum": 628,
+  "Ranking_Popularity": 592,
+  "Ranking_PopularitySum": 625,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 449,
   "Ranking_EOS_NewPlayers": 18,
@@ -391,18 +391,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 30,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-07-13T18:58:28.3253426+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30,
-  "NumberOfAwardsMax": 30,
+  "NumberOfAwards": 32,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 30
+      "Count": 32
     }
   ],
   "EOS_Progressed": 10761,
@@ -11278,9 +11284,9 @@
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged": "2024-07-04T19:57:34.2210116+00:00",
+  "LastChanged": "2024-07-13T18:58:28.3253425+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:27.840106+00:00",
   "LastUpdate_AppInfo": "2024-07-13T04:56:58.4310387+00:00",
-  "LastUpdate_Ratings": "2024-07-13T17:00:28.2342356+00:00",
+  "LastUpdate_Ratings": "2024-07-13T18:58:28.3253429+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:27.8401787+00:00"
 }
