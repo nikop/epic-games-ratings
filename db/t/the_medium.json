@@ -3,8 +3,8 @@
   "Name": "The Medium",
   "ProductSlug": "the-medium",
   "Ranking_Rating": 656,
-  "Ranking_Popularity": 668,
-  "Ranking_PopularitySum": 668,
+  "Ranking_Popularity": 669,
+  "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -233,6 +233,6 @@
   "FirstSeenRating": "2022-10-24T23:02:37.2163937+00:00",
   "LastChanged": "2024-06-11T02:57:03.5059356+00:00",
   "LastUpdate_AppInfo": "2024-07-08T05:57:19.7094003+00:00",
-  "LastUpdate_Ratings": "2024-07-13T19:59:49.1534178+00:00",
+  "LastUpdate_Ratings": "2024-07-13T21:58:41.6859879+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:11.7721319+00:00"
 }

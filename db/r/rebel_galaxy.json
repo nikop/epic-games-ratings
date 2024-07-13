@@ -4,7 +4,7 @@
   "ProductSlug": "rebel-galaxy",
   "Ranking_Rating": 783,
   "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 472,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -1092,10 +1092,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 236,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-07-13T21:58:05.1199268+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 236,
+  "NumberOfAwards": 208,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1159,8 +1165,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2024-07-12T23:59:10.6096801+00:00",
+  "LastChanged": "2024-07-13T21:58:05.1199266+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:57:39.2264716+00:00",
-  "LastUpdate_Ratings": "2024-07-13T19:59:18.2605679+00:00",
+  "LastUpdate_Ratings": "2024-07-13T21:58:05.1199271+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:53.9961509+00:00"
 }
