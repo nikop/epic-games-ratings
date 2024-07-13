@@ -161,7 +161,7 @@
 | 156 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 668 |
 | 156 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,182 | 167 |
 | 156 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,793 | 145 |
-| 156 | [Frostpunk](games/f/frostpunk.md) | 4.75 | 985 | 188 |
+| 156 | [Frostpunk](games/f/frostpunk.md) | 4.75 | 985 | 189 |
 | 156 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,825 | 68 |
 | 156 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 668 |
 | 156 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 0 | 668 |
@@ -185,10 +185,10 @@
 | 171 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 435 |
 | 171 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 115 | 416 |
 | 171 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.74 | 0 | 668 |
-| 171 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 985 | 188 |
+| 171 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 988 | 188 |
 | 171 | [Timberborn](games/t/timberborn.md) | 4.74 | 212 | 338 |
 | 171 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 668 |
-| 171 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 559 | 241 |
+| 171 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 561 | 241 |
 | 171 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 668 |
 | 191 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 537 | 246 |
 | 191 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 89 | 456 |
@@ -283,7 +283,7 @@
 | 259 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,213 | 166 |
 | 259 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 952 | 192 |
 | 283 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.68 | 0 | 668 |
-| 283 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,975 | 92 |
+| 283 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,979 | 92 |
 | 283 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 823 | 203 |
 | 283 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,774 | 94 |
 | 283 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,196 | 52 |
@@ -443,7 +443,7 @@
 | 424 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,150 | 172 |
 | 424 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 668 |
 | 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,907 | 67 |
-| 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 641 | 230 |
+| 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 642 | 230 |
 | 424 | [Tails of Iron](games/t/tails_of_iron.md) | 4.61 | 22 | 646 |
 | 424 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 466 |
 | 424 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 453 | 262 |
@@ -650,7 +650,7 @@
 | 640 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 0 | 668 |
 | 640 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 668 |
 | 640 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 804 | 206 |
-| 640 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 10,068 | 53 |
+| 640 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 10,069 | 53 |
 | 640 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 80 | 468 |
 | 640 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.51 | 0 | 668 |
 | 640 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 668 |
@@ -660,7 +660,7 @@
 | 656 | [Calico](games/c/calico.md) | 4.50 | 0 | 668 |
 | 656 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 115 | 416 |
 | 656 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 668 |
-| 656 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.50 | 49,356 | 16 |
+| 656 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.50 | 49,395 | 16 |
 | 656 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 668 |
 | 656 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.50 | 0 | 668 |
 | 656 | [Fall Guys](games/f/fall_guys.md) | 4.50 | 161,930 | 8 |
@@ -1089,7 +1089,7 @@
 | 1,084 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 35 | 576 |
 | 1,084 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 668 |
 | 1,084 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 80 | 468 |
-| 1,084 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 231,924 | 6 |
+| 1,084 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 232,021 | 6 |
 | 1,084 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 446 |
 | 1,084 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 668 |
 | 1,084 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 668 |
@@ -1163,10 +1163,10 @@
 | 1,160 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,254 | 88 |
 | 1,162 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 4.00 | 0 | 668 |
 | 1,162 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 4.00 | 0 | 668 |
-| 1,162 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 4.00 | 0 | 668 |
 | 1,162 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 4.00 | 26 | 627 |
 | 1,162 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 668 |
-| 1,167 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 390 | 274 |
+| 1,166 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 390 | 274 |
+| 1,166 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.99 | 0 | 668 |
 | 1,168 | [Blazing Sails](games/b/blazing_sails.md) | 3.98 | 793 | 207 |
 | 1,168 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.98 | 845 | 201 |
 | 1,168 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 668 |
