@@ -340,7 +340,7 @@ Completed: 2,298 (2.73%) (Ranked 157)
 | 2024-06-17 | 84,087 | 2,298 |
 ## Awards
 Max (Great Boss Battles): 804  (Ranked 206)  
-Sum: 1,669 (Ranked 263)  
+Sum: 1,670 (Ranked 263)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): -57
 | This game has Amazing Storytelling | 111 |
 | This game has Challenging Combat | 103 |
 | This game has Amazing Characters | 97 |
-| This game has Unique Visuals | 88 |
+| This game has Unique Visuals | 89 |
 | This game has a Creative Community | 58 |
 | This game has Obsessive Gameplay | 53 |
 ## Ratings History
@@ -550,3 +550,4 @@ Diff (max vs sum): -57
 | 2024-07-08 | 4.51 | - | 1,083 | 2,750 |
 | 2024-07-09 | 4.51 | - | 803 | 1,667 |
 | 2024-07-11 | 4.51 | - | 804 | 1,669 |
+| 2024-07-13 | 4.51 | - | 804 | 1,670 |

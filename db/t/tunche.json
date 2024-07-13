@@ -4,7 +4,7 @@
   "ProductSlug": "tunche",
   "Ranking_Rating": 783,
   "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 614,
+  "Ranking_PopularitySum": 615,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -473,6 +473,6 @@
   "FirstSeenRating": "2023-03-31T05:57:24.4690387+00:00",
   "LastChanged": "2024-05-31T13:57:23.8345653+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:57:55.0229204+00:00",
-  "LastUpdate_Ratings": "2024-07-13T11:59:33.1290279+00:00",
+  "LastUpdate_Ratings": "2024-07-13T13:58:25.5988398+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:57.0427562+00:00"
 }
