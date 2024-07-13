@@ -2,7 +2,7 @@
   "ID": "52326e805bac4619a4a8fac165363a42",
   "Name": "Gone Home",
   "ProductSlug": "gone-home",
-  "Ranking_Rating": 1050,
+  "Ranking_Rating": 1051,
   "Ranking_Popularity": 668,
   "Ranking_PopularitySum": 668,
   "Ranking_EOS_Progress": 1090,
@@ -332,6 +332,6 @@
   "FirstSeen": "2022-07-22T20:25:36.6755135+00:00",
   "LastChanged": "2024-06-01T08:57:49.3783383+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:59.8775281+00:00",
-  "LastUpdate_Ratings": "2024-07-13T14:57:02.8497415+00:00",
+  "LastUpdate_Ratings": "2024-07-13T15:59:12.5496825+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:05.9110175+00:00"
 }

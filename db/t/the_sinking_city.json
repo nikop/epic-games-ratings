@@ -2,7 +2,7 @@
   "ID": "middlemist",
   "Name": "The Sinking City",
   "ProductSlug": "the-sinking-city",
-  "Ranking_Rating": 1044,
+  "Ranking_Rating": 1045,
   "Ranking_Popularity": 668,
   "Ranking_PopularitySum": 668,
   "Ranking_EOS_Progress": 1090,
@@ -99,6 +99,6 @@
   "FirstSeenRating": "2024-05-24T18:59:35.5135277+00:00",
   "LastChanged": "2024-07-09T21:58:54.7154158+00:00",
   "LastUpdate_AppInfo": "2024-07-10T17:57:06.8974867+00:00",
-  "LastUpdate_Ratings": "2024-07-13T13:58:43.6674296+00:00",
+  "LastUpdate_Ratings": "2024-07-13T15:57:25.3693102+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:06:14.6424265+00:00"
 }
