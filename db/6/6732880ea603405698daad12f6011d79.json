@@ -1,6 +1,6 @@
 {
   "ID": "6732880ea603405698daad12f6011d79",
-  "Name": "Astralium: Game Modes",
+  "Name": "Skybound: Only Up",
   "ProductSlug": "astralium-ee19a6",
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
@@ -9,7 +9,7 @@
   "Store": {
     "ReleaseDate": "2024-07-01T16:00:00+00:00",
     "PcReleaseDate": "2024-07-01T16:00:00+00:00",
-    "isBlockchainUsed": true,
+    "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T01:53:05.2244967+00:00",
   "LastUpdate_AppInfo": "2024-07-13T09:57:01.3337815+00:00",
-  "LastUpdate_Ratings": "2024-07-14T14:59:42.5608121+00:00"
+  "LastUpdate_Ratings": "2024-07-14T17:00:19.2892186+00:00"
 }
