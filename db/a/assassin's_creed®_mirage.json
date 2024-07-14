@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 783,
   "Ranking_Popularity": 271,
-  "Ranking_PopularitySum": 202,
+  "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -6739,11 +6739,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 3234,
       "NumberOfAwardsMax": 401
+    },
+    {
+      "Time": "2024-07-14T05:57:21.3801683+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 3235,
+      "NumberOfAwardsMax": 402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3234,
-  "NumberOfAwardsMax": 401,
+  "NumberOfAwards": 3235,
+  "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6756,7 +6762,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 401
+      "Count": 402
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6825,8 +6831,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-07-13T20:00:23.8113321+00:00",
+  "LastChanged": "2024-07-14T05:57:21.3801681+00:00",
   "LastUpdate_AppInfo": "2024-07-07T21:57:22.2700493+00:00",
-  "LastUpdate_Ratings": "2024-07-14T03:58:24.5788591+00:00",
+  "LastUpdate_Ratings": "2024-07-14T05:57:21.3801697+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:05.9915133+00:00"
 }
