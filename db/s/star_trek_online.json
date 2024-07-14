@@ -2,7 +2,7 @@
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
-  "Ranking_Rating": 748,
+  "Ranking_Rating": 762,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 1090,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 565,
   "RatingHistory": [
     {
@@ -4783,6 +4783,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 3005,
       "NumberOfAwardsMax": 733
+    },
+    {
+      "Time": "2024-07-14T13:28:41.5009695+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 3005,
+      "NumberOfAwardsMax": 733
     }
   ],
   "ReviewsDisabled": false,
@@ -4868,8 +4874,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2024-07-12T20:57:24.6380972+00:00",
+  "LastChanged": "2024-07-14T13:28:41.5009693+00:00",
   "LastUpdate_AppInfo": "2024-07-07T16:57:25.5613054+00:00",
-  "LastUpdate_Ratings": "2024-07-14T11:57:19.199211+00:00",
+  "LastUpdate_Ratings": "2024-07-14T13:28:41.50097+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:29.1356108+00:00"
 }

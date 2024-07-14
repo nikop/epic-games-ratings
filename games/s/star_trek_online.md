@@ -1,7 +1,7 @@
 # Star Trek Online
 [Store](https://store.epicgames.com/en-US/p/star-trek-online)  
 [View Rawdata](../../db/s/star_trek_online.json)  
-Rating: 4.45 (Ranked 748)  
+Rating: 4.44 (Ranked 762)  
 Number of Ratings: 565  (23.09.2022)  
 ## Awards
 Max (Character Customization): 733  (Ranked 217)  
@@ -460,3 +460,4 @@ Diff (max vs sum): 11
 | 2024-07-10 | 4.45 | - | 732 | 3,001 |
 | 2024-07-11 | 4.45 | - | 732 | 3,002 |
 | 2024-07-12 | 4.45 | - | 733 | 3,005 |
+| 2024-07-14 | 4.44 | - | 733 | 3,005 |
