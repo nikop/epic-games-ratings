@@ -2,9 +2,9 @@
   "ID": "76cd63399a874c2b854fd74cda49a256",
   "Name": "Suicide Squad: Kill the Justice League",
   "ProductSlug": "suicide-squad-kill-the-justice-league",
-  "Ranking_Rating": 984,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 379,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 424,
   "Ranking_EOS_NewPlayers": 18,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.28,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2024-03-28T20:59:22.341135+00:00",
@@ -1195,6 +1195,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 577,
       "NumberOfAwardsMax": 293
+    },
+    {
+      "Time": "2024-07-14T19:57:40.9362342+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 293
     }
   ],
   "ReviewsDisabled": false,
@@ -1690,9 +1696,9 @@
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-07-12T05:57:13.2266887+00:00",
+  "LastChanged": "2024-07-14T19:57:40.936234+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:56.6293404+00:00",
   "LastUpdate_AppInfo": "2024-07-08T03:57:58.801047+00:00",
-  "LastUpdate_Ratings": "2024-07-14T17:58:35.9028912+00:00",
+  "LastUpdate_Ratings": "2024-07-14T19:57:40.9362345+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:56.6293694+00:00"
 }
