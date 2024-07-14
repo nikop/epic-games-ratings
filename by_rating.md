@@ -259,7 +259,7 @@
 | 234 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 669 |
 | 234 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 669 |
 | 259 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 669 |
-| 259 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 136,185 | 9 |
+| 259 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 136,234 | 9 |
 | 259 | [Coromon](games/c/coromon.md) | 4.69 | 51 | 532 |
 | 259 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.69 | 170,774 | 7 |
 | 259 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,600 | 63 |
@@ -377,7 +377,7 @@
 | 365 | [Outlast 2](games/o/outlast_2.md) | 4.64 | 0 | 669 |
 | 365 | [RIDE 5](games/r/ride_5.md) | 4.64 | 0 | 669 |
 | 365 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,434 | 19 |
-| 365 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,385 | 153 |
+| 365 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,386 | 153 |
 | 365 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.64 | 0 | 669 |
 | 365 | [Trackmania Starter Access](games/t/trackmania.md) | 4.64 | 5,074 | 91 |
 | 365 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 238 | 326 |
@@ -441,7 +441,7 @@
 | 424 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,619 | 49 |
 | 424 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,150 | 172 |
 | 424 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 669 |
-| 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,907 | 67 |
+| 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,909 | 67 |
 | 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 642 | 231 |
 | 424 | [Tails of Iron](games/t/tails_of_iron.md) | 4.61 | 22 | 647 |
 | 424 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 466 |
@@ -783,7 +783,7 @@
 | 762 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 303 | 298 |
 | 762 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.44 | 2,647 | 117 |
 | 783 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.43 | 0 | 669 |
-| 783 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 401 | 271 |
+| 783 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 4.43 | 402 | 271 |
 | 783 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.43 | 0 | 669 |
 | 783 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.43 | 281 | 309 |
 | 783 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 669 |
@@ -806,23 +806,23 @@
 | 783 | [Tunche](games/t/tunche.md) | 4.43 | 36 | 569 |
 | 783 | [Warpips](games/w/warpips.md) | 4.43 | 56 | 517 |
 | 783 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 60 | 507 |
-| 807 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 652 |
-| 807 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.42 | 47 | 540 |
-| 807 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 0 | 669 |
-| 807 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.42 | 36 | 569 |
-| 807 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 669 |
-| 807 | [MetalCore](games/m/metalcore.md) | 4.42 | 108 | 425 |
-| 807 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.42 | 0 | 669 |
-| 807 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.42 | 20 | 658 |
-| 807 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 274 | 311 |
-| 807 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 73 |
-| 807 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 230 | 333 |
-| 807 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 669 |
-| 807 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,376 | 154 |
-| 807 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 201 | 346 |
-| 807 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 108 | 425 |
-| 807 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.42 | 745 | 215 |
-| 807 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 669 |
+| 783 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.43 | 745 | 215 |
+| 808 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 652 |
+| 808 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.42 | 47 | 540 |
+| 808 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 0 | 669 |
+| 808 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.42 | 36 | 569 |
+| 808 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 669 |
+| 808 | [MetalCore](games/m/metalcore.md) | 4.42 | 108 | 425 |
+| 808 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.42 | 0 | 669 |
+| 808 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.42 | 20 | 658 |
+| 808 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 274 | 311 |
+| 808 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 73 |
+| 808 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 230 | 333 |
+| 808 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 669 |
+| 808 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,376 | 154 |
+| 808 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 201 | 346 |
+| 808 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 108 | 425 |
+| 808 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 669 |
 | 824 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.41 | 31 | 601 |
 | 824 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 669 |
 | 824 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 0 | 669 |
