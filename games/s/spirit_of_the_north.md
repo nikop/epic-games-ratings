@@ -1,7 +1,7 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 895)  
+Rating: 4.36 (Ranked 896)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -318,9 +318,9 @@ Completed: 536 (0.60%) (Ranked 273)
 | 2024-04-10 | 86,064 | 498 |
 | 2024-06-17 | 89,843 | 536 |
 ## Awards
-Max (Extremely Fun): 27  (Ranked 620)  
+Max (Extremely Fun): 27  (Ranked 621)  
 Sum: 117 (Ranked 524)  
-Diff (max vs sum): 96  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

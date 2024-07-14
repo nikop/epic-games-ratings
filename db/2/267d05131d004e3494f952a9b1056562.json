@@ -2,6 +2,9 @@
   "ID": "267d05131d004e3494f952a9b1056562",
   "Name": "Bandle Tale: A League of Legends Story",
   "ProductSlug": "bandle-tale-a-league-of-legends-story",
+  "Ranking_Rating": 560,
+  "Ranking_Popularity": 669,
+  "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 18,
@@ -17,7 +20,15 @@
       "com.epicgames.app.blacklist": "RU"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.55,
+  "RatingHistory": [
+    {
+      "Time": "2024-07-14T15:58:34.065495+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -370,9 +381,11 @@
     }
   ],
   "FirstSeen": "2024-02-21T21:59:48.2339522+00:00",
+  "FirstSeenRating": "2024-07-14T15:58:34.0654944+00:00",
   "FirstSeenAchievements": "2023-10-27T11:05:00.7152408+00:00",
+  "LastChanged": "2024-07-14T15:58:34.0654945+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:58.6553875+00:00",
   "LastUpdate_AppInfo": "2024-07-12T16:57:06.0673178+00:00",
-  "LastUpdate_Ratings": "2024-07-14T14:00:24.7425657+00:00",
+  "LastUpdate_Ratings": "2024-07-14T15:58:34.0654958+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:58.6554132+00:00"
 }
