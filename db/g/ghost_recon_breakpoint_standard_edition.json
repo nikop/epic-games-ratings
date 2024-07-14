@@ -2,7 +2,7 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 541,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 1090,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "NumberOfRatings": 4870,
   "RatingHistory": [
     {
@@ -17854,6 +17854,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 18352,
       "NumberOfAwardsMax": 2379
+    },
+    {
+      "Time": "2024-07-14T17:57:17.0987271+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 18352,
+      "NumberOfAwardsMax": 2379
     }
   ],
   "ReviewsDisabled": false,
@@ -17933,8 +17939,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2024-07-14T10:58:55.0647759+00:00",
+  "LastChanged": "2024-07-14T17:57:17.0987269+00:00",
   "LastUpdate_AppInfo": "2024-07-08T06:58:36.7089579+00:00",
-  "LastUpdate_Ratings": "2024-07-14T15:58:56.5063077+00:00",
+  "LastUpdate_Ratings": "2024-07-14T17:57:17.0987277+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:52.2469825+00:00"
 }
