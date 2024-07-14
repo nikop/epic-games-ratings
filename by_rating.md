@@ -13,7 +13,7 @@
 | 11 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.89 | 25 | 633 |
 | 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,656 | 51 |
 | 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 669 |
-| 11 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,162 | 130 |
+| 11 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,163 | 130 |
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 29,117 | 21 |
 | 11 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.89 | 0 | 669 |
 | 17 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,076 | 180 |
@@ -52,7 +52,7 @@
 | 47 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.84 | 0 | 669 |
 | 47 | [Dead Cells](games/d/dead_cells.md) | 4.84 | 439 | 266 |
 | 47 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 55 | 520 |
-| 47 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,784 | 61 |
+| 47 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,789 | 61 |
 | 47 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 669 |
 | 47 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 669 |
 | 47 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.84 | 0 | 669 |
@@ -159,7 +159,7 @@
 | 156 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,844 | 60 |
 | 156 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.75 | 0 | 669 |
 | 156 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 669 |
-| 156 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,184 | 168 |
+| 156 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,186 | 168 |
 | 156 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,799 | 146 |
 | 156 | [Frostpunk](games/f/frostpunk.md) | 4.75 | 985 | 190 |
 | 156 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 7,835 | 68 |
@@ -215,7 +215,7 @@
 | 207 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.72 | 0 | 669 |
 | 207 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 0 | 669 |
 | 207 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 669 |
-| 207 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 412 | 269 |
+| 207 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 413 | 269 |
 | 207 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 0 | 669 |
 | 207 | [The Machines Arena](games/t/the_machines_arena.md) | 4.72 | 34 | 583 |
 | 219 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 4.71 | 134 | 395 |
@@ -286,7 +286,7 @@
 | 283 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,979 | 92 |
 | 283 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 824 | 204 |
 | 283 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,776 | 94 |
-| 283 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,208 | 52 |
+| 283 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,224 | 52 |
 | 283 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 14,332 | 37 |
 | 283 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,967 | 56 |
 | 283 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 404,869 | 3 |
@@ -595,7 +595,7 @@
 | 582 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.54 | 26 | 628 |
 | 582 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.54 | 0 | 669 |
 | 582 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 36 | 569 |
-| 582 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,429 | 109 |
+| 582 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,431 | 109 |
 | 582 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.54 | 1,136 | 174 |
 | 582 | [RiME](games/r/rime.md) | 4.54 | 0 | 669 |
 | 582 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.54 | 0 | 669 |
@@ -654,7 +654,7 @@
 | 639 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.51 | 0 | 669 |
 | 639 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 669 |
 | 639 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 148 | 382 |
-| 655 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,120 | 132 |
+| 655 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 2,123 | 131 |
 | 655 | [Auto Chess](games/a/auto_chess.md) | 4.50 | 984 | 191 |
 | 655 | [Calico](games/c/calico.md) | 4.50 | 0 | 669 |
 | 655 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.50 | 115 | 416 |
@@ -768,7 +768,7 @@
 | 762 | [Faeria](games/f/faeria.md) | 4.44 | 123 | 406 |
 | 762 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 359 | 284 |
 | 762 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 122 | 408 |
-| 762 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,911 | 32 |
+| 762 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,920 | 32 |
 | 762 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.44 | 20 | 658 |
 | 762 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 8,647 | 62 |
 | 762 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 669 |
@@ -1161,7 +1161,7 @@
 | 1,158 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.03 | 0 | 669 |
 | 1,158 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 669 |
 | 1,161 | [Armored Warfare](games/a/armored_warfare.md) | 4.02 | 136 | 392 |
-| 1,162 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,817 | 48 |
+| 1,162 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,832 | 48 |
 | 1,162 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,256 | 88 |
 | 1,164 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 4.00 | 0 | 669 |
 | 1,164 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 4.00 | 0 | 669 |
