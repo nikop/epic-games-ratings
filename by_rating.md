@@ -391,7 +391,7 @@
 | 383 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 307 | 294 |
 | 383 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 577 |
 | 383 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.63 | 105 | 430 |
-| 383 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,183 | 128 |
+| 383 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,187 | 128 |
 | 383 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.63 | 0 | 669 |
 | 383 | [HITMAN](games/h/hitman.md) | 4.63 | 237 | 328 |
 | 383 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 347 |
@@ -445,7 +445,7 @@
 | 424 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 642 | 231 |
 | 424 | [Tails of Iron](games/t/tails_of_iron.md) | 4.61 | 22 | 647 |
 | 424 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 466 |
-| 424 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 453 | 262 |
+| 424 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 454 | 262 |
 | 424 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 450 |
 | 424 | [Warframe](games/w/warframe.md) | 4.61 | 25,157 | 22 |
 | 424 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 902 | 199 |
@@ -912,7 +912,7 @@
 | 910 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 669 |
 | 910 | [Dark Light](games/d/dark_light.md) | 4.35 | 0 | 669 |
 | 910 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.35 | 0 | 669 |
-| 910 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.35 | 65 | 497 |
+| 910 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 4.35 | 66 | 493 |
 | 910 | [Encased](games/e/encased.md) | 4.35 | 189 | 351 |
 | 910 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.35 | 0 | 669 |
 | 910 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 212 | 338 |
@@ -1074,17 +1074,17 @@
 | 1,070 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.20 | 0 | 669 |
 | 1,070 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 583 |
 | 1,070 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 4.20 | 0 | 669 |
-| 1,075 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 534 |
-| 1,075 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,648 | 106 |
-| 1,075 | [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 4.19 | 0 | 669 |
-| 1,075 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 647 |
-| 1,075 | [League of Legends](games/l/league_of_legends.md) | 4.19 | 6,772 | 72 |
-| 1,075 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 669 |
-| 1,075 | [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 4.19 | 0 | 669 |
-| 1,075 | [The Bridge](games/t/the_bridge.md) | 4.19 | 0 | 669 |
-| 1,075 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 669 |
-| 1,075 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 669 |
-| 1,075 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.19 | 0 | 669 |
+| 1,070 | [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 4.20 | 0 | 669 |
+| 1,076 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 534 |
+| 1,076 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,648 | 106 |
+| 1,076 | [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 4.19 | 0 | 669 |
+| 1,076 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 647 |
+| 1,076 | [League of Legends](games/l/league_of_legends.md) | 4.19 | 6,772 | 72 |
+| 1,076 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 669 |
+| 1,076 | [The Bridge](games/t/the_bridge.md) | 4.19 | 0 | 669 |
+| 1,076 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 669 |
+| 1,076 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 669 |
+| 1,076 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.19 | 0 | 669 |
 | 1,086 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.18 | 0 | 669 |
 | 1,086 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.18 | 34 | 583 |
 | 1,086 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 100 | 440 |
