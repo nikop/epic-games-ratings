@@ -22,7 +22,7 @@
 | 19 | [God of War](games/g/god_of_war.md) | 4.87 | 5,892 | 87 |
 | 19 | [Inscryption](games/i/inscryption.md) | 4.87 | 381 | 278 |
 | 19 | [Rain World](games/r/rain_world.md) | 4.87 | 25 | 633 |
-| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 337,835 | 5 |
+| 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 338,122 | 5 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,551 | 25 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 639 |
 | 19 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 768 | 212 |
@@ -313,7 +313,7 @@
 | 300 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.67 | 42 | 552 |
 | 300 | [Revita](games/r/revita.md) | 4.67 | 0 | 669 |
 | 300 | [Road 96](games/r/road_96.md) | 4.67 | 0 | 669 |
-| 300 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 87 | 458 |
+| 300 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.67 | 87 | 459 |
 | 300 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 625 | 234 |
 | 300 | [SOMA](games/s/soma.md) | 4.67 | 0 | 669 |
 | 300 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.67 | 82 | 463 |
@@ -567,7 +567,7 @@
 | 560 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.55 | 1,130 | 175 |
 | 560 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 611 |
 | 560 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.55 | 68 | 487 |
-| 560 | [Ghostrunner](games/g/ghostrunner.md) | 4.55 | 3,681 | 104 |
+| 560 | [Ghostrunner](games/g/ghostrunner.md) | 4.55 | 3,686 | 104 |
 | 560 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 669 |
 | 560 | [Infinifactory](games/1/1260f09c5ab842b9a645e14f085ed5af.md) | 4.55 | 236 | 330 |
 | 560 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.55 | 251 | 317 |
@@ -1049,18 +1049,18 @@
 | 1,044 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 669 |
 | 1,044 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.23 | 191 | 350 |
 | 1,044 | [The Sinking City](games/t/the_sinking_city.md) | 4.23 | 0 | 669 |
-| 1,044 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.23 | 0 | 669 |
-| 1,051 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 655 | 229 |
-| 1,051 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 669 |
-| 1,051 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 215 | 337 |
-| 1,051 | [Gone Home](games/g/gone_home.md) | 4.22 | 0 | 669 |
-| 1,051 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 669 |
-| 1,051 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 1,016 | 184 |
-| 1,051 | [Out of Line](games/o/out_of_line.md) | 4.22 | 0 | 669 |
-| 1,051 | [RiMS Racing](games/r/rims_racing.md) | 4.22 | 0 | 669 |
-| 1,051 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 273 | 312 |
-| 1,051 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.22 | 0 | 669 |
-| 1,051 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.22 | 0 | 669 |
+| 1,050 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 655 | 229 |
+| 1,050 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 669 |
+| 1,050 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 215 | 337 |
+| 1,050 | [Gone Home](games/g/gone_home.md) | 4.22 | 0 | 669 |
+| 1,050 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 669 |
+| 1,050 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 1,016 | 184 |
+| 1,050 | [Out of Line](games/o/out_of_line.md) | 4.22 | 0 | 669 |
+| 1,050 | [RiMS Racing](games/r/rims_racing.md) | 4.22 | 0 | 669 |
+| 1,050 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 273 | 312 |
+| 1,050 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.22 | 0 | 669 |
+| 1,050 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.22 | 0 | 669 |
+| 1,050 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.22 | 0 | 669 |
 | 1,062 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.21 | 130 | 399 |
 | 1,062 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 593 |
 | 1,062 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 4.21 | 0 | 669 |
@@ -1196,11 +1196,11 @@
 | 1,194 | [Warface: Clutch](games/w/warface.md) | 3.88 | 517 | 249 |
 | 1,195 | [Blood of Steel](games/b/blood_of_steel.md) | 3.86 | 0 | 669 |
 | 1,195 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 669 |
-| 1,195 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.86 | 87 | 458 |
 | 1,195 | [Worms Rumble](games/w/worms_rumble.md) | 3.86 | 0 | 669 |
-| 1,199 | [Poker Club](games/p/poker_club.md) | 3.85 | 59 | 510 |
-| 1,199 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.85 | 0 | 669 |
-| 1,199 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 669 |
+| 1,198 | [Poker Club](games/p/poker_club.md) | 3.85 | 59 | 510 |
+| 1,198 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.85 | 89 | 456 |
+| 1,198 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.85 | 0 | 669 |
+| 1,198 | [Stygian: Reign of the Old Ones](games/s/stygian__reign_of_the_old_ones.md) | 3.85 | 0 | 669 |
 | 1,202 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.84 | 0 | 669 |
 | 1,202 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.84 | 0 | 669 |
 | 1,202 | [True Reporter. Hidden Mistwood](games/f/f3cdd34e969744e3a60c38fbd1c29669.md) | 3.84 | 0 | 669 |
