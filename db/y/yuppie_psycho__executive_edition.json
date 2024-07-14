@@ -2,7 +2,7 @@
   "ID": "ae51a606e31f409bac9e0216f3e757a2",
   "Name": "Yuppie Psycho: Executive Edition",
   "ProductSlug": "yuppie-psycho",
-  "Ranking_Rating": 206,
+  "Ranking_Rating": 192,
   "Ranking_Popularity": 669,
   "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 1090,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2022-11-22T13:21:53.1522339+00:00",
@@ -94,6 +94,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-14T06:57:26.8152977+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -120,9 +126,9 @@
   "FirstSeen": "2022-07-22T20:28:59.2965185+00:00",
   "FirstSeenRating": "2022-11-22T13:21:53.1522337+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.3839887+00:00",
-  "LastChanged": "2024-07-11T05:58:52.8468739+00:00",
+  "LastChanged": "2024-07-14T06:57:26.8152975+00:00",
   "LastChanged_Achievements": "2024-07-09T22:05:06.7088253+00:00",
   "LastUpdate_AppInfo": "2024-07-07T22:57:15.7202935+00:00",
-  "LastUpdate_Ratings": "2024-07-14T04:59:23.3206136+00:00",
+  "LastUpdate_Ratings": "2024-07-14T06:57:26.8152981+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:05:06.7088277+00:00"
 }
