@@ -4,7 +4,7 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 824,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 223,
+  "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -5657,18 +5657,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 2572,
       "NumberOfAwardsMax": 829
+    },
+    {
+      "Time": "2024-07-14T07:58:44.2764232+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 2579,
+      "NumberOfAwardsMax": 832
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2572,
-  "NumberOfAwardsMax": 829,
+  "NumberOfAwards": 2579,
+  "NumberOfAwardsMax": 832,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 829
+      "Count": 832
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5692,7 +5698,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 181
+      "Count": 184
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5704,7 +5710,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 190
+      "Count": 191
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5737,8 +5743,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-07-14T00:00:59.8615916+00:00",
+  "LastChanged": "2024-07-14T07:58:44.2764231+00:00",
   "LastUpdate_AppInfo": "2024-07-12T16:57:07.7755775+00:00",
-  "LastUpdate_Ratings": "2024-07-14T05:59:41.2547206+00:00",
+  "LastUpdate_Ratings": "2024-07-14T07:58:44.2764236+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:14.4516326+00:00"
 }
