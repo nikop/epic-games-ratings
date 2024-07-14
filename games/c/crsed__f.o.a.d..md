@@ -1,11 +1,11 @@
 # CRSED: Cuisine Royale
 [Store](https://store.epicgames.com/en-US/p/crsed-f-o-a-d)  
 [View Rawdata](../../db/c/crsed__f.o.a.d..json)  
-Rating: 4.31 (Ranked 956)  
+Rating: 4.31 (Ranked 957)  
 Number of Ratings: 464  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 117  (Ranked 412)  
-Sum: 859 (Ranked 324)  
+Sum: 860 (Ranked 324)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 88
 | This game has Quickly Understood Controls | 96 |
 | This game has Competitive Players | 94 |
 | This game is Relaxing | 93 |
-| This game is Extremely Fun | 90 |
+| This game is Extremely Fun | 91 |
 | This game has a Competitive Community | 80 |
 | This game has Amazing Storytelling | 75 |
 | This game has Challenging Combat | 73 |
@@ -255,3 +255,4 @@ Diff (max vs sum): 88
 | 2024-07-07 | 4.31 | - | 116 | 858 |
 | 2024-07-09 | 4.30 | - | 117 | 859 |
 | 2024-07-10 | 4.31 | - | 117 | 859 |
+| 2024-07-14 | 4.31 | - | 117 | 860 |

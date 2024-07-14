@@ -2,8 +2,8 @@
   "ID": "91b15e9ef6c94b1694d87639beb8cbad",
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
-  "Ranking_Rating": 982,
-  "Ranking_Popularity": 225,
+  "Ranking_Rating": 983,
+  "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
@@ -1446,11 +1446,17 @@
       "Rating": 4.28,
       "NumberOfAwards": 5641,
       "NumberOfAwardsMax": 700
+    },
+    {
+      "Time": "2024-07-14T02:04:02.7609397+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 5690,
+      "NumberOfAwardsMax": 715
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5641,
-  "NumberOfAwardsMax": 700,
+  "NumberOfAwards": 5690,
+  "NumberOfAwardsMax": 715,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1469,7 +1475,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 700
+      "Count": 715
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1499,7 +1505,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 485
+      "Count": 501
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1517,7 +1523,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 521
+      "Count": 539
     }
   ],
   "EOS_Progressed": 0,
@@ -1532,8 +1538,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-07-13T21:57:43.4240936+00:00",
+  "LastChanged": "2024-07-14T02:04:02.7609395+00:00",
   "LastUpdate_AppInfo": "2024-07-07T14:57:05.3695364+00:00",
-  "LastUpdate_Ratings": "2024-07-13T22:59:49.8718805+00:00",
+  "LastUpdate_Ratings": "2024-07-14T02:04:02.76094+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.2786758+00:00"
 }
