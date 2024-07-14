@@ -43,7 +43,7 @@
 | 41 | [HITMAN World of Assassination](games/h/hitman_3.md) | 13,096 | 4.77 | 128 |
 | 42 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,948 | 4.36 | 895 |
 | 43 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 12,681 | 4.58 | 496 |
-| 44 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,413 | 4.69 | 259 |
+| 44 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,418 | 4.69 | 259 |
 | 45 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 12,322 | 4.62 | 402 |
 | 46 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 11,928 | 4.62 | 402 |
 | 47 | [NBA 2K21](games/n/nba_2k21.md) | 11,897 | 4.38 | 870 |
@@ -58,7 +58,7 @@
 | 56 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 9,967 | 4.68 | 283 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,792 | 4.74 | 171 |
 | 58 | [Control](games/c/control.md) | 9,662 | 4.61 | 424 |
-| 59 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 9,168 | 4.49 | 681 |
+| 59 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 9,178 | 4.49 | 681 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,844 | 4.75 | 156 |
 | 61 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,784 | 4.84 | 47 |
 | 62 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 8,647 | 4.44 | 763 |
@@ -84,7 +84,7 @@
 | 82 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,149 | 4.64 | 365 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 6,113 | 4.57 | 522 |
 | 84 | [Prey](games/p/prey.md) | 6,098 | 4.63 | 383 |
-| 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 6,018 | 4.37 | 884 |
+| 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 6,027 | 4.37 | 884 |
 | 86 | [SMITE](games/s/smite.md) | 5,970 | 4.40 | 841 |
 | 87 | [God of War](games/g/god_of_war.md) | 5,892 | 4.87 | 19 |
 | 88 | [Shop Titans](games/s/shop_titans.md) | 5,256 | 4.01 | 1,162 |
@@ -139,10 +139,10 @@
 | 137 | [MORDHAU](games/m/mordhau.md) | 1,929 | 4.36 | 895 |
 | 138 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,892 | 4.56 | 541 |
 | 139 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,870 | 4.80 | 97 |
-| 140 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,865 | 4.76 | 143 |
+| 140 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,866 | 4.76 | 143 |
 | 141 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,858 | 4.63 | 383 |
 | 142 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 1,851 | 4.79 | 104 |
-| 143 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,814 | 4.86 | 29 |
+| 143 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,816 | 4.86 | 29 |
 | 144 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,813 | 4.56 | 541 |
 | 145 | [Football Manager 2023](games/f/football_manager_2023.md) | 1,799 | 4.75 | 156 |
 | 146 | [XCOM® 2](games/x/xcom®_2.md) | 1,680 | 4.55 | 560 |
@@ -281,8 +281,8 @@
 | 278 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 381 | 4.82 | 76 |
 | 280 | [The Messenger](games/t/the_messenger.md) | 376 | 4.81 | 89 |
 | 281 | [MudRunner](games/m/mudrunner.md) | 365 | 4.60 | 451 |
-| 282 | [House Flipper](games/h/house_flipper.md) | 361 | 4.69 | 259 |
-| 282 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 361 | 4.58 | 496 |
+| 282 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 362 | 4.58 | 496 |
+| 283 | [House Flipper](games/h/house_flipper.md) | 361 | 4.69 | 259 |
 | 284 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 359 | 4.44 | 763 |
 | 285 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 351 | 4.65 | 335 |
 | 286 | [Overcooked! 2](games/o/overcooked!_2.md) | 349 | 4.69 | 259 |

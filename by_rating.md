@@ -30,7 +30,7 @@
 | 19 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.87 | 0 | 669 |
 | 29 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 154 | 378 |
 | 29 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 53 | 527 |
-| 29 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,814 | 143 |
+| 29 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,816 | 143 |
 | 29 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.86 | 0 | 669 |
 | 29 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 62 | 502 |
 | 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 179 | 363 |
@@ -150,7 +150,7 @@
 | 143 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 669 |
 | 143 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.76 | 2,678 | 116 |
 | 143 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,713 | 115 |
-| 143 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,865 | 140 |
+| 143 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,866 | 140 |
 | 143 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 31 | 601 |
 | 143 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 669 |
 | 143 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 243 | 323 |
@@ -266,14 +266,14 @@
 | 259 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.69 | 55 | 520 |
 | 259 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 289 | 304 |
 | 259 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.69 | 67 | 490 |
-| 259 | [House Flipper](games/h/house_flipper.md) | 4.69 | 361 | 282 |
+| 259 | [House Flipper](games/h/house_flipper.md) | 4.69 | 361 | 283 |
 | 259 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.69 | 0 | 669 |
 | 259 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.69 | 206 | 343 |
 | 259 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,314 | 158 |
 | 259 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,123 | 130 |
 | 259 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 710 | 224 |
 | 259 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 349 | 286 |
-| 259 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,413 | 44 |
+| 259 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,418 | 44 |
 | 259 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 650 | 230 |
 | 259 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.69 | 0 | 669 |
 | 259 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.69 | 0 | 669 |
@@ -515,7 +515,7 @@
 | 496 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 137 | 391 |
 | 496 | [System Shock](games/s/system_shock.md) | 4.58 | 0 | 669 |
 | 496 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.58 | 0 | 669 |
-| 496 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 361 | 282 |
+| 496 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 362 | 282 |
 | 496 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 238 | 326 |
 | 496 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 7,194 | 70 |
 | 496 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 751 | 214 |
@@ -684,7 +684,7 @@
 | 681 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,101 | 132 |
 | 681 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 4.49 | 0 | 669 |
 | 681 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 669 |
-| 681 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 9,168 | 59 |
+| 681 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.49 | 9,178 | 59 |
 | 681 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 4.49 | 0 | 669 |
 | 681 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.49 | 0 | 669 |
 | 681 | [Maneater](games/m/maneater.md) | 4.49 | 14,314 | 37 |
@@ -890,7 +890,7 @@
 | 884 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,189 | 127 |
 | 884 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.37 | 20 | 658 |
 | 884 | [Tacoma](games/t/tacoma.md) | 4.37 | 0 | 669 |
-| 884 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 6,018 | 85 |
+| 884 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.37 | 6,027 | 85 |
 | 884 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.37 | 660 | 228 |
 | 884 | [Unexplored 2: The Wayfarer's Legacy](games/u/unexplored_2__the_wayfarer's_legacy.md) | 4.37 | 0 | 669 |
 | 884 | [Wreckfest](games/w/wreckfest.md) | 4.37 | 0 | 669 |
