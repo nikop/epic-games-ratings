@@ -8,7 +8,7 @@
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 232,137 | 4.18 | 1,087 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 170,866 | 4.69 | 258 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 162,007 | 4.50 | 657 |
-| 9 | [Borderlands 3](games/b/borderlands_3.md) | 136,234 | 4.69 | 258 |
+| 9 | [Borderlands 3](games/b/borderlands_3.md) | 136,307 | 4.69 | 258 |
 | 10 | [VALORANT](games/v/valorant.md) | 128,109 | 4.50 | 657 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 81,764 | 4.44 | 763 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 70,606 | 4.58 | 495 |
@@ -136,8 +136,8 @@
 | 134 | [Celeste](games/c/celeste.md) | 2,085 | 4.91 | 5 |
 | 135 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 2,064 | 4.86 | 29 |
 | 136 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2,013 | 4.66 | 321 |
-| 137 | [Conan Exiles](games/c/conan_exiles.md) | 1,931 | 4.54 | 582 |
-| 137 | [MORDHAU](games/m/mordhau.md) | 1,931 | 4.36 | 898 |
+| 137 | [Conan Exiles](games/c/conan_exiles.md) | 1,933 | 4.54 | 582 |
+| 138 | [MORDHAU](games/m/mordhau.md) | 1,931 | 4.36 | 898 |
 | 139 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,893 | 4.56 | 542 |
 | 140 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,870 | 4.80 | 97 |
 | 141 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,866 | 4.76 | 143 |
@@ -170,8 +170,8 @@
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 1,186 | 4.75 | 156 |
 | 169 | [Brawlhalla](games/b/brawlhalla.md) | 1,179 | 4.58 | 495 |
 | 170 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,169 | 4.49 | 682 |
+| 171 | [Riders Republic](games/r/riders_republic.md) | 1,160 | 4.74 | 171 |
 | 171 | [Torchlight II](games/t/torchlight_ii.md) | 1,160 | 4.59 | 473 |
-| 172 | [Riders Republic](games/r/riders_republic.md) | 1,159 | 4.74 | 171 |
 | 173 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,150 | 4.61 | 424 |
 | 174 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,136 | 4.54 | 582 |
 | 175 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 1,135 | 4.56 | 542 |

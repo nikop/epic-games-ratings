@@ -178,7 +178,7 @@
 | 171 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 1,032 | 183 |
 | 171 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,802 | 57 |
 | 171 | [Outlast](games/o/outlast.md) | 4.74 | 34 | 583 |
-| 171 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,159 | 172 |
+| 171 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,160 | 171 |
 | 171 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 669 |
 | 171 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 57,262 | 14 |
 | 171 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 208 | 341 |
@@ -258,7 +258,7 @@
 | 234 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 669 |
 | 234 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 669 |
 | 258 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 669 |
-| 258 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 136,234 | 9 |
+| 258 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 136,307 | 9 |
 | 258 | [Coromon](games/c/coromon.md) | 4.69 | 51 | 532 |
 | 258 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.69 | 170,866 | 7 |
 | 258 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,600 | 63 |
@@ -586,7 +586,7 @@
 | 582 | [Aragami 2](games/a/aragami_2.md) | 4.54 | 0 | 669 |
 | 582 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 28 | 612 |
 | 582 | [Chivalry 2](games/c/chivalry_2.md) | 4.54 | 6,486 | 76 |
-| 582 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,931 | 137 |
+| 582 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,933 | 137 |
 | 582 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 15,875 | 33 |
 | 582 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.54 | 28 | 612 |
 | 582 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.54 | 39 | 560 |
@@ -906,7 +906,7 @@
 | 898 | [Flatout](games/f/flatout.md) | 4.36 | 0 | 669 |
 | 898 | [Hammerting](games/h/hammerting.md) | 4.36 | 0 | 669 |
 | 898 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 0 | 669 |
-| 898 | [MORDHAU](games/m/mordhau.md) | 4.36 | 1,931 | 137 |
+| 898 | [MORDHAU](games/m/mordhau.md) | 4.36 | 1,931 | 138 |
 | 898 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 621 |
 | 898 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 55 | 520 |
 | 898 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 182 | 360 |
