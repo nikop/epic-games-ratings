@@ -2,7 +2,7 @@
   "ID": "3102f48ad7bd409ab6e34f2ad697e961",
   "Name": "CORRUPTION 2029",
   "ProductSlug": "corruption-2029",
-  "Ranking_Rating": 1174,
+  "Ranking_Rating": 1168,
   "Ranking_Popularity": 669,
   "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 1090,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.97,
+  "Rating": 3.99,
   "RatingHistory": [
     {
       "Time": "2022-10-10T12:30:41.721074+00:00",
@@ -273,6 +273,12 @@
       "Rating": 3.97,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-15T19:59:26.2010275+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -291,8 +297,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:05.407172+00:00",
   "FirstSeenRating": "2022-10-10T12:30:41.7210732+00:00",
-  "LastChanged": "2024-07-02T14:58:06.5383182+00:00",
+  "LastChanged": "2024-07-15T19:59:26.2010273+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:58.5589975+00:00",
-  "LastUpdate_Ratings": "2024-07-15T18:57:50.5615942+00:00",
+  "LastUpdate_Ratings": "2024-07-15T19:59:26.2010279+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:06.0435106+00:00"
 }
