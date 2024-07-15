@@ -3,7 +3,7 @@
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
   "Ranking_Rating": 985,
-  "Ranking_Popularity": 223,
+  "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
@@ -1488,11 +1488,17 @@
       "Rating": 4.28,
       "NumberOfAwards": 5827,
       "NumberOfAwardsMax": 715
+    },
+    {
+      "Time": "2024-07-15T05:01:34.0273244+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 5837,
+      "NumberOfAwardsMax": 725
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5827,
-  "NumberOfAwardsMax": 715,
+  "NumberOfAwards": 5837,
+  "NumberOfAwardsMax": 725,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1511,7 +1517,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 715
+      "Count": 725
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1574,8 +1580,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-07-15T03:00:22.7075459+00:00",
+  "LastChanged": "2024-07-15T05:01:34.0273242+00:00",
   "LastUpdate_AppInfo": "2024-07-14T14:57:24.1922851+00:00",
-  "LastUpdate_Ratings": "2024-07-15T03:00:22.7075464+00:00",
+  "LastUpdate_Ratings": "2024-07-15T05:01:34.0273247+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.2786758+00:00"
 }
