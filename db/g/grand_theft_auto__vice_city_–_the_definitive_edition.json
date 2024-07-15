@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 605,
-  "Ranking_Popularity": 605,
-  "Ranking_PopularitySum": 487,
+  "Ranking_Popularity": 601,
+  "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 18,
@@ -1445,12 +1445,18 @@
       "Rating": 4.53,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-07-15T21:58:51.7757897+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 205,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
-  "NumberOfAwardsMax": 30,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 205,
+  "NumberOfAwardsMax": 31,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1468,7 +1474,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1498,7 +1504,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Relaxing",
@@ -19846,9 +19852,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-07-13T17:00:04.6459169+00:00",
+  "LastChanged": "2024-07-15T21:58:51.7757895+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:15.2287043+00:00",
   "LastUpdate_AppInfo": "2024-07-15T06:57:04.9100358+00:00",
-  "LastUpdate_Ratings": "2024-07-15T20:00:02.7318567+00:00",
+  "LastUpdate_Ratings": "2024-07-15T21:58:51.7757901+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:15.2288268+00:00"
 }

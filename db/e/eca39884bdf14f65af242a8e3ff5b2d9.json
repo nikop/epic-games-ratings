@@ -5559,10 +5559,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 3443,
       "NumberOfAwardsMax": 398
+    },
+    {
+      "Time": "2024-07-15T21:58:01.9346971+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3446,
+      "NumberOfAwardsMax": 398
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3443,
+  "NumberOfAwards": 3446,
   "NumberOfAwardsMax": 398,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -5594,7 +5600,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 334
+      "Count": 336
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5612,7 +5618,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 346
+      "Count": 347
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5645,8 +5651,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-07-15T13:57:54.861893+00:00",
+  "LastChanged": "2024-07-15T21:58:01.934697+00:00",
   "LastUpdate_AppInfo": "2024-07-09T01:54:58.4821814+00:00",
-  "LastUpdate_Ratings": "2024-07-15T19:59:17.5251438+00:00",
+  "LastUpdate_Ratings": "2024-07-15T21:58:01.9346976+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:30.1607151+00:00"
 }
