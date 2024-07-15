@@ -67,7 +67,7 @@
 | 63 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 291 | 301 |
 | 63 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 257 | 314 |
 | 63 | [Firework](games/f/firework.md) | 4.83 | 0 | 669 |
-| 63 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 794 | 208 |
+| 63 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 794 | 209 |
 | 63 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.83 | 61 | 505 |
 | 63 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.83 | 0 | 669 |
 | 63 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 487 | 253 |
@@ -84,7 +84,7 @@
 | 76 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,210 | 127 |
 | 76 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 66 | 493 |
 | 76 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 383 | 278 |
-| 76 | [Sifu](games/s/sifu.md) | 4.82 | 8,046 | 66 |
+| 76 | [Sifu](games/s/sifu.md) | 4.82 | 8,050 | 66 |
 | 76 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 549 | 245 |
 | 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 463 |
 | 76 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 105 | 430 |
@@ -271,7 +271,7 @@
 | 258 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,315 | 159 |
 | 258 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,125 | 131 |
 | 258 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 710 | 224 |
-| 258 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 349 | 286 |
+| 258 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 351 | 285 |
 | 258 | [Pacific Drive](games/p/pacific_drive.md) | 4.69 | 0 | 669 |
 | 258 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 12,418 | 45 |
 | 258 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 650 | 230 |
@@ -406,7 +406,7 @@
 | 402 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.62 | 2,507 | 120 |
 | 402 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.62 | 32 | 593 |
 | 402 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 240 | 325 |
-| 402 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.62 | 12,426 | 44 |
+| 402 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.62 | 12,523 | 44 |
 | 402 | [GRIT](games/g/grit.md) | 4.62 | 0 | 669 |
 | 402 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 0 | 669 |
 | 402 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.62 | 90 | 454 |
@@ -1126,11 +1126,11 @@
 | 1,122 | [Family Man](games/f/family_man.md) | 4.13 | 0 | 669 |
 | 1,122 | [Relicta](games/r/relicta.md) | 4.13 | 207 | 342 |
 | 1,122 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.13 | 0 | 669 |
+| 1,127 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 669 |
 | 1,127 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.12 | 3,042 | 111 |
-| 1,128 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 669 |
-| 1,128 | [Blair Witch](games/b/blair_witch.md) | 4.11 | 0 | 669 |
-| 1,128 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.11 | 0 | 669 |
-| 1,128 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.11 | 0 | 669 |
+| 1,129 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 669 |
+| 1,129 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.11 | 0 | 669 |
+| 1,129 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.11 | 0 | 669 |
 | 1,132 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 0 | 669 |
 | 1,132 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 119 |
 | 1,134 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.09 | 0 | 669 |
@@ -1144,9 +1144,9 @@
 | 1,142 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 147 | 383 |
 | 1,142 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 0 | 669 |
 | 1,142 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 359 |
+| 1,142 | [Obduction](games/o/obduction.md) | 4.08 | 63 | 500 |
 | 1,142 | [Patron](games/p/patron.md) | 4.08 | 0 | 669 |
-| 1,146 | [Obduction](games/o/obduction.md) | 4.07 | 63 | 500 |
-| 1,146 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 669 |
+| 1,147 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 669 |
 | 1,148 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 6,311 | 80 |
 | 1,148 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.06 | 0 | 669 |
 | 1,148 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 503 | 251 |
@@ -1170,7 +1170,7 @@
 | 1,168 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 390 | 274 |
 | 1,168 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 3.99 | 0 | 669 |
 | 1,168 | [Phantom Blade: Executioners](games/a/a37b93c1350f481681b2c9462d22022a.md) | 3.99 | 26 | 628 |
-| 1,171 | [Blazing Sails](games/b/blazing_sails.md) | 3.98 | 794 | 208 |
+| 1,171 | [Blazing Sails](games/b/blazing_sails.md) | 3.98 | 795 | 208 |
 | 1,171 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.98 | 851 | 202 |
 | 1,171 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.98 | 0 | 669 |
 | 1,174 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.97 | 0 | 669 |

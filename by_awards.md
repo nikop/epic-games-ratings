@@ -43,7 +43,7 @@
 | 41 | [HITMAN World of Assassination](games/h/hitman_3.md) | 13,109 | 4.77 | 128 |
 | 42 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,948 | 4.36 | 897 |
 | 43 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 12,691 | 4.58 | 495 |
-| 44 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 12,426 | 4.62 | 402 |
+| 44 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 12,523 | 4.62 | 402 |
 | 45 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,418 | 4.69 | 258 |
 | 46 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 11,943 | 4.62 | 402 |
 | 47 | [NBA 2K21](games/n/nba_2k21.md) | 11,898 | 4.38 | 872 |
@@ -65,7 +65,7 @@
 | 63 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,600 | 4.69 | 258 |
 | 64 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 8,524 | 4.71 | 219 |
 | 65 | [Cities: Skylines](games/c/cities__skylines.md) | 8,507 | 4.65 | 333 |
-| 66 | [Sifu](games/s/sifu.md) | 8,046 | 4.82 | 76 |
+| 66 | [Sifu](games/s/sifu.md) | 8,050 | 4.82 | 76 |
 | 67 | [Supraland](games/s/supraland.md) | 7,909 | 4.61 | 424 |
 | 68 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,852 | 4.75 | 156 |
 | 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,497 | 4.83 | 63 |
@@ -207,8 +207,8 @@
 | 205 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 821 | 4.87 | 19 |
 | 206 | [Core](games/c/core.md) | 818 | 4.34 | 926 |
 | 207 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 804 | 4.51 | 642 |
-| 208 | [Blazing Sails](games/b/blazing_sails.md) | 794 | 3.98 | 1,171 |
-| 208 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 794 | 4.83 | 63 |
+| 208 | [Blazing Sails](games/b/blazing_sails.md) | 795 | 3.98 | 1,171 |
+| 209 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 794 | 4.83 | 63 |
 | 210 | [Neon Abyss](games/n/neon_abyss.md) | 782 | 4.67 | 300 |
 | 211 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 779 | 4.63 | 382 |
 | 212 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 778 | 4.62 | 402 |
@@ -285,7 +285,7 @@
 | 283 | [House Flipper](games/h/house_flipper.md) | 361 | 4.69 | 258 |
 | 284 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 359 | 4.44 | 763 |
 | 285 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 351 | 4.65 | 333 |
-| 286 | [Overcooked! 2](games/o/overcooked!_2.md) | 349 | 4.69 | 258 |
+| 285 | [Overcooked! 2](games/o/overcooked!_2.md) | 351 | 4.69 | 258 |
 | 287 | [Tannenberg](games/t/tannenberg.md) | 343 | 4.39 | 860 |
 | 288 | [Darkwood](games/d/darkwood.md) | 339 | 4.62 | 402 |
 | 289 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 323 | 4.84 | 47 |
@@ -500,7 +500,7 @@
 | 498 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 64 | 4.41 | 824 |
 | 498 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 64 | 4.26 | 1,008 |
 | 500 | [Madden NFL 23](games/m/madden_nfl_23.md) | 63 | 4.29 | 974 |
-| 500 | [Obduction](games/o/obduction.md) | 63 | 4.07 | 1,146 |
+| 500 | [Obduction](games/o/obduction.md) | 63 | 4.08 | 1,142 |
 | 500 | [The Escapists 2](games/t/the_escapists_2.md) | 63 | 4.57 | 522 |
 | 503 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 62 | 4.65 | 333 |
 | 503 | [Star Atlas](games/s/star_atlas.md) | 62 | 4.86 | 29 |
