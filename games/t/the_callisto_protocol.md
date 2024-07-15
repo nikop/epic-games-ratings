@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.23 (Ranked 1,046)  
+Rating: 4.24 (Ranked 1,031)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -333,12 +333,12 @@ Completed: 86 (0.31%) (Ranked 327)
 | 2024-04-10 | 24,357 | 84 |
 | 2024-06-17 | 27,304 | 86 |
 ## Awards
-Max (Amazing Characters): 191  (Ranked 350)  
-Sum: 1,018 (Ranked 305)  
+Max (Amazing Characters): 192  (Ranked 350)  
+Sum: 1,019 (Ranked 305)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 191 |
+| This game has Amazing Characters | 192 |
 | This game is Highly Recommended | 190 |
 | This game has Quickly Understood Controls | 189 |
 | This game has Amazing Storytelling | 187 |
@@ -695,4 +695,4 @@ Diff (max vs sum): 45
 | 2024-07-11 | 4.24 | 190 | 1,014 |
 | 2024-07-12 | 4.24 | 191 | 1,017 |
 | 2024-07-14 | 4.24 | 191 | 1,017 |
-| 2024-07-15 | 4.23 | 191 | 1,018 |
+| 2024-07-15 | 4.24 | 192 | 1,019 |
