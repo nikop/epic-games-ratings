@@ -412,7 +412,7 @@
 | 402 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.62 | 90 | 454 |
 | 402 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 736 | 216 |
 | 402 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.62 | 11,928 | 46 |
-| 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,588 | 149 |
+| 402 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,589 | 149 |
 | 402 | [Northgard](games/n/northgard.md) | 4.62 | 58 | 511 |
 | 402 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 669 |
 | 402 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 0 | 669 |
@@ -459,7 +459,7 @@
 | 452 | [DOOM 3](games/d/doom_3.md) | 4.60 | 74 | 480 |
 | 452 | [Eastward](games/e/eastward.md) | 4.60 | 0 | 669 |
 | 452 | [Eternights](games/e/eternights.md) | 4.60 | 0 | 669 |
-| 452 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,576 | 29 |
+| 452 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 17,576 | 30 |
 | 452 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.60 | 408 | 270 |
 | 452 | [GRIME](games/g/grime.md) | 4.60 | 93 | 451 |
 | 452 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 970 | 192 |
@@ -477,7 +477,7 @@
 | 473 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.59 | 0 | 669 |
 | 473 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.59 | 0 | 669 |
 | 473 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.59 | 0 | 669 |
-| 473 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.59 | 17,557 | 30 |
+| 473 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 4.59 | 17,586 | 29 |
 | 473 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 4.59 | 0 | 669 |
 | 473 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.59 | 0 | 669 |
 | 473 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 66 | 493 |
@@ -564,7 +564,7 @@
 | 559 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.55 | 0 | 669 |
 | 559 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 4.55 | 0 | 669 |
 | 559 | [Duskers](games/d/duskers.md) | 4.55 | 20 | 659 |
-| 559 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.55 | 1,130 | 176 |
+| 559 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.55 | 1,131 | 176 |
 | 559 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 612 |
 | 559 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.55 | 72 | 485 |
 | 559 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 2,379 | 123 |
@@ -978,7 +978,7 @@
 | 975 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.29 | 53 | 527 |
 | 975 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 669 |
 | 975 | [Divine Knockout](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.29 | 82 | 463 |
-| 975 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,709,864 | 1 |
+| 975 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,712,144 | 1 |
 | 975 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 669 |
 | 975 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 63 | 500 |
 | 975 | [Neverwinter](games/n/neverwinter.md) | 4.29 | 874 | 201 |

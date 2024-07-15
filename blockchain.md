@@ -20,6 +20,7 @@
 | [ExoWorlds](games/8/8ac47eb9b3844030b73ecc21936730a0.md) | 2099-01-01 | - |  | - | - |
 | [Golden Tides](games/2/260d3867eaa144fe9b0cd339fdb1b6ab.md) | 2099-01-01 | - |  | - | - |
 | [Havoc](games/2/28346ccf11a04fd38c5cd843362c5a58.md) | 2099-01-01 | - |  | - | - |
+| [Hunter's Arena: Revolution](games/f/f76e449df2564f97ad005d4bc56c91a2.md) | 2099-01-01 | - |  | - | - |
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
 | [KIRAVERSE](games/9/90f2ff8eb85a4730a0ed66e6e38754c4.md) | 2099-01-01 | - |  | - | - |
 | [KOKODI](games/2/2d89fb7420d8473fa28de88efc7d2f99.md) | 2099-01-01 | - |  | - | - |
