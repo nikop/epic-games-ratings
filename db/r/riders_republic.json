@@ -3,7 +3,7 @@
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 171,
-  "Ranking_Popularity": 172,
+  "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
@@ -16447,11 +16447,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 12015,
       "NumberOfAwardsMax": 1159
+    },
+    {
+      "Time": "2024-07-15T06:01:20.544661+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12017,
+      "NumberOfAwardsMax": 1160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12015,
-  "NumberOfAwardsMax": 1159,
+  "NumberOfAwards": 12017,
+  "NumberOfAwardsMax": 1160,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -16494,7 +16500,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1159
+      "Count": 1160
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -16512,7 +16518,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1064
+      "Count": 1065
     },
     {
       "Text": "This game is Relaxing",
@@ -16544,8 +16550,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-07-14T19:57:32.6229716+00:00",
+  "LastChanged": "2024-07-15T06:01:20.5446608+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:57:48.6983451+00:00",
-  "LastUpdate_Ratings": "2024-07-15T05:00:00.2900703+00:00",
+  "LastUpdate_Ratings": "2024-07-15T06:01:20.5446614+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:23.974471+00:00"
 }
