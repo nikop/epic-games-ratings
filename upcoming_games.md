@@ -658,7 +658,6 @@
 | [Time Flies](games/d/deef7522b0aa48629c8df8cfab16007c.md) | 2099-01-01 | - |  | - | - |
 | [Tokyo Waning Moon](games/0/098b24c8da10404abc327b0e1604ee96.md) | 2099-01-01 | - |  | - | - |
 | [Tormented Souls 2](games/9/98a33c69dd4c462a877089ca59716a52.md) | 2099-01-01 | - |  | - | - |
-| [Touch the Color](games/a/adc4991d2edb4cdf80d47822d9149169.md) | 2099-01-01 | - |  | - | - |
 | [Tracks of Thought](games/t/tracks_of_thought.md) | 2099-01-01 | - |  | - | - |
 | [Truck World Australia](games/t/truck_world_australia.md) | 2099-01-01 | - |  | - | - |
 | [Twinsen's Little Big Adventure 2 Classic](games/7/7dbe89fd531443d58408a4e2952ffa6b.md) | 2099-01-01 | - |  | - | - |

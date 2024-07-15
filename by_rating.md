@@ -692,7 +692,7 @@
 | 682 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 441 |
 | 682 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 669 |
 | 682 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,169 | 170 |
-| 682 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 52 | 530 |
+| 682 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.49 | 52 | 531 |
 | 682 | [Solitairica](games/s/solitairica.md) | 4.49 | 108 | 425 |
 | 682 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.49 | 0 | 669 |
 | 682 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 16,409 | 31 |
@@ -790,7 +790,6 @@
 | 784 | [Death Coming](games/d/death_coming.md) | 4.43 | 0 | 669 |
 | 784 | [Despot's Game](games/d/despot's_game.md) | 4.43 | 0 | 669 |
 | 784 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 86 | 460 |
-| 784 | [ELEX](games/e/elex.md) | 4.43 | 29 | 608 |
 | 784 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.43 | 0 | 669 |
 | 784 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 669 |
 | 784 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 4.43 | 0 | 669 |
@@ -808,21 +807,22 @@
 | 784 | [Warpips](games/w/warpips.md) | 4.43 | 56 | 517 |
 | 784 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 60 | 507 |
 | 784 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.43 | 2,314 | 125 |
-| 809 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 652 |
-| 809 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.42 | 47 | 540 |
-| 809 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 0 | 669 |
-| 809 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.42 | 36 | 569 |
-| 809 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 669 |
-| 809 | [MetalCore](games/m/metalcore.md) | 4.42 | 108 | 425 |
-| 809 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.42 | 0 | 669 |
-| 809 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.42 | 20 | 659 |
-| 809 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 73 |
-| 809 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 230 | 333 |
-| 809 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 669 |
-| 809 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,376 | 155 |
-| 809 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 202 | 346 |
-| 809 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 108 | 425 |
-| 809 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 669 |
+| 808 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 652 |
+| 808 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.42 | 47 | 540 |
+| 808 | [ELEX](games/e/elex.md) | 4.42 | 29 | 608 |
+| 808 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.42 | 0 | 669 |
+| 808 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.42 | 36 | 569 |
+| 808 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 669 |
+| 808 | [MetalCore](games/m/metalcore.md) | 4.42 | 108 | 425 |
+| 808 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.42 | 0 | 669 |
+| 808 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.42 | 20 | 659 |
+| 808 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 73 |
+| 808 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 230 | 333 |
+| 808 | [The Lion's Song](games/t/the_lion's_song.md) | 4.42 | 0 | 669 |
+| 808 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.42 | 1,376 | 155 |
+| 808 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 202 | 346 |
+| 808 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.42 | 108 | 425 |
+| 808 | [ZOMBI](games/z/zombi.md) | 4.42 | 0 | 669 |
 | 824 | [Aether TCG](games/c/cards_of_ethernity.md) | 4.41 | 31 | 601 |
 | 824 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.41 | 0 | 669 |
 | 824 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.41 | 0 | 669 |
@@ -990,7 +990,7 @@
 | 985 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 117 | 412 |
 | 985 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 669 |
 | 985 | [Lamentum](games/l/lamentum.md) | 4.28 | 0 | 669 |
-| 985 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.28 | 52 | 530 |
+| 985 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.28 | 53 | 527 |
 | 985 | [Nightingale](games/n/nightingale.md) | 4.28 | 80 | 468 |
 | 985 | [OVERPASS™](games/o/overpass™.md) | 4.28 | 0 | 669 |
 | 985 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.28 | 187 | 355 |
@@ -1092,7 +1092,7 @@
 | 1,087 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 35 | 577 |
 | 1,087 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 669 |
 | 1,087 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 80 | 468 |
-| 1,087 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 232,137 | 6 |
+| 1,087 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 232,233 | 6 |
 | 1,087 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 4.18 | 0 | 669 |
 | 1,087 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 447 |
 | 1,087 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 669 |
