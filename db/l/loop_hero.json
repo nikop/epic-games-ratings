@@ -7606,10 +7606,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 4795,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2024-07-15T20:58:34.2047526+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 4798,
+      "NumberOfAwardsMax": 557
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4795,
+  "NumberOfAwards": 4798,
   "NumberOfAwardsMax": 557,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7623,7 +7629,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 544
+      "Count": 547
     },
     {
       "Text": "This game is Relaxing",
@@ -7685,8 +7691,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-07-15T13:09:44.9985948+00:00",
+  "LastChanged": "2024-07-15T20:58:34.2047525+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:05.3668+00:00",
-  "LastUpdate_Ratings": "2024-07-15T18:59:37.839393+00:00",
+  "LastUpdate_Ratings": "2024-07-15T20:58:34.2047531+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:24.7516036+00:00"
 }
