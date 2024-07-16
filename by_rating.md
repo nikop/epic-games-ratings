@@ -389,7 +389,7 @@
 | 381 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.63 | 307 | 294 |
 | 381 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 35 | 577 |
 | 381 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.63 | 105 | 430 |
-| 381 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,187 | 129 |
+| 381 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 2,189 | 128 |
 | 381 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.63 | 0 | 669 |
 | 381 | [HITMAN](games/h/hitman.md) | 4.63 | 237 | 328 |
 | 381 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 347 |
@@ -439,7 +439,7 @@
 | 424 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 115 | 416 |
 | 424 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.61 | 0 | 669 |
 | 424 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 946 | 195 |
-| 424 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,625 | 49 |
+| 424 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 11,628 | 49 |
 | 424 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,150 | 173 |
 | 424 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 669 |
 | 424 | [Supraland](games/s/supraland.md) | 4.61 | 7,909 | 67 |
@@ -541,7 +541,7 @@
 | 522 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,543 | 23 |
 | 522 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 669 |
 | 522 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 251 | 317 |
-| 542 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 56 | 517 |
+| 542 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 56 | 518 |
 | 542 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.56 | 0 | 669 |
 | 542 | [Aztez](games/a/aztez.md) | 4.56 | 22 | 647 |
 | 542 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 54 | 524 |
@@ -559,7 +559,7 @@
 | 542 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,416 | 77 |
 | 542 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.56 | 26 | 628 |
 | 559 | [Among Us](games/a/among_us.md) | 4.55 | 3,554 | 108 |
-| 559 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 398 | 273 |
+| 559 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 399 | 273 |
 | 559 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.55 | 0 | 669 |
 | 559 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 4.55 | 0 | 669 |
 | 559 | [Duskers](games/d/duskers.md) | 4.55 | 20 | 659 |
@@ -773,10 +773,10 @@
 | 762 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 8,777 | 62 |
 | 762 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 669 |
 | 762 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.44 | 0 | 669 |
-| 762 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 880,781 | 2 |
+| 762 | [Rocket League®](games/r/rocket_league®.md) | 4.44 | 881,398 | 2 |
 | 762 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 669 |
 | 762 | [Star Trek Online](games/s/star_trek_online.md) | 4.44 | 733 | 218 |
-| 762 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 517 |
+| 762 | [STG Football](games/s/stg_football.md) | 4.44 | 56 | 518 |
 | 762 | [The Captain](games/t/the_captain.md) | 4.44 | 99 | 443 |
 | 762 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.44 | 20 | 659 |
 | 762 | [The Surge](games/t/the_surge.md) | 4.44 | 38 | 563 |
@@ -805,7 +805,7 @@
 | 785 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.43 | 0 | 669 |
 | 785 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.43 | 0 | 669 |
 | 785 | [Tunche](games/t/tunche.md) | 4.43 | 36 | 571 |
-| 785 | [Warpips](games/w/warpips.md) | 4.43 | 56 | 517 |
+| 785 | [Warpips](games/w/warpips.md) | 4.43 | 57 | 514 |
 | 785 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 60 | 507 |
 | 808 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 21 | 653 |
 | 808 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.42 | 47 | 540 |
@@ -973,7 +973,7 @@
 | 968 | [Expeditions: Viking](games/e/expeditions__viking.md) | 4.30 | 0 | 669 |
 | 968 | [JARS](games/j/jars.md) | 4.30 | 0 | 669 |
 | 968 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.30 | 183 | 360 |
-| 968 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.30 | 466 | 257 |
+| 968 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.30 | 467 | 257 |
 | 968 | [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 4.30 | 0 | 669 |
 | 968 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.30 | 0 | 669 |
 | 977 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.29 | 0 | 669 |
