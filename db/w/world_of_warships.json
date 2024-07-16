@@ -19084,10 +19084,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 19388,
       "NumberOfAwardsMax": 2308
+    },
+    {
+      "Time": "2024-07-16T03:58:17.4981369+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 19394,
+      "NumberOfAwardsMax": 2308
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19388,
+  "NumberOfAwards": 19394,
   "NumberOfAwardsMax": 2308,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -19137,7 +19143,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1888
+      "Count": 1894
     },
     {
       "Text": "This game has Amazing Characters",
@@ -38866,9 +38872,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-07-15T19:58:53.3658647+00:00",
+  "LastChanged": "2024-07-16T03:58:17.4981368+00:00",
   "LastChanged_Achievements": "2024-07-09T22:03:53.8001838+00:00",
   "LastUpdate_AppInfo": "2024-07-14T23:57:11.1752326+00:00",
-  "LastUpdate_Ratings": "2024-07-15T22:59:32.3545869+00:00",
+  "LastUpdate_Ratings": "2024-07-16T03:58:17.4981372+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:03:53.8003252+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Dark and Darker",
   "ProductSlug": "dark-and-darker-qa-c1e629",
   "Ranking_Rating": 986,
-  "Ranking_Popularity": 220,
-  "Ranking_PopularitySum": 157,
+  "Ranking_Popularity": 216,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -1530,11 +1530,17 @@
       "Rating": 4.28,
       "NumberOfAwards": 5951,
       "NumberOfAwardsMax": 725
+    },
+    {
+      "Time": "2024-07-16T03:58:28.1001827+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 5997,
+      "NumberOfAwardsMax": 745
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5951,
-  "NumberOfAwardsMax": 725,
+  "NumberOfAwards": 5997,
+  "NumberOfAwardsMax": 745,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -1553,7 +1559,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 725
+      "Count": 745
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1583,7 +1589,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 513
+      "Count": 525
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1595,7 +1601,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 459
+      "Count": 473
     },
     {
       "Text": "This game has Competitive Players",
@@ -1616,8 +1622,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-07-15T21:57:45.6409657+00:00",
+  "LastChanged": "2024-07-16T03:58:28.1001826+00:00",
   "LastUpdate_AppInfo": "2024-07-14T14:57:24.1922851+00:00",
-  "LastUpdate_Ratings": "2024-07-15T22:59:42.7154877+00:00",
+  "LastUpdate_Ratings": "2024-07-16T03:58:28.1001831+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.2786758+00:00"
 }
