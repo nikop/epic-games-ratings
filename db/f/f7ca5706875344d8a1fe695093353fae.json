@@ -2,7 +2,7 @@
   "ID": "f7ca5706875344d8a1fe695093353fae",
   "Name": "Floppy Knights",
   "ProductSlug": "floppy-knights-6a735a",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 669,
   "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 1090,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2024-07-13T09:59:24.7498767+00:00",
@@ -90,6 +90,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-16T18:57:35.8141793+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -108,7 +114,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-11T17:57:44.3443353+00:00",
   "FirstSeenRating": "2024-07-13T09:59:24.7498765+00:00",
-  "LastChanged": "2024-07-16T10:57:13.7678989+00:00",
+  "LastChanged": "2024-07-16T18:57:35.8141791+00:00",
   "LastUpdate_AppInfo": "2024-07-11T15:57:22.3015973+00:00",
-  "LastUpdate_Ratings": "2024-07-16T16:59:06.4538425+00:00"
+  "LastUpdate_Ratings": "2024-07-16T18:57:35.8141796+00:00"
 }
