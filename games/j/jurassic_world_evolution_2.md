@@ -5,7 +5,7 @@ Rating: 4.74 (Ranked 172)
 Number of Ratings: 3,746  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 1,036  (Ranked 183)  
-Sum: 8,089 (Ranked 134)  
+Sum: 8,090 (Ranked 134)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): 49
 | This game is Extremely Fun | 771 |
 | This game has Amazing Characters | 771 |
 | This game is Educational | 737 |
-| This game is Relaxing | 722 |
+| This game is Relaxing | 723 |
 | This game has Quickly Understood Controls | 716 |
 | This game has Obsessive Gameplay | 374 |
 ## Ratings History
@@ -570,4 +570,4 @@ Diff (max vs sum): 49
 | 2024-07-13 | 4.74 | - | 1,031 | 8,076 |
 | 2024-07-14 | 4.74 | - | 1,032 | 8,080 |
 | 2024-07-15 | 4.74 | - | 1,032 | 8,084 |
-| 2024-07-16 | 4.74 | - | 1,036 | 8,089 |
+| 2024-07-16 | 4.74 | - | 1,036 | 8,090 |
