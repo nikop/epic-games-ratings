@@ -3,7 +3,7 @@
 | 1 | [Tinykin](games/t/tinykin.md) | 4.95 | 0 | 669 |
 | 2 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.94 | 0 | 669 |
 | 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 669 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 4,006 | 101 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 4,007 | 101 |
 | 5 | [Celeste](games/c/celeste.md) | 4.91 | 2,087 | 133 |
 | 5 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 669 |
 | 7 | [Hades II](games/h/hades_ii.md) | 4.90 | 117 | 412 |
@@ -149,7 +149,7 @@
 | 143 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 4.76 | 0 | 669 |
 | 143 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 669 |
 | 143 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.76 | 2,678 | 117 |
-| 143 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,715 | 116 |
+| 143 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,717 | 116 |
 | 143 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,868 | 140 |
 | 143 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 31 | 601 |
 | 143 | [SpiderHeck](games/s/spiderheck.md) | 4.76 | 0 | 669 |
@@ -187,7 +187,7 @@
 | 172 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 435 |
 | 172 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.74 | 0 | 669 |
 | 172 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 992 | 189 |
-| 172 | [Timberborn](games/t/timberborn.md) | 4.74 | 215 | 337 |
+| 172 | [Timberborn](games/t/timberborn.md) | 4.74 | 215 | 338 |
 | 172 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 669 |
 | 172 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 564 | 240 |
 | 172 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 669 |
@@ -218,7 +218,7 @@
 | 206 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 0 | 669 |
 | 206 | [The Machines Arena](games/t/the_machines_arena.md) | 4.72 | 34 | 583 |
 | 206 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 669 |
-| 219 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 4.71 | 135 | 394 |
+| 219 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 4.71 | 136 | 393 |
 | 219 | [Dead Space](games/d/dead_space.md) | 4.71 | 487 | 253 |
 | 219 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 733 | 218 |
 | 219 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 725 | 221 |
@@ -362,7 +362,7 @@
 | 332 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.65 | 0 | 669 |
 | 332 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 129 | 400 |
 | 362 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 669 |
-| 362 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,149 | 82 |
+| 362 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,151 | 82 |
 | 362 | [Black Book](games/b/black_book.md) | 4.64 | 25 | 633 |
 | 362 | [CARRION](games/c/carrion.md) | 4.64 | 0 | 669 |
 | 362 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.64 | 0 | 669 |
@@ -374,7 +374,7 @@
 | 362 | [No Straight Roads](games/n/no_straight_roads.md) | 4.64 | 0 | 669 |
 | 362 | [Outlast 2](games/o/outlast_2.md) | 4.64 | 0 | 669 |
 | 362 | [RIDE 5](games/r/ride_5.md) | 4.64 | 0 | 669 |
-| 362 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,446 | 19 |
+| 362 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,451 | 19 |
 | 362 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,392 | 153 |
 | 362 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.64 | 0 | 669 |
 | 362 | [Trackmania Starter Access](games/t/trackmania.md) | 4.64 | 5,077 | 91 |
@@ -538,7 +538,7 @@
 | 522 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.57 | 34 | 583 |
 | 522 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 64 | 499 |
 | 522 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 6,117 | 83 |
-| 522 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,543 | 23 |
+| 522 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,551 | 23 |
 | 522 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 669 |
 | 522 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.57 | 251 | 317 |
 | 542 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 56 | 518 |
@@ -1053,7 +1053,7 @@
 | 1,051 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 657 | 229 |
 | 1,051 | [Circus Electrique](games/c/circus_electrique.md) | 4.22 | 0 | 669 |
 | 1,051 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 669 |
-| 1,051 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 215 | 337 |
+| 1,051 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 216 | 336 |
 | 1,051 | [Gone Home](games/g/gone_home.md) | 4.22 | 0 | 669 |
 | 1,051 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.22 | 0 | 669 |
 | 1,051 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.22 | 1,018 | 184 |
@@ -1072,7 +1072,7 @@
 | 1,064 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.21 | 0 | 669 |
 | 1,064 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.21 | 0 | 669 |
 | 1,072 | [Against All Odds](games/a/against_all_odds.md) | 4.20 | 0 | 669 |
-| 1,072 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 135 | 394 |
+| 1,072 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 135 | 395 |
 | 1,072 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.20 | 0 | 669 |
 | 1,072 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 583 |
 | 1,072 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 4.20 | 0 | 669 |
