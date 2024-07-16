@@ -6,7 +6,7 @@
 | 4 | [Hades](games/h/hades.md) | 4.92 | 4,006 | 101 |
 | 5 | [Celeste](games/c/celeste.md) | 4.91 | 2,087 | 134 |
 | 5 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 669 |
-| 7 | [Hades II](games/h/hades_ii.md) | 4.90 | 116 | 415 |
+| 7 | [Hades II](games/h/hades_ii.md) | 4.90 | 117 | 412 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 669 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 24 | 639 |
 | 7 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 669 |
@@ -23,7 +23,7 @@
 | 19 | [Inscryption](games/i/inscryption.md) | 4.87 | 382 | 279 |
 | 19 | [Rain World](games/r/rain_world.md) | 4.87 | 25 | 633 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 338,676 | 5 |
-| 19 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,566 | 25 |
+| 19 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,583 | 25 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 639 |
 | 19 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 769 | 213 |
 | 19 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 669 |
@@ -500,7 +500,7 @@
 | 495 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,179 | 169 |
 | 495 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.58 | 440 | 265 |
 | 495 | [Everything](games/e/everything.md) | 4.58 | 0 | 669 |
-| 495 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.58 | 261 | 313 |
+| 495 | [F1® 23](games/f/f1®_23_standard_edition.md) | 4.58 | 264 | 313 |
 | 495 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 283 | 308 |
 | 495 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.58 | 0 | 669 |
 | 495 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 669 |
@@ -964,7 +964,7 @@
 | 959 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 4.31 | 117 | 412 |
 | 959 | [Karos](games/9/92d67652a4ca46c28507a29d6bc3db4d.md) | 4.31 | 183 | 360 |
 | 959 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 4.31 | 391 | 275 |
-| 959 | [Paladins](games/p/paladins.md) | 4.31 | 4,621 | 97 |
+| 959 | [Paladins](games/p/paladins.md) | 4.31 | 4,628 | 97 |
 | 959 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,018 | 184 |
 | 959 | [The Falconeer: Standard Edition](games/t/the_falconeer__standard_edition.md) | 4.31 | 0 | 669 |
 | 959 | [The Surge 2](games/t/the_surge_2.md) | 4.31 | 0 | 669 |
@@ -1092,16 +1092,16 @@
 | 1,087 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 669 |
 | 1,087 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 80 | 468 |
 | 1,087 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 232,332 | 6 |
+| 1,087 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 4.18 | 0 | 669 |
 | 1,087 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 447 |
 | 1,087 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 669 |
 | 1,087 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 669 |
 | 1,087 | [The Guild 3](games/t/the_guild_3.md) | 4.18 | 0 | 669 |
-| 1,097 | [Banished](games/b/banished.md) | 4.17 | 0 | 669 |
-| 1,097 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 669 |
-| 1,097 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 632 | 232 |
-| 1,097 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 4.17 | 0 | 669 |
-| 1,097 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 533 | 247 |
-| 1,097 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 4.17 | 0 | 669 |
+| 1,098 | [Banished](games/b/banished.md) | 4.17 | 0 | 669 |
+| 1,098 | [Chernobylite](games/c/chernobylite.md) | 4.17 | 0 | 669 |
+| 1,098 | [Dark Deity](games/d/dark_deity.md) | 4.17 | 632 | 232 |
+| 1,098 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 4.17 | 0 | 669 |
+| 1,098 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 4.17 | 533 | 247 |
 | 1,103 | [Forspoken](games/f/forspoken.md) | 4.16 | 73 | 483 |
 | 1,103 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.16 | 0 | 669 |
 | 1,103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.16 | 0 | 669 |
