@@ -186,8 +186,8 @@
 | 172 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 4.74 | 0 | 669 |
 | 172 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 435 |
 | 172 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.74 | 0 | 669 |
-| 172 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 991 | 189 |
-| 172 | [Timberborn](games/t/timberborn.md) | 4.74 | 214 | 338 |
+| 172 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 992 | 189 |
+| 172 | [Timberborn](games/t/timberborn.md) | 4.74 | 215 | 337 |
 | 172 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 669 |
 | 172 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 564 | 240 |
 | 172 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 669 |
@@ -319,7 +319,7 @@
 | 299 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 669 |
 | 299 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.67 | 0 | 669 |
 | 299 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 27 | 621 |
-| 320 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,852 | 102 |
+| 320 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 3,854 | 102 |
 | 320 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 104 | 433 |
 | 320 | [Crashlands](games/c/crashlands.md) | 4.66 | 205 | 344 |
 | 320 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 199 | 348 |
@@ -337,7 +337,7 @@
 | 332 | [Card Shark](games/c/card_shark.md) | 4.65 | 0 | 669 |
 | 332 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.65 | 351 | 285 |
 | 332 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.65 | 0 | 669 |
-| 332 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 8,507 | 65 |
+| 332 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 8,516 | 65 |
 | 332 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 127 | 403 |
 | 332 | [DOOM 64](games/d/doom_64.md) | 4.65 | 1,329 | 158 |
 | 332 | [DOOM II](games/d/doom_ii.md) | 4.65 | 31 | 601 |
@@ -675,7 +675,7 @@
 | 658 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 37 | 567 |
 | 658 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.50 | 0 | 669 |
 | 658 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 669 |
-| 658 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,536 | 40 |
+| 658 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,543 | 40 |
 | 658 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 669 |
 | 658 | [The Medium](games/t/the_medium.md) | 4.50 | 0 | 669 |
 | 658 | [VALORANT](games/v/valorant.md) | 4.50 | 128,269 | 10 |
@@ -734,7 +734,7 @@
 | 731 | [Chorus](games/c/chorus.md) | 4.46 | 36 | 571 |
 | 731 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 4.46 | 556 | 243 |
 | 731 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.46 | 170 | 369 |
-| 731 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,307 | 160 |
+| 731 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,310 | 160 |
 | 731 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 15,320 | 35 |
 | 731 | [Might and Magic: Heroes VII - Ultimate Edition](games/m/might_and_magic__heroes_vii_-_ultimate_edition.md) | 4.46 | 57 | 514 |
 | 731 | [MythForce](games/m/mythforce.md) | 4.46 | 39 | 560 |
@@ -1092,7 +1092,7 @@
 | 1,088 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 35 | 577 |
 | 1,088 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.18 | 0 | 669 |
 | 1,088 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 80 | 468 |
-| 1,088 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 232,233 | 6 |
+| 1,088 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 232,332 | 6 |
 | 1,088 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 447 |
 | 1,088 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.18 | 0 | 669 |
 | 1,088 | [The Alien Cube](games/t/the_alien_cube.md) | 4.18 | 0 | 669 |
