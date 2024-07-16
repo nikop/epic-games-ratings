@@ -246,6 +246,7 @@
 | [Dungeons Deep](games/9/99c180fe91034e829aeae9ec5d6b2ba2.md) | 2025-12-31 | - |  | - | - |
 | [Elders Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2025-12-31 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2025-12-31 | - |  | - | - |
+| [Elflock](games/d/d23d0870e4a74ab4a993efec319ae2e8.md) | 2025-12-31 | - |  | - | - |
 | [Eriksholm: The Stolen Dream](games/8/833ef2482db54a19a83c264f5371f550.md) | 2025-12-31 | - |  | - | - |
 | [Falling Frontier](games/f/falling_frontier.md) | 2025-12-31 | - |  | - | - |
 | [Federation](games/f/ff6f8be77181424abd51b0fc551da825.md) | 2025-12-31 | - |  | - | - |
