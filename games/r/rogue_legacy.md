@@ -1,11 +1,11 @@
 # Rogue Legacy
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy)  
 [View Rawdata](../../db/r/rogue_legacy.json)  
-Rating: 4.61 (Ranked 424)  
+Rating: 4.61 (Ranked 425)  
 Number of Ratings: 2,133  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 1,150  (Ranked 172)  
-Sum: 1,693 (Ranked 262)  
+Max (Great Boss Battles): 1,150  (Ranked 173)  
+Sum: 1,693 (Ranked 263)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |

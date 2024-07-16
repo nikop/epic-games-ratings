@@ -1,7 +1,7 @@
 # LEGO® Brawls
 [Store](https://store.epicgames.com/en-US/p/lego-brawls)  
 [View Rawdata](../../db/l/lego®_brawls.json)  
-Rating: 4.48 (Ranked 697)  
+Rating: 4.49 (Ranked 683)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -29,3 +29,4 @@ Rating: 4.48 (Ranked 697)
 | 2024-05-27 | 4.45 | 0 | 0 |
 | 2024-06-05 | 4.47 | 0 | 0 |
 | 2024-07-04 | 4.48 | 0 | 0 |
+| 2024-07-16 | 4.49 | 0 | 0 |

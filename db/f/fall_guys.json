@@ -2,7 +2,7 @@
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
   "ProductSlug": "fall-guys",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 659,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 5,
   "Ranking_EOS_Progress": 1,
@@ -25480,18 +25480,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 1445550,
       "NumberOfAwardsMax": 162044
+    },
+    {
+      "Time": "2024-07-16T17:57:58.3203147+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1445589,
+      "NumberOfAwardsMax": 162083
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1445550,
-  "NumberOfAwardsMax": 162044,
+  "NumberOfAwards": 1445589,
+  "NumberOfAwardsMax": 162083,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 162044
+      "Count": 162083
     },
     {
       "Text": "This game is Relaxing",
@@ -58462,9 +58468,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
-  "LastChanged": "2024-07-16T15:59:34.3117352+00:00",
+  "LastChanged": "2024-07-16T17:57:58.3203145+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:22.4958794+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:58:15.4723352+00:00",
-  "LastUpdate_Ratings": "2024-07-16T15:59:34.3117358+00:00",
+  "LastUpdate_Ratings": "2024-07-16T17:57:58.3203151+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:22.4960329+00:00"
 }

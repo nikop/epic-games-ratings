@@ -1,7 +1,7 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 977)  
+Rating: 4.29 (Ranked 978)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
