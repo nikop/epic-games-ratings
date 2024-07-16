@@ -258,7 +258,7 @@
 | 234 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 669 |
 | 234 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.70 | 0 | 669 |
 | 258 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 669 |
-| 258 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 136,307 | 9 |
+| 258 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 136,367 | 9 |
 | 258 | [Coromon](games/c/coromon.md) | 4.69 | 51 | 532 |
 | 258 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.69 | 170,939 | 7 |
 | 258 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,602 | 63 |

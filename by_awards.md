@@ -8,7 +8,7 @@
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 232,233 | 4.18 | 1,088 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 170,939 | 4.69 | 258 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 162,044 | 4.50 | 658 |
-| 9 | [Borderlands 3](games/b/borderlands_3.md) | 136,307 | 4.69 | 258 |
+| 9 | [Borderlands 3](games/b/borderlands_3.md) | 136,367 | 4.69 | 258 |
 | 10 | [VALORANT](games/v/valorant.md) | 128,269 | 4.50 | 658 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 81,808 | 4.44 | 762 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 70,633 | 4.58 | 495 |
