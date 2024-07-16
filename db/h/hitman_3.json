@@ -19700,10 +19700,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 85026,
       "NumberOfAwardsMax": 13109
+    },
+    {
+      "Time": "2024-07-16T06:58:33.4561891+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 85037,
+      "NumberOfAwardsMax": 13109
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85026,
+  "NumberOfAwards": 85037,
   "NumberOfAwardsMax": 13109,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -19747,13 +19753,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9562
+      "Count": 9565
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 9445
+      "Count": 9453
     },
     {
       "Text": "This game has a Creative Community",
@@ -52725,9 +52731,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
-  "LastChanged": "2024-07-15T22:58:54.1651018+00:00",
+  "LastChanged": "2024-07-16T06:58:33.4561889+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:34.1240116+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:38.4859844+00:00",
-  "LastUpdate_Ratings": "2024-07-16T04:59:25.8762552+00:00",
+  "LastUpdate_Ratings": "2024-07-16T06:58:33.4561896+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:34.1242074+00:00"
 }
