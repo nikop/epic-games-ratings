@@ -3,7 +3,7 @@
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
   "Ranking_Rating": 1051,
-  "Ranking_Popularity": 229,
+  "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 512,
@@ -3787,11 +3787,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 2194,
       "NumberOfAwardsMax": 657
+    },
+    {
+      "Time": "2024-07-16T16:57:34.8628564+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 2200,
+      "NumberOfAwardsMax": 660
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2194,
-  "NumberOfAwardsMax": 657,
+  "NumberOfAwards": 2200,
+  "NumberOfAwardsMax": 660,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3810,7 +3816,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 329
+      "Count": 331
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3822,13 +3828,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 657
+      "Count": 660
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 219
+      "Count": 220
     },
     {
       "Text": "This game is Educational",
@@ -17760,9 +17766,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2024-07-16T03:57:22.5097338+00:00",
+  "LastChanged": "2024-07-16T16:57:34.8628562+00:00",
   "LastChanged_Achievements": "2024-07-09T22:05:03.9455462+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:57:46.9284398+00:00",
-  "LastUpdate_Ratings": "2024-07-16T14:58:57.8282464+00:00",
+  "LastUpdate_Ratings": "2024-07-16T16:57:34.8628567+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:05:03.945809+00:00"
 }

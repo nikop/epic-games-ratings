@@ -6843,18 +6843,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 2972,
       "NumberOfAwardsMax": 1332
+    },
+    {
+      "Time": "2024-07-16T16:57:24.4426121+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 2973,
+      "NumberOfAwardsMax": 1333
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2972,
-  "NumberOfAwardsMax": 1332,
+  "NumberOfAwards": 2973,
+  "NumberOfAwardsMax": 1333,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 1332
+      "Count": 1333
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -31549,9 +31555,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-07-15T21:01:01.0690856+00:00",
+  "LastChanged": "2024-07-16T16:57:24.4426119+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:27.2866989+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:57:41.6295548+00:00",
-  "LastUpdate_Ratings": "2024-07-16T14:58:47.6745175+00:00",
+  "LastUpdate_Ratings": "2024-07-16T16:57:24.4426125+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:27.2868694+00:00"
 }
