@@ -4,7 +4,7 @@
   "ProductSlug": "shapez-0929c9",
   "Ranking_Rating": 220,
   "Ranking_Popularity": 593,
-  "Ranking_PopularitySum": 482,
+  "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -736,10 +736,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 212,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-07-16T22:58:51.222052+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 213,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 212,
+  "NumberOfAwards": 213,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -765,7 +771,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Educational",
@@ -810,8 +816,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2024-07-16T19:58:32.6492067+00:00",
+  "LastChanged": "2024-07-16T22:58:51.2220518+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:58:01.0272982+00:00",
-  "LastUpdate_Ratings": "2024-07-16T21:00:36.1431272+00:00",
+  "LastUpdate_Ratings": "2024-07-16T22:58:51.2220524+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:04:08.3927194+00:00"
 }
