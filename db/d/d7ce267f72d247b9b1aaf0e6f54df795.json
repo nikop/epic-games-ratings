@@ -3,7 +3,7 @@
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
   "Ranking_Rating": 172,
-  "Ranking_Popularity": 150,
+  "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
@@ -4361,18 +4361,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 6507,
       "NumberOfAwardsMax": 1523
+    },
+    {
+      "Time": "2024-07-16T15:58:03.3870041+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 6526,
+      "NumberOfAwardsMax": 1534
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6507,
-  "NumberOfAwardsMax": 1523,
+  "NumberOfAwards": 6526,
+  "NumberOfAwardsMax": 1534,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1523
+      "Count": 1534
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4384,7 +4390,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 565
+      "Count": 573
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4471,8 +4477,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-07-16T14:00:03.9617505+00:00",
+  "LastChanged": "2024-07-16T15:58:03.3870039+00:00",
   "LastUpdate_AppInfo": "2024-07-11T04:57:09.718904+00:00",
-  "LastUpdate_Ratings": "2024-07-16T14:00:03.961751+00:00",
+  "LastUpdate_Ratings": "2024-07-16T15:58:03.3870045+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:24.8521418+00:00"
 }
