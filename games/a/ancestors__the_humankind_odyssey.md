@@ -1,7 +1,7 @@
 # Ancestors: The Humankind Odyssey
 [Store](https://store.epicgames.com/en-US/p/ancestors)  
 [View Rawdata](../../db/a/ancestors__the_humankind_odyssey.json)  
-Rating: 4.57 (Ranked 523)  
+Rating: 4.58 (Ranked 496)  
 Number of Ratings: 481  (23.09.2022)  
 ## Awards
 Max (Educational): 48  (Ranked 537)  
@@ -130,3 +130,4 @@ Diff (max vs sum): 59
 | 2024-07-10 | 4.57 | - | 48 | 257 |
 | 2024-07-15 | 4.57 | - | 48 | 216 |
 | 2024-07-16 | 4.57 | - | 48 | 217 |
+| 2024-07-17 | 4.58 | - | 48 | 217 |
