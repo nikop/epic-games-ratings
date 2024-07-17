@@ -1,7 +1,7 @@
 # Fire Commander
 [Store](https://store.epicgames.com/en-US/p/fire-commander-df24ad)  
 [View Rawdata](../../db/f/fire_commander.json)  
-Rating: 4.50 (Ranked 660)  
+Rating: 4.50 (Ranked 659)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
