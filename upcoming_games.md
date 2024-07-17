@@ -6,6 +6,7 @@
 | [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-07-18 | - |  | - | 0 |
 | [RiichiCity](games/e/e0ee479e91da4abeb526cdfd2210d7dc.md) | 2024-07-19 | - |  | - | - |
 | [Hero of the Kingdom](games/1/17fd3ea945ad482190387b6b55b42633.md) | 2024-07-19 | - |  | - | - |
+| [Adventure Forest: Rabbit Story](games/2/24300a7a071a4b6f9c0ad1b2dbc6883b.md) | 2024-07-19 | - |  | - | - |
 | [The Black Pool](games/a/a79dc86babfd4136a6f788bf54d23308.md) | 2024-07-19 | - |  | - | - |
 | [Valor Rising: Quest for the 7](games/5/580aa156a1fb43eeb45e5c6e39d18d20.md) | 2024-07-20 | - |  | - | - |
 | [NINJA KATO 4](games/e/e44eb86202844dfe9644e88d0c9c232a.md) | 2024-07-21 | - |  | - | - |
@@ -37,7 +38,6 @@
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
 | [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | - | - |
 | [Hero of the Kingdom III](games/a/a64669daa91845c094bd01c537658db2.md) | 2024-08-02 | - |  | - | - |
-| [Adventure Forest: Rabbit Story](games/2/24300a7a071a4b6f9c0ad1b2dbc6883b.md) | 2024-08-02 | - |  | - | - |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | - |  | - | - |
 | [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 2024-08-08 | 20 (1,000 XP) | 3 | - | - |
 | [SteamWorld Heist II](games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 2024-08-08 | - |  | - | - |
