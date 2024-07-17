@@ -4,7 +4,7 @@
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 881,398 | 4.44 | 766 |
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 406,124 | 4.68 | 283 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 347,562 | 4.67 | 300 |
-| 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 338,676 | 4.87 | 20 |
+| 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 338,978 | 4.87 | 20 |
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 232,332 | 4.18 | 1,089 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 170,939 | 4.69 | 259 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 162,083 | 4.50 | 660 |
@@ -68,7 +68,7 @@
 | 66 | [Sifu](games/s/sifu.md) | 8,053 | 4.82 | 77 |
 | 67 | [Supraland](games/s/supraland.md) | 7,912 | 4.61 | 427 |
 | 68 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 7,871 | 4.75 | 157 |
-| 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,501 | 4.83 | 65 |
+| 69 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 7,510 | 4.83 | 65 |
 | 70 | [The Sims™ 4](games/t/the_sims™_4.md) | 7,209 | 4.60 | 453 |
 | 71 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 7,201 | 4.58 | 496 |
 | 72 | [League of Legends](games/l/league_of_legends.md) | 6,800 | 4.19 | 1,078 |
@@ -78,7 +78,7 @@
 | 76 | [Chivalry 2](games/c/chivalry_2.md) | 6,499 | 4.54 | 584 |
 | 77 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,416 | 4.56 | 543 |
 | 78 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,356 | 4.66 | 321 |
-| 79 | [Rogue Company](games/r/rogue_company.md) | 6,350 | 4.27 | 1,002 |
+| 79 | [Rogue Company](games/r/rogue_company.md) | 6,352 | 4.27 | 1,002 |
 | 80 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,320 | 4.06 | 1,150 |
 | 81 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,184 | 4.85 | 38 |
 | 82 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,151 | 4.64 | 363 |
@@ -110,7 +110,7 @@
 | 108 | [Among Us](games/a/among_us.md) | 3,561 | 4.55 | 561 |
 | 109 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,439 | 4.54 | 584 |
 | 110 | [RAGE 2](games/r/rage_2.md) | 3,234 | 4.26 | 1,008 |
-| 111 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 3,046 | 4.12 | 1,128 |
+| 111 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 3,046 | 4.12 | 1,127 |
 | 112 | [Path of Exile](games/p/path_of_exile.md) | 3,024 | 4.62 | 403 |
 | 113 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,991 | 4.79 | 105 |
 | 114 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,857 | 4.70 | 235 |
@@ -124,7 +124,7 @@
 | 122 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,407 | 4.67 | 300 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,382 | 4.56 | 543 |
 | 124 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,328 | 4.41 | 827 |
-| 125 | [World of Warships](games/w/world_of_warships.md) | 2,308 | 4.41 | 827 |
+| 125 | [World of Warships](games/w/world_of_warships.md) | 2,309 | 4.41 | 827 |
 | 126 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,218 | 4.82 | 77 |
 | 127 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,189 | 4.63 | 382 |
 | 127 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,189 | 4.37 | 885 |
@@ -199,7 +199,7 @@
 | 197 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 939 | 4.77 | 129 |
 | 198 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 923 | 4.59 | 474 |
 | 199 | [Subnautica](games/s/subnautica.md) | 922 | 4.85 | 38 |
-| 200 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 903 | 4.61 | 427 |
+| 200 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 904 | 4.61 | 427 |
 | 201 | [Neverwinter](games/n/neverwinter.md) | 875 | 4.29 | 979 |
 | 202 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 851 | 3.98 | 1,174 |
 | 203 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 834 | 4.41 | 827 |
@@ -214,8 +214,8 @@
 | 211 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 780 | 4.62 | 403 |
 | 213 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 769 | 4.87 | 20 |
 | 214 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 768 | 4.79 | 105 |
-| 215 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 751 | 4.58 | 496 |
-| 216 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 745 | 4.28 | 989 |
+| 215 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 765 | 4.28 | 989 |
+| 216 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 751 | 4.58 | 496 |
 | 217 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 737 | 4.62 | 403 |
 | 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 733 | 4.71 | 220 |
 | 218 | [Star Trek Online](games/s/star_trek_online.md) | 733 | 4.44 | 766 |
@@ -298,7 +298,7 @@
 | 294 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 307 | 4.84 | 47 |
 | 297 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 403 |
 | 298 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 303 | 4.44 | 766 |
-| 299 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 297 | 4.13 | 1,122 |
+| 299 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 297 | 4.11 | 1,129 |
 | 299 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 1,008 |
 | 301 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 292 | 4.69 | 259 |
 | 302 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 291 | 4.83 | 65 |

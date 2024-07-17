@@ -23,7 +23,7 @@
 | 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,900 | 87 |
 | 20 | [Inscryption](games/i/inscryption.md) | 4.87 | 382 | 279 |
 | 20 | [Rain World](games/r/rain_world.md) | 4.87 | 25 | 633 |
-| 20 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 338,676 | 5 |
+| 20 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 338,978 | 5 |
 | 20 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,583 | 25 |
 | 20 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 639 |
 | 20 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 769 | 213 |
@@ -64,7 +64,7 @@
 | 47 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.84 | 0 | 669 |
 | 47 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 237 | 328 |
 | 47 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 251 | 318 |
-| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,501 | 69 |
+| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,510 | 69 |
 | 65 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 73 | 484 |
 | 65 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 291 | 302 |
 | 65 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 257 | 314 |
@@ -450,7 +450,7 @@
 | 427 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 457 | 261 |
 | 427 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 450 |
 | 427 | [Warframe](games/w/warframe.md) | 4.61 | 25,210 | 22 |
-| 427 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 903 | 200 |
+| 427 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 904 | 200 |
 | 427 | [Witchfire](games/w/witchfire.md) | 4.61 | 156 | 377 |
 | 453 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 1,017 | 186 |
 | 453 | [20XX](games/2/20xx.md) | 4.60 | 39 | 560 |
@@ -520,7 +520,7 @@
 | 496 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 362 | 283 |
 | 496 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.58 | 238 | 326 |
 | 496 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 7,201 | 71 |
-| 496 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 751 | 215 |
+| 496 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 751 | 216 |
 | 496 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.58 | 162 | 373 |
 | 496 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,986 | 36 |
 | 524 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 669 |
@@ -842,7 +842,7 @@
 | 827 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.41 | 834 | 203 |
 | 827 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 669 |
 | 827 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.41 | 51 | 532 |
-| 827 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,308 | 125 |
+| 827 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,309 | 125 |
 | 844 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.40 | 0 | 669 |
 | 844 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 669 |
 | 844 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 669 |
@@ -989,7 +989,7 @@
 | 979 | [Offworld Trading Company](games/o/offworld_trading_company.md) | 4.29 | 57 | 515 |
 | 979 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 669 |
 | 989 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.28 | 0 | 669 |
-| 989 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.28 | 745 | 216 |
+| 989 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.28 | 765 | 215 |
 | 989 | [ELEX II](games/e/elex_ii.md) | 4.28 | 0 | 669 |
 | 989 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.28 | 117 | 413 |
 | 989 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.28 | 0 | 669 |
@@ -1004,7 +1004,7 @@
 | 1,002 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.27 | 0 | 669 |
 | 1,002 | [Men of War](games/m/men_of_war.md) | 4.27 | 0 | 669 |
 | 1,002 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 27 | 621 |
-| 1,002 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,350 | 79 |
+| 1,002 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,352 | 79 |
 | 1,002 | [Steelrising](games/s/steelrising.md) | 4.27 | 44 | 546 |
 | 1,002 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.27 | 0 | 669 |
 | 1,008 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.26 | 22 | 647 |
@@ -1126,12 +1126,12 @@
 | 1,122 | [Family Man](games/f/family_man.md) | 4.13 | 0 | 669 |
 | 1,122 | [Relicta](games/r/relicta.md) | 4.13 | 207 | 342 |
 | 1,122 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 4.13 | 0 | 669 |
-| 1,122 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.13 | 297 | 299 |
-| 1,128 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 669 |
-| 1,128 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.12 | 3,046 | 111 |
-| 1,130 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 669 |
-| 1,130 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.11 | 0 | 669 |
-| 1,130 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.11 | 0 | 669 |
+| 1,127 | [Blair Witch](games/b/blair_witch.md) | 4.12 | 0 | 669 |
+| 1,127 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 4.12 | 3,046 | 111 |
+| 1,129 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.11 | 0 | 669 |
+| 1,129 | [Sengoku Dynasty](games/6/696f412c815b40089807922419188f43.md) | 4.11 | 0 | 669 |
+| 1,129 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 4.11 | 297 | 299 |
+| 1,129 | [The Panic Room. House of secrets](games/3/375c702038fb4110af4f2d14a47483d0.md) | 4.11 | 0 | 669 |
 | 1,133 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.10 | 0 | 669 |
 | 1,133 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,519 | 119 |
 | 1,135 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.09 | 0 | 669 |
