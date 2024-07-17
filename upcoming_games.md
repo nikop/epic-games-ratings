@@ -239,6 +239,7 @@
 | [Valannia Arena](games/4/4706bb0e4a72425c8fbeea69d63acf1f.md) | 2025-06-30 | - |  | - | - |
 | [Big Walk](games/2/271473d449b34fa5825cd0c6af7ca728.md) | 2025-12-31 | - |  | - | - |
 | [Citizen Sleeper 2: Starward Vector](games/2/283988bcb09342d3901d99f3cc22ca77.md) | 2025-12-31 | - |  | - | - |
+| [Death Blonde](games/4/4cbd830175c6402e98ef67421c0c1bec.md) | 2025-12-31 | - |  | - | - |
 | [Deathpunk](games/e/e2d3a34aeee943f588e6a62b8968df2f.md) | 2025-12-31 | - |  | - | - |
 | [DEPRISION](games/8/847d4e731fb146a590720e393f524df7.md) | 2025-12-31 | - |  | - | - |
 | [Dr. Finklestein's Marvelous Room](games/e/eee849a1ed424af5ae93554dd34fe980.md) | 2025-12-31 | - |  | - | - |
