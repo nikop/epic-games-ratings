@@ -3,7 +3,7 @@
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 105,
-  "Ranking_Popularity": 214,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 512,
@@ -8599,11 +8599,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 6145,
       "NumberOfAwardsMax": 768
+    },
+    {
+      "Time": "2024-07-17T21:58:04.8264889+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6153,
+      "NumberOfAwardsMax": 769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6145,
-  "NumberOfAwardsMax": 768,
+  "NumberOfAwards": 6153,
+  "NumberOfAwardsMax": 769,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -8616,7 +8622,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 768
+      "Count": 769
     },
     {
       "Text": "This game is Relaxing",
@@ -8640,13 +8646,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 534
+      "Count": 536
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 634
+      "Count": 637
     },
     {
       "Text": "This game has a Creative Community",
@@ -8670,7 +8676,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 444
+      "Count": 446
     }
   ],
   "EOS_Progressed": 88923,
@@ -19256,9 +19262,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-07-17T19:59:01.7604031+00:00",
+  "LastChanged": "2024-07-17T21:58:04.8264887+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:35.2604041+00:00",
   "LastUpdate_AppInfo": "2024-07-17T13:57:47.5312265+00:00",
-  "LastUpdate_Ratings": "2024-07-17T19:59:01.7604037+00:00",
+  "LastUpdate_Ratings": "2024-07-17T21:58:04.8264893+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:35.2605687+00:00"
 }
