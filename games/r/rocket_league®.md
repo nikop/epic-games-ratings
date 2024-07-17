@@ -384,17 +384,17 @@ Completed: 3,168 (0.01%) (Ranked 488)
 | 2024-06-17 | 29,902,296 | 3,168 |
 ## Awards
 Max (Great for Quick Sessions): 881,993  (Ranked 2)  
-Sum: 5,214,864 (Ranked 2)  
+Sum: 5,217,586 (Ranked 2)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 881,993 |
-| This game has Competitive Players | 764,091 |
-| This game is Extremely Fun | 671,133 |
-| This game is Highly Recommended | 636,368 |
-| This game has Challenging Combat | 621,721 |
+| This game has Competitive Players | 764,756 |
+| This game is Extremely Fun | 671,738 |
+| This game is Highly Recommended | 636,848 |
+| This game has Challenging Combat | 622,205 |
 | This game has Quickly Understood Controls | 590,241 |
-| This game has Amazing Storytelling | 563,951 |
+| This game has Amazing Storytelling | 564,439 |
 | This game has a Competitive Community | 543,632 |
 | This game has Amazing Characters | 531,975 |
 | This game has Obsessive Gameplay | 167,946 |
@@ -942,4 +942,4 @@ Diff (max vs sum): 0
 | 2024-07-14 | 4.44 | - | 880,179 | 5,205,948 |
 | 2024-07-15 | 4.44 | - | 880,781 | 5,209,946 |
 | 2024-07-16 | 4.44 | - | 881,398 | 5,214,269 |
-| 2024-07-17 | 4.44 | - | 881,993 | 5,214,864 |
+| 2024-07-17 | 4.44 | - | 881,993 | 5,217,586 |
