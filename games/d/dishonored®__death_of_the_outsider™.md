@@ -4,7 +4,7 @@
 Rating: 4.43 (Ranked 787)  
 ## Awards
 Max (Relaxing): 86  (Ranked 461)  
-Sum: 772 (Ranked 339)  
+Sum: 773 (Ranked 339)  
 Diff (max vs sum): 122  
 | Award | Count |
 | ----- | ----- |
@@ -14,9 +14,9 @@ Diff (max vs sum): 122
 | This game has Amazing Storytelling | 82 |
 | This game has Amazing Characters | 80 |
 | This game is Highly Recommended | 79 |
+| This game has Unique Visuals | 77 |
 | This game has Quickly Understood Controls | 77 |
 | This game is Great for Beginners | 76 |
-| This game has Unique Visuals | 76 |
 | This game has a Creative Community | 48 |
 | This game has Great Boss Battles | 27 |
 ## Ratings History
@@ -342,3 +342,4 @@ Diff (max vs sum): 122
 | 2024-07-13 | 4.43 | 86 | 766 |
 | 2024-07-14 | 4.43 | 86 | 768 |
 | 2024-07-15 | 4.43 | 86 | 772 |
+| 2024-07-17 | 4.43 | 86 | 773 |
