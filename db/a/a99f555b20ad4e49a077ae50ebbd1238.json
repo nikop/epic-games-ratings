@@ -4,7 +4,7 @@
   "ProductSlug": "zeeverse-92a34e",
   "Ranking_Rating": 64,
   "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 554,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -299,10 +299,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 89,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-07-17T20:00:11.8304795+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 90,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89,
+  "NumberOfAwards": 90,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -322,7 +328,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -337,8 +343,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-18T18:59:41.818117+00:00",
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
-  "LastChanged": "2024-07-08T05:57:55.950884+00:00",
+  "LastChanged": "2024-07-17T20:00:11.8304793+00:00",
   "LastUpdate_AppInfo": "2024-07-11T04:57:11.24424+00:00",
-  "LastUpdate_Ratings": "2024-07-17T18:58:05.5801539+00:00",
+  "LastUpdate_Ratings": "2024-07-17T20:00:11.8304799+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:18.6363596+00:00"
 }
