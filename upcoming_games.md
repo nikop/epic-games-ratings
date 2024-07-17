@@ -65,6 +65,7 @@
 | [Micro Tanks](games/d/de3ed17d886342a998ea8b187c656f15.md) | 2024-08-30 | - |  | - | - |
 | [Cafe Maid - Cute Anime Girls](games/3/3dfc7c92bb4846b5bfbb0066ba5149e8.md) | 2024-08-31 | - |  | - | - |
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-08-31 | - |  | - | - |
+| [Departed Away](games/8/8fb3b92706e84e07ad8b2804599b6677.md) | 2024-08-31 | - |  | - | - |
 | [DimonD Hunt](games/4/412632fc3f0d4a8e8294f22149e1dff1.md) | 2024-08-31 | - |  | - | - |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-31 | - |  | - | - |
 | [I Chatbot: AISYLUM](games/c/cf688ebf1c3f42ffa697c7b8afd73e9d.md) | 2024-08-31 | - |  | - | - |
