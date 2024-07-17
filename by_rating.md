@@ -177,7 +177,7 @@
 | 173 | [Fez](games/f/fez.md) | 4.74 | 28 | 612 |
 | 173 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.74 | 40,759 | 17 |
 | 173 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 1,534 | 149 |
-| 173 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 1,036 | 183 |
+| 173 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 1,037 | 183 |
 | 173 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,815 | 57 |
 | 173 | [Outlast](games/o/outlast.md) | 4.74 | 34 | 583 |
 | 173 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,160 | 171 |
@@ -447,7 +447,7 @@
 | 427 | [Supraland](games/s/supraland.md) | 4.61 | 7,912 | 67 |
 | 427 | [Surviving Mars](games/s/surviving_mars.md) | 4.61 | 642 | 231 |
 | 427 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 466 |
-| 427 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 457 | 261 |
+| 427 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 458 | 261 |
 | 427 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 450 |
 | 427 | [Warframe](games/w/warframe.md) | 4.61 | 25,210 | 22 |
 | 427 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 904 | 200 |
@@ -839,7 +839,7 @@
 | 827 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,328 | 124 |
 | 827 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 74 | 481 |
 | 827 | [Sheltered](games/s/sheltered.md) | 4.41 | 290 | 303 |
-| 827 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.41 | 834 | 203 |
+| 827 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.41 | 839 | 203 |
 | 827 | [True Fear: Forsaken Souls Part 1](games/t/true_fear__forsaken_souls_part_1.md) | 4.41 | 0 | 669 |
 | 827 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.41 | 51 | 532 |
 | 827 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 2,309 | 125 |
