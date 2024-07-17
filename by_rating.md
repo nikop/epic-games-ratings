@@ -55,7 +55,6 @@
 | 47 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,794 | 62 |
 | 47 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 669 |
 | 47 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 669 |
-| 47 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.84 | 0 | 669 |
 | 47 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,662 | 34 |
 | 47 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.84 | 323 | 290 |
 | 47 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 307 | 294 |
@@ -64,39 +63,40 @@
 | 47 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.84 | 0 | 669 |
 | 47 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 237 | 328 |
 | 47 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 251 | 318 |
-| 65 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,510 | 69 |
-| 65 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 73 | 484 |
-| 65 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 291 | 302 |
-| 65 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 257 | 314 |
-| 65 | [Firework](games/f/firework.md) | 4.83 | 0 | 669 |
-| 65 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 798 | 208 |
-| 65 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.83 | 61 | 505 |
-| 65 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.83 | 0 | 669 |
-| 65 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 487 | 253 |
-| 65 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 669 |
-| 65 | [TUNIC](games/t/tunic.md) | 4.83 | 43 | 548 |
-| 65 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.83 | 34 | 583 |
-| 77 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 501 | 252 |
-| 77 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 669 |
-| 77 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 37 | 567 |
-| 77 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.82 | 472 | 256 |
-| 77 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.82 | 0 | 669 |
-| 77 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 669 |
-| 77 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,218 | 126 |
-| 77 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 66 | 495 |
-| 77 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 383 | 278 |
-| 77 | [Sifu](games/s/sifu.md) | 4.82 | 8,053 | 66 |
-| 77 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 550 | 245 |
-| 77 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 463 |
-| 77 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 105 | 430 |
-| 90 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 1,249 | 163 |
-| 90 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,630 | 118 |
-| 90 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 669 |
-| 90 | [Lost Ruins](games/l/lost_ruins.md) | 4.81 | 0 | 669 |
-| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.81 | 0 | 669 |
-| 90 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 669 |
-| 90 | [The Messenger](games/t/the_messenger.md) | 4.81 | 376 | 280 |
-| 90 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 669 |
+| 64 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.83 | 7,510 | 69 |
+| 64 | [Blade of God X](games/1/1c26f99d58a94ae08d094d5911ba7883.md) | 4.83 | 73 | 484 |
+| 64 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.83 | 291 | 302 |
+| 64 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.83 | 257 | 314 |
+| 64 | [Firework](games/f/firework.md) | 4.83 | 0 | 669 |
+| 64 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.83 | 798 | 208 |
+| 64 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.83 | 61 | 505 |
+| 64 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.83 | 0 | 669 |
+| 64 | [Into the Breach](games/i/into_the_breach.md) | 4.83 | 487 | 253 |
+| 64 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 669 |
+| 64 | [TUNIC](games/t/tunic.md) | 4.83 | 43 | 548 |
+| 64 | [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 4.83 | 34 | 583 |
+| 76 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 501 | 252 |
+| 76 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 669 |
+| 76 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 37 | 567 |
+| 76 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.82 | 472 | 256 |
+| 76 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.82 | 0 | 669 |
+| 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 669 |
+| 76 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,218 | 126 |
+| 76 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 66 | 495 |
+| 76 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 383 | 278 |
+| 76 | [Sifu](games/s/sifu.md) | 4.82 | 8,053 | 66 |
+| 76 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 550 | 245 |
+| 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 463 |
+| 76 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 105 | 430 |
+| 89 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 1,249 | 163 |
+| 89 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,630 | 118 |
+| 89 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 669 |
+| 89 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.81 | 0 | 669 |
+| 89 | [Lost Ruins](games/l/lost_ruins.md) | 4.81 | 0 | 669 |
+| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.81 | 0 | 669 |
+| 89 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 669 |
+| 89 | [The Messenger](games/t/the_messenger.md) | 4.81 | 376 | 280 |
+| 89 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 669 |
 | 98 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.80 | 1,871 | 139 |
 | 98 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,571 | 75 |
 | 98 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 478 | 255 |
@@ -157,7 +157,7 @@
 | 144 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 246 | 323 |
 | 144 | [Townscaper](games/t/townscaper.md) | 4.76 | 0 | 669 |
 | 157 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.75 | 0 | 669 |
-| 157 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,862 | 60 |
+| 157 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 8,866 | 60 |
 | 157 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.75 | 0 | 669 |
 | 157 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 669 |
 | 157 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,189 | 168 |
@@ -434,7 +434,7 @@
 | 427 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 252 | 317 |
 | 427 | [Death's Door](games/d/death's_door.md) | 4.61 | 0 | 669 |
 | 427 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.61 | 0 | 669 |
-| 427 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 64,285 | 13 |
+| 427 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 64,323 | 13 |
 | 427 | [Going Medieval](games/g/going_medieval.md) | 4.61 | 167 | 371 |
 | 427 | [In Sound Mind](games/i/in_sound_mind.md) | 4.61 | 66 | 495 |
 | 427 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 504 | 250 |
@@ -678,7 +678,7 @@
 | 660 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.50 | 0 | 669 |
 | 660 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.50 | 0 | 669 |
 | 660 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.50 | 52 | 531 |
-| 660 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,543 | 40 |
+| 660 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 13,552 | 40 |
 | 660 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 669 |
 | 660 | [The Medium](games/t/the_medium.md) | 4.50 | 0 | 669 |
 | 660 | [VALORANT](games/v/valorant.md) | 4.50 | 128,445 | 10 |
@@ -1148,10 +1148,10 @@
 | 1,144 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 359 |
 | 1,144 | [Obduction](games/o/obduction.md) | 4.08 | 63 | 501 |
 | 1,144 | [Patron](games/p/patron.md) | 4.08 | 0 | 669 |
+| 1,149 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 503 | 251 |
 | 1,149 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 669 |
-| 1,150 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 6,320 | 80 |
-| 1,150 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.06 | 0 | 669 |
-| 1,150 | [Second Extinction™](games/s/second_extinction™.md) | 4.06 | 503 | 251 |
+| 1,151 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 6,320 | 80 |
+| 1,151 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.06 | 0 | 669 |
 | 1,153 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 669 |
 | 1,153 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.05 | 629 | 233 |
 | 1,153 | [Homeworld 3](games/h/homeworld_3.md) | 4.05 | 0 | 669 |
