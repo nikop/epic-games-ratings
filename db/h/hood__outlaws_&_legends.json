@@ -3,7 +3,7 @@
   "Name": "Hood: Outlaws \u0026 Legends",
   "ProductSlug": "hood-outlaws-and-legends",
   "Ranking_Rating": 1169,
-  "Ranking_Popularity": 276,
+  "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
@@ -2933,18 +2933,24 @@
       "Rating": 3.99,
       "NumberOfAwards": 2839,
       "NumberOfAwardsMax": 390
+    },
+    {
+      "Time": "2024-07-18T16:57:29.243382+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2840,
+      "NumberOfAwardsMax": 391
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2839,
-  "NumberOfAwardsMax": 390,
+  "NumberOfAwards": 2840,
+  "NumberOfAwardsMax": 391,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 390
+      "Count": 391
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3000,8 +3006,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
-  "LastChanged": "2024-07-17T19:57:53.7823833+00:00",
+  "LastChanged": "2024-07-18T16:57:29.2433818+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:46.9693501+00:00",
-  "LastUpdate_Ratings": "2024-07-18T14:59:02.5550042+00:00",
+  "LastUpdate_Ratings": "2024-07-18T16:57:29.2433823+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:31.3486478+00:00"
 }
