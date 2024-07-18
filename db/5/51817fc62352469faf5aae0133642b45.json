@@ -2,7 +2,7 @@
   "ID": "51817fc62352469faf5aae0133642b45",
   "Name": "Call of Dragons",
   "ProductSlug": "call-of-dragons-d85ee6",
-  "Ranking_Rating": 941,
+  "Ranking_Rating": 940,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 1090,
@@ -1445,10 +1445,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 226,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-07-18T14:00:19.0057975+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 227,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 226,
+  "NumberOfAwards": 227,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1492,7 +1498,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1525,8 +1531,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-07-16T07:59:00.9501094+00:00",
+  "LastChanged": "2024-07-18T14:00:19.0057973+00:00",
   "LastUpdate_AppInfo": "2024-07-18T05:57:11.3313949+00:00",
-  "LastUpdate_Ratings": "2024-07-18T13:08:28.3317817+00:00",
+  "LastUpdate_Ratings": "2024-07-18T14:00:19.0057978+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:15.4419717+00:00"
 }

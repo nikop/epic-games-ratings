@@ -269,7 +269,7 @@ Completed: 61 (0.01%) (Ranked 488)
 | 2024-06-17 | 518,123 | 61 |
 ## Awards
 Max (Great for Quick Sessions): 108  (Ranked 427)  
-Sum: 745 (Ranked 346)  
+Sum: 746 (Ranked 346)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -282,7 +282,7 @@ Diff (max vs sum): 81
 | This game has Challenging Combat | 64 |
 | This game has a Competitive Community | 59 |
 | This game has Amazing Characters | 57 |
-| This game has Competitive Players | 55 |
+| This game has Competitive Players | 56 |
 | This game is Great for Beginners | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -496,3 +496,4 @@ Diff (max vs sum): 81
 | 2024-07-15 | 4.61 | - | 107 | 741 |
 | 2024-07-16 | 4.61 | - | 107 | 743 |
 | 2024-07-17 | 4.61 | - | 108 | 745 |
+| 2024-07-18 | 4.61 | - | 108 | 746 |
