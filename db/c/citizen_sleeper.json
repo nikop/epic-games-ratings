@@ -2,7 +2,7 @@
   "ID": "e4ef0c8c500a41eaa57c53d32410595d",
   "Name": "Citizen Sleeper",
   "ProductSlug": "citizen-sleeper-944858",
-  "Ranking_Rating": 76,
+  "Ranking_Rating": 75,
   "Ranking_Popularity": 669,
   "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 1090,
@@ -202,6 +202,6 @@
   "FirstSeen": "2022-07-22T20:29:38.6644605+00:00",
   "LastChanged": "2024-06-11T03:57:30.5573119+00:00",
   "LastUpdate_AppInfo": "2024-07-14T13:26:30.6311632+00:00",
-  "LastUpdate_Ratings": "2024-07-18T20:59:35.1216824+00:00",
+  "LastUpdate_Ratings": "2024-07-18T22:59:00.324365+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:22.5954493+00:00"
 }
