@@ -328,12 +328,12 @@ Completed: 56,614 (0.14%) (Ranked 377)
 | 2024-04-10 | 38,962,798 | 54,623 |
 | 2024-06-17 | 39,791,726 | 56,614 |
 ## Awards
-Max (Great for Beginners): 162,120  (Ranked 8)  
-Sum: 1,446,007 (Ranked 5)  
+Max (Great for Beginners): 162,172  (Ranked 8)  
+Sum: 1,446,077 (Ranked 5)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 162,120 |
+| This game is Great for Beginners | 162,172 |
 | This game is Great for Quick Sessions | 142,815 |
 | This game is Relaxing | 140,908 |
 | This game has Competitive Players | 138,440 |
@@ -342,7 +342,7 @@ Diff (max vs sum): 3
 | This game is Extremely Fun | 126,753 |
 | This game is Highly Recommended | 121,346 |
 | This game has Amazing Characters | 117,689 |
-| This game has Amazing Storytelling | 111,533 |
+| This game has Amazing Storytelling | 111,551 |
 | This game has Playful Visuals | 108,799 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -887,4 +887,4 @@ Diff (max vs sum): 3
 | 2024-07-15 | 4.50 | - | 162,044 | 1,445,401 |
 | 2024-07-16 | 4.50 | - | 162,083 | 1,445,642 |
 | 2024-07-17 | 4.50 | - | 162,120 | 1,445,875 |
-| 2024-07-18 | 4.50 | - | 162,120 | 1,446,007 |
+| 2024-07-18 | 4.50 | - | 162,172 | 1,446,077 |
