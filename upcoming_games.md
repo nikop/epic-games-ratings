@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-07-18 | - |  | - | 0 |
 | [RiichiCity](games/e/e0ee479e91da4abeb526cdfd2210d7dc.md) | 2024-07-19 | - |  | - | - |
 | [Hero of the Kingdom](games/1/17fd3ea945ad482190387b6b55b42633.md) | 2024-07-19 | - |  | - | - |
 | [Adventure Forest: Rabbit Story](games/2/24300a7a071a4b6f9c0ad1b2dbc6883b.md) | 2024-07-19 | - |  | - | - |
@@ -151,6 +150,7 @@
 | [Cornucopia](games/4/4b2f856e9ffe4b1a82c3633e51c29371.md) | 2024-12-31 | - |  | - | - |
 | [Corsairs - Battle of the Caribbean](games/7/776f36c1d52a4124bbf9c07b48e6cf1f.md) | 2024-12-31 | - |  | - | - |
 | [Crime 1997](games/2/2ced7203e2f548c5b31cec8739d2a5ca.md) | 2024-12-31 | - |  | - | - |
+| [CRISIS Command](games/4/453d65c8f12b4acaa2512031bc1d9ca6.md) | 2024-12-31 | - |  | - | - |
 | [Damn Zombies](games/d/damn_zombies.md) | 2024-12-31 | - |  | - | - |
 | [Dark Life Excalibur](games/1/136c658efed64efebf3008544fee972b.md) | 2024-12-31 | - |  | - | - |
 | [Dawn Apart](games/d/dawn_apart.md) | 2024-12-31 | - |  | - | - |
