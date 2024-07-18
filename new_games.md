@@ -6,7 +6,7 @@
 | [Horticular](games/8/879e77acc01b49b1a135ddebcceec32c.md) | 2024-07-17 | - |  | - | - |
 | [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 0 | - | - |
 | [Aerial_Knight's We Never Yield](games/6/60d72468c4794f428a3276cc10e8610b.md) | 2024-07-16 | - |  | - | - |
-| [Tiny Witch](games/6/6c215e03a0894bc0acf2ed206f2f2e89.md) | 2024-07-16 | - |  | - | - |
+| [Tiny Witch](games/6/6c215e03a0894bc0acf2ed206f2f2e89.md) | 2024-07-16 | - |  | - | 0 |
 | [Megapolis](games/b/bb41e07f50464edb958e13c6531fe78c.md) | 2024-07-15 | - |  | - | 0 |
 | [Touch the Color](games/a/adc4991d2edb4cdf80d47822d9149169.md) | 2024-07-15 | - |  | - | - |
 | [Dragon Chronicles: Black Tears](games/6/6ed45680bbff4a6993b7ccebe02a1f9d.md) | 2024-07-15 | - |  | - | 0 |
