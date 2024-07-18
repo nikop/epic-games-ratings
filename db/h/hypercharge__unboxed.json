@@ -2,7 +2,7 @@
   "ID": "a8e307d10c8c4940886205582b00a17a",
   "Name": "HYPERCHARGE: Unboxed",
   "ProductSlug": "hypercharge-unboxed",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 669,
   "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 1090,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 20,
   "RatingHistory": [
     {
@@ -89,6 +89,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-18T02:59:00.176674+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -107,8 +113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.1619996+00:00",
   "FirstSeenRating": "2022-09-09T22:01:31.3463712+00:00",
-  "LastChanged": "2024-05-01T18:58:26.3337607+00:00",
+  "LastChanged": "2024-07-18T02:59:00.1766739+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:57:41.4498287+00:00",
-  "LastUpdate_Ratings": "2024-07-18T00:01:04.5385042+00:00",
+  "LastUpdate_Ratings": "2024-07-18T02:59:00.1766744+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:53.5848011+00:00"
 }
