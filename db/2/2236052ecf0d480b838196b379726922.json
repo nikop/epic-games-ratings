@@ -2,7 +2,7 @@
   "ID": "2236052ecf0d480b838196b379726922",
   "Name": "OverTrip",
   "ProductSlug": "overtrip-79b8b0",
-  "Ranking_Rating": 659,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 669,
   "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 1090,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2024-07-16T20:58:34.8152523+00:00",
@@ -40,6 +40,12 @@
     {
       "Time": "2024-07-17T13:05:56.5338801+00:00",
       "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-18T03:59:47.6212052+00:00",
+      "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -60,8 +66,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-10T18:58:07.3074335+00:00",
   "FirstSeenRating": "2024-07-16T20:58:34.8152521+00:00",
-  "LastChanged": "2024-07-17T13:05:56.5338799+00:00",
+  "LastChanged": "2024-07-18T03:59:47.621205+00:00",
   "LastUpdate_AppInfo": "2024-07-15T10:57:18.4673379+00:00",
-  "LastUpdate_Ratings": "2024-07-18T02:57:32.4894348+00:00",
+  "LastUpdate_Ratings": "2024-07-18T03:59:47.6212056+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:13.1167824+00:00"
 }

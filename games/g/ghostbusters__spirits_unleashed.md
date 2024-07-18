@@ -347,7 +347,7 @@ Completed: 78 (0.21%) (Ranked 350)
 | 2024-06-17 | 37,961 | 78 |
 ## Awards
 Max (Great for Quick Sessions): 386  (Ranked 277)  
-Sum: 3,424 (Ranked 197)  
+Sum: 3,425 (Ranked 197)  
 Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
@@ -360,7 +360,7 @@ Diff (max vs sum): 80
 | This game is Relaxing | 326 |
 | This game has Competitive Players | 325 |
 | This game has Amazing Characters | 321 |
-| This game has Quickly Understood Controls | 312 |
+| This game has Quickly Understood Controls | 313 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -779,3 +779,4 @@ Diff (max vs sum): 80
 | 2024-07-14 | 4.52 | 386 | 3,417 |
 | 2024-07-15 | 4.52 | 386 | 3,422 |
 | 2024-07-17 | 4.52 | 386 | 3,424 |
+| 2024-07-18 | 4.52 | 386 | 3,425 |

@@ -2,7 +2,7 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 811,
+  "Ranking_Rating": 810,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 258,
@@ -2793,10 +2793,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 697,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2024-07-18T03:59:43.2688243+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 698,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 697,
+  "NumberOfAwards": 698,
   "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2828,7 +2834,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7468,9 +7474,9 @@
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2024-07-16T23:59:09.1920411+00:00",
+  "LastChanged": "2024-07-18T03:59:43.2688241+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:21.8490178+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:11.0504069+00:00",
-  "LastUpdate_Ratings": "2024-07-18T02:57:27.5434771+00:00",
+  "LastUpdate_Ratings": "2024-07-18T03:59:43.2688246+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:21.8490581+00:00"
 }
