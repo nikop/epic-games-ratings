@@ -4,7 +4,7 @@
   "ProductSlug": "northgard",
   "Ranking_Rating": 404,
   "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 461,
+  "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -943,10 +943,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 268,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-07-17T23:59:06.9359116+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 268,
+  "NumberOfAwards": 269,
   "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -990,7 +996,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Competitive Players",
@@ -1016,8 +1022,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2024-07-17T20:57:44.9033306+00:00",
+  "LastChanged": "2024-07-17T23:59:06.9359114+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:13.7548128+00:00",
-  "LastUpdate_Ratings": "2024-07-17T22:00:56.9187758+00:00",
+  "LastUpdate_Ratings": "2024-07-17T23:59:06.9359119+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:24.9684786+00:00"
 }
