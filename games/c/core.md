@@ -1,12 +1,12 @@
 # Core
 [Store](https://store.epicgames.com/en-US/p/core)  
 [View Rawdata](../../db/c/core.json)  
-Rating: 4.34 (Ranked 927)  
+Rating: 4.34 (Ranked 928)  
 Number of Ratings: 1,439  (23.09.2022)  
 ## Awards
 Max (Character Customization): 818  (Ranked 206)  
-Sum: 2,289 (Ranked 234)  
-Diff (max vs sum): -28  
+Sum: 2,289 (Ranked 235)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 818 |
