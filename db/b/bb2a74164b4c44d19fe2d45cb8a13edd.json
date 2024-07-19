@@ -2,7 +2,7 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 885,
+  "Ranking_Rating": 875,
   "Ranking_Popularity": 669,
   "Ranking_PopularitySum": 669,
   "Ranking_EOS_Progress": 1090,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2024-07-11T18:57:10.0452281+00:00",
@@ -264,6 +264,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-19T16:59:48.5377997+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -282,8 +288,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-07-19T12:00:16.217513+00:00",
+  "LastChanged": "2024-07-19T16:59:48.5377975+00:00",
   "LastUpdate_AppInfo": "2024-07-18T01:54:57.7554386+00:00",
-  "LastUpdate_Ratings": "2024-07-19T15:58:26.6080986+00:00",
+  "LastUpdate_Ratings": "2024-07-19T16:59:48.5378002+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.1043605+00:00"
 }

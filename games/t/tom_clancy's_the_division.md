@@ -1,12 +1,12 @@
 # Tom Clancy's The Division
 [Store](https://store.epicgames.com/en-US/p/the-division)  
 [View Rawdata](../../db/t/tom_clancy's_the_division.json)  
-Rating: 4.59 (Ranked 477)  
+Rating: 4.59 (Ranked 478)  
 Number of Ratings: 247  (23.09.2022)  
 ## Awards
 Max (Character Customization): 578  (Ranked 238)  
-Sum: 1,700 (Ranked 264)  
-Diff (max vs sum): -26  
+Sum: 1,701 (Ranked 263)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 578 |
@@ -18,8 +18,8 @@ Diff (max vs sum): -26
 | This game has Challenging Combat | 71 |
 | This game has Amazing Characters | 65 |
 | This game is Extremely Fun | 62 |
+| This game has Quickly Understood Controls | 62 |
 | This game has Competitive Players | 61 |
-| This game has Quickly Understood Controls | 61 |
 | This game has Diverse Characters | 58 |
 | This game has a Competitive Community | 44 |
 | This game has Realistic Visuals | 22 |
@@ -491,4 +491,4 @@ Diff (max vs sum): -26
 | 2024-07-15 | 4.59 | - | 578 | 1,694 |
 | 2024-07-16 | 4.59 | - | 578 | 1,698 |
 | 2024-07-17 | 4.59 | - | 578 | 1,699 |
-| 2024-07-19 | 4.59 | - | 578 | 1,700 |
+| 2024-07-19 | 4.59 | - | 578 | 1,701 |
