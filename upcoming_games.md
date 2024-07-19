@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-19 | - |  | - | - |
 | [RiichiCity](games/e/e0ee479e91da4abeb526cdfd2210d7dc.md) | 2024-07-19 | - |  | - | - |
 | [Hero of the Kingdom](games/1/17fd3ea945ad482190387b6b55b42633.md) | 2024-07-19 | - |  | - | - |
 | [Adventure Forest: Rabbit Story](games/2/24300a7a071a4b6f9c0ad1b2dbc6883b.md) | 2024-07-19 | - |  | - | - |
