@@ -4,11 +4,12 @@
 Rating: 4.55 (Ranked 561)  
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 660)  
-Sum: 20 (Ranked 660)  
-Diff (max vs sum): 0  
+Sum: 40 (Ranked 611)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 20 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -69,3 +70,4 @@ Diff (max vs sum): 0
 | 2024-03-20 | 4.56 | 0 | 0 |
 | 2024-05-19 | 4.56 | 20 | 20 |
 | 2024-06-07 | 4.55 | 20 | 20 |
+| 2024-07-18 | 4.55 | 20 | 40 |

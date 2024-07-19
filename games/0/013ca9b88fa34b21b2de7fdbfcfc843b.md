@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.62 (Ranked 405)  
+Rating: 4.62 (Ranked 406)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -211,8 +211,8 @@ Completed: 3 (0.03%) (Ranked 449)
 | 2024-06-17 | 10,761 | 3 |
 ## Awards
 Max (Character Customization): 32  (Ranked 593)  
-Sum: 32 (Ranked 626)  
-Diff (max vs sum): -33  
+Sum: 32 (Ranked 627)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 32 |

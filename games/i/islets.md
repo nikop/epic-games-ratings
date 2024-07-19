@@ -4,8 +4,8 @@
 Rating: 4.72 (Ranked 208)  
 ## Awards
 Max (Extremely Fun): 42  (Ranked 552)  
-Sum: 289 (Ranked 449)  
-Diff (max vs sum): 103  
+Sum: 289 (Ranked 450)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 42 |
