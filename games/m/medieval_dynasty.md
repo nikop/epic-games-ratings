@@ -5,8 +5,8 @@ Rating: 4.65 (Ranked 333)
 Number of Ratings: 722  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 63  (Ranked 502)  
-Sum: 432 (Ranked 402)  
-Diff (max vs sum): 100  
+Sum: 432 (Ranked 403)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 63 |

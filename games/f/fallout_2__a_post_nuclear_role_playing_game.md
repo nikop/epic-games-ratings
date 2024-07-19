@@ -4,7 +4,7 @@
 Rating: 4.69 (Ranked 259)  
 ## Awards
 Max (Character Customization): 292  (Ranked 302)  
-Sum: 518 (Ranked 385)  
+Sum: 519 (Ranked 385)  
 Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): -83
 | This game has Unique Visuals | 30 |
 | This game has Diverse Characters | 28 |
 | This game has Quickly Understood Controls | 27 |
-| This game is Highly Recommended | 23 |
+| This game is Highly Recommended | 24 |
 | This game has Challenging Combat | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -250,3 +250,4 @@ Diff (max vs sum): -83
 | 2024-07-14 | 4.69 | 289 | 515 |
 | 2024-07-15 | 4.69 | 291 | 517 |
 | 2024-07-16 | 4.69 | 292 | 518 |
+| 2024-07-19 | 4.69 | 292 | 519 |
