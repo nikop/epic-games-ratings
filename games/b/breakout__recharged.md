@@ -1,6 +1,7 @@
 # Breakout: Recharged
 [Store](https://store.epicgames.com/en-US/p/breakout-recharged)  
 [View Rawdata](../../db/b/breakout__recharged.json)  
+Rating: 4.25 (Ranked 1,024)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -97,3 +98,4 @@ Completed: 10 (0.08%) (Ranked 411)
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
+| 2024-07-19 | 4.25 | 0 | 0 |
