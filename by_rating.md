@@ -287,7 +287,7 @@
 | 284 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,992 | 92 |
 | 284 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 828 | 204 |
 | 284 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,787 | 94 |
-| 284 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,267 | 52 |
+| 284 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,284 | 52 |
 | 284 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 14,458 | 37 |
 | 284 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,996 | 56 |
 | 284 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 407,482 | 3 |
@@ -350,7 +350,7 @@
 | 335 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 670 |
 | 335 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.65 | 0 | 670 |
 | 335 | [Last Day of June](games/l/last_day_of_june.md) | 4.65 | 0 | 670 |
-| 335 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 258 | 314 |
+| 335 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 259 | 314 |
 | 335 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 63 | 502 |
 | 335 | [Old World](games/o/old_world.md) | 4.65 | 256 | 316 |
 | 335 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,235 | 165 |
@@ -545,7 +545,7 @@
 | 540 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 54 | 525 |
 | 540 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.56 | 2,387 | 123 |
 | 540 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 119 | 410 |
-| 540 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 554 | 244 |
+| 540 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 557 | 244 |
 | 540 | [Homeworld Remastered Collection](games/4/4311a0ee99724086b1a4f261b827d038.md) | 4.56 | 50 | 534 |
 | 540 | [Horace](games/h/horace.md) | 4.56 | 0 | 670 |
 | 540 | [Little Inferno](games/l/little_inferno.md) | 4.56 | 0 | 670 |
@@ -620,7 +620,7 @@
 | 608 | [RUINER](games/r/ruiner.md) | 4.53 | 27 | 621 |
 | 608 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 670 |
 | 608 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 106 | 430 |
-| 608 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,258 | 163 |
+| 608 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,261 | 163 |
 | 608 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 670 |
 | 608 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 429 | 268 |
 | 608 | [Verdun](games/v/verdun.md) | 4.53 | 118 | 412 |
@@ -1032,25 +1032,25 @@
 | 1,026 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.25 | 0 | 670 |
 | 1,026 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 670 |
 | 1,026 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 670 |
+| 1,026 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.25 | 0 | 670 |
 | 1,026 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 629 |
-| 1,034 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 670 |
-| 1,034 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 584 |
-| 1,034 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.24 | 22 | 647 |
-| 1,034 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 670 |
-| 1,034 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.24 | 0 | 670 |
-| 1,034 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.24 | 128 | 403 |
-| 1,034 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 670 |
-| 1,034 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,288 | 162 |
-| 1,034 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,053 | 181 |
-| 1,034 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.24 | 0 | 670 |
-| 1,034 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 670 |
-| 1,034 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 670 |
-| 1,034 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 47 | 540 |
-| 1,034 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.24 | 0 | 670 |
-| 1,034 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.24 | 192 | 351 |
-| 1,034 | [The Fall](games/t/the_fall.md) | 4.24 | 0 | 670 |
-| 1,034 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.24 | 20 | 660 |
-| 1,034 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.24 | 0 | 670 |
+| 1,035 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 670 |
+| 1,035 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 584 |
+| 1,035 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.24 | 22 | 647 |
+| 1,035 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 670 |
+| 1,035 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.24 | 0 | 670 |
+| 1,035 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.24 | 128 | 403 |
+| 1,035 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.24 | 0 | 670 |
+| 1,035 | [EVE Online](games/e/eve_online.md) | 4.24 | 1,288 | 162 |
+| 1,035 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,053 | 181 |
+| 1,035 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.24 | 0 | 670 |
+| 1,035 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 670 |
+| 1,035 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 670 |
+| 1,035 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 47 | 540 |
+| 1,035 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.24 | 0 | 670 |
+| 1,035 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 4.24 | 192 | 351 |
+| 1,035 | [The Fall](games/t/the_fall.md) | 4.24 | 0 | 670 |
+| 1,035 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 4.24 | 20 | 660 |
 | 1,052 | [Circus Electrique](games/c/circus_electrique.md) | 4.23 | 0 | 670 |
 | 1,052 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 188 |
 | 1,052 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 4.23 | 0 | 670 |
@@ -1147,12 +1147,12 @@
 | 1,138 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.09 | 0 | 670 |
 | 1,146 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 147 | 384 |
 | 1,146 | [Gravewood High](games/g/gravewood_high.md) | 4.08 | 0 | 670 |
+| 1,146 | [Homeworld 3](games/h/homeworld_3.md) | 4.08 | 0 | 670 |
 | 1,146 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 184 | 360 |
 | 1,146 | [Obduction](games/o/obduction.md) | 4.08 | 63 | 502 |
 | 1,146 | [Patron](games/p/patron.md) | 4.08 | 0 | 670 |
-| 1,151 | [Homeworld 3](games/h/homeworld_3.md) | 4.07 | 0 | 670 |
-| 1,151 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 503 | 252 |
-| 1,151 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 670 |
+| 1,152 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 503 | 252 |
+| 1,152 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 670 |
 | 1,154 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 670 |
 | 1,154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 6,342 | 80 |
 | 1,154 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.06 | 0 | 670 |
@@ -1166,7 +1166,7 @@
 | 1,164 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.03 | 0 | 670 |
 | 1,164 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 670 |
 | 1,166 | [Armored Warfare](games/a/armored_warfare.md) | 4.02 | 136 | 394 |
-| 1,167 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,888 | 48 |
+| 1,167 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,899 | 47 |
 | 1,167 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,264 | 88 |
 | 1,169 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 4.00 | 0 | 670 |
 | 1,169 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 4.00 | 0 | 670 |
