@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1173,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 169,
+  "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 424,
   "Ranking_EOS_NewPlayers": 18,
@@ -8425,10 +8425,16 @@
       "Rating": 3.98,
       "NumberOfAwards": 4802,
       "NumberOfAwardsMax": 853
+    },
+    {
+      "Time": "2024-07-19T07:57:09.858155+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 4803,
+      "NumberOfAwardsMax": 853
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 4802,
+  "NumberOfAwards": 4803,
   "NumberOfAwardsMax": 853,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8454,7 +8460,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 788
+      "Count": 789
     },
     {
       "Text": "This game has Challenging Combat",
@@ -35353,9 +35359,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-07-19T05:59:04.9967985+00:00",
+  "LastChanged": "2024-07-19T07:57:09.8581548+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:04.1257193+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:26.855094+00:00",
-  "LastUpdate_Ratings": "2024-07-19T05:59:04.9967995+00:00",
+  "LastUpdate_Ratings": "2024-07-19T07:57:09.8581554+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:04.1258778+00:00"
 }
