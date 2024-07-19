@@ -82,21 +82,21 @@
 | 76 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.82 | 0 | 669 |
 | 76 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 669 |
 | 76 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,236 | 126 |
+| 76 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.82 | 0 | 669 |
 | 76 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 4.82 | 66 | 496 |
 | 76 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.82 | 384 | 279 |
 | 76 | [Sifu](games/s/sifu.md) | 4.82 | 8,066 | 66 |
 | 76 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 552 | 245 |
 | 76 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 464 |
 | 76 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 105 | 431 |
-| 89 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 1,253 | 164 |
-| 89 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,630 | 118 |
-| 89 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 669 |
-| 89 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.81 | 0 | 669 |
-| 89 | [Lost Ruins](games/l/lost_ruins.md) | 4.81 | 0 | 669 |
-| 89 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.81 | 0 | 669 |
-| 89 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 669 |
-| 89 | [The Messenger](games/t/the_messenger.md) | 4.81 | 376 | 281 |
-| 89 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 669 |
+| 90 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 1,253 | 164 |
+| 90 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,630 | 118 |
+| 90 | [Huntdown](games/h/huntdown.md) | 4.81 | 0 | 669 |
+| 90 | [Lost Ruins](games/l/lost_ruins.md) | 4.81 | 0 | 669 |
+| 90 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.81 | 0 | 669 |
+| 90 | [Superliminal](games/s/superliminal.md) | 4.81 | 0 | 669 |
+| 90 | [The Messenger](games/t/the_messenger.md) | 4.81 | 376 | 281 |
+| 90 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 669 |
 | 98 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.80 | 1,873 | 139 |
 | 98 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,571 | 75 |
 | 98 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 478 | 255 |
@@ -112,7 +112,7 @@
 | 105 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.79 | 769 | 215 |
 | 105 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 187 | 356 |
 | 105 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 642 |
-| 105 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,854 | 142 |
+| 105 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,858 | 142 |
 | 105 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 1,011 | 187 |
 | 105 | [Melatonin](games/m/melatonin.md) | 4.79 | 0 | 669 |
 | 105 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 2,992 | 113 |
@@ -180,7 +180,7 @@
 | 173 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 1,037 | 183 |
 | 173 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,842 | 57 |
 | 173 | [Outlast](games/o/outlast.md) | 4.74 | 34 | 583 |
-| 173 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,162 | 171 |
+| 173 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,164 | 171 |
 | 173 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 669 |
 | 173 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 57,496 | 14 |
 | 173 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 209 | 340 |
@@ -285,7 +285,7 @@
 | 283 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.68 | 0 | 669 |
 | 283 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,990 | 92 |
 | 283 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 828 | 204 |
-| 283 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,784 | 94 |
+| 283 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,787 | 94 |
 | 283 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,267 | 52 |
 | 283 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 14,423 | 37 |
 | 283 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,990 | 56 |
@@ -557,7 +557,7 @@
 | 539 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.56 | 34 | 583 |
 | 539 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.56 | 1,813 | 144 |
 | 539 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 251 | 320 |
-| 539 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,425 | 77 |
+| 539 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,427 | 77 |
 | 539 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.56 | 26 | 629 |
 | 560 | [Among Us](games/a/among_us.md) | 4.55 | 3,569 | 108 |
 | 560 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 400 | 275 |
@@ -770,7 +770,7 @@
 | 766 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 81,967 | 11 |
 | 766 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 360 | 285 |
 | 766 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.44 | 122 | 409 |
-| 766 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,943 | 32 |
+| 766 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 15,948 | 32 |
 | 766 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.44 | 20 | 660 |
 | 766 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 8,969 | 60 |
 | 766 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 150 | 382 |
