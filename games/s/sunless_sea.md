@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.59 (Ranked 477)  
+Rating: 4.60 (Ranked 453)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -510,3 +510,4 @@ Diff (max vs sum): -80
 | 2024-06-30 | 4.59 | - | 235 | 406 |
 | 2024-07-03 | 4.59 | - | 236 | 408 |
 | 2024-07-17 | 4.59 | - | 237 | 409 |
+| 2024-07-19 | 4.60 | - | 237 | 409 |
