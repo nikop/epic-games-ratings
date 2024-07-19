@@ -1,7 +1,7 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.36 (Ranked 895)  
+Rating: 4.36 (Ranked 896)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -332,17 +332,17 @@ Completed: 110 (0.01%) (Ranked 488)
 | 2024-06-17 | 1,646,920 | 110 |
 | 2024-06-26 | 1,648,877 | 110 |
 ## Awards
-Max (Diverse Characters): 1,938  (Ranked 136)  
-Sum: 8,873 (Ranked 127)  
+Max (Diverse Characters): 1,942  (Ranked 136)  
+Sum: 8,878 (Ranked 127)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 1,938 |
+| This game has Diverse Characters | 1,942 |
 | This game has Challenging Combat | 1,631 |
 | This game is Highly Recommended | 1,501 |
 | This game has Amazing Characters | 1,324 |
 | This game is Extremely Fun | 1,268 |
-| This game has Competitive Players | 1,211 |
+| This game has Competitive Players | 1,212 |
 | This game has Amazing Storytelling | 752 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
@@ -810,3 +810,4 @@ Diff (max vs sum): 9
 | 2024-07-16 | 4.36 | 1,937 | 8,853 |
 | 2024-07-17 | 4.36 | 1,937 | 8,864 |
 | 2024-07-18 | 4.36 | 1,938 | 8,873 |
+| 2024-07-19 | 4.36 | 1,942 | 8,878 |
