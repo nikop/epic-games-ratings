@@ -1,7 +1,7 @@
 # Alan Wake’s American Nightmare
 [Store](https://store.epicgames.com/en-US/p/alan-wake-american-nightmare)  
 [View Rawdata](../../db/a/alan_wake’s_american_nightmare.json)  
-Rating: 4.11 (Ranked 1,130)  
+Rating: 4.10 (Ranked 1,133)  
 Number of Ratings: 82  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -94,3 +94,4 @@ Number of Ratings: 82  (23.09.2022)
 | 2024-05-09 | 4.12 | - | 0 | 0 |
 | 2024-05-27 | 4.10 | - | 0 | 0 |
 | 2024-06-23 | 4.11 | - | 0 | 0 |
+| 2024-07-19 | 4.10 | - | 0 | 0 |
