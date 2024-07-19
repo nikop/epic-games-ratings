@@ -200,8 +200,8 @@ Completed: 16 (0.04%) (Ranked 440)
 | 2024-06-17 | 36,322 | 16 |
 ## Awards
 Max (Relaxing): 212  (Ranked 339)  
-Sum: 1,637 (Ranked 268)  
-Diff (max vs sum): 71  
+Sum: 1,767 (Ranked 258)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 212 |
@@ -212,7 +212,7 @@ Diff (max vs sum): 71
 | This game is Educational | 184 |
 | This game has Amazing Storytelling | 180 |
 | This game has Easy Combat | 131 |
-| This game has Amazing Characters | 128 |
+| This game has Amazing Characters | 130 |
 | This game has a Creative Community | 111 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -314,3 +314,4 @@ Diff (max vs sum): 71
 | 2024-06-27 | 4.35 | - | 210 | 1,634 |
 | 2024-07-07 | 4.35 | - | 211 | 1,636 |
 | 2024-07-13 | 4.35 | - | 212 | 1,637 |
+| 2024-07-19 | 4.35 | - | 212 | 1,767 |
