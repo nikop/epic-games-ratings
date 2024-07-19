@@ -65,7 +65,7 @@ Completed: 2 (0.06%) (Ranked 424)
 | 2024-06-17 | 3,434 | 2 |
 ## Awards
 Max (Great Boss Battles): 547  (Ranked 246)  
-Sum: 868 (Ranked 326)  
+Sum: 870 (Ranked 326)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
@@ -77,7 +77,7 @@ Diff (max vs sum): -80
 | This game is Extremely Fun | 39 |
 | This game has Quickly Understood Controls | 37 |
 | This game has Amazing Characters | 37 |
-| This game is Relaxing | 26 |
+| This game is Relaxing | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -178,4 +178,4 @@ Diff (max vs sum): -80
 | 2024-07-16 | 4.22 | 297 | 582 |
 | 2024-07-17 | 4.13 | 331 | 619 |
 | 2024-07-18 | 4.02 | 431 | 730 |
-| 2024-07-19 | 3.93 | 547 | 868 |
+| 2024-07-19 | 3.93 | 547 | 870 |

@@ -3,8 +3,8 @@
   "Name": "Genesis Alpha One Deluxe Edition",
   "ProductSlug": "genesis-alpha-one",
   "Ranking_Rating": 888,
-  "Ranking_Popularity": 669,
-  "Ranking_PopularitySum": 669,
+  "Ranking_Popularity": 670,
+  "Ranking_PopularitySum": 670,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -355,6 +355,6 @@
   "FirstSeen": "2022-07-22T20:19:52.5192552+00:00",
   "LastChanged": "2024-06-17T16:57:37.3853902+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:58:31.5352789+00:00",
-  "LastUpdate_Ratings": "2024-07-19T18:58:57.1150064+00:00",
+  "LastUpdate_Ratings": "2024-07-19T20:57:58.2096257+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:37.5806745+00:00"
 }
