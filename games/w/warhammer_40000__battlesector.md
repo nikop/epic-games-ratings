@@ -1,7 +1,7 @@
 # Warhammer 40,000: Battlesector
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-battlesector)  
 [View Rawdata](../../db/w/warhammer_40000__battlesector.json)  
-Rating: 4.63 (Ranked 383)  
+Rating: 4.64 (Ranked 363)  
 Number of Ratings: 40  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -43,3 +43,4 @@ Number of Ratings: 40  (23.09.2022)
 | 2024-05-28 | 4.66 | - | 0 | 0 |
 | 2024-06-04 | 4.67 | - | 0 | 0 |
 | 2024-07-14 | 4.63 | - | 0 | 0 |
+| 2024-07-19 | 4.64 | - | 0 | 0 |
