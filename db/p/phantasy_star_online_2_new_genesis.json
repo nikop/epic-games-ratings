@@ -2,7 +2,7 @@
   "ID": "bf333e6236914222a95a536389c05813",
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 1090,
@@ -7530,10 +7530,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 5024,
       "NumberOfAwardsMax": 1137
+    },
+    {
+      "Time": "2024-07-20T19:59:44.4751294+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 5026,
+      "NumberOfAwardsMax": 1137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5024,
+  "NumberOfAwards": 5026,
   "NumberOfAwardsMax": 1137,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7583,7 +7589,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 381
+      "Count": 383
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -7621,8 +7627,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-07-20T18:57:46.6335766+00:00",
+  "LastChanged": "2024-07-20T19:59:44.4751283+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:45.3879975+00:00",
-  "LastUpdate_Ratings": "2024-07-20T18:57:46.6335772+00:00",
+  "LastUpdate_Ratings": "2024-07-20T19:59:44.4751312+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:31.7949446+00:00"
 }
