@@ -2,7 +2,7 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 643,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 149,
@@ -13957,10 +13957,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 24874,
       "NumberOfAwardsMax": 13565
+    },
+    {
+      "Time": "2024-07-20T20:57:34.82579+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 24879,
+      "NumberOfAwardsMax": 13565
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24874,
+  "NumberOfAwards": 24879,
   "NumberOfAwardsMax": 13565,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -13980,7 +13986,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1375
+      "Count": 1376
     },
     {
       "Text": "This game is Relaxing",
@@ -13998,7 +14004,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1358
+      "Count": 1360
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14010,7 +14016,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1274
+      "Count": 1276
     },
     {
       "Text": "This game has Amazing Characters",
@@ -28907,9 +28913,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2024-07-20T17:01:13.8476025+00:00",
+  "LastChanged": "2024-07-20T20:57:34.8257898+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:27.4233218+00:00",
   "LastUpdate_AppInfo": "2024-07-14T13:26:33.2045831+00:00",
-  "LastUpdate_Ratings": "2024-07-20T18:59:21.6714112+00:00",
+  "LastUpdate_Ratings": "2024-07-20T20:57:34.8257904+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:27.4234228+00:00"
 }

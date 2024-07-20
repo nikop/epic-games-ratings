@@ -4369,10 +4369,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1675,
       "NumberOfAwardsMax": 240
+    },
+    {
+      "Time": "2024-07-20T20:57:00.6918871+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1676,
+      "NumberOfAwardsMax": 240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1675,
+  "NumberOfAwards": 1676,
   "NumberOfAwardsMax": 240,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -4416,7 +4422,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game has Unique Visuals",
@@ -16287,9 +16293,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-07-20T13:58:55.1474428+00:00",
+  "LastChanged": "2024-07-20T20:57:00.6918869+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:53.893111+00:00",
   "LastUpdate_AppInfo": "2024-07-18T22:57:16.7021358+00:00",
-  "LastUpdate_Ratings": "2024-07-20T18:58:36.4081094+00:00",
+  "LastUpdate_Ratings": "2024-07-20T20:57:00.6918875+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:53.8931866+00:00"
 }
