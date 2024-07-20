@@ -2,7 +2,7 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 716,
+  "Ranking_Rating": 698,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 1090,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2024-07-03T05:57:28.5370943+00:00",
@@ -587,6 +587,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 3372,
       "NumberOfAwardsMax": 2098
+    },
+    {
+      "Time": "2024-07-20T22:57:22.4583884+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 3372,
+      "NumberOfAwardsMax": 2098
     }
   ],
   "ReviewsDisabled": false,
@@ -679,8 +685,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-07-20T20:58:54.4240175+00:00",
+  "LastChanged": "2024-07-20T22:57:22.4583882+00:00",
   "LastUpdate_AppInfo": "2024-07-15T22:56:57.4125148+00:00",
-  "LastUpdate_Ratings": "2024-07-20T20:58:54.4240179+00:00",
+  "LastUpdate_Ratings": "2024-07-20T22:57:22.4583888+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:07.2551306+00:00"
 }
