@@ -30,7 +30,7 @@
 | 19 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.87 | 0 | 671 |
 | 19 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.87 | 0 | 671 |
 | 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 53 | 528 |
-| 30 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,823 | 144 |
+| 30 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.86 | 1,826 | 144 |
 | 30 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 62 | 505 |
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 179 | 363 |
 | 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,070 | 134 |
@@ -196,6 +196,7 @@
 | 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 671 |
 | 192 | [Diabotical](games/d/diabotical.md) | 4.73 | 321 | 293 |
 | 192 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 671 |
+| 192 | [Haven](games/h/haven.md) | 4.73 | 0 | 671 |
 | 192 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 4.73 | 0 | 671 |
 | 192 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 160 | 375 |
 | 192 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.73 | 0 | 671 |
@@ -207,18 +208,17 @@
 | 192 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.73 | 0 | 671 |
 | 192 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 671 |
 | 192 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.73 | 0 | 671 |
-| 208 | [FUSER™](games/f/fuser™.md) | 4.72 | 36 | 573 |
-| 208 | [Haven](games/h/haven.md) | 4.72 | 0 | 671 |
-| 208 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 57,303 | 15 |
-| 208 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.72 | 0 | 671 |
-| 208 | [Islets](games/i/islets.md) | 4.72 | 42 | 553 |
-| 208 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.72 | 0 | 671 |
-| 208 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 0 | 671 |
-| 208 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 671 |
-| 208 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 414 | 271 |
-| 208 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 0 | 671 |
-| 208 | [The Machines Arena](games/t/the_machines_arena.md) | 4.72 | 34 | 584 |
-| 208 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 671 |
+| 209 | [FUSER™](games/f/fuser™.md) | 4.72 | 36 | 573 |
+| 209 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.72 | 57,303 | 15 |
+| 209 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.72 | 0 | 671 |
+| 209 | [Islets](games/i/islets.md) | 4.72 | 42 | 553 |
+| 209 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.72 | 0 | 671 |
+| 209 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 0 | 671 |
+| 209 | [Slipways](games/s/slipways.md) | 4.72 | 0 | 671 |
+| 209 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 414 | 271 |
+| 209 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.72 | 0 | 671 |
+| 209 | [The Machines Arena](games/t/the_machines_arena.md) | 4.72 | 34 | 584 |
+| 209 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 671 |
 | 220 | [Dead Space](games/d/dead_space.md) | 4.71 | 491 | 254 |
 | 220 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 734 | 218 |
 | 220 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 726 | 221 |
@@ -375,7 +375,7 @@
 | 361 | [Outlast 2](games/o/outlast_2.md) | 4.64 | 0 | 671 |
 | 361 | [RIDE 5](games/r/ride_5.md) | 4.64 | 0 | 671 |
 | 361 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.64 | 30,467 | 20 |
-| 361 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,402 | 153 |
+| 361 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.64 | 1,406 | 153 |
 | 361 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.64 | 0 | 671 |
 | 361 | [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 4.64 | 0 | 671 |
 | 361 | [Trackmania Starter Access](games/t/trackmania.md) | 4.64 | 5,079 | 91 |
@@ -397,7 +397,7 @@
 | 383 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.63 | 90 | 455 |
 | 383 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 200 | 348 |
 | 383 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 781 | 213 |
-| 383 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,714 | 96 |
+| 383 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,717 | 96 |
 | 383 | [Northgard](games/n/northgard.md) | 4.63 | 59 | 511 |
 | 383 | [Pacific Drive](games/p/pacific_drive.md) | 4.63 | 0 | 671 |
 | 383 | [Prey](games/p/prey.md) | 4.63 | 6,107 | 84 |
