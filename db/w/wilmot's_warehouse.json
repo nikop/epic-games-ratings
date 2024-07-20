@@ -2,7 +2,7 @@
   "ID": "f697ab7aa6af41f880e1489818e2720d",
   "Name": "Wilmot\u0027s Warehouse",
   "ProductSlug": "wilmots-warehouse",
-  "Ranking_Rating": 361,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 671,
   "Ranking_PopularitySum": 671,
   "Ranking_EOS_Progress": 1090,
@@ -382,6 +382,6 @@
   "FirstSeen": "2022-07-22T20:30:20.1616591+00:00",
   "LastChanged": "2024-06-27T20:59:18.2335886+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:57:51.0752178+00:00",
-  "LastUpdate_Ratings": "2024-07-20T16:58:53.0947064+00:00",
+  "LastUpdate_Ratings": "2024-07-20T18:00:29.9362045+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:04:59.2599645+00:00"
 }

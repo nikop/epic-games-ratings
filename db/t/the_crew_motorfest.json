@@ -2,9 +2,9 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 361,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 113,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -10005,10 +10005,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 10425,
       "NumberOfAwardsMax": 1406
+    },
+    {
+      "Time": "2024-07-20T17:59:08.3795997+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 10434,
+      "NumberOfAwardsMax": 1406
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10425,
+  "NumberOfAwards": 10434,
   "NumberOfAwardsMax": 1406,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10052,7 +10058,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1171
+      "Count": 1175
     },
     {
       "Text": "This game has Competitive Players",
@@ -10064,7 +10070,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1335
+      "Count": 1340
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -10091,8 +10097,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2024-07-20T14:57:45.9111638+00:00",
+  "LastChanged": "2024-07-20T17:59:08.3795995+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:19.5677125+00:00",
-  "LastUpdate_Ratings": "2024-07-20T15:59:55.5693387+00:00",
+  "LastUpdate_Ratings": "2024-07-20T17:59:08.3796+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:12.1543004+00:00"
 }
