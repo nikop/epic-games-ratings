@@ -3,7 +3,7 @@
   "Name": "Totally Accurate Battle Simulator",
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 173,
-  "Ranking_Popularity": 241,
+  "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
@@ -7850,10 +7850,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 4275,
       "NumberOfAwardsMax": 566
+    },
+    {
+      "Time": "2024-07-20T18:57:48.7111676+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4276,
+      "NumberOfAwardsMax": 566
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4275,
+  "NumberOfAwards": 4276,
   "NumberOfAwardsMax": 566,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7861,7 +7867,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 385
+      "Count": 386
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7953,8 +7959,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2024-07-20T16:59:41.062547+00:00",
+  "LastChanged": "2024-07-20T18:57:48.7111674+00:00",
   "LastUpdate_AppInfo": "2024-07-14T23:57:04.0708736+00:00",
-  "LastUpdate_Ratings": "2024-07-20T16:59:41.0625476+00:00",
+  "LastUpdate_Ratings": "2024-07-20T18:57:48.711168+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:45.7983701+00:00"
 }

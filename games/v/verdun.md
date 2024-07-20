@@ -356,8 +356,8 @@ Completed: 1 (0.00%) (Ranked 512)
 | 2024-06-17 | 79,337 | 1 |
 ## Awards
 Max (Highly Recommended): 118  (Ranked 413)  
-Sum: 950 (Ranked 312)  
-Diff (max vs sum): 101  
+Sum: 950 (Ranked 313)  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 118 |
