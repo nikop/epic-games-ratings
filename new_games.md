@@ -55,7 +55,7 @@
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | - |  | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | - |  | - | - |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | - |  | - | - |
-| [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 2024-07-02 | - |  | 4.25 | 0 |
+| [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 2024-07-02 | - |  | 4.26 | 0 |
 | [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | - |  | 4.83 | 0 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | - |  | - | - |
 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-02 | - |  | 4.47 | 1,911 |
@@ -118,4 +118,3 @@
 | [Everafter Falls](games/b/bb5dabc784164e62ac3e96858de000bf.md) | 2024-06-20 | - |  | - | 0 |
 | [Cyber Avenger](games/2/23e0d8cad86d45308001a2c4151969c0.md) | 2024-06-20 | - |  | - | - |
 | [Rogue Glitch Ultra](games/3/3c27bc096b424648b664cdc673f02ae3.md) | 2024-06-20 | - |  | - | - |
-| [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-20 | 20 (1,000 XP) | 1 | - | - |

@@ -222,7 +222,7 @@
 | 209 | [The Talos Principle](games/t/the_talos_principle.md) | 4.72 | 0 | 670 |
 | 221 | [Dead Space](games/d/dead_space.md) | 4.71 | 491 | 254 |
 | 221 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 734 | 218 |
-| 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 725 | 221 |
+| 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 726 | 221 |
 | 221 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.71 | 0 | 670 |
 | 221 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.71 | 0 | 670 |
 | 221 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 8,529 | 65 |
@@ -279,27 +279,27 @@
 | 260 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.69 | 0 | 670 |
 | 260 | [The Red Lantern](games/t/the_red_lantern.md) | 4.69 | 0 | 670 |
 | 260 | [The Witness](games/t/the_witness.md) | 4.69 | 204 | 346 |
+| 260 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 4.69 | 0 | 670 |
 | 260 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.69 | 0 | 670 |
 | 260 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 1,214 | 167 |
 | 260 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 290 | 303 |
 | 260 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 958 | 193 |
-| 284 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.68 | 0 | 670 |
-| 284 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,992 | 92 |
-| 284 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 828 | 204 |
-| 284 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,787 | 94 |
-| 284 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,284 | 52 |
-| 284 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 14,458 | 37 |
-| 284 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,996 | 56 |
-| 284 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 407,482 | 3 |
-| 284 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 670 |
-| 284 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 558 | 243 |
-| 284 | [Pikuniku](games/p/pikuniku.md) | 4.68 | 0 | 670 |
-| 284 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 0 | 670 |
-| 284 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 61 | 507 |
-| 284 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 110 | 425 |
-| 284 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 4.68 | 0 | 670 |
-| 284 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 55 | 522 |
-| 284 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.68 | 0 | 670 |
+| 285 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.68 | 0 | 670 |
+| 285 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 4,992 | 92 |
+| 285 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 828 | 204 |
+| 285 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,787 | 94 |
+| 285 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 10,284 | 52 |
+| 285 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 14,458 | 37 |
+| 285 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 9,996 | 56 |
+| 285 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 407,482 | 3 |
+| 285 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 670 |
+| 285 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 558 | 243 |
+| 285 | [Pikuniku](games/p/pikuniku.md) | 4.68 | 0 | 670 |
+| 285 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.68 | 0 | 670 |
+| 285 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 61 | 507 |
+| 285 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 110 | 425 |
+| 285 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.68 | 55 | 522 |
+| 285 | [Trine 5: A Clockwork Conspiracy](games/t/trine_5__a_clockwork_conspiracy.md) | 4.68 | 0 | 670 |
 | 301 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.67 | 0 | 670 |
 | 301 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.67 | 78 | 477 |
 | 301 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.67 | 0 | 670 |
@@ -1025,15 +1025,15 @@
 | 1,010 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.26 | 64 | 500 |
 | 1,010 | [Twin Mirror](games/t/twin_mirror.md) | 4.26 | 0 | 670 |
 | 1,010 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 300 |
-| 1,026 | [Breakout: Recharged](games/b/breakout__recharged.md) | 4.25 | 0 | 670 |
-| 1,026 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 678 | 227 |
-| 1,026 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 27 | 621 |
-| 1,026 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 48 | 537 |
-| 1,026 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.25 | 0 | 670 |
-| 1,026 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 670 |
-| 1,026 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 670 |
-| 1,026 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.25 | 0 | 670 |
-| 1,026 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 629 |
+| 1,010 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.26 | 0 | 670 |
+| 1,027 | [Breakout: Recharged](games/b/breakout__recharged.md) | 4.25 | 0 | 670 |
+| 1,027 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 678 | 227 |
+| 1,027 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 27 | 621 |
+| 1,027 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.25 | 48 | 537 |
+| 1,027 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 4.25 | 0 | 670 |
+| 1,027 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 670 |
+| 1,027 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 670 |
+| 1,027 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 26 | 629 |
 | 1,035 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 670 |
 | 1,035 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 584 |
 | 1,035 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.24 | 22 | 647 |

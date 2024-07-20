@@ -8,4 +8,3 @@
 | [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-23 | 5 (1,000 XP) | 1 | - | - |
 | [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-06-21 | 17 (1,000 XP) | 1 | - | 0 |
 | [Immortal Life](games/b/b0de0a1fbe94491f9405ee6f825f3dd9.md) | 2024-06-21 | 72 (1,000 XP) | 1 | - | 0 |
-| [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-20 | 20 (1,000 XP) | 1 | - | - |
