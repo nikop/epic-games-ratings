@@ -1,7 +1,7 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.72 (Ranked 208)  
+Rating: 4.73 (Ranked 192)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -305,3 +305,4 @@ Completed: 16 (0.65%) (Ranked 268)
 | 2024-01-20 | 4.75 | - | 0 | 0 |
 | 2024-02-22 | 4.73 | - | 0 | 0 |
 | 2024-06-18 | 4.72 | - | 0 | 0 |
+| 2024-07-20 | 4.73 | - | 0 | 0 |
