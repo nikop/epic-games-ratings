@@ -2,7 +2,7 @@
   "ID": "a4977aac967e4e2c827336f074c82d64",
   "Name": "Teenage Mutant Ninja Turtles: Shredder\u0027s Revenge",
   "ProductSlug": "teenage-mutant-ninja-turtles-shredders-revenge",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 36,
   "Ranking_Popularity": 670,
   "Ranking_PopularitySum": 670,
   "Ranking_EOS_Progress": 1090,
@@ -24,7 +24,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2024-07-16T17:59:55.7700248+00:00",
@@ -49,6 +49,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-20T05:00:58.5753252+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -67,7 +73,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T14:00:05.0043445+00:00",
   "FirstSeenRating": "2024-07-16T17:59:55.7700245+00:00",
-  "LastChanged": "2024-07-19T04:57:46.4065737+00:00",
+  "LastChanged": "2024-07-20T05:00:58.575325+00:00",
   "LastUpdate_AppInfo": "2024-07-16T10:57:09.6856264+00:00",
-  "LastUpdate_Ratings": "2024-07-20T03:57:47.6256648+00:00"
+  "LastUpdate_Ratings": "2024-07-20T05:00:58.5753262+00:00"
 }
