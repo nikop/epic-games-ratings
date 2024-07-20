@@ -562,7 +562,7 @@
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 153 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 877,363 | 4.53 | 1,261 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 625,783 | 4.58 | 239 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 625,783 | 4.58 | 240 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 48 | - | 0 |
 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 467 | - | 0 |
@@ -621,7 +621,7 @@
 | [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2023-06-20 | 20 (1,000 XP) | 87 | - | 0 |
 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2023-06-20 | 6 (1,000 XP) | 877 | - | 0 |
 | [Crimsonland](games/0/04d22e276f144358875f1789bd49f135.md) | 2023-06-20 | 22 (1,000 XP) | 0 | - | - |
-| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 7,453 | 4.58 | 103 |
+| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 7,453 | 4.59 | 103 |
 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-19 | 24 (1,000 XP) | 236 | - | 0 |
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 224 | - | 0 |
 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 19,071 | 4.25 | 0 |
@@ -704,7 +704,7 @@
 | [Oxide Room 104](games/o/oxide_room_104.md) | 2023-05-11 | 31 (1,000 XP) | 577 | - | 0 |
 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2023-05-11 | 39 (1,000 XP) | 418 | - | 0 |
 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 2023-05-11 | 16 (1,000 XP) | 65 | - | 0 |
-| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 2,072 | 4.05 | 0 |
+| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 2,072 | 4.06 | 0 |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 162 (1,000 XP) | 649 | 3.78 | 0 |
 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 2023-05-09 | 40 (1,000 XP) | 10 | - | 0 |
 | [EBOLA 2](games/e/ebola_2.md) | 2023-05-09 | 18 (1,000 XP) | 539 | - | 0 |
@@ -1121,7 +1121,7 @@
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 8,851 | 4.65 | 129 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 106 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 503,157 | 4.45 | 290 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.65 | 8,566 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.65 | 8,579 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,446 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,061 | 4.66 | 2,013 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 171,365 |
