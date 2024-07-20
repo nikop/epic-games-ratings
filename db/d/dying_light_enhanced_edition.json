@@ -2,7 +2,7 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light: Standard Edition",
   "ProductSlug": "dying-light",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 3,
@@ -22458,10 +22458,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 129194,
       "NumberOfAwardsMax": 64404
+    },
+    {
+      "Time": "2024-07-20T11:00:57.017097+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 129225,
+      "NumberOfAwardsMax": 64404
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 129194,
+  "NumberOfAwards": 129225,
   "NumberOfAwardsMax": 64404,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -22475,7 +22481,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 30620
+      "Count": 30651
     },
     {
       "Text": "This game is Great for Beginners",
@@ -55764,9 +55770,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
-  "LastChanged": "2024-07-20T09:57:50.0762684+00:00",
+  "LastChanged": "2024-07-20T11:00:57.0170968+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:58.6705647+00:00",
   "LastUpdate_AppInfo": "2024-07-15T04:58:18.2409846+00:00",
-  "LastUpdate_Ratings": "2024-07-20T09:57:50.0762691+00:00",
+  "LastUpdate_Ratings": "2024-07-20T11:00:57.017098+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:58.6707607+00:00"
 }

@@ -1,11 +1,11 @@
 # Just Cause 4 Reloaded
 [Store](https://store.epicgames.com/en-US/p/just-cause-4)  
 [View Rawdata](../../db/j/just_cause_4_reloaded.json)  
-Rating: 4.25 (Ranked 1,027)  
+Rating: 4.25 (Ranked 1,028)  
 Number of Ratings: 5,442  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 678  (Ranked 227)  
-Sum: 3,782 (Ranked 188)  
+Sum: 3,783 (Ranked 188)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 39
 | This game is Great for Beginners | 678 |
 | This game has Amazing Storytelling | 470 |
 | This game has Quickly Understood Controls | 463 |
-| This game is Highly Recommended | 462 |
+| This game is Highly Recommended | 463 |
 | This game is Relaxing | 459 |
 | This game has Amazing Characters | 457 |
 | This game is Extremely Fun | 429 |
@@ -481,3 +481,4 @@ Diff (max vs sum): 39
 | 2024-07-14 | 4.25 | - | 676 | 3,778 |
 | 2024-07-16 | 4.25 | - | 677 | 3,779 |
 | 2024-07-18 | 4.25 | - | 678 | 3,782 |
+| 2024-07-20 | 4.25 | - | 678 | 3,783 |
