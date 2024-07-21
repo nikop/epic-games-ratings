@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 732,
   "Ranking_Popularity": 160,
-  "Ranking_PopularitySum": 118,
+  "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -14291,10 +14291,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 9977,
       "NumberOfAwardsMax": 1314
+    },
+    {
+      "Time": "2024-07-21T08:59:20.9779706+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 9980,
+      "NumberOfAwardsMax": 1314
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9977,
+  "NumberOfAwards": 9980,
   "NumberOfAwardsMax": 1314,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14338,7 +14344,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1239
+      "Count": 1242
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14364,8 +14370,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2024-07-21T05:58:10.6679037+00:00",
+  "LastChanged": "2024-07-21T08:59:20.9779704+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:58:02.704858+00:00",
-  "LastUpdate_Ratings": "2024-07-21T06:59:33.5888212+00:00",
+  "LastUpdate_Ratings": "2024-07-21T08:59:20.9779711+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:29.9644292+00:00"
 }

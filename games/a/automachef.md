@@ -1,17 +1,17 @@
 # Automachef
 [Store](https://store.epicgames.com/en-US/p/automachef)  
 [View Rawdata](../../db/a/automachef.json)  
-Rating: 4.34 (Ranked 926)  
+Rating: 4.34 (Ranked 927)  
 Number of Ratings: 543  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 28  (Ranked 613)  
-Sum: 93 (Ranked 549)  
-Diff (max vs sum): 64  
+Sum: 94 (Ranked 548)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 28 |
+| This game is Highly Recommended | 23 |
 | This game is Relaxing | 23 |
-| This game is Highly Recommended | 22 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -99,3 +99,4 @@ Diff (max vs sum): 64
 | 2024-04-20 | 4.34 | - | 27 | 72 |
 | 2024-04-29 | 4.34 | - | 27 | 92 |
 | 2024-05-29 | 4.34 | - | 28 | 93 |
+| 2024-07-21 | 4.34 | - | 28 | 94 |

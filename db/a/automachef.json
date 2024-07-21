@@ -2,9 +2,9 @@
   "ID": "75ec0c7498894d1a99a5c8f02f3e4c55",
   "Name": "Automachef",
   "ProductSlug": "automachef",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 927,
   "Ranking_Popularity": 613,
-  "Ranking_PopularitySum": 549,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -636,10 +636,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-07-21T09:01:02.1713082+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 94,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93,
+  "NumberOfAwards": 94,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -653,7 +659,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
@@ -679,8 +685,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
-  "LastChanged": "2024-05-29T22:58:24.8583252+00:00",
+  "LastChanged": "2024-07-21T09:01:02.1713081+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:58:21.1892956+00:00",
-  "LastUpdate_Ratings": "2024-07-21T07:57:37.749911+00:00",
+  "LastUpdate_Ratings": "2024-07-21T09:01:02.1713084+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:29.0350323+00:00"
 }
