@@ -339,7 +339,7 @@
 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 2023-12-01 | 29 (1,000 XP) | 3 | - | 0 |
 | [Gladiator : Blades of Fury](games/2/285b64782090429a8c055d913b2c93f1.md) | 2023-11-30 | 6 (1,000 XP) | 12 | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2023-11-30 | 53 (1,000 XP) | 198 | - | 0 |
-| [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 2023-11-30 | 53 (1,090 XP) | 7,621 | - | 0 |
+| [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 2023-11-30 | 53 (1,090 XP) | 7,621 | 4.25 | 0 |
 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 2023-11-30 | 25 (1,000 XP) | 42 | - | 0 |
 | [Dizzy Fight](games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 2023-11-30 | 5 (1,000 XP) | 0 | - | - |
 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 2023-11-29 | 16 (1,000 XP) | 35 | - | 0 |
@@ -986,7 +986,7 @@
 | [Outward Definitive Edition](games/o/outward.md) | 2022-05-17 | 42 (1,000 XP) | 6,060 | 4.54 | 37 |
 | [Lamentum](games/l/lamentum.md) | 2022-05-12 | 19 (1,000 XP) | 393 | 4.28 | 0 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 2022-05-12 | 34 (1,000 XP) | 239,243 | 4.50 | 0 |
-| [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 2022-05-12 | 24 (1,000 XP) | 17,145 | 4.74 | 209 |
+| [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 2022-05-12 | 24 (1,000 XP) | 17,145 | 4.74 | 210 |
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 2022-05-10 | 50 (1,000 XP) | 892 | 4.48 | 0 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 2022-05-10 | 53 (1,000 XP) | 69,551 | 4.31 | 1,018 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 2022-05-10 | 54 (1,000 XP) | 3,199 | 4.66 | 32 |

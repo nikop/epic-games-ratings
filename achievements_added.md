@@ -351,7 +351,7 @@
 | [Horse Racing](games/e/e4e71e80487245b682ed399fa518964e.md) | 2023-12-02 | 9 (1,000 XP) | 15 | - | 0 |
 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 2023-12-01 | 29 (1,000 XP) | 3 | - | 0 |
 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 2023-12-01 | 5 (1,000 XP) | 18 | - | 0 |
-| [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 2023-11-30 | 53 (1,090 XP) | 7,621 | - | 0 |
+| [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 2023-11-30 | 53 (1,090 XP) | 7,621 | 4.25 | 0 |
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |
 | [Gladiator : Blades of Fury](games/2/285b64782090429a8c055d913b2c93f1.md) | 2023-11-30 | 6 (1,000 XP) | 12 | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-09-30 | 16 (1,000 XP) | 0 | - | - |
