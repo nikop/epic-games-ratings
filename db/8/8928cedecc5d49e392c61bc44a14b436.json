@@ -2,7 +2,7 @@
   "ID": "8928cedecc5d49e392c61bc44a14b436",
   "Name": "Return Alive",
   "ProductSlug": "return-alive-0ffdd1",
-  "Ranking_Rating": 1205,
+  "Ranking_Rating": 1208,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 153,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.85,
+  "Rating": 3.84,
   "RatingHistory": [
     {
       "Time": "2024-04-07T15:58:07.8680422+00:00",
@@ -599,6 +599,12 @@
       "Rating": 3.85,
       "NumberOfAwards": 113,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2024-07-21T03:57:20.0376589+00:00",
+      "Rating": 3.84,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
@@ -748,9 +754,9 @@
   "FirstSeen": "2024-04-03T02:14:35.9374728+00:00",
   "FirstSeenRating": "2024-04-07T15:58:07.8680419+00:00",
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
-  "LastChanged": "2024-07-18T04:57:54.6924047+00:00",
+  "LastChanged": "2024-07-21T03:57:20.0376587+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:32.6919769+00:00",
   "LastUpdate_AppInfo": "2024-07-19T17:57:08.760542+00:00",
-  "LastUpdate_Ratings": "2024-07-21T02:01:31.4680661+00:00",
+  "LastUpdate_Ratings": "2024-07-21T03:57:20.0376593+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:32.6919855+00:00"
 }
