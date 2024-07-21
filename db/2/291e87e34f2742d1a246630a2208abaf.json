@@ -2477,10 +2477,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 513,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-07-21T15:59:39.8391836+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 514,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 513,
+  "NumberOfAwards": 514,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2506,7 +2512,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2551,8 +2557,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-07-20T17:58:09.7452466+00:00",
+  "LastChanged": "2024-07-21T15:59:39.8391835+00:00",
   "LastUpdate_AppInfo": "2024-07-16T02:57:20.35538+00:00",
-  "LastUpdate_Ratings": "2024-07-21T14:00:03.135154+00:00",
+  "LastUpdate_Ratings": "2024-07-21T15:59:39.8391839+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:31.9130002+00:00"
 }
