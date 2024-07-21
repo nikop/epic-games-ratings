@@ -4,7 +4,7 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 426,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -2951,10 +2951,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 895,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2024-07-21T02:03:08.1266401+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 898,
+      "NumberOfAwardsMax": 157
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 895,
+  "NumberOfAwards": 898,
   "NumberOfAwardsMax": 157,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -2998,7 +3004,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game has Competitive Players",
@@ -3016,7 +3022,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 99
+      "Count": 101
     },
     {
       "Text": "This game has a Creative Community",
@@ -3037,8 +3043,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-07-20T01:50:23.9515075+00:00",
+  "LastChanged": "2024-07-21T02:03:08.1266399+00:00",
   "LastUpdate_AppInfo": "2024-07-15T01:59:05.9783978+00:00",
-  "LastUpdate_Ratings": "2024-07-20T23:57:59.9714892+00:00",
+  "LastUpdate_Ratings": "2024-07-21T02:03:08.1266405+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:38.1291617+00:00"
 }
