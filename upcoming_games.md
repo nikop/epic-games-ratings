@@ -279,6 +279,7 @@
 | [Archery RED](games/e/e17cbf6cf17b4e8dbe4119c99f668cb0.md) | 2099-01-01 | - |  | - | - |
 | [Architect of the Union](games/b/b3b5006256614445a18a91bcaf6b3fd9.md) | 2099-01-01 | - |  | - | - |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2099-01-01 | - |  | - | - |
+| [Art Shop Simulator](games/3/376a130261c24ba99c0d5b297867dab4.md) | 2099-01-01 | - |  | - | - |
 | [ASCENDANT.COM](games/f/f482bdb61ec6483c89b21c3af00a9833.md) | 2099-01-01 | - |  | - | - |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | - |  | - | - |
 | [Astrometica](games/d/d5edf91e135b4742b668c25dea1e2e52.md) | 2099-01-01 | - |  | - | - |
