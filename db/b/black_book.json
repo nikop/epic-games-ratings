@@ -4,7 +4,7 @@
   "ProductSlug": "black-book",
   "Ranking_Rating": 362,
   "Ranking_Popularity": 633,
-  "Ranking_PopularitySum": 550,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 18,
@@ -871,10 +871,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 92,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-07-21T12:00:36.0330735+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 112,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 92,
+  "NumberOfAwards": 112,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -906,6 +912,12 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
+      "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
       "Count": 20
     }
   ],
@@ -19066,9 +19078,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
-  "LastChanged": "2024-07-13T18:57:13.2123276+00:00",
+  "LastChanged": "2024-07-21T12:00:36.0330734+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:33.6147448+00:00",
   "LastUpdate_AppInfo": "2024-07-15T07:57:58.8780302+00:00",
-  "LastUpdate_Ratings": "2024-07-21T10:57:21.5780359+00:00",
+  "LastUpdate_Ratings": "2024-07-21T12:00:36.0330739+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:33.6148473+00:00"
 }
