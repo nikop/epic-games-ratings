@@ -20,7 +20,7 @@
 | 18 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 38,327 | 4.15 | 1,110 |
 | 19 | [Dauntless](games/d/dauntless.md) | 30,503 | 4.53 | 607 |
 | 20 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,476 | 4.64 | 363 |
-| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 29,285 | 4.89 | 11 |
+| 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 29,308 | 4.89 | 11 |
 | 22 | [Warframe](games/w/warframe.md) | 25,284 | 4.61 | 426 |
 | 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 24,583 | 4.57 | 525 |
 | 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,517 | 4.26 | 1,012 |
@@ -86,7 +86,7 @@
 | 84 | [Prey](games/p/prey.md) | 6,107 | 4.63 | 385 |
 | 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 6,065 | 4.37 | 889 |
 | 86 | [SMITE](games/s/smite.md) | 5,997 | 4.40 | 848 |
-| 87 | [God of War](games/g/god_of_war.md) | 5,908 | 4.87 | 19 |
+| 87 | [God of War](games/g/god_of_war.md) | 5,915 | 4.87 | 19 |
 | 88 | [Shop Titans](games/s/shop_titans.md) | 5,264 | 4.01 | 1,169 |
 | 89 | [MultiVersus](games/m/multiversus.md) | 5,225 | 4.55 | 559 |
 | 90 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,154 | 4.70 | 236 |
@@ -116,7 +116,7 @@
 | 114 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 2,889 | 4.45 | 751 |
 | 115 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,867 | 4.71 | 221 |
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,722 | 4.76 | 144 |
-| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,680 | 4.76 | 144 |
+| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,681 | 4.76 | 144 |
 | 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,632 | 4.81 | 90 |
 | 119 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2,566 | 4.85 | 37 |
 | 120 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,136 |
@@ -168,7 +168,7 @@
 | 166 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,232 | 4.62 | 406 |
 | 167 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,214 | 4.69 | 260 |
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 1,194 | 4.75 | 156 |
-| 169 | [Brawlhalla](games/b/brawlhalla.md) | 1,183 | 4.58 | 498 |
+| 169 | [Brawlhalla](games/b/brawlhalla.md) | 1,184 | 4.58 | 498 |
 | 170 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,178 | 4.49 | 685 |
 | 171 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 1,174 | 4.56 | 541 |
 | 172 | [Riders Republic](games/r/riders_republic.md) | 1,164 | 4.74 | 174 |
@@ -222,7 +222,7 @@
 | 218 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 734 | 4.34 | 925 |
 | 221 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 726 | 4.71 | 221 |
 | 221 | [Predecessor](games/p/predecessor.md) | 726 | 4.26 | 1,012 |
-| 223 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 721 | 4.50 | 658 |
+| 223 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 722 | 4.50 | 658 |
 | 224 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 711 | 4.69 | 260 |
 | 225 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 710 | 4.40 | 848 |
 | 226 | [The Outlast Trials](games/t/the_outlast_trials.md) | 696 | 4.65 | 335 |

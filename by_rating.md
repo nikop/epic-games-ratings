@@ -14,13 +14,13 @@
 | 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,680 | 51 |
 | 11 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 671 |
 | 11 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,166 | 129 |
-| 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 29,285 | 21 |
+| 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 29,308 | 21 |
 | 11 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.89 | 0 | 671 |
 | 17 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,076 | 180 |
 | 17 | [RimWorld](games/r/rimworld.md) | 4.88 | 574 | 240 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 154 | 379 |
 | 19 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 824 | 205 |
-| 19 | [God of War](games/g/god_of_war.md) | 4.87 | 5,908 | 87 |
+| 19 | [God of War](games/g/god_of_war.md) | 4.87 | 5,915 | 87 |
 | 19 | [Inscryption](games/i/inscryption.md) | 4.87 | 383 | 280 |
 | 19 | [Rain World](games/r/rain_world.md) | 4.87 | 25 | 633 |
 | 19 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 339,906 | 5 |
@@ -149,7 +149,7 @@
 | 144 | [GNOG](games/g/gnog.md) | 4.76 | 0 | 671 |
 | 144 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 4.76 | 0 | 671 |
 | 144 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 671 |
-| 144 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.76 | 2,680 | 117 |
+| 144 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.76 | 2,681 | 117 |
 | 144 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 2,722 | 116 |
 | 144 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,868 | 141 |
 | 144 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 31 | 601 |
@@ -500,7 +500,7 @@
 | 498 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 48 | 537 |
 | 498 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 70,729 | 12 |
 | 498 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 4.58 | 155 | 378 |
-| 498 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,183 | 169 |
+| 498 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,184 | 169 |
 | 498 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.58 | 211 | 340 |
 | 498 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.58 | 440 | 267 |
 | 498 | [Everything](games/e/everything.md) | 4.58 | 0 | 671 |
@@ -671,7 +671,7 @@
 | 658 | [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 4.50 | 0 | 671 |
 | 658 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 671 |
 | 658 | [Legend of Grimrock](games/l/legend_of_grimrock.md) | 4.50 | 0 | 671 |
-| 658 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 721 | 223 |
+| 658 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.50 | 722 | 223 |
 | 658 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.50 | 0 | 671 |
 | 658 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.50 | 0 | 671 |
 | 658 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.50 | 37 | 567 |
