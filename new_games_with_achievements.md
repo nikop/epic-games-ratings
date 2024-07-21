@@ -6,4 +6,3 @@
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
 | [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2024-07-04 | 12 (1,000 XP) | 1 | - | - |
 | [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-23 | 5 (1,000 XP) | 1 | - | - |
-| [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-06-21 | 17 (1,000 XP) | 1 | - | 0 |

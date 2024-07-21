@@ -27,7 +27,7 @@
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
 | [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | - | - |
 | [Hero of the Kingdom III](games/a/a64669daa91845c094bd01c537658db2.md) | 2024-08-02 | - |  | - | - |
-| [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-08-03 | - |  | - | - |
+| [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-08-02 | - |  | - | - |
 | [Spider Fox](games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 2024-08-06 | - |  | - | - |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | - |  | - | - |
 | [Morels The Hunt 2](games/7/76bfcee1bbb9456ba20226bc0194659f.md) | 2024-08-07 | - |  | - | - |
