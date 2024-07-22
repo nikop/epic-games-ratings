@@ -30,7 +30,7 @@
 | 28 | [SnowRunner](games/s/snowrunner.md) | 17,760 | 4.75 | 156 |
 | 29 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 17,692 | 4.59 | 478 |
 | 30 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 17,633 | 4.60 | 454 |
-| 31 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 16,538 | 4.49 | 685 |
+| 31 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 16,555 | 4.49 | 685 |
 | 32 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,965 | 4.44 | 768 |
 | 33 | [Dead Island 2](games/d/dead_island_2.md) | 15,959 | 4.54 | 580 |
 | 34 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,678 | 4.84 | 46 |
@@ -87,13 +87,13 @@
 | 85 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 6,074 | 4.37 | 890 |
 | 86 | [SMITE](games/s/smite.md) | 6,002 | 4.40 | 848 |
 | 87 | [God of War](games/g/god_of_war.md) | 5,915 | 4.87 | 20 |
-| 88 | [Shop Titans](games/s/shop_titans.md) | 5,266 | 4.01 | 1,170 |
+| 88 | [Shop Titans](games/s/shop_titans.md) | 5,268 | 4.01 | 1,170 |
 | 89 | [MultiVersus](games/m/multiversus.md) | 5,230 | 4.55 | 560 |
 | 90 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,156 | 4.70 | 237 |
 | 91 | [Trackmania Starter Access](games/t/trackmania.md) | 5,082 | 4.64 | 363 |
 | 92 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,998 | 4.68 | 285 |
 | 93 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,962 | 4.46 | 731 |
-| 94 | [Days Gone](games/d/days_gone.md) | 4,791 | 4.68 | 285 |
+| 94 | [Days Gone](games/d/days_gone.md) | 4,793 | 4.68 | 285 |
 | 95 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,741 | 4.70 | 237 |
 | 96 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4,723 | 4.63 | 385 |
 | 97 | [Paladins](games/p/paladins.md) | 4,648 | 4.31 | 962 |
@@ -608,19 +608,19 @@
 | 601 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 31 | 4.59 | 478 |
 | 607 | [Speed Brawl](games/s/speed_brawl.md) | 30 | 4.35 | 916 |
 | 607 | [The Front](games/t/the_front.md) | 30 | 4.09 | 1,140 |
+| 609 | [Automachef](games/a/automachef.md) | 29 | 4.34 | 928 |
 | 609 | [DEMON'S TILT](games/d/demon's_tilt.md) | 29 | 4.54 | 580 |
 | 609 | [ELEX](games/e/elex.md) | 29 | 4.42 | 813 |
 | 609 | [Void Bastards](games/v/void_bastards.md) | 29 | 4.60 | 454 |
 | 609 | [WRC Generations](games/w/wrc_generations.md) | 29 | 4.45 | 749 |
-| 613 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 28 | 4.77 | 129 |
-| 613 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 28 | 4.54 | 580 |
-| 613 | [Automachef](games/a/automachef.md) | 28 | 4.34 | 928 |
-| 613 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 28 | 4.31 | 962 |
-| 613 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 28 | 4.55 | 560 |
-| 613 | [Fez](games/f/fez.md) | 28 | 4.74 | 173 |
-| 613 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.15 | 1,113 |
-| 613 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 28 | 4.54 | 580 |
-| 613 | [Railway Empire 2](games/r/railway_empire_2.md) | 28 | 4.36 | 902 |
+| 614 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 28 | 4.77 | 129 |
+| 614 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 28 | 4.54 | 580 |
+| 614 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 28 | 4.31 | 962 |
+| 614 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 28 | 4.55 | 560 |
+| 614 | [Fez](games/f/fez.md) | 28 | 4.74 | 173 |
+| 614 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.15 | 1,113 |
+| 614 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 28 | 4.54 | 580 |
+| 614 | [Railway Empire 2](games/r/railway_empire_2.md) | 28 | 4.36 | 902 |
 | 622 | [Mortal Shell](games/m/mortal_shell.md) | 27 | 4.25 | 1,030 |
 | 622 | [MotoGP™21](games/m/motogp™21.md) | 27 | 4.58 | 499 |
 | 622 | [Murder by Numbers](games/m/murder_by_numbers.md) | 27 | 4.28 | 993 |
