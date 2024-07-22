@@ -544,12 +544,12 @@ Completed: 104 (0.01%) (Ranked 488)
 | 2024-04-10 | 1,342,560 | 83 |
 | 2024-06-17 | 1,461,055 | 104 |
 ## Awards
-Max (Diverse Characters): 49,935  (Ranked 16)  
-Sum: 366,983 (Ranked 12)  
+Max (Diverse Characters): 49,989  (Ranked 16)  
+Sum: 367,037 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 49,935 |
+| This game has Diverse Characters | 49,989 |
 | This game is Highly Recommended | 42,133 |
 | This game has Amazing Characters | 41,185 |
 | This game has Challenging Combat | 40,874 |
@@ -1108,4 +1108,4 @@ Diff (max vs sum): 4
 | 2024-07-19 | 4.50 | - | 49,814 | 366,123 |
 | 2024-07-20 | 4.50 | - | 49,879 | 366,553 |
 | 2024-07-21 | 4.50 | - | 49,935 | 366,944 |
-| 2024-07-22 | 4.50 | - | 49,935 | 366,983 |
+| 2024-07-22 | 4.50 | - | 49,989 | 367,037 |

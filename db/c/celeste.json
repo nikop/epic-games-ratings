@@ -7153,10 +7153,16 @@
       "Rating": 4.91,
       "NumberOfAwards": 4244,
       "NumberOfAwardsMax": 2095
+    },
+    {
+      "Time": "2024-07-22T13:09:33.4586154+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 4245,
+      "NumberOfAwardsMax": 2095
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4244,
+  "NumberOfAwards": 4245,
   "NumberOfAwardsMax": 2095,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7224,7 +7230,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 294
+      "Count": 295
     }
   ],
   "EOS_Progressed": 0,
@@ -7238,8 +7244,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2024-07-21T23:59:37.7664451+00:00",
+  "LastChanged": "2024-07-22T13:09:33.4586152+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:42.2334094+00:00",
-  "LastUpdate_Ratings": "2024-07-22T10:58:49.7857567+00:00",
+  "LastUpdate_Ratings": "2024-07-22T13:09:33.4586159+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:24.4512232+00:00"
 }

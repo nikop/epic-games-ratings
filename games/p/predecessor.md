@@ -3,8 +3,8 @@
 [View Rawdata](../../db/p/predecessor.json)  
 Rating: 4.26 (Ranked 1,012)  
 ## Awards
-Max (Diverse Characters): 727  (Ranked 222)  
-Sum: 3,873 (Ranked 184)  
+Max (Diverse Characters): 727  (Ranked 223)  
+Sum: 3,873 (Ranked 185)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
