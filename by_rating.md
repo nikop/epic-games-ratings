@@ -123,7 +123,7 @@
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.79 | 32 | 594 |
 | 122 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.78 | 0 | 671 |
 | 122 | [Cozy Grove](games/c/cozy_grove.md) | 4.78 | 0 | 671 |
-| 122 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,449 | 50 |
+| 122 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 11,463 | 50 |
 | 122 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.78 | 0 | 671 |
 | 122 | [Quake](games/q/quake.md) | 4.78 | 54 | 525 |
 | 122 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 68 | 489 |
@@ -145,7 +145,7 @@
 | 129 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 671 |
 | 144 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 18,262 | 27 |
 | 144 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.76 | 3,637 | 107 |
-| 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,450 | 152 |
+| 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 1,452 | 152 |
 | 144 | [GNOG](games/g/gnog.md) | 4.76 | 0 | 671 |
 | 144 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 4.76 | 0 | 671 |
 | 144 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.76 | 0 | 671 |
@@ -180,7 +180,7 @@
 | 173 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.74 | 1,581 | 150 |
 | 173 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 1,039 | 183 |
 | 173 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 4.74 | 0 | 671 |
-| 173 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,863 | 57 |
+| 173 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 9,880 | 57 |
 | 173 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,166 | 172 |
 | 173 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 671 |
 | 173 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 57,753 | 14 |
@@ -249,7 +249,7 @@
 | 237 | [King of Retail](games/k/king_of_retail.md) | 4.70 | 0 | 671 |
 | 237 | [Moonlighter](games/m/moonlighter.md) | 4.70 | 0 | 671 |
 | 237 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.70 | 21 | 658 |
-| 237 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 10,039 | 54 |
+| 237 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 10,045 | 54 |
 | 237 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.70 | 32 | 594 |
 | 237 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.70 | 0 | 671 |
 | 237 | [SUPERHOT](games/s/superhot.md) | 4.70 | 0 | 671 |
@@ -413,7 +413,7 @@
 | 405 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 0 | 671 |
 | 405 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.62 | 90 | 456 |
 | 405 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 738 | 218 |
-| 405 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.62 | 12,029 | 46 |
+| 405 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.62 | 12,051 | 46 |
 | 405 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,595 | 149 |
 | 405 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 671 |
 | 405 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 671 |
@@ -450,7 +450,7 @@
 | 426 | [Ticket To Ride: Classic Edition](games/t/ticket_to_ride.md) | 4.61 | 81 | 468 |
 | 426 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.61 | 459 | 262 |
 | 426 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.61 | 94 | 452 |
-| 426 | [Warframe](games/w/warframe.md) | 4.61 | 25,339 | 22 |
+| 426 | [Warframe](games/w/warframe.md) | 4.61 | 25,371 | 22 |
 | 426 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.61 | 906 | 200 |
 | 426 | [Witchfire](games/w/witchfire.md) | 4.61 | 157 | 377 |
 | 454 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 4.60 | 1,022 | 185 |
