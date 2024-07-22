@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 581,
   "Ranking_Popularity": 601,
-  "Ranking_PopularitySum": 472,
+  "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 18,
@@ -1481,10 +1481,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 231,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-07-22T20:57:41.7271812+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 231,
+  "NumberOfAwards": 209,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -19888,9 +19894,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-07-22T06:00:25.7439735+00:00",
+  "LastChanged": "2024-07-22T20:57:41.7271811+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:15.2287043+00:00",
   "LastUpdate_AppInfo": "2024-07-22T06:57:16.995516+00:00",
-  "LastUpdate_Ratings": "2024-07-22T18:59:01.9211866+00:00",
+  "LastUpdate_Ratings": "2024-07-22T20:57:41.7271816+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:15.2288268+00:00"
 }

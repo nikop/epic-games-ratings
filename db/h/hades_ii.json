@@ -4,7 +4,7 @@
   "ProductSlug": "hades-ii",
   "Ranking_Rating": 7,
   "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 477,
+  "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -532,6 +532,6 @@
   "FirstSeenRating": "2024-05-08T21:57:36.1712831+00:00",
   "LastChanged": "2024-07-21T15:59:06.4135073+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:38.7543352+00:00",
-  "LastUpdate_Ratings": "2024-07-22T18:59:20.7747414+00:00",
+  "LastUpdate_Ratings": "2024-07-22T20:58:00.2166683+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:07:15.6730898+00:00"
 }
