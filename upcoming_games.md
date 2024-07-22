@@ -11,8 +11,11 @@
 | [Computer Virus Simulator](games/d/dcf81a568d924d329addaa06be801621.md) | 2024-07-25 | - |  | - | - |
 | [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | - |  | - | - |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-07-25 | - |  | - | - |
+| [Daylife in Japan - Pixel Art Jigsaw Puzzle](games/4/41e056766e214f898060922b94481457.md) | 2024-07-25 | - |  | - | - |
+| [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-07-25 | - |  | - | - |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 2 | - | - |
 | [Trapaze](games/1/1000868feb26473f82cd34c1d5e1cb06.md) | 2024-07-25 | - |  | - | - |
+| [Micro Tanks](games/d/de3ed17d886342a998ea8b187c656f15.md) | 2024-07-26 | - |  | - | - |
 | [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-07-31 | 35 (1,000 XP) | 0 | - | - |
 | [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-07-31 | 34 (1,000 XP) | 0 | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
@@ -55,7 +58,6 @@
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | - |  | - | - |
 | [Breachway](games/b/breachway.md) | 2024-08-30 | - |  | - | - |
 | [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | - | - |
-| [Micro Tanks](games/d/de3ed17d886342a998ea8b187c656f15.md) | 2024-08-30 | - |  | - | - |
 | [Cafe Maid - Cute Anime Girls](games/3/3dfc7c92bb4846b5bfbb0066ba5149e8.md) | 2024-08-31 | - |  | - | - |
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-08-31 | - |  | - | - |
 | [Departed Away](games/8/8fb3b92706e84e07ad8b2804599b6677.md) | 2024-08-31 | - |  | - | - |
@@ -82,7 +84,6 @@
 | [Chiral](games/1/1c18ca5d42ac4b5d89509f75aa026846.md) | 2024-09-30 | - |  | - | - |
 | [City of Graves](games/8/822ebd51d45941ab945ccd4b124938c2.md) | 2024-09-30 | - |  | - | - |
 | [Daahrien's Active and Operational](games/a/active_and_operational.md) | 2024-09-30 | - |  | - | - |
-| [Daylife in Japan - Pixel Art Jigsaw Puzzle](games/4/41e056766e214f898060922b94481457.md) | 2024-09-30 | - |  | - | - |
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [Ememe](games/2/2a5c8c9ac1d54eb39a5df0bce74cc66e.md) | 2024-09-30 | - |  | - | - |
 | [Epsylon](games/4/4b9bf181ec404f99bf552046c6b25ca0.md) | 2024-09-30 | - |  | - | - |
@@ -102,7 +103,6 @@
 | [Stormedge](games/0/014e225d587d41ea80c0adb3f33041d0.md) | 2024-09-30 | - |  | - | - |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-30 | - |  | - | - |
 | [Union of Gnomes](games/3/3880ec67d75643da816c9feabb168010.md) | 2024-09-30 | - |  | - | - |
-| [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-09-30 | - |  | - | - |
 | [Unreachable](games/4/48d6c1632de6479b8c6c1d2f415cea92.md) | 2024-09-30 | - |  | - | - |
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-09-30 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-30 | - |  | - | - |
