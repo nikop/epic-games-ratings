@@ -3,8 +3,8 @@
   "Name": "Doomsday Last Survivors",
   "ProductSlug": "doomsday-last-survivors-024df3",
   "Ranking_Rating": 1128,
-  "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 411,
+  "Ranking_Popularity": 391,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -1793,11 +1793,17 @@
       "Rating": 4.13,
       "NumberOfAwards": 400,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2024-07-22T03:57:03.9587302+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 401,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 400,
-  "NumberOfAwardsMax": 138,
+  "NumberOfAwards": 401,
+  "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1810,7 +1816,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 138
+      "Count": 139
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1855,8 +1861,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2024-07-21T19:58:58.135448+00:00",
+  "LastChanged": "2024-07-22T03:57:03.95873+00:00",
   "LastUpdate_AppInfo": "2024-07-18T16:57:13.1260453+00:00",
-  "LastUpdate_Ratings": "2024-07-22T02:01:42.6164314+00:00",
+  "LastUpdate_Ratings": "2024-07-22T03:57:03.9587309+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:21.0306576+00:00"
 }
