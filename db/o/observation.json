@@ -2,7 +2,7 @@
   "ID": "allium",
   "Name": "Observation",
   "ProductSlug": "observation",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 671,
   "Ranking_PopularitySum": 671,
   "Ranking_EOS_Progress": 1090,
@@ -152,6 +152,6 @@
   "FirstSeenRating": "2022-09-02T12:00:46.9628353+00:00",
   "LastChanged": "2024-07-05T06:59:13.0376762+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:19.1911407+00:00",
-  "LastUpdate_Ratings": "2024-07-22T11:59:23.9094078+00:00",
+  "LastUpdate_Ratings": "2024-07-22T13:57:32.1680703+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:45.5052565+00:00"
 }
