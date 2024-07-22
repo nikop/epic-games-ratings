@@ -491,6 +491,7 @@
 | [Luminis - Heal Them All](games/c/c016533df313422cb9bb8847cfe25a96.md) | 2099-01-01 | - |  | - | - |
 | [Luna Abyss](games/l/luna_abyss.md) | 2099-01-01 | - |  | - | - |
 | [Macabre](games/m/macabre.md) | 2099-01-01 | - |  | - | - |
+| [Machinika: Atlas](games/2/2295cc3dfc824a4a95576ebae7e96209.md) | 2099-01-01 | - |  | - | - |
 | [Magic Chess Online](games/7/72915a882ff54ef7bc30e5ae81b7608b.md) | 2099-01-01 | - |  | - | - |
 | [Magical Bakery](games/1/17f85b9e8c0944268e6641999ad81829.md) | 2099-01-01 | - |  | - | - |
 | [Maiden Cops](games/0/0a78a5cb65ab4aaa84a75188ac6eb765.md) | 2099-01-01 | - |  | - | - |
