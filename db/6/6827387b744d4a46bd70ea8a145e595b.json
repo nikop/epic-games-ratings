@@ -4,7 +4,7 @@
   "ProductSlug": "zenless-zone-zero-c7c151",
   "Ranking_Rating": 699,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 184,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -653,10 +653,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 3883,
       "NumberOfAwardsMax": 2286
+    },
+    {
+      "Time": "2024-07-22T15:59:32.62919+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 3935,
+      "NumberOfAwardsMax": 2286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3883,
+  "NumberOfAwards": 3935,
   "NumberOfAwardsMax": 2286,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -706,7 +712,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 147
+      "Count": 168
     },
     {
       "Text": "This game has Amazing Characters",
@@ -724,7 +730,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 159
+      "Count": 190
     },
     {
       "Text": "This game is Extremely Fun",
@@ -745,8 +751,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-07-22T13:10:05.9105701+00:00",
+  "LastChanged": "2024-07-22T15:59:32.6291898+00:00",
   "LastUpdate_AppInfo": "2024-07-15T22:56:57.4125148+00:00",
-  "LastUpdate_Ratings": "2024-07-22T14:01:25.3065688+00:00",
+  "LastUpdate_Ratings": "2024-07-22T15:59:32.6291905+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:07.2551306+00:00"
 }

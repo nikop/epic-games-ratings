@@ -1,7 +1,7 @@
 # Worms Rumble
 [Store](https://store.epicgames.com/en-US/p/worms-rumble)  
 [View Rawdata](../../db/w/worms_rumble.json)  
-Rating: 3.86 (Ranked 1,205)  
+Rating: 3.90 (Ranked 1,202)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 3.86 (Ranked 1,205)
 | 2024-06-04 | 4.00 | 0 | 0 |
 | 2024-06-10 | 3.96 | 0 | 0 |
 | 2024-06-28 | 3.86 | 0 | 0 |
+| 2024-07-22 | 3.90 | 0 | 0 |
