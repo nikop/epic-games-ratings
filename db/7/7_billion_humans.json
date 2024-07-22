@@ -2,7 +2,7 @@
   "ID": "holly",
   "Name": "7 Billion Humans",
   "ProductSlug": "7-billion-humans",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 363,
   "Ranking_Popularity": 671,
   "Ranking_PopularitySum": 671,
   "Ranking_EOS_Progress": 1090,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:40.386218+00:00",
@@ -57,6 +57,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-22T07:58:20.0826089+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -75,8 +81,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:18.8628229+00:00",
   "FirstSeenRating": "2023-03-31T05:57:40.3862176+00:00",
-  "LastChanged": "2024-03-20T05:58:55.0861762+00:00",
+  "LastChanged": "2024-07-22T07:58:20.0826087+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:12.161599+00:00",
-  "LastUpdate_Ratings": "2024-07-22T06:01:58.6483863+00:00",
+  "LastUpdate_Ratings": "2024-07-22T07:58:20.0826092+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:48.8562702+00:00"
 }
