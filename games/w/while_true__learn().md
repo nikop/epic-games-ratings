@@ -1,7 +1,7 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 642)  
+Rating: 4.51 (Ranked 643)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -324,8 +324,8 @@ Completed: 618 (0.10%) (Ranked 398)
 | 2024-06-17 | 632,810 | 618 |
 ## Awards
 Max (Challenging Puzzles): 148  (Ranked 383)  
-Sum: 148 (Ranked 509)  
-Diff (max vs sum): -126  
+Sum: 148 (Ranked 510)  
+Diff (max vs sum): -127  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 148 |

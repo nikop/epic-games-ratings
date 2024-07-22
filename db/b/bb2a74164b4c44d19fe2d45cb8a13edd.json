@@ -2,9 +2,9 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 622,
-  "Ranking_PopularitySum": 517,
+  "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -330,10 +330,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 137,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-07-22T19:57:53.4192086+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 137,
+  "NumberOfAwards": 159,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -372,6 +378,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -386,8 +398,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-07-22T14:58:40.4923004+00:00",
+  "LastChanged": "2024-07-22T19:57:53.4192084+00:00",
   "LastUpdate_AppInfo": "2024-07-18T01:54:57.7554386+00:00",
-  "LastUpdate_Ratings": "2024-07-22T17:58:48.385761+00:00",
+  "LastUpdate_Ratings": "2024-07-22T19:57:53.4192089+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.1043605+00:00"
 }
