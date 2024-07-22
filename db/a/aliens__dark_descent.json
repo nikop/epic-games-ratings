@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 478,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 239,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -857,6 +857,12 @@
     {
       "Time": "2024-07-20T11:57:20.8733506+00:00",
       "Rating": 4.59,
+      "NumberOfAwards": 103,
+      "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2024-07-22T11:57:48.1004631+00:00",
+      "Rating": 4.58,
       "NumberOfAwards": 103,
       "NumberOfAwardsMax": 103
     }
@@ -11075,9 +11081,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2024-07-20T11:57:20.8733505+00:00",
+  "LastChanged": "2024-07-22T11:57:48.1004629+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:36.6051593+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:48.4343859+00:00",
-  "LastUpdate_Ratings": "2024-07-22T09:58:20.5458406+00:00",
+  "LastUpdate_Ratings": "2024-07-22T11:57:48.1004635+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:36.605236+00:00"
 }
