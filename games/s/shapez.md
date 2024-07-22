@@ -1,7 +1,7 @@
 # shapez
 [Store](https://store.epicgames.com/en-US/p/shapez-0929c9)  
 [View Rawdata](../../db/s/shapez.json)  
-Rating: 4.71 (Ranked 221)  
+Rating: 4.71 (Ranked 222)  
 ## Awards
 Max (Quickly Understood Controls): 33  (Ranked 593)  
 Sum: 214 (Ranked 480)  

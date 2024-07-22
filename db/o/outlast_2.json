@@ -2,9 +2,9 @@
   "ID": "e3e1dbeede5a471c9932edb2f7b99f51",
   "Name": "Outlast 2",
   "ProductSlug": "outlast-2",
-  "Ranking_Rating": 363,
-  "Ranking_Popularity": 671,
-  "Ranking_PopularitySum": 671,
+  "Ranking_Rating": 336,
+  "Ranking_Popularity": 672,
+  "Ranking_PopularitySum": 672,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2022-10-23T03:31:57.5204335+00:00",
@@ -383,6 +383,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-22T22:57:56.790971+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -401,8 +407,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T18:32:02.5316251+00:00",
   "FirstSeenRating": "2022-10-23T03:31:57.5204331+00:00",
-  "LastChanged": "2024-07-11T05:00:44.7013522+00:00",
+  "LastChanged": "2024-07-22T22:57:56.7909708+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:20.9355242+00:00",
-  "LastUpdate_Ratings": "2024-07-22T20:59:01.2895257+00:00",
+  "LastUpdate_Ratings": "2024-07-22T22:57:56.7909718+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:28.6657174+00:00"
 }

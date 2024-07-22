@@ -347,7 +347,7 @@ Completed: 82 (0.01%) (Ranked 488)
 | 2024-06-17 | 673,395 | 82 |
 ## Awards
 Max (Great Boss Battles): 659  (Ranked 231)  
-Sum: 856 (Ranked 327)  
+Sum: 857 (Ranked 327)  
 Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): -96
 | This game is Great for Beginners | 43 |
 | This game is Great for Quick Sessions | 37 |
 | This game is Highly Recommended | 36 |
-| This game is Extremely Fun | 35 |
+| This game is Extremely Fun | 36 |
 | This game has Amazing Storytelling | 29 |
 | This game is Relaxing | 28 |
 | This game has Unique Visuals | 24 |
@@ -639,3 +639,4 @@ Diff (max vs sum): -96
 | 2024-07-18 | 4.69 | 651 | 848 |
 | 2024-07-20 | 4.69 | 656 | 853 |
 | 2024-07-21 | 4.69 | 659 | 856 |
+| 2024-07-22 | 4.69 | 659 | 857 |
