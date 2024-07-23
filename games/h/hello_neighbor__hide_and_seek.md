@@ -3,6 +3,13 @@
 [View Rawdata](../../db/h/hello_neighbor__hide_and_seek.json)  
 Rating: 4.34 (Ranked 928)  
 Number of Ratings: 81  (23.09.2022)  
+## Awards
+Max (Great Boss Battles): 20  (Ranked 661)  
+Sum: 20 (Ranked 662)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -118,3 +125,4 @@ Number of Ratings: 81  (23.09.2022)
 | 2024-06-24 | 4.34 | - | 0 | 0 |
 | 2024-07-03 | 4.35 | - | 0 | 0 |
 | 2024-07-16 | 4.34 | - | 0 | 0 |
+| 2024-07-23 | 4.34 | - | 20 | 20 |
