@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Werewolf: The Apocalypse - Purgatory](games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 2024-07-23 | - |  | - | - |
 | [CONSCRIPT](games/c/c35e949c4c29471aa23033ad9bb97879.md) | 2024-07-23 | - |  | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | 4.72 | 0 |
 | [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2024-07-24 | - |  | - | - |
@@ -13,6 +12,7 @@
 | [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-07-25 | - |  | - | - |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 2 | - | - |
 | [Trapaze](games/1/1000868feb26473f82cd34c1d5e1cb06.md) | 2024-07-25 | - |  | - | - |
+| [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2024-07-26 | - |  | - | - |
 | [Micro Tanks](games/d/de3ed17d886342a998ea8b187c656f15.md) | 2024-07-26 | - |  | - | - |
 | [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-07-31 | 35 (1,000 XP) | 0 | - | - |
 | [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-07-31 | 34 (1,000 XP) | 0 | - | - |
@@ -595,7 +595,6 @@
 | [Soul War](games/5/57a8c2548bc244558f5bd74fe7fe85c5.md) | 2099-01-01 | - |  | - | - |
 | [Soulslinger: Envoy of Death](games/4/4f97805eeaf3401095c8baba3bbfa566.md) | 2099-01-01 | - |  | - | - |
 | [Space Nation Online](games/1/12dc38cab446471a86b3c78ba31d0a5f.md) | 2099-01-01 | - |  | - | - |
-| [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2099-01-01 | - |  | - | - |
 | [Spellborne](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [SpellBoundGame](games/2/2af2a7eed5c149bd9d86c48366d4aaba.md) | 2099-01-01 | - |  | - | - |
 | [Spirit of the North 2](games/c/c083fb427c1b49efb2a3af523d545469.md) | 2099-01-01 | - |  | - | - |
