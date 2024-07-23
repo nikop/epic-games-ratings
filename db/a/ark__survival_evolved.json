@@ -24720,10 +24720,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 301782,
       "NumberOfAwardsMax": 70813
+    },
+    {
+      "Time": "2024-07-23T13:59:29.8737884+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 301797,
+      "NumberOfAwardsMax": 70813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 301782,
+  "NumberOfAwards": 301797,
   "NumberOfAwardsMax": 70813,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -24737,7 +24743,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 24644
+      "Count": 24649
     },
     {
       "Text": "This game is Highly Recommended",
@@ -24755,7 +24761,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 23330
+      "Count": 23340
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -24811,8 +24817,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-07-23T11:59:58.3078332+00:00",
+  "LastChanged": "2024-07-23T13:59:29.8737882+00:00",
   "LastUpdate_AppInfo": "2024-07-22T01:59:58.1986792+00:00",
-  "LastUpdate_Ratings": "2024-07-23T11:59:58.3078339+00:00",
+  "LastUpdate_Ratings": "2024-07-23T13:59:29.8737887+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:19.4284414+00:00"
 }
