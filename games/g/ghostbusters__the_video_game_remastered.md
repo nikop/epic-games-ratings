@@ -1,12 +1,12 @@
 # Ghostbusters: The Video Game Remastered
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-the-video-game-remastered)  
 [View Rawdata](../../db/g/ghostbusters__the_video_game_remastered.json)  
-Rating: 4.44 (Ranked 770)  
+Rating: 4.44 (Ranked 769)  
 Number of Ratings: 418  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 122  (Ranked 409)  
+Max (Great Boss Battles): 122  (Ranked 410)  
 Sum: 122 (Ranked 524)  
-Diff (max vs sum): -115  
+Diff (max vs sum): -114  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 122 |
