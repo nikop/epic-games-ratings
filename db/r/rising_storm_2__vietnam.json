@@ -2,7 +2,7 @@
   "ID": "3542a1df211e492bb2abecb7c734f7f9",
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
-  "Ranking_Rating": 685,
+  "Ranking_Rating": 684,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 1090,
@@ -13426,18 +13426,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 9993,
       "NumberOfAwardsMax": 1178
+    },
+    {
+      "Time": "2024-07-23T19:00:13.6654922+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 9994,
+      "NumberOfAwardsMax": 1179
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9993,
-  "NumberOfAwardsMax": 1178,
+  "NumberOfAwards": 9994,
+  "NumberOfAwardsMax": 1179,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1178
+      "Count": 1179
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13517,8 +13523,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-07-23T17:58:41.4461438+00:00",
+  "LastChanged": "2024-07-23T19:00:13.665492+00:00",
   "LastUpdate_AppInfo": "2024-07-22T04:57:15.1804416+00:00",
-  "LastUpdate_Ratings": "2024-07-23T17:58:41.4461444+00:00",
+  "LastUpdate_Ratings": "2024-07-23T19:00:13.6654927+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:33.9967202+00:00"
 }

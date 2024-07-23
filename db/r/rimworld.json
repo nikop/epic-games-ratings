@@ -2,7 +2,7 @@
   "ID": "7051eadbb8c2435caf32a9bc0dc17936",
   "Name": "RimWorld",
   "ProductSlug": "rimworld",
-  "Ranking_Rating": 18,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 1090,
@@ -5375,10 +5375,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 4605,
       "NumberOfAwardsMax": 575
+    },
+    {
+      "Time": "2024-07-23T18:58:21.7129218+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 4606,
+      "NumberOfAwardsMax": 575
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4605,
+  "NumberOfAwards": 4606,
   "NumberOfAwardsMax": 575,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5446,7 +5452,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 437
+      "Count": 438
     }
   ],
   "EOS_Progressed": 0,
@@ -5460,8 +5466,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2024-07-23T15:57:10.0847969+00:00",
+  "LastChanged": "2024-07-23T18:58:21.7129217+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:26.0561297+00:00",
-  "LastUpdate_Ratings": "2024-07-23T16:59:34.3847431+00:00",
+  "LastUpdate_Ratings": "2024-07-23T18:58:21.7129222+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:40.1447281+00:00"
 }
