@@ -365,20 +365,20 @@ Completed: 28 (0.02%) (Ranked 470)
 | 2024-06-17 | 156,564 | 28 |
 ## Awards
 Max (Competitive Players): 345  (Ranked 288)  
-Sum: 3,065 (Ranked 206)  
-Diff (max vs sum): 82  
+Sum: 3,400 (Ranked 199)  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 345 |
 | This game has Challenging Combat | 338 |
-| This game has Diverse Characters | 332 |
+| This game has Diverse Characters | 334 |
 | This game is Extremely Fun | 327 |
 | This game has Quickly Understood Controls | 324 |
 | This game is Relaxing | 321 |
 | This game is Highly Recommended | 301 |
 | This game has Amazing Characters | 293 |
 | This game has Realistic Visuals | 279 |
-| This game has a Competitive Community | 273 |
+| This game has a Competitive Community | 274 |
 | This game has Amazing Storytelling | 264 |
 | This game is Educational | 99 |
 | This game has Obsessive Gameplay | 29 |
@@ -655,3 +655,4 @@ Diff (max vs sum): 82
 | 2024-07-16 | 4.39 | - | 344 | 3,062 |
 | 2024-07-18 | 4.39 | - | 344 | 3,063 |
 | 2024-07-22 | 4.39 | - | 345 | 3,065 |
+| 2024-07-23 | 4.39 | - | 345 | 3,400 |
