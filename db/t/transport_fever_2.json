@@ -3,8 +3,8 @@
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 285,
-  "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 415,
+  "Ranking_Popularity": 519,
+  "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 440,
   "Ranking_EOS_NewPlayers": 18,
@@ -1165,11 +1165,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 389,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-07-23T21:00:21.8854448+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 389,
-  "NumberOfAwardsMax": 55,
+  "NumberOfAwards": 390,
+  "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1212,7 +1218,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has a Creative Community",
@@ -8057,9 +8063,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2024-07-21T17:58:32.9931079+00:00",
+  "LastChanged": "2024-07-23T21:00:21.8854447+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:38.3602278+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:25.0849137+00:00",
-  "LastUpdate_Ratings": "2024-07-23T19:58:10.4512527+00:00",
+  "LastUpdate_Ratings": "2024-07-23T21:00:21.8854452+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:38.3602924+00:00"
 }

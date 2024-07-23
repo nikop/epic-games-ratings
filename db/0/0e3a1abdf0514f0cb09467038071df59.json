@@ -3,8 +3,8 @@
   "Name": "Apeiron",
   "ProductSlug": "apeiron-b83793",
   "Ranking_Rating": 1041,
-  "Ranking_Popularity": 649,
-  "Ranking_PopularitySum": 653,
+  "Ranking_Popularity": 643,
+  "Ranking_PopularitySum": 648,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -341,18 +341,24 @@
       "Rating": 4.24,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-07-23T20:57:19.4719003+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 23,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -367,8 +373,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-27T15:57:08.6160015+00:00",
   "FirstSeenRating": "2024-01-22T08:00:14.8352566+00:00",
-  "LastChanged": "2024-07-18T19:59:04.6412299+00:00",
+  "LastChanged": "2024-07-23T20:57:19.4719002+00:00",
   "LastUpdate_AppInfo": "2024-07-17T17:57:16.8937424+00:00",
-  "LastUpdate_Ratings": "2024-07-23T18:58:38.2290694+00:00",
+  "LastUpdate_Ratings": "2024-07-23T20:57:19.4719007+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:12.5203054+00:00"
 }
