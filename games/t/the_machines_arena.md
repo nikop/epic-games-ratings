@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_machines_arena.json)  
 Rating: 4.72 (Ranked 211)  
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 577)  
+Max (Great Boss Battles): 35  (Ranked 578)  
 Sum: 35 (Ranked 622)  
-Diff (max vs sum): -45  
+Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |
