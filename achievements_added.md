@@ -161,7 +161,7 @@
 | [Never Alone](games/e/e578f95e616d4dc29a70d0f7be01ebb5.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 390 | 4.42 | 29 |
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 2,516 | 4.84 | 56 |
-| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 57,608 | 4.44 | 157 |
+| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 57,608 | 4.44 | 159 |
 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | 64 (1,000 XP) | 25 | - | 0 |
 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 2024-02-04 | 44 (1,000 XP) | 4,555 | 4.13 | 0 |
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 27 | - | 0 |
@@ -301,7 +301,7 @@
 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-11-02 | 36 (1,000 XP) | 57 | - | 0 |
 | [ELEX II](games/e/elex_ii.md) | 2022-03-01 | 50 (1,000 XP) | 590 | 4.28 | 0 |
 | [Wreckfest](games/w/wreckfest.md) | 2023-03-10 | 20 (1,000 XP) | 2,834 | 4.34 | 0 |
-| [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 2,938 | 4.63 | 42 |
+| [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 2,938 | 4.63 | 43 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 1,501 | 4.63 | 35 |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 76 | - | 0 |
 | [Hero Battle Fantasy Arena](games/4/4d936d45ca14450c86d6472c3c494181.md) | 2023-12-15 | 15 (1,000 XP) | 335 | - | 0 |
@@ -495,8 +495,8 @@
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 556,433 | - | 0 |
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 15,348 | 4.17 | 539 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 7,787 | - | 0 |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 62,985 | 4.51 | 13,586 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 635,876 | 4.15 | 38,490 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 62,985 | 4.51 | 13,593 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 635,876 | 4.15 | 38,641 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 4,356 | 4.18 | 35 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 505 | 4.84 | 0 |
 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2024-01-23 | 27 (1,000 XP) | 2 | - | 0 |
