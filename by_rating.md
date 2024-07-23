@@ -24,7 +24,7 @@
 | 20 | [God of War](games/g/god_of_war.md) | 4.87 | 5,920 | 87 |
 | 20 | [Inscryption](games/i/inscryption.md) | 4.87 | 383 | 280 |
 | 20 | [Rain World](games/r/rain_world.md) | 4.87 | 25 | 634 |
-| 20 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 340,525 | 5 |
+| 20 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.87 | 340,765 | 5 |
 | 20 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 18,706 | 25 |
 | 20 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 24 | 640 |
 | 20 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 776 | 216 |
@@ -264,7 +264,7 @@
 | 262 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 672 |
 | 262 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 136,663 | 9 |
 | 262 | [Coromon](games/c/coromon.md) | 4.69 | 51 | 532 |
-| 262 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.69 | 171,584 | 7 |
+| 262 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.69 | 171,674 | 7 |
 | 262 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.69 | 8,622 | 63 |
 | 262 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.69 | 55 | 522 |
 | 262 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.69 | 292 | 302 |
@@ -566,7 +566,7 @@
 | 560 | [Duskers](games/d/duskers.md) | 4.55 | 20 | 661 |
 | 560 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.55 | 1,133 | 176 |
 | 560 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.55 | 28 | 616 |
-| 560 | [Ghostrunner](games/g/ghostrunner.md) | 4.55 | 3,728 | 103 |
+| 560 | [Ghostrunner](games/g/ghostrunner.md) | 4.55 | 3,734 | 103 |
 | 560 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.55 | 0 | 672 |
 | 560 | [Life Makeover Global](games/d/ddce4dcb2dee4a3693e902573c77b146.md) | 4.55 | 95 | 451 |
 | 560 | [Madcar for PC](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.55 | 0 | 672 |
@@ -1083,19 +1083,19 @@
 | 1,079 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.20 | 0 | 672 |
 | 1,079 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 34 | 585 |
 | 1,079 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 4.20 | 0 | 672 |
-| 1,084 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.19 | 0 | 672 |
-| 1,084 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 534 |
-| 1,084 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.19 | 34 | 585 |
-| 1,084 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,656 | 106 |
-| 1,084 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 649 |
-| 1,084 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 672 |
-| 1,084 | [League of Legends](games/l/league_of_legends.md) | 4.19 | 6,861 | 72 |
-| 1,084 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 672 |
-| 1,084 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 4.19 | 0 | 672 |
-| 1,084 | [The Bridge](games/t/the_bridge.md) | 4.19 | 0 | 672 |
-| 1,084 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 672 |
-| 1,084 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 672 |
-| 1,084 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.19 | 0 | 672 |
+| 1,079 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 4.20 | 0 | 672 |
+| 1,085 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.19 | 0 | 672 |
+| 1,085 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 534 |
+| 1,085 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 4.19 | 34 | 585 |
+| 1,085 | [Gotham Knights](games/g/gotham_knights.md) | 4.19 | 3,656 | 106 |
+| 1,085 | [Insurmountable](games/i/insurmountable.md) | 4.19 | 22 | 649 |
+| 1,085 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.19 | 0 | 672 |
+| 1,085 | [League of Legends](games/l/league_of_legends.md) | 4.19 | 6,861 | 72 |
+| 1,085 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 672 |
+| 1,085 | [The Bridge](games/t/the_bridge.md) | 4.19 | 0 | 672 |
+| 1,085 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.19 | 0 | 672 |
+| 1,085 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 672 |
+| 1,085 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.19 | 0 | 672 |
 | 1,097 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 100 | 441 |
 | 1,097 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.18 | 35 | 577 |
 | 1,097 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.18 | 80 | 471 |
@@ -1169,7 +1169,7 @@
 | 1,164 | [The First Tree](games/t/the_first_tree.md) | 4.04 | 0 | 672 |
 | 1,168 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.03 | 0 | 672 |
 | 1,169 | [Armored Warfare](games/a/armored_warfare.md) | 4.02 | 136 | 395 |
-| 1,170 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,925 | 47 |
+| 1,170 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 11,935 | 47 |
 | 1,170 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,268 | 88 |
 | 1,172 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 4.00 | 0 | 672 |
 | 1,172 | [Karos Classic](games/0/0aab4b93b04d4b23bd8ea803d0a481d7.md) | 4.00 | 0 | 672 |
