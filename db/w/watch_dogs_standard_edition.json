@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs",
   "Ranking_Rating": 498,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -4435,10 +4435,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 988,
       "NumberOfAwardsMax": 163
+    },
+    {
+      "Time": "2024-07-23T20:00:26.3234139+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 989,
+      "NumberOfAwardsMax": 163
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 988,
+  "NumberOfAwards": 989,
   "NumberOfAwardsMax": 163,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4464,7 +4470,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 143
+      "Count": 144
     },
     {
       "Text": "This game is Relaxing",
@@ -4532,8 +4538,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2024-07-23T06:58:51.4434511+00:00",
+  "LastChanged": "2024-07-23T20:00:26.3234137+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:58:17.3548086+00:00",
-  "LastUpdate_Ratings": "2024-07-23T18:00:51.0109941+00:00",
+  "LastUpdate_Ratings": "2024-07-23T20:00:26.3234143+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:56.767845+00:00"
 }
