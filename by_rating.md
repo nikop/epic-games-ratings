@@ -46,14 +46,14 @@
 | 38 | [Shadow Man Remastered](games/s/shadow_man_remastered.md) | 4.85 | 0 | 672 |
 | 38 | [Subnautica](games/s/subnautica.md) | 4.85 | 930 | 199 |
 | 46 | [A Short Hike](games/a/a_short_hike.md) | 4.84 | 0 | 672 |
-| 46 | [Blasphemous](games/b/blasphemous.md) | 4.84 | 229 | 334 |
+| 46 | [Blasphemous](games/b/blasphemous.md) | 4.84 | 229 | 335 |
 | 46 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.84 | 0 | 672 |
 | 46 | [Dead Cells](games/d/dead_cells.md) | 4.84 | 448 | 265 |
 | 46 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 56 | 518 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 8,813 | 62 |
 | 46 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 672 |
 | 46 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 4.84 | 0 | 672 |
-| 46 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,678 | 34 |
+| 46 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 15,687 | 34 |
 | 46 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.84 | 323 | 291 |
 | 46 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 307 | 297 |
 | 46 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.84 | 0 | 672 |
@@ -188,7 +188,7 @@
 | 173 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.74 | 103 | 435 |
 | 173 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.74 | 0 | 672 |
 | 173 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 995 | 189 |
-| 173 | [Timberborn](games/t/timberborn.md) | 4.74 | 218 | 336 |
+| 173 | [Timberborn](games/t/timberborn.md) | 4.74 | 218 | 337 |
 | 173 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 672 |
 | 173 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 567 | 242 |
 | 173 | [World of Goo](games/w/world_of_goo.md) | 4.74 | 0 | 672 |
@@ -527,7 +527,7 @@
 | 525 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 672 |
 | 525 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 248 | 322 |
 | 525 | [Costume Quest](games/c/costume_quest.md) | 4.57 | 0 | 672 |
-| 525 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.57 | 218 | 336 |
+| 525 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.57 | 230 | 334 |
 | 525 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 672 |
 | 525 | [Hob](games/h/hob.md) | 4.57 | 0 | 672 |
 | 525 | [Hue](games/h/hue.md) | 4.57 | 0 | 672 |
@@ -615,7 +615,7 @@
 | 610 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 4.53 | 0 | 672 |
 | 610 | [GigaBash](games/g/gigabash.md) | 4.53 | 113 | 423 |
 | 610 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.53 | 40 | 558 |
-| 610 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 221 | 335 |
+| 610 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.53 | 221 | 336 |
 | 610 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 672 |
 | 610 | [Redout 2](games/r/redout_2.md) | 4.53 | 0 | 672 |
 | 610 | [RUINER](games/r/ruiner.md) | 4.53 | 27 | 623 |
@@ -705,7 +705,7 @@
 | 699 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 284 | 307 |
 | 699 | [Figment](games/f/figment.md) | 4.48 | 22 | 649 |
 | 699 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.48 | 0 | 672 |
-| 699 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,335 | 98 |
+| 699 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.48 | 4,337 | 98 |
 | 699 | [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 4.48 | 0 | 672 |
 | 699 | [Knockout City™](games/k/knockout_city™.md) | 4.48 | 0 | 672 |
 | 699 | [Need for Speed™ Most Wanted](games/8/864f3eeec6284483b630cc58021a04a7.md) | 4.48 | 0 | 672 |
@@ -1060,7 +1060,7 @@
 | 1,058 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 188 |
 | 1,058 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.23 | 0 | 672 |
 | 1,060 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.22 | 0 | 672 |
-| 1,060 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 672 | 229 |
+| 1,060 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.22 | 676 | 229 |
 | 1,060 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.22 | 0 | 672 |
 | 1,060 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.22 | 217 | 338 |
 | 1,060 | [Gone Home](games/g/gone_home.md) | 4.22 | 0 | 672 |
