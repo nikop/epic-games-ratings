@@ -30,7 +30,7 @@
 | 28 | [SnowRunner](games/s/snowrunner.md) | 17,767 | 4.75 | 156 |
 | 29 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 17,713 | 4.59 | 478 |
 | 30 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 17,633 | 4.60 | 455 |
-| 31 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 16,555 | 4.49 | 685 |
+| 31 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 16,583 | 4.49 | 685 |
 | 32 | [Dead Island 2](games/d/dead_island_2.md) | 15,978 | 4.54 | 581 |
 | 33 | [Killing Floor 2](games/k/killing_floor_2.md) | 15,974 | 4.44 | 770 |
 | 34 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,687 | 4.84 | 46 |
@@ -58,7 +58,7 @@
 | 56 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 10,012 | 4.68 | 285 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 9,880 | 4.74 | 173 |
 | 58 | [Control](games/c/control.md) | 9,678 | 4.61 | 426 |
-| 59 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 9,217 | 4.49 | 685 |
+| 59 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 9,229 | 4.49 | 685 |
 | 60 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 9,137 | 4.44 | 770 |
 | 61 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 8,893 | 4.75 | 156 |
 | 62 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,813 | 4.84 | 46 |
@@ -107,7 +107,7 @@
 | 105 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,673 | 4.57 | 525 |
 | 106 | [Gotham Knights](games/g/gotham_knights.md) | 3,656 | 4.19 | 1,084 |
 | 107 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,637 | 4.76 | 144 |
-| 108 | [Among Us](games/a/among_us.md) | 3,578 | 4.55 | 560 |
+| 108 | [Among Us](games/a/among_us.md) | 3,581 | 4.55 | 560 |
 | 109 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,461 | 4.54 | 581 |
 | 110 | [RAGE 2](games/r/rage_2.md) | 3,247 | 4.26 | 1,013 |
 | 111 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 3,057 | 4.12 | 1,132 |
@@ -206,7 +206,7 @@
 | 204 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 858 | 3.98 | 1,179 |
 | 205 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 829 | 4.68 | 285 |
 | 206 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 824 | 4.87 | 20 |
-| 207 | [Core](games/c/core.md) | 818 | 4.34 | 928 |
+| 207 | [Core](games/c/core.md) | 819 | 4.34 | 928 |
 | 208 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 816 | 4.28 | 991 |
 | 209 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 808 | 4.83 | 63 |
 | 210 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 804 | 4.51 | 643 |
@@ -372,8 +372,8 @@
 | 370 | [First Class Trouble](games/f/first_class_trouble.md) | 168 | 4.47 | 718 |
 | 370 | [Going Medieval](games/g/going_medieval.md) | 168 | 4.61 | 426 |
 | 372 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 165 | 4.51 | 643 |
-| 373 | [Aimlabs](games/a/aimlabs.md) | 163 | 4.59 | 478 |
-| 373 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 163 | 4.58 | 498 |
+| 373 | [Aimlabs](games/a/aimlabs.md) | 164 | 4.59 | 478 |
+| 374 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 163 | 4.58 | 498 |
 | 375 | [Night in the Woods](games/n/night_in_the_woods.md) | 160 | 4.73 | 194 |
 | 376 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 159 | 3.91 | 1,197 |
 | 377 | [Metalstorm](games/m/metalstorm.md) | 157 | 4.44 | 770 |
