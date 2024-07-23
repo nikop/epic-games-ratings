@@ -4,7 +4,7 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 1204,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 1090,
   "Ranking_EOS_Completed": 512,
   "Ranking_EOS_NewPlayers": 18,
@@ -5476,10 +5476,16 @@
       "Rating": 3.88,
       "NumberOfAwards": 2940,
       "NumberOfAwardsMax": 517
+    },
+    {
+      "Time": "2024-07-23T17:59:49.7751362+00:00",
+      "Rating": 3.88,
+      "NumberOfAwards": 3322,
+      "NumberOfAwardsMax": 517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2940,
+  "NumberOfAwards": 3322,
   "NumberOfAwardsMax": 517,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5541,7 +5547,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 370
+      "Count": 382
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5561,8 +5567,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2024-07-19T07:57:08.5753807+00:00",
+  "LastChanged": "2024-07-23T17:59:49.775136+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:40.0579296+00:00",
-  "LastUpdate_Ratings": "2024-07-23T15:59:59.8878727+00:00",
+  "LastUpdate_Ratings": "2024-07-23T17:59:49.7751367+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:33.56443+00:00"
 }
