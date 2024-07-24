@@ -10,6 +10,7 @@
 | [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-07-25 | - |  | - | - |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 2 | - | - |
 | [Trapaze](games/1/1000868feb26473f82cd34c1d5e1cb06.md) | 2024-07-25 | - |  | - | - |
+| [Bewitched Part 1](games/a/ad301bcb6ada429a8877384b65aff932.md) | 2024-07-26 | - |  | - | - |
 | [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2024-07-26 | - |  | - | - |
 | [Micro Tanks](games/d/de3ed17d886342a998ea8b187c656f15.md) | 2024-07-26 | - |  | - | - |
 | [Survivors Will](games/0/0a3bdf37e8b84849bb86db9be2eda7cd.md) | 2024-07-30 | - |  | - | - |
@@ -90,6 +91,7 @@
 | [Honeycomb: The World Beyond](games/b/bedc86bbe4e6422e8216541921e4fd10.md) | 2024-09-30 | - |  | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-09-30 | 16 (1,000 XP) | 0 | - | - |
 | [KMON: World of Kogaea](games/e/edf3f9a1425d408cb5d5b28fda549f04.md) | 2024-09-30 | - |  | - | - |
+| [Light](games/5/59714a4f6551469ca752fbf4d00a21ad.md) | 2024-09-30 | - |  | - | - |
 | [Lost Lullabies](games/2/2eb0ee8613b0414ebb07dbbf006f029c.md) | 2024-09-30 | - |  | - | - |
 | [Metarush](games/c/c9bc37f95dbc4104bdfa7f8e1da7a149.md) | 2024-09-30 | - |  | - | - |
 | [Project Tower](games/a/a9d8b50783fa4e3aa449991c563c9217.md) | 2024-09-30 | - |  | - | - |
@@ -188,6 +190,7 @@
 | [Nikoderiko: The Magical World](games/0/02968e20aefe4b798e179e182cede492.md) | 2024-12-31 | - |  | - | - |
 | [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
 | [Puppet House](games/d/d581f8bd34204f98af1a404d99bd347a.md) | 2024-12-31 | - |  | - | - |
+| [Realpolitiks 3: Earth and Beyond](games/b/ba2f4991f6aa48ac8c7313b7b1dab551.md) | 2024-12-31 | - |  | - | - |
 | [Rebirth of Arcadia](games/9/918384f1d23c4b09aa02ac3639536e00.md) | 2024-12-31 | - |  | - | - |
 | [RetraceTheLight](games/8/8154a95d8e314c43984ae952dd55e8dd.md) | 2024-12-31 | - |  | - | - |
 | [REVENGE](games/6/6beebb4d356a48118e607e2112bca45f.md) | 2024-12-31 | - |  | - | - |
@@ -365,6 +368,7 @@
 | [Dismay](games/d/dismay.md) | 2099-01-01 | - |  | - | - |
 | [Don Duality](games/2/2325c580f06d4eb4ba6814c1b6802bed.md) | 2099-01-01 | - |  | - | - |
 | [Don't Turn Back](games/a/afa43d028dd1408189c2cb83f846fbd6.md) | 2099-01-01 | - |  | - | - |
+| [Draw & Guess](games/7/777b78ab6336430396cfe89d7081efba.md) | 2099-01-01 | - |  | - | - |
 | [Dreamsettler](games/d/dreamsettler.md) | 2099-01-01 | - |  | - | - |
 | [Drift Reign](games/f/f683e94995e94d229a23ac80b3de6bdc.md) | 2099-01-01 | - |  | - | - |
 | [Dumbriel - Magnificent Adventure in Hell](games/d/dda406e1f3d54507b7de96870809da62.md) | 2099-01-01 | - |  | - | - |

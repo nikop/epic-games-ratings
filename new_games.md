@@ -32,7 +32,6 @@
 | [Megapolis](games/b/bb41e07f50464edb958e13c6531fe78c.md) | 2024-07-15 | - |  | - | 0 |
 | [Touch the Color](games/a/adc4991d2edb4cdf80d47822d9149169.md) | 2024-07-15 | - |  | - | - |
 | [Dragon Chronicles: Black Tears](games/6/6ed45680bbff4a6993b7ccebe02a1f9d.md) | 2024-07-15 | - |  | - | 0 |
-| [Bewitched Part 1](games/a/ad301bcb6ada429a8877384b65aff932.md) | 2024-07-14 | - |  | - | - |
 | [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2024-07-13 | 33 (1,000 XP) | 11 | - | 0 |
 | [Retro Racers](games/5/512b8b46fc5d4a31816c0fba4ff80a3a.md) | 2024-07-13 | - |  | - | - |
 | [Hidden Shapes Old West](games/9/93ebef1040cb410fbe2b72237a6e26e0.md) | 2024-07-12 | 42 (1,000 XP) | 3 | - | - |
@@ -50,7 +49,7 @@
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | - |  | - | 0 |
 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | 4.36 | 21 |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2024-07-10 | - |  | 4.19 | 0 |
-| [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2024-07-09 | - |  | 4.41 | 34 |
+| [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2024-07-09 | - |  | 4.41 | 38 |
 | [Lifeless Moon](games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 2024-07-09 | - |  | - | 0 |
 | [Maisa: Galactic Bounty Hunter](games/1/15e3c5fe82e84c31b49eeb842b4fa001.md) | 2024-07-08 | - |  | - | - |
 | [Blood West](games/c/cfd5606247d5400480bb7dccec626f1a.md) | 2024-07-08 | 35 (1,000 XP) | 2 | - | 0 |
