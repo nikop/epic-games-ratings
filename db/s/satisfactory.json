@@ -2,7 +2,7 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 19,
+  "Ranking_Rating": 18,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 1091,
@@ -23969,10 +23969,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 143505,
       "NumberOfAwardsMax": 18753
+    },
+    {
+      "Time": "2024-07-24T18:57:19.5655067+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 143520,
+      "NumberOfAwardsMax": 18753
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143505,
+  "NumberOfAwards": 143520,
   "NumberOfAwardsMax": 18753,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -24040,7 +24046,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 11155
+      "Count": 11170
     }
   ],
   "EOS_Progressed": 0,
@@ -24062,9 +24068,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-07-24T16:58:47.8387413+00:00",
+  "LastChanged": "2024-07-24T18:57:19.5655066+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:38.6524438+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:58:14.4872631+00:00",
-  "LastUpdate_Ratings": "2024-07-24T16:58:47.8387485+00:00",
+  "LastUpdate_Ratings": "2024-07-24T18:57:19.5655071+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:38.6524498+00:00"
 }

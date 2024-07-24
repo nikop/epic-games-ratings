@@ -1,4 +1,4 @@
-# Flatout 2
+# FlatOut 2
 [Store](https://store.epicgames.com/en-US/p/flatout-2-9ffdd6)  
 [View Rawdata](../../db/f/flatout_2.json)  
 Rating: 4.89 (Ranked 11)  
