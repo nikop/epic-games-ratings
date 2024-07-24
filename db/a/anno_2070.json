@@ -3,8 +3,8 @@
   "Name": "Anno 2070",
   "ProductSlug": "anno-2070",
   "Ranking_Rating": 582,
-  "Ranking_Popularity": 674,
-  "Ranking_PopularitySum": 674,
+  "Ranking_Popularity": 673,
+  "Ranking_PopularitySum": 673,
   "Ranking_EOS_Progress": 1091,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 16,
@@ -297,6 +297,6 @@
   "FirstSeenRating": "2022-08-02T00:31:48.9578062+00:00",
   "LastChanged": "2024-07-21T16:01:30.6032838+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:34.2629585+00:00",
-  "LastUpdate_Ratings": "2024-07-24T21:01:27.5051943+00:00",
+  "LastUpdate_Ratings": "2024-07-24T22:58:53.9605013+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:26.3424438+00:00"
 }

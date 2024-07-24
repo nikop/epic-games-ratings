@@ -3,8 +3,8 @@
   "Name": "Pacific Drive",
   "ProductSlug": "pacific-drive",
   "Ranking_Rating": 365,
-  "Ranking_Popularity": 674,
-  "Ranking_PopularitySum": 674,
+  "Ranking_Popularity": 673,
+  "Ranking_PopularitySum": 673,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 3,
@@ -686,6 +686,6 @@
   "LastChanged": "2024-07-24T03:00:46.2296334+00:00",
   "LastChanged_Achievements": "2024-06-26T14:10:22.9190096+00:00",
   "LastUpdate_AppInfo": "2024-07-21T13:57:14.3031105+00:00",
-  "LastUpdate_Ratings": "2024-07-24T21:57:16.5557565+00:00",
+  "LastUpdate_Ratings": "2024-07-24T22:59:06.3723979+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:10:22.9190404+00:00"
 }
