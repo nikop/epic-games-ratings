@@ -3,7 +3,7 @@
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
   "Ranking_Rating": 261,
-  "Ranking_Popularity": 63,
+  "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 471,
@@ -15430,10 +15430,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 23851,
       "NumberOfAwardsMax": 8627
+    },
+    {
+      "Time": "2024-07-24T16:59:45.238657+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 23854,
+      "NumberOfAwardsMax": 8627
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23851,
+  "NumberOfAwards": 23854,
   "NumberOfAwardsMax": 8627,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15453,7 +15459,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1774
+      "Count": 1775
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15471,7 +15477,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1537
+      "Count": 1538
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15507,7 +15513,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1250
+      "Count": 1251
     }
   ],
   "EOS_Progressed": 142316,
@@ -46574,9 +46580,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-07-24T13:58:37.5625078+00:00",
+  "LastChanged": "2024-07-24T16:59:45.2386569+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:30.1568094+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:58:28.9407686+00:00",
-  "LastUpdate_Ratings": "2024-07-24T15:01:19.2617927+00:00",
+  "LastUpdate_Ratings": "2024-07-24T16:59:45.2386575+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:30.1569738+00:00"
 }

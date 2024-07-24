@@ -4,8 +4,8 @@
 Rating: 4.71 (Ranked 222)  
 ## Awards
 Max (Quickly Understood Controls): 33  (Ranked 594)  
-Sum: 215 (Ranked 479)  
-Diff (max vs sum): 115  
+Sum: 216 (Ranked 480)  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 115
 | This game is Highly Recommended | 26 |
 | This game is Educational | 25 |
 | This game is Extremely Fun | 24 |
-| This game has a Creative Community | 22 |
+| This game has a Creative Community | 23 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -136,4 +136,4 @@ Diff (max vs sum): 115
 | 2024-07-12 | 4.71 | 32 | 211 |
 | 2024-07-16 | 4.71 | 32 | 213 |
 | 2024-07-20 | 4.71 | 33 | 214 |
-| 2024-07-24 | 4.71 | 33 | 215 |
+| 2024-07-24 | 4.71 | 33 | 216 |
