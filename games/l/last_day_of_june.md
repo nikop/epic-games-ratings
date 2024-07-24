@@ -1,7 +1,7 @@
 # Last Day of June
 [Store](https://store.epicgames.com/en-US/p/last-day-of-june)  
 [View Rawdata](../../db/l/last_day_of_june.json)  
-Rating: 4.65 (Ranked 336)  
+Rating: 4.66 (Ranked 323)  
 Number of Ratings: 33  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -38,3 +38,4 @@ Number of Ratings: 33  (23.09.2022)
 | 2023-12-14 | 4.63 | - | 0 | 0 |
 | 2024-04-21 | 4.64 | - | 0 | 0 |
 | 2024-07-13 | 4.65 | - | 0 | 0 |
+| 2024-07-24 | 4.66 | - | 0 | 0 |
