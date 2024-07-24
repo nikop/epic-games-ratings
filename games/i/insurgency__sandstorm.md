@@ -332,7 +332,7 @@ Completed: 3 (0.00%) (Ranked 513)
 | 2024-07-24 | 619,151 | 3 |
 ## Awards
 Max (Challenging Combat): 512  (Ranked 251)  
-Sum: 4,146 (Ranked 181)  
+Sum: 4,147 (Ranked 181)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): 70
 | This game has Competitive Players | 454 |
 | This game has Amazing Characters | 432 |
 | This game has Amazing Storytelling | 424 |
-| This game has a Competitive Community | 412 |
+| This game has a Competitive Community | 413 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -867,4 +867,4 @@ Diff (max vs sum): 70
 | 2024-07-21 | 4.61 | - | 511 | 4,128 |
 | 2024-07-22 | 4.61 | - | 511 | 4,132 |
 | 2024-07-23 | 4.61 | - | 512 | 4,141 |
-| 2024-07-24 | 4.61 | - | 512 | 4,146 |
+| 2024-07-24 | 4.61 | - | 512 | 4,147 |
