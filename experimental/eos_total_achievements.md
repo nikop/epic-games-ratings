@@ -280,6 +280,7 @@
 | [STAR WARS™: Squadrons](../games/s/star_wars™__squadrons.md) | 47 | 1,000 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [The Fabulous Fear Machine](../games/t/the_fabulous_fear_machine.md) | 47 | 1,000 |
+| [Werewolf: The Apocalypse - Purgatory](../games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 47 | 1,000 |
 | [Agatha Christie - Hercule Poirot: The London Case](../games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 46 | 1,000 |
 | [BIOMUTANT](../games/b/biomutant.md) | 46 | 1,000 |
 | [Blasphemous 2](../games/c/c2890856ddb844f1a7d552fc929838a7.md) | 46 | 1,000 |
@@ -515,6 +516,7 @@
 | [Formula Evolution 2024](../games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 33 | 1,000 |
 | [Gravity Oddity](../games/b/bd49e68e53fc4da0b14d054354575cea.md) | 33 | 1,000 |
 | [Horse Tales - Emerald Valley Ranch](../games/h/horse_tales_-_emerald_valley_ranch.md) | 33 | 1,000 |
+| [Kingsgrave](../games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 33 | 1,000 |
 | [Motorbike Evolution 2024](../games/e/e278531bc44245d29329e60389bd04ad.md) | 33 | 1,000 |
 | [My Lovely Wife](../games/m/my_lovely_wife.md) | 33 | 1,000 |
 | [NHRA Championship Drag Racing - Speed For All](../games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 33 | 1,000 |
@@ -1114,6 +1116,7 @@
 | [Cat Slide Tiles](../games/3/344d0216bb1f4f5ca084a7a613478efa.md) | 6 | 1,000 |
 | [Cybernetic Fault](../games/f/fef01803e2f1468591535ce1709b89b7.md) | 6 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
+| [Firelight Fantasy: Force Energy](../games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 6 | 1,000 |
 | [Funtoon's World](../games/a/a7ec33941949459cab07e39c65ca4309.md) | 6 | 1,000 |
 | [Get Slapped!](../games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 6 | 1,000 |
 | [Gladiator : Blades of Fury](../games/2/285b64782090429a8c055d913b2c93f1.md) | 6 | 1,000 |
@@ -1154,6 +1157,7 @@
 | [NINJA KATO 3](../games/4/45e5366436ed4058ad268d41516c4c0d.md) | 5 | 1,000 |
 | [Party Monsterzz](../games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 5 | 1,000 |
 | [Quiz Time](../games/3/3a4eb3f9b5b34db6aeed3a636c4fd154.md) | 5 | 1,000 |
+| [Run Hero](../games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 5 | 1,000 |
 | [Space Accident](../games/1/18efd480ed4549688383b6036df07bc2.md) | 5 | 1,000 |
 | [Super Kids Racing - Mini Edition](../games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 5 | 1,000 |
 | [Tabletop Playground](../games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 5 | 1,000 |

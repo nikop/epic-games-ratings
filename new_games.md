@@ -1,8 +1,10 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Globe Go](games/6/68a38fd9bc32457caaf02d55b7e7fe18.md) | 2024-07-24 | - |  | - | - |
+| [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2024-07-24 | - |  | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | 4.74 | 0 |
 | [CONSCRIPT](games/c/c35e949c4c29471aa23033ad9bb97879.md) | 2024-07-23 | - |  | - | - |
-| [Werewolf: The Apocalypse - Purgatory](games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 2024-07-23 | - |  | - | - |
+| [Werewolf: The Apocalypse - Purgatory](games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 2024-07-23 | 47 (1,000 XP) | 0 | - | - |
 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | - |  | - | 0 |
 | [The Star Named EOS](games/7/7ce9f498f68c49cb82f60e04335d917f.md) | 2024-07-23 | - |  | - | - |
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | - |  | - | 0 |
@@ -29,7 +31,7 @@
 | [Touch the Color](games/a/adc4991d2edb4cdf80d47822d9149169.md) | 2024-07-15 | - |  | - | - |
 | [Dragon Chronicles: Black Tears](games/6/6ed45680bbff4a6993b7ccebe02a1f9d.md) | 2024-07-15 | - |  | - | 0 |
 | [Bewitched Part 1](games/a/ad301bcb6ada429a8877384b65aff932.md) | 2024-07-14 | - |  | - | - |
-| [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2024-07-13 | - |  | - | 0 |
+| [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2024-07-13 | 33 (1,000 XP) | 11 | - | 0 |
 | [Retro Racers](games/5/512b8b46fc5d4a31816c0fba4ff80a3a.md) | 2024-07-13 | - |  | - | - |
 | [Hidden Shapes Old West](games/9/93ebef1040cb410fbe2b72237a6e26e0.md) | 2024-07-12 | 42 (1,000 XP) | 3 | - | - |
 | [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.38 | 0 |
@@ -46,7 +48,7 @@
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | - |  | - | 0 |
 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | 4.31 | 21 |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2024-07-10 | - |  | 4.19 | 0 |
-| [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2024-07-09 | - |  | 4.41 | 32 |
+| [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2024-07-09 | - |  | 4.41 | 34 |
 | [Lifeless Moon](games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 2024-07-09 | - |  | - | 0 |
 | [Maisa: Galactic Bounty Hunter](games/1/15e3c5fe82e84c31b49eeb842b4fa001.md) | 2024-07-08 | - |  | - | - |
 | [Blood West](games/c/cfd5606247d5400480bb7dccec626f1a.md) | 2024-07-08 | 35 (1,000 XP) | 2 | - | 0 |
@@ -107,7 +109,7 @@
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-27 | - |  | - | 0 |
 | [Space Wolf](games/6/67b63764a0ad4f9a86559d8b798ef25e.md) | 2024-06-27 | - |  | - | - |
 | [The Adventures of Prince Shiratama ~Climb the mountains~](games/4/4334a911c46b4816b3d6580f5dd03fab.md) | 2024-06-26 | - |  | - | 0 |
-| [Firelight Fantasy: Force Energy](games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 2024-06-26 | - |  | - | - |
+| [Firelight Fantasy: Force Energy](games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 2024-06-26 | 6 (1,000 XP) | 16 | - | - |
 | [PolyClassic: Wild](games/1/1d8b0901c1794bb3a136a2877b569c5b.md) | 2024-06-26 | - |  | - | - |
 | [Cycles](games/7/796819dc95244ad3b421b64b4a93df9a.md) | 2024-06-25 | - |  | - | 0 |
 | [Beyond Good & Evil 20th Anniversary Edition](games/3/331749a654a242e09975a6fbde1940cc.md) | 2024-06-25 | - |  | - | 0 |
@@ -115,4 +117,3 @@
 | [Madiha In The Forsaken Dungeon](games/7/7f389c9fc7a948b9a944af9bc652bfa3.md) | 2024-06-24 | - |  | - | - |
 | [Coreborn](games/f/f1c9dd3a1471408f9e1f6bf0aad94698.md) | 2024-06-24 | - |  | - | 0 |
 | [The Smurfs - Village Party](games/e/e0d342096dbe47e9a41a2b7735683edd.md) | 2024-06-24 | - |  | - | - |
-| [Exverse](games/1/1f39dc63e52d41d6aa207542f3cb22da.md) | 2024-06-24 | - |  | - | 0 |

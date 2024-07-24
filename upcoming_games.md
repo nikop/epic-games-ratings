@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2024-07-24 | - |  | - | - |
 | [Silenced: The House](games/d/d58638016a464d09919c32f8830f682e.md) | 2024-07-24 | - |  | - | - |
 | [Hannah's Day](games/9/9bed0b06c3de4f39be171578a828da1a.md) | 2024-07-25 | - |  | - | - |
 | [Happy Lab](games/e/e93d97d4ad334c75b10412ae114c00dd.md) | 2024-07-25 | - |  | - | - |
@@ -411,7 +410,6 @@
 | [Gastro Force](games/g/gastro_force.md) | 2099-01-01 | - |  | - | - |
 | [Gematombe](games/g/gematombe.md) | 2099-01-01 | - |  | - | - |
 | [GHOST at DAWN](games/7/709be43d805f419daa4880a85185a152.md) | 2099-01-01 | - |  | - | - |
-| [Globe Go](games/6/68a38fd9bc32457caaf02d55b7e7fe18.md) | 2099-01-01 | - |  | - | - |
 | [Goddess Connect](games/e/eebea9ae68284b4c9701d4cbd990d176.md) | 2099-01-01 | - |  | - | - |
 | [Golden Tides](games/2/260d3867eaa144fe9b0cd339fdb1b6ab.md) | 2099-01-01 | - |  | - | - |
 | [Goldilock One - BOSS Arena](games/g/goldilock_one_-_boss_arena.md) | 2099-01-01 | - |  | - | - |
@@ -569,7 +567,7 @@
 | [Rising Heat](games/2/2835eeff30174fcdaea3114f6b79aaf5.md) | 2099-01-01 | - |  | - | - |
 | [Rogue Labyrinth](games/d/de2c3bf324c1479e8f187604b5cb9cba.md) | 2099-01-01 | - |  | - | - |
 | [Rooted](games/0/0c0ddf9e73d7480cb81033411e840dd1.md) | 2099-01-01 | - |  | - | - |
-| [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2099-01-01 | - |  | - | - |
+| [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2099-01-01 | 5 (1,000 XP) | 0 | - | - |
 | [Rune Seeker](games/d/d3bd62d6a6db42d0b2763f169549ba7a.md) | 2099-01-01 | - |  | - | - |
 | [Runeroots TD](games/2/2f169ae019ee48318209c0aebef2b378.md) | 2099-01-01 | - |  | - | - |
 | [SAE](games/6/686efc1d997044d9ad89f3601f859f68.md) | 2099-01-01 | - |  | - | - |

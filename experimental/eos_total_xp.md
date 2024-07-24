@@ -419,6 +419,7 @@
 | [Filament](../games/f/filament.md) | 29 | 1,000 |
 | [Filthy Animals \| Heist Simulator](../games/f/filthy_animals___heist_simulator.md) | 28 | 1,000 |
 | [Fire: Ungh’s Quest](../games/f/fire__ungh’s_quest.md) | 27 | 1,000 |
+| [Firelight Fantasy: Force Energy](../games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 6 | 1,000 |
 | [Fireside](../games/2/206c851f04544725af8abb022128dd0d.md) | 44 | 1,000 |
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Fishing Planet](../games/4/441b1561f48746059211ab905f4abc93.md) | 20 | 1,000 |
@@ -577,6 +578,7 @@
 | [Kingdom Come: Deliverance](../games/k/kingdom_come__deliverance.md) | 82 | 1,000 |
 | [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 |
 | [Kingdoms of Amalur: Re-Reckoning](../games/k/kingdoms_of_amalur__re-reckoning.md) | 69 | 1,000 |
+| [Kingsgrave](../games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 33 | 1,000 |
 | [KLONOA Phantasy Reverie Series](../games/7/7120b2046fd845578509f66420ffc251.md) | 25 | 1,000 |
 | [Knight Swap](../games/d/d62ad943ddbb4d0b8aa4969f31260bc5.md) | 10 | 1,000 |
 | [Knight vs Giant: The Broken Excalibur](../games/9/973549a03a1441058badf7a1bc8b565d.md) | 25 | 1,000 |
@@ -827,6 +829,7 @@
 | [Rocco's Island](../games/r/rocco's_island.md) | 40 | 1,000 |
 | [Rocket League®](../games/r/rocket_league®.md) | 88 | 1,000 |
 | [Rogue Spirit](../games/r/rogue_spirit.md) | 60 | 1,000 |
+| [Run Hero](../games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 5 | 1,000 |
 | [Runbow](../games/r/runbow.md) | 46 | 1,000 |
 | [Russian Village Simulator](../games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 50 | 1,000 |
 | [Sable](../games/s/sable.md) | 56 | 1,000 |
@@ -1121,6 +1124,7 @@
 | [We Were Here Expeditions: The FriendShip](../games/8/88feec140a2f41c3954365c24393be14.md) | 12 | 1,000 |
 | [Weed Shop 3](../games/8/84367f1107b84e12ae5d2ef1d36d071e.md) | 42 | 1,000 |
 | [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
+| [Werewolf: The Apocalypse - Purgatory](../games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 47 | 1,000 |
 | [Whacking Hell!](../games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 23 | 1,000 |
 | [What The Duck](../games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 44 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
