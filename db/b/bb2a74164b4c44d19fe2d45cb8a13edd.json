@@ -3,8 +3,8 @@
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
   "Ranking_Rating": 831,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 486,
+  "Ranking_Popularity": 565,
+  "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 1091,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 16,
@@ -378,18 +378,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 204,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-07-24T14:59:06.2587456+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 204,
-  "NumberOfAwardsMax": 34,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 210,
+  "NumberOfAwardsMax": 38,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 32
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -440,8 +446,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-07-24T01:56:38.257514+00:00",
+  "LastChanged": "2024-07-24T14:59:06.2587454+00:00",
   "LastUpdate_AppInfo": "2024-07-18T01:54:57.7554386+00:00",
-  "LastUpdate_Ratings": "2024-07-24T13:09:35.469125+00:00",
+  "LastUpdate_Ratings": "2024-07-24T14:59:06.2587459+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.1043605+00:00"
 }
