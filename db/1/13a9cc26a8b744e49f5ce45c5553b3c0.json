@@ -2,10 +2,10 @@
   "ID": "13a9cc26a8b744e49f5ce45c5553b3c0",
   "Name": "Red Chaos",
   "ProductSlug": "red-chaos-b0367a",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-02-16T10:30:00+00:00",
     "PcReleaseDate": "2024-02-21T05:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-16T16:57:49.1796303+00:00",
   "LastUpdate_AppInfo": "2024-07-20T04:57:24.0805513+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:50.5653343+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:59:15.9558455+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:42.8037633+00:00"
 }

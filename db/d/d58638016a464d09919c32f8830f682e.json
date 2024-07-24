@@ -2,10 +2,10 @@
   "ID": "d58638016a464d09919c32f8830f682e",
   "Name": "Silenced: The House",
   "ProductSlug": "silenced-the-house-e6fd68",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-24T16:00:00+00:00",
     "PcReleaseDate": "2018-03-07T22:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-20T03:57:08.0637717+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:07.7980011+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:58:31.4497669+00:00"
 }

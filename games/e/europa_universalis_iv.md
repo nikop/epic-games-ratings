@@ -381,7 +381,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Veritas Vincit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 570,109 (Ranked 42)  
-Completed: 5 (0.00%) (Ranked 512)  
+Completed: 5 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

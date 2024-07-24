@@ -2,10 +2,10 @@
   "ID": "5bacc25fb66544fdad2982efe9630eb1",
   "Name": "Croakwood",
   "ProductSlug": "croakwood-3397e3",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-19T10:57:10.2693081+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:34.7386498+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:57:16.3863724+00:00"
 }

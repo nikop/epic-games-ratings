@@ -2,10 +2,10 @@
   "ID": "eebea9ae68284b4c9701d4cbd990d176",
   "Name": "Goddess Connect",
   "ProductSlug": "goddess-connect-aa307d",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T04:57:12.1782288+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:19.4159605+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:58:43.4036663+00:00"
 }

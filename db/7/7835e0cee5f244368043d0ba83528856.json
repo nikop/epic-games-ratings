@@ -2,10 +2,10 @@
   "ID": "7835e0cee5f244368043d0ba83528856",
   "Name": "SOKOCAT - DUNGEON",
   "ProductSlug": "sokocat-dungeon-f58b6d",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-05-30T13:00:00+00:00",
     "PcReleaseDate": "2021-09-02T13:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T19:57:17.2586975+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:58:53.8306885+00:00",
+  "LastUpdate_Ratings": "2024-07-24T02:00:14.3599871+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:39.266524+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "afa43d028dd1408189c2cb83f846fbd6",
   "Name": "Don\u0027t Turn Back",
   "ProductSlug": "dont-turn-back-ee3a9d",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -42,6 +42,6 @@
   "FirstSeenAchievements": "2023-12-19T18:06:30.2830283+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:17.7966988+00:00",
   "LastUpdate_AppInfo": "2024-07-23T22:57:27.9010893+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:40.3394232+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:59:05.1708376+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:17.7967026+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "f6f888bc947145dfadda50a043c880fc",
   "Name": "TRIB3",
   "ProductSlug": "trib3-78216c",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-03-27T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T23:00:00+00:00",
@@ -45,7 +45,7 @@
   "FirstSeen": "2024-05-01T10:57:44.270106+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:56.9609259+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:43.6797625+00:00",
-  "LastUpdate_AppInfo": "2024-07-17T01:56:07.9983882+00:00",
+  "LastUpdate_AppInfo": "2024-07-24T01:56:16.8818667+00:00",
   "LastUpdate_Ratings": "2024-07-23T23:58:43.5138269+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:43.6797654+00:00"
 }

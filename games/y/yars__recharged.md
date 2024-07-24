@@ -21,7 +21,7 @@
 | Grand Finale | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,000 (Ranked 274)  
-Completed: 8 (0.20%) (Ranked 353)  
+Completed: 8 (0.20%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

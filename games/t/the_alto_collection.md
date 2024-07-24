@@ -47,7 +47,7 @@ Number of Ratings: 332  (23.09.2022)
 | Windswept | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 70,050 (Ranked 143)  
-Completed: 5 (0.01%) (Ranked 488)  
+Completed: 5 (0.01%) (Ranked 489)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,7 +335,7 @@ Completed: 5 (0.01%) (Ranked 488)
 | 2024-06-17 | 70,050 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 61  (Ranked 507)  
-Sum: 488 (Ranked 392)  
+Sum: 489 (Ranked 392)  
 Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
@@ -347,8 +347,8 @@ Diff (max vs sum): 115
 | This game has Quickly Understood Controls | 47 |
 | This game is Relaxing | 42 |
 | This game has Diverse Characters | 41 |
+| This game has Amazing Storytelling | 35 |
 | This game has Amazing Characters | 34 |
-| This game has Amazing Storytelling | 34 |
 | This game has a Kind Community | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -547,3 +547,4 @@ Diff (max vs sum): 115
 | 2024-07-18 | 4.68 | - | 61 | 486 |
 | 2024-07-21 | 4.68 | - | 61 | 487 |
 | 2024-07-22 | 4.68 | - | 61 | 488 |
+| 2024-07-24 | 4.68 | - | 61 | 489 |

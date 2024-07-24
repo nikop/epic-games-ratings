@@ -68,7 +68,7 @@ Number of Ratings: 892  (23.09.2022)
 | Sandrock's Hottest Club | 9.00% | ~107 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,187 (Ranked 372)  
-Completed: 0 (0.00%) (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.34 (Ranked 929)  
+Rating: 4.34 (Ranked 930)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -107,7 +107,7 @@ Rating: 4.34 (Ranked 929)
 | Two Sides to Every Story | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,351 (Ranked 315)  
-Completed: 0 (0.00%) (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

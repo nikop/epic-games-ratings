@@ -34,7 +34,7 @@ Rating: 4.42 (Ranked 813)
 | Good eyes, Murphy! | 1.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,988 (Ranked 253)  
-Completed: 7 (0.12%) (Ranked 385)  
+Completed: 7 (0.12%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

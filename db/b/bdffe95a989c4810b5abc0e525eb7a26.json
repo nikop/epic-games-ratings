@@ -2,10 +2,10 @@
   "ID": "bdffe95a989c4810b5abc0e525eb7a26",
   "Name": "Harry Potter: Quidditch Champions",
   "ProductSlug": "harry-potter-quidditch-champions",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-09-03T22:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-20T03:57:09.3006875+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:51.8177807+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:59:17.2869233+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:52.1408299+00:00"
 }

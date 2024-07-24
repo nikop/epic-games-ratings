@@ -2,10 +2,10 @@
   "ID": "5bf37e261d7b4db5b76ecef630c0d855",
   "Name": "Shadow Vault",
   "ProductSlug": "shadow-vault-868782",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-01-09T13:26:53.44+00:00",
     "PcReleaseDate": "2004-04-13T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-10T18:59:18.681622+00:00",
   "LastUpdate_AppInfo": "2024-07-21T05:57:11.4758291+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:15.7638012+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:56:56.8469455+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:47.5803647+00:00"
 }

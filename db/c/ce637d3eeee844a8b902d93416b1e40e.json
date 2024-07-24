@@ -2,10 +2,10 @@
   "ID": "ce637d3eeee844a8b902d93416b1e40e",
   "Name": "Baby Storm",
   "ProductSlug": "baby-storm-426245",
-  "Ranking_EOS_Progress": 801,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 766,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-09-07T22:00:00+00:00",
     "PcReleaseDate": "2023-09-07T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -38,6 +38,11 @@
     {
       "Time": "2024-07-09T22:06:54.4251981+00:00",
       "NumProgressed": 22,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-24T02:05:22.2107652+00:00",
+      "NumProgressed": 32,
       "NumCompleted": 0
     }
   ],
@@ -65,17 +70,17 @@
       "ID": "ACH_BRONZE_0",
       "SetID": "1a3jn22",
       "Name": "Baby(sitter) steps",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_BRONZE_1",
       "SetID": "1a3jn22",
       "Name": "Knight of honor",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_BRONZE_2",
@@ -97,9 +102,9 @@
       "ID": "ACH_COUNT_CLEAN",
       "SetID": "1a3jn22",
       "Name": "Clean Sheet",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COUNT_DELIVERY",
@@ -113,9 +118,9 @@
       "ID": "ACH_COUNT_DESIRE",
       "SetID": "1a3jn22",
       "Name": "Exhausted",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_COUNT_FIGHT",
@@ -123,39 +128,39 @@
       "Name": "Pacifier",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_COUNT_FURNITURE_LIFT",
       "SetID": "1a3jn22",
       "Name": "Weightlifter",
-      "Percentage": 32,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_COUNT_TELEPORT",
       "SetID": "1a3jn22",
       "Name": "All Over The Place",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COUNT_TRASH",
       "SetID": "1a3jn22",
       "Name": "Pro Recycler",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_FIRST_LEVEL",
       "SetID": "1a3jn22",
       "Name": "Training Wheels",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_GOLD_0",
@@ -193,41 +198,41 @@
       "ID": "ACH_PERFECT_BALL",
       "SetID": "1a3jn22",
       "Name": "Hot Potato",
-      "Percentage": 9,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_PERFECT_CLEAN",
       "SetID": "1a3jn22",
       "Name": "Efficiency Expert",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_PERFECT_CLEAN_BONUS",
       "SetID": "1a3jn22",
       "Name": "Genius Housekeeper",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_PERFECT_CRY",
       "SetID": "1a3jn22",
       "Name": "Happy Times",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_PERFECT_TRASH",
       "SetID": "1a3jn22",
       "Name": "Garbage Hoarder",
-      "Percentage": 59,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SILVER_0",
@@ -265,7 +270,7 @@
       "ID": "ACH_SPECIAL_CLEAN",
       "SetID": "1a3jn22",
       "Name": "Tactical Cleaning",
-      "Percentage": 27,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -275,7 +280,7 @@
       "Name": "Diving Class",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SPECIAL_POWERUP",
@@ -289,15 +294,15 @@
       "ID": "ACH_SPECIAL_STUMBLE",
       "SetID": "1a3jn22",
       "Name": "Workplace Incident",
-      "Percentage": 32,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SPECIAL_TOYSLIDE",
       "SetID": "1a3jn22",
       "Name": "Toys just wanna have fun",
-      "Percentage": 9,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 2
     }
@@ -306,14 +311,14 @@
     {
       "ID": "1a3jn22",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-22T15:00:40.4494093+00:00",
   "FirstSeenAchievements": "2023-09-07T23:06:16.8537801+00:00",
-  "LastChanged_Achievements": "2024-07-09T22:06:54.4251964+00:00",
+  "LastChanged_Achievements": "2024-07-24T02:05:22.2107646+00:00",
   "LastUpdate_AppInfo": "2024-07-19T21:57:16.9076303+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:57.111567+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:06:54.4252135+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:59:23.0094087+00:00",
+  "LastUpdate_Achievements": "2024-07-24T02:05:22.210785+00:00"
 }

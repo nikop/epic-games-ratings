@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Pole Vault Pro | 33.00% | ~8 |
 | Gymnastics Pro | 29.00% | ~7 |
 | Hurdles Pro | 29.00% | ~7 |
-| Pole Vault Pro | 29.00% | ~7 |
+| Watched a movie | 29.00% | ~7 |
 | Tennis Pro | 25.00% | ~6 |
-| Watched a movie | 25.00% | ~6 |
+| Darts Pro | 13.00% | ~3 |
 | Skiing Pro | 13.00% | ~3 |
 | Crown | 13.00% | ~3 |
-| Darts Pro | 8.00% | ~2 |
+| Trampolining Pro | 4.00% | ~1 |
 | Diving Pro | 0.00% | ~0 |
-| Trampolining Pro | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 795)  
-Completed: 0 (0.00%) (Ranked 512)  
+Progressed: 24 (Ranked 797)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,44 +6,44 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~29,965 |
-| Wallbanger | 5.00% | ~29,965 |
-| Exploitative | 4.00% | ~23,972 |
-| High Speed Low Drag | 4.00% | ~23,972 |
-| Wet Feet | 4.00% | ~23,972 |
-| Checkpoint Victory | 3.00% | ~17,979 |
-| Lucky | 3.00% | ~17,979 |
-| Stylin' | 3.00% | ~17,979 |
-| Turf War | 3.00% | ~17,979 |
-| Banged | 2.00% | ~11,986 |
-| First Blood | 2.00% | ~11,986 |
-| Flaccid Paralysis | 2.00% | ~11,986 |
-| Push Victory | 2.00% | ~11,986 |
-| Self-destructive | 2.00% | ~11,986 |
-| Blindfire | 1.00% | ~5,993 |
-| Efficient | 1.00% | ~5,993 |
-| Personal | 1.00% | ~5,993 |
-| Ruthless | 1.00% | ~5,993 |
-| Semper Paratus | 1.00% | ~5,993 |
-| Carrying | 0.90% | ~5,394 |
-| Mount & Gun | 0.90% | ~5,394 |
-| Grounded | 0.80% | ~4,794 |
-| Play to Win | 0.80% | ~4,794 |
-| Special Delivery | 0.70% | ~4,195 |
-| Firefight Victory | 0.60% | ~3,596 |
-| #1 | 0.60% | ~3,596 |
-| Cinematic | 0.50% | ~2,997 |
-| Thanks Station! | 0.40% | ~2,397 |
-| Knock Knock | 0.30% | ~1,798 |
-| There For You | 0.30% | ~1,798 |
-| Hit and Run | 0.20% | ~1,199 |
-| Designated Driver | 0.10% | ~599 |
-| J.R. .50 | 0.10% | ~599 |
-| It's All in the Reflexes | 0.10% | ~599 |
-| Road Hazard | 0.10% | ~599 |
+| Point Shooting | 5.00% | ~30,958 |
+| Wallbanger | 5.00% | ~30,958 |
+| Exploitative | 4.00% | ~24,766 |
+| High Speed Low Drag | 4.00% | ~24,766 |
+| Wet Feet | 4.00% | ~24,766 |
+| Checkpoint Victory | 3.00% | ~18,575 |
+| Lucky | 3.00% | ~18,575 |
+| Stylin' | 3.00% | ~18,575 |
+| Turf War | 3.00% | ~18,575 |
+| Banged | 2.00% | ~12,383 |
+| First Blood | 2.00% | ~12,383 |
+| Flaccid Paralysis | 2.00% | ~12,383 |
+| Push Victory | 2.00% | ~12,383 |
+| Self-destructive | 2.00% | ~12,383 |
+| Blindfire | 1.00% | ~6,192 |
+| Efficient | 1.00% | ~6,192 |
+| Personal | 1.00% | ~6,192 |
+| Ruthless | 1.00% | ~6,192 |
+| Semper Paratus | 1.00% | ~6,192 |
+| Carrying | 0.90% | ~5,572 |
+| Mount & Gun | 0.90% | ~5,572 |
+| Grounded | 0.80% | ~4,953 |
+| Play to Win | 0.80% | ~4,953 |
+| Special Delivery | 0.70% | ~4,334 |
+| Firefight Victory | 0.60% | ~3,715 |
+| #1 | 0.60% | ~3,715 |
+| Cinematic | 0.50% | ~3,096 |
+| Thanks Station! | 0.40% | ~2,477 |
+| There For You | 0.40% | ~2,477 |
+| Knock Knock | 0.30% | ~1,857 |
+| Hit and Run | 0.20% | ~1,238 |
+| Designated Driver | 0.10% | ~619 |
+| J.R. .50 | 0.10% | ~619 |
+| It's All in the Reflexes | 0.10% | ~619 |
+| Road Hazard | 0.10% | ~619 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599,301 (Ranked 38)  
-Completed: 2 (0.00%) (Ranked 512)  
+Progressed: 619,151 (Ranked 38)  
+Completed: 3 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,6 +329,7 @@ Completed: 2 (0.00%) (Ranked 512)
 | 2024-03-21 | 561,427 | 2 |
 | 2024-04-10 | 567,949 | 2 |
 | 2024-06-17 | 599,301 | 2 |
+| 2024-07-24 | 619,151 | 3 |
 ## Awards
 Max (Challenging Combat): 512  (Ranked 251)  
 Sum: 4,141 (Ranked 181)  

@@ -3,12 +3,12 @@
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 962,
-  "Ranking_Popularity": 616,
+  "Ranking_Popularity": 610,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -847,18 +847,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 189,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-07-24T01:58:30.3988003+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 190,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 189,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 190,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3030,9 +3036,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-07-21T10:00:57.327157+00:00",
+  "LastChanged": "2024-07-24T01:58:30.3988001+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:16.6499211+00:00",
   "LastUpdate_AppInfo": "2024-07-17T13:57:53.6491565+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:06.8355824+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:58:30.3988006+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:16.6499457+00:00"
 }

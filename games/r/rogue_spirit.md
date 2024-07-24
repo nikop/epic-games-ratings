@@ -65,8 +65,8 @@
 | Sprinter Champion | 0.00% | ~0 |
 | Thunderstorm Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 742)  
-Completed: 0 (0.00%) (Ranked 512)  
+Progressed: 40 (Ranked 743)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

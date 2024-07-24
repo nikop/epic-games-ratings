@@ -2,10 +2,10 @@
   "ID": "4a95daf12c22499a874ac9d2f2b45e02",
   "Name": "The Glitch Fairy",
   "ProductSlug": "the-glitch-fairy-1e0211",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2023-12-13T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-20T04:57:22.8496478+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:00:22.4757634+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:58:05.6082047+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:51.8062428+00:00"
 }

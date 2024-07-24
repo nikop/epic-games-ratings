@@ -2,10 +2,10 @@
   "ID": "7ac5de5b8f10403ab9687388ec52c025",
   "Name": "FIRE",
   "ProductSlug": "fire-f56ebf",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,7 +33,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2024-07-17T01:56:07.6398263+00:00",
+  "LastUpdate_AppInfo": "2024-07-24T01:56:16.6293752+00:00",
   "LastUpdate_Ratings": "2024-07-23T23:58:28.6168102+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:43.3629438+00:00"
 }

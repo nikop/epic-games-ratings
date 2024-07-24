@@ -2,10 +2,10 @@
   "ID": "b3b5006256614445a18a91bcaf6b3fd9",
   "Name": "Architect of the Union",
   "ProductSlug": "architect-of-the-union-f82052",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-20T03:57:11.1428083+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:58:45.2660015+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:56:26.9266705+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:45.8117218+00:00"
 }

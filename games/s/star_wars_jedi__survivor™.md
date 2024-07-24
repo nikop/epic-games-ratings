@@ -59,8 +59,8 @@ Rating: 4.51 (Ranked 643)
 | Blood, Sweat, and Tears | 3.00% | ~1,890 |
 | Pinpoint | 2.00% | ~1,260 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,985 (Ranked 149)  
-Completed: 373 (0.59%) (Ranked 278)  
+Progressed: 62,985 (Ranked 150)  
+Completed: 373 (0.59%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

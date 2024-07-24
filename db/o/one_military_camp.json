@@ -2,10 +2,10 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 483,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 481,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 384,
+  "EOS_Progressed": 389,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1404,6 +1404,11 @@
       "Time": "2024-06-17T16:17:56.5012665+00:00",
       "NumProgressed": 384,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-24T02:04:45.0238137+00:00",
+      "NumProgressed": 389,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1430,9 +1435,9 @@
       "ID": "ACHIEVEMENT_ID_10",
       "SetID": "c504de6",
       "Name": "Economist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_ID_11",
@@ -1464,7 +1469,7 @@
       "Name": "Perfect Soldier",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_ID_15",
@@ -1472,7 +1477,7 @@
       "Name": "Outdoor Decorator",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ID_16",
@@ -1512,7 +1517,7 @@
       "Name": "No News is Good News",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ID_20",
@@ -1520,7 +1525,7 @@
       "Name": "Healing",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_ID_21",
@@ -1550,9 +1555,9 @@
       "ID": "ACHIEVEMENT_ID_24",
       "SetID": "c504de6",
       "Name": "Overpopulation",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_ID_25",
@@ -1568,7 +1573,7 @@
       "Name": "Human Resources",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_ID_27",
@@ -1576,7 +1581,7 @@
       "Name": "The 4 Pillars",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1608,7 +1613,7 @@
       "Name": "Indebted",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_ID_31",
@@ -1622,9 +1627,9 @@
       "ID": "ACHIEVEMENT_ID_32",
       "SetID": "c504de6",
       "Name": "Capitalism",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 93
     },
     {
       "ID": "ACHIEVEMENT_ID_33",
@@ -1688,7 +1693,7 @@
       "Name": "First Step",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1696,15 +1701,15 @@
       "Name": "Great Producer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_ID_41",
       "SetID": "c504de6",
       "Name": "First Victory",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_ID_42",
@@ -1752,7 +1757,7 @@
       "Name": "Green Energy",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1767,14 +1772,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 384,
+      "Progressed": 389,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:17:56.5012662+00:00",
+  "LastChanged_Achievements": "2024-07-24T02:04:45.0238131+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:15.0629823+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:08.8672472+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:56.5012966+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:58:32.680639+00:00",
+  "LastUpdate_Achievements": "2024-07-24T02:04:45.0238522+00:00"
 }

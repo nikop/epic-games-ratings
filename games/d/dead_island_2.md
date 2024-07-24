@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 581)
 | Wilhelm | 0.10% | ~282 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 956,612 (Ranked 23)  
-Completed: 3,062 (0.32%) (Ranked 322)  
+Completed: 3,062 (0.32%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

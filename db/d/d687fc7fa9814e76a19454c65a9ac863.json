@@ -2,10 +2,10 @@
   "ID": "d687fc7fa9814e76a19454c65a9ac863",
   "Name": "Werewolf: The Apocalypse - Purgatory",
   "ProductSlug": "werewolf-the-apocalypse-purgatory-db8b1f",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-23T15:00:00+00:00",
     "PcReleaseDate": "2024-07-23T15:00:00+00:00",
@@ -29,10 +29,398 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-24T02:01:07.7044578+00:00",
+  "TotalAchievements": 47,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "animal_whisperer",
+      "SetID": "52ffln4",
+      "Name": "Animal Whisperer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "back_on_paws",
+      "SetID": "52ffln4",
+      "Name": "Back On Your Paws",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "back_to_beginning",
+      "SetID": "52ffln4",
+      "Name": "Back To The Beginning",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "bash_the_fash",
+      "SetID": "52ffln4",
+      "Name": "Bash The Fash",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "blinded_by_rage",
+      "SetID": "52ffln4",
+      "Name": "Blinded By Rage",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "boltcutter",
+      "SetID": "52ffln4",
+      "Name": "Boltcutter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "buff_chick",
+      "SetID": "52ffln4",
+      "Name": "Powerlifter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cant_beat_them_join_them",
+      "SetID": "52ffln4",
+      "Name": "Can\u0027t Beat Them, Join Them",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "compassion_over_hate",
+      "SetID": "52ffln4",
+      "Name": "Compassion Over Hate",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cutting_edge",
+      "SetID": "52ffln4",
+      "Name": "Cutting Edge",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "disgraced_hunters",
+      "SetID": "52ffln4",
+      "Name": "Disgraced Hunters",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "evasive_manouvers",
+      "SetID": "52ffln4",
+      "Name": "Evasive Manoeuvres",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "eye_for_an_eye",
+      "SetID": "52ffln4",
+      "Name": "Eye For An Eye",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "food_not_bombs",
+      "SetID": "52ffln4",
+      "Name": "Food Not Bombs",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "fratricide",
+      "SetID": "52ffln4",
+      "Name": "Fratricide",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "grey_mess",
+      "SetID": "52ffln4",
+      "Name": "Grey Mess",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "healing_hand",
+      "SetID": "52ffln4",
+      "Name": "Healing Hand",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hunt_is_on",
+      "SetID": "52ffln4",
+      "Name": "The Hunt Is On",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "i_wont_be_needing_that",
+      "SetID": "52ffln4",
+      "Name": "I Won\u0027t Be Needing That",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "last_goodbye",
+      "SetID": "52ffln4",
+      "Name": "Last Goodbye",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "lesson_well_deserved",
+      "SetID": "52ffln4",
+      "Name": "Lesson Well Deserved",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "like_a_ghost",
+      "SetID": "52ffln4",
+      "Name": "Like A Ghost",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "love_in_time_of_prejudice",
+      "SetID": "52ffln4",
+      "Name": "Love in the Time of Prejudice",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "lowest_point",
+      "SetID": "52ffln4",
+      "Name": "Lowest Point",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "mastering_the_elements",
+      "SetID": "52ffln4",
+      "Name": "Mastering The Elements",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "menacing_presence",
+      "SetID": "52ffln4",
+      "Name": "Menacing Presence",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "monsters_den",
+      "SetID": "52ffln4",
+      "Name": "The Monster\u0027s Den",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "no_borders",
+      "SetID": "52ffln4",
+      "Name": "No Borders",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "nose_for_detail",
+      "SetID": "52ffln4",
+      "Name": "A Nose for Detail",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "part_of_the_pack",
+      "SetID": "52ffln4",
+      "Name": "Part of the Pack",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "per_aspera_ad_astra",
+      "SetID": "52ffln4",
+      "Name": "Per Aspera, Ad Astra",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "publicity_stunt",
+      "SetID": "52ffln4",
+      "Name": "Publicity Stunt",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "red_handed",
+      "SetID": "52ffln4",
+      "Name": "Red Handed",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "smooth_talker",
+      "SetID": "52ffln4",
+      "Name": "Smooth Talker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sororicide",
+      "SetID": "52ffln4",
+      "Name": "Sororicide",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "spirit_hunter",
+      "SetID": "52ffln4",
+      "Name": "Spirit Hunter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "supernatural_talent",
+      "SetID": "52ffln4",
+      "Name": "Supernatural Talent",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "tech_savvy",
+      "SetID": "52ffln4",
+      "Name": "Tech Savvy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "this_isnt_rite",
+      "SetID": "52ffln4",
+      "Name": "This Isn\u0027t Rite!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "toiling_for_the_man",
+      "SetID": "52ffln4",
+      "Name": "Toiling For the Man",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "usual_suspects",
+      "SetID": "52ffln4",
+      "Name": "Usual Suspects",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "well_meet_again",
+      "SetID": "52ffln4",
+      "Name": "We\u0027ll Meet Again",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "wolf_among_us",
+      "SetID": "52ffln4",
+      "Name": "Wolf Among Us",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "wolf_in_need",
+      "SetID": "52ffln4",
+      "Name": "A Wolf In Need",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "you_wont_be_needing_that",
+      "SetID": "52ffln4",
+      "Name": "You Won\u0027t Be Needing That",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "your_point_is_moot",
+      "SetID": "52ffln4",
+      "Name": "Your Point is Moot",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "zen_wolf",
+      "SetID": "52ffln4",
+      "Name": "Zen Wolf",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "52ffln4",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-24T02:01:07.7044578+00:00",
+  "LastChanged_Achievements": "2024-07-24T02:01:07.7044456+00:00",
   "LastUpdate_AppInfo": "2024-07-17T13:57:52.0672938+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:37.415457+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:57:19.3880445+00:00",
+  "LastUpdate_Achievements": "2024-07-24T02:01:07.7057063+00:00"
 }

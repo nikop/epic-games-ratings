@@ -2,13 +2,13 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
-  "Ranking_Rating": 893,
+  "Ranking_Rating": 894,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 171,
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2021-07-29T15:00:00+00:00",
     "PcReleaseDate": "2020-08-20T15:00:00+00:00",
@@ -4987,10 +4987,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 4750,
       "NumberOfAwardsMax": 661
+    },
+    {
+      "Time": "2024-07-24T01:57:56.2592663+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 4751,
+      "NumberOfAwardsMax": 661
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4750,
+  "NumberOfAwards": 4751,
   "NumberOfAwardsMax": 661,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5046,7 +5052,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 345
+      "Count": 346
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5072,8 +5078,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
-  "LastChanged": "2024-07-23T21:58:12.6147842+00:00",
+  "LastChanged": "2024-07-24T01:57:56.2592659+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:58:21.4059431+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:00:13.3755688+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:57:56.2592667+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:22.7562367+00:00"
 }

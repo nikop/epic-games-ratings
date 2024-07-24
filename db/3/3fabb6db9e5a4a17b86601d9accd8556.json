@@ -2,10 +2,10 @@
   "ID": "3fabb6db9e5a4a17b86601d9accd8556",
   "Name": "Super Farming Boy",
   "ProductSlug": "super-farming-boy-c4ec02",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-17T21:57:19.2012604+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:29.831753+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:57:11.3870532+00:00"
 }

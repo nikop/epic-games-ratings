@@ -5,65 +5,65 @@ Rating: 4.39 (Ranked 866)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~81,918 |
-| Predator I | 23.00% | ~60,778 |
-| Fixer I | 10.00% | ~26,425 |
-| A week in Century City | 10.00% | ~26,425 |
-| The Wait | 7.00% | ~18,498 |
-| Green thumb I | 6.00% | ~15,855 |
-| Cleaning Company | 6.00% | ~15,855 |
-| Well-oiled machine | 5.00% | ~13,213 |
-| Vandalism | 5.00% | ~13,213 |
-| Saver I | 5.00% | ~13,213 |
-| The Ascent | 4.00% | ~10,570 |
-| Pacifist | 4.00% | ~10,570 |
-| Capitalist I | 4.00% | ~10,570 |
-| Fixer II | 3.00% | ~7,928 |
-| It took a while | 3.00% | ~7,928 |
-| Adrenaline | 3.00% | ~7,928 |
-| Predator II | 3.00% | ~7,928 |
-| By a hair | 2.00% | ~5,285 |
-| Samurai | 2.00% | ~5,285 |
-| I Left You a Present | 2.00% | ~5,285 |
-| Truffle Dog | 2.00% | ~5,285 |
-| Don't try this at home | 2.00% | ~5,285 |
-| A month in Century City | 2.00% | ~5,285 |
-| The Strengthening | 1.00% | ~2,643 |
-| Saver II | 1.00% | ~2,643 |
-| It's the last one, I swear | 1.00% | ~2,643 |
-| Botanist | 1.00% | ~2,643 |
-| Green thumb II | 1.00% | ~2,643 |
-| Bricklayer | 1.00% | ~2,643 |
-| Run the Economy | 1.00% | ~2,643 |
-| Committed Relationship | 0.80% | ~2,114 |
-| Number 1 | 0.80% | ~2,114 |
-| The Gamble | 0.60% | ~1,586 |
-| The Descent | 0.60% | ~1,586 |
-| A major purchase | 0.60% | ~1,586 |
-| Interior designer | 0.60% | ~1,586 |
-| Predator III | 0.50% | ~1,321 |
-| Arms dealer | 0.40% | ~1,057 |
-| Expert Hunter | 0.40% | ~1,057 |
-| Fungi hunter | 0.40% | ~1,057 |
-| Fixer III | 0.30% | ~793 |
-| AML questionnaire | 0.30% | ~793 |
-| Heartbreaker | 0.30% | ~793 |
-| Workhorse | 0.20% | ~529 |
-| Homerun | 0.20% | ~529 |
-| Capitalist II | 0.20% | ~529 |
-| A season in Century City | 0.20% | ~529 |
-| Saver III | 0.10% | ~264 |
-| Collector | 0.10% | ~264 |
-| Mansion | 0.10% | ~264 |
-| Green thumb III | 0.10% | ~264 |
-| Plantation | 0.10% | ~264 |
-| Reminescence | 0.10% | ~264 |
-| Beloved | 0.10% | ~264 |
-| Capitalist III | 0.10% | ~264 |
-| Hell Is You | 0.10% | ~264 |
+| Survivor | 31.00% | ~82,092 |
+| Predator I | 23.00% | ~60,907 |
+| Fixer I | 10.00% | ~26,481 |
+| A week in Century City | 10.00% | ~26,481 |
+| The Wait | 7.00% | ~18,537 |
+| Green thumb I | 6.00% | ~15,889 |
+| Cleaning Company | 6.00% | ~15,889 |
+| Well-oiled machine | 5.00% | ~13,241 |
+| Vandalism | 5.00% | ~13,241 |
+| Saver I | 5.00% | ~13,241 |
+| The Ascent | 4.00% | ~10,593 |
+| Pacifist | 4.00% | ~10,593 |
+| Capitalist I | 4.00% | ~10,593 |
+| Fixer II | 3.00% | ~7,944 |
+| It took a while | 3.00% | ~7,944 |
+| Adrenaline | 3.00% | ~7,944 |
+| Predator II | 3.00% | ~7,944 |
+| By a hair | 2.00% | ~5,296 |
+| Samurai | 2.00% | ~5,296 |
+| I Left You a Present | 2.00% | ~5,296 |
+| Truffle Dog | 2.00% | ~5,296 |
+| Don't try this at home | 2.00% | ~5,296 |
+| A month in Century City | 2.00% | ~5,296 |
+| The Strengthening | 1.00% | ~2,648 |
+| Saver II | 1.00% | ~2,648 |
+| It's the last one, I swear | 1.00% | ~2,648 |
+| Botanist | 1.00% | ~2,648 |
+| Green thumb II | 1.00% | ~2,648 |
+| Bricklayer | 1.00% | ~2,648 |
+| Run the Economy | 1.00% | ~2,648 |
+| Committed Relationship | 0.80% | ~2,119 |
+| Number 1 | 0.80% | ~2,119 |
+| The Gamble | 0.60% | ~1,589 |
+| The Descent | 0.60% | ~1,589 |
+| A major purchase | 0.60% | ~1,589 |
+| Interior designer | 0.60% | ~1,589 |
+| Predator III | 0.50% | ~1,324 |
+| Arms dealer | 0.40% | ~1,059 |
+| Expert Hunter | 0.40% | ~1,059 |
+| Fungi hunter | 0.40% | ~1,059 |
+| Heartbreaker | 0.40% | ~1,059 |
+| Fixer III | 0.30% | ~794 |
+| AML questionnaire | 0.30% | ~794 |
+| Workhorse | 0.20% | ~530 |
+| Homerun | 0.20% | ~530 |
+| Capitalist II | 0.20% | ~530 |
+| A season in Century City | 0.20% | ~530 |
+| Saver III | 0.10% | ~265 |
+| Collector | 0.10% | ~265 |
+| Mansion | 0.10% | ~265 |
+| Green thumb III | 0.10% | ~265 |
+| Plantation | 0.10% | ~265 |
+| Reminescence | 0.10% | ~265 |
+| Beloved | 0.10% | ~265 |
+| Capitalist III | 0.10% | ~265 |
+| Hell Is You | 0.10% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264,251 (Ranked 81)  
-Completed: 4 (0.00%) (Ranked 512)  
+Progressed: 264,813 (Ranked 81)  
+Completed: 5 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,6 +349,7 @@ Completed: 4 (0.00%) (Ranked 512)
 | 2024-03-21 | 262,502 | 4 |
 | 2024-04-10 | 262,947 | 4 |
 | 2024-06-17 | 264,251 | 4 |
+| 2024-07-24 | 264,813 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 76  (Ranked 480)  
 Sum: 503 (Ranked 391)  

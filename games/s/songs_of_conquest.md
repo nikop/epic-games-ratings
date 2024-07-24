@@ -62,7 +62,7 @@ Number of Ratings: 292  (23.09.2022)
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,199 (Ranked 289)  
-Completed: 0 (0.00%) (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,9 +145,9 @@ Completed: 0 (0.00%) (Ranked 512)
 | 2024-04-10 | 1,935 | 0 |
 | 2024-06-17 | 3,199 | 0 |
 ## Awards
-Max (Diverse Characters): 32  (Ranked 595)  
+Max (Diverse Characters): 32  (Ranked 596)  
 Sum: 279 (Ranked 455)  
-Diff (max vs sum): 140  
+Diff (max vs sum): 141  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 32 |

@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overpowered | 77.00% | ~145 |
-| Side Job | 74.00% | ~139 |
-| Bloodlust | 51.00% | ~96 |
-| Gettin' It Done | 51.00% | ~96 |
-| Feast | 38.00% | ~71 |
+| Overpowered | 77.00% | ~146 |
+| Side Job | 74.00% | ~141 |
+| Bloodlust | 51.00% | ~97 |
+| Gettin' It Done | 51.00% | ~97 |
+| Feast | 38.00% | ~72 |
 | Attuned | 35.00% | ~66 |
-| Specialist | 31.00% | ~58 |
-| Opulent | 30.00% | ~56 |
+| Specialist | 31.00% | ~59 |
+| Opulent | 29.00% | ~55 |
 | Sparkly | 28.00% | ~53 |
-| Teamwork | 21.00% | ~39 |
-| Ready to Rock | 20.00% | ~38 |
+| Ready to Rock | 21.00% | ~40 |
+| Teamwork | 21.00% | ~40 |
 | Beginning of the End | 19.00% | ~36 |
 | Determined | 19.00% | ~36 |
 | Bling | 18.00% | ~34 |
 | Geared | 17.00% | ~32 |
-| Master Crafter | 13.00% | ~24 |
-| Master Trader | 13.00% | ~24 |
+| Master Crafter | 14.00% | ~27 |
+| Master Trader | 14.00% | ~27 |
 | Mysteries of Rin | 12.00% | ~23 |
 | Patience | 12.00% | ~23 |
 | Empyrean Champion | 10.00% | ~19 |
 | Master Tactician | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 188 (Ranked 556)  
-Completed: 9 (4.79%) (Ranked 115)  
+Progressed: 190 (Ranked 555)  
+Completed: 9 (4.74%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 9 (4.79%) (Ranked 115)
 | 2024-03-21 | 174 | 8 |
 | 2024-04-10 | 175 | 9 |
 | 2024-06-17 | 188 | 9 |
+| 2024-07-24 | 190 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

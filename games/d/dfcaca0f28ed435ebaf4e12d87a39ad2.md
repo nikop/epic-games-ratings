@@ -20,7 +20,7 @@
 | The fun uncle | 3.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 75 (Ranked 671)  
-Completed: 1 (1.33%) (Ranked 203)  
+Completed: 1 (1.33%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -75,7 +75,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Road to Berlin | 0.70% | ~1,096 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 156,564 (Ranked 102)  
-Completed: 28 (0.02%) (Ranked 470)  
+Completed: 28 (0.02%) (Ranked 471)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

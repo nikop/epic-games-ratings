@@ -2,10 +2,10 @@
   "ID": "c237dc4307b74e4e865d7f79e7ba4c78",
   "Name": "Star Vikings Forever",
   "ProductSlug": "star-vikings-forever-215b84",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2022-05-13T14:00:00+00:00",
     "PcReleaseDate": "2016-10-06T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.4422655+00:00",
   "LastChanged": "2023-03-31T05:58:28.4422657+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:49.8940204+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:05.0966567+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:58:28.5361639+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:25.0927973+00:00"
 }

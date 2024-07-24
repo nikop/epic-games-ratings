@@ -62,7 +62,7 @@ Rating: 4.59 (Ranked 478)
 | The Hero Whom the Runes Smile On | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 248 (Ranked 526)  
-Completed: 3 (1.21%) (Ranked 213)  
+Completed: 3 (1.21%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

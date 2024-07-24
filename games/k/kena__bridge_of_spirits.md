@@ -49,7 +49,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Master Spirit Guide | 0.30% | ~1,298 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 432,539 (Ranked 62)  
-Completed: 591 (0.14%) (Ranked 377)  
+Completed: 591 (0.14%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
   "Ranking_EOS_Progress": 544,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
     "PcReleaseDate": "2020-05-15T08:00:00+00:00",
@@ -902,6 +902,6 @@
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:05.5594837+00:00",
   "LastUpdate_AppInfo": "2024-07-20T03:57:08.7966544+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:08.3884033+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:58:32.1796641+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:05.5594932+00:00"
 }

@@ -45,7 +45,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,152 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,152,103 (Ranked 18)  
-Completed: 632 (0.05%) (Ranked 430)  
+Completed: 632 (0.05%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,7 +333,7 @@ Completed: 632 (0.05%) (Ranked 430)
 | 2024-06-17 | 1,152,103 | 632 |
 ## Awards
 Max (Great for Beginners): 217  (Ranked 338)  
-Sum: 1,866 (Ranked 248)  
+Sum: 1,868 (Ranked 248)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
@@ -345,10 +345,10 @@ Diff (max vs sum): 90
 | This game has Playful Visuals | 158 |
 | This game is Highly Recommended | 155 |
 | This game has Competitive Players | 155 |
-| This game is Extremely Fun | 147 |
+| This game is Extremely Fun | 148 |
 | This game has Amazing Storytelling | 125 |
 | This game has Amazing Characters | 117 |
-| This game has a Competitive Community | 102 |
+| This game has a Competitive Community | 103 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -768,3 +768,4 @@ Diff (max vs sum): 90
 | 2024-07-19 | 4.54 | - | 217 | 1,861 |
 | 2024-07-20 | 4.54 | - | 217 | 1,865 |
 | 2024-07-21 | 4.54 | - | 217 | 1,866 |
+| 2024-07-24 | 4.54 | - | 217 | 1,868 |

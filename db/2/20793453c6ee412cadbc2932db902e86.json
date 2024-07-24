@@ -2,10 +2,10 @@
   "ID": "20793453c6ee412cadbc2932db902e86",
   "Name": "Spectra",
   "ProductSlug": "spectra-354d90",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-26T08:00:00+00:00",
     "PcReleaseDate": "2024-07-26T08:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-17T15:56:57.3473393+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:24.7374394+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:57:06.1344288+00:00"
 }

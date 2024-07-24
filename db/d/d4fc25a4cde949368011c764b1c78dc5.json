@@ -2,10 +2,10 @@
   "ID": "d4fc25a4cde949368011c764b1c78dc5",
   "Name": "Destroyer - The U-Boat Hunter",
   "ProductSlug": "destroyer-the-uboat-hunter-319d33",
-  "Ranking_EOS_Progress": 765,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 766,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-03-19T13:00:00+00:00",
     "PcReleaseDate": "2024-03-19T13:00:00+00:00",
@@ -191,7 +191,7 @@
   "FirstSeen": "2024-03-21T23:01:14.0227321+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:27.6893515+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:50.256161+00:00",
-  "LastUpdate_AppInfo": "2024-07-17T01:56:09.1772516+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:05.9538295+00:00",
+  "LastUpdate_AppInfo": "2024-07-24T01:56:14.8458671+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:56:46.784408+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:50.256173+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7ee5a15b09884e2190ed8743f1ea58ac",
   "Name": "Where They Go",
   "ProductSlug": "where-they-go-f60945",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-21T13:57:05.1301771+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:00:00.2097094+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:57:42.7563321+00:00"
 }

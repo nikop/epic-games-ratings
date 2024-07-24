@@ -2,10 +2,10 @@
   "ID": "23e0d8cad86d45308001a2c4151969c0",
   "Name": "Cyber Avenger",
   "ProductSlug": "cyber-avenger-77cc63",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-06-20T09:00:00+00:00",
     "PcReleaseDate": "2024-01-04T10:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-23T14:57:07.9480878+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:56:59.4234175+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:58:21.7657928+00:00"
 }

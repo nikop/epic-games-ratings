@@ -9,14 +9,14 @@
 | Con Artist | 20.00% | ~17 |
 | Bedtime Storyteller | 17.00% | ~14 |
 | Electrician | 17.00% | ~14 |
-| Exorcist | 16.00% | ~13 |
+| Exorcist | 15.00% | ~13 |
 | Card Sharp | 14.00% | ~12 |
 | I Ain't Afraid of No Ghost | 13.00% | ~11 |
 | Joyrider | 11.00% | ~9 |
 | Top Detective | 5.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83 (Ranked 663)  
-Completed: 3 (3.61%) (Ranked 136)  
+Progressed: 84 (Ranked 659)  
+Completed: 3 (3.57%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,3 +72,4 @@ Completed: 3 (3.61%) (Ranked 136)
 | 2024-03-21 | 79 | 3 |
 | 2024-04-10 | 80 | 3 |
 | 2024-06-17 | 83 | 3 |
+| 2024-07-24 | 84 | 3 |

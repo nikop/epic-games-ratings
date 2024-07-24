@@ -2,10 +2,10 @@
   "ID": "4701ddf3a9714750b30e7935bec28744",
   "Name": "Geppetto\u0027s Workshop",
   "ProductSlug": "geppettos-workshop-33ab39",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-10-14T15:00:00+00:00",
     "PcReleaseDate": "2023-10-14T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T22:57:13.4497062+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:00:15.3292194+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:57:58.3319455+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:41.5904154+00:00"
 }

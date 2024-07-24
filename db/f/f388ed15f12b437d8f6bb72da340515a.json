@@ -2,10 +2,10 @@
   "ID": "f388ed15f12b437d8f6bb72da340515a",
   "Name": "GuDaiFengLiuZhuan",
   "ProductSlug": "gudaifengliuzhuan-e11b94",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-04-28T00:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T16:57:11.9895877+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:02.1807391+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:56:43.2600755+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:27.3264763+00:00"
 }

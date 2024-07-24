@@ -2,10 +2,10 @@
   "ID": "1ff50356d2a34fb5b1448d14c53b8f10",
   "Name": "Blood on the Thames",
   "ProductSlug": "blood-on-the-thames-d4e0cb",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-20T04:57:22.2899375+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:00:00.8559326+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:57:43.3885125+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:20.4928616+00:00"
 }

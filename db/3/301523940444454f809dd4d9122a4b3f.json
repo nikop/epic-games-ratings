@@ -2,10 +2,10 @@
   "ID": "301523940444454f809dd4d9122a4b3f",
   "Name": "happiness market",
   "ProductSlug": "happiness-market-0572e2",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-04-18T00:35:20.575+00:00",
     "PcReleaseDate": "2024-03-30T16:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-22T08:57:23.9637049+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:00.5607816+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:58:22.8983527+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:32.8881823+00:00"
 }

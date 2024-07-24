@@ -2,10 +2,10 @@
   "ID": "1a6c29112ec747bda627f2f6643d1dae",
   "Name": "Orcs Must Die! Deathtrap",
   "ProductSlug": "orcs-must-die-deathtrap-3f67fb",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2025-03-31T00:00:00+00:00",
     "PcReleaseDate": "2025-03-31T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-17T13:57:46.5798743+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:46.586076+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:59:11.7393159+00:00"
 }

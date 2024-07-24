@@ -5,64 +5,64 @@ Rating: 3.68 (Ranked 1,228)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 28.00% | ~731 |
-| Catch and Release | 23.00% | ~600 |
-| Home Is Where the Heart Is | 21.00% | ~548 |
-| Wounded Whispers | 21.00% | ~548 |
-| ICU | 20.00% | ~522 |
-| Blood Will Have Blood | 18.00% | ~470 |
-| Ne Plus Ultra | 18.00% | ~470 |
-| Peek-a-boo | 18.00% | ~470 |
-| Fly Fisher | 17.00% | ~444 |
-| Sucks To Be You | 17.00% | ~444 |
-| Throw The First Stone | 16.00% | ~418 |
-| Welcome to the Neighborhood | 15.00% | ~392 |
-| Enter of Your Own Free Will | 14.00% | ~365 |
-| Heart Attack | 14.00% | ~365 |
-| Grounded | 13.00% | ~339 |
-| Skin of Their Teeth | 13.00% | ~339 |
-| Neighborhood Revitalization | 10.00% | ~261 |
-| Bad Wiring | 10.00% | ~261 |
-| Radio Silence | 10.00% | ~261 |
-| You Clean It Up | 8.00% | ~209 |
-| From the Shadows | 8.00% | ~209 |
-| Sic Transit Umbra | 7.00% | ~183 |
-| Bell-ringer | 7.00% | ~183 |
-| Silence Is Golden | 7.00% | ~183 |
-| Good Morning | 7.00% | ~183 |
-| I Spit On Your Grave | 7.00% | ~183 |
-| Harvest’s End | 6.00% | ~157 |
-| Helping Hand | 6.00% | ~157 |
-| Revelations | 5.00% | ~130 |
-| Contingency Plans | 5.00% | ~130 |
-| Check, Please! | 5.00% | ~130 |
-| Starve the Beast | 5.00% | ~130 |
-| Block Party | 4.00% | ~104 |
-| Curious Finch | 4.00% | ~104 |
-| Right This Way | 3.00% | ~78 |
-| Nice Try | 3.00% | ~78 |
-| Blacklight Down | 3.00% | ~78 |
+| I Like My Stakes Rare! | 29.00% | ~761 |
+| Catch and Release | 23.00% | ~604 |
+| Home Is Where the Heart Is | 21.00% | ~551 |
+| ICU | 21.00% | ~551 |
+| Wounded Whispers | 21.00% | ~551 |
+| Blood Will Have Blood | 18.00% | ~472 |
+| Ne Plus Ultra | 18.00% | ~472 |
+| Peek-a-boo | 18.00% | ~472 |
+| Fly Fisher | 17.00% | ~446 |
+| Sucks To Be You | 17.00% | ~446 |
+| Throw The First Stone | 16.00% | ~420 |
+| Enter of Your Own Free Will | 15.00% | ~394 |
+| Welcome to the Neighborhood | 15.00% | ~394 |
+| Heart Attack | 15.00% | ~394 |
+| Grounded | 13.00% | ~341 |
+| Skin of Their Teeth | 13.00% | ~341 |
+| Neighborhood Revitalization | 11.00% | ~289 |
+| Radio Silence | 11.00% | ~289 |
+| Bad Wiring | 10.00% | ~262 |
+| You Clean It Up | 8.00% | ~210 |
+| From the Shadows | 8.00% | ~210 |
+| Sic Transit Umbra | 7.00% | ~184 |
+| Bell-ringer | 7.00% | ~184 |
+| Silence Is Golden | 7.00% | ~184 |
+| Good Morning | 7.00% | ~184 |
+| Harvest’s End | 7.00% | ~184 |
+| Helping Hand | 7.00% | ~184 |
+| I Spit On Your Grave | 7.00% | ~184 |
+| Revelations | 6.00% | ~157 |
+| Contingency Plans | 5.00% | ~131 |
+| Block Party | 5.00% | ~131 |
+| Check, Please! | 5.00% | ~131 |
+| Starve the Beast | 5.00% | ~131 |
+| Curious Finch | 4.00% | ~105 |
+| Empty Nest Syndrome | 3.00% | ~79 |
+| Right This Way | 3.00% | ~79 |
+| Nice Try | 3.00% | ~79 |
+| Blacklight Down | 3.00% | ~79 |
 | Neighborhood Watch | 2.00% | ~52 |
 | Blood Brother | 2.00% | ~52 |
 | Sisterhood | 2.00% | ~52 |
 | What Lies Below | 2.00% | ~52 |
-| Empty Nest Syndrome | 2.00% | ~52 |
 | Bloody Initiate | 2.00% | ~52 |
+| Under a Bushel | 2.00% | ~52 |
 | Good Samaritan | 2.00% | ~52 |
 | Scream Team | 1.00% | ~26 |
 | Monster Hunters Club | 1.00% | ~26 |
 | Friendgineering | 1.00% | ~26 |
 | So Anyway I Started Blasting | 1.00% | ~26 |
-| Under a Bushel | 1.00% | ~26 |
 | Dexterity Save | 1.00% | ~26 |
-| Enemy of My Enemy | 0.90% | ~23 |
+| Enemy of My Enemy | 0.90% | ~24 |
 | Bob’s Final Hour | 0.80% | ~21 |
 | Someplace to Be | 0.50% | ~13 |
+| A Cry in the Dark | 0.40% | ~10 |
+| Faith Healer | 0.30% | ~8 |
 | Sepsis | 0.30% | ~8 |
 | Rum Runner | 0.30% | ~8 |
 | Friends 'Til The End | 0.30% | ~8 |
-| Faith Healer | 0.20% | ~5 |
-| A Cry in the Dark | 0.20% | ~5 |
 | Ask Not For Whom The Horns Blow | 0.20% | ~5 |
 | Eagle Eyes | 0.20% | ~5 |
 | Deforestation | 0.00% | ~0 |
@@ -72,8 +72,8 @@ Rating: 3.68 (Ranked 1,228)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,610 (Ranked 305)  
-Completed: 0 (0.00%) (Ranked 512)  
+Progressed: 2,624 (Ranked 306)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,6 +237,7 @@ Completed: 0 (0.00%) (Ranked 512)
 | 2024-04-10 | 2,561 | 0 |
 | 2024-05-13 | 2,583 | 0 |
 | 2024-06-17 | 2,610 | 0 |
+| 2024-07-24 | 2,624 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 544)  
 Sum: 45 (Ranked 602)  

@@ -2,10 +2,10 @@
   "ID": "2db33ef93e2b41dc853921cf5906f5b3",
   "Name": "City of Riches",
   "ProductSlug": "city-of-riches-7424e5",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-04T21:00:00+00:00",
     "PcReleaseDate": "2024-07-04T21:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T04:57:12.1048322+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:19.7449759+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:58:43.7289725+00:00",
+  "LastUpdate_Achievements": "2024-07-24T02:01:09.2356039+00:00"
 }

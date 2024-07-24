@@ -2,10 +2,10 @@
   "ID": "a558895729e74ef28bc57bdab3cd63f1",
   "Name": "Shop Tycoon - Prepare Your Wallet",
   "ProductSlug": "shop-tycoon-prepare-your-wallet-e705ba",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-05-31T13:00:00+00:00",
     "PcReleaseDate": "2021-08-25T06:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-03T10:57:03.9520299+00:00",
   "LastUpdate_AppInfo": "2024-07-18T22:57:12.3097844+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:40.7409725+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:57:22.7683542+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:11.3289649+00:00"
 }

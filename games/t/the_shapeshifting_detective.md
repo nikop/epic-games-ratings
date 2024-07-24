@@ -27,7 +27,7 @@
 | Show Me Some Skin | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 546 (Ranked 436)  
-Completed: 3 (0.55%) (Ranked 286)  
+Completed: 3 (0.55%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

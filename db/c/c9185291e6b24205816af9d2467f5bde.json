@@ -2,10 +2,10 @@
   "ID": "c9185291e6b24205816af9d2467f5bde",
   "Name": "Baseball Legacy Manager 24",
   "ProductSlug": "baseball-legacy-manager-24-92f4c7",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-04-20T00:00:00+00:00",
     "PcReleaseDate": "2024-04-20T00:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-23T08:58:47.9003932+00:00",
   "LastUpdate_AppInfo": "2024-07-17T06:57:34.5417901+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:08.2726145+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:58:32.0613624+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:06:48.0831141+00:00"
 }

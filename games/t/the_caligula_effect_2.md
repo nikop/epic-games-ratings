@@ -6,49 +6,49 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 95.00% | ~274 |
-| Daily Life Begins Anew | 80.00% | ~230 |
-| Our World Now | 79.00% | ~228 |
-| Never Saw It Coming | 64.00% | ~184 |
-| Coup de Grace | 56.00% | ~161 |
-| Go-Home Club Activities START! | 46.00% | ~132 |
-| Philanthropist | 36.00% | ~104 |
-| Test Your Luck | 32.00% | ~92 |
-| Behind the Curtain | 31.00% | ~89 |
-| Master of Surprise | 28.00% | ~81 |
-| Be Who You Wanna Be | 26.00% | ~75 |
-| Counter Champion | 24.00% | ~69 |
-| Combo Commando | 24.00% | ~69 |
-| Friendly Neighborhood | 23.00% | ~66 |
-| Investment Ban-χ-ing | 23.00% | ~66 |
-| One-Track Mind | 22.00% | ~63 |
-| Nice Doing Business | 22.00% | ~63 |
-| Stay Winning | 22.00% | ~63 |
-| WIRE Guru | 21.00% | ~60 |
-| The Greater Good | 19.00% | ~55 |
-| Depths of the Heart | 19.00% | ~55 |
-| Lost Souls For Sale | 19.00% | ~55 |
-| Selfish Decisions | 18.00% | ~52 |
-| Extracurricular Affair | 18.00% | ~52 |
-| Trigger Finger | 18.00% | ~52 |
-| Pulling Heartstrings | 17.00% | ~49 |
-| Hopes Rewarded | 16.00% | ~46 |
-| Guarding Guru | 16.00% | ~46 |
+| Welcome to Redo | 95.00% | ~279 |
+| Daily Life Begins Anew | 80.00% | ~235 |
+| Our World Now | 79.00% | ~232 |
+| Never Saw It Coming | 64.00% | ~188 |
+| Coup de Grace | 56.00% | ~165 |
+| Go-Home Club Activities START! | 47.00% | ~138 |
+| Philanthropist | 36.00% | ~106 |
+| Test Your Luck | 32.00% | ~94 |
+| Behind the Curtain | 31.00% | ~91 |
+| Master of Surprise | 28.00% | ~82 |
+| Be Who You Wanna Be | 26.00% | ~76 |
+| Counter Champion | 24.00% | ~71 |
+| Friendly Neighborhood | 23.00% | ~68 |
+| Investment Ban-χ-ing | 23.00% | ~68 |
+| Combo Commando | 23.00% | ~68 |
+| One-Track Mind | 22.00% | ~65 |
+| Nice Doing Business | 22.00% | ~65 |
+| Stay Winning | 22.00% | ~65 |
+| WIRE Guru | 21.00% | ~62 |
+| The Greater Good | 19.00% | ~56 |
+| Depths of the Heart | 19.00% | ~56 |
+| Lost Souls For Sale | 19.00% | ~56 |
+| Selfish Decisions | 18.00% | ~53 |
+| Trigger Finger | 18.00% | ~53 |
+| Pulling Heartstrings | 17.00% | ~50 |
+| Extracurricular Affair | 17.00% | ~50 |
+| Hopes Rewarded | 16.00% | ~47 |
+| Guarding Guru | 16.00% | ~47 |
 | To Each Their Own | 11.00% | ~32 |
 | Eat Your Heart Out | 11.00% | ~32 |
 | Hustled and Bustled | 10.00% | ~29 |
 | Extra! Extra! Journalism Club Showdown | 9.00% | ~26 |
-| Prince of Lettuce | 8.00% | ~23 |
-| Love, Loss, and the Omega Nebula | 8.00% | ~23 |
-| Redo Redone | 7.00% | ~20 |
-| The Part-Time Tyrant | 7.00% | ~20 |
-| Songstress Unleashed | 7.00% | ~20 |
-| Executive Privilege | 7.00% | ~20 |
+| Prince of Lettuce | 8.00% | ~24 |
+| Love, Loss, and the Omega Nebula | 8.00% | ~24 |
+| Redo Redone | 7.00% | ~21 |
+| The Part-Time Tyrant | 7.00% | ~21 |
+| Executive Privilege | 7.00% | ~21 |
+| Songstress Unleashed | 6.00% | ~18 |
 | For the Love of Regret | 4.00% | ~12 |
 | Building Bridges | 3.00% | ~9 |
+| From Nurse to Worse | 3.00% | ~9 |
 | Birth of a Salesman | 3.00% | ~9 |
 | To the Other Side | 2.00% | ~6 |
-| From Nurse to Worse | 2.00% | ~6 |
 | Group Therapy | 2.00% | ~6 |
 | χ Signature | 2.00% | ~6 |
 | The Caligula Effect 2 | 1.00% | ~3 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Heart of Gold | 1.00% | ~3 |
 | Topical Conversationalist | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 512)  
-Completed: 3 (1.04%) (Ranked 231)  
+Progressed: 294 (Ranked 511)  
+Completed: 3 (1.02%) (Ranked 233)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,6 +91,7 @@ Completed: 3 (1.04%) (Ranked 231)
 | 2024-03-21 | 267 | 2 |
 | 2024-04-10 | 269 | 2 |
 | 2024-06-17 | 288 | 3 |
+| 2024-07-24 | 294 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

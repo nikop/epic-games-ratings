@@ -50,7 +50,7 @@ Rating: 4.61 (Ranked 427)
 | Archi-Pal-igo Aficionado | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,761 (Ranked 224)  
-Completed: 3 (0.03%) (Ranked 449)  
+Completed: 3 (0.03%) (Ranked 450)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,9 +210,9 @@ Completed: 3 (0.03%) (Ranked 449)
 | 2024-04-10 | 10,096 | 1 |
 | 2024-06-17 | 10,761 | 3 |
 ## Awards
-Max (Character Customization): 32  (Ranked 595)  
+Max (Character Customization): 32  (Ranked 596)  
 Sum: 32 (Ranked 628)  
-Diff (max vs sum): -33  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 32 |

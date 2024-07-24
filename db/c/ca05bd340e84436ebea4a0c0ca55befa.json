@@ -6,9 +6,9 @@
   "Ranking_Popularity": 674,
   "Ranking_PopularitySum": 674,
   "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-10-14T16:00:00+00:00",
     "PcReleaseDate": "2021-03-11T07:00:00+00:00",
@@ -215,7 +215,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16250,
+  "EOS_Progressed": 16251,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1040,6 +1040,11 @@
       "Time": "2024-06-17T16:17:28.4995264+00:00",
       "NumProgressed": 16250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-24T02:04:35.4805567+00:00",
+      "NumProgressed": 16251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-12T12:03:32.4502016+00:00",
@@ -1068,7 +1073,7 @@
       "Name": "Can i be more unfortunate?",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1100,7 +1105,7 @@
       "Name": "Golden fingers",
       "Percentage": 5,
       "XP": 185,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -1108,7 +1113,7 @@
       "Name": "Golden tongue",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -1124,7 +1129,7 @@
       "Name": "Fire safety",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 9100
+      "UsersEstimate": 9101
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -1276,7 +1281,7 @@
       "Name": "Smothered in Meat",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_13",
@@ -1284,7 +1289,7 @@
       "Name": "I AM MEAT",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_15",
@@ -1292,7 +1297,7 @@
       "Name": "No Love",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_16",
@@ -1308,7 +1313,7 @@
       "Name": "Vampire Killer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_18",
@@ -1324,7 +1329,7 @@
       "Name": "I\u0027m not a sushi",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_21",
@@ -1332,7 +1337,7 @@
       "Name": "Taste of Your Own Poison",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_22",
@@ -1356,7 +1361,7 @@
       "Name": "Where are those diamonds?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_25",
@@ -1412,7 +1417,7 @@
       "Name": "Wild Circus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -1436,7 +1441,7 @@
       "Name": "Blue Valentine",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -1540,7 +1545,7 @@
       "Name": "OMG I FOUND A BUG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "NEW_ACHIEVEMENT_3_5",
@@ -1587,7 +1592,7 @@
     {
       "ID": "h261mm",
       "IsBase": true,
-      "Progressed": 16250,
+      "Progressed": 16251,
       "Completed": 0
     }
   ],
@@ -1595,8 +1600,8 @@
   "FirstSeenRating": "2023-11-17T10:00:31.8324772+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
   "LastChanged": "2024-07-21T09:00:09.4192327+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:17:28.4995261+00:00",
+  "LastChanged_Achievements": "2024-07-24T02:04:35.4805564+00:00",
   "LastUpdate_AppInfo": "2024-07-19T17:57:11.8605873+00:00",
   "LastUpdate_Ratings": "2024-07-23T23:58:30.8543746+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:28.4995788+00:00"
+  "LastUpdate_Achievements": "2024-07-24T02:04:35.4806052+00:00"
 }

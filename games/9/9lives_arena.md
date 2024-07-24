@@ -12,7 +12,7 @@ Rating: 4.53 (Ranked 608)
 | Epic Angler Trophy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,002 (Ranked 244)  
-Completed: 0 (0.00%) (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,8 +61,8 @@ Completed: 0 (0.00%) (Ranked 512)
 | 2024-06-17 | 7,002 | 0 |
 ## Awards
 Max (Character Customization): 38  (Ranked 565)  
-Sum: 191 (Ranked 495)  
-Diff (max vs sum): 70  
+Sum: 191 (Ranked 496)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 38 |

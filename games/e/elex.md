@@ -58,7 +58,7 @@ Number of Ratings: 58  (23.09.2022)
 | Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 390 (Ranked 480)  
-Completed: 0 (0.00%) (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

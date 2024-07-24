@@ -52,7 +52,7 @@ Number of Ratings: 90  (23.09.2022)
 | Trans-Siberian Express | 1.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 817 (Ranked 404)  
-Completed: 3 (0.37%) (Ranked 314)  
+Completed: 3 (0.37%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

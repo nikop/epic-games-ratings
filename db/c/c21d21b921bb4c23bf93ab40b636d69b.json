@@ -2,10 +2,10 @@
   "ID": "c21d21b921bb4c23bf93ab40b636d69b",
   "Name": "Empire of the Gods",
   "ProductSlug": "empire-of-the-gods-a06045",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-01T16:00:00+00:00",
     "PcReleaseDate": "2008-05-13T16:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-20T13:01:03.2237753+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:00:26.0170777+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:58:09.2717732+00:00"
 }

@@ -26,7 +26,7 @@
 | Not A People Person | 4.00% | ~51 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,285 (Ranked 364)  
-Completed: 30 (2.33%) (Ranked 165)  
+Completed: 30 (2.33%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

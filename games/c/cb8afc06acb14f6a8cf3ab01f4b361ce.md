@@ -46,8 +46,8 @@ Rating: 4.21 (Ranked 1,072)
 | Something... unnatural | 0.10% | ~385 |
 | We strike as one | 0.10% | ~385 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,304 (Ranked 69)  
-Completed: 13 (0.00%) (Ranked 512)  
+Progressed: 385,304 (Ranked 70)  
+Completed: 13 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

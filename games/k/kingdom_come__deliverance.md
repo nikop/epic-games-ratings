@@ -90,7 +90,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~852 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 852,298 (Ranked 26)  
-Completed: 63 (0.01%) (Ranked 488)  
+Completed: 63 (0.01%) (Ranked 489)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -378,12 +378,12 @@ Completed: 63 (0.01%) (Ranked 488)
 | 2024-06-17 | 852,298 | 63 |
 ## Awards
 Max (Character Customization): 8,541  (Ranked 65)  
-Sum: 31,316 (Ranked 55)  
+Sum: 31,319 (Ranked 55)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,541 |
-| This game has Great Boss Battles | 6,136 |
+| This game has Great Boss Battles | 6,139 |
 | This game has Challenging Combat | 1,969 |
 | This game has Diverse Characters | 1,968 |
 | This game is Highly Recommended | 1,874 |
@@ -941,3 +941,4 @@ Diff (max vs sum): 10
 | 2024-07-21 | 4.71 | - | 8,533 | 31,297 |
 | 2024-07-22 | 4.71 | - | 8,537 | 31,307 |
 | 2024-07-23 | 4.71 | - | 8,541 | 31,316 |
+| 2024-07-24 | 4.71 | - | 8,541 | 31,319 |

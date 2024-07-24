@@ -63,7 +63,7 @@ Number of Ratings: 1,305  (23.09.2022)
 | Ladies' man | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11,016 (Ranked 223)  
-Completed: 3 (0.03%) (Ranked 449)  
+Completed: 3 (0.03%) (Ranked 450)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

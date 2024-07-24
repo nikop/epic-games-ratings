@@ -2,10 +2,10 @@
   "ID": "24300a7a071a4b6f9c0ad1b2dbc6883b",
   "Name": "Adventure Forest: Rabbit Story",
   "ProductSlug": "adventure-forest-rabbit-story-0b1c2f",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-19T17:00:00+00:00",
     "PcReleaseDate": "2024-07-19T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2024-07-16T23:57:11.7661088+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:26.6536654+00:00"
+  "LastUpdate_AppInfo": "2024-07-24T01:56:15.1858793+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:57:08.058342+00:00"
 }

@@ -1,7 +1,7 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.34 (Ranked 929)  
+Rating: 4.34 (Ranked 930)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,7 +27,7 @@ Rating: 4.34 (Ranked 929)
 | Rocketeer | 0.70% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,834 (Ranked 300)  
-Completed: 2 (0.07%) (Ranked 418)  
+Completed: 2 (0.07%) (Ranked 419)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

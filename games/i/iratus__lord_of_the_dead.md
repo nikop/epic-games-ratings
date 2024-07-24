@@ -1,7 +1,7 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 893)  
+Rating: 4.37 (Ranked 894)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -82,8 +82,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~292 |
 | Renowned Researcher | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,358 (Ranked 152)  
-Completed: 29 (0.05%) (Ranked 430)  
+Progressed: 58,358 (Ranked 153)  
+Completed: 29 (0.05%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

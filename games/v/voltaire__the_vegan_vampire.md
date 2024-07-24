@@ -36,8 +36,8 @@
 | Best in the field | 0.60% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 580)  
-Completed: 0 (0.00%) (Ranked 512)  
+Progressed: 156 (Ranked 581)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

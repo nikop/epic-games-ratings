@@ -1,7 +1,7 @@
 # The Riflemen
 [Store](https://store.epicgames.com/en-US/p/the-riflemen-8be608)  
 [View Rawdata](../../db/t/the_riflemen.json)  
-Rating: 4.34 (Ranked 929)  
+Rating: 4.34 (Ranked 930)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,7 +21,7 @@ Rating: 4.34 (Ranked 929)
 | Sword Master | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 128,035 (Ranked 113)  
-Completed: 11,761 (9.19%) (Ranked 60)  
+Completed: 11,761 (9.19%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

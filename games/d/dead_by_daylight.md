@@ -256,7 +256,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Troupe | 0.10% | ~1,461 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,461,055 (Ranked 12)  
-Completed: 104 (0.01%) (Ranked 488)  
+Completed: 104 (0.01%) (Ranked 489)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

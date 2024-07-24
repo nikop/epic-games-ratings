@@ -2,10 +2,10 @@
   "ID": "993ca702abc944ce8098d24da7cd03d1",
   "Name": "Ghoul Castle 3D - Gold Edition",
   "ProductSlug": "ghoul-castle-3d-gold-edition-566ac0",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-11-14T18:00:00+00:00",
     "PcReleaseDate": "2021-11-30T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T06:59:47.3872017+00:00",
   "LastUpdate_AppInfo": "2024-07-21T05:57:11.0135397+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:58:41.5771001+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:56:22.7355538+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:46.818622+00:00"
 }

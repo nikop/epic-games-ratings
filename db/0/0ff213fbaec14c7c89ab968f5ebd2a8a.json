@@ -2,10 +2,10 @@
   "ID": "0ff213fbaec14c7c89ab968f5ebd2a8a",
   "Name": "Hero of the Kingdom: The Lost Tales 1",
   "ProductSlug": "hero-of-the-kingdom-the-lost-tales-1-4e7234",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-08-19T11:00:00+00:00",
     "PcReleaseDate": "2020-04-17T16:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-19T08:57:10.9101885+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:41.8922119+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:59:06.8434012+00:00"
 }

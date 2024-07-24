@@ -57,8 +57,8 @@ Number of Ratings: 22  (23.09.2022)
 | Versatile Tactics | 0.10% | ~64 |
 | Guest Stars | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,508 (Ranked 148)  
-Completed: 17 (0.03%) (Ranked 449)  
+Progressed: 63,508 (Ranked 149)  
+Completed: 17 (0.03%) (Ranked 450)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

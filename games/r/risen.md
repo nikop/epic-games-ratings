@@ -57,7 +57,7 @@ Rating: 4.58 (Ranked 498)
 | Master of the classes | 0.80% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 393 (Ranked 478)  
-Completed: 2 (0.51%) (Ranked 292)  
+Completed: 2 (0.51%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -25,7 +25,7 @@
 | Walk The Dog | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,665 (Ranked 283)  
-Completed: 1 (0.03%) (Ranked 449)  
+Completed: 1 (0.03%) (Ranked 450)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

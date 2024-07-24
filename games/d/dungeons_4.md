@@ -68,7 +68,7 @@ Rating: 4.65 (Ranked 336)
 | No Mana, No Cry | 13.00% | ~125 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 965 (Ranked 390)  
-Completed: 58 (6.01%) (Ranked 94)  
+Completed: 58 (6.01%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,7 +5,7 @@ Rating: 4.35 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire safety | 56.00% | ~9,100 |
+| Fire safety | 56.00% | ~9,101 |
 | First fall | 36.00% | ~5,850 |
 | Don't play with fire, kids | 27.00% | ~4,388 |
 | First steps | 27.00% | ~4,388 |
@@ -20,8 +20,8 @@ Rating: 4.35 (Ranked 918)
 | Boot for an eye | 10.00% | ~1,625 |
 | Pacifist Run | 7.00% | ~1,138 |
 | Uh, Which Key is the Right One? | 6.00% | ~975 |
-| Golden fingers | 5.00% | ~812 |
-| OMG I FOUND A BUG | 5.00% | ~812 |
+| Golden fingers | 5.00% | ~813 |
+| OMG I FOUND A BUG | 5.00% | ~813 |
 | Spiky chin | 4.00% | ~650 |
 | I Think I'm Lost | 4.00% | ~650 |
 | Meat Machine | 4.00% | ~650 |
@@ -34,13 +34,13 @@ Rating: 4.35 (Ranked 918)
 | Infinite pleasure | 2.00% | ~325 |
 | Body Building | 2.00% | ~325 |
 | Stranger in the Elevator | 2.00% | ~325 |
-| Can i be more unfortunate? | 1.00% | ~162 |
-| Golden tongue | 1.00% | ~162 |
-| Smothered in Meat | 1.00% | ~162 |
-| No Love | 1.00% | ~162 |
-| Vampire Killer | 1.00% | ~162 |
-| Where are those diamonds? | 1.00% | ~162 |
-| Blue Valentine | 1.00% | ~162 |
+| Can i be more unfortunate? | 1.00% | ~163 |
+| Golden tongue | 1.00% | ~163 |
+| Smothered in Meat | 1.00% | ~163 |
+| No Love | 1.00% | ~163 |
+| Vampire Killer | 1.00% | ~163 |
+| Where are those diamonds? | 1.00% | ~163 |
+| Blue Valentine | 1.00% | ~163 |
 | Now you see | 0.80% | ~130 |
 | Don't Come Near Me | 0.60% | ~98 |
 | Athletic | 0.50% | ~81 |
@@ -50,10 +50,10 @@ Rating: 4.35 (Ranked 918)
 | Swim in the Asphalt | 0.40% | ~65 |
 | Love through meat | 0.30% | ~49 |
 | Hate Me | 0.30% | ~49 |
-| I AM MEAT | 0.20% | ~32 |
-| I'm not a sushi | 0.20% | ~32 |
-| Taste of Your Own Poison | 0.20% | ~32 |
-| Wild Circus | 0.20% | ~32 |
+| I AM MEAT | 0.20% | ~33 |
+| I'm not a sushi | 0.20% | ~33 |
+| Taste of Your Own Poison | 0.20% | ~33 |
+| Wild Circus | 0.20% | ~33 |
 | Golden heart | 0.10% | ~16 |
 | Ram of Hell | 0.10% | ~16 |
 | Good father | 0.10% | ~16 |
@@ -73,8 +73,8 @@ Rating: 4.35 (Ranked 918)
 | Killer | 0.00% | ~0 |
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,250 (Ranked 208)  
-Completed: 0 (0.00%) (Ranked 512)  
+Progressed: 16,251 (Ranked 208)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 512)
 | 2024-01-13 | 16,248 | 0 |
 | 2024-03-21 | 16,249 | 0 |
 | 2024-06-17 | 16,250 | 0 |
+| 2024-07-24 | 16,251 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

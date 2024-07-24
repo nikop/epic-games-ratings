@@ -3,9 +3,9 @@
   "Name": "Unlock The King",
   "ProductSlug": "unlock-the-king-f05e24",
   "Ranking_EOS_Progress": 659,
-  "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-05-29T16:30:00+00:00",
     "PcReleaseDate": "2019-11-20T08:00:00+00:00",
@@ -134,6 +134,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:41.7782251+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:41.7781808+00:00",
   "LastUpdate_AppInfo": "2024-07-23T03:58:00.1927068+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:10.4314662+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:56:51.424228+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:41.7792239+00:00"
 }

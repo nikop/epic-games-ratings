@@ -2,10 +2,10 @@
   "ID": "979dba12fd8e46ed8ffeb09f00cf1aac",
   "Name": "Redeemer: Enhanced Edition",
   "ProductSlug": "redeemer-enhanced-edition-54d2c1",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-04-10T18:00:00+00:00",
     "PcReleaseDate": "2017-08-01T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-25T15:01:13.5962211+00:00",
   "LastUpdate_AppInfo": "2024-07-18T04:57:12.6542557+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:41.4044164+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:59:06.3445208+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:07.334958+00:00"
 }

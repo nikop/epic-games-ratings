@@ -2,10 +2,10 @@
   "ID": "fe3e06d17d13402388cccfa984de6041",
   "Name": "Olympics Go! Paris 2024",
   "ProductSlug": "olympics-go-paris-2024-5d5f77",
-  "Ranking_EOS_Progress": 320,
-  "Ranking_EOS_Completed": 440,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 441,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-06-11T16:00:00+00:00",
     "PcReleaseDate": "2024-06-11T16:00:00+00:00",
@@ -350,6 +350,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:29.9069245+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:29.9069213+00:00",
   "LastUpdate_AppInfo": "2024-07-20T03:57:09.1391127+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:57:49.7695304+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:59:15.0279215+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:29.9076284+00:00"
 }

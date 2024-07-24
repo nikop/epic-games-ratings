@@ -43,7 +43,7 @@
 | Flying Ace | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 220 (Ranked 540)  
-Completed: 1 (0.45%) (Ranked 303)  
+Completed: 1 (0.45%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

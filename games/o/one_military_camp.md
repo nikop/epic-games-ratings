@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 55.00% | ~211 |
-| The 4 Pillars | 52.00% | ~200 |
-| Capitalism | 23.00% | ~88 |
-| Green Energy | 17.00% | ~65 |
+| First Step | 55.00% | ~214 |
+| The 4 Pillars | 52.00% | ~202 |
+| Capitalism | 24.00% | ~93 |
+| Green Energy | 17.00% | ~66 |
 | There's something in those trees | 15.00% | ~58 |
 | Health Care | 14.00% | ~54 |
 | Desert Power | 14.00% | ~54 |
-| Great Producer | 13.00% | ~50 |
-| Perfect Soldier | 10.00% | ~38 |
-| Healing | 10.00% | ~38 |
-| Indebted | 10.00% | ~38 |
-| Overpopulation | 9.00% | ~35 |
+| Great Producer | 13.00% | ~51 |
+| Perfect Soldier | 10.00% | ~39 |
+| Healing | 10.00% | ~39 |
+| Indebted | 10.00% | ~39 |
 | Ammo Tycoon | 9.00% | ~35 |
+| Overpopulation | 8.00% | ~31 |
 | Pathfinder | 8.00% | ~31 |
 | Food Tycoon | 8.00% | ~31 |
 | Fuel Tycoon | 8.00% | ~31 |
@@ -30,27 +30,27 @@
 | Vive le Résistance | 5.00% | ~19 |
 | Training Camp | 5.00% | ~19 |
 | Medicine Tycoon | 5.00% | ~19 |
-| Outdoor Decorator | 4.00% | ~15 |
-| No News is Good News | 4.00% | ~15 |
-| Human Resources | 4.00% | ~15 |
+| Outdoor Decorator | 4.00% | ~16 |
+| No News is Good News | 4.00% | ~16 |
+| Human Resources | 4.00% | ~16 |
 | Winter Soldier | 3.00% | ~12 |
+| Economist | 2.00% | ~8 |
 | Counter-espionage | 2.00% | ~8 |
 | Snowman | 2.00% | ~8 |
 | Reconquest | 2.00% | ~8 |
 | Researcher | 2.00% | ~8 |
-| Economist | 1.00% | ~4 |
 | Crisis Committee | 1.00% | ~4 |
 | Against Adversity | 1.00% | ~4 |
 | Self-management | 0.80% | ~3 |
 | Conveyor Belt Madness | 0.80% | ~3 |
 | People's Hero | 0.50% | ~2 |
 | War Veteran | 0.30% | ~1 |
+| First Victory | 0.30% | ~1 |
 | Attack of the Drones | 0.00% | ~0 |
-| First Victory | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384 (Ranked 483)  
-Completed: 0 (0.00%) (Ranked 512)  
+Progressed: 389 (Ranked 481)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,3 +166,4 @@ Completed: 0 (0.00%) (Ranked 512)
 | 2024-04-05 | 350 | 0 |
 | 2024-05-13 | 352 | 0 |
 | 2024-06-17 | 384 | 0 |
+| 2024-07-24 | 389 | 0 |

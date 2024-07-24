@@ -32,7 +32,7 @@ Number of Ratings: 546  (23.09.2022)
 | Cold-Blooded | 0.60% | ~103 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,145 (Ranked 201)  
-Completed: 28 (0.16%) (Ranked 367)  
+Completed: 28 (0.16%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

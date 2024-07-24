@@ -2,10 +2,10 @@
   "ID": "449a5d1081b14ff6bf2068ddfc8352f3",
   "Name": "Urban Warriors",
   "ProductSlug": "urban-warriors-90a350",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-04-12T16:00:00+00:00",
     "PcReleaseDate": "2024-03-15T07:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T22:57:13.6481707+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:00:17.9934852+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:58:01.0753119+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:01.5893228+00:00"
 }

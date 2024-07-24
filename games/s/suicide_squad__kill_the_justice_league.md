@@ -57,7 +57,7 @@ Rating: 3.88 (Ranked 1,203)
 | The Reaper | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,434 (Ranked 284)  
-Completed: 2 (0.06%) (Ranked 424)  
+Completed: 2 (0.06%) (Ranked 425)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,17 +65,17 @@ Completed: 2 (0.06%) (Ranked 424)
 | 2024-06-17 | 3,434 | 2 |
 ## Awards
 Max (Great Boss Battles): 1,063  (Ranked 181)  
-Sum: 1,505 (Ranked 276)  
-Diff (max vs sum): -95  
+Sum: 1,527 (Ranked 275)  
+Diff (max vs sum): -94  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,063 |
 | This game is Highly Recommended | 89 |
 | This game has Diverse Characters | 80 |
+| This game has Amazing Storytelling | 79 |
 | This game is Extremely Fun | 73 |
 | This game has Amazing Characters | 73 |
-| This game has Amazing Storytelling | 73 |
-| This game has Quickly Understood Controls | 54 |
+| This game has Quickly Understood Controls | 70 |
 | This game is Great for Beginners | 53 |
 | This game is Relaxing | 28 |
 ## Ratings History
@@ -183,3 +183,4 @@ Diff (max vs sum): -95
 | 2024-07-21 | 3.92 | 832 | 1,175 |
 | 2024-07-22 | 3.90 | 944 | 1,344 |
 | 2024-07-23 | 3.90 | 1,063 | 1,505 |
+| 2024-07-24 | 3.88 | 1,063 | 1,527 |

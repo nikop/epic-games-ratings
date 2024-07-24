@@ -68,7 +68,7 @@ Rating: 4.36 (Ranked 904)
 | Not a second class murder | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,127 (Ranked 294)  
-Completed: 0 (0.00%) (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,9 +326,9 @@ Completed: 0 (0.00%) (Ranked 512)
 | 2024-04-10 | 3,006 | 0 |
 | 2024-06-17 | 3,127 | 0 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 616)  
+Max (Great for Beginners): 28  (Ranked 617)  
 Sum: 28 (Ranked 636)  
-Diff (max vs sum): -20  
+Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 28 |

@@ -2,10 +2,10 @@
   "ID": "2f041426f4ce4d65a6c1b100b4b3bf4a",
   "Name": "Surfing Legends",
   "ProductSlug": "surfing-legends-880017",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T01:54:55.4689415+00:00",
   "LastUpdate_Ratings": "2024-07-23T23:59:06.0812491+00:00",
-  "LastUpdate_Achievements": "2024-06-26T14:04:52.2354506+00:00"
+  "LastUpdate_Achievements": "2024-07-24T02:05:05.9610818+00:00"
 }

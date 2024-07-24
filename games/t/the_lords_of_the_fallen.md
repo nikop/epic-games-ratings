@@ -79,7 +79,7 @@ Rating: 4.22 (Ranked 1,060)
 | Indomitable | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,028 (Ranked 203)  
-Completed: 6 (0.04%) (Ranked 440)  
+Completed: 6 (0.04%) (Ranked 441)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,9 +185,9 @@ Completed: 6 (0.04%) (Ranked 440)
 | 2024-04-10 | 15,572 | 2 |
 | 2024-06-17 | 17,028 | 6 |
 ## Awards
-Max (Character Customization): 1,024  (Ranked 185)  
-Sum: 2,819 (Ranked 215)  
-Diff (max vs sum): -30  
+Max (Character Customization): 1,024  (Ranked 186)  
+Sum: 2,820 (Ranked 215)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |
@@ -198,7 +198,7 @@ Diff (max vs sum): -30
 | This game has Amazing Storytelling | 145 |
 | This game has Amazing Characters | 136 |
 | This game is Extremely Fun | 133 |
-| This game has Quickly Understood Controls | 128 |
+| This game has Quickly Understood Controls | 129 |
 | This game has Competitive Players | 36 |
 | This game is Relaxing | 20 |
 | This game has a Creative Community | 20 |
@@ -476,3 +476,4 @@ Diff (max vs sum): -30
 | 2024-07-21 | 4.22 | 1,023 | 2,812 |
 | 2024-07-22 | 4.22 | 1,024 | 2,815 |
 | 2024-07-23 | 4.22 | 1,024 | 2,819 |
+| 2024-07-24 | 4.22 | 1,024 | 2,820 |

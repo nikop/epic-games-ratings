@@ -37,7 +37,7 @@ Number of Ratings: 276  (23.09.2022)
 | You Say Homonculus, I Say Homonculi | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10,164 (Ranked 226)  
-Completed: 12 (0.12%) (Ranked 385)  
+Completed: 12 (0.12%) (Ranked 386)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

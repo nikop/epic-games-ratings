@@ -50,7 +50,7 @@ Rating: 4.43 (Ranked 792)
 | Tossing and turning for half a day2 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 11,356 (Ranked 220)  
-Completed: 0 (0.00%) (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

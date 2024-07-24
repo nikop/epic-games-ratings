@@ -2,10 +2,10 @@
   "ID": "4334a911c46b4816b3d6580f5dd03fab",
   "Name": "The Adventures of Prince Shiratama ~Climb the mountains~",
   "ProductSlug": "adventure-of-prince-shiratama-vol_mountain-fbe9f3",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-06-26T11:00:00+00:00",
     "PcReleaseDate": "2024-06-05T15:00:00+00:00",
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-30T15:00:12.516361+00:00",
   "LastUpdate_AppInfo": "2024-07-17T13:05:51.2462844+00:00",
-  "LastUpdate_Ratings": "2024-07-23T23:00:11.2918828+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:57:54.1181143+00:00"
 }

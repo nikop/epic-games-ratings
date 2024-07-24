@@ -59,7 +59,7 @@ Rating: 4.53 (Ranked 608)
 | Great Start | 0.10% | ~84 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 83,765 (Ranked 134)  
-Completed: 0 (0.00%) (Ranked 512)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

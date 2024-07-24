@@ -3,9 +3,9 @@
   "Name": "Dude, Where Is My Beer?",
   "ProductSlug": "dude-where-is-my-beer-2455aa",
   "Ranking_EOS_Progress": 608,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
     "PcReleaseDate": "2020-11-04T23:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -424,6 +424,11 @@
       "Time": "2024-06-17T16:09:30.9180798+00:00",
       "NumProgressed": 121,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-24T02:01:48.1560981+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-04T15:07:12.853291+00:00",
@@ -572,7 +577,7 @@
       "Name": "Trash hunter",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PORN_ON",
@@ -596,7 +601,7 @@
       "Name": "Hangover Hero",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "UNLOCKED_IPHONE",
@@ -611,14 +616,14 @@
     {
       "ID": "6akbe6n",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:09:30.9180793+00:00",
+  "LastChanged_Achievements": "2024-07-24T02:01:48.1560977+00:00",
   "LastUpdate_AppInfo": "2024-07-19T11:57:16.617718+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:14.9324315+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:30.9180952+00:00"
+  "LastUpdate_Ratings": "2024-07-24T01:56:55.9669347+00:00",
+  "LastUpdate_Achievements": "2024-07-24T02:01:48.1561245+00:00"
 }

@@ -37,7 +37,7 @@ Rating: 4.74 (Ranked 173)
 | Deft Maneuvers | 0.10% | ~149 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149,122 (Ranked 106)  
-Completed: 5 (0.00%) (Ranked 512)  
+Completed: 5 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

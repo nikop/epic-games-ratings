@@ -2,10 +2,10 @@
   "ID": "0e99a89594bc46d9a1aa600264b821e8",
   "Name": "Welcome to Empyreum",
   "ProductSlug": "welcome-to-empyreum-f29a56",
-  "Ranking_EOS_Progress": 1090,
-  "Ranking_EOS_Completed": 512,
-  "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 513,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:24.7750753+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:24.7750734+00:00",
   "LastUpdate_AppInfo": "2024-07-18T02:57:10.7667112+00:00",
-  "LastUpdate_Ratings": "2024-07-23T22:59:18.9547076+00:00",
+  "LastUpdate_Ratings": "2024-07-24T01:57:00.0223963+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:24.7750769+00:00"
 }

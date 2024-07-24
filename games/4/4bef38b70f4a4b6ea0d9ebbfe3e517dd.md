@@ -48,8 +48,8 @@
 | All in the family | 0.00% | ~0 |
 | Tomato puree | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 999)  
-Completed: 0 (0.00%) (Ranked 512)  
+Progressed: 1 (Ranked 1,001)  
+Completed: 0 (0.00%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
