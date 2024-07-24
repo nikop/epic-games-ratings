@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 603,
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 197,
@@ -1493,10 +1493,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-07-24T10:58:09.8461974+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 209,
+  "NumberOfAwards": 210,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1510,7 +1516,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -19900,9 +19906,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-07-23T17:00:22.0669713+00:00",
+  "LastChanged": "2024-07-24T10:58:09.8461972+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:15.2287043+00:00",
   "LastUpdate_AppInfo": "2024-07-22T06:57:16.995516+00:00",
-  "LastUpdate_Ratings": "2024-07-24T08:59:07.1117972+00:00",
+  "LastUpdate_Ratings": "2024-07-24T10:58:09.8461978+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:15.2288268+00:00"
 }
