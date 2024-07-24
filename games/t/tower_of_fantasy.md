@@ -1,7 +1,7 @@
 # Tower of Fantasy
 [Store](https://store.epicgames.com/en-US/p/tower-of-fantasy)  
 [View Rawdata](../../db/t/tower_of_fantasy.json)  
-Rating: 4.34 (Ranked 931)  
+Rating: 4.34 (Ranked 932)  
 ## Awards
 Max (Character Customization): 738  (Ranked 219)  
 Sum: 1,977 (Ranked 245)  
