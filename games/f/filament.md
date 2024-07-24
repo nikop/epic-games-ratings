@@ -1,7 +1,7 @@
 # Filament
 [Store](https://store.epicgames.com/en-US/p/filament-332a92)  
 [View Rawdata](../../db/f/filament.json)  
-Rating: 4.33 (Ranked 944)  
+Rating: 4.33 (Ranked 945)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -323,12 +323,12 @@ Completed: 635 (0.29%) (Ranked 334)
 | 2024-04-10 | 213,273 | 613 |
 | 2024-06-17 | 215,925 | 635 |
 ## Awards
-Max (Challenging Puzzles): 606  (Ranked 238)  
-Sum: 733 (Ranked 353)  
+Max (Challenging Puzzles): 607  (Ranked 238)  
+Sum: 734 (Ranked 353)  
 Diff (max vs sum): -115  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 606 |
+| This game features Challenging Puzzles | 607 |
 | This game is Highly Recommended | 29 |
 | This game has Quickly Understood Controls | 28 |
 | This game has Amazing Characters | 26 |
@@ -424,3 +424,4 @@ Diff (max vs sum): -115
 | 2024-06-01 | 4.33 | 604 | 731 |
 | 2024-07-18 | 4.33 | 605 | 732 |
 | 2024-07-21 | 4.33 | 606 | 733 |
+| 2024-07-24 | 4.33 | 607 | 734 |
