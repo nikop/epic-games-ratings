@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 659)
 Number of Ratings: 2,052  (23.09.2022)  
 ## Awards
 Max (Character Customization): 722  (Ranked 224)  
-Sum: 1,056 (Ranked 303)  
+Sum: 1,057 (Ranked 303)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -79
 | This game is Highly Recommended | 41 |
 | This game has Diverse Characters | 41 |
 | This game is Relaxing | 39 |
-| This game has Challenging Combat | 33 |
+| This game has Challenging Combat | 34 |
 | This game has Obsessive Gameplay | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -229,3 +229,4 @@ Diff (max vs sum): -79
 | 2024-07-13 | 4.50 | - | 720 | 1,054 |
 | 2024-07-18 | 4.50 | - | 721 | 1,055 |
 | 2024-07-20 | 4.50 | - | 722 | 1,056 |
+| 2024-07-24 | 4.50 | - | 722 | 1,057 |

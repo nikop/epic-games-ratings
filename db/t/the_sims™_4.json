@@ -2,7 +2,7 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 454,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 1091,
@@ -19529,10 +19529,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 37153,
       "NumberOfAwardsMax": 7274
+    },
+    {
+      "Time": "2024-07-24T17:59:48.6341226+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 37236,
+      "NumberOfAwardsMax": 7274
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37153,
+  "NumberOfAwards": 37236,
   "NumberOfAwardsMax": 7274,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -19540,7 +19546,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3001
+      "Count": 3020
     },
     {
       "Text": "This game is Great for Beginners",
@@ -19552,7 +19558,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5908
+      "Count": 5924
     },
     {
       "Text": "This game has a Creative Community",
@@ -19570,7 +19576,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3922
+      "Count": 3951
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19588,7 +19594,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3187
+      "Count": 3206
     },
     {
       "Text": "This game is Relaxing",
@@ -19623,9 +19629,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-07-24T14:58:34.8359598+00:00",
+  "LastChanged": "2024-07-24T17:59:48.6341224+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:01.7862539+00:00",
   "LastUpdate_AppInfo": "2024-07-21T13:57:13.2864033+00:00",
-  "LastUpdate_Ratings": "2024-07-24T16:01:20.5067545+00:00",
+  "LastUpdate_Ratings": "2024-07-24T17:59:48.634123+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:01.7862572+00:00"
 }

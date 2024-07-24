@@ -11502,10 +11502,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51881,
       "NumberOfAwardsMax": 6573
+    },
+    {
+      "Time": "2024-07-24T17:59:52.5985+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51882,
+      "NumberOfAwardsMax": 6573
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51881,
+  "NumberOfAwards": 51882,
   "NumberOfAwardsMax": 6573,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -11567,7 +11573,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4440
+      "Count": 4441
     },
     {
       "Text": "This game has a Creative Community",
@@ -40541,9 +40547,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2024-07-24T16:01:23.4472213+00:00",
+  "LastChanged": "2024-07-24T17:59:52.5984999+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:45.1428059+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:59.5453723+00:00",
-  "LastUpdate_Ratings": "2024-07-24T16:01:23.4472219+00:00",
+  "LastUpdate_Ratings": "2024-07-24T17:59:52.5985012+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:45.1429935+00:00"
 }

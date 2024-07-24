@@ -4,12 +4,12 @@
 Rating: 3.98 (Ranked 1,179)  
 ## Awards
 Max (Great for Beginners): 798  (Ranked 211)  
-Sum: 4,925 (Ranked 166)  
+Sum: 4,926 (Ranked 166)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 798 |
-| This game is Highly Recommended | 650 |
+| This game is Highly Recommended | 651 |
 | This game is Extremely Fun | 621 |
 | This game has Competitive Players | 621 |
 | This game has Amazing Characters | 578 |
@@ -297,4 +297,4 @@ Diff (max vs sum): 45
 | 2024-07-21 | 3.98 | 797 | 4,917 |
 | 2024-07-22 | 3.98 | 797 | 4,919 |
 | 2024-07-23 | 3.98 | 797 | 4,923 |
-| 2024-07-24 | 3.98 | 798 | 4,925 |
+| 2024-07-24 | 3.98 | 798 | 4,926 |

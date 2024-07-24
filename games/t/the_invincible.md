@@ -1,7 +1,7 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.60 (Ranked 455)  
+Rating: 4.59 (Ranked 478)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -157,3 +157,4 @@ Completed: 3 (0.13%) (Ranked 383)
 | 2024-06-10 | 4.62 | 0 | 0 |
 | 2024-06-19 | 4.63 | 0 | 0 |
 | 2024-06-21 | 4.60 | 0 | 0 |
+| 2024-07-24 | 4.59 | 0 | 0 |
