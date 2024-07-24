@@ -25822,18 +25822,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 1447756,
       "NumberOfAwardsMax": 162428
+    },
+    {
+      "Time": "2024-07-24T19:57:36.5105933+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1448003,
+      "NumberOfAwardsMax": 162535
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1447756,
-  "NumberOfAwardsMax": 162428,
+  "NumberOfAwards": 1448003,
+  "NumberOfAwardsMax": 162535,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 162428
+      "Count": 162535
     },
     {
       "Text": "This game is Relaxing",
@@ -25845,7 +25851,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 138064
+      "Count": 138104
     },
     {
       "Text": "This game has Competitive Players",
@@ -25857,7 +25863,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 143016
+      "Count": 143084
     },
     {
       "Text": "This game has Diverse Characters",
@@ -25887,7 +25893,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 111636
+      "Count": 111668
     },
     {
       "Text": "This game has Playful Visuals",
@@ -58809,9 +58815,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
-  "LastChanged": "2024-07-24T17:59:40.0571823+00:00",
+  "LastChanged": "2024-07-24T19:57:36.5105931+00:00",
   "LastChanged_Achievements": "2024-07-24T02:01:45.2692384+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:21.9396951+00:00",
-  "LastUpdate_Ratings": "2024-07-24T17:59:40.0571828+00:00",
+  "LastUpdate_Ratings": "2024-07-24T19:57:36.5105939+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:01:45.2697067+00:00"
 }
