@@ -2,7 +2,7 @@
   "ID": "36d3389b16b14deeb527754f6393469b",
   "Name": "Gravewood High",
   "ProductSlug": "gravewood-high",
-  "Ranking_Rating": 1150,
+  "Ranking_Rating": 1149,
   "Ranking_Popularity": 674,
   "Ranking_PopularitySum": 674,
   "Ranking_EOS_Progress": 1091,
@@ -460,6 +460,6 @@
   "FirstSeenRating": "2022-08-20T03:01:10.1611704+00:00",
   "LastChanged": "2024-06-30T15:59:27.0106246+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:57.3898379+00:00",
-  "LastUpdate_Ratings": "2024-07-25T14:58:08.3227379+00:00",
+  "LastUpdate_Ratings": "2024-07-25T16:01:33.5911814+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:11.1473514+00:00"
 }
