@@ -2,9 +2,9 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 792,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 497,
+  "Ranking_Rating": 815,
+  "Ranking_Popularity": 561,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 1091,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 16,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2024-07-11T18:57:10.0452281+00:00",
@@ -402,12 +402,18 @@
       "Rating": 4.43,
       "NumberOfAwards": 191,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-07-25T01:57:11.1551628+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 201,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 191,
-  "NumberOfAwardsMax": 38,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 201,
+  "NumberOfAwardsMax": 39,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -425,7 +431,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 34
+      "Count": 39
     },
     {
       "Text": "This game has a Creative Community",
@@ -437,7 +443,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 27
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -464,8 +470,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-07-24T22:58:51.0513863+00:00",
-  "LastUpdate_AppInfo": "2024-07-18T01:54:57.7554386+00:00",
-  "LastUpdate_Ratings": "2024-07-24T22:58:51.0513869+00:00",
+  "LastChanged": "2024-07-25T01:57:11.1551627+00:00",
+  "LastUpdate_AppInfo": "2024-07-25T01:56:02.5700625+00:00",
+  "LastUpdate_Ratings": "2024-07-25T01:57:11.1551631+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.1043605+00:00"
 }
