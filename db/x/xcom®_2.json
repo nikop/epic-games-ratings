@@ -2,7 +2,7 @@
   "ID": "7ec453d446194b8f8afe82aaa9561211",
   "Name": "XCOM\u00AE 2",
   "ProductSlug": "xcom-2",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 1091,
@@ -14827,10 +14827,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 13772,
       "NumberOfAwardsMax": 1693
+    },
+    {
+      "Time": "2024-07-25T13:58:25.5658702+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 13773,
+      "NumberOfAwardsMax": 1693
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13772,
+  "NumberOfAwards": 13773,
   "NumberOfAwardsMax": 1693,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -14856,7 +14862,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1614
+      "Count": 1615
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14906,8 +14912,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2024-07-25T05:57:43.4781477+00:00",
+  "LastChanged": "2024-07-25T13:58:25.56587+00:00",
   "LastUpdate_AppInfo": "2024-07-22T01:59:55.5036741+00:00",
-  "LastUpdate_Ratings": "2024-07-25T11:59:23.5986715+00:00",
+  "LastUpdate_Ratings": "2024-07-25T13:58:25.5658707+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:02.0788438+00:00"
 }

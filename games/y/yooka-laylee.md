@@ -1,20 +1,20 @@
 # Yooka-Laylee
 [Store](https://store.epicgames.com/en-US/p/yooka-laylee)  
 [View Rawdata](../../db/y/yooka-laylee.json)  
-Rating: 4.25 (Ranked 1,030)  
+Rating: 4.25 (Ranked 1,031)  
 Number of Ratings: 366  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 26  (Ranked 630)  
-Sum: 141 (Ranked 517)  
-Diff (max vs sum): 113  
+Max (Great for Beginners): 27  (Ranked 623)  
+Sum: 143 (Ranked 513)  
+Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 27 |
 | This game is Extremely Fun | 26 |
-| This game is Great for Beginners | 26 |
 | This game has Amazing Characters | 25 |
 | This game is Relaxing | 22 |
 | This game is Highly Recommended | 22 |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -129,3 +129,4 @@ Diff (max vs sum): 113
 | 2024-04-09 | 4.25 | - | 25 | 139 |
 | 2024-05-18 | 4.25 | - | 26 | 140 |
 | 2024-07-15 | 4.25 | - | 26 | 141 |
+| 2024-07-25 | 4.25 | - | 27 | 143 |
