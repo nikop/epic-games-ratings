@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 194,
+  "Ranking_Rating": 193,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 64,
@@ -22429,10 +22429,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 93736,
       "NumberOfAwardsMax": 41034
+    },
+    {
+      "Time": "2024-07-25T10:59:27.721535+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 93742,
+      "NumberOfAwardsMax": 41034
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93736,
+  "NumberOfAwards": 93742,
   "NumberOfAwardsMax": 41034,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -22470,7 +22476,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3103
+      "Count": 3109
     },
     {
       "Text": "This game has Diverse Characters",
@@ -53626,9 +53632,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-07-25T07:58:54.0790451+00:00",
+  "LastChanged": "2024-07-25T10:59:27.7215348+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:15.0878451+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:14.3356479+00:00",
-  "LastUpdate_Ratings": "2024-07-25T09:57:31.3503082+00:00",
+  "LastUpdate_Ratings": "2024-07-25T10:59:27.7215357+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:15.088014+00:00"
 }

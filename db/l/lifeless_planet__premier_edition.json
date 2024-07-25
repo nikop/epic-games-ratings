@@ -2,7 +2,7 @@
   "ID": "9ce4c6f216cf43e7ba5eff1045b6e08d",
   "Name": "Lifeless Planet: Premier Edition",
   "ProductSlug": "lifeless-planet-premier-edition",
-  "Ranking_Rating": 1164,
+  "Ranking_Rating": 1167,
   "Ranking_Popularity": 674,
   "Ranking_PopularitySum": 674,
   "Ranking_EOS_Progress": 1091,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.04,
+  "Rating": 4.03,
   "NumberOfRatings": 287,
   "RatingHistory": [
     {
@@ -508,6 +508,12 @@
       "Rating": 4.04,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-25T10:58:04.9676566+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -525,8 +531,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:34.0762225+00:00",
-  "LastChanged": "2024-07-17T10:57:52.7326131+00:00",
+  "LastChanged": "2024-07-25T10:58:04.9676565+00:00",
   "LastUpdate_AppInfo": "2024-07-21T13:57:12.6202036+00:00",
-  "LastUpdate_Ratings": "2024-07-25T08:59:13.4035484+00:00",
+  "LastUpdate_Ratings": "2024-07-25T10:58:04.967657+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:04:18.6589573+00:00"
 }

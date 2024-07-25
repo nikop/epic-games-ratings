@@ -2,7 +2,7 @@
   "ID": "41f47fd0d3e248bc938a5815d6d64daa",
   "Name": "Fez",
   "ProductSlug": "fez",
-  "Ranking_Rating": 173,
+  "Ranking_Rating": 172,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 637,
   "Ranking_EOS_Progress": 1091,
@@ -405,6 +405,6 @@
   "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
   "LastChanged": "2024-07-03T00:00:06.5832336+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:20.677273+00:00",
-  "LastUpdate_Ratings": "2024-07-25T08:58:20.0675884+00:00",
+  "LastUpdate_Ratings": "2024-07-25T10:57:11.5686146+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:07.7309031+00:00"
 }
