@@ -3,7 +3,7 @@
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-07-25 | - |  | - | - |
 | [Trepang2](games/e/e9e954cebd354b7092bbecef04b5d7fd.md) | 2024-07-25 | - |  | - | - |
 | [Computer Virus Simulator](games/d/dcf81a568d924d329addaa06be801621.md) | 2024-07-25 | - |  | - | - |
-| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | - |  | - | - |
+| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | - |  | - | 0 |
 | [Goddess Connect](games/e/eebea9ae68284b4c9701d4cbd990d176.md) | 2024-07-25 | - |  | - | - |
 | [Happy Lab](games/e/e93d97d4ad334c75b10412ae114c00dd.md) | 2024-07-25 | - |  | - | - |
 | [Idle Trillionaire](games/8/8b5be370173547eea257cc8696c7491e.md) | 2024-07-25 | - |  | - | - |
@@ -28,7 +28,7 @@
 | [Adventure Forest: Rabbit Story](games/2/24300a7a071a4b6f9c0ad1b2dbc6883b.md) | 2024-07-19 | - |  | - | - |
 | [The Black Pool](games/a/a79dc86babfd4136a6f788bf54d23308.md) | 2024-07-19 | - |  | - | - |
 | [Hero of the Kingdom](games/1/17fd3ea945ad482190387b6b55b42633.md) | 2024-07-19 | - |  | - | 0 |
-| [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-07-19 | - |  | - | - |
+| [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-07-19 | - |  | - | 0 |
 | [RiichiCity](games/e/e0ee479e91da4abeb526cdfd2210d7dc.md) | 2024-07-19 | - |  | - | 0 |
 | [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-19 | - |  | - | - |
 | [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-07-18 | - |  | - | 0 |
@@ -44,7 +44,7 @@
 | [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2024-07-13 | 33 (1,000 XP) | 11 | - | 0 |
 | [Retro Racers](games/5/512b8b46fc5d4a31816c0fba4ff80a3a.md) | 2024-07-13 | - |  | - | - |
 | [Hidden Shapes Old West](games/9/93ebef1040cb410fbe2b72237a6e26e0.md) | 2024-07-12 | 42 (1,000 XP) | 3 | - | - |
-| [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.51 | 0 |
+| [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.53 | 0 |
 | [Bulletrooms](games/3/363d0b06fb134d5b8c2794f488a694b8.md) | 2024-07-12 | - |  | - | 0 |
 | [Dungeon Keeper Gold™](games/2/2ad37df83ba04179aea379277a8add65.md) | 2024-07-11 | - |  | - | 0 |
 | [Dungeon Keeper™ 2](games/f/f6abe1ada70746a9b45ed1e806bca7e2.md) | 2024-07-11 | - |  | - | 0 |
@@ -121,4 +121,3 @@
 | [The Adventures of Prince Shiratama ~Climb the mountains~](games/4/4334a911c46b4816b3d6580f5dd03fab.md) | 2024-06-26 | - |  | - | 0 |
 | [Firelight Fantasy: Force Energy](games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 2024-06-26 | 6 (1,000 XP) | 16 | - | - |
 | [PolyClassic: Wild](games/1/1d8b0901c1794bb3a136a2877b569c5b.md) | 2024-06-26 | - |  | - | - |
-| [Cycles](games/7/796819dc95244ad3b421b64b4a93df9a.md) | 2024-06-25 | - |  | - | 0 |

@@ -503,6 +503,7 @@
 | [Mimic](games/2/2483b3cc6cc0474eadf938933d0b5929.md) | 2099-01-01 | - |  | - | - |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | - |  | - | - |
 | [Moon Village Simulator](games/m/moon_village_simulator.md) | 2099-01-01 | - |  | - | - |
+| [Moonfrost](games/a/abaf1b7f84de481fae7a61d4523344da.md) | 2099-01-01 | - |  | - | - |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | - |  | - | - |
 | [Munch](games/c/c57260adb2684f23a4667a3692349d62.md) | 2099-01-01 | - |  | - | - |
 | [Munlay Online](games/c/c1c4ebf44f4e46c0be20c5741ddccade.md) | 2099-01-01 | - |  | - | - |
