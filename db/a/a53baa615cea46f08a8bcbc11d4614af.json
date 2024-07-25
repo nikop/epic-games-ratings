@@ -2,9 +2,9 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 992,
-  "Ranking_Popularity": 651,
-  "Ranking_PopularitySum": 654,
+  "Ranking_Rating": 980,
+  "Ranking_Popularity": 630,
+  "Ranking_PopularitySum": 645,
   "Ranking_EOS_Progress": 1091,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 16,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2024-07-06T01:47:40.4690961+00:00",
@@ -313,18 +313,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-07-25T11:57:53.0318179+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 22
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -339,7 +345,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-07-25T09:59:05.8085979+00:00",
+  "LastChanged": "2024-07-25T11:57:53.0318177+00:00",
   "LastUpdate_AppInfo": "2024-07-23T14:57:07.1431018+00:00",
-  "LastUpdate_Ratings": "2024-07-25T09:59:05.8085983+00:00"
+  "LastUpdate_Ratings": "2024-07-25T11:57:53.0318183+00:00"
 }
