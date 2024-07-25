@@ -18,6 +18,7 @@
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 |
 | [Sifu](../games/s/sifu.md) | 60 | 1,720 |
+| [Goat Simulator 3](../games/g/goat_simulator_3.md) | 54 | 1,705 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 71 | 1,705 |
 | [Orcs Must Die! 3](../games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 37 | 1,700 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
@@ -269,6 +270,7 @@
 | [Command & Conquer™ Remastered Collection](../games/2/2c01f88a21d94b10846433931e3fb628.md) | 33 | 1,000 |
 | [Contraption Maker](../games/f/fafd1bf30a1e489e819444377e309999.md) | 22 | 1,000 |
 | [CONVERGENCE: A League of Legends Story™](../games/c/convergence__a_league_of_legends_story™.md) | 53 | 1,000 |
+| [Coreborn](../games/f/f1c9dd3a1471408f9e1f6bf0aad94698.md) | 17 | 1,000 |
 | [Coryphaeus Championships](../games/c/coryphaeus_championships.md) | 5 | 1,000 |
 | [CounterAttack: Uprising](../games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 24 | 1,000 |
 | [Covid Carl](../games/c/covid_carl.md) | 23 | 1,000 |
@@ -349,6 +351,7 @@
 | [Doodle Kingdom](../games/5/57516fb42c924c54be764afa7d006718.md) | 14 | 1,000 |
 | [Doodle Mafia](../games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 14 | 1,000 |
 | [DotLine](../games/e/e582a1469e18401e8729827444ea2c8e.md) | 42 | 1,000 |
+| [Dragon Chronicles: Black Tears](../games/6/6ed45680bbff4a6993b7ccebe02a1f9d.md) | 100 | 1,000 |
 | [Dreadful River](../games/0/01c515c1f28547ab8142678d107be081.md) | 110 | 1,000 |
 | [Dros](../games/a/a46cade12846436281c910ddc51411f3.md) | 40 | 1,000 |
 | [Dude, Where Is My Beer?](../games/7/7c6b6697df584024be9c60a1da59096b.md) | 22 | 1,000 |
@@ -357,6 +360,7 @@
 | [Dungeon Knight](../games/b/bb813cebe527480abb7d459661931369.md) | 12 | 1,000 |
 | [Dungeons 3](../games/d/dungeons_3.md) | 60 | 1,000 |
 | [Dungeons 4](../games/d/dungeons_4.md) | 61 | 1,000 |
+| [Dungeons of Hinterberg](../games/e/e42faa3ca424411db871181e13664ef3.md) | 41 | 1,000 |
 | [Dust Fleet](../games/d/dust_fleet.md) | 41 | 1,000 |
 | [Dust to the End](../games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 47 | 1,000 |
 | [Dying Light: Standard Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
@@ -395,6 +399,7 @@
 | [Eternights](../games/e/eternights.md) | 25 | 1,000 |
 | [Euphoria: Supreme Mechanics](../games/1/18051c2571964edbaeb83f87d12a189c.md) | 7 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
+| [Everafter Falls](../games/b/bb5dabc784164e62ac3e96858de000bf.md) | 38 | 1,000 |
 | [Evil Seal](../games/6/6b627f8704ae454aaec3b576eb965d76.md) | 32 | 1,000 |
 | [Evil Tonight](../games/e/ea17712b1bd24b64a7b7ff60b8c936b0.md) | 8 | 1,000 |
 | [Ex Natura Nature Corrupted](../games/4/4fad42879d3643a0a295ad012fed973d.md) | 14 | 1,000 |
@@ -471,7 +476,6 @@
 | [GINSHA](../games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 23 | 1,000 |
 | [Gladiator : Blades of Fury](../games/2/285b64782090429a8c055d913b2c93f1.md) | 6 | 1,000 |
 | [Gloomhaven](../games/g/gloomhaven.md) | 61 | 1,000 |
-| [Goat Simulator 3](../games/g/goat_simulator_3.md) | 39 | 1,000 |
 | [Godlike Burger](../games/g/godlike_burger.md) | 28 | 1,000 |
 | [Godzilla Voxel Wars](../games/8/8549e5bffe744f67933bf4f8689030c4.md) | 63 | 1,000 |
 | [Going Medieval](../games/g/going_medieval.md) | 31 | 1,000 |
@@ -643,6 +647,7 @@
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
 | [Medieval Knight](../games/6/6ac1cb16aaf949c0aa7ca74c9663665f.md) | 5 | 1,000 |
 | [Mediterranea Inferno](../games/3/3623ba5530504da8a3f6e8d7f51177df.md) | 11 | 1,000 |
+| [Megapolis](../games/b/bb41e07f50464edb958e13c6531fe78c.md) | 22 | 1,000 |
 | [Merchant of the Skies](../games/m/merchant_of_the_skies.md) | 12 | 1,000 |
 | [Metalstorm](../games/m/metalstorm.md) | 20 | 1,000 |
 | [Metamorphosis](../games/a/a8f1b444a68b4d82803dd7f5374bcd42.md) | 26 | 1,000 |
@@ -738,8 +743,8 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
 | [Pepper Grinder](../games/p/pepper_grinder.md) | 23 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |
@@ -780,6 +785,7 @@
 | [Quick Race](../games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 15 | 1,000 |
 | [Quiplash 2 InterLASHional](../games/3/38931bb693204b7289689de85a8e4b44.md) | 10 | 1,000 |
 | [Quiz Time](../games/3/3a4eb3f9b5b34db6aeed3a636c4fd154.md) | 5 | 1,000 |
+| [Quiztopia : The Ultimate Trivia](../games/1/14e5ac79eb304c5d834a9985cd4d127e.md) | 6 | 1,000 |
 | [RacerLoop](../games/1/1fd24db7dd2c403c9f77e44940a90355.md) | 43 | 1,000 |
 | [Ragnarok Survivors Valhalla](../games/3/377c7afca797475bb73be258c94f82ea.md) | 34 | 1,000 |
 | [Railbreak](../games/b/b8877a4db3f04eec83b7410484e80473.md) | 25 | 1,000 |
@@ -874,6 +880,7 @@
 | [SIMULACRA 3](../games/s/simulacra_3.md) | 24 | 1,000 |
 | [Sir Whoopass - Immortal Death](../games/s/sir_whoopass_-_immortal_death.md) | 82 | 1,000 |
 | [Skeletal Avengers](../games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 21 | 1,000 |
+| [Sker Ritual](../games/1/156c17659ff0468bb533eba104a1f19f.md) | 46 | 1,000 |
 | [Skul: The Hero Slayer](../games/s/skul__the_hero_slayer.md) | 24 | 1,000 |
 | [Skye Tales](../games/0/06c6603778ed47859ce523af7e0b566b.md) | 41 | 1,000 |
 | [Slain: Back From Hell](../games/s/slain__back_from_hell.md) | 29 | 1,000 |
@@ -883,6 +890,7 @@
 | [Smelogs Playground](../games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 31 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [Snowmen](../games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 18 | 1,000 |
+| [SOKOCAT - DUNGEON](../games/7/7835e0cee5f244368043d0ba83528856.md) | 13 | 1,000 |
 | [Somerville](../games/s/somerville.md) | 11 | 1,000 |
 | [Song of Nunu: A League of Legends Story](../games/s/song_of_nunu__a_league_of_legends_story™.md) | 44 | 1,000 |
 | [Songs of Conquest](../games/s/songs_of_conquest.md) | 54 | 1,000 |
@@ -894,8 +902,10 @@
 | [Space Accident](../games/1/18efd480ed4549688383b6036df07bc2.md) | 5 | 1,000 |
 | [SPACE ELITE FORCE](../games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 30 | 1,000 |
 | [SPACE ELITE FORCE II](../games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 69 | 1,000 |
+| [SPACE SMASH](../games/3/3808a6fabaf642c1b5b8a69c00b165c6.md) | 27 | 1,000 |
 | [SPACE WAR - INFINITY](../games/7/72714161da094789aec500130c8530fa.md) | 43 | 1,000 |
 | [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
+| [Spectra](../games/2/20793453c6ee412cadbc2932db902e86.md) | 5 | 1,000 |
 | [Spellbound Survivors](../games/2/224b2e53d23246c2b67c3bad1ccb5eb1.md) | 53 | 1,000 |
 | [Spellcats Auto Card Tactics](../games/4/4dadd911cca741d684859a00e813a14b.md) | 26 | 1,000 |
 | [SpellForce: Conquest of Eo](../games/s/spellforce__conquest_of_eo.md) | 70 | 1,000 |
@@ -998,6 +1008,7 @@
 | [The Galactic Junkers](../games/t/the_galactic_junkers.md) | 23 | 1,000 |
 | [The Gap](../games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 18 | 1,000 |
 | [The Gardener and the Wild Vines](../games/t/the_gardener_and_the_wild_vines.md) | 22 | 1,000 |
+| [The Gravity Trickster](../games/e/eadca889d4344a9eaaa96c606222892d.md) | 31 | 1,000 |
 | [The Great War: Western Front™](../games/t/the_great_war__western_front™.md) | 12 | 1,000 |
 | [The Guild 3](../games/t/the_guild_3.md) | 26 | 1,000 |
 | [The Hidden Room](../games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 16 | 1,000 |
@@ -1011,6 +1022,7 @@
 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](../games/6/6416a7e47acb440da6f7fc0eff798318.md) | 6 | 1,000 |
 | [The Isle Tide Hotel](../games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 26 | 1,000 |
 | [The Jackbox Party Pack 10](../games/3/3b925119dbd84a9986f06e66e6794033.md) | 20 | 1,000 |
+| [The Jackbox Party Starter](../games/t/the_jackbox_party_starter.md) | 20 | 1,000 |
 | [The Land Beneath Us](../games/c/c99e1a5d5bd5462d8fbaabf6951bbbdf.md) | 36 | 1,000 |
 | [The Legend of Tianding](../games/t/the_legend_of_tianding.md) | 26 | 1,000 |
 | [The Library of Babel](../games/t/the_library_of_babel.md) | 35 | 1,000 |
