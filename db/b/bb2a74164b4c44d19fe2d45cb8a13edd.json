@@ -2,9 +2,9 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 794,
+  "Ranking_Rating": 816,
   "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 477,
+  "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2024-07-11T18:57:10.0452281+00:00",
@@ -426,10 +426,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 219,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-07-25T19:57:46.7213036+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 219,
+  "NumberOfAwards": 223,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -455,7 +461,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 32
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",
@@ -488,8 +494,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-07-25T17:59:16.9512499+00:00",
+  "LastChanged": "2024-07-25T19:57:46.7213034+00:00",
   "LastUpdate_AppInfo": "2024-07-25T01:56:02.5700625+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:59:16.9512504+00:00",
+  "LastUpdate_Ratings": "2024-07-25T19:57:46.721304+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.1043605+00:00"
 }
