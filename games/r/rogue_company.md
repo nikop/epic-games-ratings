@@ -1,12 +1,12 @@
 # Rogue Company
 [Store](https://store.epicgames.com/en-US/p/rogue-company)  
 [View Rawdata](../../db/r/rogue_company.json)  
-Rating: 4.27 (Ranked 1,009)  
+Rating: 4.27 (Ranked 1,008)  
 Number of Ratings: 21,107  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 6,369  (Ranked 79)  
+Max (Diverse Characters): 6,369  (Ranked 80)  
 Sum: 38,175 (Ranked 45)  
-Diff (max vs sum): 34  
+Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 6,369 |

@@ -1,7 +1,7 @@
 # Beholder 3
 [Store](https://store.epicgames.com/en-US/p/beholder-3-d23253)  
 [View Rawdata](../../db/b/beholder_3.json)  
-Rating: 4.41 (Ranked 837)  
+Rating: 4.42 (Ranked 818)  
 Number of Ratings: 21  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -25,3 +25,4 @@ Number of Ratings: 21  (23.09.2022)
 | 2024-01-17 | 4.37 | - | 0 | 0 |
 | 2024-03-10 | 4.39 | - | 0 | 0 |
 | 2024-07-24 | 4.41 | - | 0 | 0 |
+| 2024-07-25 | 4.42 | - | 0 | 0 |
