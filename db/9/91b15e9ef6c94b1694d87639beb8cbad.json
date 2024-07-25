@@ -4,7 +4,7 @@
   "ProductSlug": "dark-and-darker-qa-c1e629",
   "Ranking_Rating": 995,
   "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 147,
+  "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -1932,10 +1932,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 6946,
       "NumberOfAwardsMax": 868
+    },
+    {
+      "Time": "2024-07-25T21:58:48.4719033+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 6967,
+      "NumberOfAwardsMax": 868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6946,
+  "NumberOfAwards": 6967,
   "NumberOfAwardsMax": 868,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1943,7 +1949,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 614
+      "Count": 623
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1991,7 +1997,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 559
+      "Count": 571
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2018,8 +2024,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-07-25T19:59:52.1789554+00:00",
+  "LastChanged": "2024-07-25T21:58:48.4719031+00:00",
   "LastUpdate_AppInfo": "2024-07-21T15:57:03.2753415+00:00",
-  "LastUpdate_Ratings": "2024-07-25T19:59:52.1789558+00:00",
+  "LastUpdate_Ratings": "2024-07-25T21:58:48.4719037+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.2786758+00:00"
 }

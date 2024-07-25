@@ -2,9 +2,9 @@
   "ID": "e885327ce4414509bff4c10757f88334",
   "Name": "Wuthering Waves",
   "ProductSlug": "wuthering-waves-76ebc5",
-  "Ranking_Rating": 750,
-  "Ranking_Popularity": 114,
-  "Ranking_PopularitySum": 182,
+  "Ranking_Rating": 751,
+  "Ranking_Popularity": 113,
+  "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -1674,18 +1674,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 4122,
       "NumberOfAwardsMax": 3014
+    },
+    {
+      "Time": "2024-07-25T21:59:25.5577863+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 4169,
+      "NumberOfAwardsMax": 3055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4122,
-  "NumberOfAwardsMax": 3014,
+  "NumberOfAwards": 4169,
+  "NumberOfAwardsMax": 3055,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3014
+      "Count": 3055
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1709,7 +1715,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 113
+      "Count": 117
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1721,7 +1727,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 118
+      "Count": 120
     },
     {
       "Text": "This game is Relaxing",
@@ -1760,8 +1766,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T02:22:20.3878047+00:00",
   "FirstSeenRating": "2024-05-23T10:59:58.0087542+00:00",
-  "LastChanged": "2024-07-25T20:57:21.9742216+00:00",
+  "LastChanged": "2024-07-25T21:59:25.5577861+00:00",
   "LastUpdate_AppInfo": "2024-07-20T10:57:26.1960037+00:00",
-  "LastUpdate_Ratings": "2024-07-25T20:57:21.9742221+00:00",
+  "LastUpdate_Ratings": "2024-07-25T21:59:25.5577866+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:46.4833168+00:00"
 }

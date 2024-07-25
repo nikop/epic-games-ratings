@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.66 (Ranked 321)  
+Rating: 4.66 (Ranked 320)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -325,7 +325,7 @@ Completed: 11 (0.14%) (Ranked 380)
 | 2024-06-17 | 7,915 | 11 |
 ## Awards
 Max (Great for Beginners): 83  (Ranked 466)  
-Sum: 481 (Ranked 396)  
+Sum: 482 (Ranked 396)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): 70
 | This game is Highly Recommended | 51 |
 | This game is Extremely Fun | 49 |
 | This game has Beautiful Visuals | 48 |
-| This game has Amazing Storytelling | 39 |
+| This game has Amazing Storytelling | 40 |
 | This game has Amazing Characters | 37 |
 | This game has Quickly Understood Controls | 34 |
 | This game has Challenging Combat | 32 |
@@ -545,4 +545,4 @@ Diff (max vs sum): 70
 | 2024-07-20 | 4.65 | 81 | 475 |
 | 2024-07-21 | 4.65 | 81 | 477 |
 | 2024-07-24 | 4.65 | 82 | 480 |
-| 2024-07-25 | 4.66 | 83 | 481 |
+| 2024-07-25 | 4.66 | 83 | 482 |

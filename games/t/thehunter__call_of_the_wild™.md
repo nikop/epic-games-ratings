@@ -1,15 +1,15 @@
 # theHunter: Call of the Wild™
 [Store](https://store.epicgames.com/en-US/p/thehunter-call-of-the-wild)  
 [View Rawdata](../../db/t/thehunter__call_of_the_wild™.json)  
-Rating: 4.57 (Ranked 524)  
+Rating: 4.57 (Ranked 523)  
 Number of Ratings: 14,635  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 6,186  (Ranked 82)  
-Sum: 34,916 (Ranked 52)  
-Diff (max vs sum): 30  
+Max (Great for Beginners): 6,200  (Ranked 81)  
+Sum: 34,930 (Ranked 52)  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 6,186 |
+| This game is Great for Beginners | 6,200 |
 | This game is Highly Recommended | 4,445 |
 | This game is Relaxing | 4,226 |
 | This game is Extremely Fun | 4,165 |
@@ -578,4 +578,4 @@ Diff (max vs sum): 30
 | 2024-07-22 | 4.57 | - | 6,156 | 34,819 |
 | 2024-07-23 | 4.57 | - | 6,167 | 34,858 |
 | 2024-07-24 | 4.57 | - | 6,186 | 34,903 |
-| 2024-07-25 | 4.57 | - | 6,186 | 34,916 |
+| 2024-07-25 | 4.57 | - | 6,200 | 34,930 |

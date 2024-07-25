@@ -2,7 +2,7 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 18,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 1102,
@@ -24023,10 +24023,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 143672,
       "NumberOfAwardsMax": 18785
+    },
+    {
+      "Time": "2024-07-25T21:57:19.52178+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 143714,
+      "NumberOfAwardsMax": 18785
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143672,
+  "NumberOfAwards": 143714,
   "NumberOfAwardsMax": 18785,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -24040,7 +24046,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 14753
+      "Count": 14768
     },
     {
       "Text": "This game is Relaxing",
@@ -24058,7 +24064,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 15140
+      "Count": 15160
     },
     {
       "Text": "This game is Great for Beginners",
@@ -24094,7 +24100,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 11170
+      "Count": 11177
     }
   ],
   "EOS_Progressed": 0,
@@ -24116,9 +24122,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-07-25T19:58:34.45403+00:00",
+  "LastChanged": "2024-07-25T21:57:19.5217799+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:38.6524438+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:58:14.4872631+00:00",
-  "LastUpdate_Ratings": "2024-07-25T19:58:34.4540306+00:00",
+  "LastUpdate_Ratings": "2024-07-25T21:57:19.5217806+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:38.6524498+00:00"
 }
