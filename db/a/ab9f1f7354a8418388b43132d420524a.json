@@ -2,9 +2,9 @@
   "ID": "ab9f1f7354a8418388b43132d420524a",
   "Name": "Town of Salem 2",
   "ProductSlug": "town-of-salem-2-ab6497",
-  "Ranking_Rating": 610,
+  "Ranking_Rating": 629,
   "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 469,
+  "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2024-04-20T18:57:39.0302102+00:00",
@@ -1140,10 +1140,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 249,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2024-07-25T22:58:13.6280457+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 250,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 249,
+  "NumberOfAwards": 250,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1181,7 +1187,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4762,9 +4768,9 @@
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:33.4303838+00:00",
-  "LastChanged": "2024-07-25T04:58:34.7545444+00:00",
+  "LastChanged": "2024-07-25T22:58:13.6280456+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:33.4303806+00:00",
   "LastUpdate_AppInfo": "2024-07-18T22:57:25.0928424+00:00",
-  "LastUpdate_Ratings": "2024-07-25T20:59:52.1975819+00:00",
+  "LastUpdate_Ratings": "2024-07-25T22:58:13.6280462+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:33.4324347+00:00"
 }
