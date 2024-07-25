@@ -1,7 +1,7 @@
 # Card Shark
 [Store](https://store.epicgames.com/en-US/p/card-shark-8f95f0)  
 [View Rawdata](../../db/c/card_shark.json)  
-Rating: 4.67 (Ranked 301)  
+Rating: 4.65 (Ranked 335)  
 Number of Ratings: 21  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -26,3 +26,4 @@ Number of Ratings: 21  (23.09.2022)
 | 2024-07-18 | 4.64 | - | 0 | 0 |
 | 2024-07-21 | 4.65 | - | 0 | 0 |
 | 2024-07-22 | 4.67 | - | 0 | 0 |
+| 2024-07-25 | 4.65 | - | 0 | 0 |

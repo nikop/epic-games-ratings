@@ -4,7 +4,7 @@
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 794,
   "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 443,
+  "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 1091,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 16,
@@ -1399,10 +1399,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 305,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-07-25T13:07:10.7959137+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 325,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 305,
+  "NumberOfAwards": 325,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1471,6 +1477,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 21
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1493,9 +1505,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2024-07-16T14:00:22.3027479+00:00",
+  "LastChanged": "2024-07-25T13:07:10.7959135+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:52.7946411+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:36.7400323+00:00",
-  "LastUpdate_Ratings": "2024-07-25T10:58:03.1140232+00:00",
+  "LastUpdate_Ratings": "2024-07-25T13:07:10.795914+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:52.7946447+00:00"
 }

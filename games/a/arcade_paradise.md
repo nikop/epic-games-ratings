@@ -1,7 +1,7 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.29 (Ranked 980)  
+Rating: 4.30 (Ranked 971)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -200,4 +200,4 @@ Completed: 0 (0.00%) (Ranked 513)
 | 2024-07-22 | 4.29 | 0 | 0 |
 | 2024-07-23 | 4.29 | 0 | 0 |
 | 2024-07-24 | 4.30 | 0 | 0 |
-| 2024-07-25 | 4.29 | 0 | 0 |
+| 2024-07-25 | 4.30 | 0 | 0 |
