@@ -4,7 +4,7 @@
   "ProductSlug": "supraland-six-inches-under-dd0220",
   "Ranking_Rating": 157,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 530,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 50,
   "Ranking_EOS_NewPlayers": 16,
@@ -476,18 +476,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 115,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2024-07-25T08:58:12.2645625+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 115,
-  "NumberOfAwardsMax": 115,
+  "NumberOfAwards": 116,
+  "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 115
+      "Count": 116
     }
   ],
   "EOS_Progressed": 2781,
@@ -3625,9 +3631,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
-  "LastChanged": "2024-07-16T03:58:06.4709952+00:00",
+  "LastChanged": "2024-07-25T08:58:12.2645623+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:55.5862604+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:25.801918+00:00",
-  "LastUpdate_Ratings": "2024-07-25T06:59:07.4922406+00:00",
+  "LastUpdate_Ratings": "2024-07-25T08:58:12.264563+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:55.5863072+00:00"
 }
