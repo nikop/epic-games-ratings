@@ -302,6 +302,7 @@
 | [Big Helmet Heroes](games/f/fcba6b461efc4602bbb0d4b736f7f0a7.md) | 2099-01-01 | - |  | - | - |
 | [Bionic Bay](games/b/bionic_bay.md) | 2099-01-01 | - |  | - | - |
 | [Biped 2](games/9/9bc0690ec6ca4595973337e2cae81273.md) | 2099-01-01 | - |  | - | - |
+| [Black State](games/c/c2f1d26f802440f3a5a5e44e802ade31.md) | 2099-01-01 | - |  | - | - |
 | [Blood Flowers](games/5/5ab7474f6a7043aaba392d4b64096737.md) | 2099-01-01 | 20 (1,000 XP) | 1 | - | - |
 | [Blood Rush](games/d/d65e7e627d1a472b9821ea0985ab729d.md) | 2099-01-01 | - |  | - | - |
 | [BloodLoop](games/e/e9a242d5b2ff42199ba462963f583cba.md) | 2099-01-01 | - |  | - | - |
