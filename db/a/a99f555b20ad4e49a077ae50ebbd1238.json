@@ -2,7 +2,7 @@
   "ID": "a99f555b20ad4e49a077ae50ebbd1238",
   "Name": "Zeeverse",
   "ProductSlug": "zeeverse-92a34e",
-  "Ranking_Rating": 46,
+  "Ranking_Rating": 45,
   "Ranking_Popularity": 579,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 1091,
@@ -369,6 +369,6 @@
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
   "LastChanged": "2024-07-24T14:57:23.5407871+00:00",
   "LastUpdate_AppInfo": "2024-07-18T04:57:14.3338716+00:00",
-  "LastUpdate_Ratings": "2024-07-24T22:57:43.8715289+00:00",
+  "LastUpdate_Ratings": "2024-07-25T00:00:55.0526027+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:18.6363596+00:00"
 }

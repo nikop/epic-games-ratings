@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 1091,
@@ -24792,10 +24792,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 301924,
       "NumberOfAwardsMax": 70846
+    },
+    {
+      "Time": "2024-07-24T23:59:16.0757181+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 301930,
+      "NumberOfAwardsMax": 70846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 301924,
+  "NumberOfAwards": 301930,
   "NumberOfAwardsMax": 70846,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -24857,7 +24863,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 21495
+      "Count": 21501
     },
     {
       "Text": "This game has Diverse Characters",
@@ -24883,8 +24889,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-07-24T18:59:06.3625866+00:00",
+  "LastChanged": "2024-07-24T23:59:16.0757179+00:00",
   "LastUpdate_AppInfo": "2024-07-22T01:59:58.1986792+00:00",
-  "LastUpdate_Ratings": "2024-07-24T21:59:40.7095979+00:00",
+  "LastUpdate_Ratings": "2024-07-24T23:59:16.0757187+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:19.4284414+00:00"
 }
