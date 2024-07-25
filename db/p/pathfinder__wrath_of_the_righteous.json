@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 144,
+  "Ranking_Rating": 145,
   "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 210,
@@ -6771,10 +6771,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7678,
       "NumberOfAwardsMax": 1871
+    },
+    {
+      "Time": "2024-07-25T17:00:40.0928456+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7679,
+      "NumberOfAwardsMax": 1871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7678,
+  "NumberOfAwards": 7679,
   "NumberOfAwardsMax": 1871,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6788,7 +6794,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 669
+      "Count": 670
     },
     {
       "Text": "This game is Extremely Fun",
@@ -23308,9 +23314,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-07-25T15:57:56.1992371+00:00",
+  "LastChanged": "2024-07-25T17:00:40.0928452+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:37.1533291+00:00",
   "LastUpdate_AppInfo": "2024-07-22T01:59:53.6786266+00:00",
-  "LastUpdate_Ratings": "2024-07-25T15:57:56.1992376+00:00",
+  "LastUpdate_Ratings": "2024-07-25T17:00:40.0928459+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:37.1536024+00:00"
 }

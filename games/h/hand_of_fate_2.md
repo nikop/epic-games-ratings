@@ -1,7 +1,7 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.53 (Ranked 609)  
+Rating: 4.53 (Ranked 610)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -343,8 +343,8 @@ Completed: 176 (0.03%) (Ranked 450)
 | 2024-04-10 | 670,847 | 176 |
 | 2024-06-17 | 673,220 | 176 |
 ## Awards
-Max (Amazing Storytelling): 40  (Ranked 558)  
-Sum: 214 (Ranked 482)  
+Max (Amazing Storytelling): 40  (Ranked 559)  
+Sum: 214 (Ranked 483)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |

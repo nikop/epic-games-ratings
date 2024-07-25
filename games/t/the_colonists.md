@@ -1,7 +1,7 @@
 # The Colonists
 [Store](https://store.epicgames.com/en-US/p/the-colonists)  
 [View Rawdata](../../db/t/the_colonists.json)  
-Rating: 4.46 (Ranked 731)  
+Rating: 4.48 (Ranked 704)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.46 (Ranked 731)
 | 2024-03-05 | 4.46 | 0 | 0 |
 | 2024-03-11 | 4.44 | 0 | 0 |
 | 2024-05-13 | 4.46 | 0 | 0 |
+| 2024-07-25 | 4.48 | 0 | 0 |
