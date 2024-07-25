@@ -495,6 +495,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 239919,
@@ -29331,6 +29337,6 @@
   "LastChanged": "2024-07-08T20:58:42.12526+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:18.3458431+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:29.025704+00:00",
-  "LastUpdate_Ratings": "2024-07-25T02:59:50.2815749+00:00",
+  "LastUpdate_Ratings": "2024-07-25T04:58:32.5884833+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:18.3459878+00:00"
 }

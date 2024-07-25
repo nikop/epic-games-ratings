@@ -331,6 +331,7 @@ Diff (max vs sum): 80
 | This game has Challenging Combat | 22 |
 | This game has a Kind Community | 20 |
 | This game is Highly Recommended | 20 |
+| This game is Great for Quick Sessions | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

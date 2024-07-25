@@ -4,7 +4,7 @@
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 685,
   "Ranking_Popularity": 171,
-  "Ranking_PopularitySum": 118,
+  "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 1091,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 16,
@@ -13462,10 +13462,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 10005,
       "NumberOfAwardsMax": 1180
+    },
+    {
+      "Time": "2024-07-25T04:57:42.8760386+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 10007,
+      "NumberOfAwardsMax": 1180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10005,
+  "NumberOfAwards": 10007,
   "NumberOfAwardsMax": 1180,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -13521,7 +13527,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1050
+      "Count": 1052
     },
     {
       "Text": "This game is Educational",
@@ -13553,8 +13559,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-07-25T02:58:54.7093697+00:00",
+  "LastChanged": "2024-07-25T04:57:42.8760384+00:00",
   "LastUpdate_AppInfo": "2024-07-22T04:57:15.1804416+00:00",
-  "LastUpdate_Ratings": "2024-07-25T02:58:54.7093702+00:00",
+  "LastUpdate_Ratings": "2024-07-25T04:57:42.876039+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:33.9967202+00:00"
 }
