@@ -2,7 +2,7 @@
   "ID": "5728256099ea4e028abfb327c4382660",
   "Name": "Illuvium Zero",
   "ProductSlug": "illuvium-zero-ca46a6",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 717,
   "Ranking_Popularity": 673,
   "Ranking_PopularitySum": 673,
   "Ranking_EOS_Progress": 1091,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.47,
   "RatingHistory": [
     {
       "Time": "2024-07-19T16:58:57.1679558+00:00",
@@ -78,6 +78,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-25T02:58:59.3366613+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -96,7 +102,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-07-24T09:57:29.3277827+00:00",
+  "LastChanged": "2024-07-25T02:58:59.3366612+00:00",
   "LastUpdate_AppInfo": "2024-07-19T17:57:13.8492663+00:00",
-  "LastUpdate_Ratings": "2024-07-25T00:01:19.2084014+00:00"
+  "LastUpdate_Ratings": "2024-07-25T02:58:59.3366618+00:00"
 }

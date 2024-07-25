@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-3",
   "Ranking_Rating": 337,
   "Ranking_Popularity": 268,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 16,
@@ -4343,10 +4343,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 3004,
       "NumberOfAwardsMax": 445
+    },
+    {
+      "Time": "2024-07-25T02:58:00.5772902+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 3005,
+      "NumberOfAwardsMax": 445
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3004,
+  "NumberOfAwards": 3005,
   "NumberOfAwardsMax": 445,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4396,7 +4402,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 291
+      "Count": 292
     },
     {
       "Text": "This game has Diverse Characters",
@@ -36348,9 +36354,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2024-07-23T10:58:43.1562934+00:00",
+  "LastChanged": "2024-07-25T02:58:00.5772901+00:00",
   "LastChanged_Achievements": "2024-07-24T02:05:06.4627984+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:36.2217031+00:00",
-  "LastUpdate_Ratings": "2024-07-25T00:00:03.7344375+00:00",
+  "LastUpdate_Ratings": "2024-07-25T02:58:00.5772906+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:05:06.4629565+00:00"
 }
