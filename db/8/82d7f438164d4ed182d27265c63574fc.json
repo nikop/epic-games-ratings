@@ -2,9 +2,9 @@
   "ID": "82d7f438164d4ed182d27265c63574fc",
   "Name": "Evershire",
   "ProductSlug": "evershire-40c022",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-22T16:57:08.059029+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:58:51.0835765+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:00.7337967+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:01:12.7334909+00:00"
 }

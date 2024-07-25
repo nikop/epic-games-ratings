@@ -2,9 +2,9 @@
   "ID": "3880ec67d75643da816c9feabb168010",
   "Name": "Union of Gnomes",
   "ProductSlug": "union-of-gnomes-2a8863",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-19T23:57:10.0631274+00:00",
   "LastUpdate_Ratings": "2024-07-25T17:59:14.6086977+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:25.9137366+00:00"
+  "LastUpdate_Achievements": "2024-07-25T19:02:07.2257634+00:00"
 }

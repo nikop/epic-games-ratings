@@ -2,9 +2,9 @@
   "ID": "a745435cd45c4821ac6418cfe9018076",
   "Name": "SCP: Submerged",
   "ProductSlug": "scp-submerged-8a21f4",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-21T23:57:45.1531804+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:59:14.9681308+00:00"
+  "LastUpdate_Ratings": "2024-07-25T19:00:54.2098333+00:00"
 }

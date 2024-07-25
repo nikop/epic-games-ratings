@@ -24,8 +24,8 @@
 | Violin Solo | 0.10% | ~4 |
 | Walk The Dog | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,665 (Ranked 283)  
-Completed: 1 (0.03%) (Ranked 450)  
+Progressed: 3,665 (Ranked 286)  
+Completed: 1 (0.03%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

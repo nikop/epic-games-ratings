@@ -1,7 +1,7 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.51 (Ranked 645)  
+Rating: 4.51 (Ranked 646)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -60,7 +60,7 @@ Rating: 4.51 (Ranked 645)
 | Pinpoint | 2.00% | ~1,260 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62,985 (Ranked 150)  
-Completed: 373 (0.59%) (Ranked 279)  
+Completed: 373 (0.59%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

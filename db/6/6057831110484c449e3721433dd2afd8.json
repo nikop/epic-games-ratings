@@ -2,9 +2,9 @@
   "ID": "6057831110484c449e3721433dd2afd8",
   "Name": "Telf AG",
   "ProductSlug": "telf-ag-ed1f34",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T10:57:04.7917301+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:57.8289786+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:45.5932807+00:00"
 }

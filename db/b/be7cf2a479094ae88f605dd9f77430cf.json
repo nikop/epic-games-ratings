@@ -3,8 +3,8 @@
   "Name": "Asterix and Obelix Heroes",
   "ProductSlug": "asterix-and-obelix-heroes",
   "Ranking_EOS_Progress": 693,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 61,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -260,6 +260,11 @@
       "Time": "2024-06-17T16:13:22.170798+00:00",
       "NumProgressed": 61,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-25T19:03:51.4572112+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-04T17:05:21.0235727+00:00",
@@ -272,15 +277,15 @@
       "Name": "First Steps of a long journey",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "10",
       "SetID": "5jnn47e",
       "Name": "Play with fire",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "11",
@@ -318,7 +323,7 @@
       "ID": "15",
       "SetID": "5jnn47e",
       "Name": "I appoint you my shield-bearers",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -326,9 +331,9 @@
       "ID": "16",
       "SetID": "5jnn47e",
       "Name": "Have some magic potion - No, Obelix, not you",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "17",
@@ -430,15 +435,15 @@
       "ID": "8",
       "SetID": "5jnn47e",
       "Name": "Victory is ours",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "9",
       "SetID": "5jnn47e",
       "Name": "Nothing is holding you back",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -446,7 +451,7 @@
       "ID": "26",
       "SetID": "5jnn47e",
       "Name": "The fish is not fresh",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -470,9 +475,9 @@
       "ID": "33",
       "SetID": "5jnn47e",
       "Name": "Negotiating is stupid",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "34",
@@ -487,14 +492,14 @@
     {
       "ID": "5jnn47e",
       "IsBase": true,
-      "Progressed": 61,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:13:22.1707975+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:03:51.4572108+00:00",
   "LastUpdate_AppInfo": "2024-07-19T17:57:11.0582754+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:09.6726914+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:13:22.1708126+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:58:50.743657+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:03:51.4572269+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "2b0ab0a4593344dda8d3cfec92611189",
   "Name": "Western Chapter",
   "ProductSlug": "western-chapter-ab4efc",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-05-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-23T03:57:47.7696901+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:00:13.3536113+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:03:11.2558998+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:56.0609389+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:05:51.3665762+00:00"
 }

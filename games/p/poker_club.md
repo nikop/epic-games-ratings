@@ -51,8 +51,8 @@ Rating: 3.85 (Ranked 1,208)
 | Pro Player | 0.10% | ~576 |
 | Rounder | 0.10% | ~576 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 576,005 (Ranked 41)  
-Completed: 3 (0.00%) (Ranked 513)  
+Progressed: 576,005 (Ranked 42)  
+Completed: 3 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,13 +340,13 @@ Completed: 3 (0.00%) (Ranked 513)
 | 2024-06-17 | 576,005 | 3 |
 ## Awards
 Max (Highly Recommended): 59  (Ranked 513)  
-Sum: 215 (Ranked 481)  
+Sum: 216 (Ranked 481)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 72 |
 | This game is Highly Recommended | 59 |
-| This game has Competitive Players | 53 |
+| This game has Competitive Players | 54 |
 | This game has a Competitive Community | 52 |
 | This game has Quickly Understood Controls | 51 |
 ## Ratings History
@@ -550,3 +550,4 @@ Diff (max vs sum): 32
 | 2024-07-07 | 3.85 | 59 | 213 |
 | 2024-07-10 | 3.85 | 59 | 214 |
 | 2024-07-19 | 3.85 | 59 | 215 |
+| 2024-07-25 | 3.85 | 59 | 216 |

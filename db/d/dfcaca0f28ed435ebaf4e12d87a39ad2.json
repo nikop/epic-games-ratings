@@ -2,9 +2,9 @@
   "ID": "dfcaca0f28ed435ebaf4e12d87a39ad2",
   "Name": "Unwording",
   "ProductSlug": "unwording-a20943",
-  "Ranking_EOS_Progress": 671,
-  "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 676,
+  "Ranking_EOS_Completed": 205,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-03-01T18:30:00+00:00",
@@ -180,6 +180,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:07.3573192+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:44.1391762+00:00",
   "LastUpdate_AppInfo": "2024-07-19T21:57:20.7357066+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:52.9419915+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:42.3471532+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:44.1391848+00:00"
 }

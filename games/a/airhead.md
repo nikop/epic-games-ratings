@@ -34,8 +34,8 @@
 | Interconnected | 0.00% | ~0 |
 | A Real Low Point | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 844)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 14 (Ranked 852)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

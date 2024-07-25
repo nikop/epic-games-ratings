@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~79 |
 | Blood Brother | 0.10% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,337 (Ranked 138)  
-Completed: 1 (0.00%) (Ranked 513)  
+Progressed: 79,337 (Ranked 140)  
+Completed: 1 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

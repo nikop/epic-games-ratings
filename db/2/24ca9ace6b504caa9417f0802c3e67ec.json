@@ -2,9 +2,9 @@
   "ID": "24ca9ace6b504caa9417f0802c3e67ec",
   "Name": "Hidden Shapes - Cat Realm",
   "ProductSlug": "hidden-shapes-cat-realm-3fed96",
-  "Ranking_EOS_Progress": 777,
-  "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 744,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-05-02T17:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
-  "EOS_Completed": 4,
+  "EOS_Progressed": 43,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 13.33,
+  "EOS_Completed_Percentage": 11.63,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:01:56.3470178+00:00",
@@ -40,6 +40,11 @@
       "Time": "2024-06-17T16:08:42.6660533+00:00",
       "NumProgressed": 30,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-07-25T19:02:12.6330141+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:56.3470245+00:00",
@@ -50,129 +55,129 @@
       "ID": "ACHIEVEMENT_HSCR_01",
       "SetID": "5ej5g1",
       "Name": "HSCR - 01",
-      "Percentage": 87,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_HSCR_02",
       "SetID": "5ej5g1",
       "Name": "HSCR - 02",
-      "Percentage": 67,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_HSCR_03",
       "SetID": "5ej5g1",
       "Name": "HSCR - 03",
-      "Percentage": 63,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_HSCR_04",
       "SetID": "5ej5g1",
       "Name": "HSCR - 04",
-      "Percentage": 60,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_HSCR_05",
       "SetID": "5ej5g1",
       "Name": "HSCR - 05",
-      "Percentage": 57,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_HSCR_06",
       "SetID": "5ej5g1",
       "Name": "HSCR - 06",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_HSCR_07",
       "SetID": "5ej5g1",
       "Name": "HSCR - 07",
-      "Percentage": 43,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_HSCR_08",
       "SetID": "5ej5g1",
       "Name": "HSCR - 08",
-      "Percentage": 40,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_HSCR_09",
       "SetID": "5ej5g1",
       "Name": "HSCR - 09",
-      "Percentage": 37,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_HSCR_10",
       "SetID": "5ej5g1",
       "Name": "HSCR - 10",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_HSCR_11",
       "SetID": "5ej5g1",
       "Name": "HSCR - 11",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_HSCR_12",
       "SetID": "5ej5g1",
       "Name": "HSCR - 12",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_HSCR_13",
       "SetID": "5ej5g1",
       "Name": "HSCR - 13",
-      "Percentage": 23,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_HSCR_14",
       "SetID": "5ej5g1",
       "Name": "HSCR - 14",
-      "Percentage": 23,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_HSCR_15",
       "SetID": "5ej5g1",
       "Name": "HSCR - 15",
-      "Percentage": 23,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_HSCR_16",
       "SetID": "5ej5g1",
       "Name": "HSCR - 16",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_HSCR_17",
@@ -180,7 +185,7 @@
       "Name": "HSCR - 17",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSCR_18",
@@ -188,7 +193,7 @@
       "Name": "HSCR - 18",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSCR_19",
@@ -196,7 +201,7 @@
       "Name": "HSCR - 19",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSCR_20",
@@ -204,197 +209,197 @@
       "Name": "HSCR - 20",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSCR_21_Full",
       "SetID": "5ej5g1",
       "Name": "I love a Hero Cat!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_HSCR_22",
       "SetID": "5ej5g1",
       "Name": "HSCR - 22",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSCR_23",
       "SetID": "5ej5g1",
       "Name": "HSCR - 23",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSCR_24",
       "SetID": "5ej5g1",
       "Name": "HSCR - 24",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSCR_25",
       "SetID": "5ej5g1",
       "Name": "HSCR - 25",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSCR_26",
       "SetID": "5ej5g1",
       "Name": "HSCR - 26",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSCR_27",
       "SetID": "5ej5g1",
       "Name": "HSCR - 27",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSCR_28",
       "SetID": "5ej5g1",
       "Name": "HSCR - 28",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSCR_29",
       "SetID": "5ej5g1",
       "Name": "HSCR - 29",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSCR_30",
       "SetID": "5ej5g1",
       "Name": "HSCR - 30",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_HSCR_31",
       "SetID": "5ej5g1",
       "Name": "HSCR - 31",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_HSCR_32",
       "SetID": "5ej5g1",
       "Name": "HSCR - 32",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSCR_33",
       "SetID": "5ej5g1",
       "Name": "HSCR - 33",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSCR_34",
       "SetID": "5ej5g1",
       "Name": "HSCR - 34",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSCR_35",
       "SetID": "5ej5g1",
       "Name": "HSCR - 35",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSCR_36",
       "SetID": "5ej5g1",
       "Name": "HSCR - 36",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSCR_37",
       "SetID": "5ej5g1",
       "Name": "HSCR - 37",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSCR_38",
       "SetID": "5ej5g1",
       "Name": "HSCR - 38",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSCR_39",
       "SetID": "5ej5g1",
       "Name": "HSCR - 39",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_HSCR_40",
       "SetID": "5ej5g1",
       "Name": "HSCR - 40",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_HSCR_41",
       "SetID": "5ej5g1",
       "Name": "HSCR - 41",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSCR_42_Full",
       "SetID": "5ej5g1",
       "Name": "I LOVE THIS CAT ADVENTURE GAME!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ej5g1",
       "IsBase": true,
-      "Progressed": 30,
-      "Completed": 4
+      "Progressed": 43,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2024-05-05T10:01:35.4703345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:56.3470245+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:42.666053+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:02:12.6330138+00:00",
   "LastUpdate_AppInfo": "2024-07-24T08:57:10.3383668+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:58:20.4109211+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:42.6660836+00:00"
+  "LastUpdate_Ratings": "2024-07-25T19:00:04.5616822+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:02:12.6330493+00:00"
 }

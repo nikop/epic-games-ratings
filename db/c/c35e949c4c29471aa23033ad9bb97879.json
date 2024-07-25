@@ -2,9 +2,9 @@
   "ID": "c35e949c4c29471aa23033ad9bb97879",
   "Name": "CONSCRIPT",
   "ProductSlug": "conscript-528e09",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-23T16:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-23T19:57:47.0542884+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:00:54.8638017+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:58:23.7106688+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:27.4548738+00:00"
 }

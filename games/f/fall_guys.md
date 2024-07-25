@@ -1,7 +1,7 @@
 # Fall Guys
 [Store](https://store.epicgames.com/en-US/p/fall-guys)  
 [View Rawdata](../../db/f/fall_guys.json)  
-Rating: 4.50 (Ranked 663)  
+Rating: 4.50 (Ranked 664)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,7 +42,7 @@ Number of Ratings: 1,046,587  (23.09.2022)
 | Infallible | 0.50% | ~201,326 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 40,265,234 (Ranked 1)  
-Completed: 57,368 (0.14%) (Ranked 378)  
+Completed: 57,368 (0.14%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

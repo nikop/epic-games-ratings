@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 81.00% | ~432 |
-| Found the Healer | 31.00% | ~165 |
-| Second Shard | 8.00% | ~43 |
-| Champion of Kalevala | 6.00% | ~32 |
-| Death is Merely a Setback | 6.00% | ~32 |
-| Third Shard | 6.00% | ~32 |
-| Berry Nice | 5.00% | ~27 |
-| Keyu Exterminator | 5.00% | ~27 |
-| Ring of Fire! | 5.00% | ~27 |
-| Fourth Shard | 5.00% | ~27 |
-| Big Fish | 4.00% | ~21 |
-| Fifth Shard | 4.00% | ~21 |
-| Tastes Like Chicken | 3.00% | ~16 |
+| First Shard | 81.00% | ~448 |
+| Found the Healer | 31.00% | ~171 |
+| Second Shard | 7.00% | ~39 |
+| Death is Merely a Setback | 6.00% | ~33 |
+| Champion of Kalevala | 5.00% | ~28 |
+| Berry Nice | 5.00% | ~28 |
+| Keyu Exterminator | 5.00% | ~28 |
+| Ring of Fire! | 5.00% | ~28 |
+| Third Shard | 5.00% | ~28 |
+| Big Fish | 4.00% | ~22 |
+| Fourth Shard | 4.00% | ~22 |
+| Tastes Like Chicken | 3.00% | ~17 |
+| Fifth Shard | 3.00% | ~17 |
 | Mushroom Forager | 2.00% | ~11 |
 | Good Stew | 2.00% | ~11 |
 | Green Thumb | 2.00% | ~11 |
 | Avian Veterinarian | 2.00% | ~11 |
 | Bird Butcherer | 2.00% | ~11 |
 | Finished Iron Danger | 2.00% | ~11 |
-| Natural Selection | 1.00% | ~5 |
-| Knock, Knock! | 0.80% | ~4 |
-| Trolled | 0.80% | ~4 |
-| Troll Hunter | 0.80% | ~4 |
+| Natural Selection | 1.00% | ~6 |
+| Knock, Knock! | 0.70% | ~4 |
+| Trolled | 0.70% | ~4 |
+| Troll Hunter | 0.70% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 440)  
-Completed: 4 (0.75%) (Ranked 262)  
+Progressed: 553 (Ranked 434)  
+Completed: 4 (0.72%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -162,6 +162,7 @@ Completed: 4 (0.75%) (Ranked 262)
 | 2024-03-21 | 418 | 4 |
 | 2024-04-08 | 453 | 4 |
 | 2024-06-17 | 533 | 4 |
+| 2024-07-25 | 553 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

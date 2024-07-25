@@ -1,7 +1,7 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.30 (Ranked 972)  
+Rating: 4.30 (Ranked 973)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -87,7 +87,7 @@ Rating: 4.30 (Ranked 972)
 | High Pillow | 0.10% | ~379 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 379,067 (Ranked 71)  
-Completed: 8 (0.00%) (Ranked 513)  
+Completed: 8 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

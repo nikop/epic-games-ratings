@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.23 (Ranked 1,059)  
+Rating: 4.23 (Ranked 1,058)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 281  (23.09.2022)
 | Club Crawl | 0.10% | ~914 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 914,968 (Ranked 24)  
-Completed: 38 (0.00%) (Ranked 513)  
+Completed: 38 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

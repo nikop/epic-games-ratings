@@ -1,7 +1,7 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.50 (Ranked 663)  
+Rating: 4.50 (Ranked 664)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,7 +42,7 @@ Number of Ratings: 274  (23.09.2022)
 | ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239,243 (Ranked 91)  
-Completed: 25 (0.01%) (Ranked 489)  
+Completed: 25 (0.01%) (Ranked 491)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

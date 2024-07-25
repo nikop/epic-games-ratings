@@ -1,7 +1,7 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 583)  
+Rating: 4.54 (Ranked 584)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -45,7 +45,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,152 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,152,103 (Ranked 18)  
-Completed: 632 (0.05%) (Ranked 431)  
+Completed: 632 (0.05%) (Ranked 436)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,8 +333,8 @@ Completed: 632 (0.05%) (Ranked 431)
 | 2024-06-17 | 1,152,103 | 632 |
 ## Awards
 Max (Great for Beginners): 218  (Ranked 338)  
-Sum: 1,871 (Ranked 249)  
-Diff (max vs sum): 89  
+Sum: 1,871 (Ranked 250)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 218 |

@@ -1,7 +1,7 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.26 (Ranked 1,015)  
+Rating: 4.26 (Ranked 1,014)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,7 +34,7 @@ Rating: 4.26 (Ranked 1,015)
 | Hard working | 0.10% | ~798 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 797,723 (Ranked 27)  
-Completed: 8 (0.00%) (Ranked 513)  
+Completed: 8 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

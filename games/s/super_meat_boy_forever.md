@@ -43,8 +43,8 @@ Number of Ratings: 24  (23.09.2022)
 | We have a new champion! | 0.10% | ~563 |
 | What even is this game? | 0.10% | ~563 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 563,197 (Ranked 45)  
-Completed: 2 (0.00%) (Ranked 513)  
+Progressed: 563,197 (Ranked 46)  
+Completed: 2 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,9 +2,9 @@
   "ID": "376a130261c24ba99c0d5b297867dab4",
   "Name": "Art Shop Simulator",
   "ProductSlug": "art-shop-simulator-4ece69",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-21T02:56:53.6819836+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:23.6484775+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:59:05.2200868+00:00"
 }

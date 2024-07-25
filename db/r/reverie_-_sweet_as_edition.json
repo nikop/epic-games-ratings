@@ -2,9 +2,9 @@
   "ID": "82aad7acf5384a5ba5d00d4549819260",
   "Name": "Reverie - Sweet As Edition",
   "ProductSlug": "reverie-sweet-as-edition-a2f649",
-  "Ranking_EOS_Progress": 921,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 929,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-06-28T08:00:00+00:00",
@@ -353,6 +353,6 @@
   "FirstSeenAchievements": "2023-04-25T20:50:48.1130388+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:17.5558651+00:00",
   "LastUpdate_AppInfo": "2024-07-22T04:57:18.9225508+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:39.0028286+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:59:21.1363468+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:17.5558838+00:00"
 }

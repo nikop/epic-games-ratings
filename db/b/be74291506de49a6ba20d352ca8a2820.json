@@ -2,9 +2,9 @@
   "ID": "be74291506de49a6ba20d352ca8a2820",
   "Name": "Populous The Beginning",
   "ProductSlug": "populous-the-beginning-c9798e",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-11T20:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T20:57:10.9624278+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:07.0496512+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:11.4334439+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:01:47.0008305+00:00"
 }

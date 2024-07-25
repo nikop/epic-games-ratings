@@ -2,9 +2,9 @@
   "ID": "02968e20aefe4b798e179e182cede492",
   "Name": "Nikoderiko: The Magical World",
   "ProductSlug": "nikoderiko-830eb8",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-21T02:56:53.8094591+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:00:43.0752295+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:58:15.8650375+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:01.8597901+00:00"
 }

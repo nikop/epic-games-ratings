@@ -67,7 +67,7 @@ Rating: 4.70 (Ranked 236)
 | You Shall Pass | 0.10% | ~180 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 401,157 (Ranked 67)  
-Completed: 2,091 (0.52%) (Ranked 291)  
+Completed: 2,091 (0.52%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

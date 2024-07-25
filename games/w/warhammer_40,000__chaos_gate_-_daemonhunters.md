@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Firing Squad | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,327 (Ranked 270)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 4,327 (Ranked 272)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

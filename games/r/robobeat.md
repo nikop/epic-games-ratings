@@ -43,8 +43,8 @@
 | Rush Champion | 0.00% | ~0 |
 | Big Brain | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 766)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 32 (Ranked 778)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

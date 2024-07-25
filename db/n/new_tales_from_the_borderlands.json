@@ -5,9 +5,9 @@
   "Ranking_Rating": 1140,
   "Ranking_Popularity": 674,
   "Ranking_PopularitySum": 674,
-  "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 471,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Completed": 475,
+  "Ranking_EOS_NewPlayers": 15,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4024,
+  "EOS_Progressed": 4025,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2484,6 +2484,11 @@
       "Time": "2024-07-24T02:04:19.1430806+00:00",
       "NumProgressed": 4024,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-07-25T19:06:05.9061661+00:00",
+      "NumProgressed": 4025,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -2495,7 +2500,7 @@
       "Name": "You\u0027re Not Naked",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "BUY_EVERY_COSMETIC_ITEM",
@@ -2527,7 +2532,7 @@
       "Name": "Totally Intentional",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2535,7 +2540,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2543,7 +2548,7 @@
       "Name": "From Zeroes...",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -2559,7 +2564,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -2591,7 +2596,7 @@
       "Name": "Tale in the Toilet",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2702,7 +2707,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 4024,
+      "Progressed": 4025,
       "Completed": 1
     }
   ],
@@ -2710,8 +2715,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2024-04-01T01:45:59.9083649+00:00",
-  "LastChanged_Achievements": "2024-07-24T02:04:19.1430801+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:06:05.906165+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:42.9932591+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:50.5766895+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:04:19.1431094+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:59:33.1259668+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:06:05.9061905+00:00"
 }

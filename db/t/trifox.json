@@ -2,9 +2,9 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 623,
-  "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 626,
+  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 110,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.93,
+  "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -185,6 +185,11 @@
       "Time": "2024-06-17T16:17:40.1735123+00:00",
       "NumProgressed": 108,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-07-25T19:05:22.2337733+00:00",
+      "NumProgressed": 110,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -204,7 +209,7 @@
       "Name": "Rich",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_COINSCORECOLLECTED_MEDIUM",
@@ -218,9 +223,9 @@
       "ID": "ACH_COINSCORECOLLECTED_SMALL",
       "SetID": "cfld5bl",
       "Name": "Scraping by",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_COMPLETIONIST",
@@ -284,7 +289,7 @@
       "Name": "What is this?",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -324,7 +329,7 @@
       "Name": "Delicious",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_HEALTHANDRESOURCEPICKUPS_MEDIUM",
@@ -348,7 +353,7 @@
       "Name": "Complete Level 1-1",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
@@ -356,23 +361,23 @@
       "Name": "Complete Level 1-2",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-3",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the warrior boss",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_01",
@@ -386,17 +391,17 @@
       "ID": "ACH_LEVELCOMPLETION_02_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-2",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_03",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-3",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_04",
@@ -436,13 +441,13 @@
       "Name": "Defeat the mage boss",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_LEVELCOMPLETION_04_01",
       "SetID": "cfld5bl",
       "Name": "Remote retrieved",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
       "UsersEstimate": 6
     },
@@ -450,9 +455,9 @@
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERMAGE",
       "SetID": "cfld5bl",
       "Name": "Engineer-mage hybrid",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERWARRIOR",
@@ -476,13 +481,13 @@
       "Name": "Immortal",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
       "SetID": "cfld5bl",
       "Name": "Engineer specialist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -540,13 +545,13 @@
       "Name": "Way of the engineer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_UNLOCKEDALLMAGEABILITIES",
       "SetID": "cfld5bl",
       "Name": "Way of the mage",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -563,7 +568,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 110,
       "Completed": 1
     }
   ],
@@ -571,8 +576,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:17:40.1735118+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:05:22.2337728+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:35.9044599+00:00",
   "LastUpdate_Ratings": "2024-07-25T17:59:23.059579+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:40.1735473+00:00"
+  "LastUpdate_Achievements": "2024-07-25T19:05:22.2337988+00:00"
 }

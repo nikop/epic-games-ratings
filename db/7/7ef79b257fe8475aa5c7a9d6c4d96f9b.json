@@ -2,9 +2,9 @@
   "ID": "7ef79b257fe8475aa5c7a9d6c4d96f9b",
   "Name": "Metro Simulator 2",
   "ProductSlug": "metro-simulator-2-532ff8",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1010,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 15,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-07-05T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2024-07-24T02:02:52.2307085+00:00",
       "NumProgressed": 0,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-25T19:06:03.528951+00:00",
+      "NumProgressed": 1,
       "NumCompleted": 0
     }
   ],
@@ -57,9 +62,9 @@
       "ID": "FirstDay",
       "SetID": "bfbjb50",
       "Name": "First working day",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FirstThousand",
@@ -105,23 +110,23 @@
       "ID": "Turnover",
       "SetID": "bfbjb50",
       "Name": "Turn around",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "bfbjb50",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-10T13:57:10.3527698+00:00",
   "FirstSeenAchievements": "2023-06-15T09:00:36.7536566+00:00",
-  "LastChanged_Achievements": "2024-07-24T02:02:52.2307083+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:06:03.5289506+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:49.4079962+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:58:22.1088243+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:02:52.2307213+00:00"
+  "LastUpdate_Ratings": "2024-07-25T19:00:06.3000309+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:06:03.528958+00:00"
 }

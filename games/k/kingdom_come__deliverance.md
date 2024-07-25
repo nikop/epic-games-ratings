@@ -90,7 +90,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~852 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 852,298 (Ranked 26)  
-Completed: 63 (0.01%) (Ranked 489)  
+Completed: 63 (0.01%) (Ranked 491)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

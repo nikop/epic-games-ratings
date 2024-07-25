@@ -2,9 +2,9 @@
   "ID": "bb5dabc784164e62ac3e96858de000bf",
   "Name": "Everafter Falls",
   "ProductSlug": "everafter-falls-67e87e",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-06-20T16:00:00+00:00",
@@ -31,9 +31,315 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-07-25T19:05:44.6018608+00:00",
+  "TotalAchievements": 38,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ABigFlower",
+      "SetID": "7a6cien",
+      "Name": "A Big Flower",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "APeskyDuck",
+      "SetID": "7a6cien",
+      "Name": "A Pesky Duck",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AcquiredTaste",
+      "SetID": "7a6cien",
+      "Name": "Acquired Taste",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BugCatcher",
+      "SetID": "7a6cien",
+      "Name": "Bug Catcher",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ChallengeAccepted",
+      "SetID": "7a6cien",
+      "Name": "Challenge Accepted",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ConsiderItDone",
+      "SetID": "7a6cien",
+      "Name": "Consider it done",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIY",
+      "SetID": "7a6cien",
+      "Name": "DIY",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DIYMaster",
+      "SetID": "7a6cien",
+      "Name": "DIY Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FishingFever",
+      "SetID": "7a6cien",
+      "Name": "Fishing Fever",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FishingForCritters",
+      "SetID": "7a6cien",
+      "Name": "Fishing for Critters",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GraphicDesigner",
+      "SetID": "7a6cien",
+      "Name": "Graphic Designer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GreenThumb",
+      "SetID": "7a6cien",
+      "Name": "Green Thumb",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GroovyShrooms",
+      "SetID": "7a6cien",
+      "Name": "Groovy Shrooms",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HelpingHand",
+      "SetID": "7a6cien",
+      "Name": "Helping Hand",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HomeSweetHome",
+      "SetID": "7a6cien",
+      "Name": "Home Sweet Home",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ILoveBigFlowers",
+      "SetID": "7a6cien",
+      "Name": "I Love Big Flowers",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InTune",
+      "SetID": "7a6cien",
+      "Name": "In Tune",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InkCrafter",
+      "SetID": "7a6cien",
+      "Name": "Ink Crafter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Legendary",
+      "SetID": "7a6cien",
+      "Name": "Legendary",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MasterCollector",
+      "SetID": "7a6cien",
+      "Name": "Master Collector",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MorePixiesPlease",
+      "SetID": "7a6cien",
+      "Name": "More Pixies Please",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PeaceBringer",
+      "SetID": "7a6cien",
+      "Name": "Peace Bringer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PerfectPlushieCollection",
+      "SetID": "7a6cien",
+      "Name": "Perfect Plushie Collection",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PigeonFriend",
+      "SetID": "7a6cien",
+      "Name": "Pigeon Friend",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PinkBee",
+      "SetID": "7a6cien",
+      "Name": "Pink Bee",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PixieFriend",
+      "SetID": "7a6cien",
+      "Name": "Pixie Friend",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PookletSavior",
+      "SetID": "7a6cien",
+      "Name": "Pooklet Savior",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PrizesForEveryone",
+      "SetID": "7a6cien",
+      "Name": "Prizes for Everyone",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ProfessionalTreeTapper",
+      "SetID": "7a6cien",
+      "Name": "Professional Tree Tapper",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RainbowPixieBreeder",
+      "SetID": "7a6cien",
+      "Name": "Rainbow Pixie Breeder",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RandomStump",
+      "SetID": "7a6cien",
+      "Name": "Random Stump",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RareBreed",
+      "SetID": "7a6cien",
+      "Name": "Rare Breed",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Recycler",
+      "SetID": "7a6cien",
+      "Name": "Recycler",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SideProjects",
+      "SetID": "7a6cien",
+      "Name": "Side Projects",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SousChef",
+      "SetID": "7a6cien",
+      "Name": "Sous Chef",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SpaceExplorer",
+      "SetID": "7a6cien",
+      "Name": "Space Explorer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TaxMe",
+      "SetID": "7a6cien",
+      "Name": "Tax Me",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VirtualTraining",
+      "SetID": "7a6cien",
+      "Name": "Virtual Training",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7a6cien",
@@ -44,8 +350,8 @@
   ],
   "FirstSeen": "2024-06-23T23:59:52.6083578+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:02.5849718+00:00",
-  "LastChanged_Achievements": "2024-06-25T15:01:45.1051609+00:00",
-  "LastUpdate_AppInfo": "2024-07-18T17:57:08.2952402+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:26.8893661+00:00",
-  "LastUpdate_Achievements": "2024-06-25T15:01:45.1051707+00:00"
+  "LastChanged_Achievements": "2024-07-25T19:05:44.6018594+00:00",
+  "LastUpdate_AppInfo": "2024-07-25T18:56:59.728731+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:59:08.599665+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:05:44.6026653+00:00"
 }

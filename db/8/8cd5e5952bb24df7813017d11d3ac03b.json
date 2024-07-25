@@ -2,9 +2,9 @@
   "ID": "8cd5e5952bb24df7813017d11d3ac03b",
   "Name": "Atomfall",
   "ProductSlug": "atomfall",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-24T14:57:16.797207+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:01:27.3763569+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:58:45.7385242+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:05.5933124+00:00"
 }

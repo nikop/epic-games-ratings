@@ -1,7 +1,7 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 1,074)  
+Rating: 4.21 (Ranked 1,073)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,7 +30,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | War of the Five Kings | 1.00% | ~430 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43,014 (Ranked 165)  
-Completed: 111 (0.26%) (Ranked 342)  
+Completed: 111 (0.26%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,9 +317,9 @@ Completed: 111 (0.26%) (Ranked 342)
 | 2024-04-10 | 39,150 | 99 |
 | 2024-06-17 | 43,014 | 111 |
 ## Awards
-Max (Quickly Understood Controls): 130  (Ranked 402)  
-Sum: 833 (Ranked 335)  
-Diff (max vs sum): 67  
+Max (Quickly Understood Controls): 130  (Ranked 403)  
+Sum: 834 (Ranked 335)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 130 |
@@ -329,7 +329,7 @@ Diff (max vs sum): 67
 | This game is Relaxing | 104 |
 | This game has Amazing Storytelling | 96 |
 | This game has Amazing Characters | 89 |
-| This game has a Competitive Community | 78 |
+| This game has a Competitive Community | 79 |
 | This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -457,3 +457,4 @@ Diff (max vs sum): 67
 | 2024-06-22 | 4.21 | - | 130 | 831 |
 | 2024-06-29 | 4.21 | - | 130 | 832 |
 | 2024-07-03 | 4.21 | - | 130 | 833 |
+| 2024-07-25 | 4.21 | - | 130 | 834 |

@@ -87,7 +87,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.20% | ~285 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 142,316 (Ranked 108)  
-Completed: 29 (0.02%) (Ranked 471)  
+Completed: 29 (0.02%) (Ranked 475)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

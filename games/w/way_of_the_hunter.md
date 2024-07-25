@@ -34,8 +34,8 @@ Number of Ratings: 190  (23.09.2022)
 | Task Force Aurora | 0.30% | ~15 |
 | Task Force Tikamoon | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,144 (Ranked 258)  
-Completed: 2 (0.04%) (Ranked 441)  
+Progressed: 5,144 (Ranked 259)  
+Completed: 2 (0.04%) (Ranked 448)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

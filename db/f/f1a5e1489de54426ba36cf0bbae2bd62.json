@@ -2,9 +2,9 @@
   "ID": "f1a5e1489de54426ba36cf0bbae2bd62",
   "Name": "Spirit Castor: A Father\u0027s Trust (Chapter 1)",
   "ProductSlug": "spirit-castor-a-fathers-trust-91fbc2",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-04T04:00:00+00:00",
@@ -34,9 +34,18 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "15380pj",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-07-12T09:00:59.4702982+00:00",
+  "FirstSeenAchievements": "2024-07-25T19:02:14.3890629+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:02:14.3890574+00:00",
   "LastUpdate_AppInfo": "2024-07-19T17:57:10.558768+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:01:20.0877364+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:47.4407982+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:58:40.7658196+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:02:14.3890646+00:00"
 }

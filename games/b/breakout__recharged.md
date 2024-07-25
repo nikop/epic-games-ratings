@@ -1,7 +1,7 @@
 # Breakout: Recharged
 [Store](https://store.epicgames.com/en-US/p/breakout-recharged)  
 [View Rawdata](../../db/b/breakout__recharged.json)  
-Rating: 4.25 (Ranked 1,032)  
+Rating: 4.25 (Ranked 1,031)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,8 +21,8 @@ Rating: 4.25 (Ranked 1,032)
 | I'm a King Bee | 1.00% | ~127 |
 | What Shall We Do Now? | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,736 (Ranked 215)  
-Completed: 10 (0.08%) (Ranked 412)  
+Progressed: 12,736 (Ranked 216)  
+Completed: 10 (0.08%) (Ranked 415)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

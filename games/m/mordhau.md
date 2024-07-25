@@ -44,8 +44,8 @@ Rating: 4.36 (Ranked 905)
 | Living Sculpture | 0.10% | ~1,654 |
 | That’s No Ordinary Cold | 0.10% | ~1,654 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,653,821 (Ranked 9)  
-Completed: 113 (0.01%) (Ranked 489)  
+Progressed: 1,653,821 (Ranked 10)  
+Completed: 113 (0.01%) (Ranked 491)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,12 +333,12 @@ Completed: 113 (0.01%) (Ranked 489)
 | 2024-06-26 | 1,648,877 | 110 |
 | 2024-07-24 | 1,653,821 | 113 |
 ## Awards
-Max (Diverse Characters): 1,959  (Ranked 137)  
-Sum: 8,971 (Ranked 127)  
+Max (Diverse Characters): 1,968  (Ranked 137)  
+Sum: 8,980 (Ranked 127)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 1,959 |
+| This game has Diverse Characters | 1,968 |
 | This game has Challenging Combat | 1,651 |
 | This game is Highly Recommended | 1,513 |
 | This game has Amazing Characters | 1,339 |
@@ -817,4 +817,4 @@ Diff (max vs sum): 10
 | 2024-07-22 | 4.36 | 1,954 | 8,932 |
 | 2024-07-23 | 4.36 | 1,956 | 8,943 |
 | 2024-07-24 | 4.36 | 1,959 | 8,965 |
-| 2024-07-25 | 4.36 | 1,959 | 8,971 |
+| 2024-07-25 | 4.36 | 1,968 | 8,980 |

@@ -2,9 +2,9 @@
   "ID": "156c17659ff0468bb533eba104a1f19f",
   "Name": "Sker Ritual",
   "ProductSlug": "sker-ritual-aac702",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-18T17:00:00+00:00",
@@ -24,18 +24,403 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-25T19:03:06.8377861+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-25T19:03:06.8377888+00:00",
+  "TotalAchievements": 46,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ashes_to_ashes",
+      "SetID": "dc07bhh",
+      "Name": "Ashes to Ashes",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "bad_reception",
+      "SetID": "dc07bhh",
+      "Name": "Bad Reception",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "book_of_the_dead",
+      "SetID": "dc07bhh",
+      "Name": "Book of the Dead",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "deadly_lovers",
+      "SetID": "dc07bhh",
+      "Name": "Deadly Lovers",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "deadly_lovers_nightmare",
+      "SetID": "dc07bhh",
+      "Name": "Deadly Lover\u0027s Nightmare",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "dungeon_crawler",
+      "SetID": "dc07bhh",
+      "Name": "Dungeon Crawler",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "fast_food",
+      "SetID": "dc07bhh",
+      "Name": "Fast Food",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "guest_book",
+      "SetID": "dc07bhh",
+      "Name": "Guest Book",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hard_times_at_lavernock",
+      "SetID": "dc07bhh",
+      "Name": "Hard Times at Lavernock",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "hard_to_love",
+      "SetID": "dc07bhh",
+      "Name": "Hard to Love",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hardcore_sewer_rat",
+      "SetID": "dc07bhh",
+      "Name": "Hardcore Sewer Rat",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hotel_of_hard_knocks",
+      "SetID": "dc07bhh",
+      "Name": "Hotel of Hard Knocks",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "inn_and_out",
+      "SetID": "dc07bhh",
+      "Name": "Inn and Out",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "lamb-baah-ghini",
+      "SetID": "dc07bhh",
+      "Name": "Lamb-baah-ghini",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "last_rites",
+      "SetID": "dc07bhh",
+      "Name": "Last Rites",
+      "Percentage": 12,
+      "XP": 30,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "lavernock_rambler",
+      "SetID": "dc07bhh",
+      "Name": "Lavernock Rambler",
+      "Percentage": 16,
+      "XP": 15,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "lights_out",
+      "SetID": "dc07bhh",
+      "Name": "Dark Side",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "live_laugh_love",
+      "SetID": "dc07bhh",
+      "Name": "Live, Laugh, Love",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "love_letters",
+      "SetID": "dc07bhh",
+      "Name": "Love Letters",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "maids_of_lavernock",
+      "SetID": "dc07bhh",
+      "Name": "Maids of Lavernock",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "maids_of_sker",
+      "SetID": "dc07bhh",
+      "Name": "Maids of Sker",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "maids_of_the_dead",
+      "SetID": "dc07bhh",
+      "Name": "Maids of the Dead",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "maids_of_the_fortress",
+      "SetID": "dc07bhh",
+      "Name": "Maids of the Fortress",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "miracle_man",
+      "SetID": "dc07bhh",
+      "Name": "Miracle Man",
+      "Percentage": 35,
+      "XP": 15,
+      "UsersEstimate": 30
+    },
+    {
+      "ID": "nightmare_in_the_lands_of_lavernock",
+      "SetID": "dc07bhh",
+      "Name": "Nightmare in the Lands of Lavernock",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "nightmare_of_sker_hotel",
+      "SetID": "dc07bhh",
+      "Name": "Nightmare of Sker Hotel",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "one_night_stand",
+      "SetID": "dc07bhh",
+      "Name": "One Night Stand",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "perkalicious",
+      "SetID": "dc07bhh",
+      "Name": "Perkalicious",
+      "Percentage": 9,
+      "XP": 15,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "radio_silence",
+      "SetID": "dc07bhh",
+      "Name": "Radio Silence",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ramblings_of_a_madman",
+      "SetID": "dc07bhh",
+      "Name": "Ramblings of a Madman",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "rat_race",
+      "SetID": "dc07bhh",
+      "Name": "Rat Race",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ritual_of_the_nightmare",
+      "SetID": "dc07bhh",
+      "Name": "Ritual of the Nightmare",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "room_service",
+      "SetID": "dc07bhh",
+      "Name": "Room Service",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "round_robin",
+      "SetID": "dc07bhh",
+      "Name": "Round Robin",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "rounded_experience",
+      "SetID": "dc07bhh",
+      "Name": "Rounded Experience",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "run_forest_run",
+      "SetID": "dc07bhh",
+      "Name": "Run Forest! Run!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "secret_lover",
+      "SetID": "dc07bhh",
+      "Name": "Secret Lover",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sewer_rat",
+      "SetID": "dc07bhh",
+      "Name": "Sewer Rat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sewers_of_nightmare",
+      "SetID": "dc07bhh",
+      "Name": "Sewers of Nightmare",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "short_round",
+      "SetID": "dc07bhh",
+      "Name": "Short Round",
+      "Percentage": 31,
+      "XP": 15,
+      "UsersEstimate": 26
+    },
+    {
+      "ID": "silence_of_the_lamb",
+      "SetID": "dc07bhh",
+      "Name": "Silence of the Lamb",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "speed_dating",
+      "SetID": "dc07bhh",
+      "Name": "Speed Dating",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "stranger_thing",
+      "SetID": "dc07bhh",
+      "Name": "Stranger Thing",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "thats_rank",
+      "SetID": "dc07bhh",
+      "Name": "That\u2019s Rank",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "the_lambyrinth",
+      "SetID": "dc07bhh",
+      "Name": "The Lambyrinth",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "whats_dead_should_stay_dead",
+      "SetID": "dc07bhh",
+      "Name": "What\u0027s Dead Should Stay Dead",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "dc07bhh",
+      "IsBase": true,
+      "Progressed": 85,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-07-01T13:11:45.6983482+00:00",
+  "FirstSeenAchievements": "2024-07-25T19:03:06.8377887+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:03:06.8377856+00:00",
   "LastUpdate_AppInfo": "2024-07-25T17:57:05.8078164+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:00:09.4760168+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:18.43644+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:53.463677+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:03:06.8388321+00:00"
 }

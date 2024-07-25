@@ -44,7 +44,7 @@ Rating: 4.01 (Ranked 1,172)
 | Shoot the Knee | 0.10% | ~1,246 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,246,479 (Ranked 17)  
-Completed: 31 (0.00%) (Ranked 513)  
+Completed: 31 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

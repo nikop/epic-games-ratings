@@ -27,7 +27,7 @@
 | Sins of the Fathers | 0.30% | ~399 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 133,158 (Ranked 110)  
-Completed: 5 (0.00%) (Ranked 513)  
+Completed: 5 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

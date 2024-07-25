@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.54 (Ranked 583)  
+Rating: 4.54 (Ranked 584)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -49,8 +49,8 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~19 |
 | The Absolute Pinnacle. | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,231 (Ranked 250)  
-Completed: 6 (0.10%) (Ranked 399)  
+Progressed: 6,231 (Ranked 252)  
+Completed: 6 (0.10%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

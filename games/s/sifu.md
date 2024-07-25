@@ -68,7 +68,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fighter in the Pond | 0.10% | ~94 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 784,372 (Ranked 28)  
-Completed: 13,166 (1.68%) (Ranked 186)  
+Completed: 13,166 (1.68%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

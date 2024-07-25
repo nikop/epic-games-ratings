@@ -1,7 +1,7 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.50 (Ranked 663)  
+Rating: 4.50 (Ranked 664)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -256,7 +256,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Troupe | 0.10% | ~1,461 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,461,055 (Ranked 12)  
-Completed: 104 (0.01%) (Ranked 489)  
+Completed: 104 (0.01%) (Ranked 491)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,9 +2,9 @@
   "ID": "9a3d3cc7c85f4664943bfe6fca977d03",
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
-  "Ranking_EOS_Progress": 602,
-  "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 133,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.72,
+  "EOS_Completed_Percentage": 4.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -216,6 +216,11 @@
       "Time": "2024-06-17T16:14:49.2301057+00:00",
       "NumProgressed": 127,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-07-25T19:05:48.4573606+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 11,
@@ -225,9 +230,9 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "10",
@@ -235,23 +240,23 @@
       "Name": "Collecting Sticks For the Campfire.",
       "Percentage": 39,
       "XP": 80,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 80,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "2",
       "SetID": "5jd5jfm",
       "Name": "Where\u2019s Mr. Dinosaur?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "3",
@@ -259,15 +264,15 @@
       "Name": "Whose tracks are these?",
       "Percentage": 46,
       "XP": 80,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "4",
       "SetID": "5jd5jfm",
       "Name": "The Best Snowman Ever!",
-      "Percentage": 46,
+      "Percentage": 44,
       "XP": 80,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "5",
@@ -275,7 +280,7 @@
       "Name": "What\u2019s in These Rockpools?",
       "Percentage": 40,
       "XP": 80,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "6",
@@ -283,7 +288,7 @@
       "Name": "Rounding Up the Chickens.",
       "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "7",
@@ -291,15 +296,15 @@
       "Name": "Helping Tiddles the Tortoise.",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 80,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "9",
@@ -307,14 +312,14 @@
       "Name": "Always Remember To Eat Your Five!",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 133,
       "Completed": 6
     }
   ],
@@ -322,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2024-06-26T14:08:21.0535807+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:05:48.4573602+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:51.6127391+00:00",
   "LastUpdate_Ratings": "2024-07-25T17:59:43.8184647+00:00",
-  "LastUpdate_Achievements": "2024-06-26T14:08:21.0535954+00:00"
+  "LastUpdate_Achievements": "2024-07-25T19:05:48.4573692+00:00"
 }

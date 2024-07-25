@@ -2,9 +2,9 @@
   "ID": "a657bc575c164ebf9380c00e2da4abbc",
   "Name": "Chaos Galaxy",
   "ProductSlug": "chaos-galaxy-a33dac",
-  "Ranking_EOS_Progress": 675,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 679,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
@@ -726,6 +726,6 @@
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:41.3656743+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:58:23.7264593+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:28.8409501+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:26.0709466+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:41.3657036+00:00"
 }

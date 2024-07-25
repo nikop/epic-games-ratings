@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.22 (Ranked 1,064)  
+Rating: 4.22 (Ranked 1,063)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -78,8 +78,8 @@ Rating: 4.22 (Ranked 1,064)
 | Lord of Slaughter | 0.10% | ~2 |
 | Indomitable | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,028 (Ranked 203)  
-Completed: 6 (0.04%) (Ranked 441)  
+Progressed: 17,028 (Ranked 204)  
+Completed: 6 (0.04%) (Ranked 448)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

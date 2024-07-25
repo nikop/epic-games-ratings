@@ -2,9 +2,9 @@
   "ID": "11caacd8754d43ffb0c4f479d6035b5b",
   "Name": "MechWarrior 5 Clans",
   "ProductSlug": "mechwarrior-5-clans-e50e3a",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-10-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-19T21:57:17.5647919+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:26.9401477+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:59:08.6448694+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:46.2576011+00:00"
 }

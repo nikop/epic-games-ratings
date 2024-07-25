@@ -42,8 +42,8 @@ Rating: 4.19 (Ranked 1,086)
 | All That Gold | 1.00% | ~32 |
 | Feeling Fancy | 0.40% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,178 (Ranked 290)  
-Completed: 6 (0.19%) (Ranked 359)  
+Progressed: 3,178 (Ranked 292)  
+Completed: 6 (0.19%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

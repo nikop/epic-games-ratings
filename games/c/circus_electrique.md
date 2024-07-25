@@ -1,7 +1,7 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.24 (Ranked 1,041)  
+Rating: 4.24 (Ranked 1,040)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,7 +58,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 63,508 (Ranked 149)  
-Completed: 17 (0.03%) (Ranked 450)  
+Completed: 17 (0.03%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

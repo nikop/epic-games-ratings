@@ -2,9 +2,9 @@
   "ID": "2320bcb2f9f3493bb15518639c01ad49",
   "Name": "Unveiling",
   "ProductSlug": "unveiling-6da4e5",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-04-15T18:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-24T18:57:16.3687699+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:34.2759108+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:29.6539589+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:40.415891+00:00"
 }

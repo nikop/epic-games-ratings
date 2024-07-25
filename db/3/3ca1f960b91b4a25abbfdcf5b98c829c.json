@@ -2,9 +2,9 @@
   "ID": "3ca1f960b91b4a25abbfdcf5b98c829c",
   "Name": "Creatures of Ava",
   "ProductSlug": "creatures-of-ava-cacd2c",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-08-07T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T07:57:22.1279958+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:25.3541622+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:23.7669908+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:52.5884634+00:00"
 }

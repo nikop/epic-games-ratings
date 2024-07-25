@@ -2,9 +2,9 @@
   "ID": "e177af16278145ee95e8e64d73654b83",
   "Name": "Sky of Tides",
   "ProductSlug": "sky-of-tides-d51161",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-19T21:57:20.4358902+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:46.7151859+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:38.0978378+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:43.1184337+00:00"
 }

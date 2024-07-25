@@ -2,9 +2,9 @@
   "ID": "9bed0b06c3de4f39be171578a828da1a",
   "Name": "Hannah\u0027s Day",
   "ProductSlug": "hannahs-day-429a55",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-25T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T05:57:05.8563372+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:07.5347529+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:58:48.5449746+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:05:04.4352375+00:00"
 }

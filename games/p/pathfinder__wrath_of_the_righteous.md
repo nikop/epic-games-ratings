@@ -159,8 +159,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Cold Snap | 0.00% | ~0 |
 | Tailed! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,278 (Ranked 210)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 14,278 (Ranked 211)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

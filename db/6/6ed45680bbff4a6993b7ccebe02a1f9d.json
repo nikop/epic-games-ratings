@@ -2,9 +2,9 @@
   "ID": "6ed45680bbff4a6993b7ccebe02a1f9d",
   "Name": "Dragon Chronicles: Black Tears",
   "ProductSlug": "dragon-chronicles-black-tears-46329e",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-15T05:00:00+00:00",
@@ -25,27 +25,835 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-25T19:05:45.3192562+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-25T19:05:45.3192586+00:00",
+  "TotalAchievements": 100,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achievements_allachieve",
+      "SetID": "36h0n9d",
+      "Name": "Achievement Master",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "awaken_engravecount_30",
+      "SetID": "36h0n9d",
+      "Name": "Craftsmanship",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "awaken_getcount_first",
+      "SetID": "36h0n9d",
+      "Name": "Power of a True Hero",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "awaken_private_getcount_all",
+      "SetID": "36h0n9d",
+      "Name": "Imprint Collector",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "awaken_private_getcount_all_hard",
+      "SetID": "36h0n9d",
+      "Name": "True Imprint Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "battleclear_dying3hero",
+      "SetID": "36h0n9d",
+      "Name": "Hair\u0027s Breadth",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "building_tavern_usecount_50",
+      "SetID": "36h0n9d",
+      "Name": "Place of Rest",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "building_upgradecount_30",
+      "SetID": "36h0n9d",
+      "Name": "Town Reconstruction",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "gameclear_hard",
+      "SetID": "36h0n9d",
+      "Name": "Savior of Apocalypse",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "gameclear_nodead",
+      "SetID": "36h0n9d",
+      "Name": "Undying",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "gameclear_week_playcount_40",
+      "SetID": "36h0n9d",
+      "Name": "Blitzkrieg",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "gameclear_week_playcount_40_hard",
+      "SetID": "36h0n9d",
+      "Name": "Nothing\u0027s Impossible",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "hero_alldead_first",
+      "SetID": "36h0n9d",
+      "Name": "Perseverance",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "hero_corruption100_first",
+      "SetID": "36h0n9d",
+      "Name": "Black Tears Affliction",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "hero_dead_first",
+      "SetID": "36h0n9d",
+      "Name": "Succumb to Death",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "hero_dying_first",
+      "SetID": "36h0n9d",
+      "Name": "Between Life and Death",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "hero_getcount_16",
+      "SetID": "36h0n9d",
+      "Name": "Completing the Expedition",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "hero_getcount_8",
+      "SetID": "36h0n9d",
+      "Name": "Forming an Expedition",
+      "Percentage": 23,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "hero_getcount_dealer_all",
+      "SetID": "36h0n9d",
+      "Name": "Great Warriors",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "hero_getcount_support_all",
+      "SetID": "36h0n9d",
+      "Name": "Great Priests",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "hero_getcount_tactics_all",
+      "SetID": "36h0n9d",
+      "Name": "Great Tacticians",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "hero_getcount_tanker_all",
+      "SetID": "36h0n9d",
+      "Name": "Great Guardians",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "hero_giveup_first",
+      "SetID": "36h0n9d",
+      "Name": "Survival Instincts",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "hero_level2_first",
+      "SetID": "36h0n9d",
+      "Name": "Accumulating Experience",
+      "Percentage": 56,
+      "XP": 10,
+      "UsersEstimate": 27
+    },
+    {
+      "ID": "hero_level5_first",
+      "SetID": "36h0n9d",
+      "Name": "Level Master",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "hero_level5_first_hard",
+      "SetID": "36h0n9d",
+      "Name": "Experienced Companion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "item_buycount_100",
+      "SetID": "36h0n9d",
+      "Name": "Shopaholic",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "item_trashcount_50",
+      "SetID": "36h0n9d",
+      "Name": "Don\u0027t Forget to Recycle",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "item_useitem_usecount_30",
+      "SetID": "36h0n9d",
+      "Name": "Drug Addiction",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "monster_kill_arachne",
+      "SetID": "36h0n9d",
+      "Name": "Queen of Vengeance",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "monster_kill_arcturus",
+      "SetID": "36h0n9d",
+      "Name": "Ruler of the Heavens",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "monster_kill_asmonelle",
+      "SetID": "36h0n9d",
+      "Name": "Dimensional Invader",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "monster_kill_calix",
+      "SetID": "36h0n9d",
+      "Name": "Throne of Hellfire",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "monster_kill_calperion",
+      "SetID": "36h0n9d",
+      "Name": "Embodiment of Fire",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "monster_kill_gora",
+      "SetID": "36h0n9d",
+      "Name": "Corrupted Emperor",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "monster_kill_hellberos",
+      "SetID": "36h0n9d",
+      "Name": "Cruel Butcher",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "monster_kill_hellberos_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Cruel Butcher",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "monster_kill_hydra",
+      "SetID": "36h0n9d",
+      "Name": "Twilight Immortal",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "monster_kill_hydra_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Twilight Immortal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "monster_kill_ifrita",
+      "SetID": "36h0n9d",
+      "Name": "Burning Devil",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "monster_kill_kraken",
+      "SetID": "36h0n9d",
+      "Name": "Sentinel of Shadows",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "monster_kill_kraken_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Sentinel of Shadows",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "monster_kill_legadris",
+      "SetID": "36h0n9d",
+      "Name": "Ruler of the Gorge",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "monster_kill_python",
+      "SetID": "36h0n9d",
+      "Name": "The Predator",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "monster_kill_tukatis",
+      "SetID": "36h0n9d",
+      "Name": "Lord of the Abyss",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "monster_kill_tukatis_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Lord of the Abyss",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "monster_kill_videon",
+      "SetID": "36h0n9d",
+      "Name": "Walking Disaster",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "questclear_only1hero",
+      "SetID": "36h0n9d",
+      "Name": "Last Hero Standing",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "questevent_complete_ninth",
+      "SetID": "36h0n9d",
+      "Name": "Ninth Name",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "relic_get_heart",
+      "SetID": "36h0n9d",
+      "Name": "Corrupted Black Dragon\u0027s Heart",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "relic_getcount_accessory_all",
+      "SetID": "36h0n9d",
+      "Name": "Accessory Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "relic_getcount_all",
+      "SetID": "36h0n9d",
+      "Name": "Artifact Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "relic_getcount_all_hard",
+      "SetID": "36h0n9d",
+      "Name": "True Artifact Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "relic_getcount_armor_all",
+      "SetID": "36h0n9d",
+      "Name": "Armor Collector",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "relic_getcount_first",
+      "SetID": "36h0n9d",
+      "Name": "Newbie Collector",
+      "Percentage": 56,
+      "XP": 10,
+      "UsersEstimate": 27
+    },
+    {
+      "ID": "relic_getcount_talisman_all",
+      "SetID": "36h0n9d",
+      "Name": "Talisman Collector",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "relic_getcount_weapon_all",
+      "SetID": "36h0n9d",
+      "Name": "Weapon Collector",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "relic_setitem_first_hard",
+      "SetID": "36h0n9d",
+      "Name": "Artifact\u0027s True Power",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "resource_gold_getcount_3000000",
+      "SetID": "36h0n9d",
+      "Name": "Gold Collector",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "resource_gold_usecount_3000000",
+      "SetID": "36h0n9d",
+      "Name": "To Train a Hero II",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "resource_ore_getcount_2000",
+      "SetID": "36h0n9d",
+      "Name": "Ore Collector",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "resource_ore_usecount_2000",
+      "SetID": "36h0n9d",
+      "Name": "To Rebuild a Town I",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "resource_soulstone_getcount_100000",
+      "SetID": "36h0n9d",
+      "Name": "Soul Collector",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "resource_soulstone_usecount_100000",
+      "SetID": "36h0n9d",
+      "Name": "To Train a Hero I",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "resource_wood_getcount_2000",
+      "SetID": "36h0n9d",
+      "Name": "Lumber Collector",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "resource_wood_usecount_2000",
+      "SetID": "36h0n9d",
+      "Name": "To Rebuild a Town II",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "spell_getcount_all",
+      "SetID": "36h0n9d",
+      "Name": "Great Adventurer",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "spell_getcount_first",
+      "SetID": "36h0n9d",
+      "Name": "Power of an Adventurer",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "spell_level5_first",
+      "SetID": "36h0n9d",
+      "Name": "Ready To Read",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "spell_usecount_100",
+      "SetID": "36h0n9d",
+      "Name": "Brilliant Reader",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "stage_allclear_boldrajungle",
+      "SetID": "36h0n9d",
+      "Name": "Boldra Jungle Purification",
+      "Percentage": 6,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "stage_allclear_kingdom",
+      "SetID": "36h0n9d",
+      "Name": "Kingdom of Kerkin Purification",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "stage_allclear_lostlands",
+      "SetID": "36h0n9d",
+      "Name": "Forgotten Land Purification",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "stage_allclear_slientlake",
+      "SetID": "36h0n9d",
+      "Name": "Lake of Silence Purification",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "stage_clear_escort_berthe",
+      "SetID": "36h0n9d",
+      "Name": "Knight of the Holy Sword",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "stage_clear_escort_grengar",
+      "SetID": "36h0n9d",
+      "Name": "Legendary Spear",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "stage_clear_escort_ruanafra",
+      "SetID": "36h0n9d",
+      "Name": "Priestess of the Moon Goddess",
+      "Percentage": 23,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "stage_clear_escort_wagon",
+      "SetID": "36h0n9d",
+      "Name": "Carriage Delivery",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "stage_clear_escort_wyldkin_hard",
+      "SetID": "36h0n9d",
+      "Name": "Mysterious Girl",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stage_clearcount_1",
+      "SetID": "36h0n9d",
+      "Name": "First Step",
+      "Percentage": 69,
+      "XP": 10,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "stage_clearcount_10",
+      "SetID": "36h0n9d",
+      "Name": "Experienced Adventurer",
+      "Percentage": 23,
+      "XP": 10,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "stage_clearcount_1stage_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Steps of Purification I",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stage_clearcount_2stage",
+      "SetID": "36h0n9d",
+      "Name": "Steps of Purification II",
+      "Percentage": 19,
+      "XP": 10,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "stage_clearcount_2stage_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Steps of Purification II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stage_clearcount_30",
+      "SetID": "36h0n9d",
+      "Name": "Professional Adventurer",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "stage_clearcount_3stage",
+      "SetID": "36h0n9d",
+      "Name": "Steps of Purification III",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "stage_clearcount_3stage_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Steps of Purification III",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stage_clearcount_4",
+      "SetID": "36h0n9d",
+      "Name": "Steps of Purification",
+      "Percentage": 48,
+      "XP": 10,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "stage_clearcount_4stage",
+      "SetID": "36h0n9d",
+      "Name": "Steps of Purification IV",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "stage_clearcount_4stage_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Steps of Purification IV",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stage_clearcount_5stage",
+      "SetID": "36h0n9d",
+      "Name": "Steps of Purification V",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "stage_clearcount_5stage_hard",
+      "SetID": "36h0n9d",
+      "Name": "Apocalypse: Steps of Purification V",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "stage_clearcount_sub_10",
+      "SetID": "36h0n9d",
+      "Name": "Extermination",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "tutorial_hero_getcount_first",
+      "SetID": "36h0n9d",
+      "Name": "Journey\u0027s Companion",
+      "Percentage": 85,
+      "XP": 10,
+      "UsersEstimate": 41
+    },
+    {
+      "ID": "tutorial_town",
+      "SetID": "36h0n9d",
+      "Name": "Night\u0027s Sanctuary",
+      "Percentage": 88,
+      "XP": 10,
+      "UsersEstimate": 42
+    },
+    {
+      "ID": "week_playcount_10",
+      "SetID": "36h0n9d",
+      "Name": "Journey\u0027s Record - Week 10",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "week_playcount_20",
+      "SetID": "36h0n9d",
+      "Name": "Journey\u0027s Record - Week 20",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "week_playcount_30",
+      "SetID": "36h0n9d",
+      "Name": "Journey\u0027s Record - Week 30",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "week_playcount_40",
+      "SetID": "36h0n9d",
+      "Name": "Journey\u0027s Record - Week 40",
+      "Percentage": 4,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "week_playcount_50",
+      "SetID": "36h0n9d",
+      "Name": "Journey\u0027s Record - Week 50",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "36h0n9d",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-15T10:58:47.6799108+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:22.0715653+00:00",
-  "LastChanged_Achievements": "2024-06-26T14:04:36.7250375+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:05:45.3192558+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:48.611045+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:58:17.2651581+00:00",
-  "LastUpdate_Achievements": "2024-06-26T14:04:36.725045+00:00"
+  "LastUpdate_Ratings": "2024-07-25T19:00:01.1956886+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:05:45.3202455+00:00"
 }

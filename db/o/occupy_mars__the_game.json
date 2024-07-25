@@ -5,9 +5,9 @@
   "Ranking_Rating": 1155,
   "Ranking_Popularity": 674,
   "Ranking_PopularitySum": 674,
-  "Ranking_EOS_Progress": 330,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 328,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -445,7 +445,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2072,
+  "EOS_Progressed": 2099,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -5335,6 +5335,11 @@
       "Time": "2024-06-17T16:14:53.6333625+00:00",
       "NumProgressed": 2072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-25T19:04:24.3172697+00:00",
+      "NumProgressed": 2099,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5370,7 +5375,7 @@
       "Name": "Explosive Miner",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_HARD_LANDING",
@@ -5378,7 +5383,7 @@
       "Name": "Hard Landing",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
@@ -5418,7 +5423,7 @@
       "Name": "The Collector",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 394
+      "UsersEstimate": 399
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -5426,7 +5431,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 622
+      "UsersEstimate": 630
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -5442,7 +5447,7 @@
       "Name": "\u201CAliens\u201D",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -5450,7 +5455,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -5464,9 +5469,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 693
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5482,7 +5487,7 @@
       "Name": "Caveman",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
@@ -5490,15 +5495,15 @@
       "Name": "Planetary Defence",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 414
+      "UsersEstimate": 441
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -5506,7 +5511,7 @@
       "Name": "DeDust",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -5522,7 +5527,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 693
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5538,7 +5543,7 @@
       "Name": "Gardener",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 546
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5546,7 +5551,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 273
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -5562,15 +5567,15 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 601
+      "UsersEstimate": 609
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
       "SetID": "l546gc",
       "Name": "Houston we have a problem",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 504
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -5578,7 +5583,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -5592,9 +5597,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 567
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5602,7 +5607,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 850
+      "UsersEstimate": 861
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5616,9 +5621,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 735
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -5640,9 +5645,9 @@
       "ID": "NEW_ACHIEVEMENT_PLUMBER",
       "SetID": "l546gc",
       "Name": "Plumber",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 147
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -5658,7 +5663,7 @@
       "Name": "Rocket Jump",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROCKET_SCIENCE",
@@ -5682,7 +5687,7 @@
       "Name": "Space Forest",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -5706,7 +5711,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 622
+      "UsersEstimate": 630
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5714,7 +5719,7 @@
       "Name": "Thunderstruck",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
@@ -5722,14 +5727,14 @@
       "Name": "To infinity and beyond!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 2072,
+      "Progressed": 2099,
       "Completed": 0
     }
   ],
@@ -5737,8 +5742,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-07-24T13:10:13.2864757+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:14:53.6333622+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:04:24.3172694+00:00",
   "LastUpdate_AppInfo": "2024-07-21T13:57:14.9444344+00:00",
   "LastUpdate_Ratings": "2024-07-25T17:59:53.5011615+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:14:53.6334054+00:00"
+  "LastUpdate_Achievements": "2024-07-25T19:04:24.3173241+00:00"
 }

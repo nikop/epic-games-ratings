@@ -2,9 +2,9 @@
   "ID": "1001579a7cb24f058683043aca87f987",
   "Name": "A Game\u00B4s Tale",
   "ProductSlug": "a-games-tale-0122d4",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-06-07T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-24T09:57:14.4222583+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:01:23.5996803+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:58:43.1338962+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:54.3863387+00:00"
 }

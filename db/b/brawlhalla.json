@@ -3,11 +3,11 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 499,
-  "Ranking_Popularity": 170,
+  "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 123,
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
@@ -16569,18 +16569,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 9352,
       "NumberOfAwardsMax": 1188
+    },
+    {
+      "Time": "2024-07-25T18:57:47.0052846+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 9357,
+      "NumberOfAwardsMax": 1191
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9352,
-  "NumberOfAwardsMax": 1188,
+  "NumberOfAwards": 9357,
+  "NumberOfAwardsMax": 1191,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 877
+      "Count": 878
     },
     {
       "Text": "This game has Competitive Players",
@@ -16598,7 +16604,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 1188
+      "Count": 1191
     },
     {
       "Text": "This game is Relaxing",
@@ -16628,7 +16634,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 843
+      "Count": 844
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -16661,8 +16667,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2024-07-25T15:01:25.8822535+00:00",
+  "LastChanged": "2024-07-25T18:57:47.0052844+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:23.5421008+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:59.8921638+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:47.005285+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:32.5185826+00:00"
 }

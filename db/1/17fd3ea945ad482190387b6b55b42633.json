@@ -2,9 +2,9 @@
   "ID": "17fd3ea945ad482190387b6b55b42633",
   "Name": "Hero of the Kingdom",
   "ProductSlug": "hero-of-the-kingdom-3a4529",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-19T16:00:00+00:00",
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-24T13:59:40.5569974+00:00",
   "LastUpdate_AppInfo": "2024-07-19T08:57:11.095316+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:01:06.037016+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:58:31.2693538+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "de3ed17d886342a998ea8b187c656f15",
   "Name": "Micro Tanks",
   "ProductSlug": "micro-tanks-7c7692",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-26T23:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-20T03:57:08.4730681+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:00:13.9164727+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:56.4573855+00:00"
 }

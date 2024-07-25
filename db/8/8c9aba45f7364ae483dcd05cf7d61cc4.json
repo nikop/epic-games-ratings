@@ -2,9 +2,9 @@
   "ID": "8c9aba45f7364ae483dcd05cf7d61cc4",
   "Name": "BADMAD ROBOTS",
   "ProductSlug": "badmad-robots-11c1d4",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-06-17T16:15:40.1038438+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:40.1038417+00:00",
   "LastUpdate_AppInfo": "2024-07-24T08:57:10.1902287+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:45.663792+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:59:27.9607958+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:40.1038499+00:00"
 }

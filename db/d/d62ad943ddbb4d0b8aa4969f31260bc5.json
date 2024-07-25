@@ -2,9 +2,9 @@
   "ID": "d62ad943ddbb4d0b8aa4969f31260bc5",
   "Name": "Knight Swap",
   "ProductSlug": "knight-swap-d88239",
-  "Ranking_EOS_Progress": 693,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 698,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-05-29T16:30:00+00:00",
@@ -139,6 +139,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:07.1043049+00:00",
   "LastChanged_Achievements": "2024-07-24T02:01:20.2537864+00:00",
   "LastUpdate_AppInfo": "2024-07-23T22:57:28.65083+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:30.2969351+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:59:12.1234656+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:01:20.2538232+00:00"
 }

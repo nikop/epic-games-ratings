@@ -2,9 +2,9 @@
   "ID": "20793453c6ee412cadbc2932db902e86",
   "Name": "Spectra",
   "ProductSlug": "spectra-354d90",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-26T08:00:00+00:00",
@@ -29,10 +29,62 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-25T19:01:52.3509011+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BFF",
+      "SetID": "7bdgihm",
+      "Name": "BFF",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Einstein",
+      "SetID": "7bdgihm",
+      "Name": "Einstein",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FoundANewFriend",
+      "SetID": "7bdgihm",
+      "Name": "Found a new friend",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MoreLuckNextTime",
+      "SetID": "7bdgihm",
+      "Name": "More luck next time",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WeHaveAWinner",
+      "SetID": "7bdgihm",
+      "Name": "We have a winner",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "7bdgihm",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-25T19:01:52.350901+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:01:52.3508955+00:00",
   "LastUpdate_AppInfo": "2024-07-24T15:57:06.0931993+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:59:45.8924285+00:00"
+  "LastUpdate_Ratings": "2024-07-25T17:59:45.8924285+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:01:52.3518072+00:00"
 }

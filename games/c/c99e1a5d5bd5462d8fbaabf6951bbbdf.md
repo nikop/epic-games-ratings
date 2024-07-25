@@ -41,8 +41,8 @@
 | Finalize \| Enhance | 0.00% | ~0 |
 | Hidden Sacred Sword | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 897)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 7 (Ranked 905)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

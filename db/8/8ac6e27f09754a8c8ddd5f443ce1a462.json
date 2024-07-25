@@ -2,9 +2,9 @@
   "ID": "8ac6e27f09754a8c8ddd5f443ce1a462",
   "Name": "Good Morning Human",
   "ProductSlug": "good-morning-human-6d0b45",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-18T22:57:21.0115584+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:58:16.5004148+00:00"
+  "LastUpdate_Ratings": "2024-07-25T19:00:00.3441986+00:00"
 }

@@ -4,32 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 39.00% | ~69 |
-| Treasure Hunting | 38.00% | ~68 |
-| Shine! | 31.00% | ~55 |
-| Friend! | 30.00% | ~53 |
-| Uncut Gem | 28.00% | ~50 |
-| Clear as Water | 26.00% | ~46 |
+| Might be useful… | 38.00% | ~68 |
+| Treasure Hunting | 37.00% | ~67 |
+| Shine! | 31.00% | ~56 |
+| Friend! | 30.00% | ~54 |
+| Uncut Gem | 27.00% | ~49 |
+| Clear as Water | 26.00% | ~47 |
 | Setting Off | 23.00% | ~41 |
 | Card Collector | 23.00% | ~41 |
 | Riddlesolver | 20.00% | ~36 |
-| Dungeon Mastery | 19.00% | ~34 |
+| Dungeon Mastery | 18.00% | ~32 |
 | A Strange Proposition | 11.00% | ~20 |
 | Card Completionist | 11.00% | ~20 |
 | The Steed | 10.00% | ~18 |
 | The Bodyguard | 8.00% | ~14 |
 | The Apprentice | 8.00% | ~14 |
-| Braving Miasma | 7.00% | ~12 |
-| The Familiar | 7.00% | ~12 |
-| Ancient Nemesis | 7.00% | ~12 |
-| No Stone Unturned | 7.00% | ~12 |
+| No Stone Unturned | 8.00% | ~14 |
+| Braving Miasma | 7.00% | ~13 |
+| The Familiar | 7.00% | ~13 |
+| Ancient Nemesis | 7.00% | ~13 |
 | Oracle Mastery | 6.00% | ~11 |
 | Raider Mastery | 6.00% | ~11 |
+| The Plot Thickens | 6.00% | ~11 |
 | Traveler Mastery | 5.00% | ~9 |
 | Warden Mastery | 5.00% | ~9 |
-| The Plot Thickens | 5.00% | ~9 |
 | Best Pupil | 3.00% | ~5 |
 | FOR JUSTICE! | 3.00% | ~5 |
+| Journey’s End | 3.00% | ~5 |
 | Masterpiece | 3.00% | ~5 |
 | Trinket Enthusiast | 3.00% | ~5 |
 | The Usurper | 3.00% | ~5 |
@@ -39,14 +40,13 @@
 | Sealed Once Again | 3.00% | ~5 |
 | A New Tomorrow | 3.00% | ~5 |
 | ACHOO! | 3.00% | ~5 |
-| Journey’s End | 2.00% | ~4 |
 | Towards the Future | 2.00% | ~4 |
+| The New Demon Lord | 2.00% | ~4 |
 | Gladiator | 2.00% | ~4 |
-| The New Demon Lord | 1.00% | ~2 |
-| True Drafter | 0.60% | ~1 |
+| True Drafter | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 561)  
-Completed: 1 (0.56%) (Ranked 283)  
+Progressed: 180 (Ranked 560)  
+Completed: 2 (1.11%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,6 +136,7 @@ Completed: 1 (0.56%) (Ranked 283)
 | 2024-03-21 | 170 | 1 |
 | 2024-04-10 | 172 | 1 |
 | 2024-06-17 | 178 | 1 |
+| 2024-07-25 | 180 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -31,7 +31,7 @@ Rating: 4.40 (Ranked 853)
 | ACE TRICKSTER | 0.90% | ~4,543 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 504,742 (Ranked 50)  
-Completed: 2,943 (0.58%) (Ranked 281)  
+Completed: 2,943 (0.58%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

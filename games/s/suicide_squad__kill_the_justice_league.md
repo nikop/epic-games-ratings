@@ -1,7 +1,7 @@
 # Suicide Squad: Kill the Justice League
 [Store](https://store.epicgames.com/en-US/p/suicide-squad-kill-the-justice-league)  
 [View Rawdata](../../db/s/suicide_squad__kill_the_justice_league.json)  
-Rating: 3.89 (Ranked 1,204)  
+Rating: 3.88 (Ranked 1,204)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -56,23 +56,23 @@ Rating: 3.89 (Ranked 1,204)
 | All Sorts of Fun | 0.90% | ~31 |
 | The Reaper | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,434 (Ranked 284)  
-Completed: 2 (0.06%) (Ranked 425)  
+Progressed: 3,434 (Ranked 287)  
+Completed: 2 (0.06%) (Ranked 430)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-10 | 604 | 0 |
 | 2024-06-17 | 3,434 | 2 |
 ## Awards
-Max (Great Boss Battles): 1,155  (Ranked 174)  
-Sum: 1,751 (Ranked 260)  
+Max (Great Boss Battles): 1,279  (Ranked 163)  
+Sum: 1,882 (Ranked 249)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,155 |
+| This game has Great Boss Battles | 1,279 |
 | This game has Diverse Characters | 95 |
 | This game is Highly Recommended | 95 |
-| This game is Extremely Fun | 84 |
+| This game is Extremely Fun | 91 |
 | This game has Amazing Characters | 84 |
 | This game has Amazing Storytelling | 84 |
 | This game has Quickly Understood Controls | 83 |
@@ -184,4 +184,4 @@ Diff (max vs sum): -86
 | 2024-07-22 | 3.90 | 944 | 1,344 |
 | 2024-07-23 | 3.90 | 1,063 | 1,505 |
 | 2024-07-24 | 3.89 | 1,155 | 1,648 |
-| 2024-07-25 | 3.89 | 1,155 | 1,751 |
+| 2024-07-25 | 3.89 | 1,279 | 1,882 |

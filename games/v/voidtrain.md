@@ -1,7 +1,7 @@
 # Voidtrain
 [Store](https://store.epicgames.com/en-US/p/voidtrain)  
 [View Rawdata](../../db/v/voidtrain.json)  
-Rating: 4.50 (Ranked 663)  
+Rating: 4.50 (Ranked 664)  
 Number of Ratings: 1,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -62,8 +62,8 @@ Number of Ratings: 1,305  (23.09.2022)
 | Mpemba Effect | 0.30% | ~33 |
 | Ladies' man | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,016 (Ranked 223)  
-Completed: 3 (0.03%) (Ranked 450)  
+Progressed: 11,016 (Ranked 225)  
+Completed: 3 (0.03%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

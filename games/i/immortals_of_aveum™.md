@@ -53,8 +53,8 @@ Rating: 4.18 (Ranked 1,098)
 | Treasure Hunter | 0.80% | ~35 |
 | Fowl Play | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,356 (Ranked 269)  
-Completed: 7 (0.16%) (Ranked 368)  
+Progressed: 4,356 (Ranked 271)  
+Completed: 7 (0.16%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,8 +182,8 @@ Completed: 7 (0.16%) (Ranked 368)
 | 2024-06-26 | 4,356 | 7 |
 ## Awards
 Max (Amazing Characters): 35  (Ranked 580)  
-Sum: 225 (Ranked 474)  
-Diff (max vs sum): 106  
+Sum: 225 (Ranked 475)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 35 |

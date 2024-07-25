@@ -2,9 +2,9 @@
   "ID": "5b95b193df59499886544e610dc871e5",
   "Name": "HexON",
   "ProductSlug": "hexon-6d8557",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-06-27T15:30:00+00:00",
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-27T22:58:19.1581208+00:00",
   "LastUpdate_AppInfo": "2024-07-24T13:07:20.6629833+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:19.2711762+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:19.6458242+00:00"
 }

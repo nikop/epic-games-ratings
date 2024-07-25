@@ -43,8 +43,8 @@ Number of Ratings: 351  (23.09.2022)
 | Doubletime | 0.30% | ~8 |
 | Veteran Bounty Hunter | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,516 (Ranked 309)  
-Completed: 3 (0.12%) (Ranked 386)  
+Progressed: 2,516 (Ranked 311)  
+Completed: 3 (0.12%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,9 +2,9 @@
   "ID": "4cbd830175c6402e98ef67421c0c1bec",
   "Name": "Death Blonde",
   "ProductSlug": "death-blonde-42f4ff",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -33,5 +33,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-24T13:07:20.8642575+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:48.4595789+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:39.3550657+00:00"
 }

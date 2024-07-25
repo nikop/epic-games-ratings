@@ -2,9 +2,9 @@
   "ID": "561ff6b1f6ba4e359dfc625134d4f806",
   "Name": "Beyond Galaxyland",
   "ProductSlug": "beyond-galaxyland-521b75",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:42.0215314+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:42.0215277+00:00",
   "LastUpdate_AppInfo": "2024-07-23T03:57:56.3957308+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:13.1503095+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:58:54.3850732+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:42.0215325+00:00"
 }

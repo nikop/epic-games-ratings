@@ -5,54 +5,54 @@ Rating: 4.41 (Ranked 838)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 92.00% | ~866 |
-| Training Simulation | 78.00% | ~734 |
-| Kuku Bird Hunter | 65.00% | ~612 |
-| Storm Traveller | 60.00% | ~565 |
-| Wolf King Killer | 54.00% | ~508 |
-| Fashion Connoisseur | 53.00% | ~499 |
-| Arms Mechanic | 49.00% | ~461 |
-| Flower Thief | 45.00% | ~423 |
-| Apostle of Flame | 41.00% | ~386 |
-| Beginner Artificer | 39.00% | ~367 |
-| Beginner Cook | 38.00% | ~358 |
-| Seal Breaker | 34.00% | ~320 |
-| Handyman | 29.00% | ~273 |
-| Giant Lizard Killer | 28.00% | ~263 |
-| Guardian | 27.00% | ~254 |
-| Nosebleeder | 27.00% | ~254 |
-| Weapon Boost | 22.00% | ~207 |
-| Trader | 21.00% | ~198 |
-| Flying Kobold Killer | 20.00% | ~188 |
-| Youth Magnet | 19.00% | ~179 |
-| Furious Scorpion Killer | 18.00% | ~169 |
-| Lethal Blade Mantis Killer | 18.00% | ~169 |
-| Squeaky Clean | 17.00% | ~160 |
-| Master Artificer | 17.00% | ~160 |
-| Kind Adventurer | 16.00% | ~151 |
-| Mermaid Killer | 16.00% | ~151 |
-| Cave Master | 16.00% | ~151 |
-| Face Slapper | 15.00% | ~141 |
-| Berserker Slayer | 12.00% | ~113 |
-| Boss challenge | 11.00% | ~104 |
-| Giantess Slayer | 11.00% | ~104 |
-| Warden Slayer | 11.00% | ~104 |
-| Master Cook | 9.00% | ~85 |
+| Travel Streamer | 92.00% | ~880 |
+| Training Simulation | 78.00% | ~746 |
+| Kuku Bird Hunter | 65.00% | ~622 |
+| Storm Traveller | 59.00% | ~565 |
+| Wolf King Killer | 54.00% | ~517 |
+| Fashion Connoisseur | 53.00% | ~507 |
+| Arms Mechanic | 49.00% | ~469 |
+| Flower Thief | 45.00% | ~431 |
+| Apostle of Flame | 40.00% | ~383 |
+| Beginner Artificer | 39.00% | ~373 |
+| Beginner Cook | 38.00% | ~364 |
+| Seal Breaker | 33.00% | ~316 |
+| Handyman | 29.00% | ~278 |
+| Giant Lizard Killer | 27.00% | ~258 |
+| Guardian | 26.00% | ~249 |
+| Nosebleeder | 26.00% | ~249 |
+| Trader | 22.00% | ~211 |
+| Weapon Boost | 22.00% | ~211 |
+| Flying Kobold Killer | 20.00% | ~191 |
+| Youth Magnet | 19.00% | ~182 |
+| Furious Scorpion Killer | 18.00% | ~172 |
+| Lethal Blade Mantis Killer | 18.00% | ~172 |
+| Squeaky Clean | 17.00% | ~163 |
+| Master Artificer | 17.00% | ~163 |
+| Kind Adventurer | 16.00% | ~153 |
+| Mermaid Killer | 16.00% | ~153 |
+| Cave Master | 16.00% | ~153 |
+| Face Slapper | 15.00% | ~144 |
+| Berserker Slayer | 12.00% | ~115 |
+| Boss challenge | 11.00% | ~105 |
+| Giantess Slayer | 11.00% | ~105 |
+| Warden Slayer | 11.00% | ~105 |
+| Master Cook | 9.00% | ~86 |
 | Silver Moon Wolf King Challenge | 4.00% | ~38 |
-| Flying Kobold Challenge | 3.00% | ~28 |
-| Furious Scorpion Challenge | 3.00% | ~28 |
-| Giant Lizard Challenge | 3.00% | ~28 |
+| Blade Mantis Challenge | 3.00% | ~29 |
+| Flying Kobold Challenge | 3.00% | ~29 |
+| Furious Scorpion Challenge | 3.00% | ~29 |
+| Giant Lizard Challenge | 3.00% | ~29 |
+| Mermaid Challenge | 3.00% | ~29 |
 | Rebellious | 2.00% | ~19 |
-| Blade Mantis Challenge | 2.00% | ~19 |
 | Big Face Goalkeeper Challenge | 2.00% | ~19 |
 | Giant Claw Spider Challenge | 2.00% | ~19 |
-| Mermaid Challenge | 2.00% | ~19 |
 | Berserker Challenge | 2.00% | ~19 |
 | Giantess Challenge | 2.00% | ~19 |
 | Warden Challenge | 2.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 392)  
-Completed: 3 (0.32%) (Ranked 323)  
+Progressed: 957 (Ranked 391)  
+Completed: 3 (0.31%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,6 +197,7 @@ Completed: 3 (0.32%) (Ranked 323)
 | 2024-03-21 | 862 | 3 |
 | 2024-04-10 | 897 | 3 |
 | 2024-06-17 | 941 | 3 |
+| 2024-07-25 | 957 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

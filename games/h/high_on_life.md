@@ -51,7 +51,7 @@ Rating: 4.66 (Ranked 321)
 | Harper? I Barely Know Her! | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 25,705 (Ranked 180)  
-Completed: 15 (0.06%) (Ranked 425)  
+Completed: 15 (0.06%) (Ranked 430)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

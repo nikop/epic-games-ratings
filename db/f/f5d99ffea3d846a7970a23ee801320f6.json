@@ -2,9 +2,9 @@
   "ID": "f5d99ffea3d846a7970a23ee801320f6",
   "Name": "VillageBlade",
   "ProductSlug": "villageblade-9d4aef",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-03-27T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-23T16:57:17.4310174+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:00:03.7092804+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:49.563503+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:36.3209185+00:00"
 }

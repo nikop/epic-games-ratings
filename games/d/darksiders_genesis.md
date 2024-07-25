@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Dagon | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,990 (Ranked 332)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 1,990 (Ranked 334)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

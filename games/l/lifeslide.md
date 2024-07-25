@@ -36,8 +36,8 @@
 | In Love | 1.00% | ~4 |
 | Survivor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386 (Ranked 483)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 386 (Ranked 485)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 73.00% | ~79 |
-| Complete Level 1-1 | 64.00% | ~69 |
-| Immortal | 56.00% | ~60 |
-| Complete Level 1-2 | 45.00% | ~49 |
-| Scraping by | 33.00% | ~36 |
-| Engineer-mage hybrid | 33.00% | ~36 |
-| Complete Level 1-3 | 31.00% | ~33 |
-| Defeat the warrior boss | 24.00% | ~26 |
+| What is this? | 73.00% | ~80 |
+| Complete Level 1-1 | 64.00% | ~70 |
+| Immortal | 56.00% | ~62 |
+| Complete Level 1-2 | 45.00% | ~50 |
+| Scraping by | 34.00% | ~37 |
+| Engineer-mage hybrid | 34.00% | ~37 |
+| Complete Level 1-3 | 32.00% | ~35 |
+| Defeat the warrior boss | 25.00% | ~28 |
 | Get out of my way | 22.00% | ~24 |
 | Redecorator | 20.00% | ~22 |
 | Just a sip | 19.00% | ~21 |
 | Complete Level 2-1 | 19.00% | ~21 |
-| Complete Level 2-2 | 19.00% | ~21 |
-| Complete Level 2-3 | 16.00% | ~17 |
+| Complete Level 2-2 | 18.00% | ~20 |
+| Complete Level 2-3 | 15.00% | ~16 |
 | Defeat the engineer boss | 15.00% | ~16 |
 | Versatile | 15.00% | ~16 |
 | Well-off | 13.00% | ~14 |
@@ -32,13 +32,13 @@
 | Mage-warrior hybrid | 9.00% | ~10 |
 | Complete Level 3-3 | 8.00% | ~9 |
 | Mage specialist | 7.00% | ~8 |
-| Defeat the mage boss | 6.00% | ~6 |
-| Remote retrieved | 6.00% | ~6 |
-| Engineer specialist | 6.00% | ~6 |
-| Way of the mage | 6.00% | ~6 |
-| Rich | 5.00% | ~5 |
-| Delicious | 5.00% | ~5 |
-| Way of the engineer | 5.00% | ~5 |
+| Defeat the mage boss | 6.00% | ~7 |
+| Rich | 5.00% | ~6 |
+| Delicious | 5.00% | ~6 |
+| Remote retrieved | 5.00% | ~6 |
+| Engineer specialist | 5.00% | ~6 |
+| Way of the engineer | 5.00% | ~6 |
+| Way of the mage | 5.00% | ~6 |
 | Warrior specialist | 4.00% | ~4 |
 | The True Trifox | 4.00% | ~4 |
 | Way of the warrior | 4.00% | ~4 |
@@ -51,8 +51,8 @@
 | Almost there | 0.90% | ~1 |
 | Go go go | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108 (Ranked 623)  
-Completed: 1 (0.93%) (Ranked 244)  
+Progressed: 110 (Ranked 626)  
+Completed: 1 (0.91%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,6 +82,7 @@ Completed: 1 (0.93%) (Ranked 244)
 | 2024-01-20 | 106 | 1 |
 | 2024-03-21 | 107 | 1 |
 | 2024-06-17 | 108 | 1 |
+| 2024-07-25 | 110 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

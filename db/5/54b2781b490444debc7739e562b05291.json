@@ -2,9 +2,9 @@
   "ID": "54b2781b490444debc7739e562b05291",
   "Name": "Stories from the Outbreak",
   "ProductSlug": "stories-from-the-outbreak-23efc0",
-  "Ranking_EOS_Progress": 890,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 885,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-03-14T00:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
     {
       "Time": "2024-06-17T16:15:46.1499702+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-25T19:04:41.1563842+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -65,31 +70,31 @@
       "Name": "The Houndwalker",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_beat_legion",
       "SetID": "1322lcm",
       "Name": "The Legion",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_beat_mutantmother",
       "SetID": "1322lcm",
       "Name": "The Mutantmother",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_beat_silhouette",
       "SetID": "1322lcm",
       "Name": "The Silhouette",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_brilliant_leader",
@@ -103,33 +108,33 @@
       "ID": "ach_challenge1",
       "SetID": "1322lcm",
       "Name": "For an answer which cannot be expressed",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_challenge2",
       "SetID": "1322lcm",
       "Name": "The question too cannot be expressed",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_challenge3",
       "SetID": "1322lcm",
       "Name": "The riddle does not exist",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_challenge4",
       "SetID": "1322lcm",
       "Name": "If a question can be put at all",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_challenge5",
@@ -143,9 +148,9 @@
       "ID": "ach_decisive_pumeling",
       "SetID": "1322lcm",
       "Name": "A decisive pummeling!",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_deep_roar",
@@ -167,17 +172,17 @@
       "ID": "ach_entertainer",
       "SetID": "1322lcm",
       "Name": "Entertainer",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_eternity",
       "SetID": "1322lcm",
       "Name": "Eternity",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_feeling_alive",
@@ -239,33 +244,33 @@
       "ID": "ach_he_remained_unbroken",
       "SetID": "1322lcm",
       "Name": "He remained unbroken",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_heartbreak",
       "SetID": "1322lcm",
       "Name": "Heartbreak",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_leave_no_one_behind",
       "SetID": "1322lcm",
       "Name": "Leave no one behind",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_life_of_helping_others",
       "SetID": "1322lcm",
       "Name": "A life of helping others",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_look_upon_my_art",
@@ -279,49 +284,49 @@
       "ID": "ach_mothers_smile",
       "SetID": "1322lcm",
       "Name": "A mother\u0027s smile",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_never_give_up",
       "SetID": "1322lcm",
       "Name": "Never give up",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_no_plan",
       "SetID": "1322lcm",
       "Name": "No plan",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_nyoom",
       "SetID": "1322lcm",
       "Name": "Nyoom",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_put_vejini",
       "SetID": "1322lcm",
       "Name": "P\u016Bt, V\u0113ji\u0146i",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_stories_from_the_outbreak",
       "SetID": "1322lcm",
       "Name": "Stories from the Outbreak",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_the_full_story",
@@ -352,14 +357,14 @@
     {
       "ID": "1322lcm",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-22T19:58:26.4438699+00:00",
   "FirstSeenAchievements": "2024-03-21T17:11:57.265118+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:46.1499697+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:04:41.1563838+00:00",
   "LastUpdate_AppInfo": "2024-07-19T21:57:17.7665667+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:35.8620638+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:46.1499908+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:59:17.8143111+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:04:41.1564225+00:00"
 }

@@ -6,42 +6,42 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~663 |
-| I did it! | 93.00% | ~635 |
-| Economical | 91.00% | ~622 |
-| Learner | 90.00% | ~615 |
-| Devout | 88.00% | ~601 |
-| The Love Martyr | 86.00% | ~587 |
-| Frugal | 84.00% | ~574 |
-| Dilligent | 81.00% | ~553 |
-| I... I did it? | 78.00% | ~533 |
-| Adored | 74.00% | ~505 |
-| The Hobbyist | 64.00% | ~437 |
-| A Forked Tongue | 54.00% | ~369 |
-| The Admirer | 51.00% | ~348 |
-| Between Two Fires | 50.00% | ~342 |
-| Precious | 44.00% | ~301 |
-| Devoted | 40.00% | ~273 |
-| The Farmer | 39.00% | ~266 |
-| Ever After | 35.00% | ~239 |
-| Mandatory Sacrifice | 28.00% | ~191 |
-| Loyal | 27.00% | ~184 |
-| The Collector | 24.00% | ~164 |
-| All Doors Open | 20.00% | ~137 |
-| Faithful | 11.00% | ~75 |
-| A Close | 10.00% | ~68 |
-| Asmodeus | 8.00% | ~55 |
+| Objective Complete | 97.00% | ~672 |
+| I did it! | 93.00% | ~644 |
+| Learner | 90.00% | ~624 |
+| Economical | 90.00% | ~624 |
+| Devout | 87.00% | ~603 |
+| The Love Martyr | 86.00% | ~596 |
+| Frugal | 83.00% | ~575 |
+| Dilligent | 81.00% | ~561 |
+| I... I did it? | 78.00% | ~541 |
+| Adored | 74.00% | ~513 |
+| The Hobbyist | 64.00% | ~444 |
+| A Forked Tongue | 54.00% | ~374 |
+| The Admirer | 51.00% | ~353 |
+| Between Two Fires | 50.00% | ~346 |
+| Precious | 44.00% | ~305 |
+| Devoted | 41.00% | ~284 |
+| The Farmer | 39.00% | ~270 |
+| Ever After | 35.00% | ~243 |
+| Mandatory Sacrifice | 28.00% | ~194 |
+| Loyal | 27.00% | ~187 |
+| The Collector | 25.00% | ~173 |
+| All Doors Open | 20.00% | ~139 |
+| Faithful | 10.00% | ~69 |
+| A Close | 10.00% | ~69 |
+| Asmodeus | 9.00% | ~62 |
 | Luna | 8.00% | ~55 |
 | Lover | 2.00% | ~14 |
-| Conclusions | 1.00% | ~7 |
-| The Harvester | 0.90% | ~6 |
+| Conclusions | 2.00% | ~14 |
+| The Harvester | 1.00% | ~7 |
 | Playboy | 0.40% | ~3 |
-| Necessary Sacrifice | 0.10% | ~1 |
-| Womanizer | 0.00% | ~0 |
-| Lady Killer | 0.00% | ~0 |
+| Necessary Sacrifice | 0.30% | ~2 |
+| Womanizer | 0.10% | ~1 |
+| Lady Killer | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 420)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 693 (Ranked 420)  
+Completed: 1 (0.14%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,6 +112,7 @@ Completed: 0 (0.00%) (Ranked 513)
 | 2024-03-21 | 647 | 0 |
 | 2024-04-10 | 651 | 0 |
 | 2024-06-17 | 683 | 0 |
+| 2024-07-25 | 693 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

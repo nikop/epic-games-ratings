@@ -40,8 +40,8 @@
 | Crunch Time | 1.00% | ~1 |
 | Just Here for the Food | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 636)  
-Completed: 1 (1.03%) (Ranked 232)  
+Progressed: 97 (Ranked 639)  
+Completed: 1 (1.03%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

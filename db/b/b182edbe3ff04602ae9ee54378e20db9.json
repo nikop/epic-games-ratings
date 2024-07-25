@@ -2,9 +2,9 @@
   "ID": "b182edbe3ff04602ae9ee54378e20db9",
   "Name": "Agents of Argus",
   "ProductSlug": "agents-of-argus-c9e533",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T13:06:59.9617938+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:28.299692+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:25.6881954+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:04:39.4185901+00:00"
 }

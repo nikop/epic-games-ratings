@@ -5,48 +5,63 @@ Rating: 4.83 (Ranked 63)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 87.00% | ~260,609 |
-| Private Club | 69.00% | ~206,690 |
-| Rogue Guild | 61.00% | ~182,726 |
-| I Watched the Intro | 53.00% | ~158,762 |
-| Covert Consortium | 51.00% | ~152,771 |
-| Goat Queen | 50.00% | ~149,776 |
-| Reach the Stratosphere | 49.00% | ~146,780 |
-| Synchronization Complete | 44.00% | ~131,802 |
-| Secret Society | 42.00% | ~125,811 |
-| Shadow Syndicate | 35.00% | ~104,843 |
-| What a Waste of Money | 31.00% | ~92,861 |
-| New Goat Order | 29.00% | ~86,870 |
-| Don't touch the servers | 26.00% | ~77,883 |
-| Real Buoy | 26.00% | ~77,883 |
-| San Angora: Become Human | 25.00% | ~74,888 |
-| Raider of the Lost Parking Garage | 25.00% | ~74,888 |
-| Welcome to Earth | 23.00% | ~68,897 |
-| Egg Simulator | 19.00% | ~56,915 |
-| Into the Matrix | 19.00% | ~56,915 |
-| Where is It? | 16.00% | ~47,928 |
-| Beauty, Mindfulness and Meditation | 14.00% | ~41,937 |
-| 401(K.O.) | 14.00% | ~41,937 |
-| Black Market | 13.00% | ~38,942 |
-| Car Cave | 11.00% | ~32,951 |
-| Club Mohair | 8.00% | ~23,964 |
-| A Center for Ants? | 8.00% | ~23,964 |
-| French Fika | 7.00% | ~20,969 |
-| Who Baywatches the Baywatch? | 4.00% | ~11,982 |
-| Nasty! | 4.00% | ~11,982 |
-| [REDACTED] | 4.00% | ~11,982 |
-| Cannibanana | 2.00% | ~5,991 |
-| Daredevil | 2.00% | ~5,991 |
-| Crocsquatch | 1.00% | ~2,996 |
-| You Trusted Your Instincts | 1.00% | ~2,996 |
-| Certified Fresh | 1.00% | ~2,996 |
-| Streaking | 1.00% | ~2,996 |
-| Try Hard 2 | 1.00% | ~2,996 |
-| Move! That! Bus! | 0.60% | ~1,797 |
-| G.O.A.T | 0.40% | ~1,198 |
+| You Mined Too Greedily and Too Deep | 2.00% | ~226 |
+| This Took Half My Life | 2.00% | ~226 |
+| It's All a Simulation | 1.00% | ~113 |
+| Gastroscopy | 1.00% | ~113 |
+| Goat Got Brains | 1.00% | ~113 |
+| Appliance in Disguise | 1.00% | ~113 |
+| Forgotten Sorority | 0.90% | ~2,746 |
+| Reach the Stratosphere | 0.70% | ~2,135 |
+| Private Club | 0.60% | ~1,830 |
+| Rogue Guild | 0.50% | ~1,525 |
+| Hell of a Ride | 0.50% | ~56 |
+| Egg Simulator | 0.40% | ~1,220 |
+| What a Waste of Money | 0.40% | ~1,220 |
+| Goat Queen | 0.40% | ~1,220 |
+| Into the Matrix | 0.40% | ~1,220 |
+| Secret Society | 0.40% | ~1,220 |
+| Covert Consortium | 0.40% | ~1,220 |
+| Synchronization Complete | 0.40% | ~1,220 |
+| Try Hard With a Vengeance | 0.40% | ~45 |
+| San Angora: Become Human | 0.30% | ~915 |
+| New Goat Order | 0.30% | ~915 |
+| Raider of the Lost Parking Garage | 0.30% | ~915 |
+| Don't touch the servers | 0.30% | ~915 |
+| I Watched the Intro | 0.30% | ~915 |
+| Shadow Syndicate | 0.30% | ~915 |
+| Real Buoy | 0.30% | ~915 |
+| Lousy References | 0.30% | ~34 |
+| Welcome to Earth | 0.20% | ~610 |
+| Who Baywatches the Baywatch? | 0.20% | ~610 |
+| Where is It? | 0.20% | ~610 |
+| Beauty, Mindfulness and Meditation | 0.20% | ~610 |
+| Black Market | 0.20% | ~610 |
+| 401(K.O.) | 0.20% | ~610 |
+| Dr. Pheelsgood | 0.20% | ~23 |
+| You Gotta Licket to Ride | 0.20% | ~23 |
+| Cannibanana | 0.10% | ~305 |
+| Car Cave | 0.10% | ~305 |
+| Crocsquatch | 0.10% | ~305 |
+| Club Mohair | 0.10% | ~305 |
+| French Fika | 0.10% | ~305 |
+| G.O.A.T | 0.10% | ~305 |
+| You Trusted Your Instincts | 0.10% | ~305 |
+| Nasty! | 0.10% | ~305 |
+| Certified Fresh | 0.10% | ~305 |
+| Daredevil | 0.10% | ~305 |
+| [REDACTED] | 0.10% | ~305 |
+| Move! That! Bus! | 0.10% | ~305 |
+| A Center for Ants? | 0.10% | ~305 |
+| Streaking | 0.10% | ~305 |
+| Try Hard 2 | 0.10% | ~305 |
+| I Love History | 0.10% | ~11 |
+| Wow, Such Instincts | 0.10% | ~11 |
+| Ultrasonic Speedy | 0.10% | ~11 |
+| So Aerodynamic | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299,551 (Ranked 76)  
-Completed: 1,108 (0.37%) (Ranked 315)  
+Progressed: 305,066 (Ranked 76)  
+Completed: 1,141 (0.37%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,6 +347,7 @@ Completed: 1,108 (0.37%) (Ranked 315)
 | 2024-03-21 | 288,094 | 1,021 |
 | 2024-04-10 | 291,928 | 1,047 |
 | 2024-06-17 | 299,551 | 1,108 |
+| 2024-07-25 | 305,066 | 1,141 |
 ## Awards
 Max (Great for Beginners): 812  (Ranked 209)  
 Sum: 6,410 (Ranked 154)  

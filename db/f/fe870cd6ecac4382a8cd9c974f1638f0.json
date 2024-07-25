@@ -2,9 +2,9 @@
   "ID": "fe870cd6ecac4382a8cd9c974f1638f0",
   "Name": "Escape From Mystwood Mansion",
   "ProductSlug": "escape-from-mystwood-mansion-7dfe56",
-  "Ranking_EOS_Progress": 944,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-08-08T09:00:00+00:00",
@@ -211,6 +211,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:01.611467+00:00",
   "LastChanged_Achievements": "2024-07-09T22:02:53.4694522+00:00",
   "LastUpdate_AppInfo": "2024-07-22T15:57:12.2286233+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:59:13.6001332+00:00",
+  "LastUpdate_Ratings": "2024-07-25T19:00:52.911347+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:02:53.4694709+00:00"
 }

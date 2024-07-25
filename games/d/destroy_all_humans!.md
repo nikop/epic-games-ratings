@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 2.00% | ~30 |
 | Steezy Down the Spine | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,501 (Ranked 356)  
-Completed: 13 (0.87%) (Ranked 249)  
+Progressed: 1,501 (Ranked 357)  
+Completed: 13 (0.87%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

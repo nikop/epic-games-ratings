@@ -1,7 +1,7 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.30 (Ranked 972)  
+Rating: 4.30 (Ranked 973)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -45,7 +45,7 @@ Rating: 4.30 (Ranked 972)
 | Tournament Pro | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 247,513 (Ranked 87)  
-Completed: 2 (0.00%) (Ranked 513)  
+Completed: 2 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

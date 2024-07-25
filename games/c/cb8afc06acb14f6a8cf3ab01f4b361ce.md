@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 1,074)  
+Rating: 4.21 (Ranked 1,073)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 4.21 (Ranked 1,074)
 | We strike as one | 0.10% | ~385 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 385,304 (Ranked 70)  
-Completed: 13 (0.00%) (Ranked 513)  
+Completed: 13 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

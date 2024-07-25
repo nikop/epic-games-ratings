@@ -1,7 +1,7 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 19)  
+Rating: 4.87 (Ranked 18)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -48,7 +48,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | What body? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 146,324 (Ranked 107)  
-Completed: 32 (0.02%) (Ranked 471)  
+Completed: 32 (0.02%) (Ranked 475)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

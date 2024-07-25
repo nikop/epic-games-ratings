@@ -3,8 +3,8 @@
   "Name": "Stray Gods: The Roleplaying Musical",
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 486,
-  "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1324,6 +1324,11 @@
       "Time": "2024-06-17T16:14:06.1937968+00:00",
       "NumProgressed": 370,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-07-25T19:04:07.4175205+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1408,7 +1413,7 @@
       "Name": "End Of The Road",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1446,9 +1451,9 @@
       "ID": "SG_LIKEHEROESBEFOREYOU",
       "SetID": "bj5g0n4",
       "Name": "Like Heroes Before You",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -1488,7 +1493,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1512,7 +1517,7 @@
       "Name": "Saying Goodbye",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -1560,7 +1565,7 @@
       "Name": "The Deep End",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1631,20 +1636,20 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 1
     },
     {
       "ID": "7dpj0in",
       "IsBase": false,
-      "Progressed": 36,
-      "Completed": 36
+      "Progressed": 37,
+      "Completed": 37
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:14:06.1937964+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:04:07.4175201+00:00",
   "LastUpdate_AppInfo": "2024-07-19T10:57:08.6130839+00:00",
   "LastUpdate_Ratings": "2024-07-25T17:58:33.0054822+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:14:06.1938247+00:00"
+  "LastUpdate_Achievements": "2024-07-25T19:04:07.4175515+00:00"
 }

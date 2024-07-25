@@ -2,9 +2,9 @@
   "ID": "27dde2bf49304fc19badc32544a9105f",
   "Name": "Dungeon Renovation Simulator",
   "ProductSlug": "dungeon-renovation-simulator-98b924",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-23T16:57:18.6078411+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:01:24.9159294+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:58:44.0166745+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:56.6841345+00:00"
 }

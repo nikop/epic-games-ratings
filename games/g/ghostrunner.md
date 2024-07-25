@@ -53,7 +53,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Up Close And Personal | 0.10% | ~2,318 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,317,628 (Ranked 7)  
-Completed: 656 (0.03%) (Ranked 450)  
+Completed: 656 (0.03%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,7 +341,7 @@ Completed: 656 (0.03%) (Ranked 450)
 | 2024-06-17 | 2,317,628 | 656 |
 ## Awards
 Max (Great Boss Battles): 3,746  (Ranked 103)  
-Sum: 4,799 (Ranked 171)  
+Sum: 4,800 (Ranked 171)  
 Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): -68
 | This game has Diverse Characters | 157 |
 | This game has Quickly Understood Controls | 150 |
 | This game is Extremely Fun | 144 |
-| This game is Highly Recommended | 129 |
+| This game is Highly Recommended | 130 |
 | This game has Amazing Characters | 127 |
 | This game has Unique Visuals | 120 |
 | This game has Amazing Storytelling | 116 |
@@ -748,4 +748,4 @@ Diff (max vs sum): -68
 | 2024-07-22 | 4.55 | - | 3,728 | 4,780 |
 | 2024-07-23 | 4.55 | - | 3,734 | 4,787 |
 | 2024-07-24 | 4.55 | - | 3,741 | 4,794 |
-| 2024-07-25 | 4.55 | - | 3,746 | 4,799 |
+| 2024-07-25 | 4.55 | - | 3,746 | 4,800 |

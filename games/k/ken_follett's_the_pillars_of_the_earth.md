@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 645)  
+Rating: 4.51 (Ranked 646)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -48,8 +48,8 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~620 |
 | Boy of mystery | 2.00% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,672 (Ranked 190)  
-Completed: 135 (0.65%) (Ranked 269)  
+Progressed: 20,672 (Ranked 191)  
+Completed: 135 (0.65%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

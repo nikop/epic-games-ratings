@@ -141,7 +141,7 @@ Number of Ratings: 212  (23.09.2022)
 | New Year's Feast - Medium | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 985 (Ranked 388)  
-Completed: 0 (0.00%) (Ranked 513)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

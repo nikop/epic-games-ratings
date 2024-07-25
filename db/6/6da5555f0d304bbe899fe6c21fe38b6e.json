@@ -2,9 +2,9 @@
   "ID": "6da5555f0d304bbe899fe6c21fe38b6e",
   "Name": "Astor: Blade of the Monolith",
   "ProductSlug": "astor-blade-of-the-monolith-708aed",
-  "Ranking_EOS_Progress": 806,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 815,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-05-30T16:00:00+00:00",
@@ -382,6 +382,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:55.1198741+00:00",
   "LastChanged_Achievements": "2024-06-17T16:07:55.1198463+00:00",
   "LastUpdate_AppInfo": "2024-07-18T22:57:15.53879+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:00:12.2655095+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:55.3324435+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:55.1208073+00:00"
 }

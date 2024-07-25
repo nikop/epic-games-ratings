@@ -3,8 +3,8 @@
   "Name": "Image",
   "ProductSlug": "image-747287",
   "Ranking_EOS_Progress": 489,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-01-20T18:00:00+00:00",
@@ -113,6 +113,6 @@
   "FirstSeenAchievements": "2024-01-18T17:09:04.7318232+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:32.190577+00:00",
   "LastUpdate_AppInfo": "2024-07-19T05:57:12.4304548+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:40.629982+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:34.0640882+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:32.1905907+00:00"
 }

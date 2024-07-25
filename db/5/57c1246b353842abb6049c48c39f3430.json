@@ -2,9 +2,9 @@
   "ID": "57c1246b353842abb6049c48c39f3430",
   "Name": "Plants vs. Zombies\u2122: BFN Deluxe Edition",
   "ProductSlug": "plants-vs-zombies-bfn-deluxe-edition-80d6cb",
-  "Ranking_EOS_Progress": 779,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-05-09T20:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-06-17T16:07:57.1363075+00:00",
       "NumProgressed": 29,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-25T19:01:58.0677034+00:00",
+      "NumProgressed": 42,
       "NumCompleted": 0
     }
   ],
@@ -45,9 +50,9 @@
       "ID": "achievement_1",
       "SetID": "bl2cpdp",
       "Name": "Peaskeeper",
-      "Percentage": 41,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_10",
@@ -55,7 +60,7 @@
       "Name": "Going Totally Nuts",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_11",
@@ -63,61 +68,61 @@
       "Name": "One-Boot Camp",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_12",
       "SetID": "bl2cpdp",
       "Name": "Medical Miracle",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_13",
       "SetID": "bl2cpdp",
       "Name": "Job Well Done",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_14",
       "SetID": "bl2cpdp",
       "Name": "DE-FENCE! CLAP-CLAP! DE-FENCE!",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_15",
       "SetID": "bl2cpdp",
       "Name": "Impossibly Impressive",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_16",
       "SetID": "bl2cpdp",
       "Name": "SuperB",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_17",
       "SetID": "bl2cpdp",
       "Name": "Aye Spy with My Little Aye",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_18",
       "SetID": "bl2cpdp",
       "Name": "Blast From the Past",
-      "Percentage": 10,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -125,25 +130,25 @@
       "ID": "achievement_19",
       "SetID": "bl2cpdp",
       "Name": "Clearing the Dance Floor",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_2",
       "SetID": "bl2cpdp",
       "Name": "Overgrowth",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_20",
       "SetID": "bl2cpdp",
       "Name": "One BIG Step for Zombies",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_21",
@@ -151,7 +156,7 @@
       "Name": "Gone Camping!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_22",
@@ -159,7 +164,7 @@
       "Name": "Open-Minded",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_23",
@@ -167,47 +172,47 @@
       "Name": "dniweR ,dniK eB",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_24",
       "SetID": "bl2cpdp",
       "Name": "Sawing Logs",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_25",
       "SetID": "bl2cpdp",
       "Name": "New Sheriff in Town",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_26",
       "SetID": "bl2cpdp",
       "Name": "Podcast Subscriber",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_27",
       "SetID": "bl2cpdp",
       "Name": "Truest Grit",
-      "Percentage": 10,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_28",
       "SetID": "bl2cpdp",
       "Name": "Cool It!",
-      "Percentage": 7,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_29",
@@ -215,23 +220,23 @@
       "Name": "Hat\u0027s All Folks!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_3",
       "SetID": "bl2cpdp",
       "Name": "Cactus Makes Perfect",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_30",
       "SetID": "bl2cpdp",
       "Name": "Urban Brawl",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_31",
@@ -239,15 +244,15 @@
       "Name": "Chums and Chainz",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_32",
       "SetID": "bl2cpdp",
       "Name": "Nighty Night Club",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_33",
@@ -261,25 +266,25 @@
       "ID": "achievement_34",
       "SetID": "bl2cpdp",
       "Name": "Zombie See Zombie Do",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_35",
       "SetID": "bl2cpdp",
       "Name": "The Medal\u0027s Medal!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_36",
       "SetID": "bl2cpdp",
       "Name": "Get Back out There!",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_37",
@@ -287,23 +292,23 @@
       "Name": "Broken Ice",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_38",
       "SetID": "bl2cpdp",
       "Name": "Beans-Eye",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_39",
       "SetID": "bl2cpdp",
       "Name": "Good to Grow",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_4",
@@ -311,15 +316,15 @@
       "Name": "Snack Time",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_40",
       "SetID": "bl2cpdp",
       "Name": "Build-A-Buddy",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_41",
@@ -327,23 +332,23 @@
       "Name": "Myth Maker",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_42",
       "SetID": "bl2cpdp",
       "Name": "Weeee!",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_43",
       "SetID": "bl2cpdp",
       "Name": "Paradise Paver",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_44",
@@ -351,7 +356,7 @@
       "Name": "Brainz Unattained",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_45",
@@ -373,25 +378,25 @@
       "ID": "achievement_47",
       "SetID": "bl2cpdp",
       "Name": "Giddy Up",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_48",
       "SetID": "bl2cpdp",
       "Name": "Midnight Jog",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_49",
       "SetID": "bl2cpdp",
       "Name": "Science Friction",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_5",
@@ -399,15 +404,15 @@
       "Name": "Popped!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_50",
       "SetID": "bl2cpdp",
       "Name": "Tornado Fandango",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_6",
@@ -415,45 +420,45 @@
       "Name": "Zest of the Best",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_7",
       "SetID": "bl2cpdp",
       "Name": "Comin\u0027 up Roses",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_8",
       "SetID": "bl2cpdp",
       "Name": "Mind the Cap",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_9",
       "SetID": "bl2cpdp",
       "Name": "Barbecue, Anyone?",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "bl2cpdp",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-12T13:02:54.2996314+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:57.1363121+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:07:57.136307+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:01:58.067703+00:00",
   "LastUpdate_AppInfo": "2024-07-19T04:57:02.6634599+00:00",
   "LastUpdate_Ratings": "2024-07-25T17:58:56.2656004+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:07:57.1371881+00:00"
+  "LastUpdate_Achievements": "2024-07-25T19:01:58.0684239+00:00"
 }

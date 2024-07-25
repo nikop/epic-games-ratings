@@ -2,9 +2,9 @@
   "ID": "b2883057687b4323bef2f2619f95b52c",
   "Name": "Unescape?",
   "ProductSlug": "unescape-4663c6",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-04-18T02:15:05.335+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-19T19:57:07.0587926+00:00",
   "LastUpdate_AppInfo": "2024-07-25T09:56:59.9264448+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:16.4891872+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:17.9804085+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:17.8081013+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:02:04.5416197+00:00"
 }

@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Choo-choo! | 0.10% | ~568 |
 | Customized calamities | 0.10% | ~568 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 567,650 (Ranked 43)  
-Completed: 107 (0.02%) (Ranked 471)  
+Progressed: 567,650 (Ranked 45)  
+Completed: 107 (0.02%) (Ranked 475)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -354,12 +354,12 @@ Completed: 107 (0.02%) (Ranked 471)
 | 2024-04-10 | 546,678 | 88 |
 | 2024-06-17 | 567,650 | 107 |
 ## Awards
-Max (Great for Beginners): 410  (Ranked 273)  
-Sum: 2,015 (Ranked 244)  
+Max (Great for Beginners): 413  (Ranked 273)  
+Sum: 2,018 (Ranked 244)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 410 |
+| This game is Great for Beginners | 413 |
 | This game is Extremely Fun | 316 |
 | This game has Quickly Understood Controls | 294 |
 | This game is Highly Recommended | 286 |
@@ -743,3 +743,4 @@ Diff (max vs sum): 29
 | 2024-07-20 | 4.38 | - | 410 | 2,012 |
 | 2024-07-21 | 4.38 | - | 410 | 2,013 |
 | 2024-07-23 | 4.38 | - | 410 | 2,015 |
+| 2024-07-25 | 4.38 | - | 413 | 2,018 |

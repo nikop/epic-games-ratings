@@ -16,16 +16,16 @@
 | Persephone's Guidance | 4.00% | ~197 |
 | Eidola | 4.00% | ~197 |
 | Reign in Blood | 4.00% | ~197 |
-| Pillars of Eternity | 3.00% | ~147 |
-| Immolator | 3.00% | ~147 |
-| War Chest | 3.00% | ~147 |
-| Chthonic Investor | 3.00% | ~147 |
-| Symbols of Heresy | 3.00% | ~147 |
-| The Sons of Minos | 3.00% | ~147 |
-| Sisters of the Pantheon | 3.00% | ~147 |
-| Siege Unit | 3.00% | ~147 |
-| Divine Assemblage | 3.00% | ~147 |
-| Ophiolatreia | 3.00% | ~147 |
+| Pillars of Eternity | 3.00% | ~148 |
+| Immolator | 3.00% | ~148 |
+| War Chest | 3.00% | ~148 |
+| Chthonic Investor | 3.00% | ~148 |
+| Symbols of Heresy | 3.00% | ~148 |
+| The Sons of Minos | 3.00% | ~148 |
+| Sisters of the Pantheon | 3.00% | ~148 |
+| Siege Unit | 3.00% | ~148 |
+| Divine Assemblage | 3.00% | ~148 |
+| Ophiolatreia | 3.00% | ~148 |
 | Comedy and Tragedy | 2.00% | ~98 |
 | Forged in Fire | 2.00% | ~98 |
 | The Midas Touch | 2.00% | ~98 |
@@ -68,8 +68,8 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,914 (Ranked 260)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 4,917 (Ranked 261)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,6 +336,7 @@ Completed: 0 (0.00%) (Ranked 513)
 | 2024-04-10 | 4,423 | 0 |
 | 2024-06-17 | 4,842 | 0 |
 | 2024-07-24 | 4,914 | 0 |
+| 2024-07-25 | 4,917 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

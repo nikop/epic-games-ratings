@@ -2,9 +2,9 @@
   "ID": "e42faa3ca424411db871181e13664ef3",
   "Name": "Dungeons of Hinterberg",
   "ProductSlug": "dungeons-of-hinterberg-854b1e",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 750,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-18T14:00:00+00:00",
@@ -25,17 +25,363 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-25T19:01:50.3471296+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-25T19:01:50.3471371+00:00",
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "DOH_ACH_ALTRUIST",
+      "SetID": "b2o6cl8",
+      "Name": "Altruist",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_ANIMALLOVER",
+      "SetID": "b2o6cl8",
+      "Name": "Animal Lover",
+      "Percentage": 32,
+      "XP": 10,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "DOH_ACH_BEGINNERSLAYER",
+      "SetID": "b2o6cl8",
+      "Name": "Beginner Slayer",
+      "Percentage": 15,
+      "XP": 25,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "DOH_ACH_BUDDIES",
+      "SetID": "b2o6cl8",
+      "Name": "Buddies",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "DOH_ACH_CHARMED",
+      "SetID": "b2o6cl8",
+      "Name": "Charmed",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "DOH_ACH_COLLECTOR",
+      "SetID": "b2o6cl8",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_COMPLETIONIST",
+      "SetID": "b2o6cl8",
+      "Name": "Completionist",
+      "Percentage": 2,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_DANCEOFDEATH",
+      "SetID": "b2o6cl8",
+      "Name": "Dance of Death",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "DOH_ACH_DAZZLING",
+      "SetID": "b2o6cl8",
+      "Name": "Dazzling!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_DETECTIVE",
+      "SetID": "b2o6cl8",
+      "Name": "Detective",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_DOUBLETROUBLE",
+      "SetID": "b2o6cl8",
+      "Name": "Double Trouble",
+      "Percentage": 44,
+      "XP": 20,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "DOH_ACH_EFFICIENCY",
+      "SetID": "b2o6cl8",
+      "Name": "Efficiency",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_ENCHANTING",
+      "SetID": "b2o6cl8",
+      "Name": "Enchanting",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_ENVIRONMENTALIST",
+      "SetID": "b2o6cl8",
+      "Name": "Environmentalist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_FRIENDLYOVERTURES",
+      "SetID": "b2o6cl8",
+      "Name": "Friendly Overtures",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_FURRYFRIEND",
+      "SetID": "b2o6cl8",
+      "Name": "Furry Friend",
+      "Percentage": 5,
+      "XP": 35,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "DOH_ACH_GENEROUSSPIRIT",
+      "SetID": "b2o6cl8",
+      "Name": "Generous Spirit",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "DOH_ACH_GROVETROVE",
+      "SetID": "b2o6cl8",
+      "Name": "Grove Trove",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "DOH_ACH_HEARTTOHEART",
+      "SetID": "b2o6cl8",
+      "Name": "Heart to Heart",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_HINTERBERGHERO",
+      "SetID": "b2o6cl8",
+      "Name": "Hinterberg Hero",
+      "Percentage": 2,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_INTERMEDIATESLAYER",
+      "SetID": "b2o6cl8",
+      "Name": "Intermediate Slayer",
+      "Percentage": 5,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "DOH_ACH_INTROVERT",
+      "SetID": "b2o6cl8",
+      "Name": "Introvert",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_JUSTCHILLING",
+      "SetID": "b2o6cl8",
+      "Name": "Just Chilling",
+      "Percentage": 5,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "DOH_ACH_NIGHTOWL",
+      "SetID": "b2o6cl8",
+      "Name": "Night Owl",
+      "Percentage": 7,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "DOH_ACH_RELAXPERT",
+      "SetID": "b2o6cl8",
+      "Name": "Relaxpert",
+      "Percentage": 2,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_RENOWNEDSLAYER",
+      "SetID": "b2o6cl8",
+      "Name": "Renowned Slayer",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_RUNNINGONFUMES",
+      "SetID": "b2o6cl8",
+      "Name": "Running on Fumes",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "DOH_ACH_SHIMMERY",
+      "SetID": "b2o6cl8",
+      "Name": "Shimmery!",
+      "Percentage": 2,
+      "XP": 40,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_SHINY",
+      "SetID": "b2o6cl8",
+      "Name": "Shiny!",
+      "Percentage": 66,
+      "XP": 20,
+      "UsersEstimate": 27
+    },
+    {
+      "ID": "DOH_ACH_SLAYER",
+      "SetID": "b2o6cl8",
+      "Name": "Slayer",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "DOH_ACH_SOCIALBUTTERFLY",
+      "SetID": "b2o6cl8",
+      "Name": "Social Butterfly",
+      "Percentage": 5,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "DOH_ACH_SOCIALITE",
+      "SetID": "b2o6cl8",
+      "Name": "Socialite",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_SOMETHINGROTTEN",
+      "SetID": "b2o6cl8",
+      "Name": "Something Rotten",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_SPARKLY",
+      "SetID": "b2o6cl8",
+      "Name": "Sparkly!",
+      "Percentage": 12,
+      "XP": 30,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "DOH_ACH_STILLSHAKING",
+      "SetID": "b2o6cl8",
+      "Name": "Still Shaking",
+      "Percentage": 76,
+      "XP": 10,
+      "UsersEstimate": 31
+    },
+    {
+      "ID": "DOH_ACH_TOUGHANDBUFF",
+      "SetID": "b2o6cl8",
+      "Name": "Tough and Buff",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_TOWNSURVIVOR",
+      "SetID": "b2o6cl8",
+      "Name": "Town Survivor",
+      "Percentage": 2,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_UNLOCKINGPOTENTIAL",
+      "SetID": "b2o6cl8",
+      "Name": "Unlocking Potential",
+      "Percentage": 2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DOH_ACH_VIRTUOSO",
+      "SetID": "b2o6cl8",
+      "Name": "Virtuoso",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_WATERYOULOOKINGFOR",
+      "SetID": "b2o6cl8",
+      "Name": "Water you looking for?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOH_ACH_WEAREAMUSED",
+      "SetID": "b2o6cl8",
+      "Name": "We Are Amused",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "b2o6cl8",
+      "IsBase": true,
+      "Progressed": 41,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-07-18T22:59:01.1232972+00:00",
+  "FirstSeenAchievements": "2024-07-25T19:01:50.347137+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:01:50.3471292+00:00",
   "LastUpdate_AppInfo": "2024-07-23T10:57:13.433891+00:00",
-  "LastUpdate_Ratings": "2024-07-25T16:59:42.4976452+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:57:35.3177498+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:01:50.3479059+00:00"
 }

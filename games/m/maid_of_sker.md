@@ -36,8 +36,8 @@ Rating: 4.18 (Ranked 1,098)
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 508 (Ranked 443)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 508 (Ranked 444)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

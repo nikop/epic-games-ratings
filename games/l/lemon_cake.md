@@ -22,8 +22,8 @@
 | Swing The Broom | 7.00% | ~19 |
 | A Loving Home | 6.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 518)  
-Completed: 3 (1.11%) (Ranked 225)  
+Progressed: 271 (Ranked 519)  
+Completed: 3 (1.11%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

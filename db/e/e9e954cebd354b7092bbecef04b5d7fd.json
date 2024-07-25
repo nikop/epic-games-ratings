@@ -2,9 +2,9 @@
   "ID": "e9e954cebd354b7092bbecef04b5d7fd",
   "Name": "Trepang2",
   "ProductSlug": "trepang2-5c229f",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-25T09:00:00+00:00",
@@ -33,5 +33,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T09:56:59.1104197+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:58:08.3881564+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:59:52.0592293+00:00"
 }

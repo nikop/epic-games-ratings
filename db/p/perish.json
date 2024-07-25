@@ -2,9 +2,9 @@
   "ID": "b589bb7fbc204ee59d363b9fb4ef0a41",
   "Name": "PERISH",
   "ProductSlug": "perish-390141",
-  "Ranking_EOS_Progress": 260,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 12,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4914,
+  "EOS_Progressed": 4917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5071,6 +5071,11 @@
       "Time": "2024-07-24T02:04:41.5513805+00:00",
       "NumProgressed": 4914,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-25T19:06:07.8377788+00:00",
+      "NumProgressed": 4917,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -5106,7 +5111,7 @@
       "Name": "Pillars of Eternity",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_B_KK",
@@ -5130,7 +5135,7 @@
       "Name": "Immolator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_FH",
@@ -5226,7 +5231,7 @@
       "Name": "War Chest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_M_D3",
@@ -5234,7 +5239,7 @@
       "Name": "Chthonic Investor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_M_D4",
@@ -5298,7 +5303,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_OB_BR",
@@ -5330,7 +5335,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_OB_CS",
@@ -5338,7 +5343,7 @@
       "Name": "Sisters of the Pantheon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_OB_DS",
@@ -5354,7 +5359,7 @@
       "Name": "Siege Unit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_OB_FC",
@@ -5394,7 +5399,7 @@
       "Name": "Divine Assemblage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_OB_PR",
@@ -5450,7 +5455,7 @@
       "Name": "Ophiolatreia",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_OT",
@@ -5585,7 +5590,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 4914,
+      "Progressed": 4917,
       "Completed": 0
     }
   ],
@@ -5593,8 +5598,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-07-24T02:04:41.5513799+00:00",
+  "LastChanged_Achievements": "2024-07-25T19:06:07.8377785+00:00",
   "LastUpdate_AppInfo": "2024-07-21T17:56:55.4617295+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:58.3749509+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:04:41.5514552+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:59:41.4697455+00:00",
+  "LastUpdate_Achievements": "2024-07-25T19:06:07.8378364+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "cd69fe35f5af4b3eafcc8e5e837c0f2b",
   "Name": "Romopolis",
   "ProductSlug": "romopolis-49e1bf",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-07-10T16:00:00+00:00",
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:57:52.5295393+00:00",
   "LastUpdate_AppInfo": "2024-07-19T10:57:13.6385981+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:57:43.719111+00:00"
+  "LastUpdate_Ratings": "2024-07-25T18:59:25.9287245+00:00"
 }

@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 67.00% | ~105 |
-| Good to grow | 53.00% | ~83 |
-| Ay ay yarrr! | 37.00% | ~58 |
-| Shine bright | 33.00% | ~51 |
-| Fashionista | 29.00% | ~45 |
-| Graduated | 29.00% | ~45 |
-| Irrigation not irritation | 29.00% | ~45 |
-| Peaceful skies | 18.00% | ~28 |
+| So it begins | 66.00% | ~104 |
+| Good to grow | 53.00% | ~84 |
+| Ay ay yarrr! | 39.00% | ~62 |
+| Shine bright | 34.00% | ~54 |
+| Graduated | 29.00% | ~46 |
+| Irrigation not irritation | 29.00% | ~46 |
+| Fashionista | 28.00% | ~44 |
+| Peaceful skies | 19.00% | ~30 |
 | Night Shift | 17.00% | ~27 |
-| There be sand in me shorts | 14.00% | ~22 |
-| C'who? | 10.00% | ~16 |
-| Make it rain | 10.00% | ~16 |
+| There be sand in me shorts | 15.00% | ~24 |
+| C'who? | 11.00% | ~17 |
+| Make it rain | 11.00% | ~17 |
+| Holy Crops! | 9.00% | ~14 |
 | It's about the journey | 9.00% | ~14 |
-| Holy Crops! | 8.00% | ~12 |
+| Who let the pets out? | 6.00% | ~9 |
+| It's a bug's life | 6.00% | ~9 |
+| Do you wanna build a snowboiii? | 6.00% | ~9 |
 | It gets everywhere | 6.00% | ~9 |
-| It's a bug's life | 5.00% | ~8 |
-| Do you wanna build a snowboiii? | 5.00% | ~8 |
-| Who let the pets out? | 4.00% | ~6 |
+| I am Root! | 5.00% | ~8 |
+| V is for Vegan | 5.00% | ~8 |
 | Free Spirit | 4.00% | ~6 |
-| I am Root! | 4.00% | ~6 |
-| V is for Vegan | 4.00% | ~6 |
+| Zap! | 4.00% | ~6 |
 | Groovy! | 3.00% | ~5 |
-| Zap! | 3.00% | ~5 |
-| Veggie Master | 1.00% | ~2 |
+| Veggie Master | 2.00% | ~3 |
+| Daddy Issues | 2.00% | ~3 |
+| Yeehaw! | 2.00% | ~3 |
 | Homecoming | 1.00% | ~2 |
-| Daddy Issues | 1.00% | ~2 |
-| Yeehaw! | 1.00% | ~2 |
 | Tururururu! | 1.00% | ~2 |
+| Best in the field | 1.00% | ~2 |
 | Yeetus Deletus | 0.60% | ~1 |
-| Best in the field | 0.60% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 581)  
-Completed: 0 (0.00%) (Ranked 513)  
+Progressed: 158 (Ranked 579)  
+Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 513)
 | 2024-01-18 | 127 | 0 |
 | 2024-03-21 | 147 | 0 |
 | 2024-06-17 | 156 | 0 |
+| 2024-07-25 | 158 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

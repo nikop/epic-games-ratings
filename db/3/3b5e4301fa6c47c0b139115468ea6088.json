@@ -2,9 +2,9 @@
   "ID": "3b5e4301fa6c47c0b139115468ea6088",
   "Name": "Wizened Dream",
   "ProductSlug": "wizened-dream-ec61c3",
-  "Ranking_EOS_Progress": 882,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 891,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-02-17T00:00:00+00:00",
@@ -141,6 +141,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:18.4536774+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:55.6663557+00:00",
   "LastUpdate_AppInfo": "2024-07-25T04:57:12.4474108+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:00:04.4538287+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:57:50.0629519+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:55.667046+00:00"
 }

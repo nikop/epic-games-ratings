@@ -62,7 +62,7 @@ Number of Ratings: 401  (23.09.2022)
 | Ten Years at Zee | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 52,242 (Ranked 159)  
-Completed: 4 (0.01%) (Ranked 489)  
+Completed: 4 (0.01%) (Ranked 491)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,8 +349,8 @@ Completed: 4 (0.01%) (Ranked 489)
 | 2024-06-17 | 52,242 | 4 |
 ## Awards
 Max (Character Customization): 239  (Ranked 329)  
-Sum: 412 (Ranked 408)  
-Diff (max vs sum): -79  
+Sum: 412 (Ranked 407)  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 239 |

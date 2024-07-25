@@ -380,8 +380,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mayapahit? | 0.00% | ~0 |
 | Veritas Vincit | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 570,109 (Ranked 42)  
-Completed: 5 (0.00%) (Ranked 513)  
+Progressed: 570,109 (Ranked 43)  
+Completed: 5 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -669,19 +669,19 @@ Completed: 5 (0.00%) (Ranked 513)
 | 2024-06-17 | 570,109 | 5 |
 ## Awards
 Max (Educational): 10,358  (Ranked 52)  
-Sum: 84,883 (Ranked 27)  
+Sum: 84,912 (Ranked 27)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 10,358 |
-| This game has Diverse Characters | 10,253 |
+| This game has Diverse Characters | 10,273 |
 | This game is Highly Recommended | 9,923 |
 | This game has Challenging Combat | 9,796 |
 | This game is Extremely Fun | 9,514 |
 | This game is Relaxing | 9,415 |
 | This game has Competitive Players | 9,190 |
 | This game has Amazing Storytelling | 8,575 |
-| This game has Amazing Characters | 7,859 |
+| This game has Amazing Characters | 7,868 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -1241,4 +1241,4 @@ Diff (max vs sum): 25
 | 2024-07-22 | 4.68 | - | 10,319 | 84,606 |
 | 2024-07-23 | 4.68 | - | 10,328 | 84,702 |
 | 2024-07-24 | 4.68 | - | 10,345 | 84,818 |
-| 2024-07-25 | 4.68 | - | 10,358 | 84,883 |
+| 2024-07-25 | 4.68 | - | 10,358 | 84,912 |

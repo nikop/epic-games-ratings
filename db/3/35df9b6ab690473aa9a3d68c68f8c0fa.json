@@ -2,9 +2,9 @@
   "ID": "35df9b6ab690473aa9a3d68c68f8c0fa",
   "Name": "Below Level",
   "ProductSlug": "below-level-0fc26f",
-  "Ranking_EOS_Progress": 1091,
-  "Ranking_EOS_Completed": 513,
-  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
   "Store": {
     "ReleaseDate": "2024-06-29T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-20T22:56:53.4812943+00:00",
-  "LastUpdate_Ratings": "2024-07-25T17:01:22.4444667+00:00",
+  "LastUpdate_Ratings": "2024-07-25T18:58:42.3717873+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:58.8303701+00:00"
 }
