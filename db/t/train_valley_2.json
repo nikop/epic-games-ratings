@@ -6993,10 +6993,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 3021,
       "NumberOfAwardsMax": 1350
+    },
+    {
+      "Time": "2024-07-26T14:58:33.9135891+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 3022,
+      "NumberOfAwardsMax": 1350
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3021,
+  "NumberOfAwards": 3022,
   "NumberOfAwardsMax": 1350,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -7058,7 +7064,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 126
+      "Count": 127
     },
     {
       "Text": "This game has Amazing Characters",
@@ -31704,9 +31710,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-07-26T11:57:23.8351065+00:00",
+  "LastChanged": "2024-07-26T14:58:33.913589+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:10.0921099+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:58:10.4925694+00:00",
-  "LastUpdate_Ratings": "2024-07-26T13:05:17.0316654+00:00",
+  "LastUpdate_Ratings": "2024-07-26T14:58:33.9135894+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:10.0923317+00:00"
 }
