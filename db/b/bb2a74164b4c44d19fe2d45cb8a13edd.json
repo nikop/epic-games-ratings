@@ -2,9 +2,9 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 816,
-  "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 476,
+  "Ranking_Rating": 794,
+  "Ranking_Popularity": 544,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2024-07-11T18:57:10.0452281+00:00",
@@ -432,12 +432,18 @@
       "Rating": 4.42,
       "NumberOfAwards": 223,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-07-26T01:55:44.3952792+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 269,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 223,
-  "NumberOfAwardsMax": 44,
-  "MaxAwardTitle": "Relaxing",
+  "NumberOfAwards": 269,
+  "NumberOfAwardsMax": 45,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Relaxing",
@@ -455,7 +461,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 39
+      "Count": 45
     },
     {
       "Text": "This game has a Creative Community",
@@ -479,7 +485,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29
+      "Count": 40
     }
   ],
   "EOS_Progressed": 0,
@@ -494,8 +500,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-07-25T19:57:46.7213034+00:00",
+  "LastChanged": "2024-07-26T01:55:44.3952791+00:00",
   "LastUpdate_AppInfo": "2024-07-25T01:56:02.5700625+00:00",
-  "LastUpdate_Ratings": "2024-07-25T22:58:18.257689+00:00",
+  "LastUpdate_Ratings": "2024-07-26T01:55:44.3952795+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.1043605+00:00"
 }
