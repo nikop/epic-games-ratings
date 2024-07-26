@@ -2,7 +2,7 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 919,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 675,
   "Ranking_EOS_Progress": 302,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:07.236765+00:00",
@@ -503,6 +503,12 @@
     {
       "Time": "2024-07-24T21:59:13.5112004+00:00",
       "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-26T18:57:55.7018427+00:00",
+      "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3789,9 +3795,9 @@
   "FirstSeen": "2023-03-11T06:58:06.4643937+00:00",
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
-  "LastChanged": "2024-07-24T21:59:13.5112002+00:00",
+  "LastChanged": "2024-07-26T18:57:55.7018425+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:48.0399137+00:00",
   "LastUpdate_AppInfo": "2024-07-22T01:59:55.878266+00:00",
-  "LastUpdate_Ratings": "2024-07-26T16:59:27.798544+00:00",
+  "LastUpdate_Ratings": "2024-07-26T18:57:55.7018432+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:48.0399592+00:00"
 }

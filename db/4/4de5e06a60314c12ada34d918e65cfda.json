@@ -3,7 +3,7 @@
   "Name": "Crosshair V2",
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 883,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
@@ -1002,24 +1002,30 @@
       "Rating": 4.38,
       "NumberOfAwards": 418,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-07-26T18:58:10.93791+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 427,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 418,
-  "NumberOfAwardsMax": 112,
+  "NumberOfAwards": 427,
+  "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 112
+      "Count": 119
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1076,8 +1082,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-07-26T11:59:04.2718567+00:00",
+  "LastChanged": "2024-07-26T18:58:10.9379098+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:31.4500982+00:00",
-  "LastUpdate_Ratings": "2024-07-26T16:59:49.091233+00:00",
+  "LastUpdate_Ratings": "2024-07-26T18:58:10.9379102+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:54.1629684+00:00"
 }

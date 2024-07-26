@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 38,
@@ -7562,10 +7562,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4160,
       "NumberOfAwardsMax": 512
+    },
+    {
+      "Time": "2024-07-26T18:59:44.2188206+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4161,
+      "NumberOfAwardsMax": 512
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4160,
+  "NumberOfAwards": 4161,
   "NumberOfAwardsMax": 512,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -7579,7 +7585,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 433
+      "Count": 434
     },
     {
       "Text": "This game has Competitive Players",
@@ -40452,9 +40458,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-07-26T07:57:46.6930203+00:00",
+  "LastChanged": "2024-07-26T18:59:44.2188205+00:00",
   "LastChanged_Achievements": "2024-07-24T02:04:04.2131111+00:00",
   "LastUpdate_AppInfo": "2024-07-22T04:57:14.968395+00:00",
-  "LastUpdate_Ratings": "2024-07-26T17:57:39.8148771+00:00",
+  "LastUpdate_Ratings": "2024-07-26T18:59:44.218821+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:04:04.213272+00:00"
 }

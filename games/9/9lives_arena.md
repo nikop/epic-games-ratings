@@ -1,7 +1,7 @@
 # 9Lives Arena
 [Store](https://store.epicgames.com/en-US/p/9lives-arena-fb6229)  
 [View Rawdata](../../db/9/9lives_arena.json)  
-Rating: 4.53 (Ranked 610)  
+Rating: 4.52 (Ranked 628)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -131,3 +131,4 @@ Diff (max vs sum): 70
 | 2024-07-20 | 4.53 | 38 | 171 |
 | 2024-07-22 | 4.53 | 38 | 191 |
 | 2024-07-24 | 4.53 | 38 | 192 |
+| 2024-07-26 | 4.52 | 38 | 192 |

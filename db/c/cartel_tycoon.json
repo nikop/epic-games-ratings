@@ -2,7 +2,7 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 883,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 675,
   "Ranking_EOS_Progress": 361,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "NumberOfRatings": 101,
   "RatingHistory": [
     {
@@ -353,6 +353,12 @@
     {
       "Time": "2024-07-21T19:57:15.0195631+00:00",
       "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-26T19:00:20.8208056+00:00",
+      "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4084,9 +4090,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
-  "LastChanged": "2024-07-21T19:57:15.0195629+00:00",
+  "LastChanged": "2024-07-26T19:00:20.8208054+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:08.3109699+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:19.6952528+00:00",
-  "LastUpdate_Ratings": "2024-07-26T17:58:15.4899379+00:00",
+  "LastUpdate_Ratings": "2024-07-26T19:00:20.8208061+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:08.3109973+00:00"
 }
