@@ -2,7 +2,7 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 610,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 413,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 140,
@@ -2529,10 +2529,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 953,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2024-07-26T21:57:41.3717699+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 954,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 953,
+  "NumberOfAwards": 954,
   "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2588,7 +2594,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 110
+      "Count": 111
     },
     {
       "Text": "This game has Amazing Characters",
@@ -34284,9 +34290,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-07-26T19:58:56.1168751+00:00",
+  "LastChanged": "2024-07-26T21:57:41.3717697+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:56.4858519+00:00",
   "LastUpdate_AppInfo": "2024-07-21T17:56:58.5994291+00:00",
-  "LastUpdate_Ratings": "2024-07-26T19:58:56.1168756+00:00",
+  "LastUpdate_Ratings": "2024-07-26T21:57:41.3717703+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:56.4860786+00:00"
 }
