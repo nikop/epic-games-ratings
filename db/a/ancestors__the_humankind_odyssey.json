@@ -4,7 +4,7 @@
   "ProductSlug": "ancestors",
   "Ranking_Rating": 500,
   "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 479,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -790,10 +790,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 217,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-07-26T16:59:42.8520153+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 261,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 217,
+  "NumberOfAwards": 261,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -801,7 +807,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 44
     },
     {
       "Text": "This game is Educational",
@@ -863,8 +869,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2024-07-17T01:57:41.8755709+00:00",
+  "LastChanged": "2024-07-26T16:59:42.8520151+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:29.9203125+00:00",
-  "LastUpdate_Ratings": "2024-07-26T15:00:07.7026244+00:00",
+  "LastUpdate_Ratings": "2024-07-26T16:59:42.8520155+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:11.8744965+00:00"
 }
