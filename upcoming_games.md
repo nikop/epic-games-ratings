@@ -642,6 +642,7 @@
 | [THE DARK SIDE OF CECLON](games/5/539015909ce942109cddcbfd3006a29b.md) | 2099-01-01 | - |  | - | - |
 | [The Dead Await](games/t/the_dead_await.md) | 2099-01-01 | - |  | - | - |
 | [The Eightfold Path](games/3/32aff53b2ea849249541da8da6d6592a.md) | 2099-01-01 | - |  | - | - |
+| [The End of the Sun](games/6/69569d1b9145402f8e557bd1baed7343.md) | 2099-01-01 | - |  | - | - |
 | [The Fold Ingression](games/t/the_fold_ingression.md) | 2099-01-01 | - |  | - | - |
 | [The Golden Eyed Ghosts](games/t/the_golden_eyed_ghosts.md) | 2099-01-01 | - |  | - | - |
 | [The Last Three](games/b/b4c33404eb6f4c7c938efb3ca8f0c264.md) | 2099-01-01 | - |  | - | - |
