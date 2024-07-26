@@ -2,7 +2,7 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 946,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 674,
   "Ranking_PopularitySum": 674,
   "Ranking_EOS_Progress": 234,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "NumberOfRatings": 177,
   "RatingHistory": [
     {
@@ -447,6 +447,12 @@
     {
       "Time": "2024-07-10T13:11:19.3778818+00:00",
       "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-26T07:57:15.0508416+00:00",
+      "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -9921,9 +9927,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
-  "LastChanged": "2024-07-10T13:11:19.3778816+00:00",
+  "LastChanged": "2024-07-26T07:57:15.0508414+00:00",
   "LastChanged_Achievements": "2024-07-24T02:05:18.5637829+00:00",
   "LastUpdate_AppInfo": "2024-07-21T13:57:10.6432739+00:00",
-  "LastUpdate_Ratings": "2024-07-26T05:58:31.7111843+00:00",
+  "LastUpdate_Ratings": "2024-07-26T07:57:15.050842+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:05:18.5638822+00:00"
 }

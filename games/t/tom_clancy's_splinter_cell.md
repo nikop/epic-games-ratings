@@ -1,7 +1,7 @@
 # Tom Clancy's Splinter Cell
 [Store](https://store.epicgames.com/en-US/p/splinter-cell)  
 [View Rawdata](../../db/t/tom_clancy's_splinter_cell.json)  
-Rating: 4.46 (Ranked 736)  
+Rating: 4.45 (Ranked 751)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -46,3 +46,4 @@ Rating: 4.46 (Ranked 736)
 | 2024-03-31 | 4.44 | 0 | 0 |
 | 2024-04-23 | 4.45 | 0 | 0 |
 | 2024-05-24 | 4.46 | 0 | 0 |
+| 2024-07-26 | 4.45 | 0 | 0 |
