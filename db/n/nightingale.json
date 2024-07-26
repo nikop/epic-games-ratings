@@ -2,7 +2,7 @@
   "ID": "88e8dde0de8f44bdb3580d73e36d4157",
   "Name": "Nightingale",
   "ProductSlug": "nightingale",
-  "Ranking_Rating": 995,
+  "Ranking_Rating": 1008,
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 1102,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.28,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2024-02-22T13:00:08.5312211+00:00",
@@ -1489,6 +1489,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 435,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-07-25T23:59:57.5795529+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 435,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
@@ -1583,9 +1589,9 @@
   "FirstSeen": "2024-02-20T21:58:00.9498176+00:00",
   "FirstSeenRating": "2024-02-22T13:00:08.5312208+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:53.3151044+00:00",
-  "LastChanged": "2024-07-23T23:59:22.2476008+00:00",
+  "LastChanged": "2024-07-25T23:59:57.5795527+00:00",
   "LastChanged_Achievements": "2024-07-09T22:03:47.4577231+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:51.9482475+00:00",
-  "LastUpdate_Ratings": "2024-07-25T22:57:37.2047546+00:00",
+  "LastUpdate_Ratings": "2024-07-25T23:59:57.5795536+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:03:47.457729+00:00"
 }
