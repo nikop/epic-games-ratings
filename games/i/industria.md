@@ -1,7 +1,7 @@
 # INDUSTRIA
 [Store](https://store.epicgames.com/en-US/p/industria)  
 [View Rawdata](../../db/i/industria.json)  
-Rating: 3.83 (Ranked 1,217)  
+Rating: 3.82 (Ranked 1,219)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -41,3 +41,4 @@ Rating: 3.83 (Ranked 1,217)
 | 2024-07-14 | 3.81 | 0 | 0 |
 | 2024-07-21 | 3.82 | 0 | 0 |
 | 2024-07-25 | 3.83 | 0 | 0 |
+| 2024-07-26 | 3.82 | 0 | 0 |
