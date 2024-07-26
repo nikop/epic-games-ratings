@@ -19577,10 +19577,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 37464,
       "NumberOfAwardsMax": 7317
+    },
+    {
+      "Time": "2024-07-26T17:58:24.1990993+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 37522,
+      "NumberOfAwardsMax": 7317
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37464,
+  "NumberOfAwards": 37522,
   "NumberOfAwardsMax": 7317,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -19588,7 +19594,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3037
+      "Count": 3050
     },
     {
       "Text": "This game is Great for Beginners",
@@ -19600,7 +19606,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5944
+      "Count": 5963
     },
     {
       "Text": "This game has a Creative Community",
@@ -19618,7 +19624,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3972
+      "Count": 3988
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19636,7 +19642,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3218
+      "Count": 3228
     },
     {
       "Text": "This game is Relaxing",
@@ -19671,9 +19677,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-07-26T15:59:05.1956874+00:00",
+  "LastChanged": "2024-07-26T17:58:24.1990991+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:43.7587381+00:00",
   "LastUpdate_AppInfo": "2024-07-21T13:57:13.2864033+00:00",
-  "LastUpdate_Ratings": "2024-07-26T15:59:05.1956879+00:00",
+  "LastUpdate_Ratings": "2024-07-26T17:58:24.1990997+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:43.7587416+00:00"
 }
