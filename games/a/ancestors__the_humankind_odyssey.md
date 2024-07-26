@@ -1,11 +1,11 @@
 # Ancestors: The Humankind Odyssey
 [Store](https://store.epicgames.com/en-US/p/ancestors)  
 [View Rawdata](../../db/a/ancestors__the_humankind_odyssey.json)  
-Rating: 4.58 (Ranked 500)  
+Rating: 4.58 (Ranked 499)  
 Number of Ratings: 481  (23.09.2022)  
 ## Awards
 Max (Educational): 48  (Ranked 539)  
-Sum: 261 (Ranked 465)  
+Sum: 262 (Ranked 465)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 74
 | This game has Quickly Understood Controls | 44 |
 | This game is Relaxing | 39 |
 | This game has Amazing Characters | 34 |
-| This game is Highly Recommended | 33 |
+| This game is Highly Recommended | 34 |
 | This game is Extremely Fun | 32 |
 | This game has Amazing Storytelling | 31 |
 | This game has Challenging Combat | 22 |
@@ -131,4 +131,4 @@ Diff (max vs sum): 74
 | 2024-07-15 | 4.57 | - | 48 | 216 |
 | 2024-07-16 | 4.57 | - | 48 | 217 |
 | 2024-07-17 | 4.58 | - | 48 | 217 |
-| 2024-07-26 | 4.58 | - | 48 | 261 |
+| 2024-07-26 | 4.58 | - | 48 | 262 |

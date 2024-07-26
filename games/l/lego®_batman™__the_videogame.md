@@ -1,15 +1,15 @@
 # LEGO® Batman™: The Videogame
 [Store](https://store.epicgames.com/en-US/p/lego-batman)  
 [View Rawdata](../../db/l/lego®_batman™__the_videogame.json)  
-Rating: 4.53 (Ranked 610)  
+Rating: 4.54 (Ranked 583)  
 Number of Ratings: 523  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 221  (Ranked 336)  
-Sum: 221 (Ranked 478)  
+Max (Great Boss Battles): 222  (Ranked 336)  
+Sum: 222 (Ranked 478)  
 Diff (max vs sum): -142  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 221 |
+| This game has Great Boss Battles | 222 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -140,3 +140,4 @@ Diff (max vs sum): -142
 | 2024-07-09 | 4.53 | - | 219 | 219 |
 | 2024-07-17 | 4.53 | - | 220 | 220 |
 | 2024-07-18 | 4.53 | - | 221 | 221 |
+| 2024-07-26 | 4.54 | - | 222 | 222 |

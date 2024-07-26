@@ -2,7 +2,7 @@
   "ID": "933ada2ec45e4184ae840d64c99e0ba9",
   "Name": "Rogue Company",
   "ProductSlug": "rogue-company",
-  "Ranking_Rating": 1008,
+  "Ranking_Rating": 1009,
   "Ranking_Popularity": 80,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 1102,
@@ -15683,10 +15683,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 38187,
       "NumberOfAwardsMax": 6377
+    },
+    {
+      "Time": "2024-07-26T19:59:10.5668033+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 38190,
+      "NumberOfAwardsMax": 6377
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38187,
+  "NumberOfAwards": 38190,
   "NumberOfAwardsMax": 6377,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -15730,7 +15736,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5372
+      "Count": 5375
     },
     {
       "Text": "This game has a Competitive Community",
@@ -15750,8 +15756,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.1519565+00:00",
-  "LastChanged": "2024-07-26T16:58:58.0966624+00:00",
+  "LastChanged": "2024-07-26T19:59:10.5668031+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:14.1619735+00:00",
-  "LastUpdate_Ratings": "2024-07-26T18:57:34.7342653+00:00",
+  "LastUpdate_Ratings": "2024-07-26T19:59:10.5668038+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:50.5221801+00:00"
 }

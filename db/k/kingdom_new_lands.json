@@ -2,7 +2,7 @@
   "ID": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
   "Name": "Kingdom New Lands",
   "ProductSlug": "kingdom-new-lands",
-  "Ranking_Rating": 628,
+  "Ranking_Rating": 627,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 1102,
@@ -2352,10 +2352,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 886,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2024-07-26T19:57:30.989009+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 887,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 886,
+  "NumberOfAwards": 887,
   "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2393,7 +2399,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2431,8 +2437,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2024-07-26T01:55:45.6629952+00:00",
+  "LastChanged": "2024-07-26T19:57:30.9890089+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:58:07.7866976+00:00",
-  "LastUpdate_Ratings": "2024-07-26T17:58:49.6553734+00:00",
+  "LastUpdate_Ratings": "2024-07-26T19:57:30.9890094+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:59.0780852+00:00"
 }

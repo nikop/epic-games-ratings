@@ -29801,10 +29801,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 968646,
       "NumberOfAwardsMax": 341649
+    },
+    {
+      "Time": "2024-07-26T19:57:51.5566939+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 968723,
+      "NumberOfAwardsMax": 341649
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 968646,
+  "NumberOfAwards": 968723,
   "NumberOfAwardsMax": 341649,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -29866,7 +29872,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 47439
+      "Count": 47516
     },
     {
       "Text": "This game is Relaxing",
@@ -29904,8 +29910,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-07-26T17:59:10.3072197+00:00",
+  "LastChanged": "2024-07-26T19:57:51.5566934+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:50.9444371+00:00",
-  "LastUpdate_Ratings": "2024-07-26T17:59:10.3072204+00:00",
+  "LastUpdate_Ratings": "2024-07-26T19:57:51.5566943+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:05:31.3815241+00:00"
 }

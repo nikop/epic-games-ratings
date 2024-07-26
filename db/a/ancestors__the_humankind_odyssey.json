@@ -2,7 +2,7 @@
   "ID": "amaranth",
   "Name": "Ancestors: The Humankind Odyssey",
   "ProductSlug": "ancestors",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 1102,
@@ -796,10 +796,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 261,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-07-26T19:59:42.453833+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 262,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261,
+  "NumberOfAwards": 262,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -849,7 +855,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -869,8 +875,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2024-07-26T16:59:42.8520151+00:00",
+  "LastChanged": "2024-07-26T19:59:42.4538328+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:29.9203125+00:00",
-  "LastUpdate_Ratings": "2024-07-26T18:58:06.4348553+00:00",
+  "LastUpdate_Ratings": "2024-07-26T19:59:42.4538337+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:11.8744965+00:00"
 }
