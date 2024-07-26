@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 963,
   "Ranking_Popularity": 610,
-  "Ranking_PopularitySum": 498,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -3044,6 +3044,6 @@
   "LastChanged": "2024-07-24T01:58:30.3988001+00:00",
   "LastChanged_Achievements": "2024-07-25T19:04:32.1694332+00:00",
   "LastUpdate_AppInfo": "2024-07-24T14:57:13.7607379+00:00",
-  "LastUpdate_Ratings": "2024-07-26T11:58:21.8746683+00:00",
+  "LastUpdate_Ratings": "2024-07-26T13:57:45.5261415+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:32.1694586+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lifemakeoverglobal-1aa05a",
   "Ranking_Rating": 542,
   "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 352,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -2471,10 +2471,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 750,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-07-26T13:59:37.3655168+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 752,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 750,
+  "NumberOfAwards": 752,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2488,7 +2494,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 83
+      "Count": 85
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2563,8 +2569,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-07-26T07:57:29.585198+00:00",
+  "LastChanged": "2024-07-26T13:59:37.3655167+00:00",
   "LastUpdate_AppInfo": "2024-07-24T14:57:19.0416721+00:00",
-  "LastUpdate_Ratings": "2024-07-26T13:02:59.1752411+00:00",
+  "LastUpdate_Ratings": "2024-07-26T13:59:37.3655173+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:52.4865643+00:00"
 }
