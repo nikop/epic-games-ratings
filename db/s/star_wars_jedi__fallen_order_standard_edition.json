@@ -2,7 +2,7 @@
   "ID": "e509c16d53714b13ba8e393966507255",
   "Name": "STAR WARS Jedi: Fallen Order Standard Edition",
   "ProductSlug": "star-wars-jedi-fallen-order",
-  "Ranking_Rating": 262,
+  "Ranking_Rating": 238,
   "Ranking_Popularity": 674,
   "Ranking_PopularitySum": 674,
   "Ranking_EOS_Progress": 137,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2023-01-19T17:57:21.8503864+00:00",
@@ -257,6 +257,12 @@
     {
       "Time": "2024-06-22T02:58:24.6274316+00:00",
       "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-26T09:57:57.3642682+00:00",
+      "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -17920,9 +17926,9 @@
   "FirstSeen": "2022-07-22T20:19:02.6839746+00:00",
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
-  "LastChanged": "2024-06-22T02:58:24.6274314+00:00",
+  "LastChanged": "2024-07-26T09:57:57.364268+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:50.8391437+00:00",
   "LastUpdate_AppInfo": "2024-07-21T13:57:15.3059548+00:00",
-  "LastUpdate_Ratings": "2024-07-26T07:58:44.8310701+00:00",
+  "LastUpdate_Ratings": "2024-07-26T09:57:57.3642686+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:50.8392689+00:00"
 }
