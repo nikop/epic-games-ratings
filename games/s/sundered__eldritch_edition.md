@@ -1,11 +1,11 @@
 # Sundered: Eldritch Edition
 [Store](https://store.epicgames.com/en-US/p/sundered-eldritch-edition)  
 [View Rawdata](../../db/s/sundered__eldritch_edition.json)  
-Rating: 4.60 (Ranked 456)  
+Rating: 4.60 (Ranked 455)  
 Number of Ratings: 181  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 90  (Ranked 457)  
-Sum: 90 (Ranked 554)  
+Max (Great Boss Battles): 90  (Ranked 458)  
+Sum: 90 (Ranked 555)  
 Diff (max vs sum): -97  
 | Award | Count |
 | ----- | ----- |

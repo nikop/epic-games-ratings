@@ -4,7 +4,7 @@
   "ProductSlug": "ratchet-clank-rift-apart",
   "Ranking_Rating": 237,
   "Ranking_Popularity": 659,
-  "Ranking_PopularitySum": 611,
+  "Ranking_PopularitySum": 610,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -607,12 +607,18 @@
       "Rating": 4.7,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-07-26T02:58:58.3937301+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
+  "NumberOfAwards": 42,
   "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -624,7 +630,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -639,8 +645,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-26T17:57:55.6867011+00:00",
   "FirstSeenRating": "2023-07-30T10:57:29.073595+00:00",
-  "LastChanged": "2024-07-24T14:58:00.1353678+00:00",
+  "LastChanged": "2024-07-26T02:58:58.3937299+00:00",
   "LastUpdate_AppInfo": "2024-07-25T06:57:09.7927218+00:00",
-  "LastUpdate_Ratings": "2024-07-26T00:00:00.2335626+00:00",
+  "LastUpdate_Ratings": "2024-07-26T02:58:58.3937305+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:53.0910034+00:00"
 }
