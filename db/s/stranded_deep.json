@@ -4,7 +4,7 @@
   "ProductSlug": "stranded-deep",
   "Ranking_Rating": 1065,
   "Ranking_Popularity": 313,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -3931,10 +3931,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1385,
       "NumberOfAwardsMax": 274
+    },
+    {
+      "Time": "2024-07-26T05:00:23.064194+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1386,
+      "NumberOfAwardsMax": 274
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1385,
+  "NumberOfAwards": 1386,
   "NumberOfAwardsMax": 274,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3948,7 +3954,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4010,8 +4016,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-07-26T01:58:17.9174236+00:00",
+  "LastChanged": "2024-07-26T05:00:23.0641938+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:20.324819+00:00",
-  "LastUpdate_Ratings": "2024-07-26T03:58:04.9514528+00:00",
+  "LastUpdate_Ratings": "2024-07-26T05:00:23.0641943+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:02:31.797861+00:00"
 }
