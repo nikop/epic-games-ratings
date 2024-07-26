@@ -2,7 +2,7 @@
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
-  "Ranking_Rating": 46,
+  "Ranking_Rating": 47,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 1102,
@@ -7022,10 +7022,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3621,
       "NumberOfAwardsMax": 453
+    },
+    {
+      "Time": "2024-07-26T06:59:20.7502216+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3622,
+      "NumberOfAwardsMax": 453
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3621,
+  "NumberOfAwards": 3622,
   "NumberOfAwardsMax": 453,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7087,7 +7093,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 281
+      "Count": 282
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7113,8 +7119,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-07-25T20:57:34.2342953+00:00",
+  "LastChanged": "2024-07-26T06:59:20.7502214+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:39.8042928+00:00",
-  "LastUpdate_Ratings": "2024-07-26T05:58:00.4006557+00:00",
+  "LastUpdate_Ratings": "2024-07-26T06:59:20.750222+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:34.8701393+00:00"
 }

@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.73 (Ranked 192)  
+Rating: 4.73 (Ranked 193)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
