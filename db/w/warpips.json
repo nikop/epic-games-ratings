@@ -3,7 +3,7 @@
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 797,
-  "Ranking_Popularity": 517,
+  "Ranking_Popularity": 515,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
@@ -1423,18 +1423,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 328,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-07-27T10:58:07.4633541+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 330,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 328,
-  "NumberOfAwardsMax": 57,
+  "NumberOfAwards": 330,
+  "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1458,7 +1464,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1523,9 +1529,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2024-07-27T03:59:21.2255422+00:00",
+  "LastChanged": "2024-07-27T10:58:07.463354+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:52.7946411+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:36.7400323+00:00",
-  "LastUpdate_Ratings": "2024-07-27T09:00:20.2227877+00:00",
+  "LastUpdate_Ratings": "2024-07-27T10:58:07.4633543+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:52.7946447+00:00"
 }
