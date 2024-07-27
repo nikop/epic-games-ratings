@@ -1,7 +1,7 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.24 (Ranked 1,042)  
+Rating: 4.25 (Ranked 1,031)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -195,3 +195,4 @@ Completed: 17 (0.03%) (Ranked 455)
 | 2024-07-14 | 4.22 | - | 0 | 0 |
 | 2024-07-18 | 4.23 | - | 0 | 0 |
 | 2024-07-22 | 4.24 | - | 0 | 0 |
+| 2024-07-27 | 4.25 | - | 0 | 0 |
