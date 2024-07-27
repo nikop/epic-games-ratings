@@ -1,7 +1,7 @@
 # The Stanley Parable
 [Store](https://store.epicgames.com/en-US/p/the-stanley-parable)  
 [View Rawdata](../../db/t/the_stanley_parable.json)  
-Rating: 4.73 (Ranked 194)  
+Rating: 4.72 (Ranked 210)  
 Number of Ratings: 188  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -75,3 +75,4 @@ Number of Ratings: 188  (23.09.2022)
 | 2024-02-04 | 4.73 | - | 0 | 0 |
 | 2024-03-09 | 4.72 | - | 0 | 0 |
 | 2024-03-13 | 4.73 | - | 0 | 0 |
+| 2024-07-27 | 4.72 | - | 0 | 0 |
