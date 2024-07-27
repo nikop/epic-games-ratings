@@ -4,7 +4,7 @@
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 288,
   "Ranking_Popularity": 509,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 491,
   "Ranking_EOS_NewPlayers": 19,
@@ -1340,10 +1340,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 489,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-07-27T22:58:50.3390026+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 441,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 489,
+  "NumberOfAwards": 441,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -33922,9 +33928,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-07-24T01:57:48.1723775+00:00",
+  "LastChanged": "2024-07-27T22:58:50.3390024+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:22.1940243+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:58:16.4887865+00:00",
-  "LastUpdate_Ratings": "2024-07-27T21:00:01.8466997+00:00",
+  "LastUpdate_Ratings": "2024-07-27T22:58:50.3390029+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:22.1941916+00:00"
 }

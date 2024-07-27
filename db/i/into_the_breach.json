@@ -2,7 +2,7 @@
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 61,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 1102,
@@ -5560,10 +5560,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4454,
       "NumberOfAwardsMax": 492
+    },
+    {
+      "Time": "2024-07-27T22:58:35.6769982+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4456,
+      "NumberOfAwardsMax": 492
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4454,
+  "NumberOfAwards": 4456,
   "NumberOfAwardsMax": 492,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5577,7 +5583,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 453
+      "Count": 455
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5657,8 +5663,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-07-27T15:59:56.7514155+00:00",
+  "LastChanged": "2024-07-27T22:58:35.6769981+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:59.9609544+00:00",
-  "LastUpdate_Ratings": "2024-07-27T20:59:46.7585426+00:00",
+  "LastUpdate_Ratings": "2024-07-27T22:58:35.6769985+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:19.0972419+00:00"
 }

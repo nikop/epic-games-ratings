@@ -1,10 +1,10 @@
 # The Elder Scrolls V: Skyrim Special Edition
 [Store](https://store.epicgames.com/en-US/p/skyrim)  
 [View Rawdata](../../db/t/the_elder_scrolls_v__skyrim_special_edition.json)  
-Rating: 4.86 (Ranked 29)  
+Rating: 4.86 (Ranked 28)  
 ## Awards
 Max (Character Customization): 2,093  (Ranked 135)  
-Sum: 4,930 (Ranked 168)  
+Sum: 4,932 (Ranked 168)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -12,8 +12,8 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 468 |
 | This game has Diverse Characters | 412 |
 | This game is Highly Recommended | 328 |
+| This game has Amazing Storytelling | 299 |
 | This game has Amazing Characters | 299 |
-| This game has Amazing Storytelling | 297 |
 | This game is Extremely Fun | 285 |
 | This game has a Creative Community | 253 |
 | This game has Quickly Understood Controls | 249 |
@@ -520,4 +520,4 @@ Diff (max vs sum): -33
 | 2024-07-24 | 4.86 | 2,079 | 4,904 |
 | 2024-07-25 | 4.86 | 2,083 | 4,914 |
 | 2024-07-26 | 4.86 | 2,086 | 4,920 |
-| 2024-07-27 | 4.86 | 2,093 | 4,930 |
+| 2024-07-27 | 4.86 | 2,093 | 4,932 |
