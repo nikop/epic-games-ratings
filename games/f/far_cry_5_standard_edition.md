@@ -1,15 +1,15 @@
 # Far Cry 5 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-5)  
 [View Rawdata](../../db/f/far_cry_5_standard_edition.json)  
-Rating: 4.63 (Ranked 387)  
+Rating: 4.64 (Ranked 367)  
 Number of Ratings: 1,848  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 2,204  (Ranked 128)  
-Sum: 3,553 (Ranked 194)  
-Diff (max vs sum): -66  
+Max (Great Boss Battles): 2,207  (Ranked 128)  
+Sum: 3,556 (Ranked 193)  
+Diff (max vs sum): -65  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,204 |
+| This game has Great Boss Battles | 2,207 |
 | This game is Relaxing | 182 |
 | This game has Quickly Understood Controls | 176 |
 | This game has Amazing Storytelling | 172 |
@@ -556,3 +556,4 @@ Diff (max vs sum): -66
 | 2024-07-24 | 4.64 | - | 2,200 | 3,548 |
 | 2024-07-25 | 4.64 | - | 2,204 | 3,553 |
 | 2024-07-26 | 4.63 | - | 2,204 | 3,553 |
+| 2024-07-27 | 4.64 | - | 2,207 | 3,556 |
