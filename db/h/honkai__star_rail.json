@@ -3,7 +3,7 @@
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
   "Ranking_Rating": 212,
-  "Ranking_Popularity": 15,
+  "Ranking_Popularity": 14,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
@@ -19687,18 +19687,24 @@
       "Rating": 4.72,
       "NumberOfAwards": 268971,
       "NumberOfAwardsMax": 57911
+    },
+    {
+      "Time": "2024-07-27T02:59:59.3889871+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 269195,
+      "NumberOfAwardsMax": 58050
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 268971,
-  "NumberOfAwardsMax": 57911,
+  "NumberOfAwards": 269195,
+  "NumberOfAwardsMax": 58050,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 57911
+      "Count": 58050
     },
     {
       "Text": "This game is Highly Recommended",
@@ -19746,7 +19752,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 14827
+      "Count": 14856
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -19758,7 +19764,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 19622
+      "Count": 19678
     },
     {
       "Text": "This game has a Creative Community",
@@ -19779,8 +19785,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2024-07-26T20:59:01.5207498+00:00",
+  "LastChanged": "2024-07-27T02:59:59.3889869+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:58:08.6332495+00:00",
-  "LastUpdate_Ratings": "2024-07-27T00:01:34.412625+00:00",
+  "LastUpdate_Ratings": "2024-07-27T02:59:59.3889879+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:15.2153276+00:00"
 }
