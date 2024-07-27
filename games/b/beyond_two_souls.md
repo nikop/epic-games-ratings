@@ -1,15 +1,15 @@
 # Beyond Two Souls
 [Store](https://store.epicgames.com/en-US/p/beyond-two-souls)  
 [View Rawdata](../../db/b/beyond_two_souls.json)  
-Rating: 4.68 (Ranked 286)  
+Rating: 4.67 (Ranked 302)  
 Number of Ratings: 348  (23.09.2022)  
 ## Awards
-Max (Impact the Story): 78  (Ranked 480)  
-Sum: 78 (Ranked 565)  
-Diff (max vs sum): -85  
+Max (Impact the Story): 79  (Ranked 476)  
+Sum: 79 (Ranked 564)  
+Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 78 |
+| In this game, your choices Impact the Story | 79 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -123,3 +123,4 @@ Diff (max vs sum): -85
 | 2024-06-24 | 4.67 | - | 77 | 77 |
 | 2024-07-02 | 4.67 | - | 78 | 78 |
 | 2024-07-25 | 4.68 | - | 78 | 78 |
+| 2024-07-27 | 4.67 | - | 79 | 79 |

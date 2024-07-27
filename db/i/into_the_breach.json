@@ -3,7 +3,7 @@
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 63,
-  "Ranking_Popularity": 255,
+  "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
@@ -5542,10 +5542,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4449,
       "NumberOfAwardsMax": 492
+    },
+    {
+      "Time": "2024-07-27T13:05:23.9126463+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4452,
+      "NumberOfAwardsMax": 492
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4449,
+  "NumberOfAwards": 4452,
   "NumberOfAwardsMax": 492,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5595,7 +5601,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 453
+      "Count": 455
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5619,7 +5625,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 327
+      "Count": 328
     },
     {
       "Text": "This game has a Creative Community",
@@ -5639,8 +5645,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-07-26T17:58:26.5232867+00:00",
+  "LastChanged": "2024-07-27T13:05:23.9126462+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:59.9609544+00:00",
-  "LastUpdate_Ratings": "2024-07-27T11:00:21.0809039+00:00",
+  "LastUpdate_Ratings": "2024-07-27T13:05:23.9126468+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:19.0972419+00:00"
 }

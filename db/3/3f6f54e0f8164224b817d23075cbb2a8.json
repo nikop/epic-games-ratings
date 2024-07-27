@@ -2,7 +2,7 @@
   "ID": "3f6f54e0f8164224b817d23075cbb2a8",
   "Name": "Sunless Skies: Sovereign Edition",
   "ProductSlug": "sunless-skies-bb4947",
-  "Ranking_Rating": 841,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 1102,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2024-06-30T03:01:14.9196586+00:00",
@@ -359,6 +359,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 94,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2024-07-27T13:02:57.6224945+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 94,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
@@ -385,7 +391,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-27T18:57:45.3938214+00:00",
   "FirstSeenRating": "2024-06-30T03:01:14.9196581+00:00",
-  "LastChanged": "2024-07-27T05:58:10.9553258+00:00",
+  "LastChanged": "2024-07-27T13:02:57.6224943+00:00",
   "LastUpdate_AppInfo": "2024-07-25T18:56:59.8626437+00:00",
-  "LastUpdate_Ratings": "2024-07-27T10:58:26.6360239+00:00"
+  "LastUpdate_Ratings": "2024-07-27T13:02:57.6224949+00:00"
 }

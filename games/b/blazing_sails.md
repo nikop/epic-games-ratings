@@ -1,17 +1,17 @@
 # Blazing Sails
 [Store](https://store.epicgames.com/en-US/p/blazing-sails)  
 [View Rawdata](../../db/b/blazing_sails.json)  
-Rating: 3.98 (Ranked 1,183)  
+Rating: 3.98 (Ranked 1,182)  
 ## Awards
 Max (Great for Beginners): 801  (Ranked 213)  
-Sum: 4,938 (Ranked 167)  
+Sum: 4,940 (Ranked 167)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 801 |
 | This game is Highly Recommended | 652 |
+| This game has Competitive Players | 624 |
 | This game is Extremely Fun | 622 |
-| This game has Competitive Players | 622 |
 | This game has Amazing Characters | 581 |
 | This game has Quickly Understood Controls | 578 |
 | This game has Amazing Storytelling | 542 |
@@ -300,4 +300,4 @@ Diff (max vs sum): 46
 | 2024-07-24 | 3.98 | 798 | 4,926 |
 | 2024-07-25 | 3.98 | 799 | 4,933 |
 | 2024-07-26 | 3.98 | 801 | 4,937 |
-| 2024-07-27 | 3.98 | 801 | 4,938 |
+| 2024-07-27 | 3.98 | 801 | 4,940 |

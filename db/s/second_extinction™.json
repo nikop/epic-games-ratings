@@ -2,9 +2,9 @@
   "ID": "fcd3387b58864614b66952d0430d2b9a",
   "Name": "Second Extinction\u2122",
   "ProductSlug": "second-extinction",
-  "Ranking_Rating": 1156,
+  "Ranking_Rating": 1158,
   "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 373,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.07,
+  "Rating": 4.06,
   "NumberOfRatings": 617,
   "RatingHistory": [
     {
@@ -1589,18 +1589,24 @@
       "Rating": 4.07,
       "NumberOfAwards": 640,
       "NumberOfAwardsMax": 503
+    },
+    {
+      "Time": "2024-07-27T13:03:36.1024605+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 641,
+      "NumberOfAwardsMax": 504
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 640,
-  "NumberOfAwardsMax": 503,
+  "NumberOfAwards": 641,
+  "NumberOfAwardsMax": 504,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 503
+      "Count": 504
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1652,9 +1658,9 @@
   ],
   "FirstSeen": "2022-07-22T20:33:01.3104454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.2596991+00:00",
-  "LastChanged": "2024-07-20T13:01:42.031487+00:00",
+  "LastChanged": "2024-07-27T13:03:36.1024604+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:43.8796577+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:41.0745232+00:00",
-  "LastUpdate_Ratings": "2024-07-27T10:58:56.183872+00:00",
+  "LastUpdate_Ratings": "2024-07-27T13:03:36.1024609+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:43.8796599+00:00"
 }
