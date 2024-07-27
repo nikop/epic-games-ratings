@@ -1,7 +1,7 @@
 # Twin Mirror
 [Store](https://store.epicgames.com/en-US/p/twin-mirror)  
 [View Rawdata](../../db/t/twin_mirror.json)  
-Rating: 4.27 (Ranked 1,011)  
+Rating: 4.28 (Ranked 1,000)  
 Number of Ratings: 39  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -34,3 +34,4 @@ Number of Ratings: 39  (23.09.2022)
 | 2023-08-03 | 4.25 | - | 0 | 0 |
 | 2024-06-25 | 4.26 | - | 0 | 0 |
 | 2024-07-26 | 4.27 | - | 0 | 0 |
+| 2024-07-27 | 4.28 | - | 0 | 0 |

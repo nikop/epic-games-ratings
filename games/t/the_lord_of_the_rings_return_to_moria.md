@@ -1,7 +1,7 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.42 (Ranked 820)  
+Rating: 4.42 (Ranked 821)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -140,14 +140,14 @@ Completed: 642 (0.15%) (Ranked 377)
 | 2024-06-17 | 422,324 | 642 |
 ## Awards
 Max (Great for Beginners): 1,394  (Ranked 156)  
-Sum: 7,717 (Ranked 136)  
+Sum: 7,718 (Ranked 136)  
 Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,394 |
 | This game is Highly Recommended | 1,056 |
 | This game is Extremely Fun | 1,024 |
-| This game has Amazing Storytelling | 986 |
+| This game has Amazing Storytelling | 987 |
 | This game is Relaxing | 906 |
 | This game has Amazing Characters | 896 |
 | This game has Quickly Understood Controls | 881 |
@@ -428,4 +428,4 @@ Diff (max vs sum): 20
 | 2024-07-24 | 4.42 | 1,386 | 7,699 |
 | 2024-07-25 | 4.42 | 1,389 | 7,706 |
 | 2024-07-26 | 4.42 | 1,394 | 7,714 |
-| 2024-07-27 | 4.42 | 1,394 | 7,717 |
+| 2024-07-27 | 4.42 | 1,394 | 7,718 |

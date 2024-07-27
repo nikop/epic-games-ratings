@@ -1,7 +1,7 @@
 # Fuga: Melodies of Steel
 [Store](https://store.epicgames.com/en-US/p/fuga-melodies-of-steel)  
 [View Rawdata](../../db/f/fuga__melodies_of_steel.json)  
-Rating: 4.67 (Ranked 302)  
+Rating: 4.67 (Ranked 303)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

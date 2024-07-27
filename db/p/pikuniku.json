@@ -2,7 +2,7 @@
   "ID": "c50f4a5c796e4abdbf8025cfbf5cff21",
   "Name": "Pikuniku",
   "ProductSlug": "pikuniku",
-  "Ranking_Rating": 287,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 675,
   "Ranking_EOS_Progress": 1102,
@@ -575,6 +575,6 @@
   "FirstSeen": "2022-07-22T20:25:30.6223242+00:00",
   "LastChanged": "2024-07-14T02:06:46.4856446+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:49.1124299+00:00",
-  "LastUpdate_Ratings": "2024-07-27T17:58:49.4501932+00:00",
+  "LastUpdate_Ratings": "2024-07-27T19:57:00.1097144+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:08.2981056+00:00"
 }
