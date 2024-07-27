@@ -2,7 +2,7 @@
   "ID": "bdefe348a0ae441e84687addee74fd10",
   "Name": "Need for Speed\u2122 Heat Deluxe Edition",
   "ProductSlug": "need-for-speed-heat-ccbf8d",
-  "Ranking_Rating": 403,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 675,
   "Ranking_EOS_Progress": 223,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2024-05-23T16:57:57.3969805+00:00",
@@ -346,6 +346,12 @@
     {
       "Time": "2024-07-24T18:57:26.933409+00:00",
       "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-27T18:57:20.2129315+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -728,9 +734,9 @@
   "FirstSeen": "2024-03-29T12:58:54.8476024+00:00",
   "FirstSeenRating": "2024-05-23T16:57:57.3969802+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9236989+00:00",
-  "LastChanged": "2024-07-24T18:57:26.9334089+00:00",
+  "LastChanged": "2024-07-27T18:57:20.2129313+00:00",
   "LastChanged_Achievements": "2024-07-25T19:02:10.2556336+00:00",
   "LastUpdate_AppInfo": "2024-07-26T01:55:31.3935155+00:00",
-  "LastUpdate_Ratings": "2024-07-27T16:58:56.9439375+00:00",
+  "LastUpdate_Ratings": "2024-07-27T18:57:20.2129319+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:02:10.255671+00:00"
 }

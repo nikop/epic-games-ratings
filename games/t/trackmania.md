@@ -1,11 +1,11 @@
 # Trackmania Starter Access
 [Store](https://store.epicgames.com/en-US/p/trackmania)  
 [View Rawdata](../../db/t/trackmania.json)  
-Rating: 4.64 (Ranked 367)  
+Rating: 4.65 (Ranked 340)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 5,098  (Ranked 91)  
-Sum: 40,685 (Ranked 42)  
+Sum: 40,687 (Ranked 42)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 49
 | This game has Quickly Understood Controls | 4,173 |
 | This game is Relaxing | 4,125 |
 | This game is Extremely Fun | 3,906 |
-| This game is Highly Recommended | 3,741 |
+| This game is Highly Recommended | 3,743 |
 | This game has a Competitive Community | 3,341 |
 | This game has Challenging Combat | 2,542 |
 | This game has Amazing Storytelling | 2,458 |
@@ -575,4 +575,4 @@ Diff (max vs sum): 49
 | 2024-07-24 | 4.64 | - | 5,083 | 40,641 |
 | 2024-07-25 | 4.64 | - | 5,086 | 40,651 |
 | 2024-07-26 | 4.64 | - | 5,092 | 40,670 |
-| 2024-07-27 | 4.64 | - | 5,098 | 40,685 |
+| 2024-07-27 | 4.65 | - | 5,098 | 40,687 |
