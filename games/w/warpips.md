@@ -5,7 +5,7 @@ Rating: 4.43 (Ranked 797)
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 57  (Ranked 517)  
-Sum: 327 (Ranked 436)  
+Sum: 328 (Ranked 436)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +20,7 @@ Diff (max vs sum): 81
 | This game has Competitive Players | 32 |
 | This game has Challenging Combat | 21 |
 | This game has Amazing Characters | 21 |
-| This game has a Creative Community | 20 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -226,3 +226,4 @@ Diff (max vs sum): 81
 | 2024-07-16 | 4.43 | - | 57 | 305 |
 | 2024-07-25 | 4.43 | - | 57 | 325 |
 | 2024-07-26 | 4.43 | - | 57 | 327 |
+| 2024-07-27 | 4.43 | - | 57 | 328 |
