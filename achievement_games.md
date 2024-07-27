@@ -42,7 +42,7 @@
 | [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-19 | 31 (1,000 XP) | 1 | - | - |
 | [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-07-18 | 46 (1,000 XP) | 85 | - | 0 |
 | [Dungeons of Hinterberg](games/e/e42faa3ca424411db871181e13664ef3.md) | 2024-07-18 | 41 (1,000 XP) | 41 | - | 0 |
-| [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 0 | - | - |
+| [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 0 | - | 0 |
 | [Megapolis](games/b/bb41e07f50464edb958e13c6531fe78c.md) | 2024-07-15 | 22 (1,000 XP) | 51 | - | 0 |
 | [Dragon Chronicles: Black Tears](games/6/6ed45680bbff4a6993b7ccebe02a1f9d.md) | 2024-07-15 | 100 (1,000 XP) | 48 | - | 0 |
 | [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2024-07-13 | 33 (1,000 XP) | 11 | - | 0 |
@@ -191,7 +191,7 @@
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 2,608 | 4.61 | 35 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | 41 (1,000 XP) | 437 | - | 0 |
-| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 3.88 | 1,418 |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 3.87 | 1,418 |
 | [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 2024-03-26 | 24 (1,000 XP) | 56 | - | 0 |
 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2024-03-26 | 34 (1,000 XP) | 2 | - | 0 |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 4,203 | - | 0 |
@@ -218,7 +218,7 @@
 | [Medieval Knight](games/6/6ac1cb16aaf949c0aa7ca74c9663665f.md) | 2024-03-11 | 5 (1,000 XP) | 32 | - | - |
 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | 64 (1,000 XP) | 25 | - | 0 |
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 165 | - | 0 |
-| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,301 | 4.23 | 0 |
+| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,301 | 4.26 | 0 |
 | [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 149,122 | 4.72 | 0 |
 | [As Dusk Falls](games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 2024-03-07 | 50 (1,000 XP) | 74 | - | 0 |
 | [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 8 | - | 0 |
@@ -390,7 +390,7 @@
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 41 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 63,725 | 4.84 | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.78 | 805 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.79 | 805 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,322 | 4.59 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 206 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 70 | - | - |
@@ -956,7 +956,7 @@
 | [We Are OFK](games/w/we_are_ofk.md) | 2022-08-18 | 28 (1,000 XP) | 1 | - | 0 |
 | [The Surge 2](games/t/the_surge_2.md) | 2022-08-16 | 57 (1,000 XP) | 3,150 | 4.28 | 0 |
 | [Aragami 2](games/a/aragami_2.md) | 2022-08-12 | 44 (1,000 XP) | 48,808 | 4.54 | 0 |
-| [Arcade Paradise](games/a/arcade_paradise.md) | 2022-08-11 | 54 (1,000 XP) | 789 | 4.33 | 0 |
+| [Arcade Paradise](games/a/arcade_paradise.md) | 2022-08-11 | 54 (1,000 XP) | 789 | 4.34 | 0 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 2022-08-11 | 80 (1,000 XP) | 379,067 | 4.30 | 53 |
 | [Filament](games/f/filament.md) | 2022-08-11 | 29 (1,000 XP) | 217,082 | 4.33 | 607 |
 | [Project Highrise](games/p/project_highrise.md) | 2022-08-11 | 88 (1,000 XP) | 699 | - | 0 |
@@ -1002,7 +1002,7 @@
 | [Outward Definitive Edition](games/o/outward.md) | 2022-05-17 | 42 (1,000 XP) | 6,231 | 4.54 | 37 |
 | [Lamentum](games/l/lamentum.md) | 2022-05-12 | 19 (1,000 XP) | 393 | 4.28 | 0 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 2022-05-12 | 34 (1,000 XP) | 239,243 | 4.49 | 0 |
-| [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 2022-05-12 | 24 (1,000 XP) | 17,145 | 4.74 | 210 |
+| [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 2022-05-12 | 24 (1,000 XP) | 17,145 | 4.74 | 211 |
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 2022-05-10 | 50 (1,000 XP) | 892 | 4.48 | 0 |
 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 2022-05-10 | 53 (1,000 XP) | 69,551 | 4.31 | 1,020 |
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 2022-05-10 | 54 (1,000 XP) | 3,199 | 4.66 | 32 |
@@ -1047,7 +1047,7 @@
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 12,736 | 4.25 | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 190 | - | 0 |
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 784,372 | 4.82 | 8,087 |
-| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,134,738 | 4.59 | 17,793 |
+| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,134,738 | 4.59 | 17,812 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 482 | 4.69 | 55 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,449,954 | 4.77 | 13,233 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 553 | - | 0 |
@@ -1057,7 +1057,7 @@
 | [Unspottable](games/u/unspottable.md) | 2021-12-14 | 25 (1,000 XP) | 16 | - | 0 |
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 12,101 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,095 | - | 0 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 248 (5,965 XP) | 1,461,055 | 4.50 | 50,372 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 248 (5,965 XP) | 1,461,055 | 4.50 | 50,490 |
 | [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 269,490 | 4.61 | 970 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 16 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,648 | 4.47 | 37 |
@@ -1137,7 +1137,7 @@
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 9,080 | 4.65 | 130 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 109 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 503,157 | 4.44 | 291 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.65 | 8,661 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.66 | 8,661 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,446 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,061 | 4.66 | 2,017 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 172,105 |
@@ -1145,7 +1145,7 @@
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,770 | 4.86 | 53 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 59,695 | 4.65 | 446 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 985 | 4.74 | 79 |
-| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,317,628 | 4.55 | 3,759 |
+| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,317,628 | 4.55 | 3,772 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 82,565 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,747 | 4.04 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 518,123 | 4.61 | 113 |

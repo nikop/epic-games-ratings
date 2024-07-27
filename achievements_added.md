@@ -24,7 +24,7 @@
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2024-04-18 | 30 (1,000 XP) | 29 | - | 0 |
 | [Baby Storm](games/c/ce637d3eeee844a8b902d93416b1e40e.md) | 2023-09-07 | 32 (1,000 XP) | 32 | - | 0 |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | 35 (1,000 XP) | 1,910 | 4.05 | 0 |
-| [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 0 | - | - |
+| [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 0 | - | 0 |
 | [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 6 | 4.57 | 0 |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | 31 (1,000 XP) | 608 | - | 0 |
 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 2,299 | 4.57 | 0 |
@@ -127,7 +127,7 @@
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | 14 (1,000 XP) | 17 | - | 0 |
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | 33 (1,000 XP) | 0 | - | 0 |
 | [Sea of Dreams](games/a/a7414e60172b4759a136d064018119c1.md) | 2023-10-17 | 7 (1,000 XP) | 6 | - | 0 |
-| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 3.88 | 1,418 |
+| [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 3.87 | 1,418 |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 58,298 | 3.84 | 98 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 12 | - | 0 |
 | [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | 77 (1,000 XP) | 35 | - | 0 |
@@ -262,7 +262,7 @@
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 3 | - | - |
 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 4 | - | - |
 | [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-02-23 | 10 (1,000 XP) | 56 | - | 0 |
-| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,301 | 4.23 | 0 |
+| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,301 | 4.26 | 0 |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 14 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 40 | - | 0 |
@@ -403,7 +403,7 @@
 | [Dizzy Fight](games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 2023-11-30 | 5 (1,000 XP) | 0 | - | - |
 | [Who's Your Daddy?!](games/6/63d0293742c943d68b88af4173b1a5d0.md) | 2023-11-10 | 28 (1,000 XP) | 1,967 | - | 0 |
 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 2023-11-13 | 34 (1,000 XP) | 425 | - | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.78 | 805 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 88,923 | 4.79 | 805 |
 | [Patrolling Mars](games/e/e8e0954ed50b46458165b250c8a05671.md) | 2023-11-10 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | 17 (1,000 XP) | 1 | - | 0 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 46 | - | 0 |

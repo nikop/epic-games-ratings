@@ -6,7 +6,7 @@
 | [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-19 | 31 (1,000 XP) | 1 | - | - |
 | [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-07-18 | 46 (1,000 XP) | 85 | - | 0 |
 | [Dungeons of Hinterberg](games/e/e42faa3ca424411db871181e13664ef3.md) | 2024-07-18 | 41 (1,000 XP) | 41 | - | 0 |
-| [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 0 | - | - |
+| [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 0 | - | 0 |
 | [Megapolis](games/b/bb41e07f50464edb958e13c6531fe78c.md) | 2024-07-15 | 22 (1,000 XP) | 51 | - | 0 |
 | [Dragon Chronicles: Black Tears](games/6/6ed45680bbff4a6993b7ccebe02a1f9d.md) | 2024-07-15 | 100 (1,000 XP) | 48 | - | 0 |
 | [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2024-07-13 | 33 (1,000 XP) | 11 | - | 0 |
