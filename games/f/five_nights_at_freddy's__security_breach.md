@@ -4,12 +4,12 @@
 Rating: 4.65 (Ranked 341)  
 Number of Ratings: 169  (23.09.2022)  
 ## Awards
-Max (Amazing Characters): 46  (Ranked 543)  
-Sum: 357 (Ranked 427)  
+Max (Amazing Characters): 47  (Ranked 543)  
+Sum: 358 (Ranked 427)  
 Diff (max vs sum): 116  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 46 |
+| This game has Amazing Characters | 47 |
 | This game is Great for Beginners | 45 |
 | This game has Amazing Storytelling | 43 |
 | This game has Quickly Understood Controls | 43 |
@@ -265,4 +265,4 @@ Diff (max vs sum): 116
 | 2024-07-15 | 4.65 | - | 45 | 350 |
 | 2024-07-18 | 4.65 | - | 45 | 351 |
 | 2024-07-23 | 4.65 | - | 46 | 354 |
-| 2024-07-27 | 4.65 | - | 46 | 357 |
+| 2024-07-27 | 4.65 | - | 47 | 358 |
