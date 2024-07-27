@@ -2,7 +2,7 @@
   "ID": "bd12fd574df14846ad24703ca7b1a12b",
   "Name": "Mages of Mystralia",
   "ProductSlug": "mages-of-mystralia",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 1102,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "NumberOfRatings": 693,
   "RatingHistory": [
     {
@@ -592,6 +592,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 174,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-07-27T07:57:12.7393196+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 174,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
@@ -617,8 +623,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
-  "LastChanged": "2024-05-26T01:52:44.0008983+00:00",
+  "LastChanged": "2024-07-27T07:57:12.7393194+00:00",
   "LastUpdate_AppInfo": "2024-07-22T04:57:19.5605249+00:00",
-  "LastUpdate_Ratings": "2024-07-27T05:58:22.5488185+00:00",
+  "LastUpdate_Ratings": "2024-07-27T07:57:12.7393198+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:54.0094934+00:00"
 }
