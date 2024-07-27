@@ -2,7 +2,7 @@
   "ID": "71d19da3678943098859baa9c4c39f95",
   "Name": "A Plague Tale: Innocence",
   "ProductSlug": "a-plague-tale-innocence",
-  "Ranking_Rating": 320,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 1102,
@@ -2930,10 +2930,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4511,
       "NumberOfAwardsMax": 3868
+    },
+    {
+      "Time": "2024-07-27T01:53:51.8669728+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4512,
+      "NumberOfAwardsMax": 3868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4511,
+  "NumberOfAwards": 4512,
   "NumberOfAwardsMax": 3868,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3001,7 +3007,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has a Creative Community",
@@ -3021,8 +3027,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
-  "LastChanged": "2024-07-26T13:04:49.9644703+00:00",
+  "LastChanged": "2024-07-27T01:53:51.8669726+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:51.0379385+00:00",
-  "LastUpdate_Ratings": "2024-07-26T22:58:34.2130823+00:00",
+  "LastUpdate_Ratings": "2024-07-27T01:53:51.8669731+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:52.0146325+00:00"
 }
