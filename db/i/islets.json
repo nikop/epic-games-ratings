@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 211,
   "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 453,
+  "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -856,10 +856,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-07-27T20:57:59.8827181+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 291,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290,
+  "NumberOfAwards": 291,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -909,7 +915,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -930,8 +936,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-07-20T05:58:19.3443968+00:00",
+  "LastChanged": "2024-07-27T20:57:59.8827179+00:00",
   "LastUpdate_AppInfo": "2024-07-22T06:57:10.4919679+00:00",
-  "LastUpdate_Ratings": "2024-07-27T18:59:17.7566626+00:00",
+  "LastUpdate_Ratings": "2024-07-27T20:57:59.8827185+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:54.0109005+00:00"
 }
