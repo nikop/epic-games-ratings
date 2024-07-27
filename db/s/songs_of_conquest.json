@@ -2,7 +2,7 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 598,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 291,
@@ -568,10 +568,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-07-27T14:57:22.5170619+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 280,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279,
+  "NumberOfAwards": 280,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -585,7 +591,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5250,9 +5256,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
-  "LastChanged": "2024-07-03T01:51:33.97937+00:00",
+  "LastChanged": "2024-07-27T14:57:22.5170618+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:46.6799211+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:14.7919413+00:00",
-  "LastUpdate_Ratings": "2024-07-27T13:04:52.367155+00:00",
+  "LastUpdate_Ratings": "2024-07-27T14:57:22.5170621+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:46.680036+00:00"
 }

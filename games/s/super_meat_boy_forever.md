@@ -52,9 +52,9 @@ Completed: 2 (0.00%) (Ranked 515)
 | 2024-04-10 | 514,787 | 0 |
 | 2024-06-17 | 563,197 | 2 |
 ## Awards
-Max (Great Boss Battles): 109  (Ranked 429)  
+Max (Great Boss Battles): 109  (Ranked 430)  
 Sum: 109 (Ranked 538)  
-Diff (max vs sum): -109  
+Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 109 |
