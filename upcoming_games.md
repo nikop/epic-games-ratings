@@ -9,6 +9,7 @@
 | [Kiteboarding](games/a/afd2ae1e0fcf4831898b8033d4986403.md) | 2024-07-31 | - |  | - | - |
 | [Light](games/5/59714a4f6551469ca752fbf4d00a21ad.md) | 2024-07-31 | - |  | - | - |
 | [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2024-07-31 | - |  | - | - |
+| [FlipScapes](games/f/flipscapes.md) | 2024-07-31 | - |  | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2024-08-01 | - |  | - | - |
 | [Sift Heads Rush](games/0/00dc291114184ee8b1f97af9d7ac8d58.md) | 2024-08-01 | - |  | - | - |
 | [Quiztopia : The Ultimate Trivia](games/1/14e5ac79eb304c5d834a9985cd4d127e.md) | 2024-08-01 | 6 (1,000 XP) | 2 | - | - |
@@ -395,7 +396,6 @@
 | [First Dwarf](games/f/first_dwarf.md) | 2099-01-01 | - |  | - | - |
 | [First Jam](games/1/129195ec773340208309213bc6c99f42.md) | 2099-01-01 | - |  | - | - |
 | [Flipper Mechanic Simulator](games/f/flipper_mechanic_simulator.md) | 2099-01-01 | - |  | - | - |
-| [FlipScapes](games/f/flipscapes.md) | 2099-01-01 | - |  | - | - |
 | [Forklift Simulator](games/6/636d5e985fb44d938ce143d2b39957c8.md) | 2099-01-01 | - |  | - | - |
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | 2099-01-01 | - |  | - | - |
 | [FRACTALS OF DESTINY](games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 2099-01-01 | 8 (1,000 XP) | 1 | - | - |
