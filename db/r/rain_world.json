@@ -3,8 +3,8 @@
   "Name": "Rain World",
   "ProductSlug": "rain-world-4c860c",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 637,
-  "Ranking_PopularitySum": 602,
+  "Ranking_Popularity": 632,
+  "Ranking_PopularitySum": 601,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -221,24 +221,30 @@
       "Rating": 4.86,
       "NumberOfAwards": 47,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-07-28T04:59:27.0191109+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 49,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -253,8 +259,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
-  "LastChanged": "2024-07-26T14:58:08.4949875+00:00",
+  "LastChanged": "2024-07-28T04:59:27.0191105+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:53.2110556+00:00",
-  "LastUpdate_Ratings": "2024-07-28T03:57:10.4235876+00:00",
+  "LastUpdate_Ratings": "2024-07-28T04:59:27.0191111+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:19.6123939+00:00"
 }
