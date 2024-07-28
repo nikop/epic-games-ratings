@@ -66,7 +66,7 @@
 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 2024-06-13 | 10 (1,000 XP) | 3 | - | 0 |
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 6 | - | 0 |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | 23 (1,000 XP) | 0 | - | 0 |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 13,765 | 3.68 | 0 |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 13,765 | 3.66 | 0 |
 | [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | 28 (1,000 XP) | 223 | - | 0 |
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | 33 (1,000 XP) | 31 | - | - |
 | [Colorgrid](games/3/37986e23d96545498b42f60c3198b6d3.md) | 2024-06-06 | 7 (1,000 XP) | 93 | - | 0 |
@@ -157,7 +157,7 @@
 | [VIDEOVERSE](games/9/9cfd154729b44c129f0cb8bbdc7ff7bb.md) | 2024-04-19 | 43 (1,000 XP) | 1 | - | 0 |
 | [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-18 | 42 (1,000 XP) | 84 | - | 0 |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2024-04-18 | 30 (1,000 XP) | 29 | - | 0 |
-| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 136,786 | 4.52 | 77 |
+| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 136,786 | 4.53 | 78 |
 | [Evil Seal](games/6/6b627f8704ae454aaec3b576eb965d76.md) | 2024-04-13 | 32 (1,000 XP) | 1 | - | 0 |
 | [Massira](games/1/15b4e5ae7fb345bdb9fe80fe56b67423.md) | 2024-04-12 | 23 (1,000 XP) | 1 | - | - |
 | [Revival: Recolonization](games/4/4ccef3d9b96a4839ab46a6e83ddc6e61.md) | 2024-04-11 | 32 (1,000 XP) | 1 | - | 0 |
@@ -251,12 +251,12 @@
 | [SPACE ELITE FORCE II](games/4/44a7a2096d1049a79433f08ca33f67a6.md) | 2024-02-16 | 69 (1,000 XP) | 65 | - | 0 |
 | [DotLine](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | 42 (1,000 XP) | 31 | - | - |
 | [Pro Basketball Manager 2024](games/e/e93913390878452c9bc11f52aa074cf5.md) | 2024-02-15 | 45 (1,000 XP) | 399 | - | 0 |
-| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 1,852 | 4.64 | 0 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 1,852 | 4.65 | 0 |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2024-02-14 | 35 (1,000 XP) | 2 | - | 0 |
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 27 | - | 0 |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | 63 (1,000 XP) | 87 | - | 0 |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | 31 (1,000 XP) | 124 | - | 0 |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,374 | 4.57 | 159 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,374 | 4.57 | 160 |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 14 | - | 0 |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-08 | 26 (1,000 XP) | 14 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
@@ -426,7 +426,7 @@
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 124 | - | 0 |
 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 2023-10-24 | 31 (1,000 XP) | 116 | - | 0 |
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 67,627 | - | 0 |
-| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 422,324 | 4.42 | 1,394 |
+| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 422,324 | 4.42 | 1,395 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 264 | - | 0 |
 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 34,632 | 4.36 | 0 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 676 | 4.74 | 0 |
@@ -988,7 +988,7 @@
 | [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 83,765 | 4.53 | 0 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 6,867 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,781 | 4.74 | 117 |
-| [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 513 | 4.17 | 0 |
+| [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 513 | 4.18 | 0 |
 | [It Takes Two](games/i/it_takes_two.md) | 2022-06-10 | 20 (1,000 XP) | 189,539 | - | - |
 | [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 6 | 4.56 | 0 |
 | [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 100 (1,420 XP) | 460,258 | 4.48 | 1,368 |
@@ -1064,7 +1064,7 @@
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 632,810 | 4.51 | 149 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 2,782,085 | 4.61 | 14,309 |
 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 2021-11-19 | 34 (1,000 XP) | 181,604 | - | 0 |
-| [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 2021-11-16 | 59 (1,000 XP) | 567,650 | 4.38 | 414 |
+| [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 2021-11-16 | 59 (1,000 XP) | 567,650 | 4.38 | 415 |
 | [Lifeslide](games/l/lifeslide.md) | 2021-11-15 | 31 (1,000 XP) | 386 | - | 0 |
 | [Moonglow Bay](games/m/moonglow_bay.md) | 2021-11-11 | 37 (1,000 XP) | 411 | - | 0 |
 | [Time Loader](games/t/time_loader.md) | 2021-11-03 | 29 (1,000 XP) | 171 | - | 0 |
@@ -1161,7 +1161,7 @@
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 2,516 | 4.84 | 56 |
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 146,324 | 4.87 | 826 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 366 (3,480 XP) | 19,981 | 4.65 | 257 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 114,039 | 4.74 | 9,968 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 114,039 | 4.74 | 9,992 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 46,086 | 4.69 | 962 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 744,810 | 4.92 | 4,052 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 82,532 | 4.70 | 0 |

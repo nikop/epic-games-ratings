@@ -61,11 +61,11 @@
 | [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-23 | 5 (1,000 XP) | 1 | - | - |
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | 33 (1,000 XP) | 31 | - | - |
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 6 | - | 0 |
-| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 136,786 | 4.52 | 77 |
+| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 136,786 | 4.53 | 78 |
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | 308 (2,135 XP) | 1 | - | - |
 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 298,358 | 4.70 | 148 |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-06 | 30 (1,000 XP) | 91 | - | 0 |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 13,765 | 3.68 | 0 |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 13,765 | 3.66 | 0 |
 | [OLD SKOOL RACER](games/8/8d617ef953bf4147b3b507f33e2a7299.md) | 2024-04-10 | 8 (1,000 XP) | 8 | - | - |
 | [Unravel Two](games/2/2cad1455afca4f79ba7010936155b0a8.md) | 2024-05-09 | 28 (1,000 XP) | 38 | - | 0 |
 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 488,117 | 4.56 | 1,219 |
@@ -205,7 +205,7 @@
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | 2024-04-10 | 19 (1,000 XP) | 50 | - | 0 |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,374 | 4.57 | 159 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,374 | 4.57 | 160 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 35,596 | 4.65 | 750 |
 | [Project Element](games/a/a9c5d48f93f742d8b8225d21f23fe95b.md) | 2024-03-13 | 6 (1,000 XP) | 15 | - | - |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 12 | - | 0 |
@@ -220,7 +220,7 @@
 | [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 90 | - | 0 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 88 | - | 0 |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | 63 (1,000 XP) | 87 | - | 0 |
-| [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 513 | 4.17 | 0 |
+| [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 513 | 4.18 | 0 |
 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2024-02-14 | 35 (1,000 XP) | 2 | - | 0 |
 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 2024-02-19 | 26 (1,000 XP) | 3 | - | 0 |
 | [DotLine](games/e/e582a1469e18401e8729827444ea2c8e.md) | 2024-02-15 | 42 (1,000 XP) | 31 | - | - |
@@ -256,7 +256,7 @@
 | [Youtubers Life 2](games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 2024-03-05 | 20 (1,000 XP) | 0 | - | 0 |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-12-31 | 38 (1,000 XP) | 1 | - | - |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 915 | - | 0 |
-| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 1,852 | 4.64 | 0 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 1,852 | 4.65 | 0 |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | 0 |
 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 2024-01-23 | 30 (1,000 XP) | 6 | - | 0 |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 3 | - | - |
@@ -434,7 +434,7 @@
 | [Monsters of Mican](games/7/737058bee79c4c47a4faa14289678dcd.md) | 2023-10-27 | 20 (1,000 XP) | 14 | - | 0 |
 | [Trash Troopers Earth Reclaim](games/4/403db5711e5047ef8407ba1ab1fb944a.md) | 2023-10-26 | 8 (1,000 XP) | 56 | - | 0 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 264 | - | 0 |
-| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 422,324 | 4.42 | 1,394 |
+| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 422,324 | 4.42 | 1,395 |
 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-10-26 | 24 (1,000 XP) | 157 | - | 0 |
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-10-26 | 33 (1,000 XP) | 162 | - | 0 |
 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 2023-10-26 | 31 (1,000 XP) | 364 | - | 0 |

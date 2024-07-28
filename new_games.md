@@ -85,7 +85,7 @@
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | - |  | - | - |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | - |  | - | - |
 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 2024-07-02 | - |  | 4.29 | 33 |
-| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | - |  | 4.81 | 0 |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | - |  | 4.79 | 0 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | - |  | - | - |
 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-02 | - |  | 4.50 | 3,680 |
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | - |  | - | - |
