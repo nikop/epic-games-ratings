@@ -190,8 +190,8 @@ Completed: 409 (1.97%) (Ranked 180)
 | 2024-06-17 | 20,784 | 409 |
 ## Awards
 Max (Impact the Story): 60  (Ranked 511)  
-Sum: 60 (Ranked 588)  
-Diff (max vs sum): -77  
+Sum: 60 (Ranked 589)  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 60 |

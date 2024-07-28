@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 174,
@@ -12109,10 +12109,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 15266,
       "NumberOfAwardsMax": 4298
+    },
+    {
+      "Time": "2024-07-28T13:01:57.2385578+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 15278,
+      "NumberOfAwardsMax": 4298
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15266,
+  "NumberOfAwards": 15278,
   "NumberOfAwardsMax": 4298,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12126,13 +12132,13 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 987
+      "Count": 991
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1095
+      "Count": 1100
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12150,7 +12156,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1075
+      "Count": 1078
     },
     {
       "Text": "This game has Challenging Combat",
@@ -25062,9 +25068,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-07-28T05:59:13.1104918+00:00",
+  "LastChanged": "2024-07-28T13:01:57.2385576+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:57.6455218+00:00",
   "LastUpdate_AppInfo": "2024-07-21T13:57:12.9982321+00:00",
-  "LastUpdate_Ratings": "2024-07-28T10:58:34.9900983+00:00",
+  "LastUpdate_Ratings": "2024-07-28T13:01:57.2385584+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:57.6455948+00:00"
 }

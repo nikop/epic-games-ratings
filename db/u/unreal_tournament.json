@@ -2,7 +2,7 @@
   "ID": "ut",
   "Name": "Unreal Tournament",
   "ProductSlug": "unreal-tournament",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 1102,
@@ -1587,6 +1587,6 @@
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
   "LastChanged": "2023-07-14T23:00:42.307463+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:32.713183+00:00",
-  "LastUpdate_Ratings": "2024-07-28T10:58:16.5694327+00:00",
+  "LastUpdate_Ratings": "2024-07-28T13:01:36.1956114+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:03.7098432+00:00"
 }
