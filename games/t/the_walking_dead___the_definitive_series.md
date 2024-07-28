@@ -5,8 +5,8 @@ Rating: 4.87 (Ranked 16)
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 793  (Ranked 214)  
-Sum: 1,158 (Ranked 298)  
-Diff (max vs sum): -84  
+Sum: 1,159 (Ranked 299)  
+Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 793 |
@@ -20,7 +20,7 @@ Diff (max vs sum): -84
 | This game has Amazing Characters | 33 |
 | This game has Quickly Understood Controls | 30 |
 | This game has a Creative Community | 29 |
-| This game is Relaxing | 24 |
+| This game is Relaxing | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -363,3 +363,4 @@ Diff (max vs sum): -84
 | 2024-07-25 | 4.87 | - | 784 | 1,147 |
 | 2024-07-26 | 4.87 | - | 784 | 1,148 |
 | 2024-07-27 | 4.87 | - | 793 | 1,158 |
+| 2024-07-28 | 4.87 | - | 793 | 1,159 |

@@ -4,7 +4,7 @@
   "ProductSlug": "alan-wake-2",
   "Ranking_Rating": 87,
   "Ranking_Popularity": 165,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 19,
@@ -7075,10 +7075,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 7538,
       "NumberOfAwardsMax": 1267
+    },
+    {
+      "Time": "2024-07-28T08:59:11.1505405+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 7547,
+      "NumberOfAwardsMax": 1267
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7538,
+  "NumberOfAwards": 7547,
   "NumberOfAwardsMax": 1267,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7098,7 +7104,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1124
+      "Count": 1129
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7110,7 +7116,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1088
+      "Count": 1092
     },
     {
       "Text": "This game has a Creative Community",
@@ -19595,9 +19601,9 @@
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
-  "LastChanged": "2024-07-27T18:58:05.6049877+00:00",
+  "LastChanged": "2024-07-28T08:59:11.1505404+00:00",
   "LastChanged_Achievements": "2024-07-09T22:06:52.4641332+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:25.044598+00:00",
-  "LastUpdate_Ratings": "2024-07-28T07:00:41.0123978+00:00",
+  "LastUpdate_Ratings": "2024-07-28T08:59:11.1505409+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:06:52.4642368+00:00"
 }

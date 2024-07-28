@@ -4,7 +4,7 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 16,
   "Ranking_Popularity": 214,
-  "Ranking_PopularitySum": 298,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -2704,10 +2704,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1158,
       "NumberOfAwardsMax": 793
+    },
+    {
+      "Time": "2024-07-28T08:59:35.458761+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1159,
+      "NumberOfAwardsMax": 793
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1158,
+  "NumberOfAwards": 1159,
   "NumberOfAwardsMax": 793,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -2781,7 +2787,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -2795,8 +2801,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-07-27T13:58:29.7790115+00:00",
+  "LastChanged": "2024-07-28T08:59:35.4587609+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:23.4727779+00:00",
-  "LastUpdate_Ratings": "2024-07-28T07:01:05.3657076+00:00",
+  "LastUpdate_Ratings": "2024-07-28T08:59:35.4587614+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:53.1823255+00:00"
 }

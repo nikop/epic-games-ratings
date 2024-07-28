@@ -2,7 +2,7 @@
   "ID": "e4af596d707e4cea8269a78a201a39eb",
   "Name": "SHRAPNEL",
   "ProductSlug": "shrapnel-e59542",
-  "Ranking_Rating": 1241,
+  "Ranking_Rating": 1240,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 1102,
@@ -605,10 +605,16 @@
       "Rating": 3.49,
       "NumberOfAwards": 518,
       "NumberOfAwardsMax": 225
+    },
+    {
+      "Time": "2024-07-28T08:57:13.0917464+00:00",
+      "Rating": 3.49,
+      "NumberOfAwards": 522,
+      "NumberOfAwardsMax": 225
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 518,
+  "NumberOfAwards": 522,
   "NumberOfAwardsMax": 225,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -616,7 +622,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 181
+      "Count": 185
     },
     {
       "Text": "This game has Unique Visuals",
@@ -649,8 +655,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-07T21:57:27.054712+00:00",
   "FirstSeenRating": "2024-02-09T02:59:46.6661192+00:00",
-  "LastChanged": "2024-07-28T03:57:01.4283789+00:00",
+  "LastChanged": "2024-07-28T08:57:13.0917462+00:00",
   "LastUpdate_AppInfo": "2024-07-26T23:57:15.1511954+00:00",
-  "LastUpdate_Ratings": "2024-07-28T06:58:41.5148062+00:00",
+  "LastUpdate_Ratings": "2024-07-28T08:57:13.0917467+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:07:19.3741183+00:00"
 }
