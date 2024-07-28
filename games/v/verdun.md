@@ -356,7 +356,7 @@ Completed: 1 (0.00%) (Ranked 515)
 | 2024-06-17 | 79,337 | 1 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 408)  
-Sum: 1,080 (Ranked 302)  
+Sum: 1,081 (Ranked 302)  
 Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
@@ -370,7 +370,7 @@ Diff (max vs sum): 106
 | This game has Realistic Visuals | 91 |
 | This game has a Competitive Community | 90 |
 | This game is Relaxing | 86 |
-| This game has Competitive Players | 84 |
+| This game has Competitive Players | 85 |
 | This game has Amazing Storytelling | 70 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
@@ -627,3 +627,4 @@ Diff (max vs sum): 106
 | 2024-07-21 | 4.53 | - | 118 | 951 |
 | 2024-07-26 | 4.53 | - | 119 | 954 |
 | 2024-07-27 | 4.53 | - | 126 | 1,080 |
+| 2024-07-28 | 4.53 | - | 126 | 1,081 |
