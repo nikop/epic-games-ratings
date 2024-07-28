@@ -2,7 +2,7 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_Rating": 610,
+  "Ranking_Rating": 611,
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 25,
@@ -8679,10 +8679,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 9607,
       "NumberOfAwardsMax": 1279
+    },
+    {
+      "Time": "2024-07-28T16:59:38.5937262+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 9619,
+      "NumberOfAwardsMax": 1279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9607,
+  "NumberOfAwards": 9619,
   "NumberOfAwardsMax": 1279,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8702,7 +8708,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1015
+      "Count": 1018
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8714,7 +8720,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1140
+      "Count": 1143
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8744,7 +8750,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1161
+      "Count": 1167
     }
   ],
   "EOS_Progressed": 877363,
@@ -21914,9 +21920,9 @@
   "FirstSeen": "2023-08-04T21:57:01.9865679+00:00",
   "FirstSeenRating": "2023-10-20T08:01:20.4759895+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
-  "LastChanged": "2024-07-28T14:59:58.0967307+00:00",
+  "LastChanged": "2024-07-28T16:59:38.593726+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:32.9657594+00:00",
   "LastUpdate_AppInfo": "2024-07-25T23:57:08.634455+00:00",
-  "LastUpdate_Ratings": "2024-07-28T14:59:58.0967312+00:00",
+  "LastUpdate_Ratings": "2024-07-28T16:59:38.5937267+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:32.9658658+00:00"
 }
