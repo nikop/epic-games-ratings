@@ -3,8 +3,8 @@
   "Name": "Close To The Sun",
   "ProductSlug": "close-to-the-sun",
   "Ranking_Rating": 1187,
-  "Ranking_Popularity": 675,
-  "Ranking_PopularitySum": 675,
+  "Ranking_Popularity": 676,
+  "Ranking_PopularitySum": 676,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -448,6 +448,6 @@
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
   "LastChanged": "2024-02-25T17:01:38.4982384+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:47.6713759+00:00",
-  "LastUpdate_Ratings": "2024-07-28T20:58:13.8153648+00:00",
+  "LastUpdate_Ratings": "2024-07-28T22:01:06.710214+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:41.0873576+00:00"
 }

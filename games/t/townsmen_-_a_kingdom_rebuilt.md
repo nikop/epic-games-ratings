@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.33 (Ranked 949)  
+Rating: 4.32 (Ranked 961)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -335,3 +335,4 @@ Completed: 4 (0.09%) (Ranked 407)
 | 2024-04-23 | 4.31 | - | 0 | 0 |
 | 2024-06-25 | 4.32 | - | 0 | 0 |
 | 2024-06-26 | 4.33 | - | 0 | 0 |
+| 2024-07-28 | 4.32 | - | 0 | 0 |

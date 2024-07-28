@@ -1,7 +1,7 @@
 # Sail Forth
 [Store](https://store.epicgames.com/en-US/p/sail-forth-51847e)  
 [View Rawdata](../../db/s/sail_forth.json)  
-Rating: 4.41 (Ranked 842)  
+Rating: 4.41 (Ranked 841)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -81,9 +81,9 @@ Completed: 25 (0.01%) (Ranked 491)
 | 2024-04-10 | 416,682 | 13 |
 | 2024-06-17 | 437,424 | 25 |
 ## Awards
-Max (Great for Beginners): 32  (Ranked 600)  
+Max (Great for Beginners): 32  (Ranked 601)  
 Sum: 190 (Ranked 499)  
-Diff (max vs sum): 101  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

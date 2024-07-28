@@ -330,8 +330,8 @@ Completed: 6 (0.03%) (Ranked 455)
 | 2024-04-10 | 19,797 | 5 |
 | 2024-06-17 | 20,122 | 6 |
 ## Awards
-Max (Diverse Characters): 23  (Ranked 645)  
-Sum: 23 (Ranked 649)  
+Max (Diverse Characters): 23  (Ranked 646)  
+Sum: 23 (Ranked 650)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
