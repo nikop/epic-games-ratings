@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.02,
+  "Rating": 4.01,
   "NumberOfRatings": 458,
   "RatingHistory": [
     {
@@ -2859,11 +2859,17 @@
       "Rating": 4.02,
       "NumberOfAwards": 852,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2024-07-28T20:59:12.0903016+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 853,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 852,
-  "NumberOfAwardsMax": 138,
+  "NumberOfAwards": 853,
+  "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2882,7 +2888,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 138
+      "Count": 139
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2938,8 +2944,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2024-07-27T21:59:21.4276832+00:00",
+  "LastChanged": "2024-07-28T20:59:12.0903015+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:30.4304188+00:00",
-  "LastUpdate_Ratings": "2024-07-28T18:59:59.0787824+00:00",
+  "LastUpdate_Ratings": "2024-07-28T20:59:12.090302+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:02:40.2215226+00:00"
 }
