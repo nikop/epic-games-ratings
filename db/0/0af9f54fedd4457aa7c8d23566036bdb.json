@@ -2,7 +2,7 @@
   "ID": "0af9f54fedd4457aa7c8d23566036bdb",
   "Name": "Titanfall\u00AE 2: Ultimate Edition",
   "ProductSlug": "titanfall-2-6231e2",
-  "Ranking_Rating": 210,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 675,
   "Ranking_EOS_Progress": 303,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2024-06-02T19:58:12.7386023+00:00",
@@ -160,6 +160,12 @@
     {
       "Time": "2024-07-27T01:53:42.631503+00:00",
       "Rating": 4.72,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-28T14:59:41.0236091+00:00",
+      "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -606,9 +612,9 @@
   "FirstSeen": "2024-04-06T23:59:49.4790422+00:00",
   "FirstSeenRating": "2024-06-02T19:58:12.7386021+00:00",
   "FirstSeenAchievements": "2024-04-05T15:01:39.6620521+00:00",
-  "LastChanged": "2024-07-27T01:53:42.6315028+00:00",
+  "LastChanged": "2024-07-28T14:59:41.0236089+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:18.5917032+00:00",
   "LastUpdate_AppInfo": "2024-07-26T04:57:05.360926+00:00",
-  "LastUpdate_Ratings": "2024-07-28T13:57:20.1576462+00:00",
+  "LastUpdate_Ratings": "2024-07-28T14:59:41.0236095+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:18.5917409+00:00"
 }

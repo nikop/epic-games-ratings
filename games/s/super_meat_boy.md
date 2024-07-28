@@ -1,7 +1,7 @@
 # Super Meat Boy
 [Store](https://store.epicgames.com/en-US/p/super-meat-boy)  
 [View Rawdata](../../db/s/super_meat_boy.json)  
-Rating: 4.74 (Ranked 172)  
+Rating: 4.73 (Ranked 191)  
 Number of Ratings: 155  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 104  (Ranked 435)  
@@ -113,3 +113,4 @@ Diff (max vs sum): -107
 | 2024-04-22 | 4.74 | - | 102 | 102 |
 | 2024-04-26 | 4.74 | - | 103 | 103 |
 | 2024-07-26 | 4.74 | - | 104 | 104 |
+| 2024-07-28 | 4.73 | - | 104 | 104 |

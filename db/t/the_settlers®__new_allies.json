@@ -4,7 +4,7 @@
   "ProductSlug": "the-settlers",
   "Ranking_Rating": 1201,
   "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 381,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -2333,6 +2333,6 @@
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
   "LastChanged": "2024-07-27T04:57:52.6239649+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:17.4274486+00:00",
-  "LastUpdate_Ratings": "2024-07-28T13:03:48.5059168+00:00",
+  "LastUpdate_Ratings": "2024-07-28T14:58:46.3993338+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:43.1160848+00:00"
 }
