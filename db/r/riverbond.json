@@ -4,7 +4,7 @@
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 737,
   "Ranking_Popularity": 645,
-  "Ranking_PopularitySum": 605,
+  "Ranking_PopularitySum": 603,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 19,
@@ -561,10 +561,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-07-27T23:59:33.3494351+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45,
+  "NumberOfAwards": 46,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -578,7 +584,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 545224,
@@ -31153,9 +31159,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
-  "LastChanged": "2024-07-12T13:05:08.6572439+00:00",
+  "LastChanged": "2024-07-27T23:59:33.3494349+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:50.4611009+00:00",
   "LastUpdate_AppInfo": "2024-07-21T23:57:34.8625064+00:00",
-  "LastUpdate_Ratings": "2024-07-27T21:59:54.5737596+00:00",
+  "LastUpdate_Ratings": "2024-07-27T23:59:33.3494353+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:50.4612457+00:00"
 }
