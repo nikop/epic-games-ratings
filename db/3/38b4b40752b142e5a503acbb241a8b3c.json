@@ -2,7 +2,7 @@
   "ID": "38b4b40752b142e5a503acbb241a8b3c",
   "Name": "F1\u00AE Manager 2023",
   "ProductSlug": "f1-manager-2023",
-  "Ranking_Rating": 404,
+  "Ranking_Rating": 403,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 1102,
@@ -2391,10 +2391,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 629,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2024-07-28T19:59:52.3983109+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 631,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 629,
+  "NumberOfAwards": 631,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2420,7 +2426,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2444,7 +2450,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Competitive Players",
@@ -2497,9 +2503,9 @@
   "FirstSeen": "2023-07-31T15:57:55.8099834+00:00",
   "FirstSeenRating": "2023-08-07T09:57:49.6862064+00:00",
   "FirstSeenAchievements": "2023-07-17T12:05:29.3439322+00:00",
-  "LastChanged": "2024-07-27T19:57:51.0011611+00:00",
+  "LastChanged": "2024-07-28T19:59:52.3983108+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:41.3187086+00:00",
   "LastUpdate_AppInfo": "2024-07-25T04:57:10.8729999+00:00",
-  "LastUpdate_Ratings": "2024-07-28T18:00:19.4610132+00:00",
+  "LastUpdate_Ratings": "2024-07-28T19:59:52.3983113+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:41.3187112+00:00"
 }

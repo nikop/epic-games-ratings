@@ -1,7 +1,7 @@
 # Maid of Sker
 [Store](https://store.epicgames.com/en-US/p/maid-of-sker-2ae24e)  
 [View Rawdata](../../db/m/maid_of_sker.json)  
-Rating: 4.20 (Ranked 1,083)  
+Rating: 4.23 (Ranked 1,059)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -168,3 +168,4 @@ Completed: 0 (0.00%) (Ranked 515)
 | 2024-07-25 | 4.18 | 0 | 0 |
 | 2024-07-26 | 4.23 | 0 | 0 |
 | 2024-07-27 | 4.20 | 0 | 0 |
+| 2024-07-28 | 4.23 | 0 | 0 |
