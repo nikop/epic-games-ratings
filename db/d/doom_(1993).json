@@ -3,7 +3,7 @@
   "Name": "DOOM (1993)",
   "ProductSlug": "doom-1993",
   "Ranking_Rating": 86,
-  "Ranking_Popularity": 569,
+  "Ranking_Popularity": 568,
   "Ranking_PopularitySum": 618,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
@@ -279,18 +279,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 37,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-07-28T17:59:30.8530838+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 38,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 37
+      "Count": 38
     }
   ],
   "EOS_Progressed": 0,
@@ -305,8 +311,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-19T14:31:30.8251329+00:00",
   "FirstSeenRating": "2022-08-26T00:30:55.8306783+00:00",
-  "LastChanged": "2024-07-26T13:03:13.9529445+00:00",
+  "LastChanged": "2024-07-28T17:59:30.8530837+00:00",
   "LastUpdate_AppInfo": "2024-07-22T04:57:12.6319935+00:00",
-  "LastUpdate_Ratings": "2024-07-28T16:56:57.127743+00:00",
+  "LastUpdate_Ratings": "2024-07-28T17:59:30.8530842+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:00.422517+00:00"
 }

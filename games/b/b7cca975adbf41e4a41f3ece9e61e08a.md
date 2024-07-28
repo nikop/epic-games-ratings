@@ -189,12 +189,12 @@ Completed: 409 (1.97%) (Ranked 180)
 | 2024-04-10 | 20,432 | 399 |
 | 2024-06-17 | 20,784 | 409 |
 ## Awards
-Max (Impact the Story): 60  (Ranked 511)  
-Sum: 60 (Ranked 589)  
+Max (Impact the Story): 61  (Ranked 509)  
+Sum: 61 (Ranked 587)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 60 |
+| In this game, your choices Impact the Story | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -276,3 +276,4 @@ Diff (max vs sum): -78
 | 2024-05-26 | 4.65 | 58 | 58 |
 | 2024-06-21 | 4.65 | 60 | 60 |
 | 2024-07-06 | 4.64 | 60 | 60 |
+| 2024-07-28 | 4.64 | 61 | 61 |
