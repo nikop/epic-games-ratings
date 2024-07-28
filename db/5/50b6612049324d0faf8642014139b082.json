@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 976,
   "Ranking_Popularity": 606,
-  "Ranking_PopularitySum": 497,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -865,10 +865,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 192,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-07-28T22:57:15.9662655+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 193,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 192,
+  "NumberOfAwards": 193,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -894,7 +900,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3053,9 +3059,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-07-28T03:58:34.1173493+00:00",
+  "LastChanged": "2024-07-28T22:57:15.9662653+00:00",
   "LastChanged_Achievements": "2024-07-25T19:04:32.1694332+00:00",
   "LastUpdate_AppInfo": "2024-07-24T14:57:13.7607379+00:00",
-  "LastUpdate_Ratings": "2024-07-28T20:58:21.3303038+00:00",
+  "LastUpdate_Ratings": "2024-07-28T22:57:15.9662658+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:32.1694586+00:00"
 }
