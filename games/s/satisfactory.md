@@ -1,7 +1,7 @@
 # Satisfactory
 [Store](https://store.epicgames.com/en-US/p/satisfactory)  
 [View Rawdata](../../db/s/satisfactory.json)  
-Rating: 4.87 (Ranked 16)  
+Rating: 4.87 (Ranked 17)  
 Number of Ratings: 29,401  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 18,875  (Ranked 25)  
