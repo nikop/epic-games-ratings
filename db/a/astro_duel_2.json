@@ -2,7 +2,7 @@
   "ID": "4a681a809a094e2c8dcc68353c68fed6",
   "Name": "Astro Duel 2",
   "ProductSlug": "astro-duel-2-e1261d",
-  "Ranking_Rating": 211,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 676,
   "Ranking_PopularitySum": 676,
   "Ranking_EOS_Progress": 106,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2024-03-10T21:58:46.5307455+00:00",
@@ -273,6 +273,12 @@
     {
       "Time": "2024-07-27T09:58:18.4644997+00:00",
       "Rating": 4.72,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-29T02:00:49.8549916+00:00",
+      "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -566,9 +572,9 @@
   "FirstSeen": "2024-03-07T19:58:35.1487767+00:00",
   "FirstSeenRating": "2024-03-10T21:58:46.5307453+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:06.8606043+00:00",
-  "LastChanged": "2024-07-27T09:58:18.4644994+00:00",
+  "LastChanged": "2024-07-29T02:00:49.8549914+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:58.9642411+00:00",
   "LastUpdate_AppInfo": "2024-07-22T05:57:22.8164064+00:00",
-  "LastUpdate_Ratings": "2024-07-28T23:00:07.3705253+00:00",
+  "LastUpdate_Ratings": "2024-07-29T02:00:49.8549922+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:58.9642598+00:00"
 }

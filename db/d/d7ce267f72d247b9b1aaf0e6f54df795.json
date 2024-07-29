@@ -2,7 +2,7 @@
   "ID": "d7ce267f72d247b9b1aaf0e6f54df795",
   "Name": "Illuvium",
   "ProductSlug": "illuvium-60064c",
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 211,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 1102,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "RatingHistory": [
     {
       "Time": "2023-11-29T21:00:42.3715161+00:00",
@@ -4871,10 +4871,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 7961,
       "NumberOfAwardsMax": 1724
+    },
+    {
+      "Time": "2024-07-29T01:59:11.2890234+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 7988,
+      "NumberOfAwardsMax": 1724
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7961,
+  "NumberOfAwards": 7988,
   "NumberOfAwardsMax": 1724,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4888,7 +4894,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 735
+      "Count": 747
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4906,7 +4912,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 512
+      "Count": 522
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4930,7 +4936,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 511
+      "Count": 516
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4981,8 +4987,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-28T21:01:02.1178463+00:00",
   "FirstSeenRating": "2023-11-29T21:00:42.3715159+00:00",
-  "LastChanged": "2024-07-28T22:58:28.348246+00:00",
+  "LastChanged": "2024-07-29T01:59:11.2890232+00:00",
   "LastUpdate_AppInfo": "2024-07-25T05:57:06.4332744+00:00",
-  "LastUpdate_Ratings": "2024-07-28T22:58:28.3482464+00:00",
+  "LastUpdate_Ratings": "2024-07-29T01:59:11.2890238+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:24.8521418+00:00"
 }
