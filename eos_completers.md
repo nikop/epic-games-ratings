@@ -868,8 +868,8 @@
 | 515 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 0.00% |
 | 515 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 515 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
-| 515 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
 | 515 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
+| 515 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
 | 515 | [PERISH](games/p/perish.md) | 0.00% |
 | 515 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 0.00% |
 | 515 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |
@@ -1036,6 +1036,7 @@
 | 515 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
 | 515 | [Those who Came:Healing Solarus - Definitive Edition](games/5/5d58c784b440452e854593ab737535fd.md) | 0.00% |
 | 515 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 0.00% |
+| 515 | [Tiny Witch](games/6/6c215e03a0894bc0acf2ed206f2f2e89.md) | 0.00% |
 | 515 | [Title_Pending](games/a/a9b4829f53a54f098c57c87bd1ff791e.md) | 0.00% |
 | 515 | [Tomb nightmares](games/a/a5d808aff2a144048d1f842e0db6ad12.md) | 0.00% |
 | 515 | [Toribash Next](games/2/2bee239ee96643fbb2afab3013004136.md) | 0.00% |
@@ -1100,4 +1101,4 @@
 | 515 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
 | 515 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 0.00% |
 | 515 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 0.00% |
-| 4,718 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.75% |
+| 4,719 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.75% |

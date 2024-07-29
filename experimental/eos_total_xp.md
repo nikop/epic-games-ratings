@@ -743,8 +743,8 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Pepper Grinder](../games/p/pepper_grinder.md) | 23 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |
@@ -1067,6 +1067,7 @@
 | [Time Trap](../games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 5 | 1,000 |
 | [Timothy vs the Aliens](../games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 24 | 1,000 |
 | [Tintin Reporter - Cigars of the Pharaoh](../games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 37 | 1,000 |
+| [Tiny Witch](../games/6/6c215e03a0894bc0acf2ed206f2f2e89.md) | 18 | 1,000 |
 | [Titanfall® 2: Ultimate Edition](../games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 50 | 1,000 |
 | [Title_Pending](../games/a/a9b4829f53a54f098c57c87bd1ff791e.md) | 24 | 1,000 |
 | [To the Stars](../games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 40 | 1,000 |

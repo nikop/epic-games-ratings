@@ -421,8 +421,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [ROBOBEAT](../games/r/robobeat.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
@@ -891,6 +891,7 @@
 | [The Backroom Project](../games/5/51dd70aea58d47609d82b87473877daa.md) | 18 | 1,000 |
 | [The Gap](../games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 18 | 1,000 |
 | [The Wild Case](../games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 18 | 1,000 |
+| [Tiny Witch](../games/6/6c215e03a0894bc0acf2ed206f2f2e89.md) | 18 | 1,000 |
 | [Trail Of Ayash](../games/5/538efd8138f94b088f2d9e3da178edd6.md) | 18 | 1,000 |
 | [Angelo and Deemon: One Hell of a Quest](../games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 17 | 1,000 |
 | [Arms Race 2](../games/d/d3b4722b35674be186318c5f5e14b13e.md) | 17 | 1,000 |
