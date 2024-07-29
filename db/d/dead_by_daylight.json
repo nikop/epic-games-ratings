@@ -2,7 +2,7 @@
   "ID": "611482b8586142cda48a0786eb8a127c",
   "Name": "Dead by Daylight",
   "ProductSlug": "dead-by-daylight",
-  "Ranking_Rating": 663,
+  "Ranking_Rating": 664,
   "Ranking_Popularity": 16,
   "Ranking_PopularitySum": 12,
   "Ranking_EOS_Progress": 12,
@@ -23042,10 +23042,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 371640,
       "NumberOfAwardsMax": 50678
+    },
+    {
+      "Time": "2024-07-29T22:58:51.2843788+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 371805,
+      "NumberOfAwardsMax": 50678
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 371640,
+  "NumberOfAwards": 371805,
   "NumberOfAwardsMax": 50678,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -23071,13 +23077,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 40993
+      "Count": 41046
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 40592
+      "Count": 40649
     },
     {
       "Text": "This game has Amazing Characters",
@@ -23107,7 +23113,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 37483
+      "Count": 37538
     },
     {
       "Text": "This game has a Competitive Community",
@@ -57797,9 +57803,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:36.4458597+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:53.6504721+00:00",
-  "LastChanged": "2024-07-29T18:00:10.036287+00:00",
+  "LastChanged": "2024-07-29T22:58:51.2843786+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:52.3577635+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:52.4964734+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:01:05.2220421+00:00",
+  "LastUpdate_Ratings": "2024-07-29T22:58:51.2843793+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:52.3583506+00:00"
 }
