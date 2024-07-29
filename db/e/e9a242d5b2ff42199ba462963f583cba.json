@@ -2,7 +2,7 @@
   "ID": "e9a242d5b2ff42199ba462963f583cba",
   "Name": "BloodLoop",
   "ProductSlug": "bloodloop-2c05b9",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-29T09:57:36.2978364+00:00",
-  "LastUpdate_Ratings": "2024-07-29T16:57:49.0689982+00:00",
+  "LastUpdate_Ratings": "2024-07-29T18:00:25.9951252+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:07:39.9466008+00:00"
 }

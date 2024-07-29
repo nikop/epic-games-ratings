@@ -2,7 +2,7 @@
   "ID": "c4aea139154344718c7c6e7ad40f4ebd",
   "Name": "Steal It",
   "ProductSlug": "steal-it-6dff34",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:15.0295147+00:00",
   "LastChanged_Achievements": "2024-07-09T22:02:58.3743708+00:00",
   "LastUpdate_AppInfo": "2024-07-23T22:57:26.3481188+00:00",
-  "LastUpdate_Ratings": "2024-07-29T16:57:48.553585+00:00",
+  "LastUpdate_Ratings": "2024-07-29T18:00:25.2923392+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:02:58.3743771+00:00"
 }

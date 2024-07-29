@@ -2,7 +2,7 @@
   "ID": "363d0b06fb134d5b8c2794f488a694b8",
   "Name": "Bulletrooms",
   "ProductSlug": "bulletrooms-a24122",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-23T23:57:48.7942167+00:00",
   "LastUpdate_AppInfo": "2024-07-23T14:57:08.9920513+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:59:12.738494+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:58:40.7394078+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:44.3038123+00:00"
 }

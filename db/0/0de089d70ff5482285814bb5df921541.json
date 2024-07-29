@@ -2,7 +2,7 @@
   "ID": "0de089d70ff5482285814bb5df921541",
   "Name": "Not Another Weekend",
   "ProductSlug": "not-another-weekend-580d95",
-  "Ranking_EOS_Progress": 969,
+  "Ranking_EOS_Progress": 970,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -355,6 +355,6 @@
   "FirstSeenAchievements": "2024-01-22T16:03:42.5263557+00:00",
   "LastChanged_Achievements": "2024-07-24T02:02:19.9628935+00:00",
   "LastUpdate_AppInfo": "2024-07-23T03:57:53.7527426+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:59:48.0729077+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:59:31.4961787+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:02:19.9629228+00:00"
 }

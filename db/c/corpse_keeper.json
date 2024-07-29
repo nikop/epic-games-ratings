@@ -2,7 +2,7 @@
   "ID": "dd19f026172149339999e94831b4781b",
   "Name": "Corpse Keeper",
   "ProductSlug": "corpse-keeper-b070bb",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-01T16:58:17.8978298+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:14.6494788+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:58:43.5641043+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:57:58.6813263+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:55.1894008+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f5f759d5ce5441cba582b96ebb1c9d3c",
   "Name": "Eden Island",
   "ProductSlug": "eden-island-8cd344",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-19T04:00:00.1502556+00:00",
   "LastUpdate_AppInfo": "2024-07-25T01:56:10.5446278+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:59:40.3346129+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:59:19.9306606+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:14.9416285+00:00"
 }

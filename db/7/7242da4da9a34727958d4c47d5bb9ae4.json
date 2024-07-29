@@ -2,7 +2,7 @@
   "ID": "7242da4da9a34727958d4c47d5bb9ae4",
   "Name": "Project Kinesis",
   "ProductSlug": "project-kinesis-f607f5",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T05:59:59.5629383+00:00",
   "LastUpdate_AppInfo": "2024-07-25T03:57:23.4893957+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:59:33.2170403+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:59:10.295258+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:16.6664814+00:00"
 }

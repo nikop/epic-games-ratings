@@ -2,7 +2,7 @@
   "ID": "539a43c4910f41ae851d7acc184c92f1",
   "Name": "CryptoBall",
   "ProductSlug": "cryptoball-d8c422",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-22T21:57:33.6684124+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:58:40.7463089+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:57:54.6331241+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:11.1679859+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1b27521a313b4d05842a052cff892b91",
   "Name": "Player Non Player",
   "ProductSlug": "player-non-player-20384b",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-04-10T06:01:57.2354246+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:44.1531998+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:13.6141632+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:58:26.1241934+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:57:33.8040583+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:44.1532024+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "08ce088c33cb46719e378878ae7a24ec",
   "Name": "Haikuna",
   "ProductSlug": "haikuna-439928",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-27T03:57:12.6043966+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:58:59.6653738+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:58:21.8363964+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:27.5588458+00:00"
 }

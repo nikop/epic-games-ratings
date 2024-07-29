@@ -2,7 +2,7 @@
   "ID": "b7abf2d38e8c4442add0d27e6e47bd8a",
   "Name": "The Lullaby of Life",
   "ProductSlug": "the-lullaby-of-life-0c5767",
-  "Ranking_EOS_Progress": 864,
+  "Ranking_EOS_Progress": 865,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -130,6 +130,6 @@
   "FirstSeenAchievements": "2024-03-21T17:06:02.9588374+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:26.5145032+00:00",
   "LastUpdate_AppInfo": "2024-07-25T17:57:05.6935333+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:58:27.8395687+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:57:36.2376372+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:26.5152744+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9a85a766e38c4013b9e33b225f83ae98",
   "Name": "SYMMETRY",
   "ProductSlug": "symmetry-44cf24",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.6109921+00:00",
   "LastChanged": "2023-03-31T05:58:20.6109922+00:00",
   "LastUpdate_AppInfo": "2024-07-28T15:57:08.5053938+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:59:26.4814468+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:59:00.5891188+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:12.164217+00:00"
 }

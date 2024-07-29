@@ -2,7 +2,7 @@
   "ID": "4d38b523f0ef409d9cc79af313643ec9",
   "Name": "Homeseek",
   "ProductSlug": "homeseek-243763",
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -479,6 +479,6 @@
   "FirstSeenAchievements": "2023-09-13T12:01:57.9977339+00:00",
   "LastChanged_Achievements": "2024-06-26T14:05:40.7824101+00:00",
   "LastUpdate_AppInfo": "2024-07-25T17:57:02.5535752+00:00",
-  "LastUpdate_Ratings": "2024-07-29T16:58:26.9352748+00:00",
+  "LastUpdate_Ratings": "2024-07-29T18:01:18.9737218+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:05:40.7824579+00:00"
 }

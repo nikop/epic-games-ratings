@@ -3,9 +3,9 @@
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
   "Ranking_Rating": 127,
-  "Ranking_Popularity": 184,
-  "Ranking_PopularitySum": 258,
-  "Ranking_EOS_Progress": 1102,
+  "Ranking_Popularity": 183,
+  "Ranking_PopularitySum": 257,
+  "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
   "Ranking_EOS_NewCompleters": 3,
@@ -2506,18 +2506,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 1804,
       "NumberOfAwardsMax": 1048
+    },
+    {
+      "Time": "2024-07-29T17:57:40.0073813+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1808,
+      "NumberOfAwardsMax": 1052
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1804,
-  "NumberOfAwardsMax": 1048,
+  "NumberOfAwards": 1808,
+  "NumberOfAwardsMax": 1052,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1048
+      "Count": 1052
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2609,8 +2615,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2024-07-27T01:55:49.055355+00:00",
+  "LastChanged": "2024-07-29T17:57:40.0073811+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:58.816027+00:00",
-  "LastUpdate_Ratings": "2024-07-29T15:58:30.4393155+00:00",
+  "LastUpdate_Ratings": "2024-07-29T17:57:40.0073818+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:14.4555064+00:00"
 }
