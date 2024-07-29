@@ -3,7 +3,7 @@
   "Name": "Nuclear Throne",
   "ProductSlug": "nuclear-throne",
   "Ranking_Rating": 105,
-  "Ranking_Popularity": 264,
+  "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
@@ -2905,18 +2905,24 @@
       "Rating": 4.79,
       "NumberOfAwards": 1572,
       "NumberOfAwardsMax": 460
+    },
+    {
+      "Time": "2024-07-29T21:01:03.5096294+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1573,
+      "NumberOfAwardsMax": 461
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1572,
-  "NumberOfAwardsMax": 460,
+  "NumberOfAwards": 1573,
+  "NumberOfAwardsMax": 461,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 460
+      "Count": 461
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3002,8 +3008,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2024-07-29T19:57:54.811528+00:00",
+  "LastChanged": "2024-07-29T21:01:03.5096293+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:51.9861102+00:00",
-  "LastUpdate_Ratings": "2024-07-29T19:57:54.8115286+00:00",
+  "LastUpdate_Ratings": "2024-07-29T21:01:03.5096313+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:06.6467096+00:00"
 }
