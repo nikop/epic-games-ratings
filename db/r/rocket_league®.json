@@ -2,7 +2,7 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "ProductSlug": "rocket-league",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "Ranking_EOS_Progress": 2,
@@ -13196,10 +13196,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 5301166,
       "NumberOfAwardsMax": 898047
+    },
+    {
+      "Time": "2024-07-29T14:58:15.3490689+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 5303288,
+      "NumberOfAwardsMax": 898047
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5301166,
+  "NumberOfAwards": 5303288,
   "NumberOfAwardsMax": 898047,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -13219,7 +13225,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 776927
+      "Count": 777624
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13243,7 +13249,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 573080
+      "Count": 573667
     },
     {
       "Text": "This game has a Competitive Community",
@@ -13261,7 +13267,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 631946
+      "Count": 632784
     }
   ],
   "EOS_Progressed": 29902296,
@@ -46664,9 +46670,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-07-29T09:59:43.8868901+00:00",
+  "LastChanged": "2024-07-29T14:58:15.3490687+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:34.8154769+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:47.9804486+00:00",
-  "LastUpdate_Ratings": "2024-07-29T13:11:49.0175561+00:00",
+  "LastUpdate_Ratings": "2024-07-29T14:58:15.3490694+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:34.8156831+00:00"
 }

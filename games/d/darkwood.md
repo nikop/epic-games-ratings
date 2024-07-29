@@ -3,12 +3,12 @@
 [View Rawdata](../../db/d/darkwood.json)  
 Rating: 4.62 (Ranked 403)  
 ## Awards
-Max (Extremely Fun): 340  (Ranked 289)  
-Sum: 2,531 (Ranked 228)  
+Max (Extremely Fun): 341  (Ranked 289)  
+Sum: 2,532 (Ranked 228)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 340 |
+| This game is Extremely Fun | 341 |
 | This game has Challenging Combat | 311 |
 | This game has Amazing Storytelling | 303 |
 | This game has Quickly Understood Controls | 289 |
@@ -173,3 +173,4 @@ Diff (max vs sum): 61
 | 2024-07-17 | 4.62 | 340 | 2,529 |
 | 2024-07-25 | 4.62 | 340 | 2,530 |
 | 2024-07-26 | 4.62 | 340 | 2,531 |
+| 2024-07-29 | 4.62 | 341 | 2,532 |

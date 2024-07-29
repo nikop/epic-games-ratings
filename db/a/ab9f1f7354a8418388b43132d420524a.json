@@ -4,7 +4,7 @@
   "ProductSlug": "town-of-salem-2-ab6497",
   "Ranking_Rating": 612,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 463,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -1206,10 +1206,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 269,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2024-07-29T15:00:20.7486166+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 269,
+  "NumberOfAwards": 270,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1229,7 +1235,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4828,9 +4834,9 @@
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:33.4303838+00:00",
-  "LastChanged": "2024-07-29T06:59:53.4520921+00:00",
+  "LastChanged": "2024-07-29T15:00:20.7486165+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:33.4303806+00:00",
   "LastUpdate_AppInfo": "2024-07-25T23:57:07.0403011+00:00",
-  "LastUpdate_Ratings": "2024-07-29T13:58:10.7103298+00:00",
+  "LastUpdate_Ratings": "2024-07-29T15:00:20.748617+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:33.4324347+00:00"
 }
