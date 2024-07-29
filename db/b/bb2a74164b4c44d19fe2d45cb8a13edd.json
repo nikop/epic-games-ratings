@@ -2,7 +2,7 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 1103,
@@ -640,6 +640,6 @@
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
   "LastChanged": "2024-07-29T10:57:31.065701+00:00",
   "LastUpdate_AppInfo": "2024-07-25T01:56:02.5700625+00:00",
-  "LastUpdate_Ratings": "2024-07-29T16:59:12.0509701+00:00",
+  "LastUpdate_Ratings": "2024-07-29T18:57:31.6768536+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:30.1043605+00:00"
 }

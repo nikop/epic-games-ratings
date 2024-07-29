@@ -5,12 +5,12 @@ Rating: 3.88 (Ranked 1,208)
 Number of Ratings: 3,179  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 517  (Ranked 250)  
-Sum: 3,328 (Ranked 202)  
+Sum: 3,330 (Ranked 202)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 517 |
-| This game is Relaxing | 439 |
+| This game is Relaxing | 441 |
 | This game is Highly Recommended | 420 |
 | This game has Competitive Players | 417 |
 | This game has Amazing Storytelling | 412 |
@@ -440,3 +440,4 @@ Diff (max vs sum): 48
 | 2024-07-25 | 3.88 | - | 517 | 3,323 |
 | 2024-07-27 | 3.88 | - | 517 | 3,327 |
 | 2024-07-28 | 3.88 | - | 517 | 3,328 |
+| 2024-07-29 | 3.88 | - | 517 | 3,330 |

@@ -2,9 +2,9 @@
   "ID": "c1e33e7e700f42429ea2b8a7459bb55b",
   "Name": "Curse of the Dead Gods",
   "ProductSlug": "curse-of-the-dead-gods",
-  "Ranking_Rating": 340,
+  "Ranking_Rating": 341,
   "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 524,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 1103,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -570,6 +570,6 @@
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
   "LastChanged": "2024-07-28T11:58:55.98059+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:24.6600855+00:00",
-  "LastUpdate_Ratings": "2024-07-29T16:59:28.7324856+00:00",
+  "LastUpdate_Ratings": "2024-07-29T18:57:48.1402019+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:13.2235617+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sail-forth-51847e",
   "Ranking_Rating": 843,
   "Ranking_Popularity": 601,
-  "Ranking_PopularitySum": 500,
+  "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 491,
   "Ranking_EOS_NewPlayers": 19,
@@ -695,10 +695,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 190,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-07-29T18:57:28.1731394+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 190,
+  "NumberOfAwards": 191,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -748,7 +754,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 437424,
@@ -3060,9 +3066,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-07-28T09:59:35.4247669+00:00",
+  "LastChanged": "2024-07-29T18:57:28.1731391+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:23.7409919+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:17.0046761+00:00",
-  "LastUpdate_Ratings": "2024-07-29T16:59:08.5580706+00:00",
+  "LastUpdate_Ratings": "2024-07-29T18:57:28.1731397+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:23.7410287+00:00"
 }

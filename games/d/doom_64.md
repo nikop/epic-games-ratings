@@ -1,12 +1,12 @@
 # DOOM 64
 [Store](https://store.epicgames.com/en-US/p/doom-64)  
 [View Rawdata](../../db/d/doom_64.json)  
-Rating: 4.65 (Ranked 340)  
+Rating: 4.65 (Ranked 341)  
 Number of Ratings: 5,134  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,331  (Ranked 159)  
-Sum: 1,704 (Ranked 264)  
-Diff (max vs sum): -105  
+Sum: 1,704 (Ranked 265)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,331 |
