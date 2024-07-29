@@ -1,7 +1,7 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.54 (Ranked 588)  
+Rating: 4.54 (Ranked 589)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -352,7 +352,7 @@ Completed: 1,390 (1.09%) (Ranked 228)
 | 2024-06-17 | 127,671 | 1,390 |
 ## Awards
 Max (Extremely Fun): 36  (Ranked 577)  
-Sum: 253 (Ranked 467)  
+Sum: 254 (Ranked 467)  
 Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
@@ -362,8 +362,8 @@ Diff (max vs sum): 110
 | This game has Quickly Understood Controls | 31 |
 | This game has Amazing Storytelling | 28 |
 | This game has Unique Visuals | 25 |
+| This game has Amazing Characters | 23 |
 | This game has Diverse Characters | 22 |
-| This game has Amazing Characters | 22 |
 | This game is Relaxing | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -521,3 +521,4 @@ Diff (max vs sum): 110
 | 2024-07-13 | 4.53 | - | 35 | 252 |
 | 2024-07-18 | 4.54 | - | 35 | 252 |
 | 2024-07-28 | 4.54 | - | 36 | 253 |
+| 2024-07-29 | 4.54 | - | 36 | 254 |

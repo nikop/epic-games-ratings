@@ -365,12 +365,12 @@ Completed: 28 (0.02%) (Ranked 475)
 | 2024-06-17 | 156,564 | 28 |
 ## Awards
 Max (Competitive Players): 345  (Ranked 288)  
-Sum: 3,403 (Ranked 200)  
+Sum: 3,404 (Ranked 200)  
 Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 345 |
-| This game has Challenging Combat | 339 |
+| This game has Challenging Combat | 340 |
 | This game has Diverse Characters | 334 |
 | This game is Extremely Fun | 328 |
 | This game has Quickly Understood Controls | 324 |
@@ -659,3 +659,4 @@ Diff (max vs sum): 88
 | 2024-07-24 | 4.39 | - | 345 | 3,401 |
 | 2024-07-25 | 4.39 | - | 345 | 3,402 |
 | 2024-07-26 | 4.39 | - | 345 | 3,403 |
+| 2024-07-29 | 4.39 | - | 345 | 3,404 |
