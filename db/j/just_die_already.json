@@ -3,7 +3,7 @@
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 629,
-  "Ranking_Popularity": 417,
+  "Ranking_Popularity": 418,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
@@ -2106,10 +2106,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 931,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2024-07-29T08:57:56.4124968+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 932,
+      "NumberOfAwardsMax": 117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 931,
+  "NumberOfAwards": 932,
   "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2153,7 +2159,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game is Relaxing",
@@ -2197,8 +2203,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2024-07-29T05:01:00.3632027+00:00",
+  "LastChanged": "2024-07-29T08:57:56.4124966+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:57.2043898+00:00",
-  "LastUpdate_Ratings": "2024-07-29T06:59:26.7807706+00:00",
+  "LastUpdate_Ratings": "2024-07-29T08:57:56.4124971+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:49.9600584+00:00"
 }
