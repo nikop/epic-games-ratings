@@ -333,12 +333,12 @@ Completed: 35 (0.12%) (Ranked 389)
 | 2024-06-17 | 30,056 | 35 |
 ## Awards
 Max (Extremely Fun): 237  (Ranked 332)  
-Sum: 1,818 (Ranked 254)  
+Sum: 1,819 (Ranked 254)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 237 |
-| This game has Quickly Understood Controls | 221 |
+| This game has Quickly Understood Controls | 222 |
 | This game has Diverse Characters | 214 |
 | This game has Challenging Combat | 213 |
 | This game is Highly Recommended | 209 |
@@ -562,3 +562,4 @@ Diff (max vs sum): 78
 | 2024-06-30 | 4.84 | - | 237 | 1,816 |
 | 2024-07-04 | 4.84 | - | 237 | 1,817 |
 | 2024-07-18 | 4.84 | - | 237 | 1,818 |
+| 2024-07-29 | 4.84 | - | 237 | 1,819 |

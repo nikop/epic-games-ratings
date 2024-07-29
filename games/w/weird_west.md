@@ -270,9 +270,9 @@ Completed: 10 (0.08%) (Ranked 415)
 | 2024-05-13 | 2,180 | 7 |
 | 2024-06-17 | 11,813 | 10 |
 ## Awards
-Max (Impact the Story): 52  (Ranked 532)  
+Max (Impact the Story): 52  (Ranked 533)  
 Sum: 52 (Ranked 597)  
-Diff (max vs sum): -65  
+Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 63 |
