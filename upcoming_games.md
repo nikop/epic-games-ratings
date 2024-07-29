@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Cats on Duty](games/2/2819d0278f1b4fe7bcf06b783950f64d.md) | 2024-07-29 | - |  | - | 0 |
 | [Survivors Will](games/0/0a3bdf37e8b84849bb86db9be2eda7cd.md) | 2024-07-30 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
 | [Humay](games/4/4f761277f93544bdb88ce9ff1a298bd7.md) | 2024-07-31 | - |  | - | - |
@@ -361,6 +362,7 @@
 | [DevMtForakerAudience](games/r/r.b.i._baseball_21.md) | 2099-01-01 | - |  | - | - |
 | [dHexUs](games/1/18ce5f915fb44c1c957951439af675fb.md) | 2099-01-01 | - |  | - | - |
 | [Dismay](games/d/dismay.md) | 2099-01-01 | - |  | - | - |
+| [Doggy Farmer](games/c/cb78e3de03514619a506cc0f526ec22a.md) | 2099-01-01 | - |  | - | - |
 | [Don Duality](games/2/2325c580f06d4eb4ba6814c1b6802bed.md) | 2099-01-01 | - |  | - | - |
 | [Don't Turn Back](games/a/afa43d028dd1408189c2cb83f846fbd6.md) | 2099-01-01 | - |  | - | - |
 | [Draw & Guess](games/7/777b78ab6336430396cfe89d7081efba.md) | 2099-01-01 | - |  | - | - |
@@ -467,6 +469,7 @@
 | [Kun'tewiktuk: A Mi'kmaw Adventure](games/d/d26e915f8acb4a3eaed40407fb6fa787.md) | 2099-01-01 | - |  | - | - |
 | [KURT ´99 - THE FOOTBALL MANAGER](games/9/981beb9f5f3046f39a6d9d89400fce24.md) | 2099-01-01 | - |  | - | - |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | - |  | - | - |
+| [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Creatures 2](games/4/4ffea6176cd44dd7b7d4dc96f5b17a64.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | - |  | - | - |
 | [Lethal Honor - Order of the Apocalypse](games/4/4fd8ab38c14c4d91ba07aae139723027.md) | 2099-01-01 | - |  | - | - |

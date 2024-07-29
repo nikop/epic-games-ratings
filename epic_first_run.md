@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Doggy Farmer](games/c/cb78e3de03514619a506cc0f526ec22a.md) | 2099-01-01 | - |  | - | - |
+| [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2099-01-01 | - |  | - | - |
 | [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2024-07-24 | - |  | - | - |
 | [Where They Go](games/7/7ee5a15b09884e2190ed8743f1ea58ac.md) | 2025-12-31 | - |  | - | - |
 | [WorldShadow](games/4/4796e309f0d749cc901f80167fb6bd94.md) | 2024-12-31 | - |  | - | - |
