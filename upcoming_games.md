@@ -104,6 +104,7 @@
 | [Subway Outbreak](games/6/68cff49f67af49f2909be946848af18a.md) | 2024-10-23 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
 | [SONIC X SHADOW GENERATIONS](games/a/a195e51c853d46038d13c49b882a9215.md) | 2024-10-25 | - |  | - | - |
+| [City Transport Simulator: Tram](games/4/4017aaf2580940f981e66076469a1a99.md) | 2024-10-29 | - |  | - | - |
 | [Innsmouth 22](games/9/9935c6494f7949238e8ad1dc9c401ad5.md) | 2024-10-31 | - |  | - | - |
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
@@ -329,7 +330,6 @@
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
 | [Chrono Odyssey](games/0/0784e327b4474de18562b0eae53b16ca.md) | 2099-01-01 | - |  | - | - |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
-| [City Transport Simulator: Tram](games/4/4017aaf2580940f981e66076469a1a99.md) | 2099-01-01 | - |  | - | - |
 | [Clair Obscur: Expedition 33](games/f/fd04af72ea0f437aad3a15acd9ed5508.md) | 2099-01-01 | - |  | - | - |
 | [Clash Heroes of Feralia Terra](games/e/efb6aef408a04c04aa5f69e565b5a918.md) | 2099-01-01 | - |  | - | - |
 | [Clicker Guardians](games/c/clicker_guardians.md) | 2099-01-01 | - |  | - | - |
