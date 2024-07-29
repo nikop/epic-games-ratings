@@ -1,11 +1,11 @@
 # Neverwinter
 [Store](https://store.epicgames.com/en-US/p/neverwinter)  
 [View Rawdata](../../db/n/neverwinter.json)  
-Rating: 4.29 (Ranked 987)  
+Rating: 4.30 (Ranked 977)  
 Number of Ratings: 1,084  (23.09.2022)  
 ## Awards
 Max (Character Customization): 883  (Ranked 204)  
-Sum: 2,818 (Ranked 218)  
+Sum: 2,819 (Ranked 218)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -14
 | This game is Relaxing | 239 |
 | This game is Extremely Fun | 225 |
 | This game has Amazing Storytelling | 222 |
-| This game has Quickly Understood Controls | 218 |
+| This game has Quickly Understood Controls | 219 |
 | This game has Amazing Characters | 202 |
 | This game has Obsessive Gameplay | 57 |
 | This game has Playful Visuals | 24 |
@@ -453,4 +453,4 @@ Diff (max vs sum): -14
 | 2024-07-26 | 4.29 | - | 880 | 2,810 |
 | 2024-07-27 | 4.30 | - | 880 | 2,812 |
 | 2024-07-28 | 4.29 | - | 880 | 2,815 |
-| 2024-07-29 | 4.29 | - | 883 | 2,818 |
+| 2024-07-29 | 4.30 | - | 883 | 2,819 |
