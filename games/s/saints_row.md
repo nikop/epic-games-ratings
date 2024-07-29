@@ -1,7 +1,7 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.90 (Ranked 1,205)  
+Rating: 3.91 (Ranked 1,201)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -819,3 +819,4 @@ Diff (max vs sum): 49
 | 2024-07-26 | 3.90 | - | 1,300 | 10,449 |
 | 2024-07-27 | 3.90 | - | 1,300 | 10,452 |
 | 2024-07-28 | 3.90 | - | 1,300 | 10,456 |
+| 2024-07-29 | 3.91 | - | 1,300 | 10,456 |

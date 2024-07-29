@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/duskers.json)  
 Rating: 4.55 (Ranked 566)  
 ## Awards
-Max (Quickly Understood Controls): 20  (Ranked 665)  
+Max (Quickly Understood Controls): 20  (Ranked 666)  
 Sum: 40 (Ranked 614)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 20 |
