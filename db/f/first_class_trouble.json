@@ -3,8 +3,8 @@
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 724,
-  "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 323,
+  "Ranking_Popularity": 374,
+  "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -2459,6 +2459,6 @@
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
   "LastChanged": "2024-07-25T06:57:14.7333295+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:17.1256003+00:00",
-  "LastUpdate_Ratings": "2024-07-29T08:58:41.5941758+00:00",
+  "LastUpdate_Ratings": "2024-07-29T10:57:29.2515602+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:04:53.7508547+00:00"
 }
