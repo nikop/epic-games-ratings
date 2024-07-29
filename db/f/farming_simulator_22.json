@@ -4,7 +4,7 @@
   "ProductSlug": "farming-simulator-22",
   "Ranking_Rating": 431,
   "Ranking_Popularity": 39,
-  "Ranking_PopularitySum": 27,
+  "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -20098,10 +20098,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 85596,
       "NumberOfAwardsMax": 14309
+    },
+    {
+      "Time": "2024-07-29T06:00:39.6642506+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 85663,
+      "NumberOfAwardsMax": 14309
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85596,
+  "NumberOfAwards": 85663,
   "NumberOfAwardsMax": 14309,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -20121,7 +20127,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7906
+      "Count": 7973
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -47618,9 +47624,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2024-07-28T20:59:39.7590976+00:00",
+  "LastChanged": "2024-07-29T06:00:39.6642505+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:55.9551518+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:43.5206918+00:00",
-  "LastUpdate_Ratings": "2024-07-29T04:58:33.1185544+00:00",
+  "LastUpdate_Ratings": "2024-07-29T06:00:39.6642511+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:55.9553561+00:00"
 }
