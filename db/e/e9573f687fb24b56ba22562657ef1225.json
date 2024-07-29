@@ -2,7 +2,7 @@
   "ID": "e9573f687fb24b56ba22562657ef1225",
   "Name": "Need for Speed\u2122 Rivals: Complete Edition",
   "ProductSlug": "need-for-speed-rivals-21b76a",
-  "Ranking_Rating": 876,
+  "Ranking_Rating": 821,
   "Ranking_Popularity": 677,
   "Ranking_PopularitySum": 677,
   "Ranking_EOS_Progress": 1102,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2024-07-02T17:57:30.9408844+00:00",
@@ -48,6 +48,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-29T15:58:06.8792352+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -66,8 +72,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-24T22:57:52.0338316+00:00",
   "FirstSeenRating": "2024-07-02T17:57:30.9408842+00:00",
-  "LastChanged": "2024-07-27T16:59:32.4969129+00:00",
+  "LastChanged": "2024-07-29T15:58:06.8792349+00:00",
   "LastUpdate_AppInfo": "2024-07-25T04:57:11.9275406+00:00",
-  "LastUpdate_Ratings": "2024-07-29T13:59:34.5263426+00:00",
+  "LastUpdate_Ratings": "2024-07-29T15:58:06.879236+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:49.0972392+00:00"
 }
