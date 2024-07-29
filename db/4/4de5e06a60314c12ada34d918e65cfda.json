@@ -3,8 +3,8 @@
   "Name": "Crosshair V2",
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 898,
-  "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 395,
+  "Ranking_Popularity": 402,
+  "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 1102,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 19,
@@ -1068,18 +1068,24 @@
       "Rating": 4.37,
       "NumberOfAwards": 498,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2024-07-29T02:58:38.647856+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 511,
+      "NumberOfAwardsMax": 133
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 498,
-  "NumberOfAwardsMax": 126,
+  "NumberOfAwards": 511,
+  "NumberOfAwardsMax": 133,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 126
+      "Count": 133
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1103,7 +1109,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 41
+      "Count": 45
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1121,7 +1127,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1142,8 +1148,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-07-28T17:58:01.3954779+00:00",
+  "LastChanged": "2024-07-29T02:58:38.6478558+00:00",
   "LastUpdate_AppInfo": "2024-07-22T08:57:31.4500982+00:00",
-  "LastUpdate_Ratings": "2024-07-28T23:59:57.797618+00:00",
+  "LastUpdate_Ratings": "2024-07-29T02:58:38.6478564+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:54.1629684+00:00"
 }

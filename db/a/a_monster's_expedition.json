@@ -2,7 +2,7 @@
   "ID": "2b4079af75f0487798a504ca35952942",
   "Name": "A Monster\u0027s Expedition",
   "ProductSlug": "a-monsters-expedition",
-  "Ranking_Rating": 157,
+  "Ranking_Rating": 144,
   "Ranking_Popularity": 676,
   "Ranking_PopularitySum": 676,
   "Ranking_EOS_Progress": 1102,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:16.6505833+00:00",
@@ -29,6 +29,12 @@
     {
       "Time": "2024-03-12T10:01:45.1947383+00:00",
       "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-29T02:58:45.2271529+00:00",
+      "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -49,8 +55,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:56.1708306+00:00",
   "FirstSeenRating": "2023-03-31T05:57:16.6505829+00:00",
-  "LastChanged": "2024-03-12T10:01:45.1947382+00:00",
+  "LastChanged": "2024-07-29T02:58:45.2271527+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:59:07.511847+00:00",
-  "LastUpdate_Ratings": "2024-07-29T00:00:04.2242108+00:00",
+  "LastUpdate_Ratings": "2024-07-29T02:58:45.2271534+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:43.6388487+00:00"
 }
