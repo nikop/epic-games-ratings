@@ -128,7 +128,7 @@
 | [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2023-06-15 | 33 (1,000 XP) | 0 | - | 0 |
 | [Sea of Dreams](games/a/a7414e60172b4759a136d064018119c1.md) | 2023-10-17 | 7 (1,000 XP) | 6 | - | 0 |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-26 | 50 (1,000 XP) | 3,434 | 3.86 | 1,634 |
-| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 58,298 | 3.84 | 99 |
+| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 58,298 | 3.84 | 101 |
 | [We Are Not Alone](games/w/we_are_not_alone.md) | 2024-03-31 | 19 (1,000 XP) | 12 | - | 0 |
 | [Bears in Space](games/2/23e93891eab3402ba0321f1ca405d41d.md) | 2024-03-22 | 77 (1,000 XP) | 35 | - | 0 |
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-04-05 | 30 (1,000 XP) | 2 | - | 0 |
@@ -326,7 +326,7 @@
 | [CounterAttack: Uprising](games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 2024-01-12 | 24 (1,000 XP) | 90 | - | 0 |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 2023-12-17 | 31 (1,000 XP) | 116 | - | 0 |
-| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 414,750 | 4.26 | 137 |
+| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 414,750 | 4.26 | 138 |
 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 471,173 | 4.26 | 67 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 5,144 | 4.42 | 110 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,094 | 4.48 | 115 |
