@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2024-07-30 | - |  | - | - |
 | [Survivors Will](games/0/0a3bdf37e8b84849bb86db9be2eda7cd.md) | 2024-07-30 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
 | [Humay](games/4/4f761277f93544bdb88ce9ff1a298bd7.md) | 2024-07-31 | - |  | - | - |
@@ -100,7 +101,6 @@
 | [XERA: Survival](games/2/229d261b68a34a35a5759d0d79d319e9.md) | 2024-09-30 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-10-01 | - |  | - | - |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-10-09 | - |  | - | - |
-| [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-10-18 | - |  | - | - |
 | [Subway Outbreak](games/6/68cff49f67af49f2909be946848af18a.md) | 2024-10-23 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
 | [SONIC X SHADOW GENERATIONS](games/a/a195e51c853d46038d13c49b882a9215.md) | 2024-10-25 | - |  | - | - |
@@ -150,6 +150,7 @@
 | [Earth From Another Sun](games/1/1718f23d17c046398d8d248ec9b8f9d6.md) | 2024-12-31 | - |  | - | - |
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |
 | [EBOLA VILLAGE](games/e/e37cc2b5002a46bd9d0207d4b5b70d0c.md) | 2024-12-31 | - |  | - | - |
+| [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-12-31 | - |  | - | - |
 | [England In London](games/9/9a648ce6a6634184ad45f5fe3788a3c2.md) | 2024-12-31 | - |  | - | - |
 | [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
 | [Evershire](games/8/82d7f438164d4ed182d27265c63574fc.md) | 2024-12-31 | - |  | - | - |
@@ -469,7 +470,6 @@
 | [Kun'tewiktuk: A Mi'kmaw Adventure](games/d/d26e915f8acb4a3eaed40407fb6fa787.md) | 2099-01-01 | - |  | - | - |
 | [KURT ´99 - THE FOOTBALL MANAGER](games/9/981beb9f5f3046f39a6d9d89400fce24.md) | 2099-01-01 | - |  | - | - |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | - |  | - | - |
-| [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Creatures 2](games/4/4ffea6176cd44dd7b7d4dc96f5b17a64.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | - |  | - | - |
 | [Lethal Honor - Order of the Apocalypse](games/4/4fd8ab38c14c4d91ba07aae139723027.md) | 2099-01-01 | - |  | - | - |

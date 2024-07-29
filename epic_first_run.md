@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Doggy Farmer](games/c/cb78e3de03514619a506cc0f526ec22a.md) | 2099-01-01 | - |  | - | - |
-| [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2099-01-01 | - |  | - | - |
+| [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2024-07-30 | - |  | - | - |
 | [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2024-07-24 | - |  | - | - |
 | [Where They Go](games/7/7ee5a15b09884e2190ed8743f1ea58ac.md) | 2025-12-31 | - |  | - | - |
 | [WorldShadow](games/4/4796e309f0d749cc901f80167fb6bd94.md) | 2024-12-31 | - |  | - | - |
@@ -60,7 +60,7 @@
 | [Game Room](games/4/40712343dccb4c8183c34eda1c034c17.md) | 2099-01-01 | - |  | - | - |
 | [Inn Keeper](games/i/inn_keeper.md) | 2024-12-31 | - |  | - | - |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | 26 (1,000 XP) | 2 | - | 0 |
-| [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-10-18 | - |  | - | - |
+| [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-12-31 | - |  | - | - |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 51 | - | - |
 | [BoltBreak 2](games/5/597a33e3a06945278a30506a8496345f.md) | 2099-01-01 | - |  | - | - |
 | [Pantomime](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2099-01-01 | - |  | - | - |
