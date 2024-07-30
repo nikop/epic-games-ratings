@@ -1,7 +1,7 @@
 # Surgeon Simulator 2
 [Store](https://store.epicgames.com/en-US/p/surgeon-simulator-2)  
 [View Rawdata](../../db/s/surgeon_simulator_2.json)  
-Rating: 4.49 (Ranked 687)  
+Rating: 4.50 (Ranked 666)  
 Number of Ratings: 22  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -28,3 +28,4 @@ Number of Ratings: 22  (23.09.2022)
 | 2024-01-08 | 4.46 | - | 0 | 0 |
 | 2024-07-09 | 4.48 | - | 0 | 0 |
 | 2024-07-25 | 4.49 | - | 0 | 0 |
+| 2024-07-30 | 4.50 | - | 0 | 0 |
