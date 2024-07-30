@@ -3,7 +3,7 @@
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
   "Ranking_Rating": 367,
-  "Ranking_Popularity": 549,
+  "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 229,
@@ -429,18 +429,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-07-30T21:59:08.5239798+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 44
+      "Count": 45
     }
   ],
   "EOS_Progressed": 2938,
@@ -3931,9 +3937,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
-  "LastChanged": "2024-07-24T23:59:08.4712891+00:00",
+  "LastChanged": "2024-07-30T21:59:08.5239796+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:48.4766075+00:00",
   "LastUpdate_AppInfo": "2024-07-28T14:57:14.100466+00:00",
-  "LastUpdate_Ratings": "2024-07-30T20:00:03.3633222+00:00",
+  "LastUpdate_Ratings": "2024-07-30T21:59:08.5239801+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:48.4766388+00:00"
 }

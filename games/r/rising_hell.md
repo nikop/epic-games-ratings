@@ -1,10 +1,10 @@
 # Rising Hell
 [Store](https://store.epicgames.com/en-US/p/rising-hell-253707)  
 [View Rawdata](../../db/r/rising_hell.json)  
-Rating: 4.40 (Ranked 859)  
+Rating: 4.40 (Ranked 858)  
 ## Awards
 Max (Quickly Understood Controls): 76  (Ranked 485)  
-Sum: 685 (Ranked 366)  
+Sum: 686 (Ranked 366)  
 Diff (max vs sum): 119  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 119
 | This game is Relaxing | 65 |
 | This game has Unique Visuals | 64 |
 | This game is Extremely Fun | 63 |
-| This game is Great for Beginners | 60 |
+| This game is Great for Beginners | 61 |
 | This game has Amazing Characters | 60 |
 | This game is Highly Recommended | 59 |
 | This game is Great for Quick Sessions | 59 |
@@ -75,4 +75,4 @@ Diff (max vs sum): 119
 | 2024-06-04 | 4.40 | 76 | 682 |
 | 2024-06-21 | 4.40 | 76 | 683 |
 | 2024-07-24 | 4.40 | 76 | 684 |
-| 2024-07-30 | 4.40 | 76 | 685 |
+| 2024-07-30 | 4.40 | 76 | 686 |

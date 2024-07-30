@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.48 (Ranked 706)  
+Rating: 4.48 (Ranked 705)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -346,8 +346,8 @@ Completed: 3 (0.03%) (Ranked 469)
 | 2024-06-17 | 11,320 | 3 |
 ## Awards
 Max (Great for Beginners): 67  (Ranked 501)  
-Sum: 474 (Ranked 398)  
-Diff (max vs sum): 103  
+Sum: 474 (Ranked 399)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 67 |

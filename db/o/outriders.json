@@ -2,7 +2,7 @@
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
-  "Ranking_Rating": 776,
+  "Ranking_Rating": 775,
   "Ranking_Popularity": 150,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 1141,
@@ -6512,10 +6512,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 3872,
       "NumberOfAwardsMax": 1660
+    },
+    {
+      "Time": "2024-07-30T22:00:51.5320207+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 3873,
+      "NumberOfAwardsMax": 1660
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3872,
+  "NumberOfAwards": 3873,
   "NumberOfAwardsMax": 1660,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6541,7 +6547,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 244
+      "Count": 245
     },
     {
       "Text": "This game is Relaxing",
@@ -6597,8 +6603,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2024-07-30T18:59:10.1249565+00:00",
+  "LastChanged": "2024-07-30T22:00:51.5320205+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:34.4928484+00:00",
-  "LastUpdate_Ratings": "2024-07-30T20:57:38.7265472+00:00",
+  "LastUpdate_Ratings": "2024-07-30T22:00:51.5320211+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:23.4696392+00:00"
 }

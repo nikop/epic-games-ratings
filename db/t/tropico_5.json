@@ -2,9 +2,9 @@
   "ID": "7015c51a49be4592b5ba3ae2577723c5",
   "Name": "Tropico 5",
   "ProductSlug": "tropico-5",
-  "Ranking_Rating": 757,
+  "Ranking_Rating": 756,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2694,10 +2694,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1078,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2024-07-30T21:57:38.793192+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1079,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1078,
+  "NumberOfAwards": 1079,
   "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2717,7 +2723,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 123
+      "Count": 124
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2779,8 +2785,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2024-07-30T15:58:07.1388557+00:00",
+  "LastChanged": "2024-07-30T21:57:38.7931918+00:00",
   "LastUpdate_AppInfo": "2024-07-28T17:57:22.4078949+00:00",
-  "LastUpdate_Ratings": "2024-07-30T19:58:58.3474007+00:00",
+  "LastUpdate_Ratings": "2024-07-30T21:57:38.7931924+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:08:05.4195865+00:00"
 }
