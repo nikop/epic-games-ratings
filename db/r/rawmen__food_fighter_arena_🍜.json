@@ -2,7 +2,7 @@
   "ID": "b9665613f2b94636bf4536a411002d22",
   "Name": "RAWMEN: Food Fighter Arena \uD83C\uDF5C",
   "ProductSlug": "rawmen-03f74e",
-  "Ranking_Rating": 726,
+  "Ranking_Rating": 706,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1107,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:41.7807935+00:00",
@@ -131,6 +131,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-30T03:57:24.584624+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -157,9 +163,9 @@
   "FirstSeen": "2022-12-31T04:58:39.4215478+00:00",
   "FirstSeenRating": "2023-03-31T05:58:41.7807932+00:00",
   "FirstSeenAchievements": "2024-06-17T16:11:47.2562781+00:00",
-  "LastChanged": "2024-07-30T01:59:07.0938711+00:00",
+  "LastChanged": "2024-07-30T03:57:24.5846238+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:47.2562762+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:54.0431322+00:00",
-  "LastUpdate_Ratings": "2024-07-30T01:59:07.0938715+00:00",
+  "LastUpdate_Ratings": "2024-07-30T03:57:24.5846245+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:47.2562795+00:00"
 }
