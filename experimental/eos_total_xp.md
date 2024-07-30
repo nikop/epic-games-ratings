@@ -67,6 +67,7 @@
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 |
 | [High On Life](../games/h/high_on_life.md) | 44 | 1,195 |
+| [The Oregon Trail](../games/1/1d6775ba73a54669817f482fb89f9dae.md) | 26 | 1,195 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 |
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 55 | 1,170 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 |
@@ -429,6 +430,7 @@
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Fishing Planet](../games/4/441b1561f48746059211ab905f4abc93.md) | 20 | 1,000 |
 | [Five Dates](../games/f/five_dates.md) | 15 | 1,000 |
+| [Flashback 2](../games/f/flashback_2.md) | 21 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |
 | [FlatOut: Ultimate Carnage Collector's Edition](../games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 34 | 1,000 |
 | [Football Manager 2022](../games/f/football_manager_2022.md) | 98 | 1,000 |
@@ -509,6 +511,7 @@
 | [Hello Neighbor 2](../games/h/hello_neighbor_2.md) | 14 | 1,000 |
 | [Hercule Poirot - The First Cases](../games/h/hercule_poirot_-_the_first_cases.md) | 46 | 1,000 |
 | [Hero Battle Fantasy Arena](../games/4/4d936d45ca14450c86d6472c3c494181.md) | 15 | 1,000 |
+| [Hero of the Kingdom](../games/1/17fd3ea945ad482190387b6b55b42633.md) | 38 | 1,000 |
 | [Hidden Shapes - Cat Realm](../games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 42 | 1,000 |
 | [Hidden Shapes Animals](../games/f/fd28199790f441de828b16e9fd646438.md) | 42 | 1,000 |
 | [Hidden Shapes Lovely Cats](../games/0/09d5ec77740e470993122a1a16f508aa.md) | 42 | 1,000 |
@@ -605,6 +608,7 @@
 | [Lichenvale](../games/l/lichenvale.md) | 11 | 1,000 |
 | [Life After Death](../games/l/life_after_death.md) | 60 | 1,000 |
 | [Life Changer](../games/f/f853934fb6874d8783701be12ba6b8b9.md) | 20 | 1,000 |
+| [Lifeless Moon](../games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 17 | 1,000 |
 | [Lifeslide](../games/l/lifeslide.md) | 31 | 1,000 |
 | [Lifespace Traveler](../games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 13 | 1,000 |
 | [Lil' Guardsman](../games/3/33fcce6151b249118a2b7d79c1dfe6b1.md) | 48 | 1,000 |
@@ -621,6 +625,7 @@
 | [Lost in Random™](../games/e/e90ca75b24874ba397f316b447d6d01a.md) | 40 | 1,000 |
 | [Lost Islands](../games/3/3b0aa55999714473a49215e89289f883.md) | 19 | 1,000 |
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
+| [Lotus Lantern: Rescue Mother](../games/1/13f8834eac4e40dbb24a1340686ad8c4.md) | 16 | 1,000 |
 | [LOVE](../games/6/6a04125b9d884151868aa2c56e84dc11.md) | 18 | 1,000 |
 | [LOVE 3](../games/l/love_3.md) | 22 | 1,000 |
 | [Love Money Rock-n-Roll](../games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 18 | 1,000 |

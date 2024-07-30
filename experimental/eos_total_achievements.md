@@ -418,6 +418,7 @@
 | [TT Isle of Man: Ride on the Edge 3](../games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 39 | 1,000 |
 | [Chess Ultra](../games/c/chess_ultra.md) | 38 | 1,000 |
 | [Everafter Falls](../games/b/bb5dabc784164e62ac3e96858de000bf.md) | 38 | 1,000 |
+| [Hero of the Kingdom](../games/1/17fd3ea945ad482190387b6b55b42633.md) | 38 | 1,000 |
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
@@ -687,6 +688,7 @@
 | [The Guild 3](../games/t/the_guild_3.md) | 26 | 1,000 |
 | [The Isle Tide Hotel](../games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 26 | 1,000 |
 | [The Legend of Tianding](../games/t/the_legend_of_tianding.md) | 26 | 1,000 |
+| [The Oregon Trail](../games/1/1d6775ba73a54669817f482fb89f9dae.md) | 26 | 1,195 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
 | [Unravel](../games/7/71d91cc48e0145078a1db1e402c8975b.md) | 26 | 1,000 |
 | [Wavecade](../games/8/8e8e69a4f240487d89727df7761c5362.md) | 26 | 1,000 |
@@ -802,6 +804,7 @@
 | [Demise of Nations](../games/2/284a71e3e36b41a18b474e5469060944.md) | 21 | 1,000 |
 | [DINOSAURS: Mission Dino Camp](../games/2/20938450f73b48a9bb1a5243bcac965b.md) | 21 | 1,000 |
 | [Edward's Journey](../games/5/5714d34c31374f07ae1f8dce31168650.md) | 21 | 1,000 |
+| [Flashback 2](../games/f/flashback_2.md) | 21 | 1,000 |
 | [Jusant](../games/9/9091161212874dca85088ef75d712cc2.md) | 21 | 1,000 |
 | [Madden NFL 23](../games/m/madden_nfl_23.md) | 21 | 1,000 |
 | [Madden NFL 24](../games/0/0460f46401ae4bdcadbc931d30028015.md) | 21 | 1,000 |
@@ -902,6 +905,7 @@
 | [Faraday Protocol](../games/f/faraday_protocol.md) | 17 | 1,000 |
 | [Full Moon Rush](../games/f/full_moon_rush.md) | 17 | 1,400 |
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
+| [Lifeless Moon](../games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 17 | 1,000 |
 | [Mask of the Rose](../games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 17 | 1,000 |
 | [MiLE HiGH TAXi](../games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 17 | 1,000 |
 | [My Demon Wife](../games/m/my_demon_wife.md) | 17 | 1,000 |
@@ -927,6 +931,7 @@
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |
 | [Howl](../games/h/howl.md) | 16 | 1,000 |
 | [IHAS](../games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 16 | 1,000 |
+| [Lotus Lantern: Rescue Mother](../games/1/13f8834eac4e40dbb24a1340686ad8c4.md) | 16 | 1,000 |
 | [Masterplan Tycoon](../games/3/3933d71231a543fd873b8768585e2bd7.md) | 16 | 1,000 |
 | [Orten Was The Case](../games/4/40257023d2d44231ac722108f30ab717.md) | 16 | 1,000 |
 | [Pixel Art Coloring Book](../games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 16 | 1,000 |

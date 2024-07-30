@@ -90,7 +90,7 @@
 | [The Evil Within](../games/d/d602fd70876141ba9bf4d54809c423d1.md) | 71 | 1,735 | 2 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 | 2 |
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 34 | 1,100 | 2 |
-| [The Oregon Trail](../games/1/1d6775ba73a54669817f482fb89f9dae.md) | 0 | 0 | 2 |
+| [The Oregon Trail](../games/1/1d6775ba73a54669817f482fb89f9dae.md) | 26 | 1,195 | 2 |
 | [The Tenants](../games/t/the_tenants.md) | 86 | 1,400 | 2 |
 | [The Tribe Must Survive](../games/5/50d794a4930c401f9f25e28ce7335db2.md) | 30 | 1,950 | 2 |
 | [Tomb Raider I-III Remastered Starring Lara Croft](../games/5/5aab0660c2db4caa8a535d267a84633c.md) | 269 | 1,345 | 2 |
