@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-mania",
   "Ranking_Rating": 127,
   "Ranking_Popularity": 184,
-  "Ranking_PopularitySum": 257,
+  "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 28,
@@ -2617,6 +2617,6 @@
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
   "LastChanged": "2024-07-29T17:57:40.0073811+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:58.816027+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:08:18.4110007+00:00",
+  "LastUpdate_Ratings": "2024-07-30T13:59:48.9896738+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:14.4555064+00:00"
 }
