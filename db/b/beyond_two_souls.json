@@ -3,7 +3,7 @@
   "Name": "Beyond Two Souls",
   "ProductSlug": "beyond-two-souls",
   "Ranking_Rating": 300,
-  "Ranking_Popularity": 474,
+  "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
@@ -655,18 +655,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-07-30T14:58:51.9983517+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 81,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80,
-  "NumberOfAwardsMax": 80,
+  "NumberOfAwards": 81,
+  "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 80
+      "Count": 81
     }
   ],
   "EOS_Progressed": 0,
@@ -680,8 +686,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2024-07-29T11:59:20.2876587+00:00",
+  "LastChanged": "2024-07-30T14:58:51.9983516+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:44.9071008+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:11:13.6872556+00:00",
+  "LastUpdate_Ratings": "2024-07-30T14:58:51.9983521+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:11.0964868+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "riverbond-782aa4",
   "Ranking_Rating": 739,
   "Ranking_Popularity": 647,
-  "Ranking_PopularitySum": 584,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 396,
   "Ranking_EOS_NewPlayers": 28,
@@ -573,10 +573,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-07-30T14:57:45.3204528+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 67,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66,
+  "NumberOfAwards": 67,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -596,7 +602,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 545224,
@@ -31171,9 +31177,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
-  "LastChanged": "2024-07-28T13:02:17.1850045+00:00",
+  "LastChanged": "2024-07-30T14:57:45.3204526+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:50.4611009+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:46.0191535+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:09:53.1691879+00:00",
+  "LastUpdate_Ratings": "2024-07-30T14:57:45.3204532+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:50.4612457+00:00"
 }

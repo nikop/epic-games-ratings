@@ -2,7 +2,7 @@
   "ID": "0a541deb1bbb42c987cb48d695431e18",
   "Name": "Battlefield 4\u2122 Premium Edition",
   "ProductSlug": "battlefield-4-412248",
-  "Ranking_Rating": 978,
+  "Ranking_Rating": 970,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 329,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2024-06-14T14:57:16.08786+00:00",
@@ -142,6 +142,12 @@
     {
       "Time": "2024-07-28T04:58:06.2904718+00:00",
       "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-30T14:58:49.1036087+00:00",
+      "Rating": 4.31,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -725,9 +731,9 @@
   "FirstSeen": "2024-03-30T23:58:20.1129476+00:00",
   "FirstSeenRating": "2024-06-14T14:57:16.0878598+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:55.4233236+00:00",
-  "LastChanged": "2024-07-28T04:58:06.2904716+00:00",
+  "LastChanged": "2024-07-30T14:58:49.1036086+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:40.3887168+00:00",
   "LastUpdate_AppInfo": "2024-07-26T01:55:34.8601214+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:11:07.2129662+00:00",
+  "LastUpdate_Ratings": "2024-07-30T14:58:49.1036091+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:40.3888067+00:00"
 }
