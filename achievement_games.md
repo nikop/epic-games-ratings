@@ -501,7 +501,7 @@
 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2023-09-21 | 64 (1,000 XP) | 64 | - | 0 |
 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 2023-09-21 | 21 (1,000 XP) | 1 | - | - |
 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 2023-09-21 | 15 (1,000 XP) | 22 | - | 0 |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 30,054 | 4.57 | 4,315 |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 30,054 | 4.57 | 4,327 |
 | [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | - |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-09-15 | 16 (1,000 XP) | 46 | - | 0 |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2023-09-14 | 29 (1,000 XP) | 317 | - | 0 |
@@ -695,7 +695,7 @@
 | [Astronite](games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 2023-05-26 | 25 (1,000 XP) | 0 | - | 0 |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-26 | 38 (1,000 XP) | 3,137 | 3.52 | 0 |
 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 2023-05-25 | 12 (1,000 XP) | 174 | - | 0 |
-| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 61 (1,145 XP) | 3,127 | 4.34 | 29 |
+| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 61 (1,145 XP) | 3,127 | 4.35 | 29 |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 1,120 | - | 0 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 11 (1,000 XP) | 66 | - | 0 |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 21 (1,000 XP) | 56 | - | 0 |
@@ -742,7 +742,7 @@
 | [Ravenlok](games/r/ravenlok.md) | 2023-05-04 | 50 (1,000 XP) | 1,256 | - | 0 |
 | [Remains](games/r/remains.md) | 2023-05-03 | 7 (1,000 XP) | 71 | - | 0 |
 | [Showgunners](games/s/showgunners.md) | 2023-05-02 | 54 (1,300 XP) | 3 | - | 0 |
-| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 64 (1,560 XP) | 7,915 | 4.66 | 84 |
+| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 64 (1,560 XP) | 7,915 | 4.66 | 87 |
 | [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 2,624 | 3.68 | 46 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 14 | - | 0 |
 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 2023-05-01 | 60 (1,000 XP) | 8 | - | 0 |
@@ -764,7 +764,7 @@
 | [Island Cities](games/i/island_cities.md) | 2023-04-27 | 22 (1,000 XP) | 1,003 | - | 0 |
 | [EBOLA 3](games/e/ebola_3.md) | 2023-04-26 | 50 (1,000 XP) | 1,002 | - | 0 |
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,567 | - | 0 |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 114,566 | 3.72 | 513 |
+| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 114,566 | 3.72 | 523 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 90 | - | 0 |
 | [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 956,612 | 4.54 | 16,097 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
@@ -856,7 +856,7 @@
 | [Garden In](games/g/garden_in.md) | 2023-01-26 | 31 (1,000 XP) | 240 | - | 0 |
 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 2023-01-26 | 19 (1,000 XP) | 2,397 | 4.34 | 0 |
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 2023-01-25 | 71 (1,250 XP) | 19,704 | 4.83 | 61 |
-| [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 51,902 | 4.17 | 75 |
+| [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 51,902 | 4.17 | 77 |
 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 2023-01-24 | 19 (1,000 XP) | 305 | - | 0 |
 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 2023-01-19 | 26 (1,000 XP) | 17,794 | 3.84 | 0 |
 | [Colossal Cave](games/c/colossal_cave.md) | 2023-01-19 | 24 (1,000 XP) | 118 | - | 0 |
@@ -966,7 +966,7 @@
 | [City of Gangsters](games/c/city_of_gangsters.md) | 2022-08-11 | 80 (1,000 XP) | 379,067 | 4.30 | 54 |
 | [Filament](games/f/filament.md) | 2022-08-11 | 29 (1,000 XP) | 217,082 | 4.33 | 607 |
 | [Project Highrise](games/p/project_highrise.md) | 2022-08-11 | 88 (1,000 XP) | 699 | - | 0 |
-| [Rise of Industry](games/r/rise_of_industry.md) | 2022-08-11 | 27 (1,000 XP) | 797,723 | 4.27 | 45 |
+| [Rise of Industry](games/r/rise_of_industry.md) | 2022-08-11 | 27 (1,000 XP) | 797,723 | 4.26 | 45 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 2022-08-11 | 34 (1,000 XP) | 242,215 | 4.44 | 304 |
 | [GigaBash](games/g/gigabash.md) | 2022-08-04 | 35 (1,000 XP) | 151,060 | 4.52 | 116 |
 | [Frogun](games/f/frogun.md) | 2022-08-02 | 31 (1,000 XP) | 253 | - | 0 |
@@ -1129,12 +1129,12 @@
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 146 | 4.64 | 20 |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 390 | 4.42 | 29 |
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 2021-03-18 | 19 (1,000 XP) | 1,428 | 4.38 | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,354 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,361 |
 | [Scrapnaut](games/s/scrapnaut.md) | 2021-03-03 | 31 (1,000 XP) | 831 | 4.32 | 0 |
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 52,242 | 4.60 | 239 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 88 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,586,282 | 4.46 | 0 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 580 (2,900 XP) | 331,239 | 4.06 | 6,419 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 580 (2,900 XP) | 331,239 | 4.06 | 6,427 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,444 | 4.73 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 591,303 | - | 0 |
@@ -1145,13 +1145,13 @@
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 503,157 | 4.45 | 297 |
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.66 | 8,699 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,446 | 4.65 | 0 |
-| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,061 | 4.66 | 2,022 |
+| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,061 | 4.66 | 2,024 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 172,359 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 172 | 4.15 | 0 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,770 | 4.86 | 53 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 59,695 | 4.65 | 447 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 985 | 4.74 | 81 |
-| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,317,628 | 4.55 | 3,784 |
+| [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,317,628 | 4.55 | 3,798 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 82,565 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,747 | 4.04 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 518,123 | 4.61 | 113 |

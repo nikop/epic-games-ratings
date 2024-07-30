@@ -545,7 +545,7 @@
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 57,189 | 4.47 | 3,728 |
 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 2023-09-25 | 91 (1,000 XP) | 3,762 | 4.59 | 0 |
-| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 30,054 | 4.57 | 4,315 |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 50 (1,000 XP) | 30,054 | 4.57 | 4,327 |
 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 2023-12-05 | 18 (1,000 XP) | 363 | - | 0 |
 | [Bud Spencer and Terence Hill - Slaps and Beans 2](games/e/eca02a726aa54712b4c03c00bf1f0c23.md) | 2023-09-22 | 33 (1,000 XP) | 0 | - | 0 |
 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 2023-10-04 | 47 (1,000 XP) | 119 | - | 0 |
@@ -601,7 +601,7 @@
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,275 | 4.85 | 51 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,354 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,361 |
 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 2023-08-29 | 19 (1,000 XP) | 44 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 15 | - | - |
 | [Amigo Kebab Simulator](games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 2099-01-01 | 31 (1,000 XP) | 0 | - | - |

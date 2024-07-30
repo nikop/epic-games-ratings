@@ -39,6 +39,7 @@
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-08-21 | - |  | - | - |
+| [Alien Paradise](games/6/64d8cc2fb5cc4798a6db9796b7e73e3f.md) | 2024-08-23 | - |  | - | - |
 | [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2024-08-23 | - |  | - | - |
 | [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-26 | - |  | - | - |
 | [SMITE 2](games/1/16ed9f15b1b449ccb59cb610b13df5b8.md) | 2024-08-27 | - |  | - | - |
@@ -121,7 +122,6 @@
 | [Age of Rust](games/a/age_of_rust.md) | 2024-12-31 | - |  | - | - |
 | [Age of Zalmoxis - Rise of the Fallen](games/3/3be7d39a69c34da7bdd5fb6db6c049df.md) | 2024-12-31 | - |  | - | - |
 | [AI Limit](games/2/2fb538cb267a4d3db252beee84659e97.md) | 2024-12-31 | - |  | - | - |
-| [Alien Paradise](games/6/64d8cc2fb5cc4798a6db9796b7e73e3f.md) | 2024-12-31 | - |  | - | - |
 | [Alliance of the Sacred Suns](games/a/alliance_of_the_sacred_suns.md) | 2024-12-31 | - |  | - | - |
 | [Amerzone - The Explorer's Legacy Remake](games/e/e40eadc475c34815863234f4785bc602.md) | 2024-12-31 | - |  | - | - |
 | [AneeMate](games/3/37c7383b38294eeaa49c2c2139cb3807.md) | 2024-12-31 | - |  | - | - |
