@@ -2,8 +2,8 @@
   "ID": "0ccff28e73c64060b1c9a74c3298fd68",
   "Name": "Tennis Manager 2024",
   "ProductSlug": "tennis-manager-2024-6f4c03",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -29,9 +29,643 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-07-30T16:02:34.3540681+00:00",
+  "TotalAchievements": 79,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BALANCE_100K",
+      "SetID": "4cofp2d",
+      "Name": "The Money Maker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALANCE_10M",
+      "SetID": "4cofp2d",
+      "Name": "The Money Maker V",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALANCE_1M",
+      "SetID": "4cofp2d",
+      "Name": "The Money Maker III",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALANCE_20M",
+      "SetID": "4cofp2d",
+      "Name": "The Money Maker VI",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALANCE_500K",
+      "SetID": "4cofp2d",
+      "Name": "The Money Maker II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALANCE_50M",
+      "SetID": "4cofp2d",
+      "Name": "The Money Maker VII",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALANCE_5M",
+      "SetID": "4cofp2d",
+      "Name": "The Money Maker IV",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAPTAIN_JUNIOR",
+      "SetID": "4cofp2d",
+      "Name": "The Captain (junior)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CAPTAIN_PRO",
+      "SetID": "4cofp2d",
+      "Name": "The Captain (pro)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_LEVEL_03",
+      "SetID": "4cofp2d",
+      "Name": "The Seasoned",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_LEVEL_04",
+      "SetID": "4cofp2d",
+      "Name": "The Hardened",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_LEVEL_05",
+      "SetID": "4cofp2d",
+      "Name": "The Solid",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_LEVEL_06",
+      "SetID": "4cofp2d",
+      "Name": "The Confirmed",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_LEVEL_07",
+      "SetID": "4cofp2d",
+      "Name": "The Experienced",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_LEVEL_08",
+      "SetID": "4cofp2d",
+      "Name": "The Very experienced",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_LEVEL_09",
+      "SetID": "4cofp2d",
+      "Name": "The Legend",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_RANK_1",
+      "SetID": "4cofp2d",
+      "Name": "The Number One",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CREATE_ACADEMY",
+      "SetID": "4cofp2d",
+      "Name": "The Founder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVALUATE_PLAYER_10",
+      "SetID": "4cofp2d",
+      "Name": "The Scout",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVALUATE_PLAYER_100",
+      "SetID": "4cofp2d",
+      "Name": "The Scout IV",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVALUATE_PLAYER_20",
+      "SetID": "4cofp2d",
+      "Name": "The Scout II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVALUATE_PLAYER_200",
+      "SetID": "4cofp2d",
+      "Name": "The Scout V",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVALUATE_PLAYER_50",
+      "SetID": "4cofp2d",
+      "Name": "The Scout III",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EVALUATE_PLAYER_500",
+      "SetID": "4cofp2d",
+      "Name": "The Scout VI",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_MATCH",
+      "SetID": "4cofp2d",
+      "Name": "The Coach",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GAMEPLAN_CREATE",
+      "SetID": "4cofp2d",
+      "Name": "The Tactician",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOO_PARTICIPATE",
+      "SetID": "4cofp2d",
+      "Name": "The GoO challenger",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOO_WIN",
+      "SetID": "4cofp2d",
+      "Name": "The God of Olympus",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAND_SLAM_1",
+      "SetID": "4cofp2d",
+      "Name": "The Winner",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAND_SLAM_10",
+      "SetID": "4cofp2d",
+      "Name": "The Winner II",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAND_SLAM_20",
+      "SetID": "4cofp2d",
+      "Name": "The Winner III",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_BC_2",
+      "SetID": "4cofp2d",
+      "Name": "The Special Agent",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_BC_5",
+      "SetID": "4cofp2d",
+      "Name": "The Special Agent II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_BC_7",
+      "SetID": "4cofp2d",
+      "Name": "The Special Agent III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_BUSINESS_CENTER",
+      "SetID": "4cofp2d",
+      "Name": "The Special Agent IV",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_LEVEL_UP",
+      "SetID": "4cofp2d",
+      "Name": "The Builder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_MC_2",
+      "SetID": "4cofp2d",
+      "Name": "The Surgeon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_MC_5",
+      "SetID": "4cofp2d",
+      "Name": "The Surgeon II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_MC_7",
+      "SetID": "4cofp2d",
+      "Name": "The Surgeon III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_MEDICAL_CENTER",
+      "SetID": "4cofp2d",
+      "Name": "The Surgeon IV",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_SC_2",
+      "SetID": "4cofp2d",
+      "Name": "The Jock",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_SC_5",
+      "SetID": "4cofp2d",
+      "Name": "The Jock II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_SC_7",
+      "SetID": "4cofp2d",
+      "Name": "The Jock III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_SPORTS_CENTER",
+      "SetID": "4cofp2d",
+      "Name": "The Jock IV",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_TENNIS_SCHOOL",
+      "SetID": "4cofp2d",
+      "Name": "The Nerd IV",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_TS_5",
+      "SetID": "4cofp2d",
+      "Name": "The Nerd II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INFRA_TS_7",
+      "SetID": "4cofp2d",
+      "Name": "The Nerd III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INTERVIEW_1",
+      "SetID": "4cofp2d",
+      "Name": "The Talker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INTERVIEW_20",
+      "SetID": "4cofp2d",
+      "Name": "The Talker III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INTERVIEW_5",
+      "SetID": "4cofp2d",
+      "Name": "The Talker II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "INTERVIEW_50",
+      "SetID": "4cofp2d",
+      "Name": "The Talker IV",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MATCH_100",
+      "SetID": "4cofp2d",
+      "Name": "The Coach IV",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MATCH_1000",
+      "SetID": "4cofp2d",
+      "Name": "The Coach VI",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MATCH_5",
+      "SetID": "4cofp2d",
+      "Name": "The Coach II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MATCH_50",
+      "SetID": "4cofp2d",
+      "Name": "The Coach III",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MATCH_500",
+      "SetID": "4cofp2d",
+      "Name": "The Coach V",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRESS_CONF_1",
+      "SetID": "4cofp2d",
+      "Name": "The Speaker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRESS_CONF_20",
+      "SetID": "4cofp2d",
+      "Name": "The Speaker III",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRESS_CONF_5",
+      "SetID": "4cofp2d",
+      "Name": "The Speaker II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PRESS_CONF_50",
+      "SetID": "4cofp2d",
+      "Name": "The Speaker IV",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_FIRST_PLAYER",
+      "SetID": "4cofp2d",
+      "Name": "The Negotiator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_PLAYER_10",
+      "SetID": "4cofp2d",
+      "Name": "The Negotiator III",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_PLAYER_20",
+      "SetID": "4cofp2d",
+      "Name": "The Negotiator IV",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_PLAYER_5",
+      "SetID": "4cofp2d",
+      "Name": "The Negotiator II",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_PLAYER_50",
+      "SetID": "4cofp2d",
+      "Name": "The Negotiator V",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_STAFF_1",
+      "SetID": "4cofp2d",
+      "Name": "The Job Creator",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_STAFF_10",
+      "SetID": "4cofp2d",
+      "Name": "The Job Creator III",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_STAFF_20",
+      "SetID": "4cofp2d",
+      "Name": "The Job Creator IV",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_STAFF_5",
+      "SetID": "4cofp2d",
+      "Name": "The Job Creator II",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUIT_STAFF_50",
+      "SetID": "4cofp2d",
+      "Name": "The Job Creator V",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEASON_1",
+      "SetID": "4cofp2d",
+      "Name": "The New Manager",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEASON_10",
+      "SetID": "4cofp2d",
+      "Name": "The Big Manager",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEASON_30",
+      "SetID": "4cofp2d",
+      "Name": "The Ultimate Manager",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEASON_5",
+      "SetID": "4cofp2d",
+      "Name": "The Manager",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRAINING_CUSTOM",
+      "SetID": "4cofp2d",
+      "Name": "The Trainer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TWC_JUNIOR_PARTICIPATE",
+      "SetID": "4cofp2d",
+      "Name": "The World Cup challengers (junior)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TWC_JUNIOR_WIN",
+      "SetID": "4cofp2d",
+      "Name": "The World Champions (junior)",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TWC_PRO_PARTICIPATE",
+      "SetID": "4cofp2d",
+      "Name": "The World Cup challengers (pro)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TWC_PRO_WIN",
+      "SetID": "4cofp2d",
+      "Name": "The World Champions (pro)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4cofp2d",
@@ -41,8 +675,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:20.9036421+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:20.9036388+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:34.3540663+00:00",
   "LastUpdate_AppInfo": "2024-07-30T04:57:21.9659004+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:56.1222054+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:20.9036431+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:58:26.8271243+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:34.3548861+00:00"
 }

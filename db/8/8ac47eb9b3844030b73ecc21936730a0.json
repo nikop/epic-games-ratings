@@ -2,8 +2,8 @@
   "ID": "8ac47eb9b3844030b73ecc21936730a0",
   "Name": "ExoWorlds",
   "ProductSlug": "exoworlds-5d8707",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T01:56:12.2855247+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:03.0938826+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:00:00.6249895+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:02:45.8520908+00:00"
 }

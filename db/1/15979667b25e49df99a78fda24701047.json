@@ -2,8 +2,8 @@
   "ID": "15979667b25e49df99a78fda24701047",
   "Name": "FIRE AND ASHES",
   "ProductSlug": "fire-and-ashes-2fa3e1",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T16:57:18.9146322+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:39.9538721+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:59:37.6472943+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:18.9749517+00:00"
 }

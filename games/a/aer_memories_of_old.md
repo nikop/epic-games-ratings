@@ -1,7 +1,7 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.42 (Ranked 821)  
+Rating: 4.42 (Ranked 822)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,8 +27,8 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,974 |
 | Hide and Seek | 4.00% | ~1,579 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,473 (Ranked 167)  
-Completed: 709 (1.80%) (Ranked 184)  
+Progressed: 39,473 (Ranked 171)  
+Completed: 709 (1.80%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

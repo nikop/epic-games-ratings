@@ -2,8 +2,8 @@
   "ID": "a79dc86babfd4136a6f788bf54d23308",
   "Name": "The Black Pool",
   "ProductSlug": "the-black-pool-ce55b8",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,16 +23,362 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 496,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T16:02:15.2973699+00:00",
+      "NumProgressed": 496,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T16:02:15.2973728+00:00",
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Assists_20000",
+      "SetID": "poelof",
+      "Name": "20000 assists",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Complete_Crimson",
+      "SetID": "poelof",
+      "Name": "Complete Jagged Peaks",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_AsIntended",
+      "SetID": "poelof",
+      "Name": "Complete skilled playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_BadBoss",
+      "SetID": "poelof",
+      "Name": "Complete Badder Bosses challenge playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Bronze",
+      "SetID": "poelof",
+      "Name": "Complete bronze time challenge playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challange",
+      "SetID": "poelof",
+      "Name": "Complete challenge playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challenge10",
+      "SetID": "poelof",
+      "Name": "Complete challenge 10 playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challenge11",
+      "SetID": "poelof",
+      "Name": "Complete challenge 11 playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challenge12",
+      "SetID": "poelof",
+      "Name": "Complete challenge 12 playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challenge4",
+      "SetID": "poelof",
+      "Name": "Complete challenge level 4 playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challenge5",
+      "SetID": "poelof",
+      "Name": "Complete challenge level 5 playthrough",
+      "Percentage": 0.2,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Complete_Game_Challenge6",
+      "SetID": "poelof",
+      "Name": "Complete challenge level 6 playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challenge7",
+      "SetID": "poelof",
+      "Name": "Complete challenge 7 playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challenge8",
+      "SetID": "poelof",
+      "Name": "Complete challenge 8 playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Challenge9",
+      "SetID": "poelof",
+      "Name": "Complete challenge 9 playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Easy",
+      "SetID": "poelof",
+      "Name": "Complete proficient playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_FullRank",
+      "SetID": "poelof",
+      "Name": "Complete Enemy Rank challenge playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Gold",
+      "SetID": "poelof",
+      "Name": "Complete gold time challenge playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Multiplayer",
+      "SetID": "poelof",
+      "Name": "Complete multiplayer playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_No_Death",
+      "SetID": "poelof",
+      "Name": "No deaths",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_No_Heal",
+      "SetID": "poelof",
+      "Name": "Complete no heals challenge playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Silver",
+      "SetID": "poelof",
+      "Name": "Complete silver time challenge playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Game_Singleplayer",
+      "SetID": "poelof",
+      "Name": "Complete singleplayer playthrough",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Gloom",
+      "SetID": "poelof",
+      "Name": "Complete Gloom",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Greink",
+      "SetID": "poelof",
+      "Name": "Complete Maroon Fields",
+      "Percentage": 0.4,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Complete_Icelands",
+      "SetID": "poelof",
+      "Name": "Complete Icelands",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Islands",
+      "SetID": "poelof",
+      "Name": "Complete Skylands",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Lava",
+      "SetID": "poelof",
+      "Name": "Complete Molten Pillars",
+      "Percentage": 0.6,
+      "XP": 25,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "Complete_Levels_1",
+      "SetID": "poelof",
+      "Name": "Complete a single level in a playthrough attempt.",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "Complete_Levels_2",
+      "SetID": "poelof",
+      "Name": "Complete multiple levels",
+      "Percentage": 0.8,
+      "XP": 25,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "Complete_Magnus",
+      "SetID": "poelof",
+      "Name": "Complete Magnus",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Metalace",
+      "SetID": "poelof",
+      "Name": "Complete Shattered Crater",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Obsidian",
+      "SetID": "poelof",
+      "Name": "Complete Obsidian",
+      "Percentage": 0.2,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Complete_Worlds_2",
+      "SetID": "poelof",
+      "Name": "Complete two worlds",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Worlds_3",
+      "SetID": "poelof",
+      "Name": "Complete three worlds",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Complete_Worlds_4",
+      "SetID": "poelof",
+      "Name": "Complete four worlds",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Damage_9000",
+      "SetID": "poelof",
+      "Name": "Over 9000",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_Boss_WFriend",
+      "SetID": "poelof",
+      "Name": "Kill a boss with a friend",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kill_WFriend",
+      "SetID": "poelof",
+      "Name": "Kill an enemy with a friend",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Kills_10000",
+      "SetID": "poelof",
+      "Name": "10000 kills",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Revive_Friend",
+      "SetID": "poelof",
+      "Name": "Revive a friend",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "poelof",
+      "IsBase": true,
+      "Progressed": 496,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:15.2973728+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:15.2973697+00:00",
   "LastUpdate_AppInfo": "2024-07-25T17:57:04.0712011+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:58:38.3756067+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:09.4602285+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:15.2980381+00:00"
 }

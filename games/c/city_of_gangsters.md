@@ -87,7 +87,7 @@ Rating: 4.30 (Ranked 978)
 | High Pillow | 0.10% | ~379 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 379,067 (Ranked 71)  
-Completed: 8 (0.00%) (Ranked 515)  
+Completed: 8 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

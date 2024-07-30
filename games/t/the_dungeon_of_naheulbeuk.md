@@ -96,7 +96,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~262 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 261,525 (Ranked 83)  
-Completed: 14 (0.01%) (Ranked 491)  
+Completed: 14 (0.01%) (Ranked 503)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "cd58edb4b4c54807b1f71ccdb907da77",
   "Name": "Wanderers",
   "ProductSlug": "wanderers-b35286",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T05:57:06.5710544+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:47.0920788+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:44.6017156+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:02:38.9629866+00:00"
 }

@@ -58,8 +58,8 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 198 (Ranked 552)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 198 (Ranked 559)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

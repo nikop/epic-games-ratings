@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 547)  
+Rating: 4.56 (Ranked 548)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,8 +41,8 @@ Rating: 4.56 (Ranked 547)
 | ...Here we go again | 0.80% | ~182 |
 | I Ain't No Buster | 0.60% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,739 (Ranked 183)  
-Completed: 128 (0.56%) (Ranked 285)  
+Progressed: 22,739 (Ranked 186)  
+Completed: 128 (0.56%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "1000868feb26473f82cd34c1d5e1cb06",
   "Name": "Trapaze",
   "ProductSlug": "trapaze-605185",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-03-21T17:05:30.4457874+00:00",
   "LastChanged_Achievements": "2024-07-25T19:02:16.4037228+00:00",
   "LastUpdate_AppInfo": "2024-07-26T18:57:21.8195696+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:35.0162851+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:00:32.8376418+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:02:16.4037334+00:00"
 }

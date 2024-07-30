@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | Everything is FINE... | 0.60% | ~3 |
 | Now I've Seen It All | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494 (Ranked 449)  
-Completed: 1 (0.20%) (Ranked 355)  
+Progressed: 494 (Ranked 455)  
+Completed: 1 (0.20%) (Ranked 365)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

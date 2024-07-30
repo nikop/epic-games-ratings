@@ -1,7 +1,7 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 342)  
+Rating: 4.65 (Ranked 341)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -60,7 +60,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Treat yourself - GPU | 0.10% | ~3,664 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,663,690 (Ranked 5)  
-Completed: 48 (0.00%) (Ranked 515)  
+Completed: 48 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -347,13 +347,13 @@ Completed: 48 (0.00%) (Ranked 515)
 | 2024-06-17 | 3,663,690 | 48 |
 ## Awards
 Max (Great for Beginners): 1,241  (Ranked 166)  
-Sum: 8,751 (Ranked 130)  
+Sum: 8,752 (Ranked 130)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,241 |
 | This game is Educational | 1,073 |
-| This game is Extremely Fun | 1,062 |
+| This game is Extremely Fun | 1,063 |
 | This game is Relaxing | 1,050 |
 | This game has Quickly Understood Controls | 1,014 |
 | This game is Highly Recommended | 982 |
@@ -840,3 +840,4 @@ Diff (max vs sum): 36
 | 2024-07-27 | 4.65 | - | 1,238 | 8,744 |
 | 2024-07-28 | 4.65 | - | 1,238 | 8,746 |
 | 2024-07-29 | 4.65 | - | 1,241 | 8,751 |
+| 2024-07-30 | 4.65 | - | 1,241 | 8,752 |

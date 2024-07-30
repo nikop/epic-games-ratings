@@ -2,8 +2,8 @@
   "ID": "15e3c5fe82e84c31b49eeb842b4fa001",
   "Name": "Maisa: Galactic Bounty Hunter",
   "ProductSlug": "maisa-galactic-bounty-hunter-1c2605",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-28T15:57:08.1502169+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:10.9743288+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:41.7513691+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:12.2983488+00:00"
 }

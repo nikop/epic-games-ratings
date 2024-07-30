@@ -55,8 +55,8 @@ Rating: 4.57 (Ranked 524)
 | Shot in the Dark | 0.10% | ~22 |
 | Elite Racer | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,680 (Ranked 187)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 21,680 (Ranked 190)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

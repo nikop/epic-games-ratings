@@ -2,8 +2,8 @@
   "ID": "80637b1991524bc1bbddadd39bde04a8",
   "Name": "FoxCode",
   "ProductSlug": "versus-0763da",
-  "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7269,
+  "EOS_Progressed": 10186,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-06-17T16:08:19.2370521+00:00",
       "NumProgressed": 7269,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T16:02:33.4778131+00:00",
+      "NumProgressed": 10186,
       "NumCompleted": 0
     }
   ],
@@ -102,14 +107,14 @@
     {
       "ID": "7619nm8",
       "IsBase": true,
-      "Progressed": 7269,
+      "Progressed": 10186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-02T13:02:30.2880996+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:19.2370535+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:19.2370519+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:33.4778126+00:00",
   "LastUpdate_AppInfo": "2024-07-24T07:57:19.6265595+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:58:55.7314769+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:19.2376501+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:26.6985829+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:33.4778213+00:00"
 }

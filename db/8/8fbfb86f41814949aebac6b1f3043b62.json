@@ -2,8 +2,8 @@
   "ID": "8fbfb86f41814949aebac6b1f3043b62",
   "Name": "Spider Fox",
   "ProductSlug": "spider-fox-efd273",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1045,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,26 +23,306 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T16:02:35.632114+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T16:02:35.632117+00:00",
+  "TotalAchievements": 34,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALLIGATOR_ARMADILLO",
+      "SetID": "a30p8kd",
+      "Name": "Alligator Armadillo",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ach_CuredAnimal",
+      "SetID": "a30p8kd",
+      "Name": "Cured Animal",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "BOAR_FROG",
+      "SetID": "a30p8kd",
+      "Name": "Boar Frog",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CATTERPILLAR_BOBCAT",
+      "SetID": "a30p8kd",
+      "Name": "Caterpillar Bobcat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COINS_CAVEFOREST",
+      "SetID": "a30p8kd",
+      "Name": "Cave Forest Coins",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COINS_CONIFERFOREST",
+      "SetID": "a30p8kd",
+      "Name": "Conifier Forest Coins",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COINS_DESERTLAND",
+      "SetID": "a30p8kd",
+      "Name": "Desert Land Coins",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COINS_SANDYISLAND",
+      "SetID": "a30p8kd",
+      "Name": "Sandy Island Coins",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COINS_SNOWFOREST",
+      "SetID": "a30p8kd",
+      "Name": "Snowy Forest Coins",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COINS_SWAMPLAND",
+      "SetID": "a30p8kd",
+      "Name": "Swamp Land Coins",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CRAB_PIG",
+      "SetID": "a30p8kd",
+      "Name": "Crab Pig",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DESTROY_DROID",
+      "SetID": "a30p8kd",
+      "Name": "Destroy a Droid",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FROG_CAT",
+      "SetID": "a30p8kd",
+      "Name": "Frog Cat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_ALLANIMALS",
+      "SetID": "a30p8kd",
+      "Name": "All Animals Cured",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_CAVEFOREST",
+      "SetID": "a30p8kd",
+      "Name": "Cave Forest Animals Cured",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_CONIFERFOERST",
+      "SetID": "a30p8kd",
+      "Name": "Conifer Forest Animals Cured",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_DESERTLAND",
+      "SetID": "a30p8kd",
+      "Name": "Desert Land Animals Cured",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SANDYISLAND",
+      "SetID": "a30p8kd",
+      "Name": "Sandy Island Animals Cured",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SNOWYFOREST",
+      "SetID": "a30p8kd",
+      "Name": "Snowy Forest Animals Cured",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SPIDERFOX_CAVEFOREST",
+      "SetID": "a30p8kd",
+      "Name": "Cave Forest Gold Spider Fox",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SPIDERFOX_CONIFERFOREST",
+      "SetID": "a30p8kd",
+      "Name": "Conifer Forest Gold Spider Fox",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SPIDERFOX_DESERTLAND",
+      "SetID": "a30p8kd",
+      "Name": "Desert Land Gold Spider Fox",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SPIDERFOX_SANDYISLAND",
+      "SetID": "a30p8kd",
+      "Name": "Sandy Island Gold Spider Fox",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SPIDERFOX_SNOWYFOREST",
+      "SetID": "a30p8kd",
+      "Name": "Snowy Forest Gold Spider Fox",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SPIDERFOX_SWAMPLAND",
+      "SetID": "a30p8kd",
+      "Name": "Swamp Land Gold Spider Fox",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_SWAMPLAND",
+      "SetID": "a30p8kd",
+      "Name": "Swamp Land Animals Cured",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRIZZLY_DEER",
+      "SetID": "a30p8kd",
+      "Name": "Grizzly Deer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IGUANA_CHICKEN",
+      "SetID": "a30p8kd",
+      "Name": "Iguana Chicken",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAD_SCIENTIST",
+      "SetID": "a30p8kd",
+      "Name": "Mad Scientist",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PENGUIN_CAT",
+      "SetID": "a30p8kd",
+      "Name": "Penguin Cat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RACCOON_MANTIS",
+      "SetID": "a30p8kd",
+      "Name": "Raccoon Mantis",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RHINO_ANT",
+      "SetID": "a30p8kd",
+      "Name": "Rhino Ant",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VIPER_CHICKEN",
+      "SetID": "a30p8kd",
+      "Name": "Viper Chicken",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ZEBRA_SHEEP",
+      "SetID": "a30p8kd",
+      "Name": "Zebra Sheep",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "a30p8kd",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:24.5317233+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:24.5317212+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:35.6321135+00:00",
   "LastUpdate_AppInfo": "2024-07-24T01:56:14.98999+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:54.2074746+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:24.5317249+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:52.5069162+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:35.6327299+00:00"
 }

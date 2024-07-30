@@ -2,8 +2,8 @@
   "ID": "05f5de9a159b47a5b653684a0ac13f16",
   "Name": "Beatbuddy: On Tour",
   "ProductSlug": "beatbuddy-on-tour-f450e6",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -29,10 +29,238 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-30T16:02:18.438452+00:00",
+  "TotalAchievements": 27,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Beatcoins1_100",
+      "SetID": "8kk55f3",
+      "Name": "Bling Bling!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Beatcoins2_1000",
+      "SetID": "8kk55f3",
+      "Name": "Shine bright like a diamond!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dances1_100",
+      "SetID": "8kk55f3",
+      "Name": "Move your body!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dances2_1000",
+      "SetID": "8kk55f3",
+      "Name": "Just dance!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FreestyleTime1_300",
+      "SetID": "8kk55f3",
+      "Name": "DJ Apprentice!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FreestyleTime2_1200",
+      "SetID": "8kk55f3",
+      "Name": "DJ Master!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HARD_DONE",
+      "SetID": "8kk55f3",
+      "Name": "Party hard! - Hard Done",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InstrumentsActivated1_50",
+      "SetID": "8kk55f3",
+      "Name": "Time to mix!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InstrumentsActivated2_500",
+      "SetID": "8kk55f3",
+      "Name": "Make some noise!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InstrumentsActivated3_5000",
+      "SetID": "8kk55f3",
+      "Name": "Sonic boom!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InstrumentsUnlocked1_5",
+      "SetID": "8kk55f3",
+      "Name": "Time to freestyle!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InstrumentsUnlocked2_15",
+      "SetID": "8kk55f3",
+      "Name": "Time for a concert!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "InstrumentsUnlocked3_30",
+      "SetID": "8kk55f3",
+      "Name": "Orchestral tunes!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LevelFails1_1",
+      "SetID": "8kk55f3",
+      "Name": "Never gonna give you up!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LevelFails2_3",
+      "SetID": "8kk55f3",
+      "Name": "Never gonna let you down!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NORMAL_DONE",
+      "SetID": "8kk55f3",
+      "Name": "It\u0027s so easy! - Normal Done",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pearls1_10",
+      "SetID": "8kk55f3",
+      "Name": "Hide in your shell!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pearls2_100",
+      "SetID": "8kk55f3",
+      "Name": "Shell shocked!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RedDancers1_10",
+      "SetID": "8kk55f3",
+      "Name": "The bad touch!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RedDancers2_100",
+      "SetID": "8kk55f3",
+      "Name": "You can\u0027t touch this!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SUPER_HARD_DONE",
+      "SetID": "8kk55f3",
+      "Name": "Super Trouper! - Super Hard Done",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Stars1_15",
+      "SetID": "8kk55f3",
+      "Name": "Lucky star!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Stars2_130",
+      "SetID": "8kk55f3",
+      "Name": "Highway star!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Stars3_190",
+      "SetID": "8kk55f3",
+      "Name": "Flaming star!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Stars4_250",
+      "SetID": "8kk55f3",
+      "Name": "Out among the stars!",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Stars5_324",
+      "SetID": "8kk55f3",
+      "Name": "You are the star!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TUTORIAL_DONE",
+      "SetID": "8kk55f3",
+      "Name": "Time to rock the stage! - Tutorial Done",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "8kk55f3",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:18.4384519+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:18.4384502+00:00",
   "LastUpdate_AppInfo": "2024-07-26T11:56:55.0778756+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:57.3189938+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:59:54.8198673+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:18.4391891+00:00"
 }

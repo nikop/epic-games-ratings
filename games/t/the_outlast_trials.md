@@ -1,53 +1,54 @@
 # The Outlast Trials
 [Store](https://store.epicgames.com/en-US/p/the-outlast-trials)  
 [View Rawdata](../../db/t/the_outlast_trials.json)  
-Rating: 4.65 (Ranked 342)  
+Rating: 4.65 (Ranked 341)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hunchback | 49.00% | ~17,442 |
-| Marathoner | 49.00% | ~17,442 |
-| Chicken in a Pot | 36.00% | ~12,815 |
-| Big Saver | 35.00% | ~12,459 |
-| Glutton for Therapy | 32.00% | ~11,391 |
-| Mechanophiliac | 31.00% | ~11,035 |
-| Together We Are Strong | 30.00% | ~10,679 |
-| Bullseye | 28.00% | ~9,967 |
-| Power Surge | 28.00% | ~9,967 |
-| Bamboozler | 26.00% | ~9,255 |
-| Vision Quest | 24.00% | ~8,543 |
-| Major League Player | 23.00% | ~8,187 |
-| Slip and Slider | 22.00% | ~7,831 |
-| Hemophiliac | 22.00% | ~7,831 |
-| Get Down | 19.00% | ~6,763 |
-| Trigger Happy | 19.00% | ~6,763 |
-| Anger Issues | 17.00% | ~6,051 |
-| Tapetum Lucidum | 15.00% | ~5,339 |
-| Hoarder | 14.00% | ~4,983 |
-| Sawbones | 11.00% | ~3,916 |
-| Toastmaster | 9.00% | ~3,204 |
-| Crowd Control | 9.00% | ~3,204 |
-| Speed Freak | 9.00% | ~3,204 |
-| Breathe In | 8.00% | ~2,848 |
-| Can't Touch This | 8.00% | ~2,848 |
-| Hypochondriac | 5.00% | ~1,780 |
-| Sleight of Hand | 3.00% | ~1,068 |
+| Hunchback | 46.00% | ~20,633 |
+| Marathoner | 46.00% | ~20,633 |
+| Chicken in a Pot | 33.00% | ~14,802 |
+| Big Saver | 32.00% | ~14,354 |
+| Glutton for Therapy | 29.00% | ~13,008 |
+| Mechanophiliac | 29.00% | ~13,008 |
+| Together We Are Strong | 28.00% | ~12,559 |
+| Bullseye | 26.00% | ~11,662 |
+| Power Surge | 26.00% | ~11,662 |
+| Bamboozler | 24.00% | ~10,765 |
+| Vision Quest | 22.00% | ~9,868 |
+| Slip and Slider | 21.00% | ~9,420 |
+| Major League Player | 21.00% | ~9,420 |
+| Hemophiliac | 20.00% | ~8,971 |
+| Get Down | 17.00% | ~7,625 |
+| Trigger Happy | 17.00% | ~7,625 |
+| Anger Issues | 16.00% | ~7,177 |
+| Tapetum Lucidum | 13.00% | ~5,831 |
+| Hoarder | 13.00% | ~5,831 |
+| Sawbones | 10.00% | ~4,486 |
+| Toastmaster | 9.00% | ~4,037 |
+| Crowd Control | 8.00% | ~3,588 |
+| Speed Freak | 8.00% | ~3,588 |
+| Breathe In | 7.00% | ~3,140 |
+| Can't Touch This | 7.00% | ~3,140 |
+| Hypochondriac | 4.00% | ~1,794 |
+| Sleight of Hand | 3.00% | ~1,346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,596 (Ranked 172)  
-Completed: 480 (1.35%) (Ranked 203)  
+Progressed: 44,855 (Ranked 169)  
+Completed: 567 (1.26%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 15,097 | 291 |
 | 2024-04-10 | 21,555 | 339 |
 | 2024-06-17 | 35,596 | 480 |
+| 2024-07-30 | 44,855 | 567 |
 ## Awards
-Max (Great for Beginners): 754  (Ranked 217)  
-Sum: 4,010 (Ranked 184)  
+Max (Great for Beginners): 758  (Ranked 217)  
+Sum: 4,014 (Ranked 184)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 754 |
+| This game is Great for Beginners | 758 |
 | This game has Diverse Characters | 634 |
 | This game is Highly Recommended | 552 |
 | This game is Extremely Fun | 550 |
@@ -482,4 +483,4 @@ Diff (max vs sum): 33
 | 2024-07-27 | 4.65 | 745 | 3,955 |
 | 2024-07-28 | 4.65 | 750 | 3,980 |
 | 2024-07-29 | 4.65 | 754 | 4,008 |
-| 2024-07-30 | 4.65 | 754 | 4,010 |
+| 2024-07-30 | 4.65 | 758 | 4,014 |

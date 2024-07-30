@@ -44,7 +44,7 @@ Rating: 4.01 (Ranked 1,179)
 | Shoot the Knee | 0.10% | ~1,246 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,246,479 (Ranked 17)  
-Completed: 31 (0.00%) (Ranked 515)  
+Completed: 31 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,15 +330,15 @@ Completed: 31 (0.00%) (Ranked 515)
 | 2024-04-10 | 1,106,564 | 24 |
 | 2024-06-17 | 1,246,479 | 31 |
 ## Awards
-Max (Competitive Players): 12,040  (Ranked 47)  
-Sum: 39,605 (Ranked 44)  
+Max (Competitive Players): 12,058  (Ranked 47)  
+Sum: 39,648 (Ranked 44)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 12,040 |
+| This game has Competitive Players | 12,058 |
 | This game has Challenging Combat | 10,759 |
-| This game is Highly Recommended | 9,774 |
-| This game has a Competitive Community | 7,032 |
+| This game is Highly Recommended | 9,787 |
+| This game has a Competitive Community | 7,044 |
 | This game has Quickly Understood Controls | 3,335 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -865,4 +865,4 @@ Diff (max vs sum): 3
 | 2024-07-27 | 4.01 | 12,007 | 39,452 |
 | 2024-07-28 | 4.01 | 12,026 | 39,524 |
 | 2024-07-29 | 4.01 | 12,040 | 39,588 |
-| 2024-07-30 | 4.01 | 12,040 | 39,605 |
+| 2024-07-30 | 4.01 | 12,058 | 39,648 |

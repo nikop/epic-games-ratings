@@ -2,8 +2,8 @@
   "ID": "daed3ae775ab4986a0ce9ec1c3daab83",
   "Name": "The Wraith of the Galaxy",
   "ProductSlug": "the-wraith-of-the-galaxy-ac9fc1",
-  "Ranking_EOS_Progress": 974,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 944,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -32,6 +32,11 @@
     {
       "Time": "2024-06-17T16:08:52.8419888+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T16:02:47.343137+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -43,23 +48,23 @@
       "ID": "ACH_1",
       "SetID": "7mc7ji4",
       "Name": "Planet 1",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_2",
       "SetID": "7mc7ji4",
       "Name": "Planet 2",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_3",
       "SetID": "7mc7ji4",
       "Name": "Planet 3",
-      "Percentage": 100,
+      "Percentage": 33,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -67,15 +72,15 @@
       "ID": "ACH_4",
       "SetID": "7mc7ji4",
       "Name": "Planet 4",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_5",
       "SetID": "7mc7ji4",
       "Name": "Planet 5",
-      "Percentage": 50,
+      "Percentage": 17,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -83,7 +88,7 @@
       "ID": "ACH_6",
       "SetID": "7mc7ji4",
       "Name": "Planet 6",
-      "Percentage": 50,
+      "Percentage": 17,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -92,13 +97,13 @@
     {
       "ID": "7mc7ji4",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:52.8419926+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:52.8419884+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:47.3431367+00:00",
   "LastUpdate_AppInfo": "2024-07-25T09:57:00.6471671+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:30.2155128+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:52.8427486+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:59:27.8331374+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:47.3431436+00:00"
 }

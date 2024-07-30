@@ -2,8 +2,8 @@
   "ID": "7c5be037103c457a92ffc6e0d911be2e",
   "Name": "Splitgate 2",
   "ProductSlug": "splitgate-2-a07c96",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T13:57:01.0464961+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:41.7787063+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:00:39.5888243+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:19.3876079+00:00"
 }

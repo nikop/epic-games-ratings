@@ -2,8 +2,8 @@
   "ID": "fb58cd91974e4751b6b8b6c19b7c936c",
   "Name": "Trust No One",
   "ProductSlug": "trust-no-one-5d5141",
-  "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 285,
+  "Ranking_EOS_Progress": 496,
+  "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -115,6 +115,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:27.2084391+00:00",
   "LastChanged_Achievements": "2024-07-09T22:03:03.383953+00:00",
   "LastUpdate_AppInfo": "2024-07-23T16:57:19.4452919+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:58.3680898+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:55.8878537+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:03:03.3839809+00:00"
 }

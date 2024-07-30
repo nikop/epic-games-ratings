@@ -72,8 +72,8 @@ Rating: 4.55 (Ranked 567)
 | Better cooking at home | 25.00% | ~198 |
 | Your own way | 23.00% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 794 (Ranked 408)  
-Completed: 12 (1.51%) (Ranked 194)  
+Progressed: 794 (Ranked 411)  
+Completed: 12 (1.51%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "407fa6baf9244d2a937ca1255f29c202",
   "Name": "Chess Knights: Viking Lands",
   "ProductSlug": "chess-knights-viking-lands-5c01d9",
-  "Ranking_EOS_Progress": 957,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 969,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-06-17T16:08:19.2106428+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T16:02:33.422637+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -53,23 +58,23 @@
       "ID": "LEVEL_1",
       "SetID": "biglbfn",
       "Name": "Arrival",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_10",
       "SetID": "biglbfn",
       "Name": "Njord Salvage",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_20",
       "SetID": "biglbfn",
       "Name": "Midgard Retrieve",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -85,7 +90,7 @@
       "ID": "LEVEL_40",
       "SetID": "biglbfn",
       "Name": "Ymir Assault",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -93,7 +98,7 @@
       "ID": "LOST_ONES_0",
       "SetID": "biglbfn",
       "Name": "No one left behind",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -101,7 +106,7 @@
       "ID": "LOST_ONES_1",
       "SetID": "biglbfn",
       "Name": "Outer hope",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -126,14 +131,14 @@
     {
       "ID": "biglbfn",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-25T22:58:28.6772585+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:19.2106485+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:19.210642+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:33.4226365+00:00",
   "LastUpdate_AppInfo": "2024-07-29T22:57:11.8528791+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:22.2539092+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:19.2113811+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:53.1066295+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:33.4226466+00:00"
 }

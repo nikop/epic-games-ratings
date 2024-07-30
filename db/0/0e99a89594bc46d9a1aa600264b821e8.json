@@ -2,8 +2,8 @@
   "ID": "0e99a89594bc46d9a1aa600264b821e8",
   "Name": "Welcome to Empyreum",
   "ProductSlug": "welcome-to-empyreum-f29a56",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -29,9 +29,299 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-07-30T16:02:35.7426829+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "6k6c6l0",
+      "Name": "Back to school",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "6k6c6l0",
+      "Name": "Boss Baby",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "6k6c6l0",
+      "Name": "Happy ever after",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "6k6c6l0",
+      "Name": "We are stuffed!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "6k6c6l0",
+      "Name": "Shiny and clean",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "6k6c6l0",
+      "Name": "We just want to work!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "6k6c6l0",
+      "Name": "Ghostbusters",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "6k6c6l0",
+      "Name": "The floor is lava",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "6k6c6l0",
+      "Name": "One last job",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "6k6c6l0",
+      "Name": "Road to Paradise",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "6k6c6l0",
+      "Name": "Bon voyage!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "6k6c6l0",
+      "Name": "The Garden of Earthly Delights",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "6k6c6l0",
+      "Name": "Welcome to Empyreum",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "6k6c6l0",
+      "Name": "Wisdom",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "6k6c6l0",
+      "Name": "Knowledge",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "6k6c6l0",
+      "Name": "Forbidden fruits",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "6k6c6l0",
+      "Name": "Beatriz\u0027s secrets",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "6k6c6l0",
+      "Name": "Enter the Tommy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "6k6c6l0",
+      "Name": "The betrayal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "6k6c6l0",
+      "Name": "Golden Fall",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "6k6c6l0",
+      "Name": "The 9 Muses",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "6k6c6l0",
+      "Name": "No more dust",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "6k6c6l0",
+      "Name": "Diet starts tomorrow...",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "6k6c6l0",
+      "Name": "Caution, wet floor!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "6k6c6l0",
+      "Name": "Clean sheets",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "6k6c6l0",
+      "Name": "Ouch, that hurts!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "6k6c6l0",
+      "Name": "Everything for the team",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "6k6c6l0",
+      "Name": "You can pet the cat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "6k6c6l0",
+      "Name": "Agent of Chaos",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "36",
+      "SetID": "6k6c6l0",
+      "Name": "The Collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "6k6c6l0",
+      "Name": "Above the clouds",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "6k6c6l0",
+      "Name": "Calm waters",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "6k6c6l0",
+      "Name": "Trick or treat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "6k6c6l0",
+      "Name": "We are on fire!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "6k6c6l0",
+      "Name": "Gallery Heist",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "6k6c6l0",
+      "Name": "Unemployed again",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "6k6c6l0",
@@ -41,8 +331,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:24.7750753+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:24.7750734+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:35.7426814+00:00",
   "LastUpdate_AppInfo": "2024-07-25T03:57:23.538139+00:00",
-  "LastUpdate_Ratings": "2024-07-30T15:00:00.5414535+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:24.7750769+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:58.9965556+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:35.7432494+00:00"
 }

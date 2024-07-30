@@ -4,8 +4,8 @@
 Rating: 4.27 (Ranked 1,015)  
 ## Awards
 Max (Great for Quick Sessions): 27  (Ranked 626)  
-Sum: 188 (Ranked 501)  
-Diff (max vs sum): 125  
+Sum: 188 (Ranked 502)  
+Diff (max vs sum): 124  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 27 |

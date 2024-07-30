@@ -2,8 +2,8 @@
   "ID": "c33824d3cf754146aca31f48780b92bf",
   "Name": "Darkestville Castle",
   "ProductSlug": "darkestville-castle-cf4a56",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-18T18:58:37.8995268+00:00",
   "LastUpdate_AppInfo": "2024-07-24T01:56:16.7567338+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:40.9960206+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:38.6443459+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:05:05.5454767+00:00"
 }

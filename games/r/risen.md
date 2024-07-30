@@ -56,8 +56,8 @@ Rating: 4.57 (Ranked 524)
 | Gladiator | 0.80% | ~3 |
 | Master of the classes | 0.80% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393 (Ranked 478)  
-Completed: 2 (0.51%) (Ranked 294)  
+Progressed: 393 (Ranked 483)  
+Completed: 2 (0.51%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

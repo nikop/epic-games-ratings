@@ -2,11 +2,11 @@
   "ID": "5a6d34ba28bc45d081d9311c3885feef",
   "Name": "Unrailed!",
   "ProductSlug": "unrailed-e19729",
-  "Ranking_Rating": 368,
+  "Ranking_Rating": 367,
   "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 32,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -36502,6 +36502,6 @@
   "LastChanged": "2024-07-26T18:59:05.3051543+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:30.8623688+00:00",
   "LastUpdate_AppInfo": "2024-07-28T14:57:04.095157+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:57.8844055+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:55.4096875+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:30.8625695+00:00"
 }

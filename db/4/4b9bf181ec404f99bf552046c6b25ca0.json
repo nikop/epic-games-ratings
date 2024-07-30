@@ -2,8 +2,8 @@
   "ID": "4b9bf181ec404f99bf552046c6b25ca0",
   "Name": "Epsylon",
   "ProductSlug": "epsylon-ef77a4",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T05:57:14.7945445+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:07.0520659+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:04.4059668+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:04:51.4475608+00:00"
 }

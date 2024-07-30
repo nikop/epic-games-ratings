@@ -2,8 +2,8 @@
   "ID": "ad111036e70f4cf59259c6976a9b7173",
   "Name": "Image",
   "ProductSlug": "image-747287",
-  "Ranking_EOS_Progress": 489,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 494,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -113,6 +113,6 @@
   "FirstSeenAchievements": "2024-01-18T17:09:04.7318232+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:32.190577+00:00",
   "LastUpdate_AppInfo": "2024-07-26T05:57:16.435339+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:29.2556199+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:00.016286+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:32.1905907+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "3422cff6d1bd4e50b5dfe2153fe64ac1",
   "Name": "Days of Defiance",
   "ProductSlug": "days-of-defiance-40740d",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "7ap9l5c",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:14.6192832+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:14.6192787+00:00",
   "LastUpdate_AppInfo": "2024-07-30T08:57:13.7312409+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:05.7793963+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:36.6004944+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:14.6192848+00:00"
 }

@@ -36,8 +36,8 @@
 | Yeetus Deletus | 0.60% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 581)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 158 (Ranked 589)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

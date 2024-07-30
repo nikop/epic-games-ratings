@@ -2,8 +2,8 @@
   "ID": "6ac9313c401c4dc4ae2cea3b2ea921f4",
   "Name": "Beatbuddy: Tale of the Guardians",
   "ProductSlug": "beatbuddy-tale-of-the-guardians-e139d0",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -29,10 +29,142 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-30T16:02:13.253832+00:00",
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Challenge_Arena",
+      "SetID": "fp2440",
+      "Name": "Untouchable",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Challenge_Dash",
+      "SetID": "fp2440",
+      "Name": "Dash Maniac",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Challenge_Time",
+      "SetID": "fp2440",
+      "Name": "Fast Forward",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Challenge_Unlock",
+      "SetID": "fp2440",
+      "Name": "Art Collector",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Count_Beatpoints",
+      "SetID": "fp2440",
+      "Name": "Gatherer",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Count_Containers",
+      "SetID": "fp2440",
+      "Name": "Mad on Health",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Count_Rhythm",
+      "SetID": "fp2440",
+      "Name": "In the Rhythm",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Count_Snarejumps",
+      "SetID": "fp2440",
+      "Name": "Snare Jumper",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Count_Soldiers",
+      "SetID": "fp2440",
+      "Name": "Champion",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_1",
+      "SetID": "fp2440",
+      "Name": "Beatbuddy Swing",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_2",
+      "SetID": "fp2440",
+      "Name": "Love Swing",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_3",
+      "SetID": "fp2440",
+      "Name": "Lost In Yesterday",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_4",
+      "SetID": "fp2440",
+      "Name": "I\u0027m Your Star",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_5",
+      "SetID": "fp2440",
+      "Name": "Stingin\u0027 Swing",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level_6",
+      "SetID": "fp2440",
+      "Name": "You Are The One",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "fp2440",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:13.2538319+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:13.2538284+00:00",
   "LastUpdate_AppInfo": "2024-07-26T11:56:55.3292485+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:58.4952052+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:59:56.0183015+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:13.2545915+00:00"
 }

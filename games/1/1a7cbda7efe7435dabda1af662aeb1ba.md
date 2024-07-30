@@ -35,8 +35,8 @@
 | Conqueror of the Devil Blade | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 705)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 57 (Ranked 719)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.85 (Ranked 1,211)  
+Rating: 3.86 (Ranked 1,210)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -52,7 +52,7 @@ Rating: 3.85 (Ranked 1,211)
 | Rounder | 0.10% | ~576 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 576,005 (Ranked 42)  
-Completed: 3 (0.00%) (Ranked 515)  
+Completed: 3 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -554,4 +554,4 @@ Diff (max vs sum): -9
 | 2024-07-26 | 3.85 | 59 | 217 |
 | 2024-07-27 | 3.85 | 59 | 219 |
 | 2024-07-28 | 3.85 | 59 | 220 |
-| 2024-07-30 | 3.85 | 110 | 330 |
+| 2024-07-30 | 3.86 | 110 | 330 |

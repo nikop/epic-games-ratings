@@ -2,8 +2,8 @@
   "ID": "c2f1d26f802440f3a5a5e44e802ade31",
   "Name": "Black State",
   "ProductSlug": "black-state-23e1cb",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T19:56:59.092376+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:49.1269898+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:00:47.040981+00:00",
   "LastUpdate_Achievements": "2024-07-29T18:04:04.9156096+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "e424e1d51e114ae8b6d685c943043cd7",
   "Name": "Juna - The Dreamwalker",
   "ProductSlug": "juna-the-dreamwalker-d4fbd7",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "2kbbb41",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:11.6356816+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:11.6356782+00:00",
   "LastUpdate_AppInfo": "2024-07-24T15:57:06.0933322+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:52.1324106+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:58:22.9021489+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:11.635683+00:00"
 }

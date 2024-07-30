@@ -2,8 +2,8 @@
   "ID": "dcedb432f689463e8ed0d004fb67c5ee",
   "Name": "Dofamine",
   "ProductSlug": "dofamine-ed4b81",
-  "Ranking_EOS_Progress": 871,
-  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Progress": 822,
+  "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -25,16 +25,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
-  "EOS_Completed": 3,
+  "EOS_Progressed": 25,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 25,
+  "EOS_Completed_Percentage": 20,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:07:48.7737923+00:00",
       "NumProgressed": 12,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-07-30T16:02:23.0412691+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:48.7737998+00:00",
@@ -45,55 +50,55 @@
       "ID": "ACH_1",
       "SetID": "7ph1iip",
       "Name": "Secret 1",
-      "Percentage": 58,
+      "Percentage": 64,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_2",
       "SetID": "7ph1iip",
       "Name": "Secret 2",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_3",
       "SetID": "7ph1iip",
       "Name": "Secret 3",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_4",
       "SetID": "7ph1iip",
       "Name": "Secret 4",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_5",
       "SetID": "7ph1iip",
       "Name": "Secret 5",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ph1iip",
       "IsBase": true,
-      "Progressed": 12,
-      "Completed": 3
+      "Progressed": 25,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2024-06-30T03:59:36.8465273+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:48.7737998+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:07:48.7737919+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:23.0412685+00:00",
   "LastUpdate_AppInfo": "2024-07-27T15:57:08.2435788+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:58:50.0335354+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:07:48.7745723+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:21.09162+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:23.0412869+00:00"
 }

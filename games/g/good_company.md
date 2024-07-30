@@ -1,7 +1,7 @@
 # Good Company
 [Store](https://store.epicgames.com/en-US/p/good-company)  
 [View Rawdata](../../db/g/good_company.json)  
-Rating: 4.43 (Ranked 799)  
+Rating: 4.43 (Ranked 800)  
 Number of Ratings: 75  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,307 (Ranked 253)  
-Completed: 1 (0.02%) (Ranked 475)  
+Progressed: 6,307 (Ranked 256)  
+Completed: 1 (0.02%) (Ranked 489)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

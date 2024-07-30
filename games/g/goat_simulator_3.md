@@ -60,8 +60,8 @@ Rating: 4.83 (Ranked 61)
 | Ultrasonic Speedy | 0.10% | ~11 |
 | So Aerodynamic | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,066 (Ranked 76)  
-Completed: 1,141 (0.37%) (Ranked 316)  
+Progressed: 305,066 (Ranked 78)  
+Completed: 1,141 (0.37%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

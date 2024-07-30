@@ -1,7 +1,7 @@
 # Endling - Extinction is Forever
 [Store](https://store.epicgames.com/en-US/p/endling-extinction-is-forever)  
 [View Rawdata](../../db/e/endling_-_extinction_is_forever.json)  
-Rating: 4.65 (Ranked 342)  
+Rating: 4.63 (Ranked 386)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -34,8 +34,8 @@ Rating: 4.65 (Ranked 342)
 | Easter Egg | 2.00% | ~15 |
 | Endling | 0.70% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763 (Ranked 414)  
-Completed: 3 (0.39%) (Ranked 314)  
+Progressed: 763 (Ranked 418)  
+Completed: 3 (0.39%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -201,3 +201,4 @@ Completed: 3 (0.39%) (Ranked 314)
 | 2024-05-25 | 4.67 | 0 | 0 |
 | 2024-06-09 | 4.68 | 0 | 0 |
 | 2024-06-11 | 4.65 | 0 | 0 |
+| 2024-07-30 | 4.63 | 0 | 0 |

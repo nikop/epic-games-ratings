@@ -2,8 +2,8 @@
   "ID": "ad301bcb6ada429a8877384b65aff932",
   "Name": "Bewitched Part 1",
   "ProductSlug": "bewitched-part-1-8e6964",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1002,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,16 +23,178 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T16:02:16.8215095+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T16:02:16.8215407+00:00",
+  "TotalAchievements": 18,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Best student",
+      "SetID": "cka3fpd",
+      "Name": "Best student",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Close Encounters of the Fourth Type",
+      "SetID": "cka3fpd",
+      "Name": "Close Encounters of the Fourth Type",
+      "Percentage": 50,
+      "XP": 55,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Creepy Tea Party",
+      "SetID": "cka3fpd",
+      "Name": "Creepy Tea Party",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Deadly Hug",
+      "SetID": "cka3fpd",
+      "Name": "Deadly Hug",
+      "Percentage": 50,
+      "XP": 60,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Fateful Meeting",
+      "SetID": "cka3fpd",
+      "Name": "Fateful Meeting",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Inquisition",
+      "SetID": "cka3fpd",
+      "Name": "Inquisition",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "It Takes Two: Malicenta and my shadow",
+      "SetID": "cka3fpd",
+      "Name": "It Takes Two: Malicente and my shadow",
+      "Percentage": 50,
+      "XP": 55,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Kraken from the boiler",
+      "SetID": "cka3fpd",
+      "Name": "Kraken from the boiler",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Lucky coin",
+      "SetID": "cka3fpd",
+      "Name": "Lucky coin",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Master of Shadows",
+      "SetID": "cka3fpd",
+      "Name": "Master of Shadows",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Meeting with an old friend",
+      "SetID": "cka3fpd",
+      "Name": "Meeting with an old friend",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Offended bear",
+      "SetID": "cka3fpd",
+      "Name": "Offended bear",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Potions loser",
+      "SetID": "cka3fpd",
+      "Name": "Potions loser",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Silent Hello",
+      "SetID": "cka3fpd",
+      "Name": "Silent Hello",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Skull Collector",
+      "SetID": "cka3fpd",
+      "Name": "Skull Collector",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Spider Sly",
+      "SetID": "cka3fpd",
+      "Name": "Spider Sly",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Teddy Bear",
+      "SetID": "cka3fpd",
+      "Name": "Teddy Bear",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Treasurer",
+      "SetID": "cka3fpd",
+      "Name": "Treasurer",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "cka3fpd",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:16.8215407+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:16.8215092+00:00",
   "LastUpdate_AppInfo": "2024-07-27T03:57:11.8296643+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:51.0684381+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:58:21.8896206+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:16.8222668+00:00"
 }

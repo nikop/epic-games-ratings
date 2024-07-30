@@ -2,8 +2,8 @@
   "ID": "c33afcc65c264c81aa8e2537b7580690",
   "Name": "Truck",
   "ProductSlug": "truck-502523",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-19T06:58:19.2343394+00:00",
   "LastUpdate_AppInfo": "2024-07-27T22:57:05.1722336+00:00",
-  "LastUpdate_Ratings": "2024-07-30T15:00:03.9938663+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:02:02.2938409+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:02:37.4609068+00:00"
 }

@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.42 (Ranked 821)  
+Rating: 4.42 (Ranked 822)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Dagon | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,246 (Ranked 325)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 2,246 (Ranked 329)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

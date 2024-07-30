@@ -2,8 +2,8 @@
   "ID": "eb594d29ab71410fb26280a6fedb01b6",
   "Name": "Card Clash Chronicles",
   "ProductSlug": "card-clash-chronicles-78b06c",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "5jc65ji",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:10.8318316+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:10.8318279+00:00",
   "LastUpdate_AppInfo": "2024-07-25T14:57:06.698057+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:12.8331082+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:10.7564974+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:10.8318332+00:00"
 }

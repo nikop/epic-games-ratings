@@ -2,8 +2,8 @@
   "ID": "7a2f6a7b3c4f4bfda758a3e85bfb7653",
   "Name": "Plot of the Druid",
   "ProductSlug": "plot-of-the-druid-32cc49",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -28,10 +28,134 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-30T16:02:15.4404673+00:00",
+  "TotalAchievements": 14,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_APPRENTICE",
+      "SetID": "60f0heb",
+      "Name": "Young Apprentice",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BRAINTEASER",
+      "SetID": "60f0heb",
+      "Name": "Brainteaser",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EAGLE",
+      "SetID": "60f0heb",
+      "Name": "The sky is the limit!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRESPARKS_MASTER",
+      "SetID": "60f0heb",
+      "Name": "Fast learner",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRESQUITO",
+      "SetID": "60f0heb",
+      "Name": "Buzz Your Way Around",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FOOLSDAY",
+      "SetID": "60f0heb",
+      "Name": "April Fool\u0027s Day!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GORILLA",
+      "SetID": "60f0heb",
+      "Name": "Bananas, yum!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MASTER",
+      "SetID": "60f0heb",
+      "Name": "Master of Disaster",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MIDNIGHT",
+      "SetID": "60f0heb",
+      "Name": "Midnight",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PIPE",
+      "SetID": "60f0heb",
+      "Name": "Creepy!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RACCOON",
+      "SetID": "60f0heb",
+      "Name": "Bad Hair Day",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SKUNK_BONDING",
+      "SetID": "60f0heb",
+      "Name": "Soulmates",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SNIFFER",
+      "SetID": "60f0heb",
+      "Name": "Sniffer",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TROUBLEMAKER",
+      "SetID": "60f0heb",
+      "Name": "Troublemaker",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "60f0heb",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:15.4404672+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:15.440464+00:00",
   "LastUpdate_AppInfo": "2024-07-28T14:57:05.8561226+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:50.7496213+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:00:48.6613834+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:15.4412046+00:00"
 }

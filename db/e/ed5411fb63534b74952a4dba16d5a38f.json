@@ -2,8 +2,8 @@
   "ID": "ed5411fb63534b74952a4dba16d5a38f",
   "Name": "Hero of the Kingdom II",
   "ProductSlug": "hero-of-the-kingdom-ii-25339b",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1045,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,16 +23,418 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T16:02:09.7947755+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T16:02:09.7947821+00:00",
+  "TotalAchievements": 48,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "H11FE",
+      "SetID": "c087mp8",
+      "Name": "Honorable",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D",
+      "SetID": "c087mp8",
+      "Name": "Clever",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D0",
+      "SetID": "c087mp8",
+      "Name": "Master herbalist",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D1",
+      "SetID": "c087mp8",
+      "Name": "Master hunter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D2",
+      "SetID": "c087mp8",
+      "Name": "Excellent crabber",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D3",
+      "SetID": "c087mp8",
+      "Name": "Excellent mushroom-picker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D4",
+      "SetID": "c087mp8",
+      "Name": "Excellent diver",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D5",
+      "SetID": "c087mp8",
+      "Name": "Master thief",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D6",
+      "SetID": "c087mp8",
+      "Name": "Hero",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D7",
+      "SetID": "c087mp8",
+      "Name": "Brave",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D8",
+      "SetID": "c087mp8",
+      "Name": "Captain",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13D9",
+      "SetID": "c087mp8",
+      "Name": "Powerful",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13DA",
+      "SetID": "c087mp8",
+      "Name": "Savior",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13DB",
+      "SetID": "c087mp8",
+      "Name": "Strong",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13DC",
+      "SetID": "c087mp8",
+      "Name": "Citizen",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13DF",
+      "SetID": "c087mp8",
+      "Name": "In love",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H13E",
+      "SetID": "c087mp8",
+      "Name": "Wise",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H1430",
+      "SetID": "c087mp8",
+      "Name": "Explorer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H14CC",
+      "SetID": "c087mp8",
+      "Name": "Healer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H14CE",
+      "SetID": "c087mp8",
+      "Name": "Mysterious",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H14D1",
+      "SetID": "c087mp8",
+      "Name": "Lucky",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H14E6",
+      "SetID": "c087mp8",
+      "Name": "Snake killer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H14E8",
+      "SetID": "c087mp8",
+      "Name": "Spider killer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H14F3",
+      "SetID": "c087mp8",
+      "Name": "Good-hearted",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H37E",
+      "SetID": "c087mp8",
+      "Name": "Careful",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H37F",
+      "SetID": "c087mp8",
+      "Name": "Detective",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H380",
+      "SetID": "c087mp8",
+      "Name": "Helpful",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H9C",
+      "SetID": "c087mp8",
+      "Name": "Well-known",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H9D",
+      "SetID": "c087mp8",
+      "Name": "Renowned",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H9E",
+      "SetID": "c087mp8",
+      "Name": "Prosperous",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H9F",
+      "SetID": "c087mp8",
+      "Name": "Wealthy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HA0",
+      "SetID": "c087mp8",
+      "Name": "Skilled",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HA1",
+      "SetID": "c087mp8",
+      "Name": "Gifted",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HA2",
+      "SetID": "c087mp8",
+      "Name": "Gatherer",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HA3",
+      "SetID": "c087mp8",
+      "Name": "Master gatherer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HA4",
+      "SetID": "c087mp8",
+      "Name": "Fisherman",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HA5",
+      "SetID": "c087mp8",
+      "Name": "Master fisherman",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HA6",
+      "SetID": "c087mp8",
+      "Name": "Hunter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HA8",
+      "SetID": "c087mp8",
+      "Name": "Herbalist",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HAA",
+      "SetID": "c087mp8",
+      "Name": "Thief",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HAC",
+      "SetID": "c087mp8",
+      "Name": "Searcher",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HAD",
+      "SetID": "c087mp8",
+      "Name": "Excellent searcher",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HAE",
+      "SetID": "c087mp8",
+      "Name": "Crabber",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HB0",
+      "SetID": "c087mp8",
+      "Name": "Looter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HB1",
+      "SetID": "c087mp8",
+      "Name": "Excellent looter",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HB2",
+      "SetID": "c087mp8",
+      "Name": "Diver",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HB33",
+      "SetID": "c087mp8",
+      "Name": "Brilliant",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HB4",
+      "SetID": "c087mp8",
+      "Name": "Mushroom-picker",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "c087mp8",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:09.794782+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:09.7947748+00:00",
   "LastUpdate_AppInfo": "2024-07-26T09:57:18.3773438+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:16.2437428+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:47.1369011+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:09.7955354+00:00"
 }

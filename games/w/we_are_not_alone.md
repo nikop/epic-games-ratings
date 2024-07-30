@@ -24,8 +24,8 @@
 | We Made It. | 0.00% | ~0 |
 | Where's the poop, Geoff? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 871)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 12 (Ranked 895)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

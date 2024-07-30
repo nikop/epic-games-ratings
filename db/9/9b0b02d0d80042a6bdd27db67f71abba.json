@@ -2,8 +2,8 @@
   "ID": "9b0b02d0d80042a6bdd27db67f71abba",
   "Name": "Sanctua",
   "ProductSlug": "sanctua-57fcb7",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T22:57:11.3055821+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:21.3928886+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:00.9699533+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:59:18.8620699+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:26.9059514+00:00"
 }

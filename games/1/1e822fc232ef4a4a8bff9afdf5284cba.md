@@ -20,8 +20,8 @@
 | Played for 24h | 0.40% | ~5 |
 | 2. Campaign Completed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,368 (Ranked 365)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 1,368 (Ranked 368)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

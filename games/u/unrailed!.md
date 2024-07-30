@@ -1,7 +1,7 @@
 # Unrailed!
 [Store](https://store.epicgames.com/en-US/p/unrailed-e19729)  
 [View Rawdata](../../db/u/unrailed!.json)  
-Rating: 4.64 (Ranked 368)  
+Rating: 4.64 (Ranked 367)  
 Number of Ratings: 21,990  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -60,7 +60,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | 20 Miles under the Sea | 0.10% | ~713 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 712,652 (Ranked 32)  
-Completed: 18 (0.00%) (Ranked 515)  
+Completed: 18 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

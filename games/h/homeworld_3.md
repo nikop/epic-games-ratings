@@ -1,7 +1,7 @@
 # Homeworld 3
 [Store](https://store.epicgames.com/en-US/p/homeworld-3)  
 [View Rawdata](../../db/h/homeworld_3.json)  
-Rating: 4.05 (Ranked 1,166)  
+Rating: 4.05 (Ranked 1,165)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,8 +41,8 @@ Rating: 4.05 (Ranked 1,166)
 | Destruct Sequence Alpha-One | 1.00% | ~19 |
 | Grand Armada | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,910 (Ranked 341)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 1,910 (Ranked 344)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

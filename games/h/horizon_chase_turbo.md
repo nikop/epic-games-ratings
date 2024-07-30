@@ -45,7 +45,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,152 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,152,103 (Ranked 18)  
-Completed: 632 (0.05%) (Ranked 436)  
+Completed: 632 (0.05%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

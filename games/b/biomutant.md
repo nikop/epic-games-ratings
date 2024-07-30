@@ -53,8 +53,8 @@ Number of Ratings: 198  (23.09.2022)
 | Bugologist | 0.10% | ~2 |
 | Quack | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,052 (Ranked 334)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 2,052 (Ranked 337)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,8 +62,8 @@ Completed: 0 (0.00%) (Ranked 515)
 | 2024-07-25 | 2,052 | 0 |
 ## Awards
 Max (Character Customization): 136  (Ranked 399)  
-Sum: 184 (Ranked 503)  
-Diff (max vs sum): -104  
+Sum: 184 (Ranked 504)  
+Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 136 |

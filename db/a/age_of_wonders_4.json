@@ -4,9 +4,9 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 320,
   "Ranking_Popularity": 467,
-  "Ranking_PopularitySum": 396,
-  "Ranking_EOS_Progress": 237,
-  "Ranking_EOS_Completed": 380,
+  "Ranking_PopularitySum": 395,
+  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Completed": 390,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -1831,10 +1831,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 492,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2024-07-30T15:58:38.6327214+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 494,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 492,
+  "NumberOfAwards": 494,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1854,7 +1860,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13180,9 +13186,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-07-30T02:57:58.489965+00:00",
+  "LastChanged": "2024-07-30T15:58:38.6327212+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:07.2011229+00:00",
   "LastUpdate_AppInfo": "2024-07-29T02:57:03.8739834+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:00:07.9500527+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:38.6327217+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:07.2012147+00:00"
 }

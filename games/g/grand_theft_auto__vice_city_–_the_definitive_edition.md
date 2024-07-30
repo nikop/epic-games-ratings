@@ -40,8 +40,8 @@ Rating: 4.53 (Ranked 614)
 | Done it All | 1.00% | ~190 |
 | Kingpin | 0.80% | ~152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,972 (Ranked 200)  
-Completed: 144 (0.76%) (Ranked 260)  
+Progressed: 18,972 (Ranked 203)  
+Completed: 144 (0.76%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,8 +329,8 @@ Completed: 144 (0.76%) (Ranked 260)
 | 2024-06-17 | 18,972 | 144 |
 ## Awards
 Max (Amazing Storytelling): 32  (Ranked 601)  
-Sum: 191 (Ranked 498)  
-Diff (max vs sum): 103  
+Sum: 191 (Ranked 499)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 177 |

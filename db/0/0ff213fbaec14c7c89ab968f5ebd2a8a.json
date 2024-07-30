@@ -2,8 +2,8 @@
   "ID": "0ff213fbaec14c7c89ab968f5ebd2a8a",
   "Name": "Hero of the Kingdom: The Lost Tales 1",
   "ProductSlug": "hero-of-the-kingdom-the-lost-tales-1-4e7234",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -29,10 +29,230 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-30T16:02:16.0353133+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "H169C",
+      "SetID": "3eil3b5",
+      "Name": "Well-known",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16A4",
+      "SetID": "3eil3b5",
+      "Name": "Renowned",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16A6",
+      "SetID": "3eil3b5",
+      "Name": "Strong",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16A8",
+      "SetID": "3eil3b5",
+      "Name": "Prosperous",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16AA",
+      "SetID": "3eil3b5",
+      "Name": "Wealthy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16AC",
+      "SetID": "3eil3b5",
+      "Name": "Warrior",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16AE",
+      "SetID": "3eil3b5",
+      "Name": "Excellent warrior",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16B0",
+      "SetID": "3eil3b5",
+      "Name": "Citizen",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16B2",
+      "SetID": "3eil3b5",
+      "Name": "Skilled",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16B6",
+      "SetID": "3eil3b5",
+      "Name": "Gifted",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16B8",
+      "SetID": "3eil3b5",
+      "Name": "Searcher",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16BA",
+      "SetID": "3eil3b5",
+      "Name": "Mushroom-picker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16BC",
+      "SetID": "3eil3b5",
+      "Name": "Woodcutter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16BD",
+      "SetID": "3eil3b5",
+      "Name": "Fruiter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16BF",
+      "SetID": "3eil3b5",
+      "Name": "Farmer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16C0",
+      "SetID": "3eil3b5",
+      "Name": "Gatherer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16C2",
+      "SetID": "3eil3b5",
+      "Name": "Herbalist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16C4",
+      "SetID": "3eil3b5",
+      "Name": "Looter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16C6",
+      "SetID": "3eil3b5",
+      "Name": "Crayfisher",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16C8",
+      "SetID": "3eil3b5",
+      "Name": "Dragonslayer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16C9",
+      "SetID": "3eil3b5",
+      "Name": "Frogman",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16CB",
+      "SetID": "3eil3b5",
+      "Name": "Fisherman",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16CC",
+      "SetID": "3eil3b5",
+      "Name": "Lucky fisherman",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16CE",
+      "SetID": "3eil3b5",
+      "Name": "Caveman",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16D0",
+      "SetID": "3eil3b5",
+      "Name": "Hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H16D1",
+      "SetID": "3eil3b5",
+      "Name": "Hero",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "3eil3b5",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:16.0353132+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:16.0353092+00:00",
   "LastUpdate_AppInfo": "2024-07-26T09:57:18.605267+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:00:26.0945338+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:58:55.7959686+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:16.0359009+00:00"
 }

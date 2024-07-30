@@ -2,8 +2,8 @@
   "ID": "795254ed8529486abf33bda2f15d1ce3",
   "Name": "MOBIUS BAND*",
   "ProductSlug": "mobiusband-4a352b",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1045,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,16 +23,202 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T16:02:13.0827081+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T16:02:13.0827167+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_00",
+      "SetID": "22a8okc",
+      "Name": "Prologue",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_01",
+      "SetID": "22a8okc",
+      "Name": "Nameless",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_02",
+      "SetID": "22a8okc",
+      "Name": "Only one wish",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_03",
+      "SetID": "22a8okc",
+      "Name": "The scent of the adult",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_04",
+      "SetID": "22a8okc",
+      "Name": "The end is upstream",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_05",
+      "SetID": "22a8okc",
+      "Name": "Again it comes",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_06",
+      "SetID": "22a8okc",
+      "Name": "Sunshine moment",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_07",
+      "SetID": "22a8okc",
+      "Name": "Lonely jungle",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_08",
+      "SetID": "22a8okc",
+      "Name": "The cyclic sun",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_09",
+      "SetID": "22a8okc",
+      "Name": "The darkness lane",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_10",
+      "SetID": "22a8okc",
+      "Name": "It\u0027s a secret forever",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_11",
+      "SetID": "22a8okc",
+      "Name": "Two loneliness",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_12",
+      "SetID": "22a8okc",
+      "Name": "A mirage",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_13",
+      "SetID": "22a8okc",
+      "Name": "The rights of the left",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_14",
+      "SetID": "22a8okc",
+      "Name": "That\u0027s not me",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_15",
+      "SetID": "22a8okc",
+      "Name": "Love can make your heart go crazy",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_16",
+      "SetID": "22a8okc",
+      "Name": "The rain keeps falling",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_17",
+      "SetID": "22a8okc",
+      "Name": "Where the treasure is buried",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_18",
+      "SetID": "22a8okc",
+      "Name": "Farewell in the moonlight",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_19",
+      "SetID": "22a8okc",
+      "Name": "Fateful meeting",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_20",
+      "SetID": "22a8okc",
+      "Name": "Only the clouds are wandering",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "22a8okc",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:13.0827166+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:13.0827075+00:00",
   "LastUpdate_AppInfo": "2024-07-30T04:57:15.0516764+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:19.3729575+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:59:16.8534103+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:13.0836484+00:00"
 }

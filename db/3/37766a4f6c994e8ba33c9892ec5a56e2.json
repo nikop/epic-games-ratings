@@ -2,8 +2,8 @@
   "ID": "37766a4f6c994e8ba33c9892ec5a56e2",
   "Name": "To the Stars",
   "ProductSlug": "to-the-stars-80b18e",
-  "Ranking_EOS_Progress": 943,
-  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_Progress": 969,
+  "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -375,6 +375,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:01.3498883+00:00",
   "LastChanged_Achievements": "2024-07-09T22:07:22.9125537+00:00",
   "LastUpdate_AppInfo": "2024-07-29T17:57:10.4220568+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:53.9684516+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:24.6782768+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:07:22.9125758+00:00"
 }

@@ -77,8 +77,8 @@ Number of Ratings: 68  (23.09.2022)
 | Circulus Vitiosus | 0.00% | ~0 |
 | Nil Per Os | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482 (Ranked 450)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 482 (Ranked 456)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

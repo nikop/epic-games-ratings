@@ -2,8 +2,8 @@
   "ID": "09f00180b25347bdb65ac0b7378756b7",
   "Name": "Gigapocalypse",
   "ProductSlug": "gigapocalypse-fdc53b",
-  "Ranking_EOS_Progress": 542,
-  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_Progress": 548,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -955,6 +955,6 @@
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
   "LastChanged_Achievements": "2024-06-26T14:07:17.3212281+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:58.2185216+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:56.2761181+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:00:54.2406502+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:07:17.321269+00:00"
 }

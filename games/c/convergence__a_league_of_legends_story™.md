@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.59 (Ranked 482)  
+Rating: 4.59 (Ranked 483)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,8 +59,8 @@ Rating: 4.59 (Ranked 482)
 | Raw Talent | 0.80% | ~12 |
 | Going to Live Forever | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,461 (Ranked 362)  
-Completed: 8 (0.55%) (Ranked 288)  
+Progressed: 1,461 (Ranked 365)  
+Completed: 8 (0.55%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

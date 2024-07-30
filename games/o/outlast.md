@@ -4,8 +4,8 @@
 Rating: 4.73 (Ranked 192)  
 ## Awards
 Max (Highly Recommended): 35  (Ranked 586)  
-Sum: 166 (Ranked 507)  
-Diff (max vs sum): 79  
+Sum: 166 (Ranked 508)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

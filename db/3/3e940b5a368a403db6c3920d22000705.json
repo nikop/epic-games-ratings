@@ -2,8 +2,8 @@
   "ID": "3e940b5a368a403db6c3920d22000705",
   "Name": "Asilium",
   "ProductSlug": "asilium-4f1858",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-26T21:00:24.3354086+00:00",
   "LastUpdate_AppInfo": "2024-07-23T16:57:19.1446386+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:32.2609826+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:30.0071125+00:00",
   "LastUpdate_Achievements": "2024-06-25T15:01:43.0656907+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "756ea7cef5ec4ad49abb5b275068a007",
   "Name": "Hero of the Kingdom: The Lost Tales 2",
   "ProductSlug": "hero-of-the-kingdom-the-lost-tales-2-1947dc",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -29,10 +29,230 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-30T16:02:13.7144663+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "H2BC2",
+      "SetID": "6ickpil",
+      "Name": "Well-known",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BC3",
+      "SetID": "6ickpil",
+      "Name": "Renowned",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BC4",
+      "SetID": "6ickpil",
+      "Name": "Strong",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BC5",
+      "SetID": "6ickpil",
+      "Name": "Prosperous",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BC6",
+      "SetID": "6ickpil",
+      "Name": "Wealthy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BC7",
+      "SetID": "6ickpil",
+      "Name": "Fruiter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BC8",
+      "SetID": "6ickpil",
+      "Name": "Gatherer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BC9",
+      "SetID": "6ickpil",
+      "Name": "Herbalist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BCA",
+      "SetID": "6ickpil",
+      "Name": "Adventurer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BCB",
+      "SetID": "6ickpil",
+      "Name": "Skilled",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BCC",
+      "SetID": "6ickpil",
+      "Name": "Gifted",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BCD",
+      "SetID": "6ickpil",
+      "Name": "Warrior",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BCE",
+      "SetID": "6ickpil",
+      "Name": "Excellent warrior",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BCF",
+      "SetID": "6ickpil",
+      "Name": "Looter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD0",
+      "SetID": "6ickpil",
+      "Name": "Worker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD1",
+      "SetID": "6ickpil",
+      "Name": "Crabber",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD2",
+      "SetID": "6ickpil",
+      "Name": "Fisherman",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD3",
+      "SetID": "6ickpil",
+      "Name": "Lucky fisherman",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD4",
+      "SetID": "6ickpil",
+      "Name": "Diver",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD5",
+      "SetID": "6ickpil",
+      "Name": "Searcher",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD6",
+      "SetID": "6ickpil",
+      "Name": "Pirate",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD7",
+      "SetID": "6ickpil",
+      "Name": "Healer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD8",
+      "SetID": "6ickpil",
+      "Name": "Liberator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BD9",
+      "SetID": "6ickpil",
+      "Name": "Mushroom-picker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BDA",
+      "SetID": "6ickpil",
+      "Name": "Alchemist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H2BDB",
+      "SetID": "6ickpil",
+      "Name": "Hero",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "6ickpil",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:13.7144662+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:13.7144617+00:00",
   "LastUpdate_AppInfo": "2024-07-26T09:57:18.3773477+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:00:25.4264105+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:58:55.1695359+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:13.7153642+00:00"
 }

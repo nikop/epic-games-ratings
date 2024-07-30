@@ -1,7 +1,7 @@
 # Metalstorm
 [Store](https://store.epicgames.com/en-US/p/metalstorm)  
 [View Rawdata](../../db/m/metalstorm.json)  
-Rating: 4.45 (Ranked 756)  
+Rating: 4.45 (Ranked 757)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,8 +26,8 @@ Rating: 4.45 (Ranked 756)
 | Takedowns IV | 0.00% | ~0 |
 | Career Wins IV | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,608 (Ranked 156)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 57,608 (Ranked 159)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -36,7 +36,7 @@ Completed: 0 (0.00%) (Ranked 515)
 | 2024-06-17 | 57,608 | 0 |
 ## Awards
 Max (Great for Beginners): 185  (Ranked 362)  
-Sum: 916 (Ranked 322)  
+Sum: 917 (Ranked 322)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -47,8 +47,8 @@ Diff (max vs sum): 40
 | This game is Extremely Fun | 75 |
 | This game has Quickly Understood Controls | 64 |
 | This game has Amazing Characters | 63 |
+| This game has Competitive Players | 60 |
 | This game has Amazing Storytelling | 59 |
-| This game has Competitive Players | 59 |
 | This game is Relaxing | 50 |
 | This game has Diverse Characters | 24 |
 ## Ratings History
@@ -264,4 +264,4 @@ Diff (max vs sum): 40
 | 2024-07-27 | 4.44 | 171 | 870 |
 | 2024-07-28 | 4.45 | 174 | 884 |
 | 2024-07-29 | 4.44 | 180 | 908 |
-| 2024-07-30 | 4.45 | 185 | 916 |
+| 2024-07-30 | 4.45 | 185 | 917 |

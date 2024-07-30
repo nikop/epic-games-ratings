@@ -108,7 +108,7 @@ Number of Ratings: 87  (23.09.2022)
 | Exoplanetologist | 0.10% | ~460 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 460,258 (Ranked 57)  
-Completed: 36 (0.01%) (Ranked 491)  
+Completed: 36 (0.01%) (Ranked 503)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -357,12 +357,12 @@ Completed: 36 (0.01%) (Ranked 491)
 | 2024-06-17 | 456,631 | 35 |
 | 2024-07-25 | 460,258 | 36 |
 ## Awards
-Max (Challenging Puzzles): 1,368  (Ranked 158)  
-Sum: 3,060 (Ranked 209)  
-Diff (max vs sum): -51  
+Max (Challenging Puzzles): 1,373  (Ranked 158)  
+Sum: 3,065 (Ranked 208)  
+Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 1,368 |
+| This game features Challenging Puzzles | 1,373 |
 | This game is Great for Beginners | 400 |
 | This game has Playful Visuals | 194 |
 | This game is Highly Recommended | 175 |
@@ -803,3 +803,4 @@ Diff (max vs sum): -51
 | 2024-07-27 | 4.48 | - | 1,355 | 3,039 |
 | 2024-07-28 | 4.48 | - | 1,368 | 3,055 |
 | 2024-07-29 | 4.48 | - | 1,368 | 3,060 |
+| 2024-07-30 | 4.48 | - | 1,373 | 3,065 |

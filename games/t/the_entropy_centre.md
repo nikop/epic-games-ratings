@@ -32,8 +32,8 @@
 | Data Research | 0.30% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 300 (Ranked 510)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 300 (Ranked 516)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

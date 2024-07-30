@@ -2,8 +2,8 @@
   "ID": "eda8051dd8c54c5c8782a5acda485245",
   "Name": "Unlock The King",
   "ProductSlug": "unlock-the-king-f05e24",
-  "Ranking_EOS_Progress": 666,
-  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Completed": 69,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -25,16 +25,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
-  "EOS_Completed": 7,
+  "EOS_Progressed": 140,
+  "EOS_Completed": 13,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.33,
+  "EOS_Completed_Percentage": 9.29,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:07:41.7782027+00:00",
       "NumProgressed": 84,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-07-30T16:02:20.6894879+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:41.7782252+00:00",
@@ -47,7 +52,7 @@
       "Name": "MLK is free!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_100",
@@ -55,7 +60,7 @@
       "Name": "An end that justifies the means",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 8
+      "UsersEstimate": 14
     },
     {
       "ID": "LEVEL_20",
@@ -63,39 +68,39 @@
       "Name": "Make Alexander great again",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_30",
       "SetID": "d4g1a6a",
       "Name": "Romanov\u0027s survivor",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_40",
       "SetID": "d4g1a6a",
       "Name": "Hamurabi is looking after you",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_50",
       "SetID": "d4g1a6a",
       "Name": "New Sun King",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_60",
       "SetID": "d4g1a6a",
       "Name": "Wrath of the Lich King",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_70",
@@ -103,7 +108,7 @@
       "Name": "The Konqueror",
       "Percentage": 14,
       "XP": 130,
-      "UsersEstimate": 12
+      "UsersEstimate": 20
     },
     {
       "ID": "LEVEL_80",
@@ -111,7 +116,7 @@
       "Name": "No more homo homini lupus",
       "Percentage": 14,
       "XP": 150,
-      "UsersEstimate": 12
+      "UsersEstimate": 20
     },
     {
       "ID": "LEVEL_90",
@@ -119,21 +124,21 @@
       "Name": "Leviathan",
       "Percentage": 10,
       "XP": 180,
-      "UsersEstimate": 8
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4g1a6a",
       "IsBase": true,
-      "Progressed": 84,
-      "Completed": 7
+      "Progressed": 140,
+      "Completed": 13
     }
   ],
   "FirstSeen": "2024-05-31T04:58:29.2143899+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:41.7782251+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:07:41.7781808+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:20.6894874+00:00",
   "LastUpdate_AppInfo": "2024-07-30T04:57:17.7791429+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:45.2202403+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:07:41.7792239+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:00:43.1322506+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:20.689932+00:00"
 }

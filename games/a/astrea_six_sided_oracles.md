@@ -1,7 +1,7 @@
 # Astrea Six Sided Oracles
 [Store](https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949)  
 [View Rawdata](../../db/a/astrea_six_sided_oracles.json)  
-Rating: 4.45 (Ranked 756)  
+Rating: 4.45 (Ranked 757)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -104,8 +104,8 @@ Rating: 4.45 (Ranked 756)
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478 (Ranked 452)  
-Completed: 1 (0.21%) (Ranked 352)  
+Progressed: 478 (Ranked 458)  
+Completed: 1 (0.21%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -25,8 +25,8 @@
 | Quiplash 3: Secret Schmitty | 0.00% | ~0 |
 | Trivia Murder Party 2: Runaways | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144 (Ranked 598)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 144 (Ranked 606)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

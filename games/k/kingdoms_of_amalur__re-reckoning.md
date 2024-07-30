@@ -76,8 +76,8 @@ Number of Ratings: 137  (23.09.2022)
 | Black Hole | 0.20% | ~2 |
 | Perfectionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,221 (Ranked 372)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 1,221 (Ranked 375)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

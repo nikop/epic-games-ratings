@@ -2,11 +2,11 @@
   "ID": "52326e805bac4619a4a8fac165363a42",
   "Name": "Gone Home",
   "ProductSlug": "gone-home",
-  "Ranking_Rating": 1064,
+  "Ranking_Rating": 1073,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.21,
   "NumberOfRatings": 55,
   "RatingHistory": [
     {
@@ -313,6 +313,12 @@
       "Rating": 4.22,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-30T16:02:03.785589+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -330,8 +336,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:36.6755135+00:00",
-  "LastChanged": "2024-06-01T08:57:49.3783383+00:00",
+  "LastChanged": "2024-07-30T16:02:03.7855888+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:27.2998073+00:00",
-  "LastUpdate_Ratings": "2024-07-30T15:00:05.3999198+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:02:03.7855894+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:05.9110175+00:00"
 }

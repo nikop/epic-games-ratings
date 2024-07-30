@@ -2,8 +2,8 @@
   "ID": "68a38fd9bc32457caaf02d55b7e7fe18",
   "Name": "Globe Go",
   "ProductSlug": "globe-go-77fe5d",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-30T02:57:01.025556+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:41.3874369+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:00:39.3058596+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:11.9203901+00:00"
 }

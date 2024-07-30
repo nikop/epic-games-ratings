@@ -30,8 +30,8 @@ Rating: 4.44 (Ranked 777)
 | Silver Trophy | 2.00% | ~789 |
 | Maxed Out | 2.00% | ~789 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,442 (Ranked 168)  
-Completed: 382 (0.97%) (Ranked 239)  
+Progressed: 39,442 (Ranked 172)  
+Completed: 382 (0.97%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 342)  
+Rating: 4.65 (Ranked 341)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -373,8 +373,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,981 (Ranked 196)  
-Completed: 7 (0.04%) (Ranked 448)  
+Progressed: 19,981 (Ranked 199)  
+Completed: 7 (0.04%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

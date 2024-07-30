@@ -6,7 +6,7 @@
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -11280,18 +11280,24 @@
       "Rating": 4.01,
       "NumberOfAwards": 39605,
       "NumberOfAwardsMax": 12040
+    },
+    {
+      "Time": "2024-07-30T15:57:43.5282842+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 39648,
+      "NumberOfAwardsMax": 12058
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39605,
-  "NumberOfAwardsMax": 12040,
+  "NumberOfAwards": 39648,
+  "NumberOfAwardsMax": 12058,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9774
+      "Count": 9787
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11315,7 +11321,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 12040
+      "Count": 12058
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11327,7 +11333,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 7032
+      "Count": 7044
     },
     {
       "Text": "This game is Relaxing",
@@ -44175,9 +44181,9 @@
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2024-07-30T13:59:12.7384301+00:00",
+  "LastChanged": "2024-07-30T15:57:43.5282838+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:09.8860805+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:44.333163+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:12.7384309+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:57:43.5282846+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:09.8862489+00:00"
 }

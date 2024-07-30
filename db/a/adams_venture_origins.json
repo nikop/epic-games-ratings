@@ -2,8 +2,8 @@
   "ID": "005e0b8761284677ad914a6721095e94",
   "Name": "Adams Venture Origins",
   "ProductSlug": "adams-venture-origins-d4d541",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.2448699+00:00",
   "LastChanged": "2023-03-31T05:57:23.24487+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:14.1873202+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:46.9140858+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:17.7767382+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:08.8380266+00:00"
 }

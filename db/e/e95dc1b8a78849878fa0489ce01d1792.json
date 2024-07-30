@@ -2,8 +2,8 @@
   "ID": "e95dc1b8a78849878fa0489ce01d1792",
   "Name": "Story Craft",
   "ProductSlug": "story-craft-6bfcfb",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-11T20:57:39.6328406+00:00",
   "LastUpdate_AppInfo": "2024-07-30T04:57:15.5446073+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:40.2372376+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:38.0125397+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:09:28.437966+00:00"
 }

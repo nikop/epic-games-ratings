@@ -2,8 +2,8 @@
   "ID": "b923c7c232814d448af46a02f1e1107b",
   "Name": "INDUSTRIA 2",
   "ProductSlug": "industria-2-a1232a",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T06:56:52.1046336+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:22.3117169+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:00:19.8552179+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:01:29.8247724+00:00"
 }

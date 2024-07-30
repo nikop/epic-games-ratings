@@ -2,8 +2,8 @@
   "ID": "ada1e59de1dc499bb992074863a3d85a",
   "Name": "Knight\u0027s Retreat",
   "ProductSlug": "knights-retreat-618411",
-  "Ranking_EOS_Progress": 919,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 855,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-06-17T16:08:33.9342591+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T16:02:39.006386+00:00",
+      "NumProgressed": 17,
       "NumCompleted": 0
     }
   ],
@@ -47,37 +52,37 @@
       "Name": "Withdrawal",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 17
     },
     {
       "ID": "LEVEL_17",
       "SetID": "5ga5cgk",
       "Name": "Mass evacuation",
-      "Percentage": 67,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_27",
       "SetID": "5ga5cgk",
       "Name": "Khan Krum\u0027s wisdom",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_41",
       "SetID": "5ga5cgk",
       "Name": "Brothers in arms",
-      "Percentage": 33,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_53",
       "SetID": "5ga5cgk",
       "Name": "The Grande Arm\u00E9e antagonist",
-      "Percentage": 17,
+      "Percentage": 6,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -85,7 +90,7 @@
       "ID": "LEVEL_56",
       "SetID": "5ga5cgk",
       "Name": "They never learn, comrade",
-      "Percentage": 17,
+      "Percentage": 6,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -110,14 +115,14 @@
     {
       "ID": "5ga5cgk",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-01T04:58:22.4315036+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:33.9342617+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:33.9342587+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:39.0063857+00:00",
   "LastUpdate_AppInfo": "2024-07-24T18:57:18.7953801+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:58:51.2943859+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:33.9348628+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:22.3521617+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:39.0063971+00:00"
 }

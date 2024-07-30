@@ -78,8 +78,8 @@ Rating: 4.22 (Ranked 1,064)
 | Lord of Slaughter | 0.10% | ~2 |
 | Indomitable | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,028 (Ranked 205)  
-Completed: 6 (0.04%) (Ranked 448)  
+Progressed: 17,028 (Ranked 208)  
+Completed: 6 (0.04%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

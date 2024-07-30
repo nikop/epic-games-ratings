@@ -53,8 +53,8 @@
 | A Quick Secret | 0.90% | ~1 |
 | A Complete Journey | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 621)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 116 (Ranked 631)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

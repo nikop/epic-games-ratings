@@ -2,8 +2,8 @@
   "ID": "e0d342096dbe47e9a41a2b7735683edd",
   "Name": "The Smurfs - Village Party",
   "ProductSlug": "smurfs-village-party-665dc8",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1045,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,26 +23,322 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T16:02:46.2879538+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T16:02:46.2879553+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "b9mpl7j",
+      "Name": "Player Smurf",
+      "Percentage": 200,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "10",
+      "SetID": "b9mpl7j",
+      "Name": "Slippery Smurf",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "b9mpl7j",
+      "Name": "Fortune Teller Smurf",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "b9mpl7j",
+      "Name": "Memory Smurf",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "13",
+      "SetID": "b9mpl7j",
+      "Name": "Flying Smurf",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "14",
+      "SetID": "b9mpl7j",
+      "Name": "Agile Smurf",
+      "Percentage": 200,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "15",
+      "SetID": "b9mpl7j",
+      "Name": "Distracted Smurf",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "16",
+      "SetID": "b9mpl7j",
+      "Name": "Fisher Smurf",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "17",
+      "SetID": "b9mpl7j",
+      "Name": "Precise Smurf",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "b9mpl7j",
+      "Name": "Scaredy Smurf",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "19",
+      "SetID": "b9mpl7j",
+      "Name": "Dragon Hunter Smurf",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "2",
+      "SetID": "b9mpl7j",
+      "Name": "Treasure Hunter Smurf",
+      "Percentage": 200,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "20",
+      "SetID": "b9mpl7j",
+      "Name": "Cat Hunter Smurf",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "21",
+      "SetID": "b9mpl7j",
+      "Name": "Competitive Smurf",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "22",
+      "SetID": "b9mpl7j",
+      "Name": "Brawler Smurf",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "b9mpl7j",
+      "Name": "A Smurf like the others",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "b9mpl7j",
+      "Name": "Astronaut Smurf",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "b9mpl7j",
+      "Name": "Diligent Smurf",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "26",
+      "SetID": "b9mpl7j",
+      "Name": "Stylist Smurf",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "27",
+      "SetID": "b9mpl7j",
+      "Name": "Collector Smurf",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "28",
+      "SetID": "b9mpl7j",
+      "Name": "Conductor Smurf",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "29",
+      "SetID": "b9mpl7j",
+      "Name": "Champion Smurf",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "b9mpl7j",
+      "Name": "Mini-Smurf",
+      "Percentage": 200,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "30",
+      "SetID": "b9mpl7j",
+      "Name": "Curious Smurf",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "31",
+      "SetID": "b9mpl7j",
+      "Name": "Fast Smurf",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "32",
+      "SetID": "b9mpl7j",
+      "Name": "Smurftastic",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "33",
+      "SetID": "b9mpl7j",
+      "Name": "Esteemed Smurf",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "b9mpl7j",
+      "Name": "A Very Smurfy Wizard",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "b9mpl7j",
+      "Name": "Builder Smurf",
+      "Percentage": 100,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "36",
+      "SetID": "b9mpl7j",
+      "Name": "Heroic Smurf",
+      "Percentage": 100,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "4",
+      "SetID": "b9mpl7j",
+      "Name": "Costumed Smurf",
+      "Percentage": 200,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "5",
+      "SetID": "b9mpl7j",
+      "Name": "Marathon Smurf",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "6",
+      "SetID": "b9mpl7j",
+      "Name": "Jokey Smurf",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "7",
+      "SetID": "b9mpl7j",
+      "Name": "Conqueror Smurf",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "b9mpl7j",
+      "Name": "Robin Smurf",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "9",
+      "SetID": "b9mpl7j",
+      "Name": "Tightrope Smurf",
+      "Percentage": 200,
+      "XP": 20,
+      "UsersEstimate": 2
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b9mpl7j",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:50.6043711+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:50.6043685+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:46.2879536+00:00",
   "LastUpdate_AppInfo": "2024-07-26T23:57:14.8483375+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:59.6432893+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:50.6043734+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:57.9814334+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:46.288555+00:00"
 }

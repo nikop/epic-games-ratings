@@ -24,8 +24,8 @@
 | The bad boy | 0.60% | ~5 |
 | Muggy Misha | 0.50% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 854 (Ranked 399)  
-Completed: 10 (1.17%) (Ranked 219)  
+Progressed: 854 (Ranked 403)  
+Completed: 10 (1.17%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

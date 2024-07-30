@@ -84,8 +84,8 @@
 | Temperate master | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643 (Ranked 427)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 643 (Ranked 431)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

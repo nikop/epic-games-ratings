@@ -2,8 +2,8 @@
   "ID": "dc66053dbf6248cfbcb8c9a406b54dfb",
   "Name": "Red Planet Rampart",
   "ProductSlug": "red-planet-rampart-00867e",
-  "Ranking_EOS_Progress": 957,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 969,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -32,6 +32,11 @@
     {
       "Time": "2024-06-17T16:07:50.0712488+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T16:02:23.3925689+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -43,7 +48,7 @@
       "ID": "Achievement01_ElectronicCorvee",
       "SetID": "3de8l4c",
       "Name": "Electronic Corvee (Unlocked)",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -91,7 +96,7 @@
       "ID": "Achievement07_MachineGunWatcher",
       "SetID": "3de8l4c",
       "Name": "Machine Gun Watcher Terminator (Unlocked)",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -108,13 +113,13 @@
     {
       "ID": "3de8l4c",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:50.0712572+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:07:50.0712483+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:23.3925685+00:00",
   "LastUpdate_AppInfo": "2024-07-24T14:57:08.6747832+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:51.1251452+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:07:50.0721149+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:00:48.9755105+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:23.392576+00:00"
 }

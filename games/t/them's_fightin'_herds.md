@@ -1,7 +1,7 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.59 (Ranked 482)  
+Rating: 4.59 (Ranked 483)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,7 +35,7 @@ Rating: 4.59 (Ranked 482)
 | High Priestess | 0.10% | ~240 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 239,919 (Ranked 89)  
-Completed: 7 (0.00%) (Ranked 515)  
+Completed: 7 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

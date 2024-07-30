@@ -2,8 +2,8 @@
   "ID": "3d349ad0280249afa0148a2f159c7988",
   "Name": "Universe Millionaire: The New Era of Energy",
   "ProductSlug": "universe-millionaire-the-new-era-of-energy-bb09fe",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -29,10 +29,62 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-07-30T16:02:16.6338694+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_1_0",
+      "SetID": "abb344h",
+      "Name": "First arrival",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_1",
+      "SetID": "abb344h",
+      "Name": "Discover New Planet",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_2",
+      "SetID": "abb344h",
+      "Name": "Interstellar Adventure",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_3",
+      "SetID": "abb344h",
+      "Name": "Business Tycoon",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_4",
+      "SetID": "abb344h",
+      "Name": "Legendary Hero",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "abb344h",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:16.6338693+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:16.633855+00:00",
   "LastUpdate_AppInfo": "2024-07-30T06:57:19.5540301+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:58:58.5147673+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:57:29.4496275+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:16.6349231+00:00"
 }

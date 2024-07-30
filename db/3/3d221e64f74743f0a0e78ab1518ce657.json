@@ -2,8 +2,8 @@
   "ID": "3d221e64f74743f0a0e78ab1518ce657",
   "Name": "Ground to Dust",
   "ProductSlug": "ground-to-dust-587fbb",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-27T08:58:30.5167487+00:00",
   "LastUpdate_AppInfo": "2024-07-30T04:57:18.4610054+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:12.8658668+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:01:10.791882+00:00",
   "LastUpdate_Achievements": "2024-06-25T15:01:38.1936615+00:00"
 }

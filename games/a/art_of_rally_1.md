@@ -51,7 +51,7 @@ Number of Ratings: 56  (23.09.2022)
 | you're here for a good time, not a long time | 0.10% | ~518 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 518,123 (Ranked 49)  
-Completed: 61 (0.01%) (Ranked 491)  
+Completed: 61 (0.01%) (Ranked 503)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

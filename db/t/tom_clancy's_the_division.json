@@ -2,11 +2,11 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 482,
+  "Ranking_Rating": 483,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 264,
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -5099,10 +5099,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1708,
       "NumberOfAwardsMax": 580
+    },
+    {
+      "Time": "2024-07-30T15:59:49.9114441+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1709,
+      "NumberOfAwardsMax": 580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1708,
+  "NumberOfAwards": 1709,
   "NumberOfAwardsMax": 580,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5140,7 +5146,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5202,8 +5208,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-07-27T23:59:44.3306522+00:00",
+  "LastChanged": "2024-07-30T15:59:49.9114439+00:00",
   "LastUpdate_AppInfo": "2024-07-29T07:57:21.4643438+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:52.3897137+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:49.9114446+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:06:19.2044667+00:00"
 }

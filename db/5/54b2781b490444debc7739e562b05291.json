@@ -2,8 +2,8 @@
   "ID": "54b2781b490444debc7739e562b05291",
   "Name": "Stories from the Outbreak",
   "ProductSlug": "stories-from-the-outbreak-23efc0",
-  "Ranking_EOS_Progress": 888,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 910,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -365,6 +365,6 @@
   "FirstSeenAchievements": "2024-03-21T17:11:57.265118+00:00",
   "LastChanged_Achievements": "2024-07-25T19:04:41.1563838+00:00",
   "LastUpdate_AppInfo": "2024-07-26T22:57:12.2438294+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:49.7673829+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:59:47.216293+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:41.1564225+00:00"
 }

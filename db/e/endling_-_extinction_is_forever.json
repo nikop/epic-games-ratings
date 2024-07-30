@@ -2,11 +2,11 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_Rating": 342,
+  "Ranking_Rating": 386,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
-  "Ranking_EOS_Progress": 414,
-  "Ranking_EOS_Completed": 314,
+  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Completed": 323,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:32.6657403+00:00",
@@ -49,6 +49,12 @@
     {
       "Time": "2024-06-11T03:57:49.8386637+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-30T15:58:15.1581072+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1543,9 +1549,9 @@
   "FirstSeen": "2022-07-22T20:30:57.6723398+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
-  "LastChanged": "2024-06-11T03:57:49.8386635+00:00",
+  "LastChanged": "2024-07-30T15:58:15.158107+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:25.8525978+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:13.5165134+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:44.2387333+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:15.1581076+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:25.8526234+00:00"
 }

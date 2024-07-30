@@ -2,8 +2,8 @@
   "ID": "0a4df5e16cb34e1cb073d347eb105904",
   "Name": "Peerless Destiny",
   "ProductSlug": "peerless-destiny-chinese-838f90",
-  "Ranking_EOS_Progress": 1014,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1045,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -355,6 +355,6 @@
   "FirstSeenAchievements": "2024-03-04T23:04:15.7099105+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:52.667109+00:00",
   "LastUpdate_AppInfo": "2024-07-25T09:56:59.8978331+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:36.5939085+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:07.6778621+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:52.667127+00:00"
 }

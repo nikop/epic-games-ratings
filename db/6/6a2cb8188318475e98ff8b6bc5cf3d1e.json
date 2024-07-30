@@ -2,8 +2,8 @@
   "ID": "6a2cb8188318475e98ff8b6bc5cf3d1e",
   "Name": "Phantom Breaker: Battle Grounds Ultimate",
   "ProductSlug": "pbbgu-c4321f",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "20l42e6",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:12.9355025+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:12.9354988+00:00",
   "LastUpdate_AppInfo": "2024-07-24T16:57:05.1533358+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:26.7019394+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:25.0525152+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:12.935504+00:00"
 }

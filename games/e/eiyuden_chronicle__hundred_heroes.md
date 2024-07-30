@@ -61,8 +61,8 @@ Rating: 4.62 (Ranked 403)
 | Know Thy Enemy, Know Thyself | 1.00% | ~2 |
 | The Hero Whom the Runes Smile On | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248 (Ranked 527)  
-Completed: 3 (1.21%) (Ranked 215)  
+Progressed: 248 (Ranked 534)  
+Completed: 3 (1.21%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

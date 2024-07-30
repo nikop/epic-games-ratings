@@ -2,8 +2,8 @@
   "ID": "12b7efdc754646698a2e47012a94bd13",
   "Name": "EscapeGameShow : THE TIMELINE",
   "ProductSlug": "escapegameshow-1cfe48",
-  "Ranking_EOS_Progress": 1014,
-  "Ranking_EOS_Completed": 1,
+  "Ranking_EOS_Progress": 906,
+  "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 11,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 100,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:24.0764135+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-07-30T16:02:35.4305719+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 1
     }
   ],
@@ -45,7 +50,7 @@
       "ID": "antiquity",
       "SetID": "7h95odl",
       "Name": "Antiquity",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -53,7 +58,7 @@
       "ID": "contemporary",
       "SetID": "7h95odl",
       "Name": "Contemporary",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -61,7 +66,7 @@
       "ID": "cup",
       "SetID": "7h95odl",
       "Name": "The cup",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -69,15 +74,15 @@
       "ID": "debut",
       "SetID": "7h95odl",
       "Name": "Winning ticket",
-      "Percentage": 100,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "end",
       "SetID": "7h95odl",
       "Name": "The end",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -85,7 +90,7 @@
       "ID": "gold",
       "SetID": "7h95odl",
       "Name": "Full pockets",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -93,7 +98,7 @@
       "ID": "loose",
       "SetID": "7h95odl",
       "Name": "The big loser",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -101,7 +106,7 @@
       "ID": "medieval",
       "SetID": "7h95odl",
       "Name": "Medieval",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -109,7 +114,7 @@
       "ID": "prehistoire",
       "SetID": "7h95odl",
       "Name": "Prehistory",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -117,7 +122,7 @@
       "ID": "secret",
       "SetID": "7h95odl",
       "Name": "Observation is the key",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 180,
       "UsersEstimate": 1
     },
@@ -125,7 +130,7 @@
       "ID": "studio",
       "SetID": "7h95odl",
       "Name": "TV studio",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -133,7 +138,7 @@
       "ID": "win",
       "SetID": "7h95odl",
       "Name": "Jackpot",
-      "Percentage": 100,
+      "Percentage": 9,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -142,14 +147,14 @@
     {
       "ID": "7h95odl",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 11,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-07-23T11:57:48.6383043+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:24.0764159+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:24.076413+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:35.4305713+00:00",
   "LastUpdate_AppInfo": "2024-07-26T17:57:13.855976+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:46.656392+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:24.0771302+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:00:44.5592624+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:35.430582+00:00"
 }

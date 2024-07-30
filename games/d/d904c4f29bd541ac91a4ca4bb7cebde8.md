@@ -1,7 +1,7 @@
 # Ouch! So many beauties!
 [Store](https://store.epicgames.com/en-US/p/videogame-9ad7f5)  
 [View Rawdata](../../db/d/d904c4f29bd541ac91a4ca4bb7cebde8.json)  
-Rating: 4.42 (Ranked 821)  
+Rating: 4.42 (Ranked 822)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -49,8 +49,8 @@ Rating: 4.42 (Ranked 821)
 | Tossing and turning for half a day | 0.00% | ~0 |
 | Tossing and turning for half a day2 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,356 (Ranked 222)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 11,356 (Ranked 225)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

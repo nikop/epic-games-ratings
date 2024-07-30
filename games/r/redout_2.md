@@ -58,8 +58,8 @@ Rating: 4.53 (Ranked 614)
 | Grandslam | 0.10% | ~84 |
 | Great Start | 0.10% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,765 (Ranked 136)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 83,765 (Ranked 139)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

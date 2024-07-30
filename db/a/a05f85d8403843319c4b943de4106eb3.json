@@ -2,8 +2,8 @@
   "ID": "a05f85d8403843319c4b943de4106eb3",
   "Name": "Island Paradise",
   "ProductSlug": "island-paradise-6a6d26",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-08T21:57:02.2427958+00:00",
   "LastUpdate_AppInfo": "2024-07-25T17:57:02.3236258+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:05.376677+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:00:02.7588653+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:40.1738461+00:00"
 }

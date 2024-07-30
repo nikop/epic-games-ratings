@@ -1,7 +1,7 @@
 # PC Building Simulator 2
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator-2)  
 [View Rawdata](../../db/p/pc_building_simulator_2.json)  
-Rating: 4.59 (Ranked 482)  
+Rating: 4.59 (Ranked 483)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -66,7 +66,7 @@ Rating: 4.59 (Ranked 482)
 | Export Expert | 0.10% | ~455 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 455,174 (Ranked 58)  
-Completed: 197 (0.04%) (Ranked 448)  
+Completed: 197 (0.04%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

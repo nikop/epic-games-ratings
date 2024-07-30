@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 591)
 | Wilhelm | 0.10% | ~282 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 956,612 (Ranked 23)  
-Completed: 3,062 (0.32%) (Ranked 325)  
+Completed: 3,062 (0.32%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -352,7 +352,7 @@ Completed: 3,062 (0.32%) (Ranked 325)
 | 2024-06-17 | 956,612 | 3,062 |
 ## Awards
 Max (Great Boss Battles): 16,097  (Ranked 32)  
-Sum: 26,458 (Ranked 63)  
+Sum: 26,461 (Ranked 63)  
 Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
@@ -364,7 +364,7 @@ Diff (max vs sum): -31
 | This game is Extremely Fun | 1,242 |
 | This game has Amazing Storytelling | 1,234 |
 | This game is Relaxing | 1,228 |
-| This game has Amazing Characters | 1,164 |
+| This game has Amazing Characters | 1,167 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -834,4 +834,4 @@ Diff (max vs sum): -31
 | 2024-07-27 | 4.54 | 16,049 | 26,376 |
 | 2024-07-28 | 4.54 | 16,077 | 26,419 |
 | 2024-07-29 | 4.54 | 16,097 | 26,455 |
-| 2024-07-30 | 4.54 | 16,097 | 26,458 |
+| 2024-07-30 | 4.54 | 16,097 | 26,461 |

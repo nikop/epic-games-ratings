@@ -2,8 +2,8 @@
   "ID": "bb41e07f50464edb958e13c6531fe78c",
   "Name": "Megapolis",
   "ProductSlug": "megapolis-925016",
-  "Ranking_EOS_Progress": 721,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 736,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -230,6 +230,6 @@
   "FirstSeenAchievements": "2024-07-25T19:01:51.3463463+00:00",
   "LastChanged_Achievements": "2024-07-25T19:01:51.3463319+00:00",
   "LastUpdate_AppInfo": "2024-07-29T10:57:15.5106231+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:00:07.0221729+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:37.6917705+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:51.3472528+00:00"
 }

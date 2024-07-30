@@ -59,8 +59,8 @@ Rating: 4.51 (Ranked 647)
 | Blood, Sweat, and Tears | 3.00% | ~1,961 |
 | Pinpoint | 2.00% | ~1,307 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,374 (Ranked 149)  
-Completed: 398 (0.61%) (Ranked 277)  
+Progressed: 65,374 (Ranked 151)  
+Completed: 398 (0.61%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -200,7 +200,7 @@ Completed: 398 (0.61%) (Ranked 277)
 | 2024-07-30 | 65,374 | 398 |
 ## Awards
 Max (Great Boss Battles): 13,647  (Ranked 41)  
-Sum: 25,056 (Ranked 65)  
+Sum: 25,057 (Ranked 65)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -212,7 +212,7 @@ Diff (max vs sum): -24
 | This game has Amazing Characters | 1,337 |
 | This game is Extremely Fun | 1,327 |
 | This game is Relaxing | 1,323 |
-| This game has Challenging Combat | 1,287 |
+| This game has Challenging Combat | 1,288 |
 | This game has a Creative Community | 659 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -674,4 +674,4 @@ Diff (max vs sum): -24
 | 2024-07-27 | 4.51 | 13,631 | 25,009 |
 | 2024-07-28 | 4.51 | 13,640 | 25,037 |
 | 2024-07-29 | 4.51 | 13,640 | 25,046 |
-| 2024-07-30 | 4.51 | 13,647 | 25,056 |
+| 2024-07-30 | 4.51 | 13,647 | 25,057 |

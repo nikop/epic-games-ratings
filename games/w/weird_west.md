@@ -1,7 +1,7 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.43 (Ranked 799)  
+Rating: 4.43 (Ranked 800)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -60,8 +60,8 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.10% | ~12 |
 | Revenant | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,813 (Ranked 220)  
-Completed: 10 (0.08%) (Ranked 415)  
+Progressed: 11,813 (Ranked 223)  
+Completed: 10 (0.08%) (Ranked 424)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.65 (Ranked 342)  
+Rating: 4.65 (Ranked 341)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -67,8 +67,8 @@ Number of Ratings: 1,635  (23.09.2022)
 | I love the smell of Catapult fire! | 2.00% | ~1,194 |
 | Sacrifices! | 2.00% | ~1,194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,695 (Ranked 154)  
-Completed: 459 (0.77%) (Ranked 259)  
+Progressed: 59,695 (Ranked 157)  
+Completed: 459 (0.77%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

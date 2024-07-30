@@ -2,8 +2,8 @@
   "ID": "e42faa3ca424411db871181e13664ef3",
   "Name": "Dungeons of Hinterberg",
   "ProductSlug": "dungeons-of-hinterberg-854b1e",
-  "Ranking_EOS_Progress": 716,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 731,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 14,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -387,6 +387,6 @@
   "FirstSeenAchievements": "2024-07-25T19:01:50.347137+00:00",
   "LastChanged_Achievements": "2024-07-30T00:06:40.2789137+00:00",
   "LastUpdate_AppInfo": "2024-07-30T11:57:15.090463+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:30.4479413+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:01.2678188+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:06:40.2789404+00:00"
 }

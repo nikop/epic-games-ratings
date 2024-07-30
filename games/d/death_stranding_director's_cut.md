@@ -71,7 +71,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,394 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 598,500 (Ranked 39)  
-Completed: 2,704 (0.45%) (Ranked 305)  
+Completed: 2,704 (0.45%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -359,12 +359,12 @@ Completed: 2,704 (0.45%) (Ranked 305)
 | 2024-06-17 | 595,911 | 2,657 |
 | 2024-07-09 | 598,500 | 2,704 |
 ## Awards
-Max (Great Boss Battles): 10,768  (Ranked 51)  
-Sum: 19,076 (Ranked 73)  
+Max (Great Boss Battles): 10,785  (Ranked 51)  
+Sum: 19,093 (Ranked 73)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 10,768 |
+| This game has Great Boss Battles | 10,785 |
 | This game is Great for Beginners | 897 |
 | This game has Diverse Characters | 817 |
 | This game has Amazing Storytelling | 789 |
@@ -940,4 +940,4 @@ Diff (max vs sum): -22
 | 2024-07-27 | 4.89 | - | 10,736 | 19,018 |
 | 2024-07-28 | 4.89 | - | 10,755 | 19,048 |
 | 2024-07-29 | 4.89 | - | 10,768 | 19,069 |
-| 2024-07-30 | 4.89 | - | 10,768 | 19,076 |
+| 2024-07-30 | 4.89 | - | 10,785 | 19,093 |

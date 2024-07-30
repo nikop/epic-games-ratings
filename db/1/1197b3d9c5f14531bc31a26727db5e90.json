@@ -2,8 +2,8 @@
   "ID": "1197b3d9c5f14531bc31a26727db5e90",
   "Name": "My name is Ximen Qing",
   "ProductSlug": "my-name-is-ximen-qing-ce3c5e",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-20T07:58:22.2472579+00:00",
   "LastUpdate_AppInfo": "2024-07-24T18:57:18.4442641+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:16.0182523+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:13.8997597+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:10.5261939+00:00"
 }

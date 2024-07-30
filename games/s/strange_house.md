@@ -11,8 +11,8 @@
 | Chapter 1 | 17.00% | ~12 |
 | Piglet | 17.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 685)  
-Completed: 3 (4.29%) (Ranked 123)  
+Progressed: 70 (Ranked 696)  
+Completed: 3 (4.29%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # ELEX
 [Store](https://store.epicgames.com/en-US/p/elex)  
 [View Rawdata](../../db/e/elex.json)  
-Rating: 4.42 (Ranked 821)  
+Rating: 4.42 (Ranked 822)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,8 +57,8 @@ Number of Ratings: 58  (23.09.2022)
 | Big Game Hunter | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 390 (Ranked 481)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 390 (Ranked 486)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "0757d1c06c08401f9c02b88bcfb47f42",
   "Name": "Expedition: Crushing Depth",
   "ProductSlug": "sh-e9fe5c",
-  "Ranking_EOS_Progress": 957,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 959,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -32,6 +32,11 @@
     {
       "Time": "2024-06-17T16:08:54.6700082+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T16:02:48.1532509+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -67,7 +72,7 @@
       "ID": "Ach_Careful",
       "SetID": "7ejpf08",
       "Name": "Careful",
-      "Percentage": 100,
+      "Percentage": 60,
       "XP": 65,
       "UsersEstimate": 3
     },
@@ -75,15 +80,15 @@
       "ID": "Ach_FirstContact",
       "SetID": "7ejpf08",
       "Name": "First Contact",
-      "Percentage": 100,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach_GoingDeep",
       "SetID": "7ejpf08",
       "Name": "Going Deep",
-      "Percentage": 67,
+      "Percentage": 40,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -107,15 +112,15 @@
       "ID": "Ach_StartingOut",
       "SetID": "7ejpf08",
       "Name": "Starting Out",
-      "Percentage": 133,
+      "Percentage": 120,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "Ach_TheButton",
       "SetID": "7ejpf08",
       "Name": "The Botton",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -123,9 +128,9 @@
       "ID": "Ach_Tut",
       "SetID": "7ejpf08",
       "Name": "Prepared",
-      "Percentage": 67,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach_Win",
@@ -148,13 +153,13 @@
     {
       "ID": "7ejpf08",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:05:32.1624565+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:54.6700076+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:48.1532504+00:00",
   "LastUpdate_AppInfo": "2024-07-25T17:57:03.1800934+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:39.0033895+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:54.6707117+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:37.2813004+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:48.1532583+00:00"
 }

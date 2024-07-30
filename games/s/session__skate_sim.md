@@ -55,8 +55,8 @@ Number of Ratings: 111  (23.09.2022)
 | Loves You Back | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,478 (Ranked 269)  
-Completed: 3 (0.07%) (Ranked 424)  
+Progressed: 4,478 (Ranked 273)  
+Completed: 3 (0.07%) (Ranked 434)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

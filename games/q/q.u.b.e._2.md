@@ -36,8 +36,8 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~551 |
 | Expert Collector | 1.00% | ~551 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,101 (Ranked 159)  
-Completed: 344 (0.62%) (Ranked 275)  
+Progressed: 55,101 (Ranked 162)  
+Completed: 344 (0.62%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

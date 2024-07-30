@@ -37,7 +37,7 @@ Rating: 4.20 (Ranked 1,083)
 | The Longest Night | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 157,589 (Ranked 102)  
-Completed: 7 (0.00%) (Ranked 515)  
+Completed: 7 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "2295cc3dfc824a4a95576ebae7e96209",
   "Name": "Machinika: Atlas",
   "ProductSlug": "machinika-atlas-27aaeb",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-29T13:09:33.0858993+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:57:26.8982926+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:59:24.5215344+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:13.668002+00:00"
 }

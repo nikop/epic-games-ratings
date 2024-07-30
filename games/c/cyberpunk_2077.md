@@ -75,7 +75,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,102,820 (Ranked 20)  
-Completed: 3,668 (0.33%) (Ranked 322)  
+Completed: 3,668 (0.33%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -363,7 +363,7 @@ Completed: 3,668 (0.33%) (Ranked 322)
 | 2024-06-17 | 1,102,820 | 3,668 |
 ## Awards
 Max (Character Customization): 172,462  (Ranked 7)  
-Sum: 678,959 (Ranked 8)  
+Sum: 679,009 (Ranked 8)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -375,7 +375,7 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 42,508 |
 | This game is Extremely Fun | 42,299 |
 | This game has Amazing Characters | 41,951 |
-| This game is Relaxing | 40,749 |
+| This game is Relaxing | 40,799 |
 | This game has Quickly Understood Controls | 40,555 |
 | This game has a Creative Community | 27,982 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -939,4 +939,4 @@ Diff (max vs sum): -1
 | 2024-07-27 | 4.69 | - | 172,105 | 677,135 |
 | 2024-07-28 | 4.69 | - | 172,229 | 677,809 |
 | 2024-07-29 | 4.69 | - | 172,359 | 678,530 |
-| 2024-07-30 | 4.69 | - | 172,462 | 678,959 |
+| 2024-07-30 | 4.69 | - | 172,462 | 679,009 |

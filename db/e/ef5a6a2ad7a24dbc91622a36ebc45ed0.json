@@ -2,8 +2,8 @@
   "ID": "ef5a6a2ad7a24dbc91622a36ebc45ed0",
   "Name": "Line Time",
   "ProductSlug": "line-time-fb0cd9",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "1d1nog0",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:12.5987153+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:12.5987107+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:08.5544188+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:00:12.2411761+00:00"
+  "LastUpdate_Ratings": "2024-07-30T15:58:42.7946886+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:12.598717+00:00"
 }

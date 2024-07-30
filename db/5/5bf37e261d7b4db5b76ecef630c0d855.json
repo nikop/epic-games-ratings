@@ -2,8 +2,8 @@
   "ID": "5bf37e261d7b4db5b76ecef630c0d855",
   "Name": "Shadow Vault",
   "ProductSlug": "shadow-vault-868782",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-10T18:59:18.681622+00:00",
   "LastUpdate_AppInfo": "2024-07-28T06:57:09.055968+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:58.3734653+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:01:56.7120587+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:47.5803647+00:00"
 }

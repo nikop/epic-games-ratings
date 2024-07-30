@@ -23,8 +23,8 @@
 | Freedum Fighter | 4.00% | ~5 |
 | Escape Artist | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 611)  
-Completed: 3 (2.44%) (Ranked 164)  
+Progressed: 123 (Ranked 621)  
+Completed: 3 (2.44%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

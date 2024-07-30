@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~82 |
 | Blood Brother | 0.10% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,654 (Ranked 141)  
-Completed: 1 (0.00%) (Ranked 515)  
+Progressed: 81,654 (Ranked 142)  
+Completed: 1 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -357,7 +357,7 @@ Completed: 1 (0.00%) (Ranked 515)
 | 2024-07-30 | 81,654 | 1 |
 ## Awards
 Max (Great for Beginners): 126  (Ranked 410)  
-Sum: 1,081 (Ranked 303)  
+Sum: 1,082 (Ranked 303)  
 Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
@@ -372,7 +372,7 @@ Diff (max vs sum): 107
 | This game has a Competitive Community | 90 |
 | This game is Relaxing | 86 |
 | This game has Competitive Players | 85 |
-| This game has Amazing Storytelling | 70 |
+| This game has Amazing Storytelling | 71 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
@@ -629,3 +629,4 @@ Diff (max vs sum): 107
 | 2024-07-26 | 4.53 | - | 119 | 954 |
 | 2024-07-27 | 4.53 | - | 126 | 1,080 |
 | 2024-07-28 | 4.53 | - | 126 | 1,081 |
+| 2024-07-30 | 4.53 | - | 126 | 1,082 |

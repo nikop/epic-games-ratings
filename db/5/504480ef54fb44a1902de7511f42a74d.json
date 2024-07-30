@@ -2,8 +2,8 @@
   "ID": "504480ef54fb44a1902de7511f42a74d",
   "Name": "Terra Memoria",
   "ProductSlug": "terra-memoria-8b0a0e",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 969,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,16 +23,274 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T16:02:13.1642401+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T16:02:13.164246+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "alto_attack",
+      "SetID": "j0683h",
+      "Name": "A killer riff",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "baths",
+      "SetID": "j0683h",
+      "Name": "Smells like clean spirits",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "breach",
+      "SetID": "j0683h",
+      "Name": "Breaking the ice",
+      "Percentage": 75,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "caumanse_10",
+      "SetID": "j0683h",
+      "Name": "Feels like home",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "caumanse_npc",
+      "SetID": "j0683h",
+      "Name": "One of us!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "caumanse_quest",
+      "SetID": "j0683h",
+      "Name": "Getting cozy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "caumanse_unlock",
+      "SetID": "j0683h",
+      "Name": "Where it all Beegihns",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cooking_big",
+      "SetID": "j0683h",
+      "Name": "A hearty meal",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cooking_dishes",
+      "SetID": "j0683h",
+      "Name": "Fine, but who\u0027s doing the dishes?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cooking_lots",
+      "SetID": "j0683h",
+      "Name": "Recipe for success",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cooking_once",
+      "SetID": "j0683h",
+      "Name": "Ration bastion",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "edson_attack",
+      "SetID": "j0683h",
+      "Name": "To tinker is to splatter",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "guidebook",
+      "SetID": "j0683h",
+      "Name": "A real page-turner",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "opale_attack",
+      "SetID": "j0683h",
+      "Name": "A touch of the black eye",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "perfect",
+      "SetID": "j0683h",
+      "Name": "Ouch!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "pin_full",
+      "SetID": "j0683h",
+      "Name": "Put a pin in that",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "puzzle",
+      "SetID": "j0683h",
+      "Name": "Terra Cogita",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "puzzle_full",
+      "SetID": "j0683h",
+      "Name": "Merry solving",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sell_1000",
+      "SetID": "j0683h",
+      "Name": "Worth it",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "sell_pin",
+      "SetID": "j0683h",
+      "Name": "That\u0027s just good business",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "speos",
+      "SetID": "j0683h",
+      "Name": "It\u0027s bigger on the inside!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_01",
+      "SetID": "j0683h",
+      "Name": "Gotta start somewhere...",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "story_02",
+      "SetID": "j0683h",
+      "Name": "Is everyone here?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_03",
+      "SetID": "j0683h",
+      "Name": "They took our crystals!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_04",
+      "SetID": "j0683h",
+      "Name": "Swiss cheese memory",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_05",
+      "SetID": "j0683h",
+      "Name": "The selfless ones",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_06",
+      "SetID": "j0683h",
+      "Name": "Behind the scenes",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "story_07",
+      "SetID": "j0683h",
+      "Name": "The mage age",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "tabechan",
+      "SetID": "j0683h",
+      "Name": "Forest Walk",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "timeline",
+      "SetID": "j0683h",
+      "Name": "Time is but a bouncy castle",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "j0683h",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:13.1642459+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:13.1642397+00:00",
   "LastUpdate_AppInfo": "2024-07-24T13:07:20.5266815+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:55.9378628+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:54.2961435+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:13.1649835+00:00"
 }

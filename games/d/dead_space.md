@@ -53,8 +53,8 @@ Rating: 4.72 (Ranked 210)
 | Reunion | 2.00% | ~516 |
 | Untouchable | 1.00% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,807 (Ranked 180)  
-Completed: 126 (0.49%) (Ranked 296)  
+Progressed: 25,807 (Ranked 183)  
+Completed: 126 (0.49%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,8 +194,8 @@ Completed: 126 (0.49%) (Ranked 296)
 | 2024-06-17 | 25,807 | 126 |
 ## Awards
 Max (Great Boss Battles): 500  (Ranked 256)  
-Sum: 672 (Ranked 369)  
-Diff (max vs sum): -113  
+Sum: 672 (Ranked 370)  
+Diff (max vs sum): -114  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 500 |

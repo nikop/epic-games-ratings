@@ -5,8 +5,8 @@
   "Ranking_Rating": 591,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 520,
-  "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_Progress": 205,
+  "Ranking_EOS_Completed": 469,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -530,8 +530,8 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 17043,
-  "EOS_Completed": 5,
+  "EOS_Progressed": 17979,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
@@ -540,6 +540,11 @@
       "Time": "2024-06-17T16:07:55.3815438+00:00",
       "NumProgressed": 17043,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-07-30T16:02:25.2146229+00:00",
+      "NumProgressed": 17979,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:55.3815867+00:00",
@@ -550,9 +555,9 @@
       "ID": "ACH_BELLS",
       "SetID": "bgipnlg",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACH_CHALLENGE_ACCEPTED",
@@ -560,31 +565,31 @@
       "Name": "Challenge accepted",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_DEFEAT_THE_BARON",
       "SetID": "bgipnlg",
       "Name": "Defeat Hildebolt",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 341
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_FULL_RETINUE",
       "SetID": "bgipnlg",
       "Name": "Full Retinue",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_LARGE_TOWN",
       "SetID": "bgipnlg",
       "Name": "Cheerful Metropolis",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 170
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_MERCENARY_CAPTAIN",
@@ -592,31 +597,31 @@
       "Name": "Mercenary Captain",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_RESTORE_THE_PEACE",
       "SetID": "bgipnlg",
       "Name": "Restore the Peace",
-      "Percentage": 0.2,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_START",
       "SetID": "bgipnlg",
       "Name": "Start the game",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1875
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACH_SURVIVE_YEAR",
       "SetID": "bgipnlg",
       "Name": "Survive the first year",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1534
+      "UsersEstimate": 2337
     },
     {
       "ID": "ACH_THE_MERCHANT",
@@ -624,31 +629,31 @@
       "Name": "The merchant",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_VIGILANTES",
       "SetID": "bgipnlg",
       "Name": "The vigilantes",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 511
+      "UsersEstimate": 1079
     }
   ],
   "AchievementSets": [
     {
       "ID": "bgipnlg",
       "IsBase": true,
-      "Progressed": 17043,
-      "Completed": 5
+      "Progressed": 17979,
+      "Completed": 6
     }
   ],
   "FirstSeen": "2024-04-26T16:58:14.5386901+00:00",
   "FirstSeenRating": "2024-04-28T11:57:16.1750664+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:55.3815866+00:00",
   "LastChanged": "2024-07-29T21:58:29.1746206+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:07:55.3815433+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:25.2146224+00:00",
   "LastUpdate_AppInfo": "2024-07-26T23:57:14.3360762+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:32.1339216+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:07:55.3823404+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:30.3343917+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:25.2146338+00:00"
 }

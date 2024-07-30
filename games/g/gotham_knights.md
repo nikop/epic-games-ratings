@@ -67,8 +67,8 @@ Rating: 4.19 (Ranked 1,090)
 | Element of Surprise | 0.30% | ~179 |
 | It's Nice to Be Wanted | 0.30% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,248 (Ranked 130)  
-Completed: 156 (0.17%) (Ranked 369)  
+Progressed: 89,248 (Ranked 132)  
+Completed: 156 (0.17%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -355,12 +355,12 @@ Completed: 156 (0.17%) (Ranked 369)
 | 2024-06-17 | 89,248 | 156 |
 ## Awards
 Max (Great Boss Battles): 3,672  (Ranked 107)  
-Sum: 6,497 (Ranked 154)  
+Sum: 6,498 (Ranked 154)  
 Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,672 |
-| This game is Great for Beginners | 372 |
+| This game is Great for Beginners | 373 |
 | This game has Diverse Characters | 363 |
 | This game has Amazing Characters | 359 |
 | This game has Amazing Storytelling | 353 |
@@ -887,4 +887,4 @@ Diff (max vs sum): -47
 | 2024-07-27 | 4.19 | 3,665 | 6,481 |
 | 2024-07-28 | 4.19 | 3,665 | 6,484 |
 | 2024-07-29 | 4.19 | 3,668 | 6,492 |
-| 2024-07-30 | 4.19 | 3,672 | 6,497 |
+| 2024-07-30 | 4.19 | 3,672 | 6,498 |

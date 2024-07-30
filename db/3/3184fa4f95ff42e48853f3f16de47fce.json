@@ -2,8 +2,8 @@
   "ID": "3184fa4f95ff42e48853f3f16de47fce",
   "Name": "Reliefs The Time of the Lemures",
   "ProductSlug": "reliefs-the-time-of-the-lemures-872f85",
-  "Ranking_EOS_Progress": 688,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-06-17T16:08:13.6943665+00:00",
       "NumProgressed": 68,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T16:02:31.0301632+00:00",
+      "NumProgressed": 127,
       "NumCompleted": 0
     }
   ],
@@ -45,31 +50,31 @@
       "ID": "ACHIEVEMENT_CAVESOMNUS",
       "SetID": "2pe0f2c",
       "Name": "The caves",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_END",
       "SetID": "2pe0f2c",
       "Name": "The End",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_ENDTUTORIAL",
       "SetID": "2pe0f2c",
       "Name": "End of the tutorial!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_ENTERPLUTO",
       "SetID": "2pe0f2c",
       "Name": "Pluto welcomes you",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -77,23 +82,23 @@
       "ID": "ACHIEVEMENT_FIRSTBLACKBEAN",
       "SetID": "2pe0f2c",
       "Name": "The Lemures celebration",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_GATEPLUTO",
       "SetID": "2pe0f2c",
       "Name": "The Gates of Pluto",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_LASTBLACKBEAN",
       "SetID": "2pe0f2c",
       "Name": "The end of the Lemures festival",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 130,
       "UsersEstimate": 1
     },
@@ -101,15 +106,15 @@
       "ID": "ACHIEVEMENT_NEWFRIEND",
       "SetID": "2pe0f2c",
       "Name": "A new friend!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_PORTALPLUTO",
       "SetID": "2pe0f2c",
       "Name": "Pluto Portal",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -117,7 +122,7 @@
       "ID": "ACHIEVEMENT_PUZZLEBRIDGE",
       "SetID": "2pe0f2c",
       "Name": "The suspended road",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -125,7 +130,7 @@
       "ID": "ACHIEVEMENT_PUZZLECHANDELIER",
       "SetID": "2pe0f2c",
       "Name": "The chandelier",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -133,23 +138,23 @@
       "ID": "ACHIEVEMENT_PUZZLEFOUNTAIN",
       "SetID": "2pe0f2c",
       "Name": "Fountains",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_PUZZLEMIRROR",
       "SetID": "2pe0f2c",
       "Name": "Mirrors",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_PUZZLESEASON",
       "SetID": "2pe0f2c",
       "Name": "Seasons",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -157,9 +162,9 @@
       "ID": "ACHIEVEMENT_PUZZLETINTINNABULUM",
       "SetID": "2pe0f2c",
       "Name": "Tintinnabulum",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_STATUEMINERVE",
@@ -181,7 +186,7 @@
       "ID": "ACHIEVEMENT_STATUEPLUTO",
       "SetID": "2pe0f2c",
       "Name": "Pluto",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -189,9 +194,9 @@
       "ID": "ACHIEVEMENT_STATUEPROSERPINE",
       "SetID": "2pe0f2c",
       "Name": "Proserpina",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_STATUESALACIA",
@@ -229,15 +234,15 @@
       "ID": "ACHIEVEMENT_TEMPLEPLUTO",
       "SetID": "2pe0f2c",
       "Name": "The Temple of Pluto",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_THEATRE",
       "SetID": "2pe0f2c",
       "Name": "The Theater",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     }
@@ -246,14 +251,14 @@
     {
       "ID": "2pe0f2c",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-05T02:57:57.0216346+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:13.6943688+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:13.6943662+00:00",
-  "LastUpdate_AppInfo": "2024-07-23T14:57:07.8412646+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:21.0016208+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:13.6949521+00:00"
+  "LastChanged_Achievements": "2024-07-30T16:02:31.0301629+00:00",
+  "LastUpdate_AppInfo": "2024-07-30T15:57:03.987023+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:57:51.9331888+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:31.0301746+00:00"
 }

@@ -31,8 +31,8 @@
 | Diverse desktop | 0.90% | ~1 |
 | Love Master | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 630)  
-Completed: 1 (0.94%) (Ranked 245)  
+Progressed: 106 (Ranked 642)  
+Completed: 1 (0.94%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

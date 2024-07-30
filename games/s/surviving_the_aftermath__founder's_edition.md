@@ -67,7 +67,7 @@ Number of Ratings: 836  (23.09.2022)
 | Customized calamities | 0.10% | ~568 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 567,650 (Ranked 45)  
-Completed: 107 (0.02%) (Ranked 475)  
+Completed: 107 (0.02%) (Ranked 489)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

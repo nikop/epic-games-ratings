@@ -2,8 +2,8 @@
   "ID": "470d1421b2434108ac679e578d7bde42",
   "Name": "Wonderputt Forever",
   "ProductSlug": "wonderputt-forever-317310",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:01.7041107+00:00",
   "LastChanged": "2023-03-31T05:58:01.7041108+00:00",
   "LastUpdate_AppInfo": "2024-07-28T17:57:19.9745173+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:17.7343631+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:00:15.405847+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:50.6817635+00:00"
 }

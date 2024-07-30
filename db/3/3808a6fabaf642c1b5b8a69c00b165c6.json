@@ -2,8 +2,8 @@
   "ID": "3808a6fabaf642c1b5b8a69c00b165c6",
   "Name": "SPACE SMASH",
   "ProductSlug": "space-smash-5765d3",
-  "Ranking_EOS_Progress": 656,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -270,6 +270,6 @@
   "FirstSeenAchievements": "2024-07-25T19:01:48.722527+00:00",
   "LastChanged_Achievements": "2024-07-25T19:01:48.7225155+00:00",
   "LastUpdate_AppInfo": "2024-07-29T10:57:15.4078182+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:00:07.0632367+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:37.7599725+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:48.7236007+00:00"
 }

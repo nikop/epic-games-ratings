@@ -2,8 +2,8 @@
   "ID": "b38a9cee1f0e4b72ab9b8f2aff8b1e07",
   "Name": "The Bustling World",
   "ProductSlug": "the-bustling-world-b26bf4",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T13:02:50.1007395+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:47.1326062+00:00",
+  "LastUpdate_Ratings": "2024-07-30T16:01:45.4198736+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:02:09.2803994+00:00"
 }

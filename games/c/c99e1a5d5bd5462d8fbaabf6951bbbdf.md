@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 71.00% | ~5 |
-| Mother's Soul | 29.00% | ~2 |
-| The Chained Witch | 29.00% | ~2 |
-| Venom Horseman | 14.00% | ~1 |
-| Family Reunion | 14.00% | ~1 |
-| Waxing Crescent | 14.00% | ~1 |
-| First Quarter | 14.00% | ~1 |
-| Blood Moon | 14.00% | ~1 |
-| Unyielding II | 14.00% | ~1 |
-| Learning \| Techinical | 14.00% | ~1 |
-| Processing \| Enhance | 14.00% | ~1 |
-| Finalize \| Recovery | 14.00% | ~1 |
-| Finalize \| Traps | 14.00% | ~1 |
-| Finalize \| Overload | 14.00% | ~1 |
+| Getting started | 67.00% | ~10 |
+| Mother's Soul | 33.00% | ~5 |
+| The Chained Witch | 13.00% | ~2 |
+| Waxing Crescent | 13.00% | ~2 |
+| Venom Horseman | 7.00% | ~1 |
+| Family Reunion | 7.00% | ~1 |
+| New Moon | 7.00% | ~1 |
+| First Quarter | 7.00% | ~1 |
+| Blood Moon | 7.00% | ~1 |
+| Roguelike | 7.00% | ~1 |
+| Unyielding II | 7.00% | ~1 |
+| Unyielding III | 7.00% | ~1 |
+| Learning \| Offensive | 7.00% | ~1 |
+| Learning \| Defensive | 7.00% | ~1 |
+| Learning \| Techinical | 7.00% | ~1 |
+| Processing \| Infliction | 7.00% | ~1 |
+| Processing \| Enhance | 7.00% | ~1 |
+| Finalize \| Recovery | 7.00% | ~1 |
+| Finalize \| Traps | 7.00% | ~1 |
+| Finalize \| Overload | 7.00% | ~1 |
 | Under The Swamp | 0.00% | ~0 |
 | Trouble Trio | 0.00% | ~0 |
 | 10,000,000 Volt Thunderbolt | 0.00% | ~0 |
 | Pride and Prejudgment | 0.00% | ~0 |
 | Get Serious | 0.00% | ~0 |
-| New Moon | 0.00% | ~0 |
 | Waxing Gibbous | 0.00% | ~0 |
 | Full Moon | 0.00% | ~0 |
-| Roguelike | 0.00% | ~0 |
 | Unyielding I | 0.00% | ~0 |
-| Unyielding III | 0.00% | ~0 |
-| Learning \| Offensive | 0.00% | ~0 |
-| Learning \| Defensive | 0.00% | ~0 |
 | Processing \| Plasma | 0.00% | ~0 |
-| Processing \| Infliction | 0.00% | ~0 |
 | Processing \| Recovery | 0.00% | ~0 |
 | Processing \| Traps | 0.00% | ~0 |
 | Processing \| Overload | 0.00% | ~0 |
@@ -41,9 +41,10 @@
 | Finalize \| Enhance | 0.00% | ~0 |
 | Hidden Sacred Sword | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 909)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 15 (Ranked 865)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 7 | 0 |
+| 2024-07-30 | 15 | 0 |

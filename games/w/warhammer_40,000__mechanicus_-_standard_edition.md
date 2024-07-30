@@ -41,7 +41,7 @@ Rating: 4.44 (Ranked 777)
 | Purge the Heretek | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 242,215 (Ranked 88)  
-Completed: 6 (0.00%) (Ranked 515)  
+Completed: 6 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

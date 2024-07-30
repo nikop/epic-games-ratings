@@ -1,7 +1,7 @@
 # Pacific Drive
 [Store](https://store.epicgames.com/en-US/p/pacific-drive)  
 [View Rawdata](../../db/p/pacific_drive.json)  
-Rating: 4.64 (Ranked 368)  
+Rating: 4.64 (Ranked 367)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -55,8 +55,8 @@ Rating: 4.64 (Ranked 368)
 | With the Top Down | 0.20% | ~4 |
 | Running on Empty | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,177 (Ranked 328)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 2,177 (Ranked 332)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

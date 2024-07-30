@@ -85,7 +85,7 @@ Rating: 4.81 (Ranked 86)
 | Rustic Charm | 0.30% | ~1,357 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 452,407 (Ranked 59)  
-Completed: 10,961 (2.42%) (Ranked 167)  
+Completed: 10,961 (2.42%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,14 +199,14 @@ Completed: 10,961 (2.42%) (Ranked 167)
 | 2024-07-09 | 452,407 | 10,961 |
 ## Awards
 Max (Diverse Characters): 1,271  (Ranked 165)  
-Sum: 7,577 (Ranked 141)  
+Sum: 7,578 (Ranked 141)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,271 |
 | This game is Highly Recommended | 1,157 |
 | This game has Quickly Understood Controls | 1,140 |
-| This game has Amazing Storytelling | 1,132 |
+| This game has Amazing Storytelling | 1,133 |
 | This game has Amazing Characters | 1,094 |
 | This game is Extremely Fun | 1,076 |
 | This game has a Creative Community | 707 |
@@ -493,4 +493,4 @@ Diff (max vs sum): 24
 | 2024-07-27 | 4.81 | 1,267 | 7,538 |
 | 2024-07-28 | 4.81 | 1,267 | 7,552 |
 | 2024-07-29 | 4.81 | 1,271 | 7,565 |
-| 2024-07-30 | 4.81 | 1,271 | 7,577 |
+| 2024-07-30 | 4.81 | 1,271 | 7,578 |

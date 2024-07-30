@@ -1,7 +1,7 @@
 # Freshly Frosted
 [Store](https://store.epicgames.com/en-US/p/freshly-frosted-c636d0)  
 [View Rawdata](../../db/f/freshly_frosted.json)  
-Rating: 4.56 (Ranked 547)  
+Rating: 4.57 (Ranked 524)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -84,8 +84,8 @@ Rating: 4.56 (Ranked 547)
 | A Trusted Friend in Donuts | 0.00% | ~0 |
 | What? No Frosting? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 919)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 6 (Ranked 944)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,3 +116,4 @@ Completed: 0 (0.00%) (Ranked 515)
 | 2024-07-25 | 4.57 | 0 | 0 |
 | 2024-07-27 | 4.57 | 0 | 0 |
 | 2024-07-28 | 4.56 | 0 | 0 |
+| 2024-07-30 | 4.57 | 0 | 0 |

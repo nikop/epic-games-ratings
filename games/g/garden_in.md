@@ -36,8 +36,8 @@
 | The Best One | 2.00% | ~5 |
 | Perfectionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 531)  
-Completed: 2 (0.83%) (Ranked 256)  
+Progressed: 240 (Ranked 538)  
+Completed: 2 (0.83%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

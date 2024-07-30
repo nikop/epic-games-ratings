@@ -2,8 +2,8 @@
   "ID": "88d0c87c067544bfb12d8b3bc7d28ad7",
   "Name": "Tormented Soul",
   "ProductSlug": "tormented-soul-4793a8",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1002,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -23,17 +23,122 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T16:02:31.6306799+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T16:02:31.6306833+00:00",
+  "TotalAchievements": 11,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Balancer",
+      "SetID": "b909aai",
+      "Name": "Balancer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Dimension_Slayer",
+      "SetID": "b909aai",
+      "Name": "Dimension Slayer",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Legendary_Tormented_Soul",
+      "SetID": "b909aai",
+      "Name": "Legendary Tormented Soul - Achiever of the impossible.",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Path_of_a_Torment",
+      "SetID": "b909aai",
+      "Name": "Path of a Torment",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Resourcefully_Tormented",
+      "SetID": "b909aai",
+      "Name": "Resourcefully Tormented",
+      "Percentage": 100,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Soul_Shifter",
+      "SetID": "b909aai",
+      "Name": "Soul Shifter",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Taste_of_Torment",
+      "SetID": "b909aai",
+      "Name": "Taste of Torment",
+      "Percentage": 100,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "The_Ascended_Slayer",
+      "SetID": "b909aai",
+      "Name": "The Ascended Slayer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The_Chosen_DiTrine_Warrior",
+      "SetID": "b909aai",
+      "Name": "The Chosen DiTrine Warrior",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The_Dimension_Reaper",
+      "SetID": "b909aai",
+      "Name": "The Dimension Reaper",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Victory_For_Soul",
+      "SetID": "b909aai",
+      "Name": "Victory for Soul",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "b909aai",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:31.6306832+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:31.6306793+00:00",
   "LastUpdate_AppInfo": "2024-07-25T06:57:08.6528079+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:36.9791074+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:14.7435205+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:35.1404213+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:31.631417+00:00"
 }

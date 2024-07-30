@@ -2,8 +2,8 @@
   "ID": "250201ee43c848db8a634a87a827d370",
   "Name": "Spiderbro 2",
   "ProductSlug": "spiderbro-2-8d3665",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-09T19:57:22.723419+00:00",
   "LastUpdate_AppInfo": "2024-07-28T06:57:11.9466634+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:59:45.778118+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:58:16.6877039+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:51.5690793+00:00"
 }

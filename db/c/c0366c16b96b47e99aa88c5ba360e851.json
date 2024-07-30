@@ -2,8 +2,8 @@
   "ID": "c0366c16b96b47e99aa88c5ba360e851",
   "Name": "Lifeless Moon",
   "ProductSlug": "lifeless-moon-9bdb88",
-  "Ranking_EOS_Progress": 888,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 910,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -189,6 +189,6 @@
   "FirstSeenAchievements": "2024-07-30T00:02:19.5883675+00:00",
   "LastChanged_Achievements": "2024-07-30T00:02:19.5871094+00:00",
   "LastUpdate_AppInfo": "2024-07-24T19:57:05.9620309+00:00",
-  "LastUpdate_Ratings": "2024-07-30T13:58:55.9687036+00:00",
+  "LastUpdate_Ratings": "2024-07-30T15:57:26.9414249+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:02:19.6200415+00:00"
 }

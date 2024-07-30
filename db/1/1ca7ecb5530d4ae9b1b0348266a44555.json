@@ -2,8 +2,8 @@
   "ID": "1ca7ecb5530d4ae9b1b0348266a44555",
   "Name": "Wrekless",
   "ProductSlug": "wrekless-f5bbf7",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T17:57:03.0520684+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:59:21.0074335+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:21.4541712+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:01:18.8764021+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:34.3554939+00:00"
 }

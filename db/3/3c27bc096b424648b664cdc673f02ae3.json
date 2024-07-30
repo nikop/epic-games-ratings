@@ -2,8 +2,8 @@
   "ID": "3c27bc096b424648b664cdc673f02ae3",
   "Name": "Rogue Glitch Ultra",
   "ProductSlug": "rogue-glitch-ultra-075b76",
-  "Ranking_EOS_Progress": 1107,
-  "Ranking_EOS_Completed": 515,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -31,7 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "2oj3oco",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-07-30T16:02:09.6703565+00:00",
+  "LastChanged_Achievements": "2024-07-30T16:02:09.6703529+00:00",
   "LastUpdate_AppInfo": "2024-07-25T10:57:04.6798392+00:00",
-  "LastUpdate_Ratings": "2024-07-30T14:58:10.7115616+00:00"
+  "LastUpdate_Ratings": "2024-07-30T16:00:08.4099947+00:00",
+  "LastUpdate_Achievements": "2024-07-30T16:02:09.670358+00:00"
 }

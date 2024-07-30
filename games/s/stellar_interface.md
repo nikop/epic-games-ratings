@@ -137,8 +137,8 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 666)  
-Completed: 0 (0.00%) (Ranked 515)  
+Progressed: 84 (Ranked 678)  
+Completed: 0 (0.00%) (Ranked 528)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
