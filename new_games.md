@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Survivors Will](games/0/0a3bdf37e8b84849bb86db9be2eda7cd.md) | 2024-07-30 | 36 (1,000 XP) | 7 | - | - |
-| [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-07-30 | - |  | - | - |
+| [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-07-30 | - |  | - | 0 |
 | [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2024-07-30 | - |  | - | - |
 | [Cats on Duty](games/2/2819d0278f1b4fe7bcf06b783950f64d.md) | 2024-07-29 | - |  | - | 0 |
 | [Micro Tanks](games/d/de3ed17d886342a998ea8b187c656f15.md) | 2024-07-26 | - |  | - | - |
