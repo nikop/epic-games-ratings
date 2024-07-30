@@ -1,12 +1,12 @@
 # Yooka-Laylee and the Impossible Lair
 [Store](https://store.epicgames.com/en-US/p/yooka-laylee-and-the-impossible-lair)  
 [View Rawdata](../../db/y/yooka-laylee_and_the_impossible_lair.json)  
-Rating: 4.35 (Ranked 926)  
+Rating: 4.35 (Ranked 925)  
 Number of Ratings: 346  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 34  (Ranked 593)  
-Sum: 250 (Ranked 473)  
-Diff (max vs sum): 120  
+Sum: 251 (Ranked 472)  
+Diff (max vs sum): 121  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 120
 | This game has Playful Visuals | 29 |
 | This game is Highly Recommended | 28 |
 | This game has Amazing Storytelling | 25 |
-| This game is Great for Quick Sessions | 24 |
+| This game is Great for Quick Sessions | 25 |
 | This game has Amazing Characters | 24 |
 | This game has Quickly Understood Controls | 22 |
 | This game has Obsessive Gameplay | 21 |
@@ -157,3 +157,4 @@ Diff (max vs sum): 120
 | 2024-07-09 | 4.35 | - | 34 | 250 |
 | 2024-07-14 | 4.36 | - | 34 | 250 |
 | 2024-07-25 | 4.35 | - | 34 | 250 |
+| 2024-07-30 | 4.35 | - | 34 | 251 |

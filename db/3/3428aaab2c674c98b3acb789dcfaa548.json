@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 282,
+  "Ranking_Rating": 283,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 21,
@@ -18891,10 +18891,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 45708,
       "NumberOfAwardsMax": 14752
+    },
+    {
+      "Time": "2024-07-30T11:57:31.0823787+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 45714,
+      "NumberOfAwardsMax": 14752
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45708,
+  "NumberOfAwards": 45714,
   "NumberOfAwardsMax": 14752,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18920,7 +18926,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2178
+      "Count": 2184
     },
     {
       "Text": "This game has Unique Visuals",
@@ -48739,9 +48745,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-07-30T01:56:56.8998094+00:00",
+  "LastChanged": "2024-07-30T11:57:31.0823785+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:49.2037505+00:00",
   "LastUpdate_AppInfo": "2024-07-27T05:57:03.1775553+00:00",
-  "LastUpdate_Ratings": "2024-07-30T09:58:41.4321628+00:00",
+  "LastUpdate_Ratings": "2024-07-30T11:57:31.082379+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:49.2039742+00:00"
 }

@@ -365,8 +365,8 @@ Completed: 214 (0.12%) (Ranked 390)
 | 2024-07-25 | 173,757 | 214 |
 ## Awards
 Max (Amazing Characters): 25  (Ranked 639)  
-Sum: 114 (Ranked 538)  
-Diff (max vs sum): 101  
+Sum: 114 (Ranked 539)  
+Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 153 |
