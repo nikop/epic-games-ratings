@@ -693,7 +693,7 @@
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 73 (1,000 XP) | 103 | - | 0 |
 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 762 | - | 0 |
 | [Astronite](games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 2023-05-26 | 25 (1,000 XP) | 0 | - | 0 |
-| [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-26 | 38 (1,000 XP) | 3,137 | 3.52 | 0 |
+| [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-26 | 38 (1,000 XP) | 3,137 | 3.55 | 0 |
 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 2023-05-25 | 12 (1,000 XP) | 174 | - | 0 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 61 (1,145 XP) | 3,127 | 4.35 | 29 |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 1,120 | - | 0 |
@@ -849,7 +849,7 @@
 | [Anna's Quest](games/a/anna's_quest.md) | 2023-02-01 | 39 (1,000 XP) | 144 | - | 0 |
 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 2023-01-31 | 44 (1,000 XP) | 37 | 4.76 | 0 |
 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 2023-01-31 | 16 (1,000 XP) | 2,416 | - | 0 |
-| [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 25,807 | 4.72 | 497 |
+| [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 25,807 | 4.72 | 500 |
 | [Risen](games/r/risen.md) | 2023-01-27 | 50 (1,000 XP) | 393 | 4.57 | 0 |
 | [Hell is Others](games/h/hell_is_others.md) | 2023-01-26 | 56 (1,000 XP) | 264,813 | 4.39 | 78 |
 | [Learning Factory](games/l/learning_factory.md) | 2023-01-26 | 57 (1,000 XP) | 0 | - | 0 |
@@ -904,7 +904,7 @@
 | [Monster Harvest](games/m/monster_harvest.md) | 2022-11-03 | 10 (1,000 XP) | 392 | - | 0 |
 | [Charon's Staircase](games/c/charon's_staircase.md) | 2022-10-28 | 20 (1,000 XP) | 96 | - | 0 |
 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 2022-10-28 | 21 (1,000 XP) | 546 | - | 0 |
-| [Maid of Sker](games/m/maid_of_sker.md) | 2022-10-27 | 30 (1,000 XP) | 157,589 | 4.20 | 0 |
+| [Maid of Sker](games/m/maid_of_sker.md) | 2022-10-27 | 30 (1,000 XP) | 157,589 | 4.21 | 0 |
 | [Saturnalia](games/s/saturnalia.md) | 2022-10-27 | 20 (1,000 XP) | 74,641 | 4.26 | 0 |
 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 2022-10-27 | 23 (1,000 XP) | 10 | - | 0 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 2022-10-22 | 16 (1,000 XP) | 208,507 | 4.15 | 0 |
@@ -1102,7 +1102,7 @@
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 11,016 | 4.50 | 58 |
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 248 | - | 0 |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 85,517 | 4.64 | 26 |
-| [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 24,584 | 4.69 | 370 |
+| [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 24,584 | 4.69 | 371 |
 | [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 181,547 | 4.60 | 96 |
 | [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 156,564 | 4.39 | 345 |
 | [Verdun](games/v/verdun.md) | 2021-07-22 | 59 (1,000 XP) | 81,654 | 4.53 | 126 |
@@ -1115,7 +1115,7 @@
 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 546 | - | 0 |
 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 2021-06-16 | 14 (1,000 XP) | 719 | - | 0 |
 | [Going Medieval](games/g/going_medieval.md) | 2021-06-01 | 31 (1,000 XP) | 9,761 | 4.61 | 172 |
-| [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 2,052 | 4.36 | 134 |
+| [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 2,052 | 4.35 | 134 |
 | [Grindstone](games/g/grindstone.md) | 2021-05-20 | 49 (1,000 XP) | 5,300 | 4.84 | 0 |
 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 2021-05-13 | 31 (1,000 XP) | 36,322 | 4.35 | 212 |
 | [DEMON'S TILT](games/d/demon's_tilt.md) | 2021-05-10 | 29 (1,000 XP) | 10,164 | 4.55 | 29 |

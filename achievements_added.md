@@ -51,7 +51,7 @@
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | 38 (1,000 XP) | 32 | - | 0 |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2024-05-03 | 7 (1,000 XP) | 117 | - | 0 |
 | [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-06-21 | 17 (1,000 XP) | 1 | - | 0 |
-| [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 2,052 | 4.36 | 134 |
+| [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 2,052 | 4.35 | 134 |
 | [Womanizer](games/f/f5b1e856606c4990af9f705d1cd92623.md) | 2024-04-30 | 46 (1,000 XP) | 1 | - | 0 |
 | [Tales of Kenzera™: ZAU](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | 19 (1,000 XP) | 324 | - | 0 |
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | 10 (1,000 XP) | 13 | - | - |
@@ -531,7 +531,7 @@
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 5,125 | 4.29 | 63 |
 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 239,265 | 4.26 | 24,571 |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
-| [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 25,807 | 4.72 | 497 |
+| [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 25,807 | 4.72 | 500 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 25 | - | 0 |
 | [Knight vs Giant: The Broken Excalibur](games/9/973549a03a1441058badf7a1bc8b565d.md) | 2023-10-05 | 25 (1,000 XP) | 36 | - | 0 |
 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2023-09-14 | 10 (1,000 XP) | 65 | - | 0 |
