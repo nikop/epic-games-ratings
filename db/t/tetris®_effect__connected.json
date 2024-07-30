@@ -3,7 +3,7 @@
   "Name": "Tetris\u00AE Effect: Connected",
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 28,
-  "Ranking_Popularity": 366,
+  "Ranking_Popularity": 365,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
@@ -1524,18 +1524,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 658,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2024-07-30T08:00:55.5465797+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 660,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 658,
-  "NumberOfAwardsMax": 180,
+  "NumberOfAwards": 660,
+  "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 180
+      "Count": 182
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1621,8 +1627,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-07-30T03:00:12.2412124+00:00",
+  "LastChanged": "2024-07-30T08:00:55.5465796+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:56:58.7780164+00:00",
-  "LastUpdate_Ratings": "2024-07-30T06:57:58.4760656+00:00",
+  "LastUpdate_Ratings": "2024-07-30T08:00:55.5465801+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:48.7924478+00:00"
 }

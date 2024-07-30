@@ -2,7 +2,7 @@
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
   "ProductSlug": "returnal",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 545,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 1107,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-02-22T19:57:26.9994274+00:00",
@@ -1437,6 +1437,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 386,
       "NumberOfAwardsMax": 238
+    },
+    {
+      "Time": "2024-07-30T07:59:45.0213737+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 386,
+      "NumberOfAwardsMax": 238
     }
   ],
   "ReviewsDisabled": false,
@@ -1499,8 +1505,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2024-07-29T06:58:06.0923492+00:00",
+  "LastChanged": "2024-07-30T07:59:45.0213735+00:00",
   "LastUpdate_AppInfo": "2024-07-29T07:57:21.233278+00:00",
-  "LastUpdate_Ratings": "2024-07-30T06:00:18.9211001+00:00",
+  "LastUpdate_Ratings": "2024-07-30T07:59:45.021374+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:29.0288485+00:00"
 }
