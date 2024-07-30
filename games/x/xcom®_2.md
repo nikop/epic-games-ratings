@@ -5,8 +5,8 @@ Rating: 4.55 (Ranked 567)
 Number of Ratings: 7,396  (23.09.2022)  
 ## Awards
 Max (Challenging Combat): 1,699  (Ranked 149)  
-Sum: 13,820 (Ranked 96)  
-Diff (max vs sum): 53  
+Sum: 13,820 (Ranked 97)  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 1,699 |

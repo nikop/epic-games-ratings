@@ -4,7 +4,7 @@
   "ProductSlug": "a-total-war-saga-troy",
   "Ranking_Rating": 666,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 28,
@@ -10543,10 +10543,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 13467,
       "NumberOfAwardsMax": 2141
+    },
+    {
+      "Time": "2024-07-30T13:08:18.9802948+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 13468,
+      "NumberOfAwardsMax": 2141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13467,
+  "NumberOfAwards": 13468,
   "NumberOfAwardsMax": 2141,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10560,7 +10566,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1679
+      "Count": 1680
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10616,8 +10622,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.5035149+00:00",
-  "LastChanged": "2024-07-30T02:57:37.6886133+00:00",
+  "LastChanged": "2024-07-30T13:08:18.9802945+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:59.0830227+00:00",
-  "LastUpdate_Ratings": "2024-07-30T10:58:31.9593294+00:00",
+  "LastUpdate_Ratings": "2024-07-30T13:08:18.9802953+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:11.9283554+00:00"
 }

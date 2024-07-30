@@ -3,9 +3,9 @@
 [View Rawdata](../../db/h/honkai_impact_3rd.json)  
 Rating: 4.47 (Ranked 725)  
 ## Awards
-Max (Character Customization): 4,381  (Ranked 98)  
+Max (Character Customization): 4,381  (Ranked 99)  
 Sum: 17,032 (Ranked 81)  
-Diff (max vs sum): 17  
+Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 4,381 |

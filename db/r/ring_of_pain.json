@@ -4,7 +4,7 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 502,
   "Ranking_Popularity": 151,
-  "Ranking_PopularitySum": 98,
+  "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 386,
   "Ranking_EOS_NewPlayers": 28,
@@ -5018,11 +5018,17 @@
       "Rating": 4.58,
       "NumberOfAwards": 13718,
       "NumberOfAwardsMax": 1654
+    },
+    {
+      "Time": "2024-07-30T13:09:36.8966422+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13723,
+      "NumberOfAwardsMax": 1656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13718,
-  "NumberOfAwardsMax": 1654,
+  "NumberOfAwards": 13723,
+  "NumberOfAwardsMax": 1656,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5035,7 +5041,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1269
+      "Count": 1270
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5047,7 +5053,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1282
+      "Count": 1284
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5059,7 +5065,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1654
+      "Count": 1656
     },
     {
       "Text": "This game is Highly Recommended",
@@ -35434,9 +35440,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-07-30T02:58:54.8495054+00:00",
+  "LastChanged": "2024-07-30T13:09:36.896642+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:38.7236182+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:59:08.6581953+00:00",
-  "LastUpdate_Ratings": "2024-07-30T10:59:40.4057787+00:00",
+  "LastUpdate_Ratings": "2024-07-30T13:09:36.8966426+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:38.7239444+00:00"
 }
