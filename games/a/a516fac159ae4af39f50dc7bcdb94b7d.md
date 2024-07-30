@@ -29,7 +29,7 @@
 | NobleMan | 7.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 137 (Ranked 601)  
-Completed: 8 (5.84%) (Ranked 98)  
+Completed: 8 (5.84%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

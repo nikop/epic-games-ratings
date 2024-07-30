@@ -35,7 +35,7 @@
 | Love finds a way | 0.00% | ~0 |
 | The Journey Begins | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 973)  
+Progressed: 2 (Ranked 974)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

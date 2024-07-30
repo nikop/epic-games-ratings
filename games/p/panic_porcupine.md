@@ -18,7 +18,7 @@
 | Egg Hunt | 0.00% | ~0 |
 | Over Easy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 942)  
+Progressed: 4 (Ranked 943)  
 Completed: 1 (25.00%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |

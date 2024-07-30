@@ -174,6 +174,13 @@ Completed: 0 (0.00%) (Ranked 515)
 | 2024-03-21 | 776 | 0 |
 | 2024-04-10 | 781 | 0 |
 | 2024-06-17 | 789 | 0 |
+## Awards
+Max (Highly Recommended): 21  (Ranked 660)  
+Sum: 21 (Ranked 663)  
+Diff (max vs sum): -3  
+| Award | Count |
+| ----- | ----- |
+| This game is Highly Recommended | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -204,3 +211,4 @@ Completed: 0 (0.00%) (Ranked 515)
 | 2024-07-26 | 4.31 | 0 | 0 |
 | 2024-07-27 | 4.34 | 0 | 0 |
 | 2024-07-29 | 4.35 | 0 | 0 |
+| 2024-07-30 | 4.34 | 21 | 21 |

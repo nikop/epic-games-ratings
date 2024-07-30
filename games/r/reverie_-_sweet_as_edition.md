@@ -40,7 +40,7 @@
 | Wind it Up! | 20.00% | ~1 |
 | Mr Millan, I Presume? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 933)  
+Progressed: 5 (Ranked 934)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

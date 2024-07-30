@@ -1,7 +1,7 @@
 # Black Skylands
 [Store](https://store.epicgames.com/en-US/p/black-skylands)  
 [View Rawdata](../../db/b/black_skylands.json)  
-Rating: 4.65 (Ranked 341)  
+Rating: 4.67 (Ranked 299)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -10,3 +10,4 @@ Rating: 4.65 (Ranked 341)
 | 2024-01-07 | 4.62 | 0 | 0 |
 | 2024-01-23 | 4.64 | 0 | 0 |
 | 2024-03-31 | 4.65 | 0 | 0 |
+| 2024-07-30 | 4.67 | 0 | 0 |

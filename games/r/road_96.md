@@ -1,7 +1,7 @@
 # Road 96
 [Store](https://store.epicgames.com/en-US/p/road-96)  
 [View Rawdata](../../db/r/road_96.json)  
-Rating: 4.67 (Ranked 299)  
+Rating: 4.66 (Ranked 321)  
 Number of Ratings: 86  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,7 @@ Number of Ratings: 86  (23.09.2022)
 | Road Pals | 0.00% | ~0 |
 | Stone After Stone | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 973)  
+Progressed: 2 (Ranked 974)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,3 +99,4 @@ Completed: 0 (0.00%) (Ranked 515)
 | 2024-06-21 | 4.67 | - | 0 | 0 |
 | 2024-07-25 | 4.66 | - | 0 | 0 |
 | 2024-07-27 | 4.67 | - | 0 | 0 |
+| 2024-07-30 | 4.66 | - | 0 | 0 |
