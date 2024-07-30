@@ -2,7 +2,7 @@
   "ID": "cb47b6d16fc54e418e11560bee52ad89",
   "Name": "Mars Horizon",
   "ProductSlug": "mars-horizon",
-  "Ranking_Rating": 755,
+  "Ranking_Rating": 726,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1107,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.47,
   "NumberOfRatings": 23,
   "RatingHistory": [
     {
@@ -152,6 +152,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-30T05:58:49.3185817+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -170,8 +176,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:11.8890677+00:00",
   "FirstSeenRating": "2022-09-07T14:30:49.2420338+00:00",
-  "LastChanged": "2024-07-05T16:59:58.2831744+00:00",
+  "LastChanged": "2024-07-30T05:58:49.3185815+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:59:00.7901763+00:00",
-  "LastUpdate_Ratings": "2024-07-30T03:59:30.4081105+00:00",
+  "LastUpdate_Ratings": "2024-07-30T05:58:49.3185824+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:43.0849798+00:00"
 }
