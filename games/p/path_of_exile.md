@@ -1,21 +1,21 @@
 # Path of Exile
 [Store](https://store.epicgames.com/en-US/p/path-of-exile)  
 [View Rawdata](../../db/p/path_of_exile.json)  
-Rating: 4.62 (Ranked 403)  
+Rating: 4.62 (Ranked 404)  
 Number of Ratings: 3,102  (23.09.2022)  
 ## Awards
-Max (Character Customization): 3,084  (Ranked 113)  
-Sum: 10,935 (Ranked 111)  
+Max (Character Customization): 3,090  (Ranked 113)  
+Sum: 10,952 (Ranked 111)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 3,084 |
-| This game has Great Boss Battles | 2,623 |
+| This game has Inclusive Character Customization | 3,090 |
+| This game has Great Boss Battles | 2,632 |
 | This game has Diverse Characters | 948 |
 | This game has Challenging Combat | 797 |
 | This game is Highly Recommended | 761 |
+| This game has Amazing Storytelling | 691 |
 | This game is Extremely Fun | 690 |
-| This game has Amazing Storytelling | 689 |
 | This game has Amazing Characters | 683 |
 | This game has Unique Visuals | 660 |
 | This game has Obsessive Gameplay | 481 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 2
 | 2024-07-27 | 4.62 | - | 3,064 | 10,834 |
 | 2024-07-28 | 4.62 | - | 3,075 | 10,881 |
 | 2024-07-29 | 4.62 | - | 3,084 | 10,920 |
-| 2024-07-30 | 4.62 | - | 3,084 | 10,935 |
+| 2024-07-30 | 4.62 | - | 3,090 | 10,952 |

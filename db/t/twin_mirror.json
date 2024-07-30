@@ -3,8 +3,8 @@
   "Name": "Twin Mirror",
   "ProductSlug": "twin-mirror",
   "Ranking_Rating": 1004,
-  "Ranking_Popularity": 678,
-  "Ranking_PopularitySum": 678,
+  "Ranking_Popularity": 679,
+  "Ranking_PopularitySum": 679,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -186,6 +186,6 @@
   "FirstSeen": "2022-07-22T20:21:33.1438666+00:00",
   "LastChanged": "2024-07-27T19:57:03.1186121+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:16.7115471+00:00",
-  "LastUpdate_Ratings": "2024-07-30T18:59:32.4169407+00:00",
+  "LastUpdate_Ratings": "2024-07-30T20:58:04.5586786+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:17.3550031+00:00"
 }
