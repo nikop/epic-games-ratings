@@ -71,7 +71,7 @@ Rating: 4.64 (Ranked 369)
 | Limerence | 0.30% | ~62 |
 | I Aced It Without Even Trying! | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,784 (Ranked 190)  
+Progressed: 20,784 (Ranked 191)  
 Completed: 409 (1.97%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |

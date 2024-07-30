@@ -67,7 +67,7 @@ Rating: 4.34 (Ranked 941)
 | Hotel Transylvania | 0.10% | ~0 |
 | Not a second class murder | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,127 (Ranked 296)  
+Progressed: 3,127 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -62,7 +62,7 @@ Number of Ratings: 1,305  (23.09.2022)
 | Mpemba Effect | 0.30% | ~33 |
 | Ladies' man | 0.30% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,016 (Ranked 225)  
+Progressed: 11,016 (Ranked 226)  
 Completed: 3 (0.03%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |

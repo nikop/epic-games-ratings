@@ -55,7 +55,7 @@
 | The Scribe | 0.00% | ~0 |
 | Desecration | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 655)  
+Progressed: 88 (Ranked 656)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

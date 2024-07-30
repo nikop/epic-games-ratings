@@ -2,10 +2,10 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 686,
+  "Ranking_EOS_Progress": 688,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -519,6 +519,6 @@
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:50.6868752+00:00",
   "LastUpdate_AppInfo": "2024-07-25T20:57:04.7613848+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:36.8817432+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:58:17.3079898+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:50.6868904+00:00"
 }

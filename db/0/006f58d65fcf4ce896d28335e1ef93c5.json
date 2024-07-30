@@ -2,10 +2,10 @@
   "ID": "006f58d65fcf4ce896d28335e1ef93c5",
   "Name": "Solo Path",
   "ProductSlug": "solo-path-1cf396",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-08-09T00:00:00+00:00",
     "PcReleaseDate": "2024-08-09T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-24T14:57:17.8337249+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:58:21.5685487+00:00"
+  "LastUpdate_Ratings": "2024-07-30T00:00:27.5984837+00:00"
 }

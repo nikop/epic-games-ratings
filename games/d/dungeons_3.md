@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | I love the smell of Catapult fire! | 2.00% | ~1,194 |
 | Sacrifices! | 2.00% | ~1,194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,695 (Ranked 152)  
+Progressed: 59,695 (Ranked 154)  
 Completed: 459 (0.77%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |

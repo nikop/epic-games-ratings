@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Pioneer | 24.00% | ~22 |
 | Collector | 7.00% | ~6 |
+| Firefighter | 7.00% | ~6 |
 | St. Martin | 7.00% | ~6 |
-| Firefighter | 5.00% | ~5 |
 | Summoner | 4.00% | ~4 |
 | Bad knight | 4.00% | ~4 |
 | Invisible encounter | 3.00% | ~3 |
@@ -21,7 +21,7 @@
 | Runner | 1.00% | ~1 |
 | Legendary knight | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 647)  
+Progressed: 92 (Ranked 649)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

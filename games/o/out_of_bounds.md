@@ -37,7 +37,7 @@
 | Damn, I'm GOOD! | 9.00% | ~3 |
 | Just in time! | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 773)  
+Progressed: 33 (Ranked 774)  
 Completed: 3 (9.09%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "3e2c28241611405aa231308a39bee638",
   "Name": "Delta Force: Hawk Ops",
   "ProductSlug": "delta-force-acea48",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T22:57:12.2137889+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:58:21.0545151+00:00",
+  "LastUpdate_Ratings": "2024-07-30T00:00:26.9938559+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:12.2273065+00:00"
 }

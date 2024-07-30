@@ -2,10 +2,10 @@
   "ID": "a79dc86babfd4136a6f788bf54d23308",
   "Name": "The Black Pool",
   "ProductSlug": "the-black-pool-ce55b8",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-19T17:00:00+00:00",
     "PcReleaseDate": "2024-07-19T17:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T17:57:04.0712011+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:09.1180013+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:57:44.7639327+00:00"
 }

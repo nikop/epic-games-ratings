@@ -56,7 +56,7 @@ Rating: 3.85 (Ranked 1,210)
 | All Sorts of Fun | 0.90% | ~31 |
 | The Reaper | 0.60% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,434 (Ranked 287)  
+Progressed: 3,434 (Ranked 288)  
 Completed: 2 (0.06%) (Ranked 430)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,15 +65,15 @@ Completed: 2 (0.06%) (Ranked 430)
 | 2024-06-17 | 3,434 | 2 |
 ## Awards
 Max (Great Boss Battles): 1,703  (Ranked 148)  
-Sum: 2,623 (Ranked 223)  
+Sum: 2,636 (Ranked 223)  
 Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,703 |
+| This game has Diverse Characters | 145 |
 | This game is Extremely Fun | 140 |
 | This game is Great for Beginners | 136 |
 | This game is Highly Recommended | 133 |
-| This game has Diverse Characters | 132 |
 | This game has Quickly Understood Controls | 130 |
 | This game has Amazing Characters | 130 |
 | This game has Amazing Storytelling | 119 |
@@ -188,4 +188,4 @@ Diff (max vs sum): -75
 | 2024-07-26 | 3.88 | 1,418 | 2,030 |
 | 2024-07-27 | 3.88 | 1,521 | 2,185 |
 | 2024-07-28 | 3.87 | 1,634 | 2,496 |
-| 2024-07-29 | 3.86 | 1,703 | 2,623 |
+| 2024-07-29 | 3.86 | 1,703 | 2,636 |

@@ -2,10 +2,10 @@
   "ID": "62604a9708a14eed8b10b31ebd2056d7",
   "Name": "Lunar Lander Beyond",
   "ProductSlug": "lunar-lander-beyond-30b7a0",
-  "Ranking_EOS_Progress": 906,
+  "Ranking_EOS_Progress": 909,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-04-23T04:00:00+00:00",
     "PcReleaseDate": "2024-04-23T04:00:00+00:00",
@@ -266,6 +266,6 @@
   "FirstSeenAchievements": "2024-03-21T17:05:27.500672+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:28.7957217+00:00",
   "LastUpdate_AppInfo": "2024-07-26T01:55:30.0586569+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:13.7262141+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:50.0961407+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:28.7957394+00:00"
 }

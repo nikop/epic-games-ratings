@@ -84,7 +84,7 @@ Rating: 4.56 (Ranked 546)
 | A Trusted Friend in Donuts | 0.00% | ~0 |
 | What? No Frosting? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 915)  
+Progressed: 6 (Ranked 918)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

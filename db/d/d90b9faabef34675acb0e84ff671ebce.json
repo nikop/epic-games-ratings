@@ -2,10 +2,10 @@
   "ID": "d90b9faabef34675acb0e84ff671ebce",
   "Name": "Sift Heads Cartels",
   "ProductSlug": "sift-heads-cartels-41cda5",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-06-20T18:00:00+00:00",
     "PcReleaseDate": "2024-06-20T18:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T10:58:55.4929045+00:00",
   "LastUpdate_AppInfo": "2024-07-23T08:57:14.5220363+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:57.2274007+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:30.7603757+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:02:08.3680397+00:00"
 }

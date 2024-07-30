@@ -2,10 +2,10 @@
   "ID": "17fd3ea945ad482190387b6b55b42633",
   "Name": "Hero of the Kingdom",
   "ProductSlug": "hero-of-the-kingdom-3a4529",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 789,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-19T16:00:00+00:00",
     "PcReleaseDate": "2012-12-20T17:00:00+00:00",
@@ -25,17 +25,339 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 30,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-07-30T00:02:20.9577689+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-07-30T00:02:20.9577851+00:00",
+  "TotalAchievements": 38,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "H1071",
+      "SetID": "8g7dcga",
+      "Name": "Prosperous",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "H1072",
+      "SetID": "8g7dcga",
+      "Name": "Wealthy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H1073",
+      "SetID": "8g7dcga",
+      "Name": "Well-known",
+      "Percentage": 27,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "H1074",
+      "SetID": "8g7dcga",
+      "Name": "Renowned",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "H1075",
+      "SetID": "8g7dcga",
+      "Name": "Gifted",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "H1076",
+      "SetID": "8g7dcga",
+      "Name": "Expert",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "H1077",
+      "SetID": "8g7dcga",
+      "Name": "Skilled",
+      "Percentage": 57,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "H1078",
+      "SetID": "8g7dcga",
+      "Name": "Camper",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H1079",
+      "SetID": "8g7dcga",
+      "Name": "Ready",
+      "Percentage": 83,
+      "XP": 10,
+      "UsersEstimate": 25
+    },
+    {
+      "ID": "H107B",
+      "SetID": "8g7dcga",
+      "Name": "Diligent",
+      "Percentage": 77,
+      "XP": 10,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "H107F",
+      "SetID": "8g7dcga",
+      "Name": "Adventurer",
+      "Percentage": 77,
+      "XP": 10,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "H1081",
+      "SetID": "8g7dcga",
+      "Name": "Smart",
+      "Percentage": 77,
+      "XP": 10,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "H1083",
+      "SetID": "8g7dcga",
+      "Name": "Healer",
+      "Percentage": 17,
+      "XP": 20,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "H1084",
+      "SetID": "8g7dcga",
+      "Name": "Herbalist",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "H1085",
+      "SetID": "8g7dcga",
+      "Name": "Medicaster",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H1086",
+      "SetID": "8g7dcga",
+      "Name": "Alchemist",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H1088",
+      "SetID": "8g7dcga",
+      "Name": "Armed",
+      "Percentage": 57,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "H1089",
+      "SetID": "8g7dcga",
+      "Name": "Helpful",
+      "Percentage": 57,
+      "XP": 10,
+      "UsersEstimate": 17
+    },
+    {
+      "ID": "H108C",
+      "SetID": "8g7dcga",
+      "Name": "Boater",
+      "Percentage": 23,
+      "XP": 20,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "H108D",
+      "SetID": "8g7dcga",
+      "Name": "Brave",
+      "Percentage": 17,
+      "XP": 50,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "H108E",
+      "SetID": "8g7dcga",
+      "Name": "Soldier",
+      "Percentage": 27,
+      "XP": 30,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "H108F",
+      "SetID": "8g7dcga",
+      "Name": "Hero",
+      "Percentage": 7,
+      "XP": 100,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "H1090",
+      "SetID": "8g7dcga",
+      "Name": "Warrior",
+      "Percentage": 7,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "H1091",
+      "SetID": "8g7dcga",
+      "Name": "Builder",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "H1092",
+      "SetID": "8g7dcga",
+      "Name": "Lucky",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H1093",
+      "SetID": "8g7dcga",
+      "Name": "Searcher",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "H1094",
+      "SetID": "8g7dcga",
+      "Name": "Scout",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H1096",
+      "SetID": "8g7dcga",
+      "Name": "Egg-hunter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H1098",
+      "SetID": "8g7dcga",
+      "Name": "Mushroom-picker",
+      "Percentage": 27,
+      "XP": 20,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "H1099",
+      "SetID": "8g7dcga",
+      "Name": "Sharp-eyed",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H109A",
+      "SetID": "8g7dcga",
+      "Name": "Crayfish-hunter",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "H109D",
+      "SetID": "8g7dcga",
+      "Name": "Diver",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H109F",
+      "SetID": "8g7dcga",
+      "Name": "Waterman",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H10A1",
+      "SetID": "8g7dcga",
+      "Name": "Fisherman",
+      "Percentage": 7,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "H10A2",
+      "SetID": "8g7dcga",
+      "Name": "Master fisherman",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H10A5",
+      "SetID": "8g7dcga",
+      "Name": "Hunter",
+      "Percentage": 17,
+      "XP": 20,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "H10A7",
+      "SetID": "8g7dcga",
+      "Name": "Master hunter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "H10A8",
+      "SetID": "8g7dcga",
+      "Name": "Mysterious",
+      "Percentage": 3,
+      "XP": 30,
+      "UsersEstimate": 1
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "8g7dcga",
+      "IsBase": true,
+      "Progressed": 30,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-07-24T13:59:40.5569974+00:00",
+  "FirstSeenAchievements": "2024-07-30T00:02:20.9577851+00:00",
+  "LastChanged_Achievements": "2024-07-30T00:02:20.9577679+00:00",
   "LastUpdate_AppInfo": "2024-07-26T09:57:18.9536046+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:57:43.2650605+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:59:43.5170065+00:00",
+  "LastUpdate_Achievements": "2024-07-30T00:02:20.9589109+00:00"
 }

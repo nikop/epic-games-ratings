@@ -49,7 +49,7 @@ Rating: 4.61 (Ranked 431)
 | Splish-Splash | 0.10% | ~3 |
 | Archi-Pal-igo Aficionado | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,761 (Ranked 226)  
+Progressed: 10,761 (Ranked 227)  
 Completed: 3 (0.03%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,9 +210,9 @@ Completed: 3 (0.03%) (Ranked 455)
 | 2024-04-10 | 10,096 | 1 |
 | 2024-06-17 | 10,761 | 3 |
 ## Awards
-Max (Character Customization): 33  (Ranked 598)  
+Max (Character Customization): 33  (Ranked 599)  
 Sum: 33 (Ranked 632)  
-Diff (max vs sum): -34  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 33 |

@@ -2,10 +2,10 @@
   "ID": "be715805f0dd4c63b83491a84413cf81",
   "Name": "Ivorfall",
   "ProductSlug": "ivorfall-5a38c0",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-05-10T06:00:00+00:00",
     "PcReleaseDate": "2024-04-24T18:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-20T03:59:55.8356946+00:00",
   "LastUpdate_AppInfo": "2024-07-24T09:57:14.0313831+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:57:29.2888642+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:59:27.234863+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:05:50.5577021+00:00"
 }

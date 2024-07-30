@@ -2,10 +2,10 @@
   "ID": "2c01f88a21d94b10846433931e3fb628",
   "Name": "Command \u0026 Conquer\u2122 Remastered Collection",
   "ProductSlug": "command-and-conquer-remastered-e107f6",
-  "Ranking_EOS_Progress": 783,
+  "Ranking_EOS_Progress": 784,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-06-06T20:00:00+00:00",
     "PcReleaseDate": "2020-06-05T08:00:00+00:00",
@@ -315,6 +315,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:34.5706881+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:34.5706864+00:00",
   "LastUpdate_AppInfo": "2024-07-25T23:57:07.2620205+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:39.3139502+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:09.5517528+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:34.5712302+00:00"
 }

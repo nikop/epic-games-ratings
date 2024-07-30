@@ -2,10 +2,10 @@
   "ID": "59069ba54f7843a6934c9123a9061816",
   "Name": "The Saboteur\u2122",
   "ProductSlug": "the-saboteur-germany-7107c2",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-11T20:00:00+00:00",
     "PcReleaseDate": "2024-03-07T06:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T21:56:57.9531154+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:35.5974955+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:58:15.7681151+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:49.3033177+00:00"
 }

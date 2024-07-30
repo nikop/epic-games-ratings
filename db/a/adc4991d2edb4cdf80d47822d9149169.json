@@ -2,10 +2,10 @@
   "ID": "adc4991d2edb4cdf80d47822d9149169",
   "Name": "Touch the Color",
   "ProductSlug": "touch-the-color-0f1d66",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-15T06:17:12.699+00:00",
     "PcReleaseDate": "2023-01-19T23:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-24T01:56:14.6909358+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:40.6644978+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:57:11.1653526+00:00"
 }

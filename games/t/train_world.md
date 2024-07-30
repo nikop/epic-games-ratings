@@ -55,7 +55,7 @@
 | Mixed Bag | 0.00% | ~0 |
 | Bullet Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83 (Ranked 670)  
+Progressed: 83 (Ranked 671)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

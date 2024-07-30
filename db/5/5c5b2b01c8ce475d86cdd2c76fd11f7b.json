@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -2375,10 +2375,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 791,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2024-07-29T23:59:05.6466866+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 792,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 791,
+  "NumberOfAwards": 792,
   "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2428,7 +2434,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game has a Creative Community",
@@ -3634,9 +3640,9 @@
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenRating": "2024-03-15T19:58:30.0365601+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged": "2024-07-28T23:59:22.9414787+00:00",
+  "LastChanged": "2024-07-29T23:59:05.6466864+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:58.5053218+00:00",
   "LastUpdate_AppInfo": "2024-07-25T09:57:00.1715081+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:00:18.433655+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:59:05.6466871+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:58.5053856+00:00"
 }

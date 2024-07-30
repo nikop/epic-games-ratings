@@ -2,10 +2,10 @@
   "ID": "sunflower",
   "Name": "Helium Rain Mod Kit",
   "ProductSlug": "helium-rain",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-29T09:57:56.3947284+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:30.5146956+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:56:59.4190155+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:03:10.0103898+00:00"
 }

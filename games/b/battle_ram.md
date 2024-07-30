@@ -28,7 +28,7 @@
 | Senior warrant officer Baran 2nd class | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 318 (Ranked 505)  
-Completed: 15 (4.72%) (Ranked 118)  
+Completed: 15 (4.72%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

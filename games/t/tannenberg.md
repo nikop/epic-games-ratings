@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,409 |
 | Road to Berlin | 0.70% | ~1,096 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,564 (Ranked 102)  
+Progressed: 156,564 (Ranked 103)  
 Completed: 28 (0.02%) (Ranked 475)  
 ## EOS Players History
 | Date | Progressed | Completed |

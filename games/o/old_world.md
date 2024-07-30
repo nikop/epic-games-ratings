@@ -373,7 +373,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hardcore | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,981 (Ranked 195)  
+Progressed: 19,981 (Ranked 196)  
 Completed: 7 (0.04%) (Ranked 448)  
 ## EOS Players History
 | Date | Progressed | Completed |

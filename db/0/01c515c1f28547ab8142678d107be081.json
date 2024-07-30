@@ -2,10 +2,10 @@
   "ID": "01c515c1f28547ab8142678d107be081",
   "Name": "Dreadful River",
   "ProductSlug": "dreadful-river-21e04b",
-  "Ranking_EOS_Progress": 810,
+  "Ranking_EOS_Progress": 815,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-03-19T23:00:00+00:00",
     "PcReleaseDate": "2023-02-28T11:00:00+00:00",
@@ -944,6 +944,6 @@
   "FirstSeenAchievements": "2024-03-21T17:05:29.2028406+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:46.5955537+00:00",
   "LastUpdate_AppInfo": "2024-07-23T03:58:00.264192+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:01.8705558+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:36.2451801+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:46.5956699+00:00"
 }

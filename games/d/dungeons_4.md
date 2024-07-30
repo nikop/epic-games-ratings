@@ -67,7 +67,7 @@ Rating: 4.65 (Ranked 341)
 | I Don't Need Any Help | 14.00% | ~135 |
 | No Mana, No Cry | 13.00% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 965 (Ranked 390)  
+Progressed: 965 (Ranked 391)  
 Completed: 58 (6.01%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |

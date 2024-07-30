@@ -2,10 +2,10 @@
   "ID": "8fb3b92706e84e07ad8b2804599b6677",
   "Name": "Departed Away",
   "ProductSlug": "departed-away-2d2dd0",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-01-29T04:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-07-24T02:01:28.3956143+00:00",
   "LastChanged_Achievements": "2024-07-24T02:01:28.3956089+00:00",
   "LastUpdate_AppInfo": "2024-07-28T17:57:21.1568606+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:02.5420502+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:37.0515675+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:01:28.3956161+00:00"
 }

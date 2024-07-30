@@ -36,8 +36,8 @@ Number of Ratings: 276  (23.09.2022)
 | WIZARD MODE | 0.50% | ~51 |
 | You Say Homonculus, I Say Homonculi | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,164 (Ranked 227)  
-Completed: 12 (0.12%) (Ranked 389)  
+Progressed: 10,164 (Ranked 228)  
+Completed: 12 (0.12%) (Ranked 390)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

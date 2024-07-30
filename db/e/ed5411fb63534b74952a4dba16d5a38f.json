@@ -2,10 +2,10 @@
   "ID": "ed5411fb63534b74952a4dba16d5a38f",
   "Name": "Hero of the Kingdom II",
   "ProductSlug": "hero-of-the-kingdom-ii-25339b",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-08-05T11:00:00+00:00",
     "PcReleaseDate": "2015-02-20T17:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T09:57:18.3773438+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:57:41.94243+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:59:41.9677396+00:00"
 }

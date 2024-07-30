@@ -2,10 +2,10 @@
   "ID": "156c17659ff0468bb533eba104a1f19f",
   "Name": "Sker Ritual",
   "ProductSlug": "sker-ritual-aac702",
-  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Progress": 662,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-18T17:00:00+00:00",
     "PcReleaseDate": "2024-04-18T12:00:00+00:00",
@@ -421,6 +421,6 @@
   "FirstSeenAchievements": "2024-07-25T19:03:06.8377887+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:06.8377856+00:00",
   "LastUpdate_AppInfo": "2024-07-25T17:57:05.8078164+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:00:14.2147563+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:59:00.8051013+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:06.8388321+00:00"
 }

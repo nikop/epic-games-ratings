@@ -1,7 +1,7 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.53 (Ranked 613)  
+Rating: 4.55 (Ranked 568)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,7 +31,7 @@ Rating: 4.53 (Ranked 613)
 | Dreamboat | 1.00% | ~13 |
 | Bond Lord | 0.20% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,252 (Ranked 369)  
+Progressed: 1,252 (Ranked 371)  
 Completed: 4 (0.32%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,3 +188,4 @@ Completed: 4 (0.32%) (Ranked 325)
 | 2024-06-02 | 4.61 | 0 | 0 |
 | 2024-07-09 | 4.60 | 0 | 0 |
 | 2024-07-24 | 4.53 | 0 | 0 |
+| 2024-07-29 | 4.55 | 0 | 0 |

@@ -2,10 +2,10 @@
   "ID": "4ee1c06e76884f3b99af95fa347f9c36",
   "Name": "Sammy Jukes: Twin Lakes",
   "ProductSlug": "sammy-jukes-twin-lakes-4a4fb9",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-09-19T00:00:00+00:00",
     "PcReleaseDate": "2024-09-19T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-28T06:57:08.8011115+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:45.5502202+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:57:16.9577103+00:00"
 }

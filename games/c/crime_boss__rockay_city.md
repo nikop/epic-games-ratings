@@ -47,7 +47,7 @@ Rating: 3.98 (Ranked 1,184)
 | Red Star | 0.10% | ~104 |
 | Geek Out | 0.10% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103,845 (Ranked 122)  
+Progressed: 103,845 (Ranked 123)  
 Completed: 66 (0.06%) (Ranked 430)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 66 (0.06%) (Ranked 430)
 | 2024-06-17 | 103,845 | 66 |
 ## Awards
 Max (Diverse Characters): 872  (Ranked 205)  
-Sum: 4,876 (Ranked 169)  
+Sum: 4,880 (Ranked 169)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): 36
 | This game has Amazing Storytelling | 808 |
 | This game is Highly Recommended | 808 |
 | This game has Quickly Understood Controls | 805 |
-| This game has Amazing Characters | 792 |
+| This game has Amazing Characters | 796 |
 | This game is Extremely Fun | 791 |
 | This game has Challenging Combat | 514 |
 | This game is Great for Quick Sessions | 70 |
@@ -824,4 +824,4 @@ Diff (max vs sum): 36
 | 2024-07-26 | 3.98 | 863 | 4,852 |
 | 2024-07-27 | 3.98 | 868 | 4,864 |
 | 2024-07-28 | 3.98 | 870 | 4,868 |
-| 2024-07-29 | 3.98 | 872 | 4,876 |
+| 2024-07-29 | 3.98 | 872 | 4,880 |

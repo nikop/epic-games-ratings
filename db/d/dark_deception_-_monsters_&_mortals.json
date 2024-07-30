@@ -2,10 +2,10 @@
   "ID": "2f05d28a79224f11862217735899c442",
   "Name": "Dark Deception - Monsters \u0026 Mortals",
   "ProductSlug": "dark-deception-monsters-and-mortals-e81e50",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-06-28T16:00:00+00:00",
     "PcReleaseDate": "2023-06-28T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.9823113+00:00",
   "LastChanged": "2023-03-31T05:57:20.9823114+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:33.110028+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:16.0445361+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:52.8629374+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:48.5235741+00:00"
 }

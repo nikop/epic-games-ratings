@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 629)
 | What's Mine is Yours | 0.10% | ~151 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,060 (Ranked 104)  
+Progressed: 151,060 (Ranked 105)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

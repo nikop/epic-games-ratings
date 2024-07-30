@@ -4,11 +4,11 @@
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 977,
   "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 439,
+  "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1586,10 +1586,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 331,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-07-29T23:58:53.0382266+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 332,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 331,
+  "NumberOfAwards": 332,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1615,7 +1621,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Easy Combat",
@@ -34601,9 +34607,9 @@
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2024-07-29T20:58:20.8541158+00:00",
+  "LastChanged": "2024-07-29T23:58:53.0382264+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:50.033867+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:55.6086766+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:00:07.7099009+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:58:53.038227+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:50.0340786+00:00"
 }

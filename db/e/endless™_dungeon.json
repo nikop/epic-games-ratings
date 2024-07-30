@@ -2,10 +2,10 @@
   "ID": "4193c9fd2f41405f813f828cce02d132",
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 16,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2044,
+  "EOS_Progressed": 2048,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3850,6 +3850,11 @@
       "Time": "2024-07-25T19:05:02.7390694+00:00",
       "NumProgressed": 2044,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T00:07:01.8439023+00:00",
+      "NumProgressed": 2048,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3894,7 +3899,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3910,7 +3915,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -3918,7 +3923,7 @@
       "Name": "Pest Control",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3926,7 +3931,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -3942,7 +3947,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1372
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3950,7 +3955,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3958,7 +3963,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 840
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3966,7 +3971,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -3974,7 +3979,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -4006,7 +4011,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -4038,7 +4043,7 @@
       "Name": "Long Live Rock",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -4070,7 +4075,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -4101,14 +4106,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 2044,
+      "Progressed": 2048,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:05:02.7390689+00:00",
+  "LastChanged_Achievements": "2024-07-30T00:07:01.8439019+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:52.7637146+00:00",
   "LastUpdate_Ratings": "2024-07-29T22:58:52.0705036+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:05:02.7391012+00:00"
+  "LastUpdate_Achievements": "2024-07-30T00:07:01.8439372+00:00"
 }

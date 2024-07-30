@@ -2,10 +2,10 @@
   "ID": "796819dc95244ad3b421b64b4a93df9a",
   "Name": "Cycles",
   "ProductSlug": "cycles-7243b0",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-06-25T13:00:00+00:00",
     "PcReleaseDate": "2024-06-25T13:00:00+00:00",
@@ -46,6 +46,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:42.5054771+00:00",
   "LastChanged_Achievements": "2024-07-25T19:01:53.7802101+00:00",
   "LastUpdate_AppInfo": "2024-07-24T19:57:05.6936353+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:31.4386881+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:00.5195466+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:53.7803738+00:00"
 }

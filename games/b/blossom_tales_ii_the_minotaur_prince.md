@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shiny New Weapons | 47.00% | ~9 |
-| The Lawnmower Lady | 26.00% | ~5 |
-| Completely Hooked | 16.00% | ~3 |
-| Money Bags | 16.00% | ~3 |
-| Lily: Warrior Princess | 16.00% | ~3 |
-| Key Piece I | 11.00% | ~2 |
-| Fruitful Offerings | 11.00% | ~2 |
-| Nice Display | 11.00% | ~2 |
-| Key Piece II | 11.00% | ~2 |
-| The Hero | 11.00% | ~2 |
-| Not All Who Wander | 5.00% | ~1 |
-| Walking Cookbook | 5.00% | ~1 |
-| The Musician | 5.00% | ~1 |
-| Lily Strong | 5.00% | ~1 |
-| Energy For Days | 5.00% | ~1 |
-| A Budding Business | 5.00% | ~1 |
-| Key Piece III | 5.00% | ~1 |
-| The Ultimate Weapon | 5.00% | ~1 |
-| Postmaster | 5.00% | ~1 |
-| Combat Queen | 5.00% | ~1 |
+| Shiny New Weapons | 46.00% | ~11 |
+| The Lawnmower Lady | 29.00% | ~7 |
+| Completely Hooked | 21.00% | ~5 |
+| Lily: Warrior Princess | 21.00% | ~5 |
+| Money Bags | 17.00% | ~4 |
+| Key Piece I | 13.00% | ~3 |
+| Key Piece II | 13.00% | ~3 |
+| The Musician | 8.00% | ~2 |
+| Energy For Days | 8.00% | ~2 |
+| Fruitful Offerings | 8.00% | ~2 |
+| Nice Display | 8.00% | ~2 |
+| A Budding Business | 8.00% | ~2 |
+| The Hero | 8.00% | ~2 |
+| Postmaster | 8.00% | ~2 |
+| Not All Who Wander | 4.00% | ~1 |
+| Walking Cookbook | 4.00% | ~1 |
+| Lily Strong | 4.00% | ~1 |
+| Key Piece III | 4.00% | ~1 |
+| The Ultimate Weapon | 4.00% | ~1 |
+| Combat Queen | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 824)  
-Completed: 1 (5.26%) (Ranked 106)  
+Progressed: 24 (Ranked 809)  
+Completed: 1 (4.17%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -38,6 +38,7 @@ Completed: 1 (5.26%) (Ranked 106)
 | 2023-10-01 | 13 | 1 |
 | 2024-04-10 | 14 | 1 |
 | 2024-06-17 | 19 | 1 |
+| 2024-07-30 | 24 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

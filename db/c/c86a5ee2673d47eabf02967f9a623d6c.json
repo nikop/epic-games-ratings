@@ -2,10 +2,10 @@
   "ID": "c86a5ee2673d47eabf02967f9a623d6c",
   "Name": "Juniper Burning",
   "ProductSlug": "juniper-burning-ebd793",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T01:56:01.3795917+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:29.7889675+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:56:58.554474+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:57.5497848+00:00"
 }

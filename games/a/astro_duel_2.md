@@ -36,7 +36,7 @@ Rating: 4.73 (Ranked 191)
 | Pilot Crusher | 0.10% | ~149 |
 | Deft Maneuvers | 0.10% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149,122 (Ranked 106)  
+Progressed: 149,122 (Ranked 107)  
 Completed: 5 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

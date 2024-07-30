@@ -2,10 +2,10 @@
   "ID": "407fa6baf9244d2a937ca1255f29c202",
   "Name": "Chess Knights: Viking Lands",
   "ProductSlug": "chess-knights-viking-lands-5c01d9",
-  "Ranking_EOS_Progress": 953,
+  "Ranking_EOS_Progress": 956,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-06-13T15:30:00+00:00",
     "PcReleaseDate": "2020-08-13T20:00:00+00:00",
@@ -134,6 +134,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:19.2106485+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:19.210642+00:00",
   "LastUpdate_AppInfo": "2024-07-29T22:57:11.8528791+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:48.7063792+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:58:31.0658525+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:19.2113811+00:00"
 }

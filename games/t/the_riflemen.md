@@ -20,7 +20,7 @@ Rating: 4.34 (Ranked 941)
 | Sniper Master | 0.10% | ~128 |
 | Sword Master | 0.10% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,035 (Ranked 113)  
+Progressed: 128,035 (Ranked 114)  
 Completed: 11,761 (9.19%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "40257023d2d44231ac722108f30ab717",
   "Name": "Orten Was The Case",
   "ProductSlug": "orten-was-the-case-d108fb",
-  "Ranking_EOS_Progress": 767,
-  "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_Progress": 763,
+  "Ranking_EOS_Completed": 161,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-11-29T00:00:00+00:00",
     "PcReleaseDate": "2023-11-29T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 37,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.86,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-10-30T17:05:12.224578+00:00",
@@ -174,6 +174,11 @@
       "Time": "2024-06-17T16:12:17.4746098+00:00",
       "NumProgressed": 35,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-07-30T00:03:58.3839276+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-25T12:03:08.1004675+00:00",
@@ -184,17 +189,17 @@
       "ID": "ABOTHEABOMINATION",
       "SetID": "51l0gl8",
       "Name": "Abo The Abomination",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BLOCKPARTY",
       "SetID": "51l0gl8",
       "Name": "Block Party",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FISHSCALES",
@@ -208,9 +213,9 @@
       "ID": "FLASHBACK",
       "SetID": "51l0gl8",
       "Name": "Flashback",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "GETRICHORDIETRYING",
@@ -224,7 +229,7 @@
       "ID": "HOOLABALOO",
       "SetID": "51l0gl8",
       "Name": "Hoolabaloo",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -232,17 +237,17 @@
       "ID": "HOOPDREAMS",
       "SetID": "51l0gl8",
       "Name": "Hoop Dreams",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "KINGOFTHELINE",
       "SetID": "51l0gl8",
       "Name": "King Of The Line",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LORDOFTHEFLIES",
@@ -256,9 +261,9 @@
       "ID": "MONSTERSLAYER",
       "SetID": "51l0gl8",
       "Name": "Monster Slayer",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "POSSESSED",
@@ -280,47 +285,47 @@
       "ID": "SPIDERSLAYER",
       "SetID": "51l0gl8",
       "Name": "Spider Slayer",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "THEEND",
       "SetID": "51l0gl8",
       "Name": "The End",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "THEPROPHECY",
       "SetID": "51l0gl8",
       "Name": "The Prophecy",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WINGMAN",
       "SetID": "51l0gl8",
       "Name": "Wingman",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "51l0gl8",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 37,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-03T01:50:41.1036238+00:00",
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:12:17.4746096+00:00",
+  "LastChanged_Achievements": "2024-07-30T00:03:58.3839273+00:00",
   "LastUpdate_AppInfo": "2024-07-25T06:57:08.9226739+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:00:03.1739032+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:17.4746203+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:58:47.7541607+00:00",
+  "LastUpdate_Achievements": "2024-07-30T00:03:58.383946+00:00"
 }

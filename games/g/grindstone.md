@@ -56,8 +56,8 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,300 (Ranked 257)  
-Completed: 32 (0.60%) (Ranked 277)  
+Progressed: 5,300 (Ranked 258)  
+Completed: 32 (0.60%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

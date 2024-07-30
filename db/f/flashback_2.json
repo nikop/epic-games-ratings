@@ -2,10 +2,10 @@
   "ID": "661acb27189a4b4f8e6fdc8ca44aa6ea",
   "Name": "Flashback 2",
   "ProductSlug": "flashback-2-9dc232",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-11-16T17:00:00+00:00",
@@ -28,9 +28,179 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-07-30T00:03:41.8427272+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "001",
+      "SetID": "2i864nb",
+      "Name": "Gone full circle",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "002",
+      "SetID": "2i864nb",
+      "Name": "Angry General",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "003",
+      "SetID": "2i864nb",
+      "Name": "Until the end",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "004",
+      "SetID": "2i864nb",
+      "Name": "Let it go",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "005",
+      "SetID": "2i864nb",
+      "Name": "Hasty departure",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "006",
+      "SetID": "2i864nb",
+      "Name": "Who\u0027s scared?",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "007",
+      "SetID": "2i864nb",
+      "Name": "Mr. Hart, I presume?",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "008",
+      "SetID": "2i864nb",
+      "Name": "Conjonction failed",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "009",
+      "SetID": "2i864nb",
+      "Name": "Mechanic",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "010",
+      "SetID": "2i864nb",
+      "Name": "Fearless student",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "011",
+      "SetID": "2i864nb",
+      "Name": "Oops!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "012",
+      "SetID": "2i864nb",
+      "Name": "My hero!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "013",
+      "SetID": "2i864nb",
+      "Name": "Employee of the month",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "014",
+      "SetID": "2i864nb",
+      "Name": "City slicker",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "015",
+      "SetID": "2i864nb",
+      "Name": "Vigilante",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "016",
+      "SetID": "2i864nb",
+      "Name": "Time traveler",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "017",
+      "SetID": "2i864nb",
+      "Name": "Best Friend",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "018",
+      "SetID": "2i864nb",
+      "Name": "Super Driver",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "019",
+      "SetID": "2i864nb",
+      "Name": "Hyper fighting robot",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "020",
+      "SetID": "2i864nb",
+      "Name": "Driver\u0027s license",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "021",
+      "SetID": "2i864nb",
+      "Name": "State-of-the-art technology",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2i864nb",
@@ -40,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-09T14:04:04.5818441+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:11:31.2265515+00:00",
+  "LastChanged_Achievements": "2024-07-30T00:03:41.8427218+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:01.3137743+00:00",
   "LastUpdate_Ratings": "2024-07-29T22:59:26.5822567+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:31.2265533+00:00"
+  "LastUpdate_Achievements": "2024-07-30T00:03:41.843677+00:00"
 }

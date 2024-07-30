@@ -2,10 +2,10 @@
   "ID": "1d4d9a627e8548e1821d67ccb55ad146",
   "Name": "IfSunSets",
   "ProductSlug": "ifsunsets-aaed84",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-31T00:00:00+00:00",
     "PcReleaseDate": "2024-07-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-23T16:57:19.026814+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:58:14.6296109+00:00",
+  "LastUpdate_Ratings": "2024-07-30T00:00:19.5185823+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:10:10.4381968+00:00"
 }

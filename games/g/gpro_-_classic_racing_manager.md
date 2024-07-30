@@ -168,7 +168,7 @@ Rating: 3.78 (Ranked 1,226)
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 423)  
+Progressed: 649 (Ranked 424)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

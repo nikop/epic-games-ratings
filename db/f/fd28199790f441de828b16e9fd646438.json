@@ -2,10 +2,10 @@
   "ID": "fd28199790f441de828b16e9fd646438",
   "Name": "Hidden Shapes Animals",
   "ProductSlug": "hidden-shapes-animals-0fca0f",
-  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-04-18T17:00:00+00:00",
     "PcReleaseDate": "2021-04-14T17:00:00+00:00",
@@ -400,6 +400,6 @@
   "FirstSeenAchievements": "2024-04-05T15:01:38.5933324+00:00",
   "LastChanged_Achievements": "2024-07-25T19:05:15.0473382+00:00",
   "LastUpdate_AppInfo": "2024-07-25T20:57:05.1567282+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:00:18.435937+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:59:05.7075432+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:05:15.0473687+00:00"
 }

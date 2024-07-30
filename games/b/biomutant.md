@@ -53,7 +53,7 @@ Number of Ratings: 198  (23.09.2022)
 | Bugologist | 0.10% | ~2 |
 | Quack | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,052 (Ranked 331)  
+Progressed: 2,052 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "cb0f45bc17c84708bbbe08741f6ff2b8",
   "Name": "Survival: Fountain of Youth",
   "ProductSlug": "survival-fountain-of-youth-e7036f",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 743,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-05-21T16:09:04.618+00:00",
     "PcReleaseDate": "2024-05-21T08:00:00+00:00",
@@ -446,6 +446,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:18.9510663+00:00",
   "LastChanged_Achievements": "2024-06-17T16:08:18.9510639+00:00",
   "LastUpdate_AppInfo": "2024-07-23T22:57:26.8539794+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:55.7785825+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:58:39.2817743+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:18.9516748+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9b9b8d67d4ce4b7f81cd74b2fe7325c0",
   "Name": "Dark Fantasy 2: Jigsaw Puzzle",
   "ProductSlug": "dark-fantasy-2-jigsaw-puzzle-d65d41",
-  "Ranking_EOS_Progress": 552,
+  "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 23,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2023-08-11T03:00:00+00:00",
     "PcReleaseDate": "2019-05-17T02:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
-  "EOS_Completed": 80,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 41.03,
+  "EOS_Progressed": 196,
+  "EOS_Completed": 81,
+  "EOS_NewPlayers": 1,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 41.33,
   "EosHistory": [
     {
       "Time": "2023-07-26T14:02:08.2167473+00:00",
@@ -994,6 +994,11 @@
       "Time": "2024-07-25T19:04:00.0188277+00:00",
       "NumProgressed": 195,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-07-30T00:06:54.6742238+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 81
     }
   ],
   "AchievementsAdded": "2023-07-26T08:01:59.9805606+00:00",
@@ -1006,15 +1011,15 @@
       "Name": "Portrait 1",
       "Percentage": 95,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "PORTRAIT_10",
       "SetID": "g10jki",
       "Name": "Portrait 10",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "PORTRAIT_11",
@@ -1022,7 +1027,7 @@
       "Name": "Portrait 11",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "PORTRAIT_12",
@@ -1030,7 +1035,7 @@
       "Name": "Portrait 12",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "PORTRAIT_13",
@@ -1038,7 +1043,7 @@
       "Name": "Portrait 13",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "PORTRAIT_14",
@@ -1094,7 +1099,7 @@
       "Name": "Portrait 2",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "PORTRAIT_20",
@@ -1142,7 +1147,7 @@
       "Name": "Portrait 3",
       "Percentage": 72,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "PORTRAIT_4",
@@ -1150,7 +1155,7 @@
       "Name": "Portrait 4",
       "Percentage": 70,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "PORTRAIT_5",
@@ -1174,7 +1179,7 @@
       "Name": "Portrait 7",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PORTRAIT_8",
@@ -1182,29 +1187,29 @@
       "Name": "Portrait 8",
       "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PORTRAIT_9",
       "SetID": "g10jki",
       "Name": "Portrait 9",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 80,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "g10jki",
       "IsBase": true,
-      "Progressed": 195,
-      "Completed": 80
+      "Progressed": 196,
+      "Completed": 81
     }
   ],
   "FirstSeen": "2023-08-14T14:57:42.6237278+00:00",
   "FirstSeenAchievements": "2023-07-26T08:01:59.9805604+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:04:00.0188273+00:00",
+  "LastChanged_Achievements": "2024-07-30T00:06:54.6742234+00:00",
   "LastUpdate_AppInfo": "2024-07-25T18:57:00.1550303+00:00",
   "LastUpdate_Ratings": "2024-07-29T22:59:07.1572307+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:04:00.0188468+00:00"
+  "LastUpdate_Achievements": "2024-07-30T00:06:54.6742427+00:00"
 }

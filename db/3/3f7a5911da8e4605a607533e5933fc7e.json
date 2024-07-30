@@ -2,10 +2,10 @@
   "ID": "3f7a5911da8e4605a607533e5933fc7e",
   "Name": "Campfire - Cozy AI Villagers",
   "ProductSlug": "campfire-cozy-ai-villagers-df44e7",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-05-31T00:00:00+00:00",
     "PcReleaseDate": "2024-05-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T04:57:06.5199026+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:57:39.298367+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:59:38.839901+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:46.0296555+00:00"
 }

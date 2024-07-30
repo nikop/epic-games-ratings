@@ -2,10 +2,10 @@
   "ID": "6cd9529fec9145acb8898105755eef87",
   "Name": "Sid Meier\u0027s Alpha Centauri Planetary Pack",
   "ProductSlug": "sid-meiers-alpha-centauri-planetary-pack-f5abd9",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-11T20:00:00+00:00",
     "PcReleaseDate": "2024-03-07T04:30:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-25T21:56:57.7355781+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:35.3630497+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:58:15.493388+00:00"
 }

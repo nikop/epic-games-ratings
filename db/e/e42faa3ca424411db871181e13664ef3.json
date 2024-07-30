@@ -2,10 +2,10 @@
   "ID": "e42faa3ca424411db871181e13664ef3",
   "Name": "Dungeons of Hinterberg",
   "ProductSlug": "dungeons-of-hinterberg-854b1e",
-  "Ranking_EOS_Progress": 750,
+  "Ranking_EOS_Progress": 716,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 14,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-18T14:00:00+00:00",
     "PcReleaseDate": "2024-07-18T14:00:00+00:00",
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-07-25T19:01:50.3471296+00:00",
       "NumProgressed": 41,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-07-30T00:06:40.278914+00:00",
+      "NumProgressed": 52,
       "NumCompleted": 0
     }
   ],
@@ -53,33 +58,33 @@
       "ID": "DOH_ACH_ANIMALLOVER",
       "SetID": "b2o6cl8",
       "Name": "Animal Lover",
-      "Percentage": 32,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "DOH_ACH_BEGINNERSLAYER",
       "SetID": "b2o6cl8",
       "Name": "Beginner Slayer",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "DOH_ACH_BUDDIES",
       "SetID": "b2o6cl8",
       "Name": "Buddies",
-      "Percentage": 10,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "DOH_ACH_CHARMED",
       "SetID": "b2o6cl8",
       "Name": "Charmed",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "DOH_ACH_COLLECTOR",
@@ -101,9 +106,9 @@
       "ID": "DOH_ACH_DANCEOFDEATH",
       "SetID": "b2o6cl8",
       "Name": "Dance of Death",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DOH_ACH_DAZZLING",
@@ -125,17 +130,17 @@
       "ID": "DOH_ACH_DOUBLETROUBLE",
       "SetID": "b2o6cl8",
       "Name": "Double Trouble",
-      "Percentage": 44,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "DOH_ACH_EFFICIENCY",
       "SetID": "b2o6cl8",
       "Name": "Efficiency",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DOH_ACH_ENCHANTING",
@@ -165,15 +170,15 @@
       "ID": "DOH_ACH_FURRYFRIEND",
       "SetID": "b2o6cl8",
       "Name": "Furry Friend",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DOH_ACH_GENEROUSSPIRIT",
       "SetID": "b2o6cl8",
       "Name": "Generous Spirit",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -181,9 +186,9 @@
       "ID": "DOH_ACH_GROVETROVE",
       "SetID": "b2o6cl8",
       "Name": "Grove Trove",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DOH_ACH_HEARTTOHEART",
@@ -205,9 +210,9 @@
       "ID": "DOH_ACH_INTERMEDIATESLAYER",
       "SetID": "b2o6cl8",
       "Name": "Intermediate Slayer",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "DOH_ACH_INTROVERT",
@@ -221,25 +226,25 @@
       "ID": "DOH_ACH_JUSTCHILLING",
       "SetID": "b2o6cl8",
       "Name": "Just Chilling",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DOH_ACH_NIGHTOWL",
       "SetID": "b2o6cl8",
       "Name": "Night Owl",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "DOH_ACH_RELAXPERT",
       "SetID": "b2o6cl8",
       "Name": "Relaxpert",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DOH_ACH_RENOWNEDSLAYER",
@@ -253,41 +258,41 @@
       "ID": "DOH_ACH_RUNNINGONFUMES",
       "SetID": "b2o6cl8",
       "Name": "Running on Fumes",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "DOH_ACH_SHIMMERY",
       "SetID": "b2o6cl8",
       "Name": "Shimmery!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DOH_ACH_SHINY",
       "SetID": "b2o6cl8",
       "Name": "Shiny!",
-      "Percentage": 66,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 38
     },
     {
       "ID": "DOH_ACH_SLAYER",
       "SetID": "b2o6cl8",
       "Name": "Slayer",
-      "Percentage": 7,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "DOH_ACH_SOCIALBUTTERFLY",
       "SetID": "b2o6cl8",
       "Name": "Social Butterfly",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DOH_ACH_SOCIALITE",
@@ -301,25 +306,25 @@
       "ID": "DOH_ACH_SOMETHINGROTTEN",
       "SetID": "b2o6cl8",
       "Name": "Something Rotten",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DOH_ACH_SPARKLY",
       "SetID": "b2o6cl8",
       "Name": "Sparkly!",
-      "Percentage": 12,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "DOH_ACH_STILLSHAKING",
       "SetID": "b2o6cl8",
       "Name": "Still Shaking",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "DOH_ACH_TOUGHANDBUFF",
@@ -341,9 +346,9 @@
       "ID": "DOH_ACH_UNLOCKINGPOTENTIAL",
       "SetID": "b2o6cl8",
       "Name": "Unlocking Potential",
-      "Percentage": 2,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "DOH_ACH_VIRTUOSO",
@@ -357,31 +362,31 @@
       "ID": "DOH_ACH_WATERYOULOOKINGFOR",
       "SetID": "b2o6cl8",
       "Name": "Water you looking for?",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "DOH_ACH_WEAREAMUSED",
       "SetID": "b2o6cl8",
       "Name": "We Are Amused",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "b2o6cl8",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-18T22:59:01.1232972+00:00",
   "FirstSeenAchievements": "2024-07-25T19:01:50.347137+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:01:50.3471292+00:00",
+  "LastChanged_Achievements": "2024-07-30T00:06:40.2789137+00:00",
   "LastUpdate_AppInfo": "2024-07-23T10:57:13.433891+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:56.7194954+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:01:50.3479059+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:58:40.3550326+00:00",
+  "LastUpdate_Achievements": "2024-07-30T00:06:40.2789404+00:00"
 }

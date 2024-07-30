@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cheap Tricks | 23.00% | ~855 |
-| The Purpose Of Betrayal | 20.00% | ~743 |
-| Rightfully Yours | 17.00% | ~632 |
-| Like Swatting Flies | 16.00% | ~595 |
-| Moment Of Perfection | 10.00% | ~372 |
-| Balance Incarnate | 10.00% | ~372 |
-| Even While Weakened | 9.00% | ~334 |
-| Purpose Lost | 7.00% | ~260 |
-| A Scarlet Mark | 7.00% | ~260 |
-| Hot Potato | 5.00% | ~186 |
+| Cheap Tricks | 23.00% | ~860 |
+| The Purpose Of Betrayal | 20.00% | ~747 |
+| Rightfully Yours | 17.00% | ~635 |
+| Like Swatting Flies | 16.00% | ~598 |
+| Moment Of Perfection | 10.00% | ~374 |
+| Balance Incarnate | 10.00% | ~374 |
+| Even While Weakened | 9.00% | ~336 |
+| Purpose Lost | 7.00% | ~262 |
+| A Scarlet Mark | 7.00% | ~262 |
+| Hot Potato | 5.00% | ~187 |
 | Emperor's Hubris | 4.00% | ~149 |
 | Nothing To Lose | 4.00% | ~149 |
-| Dreams Of Perfection | 3.00% | ~111 |
-| Untouchable Legend | 3.00% | ~111 |
-| Loyal Companion | 2.00% | ~74 |
-| Atta Boy! | 2.00% | ~74 |
-| Not Afraid Of The Dark | 2.00% | ~74 |
-| Emperor's Education | 2.00% | ~74 |
-| Slam The Brakes! | 2.00% | ~74 |
-| Ashes Of Belief | 2.00% | ~74 |
+| Dreams Of Perfection | 3.00% | ~112 |
+| Untouchable Legend | 3.00% | ~112 |
+| Loyal Companion | 2.00% | ~75 |
+| Atta Boy! | 2.00% | ~75 |
+| Not Afraid Of The Dark | 2.00% | ~75 |
+| Emperor's Education | 2.00% | ~75 |
+| Slam The Brakes! | 2.00% | ~75 |
+| Ashes Of Belief | 2.00% | ~75 |
 | Buried Memories | 1.00% | ~37 |
-| Anything For The Throne | 0.90% | ~33 |
-| One Track Mind | 0.90% | ~33 |
+| Anything For The Throne | 0.90% | ~34 |
+| One Track Mind | 0.90% | ~34 |
 | Iron Will | 0.50% | ~19 |
 | Not On My Watch | 0.50% | ~19 |
 | Perfection Everlasting | 0.40% | ~15 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,716 (Ranked 283)  
+Progressed: 3,737 (Ranked 283)  
 Completed: -28 (-0.75%) (Ranked 4,719)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: -28 (-0.75%) (Ranked 4,719)
 | 2024-03-21 | 3,675 | -28 |
 | 2024-04-10 | 3,684 | -28 |
 | 2024-06-17 | 3,716 | -28 |
+| 2024-07-30 | 3,737 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

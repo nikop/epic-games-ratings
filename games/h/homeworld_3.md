@@ -41,7 +41,7 @@ Rating: 4.05 (Ranked 1,165)
 | Destruct Sequence Alpha-One | 1.00% | ~19 |
 | Grand Armada | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,910 (Ranked 339)  
+Progressed: 1,910 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -50,7 +50,7 @@ Number of Ratings: 721  (23.09.2022)
 | Dark Rider | 0.60% | ~41 |
 | BFA | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,757 (Ranked 248)  
+Progressed: 6,757 (Ranked 249)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

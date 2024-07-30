@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Real Musor | 0.10% | ~146 |
 | What body? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146,324 (Ranked 107)  
+Progressed: 146,324 (Ranked 108)  
 Completed: 32 (0.02%) (Ranked 475)  
 ## EOS Players History
 | Date | Progressed | Completed |

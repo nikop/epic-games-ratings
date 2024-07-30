@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | This is Sparta! | 0.10% | ~114 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114,039 (Ranked 117)  
+Progressed: 114,039 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,7 +1,7 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 589)  
+Rating: 4.54 (Ranked 590)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -42,8 +42,8 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 0.10% | ~105 |
 | Consultant | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105,296 (Ranked 121)  
-Completed: 215 (0.20%) (Ranked 356)  
+Progressed: 105,296 (Ranked 122)  
+Completed: 215 (0.20%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

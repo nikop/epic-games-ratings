@@ -2,10 +2,10 @@
   "ID": "6732880ea603405698daad12f6011d79",
   "Name": "Skybound: Only Up",
   "ProductSlug": "astralium-ee19a6",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-01T16:00:00+00:00",
     "PcReleaseDate": "2024-07-01T16:00:00+00:00",
@@ -37,5 +37,5 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T01:53:05.2244967+00:00",
   "LastUpdate_AppInfo": "2024-07-27T10:57:02.695882+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:57:27.9642272+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:59:25.6598194+00:00"
 }

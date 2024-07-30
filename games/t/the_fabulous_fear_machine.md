@@ -52,7 +52,7 @@
 | Pulp! Mister Mystery | 3.00% | ~4 |
 | Pulp! The Vault of Horror | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119 (Ranked 613)  
+Progressed: 119 (Ranked 615)  
 Completed: 1 (0.84%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |

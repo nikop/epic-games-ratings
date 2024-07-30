@@ -2,10 +2,10 @@
   "ID": "c9b51ed8ca364bfea40efb172e02cf1d",
   "Name": "Run Hero",
   "ProductSlug": "run-hero-16c891",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -85,6 +85,6 @@
   "FirstSeenAchievements": "2024-07-24T02:01:06.0321802+00:00",
   "LastChanged_Achievements": "2024-07-24T02:01:06.0311708+00:00",
   "LastUpdate_AppInfo": "2024-07-29T10:57:14.222148+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:32.314184+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:01.6020798+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:01:06.0638576+00:00"
 }

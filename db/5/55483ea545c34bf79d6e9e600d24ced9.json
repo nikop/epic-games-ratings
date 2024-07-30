@@ -2,10 +2,10 @@
   "ID": "55483ea545c34bf79d6e9e600d24ced9",
   "Name": "Ubersoldier II",
   "ProductSlug": "ubersoldier-ii-cf51e4",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-03-30T02:33:20.524+00:00",
     "PcReleaseDate": "2008-07-22T04:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-07T04:58:45.1030173+00:00",
   "LastUpdate_AppInfo": "2024-07-27T10:57:04.1694881+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:28.0244337+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:58:06.9748838+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:08:44.8034108+00:00"
 }

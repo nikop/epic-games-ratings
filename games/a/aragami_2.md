@@ -1,7 +1,7 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.54 (Ranked 589)  
+Rating: 4.54 (Ranked 590)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,8 +51,8 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~976 |
 | Legacy | 2.00% | ~976 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,808 (Ranked 162)  
-Completed: 295 (0.60%) (Ranked 277)  
+Progressed: 48,808 (Ranked 163)  
+Completed: 295 (0.60%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -27,7 +27,7 @@
 | Charlie | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 836)  
+Progressed: 16 (Ranked 838)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

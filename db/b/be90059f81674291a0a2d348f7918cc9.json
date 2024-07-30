@@ -2,10 +2,10 @@
   "ID": "be90059f81674291a0a2d348f7918cc9",
   "Name": "Revenge Of The Colon",
   "ProductSlug": "revenge-of-the-colon-c1379c",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-08-02T16:00:00+00:00",
     "PcReleaseDate": "2023-12-22T17:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-28T17:57:17.7007158+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:58:23.1979797+00:00"
+  "LastUpdate_Ratings": "2024-07-30T00:00:29.3908329+00:00"
 }

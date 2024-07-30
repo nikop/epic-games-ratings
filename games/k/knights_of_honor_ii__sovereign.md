@@ -106,7 +106,7 @@ Rating: 4.37 (Ranked 899)
 | Ragnarok | 0.00% | ~0 |
 | Two Sides to Every Story | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,351 (Ranked 317)  
+Progressed: 2,351 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

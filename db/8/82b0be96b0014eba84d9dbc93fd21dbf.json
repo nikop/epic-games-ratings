@@ -2,10 +2,10 @@
   "ID": "82b0be96b0014eba84d9dbc93fd21dbf",
   "Name": "Harvest Hunt",
   "ProductSlug": "harvest-hunt-053d6a",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-05-22T17:00:00+00:00",
     "PcReleaseDate": "2024-05-22T17:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-24T19:57:06.0153885+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:58:19.9724238+00:00",
+  "LastUpdate_Ratings": "2024-07-30T00:00:25.5935262+00:00",
   "LastUpdate_Achievements": "2024-06-25T15:01:42.1622169+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7ffc08b0c9be43d59113d0e72d95605f",
   "Name": "Roll the Dark Heart",
   "ProductSlug": "roll-the-dark-heart-9eefa0",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-07-19T22:00:00.504+00:00",
     "PcReleaseDate": "2024-07-19T22:00:00+00:00",
@@ -33,5 +33,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-28T03:56:54.0528739+00:00",
-  "LastUpdate_Ratings": "2024-07-29T22:57:23.6550925+00:00"
+  "LastUpdate_Ratings": "2024-07-29T23:59:20.6429519+00:00"
 }

@@ -57,7 +57,7 @@ Number of Ratings: 827  (23.09.2022)
 | BFA | 0.10% | ~7 |
 | Bravo Old Chap | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,249 (Ranked 243)  
+Progressed: 7,249 (Ranked 244)  
 Completed: 6 (0.08%) (Ranked 415)  
 ## EOS Players History
 | Date | Progressed | Completed |

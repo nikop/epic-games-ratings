@@ -2,10 +2,10 @@
   "ID": "862d80a2d1044d88b01104b3ebaed032",
   "Name": "God of War Ragnar\u00F6k",
   "ProductSlug": "god-of-war-ragnarok-3ca641",
-  "Ranking_EOS_Progress": 1103,
+  "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-09-19T15:00:00+00:00",
     "PcReleaseDate": "2024-09-19T15:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-07-26T04:57:05.2064162+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:58:46.9904966+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:57:18.5817843+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:02:01.9030965+00:00"
 }

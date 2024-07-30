@@ -26,8 +26,8 @@
 | Empyrean Champion | 10.00% | ~19 |
 | Master Tactician | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 190 (Ranked 555)  
-Completed: 9 (4.74%) (Ranked 117)  
+Progressed: 190 (Ranked 558)  
+Completed: 9 (4.74%) (Ranked 116)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

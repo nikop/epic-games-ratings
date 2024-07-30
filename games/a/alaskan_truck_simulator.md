@@ -35,7 +35,7 @@
 | What's Cooking? | 0.00% | ~0 |
 | Whew! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29 (Ranked 789)  
+Progressed: 29 (Ranked 791)  
 Completed: 0 (0.00%) (Ranked 515)  
 ## EOS Players History
 | Date | Progressed | Completed |

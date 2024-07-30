@@ -4,11 +4,11 @@
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 776,
   "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 324,
-  "Ranking_EOS_Progress": 155,
+  "Ranking_PopularitySum": 323,
+  "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 515,
-  "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2023-11-14T19:00:00+00:00",
     "PcReleaseDate": "2023-11-14T19:00:00+00:00",
@@ -2964,10 +2964,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 903,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2024-07-29T23:58:43.540724+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 908,
+      "NumberOfAwardsMax": 180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 903,
+  "NumberOfAwards": 908,
   "NumberOfAwardsMax": 180,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2981,7 +2987,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 174
+      "Count": 177
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2993,7 +2999,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 73
+      "Count": 75
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3236,9 +3242,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-07-29T20:58:08.6715225+00:00",
+  "LastChanged": "2024-07-29T23:58:43.5407239+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:48.6664216+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:10.0461852+00:00",
-  "LastUpdate_Ratings": "2024-07-29T21:59:59.5369837+00:00",
+  "LastUpdate_Ratings": "2024-07-29T23:58:43.5407244+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:48.6664377+00:00"
 }
