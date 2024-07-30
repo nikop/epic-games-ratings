@@ -4,7 +4,7 @@
   "ProductSlug": "death-stranding-directors-cut",
   "Ranking_Rating": 11,
   "Ranking_Popularity": 51,
-  "Ranking_PopularitySum": 74,
+  "Ranking_PopularitySum": 73,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 28,
@@ -14999,10 +14999,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 19069,
       "NumberOfAwardsMax": 10768
+    },
+    {
+      "Time": "2024-07-30T04:57:59.4391782+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 19071,
+      "NumberOfAwardsMax": 10768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19069,
+  "NumberOfAwards": 19071,
   "NumberOfAwardsMax": 10768,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -15058,7 +15064,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 604
+      "Count": 606
     },
     {
       "Text": "This game is Educational",
@@ -48145,9 +48151,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
-  "LastChanged": "2024-07-29T19:57:11.5276744+00:00",
+  "LastChanged": "2024-07-30T04:57:59.439178+00:00",
   "LastChanged_Achievements": "2024-07-09T22:06:00.6053051+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:30.2301723+00:00",
-  "LastUpdate_Ratings": "2024-07-30T02:58:52.5187724+00:00",
+  "LastUpdate_Ratings": "2024-07-30T04:57:59.4391786+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:06:00.60554+00:00"
 }
